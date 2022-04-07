@@ -1,0 +1,84 @@
+---
+site_name: Recipes
+site_description: A collection of my recipes.
+site_author: Nicholas Wilde
+site_url: https://nicholaswilde.io/recipes
+copyright: Copyright &copy; 2022 Nicholas Wilde
+dev_addr: '0.0.0.0:8000'
+
+repo_url: https://github.com/nicholaswilde/recipes
+repo_name: nicholaswilde/recipes
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Mediterranean:
+    - Harissa Olive Oil-Braised Chickpeas and Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/house
+      link: https://nicholaswilde.io/
+    - icon: fontawesome/brands/github
+      link: https://github.com/nicholaswilde
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/nicholascwilde
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/wildewoodworking/
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/nicholaswilde
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/nicholas.wilde/
+    - icon: fontawesome/brands/keybase
+      link: https://keybase.io/nicholaswilde
+    - icon: fontawesome/solid/key
+      link: https://github.com/nicholaswilde.gpg
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: nicholaswilde
+      repo: recipes
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
