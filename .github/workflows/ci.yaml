@@ -1,0 +1,24 @@
+---
+name: ci
+on:  # yamllint disable-line rule:truthy
+  push:
+    paths:
+      - 'docs/**'
+      - 'mkdocs.**'
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v3
+
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: mkdocs.yml
