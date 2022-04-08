@@ -1,0 +1,19 @@
+---
+
+version: '3'
+
+tasks:
+  serve:
+    desc: Serve an mkdocs server
+    cmds:
+      - mkdocs serve
+    silent: true
+  server:
+    desc: Serve a cook server
+    cmds:
+      - cook server
+    silent: true
+  default:
+    cmds:
+      - task -a
+    silent: true
