@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# recipes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My collection of recipes made with [cooklang][1]. Currently, I download the recipes
+using `cooklang` and then manually export and create the markdown files for `mkdocs`
+manually. Hopefully, at some point, I can make a go template converter to
+automatically generate the markdown files.
 
-## Commands
+The `cooklang` files are stored in the `cook` folder and the markdown files are stored
+in the `docs` folder.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## ​:balance_scale:​&nbsp;​ License
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+​[​Apache 2.0 License​](./LICENSE) 
+
+---
+
+## ​:pencil:​&nbsp;​ Author
+
+​This project was started in 2022 by [​Nicholas Wilde​](https://github.com/nicholaswilde/).
+
+[1]: https://cooklang.org/
