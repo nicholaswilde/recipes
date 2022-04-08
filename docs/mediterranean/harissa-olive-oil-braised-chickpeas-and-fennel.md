@@ -2,11 +2,11 @@
 
 ![](../assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png)
 
-| Serves | Total Time |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|
 | 4 to 6 | 65 minutes |
 
-## Ingredients
+## :salt: Ingredients
 
 - 2 cans chickpeas
 - some cooked couscous
@@ -21,12 +21,12 @@
 - 1 medium lemon
 - 1 cup olive oil
 
-## Cookware
+## :cooking: Cookware
 
 - 3-quart baking dish
 - aluminum foil
 
-## Method
+## :pencil: Instructions
 
 ### Step 1
 
@@ -48,6 +48,6 @@ Cover tightly with aluminum foil. Bake, stirring halfway through, until the chic
 
 Uncover and squeeze the juice from the reserved lemon half over the chickpeas and stir to combine. Let cool for 5 minutes. Taste and if you like things spicier, stir in a bit more harissa as desired. Crumble 4 ounces feta cheese over the top, sprinkle with reserved fennel fronds, and serve with crusty bread over cooked couscous, if desired.
 
-### Source
+### :link: Source
 
 - https://www.thekitchn.com/harissa-olive-oil-braised-chickpeas-fennel-recipe-23105455
