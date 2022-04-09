@@ -1,4 +1,4 @@
-# recipes
+# :green_salad: Recipes :book:
 
 My collection of recipes made with [cooklang][1]. Currently, I download the
 recipes using `cooklang` and then manually export and create the markdown
