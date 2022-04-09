@@ -31,9 +31,11 @@ theme:
 
 nav:
   - Home: index.md
+  - Italian:
+      - Eggplant Parmesan Pasta: italian/eggplant-parmesan-pasta.md
   - Mediterranean:
-    - Harissa Olive Oil-Braised Chickpeas and Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
-    - Scrambled Chickpea and Spinach Pitas: mediterranean/scrambled-chickpea-and-spinach-pitas.md
+      - Harissa Olive Oil-Braised Chickpeas and Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
+      - Scrambled Chickpea and Spinach Pitas: mediterranean/scrambled-chickpea-and-spinach-pitas.md
 extra:
   social:
     - icon: fontawesome/solid/house
