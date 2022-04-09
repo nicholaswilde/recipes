@@ -1,4 +1,4 @@
-# recipes
+# :green_salad: Recipes :open_book:
 
 My collection of recipes made with [cooklang][1].
 
