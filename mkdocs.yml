@@ -32,6 +32,7 @@ theme:
 nav:
   - Home: index.md
   - Italian:
+      - Eggplant Parm Meatballs: italian/eggplant-parm-meatballs.md
       - Eggplant Parmesan Pasta: italian/eggplant-parmesan-pasta.md
       - Ginger Sesame Vegan Meatballs: italian/ginger-sesame-vegan-meatballs.md
   - Main:
