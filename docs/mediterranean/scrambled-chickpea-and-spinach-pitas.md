@@ -8,21 +8,21 @@
 
 ## :salt: Ingredients
 
-- 2 medium bell peppers
-- 0.25 cups coconut oil
-- 2 tsp cumin
-- 1 tsp garlic powder
-- 6 pita
-- 1 tsp salt
-- 6 cups spinach
-- 2 tsp turmeric
+- :bell_pepper: 2 medium bell peppers
+- :coconut: 0.25 cups coconut oil
+- :salt: 2 tsp cumin
+- :garlic: 1 tsp garlic powder
+- :flatbread: 6 pita
+- :salt: 1 tsp salt
+- :leafy_green: 6 cups spinach
+- :salt: 2 tsp turmeric
 
 ## :cooking: Cookware
 
-- food processor
-- bowl
-- fork
-- 12-inch (or larger), high-sided skillet
+- :tropical_drink: food processor
+- :bowl_with_spoon: bowl
+- :fork_and_knife: fork
+- :stew: 12-inch (or larger), high-sided skillet
 
 ## :pencil: Instructions
 
