@@ -8,23 +8,23 @@
 
 ## :salt: Ingredients
 
-- 2 cans chickpeas
-- some cooked couscous
-- some crusty bread
-- 1 medium fennel bulb
-- 2 Tbsps fennel fronds
-- 4 ozs feta cheese
-- 3 sprigs fresh rosemary
-- 4 cloves garlic
-- 1.5 Tbsps harissa paste
-- 0.5 tsp kosher salt
-- 1 medium lemon
-- 1 cup olive oil
+- :canned_food: 2 cans chickpeas
+- :rice: some cooked couscous
+- :bread: some crusty bread
+- :garlic: 1 medium fennel bulb
+- :herb: 2 Tbsps fennel fronds
+- :cheese: 4 ozs feta cheese
+- :seedling: 3 sprigs fresh rosemary
+- :garlic: 4 cloves garlic
+- :tomato: 1.5 Tbsps harissa paste
+- :salt: 0.5 tsp kosher salt
+- :lemon: 1 medium lemon
+- :olive: 1 cup olive oil
 
 ## :cooking: Cookware
 
-- 3-quart baking dish
-- aluminum foil
+- :shallow_pan_of_food: 3-quart baking dish
+- :burrito: aluminum foil
 
 ## :pencil: Instructions
 
