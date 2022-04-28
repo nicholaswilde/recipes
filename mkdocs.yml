@@ -31,6 +31,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Desserts:
+      - Lemon Pie: desserts/lemon-pie.md
   - Italian:
       - Eggplant Parm Meatballs: italian/eggplant-parm-meatballs.md
       - Eggplant Parmesan Pasta: italian/eggplant-parmesan-pasta.md
