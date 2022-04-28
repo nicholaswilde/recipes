@@ -8,6 +8,7 @@ dev_addr: '0.0.0.0:8000'
 
 repo_url: https://github.com/nicholaswilde/recipes
 repo_name: nicholaswilde/recipes
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
