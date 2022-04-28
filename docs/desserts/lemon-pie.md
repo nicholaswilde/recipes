@@ -61,3 +61,6 @@ Just before serving, make the whipped cream topping: In a medium bowl, with a ha
 ### Step 7
 
 Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle of lemon zest, and mint sprigs.
+
+### :link: Source
+- https://magnolia.com/blog/article/12252/lemon-pie-recipe/
