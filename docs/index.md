@@ -10,7 +10,20 @@ in the `docs` folder.
 
 ## :runner: Workflow
 
-### :framed_picture: Convert webp to png
+1. Determine the category of the food.
+2. Change dir to the `./cook/<category>` or make dir.
+3. Use `cook-import` to download the recipe from a website if possible.
+4. Edit the `*.cook` file manually and compare to website.
+5. Download the image file.
+6. Convert from webp to png if required.
+7. Run `cook-docs`.
+8. Edit the `*.md` file and add emoji if needed.
+9. Copy the image to the `./docs/assets/imgaes` folder.
+10. Copy the `*.md` file to the `./docs/<category>/` folder. Make dir if needed.
+11. Add the new recipe to the `nav` section in `mkdocs.yml`.
+12. Push the changes where GitHub action will update mkdocs.
+
+### :frame_with_picture: Convert webp to png
 
 ```shell title="Installation"
 sudo apt install webp
