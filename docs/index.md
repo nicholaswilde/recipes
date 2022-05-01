@@ -8,13 +8,21 @@ converter to automatically generate the markdown files.
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
 
----
+## :runner: Workflow
+
+### :framed_picture: Convert webp to png
+
+```shell title="Installation"
+sudo apt install webp
+```
+
+```shell title="Convert"
+dwebp file.webp -o file.png
+```
 
 ## ​:scales:​&nbsp;​ License
 
 ​[​Apache 2.0 License​](./LICENSE) 
-
----
 
 ## ​:pencil:​&nbsp;​ Author
 
