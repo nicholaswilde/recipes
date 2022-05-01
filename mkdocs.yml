@@ -32,7 +32,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Asian: asian/cool-and-spicy-noodle-salad.md
+  - Asian:
+      - Cool and Spicy Noodle Salad: asian/cool-and-spicy-noodle-salad.md
   - Desserts:
       - Lemon Pie: desserts/lemon-pie.md
   - Italian:
