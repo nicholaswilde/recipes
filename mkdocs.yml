@@ -34,6 +34,8 @@ nav:
   - Home: index.md
   - Asian:
       - Cool and Spicy Noodle Salad: asian/cool-and-spicy-noodle-salad.md
+  - Breakfast:
+      - Gordon Ramsay Scrambled Eggs: breakfast/gordon-ramsay-scrambled-eggs.md
   - Desserts:
       - Lemon Pie: desserts/lemon-pie.md
       - Pineapple Upside Down Cake: desserts/pineapple-upside-down-cake.md
