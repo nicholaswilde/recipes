@@ -1,6 +1,7 @@
+<!-- markdownlint-disable-next-line no-trailing-punctuation -->
 # :green_salad: Recipes :book:
 
-My collection of recipes made with [cooklang][1]. 
+My collection of recipes made with [cooklang][1].
 
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
@@ -32,7 +33,7 @@ dwebp file.webp -o file.png
 
 ## ​:scales:​License
 
-​[Apache 2.0 License](./LICENSE) 
+​[Apache 2.0 License](./LICENSE)
 
 ## ​:pencil:​Author
 
