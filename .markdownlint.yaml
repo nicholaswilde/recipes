@@ -1,0 +1,18 @@
+---
+# https://github.com/DavidAnson/markdownlint/blob/main/schema/.markdownlint.yaml
+# MD007/ul-indent - Unordered list indentation
+MD007:
+  indent: 4
+# MD013/line-length - Line length
+MD013:
+  line_length: 120
+  code_blocks: false
+  tables: false
+# MD024/no-duplicate-heading/no-duplicate-header - Multiple headings with the same content
+MD024:
+  # Only check sibling headings
+  allow_different_nesting: true
+  # Only check sibling headings
+  siblings_only: true
+# MD046/code-block-style - Disable because of Admonitions
+MD046: false

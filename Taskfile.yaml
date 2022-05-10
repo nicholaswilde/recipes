@@ -3,6 +3,12 @@
 version: '3'
 
 tasks:
+  markdownlint:
+    desc: Run markdownlint-cli
+    cmds:
+      - >-
+        docker run --rm -it -v ${PWD}:/markdown:ro
+        06kellyjac/markdownlint-cli .
   serve:
     desc: Serve an mkdocs server
     cmds:
@@ -13,6 +19,12 @@ tasks:
     cmds:
       - cook server
     silent: true
+  yamllint:
+    desc: Run yamllint
+    cmds:
+      - >-
+        docker run --rm -it -v ${PWD}:${PWD}:ro -w ${PWD}
+        programmerassistant/yamllint yamllint .
   default:
     cmds:
       - task -a
