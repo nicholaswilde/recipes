@@ -1,6 +1,6 @@
 # Spicy Pumpkin Curry Pot Pie
 
-![](../assets/images/spicy-pumpkin-curry-pot-pie.png)
+![Spicy Pumpkin Curry Pot Pie](../assets/images/spicy-pumpkin-curry-pot-pie.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -31,19 +31,26 @@
 
 ### Step 1
 
-Preheat oven to 400°F. Sauté onion & parsnips in oil for 5 minutes. Stir in squash. Cover and cook 5 minutes. Add kale and salt, stir, cover and cook another 5 minutes or so until vegetables are tender. Add garbanzo beans, spicy pumpkin curry simmer sauce and raisins, stir to combine. Cover and reduce heat to simmer 5 minutes. Remove from heat.
+Preheat oven to 400°F. Sauté onion & parsnips in oil for 5 minutes. Stir in squash. Cover and cook 5 minutes. Add kale
+and salt, stir, cover and cook another 5 minutes or so until vegetables are tender. Add garbanzo beans, spicy pumpkin
+curry simmer sauce and raisins, stir to combine. Cover and reduce heat to simmer 5 minutes. Remove from heat.
 
 ### Step 2
 
-Remove pie crust from refrigerator. Lay crust on a clean work surface, smoothing any cracks with your hands. Grease a 9-inch pie plate with canola oil spray. Transfer simmered vegetables to pie plate. Top with pie crust, cutting three oblong vents in center of crust.
+Remove pie crust from refrigerator. Lay crust on a clean work surface, smoothing any cracks with your hands. Grease a
+9-inch pie plate with canola oil spray. Transfer simmered vegetables to pie plate. Top with pie crust, cutting three
+oblong vents in center of crust.
 
 ### Step 3
 
-Trim and seal crust edges (use a fork to crimp edges or use your hands for a more rustic look). In a small bowl, whisk egg and 1 tablespoon water. Use a pastry brush to cover crust with egg wash.
+Trim and seal crust edges (use a fork to crimp edges or use your hands for a more rustic look). In a small bowl, whisk
+egg and 1 tablespoon water. Use a pastry brush to cover crust with egg wash.
 
 ### Step 4
 
-Bake pie on center rack of oven for 30 to 35 minutes, or until crust is a deep golden brown. Remove from heat and let sit 15 minutes before serving.
+Bake pie on center rack of oven for 30 to 35 minutes, or until crust is a deep golden brown. Remove from heat and let
+sit 15 minutes before serving.
 
 ## :link: Source
-- https://www.traderjoes.com/home/recipes/spicy-pumpkin-curry-pot-pie
+
+- <https://www.traderjoes.com/home/recipes/spicy-pumpkin-curry-pot-pie>

@@ -1,6 +1,6 @@
 # Gordon Ramsay Scrambled Eggs
 
-![](../assets/images/gordon-ramsay-scrambled-eggs.jpg)
+![Gordon Ramsay Scrambled Eggs](../assets/images/gordon-ramsay-scrambled-eggs.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -37,7 +37,8 @@ Stir continuously with a rubber spatula
 
 ### Step 5
 
-After 30 seconds, take the pan off the heat. Keep stirring. After about 10 seconds, put back on the heat. Repeat for 3 minutes.
+After 30 seconds, take the pan off the heat. Keep stirring. After about 10 seconds, put back on the heat. Repeat for 3
+minutes.
 
 ### Step 6
 
@@ -48,4 +49,5 @@ In the last minute, season the eggs lightly. For extra creamy texture, stir in 1
 Plate and garnish with chopped chives.
 
 ## :link: Source
-- https://www.gordonramsayrestaurants.com/recipes/scrambled-eggs/
+
+- <https://www.gordonramsayrestaurants.com/recipes/scrambled-eggs/>

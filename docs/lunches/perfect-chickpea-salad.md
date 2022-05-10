@@ -1,6 +1,6 @@
 # Perfect Chickpea Salad
 
-![](../assets/images/perfect-chickpea-salad.jpg)
+![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -34,11 +34,13 @@ In a large bowl, mash the chickpeas with a potato masher until flaky in texture.
 
 ### Step 2
 
-Add the celery, bell pepper, pickles, hummus, mustard, dill, parsley, and lemon juice. Mix well. Sprinkle with salt and pepper, adjusting seasoning to taste.
+Add the celery, bell pepper, pickles, hummus, mustard, dill, parsley, and lemon juice. Mix well. Sprinkle with salt and
+pepper, adjusting seasoning to taste.
 
 ### Step 3
 
 Serve on toasted whole grain Ezekiel muffins, or in whole grain pita bread pockets.
 
 ## :link: Source
-- https://nutritionstudies.org/recipes/salad/perfect-chickpea-salad/
+
+- <https://nutritionstudies.org/recipes/salad/perfect-chickpea-salad/>

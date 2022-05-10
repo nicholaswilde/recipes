@@ -1,6 +1,6 @@
 # Crispy Chicken-less Sliders
 
-![](../assets/images/crispy-chicken-less-sliders.png)
+![Crispy Chicken-less Sliders](../assets/images/crispy-chicken-less-sliders.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|
@@ -49,11 +49,13 @@ Toss together the shredded iceberg lettuce, red onion and cilantro sprigs.
 
 ### Step 7
 
-On the bottom half of each roll, place a tablespoon of Incredisauce. Top each with the chicken-less tenders, iceberg/onion mixture and sliced avocado. Skewer to secure.
+On the bottom half of each roll, place a tablespoon of Incredisauce. Top each with the chicken-less tenders,
+iceberg/onion mixture and sliced avocado. Skewer to secure.
 
 ### Step 8
 
 Serve Immediately.
 
 ## :link: Source
-- https://www.traderjoes.com/home/recipes/crispy-chicken-less-sliders
+
+- <https://www.traderjoes.com/home/recipes/crispy-chicken-less-sliders>

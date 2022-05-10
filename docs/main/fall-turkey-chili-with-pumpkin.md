@@ -1,6 +1,6 @@
 # Fall Turkey Chili With Pumpkin
 
-![](../assets/images/fall-turkey-chili-with-pumpkin.png)
+![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -30,7 +30,12 @@
 
 ### Step 1
 
-In a large saucepan or stockpot, heat olive oil over medium heat. Add onions and bell peppers and sauté until onions are translucent and fragrant, about 3 to 4 minutes. Add garlic and stir for 30 seconds. Add soy crumbles and break up in pan with spoon, sautéing until soy crumbles is browned and cooked through. Stir in diced tomatoes, pumpkin, kidney beans, corn and spices. Bring to a boil, and then reduce heat and simmer 20 to 30 minutes, stirring occasionally. Garnish with sour cream, cheese, avocado and cilantro, and serve.
+In a large saucepan or stockpot, heat olive oil over medium heat. Add onions and bell peppers and sauté until onions
+are translucent and fragrant, about 3 to 4 minutes. Add garlic and stir for 30 seconds. Add soy crumbles and break up
+in pan with spoon, sautéing until soy crumbles is browned and cooked through. Stir in diced tomatoes, pumpkin, kidney
+beans, corn and spices. Bring to a boil, and then reduce heat and simmer 20 to 30 minutes, stirring occasionally.
+Garnish with sour cream, cheese, avocado and cilantro, and serve.
 
 ## :link: Source
-- https://www.traderjoes.com/home/recipes/fall-turkey-chili-with-pumpkin
+
+- <https://www.traderjoes.com/home/recipes/fall-turkey-chili-with-pumpkin>

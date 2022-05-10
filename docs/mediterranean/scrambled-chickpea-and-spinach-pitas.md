@@ -1,6 +1,6 @@
 # Scrambled Chickpea and Spinach Pitas
 
-![](../assets/images/scrambled-chickpea-and-spinach-pitas.png)
+![Scrambled Chickpea and Spinach Pitas](../assets/images/scrambled-chickpea-and-spinach-pitas.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|
@@ -59,4 +59,5 @@ toaster oven until warmed through, about 20 minutes if refrigerated or about
 30 minutes if frozen.
 
 ## :link: Source
-- https://www.thekitchn.com/recipe-scrambled-chickpea-and-spinach-pitas-234095
+
+- <https://www.thekitchn.com/recipe-scrambled-chickpea-and-spinach-pitas-234095>
