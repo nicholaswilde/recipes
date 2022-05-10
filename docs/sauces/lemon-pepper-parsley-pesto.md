@@ -1,6 +1,6 @@
 # Lemon-Pepper Parsley Pesto
 
-![](../assets/images/lemon-pepper-parsley-pesto.jpg)
+![Lemon-Pepper Parsley Pesto](../assets/images/lemon-pepper-parsley-pesto.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -27,11 +27,14 @@
 
 ### Step 1
 
-In a small food processor combine parsley and walnuts. Cover and process until finely chopped. Add garlic, lemon peel, lemon juice, salt, black pepper, and, if desired, cayenne pepper. Process until combined. Add oil; cover and process until well combined and nearly smooth, scraping sides of bowl as needed.
+In a small food processor combine parsley and walnuts. Cover and process until finely chopped. Add garlic, lemon peel,
+lemon juice, salt, black pepper, and, if desired, cayenne pepper. Process until combined. Add oil; cover and process
+until well combined and nearly smooth, scraping sides of bowl as needed.
 
 ### Step 2
 
 Use immediately or transfer pesto to a bowl and cover the surface of the pesto with plastic wrap. Chill up to 2 days.
 
 ## :link: Source
-- https://www.freshfoodbites.com/lemon-pepper-parsley-pesto/
+
+- <https://www.freshfoodbites.com/lemon-pepper-parsley-pesto/>
