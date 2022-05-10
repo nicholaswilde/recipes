@@ -3,6 +3,11 @@
 version: '3'
 
 tasks:
+  lint:
+    desc: Lint the project
+    cmds:
+      - task: markdownlint
+      - task: yamllint
   markdownlint:
     desc: Run markdownlint-cli
     cmds:
