@@ -1,0 +1,41 @@
+# Jeanie's Falafel
+
+![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg)
+
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 6 | 32 minutes |
+
+## :salt: Ingredients
+
+- 1 can garbanzo beans
+- 1 small onion
+- 2 cloves garlic
+- 1.5 Tbsps cilantro
+- 1 tsp parsley
+- 2 tsp cumin
+- 0.13 tsp turmeric
+- 0.5 tsp baking powder
+- 1 cup bread crumbs
+- 1 salt
+- 1 pepper.
+- 1 oil
+
+## :cooking: Cookware
+
+- 1 large bowl
+- 1 deep fryer
+
+## :pencil: Instructions
+
+### Step 1
+
+Mash the garbanzo beans in a large bowl. Stir in the onion, garlic, cilantro, parsley, cumin, turmeric, baking powder, bread crumbs, salt and pepper. Do not be afraid to use your hands. Shape the mixture into 1-1/2 inch balls; you should get 18 to 24. If the mixture does not hold together, add a little water.
+
+### Step 2
+
+Heat the oil in a deep fryer to 375°F (190°C). Carefully drop the balls into the hot oil, and fry until brown. If you do not have a deep fryer, heat the oil in a heavy deep skillet over medium-high heat. You may need to adjust the heat slightly after the first couple of falafels, and be sure to turn frequently so they brown evenly.
+
+## :link: Source
+
+- <https://www.allrecipes.com/recipe/83307/jeanies-falafel/>
