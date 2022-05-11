@@ -63,7 +63,8 @@ nav:
       - Scrambled Chickpea and Spinach Pitas: mediterranean/scrambled-chickpea-and-spinach-pitas.md
   - Sauces:
       - Lemon-Pepper Parsley Pesto: sauces/lemon-pepper-parsley-pesto.md
-
+  - Sides:
+      - Unexpected Cheddar Cheese Ball: sides/unexpected-cheddar-cheese-ball.md
 extra:
   social:
     - icon: fontawesome/solid/house
