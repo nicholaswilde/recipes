@@ -1,4 +1,4 @@
-# Pressure Cooker
+# :stew: Pressure Cooker
 
 Times used to cook certain foods in a Instant Pot pressure cooker.
 
