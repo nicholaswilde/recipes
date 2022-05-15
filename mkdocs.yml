@@ -14,6 +14,7 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
+    logo: fontawesome/solid/bowl-food
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
