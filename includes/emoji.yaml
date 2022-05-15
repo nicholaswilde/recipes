@@ -1,0 +1,40 @@
+---
+emoji:
+  ingredients:
+    - herb:
+        - basil
+        - parsley
+        - thyme
+        - oregano
+    - eggplant:
+        - eggplant
+    - garlic:
+        - garlic
+    - onion:
+        - onion
+    - salt:
+        - salt
+        - pepper
+    - spaghetti:
+        - spaghetti
+    - tomato:
+        - tomato
+        - marinara sauce
+    - bread:
+        - bread crumbs
+    - microbe:
+        - nutritional yeast
+    - olive:
+        - olive
+        - olive oil
+  cookware:
+    - cookie:
+        - baking sheet
+    - page_facing_up:
+        - parchment paper
+    - spoon:
+        - spatula
+    - bowl_with_spoon:
+        - large bowl
+    - shallow_pan_of_food:
+        - medium saucepan
