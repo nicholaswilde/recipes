@@ -74,6 +74,8 @@ nav:
       - America's Test Kitchen Best Baked Sweet Potatoes: sides/america's-test-kitchen-best-baked-sweet-potatoes.md
       - Unexpected Cheddar Cheese Ball: sides/unexpected-cheddar-cheese-ball.md
   - Pressure Cooker: pressure-cooker.md
+  - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
+  - Development: development.md
 extra:
   social:
     - icon: fontawesome/solid/house
@@ -112,7 +114,11 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: nicholaswilde
