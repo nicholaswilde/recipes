@@ -14,7 +14,8 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-    logo: fontawesome/solid/bowl-food
+    logo: fontawesome/solid/bowl-rice
+  favicon: assets/images/favicon.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
