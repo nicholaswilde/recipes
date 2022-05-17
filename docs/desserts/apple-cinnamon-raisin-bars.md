@@ -43,4 +43,3 @@ Gradually add flour mixture. Stir in diced apples and raisins, and spread into p
 ### Step 4
 
 Bake for 35 minutes.
-

@@ -33,4 +33,3 @@ Place peeled, cored, and sliced apples in slow cooker and top with flour mixture
 ### Step 3
 
 Cook on high for 3 to 4 hours.
-

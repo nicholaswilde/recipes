@@ -46,4 +46,3 @@ Stir banana mixture into flour mixture. Add semi-sweet chips. Pour and bake 40 t
 ### Step 5
 
 Cook on rack for 15 minutes before unmolding.
-

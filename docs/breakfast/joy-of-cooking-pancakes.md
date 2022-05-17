@@ -22,7 +22,8 @@
 
 ### Step 1
 
-Mix all-purpose flour, salt, and baking powder together, mix sugar, eggs, melted butter, and milk together, add wet to dry and combine quickly.
+Mix all-purpose flour, salt, and baking powder together, mix sugar, eggs, melted butter, and milk together, add wet to
+dry and combine quickly.
 
 ### Step 2
 

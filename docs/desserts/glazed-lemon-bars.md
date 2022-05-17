@@ -47,4 +47,3 @@ Bake for 25 minutes.
 ### Step 6
 
 While warm, loosen edges and spread with glaze: powdered sugar, lemon juice, and lemon juice.
-
