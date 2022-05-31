@@ -3,6 +3,15 @@
 version: '3'
 
 tasks:
+  docker-serve:
+    desc: Serve an mkdocs server using Docker
+    cmds:
+      - >-
+        docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
+        --platform linux/amd64 squidfunk/mkdocs-material serve
+        --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
+    vars:
+      PORT: 8000
   lint:
     desc: Lint the project
     cmds:
