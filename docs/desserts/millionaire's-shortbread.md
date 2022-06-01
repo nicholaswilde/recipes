@@ -1,6 +1,6 @@
-# Millionaire's Shortbread Recipe
+# Millionaire's Shortbread
 
-![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread-recipe.png)
+![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
