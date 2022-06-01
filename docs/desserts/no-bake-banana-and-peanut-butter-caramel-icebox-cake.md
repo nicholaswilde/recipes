@@ -1,6 +1,6 @@
-# No-Bake Banana and Peanut Butter Caramel Icebox Cake Recipe
+# No-Bake Banana and Peanut Butter Caramel Icebox Cake
 
-![No-Bake Banana and Peanut Butter Caramel Icebox Cake Recipe](../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake-recipe.jpg)
+![No-Bake Banana and Peanut Butter Caramel Icebox Cake](../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
