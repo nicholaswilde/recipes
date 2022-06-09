@@ -89,4 +89,3 @@ Using a slotted spoon, transfer cookies to parchment-lined wire rack. Immediatel
 
 When completely cooled, transfer cookies to airtight containers. With parchment paper between layers. Cookies will last
 up to 2 weeks.
-

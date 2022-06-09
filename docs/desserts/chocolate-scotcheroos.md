@@ -50,4 +50,3 @@ Remove from heat; spread evenly over Rice Krispie mixture.
 ### Step 7
 
 Cool until firm.
-

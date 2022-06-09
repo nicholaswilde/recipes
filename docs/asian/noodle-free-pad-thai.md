@@ -72,4 +72,3 @@ Add sauce, fresh ginger, and 1/2 tsp tumeric. Sauté and heat until warmed throu
 ### Step 8
 
 Serve with chopped cilantro.
-

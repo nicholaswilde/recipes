@@ -52,4 +52,3 @@ pitted olives, capers, kidney beans, basil, parsley, red wine vinegar, pepper, a
 ### Step 5
 
 Options: Can add pesto, tempeh, tofu, spinach, green onion, or any other vegetable that can be eaten raw.
-

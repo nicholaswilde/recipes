@@ -47,4 +47,3 @@ Heat 1/2 cup apple jam or apricot jam and brush over berries.
 ### Step 6
 
 Refrigerate at least 2 hours.
-

@@ -74,4 +74,3 @@ Pour into pie plate and cover with second crust or make lattice top.
 ### Step 10
 
 Bake on lowest rack at 400F for 25 minutes, then reduce to 350F and bake 30 to 40 minutes more.
-

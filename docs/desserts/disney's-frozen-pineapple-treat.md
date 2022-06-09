@@ -7,7 +7,7 @@
 | 0 minutes |
 
 !!! note
-      This is not the same Dole Whip served in Disney parks. See [this link](https://www.disneyfoodblog.com/2020/04/27/disney-recipe-authentic-disney-dole-whip-at-home-two-ways-with-these-simple-steps/) for the official recipe.
+      This is not the same Dole Whip served in Disney parks. See [this link][1] for the official recipe.
 
 ## :salt: Ingredients
 
@@ -35,4 +35,7 @@ Make a swirl using a piping bag or plastic sandwich bag.
 
 ## :link: Source
 
+<!-- markdownlint-disable-next-line MD013 -->
 - <https://www.disneyfoodblog.com/2020/04/08/foodies-theres-a-brand-new-step-by-step-cooking-at-home-feature-on-the-disney-world-app/>
+
+[1]: https://www.disneyfoodblog.com/2020/04/27/disney-recipe-authentic-disney-dole-whip-at-home-two-ways-with-these-simple-steps

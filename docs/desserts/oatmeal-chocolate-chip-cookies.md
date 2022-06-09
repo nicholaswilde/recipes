@@ -27,4 +27,3 @@
 
 Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, flour, baking soda, oats, and chocolate chips
 and bake for 8 to 10 minutes at 365°F.
-

@@ -40,4 +40,3 @@ In a separate bowl combine store-bought pesto, zest and juice from 1 lemon.
 ### Step 4
 
 Mix well, then pour in pasta. Combine veggies into pasta and serve.
-

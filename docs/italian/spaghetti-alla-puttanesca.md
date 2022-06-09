@@ -48,4 +48,3 @@ Cover the pan and bring to a boil. Reduce to a steady simmer, and, keeping cover
 ### Step 5
 
 Cook for 8 to 10 minutes more.
-

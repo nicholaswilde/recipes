@@ -64,4 +64,3 @@ Cook orecchietee according to package instructions. Drain and reserve 1/2 cup of
 ### Step 8
 
 Mix cooked pasta, artichoke sauce, and grated pecorino. Add arugula and dill.
-

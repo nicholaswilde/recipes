@@ -36,4 +36,3 @@ Heat oven to 350°F.
 ### Step 3
 
 Bake in 8" loaf pan for 1 hour.
-

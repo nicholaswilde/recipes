@@ -37,4 +37,3 @@ Mix in melted butter. Stir in chocolate chips and pour into unbaked pie shell.
 ### Step 4
 
 Bake for 1 hour.
-

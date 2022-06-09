@@ -36,4 +36,3 @@ Chop organic tomatoes on a vine and mix cannellini beans, pesto, and optional Ci
 ### Step 4
 
 Serve and drizzle with balsamic glaze.
-

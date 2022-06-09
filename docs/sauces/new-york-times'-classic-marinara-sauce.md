@@ -45,4 +45,3 @@ Simmer until sauce has thickened and oil on surface is a deep orange, about 10 m
 ### Step 5
 
 Taste and season as needed. Discard basil.
-

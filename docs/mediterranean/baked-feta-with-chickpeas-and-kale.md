@@ -52,4 +52,3 @@ Drizzle with olive oil and a pinch of red pepper flakes.
 ### Step 6
 
 Serve warm with pita or baguette and lemon wedges.
-

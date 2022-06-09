@@ -65,4 +65,3 @@ To make dressing, add olive oil, lemon juice, salt and pepper and mix until emul
 ### Step 7
 
 Mix together vegetables, orzo, dressing, crumbled feta, and pine nuts. Garnish with basil or parsely, if desired.
-
