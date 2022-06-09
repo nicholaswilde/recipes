@@ -23,6 +23,12 @@ tasks:
       - >-
         docker run --rm -it -v ${PWD}:/markdown:ro
         06kellyjac/markdownlint-cli .
+  markdownlint-fix:
+    desc: Run markdownlint-cli fix
+    cmds:
+      - >-
+        docker run --rm -it -v ${PWD}:/markdown:ro
+        06kellyjac/markdownlint-cli -f .
   serve:
     desc: Serve an mkdocs server
     cmds:
