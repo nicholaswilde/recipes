@@ -12,6 +12,10 @@ tasks:
         --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
     vars:
       PORT: 8000
+  linkcheck:
+    desc: Check for dead links
+    cmds:
+      - ./scripts/linkcheck.sh
   lint:
     desc: Lint the project
     cmds:
