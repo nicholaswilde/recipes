@@ -1,6 +1,6 @@
 # Cook's Illustrated Horiatiki Salata (Greek Salad)
 
-![Cook's Illustrated Horiatiki Salata (Greek Salad)]("../assets/images/cook's-illustrated-horiatiki-salata-(greek-salad).jpg")
+![Cook's Illustrated Horiatiki Salata (Greek Salad)](../assets/images/cook's-illustrated-horiatiki-salata.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
