@@ -20,5 +20,5 @@ jobs:
       - name: Check markdown links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          file-path: './README.md'
+          folder-path: './docs'
           config-file: './mlc_config.json'
