@@ -15,4 +15,4 @@ repos:
     rev: v3.10.2
     hooks:
       - id: markdown-link-check
-        args: [-c ./mlc_config.json]
+        args: [-a, "200,206,403,429"]
