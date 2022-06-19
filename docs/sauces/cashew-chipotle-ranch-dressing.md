@@ -4,7 +4,7 @@
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 30 minutes |
+| 60 minutes |
 
 ## :salt: Ingredients
 
@@ -27,7 +27,7 @@
 
 ### Step 1
 
-Soak raw cashews in hot water for 30 minutes.
+Soak raw cashews in hot water for 30 minutes. Mix almond mil and lemon juice. Set aside for 30 minutes.
 
 ### Step 2
 
