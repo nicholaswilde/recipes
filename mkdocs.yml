@@ -156,6 +156,8 @@ nav:
       - Spicy Garlic Edamame: sides/spicy-garlic-edamame.md
       - The Best Crispy Roast Potatoes Ever Recipe: sides/the-best-crispy-roast-potatoes-ever-recipe.md
       - Unexpected Cheddar Cheese Ball: sides/unexpected-cheddar-cheese-ball.md
+  - Soups & Stews:
+      - Eggplant Stew: soups-and-stews/eggplant-stew.md
   - Pressure Cooker: pressure-cooker.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Development: development.md
