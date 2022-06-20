@@ -165,6 +165,8 @@ nav:
   - Soups & Stews:
       - Chickenless Sausage and Lentil Soup: soups-and-stews/chickenless-sausage-and-lentil-soup.md
       - Eggplant Stew: soups-and-stews/eggplant-stew.md
+  - Vegetarian:
+      - Quinoa and Veggie Power Bowls: vegetarian/quinoa-and-veggie-power-bowls.md
   - Pressure Cooker: pressure-cooker.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Development: development.md
