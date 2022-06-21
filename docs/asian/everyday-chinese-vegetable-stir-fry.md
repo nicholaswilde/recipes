@@ -13,7 +13,7 @@
 - 2 tsp oyster sauce
 - 0.25 tsp salt
 - 0.25 tsp sugar
-- 0.25 Tbsp sesame oil
+- 0.25 tsp sesame oil
 - 1 pinch white pepper
 - 2 Tbsp vegetable oil
 - 4 slices ginger
@@ -25,6 +25,7 @@
 - 1 cup long hot pepper
 - 3 cloves garlic
 - 2 tsp cornstarch
+- 1 Tbsp water
 
 ## :cooking: Cookware
 
