@@ -61,8 +61,10 @@ Bake the corn tortillas in the oven for 10 minutes or until crisp but not burned
 ### Step 7
 
 Arrange the tortillas on a plate. Add salsa, the sautéed vegetable bean mixture and the roasted butternut squash. Top
-with red cabbage, cilantro, and Mexicrema dressing or guacamole.
+with red cabbage, cilantro, and [Mexicrema dressing][1] or guacamole.
 
 ## :link: Source
 
 - <https://nutritionstudies.org/recipes/main-dish/butternut-squash-tostadas/>
+
+[1]: ../sauces/mexicrema-dressing.md
