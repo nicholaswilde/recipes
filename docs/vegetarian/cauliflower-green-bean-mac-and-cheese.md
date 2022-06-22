@@ -38,8 +38,8 @@ water, then toss mixture over green beans, and cauliflower florets. Mix to coat.
 
 ### Step 3
 
-Meanwhile, prepare red lentil pasta, reserving 1 cup of cooked pasta water. Add FOK White Mac and Cheese sauce and pasta
-water to thin.
+Meanwhile, prepare red lentil pasta, reserving 1 cup of cooked pasta water. Add
+[Forks Over Knives White Mac and Cheese sauce][1] and pasta water to thin.
 
 ### Step 4
 
@@ -48,3 +48,5 @@ Add veggies, toasted crushed almonds, and raisins and mix together. Top with cho
 ## :link: Source
 
 - Forks Over Knives
+
+[1]: ../sauces/white-mac-and-cheese-sauce.md
