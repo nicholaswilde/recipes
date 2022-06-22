@@ -33,7 +33,7 @@
 
 ### Step 1
 
-Heat large saucepan over medium-high heat. Add olive oil and saute carrot, onion, and celery, and garlic for 5 to 7
+Heat large saucepan over medium-high heat. Add olive oil and sauté carrot, onion, and celery, and garlic for 5 to 7
 minutes.
 
 ### Step 2
@@ -42,7 +42,7 @@ Add cumin, oregano, salt, and pepper.
 
 ### Step 3
 
-Stir, then add chipotle chilis in adobo and saute for 2 minutes.
+Stir, then add chipotle chilis in adobo and sauté for 2 minutes.
 
 ### Step 4
 

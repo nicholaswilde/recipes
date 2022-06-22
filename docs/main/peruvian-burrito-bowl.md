@@ -57,7 +57,7 @@ serving.
 
 ### Step 4
 
-SAUTE FILLING: Also at the same time, in a large skillet, heat olive oil over medium-high heat. Sauté diced onions 2 to
+SAUTÉ FILLING: Also at the same time, in a large skillet, heat olive oil over medium-high heat. Sauté diced onions 2 to
 3 minutes until they just begin to soften. Add garlic, corn, poblano chili, and red bell pepper and lower heat to med,
 sautéing until tender, about 10 minutes. Season with the salt, cumin, coriander, and oregano. Set aside. When the sweet
 potatoes are tender, add them to these veggies.

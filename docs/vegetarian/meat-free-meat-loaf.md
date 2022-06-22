@@ -42,7 +42,7 @@ Lightly oil a 9x5" loaf pan.
 
 ### Step 3
 
-Heat oil in a skillet and saute minced onion and grated carrot for 5 to 7 minutes.
+Heat oil in a skillet and sauté minced onion and grated carrot for 5 to 7 minutes.
 
 ### Step 4
 

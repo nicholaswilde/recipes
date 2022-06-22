@@ -47,7 +47,7 @@ Slice trimmed endives lengthwise, discarding the core, then slice in 1/4" half m
 
 ### Step 4
 
-Add garlic and endives to warm butter and saute for 1 minute.
+Add garlic and endives to warm butter and sauté for 1 minute.
 
 ### Step 5
 

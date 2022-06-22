@@ -31,7 +31,7 @@
 ## :cooking: Cookware
 
 - 1 stand mixer
-- 1 tall saute pan
+- 1 tall sauté pan
 - 1 slotted spoon
 - 1 parchment
 - 1 wire rack
@@ -54,7 +54,7 @@ Refrigerate for 1 hour or overnight.
 
 ### Step 4
 
-To make honey syrup, stir together orange peel, 1.5 cups sugar, honey, and water in a tall saute pan.
+To make honey syrup, stir together orange peel, 1.5 cups sugar, honey, and water in a tall sauté pan.
 
 ### Step 5
 

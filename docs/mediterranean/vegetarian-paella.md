@@ -28,7 +28,7 @@
 
 ### Step 1
 
-Heat a large skillet over mediat heat and coat with olive oil. Saute yellow onion and bell pepper until softened, about
+Heat a large skillet over medium heat and coat with olive oil. Sauté yellow onion and bell pepper until softened, about
 5 minutes.
 
 ### Step 2

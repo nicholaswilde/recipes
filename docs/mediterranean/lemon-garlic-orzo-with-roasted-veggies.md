@@ -50,7 +50,7 @@ through.
 
 ### Step 4
 
-To cook orzo, saute 1 Tbsp olive oil until shimmering. Add orzo and stir, coating thoroughly. Stir occasionally for
+To cook orzo, sauté 1 Tbsp olive oil until shimmering. Add orzo and stir, coating thoroughly. Stir occasionally for
 about 3 minutes or until golden.
 
 ### Step 5

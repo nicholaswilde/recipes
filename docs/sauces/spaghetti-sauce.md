@@ -22,7 +22,7 @@
 
 ### Step 1
 
-Saute chopped white onion and garlic in olive oil.
+Sauté chopped white onion and garlic in olive oil.
 
 ### Step 2
 

@@ -41,7 +41,7 @@ tofu.
 
 ### Step 3
 
-Add corn, black beans, 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Saute with olive oil over medium heat.
+Add corn, black beans, 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Sauté with olive oil over medium heat.
 
 ### Step 4
 
