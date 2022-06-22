@@ -44,8 +44,10 @@ Remove from heat, discard bay leaves, and add salt and pepper to taste.
 
 ### Step 5
 
-Serve with fresh fava beans with mint and scallions and cabbage and sun-dried tomato sauté.
+Serve with fresh fava beans with mint and scallions and [cabbage and sun-dried tomato sauté][1].
 
 ## :link: Source
 
 - The Blue Zones Kitchen
+
+[1]: ../main/cabbage-and-sun-dried-tomato-sauté.md

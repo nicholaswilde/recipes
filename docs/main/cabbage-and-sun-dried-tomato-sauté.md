@@ -42,8 +42,10 @@ Add salt and pepper to taste before serving.
 
 ### Step 4
 
-Serve with fresh fava beans with mint and scallions and fennel and potato cassola.
+Serve with fresh fava beans with mint and scallions and [fennel and potato cassola][1].
 
 ## :link: Source
 
 - The Blue Zones Kitchen
+
+[1]: ../vegetarian/fennel-and-potato-cassola.md
