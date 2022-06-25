@@ -90,10 +90,12 @@ nav:
       - Jamie Oliver Ricotta Fritters: italian/jamie-oliver-ricotta-fritters.md
       - Mezza Luna Lasagna: italian/mezza-luna-lasagna.md
       - Spaghetti Alla Puttanesca: italian/spaghetti-alla-puttanesca.md
+      - Spinach Lasagna: italian/spinach-lasagna.md
       - Spinach Tortellini Soup by Joanna Gaines: italian/spinach-tortellini-soup-by-joanna-gaines.md
       - Summer Pesto Pasta: italian/summer-pesto-pasta.md
       - Trapani-Style Pasta: italian/trapani-style-pasta.md
   - Lunches:
+      - Bourbon Grilled Cheese: lunches/bourbon-grilled-cheese.md
       - Chickpea Sunflower Sandwich: lunches/chickpea-sunflower-sandwich.md
       - Perfect Chickpea Salad: lunches/perfect-chickpea-salad.md
       - Vegan Caesar Salad: lunches/vegan-caesar-salad.md
@@ -160,7 +162,9 @@ nav:
       - America's Test Kitchen Best Baked Potatoes: sides/america's-test-kitchen-best-baked-potatoes.md
       - America's Test Kitchen Best Baked Sweet Potatoes: sides/america's-test-kitchen-best-baked-sweet-potatoes.md
       - Eggless Egg Salad: sides/eggless-egg-salad.md
+      - Falafel Scones with Harissa Yogurt: sides/falafel-scones-with-harissa-yogurt.md
       - Hasselback Roasted Zucchini: sides/hasselback-roasted-zucchini.md
+      - Jojo's Biscuits: sides/jojo's-biscuits.md
       - Josh Elkin's Mushroom Toast: sides/josh-elkin's-mushroom-toast.md
       - Pickled Red Onions: sides/pickled-red-onions.md
       - Spicy Garlic Edamame: sides/spicy-garlic-edamame.md
@@ -177,8 +181,10 @@ nav:
       - Fennel and Potato Cassola: vegetarian/fennel-and-potato-cassola.md
       - Game Changers Oat and Lentil Meatloaf: vegetarian/game-changers-oat-and-lentil-meatloaf.md
       - Meat-Free Meat Loaf: vegetarian/meat-free-meat-loaf.md
+      - Mushroom Rice Burgers: vegetarian/mushroom-rice-burgers.md
       - Quinoa and Veggie Power Bowls: vegetarian/quinoa-and-veggie-power-bowls.md
       - Vegan Caesar Salad: vegetarian/vegan-caesar-salad.md
+      - Vegetable Casserole: vegetarian/vegetable-casserole.md
   - Pressure Cooker: pressure-cooker.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Development: development.md
