@@ -21,6 +21,10 @@ tasks:
     cmds:
       - task: markdownlint
       - task: yamllint
+  list-ingredients:
+    desc: List all ingredients in all cook recipes and copy to clipboard.
+    cmds:
+      - ./scripts/list-ingredients.sh
   markdownlint:
     desc: Run markdownlint-cli
     cmds:
