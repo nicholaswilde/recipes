@@ -10,7 +10,7 @@
 
 - 1 lb ground soy meat
 - 1 28-oz jar marinara
-- 1 12-oz pkg spghetti
+- 1 12-oz pkg spaghetti
 - 8 oz cream cheese
 - 1 tsp Italian seasoning
 - 1 clove garlic
@@ -29,7 +29,7 @@ Pre-heat oven to 350°F. In a saucepan, mix ground soy meat and marinara.
 
 ### Step 2
 
-Separately, cook spghetti, then drain.
+Separately, cook spaghetti, then drain.
 
 ### Step 3
 

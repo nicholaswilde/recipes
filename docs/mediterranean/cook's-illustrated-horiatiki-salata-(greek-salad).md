@@ -12,7 +12,7 @@
 - 0.5 tsp salt
 - 0.5 red onion
 - some ice water
-- 2 Tbsp red whine vinegar
+- 2 Tbsp red wine vinegar
 - 1 tsp oregano
 - 0.5 tsp pepper
 - 0.75 tsp salt
@@ -44,7 +44,7 @@ colander set in large bowl.
 ### Step 2
 
 Drain for 30 minutes. Place slided thin red onion in small bowl, cover with ice water, and let sit for 15 minutes. Whisk
-red whine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second small bowl.
+red wine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second small bowl.
 
 ### Step 3
 

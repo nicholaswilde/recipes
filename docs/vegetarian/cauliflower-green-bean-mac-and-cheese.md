@@ -9,7 +9,7 @@
 - 1 Tbsp apple cider vinegar
 - 1 tsp cumin
 - 1 tsp garam masala
-- 0.5 tsp tumeric
+- 0.5 tsp turmeric
 - 0.25 tsp ground ginger
 - 0.5 tsp salt
 - 8 oz green beans
@@ -32,7 +32,7 @@ Preheat oven to 425°F.
 
 ### Step 2
 
-In a large bowl, mix together apple cider vinegar, cumin, garam masala, tumeric, ground ginger, and salt. Add 1 Tbsp
+In a large bowl, mix together apple cider vinegar, cumin, garam masala, turmeric, ground ginger, and salt. Add 1 Tbsp
 water, then toss mixture over green beans, and cauliflower florets. Mix to coat. Place on a baking sheet and roast 20 to
 25 minutes.
 

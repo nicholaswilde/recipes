@@ -8,13 +8,13 @@
 
 ## :salt: Ingredients
 
-- 1 cup zuchini
+- 1 cup zucchini
 - 1 large tomato
 - 1 medium onion
 - 0.33 cup Parmesan cheese
 - 0.5 cup reduced-fat Bisquick
 - 1 cup fat-free milk
-- 0.5 cup egg substitue
+- 0.5 cup egg substitute
 - some salt
 - some pepper
 
@@ -34,7 +34,7 @@ Grease a 9-inch pie plate.
 
 ### Step 3
 
-Layer chopped zuchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat Bisquick, fat-free milk, egg
+Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat Bisquick, fat-free milk, egg
 substitue, salt and pepper to taste until blended, then pour into pie plate.
 
 ### Step 4

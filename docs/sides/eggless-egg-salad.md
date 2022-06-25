@@ -13,7 +13,7 @@
 - 1 clove shallot
 - 0.25 tsp dry dill
 - 0.5 tsp fresh dill
-- 0.5 tsp tumeric
+- 0.5 tsp turmeric
 - 1 tsp dijon mustard
 - 2 tsp dill pickle relish
 - 0.25 tsp onion powder
@@ -31,7 +31,7 @@
 ### Step 1
 
 Put one-quarter of the block of firm tofu in a food processor with celery plug leaves, shallot, dry dill, fresh dill,
-tumeric, dijon mustard, dill pickle relish, onion powder, garlic powder, and mayonnaise. Blend until combined.
+turmeric, dijon mustard, dill pickle relish, onion powder, garlic powder, and mayonnaise. Blend until combined.
 
 ### Step 2
 
