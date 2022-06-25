@@ -19,7 +19,7 @@
 - 0.25 cup fat-free plain yogurt
 - 1 egg
 - 2 Tbsp canola oil
-- 0.75 cup semi-sweet chips
+- 0.75 cup semi-sweet chocolate chips
 
 ## :cooking: Cookware
 
@@ -41,7 +41,7 @@ Whisk together mashed bananas, peanut butter, fat-free plain yogurt, egg, and ca
 
 ### Step 4
 
-Stir banana mixture into flour mixture. Add semi-sweet chips. Pour and bake 40 to 50 minutes.
+Stir banana mixture into flour mixture. Add semi-sweet chocolate chips. Pour and bake 40 to 50 minutes.
 
 ### Step 5
 

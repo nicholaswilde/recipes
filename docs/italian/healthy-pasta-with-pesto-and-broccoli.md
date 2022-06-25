@@ -18,7 +18,7 @@
 - 1 Tbsp pesto
 - 1 Tbsp pesto
 - 0.25 cup pesto
-- 0.33 cup sun dried tomatoes
+- 0.33 cup sun-dried tomatoes
 - 1 salt
 - some black pepper
 - 0.13 tsp red pepper flakes
@@ -58,7 +58,7 @@ broccoli, stir and cook for 4 minutes, stirring once.
 
 ### Step 7
 
-Remove skillet from heat and add remaining 1/4 cup pesto, sun dried tomatoes, half Parmesan cheese, salt, black pepper,
+Remove skillet from heat and add remaining 1/4 cup pesto, sun-dried tomatoes, half Parmesan cheese, salt, black pepper,
 red pepper flakes, pasta and pasta water. Stir gently and let flavors marinate for a few minutes. Do not cover because
 broccoli will become a mushy mess.
 
