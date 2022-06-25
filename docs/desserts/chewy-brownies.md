@@ -15,7 +15,7 @@
 - 2 eggs
 - 2 egg yolks
 - 4 Tbsp unsalted butter
-- 2 tsp vanilla extract
+- 2 tsp vanilla
 - 2.5 cup sugar
 - 1.75 cup flour
 - 0.75 tsp salt
@@ -42,7 +42,7 @@ Add chopped unsweetened chocolate and whisk until it is melted.
 
 ### Step 4
 
-Add eggs, egg yolks, melted unsalted butter, and vanilla extract; continue to whisk until smooth.
+Add eggs, egg yolks, melted unsalted butter, and vanilla; continue to whisk until smooth.
 
 ### Step 5
 

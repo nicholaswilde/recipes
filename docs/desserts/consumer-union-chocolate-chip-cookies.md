@@ -11,7 +11,7 @@
 - 0.75 cup granulated sugar
 - 2 eggs
 - 2 sticks unsalted butter
-- 1 tsp vanilla extract
+- 1 tsp vanilla
 - 2.25 cups flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -28,7 +28,7 @@
 
 ### Step 1
 
-Mix granulated sugar, eggs, unsalted butter, and vanilla extract with mixer.
+Mix granulated sugar, eggs, unsalted butter, and vanilla with mixer.
 
 ### Step 2
 

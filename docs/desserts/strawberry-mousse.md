@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 1 pkg silken tofu
-- 1 tsp vanilla extract
+- 1 tsp vanilla
 - 1 Tbsp strawberry preserves
 - 1 cup frozen strawberries
 - 4 Medjool dates
@@ -24,7 +24,7 @@
 
 ### Step 1
 
-In a blender, process 12.3 oz package of organic firm silken tofu, vanilla extract, strawberry preserves, frozen
+In a blender, process 12.3 oz package of organic firm silken tofu, vanilla, strawberry preserves, frozen
 strawberries, Medjool dates, and lemon juice until smooth.
 
 ### Step 2

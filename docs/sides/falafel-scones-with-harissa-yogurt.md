@@ -17,7 +17,7 @@
 - 0.5 cup unsalted butter
 - 2 large eggs
 - 0.5 cup heavy cream
-- 0.5 cup sundried tomatoes
+- 0.5 cup sun-dried tomatoes
 - 0.5 red bell pepper
 
 ## :cooking: Cookware
@@ -47,7 +47,7 @@ unsalted butter into the dry ingredients until crumbly, leaving pea sized chunks
 ### Step 4
 
 In a medium bowl, lightly beat the large eggs and heavy cream. Make a well in the center of dry mixture and add egg
-mixture. Fold gently with a spatula, until just combined. Gently stir in sundried tomatoes, if using.
+mixture. Fold gently with a spatula, until just combined. Gently stir in sun-dried tomatoes, if using.
 
 ### Step 5
 
