@@ -3,6 +3,10 @@
 version: '3'
 
 tasks:
+  clean:
+    desc: Clean markdown files from cook dir
+    cmds:
+      - find cook -name "*.md" -delete
   docker-serve:
     desc: Serve an mkdocs server using Docker
     cmds:
