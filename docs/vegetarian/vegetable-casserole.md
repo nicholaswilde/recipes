@@ -35,7 +35,7 @@ Grease a 9-inch pie plate.
 ### Step 3
 
 Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat Bisquick, fat-free milk, egg
-substitue, salt and pepper to taste until blended, then pour into pie plate.
+substitute, salt and pepper to taste until blended, then pour into pie plate.
 
 ### Step 4
 

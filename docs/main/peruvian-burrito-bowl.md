@@ -41,7 +41,7 @@
 
 ### Step 1
 
-Preheat oven to 425F and gather ingredients & cut veggies.
+Preheat oven to 425°F and gather ingredients & cut veggies.
 
 ### Step 2
 
@@ -72,7 +72,7 @@ want these to be slightly salty. Cover and turn heat off.
 
 ### Step 6
 
-Peruvian BURRITO BOWLS: Spoon some warm whipped black beans into the bottom of a bowl. Top with some quinoa, vegges and
+Peruvian BURRITO BOWLS: Spoon some warm whipped black beans into the bottom of a bowl. Top with some quinoa, veggies and
 AJI VERDE Sauce. Garnish with avocado slices, diced tomatoes, cilantro, pumpkin seeds, sunflower sprouts. If making
 bowls instead of burritos, I would double the beans for 4-6 people.
 

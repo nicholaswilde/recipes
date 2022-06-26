@@ -51,7 +51,7 @@ Add garlic and endives to warm butter and sauté for 1 minute.
 
 ### Step 5
 
-Add marinated artichokes, remaining butter, balsamic vinegar, creme fraiche, nutmeg, cayenne, and Italian herbs.
+Add marinated artichokes, remaining butter, balsamic vinegar, crème fraîche, nutmeg, cayenne, and Italian herbs.
 
 ### Step 6
 

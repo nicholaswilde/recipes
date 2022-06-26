@@ -21,7 +21,7 @@
 - 4 corn tortillas
 - some salt
 - some cilantro
-- 1 avacado
+- 1 avocado
 
 ## :cooking: Cookware
 
@@ -34,7 +34,7 @@
 ### Step 1
 
 Heat olive oil in large pot and sauté yellow onion and garlic. Add cabbage, cubed butternut squash, and vegetable
-broth. Cover pot and and cook over gentle simmer, 15 to 20 minutes.
+broth. Cover pot and cook over gentle simmer, 15 to 20 minutes.
 
 ### Step 2
 
@@ -51,4 +51,4 @@ minutes, giving the pan a gentle shake halfway through.
 
 ### Step 5
 
-Garnish soup with tortilla strips, chopped cilantro, and avacado.
+Garnish soup with tortilla strips, chopped cilantro, and avocado.

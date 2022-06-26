@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 1 cup greek yogurt
+- 1 cup Greek yogurt
 - 2 tsp harissa
 - 1 cup TJ's falafel mix
 - 1 cup flour
@@ -37,11 +37,11 @@ Preheat oven to 400°F. Line a large baking sheet with parchment paper or spray 
 
 ### Step 2
 
-Harissa Yogurt: Combine greek yogurt and harissa in a small bowl, cover and refrigerate.
+Harissa Yogurt: Combine Greek yogurt and harissa in a small bowl, cover and refrigerate.
 
 ### Step 3
 
-Falafel Scontes: In a large bowl, combine TJ's falafel mix, flour, sugar, and baking powder in a large bowl. Cut the
+Falafel Scones: In a large bowl, combine TJ's falafel mix, flour, sugar, and baking powder in a large bowl. Cut the
 unsalted butter into the dry ingredients until crumbly, leaving pea sized chunks of butter. Set aside.
 
 ### Step 4

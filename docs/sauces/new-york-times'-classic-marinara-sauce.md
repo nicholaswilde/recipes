@@ -31,7 +31,7 @@ juice. Reserve.
 ### Step 2
 
 In a large skillet (do not use a deep pot) over medium heat, heat the oil. When it is hot, add garlic. As soon as the
-garlic is sizzling (do not let it bornw) add the tomatoes, water, chili pepper flakes or TJ's Bamba Hot Pepper Sauce,
+garlic is sizzling (do not let it burn) add the tomatoes, water, chili pepper flakes or TJ's Bamba Hot Pepper Sauce,
 oregano, and kosher salt. Stir.
 
 ### Step 3

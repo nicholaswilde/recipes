@@ -7,6 +7,10 @@ tasks:
     desc: Clean markdown files from cook dir
     cmds:
       - find cook -name "*.md" -delete
+  deps:
+    desc: Install dependencies
+    cmds:
+      - npm install --location=global spellchecker-cli
   docker-serve:
     desc: Serve an mkdocs server using Docker
     cmds:
@@ -51,6 +55,14 @@ tasks:
     cmds:
       - cook server
     silent: true
+  sort:
+    desc: Sort dictionary.txt
+    cmds:
+      - sort dictionary.txt -u -o dictionary.txt
+  spellcheck:
+    desc: Spellcheck cook files
+    cmds:
+      - ./scripts/spellcheck.sh
   yamllint:
     desc: Run yamllint
     cmds:

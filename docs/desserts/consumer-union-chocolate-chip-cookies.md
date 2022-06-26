@@ -37,4 +37,4 @@ walnuts, if desired.
 
 ### Step 3
 
-Bake on lightly greased cooking sheet or parchment paper. Bake at 375F for approximately 9 to 11 minutes.
+Bake on lightly greased cooking sheet or parchment paper. Bake at 375°F for approximately 9 to 11 minutes.

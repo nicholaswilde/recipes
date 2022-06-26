@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 6  large eggs
+- 6 large eggs
 - 0.75 tsp salt
 - 2 Tbsp milk
 - 2 Tbsp butter
@@ -24,7 +24,7 @@
 ### Step 1
 
 Combine the large eggs, salt, and milk in a medium bowl and whisk until homogeneous and frothy, about 1 minute. Allow
-to rest at room tempera ture for at least 15 minutes. The eggs should darken in color significantly.
+to rest at room temperature for at least 15 minutes. The eggs should darken in color significantly.
 
 ### Step 2
 

@@ -16,8 +16,8 @@
 - 0.5 tsp garlic powder
 - 1 lime or lemon juice
 - 0.25 cup apple cider vinegar
-- 0.5 tsp sea sault
-- 0.25 cup avacado (optional)
+- 0.5 tsp sea salt
+- 0.25 cup avocado (optional)
 
 ## :cooking: Cookware
 
@@ -28,7 +28,7 @@
 ### Step 1
 
 Combine firm silken tofu, onion powder, water, nutritional yeast, cilantro, garlic powder, lime or lemon juice, apple
-cider vinegar, sea sault, avacado (optional) in a blender until smooth.
+cider vinegar, sea salt, avocado (optional) in a blender until smooth.
 
 ## :link: Source
 

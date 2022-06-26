@@ -40,7 +40,7 @@ sauce.
 
 ### Step 3
 
-Use potato masher tomash mixture. Continue cooking for 5 minutes, adding water as needed.
+Use potato masher to mash mixture. Continue cooking for 5 minutes, adding water as needed.
 
 ### Step 4
 

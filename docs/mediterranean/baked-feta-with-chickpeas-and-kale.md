@@ -29,7 +29,7 @@
 
 ### Step 1
 
-Pre-heat oven to 350°F. Heat 10-inch skillet and add olive oil. Ad cumin and sizzle for 1 to 2 minutes.
+Preheat oven to 350°F. Heat 10-inch skillet and add olive oil. Ad cumin and sizzle for 1 to 2 minutes.
 
 ### Step 2
 

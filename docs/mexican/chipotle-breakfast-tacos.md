@@ -39,7 +39,7 @@ Bake 20 to 25 minutes.
 
 ### Step 4
 
-While potatoes roast, prepare soy chorizo: heat 1 Tbsp olive oil in a skillet. Add chorizzo and sauté 5 to 8 minutes,
+While potatoes roast, prepare soy chorizo: heat 1 Tbsp olive oil in a skillet. Add chorizo and sauté 5 to 8 minutes,
 until slightly brown.
 
 ### Step 5

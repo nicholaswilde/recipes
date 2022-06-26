@@ -16,7 +16,7 @@
 - 3 sprigs oregano
 - 1 cup dry orzo
 - 2 Tbsp balsamic vinegar
-- 0.5 cup kalamata olives
+- 0.5 cup Kalamata olives
 - 2 pepperoncini
 - 2 Tbsp pine nuts
 - 0.5 cup feta
@@ -35,12 +35,12 @@
 
 ### Step 1
 
-Pre-heat oven to 400°F. In a 9x13 dish, toss halved red bell peppers with salt, pepper, olive oil, and garlic. Add
+Preheat oven to 400°F. In a 9x13 dish, toss halved red bell peppers with salt, pepper, olive oil, and garlic. Add
 oregano. Roast 20 to 25 minutes.
 
 ### Step 2
 
-Meanwhile, cook dry orzo according to package directions. Drain and toss with balsamic vinegar, kalamata olives,
+Meanwhile, cook dry orzo according to package directions. Drain and toss with balsamic vinegar, Kalamata olives,
 pepperoncini, pine nuts, and feta.
 
 ### Step 3

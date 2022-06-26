@@ -33,7 +33,7 @@
 
 Preheat oven to 400°F. Line a 15×10-inch baking pan with parchment paper. If necessary, remove a thin slice from one
 side of each zucchini so it sits flat. Cut each in half crosswise. On a cutting board arrange two chopsticks or wooden
-spoons lengthwise on either side of zucchini. Cut zucchini crosswise into ¼-inch slices, stopping when knife reaches
+spoons lengthwise on either side of zucchini. Cut zucchini crosswise into 1/4-inch slices, stopping when knife reaches
 chopsticks (to prevent slicing all the way through). Arrange zucchini in prepared pan.
 
 ### Step 2

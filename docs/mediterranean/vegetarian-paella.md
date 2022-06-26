@@ -15,7 +15,7 @@
 - 1 pound soy chorizo
 - 6 oz crushed tomatoes
 - 2 cups vegetable broth
-- 1 cup arborio rice
+- 1 cup Arborio rice
 - 0.13 tsp saffron
 - 1 small zucchini
 - 4 wedges lime
@@ -41,7 +41,7 @@ Add soy chorizo and cook until browned, about 5 minutes.
 
 ### Step 4
 
-Stir in crushed tomatoes and vegetable broth. Bring liquid to a boil and stir in arborio rice and saffron. Rice should
+Stir in crushed tomatoes and vegetable broth. Bring liquid to a boil and stir in Arborio rice and saffron. Rice should
 be completely covered with liquid.
 
 ### Step 5

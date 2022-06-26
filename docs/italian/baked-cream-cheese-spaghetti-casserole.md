@@ -25,7 +25,7 @@
 
 ### Step 1
 
-Pre-heat oven to 350°F. In a saucepan, mix ground soy meat and marinara.
+Preheat oven to 350°F. In a saucepan, mix ground soy meat and marinara.
 
 ### Step 2
 

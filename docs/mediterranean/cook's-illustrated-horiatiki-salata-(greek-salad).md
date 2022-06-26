@@ -43,7 +43,7 @@ colander set in large bowl.
 
 ### Step 2
 
-Drain for 30 minutes. Place slided thin red onion in small bowl, cover with ice water, and let sit for 15 minutes. Whisk
+Drain for 30 minutes. Place sliced thin red onion in small bowl, cover with ice water, and let sit for 15 minutes. Whisk
 red wine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second small bowl.
 
 ### Step 3

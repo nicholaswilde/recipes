@@ -52,7 +52,7 @@ together to seal. Put it back in a plastic bag and chill for 1 hour.
 
 Take the dough out of the bag and put it on a lightly floured surface with a short end towards you. Roll out to a
 rectangle as before, keeping the edges as even as possible. Fold the top quarter down and the bottom quarter up so they
-meet neatly in the centre. Then fold the dough in half along the centre line. This is called a book turn. Chill in the
+meet neatly in the center. Then fold the dough in half along the center line. This is called a book turn. Chill in the
 bag for 1 hour.
 
 ### Step 6

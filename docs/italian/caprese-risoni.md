@@ -22,7 +22,7 @@
 
 ### Step 1
 
-In a medium saucepan, bring 1.5 cups of water to a boil. Stir in Risoni and return to a bil. Reduce heat and siummer
+In a medium saucepan, bring 1.5 cups of water to a boil. Stir in Risoni and return to a boil. Reduce heat and simmer
 uncovered for 9 minutes, stirring occasionally.
 
 ### Step 2

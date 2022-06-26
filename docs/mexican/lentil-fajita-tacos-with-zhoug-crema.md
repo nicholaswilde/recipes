@@ -28,7 +28,7 @@
 
 ### Step 1
 
-Combine ½ cup Greek yogurt with one to two tablespoons of Zhoug sauce, depending on how spicy you’d like it, and
+Combine 1/2 cup Greek yogurt with one to two tablespoons of Zhoug sauce, depending on how spicy you’d like it, and
 juice from half of lime. Stir, season with sea salt, then refrigerate until ready to use.
 
 ### Step 2

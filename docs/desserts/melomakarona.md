@@ -66,8 +66,8 @@ To make the walnut topping, stir together finley chipped walnuts, 1 tsp cinnamon
 
 ### Step 7
 
-To bake cookies, pre-heat the oven to 350°F. Scoop 1.5 Tbsp of dough and roll and press into an oval shape. Prick tops
-of cookies with a fork 4 to 5 times so that tiney marks are visible.
+To bake cookies, preheat the oven to 350°F. Scoop 1.5 Tbsp of dough and roll and press into an oval shape. Prick tops
+of cookies with a fork 4 to 5 times so that tiny marks are visible.
 
 ### Step 8
 

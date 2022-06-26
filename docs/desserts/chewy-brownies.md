@@ -30,7 +30,7 @@
 
 ### Step 1
 
-Adjust oven rack to lowest position. Pre-heat oven to 350F. Line 9x13 pan with parchment paper or greased-foil.
+Adjust oven rack to lowest position. Preheat oven to 350°F. Line 9x13 pan with parchment paper or greased-foil.
 
 ### Step 2
 

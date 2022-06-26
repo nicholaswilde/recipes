@@ -20,8 +20,8 @@
 - 0.25 tsp pepper
 - 6 oz feta
 - 0.5 bunch parsley
-- 0.5 lemon lemon zest
-- 0.5 lemon lemon juice
+- 0.5 lemon zest
+- 0.5 lemon juice
 - 0.25 cup olive oil
 - 0.25 tsp salt
 
