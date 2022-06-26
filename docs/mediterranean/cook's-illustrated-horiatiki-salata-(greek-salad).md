@@ -18,7 +18,7 @@
 - 0.75 tsp salt
 - 1 cucumber
 - 1 green bell pepper
-- 1 cup kalamata olives
+- 1 cup Kalamata olives
 - 2 Tbsp capers
 - some salt
 - some pepper
@@ -49,7 +49,7 @@ red wine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second
 ### Step 3
 
 Discard tomato juice and transfer tomatoes to now-empty bowl. Drain onion and add to bowl with tomatoes. Add vinegar
-mixture, cucumber, green bell pepper, kalamata olives, and capers and toss to gently coat.
+mixture, cucumber, green bell pepper, Kalamata olives, and capers and toss to gently coat.
 
 ### Step 4
 

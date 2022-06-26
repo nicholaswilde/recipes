@@ -1,6 +1,6 @@
-# Cheesy Black Bean Quesadilla Triagles
+# Cheesy Black Bean Quesadilla Triangles
 
-![Cheesy Black Bean Quesadilla Triagles](../assets/images/cheesy-black-bean-quesadilla-triagles.jpg)
+![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,7 +11,7 @@
 - 2 MorningStar Farms chipotle black bean burgers
 - 0.5 cup salsa
 - 0.5 cup shredded cheddar or jack cheese
-- 0.25 cup shredded pepperjack cheese
+- 0.25 cup shredded pepper jack cheese
 - 2 tsp Southwest or Mexican seasoning
 - 10 flour tortillas
 - 1 Tbsp melted butter
@@ -28,7 +28,7 @@
 
 ### Step 1
 
-shredded cheddar or jack cheese, shredded pepperjack cheese, and Southwest or Mexican seasoning.
+shredded cheddar or jack cheese, shredded pepper jack cheese, and Southwest or Mexican seasoning.
 In a medium bowl, toss together MorningStar Farms chipotle black bean burgers thawed and cut into 1/4" pieces, salsa,
 
 ### Step 2

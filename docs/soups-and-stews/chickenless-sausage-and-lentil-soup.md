@@ -11,7 +11,7 @@
 - 1 yellow onion
 - 2 zucchini
 - some salt
-- 1 pkg TJs Italian sausage-less sausage
+- 1 pkg TJ's Italian sausage-less sausage
 - 1 14-oz can tomatoes
 - 1 cup red lentils
 - 4 cups vegetable broth
@@ -30,7 +30,7 @@ In a large pot, sauté diced yellow onion and chopped zucchini. Season with salt
 
 ### Step 2
 
-Add diced TJs Italian sausage-less sausage and sauté until lightly browned. Add diced tomatoes, red lentils, and
+Add diced TJ's Italian sausage-less sausage and sauté until lightly browned. Add diced tomatoes, red lentils, and
 vegetable broth. Season and bring to a boil.
 
 ### Step 3

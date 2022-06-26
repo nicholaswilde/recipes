@@ -24,7 +24,7 @@
 - 1.5 cups sugar
 - 1.5 cups honey
 - 1.5 cups water
-- 8 oz finley chipped walnuts
+- 8 oz finely chipped walnuts
 - 1 tsp cinnamon
 - 0.13 tsp cloves
 
@@ -62,7 +62,7 @@ Heat to boiling and allow to boil for 1 minute. Remove from heat and let syrup c
 
 ### Step 6
 
-To make the walnut topping, stir together finley chipped walnuts, 1 tsp cinnamon, and 1/8 tsp cloves.
+To make the walnut topping, stir together finely chipped walnuts, 1 tsp cinnamon, and 1/8 tsp cloves.
 
 ### Step 7
 

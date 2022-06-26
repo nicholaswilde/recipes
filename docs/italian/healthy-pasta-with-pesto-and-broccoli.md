@@ -11,7 +11,7 @@
 - 1 pkg fusilli pasta
 - 4 cups broccoli florets
 - 2 cups grape tomatoes
-- 0.5 cup parmesan cheese
+- 0.5 cup Parmesan cheese
 - 1 cup pasta water
 - 1 Tbsp olive oil
 - 2 cloves garlic
@@ -35,7 +35,7 @@ Cook fusilli pasta as per package instructions.
 
 ### Step 2
 
-While pasta is cooking, get all ingredients ready – chop broccoli florets, half grape tomatoes, and grate parmesan
+While pasta is cooking, get all ingredients ready – chop broccoli florets, half grape tomatoes, and grate Parmesan
 cheese.
 
 ### Step 3

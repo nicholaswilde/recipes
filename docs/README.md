@@ -16,13 +16,15 @@ My collection of recipes made with [cooklang][1].
 
 ---
 
-## ​:balance_scale:​&nbsp;​ License
+<!-- spellchecker-disable -->
+## :balance_scale: &nbsp; License
+<!-- spellchecker-enable -->
 
 ​[​Apache 2.0 License​](../LICENSE)
 
 ---
 
-## ​:pencil:​&nbsp;​ Author
+## :pencil:​&nbsp;​Author
 
 ​This project was started in 2022 by [​Nicholas Wilde​](https://github.com/nicholaswilde/).
 
