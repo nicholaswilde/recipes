@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 1 cup greek yogurt
+- 1 cup Greek yogurt
 - 2 tsp harissa
 - 1 cup TJ's falafel mix
 - 1 cup flour
@@ -17,7 +17,7 @@
 - 0.5 cup unsalted butter
 - 2 large eggs
 - 0.5 cup heavy cream
-- 0.5 cup sundried tomatoes
+- 0.5 cup sun-dried tomatoes
 - 0.5 red bell pepper
 
 ## :cooking: Cookware
@@ -37,17 +37,17 @@ Preheat oven to 400°F. Line a large baking sheet with parchment paper or spray 
 
 ### Step 2
 
-Harissa Yogurt: Combine greek yogurt and harissa in a small bowl, cover and refrigerate.
+Harissa Yogurt: Combine Greek yogurt and harissa in a small bowl, cover and refrigerate.
 
 ### Step 3
 
-Falafel Scontes: In a large bowl, combine TJ's falafel mix, flour, sugar, and baking powder in a large bowl. Cut the
+Falafel Scones: In a large bowl, combine TJ's falafel mix, flour, sugar, and baking powder in a large bowl. Cut the
 unsalted butter into the dry ingredients until crumbly, leaving pea sized chunks of butter. Set aside.
 
 ### Step 4
 
 In a medium bowl, lightly beat the large eggs and heavy cream. Make a well in the center of dry mixture and add egg
-mixture. Fold gently with a spatula, until just combined. Gently stir in sundried tomatoes, if using.
+mixture. Fold gently with a spatula, until just combined. Gently stir in sun-dried tomatoes, if using.
 
 ### Step 5
 

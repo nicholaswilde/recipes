@@ -11,7 +11,7 @@
 - 0.5 cup (1 TJ's block) extra firm tofu
 - 1 Tbsp coconut aminos
 - 0.13 tsp red pepper flakes
-- 0.25 tsp tumeric
+- 0.25 tsp turmeric
 - 5 carrots
 - 1 medium red peppers
 - 3 green onions
@@ -26,7 +26,7 @@
 - 1 Tbsp coconut aminos
 - 1 Tbsp coconut aminos
 - 0.5 tsp fresh ginger
-- 0.5 tsp tumeric
+- 0.5 tsp turmeric
 - some cilantro
 
 ## :cooking: Cookware
@@ -41,7 +41,7 @@
 ### Step 1
 
 Press excess water out of extra firm tofu, then blitz in a food processor or into a crumble. Mix in 1 Tbsp coconut
-aminos, 1/8 tsp red pepper flakes, and 1/4 tsp tumeric. Set aside.
+aminos, 1/8 tsp red pepper flakes, and 1/4 tsp turmeric. Set aside.
 
 ### Step 2
 
@@ -67,7 +67,7 @@ Add 1 Tbsp coconut aminos and sauté 2 minutes.
 
 ### Step 7
 
-Add sauce, fresh ginger, and 1/2 tsp tumeric. Sauté and heat until warmed through.
+Add sauce, fresh ginger, and 1/2 tsp turmeric. Sauté and heat until warmed through.
 
 ### Step 8
 

@@ -11,7 +11,7 @@
 - 0.75 cup granulated sugar
 - 2 eggs
 - 2 sticks unsalted butter
-- 1 tsp vanilla extract
+- 1 tsp vanilla
 - 2.25 cups flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -28,7 +28,7 @@
 
 ### Step 1
 
-Mix granulated sugar, eggs, unsalted butter, and vanilla extract with mixer.
+Mix granulated sugar, eggs, unsalted butter, and vanilla with mixer.
 
 ### Step 2
 
@@ -37,4 +37,4 @@ walnuts, if desired.
 
 ### Step 3
 
-Bake on lightly greased cooking sheet or parchment paper. Bake at 375F for approximately 9 to 11 minutes.
+Bake on lightly greased cooking sheet or parchment paper. Bake at 375°F for approximately 9 to 11 minutes.

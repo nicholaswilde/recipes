@@ -38,7 +38,7 @@ Preheat the oven to 400°F. Line a baking sheet with parchment paper or a silico
 
 Heat the olive oil in a large skillet over medium heat. Add the eggplant and cook, occasionally mashing it with the side
 of a spatula or wooden spoon, for about 5 minutes, or until the eggplant starts to become tender. Add the onion and cook
-for 4 to 5 minutes more, until the eggplant is cooked through and tender but stillholds its shape.
+for 4 to 5 minutes more, until the eggplant is cooked through and tender but still holds its shape.
 
 ### Step 3
 

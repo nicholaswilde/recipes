@@ -16,11 +16,11 @@
 - 3 cloves garlic
 - 1 jar marinated artichokes
 - 3 Tbsp balsamic vinegar
-- 10 Tbsp creme fraiche
+- 10 Tbsp creme fraîche
 - 0.25 tsp nutmeg
 - 0.5 tsp cayenne
 - 1 tsp Italian herbs
-- 12 oz orecchietee
+- 12 oz orecchiette
 - 1.25 cups grated pecorino
 - 3 cups arugula
 - some dill
@@ -51,7 +51,7 @@ Add garlic and endives to warm butter and sauté for 1 minute.
 
 ### Step 5
 
-Add marinated artichokes, remaining butter, balsamic vinegar, creme fraiche, nutmeg, cayenne, and Italian herbs.
+Add marinated artichokes, remaining butter, balsamic vinegar, crème fraîche, nutmeg, cayenne, and Italian herbs.
 
 ### Step 6
 
@@ -59,7 +59,7 @@ Chop the lemons into small pieces and add to pan. Keep heat low and cover.
 
 ### Step 7
 
-Cook orecchietee according to package instructions. Drain and reserve 1/2 cup of pasta water.
+Cook orecchiette according to package instructions. Drain and reserve 1/2 cup of pasta water.
 
 ### Step 8
 

@@ -11,7 +11,7 @@
 - 1 egg
 - 14 oz ricotta
 - 0.25 tsp nutmeg
-- 1 lemon lemon zest
+- 1 lemon zest
 - 1.5 oz Parmesan
 - 1 heaped Tbsp flour
 - 1 Tbsp olive oil

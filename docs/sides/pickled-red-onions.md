@@ -37,7 +37,7 @@ onions in the fridge.
 
 ### Step 3
 
-Your pickled onions will be ready to eat once they're bright pink and tender - about1 hour for very thinly sliced
+Your pickled onions will be ready to eat once they're bright pink and tender - about 1 hour for very thinly sliced
 onions, or overnight for thicker sliced onions. They will keep in the fridge for up to 2 weeks.
 
 ## :link: Source

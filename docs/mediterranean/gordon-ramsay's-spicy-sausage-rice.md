@@ -29,7 +29,7 @@
 
 ### Step 1
 
-Add glug of olive oil toa heated Dutch oven. Fry sliced red onion for 5 minutes until soft.
+Add glug of olive oil to a heated Dutch oven. Fry sliced red onion for 5 minutes until soft.
 
 ### Step 2
 

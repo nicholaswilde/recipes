@@ -1,6 +1,6 @@
-# Cheesy Black Bean Quesadilla Triagles
+# Cheesy Black Bean Quesadilla Triangles
 
-![Cheesy Black Bean Quesadilla Triagles](../assets/images/cheesy-black-bean-quesadilla-triagles.jpg)
+![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,10 +8,10 @@
 
 ## :salt: Ingredients
 
-- 2 Morningstart Farms chipotle black bean burgers
+- 2 MorningStar Farms chipotle black bean burgers
 - 0.5 cup salsa
 - 0.5 cup shredded cheddar or jack cheese
-- 0.25 cup shredded pepperjack cheese
+- 0.25 cup shredded pepper jack cheese
 - 2 tsp Southwest or Mexican seasoning
 - 10 flour tortillas
 - 1 Tbsp melted butter
@@ -28,8 +28,8 @@
 
 ### Step 1
 
-In a medium bowl, toss together Morningstart Farms chipotle black bean burgers thawed and cut into 1/4" pieces, salsa,
-shredded cheddar or jack cheese, shredded pepperjack cheese, and Southwest or Mexican seasoning.
+shredded cheddar or jack cheese, shredded pepper jack cheese, and Southwest or Mexican seasoning.
+In a medium bowl, toss together MorningStar Farms chipotle black bean burgers thawed and cut into 1/4" pieces, salsa,
 
 ### Step 2
 
@@ -42,12 +42,12 @@ completely enclosing filling and making small triangles. Secure with toothpicks.
 
 ### Step 4
 
-Place on baking sheet. Brush with melted butter and bake at 375F for 9 to 12 minutes.
+Place on baking sheet. Brush with melted butter and bake at 375°F for 9 to 12 minutes.
 
 ### Step 5
 
-Arrange on top of shredded lettuce. Spring with finaly chopped red or green bell pepper.
+Arrange on top of shredded lettuce. Spring with finely chopped red or green bell pepper.
 
 ## :link: Source
 
-- <Morningstar Farms>
+- MorningStar Farms

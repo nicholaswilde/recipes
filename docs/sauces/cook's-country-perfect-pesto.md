@@ -33,7 +33,7 @@ are light golden, 3 to 6 minutes. Spread pine nuts out on plate and let cool for
 ### Step 2
 
 Meanwhile, bring 2 quarts water to boil in medium saucepan. Remove and discard basil stems from leaves (you should have
-4 cups leaves [3 ounces by weight]). Add basil leaves and 1½ teaspoons salt to boiling water and cook until basil is
+4 cups leaves [3 ounces by weight]). Add basil leaves and 1.5 teaspoons salt to boiling water and cook until basil is
 wilted and bright green, 5 to 10 seconds. Using spider skimmer or slotted spoon, transfer basil directly to salad
 spinner and spin to remove excess water. Spread basil on clean dish towel to dry. (If you don't have a salad spinner,
 drain basil on clean dish towel and thoroughly pat dry with paper towels.)

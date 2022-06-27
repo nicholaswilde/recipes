@@ -27,7 +27,7 @@
 
 ### Step 1
 
-Heat olive oil in large skillet. Add thinly sliced onion and cook for 20 minutes, stirring frequencly.
+Heat olive oil in large skillet. Add thinly sliced onion and cook for 20 minutes, stirring frequently.
 
 ### Step 2
 

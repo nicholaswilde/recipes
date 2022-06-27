@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups crimini mushrooms
+- 1.5 cups cremini mushrooms
 - 1 cup bell peppers
 - 1 lb asparagus
 - 12 oz cherry tomatoes
@@ -36,11 +36,11 @@
 
 ### Step 1
 
-Pre-heat oven to 350°F, and toast pine nuts for 6 to 7 minutes. Set aside to cool.
+Preheat oven to 350°F, and toast pine nuts for 6 to 7 minutes. Set aside to cool.
 
 ### Step 2
 
-Turn up oven to 425°F. Place sliced crimini mushrooms, bell peppers, asparagus, cherry tomatoes, garlic, and shallot on
+Turn up oven to 425°F. Place sliced cremini mushrooms, bell peppers, asparagus, cherry tomatoes, garlic, and shallot on
 a roasting pan.
 
 ### Step 3
@@ -64,4 +64,4 @@ To make dressing, add olive oil, lemon juice, salt and pepper and mix until emul
 
 ### Step 7
 
-Mix together vegetables, orzo, dressing, crumbled feta, and pine nuts. Garnish with basil or parsely, if desired.
+Mix together vegetables, orzo, dressing, crumbled feta, and pine nuts. Garnish with basil or parsley, if desired.

@@ -70,9 +70,9 @@ Divide evenly among 12 muffin tins, filling them all the way up to the top, and 
 
 ### Step 9
 
-Bake for 32 to 36 minutes, or until deep golden brown and a toothpick inserted into the center comes out clean. When you
-press on the top it shouldn’t feel too spongey, so don’t be afraid of over baking! The GF blend just takes longer to
-bake.
+Bake for 32 to 36 minutes, or until deep golden brown and a toothpick inserted into the center comes out clean. When
+you press on the top it shouldn’t feel too spongy, so don’t be afraid of over baking! The gluten-free blend just
+takes longer to bake.
 
 ### Step 10
 

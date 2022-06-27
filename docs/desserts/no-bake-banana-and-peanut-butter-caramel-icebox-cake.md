@@ -18,7 +18,7 @@
 - some kosher salt
 - 1 14 oz can sweetened condensed milk
 - 2.75 cup heavy cream
-- 2 tsp vanilla extract
+- 2 tsp vanilla
 - 0.5 tsp kosher salt
 - 3 medium bananas
 - 4 sleeves graham crackers

@@ -12,13 +12,13 @@
 - 0.5 tsp salt
 - 0.5 red onion
 - some ice water
-- 2 Tbsp red whine vinegar
+- 2 Tbsp red wine vinegar
 - 1 tsp oregano
 - 0.5 tsp pepper
 - 0.75 tsp salt
 - 1 cucumber
 - 1 green bell pepper
-- 1 cup kalamata olives
+- 1 cup Kalamata olives
 - 2 Tbsp capers
 - some salt
 - some pepper
@@ -43,13 +43,13 @@ colander set in large bowl.
 
 ### Step 2
 
-Drain for 30 minutes. Place slided thin red onion in small bowl, cover with ice water, and let sit for 15 minutes. Whisk
-red whine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second small bowl.
+Drain for 30 minutes. Place sliced thin red onion in small bowl, cover with ice water, and let sit for 15 minutes. Whisk
+red wine vinegar, oregano, pepper, and remaining 3/4 tsp salt together in second small bowl.
 
 ### Step 3
 
 Discard tomato juice and transfer tomatoes to now-empty bowl. Drain onion and add to bowl with tomatoes. Add vinegar
-mixture, cucumber, green bell pepper, kalamata olives, and capers and toss to gently coat.
+mixture, cucumber, green bell pepper, Kalamata olives, and capers and toss to gently coat.
 
 ### Step 4
 

@@ -21,7 +21,7 @@
 - 2 Tbsp basil
 - some salt
 - some pepper
-- 0.5 lemon lemon juice
+- 0.5 lemon juice
 - 1 cup Parmesan
 - 1 loaf French bread
 

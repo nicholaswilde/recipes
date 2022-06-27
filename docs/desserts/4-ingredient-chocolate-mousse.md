@@ -11,7 +11,7 @@
 - 2 boxes silken tofu
 - 4 Tbsp cacao powder
 - 1 cup date paste
-- 1 tsp vanilla extract
+- 1 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -21,7 +21,7 @@
 
 ### Step 1
 
-Blend two 12.3 oz boxes of silken tofu, cacao powder, date paste and vanilla extract in a blender until well blended.
+Blend two 12.3 oz boxes of silken tofu, cacao powder, date paste and vanilla in a blender until well blended.
 
 ### Step 2
 

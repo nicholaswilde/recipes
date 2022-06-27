@@ -15,7 +15,7 @@
 - 0.25 cup cilantro
 - some lime juice
 - 1 can black beans (optional)
-- 1 cup avacado (optional)
+- 1 cup avocado (optional)
 - 1 cucumber (optional)
 
 ## :cooking: Cookware
@@ -27,4 +27,4 @@
 ### Step 1
 
 Combine diced tomatoes or 1 container TJ's pico de gallo, white onion, minced jalapeño, chickpeas, cilantro, lime juice
-to taste, black beans (optional), avacado (optional), and diced cucumber (optional) in a large bowl.
+to taste, black beans (optional), avocado (optional), and diced cucumber (optional) in a large bowl.

@@ -29,7 +29,7 @@ In a large pot, sauté scallions in 2 Tbsp of olive oil for 1 minute, until wilt
 
 ### Step 2
 
-Add fava beans and water. Stir to combine. Simmer for about 10 minutes or until the fava beans are soft. Drain teh fava
+Add fava beans and water. Stir to combine. Simmer for about 10 minutes or until the fava beans are soft. Drain the fava
 beans and scallions and return to pot.
 
 ### Step 3

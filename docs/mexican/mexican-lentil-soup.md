@@ -17,7 +17,7 @@
 - 1 tsp oregano
 - 1 tsp salt
 - 1 tsp pepper
-- 2 chipotle chilis in adobo
+- 2 chipotle chiles in adobo
 - 3 cups lentils
 - 1 large Russet potato
 - 1 15-oz can diced tomatoes
@@ -42,7 +42,7 @@ Add cumin, oregano, salt, and pepper.
 
 ### Step 3
 
-Stir, then add chipotle chilis in adobo and sauté for 2 minutes.
+Stir, then add chipotle chiles in adobo and sauté for 2 minutes.
 
 ### Step 4
 

@@ -11,8 +11,8 @@
 - 0.25 cup butter
 - 0.5 cup brown sugar
 - 5 fans pineapple
-- 1 box TJs Vanilla Cake and Baking cake mix
-- 2  eggs
+- 1 box TJ's Vanilla Cake and Baking cake mix
+- 2 eggs
 - 1 stick butter
 - 1 cup milk
 
@@ -32,14 +32,14 @@ of pan; set aside.
 
 ### Step 2
 
-In a large bowl, add TJs Vanilla Cake and Baking cake mix, eggs, melted butter and milk. Stir to combine. Pour cake
+In a large bowl, add TJ's Vanilla Cake and Baking cake mix, eggs, melted butter and milk. Stir to combine. Pour cake
 batter evenly atop prepared pineapple fans. Place pan in oven on center rack and bake 45 minutes, until a toothpick
 inserted in the center comes out clean. Remove pan from oven and immediately run a knife around edges to loosen cake.
 Carefully flip pan onto a heatproof serving plate. Leave pan over plate for 5 minutes.
 
 ### Step 3
 
-Remove baking pan and rearrange any pineapple slices that did not transfer to the cake. Serve warm, with TJs Vanilla
+Remove baking pan and rearrange any pineapple slices that did not transfer to the cake. Serve warm, with TJ's Vanilla
 Ice Cream, if desired.
 
 ## :link: Source

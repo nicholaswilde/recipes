@@ -24,7 +24,7 @@
 
 ### Step 1
 
-Preheat oven to 325F. In large bowl, beat eggs until foamy.
+Preheat oven to 325°F. In large bowl, beat eggs until foamy.
 
 ### Step 2
 

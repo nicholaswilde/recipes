@@ -11,7 +11,7 @@
 - 0.75 cup sugar
 - 0.75 cup water
 - 1 lb silken tofu
-- 8 oz semisweet chocolate
+- 8 oz semi-sweet chocolate
 - 1 tsp vanilla
 - 1.5 tsp ground cinnamon
 - 0.5 tsp chili powder
@@ -32,7 +32,7 @@ occasionally. Cool slightly.
 
 ### Step 2
 
-Put silken tofu, semisweet chocolate, vanilla, ground cinnamon, and chili powder in a blender and purée until
+Put silken tofu, semi-sweet chocolate, vanilla, ground cinnamon, and chili powder in a blender and purée until
 completely smooth, stopping machine to scrape down its sides if necessary. Divide among 4 to 6 ramekins and chill for at
 least 30 minutes. If you like, garnish with chocolate shavings before serving.
 

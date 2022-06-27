@@ -34,7 +34,7 @@
 
 ### Step 1
 
-Pre-heat oven to 350°F. Line a loaf pan with parchment paper.
+Preheat oven to 350°F. Line a loaf pan with parchment paper.
 
 ### Step 2
 

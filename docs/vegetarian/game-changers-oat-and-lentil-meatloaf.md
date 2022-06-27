@@ -34,7 +34,7 @@
 
 ### Step 1
 
-Preheat ovento 375°F. Sauté the celery, chopped onion, and minced garlic on high heat in a skillet with a few drops of
+Preheat oven to 375°F. Sauté the celery, chopped onion, and minced garlic on high heat in a skillet with a few drops of
 water for 5 minutes, until tender. Remove from heat and cool.
 
 ### Step 2

@@ -26,7 +26,7 @@
 - 1 Tbsp honey
 - 0.25 tsp salt
 - some pine nuts (optional)
-- some avacado (optional)
+- some avocado (optional)
 - some hummus (optional)
 
 ## :cooking: Cookware
@@ -44,7 +44,7 @@ Prepare cooked quinoa ahead of time. Preheat oven to 425°F.
 
 ### Step 2
 
-Toss trimmed and halved Brussels sprouts wih 1 Tbsp olive oil, adobo sauce, maple syrup, and 1/2 tsp salt. Arrange on
+Toss trimmed and halved Brussels sprouts with 1 Tbsp olive oil, adobo sauce, maple syrup, and 1/2 tsp salt. Arrange on
 baking sheet.
 
 ### Step 3
@@ -54,7 +54,7 @@ separate baking sheet.
 
 ### Step 4
 
-Bake Brussels sprouts and sweet potatoes for 25 mintues, stirring once halfway through.
+Bake Brussels sprouts and sweet potatoes for 25 minutes, stirring once halfway through.
 
 ### Step 5
 
@@ -70,4 +70,4 @@ Whisk until emulsified. Once baked, add Brussels sprouts and sweet potatoes to s
 
 ### Step 8
 
-Serve with desired toppings (e.g. pine nuts (optional), avacado (optional), hummus (optional)).
+Serve with desired toppings (e.g. pine nuts (optional), avocado (optional), hummus (optional)).

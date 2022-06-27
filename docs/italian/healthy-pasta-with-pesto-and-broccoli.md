@@ -11,14 +11,14 @@
 - 1 pkg fusilli pasta
 - 4 cups broccoli florets
 - 2 cups grape tomatoes
-- 0.5 cup parmesan cheese
+- 0.5 cup Parmesan cheese
 - 1 cup pasta water
 - 1 Tbsp olive oil
 - 2 cloves garlic
 - 1 Tbsp pesto
 - 1 Tbsp pesto
 - 0.25 cup pesto
-- 0.33 cup sun dried tomatoes
+- 0.33 cup sun-dried tomatoes
 - 1 salt
 - some black pepper
 - 0.13 tsp red pepper flakes
@@ -35,7 +35,7 @@ Cook fusilli pasta as per package instructions.
 
 ### Step 2
 
-While pasta is cooking, get all ingredients ready – chop broccoli florets, half grape tomatoes, and grate parmesan
+While pasta is cooking, get all ingredients ready – chop broccoli florets, half grape tomatoes, and grate Parmesan
 cheese.
 
 ### Step 3
@@ -58,7 +58,7 @@ broccoli, stir and cook for 4 minutes, stirring once.
 
 ### Step 7
 
-Remove skillet from heat and add remaining 1/4 cup pesto, sun dried tomatoes, half Parmesan cheese, salt, black pepper,
+Remove skillet from heat and add remaining 1/4 cup pesto, sun-dried tomatoes, half Parmesan cheese, salt, black pepper,
 red pepper flakes, pasta and pasta water. Stir gently and let flavors marinate for a few minutes. Do not cover because
 broccoli will become a mushy mess.
 
