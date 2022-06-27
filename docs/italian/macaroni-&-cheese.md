@@ -45,7 +45,7 @@ in whole milk. Bring to a boil, whisking constantly, then simmer for 3 minutes.
 ### Step 4
 
 Stir in Parmigiano-Reggiano and grated extra-sharp cheddar, 2 tsp salt, and 1/2 tsp pepper until smooth. Remove from
-heat and keep convered.
+heat and keep covered.
 
 ### Step 5
 
