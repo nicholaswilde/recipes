@@ -98,7 +98,6 @@ nav:
       - Mezza Luna Lasagna: italian/mezza-luna-lasagna.md
       - Spaghetti Alla Puttanesca: italian/spaghetti-alla-puttanesca.md
       - Spinach Lasagna: italian/spinach-lasagna.md
-      - Spinach Tortellini Soup by Joanna Gaines: italian/spinach-tortellini-soup-by-joanna-gaines.md
       - Summer Pesto Pasta: italian/summer-pesto-pasta.md
       - Trapani-Style Pasta: italian/trapani-style-pasta.md
   - Lunches:
@@ -113,7 +112,6 @@ nav:
       - Crispy Chicken-less Sliders: main/crispy-chicken-less-sliders.md
       - Fall Turkey Chili With Pumpkin: main/fall-turkey-chili-with-pumpkin.md
       - Fresh Fava Beans with Mint and Scallions: main/fresh-fava-beans-with-mint-and-scallions.md
-      - Lemony Lentil Soup: main/lemony-lentil-soup.md
       - Peruvian Burrito Bowl: main/peruvian-burrito-bowl.md
       - Spicy Pumpkin Curry Pot Pie: main/spicy-pumpkin-curry-pot-pie.md
   - Mediterranean:
@@ -123,7 +121,6 @@ nav:
       - Gordon Ramsay's Spicy Sausage Rice: mediterranean/gordon-ramsay's-spicy-sausage-rice.md
       - Greek Orzo Stuffed Red Peppers: mediterranean/greek-orzo-stuffed-red-peppers.md
       - Harissa Olive Oil-Braised Chickpeas and Fennel: mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md
-      - Ikarian Longevity Stew: mediterranean/ikarian-longevity-stew.md
       - Jeanie's Falafel: mediterranean/jeanie's-falafel.md
       - Lemon Garlic Orzo with Roasted Veggies: mediterranean/lemon-garlic-orzo-with-roasted-veggies.md
       - Mediterranean Pasta Salad: mediterranean/mediterranean-pasta-salad.md
@@ -137,11 +134,9 @@ nav:
       - Butternut Squash Tostadas: mexican/butternut-squash-tostadas.md
       - Cheesy Black Bean Quesadilla Triangles: mexican/cheesy-black-bean-quesadilla-triangles.md
       - Chipotle Breakfast Tacos: mexican/chipotle-breakfast-tacos.md
-      - Chipotle Corn Chowder.md: mexican/chipotle-corn-chowder.md
       - Chipotle-Inspired Vegan Burrito Bowls: mexican/chipotle-inspired-vegan-burrito-bowls.md
       - Lentil Fajita Tacos with Zhoug Crema: mexican/lentil-fajita-tacos-with-zhoug-crema.md
       - Mexican Garbanzo Salad: mexican/mexican-garbanzo-salad.md
-      - Mexican Lentil Soup: mexican/mexican-lentil-soup.md
       - Potato Tacos: mexican/potato-tacos.md
       - Slow Cooker Black Bean Chili: mexican/slow-cooker-black-bean-chili.md
       - Sweet and Spicy Corncakes: mexican/sweet-and-spicy-corncakes.md
@@ -180,7 +175,12 @@ nav:
   - Soups & Stews:
       - Black Bean and Butternut Soup: soups-and-stews/black-bean-and-butternut-soup.md
       - Chickenless Sausage and Lentil Soup: soups-and-stews/chickenless-sausage-and-lentil-soup.md
+      - Chipotle Corn Chowder.md: soups-and-stews/chipotle-corn-chowder.md
       - Eggplant Stew: soups-and-stews/eggplant-stew.md
+      - Ikarian Longevity Stew: soups-and-stews/ikarian-longevity-stew.md
+      - Lemony Lentil Soup: soups-and-stews/lemony-lentil-soup.md
+      - Mexican Lentil Soup: soups-and-stews/mexican-lentil-soup.md
+      - Spinach Tortellini Soup by Joanna Gaines: soups-and-stews/spinach-tortellini-soup-by-joanna-gaines.md
       - Split Pea Soup: soups-and-stews/split-pea-soup.md
   - Vegetarian:
       - Cauliflower Green Bean Mac and Cheese: vegetarian/cauliflower-green-bean-mac-and-cheese.md
