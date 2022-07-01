@@ -64,7 +64,6 @@ nav:
       - Chocolate Scotcheroos: desserts/chocolate-scotcheroos.md
       - Consumer Union Chocolate Chip Cookies: desserts/consumer-union-chocolate-chip-cookies.md
       - Crème Pâtissière: desserts/crème-pâtissière.md
-      - Danish Pastry Dough: desserts/danish-pastry-dough.md
       - Disney's Churros: desserts/disney's-churros.md
       - Disney's Frozen Pineapple Treat: desserts/disney's-frozen-pineapple-treat.md
       - French Fruit Tart: desserts/french-fruit-tart.md
@@ -77,16 +76,17 @@ nav:
       - Peanut Butter Crisscrosses: desserts/peanut-butter-crisscrosses.md
       - Pineapple Upside Down Cake: desserts/pineapple-upside-down-cake.md
       - Preposterously Peanut Butter Cup Cookies: desserts/preposterously-peanut-butter-cup-cookies.md
-      - Puff Pastry: desserts/puff-pastry.md
       - Slow Cooker Apple Crisp: desserts/slow-cooker-apple-crisp.md
       - Strawberry Mousse: desserts/strawberry-mousse.md
-      - Sweet Pastry: desserts/sweet-pastry.md
       - Tollhouse Pie: desserts/tollhouse-pie.md
       - Trader Joe's Key Lime Pie with Strawberry Whipped Cream: desserts/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md
       - Vegan Chocolate Pudding with Cinnamon and Chile: desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md
       - Vegan Strawberry Cake: desserts/vegan-strawberry-cake.md
   - Ingredients:
       - Buttermilk: ingredients/buttermilk.md
+      - Danish Pastry Dough: ingredients/danish-pastry-dough.md
+      - Puff Pastry: ingredients/puff-pastry.md
+      - Sweet Pastry: ingredients/sweet-pastry.md
   - Italian:
       - Baked Cream Cheese Spaghetti Casserole: italian/baked-cream-cheese-spaghetti-casserole.md
       - Caprese Risoni: italian/caprese-risoni.md
