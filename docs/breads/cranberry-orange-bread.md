@@ -15,7 +15,7 @@
 - 1 tsp salt
 - 6 Tbsp melted butter
 - 1 egg
-- 0.67 cup buttermilk
+- 0.67 cup [buttermilk][1]
 - 1 large orange zest
 - 0.33 cup orange juice
 - 1 cup cranberries
@@ -56,3 +56,5 @@ Bake and check at 35 minutes. Keep baking until golden brown (around 45 minutes)
 ### Step 7
 
 Cool in pan for 10 minutes.
+
+[1]: ../ingredients/buttermilk.md

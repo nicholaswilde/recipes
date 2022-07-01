@@ -12,7 +12,7 @@
 - 0.5 cup butter
 - 2 eggs
 - 1.5 cups banana
-- 0.5 cup buttermilk
+- 0.5 cup [buttermilk][1]
 - 1 tsp vanilla
 - 2.5 cups flour
 - 1 tsp baking soda
@@ -36,3 +36,5 @@ Heat oven to 350°F.
 ### Step 3
 
 Bake in 8" loaf pan for 1 hour.
+
+[1]: ../ingredients/buttermilk.md

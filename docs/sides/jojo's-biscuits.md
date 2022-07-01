@@ -13,7 +13,7 @@
 - 1 tsp baking soda
 - 3 sticks salted butter
 - 2 large eggs
-- 1.5 cups buttermilk
+- 1.5 cups [buttermilk][1]
 - some strawberry jam
 
 ## :cooking: Cookware
@@ -74,3 +74,5 @@ desired. Store leftovers in an airtight container at room temperature for up to 
 ## :link: Source
 
 - <https://magnolia.com/blog/recipe/f7e2d2a0-5997-4c87-958f-19024b248497/jojos-biscuits/>
+
+[1]: ../ingredients/buttermilk.md
