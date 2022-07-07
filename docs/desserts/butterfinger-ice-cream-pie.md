@@ -8,6 +8,7 @@
 
 ## :salt: Ingredients
 
+- 5 bars Butterfinger
 - 0.5 gal vanilla ice cream
 - 2 Oreo pie crusts
 - 1 8-oz tub Cool Whip
@@ -25,7 +26,7 @@ Allow vanilla ice cream to soften.
 
 ### Step 2
 
-Meanwhile, place all 5 Butterfinger{5%bars} bars into a plastic bag and crush with a rolling pin.
+Meanwhile, place all 5 Butterfinger bars into a plastic bag and crush with a rolling pin.
 
 ### Step 3
 
