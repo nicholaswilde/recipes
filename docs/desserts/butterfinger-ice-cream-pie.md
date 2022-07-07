@@ -29,7 +29,7 @@ Meanwhile, place all 5 Butterfinger{5%bars} bars into a plastic bag and crush wi
 
 ### Step 3
 
-Mix together softened ice cream and most of the Butterfringer crumble, reserving some Butterfinger to sprinkle on top.
+Mix together softened ice cream and most of the Butterfinger crumble, reserving some Butterfinger to sprinkle on top.
 
 ### Step 4
 
