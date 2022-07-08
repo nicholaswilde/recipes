@@ -52,3 +52,5 @@ apple.
 ## :link: Source
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+
+[1]: ../ingredients/buttermilk.md
