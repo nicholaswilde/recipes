@@ -4,7 +4,7 @@
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 15 minutes |
 
 ## :salt: Ingredients
 
@@ -22,12 +22,20 @@
 
 ### Step 1
 
-Mix all-purpose flour, salt, and baking powder together, mix sugar, eggs, melted butter, and milk together, add wet to
-dry and combine quickly.
+Preheat an electric skillet to 350°F.
 
 ### Step 2
 
-Cook on a griddle.
+Mix all-purpose flour, salt, and baking powder together, mix sugar, eggs, melted butter, and milk together, add wet to
+dry and combine quickly. It is okay if lumps exist in the batter.
+
+### Step 3
+
+Let the batter rest for 5 minutes.
+
+### Step 4
+
+Cook the pancakes on the electric skillet covered for 4 minutes on the first side and 3 minutes on the other.
 
 ## :link: Source
 
