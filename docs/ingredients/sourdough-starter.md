@@ -18,25 +18,25 @@
 
 ## :pencil: Instructions
 
-### Step 1
+### Days 1-3
 
-Days 1-3: Combine whole-wheat flour and all-purpose flour and keep in container as feed. Mix 1 cup of flour mixture and
+Combine whole-wheat flour and all-purpose flour and keep in container as feed. Mix 1 cup of flour mixture and
 2/3 cup (5-1/3 oz) of room temperature water in a 1 liter mason jar. Cover and let set at room temperature for 48 to 72
 hours.
 
-### Step 2
+### Days 4-10/14
 
-Days 4-10/14: Measure 1/4 cup (2 oz) of starter and transfer and stir in 1/2 cup (2.5 oz) of flour mixture and 1/4 cup
+Measure 1/4 cup (2 oz) of starter and transfer and stir in 1/2 cup (2.5 oz) of flour mixture and 1/4 cup
 (2 oz) of room temperature water. Repeat every 24 hours. Use for baking once doubled in size during 8 to 12 hour window.
 
-### Step 3
+### Store & Maintain
 
-Store and maintain: Combine 1/4 cup (2 oz) starter, 1/2 cup (2.5 oz) all-purpose flour, and 1/4 cup (2 oz) room
+Combine 1/4 cup (2 oz) starter, 1/2 cup (2.5 oz) all-purpose flour, and 1/4 cup (2 oz) room
 temperature water and let sit for 5 hours. Refrigerate and repeat weekly.
 
-### Step 4
+### Prepare for Baking
 
-Prepare for baking: 18 to 24 hours before, combine 1/2 cup (4 oz) starter add 1 cup (5 oz) all-purpose flour and 1/2 cup
+18 to 24 hours before, combine 1/2 cup (4 oz) starter add 1 cup (5 oz) all-purpose flour and 1/2 cup
 (4 oz) room temperature water. Cover and sit at room temperature for 5 hours. Measure out and refrigerate for 12 to 18
 hours before use.
 
