@@ -20,7 +20,7 @@
 - 1 tsp pepper
 - 0.67 cup panko breadcrumbs
 - 1 clove garlic
-- 0.25 cup pinenuts
+- 0.25 cup pine nuts
 - 1 lemon zest
 - 1 lemon juice
 - 0.5 tsp salt
@@ -53,7 +53,7 @@ Stir in panko breadcrumbs and let sit for 20 minutes.
 
 ### Step 4
 
-For the pesto sauce, put 1 clove of garlic, pinenuts, lemon zest and lemon juice and 1/2 tsp of salt in a food
+For the pesto sauce, put 1 clove of garlic, pine nuts, lemon zest and lemon juice and 1/2 tsp of salt in a food
 processor. Add packed basil leaves and olive oil until you get a smooth, sauce-like consistency.
 
 ### Step 5
