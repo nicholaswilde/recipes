@@ -7,6 +7,7 @@
 1cm
 20cm
 25g
+2cm
 350ºF
 400ºF
 450g
@@ -16,6 +17,7 @@
 9x13
 9x13-inch
 9x5
+À
 adobo
 Aji
 AJI
@@ -28,10 +30,13 @@ Bamba
 bella
 bok
 boule
+Butterfinger
 cannellini
 Caprese
 cassola
 Cassola
+chai
+Chai
 chia
 Chickenless
 chile
@@ -40,6 +45,8 @@ chipotle
 Chipotle
 Chipotle-Inspired
 chorizo
+choux
+Choux
 choy
 churro
 churros
@@ -54,6 +61,7 @@ Crema
 crème
 Crème
 cremini
+Creuset
 de
 Deglaze
 dente
@@ -71,6 +79,7 @@ FOK
 fraîche
 fusilli
 gallo
+Galway
 ganache
 garam
 glug
@@ -97,6 +106,7 @@ melty
 Mexicrema
 Mezza
 MorningStar
+Olde
 omelettes
 orecchiette
 overbeat
@@ -105,6 +115,7 @@ ozs
 panko
 Parm
 Parmigiano-Reggiano
+Pâte
 Pâtissière
 pecorino
 pepperoncini
@@ -113,6 +124,7 @@ pkgs
 png
 poblano
 porcini
+pourable
 pre-commit
 purée
 puréed
@@ -130,6 +142,7 @@ Scotcheroos
 sealable
 Shaoxing
 shortbreads
+Sláinte
 smush
 tahini
 Tahini
@@ -144,24 +157,10 @@ Tostadas
 Trapani-Style
 TSpoons
 tsps
+Tyme
 ungreased
 unmolding
 verde
 webp
 zhoug
 Zhoug
-9x13-inch
-pourable
-2cm
-Butterfinger
-Chai
-chai
-Creuset
-Choux
-choux
-Pâte
-À
-Olde
-Tyme
-Galway
-Sláinte
