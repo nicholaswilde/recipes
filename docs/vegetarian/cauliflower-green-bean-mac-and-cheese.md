@@ -1,5 +1,7 @@
 # Cauliflower Green Bean Mac and Cheese
 
+![Cauliflower Green Bean Mac and Cheese](../assets/images/cauliflower-green-bean-mac-and-cheese.jpg)
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 6 | 25 minutes |
