@@ -47,7 +47,6 @@ graph TD
   D --> |No|C;
   E --> F;
   F --> Q;
-  I --> J;
   Q --> |Yes|G;
   H --> I;
   J --> K;
