@@ -12,7 +12,6 @@
 - 1 Tbsp olive oil
 - 4 oz basil stems
 - 1.5 tsp salt
-- some dish towel
 - 1.25 oz Parmesan
 - 2 cloves garlic
 - 1 Tbsp olive oil
@@ -20,6 +19,7 @@
 ## :cooking: Cookware
 
 - 1 8-inch skillet
+- 1 dish towel
 - 1 salad spinner
 - 1 medium bowl
 
