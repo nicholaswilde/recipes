@@ -18,6 +18,6 @@ jobs:
       - name: Setup npm
         uses: actions/setup-node@v3
       - name: Setup spellchecker
-        run: npm install --global spellchecker-cli
+        run: npm install --location=global spellchecker-cli
       - name: Run spellcheck
         run: ./scripts/spellcheck.sh
