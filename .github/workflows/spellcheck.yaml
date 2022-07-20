@@ -17,8 +17,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup npm
         uses: actions/setup-node@v3
+      - run: npm init
       - name: Setup spellchecker
         run: npm install --location=global spellchecker-cli
-      - run: npm list --global spellchecker-cli
       - name: Run spellcheck
         run: ./scripts/spellcheck.sh
