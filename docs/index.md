@@ -11,7 +11,7 @@ My collection of recipes made with [cooklang][1].
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
 
-## ⚙️Development
+## :gear:&nbsp;Development
 
 Development of this site is documented [here][3].
 
