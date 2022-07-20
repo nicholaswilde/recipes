@@ -8,8 +8,8 @@ on:  # yamllint disable-line rule:truthy
       - main
 
 jobs:
-  markdown-link-check:
-    name: Markdown link check
+  spellcheck:
+    name: spellcheck
     runs-on: ubuntu-20.04
 
     steps:
