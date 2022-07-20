@@ -6,4 +6,4 @@ shopt -s dotglob nullglob
 
 a=$(git rev-parse --show-toplevel)
 cd "${a}"
-spellchecker -d dictionary.txt -f {"./cook/**/*.cook","./docs/**/*.md"}
+npx spellchecker -d dictionary.txt -f {"./cook/**/*.cook","./docs/**/*.md"}
