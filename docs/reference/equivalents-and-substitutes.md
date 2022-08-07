@@ -53,7 +53,15 @@
 | 1 Medium Onion                | 1 cup         | 1 Tbsp        | 3 Tbsp              |
 | 1 Large                       | 1-1/2 cups    | 1-1/2 Tbsp    | 4-1/2 Tbsp          |
 
-## :hot_pepper: [Vanilla][1]
+## :takeout_box: [Soy Sauce][6]
+
+| Soy Sauce Equivalency to: | Coconut Aminos          | Tamari                  |
+|---------------------------|-------------------------|-------------------------|
+| 1/4 tsp Soy Sauce         | 1/4 tsp + pinch of salt | 1/4 tsp + pinch of salt |
+| 1/2 tsp Soy Sauce         | 1/2 tsp + pinch of salt | 1/2 tsp + pinch of salt |
+| 1 Tbsp Soy Sauce          | 1 Tbsp + pinch of salt  | 1 Tbsp + pinch of salt  |
+
+## :icecream: [Vanilla][1]
 
 | Vanilla Bean Equivalency to:  | Vanilla Extract | Vanilla Bean Paste  | Ground Vanilla Beans  | Vanilla Powder  |
 |-------------------------------|-----------------|---------------------|-----------------------|-----------------|
@@ -72,3 +80,4 @@
 [3]: <https://www.thespruceeats.com/fresh-garlic-clove-substitute-4147732#toc-fresh-garlic-substitutes>
 [4]: <https://www.thespruceeats.com/chopped-onion-substitutes-4150417>
 [5]: <https://www.thespruceeats.com/herb-substitutions-in-cooking-1807691>
+[6]: <https://www.acouplecooks.com/soy-sauce-substitute/>
