@@ -231,7 +231,9 @@ nav:
       - The Best Began Burger: vegetarian/the-best-vegan-burger.md
       - Vegan Caesar Salad: vegetarian/vegan-caesar-salad.md
       - Vegetable Casserole: vegetarian/vegetable-casserole.md
-  - Pressure Cooker: pressure-cooker.md
+  - Reference:
+      - Equivalents & Substitutes: reference/equivalents-and-substitutes.md
+      - Pressure Cooker: reference/pressure-cooker.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Development: development.md
 extra:
@@ -259,6 +261,7 @@ plugins:
       minify_html: true
 
 markdown_extensions:
+  - footnotes
   - attr_list
   - md_in_html
   - admonition
