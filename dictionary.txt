@@ -155,6 +155,7 @@ smush
 tahini
 Tahini
 tamari
+Tamari
 Taquito-lada
 taquitos
 Tbsps
