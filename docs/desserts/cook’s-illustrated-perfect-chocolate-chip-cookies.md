@@ -10,7 +10,7 @@
 
 - 1.75 cups all-purpose flour
 - 0.5 tsp baking soda
-- 14 Tbsp unstalted butter
+- 14 Tbsp unsalted butter
 - 0.5 cup granulated sugar
 - 0.75 cup dark brown sugar
 - 1 tsp salt
@@ -39,7 +39,7 @@ In a medium bowl, whisk together the all-purpose flour and baking soda; set asid
 
 ### Step 3
 
-Heat 10 tablespoons of the unstalted butter in a 10-inch stainless steel or cast iron skillet over medium-high heat
+Heat 10 tablespoons of the unsalted butter in a 10-inch stainless steel or cast iron skillet over medium-high heat
 until melted, about 2 minutes. Continue cooking, swirling the pan constantly until the butter is dark golden brown and
 has a nutty aroma, 1 to 3 minutes. Remove skillet from heat and transfer the browned butter to a large heatproof bowl.
 Stir the remaining 4 tablespoons butter into the hot browned butter until completely melted. Set aside and let cool to
