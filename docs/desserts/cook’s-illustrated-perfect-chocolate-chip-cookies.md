@@ -8,16 +8,16 @@
 
 ## :salt: Ingredients
 
-- 1.75 cups all-purpose flour
+- 1.75 cups (210 g) all-purpose flour
 - 0.5 tsp baking soda
-- 14 Tbsp unsalted butter
-- 0.5 cup granulated sugar
-- 0.75 cup dark brown sugar
+- 14 Tbsp (198 g) unsalted butter
+- 0.5 cup (99 g) granulated sugar
+- 0.75 cup (160 g) dark brown sugar
 - 1 tsp salt
 - 2 tsp vanilla
 - 1 egg
 - 1 egg yolk
-- 1.25 cups semi-sweet chocolate chips
+- 1.25 cups (213 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 
