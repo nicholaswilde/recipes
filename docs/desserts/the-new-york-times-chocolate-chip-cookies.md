@@ -8,17 +8,17 @@
 
 ## :salt: Ingredients
 
-- 32 Tbsp cake flour
-- 1.66 cups bread flour
+- 30 Tbsp (225 g) cake flour
+- 1.66 cups (199 g) bread flour
 - 1.25 tsp baking soda
 - 1.5 tsp baking powder
 - 1.5 tsp salt
-- 1.25 cups unsalted butter
-- 1.25 cups light brown sugar
-- 18 Tbsp granulated sugar
+- 1.25 cups (283 g) unsalted butter
+- 1.25 cups (266 g) light brown sugar
+- 18 Tbsp (223 g) granulated sugar
 - 2 eggs
 - 2 tsp vanilla
-- 3.33 cups 60% cocoa dark chocolate chips
+- 3.33 cups (566 g) 60% cocoa dark chocolate chips
 - some sea salt
 
 ## :cooking: Cookware
