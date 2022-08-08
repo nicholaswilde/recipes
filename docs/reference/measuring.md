@@ -1,6 +1,6 @@
 # Measuring
 
-## Ingredient Weight Chart
+## :scales: Ingredient Weight Chart
 
 | Ingredient                                            | Volume            | Grams       | Ounces      |
 |-------------------------------------------------------|-------------------|-------------|-------------|
@@ -157,30 +157,6 @@
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
-| Lemon Juice Powder                                    | 2 Tbsps           | 18          | 5/8         |
-| Lime Juice Powder                                     | 2 Tbsps           | 18          | 5/8         |
-| Macadamia Nuts (whole)                                | 1 cup             | 149         | 5-1/4       |
-| Malt Syrup                                            | 2 Tbsps           | 43          | 1-1/2       |
-| Malted Milk Powder                                    | 1/4 cup           | 35          | 1-1/4       |
-| Malted Wheat Flakes                                   | 1/2 cup           | 64          | 2-1/4       |
-| Maple Sugar                                           | 1/2 cup           | 78          | 2-3/4       |
-| Maple Syrup                                           | 1/2 cup           | 156         | 5-1/2       |
-| Marshmallow Fluff                                     | 1 cup             | 128         | 4-1/2       |
-| Marshmallows (mini)                                   | 1 cup             | 43          | 1-1/2       |
-| Marzipan                                              | 1 cup             | 290         | 10-1/8      |
-| Mashed Potatoes                                       | 1 cup             | 213         | 7-1/2       |
-| Mayonnaise                                            | 1/2 cup           | 113         | 4           |
-| Meringue Powder                                       | 1/4 cup           | 43          | 1-1/2       |
-| Milk (evaporated)                                     | 1/2 cup           | 113         | 4           |
-| Milk (fresh)                                          | 1 cup             | 227         | 8           |
-| Millet (whole)                                        | 1/2 cup           | 103         | 3-5/8       |
-| Mini Chocolate Chips                                  | 1 cup             | 177         | 6-1/4       |
-| Molasses                                              | 1/4 cup           | 85          | 3           |
-| Mushrooms (sliced)                                    | 1 cup             | 78          | 2-3/4       |
-| Non-Diastatic Malt Powder                             | 2 Tbsps           | 18          | 5/8         |
-| Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
-| Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
-| Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
 | Quinoa (whole)                                        | 1 cup             | 177         | 6-1/4       |
 | Quinoa Flour                                          | 1 cup             | 110         | 3-7/8       |
 | Raisins (loose)                                       | 1 cup             | 149         | 5-1/4       |
@@ -244,7 +220,7 @@
 | Yogurt                                                | 1 cup             | 227         | 8           |
 | Zucchini (shredded)                                   | 1 cup             | 142 to 170  | 5 to 6      |
 
-## A Translation of Old-Fashioned American Measurements
+## :old_key: A Translation of Old-Fashioned American Measurements
 
 We shouldn’t give up our old measurements entirely. There’s too much history and sentiment tied up in them.
 “Butter the size of a walnut” stirs a chord that “28.35g butter” just can’t. But where there are no walnuts, we need
@@ -266,7 +242,7 @@ the other measurement as well.
 | Tumblerful                                | 2 cups              |
 | Wineglass                                 | 1/2 gill or 1/4 cup |
 
-## Using Cookbooks From Outside The United States
+## :book: Using Cookbooks From Outside The United States
 
 With the exception of the other English-speaking nations, cookbooks are written with metric measurements. Should
 you run into a metric cookbook, here are some conversions of our basic measurements, which are difficult to translate
