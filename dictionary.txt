@@ -59,6 +59,7 @@ churros
 Churros
 ci
 Ciliegine
+ClearJel
 cooklang
 Corncakes
 cotija
@@ -70,6 +71,7 @@ cremini
 Creuset
 de
 Deglaze
+Demerara
 dente
 doneness
 Eggless
@@ -81,6 +83,7 @@ fava
 Fava
 flaxmeal
 flaxseed
+Flaxseed
 FOK
 fraîche
 fusilli
@@ -96,6 +99,7 @@ Hasselback
 Horiatiki
 huacatay
 Ikarian
+Improver
 Incredisauce
 jalapeño
 Jalapeño
@@ -114,6 +118,7 @@ melty
 Mexicrema
 Mezza
 MorningStar
+Non-Diastatic
 Olde
 omelettes
 orecchiette
@@ -152,6 +157,7 @@ Shaoxing
 shortbreads
 Sláinte
 smush
+Spelt
 tahini
 Tahini
 tamari
@@ -159,6 +165,7 @@ Tamari
 Taquito-lada
 taquitos
 Tbsps
+Teff
 TJ's
 Tollhouse
 tomari
@@ -166,6 +173,8 @@ Tostadas
 Trapani-Style
 TSpoons
 tsps
+Tubinado
+Tumblerful
 Tyme
 ungreased
 unmolding
