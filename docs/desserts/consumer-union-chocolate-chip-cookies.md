@@ -38,7 +38,7 @@ walnuts, if desired.
 
 ### Step 3
 
-Portion cookies out in 3 Tbsp (60 g) meausrements. Bake on lightly greased cooking sheet or parchment paper. Bake at
+Portion cookies out in 3 Tbsp (60 g) measurements. Bake on lightly greased cooking sheet or parchment paper. Bake at
 375°F for approximately 9 to 11 minutes.
 
 ## :link: Source
