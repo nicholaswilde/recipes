@@ -53,6 +53,19 @@
 | 1 Medium Onion                | 1 cup         | 1 Tbsp        | 3 Tbsp              |
 | 1 Large                       | 1-1/2 cups    | 1-1/2 Tbsp    | 4-1/2 Tbsp          |
 
+## :salt: [Salt][7]
+
+| Table Salt  | Coarse Kosher Salt  | Fine Sea Salt     | Coarse Sea Salt   | Fine Himalayan Pink Salt  | Coarse Himalayan Pink Salt  | Canning & Pickling Salt |
+|-------------|---------------------|-------------------|-------------------|---------------------------|-----------------------------|-------------------------|
+| 1/4 tsp     | 1/4 tsp             | 1/4 tsp           | 1/4 tsp           | 1/4 tsp                   | 1/4 tsp                     | 1/4 tsp                 |
+| 1-1/4 tsps  | 1 tsp               | 1 tsp             | 1 tsp             | 1 tsp                     | 1 tsp                       | 1 tsps                  |
+| 1 Tbsp      | 1 Tbsp + 3/4 tsp    | 1 Tbsp            | 1 Tbsp            | 1 Tbsp + 1/4 tsp          | 1 Tbsp + 1/4 tsp            | 1 Tbsp                  |
+| 1/4 cup     | 1/4 cup + 1 Tbsp    | 1/4 cup + 1/2 tsp | 1/4 cup           | 1/4 cup + 1 tsp           | 1/4 cup + 1-1/2 tsp         | 1/4 cups                |
+| 1/2 cup     | 1/2 cup + 2 Tbsp    | 1/2 cup + 1 tsp   | 1/2 cup + 1/4 tsp | 1/2 cup + 2 tsp           | 1/2 cup + 1 Tbsp            | 1/2 cup                 |
+| 3/4 cup     | 3/4 cup + 3 Tbsp    | 3/4 cup + 1 tsp   | 3/4 cup + 1/4 tsp | 3/4 cup + 1 Tbsp          | 3/4 cup + 4 tsps            | 3/4 cups                |
+| 1 cup       | 1 1/4 cups          | 1 cup + 1 tsp     | 1 cup + 1/2 tsp   | 1 cup + 4 tsps            | 1 cup + 2 Tbsp              | 1 cup                   |
+| 2 cups      | 2-1/2 cups          | 2 cups + 1 Tbsp   | 2 cups + 1 tsp    | 2 cups + 3 Tbsp           | 2-1/4 cups                  | 2 cups                  |
+
 ## :takeout_box: [Soy Sauce][6]
 
 | Soy Sauce Equivalency to: | Coconut Aminos          | Tamari                  |
@@ -65,19 +78,20 @@
 
 | Vanilla Bean Equivalency to:  | Vanilla Extract | Vanilla Bean Paste  | Ground Vanilla Beans  | Vanilla Powder  |
 |-------------------------------|-----------------|---------------------|-----------------------|-----------------|
-| 1/4 Whole Vanilla Bean       | 1/4 Tbsp       | 1/2 - 3/4 tsp       | 1/2 Tbsp             | 1/2 tsp         |
-| 1/2 Whole Vanilla Bean       | 1/2 Tbsp       | 1 tsp - 1-1/2 tsp   | 3/4 tsp               | 1 tsp           |
-| 1 Whole Vanilla Bean         | 1 Tbsp         | 2-3 tsp             | 1-1/2 tsp             | 2 tsp           |
+| 1/4 Whole Vanilla Bean        | 1/4 Tbsp        | 1/2 - 3/4 tsp       | 1/2 Tbsp              | 1/2 tsp         |
+| 1/2 Whole Vanilla Bean        | 1/2 Tbsp        | 1 tsp - 1-1/2 tsp   | 3/4 tsp               | 1 tsp           |
+| 1 Whole Vanilla Bean          | 1 Tbsp          | 2-3 tsp             | 1-1/2 tsp             | 2 tsp           |
 
 [^1]:
     Baking powder contains cream of tartar. It’s literally just two parts cream of tartar and one part baking soda,
     thrown into a little can and packaged up nice and pretty. If your recipe calls for both baking soda and cream
     of tartar—usually for leavening purposes—just replace both with baking powder.
 [^2]:
-    This will add an extra 3/8 teaspoon of salt, so decrease the salt in your recipe accordingly.
+    This will add an extra 3/8 tsp of salt, so decrease the salt in your recipe accordingly.
 [1]: <https://www.beanilla.com/blog/how-to-use-vanilla-beans>
 [2]: <https://thetakeout.com/you-don-t-need-to-buy-cream-of-tartar-1849147017>
 [3]: <https://www.thespruceeats.com/fresh-garlic-clove-substitute-4147732#toc-fresh-garlic-substitutes>
 [4]: <https://www.thespruceeats.com/chopped-onion-substitutes-4150417>
 [5]: <https://www.thespruceeats.com/herb-substitutions-in-cooking-1807691>
 [6]: <https://www.acouplecooks.com/soy-sauce-substitute/>
+[7]: <https://www.mortonsalt.com/article/salt-conversion-chart/>
