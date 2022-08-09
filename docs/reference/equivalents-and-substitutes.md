@@ -58,7 +58,7 @@
 | Table Salt  | Coarse Kosher Salt  | Fine Sea Salt     | Coarse Sea Salt   | Fine Himalayan Pink Salt  | Coarse Himalayan Pink Salt  | Canning & Pickling Salt |
 |-------------|---------------------|-------------------|-------------------|---------------------------|-----------------------------|-------------------------|
 | 1/4 tsp     | 1/4 tsp             | 1/4 tsp           | 1/4 tsp           | 1/4 tsp                   | 1/4 tsp                     | 1/4 tsp                 |
-| 1-1/4 tsps  | 1 tsp               | 1 tsp             | 1 tsp             | 1 tsp                     | 1 tsp                       | 1 tsps                  |
+| 1 tsp       | 1-1/4 tsp           | 1 tsp             | 1 tsp             | 1 tsp                     | 1 tsp                       | 1 tsps                  |
 | 1 Tbsp      | 1 Tbsp + 3/4 tsp    | 1 Tbsp            | 1 Tbsp            | 1 Tbsp + 1/4 tsp          | 1 Tbsp + 1/4 tsp            | 1 Tbsp                  |
 | 1/4 cup     | 1/4 cup + 1 Tbsp    | 1/4 cup + 1/2 tsp | 1/4 cup           | 1/4 cup + 1 tsp           | 1/4 cup + 1-1/2 tsp         | 1/4 cups                |
 | 1/2 cup     | 1/2 cup + 2 Tbsp    | 1/2 cup + 1 tsp   | 1/2 cup + 1/4 tsp | 1/2 cup + 2 tsp           | 1/2 cup + 1 Tbsp            | 1/2 cup                 |
