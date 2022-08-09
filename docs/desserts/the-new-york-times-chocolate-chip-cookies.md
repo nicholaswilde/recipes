@@ -51,7 +51,7 @@ When ready to bake, preheat oven to 350°F. Line a baking sheet with parchment p
 
 ### Step 5
 
-Scoop 3 1/2-ounces of dough, roll into a rough ball (it should be the size of a large golf ball) and place on the baking
+Scoop 3 Tbsp (60 g) of dough, roll into a rough ball (it should be the size of a large golf ball) and place on the baking
 sheet. Repeat until you have six mounds of dough on the cookie sheet. Sprinkle lightly with sea salt and bake until
 golden brown but still soft, 18 to 20 minutes. Transfer the parchment or silicone sheet to a wire rack for 10 minutes,
 then transfer the cookies onto another cooling rack to cool a bit more, until just warm or at room temperature. Repeat
