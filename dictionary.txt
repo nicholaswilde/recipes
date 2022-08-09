@@ -136,6 +136,8 @@ pico
 pkgs
 png
 poblano
+polenta
+Polenta
 porcini
 pourable
 pre-commit
@@ -183,4 +185,4 @@ webp
 Zeb's
 zhoug
 Zhoug
-polenta
+Esselstyn
