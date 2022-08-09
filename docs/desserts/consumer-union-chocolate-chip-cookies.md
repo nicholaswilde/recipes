@@ -9,6 +9,7 @@
 ## :salt: Ingredients
 
 - 0.75 cup (149 g) granulated sugar
+- 0.75 cup (160 g) light brown sugar
 - 2 eggs
 - 2 sticks (226 g) unsalted butter
 - 1 tsp vanilla
@@ -28,7 +29,7 @@
 
 ### Step 1
 
-Mix granulated sugar, eggs, unsalted butter, and vanilla with mixer.
+Mix granulated sugar, brown sugar, eggs, unsalted butter, and vanilla with mixer.
 
 ### Step 2
 
@@ -37,7 +38,8 @@ walnuts, if desired.
 
 ### Step 3
 
-Bake on lightly greased cooking sheet or parchment paper. Bake at 375°F for approximately 9 to 11 minutes.
+Portion cookies out in 3 Tbsp (60 g) meausrements. Bake on lightly greased cooking sheet or parchment paper. Bake at
+375°F for approximately 9 to 11 minutes.
 
 ## :link: Source
 
