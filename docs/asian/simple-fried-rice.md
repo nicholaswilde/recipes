@@ -30,7 +30,7 @@
 
 ### Step 1
 
-Beat eggs and 1/4 teaspoon salt in bowl until ot and well combined. Heat 2 teaspoons vegetable oil in 14-inch
+Beat eggs and 1/4 teaspoon salt in bowl until well combined. Heat 2 teaspoons vegetable oil in 14-inch
 flat-bottomed wok or 12-inch carbon-steel or cast-iron skillet over medium-high heat until oil is just smoking. Add eggs
 and cook, stirring frequently, always until very little liquid egg remains, 30 to 60 seconds. Transfer to large plate.
 
