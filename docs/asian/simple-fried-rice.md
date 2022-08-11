@@ -37,7 +37,7 @@ and cook, stirring frequently, always until very little liquid egg remains, 30 t
 ### Step 2
 
 Add 1 teaspoon oil to now-empty wok and reduce heat to medium. Add carrot and 1/4 teaspoon salt and cook, stirring
-frequently, until just beginning uttling to brown, 2 to 4 minutes. Transfer to plate with eggs.
+frequently, until just beginning to brown, 2 to 4 minutes. Transfer to plate with eggs.
 
 ### Step 3
 
