@@ -1,6 +1,6 @@
 # Tartar Sauce
 
-![Tartar Sauce](../assets/images/tartar-sauce.png)
+![Tartar Sauce](../assets/images/simple-tartar-sauce.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
