@@ -51,4 +51,4 @@ Add veggies, toasted crushed almonds, and raisins and mix together. Top with cho
 
 - Forks Over Knives
 
-[1]: ../sauces/white-mac-and-cheese-sauce.md
+[1]: ../sauces-and-dressings/white-mac-and-cheese-sauce.md
