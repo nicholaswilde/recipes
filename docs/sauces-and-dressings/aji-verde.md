@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 0.5 cup mayonnaise
+- 0.5 cup [mayonnaise][1]
 - 1 jalapeño chile
 - 3 Tbsp cilantro
 - 2 Tbsp cotija cheese
@@ -34,3 +34,5 @@ Blend for 1 minute.
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <./mayonnaise.md>

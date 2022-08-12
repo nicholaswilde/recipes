@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 1 cup mayonnaise
+- 1 cup [mayonnaise][1]
 - 2 dill pickles
 - 2 Tbsp lemon juice
 - 1 Tbsp dill
@@ -35,3 +35,5 @@ Remove from refrigerator and serve the tartar sauce.
 ## :link: Source
 
 - <https://www.tastingtable.com/873076/simple-tartar-sauce-recipe/>
+
+[1]: <./mayonnaise.md>

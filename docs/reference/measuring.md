@@ -145,7 +145,7 @@
 | Marshmallows (mini)                                   | 1 cup             | 43          | 1-1/2       |
 | Marzipan                                              | 1 cup             | 290         | 10-1/8      |
 | Mashed Potatoes                                       | 1 cup             | 213         | 7-1/2       |
-| Mayonnaise                                            | 1/2 cup           | 113         | 4           |
+| [Mayonnaise][1]                                       | 1/2 cup           | 113         | 4           |
 | Meringue Powder                                       | 1/4 cup           | 43          | 1-1/2       |
 | Milk (evaporated)                                     | 1/2 cup           | 113         | 4           |
 | Milk (fresh)                                          | 1 cup             | 227         | 8           |
@@ -279,3 +279,5 @@ with the gas marks, used in some countries, as well.
 ## :link: Source
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+
+[1]: <../sauces-and-dressings/mayonnaise.md>

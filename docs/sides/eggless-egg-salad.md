@@ -18,7 +18,7 @@
 - 2 tsp dill pickle relish
 - 0.25 tsp onion powder
 - 0.25 tsp garlic powder
-- 0.25 cup mayonnaise
+- 0.25 cup [mayonnaise][1]
 - some sea salt
 - some turmeric
 
@@ -41,3 +41,5 @@ Adjust ingredients and sea salt to your liking. Add more turmeric if it needs mo
 ## :link: Source
 
 - <https://www.tastewiththeeyes.com/2010/01/eggless-egg-salad/>
+
+[1]: <../sauces-and-dressings/mayonnaise.md>

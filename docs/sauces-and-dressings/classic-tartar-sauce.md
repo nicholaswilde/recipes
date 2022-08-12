@@ -10,7 +10,7 @@
 
 - 1 small shallot
 - 1 clove garlic
-- 1 cup mayonnaise
+- 1 cup [mayonnaise][1]
 - 2 Tbsp caper berries
 - 2 Tbsp pickles
 - 1 Tbsp chives
@@ -40,3 +40,5 @@ Do Ahead: Tartar sauce can be made 1 week ahead. Cover and chill.
 ## :link: Source
 
 - <https://www.bonappetit.com/recipe/classic-tartar-sauce/amp>
+
+[1]: <./mayonnaise.md>
