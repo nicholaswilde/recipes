@@ -91,6 +91,7 @@ flaxseed
 Flaxseed
 FOK
 fraîche
+Fraîche
 fusilli
 gallo
 Galway
