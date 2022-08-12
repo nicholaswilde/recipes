@@ -28,6 +28,7 @@ AJI
 al
 al dente
 Alla
+All'Assassina
 aminos
 Aminos
 Arborio
@@ -133,6 +134,7 @@ ozs
 panko
 Parm
 Parmigiano-Reggiano
+passata
 Pâte
 Pâtissière
 pecorino
