@@ -4,12 +4,20 @@
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 5 minutes |
 
 ## :salt: Ingredients
 
-- 1 cup white sugar
-- 1 Tbsp molasses
+| Type  | White Sugar | Molasses  |
+|-------|-------------|-----------|
+| Light | 0.25 cup    | 0.25 Tbsp |
+| Light | 0.5 cup     | 0.5 Tbsp  |
+| Light | 0.75 cup    | 0.75 Tbsp |
+| Light | 1 cup       | 1 Tbsp    |
+| Dark  | 0.25 cup    | 0.5 Tbs   |
+| Dark  | 0.5 cup     | 1 Tbsp    |
+| Dark  | 0.75 cup    | 1.5 Tbsp  |
+| Dark  | 1 cup       | 2 Tbsp    |
 
 ## :cooking: Cookware
 
@@ -25,7 +33,7 @@ Gather the ingredients.
 
 ### Step 2
 
-Combine white sugar and molasses in a bowl to make light brown sugar. Mix with a wooden spoon or mixer until thoroughly
+Combine white sugar and molasses in a bowl to make brown sugar. Mix with a wooden spoon or mixer until thoroughly
 blended.
 
 ### Step 3
