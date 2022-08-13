@@ -10,10 +10,10 @@
 
 - 1 cup vegetable shortening
 - 1 cup granulated sugar
-- 1 cup brown sugar
+- 1 cup [brown sugar][1]
 - 2 large eggs
 - 1 tsp vanilla
-- 1 cup peanut butter (smooth supermarket style, not natural)
+- 1 cup [peanut butter][2] (smooth supermarket style, not natural)
 - 3 cups flour
 - 2 tsp baking soda
 - 0.5 tsp salt
@@ -44,3 +44,6 @@ cookies for 10 minutes, or until lightly browned. Remove from the oven and cool 
 ## :link: Source
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+
+[1]: <../ingredients/brown-sugar.md>
+[2]: <../ingredients/peanut-butter.md>
