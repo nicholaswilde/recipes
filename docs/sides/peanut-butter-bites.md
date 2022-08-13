@@ -12,7 +12,7 @@
 - 1 tsp vanilla
 - 0.5 tsp cinnamon
 - 1 cup pitted dates
-- 0.5 cup peanut butter
+- 0.5 cup [peanut butter][1]
 - 1 pinch salt
 
 ## :cooking: Cookware
@@ -35,3 +35,5 @@ fork to make a cross hatch.
 ### Step 3
 
 Keep covered and chilled in the fridge.
+
+[1]: <../ingredients/peanut-butter.md>
