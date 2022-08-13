@@ -16,7 +16,7 @@
 - 3 cloves garlic
 - 1 jar marinated artichokes
 - 3 Tbsp balsamic vinegar
-- 10 Tbsp creme fraîche
+- 10 Tbsp [crème fraîche][1]
 - 0.25 tsp nutmeg
 - 0.5 tsp cayenne
 - 1 tsp Italian herbs
@@ -64,3 +64,5 @@ Cook orecchiette according to package instructions. Drain and reserve 1/2 cup of
 ### Step 8
 
 Mix cooked pasta, artichoke sauce, and grated pecorino. Add arugula and dill.
+
+[1]: <../ingredients/crème-fraîche.md>
