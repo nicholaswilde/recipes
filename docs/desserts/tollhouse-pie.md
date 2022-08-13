@@ -11,7 +11,7 @@
 - 2 eggs
 - 0.5 cup flour
 - 0.5 cup sugar
-- 0.5 cup brown sugar
+- 0.5 cup [brown sugar][1]
 - 1 cup butter
 - 1 6 oz pkg chocolate chips
 - 1 unbaked pie shell
@@ -37,3 +37,5 @@ Mix in melted butter. Stir in chocolate chips and pour into unbaked pie shell.
 ### Step 4
 
 Bake for 1 hour.
+
+[1]: <../ingredients/brown-sugar.md>
