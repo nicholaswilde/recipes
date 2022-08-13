@@ -10,7 +10,7 @@
 
 - 6 eggs
 - 15 g butter
-- 1 tsp crème fraîche
+- 1 tsp [crème fraîche][1]
 - some chives
 
 ## :cooking: Cookware
@@ -51,3 +51,5 @@ Plate and garnish with chopped chives.
 ## :link: Source
 
 - <https://www.gordonramsayrestaurants.com/recipes/scrambled-eggs/>
+
+[1]: <../ingredients/crème-fraîche.md>
