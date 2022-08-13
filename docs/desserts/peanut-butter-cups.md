@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 12 oz milk chocolate
-- 0.5 cup creamy peanut butter
+- 0.5 cup [creamy peanut butter][1]
 - 3 Tbsp confectioners’ sugar
 - 1 Tbsp butter
 - 0.13 tsp salt
@@ -98,3 +98,5 @@ cups from pan. Serve. (Peanut butter cups can be refrigerated in airtight storag
 ## :link: Source
 
 - <https://www.americastestkitchen.com/kids/recipes/peanut-butter-cups>
+
+[1]: <../ingredients/peanut-butter.md>
