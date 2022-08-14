@@ -13,7 +13,7 @@
 - 3 eggs
 - 0.5 tsp vanilla
 - 2 Tbsp lemon zest
-- 1 cup yogurt
+- 1 cup [yogurt][1]
 - 0.25 cup lemon juice
 - 2 cups flour
 - 1 tsp baking powder
@@ -55,3 +55,5 @@ Bake approximately 45 to 50 minutes.
 ### Step 6
 
 For glaze, whisk together 2 tsp lemon juice and powdered sugar and drizzle over cooled cake.
+
+[1]: <../ingredients/yogurt.md>
