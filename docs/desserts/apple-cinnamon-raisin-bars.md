@@ -12,7 +12,7 @@
 - 2 tsp baking powder
 - 1.5 tsp cinnamon
 - 0.5 tsp salt
-- 2 cups light brown sugar
+- 2 cups [light brown sugar][1]
 - 2 eggs
 - 0.5 cup unsalted butter
 - 1 tsp vanilla
@@ -43,3 +43,5 @@ Gradually add flour mixture. Stir in diced apples and raisins, and spread into p
 ### Step 4
 
 Bake for 35 minutes.
+
+[1]: <../ingredients/brown-sugar.md>

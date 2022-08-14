@@ -10,7 +10,7 @@
 
 - 2.5 cups shortbread cookies
 - 0.25 cup butter
-- 0.75 cup dark brown sugar
+- 0.75 cup [dark brown sugar][1]
 - 0.67 cup butter
 - 1 14 oz can condensed milk
 - 1 tsp cinnamon
@@ -70,3 +70,5 @@ When set, slice into squares and serve.
 ## :link: Source
 
 - <https://www.tastingtable.com/853741/millionaires-shortbread-recipe/>
+
+[1]: <../ingredients/brown-sugar.md>

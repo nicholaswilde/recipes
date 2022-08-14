@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 0.25 cup butter
-- 0.5 cup brown sugar
+- 0.5 cup [brown sugar][1]
 - 5 fans pineapple
 - 1 box TJ's Vanilla Cake and Baking cake mix
 - 2 eggs
@@ -45,3 +45,5 @@ Ice Cream, if desired.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/pineapple-upside-down-cake>
+
+[1]: <../ingredients/brown-sugar.md>

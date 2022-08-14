@@ -10,7 +10,7 @@
 
 - 1 Tbsp olive oil
 - 1 medium onion
-- 1 Tbsp brown sugar
+- 1 Tbsp [brown sugar][1]
 - 0.25 tsp salt
 - 0.25 tsp pepper
 - 1 Tbsp Bourbon
@@ -45,3 +45,5 @@ Top each slice with cheddar cheese and Gruyère cheese and onion mixture.
 ### Step 5
 
 Grill 3 to 4 minutes.
+
+[1]: <../ingredients/brown-sugar.md>

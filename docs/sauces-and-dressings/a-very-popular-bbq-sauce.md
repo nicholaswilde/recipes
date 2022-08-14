@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 1.5 cup brown sugar
+- 1.5 cup [brown sugar][1]
 - 1.5 cup ketchup
 - 0.5 cup red wine vinegar
 - 0.5 cup water
@@ -36,3 +36,5 @@ Season with mustard, paprika, salt, black pepper, and hot pepper sauce. Blend un
 ## :link: Source
 
 - <https://www.allrecipes.com/recipe/51226/a-very-popular-bbq-sauce/>
+
+[1]: <../ingredients/brown-sugar.md>

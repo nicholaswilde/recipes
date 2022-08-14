@@ -11,7 +11,7 @@
 - 1 Tbsp olive oil
 - 1 small onion
 - 2 cloves garlic
-- 0.25 cup brown sugar
+- 0.25 cup [brown sugar][1]
 - 0.5 tsp smoked paprika
 - 0.25 tsp allspice
 - 0.25 tsp ground cloves
@@ -43,3 +43,5 @@ Transfer the ketchup to a blender or food processor and puree until smooth. Seas
 ## :link: Source
 
 - <https://www.foodandwine.com/recipes/sweet-and-spicy-ketchup>
+
+[1]: <../ingredients/brown-sugar.md>

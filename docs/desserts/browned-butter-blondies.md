@@ -13,7 +13,7 @@
 - 1.25 tsp salt
 - 0.5 tsp baking powder
 - 12 Tbsp unsalted butter
-- 1.75 cups light brown sugar
+- 1.75 cups [light brown sugar][1]
 - 3 large eggs
 - 0.5 cup corn syrup
 - 2 Tbsp vanilla
@@ -70,3 +70,5 @@ room temperature for up to 5 days.)
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../ingredients/brown-sugar.md>

@@ -14,7 +14,7 @@
 - 1.5 tsp baking powder
 - 1.5 tsp salt
 - 1.25 cups (283 g) unsalted butter
-- 1.25 cups (266 g) light brown sugar
+- 1.25 cups (266 g) [light brown sugar][1]
 - 18 Tbsp (223 g) granulated sugar
 - 2 eggs
 - 2 tsp vanilla
@@ -61,3 +61,5 @@ leftover cookies in an airtight container at room temperature for up to 3 days.
 ## :link: Source
 
 - <https://www.browneyedbaker.com/the-new-york-times-chocolate-chip-cookies/>
+
+[1]: <../ingredients/brown-sugar.md>

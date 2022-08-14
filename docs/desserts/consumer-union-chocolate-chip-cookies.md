@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 0.75 cup (149 g) granulated sugar
-- 0.75 cup (160 g) light brown sugar
+- 0.75 cup (160 g) [light brown sugar][1]
 - 2 eggs
 - 2 sticks (226 g) unsalted butter
 - 1 tsp vanilla
@@ -44,3 +44,5 @@ Portion cookies out in 3 Tbsp (60 g) measurements. Bake on lightly greased cooki
 ## :link: Source
 
 - Consumer Union
+
+[1]: <../ingredients/brown-sugar.md>

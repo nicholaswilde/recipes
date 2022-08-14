@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 1 cup butter
-- 1.25 cup packed brown sugar
+- 1.25 cup packed [brown sugar][1]
 - 0.5 cup granulated sugar
 - 2 eggs
 - 2 Tbsp milk
@@ -27,3 +27,5 @@
 
 Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, flour, baking soda, oats, and chocolate chips
 and bake for 8 to 10 minutes at 365°F.
+
+[1]: <../ingredients/brown-sugar.md>

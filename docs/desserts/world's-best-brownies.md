@@ -11,7 +11,7 @@
 - 245 g dark chocolate
 - 200 g butter
 - 175 g granulated sugar
-- 125 g light brown sugar
+- 125 g [light brown sugar][1]
 - 4 large eggs
 - 2 tsp vanilla
 - 115 g all-purpose flour
@@ -64,3 +64,5 @@ the brownies will keep in an airtight container for up to a week. Alternatively,
 ## :link: Source
 
 - <https://www.gordonramsayrestaurants.com/recipes/worlds-best-brownies/>
+
+[1]: <../ingredients/brown-sugar.md>

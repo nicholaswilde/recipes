@@ -14,7 +14,7 @@
 - 0.25 cup agave or maple syrup
 - 0.25 cup olive oil
 - 0.5 cup unsweetened applesauce
-- 0.5 cup brown sugar
+- 0.5 cup [brown sugar][1]
 - 1.5 tsp baking soda
 - 0.5 tsp salt
 - 0.5 tsp cinnamon
@@ -90,3 +90,5 @@ Once cooled, store in a covered container or bag at room temp to keep fresh. Fre
 ## :link: Source
 
 - <https://minimalistbaker.com/one-bowl-carrot-apple-muffins-vegan-gf/>
+
+[1]: <../ingredients/brown-sugar.md>

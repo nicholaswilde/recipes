@@ -12,7 +12,7 @@
 - 0.5 tsp baking soda
 - 14 Tbsp (198 g) unsalted butter
 - 0.5 cup (99 g) granulated sugar
-- 0.75 cup (160 g) dark brown sugar
+- 0.75 cup (160 g) [dark brown sugar][1]
 - 1 tsp salt
 - 2 tsp vanilla
 - 1 egg
@@ -69,3 +69,5 @@ at room temperature for up to 3 days.
 ## :link: Source
 
 - <https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/>
+
+[1]: <../ingredients/brown-sugar.md>

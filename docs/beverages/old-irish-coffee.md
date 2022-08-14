@@ -6,7 +6,7 @@
 
 - 2 oz Irish Whiskey
 - 5 oz strong hot coffee
-- 2 tsp brown sugar
+- 2 tsp [brown sugar][1]
 - some whipped cream
 
 ## :cooking: Cookware
@@ -42,3 +42,5 @@ Add whipped cream to top. Do not stir after adding the cream.
 ## :link: Source
 
 - Galway Irish Crystal Ltd.
+
+[1]: <../ingredients/brown-sugar.md>

@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 1.5 cups flour
-- 1 cup brown sugar
+- 1 cup [brown sugar][1]
 - 1 Tbsp cinnamon
 - 0.5 tsp nutmeg
 - 0.25 tsp ginger
@@ -33,3 +33,5 @@ Place peeled, cored, and sliced apples in slow cooker and top with flour mixture
 ### Step 3
 
 Cook on high for 3 to 4 hours.
+
+[1]: <../ingredients/brown-sugar.md>
