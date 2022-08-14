@@ -26,6 +26,9 @@
 
 ## :pencil: Instructions
 
+!!! note
+    2 tablespoons of the ranch mix is equivalent to one packet.
+
 ### Step 1
 
 In a mixing bowl; measure and add in the dry buttermilk with dried parsley dried chives, dried dill, garlic powder,
