@@ -1,30 +1,30 @@
-# Measuring
+# :triangular_ruler: Measuring
 
-## Scoop\#
+## :icecream: Scoop\#
 
-### [Cookie Scoop Conversion Chart][3]
+### :cookie: [Cookie Scoop Conversion Chart][3]
 
-| Scoop # | Tbsp  | mL    | fl. oz  | g     | Finished Cookie Size  |
-|---------|-------|-------|---------|-------|-----------------------|
-| #6      | 10.7  | 158   | 5.33    | 192   | -                     |
-| #8      | 8     | 118   | 4       | 144   | -                     |
-| #10     | 6.4   | 94.5  | 3.2     | 115   | -                     |
-| #12     | 5.33  | 79    | 2.67    | 96    | -                     |
-| #16     | 4     | 59    | 2       | 72    | 3-5/8"                |
-| #20     | 3.2   | 47.5  | 1.6     | 60    | 3-3/8"                |
-| #24     | 2.67  | 39.5  | 1.33    | 50    | 3-1/8"                |
-| #30     | 2.13  | 31.5  | 1.07    | 40    | 3"                    |
-| #40     | 1.6   | 23.5  | 0.8     | 30    | 2-3/4"                |
-| #50     | 1.28  | 19    | 0.64    | 23    | 2-1/2"                |
-| #60     | 1.07  | 16    | 0.533   | 20    | 2-1/4"                |
-| #70     | 0.914 | 13.5  | 0.457   | 16    | 2-1/8"                |
-| #100    | 0.64  | 9.5   | 0.32    | 12    | 2"                    |
+| Scoop # | Tbsp  | mL    | fl. oz  | g     | Finished Cookie Size  | [Scoop Bowl Diameter][4][^1]  |
+|---------|-------|-------|---------|-------|-----------------------|-------------------------------|
+| \#6     | 10.7  | 158   | 5.33    | 192   | -                     | 3"                            |
+| \#8     | 8     | 118   | 4       | 144   | -                     | 2-3/4"                        |
+| \#10    | 6.4   | 94.5  | 3.2     | 115   | -                     | 2-5/8"                        |
+| \#12    | 5.33  | 79    | 2.67    | 96    | -                     | 2-1/2"                        |
+| \#16    | 4     | 59    | 2       | 72    | 3-5/8"                | 2-1/4"                        |
+| \#20    | 3.2   | 47.5  | 1.6     | 60    | 3-3/8"                | 2-1/8"                        |
+| \#24    | 2.67  | 39.5  | 1.33    | 50    | 3-1/8"                | 2"                            |
+| \#30    | 2.13  | 31.5  | 1.07    | 40    | 3"                    | 1-3/4"                        |
+| \#40    | 1.6   | 23.5  | 0.8     | 30    | 2-3/4"                | 1-9/16"                       |
+| \#50    | 1.28  | 19    | 0.64    | 23    | 2-1/2"                | 1-1/2"                        |
+| \#60    | 1.07  | 16    | 0.533   | 20    | 2-1/4"                | 1-7/16"                       |
+| \#70    | 0.914 | 13.5  | 0.457   | 16    | 2-1/8"                | 1-5/16"                       |
+| \#100   | 0.64  | 9.5   | 0.32    | 12    | 2"                    | 1-3/16"                       |
 
 !!! note
     The table above has only been verified to work for chocolate chip cookie dough but may work
     for other types of cookie dough. Use at your own risk.
 
-Derivation of the scoop numbers comes from the number of scoops from a quart of cookie dough.
+The scoop numbers are derived from the number of scoops (cookies) from a quart of cookie dough.
 
 $$
 scoop\#=\frac{\# scoops}{1 qt_{cookiedough}}
@@ -48,7 +48,7 @@ $$
 Tbsp=\frac{64}{scoop\#}
 $$
 
-## :scales: Ingredient Weight Chart
+## :scales: Ingredient Weight Chart[^2]
 
 | Ingredient                                            | Volume            | Grams       | Ounces      |
 |-------------------------------------------------------|-------------------|-------------|-------------|
@@ -290,7 +290,7 @@ the other measurement as well.
 | Tumblerful                                | 2 cups              |
 | Wineglass                                 | 1/2 gill or 1/4 cup |
 
-## :book: Using Cookbooks From Outside The United States
+## :book: Using Cookbooks From Outside The United States[^2]
 
 With the exception of the other English-speaking nations, cookbooks are written with metric measurements. Should
 you run into a metric cookbook, here are some conversions of our basic measurements, which are difficult to translate
@@ -324,10 +324,11 @@ with the gas marks, used in some countries, as well.
 | 450°F       | 230°C or Gas Mark 8   |
 | 475°F       | 240°C or Gas Mark 9   |
 
-## :link: Source
-
-- The King Arthur Baking Company All-Purpose Baker's Companion
-
+[^1]:
+    The scoop# may be found by measuring the scoope bowl diameter if the scoop# is not printed on the scoop.
+[^2]:
+    The King Arthur Baking Company All-Purpose Baker's Companion
 [1]: <../sauces-and-dressings/mayonnaise.md>
 [2]: <../sauces-and-dressings/tahini.md>
 [3]: <http://www.bakersbrigade.com/cookie-scoop-sizes-explained/>
+[4]: <https://zeroll.com/collections/universal-ez-disher/standard>
