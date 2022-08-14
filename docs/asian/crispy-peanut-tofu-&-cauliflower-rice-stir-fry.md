@@ -9,8 +9,7 @@
 ## :salt: Ingredients
 
 - 12 oz extra firm tofu
-- 2 tsp sauce
-- 2.5 Tbsp peanut butter
+- 2.5 Tbsp [peanut butter][1]
 - 1 Tbsp sesame oil
 - 2 Tbsp tamari
 - 2 Tbsp maple syrup
@@ -90,3 +89,5 @@ Optionally, vegetables such as thinly sliced baby bok choy (optional) may be add
 ## :link: Source
 
 - <https://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-stir-fry/>
+
+[1]: <../ingredients/peanut-butter.md>
