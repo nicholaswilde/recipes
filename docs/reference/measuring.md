@@ -1,5 +1,53 @@
 # Measuring
 
+## Scoop\#
+
+### [Cookie Scoop Conversion Chart][3]
+
+| Scoop # | Tbsp  | mL    | fl. oz  | g     | Finished Cookie Size  |
+|---------|-------|-------|---------|-------|-----------------------|
+| #6      | 10.7  | 158   | 5.33    | 192   | -                     |
+| #8      | 8     | 118   | 4       | 144   | -                     |
+| #10     | 6.4   | 94.5  | 3.2     | 115   | -                     |
+| #12     | 5.33  | 79    | 2.67    | 96    | -                     |
+| #16     | 4     | 59    | 2       | 72    | 3-5/8"                |
+| #20     | 3.2   | 47.5  | 1.6     | 60    | 3-3/8"                |
+| #24     | 2.67  | 39.5  | 1.33    | 50    | 3-1/8"                |
+| #30     | 2.13  | 31.5  | 1.07    | 40    | 3"                    |
+| #40     | 1.6   | 23.5  | 0.8     | 30    | 2-3/4"                |
+| #50     | 1.28  | 19    | 0.64    | 23    | 2-1/2"                |
+| #60     | 1.07  | 16    | 0.533   | 20    | 2-1/4"                |
+| #70     | 0.914 | 13.5  | 0.457   | 16    | 2-1/8"                |
+| #100    | 0.64  | 9.5   | 0.32    | 12    | 2"                    |
+
+!!! note
+    The table above has only been verified to work for chocolate chip cookie dough but may work
+    for other types of cookie dough. Use at your own risk.
+
+Derivation of the scoop numbers comes from the number of scoops from a quart of cookie dough.
+
+$$
+scoop\#=\frac{\# scoops}{1 qt_{cookiedough}}
+$$
+
+### Scoop# & Tbsp Ratio
+
+$$
+\frac{64}{scoop\#}=\frac{Tbsp}{1}
+$$
+
+### Scoop\#
+
+$$
+scoop\#=\frac{64}{Tbsp}
+$$
+
+### Tbsp
+
+$$
+Tbsp=\frac{64}{scoop\#}
+$$
+
 ## :scales: Ingredient Weight Chart
 
 | Ingredient                                            | Volume            | Grams       | Ounces      |
@@ -282,3 +330,4 @@ with the gas marks, used in some countries, as well.
 
 [1]: <../sauces-and-dressings/mayonnaise.md>
 [2]: <../sauces-and-dressings/tahini.md>
+[3]: <http://www.bakersbrigade.com/cookie-scoop-sizes-explained/>
