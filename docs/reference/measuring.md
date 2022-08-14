@@ -192,7 +192,7 @@
 | Sun-Dried Tomatoes (dry pack)                         | 1 cup             | 170         | 6           |
 | Sunflower Seeds                                       | 1/4 cup           | 35          | 1-1/4       |
 | Sweetened Condensed Milk                              | 1/4 cup           | 78          | 2-3/4       |
-| Tahini Paste                                          | 1/2 cup           | 128         | 4-1/2       |
+| [Tahini Paste][2]                                     | 1/2 cup           | 128         | 4-1/2       |
 | Tapioca Starch or Flour                               | 1 cup             | 113         | 4           |
 | Tapioca (quick cooking)                               | 2 Tbsps           | 21          | 3/4         |
 | Teff Flour                                            | 1 cup             | 135         | 4-3/4       |
@@ -281,3 +281,4 @@ with the gas marks, used in some countries, as well.
 - The King Arthur Baking Company All-Purpose Baker's Companion
 
 [1]: <../sauces-and-dressings/mayonnaise.md>
+[2]: <../sauces-and-dressings/tahini.md>

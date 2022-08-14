@@ -17,7 +17,7 @@
 - 0.25 tsp black pepper
 - 1.5 cup whole wheat couscous
 - 0.25 cup nutritional yeast
-- 2 Tbsp Tahini
+- 2 Tbsp [Tahini][1]
 - 3 Tbsp lemon juice
 
 ## :cooking: Cookware
@@ -55,3 +55,5 @@ Serve zucchini drizzled with Tahini Sauce.
 ## :link: Source
 
 - <https://www.forksoverknives.com/recipes/vegan-salads-sides/hasselback-roasted-zucchini/>
+
+[1]: <../sauces-and-dressings/tahini.md>

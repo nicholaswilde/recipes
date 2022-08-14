@@ -14,7 +14,7 @@
 - 1 cup bread crumbs
 - 1 cup brown lentils
 - 0.25 cup soft tofu
-- 2 Tbsp tahini
+- 2 Tbsp [tahini][1]
 - 1 Tbsp soy sauce
 - 1 Tbsp parsley
 - 1 pkg TJ's soy meat
@@ -73,3 +73,5 @@ Cover with foil and bake for 45 minutes.
 ### Step 10
 
 Remove foil and bake for 7 to 10 minutes more.
+
+[1]: <../sauces-and-dressings/tahini.md>
