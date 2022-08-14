@@ -10,7 +10,7 @@
 
 - 1 cup sugar
 - 1 cup light corn syrup
-- 1 cup peanut butter
+- 1 cup [peanut butter][1]
 - 6 cups Rice Krispies
 - 1 cup chocolate chips
 - 1 cup butterscotch chips
@@ -50,3 +50,5 @@ Remove from heat; spread evenly over Rice Krispie mixture.
 ### Step 7
 
 Cool until firm.
+
+[1]: <../ingredients/peanut-butter.md>

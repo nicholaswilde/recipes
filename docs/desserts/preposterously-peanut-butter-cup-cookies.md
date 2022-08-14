@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - 2 cups sugar
-- 2 cups peanut butter
+- 2 cups [peanut butter][1]
 - 2 cups sugar
 - 2 large eggs
 - 2 tsp baking soda
@@ -42,3 +42,5 @@ cool on baking sheet for 5 minutes before transferring cookies to cooling racks.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/preposterously-peanut-butter-cup-cookies>
+
+[1]: <../ingredients/peanut-butter.md>

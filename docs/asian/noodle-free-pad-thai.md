@@ -15,7 +15,7 @@
 - 5 carrots
 - 1 medium red peppers
 - 3 green onions
-- 2.5 Tbsp peanut butter
+- 2.5 Tbsp [peanut butter][1]
 - 3 Tbsp lime juice
 - 0.5 tsp red pepper flakes
 - 1.5 Tbsp maple syrup
@@ -72,3 +72,5 @@ Add sauce, fresh ginger, and 1/2 tsp turmeric. Sauté and heat until warmed thro
 ### Step 8
 
 Serve with chopped cilantro.
+
+[1]: <../ingredients/peanut-butter.md>

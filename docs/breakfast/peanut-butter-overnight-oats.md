@@ -10,7 +10,7 @@
 
 - 0.5 cup almond milk
 - 0.75 Tbsp chia seeds
-- 2 Tbsp peanut butter
+- 2 Tbsp [peanut butter][1]
 - 0.25 tsp vanilla
 - 1 Tbsp maple syrup
 - 0.5 cup rolled oats
@@ -55,3 +55,5 @@ Not freezer friendly.
 ## :link: Source
 
 - <https://minimalistbaker.com/peanut-butter-overnight-oats/>
+
+[1]: <../ingredients/peanut-butter.md>

@@ -14,7 +14,7 @@
 - 0.5 cup granulated sugar
 - 2 tbsp water
 - 0.5 cup heavy cream
-- 0.25 cup creamy peanut butter
+- 0.25 cup [creamy peanut butter][1]
 - some kosher salt
 - 1 14 oz can sweetened condensed milk
 - 2.75 cup heavy cream
@@ -92,3 +92,5 @@ Refrigerate uncovered until the crackers have softened completely, at least 6 ho
 ## :link: Source
 
 - <https://www.thekitchn.com/recipe-no-bake-banana-and-peanut-butter-caramel-icebox-cake-kitchn-cookbook-23345496>
+
+[1]: <../ingredients/peanut-butter.md>

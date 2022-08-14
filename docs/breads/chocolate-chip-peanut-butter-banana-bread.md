@@ -15,7 +15,7 @@
 - 0.5 tsp baking soda
 - 0.25 tsp salt
 - 2 mashed bananas
-- 0.33 cup peanut butter
+- 0.33 cup [peanut butter][1]
 - 0.25 cup fat-free plain yogurt
 - 1 egg
 - 2 Tbsp canola oil
@@ -46,3 +46,5 @@ Stir banana mixture into flour mixture. Add semi-sweet chocolate chips. Pour and
 ### Step 5
 
 Cook on rack for 15 minutes before unmolding.
+
+[1]: <../ingredients/peanut-butter.md>

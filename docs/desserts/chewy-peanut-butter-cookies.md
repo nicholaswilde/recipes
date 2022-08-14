@@ -11,8 +11,8 @@
 - 1.5 cups all-purpose flour
 - 1 tsp baking soda
 - 0.5 tsp salt
-- 1.5 cups dark brown sugar
-- 1 cup creamy peanut butter
+- 1.5 cups [dark brown sugar][1]
+- 1 cup [creamy peanut butter][2]
 - 2 large eggs
 - 4 Tbsp unsalted butter
 - 2 Tbsp honey
@@ -56,3 +56,6 @@ completely before serving.
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../ingredients/brown-sugar.md>
+[2]: <../ingredients/peanut-butter.md>
