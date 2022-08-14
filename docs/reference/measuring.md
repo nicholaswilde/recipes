@@ -325,7 +325,7 @@ with the gas marks, used in some countries, as well.
 | 475°F       | 240°C or Gas Mark 9   |
 
 [^1]:
-    The scoop# may be found by measuring the scoope bowl diameter if the scoop# is not printed on the scoop.
+    The scoop# may be found by measuring the scoop bowl diameter if the scoop# is not printed on the scoop.
 [^2]:
     The King Arthur Baking Company All-Purpose Baker's Companion
 [1]: <../sauces-and-dressings/mayonnaise.md>
