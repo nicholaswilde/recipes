@@ -63,6 +63,7 @@ Churros
 ci
 Ciliegine
 ClearJel
+cookiedough
 cooklang
 Corncakes
 cotija
@@ -90,6 +91,7 @@ flaxmeal
 flaxseed
 Flaxseed
 FOK
+frac
 fraîche
 Fraîche
 fusilli
@@ -174,6 +176,7 @@ smush
 Spelt
 tahini
 Tahini
+tahini's
 tamari
 Tamari
 Taquito-lada
@@ -197,4 +200,3 @@ webp
 Zeb's
 zhoug
 Zhoug
-tahini's
