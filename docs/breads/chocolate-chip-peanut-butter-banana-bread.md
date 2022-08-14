@@ -10,13 +10,13 @@
 
 - some cooking spray
 - 1 cup whole wheat flour
-- 0.75 cup light brown sugar
+- 0.75 cup [light brown sugar][3]
 - 1 tsp baking powder
 - 0.5 tsp baking soda
 - 0.25 tsp salt
 - 2 mashed bananas
 - 0.33 cup [peanut butter][1]
-- 0.25 cup fat-free plain yogurt
+- 0.25 cup [fat-free plain yogurt][2]
 - 1 egg
 - 2 Tbsp canola oil
 - 0.75 cup semi-sweet chocolate chips
@@ -48,3 +48,5 @@ Stir banana mixture into flour mixture. Add semi-sweet chocolate chips. Pour and
 Cook on rack for 15 minutes before unmolding.
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../ingredients/yogurt.md>
+[3]: <../ingredients/brown-sugar.md>
