@@ -13,7 +13,7 @@
 - 7.5 Tbsp water
 - 0.25 cup maple syrup
 - 1 cup applesauce
-- 0.5 cup brown sugar
+- 0.5 cup [brown sugar][1]
 - 0.25 cup sugar
 - 0.75 tsp salt
 - 1.5 tsp baking soda
@@ -86,3 +86,5 @@ completely from the freezer.
 ## :link: Source
 
 - <https://minimalistbaker.com/1-bowl-vegan-gluten-free-carrot-cake/>
+
+[1]: <../ingredients/brown-sugar.md>
