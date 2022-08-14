@@ -4,7 +4,7 @@
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 16 | 18 minutes |
+| 16 | 30 minutes |
 
 ## :salt: Ingredients
 
@@ -13,7 +13,8 @@
 - 2 cups sugar
 - 2 large eggs
 - 2 tsp baking soda
-- 2 tsp vanilla
+- 2 tsp bourbon vanilla
+- 16 TJ's Dark Chocolate Peanut Butter Cups
 
 ## :cooking: Cookware
 
