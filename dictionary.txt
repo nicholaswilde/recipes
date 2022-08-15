@@ -212,3 +212,5 @@ webp
 Zeb's
 zhoug
 Zhoug
+Choco
+pizzelle
