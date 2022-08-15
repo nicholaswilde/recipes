@@ -156,6 +156,7 @@ Pâtissière
 pecorino
 pepperoncini
 pico
+pimentón
 pkgs
 png
 poblano
