@@ -214,3 +214,5 @@ zhoug
 Zhoug
 Choco
 pizzelle
+penne
+rigate
