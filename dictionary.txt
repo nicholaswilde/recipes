@@ -1,9 +1,11 @@
 1½
 1¼
 ½
+12cm
 ½-Tbsp
 13x9-in
 ¼
+15cm
 18x12-in
 18x13-in
 19cm
@@ -12,10 +14,13 @@
 23cm
 25g
 2cm
+30cm
 350ºF
 400ºF
+42cm
 450g
 545g
+7mm
 8oz
 8x8-inch
 9x13
@@ -82,6 +87,7 @@ Demerara
 dente
 doneness
 Eggless
+eggwash
 Elkin's
 Esselstyn
 falafel
@@ -119,6 +125,7 @@ Jojo's
 Kalamata
 Krispie
 Krispies
+lengthways
 mandoline
 Marzano
 masala
