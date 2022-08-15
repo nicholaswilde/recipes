@@ -37,6 +37,7 @@ Alla
 All'Assassina
 aminos
 Aminos
+Anson
 Arborio
 artisanal
 Bamba
@@ -61,6 +62,7 @@ chiles
 chipotle
 Chipotle
 Chipotle-Inspired
+Choco
 chorizo
 choux
 Choux
@@ -154,9 +156,11 @@ passata
 Pâte
 Pâtissière
 pecorino
+penne
 pepperoncini
 pico
 pimentón
+pizzelle
 pkgs
 png
 poblano
@@ -172,6 +176,7 @@ Puttanesca
 refried
 reinvert
 Rewhisk
+rigate
 Risoni
 Salata
 sauté
@@ -212,7 +217,3 @@ webp
 Zeb's
 zhoug
 Zhoug
-Choco
-pizzelle
-penne
-rigate
