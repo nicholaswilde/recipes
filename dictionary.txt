@@ -148,6 +148,7 @@ oil-tahini
 Olde
 omelettes
 orecchiette
+Oreos
 ovensafe
 overbeat
 overmix
@@ -195,6 +196,9 @@ shortbreads
 Sláinte
 smush
 Spelt
+springform
+Stuf
+Stuf.
 tahini
 Tahini
 tahini's
