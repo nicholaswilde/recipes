@@ -4,13 +4,13 @@
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 16 | 0 minutes |
+| 16 | 30 minutes |
 
 ## :salt: Ingredients
 
 - 5 bars Butterfinger
 - 0.5 gal vanilla ice cream
-- 2 Oreo pie crusts
+- 2 [Oreo pie crusts][1]
 - 1 8-oz tub Cool Whip
 
 ## :cooking: Cookware
@@ -43,3 +43,5 @@ Once frozen, top with Cool Whip and remaining Butterfinger crumble and freeze ag
 ## :link: Source
 
 - Grandma Beatrice Wilde
+
+[1]: <../ingredients/oreo-pie-crust.md>
