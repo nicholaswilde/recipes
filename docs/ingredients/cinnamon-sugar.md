@@ -4,7 +4,7 @@
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 5 minutes |
 
 ## :salt: Ingredients
 
