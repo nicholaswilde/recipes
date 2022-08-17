@@ -23,6 +23,7 @@
 545g
 7mm
 8oz
+8x7
 8x8-inch
 9x13
 9x13-inch
@@ -78,6 +79,7 @@ Ciliegine
 ClearJel
 cookiedough
 cooklang
+Copha
 Corncakes
 cotija
 crema
@@ -220,6 +222,7 @@ Tollhouse
 tomari
 Tostadas
 Trapani-Style
+Trex
 TSpoons
 tsps
 Tubinado
