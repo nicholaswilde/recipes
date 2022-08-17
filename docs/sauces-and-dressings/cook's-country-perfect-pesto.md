@@ -4,17 +4,16 @@
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 6 | 22 minutes |
+| 6 | 45 minutes |
 
 ## :salt: Ingredients
 
 - 0.5 cup pine nuts
-- 1 Tbsp olive oil
+- 0.75 cup olive oil, divided
 - 4 oz basil stems
-- 1.5 tsp salt
+- 2.25 tsp salt, divided
 - 1.25 oz Parmesan
 - 2 cloves garlic
-- 1 Tbsp olive oil
 
 ## :cooking: Cookware
 
@@ -41,8 +40,8 @@ drain basil on clean dish towel and thoroughly pat dry with paper towels.)
 ### Step 3
 
 Process Parmesan in food processor until finely ground, about 30 seconds; transfer to medium bowl. Process garlic, pine
-nuts, basil, salt, and remaining oil in now-empty processor until smooth, about 1 minute, scraping down sides of bowl as
-needed. Transfer pesto to bowl with Parmesan and stir to combine. Serve
+nuts, basil, 3/4 tsp salt, and remaining oil (11 Tbsp) in now-empty processor until smooth, about 1 minute, scraping
+down sides of bowl as needed. Transfer pesto to bowl with Parmesan and stir to combine. Serve.
 
 ### Step 4
 
