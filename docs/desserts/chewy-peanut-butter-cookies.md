@@ -8,10 +8,10 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups all-purpose flour
+- 1.5 cups (7.5 oz/213 g) all-purpose flour
 - 1 tsp baking soda
 - 0.5 tsp salt
-- 1.5 cups [dark brown sugar][1]
+- 1.5 cups (10.5 oz/298 g) [dark brown sugar][1]
 - 1 cup [creamy peanut butter][2]
 - 2 large eggs
 - 4 Tbsp unsalted butter
@@ -44,7 +44,7 @@ dry-roasted peanuts until evenly distributed.
 
 ### Step 3
 
-Working with 2 Tbsps dough at a time (or using number 30 portion scoop), roll dough into balls and evenly space on
+Working with 2 Tbsps (30 g) dough at a time (or using number 30 portion scoop), roll dough into balls and evenly space on
 prepared sheets (12 dough balls per sheet). Using your fingers, gently flatten dough balls until 2 inches in diameter.
 
 ### Step 4
