@@ -82,6 +82,14 @@
 | 1/2 tsp Soy Sauce         | 1/2 tsp + pinch of salt | 1/2 tsp + pinch of salt |
 | 1 Tbsp Soy Sauce          | 1 Tbsp + pinch of salt  | 1 Tbsp + pinch of salt  |
 
+## :cow2: [Suet][10]
+
+| Suet Equivalency to:  | [Grated Vegetable Shortening][11] |
+|-----------------------|-----------------------------------|
+| 1/4 cup               | 1/4 cup                           |
+| 1/2 cup               | 1/2 cup                           |
+| 1 cup                 | 1 cup                             |
+
 ## :icecream: [Vanilla][1]
 
 | Vanilla Bean Equivalency to:  | Vanilla Extract | Vanilla Bean Paste  | Ground Vanilla Beans  | Vanilla Powder  |
@@ -105,3 +113,5 @@
 [7]: <https://www.mortonsalt.com/article/salt-conversion-chart/>
 [8]: <https://www.cooksillustrated.com/how_tos/13677-a-vegan-substitute-for-anchovies>
 [9]: <../ingredients/miso-nori-paste.md>
+[10]: <https://www.nigella.com/ask/substitute-for-suet>
+[11]: <../ingredients/grated-vegetable-shortening.md>
