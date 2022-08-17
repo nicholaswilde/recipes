@@ -1,5 +1,13 @@
 # Equivalents & Substitutes
 
+## :fish: [Anchovy][8]
+
+| Anchovy Equivalency to: | [Miso Nori Paste][9]  |
+|-------------------------|-----------------------|
+| 1 minced anchovy        | 1/2 tsp               |
+| 2 minced anchovies      | 1 tsp                 |
+| 3 minced anchovies      | 1.5 tsp               |
+
 ## :salt: [Cream of Tartar][2]
 
 | Cream of Tartar Equivalency to:               | Lemon Juice | White Vinegar | Baking Powder[^1] |
@@ -95,3 +103,5 @@
 [5]: <https://www.thespruceeats.com/herb-substitutions-in-cooking-1807691>
 [6]: <https://www.acouplecooks.com/soy-sauce-substitute/>
 [7]: <https://www.mortonsalt.com/article/salt-conversion-chart/>
+[8]: <https://www.cooksillustrated.com/how_tos/13677-a-vegan-substitute-for-anchovies>
+[9]: <../ingredients/miso-nori-paste.md>
