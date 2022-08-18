@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-### Cokkies
+### :cookie: Cookies
 
 - 1.25 cups (6.25 oz) raw peanuts
 - 0.75 cups (3.75 oz) all-purpose flour
