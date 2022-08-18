@@ -21,7 +21,7 @@
 - 3 Tbsp whole milk
 - 1 large egg
 
-### Filling
+### :peanuts: Filling
 
 - 0.75 cup [creamy peanut butter][1]
 - 3 Tbsp unsalted butter
