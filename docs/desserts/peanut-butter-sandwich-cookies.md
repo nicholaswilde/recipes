@@ -8,19 +8,24 @@
 
 ## :salt: Ingredients
 
-- 1.25 cups raw peanuts
-- 0.75 cups all-purpose flour
+### Cokkies
+
+- 1.25 cups (6.25 oz) raw peanuts
+- 0.75 cups (3.75 oz) all-purpose flour
 - 1 tsp baking soda
 - 0.5 tsp salt
 - 3 Tbsp unsalted butter
 - 0.5 cup [creamy peanut butter][1]
-- 0.5 cup granulated sugar
-- 0.5 cup [light brown sugar][2]
+- 0.5 cup (3.5 oz) granulated sugar
+- 0.5 cup (3.5 oz) [light brown sugar][2]
 - 3 Tbsp whole milk
 - 1 large egg
+
+### Filling
+
 - 0.75 cup [creamy peanut butter][1]
 - 3 Tbsp unsalted butter
-- 1 cup confectioners’ sugar
+- 1 cup (4 oz) confectioners’ sugar
 
 ## :cooking: Cookware
 
