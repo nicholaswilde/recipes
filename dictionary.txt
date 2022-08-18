@@ -170,6 +170,7 @@ Pâte
 Pâtissière
 pecorino
 penne
+Penne
 pepperoncini
 pico
 pimentón
@@ -190,6 +191,7 @@ refried
 reinvert
 Rewhisk
 rigate
+Rigate
 Risoni
 Salata
 sauté
