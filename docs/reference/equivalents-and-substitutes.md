@@ -1,4 +1,4 @@
-# Equivalents & Substitutes
+# :scales: Equivalents & Substitutes
 
 ## :fish: [Anchovy][8]
 
