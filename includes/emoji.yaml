@@ -10,10 +10,28 @@ emoji:
         - coriander
     - bell_pepper:
         - bell pepper
+    - lemon:
+        - lemon
+        - lemon juice
+        - lemon zest
+        - lime
+        - lime juice
+        - lime zest
+    - tangerine:
+        - tangerine
+        - orange
+    - curry:
+        - curry powder
+    - ear_of_rice:
+        - flour
     - carrot:
         - carrot
+        - frozen vegetables
     - eggplant:
         - eggplant
+    - green_circle:
+        - peas
+        - pea pods
     - garlic:
         - garlic
     - onion:
