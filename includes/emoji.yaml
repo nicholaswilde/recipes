@@ -6,6 +6,12 @@ emoji:
         - parsley
         - thyme
         - oregano
+        - cilantro
+        - coriander
+    - bell_pepper:
+        - bell pepper
+    - carrot:
+        - carrot
     - eggplant:
         - eggplant
     - garlic:
@@ -15,6 +21,9 @@ emoji:
     - salt:
         - salt
         - pepper
+    - green_salad:
+        - vinaigrette
+        - dressing
     - soysauce:
         - takeout_box
     - spaghetti:
@@ -33,6 +42,14 @@ emoji:
         - icecream
     - rice:
         - rice
+    - ice_cube:
+        - ice water
+    - leafy_green:
+        - cabbage
+        - shredded cabbage
+    - peanuts:
+        - peanuts
+        - peanut butter
   cookware:
     - cookie:
         - baking sheet
