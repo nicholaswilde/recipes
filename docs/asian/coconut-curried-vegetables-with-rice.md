@@ -5,19 +5,19 @@
 ## :salt: Ingredients
 
 - :rice: 3 cups rice
-- 2 Tbsp flour
-- 1.5 tsp curry powder
-- 0.5 tsp salt
-- 0.13 tsp pepper
-- 1 14-oz can coconut milk
-- 1 tsp lime juice
-- 1 lbs frozen vegetables
-- 1 cup frozen peas
+- :ear_of_rice: 2 Tbsp flour
+- :curry: 1.5 tsp curry powder
+- :salt: 0.5 tsp salt
+- :salt: 0.13 tsp pepper
+- :coconut: 1 14-oz can coconut milk
+- :lemon: 1 tsp lime juice
+- :carrot: 1 lbs frozen vegetables
+- :green_circle: 1 cup frozen peas
 
 ## :cooking: Cookware
 
-- 1 wire whisk
-- 1 sauce pan
+- :birthday: 1 wire whisk
+- :shallow_pan_of_food: 1 sauce pan
 
 ## :pencil: Instructions
 
