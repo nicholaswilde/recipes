@@ -1,4 +1,4 @@
-# Cool and Spicy Noodle Salad
+# :ramen: Cool and Spicy Noodle Salad
 
 ![Cool and Spicy Noodle Salad](../assets/images/cool-and-spicy-noodle-salad.png)
 
@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 1 package TJ's Organic Yellow Lentil and Brown Rice Spaghetti
-- some ice water
-- 1 package shredded cabbage
-- 0.5 package shredded carrots
-- 2  bell peppers
-- 1 cup TJ's Spicy Peanut Vinaigrette
-- some cilantro
-- some crushed half salted peanuts
+- :spaghetti: 1 package TJ's Organic Yellow Lentil and Brown Rice Spaghetti
+- :ice_cube: some ice water
+- :leafy_green: 1 package shredded cabbage
+- :carrot: 0.5 package shredded carrots
+- :bell_pepper: 2 bell peppers
+- :green_salad: 1 cup TJ's Spicy Peanut Vinaigrette
+- :herb: some cilantro
+- :peanuts: some crushed half salted peanuts
 
 ## :cooking: Cookware
 
