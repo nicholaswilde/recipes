@@ -1,10 +1,10 @@
-# Coconut Curried Vegetables with Rice
+# :coconut: Coconut Curried Vegetables with Rice
 
 ![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.jpg)
 
 ## :salt: Ingredients
 
-- 3 cups rice
+- :rice: 3 cups rice
 - 2 Tbsp flour
 - 1.5 tsp curry powder
 - 0.5 tsp salt
