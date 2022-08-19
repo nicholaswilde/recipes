@@ -98,7 +98,7 @@
 | 1/2 Whole Vanilla Bean        | 1/2 Tbsp        | 1 tsp - 1-1/2 tsp   | 3/4 tsp               | 1 tsp           |
 | 1 Whole Vanilla Bean          | 1 Tbsp          | 2-3 tsp             | 1-1/2 tsp             | 2 tsp           |
 
-## [Whole Milk][12]
+## :glass_of_milk: [Whole Milk][12]
 
 | Whole Milk Equivalency to:    | Heavy Cream | Half-and-Half | Water   |
 |-------------------------------|-------------|---------------|---------|
