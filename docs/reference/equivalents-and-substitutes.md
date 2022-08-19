@@ -98,6 +98,17 @@
 | 1/2 Whole Vanilla Bean        | 1/2 Tbsp        | 1 tsp - 1-1/2 tsp   | 3/4 tsp               | 1 tsp           |
 | 1 Whole Vanilla Bean          | 1 Tbsp          | 2-3 tsp             | 1-1/2 tsp             | 2 tsp           |
 
+## [Whole Milk][12]
+
+| Whole Milk Equivalency to:    | Heavy Cream | Half-and-Half | Water   |
+|-------------------------------|-------------|---------------|---------|
+| 1/4 cup                       | 2 Tbsp      | -             | 2 Tbsp  |
+| 1/2 cup                       | 1/4 cup     | -             | 1/4 cup |
+| 1 cup                         | 1/2 cup     | -             | 1/2 cup |
+| 1/4 cup                       | -           | 3 Tbsp        | 1 Tbsp  |
+| 1/2 cup                       | -           | 6 Tbsp        | 2 Tbsp  |
+| 1 cup                         | -           | 3/4 cup       | 1/4 cup |
+
 [^1]:
     Baking powder contains cream of tartar. It’s literally just two parts cream of tartar and one part baking soda,
     thrown into a little can and packaged up nice and pretty. If your recipe calls for both baking soda and cream
@@ -115,3 +126,4 @@
 [9]: <../ingredients/miso-nori-paste.md>
 [10]: <https://www.nigella.com/ask/substitute-for-suet>
 [11]: <../ingredients/grated-vegetable-shortening.md>
+[12]: <https://blog.wilton.com/everyday-milk-substitutes-for-baking-when-out-of-milk/>
