@@ -14,9 +14,9 @@
 - 2 eggs
 - 2 Tbsp milk
 - 2 tsp vanilla
-- 1.75 flour
+- 1.75 cups flour
 - 1 tsp baking soda
-- 2.5 cup oats
+- 2.5 cup rolled oats
 - 2 cups chocolate chips
 
 ## :cooking: Cookware
@@ -25,7 +25,7 @@
 
 ### Step 1
 
-Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, flour, baking soda, oats, and chocolate chips
-and bake for 8 to 10 minutes at 365°F.
+Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, flour, baking soda, rolled oats, and
+chocolate chips and bake for 8 to 10 minutes at 365°F.
 
 [1]: <../ingredients/brown-sugar.md>
