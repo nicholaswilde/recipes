@@ -10,7 +10,7 @@
 
 - 2 lbs Yukon Gold potatoes
 - 2.5 sticks unsalted butter
-- 1.33 cups whole milk
+- 1.33 cups [whole milk][1]
 - 1 tsp salt
 - some pepper
 
@@ -41,3 +41,5 @@ Stir every 10 minutes. Once cooked, blend potatoes and milk and butter mixture a
 ### Step 5
 
 Season with salt and pepper to taste.
+
+[1]: <../reference/equivalents-and-substitutes.md#whole-milk>

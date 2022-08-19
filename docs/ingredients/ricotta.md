@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 4 cup whole milk
+- 4 cup [whole milk][1]
 - 2 cup heavy cream
 - 1 tsp salt
 - 3 Tbsp white wine vinegar
@@ -45,3 +45,5 @@ ricotta will keep refrigerated for 4 to 5 days.
 ## :link: Source
 
 - <https://www.foodnetwork.com/recipes/ina-garten/homemade-ricotta-recipe-1923290>
+
+[1]: <../reference/equivalents-and-substitutes.md#whole-milk>

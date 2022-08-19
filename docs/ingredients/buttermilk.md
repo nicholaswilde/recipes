@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 1 cup milk
+- 1 cup [whole milk][1]
 - 1 Tbsp vinegar or lemon juice
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Mix 1 cup of milk with 1 tablespoon vinegar or lemon juice and let
+Mix 1 cup of whole milk with 1 tablespoon vinegar or lemon juice and let
 it sit for 10 to 15 minutes.
 
 !!! note
@@ -29,3 +29,5 @@ it sit for 10 to 15 minutes.
 ## :link: Source
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+
+[1]: <../reference/equivalents-and-substitutes.md#whole-milk>
