@@ -1,6 +1,14 @@
 ---
 emoji:
   ingredients:
+    - grapes:
+        - grapes
+        - grape jelly
+        - grape jam
+    - strawberry:
+        - strawberries
+        - strawberry jam
+        - strawberry jelly
     - herb:
         - basil
         - parsley
@@ -42,8 +50,8 @@ emoji:
     - green_salad:
         - vinaigrette
         - dressing
-    - soysauce:
-        - takeout_box
+    - takeout_box:
+        - soysauce
     - spaghetti:
         - spaghetti
     - tomato:
@@ -51,13 +59,15 @@ emoji:
         - marinara sauce
     - bread:
         - bread crumbs
+        - bread
     - microbe:
         - nutritional yeast
     - olive:
         - olive
         - olive oil
-    - vanilla:
-        - icecream
+    - ice_cream:
+      - vanilla
+      - icecream
     - rice:
         - rice
     - ice_cube:
