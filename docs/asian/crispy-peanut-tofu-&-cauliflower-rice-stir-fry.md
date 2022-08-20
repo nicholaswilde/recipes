@@ -1,4 +1,4 @@
-# Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
+# :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 
 ![Crispy Peanut Tofu & Cauliflower Rice Stir-Fry](../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg)
 
@@ -9,17 +9,17 @@
 ## :salt: Ingredients
 
 - 12 oz extra firm tofu
-- 2.5 Tbsp [peanut butter][1]
-- 1 Tbsp sesame oil
-- 2 Tbsp tamari
-- 2 Tbsp maple syrup
-- 2 tsp chili garlic sauce
-- 2 tsp tamari
-- 1 small cauliflower
-- 2 cloves garlic
-- 1 dash sesame oil
-- 1 dash tamari
-- 1 cup baby bok choy (optional)
+- :peanuts: 2.5 Tbsp [peanut butter][1]
+- :takeout_box: 1 Tbsp sesame oil
+- :takeout_box: 2 Tbsp tamari
+- :maple_leaf: 2 Tbsp maple syrup
+- :garlic: 2 tsp chili garlic sauce
+- :takeout_box: 2 tsp tamari
+- :broccoli: 1 small cauliflower
+- :garlic: 2 cloves garlic
+- :takeout_box: 1 dash sesame oil
+- :takeout_box: 1 dash tamari
+- :leafy_green: 1 cup baby bok choy (optional)
 
 ## :cooking: Cookware
 
