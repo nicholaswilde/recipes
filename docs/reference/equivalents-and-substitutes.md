@@ -98,6 +98,20 @@
 | 1/2 Whole Vanilla Bean        | 1/2 Tbsp        | 1 tsp - 1-1/2 tsp   | 3/4 tsp               | 1 tsp           |
 | 1 Whole Vanilla Bean          | 1 Tbsp          | 2-3 tsp             | 1-1/2 tsp             | 2 tsp           |
 
+## [Vegetable Shortening][13]
+
+!!! note
+    No matter what you’re using, use the same amount of vegetable shortening or butter called for in your recipe. In
+    other words, it should be a one-to-one swap. If your recipe calls for one cup of butter, you can use one cup of
+    shortening and vice versa. Does your recipe call for salted butter? Add a pinch of salt to the shortening for a
+    closer match.
+
+| Vegetable Shortening Equivalency to:  | Butter  |
+|---------------------------------------|---------|
+| 1 Tbsp                                | 1 Tbsp  |
+| 2 Tbsp                                | 2 Tbsp  |
+| 3 Tbsp                                | 3 Tbsp  |
+
 ## :glass_of_milk: [Whole Milk][12]
 
 | Whole Milk Equivalency to:    | Heavy Cream | Half-and-Half | Water   |
@@ -127,3 +141,4 @@
 [10]: <https://www.nigella.com/ask/substitute-for-suet>
 [11]: <../ingredients/grated-vegetable-shortening.md>
 [12]: <https://blog.wilton.com/everyday-milk-substitutes-for-baking-when-out-of-milk/>
+[13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
