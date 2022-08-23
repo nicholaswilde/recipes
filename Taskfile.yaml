@@ -2,6 +2,11 @@
 
 version: '3'
 
+vars:
+  ROOT_DIR:
+    sh: git rev-parse --show-toplevel
+  PORT: 8000
+
 tasks:
   clean:
     desc: Clean markdown files from cook dir
@@ -18,12 +23,19 @@ tasks:
         docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
         --platform linux/amd64 squidfunk/mkdocs-material serve
         --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
-    vars:
-      PORT: 8000
   linkcheck:
     desc: Check for dead links
     cmds:
       - ./scripts/linkcheck.sh
+  linkcheck-file:
+    desc: Link check a given file
+    cmds:
+      - >-
+        docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable
+        "/tmp{{.f}}" -c "/tmp{{ .ROOT_DIR }}/mlc_config.json" || exit 1
+    vars:
+      f:
+        sh: "readlink -f {{shellQuote .FILE}}"
   lint:
     desc: Lint the project
     cmds:
@@ -54,8 +66,6 @@ tasks:
         docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
         --platform linux/amd64 squidfunk/mkdocs-material serve
         --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
-    vars:
-      PORT: 8000
   serve-local:
     desc: Serve a local mkdocs server
     cmds:
@@ -69,11 +79,18 @@ tasks:
   sort:
     desc: Sort dictionary.txt
     cmds:
-      - sort dictionary.txt -u -o dictionary.txt
+      - sort {{ .ROOT_DIR }}/dictionary.txt -u -o {{ .ROOT_DIR }}/dictionary.txt
   spellcheck:
     desc: Spellcheck cook files
     cmds:
       - ./scripts/spellcheck.sh
+  spellcheck-file:
+    desc: Spellcheck a single file
+    cmds:
+      - npx spellchecker -d {{ .ROOT_DIR }}/dictionary.txt -f {{shellQuote .f }}
+    vars:
+      f:
+        sh: "readlink -f {{shellQuote .FILE}}"
   yamllint:
     desc: Run yamllint
     cmds:
