@@ -70,11 +70,16 @@ nav:
       - The Food Lab Light and Fluffy Scrambled Eggs: breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md
       - Zeb's Waffles: breakfast/zeb's-waffles.md
   - Cookies:
+      - Apple Cinnamon Raisin Bars: cookies/apple-cinnamon-raisin-bars.md
+      - Browned Butter Blondies: cookies/browned-butter-blondies.md
+      - Buttery Shortbread: cookies/buttery-shortbread.md
       - Chewy Peanut Butter Cookies: cookies/chewy-peanut-butter-cookies.md
+      - Chocolate Scotcheroos: cookies/chocolate-scotcheroos.md
       - Consumer Union Chocolate Chip Cookies: cookies/consumer-union-chocolate-chip-cookies.md
       - Cook's Illustrated Snickerdoodles: cookies/cook's-illustrated-snickerdoodles.md
       - Cook’s Illustrated Perfect Chocolate Chip Cookies: cookies/cook’s-illustrated-perfect-chocolate-chip-cookies.md
       - King Arthur's Snickerdoodles: cookies/king-arthur's-snickerdoodles.md
+      - Millionaire's Shortbread: cookies/millionaire's-shortbread.md
       - Oatmeal Chocolate Chip Cookies: cookies/oatmeal-chocolate-chip-cookies.md
       - Peanut Butter Crisscrosses: cookies/peanut-butter-crisscrosses.md
       - Peanut Butter Sandwich Cookies: cookies/peanut-butter-sandwich-cookies.md
@@ -84,14 +89,10 @@ nav:
   - Desserts:
       - 1-Bowl Vegan Gluten-Free Carrot Cake: desserts/1-bowl-vegan-gluten-free-carrot-cake.md
       - 4 Ingredient Chocolate Mousse: desserts/4-ingredient-chocolate-mousse.md
-      - Apple Cinnamon Raisin Bars: desserts/apple-cinnamon-raisin-bars.md
       - Blueberry Pie: desserts/blueberry-pie.md
-      - Browned Butter Blondies: desserts/browned-butter-blondies.md
       - Butterfinger Ice Cream Pie: desserts/butterfinger-ice-cream-pie.md
-      - Buttery Shortbread: desserts/buttery-shortbread.md
       - Chewy Brownies: desserts/chewy-brownies.md
       - Choco Taco: desserts/choco-taco.md
-      - Chocolate Scotcheroos: desserts/chocolate-scotcheroos.md
       - Cinnamon Coffee Cake: desserts/cinnamon-coffee-cake.md
       - Classic Crème Brûlée: desserts/classic-crème-brûlée.md
       - Corn & Hatch Chile Cupcakes with Honey Buttercream: desserts/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md
@@ -102,7 +103,6 @@ nav:
       - Glazed Lemon Bars: desserts/glazed-lemon-bars.md
       - Lemon Pie: desserts/lemon-pie.md
       - Melomakarona: desserts/melomakarona.md
-      - Millionaire's Shortbread: desserts/millionaire's-shortbread.md
       - No-Bake Banana and Peanut Butter Caramel Icebox Cake: desserts/no-bake-banana-and-peanut-butter-caramel-icebox-cake.md
       - Olive Oil Cake: desserts/olive-oil-cake.md
       - Peanut Brittle: desserts/peanut-brittle.md
