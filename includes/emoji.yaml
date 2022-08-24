@@ -78,6 +78,11 @@ emoji:
     - peanuts:
         - peanuts
         - peanut butter
+    - glass_of_milk:
+        - milk
+        - whole milk
+        - lowfat milk
+        - skim milk
   cookware:
     - cookie:
         - baking sheet
