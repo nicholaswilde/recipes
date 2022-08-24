@@ -1,6 +1,8 @@
 ---
 emoji:
   ingredients:
+    - honey_pot:
+        - honey
     - grapes:
         - grapes
         - grape jelly
@@ -78,6 +80,8 @@ emoji:
     - peanuts:
         - peanuts
         - peanut butter
+    - butter:
+        - butter
     - glass_of_milk:
         - milk
         - whole milk
