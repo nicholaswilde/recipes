@@ -1,4 +1,4 @@
-# Chewy Peanut Butter Cookies
+# :peanuts: Chewy Peanut Butter Cookies
 
 ![Chewy Peanut Butter Cookies](../assets/images/chewy-peanut-butter-cookies.jpg)
 
@@ -8,16 +8,16 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups (7.5 oz/213 g) all-purpose flour
-- 1 tsp baking soda
-- 0.5 tsp salt
-- 1.5 cups (10.5 oz/298 g) [dark brown sugar][1]
-- 1 cup [creamy peanut butter][2]
-- 2 large eggs
-- 4 Tbsp unsalted butter
-- 2 Tbsp honey
-- 1 tsp vanilla
-- 0.5 cup dry-roasted peanuts
+- :ear_of_rice: 1.5 cups (7.5 oz/213 g) all-purpose flour
+- :rice: 1 tsp baking soda
+- :salt: 0.5 tsp salt
+- :mayple_leaf: 1.5 cups (10.5 oz/298 g) [dark brown sugar][1]
+- :peanuts: 1 cup [creamy peanut butter][2]
+- :egg: 2 large eggs
+- :butter: 4 Tbsp unsalted butter
+- :honey_pot: 2 Tbsp honey
+- :ice_cream: 1 tsp vanilla
+- :peanuts: 0.5 cup dry-roasted peanuts
 
 ## :cooking: Cookware
 
