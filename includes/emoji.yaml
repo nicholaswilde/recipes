@@ -1,6 +1,11 @@
 ---
 emoji:
   ingredients:
+    - maple_leaf:
+        - maple syrup
+        - syrup
+        - molasses
+        - brown sugar
     - honey_pot:
         - honey
     - grapes:
