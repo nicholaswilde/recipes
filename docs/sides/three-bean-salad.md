@@ -39,7 +39,7 @@ onion and set aside.
 ### Step 2
 
 Bring 4 quarts water to boil in large pot over high heat. Fill large bowl halfway with ice and water. Add trimmed and
-halved on bias yellow wax beans, trimmed and havled on bias Romano beans, and 1 tablespoon salt to boiling water and
+halved on bias yellow wax beans, trimmed and halved on bias Romano beans, and 1 tablespoon salt to boiling water and
 cook until crisp-tender, 3 to 5 minutes. Drain beans, then transfer immediately to ice bath. Let beans cool completely,
 about 5 minutes, then drain again and pat dry with paper towels.
 
