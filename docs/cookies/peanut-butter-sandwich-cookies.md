@@ -31,13 +31,11 @@
 
 - 1 baking sheets
 - 1 food processor
-- 1 bowl
-- 1 bowl
+- 2 bowls
 - 1 rubber spatula
 - 1 number 60 scoop or tablespoon measure
 - 1 prepared baking sheet
 - 1 wire rack
-- 1 rubber spatula
 
 ## :pencil: Instructions
 
@@ -58,7 +56,7 @@ Using number 60 scoop or tablespoon measure (20 g), place 12 mounds, evenly spac
 
 ### Step 3
 
-Bake until deep golden brown and firm to touch, 15 to 18 minutes, switching and rotating sheets halfway through baking.
+Bake until deep golden brown and firm to touch, 13 to 18 minutes, switching and rotating sheets halfway through baking.
 Let cookies cool on sheets for 5 minutes. Transfer cookies to wire rack and let cool completely, about 30 minutes.
 Repeat portioning and baking remaining dough.
 
