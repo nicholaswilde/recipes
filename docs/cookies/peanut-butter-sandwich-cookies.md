@@ -1,4 +1,4 @@
-# Peanut Butter Sandwich Cookies
+# :peanuts: Peanut Butter Sandwich Cookies
 
 ![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg)
 
@@ -10,21 +10,21 @@
 
 ### :cookie: Cookies
 
-- 1.25 cups (6.25 oz/177 g) raw peanuts
+- :peanuts: 1.25 cups (6.25 oz/177 g) raw peanuts
 - 0.75 cups (3.75 oz/106 g) all-purpose flour
 - 1 tsp baking soda
-- 0.5 tsp salt
-- 3 Tbsp unsalted butter
+- :salt: 0.5 tsp salt
+- :butter: 3 Tbsp unsalted butter
 - 0.5 cup [creamy peanut butter][1]
 - 0.5 cup (3.5 oz/99 g) granulated sugar
 - 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
 - 3 Tbsp whole milk
-- 1 large egg
+- :egg: 1 large egg
 
 ### :peanuts: Filling
 
 - 0.75 cup [creamy peanut butter][1]
-- 3 Tbsp unsalted butter
+- :butter: 3 Tbsp unsalted butter
 - 1 cup (4 oz/113 g) confectioners’ sugar
 
 ## :cooking: Cookware
@@ -54,8 +54,7 @@ mixture with rubber spatula until combined. Stir in peanuts until evenly distrib
 
 ### Step 2
 
-Using number 60 scoop or tablespoon measure, place 12 mounds, evenly spaced, on each prepared baking sheet. Using damp
-hand, flatten mounds until 2 inches in diameter.
+Using number 60 scoop or tablespoon measure (20 g), place 12 mounds, evenly spaced, on each prepared baking sheet. Using damp hand, flatten mounds until 2 inches in diameter.
 
 ### Step 3
 
@@ -70,7 +69,7 @@ about 40 seconds. Using rubber spatula, stir in confectioners’ sugar until com
 
 ### Step 5
 
-TO ASSEMBLE: Place 24 cookies upside down on work surface. Place 1 level tablespoon (or number 60 scoop) warm filling in
+TO ASSEMBLE: Place 24 cookies upside down on work surface. Place 1 level tablespoon (20 g) (or number 60 scoop) warm filling in
 center of each cookie. Place second cookie on top of filling, right side up, pressing gently until filling spreads to
 edges. Allow filling to set for 1 hour before serving. Assembled cookies can be stored in airtight container for up to 3
 days.
