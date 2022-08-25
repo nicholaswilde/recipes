@@ -11,10 +11,10 @@
 - :sake: 0.33 cup rice vinegar
 - :olive: 4 Tbsp olive oil
 - :egg: 0.25 cup mayonnaise
-- :cheese: 3 oz cojita cheese or queso fresco
+- :cheese: 3 oz cotija cheese or queso fresco
 - :lemon: 1 lime juice
 - :garlic: 1 clove garlic
-- :hot_pepper: 1 jalepeño
+- :hot_pepper: 1 jalapeño
 - :herb: 0.5 cup cilantro
 - :salt: 0.5 Tbsp salt
 
@@ -29,7 +29,7 @@
 
 ### Step 1
 
-Add rice vinegar, olive oil, mayonnaise, cojita cheese or queso fresco, lime juice, garlic, jalepeño, cilantro, and
+Add rice vinegar, olive oil, mayonnaise, cojita cheese or queso fresco, lime juice, garlic, jalapeño, cilantro, and
 salt to a blender in the order given.
 
 ### Step 2
