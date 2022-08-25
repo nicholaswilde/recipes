@@ -8,17 +8,16 @@
 
 ## :salt: Ingredients
 
-- 1 box TJ's cornbread mix
-- 1 cup milk
-- 1 egg
-- some cayenne pepper
-- 0.5 cup grape seed oil
-- 1 cup TJ's corn and chile tomato-less salsa
-- 0.25 cup grape seed oil
-- some cabbage slaw
-- 1 pkg TJ's chicken-less chicken fingers
+- :corn: 1 box TJ's cornbread mix
+- :glass_of_milk: 1 cup milk
+- :egg: 1 egg
+- :hot_pepper: some cayenne pepper
+- :grapes: some grape seed oil
+- 1 cup [TJ's corn and chile tomato-less salsa][1]
+- :green_salad: some cabbage slaw
+- :poultry_leg: 1 pkg TJ's chicken-less chicken fingers
 - 1 bottle TJ's cilantro dressing
-- 1 lime
+- :lemon: 1 lime
 
 ## :cooking: Cookware
 
@@ -41,3 +40,5 @@ Heat griddle with grape seed oil and scoop 1/4 cup batter onto grill at a time.
 ### Step 4
 
 Serve with cabbage slaw, TJ's chicken-less chicken fingers and TJ's cilantro dressing with a test of lime.
+
+[1]: <../sauces-and-dressings/sweet-and-spicy-corn-salsa.md>
