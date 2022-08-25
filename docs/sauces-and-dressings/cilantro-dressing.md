@@ -29,7 +29,7 @@
 
 ### Step 1
 
-Add rice vinegar, olive oil, mayonnaise, cojita cheese or queso fresco, lime juice, garlic, jalapeño, cilantro, and
+Add rice vinegar, olive oil, mayonnaise, cotija cheese or queso fresco, lime juice, garlic, jalapeño, cilantro, and
 salt to a blender in the order given.
 
 ### Step 2
