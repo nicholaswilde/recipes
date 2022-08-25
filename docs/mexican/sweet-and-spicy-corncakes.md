@@ -16,7 +16,7 @@
 - 1 cup [TJ's corn and chile tomato-less salsa][1]
 - :green_salad: some cabbage slaw
 - :poultry_leg: 1 pkg TJ's chicken-less chicken fingers
-- 1 bottle TJ's cilantro dressing
+- 1 bottle [TJ's cilantro dressing][2]
 - :lemon: 1 lime
 
 ## :cooking: Cookware
@@ -42,3 +42,4 @@ Heat griddle with grape seed oil and scoop 1/4 cup batter onto grill at a time.
 Serve with cabbage slaw, TJ's chicken-less chicken fingers and TJ's cilantro dressing with a test of lime.
 
 [1]: <../sauces-and-dressings/sweet-and-spicy-corn-salsa.md>
+[2]: <../sauces-and-dressings/cilantro-dressing.md>
