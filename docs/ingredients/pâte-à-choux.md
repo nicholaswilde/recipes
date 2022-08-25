@@ -8,11 +8,12 @@
 
 ## :salt: Ingredients
 
-- 1 cup water
+- 1 cup water or milk
 - 8 Tbsp unsalted butter
 - 0.38 tsp salt
 - 1.25 cups flour
 - 4 large eggs
+- 2 tsp sugar (optional)[^1]
 
 ## :cooking: Cookware
 
@@ -48,3 +49,7 @@ completely. Carefully split the pastry, fill, and frost as desired.
 ## :link: Source
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+
+[^1]:
+  Sugar is optional. At the very least, choux should be seasoned with salt. If it's going to be used for a dessert, a
+  small amount of sugar can also be added to gently push it in a sweet direction.
