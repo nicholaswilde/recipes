@@ -12,7 +12,7 @@
 - :hot_pepper: 1 red pepper
 - 1 cup vinegar
 - 0.75 cup sugar
-- 0.25 cup water
+- :ice_cube: 0.25 cup water
 - 1.5 tsp mustard seeds
 - 0.25 tsp cumin seeds
 - :onion: 1 red onion
@@ -24,6 +24,9 @@
 - 1 large saucepan
 
 ## :pencil: Instructions
+
+!!! note
+    This is a copycat of [TJ's Corn and Chile Tomato-less Salsa][1]
 
 ### Step 1
 
@@ -49,3 +52,5 @@ Serve with chips for dipping.
 ## :link: Source
 
 - <https://inquiringchef.com/sweet-and-spicy-corn-salsa/>
+
+[1]: <https://www.traderjoes.com/home/products/pdp/corn-and-chile-tomato-less-salsa-079614>
