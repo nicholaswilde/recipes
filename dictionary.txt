@@ -23,6 +23,8 @@
 42cm
 450g
 545g
+6A
+6B
 7mm
 8oz
 8x7
@@ -98,11 +100,13 @@ de
 Deglaze
 Demerara
 dente
+dishwashing
 doneness
 Eggless
 eggwash
 Elkin's
 Esselstyn
+eyewear
 falafel
 Falafel
 falafels
@@ -143,7 +147,9 @@ Jojo's
 Kalamata
 Krispie
 Krispies
+Laugenbrezeln
 lengthways
+Maillardization
 Maitake
 mandoline
 Marzano
@@ -247,6 +253,7 @@ tsps
 Tubinado
 Tumblerful
 Tyme
+unfloured
 ungreased
 unmolding
 verde
