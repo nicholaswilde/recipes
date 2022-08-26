@@ -1,4 +1,4 @@
-# French Onion Soup
+# :onion: French Onion Soup
 
 ![French Onion Soup](../assets/images/french-onion-soup.jpg)
 
@@ -8,22 +8,22 @@
 
 ## :salt: Ingredients
 
-- 4 Tbsp unsalted butter
-- 4 lbs onions
-- 1 tsp salt
+- :butter: 4 Tbsp unsalted butter
+- :onion: 4 lbs onions
+- :salt: 1 tsp salt
 - 1 tsp sugar
 - 1 cup dry red wine
 - 8 cups vegetable broth
-- 4 sprigs thyme
+- :herb: 4 sprigs thyme
 - 2 bay leaves
 - 0.5 tsp pepper
-- 0.5 tsp salt
+- :salt: 0.5 tsp salt
 - 6 oz baguette
-- 3 Tbsp olive oil
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 1 cup Gruyère
-- 0.5 cup Parmesan
+- :olive: 3 Tbsp olive oil
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
+- :cheese: 1 cup Gruyère
+- :cheese: 0.5 cup Parmesan
 
 ## :cooking: Cookware
 
