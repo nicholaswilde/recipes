@@ -12,13 +12,13 @@
 - :onion: 4 lbs onions
 - :salt: 1 tsp salt
 - 1 tsp sugar
-- 1 cup dry red wine
+- :wine_glass: 1 cup dry red wine
 - 8 cups vegetable broth
 - :herb: 4 sprigs thyme
-- 2 bay leaves
-- 0.5 tsp pepper
+- :fallen_leaf: 2 bay leaves
+- :salt: 0.5 tsp pepper
 - :salt: 0.5 tsp salt
-- 6 oz baguette
+- :baguette_bread: 6 oz baguette
 - :olive: 3 Tbsp olive oil
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
