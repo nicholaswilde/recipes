@@ -26,4 +26,4 @@ Development of this site is documented [here][3].
 
 [1]: https://cooklang.org/
 [2]: https://github.com/nicholaswilde/
-[3]: ./development.md
+[3]: ./reference/development.md
