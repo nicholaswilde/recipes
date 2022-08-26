@@ -18,7 +18,7 @@
 - :egg: 3 large eggs
 - :corn: 0.5 cup corn syrup
 - :ice_cream: 2 Tbsp vanilla
-- :chestnut: 1 cup pecans
+- :chestnut: 1 cup (99 g) pecans
 - :chocolate_bar: 0.5 cup (3 oz/85 g) milk chocolate chips
 - :salt: 0.5 tsp sea salt
 
@@ -32,7 +32,7 @@
 - :egg: 1 large egg
 - :corn: 2 Tbsp corn syrup
 - :ice_cream: 2 tsp vanilla
-- :chestnut: 0.33 cup pecans
+- :chestnut: 0.33 cup (33 g) pecans
 - :chocolate_bar: 2 Tbsp (0.75 oz/21 g) milk chocolate chips
 - :salt: 0.125 tsp sea salt
 
