@@ -1,6 +1,12 @@
 ---
 emoji:
   ingredients:
+    - fallen_leaf:
+        - bay leaf
+    - candy:
+        - sugar
+        - powdered sugar
+        - confectioner's sugar
     - maple_leaf:
         - maple syrup
         - syrup
