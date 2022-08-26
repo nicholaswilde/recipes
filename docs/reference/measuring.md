@@ -205,6 +205,7 @@ $$
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
+| Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
 | Quinoa (whole)                                        | 1 cup             | 177         | 6-1/4       |
 | Quinoa Flour                                          | 1 cup             | 110         | 3-7/8       |
 | Raisins (loose)                                       | 1 cup             | 149         | 5-1/4       |
