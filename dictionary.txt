@@ -22,6 +22,8 @@
 400ºF
 42cm
 450g
+4A
+4B
 545g
 6A
 6B
@@ -150,6 +152,7 @@ Krispies
 Laugenbrezeln
 lengthways
 Maillardization
+maitake
 Maitake
 mandoline
 Marzano
