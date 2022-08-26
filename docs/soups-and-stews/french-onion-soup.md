@@ -11,7 +11,7 @@
 - :butter: 4 Tbsp unsalted butter
 - :onion: 4 lbs onions
 - :salt: 1 tsp salt
-- 1 tsp sugar
+- :candy: 1 tsp sugar
 - :wine_glass: 1 cup dry red wine
 - 8 cups vegetable broth
 - :herb: 4 sprigs thyme
