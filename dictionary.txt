@@ -14,6 +14,8 @@
 20cm
 23cm
 25g
+2A
+2B
 2cm
 30cm
 350ºF
@@ -87,6 +89,7 @@ Crema
 crème
 Crème
 cremini
+Cremini
 Creuset
 custardy
 dauphine
@@ -117,6 +120,7 @@ gallo
 Galway
 ganache
 garam
+ginger-miso
 Ginger-Miso
 glug
 gnudi
@@ -140,6 +144,7 @@ Kalamata
 Krispie
 Krispies
 lengthways
+Maitake
 mandoline
 Marzano
 masala
@@ -166,6 +171,7 @@ overmix
 overwhip
 ozs
 panko
+parcooked
 Parm
 Parmigiano-Reggiano
 passata
@@ -186,6 +192,8 @@ Polenta
 pommes
 Pommes
 porcini
+portobello
+Portobello
 potato-choux
 pourable
 pre-commit
