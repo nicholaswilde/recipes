@@ -38,7 +38,27 @@ graph TD
   U[CI GitHub Action workflow<br/>deploys recipe site];
   V{Is the image<br/>format webp?};
   W[Convert the image<br/>to png using dwebp];
-
+  X[Check spelling using<br/>spellchecker-cli];
+  Y[Check markdown links<br/>using markdown-link-check];
+  Z{What is the<br/>origin of the recipe?};
+  AB{What type of device<br/>is being used?}
+  AC[Use the GitHub mobile app<br/>to create an issue]
+  AD[Use the GitHub website<br/>to create an issue]
+  AE[Use GitHub Issues to<br/>determine which recipe to document]
+  AF[Close GitHub issue, if applicable.]
+  AG[Identify a recipe<br/>to be documented]
+  AH[Document link in issue]
+  AI[Take image of cookbook/index<br/>card and add it to issue]
+  AG --> AB;
+  AB --> |Mobile|AC;
+  AB --> |Desktop|AD;
+  AC --> Z;
+  AD --> Z;
+  Z --> |Website|AH;
+  Z --> |Cookbook/<br/>Index Card|AI;
+  AH --> AE;
+  AI --> AE;
+  AE --> S;
   A --> |Yes|B;
   A --> |No|C;
   B --> D;
@@ -60,20 +80,25 @@ graph TD
   R --> F;
   S --> A;
   M --> T;
-  T --> |Yes|N;
-  T --> |No|P
+  T --> |Yes|X;
+  X --> Y;
+  Y --> N;
+  T --> |No|P;
   N --> U;
   G --> V;
   V --> |Yes|W;
   V --> |No|H;
-  W --> H
+  W --> H;
+  U --> AF;
 
-  click B "https://github.com/cooklang/cook-import"
-  click C "https://github.com/nicholaswilde/cooklang-micro"
-  click D "https://github.com/cooklang/cook-import"
-  click F "https://cooklang.org/cli/help/#read"
-  click H "https://nicholaswilde.io/cook-docs"
+  click B "#cook-import"
+  click C "#cooklang-micro"
+  click D "#cook-import"
+  click F "#cooklang"
+  click H "#cook-docs"
   click U "https://github.com/nicholaswilde/recipes/blob/main/.github/workflows/ci.yaml"
+  click X "#spellchecker-cli"
+  click Y "#markdown-link-check"
 ```
 
 ## :hammer_and_wrench: Tools
@@ -95,6 +120,18 @@ brew install cooklang/tap/cook
 ```shell title="Usage"
 cook recipe read file.cook
 ```
+
+### :truck: [`cook-import`][11]
+
+Used to download recipe from website as a `cooklang` file, if possible.
+
+```shell title="Usage"
+cook-import -l <url> -f
+```
+
+### :memo: [`cooklang-micro`][12]
+
+Used as a `cooklang` syntax highlighter for the [`micro`][13] editor
 
 ### :frame_with_picture: [`webp`][1]
 
@@ -252,3 +289,6 @@ Website used to search for emoji contexts.
 [8]: <https://taskfile.dev/>
 [9]: <https://github.com/tbroadley/spellchecker-cli>
 [10]: <https://github.com/tcort/markdown-link-check>
+[11]: <https://github.com/cooklang/cook-import>
+[12]: <https://github.com/nicholaswilde/cooklang-micro>
+[13]: <https://micro-editor.github.io/>
