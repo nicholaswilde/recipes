@@ -8,6 +8,15 @@
 | 2 minced anchovies      | 1 tsp                 |
 | 3 minced anchovies      | 1.5 tsp               |
 
+## :butter: [Butter][14]
+
+| Salted Butter Equivalency to:   | Unsalted Butter | Salt    |
+|---------------------------------|-----------------|---------|
+| 4 Tbsp                          | 4 Tbsp          | 1/8 tsp |
+| 1/4 cup                         | 1/4 cup         | 1/8 tsp |
+| 1/2 cup                         | 1/2 cup         | 1/4 tsp |
+| 1 cup                           | 1 cup           | 1/2 tsp |
+
 ## :salt: [Cream of Tartar][2]
 
 | Cream of Tartar Equivalency to:               | Lemon Juice | White Vinegar | Baking Powder[^1] |
@@ -142,3 +151,4 @@
 [11]: <../ingredients/grated-vegetable-shortening.md>
 [12]: <https://blog.wilton.com/everyday-milk-substitutes-for-baking-when-out-of-milk/>
 [13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
+[14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
