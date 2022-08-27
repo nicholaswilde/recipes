@@ -70,6 +70,18 @@
 | 1 Medium Onion                | 1 cup         | 1 Tbsp        | 3 Tbsp              |
 | 1 Large                       | 1-1/2 cups    | 1-1/2 Tbsp    | 4-1/2 Tbsp          |
 
+## [Pasta Water][15]
+
+1% Salinity
+
+| Water   | Fine Sea Salt | Table Salt  | Morton Coarse Kosher  | Diamond Crystal Kosher  |
+|---------|---------------|-------------|-----------------------|-------------------------|
+| 1/2 L   | 3/4 tsp       | 3/4 tsp     | 1 tsp                 | 1/2 Tbsp                |
+| 1 L     | 1-1/2 tsp     | 1-1/2 tsp   | 2 tsp                 | 1 Tbsp                  |
+| 1-1/2 L | 2-1/4 tsp     | 2-1/4 tsp   | 1 Tbsp                | 1-1/2 Tbsp              |
+| 2 L     | 1 Tbsp        | 1 Tbsp      | 4 tsp                 | 2 Tbsp                  |
+| 4 L     | 2 Tbsp        | 2 Tbsp      | 8 tsp                 | 4 Tbsp                  |
+
 ## :salt: [Salt][7]
 
 | Table Salt  | Coarse Kosher Salt  | Fine Sea Salt     | Coarse Sea Salt   | Fine Himalayan Pink Salt  | Coarse Himalayan Pink Salt  | Canning & Pickling Salt |
@@ -152,3 +164,4 @@
 [12]: <https://blog.wilton.com/everyday-milk-substitutes-for-baking-when-out-of-milk/>
 [13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
+[15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
