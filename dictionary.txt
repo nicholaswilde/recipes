@@ -49,6 +49,8 @@ Anson
 Arborio
 artisanal
 Bamba
+béchamel
+Béchamel
 bella
 blondies
 Blondies
@@ -259,6 +261,8 @@ Tyme
 unfloured
 ungreased
 unmolding
+velouté
+Velouté
 verde
 verts
 Verts
