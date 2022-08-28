@@ -271,3 +271,8 @@ xanthan
 Zeb's
 zhoug
 Zhoug
+shortcodes
+Emojipedia
+CLI
+MkDocs
+repo
