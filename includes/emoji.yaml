@@ -1,6 +1,10 @@
 ---
 emoji:
   ingredients:
+    - droplet:
+        - water
+    - hotsprings:
+        - hot water
     - tumbler_glass:
         - rum
     - fallen_leaf:
