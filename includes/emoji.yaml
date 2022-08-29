@@ -1,6 +1,8 @@
 ---
 emoji:
   ingredients:
+    - tumbler_glass:
+        - rum
     - fallen_leaf:
         - bay leaf
     - candy:
