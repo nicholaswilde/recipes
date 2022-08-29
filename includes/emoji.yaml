@@ -1,6 +1,14 @@
 ---
 emoji:
   ingredients:
+    - seedling:
+        - pumpkin seeds
+        - sunflower seeds
+        - pepitas
+    - hot_pepper:
+        - chile
+        - paprika
+        - chili powder
     - droplet:
         - water
     - hotsprings:
@@ -29,6 +37,7 @@ emoji:
         - strawberry jam
         - strawberry jelly
     - herb:
+        - cumin
         - basil
         - parsley
         - thyme
@@ -94,6 +103,7 @@ emoji:
         - ice water
     - leafy_green:
         - cabbage
+        - red cabbage
         - shredded cabbage
     - peanuts:
         - peanuts

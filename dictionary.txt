@@ -200,6 +200,7 @@ Pâtissière
 pecorino
 penne
 Penne
+pepitas
 pepperoncini
 pico
 pimentón
@@ -229,6 +230,8 @@ Rewhisk
 rigate
 Rigate
 Risoni
+romesco
+Romesco
 Salata
 sauté
 Sauté
