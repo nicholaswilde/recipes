@@ -1,41 +1,59 @@
 ---
 emoji:
+  cookware:
+    - bowl_with_spoon:
+        - large bowl
+    - cookie:
+        - baking sheet
+    - page_facing_up:
+        - parchment paper
+    - shallow_pan_of_food:
+        - medium saucepan
+    - spoon:
+        - spatula
   ingredients:
-    - seedling:
-        - pumpkin seeds
-        - sunflower seeds
-        - pepitas
-    - hot_pepper:
-        - chile
-        - paprika
-        - chili powder
-    - droplet:
-        - water
-    - hotsprings:
-        - hot water
-    - tumbler_glass:
-        - rum
-    - fallen_leaf:
-        - bay leaf
+    - bell_pepper:
+        - bell pepper
+    - bread:
+        - bread crumbs
+        - bread
+    - butter:
+        - butter
     - candy:
         - sugar
         - powdered sugar
         - confectioner's sugar
-    - maple_leaf:
-        - maple syrup
-        - syrup
-        - molasses
-        - brown sugar
-    - honey_pot:
-        - honey
+    - carrot:
+        - carrot
+        - frozen vegetables
+    - curry:
+        - curry powder
+    - droplet:
+        - water
+    - ear_of_rice:
+        - flour
+    - eggplant:
+        - eggplant
+    - fallen_leaf:
+        - bay leaf
+    - garlic:
+        - garlic
+        - shallot
+    - glass_of_milk:
+        - milk
+        - whole milk
+        - lowfat milk
+        - skim milk
     - grapes:
         - grapes
         - grape jelly
         - grape jam
-    - strawberry:
-        - strawberries
-        - strawberry jam
-        - strawberry jelly
+    - green_circle:
+        - peas
+        - pea pods
+    - green_salad:
+        - vinaigrette
+        - dressing
     - herb:
         - cumin
         - basil
@@ -44,8 +62,23 @@ emoji:
         - oregano
         - cilantro
         - coriander
-    - bell_pepper:
-        - bell pepper
+    - honey_pot:
+        - honey
+    - hot_pepper:
+        - chile
+        - paprika
+        - chili powder
+    - hotsprings:
+        - hot water
+    - ice_cream:
+        - vanilla
+        - icecream
+    - ice_cube:
+        - ice water
+    - leafy_green:
+        - cabbage
+        - red cabbage
+        - shredded cabbage
     - lemon:
         - lemon
         - lemon juice
@@ -53,76 +86,43 @@ emoji:
         - lime
         - lime juice
         - lime zest
-    - tangerine:
-        - tangerine
-        - orange
-    - curry:
-        - curry powder
-    - ear_of_rice:
-        - flour
-    - carrot:
-        - carrot
-        - frozen vegetables
-    - eggplant:
-        - eggplant
-    - green_circle:
-        - peas
-        - pea pods
-    - garlic:
-        - garlic
-        - shallot
-    - onion:
-        - onion
-    - salt:
-        - salt
-        - pepper
-    - green_salad:
-        - vinaigrette
-        - dressing
-    - takeout_box:
-        - soysauce
-    - spaghetti:
-        - spaghetti
-    - tomato:
-        - tomato
-        - marinara sauce
-    - bread:
-        - bread crumbs
-        - bread
+    - maple_leaf:
+        - maple syrup
+        - syrup
+        - molasses
+        - brown sugar
     - microbe:
         - nutritional yeast
     - olive:
         - olive
         - olive oil
-    - ice_cream:
-        - vanilla
-        - icecream
-    - rice:
-        - rice
-    - ice_cube:
-        - ice water
-    - leafy_green:
-        - cabbage
-        - red cabbage
-        - shredded cabbage
+    - onion:
+        - onion
     - peanuts:
         - peanuts
         - peanut butter
-    - butter:
-        - butter
-    - glass_of_milk:
-        - milk
-        - whole milk
-        - lowfat milk
-        - skim milk
-  cookware:
-    - cookie:
-        - baking sheet
-    - page_facing_up:
-        - parchment paper
-    - spoon:
-        - spatula
-    - bowl_with_spoon:
-        - large bowl
-    - shallow_pan_of_food:
-        - medium saucepan
+    - rice:
+        - rice
+    - salt:
+        - salt
+        - pepper
+    - seedling:
+        - pumpkin seeds
+        - sunflower seeds
+        - pepitas
+    - spaghetti:
+        - spaghetti
+    - strawberry:
+        - strawberries
+        - strawberry jam
+        - strawberry jelly
+    - takeout_box:
+        - soysauce
+    - tangerine:
+        - tangerine
+        - orange
+    - tomato:
+        - tomato
+        - marinara sauce
+    - tumbler_glass:
+        - rum

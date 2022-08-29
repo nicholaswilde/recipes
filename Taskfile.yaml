@@ -76,6 +76,29 @@ tasks:
     cmds:
       - cook server
     silent: true
+  emoji:
+    desc: Show available emoji
+    cmds:
+      - yq '.emoji' includes/emoji.yaml
+  emoji-ing:
+    desc: Show available ingredients emoji
+    cmds:
+      - yq '.emoji.ingredients' includes/emoji.yaml
+  emoji-cw:
+    desc: Show available cookware emoji
+    cmds:
+      - yq '.emoji.cookware' includes/emoji.yaml
+  emoji-search:
+    desc: Search for emoji
+    cmds:
+      - yq '.emoji.ingredients[]|pick(["{{ .SHORTCODE }}"])|select(length>0)' includes/emoji.yaml
+  emoji-sort:
+    desc: Sort emoji.yaml
+    cmds:
+      - yq -i 'sort_keys(.emoji)' includes/emoji.yaml
+      - yq -i '.emoji.cookware|=sort_by(keys | .[0])' includes/emoji.yaml
+      - yq -i '.emoji.ingredients|=sort_by(keys | .[0])' includes/emoji.yaml
+      - yq includes/emoji.yaml
   sort:
     desc: Sort dictionary.txt
     cmds:
