@@ -8,15 +8,23 @@
 
 ## :salt: Ingredients
 
+### :custard: Caramel
+
 - :glass_of_milk: 125 g condensed milk
 - :maple_leaf: 23 g brown sugar
 - :maple_leaf: 40 g Treacle or golden syrup
 - :butter: 45 g unsalted butter
 - :salt: 1 pinch salt
+
+### :cookie: Cookie
+
 - :ear_of_rice: 240 g all-purpose flour
 - :candy: 70 g powdered sugar
 - :butter: 180 g unsalted butter
 - :egg: 1 egg yolk
+
+### :chocolate_bar: Chocolate Coating
+
 - :chocolate_bar: 250 g compound milk or semi-sweet chocolate
 - :salt: some flaky salt
 
@@ -28,11 +36,11 @@
 - 1 cookie cutter
 - 1 wire rack
 
-## :pencil: Instructions
+## Caramel Instructions
 
 ### Step 1
 
-Caramel: Combine condensed milk, brown sugar, Treacle or golden syrup, unsalted butter, and salt in a small saucepan and
+Combine condensed milk, brown sugar, Treacle or golden syrup, unsalted butter, and salt in a small saucepan and
 bring to a boil.
 
 ### Step 2
@@ -43,9 +51,11 @@ Simmer over medium heat until the sugar has completely dissolved and the mixture
 
 Remove from the heat and place in the fridge to chill completely.
 
+## Cookie Instructions
+
 ### Step 4
 
-COOKIE: Combine the all-purpose flour and powdered sugar in a large bowl.
+Combine the all-purpose flour and powdered sugar in a large bowl.
 
 ### Step 5
 
@@ -83,9 +93,11 @@ Place the cookies on the lined tray and bake for 15 minutes, or until lightly go
 
 Remove and cool completely.
 
+## Assembly Instructions
+
 ### Step 14
 
-ASSEMBLY: Transfer the caramel to a piping bag fitted with a small round tip.
+Transfer the caramel to a piping bag fitted with a small round tip.
 
 ### Step 15
 
