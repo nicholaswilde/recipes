@@ -29,7 +29,7 @@ Make a blond roux.
 
 ### Step 2
 
-Remove the medium saucepan from teh heat and slowly whick in 1 cup of cold milk 1/3 at a time.
+Remove the medium saucepan from the heat and slowly whisk in 1 cup of cold milk 1/3 at a time.
 
 ### Step 3
 
