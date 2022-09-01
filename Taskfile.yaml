@@ -120,6 +120,10 @@ tasks:
       - >-
         docker run --rm -it -v ${PWD}:${PWD}:ro -w ${PWD}
         programmerassistant/yamllint yamllint .
+  move:
+    desc: Move recipe markdown file and image.
+    cmds:
+      - ./scripts/move.sh {{shellQuote .FILE }}
   default:
     cmds:
       - task -a
