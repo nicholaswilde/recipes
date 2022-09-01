@@ -124,6 +124,14 @@ tasks:
     desc: Move recipe markdown file and image.
     cmds:
       - ./scripts/move.sh {{shellQuote .FILE }}
+  deg:
+    desc: Replace temperatures with degree symbols
+    cmds:
+      - >-
+        sed -E -i -e 's/([[:digit:]]+)F/\1°F/'
+        -e 's/ degrees F/°F/'
+        -e 's/ degrees/°F/'
+        -e 's/([[:digit:]]+)[[:space:]]F/\1°F/' {{shellQuote .FILE }}
   default:
     cmds:
       - task -a
