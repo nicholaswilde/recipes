@@ -80,7 +80,7 @@ Let mixture sit for 5 minutes.
 | 1 Medium Onion                | 1 cup         | 1 Tbsp        | 3 Tbsp              |
 | 1 Large                       | 1-1/2 cups    | 1-1/2 Tbsp    | 4-1/2 Tbsp          |
 
-## [Pasta Water][15]
+## :spaghetti: [Pasta Water][15]
 
 1% Salinity
 
