@@ -26,6 +26,8 @@ emoji:
     - carrot:
         - carrot
         - frozen vegetables
+    - chestnut:
+        - nutmeg
     - cup_with_straw:
         - baking soda
     - curry:
@@ -119,6 +121,8 @@ emoji:
         - pepitas
     - spaghetti:
         - spaghetti
+        - pasta
+        - macaroni
     - strawberry:
         - strawberries
         - strawberry jam
