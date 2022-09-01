@@ -35,6 +35,16 @@
 | 1 Tbsp                      | 2 tsp       |
 | 1-1/2 Tbsp                  | 1 Tbsp      |
 
+## :egg: [Eggs][16]
+
+Let mixture sit for 5 minutes.
+
+| Egg Equivalency to: | Flaxseed Meal | Water   |
+|---------------------|---------------|---------|
+| 1 egg               | 1 Tbsp        | 3 Tbsp  |
+| 2 eggs              | 2 Tbsp        | 6 Tbsp  |
+| 3 eggs              | 3 Tbsp        | 9 Tbsp  |
+
 ## :garlic: [Garlic][3]
 
 | Garlic Cloves Equivalency to: | Minced Garlic | Garlic Flakes | Granulated Garlic | Garlic Powder | Garlic Salt[^2] |
@@ -165,3 +175,4 @@
 [13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
+[16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>
