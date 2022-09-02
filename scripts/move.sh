@@ -147,7 +147,9 @@ function move_files(){
   new_markdown_path="${DOCS_PATH}/${category}/${lower}.md"
   test -d "${DOCS_PATH}/${category}" || (printf "Folder does not exist, %s\n" "${DOCS_PATH}/${category}" && exit 1)
   [ "${DEBUG}" = true ] && printf "new_markdown_path: %s\n" "${new_markdown_path}"
-  cp "${image_path}" "${new_image_path}"
+  if [ -f "${image_path}" ]; then
+    cp "${image_path}" "${new_image_path}"
+  fi
   mv "${markdown_path}" "${new_markdown_path}"
   spell_check "${new_markdown_path}" "${recipe_path}"
   check_links "${new_markdown_path}"
