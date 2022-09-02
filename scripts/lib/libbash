@@ -1,0 +1,77 @@
+#!/bin/bash
+
+# Check is variable is null
+function is_null {
+  [ -z "${1}" ]
+}
+
+# Check if file exists
+function file_exists(){
+  [ -f "{1}" ]
+}
+
+# printf usage_error if something isn't right.
+function usage_error() {
+  show_usage "${1}"
+  printf "\nTry %s -h for more options.\n" "${1}" >&2
+  exit 1
+}
+
+function show_usage(){
+  printf "Usage: %s [OPTIONS] FILENAME\n" "${1}"
+}
+
+function show_version(){
+  printf "%s version %s\n" "${1}" "${2}"; exit 0
+}
+
+function script_desc(){
+  printf "%s\n\n" "${1}"
+}
+
+# Show the help
+function show_help(){
+  show_usage "${1}"
+  script_desc "${2}"
+  printf "Mandatory arguments:\n"
+  printf "  FILENAME            The cook filename to move\n\n"
+  printf "Options:\n"
+  printf "  -h, --help          Print this Help.\n"
+  printf "  -v, --version       Print script version and exit.\n"
+  exit 0
+}
+
+function get_category(){
+  basename "$(dirname "${1}")"
+}
+
+function show_error(){
+  printf "Could not get \`%s\`\n" "${1}"
+  exit 1
+}
+
+function get_extension() {
+  printf '%s\n' "${1#*.}"
+}
+
+function to_lower() {
+  s="${1// /-}"
+  printf '%s\n' "${s,,}"
+}
+
+function remove_extension() {
+  printf '%s\n' "${1%%.*}"
+}
+
+function get_image() {
+  s="${1}"
+  if [ -f "${s}.jpg" ]; then
+    readlink -f "${s}.jpg"
+  elif [ -f "${s}.png" ]; then
+    readlink -f "${s}.png"
+  fi
+}
+
+function get_filename() {
+  basename "${1}"
+}
