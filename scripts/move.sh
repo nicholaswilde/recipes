@@ -7,8 +7,8 @@
 # Move recipes to their intended locations
 #
 # @author Nicholas Wilde, 0x08b7d7a3
-# @date 15 Aug 2022
-# @version 0.1.0
+# @date 02 Sep 2022
+# @version 0.2.0
 #
 ################################################################################
 
@@ -23,7 +23,7 @@ DOCS_PATH="${ROOT_DIR}/docs"
 COOK_PATH="${ROOT_DIR}/cook"
 IMAGES_PATH="${DOCS_PATH}/assets/images"
 SCRIPT_NAME=$(basename "${0}")
-SCRIPT_VERSION="0.1.0"
+SCRIPT_VERSION="$(grep "# @version" "${0}" | sed 's/\# \@version //'|\head -n1)"
 SCRIPT_DESC="Move recipes to their intended locations"
 DEBUG=true
 
@@ -40,8 +40,11 @@ readonly COOK_PATH
 source "${DIR}/lib/libbash"
 
 function spell_check() {
+  arr=()
   for path in "${@}"; do
-    s=$(realpath --relative-to="${ROOT_DIR}" "${path}")
+    arr+=("${path}")
+    s=$(get_new_markdown_path "${path}")
+    s=$(realpath --relative-to="${ROOT_DIR}" "${s}")
     arr+=("${s}")
   done
   cd "${ROOT_DIR}"
@@ -49,56 +52,113 @@ function spell_check() {
 }
 
 function links_check() {
-  docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp${1}" -c "/tmp${ROOT_DIR}/mlc_config.json"
+  arr=()
+  for path in "${@}"; do
+    s=$(get_new_markdown_path "${path}")
+    docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp${s}" -c "/tmp${ROOT_DIR}/mlc_config.json"
+  done
+}
+
+function get_recipe_path(){
+  s=$(readlink -f "${1}")
+  printf '%s\n' "${s}"
+}
+
+function get_recipe_filename(){
+  get_filename "${1}"
+}
+
+function get_recipe_name(){
+  recipe_filename=$(get_filename "${1}")
+  remove_extension "${recipe_filename}"
+}
+
+function get_markdown_path(){
+  recipe_name=$(get_recipe_name "${1}")
+  category=$(get_category "${1}")
+  lower=$(to_lower "${recipe_name}")
+  readlink -f "${COOK_PATH}/${category}/${lower}.md"
+}
+
+function get_image_path(){
+  category=$(get_category "${1}")
+  recipe_name=$(get_recipe_name "${1}")
+  get_image "${COOK_PATH}/${category}/${recipe_name}"
+}
+
+function get_new_image_path(){
+  recipe_name=$(get_recipe_name "${1}")
+  lower=$(to_lower "${recipe_name}")
+  image_path=$(get_image_path "${recipe_path}")
+  image_extension=$(get_extension "${image_path}")
+  printf "%s/%s.%s" "${IMAGES_PATH}" "${lower}" "${image_extension}"
+}
+
+function get_new_markdown_path(){
+  recipe_name=$(get_recipe_name "${1}")
+  category=$(get_category "${1}")
+  lower=$(to_lower "${recipe_name}")
+  printf "%s/%s/%s.md" "${DOCS_PATH}" "${category}" "${lower}"
 }
 
 function move_files(){
   # Check if file exists
   recipe_path="${1}"
-  [ "${DEBUG}" = true ] && printf "recipe_path: %s\n" "${recipe_path}"
   test -f "${1}" || (printf "File does not exist, %s\n" "${1}" && exit 1)
-  # Get category
-  recipe_path=$(readlink -f "${recipe_path}")
+
+  recipe_path=$(get_recipe_path "${recipe_path}")
+
   category=$(get_category "${recipe_path}")
   is_null "${category}" && printf "Could not get \`category\`\n" && exit 1
-  [ "${DEBUG}" = true ] && printf "category: %s\n" "${category}"
+
   recipe_filename=$(get_filename "${recipe_path}")
   is_null "${recipe_filename}" && printf "Could not get \`recipe_filename\`\n" && exit 1
-  [ "${DEBUG}" = true ] && printf "recipe_filename: %s\n" "${recipe_filename}"
-  recipe_name=$(remove_extension "${recipe_filename}")
-  [ "${DEBUG}" = true ] && printf "recipe_name: %s\n" "${recipe_name}"
-  recipe_extension=$(get_extension "${recipe_filename}")
-  [ "${DEBUG}" = true ] && printf "recipe_extension: %s\n" "${recipe_extension}"
-  lower=$(to_lower "${recipe_name}")
-  [ "${DEBUG}" = true ] && printf "lower: %s\n" "${lower}"
-  markdown_path=$(readlink -f "${COOK_PATH}/${category}/${lower}.md")
-  [ "${DEBUG}" = true ] && printf "markdown_path: %s\n" "${markdown_path}"
+
+  recipe_name=$(get_recipe_name "${1}")
+
+  markdown_path=$(get_markdown_path "${recipe_path}")
+
   if [ ! -f "${markdown_path}" ]; then
     cook-docs -c "${COOK_PATH}/${category}"
   fi
   test -f "${markdown_path}" || (printf "File does not exist, %s\n" "${markdown_path}" && exit 1)
-  image_path=$(get_image "${COOK_PATH}/${category}/${recipe_name}")
-  [ "${DEBUG}" = true ] && printf "image_path: %s\n" "${image_path}"
-  image_extension=$(get_extension "${image_path}")
-  [ "${DEBUG}" = true ] && printf "image_extension: %s\n" "${image_extension}"
-  new_image_path="${IMAGES_PATH}/${lower}.${image_extension}"
-  [ "${DEBUG}" = true ] && printf "new_image_path: %s\n" "${new_image_path}"
-  new_markdown_path="${DOCS_PATH}/${category}/${lower}.md"
+
+  image_path=$(get_image_path "${recipe_path}")
+
+  new_image_path=$(get_new_image_path "${recipe_path}")
+
+  new_markdown_path=$(get_new_markdown_path "${recipe_path}")
   test -d "${DOCS_PATH}/${category}" || (printf "Folder does not exist, %s\n" "${DOCS_PATH}/${category}" && exit 1)
-  [ "${DEBUG}" = true ] && printf "new_markdown_path: %s\n" "${new_markdown_path}"
+
   if [ -f "${image_path}" ]; then
     cp "${image_path}" "${new_image_path}"
   fi
+
   mv "${markdown_path}" "${new_markdown_path}"
-  spell_check "${new_markdown_path}" "${recipe_path}"
-  links_check "${new_markdown_path}"
+}
+
+function debug_print(){
+  recipe_path=$(get_recipe_path "${1}")
+  printf "recipe_path: %s\n" "${recipe_path}"
+  printf "category: %s\n" "$(get_category "${recipe_path}")"
+  printf "recipe_filename: %s\n" "$(get_filename "${recipe_path}")"
+  printf "recipe_name: %s\n" "$(get_recipe_name "${recipe_path}")"
+  printf "markdown_path: %s\n" "$(get_markdown_path "${recipe_path}")"
+  printf "image_path: %s\n" "$(get_image_path "${recipe_path}")"
+  printf "new_image_path: %s\n" "$(get_new_image_path "${recipe_path}")"
+  printf "new_markdown_path: %s\n" "$(get_new_markdown_path "${recipe_path}")"
 }
 
 function main(){
-  move_files "${@}"
+  for path in "${@}"; do
+    [ "${DEBUG}" = true ] && debug_print "${path}"
+    move_files "${path}"
+  done
+  spell_check "${@}"
+  links_check "${@}"
 }
 
-if [ $# -ne 1 ]; then usage_error "${SCRIPT_NAME}"; fi
+if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
 
 # https://www.jamescoyle.net/how-to/1774-bash-getops-example
 # https://opensource.com/article/19/12/help-bash-program

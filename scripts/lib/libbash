@@ -18,7 +18,7 @@ function usage_error() {
 }
 
 function show_usage(){
-  printf "Usage: %s [OPTIONS] FILENAME\n" "${1}"
+  printf "Usage: %s [OPTIONS] FILENAMES\n" "${1}"
 }
 
 function show_version(){
