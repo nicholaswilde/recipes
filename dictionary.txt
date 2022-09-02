@@ -72,6 +72,8 @@ chia
 Chickenless
 chile
 chiles
+chimichurri
+Chimichurri
 chipotle
 Chipotle
 Chipotle-Inspired
@@ -160,6 +162,7 @@ Kalamata
 Krispie
 Krispies
 Laugenbrezeln
+Lavash
 lengthways
 Maillardization
 maitake
@@ -293,5 +296,3 @@ Yeasted
 Zeb's
 zhoug
 Zhoug
-Chimichurri
-chimichurri
