@@ -1,5 +1,7 @@
 # :flatbread: Romesco Wrap
 
+![Romesco Wrap](../assets/images/romesco-wrap.jpg)
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 2 | 10 minutes |
