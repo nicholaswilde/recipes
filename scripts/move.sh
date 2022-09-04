@@ -8,7 +8,7 @@
 #
 # @author Nicholas Wilde, 0x08b7d7a3
 # @date 02 Sep 2022
-# @version 0.2.0
+# @version 0.2.1
 #
 ################################################################################
 
@@ -16,25 +16,17 @@ set -e
 set -o pipefail
 
 # https://stackoverflow.com/a/246128/1061279
-
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
-ROOT_DIR="$(git rev-parse --show-toplevel)"
-DOCS_PATH="${ROOT_DIR}/docs"
-COOK_PATH="${ROOT_DIR}/cook"
-IMAGES_PATH="${DOCS_PATH}/assets/images"
 SCRIPT_NAME=$(basename "${0}")
 SCRIPT_VERSION="$(grep "# @version" "${0}" | sed 's/\# \@version //'|\head -n1)"
 SCRIPT_DESC="Move recipes to their intended locations"
-DEBUG=true
+DEBUG=false
 
 readonly DIR
 readonly SCRIPT_NAME
 readonly SCRIPT_VERSION
-readonly ROOT_DIR
-readonly DOCS_PATH
+readonly SCRIPT_DESC
 readonly DEBUG
-readonly IMAGES_PATH
-readonly COOK_PATH
 
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
@@ -59,48 +51,6 @@ function links_check() {
   done
 }
 
-function get_recipe_path(){
-  s=$(readlink -f "${1}")
-  printf '%s\n' "${s}"
-}
-
-function get_recipe_filename(){
-  get_filename "${1}"
-}
-
-function get_recipe_name(){
-  recipe_filename=$(get_filename "${1}")
-  remove_extension "${recipe_filename}"
-}
-
-function get_markdown_path(){
-  recipe_name=$(get_recipe_name "${1}")
-  category=$(get_category "${1}")
-  lower=$(to_lower "${recipe_name}")
-  readlink -f "${COOK_PATH}/${category}/${lower}.md"
-}
-
-function get_image_path(){
-  category=$(get_category "${1}")
-  recipe_name=$(get_recipe_name "${1}")
-  get_image "${COOK_PATH}/${category}/${recipe_name}"
-}
-
-function get_new_image_path(){
-  recipe_name=$(get_recipe_name "${1}")
-  lower=$(to_lower "${recipe_name}")
-  image_path=$(get_image_path "${recipe_path}")
-  image_extension=$(get_extension "${image_path}")
-  printf "%s/%s.%s" "${IMAGES_PATH}" "${lower}" "${image_extension}"
-}
-
-function get_new_markdown_path(){
-  recipe_name=$(get_recipe_name "${1}")
-  category=$(get_category "${1}")
-  lower=$(to_lower "${recipe_name}")
-  printf "%s/%s/%s.md" "${DOCS_PATH}" "${category}" "${lower}"
-}
-
 function move_files(){
   # Check if file exists
   recipe_path="${1}"
@@ -113,8 +63,6 @@ function move_files(){
 
   recipe_filename=$(get_filename "${recipe_path}")
   is_null "${recipe_filename}" && printf "Could not get \`recipe_filename\`\n" && exit 1
-
-  recipe_name=$(get_recipe_name "${1}")
 
   markdown_path=$(get_markdown_path "${recipe_path}")
 
@@ -135,18 +83,6 @@ function move_files(){
   fi
 
   mv "${markdown_path}" "${new_markdown_path}"
-}
-
-function debug_print(){
-  recipe_path=$(get_recipe_path "${1}")
-  printf "recipe_path: %s\n" "${recipe_path}"
-  printf "category: %s\n" "$(get_category "${recipe_path}")"
-  printf "recipe_filename: %s\n" "$(get_filename "${recipe_path}")"
-  printf "recipe_name: %s\n" "$(get_recipe_name "${recipe_path}")"
-  printf "markdown_path: %s\n" "$(get_markdown_path "${recipe_path}")"
-  printf "image_path: %s\n" "$(get_image_path "${recipe_path}")"
-  printf "new_image_path: %s\n" "$(get_new_image_path "${recipe_path}")"
-  printf "new_markdown_path: %s\n" "$(get_new_markdown_path "${recipe_path}")"
 }
 
 function main(){
