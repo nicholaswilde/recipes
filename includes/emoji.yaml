@@ -12,6 +12,9 @@ emoji:
     - spoon:
         - spatula
   ingredients:
+    - apple:
+        - apple
+        - apple sauce
     - bell_pepper:
         - bell pepper
     - bread:
@@ -32,12 +35,15 @@ emoji:
         - baking soda
     - curry:
         - curry powder
+    - custard:
+        - cinnamon
     - dash:
         - baking powder
     - droplet:
         - water
     - ear_of_rice:
         - flour
+        - oats
     - eggplant:
         - eggplant
     - fallen_leaf:
@@ -46,6 +52,7 @@ emoji:
         - garlic
         - shallot
     - glass_of_milk:
+        - almond milk
         - milk
         - whole milk
         - lowfat milk
