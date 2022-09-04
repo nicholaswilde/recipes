@@ -1,6 +1,6 @@
-# Cook’s Illustrated Perfect Chocolate Chip Cookies
+# :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 
-![Cook’s Illustrated Perfect Chocolate Chip Cookies](../assets/images/cook’s-illustrated-perfect-chocolate-chip-cookies.jpg)
+![Cook's Illustrated Perfect Chocolate Chip Cookies](../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -8,16 +8,16 @@
 
 ## :salt: Ingredients
 
-- 1.75 cups (210 g) all-purpose flour
-- 0.5 tsp baking soda
-- 14 Tbsp (198 g) unsalted butter
-- 0.5 cup (99 g) granulated sugar
-- 0.75 cup (160 g) [dark brown sugar][1]
-- 1 tsp salt
-- 2 tsp vanilla
-- 1 egg
-- 1 egg yolk
-- 1.25 cups (213 g) semi-sweet chocolate chips
+- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
+- :cup_with_straw: 0.5 tsp baking soda
+- :butter: 14 Tbsp (198 g) unsalted butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 0.75 cup (160 g) [dark brown sugar][1]
+- :salt: 1 tsp salt
+- :ice_cream: 2 tsp vanilla
+- :egg: 1 egg
+- :egg: 1 egg yolk
+- :chocolate_bar: 1.25 cups (213 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 
@@ -56,10 +56,14 @@ ensure there are no hidden flour pockets.
 
 ### Step 5
 
-Scoop the dough into 16 even portions, each about 3 tablespoons, and arrange them 2 inches apart on the prepared baking
-sheets, 8 dough balls per sheet.
+Press plastic wrap against the dough and refrigerate for at least 24 hours, up to 72 hours.
 
 ### Step 6
+
+Scoop the dough into 16 even portions, each about 3 tablespoons (60 g), and arrange them 2 inches apart on the prepared baking
+sheets, 8 dough balls per sheet.
+
+### Step 7
 
 Bake the cookies 1 tray at a time until the cookies are golden brown but still puffy, and the edges have begun to set
 but centers are still soft, 10 to 14 minutes, rotating the baking sheet halfway through baking. Transfer the baking
