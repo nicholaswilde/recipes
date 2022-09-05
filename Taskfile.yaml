@@ -114,6 +114,10 @@ tasks:
     vars:
       f:
         sh: "readlink -f {{shellQuote .FILE}}"
+  commit:
+    desc: Commit new cook files.
+    cmds:
+      - ./scripts/commit.sh "{{shellQuote .FILES }}"
   yamllint:
     desc: Run yamllint
     cmds:
