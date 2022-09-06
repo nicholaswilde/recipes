@@ -117,7 +117,8 @@ tasks:
   commit:
     desc: Commit new cook files.
     cmds:
-      - ./scripts/commit.sh "{{shellQuote .FILES }}"
+      - cmd: ./scripts/commit.sh {{shellQuote .FILES }}
+        ignore_error: true
   yamllint:
     desc: Run yamllint
     cmds:
