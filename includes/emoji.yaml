@@ -54,6 +54,9 @@ emoji:
     - ear_of_rice:
         - flour
         - oats
+    - egg:
+        - egg
+        - mayonnaise
     - eggplant:
         - eggplant
     - falafel:
@@ -108,6 +111,7 @@ emoji:
         - cabbage
         - red cabbage
         - shredded cabbage
+        - spinach
     - lemon:
         - lemon
         - lemon juice
@@ -132,6 +136,7 @@ emoji:
         - peanut butter
     - rice:
         - rice
+        - sour cream
     - salt:
         - salt
         - pepper
