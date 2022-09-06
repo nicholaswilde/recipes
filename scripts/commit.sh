@@ -72,7 +72,11 @@ function add_files(){
 
   mkdocs_path="${ROOT_DIR}/mkdocs.yml"
 
-  git add "${recipe_path}" "${image_path}" "${new_image_path}" "${new_markdown_path}" "${mkdocs_path}"
+  emoji_path="${ROOT_DIR}/includes/emoji.yaml"
+
+  dictionary_path="${ROOT_DIR}/dictionary.txt"
+
+  git add "${recipe_path}" "${image_path}" "${new_image_path}" "${new_markdown_path}" "${mkdocs_path}" "${emoji_path}" "${dictionary_path}"
 }
 
 function main(){
