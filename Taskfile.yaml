@@ -115,7 +115,7 @@ tasks:
       f:
         sh: "readlink -f {{shellQuote .FILE}}"
   commit:
-    desc: Commit new cook files.
+    desc: Commit new cook files, FILES.
     cmds:
       - cmd: ./scripts/commit.sh {{shellQuote .FILES }}
         ignore_error: true
@@ -126,9 +126,9 @@ tasks:
         docker run --rm -it -v ${PWD}:${PWD}:ro -w ${PWD}
         programmerassistant/yamllint yamllint .
   move:
-    desc: Move recipe markdown file and image.
+    desc: Move recipes markdown file and image, FILES.
     cmds:
-      - ./scripts/move.sh {{shellQuote .FILE }}
+      - ./scripts/move.sh {{shellQuote .FILES }}
   deg:
     desc: Replace temperatures with degree symbols
     cmds:
