@@ -84,9 +84,7 @@ function main(){
   for path in "${@}"; do
     [ "${DEBUG}" = true ] && debug_print "${path}"
     add_files "${path}"
-    if ! git diff --quiet; then
-      create_commit "${path}"
-    fi
+    create_commit "${path}"
   done
   [ "${DEBUG}" = true ] && git status
 }
