@@ -10,7 +10,7 @@
 
 - :mushroom: 0.5 cup dried porcini mushrooms
 - :olive: 2 Tbsp olive oil
-- :mushroom: 1 lb any kind of fresh mushrooms
+- :mushroom: 1 lb [sautéed][2] any kind of fresh mushrooms
 - :onion: 2 shallots
 - :garlic: 2 clove
 - :herb: 2 sprig thyme
@@ -37,7 +37,7 @@ a large skillet over medium-high heat 2 Tbsp olive oil.
 
 ### Step 3
 
-Add the porcini and 1 pound of any kind of fresh mushrooms, sliced and minced shallots, garlic, and thyme.
+Add the porcini and [sauté][2] 1 pound of any kind of fresh mushrooms with sliced and minced shallots, garlic, and thyme.
 
 ### Step 4
 
@@ -56,3 +56,4 @@ Fold the mushrooms into a risotto for the last 10 minutes of cooking. Fold in wi
 - Joy of Cooking
 
 [1]: <./risotto-milanese.md>
+[2]: <../sides/sautéed-mushrooms.md>
