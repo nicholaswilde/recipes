@@ -131,6 +131,8 @@ nav:
       - Vegan Chocolate Pudding with Cinnamon and Chile: desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md
       - Vegan Strawberry Cake: desserts/vegan-strawberry-cake.md
   - Ingredients:
+      - Pastry Dough:
+          - Basic Pastry Dough: ingredients/pastry-dough/basic-pastry-dough.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
       - Cinnamon Sugar: ingredients/cinnamon-sugar.md
