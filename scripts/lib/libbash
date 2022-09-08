@@ -58,7 +58,13 @@ function show_help(){
 }
 
 function get_category(){
-  basename "$(dirname "${1}")"
+  d1=$(basename "$(dirname "${1}")")
+  d2=$(basename "$(dirname "$(dirname "${1}")")")
+  if [ "${d2}" == "cook" ]; then
+    printf "%s\n" "${d1}"
+  else
+    printf "%s/%s\n" "${d2}" "${d1}"
+  fi
 }
 
 function show_error(){
