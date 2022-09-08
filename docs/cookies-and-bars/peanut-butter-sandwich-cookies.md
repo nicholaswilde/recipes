@@ -52,7 +52,8 @@ mixture with rubber spatula until combined. Stir in peanuts until evenly distrib
 
 ### Step 2
 
-Using number 60 scoop or tablespoon measure (20 g), place 12 mounds, evenly spaced, on each prepared baking sheet. Using damp hand, flatten mounds until 2 inches in diameter.
+Using number 60 scoop or tablespoon measure (20 g), place 12 mounds, evenly spaced, on each prepared baking sheet.
+Using damp hand, flatten mounds until 2 inches in diameter.
 
 ### Step 3
 
@@ -67,10 +68,10 @@ about 40 seconds. Using rubber spatula, stir in confectioners’ sugar until com
 
 ### Step 5
 
-TO ASSEMBLE: Place 24 cookies upside down on work surface. Place 1 level tablespoon (20 g) (or number 60 scoop) warm filling in
-center of each cookie. Place second cookie on top of filling, right side up, pressing gently until filling spreads to
-edges. Allow filling to set for 1 hour before serving. Assembled cookies can be stored in airtight container for up to 3
-days.
+TO ASSEMBLE: Place 24 cookies upside down on work surface. Place 1 level tablespoon (20 g) (or number 60 scoop) warm
+filling in center of each cookie. Place second cookie on top of filling, right side up, pressing gently until filling
+spreads to edges. Allow filling to set for 1 hour before serving. Assembled cookies can be stored in airtight container
+for up to 3 days.
 
 ## :link: Source
 
