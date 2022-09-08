@@ -1,6 +1,6 @@
-# Pâte À Choux
+# :pie: Pâte À Choux
 
-![Pâte À Choux](../assets/images/pâte-à-choux.jpg)
+![Pâte À Choux](../../assets/images/pâte-à-choux.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,12 +8,12 @@
 
 ## :salt: Ingredients
 
-- 1 cup water or milk
-- 8 Tbsp unsalted butter
-- 0.38 tsp salt
-- 1.25 cups flour
-- 4 large eggs
-- 2 tsp sugar (optional)[^1]
+- :glass_of_milk: 1 cup water or milk
+- :butter: 8 Tbsp unsalted butter
+- :salt: 0.38 tsp salt
+- :ear_of_rice: 1.25 cups flour
+- :egg: 4 large eggs
+- :droplet: 2 tsp sugar (optional)[^1]
 
 ## :cooking: Cookware
 

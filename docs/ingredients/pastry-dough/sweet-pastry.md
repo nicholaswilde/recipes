@@ -1,6 +1,6 @@
-# Sweet Pastry
+# :pie: Sweet Pastry
 
-![Sweet Pastry](../assets/images/sweet-pastry.png)
+![Sweet Pastry](../../assets/images/sweet-pastry.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,11 +8,11 @@
 
 ## :salt: Ingredients
 
-- 165 g plain flour
-- 25 g ground almonds
-- 120 g chilled unsalted butter
-- 55 g caster sugar
-- 1 medium egg
+- :ear_of_rice: 165 g plain flour
+- :chestnut: 25 g ground almonds
+- :butter: 120 g chilled unsalted butter
+- :candy: 55 g caster sugar
+- :egg: 1 medium egg
 
 ## :cooking: Cookware
 

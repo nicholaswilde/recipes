@@ -63,4 +63,4 @@ pastry is golden. Leave the tart to stand for 10 minutes, then invert it careful
 
 - <https://www.bbcgoodfood.com/recipes/pear-tarte-tatin>
 
-[1]: <../ingredients/puff-pastry.md>
+[1]: <../ingredients/pastry-dough/puff-pastry.md>

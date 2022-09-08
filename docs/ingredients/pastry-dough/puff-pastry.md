@@ -1,6 +1,6 @@
-# Puff Pastry
+# :pie: Puff Pastry
 
-![Puff Pastry](../assets/images/puff-pastry.png)
+![Puff Pastry](../../assets/images/puff-pastry.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,12 +8,12 @@
 
 ## :salt: Ingredients
 
-- 150 g chilled strong white bread flour
-- 150 g chilled plain flour
-- some salt
-- 2 large eggs
-- 100 ml cold water
-- 250 g chilled unsalted butter
+- :ear_of_rice: 150 g chilled strong white bread flour
+- :ear_of_rice: 150 g chilled plain flour
+- :salt: some salt
+- :egg: 2 large eggs
+- :droplet: 100 ml cold water
+- :butter: 250 g chilled unsalted butter
 
 ## :cooking: Cookware
 

@@ -80,4 +80,4 @@ pommes dauphine to a serving bowl and serve immediately.
 
 - <https://www.seriouseats.com/pommes-dauphine-recipe-5217321>
 
-[1]: <../ingredients/pâte-à-choux.md>
+[1]: <../ingredients/pastry-dough/pâte-à-choux.md>

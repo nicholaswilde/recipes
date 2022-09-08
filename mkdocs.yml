@@ -133,12 +133,15 @@ nav:
   - Ingredients:
       - Pastry Dough:
           - Basic Pastry Dough: ingredients/pastry-dough/basic-pastry-dough.md
+          - Danish Pastry Dough: ingredients/pastry-dough/danish-pastry-dough.md
+          - Pâte à Choux: ingredients/pastry-dough/pâte-à-choux.md
+          - Puff Pastry: ingredients/pastry-dough/puff-pastry.md
+          - Sweet Pastry: ingredients/pastry-dough/sweet-pastry.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
       - Cinnamon Sugar: ingredients/cinnamon-sugar.md
       - Clarified Butter: ingredients/clarified-butter.md
       - Crème Fraîche: ingredients/crème-fraîche.md
-      - Danish Pastry Dough: ingredients/danish-pastry-dough.md
       - Dry Roasted Peanuts: ingredients/dry-roasted-peanuts.md
       - Flavored Sugars: ingredients/flavored-sugars.md
       - Garlic-Parsley Basting Butter: ingredients/garlic-parsley-basting-butter.md
@@ -148,14 +151,11 @@ nav:
       - Mirepoix: ingredients/mirepoix.md
       - Miso Nori Paste: ingredients/miso-nori-paste.md
       - Oreo Pie Crust: ingredients/oreo-pie-crust.md
-      - Pâte à Choux: ingredients/pâte-à-choux.md
       - Peanut Butter: ingredients/peanut-butter.md
-      - Puff Pastry: ingredients/puff-pastry.md
       - Ranch Dressing Mix: ingredients/ranch-dressing-mix.md
       - Ricotta: ingredients/ricotta.md
       - Roux: ingredients/roux.md
       - Sourdough Starter: ingredients/sourdough-starter.md
-      - Sweet Pastry: ingredients/sweet-pastry.md
       - Taco Seasoning: ingredients/taco-seasoning.md
       - Yogurt: ingredients/yogurt.md
   - Italian:

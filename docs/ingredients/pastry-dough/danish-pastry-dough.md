@@ -1,6 +1,6 @@
-# Danish Pastry Dough
+# :pie: Danish Pastry Dough
 
-![Danish Pastry Dough](../assets/images/danish-pastry-dough.png)
+![Danish Pastry Dough](../../assets/images/danish-pastry-dough.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 500 g strong white bread flour
-- 10 g salt
-- 80 g caster sugar
-- 10 g instant yeast
-- 2 medium eggs
-- 90 ml cool water
-- 125 ml tepid full-fat milk
-- 250 g chilled unsalted Normandy butter
+- :ear_of_rice: 500 g strong white bread flour
+- :salt: 10 g salt
+- :candy: 80 g caster sugar
+- :microbe: 10 g instant yeast
+- :egg: 2 medium eggs
+- :droplet: 90 ml cool water
+- :glass_of_milk: 125 ml tepid full-fat milk
+- :butter: 250 g chilled unsalted Normandy butter
 
 ## :cooking: Cookware
 
