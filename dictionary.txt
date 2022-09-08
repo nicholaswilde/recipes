@@ -123,6 +123,7 @@ Falafel
 falafels
 fava
 Fava
+flambé
 flaxmeal
 flaxseed
 Flaxseed
@@ -249,6 +250,7 @@ sauté
 Sauté
 SAUTÉ
 sautéed
+Sautéed
 sautéing
 Scotcheroos
 sealable
@@ -271,6 +273,8 @@ tamari
 Tamari
 Taquito-lada
 taquitos
+Tarte
+Tatin
 Tbsps
 Teff
 TJ's
@@ -301,6 +305,3 @@ Yeasted
 Zeb's
 zhoug
 Zhoug
-flambé
-Tatin
-Tarte
