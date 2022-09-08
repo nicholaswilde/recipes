@@ -12,6 +12,8 @@
 - :olive: 2 Tbsp olive oil
 - :mushroom: 1 lb any kind of fresh mushrooms
 - :onion: 2 shallots
+- :garlic: 2 clove
+- :herb: 2 sprig thyme
 - :wine_glass: 0.25 cup dry white wine
 - :ear_of_rice: 1 [Risotto Milanese][1] omitting the saffron
 - :butter: 1 Tbsp butter
@@ -35,7 +37,7 @@ a large skillet over medium-high heat 2 Tbsp olive oil.
 
 ### Step 3
 
-Add the porcini and 1 pound of any kind of fresh mushrooms, sliced and minced shallots.
+Add the porcini and 1 pound of any kind of fresh mushrooms, sliced and minced shallots, garlic, and thyme.
 
 ### Step 4
 
