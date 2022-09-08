@@ -132,8 +132,8 @@ nav:
       - Vegan Strawberry Cake: desserts/vegan-strawberry-cake.md
   - Ingredients:
       - Pastry Dough:
-          - Basic Pastry Dough: ingredients/pastry-dough/basic-pastry-dough.md
-          - Danish Pastry Dough: ingredients/pastry-dough/danish-pastry-dough.md
+          - Basic Pastry: ingredients/pastry-dough/basic-pastry.md
+          - Danish Pastry: ingredients/pastry-dough/danish-pastry.md
           - Pâte à Choux: ingredients/pastry-dough/pâte-à-choux.md
           - Puff Pastry: ingredients/pastry-dough/puff-pastry.md
           - Sweet Pastry: ingredients/pastry-dough/sweet-pastry.md

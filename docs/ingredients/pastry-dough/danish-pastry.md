@@ -1,6 +1,6 @@
-# :pie: Danish Pastry Dough
+# :pie: Danish Pastry
 
-![Danish Pastry Dough](../../assets/images/danish-pastry-dough.png)
+![Danish Pastry](../../assets/images/danish-pastry.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |

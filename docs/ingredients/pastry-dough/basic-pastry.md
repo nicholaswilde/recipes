@@ -1,6 +1,6 @@
-# Basic Pastry Dough
+# Basic Pastry
 
-![Basic Pastry Dough](../../assets/images/basic-pastry-dough.jpg)
+![Basic Pastry](../../assets/images/basic-pastry.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
