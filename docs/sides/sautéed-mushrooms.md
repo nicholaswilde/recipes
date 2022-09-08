@@ -1,4 +1,4 @@
-# Sautéed Mushrooms
+# :mushroom: Sautéed Mushrooms
 
 ![Sautéed Mushrooms](../assets/images/sautéed-mushrooms.jpg)
 
@@ -8,13 +8,13 @@
 
 ## :salt: Ingredients
 
-- 1.25 lbs mushrooms
-- 0.25 cup water
-- 0.5 tsp vegetable oil
-- 1 Tbsp unsalted butter
-- some salt
-- some pepper
-- some vegetable broth (optional)
+- :mushroom: 1.25 lbs mushrooms
+- :droplet: 0.25 cup water
+- :carrot: 0.5 tsp vegetable oil
+- :butter: 1 Tbsp unsalted butter
+- :salt: some salt
+- :salt: some pepper
+- :stew: some vegetable broth (optional)
 
 ## :cooking: Cookware
 
