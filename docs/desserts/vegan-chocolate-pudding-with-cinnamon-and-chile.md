@@ -8,11 +8,11 @@
 
 ## :salt: Ingredients
 
+### 1 lb Tofu
+
 |:fork_and_knife_with_plate: Serves   | :fork_and_knife: Serving Size |
 |:-----------------------------------:|:-----------------------------:|
 | 6                                   | 161 g                         |
-
-### 1 lb Tofu
 
 - :candy: 0.75 cup sugar
 - :droplet: 0.75 cup water
