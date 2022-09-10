@@ -17,6 +17,7 @@
 - :wine_glass: 0.25 cup dry white wine
 - :ear_of_rice: 1 [Risotto Milanese][1] omitting the saffron
 - :butter: 1 Tbsp butter
+- :herb: some chives
 
 ## :cooking: Cookware
 
@@ -50,6 +51,10 @@ Boil until it has evaporated. Prepare Risotto Milanese omitting the saffron.
 ### Step 6
 
 Fold the mushrooms into a risotto for the last 10 minutes of cooking. Fold in with the cheese 1 Tbsp butter.
+
+### Step 7
+
+Top with a sprinkling of chives.
 
 ## :link: Source
 
