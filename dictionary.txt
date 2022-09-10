@@ -70,6 +70,7 @@ Cassola
 chai
 Chai
 chia
+Chiave
 Chickenless
 chile
 chiles
@@ -109,8 +110,10 @@ de
 Deglaze
 Demerara
 dente
+dente.
 dishwashing
 doneness
+d'Oro
 Eggless
 eggwash
 Elkin's
@@ -306,4 +309,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-dente.
