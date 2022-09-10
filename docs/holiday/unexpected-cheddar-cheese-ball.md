@@ -1,4 +1,4 @@
-# Unexpected Cheddar Cheese Ball
+# :orange_circle: Unexpected Cheddar Cheese Ball
 
 ![Unexpected Cheddar Cheese Ball](../assets/images/unexpected-cheddar-cheese-ball.png)
 
@@ -8,13 +8,13 @@
 
 ## :salt: Ingredients
 
-- 1 pkg Unexpected Cheddar
-- 1 pkg cream cheese
-- 1 tsp chili pepper sauce
-- 1 tsp 21 Seasoning Salute
-- 1 tsp lemon juice
-- 0.5 pkg chopped Sweet & Spicy pecans
-- 1 pkg TJ's Golden Rounds Crackers
+- :cheese_wedge: 1 pkg Unexpected Cheddar
+- :cheese_wedge: 1 pkg cream cheese
+- :hot_pepper: 1 tsp chili pepper sauce
+- :salt: 1 tsp 21 Seasoning Salute
+- :lemon: 1 tsp lemon juice
+- :chestnut: 0.5 pkg chopped Sweet & Spicy pecans
+- :cookie: 1 pkg TJ's Golden Rounds Crackers
 
 ## :cooking: Cookware
 
