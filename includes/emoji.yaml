@@ -68,6 +68,8 @@ emoji:
         - falafel
     - fallen_leaf:
         - bay leaf
+    - four_leaf_clover:
+        - clove
     - garlic:
         - garlic
         - shallot
@@ -156,6 +158,8 @@ emoji:
         - spaghetti
         - pasta
         - macaroni
+    - sponge:
+        - pulp
     - strawberry:
         - strawberries
         - strawberry jam
