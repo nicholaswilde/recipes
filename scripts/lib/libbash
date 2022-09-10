@@ -151,3 +151,22 @@ function debug_print(){
   printf "new_image_path: %s\n" "$(get_new_image_path "${recipe_path}")"
   printf "new_markdown_path: %s\n" "$(get_new_markdown_path "${recipe_path}")"
 }
+
+function do_checks(){
+  filename=$(get_filename "${1}")
+  file_extension=$(get_extension "${filename}")
+  if ! [ "${file_extension}" == "cook" ]; then
+    printf "File extension is not \`cook\`, %s\n" "${filename}"
+    exit 1
+  fi
+  test -f "${1}" || (printf "File does not exist, %s\n" "${1}" && exit 1)
+  mime_type=$(get_mime_type "${1}")
+  if ! [ "${mime_type}" == "text/plain" ]; then
+    printf "Mime type is not \`tex/plain\`, %s\n" "${mime_type}"
+    exit 1
+  fi
+}
+
+function get_mime_type(){
+  file -b --mime-type "${1}"
+}

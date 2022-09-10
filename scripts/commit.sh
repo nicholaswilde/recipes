@@ -83,6 +83,7 @@ function main(){
   [ "${DEBUG}" = true ] && git status
   for path in "${@}"; do
     [ "${DEBUG}" = true ] && debug_print "${path}"
+    do_checks "${path}"
     add_files "${path}"
     create_commit "${path}"
   done

@@ -31,6 +31,27 @@ readonly DEBUG
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
 
+function cleanup(){
+  if command_exists task; then
+    cd "${ROOT_DIR}"
+    task clean
+  fi
+}
+
+function copy_names() {
+  if command_exists copy; then
+    arr=()
+    for path in "${@}"; do
+      s=$(get_recipe_name "${path}")
+      s=$(to_lower "${s}")
+      c=$(get_category "${path}")
+      n=$(get_recipe_name "${path}")
+      arr+=("${n}: ${c}/${s}.md")
+    done
+    printf "%s" "${arr[@]}" | copy
+  fi
+}
+
 function spell_check() {
   arr=()
   for path in "${@}"; do
@@ -88,10 +109,13 @@ function move_files(){
 function main(){
   for path in "${@}"; do
     [ "${DEBUG}" = true ] && debug_print "${path}"
+    do_checks "${path}"
     move_files "${path}"
   done
   spell_check "${@}"
   links_check "${@}"
+  copy_names "${@}"
+  cleanup
 }
 
 if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
