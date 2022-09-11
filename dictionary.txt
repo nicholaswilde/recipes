@@ -19,6 +19,8 @@
 2cm
 30cm
 350ºF
+3A
+3B
 400ºF
 42cm
 450g
@@ -36,6 +38,7 @@
 9x5
 9x9
 À
+Acine
 adobo
 Aji
 AJI
@@ -64,6 +67,7 @@ bruschetta
 Butterfinger
 Caffè
 cannellini
+Capellini
 Caprese
 cassola
 Cassola
@@ -124,6 +128,7 @@ eyewear
 falafel
 Falafel
 falafels
+Farfalle
 fava
 Fava
 flambé
@@ -134,6 +139,7 @@ FOK
 frac
 fraîche
 Fraîche
+Fuscilli
 fusilli
 gallo
 Galway
@@ -171,10 +177,12 @@ Krispies
 Laugenbrezeln
 Lavash
 lengthways
+Mafalda
 Maillardization
 maitake
 Maitake
 mandoline
+Manicotti
 marsala
 Marzano
 masa
@@ -215,6 +223,7 @@ Pâtissière
 pecorino
 penne
 Penne
+pepe
 pepitas
 pepperoncini
 pico
@@ -239,6 +248,7 @@ purée
 puréed
 Puttanesca
 queso
+Radiatori
 refried
 reinvert
 repo
@@ -248,6 +258,9 @@ Rigate
 Risoni
 romesco
 Romesco
+Rosamarina
+Rotelle
+Rotini
 Salata
 sauté
 Sauté
@@ -264,6 +277,8 @@ Sláinte
 smush
 snickerdoodles
 Snickerdoodles
+soba
+Soba
 Spelt
 springform
 stovetop
