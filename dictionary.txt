@@ -226,6 +226,7 @@ Penne
 pepe
 pepitas
 pepperoncini
+petits
 pico
 pimentón
 pizzelle
@@ -244,11 +245,13 @@ potato-choux
 pourable
 pre-commit
 preroasted
+Provençale
 purée
 puréed
 Puttanesca
 queso
 Radiatori
+rebeaten
 refried
 reinvert
 repo
@@ -324,5 +327,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Provençale
-rebeaten
