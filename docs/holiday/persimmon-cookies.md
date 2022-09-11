@@ -1,4 +1,4 @@
-# :cookies: Persimmon Cookies
+# :cookie: Persimmon Cookies
 
 ![Persimmon Cookies](../assets/images/persimmon-cookies.jpg)
 
