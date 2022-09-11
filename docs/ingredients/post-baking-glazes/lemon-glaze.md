@@ -1,0 +1,30 @@
+# :lemon: Lemon Glaze
+
+![Lemon Glaze](../../assets/images/lemon-glaze.jpg)
+
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 10 minutes |
+
+## :salt: Ingredients
+
+- :candy: 1.25 cups confectioners' sugar, sifted
+- :lemon: 0.25 cup fresh lemon, orange, or lime juice
+- :ice_cream: 1 tsp vanilla
+
+## :cooking: Cookware
+
+## :pencil: Instructions
+
+### Step 1
+
+This glaze should be spread on warm cakes or Christmas cookies. It has a fine consistency for embedding decorative nuts
+and fruits.
+
+### Step 2
+
+Beat together until smooth confectioners' sugar, sifted, fresh lemon, orange, or lime juice, and vanilla.
+
+## :link: Source
+
+- Joy of Cooking
