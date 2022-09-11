@@ -107,6 +107,7 @@ Crème
 cremini
 Cremini
 Creuset
+Crockpot
 custardy
 dauphine
 Dauphine
@@ -131,6 +132,7 @@ falafels
 Farfalle
 fava
 Fava
+filé
 flambé
 flaxmeal
 flaxseed
@@ -162,6 +164,7 @@ hoisin
 Hollandaise
 Horiatiki
 huacatay
+Huevos
 Ikarian
 Improver
 Incredisauce
@@ -327,5 +330,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Crockpot
-Huevos
