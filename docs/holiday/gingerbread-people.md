@@ -37,4 +37,10 @@ Bake for 10 to 12 minutes.
 
 ### Step 5
 
-Cool before frosting.
+While they are still warm, spread evenly with lemon glaze.
+
+### Step 6
+
+Cool before frosting with [Royal icing][1].
+
+[1]: <../ingredients/royal-icing.md>
