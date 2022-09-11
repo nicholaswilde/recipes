@@ -16,12 +16,10 @@
 
 ## :pencil: Instructions
 
-### Step 1
-
 This glaze should be spread on warm cakes or Christmas cookies. It has a fine consistency for embedding decorative nuts
 and fruits.
 
-### Step 2
+### Step 1
 
 Beat together until smooth confectioners' sugar, sifted, fresh lemon, orange, or lime juice, and vanilla.
 
