@@ -9,8 +9,8 @@
 ## :salt: Ingredients
 
 - :tulip: 3 generous pinches saffron threads
-- :stew: 1 cup vegetable broth
-- :stew: 9 cups vegetable broth
+- :stew: 1 cup [vegetable broth][1]
+- :stew: 9 cups [vegetable broth][1]
 - :butter: 3 Tbsp butter
 - :onion: 1 cup onion
 - :ear_of_rice: 2 cups Arborio rice
@@ -32,7 +32,7 @@ Combine and let stand for 10 minutes saffron threads and hot vegetable broth.
 
 ### Step 2
 
-Pour into a saucepan, heat, and maintain at a simmer vegetable broth.
+Pour into a saucepan, heat, and maintain at a simmer [vegetable broth][1].
 
 ### Step 3
 
@@ -67,3 +67,5 @@ If desired, serve with grated Parmesan.
 ## :link: Source
 
 - Joy of Cooking
+
+[1]: <../ingredients/vegetable-broth.md>
