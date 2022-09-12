@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients - Food Processor Method
 
-- :cheese_wedge: 8 oz cold cream cheese
+- :bagel: 8 oz cold cream cheese
 - :butter: 6 Tbsp unsalted butter, softened
 - :icecream: 2 tsp vanilla
 - :candy: 3 cups confectioners' sugar, sifted
@@ -19,7 +19,7 @@
 
 ## :salt: Ingredients - Electric Mixer Method
 
-- :cheese_wedge: 8 oz cold cream cheese
+- :bagel: 8 oz cold cream cheese
 - :butter: 5 Tbsp unsalted butter, softened
 - :icecream: 2 tsp vanilla
 - :candy: 4 cups confectioners' sugar, sifted
