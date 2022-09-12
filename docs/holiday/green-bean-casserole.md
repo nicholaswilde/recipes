@@ -12,7 +12,7 @@
 - :onion: 0.5 onions
 - :mushroom: 0.5 cup sliced mushrooms
 - :cucumber: 2 cups green beans
-- :stew: 3 cups vegetable broth
+- :stew: 3 cups [vegetable broth][1]
 - :mushroom: 1 can cream of mushroom soup
 - :onion: 1 8-oz can French-fried onion rings
 - :salt: some salt
@@ -38,7 +38,7 @@ Melt butter in a large skillet. Sauté onions and sliced mushrooms.
 
 ### Step 3
 
-Add green beans to a saucepan and boil in vegetable broth, then drain.
+Add green beans to a saucepan and boil in [vegetable broth][1], then drain.
 
 ### Step 4
 
@@ -51,3 +51,5 @@ Pour into 1.5 quart baking dish.
 ### Step 6
 
 Bake for 20 minutes; sprinkle with cheddar cheese (optional) if desired, and bake for 10 minutes more.
+
+[1]: <../ingredients/vegetable-broth.md>

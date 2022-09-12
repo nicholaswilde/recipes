@@ -1,4 +1,4 @@
-# Black Bean and Butternut Soup
+# :stew: Black Bean & Butternut Soup
 
 ![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.jpg)
 
@@ -8,20 +8,20 @@
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 yellow onion
-- 3 cloves garlic
-- 0.5 head cabbage
-- 3 cups butternut squash
-- 3 cups vegetable broth
-- 1 tsp cumin
-- 1 tsp cocoa powder
-- 1 pinch cayenne
-- 2 cups black beans
-- 4 corn tortillas
-- some salt
-- some cilantro
-- 1 avocado
+- :olive: 1 Tbsp olive oil
+- :onion: 1 yellow onion
+- :garlic: 3 cloves garlic
+- :leafy_green: 0.5 head cabbage
+- :sweet_potato: 3 cups butternut squash
+- :stew: 3 cups [vegetable broth][1]
+- :herb: 1 tsp cumin
+- :chocolate_bar: 1 tsp cocoa powder
+- :hot_pepper: 1 pinch cayenne
+- :potato: 2 cups black beans
+- :flatbread: 4 corn tortillas
+- :salt: some salt
+- :herb: some cilantro
+- :avocado: 1 avocado
 
 ## :cooking: Cookware
 
@@ -33,8 +33,8 @@
 
 ### Step 1
 
-Heat olive oil in large pot and sauté yellow onion and garlic. Add cabbage, cubed butternut squash, and vegetable
-broth. Cover pot and cook over gentle simmer, 15 to 20 minutes.
+Heat olive oil in large pot and sauté yellow onion and garlic. Add cabbage, cubed butternut squash, and
+[vegetable broth][1]. Cover pot and cook over gentle simmer, 15 to 20 minutes.
 
 ### Step 2
 
@@ -52,3 +52,5 @@ minutes, giving the pan a gentle shake halfway through.
 ### Step 5
 
 Garnish soup with tortilla strips, chopped cilantro, and avocado.
+
+[1]: <../ingredients/vegetable-broth.md>

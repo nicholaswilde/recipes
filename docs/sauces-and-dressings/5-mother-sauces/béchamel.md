@@ -1,4 +1,4 @@
-# Béchamel
+# :glass_of_milk: Béchamel
 
 ![Béchamel](../../assets/images/béchamel.png)
 
@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 1 [medium blond roux][1]
-- 1 cup [milk][2]
-- some salt
-- some pepper
-- 1 pinch nutmeg
-- 1 thick onion slice (optional)
-- 2 whole cloves (optional)
-- 1 bay leaf (optional)
+- :fallen_leaf: 1 [medium blond roux][1]
+- :glass_of_milk: 1 cup [milk][2]
+- :salt: some salt
+- :salt: some pepper
+- :chestnut: 1 pinch nutmeg
+- :onion: 1 thick onion slice (optional)
+- :four_leaf_clover: 2 whole cloves (optional)
+- :fallen_leaf: 1 bay leaf (optional)
 
 ## :cooking: Cookware
 

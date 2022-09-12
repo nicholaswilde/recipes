@@ -1,4 +1,4 @@
-# Spinach Tortellini Soup by Joanna Gaines
+# :stew: Spinach Tortellini Soup by Joanna Gaines
 
 ![Spinach Tortellini Soup by Joanna Gaines](../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg)
 
@@ -8,22 +8,22 @@
 
 ## :salt: Ingredients
 
-- 1 Tbsp butter
-- 0.5 medium onion
-- 1 Tbsp garlic
-- 6 cups vegetable broth
-- 1 can fire-roasted tomatoes
-- 0.5 tsp Italian seasoning
-- 1 9-oz pkg tortellini
-- 1 can cannellini beans
-- 6 cups spinach
-- 2 Tbsp parsley
-- 2 Tbsp basil
-- some salt
-- some pepper
-- 0.5 lemon juice
-- 1 cup Parmesan
-- 1 loaf French bread
+- :butter: 1 Tbsp butter
+- :onion: 0.5 medium onion
+- :garlic: 1 Tbsp garlic
+- :stew: 6 cups [vegetable broth][1]
+- :tomato: 1 can fire-roasted tomatoes
+- :herb: 0.5 tsp Italian seasoning
+- :spaghetti: 1 9-oz pkg tortellini
+- :potato: 1 can cannellini beans
+- :leafy_green: 6 cups spinach
+- :herb: 2 Tbsp parsley
+- :herb: 2 Tbsp basil
+- :salt: some salt
+- :salt: some pepper
+- :lemon: 0.5 lemon juice
+- :cheese_wedge: 1 cup Parmesan
+- :baguette_bread: 1 loaf French bread
 
 ## :cooking: Cookware
 
@@ -39,8 +39,8 @@ until the onion is soft and tender, 3 to 4 minutes.
 
 ### Step 2
 
-Add the vegetable broth, fire-roasted tomatoes, and Italian seasoning and bring to a rolling boil. Add the tortellini
-and cannellini beans and cook until the tortellini are cooked through, about 2 minutes.
+Add the [vegetable broth][1], fire-roasted tomatoes, and Italian seasoning and bring to a rolling boil. Add the
+tortellini and cannellini beans and cook until the tortellini are cooked through, about 2 minutes.
 
 ### Step 3
 
@@ -59,3 +59,5 @@ thaw before reheating.
 ## :link: Source
 
 - <https://food52.com/recipes/82976-spinach-tortellini-soup-recipe-joanna-gaines>
+
+[1]: <../ingredients/vegetable-broth.md>

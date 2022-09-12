@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - :stew: 1 [heavy blond roux][1]
-- :carrot: 2.5 cup vegetable broth
+- :carrot: 2.5 cup [vegetable broth][2]
 - :mushroom: 0.25 cup mushrooms
 - :salt: some salt
 - :salt: some pepper
@@ -29,7 +29,8 @@ Make a blond roux.
 
 ### Step 2
 
-Remove the medium saucepan from the heat and slowly whisk in 2.5 cup of vegetable broth along with minced mushrooms.
+Remove the medium saucepan from the heat and slowly whisk in 2.5 cup of [vegetable broth][2] along with minced
+mushrooms.
 
 ### Step 3
 
@@ -54,3 +55,4 @@ Just before serving, whisk in softened unsalted butter or any flavored butter.
 - Joy of Cooking
 
 [1]: <../../ingredients/roux.md>
+[2]: <../../ingredients/vegetable-broth.md>

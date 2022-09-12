@@ -14,7 +14,7 @@
 - :butter: 1 Tbsp unsalted butter
 - :salt: some salt
 - :salt: some pepper
-- :stew: some vegetable broth (optional)
+- :stew: some [vegetable broth][1] (optional)
 
 ## :cooking: Cookware
 
@@ -37,8 +37,10 @@ Add a little bit of unsalted butter for gloss and richness and season with salt 
 
 ### Step 4
 
-Season with vegetable broth (optional) if desired.
+Season with [vegetable broth][1] (optional) if desired.
 
 ## :link: Source
 
 - <https://www.youtube.com/watch?v=XLPLCmwBLBY>
+
+[1]: <../ingredients/vegetable-broth.md>

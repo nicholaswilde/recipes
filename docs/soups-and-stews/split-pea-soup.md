@@ -1,4 +1,4 @@
-# Split Pea Soup
+# :green_circle: Split Pea Soup
 
 ![Split Pea Soup](../assets/images/split-pea-soup.jpg)
 
@@ -8,19 +8,19 @@
 
 ## :salt: Ingredients
 
-- 6 cups vegetable broth
-- 2 cup dried green split peas
-- 1 medium onion
-- 2 stalks celery
-- 2 cloves garlic
-- 0.5 tsp marjoram
-- 0.5 tsp basil
-- 0.25 tsp cumin
-- 0.5 tsp salt
-- 0.25 tsp pepper
-- 1 cup chopped carrots
-- 5 Tbsp shredded carrots
-- 2 green onions
+- :stew: 6 cups [vegetable broth][1]
+- :green_circle: 2 cup dried green split peas
+- :onion: 1 medium onion
+- :leafy_green: 2 stalks celery
+- :garlic: 2 cloves garlic
+- :herb: 0.5 tsp marjoram
+- :herb: 0.5 tsp basil
+- :herb: 0.25 tsp cumin
+- :salt: 0.5 tsp salt
+- :salt: 0.25 tsp pepper
+- :carrot: 1 cup chopped carrots
+- :carrot: 5 Tbsp shredded carrots
+- :leafy_green: 2 green onions
 
 ## :cooking: Cookware
 
@@ -31,8 +31,8 @@
 
 ### Step 1
 
-In a large saucepan, combine vegetable broth, dried green split peas, onion, celery, garlic, marjoram, basil, cumin,
-salt, pepper, and chopped carrots.
+In a large saucepan, combine [vegetable broth][1], dried green split peas, onion, celery, garlic, marjoram, basil,
+cumin, salt, pepper, and chopped carrots.
 
 ### Step 2
 
@@ -45,3 +45,5 @@ When peas have fully cooked, puree with an immersion blender.
 ### Step 4
 
 Garnish with shredded carrots and sliced green onions.
+
+[1]: <../ingredients/vegetable-broth.md>

@@ -1,4 +1,4 @@
-# Braised Asparagus with Lemon and Chives
+# :leafy_green: Braised Asparagus with Lemon & Chives
 
 ![Braised Asparagus with Lemon and Chives](../assets/images/braised-asparagus-with-lemon-and-chives.jpg)
 
@@ -8,13 +8,13 @@
 
 ## :salt: Ingredients
 
-- 1 lb thick asparagus
-- 1 cup water
-- 0.25 cup vegetable broth
-- 2 Tbsp olive oil
-- 0.25 tsp salt
-- 0.25 tsp lemon zest
-- 2 tsp chives
+- :leafy_green: 1 lb thick asparagus
+- :droplet: 1 cup water
+- :stew: 0.25 cup [vegetable broth][1]
+- :olive: 2 Tbsp olive oil
+- :salt: 0.25 tsp salt
+- :lemon: 0.25 tsp lemon zest
+- :herb: 2 tsp chives
 
 ## :cooking: Cookware
 
@@ -27,9 +27,9 @@
 ### Step 1
 
 Trim bottom inch of thick asparagus spears; discard trimmings. Peel bottom two-thirds of spears until white flesh is
-exposed. Bring water, vegetable broth, olive oil, and salt to simmer in 12-inch skillet over high heat. Add asparagus in
-even layer. Reduce heat to maintain vigorous simmer and cover. Cook, gently shaking skillet occasionally, until
-asparagus is tender and can be easily pierced with tip of paring knife, 8 to 10 minutes.
+exposed. Bring water, [vegetable broth][1], olive oil, and salt to simmer in 12-inch skillet over high heat. Add
+asparagus in even layer. Reduce heat to maintain vigorous simmer and cover. Cook, gently shaking skillet occasionally,
+until asparagus is tender and can be easily pierced with tip of paring knife, 8 to 10 minutes.
 
 ### Step 2
 
@@ -47,3 +47,5 @@ platter, sprinkle with remaining chives, season with salt to taste, and serve.
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../ingredients/vegetable-broth.md>

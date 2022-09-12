@@ -1,4 +1,4 @@
-# Chipotle Corn Chowder
+# :corn: Chipotle Corn Chowder
 
 ![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg)
 
@@ -8,17 +8,17 @@
 
 ## :salt: Ingredients
 
-- 1.75 cups vegetable broth
-- 1.5 cups frozen corn
-- 1 cup green bell pepper
-- 1 cup red bell pepper
-- 1 cup carrots
-- 0.5 tsp cumin
-- 0.13 tsp cayenne pepper
-- 0.67 cup evaporated fat-free milk
-- 3 Tbsp flour
-- 0.5 pkg Morning Star black bean crumbles
-- 0.25 cup cheese
+- :stew: 1.75 cups [vegetable broth][1]
+- :corn: 1.5 cups frozen corn
+- :bell_pepper: 1 cup green bell pepper
+- :bell_pepper: 1 cup red bell pepper
+- :carrot: 1 cup carrots
+- :herb: 0.5 tsp cumin
+- :hot_pepper: 0.13 tsp cayenne pepper
+- :glass_of_milk: 0.67 cup evaporated fat-free milk
+- :ear_of_rice: 3 Tbsp flour
+- :hamburger: 0.5 pkg Morning Star black bean crumbles
+- :cheese_wedge: 0.25 cup cheese
 
 ## :cooking: Cookware
 

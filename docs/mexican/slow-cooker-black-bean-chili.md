@@ -1,4 +1,4 @@
-# Slow Cooker Black Bean Chili
+# :stew: Slow Cooker Black Bean Chili
 
 ![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.jpg)
 
@@ -8,18 +8,18 @@
 
 ## :salt: Ingredients
 
-- 1 lb dried black beans
-- 2 tsp chili powder
-- 1 chipotle chili in adobo sauce
-- 6 cloves garlic
-- 1 can fire roasted tomatoes
-- some salt
-- some pepper
-- 1 onion
-- 1 12-oz jar salsa verde
-- 1 jar roasted red peppers
-- 1 Tbsp ground cumin
-- 4 cups vegetable broth
+- :peanuts: 1 lb dried black beans
+- :hot_pepper: 2 tsp chili powder
+- :hot_pepper: 1 chipotle chili in adobo sauce
+- :garlic: 6 cloves garlic
+- :tomato: 1 can fire roasted tomatoes
+- :salt: some salt
+- :salt: some pepper
+- :onion: 1 onion
+- :stew: 1 12-oz jar salsa verde
+- :bell_pepper: 1 jar roasted red peppers
+- :herb: 1 Tbsp ground cumin
+- :stew: 4 cups [vegetable broth][1]
 
 ## :cooking: Cookware
 
@@ -35,3 +35,5 @@ onion, salsa verde, roasted red peppers, ground cumin, and vegetable broth to a 
 ### Step 2
 
 Cook on high for 6 to 8 hours.
+
+[1]: <../ingredients/vegetable-broth.md>

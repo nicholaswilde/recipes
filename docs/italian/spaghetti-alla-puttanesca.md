@@ -1,4 +1,4 @@
-# Spaghetti Alla Puttanesca
+# :spaghetti: Spaghetti Alla Puttanesca
 
 ![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.jpg)
 
@@ -8,19 +8,19 @@
 
 ## :salt: Ingredients
 
-- 1 16-oz pkg whole wheat spaghetti
-- 2 oz sliced black olives
-- 1 14-oz can artichoke hearts
-- 0.75 cup cooked chickpeas
-- 2 Tbsp capers
-- 0.5 large minced onion
-- 1 14-oz can diced tomatoes
-- 1 Tbsp dried oregano
-- 1 tsp dried basil
-- 1 tsp dried thyme
-- 0.5 tsp red pepper flakes
-- 0.5 tsp ground black pepper
-- 3 cups vegetable broth
+- :spaghetti: 1 16-oz pkg whole wheat spaghetti
+- :olive: 2 oz sliced black olives
+- :deciduous_tree: 1 14-oz can artichoke hearts
+- :falafel: 0.75 cup cooked chickpeas
+- :sponge: 2 Tbsp capers
+- :onion: 0.5 large minced onion
+- :tomato: 1 14-oz can diced tomatoes
+- :herb: 1 Tbsp dried oregano
+- :herb: 1 tsp dried basil
+- :herb: 1 tsp dried thyme
+- :hot_pepper: 0.5 tsp red pepper flakes
+- :salt: 0.5 tsp ground black pepper
+- :stew: 3 cups [vegetable broth][1]
 
 ## :cooking: Cookware
 
@@ -39,7 +39,7 @@ dried basil, dried thyme, red pepper flakes, and ground black pepper, to the pan
 
 ### Step 3
 
-Pour the vegetable broth over everything.
+Pour the [vegetable broth][1] over everything.
 
 ### Step 4
 
@@ -48,3 +48,5 @@ Cover the pan and bring to a boil. Reduce to a steady simmer, and, keeping cover
 ### Step 5
 
 Cook for 8 to 10 minutes more.
+
+[1]: <../ingredients/vegetable-broth.md>

@@ -13,7 +13,7 @@
 - :salt: 1 tsp salt
 - :candy: 1 tsp sugar
 - :wine_glass: 1 cup dry red wine
-- 8 cups vegetable broth
+- :stew: 8 cups [vegetable broth][1]
 - :herb: 4 sprigs thyme
 - :fallen_leaf: 2 bay leaves
 - :salt: 0.5 tsp pepper
@@ -57,9 +57,9 @@ scraping with wooden spoon as browned bits form on bottom of pot and spreading o
 
 ### Step 4
 
-Stir in dry red wine, scraping up any browned bits, and cook until nearly evaporated, about 1 minute. Stir in vegetable
-broth, thyme sprigs, bay leaves, 1/2 teaspoon pepper, and 1/2 teaspoon salt. Increase heat to high and bring to boil.
-Reduce heat to medium-low and simmer, uncovered, for 30 minutes.
+Stir in dry red wine, scraping up any browned bits, and cook until nearly evaporated, about 1 minute. Stir in
+[vegetable broth][1], thyme sprigs, bay leaves, 1/2 teaspoon pepper, and 1/2 teaspoon salt. Increase heat to high and
+bring to boil. Reduce heat to medium-low and simmer, uncovered, for 30 minutes.
 
 ### Step 5
 
@@ -77,3 +77,5 @@ is bubbly around edges, 5 to 7 minutes. Let cool for 5 minutes before serving.
 ## :link: Source
 
 - <https://www.cookscountry.com/recipes/12325-french-onion-soup>
+
+[1]: <../ingredients/vegetable-broth.md>

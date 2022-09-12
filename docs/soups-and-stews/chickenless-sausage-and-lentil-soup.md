@@ -1,4 +1,4 @@
-# Chickenless Sausage and Lentil Soup
+# :stew: Chickenless Sausage and Lentil Soup
 
 ![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.jpg)
 
@@ -8,15 +8,15 @@
 
 ## :salt: Ingredients
 
-- 1 yellow onion
-- 2 zucchini
-- some salt
-- 1 pkg TJ's Italian sausage-less sausage
-- 1 14-oz can tomatoes
-- 1 cup red lentils
-- 4 cups vegetable broth
-- some lemon wedges
-- some fresh herbs
+- :onion: 1 yellow onion
+- :cucumber: 2 zucchini
+- :salt: some salt
+- :hotdog: 1 pkg TJ's Italian sausage-less sausage
+- :tomato: 1 14-oz can tomatoes
+- :curry: 1 cup red lentils
+- :stew: 4 cups [vegetable broth][1]
+- :lemon: some lemon wedges
+- :herb: some fresh herbs
 
 ## :cooking: Cookware
 
@@ -31,7 +31,7 @@ In a large pot, sauté diced yellow onion and chopped zucchini. Season with salt
 ### Step 2
 
 Add diced TJ's Italian sausage-less sausage and sauté until lightly browned. Add diced tomatoes, red lentils, and
-vegetable broth. Season and bring to a boil.
+[vegetable broth][1]. Season and bring to a boil.
 
 ### Step 3
 
@@ -44,3 +44,5 @@ Serve with lemon wedges and fresh herbs, if desired.
 ## :link: Source
 
 - Trader Joe's
+
+[1]: <../ingredients/vegetable-broth.md>

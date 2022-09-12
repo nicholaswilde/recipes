@@ -1,4 +1,4 @@
-# Italian Sausage with Grits & Tomatoes
+# :stew: Italian Sausage with Grits & Tomatoes
 
 ![Italian Sausage with Grits & Tomatoes](../assets/images/italian-sausage-with-grits-&-tomatoes.jpg)
 
@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups vegetable broth
-- 1.5 cups milk
-- 0.75 cup white stone ground grits (not instant)
-- 0.25 tsp salt
-- 1 cup cheddar
-- 6 links soy Italian sausages
-- 2 cups cherry tomatoes
-- 2 Tbsp parsley
+- :stew: 1.5 cups [vegetable broth][1]
+- :glass_of_milk: 1.5 cups milk
+- :sponge: 0.75 cup white stone ground grits (not instant)
+- :salt: 0.25 tsp salt
+- :cheese_wedge: 1 cup cheddar
+- :hotdog: 6 links soy Italian sausages
+- :tomato: 2 cups cherry tomatoes
+- :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware
 
@@ -26,7 +26,7 @@
 
 ### Step 1
 
-In a saucepan, bring vegetable broth and milk to a boil.
+In a saucepan, bring [vegetable broth][1] and milk to a boil.
 
 ### Step 2
 
@@ -43,3 +43,5 @@ Remove from heat and stir in shredded cheddar cheese. Lightly brown soy Italian 
 ### Step 5
 
 Serve over grits with chopped halved cherry tomatoes and parsley.
+
+[1]: <../ingredients/vegetable-broth.md>

@@ -1,4 +1,4 @@
-# Vegetarian Paella
+# :stew: Vegetarian Paella
 
 ![Vegetarian Paella](../assets/images/vegetarian-paella.jpg)
 
@@ -8,17 +8,17 @@
 
 ## :salt: Ingredients
 
-- some olive oil
-- 1 small yellow onion
-- 1 medium bell pepper
-- 0.5 tsp paprika
-- 1 pound soy chorizo
-- 6 oz crushed tomatoes
-- 2 cups vegetable broth
-- 1 cup Arborio rice
-- 0.13 tsp saffron
-- 1 small zucchini
-- 4 wedges lime
+- :olive: some olive oil
+- :onion: 1 small yellow onion
+- :bell_pepper: 1 medium bell pepper
+- :hot_pepper: 0.5 tsp paprika
+- :hotdog: 1 pound soy chorizo
+- :tomato: 6 oz crushed tomatoes
+- :stew: 2 cups [vegetable broth][1]
+- :rice: 1 cup Arborio rice
+- :tulip: 0.13 tsp saffron
+- :cucumber: 1 small zucchini
+- :lemon: 4 wedges lime
 
 ## :cooking: Cookware
 
@@ -41,8 +41,8 @@ Add soy chorizo and cook until browned, about 5 minutes.
 
 ### Step 4
 
-Stir in crushed tomatoes and vegetable broth. Bring liquid to a boil and stir in Arborio rice and saffron. Rice should
-be completely covered with liquid.
+Stir in crushed tomatoes and [vegetable broth][1]. Bring liquid to a boil and stir in Arborio rice and saffron. Rice
+should be completely covered with liquid.
 
 ### Step 5
 
@@ -55,3 +55,5 @@ When liquid has all been absorbed, add zucchini, and cook for another 10 minutes
 ## :link: Source
 
 - [TSpoons Cooking School](https://www.tspoons.com/)
+
+[1]: <../ingredients/vegetable-broth.md>

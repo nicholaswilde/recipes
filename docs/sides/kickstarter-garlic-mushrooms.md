@@ -1,4 +1,4 @@
-# Kickstarter Garlic Mushrooms
+# :mushroom: Kickstarter Garlic Mushrooms
 
 ![Kickstarter Garlic Mushrooms](../assets/images/kickstarter-garlic-mushrooms.jpg)
 
@@ -8,16 +8,16 @@
 
 ## :salt: Ingredients
 
-- 0.25 cup vegetable broth
-- 2 bags TJ's sliced mushrooms
-- 5 cloves garlic
-- 1.25 tsp paprika
-- 0.25 tsp crushed red pepper
-- 2.5 Tbsp dry marsala wine
-- 1 cup vegetable broth
-- some salt
-- some pepper
-- 0.5 cup parsley
+- :stew: 0.25 cup [vegetable broth][1]
+- :mushroom: 2 bags TJ's sliced mushrooms
+- :garlic: 5 cloves garlic
+- :hot_pepper: 1.25 tsp paprika
+- :hot_pepper: 0.25 tsp crushed red pepper
+- :wine_glass: 2.5 Tbsp dry marsala wine
+- :stew: 1 cup [vegetable broth][1]
+- :salt: some salt
+- :salt: some pepper
+- :herb: 0.5 cup parsley
 
 ## :cooking: Cookware
 
@@ -28,8 +28,8 @@
 
 ### Step 1
 
-Heat 1/4 cup of vegetable broth in a large skillet. Add TJ's sliced mushrooms and cook for 2 minutes without stirring,
-then stir and cook 5 minutes more until mushrooms brown.
+Heat 1/4 cup of [vegetable broth][1] in a large skillet. Add TJ's sliced mushrooms and cook for 2 minutes without
+stirring, then stir and cook 5 minutes more until mushrooms brown.
 
 ### Step 2
 
@@ -46,3 +46,5 @@ Add remaining vegetable broth and season with salt and pepper to taste.
 ### Step 5
 
 Bring to a boil then lower heat and simmer for 3 minutes. Pour mixture into a bowl and mix in chopped fresh parsley.
+
+[1]: <../ingredients/vegetable-broth.md>

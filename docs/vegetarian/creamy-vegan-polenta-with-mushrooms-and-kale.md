@@ -1,4 +1,4 @@
-# Creamy Vegan Polenta with Mushrooms and Kale
+# :corn: Creamy Vegan Polenta with Mushrooms & Kale
 
 ![Creamy Vegan Polenta with Mushrooms and Kale](../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg)
 
@@ -8,23 +8,23 @@
 
 ## :salt: Ingredients
 
-- 6 cups vegetable broth
-- some salt
-- 1.5 cups polenta
-- 3 Tbsp butter
-- 2 Tbsp nutritional yeast
-- some black pepper
-- 3 Tbsp olive oil
-- 1 small yellow onion
-- 1 lb cremini mushrooms
-- 2 tsp rosemary
-- 4 cloves garlic
-- 1 pinch red-pepper flakes
-- 3 Tbsp tomato paste
-- 0.67 cup red wine
-- 1 cup vegetable broth
-- 2 small bunches curly kale
-- 1 tsp red wine vinegar
+- :stew: 6 cups [vegetable broth][1]
+- :salt: some salt
+- :corn: 1.5 cups polenta
+- :butter: 3 Tbsp butter
+- :microbe: 2 Tbsp nutritional yeast
+- :salt: some black pepper
+- :olive: 3 Tbsp olive oil
+- :onion: 1 small yellow onion
+- :mushroom: 1 lb cremini mushrooms
+- :herb: 2 tsp rosemary
+- :garlic: 4 cloves garlic
+- :hot_pepper: 1 pinch red-pepper flakes
+- :tomato: 3 Tbsp tomato paste
+- :wine_glass: 0.67 cup red wine
+- :stew: 1 cup [vegetable broth][1]
+- :leafy_green: 2 small bunches curly kale
+- :wine_glass: 1 tsp red wine vinegar
 
 ## :cooking: Cookware
 
@@ -36,8 +36,8 @@
 
 ### Step 1
 
-Make the polenta: Bring 6 cups vegetable broth and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in the
-polenta, then turn the heat to low and simmer, stirring occasionally with a wooden spoon, until the polenta has
+Make the polenta: Bring 6 cups [vegetable broth][1] and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in
+the polenta, then turn the heat to low and simmer, stirring occasionally with a wooden spoon, until the polenta has
 thickened to your liking, 10 to 15 minutes. Off the heat, stir in the butter and nutritional yeast. Season to taste with
 salt and black pepper; cover and set aside.
 
@@ -73,3 +73,5 @@ sprinkled with parsley.
 ## :link: Source
 
 - <https://cooking.nytimes.com/recipes/1021827-creamy-vegan-polenta-with-mushrooms-and-kale>
+
+[1]: <../ingredients/vegetable-broth.md>

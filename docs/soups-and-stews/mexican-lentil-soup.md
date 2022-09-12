@@ -1,4 +1,4 @@
-# Mexican Lentil Soup
+# :stew: Mexican Lentil Soup
 
 ![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.jpg)
 
@@ -8,22 +8,22 @@
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 large carrot
-- 1 medium onion
-- 3 stalks celery
-- 3 cloves garlic
-- 1 Tbsp cumin
-- 1 tsp oregano
-- 1 tsp salt
-- 1 tsp pepper
-- 2 chipotle chiles in adobo
-- 3 cups lentils
-- 1 large Russet potato
-- 1 15-oz can diced tomatoes
-- 10 cups vegetable broth
-- some cilantro
-- some lime wedges
+- :olive: 1 Tbsp olive oil
+- :carrot: 1 large carrot
+- :onion: 1 medium onion
+- :leafy_green: 3 stalks celery
+- :garlic: 3 cloves garlic
+- :herb: 1 Tbsp cumin
+- :herb: 1 tsp oregano
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :hot_pepper: 2 chipotle chiles in adobo
+- :curry: 3 cups lentils
+- :potato: 1 large Russet potato
+- :tomato: 1 15-oz can diced tomatoes
+- :stew: 10 cups [vegetable broth][1]
+- :herb: some cilantro
+- :lemon: some lime wedges
 
 ## :cooking: Cookware
 
@@ -50,7 +50,7 @@ Add lentils, Russet potato, and diced tomatoes in their juice.
 
 ### Step 5
 
-Pour in vegetable broth and bring to a boil. Reduce heat to a simmer and cook, covered, for 30 to 45 minutes.
+Pour in [vegetable][1] broth and bring to a boil. Reduce heat to a simmer and cook, covered, for 30 to 45 minutes.
 
 ### Step 6
 
@@ -59,3 +59,5 @@ Serve with cilantro and lime wedges.
 ### Step 7
 
 Can serve over rice, if desired.
+
+[1]: <../ingredients/vegetable-broth.md>

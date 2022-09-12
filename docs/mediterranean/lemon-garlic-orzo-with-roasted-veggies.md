@@ -1,4 +1,4 @@
-# Lemon Garlic Orzo with Roasted Veggies
+# :rice: Lemon Garlic Orzo with Roasted Veggies
 
 ![Lemon Garlic Orzo with Roasted Veggies](../assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg)
 
@@ -8,25 +8,25 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups cremini mushrooms
-- 1 cup bell peppers
-- 1 lb asparagus
-- 12 oz cherry tomatoes
-- 2 tsp garlic
-- 0.5 cup shallot
-- 2 Tbsp olive oil
-- some salt
-- some pepper
-- 1 cup orzo
-- 1 Tbsp olive oil
-- 1.5 cups vegetable broth
-- 2 Tbsp olive oil
-- 1 Tbsp lemon juice
-- 0.5 tsp salt
-- 0.25 tsp pepper
-- 0.5 cup crumbled feta
-- 0.33 cup pine nuts
-- some basil
+- :mushroom: 1.5 cups cremini mushrooms
+- :bell_pepper: 1 cup bell peppers
+- :leafy_green: 1 lb asparagus
+- :tomato: 12 oz cherry tomatoes
+- :garlic: 2 tsp garlic
+- :onion: 0.5 cup shallot
+- :olive: 2 Tbsp olive oil
+- :salt: some salt
+- :salt: some pepper
+- :rice: 1 cup orzo
+- :olive: 1 Tbsp olive oil
+- :stew: 1.5 cups [vegetable broth][1]
+- :olive: 2 Tbsp olive oil
+- :lemon: 1 Tbsp lemon juice
+- :salt: 0.5 tsp salt
+- :salt: 0.25 tsp pepper
+- :cheese_wedge: 0.5 cup crumbled feta
+- :chestnut: 0.33 cup pine nuts
+- :herb: some basil
 
 ## :cooking: Cookware
 
@@ -65,3 +65,5 @@ To make dressing, add olive oil, lemon juice, salt and pepper and mix until emul
 ### Step 7
 
 Mix together vegetables, orzo, dressing, crumbled feta, and pine nuts. Garnish with basil or parsley, if desired.
+
+[1]: <../ingredients/vegetable-broth.md>

@@ -1,4 +1,4 @@
-# Roasted Sweet Garlic & Almond Soup
+# :stew: Roasted Sweet Garlic & Almond Soup
 
 ![Roasted Sweet Garlic & Almond Soup](../assets/images/roasted-sweet-garlic-&-almond-soup.jpg)
 
@@ -8,17 +8,17 @@
 
 ## :salt: Ingredients
 
-- 3 bulbs garlic
-- 1 white onion
-- some olive oil
-- 9 oz half-and-half
-- 1 qt vegetable broth
-- 1 loaf ciabatta
-- 2 Tbsp white wine vinegar
-- 150 g almonds
-- some cilantro
-- some salt
-- some pepper
+- :garlic: 3 bulbs garlic
+- :onion: 1 white onion
+- :olive: some olive oil
+- :glass_of_milk: 9 oz half-and-half
+- :stew: 1 qt [vegetable broth][1]
+- :bread: 1 loaf ciabatta
+- :wine_glass: 2 Tbsp white wine vinegar
+- :chestnut: 150 g almonds
+- :herb: some cilantro
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
@@ -33,8 +33,8 @@ Roast garlic bulbs in oven at 350°F for 30 to 45 minutes.
 
 ### Step 2
 
-Meanwhile, in a large pot, sauté chopped white onion in olive oil for 10 minutes. Add half-and-half and vegetable
-broth. Bring to a boil and simmer 10 minutes.
+Meanwhile, in a large pot, sauté chopped white onion in olive oil for 10 minutes. Add half-and-half and
+[vegetable broth][1]. Bring to a boil and simmer 10 minutes.
 
 ### Step 3
 
@@ -49,3 +49,5 @@ more.
 
 Toast almonds, then add to soup and mix with immersion blender. Top with cilantro, if desired. Season with salt and
 pepper to taste.
+
+[1]: <../ingredients/vegetable-broth.md>

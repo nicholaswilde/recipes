@@ -11,7 +11,7 @@
 ### Sauce
 
 - :butter: 2 Tbsp butter
-- :stew: 1 cup vegetable stock or broth
+- :stew: 1 cup vegetable stock or [broth][1]
 - :bell_pepper: 1 cup green bell peppers
 - :pineapple: 6 slices canned pineapple
 - :pineapple: 0.75 cup pineapple juice
@@ -39,7 +39,7 @@ Serve over a dish of chicken, vegetables, and rice. Melt in a medium heavy sauce
 
 ### Step 2
 
-Add vegetable stock or broth, diced green bell peppers, and diced canned pineapple.
+Add vegetable stock or [broth][1], diced green bell peppers, and diced canned pineapple.
 
 ### Step 3
 
@@ -61,3 +61,5 @@ Stir into the sauce and simmer 5 minutes to thicken.
 ## :link: Source
 
 - Joy of Cooking
+
+[1]: <../ingredients/vegetable-broth.md>

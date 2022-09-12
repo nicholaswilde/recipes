@@ -1,16 +1,16 @@
-# Couscous Feta Salad
+# :rice: Couscous Feta Salad
 
 ![Couscous Feta Salad](../assets/images/couscous-feta-salad.jpg)
 
 ## :salt: Ingredients
 
-- 1 cup whole wheat couscous
-- 1 cup vegetable broth
-- 1 can garbanzo beans
-- 0.5 cup green onion
-- 0.5 cup feta
-- 0.5 cup Kalamata olives
-- some dressing of choice
+- :shallow_pan_of_food: 1 cup whole wheat couscous
+- :stew: 1 cup [vegetable broth][1]
+- :potato: 1 can garbanzo beans
+- :herb: 0.5 cup green onion
+- :cheese_wedge: 0.5 cup feta
+- :olive: 0.5 cup Kalamata olives
+- :green_salad: some dressing of choice
 
 ## :cooking: Cookware
 
@@ -20,9 +20,11 @@
 
 ### Step 1
 
-Cook whole wheat couscous in vegetable broth.
+Cook whole wheat couscous in [vegetable broth][1].
 
 ### Step 2
 
 Fluff with fork, then add garbanzo beans, chopped green onion, feta, diced Kalamata olives, and dressing of choice to
 taste.
+
+[1]: <../ingredients/vegetable-broth.md>
