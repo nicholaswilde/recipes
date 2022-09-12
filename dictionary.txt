@@ -148,6 +148,8 @@ gallo
 Galway
 ganache
 garam
+garni
+Garni
 Garten's
 ginger-miso
 Ginger-Miso
