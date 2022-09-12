@@ -23,22 +23,20 @@
 
 ## :pencil: Instructions
 
-### Step 1
-
 Stir in chopped peanuts to taste, or sprinkle them over the finished cake, if desired. Try this as a filling for any
 cake frosted or glazed with chocolate. Have the cream cheese cold. The butter can be cold, but it's better to have it at
 room temperature.
 
-### Step 2
+### Step 1
 
 Beat in a medium bowl just until blended smooth peanut butter, cold cream cheese, unsalted butter, softened, vanilla,
 cream or milk, and bourbon or rum (optional).
 
-### Step 3
+### Step 2
 
 Add one-third at a time and beat just until smooth and the desired consistency is reached confectioners' sugar, sifted.
 
-### Step 4
+### Step 3
 
 If the frosting is too stiff, add, but do not overbeat cream, milk, or liquor or as needed.
 
