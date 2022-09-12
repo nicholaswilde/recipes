@@ -23,7 +23,7 @@
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
 
-### :cupcake: Frosting
+### :cupcake: [Cream Cheese Frosting][1]
 
 - :bagel: 4 oz softened cream cheese
 - :butter: 0.25 cup butter
@@ -59,7 +59,7 @@ Scrape into 9 x 13" pan.
 
 Bake for 25 minutes. Cool, then frost with cream cheese icing.
 
-### Cream Cheese Icing
+### [Cream Cheese Frosting][1]
 
 ### Step 6
 
@@ -68,3 +68,5 @@ Beat in softened cream cheese, butter, and vanilla, then beat in sugar.
 ### Step 7
 
 Spread then chill.
+
+[1]: <../ingredients/cream-cheese-frosting.md>
