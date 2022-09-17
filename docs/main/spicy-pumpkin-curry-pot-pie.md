@@ -53,4 +53,4 @@ sit 15 minutes before serving.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/spicy-pumpkin-curry-pot-pie>
+- Trader Joe's
