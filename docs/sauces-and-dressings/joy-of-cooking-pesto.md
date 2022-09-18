@@ -18,23 +18,28 @@
 
 ## :cooking: Cookware
 
+- 1 skillet
 - 1 food processor
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Combine in a food processor and process to a rough paste basil leaves, grated Parmesan, pine nuts, and garlic.
+Toast pine nuts in a skillet.
 
 ### Step 2
 
-With the machine running, slowly add olive oil, or as needed.
+Combine in a food processor and process to a rough paste basil leaves, grated Parmesan, pine nuts, and garlic.
 
 ### Step 3
 
-If the pesto seems try (it should be a thick paste), add a little more olive oil. Season to taste with salt and pepper.
+With the machine running, slowly add olive oil, or as needed.
 
 ### Step 4
+
+If the pesto seems try (it should be a thick paste), add a little more olive oil. Season to taste with salt and pepper.
+
+### Step 5
 
 Use immediately, or pour a very thin film of olive oil over the top, cover, and refrigerate for up to 1 week.
 
