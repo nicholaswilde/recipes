@@ -169,6 +169,10 @@ nav:
       - Toffee Crackers: holiday/toffee-crackers.md
       - Unexpected Cheddar Cheese Ball: holiday/unexpected-cheddar-cheese-ball.md
   - Ingredients:
+      - Meringue:
+          - French Meringue: ingredients/meringue/french-meringue.md
+          - Italian Meringue: ingredients/meringue/italian-meringue.md
+          - Swiss Meringue: ingredients/meringue/swiss-meringue.md
       - Pastry Dough:
           - Basic Pastry: ingredients/pastry-dough/basic-pastry.md
           - Danish Pastry: ingredients/pastry-dough/danish-pastry.md
@@ -193,7 +197,6 @@ nav:
       - Ginger-Miso Basting Butter: ingredients/ginger-miso-basting-butter.md
       - Grated Vegetable Shortening: ingredients/grated-vegetable-shortening.md
       - Lemon Curd: ingredients/lemon-curd.md
-      - Meringue Topping: ingredients/meringue-topping.md
       - Mirepoix: ingredients/mirepoix.md
       - Miso Nori Paste: ingredients/miso-nori-paste.md
       - Mom's Buttercream Frosting: ingredients/mom's-buttercream-frosting.md
