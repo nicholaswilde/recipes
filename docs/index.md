@@ -12,7 +12,16 @@ My collection of recipes made with [cooklang][1].
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
 
-## :gear:&nbsp;Development
+## :frame_with_picture:&nbsp; Background
+
+This collection is a consolidation of recipes from many different sources to make it easier to reference in one
+location and to guard against recipes disappearing from the Internet. The recipes are meant to be used for my
+own personal reference.
+
+!!! info
+    Recipes, when applicable, have the original source specified to give them credit.
+
+## :gear:&nbsp; Development
 
 Development of this site is documented [here][3].
 
@@ -24,6 +33,6 @@ Development of this site is documented [here][3].
 
 ​This project was started in 2022 by [Nicholas Wilde][2].
 
-[1]: https://cooklang.org/
-[2]: https://github.com/nicholaswilde/
-[3]: ./reference/development.md
+[1]: <https://cooklang.org/>
+[2]: <https://github.com/nicholaswilde/>
+[3]: <./reference/development.md>
