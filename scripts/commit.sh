@@ -8,7 +8,7 @@
 #
 # @author Nicholas Wilde, 0x08b7d7a3
 # @date 02 Sep 2022
-# @version 0.1.0
+# @version 0.2.0
 #
 ################################################################################
 
@@ -32,6 +32,11 @@ readonly DEBUG
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
 
+# shellcheck source=/dev/null
+source "${DIR}/libbash/init"
+# shellcheck source=/dev/null
+source "${LIBBASH_DIR}/all"
+
 function file_status(){
   git diff --quiet "${1}"
 }
@@ -41,13 +46,14 @@ function issue_exists(){
 }
 
 function create_commit(){
+ lb_infoln "Creating commit"
   recipe_name=$(get_recipe_name "${1}")
   msg="${COMMIT_MSG} ${recipe_name}"
-  if command_exists gh; then
+  if lb_command_exists gh; then
     first=${recipe_name%% *}
     gh issue list -S "${first}"
     read -rp 'Enter the issue number that corresponds to the commit: ' issue_number
-    if ! is_null "${issue_number}"; then
+    if ! lb_is_null "${issue_number}"; then
       if issue_exists "${issue_number}"; then
         [ "${DEBUG}" = true ] && printf "issue_number: %s\n" "${issue_number}"
         msg="${msg}. Fixes #${issue_number}."
@@ -76,6 +82,8 @@ function add_files(){
 
   dictionary_path="${ROOT_DIR}/dictionary.txt"
 
+  lb_infoln "Adding new and modified files"
+
   git add "${recipe_path}" "${image_path}" "${new_image_path}" "${new_markdown_path}" "${mkdocs_path}" "${emoji_path}" "${dictionary_path}"
 }
 
@@ -99,15 +107,16 @@ if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
 while getopts ":hv-" o; do
   # support long options: https://stackoverflow.com/a/28466267/519360
   if [ "${o}" = "-" ]; then   # long option: reformulate o and OPTARG
+    OPTARG=
     o="${OPTARG%%=*}"       # extract long option name
     OPTARG="${OPTARG#"$o"}"   # extract long option argument (may be empty)
     OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
   fi
   case "${o}" in
     h|help)    show_help "${SCRIPT_NAME}" "${SCRIPT_DESC}";;
-    v|version) show_version "${SCRIPT_NAME}" "${SCRIPT_VERSION}";;
-    ??*)         usage_error "${SCRIPT_NAME}";;
-    ?)           usage_error "${SCRIPT_NAME}";;
+    v|version) lb_show_version "${SCRIPT_NAME}" "${SCRIPT_VERSION}";;
+    ??*)         lb_usage_error "${SCRIPT_NAME}";;
+    ?)           lb_usage_error "${SCRIPT_NAME}";;
   esac
 done
 shift $((OPTIND-1)) # remove parsed options and args from $@ list

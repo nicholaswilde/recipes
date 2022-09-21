@@ -8,7 +8,7 @@
 #
 # @author Nicholas Wilde, 0x08b7d7a3
 # @date 02 Sep 2022
-# @version 0.2.1
+# @version 0.3.0
 #
 ################################################################################
 
@@ -31,8 +31,14 @@ readonly DEBUG
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
 
+# shellcheck source=/dev/null
+source "${DIR}/libbash/init"
+# shellcheck source=/dev/null
+source "${LIBBASH_DIR}/all"
+
 function cleanup(){
   if command_exists task; then
+   lb_infoln "Cleaning up"
     cd "${ROOT_DIR}"
     task clean
   fi
@@ -40,6 +46,7 @@ function cleanup(){
 
 function copy_names() {
   if command_exists copy; then
+   lb_infoln "Copying names"
     arr=()
     for path in "${@}"; do
       s=$(get_recipe_name "${path}")
@@ -53,6 +60,7 @@ function copy_names() {
 }
 
 function spell_check() {
+ lb_infoln  "Checking spelling"
   arr=()
   for path in "${@}"; do
     arr+=("${path}")
@@ -65,6 +73,7 @@ function spell_check() {
 }
 
 function links_check() {
+ lb_infoln "Checking links"
   arr=()
   for path in "${@}"; do
     s=$(get_new_markdown_path "${path}")
@@ -76,7 +85,7 @@ function move_files(){
   # Check if file exists
   recipe_path="${1}"
   test -f "${1}" || (printf "File does not exist, %s\n" "${1}" && exit 1)
-
+ lb_infoln "Moving files"
   recipe_path=$(get_recipe_path "${recipe_path}")
 
   category=$(get_category "${recipe_path}")
@@ -127,6 +136,7 @@ if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
 while getopts ":hv-" o; do
   # support long options: https://stackoverflow.com/a/28466267/519360
   if [ "${o}" = "-" ]; then   # long option: reformulate o and OPTARG
+    OPTARG=
     o="${OPTARG%%=*}"       # extract long option name
     OPTARG="${OPTARG#"$o"}"   # extract long option argument (may be empty)
     OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
