@@ -137,6 +137,10 @@ tasks:
         -e 's/ degrees F/°F/'
         -e 's/ degrees/°F/'
         -e 's/([[:digit:]]+)[[:space:]]F/\1°F/' {{shellQuote .FILE }}
+  update:
+    desc: Update git submodules
+    cmds:
+      - "git submodule update --init --recursive --remote"
   default:
     cmds:
       - task -a
