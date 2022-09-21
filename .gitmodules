@@ -1,0 +1,3 @@
+[submodule "scripts/libbash"]
+	path = scripts/libbash
+	url = https://github.com/nicholaswilde/libbash
