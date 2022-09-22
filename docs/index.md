@@ -19,7 +19,14 @@ location and to guard against recipes disappearing from the Internet. The recipe
 own personal reference.
 
 !!! info
+
     Recipes, when applicable, have the original source specified to give them credit.
+
+!!! warning
+
+    Recipes on this site might be different than the sourced recipes due to personal modifications. E.g.
+    changing the amount of chili powder to make the dish less spicy or [aging cookie dough][4] where egg white
+    are the main liquid component in order to control spread and concentrate flavor.
 
 ## :gear:&nbsp; Development
 
@@ -36,3 +43,4 @@ Development of this site is documented [here][3].
 [1]: <https://cooklang.org/>
 [2]: <https://github.com/nicholaswilde/>
 [3]: <./reference/development.md>
+[4]: <https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough>
