@@ -72,6 +72,15 @@ Let mixture sit for 5 minutes.
 | Tarragon          | Chervil, dash fennel seed, or dash aniseed                                            |
 | Thyme             | Basil, marjoram, oregano, or savory                                                   |
 
+## :honey_pot: [Honey][17]
+
+| Sugar Equivalency to: | Honey     | Baking Soda |
+|-----------------------|-----------|-------------|
+| 1/4 cup               | 8 tsps    | -           |
+| 1/2 cup               | 1/3 cup   | -           |
+| 1 cup                 | 2/3 cup   | 1/8 tsp     |
+| 2 cup                 | 1-1/3 cup | 1/4 tsp     |
+
 ## :onion: [Onion][4]
 
 | Chopped Onion Equivalency to: | Chopped Onion | Onion Powder  | Dried Onion Flakes  |
@@ -164,3 +173,4 @@ Let mixture sit for 5 minutes.
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
 [16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>
+[17]: <https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156>
