@@ -14,7 +14,7 @@
 - 3 sticks salted butter
 - 2 large eggs
 - 1.5 cups [buttermilk][1]
-- some strawberry jam
+- some [strawberry jam][2]
 
 ## :cooking: Cookware
 
@@ -35,9 +35,10 @@ pieces and use a pastry blender to cut the butter into the flour until the piece
 
 ### Step 2
 
-Stir in the beaten large eggs with a wooden spoon until combined. Stir in 1 1/2 cups buttermilk until the dough comes
-together into a sticky mass. If it is too dry, add more buttermilk 1 tablespoon at a time, mixing after each addition,
-until it reaches the correct consistency. Cover the bowl and refrigerate for at least 30 minutes and up to overnight.
+Stir in the beaten large eggs with a wooden spoon until combined. Stir in 1.5 cups [buttermilk][1] until the dough
+comes together into a sticky mass. If it is too dry, add more buttermilk 1 tablespoon at a time, mixing after each
+addition, until it reaches the correct consistency. Cover the bowl and refrigerate for at least 30 minutes and up
+to overnight.
 
 ### Step 3
 
@@ -55,7 +56,7 @@ more biscuits.
 
 ### Step 6
 
-Transfer the biscuits to the prepared baking sheet, arranging them so that they all are touching (see Cook’s Note).
+Transfer the biscuits to the prepared baking sheet, arranging them so that they all are touching.
 
 ### Step 7
 
@@ -68,11 +69,12 @@ Bake until golden brown, 15 to 20 minutes. Let cool slightly in the pan on a rac
 
 ### Step 9
 
-Biscuits are best the day they are made (and ideally fresh out of the oven!). Serve with strawberry jam or gravy, if
-desired. Store leftovers in an airtight container at room temperature for up to 2 days.
+Biscuits are best the day they are made (and ideally fresh out of the oven!). Serve with [strawberry jam][2] or gravy,
+if desired. Store leftovers in an airtight container at room temperature for up to 2 days.
 
 ## :link: Source
 
 - <https://magnolia.com/blog/recipe/f7e2d2a0-5997-4c87-958f-19024b248497/jojos-biscuits/>
 
-[1]: ../ingredients/buttermilk.md
+[1]: <../ingredients/buttermilk.md>
+[2]: <../sauces-and-dressings/single-jar-of-fruit-jam.md>
