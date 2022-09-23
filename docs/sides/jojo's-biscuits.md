@@ -1,4 +1,4 @@
-# Jojo's Biscuits
+# :cookie: Jojo's Biscuits
 
 ![Jojo's Biscuits](../assets/images/jojo's-biscuits.jpg)
 
@@ -8,13 +8,13 @@
 
 ## :salt: Ingredients
 
-- 4 cups flour
-- 2 Tbsp baking powder
-- 1 tsp baking soda
-- 3 sticks salted butter
-- 2 large eggs
-- 1.5 cups [buttermilk][1]
-- some [strawberry jam][2]
+- :ear_of_rice: 4 cups flour
+- :dash: 2 Tbsp baking powder
+- :cup_with_straw: 1 tsp baking soda
+- :butter: 3 sticks salted butter
+- :egg: 2 large eggs
+- :glass_of_milk: 1.5 cups [buttermilk][1]
+- :strawberry: some [strawberry jam][2]
 
 ## :cooking: Cookware
 
@@ -69,8 +69,8 @@ Bake until golden brown, 15 to 20 minutes. Let cool slightly in the pan on a rac
 
 ### Step 9
 
-Biscuits are best the day they are made (and ideally fresh out of the oven!). Serve with [strawberry jam][2] or gravy,
-if desired. Store leftovers in an airtight container at room temperature for up to 2 days.
+Biscuits are best the day they are made (and ideally fresh out of the oven!). Serve with [strawberry jam][2] or
+[gravy][3], if desired. Store leftovers in an airtight container at room temperature for up to 2 days.
 
 ## :link: Source
 
@@ -78,3 +78,4 @@ if desired. Store leftovers in an airtight container at room temperature for up 
 
 [1]: <../ingredients/buttermilk.md>
 [2]: <../sauces-and-dressings/single-jar-of-fruit-jam.md>
+[3]: <../sauces-and-dressings/vegetarian-sausage-gravy.md>
