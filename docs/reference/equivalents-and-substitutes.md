@@ -89,6 +89,13 @@ Let mixture sit for 5 minutes.
 | 1 Medium Onion                | 1 cup         | 1 Tbsp        | 3 Tbsp              |
 | 1 Large                       | 1-1/2 cups    | 1-1/2 Tbsp    | 4-1/2 Tbsp          |
 
+## :rice: [Pectin][18]
+
+| Dry Pectin Equivalency to:  | [Liquid Pectin][19]   |
+|-----------------------------|-----------------------|
+| 2 Tbsp (1/2 pouch)          | 1 pouch (3 fl. oz)    |
+| 4 Tbsp (1 pouch)            | 2 pouches (6 fl. oz)  |
+
 ## :salt: [Salt][7]
 
 | Table Salt  | Coarse Kosher Salt  | Fine Sea Salt     | Coarse Sea Salt   | Fine Himalayan Pink Salt  | Coarse Himalayan Pink Salt  | Canning & Pickling Salt |
@@ -174,3 +181,5 @@ Let mixture sit for 5 minutes.
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
 [16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>
 [17]: <https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156>
+[18]: <https://cosmopolitancornbread.com/substitute-pectin/>
+[19]: <../ingredients/pectin.md>
