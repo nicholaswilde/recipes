@@ -9,6 +9,7 @@
 ## :salt: Ingredients
 
 - :hotdog: 1 lb vegetarian sausage
+- :hotdog: 1 lb soy chorizo (alternative)
 - :stew: 1 [heavy blond roux][1]
 - :glass_of_milk: 1 cup whole milk
 - :chestnut: 1 pinch nutmeg
@@ -24,8 +25,8 @@
 
 ### Step 1
 
-In a large skillet, cook the vegetarian sausage over medium heat until cooked through and nicely browned, about 15 to 20
-minutes. Transfer the sausage to a platter and set aside.
+In a large skillet, cook the vegetarian sausage or soy chorizo (alternative) over medium heat until cooked through and
+nicely browned, about 15 to 20 minutes. Transfer the sausage to a platter and set aside.
 
 ### Step 2
 
