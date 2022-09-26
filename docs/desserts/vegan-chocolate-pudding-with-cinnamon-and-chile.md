@@ -48,14 +48,14 @@
 
 ### Step 1
 
-In a small pot, combine sugar with 3/4 cup water; bring to a boil and cook until sugar is dissolved, stirring
-occasionally. Cool slightly.
+In a small pot, combine sugar with 3/4 cup water to make a simple syrup; bring to a boil and cook until sugar is
+dissolved, stirring occasionally. Cool slightly.
 
 ### Step 2
 
-Put silken tofu, semi-sweet chocolate, vanilla, ground cinnamon, and chili powder in a blender and purée until
-completely smooth, stopping machine to scrape down its sides if necessary. Divide among 4 to 6 ramekins and chill for at
-least 30 minutes. If you like, garnish with chocolate shavings before serving.
+Put simple syrup, silken tofu, semi-sweet chocolate, vanilla, ground cinnamon, and chili powder in a blender and purée
+until completely smooth, stopping machine to scrape down its sides if necessary. Divide among 4 to 6 ramekins and
+chill for at least 30 minutes. If you like, garnish with chocolate shavings before serving.
 
 ## :link: Source
 
