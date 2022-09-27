@@ -17,7 +17,7 @@
 - :salt: 0.5 tsp salt
 - :strawberry: some [vegan strawberry frosting][1]
 - :icecream: some vanilla frosting
-- :chocolate_bar: some chocolate ganache
+- :chocolate_bar: some [chocolate ganache][2]
 
 ## :cooking: Cookware
 
@@ -57,8 +57,8 @@ Let your cake cool in the pan for 10 minutes before carefully turning it out ont
 
 ### Step 7
 
-Once your cake is completely cool, you can top it with vegan strawberry frosting, vanilla frosting, or a chocolate
-ganache!
+Once your cake is completely cool, you can top it with [vegan strawberry frosting][1], vanilla frosting, or a
+[chocolate ganache][2]!
 
 ### Step 8
 
@@ -70,3 +70,4 @@ room temperature).
 - <https://minimalistbaker.com/vegan-strawberry-cake-gf/>
 
 [1]: <../ingredients/vegan-strawberry-frosting.md>
+[2]: <../ingredients/chocolate-ganache-glaze-or-frosting.md>
