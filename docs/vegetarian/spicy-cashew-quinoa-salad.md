@@ -37,4 +37,4 @@ To serve, spoon salad into shallow bowls and top with a squeeze of fresh lime ju
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/spicy-cashew-quinoa-salad>
+- Trader Joe's
