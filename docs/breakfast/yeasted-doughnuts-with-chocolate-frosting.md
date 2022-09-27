@@ -6,7 +6,7 @@
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.75 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Doughnuts
 
 - :ear_of_rice: 4.5 cups all-purpose flour
 - :candy: 0.5 cup sugar
@@ -16,6 +16,9 @@
 - :salt: 1.5 tsp salt
 - :butter: 8 Tbsp unsalted butter
 - :oil_drum: 2 qts vegetable oil
+
+## :salt: Ingredients - Frosting
+
 - :chocolate_bar: 4 oz bittersweet chocolate
 - :droplet: 0.5 cup water
 - :rice: 2 cups confectioners' sugar
@@ -48,10 +51,10 @@
 
 ### Step 1
 
-FOR THE DOUGHNUTS: Stir all-purpose flour, sugar, and instant yeast together in bowl of stand mixer. Add milk and egg
-and mix with rubber spatula until all ingredients are moistened. Fit stand mixer with dough hook and mix on medium-low
-speed until cohesive mass forms, about 2 minutes, scraping down bowl if necessary. Cover bowl with plastic wrap and let
-stand for 20 minutes.
+Stir all-purpose flour, sugar, and instant yeast together in bowl of stand mixer. Add milk and egg and mix with rubber
+spatula until all ingredients are moistened. Fit stand mixer with dough hook and mix on medium-low speed until
+cohesive mass forms, about 2 minutes, scraping down bowl if necessary. Cover bowl with plastic wrap and let stand for
+20 minutes.
 
 ### Step 2
 
@@ -91,9 +94,9 @@ constantly until golden brown, about 2 minutes. Transfer to prepared rack to coo
 
 ### Step 6
 
-FOR THE FROSTING: While doughnuts cool, microwave finely chopped bittersweet chocolate and water in medium bowl at 50
-percent power until chocolate is melted, about 30 seconds. Whisk in confectioners' sugar, unsweetened cocoa powder, and
-salt until smooth and fluid. Let cool slightly.
+While doughnuts cool, microwave finely chopped bittersweet chocolate and water in medium bowl at 50 percent power until
+chocolate is melted, about 30 seconds. Whisk in confectioners' sugar, unsweetened cocoa powder, and salt until smooth
+and fluid. Let cool slightly.
 
 ### Step 7
 
