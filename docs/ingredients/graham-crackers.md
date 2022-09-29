@@ -13,7 +13,7 @@
 - :salt: 0.5 tsp salt
 - :dash: 0.75 tsp baking powder
 - :ear_of_rice: 0.5 cup all-purpose flour
-- :maple_leaf: 3 oz dark brown sugar
+- :maple_leaf: 3 oz [dark brown sugar][1]
 - :ear_of_rice: 1 cup graham flour
 - :butter: 6 Tbsp unsalted butter
 - :maple_leaf: 2.25 oz molasses
@@ -32,8 +32,8 @@
 
 ### Step 1
 
-In a food processor, combine cinnamon, baking soda, salt, baking powder, all-purpose flour, dark brown sugar, and graham
-flour. Pulse to combine. Add very cold diced unsalted butter and pulse until it resembles coarse cornmeal.
+In a food processor, combine cinnamon, baking soda, salt, baking powder, all-purpose flour, [dark brown sugar][1], and
+graham flour. Pulse to combine. Add very cold diced unsalted butter and pulse until it resembles coarse cornmeal.
 
 ### Step 2
 
@@ -50,3 +50,5 @@ Allow to cool completely IN THE PAN. Store in zip top bag with as much air remov
 ## :link: Source
 
 - <https://www.food.com/recipe/graham-crackers-alton-brown-337422>
+
+[1]: <./brown-sugar.md>
