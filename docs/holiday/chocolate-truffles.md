@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - :chocolate_bar: 18 oz semi-sweet chocolate chips
-- :glass_of_milk: 1 14-oz can sweetened condensed milk
+- :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
 - :icecream: 1 Tbsp vanilla
 
 ## :cooking: Cookware
@@ -21,8 +21,8 @@
 
 ### Step 1
 
-In heavy saucepan over low heat, melt semi-sweet chocolate chips with sweetened condensed milk. Remove from heat; stir
-in vanilla.
+In heavy saucepan over low heat, melt semi-sweet chocolate chips with [sweetened condensed milk][1]. Remove from heat;
+stir in vanilla.
 
 ### Step 2
 
@@ -55,3 +55,5 @@ bourbon for vanilla. Roll in finely chopped toasted nuts.
 ## :link: Source
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
+
+[1]: <../ingredients/sweetened-condensed-milk.md>

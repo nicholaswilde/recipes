@@ -1,4 +1,4 @@
-# Millionaire's Shortbread
+# :chocolate_bar: Millionaire's Shortbread
 
 ![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread.png)
 
@@ -12,7 +12,7 @@
 - 0.25 cup butter
 - 0.75 cup [dark brown sugar][1]
 - 0.67 cup butter
-- 1 14 oz can condensed milk
+- 1 14 oz can [sweetened condensed milk][2]
 - 1 tsp cinnamon
 - 0.25 tsp vanilla
 - 1 cup dark chocolate
@@ -41,8 +41,8 @@ Gently heat the dark brown sugar and 2/3 cup of butter in a non-stick pan, stirr
 
 ### Step 3
 
-Add the condensed milk, cinnamon, and vanilla, and bring to a boil, stirring continuously until the mixture has
-thickened slightly — on a high heat for about 5 minutes.
+Add the [sweetened condensed milk][2], cinnamon, and vanilla, and bring to a boil, stirring continuously until the
+mixture has thickened slightly — on a high heat for about 5 minutes.
 
 ### Step 4
 
@@ -72,3 +72,4 @@ When set, slice into squares and serve.
 - <https://www.tastingtable.com/853741/millionaires-shortbread-recipe/>
 
 [1]: <../ingredients/brown-sugar.md>
+[2]: <../ingredients/sweetened-condensed-milk.md>

@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - :chocolate_bar: 1 cup REESE'S peanut butter chips
-- :glass_of_milk: 1 14-oz can sweetened condensed milk
+- :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
 - :icecream: 1 tsp vanilla
 - :chocolate_bar: 1 cup semi-sweet chocolate chips
 
@@ -23,7 +23,7 @@
 
 ### Step 1
 
-Line 8-inch square pan with foil. Place REESE'S peanut butter chips and 3 cup sweetened condensed milk in small
+Line 8-inch square pan with foil. Place REESE'S peanut butter chips and 3 cup [sweetened condensed milk][1] in small
 microwave-safe bowl. Microwave at HIGH (100%) 1 to 1½ minutes, stirring after 1 minute, until chips are melted and
 mixture is smooth when stirred. Stir in 1/2 teaspoon vanilla; spread evenly into prepared pan.
 
@@ -43,3 +43,5 @@ covered in refrigerator.
 ## :link: Source
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
+
+[1]: <../ingredients/sweetened-condensed-milk.md>

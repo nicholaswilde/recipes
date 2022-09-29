@@ -10,7 +10,7 @@
 
 ### :custard: Caramel
 
-- :glass_of_milk: 125 g condensed milk
+- :glass_of_milk: 125 g [sweetened condensed milk][1]
 - :maple_leaf: 23 g brown sugar
 - :maple_leaf: 40 g Treacle or golden syrup
 - :butter: 45 g unsalted butter
@@ -40,8 +40,8 @@
 
 ### Step 1
 
-Combine condensed milk, brown sugar, Treacle or golden syrup, unsalted butter, and salt in a small saucepan and
-bring to a boil.
+Combine [sweetened condensed milk][1], brown sugar, Treacle or golden syrup, unsalted butter, and salt in a small
+saucepan and bring to a boil.
 
 ### Step 2
 
@@ -127,3 +127,5 @@ Enjoy!
 ## :link: Source
 
 - <https://zhangcatherine.com/twix-cookies/>
+
+[1]: <../ingredients/sweetened-condensed-milk.md>

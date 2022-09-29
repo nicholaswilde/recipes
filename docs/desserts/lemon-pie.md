@@ -1,4 +1,4 @@
-# Lemon Pie
+# :pie: Lemon Pie
 
 ![Lemon Pie](../assets/images/lemon-pie.jpg)
 
@@ -6,22 +6,28 @@
 |:-----------------------: |
 | 1.37 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Crust
 
-- some vegetable oil
-- 1.5 cups crushed graham crackers
-- 0.33 cup sugar
-- 6 Tbsps melted salted butter
-- 3 cups condensed milk
-- 3 egg yolks
-- 0.66 cup lemon juice
-- some salt
-- 1 cup heavy cream
-- 0.33 cup sugar
-- 1 tsp vanilla
-- some fresh lemon slices
-- some lemon zest
-- some mint sprigs
+- :cookie: 1.5 cups crushed [graham crackers][1]
+- :candy: 0.33 cup sugar
+- :butter: 6 Tbsps melted salted butter
+
+## :salt: Ingredients - Filling
+
+- :oil_drum: some vegetable oil
+- :glass_of_milk: 3 cups [sweetened condensed milk][2]
+- :egg: 3 egg yolks
+- :lemon: 0.66 cup lemon juice
+- :salt: some salt
+
+## :salt: Ingredients - Whipped Cream Topping
+
+- :icecream: 1 cup heavy cream
+- :candy: 0.33 cup sugar
+- :icecream: 1 tsp vanilla
+- :lemon: some fresh lemon slices
+- :lemon: some lemon zest
+- :herb: some mint sprigs
 
 ## :cooking: Cookware
 
@@ -71,3 +77,6 @@ Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle 
 ### :link: Source
 
 - <https://magnolia.com/blog/article/12252/lemon-pie-recipe/>
+
+[1]: <../ingredients/graham-crackers.md>
+[2]: <../ingredients/sweetened-condensed-milk.md>

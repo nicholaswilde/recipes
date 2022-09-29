@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 can sweetened condensed milk
+- :glass_of_milk: 1 can [sweetened condensed milk][1]
 - :maple_leaf: 1 cup brown sugar
 - :butter: 0.5 cup unsalted butter
 - :glass_of_milk: 0.25 cup milk
@@ -31,7 +31,7 @@ Line a 9 x 13" pan with foil and spray with cooking spray.
 
 ### Step 2
 
-In a 2 quart saucepan, mix sweetened condensed milk, brown sugar, unsalted butter, and milk. Cook until butter is
+In a 2 quart saucepan, mix [sweetened condensed milk][1], brown sugar, unsalted butter, and milk. Cook until butter is
 melted, stirring frequently.
 
 ### Step 3
@@ -57,3 +57,5 @@ Refrigerate for 1 hour or until set.
 ### Step 8
 
 Cut into desired sizes.
+
+[1]: <../ingredients/sweetened-condensed-milk.md>

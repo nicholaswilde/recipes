@@ -9,10 +9,10 @@
 ## :salt: Ingredients
 
 - :butter: 0.5 cup butter
-- :cookie: 1.5 cups graham cracker crumbs
+- :cookie: 1.5 cups [graham cracker][1] crumbs
 - :chocolate_bar: 1 10-oz pkg REESE'S peanut butter chips
 - :coconut: 1.5 cups MOUNDS Sweetened Coconut Flakes
-- :glass_of_milk: 1 14-oz can sweetened condensed milk
+- :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
 - :chocolate_bar: 1 cup semi-sweet chocolate chips
 - :carrot: 1.5 tsp vegetable shortening
 
@@ -30,10 +30,10 @@ Heat oven to 350°F.
 
 ### Step 2
 
-Place butter in 13 X 9 X 2-inch baking pan. Heat in oven until melted. Remove pan from oven. Sprinkle graham cracker
-crumbs evenly over butter; press down with fork. Layer 1 cup REESE'S peanut butter chips over crumbs; sprinkle MOUNDS
-Sweetened Coconut Flakes over peanut butter chips. Layer remaining 3 cup peanut butter chips over coconut; drizzle
-sweetened condensed milk evenly over top. Press down firmly.
+Place butter in 13 X 9 X 2-inch baking pan. Heat in oven until melted. Remove pan from oven. Sprinkle
+[graham cracker][1] crumbs evenly over butter; press down with fork. Layer 1 cup REESE'S peanut butter chips over
+crumbs; sprinkle MOUNDS Sweetened Coconut Flakes over peanut butter chips. Layer remaining 3 cup peanut butter chips
+over coconut; drizzle [sweetened condensed milk][2] evenly over top. Press down firmly.
 
 ### Step 3
 
@@ -54,3 +54,6 @@ into bars.
 ## :link: Source
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
+
+[1]: <../ingredients/graham-crackers.md>
+[2]: <../ingredients/sweetened-condensed-milk.md>
