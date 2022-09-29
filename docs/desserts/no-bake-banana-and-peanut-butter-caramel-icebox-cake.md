@@ -1,4 +1,4 @@
-# No-Bake Banana and Peanut Butter Caramel Icebox Cake
+# :cake: No-Bake Banana and Peanut Butter Caramel Icebox Cake
 
 ![No-Bake Banana and Peanut Butter Caramel Icebox Cake](../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake.jpg)
 
@@ -8,20 +8,20 @@
 
 ## :salt: Ingredients
 
-- 4 oz cream cheese
-- 0.5 cup roasted peanuts
-- 0.5 cup pecans
-- 0.5 cup granulated sugar
-- 2 tbsp water
-- 0.5 cup heavy cream
-- 0.25 cup [creamy peanut butter][1]
-- some kosher salt
-- 1 14 oz can sweetened condensed milk
-- 2.75 cup heavy cream
-- 2 tsp vanilla
-- 0.5 tsp kosher salt
-- 3 medium bananas
-- 4 sleeves graham crackers
+- :cheese_wedge: 4 oz cream cheese
+- :peanuts: 0.5 cup roasted peanuts
+- :chestnut: 0.5 cup pecans
+- :candy: 0.5 cup granulated sugar
+- :droplet: 2 tbsp water
+- :icecream: 0.5 cup heavy cream
+- :peanuts: 0.25 cup [creamy peanut butter][1]
+- :salt: some kosher salt
+- :glass_of_milk: 1 14 oz can [sweetened condensed milk][3]
+- :glass_of_milk: 2.75 cup heavy cream
+- :icecream: 2 tsp vanilla
+- :salt: 0.5 tsp kosher salt
+- :banana: 3 medium bananas
+- :cookie: 4 sleeves [graham crackers][2]
 
 ## :cooking: Cookware
 
@@ -58,9 +58,9 @@ Whisk until the sauce is very smooth, then remove the pan from the heat.
 ### Step 5
 
 Beat the cream cheese with the whisk attachment on medium speed until very smooth and creamy, about 30 seconds. With the
-mixer running, very gradually add 1 (14-ounce) can sweetened condensed milk, stopping to scrape down the bowl as needed,
-and beat until smooth. With the mixer still running, slowly pour in 2 3/4 cups cold heavy cream. Add 2 teaspoons vanilla
-extract and 1/2 teaspoon kosher salt and beat on medium speed until soft peaks form, 5 to 10 minutes.
+mixer running, very gradually add 1 (14-ounce) can [sweetened condensed milk][3], stopping to scrape down the bowl as
+needed, and beat until smooth. With the mixer still running, slowly pour in 2 3/4 cups cold heavy cream. Add 2
+teaspoons vanilla extract and 1/2 teaspoon kosher salt and beat on medium speed until soft peaks form, 5 to 10 minutes.
 
 ### Step 6
 
@@ -94,3 +94,5 @@ Refrigerate uncovered until the crackers have softened completely, at least 6 ho
 - <https://www.thekitchn.com/recipe-no-bake-banana-and-peanut-butter-caramel-icebox-cake-kitchn-cookbook-23345496>
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../ingredients/graham-crackers.md>
+[3]: <../ingredients/sweetened-condensed-milk.md>
