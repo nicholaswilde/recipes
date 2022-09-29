@@ -1,4 +1,4 @@
-# Simple Sugar Cookies
+# :cookie: Simple Sugar Cookies
 
 ![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg)
 
@@ -8,14 +8,14 @@
 
 ## :salt: Ingredients
 
-- 0.5 cup vegetable shortening
-- 0.67 cup sugar
-- 0.25 cup [buttermilk][1]
-- 1 Tbsp vanilla
-- 0.13 tsp nutmeg
-- 2 cups flour
-- 0.5 tsp baking soda
-- 0.25 tsp salt
+- :carrot: 0.5 cup vegetable shortening
+- :candy: 0.67 cup sugar
+- :glass_of_milk: 0.25 cup [buttermilk][1]
+- :icecream: 1 Tbsp vanilla
+- :chestnut: 0.13 tsp nutmeg
+- :ear_of_rice: 2 cups flour
+- :cup_with_straw: 0.5 tsp baking soda
+- :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
 
