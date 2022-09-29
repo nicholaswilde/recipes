@@ -42,4 +42,4 @@ Continue cooking until the black-eyed peas are tender. Remove, pour in remaining
 
 ## :link: Source
 
-- <https://www.bluezones.com/recipe/ikarian-longevity-stew-with-black-eyed-peas-recipe/>
+- Blue Zones
