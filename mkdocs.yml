@@ -188,6 +188,8 @@ nav:
   - Indonesian:
       - Indonesian Satay: indonesian/indonesian-satay.md
   - Ingredients:
+      - Extracts:
+          - Vanilla Extract: ingredients/extracts/vanilla-extract.md
       - Meringue:
           - French Meringue: ingredients/meringue/french-meringue.md
           - Italian Meringue: ingredients/meringue/italian-meringue.md
