@@ -189,7 +189,10 @@ nav:
       - Indonesian Satay: indonesian/indonesian-satay.md
   - Ingredients:
       - Extracts:
+          - Almond Extract: ingredients/extracts/almond-extract.md
+          - Lemon Extract: ingredients/extracts/lemon-extract.md
           - Mint Extract: ingredients/extracts/mint-extract.md
+          - Orange Extract: ingredients/extracts/orange-extract.md
           - Vanilla Extract: ingredients/extracts/vanilla-extract.md
       - Meringue:
           - French Meringue: ingredients/meringue/french-meringue.md
