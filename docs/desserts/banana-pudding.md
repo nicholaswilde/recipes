@@ -16,7 +16,7 @@
 - :corn: 3 Tbsp cornstarch
 - :egg: 1 large egg
 - :egg: 3 large egg yolks
-- :cookie: 1 box vanilla wafers
+- :cookie: 1 box (80 wafers) [vanilla wafers][1]
 - :glass_of_milk: 1.5 cups heavy whipping cream
 - :banana: 4 banana
 
@@ -63,7 +63,7 @@ surface of the cream to prevent a skin from forming. Set the container in an ice
 
 ### Step 6
 
-Place a layer of the vanilla wafers in the bottom of each jar (so you can see the layers).
+Place a layer of the [vanilla wafers][1] in the bottom of each jar (so you can see the layers).
 
 ### Step 7
 
@@ -87,3 +87,5 @@ When ready to serve, top with the reserved whipped cream and bananas.
 ## :link: Source
 
 - <https://magnolia.com/blog/recipe/d2aa51dc-e630-48f4-8581-2d1d39ddb254/banana-pudding/>
+
+[1]: <../cookies-and-bars/vanilla-wafers.md>
