@@ -9,7 +9,7 @@
 ## :salt: Ingredients
 
 - :icecream: 3 vanilla beans
-- :tumber_glass: 2 oz vodka or bourbon
+- :tumbler_glass: 2 oz vodka or bourbon
 
 ## :cooking: Cookware
 
