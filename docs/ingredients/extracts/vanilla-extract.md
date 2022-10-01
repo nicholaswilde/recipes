@@ -4,22 +4,16 @@
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 5 minutes |
+| 5-6 weeks |
 
 ## :salt: Ingredients
 
-- :icecream: 4 vanilla beans
-- :tumbler_glass: 1 cup vodka or bourbon
-
-| Alcohol | Vanilla Beans |
-|---------|---------------|
-| 1/2 cup | 2 - 3         |
-| 1 cup   | 4 - 6         |
-| 2 cups  | 8 - 12        |
+- :icecream: 3 vanilla beans
+- :tumber_glass: 2 oz vodka or bourbon
 
 ## :cooking: Cookware
 
-- 1 glass bottle
+- 1 2-fl. oz glass bottle
 
 ## :pencil: Instructions
 
@@ -29,7 +23,7 @@ Cut your vanilla beans in half, then split open each half to expose the vanilla 
 
 ### Step 2
 
-Place cut vanilla beans inside your glass bottle.
+Place cut vanilla beans inside your 2-fl. oz glass bottle.
 
 ### Step 3
 
@@ -48,8 +42,9 @@ Every few days, tilt your bottle upside down to gently mix the liquid inside.
 After 5-6 weeks, you have extract! (If you leave in your vanilla beans, when you start running low, just add more vodka
 and wait a little.)
 
-!!! note
-    As a guide you use 1 cup/8 ozs of vodka to 4 - 6 vanilla beans, depending on the quality of the beans.
+### Step 7
+
+Note: As a guide you use 1 cup/8 ozs of vodka to 4 - 6 vanilla beans, depending on the quality of the beans.
 
 ## :link: Source
 
