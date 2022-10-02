@@ -22,11 +22,23 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install mkdocs
-        run: pip install \
-              mkdocs-material \
-              mkdocs-minify-plugin \
-              mkdocs-redirects
+      - name: Set up build cache
+        uses: actions/cache@v3
+        id: cache
+        with:
+          key: ${{ runner.os }}-${{ hashFiles('.cache/**') }}
+          path: .cache
+
+      - name: Install mkdocs-material
+        run: |
+          pip install \
+            mkdocs-material \
+            mkdocs-minify-plugin \
+            mkdocs-redirects \
+            mkdocs-git-committers-plugin-2 \
+            mkdocs-git-revision-date-localized-plugin
 
       - name: Deploy mkdocs
-        run: mkdocs gh-deploy --force
+        run: |
+          mkdocs gh-deploy --force
+          mkdocs --version
