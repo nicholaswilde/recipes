@@ -22,6 +22,11 @@ own personal reference.
 
     Recipes, when applicable, have the original source specified to give them credit.
 
+!!! info
+
+    [giscus comments system][5] is implemented on this site to make it easier to make comments on recipes when
+    cooking. The comments can then be used at a later date to update the recipe.
+
 !!! warning
 
     Recipes on this site might be different than the sourced recipes due to personal modifications. E.g.
@@ -44,3 +49,4 @@ Development of this site is documented [here][3].
 [2]: <https://github.com/nicholaswilde/>
 [3]: <./reference/development.md>
 [4]: <https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough>
+[5]: <https://giscus.app/>
