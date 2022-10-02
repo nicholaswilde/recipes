@@ -6,6 +6,9 @@ on:  # yamllint disable-line rule:truthy
   push:
     branches:
       - main
+    paths:
+      - 'docs/**/*.md'
+      - 'cook/**/*.cook'
 
 jobs:
   spellcheck:
