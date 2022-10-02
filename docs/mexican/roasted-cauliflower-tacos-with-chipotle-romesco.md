@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :taco: Roasted Cauliflower Tacos with Chipotle Romesco
 
 ![Roasted Cauliflower Tacos with Chipotle Romesco](../assets/images/roasted-cauliflower-tacos-with-chipotle-romesco.jpg)

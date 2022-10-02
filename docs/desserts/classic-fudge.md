@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Classic Fudge
 
 ![Classic Fudge](../assets/images/classic-fudge.png)

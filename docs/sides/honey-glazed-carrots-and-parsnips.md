@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Honey Glazed Carrots and Parsnips
 
 ![Honey Glazed Carrots and Parsnips](../assets/images/honey-glazed-carrots-and-parsnips.jpg)

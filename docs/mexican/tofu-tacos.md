@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tofu Tacos
 
 ![Tofu Tacos](../assets/images/tofu-tacos.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Taco Bake
 
 ![Taco Bake](../assets/images/taco-bake.jpg)

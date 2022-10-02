@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :green_circle: Split Pea Soup
 
 ![Split Pea Soup](../assets/images/split-pea-soup.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :herb: Cilantro Dressing
 
 ![Cilantro Dressing](../assets/images/cilantro-dressing.jpg)

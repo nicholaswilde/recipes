@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :green_salad: Vinaigrette
 
 ![Vinaigrette](../assets/images/vinaigrette.jpg)

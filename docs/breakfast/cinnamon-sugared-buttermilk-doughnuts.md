@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
 
 ![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg)

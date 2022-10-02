@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :glass_of_milk: Milk Glaze
 
 ![Milk Glaze](../../assets/images/milk-glaze.jpg)

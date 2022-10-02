@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Saucy Moroccan-Spiced Lentils
 
 ![Saucy Moroccan-Spiced Lentils](../assets/images/saucy-moroccan-spiced-lentils.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sweet and Spicy Corncakes
 
 ![Sweet and Spicy Corncakes](../assets/images/sweet-and-spicy-corncakes.jpg)

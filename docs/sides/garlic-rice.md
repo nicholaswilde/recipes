@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Garlic Rice
 
 ![Garlic Rice](../assets/images/garlic-rice.jpg)

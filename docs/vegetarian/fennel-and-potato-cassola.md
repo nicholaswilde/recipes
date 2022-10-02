@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Fennel and Potato Cassola
 
 ![Fennel and Potato Cassola](../assets/images/fennel-and-potato-cassola.jpg)

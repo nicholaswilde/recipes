@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :rice: Couscous Feta Salad
 
 ![Couscous Feta Salad](../assets/images/couscous-feta-salad.jpg)

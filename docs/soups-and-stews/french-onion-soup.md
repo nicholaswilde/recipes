@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :onion: French Onion Soup
 
 ![French Onion Soup](../assets/images/french-onion-soup.jpg)

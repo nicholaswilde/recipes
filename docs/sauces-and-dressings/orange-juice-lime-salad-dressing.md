@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Orange Juice-Lime Salad Dressing
 
 ![Orange Juice-Lime Salad Dressing](../assets/images/orange-juice-lime-salad-dressing.jpg)

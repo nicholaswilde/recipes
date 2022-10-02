@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Old Irish Coffee
 
 ![Old Irish Coffee](../assets/images/old-irish-coffee.jpg)

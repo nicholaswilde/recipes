@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pizza: Classic Margherita Pizza
 
 ![Classic Margherita Pizza](../assets/images/classic-margherita-pizza.jpg)

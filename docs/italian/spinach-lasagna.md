@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Spinach Lasagna
 
 ![Spinach Lasagna](../assets/images/spinach-lasagna.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Ricotta
 
 ![Ricotta](../assets/images/ricotta.jpg)

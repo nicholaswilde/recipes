@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Deluxe Butter Pastry
 
 ![Deluxe Butter Pastry](../../assets/images/deluxe-butter-pastry.jpg)

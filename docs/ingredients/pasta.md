@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :spaghetti: Pasta
 
 ![Pasta](../assets/images/pasta.png)

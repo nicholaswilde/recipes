@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tahini
 
 ![Tahini](../assets/images/tahini.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :potato: Ruth's Chris Sweet Potato Casserole
 
 ![Ruth's Chris Sweet Potato Casserole](../assets/images/ruth's-chris-sweet-potato-casserole.jpg)

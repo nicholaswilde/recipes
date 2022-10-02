@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Crumb Crust
 
 ![Crumb Crust](../assets/images/crumb-crust.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pretzel: Laugenbrezeln (German Lye Pretzels)
 
 ![Laugenbrezeln (German Lye Pretzels)](../assets/images/laugenbrezeln-(german-lye-pretzels).jpg)

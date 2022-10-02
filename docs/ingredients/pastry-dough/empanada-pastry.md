@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :dumpling: Empanada Pastry
 
 ![Empanada Pastry](../../assets/images/empanada-pastry.jpg)

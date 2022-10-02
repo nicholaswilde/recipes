@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :butter: Pan-Fried Tofu
 
 ![Pan-Fried Tofu](../assets/images/pan-fried-tofu.jpg)

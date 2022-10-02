@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mediterranean-Inspired Orzo Pasta Salad
 
 ![Mediterranean-Inspired Orzo Pasta Salad](../assets/images/mediterranean-inspired-orzo-pasta-salad.jpg)

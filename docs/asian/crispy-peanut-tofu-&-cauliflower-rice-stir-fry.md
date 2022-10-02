@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 
 ![Crispy Peanut Tofu & Cauliflower Rice Stir-Fry](../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg)

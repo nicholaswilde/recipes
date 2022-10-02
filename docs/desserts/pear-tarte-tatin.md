@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pear: Pear Tarte Tatin
 
 ![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg)

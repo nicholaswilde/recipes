@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Italian Meringue
 
 ![Italian Meringue](../../assets/images/italian-meringue.jpg)

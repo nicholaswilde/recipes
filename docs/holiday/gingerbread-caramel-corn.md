@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :corn: Gingerbread Caramel Corn
 
 ![Gingerbread Caramel Corn](../assets/images/gingerbread-caramel-corn.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Ranch Dressing Mix
 
 ![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.jpg)

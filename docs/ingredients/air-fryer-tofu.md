@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :butter: Air Fryer Tofu
 
 ![Air Fryer Tofu](../assets/images/air-fryer-tofu.jpg)

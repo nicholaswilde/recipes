@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sourdough Starter
 
 ![Sourdough Starter](../assets/images/sourdough-starter.jpg)

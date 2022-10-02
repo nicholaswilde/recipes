@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Perfect Chickpea Salad
 
 ![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg)

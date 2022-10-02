@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :lemon: Lemon Curd
 
 ![Lemon Curd](../assets/images/lemon-curd.jpg)

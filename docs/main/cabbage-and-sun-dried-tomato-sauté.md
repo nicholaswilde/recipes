@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cabbage and Sun-dried Tomato Sauté
 
 ![Cabbage and Sun-dried Tomato Sauté](../assets/images/cabbage-and-sun-dried-tomato-sauté.jpg)

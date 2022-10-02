@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :takeout_box: Asian Sweet-and-Sour Sauce
 
 ![Asian Sweet-and-Sour Sauce](../assets/images/asian-sweet-and-sour-sauce.jpg)

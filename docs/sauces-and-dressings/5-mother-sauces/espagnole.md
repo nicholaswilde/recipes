@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cow: Espagnole
 
 ![Espagnole](../../assets/images/espagnole.jpg)

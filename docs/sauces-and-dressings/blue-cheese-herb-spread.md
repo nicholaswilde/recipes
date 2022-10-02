@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Blue Cheese Herb Spread
 
 ![Blue Cheese Herb Spread](../assets/images/blue-cheese-herb-spread.jpg)

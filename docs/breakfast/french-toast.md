@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # French Toast
 
 ![French Toast](../assets/images/french-toast.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Bagels
 
 ![Bagels](../assets/images/bagels.jpg)

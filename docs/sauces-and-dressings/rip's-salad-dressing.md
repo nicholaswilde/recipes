@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Rip's Salad Dressing
 
 ![Rip's Salad Dressing](../assets/images/rip's-salad-dressing.jpg)

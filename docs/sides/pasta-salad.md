@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :green_salad: Pasta Salad
 
 ![Pasta Salad](../assets/images/pasta-salad.jpg)

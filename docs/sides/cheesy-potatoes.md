@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :potato: Cheesy Potatoes
 
 ![Cheesy Potatoes](../assets/images/cheesy-potatoes.jpg)

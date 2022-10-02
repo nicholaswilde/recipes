@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # White Mac and Cheese Sauce
 
 ![White Mac and Cheese Sauce](../assets/images/white-mac-and-cheese-sauce.jpg)

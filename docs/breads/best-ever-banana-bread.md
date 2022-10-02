@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Best-Ever Banana Bread
 
 ![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.jpg)

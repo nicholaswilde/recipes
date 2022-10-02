@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :potato: Mom's Potatoes
 
 ![Mom's Potatoes](../assets/images/mom's-potatoes.jpg)

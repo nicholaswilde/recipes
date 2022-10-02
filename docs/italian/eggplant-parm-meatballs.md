@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Eggplant Parm Meatballs
 
 ![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.jpg)

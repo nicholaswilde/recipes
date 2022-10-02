@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Miso Nori Paste
 
 ![Miso Nori](../assets/images/miso-nori-paste.jpg)

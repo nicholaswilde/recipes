@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :hotdog: Vegetarian Sausage Gravy
 
 ![Vegetarian Sausage Gravy](../assets/images/vegetarian-sausage-gravy.jpg)

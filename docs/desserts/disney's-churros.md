@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Disney's Churros
 
 ![Disney's Churros](../assets/images/disney's-churros.jpg)

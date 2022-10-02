@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :custard: Salted Caramel Sauce
 
 ![Salted Caramel Sauce](../assets/images/salted-caramel-sauce.jpg)

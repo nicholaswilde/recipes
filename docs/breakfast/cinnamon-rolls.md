@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cinnamon Rolls
 
 ![Cinnamon Rolls](../assets/images/cinnamon-rolls.png)

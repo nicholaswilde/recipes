@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :doughnut: Yeasted Doughnuts with Chocolate Frosting
 
 ![Yeasted Doughnuts with Chocolate Frosting](../assets/images/yeasted-doughnuts-with-chocolate-frosting.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cauliflower Green Bean Mac and Cheese
 
 ![Cauliflower Green Bean Mac and Cheese](../assets/images/cauliflower-green-bean-mac-and-cheese.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :burrito: Vegetarian Egg Rolls
 
 ![Vegetarian Egg Rolls](../assets/images/vegetarian-egg-rolls.png)

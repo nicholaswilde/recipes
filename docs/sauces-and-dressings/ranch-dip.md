@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Ranch Dip
 
 ![Ranch Dip](../assets/images/ranch-dip.jpg)

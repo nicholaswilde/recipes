@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :potato: French Potato Salad
 
 ![French Potato Salad](../assets/images/french-potato-salad.png)

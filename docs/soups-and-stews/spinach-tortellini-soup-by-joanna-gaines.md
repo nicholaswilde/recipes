@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Spinach Tortellini Soup by Joanna Gaines
 
 ![Spinach Tortellini Soup by Joanna Gaines](../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg)

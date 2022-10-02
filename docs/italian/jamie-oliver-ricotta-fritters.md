@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Jamie Oliver Ricotta Fritters
 
 ![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg)

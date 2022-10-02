@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Peanut Butter Cups
 
 ![Peanut Butter Cups](../assets/images/peanut-butter-cups.jpg)

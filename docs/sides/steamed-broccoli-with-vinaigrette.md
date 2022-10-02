@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :broccoli: Steamed Broccoli with Vinaigrette
 
 ![Steamed Broccoli with Vinaigrette](../assets/images/steamed-broccoli-with-vinaigrette.jpg)

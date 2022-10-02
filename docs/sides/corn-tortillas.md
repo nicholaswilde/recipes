@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :corn: Corn Tortillas
 
 ![Corn Tortillas](../assets/images/corn-tortillas.png)

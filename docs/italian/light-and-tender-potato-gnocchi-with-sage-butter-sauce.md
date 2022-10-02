@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Light and Tender Potato Gnocchi With Sage-Butter Sauce
 
 ![Light and Tender Potato Gnocchi With Sage-Butter Sauce](../assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :icecream: Vanilla Extract
 
 ![Vanilla Extract](../../assets/images/vanilla-extract.jpg)

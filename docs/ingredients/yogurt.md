@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Yogurt
 
 ![Yogurt](../assets/images/yogurt.jpg)

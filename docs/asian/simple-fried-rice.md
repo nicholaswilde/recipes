@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Simple Fried Rice
 
 ![Simple Fried Rice](../assets/images/simple-fried-rice.jpg)

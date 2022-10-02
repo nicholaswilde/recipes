@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola
 
 ![Charred Brussels Sprouts with Walnuts & Gorgonzola](../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg)

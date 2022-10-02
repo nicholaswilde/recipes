@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # The Food Lab Light and Fluffy Scrambled Eggs
 
 ![The Food Lab Light and Fluffy Scrambled Eggs](../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg)

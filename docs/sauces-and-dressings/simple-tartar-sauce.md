@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tartar Sauce
 
 ![Tartar Sauce](../assets/images/simple-tartar-sauce.png)

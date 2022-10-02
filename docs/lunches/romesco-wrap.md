@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :flatbread: Romesco Wrap
 
 ![Romesco Wrap](../assets/images/romesco-wrap.jpg)

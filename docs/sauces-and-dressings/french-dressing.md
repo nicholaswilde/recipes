@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :green_salad: French Dressing
 
 ![French Dressing](../assets/images/french-dressing.jpg)

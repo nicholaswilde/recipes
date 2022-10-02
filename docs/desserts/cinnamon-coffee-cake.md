@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cinnamon Coffee Cake
 
 ![Cinnamon Coffee Cake](../assets/images/cinnamon-coffee-cake.jpg)

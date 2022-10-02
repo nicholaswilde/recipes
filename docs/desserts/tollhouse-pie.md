@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tollhouse Pie
 
 ![Tollhouse Pie](../assets/images/tollhouse-pie.jpg)

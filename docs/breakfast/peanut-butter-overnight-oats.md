@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Peanut Butter Overnight Oats
 
 ![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg)

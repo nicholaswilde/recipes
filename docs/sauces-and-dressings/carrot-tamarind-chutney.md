@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Carrot-Tamarind Chutney
 
 ![Carrot-Tamarind Chutney](../assets/images/carrot-tamarind-chutney.jpg)

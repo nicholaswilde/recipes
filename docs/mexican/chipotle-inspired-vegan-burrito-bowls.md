@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Chipotle-Inspired Vegan Burrito Bowls
 
 ![Chipotle-Inspired Vegan Burrito Bowls](../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg)

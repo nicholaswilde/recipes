@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Classic Mustard
 
 ![Classic Mustard](../assets/images/classic-mustard.jpg)

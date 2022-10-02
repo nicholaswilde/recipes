@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Healthy Pasta with Pesto and Broccoli
 
 ![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg)

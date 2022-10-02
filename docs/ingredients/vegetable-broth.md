@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Vegetable Broth
 
 ![Vegetable Broth](../assets/images/vegetable-broth.jpg)

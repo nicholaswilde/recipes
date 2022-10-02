@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Decadent Chocolate Overnight Oats
 
 ![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg)

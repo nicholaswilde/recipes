@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :glass_of_milk: Evaporated Milk
 
 ![Evaporated Milk](../assets/images/evaporated-milk.png)

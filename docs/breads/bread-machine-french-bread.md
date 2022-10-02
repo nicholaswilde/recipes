@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Bread Machine French Bread
 
 ![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg)

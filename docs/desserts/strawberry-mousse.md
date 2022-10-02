@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Strawberry Mousse
 
 ![Strawberry Mousse](../assets/images/strawberry-mousse.jpg)

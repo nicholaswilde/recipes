@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Honey Cornbread
 
 ![Honey Cornbread](../assets/images/honey-cornbread.jpg)

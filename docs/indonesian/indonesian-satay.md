@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :meat_on_bone: Indonesian Satay
 
 ![Indonesian Satay](../assets/images/indonesian-satay.jpg)

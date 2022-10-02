@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Peanut Butter
 
 ![Peanut Butter](../assets/images/peanut-butter.jpg)

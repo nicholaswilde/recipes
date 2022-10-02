@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :green_circle: Pea Purée
 
 ![Pea Purée](../assets/images/pea-purée.jpg)

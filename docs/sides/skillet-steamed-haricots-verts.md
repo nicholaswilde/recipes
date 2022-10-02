@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Skillet-Steamed Haricots Verts
 
 ![Skillet-Steamed Haricots Verts](../assets/images/skillet-steamed-haricots-verts.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # The Best Vegan Burger
 
 ![The Best Vegan Burger](../assets/images/the-best-vegan-burger.jpg)

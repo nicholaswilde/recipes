@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Greens and Grains Bowls
 
 ![Greens and Grains Bowls](../assets/images/greens-and-grains-bowls.jpg)

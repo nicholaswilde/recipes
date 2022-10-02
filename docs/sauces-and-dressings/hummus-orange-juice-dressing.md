@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Hummus-Orange Juice Dressing
 
 ![Hummus-Orange Juice Dressing](../assets/images/hummus-orange-juice-dressing.jpg)

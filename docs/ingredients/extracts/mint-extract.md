@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :shamrock: Mint Extract
 
 ![Mint Extract](../../assets/images/mint-extract.jpg)

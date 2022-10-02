@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Zeb's Waffles
 
 ![Zeb's Waffles](../assets/images/zeb's-waffles.png)

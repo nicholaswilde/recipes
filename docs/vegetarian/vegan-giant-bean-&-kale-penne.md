@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Vegan Giant Bean & Kale Penne
 
 ![Vegan Giant Bean & Kale Penne](../assets/images/vegan-giant-bean-&-kale-penne.png)

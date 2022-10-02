@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Jojo's Biscuits
 
 ![Jojo's Biscuits](../assets/images/jojo's-biscuits.jpg)

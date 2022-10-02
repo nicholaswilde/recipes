@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Russian Tea Cakes
 
 ![Russian Tea Cakes](../assets/images/russian-tea-cakes.jpg)

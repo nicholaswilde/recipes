@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Lentil Fajita Tacos with Zhoug Crema
 
 ![Lentil Fajita Tacos with Zhoug Crema](../assets/images/lentil-fajita-tacos-with-zhoug-crema.png)

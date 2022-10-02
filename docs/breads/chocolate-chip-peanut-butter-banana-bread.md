@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Chocolate Chip Peanut Butter Banana Bread
 
 ![Chocolate Chip Peanut Butter Banana Bread](../assets/images/chocolate-chip-peanut-butter-banana-bread.jpg)

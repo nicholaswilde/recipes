@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :champagne: Ina Garten's Perfect Vinaigrette
 
 ![Ina Garten's Perfect Vinaigrette](../assets/images/ina-garten's-perfect-vinaigrette.jpg)

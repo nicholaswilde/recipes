@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Classic Tartar Sauce
 
 ![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Melomakarona
 
 ![Melomakarona](../assets/images/melomakarona.jpg)

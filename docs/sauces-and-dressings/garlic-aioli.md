@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :garlic: Garlic Aioli
 
 ![Garlic Aioli](../assets/images/garlic-aioli.jpg)

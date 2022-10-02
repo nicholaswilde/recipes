@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Corn & Hatch Chile Cupcakes with Honey Buttercream
 
 ![Corn & Hatch Chile Cupcakes with Honey Buttercream](../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png)

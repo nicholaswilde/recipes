@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Grated Vegetable Shortening
 
 ![Grated Vegetable Shortening](../assets/images/grated-vegetable-shortening.png)

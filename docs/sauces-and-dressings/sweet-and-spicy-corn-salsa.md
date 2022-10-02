@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :corn: Sweet-and-Spicy Corn Salsa
 
 ![Sweet-and-Spicy Corn Salsa](../assets/images/sweet-and-spicy-corn-salsa.jpg)

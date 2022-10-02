@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Crème Fraîche
 
 ![Crème Fraîche](../assets/images/crème-fraîche.jpg)

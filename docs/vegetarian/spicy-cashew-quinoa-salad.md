@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Spicy Cashew Quinoa Salad
 
 ![Spicy Cashew Quinoa Salad](../assets/images/spicy-cashew-quinoa-salad.png)

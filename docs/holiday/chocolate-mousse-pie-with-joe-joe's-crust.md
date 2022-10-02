@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Chocolate Mousse Pie with Joe-Joe's Crust
 
 ![Chocolate Mousse Pie with Joe-Joe's Crust](../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :rice: Brazilian Rice
 
 ![Brazilian Rice](../assets/images/brazilian-rice.jpg)

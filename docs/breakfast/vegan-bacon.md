@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :bacon: Vegan Bacon
 
 ![Vegan Bacon](../assets/images/vegan-bacon.jpg)

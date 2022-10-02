@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chestnut: Almond Extract
 
 ![Almond Extract](../../assets/images/almond-extract.png)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Dry Roasted Peanuts
 
 ![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg)

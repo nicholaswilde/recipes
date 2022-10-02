@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :ramen: Cool and Spicy Noodle Salad
 
 ![Cool and Spicy Noodle Salad](../assets/images/cool-and-spicy-noodle-salad.png)

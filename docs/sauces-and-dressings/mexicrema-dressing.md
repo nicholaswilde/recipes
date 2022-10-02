@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mexicrema Dressing
 
 ![Mexicrema Dressing](../assets/images/mexicrema-dressing.jpg)

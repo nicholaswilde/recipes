@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :egg: Hollandaise
 
 ![Hollandaise](../../assets/images/hollandaise.jpg)

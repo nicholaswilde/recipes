@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Vegetable Casserole
 
 ![Vegetable Casserole](../assets/images/vegetable-casserole.jpg)

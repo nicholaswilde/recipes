@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mushroom Rice Burgers
 
 ![Mushroom Rice Burgers](../assets/images/mushroom-rice-burgers.jpg)

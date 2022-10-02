@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Hummus
 
 ![Hummus](../assets/images/hummus.jpg)

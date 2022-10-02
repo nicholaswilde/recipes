@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Gordon Ramsay's Spicy Sausage Rice
 
 ![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg)

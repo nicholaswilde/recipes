@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :custard: Banana Pudding
 
 ![Banana Pudding](../assets/images/banana-pudding.jpg)

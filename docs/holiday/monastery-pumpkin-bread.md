@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :bread: Monastery Pumpkin Bread
 
 ![Monastery Pumpkin Bread](../assets/images/monastery-pumpkin-bread.jpg)

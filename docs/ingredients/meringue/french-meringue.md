@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # French Meringue
 
 ![French Meringue](../../assets/images/french-meringue.jpg)

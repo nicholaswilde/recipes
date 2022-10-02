@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :bread: Cinnamon Streusel Bread
 
 ![Cinnamon Streusel Bread](../assets/images/cinnamon-streusel-bread.png)

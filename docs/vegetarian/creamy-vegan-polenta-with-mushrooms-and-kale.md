@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :corn: Creamy Vegan Polenta with Mushrooms & Kale
 
 ![Creamy Vegan Polenta with Mushrooms and Kale](../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg)

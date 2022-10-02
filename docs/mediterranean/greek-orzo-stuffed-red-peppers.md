@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Greek Orzo Stuffed Red Peppers
 
 ![Greek Orzo Stuffed Red Peppers](../assets/images/greek-orzo-stuffed-red-peppers.jpg)

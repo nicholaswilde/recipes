@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cupcake: Morning Muffin In a Mug
 
 ![Morning Muffin In a Mug](../assets/images/morning-muffin-in-a-mug.png)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :honey_pot: Honey Mustard Dipping Sauce
 
 ![Honey Mustard Dipping Sauce](../assets/images/honey-mustard-dipping-sauce.jpg)

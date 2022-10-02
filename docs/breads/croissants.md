@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Croissants
 
 ![Croissants](../assets/images/croissants.png)

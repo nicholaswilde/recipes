@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🧁 Mom's Buttercream Frosting
 
 ![Mom's Buttercream Frosting](../assets/images/mom's-buttercream-frosting.jpg)

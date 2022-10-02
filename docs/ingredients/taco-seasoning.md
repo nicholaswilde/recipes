@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Taco Seasoning
 
 ![Taco Seasoning](../assets/images/taco-seasoning.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cowboy Quinoa Bake
 
 ![Cowboy Quinoa Bake](../assets/images/cowboy-quinoa-bake.png)

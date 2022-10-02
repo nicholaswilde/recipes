@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # French Fruit Tart
 
 ![French Fruit Tart](../assets/images/french-fruit-tart.jpg)

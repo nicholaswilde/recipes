@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cake: Vegan Strawberry Frosting
 
 ![Vegan Strawberry Frosting](../assets/images/vegan-strawberry-frosting.jpg)

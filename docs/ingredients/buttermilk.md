@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Buttermilk
 
 ![Buttermilk](../assets/images/buttermilk.jpg)

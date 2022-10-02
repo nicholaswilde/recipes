@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Pumpkin Cheesecake
 
 ![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.jpg)

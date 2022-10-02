@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Breakfast Potatoes
 
 ![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg)

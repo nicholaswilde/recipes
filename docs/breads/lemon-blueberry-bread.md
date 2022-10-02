@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Lemon Blueberry Bread
 
 ![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.jpg)

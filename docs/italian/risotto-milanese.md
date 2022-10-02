@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :ear_of_rice: Risotto Milanese
 
 ![Risotto Milanese](../assets/images/risotto-milanese.jpg)

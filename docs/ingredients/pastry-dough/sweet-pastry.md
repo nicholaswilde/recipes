@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Sweet Pastry
 
 ![Sweet Pastry](../../assets/images/sweet-pastry.png)

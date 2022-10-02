@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :broccoli: Lemon Garlic Cauliflower Rice
 
 ![Lemon Garlic Cauliflower Rice](../assets/images/lemon-garlic-cauliflower-rice.png)

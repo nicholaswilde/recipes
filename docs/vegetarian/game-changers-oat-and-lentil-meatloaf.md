@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Game Changers Oat and Lentil Meatloaf
 
 ![Game Changers Oat and Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg)

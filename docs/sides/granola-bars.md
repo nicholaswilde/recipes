@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Granola Bars
 
 ![Granola Bars](../assets/images/granola-bars.jpg)

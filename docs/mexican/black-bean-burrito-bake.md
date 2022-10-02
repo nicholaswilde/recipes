@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Black Bean Burrito Bake
 
 ![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.jpg)

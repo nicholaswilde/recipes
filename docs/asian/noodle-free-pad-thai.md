@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Noodle-Free Pad Thai
 
 ![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg)

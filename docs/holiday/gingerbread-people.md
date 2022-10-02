@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :snowman: Gingerbread People
 
 ![Gingerbread People](../assets/images/gingerbread-people.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :glass_of_milk: Béchamel
 
 ![Béchamel](../../assets/images/béchamel.png)

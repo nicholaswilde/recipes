@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Fall Turkey Chili With Pumpkin
 
 ![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png)

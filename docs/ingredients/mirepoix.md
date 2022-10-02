@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :leafy_green: Mirepoix
 
 ![Mirepoix](../assets/images/mirepoix.jpg)

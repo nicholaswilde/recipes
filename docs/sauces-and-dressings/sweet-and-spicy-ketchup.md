@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sweet-and-Spicy Ketchup
 
 ![Sweet-and-Spicy Ketchup](../assets/images/sweet-and-spicy-ketchup.jpg)

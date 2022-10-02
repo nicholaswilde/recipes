@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :peanuts: Peanut Butter Frosting
 
 ![Peanut Butter Frosting](../assets/images/peanut-butter-frosting.jpg)

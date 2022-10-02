@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Crispy Chicken-less Sliders
 
 ![Crispy Chicken-less Sliders](../assets/images/crispy-chicken-less-sliders.png)

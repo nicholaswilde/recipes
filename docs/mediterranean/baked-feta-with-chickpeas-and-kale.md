@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Baked Feta with Chickpeas and Kale
 
 ![Baked Feta with Chickpeas and Kale](../assets/images/baked-feta-with-chickpeas-and-kale.jpg)

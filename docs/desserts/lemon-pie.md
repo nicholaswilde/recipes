@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Lemon Pie
 
 ![Lemon Pie](../assets/images/lemon-pie.jpg)

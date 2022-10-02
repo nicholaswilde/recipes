@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Tiny Mini Kisses Peanut Blossoms
 
 ![Tiny Mini Kisses Peanut Blossoms](../assets/images/tiny-mini-kisses-peanut-blossoms.jpg)

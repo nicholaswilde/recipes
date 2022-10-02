@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # English Toffee
 
 ![English Toffee](../assets/images/english-toffee.jpg)

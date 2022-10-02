@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Spaghetti Sauce
 
 ![Spaghetti Sauce](../assets/images/spaghetti-sauce.jpg)

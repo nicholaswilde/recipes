@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Chipotle Breakfast Tacos
 
 ![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :butter: Garlic-Parsley Basting Butter
 
 ![Garlic-Parsley Basting Butter](../assets/images/garlic-parsley-basting-butter.jpg)

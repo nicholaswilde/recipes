@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Honey Beer Bread
 
 ![Honey Beer Bread](../assets/images/honey-beer-bread.jpg)

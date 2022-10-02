@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Jalapeño Corn Pudding
 
 ![Jalapeño Corn Pudding](../assets/images/jalapeño-corn-pudding.jpg)

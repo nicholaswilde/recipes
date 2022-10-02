@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :strawberry: Single Jar of Fruit Jam
 
 ![Single Jar of Fruit Jam](../assets/images/single-jar-of-fruit-jam.jpg)

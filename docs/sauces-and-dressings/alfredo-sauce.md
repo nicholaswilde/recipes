@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Alfredo Sauce
 
 ![Alfredo Sauce](../assets/images/alfredo-sauce.jpg)

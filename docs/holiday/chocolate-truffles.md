@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Chocolate Truffles
 
 ![Chocolate Truffles](../assets/images/chocolate-truffles.jpg)

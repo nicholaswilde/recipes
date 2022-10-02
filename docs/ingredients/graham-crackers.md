@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Graham Crackers
 
 ![Graham Crackers](../assets/images/graham-crackers.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :rice: Homemade Ranch Dip
 
 ![Homemade Ranch Dip](../assets/images/homemade-ranch-dip.jpg)

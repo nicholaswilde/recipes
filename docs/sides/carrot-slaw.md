@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :carrot: Carrot Slaw
 
 ![Carrot Slaw](../assets/images/carrot-slaw.png)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Pickled Red Onions
 
 ![Pickled Red Onions](../assets/images/pickled-red-onions.jpg)

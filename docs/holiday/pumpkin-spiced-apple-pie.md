@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Pumpkin Spiced Apple Pie
 
 ![Pumpkin Spiced Apple Pie](../assets/images/pumpkin-spiced-apple-pie.jpg)

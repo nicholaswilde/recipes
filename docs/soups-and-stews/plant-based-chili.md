@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Plant-Based Chili
 
 ![Plant-Based Chili](../assets/images/plant-based-chili.jpg)

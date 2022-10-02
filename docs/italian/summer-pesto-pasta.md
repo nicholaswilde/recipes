@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Summer Pesto Pasta
 
 ![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pancakes: Whole Wheat Pancakes
 
 ![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.jpg)

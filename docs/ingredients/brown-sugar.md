@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Brown Sugar
 
 ![Brown Sugar](../assets/images/brown-sugar.jpg)

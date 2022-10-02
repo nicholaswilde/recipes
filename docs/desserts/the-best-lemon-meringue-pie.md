@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: The Best Lemon Meringue Pie
 
 ![The Best Lemon Meringue Pie](../assets/images/the-best-lemon-meringue-pie.png)

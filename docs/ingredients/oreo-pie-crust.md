@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Oreo Pie Crust
 
 ![Oreo Pie Crust](../assets/images/oreo-pie-crust.jpg)

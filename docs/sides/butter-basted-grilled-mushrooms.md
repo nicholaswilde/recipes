@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :mushroom: Butter-Basted Grilled Mushrooms
 
 ![Butter-Basted Grilled Mushrooms](../assets/images/butter-basted-grilled-mushrooms.jpg)

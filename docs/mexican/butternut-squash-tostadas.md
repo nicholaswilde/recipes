@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Butternut Squash Tostadas
 
 ![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.jpg)

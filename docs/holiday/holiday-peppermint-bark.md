@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :candy: Holiday Peppermint Bark
 
 ![Holiday Peppermint Bark](../assets/images/holiday-peppermint-bark.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mediterranean Pasta Salad
 
 ![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg)

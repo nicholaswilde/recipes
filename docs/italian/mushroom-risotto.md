@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :mushroom: Mushroom Risotto
 
 ![Mushroom Risotto](../assets/images/mushroom-risotto.jpg)

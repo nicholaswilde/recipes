@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Veggie Cassola
 
 ![Veggie Cassola](../assets/images/veggie-cassola.jpg)

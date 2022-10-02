@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Caprese Risoni
 
 ![Caprese Risoni](../assets/images/caprese-risoni.jpg)

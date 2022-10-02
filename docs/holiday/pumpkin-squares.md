@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :jack_o_lantern: Pumpkin Squares
 
 ![Pumpkin Squares](../assets/images/pumpkin-squares.jpg)

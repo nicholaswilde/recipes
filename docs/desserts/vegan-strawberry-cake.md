@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cake: Vegan Strawberry Cake
 
 ![Vegan Strawberry Cake](../assets/images/vegan-strawberry-cake.jpg)

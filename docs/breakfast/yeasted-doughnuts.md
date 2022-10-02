@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :doughnut: Yeasted Doughnuts
 
 ![Yeasted Doughnuts](../assets/images/yeasted-doughnuts.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :crown: Royal Icing
 
 ![Royal Icing](../assets/images/royal-icing.png)

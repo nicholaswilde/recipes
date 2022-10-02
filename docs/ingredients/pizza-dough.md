@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pizza: Pizza Dough
 
 ![Pizza Dough](../assets/images/pizza-dough.jpg)

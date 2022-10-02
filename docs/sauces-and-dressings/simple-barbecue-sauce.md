@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Simple Barbecue Sauce
 
 ![Simple Barbecue Sauce](../assets/images/simple-barbecue-sauce.jpg)

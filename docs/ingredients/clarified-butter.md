@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :butter: Clarified Butter
 
 ![Clarified Butter](../assets/images/clarified-butter.jpg)

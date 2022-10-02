@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :tomato: Tomate
 
 ![Tomate](../../assets/images/tomate.jpg)

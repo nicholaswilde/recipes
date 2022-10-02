@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mayonnaise
 
 ![Mayonnaise](../assets/images/mayonnaise.jpg)

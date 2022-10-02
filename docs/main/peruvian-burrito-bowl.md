@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Peruvian Burrito Bowl
 
 ![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg)

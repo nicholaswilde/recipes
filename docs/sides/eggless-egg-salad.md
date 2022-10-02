@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Eggless Egg Salad
 
 ![Eggless Egg Salad](../assets/images/eggless-egg-salad.jpg)

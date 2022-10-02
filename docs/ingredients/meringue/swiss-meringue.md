@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Swiss Meringue
 
 ![Swiss Meringue](../../assets/images/swiss-meringue.jpg)

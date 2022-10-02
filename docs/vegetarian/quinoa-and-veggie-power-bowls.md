@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Quinoa and Veggie Power Bowls
 
 ![Quinoa and Veggie Power Bowls](../assets/images/quinoa-and-veggie-power-bowls.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Strawberry Shortcakes
 
 ![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg)

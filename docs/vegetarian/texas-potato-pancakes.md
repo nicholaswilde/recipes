@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Texas Potato Pancakes
 
 ![Texas Potato Pancakes](../assets/images/texas-potato-pancakes.jpg)

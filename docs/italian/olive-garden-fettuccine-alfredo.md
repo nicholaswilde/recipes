@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Olive Garden Fettuccine Alfredo
 
 ![Olive Garden Fettuccine Alfredo](../assets/images/olive-garden-fettuccine-alfredo.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Pasta with Burst Cherry Tomato Sauce
 
 ![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg)

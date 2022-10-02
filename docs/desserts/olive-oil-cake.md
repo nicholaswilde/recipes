@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Olive Oil Cake
 
 ![Olive Oil Cake](../assets/images/olive-oil-cake.jpg)

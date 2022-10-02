@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :broccoli: Lemony Broccoli Salad with Chickpeas & Feta
 
 ![Lemony Broccoli Salad with Chickpeas & Feta](../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg)

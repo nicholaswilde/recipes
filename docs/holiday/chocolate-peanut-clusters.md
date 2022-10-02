@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Chocolate-Peanut Clusters
 
 ![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.jpg)

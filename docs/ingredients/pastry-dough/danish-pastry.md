@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Danish Pastry
 
 ![Danish Pastry](../../assets/images/danish-pastry.png)

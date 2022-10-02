@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :peanuts: Peanut Dipping Sauce
 
 ![Peanut Dipping Sauce](../assets/images/peanut-dipping-sauce.jpg)

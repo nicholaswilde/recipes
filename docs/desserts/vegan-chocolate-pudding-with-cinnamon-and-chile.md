@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :custard: Vegan Chocolate Pudding with Cinnamon & Chile
 
 ![Vegan Chocolate Pudding With Cinnamon and Chile](../assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.jpg)

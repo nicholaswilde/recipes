@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :rice: Pectin
 
 ![Pectin](../assets/images/pectin.jpg)

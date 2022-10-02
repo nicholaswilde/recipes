@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Jeanie's Falafel
 
 ![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg)

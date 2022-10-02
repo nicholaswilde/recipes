@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 1-Bowl Vegan Gluten-Free Carrot Cake
 
 ![1-Bowl Vegan Gluten-Free Carrot Cake](../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :tomato: Sun-Dried Tomato Pesto
 
 ![Sun-Dried Tomato Pesto](../assets/images/sun-dried-tomato-pesto.jpg)

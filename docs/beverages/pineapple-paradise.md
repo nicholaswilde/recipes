@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Pineapple Paradise
 
 ![Pineapple Paradise](../assets/images/pineapple-paradise.png)

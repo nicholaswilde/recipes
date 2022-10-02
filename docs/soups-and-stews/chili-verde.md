@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Chili Verde
 
 ![Chili Verde](../assets/images/chili-verde.jpg)

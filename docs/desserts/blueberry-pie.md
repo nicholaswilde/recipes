@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Blueberry Pie
 
 ![Blueberry Pie](../assets/images/blueberry-pie.jpg)

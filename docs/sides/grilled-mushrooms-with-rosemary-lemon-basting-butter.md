@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :mushroom: Grilled Mushrooms with Rosemary-Lemon Basting Butter
 
 ![Grilled Mushrooms with Rosemary-Lemon Basting Butter](../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Black Bean & Butternut Soup
 
 ![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.jpg)

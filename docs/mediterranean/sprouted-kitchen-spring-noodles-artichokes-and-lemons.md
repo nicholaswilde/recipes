@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sprouted Kitchen Spring Noodles Artichokes and Lemons
 
 ![Sprouted Kitchen Spring Noodles Artichokes and Lemons](../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg)

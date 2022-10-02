@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cranberry Orange Bread
 
 ![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.jpg)

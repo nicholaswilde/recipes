@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Balsamic Lentil Sauté
 
 ![Balsamic Lentil Sauté](../assets/images/balsamic-lentil-sauté.png)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :carrot: Velouté
 
 ![Velouté](../../assets/images/velouté.jpg)

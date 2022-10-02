@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 4 Ingredient Chocolate Mousse
 
 ![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.jpg)

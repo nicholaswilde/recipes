@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :rice: Lemon Garlic Orzo with Roasted Veggies
 
 ![Lemon Garlic Orzo with Roasted Veggies](../assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg)

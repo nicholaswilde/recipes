@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Disney's Frozen Pineapple Treat
 
 ![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.jpg)

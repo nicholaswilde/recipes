@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cake: Eggnog Cake
 
 ![Eggnog Cake](../assets/images/eggnog-cake.jpg)

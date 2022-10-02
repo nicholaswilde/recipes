@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Pineapple Upside Down Cake
 
 ![Pineapple Upside Down Cake](../assets/images/pineapple-upside-down-cake.png)

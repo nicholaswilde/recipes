@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Everyday Chinese Vegetable Stir-Fry
 
 ![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg)

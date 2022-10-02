@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tzatziki Sauce
 
 ![Tzatziki Sauce](../assets/images/tzatziki-sauce.jpg)

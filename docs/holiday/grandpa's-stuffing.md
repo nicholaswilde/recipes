@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stuffed_flatbread: Grandpa's Stuffing
 
 ![Grandpa's Stuffing](../assets/images/grandpa's-stuffing.jpg)

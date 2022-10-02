@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Taquito-lada Casserole
 
 ![Taquito-lada Casserole](../assets/images/taquito-lada-casserole.png)

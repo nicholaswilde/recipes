@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cindy's Banana Overnight Oats
 
 ![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.jpg)

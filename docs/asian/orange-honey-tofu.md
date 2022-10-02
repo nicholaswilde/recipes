@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :orange_circle: Orange Honey Tofu
 
 ![Orange Honey Tofu](../assets/images/orange-honey-tofu.jpg)

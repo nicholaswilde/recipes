@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pancakes: Crunch French Toast
 
 ![Crunch French Toast](../assets/images/crunch-french-toast.jpg)

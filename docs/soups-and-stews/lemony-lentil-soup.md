@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Lemony Lentil Soup
 
 ![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.jpg)

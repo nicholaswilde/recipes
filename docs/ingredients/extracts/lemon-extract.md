@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :lemon: Lemon Extract
 
 ![Lemon Extract](../../assets/images/lemon-extract.jpg)

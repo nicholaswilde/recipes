@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # America's Test Kitchen Best Baked Sweet Potatoes
 
 ![America's Test Kitchen Best Baked Sweet Potatoes](../assets/images/america's-test-kitchen-best-baked-sweet-potatoes.jpg)

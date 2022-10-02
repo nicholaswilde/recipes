@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :broccoli: Classic Broccoli Cheddar Soup
 
 ![Classic Broccoli Cheddar Soup](../assets/images/classic-broccoli-cheddar-soup.jpg)

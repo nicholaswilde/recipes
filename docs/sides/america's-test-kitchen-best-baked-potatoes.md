@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # America's Test Kitchen Best Baked Potatoes
 
 ![America's Test Kitchen Best Baked Potatoes](../assets/images/america's-test-kitchen-best-baked-potatoes.jpg)

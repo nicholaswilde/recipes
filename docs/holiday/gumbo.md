@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Gumbo
 
 ![Gumbo](../assets/images/gumbo.jpg)

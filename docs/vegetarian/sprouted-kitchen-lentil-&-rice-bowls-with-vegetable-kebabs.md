@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
 | :timer_clock: Total Time |

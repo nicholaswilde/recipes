@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :potato: Pommes Dauphine
 
 ![Pommes Dauphine](../assets/images/pommes-dauphine.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chestnut: Holiday Nuts
 
 ![Holiday Nuts](../assets/images/holiday-nuts.jpg)

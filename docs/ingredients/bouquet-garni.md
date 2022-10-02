@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :herb: Bouquet Garni
 
 ![Bouquet Garni](../assets/images/bouquet-garni.png)

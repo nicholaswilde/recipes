@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Crème Pâtissière
 
 ![Crème Pâtissière](../assets/images/crème-pâtissière.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # New York Times' Classic Marinara Sauce
 
 ![New York Times' Classic Marinara Sauce](../assets/images/new-york-times'-classic-marinara-sauce.jpg)

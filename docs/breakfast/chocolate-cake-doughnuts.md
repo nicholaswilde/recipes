@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :doughnut: Chocolate Cake Doughnuts
 
 ![Chocolate Cake Doughnuts](../assets/images/chocolate-cake-doughnuts.jpg)

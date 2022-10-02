@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Choco Taco
 
 ![Choco Taco](../assets/images/choco-taco.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats Recipe by Tasty
 
 ![Cinnamon Toast Crunch Baked Oats Recipe by Tasty](../assets/images/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.jpg)

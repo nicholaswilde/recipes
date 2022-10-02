@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Bourbon Grilled Cheese
 
 ![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.jpg)

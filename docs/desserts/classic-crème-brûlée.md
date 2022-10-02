@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Classic Crème Brûlée
 
 ![Classic Crème Brûlée](../assets/images/classic-crème-brûlée.jpg)

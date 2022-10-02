@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Butterfinger Ice Cream Pie
 
 ![Butterfinger Ice Cream Pie](../assets/images/butterfinger-ice-cream-pie.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :herb: Asparagus Purée
 
 ![Asparagus Purée](../assets/images/asparagus-purée.png)

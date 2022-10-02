@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :mushroom: Kickstarter Garlic Mushrooms
 
 ![Kickstarter Garlic Mushrooms](../assets/images/kickstarter-garlic-mushrooms.jpg)

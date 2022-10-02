@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Buffalo Sauce
 
 ![Buffalo Sauce](../assets/images/buffalo-sauce.jpg)

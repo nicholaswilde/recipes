@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Eggplant Stew
 
 ![Eggplant Stew](../assets/images/eggplant-stew.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pancakes: Jamie Oliver Blueberry Smoothie Pancakes
 
 ![Jamie Oliver Blueberry Smoothie Pancakes](../assets/images/jamie-oliver-blueberry-smoothie-pancakes.jpg)

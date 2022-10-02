@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Scrambled Chickpea and Spinach Pitas
 
 ![Scrambled Chickpea and Spinach Pitas](../assets/images/scrambled-chickpea-and-spinach-pitas.png)

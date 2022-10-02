@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :orange_circle: Unexpected Cheddar Cheese Ball
 
 ![Unexpected Cheddar Cheese Ball](../assets/images/unexpected-cheddar-cheese-ball.png)

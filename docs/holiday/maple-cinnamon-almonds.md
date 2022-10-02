@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chestnut: Maple-Cinnamon Almonds
 
 ![Maple-Cinnamon Almonds](../assets/images/maple-cinnamon-almonds.jpg)

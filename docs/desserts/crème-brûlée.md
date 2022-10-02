@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :egg: Crème Brûlée
 
 ![Crème Brûlée](../assets/images/crème-brûlée.jpg)

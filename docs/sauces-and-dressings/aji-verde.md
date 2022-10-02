@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Aji Verde
 
 ![Aji Verde](../assets/images/aji-verde.jpg)

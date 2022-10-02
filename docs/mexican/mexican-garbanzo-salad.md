@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Mexican Garbanzo Salad
 
 ![Mexican Garbanzo Salad](../assets/images/mexican-garbanzo-salad.jpg)

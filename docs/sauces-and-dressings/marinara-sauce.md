@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :tomato: Marinara Sauce
 
 ![Marinara Sauce](../assets/images/marinara-sauce.jpg)

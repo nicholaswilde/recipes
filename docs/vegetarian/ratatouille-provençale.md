@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :eggplant: Ratatouille Provençale
 
 ![Ratatouille Provençale](../assets/images/ratatouille-provençale.jpg)

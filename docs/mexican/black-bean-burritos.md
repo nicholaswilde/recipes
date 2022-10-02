@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Black Bean Burritos
 
 ![Black Bean Burritos](../assets/images/black-bean-burritos.jpg)

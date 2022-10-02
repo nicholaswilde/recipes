@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cashew Chipotle Ranch Dressing
 
 ![Cashew Chipotle Ranch Dressing](../assets/images/cashew-chipotle-ranch-dressing.jpg)

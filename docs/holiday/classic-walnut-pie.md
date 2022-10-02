@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Classic Walnut Pie
 
 ![Classic Walnut Pie](../assets/images/classic-walnut-pie.jpg)

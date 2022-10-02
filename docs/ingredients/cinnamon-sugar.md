@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cinnamon Sugar
 
 ![Cinnamon Sugar](../assets/images/cinnamon-sugar.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Parmesan Pull-Apart Bread
 
 ![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg)

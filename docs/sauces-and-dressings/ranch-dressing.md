@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Ranch Dressing
 
 ![Ranch Dressing](../assets/images/ranch-dressing.jpg)

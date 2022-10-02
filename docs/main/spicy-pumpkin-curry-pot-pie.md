@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Spicy Pumpkin Curry Pot Pie
 
 ![Spicy Pumpkin Curry Pot Pie](../assets/images/spicy-pumpkin-curry-pot-pie.png)

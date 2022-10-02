@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 1-Bowl Carrot Apple Muffins
 
 ![1-Bowl Carrot Apple Muffins](../assets/images/1-bowl-carrot-apple-muffins.jpg)

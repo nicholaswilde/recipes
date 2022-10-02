@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cheesy Black Bean Quesadilla Triangles
 
 ![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg)

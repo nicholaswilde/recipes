@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Potato Tacos
 
 ![Potato Tacos](../assets/images/potato-tacos.jpg)

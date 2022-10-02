@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Flavored Sugars
 
 ![Flavored Sugars](../assets/images/flavored-sugars.jpg)

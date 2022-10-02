@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Lentil Meatballs with Lemon Pesto
 
 ![Lentil Meatballs with Lemon Pesto](../assets/images/lentil-meatballs-with-lemon-pesto.jpg)

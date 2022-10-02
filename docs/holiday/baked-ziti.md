@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🍝 Baked Ziti
 
 ![Baked Ziti](../assets/images/baked-ziti.jpg)

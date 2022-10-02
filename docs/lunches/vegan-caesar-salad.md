@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Vegan Caesar Salad
 
 ![Vegan Caesar Salad](../assets/images/vegan-caesar-salad.png)

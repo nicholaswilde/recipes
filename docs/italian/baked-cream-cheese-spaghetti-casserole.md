@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Baked Cream Cheese Spaghetti Casserole
 
 ![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Harissa Olive Oil-Braised Chickpeas and Fennel
 
 ![Harissa Olive Oil-Braised Chickpeas and Fennel](../assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png)

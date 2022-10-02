@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :carrot: Parsnip Purée
 
 ![Parsnip Purée](../assets/images/parsnip-purée.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :candy: Hawaiian Toffee
 
 ![Hawaiian Toffee](../assets/images/hawaiian-toffee.jpg)

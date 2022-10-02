@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Olde Tyme Lemonade
 
 ![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.jpg)

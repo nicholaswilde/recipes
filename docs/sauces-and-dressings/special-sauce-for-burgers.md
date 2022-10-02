@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Special Sauce for Burgers
 
 ![Special Sauce for Burgers](../assets/images/special-sauce-for-burgers.jpg)

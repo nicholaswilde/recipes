@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Peanut Brittle
 
 ![Peanut Brittle](../assets/images/peanut-brittle.jpg)

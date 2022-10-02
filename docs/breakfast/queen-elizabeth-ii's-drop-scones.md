@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pancakes: Queen Elizabeth II's Drop Scones
 
 ![Queen Elizabeth II's Drop Scones](../assets/images/queen-elizabeth-ii's-drop-scones.jpg)

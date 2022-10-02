@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :pie: Hot Water Crust
 
 ![Hot Water Crust](../../assets/images/hot-water-crust.jpg)

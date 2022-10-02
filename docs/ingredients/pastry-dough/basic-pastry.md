@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Basic Pastry
 
 ![Basic Pastry](../../assets/images/basic-pastry.jpg)

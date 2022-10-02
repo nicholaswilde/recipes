@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :honey_pot: Honey Mustard Vinaigrette
 
 ![Honey Mustard Vinaigrette](../assets/images/honey-mustard-vinaigrette.jpg)

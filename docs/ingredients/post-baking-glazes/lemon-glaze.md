@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :lemon: Lemon Glaze
 
 ![Lemon Glaze](../../assets/images/lemon-glaze.jpg)

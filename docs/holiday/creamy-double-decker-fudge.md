@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Creamy Double Decker Fudge
 
 ![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.jpg)

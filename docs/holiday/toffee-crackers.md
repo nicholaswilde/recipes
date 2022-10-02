@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Toffee Crackers
 
 ![Toffee Crackers](../assets/images/toffee-crackers.jpg)

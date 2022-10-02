@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :stew: Vegetarian Paella
 
 ![Vegetarian Paella](../assets/images/vegetarian-paella.jpg)

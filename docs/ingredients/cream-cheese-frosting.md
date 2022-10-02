@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :birthday: Cream Cheese Frosting
 
 ![Cream Cheese Frosting](../assets/images/cream-cheese-frosting.png)

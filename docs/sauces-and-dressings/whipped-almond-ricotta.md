@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chestnut: Whipped Almond Ricotta
 
 ![Whipped Almond Ricotta](../assets/images/whipped-almond-ricotta.jpg)

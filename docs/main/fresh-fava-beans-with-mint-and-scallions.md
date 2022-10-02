@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Fresh Fava Beans with Mint and Scallions
 
 ![Fresh Fava Beans with Mint and Scallions](../assets/images/fresh-fava-beans-with-mint-and-scallions.jpg)

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Chocolate Ganache Glaze or Frosting
 
 ![Chocolate Ganache Glaze or Frosting](../assets/images/chocolate-ganache-glaze-or-frosting.jpg)

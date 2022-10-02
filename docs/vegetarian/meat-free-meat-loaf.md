@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Meat-Free Meat Loaf
 
 ![Meat-Free Meat Loaf](../assets/images/meat-free-meat-loaf.jpg)

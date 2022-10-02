@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tomato Baked White Beans with Lemon Parsley Oil
 
 ![Tomato Baked White Beans with Lemon Parsley Oil](../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg)

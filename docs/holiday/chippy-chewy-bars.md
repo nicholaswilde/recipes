@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Chippy Chewy Bars
 
 ![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.jpg)

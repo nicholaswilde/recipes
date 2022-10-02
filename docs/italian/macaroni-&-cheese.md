@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Macaroni & Cheese
 
 ![Macaroni & Cheese](../assets/images/macaroni-&-cheese.jpg)
