@@ -14,7 +14,7 @@ comments: true
 - :ear_of_rice: 1.25 cups all-purpose flour
 - :egg: 4 eggs
 - :glass_of_milk: 1 cup milk
-- :ice: 1.25 cups cold water
+- :ice_cube: 1.25 cups cold water
 - :butter: 3 Tbsp butter
 - :icecream: 1 tsp vanilla
 - :custard: some cinnamon (optional)
