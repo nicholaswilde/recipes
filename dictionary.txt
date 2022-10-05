@@ -371,3 +371,5 @@ sambal
 soto
 Lumpia
 Kroket
+Nasi
+Goreng
