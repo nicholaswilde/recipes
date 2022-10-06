@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :dumpling: Empanadas
 
 ![Empanadas](../assets/images/empanadas.jpg)
