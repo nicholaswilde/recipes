@@ -41,4 +41,4 @@ peanuts prior to serving.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/cool-spicy-noodle-salad>
+- Trader Joe's
