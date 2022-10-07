@@ -47,4 +47,4 @@ Decorate with cream cheese frosting.
 
 - Tante Myrna Seccia
 
-[1]: <../ingredients/cream-cheese-frosting.md>
+[1]: <../ingredients/frosting/cream-cheese-frosting.md>

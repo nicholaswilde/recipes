@@ -72,4 +72,4 @@ Beat in softened cream cheese, butter, and vanilla, then beat in sugar.
 
 Spread then chill.
 
-[1]: <../ingredients/cream-cheese-frosting.md>
+[1]: <../ingredients/frosting/cream-cheese-frosting.md>

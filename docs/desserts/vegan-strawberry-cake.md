@@ -72,5 +72,5 @@ room temperature).
 
 - <https://minimalistbaker.com/vegan-strawberry-cake-gf/>
 
-[1]: <../ingredients/vegan-strawberry-frosting.md>
-[2]: <../ingredients/chocolate-ganache-glaze-or-frosting.md>
+[1]: <../ingredients/frosting/vegan-strawberry-frosting.md>
+[2]: <../ingredients/frosting/chocolate-ganache-glaze-or-frosting.md>
