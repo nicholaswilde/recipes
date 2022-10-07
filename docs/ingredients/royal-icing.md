@@ -27,16 +27,18 @@ comments: true
 - :bowl_with_spoon: 1 medium bowl
 - :thermometer: 1 thermometer
 
-This decorative icing dries hard like plaster and is pure white unless tinted with food coloring. Mad with a bit less
-sugar, it is still spreadable (or you can add a little water); otherwise, it is stiff enough to pipe and makes beautiful
-filigree, lace, tiny dots, and string work on wedding cakes. The icing is mostly sugar and not especially delicious,
-though it is used to ice certain traditional wedding (and other) cakes. Our advice is to use it only when decoration is
-more important than taste and/or in very small quantities. Royal icing is usually made by beating confectioners' sugar
-into raw egg whites, above. In this version, the egg whites are heated to 160°F as a safeguard against salmonella
-bacteria; it is a simple process. We also give a variation made with powdered egg whites that does not require heat.
-Avoid making Royal icing on humid days. Be sure that any container or utensils that comes in contact with the icing is
-grease-free, and do not store the icing in a plastic container. While working, keep the bowl of icing covered with a
-damp dish towel and, when not piping, cover the tip of the icing bag as well to prevent drying.
+!!! note
+    This decorative icing dries hard like plaster and is pure white unless tinted with food coloring. Mad with a bit
+    less sugar, it is still spreadable (or you can add a little water); otherwise, it is stiff enough to pipe and makes
+    beautiful filigree, lace, tiny dots, and string work on wedding cakes. The icing is mostly sugar and not especially
+    delicious, though it is used to ice certain traditional wedding (and other) cakes. Our advice is to use it only
+    when decoration is more important than taste and/or in very small quantities. Royal icing is usually made by
+    beating confectioners' sugar into raw egg whites, above. In this version, the egg whites are heated to 160°F as a
+    safeguard against salmonella bacteria; it is a simple process. We also give a variation made with powdered egg
+    whites that does not require heat. Avoid making Royal icing on humid days. Be sure that any container or utensils
+    that comes in contact with the icing is grease-free, and do not store the icing in a plastic container. While
+    working, keep the bowl of icing covered with a damp dish towel and, when not piping, cover the tip of the icing
+    bag as well to prevent drying.
 
 ## :egg: Instructions - Fresh Egg Whites
 
