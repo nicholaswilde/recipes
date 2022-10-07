@@ -3,7 +3,7 @@ comments: true
 ---
 # :peanuts: Peanut Butter Frosting
 
-![Peanut Butter Frosting](../assets/images/peanut-butter-frosting.jpg)
+![Peanut Butter Frosting](../../assets/images/peanut-butter-frosting.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

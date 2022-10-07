@@ -3,7 +3,7 @@ comments: true
 ---
 # :birthday: Cream Cheese Frosting
 
-![Cream Cheese Frosting](../assets/images/cream-cheese-frosting.png)
+![Cream Cheese Frosting](../../assets/images/cream-cheese-frosting.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

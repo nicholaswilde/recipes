@@ -209,6 +209,13 @@ nav:
           - Mint Extract: ingredients/extracts/mint-extract.md
           - Orange Extract: ingredients/extracts/orange-extract.md
           - Vanilla Extract: ingredients/extracts/vanilla-extract.md
+      - Frosting:
+          - Chocolate Ganache Glaze or Frosting: ingredients/frosting/chocolate-ganache-glaze-or-frosting.md
+          - Classic Vanilla Buttercream Frosting: ingredients/frosting/classic-vanilla-buttercream-frosting.md
+          - Cream Cheese Frosting: ingredients/frosting/cream-cheese-frosting.md
+          - Mom's Buttercream Frosting: ingredients/frosting/mom's-buttercream-frosting.md
+          - Peanut Butter Frosting: ingredients/frosting/peanut-butter-frosting.md
+          - Vegan Strawberry Frosting: ingredients/frosting/vegan-strawberry-frosting.md
       - Meringue:
           - French Meringue: ingredients/meringue/french-meringue.md
           - Italian Meringue: ingredients/meringue/italian-meringue.md
@@ -230,13 +237,10 @@ nav:
       - Bouquet Garni: ingredients/bouquet-garni.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
-      - Chocolate Ganache Glaze or Frosting: ingredients/chocolate-ganache-glaze-or-frosting.md
       - Cinnamon Sugar: ingredients/cinnamon-sugar.md
       - Clarified Butter: ingredients/clarified-butter.md
-      - Classic Vanilla Buttercream Frosting: ingredients/classic-vanilla-buttercream-frosting.md
       - Crème Fraîche: ingredients/crème-fraîche.md
       - Crème Pâtissière: ingredients/crème-pâtissière.md
-      - Cream Cheese Frosting: ingredients/cream-cheese-frosting.md
       - Crispy Baked Tofu Nuggets: ingredients/crispy-baked-tofu-nuggets.md
       - Crumb Crust: ingredients/crumb-crust.md
       - Dry Roasted Peanuts: ingredients/dry-roasted-peanuts.md
@@ -250,12 +254,10 @@ nav:
       - Lemon Curd: ingredients/lemon-curd.md
       - Mirepoix: ingredients/mirepoix.md
       - Miso Nori Paste: ingredients/miso-nori-paste.md
-      - Mom's Buttercream Frosting: ingredients/mom's-buttercream-frosting.md
       - Oreo Pie Crust: ingredients/oreo-pie-crust.md
       - Pan-Fried Tofu: ingredients/pan-fried-tofu.md
       - Pasta: ingredients/pasta.md
       - Peanut Butter: ingredients/peanut-butter.md
-      - Peanut Butter Frosting: ingredients/peanut-butter-frosting.md
       - Pectin: ingredients/pectin.md
       - Pizza Dough: ingredients/pizza-dough.md
       - Ranch Dressing Mix: ingredients/ranch-dressing-mix.md
@@ -266,7 +268,6 @@ nav:
       - Sweetened Condensed Milk: ingredients/sweetened-condensed-milk.md
       - Taco Seasoning: ingredients/taco-seasoning.md
       - Vegan Marshmallows: ingredients/vegan-marshmallows.md
-      - Vegan Strawberry Frosting: ingredients/vegan-strawberry-frosting.md
       - Vegetable Broth: ingredients/vegetable-broth.md
       - Yogurt: ingredients/yogurt.md
   - Italian:

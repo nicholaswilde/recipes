@@ -1,9 +1,9 @@
 ---
 comments: true
 ---
-# 🧁 Mom's Buttercream Frosting
+# :cupcake: Mom's Buttercream Frosting
 
-![Mom's Buttercream Frosting](../assets/images/mom's-buttercream-frosting.jpg)
+![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -47,3 +47,7 @@ Replace milk with 1/4 cup orange juice. Add 1 tsp orange zest.
 ### :rice: Sour Cream
 
 Add 3 Tbsp sour cream, beat an extra minute.
+
+## :link: Source
+
+- Mom Patricia Farmer

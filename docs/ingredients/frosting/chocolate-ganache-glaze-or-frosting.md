@@ -3,7 +3,7 @@ comments: true
 ---
 # :chocolate_bar: Chocolate Ganache Glaze or Frosting
 
-![Chocolate Ganache Glaze or Frosting](../assets/images/chocolate-ganache-glaze-or-frosting.jpg)
+![Chocolate Ganache Glaze or Frosting](../../assets/images/chocolate-ganache-glaze-or-frosting.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

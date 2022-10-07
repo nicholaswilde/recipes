@@ -3,7 +3,7 @@ comments: true
 ---
 # :cake: Vegan Strawberry Frosting
 
-![Vegan Strawberry Frosting](../assets/images/vegan-strawberry-frosting.jpg)
+![Vegan Strawberry Frosting](../../assets/images/vegan-strawberry-frosting.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
