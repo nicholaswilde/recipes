@@ -9,7 +9,7 @@ comments: true
 |:----------------------------------:|:-----------------------: |
 | 10-12 | 54 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Filling
 
 - :pie: 1 [Crumb Crust][1] made with graham crackers
 - :pie: 1 Nut Crust made with pecans (alternative)
@@ -22,6 +22,9 @@ comments: true
 - :egg: 2 large eggs
 - :egg: 2 large egg yolks
 - :jack_o_lantern: 1 cup canned or cooked pumpkin
+
+## :salt: Ingredients - Topping
+
 - :rice: 0.5 cup sour cream
 - :maple_leaf: 0.33 cup light brown sugar
 - :icecream: 1 tsp vanilla
@@ -63,8 +66,8 @@ addition: 2 large eggs and 2 large egg yolks Add and beat in just until mixed 1 
 
 Scrape the batter into the crust and smooth the top. Set the pan on a baking sheet. Bake for 30 minutes at 350°F, then
 reduce the oven temperature to 325°F and bake until the edges of the cheesecake are puffed but the center still looks
-moist and jiggles when the pan is tapped, 10 to 15 minutes more. Meanwhile, whisk together until well blended: 1/2 cups
-sour cream , 1/3 cup packed light brown sugar, and 1 teaspoon vanilla
+moist and jiggles when the pan is tapped, 10 to 15 minutes more. Meanwhile, to make the topping, whisk together until
+well blended: 1/2 cups sour cream , 1/3 cup packed light brown sugar, and 1 teaspoon vanilla
 
 ### Step 7
 
