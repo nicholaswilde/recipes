@@ -393,3 +393,5 @@ Crêpe
 Marnier
 Crêpes
 crêpes
+tartlet
+tartlets
