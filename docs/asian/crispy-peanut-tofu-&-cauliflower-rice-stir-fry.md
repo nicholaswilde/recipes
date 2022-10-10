@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 12 oz extra firm tofu
+- :custard: 12 oz extra firm tofu
 - :peanuts: 2.5 Tbsp [peanut butter][1]
 - :takeout_box: 1 Tbsp sesame oil
 - :takeout_box: 2 Tbsp tamari
