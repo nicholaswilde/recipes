@@ -397,3 +397,5 @@ tartlet
 tartlets
 Whoopie
 za'atar
+Pillowy
+foldings
