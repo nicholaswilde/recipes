@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Oreo Pie Crust
+# :pie: Oreo Pie Crust
 
 ![Oreo Pie Crust](../assets/images/oreo-pie-crust.jpg)
 
@@ -11,8 +11,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 24 cookies Oreos
-- 4 Tbsp butter
+- :cookie: 24 cookies [Oreos][1]
+- :butter: 4 Tbsp butter
 
 ## :cooking: Cookware
 
@@ -47,3 +47,5 @@ the refrigerator for about 30 minutes to allow the butter to harden and set the 
 ## :link: Source
 
 - <https://southernbite.com/homemade-oreo-pie-crust/>
+
+[1]: <../cookies-and-bars/oreos.md>
