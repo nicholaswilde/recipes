@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :gear: Development
 
 ## :smiley: Emoji
