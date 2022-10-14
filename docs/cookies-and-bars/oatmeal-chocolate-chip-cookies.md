@@ -1,4 +1,7 @@
-# Oatmeal Chocolate Chip Cookies
+---
+comments: true
+---
+# :cookie: Oatmeal Chocolate Chip Cookies
 
 ![Oatmeal Chocolate Chip Cookies](../assets/images/oatmeal-chocolate-chip-cookies.jpg)
 
@@ -25,7 +28,11 @@
 
 ### Step 1
 
+Preheat oven to 365°F.
+
+### Step 2
+
 Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, flour, baking soda, rolled oats, and
-chocolate chips and bake for 8 to 10 minutes at 365°F.
+chocolate chips and bake for 8 to 10 minutes.
 
 [1]: <../ingredients/brown-sugar.md>
