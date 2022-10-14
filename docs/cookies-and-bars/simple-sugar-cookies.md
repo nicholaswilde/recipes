@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Simple Sugar Cookies
 
 ![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg)
