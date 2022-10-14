@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Pasta with Burst Cherry Tomato Sauce
+# :spaghetti: Pasta with Burst Cherry Tomato Sauce
 
 ![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg)
 
@@ -9,33 +9,31 @@ comments: true
 |:----------------------------------:|:-----------------------: |
 | 4 | 50 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Topping
 
-### Topping
-
-- 2 Tbsp olive oil
+- :olive: 2 Tbsp olive oil
 - 0.25 cup capers
-- 1 fillet anchovy
-- 0.5 cup panko
-- 0.13 tsp salt
-- 0.13 tsp pepper
-- 0.25 cup parsley
-- 1 tsp lemon zest
+- :fish: 1 fillet [anchovy][1]
+- :bread: 0.5 cup panko
+- :salt: 0.13 tsp salt
+- :salt: 0.13 tsp pepper
+- :herb: 0.25 cup parsley
+- :lemon: 1 tsp lemon zest
 
-### Pasta
+## :salt: Ingredients - Pasta
 
-- 4 qt water
-- 0.25 cup olive oil
-- 2 cloves garlic
-- 2 fillets anchovy
-- 2 lbs cherry tomatoes
-- 1.5 tsp salt
-- 0.25 tsp sugar
-- 0.13 tsp red pepper flakes
-- 12 oz penne rigate, orecchiette, campanelle, or other short pasta
-- 1 Tbsp salt
-- 2 Tbsp butter
-- 1 cup basil
+- :droplet: 4 qt water
+- :olive: 0.25 cup olive oil
+- :garlic: 2 cloves garlic
+- :fish: 2 fillets [anchovy][1]
+- :tomato: 2 lbs cherry tomatoes
+- :salt: 1.5 tsp salt
+- :candy: 0.25 tsp sugar
+- :hot_pepper: 0.13 tsp red pepper flakes
+- :spaghetti: 12 oz penne rigate, orecchiette, campanelle, or other short pasta
+- :salt: 1 Tbsp salt
+- :butter: 2 Tbsp butter
+- :herb: 1 cup basil
 
 ## :cooking: Cookware
 
@@ -57,17 +55,17 @@ comments: true
 ### Step 1
 
 FOR THE TOPPING: Heat olive oil in 10-inch skillet over medium heat until shimmering. Add capers and rinsed, patted dry,
-and minced anchovy and cook, stirring frequently, until capers have darkened and shrunk, 3 to 4 minutes. Using slotted
-spoon, transfer caper mixture to paper towel–lined plate; set aside. Leave oil in skillet and return skillet to medium
-heat. Add panko, salt, and pepper to skillet and cook, stirring constantly, until panko is golden brown, 4 to 5 minutes.
-Transfer panko to medium bowl. Stir in parsley, lemon zest, and reserved caper mixture.
+and minced [anchovy][1] and cook, stirring frequently, until capers have darkened and shrunk, 3 to 4 minutes. Using
+slotted spoon, transfer caper mixture to paper towel–lined plate; set aside. Leave oil in skillet and return skillet to
+medium heat. Add panko, salt, and pepper to skillet and cook, stirring constantly, until panko is golden brown, 4 to 5
+minutes. Transfer panko to medium bowl. Stir in parsley, lemon zest, and reserved caper mixture.
 
 ### Step 2
 
 FOR THE PASTA: Bring 4 quarts water to boil in large pot. While water is coming to boil, heat olive oil, thinly sliced
-garlic, and anchovy in large saucepan over medium heat. Cook, stirring occasionally, until anchovies break down and
-garlic is lightly browned, 4 to 5 minutes. Add cherry tomatoes, salt, sugar, and red pepper flakes to saucepan and stir
-to combine. Cover and increase heat to medium-high. Cook, without stirring, for 10 minutes.
+garlic, and [anchovy][1] in large saucepan over medium heat. Cook, stirring occasionally, until anchovies break down
+and garlic is lightly browned, 4 to 5 minutes. Add cherry tomatoes, salt, sugar, and red pepper flakes to saucepan and
+stir to combine. Cover and increase heat to medium-high. Cook, without stirring, for 10 minutes.
 
 ### Step 3
 
@@ -80,3 +78,5 @@ basil and season with salt to taste. Serve, passing topping separately.
 ## :link: Source
 
 - <https://www.americastestkitchen.com/recipes/12833-pasta-with-burst-cherry-tomato-sauce-and-fried-caper-crumbs>
+
+[1]: <../reference/equivalents-and-substitutes.md#anchovy>
