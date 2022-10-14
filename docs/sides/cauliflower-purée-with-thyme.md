@@ -45,4 +45,4 @@ Taste and adjust seasoning with salt and freshly ground pepper. Add thyme and pr
 
 - <https://www.onceuponachef.com/recipes/cauliflower-puree.html>
 
-[^1]: Original recipe callse for 3 Tbsp of butter.
+[^1]: Original recipe calls for 3 Tbsp of butter.
