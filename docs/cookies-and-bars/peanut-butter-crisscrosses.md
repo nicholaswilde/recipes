@@ -1,4 +1,7 @@
-# Peanut Butter Crisscrosses
+---
+comments: true
+---
+# :peanuts: Peanut Butter Crisscrosses
 
 ![Peanut Butter Crisscrosses](../assets/images/peanut-butter-crisscrosses.jpg)
 
