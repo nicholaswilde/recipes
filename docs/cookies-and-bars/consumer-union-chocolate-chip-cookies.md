@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Consumer Union Chocolate Chip Cookies
 
 ![Consumer Union Chocolate Chip Cookies](../assets/images/consumer-union-chocolate-chip-cookies.jpg)

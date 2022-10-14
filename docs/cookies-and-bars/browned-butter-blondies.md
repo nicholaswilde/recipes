@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Browned Butter Blondies
 
 ![Browned Butter Blondies](../assets/images/browned-butter-blondies.jpg)

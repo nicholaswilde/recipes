@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 
 ![Cook's Illustrated Perfect Chocolate Chip Cookies](../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg)

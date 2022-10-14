@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Chocolate Scotcheroos
 
 ![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg)

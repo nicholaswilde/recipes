@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Millionaire's Shortbread
 
 ![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread.png)

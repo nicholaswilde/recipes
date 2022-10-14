@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Glazed Lemon Bars
 
 ![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.jpg)

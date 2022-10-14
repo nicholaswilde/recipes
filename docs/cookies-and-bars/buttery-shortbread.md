@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Buttery Shortbread
 
 ![Buttery Shortbread](../assets/images/buttery-shortbread.jpg)
