@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :chocolate_bar: Chocolate Peanut Butter Cheesecake Bars
 
 ![Chocolate Peanut Butter Cheesecake Bars](../assets/images/chocolate-peanut-butter-cheesecake-bars.png)
@@ -23,7 +26,7 @@
 ### Topping
 
 - :cheese_wedge: 1 18-oz brick cream cheese
-- :peanuts: 0.5 cup peanut butter
+- :peanuts: 0.5 cup [peanut butter][1]
 - :candy: 0.5 cup sugar
 - :egg: 2 eggs
 
@@ -61,8 +64,8 @@ make the topping.
 
 ### Step 5
 
-In a mixing bowl, add the cream cheese, 1/2 cup peanut butter, and 1/2 cup sugar. Whip the mixture to combine, then mix
-in the remaining 2 eggs. Mix until smooth.
+In a mixing bowl, add the cream cheese, 1/2 cup [peanut butter][1], and 1/2 cup sugar. Whip the mixture to combine,
+then mix in the remaining 2 eggs. Mix until smooth.
 
 ### Step 6
 
@@ -85,3 +88,5 @@ Allow the bars to fully cool and set for 1 hour before cutting and serving.
 ## :link: Source
 
 - <https://www.tastingtable.com/789612/chocolate-peanut-butter-cheesecake-bars-recipe/>
+
+[1]: <../ingredients/peanut-butter.md>

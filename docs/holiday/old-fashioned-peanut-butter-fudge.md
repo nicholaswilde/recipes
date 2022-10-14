@@ -12,7 +12,7 @@ comments: true
 ## :salt: Ingredients
 
 - :chocolate_bar: 14 oz white chocolate chips
-- :peanuts: 2 cups creamy peanut butter
+- :peanuts: 2 cups [creamy peanut butter][2]
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
 - :icecream: 0.5 tsp vanilla
 - :salt: 0.25 tsp salt
@@ -42,7 +42,7 @@ intervals to avoid scorching.
 
 ### Step 4
 
-In a larger mixing bowl, combine the melted white chocolate and peanut butter, and mix until smooth.
+In a larger mixing bowl, combine the melted white chocolate and [peanut butter][2], and mix until smooth.
 
 ### Step 5
 
@@ -71,3 +71,4 @@ Once set, slice into 24 pieces and enjoy!
 - <https://www.tastingtable.com/774933/old-fashioned-peanut-butter-fudge-recipe/>
 
 [1]: <../ingredients/sweetened-condensed-milk.md>
+[2]: <../ingredients/peanut-butter.md>
