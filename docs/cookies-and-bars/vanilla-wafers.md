@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Vanilla Wafers
 
 ![Vanilla Wafers](../assets/images/vanilla-wafers.jpg)
