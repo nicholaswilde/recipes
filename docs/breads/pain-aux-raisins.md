@@ -24,7 +24,7 @@ comments: true
 
 - :candy: 50 g caster sugar
 - :egg: 2 large egg yolks
-- :ear_of_corn: 20 g cornflour
+- :corn: 20 g cornflour
 - :glass_of_milk: 250 ml whole milk
 - :icecream: 0.5 pod vanilla
 
