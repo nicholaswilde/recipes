@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # King Arthur's Snickerdoodles
 
 ![King Arthur's Snickerdoodles](../assets/images/king-arthur's-snickerdoodles.jpg)

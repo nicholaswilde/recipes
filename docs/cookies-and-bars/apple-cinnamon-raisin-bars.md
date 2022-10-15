@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Apple Cinnamon Raisin Bars
 
 ![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.jpg)

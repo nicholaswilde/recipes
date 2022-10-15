@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Oatmeal Cream Pies
 
 ![Oatmeal Cream Pies](../assets/images/oatmeal-cream-pies.png)

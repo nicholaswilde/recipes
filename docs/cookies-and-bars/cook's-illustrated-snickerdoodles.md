@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cook's Illustrated Snickerdoodles
 
 ![Cook's Illustrated Snickerdoodles](../assets/images/cook's-illustrated-snickerdoodles.jpg)

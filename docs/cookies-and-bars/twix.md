@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :cookie: Twix
 
 ![Twix](../assets/images/twix.jpg)

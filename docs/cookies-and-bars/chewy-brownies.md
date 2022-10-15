@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Chewy Brownies
 
 ![Chewy Brownies](../assets/images/chewy-brownies.jpg)

@@ -1,4 +1,7 @@
-# The New York Times Chocolate Chip Cookies
+---
+comments: true
+---
+# :cookie: The New York Times Chocolate Chip Cookies
 
 ![The New York Times Chocolate Chip Cookies](../assets/images/the-new-york-times-chocolate-chip-cookies.jpg)
 

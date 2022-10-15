@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :peanuts: Broma Bakery Chewy Peanut Butter Cookies
 
 ![Broma Bakery Chewy Peanut Butter Cookies](../assets/images/broma-bakery-chewy-peanut-butter-cookies.png)
@@ -9,9 +12,9 @@
 ## :salt: Ingredients
 
 - :butter: 0.25 cup unsalted butter
-- :peanuts: 0.75 cup creamy peanut butter
+- :peanuts: 0.75 cup [creamy peanut butter][1]
 - :candy: 0.25 cup white sugar
-- :maple_leaf: 1 cup brown sugar
+- :maple_leaf: 1 cup [brown sugar][2]
 - :egg: 1 egg
 - :egg: 1 egg yolk
 - :icecream: 2 tsp vanilla
@@ -34,8 +37,8 @@ Preheat the oven to 350°F and line a baking sheet with parchment paper. Set asi
 
 ### Step 2
 
-In a stand mixer fit with the paddle attachment, beat the softened unsalted butter, creamy peanut butter, white sugar
-and brown sugar together until light and fluffy.
+In a stand mixer fit with the paddle attachment, beat the softened unsalted butter, [creamy peanut butter][1], white sugar
+and [brown sugar][2] together until light and fluffy.
 
 ### Step 3
 
@@ -56,3 +59,6 @@ cool completely before eating!
 ## :link: Source
 
 - <https://bromabakery.com/chewy-peanut-butter-cookies/>
+
+[1]: <../ingredients/peanut-butter.md>
+[2]: <../ingredients/brown-sugar.md>

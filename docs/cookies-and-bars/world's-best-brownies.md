@@ -1,4 +1,7 @@
-# World's Best Brownies
+---
+comments: true
+---
+# : chocolate_bar: World's Best Brownies
 
 ![World's Best Brownies](../assets/images/world's-best-brownies.jpg)
 
@@ -8,15 +11,15 @@
 
 ## :salt: Ingredients
 
-- 245 g dark chocolate
-- 200 g butter
-- 175 g granulated sugar
-- 125 g [light brown sugar][1]
-- 4 large eggs
-- 2 tsp vanilla
-- 115 g all-purpose flour
-- 1 pinch salt
-- 100 g dark chocolate chunks (optional)
+- :chocolate_bar: 245 g dark chocolate
+- :butter: 200 g butter
+- :candy: 175 g granulated sugar
+- :maple_leaf: 125 g [light brown sugar][1]
+- :egg: 4 large eggs
+- :icecream: 2 tsp vanilla
+- :ear_of_rice: 115 g all-purpose flour
+- :salt: 1 pinch salt
+- :chocolate_bar: 100 g dark chocolate chunks (optional)
 
 ## :cooking: Cookware
 

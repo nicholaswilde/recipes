@@ -1,4 +1,7 @@
-# Preposterously Peanut Butter Cup Cookies
+---
+comments: true
+---
+# :cookie: Preposterously Peanut Butter Cup Cookies
 
 ![Preposterously Peanut Butter Cup Cookies](../assets/images/preposterously-peanut-butter-cup-cookies.png)
 

@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- :peanuts: 0.5 cup smooth peanut butter
+- :peanuts: 0.5 cup [smooth peanut butter][1]
 - :bagel: 3 oz cold cream cheese
 - :butter: 1.5 Tbsp unsalted butter, softened
 - :icecream: 1 tsp vanilla
@@ -32,8 +32,8 @@ room temperature.
 
 ### Step 1
 
-Beat in a medium bowl just until blended smooth peanut butter, cold cream cheese, unsalted butter, softened, vanilla,
-cream or milk, and bourbon or rum (optional).
+Beat in a medium bowl just until blended [smooth peanut butter][1], cold cream cheese, unsalted butter, softened,
+vanilla, cream or milk, and bourbon or rum (optional).
 
 ### Step 2
 
@@ -46,3 +46,5 @@ If the frosting is too stiff, add, but do not overbeat cream, milk, or liquor or
 ## :link: Source
 
 - Joy of Cooking
+
+[1]: <../../ingredients/peanut-butter.md>

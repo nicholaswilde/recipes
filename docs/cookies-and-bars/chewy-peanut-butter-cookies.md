@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :peanuts: Chewy Peanut Butter Cookies
 
 ![Chewy Peanut Butter Cookies](../assets/images/chewy-peanut-butter-cookies.jpg)
