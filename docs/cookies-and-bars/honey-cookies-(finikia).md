@@ -13,7 +13,7 @@ comments: true
 
 - :orange_circle: 0.75 cup orange juice
 - :honey_pot: 0.75 cup honey
-- :lemon: 0.5 lemon lemon juice
+- :lemon: 0.5 lemon juice
 - :lemon: 1 Tbsp lemon zest
 - :icecream: 1 tsp vanilla
 - :tumbler_glass: 1.5 oz cognac or rum
@@ -48,7 +48,7 @@ In a separate bowl, combine baking soda, baking powder, all-purpose flour, clove
 
 ### Step 4
 
-Slowly add dry ingredient mix ture to wet ingredients and stir until just combined. Do not over mix or knead, as the
+Slowly add dry ingredient mixture to wet ingredients and stir until just combined. Do not over mix or knead, as the
 dough will become tough.
 
 ### Step 5
