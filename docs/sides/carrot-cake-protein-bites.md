@@ -1,23 +1,23 @@
 ---
 comments: true
 ---
-# Carrot Cake Protein Bites
+# :carrot: Carrot Cake Protein Bites
 
 ![Carrot Cake Protein Bites](../assets/images/carrot-cake-protein-bites.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 20 | 0 minutes |
+| 20 | 10 minutes |
 
 ## :salt: Ingredients
 
-- 1 cup rolled oats
-- 2 cups soft pitted dates
-- 0.75 cup finely grated carrot
-- 1 cup unsweetened shredded coconut
-- 1 tsp cinnamon
-- 0.25 tsp nutmeg
-- 0.25 tsp salt
+- :ear_of_rice: 1 cup rolled oats
+- :grapes: 2 cups soft pitted dates
+- :carrot: 0.75 cup finely grated carrot
+- :coconut: 1 cup unsweetened shredded coconut
+- :custard: 1 tsp cinnamon
+- :chestnut: 0.25 tsp nutmeg
+- :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
 
