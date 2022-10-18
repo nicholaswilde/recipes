@@ -18,7 +18,7 @@ comments: true
 - :custard: 1.5 tsp cinnamon
 - :salt: 1.5 tsp salt
 - :oil_drum: 18 Tbsp canola oil
-- :red_apple: 0.75 cup applesauce
+- :apple: 0.75 cup applesauce
 - :pineapple: 0.75 cup crushed pineapple, juice included
 - :icecream: 1 Tbsp vanilla
 - :carrot: 3 cups grated carrots
