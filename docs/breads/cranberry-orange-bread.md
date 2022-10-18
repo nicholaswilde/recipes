@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Cranberry Orange Bread
+# :bread: Cranberry Orange Bread
 
 ![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.jpg)
 
@@ -11,18 +11,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 cup whole wheat pastry flour
-- 1 cup sugar
+- :ear_of_rice: 2 cup whole wheat pastry flour
+- :candy: 1 cup sugar
 - 1 tsp baking powder
-- 0.25 tsp baking soda
-- 1 tsp salt
-- 6 Tbsp melted butter
-- 1 egg
-- 0.67 cup [buttermilk][1]
-- 1 large orange zest
-- 0.33 cup orange juice
-- 1 cup cranberries
-- 0.5 cup almonds
+- :cup_with_straw: 0.25 tsp baking soda
+- :salt: 1 tsp salt
+- :butter: 6 Tbsp melted butter
+- :egg: 1 egg
+- :glass_of_milk: 0.67 cup [buttermilk][1]
+- :orange_circle: 1 large orange zest
+- :orange_circle: 0.33 cup orange juice
+- :red_circle: 1 cup cranberries
+- :chestnut: 0.5 cup almonds
 
 ## :cooking: Cookware
 
