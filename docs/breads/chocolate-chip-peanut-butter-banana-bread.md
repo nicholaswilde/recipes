@@ -14,7 +14,7 @@ comments: true
 - some cooking spray
 - :ear_of_rice: 1 cup whole wheat flour
 - :maple_leaf: 0.75 cup [light brown sugar][3]
-- 1 tsp baking powder
+- :dash: 1 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
 - :banana: 2 mashed bananas
