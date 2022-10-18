@@ -148,6 +148,18 @@ sudo apt install webp
 dwebp file.webp -o file.png
 ```
 
+### :frame_with_picture: [`avif`][14]
+
+Used to convert images from `avif` to `jpg`.
+
+```shell title="Installation"
+brew install imagemagick
+```
+
+```shell title="Usage"
+magick -quality 75 input.avif output.jpg
+```
+
 ### :robot: [Task][8]
 
 Used to automate tasks.
@@ -295,3 +307,4 @@ Website used to search for emoji contexts.
 [11]: <https://github.com/cooklang/cook-import>
 [12]: <https://github.com/nicholaswilde/cooklang-micro>
 [13]: <https://micro-editor.github.io/>
+[14]: <https://avif.io/blog/articles/avif-to-jpg/#cliconverter>
