@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Chocolate Chip Peanut Butter Banana Bread
+# :bread: Chocolate Chip Peanut Butter Banana Bread
 
 ![Chocolate Chip Peanut Butter Banana Bread](../assets/images/chocolate-chip-peanut-butter-banana-bread.jpg)
 
@@ -12,17 +12,17 @@ comments: true
 ## :salt: Ingredients
 
 - some cooking spray
-- 1 cup whole wheat flour
-- 0.75 cup [light brown sugar][3]
+- :ear_of_rice: 1 cup whole wheat flour
+- :maple_leaf: 0.75 cup [light brown sugar][3]
 - 1 tsp baking powder
-- 0.5 tsp baking soda
-- 0.25 tsp salt
-- 2 mashed bananas
-- 0.33 cup [peanut butter][1]
-- 0.25 cup [fat-free plain yogurt][2]
-- 1 egg
-- 2 Tbsp canola oil
-- 0.75 cup semi-sweet chocolate chips
+- :cup_with_straw: 0.5 tsp baking soda
+- :salt: 0.25 tsp salt
+- :banana: 2 mashed bananas
+- :peanuts: 0.33 cup [peanut butter][1]
+- :microbe: 0.25 cup [fat-free plain yogurt][2]
+- :egg: 1 egg
+- :oil_drum: 2 Tbsp canola oil
+- :chocolate_bar: 0.75 cup semi-sweet chocolate chips
 
 ## :cooking: Cookware
 
