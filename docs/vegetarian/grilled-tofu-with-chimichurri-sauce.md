@@ -11,9 +11,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- :garlic: 1 tsp granulated garlic
-- :hot_pepper: 0.5 tsp smoked paprika
-- :herb: 0.5 tsp cumin
+- :garlic: 2 tsp granulated garlic[^1]
+- :hot_pepper: 1 tsp smoked paprika[^1]
+- :herb: 1 tsp cumin[^1]
 - :butter: 1 lb extra-firm tofu
 - :olive: some olive oil
 - :salt: some salt
@@ -32,8 +32,8 @@ To prepare the rub, combine the granulated garlic, smoked paprika and cumin; mix
 
 ### Step 2
 
-Cut the extra-firm tofu in half lengthwise to make two "steaks" abut 3/4 inch thick. Brush lightly with olive oil. Press
-the rub into both sides of the tofu steaks.  Just before grilling, season the tofu steak with kosher salt.
+Cut the extra-firm tofu in half lengthwise to make multiple "steaks" abut 3/8 inch thick. Brush lightly with olive oil.
+Press the rub into both sides of the tofu steaks.  Just before grilling, season the tofu steak with kosher salt.
 
 ### Step 3
 
@@ -50,3 +50,4 @@ Sear the second side and continue grilling until done, about 3 to 5 minutes.  Cu
 - <https://www.thesoyfoodscouncil.com/post/grilled-tofu-with-chimichurri-sauce-and-grilled-garlic-bread-2>
 
 [1]: <../sauces-and-dressings/the-soyfoods-council-chimichurri.md>
+[^1]: Original recipe calls for half of the ingredient
