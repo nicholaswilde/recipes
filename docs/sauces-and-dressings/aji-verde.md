@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Aji Verde
+# :hot_pepper: Aji Verde
 
 ![Aji Verde](../assets/images/aji-verde.jpg)
 
@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup [mayonnaise][1]
-- 1 jalapeño chile
-- 3 Tbsp cilantro
-- 2 Tbsp cotija cheese
-- 2 Tbsp lime juice
-- 1 Tbsp huacatay paste
-- 1 clove garlic
+- :egg: 0.5 cup [mayonnaise][1]
+- :hot_pepper: 1 jalapeño chile
+- :herb: 3 Tbsp cilantro
+- :cheese_wedge: 2 Tbsp cotija cheese
+- :lemon: 2 Tbsp lime juice
+- :herb: 1 Tbsp huacatay paste
+- :garlic: 1 clove garlic
 
 ## :cooking: Cookware
 
