@@ -1,9 +1,9 @@
 ---
 comments: true
 ---
-# :tomato: Aaron Comb's Salsa
+# :tomato: Aaron Combss Salsa
 
-![Aaron Comb's Salsa](../assets/images/aaron-comb's-salsa.jpg)
+![Aaron Comb's Salsa](../assets/images/aaron-combs'-salsa.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -46,8 +46,6 @@ Add salt and then lemon juice to taste. If too salty, add lemon juice. If too ac
 ### Step 5
 
 Add granulated garlic to taste.
-
-### Step 6
 
 !!! note
 
