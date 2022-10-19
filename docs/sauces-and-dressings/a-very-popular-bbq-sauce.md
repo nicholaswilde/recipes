@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# A Very Popular BBQ Sauce
+# :meat_on_bone: A Very Popular BBQ Sauce
 
 ![A Very Popular BBQ Sauce](../assets/images/a-very-popular-bbq-sauce.jpg)
 
@@ -11,15 +11,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.5 cup [brown sugar][1]
-- 1.5 cup ketchup
+- :maple_leaf: 1.5 cup [brown sugar][1]
+- :tomato: 1.5 cup ketchup
 - 0.5 cup red wine vinegar
-- 0.5 cup water
+- :droplet: 0.5 cup water
 - 1 Tbsp Worcestershire sauce
-- 2.5 Tbsp mustard
-- 2 tsp paprika
-- 2 tsp salt
-- 1.5 tsp black pepper
+- :hotdog: 2.5 Tbsp mustard
+- :hot_pepper: 2 tsp paprika
+- :salt: 2 tsp salt
+- :salt: 1.5 tsp black pepper
 - 2 dashes hot pepper sauce
 
 ## :cooking: Cookware
