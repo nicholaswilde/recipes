@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# :tomato: Aaron Combss Salsa
+# :tomato: Aaron Combs' Salsa
 
 ![Aaron Comb's Salsa](../assets/images/aaron-combs'-salsa.jpg)
 
