@@ -172,6 +172,7 @@ frac
 fraîche
 Fraîche
 fresca
+Fresca
 Fuscilli
 fusilli
 gallo
