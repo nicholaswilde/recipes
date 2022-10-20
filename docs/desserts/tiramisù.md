@@ -16,7 +16,7 @@ comments: true
 - :glass_of_milk: 0.75 cup heavy cream
 - :cheese_wedge: 8 oz mascarpone
 - :coffee: 1.75 cups espresso or very strong coffee
-- :tumber_glass: 2 Tbsp rum or cognac
+- :tumbler_glass: 2 Tbsp rum or cognac
 - :chocolate_bar: 2 Tbsp cocoa powder
 - :baguette_bread: 24 [ladyfinger][1]
 - :chocolate_bar: 1.5 oz chocolate (optional)
