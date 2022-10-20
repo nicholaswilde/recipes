@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Vegan Caesar Salad
+# :green_salad: Vegan Caesar Salad
 
 ![Vegan Caesar Salad](../assets/images/vegan-caesar-salad.png)
 
@@ -14,10 +14,7 @@ comments: true
 - 1 can garbanzo beans
 - 1 Tbsp olive oil
 - 1 tsp TJ's vegan chicken-less seasoning salt
-- 0.75 cup raw cashew
-- 3 Tbsp nutritional yeast
-- 0.75 tsp sea salt
-- 1 dash garlic powder
+- 1 [vegan Parmesan cheese][1]
 - 3 Tbsp TJ's Vegan Caesar Dressing
 - some black pepper
 - 1 lemon
@@ -47,10 +44,7 @@ beans with TJ's vegan chicken-less seasoning salt, set aside.
 
 ### Step 4
 
-Prepare vegan "Parmesan cheese": While garbanzo beans are roasting, add raw cashew pieces, nutritional yeast, sea salt,
-and garlic powder to a food processor. Pulse to a fine meal, stopping to scrape down the sides of the bowl as necessary.
-Set aside. (This recipe will yield enough "cheese" to sprinkle on salads, pasta dishes, omelettes...store the leftovers
-in an airtight container in the fridge and it will keep for a couple of weeks.)
+Prepare [vegan Parmesan cheese][1].
 
 ### Step 5
 
@@ -65,3 +59,5 @@ lemon wedges and more dressing on the side.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/vegan-caesar-salad>
+
+[1]: <../ingredients/vegan-parmesan.md>
