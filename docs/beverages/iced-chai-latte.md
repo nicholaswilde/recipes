@@ -9,11 +9,14 @@ comments: true
 |:----------------------------------:|:-----------------------: |
 | 2 | 4 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Whipped Cream
 
 - 0.5 cup heavy cream
 - 2 tsp TJ's Spicy Chai Tea Latte Mix
 - 1 tsp Bourbon Vanilla Extract
+
+## :salt: Ingredients - Chai Iced Latte
+
 - 6 Tbsp TJ's Spicy Chai Tea Latte Mix
 - 0.5 cup hot water
 - 1 cup TJ's Cold Brew Coffee Concentrate
@@ -24,20 +27,20 @@ comments: true
 - 1 hand mixer or stand mixer
 - 1 medium-sized pitcher
 
-## :pencil: Instructions
+## :pencil: Instructions - Whipped Cream
 
 ### Step 1
 
-To make whipped cream: In a large bowl, with a hand mixer or stand mixer combine: 1/2 cup heavy cream, 2 teaspoons TJ's
-Spicy Chai Tea Latte Mix and 1 teaspoon Bourbon Vanilla Extract. Whip until stiff peaks form, about 4 minutes. Set
-aside.
+In a large bowl, with a hand mixer or stand mixer combine: 1/2 cup heavy cream, 2 teaspoons TJ's Spicy Chai Tea Latte
+Mix and 1 teaspoon Bourbon Vanilla Extract. Whip until stiff peaks form, about 4 minutes. Set aside.
+
+## :pencil: Instructions - Chai Iced Latte
 
 ### Step 2
 
-To make chai iced latte: In a medium-sized pitcher, whisk together 6 tablespoons TJ's Spicy Chai Tea Latte Mix and 1/2
-cup hot water until mix completely dissolves. Add 1 cup TJ's Cold Brew Coffee Concentrate to pitcher and stir until
-combined. Serve chilled or pour over ice (we recommend making your own cold brew ice cubes), then top with reserved
-whipped cream.
+In a medium-sized pitcher, whisk together 6 tablespoons TJ's Spicy Chai Tea Latte Mix and 1/2 cup hot water until mix
+completely dissolves. Add 1 cup TJ's Cold Brew Coffee Concentrate to pitcher and stir until combined. Serve chilled or
+pour over ice (we recommend making your own cold brew ice cubes), then top with reserved whipped cream.
 
 ## :link: Source
 
