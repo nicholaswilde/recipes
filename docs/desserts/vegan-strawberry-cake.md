@@ -19,7 +19,7 @@ comments: true
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
 - :strawberry: some [vegan strawberry frosting][1]
-- :icecream: some vanilla frosting
+- :icecream: some [vanilla frosting][3]
 - :chocolate_bar: some [chocolate ganache][2]
 
 ## :cooking: Cookware
@@ -74,3 +74,4 @@ room temperature).
 
 [1]: <../ingredients/frosting/vegan-strawberry-frosting.md>
 [2]: <../ingredients/frosting/chocolate-ganache-glaze-or-frosting.md>
+[3]: <../ingredients/frosting/classic-vanilla-buttercream-frosting.md>
