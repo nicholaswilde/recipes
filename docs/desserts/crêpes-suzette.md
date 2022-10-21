@@ -26,8 +26,8 @@ comments: true
 - :candy: 6 Tbsp sugar
 - :orange_circle: 1 Tbsp orange zest
 - :orange_circle: 0.33 cup orange juice
-- :tumber_glass: 0.25 cup Grand Marnier
-- :tumber_glass: 2 Tbsp cognac
+- :tumbler_glass: 0.25 cup Grand Marnier
+- :tumbler_glass: 2 Tbsp cognac
 
 ## :cooking: Cookware
 
