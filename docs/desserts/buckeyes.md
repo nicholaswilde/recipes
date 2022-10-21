@@ -52,11 +52,11 @@ Return to parchment-lined sheet, remove toothpick, and smooth over hole.
 
 Refrigerate buckeyes until firm, 1 to 2 hours more.
 
-### Step 6
+!!! note "Make Ahead"
 
-Make Ahead: Undipped buckeyes can be made 1 day ahead. Transfer to an airtight container and refrigerate. Dipped
-buckeyes can be made up to 1 month ahead. Freeze individually on baking sheet until firm, then transfer to an airtight
-container and keep frozen.
+    Undipped buckeyes can be made 1 day ahead. Transfer to an airtight container and refrigerate. Dipped
+    buckeyes can be made up to 1 month ahead. Freeze individually on baking sheet until firm, then transfer to an
+    airtight container and keep frozen.
 
 ## :link: Source
 
