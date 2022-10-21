@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Melomakarona
+# :cookie: Melomakarona
 
 ![Melomakarona](../assets/images/melomakarona.jpg)
 
@@ -9,27 +9,33 @@ comments: true
 |:-----------------------: |
 | 1.48 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Dough
 
-- 6.75 cups flour
-- 1.5 tsp baking powder
-- 1 tsp cinnamon
-- 1 tsp salt
-- 0.5 tsp baking soda
-- 0.25 tsp cloves
-- 1 stick butter
-- 1 cup sugar
-- 2 eggs
-- 1.5 cup olive oil
-- 1 cup orange juice
-- 2 tsp orange zest
-- 3 strips orange peel
-- 1.5 cups sugar
-- 1.5 cups honey
-- 1.5 cups water
-- 8 oz finely chipped walnuts
-- 1 tsp cinnamon
-- 0.13 tsp cloves
+- :ear_of_rice: 6.75 cups flour
+- :dash: 1.5 tsp baking powder
+- :custard: 1 tsp cinnamon
+- :salt: 1 tsp salt
+- :cup_with_straw: 0.5 tsp baking soda
+- :four_leaf_clover: 0.25 tsp cloves
+- :butter: 1 stick butter
+- :candy: 1 cup sugar
+- :egg: 2 eggs
+- :olive: 1.5 cup olive oil
+- :orange_circle: 1 cup orange juice
+- :orange_circle: 2 tsp orange zest
+
+## :salt: Ingredients - Honey Syrup
+
+- :orange_circle: 3 strips orange peel
+- :candy: 1.5 cups sugar
+- :honey_pot: 1.5 cups honey
+- :droplet: 1.5 cups water
+
+## :salt: Ingredients - Walnut Topping
+
+- :chestnut: 8 oz finely chopped walnuts
+- :custard: 1 tsp cinnamon
+- :four_leaf_clover: 0.13 tsp cloves
 
 ## :cooking: Cookware
 
@@ -39,7 +45,7 @@ comments: true
 - 1 parchment
 - 1 wire rack
 
-## :pencil: Instructions
+## :pencil: Instructions - Dough
 
 ### Step 1
 
@@ -55,6 +61,8 @@ juice, and orange zest.
 
 Refrigerate for 1 hour or overnight.
 
+## :pencil: Instructions - Honey Syrup
+
 ### Step 4
 
 To make honey syrup, stir together orange peel, 1.5 cups sugar, honey, and water in a tall sauté pan.
@@ -62,6 +70,8 @@ To make honey syrup, stir together orange peel, 1.5 cups sugar, honey, and water
 ### Step 5
 
 Heat to boiling and allow to boil for 1 minute. Remove from heat and let syrup cool completely.
+
+## :pencil: Instructions - Walnut Topping
 
 ### Step 6
 
