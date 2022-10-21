@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# : chocolate_bar: World's Best Brownies
+# :chocolate_bar: World's Best Brownies
 
 ![World's Best Brownies](../assets/images/world's-best-brownies.jpg)
 
