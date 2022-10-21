@@ -14,7 +14,7 @@ comments: true
 - :spaghetti: 1 lb [penne pasta][2]
 - :spaghetti: 2 16-oz jars [marinara sauce][1]
 - :cheese_wedge: 16 oz mozzarella
-- :cheese_wedge: 1 16-oz container ricotta
+- :cheese_wedge: 1 16-oz container [ricotta][3]
 - :cheese_wedge: 1 block Jack cheese
 
 ## :cooking: Cookware
@@ -38,7 +38,7 @@ in a 9 x 13" casserole dish, pour just enough [marinara sauce][1] to coat the bo
 
 ### Step 4
 
-When pasta has cooked, drain and then mix in 1 entire jar of marinara, and mozzarella, ricotta, and Jack cheese,
+When pasta has cooked, drain and then mix in 1 entire jar of marinara, and mozzarella, [ricotta][3], and Jack cheese,
 reserving about 1/2-3/4 cup of mozzarella.
 
 ### Step 5
@@ -51,3 +51,4 @@ Bake covered for 10 minutes, then uncovered for 10 to 15 minutes more, or until 
 
 [1]: <../sauces-and-dressings/marinara-sauce.md>
 [2]: <../reference/equivalents-and-substitutes.md#pasta-water>
+[3]: <../ingredients/ricotta.md>
