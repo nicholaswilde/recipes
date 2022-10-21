@@ -1,29 +1,30 @@
 ---
 comments: true
 ---
-# Peanut Brittle
+# :peanuts: Peanut Brittle
 
 ![Peanut Brittle](../assets/images/peanut-brittle.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 55 minutes |
 
 ## :salt: Ingredients
 
-- 1 cup sugar
-- 0.5 cup corn syrup
-- 0.25 cup water
-- 0.25 tsp salt
-- 1 cup peanuts
-- 2 Tbsp butter
-- 1 tsp baking soda
+- :candy: 1 cup sugar
+- :corn: 0.5 cup corn syrup
+- :droplet: 0.25 cup water
+- :salt: 0.25 tsp salt
+- :peanuts: 1 cup peanuts
+- :butter: 2 Tbsp butter
+- :cup_with_straw: 1 tsp baking soda
 
 ## :cooking: Cookware
 
 - 1 heavy 2-quart saucepan
 - 1 cookie sheet
 - 1 forks
+- 1 candy thermometer
 
 ## :pencil: Instructions
 
