@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Easiest Ever Macaroni & Cheese
+# :spaghetti: Easiest Ever Macaroni & Cheese
 
 ![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.jpg)
 
@@ -11,18 +11,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.5 cups water
-- 1 cup milk
-- 8 oz elbow macaroni
-- 4 oz American cheese (shredded, from deli)
-- 4 oz extra-sharp cheddar
-- 0.5 tsp Dijon mustard
-- 1 pinch cayenne
-- 0.33 cup panko breadcrumbs
-- 1 Tbsp olive oil
-- 0.13 tsp salt
-- 0.13 tsp pepper
-- 2 Tbsp Parmesan
+- :droplet: 1.5 cups water
+- :glass_of_milk: 1 cup milk
+- :spaghetti: 8 oz elbow macaroni
+- :cheese_wedge: 4 oz American cheese (shredded, from deli)
+- :cheese_wedge: 4 oz extra-sharp cheddar
+- :hotdog: 0.5 tsp [Dijon mustard][1]
+- :hot_pepper: 1 pinch cayenne
+- :bread: 0.33 cup panko breadcrumbs
+- :olive: 1 Tbsp olive oil
+- :salt: 0.13 tsp salt
+- :salt: 0.13 tsp pepper
+- :cheese_wedge: 2 Tbsp Parmesan
 
 ## :cooking: Cookware
 
@@ -58,3 +58,5 @@ Off heat, sprinkle Parmesan over panko and stir to combine.
 ### Step 7
 
 Transfer macaroni to serving dish and sprinkle panko mixture over top.
+
+[1]: <../sauces-and-dressings/dijon-mustard.md>

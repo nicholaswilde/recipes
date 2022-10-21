@@ -12,7 +12,7 @@ comments: true
 ## :salt: Ingredients
 
 - :honey_pot: 6 Tbsp honey
-- :hotdog: 0.25 cup Dijon mustard
+- :hotdog: 0.25 cup [Dijon mustard][1]
 - :hot_pepper: some ground red pepper
 
 ## :cooking: Cookware
@@ -23,7 +23,7 @@ comments: true
 
 ### Step 1
 
-Stir together well in a small bowl honey, Dijon mustard, and ground red pepper to taste.
+Stir together well in a small bowl honey, [Dijon mustard][1], and ground red pepper to taste.
 
 ### Step 2
 
@@ -32,3 +32,5 @@ Serve at room temperature. The sauce will keep, covered and refrigerated, for up
 ## :link: Source
 
 - Joy of Cooking
+
+[1]: <./dijon-mustard.md>
