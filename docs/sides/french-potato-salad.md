@@ -18,7 +18,7 @@ comments: true
 - :olive: 0.33 cup olive oil
 - :sake: 3 Tbsp champagne vinegar
 - :garlic: 1 clove garlic
-- :hotdog: 1 Tbsp Dijon mustard
+- :hotdog: 1 Tbsp [Dijon mustard][1]
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
 
@@ -41,7 +41,7 @@ While the potatoes are cooking, chop the parsley, dill, and scallions.
 
 ### Step 3
 
-In a small bowl, mix the olive oil, champagne vinegar, crushed garlic, Dijon mustard, salt, and pepper.
+In a small bowl, mix the olive oil, champagne vinegar, crushed garlic, [Dijon mustard][1], salt, and pepper.
 
 ### Step 4
 
@@ -51,3 +51,5 @@ scallions, and toss with the dressing. Chill the potato salad in the fridge or s
 ## :link: Source
 
 - <https://www.tastingtable.com/821288/french-potato-salad-recipe/>
+
+[1]: <../sauces-and-dressings/dijon-mustard.md>
