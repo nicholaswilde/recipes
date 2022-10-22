@@ -14,7 +14,7 @@ comments: true
 - :butter: 2 lb tofu
 - :herb: 1.5 Tbsp parsley
 - :onion: 0.75 onion
-- :garlic; 2 cloves garlic
+- :garlic: 2 cloves garlic
 - :sake: 3 Tbsp white vinegar
 - :cactus: 2 Tbsp agave syrup
 - :lemon: 1 Tbsp lemon juice
