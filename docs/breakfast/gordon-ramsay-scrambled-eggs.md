@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Gordon Ramsay Scrambled Eggs
+# :egg: Gordon Ramsay Scrambled Eggs
 
 ![Gordon Ramsay Scrambled Eggs](../assets/images/gordon-ramsay-scrambled-eggs.jpg)
 
@@ -11,10 +11,10 @@ comments: true
 
 ## :salt: Ingredients
 
-- 6 eggs
-- 15 g butter
-- 1 tsp [crème fraîche][1]
-- some chives
+- :egg: 6 eggs
+- :butter: 15 g butter
+- :butter: 1 tsp [crème fraîche][1]
+- :herb: some chives
 
 ## :cooking: Cookware
 
