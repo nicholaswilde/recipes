@@ -11,10 +11,10 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 cups almond milk
-- 3 bananas
-- 2.5 cup rolled oats
-- some salt
+- :glass_of_milk: 2 cups almond milk
+- :banana: 3 bananas
+- :ear_of_rice: 2.5 cup rolled oats
+- :salt: some salt
 
 ## :cooking: Cookware
 
