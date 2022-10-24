@@ -13,7 +13,7 @@ comments: true
 
 - :ear_of_rice: 2 cup whole wheat pastry flour
 - :candy: 1 cup sugar
-- 1 tsp baking powder
+- :dash: 1 tsp baking powder
 - :cup_with_straw: 0.25 tsp baking soda
 - :salt: 1 tsp salt
 - :butter: 6 Tbsp melted butter
