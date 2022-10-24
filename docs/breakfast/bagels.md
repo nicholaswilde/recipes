@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2.66 cups (319 g)bread flour
+- 2.66 cups (319 g) bread flour
 - 4 tsp vital wheat gluten
 - 2 tsp instant yeast
 - 9 oz ice water
