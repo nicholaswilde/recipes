@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Buttery Shortbread
+# :flatbread: Buttery Shortbread
 
 ![Buttery Shortbread](../assets/images/buttery-shortbread.jpg)
 
@@ -11,11 +11,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 225 g butter
-- 110 g caster sugar
-- 225 g plain flour
-- 110 g cornflour
-- 1 pinch salt
+- :butter: 225 g butter
+- :candy: 110 g granulated sugar
+- :ear_of_rice: 225 g all-purpose flour
+- :corn: 110 g cornflour
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
