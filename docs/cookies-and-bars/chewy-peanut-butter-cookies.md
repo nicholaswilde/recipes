@@ -14,7 +14,7 @@ comments: true
 - :ear_of_rice: 1.5 cups (7.5 oz/213 g) all-purpose flour
 - :rice: 1 tsp baking soda
 - :salt: 0.5 tsp salt
-- :mayple_leaf: 1.5 cups (10.5 oz/298 g) [dark brown sugar][1]
+- :maple_leaf: 1.5 cups (10.5 oz/298 g) [dark brown sugar][1]
 - :peanuts: 1 cup [creamy peanut butter][2]
 - :egg: 2 large eggs
 - :butter: 4 Tbsp unsalted butter
