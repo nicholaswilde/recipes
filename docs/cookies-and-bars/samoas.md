@@ -24,7 +24,7 @@ comments: true
 - :coconut: 3 cups coconut
 - :candy: 20 oz caramels
 - :glass_of_milk: 4 Tbsp milk
-- :chocolare_bar: 12 oz dark chocolate
+- :chocolate_bar: 12 oz dark chocolate
 
 ## :cooking: Cookware
 
