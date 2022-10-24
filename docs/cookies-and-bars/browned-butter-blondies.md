@@ -15,9 +15,9 @@ comments: true
 
 - :ear_of_rice: 2.25 cups (11.25 oz/319 g) all-purpose flour
 - :salt: 1.25 tsp salt
-- 0.5 tsp baking powder
+- :dash: 0.5 tsp baking powder
 - :butter: 12 Tbsp (170 g) unsalted butter
-- 1.75 cups (12.25 oz/347 g) [light brown sugar][1]
+- :maple_leaf: 1.75 cups (12.25 oz/347 g) [light brown sugar][1]
 - :egg: 3 large eggs
 - :corn: 0.5 cup corn syrup
 - :ice_cream: 2 Tbsp vanilla
@@ -29,9 +29,9 @@ comments: true
 
 - :ear_of_rice: 0.75 cups (3.75 oz/106 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- 0.25 tsp baking powder
+- :dash: 0.25 tsp baking powder
 - :butter: 4 Tbsp (57 g) unsalted butter
-- 10 Tbsp (4.33 oz/123 g) [light brown sugar][1]
+- :maple_leaf: 10 Tbsp (4.33 oz/123 g) [light brown sugar][1]
 - :egg: 1 large egg
 - :corn: 2 Tbsp corn syrup
 - :ice_cream: 2 tsp vanilla
