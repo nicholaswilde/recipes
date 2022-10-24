@@ -20,7 +20,7 @@ comments: true
 - :maple_leaf: 1.75 brown sugar
 - :candy: 1.5 cups sugar
 - :egg: 3 eggs
-- :icescream: 1 tsp vanilla
+- :icecream: 1 tsp vanilla
 - :ear_of_rice: 4 cups oats
 - :grapes: 2.5 cups raisins
 
