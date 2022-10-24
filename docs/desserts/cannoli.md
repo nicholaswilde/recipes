@@ -8,7 +8,7 @@
 
 ## :salt: Ingredients
 
-- 2 cups all-purpose flour
+- :ear_of_rice: 2 cups all-purpose flour
 - :candy: 2 Tbsp sugar
 - :salt: 0.25 tsp salt
 - :butter: 3 Tbsp butter
