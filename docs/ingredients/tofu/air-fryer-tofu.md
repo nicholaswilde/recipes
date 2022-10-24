@@ -3,7 +3,7 @@ comments: true
 ---
 # :butter: Air Fryer Tofu
 
-![Air Fryer Tofu](../assets/images/air-fryer-tofu.jpg)
+![Air Fryer Tofu](../../assets/images/air-fryer-tofu.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

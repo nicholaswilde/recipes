@@ -3,7 +3,7 @@ comments: true
 ---
 # :butter: Pan-Fried Tofu
 
-![Pan-Fried Tofu](../assets/images/pan-fried-tofu.jpg)
+![Pan-Fried Tofu](../../assets/images/pan-fried-tofu.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

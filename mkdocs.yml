@@ -264,8 +264,12 @@ nav:
       - Post-Baking Glazes:
           - Lemon Glaze: ingredients/post-baking-glazes/lemon-glaze.md
           - Milk Glaze: ingredients/post-baking-glazes/milk-glaze.md
+      - Tofu:
+          - Preparation: ingredients/tofu/preparation.md
+          - Air Fryer Tofu: ingredients/tofu/air-fryer-tofu.md
+          - Crispy Baked Tofu Nuggets: ingredients/tofu/crispy-baked-tofu-nuggets.md
+          - Pan-Fried Tofu: ingredients/tofu/pan-fried-tofu.md
       - 3-Ingredient Garlic Butter: ingredients/3-ingredient-garlic-butter.md
-      - Air Fryer Tofu: ingredients/air-fryer-tofu.md
       - Bouquet Garni: ingredients/bouquet-garni.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Buttermilk: ingredients/buttermilk.md
@@ -273,7 +277,6 @@ nav:
       - Clarified Butter: ingredients/clarified-butter.md
       - Crème Fraîche: ingredients/crème-fraîche.md
       - Crème Pâtissière: ingredients/crème-pâtissière.md
-      - Crispy Baked Tofu Nuggets: ingredients/crispy-baked-tofu-nuggets.md
       - Crumb Crust: ingredients/crumb-crust.md
       - Date Paste: ingredients/date-paste.md
       - Dry Roasted Peanuts: ingredients/dry-roasted-peanuts.md
@@ -290,7 +293,6 @@ nav:
       - Mirepoix: ingredients/mirepoix.md
       - Miso Nori Paste: ingredients/miso-nori-paste.md
       - Oreo Pie Crust: ingredients/oreo-pie-crust.md
-      - Pan-Fried Tofu: ingredients/pan-fried-tofu.md
       - Pasta: ingredients/pasta.md
       - Peanut Butter: ingredients/peanut-butter.md
       - Pectin: ingredients/pectin.md
