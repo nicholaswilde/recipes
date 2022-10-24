@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# The Food Lab Light and Fluffy Scrambled Eggs
+# :egg: The Food Lab Light & Fluffy Scrambled Eggs
 
 ![The Food Lab Light and Fluffy Scrambled Eggs](../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg)
 
@@ -11,10 +11,10 @@ comments: true
 
 ## :salt: Ingredients
 
-- 6 large eggs
-- 0.75 tsp salt
-- 2 Tbsp milk
-- 2 Tbsp butter
+- :egg: 6 large eggs
+- :salt: 0.75 tsp salt
+- :glass_of_milk: 2 Tbsp milk
+- :butter: 2 Tbsp butter
 
 ## :cooking: Cookware
 
