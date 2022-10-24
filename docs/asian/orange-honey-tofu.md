@@ -66,6 +66,6 @@ side of steamed broccoli or cauliflower if desired.
 
 - <https://www.noracooks.com/crispy-baked-orange-tofu/>
 
-[1]: <../ingredients/pan-fried-tofu.md>
-[2]: <../ingredients/air-fryer-tofu.md>
+[1]: <../ingredients/tofu/pan-fried-tofu.md>
+[2]: <../ingredients/tofu/air-fryer-tofu.md>
 [3]: <../ingredients/vegetable-broth.md>
