@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Peanut Butter Cups
+# :peanuts: Peanut Butter Cups
 
 ![Peanut Butter Cups](../assets/images/peanut-butter-cups.jpg)
 
@@ -11,11 +11,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 12 oz milk chocolate
-- 0.5 cup [creamy peanut butter][1]
-- 3 Tbsp confectioners’ sugar
-- 1 Tbsp butter
-- 0.13 tsp salt
+- :chocolate_bar: 12 oz milk chocolate
+- :peanuts: 0.5 cup [creamy peanut butter][1]
+- :candy: 3 Tbsp confectioners’ sugar
+- :butter: 1 Tbsp butter
+- :salt: 0.13 tsp salt
 
 ## :cooking: Cookware
 
