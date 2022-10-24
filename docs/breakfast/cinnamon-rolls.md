@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Cinnamon Rolls
+# :doughnut: Cinnamon Rolls
 
 ![Cinnamon Rolls](../assets/images/cinnamon-rolls.png)
 
@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients - Dough
 
-- 4 cups all-purpose flour
+- :ear_of_rice: 4 cups all-purpose flour
 - :microbe: 1 pkg instant yeast
 - :salt: 1 tsp salt
 - :candy: 0.33 cup sugar
