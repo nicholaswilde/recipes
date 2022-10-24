@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Chocolate Scotcheroos
+# :cookie: Chocolate Scotcheroos
 
 ![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg)
 
@@ -11,12 +11,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup sugar
-- 1 cup light corn syrup
-- 1 cup [peanut butter][1]
-- 6 cups Rice Krispies
-- 1 cup chocolate chips
-- 1 cup butterscotch chips
+- :candy: 1 cup sugar
+- :corn: 1 cup light corn syrup
+- :peanuts: 1 cup [peanut butter][1]
+- :bowl_with_spoon: 6 cups Rice Krispies
+- :chocolate_bar: 1 cup chocolate chips
+- :icecream: 1 cup butterscotch chips
 
 ## :cooking: Cookware
 
