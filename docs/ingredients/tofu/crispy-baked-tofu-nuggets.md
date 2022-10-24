@@ -11,10 +11,10 @@ comments: true
 
 ## :salt: Ingredients
 
-- :avacado: some avocado oil
+- :avocado: some avocado oil
 - :butter: 1 14-oz pkg extra-firm tofu
 - :chestnut: 0.75 cup cashews
-- :ear_of_corn: 1.5 Tbsp cornstarch
+- :corn: 1.5 Tbsp cornstarch
 - :microbe: 2 Tbsp nutritional yeast
 - :salt: 0.75 tsp salt
 - :salt: 0.75 tsp pepper
@@ -22,7 +22,7 @@ comments: true
 - :garlic: 0.5 tsp garlic powder
 - :glass_of_milk: 0.5 cup unsweetened dairy-free milk
 - :lemon: 2 tsp lemon juice
-- :ear_of_corn: 0.5 cup cornstarch
+- :corn: 0.5 cup cornstarch
 
 ## :cooking: Cookware
 
