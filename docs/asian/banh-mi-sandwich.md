@@ -12,8 +12,8 @@ comments: true
 ## :salt: Ingredients
 
 - :butter: 1 16-oz pkg extra firm tofu
-- :garlic: 1 cup garlic aioli
-- :carrot: 2 cups pickled carrot and daikon
+- :garlic: 1 cup [garlic aioli][1]
+- :carrot: 2 cups [pickled carrot and daikon][2]
 - :cucumber: 4 asian cucumber
 - :herb: 1 handful cilantro
 - :baguette_bread: 6 french bread
@@ -30,8 +30,12 @@ Grill extra firm tofu on a skillet with some olive oil.
 
 ### Step 2
 
-Add garlic aioli, pickled carrot and daikon, asian cucumber, and cilantro to a loaf of french bread and serve.
+Add [garlic aioli][1], [pickled carrot and daikon][2], asian cucumber, and cilantro to a loaf of french bread and
+serve.
 
 ## :link: Source
 
 - Applied Hospitality
+
+[1]: <../sauces-and-dressings/garlic-aioli.md>
+[2]: <../ingredients/pickled-carrots-and-daikon.md>
