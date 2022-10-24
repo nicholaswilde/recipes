@@ -36,6 +36,7 @@ theme:
 nav:
   - Home: index.md
   - Asian:
+      - Banh Mi Sandwich: asian/banh-mi-sandwich.md
       - Coconut Curried Vegetables with Rice: asian/coconut-curried-vegetables-with-rice.md
       - Cool and Spicy Noodle Salad: asian/cool-and-spicy-noodle-salad.md
       - Crispy Peanut Tofu & Cauliflower Rice Stir Fry: asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md
