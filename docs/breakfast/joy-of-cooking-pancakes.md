@@ -1,4 +1,7 @@
-# Joy of Cooking Pancakes
+---
+comments: tru
+---
+# :pancakes: Joy of Cooking Pancakes
 
 ![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.jpg)
 
@@ -8,13 +11,13 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups all-purpose flour
-- 0.5 tsp salt
-- 1.75 tsp baking powder
-- 3 Tbsp sugar
-- 2 eggs
-- 3 Tbsp melted butter
-- 1 cup milk
+- :ear_of_rice: 1.5 cups all-purpose flour
+- :salt: 0.5 tsp salt
+- :dash: 1.75 tsp baking powder
+- :candy: 3 Tbsp sugar
+- :egg: 2 eggs
+- :butter: 3 Tbsp melted butter
+- :glass_of_milk: 1 cup milk
 
 ## :cooking: Cookware
 
