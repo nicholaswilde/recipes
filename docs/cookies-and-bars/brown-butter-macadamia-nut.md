@@ -21,7 +21,7 @@ comments: true
 - :egg: 1 large egg
 - :icecream: 2 tsp vanilla
 - :salt: 1 tsp salt
-- :chocholate_bar: 0.5 cup white chocolate chips
+- :chocolate_bar: 0.5 cup white chocolate chips
 - :chestnut: 0.5 cup roasted, salted macadamia nuts
 
 ## :cooking: Cookware
