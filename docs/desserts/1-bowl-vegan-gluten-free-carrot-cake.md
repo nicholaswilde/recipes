@@ -65,26 +65,26 @@ time.
 Remove from oven and let rest in the pans for 15 minutes. Then carefully run a knife along the edges and gently invert
 onto cooling racks to let cool completely.
 
+!!! note
+
+    This cake needs to cool completely. It benefits from plenty of airflow, and the flavors develop as the cooling
+    process goes on. If short on time, you can speed the cooling by placing the cakes in the refrigerator or freezer
+    until very cool to the touch.
+
 ### Step 6
-
-NOTE: This cake needs to cool completely. It benefits from plenty of airflow, and the flavors develop as the cooling
-process goes on. If short on time, you can speed the cooling by placing the cakes in the refrigerator or freezer until
-very cool to the touch.
-
-### Step 7
 
 Once cooled, you can serve as is or frost! For frosting, you have several options! See options above.
 
-### Step 8
+### Step 7
 
 Store leftovers at room temperature, covered, for 2-3 days, in the refrigerator for 3-4 days, or covered well in the
 freezer for several weeks. However, it's best when eaten fresh.
 
-### Step 9
+!!! note
 
-Do note that, if using vegan cream cheese or yogurt in the frosting, the cake should be stored in the refrigerator. From
-the refrigerator, let set out for 10 to 15 minutes before serving so it warms a bit and becomes more tender. Let thaw
-completely from the freezer.
+    Do note that, if using vegan cream cheese or yogurt in the frosting, the cake should be stored in the refrigerator.
+    From the refrigerator, let set out for 10 to 15 minutes before serving so it warms a bit and becomes more tender.
+    Let thaw completely from the freezer.
 
 ## :link: Source
 
