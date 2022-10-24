@@ -16,9 +16,9 @@ comments: true
 - :butter: 100 g butter
 - :star: 2 star anise
 - :olive: 3 pods cardamom
-- 1 large cinnamon stick
+- :custard: 1 large cinnamon stick
 - :tumbler_glass: 2 Tbsp brandy
-- 500 g all-butter [puff pastry][1]
+- :pie: 500 g all-butter [puff pastry][1]
 
 ## :cooking: Cookware
 
