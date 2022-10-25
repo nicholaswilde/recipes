@@ -16,7 +16,7 @@ comments: true
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 0.5 cup rolled oats
 - :chocolate_bar: 0.5 cup mini chocolate chips
-- :seedling; 0.25 cup hemp seeds
+- :seedling: 0.25 cup hemp seeds
 
 ## :cooking: Cookware
 
