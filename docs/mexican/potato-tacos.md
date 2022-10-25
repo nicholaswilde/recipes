@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Potato Tacos
+# :taco: Potato Tacos
 
 ![Potato Tacos](../assets/images/potato-tacos.jpg)
 
@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 lb potatoes
-- 1 Tbsp olive oil
-- 1 bell pepper
-- 2 Tbsp taco seasoning
-- 1 15-oz can black beans
-- 1 15-oz can refried beans
-- 8 tortillas
+- :potato: 1 lb potatoes
+- :olive: 1 Tbsp olive oil
+- :bell_pepper: 1 bell pepper
+- :herb: 2 Tbsp taco seasoning
+- :canned_food: 1 15-oz can black beans
+- :canned_food: 1 15-oz can refried beans
+- :flatbread: 8 tortillas
 
 ## :cooking: Cookware
 
