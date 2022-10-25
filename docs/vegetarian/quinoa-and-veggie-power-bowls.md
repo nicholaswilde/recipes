@@ -22,7 +22,7 @@ comments: true
 - :hot_pepper: 1 tsp smoked paprika
 - :garlic: 1 tsp garlic powder
 - :salt: 0.5 tsp salt
-- :leafy_grean: 3 handfuls spinach or kale
+- :leafy_green: 3 handfuls spinach or kale
 - :olive: 0.25 cup olive oil
 - :sake: 1 Tbsp apple cider vinegar
 - :hotdog: 1 Tbsp [Dijon mustard][1]
