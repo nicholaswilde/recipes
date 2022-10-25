@@ -15,7 +15,7 @@ comments: true
 - :salt: 0.25-0.5 tsp salt
 - :butter: 6 oz butter
 - :egg: 1 egg
-- :glass_of_water: 0.25-0.5 cup water or milk
+- :droplet: 0.25-0.5 cup water or milk
 
 ## :cooking: Cookware
 
