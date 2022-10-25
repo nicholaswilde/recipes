@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Ikarian Longevity Stew
+# :stew: Ikarian Longevity Stew
 
 ![Ikarian Longevity Stew](../assets/images/ikarian-longevity-stew.jpg)
 
