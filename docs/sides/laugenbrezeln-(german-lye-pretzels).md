@@ -11,12 +11,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2.33 cups bread flour
+- :ear_of_rice: 2.33 cups bread flour
 - :salt: 1 tsp table salt
 - :microbe: 1 tsp instant yeast
 - :butter: 2 Tbsp butter
 - :test_tube: 40 g lye
-- 0.5 cup baking soda
+- :cup_with_straw: 0.5 cup baking soda
 - :salt: some pretzel salt
 
 ## :cooking: Cookware
