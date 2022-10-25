@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Tartar Sauce
+# :fish: Tartar Sauce
 
 ![Tartar Sauce](../assets/images/simple-tartar-sauce.png)
 
@@ -11,11 +11,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup [mayonnaise][1]
-- 2 dill pickles
-- 2 Tbsp lemon juice
-- 1 Tbsp dill
-- 0.5 tsp salt
+- :egg: 1 cup [mayonnaise][1]
+- :cucumber: 2 dill pickles
+- :lemon: 2 Tbsp lemon juice
+- :herb: 1 Tbsp dill
+- :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
 
