@@ -16,8 +16,8 @@ comments: true
 - :salt: 2 tsp salt
 - :butter: 2 Tbsp butter
 - :salt: some pepper
-- 0.5 recipe [choux pastry][1] (made with equal parts milk and water)
-- 2 qt vegetable oil
+- :butter: 0.5 recipe [choux pastry][1] (made with equal parts milk and water)
+- :carrot: 2 qt vegetable oil
 
 ## :cooking: Cookware
 
