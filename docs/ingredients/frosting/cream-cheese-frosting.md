@@ -36,12 +36,16 @@ comments: true
 - 1 food processor
 - 1 medium bowl
 
-There are two secrets to making perfectly smooth cream cheese frosting with enough body to swirl on a cake or pipe
-through a pastry bag: Do not overbeat, and use cold - not softened - cream cheese. Have the butter, if using it, at room
-temperature, and sift the confectioners' sugar after measuring.
+!!! info
 
-Feel free to vary the amount of confectioners' sugar to suit your taste: we have seen recipes with as little as 1 tsp
-and as much as 1/2 cup sugar per once of cream cheese.
+    There are two secrets to making perfectly smooth cream cheese frosting with enough body to swirl on a cake or
+    pipe through a pastry bag: Do not overbeat, and use cold - not softened - cream cheese. Have the butter, if
+    using it, at room temperature, and sift the confectioners' sugar after measuring.
+
+!!! info
+
+    Feel free to vary the amount of confectioners' sugar to suit your taste: we have seen recipes with as little
+    as 1 tsp and as much as 1/2 cup sugar per once of cream cheese.
 
 ## :pencil: Instructions - Food Processor Method
 
