@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Brown Sugar and Spice Roasted Carrots
+# :carrot: Brown Sugar and Spice Roasted Carrots
 
 ![Brown Sugar and Spice Roasted Carrots](../assets/images/brown-sugar-and-spice-roasted-carrots.jpg)
 
