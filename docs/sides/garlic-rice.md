@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Garlic Rice
+# :rice: Garlic Rice
 
 ![Garlic Rice](../assets/images/garlic-rice.jpg)
 
@@ -11,11 +11,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 Tbsp butter
-- 6 cloves garlic
-- 1 cup jasmine rice
-- 1.5 cups water
-- some salt
+- :butter: 1 Tbsp butter
+- :garlic: 6 cloves garlic
+- :rice: 1 cup jasmine rice
+- :droplet: 1.5 cups water
+- :salt: some salt
 
 ## :cooking: Cookware
 
