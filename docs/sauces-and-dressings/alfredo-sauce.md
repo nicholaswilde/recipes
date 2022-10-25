@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Alfredo Sauce
+# :spaghetti: Alfredo Sauce
 
 ![Alfredo Sauce](../assets/images/alfredo-sauce.jpg)
 
