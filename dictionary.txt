@@ -428,3 +428,6 @@ Banh
 asian
 Daikon
 Samoas
+Pecorino
+800ºF
+450ºF
