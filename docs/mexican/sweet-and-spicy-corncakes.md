@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Sweet and Spicy Corncakes
+# :pancakes: Sweet and Spicy Corncakes
 
 ![Sweet and Spicy Corncakes](../assets/images/sweet-and-spicy-corncakes.jpg)
 
@@ -16,10 +16,10 @@ comments: true
 - :egg: 1 egg
 - :hot_pepper: some cayenne pepper
 - :grapes: some grape seed oil
-- 1 cup [TJ's corn and chile tomato-less salsa][1]
+- :corn: 1 cup [TJ's corn and chile tomato-less salsa][1]
 - :green_salad: some cabbage slaw
 - :poultry_leg: 1 pkg TJ's chicken-less chicken fingers
-- 1 bottle [TJ's cilantro dressing][2]
+- :herb: 1 bottle [TJ's cilantro dressing][2]
 - :lemon: 1 lime
 
 ## :cooking: Cookware
