@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 12 oz haricots verts
+- :cucumber: 12 oz haricots verts
 - :ice_cube: 0.25 cup water
 - :salt: 0.25 tsp salt
 - :butter: 1 Tbsp unsalted butter
