@@ -36,7 +36,7 @@ comments: true
 
 ## :salt: Ingredients - Garnish
 
-- :avacado: 1 avocado (optional)
+- :avocado: 1 avocado (optional)
 - :herb: some cilantro
 
 ## :cooking: Cookware
