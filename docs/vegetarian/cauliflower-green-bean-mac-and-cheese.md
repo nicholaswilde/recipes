@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Cauliflower Green Bean Mac and Cheese
+# :broccoli: Cauliflower Green Bean Mac & Cheese
 
 ![Cauliflower Green Bean Mac and Cheese](../assets/images/cauliflower-green-bean-mac-and-cheese.jpg)
 
@@ -11,18 +11,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 Tbsp apple cider vinegar
-- 1 tsp cumin
-- 1 tsp garam masala
-- 0.5 tsp turmeric
-- 0.25 tsp ground ginger
-- 0.5 tsp salt
-- 8 oz green beans
-- 1 pkg cauliflower florets
-- 1 12-oz pkg red lentil pasta
-- 3 Tbsp toasted crushed almonds
-- 0.25 cup raisins
-- some cilantro
+- :sake: 1 Tbsp apple cider vinegar
+- :herb: 1 tsp cumin
+- :herb: 1 tsp garam masala
+- :herb: 0.5 tsp turmeric
+- :sweet_potato: 0.25 tsp ground ginger
+- :salt: 0.5 tsp salt
+- :leafy_green: 8 oz green beans
+- :broccoli: 1 pkg cauliflower florets
+- :spaghetti: 1 12-oz pkg red lentil pasta
+- :chestnut: 3 Tbsp toasted crushed almonds
+- :grapes: 0.25 cup raisins
+- :herb: some cilantro
 
 ## :cooking: Cookware
 
