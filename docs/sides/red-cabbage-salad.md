@@ -21,7 +21,7 @@ comments: true
 - :salt: some salt
 - :rice: 1 Tbsp beef bouillon powder
 - :wine_glass: 0.5 cup red wine vinegar
-- :red_apple: 0.5 cup apple cider vinegar
+- :apple: 0.5 cup apple cider vinegar
 - :oil_drum: 1 cup oil
 
 ## :cooking: Cookware
