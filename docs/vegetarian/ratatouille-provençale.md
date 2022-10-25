@@ -13,7 +13,7 @@ comments: true
 
 - :olive: 0.25 cup olive oil
 - :eggplant: 1 medium eggplant
-- 1 lb zucchini
+- :cucumber: 1 lb zucchini
 - :olive: 2 Tbsp olive oil
 - :onion: 1.5 cups sliced onions
 - :bell_pepper: 2 large red bell peppers
