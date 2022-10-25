@@ -19,8 +19,8 @@ comments: true
 
 ### Step 1
 
-Prepare Basic Pastry Dough substituting 1 cup (2 sticks) cold unsalted butter for the vegetable shortening or lard and
-1/4 cup chilled vegetable shortening for the butter.
+Prepare [Basic Pastry Dough][1] substituting 1 cup (2 sticks) cold unsalted butter for the vegetable shortening or
+lard and 1/4 cup chilled vegetable shortening for the butter.
 
 ## :link: Source
 
