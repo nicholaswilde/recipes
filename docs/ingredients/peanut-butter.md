@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Peanut Butter
+# :peanuts: Peanut Butter
 
 ![Peanut Butter](../assets/images/peanut-butter.jpg)
 
@@ -11,9 +11,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 cups raw or preroasted peanuts
-- 1 tsp honey
-- 0.75 tsp salt
+- :peanuts: 4 cups raw or preroasted peanuts
+- :honey_pot: 1 tsp honey
+- :salt: 0.75 tsp salt
 
 ## :cooking: Cookware
 
