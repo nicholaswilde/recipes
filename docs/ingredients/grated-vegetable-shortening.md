@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Grated Vegetable Shortening
+# :carrot: Grated Vegetable Shortening
 
 ![Grated Vegetable Shortening](../assets/images/grated-vegetable-shortening.png)
 
@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 stick vegetable shortening
+- :carrot: 1 stick vegetable shortening
 
 ## :cooking: Cookware
 
