@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Chickpea Sunflower Sandwich
+# :sandwich: Chickpea Sunflower Sandwich
 
 ![Chickpea Sunflower Sandwich](../assets/images/chickpea-sunflower-sandwich.jpg)
 
