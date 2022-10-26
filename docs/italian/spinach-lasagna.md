@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Spinach Lasagna
+# :spaghetti: Spinach Lasagna
 
 ![Spinach Lasagna](../assets/images/spinach-lasagna.jpg)
 
