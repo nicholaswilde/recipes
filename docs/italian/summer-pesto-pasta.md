@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Summer Pesto Pasta
+# :spaghetti: Summer Pesto Pasta
 
 ![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg)
 
