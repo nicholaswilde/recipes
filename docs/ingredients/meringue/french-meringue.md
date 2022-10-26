@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# French Meringue
+# :egg: French Meringue
 
 ![French Meringue](../../assets/images/french-meringue.jpg)
 
