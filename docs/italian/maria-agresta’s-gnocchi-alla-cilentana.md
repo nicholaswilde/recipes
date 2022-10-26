@@ -13,7 +13,7 @@ comments: true
 
 - :egg: 2 eggs
 - :ear_of_rice: 4 cups all-purpose flour
-- :glass_of_water: 3.5 oz water
+- :droplet: 3.5 oz water
 - :salt: 1 pinch salt
 
 ## :salt: Ingredients - Sauce
