@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# :jack_o_lanter: Pumpkin Cheesecake Cookies
+# :jack_o_lantern: Pumpkin Cheesecake Cookies
 
 ![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg)
 
