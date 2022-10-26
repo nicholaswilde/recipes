@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Bourbon Grilled Cheese
+# :sandwich: Bourbon Grilled Cheese
 
 ![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.jpg)
 
