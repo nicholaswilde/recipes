@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Trapani-Style Pasta
+# :spaghetti: Trapani-Style Pasta
 
 ![Trapani-Style Pasta](../assets/images/trapani-style-pasta.jpg)
 
