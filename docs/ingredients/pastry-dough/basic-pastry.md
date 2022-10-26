@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Basic Pastry
+# :pie: Basic Pastry
 
 ![Basic Pastry](../../assets/images/basic-pastry.jpg)
 
