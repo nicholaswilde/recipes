@@ -20,7 +20,7 @@ comments: true
 - :egg: 2 large eggs
 - :carrot: 115 g vegetable oil
 - :glass_of_milk: 225 g whole milk
-- :chocolate_bar: 1 chocolate ganache
+- :chocolate_bar: 1 [chocolate ganache][1]
 
 ## :cooking: Cookware
 
