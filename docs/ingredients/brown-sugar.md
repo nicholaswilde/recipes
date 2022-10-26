@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Brown Sugar
+# :maple_leaf: Brown Sugar
 
 ![Brown Sugar](../assets/images/brown-sugar.jpg)
 
