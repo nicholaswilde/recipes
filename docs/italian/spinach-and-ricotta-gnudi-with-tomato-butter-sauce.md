@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Spinach and Ricotta Gnudi with Tomato-Butter Sauce
+# Spinach & Ricotta Gnudi with Tomato-Butter Sauce
 
 ![Spinach and Ricotta Gnudi with Tomato-Butter Sauce](../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg)
 
