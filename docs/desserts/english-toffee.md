@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# English Toffee
+# :candy: English Toffee
 
 ![English Toffee](../assets/images/english-toffee.jpg)
 
