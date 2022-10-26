@@ -12,7 +12,7 @@ comments: true
 ## :salt: Ingredients - Topping
 
 - :olive: 2 Tbsp olive oil
-- 0.25 cup capers
+- :brown_circle: 0.25 cup capers
 - :fish: 1 fillet [anchovy][1]
 - :bread: 0.5 cup panko
 - :salt: 0.13 tsp salt
