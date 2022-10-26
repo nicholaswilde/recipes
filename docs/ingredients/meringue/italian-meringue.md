@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Italian Meringue
+# :egg: Italian Meringue
 
 ![Italian Meringue](../../assets/images/italian-meringue.jpg)
 
