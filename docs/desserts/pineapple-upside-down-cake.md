@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Pineapple Upside Down Cake
+# :pineapple: Pineapple Upside Down Cake
 
 ![Pineapple Upside Down Cake](../assets/images/pineapple-upside-down-cake.png)
 
@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.25 cup butter
-- 0.5 cup [brown sugar][1]
-- 5 fans pineapple
-- 1 box TJ's Vanilla Cake and Baking cake mix
-- 2 eggs
-- 1 stick butter
-- 1 cup milk
+- :butter: 0.25 cup butter
+- :maple_leaf: 0.5 cup [brown sugar][1]
+- :pineapple: 5 fans pineapple
+- :cake: 1 box TJ's Vanilla Cake and Baking cake mix
+- :egg: 2 eggs
+- :butter: 1 stick butter
+- :glass_of_milk: 1 cup milk
 
 ## :cooking: Cookware
 
