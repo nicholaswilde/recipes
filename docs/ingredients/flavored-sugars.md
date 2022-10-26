@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Flavored Sugars
+# :candy: Flavored Sugars
 
 ![Flavored Sugars](../assets/images/flavored-sugars.jpg)
 
