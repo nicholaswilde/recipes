@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Olive Oil Cake
+# :olive: Olive Oil Cake
 
 ![Olive Oil Cake](../assets/images/olive-oil-cake.jpg)
 
