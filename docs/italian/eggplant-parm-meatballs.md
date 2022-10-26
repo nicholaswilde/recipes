@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Eggplant Parm Meatballs
+# :spaghetti: Eggplant Parm Meatballs
 
 ![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.jpg)
 
