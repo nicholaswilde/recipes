@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Crème Fraîche
+# :rice: Crème Fraîche
 
 ![Crème Fraîche](../assets/images/crème-fraîche.jpg)
 
@@ -11,8 +11,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup heavy cream
-- 2 Tbsp buttermilk
+- :glass_of_milk: 1 cup heavy cream
+- :glass_of_milk: 2 Tbsp buttermilk
 
 ## :cooking: Cookware
 
