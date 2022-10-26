@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Oatmeal Raisin
+# :cookie: Oatmeal Raisin
 
 ![Oatmeal Raisin](../assets/images/oatmeal-raisin.jpg)
 
