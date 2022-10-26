@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# :cake: No-Bake Banana and Peanut Butter Caramel Icebox Cake
+# :cake: No-Bake Banana & Peanut Butter Caramel Icebox Cake
 
 ![No-Bake Banana and Peanut Butter Caramel Icebox Cake](../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake.jpg)
 
