@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Buttermilk
+# :glass_of_milk: Buttermilk
 
 ![Buttermilk](../assets/images/buttermilk.jpg)
 
@@ -11,8 +11,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup [whole milk][1]
-- 1 Tbsp vinegar or lemon juice
+- :glass_of_milk: 1 cup [whole milk][1]
+- :lemon: 1 Tbsp vinegar or lemon juice
 
 ## :pencil: Instructions
 
