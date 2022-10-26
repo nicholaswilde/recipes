@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Ricotta
+# :cheese_wedge: Ricotta
 
 ![Ricotta](../assets/images/ricotta.jpg)
 
@@ -11,10 +11,10 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 cup [whole milk][1]
-- 2 cup heavy cream
-- 1 tsp salt
-- 3 Tbsp white wine vinegar
+- :glass_of_milk: 4 cup [whole milk][1]
+- :glass_of_milk: 2 cup heavy cream
+- :salt: 1 tsp salt
+- :sake: 3 Tbsp white wine vinegar
 
 ## :cooking: Cookware
 
