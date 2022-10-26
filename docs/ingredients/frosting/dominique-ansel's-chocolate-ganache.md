@@ -13,7 +13,7 @@ comments: true
 
 - :glass_of_milk: 220 g heavy cream
 - :glass_of_milk: 45 g whole milk
-- :chocolage_bar: 220 g 66 percent cocoa chocolate
+- :chocolate_bar: 220 g 66 percent cocoa chocolate
 - :butter: 45 g unsalted butter
 
 ## :cooking: Cookware
@@ -39,21 +39,11 @@ not to incorporate air, so stop mixing when all the chocolate has melted.
 Add the unsalted butter and stir until fully incorporated. Let cool completely. Adding butter softens the ganache and
 makes it smoother.
 
-### Step 4
+Best For:
 
-BEST FOR:
-
-### Step 5
-
-Filling tarts and light cakes—this is a rich filling, so I usually recommend a thin slice of chocolate ganache tart.
-
-### Step 6
-
-Glazing (i.e., finishing) mousse cakes when the ganache is still warm and liquid.
-
-### Step 7
-
-Truffles (below)—ganache rolled and finished with unsweetened cocoa powder.
+1. Filling tarts and light cakes—this is a rich filling, so I usually recommend a thin slice of chocolate ganache tart.
+2. Glazing (i.e., finishing) mousse cakes when the ganache is still warm and liquid.
+3. Truffles ganache rolled and finished with unsweetened cocoa powder.
 
 ## :link: Source
 
