@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Cinnamon Sugar
+# :candy: Cinnamon Sugar
 
 ![Cinnamon Sugar](../assets/images/cinnamon-sugar.jpg)
 
@@ -11,8 +11,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup granulated sugar
-- 2 Tbsp cinnamon
+- :candy: 0.5 cup granulated sugar
+- :custard: 2 Tbsp cinnamon
 
 ## :cooking: Cookware
 
