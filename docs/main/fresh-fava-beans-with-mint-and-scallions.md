@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Fresh Fava Beans with Mint and Scallions
+# :onion: Fresh Fava Beans with Mint & Scallions
 
 ![Fresh Fava Beans with Mint and Scallions](../assets/images/fresh-fava-beans-with-mint-and-scallions.jpg)
 
@@ -11,14 +11,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 small bunch scallions
-- 4 Tbsp olive oil
-- 2 cups cooked fava beans
-- 1 cup water
-- 0.5 cup chopped mint
-- some salt
-- some pepper
-- some fennel
+- :onion: 1 small bunch scallions
+- :olive: 4 Tbsp olive oil
+- :canned_food: 2 cups cooked fava beans
+- :droplet:1 cup water
+- :herb: 0.5 cup chopped mint
+- :salt: some salt
+- :salt: some pepper
+- :leafy_green: some fennel
 
 ## :cooking: Cookware
 
