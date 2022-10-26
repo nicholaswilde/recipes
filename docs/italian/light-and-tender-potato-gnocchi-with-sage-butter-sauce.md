@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Light and Tender Potato Gnocchi With Sage-Butter Sauce
+# :spaghetti: Light & Tender Potato Gnocchi With Sage-Butter Sauce
 
 ![Light and Tender Potato Gnocchi With Sage-Butter Sauce](../assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png)
 
@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 lb russet potatoes
-- some kosher salt
-- 3 egg yolks
-- 0.75 cup flour
-- 1 stick butter
-- 1 sprig sage
-- some Parmesan cheese
+- :potato: 3 lb russet potatoes
+- :salt: some kosher salt
+- :egg: 3 egg yolks
+- :ear_of_rice: 0.75 cup flour
+- :butter: 1 stick butter
+- :fallen_leaf: 1 sprig sage
+- :cheese_wedge: some Parmesan cheese
 
 ## :cooking: Cookware
 
