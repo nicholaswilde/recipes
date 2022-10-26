@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Dry Roasted Peanuts
+# :peanuts: Dry Roasted Peanuts
 
 ![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg)
 
@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 cups raw or preroasted peanuts
+- :peanuts: 4 cups raw or preroasted peanuts
 
 ## :cooking: Cookware
 
