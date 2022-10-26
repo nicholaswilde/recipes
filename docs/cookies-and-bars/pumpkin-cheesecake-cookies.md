@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Pumpkin Cheesecake Cookies
+# :jack_o_lanter: Pumpkin Cheesecake Cookies
 
 ![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg)
 
@@ -11,21 +11,21 @@ comments: true
 
 ## :salt: Ingredients
 
-- 6 oz cold cream cheese
-- 3 Tbsp sugar
-- 0.5 tsp vanilla
-- 0.25 cup sugar
-- 0.5 tsp pumpkin pie spice
-- 0.5 cup pumpkin purée
-- 1.75 cups all-purpose flour
-- 1 Tbsp pumpkin pie spice
-- 0.5 tsp baking powder
-- 0.5 tsp baking soda
-- 0.5 tsp salt
-- 0.75 cup unsalted butter
-- 1 cup light brown sugar
-- 2 egg yolks
-- 2 tsp vanilla
+- :cheese_wedge: 6 oz cold cream cheese
+- :candy: 3 Tbsp sugar
+- :icecream: 0.5 tsp vanilla
+- :candy: 0.25 cup sugar
+- :herb: 0.5 tsp pumpkin pie spice
+- :jack_o_lantern: 0.5 cup pumpkin purée
+- :ear_of_rice: 1.75 cups all-purpose flour
+- :herb: 1 Tbsp pumpkin pie spice
+- :dash: 0.5 tsp baking powder
+- :cup_with_straw: 0.5 tsp baking soda
+- :salt: 0.5 tsp salt
+- :butter: 0.75 cup unsalted butter
+- :maple_leaf: 1 cup light brown sugar
+- :egg: 2 egg yolks
+- :icecream: 2 tsp vanilla
 
 ## :cooking: Cookware
 
