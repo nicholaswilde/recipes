@@ -60,50 +60,42 @@ a smooth chocolate batter.
 Pour batter into the prepared pan until it reaches halfway up the sides. Level the surface with a spatula. Bake until
 cake is set in the center, 45 to 50 minutes There are 3 ways to check if it’s done:
 
+1. Jiggle it: The cake should wiggle a little in the middle. If it wiggles a lot, it’s not ready.
+2. Nudge it: Press the top gently; it should bounce back to your touch.
+3. Poke it: Stick a paring knife into the center of the cake. If it comes out clean, it’s done.
+
 ### Step 6
-
-Jiggle it: The cake should wiggle a little in the middle. If it wiggles a lot, it’s not ready.
-
-### Step 7
-
-Nudge it: Press the top gently; it should bounce back to your touch.
-
-### Step 8
-
-Poke it: Stick a paring knife into the center of the cake. If it comes out clean, it’s done.
-
-### Step 9
 
 Let the cake cool in the pan for 15 minutes. While still warm, place a large plate over it, flip the plate & pan
 together; the cake should easily slide out. (Run a paring knife along the side of the pan if needed).
 
-### Step 10
+### Step 7
 
 Slice the cake into 4 1/4 in inch thick layers using a serrated knife.
 
-### Step 11
+### Step 8
 
 Add [chocolate ganache][1], that should be the consistency of tooth paste, in between the layers of the cake and on top
 and the sides.
 
-### Step 12
+### Step 9
 
 Set the cake in the refrigerator to cool.
 
-### Step 13
+### Step 10
 
 Add plastic wrap and wire rack to cooking tray. Set cake on top of wire rack.
 
-### Step 14
+### Step 11
 
 Microwave ganache for about 30 to 45 seconds to make it more liquid.
 
-### Step 15
+### Step 12
 
 Pour ganache over cake and let it run off the sides and into the tray. Use offset spatula to go over the top of the cake
 once to remove the excess ganache.
 
-### Step 16
+### Step 13
 
 Lift cake and scrape off excess ganache from the bottom edges to catch the drips.
 
