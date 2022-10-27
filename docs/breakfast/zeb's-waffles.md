@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Zeb's Waffles
+# :waffle: Zeb's Waffles
 
 ![Zeb's Waffles](../assets/images/zeb's-waffles.png)
 
@@ -11,16 +11,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 orange
-- 1 cup rolled oats
-- 0.25 cup walnuts
-- 2 Tbsp flaxseed meal
-- 0.25 tsp cinnamon
-- 1 banana
-- 0.5 cup milk
-- 2 kiwi
-- 0.5 cup raspberries
-- 4 tsp maple syrup
+- :orange_circle: 1 orange
+- :ear_of_rice: 1 cup rolled oats
+- :chestnut: 0.25 cup walnuts
+- :ear_of_rice: 2 Tbsp flaxseed meal
+- :custard: 0.25 tsp cinnamon
+- :banana: 1 banana
+- :glass_of_milk: 0.5 cup milk
+- :kiwifruit: 2 kiwi
+- :strawberry: 0.5 cup raspberries
+- :maple_leaf: 4 tsp maple syrup
 
 ## :cooking: Cookware
 
