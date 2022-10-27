@@ -12,7 +12,7 @@ comments: true
 ## :salt: Ingredients - Dough
 
 - :droplet: 3 Tbsp warm water
-- :micro: 2.5 tsp active dry yeast
+- :microbe: 2.5 tsp active dry yeast
 - :carrot: 1 Tbsp vegetable oil
 - :butter: 0.5 cup melted butter
 - :candy: 0.33 cup granulated sugar
