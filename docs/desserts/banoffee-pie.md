@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients - Crust
 
-- :cookie: 2.25 cup graham cracker
+- :cookie: 2.25 cup [graham cracker][1]
 - :candy: 2 Tbsp granulated sugar
 - :butter: 0.5 cup melted butter
 
@@ -36,8 +36,8 @@ comments: true
 
 ### Step 1
 
-Combine graham cracker crumbs, granulated sugar, and melted butter and press in the bottom of a springform pan or pie
-dish and press it up along the sides. Chill the crust until firm.
+Combine [graham cracker][1] crumbs, granulated sugar, and melted butter and press in the bottom of a springform pan or
+pie dish and press it up along the sides. Chill the crust until firm.
 
 ## :pencil: Instructions - Filling
 
@@ -56,3 +56,5 @@ Top with sliced bananas, heavy cream, and chocolate shavings.
 ## :link: Source
 
 - <https://therecipecritic.com/banoffee-pie/>
+
+[1]: <../ingredients/graham-crackers.md>
