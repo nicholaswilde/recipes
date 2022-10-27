@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Honey Beer Bread
+# :bread: Honey Beer Bread
 
 ![Honey Beer Bread](../assets/images/honey-beer-bread.jpg)
 
@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 cups flour
-- 2 Tbsp sugar
-- 1 Tbsp baking powder
-- 1 tsp salt
-- 1 12-oz bottle beer
-- 2 Tbsp honey
-- 4 Tbsp butter
+- :ear_of_rice: 3 cups flour
+- :candy: 2 Tbsp sugar
+- :dash: 1 Tbsp baking powder
+- :salt: 1 tsp salt
+- :beer: 1 12-oz bottle beer
+- :honey_pot: 2 Tbsp honey
+- :butter: 4 Tbsp butter
 
 ## :cooking: Cookware
 
