@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Buttermilk Whole Wheat Waffles
+# :waffle: Buttermilk Whole Wheat Waffles
 
 ![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.jpg)
 
@@ -11,22 +11,22 @@ comments: true
 
 ## :salt: Ingredients
 
-- some strawberries
-- some raspberries
-- some blackberries
-- some blueberries
-- 1 lemon
-- some sugar
-- 0.5 cup whole wheat flour
-- 0.5 cup all-purpose flour
-- 1 Tbsp cornmeal
-- 0.25 tsp salt
-- 1 tsp baking soda
-- 1 egg
-- 1 cup [buttermilk][1]
-- 2.5 Tbsp butter
-- some milk
-- some maple syrup
+- :strawberry: some strawberries
+- :strawberry: some raspberries
+- :black_circle: some blackberries
+- :blue_circle: some blueberries
+- :lemon: 1 lemon
+- :candy: some sugar
+- :ear_of_rice: 0.5 cup whole wheat flour
+- :ear_of_rice: 0.5 cup all-purpose flour
+- :corn: 1 Tbsp cornmeal
+- :salt: 0.25 tsp salt
+- :cup_with_straw: 1 tsp baking soda
+- :egg: 1 egg
+- :glass_of_milk: 1 cup [buttermilk][1]
+- :butter: 2.5 Tbsp butter
+- :glass_of_milk: some milk
+- :maple_leaf: some maple syrup
 
 ## :cooking: Cookware
 
