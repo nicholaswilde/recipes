@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Bread Machine French Bread
+# :bread: Bread Machine French Bread
 
 ![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg)
 
@@ -11,12 +11,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.33 cups warm water
-- 1.5 Tbsp olive oil
-- 1.5 tsp salt
-- 2 Tbsp sugar
-- 4 cups flour
-- 2 tsp yeast
+- :hotsprings: 1.33 cups warm water
+- :olive: 1.5 Tbsp olive oil
+- :salt: 1.5 tsp salt
+- :candy: 2 Tbsp sugar
+- :ear_of_rice: 4 cups flour
+- :microbe: 2 tsp yeast
 
 ## :cooking: Cookware
 
