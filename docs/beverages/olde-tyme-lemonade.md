@@ -1,16 +1,16 @@
 ---
 comments: true
 ---
-# Olde Tyme Lemonade
+# :lemon: Olde Tyme Lemonade
 
 ![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.jpg)
 
 ## :salt: Ingredients
 
-- 1.75 cups sugar
-- 1 cup water
-- 1.5 cups lemon juice
-- 7 cup water
+- :candy: 1.75 cups sugar
+- :droplet: 1 cup water
+- :lemon: 1.5 cups lemon juice
+- :droplet: 7 cup water
 
 ## :cooking: Cookware
 
