@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :herb: Joy of Cooking Pesto
 
 ![Joy of Cooking Pesto](../assets/images/joy-of-cooking-pesto.jpg)
