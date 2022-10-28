@@ -20,7 +20,7 @@ comments: true
 - :dash: 2 tsp baking powder
 - :ear_of_rice: 200 g all-purpose flour
 - :butter: 113 g melted unsalted butter
-- :cookie: 1 plain pizzelle batter (optional)
+- :cookie: 1 [plain pizzelle batter][1] (optional)
 - :chestnut: 0.5 tsp hazelnut flavor (optional)
 
 ## :cooking: Cookware
@@ -48,12 +48,14 @@ onto the iron; a level scoopful of batter is the right size for most standard pi
 
 ### Step 5
 
-To make two-tone pizzelle: Prepare plain pizzelle batter (optional), flavoring it with 1/2 teaspoon hazelnut flavor
-(optional). Using a teaspoon scoop (which holds 2 level measuring teaspoons), drop a chestnut-sized ball of vanilla
-batter just below center in the cooking area of the pizzelle iron. Drop a slightly smaller ball of chocolate batter just
-above the center line, nestling it right next to the vanilla batter. Close the iron, and bake according to the
-manufacturer's directions.
+To make two-tone pizzelle: Prepare [plain pizzelle batter][1] (optional), flavoring it with 1/2 teaspoon hazelnut
+flavor (optional). Using a teaspoon scoop (which holds 2 level measuring teaspoons), drop a chestnut-sized ball of
+vanilla batter just below center in the cooking area of the pizzelle iron. Drop a slightly smaller ball of chocolate
+batter just above the center line, nestling it right next to the vanilla batter. Close the iron, and bake according to
+the manufacturer's directions.
 
 ## :link: Source
 
 - <https://www.kingarthurbaking.com/recipes/chocolate-pizzelle-recipe>
+
+[1]: <./classic-pizzelle.md>
