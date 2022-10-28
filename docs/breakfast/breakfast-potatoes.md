@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Breakfast Potatoes
+# :potato: Breakfast Potatoes
 
 ![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg)
 
@@ -11,11 +11,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.5 lbs red potatoes
-- 4 Tbsp butter
-- 0.5 tsp garlic powder
-- 1 tsp salt
-- 0.5 tsp pepper
+- :potato: 1.5 lbs red potatoes
+- :butter: 4 Tbsp butter
+- :garlic: 0.5 tsp garlic powder
+- :salt: 1 tsp salt
+- :salt: 0.5 tsp pepper
 
 ## :cooking: Cookware
 

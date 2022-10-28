@@ -1,16 +1,16 @@
 ---
 comments: true
 ---
-# Old Irish Coffee
+# :coffee: Old Irish Coffee
 
 ![Old Irish Coffee](../assets/images/old-irish-coffee.jpg)
 
 ## :salt: Ingredients
 
-- 2 oz Irish Whiskey
-- 5 oz strong hot coffee
-- 2 tsp [brown sugar][1]
-- some whipped cream
+- :tumbler_glass: 2 oz Irish Whiskey
+- :coffee: 5 oz strong hot coffee
+- :maple_leaf: 2 tsp [brown sugar][1]
+- :icecream: some whipped cream
 
 ## :cooking: Cookware
 
