@@ -22,13 +22,13 @@ comments: true
 
 ## :chocolate_bar: [Chocolate][20]
 
-| Type                | Cocoate Percnetage  |
-|---------------------|---------------------|
-| white             | 20%               |
-| milk                | 30-40%              |
-| semi-sweet (dark)   | 57%                 |
-| bittersweet (dark)  | 67%                 |
-| unsweetened         | 100%                |
+| Type                | Chocolate Percentage  |
+|---------------------|-----------------------|
+| white               | 20%                   |
+| milk                | 30-40%                |
+| semi-sweet (dark)   | 57%                   |
+| bittersweet (dark)  | 67%                   |
+| unsweetened         | 100%                  |
 
 ## :salt: [Cream of Tartar][2]
 
