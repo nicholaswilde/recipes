@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # 1-Bowl Carrot Apple Muffins
 
