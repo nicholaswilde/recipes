@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :honey_pot: Honey Cookies (Finikia)
 
