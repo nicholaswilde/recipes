@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :cookie: Brown Butter Iced Oatmeal Cookies
 
