@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - breakfast
+  - muffins
 ---
 # :cupcake: Pumpkin Muffins
 
