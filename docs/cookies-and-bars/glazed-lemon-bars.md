@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bars
 ---
 # Glazed Lemon Bars
 
