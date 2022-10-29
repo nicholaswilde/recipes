@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :croissant: Pillowy Soft Cinnamon Rolls
 
