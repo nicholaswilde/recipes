@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bars
 ---
 # Apple Cinnamon Raisin Bars
 
