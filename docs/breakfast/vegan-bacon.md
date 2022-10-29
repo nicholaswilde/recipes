@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - breakfast
+  - vegan
 ---
 # :bacon: Vegan Bacon
 
