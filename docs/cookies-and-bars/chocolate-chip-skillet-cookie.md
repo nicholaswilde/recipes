@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :cookie: Chocolate Chip Skillet Cookie
 
