@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :shell: Conchas (Mexican Pan Dulce)
 
