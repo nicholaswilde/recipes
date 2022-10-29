@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - beverage
 ---
 # :coffee: Old Irish Coffee
 
