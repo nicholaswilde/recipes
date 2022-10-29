@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :egg: Gordon Ramsay Scrambled Eggs
 
