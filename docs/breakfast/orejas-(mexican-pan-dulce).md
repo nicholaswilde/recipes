@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+  - mexican
 ---
 # :ear: Orejas (Mexican Pan Dulce)
 
