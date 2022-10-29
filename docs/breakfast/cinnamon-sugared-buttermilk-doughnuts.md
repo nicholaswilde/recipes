@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
 
