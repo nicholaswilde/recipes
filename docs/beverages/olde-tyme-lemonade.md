@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - beverage
 ---
 # :lemon: Olde Tyme Lemonade
 
