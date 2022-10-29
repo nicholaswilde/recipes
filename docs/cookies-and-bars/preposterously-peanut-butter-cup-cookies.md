@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :cookie: Preposterously Peanut Butter Cup Cookies
 
