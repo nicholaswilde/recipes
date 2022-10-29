@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - bars
 ---
-# Chewy Brownies
+# :chocolate_bar: Chewy Brownies
 
 ![Chewy Brownies](../assets/images/chewy-brownies.jpg)
 
