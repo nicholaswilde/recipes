@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :pancakes: Queen Elizabeth II's Drop Scones
 
