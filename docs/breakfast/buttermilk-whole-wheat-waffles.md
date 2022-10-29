@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :waffle: Buttermilk Whole Wheat Waffles
 
