@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - bread
 ---
-# Lemon Blueberry Bread
+# :lemon: Lemon Blueberry Bread
 
 ![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.jpg)
 
@@ -11,21 +13,21 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.75 cups melted coconut oil
-- 1 cup sugar
-- 3 eggs
-- 0.5 tsp vanilla
-- 2 Tbsp lemon zest
-- 1 cup [yogurt][1]
-- 0.25 cup lemon juice
-- 2 cups flour
-- 1 tsp baking powder
-- 0.5 tsp baking soda
-- 0.5 tsp salt
-- 2 Tbsp flaxmeal
-- 1 cup blueberries
-- 2 tsp lemon juice
-- 1 cup powdered sugar
+- :coconut: 0.75 cups melted coconut oil
+- :candy: 1 cup sugar
+- :egg: 3 eggs
+- :icecream: 0.5 tsp vanilla
+- :lemon: 2 Tbsp lemon zest
+- :microbe: 1 cup [yogurt][1]
+- :lemon: 0.25 cup lemon juice
+- :ear_of_rice: 2 cups flour
+- :dash: 1 tsp baking powder
+- :cup_with_straw: 0.5 tsp baking soda
+- :salt: 0.5 tsp salt
+- :ear_of_rice: 2 Tbsp flaxmeal
+- :blueberries: 1 cup blueberries
+- :lemon: 2 tsp lemon juice
+- :candy: 1 cup powdered sugar
 
 ## :cooking: Cookware
 
@@ -33,7 +35,7 @@ comments: true
 - 1 parchment paper
 - 1 bowl
 
-## :pencil: Instructions
+## :pencil: Instructions - Dough
 
 ### Step 1
 
@@ -54,6 +56,8 @@ Combine all ingredients and flaxmeal and fold in blueberries.
 ### Step 5
 
 Bake approximately 45 to 50 minutes.
+
+## :pencil: Instructions - Glaze
 
 ### Step 6
 

@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bread
 ---
 # :bread: Delicious Zucchini Bread
 

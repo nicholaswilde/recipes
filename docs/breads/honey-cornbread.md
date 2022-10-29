@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - bread
 ---
-# Honey Cornbread
+# :corn: Honey Cornbread
 
 ![Honey Cornbread](../assets/images/honey-cornbread.jpg)
 
@@ -11,15 +13,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup buttermilk
-- 0.67 cup honey
-- 2 large eggs
-- 4 Tbsp unsalted butter
-- 1.25 cup all-purpose flour
-- 1 cup cornmeal
-- 1 tsp salt
-- 1 tsp baking powder
-- 0.25 tsp baking soda
+- :glass_of_milk: 1 cup buttermilk
+- :hone_pot: 0.67 cup honey
+- :egg: 2 large eggs
+- :butter: 4 Tbsp unsalted butter
+- :ear_of_rice: 1.25 cup all-purpose flour
+- :corn: 1 cup cornmeal
+- :salt: 1 tsp salt
+- :dash: 1 tsp baking powder
+- :cup_with_straw: 0.25 tsp baking soda
 
 ## :cooking: Cookware
 
@@ -30,6 +32,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     Even though we used 2/3 cup, we found that the type of honey didn’t affect the flavor of the cornbread much—except
     with very strong honey, such as buckwheat. That lent a distinctive deep, molasses-y flavor that some of our tasters
     didn’t like. The test kitchen’s favorite cornmeal is Anson Mills Fine Yellow Cornmeal.

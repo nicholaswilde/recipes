@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - bread
 ---
-# Best-Ever Banana Bread
+# :banana: Best-Ever Banana Bread
 
 ![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.jpg)
 
@@ -11,16 +13,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.25 cups sugar
-- 0.5 cup butter
-- 2 eggs
-- 1.5 cups banana
-- 0.5 cup [buttermilk][1]
-- 1 tsp vanilla
-- 2.5 cups flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 cup nuts
+- :candy: 1.25 cups sugar
+- :butter: 0.5 cup butter
+- :egg: 2 eggs
+- :banana: 1.5 cups banana
+- :glass_of_milk: 0.5 cup [buttermilk][1]
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 2.5 cups flour
+- :cup_with_straw: 1 tsp baking soda
+- :salt: 1 tsp salt
+- :chestnut: 1 cup nuts
 
 ## :cooking: Cookware
 
@@ -40,4 +42,4 @@ Heat oven to 350°F.
 
 Bake in 8" loaf pan for 1 hour.
 
-[1]: ../ingredients/buttermilk.md
+[1]: <../ingredients/buttermilk.md>

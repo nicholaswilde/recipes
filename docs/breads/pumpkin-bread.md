@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bread
 ---
 # :jack_o_lantern: Pumpkin Bread
 

@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bread
 ---
 # :bagel: Pain Aux Raisins
 

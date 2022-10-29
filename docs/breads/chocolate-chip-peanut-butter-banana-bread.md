@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bread
 ---
 # :bread: Chocolate Chip Peanut Butter Banana Bread
 

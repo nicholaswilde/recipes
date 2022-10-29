@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - bread
 ---
-# Parmesan Pull-Apart Bread
+# :cheese_wedge: Parmesan Pull-Apart Bread
 
 ![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg)
 
@@ -11,9 +13,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 Tbsp butter
-- 0.5 cup Parmesan
-- 1 10-oz pkg buttermilk biscuit
+- :butter: 3 Tbsp butter
+- :cheese_wedge: 0.5 cup Parmesan
+- :cookie: 1 10-oz pkg [buttermilk biscuit][1]
 
 ## :cooking: Cookware
 
@@ -34,7 +36,7 @@ Brush 1 tsp of the butter over the bottom and sides of a loaf pan.
 
 ### Step 3
 
-Spoon grated Parmesan into small bowl. Cut each refrigerated buttermilk biscuit into quarters.
+Spoon grated Parmesan into small bowl. Cut each refrigerated [buttermilk biscuit][1] into quarters.
 
 ### Step 4
 
@@ -51,3 +53,5 @@ Bake until loaf is browned, 30 to 35 minutes.
 ### Step 7
 
 Let stand in pan for 1 minute, then serve onto serving platter.
+
+[1]: <../sides/jojo's-biscuits.md>
