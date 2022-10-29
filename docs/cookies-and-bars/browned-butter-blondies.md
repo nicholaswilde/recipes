@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bars
 ---
 # :cookie: Browned Butter Blondies
 
