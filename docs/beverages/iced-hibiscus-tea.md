@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - beverage
 ---
 # :hibiscus: Iced Hibiscus Tea
 
