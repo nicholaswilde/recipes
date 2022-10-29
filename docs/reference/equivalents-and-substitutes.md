@@ -160,7 +160,7 @@ Let mixture sit for 5 minutes.
 | 2 Tbsp                                | 2 Tbsp  |
 | 3 Tbsp                                | 3 Tbsp  |
 
-## :glass_of_milk: [Whole Milk][12]
+## :glass_of_milk: Whole Milk
 
 | Whole Milk Equivalency to:    | Heavy Cream | Half-and-Half | Water   |
 |-------------------------------|-------------|---------------|---------|
@@ -188,7 +188,6 @@ Let mixture sit for 5 minutes.
 [9]: <../ingredients/miso-nori-paste.md>
 [10]: <https://www.nigella.com/ask/substitute-for-suet>
 [11]: <../ingredients/grated-vegetable-shortening.md>
-[12]: <https://blog.wilton.com/everyday-milk-substitutes-for-baking-when-out-of-milk/>
 [13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
