@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # Consumer Union Chocolate Chip Cookies
 
