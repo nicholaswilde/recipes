@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :peanuts: Chewy Peanut Butter Cookies
 
