@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :peanuts: Peanut Butter Sandwich Cookies
 
