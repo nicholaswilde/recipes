@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats Recipe by Tasty
 
