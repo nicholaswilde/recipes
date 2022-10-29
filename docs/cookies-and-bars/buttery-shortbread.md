@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cookies
 ---
 # :flatbread: Buttery Shortbread
 
