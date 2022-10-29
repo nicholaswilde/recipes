@@ -20,6 +20,16 @@ comments: true
 | 1/2 cup                         | 1/2 cup         | 1/4 tsp |
 | 1 cup                           | 1 cup           | 1/2 tsp |
 
+## :chocolate_bar: [Chocolate][20]
+
+| Type                | Cocoate Percnetage  |
+|---------------------|---------------------|
+| white             | 20%               |
+| milk                | 30-40%              |
+| semi-sweet (dark)   | 57%                 |
+| bittersweet (dark)  | 67%                 |
+| unsweetened         | 100%                |
+
 ## :salt: [Cream of Tartar][2]
 
 | Cream of Tartar Equivalency to:               | Lemon Juice | White Vinegar | Baking Powder[^1] |
@@ -186,3 +196,4 @@ Let mixture sit for 5 minutes.
 [17]: <https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156>
 [18]: <https://cosmopolitancornbread.com/substitute-pectin/>
 [19]: <../ingredients/pectin.md>
+[20]: <https://www.bonappetit.com/story/types-of-chocolate>
