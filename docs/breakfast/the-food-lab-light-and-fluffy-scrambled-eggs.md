@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - breakfast
 ---
 # :egg: The Food Lab Light & Fluffy Scrambled Eggs
 
