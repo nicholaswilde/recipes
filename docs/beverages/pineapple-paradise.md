@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - beverage
 ---
 # Pineapple Paradise
 
