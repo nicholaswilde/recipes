@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - bars
 ---
 # :chocolate_bar: Millionaire's Shortbread
 
