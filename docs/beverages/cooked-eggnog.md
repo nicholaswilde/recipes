@@ -1,3 +1,8 @@
+---
+comments: true
+tags:
+  - beverage
+---
 # :egg: Cooked Eggnog
 
 ![Cooked Eggnog](../assets/images/cooked-eggnog.jpg)
