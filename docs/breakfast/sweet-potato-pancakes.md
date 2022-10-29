@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - breakfast
+  - pancakes
 ---
 # :pancakes: Sweet Potato Pancakes
 
