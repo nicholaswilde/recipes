@@ -1,5 +1,7 @@
 ---
-comments: tru
+comments: true
+tags:
+  - breakfast
 ---
 # :pancakes: Joy of Cooking Pancakes
 
