@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - italian
 ---
 # :tomato: Marinara Sauce
 
