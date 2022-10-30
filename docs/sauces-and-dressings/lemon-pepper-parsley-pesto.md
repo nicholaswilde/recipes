@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
 # :herb: Lemon-Pepper Parsley Pesto
 
