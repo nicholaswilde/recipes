@@ -36,3 +36,7 @@ Soak raw cashews in hot water for 30 minutes. Mix almond mil and lemon juice. Se
 
 Using immersion blender, mix drained cashews and almond milk, lemon or lime juice, garlic, salt, onion powder, apple
 cider vinegar, maple syrup, chipotle chili powder or sub chili powder, and dried dill.
+
+## :link: Source
+
+- <https://minimalistbaker.com/vegan-chipotle-ranch-dressing/#wprm-recipe-container-45694>
