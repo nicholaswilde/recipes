@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - sauce
 ---
 # :tomato: New York-Style Pizza Sauce
 
