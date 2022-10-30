@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - Joy of Cooking
 ---
 # :herb: Joy of Cooking Pesto
 
