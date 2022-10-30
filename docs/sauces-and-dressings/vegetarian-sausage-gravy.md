@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - vegetarian
+  - sauce
 ---
 # :hotdog: Vegetarian Sausage Gravy
 

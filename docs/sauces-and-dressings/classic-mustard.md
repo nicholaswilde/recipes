@@ -1,25 +1,25 @@
 ---
 comments: true
+tags:
+  - condiment
 ---
-# Classic Mustard
+# :hotdog: Classic Mustard
 
 ![Classic Mustard](../assets/images/classic-mustard.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 5 minutes |
 
 ## :salt: Ingredients
 
-- 3 Tbsp water
-- 5 Tbsp vinegar
-- 0.5 cup mustard powder
-- 1 Tbsp sugar
-- 0.25 tsp salt
-- 1 tsp turmeric (optional)
-- 0.5 tsp sweet paprika (optional)
-
-## :cooking: Cookware
+- :droplet: 3 Tbsp water
+- :sake: 5 Tbsp vinegar
+- :hotdog: 0.5 cup mustard powder
+- :candy: 1 Tbsp sugar
+- :salt: 0.25 tsp salt
+- :herb: 1 tsp turmeric (optional)
+- :hot_pepper: 0.5 tsp sweet paprika (optional)
 
 ## :pencil: Instructions
 

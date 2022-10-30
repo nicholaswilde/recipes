@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - condiment
+  - sauce
+  - dip
 ---
-# Hummus
+# :falafel: Hummus
 
 ![Hummus](../assets/images/hummus.jpg)
 
@@ -11,17 +15,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 Tbsp lemon juice
-- 0.25 cup water
-- 6 Tbsp tahini
-- 2 Tbsp olive oil
-- 1 14-oz can chickpeas
-- 1 clove garlic
-- 0.5 tsp salt
-- 0.25 tsp cumin
-- 1 pinch cayenne
-- 1 Tbsp cilantro
-- 1 Tbsp parsley
+- :lemon: 3 Tbsp lemon juice
+- :droplet: 0.25 cup water
+- :seedling: 6 Tbsp [tahini][1]
+- :olive: 2 Tbsp olive oil
+- :falafel: 1 14-oz can chickpeas
+- :garlic: 1 clove garlic
+- :salt: 0.5 tsp salt
+- :herb: 0.25 tsp cumin
+- :hot_pepper: 1 pinch cayenne
+- :herb: 1 Tbsp cilantro
+- :herb: 1 Tbsp parsley
 
 ## :cooking: Cookware
 
@@ -37,7 +41,7 @@ Combine lemon juice and water in a small bowl or measuring cup.
 
 ### Step 2
 
-Whisk together tahini and 2 tablespoons olive oil in second small bowl or measuring cup.
+Whisk together [tahini][1] and 2 tablespoons olive oil in second small bowl or measuring cup.
 
 ### Step 3
 
@@ -76,3 +80,5 @@ Drizzle with olive oil and serve.
 ## :link: Source
 
 - <https://www.food.com/amp/recipe/cooks-illustrated-restaurant-style-hummus-380146>
+
+[1]: <./tahini.md>

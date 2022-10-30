@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
 # :herb: Cilantro Dressing
 
@@ -13,7 +15,7 @@ comments: true
 
 - :sake: 0.33 cup rice vinegar
 - :olive: 4 Tbsp olive oil
-- :egg: 0.25 cup mayonnaise
+- :egg: 0.25 cup [mayonnaise][2]
 - :cheese: 3 oz cotija cheese or queso fresco
 - :lemon: 1 lime juice
 - :garlic: 1 clove garlic
@@ -28,12 +30,13 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     This is copycat of [TJ's Cilantro Dressing][1]
 
 ### Step 1
 
-Add rice vinegar, olive oil, mayonnaise, cotija cheese or queso fresco, lime juice, garlic, jalapeño, cilantro, and
-salt to a blender in the order given.
+Add rice vinegar, olive oil, [mayonnaise][2], cotija cheese or queso fresco, lime juice, garlic, jalapeño, cilantro,
+and salt to a blender in the order given.
 
 ### Step 2
 
@@ -44,3 +47,4 @@ Process until smooth.
 - <https://ohsodelicioso.com/poblano-cilantro-salad-dressing-with-spicy-chicken-salad/>
 
 [1]: <https://www.traderjoesgroceryreviews.com/trader-joes-cilantro-dressing/>
+[2]: <./mayonnaise.md>

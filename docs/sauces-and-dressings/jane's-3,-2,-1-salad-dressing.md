@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
-# Jane's 3, 2, 1 Salad Dressing
+# :green_salad: Jane's 3, 2, 1 Salad Dressing
 
 ![Jane's 3, 2, 1 Salad Dressing](../assets/images/jane's-3,-2,-1-salad-dressing.jpg)
 
@@ -11,9 +13,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 Tbsp balsamic vinegar
-- 2 Tbsp mustard of choice
-- 1 Tbsp maple syrup
+- :sake: 3 Tbsp balsamic vinegar
+- :hotdog: 2 Tbsp [mustard][1] of choice
+- :maple_leaf: 1 Tbsp maple syrup
 
 ## :cooking: Cookware
 
@@ -24,8 +26,10 @@ comments: true
 
 ### Step 1
 
-Mix balsamic vinegar, mustard of choice, and maple syrup in a small bowl and whisk until smooth.
+Mix balsamic vinegar, [mustard][1] of choice, and maple syrup in a small bowl and whisk until smooth.
 
 ## :link: Source
 
 - Prevent and Reverse Heart Disease by Caldwell B. Esselstyn, Jr., M.D.
+
+[1]: <./dijon-mustard.md>

@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dressing
+  - joy-of-cooking
 ---
 # :honey_pot: Honey Mustard Vinaigrette
 

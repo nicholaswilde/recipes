@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - sauce
+  - italian
 ---
-# White Mac and Cheese Sauce
+# :spaghetti: White Mac and Cheese Sauce
 
 ![White Mac and Cheese Sauce](../assets/images/white-mac-and-cheese-sauce.jpg)
 
@@ -11,12 +14,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 lb Yukon gold potatoes
-- 1 cup unsweetened almond milk
-- 6 Tbsps nutritional yeast
-- 1 Tbsp lemon juice
-- 2 cloves garlic
-- 1 pinch cayenne
+- :potato: 1 lb Yukon gold potatoes
+- :glass_of_milk: 1 cup unsweetened almond milk
+- :microbe: 6 Tbsps nutritional yeast
+- :lemon: 1 Tbsp lemon juice
+- :garlic: 2 cloves garlic
+- :hot_pepper: 1 pinch cayenne
 
 ## :cooking: Cookware
 

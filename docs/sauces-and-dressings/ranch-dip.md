@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dip
 ---
 # Ranch Dip
 

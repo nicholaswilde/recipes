@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - spread
+  - jam
+  - condiment
 ---
 # :strawberry: Single Jar of Fruit Jam
 
@@ -24,6 +28,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     This jam calls for just two cups of chopped fruit. This is about one pint of berries, four to six peaches or plums,
     or eight small apricots.
 

@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dip
+  - mexican
 ---
 # :corn: Sweet-and-Spicy Corn Salsa
 
@@ -29,6 +32,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     This is a copycat of [TJ's Corn and Chile Tomato-less Salsa][1]
 
 ### Step 1

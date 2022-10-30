@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
-# Tzatziki Sauce
+# :rice: Tzatziki Sauce
 
 ![Tzatziki Sauce](../assets/images/tzatziki-sauce.jpg)
 
@@ -11,16 +13,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 English cucumber
-- 0.5 tsp salt
-- 4 cloves garlic
-- 1.5 cups full fat Greek yogurt
-- 0.25 cup olive oil
-- 0.5 tsp Aleppo chiles
-- 0.5 tsp pepper
-- 2 Tbsps dill
-- 0.5 lemon juiced
-- some white vinegar (optional)
+- :cucumber: 0.5 English cucumber
+- :salt: 0.5 tsp salt
+- :garlic: 4 cloves garlic
+- :rice: 1.5 cups full fat Greek yogurt
+- :olive: 0.25 cup olive oil
+- :hot_pepper: 0.5 tsp Aleppo chiles
+- :salt: 0.5 tsp pepper
+- :herb: 2 Tbsps dill
+- :lemon: 0.5 lemon juiced
+- :sake: some white vinegar (optional)
 
 ## :cooking: Cookware
 

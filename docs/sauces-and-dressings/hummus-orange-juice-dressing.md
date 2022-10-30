@@ -1,21 +1,23 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
-# Hummus-Orange Juice Dressing
+# :falafel: Hummus-Orange Juice Dressing
 
 ![Hummus-Orange Juice Dressing](../assets/images/hummus-orange-juice-dressing.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 1/2 cup | 0 minutes |
+| 1/2 cup | 5 minutes |
 
 ## :salt: Ingredients
 
-- 3 Tbsp hummus
-- 3 Tbsp orange juice
-- 1 tsp mustard of choice
-- 2 Tbsp balsamic vinegar
-- 0.5 tsp pealed and chopped fresh ginger
+- :falafel: 3 Tbsp [hummus][1]
+- :orange_circle: 3 Tbsp orange juice
+- :hotdog: 1 tsp [mustard][2] of choice
+- :sake: 2 Tbsp balsamic vinegar
+- :sweet_potato: 0.5 tsp pealed and chopped fresh ginger
 
 ## :cooking: Cookware
 
@@ -26,9 +28,12 @@ comments: true
 
 ### Step 1
 
-Mix hummus, orange juice, mustard of choice, balsamic vinegar, and pealed and chopped fresh ginger in a small bowl and
-whisk until smooth.
+Mix [hummus][1], orange juice, [mustard][2] of choice, balsamic vinegar, and pealed and chopped fresh ginger in a small
+bowl and whisk until smooth.
 
 ## :link: Source
 
 - Prevent and Reverse Heart Disease by Caldwell B. Esselstyn, Jr., M.D.
+
+[1]: <./hummus.md>
+[2]: <./dijon-mustard.md>

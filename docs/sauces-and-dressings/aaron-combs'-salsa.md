@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - mexican
 ---
 # :tomato: Aaron Combs' Salsa
 

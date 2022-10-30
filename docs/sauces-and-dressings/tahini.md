@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - condiment
+  - sauce
+  - spread
 ---
-# Tahini
+# :seedling: Tahini
 
 ![Tahini](../assets/images/tahini.jpg)
 
@@ -11,9 +15,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup sesame seeds
-- 3 Tbsp vegetable oil
-- 1 pinch salt
+- :seedling: 1 cup sesame seeds
+- :carrot: 3 Tbsp vegetable oil
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

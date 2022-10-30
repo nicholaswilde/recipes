@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
 # :custard: Salted Caramel Sauce
 

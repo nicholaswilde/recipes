@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dressing
+  - ina-garten
 ---
 # :champagne: Ina Garten's Perfect Vinaigrette
 
@@ -12,7 +15,7 @@ comments: true
 ## :salt: Ingredients
 
 - 🥂 3 Tbsp Champagne vinegar
-- :hotdog: 0.5 tsp Dijon mustard
+- :hotdog: 0.5 tsp [Dijon mustard][1]
 - :garlic: 0.5 tsp garlic
 - :egg: 1 egg yolk[^1]
 - :salt: 0.75 tsp salt
@@ -27,8 +30,8 @@ comments: true
 
 ### Step 1
 
-In a small bowl (or large measuring cup), whisk together the Champagne vinegar, Dijon mustard, garlic, egg yolk, salt,
-pepper.
+In a small bowl (or large measuring cup), whisk together the Champagne vinegar, [Dijon mustard][1], garlic, egg yolk,
+salt, pepper.
 
 ### Step 2
 
@@ -41,3 +44,5 @@ moisten and serve immediately.
 
 [^1]:
     If you don’t want to use raw egg, leave it out. You can also use extra mustard to help emulsify
+
+[1]: <./dijon-mustard.md>

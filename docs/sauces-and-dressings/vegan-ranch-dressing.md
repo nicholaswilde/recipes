@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dressing
+  - vegan
 ---
 # :herb: Vegan Ranch Dressing
 

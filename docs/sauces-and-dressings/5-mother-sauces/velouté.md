@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - mother-sauce
+  - french
 ---
 # :carrot: Velouté
 
@@ -28,7 +31,7 @@ comments: true
 
 ### Step 1
 
-Make a blond roux.
+Make a [heavy blond roux][1].
 
 ### Step 2
 

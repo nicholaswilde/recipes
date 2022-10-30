@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - asian
+  - sauce
 ---
 # :takeout_box: Asian Sweet-and-Sour Sauce
 

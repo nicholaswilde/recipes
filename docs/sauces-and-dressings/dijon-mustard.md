@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - condiment
 ---
 # :hotdog: Dijon Mustard
 

@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
-# Rip's Salad Dressing
+# :green_salad: Rip's Salad Dressing
 
 ![Rip's Salad Dressing](../assets/images/rip's-salad-dressing.jpg)
 
@@ -11,12 +13,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 lemon, lime, or orange juice
-- 1 tsp tamari or soy sauce (optional)
-- 1 tsp nutritional yeast
-- 1 tsp mustard of choice
-- 2 Tbsp balsamic vinegar or any vinegar of choice
-- 1 tsp molasses or honey (optional)
+- :lemon: 1 lemon, lime, or orange juice
+- :sake: 1 tsp tamari or soy sauce (optional)
+- :microbe: 1 tsp nutritional yeast
+- :hotdog: 1 tsp mustard of choice
+- :sake: 2 Tbsp balsamic vinegar or any vinegar of choice
+- :honey_pot: 1 tsp molasses or honey (optional)
 
 ## :cooking: Cookware
 

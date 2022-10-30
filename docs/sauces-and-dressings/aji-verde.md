@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - mexican
+  - sauce
+  - cooks-illustrated
 ---
 # :hot_pepper: Aji Verde
 
@@ -27,8 +31,8 @@ comments: true
 
 ### Step 1
 
-Combine mayonnaise, stemmed, seeded, and chopped jalapeño chile, minced cilantro, grated cotija cheese, lime juice,
-huacatay paste, and minced garlic in a food processor.
+Combine [mayonnaise][1], stemmed, seeded, and chopped jalapeño chile, minced cilantro, grated cotija cheese, lime
+juice, huacatay paste, and minced garlic in a food processor.
 
 ### Step 2
 

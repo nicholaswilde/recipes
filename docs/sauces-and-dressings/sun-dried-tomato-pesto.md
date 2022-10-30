@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - sauce
+  - italian
+  - joy-of-cooking
 ---
 # :tomato: Sun-Dried Tomato Pesto
 
@@ -34,6 +38,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     Spread this on bruschetta or pizza; toss it with pasta; or serve it with grilled poultry, seafood, or pasta.
 
 ### Step 1

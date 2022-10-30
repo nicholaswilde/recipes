@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - joy-of-cooking
 ---
 # :peanuts: Peanut Dipping Sauce
 

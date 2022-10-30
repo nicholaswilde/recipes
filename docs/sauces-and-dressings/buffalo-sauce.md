@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
-# Buffalo Sauce
+# :water_buffalo: Buffalo Sauce
 
 ![Buffalo Sauce](../assets/images/buffalo-sauce.jpg)
 

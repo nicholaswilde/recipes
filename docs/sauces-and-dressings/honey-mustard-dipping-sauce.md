@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - dip
 ---
 # :honey_pot: Honey Mustard Dipping Sauce
 

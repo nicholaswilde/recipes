@@ -1,4 +1,10 @@
-# Cook's Country Perfect Pesto
+---
+comments: true
+tags:
+  - sauce
+  - italian
+---
+# :herb: Cook's Country Perfect Pesto
 
 ![Cook's Country Perfect Pesto](../assets/images/cook's-country-perfect-pesto.jpg)
 
@@ -8,12 +14,12 @@
 
 ## :salt: Ingredients
 
-- 0.5 cup pine nuts
-- 0.75 cup olive oil, divided
-- 4 oz basil stems
-- 2.25 tsp salt, divided
-- 1.25 oz Parmesan
-- 2 cloves garlic
+- :chestnut: 0.5 cup pine nuts
+- :olive: 0.75 cup olive oil, divided
+- :herb: 4 oz basil stems
+- :salt: 2.25 tsp salt, divided
+- :cheese_wedge: 1.25 oz Parmesan
+- :garlic: 2 cloves garlic
 
 ## :cooking: Cookware
 

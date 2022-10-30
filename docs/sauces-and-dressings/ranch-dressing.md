@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
 # :herb: Ranch Dressing
 

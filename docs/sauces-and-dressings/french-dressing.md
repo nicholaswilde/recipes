@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
 # :green_salad: French Dressing
 
@@ -12,7 +14,7 @@ comments: true
 ## :salt: Ingredients
 
 - :candy: 1 cup sugar
-- :tomato: 0.67 cup ketchup
+- :tomato: 0.67 cup [ketchup][1]
 - :olive: 0.5 cup olive oil
 - :champagne: 0.5 cup white vinegar
 - :leafy_green: 0.5 tsp celery seed
@@ -30,10 +32,12 @@ comments: true
 
 ### Step 1
 
-In a food processor or blender, add sugar, ketchup, olive oil, white vinegar, celery seed, chili powder, dried mustard,
-onion powder, paprika, and salt to taste (I like 2 teaspoons). Process until smooth and store covered in the
+In a food processor or blender, add sugar, [ketchup][1], olive oil, white vinegar, celery seed, chili powder, dried
+mustard, onion powder, paprika, and salt to taste (I like 2 teaspoons). Process until smooth and store covered in the
 refrigerator for up to 4 days.
 
 ## :link: Source
 
 - <https://www.culinaryhill.com/homemade-french-dressing-recipe/>
+
+[1]: <./sweet-and-spicy-ketchup.md>

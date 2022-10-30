@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - condiment
 ---
 # :herb: The Soyfoods Council Chimichurri
 
@@ -18,7 +21,7 @@ comments: true
 - :hot_pepper: 0.5 tsp red chili pepper flakes
 - :onion: 2 Tbsp shallot or onion, minced
 - :olive: 0.75 cup vegetable or olive oil
-- 🥂 3 Tbsp sherry wine vinegar or red wine vinegar
+- :wine_glass: 3 Tbsp sherry wine vinegar or red wine vinegar
 - :lemon: 3 Tbsp lemon juice
 
 ## :cooking: Cookware

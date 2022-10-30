@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - sauce
 ---
 # :garlic: Garlic Aioli
 

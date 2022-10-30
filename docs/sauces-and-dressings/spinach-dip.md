@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dip
 ---
 # :leafy_green: Spinach Dip
 
@@ -12,7 +14,7 @@ comments: true
 ## :salt: Ingredients
 
 - :rice: 2 cups sour cream
-- :egg: 1 cup mayonnaise
+- :egg: 1 cup [mayonnaise][1]
 - :leafy_green: 1 10-oz box frozen spinach
 - :stew: 1 pkg Knorr vegetable soup mix
 - :leafy_green: 0.5 cup green onion
@@ -23,8 +25,11 @@ comments: true
 
 ### Step 1
 
-Mix together sour cream, mayonnaise, frozen spinach, Knorr vegetable soup mix, green onion, parsley, and dill seed.
+Mix together sour cream, [mayonnaise][1], frozen spinach, Knorr vegetable soup mix, green onion, parsley, and dill
+seed.
 
 ### Step 2
 
 Serve with torn up pieces of Hawaiian bread.
+
+[1]: <./mayonnaise.md>

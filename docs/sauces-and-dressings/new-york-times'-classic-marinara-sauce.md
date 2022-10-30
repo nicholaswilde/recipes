@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - italian
 ---
 # New York Times' Classic Marinara Sauce
 

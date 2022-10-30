@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
-# :egg: Classic Tartar Sauce
+# :fish: Classic Tartar Sauce
 
 ![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg)
 

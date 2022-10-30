@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - sauce
+  - vegan
 ---
 # :chestnut: Whipped Almond Ricotta
 

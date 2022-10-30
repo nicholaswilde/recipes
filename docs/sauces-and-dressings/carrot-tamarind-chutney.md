@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - spread
+  - cooks-illustrated
 ---
-# Carrot-Tamarind Chutney
+# :carrot: Carrot-Tamarind Chutney
 
 ![Carrot-Tamarind Chutney](../assets/images/carrot-tamarind-chutney.jpg)
 
@@ -11,15 +14,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup carrot
-- 0.25 cup onion
-- 3 Tbsp tamarind juice concentrate
-- 2 Tbsp water
-- 1 Tbsp lemon juice
-- 2 tsp sugar
-- 0.5 tsp cumin
-- 0.5 tsp coriander
-- 0.5 tsp salt
+- :carrot: 0.5 cup carrot
+- :onion: 0.25 cup onion
+- :herb: 3 Tbsp tamarind juice concentrate
+- :droplet: 2 Tbsp water
+- :lemon: 1 Tbsp lemon juice
+- :candy: 2 tsp sugar
+- :herb: 0.5 tsp cumin
+- :herb: 0.5 tsp coriander
+- :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
 

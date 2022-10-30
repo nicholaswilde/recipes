@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dip
 ---
 # :onion: Claire's Five-Onion Dip
 
@@ -18,7 +20,7 @@ comments: true
 - :oil_drum: 0.5 cup vegetable oil
 - :salt: 1 Tbsp salt
 - :rice: 1 cup sour cream
-- :egg: 2 Tbsp mayonnaise
+- :egg: 2 Tbsp [mayonnaise][1]
 - :sake: 0.5 tsp Worcestershire sauce
 - :salt: 0.25 tsp white pepper
 
@@ -44,11 +46,13 @@ the night before I want dip so they can cool completely in the fridge.)
 
 ### Step 3
 
-Mix the onions with sour cream, mayonnaise, Worcestershire sauce, and white pepper, taste (with a chip), and adjust salt
-and pepper if needed. You can even add a pinch of MSG if you like, but this is one dip that frankly does not need it, as
-the mixture of onions is packed with tons of deep umami. Garnish with the thinly sliced portion of the green onion (or
-crunchy fried onions, or fried garlic) and consume with your favorite potato chip.
+Mix the onions with sour cream, [mayonnaise][1], Worcestershire sauce, and white pepper, taste (with a chip), and
+adjust salt and pepper if needed. You can even add a pinch of MSG if you like, but this is one dip that frankly does
+not need it, as the mixture of onions is packed with tons of deep umami. Garnish with the thinly sliced portion of the
+green onion (or crunchy fried onions, or fried garlic) and consume with your favorite potato chip.
 
 ## :link: Source
 
 - <https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590>
+
+[1]: <./mayonnaise.md>

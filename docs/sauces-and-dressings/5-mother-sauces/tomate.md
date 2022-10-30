@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - mother-sauce
+  - french
+  - joy-of-cooking
 ---
 # :tomato: Tomate
 
@@ -27,6 +31,9 @@ comments: true
 - :salt: 0.25 tsp pepper
 
 ## :cooking: Cookware
+
+- 1 large skillet
+- 1 spoon
 
 ## :pencil: Instructions
 

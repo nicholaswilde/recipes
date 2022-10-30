@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - mother-sauce
+  - french
 ---
 # :glass_of_milk: Béchamel
 
