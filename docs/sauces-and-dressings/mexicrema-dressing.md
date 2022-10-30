@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dressing
+  - mexican
 ---
 # Mexicrema Dressing
 
