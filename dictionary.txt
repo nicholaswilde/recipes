@@ -207,6 +207,7 @@ Huevos
 Ikarian
 Improver
 Incredisauce
+italian
 jalapeño
 Jalapeño
 jalapeños
@@ -243,6 +244,7 @@ Medjool
 Melomakarona
 melty
 Mexicrema
+mexican
 Mezza
 microplane
 mirepoix
