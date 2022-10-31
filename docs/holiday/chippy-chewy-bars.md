@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - bars
+  - holiday
 ---
 # :chocolate_bar: Chippy Chewy Bars
 
@@ -50,6 +53,7 @@ until chips are melted when stirred. Drizzle evenly over top of baked mixture. C
 into bars.
 
 !!! note
+
     For lighter drizzle, use 1/2 cup chocolate chips and 3/4 teaspoon shortening. Microwave at HIGH 30 seconds to 1
     minute; stir. If necessary, microwave at HIGH an additional 15 seconds at a time, stirring after each heating, just
     until chips are melted when stirred.

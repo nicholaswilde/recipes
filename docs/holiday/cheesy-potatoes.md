@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - side
 ---
 # :potato: Cheesy Potatoes
 

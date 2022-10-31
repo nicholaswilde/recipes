@@ -1,3 +1,9 @@
+---
+comments: true
+tags:
+  - holiday
+  - bar
+---
 # :chocolate_bar: Chocolate Chip Cookie Dough Fudge
 
 ![Chocolate Chip Cookie Dough Fudge](../assets/images/chocolate-chip-cookie-dough-fudge.jpg)

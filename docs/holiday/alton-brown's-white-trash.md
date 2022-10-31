@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - alton-brown
+  - holiday
+  - dessert
 ---
 # :chocolate_bar: Alton Brown's White Trash
 

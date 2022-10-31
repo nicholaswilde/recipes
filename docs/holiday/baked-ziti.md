@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
+  - holiday
 ---
-# 🍝 Baked Ziti
+# :spaghetti: Baked Ziti
 
 ![Baked Ziti](../assets/images/baked-ziti.jpg)
 
