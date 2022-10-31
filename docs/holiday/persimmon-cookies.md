@@ -1,3 +1,10 @@
+---
+comments: true
+tags:
+  - holiday
+  - cookie
+  - dessert
+---
 # :cookie: Persimmon Cookies
 
 ![Persimmon Cookies](../assets/images/persimmon-cookies.jpg)

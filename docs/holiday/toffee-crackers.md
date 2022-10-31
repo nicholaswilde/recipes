@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - dessert
 ---
 # :cookie: Toffee Crackers
 

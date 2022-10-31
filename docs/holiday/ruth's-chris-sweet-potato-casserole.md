@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - casserole
 ---
 # :potato: Ruth's Chris Sweet Potato Casserole
 

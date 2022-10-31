@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - cooks-illustrated
 ---
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 

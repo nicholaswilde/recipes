@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - bars
+  - bar
+  - dessert
 ---
 # :chocolate_bar: Millionaire's Shortbread
 
@@ -13,15 +14,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.5 cups shortbread cookies
-- 0.25 cup butter
-- 0.75 cup [dark brown sugar][1]
-- 0.67 cup butter
-- 1 14 oz can [sweetened condensed milk][2]
-- 1 tsp cinnamon
-- 0.25 tsp vanilla
-- 1 cup dark chocolate
-- 0.25 cup white chocolate
+- :cookie: 2.5 cups [shortbread cookies][3]
+- :butter: 0.25 cup butter
+- :maple_leaf: 0.75 cup [dark brown sugar][1]
+- :butter: 0.67 cup butter
+- :glass_of_milk: 1 14 oz can [sweetened condensed milk][2]
+- :custard: 1 tsp cinnamon
+- :icecream: 0.25 tsp vanilla
+- :chocolate_bar: 1 cup dark chocolate
+- :chocolate_bar: 0.25 cup white chocolate
 
 ## :cooking: Cookware
 
@@ -36,9 +37,9 @@ tags:
 
 ### Step 1
 
-With a rolling pin, crush the shortbread cookies in a freezer bag. Put the crushed cookies into a bowl with the melted
-butter. Mix them together, then using a spoon, press the mixture into the base of a lined, square cake pan. Chill in the
-fridge for 10 minutes.
+With a rolling pin, crush the [shortbread cookies][3] in a freezer bag. Put the crushed cookies into a bowl with the
+melted butter. Mix them together, then using a spoon, press the mixture into the base of a lined, square cake pan.
+Chill in the fridge for 10 minutes.
 
 ### Step 2
 
@@ -78,3 +79,4 @@ When set, slice into squares and serve.
 
 [1]: <../ingredients/brown-sugar.md>
 [2]: <../ingredients/sweetened-condensed-milk.md>
+[3]: <./buttery-shortbread.md>

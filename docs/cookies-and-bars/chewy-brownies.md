@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - bars
+  - bar
+  - dessert
 ---
 # :chocolate_bar: Chewy Brownies
 

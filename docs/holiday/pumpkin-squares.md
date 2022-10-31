@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - holiday
+  - dessert
+  - bar
 ---
 # :jack_o_lantern: Pumpkin Squares
 

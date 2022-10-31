@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - bars
+  - bar
+  - dessert
 ---
 # :cookie: Browned Butter Blondies
 

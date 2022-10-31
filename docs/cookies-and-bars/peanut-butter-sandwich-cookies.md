@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - cooks-illustrated
 ---
 # :peanuts: Peanut Butter Sandwich Cookies
 
@@ -11,26 +13,24 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 24 | 3.5 hours |
 
-## :salt: Ingredients
-
-### :cookie: Cookies
+## :salt: Ingredients - Cookies
 
 - :peanuts: 1.25 cups (6.25 oz/177 g) raw peanuts
-- 0.75 cups (3.75 oz/106 g) all-purpose flour
-- 1 tsp baking soda
+- :ear_of_rice: 0.75 cups (3.75 oz/106 g) all-purpose flour
+- :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :butter: 3 Tbsp unsalted butter
-- 0.5 cup [creamy peanut butter][1]
-- 0.5 cup (3.5 oz/99 g) granulated sugar
-- 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
-- 3 Tbsp whole milk
+- :peanuts: 0.5 cup [creamy peanut butter][1]
+- :candy: 0.5 cup (3.5 oz/99 g) granulated sugar
+- :maple_leaf: 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
+- :glass_of_milk: 3 Tbsp whole milk
 - :egg: 1 large egg
 
-### :peanuts: Filling
+## :salt: Ingredients - Filling
 
-- 0.75 cup [creamy peanut butter][1]
+- :peanuts: 0.75 cup [creamy peanut butter][1]
 - :butter: 3 Tbsp unsalted butter
-- 1 cup (4 oz/113 g) confectioners’ sugar
+- :candy: 1 cup (4 oz/113 g) confectioners’ sugar
 
 ## :cooking: Cookware
 
@@ -42,14 +42,15 @@ tags:
 - 1 prepared baking sheet
 - 1 wire rack
 
-## :pencil: Instructions
+## :pencil: Instructions - Cookies
 
 !!! note
+
     Do not use unsalted peanut butter for this recipe.
 
 ### Step 1
 
-FOR THE COOKIES: Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350°F. Line 2 baking
+Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350°F. Line 2 baking
 sheets with parchment paper. Pulse raw peanuts in food processor until finely chopped, about 8 pulses. Whisk all-purpose
 flour, baking soda, and salt together in bowl. Whisk 3 Tbsp of unsalted butter, 1/2 cup of creamy peanut butter,
 granulated sugar, light brown sugar, whole milk, and egg together in second bowl. Stir flour mixture into peanut butter
@@ -66,14 +67,18 @@ Bake until deep golden brown and firm to touch, 13 to 18 minutes, switching and 
 Let cookies cool on sheets for 5 minutes. Transfer cookies to wire rack and let cool completely, about 30 minutes.
 Repeat portioning and baking remaining dough.
 
+## :pencil: Instructions - Cookies - Filling
+
 ### Step 4
 
-FOR THE FILLING: Microwave 3/4 cup creamy peanut butter and 3 Tbsp of unsalted butter until butter is melted and warm,
+Microwave 3/4 cup creamy peanut butter and 3 Tbsp of unsalted butter until butter is melted and warm,
 about 40 seconds. Using rubber spatula, stir in confectioners’ sugar until combined.
+
+## :pencil: Instructions - Assembly
 
 ### Step 5
 
-TO ASSEMBLE: Place 24 cookies upside down on work surface. Place 1 level tablespoon (20 g) (or number 60 scoop) warm
+Place 24 cookies upside down on work surface. Place 1 level tablespoon (20 g) (or number 60 scoop) warm
 filling in center of each cookie. Place second cookie on top of filling, right side up, pressing gently until filling
 spreads to edges. Allow filling to set for 1 hour before serving. Assembled cookies can be stored in airtight container
 for up to 3 days.

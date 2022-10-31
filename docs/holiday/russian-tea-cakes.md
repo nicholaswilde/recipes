@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - holiday
+  - cookie
+  - dessert
 ---
 # :cookie: Russian Tea Cakes
 

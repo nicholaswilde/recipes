@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - cookie
 ---
 # :chocolate_bar: Tiny Mini Kisses Peanut Blossoms
 

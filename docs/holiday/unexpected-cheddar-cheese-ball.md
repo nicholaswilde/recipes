@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - holiday
+  - spread
+  - trader-joes
 ---
 # :orange_circle: Unexpected Cheddar Cheese Ball
 

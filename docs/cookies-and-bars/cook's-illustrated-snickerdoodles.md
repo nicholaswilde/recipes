@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - cooks-illustrated
 ---
 # Cook's Illustrated Snickerdoodles
 

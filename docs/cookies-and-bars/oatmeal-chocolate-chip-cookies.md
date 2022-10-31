@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
 ---
 # :cookie: Oatmeal Chocolate Chip Cookies
 
@@ -13,18 +14,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup butter
-- 1.25 cup packed [brown sugar][1]
-- 0.5 cup granulated sugar
-- 2 eggs
-- 2 Tbsp milk
-- 2 tsp vanilla
-- 1.75 cups flour
-- 1 tsp baking soda
-- 2.5 cup rolled oats
-- 2 cups chocolate chips
-
-## :cooking: Cookware
+- :butter: 1 cup butter
+- :maple_leaf: 1.25 cup packed [brown sugar][1]
+- :candy: 0.5 cup granulated sugar
+- :egg: 2 eggs
+- :glass_of_milk: 2 Tbsp milk
+- :icecream: 2 tsp vanilla
+- :ear_of_rice: 1.75 cups flour
+- :cup_with_straw: 1 tsp baking soda
+- :ear_of_rice: 2.5 cup rolled oats
+- :chocolate_bar: 2 cups chocolate chips
 
 ## :pencil: Instructions
 

@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - joy-of-cooking
 ---
 # :baguette_bread: Ladyfingers
 

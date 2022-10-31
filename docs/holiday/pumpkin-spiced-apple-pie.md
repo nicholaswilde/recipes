@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - holiday
+  - dessert
+  - pie
 ---
 # :pie: Pumpkin Spiced Apple Pie
 

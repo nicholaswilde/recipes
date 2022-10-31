@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - broma-bakery
 ---
 # :cookie: Chocolate Chip Skillet Cookie
 

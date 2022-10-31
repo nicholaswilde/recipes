@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - paul-hollywood
 ---
 # :flatbread: Buttery Shortbread
 

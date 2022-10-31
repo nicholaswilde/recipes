@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - king-arthur
+  - dessert
 ---
 # King Arthur's Snickerdoodles
 

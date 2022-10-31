@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - broma-bakery
+  - dessert
 ---
 # :peanuts: Broma Bakery Chewy Peanut Butter Cookies
 

@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - tante-myrna-seccia
 ---
 # :cookie: Oatmeal Raisin
 

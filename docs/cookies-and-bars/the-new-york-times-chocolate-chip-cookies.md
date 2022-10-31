@@ -1,7 +1,8 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
 ---
 # :cookie: The New York Times Chocolate Chip Cookies
 

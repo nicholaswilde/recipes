@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - blue-zones
 ---
 # :honey_pot: Honey Cookies (Finikia)
 
