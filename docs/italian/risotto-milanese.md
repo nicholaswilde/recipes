@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - risotto
 ---
 # :ear_of_rice: Risotto Milanese
 

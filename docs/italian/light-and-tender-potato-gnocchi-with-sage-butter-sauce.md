@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dumpling
+  - italian
 ---
 # :spaghetti: Light & Tender Potato Gnocchi With Sage-Butter Sauce
 

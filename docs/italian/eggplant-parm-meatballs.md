@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - vegetarian
 ---
 # :spaghetti: Eggplant Parm Meatballs
 
@@ -12,7 +15,7 @@ comments: true
 - :bread: 1 cup bread crumbs
 - :eggplant: 12 oz eggplant
 - :garlic: 6 cloves garlic
-- :tomato: 24 oz marinara sauce
+- :tomato: 24 oz [marinara sauce][1]
 - :microbe: 2 Tbsp nutritional yeast
 - :olive: 3 Tbsp olive oil
 - :onion: 1 medium onion
@@ -62,8 +65,8 @@ brown on both sides.
 
 ### Step 6
 
-Meanwhile, cook the spaghetti according to the package directions until it is al dente and heat the marinara sauce in
-a medium saucepan over medium heat.
+Meanwhile, cook the spaghetti according to the package directions until it is al dente and heat the [marinara sauce][1]
+in a medium saucepan over medium heat.
 
 ### Step 7
 
@@ -73,3 +76,5 @@ until warmed through before serving on top of the pasta and garnishing with pars
 ## :link: Source
 
 - <https://cupofjo.com/2022/4/eggplant-parm-meatballs/>
+
+[1]: <../sauces-and-dressings/marinara-sauce.md>

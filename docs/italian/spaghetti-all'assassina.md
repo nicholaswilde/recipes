@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
+  - cooks-illustrated
 ---
 # :spaghetti: Spaghetti All'Assassina
 
@@ -11,16 +15,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 6 cups water
-- 0.25 cup tomato paste
-- 1 tsp sugar
-- 0.33 cup olive oil
-- 2 cloves garlic
-- 0.5 tsp red pepper flakes
-- 1 cup tomato passata
-- 1.75 tsp salt
-- 12 oz spaghetti
-- 2 Tbsp olive oil
+- :droplet: 6 cups water
+- :tomato: 0.25 cup tomato paste
+- :candy: 1 tsp sugar
+- :olive: 0.33 cup olive oil
+- :garlic: 2 cloves garlic
+- :hot_pepper: 0.5 tsp red pepper flakes
+- :tomato: 1 cup tomato passata
+- :salt: 1.75 tsp salt
+- :spaghetti: 12 oz spaghetti
+- :olive: 2 Tbsp olive oil
 
 ## :cooking: Cookware
 

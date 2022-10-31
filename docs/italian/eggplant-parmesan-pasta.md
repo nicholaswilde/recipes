@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - pasta
+  - italian
+  - vegetarian
 ---
-# Eggplant Parmesan Pasta
+# :spaghetti: Eggplant Parmesan Pasta
 
 ![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.jpg)
 

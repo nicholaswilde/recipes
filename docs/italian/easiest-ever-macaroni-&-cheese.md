@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - pasta
+  - italian
 ---
 # :spaghetti: Easiest Ever Macaroni & Cheese
 

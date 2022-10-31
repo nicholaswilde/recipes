@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
+  - trader-joes
 ---
-# Mezza Luna Lasagna
+# :spaghetti: Mezza Luna Lasagna
 
 ![Mezza Luna Lasagna](../assets/images/mezza-luna-lasagna.png)
 
@@ -11,17 +15,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 large squash
-- some oil
-- some sea salt
-- some pepper
-- 2 jars Alfredo sauce
-- 15 oz ricotta cheese
-- 2 cups chopped spinach
-- 0.25 tsp nutmeg
-- 12 sheets no boil lasagna noodles
-- 1 cup Mozzarella cheese
-- 0.5 cup Parmesan cheeses
+- :eggplant: 1 large squash
+- :olive: some oil
+- :salt: some sea salt
+- :salt: some pepper
+- :glass_of_milk: 2 jars [Alfredo sauce][2]
+- :cheese_wedge: 15 oz [ricotta cheese][1]
+- :leafy_green: 2 cups chopped spinach
+- :chestnut: 0.25 tsp nutmeg
+- :spaghetti: 12 sheets no boil lasagna noodles
+- :cheese_wedge: 1 cup Mozzarella cheese
+- :cheese_wedge: 0.5 cup Parmesan cheeses
 
 ## :cooking: Cookware
 
@@ -41,8 +45,8 @@ and set aside to cool; lower oven temperature to 350°F.
 
 ### Step 2
 
-Empty Alfredo sauce into a sauce pan; warm over very low heat, just enough to liquefy, and remove from heat. Place
-ricotta cheese, chopped spinach, nutmeg and a pinch of salt into a bowl and combine. Set aside.
+Empty [Alfredo sauce][2] into a sauce pan; warm over very low heat, just enough to liquefy, and remove from heat. Place
+[ricotta cheese][1], chopped spinach, nutmeg and a pinch of salt into a bowl and combine. Set aside.
 
 ### Step 3
 
@@ -60,3 +64,6 @@ and bubbly. Remove from oven and rest 15 minutes before slicing.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/mezza-luna-lasagna>
+
+[1]: <../ingredients/ricotta.md>
+[2]: <../sauces-and-dressings/alfredo-sauce.md>

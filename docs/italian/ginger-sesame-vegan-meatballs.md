@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - vegan
+  - italian
 ---
-# Ginger Sesame Vegan Meatballs
+# :spaghetti: Ginger Sesame Vegan Meatballs
 
 ![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg)
 
@@ -14,9 +17,9 @@ comments: true
 - :canned_food: 1 can black beans
 - :mushroom: 8 ozs cremini mushrooms
 - :garlic: 4 cloves garlic
-- :garlic: 2.5 tbsp ginger
+- :garlic: 2.5 Tbsp ginger
 - :seedling: 3 stalks green onion
-- :pancakes: 1 tbsp maple syrup
+- :pancakes: 1 Tbsp maple syrup
 - :rice: 1 cup quinoa
 - :sake: 1 tbsp sesame oil
 - :sake: 2 tbsp tamari

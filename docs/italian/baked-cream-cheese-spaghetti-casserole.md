@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - italian
 ---
-# Baked Cream Cheese Spaghetti Casserole
+# :spaghetti: Baked Cream Cheese Spaghetti Casserole
 
 ![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg)
 
@@ -12,12 +14,12 @@ comments: true
 ## :salt: Ingredients
 
 - 1 lb ground soy meat
-- 1 28-oz jar marinara
-- 1 12-oz pkg spaghetti
-- 8 oz cream cheese
-- 1 tsp Italian seasoning
-- 1 clove garlic
-- 0.5 cup grated Parmesan
+- 1 28-oz jar [marinara][1]
+- :spaghetti: 1 12-oz pkg spaghetti
+- :cheese_wedge: 8 oz cream cheese
+- :herb: 1 tsp Italian seasoning
+- :garlic: 1 clove garlic
+- :cheese_wedge: 0.5 cup grated Parmesan
 
 ## :cooking: Cookware
 
@@ -46,3 +48,5 @@ over pasta.
 ### Step 5
 
 Top with grated Parmesan and bake for 30 minutes.
+
+[1]: <../sauces-and-dressings/marinara-sauce.md>

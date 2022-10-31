@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - pasta
+  - italian
 ---
-# Macaroni & Cheese
+# :spaghetti: Macaroni & Cheese
 
 ![Macaroni & Cheese](../assets/images/macaroni-&-cheese.jpg)
 
@@ -9,9 +12,7 @@ comments: true
 |:-----------------------: |
 | 31 minutes |
 
-## :salt: Ingredients
-
-### Topping
+## :salt: Ingredients - Topping
 
 - :butter: 0.5 stick unsalted butter
 - :bread: 2 cups panko breadcrumbs
@@ -19,7 +20,7 @@ comments: true
 - :cheese_wedge: 0.5 cup Parmigiano-Reggiano
 - :herb: 2 sprigs thyme
 
-### Sauce
+## :salt: Ingredients - Sauce
 
 - :butter: 1 stick unsalted butter
 - :ear_of_rice: 6 Tbsp flour

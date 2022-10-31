@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
 ---
 # :spaghetti: Trapani-Style Pasta
 
@@ -11,16 +14,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 lb pasta
-- 2 oz Parmesan
-- 0.75 cup almonds
-- 2 cloves garlic
-- 1 chilies
-- 3 cups cherry tomatoes
-- some olive oil
-- some salt
-- some pepper
-- 2 large handfuls basil leaves
+- :ear_of_rice: 1 lb pasta
+- :cheese_wedge: 2 oz Parmesan
+- :chestnut: 0.75 cup almonds
+- :garlic: 2 cloves garlic
+- :hot_pepper: 1 chilies
+- :tomato: 3 cups cherry tomatoes
+- :olive: some olive oil
+- :salt: some salt
+- :salt: some pepper
+- :herb: 2 large handfuls basil leaves
 
 ## :cooking: Cookware
 

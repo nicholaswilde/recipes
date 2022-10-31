@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
 ---
 # :spaghetti: Spaghetti Alla Puttanesca
 

@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
 ---
 # :spaghetti: Pasta with Burst Cherry Tomato Sauce
 
@@ -48,6 +51,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     Be sure to use cherry tomatoes; grape tomatoes won't break down as much and will produce a drier sauce. Our topping
     contributes crunch and depth, but you can substitute 1 cup (2 ounces) of grated Parmesan cheese, if desired. For a
     spicier dish, use the larger amount of red pepper flakes.

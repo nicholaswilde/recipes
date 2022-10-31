@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - pizza
 ---
 # :pizza: White Pizza
 

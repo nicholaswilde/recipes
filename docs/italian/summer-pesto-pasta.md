@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - pasta
+  - italian
 ---
 # :spaghetti: Summer Pesto Pasta
 
@@ -11,14 +14,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 ears shucked corn
-- 1 medium yellow squash
-- 1 medium zucchini
-- 1 bell pepper
-- 4 green onions
-- 1 pint grape tomatoes
-- 0.5 cup store-bought pesto
-- 1 lemon
+- :corn: 2 ears shucked corn
+- :cucumber: 1 medium yellow squash
+- :cucumber: 1 medium zucchini
+- :bell_pepper: 1 bell pepper
+- :onion: 4 green onions
+- :tomato: 1 pint grape tomatoes
+- :herb: 0.5 cup store-bought [pesto][1]
+- :lemon: 1 lemon
 
 ## :cooking: Cookware
 
@@ -38,8 +41,10 @@ cubes, and bell pepper cut into sixths. Add green onions and grape tomatoes.
 
 ### Step 3
 
-In a separate bowl combine store-bought pesto, zest and juice from 1 lemon.
+In a separate bowl combine store-bought [pesto][1], zest and juice from 1 lemon.
 
 ### Step 4
 
 Mix well, then pour in pasta. Combine veggies into pasta and serve.
+
+[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>

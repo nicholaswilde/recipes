@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - dumplings
+  - italian
 ---
-# Spinach & Ricotta Gnudi with Tomato-Butter Sauce
+# :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce
 
 ![Spinach and Ricotta Gnudi with Tomato-Butter Sauce](../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg)
 
@@ -13,27 +16,27 @@ comments: true
 
 ### Gnudi
 
-- 1.5 cups whole-milk ricotta
-- 0.5 cup all-purpose flour
-- 1 oz Parmesan
-- 1 Tbsp panko
-- 0.75 tsp salt
-- 0.5 tsp pepper
-- 0.25 tsp lemon zest
-- 10 oz frozen whole-leaf spinach
-- 2 large egg whites
+- :glass_of_milk: 1.5 cups whole-milk ricotta
+- :ear_of_rice: 0.5 cup all-purpose flour
+- :cheese_wedge: 1 oz Parmesan
+- :bread: 1 Tbsp panko
+- :salt: 0.75 tsp salt
+- :salt: 0.5 tsp pepper
+- :lemon: 0.25 tsp lemon zest
+- :leafy_green: 10 oz frozen whole-leaf spinach
+- :egg: 2 large egg whites
 
 ### Sauce
 
-- 4 Tbsp unsalted butter
-- 3 cloves garlic
-- 12 oz cherry or grape tomatoes
-- 2 tsp cider vinegar
-- 1 qt water
-- 1.5 tsp salt
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 2 Tbsp basil
+- :butter: 4 Tbsp unsalted butter
+- :garlic: 3 cloves garlic
+- :tomato: 12 oz cherry or grape tomatoes
+- :sake: 2 tsp cider vinegar
+- :droplet: 1 qt water
+- :salt: 1.5 tsp salt
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
+- :herb: 2 Tbsp basil
 
 ## :cooking: Cookware
 
@@ -46,9 +49,10 @@ comments: true
 - 1 spider skimmer or slotted spoon
 - 1 bowls
 
-## :pencil: Instructions
+## :pencil: Instructions - Gnudi
 
 !!! note
+
     Ricotta without stabilizers such as locust bean, guar, and xanthan gums drains more readily. You can substitute
     part-skim ricotta for the whole-milk ricotta. Frozen whole-leaf spinach is easiest to squeeze dry, but frozen chopped
     spinach will work. Squeezing the spinach should remove 1/2 to 2/3 cup of liquid; you should have 2/3 cup of finely
@@ -70,11 +74,13 @@ towels but do not wash sheet. Add egg whites to bowl and mix gently until well c
 Transfer heaping teaspoons of dough to now-empty sheet (you should have 45 to 50 portions). Using your dry hands, gently
 roll each portion into 1-inch ball.
 
+## :pencil: Instructions - Sauce
+
 ### Step 3
 
-FOR THE SAUCE: Melt unsalted butter in small saucepan over medium heat. Add thinly sliced garlic and cook, swirling
-saucepan occasionally, until butter is very foamy and garlic is pale golden brown, 2 to 3 minutes. Off heat, add cherry
-or grape tomatoes and cider vinegar; cover and set aside.
+Melt unsalted butter in small saucepan over medium heat. Add thinly sliced garlic and cook, swirling saucepan
+occasionally, until butter is very foamy and garlic is pale golden brown, 2 to 3 minutes. Off heat, add cherry or grape
+tomatoes and cider vinegar; cover and set aside.
 
 ### Step 4
 

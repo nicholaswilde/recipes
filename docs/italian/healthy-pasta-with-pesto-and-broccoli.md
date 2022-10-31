@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - pasta
+  - italian
+  - vegetarian
 ---
 # :broccoli: Healthy Pasta with Pesto & Broccoli
 
@@ -11,20 +15,20 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 pkg fusilli pasta
-- 4 cups broccoli florets
-- 2 cups grape tomatoes
-- 0.5 cup Parmesan cheese
-- 1 cup pasta water
-- 1 Tbsp olive oil
-- 2 cloves garlic
-- 1 Tbsp pesto
-- 1 Tbsp pesto
-- 0.25 cup pesto
-- 0.33 cup sun-dried tomatoes
-- 1 salt
-- some black pepper
-- 0.13 tsp red pepper flakes
+- :spaghetti: 1 pkg fusilli pasta
+- :broccoli: 4 cups broccoli florets
+- :tomato: 2 cups grape tomatoes
+- :cheese_wedge: 0.5 cup Parmesan cheese
+- :droplet: 1 cup pasta water
+- :olive: 1 Tbsp olive oil
+- :garlic: 2 cloves garlic
+- :herb: 1 Tbsp [pesto][1]
+- :herb: 1 Tbsp [pesto][1]
+- :herb: 0.25 cup [pesto][1]
+- :tomato: 0.33 cup sun-dried tomatoes
+- :salt: 1 salt
+- :salt: some black pepper
+- :hot_pepper: 0.13 tsp red pepper flakes
 
 ## :cooking: Cookware
 
@@ -52,18 +56,18 @@ frequently.
 
 ### Step 5
 
-Add 1 tbsp pesto, tomatoes and stir. Cook for 1 – 2 minutes, stir and cook another 1 – 2 minutes.
+Add 1 tbsp [pesto][1], tomatoes and stir. Cook for 1 – 2 minutes, stir and cook another 1 – 2 minutes.
 
 ### Step 6
 
-Move to one side of the skillet and make sure the empty side of is positioned directly over heat. Add 1 tbsp pesto and
-broccoli, stir and cook for 4 minutes, stirring once.
+Move to one side of the skillet and make sure the empty side of is positioned directly over heat. Add 1 tbsp [pesto][1]
+and broccoli, stir and cook for 4 minutes, stirring once.
 
 ### Step 7
 
-Remove skillet from heat and add remaining 1/4 cup pesto, sun-dried tomatoes, half Parmesan cheese, salt, black pepper,
-red pepper flakes, pasta and pasta water. Stir gently and let flavors marinate for a few minutes. Do not cover because
-broccoli will become a mushy mess.
+Remove skillet from heat and add remaining 1/4 cup [pesto][1], sun-dried tomatoes, half Parmesan cheese, salt, black
+pepper, red pepper flakes, pasta and pasta water. Stir gently and let flavors marinate for a few minutes. Do not cover
+because broccoli will become a mushy mess.
 
 ### Step 8
 
@@ -72,3 +76,5 @@ Sprinkle with remaining half Parmesan cheese. Serve hot.
 ## :link: Source
 
 - <https://ifoodreal.com/healthy-pasta/>
+
+[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>

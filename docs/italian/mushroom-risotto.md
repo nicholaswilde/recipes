@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - italian
+  - risotto
 ---
 # :mushroom: Mushroom Risotto
 

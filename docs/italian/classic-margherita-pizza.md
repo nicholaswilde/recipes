@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - pizza
+  - italian
 ---
 # :pizza: Classic Margherita Pizza
 

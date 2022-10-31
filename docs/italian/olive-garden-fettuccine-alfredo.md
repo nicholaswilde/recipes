@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - italian
+  - pasta
 ---
-# Olive Garden Fettuccine Alfredo
+# :spaghetti: Olive Garden Fettuccine Alfredo
 
 ![Olive Garden Fettuccine Alfredo](../assets/images/olive-garden-fettuccine-alfredo.jpg)
 
@@ -11,16 +14,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 oz fettuccine
-- 3 Tbsp butter
-- 1 cup heavy whipping cream
-- 0.25 cup Parmesan
-- 0.25 cup Romano cheese
-- 1 egg yolk
-- 0.13 tsp salt
-- 1 dash pepper
-- 1 dash nutmeg
-- some parsley (optional)
+- :spaghetti: 4 oz fettuccine
+- :butter: 3 Tbsp butter
+- :icecream: 1 cup heavy whipping cream
+- :cheese_wedge: 0.25 cup Parmesan
+- :cheese_wedge: 0.25 cup Romano cheese
+- :egg: 1 egg yolk
+- :salt: 0.13 tsp salt
+- :salt: 1 dash pepper
+- :chestnut: 1 dash nutmeg
+- :herb: some parsley (optional)
 
 ## :cooking: Cookware
 
