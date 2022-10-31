@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - bars
+  - holiday
 ---
 # :peanuts: Old-Fashioned Peanut Butter Fudge
 

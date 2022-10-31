@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - pie
 ---
 # :pie: Classic Walnut Pie
 

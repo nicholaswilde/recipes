@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - cookies
 ---
 # :snowman: Gingerbread People
 

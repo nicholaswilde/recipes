@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - casserole
 ---
 # :corn: Jiffy Corn Casserole
 

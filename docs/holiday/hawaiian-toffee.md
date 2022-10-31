@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - holiday
 ---
 # :candy: Hawaiian Toffee
 

@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - holiday
 ---
 # :corn: Gingerbread Caramel Corn
 

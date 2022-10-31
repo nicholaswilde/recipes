@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - holiday
 ---
 # :chestnut: Holiday Nuts
 

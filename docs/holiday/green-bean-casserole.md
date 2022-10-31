@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - casserole
 ---
 # :cucumber: Green Bean Casserole
 

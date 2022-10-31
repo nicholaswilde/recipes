@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - cake
 ---
 # :cake: Eggnog Cake
 

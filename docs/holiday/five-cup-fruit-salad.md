@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - salad
 ---
 # :pineapple: Five-Cup Fruit Salad
 
@@ -28,4 +31,5 @@ Mix pineapple tidbits (drained), mandarin oranges, small marshmallows, coconut, 
 Chill overnight.
 
 !!! note
+
     Fruit cocktail, well drained, may also be added.

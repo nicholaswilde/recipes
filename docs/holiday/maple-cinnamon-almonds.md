@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - holiday
+  - dessert
 ---
 # :chestnut: Maple-Cinnamon Almonds
 
@@ -20,6 +23,7 @@ comments: true
 - :candy: 0.25 cup crystallized sugar (optional)
 
 !!! note
+
     Look for crystallized sugar where either gourmet coffees or cake decorating supplies are sold.
 
 ## :cooking: Cookware
@@ -52,6 +56,7 @@ Immediately transfer almonds to remaining prepared pan; sprinkle evenly with cry
 completely. Store in airtight container at room temperature.
 
 !!! note
+
     If almonds become tacky upon storing, place on baking sheet lined with foil. Bake at 325°F 15 to 20 minutes;
     cool.
 

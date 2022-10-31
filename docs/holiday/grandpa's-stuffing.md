@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - holiday
 ---
 # :stuffed_flatbread: Grandpa's Stuffing
 

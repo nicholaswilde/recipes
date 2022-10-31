@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - holiday
 ---
 # :chocolate_bar: Chocolate Truffles
 
