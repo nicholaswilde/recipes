@@ -1,5 +1,7 @@
 ---
 comments: true
+  - ingredient
+  - ina-garten
 ---
 # :lemon: Lemon Curd
 
