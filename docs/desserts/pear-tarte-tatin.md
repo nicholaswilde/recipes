@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - gordon-ramsay
+  - french
 ---
 # :pear: Pear Tarte Tatin
 
