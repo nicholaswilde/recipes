@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - trader-joes
 ---
 # :cookie: Preposterously Peanut Butter Cup Cookies
 
