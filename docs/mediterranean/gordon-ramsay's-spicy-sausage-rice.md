@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
+  - gordon-ramsay
+  - main
 ---
-# Gordon Ramsay's Spicy Sausage Rice
+# :rice: Gordon Ramsay's Spicy Sausage Rice
 
 ![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg)
 
