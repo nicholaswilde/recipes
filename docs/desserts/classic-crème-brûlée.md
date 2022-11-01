@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - dessert
+  - custard
 ---
-# Classic Crème Brûlée
+# :custard: Classic Crème Brûlée
 
 ![Classic Crème Brûlée](../assets/images/classic-crème-brûlée.jpg)
 
@@ -11,11 +14,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.75 cup heavy cream
-- 0.25 tsp vanilla
-- 2 egg yolks
-- 1 Tbsp white sugar
-- 1 Tbsp raw cane sugar
+- :icecream: 0.75 cup heavy cream
+- :icecream: 0.25 tsp vanilla
+- :egg: 2 egg yolks
+- :candy: 1 Tbsp white sugar
+- :candy: 1 Tbsp raw cane sugar
 
 ## :cooking: Cookware
 

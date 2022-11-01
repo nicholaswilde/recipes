@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - bar
+  - dessert
+  - fudge
 ---
 # :chocolate_bar: Classic Fudge
 

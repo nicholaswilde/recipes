@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cupcake
+  - trader-joes
 ---
-# Corn & Hatch Chile Cupcakes with Honey Buttercream
+# :cupcake: Corn & Hatch Chile Cupcakes with Honey Buttercream
 
 ![Corn & Hatch Chile Cupcakes with Honey Buttercream](../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png)
 
@@ -11,17 +15,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 egg
-- 0.5 cup Canola oil
-- 4 Tbsp unsalted butter
-- 2 Tbsp cane sugar
-- 0.75 cup whole milk
-- 0.25 cup TJ's Hatch Valley Salsa
-- 1 box TJ's Cornbread Mix
-- 1 cup unsalted butter
-- 0.13 tsp sea salt
-- 0.25 cup honey
-- 2.75 cup powdered sugar
+- :egg: 1 egg
+- :oil_drum: 0.5 cup Canola oil
+- :butter: 4 Tbsp unsalted butter
+- :candy: 2 Tbsp cane sugar
+- :glass_of_milk: 0.75 cup whole milk
+- :tomato: 0.25 cup TJ's Hatch Valley Salsa
+- :corn: 1 box TJ's Cornbread Mix
+- :butter: 1 cup unsalted butter
+- :salt: 0.13 tsp sea salt
+- :honey_pot: 0.25 cup honey
+- :candy: 2.75 cup powdered sugar
 
 ## :cooking: Cookware
 
