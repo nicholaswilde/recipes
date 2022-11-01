@@ -2,7 +2,8 @@
 comments: true
 tags:
   - holiday
-  - cookies
+  - cookie
+  - dessert
 ---
 # :snowman: Gingerbread People
 
