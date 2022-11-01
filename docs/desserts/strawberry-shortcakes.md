@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - dessert
+  - shortcake
+  - cooks-illustrated
 ---
-# Strawberry Shortcakes
+# :strawberry: Strawberry Shortcakes
 
 ![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg)
 
@@ -9,21 +13,24 @@ comments: true
 |:----------------------------------:|:-----------------------: |
 | 2 | 51 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Shortcake
 
-- 0.5 cup all-purpose flour
-- 0.75 tsp granulated sugar
-- 0.5 tsp baking powder
-- 1 pinch baking soda
-- 0.13 tsp salt
-- 0.33 cup heavy cream
-- 0.5 tsp granulated sugar
-- 8 oz strawberries
-- 1 Tbsp granulated sugar
-- 0.5 tsp lemon juice
-- 0.5 cup heavy cream
-- 1 Tbsp confectioners' sugar
-- 0.25 tsp vanilla
+- :ear_of_rice: 0.5 cup all-purpose flour
+- :candy: 0.75 tsp granulated sugar
+- :dash: 0.5 tsp baking powder
+- :cup_with_straw: 1 pinch baking soda
+- :salt: 0.13 tsp salt
+- :glass_of_milk: 0.33 cup heavy cream
+- :candy: 0.5 tsp granulated sugar
+
+## :salt: Ingredients - Strawberries & Cream
+
+- :strawberry: 8 oz strawberries
+- :candy: 1 Tbsp granulated sugar
+- :lemon: 0.5 tsp lemon juice
+- :glass_of_milk: 0.5 cup heavy cream
+- :candy: 1 Tbsp confectioners' sugar
+- :icecream: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -39,11 +46,11 @@ comments: true
 - 1 potato masher
 - 1 small bowl
 
-## :pencil: Instructions
+## :pencil: Instructions - Shortcake
 
 ### Step 1
 
-FOR THE SHORTCAKES: Adjust oven rack to upper-middle position and heat oven to 450°F. Line rimmed baking sheet with
+Adjust oven rack to upper-middle position and heat oven to 450°F. Line rimmed baking sheet with
 parchment paper. In medium bowl, whisk together all-purpose flour, 3/4 teaspoon granulated sugar, baking powder, baking
 soda, and salt. Microwave heavy cream until just warmed to body temperature (95 to 100°F), about 15 seconds. Stir warm
 cream into flour mixture until soft, uniform dough forms.
@@ -57,13 +64,14 @@ dough into level cylinders. Sprinkle remaining 1/2 teaspoon granulated sugar ove
 golden brown, 9 to 11 minutes, rotating sheet halfway through baking. Transfer to wire rack and let cool completely,
 about 20 minutes. While shortcakes cool, prepare strawberries and cream.
 
+## :pencil: Instructions - Strawberries & Cream
+
 ### Step 3
 
-FOR THE STRAWBERRIES AND CREAM: In medium bowl, stir together 1/4" thick sliced strawberries, granulated sugar, and
-lemon juice. Using potato masher, mash one-third of strawberries. Let rest, stirring occasionally, until sugar is
-dissolved and strawberries are juicy, about 20 minutes. Whisk chilled heavy cream in small bowl until small bubbles
-form, about 30 seconds. Add confectioners' sugar and vanilla. Continue to whisk until soft peaks form, about 1/2 minutes
-longer. Do not overwhip.
+In medium bowl, stir together 1/4" thick sliced strawberries, granulated sugar, and lemon juice. Using potato masher,
+mash one-third of strawberries. Let rest, stirring occasionally, until sugar is dissolved and strawberries are juicy,
+about 20 minutes. Whisk chilled heavy cream in small bowl until small bubbles form, about 30 seconds. Add confectioners'
+sugar and vanilla. Continue to whisk until soft peaks form, about 1/2 minutes longer. Do not overwhip.
 
 ### Step 4
 

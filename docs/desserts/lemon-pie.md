@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - pie
+  - dessert
+  - magnolia
 ---
 # :pie: Lemon Pie
 

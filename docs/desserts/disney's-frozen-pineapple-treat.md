@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - disney
+  - dessert
 ---
 # Disney's Frozen Pineapple Treat
 
@@ -10,7 +13,8 @@ comments: true
 | 0 minutes |
 
 !!! note
-      This is not the same Dole Whip served in Disney parks. See [this link][1] for the official recipe.
+
+    This is not the same Dole Whip served in Disney parks. See [this link][1] for the official recipe.
 
 ## :salt: Ingredients
 

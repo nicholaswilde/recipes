@@ -1,7 +1,12 @@
 ---
 comments: true
+tags:
+  - french
+  - filling
+  - paul-hollywood
+  - dessert
 ---
-# Crème Pâtissière
+# :custard: Crème Pâtissière
 
 ![Crème Pâtissière](../assets/images/crème-pâtissière.jpg)
 
@@ -11,13 +16,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 300 ml whole milk
-- 200 ml double cream
-- 0.5 tsp vanilla paste
-- 5 medium egg yolks
-- 100 g caster sugar
-- 40 g cornflour
-- 100 g softened unsalted butter
+- :glass_of_milk: 300 ml whole milk
+- :glass_of_milk: 200 ml double cream
+- :vanilla: 0.5 tsp vanilla paste
+- :egg: 5 medium egg yolks
+- :candy: 100 g caster sugar
+- :corn: 40 g cornflour
+- :butter: 100 g softened unsalted butter
 
 ## :cooking: Cookware
 

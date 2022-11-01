@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - dessert
+  - custard
+  - martha-stewart
 ---
-# :egg: Crème Brûlée
+# :custard: Crème Brûlée
 
 ![Crème Brûlée](../assets/images/crème-brûlée.jpg)
 

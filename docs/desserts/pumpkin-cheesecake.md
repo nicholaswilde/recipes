@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cheesecake
+  - joy-of-cooking
 ---
 # :pie: Pumpkin Cheesecake
 

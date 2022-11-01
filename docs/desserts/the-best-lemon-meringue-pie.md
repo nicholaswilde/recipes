@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dessert
+  - pie
 ---
 # :pie: The Best Lemon Meringue Pie
 
@@ -9,9 +12,7 @@ comments: true
 |:-----------------------: |
 | 2.12 hours |
 
-## :salt: Ingredients
-
-### Dough
+## :salt: Ingredients - Dough
 
 - :ear_of_rice: 1.25 cup all-purpose flour
 - :salt: 0.5 tsp salt
@@ -19,7 +20,7 @@ comments: true
 - :butter: 4 Tbsp butter
 - :droplet: 4 Tbsp ice water
 
-### Filling
+## :salt: Ingredients - Filling
 
 - :candy: 1 cup sugar
 - :corn: 0.25 cup cornstarch
@@ -30,7 +31,7 @@ comments: true
 - :lemon: 0.5 cup lemon juice (2-3 lemons)
 - :butter: 2 Tbsp butter
 
-### Meringue
+## :salt: Ingredients - Meringue
 
 - :egg: 3 egg whites
 - 0.25 tsp cream of tartar
@@ -48,11 +49,11 @@ comments: true
 - 1 large saucepan
 - 1 knife or spatula
 
-## :pencil: Instructions
+## :pencil: Instructions - Dough
 
 ### Step 1
 
-Dough: Mix all-purpose flour and salt in a food processor. Add chilled vegetable shortening and pulse until the mixture
+Mix all-purpose flour and salt in a food processor. Add chilled vegetable shortening and pulse until the mixture
 resembles coarse sand. Scatter 1/4 inch butter pieces over the mixture and pulse until it becomes pale yellow and the
 butter pieces are no larger than small peas. Pour mixture into a medium bowl.
 
@@ -80,10 +81,12 @@ Put 2 cups of pie weights over the foil. Bake until the dough looks dry and is l
 minutes. Carefully remove the foil and pie weights by pulling at the corners and pulling up. Place back into the oven
 for about 12 minutes to complete the bake. When done, transfer to a wire rack.
 
+## :pencil: Instructions - Filling
+
 ### Step 5
 
-Pie Filling: Mix sugar, cornstarch, salt, and cold water in a large saucepan. Bring the mixture to a simmer over medium
-heat, whisking occasionally at the beginning, then more frequently as the mixture thickens. When the mixture starts to
+Mix sugar, cornstarch, salt, and cold water in a large saucepan. Bring the mixture to a simmer over medium heat,
+whisking occasionally at the beginning, then more frequently as the mixture thickens. When the mixture starts to
 thicken, whisk in egg yolks, two at a time. Whisk lemon zest and lemon juice (2-3 lemons), ending with the butter. Whisk
 constantly and bring to a simmer. Remove from heat and place plastic wrap directly on the surface of the filling to
 prevent a skin from forming.
@@ -93,10 +96,12 @@ prevent a skin from forming.
 Spread the prepared filling in the shell and bake for 10 to 15 minutes or until the filling is just set. Remove pie and
 return oven to 375°F.
 
+## :pencil: Instructions - Meringue
+
 ### Step 7
 
-Meringue: While pie is baking, make the meringue. Beat the egg whites until frothy, add the cream of tartar and continue
-beating until rounded peaks form. Beat in superfine sugar and vanilla.
+While pie is baking, make the meringue. Beat the egg whites until frothy, add the cream of tartar and continue beating
+until rounded peaks form. Beat in superfine sugar and vanilla.
 
 ### Step 8
 

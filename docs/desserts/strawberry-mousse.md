@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - dessert
+  - mousse
 ---
-# Strawberry Mousse
+# :strawberry: Strawberry Mousse
 
 ![Strawberry Mousse](../assets/images/strawberry-mousse.jpg)
 
@@ -11,12 +14,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 pkg silken tofu
-- 1 tsp vanilla
-- 1 Tbsp strawberry preserves
-- 1 cup frozen strawberries
-- 4 Medjool dates
-- 2 Tbsp lemon juice
+- :butter: 1 pkg silken tofu
+- :icecream: 1 tsp vanilla
+- :strawberry: 1 Tbsp strawberry preserves
+- :strawberry: 1 cup frozen strawberries
+- :grapes: 4 Medjool dates
+- :lemon: 2 Tbsp lemon juice
 
 ## :cooking: Cookware
 

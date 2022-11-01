@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - bar
+  - dessert
 ---
 # :lemon: Lemon Bars
 

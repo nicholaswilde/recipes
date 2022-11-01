@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - disney
+  - mexican
+  - dessert
 ---
 # Disney's Churros
 
@@ -11,16 +15,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup water
-- 8 Tbsp butter
-- 0.25 tsp salt
-- 0.25 tsp cinnamon
-- 1.25 cups flour
-- 3 eggs
-- 1.5 cups vegetable oil
-- 0.5 cup sugar
-- 0.5 tsp cinnamon
-- some dipping sauce
+- :droplet: 1 cup water
+- :butter: 8 Tbsp butter
+- :salt: 0.25 tsp salt
+- :custard: 0.25 tsp cinnamon
+- :ear_of_rice: 1.25 cups flour
+- :egg: 3 eggs
+- :carrot: 1.5 cups vegetable oil
+- :candy: 0.5 cup sugar
+- :custard: 0.5 tsp cinnamon
+- :chocolate_bar: some dipping sauce
 
 ## :cooking: Cookware
 

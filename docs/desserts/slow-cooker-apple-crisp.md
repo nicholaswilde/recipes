@@ -1,4 +1,10 @@
-# Slow Cooker Apple Crisp
+---
+comments: true
+tags:
+  - dessert
+  - slow-cooker
+---
+# :apple: Slow Cooker Apple Crisp
 
 ![Slow Cooker Apple Crisp](../assets/images/slow-cooker-apple-crisp.jpg)
 
@@ -8,13 +14,13 @@
 
 ## :salt: Ingredients
 
-- 1.5 cups flour
-- 1 cup [brown sugar][1]
-- 1 Tbsp cinnamon
-- 0.5 tsp nutmeg
-- 0.25 tsp ginger
-- 0.75 cup softened butter
-- 6 medium apples
+- :ear_of_rice: 1.5 cups flour
+- :maple_leaf: 1 cup [brown sugar][1]
+- :custard: 1 Tbsp cinnamon
+- :chestnut: 0.5 tsp nutmeg
+- :herb: 0.25 tsp ginger
+- :butter: 0.75 cup softened butter
+- :apple: 6 medium apples
 
 ## :cooking: Cookware
 
