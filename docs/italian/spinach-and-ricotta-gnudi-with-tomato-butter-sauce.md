@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - dumplings
+  - dumpling
   - italian
 ---
 # :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce
