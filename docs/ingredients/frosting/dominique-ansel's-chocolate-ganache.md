@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - dominique-ansel
 ---
 # :chocolate_bar: Dominique Ansel's Chocolate Ganache
 
