@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - asian
+  - salad
+  - trader-joes
 ---
-# :ramen: Cool and Spicy Noodle Salad
+# :ramen: Cool & Spicy Noodle Salad
 
 ![Cool and Spicy Noodle Salad](../assets/images/cool-and-spicy-noodle-salad.png)
 

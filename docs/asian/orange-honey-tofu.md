@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - asian
+  - vegetarian
 ---
 # :orange_circle: Orange Honey Tofu
 

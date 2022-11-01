@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - asian
+  - stir-fry
+  - vegetarian
 ---
 # :rice: Simple Fried Rice
 
@@ -11,17 +15,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.25 tsp salt
-- 2 Tbsp vegetable oil
-- 3 large eggs
-- 1 carrot
-- 0.25 tsp salt
-- 4 scallion whites
-- 4 cups jasmine rice
-- 0.25 tsp pepper
-- 1 tsp salt
-- 0.5 cup frozen peas
-- 4 scallion greens
+- :salt: 0.25 tsp salt
+- :carrot: 2 Tbsp vegetable oil
+- :egg: 3 large eggs
+- :carrot: 1 carrot
+- :salt: 0.25 tsp salt
+- :herb: 4 scallion whites
+- :rice: 4 cups jasmine rice
+- :salt: 0.25 tsp pepper
+- :salt: 1 tsp salt
+- :green_circle: 0.5 cup frozen peas
+- :herb: 4 scallion greens
 
 ## :cooking: Cookware
 

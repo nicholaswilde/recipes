@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - asian
+  - vegetarian
 ---
 # :coconut: Coconut Curried Vegetables with Rice
 

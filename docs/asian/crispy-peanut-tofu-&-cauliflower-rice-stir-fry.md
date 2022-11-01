@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - asian
+  - stir-fry
+  - vegetarian
 ---
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 

@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - asian
+  - vegetarian
 ---
-# Noodle-Free Pad Thai
+# :curry: Noodle-Free Pad Thai
 
 ![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg)
 
@@ -11,26 +14,26 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup (1 TJ's block) extra firm tofu
-- 1 Tbsp coconut aminos
-- 0.13 tsp red pepper flakes
-- 0.25 tsp turmeric
-- 5 carrots
-- 1 medium red peppers
-- 3 green onions
-- 2.5 Tbsp [peanut butter][1]
-- 3 Tbsp lime juice
-- 0.5 tsp red pepper flakes
-- 1.5 Tbsp maple syrup
-- 2 Tbsp coconut aminos
-- 1 Tbsp sesame oil
-- 1 jalapeño
-- 1.5 cups shredded cabbage
-- 1 Tbsp coconut aminos
-- 1 Tbsp coconut aminos
-- 0.5 tsp fresh ginger
-- 0.5 tsp turmeric
-- some cilantro
+- :butter: 0.5 cup (1 TJ's block) extra firm tofu
+- :sake: 1 Tbsp coconut aminos
+- :hot_pepper: 0.13 tsp red pepper flakes
+- :curry: 0.25 tsp turmeric
+- :carrot: 5 carrots
+- :bell_pepper: 1 medium red peppers
+- :herb: 3 green onions
+- :peanuts: 2.5 Tbsp [peanut butter][1]
+- :lemon: 3 Tbsp lime juice
+- :hot_pepper: 0.5 tsp red pepper flakes
+- :maple_leaf: 1.5 Tbsp maple syrup
+- :sake: 2 Tbsp coconut aminos
+- :oil_drum: 1 Tbsp sesame oil
+- :hot_pepper: 1 jalapeño
+- :leafy_green: 1.5 cups shredded cabbage
+- :sake: 1 Tbsp coconut aminos
+- :sake: 1 Tbsp coconut aminos
+- :sweet_potato: 0.5 tsp fresh ginger
+- :curry: 0.5 tsp turmeric
+- :herb: tsome cilantro
 
 ## :cooking: Cookware
 

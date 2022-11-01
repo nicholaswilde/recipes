@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - asian
+  - vegetarian
 ---
 # :burrito: Vegetarian Egg Rolls
 

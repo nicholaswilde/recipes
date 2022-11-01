@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - asian
+  - stir-fry
+  - vegetarian
 ---
 # Everyday Chinese Vegetable Stir-Fry
 

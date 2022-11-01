@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - asian
+  - vegetarian
+  - sandwich
 ---
 # :sandwich: Banh Mi Sandwich
 
