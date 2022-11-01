@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - cracker
+  - snack
 ---
 # :cookie: Ritz Crackers
 
