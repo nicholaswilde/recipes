@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - cracker
 ---
 # :cookie: Club Crackers
 
