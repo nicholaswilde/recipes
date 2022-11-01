@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - pie
+  - dessert
 ---
 # :pie: Banoffee Pie
 

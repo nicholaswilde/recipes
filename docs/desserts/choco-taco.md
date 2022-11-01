@@ -1,16 +1,19 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cooks-illustrated
 ---
-# Choco Taco
+# :taco: Choco Taco
 
 ![Choco Taco](../assets/images/choco-taco.jpg)
 
 ## :salt: Ingredients
 
-- 1 pkg [chocolate pizzelle cookies][1]
-- 1 container fudge ripple ice cream
-- some peanuts
-- some chocolate
+- :cookie: 1 pkg [chocolate pizzelle cookies][1]
+- :icecream: 1 container fudge ripple ice cream
+- :peanuts: some peanuts
+- :chocolate_bar: some chocolate
 
 ## :cooking: Cookware
 

@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - pie
+  - grandma-beatrice-wilde
 ---
 # Butterfinger Ice Cream Pie
 

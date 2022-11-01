@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - cake
+  - dessert
 ---
 # :cake: Cinnamon Chocolate Cake
 

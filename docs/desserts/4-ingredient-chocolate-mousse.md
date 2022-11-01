@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - mousse
+  - dessert
 ---
 # :chocolate_bar: 4 Ingredient Chocolate Mousse
 

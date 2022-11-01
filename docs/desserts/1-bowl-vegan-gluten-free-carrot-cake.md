@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cake
+  - vegan
 ---
 # 1-Bowl Vegan Gluten-Free Carrot Cake
 

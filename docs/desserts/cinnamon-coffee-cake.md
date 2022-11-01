@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - cake
+  - dessert
 ---
-# Cinnamon Coffee Cake
+# :custard: Cinnamon Coffee Cake
 
 ![Cinnamon Coffee Cake](../assets/images/cinnamon-coffee-cake.jpg)
 
@@ -9,32 +12,30 @@ comments: true
 |:----------------------------------:|:-----------------------: |
 | 12 | 1 hour |
 
-## :salt: Ingredients
+## :salt: Ingredients - Cake
 
-### Cake
+- :butter: 1 stick butter
+- :candy: 0.75 cup sugar
+- :icecream: 1 tsp vanilla
+- :egg: 1 egg
+- :ear_of_rice: 2 cups flour
+- :dash: 2 tsp baking powder
+- :salt: 1 pinch salt
+- :cup_of_milk: 0.75 cup milk
 
-- 1 stick butter
-- 0.75 cup sugar
-- 1 tsp vanilla
-- 1 egg
-- 2 cups flour
-- 2 tsp baking powder
-- 1 pinch salt
-- 0.75 cup milk
+## :salt: Ingredients - Filling
 
-### Filling
+- :butter: 3 Tbsp butter
+- :ear_of_rice: 0.5 cup flour
+- :maple_leaf: 0.5 cup [brown sugar][1]
+- :custard: 1 Tbsp cinnamon
 
-- 3 Tbsp butter
-- 0.5 cup flour
-- 0.5 cup [brown sugar][1]
-- 1 Tbsp cinnamon
+## :salt: Ingredients - Topping
 
-### Topping
-
-- 5 Tbsp butter
-- 0.75 cup flour
-- 0.5 cup [brown sugar][1]
-- 1 Tbsp cinnamon
+- :butter: 5 Tbsp butter
+- :ear_of_rice: 0.75 cup flour
+- :maple_leaf: 0.5 cup [brown sugar][1]
+- :custard: 1 Tbsp cinnamon
 
 ## :cooking: Cookware
 

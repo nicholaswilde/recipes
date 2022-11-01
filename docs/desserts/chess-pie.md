@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - pie
+  - joy-of-cooking
 ---
 # :pie: Chess Pie
 

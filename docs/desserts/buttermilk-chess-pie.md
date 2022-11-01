@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - pie
+  - dessert
+  - joy-of-cooking
 ---
 # :pie: Buttermilk Chess Pie
 

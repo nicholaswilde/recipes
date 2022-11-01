@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - french
+  - dessert
+  - joy-of-cooking
 ---
 # :custard: Chocolate Soufflé
 

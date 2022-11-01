@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dessert
+  - pudding
 ---
 # :custard: Banana Pudding
 

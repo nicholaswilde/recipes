@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - dessert
+  - pie
 ---
 # :cookie: Chocolate Whoopie Pies with Vanilla Buttercream Filling
 

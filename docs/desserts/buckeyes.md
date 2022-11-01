@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - dessert
 ---
 # :yellow_circle: Buckeyes
 
