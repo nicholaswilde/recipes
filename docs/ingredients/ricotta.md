@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - ina-garten
 ---
 # :cheese_wedge: Ricotta
 
