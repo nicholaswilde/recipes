@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - cookies
+  - cookie
+  - dessert
+  - king-arthur
 ---
 # :cookie: Simple Sugar Cookies
 
