@@ -2,6 +2,7 @@
 comments: true
 tags:
   - cracker
+  - snack
 ---
 # :cookie: Club Crackers
 
