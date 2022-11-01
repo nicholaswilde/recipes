@@ -1,7 +1,9 @@
 ---
 comments: true
 tags:
-  - bars
+  - bar
+  - dessert
+  - gordon-ramsay
 ---
 # :chocolate_bar: World's Best Brownies
 
