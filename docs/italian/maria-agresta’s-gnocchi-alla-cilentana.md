@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - dumplings
+  - dumpling
   - italian
   - maria-agresta
 ---
