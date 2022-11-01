@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - cracker
+  - alton-brown
 ---
 # :cookie: Graham Crackers
 
