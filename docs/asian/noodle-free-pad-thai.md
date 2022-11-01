@@ -33,7 +33,7 @@ tags:
 - :sake: 1 Tbsp coconut aminos
 - :sweet_potato: 0.5 tsp fresh ginger
 - :curry: 0.5 tsp turmeric
-- :herb: tsome cilantro
+- :herb: some cilantro
 
 ## :cooking: Cookware
 
