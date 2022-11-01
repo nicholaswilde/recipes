@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dominique-ansel
+  - pastry-dough
+  - french
 ---
 # :pie: Dominique Ansel's Pâte à Choux
 
