@@ -5,7 +5,7 @@ tags:
   - king-arthur
   - dessert
 ---
-# King Arthur's Snickerdoodles
+# :cookie: King Arthur's Snickerdoodles
 
 ![King Arthur's Snickerdoodles](../assets/images/king-arthur's-snickerdoodles.jpg)
 
@@ -15,15 +15,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup [vegetable shortening][4]
-- 1.5 cup sugar
-- 2 large eggs
-- 1 tsp [vanilla][3]
-- 2 tsp [cream of tartar][1]
-- 1 tsp baking soda
-- 0.5 tsp salt
-- 2.75 cups all-purpose flour
-- 0.5 cup [cinnamon sugar][2]
+- :butter: 1 cup [vegetable shortening][4]
+- :candy: 1.5 cup sugar
+- :egg: 2 large eggs
+- :icecream: 1 tsp [vanilla][3]
+- :rice: 2 tsp [cream of tartar][1]
+- :cup_with_straw: 1 tsp baking soda
+- :salt: 0.5 tsp salt
+- :ear_of_rice: 2.75 cups all-purpose flour
+- :candy: 0.5 cup [cinnamon sugar][2]
 
 ## :cooking: Cookware
 
