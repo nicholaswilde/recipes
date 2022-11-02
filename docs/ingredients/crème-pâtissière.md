@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - paul-hollywood
 ---
 # :icecream: Crème Pâtissière
 
