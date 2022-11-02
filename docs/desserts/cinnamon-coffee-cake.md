@@ -21,7 +21,7 @@ tags:
 - :ear_of_rice: 2 cups flour
 - :dash: 2 tsp baking powder
 - :salt: 1 pinch salt
-- :cup_of_milk: 0.75 cup milk
+- :glass_of_milk: 0.75 cup milk
 
 ## :salt: Ingredients - Filling
 
