@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cooks-illustrated
+  - copycat
 ---
 # :peanuts: Peanut Butter Cups
 
@@ -100,6 +104,6 @@ cups from pan. Serve. (Peanut butter cups can be refrigerated in airtight storag
 
 ## :link: Source
 
-- <https://www.americastestkitchen.com/kids/recipes/peanut-butter-cups>
+- Cook's Illustrated
 
 [1]: <../ingredients/peanut-butter.md>
