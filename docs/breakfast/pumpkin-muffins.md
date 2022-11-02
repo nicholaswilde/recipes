@@ -67,8 +67,9 @@ Bake your muffins for 20 to 22 minutes or until a toothpick inserted into the ce
 Note: Recipe adapted from Sally’s Baking Addiction If your coconut oil is solid, warm it up a bit so that it is in
 liquid form.
 
-## :link: Source
+## :link: Sources
 
 - <https://lovelylittlekitchen.com/best-ever-pumpkin-muffins/>
+- <https://www.thekitchn.com/pumpkin-muffin-recipe-showdown-23430959>
 
 [1]: <../ingredients/pumpkin-purée.md>
