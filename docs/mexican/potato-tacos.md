@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - mexican
 ---
 # :taco: Potato Tacos
 
@@ -15,8 +17,8 @@ comments: true
 - :olive: 1 Tbsp olive oil
 - :bell_pepper: 1 bell pepper
 - :herb: 2 Tbsp taco seasoning
-- :canned_food: 1 15-oz can black beans
-- :canned_food: 1 15-oz can refried beans
+- :canned_food: 1 15-oz can [black beans][2]
+- :canned_food: 1 15-oz can [refried beans][1]
 - :flatbread: 8 tortillas
 
 ## :cooking: Cookware
@@ -37,7 +39,7 @@ After potatoes cook, heat olive oil in a cast iron skillet. Add chopped bell pep
 
 ### Step 3
 
-While potatoes cook, add black beans and refried beans in a pot. Mix together and heat through.
+While potatoes cook, add [black beans][2] and [refried beans][1] in a pot. Mix together and heat through.
 
 ### Step 4
 
@@ -46,3 +48,6 @@ Heat tortillas according to preference.
 ### Step 5
 
 To assemble tacos, layer beans and potato/pepper mix, then add toppings as desired.
+
+[1]: <../pressurecooker/refried-black-beans.md>
+[2]: <../pressurecooker/black-beans.md>
