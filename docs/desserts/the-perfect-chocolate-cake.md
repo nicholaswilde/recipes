@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - cake
+  - dominique-ansel
+  - dessert
 ---
 # :cake: The Perfect Chocolate Cake
 
