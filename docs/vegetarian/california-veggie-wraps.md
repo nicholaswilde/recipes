@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :sandwich: 4 Tbsp Benedictine spread
+- :sandwich: 4 Tbsp [Benedictine spread][1]
 - :flatbread: 4 whole wheat tortilla
 - :leafy_green: 2 cups lettuce
 - :carrot: 1 cup shredded carrots
@@ -30,7 +30,7 @@ tags:
 
 ### Step 1
 
-Spread 1 Tbsp Benedictine spread on each whole wheat tortilla.
+Spread 1 Tbsp [Benedictine spread][1] on each whole wheat tortilla.
 
 ### Step 2
 
@@ -40,3 +40,5 @@ half.
 ### Step 3
 
 Serves 8 half-wraps.
+
+[1]: <../sauces-and-dressings/benedictine-sandwich-spread.md>
