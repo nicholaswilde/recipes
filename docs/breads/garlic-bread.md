@@ -50,6 +50,7 @@ Spread butter on both halves.
 
 Place on a sheet pan and toast under the broiler, about 2 minutes.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.foodnetwork.com/recipes/guy-fieri/garlic-bread-recipe-1944539>
+- <https://www.thekitchn.com/garlic-bread-recipe-reviews-23116514>
