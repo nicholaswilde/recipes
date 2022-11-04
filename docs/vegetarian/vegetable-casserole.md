@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Vegetable Casserole
+# :shallow_pan_of_food: Vegetable Casserole
 
 ![Vegetable Casserole](../assets/images/vegetable-casserole.jpg)
 
@@ -11,15 +11,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup zucchini
-- 1 large tomato
-- 1 medium onion
-- 0.33 cup Parmesan cheese
-- 0.5 cup reduced-fat Bisquick
-- 1 cup fat-free milk
-- 0.5 cup egg substitute
-- some salt
-- some pepper
+- :cucumber: 1 cup zucchini
+- :tomato: 1 large tomato
+- :onion: 1 medium onion
+- :cheese_wedge: 0.33 cup Parmesan cheese
+- :ear_of_rice: 0.5 cup [reduced-fat Bisquick][1]
+- :glass_of_milk: 1 cup fat-free milk
+- :egg: 0.5 cup egg substitute
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
@@ -37,9 +37,11 @@ Grease a 9-inch pie plate.
 
 ### Step 3
 
-Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat Bisquick, fat-free milk, egg
+Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir [reduced-fat Bisquick][1], fat-free milk, egg
 substitute, salt and pepper to taste until blended, then pour into pie plate.
 
 ### Step 4
 
 Bake for 35 minutes.
+
+[1]: <../ingredients/bisquick.md>

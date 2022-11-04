@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup Reduced Fat Bisquick
+- 1 cup [Reduced Fat Bisquick][1]
 - 2 Tbsp powdered sugar
 - 2 Tbsp firm butter
 - 0.75 cup sugar
@@ -32,7 +32,7 @@ tags:
 
 ### Step 1
 
-Heat oven to 350°F. Stir together 1 cup of Reduced Fat Bisquick and powdered sugar.
+Heat oven to 350°F. Stir together 1 cup of [Reduced Fat Bisquick][1] and powdered sugar.
 
 ### Step 2
 
@@ -53,3 +53,5 @@ Bake for 25 minutes.
 ### Step 6
 
 While warm, loosen edges and spread with glaze: powdered sugar, lemon juice, and lemon juice.
+
+[1]: <../ingredients/bisquick.md>

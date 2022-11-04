@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cup Bisquick
+- :ear_of_rice: 2 cup [Bisquick][1]
 - :candy: 0.25 cup sugar
 - :butter: 0.25 cup butter
 - :cheese_wedge: 8 oz cream cheese
@@ -33,7 +33,7 @@ tags:
 
 ### Step 1
 
-Heat oven to 375°F. Mix Bisquick and 1/4 cup sugar. Cut in butter and press into tart pan.
+Heat oven to 375°F. Mix [Bisquick][1] and 1/4 cup sugar. Cut in butter and press into tart pan.
 
 ### Step 2
 
@@ -54,3 +54,5 @@ Heat 1/2 cup apple jam or apricot jam and brush over berries.
 ### Step 6
 
 Refrigerate at least 2 hours.
+
+[1]: <../ingredients/bisquick.md>
