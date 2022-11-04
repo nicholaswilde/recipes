@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - paul-hollywood
 ---
 # Croissants
 
