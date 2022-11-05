@@ -15,26 +15,26 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- 4 oz bittersweet chocolate
-- 2 Tbsp strong, hot coffee
-- 3 egg whites
-- 1 pinch salt
-- 2 Tbsp granulated sugar
-- 8 Tbsp unsalted butter
-- 0.5 cup sugar
-- 3 large egg yolks
-- 0.33 cup pulverized almonds
-- 2 Tbsp granulated sugar
-- 0.25 tsp almond extract
-- 0.5 cup all-purpose flour
+- :chocolate_bar: 4 oz bittersweet chocolate
+- :coffee: 2 Tbsp strong, hot coffee
+- :egg: 3 egg whites
+- :salt: 1 pinch salt
+- :candy: 2 Tbsp granulated sugar
+- :butter: 8 Tbsp unsalted butter
+- :candy: 0.5 cup sugar
+- :egg: 3 large egg yolks
+- :chestnut: 0.33 cup pulverized almonds
+- :candy: 2 Tbsp granulated sugar
+- :chestnut: 0.25 tsp almond extract
+- :ear_of_rice: 0.5 cup all-purpose flour
 
 ## :salt: Ingredients - Frosting
 
-- 3 oz bittersweet chocolate, chopped fine
-- 2 Tbsp strong, hot coffee
-- 6 Tbsp unsalted butter, softened and cut into cubes
-- 1 pinch salt
-- 1 cup slivered almonds
+- :chocolate_bar: 3 oz bittersweet chocolate, chopped fine
+- :coffee: 2 Tbsp strong, hot coffee
+- :butter: 6 Tbsp unsalted butter, softened and cut into cubes
+- :salt: 1 pinch salt
+- :chestnut: 1 cup slivered almonds
 
 ## :cooking: Cookware
 
