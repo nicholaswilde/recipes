@@ -21,7 +21,7 @@ comments: true
 - :salt: 1 tsp salt
 - :herb: 0.5 tsp marjoram
 - :salt: 0.5 tsp pepper
-- :leafy_green: 0.5 tsp celery salt
+- :leafy_green: 0.5 tsp [celery salt][1]
 - :cut_of_meat: 1 cup ham pieces
 
 ## :cooking: Cookware
@@ -65,7 +65,7 @@ Then blend all together with a hand blender until soup is smooth.
 
 ### Step 9
 
-Then add 1 tsp salt, 1/2 tsp marjoram, 1/2 tsp pepper, 1/2 tsp celery salt and 1 cup cubed or diced ham pieces.
+Then add 1 tsp salt, 1/2 tsp marjoram, 1/2 tsp pepper, 1/2 tsp [celery salt][1] and 1 cup cubed or diced ham pieces.
 
 ### Step 10
 
@@ -78,3 +78,5 @@ Enjoy!
 ## :link: Source
 
 - Tante Myrna Seccia
+
+[1]: <../ingredients/celery-salt.md>
