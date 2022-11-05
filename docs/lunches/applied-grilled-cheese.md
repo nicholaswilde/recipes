@@ -4,7 +4,9 @@ tags:
   - lunch
   - applied-hospitality
 ---
-# Applied Grilled Cheese
+# :sandwich: Applied Grilled Cheese
+
+![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
