@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
-# Blanched Almonds
+# :chestnut: Blanched Almonds
 
 ![Blanched Almonds](../assets/images/blanched-almonds.png)
 
@@ -11,8 +13,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- some almonds
-- some boiling water
+- :chestnut: some almonds
+- :hotsprings: some boiling water
 
 ## :cooking: Cookware
 
