@@ -31,7 +31,7 @@ tags:
 
 ### Step 1
 
-Simmer the Yokon gold potatoes, peeled and sliced, and sliced white leek in them in [vegetable stock][1] (along with a
+Simmer the Yukon gold potatoes, peeled and sliced, and sliced white leek in them in [vegetable stock][1] (along with a
 pinch of salt) until tender. Julia Child recommends simmering in a partially covered pot for about 40 to 50 minutes.
 
 ### Step 2
