@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 1 lb blanched almonds
+- :chestnut: 1 lb [blanched almonds][1]
 
 ## :cooking: Cookware
 
@@ -28,10 +28,11 @@ Preheat the oven to 350ºF.
 
 ### Step 2
 
-When the blanched almonds have all been forcibly removed from their jackets, spread them out on a cookie sheet and roast
-in the oven until they are quite dry. This will take between 10 and 15 minutes. Watch closely to make sure they don’t
-brown too much, although, depending on the recipe you’re intending to use them for, a darker, more roasted taste may
-be desirable. If you have time to let them sit, turn off the oven and let them sit there all night to dry out even more.
+When the [blanched almonds][1] have all been forcibly removed from their jackets, spread them out on a cookie sheet and
+roast in the oven until they are quite dry. This will take between 10 and 15 minutes. Watch closely to make sure they
+don’t brown too much, although, depending on the recipe you’re intending to use them for, a darker, more roasted taste
+may be desirable. If you have time to let them sit, turn off the oven and let them sit there all night to dry out even
+more.
 
 ### Step 3
 
@@ -43,3 +44,5 @@ together or turn to butter, it has been over-ground.
 ## :link: Source
 
 - <https://www.thekitchn.com/recipe-diy-almo-14350>
+
+[1]: <./blanched-almonds.md>
