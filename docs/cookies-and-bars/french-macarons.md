@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients - Cookie
 
 - :candy: 1 cup confectioners' sugar
-- :ear_of_rice: 1.5 cups almond flour
+- :ear_of_rice: 1.5 cups [almond flour][1]
 - :egg: 3 large egg whites
 - :rice: 0.25 tsp cream of tartar
 - :candy: 0.5 cup granulated sugar
@@ -46,7 +46,7 @@ tags:
 
 ### Step 1
 
-Sift the confectioners' sugar and almond flour into a bowl.
+Sift the confectioners' sugar and [almond flour][1] into a bowl.
 
 ### Step 2
 
@@ -112,3 +112,5 @@ Continue mixing until buttercream is smooth and creamy. (About 5 to 6 minutes.) 
 ## :link: Source
 
 - <https://preppykitchen.com/french-macarons/>
+
+[1]: <../ingredients/almond-flour.md>
