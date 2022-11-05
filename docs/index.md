@@ -41,6 +41,9 @@ The following may be assumed throughout the site unless otherwise specified
 - `salt` refers to `kosher salt`.
 - `pepper` refers to `black pepper`.
 - `flour` refers to `all-purpose flour`.
+- `vanilla` refers to `vanilla extract`.
+- `heavy cream` is the same as `whipping cream`.
+- `stock` is the same as `broth`.
 
 ## :gear:&nbsp; Development
 
