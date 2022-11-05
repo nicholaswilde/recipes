@@ -44,6 +44,8 @@ The following may be assumed throughout the site unless otherwise specified
 - `vanilla` refers to `vanilla extract`.
 - `heavy cream` is the same as `whipping cream`.
 - `stock` is the same as `broth`.
+- `caster`, `white`, and `sugar` is the same as `granulated sugar`.
+- `powdered sugar` is the same as `confectioners' sugar`.
 
 ## :gear:&nbsp; Development
 
