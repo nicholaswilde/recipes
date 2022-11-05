@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :potato: 2 cups Yokon gold potatoes, peeled and sliced
+- :potato: 2 cups Yukon gold potatoes, peeled and sliced
 - :leafy_green: 3 cups sliced white leek
 - :stew: 1.5 qts [vegetable stock][1][^1]
 - :salt: 1 pinch salt
