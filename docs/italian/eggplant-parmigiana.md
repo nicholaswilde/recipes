@@ -91,6 +91,7 @@ Bake, uncovered, until the cheese is melted and bronzed in places and the sauce 
 minutes (add about 10 minutes if your dish was previously assembled and chilled). Remove and let cool slightly. Slice
 into squares and serve warm.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.saveur.com/best-ever-eggplant-parmigiana/>
+- <https://www.thekitchn.com/eggplant-parmesan-recipe-reviews-23048190>
