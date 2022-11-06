@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Filling
 
-- :pie: 1 deluxe butter pastry
+- :pie: 1 [deluxe butter pastry][1]
 - :cherries: 24 oz frozen tart cherries
 - :candy: 1 cup granulated sugar
 - :corn: 2 Tbsp cornstarch
@@ -44,7 +44,7 @@ tags:
 
 ### Step 1
 
-Make the deluxe butter pastry and shape the crust in a pie pan ahead of time, then store covered in the fridge.
+Make the [deluxe butter pastry][1] and shape the crust in a pie pan ahead of time, then store covered in the fridge.
 
 ### Step 2
 
@@ -88,3 +88,5 @@ Enjoy!
 
 - <https://www.ambitiouskitchen.com/tart-cherry-pie/>
 - <https://www.thekitchn.com/cherry-pie-recipe-showdown-23394698>
+
+[1]: <../ingredients/pastry-dough/deluxe-butter-pastry.md>
