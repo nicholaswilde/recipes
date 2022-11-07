@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - vegan
+  - main
 ---
 # :corn: Creamy Vegan Polenta with Mushrooms & Kale
 
