@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - pancake
+  - vegetarian
 ---
 # :pancakes: Chickpea & Spinach Pancakes
 
