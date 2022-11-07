@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - casserole
+  - vegan
 ---
-# Fennel & Potato Cassola
+# :stew: Fennel & Potato Cassola
 
 ![Fennel and Potato Cassola](../assets/images/fennel-and-potato-cassola.jpg)
 
@@ -11,15 +14,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 baby bulbs fennel
-- 1 sweet onion (Vidalia)
-- 3 Yukon gold potatoes
-- 3 Tbsp olive oil
-- 1 cup water
-- 3 bay leaves
-- 1 cup water
-- some salt
-- some pepper
+- :leafy_green: 3 baby bulbs fennel
+- :onion: 1 sweet onion (Vidalia)
+- :potato: 3 Yukon gold potatoes
+- :olive: 3 Tbsp olive oil
+- :droplet: 1 cup water
+- :fallen_leaf: 3 bay leaves
+- :droplet: 1 cup water
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
