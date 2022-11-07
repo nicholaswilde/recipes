@@ -46,6 +46,9 @@ The following may be assumed throughout the site unless otherwise specified
 - `stock` is the same as `broth`.
 - `caster`, `white`, and `sugar` is the same as `granulated sugar`.
 - `powdered sugar` is the same as `confectioners' sugar`.
+- `brown sugar` measurements are `packed`
+- Temperatures are in `°F`.
+- Powdered measurements are sifted.
 
 ## :gear:&nbsp; Development
 
