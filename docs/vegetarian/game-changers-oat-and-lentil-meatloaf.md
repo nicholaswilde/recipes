@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - vegetarian
+  - main
 ---
-# Game Changers Oat and Lentil Meatloaf
+# Game Changers Oat & Lentil Meatloaf
 
-![Game Changers Oat and Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg)
+![Game Changers Oat & Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,20 +14,20 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 stalks celery
-- 0.5 onion
-- 2 cloves garlic
-- 10 oz firm tofu
-- 0.25 cup walnuts
-- 0.5 cup brown lentils
-- 1.25 cups quick-cooking oats
-- 0.5 tsp thyme
-- 0.5 rosemary
-- 2 Tbsp soy sauce
-- 1 Tbsp Dijon mustard
-- 2 tsp parsley
-- 0.5 tsp sage
-- 2 Tbsp BBQ sauce
+- :leafy_green: 2 stalks celery
+- :onion: 0.5 onion
+- :garlic: 2 cloves garlic
+- :butter: 10 oz firm tofu
+- :chestnut: 0.25 cup walnuts
+- :curry: 0.5 cup brown lentils
+- :ear_of_rice: 1.25 cups quick-cooking oats
+- :herb: 0.5 tsp thyme
+- :herb: 0.5 rosemary
+- :takeout_box: 2 Tbsp soy sauce
+- :hotdog: 1 Tbsp Dijon mustard
+- :herb: 2 tsp parsley
+- :herb: 0.5 tsp sage
+- :hotsprings: 2 Tbsp BBQ sauce
 
 ## :cooking: Cookware
 
