@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+  - side
 ---
 # :stuffed_flatbread: Grandpa's Stuffing
 
