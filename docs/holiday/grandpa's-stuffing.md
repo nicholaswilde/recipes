@@ -39,11 +39,11 @@ Blend white bread, celery, and yellow onion in a blender.
 
 ### Step 3
 
-Crumble Albers yellow cornmeal (prepared). Add water to the desired the desired texture.
+Crumble Albers yellow cornmeal (prepared). Add water to the desired texture.
 
 ### Step 4
 
-PLace into a casserole pan.
+Place into a casserole pan.
 
 ### Step 5
 
