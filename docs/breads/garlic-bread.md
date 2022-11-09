@@ -7,11 +7,29 @@ tags:
 
 ![Garlic Bread](../assets/images/garlic-bread.jpg)
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 6-8 | 2 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 2 minutes |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 3-4 |
+
+- :butter: 1 sticks butter, softened
+- :garlic: 1 cloves garlic, minced
+- :seedling: 0.5 scallion, minced
+- :cheese_wedge: 0.5 Tbsp Parmesan
+- :herb: 0.5 Tbsp parsley
+- :hot_pepper: some hot sauce
+- :salt: some salt
+- :salt: some pepper
+- :baguette_bread: 1 French baguette
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 6-8 |
 
 - :butter: 2 sticks butter, softened
 - :garlic: 2 cloves garlic, minced
