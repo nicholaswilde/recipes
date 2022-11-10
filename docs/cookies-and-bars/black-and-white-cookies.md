@@ -104,6 +104,7 @@ least 1 hour.
 These cookies are best served within 24 hours, but will keep for up to three days if kept in an airtight container at
 room temperature.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.karenskitchenstories.com/2016/11/black-and-white-cookies.html>
+- <https://www.thepancakeprincess.com/2021/06/10/best-black-and-white-cookie-bake-off/>
