@@ -61,7 +61,7 @@ remaining 2 Tbsp granulated sugar in a medium bowl.
 
 ### Step 5
 
-Using a 1 oz ice cream scoop or a generous, heaping tablespoonful, portion cookies and roll into small balls with your
+Using a 1 oz (30 g) ice cream scoop ([scoop number 40][1]) or a generous, heaping tablespoonful, portion cookies and roll into small balls with your
 hands. Toss in cinnamon-sugar until coated all over. Transfer to prepared sheet, spacing about 3" apart. Do not flatten;
 cookies will spread as they bake.
 
@@ -79,3 +79,5 @@ sheets 10 minutes, then transfer to a wire rack and let cool completely.
 
 - <https://www.bonappetit.com/recipe/best-snickerdoodles>
 - <https://www.thekitchn.com/snickerdoodle-recipe-reviews-22969541>
+
+[1]: <../reference/measuring.md#cookie-scoop-conversion-chart>
