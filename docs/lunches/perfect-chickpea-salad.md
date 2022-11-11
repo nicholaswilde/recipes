@@ -1,28 +1,31 @@
 ---
 comments: true
+tags:
+  - salad
+  - lunch
 ---
-# Perfect Chickpea Salad
+# :falafel: Perfect Chickpea Salad
 
 ![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 10 minutes |
 
 ## :salt: Ingredients
 
-- 1 can chickpeas
-- 2 stalks celery
-- 0.33 cup bell pepper
-- 0.33 cup pickles
-- 0.25 cup hummus
-- 1.5 tsp mustard
-- 1 Tbsp dill
-- 0.25 cup parsley
-- 4 Tbsp lemon juice
-- 1  salt
-- 1  pepper,
-- some whole grain pita bread pockets
+- :falafel: 1 can chickpeas
+- :leafy_green: 2 stalks celery
+- :bell_pepper: 0.33 cup bell pepper
+- :cucumber: 0.33 cup pickles
+- :falafel: 0.25 cup hummus
+- :hotdog: 1.5 tsp mustard
+- :seedling: 1 Tbsp dill
+- :herb: 0.25 cup parsley
+- :lemon: 4 Tbsp lemon juice
+- :salt: 1 pinch salt
+- :salt: 1 pinch pepper
+- :flatbread: some whole grain pita bread pockets
 
 ## :cooking: Cookware
 
