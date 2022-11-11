@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - applied-wellness
+  - dip
 ---
 # :sweet_potato: Beet Hummus
 
@@ -15,7 +18,7 @@ comments: true
 - :olive: 0.33 cup olive oil
 - :salt: 1 tsp salt
 - :falafel: 1 can, drained chickpeas
-- :seedling: 0.67 cup tahini
+- :seedling: 0.67 cup [tahini][1]
 - :lemon: 0.33 cup lemon juice
 - :garlic: 2 cloves garlic
 - :herb: 1 tsp cumin
@@ -43,7 +46,7 @@ Allow the beet to cool, then peel and chop.
 
 ### Step 3
 
-Combine the beet, chickpeas, tahini, lemon juice, garlic, and cumin in a food processor or blender.
+Combine the beet, chickpeas, [tahini][1], lemon juice, garlic, and cumin in a food processor or blender.
 
 ### Step 4
 
@@ -65,3 +68,5 @@ Serve in a bowl.
 ## :link: Source
 
 - Applied Hospitality
+
+[1]: <./tahini.md>
