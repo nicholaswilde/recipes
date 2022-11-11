@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 2 cups slivered blanched almonds
+- :chestnut: 2 cups slivered [blanched almonds][1]
 - :microbe: 3 tsp nutritional yeast
 - :lemon: 2 Tbsp lemon juice
 - :garlic: 1 dash garlic powder
@@ -30,11 +30,11 @@ tags:
 
 ### Step 1
 
-Add slivered blanched almonds, nutritional yeast, lemon juice, garlic powder, and basil, oregano, or parsley (optional)
-(starting with the lesser amount of water (3/4 cup/180 ml and salt (1/2 tsp) as original recipe is written) to a
-high-speed blender and blend until smooth and creamy, scraping down sides as needed, about 2 minutes. You are looking
-for a well-puréed mixture with only very small bits of almonds intact. Add a bit more water a little at a time if the
-mixture is having a hard time blending until smooth.
+Add slivered [blanched almonds][1], nutritional yeast, lemon juice, garlic powder, and basil, oregano, or parsley
+(optional) (starting with the lesser amount of water (3/4 cup/180 ml and salt (1/2 tsp) as original recipe is written)
+to a high-speed blender and blend until smooth and creamy, scraping down sides as needed, about 2 minutes. You are
+looking for a well-puréed mixture with only very small bits of almonds intact. Add a bit more water a little at a time
+if the mixture is having a hard time blending until smooth.
 
 ### Step 2
 
@@ -55,3 +55,5 @@ Store leftovers covered in the refrigerator up to 5-7 days.
 ## :link: Source
 
 - <https://minimalistbaker.com/whipped-almond-ricotta-5-ingredients/>
+
+[1]: <../ingredients/blanched-almonds.md>
