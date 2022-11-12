@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+  - pancake
 ---
 # :pancakes: Dutch Pancakes
 
