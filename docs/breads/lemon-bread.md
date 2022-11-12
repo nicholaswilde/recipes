@@ -71,6 +71,7 @@ For the frosting: Combine the butter, lemon juice and lemon extract with hand or
 confectioners' sugar, and beat until smooth and creamy. Evenly spread the frosting over the top of the loaf. Refrigerate
 to let frosting set completely before slicing. Refrigerate any leftovers in an airtight container.
 
-## :link: Source
+## :link: Sources
 
 - <https://lilluna.com/better-than-starbucks-lemon-loaf>
+- <https://www.thepancakeprincess.com/2022/05/25/best-lemon-loaf-bake-off/>
