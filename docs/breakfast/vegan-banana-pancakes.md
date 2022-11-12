@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
   - vegan
+  - pancake
 ---
 # :pancakes: Vegan Banana Pancakes
 
