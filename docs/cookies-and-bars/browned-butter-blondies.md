@@ -3,6 +3,7 @@ comments: true
 tags:
   - bar
   - dessert
+  - cooks-illustrated
 ---
 # :cookie: Browned Butter Blondies
 
