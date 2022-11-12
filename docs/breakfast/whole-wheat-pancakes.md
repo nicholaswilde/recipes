@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+  - pancake 
 ---
 # :pancakes: Whole Wheat Pancakes
 
