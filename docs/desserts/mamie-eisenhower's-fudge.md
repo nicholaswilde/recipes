@@ -3,6 +3,7 @@ comments: true
 tags:
   - fudge
   - dessert
+  - bar
 ---
 # :chocolate_bar: Mamie Eisenhower's Fudge
 
