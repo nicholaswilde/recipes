@@ -1,7 +1,10 @@
 ---
-comments: true
+comments: tru
+tags:
+  - pancake
+  - side 
 ---
-# Texas Potato Pancakes
+# :pancakes: Texas Potato Pancakes
 
 ![Texas Potato Pancakes](../assets/images/texas-potato-pancakes.jpg)
 
@@ -11,14 +14,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 lbs russet potatoes
-- 0.5 cup all-purpose flour
-- 2 large eggs
-- 0.33 cup onion
-- some salt
-- 1.25 cups vegetable oil
-- some sour cream
-- some applesauce
+- :potato: 2 lbs russet potatoes
+- :ear_of_rice: 0.5 cup all-purpose flour
+- :egg: 2 large eggs
+- :onion: 0.33 cup onion
+- :salt: some salt
+- :oil_drum: 1.25 cups vegetable oil
+- :rice: some sour cream
+- :apple: some applesauce
 
 ## :cooking: Cookware
 
