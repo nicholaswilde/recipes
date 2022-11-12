@@ -4,6 +4,7 @@ tags:
   - asian
   - vegetarian
   - sandwich
+  - applied-kitchen
 ---
 # :sandwich: Banh Mi Sandwich
 
@@ -39,7 +40,7 @@ serve.
 
 ## :link: Source
 
-- Applied Hospitality
+- Applied Kitchen
 
 [1]: <../sauces-and-dressings/garlic-aioli.md>
 [2]: <../ingredients/pickled-carrots-and-daikon.md>

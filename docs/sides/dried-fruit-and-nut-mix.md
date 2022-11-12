@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - side
+  - applied-kitchen
 ---
-# :chestnut: Dried Fruit and Nut Mix
+# :chestnut: Dried Fruit & Nut Mix
 
 ![Dried Fruit and Nut Mix](../assets/images/dried-fruit-and-nut-mix.png)
 
@@ -45,4 +48,4 @@ Tip: For some extra sweetness and fun, add chopped dark chocolate (optional), ch
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen

@@ -3,7 +3,7 @@ comments: true
 tags:
   - asian
   - side
-  - applied-wellness
+  - applied-kitchen
 ---
 # :burrito: Fresh Spring Rolls
 
@@ -67,7 +67,7 @@ Serve with peanut sauce and enjoy!
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen
 
 [^1]:
   Thinly sliced into long matchsticks.

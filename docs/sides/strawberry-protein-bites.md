@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - bites
+  - applied-kitchen
+  - side
 ---
 # :strawberry: Strawberry Protein Bites
 
@@ -58,4 +62,4 @@ Store in an airtight container and refrigerate.
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen

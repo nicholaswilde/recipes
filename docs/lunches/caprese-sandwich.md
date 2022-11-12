@@ -3,6 +3,7 @@ comments: true
 tags:
   - lunch
   - sandwich
+  - applied-kitchen
 ---
 # :sandwich: Caprese Sandwich
 
@@ -31,6 +32,6 @@ Add slices of tomato and mozzarella to the bread to make a sandwich.
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen
 
 [1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>

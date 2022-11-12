@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - bites
+  - applied-kitchen
 ---
 # :carrot: Carrot Cake Protein Bites
 
@@ -46,4 +49,4 @@ Store in an airtight container and refrigerate.
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen

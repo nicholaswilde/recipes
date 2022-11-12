@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - applied-wellness
+  - applied-kitchen
   - dip
 ---
 # :sweet_potato: Beet Hummus
@@ -67,6 +67,6 @@ Serve in a bowl.
 
 ## :link: Source
 
-- Applied Hospitality
+- Applied Kitchen
 
 [1]: <./tahini.md>

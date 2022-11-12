@@ -2,7 +2,7 @@
 comments: true
 tags:
   - lunch
-  - applied-hospitality
+  - applied-kitchen
 ---
 # :sandwich: Applied Grilled Cheese
 
@@ -34,4 +34,4 @@ Grill with cheddar, Swiss cheese, and provolone on the range/griddle on medium-l
 
 ## :link: Source
 
-- Applied Hospitality
+- Applied Kitchen

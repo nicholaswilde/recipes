@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - applied-kitchen
+  - vegetarian
+  - salad
 ---
 # :green_salad: Fiesta Salad
 
@@ -32,7 +36,7 @@ Top with [chipotle ranch dressing][2].
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen
 
 [1]: <../ingredients/fajita-veggies.md>
 [2]: <../sauces-and-dressings/chipotle-ranch-dressing.md>

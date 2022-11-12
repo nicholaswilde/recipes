@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - bites
+  - side
+  - applied-kitchen
 ---
 # :cookie: Peanut Butter Chocolate Chip Protein Bites
 
@@ -43,12 +47,12 @@ create approximately 10 to 12 bites.
 
 Store in an airtight container and refrigerate.
 
-### Step 5
+!!! tip
 
-Tip: If the mixture is too dry or crumbly, add a teaspoon of warm water.
+    If the mixture is too dry or crumbly, add a teaspoon of warm water.
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen
 
 [1]: <../ingredients/peanut-butter.md>

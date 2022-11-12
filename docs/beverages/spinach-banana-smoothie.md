@@ -3,6 +3,7 @@ comments: true
 tags:
   - smoothie
   - beverage
+  - applied-kitchen
 ---
 # :leafy_green: Spinach Banana Smoothie
 
@@ -39,4 +40,4 @@ Blend on high for 1 minute or until all ingredients are fully blended.
 
 ## :link: Source
 
-- Applied Wellness
+- Applied Kitchen
