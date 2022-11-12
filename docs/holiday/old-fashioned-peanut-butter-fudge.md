@@ -4,6 +4,7 @@ tags:
   - bar
   - holiday
   - dessert
+  - fudge
 ---
 # :peanuts: Old-Fashioned Peanut Butter Fudge
 
