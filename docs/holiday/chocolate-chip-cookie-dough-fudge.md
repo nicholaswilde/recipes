@@ -3,6 +3,8 @@ comments: true
 tags:
   - holiday
   - bar
+  - dessert
+  - fudge
 ---
 # :chocolate_bar: Chocolate Chip Cookie Dough Fudge
 
