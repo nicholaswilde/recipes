@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-  - pancakes
+  - pancake
   - jamie-oliver
 ---
 # :pancakes: Jamie Oliver Blueberry Smoothie Pancakes
