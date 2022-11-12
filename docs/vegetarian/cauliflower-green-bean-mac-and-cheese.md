@@ -2,7 +2,7 @@
 comments: true
 tags:
   - vegetarian
-  - Italian
+  - italian
   - main
 ---
 # :broccoli: Cauliflower Green Bean Mac & Cheese
