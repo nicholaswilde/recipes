@@ -1,25 +1,28 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - seasoning
 ---
-# Taco Seasoning
+# :taco: Taco Seasoning
 
 ![Taco Seasoning](../assets/images/taco-seasoning.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 5 minutes |
 
 ## :salt: Ingredients
 
-- 1 tbsp chili powder
-- 1.5 tsp cumin
-- 1 tsp salt
-- 1 tsp pepper
-- 0.5 tsp paprika
-- 0.25 tsp garlic powder
-- 0.25 tsp onion powder
-- 0.25 tsp red pepper flakes
-- 0.25 tsp oregano
+- :hot_pepper: 1 tbsp chili powder
+- :herb: 1.5 tsp cumin
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :hot_pepper: 0.5 tsp paprika
+- :garlic: 0.25 tsp garlic powder
+- :onion: 0.25 tsp onion powder
+- :hot_pepper: 0.25 tsp red pepper flakes
+- :herb: 0.25 tsp oregano
 
 ## :cooking: Cookware
 
