@@ -144,6 +144,7 @@ top and/or around the base.
 Store the cake, covered, at room temperature, or in the refrigerator if your kitchen is hot. Let it come to room
 temperature before serving. For tips on slicing, see The best way to cut cake.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.kingarthurbaking.com/recipes/classic-birthday-cake-recipe>
+- <https://www.thekitchn.com/birthday-cake-recipe-reviews-23115314>
