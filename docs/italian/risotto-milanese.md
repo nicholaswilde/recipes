@@ -3,6 +3,7 @@ comments: true
 tags:
   - italian
   - risotto
+  - joy-of-cooking 
 ---
 # :ear_of_rice: Risotto Milanese
 
