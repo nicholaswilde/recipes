@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - joy-of-cooking
+  - ingredient 
 ---
 # :stew: Vegetable Broth
 
