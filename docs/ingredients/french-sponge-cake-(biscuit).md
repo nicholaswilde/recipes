@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - joy-of-cooking
 ---
 # :cake: French Sponge Cake (Biscuit)
 
