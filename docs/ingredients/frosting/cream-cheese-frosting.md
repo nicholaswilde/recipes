@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - joy-of-cooking
+  - frosting
 ---
 # :birthday: Cream Cheese Frosting
 
