@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - joy-of-cooking
+  - glaze
+  - ingredient 
 ---
 # :lemon: Lemon Glaze
 
