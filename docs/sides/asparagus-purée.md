@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - puree
+  - side
+  - gordon-ramsay
 ---
 # :herb: Asparagus Purée
 
