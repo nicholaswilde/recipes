@@ -2,6 +2,8 @@
 comments: true
 tags:
   - beverage
+  - joy-of-cooking
+  - holiday 
 ---
 # :egg: Cooked Eggnog
 
