@@ -3,6 +3,7 @@ comments: true
 tags:
   - sauce
   - dip
+  - joy-of-cooking 
 ---
 # :honey_pot: Honey Mustard Dipping Sauce
 

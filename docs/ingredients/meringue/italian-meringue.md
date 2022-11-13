@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - meringue
+  - joy-of-cooking 
 ---
 # :egg: Italian Meringue
 
@@ -19,6 +23,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     This classic Italian meringue does not require baking, because the egg whites are already cooked by the hot syrup.
     You may want to brown it lightly in a 350° oven. This meringue is not so stiff as Swiss or French.
 

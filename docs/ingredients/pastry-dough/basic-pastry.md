@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - pastry-dough
+  - joy-of-cooking
 ---
 # :pie: Basic Pastry
 

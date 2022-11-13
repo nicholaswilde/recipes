@@ -1,5 +1,10 @@
 ---
 comments: true
+tags:
+  - italian
+  - ingredient
+  - pasta
+  - joy-of-cooking 
 ---
 # :spaghetti: Pasta
 

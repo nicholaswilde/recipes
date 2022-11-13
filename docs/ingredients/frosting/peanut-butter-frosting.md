@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - frosting
+  - joy-of-cooking
 ---
 # :peanuts: Peanut Butter Frosting
 

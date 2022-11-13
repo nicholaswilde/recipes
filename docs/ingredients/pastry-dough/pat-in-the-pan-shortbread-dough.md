@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - pastry-dough
+  - ingredient
+  - joy-of-cooking 
 ---
 # :pie: Pat-in-the-Pan Shortbread Dough
 

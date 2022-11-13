@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - soup
+  - gordon-ramsay
 ---
 # :tomato: Roasted Tomato Soup
 

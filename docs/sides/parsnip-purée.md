@@ -1,5 +1,9 @@
 ---
 comments: true
+tag:
+  - gordon-ramsay
+  - puree
+  - side
 ---
 # :carrot: Parsnip Purée
 

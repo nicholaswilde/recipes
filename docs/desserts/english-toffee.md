@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - toffee
+  - dessert
+  - joy-of-cooking 
 ---
 # :candy: English Toffee
 

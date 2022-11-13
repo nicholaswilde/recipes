@@ -2,6 +2,8 @@
 comments: true
 tags:
   - beverage
+  - tea
+  - joy-of-cooking 
 ---
 # :hibiscus: Iced Hibiscus Tea
 

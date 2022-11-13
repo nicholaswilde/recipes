@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - joy-of-cooking
+  - pastry-dough 
 ---
 # :pie: Pat-in-the-Pan Butter Dough
 

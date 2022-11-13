@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - joy-of-cooking
+  - pastry-dough
+  - ingredient 
 ---
 # :pie: Deluxe Butter Pastry
 

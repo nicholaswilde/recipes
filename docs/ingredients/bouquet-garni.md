@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - joy-of-cooking
 ---
 # :herb: Bouquet Garni
 
