@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - meringue
+  - ingredient
+  - joy-of-cooking 
 ---
 # :egg: French Meringue
 
@@ -21,7 +25,7 @@ comments: true
 
 ### Step 1
 
-Preheat oven to 325° to 350°.
+Preheat oven to 325°F to 350°F.
 
 ### Step 2
 
