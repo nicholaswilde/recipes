@@ -3,7 +3,7 @@ comments: true
 ---
 # :cake: Vegan Carrot Cake
 
-![Vegan Carrot Cake](../assets/images/vegan-carrot-cake.jpg)
+![Vegan Carrot Cake](../../assets/images/vegan-carrot-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -73,4 +73,4 @@ sides with remaining frosting.
 
 - <https://vegnews.com/2022/10/cafe-indigo-vegan-carrot-cake-recipe>
 
-[1]: <../ingredients/frosting/classic-vanilla-buttercream-frosting.md>
+[1]: <../../ingredients/frosting/classic-vanilla-buttercream-frosting.md>

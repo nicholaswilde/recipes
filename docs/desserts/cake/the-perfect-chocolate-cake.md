@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: The Perfect Chocolate Cake
 
-![The Perfect Chocolate Cake](../assets/images/the-perfect-chocolate-cake.jpg)
+![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -107,4 +107,4 @@ Lift cake and scrape off excess ganache from the bottom edges to catch the drips
 
 - <https://www.youtube.com/watch?v=71_lLTlE8vM>
 
-[1]: <../ingredients/frosting/dominique-ansel's-chocolate-ganache.md>
+[1]: <../../ingredients/frosting/dominique-ansel's-chocolate-ganache.md>
