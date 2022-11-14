@@ -80,6 +80,7 @@ moisten the sugar, then add enough additional lemon juice, a dribble at a time, 
 drizzle from the tip of the spoon. You can then drizzle lines of icing over the tops of the muffins or coat the tops
 entirely, the better to get an extra zap of lemon.
 
-## :link: Source
+## :link: Sources
 
 - <http://sparrowsandspatulas.blogspot.com/2011/11/dories-lemon-poppy-muffins.html?m=1>
+- <https://www.thekitchn.com/lemon-poppyseed-muffin-recipe-showdown-23321191>
