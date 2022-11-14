@@ -26,6 +26,8 @@ tags:
 - :custard: 0.25 tsp cinnamon
 - :salt: 0.25 tsp salt
 - :chestnut: 3 Tbsp almonds
+- :chestnut: 3 Tbsp chia seeds
+- :icecream: 1 tsp vanilla 
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
@@ -39,6 +41,8 @@ tags:
 - :custard: 1 pinch cinnamon
 - :salt: 1 pinch salt
 - :chestnut: 1 Tbsp almonds
+- :chestnut: 1 Tbsp chia seeds
+- :icecream: 0.25 tsp vanilla 
 
 ## :cooking: Cookware
 
@@ -49,7 +53,7 @@ tags:
 ### Step 1
 
 Combine uncooked old fashioned oats, unsweetened vanilla almond milk, light artificially sweetened yogurt, mixed
-berries, lemon zest, cinnamon, and salt in a medium jar or large glass; stir, cover and refrigerate overnight. Garish
+berries, lemon zest, cinnamon, vanilla, chia seeds, and salt in a medium jar or large glass; stir, cover and refrigerate overnight. Garish
 with almonds; serve.
 
 ## :link: Source
