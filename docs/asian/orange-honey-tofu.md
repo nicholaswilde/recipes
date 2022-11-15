@@ -20,7 +20,7 @@ tags:
 - :candy: 0.25 cup sugar (coconut sugar, brown sugar, or pure maple syrup)
 - :honey_pot: 8 tsp honey
 - :rice: 0.33 cup rice vinegar
-- :takeout_box: 0.25 cup tahini or soy sauce
+- :takeout_box: 0.25 cup [tahini][4] or soy sauce
 - :garlic: 3 cloves garlic
 - :sweet_potato: 2 tsp ginger
 - :hot_pepper: 1 tsp Sriracha hot sauce
@@ -45,7 +45,7 @@ Make either [pan-fried][1] or [air fryer tofu][2].
 ### Step 2
 
 In a large pan (large enough to fit the tofu and sauce), add [vegetable broth][3], orange juice, sugar (coconut sugar,
-brown sugar, or pure maple syrup), honey, rice vinegar, tamari or soy sauce, garlic, ginger, red pepper flakes
+brown sugar, or pure maple syrup), honey, rice vinegar, [tamari][4] or soy sauce, garlic, ginger, red pepper flakes
 (alternative) or Sriracha hot sauce. Bring to a boil, and cook for 1 minute or two.
 
 ### Step 3
@@ -72,3 +72,4 @@ side of steamed broccoli or cauliflower if desired.
 [1]: <../ingredients/tofu/pan-fried-tofu.md>
 [2]: <../ingredients/tofu/air-fryer-tofu.md>
 [3]: <../ingredients/vegetable-broth.md>
+[4]: <../sauces-and-dressings/tahini.md>
