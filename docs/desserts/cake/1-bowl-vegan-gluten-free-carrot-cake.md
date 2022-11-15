@@ -7,7 +7,7 @@ tags:
 ---
 # 1-Bowl Vegan Gluten-Free Carrot Cake
 
-![1-Bowl Vegan Gluten-Free Carrot Cake](../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg)
+![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -94,4 +94,4 @@ freezer for several weeks. However, it's best when eaten fresh.
 
 - <https://minimalistbaker.com/1-bowl-vegan-gluten-free-carrot-cake/>
 
-[1]: <../ingredients/brown-sugar.md>
+[1]: <../../ingredients/brown-sugar.md>

@@ -7,7 +7,7 @@ tags:
 ---
 # :coconut: Ina Garten's Coconut Cake
 
-![Ina Garten's Coconut Cake](../assets/images/ina-garten's-coconut-cake.jpg)
+![Ina Garten's Coconut Cake](../../assets/images/ina-garten's-coconut-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |

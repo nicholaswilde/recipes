@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Cinnamon-Streusel Coffee Cake
 
-![Cinnamon-Streusel Coffee Cake](../assets/images/cinnamon-streusel-coffee-cake.jpg)
+![Cinnamon-Streusel Coffee Cake](../../assets/images/cinnamon-streusel-coffee-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |

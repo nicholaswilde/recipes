@@ -6,7 +6,7 @@ tags:
 ---
 # :custard: Cinnamon Coffee Cake
 
-![Cinnamon Coffee Cake](../assets/images/cinnamon-coffee-cake.jpg)
+![Cinnamon Coffee Cake](../../assets/images/cinnamon-coffee-cake.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -89,4 +89,4 @@ before serving.
 
 - <https://www.gogogogourmet.com/cinnamon-coffee-cake-with-streusel-crumb-topping/>
 
-[1]: <../ingredients/brown-sugar.md>
+[1]: <../../ingredients/brown-sugar.md>

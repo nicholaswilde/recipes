@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Cinnamon Chocolate Cake
 
-![Cinnamon Chocolate Cake](../assets/images/cinnamon-chocolate-cake.jpg)
+![Cinnamon Chocolate Cake](../../assets/images/cinnamon-chocolate-cake.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

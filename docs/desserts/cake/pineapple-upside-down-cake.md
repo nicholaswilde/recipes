@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - cake
+  - dessert
+  - trader-joes
 ---
 # :pineapple: Pineapple Upside Down Cake
 
-![Pineapple Upside Down Cake](../assets/images/pineapple-upside-down-cake.png)
+![Pineapple Upside Down Cake](../../assets/images/pineapple-upside-down-cake.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -47,6 +51,6 @@ Ice Cream, if desired.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/pineapple-upside-down-cake>
+- Trader Joe's
 
-[1]: <../ingredients/brown-sugar.md>
+[1]: <../../ingredients/brown-sugar.md>

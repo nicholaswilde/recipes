@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Funfetti Cake
 
-![Funfetti Cake](../assets/images/funfetti-cake.jpg)
+![Funfetti Cake](../../assets/images/funfetti-cake.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

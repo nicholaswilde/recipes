@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Classic Birthday Cake
 
-![Classic Birthday Cake](../assets/images/classic-birthday-cake.jpg)
+![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

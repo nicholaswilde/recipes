@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Carrot Cake
 
-![Carrot Cake](../assets/images/carrot-cake.jpg)
+![Carrot Cake](../../assets/images/carrot-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -54,4 +54,4 @@ Decorate with cream cheese frosting.
 
 - Tante Myrna Seccia
 
-[1]: <../ingredients/frosting/cream-cheese-frosting.md>
+[1]: <../../ingredients/frosting/cream-cheese-frosting.md>
