@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - cake
+  - cooks-illustrated
+  - dessert
 ---
 # :olive: Olive Oil Cake
 
-![Olive Oil Cake](../assets/images/olive-oil-cake.jpg)
+![Olive Oil Cake](../../assets/images/olive-oil-cake.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

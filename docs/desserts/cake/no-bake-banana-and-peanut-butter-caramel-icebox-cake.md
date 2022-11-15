@@ -3,7 +3,7 @@ comments: true
 ---
 # :cake: No-Bake Banana & Peanut Butter Caramel Icebox Cake
 
-![No-Bake Banana and Peanut Butter Caramel Icebox Cake](../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake.jpg)
+![No-Bake Banana and Peanut Butter Caramel Icebox Cake](../../assets/images/no-bake-banana-and-peanut-butter-caramel-icebox-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -96,6 +96,6 @@ Refrigerate uncovered until the crackers have softened completely, at least 6 ho
 
 - <https://www.thekitchn.com/recipe-no-bake-banana-and-peanut-butter-caramel-icebox-cake-kitchn-cookbook-23345496>
 
-[1]: <../ingredients/peanut-butter.md>
-[2]: <../ingredients/graham-crackers.md>
-[3]: <../ingredients/sweetened-condensed-milk.md>
+[1]: <../../ingredients/peanut-butter.md>
+[2]: <../../ingredients/graham-crackers.md>
+[3]: <../../ingredients/sweetened-condensed-milk.md>
