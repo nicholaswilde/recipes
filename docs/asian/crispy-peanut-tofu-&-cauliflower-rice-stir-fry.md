@@ -46,8 +46,12 @@ wrap in an absorbent towel several times and place something heavy on top to pre
 ### Step 3
 
 Once pressed, slice tofu into roughly 1/2-inch cubes and arrange on the parchment-lined baking sheet in a single layer.
-Ensure they aren't touching so they will crisp up. Bake for 20 to 25 minutes to dry/firm the tofu. NOTE: At 20 minutes,
-the tofu should be chewy, and at 25 minutes, the tofu should be more crispy. Bake according to preference.
+Ensure they aren't touching so they will crisp up. Bake for 20 to 25 minutes to dry/firm the tofu.
+
+!!! note
+
+    At 20 minutes, the tofu should be chewy, and at 25 minutes, the tofu should be more crispy. Bake according to
+    preference.
 
 ### Step 4
 
