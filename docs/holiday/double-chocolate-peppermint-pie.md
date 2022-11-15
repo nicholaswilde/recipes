@@ -22,7 +22,7 @@ tags:
 - :herb: 1 Tbsp peppermint extract
 - :glass_of_milk: 1.5 cups heavy cream
 - :red_circle: some red food coloring (optional)
-- :chocolate_bar: some hot fudge sauce
+- :chocolate_bar: some [hot fudge sauce][2]
 - :candy: 0.25 cup crushed peppermint candies
 
 ## :cooking: Cookware
@@ -72,3 +72,4 @@ tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
 - Magnolia
 
 [1]: <../cookies-and-bars/chocolate-pizzelle.md>
+[2]: <../sauces-and-dressings/hot-fudge-sauce.md>
