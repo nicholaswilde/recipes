@@ -3,7 +3,7 @@ comments: true
 tags:
   - bread
 ---
-# Basic Sweet Babka
+# :bread: Basic Sweet Babka
 
 ![Basic Sweet Babka](../assets/images/basic-sweet-babka.jpg)
 
@@ -13,16 +13,15 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- 1 Tbsp dry active yeast
-- 0.5 tsp granulated sugar
-- 0.5 cup lukewarm water
-- some all-purpose flour
-- 0.33 cup granulated sugar
-- 2 tsp vanilla
-- some medium saucepan
-- 0.5 cup milk
-- 0.75 cup melted butter
-- 2 eggs
+- :microbe: 1 Tbsp dry active yeast
+- :candy: 0.5 tsp granulated sugar
+- :droplet: 0.5 cup lukewarm water
+- :ear_of_rice: some all-purpose flour
+- :candy: 0.33 cup granulated sugar
+- :icecream: 2 tsp vanilla
+- :glass_of_milk: 0.5 cup milk
+- :butter: 0.75 cup melted butter
+- :egg: 2 eggs
 
 ## :salt: Ingredients - Syrup
 
@@ -49,6 +48,7 @@ tags:
 - 1 small saucepan
 - 1 8.5 x 4.5 inch loaf pans
 - 1 loaf pan
+- 1 medium saucepan
 
 ## :pencil: Instructions - Dough
 
