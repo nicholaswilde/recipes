@@ -4,7 +4,7 @@ tags:
   - bread
   - paul-hollywood
 ---
-# Croissants
+# :croissant: Croissants
 
 ![Croissants](../assets/images/croissants.png)
 
@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients
 
-- 500 g strong white bread flour
-- 10 g salt
-- 80 g caster sugar
-- 10 g instant yeast
-- 300 ml water
-- 300 g unsalted butter
-- 1 egg
+- :ear_of_rice: 500 g strong white bread flour
+- :salt: 10 g salt
+- :candy: 80 g granulated sugar
+- :microbe: 10 g instant yeast
+- :droplet: 300 ml water
+- :butter: 300 g unsalted butter
+- :egg: 1 egg
 
 ## :cooking: Cookware
 
@@ -94,7 +94,7 @@ least doubled in size. This should take about 2 hours.
 
 ### Step 12
 
-Heat your oven to 200°C.
+Heat your oven to 200°C (400°F).
 
 ### Step 13
 
