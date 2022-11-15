@@ -28,7 +28,7 @@ tags:
 - :salt: 0.25 tsp salt
 - :ear_of_rice: 1.66 cups all-purpose flour
 - :chocolate_bar: 4 oz bittersweet chocolate
-- :cake: 1 Peppermint Buttercream
+- :cake: 1 [Peppermint Buttercream][1]
 - :candy: some peppermint candies (optional)
 
 ## :cooking: Cookware
@@ -69,8 +69,11 @@ centers appear set. Repeat tapping. Let cool 2 minutes on cookie sheets. Remove;
 
 ### Step 7
 
-Spread cooled cookies with Peppermint Buttercream. If you like, sprinkle with crushed peppermint candies (optional).
+Spread cooled cookies with [Peppermint Buttercream][1]. If you like, sprinkle with crushed peppermint candies
+(optional).
 
 ## :link: Source
 
 - Magnolia
+
+[1]: <../ingredients/frosting/peppermint-buttercream-frosting.md>
