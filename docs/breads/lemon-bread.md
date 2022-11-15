@@ -44,7 +44,7 @@ tags:
 - 1 cooling rack
 - 1 hand or stand mixer
 
-## :pencil: Instructions
+## :pencil: Instructions - Bread
 
 ### Step 1
 
@@ -65,9 +65,11 @@ loaf pan. Bake for 55 minutes, or until center is fully set, and a toothpick ins
 After baking, let cool in the pan for 5 to 10 minutes. Run a knife around the sides of the pan, invert and remove from
 the pan, removing the parchment paper from the bottom. Cool completely on a cooling rack.
 
+## :pencil: Instructions - Frosting
+
 ### Step 4
 
-For the frosting: Combine the butter, lemon juice and lemon extract with hand or stand mixer. Gradually add the
+Combine the butter, lemon juice and lemon extract with hand or stand mixer. Gradually add the
 confectioners' sugar, and beat until smooth and creamy. Evenly spread the frosting over the top of the loaf. Refrigerate
 to let frosting set completely before slicing. Refrigerate any leftovers in an airtight container.
 
