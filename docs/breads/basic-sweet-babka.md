@@ -25,19 +25,19 @@ tags:
 
 ## :salt: Ingredients - Syrup
 
-- 0.67 cup water
-- 1 cup granulated sugar
-- 1 tsp vanilla
+- :droplet: 0.67 cup water
+- :candy: 1 cup granulated sugar
+- :icecream: 1 tsp vanilla
 
 ## :salt: Ingredients - Filling
 
-- 0.75 cup unsalted butter
-- 0.5 cup granulated sugar
-- 0.33 cup unsweetened cocoa powder
-- 6 oz dark chocolate
-- 0.25 tsp cinnamon
-- 1 pinch salt
-- 1.5 cups [cinnamon sugar][1] filling (alternative)
+- :butter: 0.75 cup unsalted butter
+- :candy: 0.5 cup granulated sugar
+- :chocolate_bar: 0.33 cup unsweetened cocoa powder
+- :chocolate_bar: 6 oz dark chocolate
+- :custard: 0.25 tsp cinnamon
+- :salt: 1 pinch salt
+- :custard: 1.5 cups [cinnamon sugar][1] filling (alternative)
 
 ## :cooking: Cookware
 
