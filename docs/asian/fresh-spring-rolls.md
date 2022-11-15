@@ -36,6 +36,7 @@ tags:
 - :avocado: 1 avocado
 - :salt: some salt
 - :salt: some pepper
+- :peanuts: 1 [peanut dipping sauce][1]
 
 ## :cooking: Cookware
 
@@ -63,7 +64,7 @@ remaining wrappers and filling.
 
 ### Step 4
 
-Serve with peanut sauce and enjoy!
+Serve with [peanut dipping sauce][1] and enjoy!
 
 ## :link: Source
 
@@ -71,3 +72,5 @@ Serve with peanut sauce and enjoy!
 
 [^1]:
   Thinly sliced into long matchsticks.
+
+[1]: <../sauces-and-dressings/peanut-dipping-sauce.md>
