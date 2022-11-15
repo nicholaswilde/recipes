@@ -3,24 +3,24 @@ comments: true
 tags:
   - beverage
 ---
-# Pineapple Paradise
+# :pineapple: Pineapple Paradise
 
 ![Pineapple Paradise](../assets/images/pineapple-paradise.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 4 | 0 minutes |
+| 4 | 5 minutes |
 
 ## :salt: Ingredients
 
-- 1 12.3-oz container light extra-firm tofu
-- 1 16-oz can pineapple chunks
-- 1 Tbsp vanilla
-- some dried pineapple (optional)
-- some cherries (optional)
-- some bananas (optional)
-- some raspberries (optional)
-- some walnuts (optional)
+- :butter: 1 12.3-oz container light extra-firm tofu
+- :pineapple: 1 16-oz can pineapple chunks
+- :icecream: 1 Tbsp vanilla
+- :pineapple: some dried pineapple (optional)
+- :cherries: some cherries (optional)
+- :banana: some bananas (optional)
+- :strawberry: some raspberries (optional)
+- :chestnut: some walnuts (optional)
 
 ## :cooking: Cookware
 
