@@ -3,7 +3,7 @@ comments: true
 tags:
   - beverage
 ---
-# Iced Chai Latte
+# :coffee: Iced Chai Latte
 
 ![Iced Chai Latte](../assets/images/iced-chai-latte.png)
 
@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients - Whipped Cream
 
-- 0.5 cup heavy cream
-- 2 tsp TJ's Spicy Chai Tea Latte Mix
-- 1 tsp Bourbon Vanilla Extract
+- :icecream: 0.5 cup heavy cream
+- :rice: 2 tsp TJ's Spicy Chai Tea Latte Mix
+- :icecream: 1 tsp Bourbon Vanilla Extract
 
 ## :salt: Ingredients - Chai Iced Latte
 
-- 6 Tbsp TJ's Spicy Chai Tea Latte Mix
-- 0.5 cup hot water
-- 1 cup TJ's Cold Brew Coffee Concentrate
+- :rice: 6 Tbsp TJ's Spicy Chai Tea Latte Mix
+- :hotsprings: 0.5 cup hot water
+- :coffee: 1 cup TJ's Cold Brew Coffee Concentrate
 
 ## :cooking: Cookware
 
