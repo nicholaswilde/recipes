@@ -498,3 +498,4 @@ jewish
 babkas
 babka
 Babka
+Anglaise
