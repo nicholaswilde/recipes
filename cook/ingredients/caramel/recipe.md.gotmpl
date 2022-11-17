@@ -1,0 +1,24 @@
+{{- define "custom.section" -}}
+{{ if .Info.ImageFileName }}
+![{{ .Info.RecipeName }}](../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }})
+{{ end }}
+{{- end -}}
+---
+comments: true
+tags:
+  - caramel
+  - ingredient
+---
+{{ template "cook.headerSection" . }}
+
+{{ template "custom.section" . }}
+
+{{ template "cook.tableSection" . }}
+
+{{ template "cook.ingredientsSection" . }}
+
+{{ template "cook.cookwareSection" . }}
+
+{{ template "cook.stepsSection" . -}}
+
+{{ template "cook.sourceSection" . }}

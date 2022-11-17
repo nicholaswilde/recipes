@@ -23,7 +23,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 large heavy bottom saucepan
-- 1 silicone
+- 1 silicone brush
 - 1 heat proof large bowl
 
 ## :pencil: Instructions
