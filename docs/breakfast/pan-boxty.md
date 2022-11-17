@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :potato: 1 cup mashed potatoes
+- :potato: 1 cup [mashed potatoes][1]
 - :potato: 1 lb Russet potatoes
 - :ear_of_rice: 0.67 cups all-purpose flour
 - :seedling: 1 tsp caraway seeds (optional)
@@ -35,8 +35,8 @@ tags:
 
 ### Step 1
 
-Adjust oven rack to middle position and heat oven to 200°F. Set wire rack in rimmed baking sheet. Place mashed potatoes
-in medium bowl.
+Adjust oven rack to middle position and heat oven to 200°F. Set wire rack in rimmed baking sheet. Place
+[mashed potatoes][1] in medium bowl.
 
 ### Step 2
 
@@ -71,3 +71,5 @@ and reheated in dry skillet on stovetop or on rimmed baking sheet in 350°F oven
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../sides/golden-french-mashed-potatoes.md>
