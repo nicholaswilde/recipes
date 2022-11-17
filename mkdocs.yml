@@ -290,6 +290,8 @@ nav:
       - Nasi Goreng: indonesian/nasi-goreng.md
       - Wontons: indonesian/wontons.md
   - Ingredients:
+      - Caramel:
+          - Wet Caramel: ingredients/caramel/wet-caramel.md
       - Extracts:
           - Almond Extract: ingredients/extracts/almond-extract.md
           - Lemon Extract: ingredients/extracts/lemon-extract.md
