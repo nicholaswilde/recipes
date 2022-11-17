@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - dessert
+  - cake
+  - vegan
 ---
 # :cake: Vegan Strawberry Cake
 
-![Vegan Strawberry Cake](../assets/images/vegan-strawberry-cake.jpg)
+![Vegan Strawberry Cake](../../assets/images/vegan-strawberry-cake.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -72,6 +76,6 @@ room temperature).
 
 - <https://minimalistbaker.com/vegan-strawberry-cake-gf/>
 
-[1]: <../ingredients/frosting/vegan-strawberry-frosting.md>
-[2]: <../ingredients/frosting/chocolate-ganache-glaze-or-frosting.md>
-[3]: <../ingredients/frosting/classic-vanilla-buttercream-frosting.md>
+[1]: <../../ingredients/frosting/vegan-strawberry-frosting.md>
+[2]: <../../ingredients/frosting/chocolate-ganache-glaze-or-frosting.md>
+[3]: <../../ingredients/frosting/classic-vanilla-buttercream-frosting.md>

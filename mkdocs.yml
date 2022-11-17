@@ -176,9 +176,11 @@ nav:
               desserts/cake/no-bake-banana-and-peanut-butter-caramel-icebox-cake.md
           - Olive Oil Cake: desserts/cake/olive-oil-cake.md
           - Pineapple Upside Down Cake: desserts/cake/pineapple-upside-down-cake.md
+          - Reine be Saba (Queen of Sheba): desserts/cake/reine-be-saba-(queen-of-sheba).md
           - Southern Velvet Cake: desserts/cake/southern-velvet-cake.md
           - The Perfect Chocolate Cake: desserts/cake/the-perfect-chocolate-cake.md
           - Vegan Carrot Cake: desserts/cake/vegan-carrot-cake.md
+          - Vegan Strawberry Cake: desserts/cake/vegan-strawberry-cake.md
           - Victoria Sandwich Cake: desserts/cake/victoria-sandwich-cake.md
       - Cupcakes:
           - Chocolate Cupcakes: desserts/cupcakes/chocolate-cupcakes.md
@@ -220,7 +222,6 @@ nav:
       - Peanut Butter Cups: desserts/peanut-butter-cups.md
       - Pear Tarte Tatin: desserts/pear-tarte-tatin.md
       - Pumpkin Cheesecake: desserts/pumpkin-cheesecake.md
-      - Reine be Saba (Queen of Sheba): desserts/reine-be-saba-(queen-of-sheba).md
       - Rice Krispies: desserts/rice-krispies.md
       - Shoofly Pie: desserts/shoofly-pie.md
       - Slow Cooker Apple Crisp: desserts/slow-cooker-apple-crisp.md
@@ -238,7 +239,6 @@ nav:
       - Vanilla Cupcakes: desserts/vanilla-cupcakes.md
       - Vanilla Pudding: desserts/vanilla-pudding.md
       - Vegan Chocolate Pudding with Cinnamon & Chile: desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md
-      - Vegan Strawberry Cake: desserts/vegan-strawberry-cake.md
   - Dutch:
       - Kroket: dutch/kroket.md
   - Holiday:
