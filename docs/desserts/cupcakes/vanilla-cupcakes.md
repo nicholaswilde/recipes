@@ -6,7 +6,7 @@ tags:
 ---
 # :cupcake: Vanilla Cupcakes
 
-![Vanilla Cupcakes](../assets/images/vanilla-cupcakes.jpg)
+![Vanilla Cupcakes](../../assets/images/vanilla-cupcakes.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -103,4 +103,4 @@ Top with [vanilla buttercream frosting][1].
 - <https://www.cupcakeproject.com/best-vanilla-cupcake-recipe/>
 - <https://www.thekitchn.com/vanilla-cupcake-recipe-reviews-23198138>
 
-[1]: <../ingredients/frosting/classic-vanilla-buttercream-frosting.md>
+[1]: <../../ingredients/frosting/classic-vanilla-buttercream-frosting.md>
