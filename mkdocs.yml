@@ -291,6 +291,7 @@ nav:
       - Wontons: indonesian/wontons.md
   - Ingredients:
       - Caramel:
+          - Dry Caramel: ingredients/caramel/dry-caramel.md
           - Hard Caramel: ingredients/caramel/hard-caramel.md
           - Wet Caramel: ingredients/caramel/wet-caramel.md
       - Extracts:
