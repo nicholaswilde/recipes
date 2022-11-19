@@ -3,6 +3,12 @@ comments: true
 ---
 # :triangular_ruler: Measuring
 
+## :egg: Large Egg Weight
+
+| White | Yolk  | Shell | Total |
+|-------|-------|-------|-------|
+| 30 g  | 20 g  | 10 g  | 60 g  |
+
 ## :icecream: Scoop\#
 
 ### :cookie: [Cookie Scoop Conversion Chart][3]
