@@ -60,6 +60,8 @@ american
 aminos
 Aminos
 ancho
+Anglaise
+Anjou
 Ansel's
 Anson
 Appetito
@@ -69,6 +71,9 @@ Arborio
 artisanal
 asian
 ayam
+babka
+Babka
+babkas
 Bamba
 Banh
 Banoffee
@@ -80,9 +85,12 @@ blondies
 Blondies
 bok
 Bolognese
+bombe
 boule
+Boxty
 BRAUN
 Breadsticks
+brittles
 Broma
 broma-bakery
 brûlée
@@ -104,6 +112,7 @@ Cassola
 catsup
 chai
 Chai
+chantilly
 Chex
 chia
 Chiave
@@ -128,6 +137,7 @@ Churros
 ci
 Cilentana
 Ciliegine
+Cinnamon-Streusel
 ClearJel
 CLI
 Comté
@@ -138,6 +148,7 @@ Copha
 Corncakes
 cotija
 countertop
+countertops
 crema
 Crema
 crème
@@ -152,6 +163,8 @@ Creuset
 criss
 Crockpot
 crystalizing
+Cubbison's
+cupcake-jemma
 custardy
 daikon
 Daikon
@@ -167,6 +180,7 @@ dishwashing
 disney
 dominique-ansel
 doneness
+Dorie
 d'Oro
 dulce
 Dulce
@@ -201,6 +215,7 @@ fraîche
 Fraîche
 fresca
 Fresca
+Funfetti
 Fuscilli
 fusilli
 gallo
@@ -244,6 +259,8 @@ jalapeño
 Jalapeño
 jalapeños
 jamie-oliver
+jewish
+Jicama
 Jojo's
 julia-child
 kabocha
@@ -259,7 +276,9 @@ Lavash
 Lawry's
 Lemper
 lengthways
+Levain
 Lumpia
+macarons
 Macarons
 Mafalda
 Maillardization
@@ -308,6 +327,7 @@ orecchiette
 Orejas
 Oreos
 ovensafe
+overbake
 overbeat
 overmix
 overprocess
@@ -319,6 +339,7 @@ Parm
 Parmigiano-Reggiano
 passata
 Patatas
+pâte
 Pâte
 pâtissière
 Pâtissière
@@ -330,6 +351,7 @@ Penne
 pepe
 pepitas
 pepperoncini
+persian
 petits
 pico
 Pico
@@ -341,6 +363,7 @@ pizzelle
 Pizzelle
 pkgs
 play-doh
+Play-Doh
 png
 poblano
 polenta
@@ -353,6 +376,7 @@ Portobello
 potato-choux
 pourable
 pre-commit
+precut
 preroasted
 Provençale
 purée
@@ -366,9 +390,11 @@ RedHot
 reflouring
 refried
 Refried
+Reine
 reinvert
 repo
 Rewhisk
+ribbony
 rigate
 Rigate
 Risoni
@@ -381,6 +407,7 @@ Rosamarina
 Rotelle
 Rotini
 Russe
+Saba
 Salata
 sambal
 Samoas
@@ -402,6 +429,7 @@ shortbreads
 shortcodes
 Sláinte
 smush
+snapable
 snickerdoodles
 Snickerdoodles
 soba
@@ -457,8 +485,11 @@ unblanched
 Undipped
 unfloured
 ungreased
+unmelted
+unmold
 unmolded
 unmolding
+unsticking
 unstrained
 velouté
 Velouté
@@ -477,33 +508,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-unmold
-Reine
-Saba
-Play-Doh
-unmelted
-Anjou
-ribbony
-Cinnamon-Streusel
-Jicama
-chantilly
-Levain
-unsticking
-precut
-Funfetti
-Cubbison's
-overbake
-Dorie
-jewish
-babkas
-babka
-Babka
-Anglaise
-Boxty
-cupcake-jemma
-snapable
-brittles
-countertops
-macarons
-pâte
-bombe
