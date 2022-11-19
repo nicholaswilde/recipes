@@ -505,3 +505,5 @@ snapable
 brittles
 countertops
 macarons
+pâte
+bombe
