@@ -20,14 +20,14 @@ tags:
 - :candy: 205 g confectioners sugar
 - :chestnut: 190 g ground almonds
 - :egg: 144 g egg whites
-- :blue_cicle: some food coloring paste (optional)
+- :blue_circle: some food coloring paste (optional)
 - :ice_cube: 60 ml cold water
 - :candy: 190 g granulated sugar
 
 ## :salt: Ingredients - French Buttercream
 
 - :candy: 0.5 cup granulated sugar
-- :doplet: 3 Tbsp water
+- :droplet: 3 Tbsp water
 - :egg: 5 egg yolks
 - :butter: 1 cup unsalted butter
 - :icecream: 1 tsp vanilla
@@ -159,6 +159,10 @@ salt. Continue mixing until buttercream is smooth and creamy. (About 5 to 6 minu
 ### Step 23
 
 After assembly, refrigerate overnight or for a full 24 hours so that the filling solidifies.
+
+## :page_facing_up: Template
+
+- [1.5 Inch Macaron Piping Template](../assets/docs/1.5-Inch-macaron-piping-template.pdf)
 
 ## :link: Source
 
