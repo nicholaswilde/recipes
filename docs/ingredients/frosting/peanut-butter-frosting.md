@@ -30,9 +30,11 @@ tags:
 
 ## :pencil: Instructions
 
-Stir in chopped peanuts to taste, or sprinkle them over the finished cake, if desired. Try this as a filling for any
-cake frosted or glazed with chocolate. Have the cream cheese cold. The butter can be cold, but it's better to have it at
-room temperature.
+!!! note
+
+    Stir in chopped peanuts to taste, or sprinkle them over the finished cake, if desired. Try this as a filling for
+    any cake frosted or glazed with chocolate. Have the cream cheese cold. The butter can be cold, but it's better to
+    have it at room temperature.
 
 ### Step 1
 
