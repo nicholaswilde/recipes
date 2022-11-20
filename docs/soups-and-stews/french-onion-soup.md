@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - soup
+  - french
+  - cooks-illustrated
 ---
 # :onion: French Onion Soup
 
@@ -79,6 +83,6 @@ is bubbly around edges, 5 to 7 minutes. Let cool for 5 minutes before serving.
 
 ## :link: Source
 
-- <https://www.cookscountry.com/recipes/12325-french-onion-soup>
+- Cook's Illustrated
 
 [1]: <../ingredients/vegetable-broth.md>
