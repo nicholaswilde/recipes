@@ -1,8 +1,8 @@
 ---
-comments: tru
+comments: true
 tags:
   - pancake
-  - side 
+  - side
 ---
 # :pancakes: Texas Potato Pancakes
 

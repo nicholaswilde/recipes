@@ -16,7 +16,7 @@ tags:
 
 - :candy: 2 cups confectioners' sugar
 - :carrot: some vegetable shortening
-- :dango: 1 jar Jet-Puff Marshmall Creme
+- :dango: 1 jar Jet-Puff Marshmallow Creme
 - :cake: 1 Wilton white fondant
 - :white_circle: some white food coloring (optional)
 
@@ -31,7 +31,7 @@ tags:
 
 Get a large bowl and place some of your 2 lb bag confectioners' sugar in it (about 2 cups). Take a large spoon and
 lather that thing up with vegetable shortening. It will make your life a whole lot easier getting all the fluff out of
-the jar. Place all the fluff (Jet-Puff Marshmall Creme) on top of the confectioners' sugar in the bowl.
+the jar. Place all the fluff (Jet-Puff Marshmallow Creme) on top of the confectioners' sugar in the bowl.
 
 ### Step 2
 

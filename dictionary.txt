@@ -3,6 +3,7 @@
 ½
 12cm
 ½-Tbsp
+⅓
 13x9-in
 ¼
 14x12
@@ -77,6 +78,7 @@ babkas
 Bamba
 Banh
 Banoffee
+Basmati
 béarnaise
 béchamel
 Béchamel
@@ -171,6 +173,7 @@ cupcake-jemma
 custardy
 daikon
 Daikon
+Danette's
 dauphine
 Dauphine
 de
@@ -281,6 +284,8 @@ Lemper
 lengthways
 Levain
 Lumpia
+macaron
+Macaron
 macarons
 Macarons
 Mafalda
@@ -468,6 +473,7 @@ tartlets
 Tatin
 Tbsps
 Teff
+the-new-york-times
 Tiramisù
 TJ's
 Tollhouse

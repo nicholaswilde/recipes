@@ -26,7 +26,7 @@ tags:
 - :curry: 1 tsp turmeric
 - :tulip: 2 pinches saffron
 - :salt: 1.5 tsp salt
-- :rice: 2 cups basmati rice
+- :rice: 2 cups Basmati rice
 - :tulip: 3 Tbsp saffron
 
 ## :cooking: Cookware
@@ -62,7 +62,7 @@ saffron. Reduce the heat and add the raisins and dates and stir. Set aside.
 
 ### Step 5
 
-Pour 6 cups of water into a large nonstick pot and bring to a boil over high heat with salt. Add basmati rice into a pan
+Pour 6 cups of water into a large nonstick pot and bring to a boil over high heat with salt. Add Basmati rice into a pan
 filled with boiling water. After 6 to 8 minutes when it begins to rise to the top and the water comes back to a boil.
 Check the rice is cooked at the end by trying a grain. Break one grain in half. Rice should be soft on the outside but
 hard in the middle. Pour rice into the colander to drain; then set aside.
