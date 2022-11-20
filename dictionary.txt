@@ -97,11 +97,13 @@ brûlée
 Brûlée
 brûléed
 bruschetta
+Bruschetta
 bundt
 Buon
 Butterfinger
 Caffè
 cakey
+candlenuts
 cannellini
 cannoli
 Cannoli
@@ -120,6 +122,7 @@ Chickenless
 chile
 chiles
 chilis
+chillies
 chimichurri
 Chimichurri
 chipotle
@@ -481,6 +484,7 @@ tsps
 Tubinado
 Tumblerful
 Twix
+tylose
 Tyme
 umami
 unblanched
@@ -510,6 +514,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Bruschetta
-candlenuts
-chillies
