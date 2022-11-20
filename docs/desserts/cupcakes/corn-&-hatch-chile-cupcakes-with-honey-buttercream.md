@@ -7,7 +7,7 @@ tags:
 ---
 # :cupcake: Corn & Hatch Chile Cupcakes with Honey Buttercream
 
-![Corn & Hatch Chile Cupcakes with Honey Buttercream](../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png)
+![Corn & Hatch Chile Cupcakes with Honey Buttercream](../../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |

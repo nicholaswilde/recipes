@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Danette's Kosher Marshmallow Creme Fondant (DKF)
 
-![Danette's Kosher Marshmallow Creme Fondant (DKF)](../../assets/images/danette's-kosher-marshmallow-creme-fondant-(dkf).png)
+![Danette's Kosher Marshmallow Creme Fondant (DKF)](../../assets/images/danette's-kosher-marshmallow-creme-fondant.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
