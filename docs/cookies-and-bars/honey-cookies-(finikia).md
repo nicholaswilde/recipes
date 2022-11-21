@@ -24,7 +24,7 @@ tags:
 - :olive: 0.75 cup olive oil
 - :cup_with_straw: 1 tsp baking soda
 - :dash: 1 tsp baking powder
-- :ear_of_rice: 3.5 cups all-purpose flour
+- :ear_of_rice: 3.5 cups (420 g) all-purpose flour
 - :four_leaf_clover: 1 pinch cloves
 - :custard: 2 tsp cinnamon
 - :chestnut: 1 tsp nutmeg
@@ -61,12 +61,12 @@ Let rest for 30 minutes at room temperature.
 
 ### Step 6
 
-Roll dough into walnut-size balls and score with a fork. Place balls on a baking sheet, about an inch apart from each
+Roll dough into walnut-size balls (30 g) and score with a fork. Place balls on a baking sheet, about an inch apart from each
 other.
 
 ### Step 7
 
-Bake for 14 18 minutes, or until golden.
+Bake for 14 to 18 minutes, or until golden.
 
 ### Step 8
 
