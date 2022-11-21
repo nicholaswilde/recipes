@@ -18,7 +18,9 @@ tags:
 - :candy: 128 g granulated sugar
 - :egg: 9 egg yolks
 - :corn: 48 g cornstarch
+- :salt: 0.5 tsp salt
 - :butter: 108 g unsalted butter
+- :icecream: 1 vanilla pod (optional)
 
 ## :cooking: Cookware
 
@@ -32,12 +34,13 @@ tags:
 ### Step 1
 
 In a large pot over medium heat, bring the whole milk and half of the granulated sugar to a boil, slowly stirring to
-prevent the mixture from burning on the bottom of the pot.
+prevent the mixture from burning on the bottom of the pot. If you’re using the vanilla bean (optional), add the
+seeds as well as the pod. Remove the milk mixture from the heat. Remove the vanilla bean.
 
 ### Step 2
 
 In a bowl, whisk together the other half of the sugar with the egg yolks. (Do this immediately to prevent the yolks from
-“burning” on contact with the sugar.) Stir in the cornstarch until smooth then slowly whisk in 1/2 cup of the warm
+“burning” on contact with the sugar.) Stir in the cornstarch and salt until smooth then slowly whisk in 1/2 cup of the warm
 milk and sugar mixture, stirring until evenly combined.
 
 !!! tip
