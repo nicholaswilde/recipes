@@ -61,12 +61,12 @@ Let rest for 30 minutes at room temperature.
 
 ### Step 6
 
-Roll dough into walnut-size balls and score with a fork. Place balls on a baking sheet, about an inch apart from each
+Roll dough into walnut-size balls (30 g) and score with a fork. Place balls on a baking sheet, about an inch apart from each
 other.
 
 ### Step 7
 
-Bake for 14 18 minutes, or until golden.
+Bake for 14 to 18 minutes, or until golden.
 
 ### Step 8
 
