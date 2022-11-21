@@ -24,7 +24,7 @@ tags:
 - :olive: 0.75 cup olive oil
 - :cup_with_straw: 1 tsp baking soda
 - :dash: 1 tsp baking powder
-- :ear_of_rice: 3.5 cups all-purpose flour
+- :ear_of_rice: 3.5 cups (420 g) all-purpose flour
 - :four_leaf_clover: 1 pinch cloves
 - :custard: 2 tsp cinnamon
 - :chestnut: 1 tsp nutmeg
