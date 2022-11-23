@@ -15,10 +15,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :cake: 1 kg chocolate biscuit
-- :maple_leaf: 500 g rum syrup
-- :chocolate_bar: 1 kg dark chocolate mousse
-- :custard: 500 g dark chocolate mirror glaze, rewarmed
+- :cake: 1 kg [chocolate biscuit][1]
+- :maple_leaf: 500 g [rum syrup][2]
+- :chocolate_bar: 1 kg [dark chocolate mousse][3]
+- :custard: 500 g [dark chocolate mirror glaze][4], rewarmed
 - :egg: 170 meringues
 
 ## :cooking: Cookware
@@ -43,14 +43,14 @@ Place the 8-inch cake ring on a parchment paper-lined sheet pan and line the ins
 
 ### Step 2
 
-Place the first circle of chocolate biscuit in the bottom of the ring on the sheet pan and brush lightly with half the
-rum syrup. Press the cake with your fingers while you’re doing this to ensure that the cake is not soaked but damp and
+Place the first circle of [chocolate biscuit][1] in the bottom of the ring on the sheet pan and brush lightly with half the
+[rum syrup][2]. Press the cake with your fingers while you’re doing this to ensure that the cake is not soaked but damp and
 lightly moistened with the syrup.
 
 ### Step 3
 
-Using a ladle, pour half the dark chocolate mousse over the cake, pressing the top gently with the bottom of the ladle
-to make sure the mousse is even.
+Using a ladle, pour half the [dark chocolate mousse][3] over the cake, pressing the top gently with the bottom of the
+ladle to make sure the mousse is even.
 
 ### Step 4
 
@@ -68,10 +68,10 @@ transfer the mousse cake to a wire rack set in a rimmed sheet pan.
 
 ### Step 7
 
-Once the dark chocolate mirror glaze, rewarmed is ready, position it over the center of the cake and immediately pour it
-all on, allowing gravity and force to cover the cake fully in the glaze. Quickly, while the glaze is still liquid, use
-an offset spatula to smooth the top and sides of the cake, if necessary. Let the cake stand until the glaze sets
-completely.
+Once the [dark chocolate mirror glaze][4], rewarmed is ready, position it over the center of the cake and immediately
+pour it all on, allowing gravity and force to cover the cake fully in the glaze. Quickly, while the glaze is still
+liquid, use an offset spatula to smooth the top and sides of the cake, if necessary. Let the cake stand until the glaze
+sets completely.
 
 ### Step 8
 
@@ -98,3 +98,8 @@ cream on top of the cake scrap to prevent it from melting and sliding around the
 ## :link: Source
 
 - Dominique Ansel
+
+[1]: <../../ingredients/pastry-dough/chocolate-biscuit.md>
+[2]: <../../ingredients/rum-syrup.md>
+[3]: <../../ingredients/fillings/mousse.md>
+[4]: <../../ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md>
