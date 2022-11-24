@@ -3,8 +3,9 @@ comments: true
 tags:
   - ingredient
   - dominique-ansel
+  - jam
 ---
-# Quick Strawberry Jam
+# :strawberry: Quick Strawberry Jam
 
 ![Quick Strawberry Jam](../assets/images/quick-strawberry-jam.png)
 
@@ -14,11 +15,11 @@ tags:
 
 ## :salt: Ingredients
 
-- 200 g granulated sugar
-- 24 g apple [pectin][2]
-- 700 g [strawberry purée][1]
-- 30 g lemon juice
-- 20 g rum
+- :candy: 200 g granulated sugar
+- :green_apple: 24 g apple [pectin][2]
+- :strawberry: 700 g [strawberry purée][1]
+- :lemon: 30 g lemon juice
+- :tumbler_glass: 20 g rum
 
 ## :cooking: Cookware
 
