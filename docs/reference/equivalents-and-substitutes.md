@@ -22,13 +22,13 @@ comments: true
 
 ## :chocolate_bar: [Chocolate][20]
 
-| Type                | Chocolate Percentage  |
-|---------------------|-----------------------|
-| white               | 20%                   |
-| milk                | 30-40%                |
-| semi-sweet (dark)   | 57%                   |
-| bittersweet (dark)  | 67%                   |
-| unsweetened         | 100%                  |
+| Type                | Chocolate Percentage  | Tempering Temperature |
+|---------------------|-----------------------|-----------------------|
+| white               | 20%                   | 109°F (43C)           |
+| milk                | 30-40%                | 113°F (45°C)          |
+| semi-sweet (dark)   | 57%                   | 118°F (48-50°C)       |
+| bittersweet (dark)  | 67%                   | 118°F (48-50°C)       |
+| unsweetened         | 100%                  | -                 |
 
 ## :salt: [Cream of Tartar][2]
 
