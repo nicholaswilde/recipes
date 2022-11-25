@@ -43,7 +43,7 @@ pectin mixture into the syrup, whisking constantly until dissolved.
 
 ### Step 3
 
-Continue boiling the syrup, whisking constantly, to dissolve and activate the pectin, about 3 to 4 minutes minutes.
+Continue boiling the syrup, whisking constantly, to dissolve and activate the pectin, about 3 to 4 minutes.
 Remove from the heat and let cool to room temperature.
 
 ### Step 4
