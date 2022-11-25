@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Tollhouse Pie
 
-![Tollhouse Pie](../assets/images/tollhouse-pie.jpg)
+![Tollhouse Pie](../../assets/images/tollhouse-pie.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -44,5 +44,5 @@ Mix in melted butter. Stir in chocolate chips and pour into unbaked [pie shell][
 
 Bake for 1 hour.
 
-[1]: <../ingredients/brown-sugar.md>
-[2]: <../ingredients/pastry-dough/sweet-pastry.md>
+[1]: <../../ingredients/brown-sugar.md>
+[2]: <../../ingredients/pastry-dough/sweet-pastry.md>

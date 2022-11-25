@@ -6,7 +6,7 @@ tags:
 ---
 # Blueberry Pie
 
-![Blueberry Pie](../assets/images/blueberry-pie.jpg)
+![Blueberry Pie](../../assets/images/blueberry-pie.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |

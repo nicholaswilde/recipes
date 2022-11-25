@@ -3,7 +3,7 @@ comments: true
 ---
 # :pie: Shoofly Pie
 
-![Shoofly Pie](../assets/images/shoofly-pie.png)
+![Shoofly Pie](../../assets/images/shoofly-pie.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -75,4 +75,4 @@ hours. Slice, serve, and enjoy!
 
 - <https://insanelygoodrecipes.com/shoofly-pie/>
 
-[1]: <../ingredients/pastry-dough/sweet-pastry.md>
+[1]: <../../ingredients/pastry-dough/sweet-pastry.md>

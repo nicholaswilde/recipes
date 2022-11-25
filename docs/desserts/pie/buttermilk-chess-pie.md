@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Buttermilk Chess Pie
 
-![Buttermilk Chess Pie](../assets/images/buttermilk-chess-pie.png)
+![Buttermilk Chess Pie](../../assets/images/buttermilk-chess-pie.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -45,5 +45,5 @@ Bake until the center is set when nudged, 35 to 40 minutes.
 
 - Joy of Cooking
 
-[1]: <../ingredients/buttermilk.md>
+[1]: <../../ingredients/buttermilk.md>
 [2]: <./chess-pie.md>

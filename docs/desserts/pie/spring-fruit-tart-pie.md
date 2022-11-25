@@ -75,5 +75,5 @@ Sprinkle confectioners' sugar (optional) for an added touch.
 
 - Applied Kitchen
 
-[1]: <../ingredients/lemon-curd.md>
-[2]: <../ingredients/sweetened-whipped-cream.md>
+[1]: <../../ingredients/lemon-curd.md>
+[2]: <../../ingredients/sweetened-whipped-cream.md>

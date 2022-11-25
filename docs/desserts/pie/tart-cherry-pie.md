@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Tart Cherry Pie
 
-![Tart Cherry Pie](../assets/images/tart-cherry-pie.jpg)
+![Tart Cherry Pie](../../assets/images/tart-cherry-pie.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -89,4 +89,4 @@ Enjoy!
 - <https://www.ambitiouskitchen.com/tart-cherry-pie/>
 - <https://www.thekitchn.com/cherry-pie-recipe-showdown-23394698>
 
-[1]: <../ingredients/pastry-dough/deluxe-butter-pastry.md>
+[1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>

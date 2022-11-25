@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Lemon Pie
 
-![Lemon Pie](../assets/images/lemon-pie.jpg)
+![Lemon Pie](../../assets/images/lemon-pie.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -85,5 +85,5 @@ Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle 
 
 - <https://magnolia.com/blog/article/12252/lemon-pie-recipe/>
 
-[1]: <../ingredients/graham-crackers.md>
-[2]: <../ingredients/sweetened-condensed-milk.md>
+[1]: <../../ingredients/graham-crackers.md>
+[2]: <../../ingredients/sweetened-condensed-milk.md>

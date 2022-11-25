@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Buttermilk Pie
 
-![Buttermilk Pie](../assets/images/buttermilk-pie.jpg)
+![Buttermilk Pie](../../assets/images/buttermilk-pie.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -70,5 +70,5 @@ brown). Let the pie cool completely, about 2 hours. Garnish with a sprinkle of c
 
 - <https://www.thepioneerwoman.com/food-cooking/recipes/a40808207/buttermilk-pie-recipe/>
 
-[1]: <../ingredients/buttermilk.md>
-[2]: <../reference/equivalents-and-substitutes.md#butter>
+[1]: <../../ingredients/buttermilk.md>
+[2]: <../../reference/equivalents-and-substitutes.md#butter>

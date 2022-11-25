@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Banoffee Pie
 
-![Banoffee Pie](../assets/images/banoffee-pie.jpg)
+![Banoffee Pie](../../assets/images/banoffee-pie.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -60,4 +60,4 @@ Top with sliced bananas, heavy cream, and chocolate shavings.
 
 - <https://therecipecritic.com/banoffee-pie/>
 
-[1]: <../ingredients/graham-crackers.md>
+[1]: <../../ingredients/graham-crackers.md>

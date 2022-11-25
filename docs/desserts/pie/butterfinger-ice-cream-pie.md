@@ -7,7 +7,7 @@ tags:
 ---
 # Butterfinger Ice Cream Pie
 
-![Butterfinger Ice Cream Pie](../assets/images/butterfinger-ice-cream-pie.jpg)
+![Butterfinger Ice Cream Pie](../../assets/images/butterfinger-ice-cream-pie.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -51,4 +51,4 @@ Once frozen, top with Cool Whip and remaining Butterfinger crumble and freeze ag
 
 - Grandma Beatrice Wilde
 
-[1]: <../ingredients/oreo-pie-crust.md>
+[1]: <../../ingredients/oreo-pie-crust.md>

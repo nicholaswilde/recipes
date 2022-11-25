@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Chess Pie
 
-![Chess Pie](../assets/images/chess-pie.jpg)
+![Chess Pie](../../assets/images/chess-pie.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -71,4 +71,4 @@ Pour the filling into the crust. Bake until firm, 50 to 65 minutes.
 
 - Joy of Cooking
 
-[1]: <../ingredients/pastry-dough/basic-pastry.md>
+[1]: <../../ingredients/pastry-dough/basic-pastry.md>
