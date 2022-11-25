@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - side
 ---
-# Golden French Mashed Potatoes
+# :potato: Golden French Mashed Potatoes
 
 ![Golden French Mashed Potatoes](../assets/images/golden-french-mashed-potatoes.jpg)
 
@@ -11,11 +13,11 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 lbs Yukon Gold potatoes
-- 2.5 sticks unsalted butter
-- 1.33 cups [whole milk][1]
-- 1 tsp salt
-- some pepper
+- :potato: 2 lbs Yukon Gold potatoes
+- :butter: 2.5 sticks unsalted butter
+- :glass_of_milk: 1.33 cups [whole milk][1]
+- :salt: 1 tsp salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
