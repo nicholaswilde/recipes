@@ -3,6 +3,15 @@ comments: true
 ---
 # :triangular_ruler: Measuring
 
+## :cookie: Baking Sheets
+
+| Name          | Size      | Cookies Qty |
+|---------------|-----------|-------------|
+| Full Sheet    | 18" x 26" | 20          |
+| Half Sheet    | 13" x 18" | 10 to 20    |
+| Quarter Sheet | 9" x 13"  | 8 to 12     |
+| Eighth Sheet  | 6.5" x 9" | 3 to 6      |
+
 ## :egg: Large Egg Weight
 
 | White | Yolk  | Shell | Total |
