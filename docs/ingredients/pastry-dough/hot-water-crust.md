@@ -33,8 +33,13 @@ fingertips.
 
 ### Step 2
 
+!!! danger
+
+    Melting vegetable shortening on the stovetop in water can cause the mixture to explode. Watch carefully and don't
+    overcook.
+
 Heat the vegetable shortening in a pan until melted. Dissolve the salt in the boiling water, then add to the melted
-lard.
+vegetable shortening.
 
 ### Step 3
 
