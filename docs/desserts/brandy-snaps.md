@@ -4,7 +4,7 @@ tags:
   - dessert
   - cookie
 ---
-# Brandy Snaps
+# :cake: Brandy Snaps
 
 ![Brandy Snaps](../assets/images/brandy-snaps.jpg)
 
