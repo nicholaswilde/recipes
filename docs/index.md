@@ -12,6 +12,13 @@ My collection of recipes made with [cooklang][1].
 The `cooklang` files are stored in the `cook` folder and the markdown files are stored
 in the `docs` folder.
 
+[![asciicast](assets/gifs/demo.gif)](https://asciinema.org/a/540543?autoplay=1)
+
+```bash title="Aliases used"
+alias e='micro'
+alias gpo='git push origin main'
+```
+
 ## :frame_with_picture:&nbsp; Background
 
 This collection is a consolidation of recipes from many different sources to make it easier to reference in one

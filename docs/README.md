@@ -11,6 +11,17 @@ My collection of recipes made with [cooklang][1].
 
 ---
 
+[![asciicast](assets/gifs/demo.gif)](https://asciinema.org/a/540543)
+
+Aliases used.
+
+```bash
+alias e='micro'
+alias gpo='git push origin main'
+```
+
+---
+
 ## :book:&nbsp; Documentation
 
 ​Documentation can be found [​here​](http://nicholaswilde.io/recipes).
