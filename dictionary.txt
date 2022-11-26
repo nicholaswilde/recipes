@@ -539,3 +539,5 @@ Focaccia
 Ligurian
 cooklang
 asciicast
+provençale
+duxelles
