@@ -9,6 +9,7 @@ on:  # yamllint disable-line rule:truthy
     paths:
       - 'docs/**/*.md'
       - 'cook/**/*.cook'
+      - 'dictionary.txt'
 
 jobs:
   spellcheck:
