@@ -78,7 +78,7 @@ more egg wash on top of the leaves.
 
 ### Step 10
 
-Bake mini pies in a 385°F oven for 20 minutes or until the pastry has puffed up and has developed a nice golden color.
+Bake mini pies in a 400°F oven for 50 minutes or until the pastry has puffed up and has developed a nice golden color.
 
 ## :link: Source
 
