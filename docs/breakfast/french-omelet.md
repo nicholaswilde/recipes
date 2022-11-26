@@ -2,6 +2,8 @@
 comments: true
 tags:
   - breakfast
+  - french
+  - joy-of-cooking
 ---
 # :egg: French Omelet
 
