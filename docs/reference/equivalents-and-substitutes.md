@@ -122,6 +122,14 @@ Let mixture sit for 5 minutes.
 | 1 cup       | 1 1/4 cups          | 1 cup + 1 tsp     | 1 cup + 1/2 tsp   | 1 cup + 4 tsps            | 1 cup + 2 Tbsp              | 1 cup                   |
 | 2 cups      | 2-1/2 cups          | 2 cups + 1 Tbsp   | 2 cups + 1 tsp    | 2 cups + 3 Tbsp           | 2-1/4 cups                  | 2 cups                  |
 
+## :ear_of_rice: [Self-Rising Flour][21]
+
+| Self-Rising Flour Equivalency to  | All-purpose flour   | Baking Powder   | Salt      | Baking Soda |
+|-----------------------------------|---------------------|-----------------|-----------|-------------|
+| 1/4 cup                           | 1/4 cup             | 1/4 tsp         | 1/8 tsp   | 1 pinch     |
+| 1/2 cup                           | 1/2 cup             | 1/2 tsp         | 1/4 tsp   | 1/8 tsp     |
+| 1 cup                             | 1 cup               | 1 tsp           | 1/2 tsp   | 1/4 tsp     |
+
 ## :takeout_box: [Soy Sauce][6]
 
 | Soy Sauce Equivalency to: | Coconut Aminos          | Tamari                  |
@@ -196,3 +204,4 @@ Let mixture sit for 5 minutes.
 [18]: <https://cosmopolitancornbread.com/substitute-pectin/>
 [19]: <../ingredients/pectin.md>
 [20]: <https://www.bonappetit.com/story/types-of-chocolate>
+[21]: <https://www.bhg.com/recipes/how-to/cooking-basics/self-rising-flour-substitute>
