@@ -65,7 +65,7 @@ filling is. Heat a 10 inch skillet over medium heat, and add 1/2 tablespoons oli
 
 ### Step 5
 
-Pour in the egg mixture and proceed as in the basic French Omelet, until the bottom of the frittata is set and the top
+Pour in the egg mixture and proceed as in the basic [French Omelet][1], until the bottom of the frittata is set and the top
 is still creamy. To finish cooking the top, place the frittata in a 350°F oven or under the hot broiler for a few
 seconds until the top is firm. A traditional frittata is not browned. Serve at once on a hot platter, or serve at room
 temperature.
@@ -73,3 +73,5 @@ temperature.
 ## :link: Source
 
 - Joy of Cooking
+
+[1]: <./french-omelet.md>
