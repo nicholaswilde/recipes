@@ -122,8 +122,8 @@ glaze has become slightly matte and dry to touch, 15 to 30 minutes, before servi
 ### Step 8
 
 While doughnuts cool, process thawed frozen raspberries in blender until smooth. Strain
-puree through fine-mesh strainer into bowl or measuring cup. Measure out 6 tablespoons puree for frosting (reserve
-remaining puree for another use). In medium bowl, whisk confectioners' sugar, salt, and puree until smooth. Top with
+purée through fine-mesh strainer into bowl or measuring cup. Measure out 6 tablespoons purée for frosting (reserve
+remaining purée for another use). In medium bowl, whisk confectioners' sugar, salt, and purée until smooth. Top with
 rainbow sprinkles (optional).
 
 ## :link: Source
