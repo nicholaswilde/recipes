@@ -86,6 +86,7 @@ béarnaise
 béchamel
 Béchamel
 bella
+beurre
 blondies
 Blondies
 bok
@@ -120,6 +121,8 @@ catsup
 chai
 Chai
 chantilly
+chasmi
+chasni
 Chex
 chia
 Chiave
@@ -230,6 +233,9 @@ fraîche
 Fraîche
 fresca
 Fresca
+frittata
+Frittata
+Frittatas
 Funfetti
 Fuscilli
 fusilli
@@ -254,6 +260,7 @@ grapeseed
 greek
 griddled
 Gruyère
+Gulab
 habanero
 harina
 harissa
@@ -269,10 +276,14 @@ Ikarian
 Improver
 ina-garten
 Incredisauce
+indian
 italian
 jalapeño
 Jalapeño
 jalapeños
+jambu
+Jambu
+jambus
 jamie-oliver
 jewish
 Jicama
@@ -309,6 +320,7 @@ maitake
 Maitake
 mandoline
 Manicotti
+manie
 Margherita
 maria-agresta
 Marnier
@@ -541,14 +553,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Frittatas
-Frittata
-frittata
-beurre
-manie
-chasni
-Gulab
-jambus
-Jambu
-jambu
-chasmi
