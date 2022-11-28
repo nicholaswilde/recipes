@@ -36,8 +36,8 @@ pinch of salt) until tender. Julia Child recommends simmering in a partially cov
 
 ### Step 2
 
-Once the vegetables are tender, you can puree the soup using an immersion blender, or carefully transfer the soup to a
-high-powered pitcher blender and puree until smooth.
+Once the vegetables are tender, you can purée the soup using an immersion blender, or carefully transfer the soup to a
+high-powered pitcher blender and purée until smooth.
 
 ### Step 3
 
