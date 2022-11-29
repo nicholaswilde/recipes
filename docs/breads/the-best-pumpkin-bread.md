@@ -13,18 +13,18 @@ tags:
 
 ## :salt: Ingredients - Bread
 
-- 1 15-oz can pumpkin puree
-- 0.5 cup vegetable oil
-- 3 large eggs
-- 330 g granulated sugar
-- 1.5 tsp baking powder
-- 0.75 tsp baking soda
-- 0.75 tsp salt
-- 0.75 tsp cinnamon
-- 0.25 heaped tsp nutmeg
-- 0.25 heaped tsp ginger
-- 2 pinches ground cloves
-- 295 g all-purpose flour
+- :jack_o_lantern: 1 15-oz can pumpkin puree
+- :oil_drum: 0.5 cup vegetable oil
+- :egg: 3 large eggs
+- :candy: 330 g granulated sugar
+- :dash: 1.5 tsp baking powder
+- :cup_with_straw: 0.75 tsp baking soda
+- :salt: 0.75 tsp salt
+- :custard:  0.75 tsp cinnamon
+- :chestnut: 0.25 heaped tsp nutmeg
+- :sweet_potato: 0.25 heaped tsp ginger
+- :four_leaf_clover: 2 pinches ground cloves
+- :ear_of_rice: 295 g all-purpose flour
 
 ## :salt: Ingredients - Topping
 
