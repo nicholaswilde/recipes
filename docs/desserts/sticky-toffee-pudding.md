@@ -74,10 +74,10 @@ and salt (except bourbon) in a small saucepan. Bring to a boil, stirring occasio
 for 3 minutes until thickened. Remove from heat, stir in bourbon, and allow to cool slightly before spooning over the
 puddings. Serve immediately.
 
-### Step 7
+!!! note
 
-Recipe Note: A standard 12-cup muffin tin can of course be used, simply grease and flour only 6 of the cavities. The
-recipe also easily doubles to make 12 puddings.
+    A standard 12-cup muffin tin can of course be used, simply grease and flour only 6 of the cavities. The
+    recipe also easily doubles to make 12 puddings.
 
 ## :link: Source
 
