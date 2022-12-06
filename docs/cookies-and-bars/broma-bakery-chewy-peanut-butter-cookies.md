@@ -15,14 +15,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup unsalted butter
-- :peanuts: 0.75 cup [creamy peanut butter][1]
-- :candy: 0.25 cup white sugar
-- :maple_leaf: 1 cup [brown sugar][2]
+- :butter: 0.25 cup (57 g) unsalted butter
+- :peanuts: 0.75 cup (203 g) [creamy peanut butter][1]
+- :candy: 0.25 cup (50 g) white sugar
+- :maple_leaf: 1 cup (213 g) [brown sugar][2]
 - :egg: 1 egg
 - :egg: 1 egg yolk
 - :icecream: 2 tsp vanilla
-- :ear_of_rice: 18 Tbsp flour
+- :ear_of_rice: (135 g) 18 Tbsp flour
 - :cup_with_straw: 0.75 tsp baking soda
 - :salt: 1 tsp salt
 
