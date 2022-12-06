@@ -66,10 +66,11 @@ $$
 Tbsp=\frac{64}{scoop\#}
 $$
 
-## :scales: Ingredient Weight Chart[^2]
+## :scales: [Ingredient Weight Chart][5][^2]
 
 | Ingredient                                            | Volume            | Grams       | Ounces      |
 |-------------------------------------------------------|-------------------|-------------|-------------|
+| 00 Pizza Flour                                  | 1 cup             | 116         | 4           |
 | All-Purpose Flour                                     | 1 cup             | 120         | 4-1/4       |
 | Almond Flour                                          | 1 cup             | 96          | 3-3/8       |
 | Almond Meal                                           | 1 cup             | 84          | 3           |
@@ -223,7 +224,15 @@ $$
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
+| Peanut Butter                                         | 1 cup             | 135         | 4-3/4       |
+| Peanuts (whole, shelled)                              | 1 cup             | 142         | 5           |
 | Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
+| Pine Nuts                                       | 1/2 cup           | 71          | 2-1/2       |
+| Pineapple (crushed, drained)                          | 1 cup             | 256         | 9           |
+| Pineapple (dried)                                     | 1/2 cup           | 71          | 2-1/2       |
+| Pineapple (fresh or canned, diced)                    | 1 cup             | 170         | 6           |
+| Pistachio Nuts (shlled)                         | 1/2 cup           | 60          | 2-1/8       |
+| Polenta (coarse ground cornmeal)                      | 1 cup             | 163         | 5-3/4       |
 | Quinoa (whole)                                        | 1 cup             | 177         | 6-1/4       |
 | Quinoa Flour                                          | 1 cup             | 110         | 3-7/8       |
 | Raisins (loose)                                       | 1 cup             | 149         | 5-1/4       |
@@ -351,3 +360,4 @@ with the gas marks, used in some countries, as well.
 [2]: <../sauces-and-dressings/tahini.md>
 [3]: <http://www.bakersbrigade.com/cookie-scoop-sizes-explained/>
 [4]: <https://zeroll.com/collections/universal-ez-disher/standard>
+[5]: <https://www.kingarthurbaking.com/learn/ingredient-weight-chart>
