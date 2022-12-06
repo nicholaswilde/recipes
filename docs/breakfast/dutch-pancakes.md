@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cups all-purpose flour
+- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
 - :egg: 4 eggs
-- :glass_of_milk: 1 cup milk
-- :ice_cube: 1.25 cups cold water
-- :butter: 3 Tbsp butter
+- :glass_of_milk: 1 cup (227 g) milk
+- :ice_cube: 1.25 cups (284 g) cold water
+- :butter: 3 Tbsp (42 g) butter
 - :icecream: 1 tsp vanilla
 - :custard: some cinnamon (optional)
 - :candy: some sugar (optional)
