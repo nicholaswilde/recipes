@@ -14,21 +14,21 @@ tags:
 
 ## :salt: Ingredients - Cookies
 
-- :ear_of_rice: 3 cups all-purpose flour
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
 - :dash: 0.5 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :butter: 14 Tbsp unsalted butter
-- :candy: 1.25 cups granulated sugar
+- :butter: 14 Tbsp (198 g) unsalted butter
+- :candy: 1.25 cups (248 g) granulated sugar
 - :egg: 2 large eggs
 - :egg: 1 large egg yolk
-- :butter: 0.75 cup buttermilk
+- :butter: 0.75 cup (170 g) buttermilk
 - :icecream: 1 Tbsp vanilla
 - :lemon: 1 Tbsp lemon zest
 
 ## :salt: Ingredients - Icing
 
-- :candy: 3.5 cups granulated sugar
+- :candy: 3.5 cups confectioners' sugar
 - :glass_of_milk: 5 Tbsp milk
 - :icecream: 3 Tbsp heavy cream
 - :icecream: 2 tsp vanilla
@@ -45,7 +45,7 @@ tags:
 - 1 cooling rack
 - 1 offset spatula
 
-## :pencil: Instructions
+## :pencil: Instructions - Cookies
 
 ### Step 1
 
@@ -83,10 +83,12 @@ back when slightly touched.
 
 Cool the cookies on the pan on a rack for 5 minutes, and then remove from the pan and cool on a cooling rack completely.
 
+## :pencil: Instructions - Icing
+
 ### Step 9
 
-To make the icing, mix the granulated sugar, 4 to 5 Tbsp milk, heavy cream, and vanilla. The icing should be spreadable,
-but thin enough to not look like cake frosting.
+To make the icing, mix the confectioners' sugar, 4 to 5 Tbsp milk, heavy cream, and vanilla. The icing should be
+spreadable, but thin enough to not look like cake frosting.
 
 ### Step 10
 
