@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 8 Tbsp unsalted butter
+- :butter: 8 Tbsp (113 g) unsalted butter
 - :droplet: 1 tsp water
-- :ear_of_rice: 1.25 cup all-purpose flour
+- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
 - :corn: 1 tsp cornstarch
 - :rice: 1 tsp baking powder
-- :candy: 10 Tbsp granulated sugar
-- :maple_leaf: 2 Tbsp brown sugar
+- :candy: 10 Tbsp (124 g) granulated sugar
+- :maple_leaf: 2 Tbsp (27 g) brown sugar
 - :egg: 1 large egg
 - :icecream: 2 tsp vanilla
 - :salt: 1 tsp salt
