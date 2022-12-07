@@ -25,7 +25,8 @@ tags:
 
 - 1 peeler
 - 1 food processor
-- 1 2 quart saucepan
+- 1 2 quart saucepan, double boiler, or bain-marie
+- 1 fine mesh sieve
 
 ## :pencil: Instructions
 
@@ -41,8 +42,13 @@ lemon juice and salt. Mix until combined.
 
 ### Step 3
 
-Pour the mixture into a 2 quart saucepan and cook over low heat until thickened (about 10 minutes), stirring constantly.
-The lemon curd will thicken at about 170°F, or just below simmer. Remove from the heat and cool or refrigerate.
+Pour the mixture into a 2 quart saucepan, double boiler, or bain-marie and cook over low heat until thickened (about 10
+minutes), stirring constantly. The lemon curd will thicken at about 170°F, or just below simmer. Remove from the heat
+and pass through a fine mesh sieve and cool or refrigerate.
+
+!!! tip
+
+    It is best to sieve the mixture while it is still hot.
 
 ## :link: Source
 
