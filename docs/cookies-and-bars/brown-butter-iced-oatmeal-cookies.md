@@ -14,21 +14,21 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- :butter: 0.75 cup butter
-- :maple_leaf: 0.75 cup light brown sugar
-- :candy: 0.25 cup granulated sugar
+- :butter: 0.75 cup (170 g) butter
+- :maple_leaf: 0.75 cup (160 g) light brown sugar
+- :candy: 0.25 cup (50 g) granulated sugar
 - :egg: 1 egg
 - :egg: 1 egg yolk
 - :icecream: 0.5 tsp vanilla
-- :ear_of_rice: 1 cup all-purpose flour
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :salt: 0.5 tsp salt
 - :cup_with_straw: 0.5 tsp baking soda
-- :ear_of_rice: 1 cup old fashioned oats
+- :ear_of_rice: 1 cup (99 g) old fashioned oats
 
 ## :salt: Ingredients - Icing
 
-- :candy: 1.33 cups confectioners' sugar
-- :glass_of_milk: 2 Tbsp milk
+- :candy: 1.33 cups (227 g) confectioners' sugar
+- :glass_of_milk: 2 Tbsp (28 g) milk
 - :icecream: 1 tsp vanilla
 - :salt: 1 pinch salt
 
@@ -42,7 +42,7 @@ tags:
 - 1 microwave safe bowl
 - 1 spatula
 
-## :pencil: Instructions
+## :pencil: Instructions - Cookies
 
 ### Step 1
 
@@ -70,6 +70,8 @@ combined and no streaks of flour remain.
 
 Use a 1.5 ounce cookie scoop to scoop the cookie dough out into balls, placing them 2 inches apart on the prepared
 sheet. Bake for 11 minutes, or until the edges are just golden brown and the centers have puffed up but are still gooey.
+
+## :pencil: Instructions - Icing
 
 ### Step 6
 
