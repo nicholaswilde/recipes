@@ -15,18 +15,18 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1.25 cups butter
-- :maple_leaf: 1.5 cup brown sugar
-- :candy: 0.5 cup granulated sugar
+- :butter: 1.25 cups (283 g) butter
+- :maple_leaf: 1.5 cup (320 g) brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 eggs
 - :egg: 1 egg yolk
 - :icecream: 1 Tbsp vanilla
-- :ear_of_rice: 3 cups all-purpose flour
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
 - :salt: 1 tsp salt
 - :dash: 0.5 tsp baking powder
 - :cup_with_straw: 1 tsp baking soda
-- :chocolate_bar: 3 cups semi sweet chocolate chips
-- :chestnut: 0.5 cups walnuts
+- :chocolate_bar: 3 cups (510 g) semisweet chocolate chips
+- :chestnut: 0.5 cups (57 g) walnuts
 - :icecream: some vanilla ice cream (optional)
 
 ## :cooking: Cookware

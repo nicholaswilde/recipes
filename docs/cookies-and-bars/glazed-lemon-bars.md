@@ -4,7 +4,7 @@ tags:
   - bar
   - dessert
 ---
-# Glazed Lemon Bars
+# :lemon: Glazed Lemon Bars
 
 ![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.jpg)
 
@@ -14,15 +14,14 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup [Reduced Fat Bisquick][1]
-- 2 Tbsp powdered sugar
-- 2 Tbsp firm butter
-- 0.75 cup sugar
-- 0.5 cup egg substitute
-- 2 tsp grated lemon peel
-- 0.75 cup powdered sugar
-- 1 Tbsp lemon juice
-- 1.5 tsp lemon juice
+- :ear_of_rice: 1 cup [Reduced Fat Bisquick][1]
+- :candy: 2 Tbsp (14 g) confectioners' sugar
+- :butter: 2 Tbsp (28 g) firm unsalted butter
+- :candy: 0.75 cup (149 g) granulated sugar
+- :egg: 0.5 cup egg substitute
+- :lemon: 2 tsp grated lemon peel
+- :candy: 0.75 cup (85 g) confectioners' sugar
+- :lemon: 1 Tbsp + 1.5 tsp lemon juice
 
 ## :cooking: Cookware
 
@@ -52,6 +51,6 @@ Bake for 25 minutes.
 
 ### Step 6
 
-While warm, loosen edges and spread with glaze: powdered sugar, lemon juice, and lemon juice.
+While warm, loosen edges and spread with glaze: powdered sugar, and lemon juice.
 
 [1]: <../ingredients/bisquick.md>

@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (226 g) unsalted butter
 - :candy: 114 g confectioners' sugar
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 240 g all-purpose flour

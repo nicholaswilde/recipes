@@ -15,18 +15,18 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3.75 cups all-purpose flour
+- :ear_of_rice: 3.75 cups (450 g) all-purpose flour
 - :dash: 1 Tbsp baking powder
 - :custard: 1.5 tsp ground cinnamon
 - :salt: 1 tsp salt
 - :cup_with_straw: 1 tsp baking soda
-- :carrot: 34 Tbsp vegetable shortening
-- :maple_leaf: 1.75 brown sugar
-- :candy: 1.5 cups sugar
+- :carrot: 34 Tbsp (391 g) vegetable shortening
+- :maple_leaf: 1.75 (373 g) brown sugar
+- :candy: 1.5 cups (297 g) granulated sugar
 - :egg: 3 eggs
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 4 cups oats
-- :grapes: 2.5 cups raisins
+- :ear_of_rice: 4 cups (396 g) oats
+- :grapes: 2.5 cups (373 g) raisins
 
 ## :cooking: Cookware
 

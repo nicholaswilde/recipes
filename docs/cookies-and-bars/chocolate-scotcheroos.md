@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1 cup sugar
-- :corn: 1 cup light corn syrup
-- :peanuts: 1 cup [peanut butter][1]
+- :candy: 1 cup (198 g) granulated sugar
+- :corn: 1 cup (312 g) light corn syrup
+- :peanuts: 1 cup (135 g) [peanut butter][1]
 - :bowl_with_spoon: 6 cups Rice Krispies
-- :chocolate_bar: 1 cup chocolate chips
+- :chocolate_bar: 1 cup (170 g) chocolate chips
 - :icecream: 1 cup butterscotch chips
 
 ## :cooking: Cookware

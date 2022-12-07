@@ -14,24 +14,24 @@ tags:
 
 ## :salt: Ingredients - Cookie
 
-- :ear_of_rice: 0.75 cup almond flour
+- :ear_of_rice: 0.75 cup (72 g) almond flour
 - :cup_with_straw: 0.5 tsp baking soda
 - :custard: 1.5 tsp cinnamon
 - :chestnut: 0.13 tsp nutmeg
 - :salt: 0.25 tsp salt
 - :coconut: 0.25 cup coconut oil
-- :maple_leaf: 0.5 cup brown or coconut sugar
+- :maple_leaf: 0.5 cup (107 g) brown or coconut sugar
 - :egg: 1 egg
 - :icecream: 1 tsp vanilla
 - :carrot: 1 cup shredded carrots
-- :ear_of_rice: 1.25 cups rolled oats
+- :ear_of_rice: 1.25 (124 g) cups rolled oats
 - :coconut: 0.33 cup unsweetened coconut
 - :chestnut: 0.25 cup pecans or walnuts
 - :grapes: 0.25 cup raisins
 
 ## :salt: Ingredients - Icing
 
-- :candy: 0.25 cup confectioners' sugar
+- :candy: 0.25 cup (28 g) confectioners' sugar
 - :glass_of_milk: 2 tsp unsweetened oat milk
 - :custard: 1 dash cinnamon
 

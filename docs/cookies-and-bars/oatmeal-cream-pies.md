@@ -15,21 +15,21 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup butter
-- :maple_leaf: 1 cup light brown sugar
+- :butter: 0.5 cup (113 g) unsalted butter
+- :maple_leaf: 1 cup (213 g) light brown sugar
 - :maple_leaf: 1 Tbsp molasses
 - :egg: 1 egg
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.25 cup all-purpose flour
-- :ear_of_rice: 0.5 cup old fashioned oats
+- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
+- :ear_of_rice: 0.5 cup (50 g) old fashioned oats
 - :cup_with_straw: 0.75 tsp baking soda
 - :salt: 0.5 tsp salt
 
 ## :salt: Ingredeitns - Vanilla Cream Filling
 
-- :butter: 0.5 cup unsalted butter
-- :carrot: 0.25 cup vegetable shortening
-- :candy: 4 cups powdered sugar
+- :butter: 0.5 cup (113 g) unsalted butter
+- :carrot: 0.25 cup (46 g) vegetable shortening
+- :candy: 4 cups (454 g) confectioners' sugar
 - :glass_of_milk: 3 Tbsp heavy cream
 - :salt: 1 pinch salt
 - :icecream: 2 tsp vanilla

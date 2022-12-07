@@ -15,16 +15,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.5 cups flour
-- 2 tsp cream of tartar
-- 1 tsp baking soda
-- 0.5 tsp salt
-- 8 Tbsp vegetable shortening
-- 8 Tbsp unsalted butter
-- 1.5 cups sugar
-- 2 eggs
-- 0.25 cup sugar
-- 1 Tbsp cinnamon
+- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
+- :rice: 2 tsp cream of tartar
+- :cup_with_straw: 1 tsp baking soda
+- :salt: 0.5 tsp salt
+- :carrot: 8 Tbsp (92 g) vegetable shortening
+- :butter: 8 Tbsp (113 g) unsalted butter
+- :candy: 1.5 cups (297 g) granulated sugar
+- :egg: 2 eggs
+- :candy: 0.25 cup (50 g) granulated sugar
+- :custard: 1 Tbsp cinnamon
 
 ## :cooking: Cookware
 

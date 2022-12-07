@@ -3,6 +3,7 @@ comments: true
 tags:
   - bar
   - dessert
+  - tante-myrna-seccia
 ---
 # :lemon: Lemon Bars
 
@@ -14,11 +15,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup confectioners' sugar
-- :butter: 1 cup butter
-- :ear_of_rice: 2 cups all-purpose flour
+- :candy: 0.5 cup (57 g) confectioners' sugar
+- :butter: 1 cup (226 g) unsalted butter
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :egg: 4 eggs
-- :candy: 2 cups sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :lemon: 6 Tbsp lemon juice
 - :dash: 0.5 tsp baking powder
 
@@ -46,11 +47,11 @@ Bake for 30 minutes.
 
 ### Step 5
 
-Beat eggs, sugar, and lemon juice lightly.
+Beat eggs, granulated sugar, and lemon juice lightly.
 
 ### Step 6
 
-Stir in 1/4 cup flour and 1/2 tsp baking powder. Pour over crust.
+Stir in 1/4 cup all-purpose flour and 1/2 tsp baking powder. Pour over crust.
 
 ### Step 7
 

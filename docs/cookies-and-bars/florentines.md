@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :chestnut: 145 g almonds
-- :ear_of_rice: 3 Tbsp all-purpose flour
+- :ear_of_rice: 3 Tbsp (23 g) all-purpose flour
 - :orange_circle: 2 Tbsp orange peel (optional)
 - :candy: 140 g granulated sugar
 - :icecream: 2 Tbsp heavy cream
