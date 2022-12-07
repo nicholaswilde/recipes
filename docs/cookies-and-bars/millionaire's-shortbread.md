@@ -15,14 +15,14 @@ tags:
 ## :salt: Ingredients
 
 - :cookie: 2.5 cups [shortbread cookies][3]
-- :butter: 0.25 cup butter
-- :maple_leaf: 0.75 cup [dark brown sugar][1]
-- :butter: 0.67 cup butter
+- :butter: 0.25 cup (57 g) unsalted butter
+- :maple_leaf: 0.75 cup (160 g) [dark brown sugar][1]
+- :butter: 0.67 cup (151 g) unsalted butter
 - :glass_of_milk: 1 14 oz can [sweetened condensed milk][2]
 - :custard: 1 tsp cinnamon
 - :icecream: 0.25 tsp vanilla
-- :chocolate_bar: 1 cup dark chocolate
-- :chocolate_bar: 0.25 cup white chocolate
+- :chocolate_bar: 1 cup (170 g) dark chocolate
+- :chocolate_bar: 0.25 cup (43 g) white chocolate
 
 ## :cooking: Cookware
 
