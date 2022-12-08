@@ -76,7 +76,7 @@ eye, then spread it evenly.
 
 ### Step 7
 
-Bake for 20 25 minutes until the sponges are a light golden brown, and starting to shrink back from the sides of the
+Bake for 20 to 25 minutes until the sponges are a light golden brown, and starting to shrink back from the sides of the
 tin. (Check the sponges after 15 minutes and if they aren't baking evenly rotate the trays.) Check that the sponge
 springs back when lightly pressed in the middle.
 
