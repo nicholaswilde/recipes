@@ -17,7 +17,7 @@ tags:
 - :egg: 3 medium eggs
 - :butter: 175 g unsalted butter
 - :candy: 175 g granulated sugar
-- :ear_of_rice: 175 g self-raising flour
+- :ear_of_rice: 175 g [self-raising flour][2]
 - :icecream: 0.75 tsp vanilla
 - :hotsprings: 1 Tbsp warm water
 
@@ -46,7 +46,7 @@ Preheat the oven to 180°C / 160°C fan / 350°F / Gas 4. Grease and line the ca
 ### Step 2
 
 Weigh the eggs – 3 medium eggs in their shells weigh around 175 g – then use this same weight for the unsalted
-butter, granulated sugar and self-raising flour.
+butter, granulated sugar and [self-raising flour][2].
 
 ### Step 3
 
@@ -108,3 +108,4 @@ with the second sponge, crust-side up, and dust with confectioners' sugar.
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/victoria-sandwich-cake/>
 
 [1]: <../../sauces-and-dressings/single-jar-of-fruit-jam.md>
+[2]: <../../reference/equivalents-and-substitutes.md#self-rising-flour>
