@@ -37,4 +37,4 @@ Fold the whipped cream into the crème pâtissière.
 - Cupcake Jemma
 
 [1]: <../sweetened-whipped-cream.md>
-[2]: <../crème-pâtissière.md>
+[2]: <./crème-pâtissière.md>

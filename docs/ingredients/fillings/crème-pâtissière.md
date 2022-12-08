@@ -6,7 +6,7 @@ tags:
 ---
 # :egg: Crème Pâtissière
 
-![Crème Pâtissière](../assets/images/crème-pâtissière.jpg)
+![Crème Pâtissière](../../assets/images/crème-pâtissière.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

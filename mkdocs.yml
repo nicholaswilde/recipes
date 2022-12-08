@@ -155,7 +155,7 @@ nav:
       - Millionaire's Shortbread: cookies-and-bars/millionaire's-shortbread.md
       - Mini Madeleines: cookies-and-bars/mini-madeleines.md
       - Oatmeal Chocolate Chip Cookies: cookies-and-bars/oatmeal-chocolate-chip-cookies.md
-      - Oatmeal Cream cookies-and-bars/oatmeal-cream-pies.md
+      - Oatmeal Cream Pies: cookies-and-bars/oatmeal-cream-pies.md
       - Oatmeal Raisin: cookies-and-bars/oatmeal-raisin.md
       - Oreos: cookies-and-bars/oreos.md
       - Peanut Butter Crisscrosses: cookies-and-bars/peanut-butter-crisscrosses.md
@@ -239,7 +239,6 @@ nav:
       - Classic Fudge: desserts/classic-fudge.md
       - Cranberry Curd Tart with Almond Crust: desserts/cranberry-curd-tart-with-almond-crust.md
       - Crème Brûlée: desserts/crème-brûlée.md
-      - Crème Pâtissière: desserts/crème-pâtissière.md
       - Crêpes Suzette: desserts/crêpes-suzette.md
       - Disney's Churros: desserts/disney's-churros.md
       - Disney's Frozen Pineapple Treat: desserts/disney's-frozen-pineapple-treat.md
@@ -330,6 +329,7 @@ nav:
           - Vanilla Extract: ingredients/extracts/vanilla-extract.md
       - Fillings:
           - Crème Diplomat: ingredients/fillings/crème-diplomat.md
+          - Crème Pâtissière: ingredients/fillings/crème-pâtissière.md
           - Mousse: ingredients/fillings/mousse.md
       - Frosting:
           - American Buttercream: ingredients/frosting/american-buttercream.md
@@ -394,7 +394,6 @@ nav:
       - Clarified Butter: ingredients/clarified-butter.md
       - Confectioners' Sugar: ingredients/confectioners-sugar.md
       - Crème Fraîche: ingredients/crème-fraîche.md
-      - Crème Pâtissière: ingredients/crème-pâtissière.md
       - Crumb Crust: ingredients/crumb-crust.md
       - Date Paste: ingredients/date-paste.md
       - Dry Roasted Peanuts: ingredients/dry-roasted-peanuts.md

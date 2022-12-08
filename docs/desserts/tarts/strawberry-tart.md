@@ -66,7 +66,7 @@ the base toward the tip like painting a fingernail, to make a thin, delicate lay
 
 - Dominique Ansel
 
-[1]: <../../ingredients/crème-pâtissière.md>
+[1]: <../../ingredients/fillings/crème-pâtissière.md>
 [2]: <../../ingredients/post-baking-glazes/fruit-glaze-(nappage).md>
 [3]: <../../ingredients/quick-strawberry-jam.md>
 [4]: <../../ingredients/pastry-dough/vanilla-sablé-shell.md>
