@@ -13,7 +13,7 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 4 to 6 | 1.88 hours |
 
-## :salt: Ingredients - Shortcust Pastry
+## :salt: Ingredients - Shortcrust Pastry
 
 - :ear_of_rice: 225 g all-purpose flour
 - :salt: some salt
@@ -45,7 +45,7 @@ tags:
 - 1 baking parchment or foil
 - 1 baking beans, or uncooked rice or lentils
 
-## :pencil: Instructions
+## :pencil: Instructions - Shortcrust Pastry
 
 ### Step 1
 
@@ -81,6 +81,8 @@ lentils.
 Bake blind for 15 minutes, then remove the parchment and baking beans and return the pastry to the oven for about 8
 minutes or until it looks dry and faintly colored. Trim away the excess pastry from the edge. Use a tiny bit of the
 reserved raw pastry to patch cracks or holes if necessary. Turn the oven down to 180°C / gas 4 / 350°F.
+
+## :pencil: Instructions - Filling
 
 ### Step 7
 
