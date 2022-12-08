@@ -27,6 +27,7 @@ tags:
 - 1 heavy-based pan
 - 1 spoon
 - 1 clingfilm
+- 1 sieve
 
 ## :pencil: Instructions
 
@@ -37,16 +38,24 @@ simmer.
 
 ### Step 2
 
-In a medium bowl, whisk the egg yolks and granulated sugar together until pale. Pour the mixture over the warm milk,
-whisking continuously, then pour into a clean, heavy-based pan and cook over a very low heat.
+In a medium bowl, whisk the egg yolks and granulated sugar together until pale to blanch it an get some type of a
+paste. Pour some the warm milk through a sieve into the mixture, whisking gently and continuously. Pour the rest of the
+milk into the mixture and whisk. Sieve into a clean, heavy-based pan and cook over a very low heat.
 
 ### Step 3
 
 Simmer the mixture gently for 3 to 4 minutes, stirring continuously, until smooth and thick enough to coat the back of a
-spoon. Remove from the heat, cover the surface with clingfilm to prevent a skin forming, then leave to cool.
+spoon. When cooked, the temperature should get to 80°C (176°F). Or once the foam starts to disappear from the top of
+the mixture.
 
-## :link: Source
+### Step 4
+
+Remove from the heat, put through a sieve and then into a clean bowl and cover the surface with clingfilm to prevent a
+skin forming, then leave to cool.
+
+## :link: Sources
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/prue-leith-snow-eggs/>
+- <https://www.youtube.com/watch?v=q8uS3VI86-w>
 
 [1]: <../reference/equivalents-and-substitutes.md#vanilla>
