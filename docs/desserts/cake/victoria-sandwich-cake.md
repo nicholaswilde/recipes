@@ -103,6 +103,10 @@ Pour the cream, if using, into the chilled bowl and whip with the chilled whisk 
 peaks form when you lift out the whisk. Spoon the cream onto the cake and then gently smooth it evenly over the jam. Top
 with the second sponge, crust-side up, and dust with confectioners' sugar.
 
+!!! info
+
+    A traditional Victoria Sandwich Cake only has raspberry jam in the middle and topped with granulated sugar.
+
 ## :link: Source
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/victoria-sandwich-cake/>
