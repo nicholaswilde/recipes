@@ -14,10 +14,10 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 each gelatin sheets
-- 312 g whole milk
-- 308 g 70 percent dark chocolate
-- 448 g heavy cream
+- :custard: 2 each gelatin sheets
+- :glass_of_milk: 312 g whole milk
+- :chocolate_bar: 308 g 70 percent dark chocolate
+- :icecream: 448 g heavy cream
 
 ## :cooking: Cookware
 
