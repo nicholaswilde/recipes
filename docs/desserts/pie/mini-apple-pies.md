@@ -57,8 +57,8 @@ Remove the extra pie dough from the refrigerator, cut out your designs for the t
 
 ### Step 6
 
-Bake at 425°F for 20 25 minutes or until the pie crust is lightly golden brown and the filling is bubbly. Remove from
-the oven and set aside to cool for 10 15 minutes. Carefully remove the mini pies from the pan and transfer to a wire
+Bake at 425°F for 20 to 25 minutes or until the pie crust is lightly golden brown and the filling is bubbly. Remove from
+the oven and set aside to cool for 10 to 15 minutes. Carefully remove the mini pies from the pan and transfer to a wire
 rack to finish cooling.
 
 ## :link: Source
