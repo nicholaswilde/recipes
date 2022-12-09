@@ -15,8 +15,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup granulated sugar
-- :ear_of_rice: 1.33 cups all-purpose flour
+- :candy: 0.5 cup (99 g) granulated sugar
+- :ear_of_rice: 1.33 cups (160 g) all-purpose flour
 - :custard: 0.75 tsp cinnamon
 - :sweet_potato: 0.75 tsp ginger
 - :cup_with_straw: 0.5 tsp baking soda
@@ -24,9 +24,9 @@ tags:
 - :chestnut: 0.13 tsp allspice
 - :salt: 0.13 tsp salt
 - :salt: 0.13 tsp pepper
-- :maple_leaf: 0.25 cup dark brown sugar
-- :butter: 6 Tbsp unsalted butter
-- :maple_leaf: 0.25 cup molasses
+- :maple_leaf: 0.25 cup (53 g) dark brown sugar
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :maple_leaf: 0.25 cup (85 g) molasses
 - :egg: 1 egg yolk
 - :icecream: 0.5 tsp vanilla
 
