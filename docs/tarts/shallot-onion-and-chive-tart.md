@@ -30,6 +30,7 @@ tags:
 - :salt: 1 pinch salt
 - :egg: 4 medium eggs
 - :egg: 2 medium egg yolks
+- :icecream: 200 ml heavy cream
 - :hotdog: 1.5 Tbsp wholegrain mustard
 - :seedling: 1 Tbsp chives
 - :salt: some salt
@@ -86,8 +87,8 @@ reserved raw pastry to patch cracks or holes if necessary. Turn the oven down to
 
 ### Step 7
 
-For the filing, whisk the eggs, egg yolks and cream together, then whisk in the wholegrain mustard and chives. Season
-with salt and white pepper.
+For the filing, whisk the eggs, egg yolks and heavy cream together, then whisk in the wholegrain mustard and chives.
+Season with salt and white pepper.
 
 ### Step 8
 
