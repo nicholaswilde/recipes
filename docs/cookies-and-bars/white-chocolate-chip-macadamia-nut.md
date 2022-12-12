@@ -15,6 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :butter: 0.75 cup (170 g) butter
+- :maple_leaf: 1 cup (213 g) brown sugar
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 eggs
 - :icecream: 2 tsp vanilla
@@ -37,8 +38,8 @@ Preheat your oven to 350°F.
 
 ### Step 2
 
-Cream together your butter and granulated sugar until it’s light and fluffy. Add in the eggs and vanilla, mixing
-thoroughly. Beat in the all-purpose flour, baking soda and salt.
+Cream together your butter, brown sugar, and granulated sugar until it’s light and fluffy. Add in the eggs and vanilla,
+mixing thoroughly. Beat in the all-purpose flour, baking soda and salt.
 
 ### Step 3
 
