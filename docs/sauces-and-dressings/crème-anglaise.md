@@ -38,7 +38,7 @@ simmer.
 
 ### Step 2
 
-In a medium bowl, whisk the egg yolks and granulated sugar together until pale to blanch it an get some type of a
+In a medium bowl, whisk the egg yolks and granulated sugar together until pale to blanch it and get some type of a
 paste. Pour some the warm milk through a sieve into the mixture, whisking gently and continuously. Pour the rest of the
 milk into the mixture and whisk. Sieve into a clean, heavy-based pan and cook over a very low heat.
 

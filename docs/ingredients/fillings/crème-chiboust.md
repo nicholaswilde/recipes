@@ -25,7 +25,7 @@ tags:
 ### Step 1
 
 Combine equal amounts of [crème pâtissière][1] and [italian meringue][2] by folding one third of the hot meringue into
-the warm pastry cream and then the rest of the mergingue.
+the warm pastry cream and then the rest of the meringue.
 
 ### Step 2
 
