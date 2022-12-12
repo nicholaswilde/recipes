@@ -572,3 +572,5 @@ anglaise
 bavaroise
 agar agar
 Chiboust
+biscotti
+Biscotti
