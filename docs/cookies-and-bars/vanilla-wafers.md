@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 stick butter
-- :candy: 7 oz confectioners' sugar
+- :butter: 1 stick (113 g) butter
+- :candy: 7 oz (198 g) confectioners' sugar
 - :egg: 3 large egg whites
 - :egg: 1 large egg
-- :ear_of_rice: 6 oz all-purpose flour
+- :ear_of_rice: 6 oz (170 g) all-purpose flour
 - :icecream: 2 tsp vanilla
 - :salt: 0.25 tsp salt
 

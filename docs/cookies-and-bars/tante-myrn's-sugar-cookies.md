@@ -15,16 +15,16 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup butter
-- :candy: 1 cup confectioners' sugar
-- :candy: 1 cup granulated sugar
+- :butter: 1 cup (226 g) butter
+- :candy: 1 cup (114 g) confectioners' sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :egg: 2 eggs
-- :oil_drum: 1 cup vegetable oil
+- :oil_drum: 1 cup (198 g) vegetable oil
 - :icecream: 2 tsp vanilla
 - :cup_with_straw: 1 tsp baking soda
 - :rice: 1 tsp cream of tartar
 - :salt: 0.5 tsp salt
-- :ear_of_rice: 5 cups flour
+- :ear_of_rice: 5 cups (600 g) flour
 
 ## :cooking: Cookware
 
