@@ -116,7 +116,7 @@ chemical: The oven's heat completely neutralizes lye and makes it safe to consum
 lye isn't for you, you can use a simmering baking soda solution instead. With a pH of roughly 8.3, it reacts less than
 lye and yields pretzels that are lighter in color and flavor, but the results are still impressive.
 
-## [How to Work with Lye Safely][1]
+## How to Work with Lye Safely
 
 Dipping the dough in a lye solution gives traditional German pretzels their characteristic salinity; chew; and smooth
 mahogany exterior, but the strong alkali (sodium hydroxide) is corrosive and can burn your skin, so it must be handled
@@ -172,5 +172,4 @@ minutes.
 
 - Cook's Illustrated
 
-[1]: <https://www.cooksillustrated.com/articles/5892-how-to-work-with-lye-safely?incode=MCSCD00L0>
 [3]: <../assets/images/laugenbrezeln-(german-lye-pretzels)-2.jpg>
