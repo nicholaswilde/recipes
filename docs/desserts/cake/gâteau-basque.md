@@ -3,8 +3,9 @@ comments: true
 tags:
   - dessert
   - cake
+  - french 
 ---
-# Gâteau Basque
+# :cake: Gâteau Basque
 
 ![Gâteau Basque](../../assets/images/gâteau-basque.jpg)
 
@@ -12,23 +13,26 @@ tags:
 |:-----------------------: |
 | 1.28 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Shortcrust
 
-- 200 g all-purpose flour
-- 12 g baking powder
-- 130 g granulated sugar
-- 140 g diced cold butter
-- some lemon zest
-- 4 egg yolks
-- 250 ml milk
-- 0.5 vanilla bean
-- 60 g granulated sugar
-- 4 egg yolks
-- 10 g all-purpose flour
-- 15 g cornstarch
-- 20 g butter
-- 1 tsp rum (optional)
-- 1 egg
+- :ear_of_rice: 200 g all-purpose flour
+- :dash: 12 g baking powder
+- :candy: 130 g granulated sugar
+- :butter: 140 g diced cold butter
+- :lemon: some lemon zest
+- :egg: 4 egg yolks
+
+## :salt: Ingredients - Pastry Cream
+
+- :glass_of_milk: 250 ml milk
+- :icecream: 0.5 vanilla bean
+- :candy: 60 g granulated sugar
+- :egg: 4 egg yolks
+- :ear_of_rice: 10 g all-purpose flour
+- :corn: 15 g cornstarch
+- :butter: 20 g butter
+- :tumbler_glass: 1 tsp rum (optional)
+- :egg: 1 egg
 
 ## :cooking: Cookware
 
@@ -41,11 +45,11 @@ tags:
 - 1 parchment paper
 - 1 high profile tart ring
 
-## :pencil: Instructions
+## :pencil: Instructions - Shortcrust
 
 ### Step 1
 
-To make the shortcrust: Sift the all-purpose flour into a bowl and stir in the baking powder and (after sifting) the
+Sift the all-purpose flour into a bowl and stir in the baking powder and (after sifting) the
 granulated sugar.
 
 ### Step 2
@@ -71,9 +75,11 @@ On a lightly floured bench, flatten out the pastry using the palm of your hand a
 Divide the ball into 2 equal halves and use a scale to ensure the halves are equal. Flatten each half into a disc, wrap
 each in plastic film and rest in the fridge for at least 30 minutes.
 
+## :pencil: Instructions - Pastry Cream
+
 ### Step 7
 
-The Pastry Cream: Heat the milk and the vanilla bean (scrape the seeds out of the pod into the milk before placing the
+Heat the milk and the vanilla bean (scrape the seeds out of the pod into the milk before placing the
 pod in) on medium heat and bring to a gentle boil.
 
 ### Step 8
@@ -96,9 +102,11 @@ mixture should be smooth and thick.
 Scrape the cream into a tray and flatten it out to fill the tray. Cover the cream to prevent a crust from forming and
 place in the fridge until cold.
 
+## :pencil: Instructions - Assembly
+
 ### Step 12
 
-Finishing the cake: Remove a disc of dough from the fridge and place it onto a sheet of plastic film and then place
+Remove a disc of dough from the fridge and place it onto a sheet of plastic film and then place
 another sheet on top.
 
 ### Step 13
