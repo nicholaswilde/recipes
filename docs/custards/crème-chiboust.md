@@ -6,7 +6,7 @@ tags:
 ---
 # :custard: Crème Chiboust
 
-![Crème Chiboust](../../assets/images/crème-chiboust.jpg)
+![Crème Chiboust](../assets/images/crème-chiboust.jpg)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -55,4 +55,4 @@ Gelatin may be added to the custard to thicken it.
 - <https://www.roadtopastry.com/blog/recipes/creams-custards-sauces/recipe-creme-chiboust-chiboust-cream>
 
 [1]: <./crème-pâtissière.md>
-[2]: <../meringue/italian-meringue.md>
+[2]: <../ingredients/meringue/italian-meringue.md>

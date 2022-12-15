@@ -6,7 +6,7 @@ tags:
 ---
 # :icecream: Crème Diplomat
 
-![Crème Diplomat](../../assets/images/crème-diplomat.png)
+![Crème Diplomat](../assets/images/crème-diplomat.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -36,5 +36,5 @@ Fold the whipped cream into the crème pâtissière.
 
 - Cupcake Jemma
 
-[1]: <../sweetened-whipped-cream.md>
+[1]: <../ingredients/sweetened-whipped-cream.md>
 [2]: <./crème-pâtissière.md>

@@ -178,7 +178,11 @@ nav:
       - White Chocolate Chip Macadamia Nut: cookies-and-bars/white-chocolate-chip-macadamia-nut.md
       - World's Best Brownies: cookies-and-bars/world's-best-brownies.md
   - Custards:
+      - Crème Bavaroise: custards/crème-bavaroise.md
       - Crème Brûlée: custards/crème-brûlée.md
+      - Crème Chiboust: custards/crème-chiboust.md
+      - Crème Diplomat: custards/crème-diplomat.md
+      - Crème Pâtissière: custards/crème-pâtissière.md
   - Desserts:
       - Cakes:
           - 1-Bowl Vegan Gluten-Free Carrot Cake: desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md
@@ -334,10 +338,6 @@ nav:
           - Orange Extract: ingredients/extracts/orange-extract.md
           - Vanilla Extract: ingredients/extracts/vanilla-extract.md
       - Fillings:
-          - Crème Bavaroise: ingredients/fillings/crème-bavaroise.md
-          - Crème Chiboust: ingredients/fillings/crème-chiboust.md
-          - Crème Diplomat: ingredients/fillings/crème-diplomat.md
-          - Crème Pâtissière: ingredients/fillings/crème-pâtissière.md
           - Mousse: ingredients/fillings/mousse.md
       - Frosting:
           - American Buttercream: ingredients/frosting/american-buttercream.md
