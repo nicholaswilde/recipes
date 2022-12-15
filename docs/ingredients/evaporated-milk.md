@@ -44,4 +44,4 @@ Store the evaporated milk covered in the fridge for up to 5 days.
 
 ## :link: Source
 
-- <https://www.biggerbolderbaking.com/evaporated-milk-recipe/>
+- Bigger Bolder Baking
