@@ -6,7 +6,7 @@ tags:
 ---
 # :custard: Crème Bavaroise
 
-![Crème Bavaroise](../../assets/images/crème-bavaroise.png)
+![Crème Bavaroise](../assets/images/crème-bavaroise.png)
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -75,5 +75,5 @@ As soon as it's done, immediately pour into a mold or into a cocktail glass and 
 
 - <https://www.youtube.com/watch?v=q8uS3VI86-w>
 
-[1]: <../../sauces-and-dressings/crème-anglaise.md>
-[2]: <../../ingredients/sweetened-whipped-cream.md>
+[1]: <../sauces-and-dressings/crème-anglaise.md>
+[2]: <../ingredients/sweetened-whipped-cream.md>
