@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - pie
-  - martha-steward
+  - martha-stewart
 ---
 # :banana: Banana Cream Pie
 
