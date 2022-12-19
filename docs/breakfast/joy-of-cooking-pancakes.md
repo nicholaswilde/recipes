@@ -15,13 +15,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :salt: 0.5 tsp salt
 - :dash: 1.75 tsp baking powder
 - :candy: 3 Tbsp sugar
 - :egg: 2 eggs
-- :butter: 3 Tbsp melted butter
-- :glass_of_milk: 1 cup milk
+- :butter: 3 Tbsp (42 g) melted butter
+- :glass_of_milk: 1 cup (227 ml) milk
 
 ## :cooking: Cookware
 
