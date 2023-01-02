@@ -13,6 +13,12 @@ tags:
 |:-----------------------: |
 | 1.20 hours |
 
+## :scales: Ratio
+
+| :ear-of_rice: Flour | :butter: Butter | :egg: Egg | :droplet: Water |
+|:-------------------:|:---------------:|:---------:|:---------------:|
+| 1 part              | 1 part          | 2 parts   | 2 parts         |
+
 ## :salt: Ingredients
 
 - :glass_of_milk: 1 cup (227 g) water or milk
