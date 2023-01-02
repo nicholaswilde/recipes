@@ -18,6 +18,10 @@ tags:
 |:-------------------:|:-------------:|
 | 3                   | 2             |
 
+!!! note
+
+    At home, and especially for small amounts, equal parts of flour and whole butter by weight can be used.
+
 ### Thickening
 
 | Liquid  | Roux  |
@@ -45,6 +49,7 @@ tags:
 ## :pencil: Instructions
 
 !!! note
+
     The longer you cook the roux, the less it will thicken a sauce or other mixture. Heat eventually breaks down the
     starch in the flour.
 
