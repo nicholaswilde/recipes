@@ -14,6 +14,12 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 4 | 20 minutes |
 
+## :scales: Ratio
+
+| :ear_of_rice: Flour | :egg: Egg |
+|:-------------------:|:---------:|
+| 3 parts             | 2 parts   |
+
 ## :salt: Ingredients
 
 - :ear_of_rice: 2 cups all-purpose flour
