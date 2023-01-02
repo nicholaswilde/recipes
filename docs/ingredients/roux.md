@@ -12,6 +12,12 @@ tags:
 |:-----------------------: |
 | 20 minutes |
 
+## :scales: Ratio
+
+| flour | fat |
+|:-----:|:---:|
+| 3     | 2   |
+
 ## :salt: Ingredients
 
 | Roux Type | Sauce Consistency | Clarified Butter  | All-Purpose Flour | Liquid  | Time          |
