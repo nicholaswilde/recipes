@@ -22,7 +22,7 @@ tags:
 
     At home, and especially for small amounts, equal parts of flour and whole butter by weight can be used.
 
-### Thickening
+### :stew: Thickening
 
 | Liquid  | Roux  |
 |:-------:|:-----:|
