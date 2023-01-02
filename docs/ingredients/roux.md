@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :stew: Roux
 
@@ -12,11 +12,17 @@ tags:
 |:-----------------------: |
 | 20 minutes |
 
-## :scales: Ratio
+## :scales: Ratios
 
-| flour | fat |
-|:-----:|:---:|
-| 3     | 2   |
+| :ear_of_rice: flour | :butter: fat  |
+|:-------------------:|:-------------:|
+| 3                   | 2             |
+
+### Thickening
+
+| Liquid  | Roux  |
+|:-------:|:-----:|
+| 10      | 1     |
 
 ## :salt: Ingredients
 
