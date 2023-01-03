@@ -15,7 +15,7 @@ tags:
 
 ## :scales: Ratio
 
-| :ear-of_rice: Flour | :butter: Butter | :egg: Egg | :droplet: Water |
+| :ear_of_rice: Flour | :butter: Butter | :egg: Egg | :droplet: Water |
 |:-------------------:|:---------------:|:---------:|:---------------:|
 | 1 part              | 1 part          | 2 parts   | 2 parts         |
 
