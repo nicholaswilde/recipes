@@ -13,6 +13,12 @@ tags:
 |:-----------------------: |
 | 30 minutes |
 
+## :scales: Ratio
+
+| :candy: Sugar | :icecream: Cream |
+|:-------------:|:----------------:|
+| 1 part        | 1 part           |
+
 ## :salt: Ingredients
 
 - :icecream: 1 tsp vanilla
