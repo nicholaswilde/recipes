@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
 ---
-# Gordon Ramsay's Chocolate Soufflé
+# :custard: Gordon Ramsay's Chocolate Soufflé
 
 ![Gordon Ramsay's Chocolate Soufflé](../assets/images/gordon-ramsay's-chocolate-soufflé.png)
 
@@ -13,30 +13,30 @@ tags:
 
 ## :salt: Ingredients - Dishes
 
-- 25 g softened butter
-- some grated chocolate
+- :butter: 25 g softened butter
+- :chocolate_bar: some grated chocolate
 
 ## :salt: Ingredients - Crème Pâtissière
 
-- 2 Tbsp all-purpose flour
-- 2 tsp sugar
-- 0.5 tsp cornflour
-- 1 medium egg yolk
-- 1 medium whole egg
-- 4 Tbsp whole milk
-- 1 Tbsp heavy cream
-- 25 g 70 percent chocolate
+- :ear_of_rice: 2 Tbsp all-purpose flour
+- :candy: 2 tsp sugar
+- :corn: 0.5 tsp cornflour
+- :egg: 1 medium egg yolk
+- :egg: 1 medium whole egg
+- :glass_of_milk: 4 Tbsp whole milk
+- :icecream: 1 Tbsp heavy cream
+- :chocolate_bar: 25 g 70 percent chocolate
 
 ## :salt: Ingredients - Meringue
 
-- 6 medium egg whites
-- 85 g granulated sugar
+- :egg: 6 medium egg whites
+- :candy: 85 g granulated sugar
 
 ## :salt: Ingredients - Ganache
 
-- 4 Tbsp heavy cream
-- 50 g 70 percent chocolate
-- 1 Tbsp cocoa powder
+- :icecream: 4 Tbsp heavy cream
+- :chocolate_bar: 50 g 70 percent chocolate
+- :chocolate_bar: 1 Tbsp cocoa powder
 
 ## :cooking: Cookware
 
@@ -58,12 +58,13 @@ as an insurance policy so the soufflé doesn’t stick to the dish, apply a seco
 ### Step 2
 
 Tip a little grated chocolate into each dish, roll the dish around tilting it as you do so it is evenly lined all round.
-For the crème patisserie, mix the all-purpose flour, sugar and cornflour.
+
+## :pencil: Instructions - Crème Patisserie
 
 ### Step 3
 
-Put egg yolk and whole egg into a bowl, stir, then beat in half of the flour mixture to give a smooth paste.
-Tip in the rest of the flour mixture and mix well.
+For the crème patisserie, mix the all-purpose flour, sugar and cornflour Put egg yolk and whole egg into a bowl, stir,
+then beat in half of the flour mixture to give a smooth paste. Tip in the rest of the flour mixture and mix well.
 
 ### Step 4
 
@@ -79,9 +80,11 @@ Gradually stir hot chocolate mix into paste.
 Return to pan. Cook, stirring, over a medium-low heat for 5 minutes to a smooth, thick paste. Remove from the heat.
 Leave until cold, beating occasionally with a wire whisk.
 
+## :pencil: Instructions - Chocolate Ganache
+
 ### Step 7
 
-Make the ganache: Slowly warm the heavy cream in a pan.
+Slowly warm the heavy cream in a pan.
 
 ### Step 8
 
@@ -95,6 +98,8 @@ Beat constantly to a velvety texture, gradually sprinkling in the cocoa powder a
 
 Heat oven to 190°C (375°F) / fan 170°C / gas 5.
 
+## :pencil: Instructions - Meringue
+
 ### Step 11
 
 Whisk the egg whites to soft peaks with an electric whisk.
@@ -106,6 +111,8 @@ Sprinkle in the sugar as you are mixing.
 ### Step 13
 
 Keep whisking to give stiff, firm peaks to give volume to the soufflés.
+
+## :pencil: Instructions - Assembly
 
 ### Step 14
 
