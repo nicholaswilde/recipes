@@ -152,4 +152,4 @@ To serve, make a small dip with a spoon in the center of each, then pour in sing
 
 ## :link: Source
 
-- <https://2guys1cook.wordpress.com/2011/01/17/gordon-ramsays-chocolate-souffle/>
+- <https://www.bbcgoodfood.com/recipes/hot-chocolate-souffle>
