@@ -62,7 +62,7 @@ For the crème patisserie, mix the all-purpose flour, sugar and cornflour.
 
 ### Step 3
 
-Put egg yolk and whole egg into a bowl, stir, then beat in half of the all-purpose flour mixture to give a smooth paste.
+Put egg yolk and whole egg into a bowl, stir, then beat in half of the flour mixture to give a smooth paste.
 Tip in the rest of the flour mixture and mix well.
 
 ### Step 4
