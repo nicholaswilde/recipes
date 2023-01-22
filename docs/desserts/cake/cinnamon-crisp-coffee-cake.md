@@ -14,38 +14,38 @@ tags:
 
 ## :salt: Ingredients - Filling
 
-- 66 g granulated sugar
-- 1 Tbsp cinnamon
-- 2 Tbsp unsweetened cocoa
+- :candy: 66 g granulated sugar
+- :custard: 1 Tbsp cinnamon
+- :chocolate_bar: 2 Tbsp unsweetened cocoa
 
 ## :salt: Ingredients - Crumbs
 
-- 120 g all-purpose flour
-- 75 g granulated sugar
-- 14 g confectioners' sugar
-- 1 Tbsp cinnamon
-- 0.25 tsp salt
-- 85 g unsalted butter
-- 1 tsp vanilla
+- :ear_of_rice: 120 g all-purpose flour
+- :candy: 75 g granulated sugar
+- :candy: 14 g confectioners' sugar
+- :custard: 1 Tbsp cinnamon
+- :salt: 0.25 tsp salt
+- :butter: 85 g unsalted butter
+- :icecream: 1 tsp vanilla
 
 ## :salt: Ingredients - Cake
 
-- 240 g all-purpose flour
-- 149 g granulated sugar
-- 1 tsp baking powder
-- 0.75 tsp salt
-- 0.25 tsp baking soda
-- 113 g unsalted butter
-- 2 tsp vanilla
-- 2 large eggs
-- 227 g buttermilk
-- 227 g Greek yogurt (alternative)
+- :ear_of_rice: 240 g all-purpose flour
+- :candy: 149 g granulated sugar
+- :dash: 1 tsp baking powder
+- :salt: 0.75 tsp salt
+- :cup_with_straw: 0.25 tsp baking soda
+- :butter: 113 g unsalted butter
+- :icecream: 2 tsp vanilla
+- :egg: 2 large eggs
+- :butter: 227 g buttermilk
+- :rice: 227 g Greek yogurt (alternative)
 
 ## :salt: Ingredients - Glaze (Optional)
 
-- 85 g confectioners' sugar
-- 1 pinch cinnamon
-- 3 tsp water
+- :candy: 85 g confectioners' sugar
+- :custard: 1 pinch cinnamon
+- :droplet: 3 tsp water
 
 ## :cooking: Cookware
 
