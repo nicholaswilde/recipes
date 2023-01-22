@@ -3,6 +3,7 @@ comments: true
 tags:
   - sauce
   - italian
+  - cooks-illustrated
 ---
 # :herb: Cook's Country Perfect Pesto
 
@@ -56,4 +57,4 @@ Refrigerate for up to 2 days or freeze for up to 1 month.
 
 ## :link: Source
 
-- <https://www.cookscountry.com/recipes/12784-perfect-pesto>
+- Cook's Illustrated
