@@ -15,18 +15,18 @@ tags:
 
 ## :salt: Ingredients - Crust
 
-- :flatbread: 12 squares graham crackers
-- :butter: 6 Tbsp unsalted butter, melted
-- :candy: 2 Tbsp granulated sugar
+- :flatbread: 12 squares (90 g) graham crackers
+- :butter: 6 Tbsp (85 g) unsalted butter, melted
+- :candy: 2 Tbsp (25 g) granulated sugar
 - :salt: 1 pinch salt
 
 ## :salt: Ingredients - Cake
 
 - :cheese_wedge: 3.5 lbs (7 pkgs) cream cheese
-- :candy: 2.25 cups granulated sugar
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :candy: 2.25 cups (446 g) granulated sugar
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :icecream: 1.5 tsp vanilla
-- :rice: 1 cup sour cream, room temperature
+- :rice: 1 cup (227 g) sour cream, room temperature
 - :egg: 5 large eggs
 - :lemon: 1 tsp lemon zest (optional)
 
