@@ -11,6 +11,16 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 2 cups | 20 minutes |
 
+## :scales: Ratios
+
+| :glass_of_milk: cream | :glass_of_milk: cream | :icecream: vanilla bean |
+|:---------------------:|:---------------------:|:-----------------------:|
+| 4 cups                | 908 g                 | 2 beans                 |
+| 3 cups                | 681 g                 | 1.5 beans               |
+| 2 cups                | 454 g                 | 1 bean                  |
+| 1 cup                 | 227 g                 | 1/2 bean                |
+| 1/2 cup               | 114 g                 | 1/4 bean                |
+
 ## :salt: Ingredients
 
 - :glass_of_milk: 2 cups heavy cream
