@@ -9,18 +9,43 @@ tags:
 
 ![Martha Stewarts New York-Style Cheesecake](../assets/images/martha-stewarts-new-york-style-cheesecake.jpg)
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 1 10 inch cake | 8.05 hours |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 8.05 hours               |
 
-## :salt: Ingredients - Crust
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 9 inch cake |
+
+## :salt: Ingredients - 9 Inch - Crust
+
+- :flatbread: 9 squares (68 g) graham crackers
+- :butter: 4.5 Tbsp (64 g) unsalted butter, melted
+- :candy: 1.5 Tbsp (19 g) granulated sugar
+- :salt: 1 pinch salt
+
+## :salt: Ingredients - 9 Inch - Cake
+
+- :cheese_wedge: 2.625 lbs (5.25 pkgs) cream cheese
+- :candy: 1.6875 cups (335 g) granulated sugar
+- :ear_of_rice: 0.375 cup (45 g) all-purpose flour
+- :icecream: 1 tsp vanilla
+- :rice: 0.75 cup (171 g) sour cream, room temperature
+- :egg: 4 large eggs
+- :lemon: 0.75 tsp lemon zest (optional)
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 10 inch cake |
+
+## :salt: Ingredients - 10 Inch - Crust
 
 - :flatbread: 12 squares (90 g) graham crackers
 - :butter: 6 Tbsp (85 g) unsalted butter, melted
 - :candy: 2 Tbsp (25 g) granulated sugar
 - :salt: 1 pinch salt
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients - 10 Inch - Cake
 
 - :cheese_wedge: 3.5 lbs (7 pkgs) cream cheese
 - :candy: 2.25 cups (446 g) granulated sugar
