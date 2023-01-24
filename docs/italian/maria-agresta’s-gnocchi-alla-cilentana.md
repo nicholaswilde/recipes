@@ -27,7 +27,7 @@ tags:
 - :olive: 3 Tbsp olive oil
 - :garlic: 1 clove garlic
 - :herb: 20 leaves basil
-- :satl: 2 tsp salt
+- :salt: 2 tsp salt
 - :cheese_wedge: 10.6 oz smoked mozzarella
 - :salt: some black pepper
 - :cheese_wedge: some pecorino cheese
