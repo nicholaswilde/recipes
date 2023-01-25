@@ -33,6 +33,7 @@ tags:
 - :rice: 0.75 cup (171 g) sour cream, room temperature
 - :egg: 4 large eggs
 - :lemon: 0.75 tsp lemon zest (optional)
+- :rice: 1 sour cream topping (optional)
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
@@ -54,6 +55,7 @@ tags:
 - :rice: 1 cup (227 g) sour cream, room temperature
 - :egg: 5 large eggs
 - :lemon: 1 tsp lemon zest (optional)
+- :rice: 1 sour cream topping (optional)
 
 ## :cooking: Cookware
 
@@ -112,9 +114,11 @@ knife around the edge of the cake.
 
 ### Step 8
 
-Optionally, add a sour cream topping.
+Optionally, add a [sour cream topping][1].
 
 ## :link: Sources
 
 - <https://www.marthastewart.com/332755/new-york-style-cheesecake>
 - <https://www.youtube.com/watch?v=0UB2nOT6Wic>
+
+[1]: <../ingredients/frosting/sour-cream-topping.md>
