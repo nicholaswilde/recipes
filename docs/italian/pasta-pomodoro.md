@@ -2,6 +2,8 @@
 comments: true
 tags:
   - italian
+  - pasta
+  - jean-pierre
 ---
 # :spaghetti: Pasta Pomodoro
 
