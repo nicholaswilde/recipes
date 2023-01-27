@@ -62,7 +62,7 @@ cheese mixture until well blended, but still light.
 ### Step 5
 
 Spoon half of the mixture into the prepared soufflé dish and dot with the ripe Brie pieces then top with the remaining
-mixture. Gently level off the top. Arrange gruyère on top, scatter with remaining parmesan. Bake 10 minutes then
+mixture. Gently level off the top. Arrange Gruyère on top, scatter with remaining Parmesan. Bake 10 minutes then
 reduce oven temperature to 365°F / 185°C and bake another 15 to 20 minutes. Soufflé should evenly rise and be slightly
 wobbly. Serve immediately.
 
