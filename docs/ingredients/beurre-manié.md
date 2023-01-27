@@ -11,13 +11,13 @@ tags:
 |:-----------------------: |
 | 5 minutes |
 
-## :salt: Ingredients
-
-### :scales: Ratio
+## :scales: Ratio (Weight)
 
 | :butter: butter | :ear_of_rice: all-purpose flour  |
-|:------:|:------------------:|
-| 1 part | 1 part             |
+|:---------------:|:--------------------------------:|
+| 2               | 1                                |
+
+## :salt: Ingredients
 
 - :butter: some softened butter
 - :ear_of_rice: some all-purpose flour
