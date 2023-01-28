@@ -11,12 +11,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- :candy: 1 cup sugar
-- :corn: 0.5 cup corn syrup
-- :droplet: 0.25 cup water
+- :candy: 1 cup (198 g) sugar
+- :corn: 0.5 cup (156 g) corn syrup
+- :droplet: 0.25 cup (57 g) water
 - :salt: 0.25 tsp salt
-- :peanuts: 1 cup peanuts
-- :butter: 2 Tbsp butter
+- :peanuts: 1 cup (142 g) peanuts
+- :butter: 2 Tbsp (28 g) butter
 - :cup_with_straw: 1 tsp baking soda
 
 ## :cooking: Cookware
@@ -44,8 +44,8 @@ until a small amount of mixture dropped into very cold water separates into hard
 
 ### Step 4
 
-Remove from heat; immediately stir in softened butter and baking soda; pour at once onto the cookie sheet. With two
-forks, lift and pull peanut mixture into a rectangle, about 14x12 inches; cool.
+Remove from heat; immediately stir in softened butter and baking soda; pour at once onto the 13" x 18" rimmed baking
+sheet. With two forks, lift and pull peanut mixture into a rectangle, about 14x12 inches; cool.
 
 ### Step 5
 
