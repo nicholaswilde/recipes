@@ -9,6 +9,16 @@ comments: true
 |:-----------------------: |
 | 55 minutes |
 
+## :scales: Ratios
+
+| :candy: sugar | :corn: corn syrup | :droplet: water | :peanuts: peanuts | :butter: butter |
+|:-------------:|:-----------------:|:---------------:|:-----------------:|:---------------:|
+| 4 parts       | 3 parts           | 1 part          | 3 parts           | 1/2 part        |
+
+| :candy: sugar | :cup_with_straw: baking soda  |
+|:-------------:|:-----------------------------:|
+| 200 g         | 1 tsp                         |
+
 ## :salt: Ingredients
 
 - :candy: 1 cup (198 g) sugar
