@@ -14,12 +14,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1 cup granulated sugar
-- :corn: 0.5 cup cornstarch
+- :candy: 1 cup (198 g) granulated sugar
+- :corn: 0.5 cup (58 g) cornstarch
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 3 cups whole milk
+- :glass_of_milk: 3 cups (681 g) whole milk
 - :egg: 3 egg yolks
-- :peanuts: 0.5 cup [creamy peanut butter][4]
+- :peanuts: 0.5 cup (68 g) [creamy peanut butter][4]
 - :icecream: 2 tsp vanilla
 - :pie: 1 [pie crust][3]
 - :icecream: some whipped topping or homemade [whipped cream][1] (optional)
