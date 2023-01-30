@@ -17,7 +17,7 @@ tags:
 |:----------------------------------:|
 | 3-4 |
 
-- :butter: 1 sticks butter, softened
+- :butter: 1 sticks (113 g) butter, softened
 - :garlic: 1 cloves garlic, minced
 - :seedling: 0.5 scallion, minced
 - :cheese_wedge: 0.5 Tbsp Parmesan
@@ -31,7 +31,7 @@ tags:
 |:----------------------------------:|
 | 6-8 |
 
-- :butter: 2 sticks butter, softened
+- :butter: 2 sticks (227 g) butter, softened
 - :garlic: 2 cloves garlic, minced
 - :seedling: 1 scallion, minced
 - :cheese_wedge: 1 Tbsp Parmesan
