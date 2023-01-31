@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
 ---
-# :cake: Prinsesstårta
+# :cake: Prinsesstårta (Swedish Princess Cake)
 
 ![Prinsesstårta](../../assets/images/prinsesstårta.jpg)
 
