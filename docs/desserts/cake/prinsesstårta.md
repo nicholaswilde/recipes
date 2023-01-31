@@ -4,15 +4,15 @@ tags:
   - dessert
   - cake
 ---
-# Prinsesstårta
+# :cake: Prinsesstårta
 
 ![Prinsesstårta](../../assets/images/prinsesstårta.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 12 to 16 | 44 minutes |
+| 12 to 16 | 4 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Vanilla Custard
 
 - 600 ml whole milk
 - 1 vanilla pod
@@ -21,8 +21,14 @@ tags:
 - 100 g granulated sugar
 - 50 g cornflour
 - 50 g unsalted butter
+
+## :salt: Ingredients - Jam
+
 - 200 g raspberries
 - 175 g jam sugar
+
+## :salt: Ingredients - Sponge
+
 - 2 Tbsp water
 - 4 large eggs
 - 150 g granulated sugar
@@ -30,9 +36,19 @@ tags:
 - 75 g all-purpose flour
 - 1 tsp baking powder
 - 50 g melted unsalted butter
+
+## :salt: Ingredients - Fondant Rose
+
 - 25 g pink fondant
 - some confectioners' sugar
+
+## :salt: Ingredients - Decoration
+
 - 750 ml heavy cream
+- 50 g dark chocolate (36 percent solids), melted
+
+## :salt: Ingredients - Marzipan
+
 - 400 g ground almonds
 - 150 g granulated sugar
 - 250 g confectioners' sugar
@@ -183,10 +199,10 @@ nozzle. Pipe around the base of the cake.
 Spoon the melted chocolate into a small paper piping bag. Snip off the end and pipe a swirl over the top of the cake.
 Top with the fondant rose.
 
-### Step 25
+!!! tip
 
-Tip: The custard, jam, fondant roses and marzipan can all be made the day before, leaving you time to rest up before the
-assembly. If you used store-bought jam and marzipan, we wouldn’t hold it against you.
+  The custard, jam, fondant roses and marzipan can all be made the day before, leaving you time to rest up before the
+  assembly. If you used store-bought jam and marzipan, we wouldn’t hold it against you.
 
 ## :link: Source
 
