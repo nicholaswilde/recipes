@@ -35,9 +35,9 @@ one tablespoon of lemon juice for 30 minutes, then strain through cheesecloth
 
 Boil further to reduce the volume by half will result in an effective homemade liquid pectin.
 
-### Step 3
+!!! info
 
-See [Equivalents & Substitutes][1] for dry to liquid pectin conversion.
+    See [Equivalents & Substitutes][1] for dry to liquid pectin conversion.
 
 ## :link: Source
 
