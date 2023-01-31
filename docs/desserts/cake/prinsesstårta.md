@@ -14,50 +14,50 @@ tags:
 
 ## :salt: Ingredients - Vanilla Custard
 
-- 600 ml whole milk
-- 1 vanilla pod
-- some large bowl
-- 6 egg yolks
-- 100 g granulated sugar
-- 50 g cornflour
-- 50 g unsalted butter
+- :glass_of_milk: 600 ml whole milk
+- :icecream: 1 vanilla pod
+- :egg: 6 egg yolks
+- :candy: 100 g granulated sugar
+- :corn: 50 g cornflour
+- :butter: 50 g unsalted butter
 
 ## :salt: Ingredients - Jam
 
-- 200 g raspberries
-- 175 g jam sugar
+- :strawberry: 200 g raspberries
+- :candy: 175 g jam sugar
 
 ## :salt: Ingredients - Sponge
 
-- 2 Tbsp water
-- 4 large eggs
-- 150 g granulated sugar
-- 75 g cornflour
-- 75 g all-purpose flour
-- 1 tsp baking powder
-- 50 g melted unsalted butter
+- :droplet: 2 Tbsp water
+- :egg: 4 large eggs
+- :candy: 150 g granulated sugar
+- :candy: 75 g cornflour
+- :ear_of_rice: 75 g all-purpose flour
+- :dash: 1 tsp baking powder
+- :butter: 50 g melted unsalted butter
 
 ## :salt: Ingredients - Fondant Rose
 
-- 25 g pink fondant
-- some confectioners' sugar
+- :cake: 25 g pink fondant
+- :candy: some confectioners' sugar
 
 ## :salt: Ingredients - Decoration
 
-- 750 ml heavy cream
-- 50 g dark chocolate (36 percent solids), melted
+- :glass_of_milk: 750 ml heavy cream
+- :chocolate_bar: 50 g dark chocolate (36 percent solids), melted
 
 ## :salt: Ingredients - Marzipan
 
-- 400 g ground almonds
-- 150 g granulated sugar
-- 250 g confectioners' sugar
-- 2 medium eggs
-- 1 tsp almond extract
-- some green food coloring paste
+- :chestnut: 400 g ground almonds
+- :candy: 150 g granulated sugar
+- :candy: 250 g confectioners' sugar
+- :egg: 2 medium eggs
+- :chestnut: 1 tsp almond extract
+- :green_circle: some green food coloring paste
 
 ## :cooking: Cookware
 
+- 1 large bowl
 - 1 pan
 - 1 clingfilm
 - 1 deep saucepan
@@ -201,8 +201,8 @@ Top with the fondant rose.
 
 !!! tip
 
-  The custard, jam, fondant roses and marzipan can all be made the day before, leaving you time to rest up before the
-  assembly. If you used store-bought jam and marzipan, we wouldn’t hold it against you.
+    The custard, jam, fondant roses and marzipan can all be made the day before, leaving you time to rest up before the
+    assembly. If you used store-bought jam and marzipan, we wouldn’t hold it against you.
 
 ## :link: Source
 
