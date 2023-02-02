@@ -53,13 +53,13 @@ tags:
 
 ### Step 1
 
-Make the reduced strawberry puree first, and let cool: Puree 1 pound of rinsed and hulled strawberries. You should have
-a little over 1 cup. Stirring occasionally, simmer the puree over medium-low heat until you’re left with 1/2 cup or
-slightly more (you need 1/2 cup for the cake). This takes at least 25 to 35 minutes, but could take longer depending on
-your pan or how juicy your strawberries were. Allow to cool completely before using in cake batter. I always make the
-reduced puree the day before so it has plenty of time to cool down. I cover and place in the refrigerator overnight.
-Allow it to come back to room temperature before adding to the cake batter. (See Notes for further make-ahead
-instructions.)
+Make the reduced [strawberry puree][1] first, and let cool: Puree 1 pound of rinsed and hulled strawberries. You should
+have a little over 1 cup. Stirring occasionally, simmer the puree over medium-low heat until you’re left with 1/2 cup
+or slightly more (you need 1/2 cup for the cake). This takes at least 25 to 35 minutes, but could take longer depending
+on your pan or how juicy your strawberries were. Allow to cool completely before using in cake batter. I always make
+the reduced puree the day before so it has plenty of time to cool down. I cover and place in the refrigerator
+overnight. Allow it to come back to room temperature before adding to the cake batter. (See Notes for further
+make-ahead instructions.)
 
 ### Step 2
 
@@ -117,3 +117,5 @@ Cover leftover cake tightly and store in the refrigerator for 5 days.
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/strawberry-cake/>
+
+[1]: <../../ingredients/strawberry-purée.md>
