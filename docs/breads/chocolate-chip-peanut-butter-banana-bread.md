@@ -13,7 +13,6 @@ tags:
 
 ## :salt: Ingredients
 
-- some cooking spray
 - :ear_of_rice: 1 cup whole wheat flour
 - :maple_leaf: 0.75 cup [light brown sugar][3]
 - :dash: 1 tsp baking powder
