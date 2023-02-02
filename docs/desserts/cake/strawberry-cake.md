@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Purée
 
-- 454 g strawberries
+- :strawberry: 454 g strawberries
 
 ## :salt: Ingredients - Cake
 
