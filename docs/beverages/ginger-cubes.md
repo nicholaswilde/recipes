@@ -3,7 +3,7 @@ comments: true
 tags:
   - beverage
 ---
-# Ginger Cubes
+# :ice_cube: Ginger Cubes
 
 | :timer_clock: Total Time |
 |:-----------------------: |
