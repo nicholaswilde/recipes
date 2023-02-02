@@ -3,7 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
-# 1-Bowl Carrot Apple Muffins
+# :cupcake: 1-Bowl Carrot Apple Muffins
 
 ![1-Bowl Carrot Apple Muffins](../assets/images/1-bowl-carrot-apple-muffins.jpg)
 
@@ -14,8 +14,8 @@ tags:
 ## :salt: Ingredients
 
 - 1.5 Tbsp flaxseed meal
-- 4 Tbsp water
-- 0.33 cup mashed banana
+- :droplet: 4 Tbsp water
+- :banana: 0.33 cup mashed banana
 - 0.25 cup agave or maple syrup
 - 0.25 cup olive oil
 - 0.5 cup unsweetened applesauce
@@ -23,9 +23,9 @@ tags:
 - 1.5 tsp baking soda
 - 0.5 tsp salt
 - 0.5 tsp cinnamon
-- 0.5 cup almond milk
-- 1 heaping cup grated carrot
-- 0.67 cup oats
+- :glass_of_milk: 0.5 cup almond milk
+- :carrot: 1 heaping cup grated carrot
+- :ear_of_rice: 0.67 cup oats
 - 0.5 cup almond meal
 - 1 heaping cup gluten-free flour blend
 - 0.25 cup walnuts (optional)
