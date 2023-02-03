@@ -15,24 +15,24 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.33 cup vegetable stock
-- 1 Tbsp Shaoxing wine
-- 2 tsp oyster sauce
-- 0.25 tsp salt
-- 0.25 tsp sugar
-- 0.25 tsp sesame oil
-- 1 pinch white pepper
-- 2 Tbsp vegetable oil
-- 4 slices ginger
-- 1 cup sliced mushrooms
-- 1 cup carrot
-- 1 cup celery
-- 1 cup asparagus
-- 1 cup bell pepper
-- 1 cup long hot pepper
-- 3 cloves garlic
-- 2 tsp cornstarch
-- 1 Tbsp water
+- :stew: 0.33 cup vegetable stock
+- :wine_glass: 1 Tbsp Shaoxing wine
+- :oyster: 2 tsp oyster sauce
+- :salt: 0.25 tsp salt
+- :candy: 0.25 tsp sugar
+- :seedling: 0.25 tsp sesame oil
+- :salt: 1 pinch white pepper
+- :oil_drum: 2 Tbsp vegetable oil
+- :sweet_popato: 4 slices ginger
+- :mushroom: 1 cup sliced mushrooms
+- :carrot: 1 cup carrot
+- :leafy_green: 1 cup celery
+- :leafy_green: 1 cup asparagus
+- :green_pepper: 1 cup bell pepper
+- :hot_pepper: 1 cup long hot pepper
+- :garlic: 3 cloves garlic
+- :corn: 2 tsp cornstarch
+- :droplet: 1 Tbsp water
 
 ## :cooking: Cookware
 
