@@ -60,13 +60,13 @@ silicone baking mats and set aside.
 
 ### Step 6
 
-Remove the cookie dough from the refrigerator. Using a 1.5 tablespoon cookie scoop, scoop the cookie dough and drop onto
+Remove the cookie dough from the refrigerator. Using a 3 tablespoon (60 g) cookie scoop, scoop the cookie dough and drop onto
 the prepared baking sheets. Make sure to leave a little room between each ball of cookie dough as they will spread a
 little while they bake.
 
 ### Step 7
 
-Bake in separate batches at 350°F (180°C) for 10 to 12 minutes or until the edges of the cookies are lightly browned
+Bake in separate batches at 350°F (180°C) for 12 to 14 minutes or until the edges of the cookies are lightly browned
 and the top is set. Remove from the oven and cool on the baking sheet for 5 to 10 minutes, then transfer the cookies to
 a wire rack to cool completely.
 
