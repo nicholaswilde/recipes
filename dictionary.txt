@@ -19,6 +19,7 @@
 2B
 2cm
 30cm
+¾
 350ºF
 3A
 3B
@@ -86,6 +87,7 @@ bain-marie
 Bamba
 Banh
 Banoffee
+basmati
 Basmati
 bavaroise
 Bavaroise
@@ -96,6 +98,7 @@ Béchamel
 beefless
 bella
 beurre
+Beurre
 biscotti
 Biscotti
 blondies
@@ -133,6 +136,7 @@ Caprese
 cassola
 Cassola
 catsup
+Ceviche
 chai
 Chai
 chantilly
@@ -144,6 +148,8 @@ Chiave
 Chiboust
 Chickenless
 chile
+chilero
+Chilero
 chiles
 chilis
 chillies
@@ -174,6 +180,7 @@ cooklang
 cooklang.
 Copha
 Corncakes
+costa-rican
 cotija
 countertop
 countertops
@@ -279,6 +286,7 @@ gordon-ramsay
 Goreng
 grandma-beatrice-wilde
 grapeseed
+greaseproof
 greek
 griddled
 Gruyère
@@ -346,6 +354,7 @@ Maitake
 mandoline
 Manicotti
 manie
+Manié
 Margherita
 maria-agresta
 Marnier
@@ -381,6 +390,8 @@ Musir
 Myrn's
 nappage
 Nasi
+Nicoyan
+Nixtamal
 Noël
 Non-Diastatic
 nori
@@ -446,9 +457,11 @@ Portobello
 potato-choux
 pounder
 pourable
+prebaked
 pre-commit
 precut
 preroasted
+Prinsesstårta
 provençale
 Provençale
 prue-leith
@@ -594,15 +607,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Beurre
-Manié
-basmati
-prebaked
-¾
-greaseproof
-Prinsesstårta
-Nixtamal
-Nicoyan
-Ceviche
-chilero
-Chilero
