@@ -1,3 +1,14 @@
 {
+  "ignorePatterns": [
+      {
+        "pattern": "^https://www.freshfoodbites.com/lemon-pepper-parsley-pesto/"
+      },
+      {
+        "pattern": "^https://www.bakepedia.com/montelimar-nougat/"
+      },
+      {
+        "pattern": "^https://www.bluezones.com/recipe/nixtamal-nicoyan-corn-tortillas/"
+      }
+  ],
   "aliveStatusCodes": [200, 206, 403, 429]
 }

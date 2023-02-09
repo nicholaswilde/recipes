@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - trader-joes
 ---
-# Crispy Chicken-less Sliders
+# :hamburger: Crispy Chicken-less Sliders
 
 ![Crispy Chicken-less Sliders](../assets/images/crispy-chicken-less-sliders.png)
 
@@ -61,4 +63,4 @@ Serve Immediately.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/crispy-chicken-less-sliders>
+- Trader Joe's
