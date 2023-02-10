@@ -19,7 +19,7 @@ tags:
 - :onion: 1 onion
 - :garlic: 1 clove garlic
 - :sake: 2 Tbsp Worcestershire sauce
-- :beans: 1 8-oz can cooked black beans
+-  🫘 1 8-oz can cooked black beans
 - :rice: 2 cups cooked long-grain white rice
 - :salt: some salt (optional)
 - :salt: some pepper (optional)
