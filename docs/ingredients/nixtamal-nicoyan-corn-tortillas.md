@@ -16,7 +16,7 @@ tags:
 
 - :corn: 2 cups masa harina
 - :salt: 1 tsp salt
-- :glass_with_straw: 0.25 tsp baking soda
+- :cup_with_straw: 0.25 tsp baking soda
 - :hotsprings: 1.5 cups warm water
 
 ## :cooking: Cookware
