@@ -2,6 +2,7 @@
 comments: true
 tags:
   - sauce
+  - the-blue-zones-kitchen
 ---
 # :hot_pepper: Chilero Hot Sauce
 
@@ -23,7 +24,7 @@ tags:
 - :broccoli: 0.125 head cauliflower
 - :bell_pepper: 0.5 read or green bell peppers
 - :hot_pepper: 0.75 jalapeno peppers
-- :hot_pepper: 1 spicy chili peppers (like habanero)
+- :hot_pepper: 0.5 spicy chili peppers (like habanero)
 - :salt: 0.5 tsp salt
 - :champagne: 3 oz white vinegar
 
@@ -37,7 +38,7 @@ tags:
 - :broccoli: 1 head cauliflower
 - :bell_pepper: 4 read or green bell peppers
 - :hot_pepper: 6 jalapeno peppers
-- :hot_pepper: 8 spicy chili peppers (like habanero)
+- :hot_pepper: 4 spicy chili peppers (like habanero)
 - :salt: 1 Tbsp salt
 - :champagne: 24 oz white vinegar
 
