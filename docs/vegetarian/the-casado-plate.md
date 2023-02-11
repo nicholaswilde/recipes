@@ -42,7 +42,7 @@ Top with corn (optional), sliced avocado (optional), chopped cilantro (optional)
 - The Blue Zones Kitchen
 
 [1]: <../vegetarian/jose-guevara's-gallo-pinto.md>
-[1]: <../sauces-and-dressings/hearts-of-palm-ceviche.md>
-[1]: <../sides/fried-green-plantains.md>
-[1]: <../sauces-and-dressings/chilero-hot-sauce.md>
-[1]: <../ingredients/nixtamal-nicoyan-corn-tortillas.md>
+[2]: <../sauces-and-dressings/hearts-of-palm-ceviche.md>
+[3]: <../sides/fried-green-plantains.md>
+[4]: <../sauces-and-dressings/chilero-hot-sauce.md>
+[5]: <../ingredients/nixtamal-nicoyan-corn-tortillas.md>
