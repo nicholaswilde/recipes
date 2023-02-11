@@ -3,7 +3,7 @@ comments: true
 tags:
   - cookie
   - dessert
-  - blue-zones
+  - the-blue-zones-kitchen
 ---
 # :honey_pot: Honey Cookies (Finikia)
 
@@ -74,4 +74,4 @@ Drizzle with honey, if desired.
 
 ## :link: Source
 
-- Blue Zones
+- The Blue Zones Kitchen
