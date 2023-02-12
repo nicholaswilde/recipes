@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-  - blue-zones-kitchen
+  - the-blue-zones-kitchen
 ---
 # :banana: Fried Green Plantains
 
@@ -49,4 +49,4 @@ Season with salt to taste and serve with refried beans, cashew cream, or chilero
 
 ## :link: Source
 
-- Blue Zones Kitchen
+- The Blue Zones Kitchen
