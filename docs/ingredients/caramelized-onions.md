@@ -44,6 +44,11 @@ the drained onion and cook until light golden brown.
 Add the light brown sugar and the balsamic vinegar. Cook for at least 10 minutes at very low heat. Season with salt and
 pepper. The onions are supposed to be NOT sweet NOT sour.
 
+!!! tip
+
+    Spread the hot onions on a large flat surface, such as a sheet pan and let all of the water evaporate before
+    putting in the freezer to prevent the formation of ice crystals.
+
 ## :link: Source
 
 - <https://chefjeanpierre.com/recipes/caramelized-onions/>
