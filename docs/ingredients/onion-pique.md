@@ -29,7 +29,8 @@ Attach a bay leaf to the cut-side of the onion using 2 or 3 whole dried cloves a
 
 ### Step 3
 
-Add to a pot of stock or milk to cook. Remove, squeeze out the liquid, and discard when the stock or milk is finished.
+Add to a pot of stock or milk to cook for about 20 minutes. Remove, squeeze out the liquid, and discard when the stock
+or milk is finished.
 
 ## :zap: Onion Clouté
 
