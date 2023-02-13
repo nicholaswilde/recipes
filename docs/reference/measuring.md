@@ -224,7 +224,8 @@ $$
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
-| Olive Oil                                       | 1/4 cup           | 50          | 1-/34       |
+| Olive Oil                                             | 1/4 cup           | 50          | 1-/34       |
+| Onion (fresh, diced)                                  | 1 cups            | 142         | 5           |
 | Peanut Butter                                         | 1 cup             | 135         | 4-3/4       |
 | Peanuts (whole, shelled)                              | 1 cup             | 142         | 5           |
 | Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
@@ -275,6 +276,7 @@ $$
 | Teff Flour                                            | 1 cup             | 135         | 4-3/4       |
 | Toasted Almond Flour                                  | 1 cup             | 96          | 3-3/8       |
 | Toffee Chunks                                         | 1 cup             | 156         | 5-1/2       |
+| Tomato Paste                                          | 2 Tbsp            | 29          | 1           |
 | Tubinado Sugar (raw)                                  | 1 cup             | 180         | 6-3/8       |
 | Unbleached Cake Flour                                 | 1 cup             | 120         | 4-1/4       |
 | Vanilla Extract                                       | 1 Tbsp            | 14          | 1/2         |
