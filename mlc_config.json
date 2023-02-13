@@ -11,6 +11,9 @@
       },
       {
         "pattern": "^https://yummynotes.net/adas-polo-recipe/"
+      },
+      {
+        "pattern": "^https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]
