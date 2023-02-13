@@ -7,7 +7,10 @@
         "pattern": "^https://www.bakepedia.com/montelimar-nougat/"
       },
       {
-        "pattern": "^https://www.bluezones.com/recipe/nixtamal-nicoyan-corn-tortillas/"
+        "pattern": "^https://www.bluezones.com/"
+      },
+      {
+        "pattern": "^https://yummynotes.net/adas-polo-recipe/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]
