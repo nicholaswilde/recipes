@@ -37,9 +37,9 @@ tags:
 
 ### Step 1
 
-Mix 3.5 tablespoons (49 g) of unsalted butter and all-purpose flour to make a paste called beurre manie. Chill to firm for 30
-minutes. Heat milk to boil add the onion, star anise, cloves and bay leaf, reduce to simmer for 5 minutes. Remove from
-heat, let cool. Taste test for flavor.
+Mix 3.5 tablespoons (49 g) of unsalted butter and all-purpose flour to make a paste called [beurre manie][1]. Chill to
+firm for 30 minutes. Heat milk to boil add the onion, star anise, cloves and bay leaf to make an [onion pique][2],
+reduce to simmer for 5 minutes. Remove from heat, let cool. Taste test for flavor.
 
 ### Step 2
 
@@ -69,3 +69,6 @@ wobbly. Serve immediately.
 ## :link: Source
 
 - <https://www.bbcgoodfood.com/recipes/classic-cheese-souffle>
+
+[1]: <../ingredients/beurre-manié.md>
+[2]: <../ingredients/onion-pique.md>
