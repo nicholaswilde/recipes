@@ -3,7 +3,7 @@ comments: true
 tags:
   - mother-sauce
   - french
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :glass_of_milk: Béchamel
 
@@ -50,8 +50,8 @@ Season to taste with salt, pepper, and nutmeg.
 ### Step 5
 
 For better consistency, scald the milk before adding it to the roux. For improved flavor, add to the milk before
-scalding thick onion slice (optional), 2 whole cloves (optional), and 1 bay leaf (optional) then cover and let stand for
-15 minutes; remove the cloves and bay leaf, if used, and whisk into the roux.
+scalding thick onion slice (optional), 2 whole cloves (optional), and 1 bay leaf (optional) to make an [onion piquee][3]
+then cover and let stand for 15 minutes; remove the cloves and bay leaf, if used, and whisk into the roux.
 
 ## Recipe Variations
 
@@ -69,3 +69,4 @@ scalding thick onion slice (optional), 2 whole cloves (optional), and 1 bay leaf
 
 [1]: <../../ingredients/roux.md>
 [2]: <../../reference/equivalents-and-substitutes.md#whole-milk>
+[3]: <../../ingredients/onion-pique.md>
