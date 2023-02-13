@@ -50,7 +50,7 @@ Season to taste with salt, pepper, and nutmeg.
 ### Step 5
 
 For better consistency, scald the milk before adding it to the roux. For improved flavor, add to the milk before
-scalding thick onion slice (optional), 2 whole cloves (optional), and 1 bay leaf (optional) to make an [onion piquee][3]
+scalding thick onion slice (optional), 2 whole cloves (optional), and 1 bay leaf (optional) to make an [onion pique][3]
 then cover and let stand for 15 minutes; remove the cloves and bay leaf, if used, and whisk into the roux.
 
 ## Recipe Variations
