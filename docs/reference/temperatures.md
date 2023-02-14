@@ -14,6 +14,6 @@
 | 245-250                       | Firm-Ball Stage   | Caramels                  |
 | 250-265                       | Hard-Ball Stage   | Nougat, marshmallows, gummies, divinity, and rock candy |
 | 270-290                       | Soft-Crack Stage  | Saltwater taffy, butterscotch |
-| 300-310                       | Hard-Crack Stage  | Toffee, nut brittless, lolipops |
+| 300-310                       | Hard-Crack Stage  | Toffee, nut brittles, lollipops |
 
 [1]: <https://www.exploratorium.edu/cooking/candy/sugar-stages.html>
