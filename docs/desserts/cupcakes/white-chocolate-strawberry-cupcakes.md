@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :strawberry: 0.25 cup strawberry puree
+- :strawberry: 0.25 cup [strawberry puree][1]
 - :ear_of_rice: 207 g cake flour
 - :dash: 1 tsp baking powder
 - :cup_with_straw: 0.25 tsp baking soda
@@ -108,3 +108,5 @@ Cover and store leftovers in the refrigerator for up to 5 days.
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/white-chocolate-strawberry-cupcakes/>
+
+[1]: <../../ingredients/strawberry-purée.md>
