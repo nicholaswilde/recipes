@@ -808,6 +808,7 @@ nav:
       - Equivalents & Substitutes: reference/equivalents-and-substitutes.md
       - Measuring: reference/measuring.md
       - Pressure Cooker: reference/pressure-cooker.md
+      - Temperatures: reference/temperatures.md
       - Development: reference/development.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Tags: tags.md
