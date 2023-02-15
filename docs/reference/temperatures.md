@@ -6,7 +6,7 @@
 |-------------------------------|---------------------|-----------------------------|
 | 145-155                       | Reheat temperature  | Set oven temperature to 275 |
 
-## [Sugar Stages][1]
+## :candy: [Sugar Stages][1]
 
 | :thermometer: Temperature °F  | Description       | Notes                     |
 |-------------------------------|-------------------|---------------------------|
