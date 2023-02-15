@@ -13,11 +13,17 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 500 g | 15 minutes |
 
+## :scales: Ratio
+
+| :candy: Sugar | :droplet: Water | :tumbler_glass: Alcohol |
+|---------------|-----------------|-------------------------|
+| 10 part | 10 part | 1 part |
+
 ## :salt: Ingredients
 
 - :candy: 250 g granulated sugar
 - :droplet: 250 g water
-- :tumbler_glass: 20 g dark rum
+- :tumbler_glass: 25 g dark rum
 
 ## :cooking: Cookware
 
@@ -30,9 +36,9 @@ tags:
 In a pot, bring granulated sugar and water to a boil while stirring occasionally. Remove from heat and stir in dark rum.
 Let cool to room temperature.
 
-### Step 2
+!!! tip
 
-Tip: This is known as a simple syrup, which is a sugar syrup made with a 1:1 ratio of sugar to water.
+    This is known as a simple syrup, which is a sugar syrup made with a 1:1 ratio of sugar to water.
 
 ## :link: Source
 
