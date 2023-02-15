@@ -49,13 +49,14 @@ The following may be assumed throughout the site unless otherwise specified
 - `pepper` refers to `black pepper`.
 - `flour` refers to `all-purpose flour`.
 - `vanilla` refers to `vanilla extract`.
-- `heavy cream` is the same as `whipping cream`.
+- `heavy cream` is the same as `whipping` and `double cream`.
 - `stock` is the same as `broth`.
 - `caster`, `white`, and `sugar` is the same as `granulated sugar`.
 - `powdered sugar` is the same as `confectioners' sugar`.
 - `brown sugar` measurements are `packed`
 - Temperatures are in `°F`.
 - Powdered measurements are sifted.
+- Liquid ingredient measurements in `g` are equivalent to `mL`.
 
 ## :gear:&nbsp; Development
 
