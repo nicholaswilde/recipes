@@ -100,6 +100,6 @@ cream on top of the cake scrap to prevent it from melting and sliding around the
 - Dominique Ansel
 
 [1]: <../../ingredients/pastry-dough/chocolate-biscuit.md>
-[2]: <../../ingredients/rum-syrup.md>
+[2]: <../../ingredients/simple-syrup.md>
 [3]: <../../ingredients/fillings/mousse.md>
 [4]: <../../ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md>

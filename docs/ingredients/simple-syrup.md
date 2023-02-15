@@ -5,9 +5,9 @@ tags:
   - syrup
   - dominique-ansel
 ---
-# :maple_leaf: Rum Syrup
+# :maple_leaf: Simple Syrup
 
-![Rum Syrup](../assets/images/rum-syrup.jpg)
+![Rum Syrup](../assets/images/simple-syrup.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -23,7 +23,7 @@ tags:
 
 - :candy: 250 g granulated sugar
 - :droplet: 250 g water
-- :tumbler_glass: 25 g dark rum
+- :tumbler_glass: 25 g alcohol (optional)
 
 ## :cooking: Cookware
 
@@ -33,8 +33,8 @@ tags:
 
 ### Step 1
 
-In a pot, bring granulated sugar and water to a boil while stirring occasionally. Remove from heat and stir in dark rum.
-Let cool to room temperature.
+In a pot, bring granulated sugar and water to a boil while stirring occasionally. Remove from heat and stir in alcohol
+(optoinal) such as dark rum. Let cool to room temperature.
 
 !!! tip
 
