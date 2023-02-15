@@ -24,7 +24,7 @@ comments: true
 
 | Type                | Chocolate Percentage  | Tempering Temperature |
 |---------------------|-----------------------|-----------------------|
-| white               | 20%                   | 109°F (43C)           |
+| white               | 20%                   | 109°F (43°C)           |
 | milk                | 30-40%                | 113°F (45°C)          |
 | semi-sweet (dark)   | 57%                   | 118°F (48-50°C)       |
 | bittersweet (dark)  | 67%                   | 118°F (48-50°C)       |
