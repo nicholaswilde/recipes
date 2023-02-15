@@ -17,7 +17,7 @@ tags:
 
 | :candy: Sugar | :droplet: Water | :tumbler_glass: Alcohol |
 |---------------|-----------------|-------------------------|
-| 10 parts.     | 10 parts        | 1 part                  |
+| 10 parts      | 10 parts        | 1 part                  |
 
 ## :salt: Ingredients
 
