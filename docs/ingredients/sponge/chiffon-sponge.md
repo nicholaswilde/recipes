@@ -75,9 +75,9 @@ Remove from the oven and invert the tube pan over the neck of a wine bottle for 
 thin-bladed flexible spatula to free the cake from the sides and tube of the pan. Turn the cake out onto a serving plate
 to finish cooling completely.
 
-### Step 9
+!!! note
 
-Note: if using a 12 x 8.5 sheet pan, bake for 20 to 30 minutes at 360°F.
+    If using a 12 x 8.5 sheet pan, bake for 20 to 30 minutes at 360°F.
 
 ## :link: Source
 
