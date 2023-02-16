@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :egg: 7 large egg
-- :bowl: 0.5 tsp cream of tartar
+- :rice: 0.5 tsp cream of tartar
 - :candy: 298 g granulated sugar
 - :ear_of_rice: 240 g all-purpose flour
 - :dash: 2.5 tsp baking powder
