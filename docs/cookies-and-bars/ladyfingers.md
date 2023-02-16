@@ -50,4 +50,4 @@ rack, and cool completely. Store in an airtight container.
 
 - Joy of Cooking
 
-[1]: <../ingredients/french-sponge-cake-(biscuit).md>
+[1]: <../ingredients/sponge/french-sponge-cake-(biscuit).md>

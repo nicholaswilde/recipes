@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: French Sponge Cake (Biscuit)
 
-![French Sponge Cake (Biscuit)](../assets/images/french-sponge-cake-(biscuit).jpg)
+![French Sponge Cake (Biscuit)](../../assets/images/french-sponge-cake-(biscuit).jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
