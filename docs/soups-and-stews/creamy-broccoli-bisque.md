@@ -24,9 +24,9 @@ tags:
 - :onion: 1 cup onion
 - :gralic: 4 cloves garlic
 - :herb: 1 tsp thyme
-- :leafy_green: 1 cup celery
-- :carrot: 1 cup carrot
-- :potato: 1 cup potato
+- :leafy_green: 1 cup (100 g) celery
+- :carrot: 1 cup (145 g) carrot
+- :potato: 1 cup (225 g) potato
 - :stew: 4 cups vegetable stock
 - :glass_of_milk: 0.66 cups heavy cream
 - :cheese_wedge: 2.66 oz English cheddar cheese
@@ -45,9 +45,9 @@ tags:
 - :onion: 3 cups onion
 - :gralic: 10 cloves garlic
 - :herb: 1 Tbsp thyme
-- :leafy_green: 3 cups celery
-- :carrot: 3 cups carrots
-- :potato: 3 cups potatoes
+- :leafy_green: 3 cups (300 g) celery
+- :carrot: 3 cups (435 g) carrots
+- :potato: 3 cups (675 g) potatoes
 - :stew: 10 cups vegetable stock
 - :glass_of_milk: 2 cups heavy cream
 - :cheese_wedge: 8 oz English cheddar cheese
@@ -86,6 +86,10 @@ Cook for about 90 minutes or until all vegetables are soft and cooked.
 Using your immersion blender, process the soup until all the ingredients are nice and smooth. Add the heavy cream and
 the English cheddar cheese; adjust the seasoning with salt and pepper. Add the shredded carrots, parsley and the
 reserved florets.
+
+!!! info
+
+    The broccoli can be substituted for cauliflower
 
 ## :link: Source
 
