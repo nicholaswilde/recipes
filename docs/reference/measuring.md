@@ -105,6 +105,7 @@ $$
 | Bread Crumbs (fresh)                                  | 1/4 cup           | 21          | 3/4         |
 | Bread Crumbs (Panko)                                  | 1/4 cup           | 50          | 1-3/4       |
 | Bread Flour                                           | 1 cup             | 120         | 4-1/4       |
+| Broccoli                                              | 1 cup             | 91          | 3.2         |
 | Brown Rice (cooked)                                   | 1 cup             | 170         | 6           |
 | Brown Rice Flour                                      | 1 cup             | 128         | 4-1/2       |
 | Brown Sugar (dark or light, packed)                   | 1 cup             | 213         | 7-1/2       |
@@ -123,6 +124,7 @@ $$
 | Carrots (grated)                                      | 1 cup             | 99          | 3-1/2       |
 | Cashews (chopped)                                     | 1 cup             | 113         | 4           |
 | Cashews (whole)                                       | 1 cup             | 113         | 4           |
+| Cauliflower                                           | 1 cup             | 100         | 3.5         |
 | Celery (diced)                                        | 1 cup             | 142         | 5           |
 | Cheese (feta)                                         | 1/2 cup           | 57          | 2           |
 | Cheese (grated cheddar, jack, mozzarella or Swiss)    | 1 cup             | 113         | 4           |
