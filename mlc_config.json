@@ -14,6 +14,9 @@
       },
       {
         "pattern": "^https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise"
+      },
+      {
+        "pattern": "^https://hellskitchenrecipes.com/gordon-ramsay-tomato-soup/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]
