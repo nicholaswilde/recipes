@@ -17,8 +17,8 @@ comments: true
 - :broccoli: 1 head broccoli
 - :potato: 1 large baking potato
 - :stew: 3.5 cups [vegetable broth][1]
-- :glass_of_milk: 1 cup milk
-- :cheese_wedge: 2.5 cups cheddar cheese
+- :glass_of_milk: 1 cup (227 g) milk
+- :cheese_wedge: 2.5 cups (283 g) cheddar cheese
 - :salt: some salt
 - :salt: some pepper
 
