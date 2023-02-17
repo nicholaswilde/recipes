@@ -2,27 +2,27 @@
 
 A table of fruits and vegetables and when they are in season.
 
-| Food              | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov |
-|-------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Apples            |  X  |     |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-| Asparagus         |     |     |     |     |  X  |  X  |     |     |     |     |     |
-| Beet Greens       |     |     |     |     |  X  |  X  |  X  |  X  |  X  |     |     |
-| Beets             |  X  |  X  |     |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
+| Food              | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
+|-------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Apples            |  X  |     |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+| Asparagus         |     |     |     |     |  X  |  X  |     |     |     |     |     |     |
+| Beet Greens       |     |     |     |     |  X  |  X  |  X  |  X  |  X  |     |     |     |
+| Beets             |  X  |  X  |     |     |     |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 | Blackberries      |     |     |     |     |     |     |     |  X  |  X  |     |     |
 | Blueberries       |     |     |     |     |     |     |  X  |  X  |  X  |     |     |
 | Broccoli          |     |     |     |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
 | Brussels Sprouts  |     |     |     |     |     |     |     |     |  X  |  X  |  X  |
-| Cabbage           |  X  |  X  |  X  |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
-| Cantaloupe        |     |     |     |     |     |     |     |  X  |  X  |     |     |
-| Carrots           |     |  X  |  X  |  X  |     |     |  X  |  X  |  X  |  X  |  X  |
+| Cabbage           |  X  |  X  |  X  |     |     |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+| Cantaloupe        |     |     |     |     |     |     |     |  X  |  X  |     |     |     |
+| Carrots           |     |  X  |  X  |  X  |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
 | Cauliflower       |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
 | Celery            |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
 | Cherries          |     |     |     |     |     |     |  X  |     |     |     |     |
-| Collard Greens    |     |     |     |     |     |     |  X  |  X  |  X  |  X  |  X  |
+| Collard Greens    |     |     |     |     |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
 | Corn              |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
 | Cucumbers         |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
 | Currants          |     |     |     |     |     |     |     |  X  |     |     |     |
-| Dried Beans       |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+| Dried Beans       |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 | Eggplant          |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |
 | Garlic            |     |     |     |     |     |  X  |  X  |  X  |  X  |  X  |  X  |
 | Grapes            |     |     |     |     |     |     |     |  X  |  X  |  X  |     |
