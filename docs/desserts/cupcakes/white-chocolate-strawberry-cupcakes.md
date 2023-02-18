@@ -28,6 +28,7 @@ tags:
 
 ## :salt: Ingredients - Frosting
 
+- :strawberry: 25 g freeze-dried strawberries
 - :chocolate_bar: 170 g white chocolate
 - :butter: 230 g unsalted butter
 - :candy: 240 g confectioners' sugar
@@ -44,7 +45,6 @@ tags:
 - 1 rubber spatula
 - 1 double boiler
 - 1 blender or food processor
-- 25 freeze-dried strawberries
 - 1 Wilton 8B piping tip
 
 ## :pencil: Instructions - Cake
