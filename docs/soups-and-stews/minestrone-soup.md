@@ -91,9 +91,13 @@ Add the cavatelli pasta, or any small pasta, basil and cook for another 15 minut
 
 ### Step 6
 
-Add the cannellini beans and the chiffonade escarole lettuce or green leaves.
+Add the cannellini beans and the chiffonade escarole lettuce or spinach.
 
 ### Step 7
+
+Thin the pesto with a little bit of olive oil so the pesto is liquid.
+
+### Step 8
 
 Add the pesto and Parmesan as a decoration just before serving.
 
