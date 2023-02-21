@@ -8,7 +8,7 @@ comments: true
 | :thermometer: Temperature °F  | Description         | Notes                       |
 |-------------------------------|---------------------|-----------------------------|
 | 145-155                       | Reheat temperature  | Set oven temperature to 275 |
-| 365                           | Oil sauteé          | Mushrooms, onion, etc.      |
+| 365                           | Oil sautée          | Mushrooms, onion, etc.      |
 | 365                           | Oil fry             | Onion rings                 |
 
 ## :candy: [Sugar Stages][1]
