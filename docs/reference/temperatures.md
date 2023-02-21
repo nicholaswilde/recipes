@@ -5,11 +5,13 @@ comments: true
 
 ## Miscellaneous
 
-| :thermometer: Temperature °F  | Description         | Notes                       |
-|-------------------------------|---------------------|-----------------------------|
-| 145-155                       | Reheat temperature  | Set oven temperature to 275 |
-| 365                           | Oil sauté           | Mushrooms, onion, etc.      |
-| 365                           | Oil fry             | Onion rings                 |
+| :thermometer: Temperature °F  | Description             | Notes                       |
+|-------------------------------|-------------------------|-----------------------------|
+| 145-155                       | Reheat temperature      | Set oven temperature to 275 |
+| 350                           | Butter burns            | -                           |
+| 365                           | Oil sauté               | Mushrooms, onion, etc.      |
+| 365                           | Oil fry                 | Onion rings                 |
+| 450                           | Clarified butter burns  | -                           |
 
 ## :candy: [Sugar Stages][1]
 
