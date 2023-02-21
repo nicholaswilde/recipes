@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :fallen_leaf: [Seasons][1]
 
 A table of fruits and vegetables and when they are in season.
