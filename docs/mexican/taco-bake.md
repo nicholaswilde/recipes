@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - mexican
+  - tacos
 ---
-# Taco Bake
+# :taco: Taco Bake
 
 ![Taco Bake](../assets/images/taco-bake.jpg)
 
@@ -11,19 +14,19 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 tsp taco seasoning
-- 0.5 tsp oregano
-- 1 tsp cumin
-- 1 small onion
-- 2 cloves minced garlic
-- some olive oil
-- 2.5 cups cooked lentils
-- 3 Tbsp tomato paste
-- 2 Tbsp hot sauce
-- 12 hard taco shells
-- some pepper jack cheese
-- some shredded lettuce
-- some cilantro
+- :taco: 2 tsp [taco seasoning][1]
+- :herb: 0.5 tsp oregano
+- :custard: 1 tsp cumin
+- :onion: 1 small onion
+- :garlic: 2 cloves minced garlic
+- :olive: some olive oil
+- :curry: 2.5 cups cooked lentils
+- :tomato: 3 Tbsp tomato paste
+- :hot_pepper: 2 Tbsp hot sauce
+- :taco: 12 hard taco shells
+- :cheese_wedge: some pepper jack cheese
+- :leafy_green: some shredded lettuce
+- :herb: some cilantro
 
 ## :cooking: Cookware
 
@@ -52,3 +55,5 @@ Fill hard taco shells with lentil mixture and top with shredded pepper jack chee
 ### Step 5
 
 Bake 10 to 15 minutes at 400°F. Top with shredded lettuce, cilantro, and favorite topping.
+
+[1]: <../ingredients/seasonings/taco-seasoning.md>
