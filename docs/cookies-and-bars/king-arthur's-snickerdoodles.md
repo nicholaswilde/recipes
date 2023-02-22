@@ -70,6 +70,6 @@ rack to cool completely.
 - The King Arthur Baking Company All-Purpose Baker's Companion
 
 [1]: <../reference/equivalents-and-substitutes.md#cream-of-tartar>
-[2]: <../ingredients/cinnamon-sugar.md>
+[2]: <../ingredients/seasonings/cinnamon-sugar.md>
 [3]: <../reference/equivalents-and-substitutes.md#vanilla>
 [4]: <../reference/equivalents-and-substitutes.md#vegetable-shortening>
