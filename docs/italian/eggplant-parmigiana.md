@@ -25,7 +25,7 @@ tags:
 - :droplet: 1 Tbsp water
 - :salt: 1 pinch salt
 - :bread: 1.25 cups dried plain fine bread crumbs
-- :herb: 1 Tbsp Italian seasoning
+- :herb: 1 Tbsp [Italian seasoning][1]
 - :salt: 0.5 tsp salt
 - :carrot: 0.5 cup vegetable oil
 - :eggplant: 3 medium eggplant
@@ -95,3 +95,5 @@ into squares and serve warm.
 
 - <https://www.saveur.com/best-ever-eggplant-parmigiana/>
 - <https://www.thekitchn.com/eggplant-parmesan-recipe-reviews-23048190>
+
+[1]: <../ingredients/seasonings/italian-seasoning.md>

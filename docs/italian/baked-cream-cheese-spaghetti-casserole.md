@@ -17,7 +17,7 @@ tags:
 - 1 28-oz jar [marinara][1]
 - :spaghetti: 1 12-oz pkg spaghetti
 - :cheese_wedge: 8 oz cream cheese
-- :herb: 1 tsp Italian seasoning
+- :herb: 1 tsp [Italian seasoning][2]
 - :garlic: 1 clove garlic
 - :cheese_wedge: 0.5 cup grated Parmesan
 
@@ -50,3 +50,4 @@ over pasta.
 Top with grated Parmesan and bake for 30 minutes.
 
 [1]: <../sauces-and-dressings/marinara-sauce.md>
+[2]: <../ingredients/seasonings/italian-seasoning.md>

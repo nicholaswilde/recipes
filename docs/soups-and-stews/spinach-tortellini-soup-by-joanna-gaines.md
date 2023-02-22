@@ -16,7 +16,7 @@ comments: true
 - :garlic: 1 Tbsp garlic
 - :stew: 6 cups [vegetable broth][1]
 - :tomato: 1 can fire-roasted tomatoes
-- :herb: 0.5 tsp Italian seasoning
+- :herb: 0.5 tsp [Italian seasoning][2]
 - :spaghetti: 1 9-oz pkg tortellini
 - :potato: 1 can cannellini beans
 - :leafy_green: 6 cups spinach
@@ -64,3 +64,4 @@ thaw before reheating.
 - <https://food52.com/recipes/82976-spinach-tortellini-soup-recipe-joanna-gaines>
 
 [1]: <../ingredients/vegetable-broth.md>
+[2]: <../ingredients/seasonings/italian-seasoning.md>

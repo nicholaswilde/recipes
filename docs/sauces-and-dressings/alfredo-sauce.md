@@ -17,7 +17,7 @@ tags:
 - :butter: 0.5 cup butter
 - :icecream: 1.5 cups heavy whipping cream
 - :garlic: 2 tsp garlic
-- :herb: 0.5 tsp Italian seasoning
+- :herb: 0.5 tsp [Italian seasoning][1]
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
 - :cheese_wedge: 2 cups Parmesan
@@ -51,3 +51,5 @@ Serve immediately.
 ## :link: Source
 
 - <https://thesaltymarshmallow.com/best-homemade-alfredo-sauce/>
+
+[1]: <../ingredients/seasonings/italian-seasoning.md>

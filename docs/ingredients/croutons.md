@@ -15,7 +15,7 @@ tags:
 
 - :olive: 0.25 cup olive oil
 - :baguette_bread: 1 loaf bread
-- :herb: 2 tsp Italian seasoning
+- :herb: 2 tsp [Italian seasoning][1]
 - :garlic: 1 tsp garlic powder
 - :salt: 0.75 tsp salt
 - :salt: 0.5 tsp pepper
@@ -54,3 +54,5 @@ Remove from oven, and let cool completely. Use immediately, or store in an air-t
 ## :link: Source
 
 - <https://www.gimmesomeoven.com/how-to-make-homemade-croutons/>
+
+[1]: <./seasonings/italian-seasoning.md>
