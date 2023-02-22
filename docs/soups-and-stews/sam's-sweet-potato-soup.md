@@ -51,4 +51,4 @@ Ladle soup into large bowls and serve with crusty bread for dipping.
 - Trader Joe's
 
 [1]: <../ingredients/vegetable-broth.md>
-[2]: <../ingredients/taco-seasoning.md>
+[2]: <../ingredients/seasonings/taco-seasoning.md>
