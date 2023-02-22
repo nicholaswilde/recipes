@@ -16,7 +16,7 @@ comments: true
 - :butter: 6 Tbsp butter
 - :cheese_wedge: 1 cups Parmesan
 - :bread: 0.25 cup panko breadcrumbs
-- :herb: 1.5 Tbsp TJ's Herbes de Provence
+- :herb: 1.5 Tbsp TJ's [Herbes de Provence][1]
 - :salt: 1 tsp salt
 - :salt: 0.25 tsp pepper
 - :herb: 1 Tbsp rosemary
@@ -63,3 +63,5 @@ Let cool 10 minutes before sprinkling with fresh rosemary to serve.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/crispy-herbes-de-provence-potatoes>
+
+[1]: <../ingredients/seasonings/herbes-de-provence.md>
