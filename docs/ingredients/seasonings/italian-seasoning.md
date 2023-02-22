@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: Italian Seasoning
 
-![Italian Seasoning](../assets/images/italian-seasoning.jpg)
+![Italian Seasoning](../../assets/images/italian-seasoning.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -402,6 +402,8 @@ nav:
           - Fruit Glaze (Nappage): ingredients/post-baking-glazes/fruit-glaze-(nappage).md
           - Lemon Glaze: ingredients/post-baking-glazes/lemon-glaze.md
           - Milk Glaze: ingredients/post-baking-glazes/milk-glaze.md
+      - Seasonings:
+           - Italian Seasoning: ingredients/seasonings/italian-seasoning.md
       - Sponge:
           - Angel Food Cake: ingredients/sponge/angel-food-cake.md
           - Chiffon Sponge: ingredients/sponge/chiffon-sponge.md
@@ -448,7 +450,6 @@ nav:
       - Herbes de Provence: ingredients/herbes-de-provence.md
       - Honey Whipped Cream: ingredients/honey-whipped-cream.md
       - Ice Cream Cones: ingredients/ice-cream-cones.md
-      - Italian Seasoning: ingredients/italian-seasoning.md
       - Jean Pierre's Vegetable Stock: ingredients/jean-pierre's-vegetable-stock.md
       - Lemon Curd: ingredients/lemon-curd.md
       - Mirepoix: ingredients/mirepoix.md
