@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - ingredients
+  - seasoning
 ---
+
 # :herb: Herbes de Provence
 
-![Herbes de Provence](../assets/images/herbes-de-provence.png)
+![Herbes de Provence](../../assets/images/herbes-de-provence.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -38,6 +42,7 @@ Grind the fennel seeds and rosemary in a spice grinder. Pour into a mixing bowl.
 Store in an airtight container. Use to season meats, chicken, fish, salads, vegetables, soups, and stews.
 
 !!! note
+
     Certain herbs are known to pair well with particular foods: rosemary with lamb, tarragon with chicken, basil with
     tomatoes, and fennel with fish so it is best to keep these combinations in mind when mixing your herbs. You might
     want to try making separate batches, each with different ratios of herbs for use in various recipes. Just be sure
