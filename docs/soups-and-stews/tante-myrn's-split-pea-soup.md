@@ -79,4 +79,4 @@ Enjoy!
 
 - Tante Myrna Seccia
 
-[1]: <../ingredients/celery-salt.md>
+[1]: <../ingredients/seasonings/celery-salt.md>
