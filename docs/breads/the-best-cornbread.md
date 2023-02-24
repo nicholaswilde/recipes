@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients - Cornbread
 
-- :corn: 0.5 cup cornmeal
-- :ear_of_rice: 1.5 cup all-purpose flour
-- :candy: 0.67 cup granulated sugar
+- :corn: 0.5 cup (69 g) cornmeal
+- :ear_of_rice: 1.5 cup (180 g) all-purpose flour
+- :candy: 0.67 cup (132 g) granulated sugar
 - :dash: 1 Tbsp baking powder
 - :salt: 0.5 tsp salt
-- :oil_drum: 0.33 cup oil
-- :butter: 3 Tbsp butter, melted
+- :oil_drum: 0.33 cup (66 g) vegetable oil
+- :butter: 3 Tbsp (42 g) butter, melted
 - :egg: 2 large eggs, beaten
-- :glass_of_milk: 1.25 cup milk
+- :glass_of_milk: 1.25 cup (284 g) milk
 
 ## :salt: Ingredients - Honey Butter
 
