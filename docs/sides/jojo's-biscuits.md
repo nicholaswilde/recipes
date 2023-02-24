@@ -11,13 +11,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4 cups self-rising flour
+- :ear_of_rice: 4 cups (480 g) self-rising flour
 - :dash: 2 Tbsp baking powder
 - :cup_with_straw: 1 tsp baking soda
-- :butter: 3 sticks salted butter
+- :butter: 3 sticks (339 g) salted butter
 - :egg: 2 large eggs
-- :glass_of_milk: 1.5 cups [buttermilk][1]
-- :strawberry: some [strawberry jam][2]
+- :glass_of_milk: 1.5 cups (341 g) [buttermilk][1]
+- :strawberry: some [strawberry jam][2] (optional)
 
 ## :cooking: Cookware
 
