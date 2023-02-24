@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4 cups flour
+- :ear_of_rice: 4 cups self-rising flour
 - :dash: 2 Tbsp baking powder
 - :cup_with_straw: 1 tsp baking soda
 - :butter: 3 sticks salted butter
@@ -33,8 +33,9 @@ comments: true
 
 ### Step 1
 
-In a large bowl, whisk together the flour, baking powder, and baking soda. Add the salted butter cut into 1/2-inch
-pieces and use a pastry blender to cut the butter into the flour until the pieces are even and about the size of peas.
+In a large bowl, whisk together the self-rising flour, baking powder, and baking soda. Add the salted butter cut into
+1/2-inch pieces and use a pastry blender to cut the butter into the flour until the pieces are even and about the
+size of peas.
 
 ### Step 2
 
