@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+  - minimalist-baker
 ---
 # Peanut Butter Overnight Oats
 
