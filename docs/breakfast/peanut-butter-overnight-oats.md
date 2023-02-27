@@ -13,12 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.5 cup almond milk
-- 0.75 Tbsp chia seeds
-- 2 Tbsp [peanut butter][1]
-- 0.25 tsp vanilla
-- 1 Tbsp maple syrup
-- 0.5 cup rolled oats
+| :fork_and_knife_with_plate: Serves  |
+|:-----------------------------------:|
+| 4                                   |
+
+- :glass_of_milk: 2 cups (454 g) almond milk
+- :seedling: 3 Tbsp chia seeds
+- :peanuts: 0.5 cups (68 g) [peanut butter][1]
+- :icecream: 1 tsp vanilla
+- :maple_leaf: 4 Tbsp (78 g) maple syrup
+- :ear_of_rice: 2 cups (198 g) rolled oats
+
+| :fork_and_knife_with_plate: Serves  |
+|:-----------------------------------:|
+| 1                                   |
+
+- :glass_of_milk: 0.5 cup (113 g) almond milk
+- :seedling: 0.75 Tbsp chia seeds
+- :peanuts: 2 Tbsp (17 g) [peanut butter][1]
+- :icecream: 0.25 tsp vanilla
+- :maple_leaf: 1 Tbsp (20 g) maple syrup
+- :ear_of_rice: 0.5 cup (50g) rolled oats
 
 ## :cooking: Cookware
 
