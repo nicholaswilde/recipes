@@ -18,7 +18,7 @@ tags:
 - :salt: some salt
 - :garlic: 1 clove garlic
 - :herb: 1 sprig rosemary
-- :hot_pepper: 1 chilli (optional)
+- :hot_pepper: 1 chili (optional)
 - :olive: some olive oil
 - :tomato: 0.5 14-oz can chopped tomatoes
 - :spaghetti: 200 g short pasta (ditalini, mista, or rombi)
@@ -40,7 +40,7 @@ skip to next step.
 ### Step 2
 
 In another saucepan, gently heat a smashed garlic, a sprig of rosemary (minus the twigs, or remove them before adding
-the chickpeas) and the chilli (optional) in a few tablespoons of olive oil. When the garlic begins to get fragrant and
+the chickpeas) and the chili (optional) in a few tablespoons of olive oil. When the garlic begins to get fragrant and
 soften, perhaps even slightly color, add the chopped tomatoes and let sizzle for a few minutes.
 
 ### Step 3
