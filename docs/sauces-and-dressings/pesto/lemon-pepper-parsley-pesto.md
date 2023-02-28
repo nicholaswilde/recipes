@@ -2,10 +2,11 @@
 comments: true
 tags:
   - sauce
+  - pesto
 ---
 # :herb: Lemon-Pepper Parsley Pesto
 
-![Lemon-Pepper Parsley Pesto](../assets/images/lemon-pepper-parsley-pesto.jpg)
+![Lemon-Pepper Parsley Pesto](../../assets/images/lemon-pepper-parsley-pesto.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
