@@ -57,4 +57,4 @@ Toss or tip with [Jalapeño Lime Pesto][1].
 
 - Magnolia
 
-[1]: <../sauces-and-dressings/jalapeño-lime-pesto.md>
+[1]: <../sauces-and-dressings/pesto/jalapeño-lime-pesto.md>

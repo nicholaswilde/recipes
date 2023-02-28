@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Jalapeño Lime Pesto
 
-![Jalapeño Lime Pesto](../assets/images/jalapeño-lime-pesto.jpg)
+![Jalapeño Lime Pesto](../../assets/images/jalapeño-lime-pesto.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
