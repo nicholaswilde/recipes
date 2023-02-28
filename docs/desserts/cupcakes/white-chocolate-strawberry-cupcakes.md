@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :strawberry: 0.25 cup [strawberry puree][1]
+- :strawberry: 0.25 cup [strawberry purée][1]
 - :ear_of_rice: 207 g cake flour
 - :dash: 1 tsp baking powder
 - :cup_with_straw: 0.25 tsp baking soda
@@ -51,7 +51,8 @@ tags:
 
 ### Step 1
 
-Make the reduced strawberry puree and allow it to cool completely.
+Make the reduced 1/2 cup of [strawberry purée][1] by simmering 1/2 lb (227 g) of strawberries on low to medium heat
+for 20 minutes, or until you have a half of cup. Allow it to cool completely.
 
 ### Step 2
 
