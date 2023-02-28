@@ -4,10 +4,11 @@ tags:
   - sauce
   - italian
   - cooks-illustrated
+  - pesto
 ---
 # :herb: Cook's Country Perfect Pesto
 
-![Cook's Country Perfect Pesto](../assets/images/cook's-country-perfect-pesto.jpg)
+![Cook's Country Perfect Pesto](../../assets/images/cook's-country-perfect-pesto.jpg)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

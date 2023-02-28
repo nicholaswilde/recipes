@@ -43,5 +43,5 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 
 - <https://minimalistbaker.com/vegan-ricotta-sun-dried-tomato-pesto-salad/>
 
-[1]: <../sauces-and-dressings/cook's-country-perfect-pesto.md>
+[1]: <../sauces-and-dressings/pesto/cook's-country-perfect-pesto.md>
 [2]: <../sauces-and-dressings/whipped-almond-ricotta.md>
