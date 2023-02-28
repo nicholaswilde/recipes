@@ -77,4 +77,4 @@ Sprinkle with remaining half Parmesan cheese. Serve hot.
 
 - <https://ifoodreal.com/healthy-pasta/>
 
-[1]: <../sauces-and-dressings/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
