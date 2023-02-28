@@ -4,7 +4,7 @@ tags:
   - breakfast
   - minimalist-baker
 ---
-# Peanut Butter Overnight Oats
+# :peanuts: Peanut Butter Overnight Oats
 
 ![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg)
 
