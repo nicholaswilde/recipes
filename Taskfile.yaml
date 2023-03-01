@@ -8,6 +8,7 @@ vars:
   PORT: 8000
 
 tasks:
+
   clean:
     desc: Clean markdown files from cook dir
     cmds:
@@ -16,13 +17,12 @@ tasks:
     desc: Install dependencies
     cmds:
       - npm install --location=global spellchecker-cli
-  docker-serve:
-    desc: Serve an mkdocs server using Docker
+  docker-update:
+    desc: Update docker images
     cmds:
-      - >-
-        docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
-        --platform linux/amd64 squidfunk/mkdocs-material serve
-        --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
+      - docker image pull squidfunk/mkdocs-material
+      - docker image pull 06kellyjac/markdownlint-cli
+      - docker image pull ghcr.io/tcort/markdown-link-check:stable
   linkcheck:
     desc: Check for dead links
     cmds:
