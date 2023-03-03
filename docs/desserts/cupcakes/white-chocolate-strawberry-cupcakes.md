@@ -106,6 +106,11 @@ in the center.
 
 Cover and store leftovers in the refrigerator for up to 5 days.
 
+!!! tip
+
+    If desired, add a drop or 2 of pink or red food coloring to brighten the color of the cupcakes and/or frosting.
+    I added 1 drop of "dusty rose" gel food coloring to the cupcake batter and to the frosting.
+
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/white-chocolate-strawberry-cupcakes/>
