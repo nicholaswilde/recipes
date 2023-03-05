@@ -22,6 +22,7 @@ tags:
 - :egg: 1 large egg
 - :icecream: 2 tsp vanilla
 - :chestnut: 0.5 tsp almond extract
+- :crown: some royal icing (optional)
 
 ## :cooking: Cookware
 
@@ -79,7 +80,7 @@ for 5 minutes then transfer to a wire rack to cool completely before decorating.
 
 ### Step 8
 
-Decorate the cooled cookies with royal icing or easy cookie icing. Feel free to tint either icing with gel food
+Decorate the cooled cookies with [royal icing][1] or easy cookie icing. Feel free to tint either icing with gel food
 coloring. See post above for recommended decorating tools. No need to cover the decorated cookies as you wait for the
 icing to set. If it’s helpful, decorate the cookies directly on a baking sheet so you can stick the entire baking
 sheet in the refrigerator to help speed up the icing setting.
@@ -93,3 +94,5 @@ For longer storage, cover and refrigerate for up to 10 days.
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/best-sugar-cookies/>
+
+[1]: <../ingredients/post-baking-glazes/royal-icing.md>
