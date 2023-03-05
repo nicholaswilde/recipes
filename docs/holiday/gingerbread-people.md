@@ -50,5 +50,5 @@ While they are still warm, spread evenly with [lemon glaze][2].
 
 Cool before frosting with [Royal icing][1].
 
-[1]: <../ingredients/royal-icing.md>
+[1]: <../ingredients/post-baking-glazes/royal-icing.md>
 [2]: <../ingredients/post-baking-glazes/lemon-glaze.md>

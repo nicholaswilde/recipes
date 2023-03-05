@@ -6,7 +6,7 @@ tags:
 ---
 # :crown: Royal Icing
 
-![Royal Icing](../assets/images/royal-icing.png)
+![Royal Icing](../../assets/images/royal-icing.png)
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
