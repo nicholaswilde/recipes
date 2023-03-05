@@ -68,4 +68,4 @@ add up to two teaspoons. For modeling please let it set overnight and allow the 
 
 ## :link: Source
 
-- <https://www.theshortcakes.com/single-post/2015/11/05/dkf-danettes-kosher-marshmallow-creme-fondant>
+- The Short Cakes
