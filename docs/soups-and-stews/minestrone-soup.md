@@ -4,7 +4,7 @@ tags:
   - soup
   - jean-pierre
 ---
-# Minestrone Soup
+# :stew: Minestrone Soup
 
 ![Minestrone Soup](../assets/images/minestrone-soup.jpg)
 
