@@ -6,7 +6,7 @@ tags:
 ---
 # :burrito: Vegetarian Egg Rolls
 
-![Vegetarian Egg Rolls](../assets/images/vegetarian-egg-rolls.png)
+![Vegetarian Egg Rolls](../assets/images/vegetarian-egg-rolls.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :ramen: Cool & Spicy Noodle Salad
 
-![Cool and Spicy Noodle Salad](../assets/images/cool-and-spicy-noodle-salad.png)
+![Cool and Spicy Noodle Salad](../assets/images/cool-and-spicy-noodle-salad.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

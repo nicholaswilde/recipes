@@ -6,7 +6,7 @@ tags:
 ---
 # :coconut: Coconut Curried Vegetables with Rice
 
-![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.jpg)
+![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

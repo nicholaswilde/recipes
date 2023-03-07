@@ -6,7 +6,7 @@ tags:
 ---
 # :curry: Noodle-Free Pad Thai
 
-![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg)
+![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

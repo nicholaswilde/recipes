@@ -6,7 +6,7 @@ tags:
 ---
 # :orange_circle: Orange Honey Tofu
 
-![Orange Honey Tofu](../assets/images/orange-honey-tofu.jpg)
+![Orange Honey Tofu](../assets/images/orange-honey-tofu.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 
-![Crispy Peanut Tofu & Cauliflower Rice Stir-Fry](../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg)
+![Crispy Peanut Tofu & Cauliflower Rice Stir-Fry][2]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -102,3 +102,4 @@ Optionally, vegetables such as thinly sliced baby bok choy (optional) may be add
 - <https://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-stir-fry/>
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg>

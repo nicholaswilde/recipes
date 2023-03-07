@@ -7,7 +7,7 @@ tags:
 ---
 # Everyday Chinese Vegetable Stir-Fry
 
-![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg)
+![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

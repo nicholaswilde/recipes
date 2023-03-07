@@ -7,7 +7,7 @@ tags:
 ---
 # :rice: Simple Fried Rice
 
-![Simple Fried Rice](../assets/images/simple-fried-rice.jpg)
+![Simple Fried Rice](../assets/images/simple-fried-rice.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

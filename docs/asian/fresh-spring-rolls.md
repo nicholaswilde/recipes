@@ -7,7 +7,7 @@ tags:
 ---
 # :burrito: Fresh Spring Rolls
 
-![Fresh Spring Rolls](../assets/images/fresh-spring-rolls.png)
+![Fresh Spring Rolls](../assets/images/fresh-spring-rolls.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

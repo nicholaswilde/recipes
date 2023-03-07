@@ -8,7 +8,7 @@ tags:
 ---
 # :sandwich: Banh Mi Sandwich
 
-![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.jpg)
+![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
