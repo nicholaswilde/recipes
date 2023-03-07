@@ -5,7 +5,7 @@ tags:
 ---
 # :banana: Best-Ever Banana Bread
 
-![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.jpg)
+![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

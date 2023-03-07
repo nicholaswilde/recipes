@@ -5,7 +5,7 @@ tags:
 ---
 # :jack_o_lantern: Pumpkin Bread
 
-![Pumpkin Bread](../assets/images/pumpkin-bread.jpg)
+![Pumpkin Bread](../assets/images/pumpkin-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

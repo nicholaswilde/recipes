@@ -5,7 +5,7 @@ tags:
 ---
 # :lemon: Lemon Bread
 
-![Lemon Bread](../assets/images/lemon-bread.png)
+![Lemon Bread](../assets/images/lemon-bread.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

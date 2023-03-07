@@ -6,7 +6,7 @@ tags:
 ---
 # :bagel: Pain Aux Raisins
 
-![Pain Aux Raisins](../assets/images/pain-aux-raisins.png)
+![Pain Aux Raisins](../assets/images/pain-aux-raisins.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

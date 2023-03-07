@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Delicious Zucchini Bread
 
-![Delicious Zucchini Bread](../assets/images/delicious-zucchini-bread.jpg)
+![Delicious Zucchini Bread](../assets/images/delicious-zucchini-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

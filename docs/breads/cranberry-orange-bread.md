@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Cranberry Orange Bread
 
-![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.jpg)
+![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :bread: Texas Roadhouse Rolls
 
-![Texas Roadhouse Rolls](../assets/images/texas-roadhouse-rolls.jpg)
+![Texas Roadhouse Rolls](../assets/images/texas-roadhouse-rolls.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

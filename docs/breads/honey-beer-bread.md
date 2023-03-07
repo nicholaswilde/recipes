@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Honey Beer Bread
 
-![Honey Beer Bread](../assets/images/honey-beer-bread.jpg)
+![Honey Beer Bread](../assets/images/honey-beer-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

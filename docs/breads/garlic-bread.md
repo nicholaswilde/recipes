@@ -5,7 +5,7 @@ tags:
 ---
 # :baguette_bread: Garlic Bread
 
-![Garlic Bread](../assets/images/garlic-bread.jpg)
+![Garlic Bread](../assets/images/garlic-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

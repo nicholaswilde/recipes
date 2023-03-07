@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Cinnamon Streusel Bread
 
-![Cinnamon Streusel Bread](../assets/images/cinnamon-streusel-bread.png)
+![Cinnamon Streusel Bread](../assets/images/cinnamon-streusel-bread.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

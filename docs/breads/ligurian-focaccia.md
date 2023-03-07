@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Ligurian Focaccia
 
-![Ligurian Focaccia](../assets/images/ligurian-focaccia.jpg)
+![Ligurian Focaccia](../assets/images/ligurian-focaccia.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

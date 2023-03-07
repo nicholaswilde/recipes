@@ -5,7 +5,7 @@ tags:
 ---
 # :corn: The Best Cornbread
 
-![The Best Cornbread](../assets/images/the-best-cornbread.jpg)
+![The Best Cornbread](../assets/images/the-best-cornbread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

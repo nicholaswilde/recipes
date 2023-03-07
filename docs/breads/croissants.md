@@ -6,7 +6,7 @@ tags:
 ---
 # :croissant: Croissants
 
-![Croissants](../assets/images/croissants.png)
+![Croissants](../assets/images/croissants.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

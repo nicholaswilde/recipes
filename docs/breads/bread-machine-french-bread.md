@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Bread Machine French Bread
 
-![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg)
+![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :jack_o_lantern: The Best Pumpkin Bread
 
-![The Best Pumpkin Bread](../assets/images/the-best-pumpkin-bread.jpg)
+![The Best Pumpkin Bread](../assets/images/the-best-pumpkin-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

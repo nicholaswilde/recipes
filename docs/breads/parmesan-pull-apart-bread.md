@@ -5,7 +5,7 @@ tags:
 ---
 # :cheese_wedge: Parmesan Pull-Apart Bread
 
-![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg)
+![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

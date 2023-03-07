@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Basic Sweet Babka
 
-![Basic Sweet Babka](../assets/images/basic-sweet-babka.jpg)
+![Basic Sweet Babka](../assets/images/basic-sweet-babka.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

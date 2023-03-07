@@ -5,7 +5,7 @@ tags:
 ---
 # :lemon: Lemon Blueberry Bread
 
-![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.jpg)
+![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

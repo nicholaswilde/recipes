@@ -5,7 +5,7 @@ tags:
 ---
 # :bread: Chocolate Chip Peanut Butter Banana Bread
 
-![Chocolate Chip Peanut Butter Banana Bread](../assets/images/chocolate-chip-peanut-butter-banana-bread.jpg)
+![Chocolate Chip Peanut Butter Banana Bread][4]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -54,3 +54,4 @@ Cook on rack for 15 minutes before unmolding.
 [1]: <../ingredients/peanut-butter.md>
 [2]: <../ingredients/yogurt.md>
 [3]: <../ingredients/brown-sugar.md>
+[4]: <../assets/images/chocolate-chip-peanut-butter-banana-bread.jpg>

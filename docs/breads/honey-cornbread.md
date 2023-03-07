@@ -5,7 +5,7 @@ tags:
 ---
 # :corn: Honey Cornbread
 
-![Honey Cornbread](../assets/images/honey-cornbread.jpg)
+![Honey Cornbread](../assets/images/honey-cornbread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
