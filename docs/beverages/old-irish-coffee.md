@@ -5,7 +5,7 @@ tags:
 ---
 # :coffee: Old Irish Coffee
 
-![Old Irish Coffee](../assets/images/old-irish-coffee.jpg)
+![Old Irish Coffee](../assets/images/old-irish-coffee.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

@@ -5,7 +5,7 @@ tags:
 ---
 # :lemon: Olde Tyme Lemonade
 
-![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.jpg)
+![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

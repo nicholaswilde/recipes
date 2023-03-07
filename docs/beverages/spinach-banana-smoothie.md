@@ -7,7 +7,7 @@ tags:
 ---
 # :leafy_green: Spinach Banana Smoothie
 
-![Spinach Banana Smoothie](../assets/images/spinach-banana-smoothie.png)
+![Spinach Banana Smoothie](../assets/images/spinach-banana-smoothie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

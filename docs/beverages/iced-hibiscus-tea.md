@@ -3,11 +3,11 @@ comments: true
 tags:
   - beverage
   - tea
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :hibiscus: Iced Hibiscus Tea
 
-![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.jpg)
+![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

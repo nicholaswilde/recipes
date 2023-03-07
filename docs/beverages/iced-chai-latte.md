@@ -5,7 +5,7 @@ tags:
 ---
 # :coffee: Iced Chai Latte
 
-![Iced Chai Latte](../assets/images/iced-chai-latte.png)
+![Iced Chai Latte](../assets/images/iced-chai-latte.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :coffee: Hot Chocolate
 
-![Hot Chocolate](../assets/images/hot-chocolate.jpg)
+![Hot Chocolate](../assets/images/hot-chocolate.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

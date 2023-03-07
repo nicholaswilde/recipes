@@ -3,11 +3,11 @@ comments: true
 tags:
   - beverage
   - joy-of-cooking
-  - holiday 
+  - holiday
 ---
 # :egg: Cooked Eggnog
 
-![Cooked Eggnog](../assets/images/cooked-eggnog.jpg)
+![Cooked Eggnog](../assets/images/cooked-eggnog.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
