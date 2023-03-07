@@ -1,3 +1,8 @@
+{{- define "custom.section" -}}
+{{ if .Info.ImageFileName }}
+![{{ .Info.RecipeName }}](../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}){ loading=lazy }
+{{ end }}
+{{- end -}}
 ---
 comments: true
 tags:
@@ -6,7 +11,7 @@ tags:
 ---
 {{ template "cook.headerSection" . }}
 
-{{ template "cook.imageSection" . }}
+{{ template "custom.section" . }}
 
 {{ template "cook.tableSection" . }}
 

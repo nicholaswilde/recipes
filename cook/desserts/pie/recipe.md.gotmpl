@@ -1,6 +1,6 @@
 {{- define "custom.section" -}}
 {{ if .Info.ImageFileName }}
-![{{ .Info.RecipeName }}](../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }})
+![{{ .Info.RecipeName }}](../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}){ loading=lazy }
 {{ end }}
 {{- end -}}
 ---
