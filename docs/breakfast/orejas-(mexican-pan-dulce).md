@@ -6,7 +6,7 @@ tags:
 ---
 # :ear: Orejas (Mexican Pan Dulce)
 
-![Orejas (Mexican Pan Dulce)](../assets/images/orejas-(mexican-pan-dulce).jpg)
+![Orejas (Mexican Pan Dulce)](../assets/images/orejas-(mexican-pan-dulce).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

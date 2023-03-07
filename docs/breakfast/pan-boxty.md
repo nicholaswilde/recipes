@@ -6,7 +6,7 @@ tags:
 ---
 # :potato: Pan Boxty
 
-![Pan Boxty](../assets/images/pan-boxty.jpg)
+![Pan Boxty](../assets/images/pan-boxty.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

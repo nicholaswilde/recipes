@@ -5,7 +5,7 @@ tags:
 ---
 # Decadent Chocolate Overnight Oats
 
-![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg)
+![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

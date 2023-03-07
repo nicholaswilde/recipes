@@ -5,7 +5,7 @@ tags:
 ---
 # :banana: Cindy's Banana Overnight Oats
 
-![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.jpg)
+![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

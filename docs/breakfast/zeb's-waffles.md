@@ -5,7 +5,7 @@ tags:
 ---
 # :waffle: Zeb's Waffles
 
-![Zeb's Waffles](../assets/images/zeb's-waffles.png)
+![Zeb's Waffles](../assets/images/zeb's-waffles.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

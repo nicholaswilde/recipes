@@ -7,7 +7,7 @@ tags:
 ---
 # :egg: Frittata
 
-![Frittata](../assets/images/frittata.jpg)
+![Frittata](../assets/images/frittata.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

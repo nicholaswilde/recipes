@@ -6,7 +6,7 @@ tags:
 ---
 # :waffle: Overnight Brown-Butter Yeast-Raised Waffles
 
-![Overnight Brown-Butter Yeast-Raised Waffles](../assets/images/overnight-brown-butter-yeast-raised-waffles.png)
+![Overnight Brown-Butter Yeast-Raised Waffles][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -50,3 +50,5 @@ remaining batches are cooked.) Serve immediately with maple syrup, lemon chantil
 
 - <https://www.seriouseats.com/brown-butter-yeast-raised-waffles-recipe>
 - <https://www.thepancakeprincess.com/2019/01/29/best-yeast-waffle-bake-off/>
+
+[1]: <../assets/images/overnight-brown-butter-yeast-raised-waffles.png>

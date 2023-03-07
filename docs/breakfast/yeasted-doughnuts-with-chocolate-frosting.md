@@ -2,10 +2,11 @@
 comments: true
 tags:
   - breakfast
+  - cooks-illustrated
 ---
 # :doughnut: Yeasted Doughnuts with Chocolate Frosting
 
-![Yeasted Doughnuts with Chocolate Frosting](../assets/images/yeasted-doughnuts-with-chocolate-frosting.jpg)
+![Yeasted Doughnuts with Chocolate Frosting][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -112,3 +113,5 @@ stand until frosting is dry to touch, 15 to 30 minutes, before serving.
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../assets/images/yeasted-doughnuts-with-chocolate-frosting.jpg>

@@ -5,7 +5,7 @@ tags:
 ---
 # :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
 
-![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg)
+![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

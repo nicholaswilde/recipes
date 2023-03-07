@@ -7,7 +7,7 @@ tags:
 ---
 # :egg: Slow Cooker Mexican Egg Casserole
 
-![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.jpg)
+![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

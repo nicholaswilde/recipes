@@ -2,10 +2,11 @@
 comments: true
 tags:
   - breakfast
+  - magnolia
 ---
 # :pancakes: Crunch French Toast
 
-![Crunch French Toast](../assets/images/crunch-french-toast.jpg)
+![Crunch French Toast](../assets/images/crunch-french-toast.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

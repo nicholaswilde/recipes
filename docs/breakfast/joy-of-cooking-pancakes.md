@@ -7,7 +7,7 @@ tags:
 ---
 # :pancakes: Joy of Cooking Pancakes
 
-![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.jpg)
+![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

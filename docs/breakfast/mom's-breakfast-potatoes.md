@@ -5,7 +5,7 @@ tags:
 ---
 # :potato: Mom's Breakfast Potatoes
 
-![Mom's Breakfast Potatoes](../assets/images/mom's-breakfast-potatoes.jpg)
+![Mom's Breakfast Potatoes](../assets/images/mom's-breakfast-potatoes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

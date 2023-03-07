@@ -6,7 +6,7 @@ tags:
 ---
 # :ear_of_rice: Double-Berry Overnight Oats
 
-![Double-Berry Overnight Oats](../assets/images/double-berry-overnight-oats.jpg)
+![Double-Berry Overnight Oats](../assets/images/double-berry-overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

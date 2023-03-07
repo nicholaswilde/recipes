@@ -5,7 +5,7 @@ tags:
 ---
 # :doughnut: Cinnamon Rolls
 
-![Cinnamon Rolls](../assets/images/cinnamon-rolls.png)
+![Cinnamon Rolls](../assets/images/cinnamon-rolls.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :pancakes: Queen Elizabeth II's Drop Scones
 
-![Queen Elizabeth II's Drop Scones](../assets/images/queen-elizabeth-ii's-drop-scones.jpg)
+![Queen Elizabeth II's Drop Scones](../assets/images/queen-elizabeth-ii's-drop-scones.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

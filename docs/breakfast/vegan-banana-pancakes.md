@@ -7,7 +7,7 @@ tags:
 ---
 # :pancakes: Vegan Banana Pancakes
 
-![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.jpg)
+![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

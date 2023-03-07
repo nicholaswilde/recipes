@@ -2,10 +2,11 @@
 comments: true
 tags:
   - breakfast
+  - trader-joes
 ---
 # :cupcake: Morning Muffin In a Mug
 
-![Morning Muffin In a Mug](../assets/images/morning-muffin-in-a-mug.png)
+![Morning Muffin In a Mug](../assets/images/morning-muffin-in-a-mug.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

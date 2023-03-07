@@ -5,7 +5,7 @@ tags:
 ---
 # :egg: The Food Lab Light & Fluffy Scrambled Eggs
 
-![The Food Lab Light and Fluffy Scrambled Eggs](../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg)
+![The Food Lab Light and Fluffy Scrambled Eggs][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -42,3 +42,5 @@ serve.
 ## :link: Source
 
 - <https://twitter.com/TheFoodLab/status/654357647538323457>
+
+[1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg>

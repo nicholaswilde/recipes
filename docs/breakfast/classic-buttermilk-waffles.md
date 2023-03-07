@@ -6,7 +6,7 @@ tags:
 ---
 # :waffle: Classic Buttermilk Waffles
 
-![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.jpg)
+![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

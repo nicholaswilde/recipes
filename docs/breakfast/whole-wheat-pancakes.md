@@ -2,11 +2,11 @@
 comments: true
 tags:
   - breakfast
-  - pancake 
+  - pancake
 ---
 # :pancakes: Whole Wheat Pancakes
 
-![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.jpg)
+![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :croissant: Pillowy Soft Cinnamon Rolls
 
-![Pillowy Soft Cinnamon Rolls](../assets/images/pillowy-soft-cinnamon-rolls.png)
+![Pillowy Soft Cinnamon Rolls](../assets/images/pillowy-soft-cinnamon-rolls.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -118,6 +118,7 @@ smooth and creamy. Add the vanilla and salt and mix on low to combine. Add the c
 combined. Scrape down the sides of the bowl and mix on medium until the icing is light and fluffy, 3 to 4 minutes.
 
 !!! note "For overnight cinnamon rolls"
+
     Prepare the rolls (roll out dough, fill them, roll them up, cut them, and put them in the prepared pan, but do not let
     rise for 1.5 hours as stated above) then cover them loosely with plastic and refrigerate for up to 18 hours. When ready
     to bake, preheat the oven, and let the rolls sit at room temperature (still covered in plastic) for 30-45 minutes. Bake

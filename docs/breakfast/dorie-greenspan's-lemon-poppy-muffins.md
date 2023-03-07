@@ -6,7 +6,7 @@ tags:
 ---
 # :cupcake: Dorie Greenspan's Lemon Poppy Muffins
 
-![Dorie Greenspan's Lemon Poppy Muffins](../assets/images/dorie-greenspan's-lemon-poppy-muffins.jpg)
+![Dorie Greenspan's Lemon Poppy Muffins](../assets/images/dorie-greenspan's-lemon-poppy-muffins.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

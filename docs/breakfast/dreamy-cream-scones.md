@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Dreamy Cream Scones
 
-![Dreamy Cream Scones](../assets/images/dreamy-cream-scones.jpg)
+![Dreamy Cream Scones](../assets/images/dreamy-cream-scones.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

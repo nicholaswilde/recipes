@@ -6,7 +6,7 @@ tags:
 ---
 # :ear_of_rice: Overnight Oats
 
-![Overnight Oats](../assets/images/overnight-oats.jpg)
+![Overnight Oats](../assets/images/overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

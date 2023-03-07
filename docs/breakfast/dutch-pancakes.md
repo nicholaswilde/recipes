@@ -3,10 +3,11 @@ comments: true
 tags:
   - breakfast
   - pancake
+  - tante-myrna-seccia
 ---
 # :pancakes: Dutch Pancakes
 
-![Dutch Pancakes](../assets/images/dutch-pancakes.jpg)
+![Dutch Pancakes](../assets/images/dutch-pancakes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

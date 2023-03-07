@@ -5,7 +5,7 @@ tags:
 ---
 # :shell: Conchas (Mexican Pan Dulce)
 
-![Conchas (Mexican Pan Dulce)](../assets/images/conchas-(mexican-pan-dulce).jpg)
+![Conchas (Mexican Pan Dulce)](../assets/images/conchas-(mexican-pan-dulce).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :potato: Hash Browns
 
-![Hash Browns](../assets/images/hash-browns.jpg)
+![Hash Browns](../assets/images/hash-browns.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

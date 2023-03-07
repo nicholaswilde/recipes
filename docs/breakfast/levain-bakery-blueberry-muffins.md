@@ -6,7 +6,7 @@ tags:
 ---
 # :cupcake: Levain Bakery Blueberry Muffins
 
-![Levain Bakery Blueberry Muffins](../assets/images/levain-bakery-blueberry-muffins.jpg)
+![Levain Bakery Blueberry Muffins](../assets/images/levain-bakery-blueberry-muffins.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :ear_of_rice: Toasted-Coconut Granola
 
-![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.jpg)
+![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

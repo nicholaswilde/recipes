@@ -3,9 +3,9 @@ comments: true
 tags:
   - breakfast
 ---
-# French Toast
+# :bread: French Toast
 
-![French Toast](../assets/images/french-toast.jpg)
+![French Toast](../assets/images/french-toast.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 tsp cinnamon
-- 0.25 tsp nutmeg
-- 2 Tbsp sugar
-- 4 Tbsp butter
-- 4 eggs
-- 0.25 cup milk
-- 0.5 tsp vanilla
-- 8 slices brioche
-- 0.5 cup syrup
+- :custard: 1 tsp cinnamon
+- :chestnut: 0.25 tsp nutmeg
+- :candy: 2 Tbsp sugar
+- :butter: 4 Tbsp butter
+- :egg: 4 eggs
+- :glass_of_milk: 0.25 cup milk
+- :icecream: 0.5 tsp vanilla
+- :bread: 8 slices brioche
+- :maple_leaf: 0.5 cup syrup
 
 ## :cooking: Cookware
 

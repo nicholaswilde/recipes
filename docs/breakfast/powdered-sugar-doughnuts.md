@@ -5,7 +5,7 @@ tags:
 ---
 # :doughnut: Powdered Sugar Doughnuts
 
-![Powdered Sugar Doughnuts](../assets/images/powdered-sugar-doughnuts.jpg)
+![Powdered Sugar Doughnuts](../assets/images/powdered-sugar-doughnuts.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

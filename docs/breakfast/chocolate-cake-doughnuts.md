@@ -5,7 +5,7 @@ tags:
 ---
 # :doughnut: Chocolate Cake Doughnuts
 
-![Chocolate Cake Doughnuts](../assets/images/chocolate-cake-doughnuts.jpg)
+![Chocolate Cake Doughnuts](../assets/images/chocolate-cake-doughnuts.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

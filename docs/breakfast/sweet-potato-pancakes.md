@@ -6,7 +6,7 @@ tags:
 ---
 # :pancakes: Sweet Potato Pancakes
 
-![Sweet Potato Pancakes](../assets/images/sweet-potato-pancakes.png)
+![Sweet Potato Pancakes](../assets/images/sweet-potato-pancakes.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

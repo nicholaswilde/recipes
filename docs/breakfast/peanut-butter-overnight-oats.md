@@ -6,7 +6,7 @@ tags:
 ---
 # :peanuts: Peanut Butter Overnight Oats
 
-![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg)
+![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
