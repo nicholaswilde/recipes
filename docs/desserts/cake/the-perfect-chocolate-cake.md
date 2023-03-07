@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: The Perfect Chocolate Cake
 
-![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg)
+![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

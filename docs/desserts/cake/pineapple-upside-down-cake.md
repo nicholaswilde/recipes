@@ -7,7 +7,7 @@ tags:
 ---
 # :pineapple: Pineapple Upside Down Cake
 
-![Pineapple Upside Down Cake](../../assets/images/pineapple-upside-down-cake.png)
+![Pineapple Upside Down Cake](../../assets/images/pineapple-upside-down-cake.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

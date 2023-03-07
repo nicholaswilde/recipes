@@ -7,7 +7,7 @@ tags:
 ---
 # :green_apple: Apple Fritter Cake
 
-![Apple Fritter Cake](../../assets/images/apple-fritter-cake.jpg)
+![Apple Fritter Cake](../../assets/images/apple-fritter-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

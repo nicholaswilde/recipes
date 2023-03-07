@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Reine be Saba (Queen of Sheba)
 
-![Reine be Saba (Queen of Sheba)](../../assets/images/reine-be-saba-(queen-of-sheba).jpg)
+![Reine be Saba (Queen of Sheba)](../../assets/images/reine-be-saba-(queen-of-sheba).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

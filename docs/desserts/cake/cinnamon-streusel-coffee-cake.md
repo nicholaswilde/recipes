@@ -3,10 +3,11 @@ comments: true
 tags:
   - cake
   - dessert
+  - king-arthur
 ---
 # :cake: Cinnamon-Streusel Coffee Cake
 
-![Cinnamon-Streusel Coffee Cake](../../assets/images/cinnamon-streusel-coffee-cake.jpg)
+![Cinnamon-Streusel Coffee Cake](../../assets/images/cinnamon-streusel-coffee-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

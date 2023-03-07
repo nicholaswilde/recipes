@@ -7,7 +7,7 @@ tags:
 ---
 # :olive: Olive Oil Cake
 
-![Olive Oil Cake](../../assets/images/olive-oil-cake.jpg)
+![Olive Oil Cake](../../assets/images/olive-oil-cake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,15 +15,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.67 cup (79 g) all-purpose flour
-- 0.5 tsp baking powder
-- 0.25 tsp salt
-- 0.5 cup (99 g) sugar
-- 1 large egg
-- 1 lemon
-- 0.25 cup olive oil
-- 0.25 cup milk
-- 2 tsp sugar
+- :ear_of_rice: 0.67 cup (79 g) all-purpose flour
+- :dash: 0.5 tsp baking powder
+- :salt: 0.25 tsp salt
+- :candy: 0.5 cup (99 g) sugar
+- :egg: 1 large egg
+- :lemon: 1 lemon
+- :olive: 0.25 cup olive oil
+- :glass_of_milk: 0.25 cup milk
+- :candy: 2 tsp sugar
 
 ## :cooking: Cookware
 

@@ -6,7 +6,7 @@ tags:
 ---
 # :custard: Cinnamon Coffee Cake
 
-![Cinnamon Coffee Cake](../../assets/images/cinnamon-coffee-cake.jpg)
+![Cinnamon Coffee Cake](../../assets/images/cinnamon-coffee-cake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

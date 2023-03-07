@@ -7,7 +7,7 @@ tags:
 ---
 # :birthday: Cream Cheese Pound Cake
 
-![Cream Cheese Pound Cake](../../assets/images/cream-cheese-pound-cake.jpg)
+![Cream Cheese Pound Cake](../../assets/images/cream-cheese-pound-cake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

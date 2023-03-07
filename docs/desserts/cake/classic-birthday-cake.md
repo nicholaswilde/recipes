@@ -3,10 +3,11 @@ comments: true
 tags:
   - cake
   - dessert
+  - king-arthur
 ---
 # :cake: Classic Birthday Cake
 
-![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg)
+![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

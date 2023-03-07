@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Carrot Cake
 
-![Carrot Cake](../../assets/images/carrot-cake.jpg)
+![Carrot Cake](../../assets/images/carrot-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

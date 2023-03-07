@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Prinsesstårta (Swedish Princess Cake)
 
-![Prinsesstårta](../../assets/images/prinsesstårta.jpg)
+![Prinsesstårta](../../assets/images/prinsesstårta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Southern Velvet Cake
 
-![Southern Velvet Cake](../../assets/images/southern-velvet-cake.png)
+![Southern Velvet Cake](../../assets/images/southern-velvet-cake.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

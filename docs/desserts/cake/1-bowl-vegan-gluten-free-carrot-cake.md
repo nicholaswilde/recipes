@@ -4,10 +4,11 @@ tags:
   - dessert
   - cake
   - vegan
+  - minimalist-baker
 ---
-# 1-Bowl Vegan Gluten-Free Carrot Cake
+# :carrot: 1-Bowl Vegan Gluten-Free Carrot Cake
 
-![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg)
+![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -15,22 +16,22 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.33 cup coconut oil
-- 3 Tbsp flaxseed
-- 7.5 Tbsp water
-- 0.25 cup maple syrup
-- 1 cup applesauce
-- 0.5 cup [brown sugar][1]
-- 0.25 cup sugar
-- 0.75 tsp salt
-- 1.5 tsp baking soda
-- 1.5 tsp baking powder
-- 1 tsp cinnamon
-- 1 cup almond milk
-- 1.5 cup grated carrot
-- 1.5 cup almond flour
-- 0.75 cup walnuts
-- 1.5 cup gluten-free flour blend
+- :coconut: 0.33 cup coconut oil
+- :ear_of_rice: 3 Tbsp flaxseed
+- :droplet: 7.5 Tbsp water
+- :maple_leaf: 0.25 cup maple syrup
+- :red_apple: 1 cup applesauce
+- :maple_leaf: 0.5 cup [brown sugar][1]
+- :candy: 0.25 cup sugar
+- :salt: 0.75 tsp salt
+- :cup_with_straw: 1.5 tsp baking soda
+- :dash: 1.5 tsp baking powder
+- :custard: 1 tsp cinnamon
+- :chestnut: 1 cup almond milk
+- :carrot: 1.5 cup grated carrot
+- :ear_of_rice: 1.5 cup almond flour
+- :chestnut: 0.75 cup walnuts
+- :ear_of_rice: 1.5 cup gluten-free flour blend
 
 ## :cooking: Cookware
 

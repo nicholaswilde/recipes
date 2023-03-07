@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Tiramisù
 
-![Tiramisù](../../assets/images/tiramisù.jpg)
+![Tiramisù](../../assets/images/tiramisù.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -14,31 +14,31 @@ tags:
 
 ## :salt: Ingredients - Ladyfingers
 
-- 6 egg
-- 0.75 cup granulated sugar
-- 1 tsp vanilla
-- 1.5 cups all-purpose flour
-- 0.25 tsp salt
-- some confectioners' sugar
+- :egg: 6 egg
+- :candy: 0.75 cup granulated sugar
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 1.5 cups all-purpose flour
+- :salt: 0.25 tsp salt
+- :candy: some confectioners' sugar
 
 ## :salt: Ingredients - Ladyfingers - Soaking Liquid
 
-- 1.75 cups coffee
-- 0.33 cup rum (optional)
+- :coffee: 1.75 cups coffee
+- :tumbler_glass: 0.33 cup rum (optional)
 
 ## :salt: Ingredients - Filling
 
-- 6 egg
-- 0.5 cup whole milk
-- 1 cup granulated sugar
-- 1.5 cups heavy whipping cream
-- 0.25 cup confectioners' sugar
-- 16 oz chilled custard mascarpone
-- 2 tsp vanilla
+- :egg: 6 egg
+- :glass_of_milk: 0.5 cup whole milk
+- :candy: 1 cup granulated sugar
+- :icecream: 1.5 cups heavy whipping cream
+- :candy: 0.25 cup confectioners' sugar
+- :cheese_wedge: 16 oz chilled custard mascarpone
+- :icecream: 2 tsp vanilla
 
 ## :salt: Ingredients - Topping
 
-- 1 Tbsp unsweetened cocoa powder
+- :chocolate_bar: 1 Tbsp unsweetened cocoa powder
 
 ## :cooking: Cookware
 

@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Boston Cream Pie
 
-![Boston Cream Pie](../../assets/images/boston-cream-pie.jpg)
+![Boston Cream Pie](../../assets/images/boston-cream-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

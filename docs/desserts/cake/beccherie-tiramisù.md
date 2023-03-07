@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Beccherie Tiramisù
 
-![Beccherie Tiramisù](../../assets/images/beccherie-tiramisù.jpg)
+![Beccherie Tiramisù](../../assets/images/beccherie-tiramisù.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Cherry Almond Skyr Cake
 
-![Cherry Almond Skyr Cake](../../assets/images/cherry-almond-skyr-cake.jpg)
+![Cherry Almond Skyr Cake](../../assets/images/cherry-almond-skyr-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

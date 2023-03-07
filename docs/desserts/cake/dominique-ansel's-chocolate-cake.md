@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Dominique Ansel's Chocolate Cake
 
-![Dominique Ansel's Chocolate Cake](../../assets/images/dominique-ansel's-chocolate-cake.png)
+![Dominique Ansel's Chocolate Cake](../../assets/images/dominique-ansel's-chocolate-cake.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

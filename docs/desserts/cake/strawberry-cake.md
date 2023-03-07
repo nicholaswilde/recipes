@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Strawberry Cake
 
-![Strawberry Cake](../../assets/images/strawberry-cake.jpg)
+![Strawberry Cake](../../assets/images/strawberry-cake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
