@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Chewy Brownies
 
-![Chewy Brownies](../assets/images/chewy-brownies.jpg)
+![Chewy Brownies](../assets/images/chewy-brownies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -14,18 +14,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.33 cup Dutch-processed cocoa
-- 1.5 tsp espresso powder
-- 10 Tbsp water
-- 2 oz unsweetened chocolate
-- 2 eggs
-- 2 egg yolks
-- 4 Tbsp unsalted butter
-- 2 tsp vanilla
-- 2.5 cup sugar
-- 1.75 cup flour
-- 0.75 tsp salt
-- 6 oz bittersweet chocolate
+- :chocolate_bar: 0.33 cup Dutch-processed cocoa
+- :coffee: 1.5 tsp espresso powder
+- :droplet: 10 Tbsp water
+- :chocolate_bar: 2 oz unsweetened chocolate
+- :egg: 2 eggs
+- :egg: 2 egg yolks
+- :butter: 4 Tbsp unsalted butter
+- :icecream: 2 tsp vanilla
+- :candy: 2.5 cup sugar
+- :ear_of_rice: 1.75 cup flour
+- :salt: 0.75 tsp salt
+- :chocolate_bar: 6 oz bittersweet chocolate
 
 ## :cooking: Cookware
 

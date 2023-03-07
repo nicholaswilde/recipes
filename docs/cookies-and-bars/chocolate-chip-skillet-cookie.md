@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Chocolate Chip Skillet Cookie
 
-![Chocolate Chip Skillet Cookie](../assets/images/chocolate-chip-skillet-cookie.png)
+![Chocolate Chip Skillet Cookie](../assets/images/chocolate-chip-skillet-cookie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

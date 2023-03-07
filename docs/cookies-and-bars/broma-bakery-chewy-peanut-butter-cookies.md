@@ -7,7 +7,7 @@ tags:
 ---
 # :peanuts: Broma Bakery Chewy Peanut Butter Cookies
 
-![Broma Bakery Chewy Peanut Butter Cookies](../assets/images/broma-bakery-chewy-peanut-butter-cookies.png)
+![Broma Bakery Chewy Peanut Butter Cookies][3]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -66,3 +66,4 @@ cool completely before eating!
 
 [1]: <../ingredients/peanut-butter.md>
 [2]: <../ingredients/brown-sugar.md>
+[3]: <../assets/images/broma-bakery-chewy-peanut-butter-cookies.png>

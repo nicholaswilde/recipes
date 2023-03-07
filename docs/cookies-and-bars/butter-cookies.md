@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Butter Cookies
 
-![Butter Cookies](../assets/images/butter-cookies.jpg)
+![Butter Cookies](../assets/images/butter-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

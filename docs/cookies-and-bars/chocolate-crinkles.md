@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Chocolate Crinkles
 
-![Chocolate Crinkles](../assets/images/chocolate-crinkles.jpg)
+![Chocolate Crinkles](../assets/images/chocolate-crinkles.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Butter Swirl Shortbread Cookies
 
-![Butter Swirl Shortbread Cookies](../assets/images/butter-swirl-shortbread-cookies.jpg)
+![Butter Swirl Shortbread Cookies](../assets/images/butter-swirl-shortbread-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

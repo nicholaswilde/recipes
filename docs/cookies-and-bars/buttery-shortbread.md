@@ -6,7 +6,7 @@ tags:
 ---
 # :flatbread: Buttery Shortbread
 
-![Buttery Shortbread](../assets/images/buttery-shortbread.jpg)
+![Buttery Shortbread](../assets/images/buttery-shortbread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

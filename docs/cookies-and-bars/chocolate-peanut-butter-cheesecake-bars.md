@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Chocolate Peanut Butter Cheesecake Bars
 
-![Chocolate Peanut Butter Cheesecake Bars](../assets/images/chocolate-peanut-butter-cheesecake-bars.png)
+![Chocolate Peanut Butter Cheesecake Bars][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -93,3 +93,4 @@ Allow the bars to fully cool and set for 1 hour before cutting and serving.
 - <https://www.tastingtable.com/789612/chocolate-peanut-butter-cheesecake-bars-recipe/>
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../assets/images/chocolate-peanut-butter-cheesecake-bars.png>

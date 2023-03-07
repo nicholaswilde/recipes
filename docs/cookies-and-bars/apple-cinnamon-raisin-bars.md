@@ -6,7 +6,7 @@ tags:
 ---
 # Apple Cinnamon Raisin Bars
 
-![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.jpg)
+![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -14,16 +14,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups flour
-- 2 tsp baking powder
-- 1.5 tsp cinnamon
-- 0.5 tsp salt
-- 2 cups [light brown sugar][1]
-- 2 eggs
-- 0.5 cup unsalted butter
-- 1 tsp vanilla
-- 1.5 cup diced apples
-- 0.75 cup raisins
+- :ear_of_rice: 2 cups flour
+- :dash: 2 tsp baking powder
+- :custard: 1.5 tsp cinnamon
+- :salt: 0.5 tsp salt
+- :maple_leaf: 2 cups [light brown sugar][1]
+- :egg: 2 eggs
+- :butter: 0.5 cup unsalted butter
+- :icecream: 1 tsp vanilla
+- :green_apple: 1.5 cup diced apples
+- :grapes: 0.75 cup raisins
 
 ## :cooking: Cookware
 

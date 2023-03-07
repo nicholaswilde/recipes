@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Browned Butter Blondies
 
-![Browned Butter Blondies](../assets/images/browned-butter-blondies.jpg)
+![Browned Butter Blondies](../assets/images/browned-butter-blondies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

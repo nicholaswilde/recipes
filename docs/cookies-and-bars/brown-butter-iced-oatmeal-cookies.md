@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Brown Butter Iced Oatmeal Cookies
 
-![Brown Butter Iced Oatmeal Cookies](../assets/images/brown-butter-iced-oatmeal-cookies.png)
+![Brown Butter Iced Oatmeal Cookies](../assets/images/brown-butter-iced-oatmeal-cookies.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :butter: Butterscotch Brownies
 
-![Butterscotch Brownies](../assets/images/butterscotch-brownies.png)
+![Butterscotch Brownies](../assets/images/butterscotch-brownies.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

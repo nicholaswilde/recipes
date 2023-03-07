@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Brown Butter Macadamia Nut
 
-![Brown Butter Macadamia Nut](../assets/images/brown-butter-macadamia-nut.jpg)
+![Brown Butter Macadamia Nut](../assets/images/brown-butter-macadamia-nut.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

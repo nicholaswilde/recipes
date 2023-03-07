@@ -6,7 +6,7 @@ tags:
 ---
 # :chestnut: Almond Cookies
 
-![Almond Cookies](../assets/images/almond-cookies.jpg)
+![Almond Cookies](../assets/images/almond-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

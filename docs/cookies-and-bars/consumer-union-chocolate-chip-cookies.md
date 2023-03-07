@@ -4,9 +4,9 @@ tags:
   - cookie
   - dessert
 ---
-# Consumer Union Chocolate Chip Cookies
+# :cookie: Consumer Union Chocolate Chip Cookies
 
-![Consumer Union Chocolate Chip Cookies](../assets/images/consumer-union-chocolate-chip-cookies.jpg)
+![Consumer Union Chocolate Chip Cookies](../assets/images/consumer-union-chocolate-chip-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -14,16 +14,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.75 cup (149 g) granulated sugar
-- 0.75 cup (160 g) [light brown sugar][1]
-- 2 eggs
-- 2 sticks (226 g) unsalted butter
-- 1 tsp vanilla
-- 2.25 cups (270 g) all-purpose flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 12 oz pkg (340 g) semi-sweet chocolate chips
-- some walnuts
+- :candy: 0.75 cup (149 g) granulated sugar
+- :maple_leaf: 0.75 cup (160 g) [light brown sugar][1]
+- :egg: 2 eggs
+- :butter: 2 sticks (226 g) unsalted butter
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+- :cup_with_straw: 1 tsp baking soda
+- :salt: 1 tsp salt
+- :chocolate_bar: 1 12 oz pkg (340 g) semi-sweet chocolate chips
+- :chestnut: some walnuts
 
 ## :cooking: Cookware
 

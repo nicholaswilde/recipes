@@ -7,7 +7,7 @@ tags:
 ---
 # :peanuts: Chewy Peanut Butter Cookies
 
-![Chewy Peanut Butter Cookies](../assets/images/chewy-peanut-butter-cookies.jpg)
+![Chewy Peanut Butter Cookies](../assets/images/chewy-peanut-butter-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

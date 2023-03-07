@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Black & White Cookies
 
-![Black and White Cookies](../assets/images/black-and-white-cookies.jpg)
+![Black and White Cookies](../assets/images/black-and-white-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
