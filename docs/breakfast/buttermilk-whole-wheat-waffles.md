@@ -5,7 +5,7 @@ tags:
 ---
 # :waffle: Buttermilk Whole Wheat Waffles
 
-![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.jpg)
+![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

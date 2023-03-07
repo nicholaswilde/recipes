@@ -5,7 +5,7 @@ tags:
 ---
 # Apple Pie Overnight Oats
 
-![Apple Pie Overnight Oats](../assets/images/apple-pie-overnight-oats.jpg)
+![Apple Pie Overnight Oats](../assets/images/apple-pie-overnight-oats.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

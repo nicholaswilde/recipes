@@ -5,7 +5,7 @@ tags:
 ---
 # Bagels
 
-![Bagels](../assets/images/bagels.jpg)
+![Bagels](../assets/images/bagels.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

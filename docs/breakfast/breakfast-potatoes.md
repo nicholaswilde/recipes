@@ -5,7 +5,7 @@ tags:
 ---
 # :potato: Breakfast Potatoes
 
-![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg)
+![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
