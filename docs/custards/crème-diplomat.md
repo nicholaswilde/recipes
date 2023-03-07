@@ -3,10 +3,11 @@ comments: true
 tags:
   - filling
   - ingredient
+  - custard
 ---
 # :icecream: Crème Diplomat
 
-![Crème Diplomat](../assets/images/crème-diplomat.png)
+![Crème Diplomat](../assets/images/crème-diplomat.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

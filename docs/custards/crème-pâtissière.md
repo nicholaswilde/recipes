@@ -3,10 +3,12 @@ comments: true
 tags:
   - ingredient
   - dominique-ansel
+  - custard
+  - filling
 ---
 # :egg: Crème Pâtissière
 
-![Crème Pâtissière](../assets/images/crème-pâtissière.jpg)
+![Crème Pâtissière](../assets/images/crème-pâtissière.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

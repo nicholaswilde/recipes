@@ -3,10 +3,11 @@ comments: true
 tags:
   - filling
   - ingredient
+  - custard
 ---
 # :custard: Crème Bavaroise
 
-![Crème Bavaroise](../assets/images/crème-bavaroise.png)
+![Crème Bavaroise](../assets/images/crème-bavaroise.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

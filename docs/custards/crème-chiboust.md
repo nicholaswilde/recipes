@@ -3,10 +3,11 @@ comments: true
 tags:
   - filling
   - ingredient
+  - custard
 ---
 # :custard: Crème Chiboust
 
-![Crème Chiboust](../assets/images/crème-chiboust.jpg)
+![Crème Chiboust](../assets/images/crème-chiboust.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :egg: Crème Brûlée
 
-![Crème Brûlée](../assets/images/crème-brûlée.jpg)
+![Crème Brûlée](../assets/images/crème-brûlée.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
