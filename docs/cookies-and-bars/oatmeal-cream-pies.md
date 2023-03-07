@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Oatmeal Cream Pies
 
-![Oatmeal Cream Pies](../assets/images/oatmeal-cream-pies.png)
+![Oatmeal Cream Pies](../assets/images/oatmeal-cream-pies.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

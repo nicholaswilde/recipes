@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 
-![Cook's Illustrated Perfect Chocolate Chip Cookies](../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg)
+![Cook's Illustrated Perfect Chocolate Chip Cookies][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -82,3 +82,4 @@ at room temperature for up to 3 days.
 - <https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/>
 
 [1]: <../ingredients/brown-sugar.md>
+[2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg>

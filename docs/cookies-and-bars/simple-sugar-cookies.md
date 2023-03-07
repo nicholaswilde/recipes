@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Simple Sugar Cookies
 
-![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg)
+![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

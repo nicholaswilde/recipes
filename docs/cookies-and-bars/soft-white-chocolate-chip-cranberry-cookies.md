@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Soft White Chocolate Chip Cranberry Cookies
 
-![Soft White Chocolate Chip Cranberry Cookies](../assets/images/soft-white-chocolate-chip-cranberry-cookies.jpg)
+![Soft White Chocolate Chip Cranberry Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -82,3 +82,5 @@ Cookies stay fresh covered at room temperature for up to 1 week.
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/soft-baked-white-chocolate-chip-cranberry-cookies/>
+
+[1]: <../assets/images/soft-white-chocolate-chip-cranberry-cookies.jpg>

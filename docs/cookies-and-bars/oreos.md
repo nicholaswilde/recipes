@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Oreos
 
-![Oreos](../assets/images/oreos.jpg)
+![Oreos](../assets/images/oreos.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -8,7 +8,7 @@ tags:
 ---
 # :cookie: Salted Caramel Chocolate Macarons
 
-![Salted Caramel Chocolate Macarons](../assets/images/salted-caramel-chocolate-macarons.jpg)
+![Salted Caramel Chocolate Macarons](../assets/images/salted-caramel-chocolate-macarons.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

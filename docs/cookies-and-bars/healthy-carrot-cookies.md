@@ -6,7 +6,7 @@ tags:
 ---
 # :carrot: Healthy Carrot Cookies
 
-![Healthy Carrot Cookies](../assets/images/healthy-carrot-cookies.png)
+![Healthy Carrot Cookies](../assets/images/healthy-carrot-cookies.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

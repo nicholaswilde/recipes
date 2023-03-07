@@ -6,7 +6,7 @@ tags:
 ---
 # :lemon: Glazed Lemon Bars
 
-![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.jpg)
+![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

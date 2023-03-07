@@ -7,7 +7,7 @@ tags:
 ---
 # :peanuts: Peanut Butter Sandwich Cookies
 
-![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg)
+![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

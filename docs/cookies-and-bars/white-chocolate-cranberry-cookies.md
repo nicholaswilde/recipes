@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: White Chocolate Cranberry Cookies
 
-![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.jpg)
+![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -60,9 +60,9 @@ silicone baking mats and set aside.
 
 ### Step 6
 
-Remove the cookie dough from the refrigerator. Using a 3 tablespoon (60 g) cookie scoop, scoop the cookie dough and drop onto
-the prepared baking sheets. Make sure to leave a little room between each ball of cookie dough as they will spread a
-little while they bake.
+Remove the cookie dough from the refrigerator. Using a 3 tablespoon (60 g) cookie scoop, scoop the cookie dough and
+drop onto the prepared baking sheets. Make sure to leave a little room between each ball of cookie dough as they will
+spread a little while they bake.
 
 ### Step 7
 

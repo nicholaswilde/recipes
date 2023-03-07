@@ -6,7 +6,7 @@ tags:
 ---
 # :jack_o_lantern: Pumpkin Cookies with Cream Cheese Frosting
 
-![Pumpkin Cookies with Cream Cheese Frosting](../assets/images/pumpkin-cookies-with-cream-cheese-frosting.png)
+![Pumpkin Cookies with Cream Cheese Frosting][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -82,3 +82,5 @@ Spread frosting over the cooled cookies. Serve and enjoy!
 ## :link: Source
 
 - <https://insanelygoodrecipes.com/pumpkin-cookies-with-cream-cheese-frosting/>
+
+[1]: <../assets/images/pumpkin-cookies-with-cream-cheese-frosting.png>

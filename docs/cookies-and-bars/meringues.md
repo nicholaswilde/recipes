@@ -7,7 +7,7 @@ tags:
 ---
 # :egg: Meringues
 
-![Meringues](../assets/images/meringues.jpg)
+![Meringues](../assets/images/meringues.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

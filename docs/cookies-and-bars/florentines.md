@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Florentines
 
-![Florentines](../assets/images/florentines.jpg)
+![Florentines](../assets/images/florentines.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :baguette_bread: Ladyfingers
 
-![Ladyfingers](../assets/images/ladyfingers.png)
+![Ladyfingers](../assets/images/ladyfingers.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

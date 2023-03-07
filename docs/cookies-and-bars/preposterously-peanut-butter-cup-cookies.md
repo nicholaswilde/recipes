@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Preposterously Peanut Butter Cup Cookies
 
-![Preposterously Peanut Butter Cup Cookies](../assets/images/preposterously-peanut-butter-cup-cookies.png)
+![Preposterously Peanut Butter Cup Cookies][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -52,3 +52,4 @@ cool on baking sheet for 5 minutes before transferring cookies to cooling racks.
 - <https://www.traderjoes.com/home/recipes/preposterously-peanut-butter-cup-cookies>
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../assets/images/preposterously-peanut-butter-cup-cookies.png>

@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Tante Myrn's Sugar Cookies
 
-![Tante Myrn's Sugar Cookies](../assets/images/tante-myrn's-sugar-cookies.jpg)
+![Tante Myrn's Sugar Cookies](../assets/images/tante-myrn's-sugar-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

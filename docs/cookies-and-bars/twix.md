@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Twix
 
-![Twix](../assets/images/twix.jpg)
+![Twix](../assets/images/twix.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: White Chocolate Chip Macadamia Nut
 
-![White Chocolate Chip Macadamia Nut](../assets/images/white-chocolate-chip-macadamia-nut.jpg)
+![White Chocolate Chip Macadamia Nut](../assets/images/white-chocolate-chip-macadamia-nut.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

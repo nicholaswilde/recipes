@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Molasses Spice Cookies
 
-![Molasses Spice Cookies](../assets/images/molasses-spice-cookies.jpg)
+![Molasses Spice Cookies](../assets/images/molasses-spice-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

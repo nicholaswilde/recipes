@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Vanilla Wafers
 
-![Vanilla Wafers](../assets/images/vanilla-wafers.jpg)
+![Vanilla Wafers](../assets/images/vanilla-wafers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Oatmeal Raisin
 
-![Oatmeal Raisin](../assets/images/oatmeal-raisin.jpg)
+![Oatmeal Raisin](../assets/images/oatmeal-raisin.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

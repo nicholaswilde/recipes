@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: The New York Times Chocolate Chip Cookies
 
-![The New York Times Chocolate Chip Cookies](../assets/images/the-new-york-times-chocolate-chip-cookies.jpg)
+![The New York Times Chocolate Chip Cookies][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -69,3 +69,4 @@ leftover cookies in an airtight container at room temperature for up to 3 days.
 - <https://www.browneyedbaker.com/the-new-york-times-chocolate-chip-cookies/>
 
 [1]: <../ingredients/brown-sugar.md>
+[2]: <../assets/images/the-new-york-times-chocolate-chip-cookies.jpg>

@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Snickerdoodles
 
-![Snickerdoodles](../assets/images/snickerdoodles.jpg)
+![Snickerdoodles](../assets/images/snickerdoodles.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -61,9 +61,9 @@ remaining 2 Tbsp granulated sugar in a medium bowl.
 
 ### Step 5
 
-Using a 1 oz (30 g) ice cream scoop ([scoop number 40][1]) or a generous, heaping tablespoonful, portion cookies and roll into small balls with your
-hands. Toss in cinnamon-sugar until coated all over. Transfer to prepared sheet, spacing about 3" apart. Do not flatten;
-cookies will spread as they bake.
+Using a 1 oz (30 g) ice cream scoop ([scoop number 40][1]) or a generous, heaping tablespoonful, portion cookies and
+roll into small balls with your hands. Toss in cinnamon-sugar until coated all over. Transfer to prepared sheet,
+spacing about 3" apart. Do not flatten; cookies will spread as they bake.
 
 ### Step 6
 

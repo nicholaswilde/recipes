@@ -7,7 +7,7 @@ tags:
 ---
 # :lemon: Lemon Bars
 
-![Lemon Bars](../assets/images/lemon-bars.jpg)
+![Lemon Bars](../assets/images/lemon-bars.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

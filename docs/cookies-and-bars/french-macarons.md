@@ -9,7 +9,7 @@ tags:
 ---
 # :cookie: French Macarons
 
-![French Macarons](../assets/images/french-macarons.jpg)
+![French Macarons](../assets/images/french-macarons.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

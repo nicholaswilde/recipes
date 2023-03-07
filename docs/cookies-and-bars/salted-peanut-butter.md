@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Salted Peanut Butter
 
-![Salted Peanut Butter](../assets/images/salted-peanut-butter.jpg)
+![Salted Peanut Butter](../assets/images/salted-peanut-butter.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

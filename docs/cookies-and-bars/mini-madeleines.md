@@ -8,7 +8,7 @@ tags:
 ---
 # :shell: Mini Madeleines
 
-![Mini Madeleines](../assets/images/mini-madeleines.jpg)
+![Mini Madeleines](../assets/images/mini-madeleines.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Double Chocolate Mint Paleo Cookies
 
-![Double Chocolate Mint Paleo Cookies](../assets/images/double-chocolate-mint-paleo-cookies.jpg)
+![Double Chocolate Mint Paleo Cookies](../assets/images/double-chocolate-mint-paleo-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

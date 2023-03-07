@@ -6,7 +6,7 @@ tags:
 ---
 # :jack_o_lantern: Pumpkin Cheesecake Cookies
 
-![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg)
+![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

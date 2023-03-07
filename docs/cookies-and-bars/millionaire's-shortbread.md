@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Millionaire's Shortbread
 
-![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread.png)
+![Millionaire's Shortbread Recipe](../assets/images/millionaire's-shortbread.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

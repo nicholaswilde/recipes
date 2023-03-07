@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Oatmeal Chocolate Chip Cookies
 
-![Oatmeal Chocolate Chip Cookies](../assets/images/oatmeal-chocolate-chip-cookies.jpg)
+![Oatmeal Chocolate Chip Cookies](../assets/images/oatmeal-chocolate-chip-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,9 +5,9 @@ tags:
   - dessert
   - cooks-illustrated
 ---
-# Cook's Illustrated Snickerdoodles
+# :cookie: Cook's Illustrated Snickerdoodles
 
-![Cook's Illustrated Snickerdoodles](../assets/images/cook's-illustrated-snickerdoodles.jpg)
+![Cook's Illustrated Snickerdoodles](../assets/images/cook's-illustrated-snickerdoodles.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

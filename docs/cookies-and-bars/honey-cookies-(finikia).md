@@ -7,7 +7,7 @@ tags:
 ---
 # :honey_pot: Honey Cookies (Finikia)
 
-![Honey Cookies (Finikia)](../assets/images/honey-cookies-(finikia).jpg)
+![Honey Cookies (Finikia)](../assets/images/honey-cookies-(finikia).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
