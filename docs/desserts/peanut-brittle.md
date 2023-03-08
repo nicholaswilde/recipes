@@ -3,7 +3,7 @@ comments: true
 ---
 # :peanuts: Peanut Brittle
 
-![Peanut Brittle](../assets/images/peanut-brittle.jpg)
+![Peanut Brittle](../assets/images/peanut-brittle.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :strawberry: Strawberry Mousse
 
-![Strawberry Mousse](../assets/images/strawberry-mousse.jpg)
+![Strawberry Mousse](../assets/images/strawberry-mousse.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

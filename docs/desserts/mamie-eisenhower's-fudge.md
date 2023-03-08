@@ -7,7 +7,7 @@ tags:
 ---
 # :chocolate_bar: Mamie Eisenhower's Fudge
 
-![Mamie Eisenhower's Fudge](../assets/images/mamie-eisenhower's-fudge.png)
+![Mamie Eisenhower's Fudge](../assets/images/mamie-eisenhower's-fudge.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

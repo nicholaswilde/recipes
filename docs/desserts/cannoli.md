@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Cannoli
 
-![Cannoli](../assets/images/cannoli.png)
+![Cannoli](../assets/images/cannoli.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

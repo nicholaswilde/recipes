@@ -7,7 +7,7 @@ tags:
 ---
 # :pear: Pear Tarte Tatin
 
-![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg)
+![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

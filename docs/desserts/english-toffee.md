@@ -3,11 +3,11 @@ comments: true
 tags:
   - toffee
   - dessert
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :candy: English Toffee
 
-![English Toffee](../assets/images/english-toffee.jpg)
+![English Toffee](../assets/images/english-toffee.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

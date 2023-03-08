@@ -5,7 +5,7 @@ tags:
 ---
 # :ice_cream: Vanilla Bean Ice Cream
 
-![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.jpg)
+![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

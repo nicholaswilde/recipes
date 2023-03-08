@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - cake
 ---
 # :cake: Tiramisù
 
-![Tiramisù](../assets/images/tiramisù.jpg)
+![Tiramisù](../assets/images/tiramisù.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

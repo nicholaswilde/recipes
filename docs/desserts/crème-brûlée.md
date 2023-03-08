@@ -7,7 +7,7 @@ tags:
 ---
 # :custard: Crème Brûlée
 
-![Crème Brûlée](../assets/images/crème-brûlée.jpg)
+![Crème Brûlée](../assets/images/crème-brûlée.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

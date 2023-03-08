@@ -3,7 +3,7 @@ comments: true
 ---
 # :pancakes: Crêpes Suzette
 
-![Crêpes Suzette](../assets/images/crêpes-suzette.jpg)
+![Crêpes Suzette](../assets/images/crêpes-suzette.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

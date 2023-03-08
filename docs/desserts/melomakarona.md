@@ -3,7 +3,7 @@ comments: true
 ---
 # :cookie: Melomakarona
 
-![Melomakarona](../assets/images/melomakarona.jpg)
+![Melomakarona](../assets/images/melomakarona.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

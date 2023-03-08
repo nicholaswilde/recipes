@@ -5,7 +5,7 @@ tags:
 ---
 # :ice_cream: Ice Cream
 
-![Ice Cream](../assets/images/ice-cream.jpg)
+![Ice Cream](../assets/images/ice-cream.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

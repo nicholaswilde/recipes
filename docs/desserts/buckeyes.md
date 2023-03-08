@@ -5,7 +5,7 @@ tags:
 ---
 # :yellow_circle: Buckeyes
 
-![Buckeyes](../assets/images/buckeyes.jpg)
+![Buckeyes](../assets/images/buckeyes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Brandy Snaps
 
-![Brandy Snaps](../assets/images/brandy-snaps.jpg)
+![Brandy Snaps](../assets/images/brandy-snaps.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

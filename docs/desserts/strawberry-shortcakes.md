@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: Strawberry Shortcakes
 
-![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg)
+![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

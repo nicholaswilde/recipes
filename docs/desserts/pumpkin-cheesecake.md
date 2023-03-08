@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Pumpkin Cheesecake
 
-![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.jpg)
+![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

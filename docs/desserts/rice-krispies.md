@@ -5,7 +5,7 @@ tags:
 ---
 # :bowl_with_spoon: Rice Krispies
 
-![Rice Krispies](../assets/images/rice-krispies.jpg)
+![Rice Krispies](../assets/images/rice-krispies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

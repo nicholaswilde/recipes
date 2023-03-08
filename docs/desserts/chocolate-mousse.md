@@ -7,7 +7,7 @@ tags:
 ---
 # :chocolate_bar: Chocolate Mousse
 
-![Chocolate Mousse](../assets/images/chocolate-mousse.jpg)
+![Chocolate Mousse](../assets/images/chocolate-mousse.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

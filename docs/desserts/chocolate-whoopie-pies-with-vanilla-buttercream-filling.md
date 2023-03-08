@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Chocolate Whoopie Pies with Vanilla Buttercream Filling
 
-![Chocolate Whoopie Pies with Vanilla Buttercream Filling](../assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg)
+![Chocolate Whoopie Pies with Vanilla Buttercream Filling][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -73,3 +73,4 @@ so that the filling spreads to the edge of the cookies.
 - <https://www.marthastewart.com/1164907/chocolate-whoopie-pies-vanilla-buttercream-filling>
 
 [1]: <../ingredients/buttermilk.md>
+[2]: <../assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg>

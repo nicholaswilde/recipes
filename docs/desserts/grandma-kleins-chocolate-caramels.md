@@ -5,7 +5,7 @@ tags:
 ---
 # :chocolate_bar: Grandma Kleins Chocolate Caramels
 
-![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.jpg)
+![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

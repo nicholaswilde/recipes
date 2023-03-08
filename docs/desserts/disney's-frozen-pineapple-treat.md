@@ -4,9 +4,9 @@ tags:
   - disney
   - dessert
 ---
-# Disney's Frozen Pineapple Treat
+# :pineapple: Disney's Frozen Pineapple Treat
 
-![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.jpg)
+![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,9 +18,9 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 scoop vanilla ice scream
-- 4 oz pineapple juice
-- 2 cups frozen pineapple
+- :icecream: 1 scoop vanilla ice scream
+- :pineapple: 4 oz pineapple juice
+- :pineapple: 2 cups frozen pineapple
 
 ## :cooking: Cookware
 

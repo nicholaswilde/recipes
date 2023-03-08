@@ -6,7 +6,7 @@ tags:
 ---
 # :doughnut: Gulab Jambu
 
-![Gulab Jambu](../assets/images/gulab-jambu.jpg)
+![Gulab Jambu](../assets/images/gulab-jambu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

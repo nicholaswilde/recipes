@@ -3,11 +3,11 @@ comments: true
 tags:
   - dessert
   - cheesecake
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :pie: New York-Style Cheesecake
 
-![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.jpg)
+![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

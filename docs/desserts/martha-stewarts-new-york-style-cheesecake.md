@@ -7,7 +7,7 @@ tags:
 ---
 # :cake: Martha Stewart's New York-Style Cheesecake
 
-![Martha Stewarts New York-Style Cheesecake](../assets/images/martha-stewarts-new-york-style-cheesecake.jpg)
+![Martha Stewarts New York-Style Cheesecake][2]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -122,3 +122,4 @@ Optionally, add a [sour cream topping][1].
 - <https://www.youtube.com/watch?v=0UB2nOT6Wic>
 
 [1]: <../ingredients/frosting/sour-cream-topping.md>
+[2]: <../assets/images/martha-stewarts-new-york-style-cheesecake.jpg>

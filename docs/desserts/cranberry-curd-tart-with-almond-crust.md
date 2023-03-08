@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Cranberry Curd Tart with Almond Crust
 
-![Cranberry Curd Tart with Almond Crust](../assets/images/cranberry-curd-tart-with-almond-crust.jpg)
+![Cranberry Curd Tart with Almond Crust](../assets/images/cranberry-curd-tart-with-almond-crust.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 ---
 # :candy: Montélimar Nougat
 
-![Montélimar Nougat](../assets/images/montélimar-nougat.jpg)
+![Montélimar Nougat](../assets/images/montélimar-nougat.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

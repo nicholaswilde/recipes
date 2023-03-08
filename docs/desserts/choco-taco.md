@@ -6,7 +6,7 @@ tags:
 ---
 # :taco: Choco Taco
 
-![Choco Taco](../assets/images/choco-taco.jpg)
+![Choco Taco](../assets/images/choco-taco.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

@@ -5,7 +5,7 @@ tags:
 ---
 # :custard: Gordon Ramsay's Chocolate Soufflé
 
-![Gordon Ramsay's Chocolate Soufflé](../assets/images/gordon-ramsay's-chocolate-soufflé.png)
+![Gordon Ramsay's Chocolate Soufflé](../assets/images/gordon-ramsay's-chocolate-soufflé.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

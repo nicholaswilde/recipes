@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: French Fruit Tart
 
-![French Fruit Tart](../assets/images/french-fruit-tart.jpg)
+![French Fruit Tart](../assets/images/french-fruit-tart.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

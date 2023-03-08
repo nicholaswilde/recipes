@@ -6,7 +6,7 @@ tags:
 ---
 # :apple: Ina Garten's Apple Crisp
 
-![Ina Garten's Apple Crisp](../assets/images/ina-garten's-apple-crisp.jpg)
+![Ina Garten's Apple Crisp](../assets/images/ina-garten's-apple-crisp.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

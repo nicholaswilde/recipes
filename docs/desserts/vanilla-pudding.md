@@ -3,7 +3,7 @@ comments: true
 ---
 # :icecream: Vanilla Pudding
 
-![Vanilla Pudding](../assets/images/vanilla-pudding.jpg)
+![Vanilla Pudding](../assets/images/vanilla-pudding.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

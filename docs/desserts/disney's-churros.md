@@ -5,9 +5,9 @@ tags:
   - mexican
   - dessert
 ---
-# Disney's Churros
+# :pretzel: Disney's Churros
 
-![Disney's Churros](../assets/images/disney's-churros.jpg)
+![Disney's Churros](../assets/images/disney's-churros.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
