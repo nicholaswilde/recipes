@@ -5,7 +5,7 @@ tags:
 ---
 # :glass_of_milk: Dulce de Leche
 
-![Dulce de Leche](../assets/images/dulce-de-leche.jpg)
+![Dulce de Leche](../assets/images/dulce-de-leche.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

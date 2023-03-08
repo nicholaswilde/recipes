@@ -5,7 +5,7 @@ tags:
 ---
 # :candy: Confectioners' Sugar
 
-![Confectioners Sugar](../assets/images/confectioners-sugar.jpg)
+![Confectioners Sugar](../assets/images/confectioners-sugar.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

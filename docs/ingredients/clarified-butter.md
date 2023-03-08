@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - butter
 ---
 # :butter: Clarified Butter
 
-![Clarified Butter](../assets/images/clarified-butter.jpg)
+![Clarified Butter](../assets/images/clarified-butter.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

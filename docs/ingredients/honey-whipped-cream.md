@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :icecream: Honey Whipped Cream
 
-![Honey Whipped Cream](../assets/images/honey-whipped-cream.jpg)
+![Honey Whipped Cream](../assets/images/honey-whipped-cream.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

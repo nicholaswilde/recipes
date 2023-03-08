@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :glass_of_milk: Evaporated Milk
 
-![Evaporated Milk](../assets/images/evaporated-milk.png)
+![Evaporated Milk](../assets/images/evaporated-milk.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

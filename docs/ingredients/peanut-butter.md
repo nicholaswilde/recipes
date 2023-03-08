@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - cooks-illusrated
 ---
 # :peanuts: Peanut Butter
 
-![Peanut Butter](../assets/images/peanut-butter.jpg)
+![Peanut Butter](../assets/images/peanut-butter.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

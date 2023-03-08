@@ -6,7 +6,7 @@ tags:
 ---
 # :onion: Caramelized Onions
 
-![Caramelized Onions](../assets/images/caramelized-onions.jpg)
+![Caramelized Onions](../assets/images/caramelized-onions.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

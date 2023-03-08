@@ -5,7 +5,7 @@ tags:
 ---
 # :hot_pepper: Chili Paste
 
-![Chili Paste](../assets/images/chili-paste.jpg)
+![Chili Paste](../assets/images/chili-paste.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

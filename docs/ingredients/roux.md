@@ -6,7 +6,7 @@ tags:
 ---
 # :stew: Roux
 
-![Roux](../assets/images/roux.png)
+![Roux](../assets/images/roux.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

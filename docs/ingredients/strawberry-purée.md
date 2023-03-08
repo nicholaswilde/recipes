@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: Strawberry Purée
 
-![Strawberry Purée](../assets/images/strawberry-purée.jpg)
+![Strawberry Purée](../assets/images/strawberry-purée.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

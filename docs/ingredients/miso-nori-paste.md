@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # Miso Nori Paste
 
-![Miso Nori](../assets/images/miso-nori-paste.jpg)
+![Miso Nori](../assets/images/miso-nori-paste.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

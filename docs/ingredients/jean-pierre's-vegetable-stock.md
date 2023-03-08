@@ -5,7 +5,7 @@ tags:
 ---
 # :stew: Jean Pierre's Vegetable Stock
 
-![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.jpg)
+![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

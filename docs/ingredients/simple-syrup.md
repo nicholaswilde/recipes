@@ -7,7 +7,7 @@ tags:
 ---
 # :maple_leaf: Simple Syrup
 
-![Rum Syrup](../assets/images/simple-syrup.jpg)
+![Rum Syrup](../assets/images/simple-syrup.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

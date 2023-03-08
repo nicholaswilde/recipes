@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Sauerkraut
 
-![Sauerkraut](../assets/images/sauerkraut.jpg)
+![Sauerkraut](../assets/images/sauerkraut.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :glass_of_milk: Sweetened Condensed Milk
 
-![Sweetened Condensed Milk](../assets/images/sweetened-condensed-milk.jpg)
+![Sweetened Condensed Milk](../assets/images/sweetened-condensed-milk.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

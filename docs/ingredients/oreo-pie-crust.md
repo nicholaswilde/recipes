@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - crust
 ---
 # :pie: Oreo Pie Crust
 
-![Oreo Pie Crust](../assets/images/oreo-pie-crust.jpg)
+![Oreo Pie Crust](../assets/images/oreo-pie-crust.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -23,9 +26,11 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     This recipe works best with classic Oreo cookies. I suggest not using the Thins, Double Stuf, or Mega Stuf.
 
 !!! note
+
     This crust recipe can be pressed into a 9 to 10-inch springform pan for a cheesecake crust as well.
 
 ### Step 1

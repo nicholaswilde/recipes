@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mix
+  - ingredient
 ---
 # Ranch Dressing Mix
 
-![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.jpg)
+![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,17 +14,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup dry buttermilk
-- 2.5 Tbsp dried parsley
-- 2 Tbsp dried chives
-- 2 tsp dried dill
-- 2.5 tsp garlic powder
-- 1.5 tsp onion powder
-- 1.5 tsp dried onion flakes
-- 2 tsp salt
-- 0.5 tsp black pepper
-- 0.5 tsp paprika
-- 0.25 tsp cayenne
+- :butter: 1 cup dry buttermilk
+- :herb: 2.5 Tbsp dried parsley
+- :herb: 2 Tbsp dried chives
+- :seedling: 2 tsp dried dill
+- :garlic: 2.5 tsp garlic powder
+- :onion: 1.5 tsp onion powder
+- :onion: 1.5 tsp dried onion flakes
+- :salt: 2 tsp salt
+- :salt: 0.5 tsp black pepper
+- :bell_pepper: 0.5 tsp paprika
+- :hot_pepper: 0.25 tsp cayenne
 
 ## :cooking: Cookware
 
@@ -30,6 +33,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     2 tablespoons of the ranch mix is equivalent to one packet.
 
 ### Step 1

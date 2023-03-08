@@ -6,7 +6,7 @@ tags:
 ---
 # :seedling: Brown Butter with Sage
 
-![Brown Butter with Sage](../assets/images/brown-butter-with-sage.jpg)
+![Brown Butter with Sage](../assets/images/brown-butter-with-sage.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

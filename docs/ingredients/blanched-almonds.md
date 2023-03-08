@@ -5,7 +5,7 @@ tags:
 ---
 # :chestnut: Blanched Almonds
 
-![Blanched Almonds](../assets/images/blanched-almonds.png)
+![Blanched Almonds](../assets/images/blanched-almonds.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

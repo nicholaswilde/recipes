@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - puree
+  - ingredient
 ---
 # :jack_o_lantern: Pumpkin Purée
 
-![Pumpkin Purée](../assets/images/pumpkin-purée.jpg)
+![Pumpkin Purée](../assets/images/pumpkin-purée.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,10 +3,11 @@ comments: true
 tags:
   - ingredient
   - joy-of-cooking
+  - whipped-cream
 ---
 # :icecream: Sweetened Whipped Cream
 
-![Sweetened Whipped Cream](../assets/images/sweetened-whipped-cream.jpg)
+![Sweetened Whipped Cream](../assets/images/sweetened-whipped-cream.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

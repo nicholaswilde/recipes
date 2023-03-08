@@ -6,7 +6,7 @@ tags:
 ---
 # :flatbread: Nixtamal Nicoyan Corn Tortillas
 
-![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.jpg)
+![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

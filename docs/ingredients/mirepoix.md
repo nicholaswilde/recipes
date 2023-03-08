@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :leafy_green: Mirepoix
 
-![Mirepoix](../assets/images/mirepoix.jpg)
+![Mirepoix](../assets/images/mirepoix.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - dough
+  - ingredient
 ---
 # :pizza: Pizza Dough
 
-![Pizza Dough](../assets/images/pizza-dough.jpg)
+![Pizza Dough](../assets/images/pizza-dough.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :tomato: Tomato Paste
 
-![Tomato Paste](../assets/images/tomato-paste.png)
+![Tomato Paste](../assets/images/tomato-paste.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

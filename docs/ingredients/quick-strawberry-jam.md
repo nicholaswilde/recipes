@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: Quick Strawberry Jam
 
-![Quick Strawberry Jam](../assets/images/quick-strawberry-jam.png)
+![Quick Strawberry Jam](../assets/images/quick-strawberry-jam.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

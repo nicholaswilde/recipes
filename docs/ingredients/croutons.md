@@ -5,7 +5,7 @@ tags:
 ---
 # :baguette_bread: Croutons
 
-![Croutons](../assets/images/croutons.jpg)
+![Croutons](../assets/images/croutons.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

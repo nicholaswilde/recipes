@@ -4,11 +4,11 @@ tags:
   - italian
   - ingredient
   - pasta
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :spaghetti: Pasta
 
-![Pasta](../assets/images/pasta.png)
+![Pasta](../assets/images/pasta.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

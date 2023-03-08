@@ -5,7 +5,7 @@ tags:
 ---
 # :onion: Onion Pique
 
-![Onion Pique](../assets/images/onion-pique.jpg)
+![Onion Pique](../assets/images/onion-pique.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

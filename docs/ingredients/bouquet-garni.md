@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: Bouquet Garni
 
-![Bouquet Garni](../assets/images/bouquet-garni.png)
+![Bouquet Garni](../assets/images/bouquet-garni.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

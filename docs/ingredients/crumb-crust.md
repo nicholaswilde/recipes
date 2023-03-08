@@ -2,11 +2,11 @@
 comments: true
 tags:
   - joy-of-cooking
-  - ingredient 
+  - ingredient
 ---
 # :pie: Crumb Crust
 
-![Crumb Crust](../assets/images/crumb-crust.jpg)
+![Crumb Crust](../assets/images/crumb-crust.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :bread: Breadcrumbs
 
-![Breadcrumbs](../assets/images/breadcrumbs.jpg)
+![Breadcrumbs](../assets/images/breadcrumbs.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
-# Sourdough Starter
+# :microbe: Sourdough Starter
 
-![Sourdough Starter](../assets/images/sourdough-starter.jpg)
+![Sourdough Starter](../assets/images/sourdough-starter.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,8 +13,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4.5 cups whole-wheat flour
-- 5 cups all-purpose flour
+- :ear_of_rice: 4.5 cups whole-wheat flour
+- :ear_of_rice: 5 cups all-purpose flour
 
 ## :cooking: Cookware
 

@@ -5,7 +5,7 @@ tags:
 ---
 # :ear_of_rice: Bisquick
 
-![Bisquick](../assets/images/bisquick.jpg)
+![Bisquick](../assets/images/bisquick.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

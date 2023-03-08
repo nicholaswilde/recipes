@@ -5,7 +5,7 @@ tags:
 ---
 # :icecream: Ice Cream Cones
 
-![Ice Cream Cones](../assets/images/ice-cream-cones.jpg)
+![Ice Cream Cones](../assets/images/ice-cream-cones.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

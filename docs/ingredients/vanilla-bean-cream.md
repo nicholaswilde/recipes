@@ -5,7 +5,7 @@ tags:
 ---
 # :icecream: Vanilla Bean Cream
 
-![Vanilla Bean Cream](../assets/images/vanilla-bean-cream.jpg)
+![Vanilla Bean Cream](../assets/images/vanilla-bean-cream.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

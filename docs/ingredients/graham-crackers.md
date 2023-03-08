@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Graham Crackers
 
-![Graham Crackers](../assets/images/graham-crackers.jpg)
+![Graham Crackers](../assets/images/graham-crackers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - cooks-illustrated
 ---
-# Yogurt
+# :microbe: Yogurt
 
-![Yogurt](../assets/images/yogurt.jpg)
+![Yogurt](../assets/images/yogurt.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,9 +14,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- 7.5 cups ultra-pasteurized whole, 2 percent low-fat, 1 percent low-fat, or skim milk
-- 0.5 cup plain yogurt
-- 5 quarts water
+- :glass_of_milk: 7.5 cups ultra-pasteurized whole, 2 percent low-fat, 1 percent low-fat, or skim milk
+- :microbe: 0.5 cup plain yogurt
+- :droplet: 5 quarts water
 
 ## :cooking: Cookware
 

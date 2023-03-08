@@ -6,7 +6,7 @@ tags:
 ---
 # :pancakes: Blueberry Syrup for Pancakes
 
-![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.jpg)
+![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,8 +16,6 @@ tags:
 
 - :maple_leaf: 0.5 cup maple syrup
 - :blue_circle: 1.5 cup blueberries
-
-## :cooking: Cookware
 
 ## :pencil: Instructions
 

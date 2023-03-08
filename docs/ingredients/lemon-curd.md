@@ -6,7 +6,7 @@ tags:
 ---
 # :lemon: Lemon Curd
 
-![Lemon Curd](../assets/images/lemon-curd.jpg)
+![Lemon Curd](../assets/images/lemon-curd.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

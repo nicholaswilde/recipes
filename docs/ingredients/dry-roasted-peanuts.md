@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :peanuts: Dry Roasted Peanuts
 
-![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg)
+![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -20,6 +22,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     You can use raw or preroasted peanuts here, but do not use salted peanuts. Roasting the nuts before grinding them not
     only boosts their flavor but also warms their oils, allowing for faster breakdown during processing. (We also warm
     preroasted nuts for this reason.)

@@ -5,7 +5,7 @@ tags:
 ---
 # :chestnut: Toasted Nuts
 
-![Toasted Nuts](../assets/images/toasted-nuts.jpg)
+![Toasted Nuts](../assets/images/toasted-nuts.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 ---
 # :maple_leaf: Brown Sugar
 
-![Brown Sugar](../assets/images/brown-sugar.jpg)
+![Brown Sugar](../assets/images/brown-sugar.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

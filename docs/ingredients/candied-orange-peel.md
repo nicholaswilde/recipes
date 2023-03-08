@@ -3,7 +3,7 @@ comments: true
 ---
 # :orange_circle: Candied Orange Peel
 
-![Candied Orange Peel](../assets/images/candied-orange-peel.jpg)
+![Candied Orange Peel](../assets/images/candied-orange-peel.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

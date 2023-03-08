@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :grapes: Date Paste
 

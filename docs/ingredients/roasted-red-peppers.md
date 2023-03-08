@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :bell_pepper: Roasted Red Peppers
 
-![Roasted Red Peppers](../assets/images/roasted-red-peppers.jpg)
+![Roasted Red Peppers](../assets/images/roasted-red-peppers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

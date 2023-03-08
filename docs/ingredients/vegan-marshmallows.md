@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - vegan
 ---
 # :dango: Vegan Marshmallows
 
-![Vegan Marshmallows](../assets/images/vegan-marshmallows.jpg)
+![Vegan Marshmallows](../assets/images/vegan-marshmallows.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

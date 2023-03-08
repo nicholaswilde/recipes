@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - mix
 ---
 # :onion: Onion Soup Mix
 
-![Onion Soup Mix](../assets/images/onion-soup-mix.png)
+![Onion Soup Mix](../assets/images/onion-soup-mix.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,8 +21,6 @@ comments: true
 - :leafy_green: 0.13 tsp celery seed
 - :hot_pepper: 0.13 tsp paprika
 - :salt: 0.13 tsp pepper
-
-## :cooking: Cookware
 
 ## :pencil: Instructions
 

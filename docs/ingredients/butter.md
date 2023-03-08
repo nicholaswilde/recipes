@@ -5,7 +5,7 @@ tags:
 ---
 # :butter: Butter
 
-![Butter](../assets/images/butter.jpg)
+![Butter](../assets/images/butter.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
