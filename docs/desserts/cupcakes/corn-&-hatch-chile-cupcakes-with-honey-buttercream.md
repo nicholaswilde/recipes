@@ -7,7 +7,7 @@ tags:
 ---
 # :cupcake: Corn & Hatch Chile Cupcakes with Honey Buttercream
 
-![Corn & Hatch Chile Cupcakes with Honey Buttercream](../../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png)
+![Corn & Hatch Chile Cupcakes with Honey Buttercream][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -85,3 +85,5 @@ For the best eating experience, these cupcakes should be enjoyed the day they ar
 ## :link: Source
 
 - <https://www.traderjoes.com/home/discover/stories/corn-recipe-contest-winners>
+
+[1]: <../../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png>

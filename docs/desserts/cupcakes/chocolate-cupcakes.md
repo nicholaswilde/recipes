@@ -6,7 +6,7 @@ tags:
 ---
 # :cupcake: Chocolate Cupcakes
 
-![Chocolate Cupcakes](../../assets/images/chocolate-cupcakes.jpg)
+![Chocolate Cupcakes](../../assets/images/chocolate-cupcakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

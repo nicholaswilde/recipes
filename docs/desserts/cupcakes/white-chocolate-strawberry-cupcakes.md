@@ -6,7 +6,7 @@ tags:
 ---
 # :cupcake: White Chocolate Strawberry Cupcakes
 
-![White Chocolate Strawberry Cupcakes](../../assets/images/white-chocolate-strawberry-cupcakes.jpg)
+![White Chocolate Strawberry Cupcakes](../../assets/images/white-chocolate-strawberry-cupcakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
