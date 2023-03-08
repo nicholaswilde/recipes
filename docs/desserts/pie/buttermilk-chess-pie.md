@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Buttermilk Chess Pie
 
-![Buttermilk Chess Pie](../../assets/images/buttermilk-chess-pie.png)
+![Buttermilk Chess Pie](../../assets/images/buttermilk-chess-pie.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

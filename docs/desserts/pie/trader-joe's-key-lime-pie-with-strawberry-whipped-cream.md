@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Trader Joe's Key Lime Pie with Strawberry Whipped Cream
 
-![Trader Joe's Key Lime Pie with Strawberry Whipped Cream](../../assets/images/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.png)
+![Trader Joe's Key Lime Pie with Strawberry Whipped Cream][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -50,3 +50,5 @@ and use within a day.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/key-lime-pie-strawberry-whipped-cream>
+
+[1]: <../../assets/images/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.png>

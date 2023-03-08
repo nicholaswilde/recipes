@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Banoffee Pie
 
-![Banoffee Pie](../../assets/images/banoffee-pie.jpg)
+![Banoffee Pie](../../assets/images/banoffee-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

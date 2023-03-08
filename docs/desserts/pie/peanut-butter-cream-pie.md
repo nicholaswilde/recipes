@@ -6,7 +6,7 @@ tags:
 ---
 # :peanuts: Peanut Butter Cream Pie
 
-![Peanut Butter Cream Pie](../../assets/images/peanut-butter-cream-pie.jpg)
+![Peanut Butter Cream Pie](../../assets/images/peanut-butter-cream-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

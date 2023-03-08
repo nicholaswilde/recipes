@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Chess Pie
 
-![Chess Pie](../../assets/images/chess-pie.jpg)
+![Chess Pie](../../assets/images/chess-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

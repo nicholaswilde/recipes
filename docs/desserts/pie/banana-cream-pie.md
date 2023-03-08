@@ -7,7 +7,7 @@ tags:
 ---
 # :banana: Banana Cream Pie
 
-![Banana Cream Pie](../../assets/images/banana-cream-pie.jpg)
+![Banana Cream Pie](../../assets/images/banana-cream-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

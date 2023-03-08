@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Lemon Pie
 
-![Lemon Pie](../../assets/images/lemon-pie.jpg)
+![Lemon Pie](../../assets/images/lemon-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

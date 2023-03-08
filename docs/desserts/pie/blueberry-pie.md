@@ -4,9 +4,9 @@ tags:
   - pie
   - dessert
 ---
-# Blueberry Pie
+# :pie: Blueberry Pie
 
-![Blueberry Pie](../../assets/images/blueberry-pie.jpg)
+![Blueberry Pie](../../assets/images/blueberry-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -14,22 +14,22 @@ tags:
 
 ## :salt: Ingredients
 
-- 8 Tbsp vegetable shortening
-- 12 Tbsp unsalted butter
-- 2.5 cups flour
-- 2 Tbsp sugar
-- 1 tsp salt
-- 0.25 cup vodka
-- 0.25 cup ice water
-- 3 cups berries
-- 1 granny smith apple
-- 3 cups berries
-- 2 Tbsp unsalted butter
-- 0.75 cup sugar
-- 2 Tbsp instant tapioca
-- 2 tsp lemon zest
-- 2 tsp lemon juice
-- some salt
+- :carrot: 8 Tbsp vegetable shortening
+- :butter: 12 Tbsp unsalted butter
+- :ear_of_rice: 2.5 cups flour
+- :candy: 2 Tbsp sugar
+- :salt: 1 tsp salt
+- :tumbler_glass: 0.25 cup vodka
+- :ice_cube: 0.25 cup ice water
+- :blue_circle: 3 cups berries
+- :green_apple: 1 granny smith apple
+- :blue_circle: 3 cups berries
+- :butter: 2 Tbsp unsalted butter
+- :candy: 0.75 cup sugar
+- :custard: 2 Tbsp instant tapioca
+- :lemon: 2 tsp lemon zest
+- :lemon: 2 tsp lemon juice
+- :salt: some salt
 
 ## :cooking: Cookware
 

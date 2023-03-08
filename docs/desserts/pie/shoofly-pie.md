@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - pie
+  - dessert
 ---
 # :pie: Shoofly Pie
 
-![Shoofly Pie](../../assets/images/shoofly-pie.png)
+![Shoofly Pie](../../assets/images/shoofly-pie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

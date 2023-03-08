@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Tart Cherry Pie
 
-![Tart Cherry Pie](../../assets/images/tart-cherry-pie.jpg)
+![Tart Cherry Pie](../../assets/images/tart-cherry-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

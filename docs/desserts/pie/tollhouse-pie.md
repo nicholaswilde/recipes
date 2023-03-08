@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Tollhouse Pie
 
-![Tollhouse Pie](../../assets/images/tollhouse-pie.jpg)
+![Tollhouse Pie](../../assets/images/tollhouse-pie.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: His Favorite Butterscotch Pie
 
-![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.jpg)
+![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
