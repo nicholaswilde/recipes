@@ -7,7 +7,7 @@ tags:
 ---
 # :orange_circle: Unexpected Cheddar Cheese Ball
 
-![Unexpected Cheddar Cheese Ball](../assets/images/unexpected-cheddar-cheese-ball.png)
+![Unexpected Cheddar Cheese Ball](../assets/images/unexpected-cheddar-cheese-ball.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

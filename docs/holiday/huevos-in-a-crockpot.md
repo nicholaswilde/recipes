@@ -6,7 +6,7 @@ tags:
 ---
 # :egg: Huevos in a Crockpot
 
-![Huevos in a Crockpot](../assets/images/huevos-in-a-crockpot.jpg)
+![Huevos in a Crockpot](../assets/images/huevos-in-a-crockpot.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

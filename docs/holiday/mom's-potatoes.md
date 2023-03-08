@@ -5,7 +5,7 @@ tags:
 ---
 # :potato: Mom's Potatoes
 
-![Mom's Potatoes](../assets/images/mom's-potatoes.jpg)
+![Mom's Potatoes](../assets/images/mom's-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

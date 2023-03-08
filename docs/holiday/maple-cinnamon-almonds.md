@@ -6,7 +6,7 @@ tags:
 ---
 # :chestnut: Maple-Cinnamon Almonds
 
-![Maple-Cinnamon Almonds](../assets/images/maple-cinnamon-almonds.jpg)
+![Maple-Cinnamon Almonds](../assets/images/maple-cinnamon-almonds.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :stuffed_flatbread: Vegetarian Stuffing
 
-![Vegetarian Stuffing](../assets/images/vegetarian-stuffing.jpg)
+![Vegetarian Stuffing](../assets/images/vegetarian-stuffing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

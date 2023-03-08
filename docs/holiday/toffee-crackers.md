@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Toffee Crackers
 
-![Toffee Crackers](../assets/images/toffee-crackers.jpg)
+![Toffee Crackers](../assets/images/toffee-crackers.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

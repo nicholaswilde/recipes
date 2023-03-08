@@ -4,10 +4,11 @@ tags:
   - holiday
   - pie
   - peppermint
+  - magnolia
 ---
 # :pie: Double Chocolate Peppermint Pie
 
-![Double Chocolate Peppermint Pie](../assets/images/double-chocolate-peppermint-pie.jpg)
+![Double Chocolate Peppermint Pie](../assets/images/double-chocolate-peppermint-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

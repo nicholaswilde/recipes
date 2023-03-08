@@ -5,7 +5,7 @@ tags:
 ---
 # :chocolate_bar: Chocolate-Peanut Clusters
 
-![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.jpg)
+![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Tiny Mini Kisses Peanut Blossoms
 
-![Tiny Mini Kisses Peanut Blossoms](../assets/images/tiny-mini-kisses-peanut-blossoms.jpg)
+![Tiny Mini Kisses Peanut Blossoms](../assets/images/tiny-mini-kisses-peanut-blossoms.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

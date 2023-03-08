@@ -8,7 +8,7 @@ tags:
 ---
 # :peanuts: Old-Fashioned Peanut Butter Fudge
 
-![Old-Fashioned Peanut Butter Fudge](../assets/images/old-fashioned-peanut-butter-fudge.jpg)
+![Old-Fashioned Peanut Butter Fudge](../assets/images/old-fashioned-peanut-butter-fudge.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

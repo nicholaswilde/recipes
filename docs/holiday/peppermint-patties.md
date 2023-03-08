@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Peppermint Patties
 
-![Peppermint Patties](../assets/images/peppermint-patties.jpg)
+![Peppermint Patties](../assets/images/peppermint-patties.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

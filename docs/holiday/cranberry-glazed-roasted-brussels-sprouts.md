@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Cranberry Glazed Roasted Brussels Sprouts
 
-![Cranberry Glazed Roasted Brussels Sprouts](../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg)
+![Cranberry Glazed Roasted Brussels Sprouts][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -68,3 +68,5 @@ clung and coated the Brussels sprouts.
 ## :link: Source
 
 - <https://www.halfbakedharvest.com/cranberry-glazed-roasted-brussel-sprouts/>
+
+[1]: <../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg>

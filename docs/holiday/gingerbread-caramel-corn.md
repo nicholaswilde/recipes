@@ -5,7 +5,7 @@ tags:
 ---
 # :corn: Gingerbread Caramel Corn
 
-![Gingerbread Caramel Corn](../assets/images/gingerbread-caramel-corn.jpg)
+![Gingerbread Caramel Corn](../assets/images/gingerbread-caramel-corn.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

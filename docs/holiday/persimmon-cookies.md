@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Persimmon Cookies
 
-![Persimmon Cookies](../assets/images/persimmon-cookies.jpg)
+![Persimmon Cookies](../assets/images/persimmon-cookies.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :snowman: Gingerbread People
 
-![Gingerbread People](../assets/images/gingerbread-people.jpg)
+![Gingerbread People](../assets/images/gingerbread-people.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

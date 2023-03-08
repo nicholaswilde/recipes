@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Baked Ziti
 
-![Baked Ziti](../assets/images/baked-ziti.jpg)
+![Baked Ziti](../assets/images/baked-ziti.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

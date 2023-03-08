@@ -6,7 +6,7 @@ tags:
 ---
 # :stuffed_flatbread: Grandpa's Stuffing
 
-![Grandpa's Stuffing](../assets/images/grandpa's-stuffing.jpg)
+![Grandpa's Stuffing](../assets/images/grandpa's-stuffing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -8,7 +8,7 @@ tags:
 ---
 # :cookie: Peppermint Chocolate Cookies
 
-![Peppermint Chocolate Cookies](../assets/images/peppermint-chocolate-cookies.jpg)
+![Peppermint Chocolate Cookies](../assets/images/peppermint-chocolate-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

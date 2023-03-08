@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Chocolate Mousse Pie with Joe-Joe's Crust
 
-![Chocolate Mousse Pie with Joe-Joe's Crust](../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg)
+![Chocolate Mousse Pie with Joe-Joe's Crust][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -56,3 +56,5 @@ Pour filling into crust and chill for 4 hours or overnight in the fridge.
 ### Step 7
 
 Serve with whipped cream.
+
+[1]: <../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg>

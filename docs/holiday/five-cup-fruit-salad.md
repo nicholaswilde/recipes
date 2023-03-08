@@ -6,7 +6,7 @@ tags:
 ---
 # :pineapple: Five-Cup Fruit Salad
 
-![Five-Cup Fruit Salad](../assets/images/five-cup-fruit-salad.jpg)
+![Five-Cup Fruit Salad](../assets/images/five-cup-fruit-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

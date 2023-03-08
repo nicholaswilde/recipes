@@ -7,7 +7,7 @@ tags:
 ---
 # :chocolate_bar: Peppermint Fudge
 
-![Peppermint Fudge](../assets/images/peppermint-fudge.jpg)
+![Peppermint Fudge](../assets/images/peppermint-fudge.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

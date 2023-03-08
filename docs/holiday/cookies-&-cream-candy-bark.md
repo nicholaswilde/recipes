@@ -5,7 +5,7 @@ tags:
 ---
 # :chocolate_bar: Cookies & Cream Candy Bark
 
-![Cookies & Cream Candy Bark](../assets/images/cookies-&-cream-candy-bark.jpg)
+![Cookies & Cream Candy Bark](../assets/images/cookies-&-cream-candy-bark.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

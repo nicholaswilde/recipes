@@ -5,7 +5,7 @@ tags:
 ---
 # :chestnut: Holiday Nuts
 
-![Holiday Nuts](../assets/images/holiday-nuts.jpg)
+![Holiday Nuts](../assets/images/holiday-nuts.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

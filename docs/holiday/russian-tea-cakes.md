@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Russian Tea Cakes
 
-![Russian Tea Cakes](../assets/images/russian-tea-cakes.jpg)
+![Russian Tea Cakes](../assets/images/russian-tea-cakes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

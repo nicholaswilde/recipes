@@ -8,7 +8,7 @@ tags:
 ---
 # :chocolate_bar: Creamy Double Decker Fudge
 
-![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.jpg)
+![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

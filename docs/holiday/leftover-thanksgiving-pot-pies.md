@@ -5,7 +5,7 @@ tags:
 ---
 # :pie: Leftover Thanksgiving Pot Pies
 
-![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.jpg)
+![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

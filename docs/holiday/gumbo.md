@@ -5,7 +5,7 @@ tags:
 ---
 # :stew: Gumbo
 
-![Gumbo](../assets/images/gumbo.jpg)
+![Gumbo](../assets/images/gumbo.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

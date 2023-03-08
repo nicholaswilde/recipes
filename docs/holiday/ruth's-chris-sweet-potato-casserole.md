@@ -6,7 +6,7 @@ tags:
 ---
 # :potato: Ruth's Chris Sweet Potato Casserole
 
-![Ruth's Chris Sweet Potato Casserole](../assets/images/ruth's-chris-sweet-potato-casserole.jpg)
+![Ruth's Chris Sweet Potato Casserole](../assets/images/ruth's-chris-sweet-potato-casserole.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

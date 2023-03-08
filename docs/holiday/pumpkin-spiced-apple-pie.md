@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Pumpkin Spiced Apple Pie
 
-![Pumpkin Spiced Apple Pie](../assets/images/pumpkin-spiced-apple-pie.jpg)
+![Pumpkin Spiced Apple Pie](../assets/images/pumpkin-spiced-apple-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

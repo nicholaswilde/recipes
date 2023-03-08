@@ -5,7 +5,7 @@ tags:
 ---
 # :chocolate_bar: Chocolate Truffles
 
-![Chocolate Truffles](../assets/images/chocolate-truffles.jpg)
+![Chocolate Truffles](../assets/images/chocolate-truffles.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
