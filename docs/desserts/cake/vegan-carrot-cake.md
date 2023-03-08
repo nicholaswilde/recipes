@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - cake
+  - dessert
+  - vegan
 ---
 # :cake: Vegan Carrot Cake
 
-![Vegan Carrot Cake](../../assets/images/vegan-carrot-cake.jpg)
+![Vegan Carrot Cake](../../assets/images/vegan-carrot-cake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

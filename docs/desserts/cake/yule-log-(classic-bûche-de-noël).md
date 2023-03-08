@@ -7,7 +7,7 @@ tags:
 ---
 # :wood: Yule Log (Classic Bûche de Noël)
 
-![Yule Log (Classic Bûche de Noël)](../../assets/images/yule-log-(classic-bûche-de-noël).jpg)
+![Yule Log (Classic Bûche de Noël)](../../assets/images/yule-log-(classic-bûche-de-noël).jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Victoria Sandwich Cake
 
-![Victoria Sandwich Cake](../../assets/images/victoria-sandwich-cake.png)
+![Victoria Sandwich Cake](../../assets/images/victoria-sandwich-cake.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
