@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - meringue
+  - ingredient
 ---
 # :egg: Swiss Meringue
 
-![Swiss Meringue](../../assets/images/swiss-meringue.jpg)
+![Swiss Meringue](../../assets/images/swiss-meringue.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

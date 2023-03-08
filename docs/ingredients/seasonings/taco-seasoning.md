@@ -6,7 +6,7 @@ tags:
 ---
 # :taco: Taco Seasoning
 
-![Taco Seasoning](../../assets/images/taco-seasoning.jpg)
+![Taco Seasoning](../../assets/images/taco-seasoning.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

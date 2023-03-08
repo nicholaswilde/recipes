@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: Fruit Glaze (Nappage)
 
-![Fruit Glaze (Nappage)](../../assets/images/fruit-glaze-(nappage).jpg)
+![Fruit Glaze (Nappage)](../../assets/images/fruit-glaze-(nappage).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

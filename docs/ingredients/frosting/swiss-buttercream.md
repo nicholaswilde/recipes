@@ -8,7 +8,7 @@ tags:
 ---
 # :cake: Swiss Buttercream
 
-![Swiss Buttercream](../../assets/images/swiss-buttercream.jpg)
+![Swiss Buttercream](../../assets/images/swiss-buttercream.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

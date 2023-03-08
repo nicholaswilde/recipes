@@ -6,7 +6,7 @@ tags:
 ---
 # :candy: Dry Caramel
 
-![Dry Caramel](../../assets/images/dry-caramel.jpg)
+![Dry Caramel](../../assets/images/dry-caramel.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

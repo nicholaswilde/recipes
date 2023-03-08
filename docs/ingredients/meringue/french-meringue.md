@@ -3,11 +3,11 @@ comments: true
 tags:
   - meringue
   - ingredient
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :egg: French Meringue
 
-![French Meringue](../../assets/images/french-meringue.jpg)
+![French Meringue](../../assets/images/french-meringue.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

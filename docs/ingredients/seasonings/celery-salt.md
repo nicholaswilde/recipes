@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Celery Salt
 
-![Celery Salt](../../assets/images/celery-salt.jpg)
+![Celery Salt](../../assets/images/celery-salt.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :candy: Cinnamon Sugar
 
-![Cinnamon Sugar](../../assets/images/cinnamon-sugar.jpg)
+![Cinnamon Sugar](../../assets/images/cinnamon-sugar.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -8,7 +8,7 @@ tags:
 ---
 # :butter: French Buttercream
 
-![French Buttercream](../../assets/images/french-buttercream.jpg)
+![French Buttercream](../../assets/images/french-buttercream.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

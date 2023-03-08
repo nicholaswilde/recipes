@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - extract
 ---
 # :lemon: Lemon Extract
 
-![Lemon Extract](../../assets/images/lemon-extract.jpg)
+![Lemon Extract](../../assets/images/lemon-extract.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

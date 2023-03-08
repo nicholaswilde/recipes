@@ -6,7 +6,7 @@ tags:
 ---
 # :rice: Sour Cream Topping
 
-![Sour Cream Topping](../../assets/images/sour-cream-topping.jpg)
+![Sour Cream Topping](../../assets/images/sour-cream-topping.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

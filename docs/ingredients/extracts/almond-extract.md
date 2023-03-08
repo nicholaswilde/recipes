@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - extract
 ---
 # :chestnut: Almond Extract
 
-![Almond Extract](../../assets/images/almond-extract.png)
+![Almond Extract](../../assets/images/almond-extract.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -35,6 +38,7 @@ Chop your raw, unsalted almonds small enough to fit in your 2-fl. oz glass jar.
 Place chopped almonds into your jar.
 
 !!! note
+
     For the almond extract, it is probably best to use, or re-use, a larger jar. Then as few as 8 almonds, which have
     been skinned, chopped and covered with the vodka or bourbon or glycerin in a small jar if using. I would use a
     larger jar and a handful of almonds, as many as you like. Cover the chopped almonds to about one inch over the

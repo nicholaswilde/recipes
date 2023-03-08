@@ -5,7 +5,7 @@ tags:
 ---
 # :butter: Beurre Manié
 
-![Beurre Manié](../assets/images/beurre-manié.jpg)
+![Beurre Manié](../assets/images/beurre-manié.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - pastry-dough
 ---
 # :pie: Danish Pastry
 
-![Danish Pastry](../../assets/images/danish-pastry.png)
+![Danish Pastry](../../assets/images/danish-pastry.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

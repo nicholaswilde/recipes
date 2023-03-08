@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - butter
+  - ingredient
 ---
 # :butter: 3-Ingredient Garlic Butter
 
-![3-Ingredient Garlic Butter](../assets/images/3-ingredient-garlic-butter.jpg)
+![3-Ingredient Garlic Butter](../assets/images/3-ingredient-garlic-butter.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

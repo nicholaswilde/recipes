@@ -5,7 +5,7 @@ tags:
 ---
 # :chestnut: Almond Flour
 
-![Almond Flour](../assets/images/almond-flour.jpg)
+![Almond Flour](../assets/images/almond-flour.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

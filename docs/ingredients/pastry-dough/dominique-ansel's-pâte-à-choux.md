@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Dominique Ansel's Pâte à Choux
 
-![Dominique Ansel's Pâte à Choux](../../assets/images/dominique-ansel's-pâte-à-choux.jpg)
+![Dominique Ansel's Pâte à Choux](../../assets/images/dominique-ansel's-pâte-à-choux.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

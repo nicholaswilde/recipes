@@ -3,11 +3,11 @@ comments: true
 tags:
   - glaze
   - joy-of-cooking
-  - ingredient 
+  - ingredient
 ---
 # :glass_of_milk: Milk Glaze
 
-![Milk Glaze](../../assets/images/milk-glaze.jpg)
+![Milk Glaze](../../assets/images/milk-glaze.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,10 +4,9 @@ tags:
   - ingredients
   - seasoning
 ---
-
 # :herb: Herbes de Provence
 
-![Herbes de Provence](../../assets/images/herbes-de-provence.png)
+![Herbes de Provence](../../assets/images/herbes-de-provence.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

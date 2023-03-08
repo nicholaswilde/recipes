@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - tofu
 ---
 # :butter: Tofu Preparation
 

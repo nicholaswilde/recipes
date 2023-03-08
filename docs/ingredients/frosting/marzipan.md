@@ -6,7 +6,7 @@ tags:
 ---
 # :dango: Marzipan
 
-![Marzipan](../../assets/images/marzipan.jpg)
+![Marzipan](../../assets/images/marzipan.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - frosting
 ---
 # :cupcake: Mom's Buttercream Frosting
 
-![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.jpg)
+![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

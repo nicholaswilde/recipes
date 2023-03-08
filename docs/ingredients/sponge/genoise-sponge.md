@@ -6,7 +6,7 @@ tags:
 ---
 # :cake: Genoise Sponge
 
-![Genoise Sponge](../../assets/images/genoise-sponge.jpg)
+![Genoise Sponge](../../assets/images/genoise-sponge.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

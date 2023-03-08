@@ -7,7 +7,7 @@ tags:
 ---
 # :candy: Wet Caramel
 
-![Wet Caramel](../../assets/images/wet-caramel.jpg)
+![Wet Caramel](../../assets/images/wet-caramel.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

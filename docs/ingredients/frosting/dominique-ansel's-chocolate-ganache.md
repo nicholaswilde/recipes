@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Dominique Ansel's Chocolate Ganache
 
-![Dominique Ansel's Chocolate Ganache](../../assets/images/dominique-ansel's-chocolate-ganache.jpg)
+![Dominique Ansel's Chocolate Ganache](../../assets/images/dominique-ansel's-chocolate-ganache.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

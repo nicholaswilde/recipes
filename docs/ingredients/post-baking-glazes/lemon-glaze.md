@@ -3,11 +3,11 @@ comments: true
 tags:
   - joy-of-cooking
   - glaze
-  - ingredient 
+  - ingredient
 ---
 # :lemon: Lemon Glaze
 
-![Lemon Glaze](../../assets/images/lemon-glaze.jpg)
+![Lemon Glaze](../../assets/images/lemon-glaze.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

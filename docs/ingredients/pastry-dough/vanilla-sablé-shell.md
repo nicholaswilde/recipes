@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Vanilla Sablé Shell
 
-![Vanilla Sablé Shell](../../assets/images/vanilla-sablé-shell.jpg)
+![Vanilla Sablé Shell](../../assets/images/vanilla-sablé-shell.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

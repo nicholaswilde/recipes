@@ -7,7 +7,7 @@ tags:
 ---
 # :birthday: Cream Cheese Frosting
 
-![Cream Cheese Frosting](../../assets/images/cream-cheese-frosting.png)
+![Cream Cheese Frosting](../../assets/images/cream-cheese-frosting.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

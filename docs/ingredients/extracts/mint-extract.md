@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - extract
+  - ingredient
 ---
 # :shamrock: Mint Extract
 
-![Mint Extract](../../assets/images/mint-extract.jpg)
+![Mint Extract](../../assets/images/mint-extract.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

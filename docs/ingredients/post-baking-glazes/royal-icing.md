@@ -6,7 +6,7 @@ tags:
 ---
 # :crown: Royal Icing
 
-![Royal Icing](../../assets/images/royal-icing.png)
+![Royal Icing](../../assets/images/royal-icing.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -31,6 +31,7 @@ tags:
 - :thermometer: 1 thermometer
 
 !!! note
+
     This decorative icing dries hard like plaster and is pure white unless tinted with food coloring. Mad with a bit
     less sugar, it is still spreadable (or you can add a little water); otherwise, it is stiff enough to pipe and makes
     beautiful filigree, lace, tiny dots, and string work on wedding cakes. The icing is mostly sugar and not especially

@@ -8,7 +8,7 @@ tags:
 ---
 # :candy: Peppermint Buttercream Frosting
 
-![Peppermint Buttercream Frosting](../../assets/images/peppermint-buttercream-frosting.jpg)
+![Peppermint Buttercream Frosting](../../assets/images/peppermint-buttercream-frosting.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

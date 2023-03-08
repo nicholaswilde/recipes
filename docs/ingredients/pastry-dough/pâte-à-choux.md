@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Pâte À Choux
 
-![Pâte À Choux](../../assets/images/pâte-à-choux.jpg)
+![Pâte À Choux](../../assets/images/pâte-à-choux.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

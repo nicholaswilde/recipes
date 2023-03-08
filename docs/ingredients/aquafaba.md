@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - ingredient
 ---
 # :falafel: Aquafaba
 
-![Aquafaba](../assets/images/aquafaba.png)
+![Aquafaba](../assets/images/aquafaba.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

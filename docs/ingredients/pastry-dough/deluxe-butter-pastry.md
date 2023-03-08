@@ -3,11 +3,11 @@ comments: true
 tags:
   - joy-of-cooking
   - pastry-dough
-  - ingredient 
+  - ingredient
 ---
 # :pie: Deluxe Butter Pastry
 
-![Deluxe Butter Pastry](../../assets/images/deluxe-butter-pastry.jpg)
+![Deluxe Butter Pastry](../../assets/images/deluxe-butter-pastry.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

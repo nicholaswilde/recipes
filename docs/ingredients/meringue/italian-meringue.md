@@ -3,11 +3,11 @@ comments: true
 tags:
   - ingredient
   - meringue
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :egg: Italian Meringue
 
-![Italian Meringue](../../assets/images/italian-meringue.jpg)
+![Italian Meringue](../../assets/images/italian-meringue.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - pastry-dough
+  - ingredient
+  - paul-hollywood
 ---
 # :pie: Puff Pastry
 
-![Puff Pastry](../../assets/images/puff-pastry.png)
+![Puff Pastry](../../assets/images/puff-pastry.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

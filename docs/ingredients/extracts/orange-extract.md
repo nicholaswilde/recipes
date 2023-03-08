@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - extract
+  - ingredient
 ---
 # :orange_circle: Orange Extract
 
-![Orange Extract](../../assets/images/orange-extract.jpg)
+![Orange Extract](../../assets/images/orange-extract.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

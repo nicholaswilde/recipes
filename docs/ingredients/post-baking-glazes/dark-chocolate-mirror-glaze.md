@@ -7,7 +7,7 @@ tags:
 ---
 # :chocolate_bar: Dark Chocolate Mirror Glaze
 
-![Dark Chocolate Mirror Glaze](../../assets/images/dark-chocolate-mirror-glaze.jpg)
+![Dark Chocolate Mirror Glaze](../../assets/images/dark-chocolate-mirror-glaze.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

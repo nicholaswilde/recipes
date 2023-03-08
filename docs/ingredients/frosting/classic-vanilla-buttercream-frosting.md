@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - ingredient
+  - frosting
 ---
 # :cake: Classic Vanilla Buttercream Frosting
 
-![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.jpg)
+![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -8,7 +8,7 @@ tags:
 ---
 # :cake: American Buttercream
 
-![American Buttercream](../../assets/images/american-buttercream.jpg)
+![American Buttercream](../../assets/images/american-buttercream.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

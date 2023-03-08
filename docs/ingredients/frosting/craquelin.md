@@ -7,7 +7,7 @@ tags:
 ---
 # :cupcake: Craquelin
 
-![Craquelin](../../assets/images/craquelin.jpg)
+![Craquelin](../../assets/images/craquelin.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

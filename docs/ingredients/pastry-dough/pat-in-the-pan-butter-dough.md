@@ -3,11 +3,11 @@ comments: true
 tags:
   - ingredient
   - joy-of-cooking
-  - pastry-dough 
+  - pastry-dough
 ---
 # :pie: Pat-in-the-Pan Butter Dough
 
-![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.jpg)
+![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

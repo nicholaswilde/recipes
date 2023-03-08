@@ -6,7 +6,7 @@ tags:
 ---
 # :butter: Baked Sriracha Tofu
 
-![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.jpg)
+![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
