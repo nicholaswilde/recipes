@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - indonesian
+  - tante-myrna-seccia
 ---
 # :meat_on_bone: Indonesian Satay
 
-![Indonesian Satay](../assets/images/indonesian-satay.jpg)
+![Indonesian Satay](../assets/images/indonesian-satay.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

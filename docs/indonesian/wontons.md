@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - indonesian
+  - tante-myrna-seccia
 ---
 # :dumpling: Wontons
 
@@ -21,8 +24,6 @@ comments: true
 - :peanuts: 0.5 tsp peanut butter
 - :sake: 0.5 cup catsup
 - :candy: 1 Tbsp sugar
-
-## :cooking: Cookware
 
 ## :pencil: Instructions
 
