@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mediterranean
+  - minimalist-baker
 ---
-# Mediterranean-Inspired Orzo Pasta Salad
+# :green_salad: Mediterranean-Inspired Orzo Pasta Salad
 
-![Mediterranean-Inspired Orzo Pasta Salad](../assets/images/mediterranean-inspired-orzo-pasta-salad.jpg)
+![Mediterranean-Inspired Orzo Pasta Salad][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -66,3 +69,5 @@ freezer friendly.
 ## :link: Source
 
 - <https://minimalistbaker.com/mediterranean-orzo-pasta-salad/#wprm-recipe-container-94099>
+
+[1]: <../assets/images/mediterranean-inspired-orzo-pasta-salad.jpg>

@@ -7,7 +7,7 @@ tags:
 ---
 # :rice: Gordon Ramsay's Spicy Sausage Rice
 
-![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg)
+![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

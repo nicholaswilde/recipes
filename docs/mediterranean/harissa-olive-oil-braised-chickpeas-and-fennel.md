@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Harissa Olive Oil-Braised Chickpeas & Fennel
+# :stew: Harissa Olive Oil-Braised Chickpeas & Fennel
 
-![Harissa Olive Oil-Braised Chickpeas and Fennel](../assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png)
+![Harissa Olive Oil-Braised Chickpeas and Fennel][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|
@@ -61,3 +63,5 @@ over the top, sprinkle with reserved fennel fronds, and serve with crusty bread 
 ### :link: Source
 
 - <https://www.thekitchn.com/harissa-olive-oil-braised-chickpeas-fennel-recipe-23105455>
+
+[1]: <../assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png>

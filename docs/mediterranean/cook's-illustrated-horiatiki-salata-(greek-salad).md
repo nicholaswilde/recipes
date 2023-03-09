@@ -1,6 +1,12 @@
-# Cook's Illustrated Horiatiki Salata (Greek Salad)
+---
+comments: true
+tags:
+  - mediterranian
+  - cooks-illustrated
+---
+# :green_salad: Cook's Illustrated Horiatiki Salata (Greek Salad)
 
-![Cook's Illustrated Horiatiki Salata (Greek Salad)](../assets/images/cook's-illustrated-horiatiki-salata.jpg)
+![Cook's Illustrated Horiatiki Salata (Greek Salad)][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -8,23 +14,23 @@
 
 ## :salt: Ingredients
 
-- 1.75 lbs tomatoes
-- 0.5 tsp salt
-- 0.5 red onion
-- some ice water
-- 2 Tbsp red wine vinegar
-- 1 tsp oregano
-- 0.5 tsp pepper
-- 0.75 tsp salt
-- 1 cucumber
-- 1 green bell pepper
-- 1 cup Kalamata olives
-- 2 Tbsp capers
-- some salt
-- some pepper
-- 8 oz feta
-- some oregano
-- 1 Tbsp olive oil
+- :tomato: 1.75 lbs tomatoes
+- :salt: 0.5 tsp salt
+- :onion: 0.5 red onion
+- :ice_cube: some ice water
+- :wine_glass: 2 Tbsp red wine vinegar
+- :herb: 1 tsp oregano
+- :salt: 0.5 tsp pepper
+- :salt: 0.75 tsp salt
+- :cucumber: 1 cucumber
+- :bell_pepper: 1 green bell pepper
+- :olive: 1 cup Kalamata olives
+- :sponge: 2 Tbsp capers
+- :salt: some salt
+- :salt: some pepper
+- :cheese_wedge: 8 oz feta
+- :herb: some oregano
+- :olive: 1 Tbsp olive oil
 
 ## :cooking: Cookware
 
@@ -59,3 +65,5 @@ extra oregano to taste. Drizzle feta with remaining 1 Tbsp olive oil.
 ## :link: Source
 
 - <https://www.cooksillustrated.com/recipes/13159-horiatiki-salata-hearty-greek-salad-for-two>
+
+[1]: <../assets/images/cook's-illustrated-horiatiki-salata.jpg>

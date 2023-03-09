@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Jeanie's Falafel
+# :falafel: Jeanie's Falafel
 
-![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg)
+![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,18 +13,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 can garbanzo beans
-- 1 small onion
-- 2 cloves garlic
-- 1.5 Tbsps cilantro
-- 1 tsp parsley
-- 2 tsp cumin
-- 0.13 tsp turmeric
-- 0.5 tsp baking powder
-- 1 cup bread crumbs
-- 1 salt
-- 1 pepper.
-- 1 oil
+- :falafel: 1 can garbanzo beans
+- :onion: 1 small onion
+- :garlic: 2 cloves garlic
+- :herb: 1.5 Tbsps cilantro
+- :herb: 1 tsp parsley
+- :herb: 2 tsp cumin
+- :herb: 0.13 tsp turmeric
+- :dash: 0.5 tsp baking powder
+- :bread: 1 cup bread crumbs
+- :salt: 1 salt
+- :salt: 1 pepper
+- :oil_drum: 1 oil
 
 ## :cooking: Cookware
 

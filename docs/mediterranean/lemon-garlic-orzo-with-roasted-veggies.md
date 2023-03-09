@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
 # :rice: Lemon Garlic Orzo with Roasted Veggies
 
-![Lemon Garlic Orzo with Roasted Veggies](../assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg)
+![Lemon Garlic Orzo with Roasted Veggies](../assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

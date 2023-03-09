@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Greek Orzo Stuffed Red Peppers
+# :bell_pepper: Greek Orzo Stuffed Red Peppers
 
-![Greek Orzo Stuffed Red Peppers](../assets/images/greek-orzo-stuffed-red-peppers.jpg)
+![Greek Orzo Stuffed Red Peppers](../assets/images/greek-orzo-stuffed-red-peppers.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,24 +13,24 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 red bell peppers
-- some salt
-- some pepper
-- 5 Tbsp olive oil
-- 3 cloves garlic
-- 3 sprigs oregano
-- 1 cup dry orzo
-- 2 Tbsp balsamic vinegar
-- 0.5 cup Kalamata olives
-- 2 pepperoncini
-- 2 Tbsp pine nuts
-- 0.5 cup feta
-- 1 cup basil
-- 1 cup cherry tomatoes
-- 0.25 cup olive oil
-- 1 pinch crushed red pepper flakes
-- 1 lemon zest
-- some salt
+- :bell_pepper: 3 red bell peppers
+- :salt: some salt
+- :salt: some pepper
+- :olive: 5 Tbsp olive oil
+- :garlic: 3 cloves garlic
+- :herb: 3 sprigs oregano
+- :spaghetti: 1 cup dry orzo
+- :sake: 2 Tbsp balsamic vinegar
+- :olive: 0.5 cup Kalamata olives
+- :hot_pepper: 2 pepperoncini
+- :chestnut: 2 Tbsp pine nuts
+- :cheese_wedge: 0.5 cup feta
+- :herb: 1 cup basil
+- :tomato: 1 cup cherry tomatoes
+- :olive: 0.25 cup olive oil
+- :hot_pepper: 1 pinch crushed red pepper flakes
+- :lemon: 1 lemon zest
+- :salt: some salt
 
 ## :cooking: Cookware
 

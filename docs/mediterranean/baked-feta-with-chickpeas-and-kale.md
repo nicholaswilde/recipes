@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranian
 ---
 # :cheese_wedge: Baked Feta with Chickpeas & Kale
 
-![Baked Feta with Chickpeas and Kale](../assets/images/baked-feta-with-chickpeas-and-kale.jpg)
+![Baked Feta with Chickpeas and Kale](../assets/images/baked-feta-with-chickpeas-and-kale.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
