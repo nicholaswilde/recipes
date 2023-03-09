@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-  - cooks-illusrated
+  - cooks-illustrated
 ---
 # :peanuts: Peanut Butter
 
