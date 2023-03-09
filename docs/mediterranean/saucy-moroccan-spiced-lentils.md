@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Saucy Moroccan-Spiced Lentils
+# :curry: Saucy Moroccan-Spiced Lentils
 
-![Saucy Moroccan-Spiced Lentils](../assets/images/saucy-moroccan-spiced-lentils.jpg)
+![Saucy Moroccan-Spiced Lentils](../assets/images/saucy-moroccan-spiced-lentils.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,22 +13,22 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup lentils
-- 2 cup water
-- 3 cloves garlic
-- 1 medium onion
-- 1 large bell pepper
-- 2 Tbsp tomato paste
-- 2 Tbsp coconut sugar
-- 0.5 tsp sea salt
-- 1 Tbsp paprika
-- 1 tsp cumin
-- 0.5 tsp coriander
-- 1 tsp ginger
-- 0.5 tsp turmeric
-- 0.5 tsp cayenne pepper
-- 2 Tbsp apple cider vinegar
-- 0.75 cup parsley or cilantro
+- :curry: 1 cup lentils
+- :droplet: 2 cup water
+- :garlic: 3 cloves garlic
+- :onion: 1 medium onion
+- :bell_pepper: 1 large bell pepper
+- :tomato: 2 Tbsp tomato paste
+- :coconut: 2 Tbsp coconut sugar
+- :salt: 0.5 tsp sea salt
+- :bell_pepper: 1 Tbsp paprika
+- :herb: 1 tsp cumin
+- :herb: 0.5 tsp coriander
+- :herb: 1 tsp ginger
+- :herb: 0.5 tsp turmeric
+- :hot_pepper: 0.5 tsp cayenne pepper
+- :sake: 2 Tbsp apple cider vinegar
+- :herb: 0.75 cup parsley or cilantro
 
 ## :cooking: Cookware
 

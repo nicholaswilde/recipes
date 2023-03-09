@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Mediterranean Pasta Salad
+# :salad_bowl: Mediterranean Pasta Salad
 
-![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg)
+![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,21 +13,21 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 lb red lentil pasta
-- 1 Tbsp olive oil
-- 0.5 red onion
-- 2 Tbsp pine nuts
-- 2 tomatoes
-- 1 jar roasted red peppers
-- 1 cucumber
-- 1 cup pitted olives
-- 1 Tbsp capers
-- 1 can kidney beans
-- 1 handful basil
-- 1 handful parsley
-- 2 Tbsp red wine vinegar
-- 1 tsp pepper
-- 3 cloves garlic
+- :spaghetti: 0.5 lb red lentil pasta
+- :olive: 1 Tbsp olive oil
+- :onion: 0.5 red onion
+- :chestnut: 2 Tbsp pine nuts
+- :tomato: 2 tomatoes
+- :bell_pepper: 1 jar roasted red peppers
+- :cucumber: 1 cucumber
+- :olive: 1 cup pitted olives
+- :sponge: 1 Tbsp capers
+- :canned_food: 1 can kidney beans
+- :herb: 1 handful basil
+- :herb: 1 handful parsley
+- :wine_glass: 2 Tbsp red wine vinegar
+- :salt: 1 tsp pepper
+- :garlic: 3 cloves garlic
 
 ## :cooking: Cookware
 
@@ -52,6 +54,6 @@ and pine nuts begin to brown.
 Remove from heat. In a large mixing bowl, add cooked pasta, sautéed mixture, roasted red peppers, diced cucumber,
 pitted olives, capers, kidney beans, basil, parsley, red wine vinegar, pepper, and garlic; gently toss to mix well.
 
-### Step 5
+!!! tip "Options"
 
-Options: Can add pesto, tempeh, tofu, spinach, green onion, or any other vegetable that can be eaten raw.
+    Can add pesto, tempeh, tofu, spinach, green onion, or any other vegetable that can be eaten raw.

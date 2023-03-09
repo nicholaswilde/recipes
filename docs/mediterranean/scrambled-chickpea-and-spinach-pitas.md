@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
 # :stuffed_flatbread: Scrambled Chickpea & Spinach Pitas
 
-![Scrambled Chickpea and Spinach Pitas](../assets/images/scrambled-chickpea-and-spinach-pitas.png)
+![Scrambled Chickpea and Spinach Pitas](../assets/images/scrambled-chickpea-and-spinach-pitas.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|

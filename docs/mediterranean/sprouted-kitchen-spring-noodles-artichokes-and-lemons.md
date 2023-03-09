@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Sprouted Kitchen Spring Noodles Artichokes & Lemons
+# :spaghetti: Sprouted Kitchen Spring Noodles Artichokes & Lemons
 
-![Sprouted Kitchen Spring Noodles Artichokes and Lemons](../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg)
+![Sprouted Kitchen Spring Noodles Artichokes and Lemons][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,22 +13,22 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 Meyer lemons
-- 2 tsp olive oil
-- 1 tsp sugar
-- 2 Tbsp butter
-- 2 trimmed endives
-- 3 cloves garlic
-- 1 jar marinated artichokes
-- 3 Tbsp balsamic vinegar
-- 10 Tbsp [crème fraîche][1]
-- 0.25 tsp nutmeg
-- 0.5 tsp cayenne
-- 1 tsp Italian herbs
-- 12 oz orecchiette
-- 1.25 cups grated pecorino
-- 3 cups arugula
-- some dill
+- :lemon: 2 Meyer lemons
+- :olive: 2 tsp olive oil
+- :candy: 1 tsp sugar
+- :butter: 2 Tbsp butter
+- :leafy_green: 2 trimmed endives
+- :garlic: 3 cloves garlic
+- :deciduous_tree: 1 jar marinated artichokes
+- :sake: 3 Tbsp balsamic vinegar
+- :rice: 10 Tbsp [crème fraîche][1]
+- :chestnut: 0.25 tsp nutmeg
+- :hot_pepper: 0.5 tsp cayenne
+- :herb: 1 tsp Italian herbs
+- :spaghetti: 12 oz orecchiette
+- :cheese_wedge: 1.25 cups grated pecorino
+- :leafy_green: 3 cups arugula
+- :herb: some dill
 
 ## :cooking: Cookware
 
@@ -69,3 +71,4 @@ Cook orecchiette according to package instructions. Drain and reserve 1/2 cup of
 Mix cooked pasta, artichoke sauce, and grated pecorino. Add arugula and dill.
 
 [1]: <../ingredients/crème-fraîche.md>
+[2]: <../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg>

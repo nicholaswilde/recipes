@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mediterranean
 ---
-# Tomato Baked White Beans with Lemon Parsley Oil
+# :tomato: Tomato Baked White Beans with Lemon Parsley Oil
 
-![Tomato Baked White Beans with Lemon Parsley Oil](../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg)
+![Tomato Baked White Beans with Lemon Parsley Oil][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,22 +13,22 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup white beans
-- 1 bay leaf
-- 2 cloves garlic
-- 1 Tbsp olive oil
-- 0.5 yellow onion
-- 2 cloves garlic
-- 3 cups diced tomatoes
-- 1 Tbsp chopped oregano
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 6 oz feta
-- 0.5 bunch parsley
-- 0.5 lemon zest
-- 0.5 lemon juice
-- 0.25 cup olive oil
-- 0.25 tsp salt
+- :canned_food: 1 cup white beans
+- :fallen_leaf: 1 bay leaf
+- :garlic: 2 cloves garlic
+- :olive: 1 Tbsp olive oil
+- :onion: 0.5 yellow onion
+- :garlic: 2 cloves garlic
+- :tomato: 3 cups diced tomatoes
+- :herb: 1 Tbsp chopped oregano
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
+- :cheese_wedge: 6 oz feta
+- :herb: 0.5 bunch parsley
+- :lemon: 0.5 lemon zest
+- :lemon: 0.5 lemon juice
+- :olive: 0.25 cup olive oil
+- :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
 
@@ -78,3 +80,5 @@ or so minutes.
 ## :link: Source
 
 - <https://bojongourmet.com/tomato-baked-white-beans-with-feta-and-lemon-parsley-oil/>
+
+[1]: <../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg>
