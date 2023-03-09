@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - main
+  - trader-joes
 ---
-# Spicy Pumpkin Curry Pot Pie
+# :pie: Spicy Pumpkin Curry Pot Pie
 
-![Spicy Pumpkin Curry Pot Pie](../assets/images/spicy-pumpkin-curry-pot-pie.png)
+![Spicy Pumpkin Curry Pot Pie](../assets/images/spicy-pumpkin-curry-pot-pie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,17 +14,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup onion
-- 2 parsnips
-- 1 cup squash
-- 3 handfuls kale
-- some salt
-- 1 can garbanzo beans
-- 1 jar spicy pumpkin curry simmer sauce
-- 0.33 cup raisins
-- 1 pie crust
-- some canola oil spray
-- 1 egg
+- :onion: 0.5 cup onion
+- :carrot: 2 parsnips
+- :sweet_potato: 1 cup squash
+- :leafy_green: 3 handfuls kale
+- :salt: some salt
+- :falafel: 1 can garbanzo beans
+- :jack_o_lantern: 1 jar spicy pumpkin curry simmer sauce
+- :grapes: 0.33 cup raisins
+- :pie: 1 pie crust
+- :oil_drum: some canola oil spray
+- :egg: 1 egg
 
 ## :cooking: Cookware
 

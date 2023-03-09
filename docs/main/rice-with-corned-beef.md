@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - main
+  - tante-myrna-seccia
 ---
 # :rice: Rice with Corned Beef
 
-![Rice with Corned Beef](../assets/images/rice-with-corned-beef.png)
+![Rice with Corned Beef](../assets/images/rice-with-corned-beef.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

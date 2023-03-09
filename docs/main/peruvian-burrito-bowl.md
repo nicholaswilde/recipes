@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - main
+  - peruvian
+  - bowl
 ---
-# Peruvian Burrito Bowl
+# :burrito: Peruvian Burrito Bowl
 
-![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg)
+![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,26 +15,26 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 medium sweet potatoes
-- some olive oil
-- some salt
-- some pepper
-- 0.75 cup dry quinoa
-- 1 Tbsp olive oil
-- 0.5 diced onions
-- 4 cloves garlic
-- 1 cup corn
-- 1 poblano chili
-- 1 red bell pepper
-- 0.5 tsp salt
-- 1 tsp cumin
-- 1 tsp coriander
-- 0.5 tsp oregano
-- 1 can refried black beans
-- 0.25 tsp salt
-- 0.5 tsp chili powder
-- 0.5 tsp cumin
-- some grated melty cheese (optional)
+- :sweet_potato: 1 medium sweet potatoes
+- :olive: some olive oil
+- :salt: some salt
+- :salt: some pepper
+- :ear_of_rice: 0.75 cup dry quinoa
+- :olive: 1 Tbsp olive oil
+- :onion: 0.5 diced onions
+- :garlic: 4 cloves garlic
+- :corn: 1 cup corn
+- :hot_pepper: 1 poblano chili
+- :bell_pepper: 1 red bell pepper
+- :salt: 0.5 tsp salt
+- :herb: 1 tsp cumin
+- :herb: 1 tsp coriander
+- :herb: 0.5 tsp oregano
+- :canned_food: 1 can refried black beans
+- :salt: 0.25 tsp salt
+- :hot_pepper: 0.5 tsp chili powder
+- :herb: 0.5 tsp cumin
+- :cheese_wedge: some grated melty cheese (optional)
 
 ## :cooking: Cookware
 
