@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - main
 ---
-# Cowboy Quinoa Bake
+# :ear_of_rice: Cowboy Quinoa Bake
 
-![Cowboy Quinoa Bake](../assets/images/cowboy-quinoa-bake.png)
+![Cowboy Quinoa Bake](../assets/images/cowboy-quinoa-bake.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,14 +13,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup dry quinoa
-- 2 cups water
-- 1 jar Cowboy Caviar Salsa
-- 1 can Diced Tomatoes
-- 1 cup Mexican Blend Shredded Cheese
-- some Organic Olive Oil Spray
-- some Sour Cream
-- 1 Cilantro,
+- :ear_of_rice: 1 cup dry quinoa
+- :droplet: 2 cups water
+- :tomato: 1 jar Cowboy Caviar Salsa
+- :tomato: 1 can Diced Tomatoes
+- :cheese_wedge: 1 cup Mexican Blend Shredded Cheese
+- :olive: some Organic Olive Oil Spray
+- :rice: some Sour Cream
+- :herb: 1 Cilantro
 
 ## :cooking: Cookware
 

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - main
+  - trader-joes
 ---
 # Fall Turkey Chili With Pumpkin
 
-![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png)
+![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

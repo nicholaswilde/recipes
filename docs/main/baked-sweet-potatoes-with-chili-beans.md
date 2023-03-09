@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - main
+  - sprouted-kitchen
 ---
-# Baked Sweet Potatoes With Chili Beans
+# :sweet_potato: Baked Sweet Potatoes With Chili Beans
 
-![Baked Sweet Potatoes With Chili Beans](../assets/images/baked-sweet-potatoes-with-chili-beans.jpg)
+![Baked Sweet Potatoes With Chili Beans](../assets/images/baked-sweet-potatoes-with-chili-beans.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,25 +14,25 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 small sweet potatoes
-- 0.5 lb pinto beans
-- 1 yellow onion
-- 2 tsp olive oil
-- 2 cloves garlic
-- 1 Tbsp chili powder
-- 1 tsp cumin
-- 0.5 tsp paprika
-- 1 tsp smoked salt
-- 1 jar San Marzano tomatoes
-- 1 avocado
-- some sour cream
-- some cilantro
-- some shredded cheese
-- 1 red onion
+- :sweet_potato: 4 small sweet potatoes
+- :canned_food: 0.5 lb pinto beans
+- :onion: 1 yellow onion
+- :olive: 2 tsp olive oil
+- :garlic: 2 cloves garlic
+- :hot_pepper: 1 Tbsp chili powder
+- :rice: 1 tsp cumin
+- :bell_pepper: 0.5 tsp paprika
+- :salt: 1 tsp smoked salt
+- :tomato: 1 jar San Marzano tomatoes
+- :avocado: 1 avocado
+- :rice: some sour cream
+- :seedling: some cilantro
+- :cheese_wedge: some shredded cheese
+- :onion: 1 red onion
 
 ## :cooking: Cookware
 
-- 1 foil,
+- 1 foil
 - 1 pot
 
 ## :pencil: Instructions

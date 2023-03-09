@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Curry Chicken Pot Pie
 
-![Curry Chicken Pot Pie](../assets/images/curry-chicken-pot-pie.png)
+![Curry Chicken Pot Pie](../assets/images/curry-chicken-pot-pie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

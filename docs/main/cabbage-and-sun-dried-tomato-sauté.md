@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - main
+  - the-blue-zones-kitchen
 ---
-# Cabbage & Sun-dried Tomato Sauté
+# :leafy_green: Cabbage & Sun-dried Tomato Sauté
 
-![Cabbage and Sun-dried Tomato Sauté](../assets/images/cabbage-and-sun-dried-tomato-sauté.jpg)
+![Cabbage and Sun-dried Tomato Sauté](../assets/images/cabbage-and-sun-dried-tomato-sauté.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,17 +14,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 sun-dried tomatoes
-- 2 small heads cabbage
-- 1 cup green onions
-- 1 sweet onion (Vidalia)
-- 3 Tbsp olive oil
-- some salt
-- some pepper
-- some fava beans
-- some mint
-- some scallions
-- some fennel
+- :tomato: 4 sun-dried tomatoes
+- :leafy_green: 2 small heads cabbage
+- :seedling: 1 cup green onions
+- :onion: 1 sweet onion (Vidalia)
+- :olive: 3 Tbsp olive oil
+- :salt: some salt
+- :salt: some pepper
+- :canned_food: some fava beans
+- :four_leaf_clover: some mint
+- :onion: some scallions
+- :leafy_green: some fennel
 
 ## :cooking: Cookware
 
