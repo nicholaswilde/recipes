@@ -7,7 +7,7 @@ tags:
 ---
 # :sandwich: Caprese Sandwich
 
-![Caprese Sandwich](../assets/images/caprese-sandwich.jpg)
+![Caprese Sandwich](../assets/images/caprese-sandwich.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - lunch
+  - wrap
 ---
 # :flatbread: Romesco Wrap
 
-![Romesco Wrap](../assets/images/romesco-wrap.jpg)
+![Romesco Wrap](../assets/images/romesco-wrap.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

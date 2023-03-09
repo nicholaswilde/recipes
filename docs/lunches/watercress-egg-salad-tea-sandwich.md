@@ -2,10 +2,11 @@
 comments: true
 tags:
   - lunch
+  - sandwich
 ---
 # :sandwich: Watercress Egg Salad Tea Sandwich
 
-![Watercress Egg Salad Tea Sandwich](../assets/images/watercress-egg-salad-tea-sandwich.png)
+![Watercress Egg Salad Tea Sandwich](../assets/images/watercress-egg-salad-tea-sandwich.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

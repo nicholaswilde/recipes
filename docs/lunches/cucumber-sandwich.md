@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - lunch
+  - sandwich
 ---
 # :sandwich: Cucumber Sandwich
 
-![Cucumber Sandwich](../assets/images/cucumber-sandwich.jpg)
+![Cucumber Sandwich](../assets/images/cucumber-sandwich.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

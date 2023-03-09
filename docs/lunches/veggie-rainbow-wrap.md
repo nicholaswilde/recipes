@@ -6,7 +6,7 @@ tags:
 ---
 # :rainbow: Veggie Rainbow Wrap
 
-![Veggie Rainbow Wrap](../assets/images/veggie-rainbow-wrap.png)
+![Veggie Rainbow Wrap](../assets/images/veggie-rainbow-wrap.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

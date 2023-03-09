@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - lunch
+  - sandwich
 ---
 # :sandwich: Bourbon Grilled Cheese
 
-![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.jpg)
+![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

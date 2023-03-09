@@ -6,7 +6,7 @@ tags:
 ---
 # :falafel: Perfect Chickpea Salad
 
-![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg)
+![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

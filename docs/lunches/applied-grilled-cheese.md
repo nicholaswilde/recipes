@@ -3,10 +3,11 @@ comments: true
 tags:
   - lunch
   - applied-kitchen
+  - sandwich
 ---
 # :sandwich: Applied Grilled Cheese
 
-![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.jpg)
+![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

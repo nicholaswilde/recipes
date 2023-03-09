@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - cooks-illustrated
+  - lunch
+  - sandwich
 ---
 # :sandwich: Grilled Tomato Sandwich
 
-![Grilled Tomato Sandwich](../assets/images/grilled-tomato-sandwich.jpg)
+![Grilled Tomato Sandwich](../assets/images/grilled-tomato-sandwich.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

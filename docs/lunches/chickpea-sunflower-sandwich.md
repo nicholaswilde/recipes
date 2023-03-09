@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - lunch
+  - minimalist-baker
+  - sandwich
 ---
 # :sandwich: Chickpea Sunflower Sandwich
 
-![Chickpea Sunflower Sandwich](../assets/images/chickpea-sunflower-sandwich.jpg)
+![Chickpea Sunflower Sandwich](../assets/images/chickpea-sunflower-sandwich.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,25 +15,25 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup hummus
-- 2 Tbsp lemon juice
-- 2 tsp dried dill
-- 4 cloves garlic
-- some unsweetened milk
-- some sea salt
-- 2 cans chickpeas
-- 0.5 cup roasted unsalted sunflower seeds
-- 6 Tbsp vegan mayo
-- 1 tsp mustard
-- 2 Tbsp maple syrup
-- 0.5 cup red onion
-- 4 Tbsp dill
-- some salt
-- some pepper
-- 8 slices rustic bread
-- some tomato
-- some onion
-- some lettuce
+- :falafel: 0.5 cup hummus
+- :lemon: 2 Tbsp lemon juice
+- :leafy_green: 2 tsp dried dill
+- :garlic: 4 cloves garlic
+- :glass_of_milk: some unsweetened milk
+- :salt: some sea salt
+- :falafel: 2 cans chickpeas
+- :sunflower: 0.5 cup roasted unsalted sunflower seeds
+- :egg: 6 Tbsp vegan mayo
+- :hotdog: 1 tsp mustard
+- :maple_leaf: 2 Tbsp maple syrup
+- :onion: 0.5 cup red onion
+- :leafy_green: 4 Tbsp dill
+- :salt: some salt
+- :salt: some pepper
+- :bread: 8 slices rustic bread
+- :tomato: some tomato
+- :onion: some onion
+- :leafy_green: some lettuce
 
 ## :cooking: Cookware
 
