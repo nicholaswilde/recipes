@@ -6,7 +6,7 @@ tags:
 ---
 # :pizza: White Pizza
 
-![White Pizza](../assets/images/white-pizza.jpg)
+![White Pizza](../assets/images/white-pizza.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

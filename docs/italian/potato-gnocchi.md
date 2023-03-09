@@ -6,7 +6,7 @@ tags:
 ---
 # :potato: Potato Gnocchi
 
-![Potato Gnocchi](../assets/images/potato-gnocchi.jpg)
+![Potato Gnocchi](../assets/images/potato-gnocchi.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

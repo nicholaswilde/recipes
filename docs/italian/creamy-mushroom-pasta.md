@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Creamy Mushroom Pasta
 
-![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.jpg)
+![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

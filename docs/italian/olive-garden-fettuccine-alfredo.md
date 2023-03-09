@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Olive Garden Fettuccine Alfredo
 
-![Olive Garden Fettuccine Alfredo](../assets/images/olive-garden-fettuccine-alfredo.jpg)
+![Olive Garden Fettuccine Alfredo](../assets/images/olive-garden-fettuccine-alfredo.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

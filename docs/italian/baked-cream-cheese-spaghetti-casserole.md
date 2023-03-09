@@ -5,7 +5,7 @@ tags:
 ---
 # :spaghetti: Baked Cream Cheese Spaghetti Casserole
 
-![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg)
+![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

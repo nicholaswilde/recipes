@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Pasta Pomodoro
 
-![Pasta Pomodoro](../assets/images/pasta-pomodoro.jpg)
+![Pasta Pomodoro](../assets/images/pasta-pomodoro.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

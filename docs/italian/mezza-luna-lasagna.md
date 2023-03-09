@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Mezza Luna Lasagna
 
-![Mezza Luna Lasagna](../assets/images/mezza-luna-lasagna.png)
+![Mezza Luna Lasagna](../assets/images/mezza-luna-lasagna.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

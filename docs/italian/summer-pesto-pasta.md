@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Summer Pesto Pasta
 
-![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg)
+![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

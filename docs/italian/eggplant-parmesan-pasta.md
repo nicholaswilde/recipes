@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Eggplant Parmesan Pasta
 
-![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.jpg)
+![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|

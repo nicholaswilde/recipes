@@ -7,7 +7,7 @@ tags:
 ---
 # :broccoli: Healthy Pasta with Pesto & Broccoli
 
-![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg)
+![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

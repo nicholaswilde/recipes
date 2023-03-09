@@ -3,11 +3,11 @@ comments: true
 tags:
   - italian
   - risotto
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :ear_of_rice: Risotto Milanese
 
-![Risotto Milanese](../assets/images/risotto-milanese.jpg)
+![Risotto Milanese](../assets/images/risotto-milanese.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

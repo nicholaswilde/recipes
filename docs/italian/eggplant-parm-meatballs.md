@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Eggplant Parm Meatballs
 
-![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.jpg)
+![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 

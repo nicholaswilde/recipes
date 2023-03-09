@@ -3,11 +3,11 @@ comments: true
 tags:
   - italian
   - risotto
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :mushroom: Mushroom Risotto
 
-![Mushroom Risotto](../assets/images/mushroom-risotto.jpg)
+![Mushroom Risotto](../assets/images/mushroom-risotto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Spaghetti All'Assassina
 
-![Spaghetti All'Assassina](../assets/images/spaghetti-all'assassina.jpg)
+![Spaghetti All'Assassina](../assets/images/spaghetti-all'assassina.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

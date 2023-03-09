@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Light & Tender Potato Gnocchi With Sage-Butter Sauce
 
-![Light and Tender Potato Gnocchi With Sage-Butter Sauce](../assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png)
+![Light and Tender Potato Gnocchi With Sage-Butter Sauce][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -112,3 +112,5 @@ Carefully spoon gnocchi into serving dishes and top with grated Parmesan cheese.
 ## :link: Source
 
 - <https://www.seriouseats.com/light-tender-potato-gnocchi-recipe>
+
+[1]: <../assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png>

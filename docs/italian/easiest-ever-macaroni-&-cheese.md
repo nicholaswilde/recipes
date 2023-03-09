@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Easiest Ever Macaroni & Cheese
 
-![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.jpg)
+![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

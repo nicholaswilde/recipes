@@ -5,7 +5,7 @@ tags:
 ---
 # :spaghetti: Lemon and Pea Alfredo
 
-![Lemon and Pea Alfredo](../assets/images/lemon-and-pea-alfredo.jpg)
+![Lemon and Pea Alfredo](../assets/images/lemon-and-pea-alfredo.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

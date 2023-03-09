@@ -5,7 +5,7 @@ tags:
 ---
 # :eggplant: Eggplant Parmigiana
 
-![Eggplant Parmigiana](../assets/images/eggplant-parmigiana.jpg)
+![Eggplant Parmigiana](../assets/images/eggplant-parmigiana.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

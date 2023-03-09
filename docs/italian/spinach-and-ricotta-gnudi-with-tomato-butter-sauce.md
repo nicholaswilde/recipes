@@ -6,7 +6,7 @@ tags:
 ---
 # :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce
 
-![Spinach and Ricotta Gnudi with Tomato-Butter Sauce](../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg)
+![Spinach and Ricotta Gnudi with Tomato-Butter Sauce][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -98,3 +98,5 @@ Parmesan. Serve immediately.
 ## :link: Source
 
 - <https://www.americastestkitchen.com/recipes/13539-spinach-and-ricotta-gnudi-with-tomato-butter-sauce>
+
+[1]: <../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg>

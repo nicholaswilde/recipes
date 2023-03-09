@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Ginger Sesame Vegan Meatballs
 
-![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg)
+![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|

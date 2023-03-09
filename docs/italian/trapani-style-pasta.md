@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Trapani-Style Pasta
 
-![Trapani-Style Pasta](../assets/images/trapani-style-pasta.jpg)
+![Trapani-Style Pasta](../assets/images/trapani-style-pasta.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

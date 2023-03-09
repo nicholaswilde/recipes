@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Maria Agresta’s Gnocchi alla Cilentana
 
-![Maria Agresta’s Gnocchi alla Cilentana](../assets/images/maria-agresta’s-gnocchi-alla-cilentana.png)
+![Maria Agresta’s Gnocchi alla Cilentana](../assets/images/maria-agresta’s-gnocchi-alla-cilentana.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :spaghetti: Spinach Lasagna
 
-![Spinach Lasagna](../assets/images/spinach-lasagna.jpg)
+![Spinach Lasagna](../assets/images/spinach-lasagna.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

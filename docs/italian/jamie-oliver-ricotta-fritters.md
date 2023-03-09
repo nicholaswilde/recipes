@@ -7,7 +7,7 @@ tags:
 ---
 # Jamie Oliver Ricotta Fritters
 
-![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg)
+![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

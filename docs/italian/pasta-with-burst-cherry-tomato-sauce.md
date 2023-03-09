@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Pasta with Burst Cherry Tomato Sauce
 
-![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg)
+![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

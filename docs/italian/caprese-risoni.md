@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Caprese Risoni
 
-![Caprese Risoni](../assets/images/caprese-risoni.jpg)
+![Caprese Risoni](../assets/images/caprese-risoni.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

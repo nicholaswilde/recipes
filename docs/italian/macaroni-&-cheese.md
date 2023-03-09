@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Macaroni & Cheese
 
-![Macaroni & Cheese](../assets/images/macaroni-&-cheese.jpg)
+![Macaroni & Cheese](../assets/images/macaroni-&-cheese.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

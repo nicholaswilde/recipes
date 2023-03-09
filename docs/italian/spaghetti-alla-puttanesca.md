@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Spaghetti Alla Puttanesca
 
-![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.jpg)
+![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
