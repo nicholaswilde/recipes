@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - mediterranian
+  - mediterranean
   - trader-joes
 ---
 # :ear_of_rice: Balsamic Lentil Sauté

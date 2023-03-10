@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - tostada
 ---
 # :stuffed_flatbread: Tostadas with Refried Black Beans & Pickled Cabbage & Onion
 
-![Tostadas with Refried Black Beans and Pickled Cabbage and Onion](../assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.jpg)
+![Tostadas with Refried Black Beans and Pickled Cabbage and Onion][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -87,3 +90,5 @@ cilantro as well.
 ## :link: Source
 
 - <https://jessicaseinfeld.com/recipes/tostadas-with-refried-black-beans-and-pickled-cabbage>
+
+[1]: <../assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.jpg>

@@ -1,9 +1,13 @@
 ---
 comments: true
+tags:
+  - mexican
+  - taco
+  - minimalist-baker
 ---
 # :taco: Roasted Cauliflower Tacos with Chipotle Romesco
 
-![Roasted Cauliflower Tacos with Chipotle Romesco](../assets/images/roasted-cauliflower-tacos-with-chipotle-romesco.jpg)
+![Roasted Cauliflower Tacos with Chipotle Romesco][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -87,3 +91,5 @@ in the refrigerator up to 3 days. Reheat cauliflower in a 350°F (176°C) oven u
 ## :link: Source
 
 - <https://minimalistbaker.com/roasted-cauliflower-tacos-with-chipotle-romesco/>
+
+[1]: <../assets/images/roasted-cauliflower-tacos-with-chipotle-romesco.jpg>

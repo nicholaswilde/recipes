@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - salad
 ---
-# Mexican Garbanzo Salad
+# :green_salad: Mexican Garbanzo Salad
 
-![Mexican Garbanzo Salad](../assets/images/mexican-garbanzo-salad.jpg)
+![Mexican Garbanzo Salad](../assets/images/mexican-garbanzo-salad.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,15 +14,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 3 cups diced tomatoes or 1 container TJ's pico de gallo
-- 0.5 cup white onion
-- 2 Tbsp jalapeño
-- 1 can chickpeas
-- 0.25 cup cilantro
-- some lime juice
-- 1 can black beans (optional)
-- 1 cup avocado (optional)
-- 1 cucumber (optional)
+- :tomato: 3 cups diced tomatoes or 1 container TJ's pico de gallo
+- :onion: 0.5 cup white onion
+- :hot_pepper: 2 Tbsp jalapeño
+- :falafel: 1 can chickpeas
+- :herb: 0.25 cup cilantro
+- :lemon: some lime juice
+- :canned_food: 1 can black beans (optional)
+- :avocado: 1 cup avocado (optional)
+- :cucumber: 1 cucumber (optional)
 
 ## :cooking: Cookware
 

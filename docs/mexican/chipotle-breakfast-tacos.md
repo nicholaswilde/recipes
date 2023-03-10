@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - taco
 ---
-# Chipotle Breakfast Tacos
+# :taco: Chipotle Breakfast Tacos
 
-![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.jpg)
+![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,14 +14,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 bag TJ's roasted potatoes with peppers and onions
-- 1 pkg soy chorizo
-- some olive oil
-- 10 eggs
-- 2 pkgs corn tortillas
-- some cheese
-- 1 pkg pico de gallo
-- 1 avocado (optional)
+- :bell_pepper: 1 bag TJ's roasted potatoes with peppers and onions
+- :hotdog: 1 pkg soy chorizo
+- :olive: some olive oil
+- :egg: 10 eggs
+- :flatbread: 2 pkgs corn tortillas
+- :cheese_wedge: some cheese
+- :tomato: 1 pkg pico de gallo
+- :avocado: 1 avocado (optional)
 
 ## :cooking: Cookware
 

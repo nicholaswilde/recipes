@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mexican
 ---
-# Black Bean Burrito Bake
+# :burrito: Black Bean Burrito Bake
 
-![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.jpg)
+![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,14 +13,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 can chipotle chiles in adobo sauce
-- 0.5 cup sour cream
-- 1 can black beans
-- 1 cup corn
-- 4 flour tortillas
-- some cooking spray
-- 1 cup TJ's Spicy Smoked Peach Salsa
-- 0.5 cup Monterey Jack cheese
+- :hot_pepper: 1 can chipotle chiles in adobo sauce
+- :rice: 0.5 cup sour cream
+- :canned_food: 1 can black beans
+- :corn: 1 cup corn
+- :flatbread: 4 flour tortillas
+- :tomato: 1 cup TJ's Spicy Smoked Peach Salsa
+- :cheese_wedge: 0.5 cup Monterey Jack cheese
 
 ## :cooking: Cookware
 

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - bowl
 ---
-# Chipotle-Inspired Vegan Burrito Bowls
+# :green_salad: Chipotle-Inspired Vegan Burrito Bowls
 
-![Chipotle-Inspired Vegan Burrito Bowls](../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg)
+![Chipotle-Inspired Vegan Burrito Bowls](../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
@@ -11,25 +14,23 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 bag frozen brown rice
-- 2 Tbsp olive oil
-- some salt
-- 1 lime zest
-- 1 lime juice
-- 1 bunch cilantro
-- 0.5 tsp chili powder
-- 0.5 tsp chipotle powder
-- 1 14-oz block extra-firm tofu
-- 1 15-oz can corn
-- 1 15-oz black beans
-- 0.5 tsp chipotle powder
-- 0.5 tsp chili powder
-- 1 Tbsp olive oil
-- 1 bunch cilantro
-- some pico de gallo
-- some guacamole
-
-## :cooking: Cookware
+- :rice: 1 bag frozen brown rice
+- :olive: 2 Tbsp olive oil
+- :salt: some salt
+- :lemon: 1 lime zest
+- :lemon: 1 lime juice
+- :herb: 1 bunch cilantro
+- :hot_pepper: 0.5 tsp chili powder
+- :hot_pepper: 0.5 tsp chipotle powder
+- :custard: 1 14-oz block extra-firm tofu
+- :corn: 1 15-oz can corn
+- :canned_food: 1 15-oz black beans
+- :hot_pepper: 0.5 tsp chipotle powder
+- :hot_pepper: 0.5 tsp chili powder
+- :olive: 1 Tbsp olive oil
+- :herb 1 bunch cilantro
+- :tomato: some pico de gallo
+- :avocado: some guacamole
 
 ## :pencil: Instructions
 

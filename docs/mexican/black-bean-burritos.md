@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - mexican
 ---
-# Black Bean Burritos
+# :burrito: Black Bean Burritos
 
-![Black Bean Burritos](../assets/images/black-bean-burritos.jpg)
+![Black Bean Burritos](../assets/images/black-bean-burritos.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,13 +13,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 chipotle chile in adobo sauce
-- 0.5 cup reduced fat sour cream
-- 1 15-oz can black beans
-- 1 cup corn
-- 4 tortillas
-- 1 cup salsa
-- 0.5 cup jack cheese
+- :hot_pepper: 1 chipotle chile in adobo sauce
+- :rice: 0.5 cup reduced fat sour cream
+- :canned_food: 1 15-oz can black beans
+- :corn: 1 cup corn
+- :flatbread: 4 tortillas
+- :tomato: 1 cup salsa
+- :cheese_wedge: 0.5 cup jack cheese
 
 ## :cooking: Cookware
 

@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - quesadilla
 ---
-# Cheesy Black Bean Quesadilla Triangles
+# :flatbread: Cheesy Black Bean Quesadilla Triangles
 
-![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg)
+![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,15 +14,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 MorningStar Farms chipotle black bean burgers
-- 0.5 cup salsa
-- 0.5 cup shredded cheddar or jack cheese
-- 0.25 cup shredded pepper jack cheese
-- 2 tsp Southwest or Mexican seasoning
-- 10 flour tortillas
-- 1 Tbsp melted butter
-- 2.5 cups shredded lettuce
-- 2 Tbsp red or green bell pepper
+- :hamburger: 2 MorningStar Farms chipotle black bean burgers
+- :tomato: 0.5 cup salsa
+- :cheese_wedge: 0.5 cup shredded cheddar or jack cheese
+- :cheese_wedge: 0.25 cup shredded pepper jack cheese
+- :herb: 2 tsp Southwest or Mexican seasoning
+- :flatbread: 10 flour tortillas
+- :butter: 1 Tbsp melted butter
+- :leafy_green: 2.5 cups shredded lettuce
+- :bell_pepper: 2 Tbsp red or green bell pepper
 
 ## :cooking: Cookware
 

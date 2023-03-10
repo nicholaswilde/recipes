@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - mexican
 ---
 # Taquito-lada Casserole
 

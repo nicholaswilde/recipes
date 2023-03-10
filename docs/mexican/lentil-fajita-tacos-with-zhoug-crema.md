@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - taco
 ---
-# Lentil Fajita Tacos with Zhoug Crema
+# :taco: Lentil Fajita Tacos with Zhoug Crema
 
-![Lentil Fajita Tacos with Zhoug Crema](../assets/images/lentil-fajita-tacos-with-zhoug-crema.png)
+![Lentil Fajita Tacos with Zhoug Crema](../assets/images/lentil-fajita-tacos-with-zhoug-crema.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,17 +14,17 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.5 cup Greek yogurt
-- 2 Tbsp Zhoug sauce
-- 0.5 lime juice
-- some sea salt
-- 1 Tbsp olive oil
-- 1 pkg TJ's fire roasted peppers and onions
-- 1 Tbsp Zhoug sauce
-- 1 pkg TJ's steamed lentils
-- some pepper
-- 0.5 lime juice
-- 1 pkg taco shells
+- :microbe: 0.5 cup Greek yogurt
+- :hamburger: 2 Tbsp Zhoug sauce
+- :lemon: 0.5 lime juice
+- :salt: some sea salt
+- :olive: 1 Tbsp olive oil
+- :bell_pepper: 1 pkg TJ's fire roasted peppers and onions
+- :hamburger: 1 Tbsp Zhoug sauce
+- :sponge: 1 pkg TJ's steamed lentils
+- :salt: some pepper
+- :lemon: 0.5 lime juice
+- :flatbread: 1 pkg taco shells
 
 ## :cooking: Cookware
 

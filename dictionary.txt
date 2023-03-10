@@ -638,3 +638,5 @@ pipable
 julienned
 indonesian
 vietnamese
+peruvian
+mediterranean

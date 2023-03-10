@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - tante-myrna-seccia
 ---
 # :dumpling: Empanadas
 
-![Empanadas](../assets/images/empanadas.jpg)
+![Empanadas](../assets/images/empanadas.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

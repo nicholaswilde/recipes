@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - mediterranian
+  - mediterranean
   - cooks-illustrated
 ---
 # :green_salad: Cook's Illustrated Horiatiki Salata (Greek Salad)

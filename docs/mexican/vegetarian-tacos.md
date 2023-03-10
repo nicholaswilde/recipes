@@ -3,10 +3,11 @@ comments: true
 tags:
   - mexican
   - taco
+  - applied-kitchen
 ---
 # :taco: Vegetarian Tacos
 
-![Vegetarian Tacos](../assets/images/vegetarian-tacos.png)
+![Vegetarian Tacos](../assets/images/vegetarian-tacos.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

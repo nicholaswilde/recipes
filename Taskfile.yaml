@@ -9,6 +9,14 @@ vars:
 
 tasks:
 
+  add-tag:
+    desc: Add a front matter tag
+    cmds:
+      - >-
+        {{ .CMD }} '.tags += ["{{ (split " " .CLI_ARGS)._0 }}"]' /workdir/{{ (split " " .CLI_ARGS)._1 }}
+    vars:
+      CMD: docker run --rm -v "${PWD}":/workdir mikefarah/yq -i --front-matter="process"
+
   clean:
     desc: Clean markdown files from cook dir
     cmds:
@@ -20,6 +28,7 @@ tasks:
   docker-update:
     desc: Update docker images
     cmds:
+      - docker image pull mikefarah/yq
       - docker image pull squidfunk/mkdocs-material
       - docker image pull 06kellyjac/markdownlint-cli
       - docker image pull ghcr.io/tcort/markdown-link-check:stable

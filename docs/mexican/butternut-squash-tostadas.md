@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - mexican
+  - tostada
 ---
-# Butternut Squash Tostadas
+# :stuffed_flatbread: Butternut Squash Tostadas
 
-![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.jpg)
+![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,20 +14,20 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 cups butternut squash
-- 0.25 cup orange juice
-- 0.5 tsp garlic powder
-- some salt
-- some pepper
-- 1 cup onions
-- 0.5 cup bell pepper
-- 3 cloves garlic
-- 2 cups black beans
-- 6 corn tortillas
-- 0.25 cup salsa
-- 0.5 cup red cabbage
-- 0.25 cup cilantro
-- 0.25 cup Mexicrema dressing or guacamole
+- :sweet_potato: 4 cups butternut squash
+- :orange_circle: 0.25 cup orange juice
+- :garlic: 0.5 tsp garlic powder
+- :salt: some salt
+- :salt: some pepper
+- :onion: 1 cup onions
+- :bell_pepper: 0.5 cup bell pepper
+- :garlic: 3 cloves garlic
+- :canned_food: 2 cups black beans
+- :flatbread: 6 corn tortillas
+- :tomato: 0.25 cup salsa
+- :leafy_green: 0.5 cup red cabbage
+- :herb: 0.25 cup cilantro
+- :avocado: 0.25 cup Mexicrema dressing or guacamole
 
 ## :cooking: Cookware
 

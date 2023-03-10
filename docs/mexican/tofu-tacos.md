@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - taco
+  - mexican
 ---
-# Tofu Tacos
+# :taco: Tofu Tacos
 
-![Tofu Tacos](../assets/images/tofu-tacos.jpg)
+![Tofu Tacos](../assets/images/tofu-tacos.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,16 +14,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 16 oz extra firm tofu
-- 1 Tbsp olive oil
-- 2 Tbsp soy sauce
-- 2 Tbsp tomato paste
-- 1 Tbsp maple syrup
-- 1 tsp onion powder
-- 1 tsp garlic powder
-- 1 tsp smoked paprika
-- 2 tsp chili powder
-- 1 tsp cumin
+- :butter: 16 oz extra firm tofu
+- :olive: 1 Tbsp olive oil
+- :sake: 2 Tbsp soy sauce
+- :tomato: 2 Tbsp tomato paste
+- :maple_leaf: 1 Tbsp maple syrup
+- :onion: 1 tsp onion powder
+- :garlic: 1 tsp garlic powder
+- :bell_pepper: 1 tsp smoked paprika
+- :hot_pepper: 2 tsp chili powder
+- :herb: 1 tsp cumin
 
 ## :cooking: Cookware
 

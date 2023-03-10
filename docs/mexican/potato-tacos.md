@@ -6,7 +6,7 @@ tags:
 ---
 # :taco: Potato Tacos
 
-![Potato Tacos](../assets/images/potato-tacos.jpg)
+![Potato Tacos](../assets/images/potato-tacos.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

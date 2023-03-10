@@ -1,6 +1,12 @@
+---
+comments: true
+tags:
+  - mexican
+  - slow-cooker
+---
 # :stew: Slow Cooker Black Bean Chili
 
-![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.jpg)
+![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

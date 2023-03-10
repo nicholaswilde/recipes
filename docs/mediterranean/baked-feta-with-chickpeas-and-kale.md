@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - mediterranian
+  - mediterranean
 ---
 # :cheese_wedge: Baked Feta with Chickpeas & Kale
 
