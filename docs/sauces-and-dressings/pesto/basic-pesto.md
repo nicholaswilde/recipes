@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Basic Pesto
 
-![Basic Pesto](../../assets/images/basic-pesto.jpg)
+![Basic Pesto](../../assets/images/basic-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

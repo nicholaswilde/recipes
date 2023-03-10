@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Joy of Cooking Pesto
 
-![Joy of Cooking Pesto](../../assets/images/joy-of-cooking-pesto.jpg)
+![Joy of Cooking Pesto](../../assets/images/joy-of-cooking-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

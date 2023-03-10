@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Lemon Arugula Pesto
 
-![Lemon Arugula Pesto](../../assets/images/lemon-arugula-pesto.jpg)
+![Lemon Arugula Pesto](../../assets/images/lemon-arugula-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

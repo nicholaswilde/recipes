@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Balsamic Pesto
 
-![Balsamic Pesto](../../assets/images/balsamic-pesto.jpg)
+![Balsamic Pesto](../../assets/images/balsamic-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

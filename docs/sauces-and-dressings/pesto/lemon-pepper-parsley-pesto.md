@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: Lemon-Pepper Parsley Pesto
 
-![Lemon-Pepper Parsley Pesto](../../assets/images/lemon-pepper-parsley-pesto.jpg)
+![Lemon-Pepper Parsley Pesto](../../assets/images/lemon-pepper-parsley-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

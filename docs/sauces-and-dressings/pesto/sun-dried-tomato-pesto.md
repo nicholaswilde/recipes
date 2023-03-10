@@ -8,7 +8,7 @@ tags:
 ---
 # :tomato: Sun-Dried Tomato Pesto
 
-![Sun-Dried Tomato Pesto](../../assets/images/sun-dried-tomato-pesto.jpg)
+![Sun-Dried Tomato Pesto](../../assets/images/sun-dried-tomato-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
