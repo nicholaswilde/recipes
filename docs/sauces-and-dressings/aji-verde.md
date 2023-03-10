@@ -7,7 +7,7 @@ tags:
 ---
 # :hot_pepper: Aji Verde
 
-![Aji Verde](../assets/images/aji-verde.jpg)
+![Aji Verde](../assets/images/aji-verde.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :fish: Classic Tartar Sauce
 
-![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg)
+![Classic Tartar Sauce](../assets/images/classic-tartar-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

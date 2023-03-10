@@ -6,7 +6,7 @@ tags:
 ---
 # :chocolate_bar: Hot Fudge Sauce
 
-![Hot Fudge Sauce](../assets/images/hot-fudge-sauce.jpg)
+![Hot Fudge Sauce](../assets/images/hot-fudge-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

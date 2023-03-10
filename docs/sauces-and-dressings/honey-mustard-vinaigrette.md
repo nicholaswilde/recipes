@@ -6,7 +6,7 @@ tags:
 ---
 # :honey_pot: Honey Mustard Vinaigrette
 
-![Honey Mustard Vinaigrette](../assets/images/honey-mustard-vinaigrette.jpg)
+![Honey Mustard Vinaigrette](../assets/images/honey-mustard-vinaigrette.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

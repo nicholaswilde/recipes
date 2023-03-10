@@ -6,7 +6,7 @@ tags:
 ---
 # :onion: Balsamic Onion Jam
 
-![Balsamic Onion Jam](../assets/images/balsamic-onion-jam.jpg)
+![Balsamic Onion Jam](../assets/images/balsamic-onion-jam.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

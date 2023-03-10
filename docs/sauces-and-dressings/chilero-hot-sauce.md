@@ -6,7 +6,7 @@ tags:
 ---
 # :hot_pepper: Chilero Hot Sauce
 
-![Chilero Hot Sauce](../assets/images/chilero-hot-sauce.jpg)
+![Chilero Hot Sauce](../assets/images/chilero-hot-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

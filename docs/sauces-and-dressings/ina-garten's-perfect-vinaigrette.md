@@ -6,7 +6,7 @@ tags:
 ---
 # :champagne: Ina Garten's Perfect Vinaigrette
 
-![Ina Garten's Perfect Vinaigrette](../assets/images/ina-garten's-perfect-vinaigrette.jpg)
+![Ina Garten's Perfect Vinaigrette](../assets/images/ina-garten's-perfect-vinaigrette.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

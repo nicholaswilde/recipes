@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
-# Cashew Chipotle Ranch Dressing
+# :green_salad: Cashew Chipotle Ranch Dressing
 
-![Cashew Chipotle Ranch Dressing](../assets/images/cashew-chipotle-ranch-dressing.jpg)
+![Cashew Chipotle Ranch Dressing](../assets/images/cashew-chipotle-ranch-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,16 +13,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup raw cashews
-- 0.67 cup almond milk
-- 2 tsp lemon or lime juice
-- 1 clove garlic
-- 0.5 tsp salt
-- 0.25 tsp onion powder
-- 1 tsp apple cider vinegar
-- 1 tsp maple syrup
-- 0.25 tsp chipotle chili powder or sub chili powder
-- 1 Tbsp dried dill
+- :chestnut: 1 cup raw cashews
+- :glass_of_milk: 0.67 cup almond milk
+- :lemon: 2 tsp lemon or lime juice
+- :garlic: 1 clove garlic
+- :salt: 0.5 tsp salt
+- :onion: 0.25 tsp onion powder
+- :sake: 1 tsp apple cider vinegar
+- :maple_leaf: 1 tsp maple syrup
+- :hot_pepper: 0.25 tsp chipotle chili powder or sub chili powder
+- :seedling: 1 Tbsp dried dill
 
 ## :cooking: Cookware
 

@@ -6,7 +6,7 @@ tags:
 ---
 # :carrot: Carrot-Tamarind Chutney
 
-![Carrot-Tamarind Chutney](../assets/images/carrot-tamarind-chutney.jpg)
+![Carrot-Tamarind Chutney](../assets/images/carrot-tamarind-chutney.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

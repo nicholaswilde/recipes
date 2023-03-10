@@ -5,7 +5,7 @@ tags:
 ---
 # :hotdog: Classic Mustard
 
-![Classic Mustard](../assets/images/classic-mustard.jpg)
+![Classic Mustard](../assets/images/classic-mustard.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

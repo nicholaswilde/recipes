@@ -5,7 +5,7 @@ tags:
 ---
 # :onion: Claire's Five-Onion Dip
 
-![Claire's Five-Onion Dip](../assets/images/claire's-five-onion-dip.jpg)
+![Claire's Five-Onion Dip](../assets/images/claire's-five-onion-dip.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

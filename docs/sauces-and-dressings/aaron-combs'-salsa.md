@@ -6,7 +6,7 @@ tags:
 ---
 # :tomato: Aaron Combs' Salsa
 
-![Aaron Comb's Salsa](../assets/images/aaron-combs'-salsa.jpg)
+![Aaron Comb's Salsa](../assets/images/aaron-combs'-salsa.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

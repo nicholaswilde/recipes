@@ -5,7 +5,7 @@ tags:
 ---
 # :green_salad: French Dressing
 
-![French Dressing](../assets/images/french-dressing.jpg)
+![French Dressing](../assets/images/french-dressing.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :green_salad: Jane's 3, 2, 1 Salad Dressing
 
-![Jane's 3, 2, 1 Salad Dressing](../assets/images/jane's-3,-2,-1-salad-dressing.jpg)
+![Jane's 3, 2, 1 Salad Dressing](../assets/images/jane's-3,-2,-1-salad-dressing.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

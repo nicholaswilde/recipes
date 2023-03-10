@@ -3,11 +3,11 @@ comments: true
 tags:
   - sauce
   - dip
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :honey_pot: Honey Mustard Dipping Sauce
 
-![Honey Mustard Dipping Sauce](../assets/images/honey-mustard-dipping-sauce.jpg)
+![Honey Mustard Dipping Sauce](../assets/images/honey-mustard-dipping-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :hotsprings: A Very Popular BBQ Sauce
 
-![A Very Popular BBQ Sauce](../assets/images/a-very-popular-bbq-sauce.jpg)
+![A Very Popular BBQ Sauce](../assets/images/a-very-popular-bbq-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

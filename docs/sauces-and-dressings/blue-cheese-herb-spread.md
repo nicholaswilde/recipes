@@ -5,7 +5,7 @@ tags:
 ---
 # :herb: Blue Cheese Herb Spread
 
-![Blue Cheese Herb Spread](../assets/images/blue-cheese-herb-spread.jpg)
+![Blue Cheese Herb Spread](../assets/images/blue-cheese-herb-spread.jpg){ loading=lazy }
 
 ## :salt: Ingredients
 
@@ -39,6 +39,7 @@ Place cream cheese in a food processor until smooth.
 Add herb mixture to cream cheese and process until thoroughly blended.
 
 !!! note
+
     Spread can be made 3 days ahead and chilled, covered tightly.
 
 ### Step 5

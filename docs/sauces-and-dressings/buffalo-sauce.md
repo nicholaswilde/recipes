@@ -5,7 +5,7 @@ tags:
 ---
 # :water_buffalo: Buffalo Sauce
 
-![Buffalo Sauce](../assets/images/buffalo-sauce.jpg)
+![Buffalo Sauce](../assets/images/buffalo-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

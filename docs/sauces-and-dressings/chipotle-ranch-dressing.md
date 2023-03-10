@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - dressing
 ---
 # :hot_pepper: Chipotle Ranch Dressing
 
-![Chipotle Ranch Dressing](../assets/images/chipotle-ranch-dressing.jpg)
+![Chipotle Ranch Dressing](../assets/images/chipotle-ranch-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -11,8 +13,8 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1.25 cups [ranch dressing][1]
-- 2 chipotle peppers in [adobo sauce][2]
+- :green_salad: 1.25 cups [ranch dressing][1]
+- :hot_pepper: 2 chipotle peppers in [adobo sauce][2]
 
 ## :cooking: Cookware
 

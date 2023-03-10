@@ -7,7 +7,7 @@ tags:
 ---
 # :falafel: Hummus
 
-![Hummus](../assets/images/hummus.jpg)
+![Hummus](../assets/images/hummus.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

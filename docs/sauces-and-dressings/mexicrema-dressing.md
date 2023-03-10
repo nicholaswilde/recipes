@@ -6,7 +6,7 @@ tags:
 ---
 # Mexicrema Dressing
 
-![Mexicrema Dressing](../assets/images/mexicrema-dressing.jpg)
+![Mexicrema Dressing](../assets/images/mexicrema-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

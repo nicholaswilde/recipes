@@ -5,7 +5,7 @@ tags:
 ---
 # :hotdog: Dijon Mustard
 
-![Dijon Mustard](../assets/images/dijon-mustard.jpg)
+![Dijon Mustard](../assets/images/dijon-mustard.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

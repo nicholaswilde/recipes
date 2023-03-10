@@ -6,7 +6,7 @@ tags:
 ---
 # :cucumber: Benedictine Sandwich Spread
 
-![Benedictine Sandwich Spread](../assets/images/benedictine-sandwich-spread.jpg)
+![Benedictine Sandwich Spread](../assets/images/benedictine-sandwich-spread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

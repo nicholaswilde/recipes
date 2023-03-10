@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - sauce
 ---
 # :tomato: Adobo Sauce
 
-![Adobo Sauce](../assets/images/adobo-sauce.jpg)
+![Adobo Sauce](../assets/images/adobo-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

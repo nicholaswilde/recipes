@@ -6,7 +6,7 @@ tags:
 ---
 # :egg: Crème Anglaise
 
-![Crème Anglaise](../assets/images/crème-anglaise.jpg)
+![Crème Anglaise](../assets/images/crème-anglaise.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

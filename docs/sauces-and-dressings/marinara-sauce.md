@@ -3,11 +3,11 @@ comments: true
 tags:
   - sauce
   - italian
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :tomato: Marinara Sauce
 
-![Marinara Sauce](../assets/images/marinara-sauce.jpg)
+![Marinara Sauce](../assets/images/marinara-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

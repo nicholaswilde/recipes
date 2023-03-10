@@ -6,7 +6,7 @@ tags:
 ---
 # :garlic: Garlic Aioli
 
-![Garlic Aioli](../assets/images/garlic-aioli.jpg)
+![Garlic Aioli](../assets/images/garlic-aioli.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

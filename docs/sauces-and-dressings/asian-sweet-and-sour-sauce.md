@@ -3,11 +3,11 @@ comments: true
 tags:
   - asian
   - sauce
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :takeout_box: Asian Sweet-and-Sour Sauce
 
-![Asian Sweet-and-Sour Sauce](../assets/images/asian-sweet-and-sour-sauce.jpg)
+![Asian Sweet-and-Sour Sauce](../assets/images/asian-sweet-and-sour-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

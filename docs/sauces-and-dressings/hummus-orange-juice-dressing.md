@@ -5,7 +5,7 @@ tags:
 ---
 # :falafel: Hummus-Orange Juice Dressing
 
-![Hummus-Orange Juice Dressing](../assets/images/hummus-orange-juice-dressing.jpg)
+![Hummus-Orange Juice Dressing](../assets/images/hummus-orange-juice-dressing.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

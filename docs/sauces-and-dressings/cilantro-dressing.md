@@ -5,7 +5,7 @@ tags:
 ---
 # :herb: Cilantro Dressing
 
-![Cilantro Dressing](../assets/images/cilantro-dressing.jpg)
+![Cilantro Dressing](../assets/images/cilantro-dressing.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

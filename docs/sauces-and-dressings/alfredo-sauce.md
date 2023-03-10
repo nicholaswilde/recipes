@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Alfredo Sauce
 
-![Alfredo Sauce](../assets/images/alfredo-sauce.jpg)
+![Alfredo Sauce](../assets/images/alfredo-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
