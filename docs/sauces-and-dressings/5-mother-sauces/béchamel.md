@@ -7,7 +7,7 @@ tags:
 ---
 # :glass_of_milk: Béchamel
 
-![Béchamel](../../assets/images/béchamel.png)
+![Béchamel](../../assets/images/béchamel.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

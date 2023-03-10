@@ -3,11 +3,11 @@ comments: true
 tags:
   - mother-sauce
   - french
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :cow: Espagnole
 
-![Espagnole](../../assets/images/espagnole.jpg)
+![Espagnole](../../assets/images/espagnole.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

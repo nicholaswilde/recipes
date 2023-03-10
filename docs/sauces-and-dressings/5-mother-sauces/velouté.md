@@ -3,11 +3,11 @@ comments: true
 tags:
   - mother-sauce
   - french
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :carrot: Velouté
 
-![Velouté](../../assets/images/velouté.jpg)
+![Velouté](../../assets/images/velouté.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

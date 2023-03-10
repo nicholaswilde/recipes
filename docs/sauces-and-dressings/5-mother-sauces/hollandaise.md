@@ -6,7 +6,7 @@ tags:
 ---
 # :egg: Hollandaise
 
-![Hollandaise](../../assets/images/hollandaise.jpg)
+![Hollandaise](../../assets/images/hollandaise.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
