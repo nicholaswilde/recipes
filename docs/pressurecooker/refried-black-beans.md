@@ -1,9 +1,11 @@
 ---
 comments: true
+tags:
+  - pressure-cooker
 ---
 # :potato: Refried Black Beans
 
-![Refried Black Beans](../assets/images/refried-black-beans.jpg)
+![Refried Black Beans](../assets/images/refried-black-beans.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

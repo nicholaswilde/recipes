@@ -1,6 +1,11 @@
-# Black Beans
+---
+comments: true
+tags:
+  - pressure-cooker
+---
+# :canned_food: Black Beans
 
-![Black Beans](../assets/images/black-beans.jpg)
+![Black Beans](../assets/images/black-beans.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,9 +13,9 @@
 
 ## :salt: Ingredients
 
-- 227 g dried black beans
-- 3 cups cold water
-- 1.5 tsp kosher salt
+- :canned_food: 227 g dried black beans
+- :icecube: 3 cups cold water
+- :salt: 1.5 tsp kosher salt
 
 ## :cooking: Cookware
 

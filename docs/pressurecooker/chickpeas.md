@@ -1,6 +1,11 @@
-# Chickpeas
+---
+comments: true
+tags:
+  - pressure-cooker
+---
+# :falafel: Chickpeas
 
-![Chickpeas](../assets/images/chickpeas.png)
+![Chickpeas](../assets/images/chickpeas.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -8,9 +13,9 @@
 
 ## :salt: Ingredients
 
-- 225 g dried chickpeas
-- 1.5 tsp salt
-- 4 cups water
+- :falafel: 225 g dried chickpeas
+- :salt: 1.5 tsp salt
+- :droplet: 4 cups water
 
 ## :cooking: Cookware
 
