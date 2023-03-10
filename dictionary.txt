@@ -34,6 +34,7 @@
 6B
 7mm
 800ºF
+8B
 8oz
 8x7
 8x8-inch
@@ -121,6 +122,7 @@ brûlées
 bruschetta
 Bruschetta
 Bûche
+buco
 bundt
 Buon
 Butterfinger
@@ -133,12 +135,17 @@ cannoli
 Cannoli
 Capellini
 Caprese
+Casado
 cassola
 Cassola
 catsup
+cavatelli
+Ceci
+ceviche
 Ceviche
 chai
 Chai
+Chambord
 chantilly
 chasmi
 chasni
@@ -147,6 +154,7 @@ chia
 Chiave
 Chiboust
 Chickenless
+chiffonade
 chile
 chilero
 Chilero
@@ -155,6 +163,7 @@ chilis
 chillies
 chimichurri
 Chimichurri
+chinois
 chipotle
 Chipotle
 Chipotle-Inspired
@@ -173,6 +182,8 @@ Ciliegine
 Cinnamon-Streusel
 ClearJel
 CLI
+clouté
+Clouté
 Comté
 Conchas
 cookiedough
@@ -182,6 +193,7 @@ Copha
 Corncakes
 costa-rican
 cotija
+Cotija
 countertop
 countertops
 Craquelin
@@ -217,10 +229,12 @@ dente
 dente.
 dishwashing
 disney
+ditalini
 dominique-ansel
 doneness
 Dorie
 d'Oro
+doughs
 dulce
 Dulce
 duxelles
@@ -276,6 +290,7 @@ garni
 Garni
 Garten's
 Gâteau
+Genoise
 ginger-miso
 Ginger-Miso
 glug
@@ -290,6 +305,8 @@ greaseproof
 greek
 griddled
 Gruyère
+guevara
+guevara's
 Gulab
 habanero
 harina
@@ -307,6 +324,7 @@ Improver
 ina-garten
 Incredisauce
 indian
+indonesian
 italian
 jalapeño
 Jalapeño
@@ -320,7 +338,9 @@ Jemma
 jewish
 Jicama
 Jojo's
+jose
 julia-child
+julienned
 kabocha
 Kalamata
 Kickstarter
@@ -333,6 +353,8 @@ Kroket
 Laugenbrezeln
 Lavash
 Lawry's
+leche
+Leche
 Lemper
 lengthways
 Levain
@@ -351,6 +373,7 @@ Mafalda
 Maillardization
 maitake
 Maitake
+Manchego
 mandoline
 Manicotti
 manie
@@ -364,6 +387,7 @@ Marzano
 masa
 masala
 mascarpone
+Mascarpone
 mediterranean
 medjool
 Medjool
@@ -391,6 +415,7 @@ Myrn's
 nappage
 Nasi
 Nicoyan
+nixtamal
 Nixtamal
 Noël
 Non-Diastatic
@@ -432,6 +457,7 @@ pepe
 pepitas
 pepperoncini
 persian
+peruvian
 petits
 pico
 Pico
@@ -439,6 +465,7 @@ pillowy
 Pillowy
 piloncillo
 pimentón
+pipable
 pizzelle
 Pizzelle
 pkgs
@@ -472,6 +499,7 @@ Puttanesca
 quenelle
 queso
 Radiatori
+Ragu
 ragù
 rebeaten
 RedHot
@@ -490,6 +518,7 @@ Risoni
 rollout
 roma
 Roma
+rombi
 romesco
 Romesco
 Rosamarina
@@ -563,6 +592,7 @@ TJ's
 Tollhouse
 tomari
 Tomate
+tostada
 tostadas
 Tostadas
 trader-joes
@@ -595,6 +625,7 @@ Velouté
 verde
 verts
 Verts
+vietnamese
 webp
 well-puréed
 Whoopie
@@ -607,36 +638,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-guevara
-ceviche
-Casado
-jose
-nixtamal
-jose
-guevara's
-clouté
-Clouté
-Ragu
-8B
-Genoise
-chinois
-Chambord
-buco
-chiffonade
-chiffonade
-cavatelli
-leche
-Leche
-Ceci
-ditalini
-rombi
-Cotija
-Mascarpone
-Manchego
-doughs
-pipable
-julienned
-indonesian
-vietnamese
-peruvian
-mediterranean
