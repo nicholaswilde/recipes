@@ -9,6 +9,13 @@ vars:
 
 tasks:
 
+  add-comments:
+    desc: Add a front matter tag
+    cmds:
+      - >-
+        {{ .CMD }} '.comments = "true"' /workdir/{{ .CLI_ARGS }}
+    vars:
+      CMD: docker run --rm -v "${PWD}":/workdir mikefarah/yq --front-matter="process"
   add-tag:
     desc: Add a front matter tag
     cmds:
