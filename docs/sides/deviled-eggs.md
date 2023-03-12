@@ -3,7 +3,7 @@ comments: true
 ---
 # :egg: Deviled Eggs
 
-![Deviled Eggs](../assets/images/deviled-eggs.jpg)
+![Deviled Eggs](../assets/images/deviled-eggs.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

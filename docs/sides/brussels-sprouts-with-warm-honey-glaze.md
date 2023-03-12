@@ -5,7 +5,7 @@ tags:
 ---
 # :leafy_green: Brussels Sprouts With Warm Honey Glaze
 
-![Brussels Sprouts With Warm Honey Glaze](../assets/images/brussels-sprouts-with-warm-honey-glaze.jpg)
+![Brussels Sprouts With Warm Honey Glaze](../assets/images/brussels-sprouts-with-warm-honey-glaze.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 ---
 # America's Test Kitchen Best Baked Potatoes
 
-![America's Test Kitchen Best Baked Potatoes](../assets/images/america's-test-kitchen-best-baked-potatoes.jpg)
+![America's Test Kitchen Best Baked Potatoes][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -53,3 +53,5 @@ For the topping, combine goat cheese, olive oil, parsley, shallots, and lemon ze
 ## :link: Source
 
 - <https://www.youtube.com/watch?v=Vr-o01qiRYI>
+
+[1]: <../assets/images/america's-test-kitchen-best-baked-potatoes.jpg>

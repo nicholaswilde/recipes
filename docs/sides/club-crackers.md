@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Club Crackers
 
-![Club Crackers](../assets/images/club-crackers.jpg)
+![Club Crackers](../assets/images/club-crackers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

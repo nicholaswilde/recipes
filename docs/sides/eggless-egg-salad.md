@@ -3,7 +3,7 @@ comments: true
 ---
 # Eggless Egg Salad
 
-![Eggless Egg Salad](../assets/images/eggless-egg-salad.jpg)
+![Eggless Egg Salad](../assets/images/eggless-egg-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

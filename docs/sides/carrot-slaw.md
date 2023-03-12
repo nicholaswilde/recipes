@@ -3,7 +3,7 @@ comments: true
 ---
 # :carrot: Carrot Slaw
 
-![Carrot Slaw](../assets/images/carrot-slaw.png)
+![Carrot Slaw](../assets/images/carrot-slaw.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

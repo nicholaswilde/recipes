@@ -6,7 +6,7 @@ tags:
 ---
 # :carrot: Carrot Cake Protein Bites
 
-![Carrot Cake Protein Bites](../assets/images/carrot-cake-protein-bites.jpg)
+![Carrot Cake Protein Bites](../assets/images/carrot-cake-protein-bites.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

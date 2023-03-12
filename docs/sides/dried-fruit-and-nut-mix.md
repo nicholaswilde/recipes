@@ -6,7 +6,7 @@ tags:
 ---
 # :chestnut: Dried Fruit & Nut Mix
 
-![Dried Fruit and Nut Mix](../assets/images/dried-fruit-and-nut-mix.png)
+![Dried Fruit and Nut Mix](../assets/images/dried-fruit-and-nut-mix.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

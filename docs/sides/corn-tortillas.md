@@ -3,7 +3,7 @@ comments: true
 ---
 # :corn: Corn Tortillas
 
-![Corn Tortillas](../assets/images/corn-tortillas.png)
+![Corn Tortillas](../assets/images/corn-tortillas.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

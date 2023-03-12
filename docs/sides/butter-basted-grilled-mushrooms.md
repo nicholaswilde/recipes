@@ -3,7 +3,7 @@ comments: true
 ---
 # :mushroom: Butter-Basted Grilled Mushrooms
 
-![Butter-Basted Grilled Mushrooms](../assets/images/butter-basted-grilled-mushrooms.jpg)
+![Butter-Basted Grilled Mushrooms](../assets/images/butter-basted-grilled-mushrooms.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 ---
 # :potato: Crispy Herbes de Provence Potatoes
 
-![Crispy Herbes de Provence Potatoes](../assets/images/crispy-herbes-de-provence-potatoes.png)
+![Crispy Herbes de Provence Potatoes](../assets/images/crispy-herbes-de-provence-potatoes.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

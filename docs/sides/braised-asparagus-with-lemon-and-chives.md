@@ -3,7 +3,7 @@ comments: true
 ---
 # :leafy_green: Braised Asparagus with Lemon & Chives
 
-![Braised Asparagus with Lemon and Chives](../assets/images/braised-asparagus-with-lemon-and-chives.jpg)
+![Braised Asparagus with Lemon and Chives](../assets/images/braised-asparagus-with-lemon-and-chives.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

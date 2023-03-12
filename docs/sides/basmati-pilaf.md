@@ -6,7 +6,7 @@ tags:
 ---
 # :rice: Basmati Pilaf
 
-![Basmati Pilaf](../assets/images/basmati-pilaf.jpg)
+![Basmati Pilaf](../assets/images/basmati-pilaf.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

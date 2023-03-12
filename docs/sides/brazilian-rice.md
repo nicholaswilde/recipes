@@ -3,7 +3,7 @@ comments: true
 ---
 # :rice: Brazilian Rice
 
-![Brazilian Rice](../assets/images/brazilian-rice.jpg)
+![Brazilian Rice](../assets/images/brazilian-rice.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

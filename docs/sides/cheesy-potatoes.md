@@ -3,7 +3,7 @@ comments: true
 ---
 # :potato: Cheesy Potatoes
 
-![Cheesy Potatoes](../assets/images/cheesy-potatoes.jpg)
+![Cheesy Potatoes](../assets/images/cheesy-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

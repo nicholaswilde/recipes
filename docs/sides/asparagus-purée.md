@@ -7,7 +7,7 @@ tags:
 ---
 # :herb: Asparagus Purée
 
-![Asparagus Purée](../assets/images/asparagus-purée.png)
+![Asparagus Purée](../assets/images/asparagus-purée.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

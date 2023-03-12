@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Creamed Spinach
 
-![Creamed Spinach](../assets/images/creamed-spinach.jpg)
+![Creamed Spinach](../assets/images/creamed-spinach.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
