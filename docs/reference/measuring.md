@@ -186,6 +186,7 @@ $$
 | Gluten-Free All-Purpose Flour                         | 1 cup             | 156         | 5-1/2       |
 | Graham Cracker Crumbs (boxed)                         | 1 cup             | 99          | 3-1/2       |
 | Graham Crackers (crushed)                             | 1 cup             | 142         | 5           |
+| Graham Cracker Sheet                            | 1 sheet           | 15          | 1/2         |
 | Granola                                               | 1 cup             | 113         | 4           |
 | Grape-Nuts                                            | 1/2 cup           | 57          | 2           |
 | Harvest Grains Blend                                  | 1/2 cup           | 74          | 2-5/8       |
