@@ -8,6 +8,12 @@ vars:
   PORT: 8000
 
 tasks:
+  add-lazy-loading:
+    desc: Add lazy image loading
+    dir: '{{.USER_WORKING_DIR}}'
+    cmds:
+      - >-
+        sed -i 's/\(\!\[.*\)/\1\{ loading=lazy \}/' {{ .CLI_ARGS }}
 
   add-comments:
     desc: Add a front matter tag
