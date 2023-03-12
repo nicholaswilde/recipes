@@ -6,7 +6,7 @@ tags:
 ---
 # :chestnut: Whipped Almond Ricotta
 
-![Whipped Almond Ricotta](../assets/images/whipped-almond-ricotta.jpg)
+![Whipped Almond Ricotta](../assets/images/whipped-almond-ricotta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :spaghetti: Spaghetti Sauce
 
-![Spaghetti Sauce](../assets/images/spaghetti-sauce.jpg)
+![Spaghetti Sauce](../assets/images/spaghetti-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

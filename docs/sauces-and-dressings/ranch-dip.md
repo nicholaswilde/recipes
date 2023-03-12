@@ -5,7 +5,7 @@ tags:
 ---
 # Ranch Dip
 
-![Ranch Dip](../assets/images/ranch-dip.jpg)
+![Ranch Dip](../assets/images/ranch-dip.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

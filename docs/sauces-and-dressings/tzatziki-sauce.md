@@ -5,7 +5,7 @@ tags:
 ---
 # :rice: Tzatziki Sauce
 
-![Tzatziki Sauce](../assets/images/tzatziki-sauce.jpg)
+![Tzatziki Sauce](../assets/images/tzatziki-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

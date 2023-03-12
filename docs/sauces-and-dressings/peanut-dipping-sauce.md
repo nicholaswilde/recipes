@@ -6,7 +6,7 @@ tags:
 ---
 # :peanuts: Peanut Dipping Sauce
 
-![Peanut Dipping Sauce](../assets/images/peanut-dipping-sauce.jpg)
+![Peanut Dipping Sauce](../assets/images/peanut-dipping-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

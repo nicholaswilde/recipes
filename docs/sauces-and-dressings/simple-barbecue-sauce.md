@@ -5,7 +5,7 @@ tags:
 ---
 # :hotsprings: Simple Barbecue Sauce
 
-![Simple Barbecue Sauce](../assets/images/simple-barbecue-sauce.jpg)
+![Simple Barbecue Sauce](../assets/images/simple-barbecue-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

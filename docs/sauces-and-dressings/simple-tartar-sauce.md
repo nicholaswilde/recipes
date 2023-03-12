@@ -5,7 +5,7 @@ tags:
 ---
 # :fish: Tartar Sauce
 
-![Tartar Sauce](../assets/images/simple-tartar-sauce.png)
+![Tartar Sauce](../assets/images/simple-tartar-sauce.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

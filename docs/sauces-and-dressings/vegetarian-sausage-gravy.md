@@ -6,7 +6,7 @@ tags:
 ---
 # :hotdog: Vegetarian Sausage Gravy
 
-![Vegetarian Sausage Gravy](../assets/images/vegetarian-sausage-gravy.jpg)
+![Vegetarian Sausage Gravy](../assets/images/vegetarian-sausage-gravy.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :strawberry: Simple Berry Compote
 
-![Simple Berry Compote](../assets/images/simple-berry-compote.jpg)
+![Simple Berry Compote](../assets/images/simple-berry-compote.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

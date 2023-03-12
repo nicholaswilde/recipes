@@ -7,7 +7,7 @@ tags:
 ---
 # :seedling: Tahini
 
-![Tahini](../assets/images/tahini.jpg)
+![Tahini](../assets/images/tahini.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

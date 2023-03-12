@@ -6,7 +6,7 @@ tags:
 ---
 # :tomato: Tomato Ragu
 
-![Tomato Ragu](../assets/images/tomato-ragu.jpg)
+![Tomato Ragu](../assets/images/tomato-ragu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

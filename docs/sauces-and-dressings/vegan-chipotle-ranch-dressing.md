@@ -6,7 +6,7 @@ tags:
 ---
 # :hot_pepper: Vegan Chipotle Ranch Dressing
 
-![Vegan Chipotle Ranch Dressing](../assets/images/vegan-chipotle-ranch-dressing.jpg)
+![Vegan Chipotle Ranch Dressing](../assets/images/vegan-chipotle-ranch-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

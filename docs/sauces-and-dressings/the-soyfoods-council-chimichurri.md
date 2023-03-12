@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: The Soyfoods Council Chimichurri
 
-![The Soyfoods Council Chimichurri](../assets/images/the-soyfoods-council-chimichurri.jpg)
+![The Soyfoods Council Chimichurri](../assets/images/the-soyfoods-council-chimichurri.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

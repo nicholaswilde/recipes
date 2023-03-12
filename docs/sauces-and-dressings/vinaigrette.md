@@ -6,7 +6,7 @@ tags:
 ---
 # :green_salad: Vinaigrette
 
-![Vinaigrette](../assets/images/vinaigrette.jpg)
+![Vinaigrette](../assets/images/vinaigrette.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :tomato: Tomato Bruschetta
 
-![Tomato Bruschetta](../assets/images/tomato-bruschetta.jpg)
+![Tomato Bruschetta](../assets/images/tomato-bruschetta.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

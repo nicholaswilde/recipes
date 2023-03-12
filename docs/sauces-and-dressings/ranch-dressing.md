@@ -5,7 +5,7 @@ tags:
 ---
 # :herb: Ranch Dressing
 
-![Ranch Dressing](../assets/images/ranch-dressing.jpg)
+![Ranch Dressing](../assets/images/ranch-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

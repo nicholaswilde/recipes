@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: Vegan Ranch Dressing
 
-![Vegan Ranch Dressing](../assets/images/vegan-ranch-dressing.jpg)
+![Vegan Ranch Dressing](../assets/images/vegan-ranch-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

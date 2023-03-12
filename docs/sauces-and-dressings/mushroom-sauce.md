@@ -6,7 +6,7 @@ tags:
 ---
 # :mushroom: Mushroom Sauce
 
-![Mushroom Sauce](../assets/images/mushroom-sauce.jpg)
+![Mushroom Sauce](../assets/images/mushroom-sauce.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

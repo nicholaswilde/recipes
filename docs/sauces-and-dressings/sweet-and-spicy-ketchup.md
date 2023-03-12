@@ -6,7 +6,7 @@ tags:
 ---
 # :tomato: Sweet-and-Spicy Ketchup
 
-![Sweet-and-Spicy Ketchup](../assets/images/sweet-and-spicy-ketchup.jpg)
+![Sweet-and-Spicy Ketchup](../assets/images/sweet-and-spicy-ketchup.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

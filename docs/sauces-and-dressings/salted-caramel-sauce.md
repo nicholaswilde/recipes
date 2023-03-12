@@ -5,7 +5,7 @@ tags:
 ---
 # :custard: Salted Caramel Sauce
 
-![Salted Caramel Sauce](../assets/images/salted-caramel-sauce.jpg)
+![Salted Caramel Sauce](../assets/images/salted-caramel-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

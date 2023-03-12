@@ -5,7 +5,7 @@ tags:
 ---
 # :bell_pepper: Roasted Red Pepper Coulis
 
-![Roasted Red Pepper Coulis](../assets/images/roasted-red-pepper-coulis.jpg)
+![Roasted Red Pepper Coulis](../assets/images/roasted-red-pepper-coulis.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

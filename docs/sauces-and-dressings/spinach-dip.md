@@ -5,7 +5,7 @@ tags:
 ---
 # :leafy_green: Spinach Dip
 
-![Spinach Dip](../assets/images/spinach-dip.jpg)
+![Spinach Dip](../assets/images/spinach-dip.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :hamburger: Special Sauce for Burgers
 
-![Special Sauce for Burgers](../assets/images/special-sauce-for-burgers.jpg)
+![Special Sauce for Burgers](../assets/images/special-sauce-for-burgers.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

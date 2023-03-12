@@ -5,7 +5,7 @@ tags:
 ---
 # :bell_pepper: Roasted Red Pepper Sauce
 
-![Roasted Red Pepper Sauce](../assets/images/roasted-red-pepper-sauce.jpg)
+![Roasted Red Pepper Sauce](../assets/images/roasted-red-pepper-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

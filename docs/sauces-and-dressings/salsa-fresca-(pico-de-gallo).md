@@ -7,7 +7,7 @@ tags:
 ---
 # :tomato: Salsa Fresca (Pico de Gallo)
 
-![Salsa Fresca (Pico de Gallo)](../assets/images/salsa-fresca-(pico-de-gallo).jpg)
+![Salsa Fresca (Pico de Gallo)](../assets/images/salsa-fresca-(pico-de-gallo).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

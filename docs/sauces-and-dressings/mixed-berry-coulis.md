@@ -5,7 +5,7 @@ tags:
 ---
 # :strawberry: Mixed Berry Coulis
 
-![Mixed Berry Coulis](../assets/images/mixed-berry-coulis.jpg)
+![Mixed Berry Coulis](../assets/images/mixed-berry-coulis.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
