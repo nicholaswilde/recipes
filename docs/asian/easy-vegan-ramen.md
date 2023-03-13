@@ -76,9 +76,9 @@ miso paste at this time.
 When you’re 30 minutes from serving, prepare any desired toppings (see notes for miso-glazed carrots (optional),
 miso-glazed baby bok choy (optional), and quick-seared extra-firm tofu).
 
-### Step 8
+### Step 8 - Noodles
 
-NOODLES: Fill a large saucepan or pot with water and bring to a boil. Once boiling, add ramen noodles (depending on size
+Fill a large saucepan or pot with water and bring to a boil. Once boiling, add ramen noodles (depending on size
 of pan you may need to do this in two batches // use fewer or more batches if altering batch size) and cook according to
 package instructions – about 4 to 5 minutes. Drain and set aside.
 
