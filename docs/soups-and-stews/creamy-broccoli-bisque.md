@@ -6,7 +6,7 @@ tags:
 ---
 # :broccoli: Creamy Broccoli Bisque
 
-![Creamy Broccoli Bisque](../assets/images/creamy-broccoli-bisque.jpg)
+![Creamy Broccoli Bisque](../assets/images/creamy-broccoli-bisque.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

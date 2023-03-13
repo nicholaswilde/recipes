@@ -6,7 +6,7 @@ tags:
 ---
 # :tomato: Roasted Tomato Soup
 
-![Roasted Tomato Soup](../assets/images/roasted-tomato-soup.png)
+![Roasted Tomato Soup](../assets/images/roasted-tomato-soup.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

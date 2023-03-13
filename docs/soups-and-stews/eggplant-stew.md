@@ -3,7 +3,7 @@ comments: true
 ---
 # Eggplant Stew
 
-![Eggplant Stew](../assets/images/eggplant-stew.jpg)
+![Eggplant Stew](../assets/images/eggplant-stew.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

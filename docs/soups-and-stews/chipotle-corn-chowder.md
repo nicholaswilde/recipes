@@ -3,7 +3,7 @@ comments: true
 ---
 # :corn: Chipotle Corn Chowder
 
-![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg)
+![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

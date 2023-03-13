@@ -3,7 +3,7 @@ comments: true
 ---
 # Lemony Lentil Soup
 
-![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.jpg)
+![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

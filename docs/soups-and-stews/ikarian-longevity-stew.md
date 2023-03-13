@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Ikarian Longevity Stew
 
-![Ikarian Longevity Stew](../assets/images/ikarian-longevity-stew.jpg)
+![Ikarian Longevity Stew](../assets/images/ikarian-longevity-stew.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves |
 |:------:|

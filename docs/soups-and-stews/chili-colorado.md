@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Chili Colorado
 
-![Chili Colorado](../assets/images/chili-colorado.jpg)
+![Chili Colorado](../assets/images/chili-colorado.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

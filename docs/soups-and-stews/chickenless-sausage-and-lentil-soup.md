@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Chickenless Sausage and Lentil Soup
 
-![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.jpg)
+![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

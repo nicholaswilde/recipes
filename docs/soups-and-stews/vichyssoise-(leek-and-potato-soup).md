@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Vichyssoise (Leek & Potato Soup)
 
-![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg)
+![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

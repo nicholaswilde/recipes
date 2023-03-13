@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - magnolia
+  - soup
 ---
 # :stew: Spinach Tortellini Soup by Joanna Gaines
 
-![Spinach Tortellini Soup by Joanna Gaines](../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg)
+![Spinach Tortellini Soup by Joanna Gaines][3]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -65,3 +68,4 @@ thaw before reheating.
 
 [1]: <../ingredients/vegetable-broth.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>
+[3]: <../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg>

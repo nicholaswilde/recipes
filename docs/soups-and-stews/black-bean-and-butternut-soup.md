@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Black Bean & Butternut Soup
 
-![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.jpg)
+![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

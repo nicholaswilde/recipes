@@ -5,7 +5,7 @@ tags:
 ---
 # :mushroom: Cream of Mushroom
 
-![Cream of Mushroom](../assets/images/cream-of-mushroom.jpg)
+![Cream of Mushroom](../assets/images/cream-of-mushroom.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

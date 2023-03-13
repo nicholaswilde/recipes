@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_circle: Split Pea Soup
 
-![Split Pea Soup](../assets/images/split-pea-soup.jpg)
+![Split Pea Soup](../assets/images/split-pea-soup.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

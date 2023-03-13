@@ -3,7 +3,7 @@ comments: true
 ---
 # :potato: Potato Soup
 
-![Potato Soup](../assets/images/potato-soup.jpg)
+![Potato Soup](../assets/images/potato-soup.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

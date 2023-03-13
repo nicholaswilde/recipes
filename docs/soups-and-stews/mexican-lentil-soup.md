@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Mexican Lentil Soup
 
-![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.jpg)
+![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

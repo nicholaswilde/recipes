@@ -3,7 +3,7 @@ comments: true
 ---
 # Slow Cooker Vegan African Peanut Stew
 
-![Slow Cooker Vegan African Peanut Stew](../assets/images/slow-cooker-vegan-african-peanut-stew.png)
+![Slow Cooker Vegan African Peanut Stew](../assets/images/slow-cooker-vegan-african-peanut-stew.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

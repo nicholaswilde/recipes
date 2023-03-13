@@ -7,7 +7,7 @@ tags:
 ---
 # :onion: French Onion Soup
 
-![French Onion Soup](../assets/images/french-onion-soup.jpg)
+![French Onion Soup](../assets/images/french-onion-soup.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

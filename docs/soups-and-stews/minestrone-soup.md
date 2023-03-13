@@ -6,7 +6,7 @@ tags:
 ---
 # :stew: Minestrone Soup
 
-![Minestrone Soup](../assets/images/minestrone-soup.jpg)
+![Minestrone Soup](../assets/images/minestrone-soup.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
