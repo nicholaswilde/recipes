@@ -5,7 +5,7 @@ tags:
 ---
 # :pie: Meatless Umami Shepherd's Pie
 
-![Meatless Umami Shepherd's Pie](../assets/images/meatless-umami-shepherd's-pie.png)
+![Meatless Umami Shepherd's Pie](../assets/images/meatless-umami-shepherd's-pie.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

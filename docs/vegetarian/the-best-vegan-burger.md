@@ -3,7 +3,7 @@ comments: true
 ---
 # The Best Vegan Burger
 
-![The Best Vegan Burger](../assets/images/the-best-vegan-burger.jpg)
+![The Best Vegan Burger](../assets/images/the-best-vegan-burger.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

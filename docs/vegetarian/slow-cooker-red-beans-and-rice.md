@@ -6,7 +6,7 @@ tags:
 ---
 # :rice: Slow Cooker Red Beans and Rice
 
-![Slow Cooker Red Beans and Rice](../assets/images/slow-cooker-red-beans-and-rice.jpg)
+![Slow Cooker Red Beans and Rice](../assets/images/slow-cooker-red-beans-and-rice.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

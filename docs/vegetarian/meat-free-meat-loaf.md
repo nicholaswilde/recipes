@@ -3,7 +3,7 @@ comments: true
 ---
 # Meat-Free Meat Loaf
 
-![Meat-Free Meat Loaf](../assets/images/meat-free-meat-loaf.jpg)
+![Meat-Free Meat Loaf](../assets/images/meat-free-meat-loaf.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

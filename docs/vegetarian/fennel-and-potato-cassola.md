@@ -6,7 +6,7 @@ tags:
 ---
 # :stew: Fennel & Potato Cassola
 
-![Fennel and Potato Cassola](../assets/images/fennel-and-potato-cassola.jpg)
+![Fennel and Potato Cassola](../assets/images/fennel-and-potato-cassola.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

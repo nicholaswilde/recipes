@@ -3,7 +3,7 @@ comments: true
 ---
 # :hamburger: Indian Spiced Lentil Burgers
 
-![Indian Spiced Lentil Burgers](../assets/images/indian-spiced-lentil-burgers.jpg)
+![Indian Spiced Lentil Burgers](../assets/images/indian-spiced-lentil-burgers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

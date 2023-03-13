@@ -7,7 +7,7 @@ tags:
 ---
 # :green_salad: Fiesta Salad
 
-![Fiesta Salad](../assets/images/fiesta-salad.jpg)
+![Fiesta Salad](../assets/images/fiesta-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

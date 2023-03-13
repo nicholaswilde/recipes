@@ -3,7 +3,7 @@ comments: true
 ---
 # :broccoli: Lemon Garlic Cauliflower Rice
 
-![Lemon Garlic Cauliflower Rice](../assets/images/lemon-garlic-cauliflower-rice.png)
+![Lemon Garlic Cauliflower Rice](../assets/images/lemon-garlic-cauliflower-rice.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

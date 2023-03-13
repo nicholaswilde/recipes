@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Caramelized Onion, Spinach, and Sweet Potato Tart
 
-![Caramelized Onion, Spinach, and Sweet Potato Tart](../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg)
+![Caramelized Onion, Spinach, and Sweet Potato Tart][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -99,3 +99,5 @@ temperature. Sprinkle with a little dill before serving.
 ## :link: Source
 
 - <https://jessicaseinfeld.com/recipes/caramelized-onion-spinach-and-sweet-potato-tart>
+
+[1]: <../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg>

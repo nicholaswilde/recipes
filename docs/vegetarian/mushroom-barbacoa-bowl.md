@@ -3,7 +3,7 @@ comments: true
 ---
 # :mushroom: Mushroom Barbacoa Bowl
 
-![Mushroom Barbacoa Bowl](../assets/images/mushroom-barbacoa-bowl.jpg)
+![Mushroom Barbacoa Bowl](../assets/images/mushroom-barbacoa-bowl.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

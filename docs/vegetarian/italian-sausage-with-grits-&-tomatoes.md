@@ -3,7 +3,7 @@ comments: true
 ---
 # :stew: Italian Sausage with Grits & Tomatoes
 
-![Italian Sausage with Grits & Tomatoes](../assets/images/italian-sausage-with-grits-&-tomatoes.jpg)
+![Italian Sausage with Grits & Tomatoes](../assets/images/italian-sausage-with-grits-&-tomatoes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

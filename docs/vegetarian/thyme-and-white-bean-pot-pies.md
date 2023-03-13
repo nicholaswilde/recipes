@@ -5,7 +5,7 @@ tags:
 ---
 # :herb: Thyme & White Bean Pot Pies
 
-![Thyme and White Bean Pot Pies](../assets/images/thyme-and-white-bean-pot-pies.jpg)
+![Thyme and White Bean Pot Pies](../assets/images/thyme-and-white-bean-pot-pies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

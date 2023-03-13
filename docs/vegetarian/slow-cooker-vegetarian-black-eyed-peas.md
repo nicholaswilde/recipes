@@ -6,7 +6,7 @@ tags:
 ---
 # :stew: Slow Cooker Vegetarian Black-Eyed Peas
 
-![Slow Cooker Vegetarian Black-Eyed Peas](../assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg)
+![Slow Cooker Vegetarian Black-Eyed Peas](../assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

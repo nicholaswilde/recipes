@@ -7,7 +7,7 @@ tags:
 ---
 # :green_salad: Spicy Cashew Quinoa Salad
 
-![Spicy Cashew Quinoa Salad](../assets/images/spicy-cashew-quinoa-salad.png)
+![Spicy Cashew Quinoa Salad](../assets/images/spicy-cashew-quinoa-salad.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

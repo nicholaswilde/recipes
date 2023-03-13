@@ -7,7 +7,7 @@ tags:
 ---
 # :rice: Jose Guevara's Gallo Pinto
 
-![Jose Guevara's Gallo Pinto](../assets/images/jose-guevara's-gallo-pinto.jpg)
+![Jose Guevara's Gallo Pinto](../assets/images/jose-guevara's-gallo-pinto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,7 +19,7 @@ tags:
 - :onion: 1 onion
 - :garlic: 1 clove garlic
 - :sake: 2 Tbsp Worcestershire sauce
--  🫘 1 8-oz can cooked black beans
+- 🫘 1 8-oz can cooked black beans
 - :rice: 2 cups cooked long-grain white rice
 - :salt: some salt (optional)
 - :salt: some pepper (optional)

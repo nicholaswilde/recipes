@@ -6,7 +6,7 @@ tags:
 ---
 # :pancakes: Texas Potato Pancakes
 
-![Texas Potato Pancakes](../assets/images/texas-potato-pancakes.jpg)
+![Texas Potato Pancakes](../assets/images/texas-potato-pancakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

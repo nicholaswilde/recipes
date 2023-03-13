@@ -6,7 +6,7 @@ tags:
 ---
 # :curry: The Casado Plate
 
-![The Casado Plate](../assets/images/the-casado-plate.jpg)
+![The Casado Plate](../assets/images/the-casado-plate.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 # :falafel: Slow Cooker Indian-Spiced Chickpeas & Red Potatoes
 
-![Slow Cooker Indian-Spiced Chickpeas & Red Potatoes](../assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.jpg)
+![Slow Cooker Indian-Spiced Chickpeas & Red Potatoes][2]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -63,3 +63,4 @@ Cook on high for 4 to 5 hours or low for 8 to 10 hours.
 Ladle into a serve and serve with fresh cilantro and lime wedges for squeezing over the top.
 
 [1]: <../ingredients/vegetable-broth.md>
+[2]: <../assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.jpg>

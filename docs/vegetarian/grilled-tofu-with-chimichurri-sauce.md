@@ -3,7 +3,7 @@ comments: true
 ---
 # :butter: Grilled Tofu with Chimichurri Sauce
 
-![Grilled Tofu with Chimichurri Sauce](../assets/images/grilled-tofu-with-chimichurri-sauce.png)
+![Grilled Tofu with Chimichurri Sauce](../assets/images/grilled-tofu-with-chimichurri-sauce.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

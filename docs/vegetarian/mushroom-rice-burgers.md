@@ -3,7 +3,7 @@ comments: true
 ---
 # Mushroom Rice Burgers
 
-![Mushroom Rice Burgers](../assets/images/mushroom-rice-burgers.jpg)
+![Mushroom Rice Burgers](../assets/images/mushroom-rice-burgers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
 ---
 # :broccoli: Crustless Broccoli Quiche
 
-![Crustless Broccoli Quiche](../assets/images/crustless-broccoli-quiche.jpg)
+![Crustless Broccoli Quiche](../assets/images/crustless-broccoli-quiche.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # Adas Polo (Persian Lentil Rice)
 
-![Adas Polo (Persian Lentil Rice)](../assets/images/adas-polo-(persian-lentil-rice).jpg)
+![Adas Polo (Persian Lentil Rice)](../assets/images/adas-polo-(persian-lentil-rice).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

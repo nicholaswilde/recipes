@@ -6,7 +6,7 @@ tags:
 ---
 # Game Changers Oat & Lentil Meatloaf
 
-![Game Changers Oat & Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg)
+![Game Changers Oat & Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

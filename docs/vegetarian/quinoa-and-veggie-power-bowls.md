@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_salad: Quinoa & Veggie Power Bowls
 
-![Quinoa and Veggie Power Bowls](../assets/images/quinoa-and-veggie-power-bowls.jpg)
+![Quinoa and Veggie Power Bowls](../assets/images/quinoa-and-veggie-power-bowls.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

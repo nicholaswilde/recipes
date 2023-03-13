@@ -6,7 +6,7 @@ tags:
 ---
 # :pancakes: Chickpea & Spinach Pancakes
 
-![Chickpea and Spinach Pancakes](../assets/images/chickpea-and-spinach-pancakes.jpg)
+![Chickpea and Spinach Pancakes](../assets/images/chickpea-and-spinach-pancakes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

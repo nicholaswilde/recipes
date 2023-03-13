@@ -6,7 +6,7 @@ tags:
 ---
 # :leafy_green: Super Nourishing Beans & Greens
 
-![Super Nourishing Beans and Greens](../assets/images/super-nourishing-beans-and-greens.jpg)
+![Super Nourishing Beans and Greens](../assets/images/super-nourishing-beans-and-greens.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

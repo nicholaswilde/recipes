@@ -6,7 +6,7 @@ tags:
 ---
 # :green_salad: Spinach Salad with Gorgonzola and Pear
 
-![Spinach Salad with Gorgonzola and Pear](../assets/images/spinach-salad-with-gorgonzola-and-pear.jpg)
+![Spinach Salad with Gorgonzola and Pear](../assets/images/spinach-salad-with-gorgonzola-and-pear.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

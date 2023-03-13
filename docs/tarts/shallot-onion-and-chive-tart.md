@@ -7,7 +7,7 @@ tags:
 ---
 # Shallot, Onion, & Chive Tart
 
-![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.jpg)
+![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
