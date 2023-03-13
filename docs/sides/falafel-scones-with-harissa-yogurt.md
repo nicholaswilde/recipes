@@ -3,7 +3,7 @@ comments: true
 ---
 # Falafel Scones with Harissa Yogurt
 
-![Falafel Scones with Harissa Yogurt](../assets/images/falafel-scones-with-harissa-yogurt.png)
+![Falafel Scones with Harissa Yogurt](../assets/images/falafel-scones-with-harissa-yogurt.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

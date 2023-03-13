@@ -7,7 +7,7 @@ tags:
 ---
 # :green_salad: Tomato Feta Pasta Salad
 
-![Tomato Feta Pasta Salad](../assets/images/tomato-feta-pasta-salad.jpg)
+![Tomato Feta Pasta Salad](../assets/images/tomato-feta-pasta-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

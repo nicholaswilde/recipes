@@ -3,7 +3,7 @@ comments: true
 ---
 # :pretzel: Laugenbrezeln (German Lye Pretzels)
 
-![Laugenbrezeln (German Lye Pretzels)](../assets/images/laugenbrezeln-(german-lye-pretzels).jpg)
+![Laugenbrezeln (German Lye Pretzels)](../assets/images/laugenbrezeln-(german-lye-pretzels).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -99,7 +99,7 @@ After making an inverted U with the dough rope, forming the twist is simple.
 2. Lift ends and attach them to curve of inverted U at about 10 o'clock and 2 o'clock. Press ends firmly into body of
 pretzel.
 
-![Laugenbrezeln][3]
+![Laugenbrezeln][3]{ loading=lazy }
 
 ## The Truth About Lye
 

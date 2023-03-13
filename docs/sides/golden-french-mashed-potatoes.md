@@ -5,7 +5,7 @@ tags:
 ---
 # :potato: Golden French Mashed Potatoes
 
-![Golden French Mashed Potatoes](../assets/images/golden-french-mashed-potatoes.jpg)
+![Golden French Mashed Potatoes](../assets/images/golden-french-mashed-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

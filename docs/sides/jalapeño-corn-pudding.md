@@ -3,7 +3,7 @@ comments: true
 ---
 # Jalapeño Corn Pudding
 
-![Jalapeño Corn Pudding](../assets/images/jalapeño-corn-pudding.jpg)
+![Jalapeño Corn Pudding](../assets/images/jalapeño-corn-pudding.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

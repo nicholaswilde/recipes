@@ -1,6 +1,6 @@
 # :green_salad: Macaroni Salad
 
-![Macaroni Salad](../assets/images/macaroni-salad.jpg)
+![Macaroni Salad](../assets/images/macaroni-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

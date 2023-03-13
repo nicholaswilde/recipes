@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - side
+  - jessica-seinfeld
 ---
 # :sweet_potato: Mashed Sweet Potatoes with Caramelized Shallots
 
-![Mashed Sweet Potatoes with Caramelized Shallots](../assets/images/mashed-sweet-potatoes-with-caramelized-shallots.jpg)
+![Mashed Sweet Potatoes with Caramelized Shallots][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -53,3 +56,5 @@ Serve the sweet potatoes topped with the caramelized shallots.
 ## :link: Source
 
 - <https://jessicaseinfeld.com/recipes/mashed-sweet-potatoes-with-caramelized-shallots>
+
+[1]: <../assets/images/mashed-sweet-potatoes-with-caramelized-shallots.jpg>

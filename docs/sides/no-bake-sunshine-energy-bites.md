@@ -7,7 +7,7 @@ tags:
 ---
 # :grapes: No Bake Sunshine Energy Bites
 
-![No Bake Sunshine Energy Bites](../assets/images/no-bake-sunshine-energy-bites.png)
+![No Bake Sunshine Energy Bites](../assets/images/no-bake-sunshine-energy-bites.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

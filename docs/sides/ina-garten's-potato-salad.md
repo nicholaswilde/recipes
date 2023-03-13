@@ -7,7 +7,7 @@ tags:
 ---
 # :potato: Ina Garten's Potato Salad
 
-![Ina Garten's Potato Salad](../assets/images/ina-garten's-potato-salad.jpg)
+![Ina Garten's Potato Salad](../assets/images/ina-garten's-potato-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

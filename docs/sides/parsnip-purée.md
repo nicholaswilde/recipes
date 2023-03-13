@@ -7,7 +7,7 @@ tag:
 ---
 # :carrot: Parsnip Purée
 
-![Parsnip Purée](../assets/images/parsnip-purée.jpg)
+![Parsnip Purée](../assets/images/parsnip-purée.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

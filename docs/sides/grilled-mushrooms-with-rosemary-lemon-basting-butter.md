@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - side
+  - cooks-illustrated
 ---
 # :mushroom: Grilled Mushrooms with Rosemary-Lemon Basting Butter
 
-![Grilled Mushrooms with Rosemary-Lemon Basting Butter](../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg)
+![Grilled Mushrooms with Rosemary-Lemon Basting Butter][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -28,6 +31,7 @@ comments: true
 ## :pencil: Instructions
 
 !!! note
+
     Use any mix of white, cremini, shiitake, portobello, oyster, maitake, and/or king oyster mushrooms you like, as
     long as the caps measure at least 2 inches in diameter. A grill basket is helpful here but not essential. These
     mushrooms make a great accompaniment to other grilled foods. The parcooked mushrooms can be refrigerated for up to
@@ -74,3 +78,5 @@ with salt and pepper to taste, and serve.
 ## :link: Source
 
 - <https://www.cooksillustrated.com/recipes/15040-grilled-mushrooms-with-rosemary-lemon-basting-butter>
+
+[1]: <../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg>

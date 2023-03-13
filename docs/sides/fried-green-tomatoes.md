@@ -5,7 +5,7 @@ tags:
 ---
 # :tomato: Fried Green Tomatoes
 
-![Fried Green Tomatoes](../assets/images/fried-green-tomatoes.jpg)
+![Fried Green Tomatoes](../assets/images/fried-green-tomatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

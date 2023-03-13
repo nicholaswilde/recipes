@@ -3,7 +3,7 @@ comments: true
 ---
 # :mushroom: Sautéed Mushrooms
 
-![Sautéed Mushrooms](../assets/images/sautéed-mushrooms.jpg)
+![Sautéed Mushrooms](../assets/images/sautéed-mushrooms.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

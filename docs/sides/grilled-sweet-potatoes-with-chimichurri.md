@@ -3,7 +3,7 @@ comments: true
 ---
 # :sweet_potato: Grilled Sweet Potatoes with Chimichurri
 
-![Grilled Sweet Potatoes with Chimichurri](../assets/images/grilled-sweet-potatoes-with-chimichurri.jpg)
+![Grilled Sweet Potatoes with Chimichurri](../assets/images/grilled-sweet-potatoes-with-chimichurri.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

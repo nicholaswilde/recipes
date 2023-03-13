@@ -6,7 +6,7 @@ tags:
 ---
 # :corn: Kettle Corn
 
-![Kettle Corn](../assets/images/kettle-corn.png)
+![Kettle Corn](../assets/images/kettle-corn.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Peanut Butter Chocolate Chip Protein Bites
 
-![Peanut Butter Chocolate Chip Protein Bites](../assets/images/peanut-butter-chocolate-chip-protein-bites.jpg)
+![Peanut Butter Chocolate Chip Protein Bites][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -56,3 +56,4 @@ Store in an airtight container and refrigerate.
 - Applied Kitchen
 
 [1]: <../ingredients/peanut-butter.md>
+[2]: <../assets/images/peanut-butter-chocolate-chip-protein-bites.jpg>

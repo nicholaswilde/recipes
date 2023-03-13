@@ -6,7 +6,7 @@ tags:
 ---
 # :chestnut: Rosemary Roasted Cashews
 
-![Rosemary Roasted Cashews](../assets/images/rosemary-roasted-cashews.jpg)
+![Rosemary Roasted Cashews](../assets/images/rosemary-roasted-cashews.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

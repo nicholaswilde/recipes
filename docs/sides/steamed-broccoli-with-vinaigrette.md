@@ -2,11 +2,11 @@
 comments: true
 tags:
   - side
-  - joy-of-cooking 
+  - joy-of-cooking
 ---
 # :broccoli: Steamed Broccoli with Vinaigrette
 
-![Steamed Broccoli with Vinaigrette](../assets/images/steamed-broccoli-with-vinaigrette.jpg)
+![Steamed Broccoli with Vinaigrette](../assets/images/steamed-broccoli-with-vinaigrette.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

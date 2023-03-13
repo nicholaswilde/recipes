@@ -3,7 +3,7 @@ comments: true
 ---
 # :potato: French Potato Salad
 
-![French Potato Salad](../assets/images/french-potato-salad.png)
+![French Potato Salad](../assets/images/french-potato-salad.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

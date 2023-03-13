@@ -5,7 +5,7 @@ tags:
 ---
 # :leafy_green: Kale Chips
 
-![Kale Chips](../assets/images/kale-chips.jpg)
+![Kale Chips](../assets/images/kale-chips.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

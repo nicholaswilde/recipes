@@ -3,7 +3,7 @@ comments: true
 ---
 # Skillet-Steamed Haricots Verts
 
-![Skillet-Steamed Haricots Verts](../assets/images/skillet-steamed-haricots-verts.jpg)
+![Skillet-Steamed Haricots Verts](../assets/images/skillet-steamed-haricots-verts.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

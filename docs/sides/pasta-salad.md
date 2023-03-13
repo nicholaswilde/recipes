@@ -6,7 +6,7 @@ tags:
 ---
 # :green_salad: Pasta Salad
 
-![Pasta Salad](../assets/images/pasta-salad.jpg)
+![Pasta Salad](../assets/images/pasta-salad.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

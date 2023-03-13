@@ -3,7 +3,7 @@ comments: true
 ---
 # Peanut Butter Bites
 
-![Peanut Butter Bites](../assets/images/peanut-butter-bites.jpg)
+![Peanut Butter Bites](../assets/images/peanut-butter-bites.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

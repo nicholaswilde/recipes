@@ -3,7 +3,7 @@ comments: true
 ---
 # Pickled Red Onions
 
-![Pickled Red Onions](../assets/images/pickled-red-onions.jpg)
+![Pickled Red Onions](../assets/images/pickled-red-onions.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

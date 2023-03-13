@@ -3,7 +3,7 @@ comments: true
 ---
 # Granola Bars
 
-![Granola Bars](../assets/images/granola-bars.jpg)
+![Granola Bars](../assets/images/granola-bars.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

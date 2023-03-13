@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-  - minimalist_baker
+  - minimalist-baker
 ---
 # :leafy_green: Roasted Fennel with Garlic and Thyme
 

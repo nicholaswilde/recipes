@@ -5,7 +5,7 @@ tags:
 ---
 # :potato: Julia Child's Garlic Mashed Potatoes
 
-![Julia Child's Garlic Mashed Potatoes](../assets/images/julia-child's-garlic-mashed-potatoes.jpg)
+![Julia Child's Garlic Mashed Potatoes](../assets/images/julia-child's-garlic-mashed-potatoes.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

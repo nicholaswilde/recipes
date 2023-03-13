@@ -3,7 +3,7 @@ comments: true
 ---
 # :potato: Potato Salad
 
-![Potato Salad](../assets/images/potato-salad.png)
+![Potato Salad](../assets/images/potato-salad.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

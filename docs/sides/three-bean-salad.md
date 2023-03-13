@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_salad: Three-Bean Salad
 
-![Three-Bean Salad](../assets/images/three-bean-salad.jpg)
+![Three-Bean Salad](../assets/images/three-bean-salad.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

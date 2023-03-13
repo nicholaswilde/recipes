@@ -3,7 +3,7 @@ comments: true
 ---
 # :mushroom: Kickstarter Garlic Mushrooms
 
-![Kickstarter Garlic Mushrooms](../assets/images/kickstarter-garlic-mushrooms.jpg)
+![Kickstarter Garlic Mushrooms](../assets/images/kickstarter-garlic-mushrooms.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

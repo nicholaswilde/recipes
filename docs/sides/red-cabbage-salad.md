@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_salad: Red Cabbage Salad
 
-![Red Cabbage Salad](../assets/images/red-cabbage-salad.png)
+![Red Cabbage Salad](../assets/images/red-cabbage-salad.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

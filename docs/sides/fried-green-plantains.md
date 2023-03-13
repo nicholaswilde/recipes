@@ -6,7 +6,7 @@ tags:
 ---
 # :banana: Fried Green Plantains
 
-![Fried Green Plantains](../assets/images/fried-green-plantains.jpg)
+![Fried Green Plantains](../assets/images/fried-green-plantains.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

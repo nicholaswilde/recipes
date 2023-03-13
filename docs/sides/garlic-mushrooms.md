@@ -6,7 +6,7 @@ tags:
 ---
 # :mushroom: Garlic Mushrooms
 
-![Garlic Mushrooms](../assets/images/garlic-mushrooms.jpg)
+![Garlic Mushrooms](../assets/images/garlic-mushrooms.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

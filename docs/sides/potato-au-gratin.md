@@ -6,7 +6,7 @@ tags:
 ---
 # :potato: Potato Au Gratin
 
-![Potato Au Gratin](../assets/images/potato-au-gratin.jpg)
+![Potato Au Gratin](../assets/images/potato-au-gratin.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

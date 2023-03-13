@@ -6,7 +6,7 @@ tags:
 ---
 # :herb: Hummus with Pesto
 
-![Hummus with Pesto](../assets/images/hummus-with-pesto.jpg)
+![Hummus with Pesto](../assets/images/hummus-with-pesto.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

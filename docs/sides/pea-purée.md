@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_circle: Pea Purée
 
-![Pea Purée](../assets/images/pea-purée.jpg)
+![Pea Purée](../assets/images/pea-purée.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

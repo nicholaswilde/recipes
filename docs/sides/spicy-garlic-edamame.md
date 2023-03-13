@@ -3,7 +3,7 @@ comments: true
 ---
 # Spicy Garlic Edamame
 
-![Spicy Garlic Edamame](../assets/images/spicy-garlic-edamame.jpg)
+![Spicy Garlic Edamame](../assets/images/spicy-garlic-edamame.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

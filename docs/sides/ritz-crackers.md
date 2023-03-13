@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Ritz Crackers
 
-![Ritz Crackers](../assets/images/ritz-crackers.jpg)
+![Ritz Crackers](../assets/images/ritz-crackers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

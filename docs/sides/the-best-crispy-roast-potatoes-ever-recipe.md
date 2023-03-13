@@ -3,7 +3,7 @@ comments: true
 ---
 # The Best Crispy Roast Potatoes Ever Recipe
 
-![The Best Crispy Roast Potatoes Ever Recipe](../assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg)
+![The Best Crispy Roast Potatoes Ever Recipe][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -61,3 +61,5 @@ salt and pepper to taste. Serve immediately.
 ## :link: Source
 
 - <https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe>
+
+[1]: <../assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg>

@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: Strawberry Protein Bites
 
-![Strawberry Protein Bites](../assets/images/strawberry-protein-bites.jpg)
+![Strawberry Protein Bites](../assets/images/strawberry-protein-bites.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

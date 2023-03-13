@@ -3,7 +3,7 @@ comments: true
 ---
 # :cookie: Jojo's Biscuits
 
-![Jojo's Biscuits](../assets/images/jojo's-biscuits.jpg)
+![Jojo's Biscuits](../assets/images/jojo's-biscuits.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
