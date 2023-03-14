@@ -66,5 +66,5 @@ with salt and pepper to taste, and serve.
 
 - Cook's Illustrated
 
-[1]: <../ingredients/garlic-parsley-basting-butter.md>
-[2]: <../ingredients/ginger-miso-basting-butter.md>
+[1]: <../ingredients/butter/garlic-parsley-basting-butter.md>
+[2]: <../ingredients/butter/ginger-miso-basting-butter.md>

@@ -6,7 +6,7 @@ tags:
 ---
 # :butter: Clarified Butter
 
-![Clarified Butter](../assets/images/clarified-butter.jpg){ loading=lazy }
+![Clarified Butter](../../assets/images/clarified-butter.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

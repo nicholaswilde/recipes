@@ -355,6 +355,12 @@ nav:
       - Nasi Goreng: indonesian/nasi-goreng.md
       - Wontons: indonesian/wontons.md
   - Ingredients:
+      - Butter:
+          - 3-Ingredient Garlic Butter: ingredients/butter/3-ingredient-garlic-butter.md
+          - Brown Butter with Sage: ingredients/butter/brown-butter-with-sage.md
+          - Clarified Butter: ingredients/butter/clarified-butter.md
+          - Garlic-Parsley Basting Butter: ingredients/butter/garlic-parsley-basting-butter.md
+          - Ginger-Miso Basting Butter: ingredients/butter/ginger-miso-basting-butter.md
       - Caramel:
           - Dry Caramel: ingredients/caramel/dry-caramel.md
           - Hard Caramel: ingredients/caramel/hard-caramel.md
@@ -428,7 +434,6 @@ nav:
           - Crispy Baked Peanut Tofu: ingredients/tofu/crispy-baked-peanut-tofu.md
           - Crispy Baked Tofu Nuggets: ingredients/tofu/crispy-baked-tofu-nuggets.md
           - Pan-Fried Tofu: ingredients/tofu/pan-fried-tofu.md
-      - 3-Ingredient Garlic Butter: ingredients/3-ingredient-garlic-butter.md
       - Almond Flour: ingredients/almond-flour.md
       - Aquafaba: ingredients/aquafaba.md
       - Beurre Manié: ingredients/beurre-manié.md
@@ -437,14 +442,12 @@ nav:
       - Blueberry Syrup for Pancakes: ingredients/blueberry-syrup-for-pancakes.md
       - Bouquet Garni: ingredients/bouquet-garni.md
       - Breadcrumbs: ingredients/breadcrumbs.md
-      - Brown Butter with Sage: ingredients/brown-butter-with-sage.md
       - Brown Sugar: ingredients/brown-sugar.md
       - Butter: ingredients/butter.md
       - Buttermilk: ingredients/buttermilk.md
       - Candied Orange Peel: ingredients/candied-orange-peel.md
       - Caramelized Onions: ingredients/caramelized-onions.md
       - Chili Paste: ingredients/chili-paste.md
-      - Clarified Butter: ingredients/clarified-butter.md
       - Confectioners' Sugar: ingredients/confectioners-sugar.md
       - Crème Fraîche: ingredients/crème-fraîche.md
       - Croutons: ingredients/croutons.md
@@ -455,8 +458,6 @@ nav:
       - Evaporated Milk: ingredients/evaporated-milk.md
       - Fajita Veggies: ingredients/fajita-veggies.md
       - Flavored Sugars: ingredients/flavored-sugars.md
-      - Garlic-Parsley Basting Butter: ingredients/garlic-parsley-basting-butter.md
-      - Ginger-Miso Basting Butter: ingredients/ginger-miso-basting-butter.md
       - Graham Crackers: ingredients/graham-crackers.md
       - Grated Vegetable Shortening: ingredients/grated-vegetable-shortening.md
       - Honey Whipped Cream: ingredients/honey-whipped-cream.md
