@@ -3,7 +3,7 @@ comments: true
 ---
 # Vegan Giant Bean & Kale Penne
 
-![Vegan Giant Bean & Kale Penne](../assets/images/vegan-giant-bean-&-kale-penne.png)
+![Vegan Giant Bean & Kale Penne](../assets/images/vegan-giant-bean-&-kale-penne.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

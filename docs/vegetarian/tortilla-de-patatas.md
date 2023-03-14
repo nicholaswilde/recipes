@@ -3,7 +3,7 @@ comments: true
 ---
 # :flatbread: Tortilla de Patatas
 
-![Tortilla de Patatas](../assets/images/tortilla-de-patatas.png)
+![Tortilla de Patatas](../assets/images/tortilla-de-patatas.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 ---
 # :green_salad: Vegan Caesar Salad
 
-![Vegan Caesar Salad](../assets/images/vegan-caesar-salad.png)
+![Vegan Caesar Salad](../assets/images/vegan-caesar-salad.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

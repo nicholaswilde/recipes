@@ -3,7 +3,7 @@ comments: true
 ---
 # Veggie Cassola
 
-![Veggie Cassola](../assets/images/veggie-cassola.jpg)
+![Veggie Cassola](../assets/images/veggie-cassola.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

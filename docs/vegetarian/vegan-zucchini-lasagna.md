@@ -3,7 +3,7 @@ comments: true
 ---
 # :cucumber: Vegan Zucchini Lasagna
 
-![Vegan Zucchini Lasagna](../assets/images/vegan-zucchini-lasagna.jpg)
+![Vegan Zucchini Lasagna](../assets/images/vegan-zucchini-lasagna.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

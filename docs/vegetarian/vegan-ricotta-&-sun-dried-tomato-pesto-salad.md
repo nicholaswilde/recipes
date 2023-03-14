@@ -1,9 +1,12 @@
 ---
 comments: true
+tags:
+  - vegetarian
+  - salad
 ---
 # :green_salad: Vegan Ricotta & Sun-Dried Tomato Pesto Salad
 
-![Vegan Ricotta & Sun-Dried Tomato Pesto Salad](../assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg)
+![Vegan Ricotta & Sun-Dried Tomato Pesto Salad][3]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -45,3 +48,4 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 
 [1]: <../sauces-and-dressings/pesto/cook's-country-perfect-pesto.md>
 [2]: <../sauces-and-dressings/whipped-almond-ricotta.md>
+[3]: <../assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg>
