@@ -29,8 +29,8 @@ tags:
 ## :salt: Ingredients - Topping
 
 - :butter: 10 oz extra-firm tofu
-- :carrot: some miso-glazed carrots (optional)
-- :leafy_green: some miso-glazed baby bok choy (optional)
+- :carrot: some [miso-glazed carrots][2] (optional)
+- :leafy_green: some [miso-glazed baby bok choy][1] (optional)
 - :seedling: 0.5 cup chopped green onion (optional)
 - :hot_pepper: some chili garlic sauce (optional
 
@@ -90,8 +90,9 @@ discarded them).
 ### Step 10
 
 To serve, divide ramen noodles between four (amount as original recipe is written // adjust if altering batch size)
-serving bowls. Top with strained broth and desired toppings, such as carrots, bok choy, chopped green onion (optional),
-or seared tofu. Serve with chili garlic sauce (optional (found here) for added heat.
+serving bowls. Top with strained broth and desired toppings, such as [miso-glazed carrots][2],
+[miso-glazed bok choy][1], chopped green onion (optional), or seared tofu. Serve with chili garlic sauce (optional)
+for added heat.
 
 ### Step 11
 
@@ -101,3 +102,6 @@ up to 1 month.
 ## :link: Source
 
 - <https://minimalistbaker.com/easy-vegan-ramen/#wprm-recipe-container-35499>
+
+[1]: <../sides/miso-glazed-bok-choy.md>
+[2]: <../sides/miso-glazed-carrots.md>
