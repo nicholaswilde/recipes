@@ -39,4 +39,4 @@ it sit for 10 to 15 minutes.
 - The King Arthur Baking Company All-Purpose Baker's Companion
 
 [1]: <../reference/equivalents-and-substitutes.md#whole-milk>
-[2]: <./butter.md>
+[2]: <./butter/butter.md>

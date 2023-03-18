@@ -5,7 +5,7 @@ tags:
 ---
 # :butter: Spreadable Butter
 
-![Spreadable Butter](../assets/images/spreadable-butter.jpg){ loading=lazy }
+![Spreadable Butter](../../assets/images/spreadable-butter.jpg){ loading=lazy }
 
 ## :scales: Ratio
 

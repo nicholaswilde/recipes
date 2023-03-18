@@ -2,10 +2,11 @@
 comments: true
 tags:
   - ingredient
+  - butter
 ---
 # :butter: Butter
 
-![Butter](../assets/images/butter.jpg){ loading=lazy }
+![Butter](../../assets/images/butter.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
