@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - vegan
+  - salad
 ---
 # :green_salad: Vegan Caesar Salad
 
@@ -11,13 +14,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 can garbanzo beans
-- 1 Tbsp olive oil
-- 1 tsp TJ's vegan chicken-less seasoning salt
-- 1 [vegan Parmesan cheese][1]
-- 3 Tbsp TJ's Vegan Caesar Dressing
-- some black pepper
-- 1 lemon
+- :falafel: 1 can garbanzo beans
+- :olive: 1 Tbsp olive oil
+- :salt: 1 tsp TJ's vegan chicken-less seasoning salt
+- :cheese_wedge: 1 [vegan Parmesan cheese][1]
+- :green_salad: 3 Tbsp TJ's Vegan Caesar Dressing
+- :salt: some black pepper
+- :lemon: 1 lemon
 
 ## :cooking: Cookware
 
