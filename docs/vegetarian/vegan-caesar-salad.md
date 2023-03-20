@@ -16,7 +16,7 @@ tags:
 
 - :falafel: 1 can garbanzo beans
 - :olive: 1 Tbsp olive oil
-- :salt: 1 tsp TJ's vegan chicken-less seasoning salt
+- :salt: 1 tsp [TJ's vegan chicken-less seasoning salt][2]
 - :cheese_wedge: 1 [vegan Parmesan cheese][1]
 - :green_salad: 3 Tbsp TJ's Vegan Caesar Dressing
 - :salt: some black pepper
@@ -43,7 +43,7 @@ add olive oil and stir to coat.
 ### Step 3
 
 Spread beans on a rimmed baking sheet and roast on center rack of oven for 20 to 30 minutes. Remove from oven and toss
-beans with TJ's vegan chicken-less seasoning salt, set aside.
+beans with [TJ's vegan chicken-less seasoning salt][2], set aside.
 
 ### Step 4
 
@@ -64,3 +64,4 @@ lemon wedges and more dressing on the side.
 - <https://www.traderjoes.com/home/recipes/vegan-caesar-salad>
 
 [1]: <../ingredients/vegan-parmesan.md>
+[2]: <../ingredients/seasonings/vegan-chicken-less-seasoning-salt.md>
