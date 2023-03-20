@@ -3,10 +3,11 @@ comments: true
 tags:
   - vegan
   - salad
+  - trader-joes
 ---
 # :green_salad: Vegan Caesar Salad
 
-![Vegan Caesar Salad](../assets/images/vegan-caesar-salad.png){ loading=lazy }
+![Vegan Caesar Salad][4]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -14,11 +15,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :falafel: 1 can garbanzo beans
+- :falafel: 1 can [garbanzo beans][5]
 - :olive: 1 Tbsp olive oil
 - :salt: 1 tsp [TJ's vegan chicken-less seasoning salt][2]
 - :cheese_wedge: 1 [vegan Parmesan cheese][1]
-- :green_salad: 3 Tbsp TJ's Vegan Caesar Dressing
+- :green_salad: 3 Tbsp [TJ's Vegan Caesar Dressing][3]
 - :salt: some black pepper
 - :lemon: 1 lemon
 
@@ -33,7 +34,7 @@ tags:
 
 ### Step 1
 
-Prepare garbanzo beans: Preheat oven to 400°F.
+Prepare [garbanzo beans][5]: Preheat oven to 400°F.
 
 ### Step 2
 
@@ -49,15 +50,15 @@ beans with [TJ's vegan chicken-less seasoning salt][2], set aside.
 
 Prepare [vegan Parmesan cheese][1].
 
-### Step 5
+### Step 5 - Assembly
 
-Assemble salad: Arrange romaine salad on a serving platter or large shallow bowl. Drizzle with 3 tablespoons TJ's Vegan
-Caesar Dressing and 1 tablespoon vegan Parmesan and toss to coat. Add more dressing if desired.
+Arrange romaine salad on a serving platter or large shallow bowl. Drizzle with 3 tablespoons
+[TJ's Vegan Caesar Dressing][3] and 1 tablespoon [vegan Parmesan][1] and toss to coat. Add more dressing if desired.
 
 ### Step 6
 
-Top with roasted garbanzo beans, sprinkle with vegan Parmesan, and finish with a few grinds of black pepper. Serve with
-lemon wedges and more dressing on the side.
+Top with roasted garbanzo beans, sprinkle with [vegan Parmesan][1], and finish with a few grinds of black pepper. Serve
+with lemon wedges and more dressing on the side.
 
 ## :link: Source
 
@@ -65,3 +66,6 @@ lemon wedges and more dressing on the side.
 
 [1]: <../ingredients/vegan-parmesan.md>
 [2]: <../ingredients/seasonings/vegan-chicken-less-seasoning-salt.md>
+[3]: <../sauces-and-dressings/vegan-caesar-dressing.md>
+[4]: <../assets/images/vegan-caesar-salad.png>
+[5]: <../pressurecooker/chickpeas.md>
