@@ -24,7 +24,7 @@ tags:
 - :olive: some olive oil
 - :butter: 1 knob unsalted butter
 - :leafy_green: 400 g spinach
-- :pie: 1 270 g filo
+- :pie: 1 270 g [filo][1]
 - :salt: some sea salt
 - :hot_pepper: 1 pinch cayenne pepper
 - :chestnut: 1 whole nutmeg
@@ -68,8 +68,8 @@ out again.
 
 ### Step 7
 
-Arrange 4 sheets of filo in a large rectangle on the greaseproof paper, overlapping at the edges, so that it’s almost
-covering the greaseproof.
+Arrange 4 sheets of [filo][1] in a large rectangle on the greaseproof paper, overlapping at the edges, so that it’s
+almost covering the greaseproof.
 
 ### Step 8
 
@@ -103,3 +103,5 @@ oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fr
 
 - <https://www.jamieoliver.com/recipes/cheese-recipes/spinach-feta-filo-pie/>
 - <https://www.youtube.com/watch?v=hrM8vzeGJb4>
+
+[1]: <../ingredients/pastry-dough/filo.md>
