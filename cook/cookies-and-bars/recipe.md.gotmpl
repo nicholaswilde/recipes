@@ -1,3 +1,14 @@
+{{- define "custom.image" -}}
+{{ if .Info.ImageFileName }}
+![{{ .Info.RecipeName }}][1]{ loading=lazy }
+{{ end }}
+{{- end -}}
+
+{{- define "custom.footer" -}}
+{{ if .Info.ImageFileName }}
+[1]: <../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}>
+{{ end }}
+{{- end -}}
 ---
 comments: true
 tags:
@@ -7,7 +18,7 @@ tags:
 ---
 {{ template "cook.headerSection" . }}
 
-{{ template "cook.lazyImageSection" . }}
+{{ template "custom.image" . }}
 
 {{ template "cook.tableSection" . }}
 
@@ -18,3 +29,5 @@ tags:
 {{ template "cook.stepsSection" . -}}
 
 {{ template "cook.sourceSection" . }}
+
+{{ template "custom.footer" . }}

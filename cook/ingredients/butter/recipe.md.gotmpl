@@ -6,13 +6,14 @@
 
 {{- define "custom.footer" -}}
 {{ if .Info.ImageFileName }}
-[1]: <../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}>
+[1]: <../../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}>
 {{ end }}
 {{- end -}}
 ---
 comments: true
 tags:
-  - italian
+  - butter
+  - ingredient
 ---
 {{ template "cook.headerSection" . }}
 
