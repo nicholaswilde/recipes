@@ -87,13 +87,19 @@ the pan.
 
 ### Step 11
 
-Pour in the spinach mixture and spread out evenly, then fold the filo up over the filling to cover.
+Pour in the spinach mixture and spread out evenly, spread extra Cheddar on top of the mixture, then fold the filo up
+over the filling to cover.
 
 ### Step 12
+
+Sprinkle fresh rosemary over the top of the pie.
+
+### Step 13
 
 Place the pan over a medium heat for 2 minutes, just to get the bottom cooking, then transfer to the top shelf of the
 oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fresh seasonal salad.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.jamieoliver.com/recipes/cheese-recipes/spinach-feta-filo-pie/>
+- <https://www.youtube.com/watch?v=hrM8vzeGJb4>
