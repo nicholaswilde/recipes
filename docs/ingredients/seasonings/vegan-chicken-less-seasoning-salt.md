@@ -40,6 +40,6 @@ Store in a dry, air tight container.
 
 ## :link: Source
 
-- <https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything>
+- <https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything/>
 
 [1]: <../../assets/images/vegan-chicken-less-seasoning-salt.jpg>
