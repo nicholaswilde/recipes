@@ -6,8 +6,9 @@
 
 {{- define "custom.footer" -}}
 {{ if .Info.ImageFileName }}
+
 [1]: <../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}>
-{{ end }}
+{{- end -}}
 {{- end -}}
 
 ---
@@ -27,6 +28,6 @@ tags:
 
 {{ template "cook.stepsSection" . -}}
 
-{{ template "cook.sourceSection" . }}
+{{ template "cook.sourceSection" . -}}
 
 {{ template "custom.footer" . }}
