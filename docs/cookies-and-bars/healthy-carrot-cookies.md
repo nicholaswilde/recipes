@@ -32,7 +32,7 @@ tags:
 ## :salt: Ingredients - Icing
 
 - :candy: 0.25 cup (28 g) confectioners' sugar
-- :glass_of_milk: 2 tsp unsweetened oat milk
+- :glass_of_milk: 2 tsp [unsweetened oat milk][1]
 - :custard: 1 dash cinnamon
 
 ## :cooking: Cookware
@@ -74,9 +74,11 @@ Allow cookies to cool for a few minutes.
 
 ### Step 7
 
-To make the glaze, combine the confectioners' sugar, 1 to 2 tsp unsweetened oat milk and cinnamon in a bowl. Drizzle a
-small amount over cookies, then let dry.
+To make the glaze, combine the confectioners' sugar, 1 to 2 tsp [unsweetened oat milk][1] and cinnamon in a bowl.
+Drizzle a small amount over cookies, then let dry.
 
 ## :link: Source
 
 - Applied Kitchen
+
+[1]: <../beverages/oat-milk.md>
