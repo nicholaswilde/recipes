@@ -133,6 +133,7 @@ $$
 | Cherries (candied)                                    | 1/4 cup           | 50          | 1-3/4       |
 | Cherries (dried)                                      | 1/2 cup           | 71          | 2-1/2       |
 | Cherries (frozen)                                     | 1 cup             | 113         | 4           |
+| Chia Seeds                                  | 1 Tbsp            | 10          | 3/8         |
 | Chickpea Flour                                        | 1 cup             | 85          | 3           |
 | Chives (fresh)                                        | 1/2 cup           | 21          | 3/4         |
 | Chocolate (chopped)                                   | 1 cup             | 170         | 6           |
