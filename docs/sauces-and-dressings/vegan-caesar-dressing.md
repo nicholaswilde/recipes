@@ -25,7 +25,7 @@ tags:
 - :hotsprings: some hot water
 - :salt: some salt
 - :salt: some pepper
-- :maple_leaf: hotsprings2 tsp Maple syrup (optional)
+- :maple_leaf: 2 tsp Maple syrup (optional)
 
 ## :cooking: Cookware
 

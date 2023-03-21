@@ -17,6 +17,9 @@
       },
       {
         "pattern": "^https://hellskitchenrecipes.com/gordon-ramsay-tomato-soup/"
+      },
+      {
+        "pattern": "^https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]
