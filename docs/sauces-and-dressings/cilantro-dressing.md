@@ -16,7 +16,7 @@ tags:
 - :sake: 0.33 cup rice vinegar
 - :olive: 4 Tbsp olive oil
 - :egg: 0.25 cup [mayonnaise][2]
-- :cheese: 3 oz cotija cheese or queso fresco
+- :cheese: 3 oz cotija cheese or [queso fresco][3]
 - :lemon: 1 lime juice
 - :garlic: 1 clove garlic
 - :hot_pepper: 1 jalapeño
@@ -35,8 +35,8 @@ tags:
 
 ### Step 1
 
-Add rice vinegar, olive oil, [mayonnaise][2], cotija cheese or queso fresco, lime juice, garlic, jalapeño, cilantro,
-and salt to a blender in the order given.
+Add rice vinegar, olive oil, [mayonnaise][2], cotija cheese or [queso fresco][3], lime juice, garlic, jalapeño,
+cilantro, and salt to a blender in the order given.
 
 ### Step 2
 
@@ -48,3 +48,4 @@ Process until smooth.
 
 [1]: <https://www.traderjoesgroceryreviews.com/trader-joes-cilantro-dressing/>
 [2]: <./mayonnaise.md>
+[3]: <../ingredients/queso-fresco.md>
