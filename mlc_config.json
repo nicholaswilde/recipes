@@ -20,6 +20,9 @@
       },
       {
         "pattern": "^https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything/"
+      },
+      {
+        "pattern": "^https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]

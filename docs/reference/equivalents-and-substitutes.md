@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - reference
 ---
 # :scales: Equivalents & Substitutes
 
@@ -20,15 +22,21 @@ comments: true
 | 1/2 cup                         | 1/2 cup         | 1/4 tsp |
 | 1 cup                           | 1 cup           | 1/2 tsp |
 
+## :ear_of_rice: [Cake & Pastry Flour][22]
+
+| Cake & Pastry Flour Equivalency to  | All-purpose flour                     | Cornstarch    |
+|-------------------------------------|---------------------------------------|---------------|
+| 1 cup (120 g)                       | 1 cup (120 g) - 2 Tbsp (15 g) = 105 g | 2 Tbsp (14 g) |
+
 ## :chocolate_bar: [Chocolate][20]
 
 | Type                | Chocolate Percentage  | Tempering Temperature |
 |---------------------|-----------------------|-----------------------|
-| white               | 20%                   | 109°F (43°C)           |
+| white               | 20%                   | 109°F (43°C)          |
 | milk                | 30-40%                | 113°F (45°C)          |
 | semi-sweet (dark)   | 57%                   | 118°F (48-50°C)       |
 | bittersweet (dark)  | 67%                   | 118°F (48-50°C)       |
-| unsweetened         | 100%                  | -                 |
+| unsweetened         | 100%                  | -                     |
 
 ## :salt: [Cream of Tartar][2]
 
@@ -205,3 +213,4 @@ Let mixture sit for 5 minutes.
 [19]: <../ingredients/pectin.md>
 [20]: <https://www.bonappetit.com/story/types-of-chocolate>
 [21]: <https://www.bhg.com/recipes/how-to/cooking-basics/self-rising-flour-substitute>
+[22]: <https://www.youtube.com/watch?v=fdLTlRPz7Cs>
