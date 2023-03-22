@@ -3,7 +3,7 @@ comments: true
 tags:
   - ingredient
 ---
-# Queso Fresco
+# :cheese_wedge: Queso Fresco
 
 ![Queso Fresco][1]{ loading=lazy }
 
@@ -13,9 +13,9 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 gallon whole milk
-- 0.67 cup lemon juice or vinegar
-- some salt
+- :glass_of_milk: 1 gallon whole milk
+- :lemon: 0.67 cup lemon juice or vinegar
+- :salt: some salt
 
 ## :cooking: Cookware
 
