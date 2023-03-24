@@ -37,6 +37,23 @@ sugar in a blender and process until smooth.
 
 For best results, chill for at least an hour before using.
 
+!!! tip
+
+    After 24 hours, the flavors have time to set in and this mayo tastes just like traditional mayo.
+
+!!! tip
+
+    If available, use a high-speed blender.
+
+!!! tip
+
+    I recommend the Mori-Nu brand of tofu vs refrigerated silken tofu varieties for a smoother and thicker consistency.
+    Choose the organic variety that contains soybeans instead of the isolated soy protein.
+
+!!! tip
+
+    You may use rice or white balsamic vinegar in place of the apple cider vinegar.
+
 ## :link: Source
 
 - <https://nutritionstudies.org/recipes/dip-spread/tofu-mayonnaise/>
