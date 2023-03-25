@@ -30,6 +30,11 @@ tags:
 ## :pencil: Instructions
 
 !!! note
+
+    See [Tofu Mayonnaise for a vegan alternative][1]
+
+!!! note
+
     Do not substitute olive oil for the vegetable oil; the mayonnaise will turn out bitter.
 
 ### Step 1
@@ -42,3 +47,5 @@ refrigerate until ready to use. (Mayonnaise can be refrigerated for up to 1 week
 ## :link: Source
 
 - <https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise>
+
+[1]: <./tofu-mayonnaise.md>
