@@ -5,7 +5,7 @@ tags:
   - sauce
   - joy-of-cooking
 ---
-# :takeout_box: Asian Sweet-and-Sour Sauce
+# :takeout_box: Asian Sweet-&-Sour Sauce
 
 ![Asian Sweet-and-Sour Sauce](../assets/images/asian-sweet-and-sour-sauce.jpg){ loading=lazy }
 

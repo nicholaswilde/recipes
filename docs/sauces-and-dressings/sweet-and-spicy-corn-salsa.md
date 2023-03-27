@@ -4,7 +4,7 @@ tags:
   - dip
   - mexican
 ---
-# :corn: Sweet-and-Spicy Corn Salsa
+# :corn: Sweet-&-Spicy Corn Salsa
 
 ![Sweet-and-Spicy Corn Salsa](../assets/images/sweet-and-spicy-corn-salsa.jpg){ loading=lazy }
 

@@ -4,7 +4,7 @@ tags:
   - sauce
   - italian
 ---
-# :spaghetti: White Mac and Cheese Sauce
+# :spaghetti: White Mac & Cheese Sauce
 
 ![White Mac and Cheese Sauce](../assets/images/white-mac-and-cheese-sauce.jpg){ loading=lazy }
 
