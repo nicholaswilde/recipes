@@ -16,4 +16,3 @@ repos:
     hooks:
       - id: markdown-link-check
         args: [-a, "200,206,403,429", -c, "mlc_config.json"]
-        verbose: true
