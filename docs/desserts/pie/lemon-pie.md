@@ -45,11 +45,11 @@ tags:
 - 1 medium bowl
 - 1 handheld electric mixer
 
-## :pencil: Instructions
+## :pencil: Instructions - Pie
 
 ### Step 1
 
-To make the lemon pie: Preheat the oven to 350°F. Lightly spray a 9-inch pie plate with vegetable oil.
+Preheat the oven to 350°F. Lightly spray a 9-inch pie plate with vegetable oil.
 
 ### Step 2
 
@@ -71,11 +71,12 @@ nudged, about 10 minutes.
 
 Cool the pie on a rack for 30 minutes. Place in the refrigerator until set, at least 1 hour and up to 3 days.
 
+## :pencil: Instructions - Whipped Cream
+
 ### Step 6
 
-Just before serving, make the whipped cream topping: In a medium bowl, with a handheld electric mixer, beat the heavy
-cream, sugar, and vanilla on high speed until fluffy and the cream holds a soft peak when you pull the beater out of
-the bowl.
+In a medium bowl, with a handheld electric mixer, beat the heavy cream, sugar, and vanilla on high speed until fluffy
+and the cream holds a soft peak when you pull the beater out of the bowl.
 
 ### Step 7
 
