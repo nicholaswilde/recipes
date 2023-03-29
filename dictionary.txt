@@ -658,3 +658,5 @@ lebanese
 purée
 Sauté
 replacer
+frico
+Frico
