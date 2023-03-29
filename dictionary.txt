@@ -660,3 +660,4 @@ Sauté
 replacer
 frico
 Frico
+Chorizo
