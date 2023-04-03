@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - stew
 ---
-# Eggplant Stew
+# :eggplant: Eggplant Stew
 
 ![Eggplant Stew](../assets/images/eggplant-stew.jpg){ loading=lazy }
 
@@ -11,19 +13,19 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 eggplant
-- 6 Tbsp olive oil
-- 1 red onion
-- 1 red or yellow bell pepper
-- 2 tsp paprika
-- 2 cloves garlic
-- 2 Tbsp tomato paste
-- 5 plum tomatoes
-- 1 15-oz can chickpeas
-- 1 tsp salt
-- 1 tsp pepper
-- 0.25 cup chopped parsley
-- some quinoa
+- :eggplant: 1 eggplant
+- :olive: 6 Tbsp olive oil
+- :onion: 1 red onion
+- :bell_pepper: 1 red or yellow bell pepper
+- :bell_pepper: 2 tsp paprika
+- :garlic: 2 cloves garlic
+- :tomato: 2 Tbsp tomato paste
+- :tomato: 5 plum tomatoes
+- :falafel: 1 15-oz can chickpeas
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :herb: 0.25 cup chopped parsley
+- :ear_of_rice: some quinoa
 
 ## :cooking: Cookware
 
