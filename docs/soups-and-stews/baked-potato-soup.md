@@ -17,7 +17,7 @@ tags:
 - :onion: 1 large yellow onion
 - :garlic: 10 cloves garlic (whole, crushed, or minced)
 - :salt: 1 Tbsp seasoned salt or all-purpose seasoning
-- :stew: 8 cups v[egetable stock][1]
+- :stew: 8 cups [vegetable stock][1]
 - :cheese_wedge: 16 oz cream cheese
 - :cheese_wedge: some shredded cheese (optional)
 - :seedling: some green onions (optional)
