@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - soup
 ---
-# Lemony Lentil Soup
+# :lemon: Lemony Lentil Soup
 
 ![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.jpg){ loading=lazy }
 
@@ -11,20 +13,20 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 medium onion
-- 2 medium carrots
-- 5 cloves garlic
-- 6 cups vegetable stock
-- 1.5 cups red lentils
-- 0.67 cup corn
-- 2 tsp cumin
-- 1 tsp curry
-- 1 pinch saffron
-- 1 pinch cayenne
-- some salt
-- some pepper
-- 1 lemon zest and juice
+- :olive: 1 Tbsp olive oil
+- :onion: 1 medium onion
+- :carrot: 2 medium carrots
+- :garlic: 5 cloves garlic
+- :stew: 6 cups vegetable stock
+- :ear_of_rice: 1.5 cups red lentils
+- :corn: 0.67 cup corn
+- :herb: 2 tsp cumin
+- :curry: 1 tsp curry
+- :tulip: 1 pinch saffron
+- :bell_pepper: 1 pinch cayenne
+- :salt: some salt
+- :salt: some pepper
+- :lemon: 1 lemon zest and juice
 
 ## :cooking: Cookware
 
