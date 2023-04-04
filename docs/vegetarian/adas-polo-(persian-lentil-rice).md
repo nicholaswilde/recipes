@@ -5,7 +5,7 @@ tags:
   - persian
   - rice
 ---
-# Adas Polo (Persian Lentil Rice)
+# :rice: Adas Polo (Persian Lentil Rice)
 
 ![Adas Polo (Persian Lentil Rice)](../assets/images/adas-polo-(persian-lentil-rice).jpg){ loading=lazy }
 
