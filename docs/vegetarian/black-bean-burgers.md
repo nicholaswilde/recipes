@@ -91,9 +91,10 @@ desired. Place patties on bottom buns, close burgers, and serve immediately.
 
     [Chipotle mayonnaise][3] works well as a condiment.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.seriouseats.com/the-best-black-bean-burger-recipe>
+- <https://www.youtube.com/watch?v=BMgLRD2v5w0>
 
 [1]: <../assets/images/black-bean-burgers.jpg>
 [2]: <../sauces-and-dressings/mayonnaise.md>
