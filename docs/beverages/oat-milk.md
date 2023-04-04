@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 1 cup quick or rolled oats
-- :droplet 3-4 cups water
+- :droplet: 3-4 cups water
 - :maple_leaf: 2 Tbsp maple syrup
 
 ## :cooking: Cookware
