@@ -4,7 +4,7 @@ tags:
   - vegetarian
   - main
 ---
-# Game Changers Oat & Lentil Meatloaf
+# :bread: Game Changers Oat & Lentil Meatloaf
 
 ![Game Changers Oat & Lentil Meatloaf](../assets/images/game-changers-oat-and-lentil-meatloaf.jpg){ loading=lazy }
 
