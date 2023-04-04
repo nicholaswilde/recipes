@@ -5,7 +5,7 @@ tags:
   - stir-fry
   - vegetarian
 ---
-# Everyday Chinese Vegetable Stir-Fry
+# :rice: Everyday Chinese Vegetable Stir-Fry
 
 ![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg){ loading=lazy }
 
@@ -23,12 +23,12 @@ tags:
 - :seedling: 0.25 tsp sesame oil
 - :salt: 1 pinch white pepper
 - :oil_drum: 2 Tbsp vegetable oil
-- :sweet_popato: 4 slices ginger
+- :sweet_potato: 4 slices ginger
 - :mushroom: 1 cup sliced mushrooms
 - :carrot: 1 cup carrot
 - :leafy_green: 1 cup celery
 - :leafy_green: 1 cup asparagus
-- :green_pepper: 1 cup bell pepper
+- :bell_pepper: 1 cup bell pepper
 - :hot_pepper: 1 cup long hot pepper
 - :garlic: 3 cloves garlic
 - :corn: 2 tsp cornstarch
