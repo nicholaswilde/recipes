@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - vegetarian
 ---
-# Veggie Cassola
+# :eggplant: Veggie Cassola
 
 ![Veggie Cassola](../assets/images/veggie-cassola.jpg){ loading=lazy }
 
