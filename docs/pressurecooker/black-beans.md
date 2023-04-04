@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :canned_food: 227 g dried black beans
-- :icecube: 3 cups cold water
+- :ice_cube: 3 cups cold water
 - :salt: 1.5 tsp kosher salt
 
 ## :cooking: Cookware
