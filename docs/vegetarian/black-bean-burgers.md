@@ -22,7 +22,7 @@ tags:
 - :hot_pepper: 1 chipotle chile in adobo sauce
 - :chestnut: 0.75 cup roasted cashews
 - :cheese_wedge: 0.5 cup feta or cotija cheese
-- :bread; 0.75 cup panko bread crumbs
+- :bread: 0.75 cup panko bread crumbs
 - :egg: 1 large egg
 - :egg: 2 Tbsp [mayonnaise][2]
 - :salt: some salt
