@@ -3,6 +3,7 @@ comments: true
 tags:
   - cookie
   - dessert
+  - favorite
 ---
 # :cookie: White Chocolate Cranberry Cookies
 
