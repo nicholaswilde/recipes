@@ -4,6 +4,7 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
+  - favorite
 ---
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 
