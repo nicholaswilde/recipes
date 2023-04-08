@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - stew
+  - slow-cooker
 ---
-# Slow Cooker Vegan African Peanut Stew
+# :peanut: Slow Cooker Vegan African Peanut Stew
 
 ![Slow Cooker Vegan African Peanut Stew](../assets/images/slow-cooker-vegan-african-peanut-stew.png){ loading=lazy }
 
@@ -11,19 +14,19 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 15-oz can chickpeas (drained)
-- 4 cups vegetable broth
-- 0.5 tsp salt
-- 1 tsp cumin
-- 0.5 tsp coriander
-- 0.25 tsp cayenne
-- 1 15-oz can diced tomatoes
-- 0.5 cup peanut butter
-- 5 cups sweet potatoes, cut into 2" cubes
-- 1 onion, diced
-- 4 cloves garlic, minced
-- 1 inch ginger, grated
-- 4 handfuls spinach
+- :falafel: 1 15-oz can [chickpeas][1] (drained)
+- :stew: 4 cups [vegetable broth][2]
+- :salt: 0.5 tsp salt
+- :herb: 1 tsp cumin
+- :herb: 0.5 tsp coriander
+- :hot_pepper: 0.25 tsp cayenne
+- :tomato: 1 15-oz can diced tomatoes
+- :peanuts: 0.5 cup peanut butter
+- :sweet_potato: 5 cups sweet potatoes, cut into 2" cubes
+- :onion: 1 onion, diced
+- :garlic: 4 cloves garlic, minced
+- :sweet_potato: 1 inch ginger, grated
+- :leafy_green: 4 handfuls spinach
 
 ## :cooking: Cookware
 
@@ -34,8 +37,8 @@ comments: true
 
 ### Step 1
 
-Put chickpeas (drained), vegetable broth, salt, cumin, coriander, cayenne, diced tomatoes, peanut butter, sweet
-potatoes, cut into 2" cubes, onion, diced, garlic, minced, and ginger, grated in slow cooker.
+Put [chickpeas][1] (drained), [vegetable broth][2], salt, cumin, coriander, cayenne, diced tomatoes, peanut butter,
+sweet potatoes, cut into 2" cubes, onion, diced, garlic, minced, and ginger, grated in slow cooker.
 
 ### Step 2
 
@@ -48,3 +51,6 @@ Stir in spinach just before serving and cook 15 minutes more.
 ### Step 4
 
 Use immersion blender to thicken to taste. Serves 6.
+
+[1]: <../pressurecooker/chickpeas.md>
+[2]: <../ingredients/vegetable-broth.md>
