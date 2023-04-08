@@ -665,3 +665,5 @@ rerolled
 recrisp
 scottish
 kenji-lopez-alt
+taquito
+Taquitos
