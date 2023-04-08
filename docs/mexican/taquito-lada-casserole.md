@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :taco: 1 pkg taquitos
+- :taco: 1 pkg [taquitos][2]
 - :taco: 1 jar [enchilada sauce][1]
 - :cheese_wedge: 1.5 cups cheese
 - :olive: 0.5 can sliced black olives
@@ -30,8 +30,8 @@ tags:
 
 ### Step 1
 
-Preheat oven to 425°F. Arrange taquitos in a single layer in a 7-inch by 10-inch baking dish and cover evenly with
-enchilada sauce. Top with 1-1/2 cups cheese, followed by sliced black olives and fire roasted green chiles.
+Preheat oven to 425°F. Arrange [taquitos][2] in a single layer in a 7-inch by 10-inch baking dish and cover evenly with
+[enchilada sauce][1]. Top with 1-1/2 cups cheese, followed by sliced black olives and fire roasted green chiles.
 
 ### Step 2
 
@@ -43,3 +43,4 @@ from oven and garnish with remaining cheese and green onions. Allow to cool slig
 - <https://www.traderjoes.com/home/recipes/taquito-lada-casserole>
 
 [1]: <../sauces-and-dressings/enchilada-sauce.md>
+[2]: <./baked-black-bean-taquitos.md>
