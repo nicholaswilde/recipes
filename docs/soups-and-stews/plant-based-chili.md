@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - chili
 ---
-# Plant-Based Chili
+# :canned_food: Plant-Based Chili
 
 ![Plant-Based Chili](../assets/images/plant-based-chili.jpg){ loading=lazy }
 
@@ -11,21 +13,21 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 Tbsp vegetable oil
-- 2 onions
-- 2 red bell peppers
-- 4 cloves garlic
-- 1 Tbsp chili powder
-- 2 tsp cumin
-- 1 tsp chipotle in adobe sauce
-- 0.5 tsp oregano
-- 0.5 tsp salt
-- 0.25 tsp pepper
-- 12 oz plant-based ground meat
-- 1 15-oz can kidney beans
-- 1 28-oz can tomatoes
-- 1 15-oz can tomato sauce
-- 1 cup water
+- :oil_drum: 2 Tbsp vegetable oil
+- :onion: 2 onions
+- :bell_pepper: 2 red bell peppers
+- :garlic: 4 cloves garlic
+- :hot_pepper: 1 Tbsp chili powder
+- :herb: 2 tsp cumin
+- :hot_pepper: 1 tsp chipotle in adobe sauce
+- :herb: 0.5 tsp oregano
+- :salt: 0.5 tsp salt
+- :salt: 0.25 tsp pepper
+- :cut_of_meat: 12 oz plant-based ground meat
+- :canned_food: 1 15-oz can kidney beans
+- :tomato: 1 28-oz can tomatoes
+- :tomato: 1 15-oz can tomato sauce
+- :droplet: 1 cup water
 
 ## :cooking: Cookware
 
@@ -54,6 +56,7 @@ salt and pepper to taste, and serve.
 ### Add Extra Liquid
 
 !!! note
+
     Although you may see a little moisture or fat left in the pan when you're cooking plant-based ground meat, it tends to
     release a smaller amount of liquid than animal meat does when cooked. In our chili recipe, we compensate for this by
     adding a cup of water to achieve the ideal consistency.
