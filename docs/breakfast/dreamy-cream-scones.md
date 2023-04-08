@@ -19,7 +19,7 @@ tags:
 - :dash: 1 Tbsp baking powder
 - :candy: 3 Tbsp granulated sugar
 - :salt: 0.5 tsp salt
-- :butter: 5 Tbsp unsalted butter
+- :butter: 5 Tbsp cold unsalted butter
 - :cherries: 80 g currants or dried cranberries
 - :icecream: 1 cup heavy cream
 
@@ -45,10 +45,10 @@ with steel blade. Whisk together or pulse six times.
 
 ### Step 3
 
-If making by hand, use two knives, a pastry blender or your fingertips and quickly cut in unsalted butter until mixture
-resembles coarse meal, with a few slightly larger butter lumps. Stir in currants or dried cranberries. If using food
-processor, remove cover and distribute butter evenly over dry ingredients. Cover and pulse 12 times, each pulse lasting
-1 second. Add currants and pulse one more time. Transfer dough to large bowl.
+If making by hand, use two knives, a pastry blender or your fingertips and quickly cut in cold unsalted butter until
+mixture resembles coarse meal, with a few slightly larger butter lumps. Stir in currants or dried cranberries. If using
+food processor, remove cover and distribute butter evenly over dry ingredients. Cover and pulse 12 times, each pulse
+lasting 1 second. Add currants and pulse one more time. Transfer dough to large bowl.
 
 ### Step 4
 
