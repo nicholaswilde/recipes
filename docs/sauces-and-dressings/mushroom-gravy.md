@@ -47,15 +47,15 @@ Add the garlic, thyme, sage, and rosemary, and cook for 1 minute more.
 
 Add the dry white wine and cook until the wine is reduced by half, about 3 minutes.
 
+!!!tip
+
+    If using lemon juice instead of white wine, you do not need to reduce the sauce.
+
 ### Step 4
-
-Tip: If using lemon juice instead of white wine, you do not need to reduce the sauce.
-
-### Step 5
 
 Make a purée from steamed cauliflower florets.
 
-### Step 6
+### Step 5
 
 Add the cauliflower purée, vegetable broth, sea salt, black pepper, and nutritional yeast.
 
