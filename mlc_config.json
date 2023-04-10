@@ -23,6 +23,9 @@
       },
       {
         "pattern": "^https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer/"
+      },
+      {
+        "pattern": "^https://cooktoria.com/baked-black-bean-taquitos/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429]
