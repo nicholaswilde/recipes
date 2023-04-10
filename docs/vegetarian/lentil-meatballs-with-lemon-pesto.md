@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Lentil Meatballs with Lemon Pesto
+# :lemon: Lentil Meatballs with Lemon Pesto
 
 ![Lentil Meatballs with Lemon Pesto](../assets/images/lentil-meatballs-with-lemon-pesto.jpg){ loading=lazy }
 
@@ -11,26 +11,26 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 cups lentils
-- 2 eggs
-- 0.75 cup Ricotta
-- 0.25 cup Parmesan
-- 1 clove garlic
-- 0.5 tsp fennel seed
-- 2 Tbsp parsley
-- 1 pinch thyme
-- 1 tsp salt
-- 1 tsp pepper
-- 0.67 cup panko breadcrumbs
-- 1 clove garlic
-- 0.25 cup pine nuts
-- 1 lemon zest
-- 1 lemon juice
-- 0.5 tsp salt
-- 1 cup basil
-- 0.33 cup olive oil
-- 2 Tbsp water
-- 2 Tbsp Parmesan
+- :curry: 2 cups lentils
+- :egg: 2 eggs
+- :cheese_wedge: 0.75 cup Ricotta
+- :cheese_wedge: 0.25 cup Parmesan
+- :garlic: 1 clove garlic
+- :seedling: 0.5 tsp fennel seed
+- :herb: 2 Tbsp parsley
+- :herb: 1 pinch thyme
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :bread: 0.67 cup panko breadcrumbs
+- :garlic: 1 clove garlic
+- :chestnut: 0.25 cup pine nuts
+- :lemon: 1 lemon zest
+- :lemon: 1 lemon juice
+- :salt: 0.5 tsp salt
+- :herb: 1 cup basil
+- :olive: 0.33 cup olive oil
+- :droplet: 2 Tbsp water
+- :cheese_wedge: 2 Tbsp Parmesan
 
 ## :cooking: Cookware
 
