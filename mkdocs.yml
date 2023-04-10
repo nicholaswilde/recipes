@@ -885,6 +885,7 @@ nav:
       - Pressure Cooker: reference/pressure-cooker.md
       - Seasons: reference/seasons.md
       - Temperatures: reference/temperatures.md
+      - Tips: reference/tips.md
       - Development: reference/development.md
   - Cooklang Files: "https://github.com/nicholaswilde/recipes/tree/main/cook"
   - Tags: tags.md
