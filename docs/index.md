@@ -27,6 +27,12 @@ own personal reference.
 
 !!! info
 
+    Myself being a [lacto-ovo vegetarian][6], will ofetn convert the original recipes to fit my diet. Recipes that
+    have been passed down through the family keep the original intact or at least list a vegetarian
+    alternative.
+
+!!! info
+
     Recipes, when applicable, have the original source specified to give them credit.
 
 !!! info
@@ -75,3 +81,4 @@ Development of this site is documented [here][3].
 [3]: <./reference/development.md>
 [4]: <https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough>
 [5]: <https://giscus.app/>
+[6]: <https://en.wikipedia.org/wiki/Lacto-ovo_vegetarianism>
