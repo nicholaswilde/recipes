@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+    - vegetarian
 ---
-# Meat-Free Meat Loaf
+# :bread: Meat-Free Meat Loaf
 
 ![Meat-Free Meat Loaf](../assets/images/meat-free-meat-loaf.jpg){ loading=lazy }
 
@@ -11,18 +13,18 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 small onion
-- 1 small carrot
-- 0.5 cup ground walnuts
-- 1 cup bread crumbs
-- 1 cup brown lentils
-- 0.25 cup soft tofu
-- 2 Tbsp [tahini][1]
-- 1 Tbsp soy sauce
-- 1 Tbsp parsley
-- 1 pkg TJ's soy meat
-- some salt
-- some pepper
+- :onion: 1 small onion
+- :carrot: 1 small carrot
+- :chestnut: 0.5 cup ground walnuts
+- :bread: 1 cup bread crumbs
+- :curry: 1 cup brown lentils
+- :custard: 0.25 cup soft tofu
+- :seedling: 2 Tbsp [tahini][1]
+- :takeout_box: 1 Tbsp soy sauce
+- :herb: 1 Tbsp parsley
+- :cut_of_meat: 1 pkg TJ's soy meat
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
