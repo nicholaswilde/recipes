@@ -7,7 +7,7 @@ For instance, chilling or aging cookie dough overnight to hydrate the dry ingred
 
 ### :onion: Onions
 
-Onions should be sautéed first to carmelize them and bring out the sweetness, about 5 minutes.
+Onions should be sautéed first to caramelize them and bring out the sweetness, about 5 minutes.
 
 ### :garlic: Garlic
 
