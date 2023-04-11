@@ -4,5 +4,12 @@
     "ghcr.io/eitsupi/devcontainer-features/go-task:1": {},
     "ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {},
     "ghcr.io/devcontainers-contrib/features/pre-commit:2": {}
-  }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"RohitRajendran.cookcli-scripts"
+		]
+	}
+}
 }
