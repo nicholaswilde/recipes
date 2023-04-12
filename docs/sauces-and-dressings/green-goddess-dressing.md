@@ -14,16 +14,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 Tbsp shallots
-- 0.5 cup mayonnaise
-- 1 cup Greek yogurt
-- 1 oz fresh basil
-- 2 Tbsp [basil pesto][2]
-- 0.25 cup white wine vinegar
-- 4 tsp agave syrup
-- 1 tsp Dijon mustard
-- some salt
-- some pepper
+- :onion: 2 Tbsp shallots
+- :egg: 0.5 cup [mayonnaise][3]
+- :microbe: 1 cup Greek yogurt
+- :herb: 1 oz fresh basil
+- :seedling: 2 Tbsp [basil pesto][2]
+- :sake: 0.25 cup white wine vinegar
+- :cactus: 4 tsp agave syrup
+- :hotdog: 1 tsp Dijon mustard
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
@@ -53,3 +53,4 @@ Transfer to a dressing container, cover, and refrigerate.
 
 [1]: <../assets/images/green-goddess-dressing.jpg>
 [2]: <./pesto/basic-pesto.md>
+[3]: <./mayonnaise.md>
