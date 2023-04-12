@@ -9,7 +9,8 @@
 "customizations": {
 	"vscode": {
 		"extensions": [
-			"RohitRajendran.cookcli-scripts"
+			"RohitRajendran.cookcli-scripts",
+			"dubadub.cook"
 		]
 	}
 }
