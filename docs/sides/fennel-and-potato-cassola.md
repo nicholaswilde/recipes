@@ -4,7 +4,7 @@ tags:
   - side
   - the-blue-zones-kitchen
 ---
-# :leafy_green: Fennel and Potato Cassola
+# :leafy_green: Fennel & Potato Cassola
 
 ![Fennel and Potato Cassola][1]{ loading=lazy }
 

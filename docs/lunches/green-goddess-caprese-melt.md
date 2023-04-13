@@ -4,7 +4,7 @@ tags:
   - lunch
   - panera
 ---
-# Green Goddess Caprese Melt
+# :baguette_bread: Green Goddess Caprese Melt
 
 ![Green Goddess Caprese Melt][1]{ loading=lazy }
 
@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :baguette: 1 french baguette
+- :baguette_bread: 1 french baguette
 - :green_salad: 1 [Green Goddess dressing][2]
 - :tomato: some tomatoes
 - :cheese_wedge: some mozzarella
@@ -23,8 +23,6 @@ tags:
 - :herb: some fresh basil
 - :leafy_green: some arugula
 - :garlic: some [garlic aioli][3]
-
-## :cooking: Cookware
 
 ## :pencil: Instructions
 

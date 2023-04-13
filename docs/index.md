@@ -27,9 +27,9 @@ own personal reference.
 
 !!! info
 
-    Myself being a [lacto-ovo vegetarian][6], will ofetn convert the original recipes to fit my diet. Recipes that
-    have been passed down through the family keep the original intact or at least list a vegetarian
-    alternative.
+    Myself being a [lacto-ovo vegetarian][6], will often convert the original recipes to fit my diet. Recipes that
+    have been passed down through the original ingredients are kept to use the original ingredients or at least
+    list a vegetarian alternative.
 
 !!! info
 

@@ -3,6 +3,7 @@ comments: true
 tags:
   - main
   - vegan
+  - favorite
 ---
 # :hamburger: Vegan Salisbury Steak
 
