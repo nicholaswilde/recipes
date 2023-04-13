@@ -4,7 +4,9 @@
     	"ghcr.io/eitsupi/devcontainer-features/go-task:1": {},
     	"ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {},
     	"ghcr.io/devcontainers-contrib/features/pre-commit:2": {},
-	"ghcr.io/devcontainers-contrib/features/homebrew-package:1": {}
+	"ghcr.io/devcontainers-contrib/features/homebrew-package:1": {
+		"package": "nicholaswilde/tap/cook-docs"
+	}
 },
 "customizations": {
 	"vscode": {
