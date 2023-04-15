@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - vegetarian
+  - burgers
 ---
-# Mushroom Rice Burgers
+# :hamburger: Mushroom Rice Burgers
 
 ![Mushroom Rice Burgers](../assets/images/mushroom-rice-burgers.jpg){ loading=lazy }
 
@@ -11,16 +14,16 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 medium onion
-- 2 cloves garlic
-- 8 oz white mushrooms
-- 1 cup brown rice
-- 0.5 cup quick oats
-- 0.75 cup cheddar cheese
-- 1 egg
-- some salt
-- some pepper
-- 3 Tbsp bread crumbs
+- :onion: 1 medium onion
+- :garlic: 2 cloves garlic
+- :mushroom: 8 oz white mushrooms
+- :rice: 1 cup brown rice
+- :ear_of_rice: 0.5 cup quick oats
+- :cheese_wedge: 0.75 cup cheddar cheese
+- :egg: 1 egg
+- :salt: some salt
+- :salt: some pepper
+- :bread: 3 Tbsp bread crumbs
 
 ## :cooking: Cookware
 
