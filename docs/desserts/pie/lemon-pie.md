@@ -4,6 +4,7 @@ tags:
   - pie
   - dessert
   - magnolia
+  - favorite
 ---
 # :pie: Lemon Pie
 
