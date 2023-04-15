@@ -15,13 +15,13 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups sugar
-- 2 cups [peanut butter][1]
-- 2 cups sugar
-- 2 large eggs
-- 2 tsp baking soda
-- 2 tsp bourbon vanilla
-- 16 TJ's Dark Chocolate Peanut Butter Cups
+- :candy: 2 cups sugar
+- :peanuts: 2 cups [peanut butter][1]
+- :candy: 2 cups sugar
+- :egg: 2 large eggs
+- :cup_with_straw: 2 tsp baking soda
+- :icecream: 2 tsp bourbon vanilla
+- :chocolate_bar: 16 TJ's Dark Chocolate Peanut Butter Cups
 
 ## :cooking: Cookware
 
