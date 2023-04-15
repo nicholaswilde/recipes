@@ -3,7 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
-# Decadent Chocolate Overnight Oats
+# :chocolate_bar: Decadent Chocolate Overnight Oats
 
 ![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg){ loading=lazy }
 
@@ -13,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.75 cup almond milk
-- 2 Tbsp almond butter
-- 1 Tbsp maple syrup
-- 2 tsp chia seeds
-- 0.5 tsp vanilla
-- 0.5 cup oats
-- 2 Tbsp cocoa powder
-- 1 pinch salt
+- :glass_of_milk: 0.75 cup almond milk
+- :butter: 2 Tbsp almond butter
+- :maple_leaf: 1 Tbsp maple syrup
+- :seedling: 2 tsp chia seeds
+- :icecream: 0.5 tsp vanilla
+- :ear_of_rice: 0.5 cup oats
+- :chocolate_bar: 2 Tbsp cocoa powder
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
