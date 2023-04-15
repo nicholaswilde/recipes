@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- some [Jose Guevara's gallo pinto][1]
+- :rice: some [Jose Guevara's gallo pinto][1]
 - :leafy_green: some [hearts of palm ceviche][2]
 - :banana: some [fried green plantains][3]
 - :hot_pepper: some [chilero hot sauce][4]
