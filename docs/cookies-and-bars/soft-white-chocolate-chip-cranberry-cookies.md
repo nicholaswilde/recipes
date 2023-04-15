@@ -21,7 +21,7 @@ tags:
 - :icecream: 2 tsp vanilla
 - :ear_of_rice: 250 g all-purpose flour
 - :corn: 2 tsp cornstarch
-- :glass_with_straw: 1 tsp baking soda
+- :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :chocolate_bar: 135 g white chocolate chips
 - :cherries: 140 g dried cranberries
