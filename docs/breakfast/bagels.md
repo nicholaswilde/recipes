@@ -3,7 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
-# Bagels
+# :bagel: Bagels
 
 ![Bagels](../assets/images/bagels.jpg){ loading=lazy }
 
@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.66 cups (319 g) bread flour
-- 4 tsp vital wheat gluten
-- 2 tsp instant yeast
-- 9 oz ice water
-- 2 Tbsp malt syrup
-- 2 tsp salt
-- 0.25 cup (39 g) cornmeal
-- 0.25 cup (50 g) sugar
-- 1 Tbsp baking soda
+- :ear_of_rice: 2.66 cups (319 g) bread flour
+- :microbe: 4 tsp vital wheat gluten
+- :microbe: 2 tsp instant yeast
+- :ice_cube: 9 oz ice water
+- :maple_leaf: 2 Tbsp malt syrup
+- :salt: 2 tsp salt
+- :corn: 0.25 cup (39 g) cornmeal
+- :candy: 0.25 cup (50 g) sugar
+- :cup_with_straw: 1 Tbsp baking soda
 
 ## :cooking: Cookware
 
