@@ -3,7 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
-# Apple Pie Overnight Oats
+# :green_apple: Apple Pie Overnight Oats
 
 ![Apple Pie Overnight Oats](../assets/images/apple-pie-overnight-oats.jpg){ loading=lazy }
 
@@ -13,16 +13,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.75 cup chopped apples
-- 0.75 tsp cinnamon
-- 2 Tbsp maple syrup
-- 1 pinch salt
-- 0.75 cup almond milk
-- 1 Tbsp chia seeds
-- 0.5 tsp cinnamon
-- 2 Tbsp cashew or almond butter
-- 1 tsp vanilla
-- 0.5 cup rolled oats
+- :green_apple: 0.75 cup chopped apples
+- :custard: 0.75 tsp cinnamon
+- :maple_leaf: 2 Tbsp maple syrup
+- :salt: 1 pinch salt
+- :glass_of_milk: 0.75 cup almond milk
+- :seedling: 1 Tbsp chia seeds
+- :custard: 0.5 tsp cinnamon
+- :butter: 2 Tbsp cashew or almond butter
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 0.5 cup rolled oats
 
 ## :cooking: Cookware
 
