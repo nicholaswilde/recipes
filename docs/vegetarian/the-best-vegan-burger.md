@@ -1,7 +1,10 @@
 ---
 comments: true
+tags:
+  - jaime-oliver
+  - vegetarian
 ---
-# The Best Vegan Burger
+# :hamburger: The Best Vegan Burger
 
 ![The Best Vegan Burger](../assets/images/the-best-vegan-burger.jpg){ loading=lazy }
 
@@ -11,19 +14,19 @@ comments: true
 
 ## :salt: Ingredients
 
-- 400 g chickpeas
-- 340 g sweetcorn
-- 0.5 tsp coriander
-- 0.5 tsp paprika
-- 0.5 tsp cumin
-- 3 Tbsp flour
-- 1 pinch sea salt
-- 1 lemon zest
-- some rapeseed oil
-- 1 small lettuce
-- 2 large tomatoes
-- some ketchup
-- 4 burger buns
+- :falafel: 400 g chickpeas
+- :corn: 340 g sweetcorn
+- :herb: 0.5 tsp coriander
+- :hot_pepper: 0.5 tsp paprika
+- :herb: 0.5 tsp cumin
+- :ear_of_rice: 3 Tbsp flour
+- :salt: 1 pinch sea salt
+- :lemon: 1 lemon zest
+- :oil_drum: some rapeseed oil
+- :leafy_green: 1 small lettuce
+- :tomato: 2 large tomatoes
+- :tomato: some ketchup
+- :hamburger: 4 burger buns
 
 ## :cooking: Cookware
 
