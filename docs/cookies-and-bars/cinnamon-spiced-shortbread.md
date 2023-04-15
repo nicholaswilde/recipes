@@ -15,20 +15,20 @@ tags:
 
 ## :salt: Ingredients - Shortbread
 
-- 1.5 cups unsalted butter
-- 200 g granulated sugar
-- 1 Tbsp warm water
-- 1 tsp vanilla
-- 420 g all-purpose flour
-- 2 tsp cinnamon
-- 1 tsp salt
+- :butter: 1.5 cups unsalted butter
+- :candy: 200 g granulated sugar
+- :hotsprings: 1 Tbsp warm water
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 420 g all-purpose flour
+- :custard: 2 tsp cinnamon
+- :salt: 1 tsp salt
 
 ## :salt: Ingredients - Sugar Coating
 
-- 100 g granulated sugar
-- 0.5 tsp cinnamon
-- 0.5 tsp nutmeg
-- 0.25 tsp cloves
+- :candy: 100 g granulated sugar
+- :custard: 0.5 tsp cinnamon
+- :chestnut: 0.5 tsp nutmeg
+- :four_leaf_clover: 0.25 tsp cloves
 
 ## :cooking: Cookware
 
