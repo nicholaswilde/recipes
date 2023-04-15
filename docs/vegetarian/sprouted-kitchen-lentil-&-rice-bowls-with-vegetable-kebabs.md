@@ -1,7 +1,9 @@
 ---
 comments: true
+tags:
+  - vegetarian
 ---
-# Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
+# :rice: Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -9,30 +11,30 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 cloves garlic
-- 2 roasted red bell peppers
-- 0.75 cup walnuts
-- 1 Tbsp honey
-- 1 tsp salt
-- 1 tsp pepper
-- 1.5 tsp paprika
-- 1 tsp cumin
-- 3 Tbsp olive oil
-- 0.75 cup lentils
-- 1 pkg TJ's frozen brown rice
-- 3 cups spinach
-- 0.5 lb potatoes
-- 2 Tbsp butter
-- 2 Tbsp olive oil
-- 2 yellow onions
-- some olive oil
-- 2 tsp garlic powder
-- 1 pinch cayenne
-- 0.5 lb potatoes
-- 1 small eggplant
-- 0.5 red onion
-- 2 bell peppers
-- 0.5 cup feta
+- :garlic: 2 cloves garlic
+- :bell_pepper: 2 roasted red bell peppers
+- :chestnu: 0.75 cup walnuts
+- :honey_pot: 1 Tbsp honey
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :bell_pepper: 1.5 tsp paprika
+- :herb: 1 tsp cumin
+- :olive: 3 Tbsp olive oil
+- :curry: 0.75 cup lentils
+- :rice: 1 pkg TJ's frozen brown rice
+- :leafy_green: 3 cups spinach
+- :potato: 0.5 lb potatoes
+- :butter: 2 Tbsp butter
+- :olive: 2 Tbsp olive oil
+- :onion: 2 yellow onions
+- :olive: some olive oil
+- :garlic: 2 tsp garlic powder
+- :hot_pepper: 1 pinch cayenne
+- :potato: 0.5 lb potatoes
+- :eggplant: 1 small eggplant
+- :onion: 0.5 red onion
+- :bell_pepper: 2 bell peppers
+- :cheese_wedge: 0.5 cup feta
 
 ## :cooking: Cookware
 
