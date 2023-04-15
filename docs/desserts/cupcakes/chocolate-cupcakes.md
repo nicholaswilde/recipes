@@ -20,7 +20,7 @@ tags:
 - :chocolate_bar: 0.5 cup cocoa powder
 - :butter: 0.25 cup unsalted butter
 - :candy: 1 cup granulated sugar
-- :chocoalte_bar: 2 oz semisweet chocolate
+- :chocolate_bar: 2 oz semisweet chocolate
 - :egg: 2 large eggs
 - :egg: 2 large egg yolks
 - :oil_drum: 9 Tbsp vegetable oil
