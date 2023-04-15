@@ -15,7 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- 7 g Gelatin (optional)
+- :egg: some [crème pâtissière][1]
+- :egg: some [italian meringue][2]
+- :custard: 7 g Gelatin (optional)
 
 ## :cooking: Cookware
 
