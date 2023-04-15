@@ -1,7 +1,11 @@
 ---
 comments: true
+tags:
+  - favorite
+  - gordon-ramsay
+  - side
 ---
-# Honey Glazed Carrots and Parsnips
+# :carrot: Honey Glazed Carrots & Parsnips
 
 ![Honey Glazed Carrots and Parsnips](../assets/images/honey-glazed-carrots-and-parsnips.jpg){ loading=lazy }
 
@@ -12,14 +16,14 @@ comments: true
 ## :salt: Ingredients
 
 - 500 g parsnips
-- 500 g carrots
-- 3 Tbsp olive oil
-- 2 sprigs thyme
-- 1 stick cinnamon
-- 3 star anise
-- 2 Tbsp clear honey
-- 1 splash water
-- some butter
+- :carrot: 500 g carrots
+- :olive: 3 Tbsp olive oil
+- :herb: 2 sprigs thyme
+- :custard: 1 stick cinnamon
+- :star: 3 star anise
+- :honey_pot: 2 Tbsp clear honey
+- :droplet: 1 splash water
+- :butter: some butter
 
 ## :cooking: Cookware
 
