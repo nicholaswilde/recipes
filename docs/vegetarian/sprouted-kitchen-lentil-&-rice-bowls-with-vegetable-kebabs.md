@@ -13,7 +13,7 @@ tags:
 
 - :garlic: 2 cloves garlic
 - :bell_pepper: 2 roasted red bell peppers
-- :chestnu: 0.75 cup walnuts
+- :chestnut: 0.75 cup walnuts
 - :honey_pot: 1 Tbsp honey
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
