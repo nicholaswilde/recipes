@@ -22,7 +22,7 @@ tags:
 - :candy: 0.33 cup sugar
 - :icecream: 1 tsp vanilla
 - :glass_of_milk: 1 cup whipping cream
-- :stawberry: some berries
+- :strawberry: some berries
 - :apple: 0.5 cup apple jam
 
 ## :cooking: Cookware
