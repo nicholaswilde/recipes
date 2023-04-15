@@ -63,10 +63,10 @@ cream cheese mixture to whipped cream; find to combine.
 Spoon filling into pie crust. Chill pie 3 to 6 hours or until cold. Serve the same day the pie is made. Drizzle with hot
 fudge sauce and sprinkle with crushed peppermint candies before serving.
 
-### Step 7
+!!! tip
 
-Tip: Gel food coloring is a much thicker product than liquid food coloring, and it provides more intense color. Use 1/8
-tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
+    Gel food coloring is a much thicker product than liquid food coloring, and it provides more intense color. Use 1/8
+    tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
 
 ## :link: Source
 
