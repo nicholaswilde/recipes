@@ -15,15 +15,15 @@ tags:
 ## :salt: Ingredients
 
 - some [Jose Guevara's gallo pinto][1]
-- some [hearts of palm ceviche][2]
-- some [fried green plantains][3]
-- some [chilero hot sauce][4]
-- some [nixtamal tortillas][5]
-- some corn (optional)
-- some sliced avocado (optional)
-- some chopped cilantro (optional)
-- some lettuce (optional)
-- some tomatoes (optional)
+- :leafy_green: some [hearts of palm ceviche][2]
+- :banana: some [fried green plantains][3]
+- :hot_pepper: some [chilero hot sauce][4]
+- :flatbread: some [nixtamal tortillas][5]
+- :corn: some corn (optional)
+- :avocado: some sliced avocado (optional)
+- :herb: some chopped cilantro (optional)
+- :leafy_green: some lettuce (optional)
+- :tomato: some tomatoes (optional)
 
 ## :pencil: Instructions
 
