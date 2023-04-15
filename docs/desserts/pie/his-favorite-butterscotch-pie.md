@@ -30,7 +30,7 @@ tags:
 
 ## :salt: Ingredients - Filling
 
-- :egge: 3 large egg yolks
+- :egg: 3 large egg yolks
 - :corn: 6 Tbsp cornstarch
 - :glass_of_milk: 1.75 cups half-and-half
 - :maple_leaf: 1.5 cups light brown sugar
