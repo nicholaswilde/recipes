@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- 500 g parsnips
+- :sweet_potato: 500 g parsnips
 - :carrot: 500 g carrots
 - :olive: 3 Tbsp olive oil
 - :herb: 2 sprigs thyme
