@@ -23,4 +23,13 @@ comments: true
 | 270-290                       | Soft-Crack Stage  | Saltwater taffy, butterscotch |
 | 300-310                       | Hard-Crack Stage  | Toffee, nut brittles, lollipops |
 
+## :chocolate_bar: [Tempering Chocolate][2]
+
+| :thermometer: Temperature | Dark                      | Milk                      | While & Dulcey            |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| Temp #1                   | 122°F (50°C)-131°F (55°C) | 113°F (45°C)-122°F (50°C) | 113°F (45°C)-122°F (50°C) |
+| Temp #2                   | 82°F (28°C)-84°F (29°C)   | 81°F (27°C)-82°F (28°C)   | 79°F (26°C)-81°F (27°C)   |
+| Temp #3                   | 88°F (31°C)-90°F (32°C)   | 84°F (29°C)-86°F (30°C)   | 82°F (28°C)-84°F (29°C)   |
+
 [1]: <https://www.exploratorium.edu/cooking/candy/sugar-stages.html>
+[2]: <https://www.valrhona.com/en/l-ecole-valrhona/discover-l-ecole-valrhona/chocolate-terminology/tempering-chocolate>
