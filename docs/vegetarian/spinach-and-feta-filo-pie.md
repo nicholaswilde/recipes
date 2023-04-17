@@ -2,7 +2,7 @@
 comments: true
 tags:
   - vegetarian
-  - jamie-olive
+  - jamie-oliver
   - favorite
 ---
 # :leafy_green: Spinach and Feta Filo Pie
