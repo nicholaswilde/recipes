@@ -7,7 +7,7 @@ tags:
 ---
 # :strawberry: French Fruit Tart
 
-![French Fruit Tart](../assets/images/french-fruit-tart.jpg){ loading=lazy }
+![French Fruit Tart](../../assets/images/french-fruit-tart.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -55,4 +55,4 @@ Heat 1/2 cup apple jam or apricot jam and brush over berries.
 
 Refrigerate at least 2 hours.
 
-[1]: <../ingredients/bisquick.md>
+[1]: <../../ingredients/bisquick.md>
