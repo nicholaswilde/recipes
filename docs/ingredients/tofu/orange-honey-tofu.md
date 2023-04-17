@@ -6,7 +6,7 @@ tags:
 ---
 # :orange_circle: Orange Honey Tofu
 
-![Orange Honey Tofu](../assets/images/orange-honey-tofu.jpg){ loading=lazy }
+![Orange Honey Tofu](../../assets/images/orange-honey-tofu.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -69,7 +69,7 @@ side of steamed broccoli or cauliflower if desired.
 
 - <https://www.noracooks.com/crispy-baked-orange-tofu/>
 
-[1]: <../ingredients/tofu/pan-fried-tofu.md>
-[2]: <../ingredients/tofu/air-fryer-tofu.md>
-[3]: <../ingredients/vegetable-broth.md>
-[4]: <../sauces-and-dressings/tahini.md>
+[1]: <./pan-fried-tofu.md>
+[2]: <./air-fryer-tofu.md>
+[3]: <../../ingredients/vegetable-broth.md>
+[4]: <../../sauces-and-dressings/tahini.md>
