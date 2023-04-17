@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Cranberry Curd Tart with Almond Crust
 
-![Cranberry Curd Tart with Almond Crust](../assets/images/cranberry-curd-tart-with-almond-crust.jpg){ loading=lazy }
+![Cranberry Curd Tart with Almond Crust][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -85,3 +85,5 @@ decorative border around edge of tart. Transfer any remaining whipped cream to s
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../../assets/images/cranberry-curd-tart-with-almond-crust.jpg>
