@@ -11,17 +11,30 @@ tags:
 |:-----------------------: |
 | 1.11 days |
 
-## :salt: Ingredients
+## :salt: Ingredients - Buns
 
 - :glass_of_milk: 0.25 cup milk
 - :microbe: 1 Tbsp yeast
 - :ear_of_rice: 2 Tbsp flour
-- :ear_of_rice: 1.5 cups flour
+- :ear_of_rice: 1.5 cups bread flour
 - :candy: 2 Tbsp confectioners' sugar
 - :salt: 0.25 tsp salt
 - :glass_of_milk: 2 Tbsp milk
 - :egg: 2 eggs
 - :butter: 6 Tbsp unsalted butter
+- :egg: 1 egg wash
+
+## :salt: Ingredients - Loaf
+
+- :glass_of_milk: 0.375 cup milk
+- :microbe: 1.5 Tbsp yeast
+- :ear_of_rice: 3 Tbsp bread flour
+- :ear_of_rice: 2.25 cups flour
+- :candy: 3 Tbsp confectioners' sugar
+- :salt: 0.375 tsp salt
+- :glass_of_milk: 3 Tbsp milk
+- :egg: 3 eggs
+- :butter: 9 Tbsp unsalted butter
 - :egg: 1 egg wash
 
 ## :cooking: Cookware
@@ -43,7 +56,7 @@ Prepare the yeast by adding milk and flour.
 
 ### Step 3
 
-In a separate bowl, add flour, confectioners' sugar, and salt.
+In a separate bowl, add bread flour, confectioners' sugar, and salt.
 
 ### Step 4
 
@@ -67,12 +80,13 @@ Chill 8 to 24 hours in refrigerator to slow fermentation and develop flavor.
 
 ### Step 9
 
-Roll and shape in log, cut into 6 pieces, roll and shape, press into brioche tins, cover with tea towel and rise at room
-temperature 90 minutes
+Roll and shape in log, cut into 6 pieces, roll and shape, press into brioche tins, cover with tea towel and rise at
+room temperature 90 minutes.
 
 ### Step 10
 
-Brush with egg wash and bake at 350°F for 25 minutes.
+For load, add 6 pieces to a single loaf pan. Brush with egg wash and bake at 350°F for 25 minutes. For loaf, try a
+little longer.
 
 ### Step 11
 
