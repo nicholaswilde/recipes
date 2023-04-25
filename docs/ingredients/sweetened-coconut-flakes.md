@@ -38,6 +38,12 @@ absorbed. Once the water is absorbed, remove the coconut from the heat.
 
 Add the coconut to your baking sheet lined with parchment paper and let it dry.
 
+!!! note
+
+    Instead of using sugar, you can use honey or maple syrup to naturally sweeten your coconut. To do so, use four
+    teaspoons of honey or maple syrup in place of sugar. Then, instead of using hot water, use just warm water instead
+    to mix all the ingredients together.
+
 ## :link: Source
 
 - <https://cakedecorist.com/how-to-sweeten-coconut-flakes/>
