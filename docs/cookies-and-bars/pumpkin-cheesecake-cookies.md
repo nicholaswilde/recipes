@@ -88,23 +88,23 @@ Place each prepared cookie dough ball on the lined baking sheet. Bake 6 cookies 
 baked, remove the cookies from the oven and let them cool for 10 minutes on the cookie sheet before transferring them to
 a wire rack to finish cooling completely.
 
-### Step 9
+!!! note
 
-Note: Properly creaming the butter and sugar is a crucial step to making great cookies with the perfect texture. Don’t
-just mix until combined. Mix the butter and sugar for at least two minutes until it’s pale and fluffy for the best
-results.
+    Properly creaming the butter and sugar is a crucial step to making great cookies with the perfect texture. Don’t
+    just mix until combined. Mix the butter and sugar for at least two minutes until it’s pale and fluffy for the best
+    results.
 
-### Step 10
+!!! note
 
-Note: Typically, pumpkin cookies come out very fluffy and cakey due to the moisture content of the pumpkin puree. The
-key to making these chewy pumpkin cookies is to reduce the amount of liquid in the pumpkin by patting it with paper
-towels.
+    Typically, pumpkin cookies come out very fluffy and cakey due to the moisture content of the pumpkin puree. The
+    key to making these chewy pumpkin cookies is to reduce the amount of liquid in the pumpkin by patting it with paper
+    towels.
 
-### Step 11
+!!! note
 
-Note: The cheesecake balls used to fill the cookies should be made before the cookie dough. Place them on a baking sheet
-and leave them in the freezer until frozen and firm. This is a crucial step to make sure the cheesecake filling
-doesn’t leak out of the cookies while baking.
+    The cheesecake balls used to fill the cookies should be made before the cookie dough. Place them on a baking sheet
+    and leave them in the freezer until frozen and firm. This is a crucial step to make sure the cheesecake filling
+    doesn’t leak out of the cookies while baking.
 
 ## :link: Source
 
