@@ -680,3 +680,5 @@ ombre
 biga
 Campagne
 brotforms
+couche
+KitchenAid
