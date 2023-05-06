@@ -16,7 +16,7 @@ tags:
 
 ## :salt: Ingredients - Crust
 
-- :cookie: 1.5 cups crushed [graham crackers][1]
+- :cookie: 1.5 cups (149 g) crushed [graham crackers][1]
 - :candy: 0.33 (66 g) cup sugar
 - :butter: 6 Tbsps (85 g) melted salted butter
 
