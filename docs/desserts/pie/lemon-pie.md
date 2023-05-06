@@ -17,25 +17,26 @@ tags:
 ## :salt: Ingredients - Crust
 
 - :cookie: 1.5 cups crushed [graham crackers][1]
-- :candy: 0.33 cup sugar
-- :butter: 6 Tbsps melted salted butter
+- :candy: 0.33 (66 g) cup sugar
+- :butter: 6 Tbsps (85 g) melted salted butter
 
 ## :salt: Ingredients - Filling
 
 - :oil_drum: some vegetable oil
-- :glass_of_milk: 3 cups [sweetened condensed milk][2]
+- :glass_of_milk: 3 cups (936 g) [sweetened condensed milk][2]
 - :egg: 3 egg yolks
-- :lemon: 0.66 cup lemon juice
+- :lemon: 0.66 cup (151 g) lemon juice
 - :salt: some salt
 
 ## :salt: Ingredients - Whipped Cream Topping
 
-- :icecream: 1 cup heavy cream
-- :candy: 0.33 cup sugar
+- :icecream: 1 cup (227 g) heavy cream
+- :candy: 0.33 cup (66 g) sugar
 - :icecream: 1 tsp vanilla
 - :lemon: some fresh lemon slices
 - :lemon: some lemon zest
 - :herb: some mint sprigs
+- :lemon: some [candied lemon peel][3]
 
 ## :cooking: Cookware
 
@@ -81,7 +82,8 @@ and the cream holds a soft peak when you pull the beater out of the bowl.
 
 ### Step 7
 
-Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle of lemon zest, and mint sprigs.
+Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle of lemon zest,
+[candied lemon peel][3], and mint sprigs.
 
 ### :link: Source
 
@@ -89,3 +91,4 @@ Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle 
 
 [1]: <../../ingredients/graham-crackers.md>
 [2]: <../../ingredients/sweetened-condensed-milk.md>
+[3]: <../../ingredients/candied-orange-peel.md>
