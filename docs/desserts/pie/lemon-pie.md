@@ -31,7 +31,7 @@ tags:
 ## :salt: Ingredients - Whipped Cream Topping
 
 - :icecream: 1 cup (227 g) heavy cream
-- :candy: 0.33 cup (66 g) sugar
+- :candy: 2 Tbsp (25 g) sugar
 - :icecream: 1 tsp vanilla
 - :lemon: some fresh lemon slices
 - :lemon: some lemon zest
