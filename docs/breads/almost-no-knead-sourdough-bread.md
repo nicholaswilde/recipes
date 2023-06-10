@@ -67,9 +67,11 @@ Flour top of loaf and score 7" long x 1/2" deep.
 
 Cover Dutch oven and place on middle rack. Heat oven to 425°F and bake for 30 minutes.
 
-### Step 10
 
-Note: Oven should be off when the Dutch oven is placed in it.
+
+! note
+
+    Oven should be off when the Dutch oven is placed in it.
 
 ### Step 11
 
