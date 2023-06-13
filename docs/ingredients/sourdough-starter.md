@@ -13,8 +13,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4.5 cups whole-wheat flour
-- :ear_of_rice: 5 cups all-purpose flour
+- :ear_of_rice: 4.5 cups (702 g) whole-wheat flour
+- :ear_of_rice: 5 cups (709 g) all-purpose flour
 
 ## :cooking: Cookware
 
