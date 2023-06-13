@@ -17,7 +17,7 @@ tags:
 - :ear_of_rice: 520 g bread flour
 - :salt: 1.75 tsp salt
 - :droplet: 360 g room-temperature water
-- :microbe: 85 g starter
+- :microbe: 85 g [starter][2]
 
 ## :cooking: Cookware
 
@@ -31,8 +31,9 @@ tags:
 
 ### Step 1
 
-Whisk bread flour and salt in a bowl. Hand whisk room-temperature water and starter in a large bowl until smooth. Add
-flour mixture to water mixture and stir.
+Whisk bread flour and salt in a bowl. Hand whisk room-temperature water and [starter][2] in a large bowl until smooth. Add
+flour mixture
+to water mixture and stir.
 
 ### Step 2
 
@@ -73,15 +74,15 @@ Cover Dutch oven and place on middle rack. Heat oven to 425°F and bake for 30 m
 
     Oven should be off when the Dutch oven is placed in it.
 
-### Step 11
+### Step 10
 
 Start timer when oven is turned on.
 
-### Step 12
+### Step 11
 
 Remove lid and bake for 20 to 30 minutes until brown and bread has an internal temperature of 210°F.
 
-### Step 13
+### Step 12
 
 Remove from pot and rest and cool for 2 hours before serving.
 
@@ -90,3 +91,4 @@ Remove from pot and rest and cool for 2 hours before serving.
 - Cook's Illustrated
 
 [1]: <../assets/images/almost-no-knead-sourdough-bread.jpg>
+[2]: <../ingredients/sourdough-starter
