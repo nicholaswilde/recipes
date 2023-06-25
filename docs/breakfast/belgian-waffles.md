@@ -22,7 +22,7 @@ tags:
 - :icecream: 2 tsp vanilla
 - :salt: 1.5 tsp salt
 - :ear_of_rice: 480 g all-purpose flour
-- :egge: 3 egg whites
+- :egg: 3 egg whites
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
