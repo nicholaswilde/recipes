@@ -21,7 +21,7 @@ tags:
 - :butter: 8 Tbsp unsalted butter
 - :egg: 3 eggs
 - :icecream: 2 tsp vanilla
-- :cake: 1 White Chocolate Frosting
+- :cake: 1 [White Chocolate Frosting][2]
 - :strawberry: 0.25 cup seedless raspberry jam
 - :strawberry: 1 cup fresh raspberries
 
@@ -58,7 +58,7 @@ Allow to cool completely. 30 minutes more.
 
 ### Step 4
 
-Meanwhile, prepare the White Chocolate Frosting.
+Meanwhile, prepare the [White Chocolate Frosting][2].
 
 ### Step 5
 
@@ -76,3 +76,4 @@ Garnish the cake with the fresh raspberries. Slice and serve.
 - The Cake Mix Doctor
 
 [1]: <../../assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg>
+[2]: <../../ingredients/frosting/white-chocolate-frosting.md>
