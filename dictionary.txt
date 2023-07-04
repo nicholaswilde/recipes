@@ -695,3 +695,4 @@ habaneros
 Negra
 Blanco
 dulse
+guajillo
