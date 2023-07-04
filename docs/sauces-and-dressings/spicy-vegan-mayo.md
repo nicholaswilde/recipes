@@ -16,7 +16,7 @@ tags:
 
 - :egg: 1 cup vegan mayonnaise
 - :garlic: 0.5 tsp garlic
-- :hot_pepper: 2 tsp Salsa Negra
+- :hot_pepper: 2 tsp [Salsa Negra][2]
 - :lemon: 2 tsp lemon juice
 - :salt: 0.5 tsp salt
 
@@ -28,7 +28,7 @@ tags:
 
 ### Step 1
 
-In a medium bowl, whisk together the vegan mayonnaise, garlic, Salsa Negra, lemon juice, and salt until smooth and
+In a medium bowl, whisk together the vegan mayonnaise, garlic, [Salsa Negra][2], lemon juice, and salt until smooth and
 combined.
 
 ### Step 2
@@ -40,3 +40,4 @@ Taste and adjust the seasoning.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/spicy-vegan-mayo.jpg>
+[2]: <./salsa-negra.md>
