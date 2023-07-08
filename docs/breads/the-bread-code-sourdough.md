@@ -17,7 +17,7 @@ tags:
 - :ear_of_rice: 400 g (80%) bread flour
 - :ear_of_rice: 100 g (20%) whole wheat flour
 - :droplet: 325 g (65%) water
-- :microbe: 100 g (20%) starter
+- :microbe: 100 g (20%) [starter][2]
 - :salt: 10 g (2%) salt
 
 ## :cooking: Cookware
@@ -40,9 +40,9 @@ covered, at room temperature over night for 12 hours. Make sure that there are n
 
 ### Step 2
 
-The next morning, add the active starter to the main dough. Add the salt to the main dough. Mix until everything is
-nicely homogenized (very important). For me this takes around 1 minute. It might take you up to 5 minutes. You want to
-make sure the sourdough starter has been evenly spread across the dough.
+The next morning, add the active [starter][2] to the main dough. Add the salt to the main dough. Mix until everything
+is nicely homogenized (very important). For me this takes around 1 minute. It might take you up to 5 minutes. You want
+to make sure the sourdough starter has been evenly spread across the dough.
 
 ### Step 3
 
@@ -54,8 +54,7 @@ Now remove the dough and place it on your bench (no flour!) and knead.
 
 ### Step 5
 
-Extract a small sample from the dough and place it in a cylindrical shaped container. A shot glass works, or anything
-else that has a cylindrical shape. This sample will tell us exactly when the dough is done bulk fermenting. Mark the
+Extract a small sample from the dough and place it in a cylindrical shaped container. A shot glass works, or anything else that has a cylindrical shape. This sample will tell us exactly when the dough is done bulk fermenting. Mark the
 dough with a rubber band or a marker. This way we can see the size increase.
 
 ### Step 6
@@ -176,3 +175,4 @@ Let the bread cool on a cooling rack for at least 2 hours.
 - <https://www.the-bread-code.io/recipe/2020/12/22/the-last-sourdough-recipe.html>
 
 [1]: <../assets/images/the-bread-code-sourdough.jpg>
+[2]: <../ingredients/sourdough-starter.md>
