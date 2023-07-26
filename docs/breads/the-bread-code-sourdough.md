@@ -12,6 +12,8 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 1 loaf | 14.85 hours |
 
+The [Sourdough Calculator][3] may be used to generate a recipe.
+
 ## :salt: Ingredients
 
 - :ear_of_rice: 400 g (80%) bread flour
@@ -176,3 +178,4 @@ Let the bread cool on a cooling rack for at least 2 hours.
 
 [1]: <../assets/images/the-bread-code-sourdough.jpg>
 [2]: <../ingredients/sourdough-starter.md>
+[3]: <https://nicholaswilde.io/sourdough-calculator/>
