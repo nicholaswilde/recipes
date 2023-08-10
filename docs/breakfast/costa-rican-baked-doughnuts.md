@@ -59,7 +59,7 @@ Place rings on greased baking tray and bake for about 35 minutes, or until golde
 
 Allow to cool before enjoying.
 
-  !!! note
+  !!!note
 
     These are a combination of corncake, muffin, and doughnut, so you can make them into a savory meal with salsa,
     avocados, jalapeños, and hot sauce, or bring out their sweetness with a dollop of syrup and fresh fruit.
