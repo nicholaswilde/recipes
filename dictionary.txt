@@ -701,3 +701,5 @@ Costa
 corncake
 Rican
 Fish-ish
+Delicata
+delicata
