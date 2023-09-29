@@ -14,17 +14,17 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup unsalted butter
-- :ear_of_rice: 2.5 cups all-purpose flour
+- :butter: 1 cup (226 g) unsalted butter
+- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
 - :rice: 2 tsp cream of tartar
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.75 tsp salt
-- :maple_leaf: 0.5 cup light brown sugar
-- :candy: 1 cup granulated sugar
+- :maple_leaf: 0.5 cup (107 g) light brown sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :icecream: 1 vanilla bean
 - :egg: 2 large eggs
 - :custard: 1 Tbsp cinnamon
-- :candy: 2 Tbsp granulated sugar
+- :candy: 2 Tbsp (25 g) granulated sugar
 
 ## :cooking: Cookware
 
