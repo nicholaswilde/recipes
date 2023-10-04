@@ -41,6 +41,6 @@ serve.
 
 ## :link: Source
 
-- <https://twitter.com/TheFoodLab/status/654357647538323457>
+- The Food Lab
 
 [1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg>
