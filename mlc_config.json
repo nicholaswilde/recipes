@@ -31,5 +31,5 @@
         "pattern": "^https://www.thekitchn.com/refrigerated-cookie-dough-268281"
       }
   ],
-  "aliveStatusCodes": [200, 206, 403, 429, 405]
+  "aliveStatusCodes": [200, 206, 403, 429, 405, 520]
 }
