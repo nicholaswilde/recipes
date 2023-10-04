@@ -84,6 +84,6 @@ For the best eating experience, these cupcakes should be enjoyed the day they ar
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/discover/stories/corn-recipe-contest-winners>
+- Trader Joe's
 
 [1]: <../../assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png>
