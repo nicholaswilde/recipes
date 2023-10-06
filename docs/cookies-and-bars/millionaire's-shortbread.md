@@ -79,4 +79,4 @@ When set, slice into squares and serve.
 
 [1]: <../ingredients/brown-sugar.md>
 [2]: <../ingredients/sweetened-condensed-milk.md>
-[3]: <./buttery-shortbread.md>
+[3]: <./shortbread.md>
