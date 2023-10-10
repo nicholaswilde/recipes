@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 1.75 cups all-purpose flour
-- :cup_with_strap: 0.5 tsp baking soda
+- :cup_with_straw: 0.5 tsp baking soda
 - :butter: 14 Tbsp unsalted butter
 - :candy: 0.5 cup granulated sugar
 - :maple_leaf: 0.75 cup dark brown sugar
