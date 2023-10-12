@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients - Biscuit
 
 - :butter: 100 g unsalted butter
-- :sugar: 100 g granulated sugar
+- :candy: 100 g granulated sugar
 - :egg: 1 egg
 - :icecream: 0.5 tsp vanilla
 - :ear_of_rice: 175 g all-purpose flour
