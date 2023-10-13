@@ -62,8 +62,9 @@ vigorously until the chocolate is smooth and slightly cooled; stirring makes it 
 
 Drizzle 1/2 of each cookie with just enough chocolate to coat it.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.foodnetwork.com/recipes/ina-garten/shortbread-cookies-recipe-1945855>
+- <https://www.thekitchn.com/shortbread-cookie-recipe-showdown-23480965>
 
 [1]: <../assets/images/shortbread.jpg>
