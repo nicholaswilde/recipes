@@ -20,11 +20,11 @@ tags:
 - :garlic: 3 cloves garlic
 - :sweet_potato: 1 tsp ginger
 - :carrot: 0.5 cup carrots
-- :hot_pepper: 4 Tbsp red curry paste
+- :hot_pepper: 0.5 tsp red curry paste
 - :tomato: 1 6-oz can tomato paste
 - :stew: 2 cups vegetable broth
 - :droplet: 1 cup water
-- :candy: 2 Tbsp coconut sugar
+- :maple_leaf: 2 Tbsp maple syrup
 - :herb: 0.5 tsp turmeric
 - :coconut: 0.33 cup coconut milk (optional)
 - :herb: some cilantro (optional)
@@ -54,7 +54,7 @@ Add red curry paste and sauté for 2 minutes, stirring frequently.
 
 ### Step 4
 
-Add tomato paste, vegetable broth, water and stir to combine. Then add lentils, coconut sugar, turmeric, and stir.
+Add tomato paste, vegetable broth, water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
 
 ### Step 5
 
