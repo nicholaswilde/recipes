@@ -40,6 +40,11 @@ own personal reference.
     [giscus comments system][5] is implemented on this site to make it easier to make comments on recipes when
     cooking. The comments can then be used at a later date to update the recipe.
 
+!!! info
+
+    Recipes that I come across on the Internet and have not yet been incorporated into my site are tracked
+    in the [repository issues][7].
+
 !!! warning
 
     Recipes on this site might be different than the sourced recipes due to personal modifications. E.g.
@@ -82,3 +87,4 @@ Development of this site is documented [here][3].
 [4]: <https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough>
 [5]: <https://giscus.app/>
 [6]: <https://en.wikipedia.org/wiki/Lacto-ovo_vegetarianism>
+[7]: <https://github.com/nicholaswilde/recipes/issues>
