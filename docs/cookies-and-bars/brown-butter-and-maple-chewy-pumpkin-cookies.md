@@ -11,9 +11,9 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 12 | 55 minutes |
+| 12 cookies | 55 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Cookies
 
 - :butter: 220 g unsalted butter
 - :ear_of_rice: 280 g all-purpose flour
@@ -28,6 +28,12 @@ tags:
 - :icecream: 1 tsp vanilla
 - :jack_o_lantern: 80 g pumpkin purée
 
+## :salt: Ingredients - Coating
+
+- :maple_leaf: 1.5 Tbsp light brown sugar
+- :candy: 1.5 Tbsp granulated sugar
+- :custard: 0.75 tsp cinnamon
+
 ## :cooking: Cookware
 
 - 1 large baking sheet
@@ -35,7 +41,7 @@ tags:
 - 1 medium bowl
 - 1 large mixing bowl
 
-## :pencil: Instructions
+## :pencil: Instructions - Cookies
 
 ### Step 1
 
@@ -72,14 +78,16 @@ Add in all of the dry ingredients and use a rubber spatula to fold into the doug
 should hold its shape when scooped), chill the dough for about 15 to 20 minutes until thickened. This can happen
 sometimes if the butter is too warm at the start.
 
+## :pencil: Instructions - Coating
+
 ### Step 8
 
-Off to the side, mix together the coating ingredients in a small dish.
+Off to the side, mix together the light brown sugar, granulated sugar, and cinnamon in a small dish to make the coating.
 
 ### Step 9
 
-Use a large cookie scoop (2 oz) or 1/4 measuring cup and scoop out the dough. Drop into the cinnamon sugar mixture and
-toss to coat. The dough will be very soft but not sticky.
+Scoop out the dough in 60 g portions. Drop into the cinnamon sugar mixture and toss to coat. The dough will be very soft
+but not sticky.
 
 ### Step 10
 
@@ -88,7 +96,8 @@ time. Leave the rest of the dough out at room temperature.
 
 ### Step 11
 
-Bake for 12 to 15 minutes or until the edges are darkened and the center looks puffed and slightly underdone.
+Bake for 12 to 15 minutes (13.5 minutes for me) or until the edges are darkened and the center looks puffed and slightly
+underdone.
 
 ### Step 12
 
