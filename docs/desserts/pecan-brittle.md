@@ -32,7 +32,7 @@ tags:
 
 ### Step 1
 
-Toast the coarsely chopped pecans.
+[Toast][2] the coarsely chopped pecans.
 
 ### Step 2
 
@@ -76,3 +76,4 @@ Let cool to room temperature for about 2 hours and break up into small pieces.
 - <https://www.youtube.com/watch?v=gGBC4-CsXOM>
 
 [1]: <../assets/images/pecan-brittle.jpg>
+[2]: <https://nicholaswilde.io/recipes/ingredients/toasted-nuts/>
