@@ -102,6 +102,15 @@ Let mixture sit for 5 minutes.
 | 1 cup                 | 2/3 cup   | 1/8 tsp     |
 | 2 cup                 | 1-1/3 cup | 1/4 tsp     |
 
+## :honey_pot: [Maple Syrup][23]
+
+| Maple Syrup Equivalency to: | Honey     | Water       |
+|-----------------------------|-----------|-------------|
+| 1/4 cup                     | 1/8 cup   | 1/8 cup     |
+| 1/2 cup                     | 1/4 cup   | 1/4 cup     |
+| 1 cup                       | 1/2 cup   | 1/2 cup     |
+| 2 cup                       | 1   cup   | 1 cup       |
+
 ## :onion: [Onion][4]
 
 | Chopped Onion Equivalency to: | Chopped Onion | Onion Powder  | Dried Onion Flakes  |
@@ -214,3 +223,4 @@ Let mixture sit for 5 minutes.
 [20]: <https://www.bonappetit.com/story/types-of-chocolate>
 [21]: <https://www.bhg.com/recipes/how-to/cooking-basics/self-rising-flour-substitute>
 [22]: <https://www.youtube.com/watch?v=fdLTlRPz7Cs>
+[23]: <https://www.youtube.com/watch?v=s8fwSpWmUlM>
