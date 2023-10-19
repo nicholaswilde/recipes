@@ -74,7 +74,7 @@ Mix for about 1 minute on medium-high.
 
 Pour batter into prepared pan and bake in oven for 80 to 90 minutes.
 
-## :pencil: Instructions - Glze
+## :pencil: Instructions - Glaze
 
 ### Step 8
 
