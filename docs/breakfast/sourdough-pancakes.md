@@ -8,16 +8,16 @@ tags:
 
 ![Sourdough Pancakes][1]{ loading=lazy }
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 15 minutes |
+| :timer_clock: Total Time | Serves |
+|:-----------------------: | :---: |
+| 15 minutes | 10 |
 
 ## :salt: Ingredients
 
 - :corn: 0.25 cup coarse cornmeal
-- :butter: 3 Tbsp unsalted butter
+- :butter: 3 Tbsp (42 g) unsalted butter
 - :egg: 2 eggs
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :ear_of_rice: 0.25 cup whole wheat flour
 - :cup_with_straw: 0.5 tsp baking soda
 - :dash: 1.25 tsp baking powder
