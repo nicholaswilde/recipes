@@ -17,7 +17,7 @@ tags:
 - :leafy_green: 4 cups Brussels sprouts
 - :oil_drum: some canola oil
 - :salt: some salt
-- :herb: 1 cilantro almond pesto
+- :herb: 1 [cilantro almond pesto][2]
 - :lemon: 1 lemon
 
 ## :cooking: Cookware
@@ -55,11 +55,12 @@ immediately with salt. Repeat to fry the remaining Brussels sprouts.
 
 ### Step 4
 
-In a large bowl, toss the Brussels sprouts with the cilantro almond pesto. Transfer to a plate and serve with the lemon
-wedges.
+In a large bowl, toss the Brussels sprouts with the [cilantro almond pesto][2]. Transfer to a plate and serve with the
+lemon wedges.
 
 ## :link: Source
 
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/cilantro-almond-pesto-brussels-sprouts.jpg>
+[2]: <../sauces-and-dressings/pesto/cilantro-almond-pesto.md>
