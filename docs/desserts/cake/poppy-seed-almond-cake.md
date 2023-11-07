@@ -95,7 +95,7 @@ Separate the edges of the cake from the pan using a small offset spatula.
 
 ### Step 12
 
-Let the cake cook in the pan for about 5 minutes.
+Let the cake cook in the pan for about 15 minutes.
 
 ### Step 13
 
