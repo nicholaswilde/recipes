@@ -30,7 +30,7 @@ tags:
 
 - :candy: 90 g confectioners' sugar
 - :orange_circle: 57 g orange juice
-- :butter: 2 tsp unsalted butter
+- :butter: 2 tsp (10 g) unsalted butter
 - :icecream: 0.5 tsp vanilla
 - :chestnut: 0.5 tsp almond extract
 
