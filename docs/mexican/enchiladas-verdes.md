@@ -22,12 +22,12 @@ tags:
 - :green_circle: 0.5 cup peas
 - :hot_pepper: 0.5 jalapeño
 - :hot_pepper: 0.5 tsp chili powder
-- :tomato: 2 cups salsa verde
+- :tomato: 2 cups [salsa verde][3]
 - :flatbread: 8 [corn tortilla][2]
 - :jack_o_lantern: 0.5 cup pumpkin seeds
 - :herb: 0.25 cup cilantro
 - :avocado: 1 avocado
-- :canned_food: 2 cups black beans
+- :canned_food: 2 cups [black beans][4]
 
 ## :cooking: Cookware
 
@@ -60,14 +60,14 @@ Taste and adjust salt if needed.
 
 ### Step 5
 
-In a small baking dish, pour about 1/2 cup of the salsa verde and spread it around to coat the bottom. Fill each
+In a small baking dish, pour about 1/2 cup of the [salsa verde][3] and spread it around to coat the bottom. Fill each
 [corn tortilla][2] with about 1/4 cup of the potato mixture, roll it up, and place it seam side down in the dish.
 Repeat with the remaining tortillas, lining them up snugly in the dish. Spread the remaining salsa verde on top of the
 enchiladas. Bake until the salsa bubbles and the edges of the tortillas begin to crisp slightly, about 20 minutes.
 
 ### Step 6
 
-Garnish with the toasted pumpkin seeds and cilantro and serve with the avocado and black beans.
+Garnish with the toasted pumpkin seeds and cilantro and serve with the avocado and [black beans][4].
 
 ## :link: Source
 
@@ -75,3 +75,5 @@ Garnish with the toasted pumpkin seeds and cilantro and serve with the avocado a
 
 [1]: <../assets/images/enchiladas-verdes.jpg>
 [2]: <../sides/corn-tortillas.md>
+[3]: <../sauces-and-dressings/salsa-verde.md>
+[4]: <../sides/gracias-madre-black-beans.md>
