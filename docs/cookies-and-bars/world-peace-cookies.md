@@ -78,8 +78,9 @@ temperature (I think the texture’s more interesting at room temperature).
 
 Bake the remaining dough.
 
-## :link: Source
+## :link: Sources
 
 - <https://doriegreenspan.com/recipe/world-peace-cookies-the-newest-version-from-dories-cookies-sneak-peek/>
+- <https://www.youtube.com/watch?v=CXAGViXspMk>
 
-[1]: <../assets/images/world-piece-cookies.jpg>
+[1]: <../assets/images/world-peace-cookies.jpg>
