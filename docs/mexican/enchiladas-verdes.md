@@ -20,8 +20,8 @@ tags:
 - :garlic: 2 cloves garlic
 - :salt: some salt
 - :green_circle: 0.5 cup peas
-- :hot_pepper: 0.5 jalapeño
-- :hot_pepper: 0.5 tsp chili powder
+- :hot_pepper: 0.25 jalapeño
+- :hot_pepper: 0.125 tsp chili powder
 - :tomato: 2 cups [salsa verde][3]
 - :flatbread: 8 [corn tortilla][2]
 - :jack_o_lantern: 0.5 cup pumpkin seeds
@@ -67,7 +67,8 @@ enchiladas. Bake until the salsa bubbles and the edges of the tortillas begin to
 
 ### Step 6
 
-Garnish with the toasted pumpkin seeds and cilantro and serve with the avocado and [black beans][4].
+Garnish with the toasted pumpkin seeds, a little more salsa verde, and cilantro and serve with the avocado and
+[black beans][4].
 
 ## :link: Source
 
