@@ -719,3 +719,7 @@ tomatillos
 costco
 latkes
 Latkes
+soyrizo
+Soyrizo
+poblanos
+Soyrizo
