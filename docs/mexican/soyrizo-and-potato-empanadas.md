@@ -20,7 +20,7 @@ tags:
 - :hotdog: 0.5 cup soyrizo
 - :hot_pepper: 0.25 cup poblano pepper
 - :salt: some salt
-- :flatbread: 1 vegan empanada pastry
+- :flatbread: 1 [vegan empanada pastry][2]
 - :avocado: 1 avocado salsa
 
 ## :cooking: Cookware
@@ -69,3 +69,4 @@ Serve with the avocado salsa verde for dipping.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/soyrizo-and-potato-empanadas.jpg>
+[2]: <../ingredients/pastry-dough/vegan-empanada-pastry.md>
