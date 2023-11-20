@@ -20,7 +20,7 @@ tags:
 - :leafy_green: 3 handfuls kale
 - :salt: some salt
 - :falafel: 1 can garbanzo beans
-- :jack_o_lantern: 1 jar spicy pumpkin curry simmer sauce
+- :jack_o_lantern: 1 jar [spicy pumpkin curry simmer sauce][1]
 - :grapes: 0.33 cup raisins
 - :pie: 1 pie crust
 - :oil_drum: some canola oil spray
@@ -38,8 +38,9 @@ tags:
 ### Step 1
 
 Preheat oven to 400°F. Sauté onion & parsnips in oil for 5 minutes. Stir in squash. Cover and cook 5 minutes. Add kale
-and salt, stir, cover and cook another 5 minutes or so until vegetables are tender. Add garbanzo beans, spicy pumpkin
-curry simmer sauce and raisins, stir to combine. Cover and reduce heat to simmer 5 minutes. Remove from heat.
+and salt, stir, cover and cook another 5 minutes or so until vegetables are tender. Add garbanzo beans,
+[spicy pumpkin curry simmer sauce][1] and raisins, stir to combine. Cover and reduce heat to simmer 5 minutes. Remove
+from heat.
 
 ### Step 2
 
@@ -60,3 +61,5 @@ sit 15 minutes before serving.
 ## :link: Source
 
 - Trader Joe's
+
+[1]: <../sauces-and-dressings/pumpkin-curry-sauce.md>
