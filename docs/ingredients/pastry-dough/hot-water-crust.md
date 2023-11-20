@@ -57,6 +57,9 @@ Once the dough ball is formed, leave it to cool slightly. If it’s still lumpy,
 
 Divide the dough in two, making one piece slightly bigger than the other.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.paulhollywood.com/post/pork-pies>
+- <https://youtu.be/1nArqhRyszw>
+- <https://youtu.be/f0sUuossGNQ>
+- <https://youtu.be/Ee-8PckT1cA>
