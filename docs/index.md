@@ -64,7 +64,8 @@ The following may be assumed throughout the site unless otherwise specified
 - `stock` is the same as `broth`.
 - `caster`, `white`, and `sugar` is the same as `granulated sugar`.
 - `powdered sugar` is the same as `confectioners' sugar`.
-- `brown sugar` measurements are `packed`
+- `brown sugar` measurements are `packed`.
+- `brown sugar` refers to `light brown sugar`.
 - Temperatures are in `°F`.
 - Powdered measurements are sifted.
 - Liquid ingredient measurements in `g` are equivalent to `mL`.
