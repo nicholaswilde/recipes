@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 0.5 cup whole milk
+- :glass_of_milk: 0.5 (113 g) cup whole milk
 - :ear_of_rice: 42 g bread flour
-- :droplet: 0.5 cup water
+- :droplet: 0.5 (113 g) cup water
 - :glass_of_milk: 2 Tbsp whole milk
 - :microbe: 1.5 tsp active dry yeast
 - :rice: 1 cup (227 g) sour cream
