@@ -19,7 +19,7 @@ tags:
 - :droplet: 0.5 cup water
 - :glass_of_milk: 2 Tbsp whole milk
 - :microbe: 1.5 tsp active dry yeast
-- :rice: 1 cup sour cream
+- :rice: 1 cup (227 g) sour cream
 - :candy: 50 g granulated sugar
 - :salt: 4 tsp salt
 - :egg: 2 egg
