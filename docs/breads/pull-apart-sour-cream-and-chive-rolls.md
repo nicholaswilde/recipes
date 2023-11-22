@@ -23,14 +23,14 @@ tags:
 - :candy: 50 g granulated sugar
 - :salt: 4 tsp salt
 - :egg: 2 egg
-- :butter: 4 Tbsp unsalted butter
+- :butter: 4 Tbsp (57 g) unsalted butter
 - :ear_of_rice: 625 g bread flour
-- :butter: 2 Tbsp unsalted butter
+- :butter: 2 Tbsp (28 g) unsalted butter
 - :herb: 0.5 cup chives
 - :egg: 1 egg
 - :salt: some flaky sea salt
 - :salt: some pepper
-- :butter: 2 Tbsp unsalted butter
+- :butter: 2 Tbsp (28 g) unsalted butter
 
 ## :cooking: Cookware
 
