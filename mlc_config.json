@@ -32,6 +32,12 @@
       },
       {
         "pattern": "^https://www.jessiesheehanbakes.com/2015/02/10/salty-milk-chocolate-peanut-butter-cookies/"
+      },
+      {
+        "pattern": "^ https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156"
+      },
+      {
+        "pattern": "^https://www.quakeroats.com/cooking-and-recipes/apricot-honey-oatmeal"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429, 405, 520]
