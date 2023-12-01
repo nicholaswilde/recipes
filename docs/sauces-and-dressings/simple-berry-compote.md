@@ -14,7 +14,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :strawberry: 3 cups fruit and juice
+- :strawberry: 3 cups fruit
+- :orange_circle: 3 Tbsp orange juice
 - :custard: 0.25 tsp cinnamon (optional)
 - :sweet_potato: 0.25 tsp ginger (optional)
 - :candy: 1 tsp granulated sugar (optional)
@@ -30,7 +31,7 @@ tags:
 
 ### Step 1
 
-Place fruit and juice in a small saucepan and bring to medium heat.
+Place fruit and orange juice in a small saucepan and bring to medium heat.
 
 ### Step 2
 
