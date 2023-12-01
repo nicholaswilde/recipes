@@ -51,12 +51,11 @@ incorporated. Scrape in seeds from vanilla bean; reserve pod for another use.
 
 Add eggs and continue to beat until mixture is pale yellow, begins to thicken, and falls from beaters in a ribbon-like
 stream, about 3 minutes. Reduce mixer speed to low. Gradually add dry ingredients and continue to beat, scraping down
-sides and bottom of bowl, until just combined. Let sit at room temperature at least 30 minutes to hydrate flour; dough
-will be very loose but will thicken as it sits.
+sides and bottom of bowl, until just combined. Cover and chill for at least 24 hours to age.
 
 ### Step 4
 
-Arrange a rack in center of oven; preheat to 400°F. Line a rimmed baking sheet with parchment paper. Whisk cinnamon and
+Arrange a rack in center of oven; preheat to 375°F. Line a rimmed baking sheet with parchment paper. Whisk cinnamon and
 remaining 2 Tbsp granulated sugar in a medium bowl.
 
 ### Step 5
@@ -67,7 +66,7 @@ spacing about 3" apart. Do not flatten; cookies will spread as they bake.
 
 ### Step 6
 
-Bake cookies until edges are lightly browned and firm but centers are puffed and soft, 8 to 10 minutes. Let cool on
+Bake cookies until edges are lightly browned and firm but centers are puffed and soft, 8 to 10 minutes (mine was 9 minutes). Let cool on
 sheets 10 minutes, then transfer to a wire rack and let cool completely.
 
 !!! note "Do Ahead"
