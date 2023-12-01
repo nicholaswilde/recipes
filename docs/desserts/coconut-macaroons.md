@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
-- :coconut: 1 14-oz bag sweetened coconut
+- :coconut: 1 14-oz bag [sweetened coconut][3]
 - :icecream: 1 tsp vanilla
 - :egg: 2 egg whites
 - :salt: 0.5 tsp salt
@@ -27,8 +27,8 @@ Preheat oven to 325°F.
 
 ### Step 2
 
-Combine almost the entire can of [sweetened condensed milk][2] (leave about 2 tablespoons in the can) with sweetened
-coconut. Stir to combine. Add in vanilla and stir to combine. Set aside.
+Combine almost the entire can of [sweetened condensed milk][2] (leave about 2 tablespoons in the can) with
+[sweetened coconut][3]. Stir to combine. Add in vanilla and stir to combine. Set aside.
 
 ### Step 3
 
@@ -54,3 +54,4 @@ remove cookies from baking sheet and transfer to a wire rack to cool completely.
 
 [1]: <../assets/images/coconut-macaroons.png>
 [2]: <../ingredients/sweetened-condensed-milk.md>
+[3]: <../ingredients/sweetened-coconut-flakes.md>
