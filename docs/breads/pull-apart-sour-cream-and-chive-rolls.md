@@ -12,7 +12,27 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 24 | 3.37 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - 1/2 Batch
+
+- :glass_of_milk: 0.25 (57 g) cup whole milk
+- :ear_of_rice: 21 g bread flour
+- :droplet: 0.25 (57 g) cup water
+- :glass_of_milk: 1 Tbsp whole milk
+- :microbe: 0.75 tsp active dry yeast
+- :rice: 1/2 cup (113 g) sour cream
+- :candy: 25 g granulated sugar
+- :salt: 2 tsp salt
+- :egg: 1 egg
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :ear_of_rice: 313 g bread flour
+- :butter: 1 Tbsp (14 g) unsalted butter
+- :herb: 0.25 cup chives
+- :egg: 1/2 egg
+- :salt: some flaky sea salt
+- :salt: some pepper
+- :butter: 1 Tbsp (14 g) unsalted butter
+
+## :salt: Ingredients - 1 Batch
 
 - :glass_of_milk: 0.5 (113 g) cup whole milk
 - :ear_of_rice: 42 g bread flour
