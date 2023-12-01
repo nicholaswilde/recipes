@@ -17,8 +17,9 @@ tags:
 ## :salt: Ingredients - Crust
 
 - :cookie: 1.5 cups (149 g) crushed [graham crackers][1]
-- :candy: 0.33 (66 g) cup sugar
+- :candy: 0.33 (66 g) cup granulated sugar
 - :butter: 6 Tbsps (85 g) melted salted butter
+- :lemon: 1/2 lemon zest (optional)
 
 ## :salt: Ingredients - Filling
 
@@ -55,9 +56,9 @@ Preheat the oven to 350°F. Lightly spray a 9-inch pie plate with vegetable oil.
 
 ### Step 2
 
-In a large bowl, combine the crushed graham crackers and 1∕3 cup of the sugar and stir to blend. Stir in the melted
-salted butter until well blended. Press the cracker mixture onto the bottom and up the sides of the prepared pie
-plate. Bake until firm, about 8 minutes.
+In a large bowl, combine the crushed graham crackers, 1∕3 cup of the granulated sugar, and lemon zest (optional) and
+stir to blend. Stir in the melted salted butter until well blended. Press the cracker mixture onto the bottom and up
+the sides of the prepared pie plate. Bake until firm, about 8 minutes.
 
 ### Step 3
 
@@ -77,8 +78,8 @@ Cool the pie on a rack for 30 minutes. Place in the refrigerator until set, at l
 
 ### Step 6
 
-In a medium bowl, with a handheld electric mixer, beat the heavy cream, sugar, and vanilla on high speed until fluffy
-and the cream holds a soft peak when you pull the beater out of the bowl.
+In a medium bowl, with a handheld electric mixer, beat the heavy cream, granulated sugar, and vanilla on high speed
+until fluffy and the cream holds a soft peak when you pull the beater out of the bowl.
 
 ### Step 7
 
