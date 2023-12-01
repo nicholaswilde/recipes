@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :microbe: 0.33 cup nutritional yeast
+- :microbe: 0.33 (24 g) cup nutritional yeast
 - :seedling: 2 Tbsp sesame seeds
 - :curry: 1 Tbsp curry powder
 - :salt: 1 Tbsp salt
