@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+  - bigger-bolder-baking
 ---
 # :glass_of_milk: Evaporated Milk
 
@@ -46,4 +47,4 @@ Store the evaporated milk covered in the fridge for up to 5 days.
 
 ## :link: Source
 
-- Bigger Bolder Baking
+- <https://www.biggerbolderbaking.com/evaporated-milk-recipe/>
