@@ -3,7 +3,7 @@ comments: true
 tags:
   - pastry-dough
   - ingredient
-  - clair-saffitz
+  - claire-saffitz
 ---
 # :pie: Pâte Brisée
 
