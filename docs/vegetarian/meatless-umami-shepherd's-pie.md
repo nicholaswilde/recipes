@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :butter: 3 Tbsp unsalted butter
-- :herb: 1 container TJ's mirepoix
+- :herb: 1 container TJ's [mirepoix][1]
 - :cut_of_meat: 1 pkg TJ's beefless beef
 - :mushroom: 1 bag mushroom medley
 - :tomato: 2 Tbsp tomato paste
@@ -38,7 +38,7 @@ Preheat oven to 375°F.
 ### Step 2
 
 To a 12-inch cast iron pan or oven-safe pan, heat over medium high and add unsalted butter. When butter has melted, add
-TJ's mirepoix and cook until softened, 5 to 7 minutes.
+TJ's [mirepoix][1] and cook until softened, 5 to 7 minutes.
 
 ### Step 3
 
@@ -69,4 +69,5 @@ Cool for 15 minutes, before serving.
 
 - <https://www.traderjoes.com/home/recipes/meatless-umami-shepherds-pie>
 
+[1]: ../ingredients/mirepoix.md
 [2]: ../ingredients/seasonings/umami-seasoning.md
