@@ -2,6 +2,7 @@
 comments: true
 tags:
   - vegetarian
+  - trader-joes
 ---
 # :pie: Meatless Umami Shepherd's Pie
 
@@ -20,7 +21,7 @@ tags:
 - :tomato: 2 Tbsp tomato paste
 - :ear_of_rice: 2 Tbsp all-purpose flour
 - :stew: 2 cups vegetable broth
-- :mushroom: 3 Tbsp TJ's Mushroom and Company Multipurpose umami seasoning
+- :mushroom: 3 Tbsp TJ's Mushroom and Company Multipurpose [umami seasoning][2]
 - :green_circle: 1 cup peas
 - :potato: 1 pkg TJ's prepared mashed potatoes
 
@@ -49,7 +50,7 @@ Add tomato paste and mix to combine. Then add all-purpose flour and mix to combi
 
 ### Step 5
 
-Add vegetable broth and TJ's Mushroom and Company Multipurpose umami seasoning and cook until thickened, about 5
+Add vegetable broth and TJ's Mushroom and Company Multipurpose [umami seasoning][2] and cook until thickened, about 5
 minutes.
 
 ### Step 6
@@ -67,3 +68,5 @@ Cool for 15 minutes, before serving.
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/meatless-umami-shepherds-pie>
+
+[2]: ../ingredients/seasonings/umami-seasoning.md
