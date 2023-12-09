@@ -17,7 +17,7 @@ tags:
 - :olive: 1.5 Tbsp olive oil
 - :salt: 1.5 tsp salt
 - :candy: 2 Tbsp sugar
-- :ear_of_rice: 4 cups flour
+- :ear_of_rice: 4 cups (480 g) bread flour
 - :microbe: 2 tsp yeast
 
 ## :cooking: Cookware
@@ -37,7 +37,7 @@ Add the following in order: olive oil, salt, and sugar.
 
 ### Step 3
 
-Add flour, covering the liquid. Make a small indentation at the top center of the flour, but not deep enough to reach
+Add bread flour, covering the liquid. Make a small indentation at the top center of the flour, but not deep enough to reach
 the liquid.
 
 ### Step 4
