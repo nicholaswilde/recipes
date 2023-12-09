@@ -17,7 +17,7 @@ tags:
 - :butter: 3 Tbsp unsalted butter
 - :herb: 1 container TJ's [mirepoix][1]
 - :cut_of_meat: 1 pkg TJ's beefless beef
-- :mushroom: 1 bag mushroom medley
+- :mushroom: 1 bag [mushroom medley][3]
 - :tomato: 2 Tbsp tomato paste
 - :ear_of_rice: 2 Tbsp all-purpose flour
 - :stew: 2 cups vegetable broth
@@ -42,7 +42,7 @@ TJ's [mirepoix][1] and cook until softened, 5 to 7 minutes.
 
 ### Step 3
 
-Add TJ's beefless beef and mushroom medley until cooked through, about 5 minutes.
+Add TJ's beefless beef and [mushroom medley][3] until cooked through, about 5 minutes.
 
 ### Step 4
 
@@ -71,3 +71,4 @@ Cool for 15 minutes, before serving.
 
 [1]: ../ingredients/mirepoix.md
 [2]: ../ingredients/seasonings/umami-seasoning.md
+[3]: ../sides/mushroom-medley.md
