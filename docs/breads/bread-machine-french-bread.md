@@ -13,9 +13,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :hotsprings: 1.33 cups warm water
+- :hotsprings: 1.33 cups (303 g) warm water
 - :olive: 1.5 Tbsp olive oil
-- :salt: 1.5 tsp salt
+- :salt: 1 Tbsp salt
 - :candy: 2 Tbsp sugar
 - :ear_of_rice: 4 cups (480 g) bread flour
 - :microbe: 2 tsp yeast
