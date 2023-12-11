@@ -1,4 +1,4 @@
----
+---
 site_name: Recipes
 site_description: A collection of my recipes.
 site_author: Nicholas Wilde
@@ -210,6 +210,7 @@ nav:
       - The New York Times Chocolate Chip Cookies: cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md
       - Traditional Italian Biscotti: cookies-and-bars/traditional-italian-biscotti.md
       - Twix: cookies-and-bars/twix.md
+      - Vanilla Bean Sables: cookies-and-bars/vanilla-bean-sables.md
       - Vanilla Wafers: cookies-and-bars/vanilla-wafers.md
       - Weight Watchers Double Oatmeal Cookies: cookies-and-bars/weight-watchers-double-oatmeal-cookies.md
       - White Chocolate Chip Macadamia Nut: cookies-and-bars/white-chocolate-chip-macadamia-nut.md
