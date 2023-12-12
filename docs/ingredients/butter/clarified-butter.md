@@ -71,6 +71,7 @@ quite a long time. While it can be stored at room temperature, a cool place is b
 next to the stove. For best results, store it in an opaque container with a tight-fitting lid, since prolonged exposure
 to light and oxygen can cause fats to become rancid.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.thespruceeats.com/how-to-make-clarified-butter-995451>
+- <https://youtu.be/C8ReU5s4i0k?si=yGh4r-SH6qFCDUcX>
