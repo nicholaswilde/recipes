@@ -15,7 +15,7 @@ tags:
 
 - :chocolate_bar: 1 large pkg chocolate instant pudding
 - :icecream: 1 8-oz pkg Cool Whip
-- :pie: 1 pkg puff pastry
+- :pie: 1 pkg [puff pastry][2]
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
@@ -36,7 +36,7 @@ To make the filling, combine chocolate instant pudding with Cool Whip.
 
 ### Step 3
 
-Cut puff pastry into 18 strips.
+Cut [puff pastry][2] into 18 strips.
 
 ### Step 4
 
@@ -63,3 +63,4 @@ Dust with confectioners' sugar.
 - Pampered Chef
 
 [1]: <../assets/images/cannoli.jpg>
+[2]: <../ingredients/pastry-dough/puff-pastry.md>
