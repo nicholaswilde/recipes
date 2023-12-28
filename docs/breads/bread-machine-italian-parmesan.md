@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - bread-machine
 ---
 # :bread: Bread Machine Italian Parmesan
 
