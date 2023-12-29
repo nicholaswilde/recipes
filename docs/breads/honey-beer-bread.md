@@ -18,7 +18,7 @@ tags:
 - :dash: 1 Tbsp baking powder
 - :salt: 1 tsp salt
 - :beer: 1 12-oz bottle beer
-- :honey_pot: 2 Tbsp honey
+- :honey_pot: 2 Tbsp (42 g) honey
 - :butter: 4 Tbsp (57 g) butter
 
 ## :cooking: Cookware
