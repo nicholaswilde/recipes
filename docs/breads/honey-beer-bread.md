@@ -13,13 +13,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 cups flour
+- :ear_of_rice: 3 cups (360 g) flour
 - :candy: 2 Tbsp sugar
 - :dash: 1 Tbsp baking powder
 - :salt: 1 tsp salt
 - :beer: 1 12-oz bottle beer
 - :honey_pot: 2 Tbsp honey
-- :butter: 4 Tbsp butter
+- :butter: 4 Tbsp (57 g) butter
 
 ## :cooking: Cookware
 
