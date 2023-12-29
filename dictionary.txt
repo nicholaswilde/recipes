@@ -737,3 +737,6 @@ Truffley
 Lofthouse
 Flourless
 flourless
+Chez
+Panisse
+chez-panisse
