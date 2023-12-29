@@ -3,7 +3,7 @@ comments: true
 tags:
   - holiday
 ---
-# :baguette_bread: Cannoli
+# :baguette_bread: Pampered Chef Cannoli
 
 ![Cannoli][1]{ loading=lazy }
 
@@ -62,5 +62,5 @@ Dust with confectioners' sugar.
 
 - Pampered Chef
 
-[1]: <../assets/images/cannoli.jpg>
+[1]: <../assets/images/pampered-chef-cannoli.jpg>
 [2]: <../ingredients/pastry-dough/puff-pastry.md>
