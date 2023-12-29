@@ -70,8 +70,9 @@ with sprinkles, if desired. Repeat with remaining cookies and enjoy immediately.
 temperature until frosting forms a crust, then transfer to an airtight container with a sheet of wax paper between each
 layer. Store up to 3 days at room temperature.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.seriouseats.com/soft-frosted-sugar-cookies-homemade-lofthouse>
+- <https://www.thepancakeprincess.com/2021/02/11/best-lofthouse-cookie-bake-off/>
 
 [1]: <../assets/images/lofthouse-cookies.png>
