@@ -740,3 +740,7 @@ flourless
 Chez
 Panisse
 chez-panisse
+panna
+Panna
+cotta
+Cotta
