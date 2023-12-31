@@ -4,7 +4,7 @@ tags:
   - oil-free
   - dressing
 ---
-# Roasted Red Pepper Dressing
+# :bell_pepper: Roasted Red Pepper Dressing
 
 ![Roasted Red Pepper Dressing][1]{ loading=lazy }
 
