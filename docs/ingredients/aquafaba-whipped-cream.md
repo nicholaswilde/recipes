@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :falafel: 0.75 cup [aquafaba][2]
+- :falafel: 0.75 cup (170 g) [aquafaba][2]
 - :rice: 0.25 tsp cream of tartar
 - :icecream: 1 Tbsp vanilla
 - :candy: 0.67 cup confectioners' sugar
