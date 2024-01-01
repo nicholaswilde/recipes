@@ -17,7 +17,7 @@ tags:
 - :falafel: 0.75 cup (170 g) [aquafaba][2]
 - :rice: 0.25 tsp cream of tartar
 - :icecream: 1 Tbsp vanilla
-- :candy: 0.67 cup confectioners' sugar
+- :candy: 0.67 cup (76 g) confectioners' sugar
 - :oil_drum: 2 Tbsp neutral oil
 
 ## :cooking: Cookware
