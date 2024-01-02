@@ -19,7 +19,7 @@ tags:
 - :salt: 1 Tbsp salt
 - :candy: 2 Tbsp sugar
 - :ear_of_rice: 4 cups (480 g) bread flour
-- :microbe: 2 tsp yeast
+- :microbe: 2.25 tsp (7 g) yeast
 
 ## :cooking: Cookware
 
