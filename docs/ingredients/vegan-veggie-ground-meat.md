@@ -2,8 +2,9 @@
 comments: true
 tags:
   - ingredient
+  - vegan
 ---
-# Vegan Veggie Ground Meat
+# :leafy_green: Vegan Veggie Ground Meat
 
 ![Vegan Veggie Ground Meat][1]{ loading=lazy }
 
@@ -13,20 +14,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 head cauliflower
-- 16 oz Portobello mushrooms or jackfruit
-- 2 medium carrots
-- 1 red onion
-- 3 cloves garlic
-- 1.5 cups walnuts
-- 3 Tbsp tomato paste
-- 2 Tbsp Italian seasoning
-- 1 Tbsp paprika
-- 2 tsp sage
-- 2 tsp garlic powder
-- 1 tsp thyme
-- 1 tsp oregano
-- 2 tsp cumin
+- :broccoli: 1 head cauliflower
+- :mushroom: 16 oz Portobello mushrooms or jackfruit
+- :carrot: 2 medium carrots
+- :onion: 1 red onion
+- :garlic: 3 cloves garlic
+- :chestnut: 1.5 cups walnuts
+- :tomato: 3 Tbsp tomato paste
+- :herb: 2 Tbsp Italian seasoning
+- :bell_pepper: 1 Tbsp paprika
+- :herb: 2 tsp sage
+- :garlic: 2 tsp garlic powder
+- :herb: 1 tsp thyme
+- :herb: 1 tsp oregano
+- :herb: 2 tsp cumin
 
 ## :cooking: Cookware
 
@@ -69,4 +70,3 @@ Add to your dish of choice. Enjoy!
 - <https://www.youtube.com/watch?v=lDuy_NqW_mQ>
 
 [1]: <../assets/images/vegan-veggie-ground-meat.jpg>
-
