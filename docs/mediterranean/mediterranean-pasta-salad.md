@@ -3,7 +3,7 @@ comments: true
 tags:
   - mediterranean
 ---
-# :salad_bowl: Mediterranean Pasta Salad
+# :green_salad: Mediterranean Pasta Salad
 
 ![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg){ loading=lazy }
 
