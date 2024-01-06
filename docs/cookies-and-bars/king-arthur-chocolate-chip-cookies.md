@@ -5,7 +5,7 @@ tags:
   - recipe-of-the-year
   - dessert
 ---
-# King Arthur Chocolate Chip Cookies
+# :cookie: King Arthur Chocolate Chip Cookies
 
 ![King Arthur Chocolate Chip Cookies][1]{ loading=lazy }
 
@@ -15,16 +15,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 426 g light brown sugar
-- 2 tsp salt
-- 226 g unsalted butter
-- 113 g whole milk
-- 330 g bread flour
-- 2 large eggs
-- 1 Tbsp vanilla
-- 1.75 tsp baking powder
-- 0.25 tsp baking soda
-- 340 g semisweet chocolate
+- :maple_leaf: 426 g light brown sugar
+- :salt: 2 tsp salt
+- :butter:  226 g unsalted butter
+- :glass_of_milk: 113 g whole milk
+- :ear_of_rice: 330 g bread flour
+- :egg: 2 large eggs
+- :icecream: 1 Tbsp vanilla
+- :dash: 1.75 tsp baking powder
+- :cup_with_straw: 0.25 tsp baking soda
+- :chocolate_bar: 340 g semisweet chocolate
 
 ## :cooking: Cookware
 
