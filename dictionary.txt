@@ -746,3 +746,8 @@ cotta
 Cotta
 Galette
 jackfruit
+galette
+rois
+Rois
+des
+caramelization
