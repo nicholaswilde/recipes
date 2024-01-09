@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :candy: 1.25 cups granulated sugar
-- :chestnut: 200 g almond paste
+- :chestnut: 200 g [almond paste][2]
 - :butter: 1 cup unsalted butter
 - :icecream: 1 tsp vanilla
 - :egg: 6 eggs
@@ -33,10 +33,10 @@ tags:
 
 ### Step 1
 
-Preheat the oven to 325°F. Beat the granulated sugar with the almond paste until the almond paste is in fine pieces.
-Or, better, pulverize it in a food processor. Beat in the unsalted butter and the vanilla, then cream the mixture until
-it is light and fluffy. Beat in the whole eggs, one at a time - the eggs should be at room temperature - beating well
-after each addition so the eggs are thoroughly mixed in.
+Preheat the oven to 325°F. Beat the granulated sugar with the [almond paste][2] until the almond paste is in fine
+pieces. Or, better, pulverize it in a food processor. Beat in the unsalted butter and the vanilla, then cream the
+mixture until it is light and fluffy. Beat in the whole eggs, one at a time - the eggs should be at room temperature -
+beating well after each addition so the eggs are thoroughly mixed in.
 
 ### Step 2
 
@@ -57,3 +57,4 @@ Let cool for about 20 minutes before releasing the sides of the springform pan. 
 - <https://alexandracooks.com/2012/12/14/chez-panisse-almond-torte/>
 
 [1]: <../../assets/images/chez-panisse-almond-torte.jpg>
+[2]: <../ingredients/almond-paste.md>
