@@ -57,4 +57,4 @@ Let cool for about 20 minutes before releasing the sides of the springform pan. 
 - <https://alexandracooks.com/2012/12/14/chez-panisse-almond-torte/>
 
 [1]: <../../assets/images/chez-panisse-almond-torte.jpg>
-[2]: <../ingredients/almond-paste.md>
+[2]: <../../ingredients/almond-paste.md>
