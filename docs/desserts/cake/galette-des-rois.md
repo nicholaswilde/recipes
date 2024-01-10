@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
 ---
-# Galette des Rois
+# :crown: Galette des Rois
 
 ![Galette des Rois][1]{ loading=lazy }
 
@@ -12,24 +12,30 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.08 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Crust
 
-- 180 g all-purpose flour
-- 0.5 tsp salt
-- 0.5 tsp baking powder
-- 227 g unsalted butter
-- 113 g sour cream
-- 170 g almond paste
-- 85 g unsalted butter
-- 99 g granulated sugar
-- 1 tsp salt
-- 2 large egg yolks
-- 1 tsp vanilla
-- 40 g all-purpose flour
-- 48 g almond flour
-- 1 large egg yolk
-- 1 tsp cold water
-- some syrup (optional)
+- :ear_of_rice: 180 g all-purpose flour
+- :salt: 0.5 tsp salt
+- :dash: 0.5 tsp baking powder
+- :butter: 227 g unsalted butter
+- :rice: 113 g sour cream
+
+## :salt: Ingredients - Filling
+
+- :chestnut: 170 g [almond paste][2]
+- :butter: 85 g unsalted butter
+- :candy: 99 g granulated sugar
+- :salt: 1 tsp salt
+- :egg: 2 large egg yolks
+- :icecream: 1 tsp vanilla
+- :ear_of_rice: 40 g all-purpose flour
+- :chestnut: 48 g almond flour
+
+## :salt: Ingredients - Glaze
+
+- :egg: 1 large egg yolk
+- :droplet: 1 tsp cold water
+- :maple_leaf: some syrup (optional)
 
 ## :cooking: Cookware
 
@@ -37,11 +43,11 @@ tags:
 - 1 baking sheet
 - 1 fork
 
-## :pencil: Instructions
+## :pencil: Instructions - Crust
 
 ### Step 1
 
-To make the crust: Weigh your all-purpose flour; or measure it by gently spooning it into a cup, then sweeping off any
+Weigh your all-purpose flour; or measure it by gently spooning it into a cup, then sweeping off any
 excess. Whisk together the flour, salt, and baking powder. Cut the cold unsalted butter into pats, and work it into the
 flour mixture until it's unevenly crumbly, with larger bits of butter remaining intact.
 
@@ -77,9 +83,11 @@ Divide the pastry in half. Roll one half into a 10" square.
 
 Using a 10" round template (e.g., a dinner plate), cut a 10" circle. Set the circle onto the prepared baking sheet.
 
+## :pencil: Instructions - Filling
+
 ### Step 9
 
-To make the filling: Beat the almond paste, unsalted butter, granulated sugar, and salt until thoroughly combined.
+Beat the [almond paste][2], unsalted butter, granulated sugar, and salt until thoroughly combined.
 
 ### Step 10
 
@@ -97,9 +105,11 @@ Roll the other piece of pastry into an 11" square. Cut an 11" circle.
 
 To assemble the galette: Spread the filling over the smaller circle, leaving a 1" rim around the edge of the pastry.
 
+## :pencil: Instructions - Glaze
+
 ### Step 14
 
-To make the glaze: Mix the egg yolk and cold water together. Brush some glaze over the uncovered edge of the pastry.
+Mix the egg yolk and cold water together. Brush some glaze over the uncovered edge of the pastry.
 
 ### Step 15
 
@@ -138,4 +148,4 @@ storage.
 - <https://www.kingarthurbaking.com/recipes/king-arthurs-almond-galette-recipe>
 
 [1]: <../../assets/images/galette-des-rois.jpg>
-
+[2]: <../../ingredients/almond-paste.md>
