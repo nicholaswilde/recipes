@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients - Cake
 
 - :ear_of_rice: 313 g all-purpose flour
-- :glass_with_straw: 0.75 tsp baking soda
+- :cup_with_straw: 0.75 tsp baking soda
 - :salt: 0.5 tsp salt
 - :egg: 4 large eggs
 - :candy: 300 g granulated sugar
