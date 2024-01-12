@@ -3,7 +3,7 @@ comments: true
 ---
 # :thermometer: Temperatures
 
-## Miscellaneous
+## :beginner: Miscellaneous
 
 | :thermometer: Temperature °F  | Description             | Notes                       |
 |-------------------------------|-------------------------|-----------------------------|
