@@ -69,12 +69,12 @@ the mixture becomes pale and fluffy, which should take about 5 minutes.
 ### Step 5
 
 With the mixer running on low speed, slowly add the canola oil and then the unsalted butter, being sure to combine
-thoroughly. 
+thoroughly.
 
 ### Step 6
 
-Add a third of the flour mixture and then 1/2 of the orange juice to the batter, mixing slowly. Alternate until 
-all dry and wet ingredients are incporated, ending with the dry. Take care not to overmix and do the final
+Add a third of the flour mixture and then 1/2 of the orange juice to the batter, mixing slowly. Alternate until
+all dry and wet ingredients are incorporated, ending with the dry. Take care not to overmix and do the final
 mix by hand with a spatula.
 
 !!! note
