@@ -5,6 +5,8 @@ tags:
 ---
 # :rice: Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
+![Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs][1]{ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 29 minutes |
@@ -73,3 +75,5 @@ broil until tender, 8 to 10 minutes, rotating occasionally.
 ### Step 7
 
 Serve with a scoop of lentil and rice mix, kebabs, sauce, and sprinkle of feta.
+
+[1]: <../assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.jpg>
