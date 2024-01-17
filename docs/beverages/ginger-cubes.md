@@ -5,6 +5,8 @@ tags:
 ---
 # :ice_cube: Ginger Cubes
 
+![Ginger Cubes][1]{ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 5 minutes |
@@ -43,3 +45,5 @@ Take them out and place in zip look bags and grab on every evening together with
 ## :link: Source
 
 - Applied Lisa
+
+[1]: <../assets/images/ginger-cubes.jpg>
