@@ -13,7 +13,7 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.25 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Cake
 
 - :ear_of_rice: 405 g all-purpose flour
 - :dash: 2.5 tsp baking powder
@@ -25,7 +25,13 @@ tags:
 - :lemon: 2 Meyer lemon zest
 - :candy: 479 g granulated sugar
 - :egg: 4 large eggs
-- :olive: 292 g olive oil
+- :olive: 267 g olive oil
+
+## :salt: Ingredients - Glaze
+
+- :candy: 132 g granulated sugar
+- :lemon: 114 g Meyer lemon juice
+- :olive: 25 g olive oil
 
 ## :cooking: Cookware
 
@@ -91,7 +97,8 @@ Pour batter into prepared pan. Don't need to level out the batter because it is 
 
 ### Step 11
 
-Bake the cake for 45 to 55 minutes until a cake tester comes out clean when used from the top of the cake.
+Bake the cake for 45 to 55 minutes until a cake tester comes out clean when used from the top of the cake. Rotate
+the cake halfway through baking.
 
 ### Step 12
 
