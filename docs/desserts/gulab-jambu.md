@@ -84,5 +84,5 @@ container for a few hours and eat chilled.
 
 - <https://www.thekitchn.com/gulab-jambu-pooja-bavishi-23436759>
 
-[1]: <../ingredients/butter/clarified-butter.md>
+[1]: <../ingredients/butter/ghee.md>
 [2]: <../ingredients/bisquick.md>
