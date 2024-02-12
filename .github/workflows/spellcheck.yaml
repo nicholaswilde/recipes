@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
       - name: Setup npm
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
       - name: Setup spellchecker
         run: npm install spellchecker-cli
       - name: Run spellcheck
