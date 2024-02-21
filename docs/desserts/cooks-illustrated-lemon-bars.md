@@ -44,7 +44,7 @@ tags:
 
 ### Step 1
 
-FOR THE CRUST: Adjust oven rack to middle position and heat oven to 350°F. Make foil sling for 8 inch square baking pan
+Adjust oven rack to middle position and heat oven to 350°F. Make foil sling for 8 inch square baking pan
 by folding 2 long sheets of aluminum foil so each is 8 inches wide. Lay sheets of foil in pan perpendicular to each
 other, with extra foil hanging over edges of pan. Push foil into corners and up sides of pan, smoothing foil flush to
 pan.
