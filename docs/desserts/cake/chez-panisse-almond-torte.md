@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1.25 cups granulated sugar
+- :candy: 1.25 (248 g) cups granulated sugar
 - :chestnut: 200 g [almond paste][2]
 - :butter: 1 cup unsalted butter
 - :icecream: 1 tsp vanilla
