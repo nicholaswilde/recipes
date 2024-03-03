@@ -17,7 +17,7 @@ tags:
 
 - :ear_of_rice: 313 g all-purpose flour
 - :dash: 2 tsp baking powder
-- :glass_with_straw: 0.75 tsp baking soda
+- :cup_with_straw: 0.75 tsp baking soda
 - :salt: 0.5 tsp salt
 - :custard: 2 tsp cinnamon
 - :chestnut: 0.5 tsp nutmeg
