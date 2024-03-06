@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 1.5 cups blanched almonds
+- :chestnut: 1.5 cups [blanched almonds][2]
 - :herb: 0.25 tsp dulse flakes or granules
 - :lemon: 2 Tbsp lemon juice
 - :salt: 1 tsp salt
@@ -28,7 +28,7 @@ tags:
 
 ### Step 1
 
-Place the blanched almonds in a large, dry nonstick or cast-iron pan.
+Place the [blanched almonds][2] in a large, dry nonstick or cast-iron pan.
 
 ### Step 2
 
@@ -60,3 +60,4 @@ Store in an airtight jar for up to 1 week.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/almond-cotija.jpg>
+[2]: <./blanched-almonds.md>
