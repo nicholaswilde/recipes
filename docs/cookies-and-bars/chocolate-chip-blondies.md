@@ -4,6 +4,7 @@ tags:
   - bar
   - dessert
   - broma-bakery
+  - bake-off
 ---
 # :cookie: Chocolate Chip Blondies
 
