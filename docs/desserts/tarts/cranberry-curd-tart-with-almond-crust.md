@@ -24,7 +24,7 @@ tags:
 
 ## :salt: Ingredients - Crust
 
-- :chestnut: 4 oz almond flour
+- :chestnut: 4 oz [almond flour][2]
 - :corn: 2 oz cornstarch
 - :candy: 2.33 oz granulated sugar
 - :salt: 0.5 tsp salt
@@ -62,7 +62,7 @@ bowl until skin forms and mixture registers 120 to 125°F, 45 minutes to 1 hour.
 
 ### Step 2
 
-Adjust oven rack to middle position and heat oven to 350°F. Whisk almond flour, cornstarch, granulated sugar, and salt
+Adjust oven rack to middle position and heat oven to 350°F. Whisk [almond flour][2], cornstarch, granulated sugar, and salt
 in bowl until well combined. Add melted butter and almond extract and stir with wooden spoon until uniform dough forms.
 Crumble two-thirds of mixture over bottom of 9 inch tart pan with removable bottom. Press dough to even thickness in
 bottom of pan. Crumble remaining dough and scatter evenly around edge of pan. Press crumbled dough into sides of pan.
@@ -87,3 +87,4 @@ decorative border around edge of tart. Transfer any remaining whipped cream to s
 - Cook's Illustrated
 
 [1]: <../../assets/images/cranberry-curd-tart-with-almond-crust.jpg>
+[2]: <../../ingredients/almond-flour.md>
