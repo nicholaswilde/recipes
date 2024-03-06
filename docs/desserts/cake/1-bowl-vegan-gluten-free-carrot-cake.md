@@ -96,4 +96,4 @@ freezer for several weeks. However, it's best when eaten fresh.
 - <https://minimalistbaker.com/1-bowl-vegan-gluten-free-carrot-cake/>
 
 [1]: <../../ingredients/brown-sugar.md>
-[2]: <../ingredients/almond-flour.md>
+[2]: <../../ingredients/almond-flour.md>
