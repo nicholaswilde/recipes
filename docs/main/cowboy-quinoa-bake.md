@@ -45,4 +45,4 @@ Cream and Cilantro, if desired and serve.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/cowboy-quinoa-bake>
+- Trader Joe's
