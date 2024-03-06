@@ -29,7 +29,7 @@ tags:
 - :custard: 1 tsp cinnamon
 - :chestnut: 1 cup almond milk
 - :carrot: 1.5 cup grated carrot
-- :ear_of_rice: 1.5 cup almond flour
+- :ear_of_rice: 1.5 cup [almond flour][2]
 - :chestnut: 0.75 cup walnuts
 - :ear_of_rice: 1.5 cup gluten-free flour blend
 
@@ -54,8 +54,8 @@ and cinnamon and whisk to combine.
 ### Step 3
 
 Add lesser amount of almond milk (3/4 cup or 180 ml as original recipe is written // adjust if altering batch size) and
-stir. Add grated carrot and stir. Then add almond flour and gluten-free flour blend and stir. The batter should be thick
-but pourable. If too thick, add remaining almond milk 1/4 cup or 60 ml as original recipe is written // adjust if
+stir. Add grated carrot and stir. Then add [almond flour][2] and gluten-free flour blend and stir. The batter should be
+thick but pourable. If too thick, add remaining almond milk 1/4 cup or 60 ml as original recipe is written // adjust if
 altering batch size). If adding chopped walnuts, add at this time and stir.
 
 ### Step 4
@@ -96,3 +96,4 @@ freezer for several weeks. However, it's best when eaten fresh.
 - <https://minimalistbaker.com/1-bowl-vegan-gluten-free-carrot-cake/>
 
 [1]: <../../ingredients/brown-sugar.md>
+[2]: <../ingredients/almond-flour.md>
