@@ -6,7 +6,7 @@ tags:
 ---
 # :cookie: Double Chocolate Mint Paleo Cookies
 
-![Double Chocolate Mint Paleo Cookies](../assets/images/double-chocolate-mint-paleo-cookies.jpg){ loading=lazy }
+![Double Chocolate Mint Paleo Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -21,7 +21,7 @@ tags:
 - :egg: 1 egg
 - :icecream: 1 tsp vanilla
 - :candy: 0.75 tsp peppermint extract
-- :ear_of_rice: 1 cup almond flour
+- :ear_of_rice: 1 cup [almond flour][2]
 - :ear_of_rice: 0.33 cup coconut flour
 - :chocolate_bar: 0.33 cup cocoa powder
 - :salt: 0.25 tsp salt
@@ -53,7 +53,7 @@ Whisk in egg and then add in vanilla and peppermint extract.
 
 ### Step 4
 
-In a large bowl, mix almond flour, coconut flour, cocoa powder, salt, and baking soda.
+In a large bowl, mix [almond flour][2], coconut flour, cocoa powder, salt, and baking soda.
 
 ### Step 5
 
@@ -91,3 +91,6 @@ Let set and store at room temperature for up to one week.
 ## :link: Source
 
 - <https://www.erinliveswhole.com/paleo-double-chocolate-mint-cookies/>
+
+[1]: <../assets/images/double-chocolate-mint-paleo-cookies.jpg>
+[2]: <../ingredients/almond-flour.md>
