@@ -12,7 +12,7 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 1.58 hours |
+| 12 | 1.58 hours |
 
 ## :salt: Ingredients
 
