@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
   - chez-panisse
+  - favorite
 ---
 # :chestnut: Chez Panisse Almond Torte
 
