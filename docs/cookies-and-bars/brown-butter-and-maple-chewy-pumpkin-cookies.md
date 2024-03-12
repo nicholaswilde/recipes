@@ -2,7 +2,7 @@
 comments: true
 tags:
   - cookie
-  - cupcake-princess
+  - bake-off
   - dessert
 ---
 # :jack_o_lantern: Brown Butter and Maple Chewy Pumpkin Cookies
