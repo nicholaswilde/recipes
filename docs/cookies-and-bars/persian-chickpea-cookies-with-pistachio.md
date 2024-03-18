@@ -5,7 +5,7 @@ tags:
   - dessert
   - persian
 ---
-# :falafel: Persian Chickpea cookies with Pistachio
+# :falafel: Persian Chickpea Cookies with Pistachio
 
 ![Persian Chickpea cookies with Pistachio][1]{ loading=lazy }
 
@@ -19,7 +19,7 @@ tags:
 - :candy: 0.75 cup confectioners' sugar
 - :herb: 1 tsp ground cardamom
 - :rose: 0.5 Tbsp rose water
-- :ear_of_rice: 149 g chickpea flour
+- :ear_of_rice: 149 g [chickpea flour][2]
 - :chestnut: 3 Tbsp pistachios
 
 ## :cooking: Cookware
@@ -41,7 +41,7 @@ medium for 2 to 3 minutes until light and creamy.
 
 ### Step 2
 
-Sift chickpea flour into the bowl and beat on low for 1 minute until the dough is no longer sticky.
+Sift [chickpea flour][2] into the bowl and beat on low for 1 minute until the dough is no longer sticky.
 
 ### Step 3
 
@@ -80,3 +80,4 @@ completely. Be careful when you transfer the cookies as they crumble very easily
 - <https://www.aheadofthyme.com/2017/03/nan-e-nokhodchi-persian-chickpea-cookies/>
 
 [1]: <../assets/images/persian-chickpea-cookies-with-pistachio.jpg>
+[2]: <../ingredients/chickpea-flour.md>
