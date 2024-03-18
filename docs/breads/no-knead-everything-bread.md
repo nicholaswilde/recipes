@@ -18,7 +18,7 @@ tags:
 - :droplet: 510 g cool water
 - :microbe: 0.5 tsp instant yeast
 - :salt: 12 g salt
-- :bagel: 18 g Everything Bagel Topping
+- :bagel: 18 g [Everything Bagel Topping][2]
 - :olive: 25 g olive oil
 - :bagel: 1 Tbsp Everything Bagel Topping
 
@@ -33,8 +33,8 @@ tags:
 ### Step 1
 
 Weigh your bread flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Mix the cool
-water, instant yeast, salt, Everything Bagel Topping, and olive oil in a large bowl to make a sticky dough. Or beat in a
-stand mixer for 3 minutes.
+water, instant yeast, salt, [Everything Bagel Topping][2], and olive oil in a large bowl to make a sticky dough. Or
+beat in a stand mixer for 3 minutes.
 
 ### Step 2
 
@@ -62,9 +62,9 @@ finger.
 
 ### Step 7
 
-Just before baking, spritz or brush the dough with water and sprinkle with about 1 tablespoon Everything Bagel Topping
-over the dough. Using kitchen scissors, make several 1/2" deep cuts in a decorative pattern on the top of the dough to
-allow the bread to expand.
+Just before baking, spritz or brush the dough with water and sprinkle with about 1 tablespoon
+[Everything Bagel Topping][2] over the dough. Using kitchen scissors, make several 1/2" deep cuts in a decorative
+pattern on the top of the dough to allow the bread to expand.
 
 ### Step 8
 
@@ -91,3 +91,4 @@ post, Freezing no-knead bread dough, for details.
 - <https://youtu.be/0FhiJr6WCGI?si=BqYFNKnHrP-mtsrY>
 
 [1]: <../assets/images/no-knead-everything-bread.jpg>
+[2]: <../ingredients/seasonings/everything-bagel.md>
