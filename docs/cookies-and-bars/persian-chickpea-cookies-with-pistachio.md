@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :oil_drum: 0.5 cup vegetable oil
-- :candy: 0.75 cup confectioners' sugar
+- :candy: 0.75 cup (85 g) confectioners' sugar
 - :herb: 1 tsp ground cardamom
 - :rose: 0.5 Tbsp rose water
 - :ear_of_rice: 149 g [chickpea flour][2]
