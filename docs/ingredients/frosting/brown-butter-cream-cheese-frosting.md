@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 113 g unsalted butter
+- :butter: 227 g unsalted butter
 - :cheese_wedge: 16 oz cream cheese
 - :icecream: 1 vanilla bean
 - :salt: 1 pinch kosher salt
