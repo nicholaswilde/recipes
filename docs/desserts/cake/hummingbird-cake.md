@@ -16,7 +16,7 @@ tags:
 
 | :fork_and_knife_with_plate: Layers |
 |:----------------------------------:|
-| 3 Layers |
+| 3 Tiers |
 
 - :chestnut: 250 g pecans
 - :ear_of_rice: 375 g all-purpose flour
@@ -35,7 +35,7 @@ tags:
 
 | :fork_and_knife_with_plate: Layers |
 |:----------------------------------:|
-| 2 Layers |
+| 2 Tiers |
 
 - :chestnut: 167 g pecans
 - :ear_of_rice: 250 g all-purpose flour
@@ -56,7 +56,7 @@ tags:
 
 | :fork_and_knife_with_plate: Layers |
 |:----------------------------------:|
-| 3 Layers |
+| 3 Tiers |
 
 - :cheese_wedge: 16 oz cream cheese
 - :butter: 113 g unsalted butter
@@ -66,7 +66,7 @@ tags:
 
 | :fork_and_knife_with_plate: Layers |
 |:----------------------------------:|
-| 2 Layers |
+| 2 Tiers |
 
 - :cheese_wedge: 303 g cream cheese
 - :butter: 75 g unsalted butter
