@@ -49,6 +49,11 @@ by folding 2 long sheets of aluminum foil so each is 8 inches wide. Lay sheets o
 other, with extra foil hanging over edges of pan. Push foil into corners and up sides of pan, smoothing foil flush to
 pan.
 
+!!! note
+
+    Do not use an aluminum pan because the acid from the lemon juice can react with the aluminum, leaving a metallic
+    taste.
+
 ### Step 2
 
 Whisk all-purpose flour, granulated sugar, and salt together in bowl. Add melted unsalted butter and stir until
@@ -59,13 +64,17 @@ crust until dark golden brown, 19 to 24 minutes, rotating pan halfway through ba
 
 ### Step 3
 
-While crust bakes, whisk granulated sugar, all-purpose flour, cream of tartar, and salt together in
-now-empty bowl. Whisk in eggs and egg yolks until no streaks of egg remain. Whisk in lemon zest and lemon juice (4
+Massage the granulated sugar with the lemon zest unitl fragrant. 
+
+### Step 4
+
+While crust bakes, whisk granulated sugar and lemon zest mixture, all-purpose flour, cream of tartar, and salt
+together in now-empty bowl. Whisk in eggs and egg yolks until no streaks of egg remain. Whisk in lemon juice (4
 lemons). Transfer mixture to saucepan and cook over medium-low heat, stirring constantly, until mixture thickens and
 registers 160°F, about 5 to 8 minutes. Off heat, stir in unsalted butter cut into 8 pieces. Strain filling through
 fine-mesh strainer set over bowl.
 
-### Step 4
+### Step 5
 
 Pour filling over hot crust and tilt pan to spread evenly. Bake until filling is set and barely jiggles when pan is
 shaken, 8 to 12 minutes. (Filling around perimeter of pan may be slightly raised.) Let bars cool completely, at least
