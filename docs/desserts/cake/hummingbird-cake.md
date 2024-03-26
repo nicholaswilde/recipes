@@ -143,6 +143,10 @@ sugar, vanilla, and a pinch of salt. Beat on low speed for 30 seconds, then incr
 minutes until completely combined and creamy. Add more confectioner's sugar if frosting is too thin, a little milk if
 frosting is too thick, or an extra pinch of salt if frosting is too sweet. Frosting should be soft, but not runny.
 
+!!! note
+
+    [Brown Butter Cream Cheese Frosting][2] may be used instead of this frosting. Use a half serving for a 2 tiered cake.
+
 ### Step 13
 
 First, using a large serrated knife or cake leveler, layer off the tops of the cakes to create a
@@ -160,3 +164,4 @@ Cover leftover frosted cake tightly and store in the refrigerator for up to 5 da
 - <https://sallysbakingaddiction.com/hummingbird-cake/>
 
 [1]: <../../assets/images/hummingbird-cake.jpg>
+[2]: <../../ingredients/frosting/brown-butter-cream-cheese-frosting.md>
