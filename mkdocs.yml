@@ -3,7 +3,7 @@ site_name: Recipes
 site_description: A collection of my recipes.
 site_author: Nicholas Wilde
 site_url: https://nicholaswilde.io/recipes
-copyright: Copyright &copy; 2023 Nicholas Wilde
+copyright: Copyright &copy; 2024 Nicholas Wilde
 dev_addr: '0.0.0.0:8000'
 
 repo_url: https://github.com/nicholaswilde/recipes
