@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Vegetables
 
-- 5.33 small sweet potatoes
+- :sweet_potato: 5.33 small sweet potatoes
 - :onion: 1.33 medium red onions
 - :olive: 5.33 Tbsp olive oil
 - :broccoli: 2.67 bundles broccolini
