@@ -64,7 +64,7 @@ crust until dark golden brown, 19 to 24 minutes, rotating pan halfway through ba
 
 ### Step 3
 
-Massage the granulated sugar with the lemon zest unitl fragrant. 
+Massage the granulated sugar with the lemon zest until fragrant.
 
 ### Step 4
 
