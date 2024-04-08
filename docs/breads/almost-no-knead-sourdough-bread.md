@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - cooks-illustrated
+  - sourdough
 ---
 # :bread: Almost No-Knead Sourdough Bread
 
