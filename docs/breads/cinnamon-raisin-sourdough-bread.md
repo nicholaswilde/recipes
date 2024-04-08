@@ -14,14 +14,14 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- 360 g all-purpose flour
-- 113 g [sourdough starter][2]
-- 2.5 tsp instant yeast
-- 1 Tbsp granulated sugar
-- 8 g salt
-- 1 large egg
-- 71 g unsalted butter
-- 152 g water
+- :ear_of_rice: 360 g all-purpose flour
+- :microbe: 113 g [sourdough starter][2]
+- :microbe: 2.5 tsp instant yeast
+- :candy: 1 Tbsp granulated sugar
+- :salt: 8 g salt
+- :egg: 1 large egg
+- :butter: 71 g unsalted butter
+- :droplet: 152 g water
 
 ## :salt: Ingredients - Filling
 
@@ -29,25 +29,25 @@ tags:
 |:----------------------------------:|
 | 1 |
 
-- 50 g granulated sugar
-- 1.5 tsp cinnamon
-- 2 tsp all-purpose flour
-- 1 egg
-- 1 Tbsp water
-- 74 g raisins
-- some unsalted butter (optional)
+- :candy: 50 g granulated sugar
+- :custard: 1.5 tsp cinnamon
+- :ear_of_rice: 2 tsp all-purpose flour
+- :egg: 1 egg
+- :droplet: 1 Tbsp water
+- :grapes: 74 g raisins
+- :butter: some unsalted butter (optional)
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
 | 2 |
 
-- 100 g granulated sugar
-- 3 tsp cinnamon
-- 4 tsp all-purpose flour
-- 1 egg
-- 1 Tbsp water
-- 148 g raisins
-- some unsalted butter (optional)
+- :candy: 100 g granulated sugar
+- :custard: 3 tsp cinnamon
+- :ear_of_rice: 4 tsp all-purpose flour
+- :egg: 1 egg
+- :droplet: 1 Tbsp water
+- :grapes: 148 g raisins
+- :butter: some unsalted butter (optional)
 
 ## :cooking: Cookware
 
