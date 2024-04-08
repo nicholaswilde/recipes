@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - quick-bread
 ---
 # :lemon: Lemon Blueberry Bread
 
