@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - quick-bread
 ---
 # :bread: Cranberry Orange Bread
 

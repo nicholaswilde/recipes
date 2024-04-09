@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - quick-bread
 ---
 # :corn: Honey Cornbread
 
