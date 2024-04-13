@@ -5,7 +5,7 @@ tags:
   - king-arthur
   - sourdough
 ---
-# :baguette: Overnight Sourdough Baguettes
+# :baguette_bread: Overnight Sourdough Baguettes
 
 ![Overnight Sourdough Baguettes][1]{ loading=lazy }
 
