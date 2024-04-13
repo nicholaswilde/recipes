@@ -19,6 +19,10 @@ alias e='micro'
 alias gpo='git push origin main'
 ```
 
+## :point_right:&nbsp; Up Next
+
+See [this link](https://github.com/nicholaswilde/recipes/issues/1028) for a list up recipes to make next.
+
 ## :frame_with_picture:&nbsp; Background
 
 This collection is a consolidation of recipes from many different sources to make it easier to reference in one
