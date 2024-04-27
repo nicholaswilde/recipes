@@ -108,4 +108,4 @@ a wire rack to finish cooling completely.
 
 ## :link: Source
 
-- <https://www.tasteofhome.com/article/pumpkin-cheesecake-cookies-recipe/>
+- Taste of Home
