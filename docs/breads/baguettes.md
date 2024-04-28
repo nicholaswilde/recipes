@@ -127,5 +127,6 @@ just before serving.
 ## :link: Sources
 
 - <https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe>
+- <https://www.youtube.com/watch?v=a8l5Qi43U3c>
 
 [1]: <../assets/images/baguettes.jpg>
