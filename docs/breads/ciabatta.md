@@ -104,8 +104,9 @@ and let the loaves cool completely in the oven.
 
 Dust the loaves generously with flour.
 
-## :link: Source
+## :link: Sources
 
 - The King Arthur Baking Company All-Purpose Baker's Companion
+- <https://www.youtube.com/watch?v=bRGHpCNl72o>
 
 [1]: <../assets/images/ciabatta.jpg>
