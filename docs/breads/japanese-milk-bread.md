@@ -72,32 +72,37 @@ and 175 g.
 
 ### Step 7
 
+Round each piece of dough into a rough ball by pulling the edges into the center. Cover with greased plastic wrap, and
+let rest for 15 minutes; or for up to 1 hour, if that works better with your schedule.
+
+### Step 8
+
 Flatten each piece of dough into a 5" x 8" rectangle, then fold the short ends in towards one another like a letter.
 Flatten the folded pieces into rectangles again (this time about 3" x 6") and, starting with a short end, roll them each
 into a 4" log.
 
-### Step 8
+### Step 9
 
 Place the logs in a row of four — seam side down and side by side — in a lightly greased 9" x 5" loaf pan.
 
-### Step 9
+### Step 10
 
 Cover the loaf and allow it to rest/rise for 40 to 50 minutes, until puffy.
 
-### Step 10
+### Step 11
 
 Towards the end of the rising time, preheat the oven to 350°F.
 
-### Step 11
+### Step 12
 
 To bake the bread: Brush the loaf with milk and bake it for 30 to 35 minutes, until it's golden brown on top and a
 digital thermometer inserted into the center reads at least 190°F.
 
-### Step 12
+### Step 13
 
 Remove the loaf from the oven and cool it in the pan until you can transfer it safely to a rack to cool completely.
 
-### Step 13
+### Step 14
 
 Store leftover bread, well wrapped, at cool room temperature for 5 to 7 days; freeze for longer storage.
 
