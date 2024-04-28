@@ -124,8 +124,9 @@ them from the oven and cool them on a rack. Or, for the very crispiest baguettes
 Storage information: Store any leftover baguettes in a paper bag overnight; freeze for longer storage. Thaw and reheat
 just before serving.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe>
+- <https://www.youtube.com/watch?v=bRGHpCNl72o>
 
 [1]: <../assets/images/baguettes.jpg>
