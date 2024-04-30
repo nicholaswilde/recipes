@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# America's Test Kitchen Best Baked Potatoes
+# :potato: America's Test Kitchen Best Baked Potatoes
 
 ![America's Test Kitchen Best Baked Potatoes][1]{ loading=lazy }
 
@@ -12,8 +12,8 @@ comments: true
 ## :salt: Ingredients
 
 - 4 russet potatoes
-- 2 Tbsps salt
-- 0.5 cup water
+- :salt: 2 Tbsps salt
+- :droplet: 0.5 cup water
 - 1 Tbsp vegetable oil
 - 4 oz goat cheese
 - 2 Tbsp olive oil
