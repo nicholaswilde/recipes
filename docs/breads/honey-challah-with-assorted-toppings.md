@@ -46,7 +46,7 @@ tags:
 
 ### Step 1
 
-Add the yeast, granulated sugar and 38 g cup lukewarm water to a bowl and rest for a few minutes until the yeast starts
+Add the yeast, granulated sugar and 38 g lukewarm water to a bowl and rest for a few minutes until the yeast starts
 to bloom. Add the honey, salt, 41 g vegetable oil and egg and mix to incorporate. Stir in 114 g of lukewarm water.
 
 ### Step 2
