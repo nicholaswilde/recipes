@@ -11,15 +11,15 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 russet potatoes
+- :potato: 4 russet potatoes
 - :salt: 2 Tbsps salt
 - :droplet: 0.5 cup water
-- 1 Tbsp vegetable oil
-- 4 oz goat cheese
-- 2 Tbsp olive oil
-- 2 Tbsp parsley
-- 1 Tbsp shallots
-- 0.5 tsp lemon zest
+- :oil_drum: 1 Tbsp vegetable oil
+- :cheese_wedge: 4 oz goat cheese
+- :olive: 2 Tbsp olive oil
+- :herb: 2 Tbsp parsley
+- :garlic: 1 Tbsp shallots
+- :lemon: 0.5 tsp lemon zest
 
 ## :cooking: Cookware
 
