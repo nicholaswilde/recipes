@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# America's Test Kitchen Best Baked Sweet Potatoes
+# :sweet_potato: America's Test Kitchen Best Baked Sweet Potatoes
 
 ![America's Test Kitchen Best Baked Sweet Potatoes][1]{ loading=lazy }
 
@@ -11,7 +11,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 sweet potatoes
+- :sweet_potato: 4 sweet potatoes
 
 ## :cooking: Cookware
 
