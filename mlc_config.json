@@ -38,6 +38,9 @@
       },
       {
         "pattern": "^https://www.quakeroats.com/cooking-and-recipes/apricot-honey-oatmeal"
+      },
+      {
+        "pattern": "^https://www.thekitchn.com/challah-recipe-reviews-22969552"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429, 405, 520]
