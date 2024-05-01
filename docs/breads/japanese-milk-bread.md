@@ -12,6 +12,12 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 1 loaf | 3.25 hours |
 
+## :balance_scale: Ratios
+
+| :ear_of_rice: flour | :droplet: water | :glass_of_milk: milk | 
+|:-------------------:|:---------------:|:--------------------:|
+|        1 part       |      3 parts    |        3 parts       |
+
 ## :salt: Ingredients - Tangzhong
 
 - :droplet: 43 g water
