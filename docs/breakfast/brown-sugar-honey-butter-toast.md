@@ -18,7 +18,7 @@ tags:
 - :maple_leaf: 40 g light brown sugar
 - :honey_pot: 20 g honey
 - :salt: 1 pinch salt
-- :bread: 2 slices Japanese Milk Bread
+- :bread: 2 slices [Japanese Milk Bread][2]
 
 ## :cooking: Cookware
 
@@ -39,7 +39,7 @@ Mix the soft unsalted butter, light brown sugar, honey, and salt in a small bowl
 
 ### Step 3
 
-Cut 1 to 1.5 inch slices of Japanese Milk Bread.
+Cut 1 to 1.5 inch slices of [Japanese Milk Bread][2].
 
 ### Step 4
 
@@ -58,3 +58,4 @@ Bake the bread on a sheet pan lined with parchment for 16 to 18 minutes, flippin
 - <https://www.youtube.com/watch?v=jVTRLQJQAxo>
 
 [1]: <../assets/images/brown-sugar-honey-butter-toast.jpg>
+[2]: <../breads/japanese-milk-bread.md>

@@ -13,13 +13,23 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 16 | 47 minutes |
 
-## :salt: Ingredients
+## :balance_scale: Ratios
+
+| :ear_of_rice: flour | :glass_of_milk: milk | 
+|:-------------------:|:--------------------:|
+|        1 part       |        5 parts       |
+
+## :salt: Ingredients - Tangzhong
+
+- :ear_of_rice: 23 g bread flour
+- :glass_of_milk: 113 g whole milk
+
+## :salt: Ingredients - Cookies
 
 - :maple_leaf: 426 g light brown sugar
 - :salt: 2 tsp salt
 - :butter:  226 g unsalted butter
-- :glass_of_milk: 113 g whole milk
-- :ear_of_rice: 330 g bread flour
+- :ear_of_rice: 307 g bread flour
 - :egg: 2 large eggs
 - :icecream: 1 Tbsp vanilla
 - :dash: 1.75 tsp baking powder
@@ -39,12 +49,12 @@ tags:
 
 In a large bowl, combine the light brown sugar and salt. Set aside.
 
-### Step 2
+### Step 2 - Brown Butter
 
-To brown the butter: In a saucepan over medium-high heat, melt the unsalted butter. After several minutes, the butter
-will sizzle and may spatter. Continue to cook the butter, swirling the pan regularly, for about 5 to 7 minutes, until
-it's a dark golden brown color and brown bits start collecting at the bottom of the pan; the butter will have stopped
-sizzling and may also have a layer of foam on the surface.
+In a saucepan over medium-high heat, melt the unsalted butter. After several minutes, the butter will sizzle and may
+spatter. Continue to cook the butter, swirling the pan regularly, for about 5 to 7 minutes, until it's a dark golden
+brown color and brown bits start collecting at the bottom of the pan; the butter will have stopped sizzling and may
+also have a layer of foam on the surface.
 
 ### Step 3
 
@@ -53,10 +63,10 @@ bottom) and whisk vigorously to combine; this helps dissolve the sugar slightly 
 baked cookies. (The mixture will stay lumpy and won't become smooth at this point.) Set the empty saucepan aside to cool
 slightly.
 
-### Step 4
+### Step 4 - Tangzhong
 
-To make the tangzhong: In the same saucepan used to brown the butter, combine the whole milk with 3 tablespoons (23 g)
-of the bread flour and whisk until no lumps remain.
+In the same saucepan used to brown the butter, combine the whole milk with 3 tablespoons (23 g) of the bread flour
+and whisk until no lumps remain.
 
 ### Step 5
 

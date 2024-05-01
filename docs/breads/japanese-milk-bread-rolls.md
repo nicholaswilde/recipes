@@ -12,6 +12,12 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 10 | 3.08 hours |
 
+## :scales: Ratios
+
+| :ear_of_rice: flour | :droplet: water | :glass_of_milk: milk | 
+|:-------------------:|:---------------:|:--------------------:|
+|        1 part       |      3 parts    |        3 parts       |
+
 ## :salt: Ingredients - Tangzhong
 
 - :ear_of_rice: 14 g bread flour
