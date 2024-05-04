@@ -51,7 +51,7 @@ liquid.
 
 ### Step 4
 
-Serve at room temperature with pita bread.
+Serve at room temperature with [pita bread][3].
 
 ## :link: Source
 
@@ -59,3 +59,4 @@ Serve at room temperature with pita bread.
 
 [1]: <../assets/images/roasted-garlic-hummus.jpg>
 [2]: <./tahini.md>
+[3]: <../breads/pita.md>

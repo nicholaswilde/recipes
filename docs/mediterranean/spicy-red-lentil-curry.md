@@ -29,7 +29,7 @@ tags:
 - :coconut: 0.33 cup coconut milk (optional)
 - :herb: some cilantro (optional)
 - :onion: some pickled red onions (optional)
-- :flatbread: some pita or naan (optional)
+- :flatbread: some [pita][2] or [naan][3] (optional)
 
 ## :cooking: Cookware
 
@@ -75,8 +75,8 @@ balance, or a pinch of salt for saltiness.
 ### Step 8
 
 To serve, divide brown rice (optional) and lentils between 2-3 (amount as original recipe is written // adjust if
-altering batch size) serving bowls and garnish with cilantro (optional), pickled red onions (optional), and pita or naan
-(optional) for dipping.
+altering batch size) serving bowls and garnish with cilantro (optional), pickled red onions (optional), and [pita][2]
+or [naan][3] (optional) for dipping.
 
 ### Step 9
 
@@ -88,3 +88,5 @@ moisture, or in the microwave.
 - <https://minimalistbaker.com/spicy-red-lentil-curry/>
 
 [1]: <../assets/images/spicy-red-lentil-curry.jpg>
+[2]: <../breads/pita.md>
+[3]: <../breads/naan.md>

@@ -23,7 +23,7 @@ tags:
 - :cheese_wedge: 1 12-oz block feta
 - :salt: some pepper
 - :hot_pepper: 1 pinch red pepper flakes
-- :flatbread: some pita or baguette
+- :flatbread: some [pita][1] or baguette
 - :lemon: some lemon wedges
 
 ## :cooking: Cookware
@@ -34,7 +34,7 @@ tags:
 
 ### Step 1
 
-Preheat oven to 350°F. Heat 10-inch skillet and add olive oil. Ad cumin and sizzle for 1 to 2 minutes.
+Preheat oven to 350°F. Heat 10-inch skillet and add olive oil. Add cumin and sizzle for 1 to 2 minutes.
 
 ### Step 2
 
@@ -56,4 +56,6 @@ Drizzle with olive oil and a pinch of red pepper flakes.
 
 ### Step 6
 
-Serve warm with pita or baguette and lemon wedges.
+Serve warm with [pita][1] or baguette and lemon wedges.
+
+[1]: <../breads/pita.md>

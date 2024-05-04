@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :flatbread: 2 large flatbread or naan
+- :flatbread: 2 large flatbread or [naan][2]
 - :herb: 0.5 cup [Balsamic Pesto][1]
 - :cheese_wedge: 8 oz mozzarella
 - :tomato: 1 cup red and/or yellow cherry or grape tomatoes
@@ -34,7 +34,7 @@ Preheat oven to 425°F.
 
 ### Step 2
 
-Place flatbread or naan on a large baking sheet.
+Place flatbread or [naan][2] on a large baking sheet.
 
 ### Step 3
 
@@ -58,3 +58,4 @@ Remove from oven. Top with basil and, if you like, drizzle with balsamic glaze (
 - Magnolia
 
 [1]: <../sauces-and-dressings/pesto/balsamic-pesto.md>
+[2]: <../breads/naan.md>

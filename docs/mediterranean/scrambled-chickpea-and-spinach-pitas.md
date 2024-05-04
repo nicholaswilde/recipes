@@ -17,7 +17,7 @@ tags:
 - :coconut: 0.25 cups coconut oil
 - :salt: 2 tsp cumin
 - :garlic: 1 tsp garlic powder
-- :flatbread: 6 pita
+- :flatbread: 6 [pita][1]
 - :salt: 1 tsp salt
 - :leafy_green: 6 cups spinach
 - :salt: 2 tsp turmeric
@@ -52,7 +52,7 @@ about 3 minutes. Remove the pan from the heat.
 
 ### Step 4
 
-To serve immediately, divide the chickpea mixture between the pitas, filling
+To serve immediately, divide the chickpea mixture between the [pitas][1], filling
 each half with 3/4 to 1 cup of the mixture.
 
 ### Step 5
@@ -66,3 +66,5 @@ toaster oven until warmed through, about 20 minutes if refrigerated or about
 ## :link: Source
 
 - <https://www.thekitchn.com/recipe-scrambled-chickpea-and-spinach-pitas-234095>
+
+[1]: <../breads/pita.md>
