@@ -793,3 +793,6 @@ hafrashas
 challah
 Challah
 Preshape
+nigella
+paneer
+paneer
