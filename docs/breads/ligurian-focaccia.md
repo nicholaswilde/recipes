@@ -83,4 +83,4 @@ Serve warm or at room temperature.
 ## :link: Sources
 
 - <https://www.saltfatacidheat.com/fat/ligurian-focaccia>
-- <https://www.thekitchn.com/vodka-sauce-recipe-reviews-23214793>
+- <https://www.thekitchn.com/focaccia-recipe-reviews-23158391>
