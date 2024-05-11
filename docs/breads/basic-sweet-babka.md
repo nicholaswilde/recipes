@@ -138,3 +138,5 @@ cool.
 
 - <https://www.ediblecommunities.com/recipes/basic-sweet-babka/>
 - <https://www.thekitchn.com/chocolate-babka-recipe-reviews-23213321>
+
+[1]: <../ingredients/seasonings/cinnamon-sugar.md>
