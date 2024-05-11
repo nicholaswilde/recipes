@@ -21,7 +21,7 @@ tags:
 - :egg: 3 large egg yolks
 - :egg: 3 large eggs
 - :oil_drum: 66 g vegetable oil
-- :icecube: 302 g cold water
+- :ice_cube: 302 g cold water
 - :ear_of_rice: 930 g all-purpose flour
 - :candy: 99 g granulated sugar
 - :salt: 18 g salt
@@ -33,7 +33,7 @@ tags:
 
 - :egg: 2 large eggs
 - :oil_drum: 33 g vegetable oil
-- :icecube: 151 g cold water
+- :ice_cube: 151 g cold water
 - :ear_of_rice: 465 g all-purpose flour
 - :candy: 50 g granulated sugar
 - :salt: 9 g salt
