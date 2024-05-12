@@ -8,11 +8,15 @@ tags:
 
 ![Potato Bread][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 2 loaves | 5.03 hours |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 5.03 hours |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 loaves |
 
 - :microbe: 1 Tbsp instant yeast
 - :candy: 99 g granulated sugar
@@ -22,6 +26,19 @@ tags:
 - :egg: 2 large eggs
 - :potato: 198 g mashed potatoes
 - :ear_of_rice: 780 g all-purpose flour
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 loaf |
+
+- :microbe: 2 tsp instant yeast
+- :candy: 50 g granulated sugar
+- :hot_springs: 170 g lukewarm water or potato water
+- :butter: 85 g unsalted butter
+- :salt: 8 g salt
+- :egg: 1 large eggs
+- :potato: 99 g mashed potatoes
+- :ear_of_rice: 390 g all-purpose flour
 
 ## :cooking: Cookware
 
@@ -78,10 +95,6 @@ to cool completely.
 
 Store, tightly wrapped, at room temperature for several days, or up to a week in cool/dry weather; for longer storage,
 wrap well and freeze.
-
-### Step 9
-
-Tip: Want to make just a single loaf? Halve all the ingredients except the yeast; use 2 teaspoons instant yeast.
 
 ## :link: Source
 
