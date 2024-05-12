@@ -44,4 +44,4 @@ Refrigerate until serving time.
 
 ## :link: Source
 
-- <https://www.oceanspray.com/en/Recipes/By-Course/Sauces-Sides-and-Salads/Fresh-Cranberry-Sauce>
+- Ocean Spray
