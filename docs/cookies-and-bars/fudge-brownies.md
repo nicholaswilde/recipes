@@ -39,8 +39,8 @@ tags:
 - :chocolate_bar: 53 g Dutch-process cocoa
 - :salt: 1 tsp salt
 - :dash: 0.5 tsp baking powder
-- :hot_beverage: 0,5 tsp espresso powder
-- :icecream: 0,5 Tbsp vanilla
+- :hot_beverage: 0.5 tsp espresso powder
+- :icecream: 0.5 Tbsp vanilla
 - :butter: 114 g unsalted butter
 - :candy: 224 g granulated sugar
 - :ear_of_rice: 90 g all-purpose flour
