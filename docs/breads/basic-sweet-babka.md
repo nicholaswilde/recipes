@@ -16,7 +16,7 @@ tags:
 - :microbe: 1 Tbsp dry active yeast
 - :candy: 0.5 tsp granulated sugar
 - :droplet: 0.5 cup lukewarm water
-- :ear_of_rice: some all-purpose flour
+- :ear_of_rice: 4.5 cups all-purpose flour
 - :candy: 0.33 cup granulated sugar
 - :icecream: 2 tsp vanilla
 - :glass_of_milk: 0.5 cup milk
