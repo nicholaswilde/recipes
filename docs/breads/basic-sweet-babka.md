@@ -65,7 +65,7 @@ to cool just slightly.
 
 ### Step 3
 
-With mixer on low, add the water and​yeast mixture, milk, and melted butter. Add the eggs one at a time.
+With mixer on low, add the water and​ yeast mixture, milk, and melted butter. Add the eggs one at a time.
 
 ### Step 4
 
