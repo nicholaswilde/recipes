@@ -13,6 +13,10 @@ tags:
 
 ## :salt: Ingredients - Dough
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
 - :microbe: 1 Tbsp dry active yeast
 - :candy: 0.5 tsp granulated sugar
 - :droplet: 0.5 cup lukewarm water
@@ -25,11 +29,19 @@ tags:
 
 ## :salt: Ingredients - Syrup
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 4 loaves |
+
 - :droplet: 0.67 cup water
 - :candy: 1 cup granulated sugar
 - :icecream: 1 tsp vanilla
 
 ## :salt: Ingredients - Filling
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
 
 - :butter: 0.75 cup unsalted butter
 - :candy: 0.5 cup granulated sugar
