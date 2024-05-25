@@ -27,6 +27,20 @@ tags:
 - :butter: 0.75 cup (170 g) melted butter
 - :egg: 2 eggs
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+|  large loaf |
+
+- :microbe: 2 tsp dry active yeast
+- :candy: 0.25 tsp granulated sugar
+- :droplet: 0.25 (57 g) cup lukewarm water
+- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+- :candy: 0.17 cup (33 g) granulated sugar
+- :icecream: 1 tsp vanilla
+- :glass_of_milk: 0.25 cup (57 g) milk
+- :butter: 0.375 cup (85 g) melted butter
+- :egg: 1 eggs
+
 ## :salt: Ingredients - Syrup
 
 | :fork_and_knife_with_plate: Serves |
