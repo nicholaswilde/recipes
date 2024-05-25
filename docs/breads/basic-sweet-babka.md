@@ -18,7 +18,7 @@ tags:
 | 2 large loaves |
 
 - :microbe: 1 Tbsp dry active yeast
-- :candy: 0.33 cup granulated sugar
+- :candy: 0.5 tsp granulated sugar
 - :droplet: 0.5 cup lukewarm water
 - :ear_of_rice: 4.5 cups all-purpose flour
 - :candy: 0.33 cup granulated sugar
