@@ -29,7 +29,7 @@ tags:
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
-|  large loaf |
+| 1 large loaf |
 
 - :microbe: 2 tsp dry active yeast
 - :candy: 0.25 tsp granulated sugar
