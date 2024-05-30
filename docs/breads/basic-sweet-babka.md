@@ -73,6 +73,17 @@ tags:
 - :salt: 1 pinch salt
 - :custard: 1.5 cups [cinnamon sugar][1] filling (alternative)
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :butter: 85 g unsalted butter
+- :candy: 0.25 cup (50 g) granulated sugar
+- :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
+- :chocolate_bar: 3 oz (85 g) dark chocolate
+- :custard: 0.125 tsp cinnamon
+- :salt: 1 pinch salt
+
 ## :cooking: Cookware
 
 - 1 small bowl
