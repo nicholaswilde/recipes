@@ -71,7 +71,6 @@ tags:
 - :chocolate_bar: 6 oz (170 g) dark chocolate
 - :custard: 0.25 tsp cinnamon
 - :salt: 1 pinch salt
-- :custard: 1.5 cups [cinnamon sugar][1] filling (alternative)
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
@@ -82,6 +81,26 @@ tags:
 - :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
 - :chocolate_bar: 3 oz (85 g) dark chocolate
 - :custard: 0.125 tsp cinnamon
+- :salt: 1 pinch salt
+
+## :salt: Ingredients - Cinnamon Filling
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
+- :butter: 0.75 cup (170 g) unsalted butter
+- :candy: (300 g) granulated sugar
+- :custard: 2 Tbsp cinnamon
+- :salt: 1 pinch salt
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :butter: 85 g unsalted butter
+- :candy: 150 g granulated sugar
+- :custard: 1 Tbsp cinnamon
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware
