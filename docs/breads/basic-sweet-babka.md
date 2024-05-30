@@ -89,7 +89,7 @@ tags:
 |:----------------------------------:|
 | 2 large loaves |
 
-- :butter: 0.75 cup (170 g) unsalted butter
+- :butter: 0.75 cup (170 g) unsalted melted butter
 - :candy: 300 g granulated sugar
 - :custard: 2 Tbsp cinnamon
 - :salt: 1 pinch salt
@@ -98,7 +98,7 @@ tags:
 |:----------------------------------:|
 | 1 large loaf |
 
-- :butter: 85 g unsalted butter
+- :butter: 85 g unsalted melted butter
 - :candy: 150 g granulated sugar
 - :custard: 1 Tbsp cinnamon
 - :salt: 1 pinch salt
