@@ -58,8 +58,8 @@ tags:
 - :droplet: 0.17 (38 g) cup water
 - :candy: 1/4 cup (50 g) granulated sugar
 - :icecream: 1/4 tsp vanilla
-- 
-## :salt: Ingredients - Filling
+
+## :salt: Ingredients - Chocolate Filling
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
