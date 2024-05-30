@@ -90,7 +90,7 @@ tags:
 | 2 large loaves |
 
 - :butter: 0.75 cup (170 g) unsalted butter
-- :candy: (300 g) granulated sugar
+- :candy: 300 g granulated sugar
 - :custard: 2 Tbsp cinnamon
 - :salt: 1 pinch salt
 
@@ -202,5 +202,6 @@ cool.
 
 - <https://www.ediblecommunities.com/recipes/basic-sweet-babka/>
 - <https://www.thekitchn.com/chocolate-babka-recipe-reviews-23213321>
+- <https://family-friends-food.com/cinnamon-babka-modern-jewish-baker-review/>
 
 [1]: <../ingredients/seasonings/cinnamon-sugar.md>
