@@ -22,6 +22,10 @@ tags:
 
 ## :salt: Ingredients - Brine
 
+| Ratio |
+|:-------:|
+|6.25%|
+
 - :salt: 5 g salt
 - :droplet: 80 g lukewarm water
 
