@@ -139,7 +139,7 @@ time to mix, but the result is worth the wait.
 
 ### Step 5
 
-Place dough in a greased bowl with a damp towel on top. Allow to rise 1 to 2 hours.
+Cover the bowl with plastic wrap or a reusable cover and allow the dough to rise at room temperature for 1 hour. Refrigerate the dough for 1 hour, or until it’s thoroughly chilled.
 
 ## :pencil: Instructions - Syrup
 
@@ -151,7 +151,7 @@ months and makes enough for at least 2 batches of babka (6 medium babkas).
 
 ### Step 7
 
-Prepare three greased 8.5 x 4.5 inch loaf pans. Note: you can also make two larger round babkas that can be baked on
+Prepare two greased 8.5 x 4.5 inch loaf pans. Note: you can also make two larger round babkas that can be baked on
 baking sheets.
 
 ## :pencil: Instructions - Filling
@@ -166,8 +166,8 @@ dark chocolate chips), 1/4 teaspoon ground cinnamon, and a pinch of salt.
 
 ### Step 9
 
-Cut the dough into three equal parts (use a food scale for precision). Roll out one part into a rectangle. Spread
-one-third of the 1 to 1.5 cups of chocolate or cinnamon sugar filling onto the rectangle and roll up along the shorter
+Cut the dough into two equal parts (use a food scale for precision). Roll out one part into a rectangle where the height is the same as the loaf pan length. Spread
+one-third of the 1 to 1.5 cups of chocolate or cinnamon filling onto the rectangle and roll up along the shorter
 side (to create swirls inside).
 
 ### Step 10
