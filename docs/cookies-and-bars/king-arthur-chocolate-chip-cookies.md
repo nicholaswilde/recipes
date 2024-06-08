@@ -9,26 +9,55 @@ tags:
 
 ![King Arthur Chocolate Chip Cookies][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 16 | 47 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 47 minutes |
 
 ## :balance_scale: Ratios
 
-| :ear_of_rice: flour | :glass_of_milk: milk | 
+| :ear_of_rice: flour | :glass_of_milk: milk |
 |:-------------------:|:--------------------:|
 |        1 part       |        5 parts       |
 
 ## :salt: Ingredients - Tangzhong
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 8 |
+
+- :ear_of_rice: 12 g bread flour
+- :glass_of_milk: 57 g whole milk
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 16 |
 
 - :ear_of_rice: 23 g bread flour
 - :glass_of_milk: 113 g whole milk
 
 ## :salt: Ingredients - Cookies
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 8 |
+
+- :maple_leaf: 213 g light brown sugar
+- :salt: 1 tsp salt
+- :butter: 113 g unsalted butter
+- :ear_of_rice: 154 g bread flour
+- :egg: 1 large eggs
+- :icecream: 0.5 Tbsp vanilla
+- :dash: 0.875 tsp baking powder
+- :cup_with_straw: 0.125 tsp baking soda
+- :chocolate_bar: 170 g semisweet chocolate
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 16 |
+
 - :maple_leaf: 426 g light brown sugar
 - :salt: 2 tsp salt
-- :butter:  226 g unsalted butter
+- :butter: 226 g unsalted butter
 - :ear_of_rice: 307 g bread flour
 - :egg: 2 large eggs
 - :icecream: 1 Tbsp vanilla
