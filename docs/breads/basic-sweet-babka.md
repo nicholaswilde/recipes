@@ -13,31 +13,95 @@ tags:
 
 ## :salt: Ingredients - Dough
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
 - :microbe: 1 Tbsp dry active yeast
 - :candy: 0.5 tsp granulated sugar
-- :droplet: 0.5 cup lukewarm water
-- :ear_of_rice: some all-purpose flour
-- :candy: 0.33 cup granulated sugar
+- :droplet: 0.5 (113 g) cup lukewarm water
+- :ear_of_rice: 4.5 cups (540 g) all-purpose flour
+- :candy: 0.33 cup (66 g) granulated sugar
 - :icecream: 2 tsp vanilla
-- :glass_of_milk: 0.5 cup milk
-- :butter: 0.75 cup melted butter
+- :glass_of_milk: 0.5 cup (113 g) milk
+- :butter: 0.75 cup (170 g) melted butter
 - :egg: 2 eggs
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :microbe: 2 tsp dry active yeast
+- :candy: 0.25 tsp granulated sugar
+- :droplet: 0.25 (57 g) cup lukewarm water
+- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+- :candy: 0.17 cup (33 g) granulated sugar
+- :icecream: 1 tsp vanilla
+- :glass_of_milk: 0.25 cup (57 g) milk
+- :butter: 0.375 cup (85 g) melted butter
+- :egg: 1 eggs
 
 ## :salt: Ingredients - Syrup
 
-- :droplet: 0.67 cup water
-- :candy: 1 cup granulated sugar
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 4 large loaves |
+
+- :droplet: 0.67 (151 g) cup water
+- :candy: 1 cup (198 g) granulated sugar
 - :icecream: 1 tsp vanilla
 
-## :salt: Ingredients - Filling
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
 
-- :butter: 0.75 cup unsalted butter
-- :candy: 0.5 cup granulated sugar
-- :chocolate_bar: 0.33 cup unsweetened cocoa powder
-- :chocolate_bar: 6 oz dark chocolate
+- :droplet: 0.17 (38 g) cup water
+- :candy: 1/4 cup (50 g) granulated sugar
+- :icecream: 1/4 tsp vanilla
+
+## :salt: Ingredients - Chocolate Filling
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
+- :butter: 0.75 cup (170 g) unsalted butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :chocolate_bar: 0.33 cup (29 g) unsweetened cocoa powder
+- :chocolate_bar: 6 oz (170 g) dark chocolate
 - :custard: 0.25 tsp cinnamon
 - :salt: 1 pinch salt
-- :custard: 1.5 cups [cinnamon sugar][1] filling (alternative)
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :butter: 85 g unsalted butter
+- :candy: 0.25 cup (50 g) granulated sugar
+- :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
+- :chocolate_bar: 3 oz (85 g) dark chocolate
+- :custard: 0.125 tsp cinnamon
+- :salt: 1 pinch salt
+
+## :salt: Ingredients - Cinnamon Filling
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
+- :butter: 0.75 cup (170 g) unsalted melted butter
+- :candy: 300 g granulated sugar
+- :custard: 2 Tbsp cinnamon
+- :salt: 1 pinch salt
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :butter: 85 g unsalted melted butter
+- :candy: 150 g granulated sugar
+- :custard: 1 Tbsp cinnamon
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
@@ -65,7 +129,7 @@ to cool just slightly.
 
 ### Step 3
 
-With mixer on low, add the water and​yeast mixture, milk, and melted butter. Add the eggs one at a time.
+With mixer on low, add the water and​ yeast mixture, milk, and melted butter. Add the eggs one at a time.
 
 ### Step 4
 
@@ -75,7 +139,7 @@ time to mix, but the result is worth the wait.
 
 ### Step 5
 
-Place dough in a greased bowl with a damp towel on top. Allow to rise 1 to 2 hours.
+Cover the bowl with plastic wrap or a reusable cover and allow the dough to rise at room temperature for 1 hour. Refrigerate the dough for 1 hour, or until it’s thoroughly chilled.
 
 ## :pencil: Instructions - Syrup
 
@@ -87,7 +151,7 @@ months and makes enough for at least 2 batches of babka (6 medium babkas).
 
 ### Step 7
 
-Prepare three greased 8.5 x 4.5 inch loaf pans. Note: you can also make two larger round babkas that can be baked on
+Prepare two greased 8.5 x 4.5 inch loaf pans. Note: you can also make two larger round babkas that can be baked on
 baking sheets.
 
 ## :pencil: Instructions - Filling
@@ -102,8 +166,8 @@ dark chocolate chips), 1/4 teaspoon ground cinnamon, and a pinch of salt.
 
 ### Step 9
 
-Cut the dough into three equal parts (use a food scale for precision). Roll out one part into a rectangle. Spread
-one-third of the 1 to 1.5 cups of chocolate or cinnamon sugar filling onto the rectangle and roll up along the shorter
+Cut the dough into two equal parts (use a food scale for precision). Roll out one part into a rectangle where the height is the same as the loaf pan length. Spread
+one-third of the 1 to 1.5 cups of chocolate or cinnamon filling onto the rectangle and roll up along the shorter
 side (to create swirls inside).
 
 ### Step 10
@@ -138,5 +202,6 @@ cool.
 
 - <https://www.ediblecommunities.com/recipes/basic-sweet-babka/>
 - <https://www.thekitchn.com/chocolate-babka-recipe-reviews-23213321>
+- <https://family-friends-food.com/cinnamon-babka-modern-jewish-baker-review/>
 
 [1]: <../ingredients/seasonings/cinnamon-sugar.md>

@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :banana: 0.5 cup banana
-- :glass_of_milk: 1 cup soy milk
+- :banana: 0.5 cup (1) banana
+- :glass_of_milk: 1 cup (227 g) soy milk
 - :oil_drum: 2 Tbsp canola oil
 - :candy: 2 Tbsp granulated sugar
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.5 cups whole wheat flour
+- :ear_of_rice: 1.5 cups (180 g) whole wheat flour
 - :dash: 1 Tbsp baking powder
 - :salt: 0.5 tsp salt
 - :custard: 0.5 tsp cinnamon (optional)

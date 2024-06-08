@@ -78,9 +78,10 @@ but centers are still soft, 10 to 14 minutes, rotating the baking sheet halfway 
 sheet to wire rack and allow cookies to cool completely before serving. Cookies can be stored in an airtight container
 at room temperature for up to 3 days.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/>
+- <https://www.thepancakeprincess.com/best-brown-butter-chocolate-chip-cookie-bake-off/>
 
 [1]: <../ingredients/brown-sugar.md>
 [2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg>
