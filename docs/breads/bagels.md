@@ -30,7 +30,7 @@ tags:
 
 ## :salt: Ingredients - Water Bath
 
-| Ratio |
+| :scales: Ratio |
 |:-----:|
 | 2.3 % |
 
