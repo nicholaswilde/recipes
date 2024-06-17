@@ -30,6 +30,10 @@ tags:
 
 ## :salt: Ingredients - Water Bath
 
+| Ratio |
+|:-----:|
+| 2.3 % |
+
 - :droplet: 1808 g water
 - :ear_of_rice: 42 g barley malt syrup or honey
 
