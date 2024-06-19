@@ -22,6 +22,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 medium-sized bowl
+- 4 English muffin rings
 
 ## :pencil: Instructions
 
@@ -41,7 +42,7 @@ Lightly grease four English muffin rings (1" high and 4" across) and place on th
 among the rings. Each ring will take a generous 1/4 cup of batter; a generously heaped muffin scoop is the perfect tool
 for this task. Cook for about 5 minutes, until the tops are set and full of small holes. Carefully flip the crumpets
 over, remove the rings (they should pop right off), and continue to cook for about 3 minutes, until they're golden on
-the bottom. , Enjoy the crumpets warm, split and spread with butter and jam. Or toast to brown and crisp them before
+the bottom. Enjoy the crumpets warm, split and spread with butter and jam. Or toast to brown and crisp them before
 serving.
 
 ### Step 4
@@ -51,6 +52,7 @@ Store any leftovers at room temperature for several days. Freeze, well wrapped, 
 ## :link: Source
 
 - <https://www.kingarthurbaking.com/recipes/sourdough-crumpets-recipe>
+- <https://youtube.com/watch?v=MhHGfafYmJs>
 
 [1]: <../assets/images/sourdough-crumpets.jpg>
 [2]: <../ingredients/sourdough-starter.md>
