@@ -16,7 +16,7 @@ tags:
 - :bread: 2 Bridgeford loaves
 - :butter: 114 g butter
 - :candy: 198 g [cinnamon and sugar][2]
-- :chestnut: some Pecans or walnuts (optional)
+- :chestnut: 198 g Pecans or walnuts (optional)
 
 ## :salt: Ingredients - Glaze
 
