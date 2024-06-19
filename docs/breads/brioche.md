@@ -2,98 +2,152 @@
 comments: true
 tags:
   - bread
+  - king-arthur
 ---
 # :bread: Brioche
 
 ![Brioche][1]{ loading=lazy }
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 1.11 days |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 1 large loaf | 10.03 hours |
 
-## :salt: Ingredients - Buns
+## :salt: Ingredients - Dough
 
-- :glass_of_milk: 0.25 cup milk
-- :microbe: 1 Tbsp yeast
-- :ear_of_rice: 2 Tbsp flour
-- :ear_of_rice: 1.5 cups bread flour
-- :candy: 2 Tbsp confectioners' sugar
-- :salt: 0.25 tsp salt
-- :glass_of_milk: 2 Tbsp milk
-- :egg: 2 eggs
-- :butter: 6 Tbsp unsalted butter
-- :egg: 1 egg wash
+- :ear_of_rice: 330 g all-purpose flour
+- :glass_of_milk: 28 g dry milk
+- :salt: 8 g salt
+- :microbe: 1 Tbsp instant yeast
+- :egg: 3 large eggs
+- :ice_cube: 57 g water
+- :candy: 35 g granulated sugar
+- :butter: 142 g unsalted butter
 
-## :salt: Ingredients - Loaf
+## :salt: Ingredients - Glaze (optional)
 
-- :glass_of_milk: 0.375 cup milk
-- :microbe: 1.5 Tbsp yeast
-- :ear_of_rice: 3 Tbsp bread flour
-- :ear_of_rice: 2.25 cups flour
 - :candy: 3 Tbsp confectioners' sugar
-- :salt: 0.375 tsp salt
-- :glass_of_milk: 3 Tbsp milk
-- :egg: 3 eggs
-- :butter: 9 Tbsp unsalted butter
-- :egg: 1 egg wash
+- :icecream: 1 tsp vanilla
+- :salt: 1 tsp salt
+- :icecream: 2 tsp heavy cream
+
+## :salt: Ingredients - Braided Loaf
+
+- :egg: 1 egg yolk (optional)
+- :oyster: some pearl sugar or sparkling white sugar (optional)
 
 ## :cooking: Cookware
 
+- 1 medium bowl
+- 1 stand mixer
+- 1 dough hook
 - 1 bowl
-- 1 brioche tins
-- 1 wire rack
-- 1 tea towel
+- 1 instant-read thermometer
 
-## :pencil: Instructions
+## :pencil: Instructions - Dough
 
 ### Step 1
 
-Warm and let milk just above body temperature.
+Add all ingredients to the refrigerator so that they are cold when making the dough.
 
 ### Step 2
 
-Prepare the yeast by adding milk and flour.
+Weigh your all-purpose flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
 
 ### Step 3
 
-In a separate bowl, add bread flour, confectioners' sugar, and salt.
+To make the dough: In a medium bowl, mix together flour, dry milk, salt, and instant yeast.
 
 ### Step 4
 
-Add yeast to dry ingredients.
+In the bowl of a stand mixer fitted with the dough hook attachment, add the cold eggs, cool water, then the dry
+ingredients, (except the butter) to make a smooth, stretchy dough that cleans the sides of the bowl; this should take 7
+to 10 minutes at medium speed.
 
 ### Step 5
 
-Add milk, eggs, and room temperature unsalted butter to mixture.
+If the dough looks too dry, add the granulated sugar earlier during mixing process. The sugar should be added later to
+give the dough time to come together because the sugar acts as a liquefying agent.
 
 ### Step 6
 
-Put in lightly oiled bowl and cover with plastic wrap.
+Once the dough has developed some strength and elasticity, add one piece of the cold unsalted butter, about 28 g, and
+mix at medium speed until it’s fully incorporated into the dough, 1 to 2 minutes. Scrape the bowl if necessary, then
+continue adding the butter one piece at a time, mixing to incorporate fully before adding the next piece. This dough
+takes longer than most to develop so be prepared to let the dough knead for another 5 to 10 minutes, or until it's
+formed a soft, smooth ball. We don't recommend trying to knead this dough by hand.
 
 ### Step 7
 
-Rest by sitting out on counter for 30 minutes.
+Form the dough into a ball (it'll be very soft), place it in a greased bowl, cover the bowl, and it let rise for 1 hour.
+Then refrigerate the dough for several hours, or overnight. This will slow the fermentation and chill the butter, making
+the dough easier to shape.
 
 ### Step 8
 
-Chill 8 to 24 hours in refrigerator to slow fermentation and develop flavor.
+Divide the chilled dough into 12 pieces to make mini-brioche (brioche buns); leave it whole for one large round brioche;
+or divide it in half for two 8 1/2" x 4 1/2" loaves.
 
 ### Step 9
 
-Roll and shape in log, cut into 6 pieces, roll and shape, press into brioche tins, cover with tea towel and rise at
-room temperature 90 minutes.
+Place the dough into the greased pan(s) of your choice, cover lightly, and let rise for 2.5 to 3 hours, until it's
+doubled and looks very puffy.
 
 ### Step 10
 
-For load, add 6 pieces to a single loaf pan. Brush with egg wash and bake at 350°F for 25 minutes. For loaf, try a
-little longer.
+If you're making two loaves, it's fun to make simple three-strand braids, and set them in the loaf pans.
+
+## :pencil: Instructions - Large, Round Brioche
 
 ### Step 11
 
-Cool in tins for 10 to 15 minutes and turn out on a wire rack.
+To bake a large, round brioche: Place the pan into a preheated 400°F oven. After 10 minutes, reduce the oven heat to
+350°F and bake for about 30 to 35 minutes more. Check the brioche after 15 minutes; tent with aluminum foil if it
+appears to be browning too quickly. Brioche should be a deep brown when done, should sound hollow when tapped, and will
+read 190°F at the center using an instant-read thermometer. (It's easy to underbake since it browns so quickly!).
 
-## :link: Source
+### Step 12
 
-- <https://www.youtube.com/watch?v=AUWjsqJ6tC8>
+Remove the brioche from the oven, and after 10 minutes remove it from the pan to cool completely on a rack.
+
+## :pencil: Instructions - Mini Brioches
+
+### Step 13
+
+To bake the mini brioches: Place the pan(s) onto a baking sheet for easy handling, as shown; then nestle that baking
+sheet into another baking sheet, to protect the buns' bottoms from over-browning. Bake the buns in a preheated 375°F
+oven for 15 to 20 minutes (tent after 10 minutes if they're browning too quickly).
+
+### Step 14
+
+Remove them from the oven, let stand for 5 minutes, then turn them out onto a rack.
+
+## :pencil: Instructions - Loaves
+
+### Step 15
+
+To bake the loaves: Allow the loaves to rise until they've nearly reached the rim of the pan, about 3 hours. Set the
+loaf pans on a baking sheet, for easy handling. Bake in a preheated 350°F oven for 30 to 35 minutes, tenting with foil
+after 15 to 20 minutes. Bake until the internal temperature reaches at least 190°F in the center, and up to 205°F for
+a crustier loaf.
+
+## :pencil: Instructions - Glaze
+
+### Step 16
+
+To make the glaze: Combine the confectioners' sugar, vanilla, and salt. Add enough heavy cream to make a pourable
+consistency. Drizzle the glaze over the baked loaves, if desired.
+
+!!! tip
+
+    If you're baking the brioche as a braided loaf, add an extra egg yolk (optional) to the dough, reserving the white.
+    Just before baking the risen loaves, whisk the reserved white with 1 tablespoon milk, brush on loaves, and sprinkle with
+    pearl sugar or sparkling white sugar (optional).
+
+## :link: Sources
+
+- <https://www.kingarthurbaking.com/recipes/brioche-recipe>
+- <https://www.youtube.com/watch?v=RZBuJ4_LdDk>
+- <https://www.youtube.com/watch?v=4Y8MxeG9BAc>
+- <https://www.youtube.com/watch?v=AG--9bm6s0A>
 
 [1]: <../assets/images/brioche.jpg>
