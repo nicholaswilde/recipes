@@ -42,7 +42,7 @@ tags:
 - :butter: 28 g unsalted butter
 - :salt: 9 g salt
 - :test_tube: 0.125 tsp citric acid (sour salt), (optional)
-- some cornmeal or semolina (optional)
+- :corn: some cornmeal or semolina (optional)
 
 ## :cooking: Cookware
 
