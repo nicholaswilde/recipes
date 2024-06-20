@@ -40,6 +40,7 @@ tags:
 - 1 medium bowl
 - 1 stand mixer
 - 1 dough hook
+- 1 rolling pin
 - 1 bowl
 - 1 instant-read thermometer
 
@@ -70,60 +71,64 @@ give the dough time to come together because the sugar acts as a liquefying agen
 
 ### Step 6
 
+Using a rolling pin, beat the cold butter to make it pliable.
+
+### Step 7
+
 Once the dough has developed some strength and elasticity, add one piece of the cold unsalted butter, about 28 g, and
 mix at medium speed until it’s fully incorporated into the dough, 1 to 2 minutes. Scrape the bowl if necessary, then
 continue adding the butter one piece at a time, mixing to incorporate fully before adding the next piece. This dough
 takes longer than most to develop so be prepared to let the dough knead for another 5 to 10 minutes, or until it's
 formed a soft, smooth ball. We don't recommend trying to knead this dough by hand.
 
-### Step 7
+### Step 8
 
 Form the dough into a ball (it'll be very soft), place it in a greased bowl, cover the bowl, and it let rise for 1 hour.
 Then refrigerate the dough for several hours, or overnight. This will slow the fermentation and chill the butter, making
 the dough easier to shape.
 
-### Step 8
+### Step 9
 
 Divide the chilled dough into 12 pieces to make mini-brioche (brioche buns); leave it whole for one large round brioche;
 or divide it in half for two 8 1/2" x 4 1/2" loaves.
 
-### Step 9
+### Step 10
 
 Place the dough into the greased pan(s) of your choice, cover lightly, and let rise for 2.5 to 3 hours, until it's
 doubled and looks very puffy.
 
-### Step 10
+### Step 11
 
 If you're making two loaves, it's fun to make simple three-strand braids, and set them in the loaf pans.
 
 ## :pencil: Instructions - Large, Round Brioche
 
-### Step 11
+### Step 12
 
 To bake a large, round brioche: Place the pan into a preheated 400°F oven. After 10 minutes, reduce the oven heat to
 350°F and bake for about 30 to 35 minutes more. Check the brioche after 15 minutes; tent with aluminum foil if it
 appears to be browning too quickly. Brioche should be a deep brown when done, should sound hollow when tapped, and will
 read 190°F at the center using an instant-read thermometer. (It's easy to underbake since it browns so quickly!).
 
-### Step 12
+### Step 13
 
 Remove the brioche from the oven, and after 10 minutes remove it from the pan to cool completely on a rack.
 
 ## :pencil: Instructions - Mini Brioches
 
-### Step 13
+### Step 14
 
 To bake the mini brioches: Place the pan(s) onto a baking sheet for easy handling, as shown; then nestle that baking
 sheet into another baking sheet, to protect the buns' bottoms from over-browning. Bake the buns in a preheated 375°F
 oven for 15 to 20 minutes (tent after 10 minutes if they're browning too quickly).
 
-### Step 14
+### Step 15
 
 Remove them from the oven, let stand for 5 minutes, then turn them out onto a rack.
 
 ## :pencil: Instructions - Loaves
 
-### Step 15
+### Step 16
 
 To bake the loaves: Allow the loaves to rise until they've nearly reached the rim of the pan, about 3 hours. Set the
 loaf pans on a baking sheet, for easy handling. Bake in a preheated 350°F oven for 30 to 35 minutes, tenting with foil
@@ -132,7 +137,7 @@ a crustier loaf.
 
 ## :pencil: Instructions - Glaze
 
-### Step 16
+### Step 17
 
 To make the glaze: Combine the confectioners' sugar, vanilla, and salt. Add enough heavy cream to make a pourable
 consistency. Drizzle the glaze over the baked loaves, if desired.
