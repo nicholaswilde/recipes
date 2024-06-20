@@ -22,7 +22,7 @@ tags:
 
 - :candy: 114 g confectioners' sugar (optional)
 - :milk: 2 Tbsp milk (optional)
-- :icecream: 0.25 tsp vanilla (optional)
+- :icecream: 1 tsp vanilla (optional)
 
 ## :cooking: Cookware
 
