@@ -8,11 +8,33 @@ tags:
 
 ![Couscous Feta Salad][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 20 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 20 minutes |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 8 |
+
+- :shallow_pan_of_food: 2 cups whole wheat [couscous][2]
+- :stew: 2 cups [vegetable broth][3]
+- :falafel: 2 cans Greek chickpeas with Parsley and Cumin
+- :onion: 1 cup green onion
+- :cheese_wedge: 1 cup feta
+- :olive: 1 cup Kalamata olives
+- :cucumber: 4 Persian cucumbers
+- :tomato: 2 cup grape tomatoes
+- :hot_pepper: some pepperoncini
+- :salt: some salt
+- :salt: some pepper
+- :lemon: some lemon juice
+- :herb: 0.5 cup parsley
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 4 |
 
 - :shallow_pan_of_food: 1 cup whole wheat [couscous][2]
 - :stew: 1 cup [vegetable broth][3]
