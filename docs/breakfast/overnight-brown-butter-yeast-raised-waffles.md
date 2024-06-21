@@ -3,6 +3,8 @@ comments: true
 tags:
   - breakfast
   - waffle
+  - bake-off
+  - pancake-princess
 ---
 # :waffle: Overnight Brown-Butter Yeast-Raised Waffles
 
