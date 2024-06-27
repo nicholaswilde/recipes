@@ -1,0 +1,120 @@
+---
+comments: true
+tags:
+  - bread
+  - king-arthur
+---
+# :pizza: Artisan No-Knead Pizza Crust
+
+![Artisan No-Knead Pizza Crust][1]{ loading=lazy }
+
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 1.06 days |
+
+## :salt: Ingredients
+
+- :ear_of_rice: 247 g bread flour
+- :microbe: 0.13 tsp yeast
+- :candy: 0.5 tsp granulated sugar
+- :salt: 8 g salt
+- :hot_springs: 185 g lukewarm water
+
+## :cooking: Cookware
+
+- 1 bowl
+- 1 pizza peel
+
+## :pencil: Instructions
+
+### Step 1
+
+Weigh your bread flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Stir yeast,
+granulated sugar, salt, and lukewarm water together. Cover the rough, sticky dough and let it rise at room temperature
+for 24 hours. After this first rise, you may choose to refrigerate the dough for up to six days, which will help develop
+its flavor.
+
+### Step 2
+
+With a rack in the center, preheat the oven to 500°F to 550°F with a baking steel or stone inside. Make sure the oven
+is at least 500°F for a full 30 minutes before baking your pizza, in order for the steel or stone to preheat
+thoroughly.
+
+### Step 3
+
+Divide the dough in half. Working with one piece at a time, transfer the dough to a well-floured surface.
+
+### Step 4
+
+Stretch and fold it, as follows: Holding onto the dough at both ends, pull one end away from the other, then fold it
+back onto itself. Repeat on the other side so that all four corners of the dough have been stretched and folded.
+
+### Step 5
+
+Next, pull the ends of the dough toward the middle, then turn it over. Using your fingers, pull the dough under itself
+to make a smooth, round ball with the seams tucked into the bottom. Repeat with the other piece of dough. Place each
+ball seam-side down into a floured bowl.
+
+### Step 6
+
+Cover the bowls and allow the dough to proof (rise) for 45 minutes to an hour, while your oven preheats.
+
+### Step 7
+
+Working with one piece at a time, transfer the dough to a well-floured work surface and dust the top with flour. Use
+your fingertips to gently depress the surface, being careful not to touch the outer edge of the crust; you want it to
+remain thick.
+
+### Step 8
+
+Lift up the crust and use your knuckles to gently stretch it into a circle about 10" to 12" in diameter. Move it to a
+well-floured pizza peel or floured sheet of parchment. If you're using parchment, trim the excess around the dough to
+prevent it from burning.
+
+### Step 9
+
+Lightly sauce the dough, then add your toppings of choice. For special toppings easy to prepare in advance see "tips,"
+below.
+
+### Step 10
+
+Turn on the top broiler in your preheated oven and transfer the pie to the steel or stone. Be sure there's at least 8"
+of space between the surface of the pizza and the broiler. If you have an oven with the broiler on the bottom (usually
+in the bottom compartment of the oven), or on top in a smaller, separate compartment, make sure there's at least 8"
+between the broiler and the cooking surface. If there isn't, don't use the broiler. Your pizza will still be great
+without being broiled, though it may take a few more minutes to bake., Gently slide the pizza (or pizza and parchment)
+onto the steel or stone. Bake the pizza for approximately 6 minutes on the steel (or 7 minutes on the stone), until
+bubbly and charred on the edges. Remove the pizza from the oven and top it with freshly grated Parmesan, if desired.,
+Repeat with the remaining dough and toppings.
+
+!!! tip
+
+    Substitute an equal amount of all-purpose flour for a slightly less chewy crust. No other changes are necessary.
+
+!!! tip
+
+    To make the "Veg Vinaigrette Pizza": Top your pie with red sauce and add a sprinkle of grated mozzarella followed
+    by roasted butternut squash or roasted sweet potato. Bake as directed. Remove the pizza from the oven and drizzle with
+    your favorite vinaigrette. When the vinaigrette hits the hot surface it blooms — i.e., becomes super aromatic. Top
+    with quick-pickled red onions (or other pickled items in your fridge, like capers) or radishes for color, and finish
+    with a sprinkle of feta or crumbled blue cheese.
+
+!!! tip
+
+    To make the "Smoky-Sweet Pizza": Top your pie with a thin layer of BBQ sauce and sprinkle with grated mozzarella.
+    Add sliced pears, bacon that’s been cooked about halfway (pliable, not crispy), and thinly sliced scallions that have
+    been flash-fried in oil. Bake the pizza as directed. To finish, drizzle with BBQ sauce from a squirt bottle, or BBQ
+    sauce mixed with tomato sauce (roughly equal measures of each).
+
+!!! tip
+
+    The maximum temperature rating for most parchment paper is below 500°F, and at temperatures between 450°F and
+    500°F parchment’s exposed edges begin to char. To be safe, keep a close eye on anything being cooked at temperatures
+    above 450°F (especially anything on an upper rack). Burned edges can also be minimized by trimming away excess
+    parchment before baking.
+
+## :link: Source
+
+- <https://www.kingarthurbaking.com/recipes/artisan-no-knead-pizza-crust-recipe>
+
+[1]: <../assets/images/artisan-no-knead-pizza-crust.jpg>
