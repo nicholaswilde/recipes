@@ -44,11 +44,11 @@ tags:
 - 1 cake tester
 - 1 large bowl
 
-## :pencil: Instructions
+## :pencil: Instructions - Cake
 
 ### Step 1
 
-To make the cake: Preheat the oven to 350°F. Lightly grease two 9" round layer pans, or one 9" x 13" pan.
+Preheat the oven to 350°F. Lightly grease two 9" round layer pans, or one 9" x 13" pan.
 
 ### Step 2
 
@@ -77,9 +77,10 @@ Bake the cakes for 35 to 40 minutes, or until a cake tester inserted into the ce
 moist crumbs clinging to it. Allow the cake(s) to cool completely before frosting. If you're using round layer pans,
 remove the layers from the pans after about 15 minutes, and place them on a rack to cool.
 
+## :pencil: Instructions - Frosting 
 ### Step 8
 
-To make the frosting: In a large bowl working with a hand mixer or in the bowl of a stand mixer, beat the room
+In a large bowl working with a hand mixer or in the bowl of a stand mixer, beat the room
 temperature unsalted butter and cream cheese together until smooth. Add the salt and vanilla. Beat in 283 g to 397 g of
 confectioners' sugar. Add a teaspoon of milk or heavy cream (optional) if the frosting is too stiff to spread; add
 additional sugar if it's too thin.
