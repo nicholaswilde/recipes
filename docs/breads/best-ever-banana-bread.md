@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients - Bread
 
 - :candy: 1.25 cups (248 g) sugar
-- :butter: 0.5 cup butter
+- :butter: 0.5 cup (113 g) butter
 - :egg: 2 eggs
 - :banana: 1.5 cups (3-4) banana
 - :glass_of_milk: 0.5 cup (114 g) [buttermilk][1]
@@ -27,7 +27,7 @@ tags:
 ## :salt: Ingredients - Streusel
 
 - :ear_of_rice: 0.5 cup (60 g) flour
-- :butter: 4 Tbsp butter
+- :butter: 4 Tbsp (57 g) butter
 - :maple_leaf: 0.5 cup brown sugar
 - :custard: 1 tsp cinnamon
 
