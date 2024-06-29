@@ -28,7 +28,7 @@ tags:
 
 - :ear_of_rice: 0.5 cup (60 g) flour
 - :butter: 4 Tbsp (57 g) butter
-- :maple_leaf: 0.5 cup brown sugar
+- :maple_leaf: 0.5 cup (107 g) brown sugar
 - :custard: 1 tsp cinnamon
 
 ## :cooking: Cookware
