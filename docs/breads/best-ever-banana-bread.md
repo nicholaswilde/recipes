@@ -17,7 +17,7 @@ tags:
 - :butter: 0.5 cup butter
 - :egg: 2 eggs
 - :banana: 1.5 cups (3-4) banana
-- :glass_of_milk: 0.5 cup [buttermilk][1]
+- :glass_of_milk: 0.5 cup (114 g) [buttermilk][1]
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 2.5 cups (300 g) flour
 - :cup_with_straw: 1 tsp baking soda
