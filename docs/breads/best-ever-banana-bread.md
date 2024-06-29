@@ -26,6 +26,11 @@ tags:
 
 ## :salt: Ingredients - Streusel
 
+- :ear_of_rice: 0.5 cup flour
+- :butter: 4 Tbsp butter
+- :maple_leaf: 0.5 cup brown sugar
+- :custard: 1 tsp cinnamon
+
 ## :cooking: Cookware
 
 - 1 8" loaf pan
