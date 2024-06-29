@@ -11,7 +11,7 @@ tags:
 |:-----------------------: |
 | 60 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Bread
 
 - :candy: 1.25 cups sugar
 - :butter: 0.5 cup butter
@@ -19,10 +19,13 @@ tags:
 - :banana: 1.5 cups banana
 - :glass_of_milk: 0.5 cup [buttermilk][1]
 - :icecream: 1 tsp vanilla
+- :chestnut: 1 cup nuts (optional)
+
+- ## :salt: Ingredients - Streusel
+- 
 - :ear_of_rice: 2.5 cups flour
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 1 tsp salt
-- :chestnut: 1 cup nuts
 
 ## :cooking: Cookware
 
@@ -32,7 +35,7 @@ tags:
 
 ### Step 1
 
-Combine sugar, softened butter, eggs, banana (3-4), buttermilk, vanilla, flour, baking soda, salt, and optional nuts.
+Combine sugar, softened butter, eggs, banana (3-4), buttermilk, vanilla, flour, baking soda, salt, and nuts (optional).
 
 ### Step 2
 
