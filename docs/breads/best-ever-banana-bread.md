@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients - Bread
 
-- :candy: 1.25 cups sugar
+- :candy: 1.25 cups (248 g) sugar
 - :butter: 0.5 cup butter
 - :egg: 2 eggs
-- :banana: 1.5 cups banana
+- :banana: 1.5 cups (3-4) banana
 - :glass_of_milk: 0.5 cup [buttermilk][1]
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 2.5 cups flour
+- :ear_of_rice: 2.5 cups (300 g) flour
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 1 tsp salt
 - :chestnut: 1 cup nuts (optional)
 
 ## :salt: Ingredients - Streusel
 
-- :ear_of_rice: 0.5 cup flour
+- :ear_of_rice: 0.5 cup (60 g) flour
 - :butter: 4 Tbsp butter
 - :maple_leaf: 0.5 cup brown sugar
 - :custard: 1 tsp cinnamon
