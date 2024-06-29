@@ -19,13 +19,12 @@ tags:
 - :banana: 1.5 cups banana
 - :glass_of_milk: 0.5 cup [buttermilk][1]
 - :icecream: 1 tsp vanilla
-- :chestnut: 1 cup nuts (optional)
-
-- ## :salt: Ingredients - Streusel
-- 
 - :ear_of_rice: 2.5 cups flour
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 1 tsp salt
+- :chestnut: 1 cup nuts (optional)
+
+## :salt: Ingredients - Streusel
 
 ## :cooking: Cookware
 
