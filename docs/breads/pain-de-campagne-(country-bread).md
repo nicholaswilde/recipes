@@ -14,11 +14,25 @@ tags:
 
 ## :salt: Ingredients
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2 large loaves |
+
 - :microbe: 40 g [sourdough starter][2]
 - :ear_of_rice: 100 g whole wheat flour
 - :droplet: 800 g water
-- :salt: 1 Tbsp salt
+- :salt: 20 g salt
 - :ear_of_rice: 900 g bread flour
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1 large loaf |
+
+- :microbe: 40 g [sourdough starter][2]
+- :ear_of_rice: 50 g whole wheat flour
+- :droplet: 400 g water
+- :salt: 10 g salt
+- :ear_of_rice: 450 g bread flour
 
 ## :cooking: Cookware
 
