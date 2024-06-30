@@ -20,7 +20,7 @@ tags:
 - 141 g lukewarm water
 - 1 tsp salt
 - 0.5 tsp yeast
-- 4 tsp Pizza Dough Flavor (optional)
+- 4 tsp [Pizza Dough Flavor][3] (optional)
 
 ## :cooking: Cookware
 
@@ -43,7 +43,7 @@ large mixing bowl.
 
 To make the dough: Weigh your all-purpose flour; or measure it by gently spooning it into a cup, then sweeping off any
 excess. In your large mixing bowl or bowl of your stand mixer, combine the lesser amount of lukewarm water, the flour,
-salt, yeast, and Pizza Dough Flavor (optional) with the sourdough starter.
+salt, yeast, and [Pizza Dough Flavor][3] (optional) with the sourdough starter.
 
 ### Step 3
 
@@ -99,3 +99,4 @@ Storage information: Store leftover pizza, well wrapped, in the refrigerator for
 
 [1]: <../assets/images/sourdough-pizza-crust.jpg>
 [2]: <../ingredients/sourdough-starter.md>
+[3]: <../ingredients/seasonings/pizza-dough-seasoning.md>
