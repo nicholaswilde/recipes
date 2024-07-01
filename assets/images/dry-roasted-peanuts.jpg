@@ -1,0 +1,13 @@
+--2022-08-18 11:49:48--  https://www.thespruceeats.com/thmb/jnX3qaAxlal5Nyq6IwYFC84tJP0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/oven-roasted-peanuts-4172872-hero-07-838dc1f732514c73ac63576d9569de35.jpg
+Resolving www.thespruceeats.com (www.thespruceeats.com)... 151.101.2.137, 151.101.66.137, 151.101.130.137, ...
+Connecting to www.thespruceeats.com (www.thespruceeats.com)|151.101.2.137|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138348 (135K) [image/webp]
+Saving to: ‘oven-roasted-peanuts-4172872-hero-07-838dc1f732514c73ac63576d9569de35.jpg’
+
+     0K .......... .......... .......... .......... .......... 37% 4.78M 0s
+    50K .......... .......... .......... .......... .......... 74% 5.76M 0s
+   100K .......... .......... .......... .....                100% 11.4M=0.02s
+
+2022-08-18 11:49:48 (6.08 MB/s) - ‘oven-roasted-peanuts-4172872-hero-07-838dc1f732514c73ac63576d9569de35.jpg’ saved [138348/138348]
+
