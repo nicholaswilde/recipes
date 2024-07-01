@@ -16,11 +16,11 @@ tags:
 ## :salt: Ingredients
 
 - :microbe: 227 g [sourdough starter][2]
-- 300 g all-purpose flour
-- 141 g lukewarm water
-- 1 tsp salt
-- 0.5 tsp yeast
-- 4 tsp [Pizza Dough Flavor][3] (optional)
+- :ear_of_rice: 300 g all-purpose flour
+- :hot_springs: 141 g lukewarm water
+- :salt: 1 tsp salt
+- :microbe: 0.5 tsp yeast
+- :pizza: 4 tsp [Pizza Dough Flavor][3] (optional)
 
 ## :cooking: Cookware
 
