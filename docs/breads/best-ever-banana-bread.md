@@ -46,6 +46,10 @@ Combine granulated sugar, softened butter, eggs, banana (3-4), buttermilk, vanil
 
 Make the streusel topping by whisking together the brown sugar, salt, all-purpose flour, and cinnamon. Add the melted butter, stirring until well combined. Add the topping to the pan.
 
+!!! note
+
+    The crust makes it sweet enough as it is. Streusel topping is not required.
+
 ### Step 3
 
 Heat oven to 350°F.
