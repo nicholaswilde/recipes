@@ -17,7 +17,7 @@ comments: true
 | Light | 0.5 cup     | 0.5 Tbsp  |
 | Light | 0.75 cup    | 0.75 Tbsp |
 | Light | 1 cup       | 1 Tbsp    |
-| Dark  | 0.25 cup    | 0.5 Tbs   |
+| Dark  | 0.25 cup    | 0.5 Tbsp  |
 | Dark  | 0.5 cup     | 1 Tbsp    |
 | Dark  | 0.75 cup    | 1.5 Tbsp  |
 | Dark  | 1 cup       | 2 Tbsp    |
