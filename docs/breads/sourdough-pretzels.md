@@ -72,13 +72,18 @@ Dissolve the malt in the water. Brush the pretzels with the solution, and sprink
 
 ### Step 7
 
+Alternatively, in a large pot, boil together 6 cups of water and 2 tablespoons baking soda. Put 4 pretzels at a time
+into the boiling water, and cook for 1 minute. Transfer boiled pretzels to the prepared baking sheet.
+
+### Step 8
+
 Bake the pretzels for 25 to 30 minutes, until they're a light golden brown.
 
 !!! note
 
     This is correct; there's no need to let the shaped pretzels rise before baking.
 
-### Step 8
+### Step 9
 
 Remove the pretzels from the oven, and brush with melted butter.
 
