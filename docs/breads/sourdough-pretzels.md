@@ -48,8 +48,9 @@ King Arthur Flour's brand, grease the parchment with vegetable oil spray to make
 
 ### Step 2
 
-Prepare a baking sheet by spraying it with vegetable oil spray, or lining it with parchment paper. If you're not using
-King Arthur Flour's brand, grease the parchment with vegetable oil spray to make double-sure the pretzels won't stick.
+Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Mix and knead the dough
+ingredients — by hand, mixer, or bread machine — to make a cohesive, fairly smooth dough. It should be slightly sticky;
+if it seems dry, knead in an additional tablespoon or two of water.
 
 ### Step 3
 
