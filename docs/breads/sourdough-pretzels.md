@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients - Pretzels
 
 - :droplet: 198 g water
-- :microbe: 227 [sourdough starter][2]
+- :microbe: 227 g [sourdough starter][2]
 - :ear_of_rice: 360 g bread flour
 - :glass_of_milk: 28 g dry milk
 - :candy: 14 g granulated sugar
