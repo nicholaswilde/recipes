@@ -25,7 +25,7 @@ tags:
 - :orange_circle: 1 large orange zest
 - :orange_circle: 0.33 cup orange juice
 - :red_circle: 1 cup cranberries
-- :chestnut: 0.5 cup almonds
+- :chestnut: 0.5 cup almonds (optional)
 
 ## :cooking: Cookware
 
@@ -53,7 +53,7 @@ Add wet ingredients to dry and stir until just combined.
 
 ### Step 5
 
-Gently fold in  cranberries (and chopped and roasted almonds, if using).
+Gently fold in  cranberries (and chopped and roasted almonds (optional), if using).
 
 ### Step 6
 
