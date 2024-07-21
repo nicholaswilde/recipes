@@ -53,7 +53,7 @@ dough. Adjust its consistency with additional flour or water, if necessary.
 
 ### Step 3
 
-Divide the dough into 8 balls (106g each, about 2 1/4", the size of a tennis ball). Let them rest, covered, for a half
+Divide the dough into 8 balls (106 g each, about 2 1/4", the size of a tennis ball). Let them rest, covered, for a half
 hour in the refrigerator.
 
 ### Step 4

@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360g g all-purpose flour
+- :ear_of_rice: 360 g all-purpose flour
 - :dash: 2 tsp baking powder
 - :salt: 3 tsp kosher salt
 - :olive: 35 g olive oil
@@ -64,7 +64,6 @@ flattening between your palms.
 
     Pizza bread version: Add 2 teaspoons Pizza Dough Flavor and 2 teaspoons dried Italian herbs or Pizza Seasoning to
     the flour mixture. Serve with marinara sauce for dipping.
-
 
 ## :link: Source
 
