@@ -43,4 +43,4 @@ Then simply roll the marzipan out; ready to cover your cake.
 
 ## :link: Source
 
-- <https://www.delish.com/uk/food-news/a34122445/how-to-make-marzipan/>
+- Delish UK
