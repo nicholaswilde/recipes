@@ -162,8 +162,9 @@ Allow the ganache to cool a bit, until it mounds slightly before smoothly disapp
 Use the glaze right away or cover until ready to use, reheating it in 3 second bursts in the microwave until desired
 consistency is achieved.
 
-## :link: Source
+## :link: Sources
 
 - <https://cleobuttera.com/cakes/moist-and-tender-marble-cake/>
+- <https://www.thepancakeprincess.com/best-marble-cake-bake-off/>
 
 [1]: <../../assets/images/marble-cake.jpg>
