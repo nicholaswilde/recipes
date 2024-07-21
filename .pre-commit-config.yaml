@@ -12,7 +12,7 @@ repos:
       - id: markdownlint
       - id: markdownlint-fix
   - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.11.0
+    rev: v3.12.2
     hooks:
       - id: markdown-link-check
         args: [-a, "200,206,403,429", -c, "mlc_config.json"]

@@ -102,7 +102,8 @@ Cover leftovers tightly and store in the refrigerator for up to 5 days.
 - <https://www.ambitiouskitchen.com/tart-cherry-pie/>
 - <https://youtube.com/watch?v=-srudZAM3U4&si=7EO1Ta71EUmRrmzI>
 
-[1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>>
+[1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>
+
 - <https://www.thekitchn.com/cherry-pie-recipe-showdown-23394698>
 
 [1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>

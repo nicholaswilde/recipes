@@ -47,6 +47,12 @@
       },
       {
         "pattern": "^https://www.thekitchn.com/recipe-scrambled-chickpea-and-spinach-pitas-234095"
+      },
+      {
+        "pattern": "^https://www.thekitchn.com/brussel-sprouts-melts-recipe-23432384"
+      },
+      {
+        "pattern": "^https://www.thekitchn.com/cherry-pie-recipe-showdown-23394698"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429, 405, 520]
