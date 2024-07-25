@@ -12,6 +12,12 @@ comments: true
 | Quarter Sheet | 9" x 13"  | 8 to 12     |
 | Eighth Sheet  | 6.5" x 9" | 3 to 6      |
 
+## :cherries: Cherries
+
+| Whole | Pitted & Stemmed | Ratio |
+|-------|------------------|-------|
+| 10    | 9                | 90%   |
+
 ## :egg: Large Egg Weight
 
 | White | Yolk  | Shell | Total |
