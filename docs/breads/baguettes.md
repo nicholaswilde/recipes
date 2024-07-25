@@ -31,8 +31,9 @@ tags:
 - 1 cast iron pan
 - 1 dish towel or couche
 - 1 parchment
+- 1 baker's lame
 
-## :pencil: Instructions
+## :pencil: Instructions - Starter
 
 ### Step 1
 
@@ -41,12 +42,14 @@ the starter ingredients.
 
 ### Step 2
 
-To make the starter: Mix water, instant yeast, and all-purpose flour together to make a soft dough. Cover and let rest
-at room temperature for about 14 hours; overnight works well. The starter should have expanded and become bubbly.
+Mix water, instant yeast, and all-purpose flour together to make a soft dough. Cover and let rest at room temperature
+for about 14 hours; overnight works well. The starter should have expanded and become bubbly.
+
+## :pencil: Instructions - Dough
 
 ### Step 3
 
-To make the dough: Mix and knead water, starter, instant yeast, all-purpose flour, and salt together — by hand, mixer
+Mix and knead water, starter, instant yeast, all-purpose flour, and salt together — by hand, mixer
 or bread machine set on the dough cycle — to make a soft, somewhat smooth dough; it should be cohesive, but the
 surface may still be a bit rough. If you're using a stand mixer, knead for about 4 minutes on medium-low speed (speed 2
 on a KitchenAid); the finished dough should stick a bit at the bottom of the bowl.
