@@ -52,7 +52,8 @@ for about 14 hours; overnight works well. The starter should have expanded and b
 Mix and knead water, starter, instant yeast, all-purpose flour, and salt together — by hand, mixer
 or bread machine set on the dough cycle — to make a soft, somewhat smooth dough; it should be cohesive, but the
 surface may still be a bit rough. If you're using a stand mixer, knead for about 4 minutes on medium-low speed (speed 2
-on a KitchenAid); the finished dough should stick a bit at the bottom of the bowl.
+on a KitchenAid); the finished dough should stick a bit at the bottom of the bowl. If kneading by hand, let the dough
+rest for 15 minutes and then give it a set of bowl folds, flip, and cover.
 
 ### Step 4
 
