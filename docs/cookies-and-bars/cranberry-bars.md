@@ -20,7 +20,7 @@ tags:
 - :salt: 0.25 tsp salt
 - :custard: 1 tsp cinnamon
 - :butter: 226 g cold cubed unsalted butter
-- :egge: 1 large egg
+- :egg: 1 large egg
 - :glass_of_milk: 60 g milk
 - :icecream: 2 tsp vanilla
 
@@ -28,7 +28,7 @@ tags:
 
 - :cherries: 400 g fresh or frozen cranberries
 - :candy: 150 g granulated sugar
-- :candy: 1 Tbsp cornstarch
+- :corn: 1 Tbsp cornstarch
 - :orange_circle: 2 tsp orange zest
 - :orange_circle: 15 g fresh orange juice
 - :chestnut: 30 g sliced almonds (optional)
