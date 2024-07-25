@@ -22,9 +22,9 @@ tags:
 - :butter: 6 Tbsp melted butter
 - :egg: 1 egg
 - :glass_of_milk: 0.67 cup [buttermilk][1]
-- :orange_circle: 1 large orange zest
-- :orange_circle: 0.33 cup orange juice
-- :red_circle: 1 cup cranberries
+- :tangerine: 1 large orange zest
+- :tangerine: 0.33 cup orange juice
+- :cherries: 1 cup cranberries
 - :chestnut: 0.5 cup almonds (optional)
 
 ## :cooking: Cookware
