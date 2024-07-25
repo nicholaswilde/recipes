@@ -12,7 +12,7 @@ comments: true
 ## :salt: Ingredients
 
 - :droplet: 8 cup water
-- :orange_circle: 3 large naval oranges
+- :tangerine: 3 large naval oranges
 - :candy: 2.5 cup granulated sugar
 - :salt: 0.5 tsp kosher salt
 
