@@ -26,7 +26,7 @@ tags:
 ## :salt: Ingredients - Filling
 
 - :corn: 11 g cornstarch
-- :cherry: 525 g sour cherries
+- :cherries: 525 g sour cherries
 - :candy: 100 g granulated sugar
 - :lemon: 1 tsp lemon juice
 - :chestnut: 0.25 tsp almond extract
