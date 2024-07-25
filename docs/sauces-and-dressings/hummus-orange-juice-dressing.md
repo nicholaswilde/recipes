@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :falafel: 3 Tbsp [hummus][1]
-- :orange_circle: 3 Tbsp orange juice
+- :tangerine: 3 Tbsp orange juice
 - :hotdog: 1 tsp [mustard][2] of choice
 - :sake: 2 Tbsp balsamic vinegar
 - :sweet_potato: 0.5 tsp pealed and chopped fresh ginger
