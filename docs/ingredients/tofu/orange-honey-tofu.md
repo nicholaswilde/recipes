@@ -4,7 +4,7 @@ tags:
   - asian
   - vegetarian
 ---
-# :orange_circle: Orange Honey Tofu
+# :tangerine: Orange Honey Tofu
 
 ![Orange Honey Tofu](../../assets/images/orange-honey-tofu.jpg){ loading=lazy }
 
@@ -16,7 +16,7 @@ tags:
 
 - :butter: 2 [pan-fried][1] or [air fryer tofu][2]
 - :stew: 1 cup [vegetable broth][3]
-- :orange_circle: 0.5 cup orange juice
+- :tangerine: 0.5 cup orange juice
 - :candy: 0.25 cup sugar (coconut sugar, brown sugar, or pure maple syrup)
 - :honey_pot: 8 tsp honey
 - :rice: 0.33 cup rice vinegar
