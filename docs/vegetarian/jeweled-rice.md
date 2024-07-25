@@ -17,7 +17,7 @@ tags:
 
 - :candy: 0.5 cup granulated sugar
 - :droplet: 1 cup water
-- :orange_circle: 1 orange zest
+- :tangerine: 1 orange zest
 - :carrot: 2 medium carrot
 - :grapes: 0.25 cup dates
 - :grapes: 0.25 cup raisins
