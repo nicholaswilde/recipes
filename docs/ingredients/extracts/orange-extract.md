@@ -4,7 +4,7 @@ tags:
   - extract
   - ingredient
 ---
-# :orange_circle: Orange Extract
+# :tangerine: Orange Extract
 
 ![Orange Extract](../../assets/images/orange-extract.jpg){ loading=lazy }
 
@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :orange_circle: 1 large navel orange
+- :tangerine: 1 large navel orange
 - :sake: 2 oz vodka
 
 ## :cooking: Cookware
