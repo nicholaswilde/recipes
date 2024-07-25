@@ -29,13 +29,13 @@ tags:
 - :cherries: 400 g fresh or frozen cranberries
 - :candy: 150 g granulated sugar
 - :corn: 1 Tbsp cornstarch
-- :orange_circle: 2 tsp orange zest
-- :orange_circle: 15 g fresh orange juice
+- :tangerine: 2 tsp orange zest
+- :tangerine: 15 g fresh orange juice
 - :chestnut: 30 g sliced almonds (optional)
 
 ## :salt: Ingredients - Icing
 
-- :orange_circle: 30 g fresh orange juice
+- :tangerine: 30 g fresh orange juice
 - :candy: 120 g confectioners' sugar
 
 ## :cooking: Cookware
