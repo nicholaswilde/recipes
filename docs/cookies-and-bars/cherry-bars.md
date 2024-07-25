@@ -4,7 +4,7 @@ tags:
   - bar
   - dessert
 ---
-# Cherry Bars
+# :cherries: Cherry Bars
 
 ![Cherry Bars][1]{ loading=lazy }
 
@@ -49,14 +49,14 @@ tags:
 
 !!! tip
 
-    You use dark sweet cherries (fresh or frozen) instead of sour cherries. Reduce the sugar in the filling to 1/3 cup
+    You can use dark sweet cherries (fresh or frozen) instead of sour cherries. Reduce the sugar in the filling to 1/3 cup
     (67 g) and add another 1 teaspoon of lemon juice. Still, if I had to choose, I would use sour cherries here.
 
 ## :pencil: Instructions - Crust & Topping
 
 ### Step 1
 
-Preheat oven to 350°F (177°C). Line a 9-inch square baking pan (I love this one and this one) with parchment paper,
+Preheat oven to 350°F (177°C). Line a 9-inch square baking pan with parchment paper,
 leaving an overhang on the sides to easily lift the bars out of the pan. Set aside.
 
 ### Step 2
