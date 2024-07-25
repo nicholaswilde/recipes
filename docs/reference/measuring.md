@@ -159,6 +159,7 @@ $$
 | Cornmeal (whole)                                      | 1 cup             | 138         | 4-7/8       |
 | Cornmeal (yellow, Quaker)                             | 1 cup             | 156         | 5-1/2       |
 | Cornstarch                                            | 1/4 cup           | 28          | 1           |
+| Couscous                                              | 1/3 cup           | 60          | 2.1         |
 | Cracked Wheat                                         | 1 cup             | 149         | 5-1/4       |
 | Cranberries (dried)                                   | 1/2 cup           | 57          | 2           |
 | Cranberries (fresh or frozen)                         | 1 cup             | 99          | 3-1/2       |
