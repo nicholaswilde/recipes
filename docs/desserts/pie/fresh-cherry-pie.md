@@ -6,7 +6,7 @@ tags:
 ---
 # :pie: Fresh Cherry Pie
 
-![Fresh Cherry Pie](../../assets/images/tart-cherry-pie.jpg){ loading=lazy }
+![Fresh Cherry Pie](../../assets/images/fresh-cherry-pie.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -97,13 +97,6 @@ Cover leftovers tightly and store in the refrigerator for up to 5 days.
 
 ## :link: Sources
 
-- <## :link: Sources
-
-- <https://www.ambitiouskitchen.com/tart-cherry-pie/>
-- <https://youtube.com/watch?v=-srudZAM3U4&si=7EO1Ta71EUmRrmzI>
-
-[1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>
-
-- <https://www.thekitchn.com/cherry-pie-recipe-showdown-23394698>
+- <https://sallysbakingaddiction.com/cherry-pie/>
 
 [1]: <../../ingredients/pastry-dough/deluxe-butter-pastry.md>
