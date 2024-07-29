@@ -39,7 +39,7 @@ tags:
 - 1 medium saucepan
 - 1 wooden spoon
 
-## :pencil: Instructions
+## :pencil: Instructions - Carrot Mixture
 
 ### Step 1
 
@@ -51,10 +51,14 @@ are tender.
 
 Add the diced dates, raisins, and dried cranberries to the carrots and stir to combine.
 
+## :pencil: Instructions - Onion Mixture
+
 ### Step 3
 
 In another saucepan, add 1 Tbsp olive oil and unsalted butter. Fry the saffron until fragrant. Add the diced onion,
 cardamom and turmeric. Stir often until the onion softens and begins to brown. Remove from the heat and set to the side.
+
+## :pencil: Instructions - Rice
 
 ### Step 4
 
