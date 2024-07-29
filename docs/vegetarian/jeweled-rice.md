@@ -30,6 +30,7 @@ tags:
 - :herb: 0.25 tsp turmeric
 - :olive: 1 Tbsp olive oil
 - :rice: 2 cups basmati rice
+- :chestnut: 1/4 cup unsalted, shelled, and natural pistachios
 - :droplet: 1 cup water
 - :olive: 3 Tbsp olive oil
 
@@ -58,8 +59,8 @@ cardamom and turmeric. Stir often until the onion softens and begins to brown. R
 ### Step 4
 
 In another pot, heat olive oil. Add the basmati rice and toast, stirring occasionally. At the last moment of toasting,
-add the nuts and then 1 cup of water. Bring to a boil and then reduce to a simmer. Cook the rice to "al-dente" and set
-to the side.
+add the unsalted, shelled, and natural pistachios and then 1 cup of water. Bring to a boil and then reduce to a simmer. Cook the
+rice to "al-dente" and set to the side.
 
 ### Step 5
 
