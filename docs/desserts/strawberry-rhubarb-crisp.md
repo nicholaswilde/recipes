@@ -29,7 +29,7 @@ tags:
 - :candy: 0.25 cup granulated sugar
 - :salt: 1 pinch salt
 - :ear_of_rice: 0.5 cup old fashioned oats
-- :butter: 3 oz unsalted butter
+- :butter: 3 oz cold unsalted butter
 
 ## :cooking: Cookware
 
