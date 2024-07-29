@@ -13,7 +13,7 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 8 | 48 minutes |
 
-## :salt: Ingredients
+## :salt: Ingredients - Carrot Mixture
 
 - :candy: 0.5 cup granulated sugar
 - :droplet: 1 cup water
@@ -22,12 +22,18 @@ tags:
 - :grapes: 0.25 cup dates
 - :grapes: 0.25 cup raisins
 - :cherries: 0.25 cup dried cranberries
+
+## :salt: Ingredients - Onion Mixture
+
 - :olive: 1 Tbsp olive oil
 - :butter: 2 Tbsp unsalted butter
 - :tulip: 0.25 tsp saffron
 - :onion: 1 medium onion
 - :herb: 0.25 tsp cardamom
 - :herb: 0.25 tsp turmeric
+
+## :salt: Ingredients - Rice
+
 - :olive: 1 Tbsp olive oil
 - :rice: 2 cups basmati rice
 - :chestnut: 1/4 cup unsalted, shelled, and natural pistachios
