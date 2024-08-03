@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+  - claire-saffitz
 ---
 # Rhubarb Cake
 
