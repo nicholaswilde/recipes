@@ -18,7 +18,7 @@ tags:
 - :candy: some Demerara sugar
 - :chopsticks: 454 g rhubarb
 - :droplet: 1 Tbsp water
-- :glass_with_straw: 0.5 tsp baking soda
+- :cup_with_straw: 0.5 tsp baking soda
 - :ear_of_rice: 228 g all-purpose flour
 - :dash: 2.5 tsp baking powder
 - :salt: 0.75 tsp salt
