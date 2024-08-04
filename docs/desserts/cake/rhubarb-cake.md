@@ -5,9 +5,9 @@ tags:
   - cake
   - claire-saffitz
 ---
-# Rhubarb Cake
+:chopsticks: # Rhubarb Cake
 
-:chopsticks: ![Rhubarb Cake][1]{ loading=lazy }
+![Rhubarb Cake][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
