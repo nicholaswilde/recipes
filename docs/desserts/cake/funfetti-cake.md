@@ -86,5 +86,5 @@ Frost the cake or cupcakes as desired and enjoy.
 
 ## :link: Sources
 
-- <https://mynameisyeh.com/mynameisyeh/2014/9/funfetti-cake>
+- <https://mynameisyeh.com/blog/2014/9/funfetti-cake>
 - <https://www.thekitchn.com/funfetti-cake-recipe-reviews-23228315>
