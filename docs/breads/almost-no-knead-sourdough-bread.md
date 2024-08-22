@@ -92,4 +92,4 @@ Remove from pot and rest and cool for 2 hours before serving.
 - Cook's Illustrated
 
 [1]: <../assets/images/almost-no-knead-sourdough-bread.jpg>
-[2]: <../../ingredients/sourdough-starter
+[2]: <../../ingredients/sourdough-starter.md>
