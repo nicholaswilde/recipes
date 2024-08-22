@@ -7,6 +7,8 @@ tags:
 ---
 # :peach: Peach Bars
 
+![Peach Bars][2]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 16 bars | 2.27 hours |
@@ -136,3 +138,4 @@ refrigerator for up to 1 week.
 - <https://www.youtube.com/watch?v=T1YQBxY-bv4>
 
 [1]: <../ingredients/pastry-dough/deluxe-butter-pastry.md>
+[2]: <../assets/images/peach-bars.jpg>
