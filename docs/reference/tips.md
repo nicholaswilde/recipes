@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :bulb: Tips
 
 Tips acquired throughout my cooking journey. These tips are used in recipes that don't necessarily call for it.
