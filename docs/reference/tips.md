@@ -16,6 +16,14 @@ Onions should be sautéed first to caramelize them and bring out the sweetness, 
 
 Garlic should not be burned and added right before liquid is added, right when the garlic aroma is perceived.
 
+### :corn: Cornstarch
+
+When using cornstarch as a thickener, always mix the cornstarch in a small amount of liquid in a container
+before adding to the dish to avoid lumps.
+
+Bring the dish back up to a boil for about 10 seconds to activate the cornstarch. The dish will thicken as
+it cools down to room temperature.
+
 ## :cupcake: Baking
 
 All ingredients should be at the same temperature, usually room temperature. An exception is when you want
