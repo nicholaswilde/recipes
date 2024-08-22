@@ -12,7 +12,11 @@ on:  # yamllint disable-line rule:truthy
       - 'docs/**/*.md'
       - 'cook/**/*.cook'
 
-jobs:
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:     
   markdown-link-check:
     name: Markdown link check
     runs-on: ubuntu-20.04
