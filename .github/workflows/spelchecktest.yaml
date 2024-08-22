@@ -1,5 +1,13 @@
 ---
-on: push
+on:  # yamllint disable-line rule:truthy
+  push:
+    paths:
+      - 'docs/**'
+      - 'mkdocs.**'
+    branches:
+      - main
+  workflow_dispatch:
+
 jobs:
   spellcheck:
     runs-on: ubuntu-latest
