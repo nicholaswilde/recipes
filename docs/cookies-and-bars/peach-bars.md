@@ -60,7 +60,8 @@ leaving an overhang on the sides to easily lift the bars out of the pan. Set asi
 
 ### Step 2
 
-Mix dough ingredients per [instructions][1] and chill.
+Mix dough ingredients per [instructions][1] and chill. Roll out the pie dough on a baking sheet and cut off the
+edges using a knife. Then chill the prepared sheet.
 
 ## :pencil: Instructions - Filling
 
