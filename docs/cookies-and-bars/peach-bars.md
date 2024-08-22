@@ -67,7 +67,7 @@ edges using a knife. Then chill the prepared sheet.
 
 ### Step 3
 
-Score peaches along merdian into 4 quadrants using a knife.
+Score peaches along meridian into 4 quadrants using a knife.
 
 ### Step 4
 
