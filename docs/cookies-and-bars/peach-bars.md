@@ -17,7 +17,7 @@ tags:
 - :candy: 8 g granulated sugar
 - :salt: 1/2 tsp salt
 - :butter: 113 g unsalted butter
-- :icecube: 60 g ice water
+- :ice_cube: 60 g ice water
 
 ## :salt: Ingredients - Filling
 
