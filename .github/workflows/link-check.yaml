@@ -30,5 +30,5 @@ jobs:
           folder-path: './docs'
           config-file: './mlc_config.json'
           use-quiet-mode: 'yes'
-          check-modified-files-only: 'yes'
+          check-modified-files-only: 'no'
           base-branch: 'main'
