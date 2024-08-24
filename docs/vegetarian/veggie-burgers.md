@@ -4,7 +4,7 @@ tags:
   - vegetarian
   - minimalist-baker
 ---
-# :burger: Veggie Burgers
+# :hamburger: Veggie Burgers
 
 ![Veggie Burgers][1]{ loading=lazy }
 
