@@ -15,11 +15,11 @@ jobs:
     steps:
       - name: Set variable based on event
         run: |
-          if [ "${{ github.event_name }}" == "push" ]; then
-            echo "EVENT_TYPE=push" >> $GITHUB_ENV
-          elif [ "${{ github.event_name }}" == "pull_request" ]; then
-            echo "EVENT_TYPE=pull_request" >> $GITHUB_ENV
-          fi
+          echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
+          # if [ "${{ github.event_name }}" == "push" ]; then
+          #   echo "EVENT_TYPE=push" >> $GITHUB_ENV
+          # else; then
+          #fi
 
   use-variable:
     runs-on: ubuntu-latest
