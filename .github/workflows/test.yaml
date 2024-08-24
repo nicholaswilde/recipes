@@ -21,6 +21,8 @@ jobs:
           #   echo "EVENT_TYPE=push" >> $GITHUB_ENV
           # else; then
           #fi
+      - name: Print event type
+        run: echo "The event type is $EVENT_TYPE"
 
   use-variable:
     runs-on: ubuntu-latest
