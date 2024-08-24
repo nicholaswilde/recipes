@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Set variable based on event
         run: |
-          echo "EVENT_TYPE=${{ github.event_name }}" >> $GITHUB_ENV
+          echo "EVENT_TYPE=test" >> $GITHUB_ENV
           # if [ "${{ github.event_name }}" == "push" ]; then
           #   echo "EVENT_TYPE=push" >> $GITHUB_ENV
           # else; then
