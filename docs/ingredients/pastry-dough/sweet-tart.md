@@ -17,7 +17,7 @@ tags:
 
 - :chestnut: 40 g almond flour
 - :ear_of_rice: 130 g all-purpose flour
-- :candy: 30 g confectioners' sugar (1oz / 30g)
+- :candy: 30 g confectioners' sugar
 - :salt: 1/2 tsp Diamond Crystal kosher salt
 - :butter: 1 stick (113 g) unsalted butter
 - :egg: 1 large egg yolk
