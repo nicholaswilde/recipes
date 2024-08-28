@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients - Filling
 
 - :chocolate_bar: 8 oz bittersweet chocolate, chopped
-- :milk_glass: 1 cup heavy cream
+- :glass_of_milk: 1 cup heavy cream
 - :candy: 3 Tbsp granulated sugar
 - :butter: 3 Tbsp unsalted butter
 - :icecream: 1 tsp vanilla
