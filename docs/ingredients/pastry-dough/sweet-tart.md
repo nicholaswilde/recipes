@@ -86,6 +86,10 @@ Pop the dough into the freezer for 5 minutes.
 
 Use a knife to trim the top edge of the pan.
 
+!!! tip
+
+    Hold onto the pie scraps to use to patch any cracks after parbaking.
+
 ### Step 13
 
 Take aluminum foil and press it into the bottom of the pan and press the foil up the sides of the pan. Ensure to
