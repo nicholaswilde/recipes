@@ -5,7 +5,7 @@ tags:
 ---
 # :corn: The Best Cornbread
 
-![The Best Cornbread](../assets/images/the-best-cornbread.jpg){ loading=lazy }
+![The Best Cornbread][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -27,7 +27,7 @@ tags:
 
 - :honey_pot: 0.5 cup honey
 - :butter: 1 cup unsalted butter
-- :dango: 0.5 cup marshmallow fluff
+- :dango: 0.5 cup [marshmallow fluff][2]
 
 ## :cooking: Cookware
 
@@ -55,10 +55,13 @@ out clean or with a few moist crumbs.
 
 ### Step 4
 
-For the honey butter, whip the honey, unsalted butter, and marshmallow fluff together with an electric mixer. Best
+For the honey butter, whip the honey, unsalted butter, and [marshmallow fluff][2] together with an electric mixer. Best
 served at room temperature so it is soft and spreadable.
 
 ## :link: Sources
 
 - <https://www.melskitchencafe.com/the-cornbread-and-fluffy-honey-butter/>
 - <https://www.thepancakeprincess.com/2019/11/24/best-sweet-cornbread-bake-off/>
+
+[1]: <../assets/images/the-best-cornbread.jpg>
+[2]: <../ingredients/marshmallow-fluff.md>
