@@ -16,7 +16,7 @@ tags:
 
 - :candy: 2 cups confectioners' sugar
 - :carrot: some vegetable shortening
-- :dango: 1 jar Jet-Puff Marshmallow Creme
+- :dango: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
 - :cake: 1 Wilton white fondant
 - :white_circle: some white food coloring (optional)
 
@@ -31,7 +31,7 @@ tags:
 
 Get a large bowl and place some of your 2 lb bag confectioners' sugar in it (about 2 cups). Take a large spoon and
 lather that thing up with vegetable shortening. It will make your life a whole lot easier getting all the fluff out of
-the jar. Place all the fluff (Jet-Puff Marshmallow Creme) on top of the confectioners' sugar in the bowl.
+the jar. Place all the fluff (Jet-Puffed [Marshmallow Creme][2]) on top of the confectioners' sugar in the bowl.
 
 ### Step 2
 
@@ -71,3 +71,4 @@ add up to two teaspoons. For modeling please let it set overnight and allow the 
 - The Short Cakes
 
 [1]: <../../assets/images/danette's-kosher-marshmallow-creme-fondant.png>
+[2]: <../marshmallow-fluff.md>
