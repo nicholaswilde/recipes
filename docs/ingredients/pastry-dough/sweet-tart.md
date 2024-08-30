@@ -56,7 +56,7 @@ Add liquid ingredients to food processor and pulse.
 ### Step 6
 
 Tip the dough onto a lightly floured work surface and shape it into a ball. Flatten with your fingers to a rectangle
-and wrap in cling film. Chill for at least 3 hours before using. 15 minutes.
+and wrap in cling film. Chill for at least 1 hour before using. 15 minutes.
 
 ### Step 7
 
