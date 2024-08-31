@@ -13,7 +13,7 @@ jobs:
   set-variable:
     runs-on: ubuntu-latest
     outputs:
-      EVENT_TYPE: ${{ steps.step1.outputs.EVENT_TYPE }}
+      EVENT_TYPE: ${{ steps.set-variable.outputs.EVENT_TYPE }}
     steps:
       - name: Set variable based on event
         id: set-variable
