@@ -28,11 +28,11 @@ jobs:
   use-variable:
     runs-on: ubuntu-latest
     needs: set-variable
+    env:
+      EVENT_TYPE: ${{ steps.set-variable.outputs.EVENT_TYPE }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Print event type
-        env:
-          EVENT_TYPE: ${{ steps.set-variable.outputs.EVENT_TYPE }}
         run: echo "The event type is $EVENT_TYPE"
