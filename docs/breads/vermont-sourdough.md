@@ -121,6 +121,6 @@ Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze f
 
 - <https://www.kingarthurbaking.com/recipes/vermont-sourdough-recipe>
 
-[1]: <../assets/images/the-bread-code-sourdough.jpg>
+[1]: <../assets/images/vermont-sourdough.jpg>
 [2]: <../ingredients/sourdough-starter.md>
 [3]: <https://nicholaswilde.io/sourdough-calculator/>
