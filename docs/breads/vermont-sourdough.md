@@ -58,8 +58,8 @@ a chance to absorb the water, making the resulting dough easier to work with.
 ## Step 4
 
 Sprinkle the salt over the dough. Mix it in and continue to mix for several minutes. The dough won’t be smooth and
-elastic, but it should be cohesive and starting to feel a bit springy. Using a stand mixer and dough hook at medium speed thi
-s will take about 2 to 3 minutes.
+elastic, but it should be cohesive and starting to feel a bit springy. Using a stand mixer and dough hook at medium speed
+this will take about 2 to 3 minutes.
 
 !!! tip
 
