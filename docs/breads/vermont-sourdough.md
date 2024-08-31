@@ -36,16 +36,18 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - 1 Dutch oven
 - 1 cooling rack
 
-## :pencil: Instructions
+## :pencil: Instructions - Levain
 
 ### Step 1
 
 To make the liquid levain starter: Mix all of the ingredients in a medium-sized mixing bowl, or the bowl of a stand
 mixer. Cover and let sit for 12 to 16 hours at room temperature. The mixture should bubble and expand.
 
+## :pencil: Instructions - Dough
+
 ## Step 2
 
-To make the dough: Add all of the dough ingredients (except the salt) to the bowl with the levain. Mix briefly, just to 
+Add all of the dough ingredients (except the salt) to the bowl with the levain. Mix briefly, just to 
 combine. If you’re using a stand mixer, use the dough hook on first speed, mixing just until everything is incorporated.
 
 ## Step 3
@@ -58,6 +60,10 @@ a chance to absorb the water, making the resulting dough easier to work with.
 Sprinkle the salt over the dough. Mix it in and continue to mix for several minutes. The dough won’t be smooth and
 elastic, but it should be cohesive and starting to feel a bit springy. Using a stand mixer and dough hook at medium speed thi
 s will take about 2 to 3 minutes.
+
+!!! tip
+
+    Other mix ins can be incorporated at this step.
 
 ## Step 5
 
@@ -73,7 +79,7 @@ the dough, is called a fold. Re-cover the bowl, and let the dough rise for anoth
 
 ## Step 7
 
-Gently deflate the dough and divide it into two pieces; each will weigh about 750g. Shape each piece into a rough ball, 
+Gently deflate the dough and divide it into two pieces; each will weigh about 750 g. Shape each piece into a rough ball, 
 cover, and let rest for about 20 minutes; this rest will make the loaves easier to shape.
 
 ## Step 8
