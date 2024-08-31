@@ -14,14 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 1.5 cups [blanched almonds][2]
-- :herb: 0.25 tsp dulse flakes or granules
-- :lemon: 2 Tbsp lemon juice
-- :salt: 1 tsp salt
-
-- 1/3 cup (76g) water
-- 149 g granulated sugar
-- :corn: 234 g light corn syrup, dark corn syrup, or honey
+- :droplet: 76 g water
+- :candy: 149 g granulated sugar
+- :corn: 234 g light or dark corn syrup or honey
 - :egg: 3 large egg whites
 - :rice: 1/2 tsp cream of tartar
 - :icecream: 1 tsp vanilla
