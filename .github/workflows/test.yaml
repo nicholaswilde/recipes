@@ -36,6 +36,6 @@ jobs:
       - env:
           OUTPUT1: ${{needs.job1.outputs.output1}}
           OUTPUT2: ${{needs.job1.outputs.output2}}
-          MOD_ONLY: ${{ steps.step3.outputs.MOD_ONLY }}
+          MOD_ONLY: ${{ needs.job1.outputs.MOD_ONLY }}
         run: echo "$OUTPUT1 $OUTPUT2 $MOD_ONLY"
         
