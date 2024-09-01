@@ -26,7 +26,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" == "push" ]; then
             echo "MOD_ONLY=yes" >> "$GITHUB_OUTPUT"
-          else; then
+          else
             echo "MOD_ONLY=no" >> "$GITHUB_OUTPUT"
           fi
   job2:
