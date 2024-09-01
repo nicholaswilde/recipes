@@ -24,10 +24,10 @@ jobs:
     steps:
       - name: Get event type
         run: |
-          if [ "${{ github.event_name }}" == "push" ]; then
-            echo "MOD_ONLY=yes" >> "$GITHUB_ENV"
-          else
+          if [ "${{ github.event_name }}" == "schedule" ]; then
             echo "MOD_ONLY=no" >> "$GITHUB_ENV"
+          else
+            echo "MOD_ONLY=yes" >> "$GITHUB_ENV"
           fi
       - name: Checkout repo
         uses: actions/checkout@v4
