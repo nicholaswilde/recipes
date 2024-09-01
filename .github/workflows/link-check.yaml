@@ -23,11 +23,12 @@ jobs:
 
     steps:
       - name: Get event type
+        id: get-type
         run: |
           if [ "${{ github.event_name }}" == "schedule" ]; then
-            echo "MOD_ONLY=no" >> "$GITHUB_ENV"
+            echo "MOD_ONLY=no" >> "$GITHUB_OUTPUT"
           else
-            echo "MOD_ONLY=yes" >> "$GITHUB_ENV"
+            echo "MOD_ONLY=yes" >> "$GITHUB_OUTPUT"
           fi
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -37,5 +38,5 @@ jobs:
           folder-path: './docs'
           config-file: './mlc_config.json'
           use-quiet-mode: 'yes'
-          check-modified-files-only: "$MOD_ONLY"
+          check-modified-files-only: ${{ steps.get-type.outputs.MOD_ONLY }}
           base-branch: 'main'
