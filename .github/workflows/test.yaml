@@ -20,7 +20,7 @@ jobs:
       - id: step1
         run: echo "test=hello" >> "$GITHUB_OUTPUT"
       - id: step2
-        run: echo "test=world" >> "$GITHUB_OUTPUT"
+        run: echo "test=${{ github.event_name }}" >> "$GITHUB_OUTPUT"
       - id: step3
         run: echo "${{ github.event_name }}"
   job2:
