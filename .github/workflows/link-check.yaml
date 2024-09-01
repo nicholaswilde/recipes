@@ -22,6 +22,14 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
+      - name: Get event type
+        run: |
+          if [ "${{ github.event_name }}" == "push" ]; then
+            echo "MOD_ONLY=yes" >> "$GITHUB_ENV"
+          else
+            echo "MOD_ONLY=no" >> "$GITHUB_ENV"
+          fi
+      - name: Echo test
       - name: Checkout repo
         uses: actions/checkout@v4
       - name: Check markdown links
@@ -30,5 +38,5 @@ jobs:
           folder-path: './docs'
           config-file: './mlc_config.json'
           use-quiet-mode: 'yes'
-          check-modified-files-only: 'no'
+          check-modified-files-only: "$MOD_ONLY"
           base-branch: 'main'
