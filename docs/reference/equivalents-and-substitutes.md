@@ -73,6 +73,13 @@ Let mixture sit for 5 minutes.
 | 1 Garlic Clove                | 1/2 tsp       | 1/2 tsp       | 1/4 tsp           | 1/8 tsp       | 1/2 tsp         |
 | 2 Garlic Clove                | 1 tsp         | 1 tsp         | 1/2 tsp           | 1/4 tsp       | 1 tsp           |
 
+## :herb: Herb Sprigs
+
+| Herb     | Volume | Sprigs | Weight (g) |
+|----------|--------|--------|------------|
+| Thyme    | 2 Tbsp | 12     | 11.25      |
+| Rosemary | 2 Tbsp | 3 6-in | 5.6        |
+
 ## :herb: [Herb Substitution][5]
 
 | Herb              | Substitutes                                                                           |
