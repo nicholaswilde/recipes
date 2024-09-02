@@ -29,6 +29,12 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - :microbe: all of the levain
 - :salt: 18 g salt
 
+## :salt: Ingredients - Mix Ins (Optional)
+
+- :herb: 2 Tbsp Rosemary
+- :herb: 2 Tbsp Thyme
+- :lemon: 2 Tbsp lemon zest
+
 ## :cooking: Cookware
 
 - 1 bowl
