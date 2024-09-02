@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :rice: 1 cup brown rice
+- :rice: 1 cup cooked brown rice
 - :chestnut: 1 cup raw walnuts
 - :olive: 0.5 Tbsp oil
 - :onion: 0.5 medium white onion
@@ -26,7 +26,7 @@ tags:
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
 - :maple_leaf: 1 Tbsp brown sugar
-- :canned_food: 1.5 cups dried black beans
+- :canned_food: 1.5 cups cooked dried [black beans][2]
 - :bread: 0.33 cup panko bread crumbs
 - :hot_springs: 4 Tbsp BBQ sauce
 
@@ -61,7 +61,7 @@ brown sugar and blend until a fine meal is achieved. Set aside.
 
 ### Step 5
 
-To a large mixing bowl, add drained, dried black beans and mash well with a fork, leaving only a few whole beans.
+To a large mixing bowl, add drained, cooked dried [black beans][2] and mash well with a fork, leaving only a few whole beans.
 
 ### Step 6
 
@@ -107,3 +107,4 @@ Serve burgers as is, or on toasted buns with desired toppings. Leftovers keep in
 - <https://minimalistbaker.com/easy-grillable-veggie-burgers/>
 
 [1]: <../assets/images/veggie-burgers.jpg>
+[2]: <../pressurecooker/black-beans.md>
