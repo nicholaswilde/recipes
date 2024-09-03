@@ -5,7 +5,7 @@ tags:
   - cake
   - claire-saffitz
 ---
-:chopsticks: # Rhubarb Cake
+# :chopsticks: Rhubarb Cake
 
 ![Rhubarb Cake][1]{ loading=lazy }
 
