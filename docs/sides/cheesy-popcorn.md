@@ -43,4 +43,8 @@ burns.
 
 Pour the popcorn into a bowl, and toss in the seasoning mix.
 
+## :link: Source
+
+- <https://youtube.com/watch?v=G5NEwx6KqPM>
+
 [1]: <../assets/images/cheesy-popcorn.jpg>
