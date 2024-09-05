@@ -73,6 +73,6 @@ If preparing ahead of time, pour the sauce into a 1 pint jar, cover, and chill.
 
 ## :link: Source
 
-- What's For Dessert
+- <https://www.youtube.com/watch?v=epGtaTsYxYY>
 
 [1]: <../assets/images/hot-fudge-sauce.jpg>
