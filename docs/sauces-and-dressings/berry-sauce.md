@@ -4,7 +4,7 @@ tags:
   - sauce
   - dressing
 ---
-# Berry Sauce
+# :strawberry: Berry Sauce
 
 ![Berry Sauce][1]{ loading=lazy }
 
@@ -14,12 +14,12 @@ tags:
 
 ## :salt: Ingredients
 
-- 100 g granulated sugar
-- 57 g water
-- 170 g frozen raspberries
-- 170 g frozen blackberries
-- 1 tsp vanilla
-- 1 pinch salt
+- :candy: 100 g granulated sugar
+- :droplet: 57 g water
+- :strawberry: 170 g frozen raspberries
+- :strawberry: 170 g frozen blackberries
+- :icecream: 1 tsp vanilla
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
@@ -62,4 +62,3 @@ Transfer the berry sauce to a lidded container and refrigerate until cold.
 - What's For Dessert
 
 [1]: <../assets/images/berry-sauce.jpg>
-
