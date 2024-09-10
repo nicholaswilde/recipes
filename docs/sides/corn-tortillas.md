@@ -5,15 +5,27 @@ comments: true
 
 ![Corn Tortillas](../assets/images/corn-tortillas.png){ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 12 | 24 minutes |
+| :timer_clock: Total Time |
+|:------------------------:|
+| 24 minutes               |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 12                                 |
 
 - :corn: 2 cups masa harina
 - :salt: 0.5 tsp salt
 - :droplet: 1.5 cups hot water
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 6                                  |
+
+- :corn: 1 cup masa harina
+- :salt: 0.25 tsp salt
+- :droplet: 0.75 cups hot water
 
 ## :cooking: Cookware
 
