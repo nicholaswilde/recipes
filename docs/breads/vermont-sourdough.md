@@ -29,11 +29,22 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - :microbe: all of the levain
 - :salt: 18 g salt
 
-## :salt: Ingredients - Mix Ins (Optional)
+## :salt: Mix Ins (Optional)
+
+### :herb: Rosemary
 
 - :herb: 2 Tbsp Rosemary
+
+### :lemon: Lemon & Thyme
+
 - :herb: 2 Tbsp Thyme
 - :lemon: 2 Tbsp lemon zest
+
+### :hot_pepper: Jalapeño Cheedar
+
+- :cheese_wedge: 210 g sharp cheddar cheese
+- :hot_pepper: 67 g jalapeño pepper
+- :honey_pot: 34 g honey
 
 ## :cooking: Cookware
 
