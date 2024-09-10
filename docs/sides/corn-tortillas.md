@@ -15,7 +15,7 @@ comments: true
 |:----------------------------------:|
 | 12                                 |
 
-- :corn: 2 cups masa harina
+- :corn: 2 cups (186 g) masa harina
 - :salt: 0.5 tsp salt
 - :droplet: 1.5 cups hot water
 
@@ -23,7 +23,7 @@ comments: true
 |:----------------------------------:|
 | 6                                  |
 
-- :corn: 1 cup masa harina
+- :corn: 1 cup (93 g) masa harina
 - :salt: 0.25 tsp salt
 - :droplet: 0.75 cups hot water
 
