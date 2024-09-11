@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup (57 g) raw cashews
+- :chestnut: 0.25 to 0.5 cup (57 g) raw cashews
 - :lemon: 2 Tbsp lemon juice
 - :salt: 0.5 tsp salt
 - :droplet: 0.5 cup (113 g) water
