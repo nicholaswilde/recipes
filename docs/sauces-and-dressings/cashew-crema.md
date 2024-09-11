@@ -45,6 +45,12 @@ Blend until smooth and creamy.
 
 Refrigerate in an airtight container for up to 5 days.
 
+!! tip
+
+    Use in place of coconut milk or dairy cream in pasta, soup, overnight oats, beverages (only if using the lesser
+    amount of cashews - and strain for best texture), desserts, and anything else that would benefit from a creamy
+    boost! Sadly, it doesn’t work for making whipped cream.
+
 ## :link: Source
 
 - The Gracias Madre Cookbook
