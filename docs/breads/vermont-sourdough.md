@@ -31,9 +31,16 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 
 ## :salt: Mix Ins (Optional)
 
-### :herb: Rosemary
+### :tomato: Sundried Tomato & Capers
+
+- :tomato: 116 g sundried tomoto, not oil packed
+- :brown_circle: 145 g capers, strained & patted dry
+- :herb: 1 Tbsp dried oregano
+
+### :herb: Rosemary & Roasted Garlic
 
 - :herb: 2 Tbsp Rosemary
+- :garlic: 2 garlic heads
 
 ### :lemon: Lemon & Thyme
 
