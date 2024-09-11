@@ -14,6 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
+!!! tip
+
+    Use the lesser amount for the texture of light coconut milk and the greater amount to resemble full-fat coconut
+    milk
+
 - :chestnut: 0.25 to 0.5 cup (57 g) raw cashews
 - :lemon: 2 Tbsp lemon juice
 - :salt: 0.5 tsp salt
@@ -45,7 +50,11 @@ Blend until smooth and creamy.
 
 Refrigerate in an airtight container for up to 5 days.
 
-!! tip
+!!! tip
+
+    If the cream is grainy, try straining it through a fine mesh sieve.
+
+!!! tip
 
     Use in place of coconut milk or dairy cream in pasta, soup, overnight oats, beverages (only if using the lesser
     amount of cashews - and strain for best texture), desserts, and anything else that would benefit from a creamy
