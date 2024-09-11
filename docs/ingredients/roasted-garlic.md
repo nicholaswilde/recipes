@@ -15,6 +15,7 @@ tags:
 
 - :garlic: 1 whole garlic bulb
 - :olive: some olive oil
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
@@ -47,18 +48,22 @@ cut, exposed garlic cloves.
 
 ### Step 6
 
-Cover the bulb with aluminum foil.
+Sprinkle a pinch of salt over the top of the garlic head.
 
 ### Step 7
 
-Bake at 400°F (205°C) for 30 to 40 minutes, or until the cloves are lightly browned and feel soft when pressed.
+Cover the bulb with aluminum foil.
 
 ### Step 8
+
+Bake at 400°F (205°C) for 30 to 40 minutes, or until the cloves are lightly browned and feel soft when pressed.
+
+### Step 9
 
 Allow the garlic to cool enough so you can touch it without burning yourself. Use a small knife cut the skin slightly
 around each clove. Use a cocktail fork or your fingers to pull or squeeze the roasted garlic cloves out of their skins.
 
-### Step 9
+### Step 10
 
 Eat as is (I love straight roasted garlic) or mash with a fork and use for cooking. Can be spread over warm French
 bread, mixed with sour cream for a topping for baked potatoes, or mixed in with Parmesan and pasta.
