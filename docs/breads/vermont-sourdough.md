@@ -29,11 +29,29 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - :microbe: all of the levain
 - :salt: 18 g salt
 
-## :salt: Ingredients - Mix Ins (Optional)
+## :salt: Mix Ins (Optional)
+
+### :tomato: Sundried Tomato & Capers
+
+- :tomato: 116 g sundried tomoto, not oil packed
+- :brown_circle: 145 g capers, strained & patted dry
+- :herb: 1 Tbsp dried oregano
+
+### :herb: Rosemary & Roasted Garlic
 
 - :herb: 2 Tbsp Rosemary
+- :garlic: 2 garlic heads
+
+### :lemon: Lemon & Thyme
+
 - :herb: 2 Tbsp Thyme
 - :lemon: 2 Tbsp lemon zest
+
+### :hot_pepper: Jalapeño Cheddar
+
+- :cheese_wedge: 210 g sharp cheddar cheese
+- :hot_pepper: 67 g jalapeño pepper
+- :honey_pot: 34 g honey
 
 ## :cooking: Cookware
 

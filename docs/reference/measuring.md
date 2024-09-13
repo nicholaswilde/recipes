@@ -222,6 +222,7 @@ $$
 | Marshmallow Fluff                                     | 1 cup             | 128         | 4-1/2       |
 | Marshmallows (mini)                                   | 1 cup             | 43          | 1-1/2       |
 | Marzipan                                              | 1 cup             | 290         | 10-1/8      |
+| Masa Harina                                           | 1 cup             | 93          | 3-1/4       |
 | Mashed Potatoes                                       | 1 cup             | 213         | 7-1/2       |
 | [Mayonnaise][1]                                       | 1/2 cup           | 113         | 4           |
 | Meringue Powder                                       | 1/4 cup           | 43          | 1-1/2       |
