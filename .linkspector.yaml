@@ -1,0 +1,11 @@
+---
+baseUrl: https://nicholaswilde.io/recipes
+dirs:
+  - docs
+excludedDirs:
+  - docs/assets
+ignorePatterns:
+  - pattern: '^https://www.thekitchn.com/.*$'
+replacementPatterns:
+  - pattern: "(\\.md\\#)"
+    replacement: '/#'

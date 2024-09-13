@@ -8,6 +8,12 @@ vars:
   PORT: 8000
 
 tasks:
+  linkspector:
+    desc: linkspector
+    cmds:
+      - >-
+        nicholas@amd:~/git/nicholaswilde/recipes$ docker run --rm -it -v "${PWD}":/app -v "${PWD}"/.linkspector.yaml:/path/to/custom-config.yml        --name linkspector umbrelladocs/linkspector bash -c 'linkspector check -c /path/to/custom-config.yml'
+
   add-lazy-loading:
     desc: Add lazy image loading
     dir: '{{.USER_WORKING_DIR}}'
