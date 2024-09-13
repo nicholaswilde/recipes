@@ -2,24 +2,25 @@
 comments: true
 tags:
   - sauce
-  - italian
+  - the-new-york-times
 ---
-# New York Times' Classic Marinara Sauce
+# :tomato: New York Times' Classic Marinara Sauce
 
-![New York Times' Classic Marinara Sauce](../assets/images/new-york-times'-classic-marinara-sauce.jpg){ loading=lazy }
+![New York Times' Classic Marinara Sauce][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 10 minutes |
+| 8 | 25 minutes |
 
 ## :salt: Ingredients
 
-- 1 28-oz can tomatoes
-- 7 cloves garlic
-- 1 heaping tsp chili pepper flakes
-- 0.25 tsp oregano
-- 1 tsp kosher salt
-- 1 large basil sprig
+- :tomato: 1 28-oz can tomatoes
+- :olive: 0.25 cup olive oil
+- :garlic: 7 cloves garlic
+- :hot_pepper: 1 pinch whole chili or red pepper flakes (optional)
+- :herb: 0.25 tsp oregano
+- :salt: 1 tsp kosher salt
+- :herb: 1 large basil sprig
 
 ## :cooking: Cookware
 
@@ -36,9 +37,9 @@ juice. Reserve.
 
 ### Step 2
 
-In a large skillet (do not use a deep pot) over medium heat, heat the oil. When it is hot, add garlic. As soon as the
-garlic is sizzling (do not let it burn) add the tomatoes, water, chili pepper flakes or TJ's Bamba Hot Pepper Sauce,
-oregano, and kosher salt. Stir.
+In a large skillet (do not use a deep pot) over medium heat, heat the olive oil. When it is hot, add the peeled and
+slivered garlic. As soon as the garlic is sizzling (do not let it burn) add the tomatoes, reserved tomato water, whole
+chili or red pepper flakes (optional) or TJ's Bamba Hot Pepper Sauce, oregano, and kosher salt. Stir.
 
 ### Step 3
 
@@ -50,4 +51,10 @@ Simmer until sauce has thickened and oil on surface is a deep orange, about 10 m
 
 ### Step 5
 
-Taste and season as needed. Discard basil.
+Taste and season as needed. Discard basil and chile, if using.
+
+## :link: Source
+
+- The New York Times
+
+[1]: <../assets/images/new-york-times'-classic-marinara-sauce.jpg>
