@@ -37,7 +37,7 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - :brown_circle: 145 g capers, strained & patted dry
 - :herb: 1 Tbsp dried oregano
 
-### :herb: Rosemary & Roasted Garlic
+### :herb: Rosemary & [Roasted Garlic][4]
 
 - :herb: 2 Tbsp Rosemary
 - :garlic: 2 garlic heads
@@ -148,3 +148,4 @@ Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze f
 [1]: <../assets/images/vermont-sourdough.jpg>
 [2]: <../ingredients/sourdough-starter.md>
 [3]: <https://nicholaswilde.io/sourdough-calculator/>
+[4]: <../ingredients/roasted-garlic.md>
