@@ -31,9 +31,9 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 
 ## :salt: Mix Ins (Optional)
 
-### :tomato: Sundried Tomato & Capers
+### :tomato: Sun-dried Tomato & Capers
 
-- :tomato: 116 g sundried tomoto, not oil packed
+- :tomato: 116 g sun-dried tomato, not oil packed
 - :brown_circle: 145 g capers, strained & patted dry
 - :herb: 1 Tbsp dried oregano
 
