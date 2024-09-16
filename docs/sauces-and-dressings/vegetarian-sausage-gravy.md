@@ -53,11 +53,11 @@ Store leftovers in a covered container in the refrigerator for up to 4 days. Reh
 
 ### Step 6
 
-Can be served with [Jojo's biscuits][2].
+Can be served with [buttermilk biscuits][2].
 
 ## :link: Source
 
 - <https://magnolia.com/blog/recipe/f65330af-c67f-436d-b96c-7db357d56c4b/classic-sausage-gravy/>
 
 [1]: <../ingredients/roux.md>
-[2]: <../sides/jojo's-biscuits.md>
+[2]: <../breads/buttermilk-biscuits.md>
