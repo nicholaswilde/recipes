@@ -17,7 +17,7 @@ tags:
 - :onion: 2 small shallots
 - :jack_o_lantern: 2 lbs butternut squash
 - :hot_pepper: 0.13 red pepper flakes
-- :garlic: some ginger
+- :sweet_potato: some ginger
 - :salt: some salt
 - :salt: some pepper
 - :garlic: 2 cloves garlic
