@@ -3,7 +3,7 @@ comments: true
 tags:
   - sauce
 ---
-# :jack_o_lantern: Butternut Squash Sauce
+# :sweet_potato: Butternut Squash Sauce
 
 ![Butternut Squash Sauce][1]{ loading=lazy }
 
@@ -15,7 +15,7 @@ tags:
 
 - :stew: 2 cups vegetable broth
 - :onion: 2 small shallots
-- :jack_o_lantern: 2 lbs butternut squash
+- :sweet_potato: 2 lbs butternut squash
 - :hot_pepper: 0.13 red pepper flakes
 - :sweet_potato: some ginger
 - :salt: some salt
