@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 3 Tbsp all-purpose flour
-- :hot_pepper: 1 Tbsp chili powder
+- :hot_pepper: 0.25 tsp chili powder
 - :herb: 1 tsp cumin
 - :garlic: 0.5 tsp garlic powder
 - :herb: 0.25 tsp oregano
