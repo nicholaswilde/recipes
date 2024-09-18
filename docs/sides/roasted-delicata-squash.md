@@ -18,6 +18,12 @@ tags:
 - :salt: 1 tsp salt
 - :hot_pepper: 0.13 tsp cayenne pepper
 
+### :candy: Sweet Variation
+
+- :maple_leaf: 2 Tbsp maple syrup
+- :olive: 2 Tbsp olive oil
+- :custard: 1/2 tsp cinnamon
+
 ## :cooking: Cookware
 
 - 1 spoon
@@ -41,6 +47,10 @@ Preheat the oven to 450°F (232°C). Line a rimmed baking sheet with parchment p
 Place squash halves cut-side down on a cutting board. Cut into 3/8-inch slices; transfer slices to a large bowl. Drizzle
 with olive oil; add salt and cayenne pepper. Toss until squash is well coated. Arrange squash in a single layer on the
 prepared baking sheet.
+
+!!! tip "Sweet Variation"
+
+    A sweet variable can be made by using maple syrup, olive oil, and cinnamon.
 
 ### Step 4
 
