@@ -10,7 +10,7 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 5 | 13 minutes |
+| 6 | 13 minutes |
 
 ## :salt: Ingredients
 
@@ -20,7 +20,7 @@ tags:
 - :onion: 0.5 medium white onion
 - :salt: some salt
 - :salt: some pepper
-- :hot_pepper: 1 Tbsp chili powder
+- :hot_pepper: 0.5 tsp chili powder
 - :herb: 1 Tbsp cumin
 - :bell_pepper: 1 Tbsp smoked paprika
 - :salt: 0.5 tsp salt
@@ -29,10 +29,10 @@ tags:
 - :canned_food: 1.5 cups cooked dried [black beans][2]
 - :bread: 0.33 cup panko bread crumbs
 - :hot_springs: 4 Tbsp BBQ sauce
+- :egg: 1 flax egg
 
 ## :cooking: Cookware
 
-- 1 skillet
 - 1 blender or food processor
 - 1 large mixing bowl
 
@@ -45,8 +45,7 @@ the next step.
 
 ### Step 2
 
-Heat skillet over medium heat. Once hot, add raw walnuts and toast for 5 to 7 minutes, stirring frequently, until
-fragrant and golden brown. Let cool and move onto the next step.
+[Toast the raw walnuts][3] until fragrant and golden brown. Let cool and move onto the next step.
 
 ### Step 3
 
@@ -61,14 +60,15 @@ brown sugar and blend until a fine meal is achieved. Set aside.
 
 ### Step 5
 
-To a large mixing bowl, add drained, cooked dried [black beans][2] and mash well with a fork, leaving only a few whole beans.
+To a large mixing bowl, add drained, cooked dried [black beans][2] and mash well with a fork, leaving only a few whole
+beans.
 
 ### Step 6
 
-Next add cooked rice, spice-walnut mixture, sautéed onion, panko bread crumbs, 3 to 4 Tbsp of BBQ sauce, and mix
-thoroughly with a wooden spoon for 1 to 2 minutes, or until a moldable dough forms. If dry, add an extra 1 to 2 Tbsp BBQ
-sauce (amount as original recipe is written // adjust if altering batch size). If too wet, add more panko bread crumbs.
-Taste and adjust seasonings as needed.
+Next add cooked rice, spice-walnut mixture, sautéed onion, panko bread crumbs, 3 to 4 Tbsp of BBQ sauce, and flax egg
+and mix thoroughly with a wooden spoon for 1 to 2 minutes, or until a moldable dough forms. If dry, add an extra 1 to 2
+Tbsp BBQ sauce (amount as original recipe is written // adjust if altering batch size). If too wet, add more panko bread
+crumbs. Taste and adjust seasonings as needed.
 
 ### Step 7
 
@@ -108,3 +108,4 @@ Serve burgers as is, or on toasted buns with desired toppings. Leftovers keep in
 
 [1]: <../assets/images/veggie-burgers.jpg>
 [2]: <../pressurecooker/black-beans.md>
+[3]: <../ingredients/toasted-nuts.md>
