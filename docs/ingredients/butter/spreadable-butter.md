@@ -9,9 +9,9 @@ tags:
 
 ## :scales: Ratio
 
-| :butter: butter | :olive: oil |
-|:---------------:|:-----------:|
-| 3 parts         | 2 parts     |
+| :butter: butter | :olive: oil | :salt: Salt |
+|:---------------:|:-----------:|:-----------:|
+| 3 parts         | 2 parts     | 0.5%        |
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
