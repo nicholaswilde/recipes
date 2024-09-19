@@ -818,3 +818,6 @@ Ranchero
 piquillo
 Masa
 Harina
+poolish
+marshmallowy
+bâtard
