@@ -4,7 +4,7 @@ tags:
   - bread
   - king-arthur
 ---
-# :baguette: French Bread
+# :baguette_bread: French Bread
 
 ![French Bread][1]{ loading=lazy }
 
