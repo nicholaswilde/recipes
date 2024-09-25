@@ -17,7 +17,7 @@ tags:
 ## :salt: Ingredients - Dough
 
 - :green_apple: 485 g apple cider
-- :butter: 128 g apple butter
+- :butter: 128 g [apple butter][2]
 - :rice: 113 g sour cream
 - :icecream: 2 tsp vanilla
 - :ear_of_rice: 455 g all-purpose flour
@@ -59,7 +59,7 @@ tags:
 ### Step 1
 
 Bring apple cider to a boil in a medium saucepan over medium-high heat and cook until liquid is thick, syrupy, and
-reduced to about ½ cup. This will take about 20 minutes. Scrape into a medium bowl and whisk in apple butter, sour
+reduced to about ½ cup. This will take about 20 minutes. Scrape into a medium bowl and whisk in [apple butter][2], sour
 cream, and vanilla until incorporated; set aside.
 
 ### Step 2
@@ -113,4 +113,5 @@ warm doughnuts and doughnut holes in cinnamon sugar.
 - <https://www.youtube.com/watch?v=dVCYAqcTvVc>
 
 [1]: <../assets/images/apple-cider-doughnuts.jpg>
+[2]: <../ingredients/apple-butter.md>
 
