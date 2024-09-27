@@ -3,6 +3,7 @@ comments: true
 tags:
   - bar
   - dessert
+  - recipe-box
 ---
 # :chocolate_bar: Chewy Brownies
 
@@ -69,3 +70,7 @@ Transfer pan to wire rack and cool for 1.5 hours.
 ### Step 9
 
 Lift parchment paper with brownies in it, and cool on rack for 1 hour.
+
+## :link: Source
+
+- Recipe Box
