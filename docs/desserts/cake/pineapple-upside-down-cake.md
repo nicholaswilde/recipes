@@ -4,6 +4,7 @@ tags:
   - cake
   - dessert
   - trader-joes
+  - recipe-box
 ---
 # :pineapple: Pineapple Upside Down Cake
 
@@ -52,5 +53,6 @@ Ice Cream, if desired.
 ## :link: Source
 
 - Trader Joe's
+- Recipe Box
 
 [1]: <../../ingredients/brown-sugar.md>
