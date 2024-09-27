@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - quick-bread
+  - recipe-box
 ---
 # :bread: Cranberry Orange Bread
 
@@ -62,5 +63,9 @@ Bake and check at 35 minutes. Keep baking until golden brown (around 45 minutes)
 ### Step 7
 
 Cool in pan for 10 minutes.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: ../ingredients/buttermilk.md
