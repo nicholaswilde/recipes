@@ -3,6 +3,7 @@ comments: true
 tags:
   - pie
   - dessert
+  - recipe-box
 ---
 # :pie: Tollhouse Pie
 
@@ -43,6 +44,10 @@ Mix in melted butter. Stir in chocolate chips and pour into unbaked [pie shell][
 ### Step 4
 
 Bake for 1 hour.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../../ingredients/brown-sugar.md>
 [2]: <../../ingredients/pastry-dough/sweet-pastry.md>
