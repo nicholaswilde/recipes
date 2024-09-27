@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - recipe-box
 ---
 # :banana: Best-Ever Banana Bread
 
@@ -57,5 +58,9 @@ Heat oven to 350°F.
 ### Step 4
 
 Bake in 8" loaf pan for 1 hour.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/buttermilk.md>
