@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - recipe-box
 ---
 # :bread: Chocolate Chip Peanut Butter Banana Bread
 
@@ -50,6 +51,10 @@ Stir banana mixture into flour mixture. Add semi-sweet chocolate chips. Pour and
 ### Step 5
 
 Cook on rack for 15 minutes before unmolding.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/peanut-butter.md>
 [2]: <../ingredients/yogurt.md>
