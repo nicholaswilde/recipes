@@ -3,6 +3,7 @@ comments: true
 tags:
   - cookie
   - dessert
+  - recipe-box
 ---
 # :cookie: Consumer Union Chocolate Chip Cookies
 
@@ -47,8 +48,9 @@ walnuts, if desired.
 Portion cookies out in 3 Tbsp (60 g) measurements. Bake on lightly greased cooking sheet or parchment paper. Bake at
 375°F for approximately 9 to 11 minutes.
 
-## :link: Source
+## :link: Sources
 
 - Consumer Union
+- Recipe Box
 
 [1]: <../ingredients/brown-sugar.md>
