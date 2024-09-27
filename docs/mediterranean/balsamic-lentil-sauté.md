@@ -3,6 +3,7 @@ comments: true
 tags:
   - mediterranean
   - trader-joes
+  - recipe-box
 ---
 # :ear_of_rice: Balsamic Lentil Sauté
 
@@ -47,6 +48,7 @@ mix in the parsley and balsamic glaze.
 
 Divide brown rice onto individual plates and ladle sauté over each serving. 28 minutes
 
-## :link: Source
+## :link: Sources
 
 - <https://www.traderjoes.com/home/recipes/balsamic-lentil-saute>
+- Recipe Box
