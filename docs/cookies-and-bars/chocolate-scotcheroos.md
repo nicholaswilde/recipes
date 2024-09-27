@@ -3,6 +3,7 @@ comments: true
 tags:
   - bar
   - dessert
+  - recipe-box
 ---
 # :cookie: Chocolate Scotcheroos
 
@@ -56,5 +57,9 @@ Remove from heat; spread evenly over Rice Krispie mixture.
 ### Step 7
 
 Cool until firm.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/peanut-butter.md>
