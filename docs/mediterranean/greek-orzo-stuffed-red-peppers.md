@@ -2,6 +2,8 @@
 comments: true
 tags:
   - mediterranean
+  - greek
+  - recipe-box
 ---
 # :bell_pepper: Greek Orzo Stuffed Red Peppers
 
@@ -56,3 +58,7 @@ pepper flakes, lemon zest, and salt.
 ### Step 4
 
 Stuff inside peppers and drizzle with lemon basil tomato sauce.
+
+## :link: Source
+
+- Recipe Box
