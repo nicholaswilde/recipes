@@ -3,6 +3,7 @@ comments: true
 tags:
   - cookie
   - dessert
+  - recipe-box
 ---
 # :cookie: Oatmeal Chocolate Chip Cookies
 
@@ -35,5 +36,9 @@ Preheat oven to 365°F.
 
 Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, all-purpose flour, baking soda, rolled oats,
 and chocolate chips and bake for 8 to 10 minutes.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/brown-sugar.md>
