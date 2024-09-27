@@ -1,5 +1,10 @@
 ---
 comments: true
+tags:
+  - cooks-illustrated
+  - recipe-box
+  - mediterranean
+  - greek
 ---
 # :green_salad: Cook's Illustrated Horiatiki Salata (Greek Salad)
 
@@ -59,8 +64,9 @@ mixture, cucumber, green bell pepper, Kalamata olives, and capers and toss to ge
 Season with salt and pepper to taste. Transfer to serving platter and top with feta. Season each slice of feta with
 extra oregano to taste. Drizzle feta with remaining 1 Tbsp olive oil.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.cooksillustrated.com/recipes/13159-horiatiki-salata-hearty-greek-salad-for-two>
+- Recipe Box
 
 [1]: <../assets/images/cook's-illustrated-horiatiki-salata.jpg>
