@@ -3,6 +3,7 @@ comments: true
 tags:
   - bar
   - dessert
+  - recipe-box
 ---
 # :lemon: Glazed Lemon Bars
 
@@ -52,5 +53,9 @@ Bake for 25 minutes.
 ### Step 6
 
 While warm, loosen edges and spread with glaze: powdered sugar, and lemon juice.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/bisquick.md>
