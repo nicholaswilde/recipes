@@ -3,8 +3,9 @@ comments: true
 tags:
   - bar
   - dessert
+  - recipe-box
 ---
-# Apple Cinnamon Raisin Bars
+# :apple: Apple Cinnamon Raisin Bars
 
 ![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.jpg){ loading=lazy }
 
@@ -49,5 +50,9 @@ Gradually add flour mixture. Stir in diced apples and raisins, and spread into p
 ### Step 4
 
 Bake for 35 minutes.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/brown-sugar.md>
