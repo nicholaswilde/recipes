@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - slow-cooker
+  - recipe-box
 ---
 # :apple: Slow Cooker Apple Crisp
 
@@ -39,5 +40,9 @@ Place peeled, cored, and sliced apples in slow cooker and top with flour mixture
 ### Step 3
 
 Cook on high for 3 to 4 hours.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/brown-sugar.md>
