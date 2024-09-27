@@ -2,6 +2,8 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
+  - favorite
 ---
 # :falafel: Jeanie's Falafel
 
@@ -45,6 +47,7 @@ Heat the oil in a deep fryer to 375°F (190°C). Carefully drop the balls into t
 do not have a deep fryer, heat the oil in a heavy deep skillet over medium-high heat. You may need to adjust the heat
 slightly after the first couple of falafels, and be sure to turn frequently so they brown evenly.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.allrecipes.com/recipe/83307/jeanies-falafel/>
+- Recipe Box
