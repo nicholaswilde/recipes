@@ -2,6 +2,7 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
 ---
 # :curry: Saucy Moroccan-Spiced Lentils
 
@@ -63,6 +64,8 @@ well to combine.
 Enjoy immediately with salads, rice (or cauliflower rice), bowls, and more. Store leftovers in the refrigerator up to
 4-5 days or in the freezer up to 1 month.
 
-## :link: Source
+## :link: Sources
 
 - <https://minimalistbaker.com/saucy-moroccan-spiced-lentils/>
+- Recipe Box
+
