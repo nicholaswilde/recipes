@@ -2,6 +2,7 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
 ---
 # :cheese_wedge: Baked Feta with Chickpeas & Kale
 
@@ -57,5 +58,9 @@ Drizzle with olive oil and a pinch of red pepper flakes.
 ### Step 6
 
 Serve warm with [pita][1] or baguette and lemon wedges.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../breads/pita.md>
