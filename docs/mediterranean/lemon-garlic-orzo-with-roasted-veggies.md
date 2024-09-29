@@ -2,6 +2,7 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
 ---
 # :rice: Lemon Garlic Orzo with Roasted Veggies
 
@@ -70,5 +71,9 @@ To make dressing, add olive oil, lemon juice, salt and pepper and mix until emul
 ### Step 7
 
 Mix together vegetables, orzo, dressing, crumbled feta, and pine nuts. Garnish with basil or parsley, if desired.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
