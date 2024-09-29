@@ -2,6 +2,7 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
 ---
 # :tomato: Tomato Baked White Beans with Lemon Parsley Oil
 
@@ -77,8 +78,9 @@ small food processor. Puree smooth. The parsley oil can be kept refrigerated air
 When the beans are baked, drizzle with some of the parsley oil and serve. Leftovers reheat well in a 350ºF oven for 10
 or so minutes.
 
-## :link: Source
+## :link: Sources
 
 - <https://bojongourmet.com/tomato-baked-white-beans-with-feta-and-lemon-parsley-oil/>
+- Recipe Box
 
 [1]: <../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg>
