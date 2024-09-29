@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - recipe-box
+  - the-blue-zones-kitchen
 ---
 # :stew: Ikarian Longevity Stew
 
@@ -43,6 +46,7 @@ Add the chopped dill and season with salt.
 
 Continue cooking until the black-eyed peas are tender. Remove, pour in remaining raw olive oil and serve.
 
-## :link: Source
+## :link: Sources
 
 - Blue Zones
+- Recipe Box
