@@ -2,6 +2,7 @@
 comments: true
 tags:
   - italian
+  - recipe-box
 ---
 # :spaghetti: Baked Cream Cheese Spaghetti Casserole
 
@@ -48,6 +49,10 @@ over pasta.
 ### Step 5
 
 Top with grated Parmesan and bake for 30 minutes.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../sauces-and-dressings/marinara-sauce.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>
