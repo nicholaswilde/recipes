@@ -2,6 +2,7 @@
 comments: true
 tags:
   - mediterranean
+  - recipe-box
 ---
 # :spaghetti: Sprouted Kitchen Spring Noodles Artichokes & Lemons
 
@@ -69,6 +70,10 @@ Cook orecchiette according to package instructions. Drain and reserve 1/2 cup of
 ### Step 8
 
 Mix cooked pasta, artichoke sauce, and grated pecorino. Add arugula and dill.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/crème-fraîche.md>
 [2]: <../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg>
