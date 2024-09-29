@@ -3,6 +3,7 @@ comments: true
 tags:
   - asian
   - vegetarian
+  - recipe-box
 ---
 # :curry: Noodle-Free Pad Thai
 
@@ -78,5 +79,9 @@ Add sauce, fresh ginger, and 1/2 tsp turmeric. Sauté and heat until warmed thro
 ### Step 8
 
 Serve with chopped cilantro.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/peanut-butter.md>
