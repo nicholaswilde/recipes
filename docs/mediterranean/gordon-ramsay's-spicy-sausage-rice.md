@@ -4,6 +4,7 @@ tags:
   - mediterranean
   - gordon-ramsay
   - main
+  - recipe-box
 ---
 # :rice: Gordon Ramsay's Spicy Sausage Rice
 
@@ -61,3 +62,7 @@ Cook gently for 15 to 20 minutes until the rice is tender and the liquid is almo
 ### Step 7
 
 Remove from heat and gently fold in the chopped scallions, tomato, and parsley.
+
+## :link: Source
+
+- Recipe Box
