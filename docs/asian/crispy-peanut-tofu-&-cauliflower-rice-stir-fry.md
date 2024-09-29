@@ -4,6 +4,8 @@ tags:
   - asian
   - stir-fry
   - vegetarian
+  - recipe-box
+  - minimalist-baker
 ---
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 
@@ -97,9 +99,10 @@ freezer friendly.
 
 Optionally, vegetables such as thinly sliced baby bok choy (optional) may be added with some sesame oil and tomari.
 
-## :link: Source
+## :link: Sources
 
 - <https://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-stir-fry/>
+- Recipe Box
 
 [1]: <../ingredients/peanut-butter.md>
 [2]: <../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg>
