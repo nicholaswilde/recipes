@@ -4,6 +4,7 @@ tags:
   - pasta
   - italian
   - vegetarian
+  - recipe-box
 ---
 # :broccoli: Healthy Pasta with Pesto & Broccoli
 
@@ -73,8 +74,9 @@ because broccoli will become a mushy mess.
 
 Sprinkle with remaining half Parmesan cheese. Serve hot.
 
-## :link: Source
+## :link: Sources
 
 - <https://ifoodreal.com/healthy-pasta/>
+- Recipe Box
 
 [1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
