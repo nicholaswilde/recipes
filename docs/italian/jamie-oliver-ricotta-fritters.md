@@ -4,8 +4,9 @@ tags:
   - jamie-oliver
   - italian
   - vegetarian
+  - recipe-box
 ---
-# Jamie Oliver Ricotta Fritters
+# :cheese_wedge: Jamie Oliver Ricotta Fritters
 
 ![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg){ loading=lazy }
 
@@ -42,8 +43,9 @@ Put 1 Tbsp olive oil into frying pan. Scrape 8 dollops of mixture into pan and t
 
 Serve with favorite [marinara][1].
 
-## :link: Source
+## :link: Sources
 
 - <https://www.jamieoliver.com/recipes/cheese-recipes/ricotta-fritters-with-tomato-sauce-courgette-salad/>
+- Recipe Box
 
 [1]: <../sauces-and-dressings/marinara-sauce.md>
