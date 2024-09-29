@@ -4,6 +4,7 @@ tags:
   - italian
   - pasta
   - jamie-oliver
+  - recipe-box
 ---
 # :spaghetti: Trapani-Style Pasta
 
@@ -55,6 +56,7 @@ until the pasta is thoroughly coated. Add a little of the reserved water to loos
 Transfer to warm bowls and top with the remaining cherry tomatoes (halved or quartered) and sprinkle over basil leaves
 then take to the table.
 
-## :link: Source
+## :link: Sources
 
 - <https://hotcooking.co.uk/recipes/jamie-oliver-30-minute-meals-trapani-style-rigatoni>
+- Recipe Box
