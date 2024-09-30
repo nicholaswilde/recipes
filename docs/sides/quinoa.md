@@ -11,6 +11,12 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 4 | 25 minutes |
 
+| :cut_of_meat: Uncooked | :hot_springs: Cooked | :droplet: Liquid | :fork_and_knife_with_plate: Serves |
+|:----------------------:|:--------------------:|:----------------:|:----------------------------------:|
+| 133 g                  | 400 g                | 300 g            | 4                                  |
+| 200 g                  | 600 g                | 450 g            | 6                                  |
+| 267 g                  | 800 g                | 600 g            | 8                                  |
+
 ## :salt: Ingredients
 
 - :rice: 1 cup quinoa
