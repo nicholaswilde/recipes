@@ -3,7 +3,7 @@ comments: true
 tags:
   - side
 ---
-# Pearl Couscous
+# :shallow_pan_of_food: Pearl Couscous
 
 ![Pearl Couscous][1]{ loading=lazy }
 
@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :olive: 2 Tbsp olive oil
-- 1 cup pearl couscous
+- :shallow_pan_of_food: 1 cup pearl couscous
 - :stew: 1.5 cups water or vegetable broth
 - :salt: some kosher salt
 - :herb: 0.25 cup parsley (optional)
