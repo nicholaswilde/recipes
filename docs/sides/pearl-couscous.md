@@ -13,12 +13,12 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 Tbsp olive oil
+- :olive: 2 Tbsp olive oil
 - 1 cup pearl couscous
-- 1.5 cups water or vegetable broth
-- some kosher salt
-- 0.25 cup parsley (optional)
-- 1 lemon zest (optional)
+- :stew: 1.5 cups water or vegetable broth
+- :salt: some kosher salt
+- :herb: 0.25 cup parsley (optional)
+- :lemon: 1 lemon zest (optional)
 
 ## :cooking: Cookware
 
@@ -57,4 +57,3 @@ toss and serve.
 - <https://www.themediterraneandish.com/pearl-couscous-recipe/>
 
 [1]: <../assets/images/pearl-couscous.jpg>
-
