@@ -49,15 +49,15 @@ Spray your waffle iron with a non-stick cooking spray before preheating it. Cook
 directions. For an 8" round waffle iron, use about 1/3 cup batter; cook for 2 to 3 minutes, until the iron stops
 steaming.
 
-### Step 5
+!!! tip
 
-Tip: Waffles are best consumed as soon as they're baked, but in a pinch you may place them on a rack to cool, wrap
-tightly to store in the refrigerator, then reheat for 6 minutes in a 350°F oven.
+    Waffles are best consumed as soon as they're baked, but in a pinch you may place them on a rack to cool, wrap
+    tightly to store in the refrigerator, then reheat for 6 minutes in a 350°F oven.
 
-### Step 6
+!!! note
 
-Note: Leave out the sugar if you want savory waffles, such as the type you'd use as a base for creamed chipped beef or
-fried chicken.
+    Leave out the sugar if you want savory waffles, such as the type you'd use as a base for creamed chipped beef or
+    fried chicken.
 
 ## :link: Sources
 
