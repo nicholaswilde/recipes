@@ -46,11 +46,11 @@ extract and mix well.
 ### Step 3
 
 In a separate bowl stir together the baking powder, salt, and all-purpose flour. Add the wet ingredients into the dry
-and fold together until just mixed and no clumps of flour remain. Fold in the chocolate chips. Do not over mix.
+and fold together until just mixed and no clumps of flour remain. Fold in the chocolate chips. Do not over mix. Leave some chocolate chips for the topping.
 
 ### Step 4
 
-Pour the batter into your prepared pan, spreading into an even layer.
+Pour the batter into your prepared pan, spreading into an even layer. Sprinkle the left over chocolate chips on top.
 
 ### Step 5
 
