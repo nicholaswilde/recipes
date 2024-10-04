@@ -42,11 +42,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 half sheet pan (13×18")
-- 1 large mixing bowl
-- 1 small saucepan
-- 1 bowl
-- 1 medium saucepan
+- :pie: 1 half sheet pan (13×18")
+- :bowl_with_spoon: 1 large mixing bowl
+- :cooking: 1 small saucepan
+- :bowl_with_spoon: 1 bowl
+- :cooking: 1 medium saucepan
 
 ## :pencil: Instructions
 
