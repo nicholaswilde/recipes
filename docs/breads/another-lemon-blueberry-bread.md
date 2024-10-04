@@ -5,6 +5,8 @@ tags:
 ---
 # :lemon: Another Lemon Blueberry Bread
 
+![Another Lemon Blueberry Bread][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 10 | 1.58 hours |
@@ -95,3 +97,5 @@ then pour glaze over the loaf. Allow to set a few minutes, then enjoy!
 ## :link: Source
 
 - <https://www.glorioustreats.com/lemon-blueberry-bread/>
+
+[1]: <../assets/images/another-lemon-blueberry-bread.jpg>
