@@ -3,6 +3,7 @@ comments: true
 tags:
   - sauce
   - the-new-york-times
+  - recipe-box
 ---
 # :tomato: New York Times' Classic Marinara Sauce
 
@@ -53,8 +54,9 @@ Simmer until sauce has thickened and oil on surface is a deep orange, about 10 m
 
 Taste and season as needed. Discard basil and chile, if using.
 
-## :link: Source
+## :link: Sources
 
 - The New York Times
+- Recipe Box
 
 [1]: <../assets/images/new-york-times'-classic-marinara-sauce.jpg>
