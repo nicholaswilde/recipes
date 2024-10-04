@@ -14,8 +14,8 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 lb ground soy meat
-- 1 28-oz jar [marinara][1]
+- :cut_of_meat: 1 lb ground soy meat
+- :tomato: 1 28-oz jar [marinara][1]
 - :spaghetti: 1 12-oz pkg spaghetti
 - :cheese_wedge: 8 oz cream cheese
 - :herb: 1 tsp [Italian seasoning][2]
