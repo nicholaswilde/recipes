@@ -3,6 +3,7 @@ comments: true
 tags:
   - magnolia
   - soup
+  - recipe-box
 ---
 # :stew: Spinach Tortellini Soup by Joanna Gaines
 
@@ -62,9 +63,10 @@ Ladle into bowls, sprinkle with the Parmesan, and serve immediately with torn Fr
 Store in an airtight container in the refrigerator for 3 to 4 days or in the freezer for up to 2 months. Let the soup
 thaw before reheating.
 
-## :link: Source
+## :link: Sources
 
 - <https://food52.com/recipes/82976-spinach-tortellini-soup-recipe-joanna-gaines>
+- Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>
