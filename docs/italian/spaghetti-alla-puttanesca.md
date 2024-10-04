@@ -3,6 +3,7 @@ comments: true
 tags:
   - italian
   - pasta
+  - recipe-box
 ---
 # :spaghetti: Spaghetti Alla Puttanesca
 
@@ -54,5 +55,9 @@ Cover the pan and bring to a boil. Reduce to a steady simmer, and, keeping cover
 ### Step 5
 
 Cook for 8 to 10 minutes more.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
