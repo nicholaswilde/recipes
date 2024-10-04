@@ -3,6 +3,7 @@ comments: true
 tags:
   - pasta
   - italian
+  - recipe-box
 ---
 # :spaghetti: Caprese Risoni
 
@@ -43,5 +44,9 @@ Chop organic tomatoes on a vine and mix cannellini beans, pesto, and optional Ci
 ### Step 4
 
 Serve and drizzle with balsamic glaze.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
