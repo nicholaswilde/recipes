@@ -3,6 +3,7 @@ comments: true
 tags:
   - pasta
   - italian
+  - recipe-box
 ---
 # :spaghetti: Summer Pesto Pasta
 
@@ -46,5 +47,9 @@ In a separate bowl combine store-bought [pesto][1], zest and juice from 1 lemon.
 ### Step 4
 
 Mix well, then pour in pasta. Combine veggies into pasta and serve.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
