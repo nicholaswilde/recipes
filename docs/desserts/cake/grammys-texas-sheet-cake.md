@@ -104,8 +104,9 @@ temperature or up to a week in the fridge.
     In a pinch, you can sub 1 cup of buttermilk for 1 cup of milk (ideally whole milk, but any kind will work) with 1
     tablespoon of milk replaced with vinegar.
 
-## :link: Source
+## :link: Sources
 
 - <https://www.thepancakeprincess.com/grammys-texas-sheet-cake/>
+- <https://www.thepancakeprincess.com/best-texas-sheet-cake-bake-off/>
 
 [1]: <../../assets/images/grammys-texas-sheet-cake.jpg>
