@@ -46,7 +46,7 @@ Preheat the oven to 350°F. Coat a baking sheet with cooking spray or line with 
 
 In a large mixing bowl or the bowl of an electric mixer, beat the light or dark brown sugar and margarine with a wooden
 spoon or on medium speed until smooth. Beat in the egg whites and vanilla, then the chickpeas and semisweet chocolate
-chips (and walnuts (optional){} and raisins (optional), if using). Add the all-purpose flour, old-fashioned rolled oats,
+chips (and walnuts (optional) and raisins (optional), if using). Add the all-purpose flour, old-fashioned rolled oats,
 baking soda, and kosher salt, and mix on low speed until a thick dough forms.
 
 ### Step 3
