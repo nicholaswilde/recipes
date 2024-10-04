@@ -28,9 +28,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 8 x 8 pan
-- 1 parchment paper
-- 1 large mixing bowl
+- :pie: 1 8 x 8 pan
+- :page_with_curl: 1 parchment paper
+- :bowl_with_spoon: 1 large mixing bowl
 
 ## :pencil: Instructions
 
