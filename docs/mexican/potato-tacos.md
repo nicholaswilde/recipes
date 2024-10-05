@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - tacos
+  - recipe-box
 ---
 # :taco: Potato Tacos
 
@@ -49,6 +50,10 @@ Heat tortillas according to preference.
 ### Step 5
 
 To assemble tacos, layer beans and potato/pepper mix, then add toppings as desired.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../pressurecooker/refried-black-beans.md>
 [2]: <../pressurecooker/black-beans.md>
