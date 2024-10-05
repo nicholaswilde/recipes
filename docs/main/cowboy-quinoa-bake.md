@@ -2,6 +2,8 @@
 comments: true
 tags:
   - main
+  - trader-joes
+  - recipe-box
 ---
 # :ear_of_rice: Cowboy Quinoa Bake
 
@@ -43,6 +45,7 @@ just until mixed. Grease an 8-inch square baking pan with Organic Olive Oil Spra
 25 minutes, then turn broiler on high and cook 5 minutes more. Remove from oven and let cool 5 minutes. Top with Sour
 Cream and Cilantro, if desired and serve.
 
-## :link: Source
+## :link: Sources
 
 - Trader Joe's
+- Recipe Box
