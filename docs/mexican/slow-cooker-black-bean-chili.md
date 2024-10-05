@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - slow-cooker
+  - recipe-box
 ---
 # :stew: Slow Cooker Black Bean Chili
 
@@ -41,5 +42,9 @@ onion, salsa verde, roasted red peppers, ground cumin, and vegetable broth to a 
 ### Step 2
 
 Cook on high for 6 to 8 hours.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
