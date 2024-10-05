@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - quesadilla
+  - recipe-box
 ---
 # :flatbread: Cheesy Black Bean Quesadilla Triangles
 
@@ -54,6 +55,7 @@ Place on baking sheet. Brush with melted butter and bake at 375°F for 9 to 12 m
 
 Arrange on top of shredded lettuce. Spring with finely chopped red or green bell pepper.
 
-## :link: Source
+## :link: Sources
 
 - MorningStar Farms
+- Recipe Box
