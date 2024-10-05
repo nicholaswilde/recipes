@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - taco
+  - recipe-box
 ---
 # :taco: Chipotle Breakfast Tacos
 
@@ -67,3 +68,7 @@ Fill tortillas with chorizo, roasted potatoes, and eggs.
 ### Step 9
 
 Garnish with shredded cheese, pico de gallo, and avocado (optional).
+
+## :link: Source
+
+- Recipe Box
