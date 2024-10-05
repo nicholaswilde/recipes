@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - bowl
+  - recipe-box
 ---
 # :green_salad: Chipotle-Inspired Vegan Burrito Bowls
 
@@ -50,3 +51,7 @@ Add corn, black beans, 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Sau
 ### Step 4
 
 Build bowls starting with rice, then corn and beans, then tofu. Top with cilantro, pico de gallo, and guacamole.
+
+## :link: Source
+
+- Recipe Box
