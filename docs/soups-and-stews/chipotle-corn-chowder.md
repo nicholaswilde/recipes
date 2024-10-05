@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - recipe-box
+  - chowder
 ---
 # :corn: Chipotle Corn Chowder
 
@@ -47,3 +50,7 @@ In a small bowl, whisk together evaporated fat-free milk and flour. Stir into so
 ### Step 4
 
 Mix in Morning Star black bean crumbles and heat through. Mix in cheese and stir until melted through.
+
+## :link: Source
+
+- Recipe Box
