@@ -17,7 +17,7 @@ tags:
 - :tomato: 4 large tomatoes
 - :onion: 1 small onion
 - :garlic: 2 cloves garlic
-- :bacon: 1 slice vegan bacon
+- :bacon: 1 slice [coconut bacon][2]
 - :herb: 1 tsp fresh thyme
 - :sake: 1 tsp tamari soy sauce
 - :cactus: 0.5 tsp agave nectar
@@ -26,8 +26,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 cast-iron pan
-- 1 high-speed blender
+- :cooking: 1 cast-iron pan
+- :cup_with_straw: 1 high-speed blender
 
 ## :pencil: Instructions
 
@@ -42,8 +42,8 @@ blister, about 15 minutes.
 
 ### Step 3
 
-Transfer to a high-speed blender and add the vegan bacon, fresh thyme, tamari soy sauce, agave nectar, hot sauce, and
-salt.
+Transfer to a high-speed blender and add the [coconut bacon][2], fresh thyme, tamari soy sauce, agave nectar, hot sauce,
+and salt.
 
 ### Step 4
 
@@ -62,3 +62,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/salsa-ranchera.jpg>
+[2]: <../ingredients/coconut-bacon.md>
