@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :tomoto: 0.67 cup [ketchup][1]
+- :tomato: 0.67 cup [ketchup][1]
 - :sake: 0.5 cup cider vinegar
 - :maple_leaf: 0.25 cup [brown sugar][2]
 - :hot_pepper: 2 tsp pimentón (smoked Spanish paprika)
