@@ -4,6 +4,7 @@ tags:
   - dessert
   - cheesecake
   - joy-of-cooking
+  - favorite
 ---
 # :pie: Pumpkin Cheesecake
 
