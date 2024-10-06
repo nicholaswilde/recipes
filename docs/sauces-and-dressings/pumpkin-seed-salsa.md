@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :tomato: 2 cups salsa verde
+- :tomato: 2 cups [salsa verde][2]
 - :jack_o_lantern: 0.25 cup pumpkin seeds
 - :salt: some salt
 
@@ -26,7 +26,7 @@ tags:
 
 ### Step 1
 
-In a high-speed blender, add the salsa verde and toasted pumpkin seeds.
+In a high-speed blender, add the [salsa verde][2] and toasted pumpkin seeds.
 
 ### Step 2
 
@@ -45,3 +45,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/pumpkin-seed-salsa.jpg>
+[2]: <./salsa-verde.md>
