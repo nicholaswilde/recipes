@@ -835,3 +835,6 @@ arbol
 morita
 Macha
 Ranchera
+ranchera
+Jackfruit
+Mixiote
