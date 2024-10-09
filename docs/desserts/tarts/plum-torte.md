@@ -67,4 +67,4 @@ or with [whipped cream][2] (optional).
 - <https://youtu.be/W1qpZWkrQMA?si=acxgEX5gTpZ0N7s1>
 
 [1]: <../../assets/images/plum-torte.jpg>
-[2]: <../../ingredients/sweetened-whipped-cream>
+[2]: <../../ingredients/sweetened-whipped-cream.md>
