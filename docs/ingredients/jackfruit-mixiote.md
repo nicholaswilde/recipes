@@ -4,7 +4,7 @@ tags:
   - ingredient
   - the-gracias-madre-cookbook
 ---
-# :mellon: Jackfruit Mixiote
+# :melon: Jackfruit Mixiote
 
 ![Jackfruit Mixiote][1]{ loading=lazy }
 
@@ -19,7 +19,7 @@ tags:
 - :garlic: 2 cloves garlic
 - :custard: 2 tsp cumin
 - :bell_pepper: 0.5 tsp chipotle powder
-- :mellon: 1 20-oz can jackfruit
+- :melon: 1 20-oz can jackfruit
 - :tomato: 0.5 cup [salsa ranchera][2]
 - :hot_springs: 0.33 cup [barbecue sauce][3]
 - :hot_pepper: 1 small dried ancho chile
