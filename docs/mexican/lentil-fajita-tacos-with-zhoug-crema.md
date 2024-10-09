@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - taco
+  - trader-joes
 ---
 # :taco: Lentil Fajita Tacos with Zhoug Crema
 
@@ -50,4 +51,4 @@ Fill the taco shells with the lentil/pepper mixture and top with zhoug crema to 
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/lentil-fajita-tacos-with-zhoug-crema>
+- Trader Joe's
