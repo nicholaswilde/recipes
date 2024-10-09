@@ -54,4 +54,4 @@ Bake until loaf is browned, 30 to 35 minutes.
 
 Let stand in pan for 1 minute, then serve onto serving platter.
 
-[1]: <../sides/jojo's-biscuits.md>
+[1]: <./buttermilk-biscuits.md>
