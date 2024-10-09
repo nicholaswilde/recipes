@@ -51,4 +51,4 @@ Monterey Jack cheese. Cover and bake at 350° for 20 minutes or until thoroughly
 
 ## :link: Source
 
-- <https://www.myrecipes.com/recipe/black-bean-burrito-bake-0>
+- My Recipes
