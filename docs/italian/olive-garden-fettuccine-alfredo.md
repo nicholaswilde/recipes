@@ -71,4 +71,4 @@ Olive Garden Breadsticks.
 
 ## :link: Source
 
-- <https://www.tasteofhome.com/article/copycat-olive-garden-alfredo-sauce/>
+- <https://www.tasteofhome.com/recipes/homemade-fettuccine-alfredo/>
