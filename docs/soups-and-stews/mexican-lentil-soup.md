@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - mexican
+  - soup
+  - recipe-box
 ---
 # :stew: Mexican Lentil Soup
 
@@ -62,5 +66,9 @@ Serve with cilantro and lime wedges.
 ### Step 7
 
 Can serve over rice, if desired.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
