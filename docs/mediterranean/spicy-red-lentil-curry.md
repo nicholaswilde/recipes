@@ -21,7 +21,7 @@ tags:
 - :sweet_potato: 1 tsp ginger
 - :carrot: 0.5 cup carrots
 - :hot_pepper: 0.5 tsp red curry paste
-- :tomato: 1 6-oz can tomato paste
+- :tomato: 1 6-oz can [tomato paste][4]
 - :stew: 2 cups vegetable broth
 - :droplet: 1 cup water
 - :maple_leaf: 2 Tbsp maple syrup
@@ -54,7 +54,7 @@ Add red curry paste and sauté for 2 minutes, stirring frequently.
 
 ### Step 4
 
-Add tomato paste, vegetable broth, water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
+Add [tomato paste][4], vegetable broth, water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
 
 ### Step 5
 
@@ -90,3 +90,4 @@ moisture, or in the microwave.
 [1]: <../assets/images/spicy-red-lentil-curry.jpg>
 [2]: <../breads/pita.md>
 [3]: <../breads/naan.md>
+[4]: <../ingredients/tomato-paste.md>
