@@ -40,7 +40,7 @@ wafer (alternative), or gingersnap crumbs.
 ### Step 3
 
 Add and stir until well blended: 1/4 to 1/2 cup sugar, depending on sweetness of the cookies. 6 tablespoons (3/4 stick)
-unsalted butter, melted and cooled, and 1 teaspoon ground cinnamon (optional).
+unsalted butter, melted and cooled, 1/2 tsp salt, and 1 teaspoon ground cinnamon (optional).
 
 ### Step 4
 
