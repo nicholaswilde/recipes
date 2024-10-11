@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :droplet: 6 cups water
-- :tomato: 0.25 cup tomato paste
+- :tomato: 0.25 cup [tomato paste][1]
 - :candy: 1 tsp sugar
 - :olive: 0.33 cup olive oil
 - :garlic: 2 cloves garlic
@@ -37,7 +37,7 @@ tags:
 
 ### Step 1
 
-Whisk water, tomato paste, and sugar together in medium saucepan. Bring to simmer over medium-high heat, then reduce
+Whisk water, [tomato paste][1], and sugar together in medium saucepan. Bring to simmer over medium-high heat, then reduce
 heat to low to keep tomato broth warm.
 
 ### Step 2
@@ -76,3 +76,5 @@ serve immediately.
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../ingredients/tomato-paste.md>
