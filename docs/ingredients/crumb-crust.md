@@ -15,9 +15,10 @@ tags:
 ## :salt: Ingredients
 
 - :rice_cracker: 1.5 cup graham cracker
-- :icecream: 1.5 cup vanilla or chocolate wafer (alternative)
+- :icecream: 1.5 cup vanilla or chocolate wafer or gingersnap (alternative)
 - :candy: 0.5 cup sugar
 - :butter: 6 Tbsp unsalted butter
+- :salt: 0.5 salt
 - :custard: 1 tsp cinnamon (optional)
 
 ## :cooking: Cookware
