@@ -22,8 +22,8 @@ tags:
 - :herb: 0.25 tsp allspice
 - :four_leaf_clover: 0.25 tsp ground cloves
 - :sake: 0.33 cup distilled white vinegar
-- :tomato: 1 Tbsp tomato paste
-- :tomato: 2 8-oz cans tomato sauce
+- :tomato: 1 Tbsp [tomato paste][3]
+- :tomato: 2 8-oz cans [tomato sauce][2]
 - :salt: some salt
 - :salt: some pepper
 
@@ -38,9 +38,9 @@ tags:
 
 In a saucepan, heat the olive oil. Add the onion and garlic and cook over moderately low heat, stirring occasionally,
 until softened, about 7 minutes. Add the [brown sugar][1], smoked paprika, allspice and ground cloves and cook,
-stirring occasionally, until the sugar melts. Add the distilled white vinegar and tomato paste and cook over moderate
-heat until thick, about 3 minutes. Stir in the tomato sauce and simmer over moderate heat, stirring occasionally, until
-very thick, 15 to 20 minutes.
+stirring occasionally, until the sugar melts. Add the distilled white vinegar and [tomato paste][3] and cook over
+moderate heat until thick, about 3 minutes. Stir in the [tomato sauce][2] and simmer over moderate heat, stirring
+occasionally, until very thick, 15 to 20 minutes.
 
 ### Step 2
 
@@ -51,3 +51,5 @@ Transfer the ketchup to a blender or food processor and puree until smooth. Seas
 - <https://www.foodandwine.com/recipes/sweet-and-spicy-ketchup>
 
 [1]: <../ingredients/brown-sugar.md>
+[2]: <./tomato-sauce.md>
+[3]: <../ingredients/tomato-paste.md>
