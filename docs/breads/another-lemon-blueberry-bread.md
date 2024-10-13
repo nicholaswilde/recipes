@@ -23,7 +23,7 @@ tags:
 - :icecream: 0.5 tsp vanilla
 - :lemon: 2 Tbsp lemon juice
 - :glass_of_milk: 0.5 cup (113 g) whole milk
-- :blue_circle: 1 cup frozen blueberries
+- :blue_circle: 1 cup (142 g) frozen blueberries
 - :ear_of_rice: 1 Tbsp all-purpose flour
 
 ## :salt: Ingredients - Glaze
