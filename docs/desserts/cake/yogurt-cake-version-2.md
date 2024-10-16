@@ -52,6 +52,6 @@ Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inser
 
 ## :link: Source
 
-- Gâteau
+- Gateau: The Surprising Simplicity of French Cakes
 
 [1]: <../../assets/images/yogurt-cake-version-2.jpg>
