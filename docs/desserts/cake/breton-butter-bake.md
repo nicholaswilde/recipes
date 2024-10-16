@@ -25,7 +25,8 @@ tags:
 - :salt: 0.5 tsp salt
 - :egg: 1 large egg
 - :glass_of_milk: 1 Tbsp milk
-- :strawberry: 0.75 cup jam (optional)
+- :rice: some [crème fraîche][2]
+- :strawberry: 0.75 cup [jam][3] (optional)
 
 ## :cooking: Cookware
 
@@ -74,11 +75,11 @@ from the sides of the pan.
 
 Allow the cake to cool in the pan for 5 minutes before moving it to a cake plate. Your slices will be neater if you
 slice the cake while still warm. The cake can be eaten warm or at room temperature. Serve with a generous dollop of
-crème fraîche.
+[crème fraîche][2].
 
 !!! tip "Jam Variation"
 
-    If you'd like to try this with a layer of jam, fill the prepared tart pan with half the batter, freeze
+    If you'd like to try this with a layer of [jam][3], fill the prepared tart pan with half the batter, freeze
     for 10 minutes, add 3/4 cup of jam (optional), freeze for another 10 minutes and add the final layer of batter. It
     will need 45 minutes total baking time.
 
@@ -87,3 +88,5 @@ crème fraîche.
 - Gâteau
 
 [1]: <../../assets/images/breton-butter-bake.jpg>
+[2]: <../../ingredients/crème-fraîche.md>
+[3]: <../../sauces-and-dressings/single-jar-of-fruit-jam.md>
