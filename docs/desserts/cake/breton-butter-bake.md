@@ -85,7 +85,7 @@ slice the cake while still warm. The cake can be eaten warm or at room temperatu
 
 ## :link: Source
 
-- Gâteau
+- Gateau: The Surprising Simplicity of French Cakes
 
 [1]: <../../assets/images/breton-butter-bake.jpg>
 [2]: <../../ingredients/crème-fraîche.md>
