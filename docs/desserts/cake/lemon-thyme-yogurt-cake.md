@@ -29,7 +29,7 @@ tags:
 
 - :lemon: 2 lemon juice
 - :lemon: 1 Tbsp limoncello (alternative)
-- :candy: : 60 g confectioners' sugar
+- :candy: 60 g confectioners' sugar
 - :herb: 1.5 tsp thyme (alternative)
 - :herb: 1 tsp rosemary (alternative)
 - :herb: 1.5 tsp verbana (alternative)
