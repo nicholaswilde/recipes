@@ -87,5 +87,6 @@ cake into your hand, then place on a wire rack to fully cool before slicing.
 
 - <https://food52.com/recipes/84768-best-pound-cake-recipe>
 - <https://www.thepancakeprincess.com/2022/02/18/best-pound-cake-bake-off/>
+- <https://youtu.be/ODFho7KaDbY?si=bNItHj_2-XMHBGNy>
 
 [1]: <../../assets/images/pound-cake.jpg>
