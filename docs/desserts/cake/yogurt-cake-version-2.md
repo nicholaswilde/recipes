@@ -45,6 +45,11 @@ and whisk just to combine. Add the 1 jar of canola oil and whisk until homogeneo
 
 Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inserted in the center comes out clean.
 
+!!! note
+
+    This recipe can also be made in an 8-inch springform or a 9-inch round cake pan. A 9-inch cake will only take
+    around 30 to 35 minutes, whereas an 8-inch round will take closer to 40 and a medium loaf between 35 and 45.
+
 ## :link: Source
 
 - Gâteau
