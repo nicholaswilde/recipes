@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-  - the-gracia-madre-cookbook
+  - the-gracias-madre-cookbook
 ---
 # :rice: Green Rice
 
