@@ -7,11 +7,15 @@ tags:
 
 ![Old-Fashioned Rice Pudding][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 60 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 60 minutes               |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 4                                  |
 
 - :glass_of_milk: 6 cups milk
 - :candy: 0.5 cup granulated sugar
@@ -20,6 +24,17 @@ tags:
 - :icecream: 2 tsp vanilla
 - :custard: some cinnamon (optional)
 
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2                                  |
+
+- :glass_of_milk: 3 cups milk
+- :candy: 0.25 cup granulated sugar
+- :salt: 0.25 tsp salt
+- :rice: 0.25 cup long grain white rice
+- :icecream: 1 tsp vanilla
+- :custard: some cinnamon (optional)
+- 
 ## :cooking: Cookware
 
 - 1 large saucepan
