@@ -20,7 +20,7 @@ tags:
 - :icecream: 0.5 tsp vanilla extract
 - :custard: 0.25 tsp cinnamon
 - :salt: 1 pinch salt
-- :chestnut: 0.5 cup chia seeds
+- :chestnut: 0.25 cup chia seeds
 - :strawberry: 0.5 cup strawberries (optional)
 - :coconut: some toasted coconut (optional)
 - :strawberry: some boba pearls (optional)
@@ -40,6 +40,14 @@ with plastic wrap and refrigerate overnight.
 ### Step 2
 
 Stir pudding and top with strawberries (optional), toasted coconut (optional), and boba pearls (optional).
+
+!!! tip
+
+    You can substitute stevia or sugar for agave.
+
+!!! tip
+
+    You can substitute milk, soy milk, or almond milk for coconut milk. However, this will change the flavor.
 
 ## :link: Sources
 
