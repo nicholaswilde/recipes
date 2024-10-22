@@ -12,7 +12,11 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 24 | 3.37 hours |
 
-## :salt: Ingredients - 1/2 Batch
+## :salt: Ingredients
+
+| Serves    |
+|:---------:|
+| 1/2 Batch |
 
 - :glass_of_milk: 0.25 (57 g) cup whole milk
 - :ear_of_rice: 21 g bread flour
@@ -32,7 +36,9 @@ tags:
 - :salt: some pepper
 - :butter: 1 Tbsp (14 g) unsalted butter
 
-## :salt: Ingredients - 1 Batch
+| Serves  |
+|:-------:|
+| 1 Batch |
 
 - :glass_of_milk: 0.5 (113 g) cup whole milk
 - :ear_of_rice: 42 g bread flour
