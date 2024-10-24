@@ -7,7 +7,7 @@ tags:
 ---
 # :pie: Pumpkin Spiced Apple Pie
 
-![Pumpkin Spiced Apple Pie](../assets/images/pumpkin-spiced-apple-pie.jpg){ loading=lazy }
+![Pumpkin Spiced Apple Pie][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,7 +19,7 @@ tags:
 
 - :apple: 5 cups apples
 - :custard: 0.5 tsp cinnamon
-- :jack_o_lantern: 0.25 tsp pumpkin pie spice
+- :jack_o_lantern: 0.25 tsp [pumpkin pie spice][2]
 - :candy: 8 tsp sugar
 - :maple_leaf: 8 tsp brown sugar
 - :butter: 2 Tbsp pumpkin butter
@@ -30,7 +30,7 @@ tags:
 
 - :ear_of_rice: 2 cups flour
 - :salt: 1 tsp salt
-- :jack_o_lantern: 0.25 tsp pumpkin pie spice
+- :jack_o_lantern: 0.25 tsp [pumpkin pie spice][2]
 - :custard: 0.25 tsp cinnamon
 - :butter: 38 tsp cold butter
 - :droplet: 6 Tbsp ice water
@@ -55,12 +55,12 @@ Preheat oven to 400°F.
 
 ### Step 2
 
-Prepare filling by peeling and slicing apples. Toss with cinnamon, pumpkin pie spice, sugar, brown sugar, pumpkin
+Prepare filling by peeling and slicing apples. Toss with cinnamon, [pumpkin pie spice][2], sugar, brown sugar, pumpkin
 butter, salt, and flour. Set aside.
 
 ### Step 3
 
-Prepare crust by whisking flour, salt, pumpkin pie spice, and cinnamon in large bowl.
+Prepare crust by whisking flour, salt, [pumpkin pie spice][2], and cinnamon in large bowl.
 
 ### Step 4
 
@@ -93,3 +93,6 @@ Prepare the crumb topping by combining brown sugar, butter, and flour. Stir in c
 ### Step 11
 
 Reduce oven temperature to 350°F and bake for 30 minutes.
+
+[1]: <../assets/images/pumpkin-spiced-apple-pie.jpg>
+[2]: <../ingredients/seasonings/pumpkin-pie-spice.md>
