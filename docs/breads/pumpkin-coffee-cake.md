@@ -22,7 +22,7 @@ tags:
 - :rice: 2 Tbsp sour cream
 - :icecream: 1.5 tsp vanilla
 - :ear_of_rice: 156 g all-purpose flour
-- :nutmeg: 2 tsp pumpkin spice
+- :nutmeg: 2 tsp [pumpkin pie spice][3]
 - :custard: 0.5 tsp cinnamon
 - :dash: 0.75 tsp baking powder
 - :cup_with_straw: 0.75 tsp baking soda
@@ -74,8 +74,8 @@ bottom of the bowl to ensure that all ingredients are well combined.
 
 ### Step 5
 
-In a separate, medium-sized bowl, whisk together all-purpose flour, pumpkin spice, cinnamon, baking powder, baking soda,
-and salt.
+In a separate, medium-sized bowl, whisk together all-purpose flour, pumpkin pie spice, cinnamon, baking powder, baking
+soda, and salt.
 
 ### Step 6
 
@@ -125,3 +125,4 @@ Cut and serve. Enjoy!
 
 [1]: <../assets/images/pumpkin-coffee-cake.jpg>
 [2]: <../ingredients/pumpkin-purée.md>
+[3]: <../ingredients/seasonings/pumpkin-pie-spice.md>
