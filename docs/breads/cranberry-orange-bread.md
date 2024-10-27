@@ -25,7 +25,7 @@ tags:
 - :glass_of_milk: 0.67 cup [buttermilk][1]
 - :tangerine: 1 large orange zest
 - :tangerine: 0.33 cup orange juice
-- :cherries: 1 cup cranberries
+- :cherries: 1 cup dried cranberries
 - :chestnut: 0.5 cup almonds (optional)
 
 ## :cooking: Cookware
@@ -54,7 +54,7 @@ Add wet ingredients to dry and stir until just combined.
 
 ### Step 5
 
-Gently fold in  cranberries (and chopped and roasted almonds (optional), if using).
+Gently fold in dried cranberries (and chopped and roasted almonds (optional), if using).
 
 ### Step 6
 
