@@ -22,7 +22,7 @@ tags:
 - :salt: 1 tsp salt
 - :butter: 6 Tbsp (85 g) melted butter
 - :egg: 1 egg
-- :glass_of_milk: 0.67 cup [buttermilk][1]
+- :glass_of_milk: 0.67 cup (151 g) [buttermilk][1]
 - :tangerine: 1 large orange zest
 - :icecream: 0.75 tsp vanilla
 - :tangerine: 0.33 cup orange juice
