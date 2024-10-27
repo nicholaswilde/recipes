@@ -20,7 +20,7 @@ tags:
 - :dash: 1 tsp baking powder
 - :cup_with_straw: 0.25 tsp baking soda
 - :salt: 1 tsp salt
-- :butter: 6 Tbsp melted butter
+- :butter: 6 Tbsp (85 g) melted butter
 - :egg: 1 egg
 - :glass_of_milk: 0.67 cup [buttermilk][1]
 - :tangerine: 1 large orange zest
