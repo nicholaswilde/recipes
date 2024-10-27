@@ -26,7 +26,7 @@ tags:
 - :tangerine: 1 large orange zest
 - :icecream: 0.75 tsp vanilla
 - :tangerine: 0.33 cup (76 g) orange juice
-- :cherries: 1 cup dried cranberries
+- :cherries: 1 cup (114 g) dried cranberries
 - :chestnut: 0.5 cup almonds (optional)
 
 ## :cooking: Cookware
