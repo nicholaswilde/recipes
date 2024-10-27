@@ -15,8 +15,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cup whole wheat pastry flour
-- :candy: 1 cup sugar
+- :ear_of_rice: 2 cup (240 g) whole wheat pastry flour
+- :candy: 1 cup (198 g) granulated sugar
 - :dash: 1 tsp baking powder
 - :cup_with_straw: 0.25 tsp baking soda
 - :salt: 1 tsp salt
@@ -42,7 +42,7 @@ Preheat oven to 370°F. Grease (optional) a 9x5 loaf pan.
 
 ### Step 2
 
-In a large bowl, whisk together whole wheat pastry flour, sugar, baking powder, baking soda, and salt.
+In a large bowl, whisk together whole wheat pastry flour, granulated sugar, baking powder, baking soda, and salt.
 
 ### Step 3
 
