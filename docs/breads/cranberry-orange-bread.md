@@ -24,6 +24,7 @@ tags:
 - :egg: 1 egg
 - :glass_of_milk: 0.67 cup [buttermilk][1]
 - :tangerine: 1 large orange zest
+- :icecream: 0.75 tsp vanilla
 - :tangerine: 0.33 cup orange juice
 - :cherries: 1 cup dried cranberries
 - :chestnut: 0.5 cup almonds (optional)
@@ -46,7 +47,7 @@ In a large bowl, whisk together whole wheat pastry flour, granulated sugar, baki
 
 ### Step 3
 
-In a small bowl, whisk together melted butter, egg, buttermilk, orange zest, and orange juice.
+In a small bowl, whisk together melted butter, egg, buttermilk, orange zest, vanilla, and orange juice.
 
 ### Step 4
 
