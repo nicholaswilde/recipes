@@ -25,7 +25,7 @@ tags:
 - :glass_of_milk: 0.67 cup (151 g) [buttermilk][1]
 - :tangerine: 1 large orange zest
 - :icecream: 0.75 tsp vanilla
-- :tangerine: 0.33 cup orange juice
+- :tangerine: 0.33 cup (76 g) orange juice
 - :cherries: 1 cup dried cranberries
 - :chestnut: 0.5 cup almonds (optional)
 
