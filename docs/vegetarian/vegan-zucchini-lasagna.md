@@ -3,6 +3,7 @@ comments: true
 tags:
   - vegan
   - minimalist-baker
+  - favorite
 ---
 # :cucumber: Vegan Zucchini Lasagna
 
