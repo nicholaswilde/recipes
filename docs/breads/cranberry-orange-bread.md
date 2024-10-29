@@ -13,7 +13,7 @@ tags:
 |:-----------------------: |
 | 1.50 hours |
 
-## :salt: Ingredients
+## :salt: Ingredients - Cake
 
 - :ear_of_rice: 2 cup (240 g) whole wheat pastry flour
 - :candy: 1 cup (198 g) granulated sugar
@@ -28,6 +28,13 @@ tags:
 - :tangerine: 0.33 cup (76 g) orange juice
 - :cherries: 1 cup (114 g) dried cranberries
 - :chestnut: 0.5 cup almonds (optional)
+
+## :salt: Ingredients - Glaze
+
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :candy: 0.5 cup (57 g) confectioners' sugar
+- :lemon: 2 Tbsp orange juice
+- :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -64,6 +71,10 @@ Bake and check at 35 minutes. Keep baking until golden brown (around 45 minutes)
 ### Step 7
 
 Cool in pan for 10 minutes.
+
+!!! note
+
+   If using fresh cranberries, use 2 cups of them and increase the amount of granulated sugar.
 
 ## :link: Source
 
