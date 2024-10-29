@@ -33,7 +33,7 @@ tags:
 
 - :butter: 2 Tbsp (28 g) unsalted butter
 - :candy: 0.5 cup (57 g) confectioners' sugar
-- :lemon: 2 Tbsp orange juice
+- :tangerine: 2 Tbsp orange juice
 - :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
