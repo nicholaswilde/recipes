@@ -46,7 +46,7 @@ tags:
 
 ### Step 1
 
-Preheat oven to 370°F. Grease (optional) a 9x5 loaf pan.
+Preheat oven to 370°F. Grease (optional) a 9x5 loaf pan. Soak dried cranberries in hot water for 0.5 hours or overnight.
 
 ### Step 2
 
