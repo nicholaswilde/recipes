@@ -74,7 +74,7 @@ Cool in pan for 10 minutes.
 
 !!! note
 
-   If using fresh cranberries, use 2 cups of them and increase the amount of granulated sugar.
+    If using fresh cranberries, use 2 cups of them and increase the amount of granulated sugar.
 
 ## :link: Source
 
