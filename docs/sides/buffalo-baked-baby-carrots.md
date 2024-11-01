@@ -19,7 +19,7 @@ tags:
 - :salt: 0.5 tsp salt
 - :bell_pepper: 0.5 tsp paprika
 - :hot_pepper: 0.25 tsp cayenne pepper
-- :cup_of_milk: 0.5 cup milk
+- :glass_of_milk: 0.5 cup milk
 - :bread: 1 cup [breadcrumbs][3]
 - :microbe: 1 Tbsp nutritional yeast
 - :water_buffalo: 1 cup [buffalo sauce][2]
