@@ -20,9 +20,9 @@ tags:
 - :bell_pepper: 0.5 tsp paprika
 - :hot_pepper: 0.25 tsp cayenne pepper
 - :cup_of_milk: 0.5 cup milk
-- :bread: 1 cup breadcrumbs
+- :bread: 1 cup [breadcrumbs][3]
 - :microbe: 1 Tbsp nutritional yeast
-- :water_buffalo: 1 cup buffalo sauce
+- :water_buffalo: 1 cup [buffalo sauce][2]
 - :leafy_green: 0.25 cup parsley
 
 ## :cooking: Cookware
@@ -45,16 +45,18 @@ to form a thick batter.
 
 ### Step 3
 
-In a separate bowl, place the breadcrumbs and nutritional yeast. Dip each carrot into the batter and then into the
+In a separate bowl, place the [breadcrumbs][3] and nutritional yeast. Dip each carrot into the batter and then into the
 breadcrumbs. Place each coated carrot on a baking sheet and bake for 30 minutes.
 
 ### Step 4
 
-While the carrots are still warm, toss gently with the buffalo sauce. Garnish with chopped parsley and serve with your
-dip of choice.
+While the carrots are still warm, toss gently with the [buffalo sauce][2]. Garnish with chopped parsley and serve with
+your dip of choice.
 
 ## :link: Source
 
 - Cal-Organic Farms
 
 [1]: <../assets/images/buffalo-baked-baby-carrots.jpg>
+[2]: <../sauces-and-dressings/buffalo-sauce.md>
+[3]: <../ingredients/breadcrumbs.md>
