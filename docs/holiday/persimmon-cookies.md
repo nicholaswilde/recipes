@@ -4,6 +4,7 @@ tags:
   - holiday
   - cookie
   - dessert
+  - favorite
 ---
 # :cookie: Persimmon Cookies
 
@@ -17,10 +18,10 @@ tags:
 
 - :cup_with_straw: 1 tsp baking soda
 - :sponge: 1 cup persimmon pulp
-- :butter: 0.5 cup butter
-- :candy: 1 cup sugar
+- :butter: 0.5 (113 g) cup butter
+- :candy: 1 cup (198 g) granulated sugar
 - :egg: 1 egg
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :dash: 1 tsp baking powder
 - :salt: 0.5 tsp salt
 - :custard: 0.5 tsp cinnamon
