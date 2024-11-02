@@ -18,7 +18,7 @@ tags:
 - :salt: 1 tsp salt
 - :candy: 0.33 cup sugar
 - :glass_of_milk: 1.5 cups milk
-- :butter: 6 Tbsp butter
+- :butter: 6 Tbsp unsalted butter
 - :egg: 1 egg
 
 ## :salt: Ingredients - Cinnamon Sugar Filling
@@ -26,7 +26,16 @@ tags:
 - :maple_leaf: 0.67 cup light brown sugar
 - :custard: 1 Tbsp cinnamon
 - :salt: 1 pinch salt
-- :butter: 0.25 cup butter
+- :butter: 0.25 cup unsalted butter
+
+### :cupcake: Filling Variation
+
+- :butter: 115 g unsalted butter
+- :maple_leaf: 170 g light brown sugar
+- :custard: 2 Tbsp cinnamon
+- :chestnut: 1/2 tsp nutmeg
+- :salt: 1/4 tsp salt
+- :chestnut: 115 g toasted pecans 
 
 ## :salt: Ingredients - Cream Cheese Frosting
 
@@ -36,6 +45,12 @@ tags:
 - :glass_of_milk: 3 Tbsp milk
 - :salt: 1 pinch salt
 - :icecream: 1 tsp vanilla
+
+### :cake: Frosting Variation
+
+- :cheese_wedge: 4 oz cream cheese
+- :icecream: 2 tsp vanilla
+- :candy: 141 g confectioners' sugar
 
 ## :cooking: Cookware
 
@@ -120,6 +135,21 @@ Bake the cinnamon rolls at 350°F for 30 minutes or until they are golden brown 
 While the rolls cool, make the cream cheese frosting. In a stand mixer fit with the whisk attachment combine the cream
 cheese, butter, confectioners' sugar, milk, salt, and vanilla extract. Beat on low speed, gradually increasing to high
 until light and fluffy. Spread the icing evenly over the 12 rolls. Enjoy warm!
+
+!!! tip "Filling Variation"
+
+    Prepare filling with the same bowl and beater, mixing butter, brown sugar, cinnamon, nutmeg, and salt on low speed
+    until moistened. Increase to medium and beat the dark paste until creamy, light in color, and very soft, about 5
+    minutes. Transfer to a zip-top bag or disposable pastry bag and set aside until needed, up to 24 hours at room
+    temperature. Reserve the pecans until it's time to fill and shape the rolls.
+
+!!! tip "Frosting Variation"
+
+    Combine cream cheese and vanilla with half the confectioners' sugar in the bowl of a stand mixer fitted with a
+    paddle attachment. Mix on low to moisten, then sprinkle in the rest of the sugar a little at a time. Once it is
+    incorporated, increase to medium and beat until creamy and pale ivory, about 5 minutes. Transfer to a zip-top bag
+    or disposable pastry bag and set aside until needed, up to 24 hours at room temperature. (If your kitchen is chilly
+    and the frosting hardens in that time, briefly microwave the bag to restore its creamy texture before use.)
 
 ## :link: Source
 

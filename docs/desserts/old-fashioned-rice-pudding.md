@@ -7,11 +7,15 @@ tags:
 
 ![Old-Fashioned Rice Pudding][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 60 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 60 minutes               |
 
 ## :salt: Ingredients
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 4                                  |
 
 - :glass_of_milk: 6 cups milk
 - :candy: 0.5 cup granulated sugar
@@ -19,6 +23,21 @@ tags:
 - :rice: 0.5 cup long grain white rice
 - :icecream: 2 tsp vanilla
 - :custard: some cinnamon (optional)
+- :chocolate_bar: 3 Tbsp cocoa powder (optional)
+- :grapes: 1/4 cup raisins (optional)
+
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 2                                  |
+
+- :glass_of_milk: 3 cups milk
+- :candy: 0.25 cup granulated sugar
+- :salt: 0.25 tsp salt
+- :rice: 0.25 cup long grain white rice
+- :icecream: 1 tsp vanilla
+- :custard: some cinnamon (optional)
+- :chocolate_bar: 1.5 Tbsp cocoa powder (optional)
+- :grapes: 2 Tbsp raisins (optional)
 
 ## :cooking: Cookware
 
@@ -46,6 +65,15 @@ Once thickened, remove from heat and stir in vanilla.
 
 Let cool and then refrigerate. The last 1/2 cup milk is stirred in just before serving. Sprinkle with cinnamon
 (optional) if desired.
+
+
+!!! tip "Variation"
+
+    To make Chocolate Rice Pudding, add 3 Tbsp cocoa to the milk.
+
+!!! tip "Variation"
+
+    Add 1/4 cup of raisins when cooking the rice.
 
 ## :link: Source
 

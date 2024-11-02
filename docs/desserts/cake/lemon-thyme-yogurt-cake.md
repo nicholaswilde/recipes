@@ -78,6 +78,6 @@ lemon thyme leaves, for decoration.
 
 ## :link: Source
 
-- Gâteau
+- Gateau: The Surprising Simplicity of French Cakes
 
 [1]: <../../assets/images/lemon-thyme-yogurt-cake.jpg>
