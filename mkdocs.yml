@@ -32,6 +32,7 @@ theme:
     - navigation.tracking
     #  - navigation.expand
     - navigation.top
+    - navigation.footer
 
 nav:
   - Home: index.md
