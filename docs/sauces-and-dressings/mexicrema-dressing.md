@@ -3,27 +3,28 @@ comments: true
 tags:
   - dressing
   - mexican
+  - nutrition-studies
 ---
-# Mexicrema Dressing
+# :avocado: Mexicrema Dressing
 
 ![Mexicrema Dressing](../assets/images/mexicrema-dressing.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 0 minutes |
+| 5 minutes |
 
 ## :salt: Ingredients
 
-- 1 cup firm silken tofu
-- 0.5 tsp onion powder
-- 2 Tbsp water
-- 2 Tbsp nutritional yeast
-- 1 handful cilantro
-- 0.5 tsp garlic powder
-- 1 lime or lemon juice
-- 0.25 cup apple cider vinegar
-- 0.5 tsp sea salt
-- 0.25 cup avocado (optional)
+- :custard: 1 cup firm silken tofu
+- :onion: 0.5 tsp onion powder
+- :droplet: 2 Tbsp water
+- :microbe: 2 Tbsp nutritional yeast
+- :leafy_green: 1 handful cilantro
+- :garlic: 0.5 tsp garlic powder
+- :lemon: 1 lime or lemon juice
+- :apple: 0.25 cup apple cider vinegar
+- :salt: 0.5 tsp sea salt
+- :avocado: 0.25 cup avocado (optional)
 
 ## :cooking: Cookware
 
