@@ -60,6 +60,43 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - 1 Dutch oven
 - 1 cooling rack
 
+## :calendar: Baking Schedule
+
+::timeline::
+
+- title: Levain
+  icon: ":material-bowl:"
+  sub_title: 9:00 p.m.
+- title: Autolyse
+  icon: ":salt:"
+  sub_title: 9:00 a.m.
+- title: Mix
+  icon: ":fontawesome-brands-mixer:"
+  sub_title: 9:30 a.m.
+- title: Bulk Fermentation
+  icon: ":microbe:"
+  sub_title: 10:30 a.m.
+- title: Fold
+  icon: ":fontawesome-solid-hand-holding-hand:"
+  sub_title: 11:15 a.m.
+- title: "Divide"
+  icon: ":fontawesome-solid-divide:"
+  sub_title: 12:00 p.m.
+- title: "Shape"
+  icon: ":fontawesome-solid-shapes:"
+  sub_title: 12:20 p.m.
+- title: Proof
+  icon: ":material-rice:"
+  sub_title: 12:45 p.m.
+- title: Bake
+  sub_title: 2:45 p.m.
+  icon: ":material-toaster-oven:"
+- title: Rest
+  sub_title: 3:30 p.m.
+  icon: ":material-bed:"
+
+::/timeline::
+
 ## :pencil: Instructions - Levain
 
 ### Step 1
@@ -71,12 +108,12 @@ mixer. Cover and let sit for 12 to 16 hours at room temperature. The mixture sho
 
 ## Step 2
 
-Add all of the dough ingredients (except the salt) to the bowl with the levain. Mix briefly, just to 
+Add all of the dough ingredients (except the salt) to the bowl with the levain. Mix briefly, just to
 combine. If you’re using a stand mixer, use the dough hook on first speed, mixing just until everything is incorporated.
 
 ## Step 3
 
-Cover the dough and let it rest for 20 to 30 minutes. This resting period is known as the autolyse, and gives the flour 
+Cover the dough and let it rest for 20 to 30 minutes. This resting period is known as the autolyse, and gives the flour
 a chance to absorb the water, making the resulting dough easier to work with.
 
 ## Step 4
@@ -95,15 +132,15 @@ Cover the bowl with plastic wrap or a reusable cover and let it rest and rise fo
 
 ## Step 6
 
-After 1 hour uncover the bowl and, using a bowl scraper or spatula, run the scraper or spatula down the inside far wall 
+After 1 hour uncover the bowl and, using a bowl scraper or spatula, run the scraper or spatula down the inside far wall
 of the bowl. Bring the dough up from the bottom of the bowl, and fold it over on top of itself. Turn the bowl 90° and
 repeat; repeat twice more (for a total of four times), turning the bowl 90° each time. This process, which helps develop
-the dough, is called a fold. Re-cover the bowl, and let the dough rise for another 90 minutes, adding another fold after 
+the dough, is called a fold. Re-cover the bowl, and let the dough rise for another 90 minutes, adding another fold after
 45 minutes if the dough doesn’t seem elastic and strong enough.
 
 ## Step 7
 
-Gently deflate the dough and divide it into two pieces; each will weigh about 750 g. Shape each piece into a rough ball, 
+Gently deflate the dough and divide it into two pieces; each will weigh about 750 g. Shape each piece into a rough ball,
 cover, and let rest for about 20 minutes; this rest will make the loaves easier to shape.
 
 ## Step 8
@@ -114,12 +151,12 @@ floured brotforms, or into two bowls lined with floured smooth cotton dish towel
 
 ## Step 9
 
-Cover the loaves and let them rise for 1 1/2 to 2 hours at room temperature (68°F to 78°F is ideal). Or refrigerate the 
+Cover the loaves and let them rise for 1 1/2 to 2 hours at room temperature (68°F to 78°F is ideal). Or refrigerate the
 covered loaves overnight.
 
 ## Step 10
 
-When you’re ready to bake, preheat the oven to 450°F for at least 45 minutes before baking. At the same time, place two 
+When you’re ready to bake, preheat the oven to 450°F for at least 45 minutes before baking. At the same time, place two
 lidded oven-safe baking pans (such as a cloche, Dutch oven, or long covered baker) into the oven to preheat. Make sure
 the baker you choose is safe to be preheated empty, without anything inside.
 
@@ -130,7 +167,7 @@ the top to allow for expansion.
 
 ## Step 12
 
-Cover the bakers and place them in the oven. Bake the bread for 30 minutes. Remove the covers and bake 10 to 15 minutes 
+Cover the bakers and place them in the oven. Bake the bread for 30 minutes. Remove the covers and bake 10 to 15 minutes
 more, or until the bread is golden brown. Its internal temperature should register about 210°F on a digital thermometer.
 
 ## Step 13
