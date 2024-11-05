@@ -1,4 +1,6 @@
 ---
+# ::timeline::
+
 - title: Mix
   icon: ":fontawesome-brands-mixer:"
   sub_title: 9:00 a.m.
@@ -17,3 +19,5 @@
 - title: Rest
   sub_title: 12:30 p.m.
   icon: ":material-bed:"
+
+# ::/timeline::
