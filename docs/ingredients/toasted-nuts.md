@@ -23,7 +23,7 @@ tags:
 
 ### Step 1
 
-For large batches of nuts, spread them on a sheet pan in a single layer and toast them in a 3500°F oven for 7 to 10
+For large batches of nuts, spread them on a sheet pan in a single layer and toast them in a 350°F oven for 7 to 10
 minutes. Shake the pan occasionally during this time to make sure the nuts toast evenly. The nuts are done when their
 color has deepened and you can smell their aroma.
 

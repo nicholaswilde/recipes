@@ -1,5 +1,7 @@
 ---
 comments: true
+tags:
+  - trader-joes
 ---
 # Falafel Scones with Harissa Yogurt
 
@@ -65,4 +67,4 @@ to a wire rack to cool. Wait 5 minutes, then serve with harissa yogurt for drizz
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/falafel-scones-with-harissa-yogurt>
+- Trader Joe's
