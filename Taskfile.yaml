@@ -8,6 +8,11 @@ vars:
   PORT: 8000
 
 tasks:
+  build:
+    desc: Build mkdocs-material Dockerfile
+    cmds:
+      - docker build -t ghcr.io/nicholaswilde/mkdocs-material .
+
   linkspector:
     desc: linkspector
     cmds:
@@ -92,7 +97,7 @@ tasks:
     cmds:
       - >-
         docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
-        --platform linux/amd64 squidfunk/mkdocs-material serve
+        --platform linux/amd64 ghcr.io/nicholaswilde/mkdocs-material serve
         --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
   serve-local:
     desc: Serve a local mkdocs server
