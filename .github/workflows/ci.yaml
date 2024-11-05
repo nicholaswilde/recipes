@@ -40,7 +40,8 @@ jobs:
             mkdocs-minify-plugin \
             mkdocs-redirects \
             mkdocs-git-committers-plugin-2 \
-            mkdocs-git-revision-date-localized-plugin
+            mkdocs-git-revision-date-localized-plugin \
+            neoteroi-mkdocs
 
       - name: Deploy mkdocs
         run: |

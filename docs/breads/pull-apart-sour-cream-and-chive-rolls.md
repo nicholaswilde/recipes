@@ -18,13 +18,13 @@ tags:
 |:---------:|
 | 1/2 Batch |
 
-### :bread: Tangzhong
+### :bread: 1/2 Batch - Tangzhong
 
 - :glass_of_milk: 0.25 (57 g) cup whole milk
 - :ear_of_rice: 21 g bread flour
 - :droplet: 0.25 (57 g) cup water
 
-### :bread: Dough
+### :bread: 1/2 Batch - Dough
 
 - :glass_of_milk: 1 Tbsp whole milk
 - :microbe: 0.75 tsp active dry yeast
@@ -45,14 +45,14 @@ tags:
 |:-------:|
 | 1 Batch |
 
-### :bread: Tangzhong
+### :bread: 1 Batch - Tangzhong
 
 - :glass_of_milk: 0.5 (113 g) cup whole milk
 - :ear_of_rice: 42 g bread flour
 - :droplet: 0.5 (113 g) cup water
 - :glass_of_milk: 2 Tbsp whole milk
 
-### :bread: Dough
+### :bread: 1 Batch - Dough
 
 - :microbe: 1.5 tsp active dry yeast
 - :rice: 1 cup (227 g) sour cream
@@ -79,6 +79,31 @@ tags:
 - 1 fork
 - 1 small bowl
 - 1 knife or an offset spatula
+
+## :calendar: Baking Schedule
+
+::timeline::
+
+- title: Mix
+  icon: ":fontawesome-brands-mixer:"
+  sub_title: 9:00 a.m.
+- title: Bulk Fermentation
+  icon: ":microbe:"
+  sub_title: 9:15 a.m.
+- title: "Divide & Shape"
+  icon: ":fontawesome-solid-divide:"
+  sub_title: 10:45 a.m.
+- title: Proof
+  icon: ":material-rice:"
+  sub_title: 11:00 a.m.
+- title: Bake
+  sub_title: 12:00 p.m.
+  icon: ":material-toaster-oven:"
+- title: Rest
+  sub_title: 12:30 p.m.
+  icon: ":material-bed:"
+
+::/timeline::
 
 ## :pencil: Instructions
 

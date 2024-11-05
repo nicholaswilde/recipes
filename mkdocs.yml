@@ -1160,6 +1160,7 @@ plugins:
       minify_html: true
 
 markdown_extensions:
+  - neoteroi.timeline
   - footnotes
   - attr_list
   - md_in_html
@@ -1185,6 +1186,9 @@ markdown_extensions:
       repo_url_shorthand: true
       user: nicholaswilde
       repo: recipes
+
+extra_css:
+  - css/neoteroi-mkdocs.css
 
 extra_javascript:
   - javascripts/mathjax.js
