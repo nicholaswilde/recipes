@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-| Serves    |
-|:---------:|
-| 1/2 Batch |
+| :fork_and_knife_with_plate: Serves |
+|:----------------------------------:|
+| 1/2 Batch                          |
 
 ### :bread: 1/2 Batch - Tangzhong
 
@@ -41,19 +41,19 @@ tags:
 - :salt: some pepper
 - :butter: 1 Tbsp (14 g) unsalted butter
 
-| Serves  |
-|:-------:|
-| 1 Batch |
+| :fork_and_knife_with_plate:Serves |
+|:---------------------------------:|
+| 1 Batch                           |
 
 ### :bread: 1 Batch - Tangzhong
 
 - :glass_of_milk: 0.5 (113 g) cup whole milk
 - :ear_of_rice: 42 g bread flour
 - :droplet: 0.5 (113 g) cup water
-- :glass_of_milk: 2 Tbsp whole milk
 
 ### :bread: 1 Batch - Dough
 
+- :glass_of_milk: 2 Tbsp whole milk
 - :microbe: 1.5 tsp active dry yeast
 - :rice: 1 cup (227 g) sour cream
 - :candy: 50 g granulated sugar
@@ -114,7 +114,11 @@ tags:
 
 Make the tangzhong by whisking 1/2 cup whole milk, 1/3 cup bread flour (42 g), and 1/2 cup water in a small saucepan
 until smooth. Cook over medium heat, whisking constantly, until very stiff paste forms (it should resemble mashed
-potatoes), about 2 minutes. Remove from heat. Be sure to add the liquid to the dry ingredients to avoid clumping.
+potatoes), about 2 minutes. Remove from heat.
+
+!!! tip
+
+    Be sure to add the liquid to the dry ingredients to avoid clumping.
 
 ### Step 2
 
@@ -124,6 +128,11 @@ Scrape tangzhong into the bowl of a stand mixer fitted with the dough hook.
 
 Gently warm remaining 2 Tbsp whole milk in the same saucepan over low heat until lukewarm. Remove from heat, add active
 dry yeast, and whisk until dissolved. Let sit until the mixture is foamy, about 5 minutes.
+
+!!! tip
+
+    If using instant yeast, this step may be skipped and the yeast may be added directly to the flour and salt. Add
+    the additional 2 Tbsp of whole milk to the dough.
 
 ### Step 4
 
