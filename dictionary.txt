@@ -854,3 +854,6 @@ Chana
 Dal
 dal
 pulao
+chetna-makan
+fraiche
+fraiche.

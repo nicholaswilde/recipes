@@ -1,0 +1,8 @@
+---
+dictionaries:
+  - dictionary.txt
+ignore:
+  - "fontawesome-([^\\s]+)"
+files:
+  - "./cook/**/*.cook"
+  - "./docs/**/*.md"

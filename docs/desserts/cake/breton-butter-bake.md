@@ -25,7 +25,7 @@ tags:
 - :salt: 0.5 tsp salt
 - :egg: 1 large egg
 - :glass_of_milk: 1 Tbsp milk
-- :rice: some [crème fraîche][2]
+- :rice: some [crème fraiche][2]
 - :strawberry: 0.75 cup [jam][3] (optional)
 
 ## :cooking: Cookware
@@ -75,7 +75,7 @@ from the sides of the pan.
 
 Allow the cake to cool in the pan for 5 minutes before moving it to a cake plate. Your slices will be neater if you
 slice the cake while still warm. The cake can be eaten warm or at room temperature. Serve with a generous dollop of
-[crème fraîche][2].
+[crème fraiche][2].
 
 !!! tip "Jam Variation"
 

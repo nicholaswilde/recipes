@@ -16,8 +16,9 @@ tasks:
   linkspector:
     desc: linkspector
     cmds:
-      - >-
-        nicholas@amd:~/git/nicholaswilde/recipes$ docker run --rm -it -v "${PWD}":/app -v "${PWD}"/.linkspector.yaml:/path/to/custom-config.yml        --name linkspector umbrelladocs/linkspector bash -c 'linkspector check -c /path/to/custom-config.yml'
+      - |
+        docker run --rm -it -v "${PWD}":/app -v "${PWD}"/.linkspector.yaml:/path/to/custom-config.yml \
+        --name linkspector umbrelladocs/linkspector bash -c 'linkspector check -c /path/to/custom-config.yml'
 
   add-lazy-loading:
     desc: Add lazy image loading
@@ -139,11 +140,14 @@ tasks:
   spellcheck:
     desc: Spellcheck cook files
     cmds:
-      - ./scripts/spellcheck.sh
+      - npx spellchecker --config {{ .ROOT_DIR }}/.spellcheckerrc.yml
+
   spellcheck-file:
     desc: Spellcheck a single file
     cmds:
-      - npx spellchecker -d {{ .ROOT_DIR }}/dictionary.txt -f {{shellQuote .f }}
+      - |
+        npx spellchecker -d {{ .ROOT_DIR }}/dictionary.txt -f {{shellQuote .f }} \
+          --config {{ .ROOT_DIR }}/.spellcheckerrc.yml
     vars:
       f:
         sh: "readlink -f {{shellQuote .FILE}}"
