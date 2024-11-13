@@ -5,10 +5,11 @@ tags:
   - cookie
   - dessert
   - favorite
+  - recipe-box
 ---
 # :cookie: Persimmon Cookies
 
-![Persimmon Cookies](../assets/images/persimmon-cookies.jpg){ loading=lazy }
+![Persimmon Cookies][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -62,3 +63,9 @@ Drop by teaspoonful onto greased cookie sheet.
 ### Step 7
 
 Bake until done (set when touched in center).
+
+## :link: Source
+
+- Recipe Box
+
+[1]: <../assets/images/persimmon-cookies.jpg>
