@@ -857,3 +857,6 @@ pulao
 chetna-makan
 fraiche
 fraiche.
+tarte
+Soleil
+Boursin

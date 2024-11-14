@@ -1,0 +1,89 @@
+---
+comments: true
+tags:
+  - holiday
+---
+# :flatbread: Spinach-Artichoke Tarte Soleil
+
+![Spinach-Artichoke Tarte Soleil][1]{ loading=lazy }
+
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 8 | 40 minutes |
+
+## :salt: Ingredients
+
+- :flatbread: 2 sheets puff pastry
+- :leafy_green: 1 10-oz pkg spinach
+- :deciduous_tree: 1 14-oz can artichokes
+- :deciduous_tree: 1 10-oz pkg artichoke hearts (alternative)
+- :cheese_wedge: 0.5 5.2-oz pkg Boursin garlic and fine herbs cheese
+- :cheese_wedge: 0.25 cup shredded Parmesan
+- :herb: 0.25 cup dill
+- :lemon: 2 tsp lemon zest
+- :salt: 0.25 tsp salt
+- :salt: some pepper
+- :egg: 1 large egg
+- :droplet: 1 tsp water
+- :leafy_green: 1 Tbsp sesame seeds
+
+## :cooking: Cookware
+
+- 1 parchment paper
+- 1 12-inch pot lid
+- 1 tea towel
+- 1 spatula
+- 1 small bowl
+- 1 baking sheet
+
+## :pencil: Instructions
+
+### Step 1
+
+Dust a sheet of parchment paper with flour. Gently roll out one puff pastry sheet, dusting with a little more flour as
+needed to prevent sticking, into a very thin 13”x13” square. Slide the parchment sheet with pastry onto a baking
+sheet and place in the freezer while you roll out the second sheet of pastry on another sheet of parchment paper. Slide
+the second parchment of pastry onto the same baking sheet and return to the freezer for 5 minutes to firm up.
+
+### Step 2
+
+Place one of the chilled pastry sheets, still on parchment, on a work surface. Place a 12-inch pot lid, plate, or other
+round object on top of pastry and use a small sharp knife to trace out a circle. Set aside the pastry scraps (you can
+use them to patch up any tears in the pastry). Transfer the pastry round on its parchment back to the baking sheet and
+return to the freezer while you repeat with the second pastry sheet. Once both rounds are cut out, return to the freezer
+to firm up while you make the filling.
+
+### Step 3
+
+Gather the thawed spinach and the artichokes or artichoke hearts (alternative) in a large clean tea towel or several
+layers of cheesecloth and squeeze, squeeze, squeeze out every last bit of liquid like your life depends on it (this will
+ensure the baked pastry doesn’t get soggy and stays light and crisp). Finely chop the squeezed spinach and artichokes
+and transfer to a mixing bowl. Add the Boursin garlic and fine herbs cheese, shredded Parmesan, dill, lemon zest, and
+salt and mash together with a spatula to combine. Season with pepper.
+
+### Step 4
+
+Beat the egg and 1 tsp water in a small bowl until blended. Brush some egg wash all around the edges of one of the
+pastry rounds, still on parchment. Evenly spread the spinach-artichoke mixture over, leaving a ½” border. Place the
+second pastry round on top and gently press to seal. Use a small glass (a shot glass or cocktail jigger works perfectly)
+to make an indent in the center of the pastry. Taking care not to cut through the indent, cut the pastry into four
+quarters, then cut each quarter into four thin wedges (you should have 16 "rays" of pastry emanating out from the center
+circle). Slide the entire parchment sheet onto the baking sheet and refrigerate tarte for 15 minutes.
+
+### Step 5
+
+Preheat oven to 400°F. Working with one wedge at a time, gently pull away from the center and twist three or four
+times. Brush all over with egg wash, sprinkle with sesame seeds, and bake until puffed and deep golden brown all over,
+30 to 35 minutes. Serve warm.
+
+!!! tip "Do Ahead"
+
+    You can assemble the tart the night before through the stage where you cut out all 16 wedges, but before you
+    twirl them into twists. Cover the tart with plastic wrap, refrigerate overnight. The next day, twist the wedges,
+    brush with egg wash, and bake.
+
+## :link: Source
+
+- <https://cupofjo.com/2024/11/13/tarte-soleil-easy-holiday-appetizer/>
+
+[1]: <../assets/images/spinach-artichoke-tarte-soleil.jpg>
