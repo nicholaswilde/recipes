@@ -31,7 +31,7 @@ tags:
 - :olive: 1 Tbsp olive oil
 - :herb: 1 bunch cilantro
 - :tomato: some [pico de gallo][2]
-- :avocado: some guacamole
+- :avocado: some [guacamole][3]
 
 ## :pencil: Instructions
 
@@ -50,7 +50,7 @@ Add corn, black beans, 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Sau
 
 ### Step 4
 
-Build bowls starting with rice, then corn and beans, then tofu. Top with cilantro, pico de gallo, and guacamole.
+Build bowls starting with rice, then corn and beans, then tofu. Top with cilantro, pico de gallo, and [guacamole][3].
 
 ## :link: Source
 
@@ -58,3 +58,4 @@ Build bowls starting with rice, then corn and beans, then tofu. Top with cilantr
 
 [1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg>
 [2]: <../sauces-and-dressings/salsa-fresca-(pico-de-gallo).md>
+[3]: <./guacamole.md>
