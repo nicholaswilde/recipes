@@ -7,7 +7,7 @@ tags:
 ---
 # :green_salad: Chipotle-Inspired Vegan Burrito Bowls
 
-![Chipotle-Inspired Vegan Burrito Bowls](../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg){ loading=lazy }
+![Chipotle-Inspired Vegan Burrito Bowls][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves |
 |:----------------------------------:|
@@ -29,8 +29,8 @@ tags:
 - :hot_pepper: 0.5 tsp chipotle powder
 - :hot_pepper: 0.5 tsp chili powder
 - :olive: 1 Tbsp olive oil
-- :herb 1 bunch cilantro
-- :tomato: some pico de gallo
+- :herb: 1 bunch cilantro
+- :tomato: some [pico de gallo][2]
 - :avocado: some guacamole
 
 ## :pencil: Instructions
@@ -55,3 +55,6 @@ Build bowls starting with rice, then corn and beans, then tofu. Top with cilantr
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg>
+[2]: <../sauces-and-dressings/salsa-fresca-(pico-de-gallo).md>
