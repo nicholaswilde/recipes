@@ -62,7 +62,7 @@ Drop by teaspoonful onto greased cookie sheet.
 
 ### Step 7
 
-Bake until done (set when touched in center).
+Bake until done, about 15 minutes (set when touched in center).
 
 ## :link: Source
 
