@@ -33,6 +33,7 @@ theme:
     #  - navigation.expand
     - navigation.top
     - navigation.footer
+    - content.code.copy
 
 nav:
   - Home: index.md
