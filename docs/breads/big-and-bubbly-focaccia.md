@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - king-arthur
+  - recipe-of-the-year
 ---
 # :bread: Big & Bubbly Focaccia
 
