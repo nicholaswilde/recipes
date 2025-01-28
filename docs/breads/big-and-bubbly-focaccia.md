@@ -4,6 +4,7 @@ tags:
   - bread
   - king-arthur
   - recipe-of-the-year
+  - favorite
 ---
 # :bread: Big & Bubbly Focaccia
 
