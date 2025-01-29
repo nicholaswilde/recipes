@@ -4,6 +4,7 @@ tags:
   - mexican
   - slow-cooker
   - recipe-box
+  - favorite
 ---
 # :stew: Slow Cooker Black Bean Chili
 
