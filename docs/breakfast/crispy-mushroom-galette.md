@@ -23,7 +23,7 @@ tags:
 - :mushroom: 1 lb shiitake, cremini, oyster, and/or maitake mushrooms
 - :garlic: 5 cloves garlic
 - :herb: 2 sprigs rosemary
-- :flatbread: 1 flaky olive oil dough
+- :flatbread: 1 [flaky olive oil dough][2]
 - :ear_of_rice: some flour
 - :olive: some olive oil
 - :bread: 2 Tbsp panko bread crumbs
@@ -68,10 +68,10 @@ smashed garlic cloves, rosemary sprig, and more salt and pepper. Reserve the ski
 
 ### Step 5
 
-Unwrap the flaky olive oil dough, place it on a lightly floured surface, and lightly dust the top with more flour. Roll
-out the dough, dusting with more flour as needed to prevent sticking, into a round about 12 inches in diameter. If it
-starts to shrink back as you're trying to roll it, cover the dough and let it rest on the surface for 10 minutes, then
-proceed.
+Unwrap the [flaky olive oil dough][2], place it on a lightly floured surface, and lightly dust the top with more flour.
+Roll out the dough, dusting with more flour as needed to prevent sticking, into a round about 12 inches in diameter. If
+it starts to shrink back as you're trying to roll it, cover the dough and let it rest on the surface for 10 minutes,
+then proceed.
 
 ### Step 6
 
@@ -106,4 +106,4 @@ and cutting into slices. Serve warm or at room temperature.
 - Dessert Person
 
 [1]: <../assets/images/crispy-mushroom-galette.jpg>
-
+[2]: <../ingredients/pastry-dough/flakey-olive-oil-dough.md>
