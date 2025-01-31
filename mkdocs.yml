@@ -1200,6 +1200,7 @@ markdown_extensions:
 
 extra_css:
   - css/neoteroi-mkdocs.css
+  - stylesheets/extra.css
 
 extra_javascript:
   - javascripts/mathjax.js

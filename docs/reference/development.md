@@ -294,6 +294,14 @@ Website used to search for emoji shortcodes.
 
 Website used to search for emoji contexts.
 
+### [Test Custom Admonition][14]
+
+!!! pied-piper "Pied Piper"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
+    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
+    purus auctor massa, nec semper lorem quam in massa.
+
 [1]: <https://developers.google.com/speed/webp/docs/precompiled>
 [2]: <https://cooklang.org/>
 [3]: <https://nicholaswilde.io/cook-docs/>
@@ -307,3 +315,4 @@ Website used to search for emoji contexts.
 [11]: <https://github.com/cooklang/cook-import>
 [12]: <https://github.com/nicholaswilde/cooklang-micro>
 [13]: <https://micro-editor.github.io/>
+[14]: <https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions>
