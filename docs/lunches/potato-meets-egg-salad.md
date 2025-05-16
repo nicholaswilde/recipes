@@ -2,8 +2,9 @@
 comments: true
 tags:
   - lunch
+  - sandwich
 ---
-# :sandwichi: Potato Meets Egg Salad
+# :sandwich: Potato Meets Egg Salad
 
 ![Potato Meets Egg Salad][1]{ loading=lazy }
 
