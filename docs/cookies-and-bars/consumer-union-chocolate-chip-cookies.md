@@ -15,6 +15,25 @@ tags:
 
 ## :salt: Ingredients
 
+| :fork_and_knife_with_plate:Serves |
+|:---------------------------------:|
+| 1/2 Batch                         |
+
+- :candy: 0.375 cup (75 g) granulated sugar
+- :maple_leaf: 0.375 cup (80 g) [light brown sugar][1]
+- :egg: 1 egg
+- :butter: 1 stick (113 g) unsalted butter
+- :icecream: 0.5 tsp vanilla
+- :ear_of_rice: 1.125 cups (135 g) all-purpose flour
+- :cup_with_straw: 0.5 tsp baking soda
+- :salt: 0.5 tsp salt
+- :chocolate_bar: 0.5 12 oz pkg (170 g) semi-sweet chocolate chips
+- :chestnut: some walnuts
+
+| :fork_and_knife_with_plate:Serves |
+|:---------------------------------:|
+| 1 Batch                           |
+
 - :candy: 0.75 cup (149 g) granulated sugar
 - :maple_leaf: 0.75 cup (160 g) [light brown sugar][1]
 - :egg: 2 eggs
