@@ -31,7 +31,7 @@ jobs:
             echo "MOD_ONLY=yes" >> "$GITHUB_OUTPUT"
           fi
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Check markdown links
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
