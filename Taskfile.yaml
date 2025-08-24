@@ -3,11 +3,27 @@
 version: '3'
 
 vars:
+  VER: 2.5
   ROOT_DIR:
     sh: git rev-parse --show-toplevel
   PORT: 8000
 
 tasks:
+  glite:
+    desc: Run Gemini with the gemini-2.5-flash-lite model.
+    cmds:
+      - gemini -m gemini-{{ .VER }}-flash-lite
+
+  gpro:
+    desc: 'Run Gemini with the gemini-{{ .VER }}-pro model.'
+    cmds:
+      - gemini -m gemini-{{ .VER }}-pro
+
+  gflash:
+    desc: Run Gemini with the gemini-2.5-flash model.
+    cmds:
+      - gemini -m gemini-{{ .VER }}-flash
+
   build:
     desc: Build mkdocs-material Dockerfile
     cmds:
