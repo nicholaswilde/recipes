@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - claire-saffitz
+  - favorite
 ---
 # :bread: Pull-Apart Sour Cream and Chive Rolls
 
