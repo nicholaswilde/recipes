@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
+  - favorite
 ---
 # :chestnut: Poppy Seed Almond Cake
 
