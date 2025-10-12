@@ -9,21 +9,39 @@ tags:
 
 ![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.jpg){ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 6 | 25 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 25 minutes |
 
 ## :salt: Ingredients
 
+| :fork_and_knife_with_plate: Serves | 
+|:--:|
+| 6 |
+
 - :banana: 0.5 cup (1) banana
 - :glass_of_milk: 1 cup (227 g) soy milk
-- :oil_drum: 2 Tbsp canola oil
+- :oil_drum: 2 Tbsp canola oil or applesauce
 - :candy: 2 Tbsp granulated sugar
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 1.5 cups (180 g) whole wheat flour
 - :dash: 1 Tbsp baking powder
 - :salt: 0.5 tsp salt
 - :custard: 0.5 tsp cinnamon (optional)
+
+| :fork_and_knife_with_plate: Serves | 
+|:--:|
+| 12 |
+
+- :banana: 1 cup (2) bananas
+- :glass_of_milk: 2 cup (454 g) soy milk
+- :oil_drum: 4 Tbsp canola oil or applesauce
+- :candy: 4 Tbsp granulated sugar
+- :icecream: 2 tsp vanilla
+- :ear_of_rice: 3 cups (360 g) whole wheat flour
+- :dash: 2 Tbsp baking powder
+- :salt: 1 tsp salt
+- :custard: 1 tsp cinnamon (optional)
 
 ## :cooking: Cookware
 
@@ -63,7 +81,7 @@ easily double, tripled or quadrupled.
 
 !!! note
 
-    May omit oil if needed, or sub more milk or mashed banana.
+    May omit oil if needed, or sub applesauce.
 
 !!! note
 
