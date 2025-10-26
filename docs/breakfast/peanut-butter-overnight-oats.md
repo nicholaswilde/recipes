@@ -19,7 +19,7 @@ tags:
 | 4                                   |
 
 - :glass_of_milk: 2 cups (454 g) almond milk
-- :seedling: 3 Tbsp chia seeds
+- :seedling: 3 Tbsp (33 g) chia seeds
 - :peanuts: 0.5 cups (68 g) [peanut butter][1]
 - :icecream: 1 tsp vanilla
 - :maple_leaf: 4 Tbsp (78 g) maple syrup
