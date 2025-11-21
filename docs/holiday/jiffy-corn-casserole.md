@@ -20,6 +20,8 @@ tags:
 - :rice: 2 cups sour cream
 - :egg: 4 eggs
 - :corn: 2 boxes Jiffy corn muffin mix
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
@@ -42,5 +44,13 @@ Mix in sour cream.
 In a separate bowl, beat eggs and stir into corn and sour cream. Add Jiffy corn muffin mix and blend thoroughly.
 
 ### Step 4
+
+Season with salt and pepper to taste.
+
+!!! tip
+
+    Found that 3/4 tsp pepper and 2 tsp salt works well.
+
+### Step 5
 
 Bake 35 to 45 minutes.
