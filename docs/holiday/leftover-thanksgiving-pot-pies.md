@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+  - favorite
 ---
 # :pie: Leftover Thanksgiving Pot Pies
 
