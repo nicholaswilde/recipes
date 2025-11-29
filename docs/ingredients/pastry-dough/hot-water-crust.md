@@ -8,9 +8,9 @@ tags:
 
 ![Hot Water Crust](../../assets/images/hot-water-crust.jpg){ loading=lazy }
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 20 minutes |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 2 ⌀4.75 x 2.25 H in pies           | 20 minutes               |
 
 ## :salt: Ingredients
 
