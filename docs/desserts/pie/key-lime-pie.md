@@ -23,7 +23,7 @@ tags:
 - :cookie: 1.25 cups (178 g) graham crackers
 - :candy: 3 Tbsp granulated sugar
 - :salt: 1 pinch salt
-- :butter: 71 g unsalted butter
+- :butter: 71 g (5 Tbsp) unsalted butter
 
 ## :cooking: Cookware
 
