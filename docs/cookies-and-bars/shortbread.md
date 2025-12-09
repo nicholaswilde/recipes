@@ -13,6 +13,14 @@ tags:
 |:----------------------------------:|:-----------------------: |
 | 20 cookies | 55 minutes |
 
+## :scales: Ratios
+
+By weight:
+
+| :ear_of_rice: flour | :butter: fat | :candy: sugar | 
+|:-------------------:|:------------:|:-------------:|
+|        3 parts      |   2 parts    |    1 part     |
+
 ## :salt: Ingredients
 
 - :butter: 0.75 lb (340 g) unsalted butter
