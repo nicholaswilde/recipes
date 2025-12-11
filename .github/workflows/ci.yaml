@@ -1,49 +1,29 @@
 ---
-name: ci
-on:  # yamllint disable-line rule:truthy
+name: Documentation
+on:
   push:
-    paths:
-      - 'docs/**'
-      - 'mkdocs.**'
     branches:
+      - master
       - main
-  workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 jobs:
-  build:
-    name: Deploy docs
-    runs-on: ubuntu-22.04
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/configure-pages@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-
-      - name: Set up build cache
-        uses: actions/cache@v4
-        id: cache
+      - run: pip install zensical
+      - run: zensical build --clean 
+      - uses: actions/upload-pages-artifact@v4
         with:
-          key: ${{ runner.os }}-${{ hashFiles('.cache/**') }}
-          path: .cache
-
-      - name: Install mkdocs-material
-        run: |
-          pip install \
-            mkdocs-material \
-            mkdocs-minify-plugin \
-            mkdocs-redirects \
-            mkdocs-git-committers-plugin-2 \
-            mkdocs-git-revision-date-localized-plugin \
-            neoteroi-mkdocs
-
-      - name: Deploy mkdocs
-        run: |
-          mkdocs gh-deploy --force
-          mkdocs --version
+          path: site
+      - uses: actions/deploy-pages@v4

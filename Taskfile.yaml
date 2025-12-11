@@ -108,19 +108,9 @@ tasks:
         docker run --rm -it -v ${PWD}:/markdown:ro
         06kellyjac/markdownlint-cli -f .
   serve:
-    desc: >-
-      Start development server on http://0.0.0.0:{{ .PORT }} using
-      Docker and mkdocs-material
+    desc: Serve a local zensical server
     cmds:
-      - >-
-        docker run --rm -it -p {{ .PORT }}:{{ .PORT}} -v ${PWD}:/docs
-        --platform linux/amd64 ghcr.io/nicholaswilde/mkdocs-material serve
-        --dev-addr 0.0.0.0:{{ .PORT }} -f ./mkdocs.yml
-  serve-local:
-    desc: Serve a local mkdocs server
-    cmds:
-      - mkdocs serve
-    silent: true
+      - zensical serve
   server:
     desc: Serve a cook server
     cmds:

@@ -76,7 +76,7 @@ function add_files(){
 
   new_markdown_path=$(get_new_markdown_path "${recipe_path}")
 
-  mkdocs_path="${ROOT_DIR}/mkdocs.yml"
+  mkdocs_path="${ROOT_DIR}/zensical.toml"
 
   emoji_path="${ROOT_DIR}/includes/emoji.yaml"
 
