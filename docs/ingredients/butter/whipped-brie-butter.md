@@ -5,7 +5,7 @@ tags:
   - ingredient
   - applied-kitchen
 ---
-# Whipped Brie Butter
+# :butter: Whipped Brie Butter
 
 ![Whipped Brie Butter][1]{ loading=lazy }
 
@@ -19,7 +19,7 @@ tags:
 - :cheese_wedge: 6 oz brie
 - :icecream: 2 Tbsp heavy cream
 - :salt: some flaky sea salt
-- :honey_poth: some honey
+- :honey_pot: some honey
 
 ## :cooking: Cookware
 
