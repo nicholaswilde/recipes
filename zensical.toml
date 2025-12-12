@@ -728,18 +728,12 @@ Custards = [
 "Yule Log (Classic Bûche de Noël)" = "desserts/cake/yule-log-(classic-bûche-de-noël).md"
 
 [[project.nav.Desserts]]
-
-[[project.nav.Desserts.Cupcakes]]
-"Chocolate Cupcakes" = "desserts/cupcakes/chocolate-cupcakes.md"
-
-[[project.nav.Desserts.Cupcakes]]
-"Corn & Hatch Chile Cupcakes with Honey Buttercream" = "desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md"
-
-[[project.nav.Desserts.Cupcakes]]
-"Vanilla Cupcakes" = "desserts/cupcakes/vanilla-cupcakes.md"
-
-[[project.nav.Desserts.Cupcakes]]
-"White Chocolate Strawberry Cupcakes" = "desserts/cupcakes/white-chocolate-strawberry-cupcakes.md"
+Cupcakes = [
+  { "Chocolate Cupcakes" = "desserts/cupcakes/chocolate-cupcakes.md" },
+  { "Corn & Hatch Chile Cupcakes with Honey Buttercream" = "desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md" },
+  { "Vanilla Cupcakes" = "desserts/cupcakes/vanilla-cupcakes.md" },
+  { "White Chocolate Strawberry Cupcakes" = "desserts/cupcakes/white-chocolate-strawberry-cupcakes.md" },
+]
 
 [[project.nav.Desserts]]
 
@@ -805,20 +799,13 @@ Custards = [
 
 [[project.nav.Desserts]]
 
-[[project.nav.Desserts.Tarts]]
-"Chocolate Tart" = "desserts/tarts/chocolate-tart.md"
-
-[[project.nav.Desserts.Tarts]]
-"Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md"
-
-[[project.nav.Desserts.Tarts]]
-"French Fruit Tart" = "desserts/tarts/french-fruit-tart.md"
-
-[[project.nav.Desserts.Tarts]]
-"Plum Torte" = "desserts/tarts/plum-torte.md"
-
-[[project.nav.Desserts.Tarts]]
-"Strawberry Tart" = "desserts/tarts/strawberry-tart.md"
+Tarts = [
+  { "Chocolate Tart" = "desserts/tarts/chocolate-tart.md" },
+  { "Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md" },
+  { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
+  { "Plum Torte" = "desserts/tarts/plum-torte.md" },
+  { "Strawberry Tart" = "desserts/tarts/strawberry-tart.md" },
+]
 
 [[project.nav.Desserts]]
 "4 Ingredient Chocolate Mousse" = "desserts/4-ingredient-chocolate-mousse.md"
@@ -1077,7 +1064,7 @@ Dutch = [
 "Green Bean Casserole" = "holiday/green-bean-casserole.md"
 
 [[project.nav.Holiday]]
-Gumbo = "holiday/gumbo.md"
+"Gumbo" = "holiday/gumbo.md"
 
 [[project.nav.Holiday]]
 "Hawaiian Toffee" = "holiday/hawaiian-toffee.md"
@@ -1156,103 +1143,71 @@ Gumbo = "holiday/gumbo.md"
 
 [[project.nav]]
 Indonesian = [
-    { "Indonesian Satay" = "indonesian/indonesian-satay.md" },
-    { Lemper = "indonesian/lemper.md" },
-    { Lumpia = "indonesian/lumpia.md" },
-    { "Nasi Goreng" = "indonesian/nasi-goreng.md" },
-    { Wontons = "indonesian/wontons.md" },
+  { "Indonesian Satay" = "indonesian/indonesian-satay.md" },
+  { "Lemper" = "indonesian/lemper.md" },
+  { "Lumpia" = "indonesian/lumpia.md" },
+  { "Nasi Goreng" = "indonesian/nasi-goreng.md" },
+  { "Wontons" = "indonesian/wontons.md" },
 ]
 
 [[project.nav]]
 
 [[project.nav.Ingredients]]
 Butter = [
-    { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
-    { "Almond Butter" = "ingredients/butter/almond-butter.md" },
-    { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
-    { Butter = "ingredients/butter/butter.md" },
-    { "Chili Lime Butter" = "ingredients/butter/chili-lime-butter.md" },
-    { "Clarified Butter" = "ingredients/butter/clarified-butter.md" },
-    { "Garlic-Parsley Basting Butter" = "ingredients/butter/garlic-parsley-basting-butter.md" },
-    { Ghee = "ingredients/butter/ghee.md" },
-    { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
-    { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
-    { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
+  { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
+  { "Almond Butter" = "ingredients/butter/almond-butter.md" },
+  { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
+  { "Butter" = "ingredients/butter/butter.md" },
+  { "Chili Lime Butter" = "ingredients/butter/chili-lime-butter.md" },
+  { "Clarified Butter" = "ingredients/butter/clarified-butter.md" },
+  { "Garlic-Parsley Basting Butter" = "ingredients/butter/garlic-parsley-basting-butter.md" },
+  { "Ghee" = "ingredients/butter/ghee.md" },
+  { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
+  { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
+  { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
 ]
 
 [[project.nav.Ingredients]]
 Caramel = [
-    { "Dry Caramel" = "ingredients/caramel/dry-caramel.md" },
-    { "Hard Caramel" = "ingredients/caramel/hard-caramel.md" },
-    { "Wet Caramel" = "ingredients/caramel/wet-caramel.md" },
+  { "Dry Caramel" = "ingredients/caramel/dry-caramel.md" },
+  { "Hard Caramel" = "ingredients/caramel/hard-caramel.md" },
+  { "Wet Caramel" = "ingredients/caramel/wet-caramel.md" },
 ]
 
 [[project.nav.Ingredients]]
 Extracts = [
-    { "Almond Extract" = "ingredients/extracts/almond-extract.md" },
-    { "Lemon Extract" = "ingredients/extracts/lemon-extract.md" },
-    { "Mint Extract" = "ingredients/extracts/mint-extract.md" },
-    { "Orange Extract" = "ingredients/extracts/orange-extract.md" },
-    { "Vanilla Extract" = "ingredients/extracts/vanilla-extract.md" },
+  { "Almond Extract" = "ingredients/extracts/almond-extract.md" },
+  { "Lemon Extract" = "ingredients/extracts/lemon-extract.md" },
+  { "Mint Extract" = "ingredients/extracts/mint-extract.md" },
+  { "Orange Extract" = "ingredients/extracts/orange-extract.md" },
+  { "Vanilla Extract" = "ingredients/extracts/vanilla-extract.md" },
 ]
 
 [[project.nav.Ingredients]]
 Fillings = [
-    { Mousse = "ingredients/fillings/mousse.md" },
+  { Mousse = "ingredients/fillings/mousse.md" },
 ]
 
 [[project.nav.Ingredients]]
-
-[[project.nav.Ingredients.Frosting]]
-"American Buttercream" = "ingredients/frosting/american-buttercream.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Brown Butter Cream Cheese Frosting" = "ingredients/frosting/brown-butter-cream-cheese-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Chocolate Ganache Glaze or Frosting" = "ingredients/frosting/chocolate-ganache-glaze-or-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Classic Vanilla Buttercream Frosting" = "ingredients/frosting/classic-vanilla-buttercream-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-Craquelin = "ingredients/frosting/craquelin.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Cream Cheese Frosting" = "ingredients/frosting/cream-cheese-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Danette's Kosher Marshmallow Creme Fondant (DKF)" = "ingredients/frosting/danette's-kosher-marshmallow-creme-fondant.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Dominique Ansel's Chocolate Ganache" = "ingredients/frosting/dominique-ansel's-chocolate-ganache.md"
-
-[[project.nav.Ingredients.Frosting]]
-"French Buttercream" = "ingredients/frosting/french-buttercream.md"
-
-[[project.nav.Ingredients.Frosting]]
-Marzipan = "ingredients/frosting/marzipan.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Mom's Buttercream Frosting" = "ingredients/frosting/mom's-buttercream-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Peanut Butter Frosting" = "ingredients/frosting/peanut-butter-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Peppermint Buttercream Frosting" = "ingredients/frosting/peppermint-buttercream-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Sour Cream Topping" = "ingredients/frosting/sour-cream-topping.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Swiss Buttercream" = "ingredients/frosting/swiss-buttercream.md"
-
-[[project.nav.Ingredients.Frosting]]
-"Vegan Strawberry Frosting" = "ingredients/frosting/vegan-strawberry-frosting.md"
-
-[[project.nav.Ingredients.Frosting]]
-"White Chocolate Frosting" = "ingredients/frosting/white-chocolate-frosting.md"
+Frosting = [
+  { "American Buttercream" = "ingredients/frosting/american-buttercream.md" },
+  { "Brown Butter Cream Cheese Frosting" = "ingredients/frosting/brown-butter-cream-cheese-frosting.md" },
+  { "Chocolate Ganache Glaze or Frosting" = "ingredients/frosting/chocolate-ganache-glaze-or-frosting.md" },
+  { "Classic Vanilla Buttercream Frosting" = "ingredients/frosting/classic-vanilla-buttercream-frosting.md" },
+  { "Craquelin" = "ingredients/frosting/craquelin.md" },
+  { "Cream Cheese Frosting" = "ingredients/frosting/cream-cheese-frosting.md" },
+  { "Danette's Kosher Marshmallow Creme Fondant (DKF)" = "ingredients/frosting/danette's-kosher-marshmallow-creme-fondant.md" },
+  { "Dominique Ansel's Chocolate Ganache" = "ingredients/frosting/dominique-ansel's-chocolate-ganache.md" },
+  { "French Buttercream" = "ingredients/frosting/french-buttercream.md" },
+  { "Marzipan" = "ingredients/frosting/marzipan.md"},
+  { "Mom's Buttercream Frosting" = "ingredients/frosting/mom's-buttercream-frosting.md" },
+  { "Peanut Butter Frosting" = "ingredients/frosting/peanut-butter-frosting.md" },
+  { "Peppermint Buttercream Frosting" = "ingredients/frosting/peppermint-buttercream-frosting.md" },
+  { "Sour Cream Topping" = "ingredients/frosting/sour-cream-topping.md" },
+  { "Swiss Buttercream" = "ingredients/frosting/swiss-buttercream.md" },
+  { "Vegan Strawberry Frosting" = "ingredients/frosting/vegan-strawberry-frosting.md" },
+  { "White Chocolate Frosting" = "ingredients/frosting/white-chocolate-frosting.md" },
+]
 
 [[project.nav.Ingredients]]
 Meringue = [
@@ -1323,8 +1278,6 @@ Filo = "ingredients/pastry-dough/filo.md"
 [[project.nav.Ingredients."Pastry Dough"]]
 "Vegan Empanada Pastry" = "ingredients/pastry-dough/vegan-empanada-pastry.md"
 
-[[project.nav.Ingredients]]
-
 [[project.nav.Ingredients."Post-Baking Glazes"]]
 "Dark Chocolate Mirror Glaze" = "ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md"
 
@@ -1341,39 +1294,19 @@ Filo = "ingredients/pastry-dough/filo.md"
 "Royal Icing" = "ingredients/post-baking-glazes/royal-icing.md"
 
 [[project.nav.Ingredients]]
-
-[[project.nav.Ingredients.Seasonings]]
-"Celery Salt" = "ingredients/seasonings/celery-salt.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Cinnamon Sugar" = "ingredients/seasonings/cinnamon-sugar.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Doritos Popcorn" = "ingredients/seasonings/doritos-popcorn.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Herbes de Provence" = "ingredients/seasonings/herbes-de-provence.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Everything Bagel" = "ingredients/seasonings/everything-bagel.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Italian Seasoning" = "ingredients/seasonings/italian-seasoning.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Pizza Dough Seasoning" = "ingredients/seasonings/pizza-dough-seasoning.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Pumpkin Pie Spice" = "ingredients/seasonings/pumpkin-pie-spice.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Taco Seasoning" = "ingredients/seasonings/taco-seasoning.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Umami Seasoning" = "ingredients/seasonings/umami-seasoning.md"
-
-[[project.nav.Ingredients.Seasonings]]
-"Vegan Chicken-Less Seasoning Salt" = "ingredients/seasonings/vegan-chicken-less-seasoning-salt.md"
+Seasonings = [
+  { "Celery Salt" = "ingredients/seasonings/celery-salt.md" },
+  { "Cinnamon Sugar" = "ingredients/seasonings/cinnamon-sugar.md" },
+  { "Doritos Popcorn" = "ingredients/seasonings/doritos-popcorn.md" },
+  { "Herbes de Provence" = "ingredients/seasonings/herbes-de-provence.md" },
+  { "Everything Bagel" = "ingredients/seasonings/everything-bagel.md" },
+  { "Italian Seasoning" = "ingredients/seasonings/italian-seasoning.md" },
+  { "Pizza Dough Seasoning" = "ingredients/seasonings/pizza-dough-seasoning.md" },
+  { "Pumpkin Pie Spice" = "ingredients/seasonings/pumpkin-pie-spice.md" },
+  { "Taco Seasoning" = "ingredients/seasonings/taco-seasoning.md" },
+  { "Umami Seasoning" = "ingredients/seasonings/umami-seasoning.md" },
+  { "Vegan Chicken-Less Seasoning Salt" = "ingredients/seasonings/vegan-chicken-less-seasoning-salt.md" },
+]
 
 [[project.nav.Ingredients]]
 Sponge = [
@@ -1384,30 +1317,16 @@ Sponge = [
 ]
 
 [[project.nav.Ingredients]]
-
-[[project.nav.Ingredients.Tofu]]
-Preparation = "ingredients/tofu/preparation.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Air Fryer Tofu" = "ingredients/tofu/air-fryer-tofu.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Baked Sriracha Tofu" = "ingredients/tofu/baked-sriracha-tofu.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Crispy Baked Peanut Tofu" = "ingredients/tofu/crispy-baked-peanut-tofu.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Crispy Baked Tofu Nuggets" = "ingredients/tofu/crispy-baked-tofu-nuggets.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Crispy Baked Tofu with Italian Herbs" = "ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Orange Honey Tofu" = "ingredients/tofu/orange-honey-tofu.md"
-
-[[project.nav.Ingredients.Tofu]]
-"Pan-Fried Tofu" = "ingredients/tofu/pan-fried-tofu.md"
+Tofu = [
+  { "Preparation" = "ingredients/tofu/preparation.md" },
+  { "Air Fryer Tofu" = "ingredients/tofu/air-fryer-tofu.md" },
+  { "Baked Sriracha Tofu" = "ingredients/tofu/baked-sriracha-tofu.md" },
+  { "Crispy Baked Peanut Tofu" = "ingredients/tofu/crispy-baked-peanut-tofu.md" },
+  { "Crispy Baked Tofu Nuggets" = "ingredients/tofu/crispy-baked-tofu-nuggets.md" },
+  { "Crispy Baked Tofu with Italian Herbs" = "ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md" },
+  { "Orange Honey Tofu" = "ingredients/tofu/orange-honey-tofu.md" },
+  { "Pan-Fried Tofu" = "ingredients/tofu/pan-fried-tofu.md" },
+]
 
 [[project.nav.Ingredients]]
 "Almond Cotija" = "ingredients/almond-cotija.md"
@@ -1422,7 +1341,7 @@ Preparation = "ingredients/tofu/preparation.md"
 "Apple Butter" = "ingredients/apple-butter.md"
 
 [[project.nav.Ingredients]]
-Aquafaba = "ingredients/aquafaba.md"
+"Aquafaba" = "ingredients/aquafaba.md"
 
 [[project.nav.Ingredients]]
 "Aquafaba Whipped Cream" = "ingredients/aquafaba-whipped-cream.md"
@@ -1431,7 +1350,7 @@ Aquafaba = "ingredients/aquafaba.md"
 "Beurre Manié" = "ingredients/beurre-manié.md"
 
 [[project.nav.Ingredients]]
-Bisquick = "ingredients/bisquick.md"
+"Bisquick" = "ingredients/bisquick.md"
 
 [[project.nav.Ingredients]]
 "Blanched Almonds" = "ingredients/blanched-almonds.md"
@@ -1443,13 +1362,13 @@ Bisquick = "ingredients/bisquick.md"
 "Bouquet Garni" = "ingredients/bouquet-garni.md"
 
 [[project.nav.Ingredients]]
-Breadcrumbs = "ingredients/breadcrumbs.md"
+"Breadcrumbs" = "ingredients/breadcrumbs.md"
 
 [[project.nav.Ingredients]]
 "Brown Sugar" = "ingredients/brown-sugar.md"
 
 [[project.nav.Ingredients]]
-Buttermilk = "ingredients/buttermilk.md"
+"Buttermilk" = "ingredients/buttermilk.md"
 
 [[project.nav.Ingredients]]
 "Candied Orange Peel" = "ingredients/candied-orange-peel.md"
@@ -1473,7 +1392,7 @@ Buttermilk = "ingredients/buttermilk.md"
 "Crème Fraîche" = "ingredients/crème-fraîche.md"
 
 [[project.nav.Ingredients]]
-Croutons = "ingredients/croutons.md"
+"Croutons" = "ingredients/croutons.md"
 
 [[project.nav.Ingredients]]
 "Crumb Crust" = "ingredients/crumb-crust.md"
@@ -1527,7 +1446,7 @@ Croutons = "ingredients/croutons.md"
 "Mint Filling" = "ingredients/mint-filling.md"
 
 [[project.nav.Ingredients]]
-Mirepoix = "ingredients/mirepoix.md"
+"Mirepoix" = "ingredients/mirepoix.md"
 
 [[project.nav.Ingredients]]
 "Miso Nori Paste" = "ingredients/miso-nori-paste.md"
@@ -1548,13 +1467,13 @@ Mirepoix = "ingredients/mirepoix.md"
 "Oreo Pie Crust" = "ingredients/oreo-pie-crust.md"
 
 [[project.nav.Ingredients]]
-Pasta = "ingredients/pasta.md"
+"Pasta" = "ingredients/pasta.md"
 
 [[project.nav.Ingredients]]
 "Peanut Butter" = "ingredients/peanut-butter.md"
 
 [[project.nav.Ingredients]]
-Pectin = "ingredients/pectin.md"
+"Pectin" = "ingredients/pectin.md"
 
 [[project.nav.Ingredients]]
 "Pickled Carrots & Daikon" = "ingredients/pickled-carrots-and-daikon.md"
@@ -1587,7 +1506,7 @@ Pectin = "ingredients/pectin.md"
 "Rice Flour" = "ingredients/rice-flour.md"
 
 [[project.nav.Ingredients]]
-Ricotta = "ingredients/ricotta.md"
+"Ricotta" = "ingredients/ricotta.md"
 
 [[project.nav.Ingredients]]
 "Roasted Garlic" = "ingredients/roasted-garlic.md"
@@ -1596,10 +1515,10 @@ Ricotta = "ingredients/ricotta.md"
 "Roasted Red Peppers" = "ingredients/roasted-red-peppers.md"
 
 [[project.nav.Ingredients]]
-Roux = "ingredients/roux.md"
+"Roux" = "ingredients/roux.md"
 
 [[project.nav.Ingredients]]
-Sauerkraut = "ingredients/sauerkraut.md"
+"Sauerkraut" = "ingredients/sauerkraut.md"
 
 [[project.nav.Ingredients]]
 "Scottish Oatmeal" = "ingredients/scottish-oatmeal.md"
@@ -1653,7 +1572,7 @@ Sauerkraut = "ingredients/sauerkraut.md"
 "Vegetable Broth" = "ingredients/vegetable-broth.md"
 
 [[project.nav.Ingredients]]
-Yogurt = "ingredients/yogurt.md"
+"Yogurt" = "ingredients/yogurt.md"
 
 [[project.nav]]
 
