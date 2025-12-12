@@ -9,280 +9,118 @@ repo_url = "https://github.com/nicholaswilde/recipes"
 repo_name = "nicholaswilde/recipes"
 edit_uri = "edit/main/docs/"
 plugins = [
-    { tags = { tags_file = "tags.md" } },
-    "search",
-    { minify = { minify_html = true } },
+  { tags = { tags_file = "tags.md" } },
+  "search",
+  { minify = { minify_html = true } },
 ]
 extra_css = [
-    "css/neoteroi-mkdocs.css",
-    "stylesheets/extra.css",
+  "css/neoteroi-mkdocs.css",
+  "stylesheets/extra.css",
 ]
 extra_javascript = [
-    "javascripts/mathjax.js",
-    "https://polyfill.io/v3/polyfill.min.js?features=es6",
-    "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
+  "javascripts/mathjax.js",
+  "https://polyfill.io/v3/polyfill.min.js?features=es6",
+  "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js", 
 ]
 
 [[project.nav]]
 Home = "index.md"
 
 [[project.nav]]
-
-[[project.nav.Asian]]
-"Banh Mi Sandwich" = "asian/banh-mi-sandwich.md"
-
-[[project.nav.Asian]]
-"Coconut Curried Vegetables with Rice" = "asian/coconut-curried-vegetables-with-rice.md"
-
-[[project.nav.Asian]]
-"Cool & Spicy Noodle Salad" = "asian/cool-and-spicy-noodle-salad.md"
-
-[[project.nav.Asian]]
-"Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md"
-
-[[project.nav.Asian]]
-"Easy Vegan Ramen" = "asian/easy-vegan-ramen.md"
-
-[[project.nav.Asian]]
-"Everyday Chinese Vegetable Stir-Fry" = "asian/everyday-chinese-vegetable-stir-fry.md"
-
-[[project.nav.Asian]]
-"Fresh Spring Rolls" = "asian/fresh-spring-rolls.md"
-
-[[project.nav.Asian]]
-"Noodle-Free Pad Thai" = "asian/noodle-free-pad-thai.md"
-
-[[project.nav.Asian]]
-"Simple Fried Rice" = "asian/simple-fried-rice.md"
-
-[[project.nav.Asian]]
-"Truffley Cauliflower Stir Fry" = "asian/truffley-cauliflower-stir-fry.md"
-
-[[project.nav.Asian]]
-"Vegetarian Egg Rolls" = "asian/vegetarian-egg-rolls.md"
+Asian = [
+  { "Banh Mi Sandwich" = "asian/banh-mi-sandwich.md" },
+  { "Coconut Curried Vegetables with Rice" = "asian/coconut-curried-vegetables-with-rice.md" },
+  { "Cool & Spicy Noodle Salad" = "asian/cool-and-spicy-noodle-salad.md" },
+  { "Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md" }, 
+  { "Easy Vegan Ramen" = "asian/easy-vegan-ramen.md" },
+  { "Everyday Chinese Vegetable Stir-Fry" = "asian/everyday-chinese-vegetable-stir-fry.md" },
+  { "Fresh Spring Rolls" = "asian/fresh-spring-rolls.md" },
+  { "Noodle-Free Pad Thai" = "asian/noodle-free-pad-thai.md" },
+  { "Simple Fried Rice" = "asian/simple-fried-rice.md" },
+  { "Truffley Cauliflower Stir Fry" = "asian/truffley-cauliflower-stir-fry.md" },
+  { "Vegetarian Egg Rolls" = "asian/vegetarian-egg-rolls.md" },
+]
 
 [[project.nav]]
-
-[[project.nav.Beverages]]
-"Champagne Punch" = "beverages/champagne-punch.md"
-
-[[project.nav.Beverages]]
-"Cooked Eggnog" = "beverages/cooked-eggnog.md"
-
-[[project.nav.Beverages]]
-"Ginger Cubes" = "beverages/ginger-cubes.md"
-
-[[project.nav.Beverages]]
-"Golden Milk" = "beverages/golden-milk.md"
-
-[[project.nav.Beverages]]
-"Hot Chocolate" = "beverages/hot-chocolate.md"
-
-[[project.nav.Beverages]]
-"Iced Chai Latte" = "beverages/iced-chai-latte.md"
-
-[[project.nav.Beverages]]
-"Iced Hibiscus Tea" = "beverages/iced-hibiscus-tea.md"
-
-[[project.nav.Beverages]]
-"Oat Milk" = "beverages/oat-milk.md"
-
-[[project.nav.Beverages]]
-"Old Irish Coffee" = "beverages/old-irish-coffee.md"
-
-[[project.nav.Beverages]]
-"Olde Tyme Lemonade" = "beverages/olde-tyme-lemonade.md"
-
-[[project.nav.Beverages]]
-"Pineapple Apple Cider Vinegar Turmeric Drink" = "beverages/pineapple-apple-cider-vinegar-turmeric-drink.md"
-
-[[project.nav.Beverages]]
-"Pineapple Paradise" = "beverages/pineapple-paradise.md"
-
-[[project.nav.Beverages]]
-"Spinach Banana Smoothie" = "beverages/spinach-banana-smoothie.md"
-
-[[project.nav.Beverages]]
-"Strawberry Whip" = "beverages/strawberry-whip.md"
+Beverages = [
+  { "Champagne Punch" = "beverages/champagne-punch.md" },
+  { "Cooked Eggnog" = "beverages/cooked-eggnog.md" },
+  { "Ginger Cubes" = "beverages/ginger-cubes.md" },
+  { "Golden Milk" = "beverages/golden-milk.md" },
+  { "Hot Chocolate" = "beverages/hot-chocolate.md" },
+  { "Iced Chai Latte" = "beverages/iced-chai-latte.md" },
+  { "Iced Hibiscus Tea" = "beverages/iced-hibiscus-tea.md" },
+  { "Oat Milk" = "beverages/oat-milk.md" },
+  { "Old Irish Coffee" = "beverages/old-irish-coffee.md" },
+  { "Olde Tyme Lemonade" = "beverages/olde-tyme-lemonade.md" },
+  { "Pineapple Apple Cider Vinegar Turmeric Drink" = "beverages/pineapple-apple-cider-vinegar-turmeric-drink.md" },
+  { "Pineapple Paradise" = "beverages/pineapple-paradise.md" },
+  { "Spinach Banana Smoothie" = "beverages/spinach-banana-smoothie.md" },
+  { "Strawberry Whip" = "beverages/strawberry-whip.md" },
+]
 
 [[project.nav]]
-
-[[project.nav.Breads]]
-"Almost No-Knead Sourdough Bread" = "breads/almost-no-knead-sourdough-bread.md"
-
-[[project.nav.Breads]]
-"Another Lemon Blueberry Bread" = "breads/another-lemon-blueberry-bread.md"
-
-[[project.nav.Breads]]
-"Artisan No-Knead Pizza Crust" = "breads/artisan-no-knead-pizza-crust.md"
-
-[[project.nav.Breads]]
-Baguettes = "breads/baguettes.md"
-
-[[project.nav.Breads]]
-Bagels = "breads/bagels.md"
-
-[[project.nav.Breads]]
-"Basic Sweet Babka" = "breads/basic-sweet-babka.md"
-
-[[project.nav.Breads]]
-"Best-Ever Banana Bread" = "breads/best-ever-banana-bread.md"
-
-[[project.nav.Breads]]
-"Big & Bubbly Focaccia" = "breads/big-and-bubbly-focaccia.md"
-
-[[project.nav.Breads]]
-"Bread Machine French Bread" = "breads/bread-machine-french-bread.md"
-
-[[project.nav.Breads]]
-"Bread Machine Italian Parmesan" = "breads/bread-machine-italian-parmesan.md"
-
-[[project.nav.Breads]]
-Brioche = "breads/brioche.md"
-
-[[project.nav.Breads]]
-"Buttermilk Biscuits" = "breads/buttermilk-biscuits.md"
-
-[[project.nav.Breads]]
-Challah = "breads/challah.md"
-
-[[project.nav.Breads]]
-"Chocolate Chip Peanut Butter Banana Bread" = "breads/chocolate-chip-peanut-butter-banana-bread.md"
-
-[[project.nav.Breads]]
-Ciabatta = "breads/ciabatta.md"
-
-[[project.nav.Breads]]
-"Cinnamon Raisin Sourdough Bread" = "breads/cinnamon-raisin-sourdough-bread.md"
-
-[[project.nav.Breads]]
-"Cinnamon Streusel Bread" = "breads/cinnamon-streusel-bread.md"
-
-[[project.nav.Breads]]
-Cornbread = "breads/cornbread.md"
-
-[[project.nav.Breads]]
-"Cranberry Orange Bread" = "breads/cranberry-orange-bread.md"
-
-[[project.nav.Breads]]
-Croissants = "breads/croissants.md"
-
-[[project.nav.Breads]]
-"Delicious Zucchini Bread" = "breads/delicious-zucchini-bread.md"
-
-[[project.nav.Breads]]
-"Flour Tortillas" = "breads/flour-tortillas.md"
-
-[[project.nav.Breads]]
-"French Bread" = "breads/french-bread.md"
-
-[[project.nav.Breads]]
-"Garlic Bread" = "breads/garlic-bread.md"
-
-[[project.nav.Breads]]
-"Gilligan Monkey Bread" = "breads/gilligan-monkey-bread.md"
-
-[[project.nav.Breads]]
-"Grilled Naan" = "breads/grilled-naan.md"
-
-[[project.nav.Breads]]
-"Honey Beer Bread" = "breads/honey-beer-bread.md"
-
-[[project.nav.Breads]]
-"Honey Challah with Assorted Toppings" = "breads/honey-challah-with-assorted-toppings.md"
-
-[[project.nav.Breads]]
-"Honey Cornbread" = "breads/honey-cornbread.md"
-
-[[project.nav.Breads]]
-"Irish Soda Bread" = "breads/irish-soda-bread.md"
-
-[[project.nav.Breads]]
-"Japanese Milk Bread" = "breads/japanese-milk-bread.md"
-
-[[project.nav.Breads]]
-"Japanese Milk Bread Rolls" = "breads/japanese-milk-bread-rolls.md"
-
-[[project.nav.Breads]]
-"Lemon Blueberry Bread" = "breads/lemon-blueberry-bread.md"
-
-[[project.nav.Breads]]
-"Lemon Bread" = "breads/lemon-bread.md"
-
-[[project.nav.Breads]]
-Naan = "breads/naan.md"
-
-[[project.nav.Breads]]
-"No-Knead Everything Bread" = "breads/no-knead-everything-bread.md"
-
-[[project.nav.Breads]]
-"Overnight Sourdough Baguettes" = "breads/overnight-sourdough-baguettes.md"
-
-[[project.nav.Breads]]
-"Pain Aux Raisins" = "breads/pain-aux-raisins.md"
-
-[[project.nav.Breads]]
-"Pain de Campagne (Country Bread)" = "breads/pain-de-campagne-(country-bread).md"
-
-[[project.nav.Breads]]
-"Parmesan Pull-Apart Bread" = "breads/parmesan-pull-apart-bread.md"
-
-[[project.nav.Breads]]
-Pita = "breads/pita.md"
-
-[[project.nav.Breads]]
-"Potato Bread" = "breads/potato-bread.md"
-
-[[project.nav.Breads]]
-"Pull-Apart Sour Cream and Chive Rolls" = "breads/pull-apart-sour-cream-and-chive-rolls.md"
-
-[[project.nav.Breads]]
-"Pumpkin Coffee Cake" = "breads/pumpkin-coffee-cake.md"
-
-[[project.nav.Breads]]
-"Pumpkin Bread" = "breads/pumpkin-bread.md"
-
-[[project.nav.Breads]]
-"Rosca de Reyes" = "breads/rosca-de-reyes.md"
-
-[[project.nav.Breads]]
-"Skillet Flatbread" = "breads/skillet-flatbread.md"
-
-[[project.nav.Breads]]
-"Sourdough Crackers" = "breads/sourdough-crackers.md"
-
-[[project.nav.Breads]]
-"Sourdough Crumpets" = "breads/sourdough-crumpets.md"
-
-[[project.nav.Breads]]
-"Sourdough English Muffins" = "breads/sourdough-english-muffins.md"
-
-[[project.nav.Breads]]
-"Sourdough Pizza Crust" = "breads/sourdough-pizza-crust.md"
-
-[[project.nav.Breads]]
-"Sourdough Pretzels" = "breads/sourdough-pretzels.md"
-
-[[project.nav.Breads]]
-"Texas Roadhouse Rolls" = "breads/texas-roadhouse-rolls.md"
-
-[[project.nav.Breads]]
-"The Best Cornbread" = "breads/the-best-cornbread.md"
-
-[[project.nav.Breads]]
-"The Best Pumpkin Bread" = "breads/the-best-pumpkin-bread.md"
-
-[[project.nav.Breads]]
-"The Bread Code Sourdough" = "breads/the-bread-code-sourdough.md"
-
-[[project.nav.Breads]]
-"The Easiest Loaf of Bread You'll Ever Bake" = "breads/the-easiest-loaf-of-bread-you'll-ever-bake.md"
-
-[[project.nav.Breads]]
-"Vermont Sourdough" = "breads/vermont-sourdough.md"
-
-[[project.nav.Breads]]
-"Whole Wheat Bread" = "breads/whole-wheat-bread.md"
+Breads = [
+  { "Almost No-Knead Sourdough Bread" = "breads/almost-no-knead-sourdough-bread.md" },
+  { "Another Lemon Blueberry Bread" = "breads/another-lemon-blueberry-bread.md" },
+  { "Artisan No-Knead Pizza Crust" = "breads/artisan-no-knead-pizza-crust.md" },
+  { "Baguettes" = "breads/baguettes.md" },
+  { "Bagels" = "breads/bagels.md" },
+  { "Basic Sweet Babka" = "breads/basic-sweet-babka.md" },
+  { "Best-Ever Banana Bread" = "breads/best-ever-banana-bread.md" },
+  { "Big & Bubbly Focaccia" = "breads/big-and-bubbly-focaccia.md" },
+  { "Bread Machine French Bread" = "breads/bread-machine-french-bread.md" },
+  { "Bread Machine Italian Parmesan" = "breads/bread-machine-italian-parmesan.md" },
+  { "Brioche" = "breads/brioche.md" },
+  { "Buttermilk Biscuits" = "breads/buttermilk-biscuits.md" },
+  { "Challah" = "breads/challah.md" },
+  { "Chocolate Chip Peanut Butter Banana Bread" = "breads/chocolate-chip-peanut-butter-banana-bread.md" },
+  { "Ciabatta" = "breads/ciabatta.md" },
+  { "Cinnamon Raisin Sourdough Bread" = "breads/cinnamon-raisin-sourdough-bread.md" },
+  { "Cinnamon Streusel Bread" = "breads/cinnamon-streusel-bread.md" },
+  { "Cornbread" = "breads/cornbread.md" },
+  { "Cranberry Orange Bread" = "breads/cranberry-orange-bread.md" },
+  { "Croissants" = "breads/croissants.md" },
+  { "Delicious Zucchini Bread" = "breads/delicious-zucchini-bread.md" },
+  { "Flour Tortillas" = "breads/flour-tortillas.md" },
+  { "French Bread" = "breads/french-bread.md" },
+  { "Garlic Bread" = "breads/garlic-bread.md" },
+  { "Gilligan Monkey Bread" = "breads/gilligan-monkey-bread.md" },
+  { "Grilled Naan" = "breads/grilled-naan.md" },
+  { "Honey Beer Bread" = "breads/honey-beer-bread.md" },
+  { "Honey Challah with Assorted Toppings" = "breads/honey-challah-with-assorted-toppings.md" },
+  { "Honey Cornbread" = "breads/honey-cornbread.md" },
+  { "Irish Soda Bread" = "breads/irish-soda-bread.md" },
+  { "Japanese Milk Bread" = "breads/japanese-milk-bread.md" },
+  { "Japanese Milk Bread Rolls" = "breads/japanese-milk-bread-rolls.md" },
+  { "Lemon Blueberry Bread" = "breads/lemon-blueberry-bread.md" },
+  { "Lemon Bread" = "breads/lemon-bread.md" },
+  { "Naan" = "breads/naan.md" },
+  { "No-Knead Everything Bread" = "breads/no-knead-everything-bread.md" },
+  { "Overnight Sourdough Baguettes" = "breads/overnight-sourdough-baguettes.md" },
+  { "Pain Aux Raisins" = "breads/pain-aux-raisins.md" },
+  { "Pain de Campagne (Country Bread)" = "breads/pain-de-campagne-(country-bread).md" },
+  { "Parmesan Pull-Apart Bread" = "breads/parmesan-pull-apart-bread.md" },
+  { "Pita" = "breads/pita.md" },
+  { "Potato Bread" = "breads/potato-bread.md" },
+  { "Pull-Apart Sour Cream and Chive Rolls" = "breads/pull-apart-sour-cream-and-chive-rolls.md" },
+  { "Pumpkin Coffee Cake" = "breads/pumpkin-coffee-cake.md" },
+  { "Pumpkin Bread" = "breads/pumpkin-bread.md" },
+  { "Rosca de Reyes" = "breads/rosca-de-reyes.md" },
+  { "Skillet Flatbread" = "breads/skillet-flatbread.md" },
+  { "Sourdough Crackers" = "breads/sourdough-crackers.md" },
+  { "Sourdough Crumpets" = "breads/sourdough-crumpets.md" },
+  { "Sourdough English Muffins" = "breads/sourdough-english-muffins.md" },
+  { "Sourdough Pizza Crust" = "breads/sourdough-pizza-crust.md" },
+  { "Sourdough Pretzels" = "breads/sourdough-pretzels.md" },
+  { "Texas Roadhouse Rolls" = "breads/texas-roadhouse-rolls.md" },
+  { "The Best Cornbread" = "breads/the-best-cornbread.md" },
+  { "The Best Pumpkin Bread" = "breads/the-best-pumpkin-bread.md" },
+  { "The Bread Code Sourdough" = "breads/the-bread-code-sourdough.md" },
+  { "The Easiest Loaf of Bread You'll Ever Bake" = "breads/the-easiest-loaf-of-bread-you'll-ever-bake.md" },
+  { "Vermont Sourdough" = "breads/vermont-sourdough.md" },
+  { "Whole Wheat Bread" = "breads/whole-wheat-bread.md" },
+]
 
 [[project.nav]]
 
