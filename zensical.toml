@@ -736,69 +736,30 @@ Cupcakes = [
 ]
 
 [[project.nav.Desserts]]
-
-[[project.nav.Desserts.Pies]]
-"Banana Cream Pie" = "desserts/pie/banana-cream-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Banoffee Pie" = "desserts/pie/banoffee-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Blueberry Pie" = "desserts/pie/blueberry-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Butterfinger Ice Cream Pie" = "desserts/pie/butterfinger-ice-cream-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Buttermilk Chess Pie" = "desserts/pie/buttermilk-chess-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Buttermilk Pie" = "desserts/pie/buttermilk-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Chess Pie" = "desserts/pie/chess-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"His Favorite Butterscotch Pie" = "desserts/pie/his-favorite-butterscotch-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Key Lime Pie" = "desserts/pie/key-lime-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Lemon Pie" = "desserts/pie/lemon-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Libby's Famous Pumpkin Pie" = "desserts/pie/libby's-famous-pumpkin-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Mini Apple Pies" = "desserts/pie/mini-apple-pies.md"
-
-[[project.nav.Desserts.Pies]]
-"Peanut Butter Cream Pie" = "desserts/pie/peanut-butter-cream-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Shoofly Pie" = "desserts/pie/shoofly-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Spring Fruit Tart Pie" = "desserts/pie/spring-fruit-tart-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Tart Cherry Pie" = "desserts/pie/tart-cherry-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"The Best Lemon Meringue Pie" = "desserts/pie/the-best-lemon-meringue-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Tollhouse Pie" = "desserts/pie/tollhouse-pie.md"
-
-[[project.nav.Desserts.Pies]]
-"Trader Joe's Key Lime Pie with Strawberry Whipped Cream" = "desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md"
+Pies = [
+  { "Banana Cream Pie" = "desserts/pie/banana-cream-pie.md" },
+  { "Banoffee Pie" = "desserts/pie/banoffee-pie.md" },
+  { "Blueberry Pie" = "desserts/pie/blueberry-pie.md" },
+  { "Butterfinger Ice Cream Pie" = "desserts/pie/butterfinger-ice-cream-pie.md" },
+  { "Buttermilk Chess Pie" = "desserts/pie/buttermilk-chess-pie.md" },
+  { "Buttermilk Pie" = "desserts/pie/buttermilk-pie.md" },
+  { "Chess Pie" = "desserts/pie/chess-pie.md" },
+  { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
+  { "His Favorite Butterscotch Pie" = "desserts/pie/his-favorite-butterscotch-pie.md" },
+  { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
+  { "Lemon Pie" = "desserts/pie/lemon-pie.md" },
+  { "Libby's Famous Pumpkin Pie" = "desserts/pie/libby's-famous-pumpkin-pie.md" },
+  { "Mini Apple Pies" = "desserts/pie/mini-apple-pies.md" },
+  { "Peanut Butter Cream Pie" = "desserts/pie/peanut-butter-cream-pie.md" },
+  { "Shoofly Pie" = "desserts/pie/shoofly-pie.md" },
+  { "Spring Fruit Tart Pie" = "desserts/pie/spring-fruit-tart-pie.md" },
+  { "Tart Cherry Pie" = "desserts/pie/tart-cherry-pie.md" },
+  { "The Best Lemon Meringue Pie" = "desserts/pie/the-best-lemon-meringue-pie.md" },
+  { "Tollhouse Pie" = "desserts/pie/tollhouse-pie.md" },
+  { "Trader Joe's Key Lime Pie with Strawberry Whipped Cream" = "desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md" },
+]
 
 [[project.nav.Desserts]]
-
 Tarts = [
   { "Chocolate Tart" = "desserts/tarts/chocolate-tart.md" },
   { "Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md" },
@@ -820,13 +781,13 @@ Tarts = [
 "Bread Pudding" = "desserts/bread-pudding.md"
 
 [[project.nav.Desserts]]
-Buckeyes = "desserts/buckeyes.md"
+"Buckeyes" = "desserts/buckeyes.md"
 
 [[project.nav.Desserts]]
 "Buttermilk Panna Cotta" = "desserts/buttermilk-panna-cotta.md"
 
 [[project.nav.Desserts]]
-Cannoli = "desserts/cannoli.md"
+"Cannoli" = "desserts/cannoli.md"
 
 [[project.nav.Desserts]]
 "Chia Pudding" = "desserts/chia-pudding.md"
@@ -990,156 +951,58 @@ Dutch = [
 ]
 
 [[project.nav]]
-
-[[project.nav.Holiday]]
-"Alton Brown's White Trash" = "holiday/alton-brown's-white-trash.md"
-
-[[project.nav.Holiday]]
-"Aunt Mary's Cherry Mashers" = "holiday/aunt-marys-cherry-mashers.md"
-
-[[project.nav.Holiday]]
-"Baked Ziti" = "holiday/baked-ziti.md"
-
-[[project.nav.Holiday]]
-"Pampered Chef Cannoli" = "holiday/pampered-chef-cannoli.md"
-
-[[project.nav.Holiday]]
-"Cheesy Potatoes" = "holiday/cheesy-potatoes.md"
-
-[[project.nav.Holiday]]
-"Chippy Chewy Bars" = "holiday/chippy-chewy-bars.md"
-
-[[project.nav.Holiday]]
-"Chocolate Chip Cookie Dough Fudge" = "holiday/chocolate-chip-cookie-dough-fudge.md"
-
-[[project.nav.Holiday]]
-"Chocolate Mint Squares" = "holiday/chocolate-mint-squares.md"
-
-[[project.nav.Holiday]]
-"Chocolate Mousse Pie with Joe Joe's Crust" = "holiday/chocolate-mousse-pie-with-joe-joe's-crust.md"
-
-[[project.nav.Holiday]]
-"Chocolate-Peanut Clusters" = "holiday/chocolate-peanut-clusters.md"
-
-[[project.nav.Holiday]]
-"Chocolate Truffles" = "holiday/chocolate-truffles.md"
-
-[[project.nav.Holiday]]
-"Classic Walnut Pie" = "holiday/classic-walnut-pie.md"
-
-[[project.nav.Holiday]]
-"Cookies & Cream Candy Bark" = "holiday/cookies-&-cream-candy-bark.md"
-
-[[project.nav.Holiday]]
-"Cranberry Glazed Roasted Brussels Sprouts" = "holiday/cranberry-glazed-roasted-brussels-sprouts.md"
-
-[[project.nav.Holiday]]
-"Cranberry Sauce" = "holiday/cranberry-sauce.md"
-
-[[project.nav.Holiday]]
-"Creamy Double Decker Fudge" = "holiday/creamy-double-decker-fudge.md"
-
-[[project.nav.Holiday]]
-"Double Chocolate Peppermint Pie" = "holiday/double-chocolate-peppermint-pie.md"
-
-[[project.nav.Holiday]]
-"Eggnog Cake" = "holiday/eggnog-cake.md"
-
-[[project.nav.Holiday]]
-"Five-Cup Fruit Salad" = "holiday/five-cup-fruit-salad.md"
-
-[[project.nav.Holiday]]
-"Gingerbread Caramel Corn" = "holiday/gingerbread-caramel-corn.md"
-
-[[project.nav.Holiday]]
-"Gingerbread People" = "holiday/gingerbread-people.md"
-
-[[project.nav.Holiday]]
-"Good Gravy" = "holiday/good-gravy.md"
-
-[[project.nav.Holiday]]
-"Grandpa's Stuffing" = "holiday/grandpa's-stuffing.md"
-
-[[project.nav.Holiday]]
-"Green Bean Casserole" = "holiday/green-bean-casserole.md"
-
-[[project.nav.Holiday]]
-"Gumbo" = "holiday/gumbo.md"
-
-[[project.nav.Holiday]]
-"Hawaiian Toffee" = "holiday/hawaiian-toffee.md"
-
-[[project.nav.Holiday]]
-"Holiday Nuts" = "holiday/holiday-nuts.md"
-
-[[project.nav.Holiday]]
-"Holiday Peppermint Bark" = "holiday/holiday-peppermint-bark.md"
-
-[[project.nav.Holiday]]
-"Huevos in a Crockpot" = "holiday/huevos-in-a-crockpot.md"
-
-[[project.nav.Holiday]]
-"Jiffy Corn Casserole" = "holiday/jiffy-corn-casserole.md"
-
-[[project.nav.Holiday]]
-"Leftover Thanksgiving Pot Pies" = "holiday/leftover-thanksgiving-pot-pies.md"
-
-[[project.nav.Holiday]]
-"Maple-Cinnamon Almonds" = "holiday/maple-cinnamon-almonds.md"
-
-[[project.nav.Holiday]]
-"Mom's Potatoes" = "holiday/mom's-potatoes.md"
-
-[[project.nav.Holiday]]
-"Monastery Pumpkin Bread" = "holiday/monastery-pumpkin-bread.md"
-
-[[project.nav.Holiday]]
-"Old-Fashioned Peanut Butter Fudge" = "holiday/old-fashioned-peanut-butter-fudge.md"
-
-[[project.nav.Holiday]]
-"Peppermint Chocolate Cookies" = "holiday/peppermint-chocolate-cookies.md"
-
-[[project.nav.Holiday]]
-"Peppermint Fudge" = "holiday/peppermint-fudge.md"
-
-[[project.nav.Holiday]]
-"Peppermint Patties" = "holiday/peppermint-patties.md"
-
-[[project.nav.Holiday]]
-"Persimmon Cookies" = "holiday/persimmon-cookies.md"
-
-[[project.nav.Holiday]]
-"Pumpkin Spiced Apple Pie" = "holiday/pumpkin-spiced-apple-pie.md"
-
-[[project.nav.Holiday]]
-"Pumpkin Squares" = "holiday/pumpkin-squares.md"
-
-[[project.nav.Holiday]]
-"Russian Tea Cakes" = "holiday/russian-tea-cakes.md"
-
-[[project.nav.Holiday]]
-"Ruth's Chris Sweet Potato Casserole" = "holiday/ruth's-chris-sweet-potato-casserole.md"
-
-[[project.nav.Holiday]]
-"Salted Caramel Peanut Brittle" = "holiday/salted-caramel-peanut-brittle.md"
-
-[[project.nav.Holiday]]
-"Spinach-Artichoke Tarte Soleil" = "holiday/spinach-artichoke-tarte-soleil.md"
-
-[[project.nav.Holiday]]
-"Tiny Mini Kisses Peanut Blossoms" = "holiday/tiny-mini-kisses-peanut-blossoms.md"
-
-[[project.nav.Holiday]]
-"Toffee Crackers" = "holiday/toffee-crackers.md"
-
-[[project.nav.Holiday]]
-"Triple Layer Chocolate Mints" = "holiday/triple-layer-chocolate-mints.md"
-
-[[project.nav.Holiday]]
-"Unexpected Cheddar Cheese Ball" = "holiday/unexpected-cheddar-cheese-ball.md"
-
-[[project.nav.Holiday]]
-"Vegetarian Stuffing" = "holiday/vegetarian-stuffing.md"
+"Holiday" = [
+  { "Alton Brown's White Trash" = "holiday/alton-brown's-white-trash.md" },
+  { "Aunt Mary's Cherry Mashers" = "holiday/aunt-marys-cherry-mashers.md" },
+  { "Baked Ziti" = "holiday/baked-ziti.md" },
+  { "Pampered Chef Cannoli" = "holiday/pampered-chef-cannoli.md" },
+  { "Cheesy Potatoes" = "holiday/cheesy-potatoes.md" },
+  { "Chippy Chewy Bars" = "holiday/chippy-chewy-bars.md" },
+  { "Chocolate Chip Cookie Dough Fudge" = "holiday/chocolate-chip-cookie-dough-fudge.md" },
+  { "Chocolate Mint Squares" = "holiday/chocolate-mint-squares.md" },
+  { "Chocolate Mousse Pie with Joe Joe's Crust" = "holiday/chocolate-mousse-pie-with-joe-joe's-crust.md" },
+  { "Chocolate-Peanut Clusters" = "holiday/chocolate-peanut-clusters.md" },
+  { "Chocolate Truffles" = "holiday/chocolate-truffles.md" },
+  { "Classic Walnut Pie" = "holiday/classic-walnut-pie.md" },
+  { "Cookies & Cream Candy Bark" = "holiday/cookies-&-cream-candy-bark.md" },
+  { "Cranberry Glazed Roasted Brussels Sprouts" = "holiday/cranberry-glazed-roasted-brussels-sprouts.md" },
+  { "Cranberry Sauce" = "holiday/cranberry-sauce.md" },
+  { "Creamy Double Decker Fudge" = "holiday/creamy-double-decker-fudge.md" },
+  { "Double Chocolate Peppermint Pie" = "holiday/double-chocolate-peppermint-pie.md" },
+  { "Eggnog Cake" = "holiday/eggnog-cake.md" },
+  { "Five-Cup Fruit Salad" = "holiday/five-cup-fruit-salad.md" },
+  { "Gingerbread Caramel Corn" = "holiday/gingerbread-caramel-corn.md" },
+  { "Gingerbread People" = "holiday/gingerbread-people.md" },
+  { "Good Gravy" = "holiday/good-gravy.md" },
+  { "Grandpa's Stuffing" = "holiday/grandpa's-stuffing.md" },
+  { "Green Bean Casserole" = "holiday/green-bean-casserole.md" },
+  { "Gumbo" = "holiday/gumbo.md" },
+  { "Hawaiian Toffee" = "holiday/hawaiian-toffee.md" },
+  { "Holiday Nuts" = "holiday/holiday-nuts.md" },
+  { "Holiday Peppermint Bark" = "holiday/holiday-peppermint-bark.md" },
+  { "Huevos in a Crockpot" = "holiday/huevos-in-a-crockpot.md" },
+  { "Jiffy Corn Casserole" = "holiday/jiffy-corn-casserole.md" },
+  { "Leftover Thanksgiving Pot Pies" = "holiday/leftover-thanksgiving-pot-pies.md" },
+  { "Maple-Cinnamon Almonds" = "holiday/maple-cinnamon-almonds.md" },
+  { "Mom's Potatoes" = "holiday/mom's-potatoes.md" },
+  { "Monastery Pumpkin Bread" = "holiday/monastery-pumpkin-bread.md" },
+  { "Old-Fashioned Peanut Butter Fudge" = "holiday/old-fashioned-peanut-butter-fudge.md" },
+  { "Peppermint Chocolate Cookies" = "holiday/peppermint-chocolate-cookies.md" },
+  { "Peppermint Fudge" = "holiday/peppermint-fudge.md" },
+  { "Peppermint Patties" = "holiday/peppermint-patties.md" },
+  { "Persimmon Cookies" = "holiday/persimmon-cookies.md" },
+  { "Pumpkin Spiced Apple Pie" = "holiday/pumpkin-spiced-apple-pie.md" },
+  { "Pumpkin Squares" = "holiday/pumpkin-squares.md" },
+  { "Russian Tea Cakes" = "holiday/russian-tea-cakes.md" },
+  { "Ruth's Chris Sweet Potato Casserole" = "holiday/ruth's-chris-sweet-potato-casserole.md" },
+  { "Salted Caramel Peanut Brittle" = "holiday/salted-caramel-peanut-brittle.md" },
+  { "Spinach-Artichoke Tarte Soleil" = "holiday/spinach-artichoke-tarte-soleil.md" },
+  { "Tiny Mini Kisses Peanut Blossoms" = "holiday/tiny-mini-kisses-peanut-blossoms.md" },
+  { "Toffee Crackers" = "holiday/toffee-crackers.md" },
+  { "Triple Layer Chocolate Mints" = "holiday/triple-layer-chocolate-mints.md" },
+  { "Unexpected Cheddar Cheese Ball" = "holiday/unexpected-cheddar-cheese-ball.md" },
+  { "Vegetarian Stuffing" = "holiday/vegetarian-stuffing.md" },
+]
 
 [[project.nav]]
 Indonesian = [
@@ -1278,20 +1141,14 @@ Filo = "ingredients/pastry-dough/filo.md"
 [[project.nav.Ingredients."Pastry Dough"]]
 "Vegan Empanada Pastry" = "ingredients/pastry-dough/vegan-empanada-pastry.md"
 
-[[project.nav.Ingredients."Post-Baking Glazes"]]
-"Dark Chocolate Mirror Glaze" = "ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md"
-
-[[project.nav.Ingredients."Post-Baking Glazes"]]
-"Fruit Glaze (Nappage)" = "ingredients/post-baking-glazes/fruit-glaze-(nappage).md"
-
-[[project.nav.Ingredients."Post-Baking Glazes"]]
-"Lemon Glaze" = "ingredients/post-baking-glazes/lemon-glaze.md"
-
-[[project.nav.Ingredients."Post-Baking Glazes"]]
-"Milk Glaze" = "ingredients/post-baking-glazes/milk-glaze.md"
-
-[[project.nav.Ingredients."Post-Baking Glazes"]]
-"Royal Icing" = "ingredients/post-baking-glazes/royal-icing.md"
+[[project.nav.Ingredients]]
+"Post-Baking Glazes" = [
+  { "Dark Chocolate Mirror Glaze" = "ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md" },
+  { "Fruit Glaze (Nappage)" = "ingredients/post-baking-glazes/fruit-glaze-(nappage).md" },
+  { "Lemon Glaze" = "ingredients/post-baking-glazes/lemon-glaze.md" },
+  { "Milk Glaze" = "ingredients/post-baking-glazes/milk-glaze.md" },
+  { "Royal Icing" = "ingredients/post-baking-glazes/royal-icing.md" },
+]
 
 [[project.nav.Ingredients]]
 Seasonings = [
@@ -1945,7 +1802,7 @@ Guacamole = "mexican/guacamole.md"
 "Pressure Cooker" = [
     { "Black Beans" = "pressurecooker/black-beans.md" },
     { "Brown Rice" = "pressurecooker/brown-rice.md" },
-    { Chickpeas = "pressurecooker/chickpeas.md" },
+    { "Chickpeas" = "pressurecooker/chickpeas.md" },
     { "Refried Black Beans" = "pressurecooker/refried-black-beans.md" },
 ]
 
@@ -1954,9 +1811,9 @@ Guacamole = "mexican/guacamole.md"
 [[project.nav."Sauces & Dressings"]]
 "5 Mother Sauces" = [
     { "Béchamel" = "sauces-and-dressings/5-mother-sauces/béchamel.md" },
-    { Espagnole = "sauces-and-dressings/5-mother-sauces/espagnole.md" },
-    { Hollandaise = "sauces-and-dressings/5-mother-sauces/hollandaise.md" },
-    { Tomate = "sauces-and-dressings/5-mother-sauces/tomate.md" },
+    { "Espagnole" = "sauces-and-dressings/5-mother-sauces/espagnole.md" },
+    { "Hollandaise" = "sauces-and-dressings/5-mother-sauces/hollandaise.md" },
+    { "Tomate" = "sauces-and-dressings/5-mother-sauces/tomate.md" },
     { "Velouté" = "sauces-and-dressings/5-mother-sauces/velouté.md" },
 ]
 
@@ -2655,95 +2512,42 @@ Quinoa = "sides/quinoa.md"
 "Vegan Mashed Potatoes" = "sides/vegan-mashed-potatoes.md"
 
 [[project.nav]]
-
-[[project.nav."Soups & Stews"]]
-"Baked Potato Soup" = "soups-and-stews/baked-potato-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Black Bean & Butternut Soup" = "soups-and-stews/black-bean-and-butternut-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Chickenless Sausage & Lentil Soup" = "soups-and-stews/chickenless-sausage-and-lentil-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Chili Colorado" = "soups-and-stews/chili-colorado.md"
-
-[[project.nav."Soups & Stews"]]
-"Chili Verde" = "soups-and-stews/chili-verde.md"
-
-[[project.nav."Soups & Stews"]]
-"Chipotle Corn Chowder" = "soups-and-stews/chipotle-corn-chowder.md"
-
-[[project.nav."Soups & Stews"]]
-"Cream of Mushroom" = "soups-and-stews/cream-of-mushroom.md"
-
-[[project.nav."Soups & Stews"]]
-"Creamy Broccoli Bisque" = "soups-and-stews/creamy-broccoli-bisque.md"
-
-[[project.nav."Soups & Stews"]]
-"Creamy Roasted Carrot Soup" = "soups-and-stews/creamy-roasted-carrot-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Eggplant Stew" = "soups-and-stews/eggplant-stew.md"
-
-[[project.nav."Soups & Stews"]]
-"French Onion Soup" = "soups-and-stews/french-onion-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Ikarian Longevity Stew" = "soups-and-stews/ikarian-longevity-stew.md"
-
-[[project.nav."Soups & Stews"]]
-"Kickin Potato & Corn Chowder" = "soups-and-stews/kickin-potato-and-corn-chowder.md"
-
-[[project.nav."Soups & Stews"]]
-"Lemony Lentil Soup" = "soups-and-stews/lemony-lentil-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Mexican Lentil Soup" = "soups-and-stews/mexican-lentil-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Minestrone Soup" = "soups-and-stews/minestrone-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Plant-Based Chili" = "soups-and-stews/plant-based-chili.md"
-
-[[project.nav."Soups & Stews"]]
-"Potato Soup" = "soups-and-stews/potato-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Roasted Sweet Garlic & Almond Soup" = "soups-and-stews/roasted-sweet-garlic-&-almond-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Roasted Tomato Soup" = "soups-and-stews/roasted-tomato-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Sam's Sweet Potato Soup" = "soups-and-stews/sam's-sweet-potato-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Slow Cooker Vegan African Peanut Stew" = "soups-and-stews/slow-cooker-vegan-african-peanut-stew.md"
-
-[[project.nav."Soups & Stews"]]
-"Spinach Tortellini Soup by Joanna Gaines" = "soups-and-stews/spinach-tortellini-soup-by-joanna-gaines.md"
-
-[[project.nav."Soups & Stews"]]
-"Split Pea Soup" = "soups-and-stews/split-pea-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Tante Myrn's Split Pea Soup" = "soups-and-stews/tante-myrn's-split-pea-soup.md"
-
-[[project.nav."Soups & Stews"]]
-"Vegan Mushroom Stew" = "soups-and-stews/vegan-mushroom-stew.md"
-
-[[project.nav."Soups & Stews"]]
-"Vichyssoise (Leek & Potato Soup)" = "soups-and-stews/vichyssoise-(leek-and-potato-soup).md"
+"Soups & Stews" = [
+  { "Baked Potato Soup" = "soups-and-stews/baked-potato-soup.md" },
+  { "Black Bean & Butternut Soup" = "soups-and-stews/black-bean-and-butternut-soup.md" },
+  { "Chickenless Sausage & Lentil Soup" = "soups-and-stews/chickenless-sausage-and-lentil-soup.md" },
+  { "Chili Colorado" = "soups-and-stews/chili-colorado.md" },
+  { "Chili Verde" = "soups-and-stews/chili-verde.md" },
+  { "Chipotle Corn Chowder" = "soups-and-stews/chipotle-corn-chowder.md" },
+  { "Cream of Mushroom" = "soups-and-stews/cream-of-mushroom.md" },
+  { "Creamy Broccoli Bisque" = "soups-and-stews/creamy-broccoli-bisque.md" },
+  { "Creamy Roasted Carrot Soup" = "soups-and-stews/creamy-roasted-carrot-soup.md" },
+  { "Eggplant Stew" = "soups-and-stews/eggplant-stew.md" },
+  { "French Onion Soup" = "soups-and-stews/french-onion-soup.md" },
+  { "Ikarian Longevity Stew" = "soups-and-stews/ikarian-longevity-stew.md" },
+  { "Kickin Potato & Corn Chowder" = "soups-and-stews/kickin-potato-and-corn-chowder.md" },
+  { "Lemony Lentil Soup" = "soups-and-stews/lemony-lentil-soup.md" },
+  { "Mexican Lentil Soup" = "soups-and-stews/mexican-lentil-soup.md" },
+  { "Minestrone Soup" = "soups-and-stews/minestrone-soup.md" },
+  { "Plant-Based Chili" = "soups-and-stews/plant-based-chili.md" },
+  { "Potato Soup" = "soups-and-stews/potato-soup.md" },
+  { "Roasted Sweet Garlic & Almond Soup" = "soups-and-stews/roasted-sweet-garlic-&-almond-soup.md" },
+  { "Roasted Tomato Soup" = "soups-and-stews/roasted-tomato-soup.md" },
+  { "Sam's Sweet Potato Soup" = "soups-and-stews/sam's-sweet-potato-soup.md" },
+  { "Slow Cooker Vegan African Peanut Stew" = "soups-and-stews/slow-cooker-vegan-african-peanut-stew.md" },
+  { "Spinach Tortellini Soup by Joanna Gaines" = "soups-and-stews/spinach-tortellini-soup-by-joanna-gaines.md" },
+  { "Split Pea Soup" = "soups-and-stews/split-pea-soup.md" },
+  { "Tante Myrn's Split Pea Soup" = "soups-and-stews/tante-myrn's-split-pea-soup.md" },
+  { "Vegan Mushroom Stew" = "soups-and-stews/vegan-mushroom-stew.md" },
+  { "Vichyssoise (Leek & Potato Soup)" = "soups-and-stews/vichyssoise-(leek-and-potato-soup).md" },
+]
 
 [[project.nav]]
+"Tarts" = [
+  { "Caramelized Onion, Spinach, & Sweet Potato Tart" = "vegetarian/caramelized-onion,-spinach,-and-sweet-potato-tart.md" },
+  { "Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md" },    
+]
 
-[[project.nav.Tarts]]
-"Caramelized Onion, Spinach, & Sweet Potato Tart" = "vegetarian/caramelized-onion,-spinach,-and-sweet-potato-tart.md"
-
-[[project.nav.Tarts]]
-"Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md"
 
 [[project.nav]]
 
@@ -2912,20 +2716,20 @@ Quinoa = "sides/quinoa.md"
 [[project.nav]]
 Reference = [
     { "Equivalents & Substitutes" = "reference/equivalents-and-substitutes.md" },
-    { Measuring = "reference/measuring.md" },
+    { "Measuring" = "reference/measuring.md" },
     { "Pressure Cooker" = "reference/pressure-cooker.md" },
-    { Seasons = "reference/seasons.md" },
-    { Spirits = "reference/spirits.md" },
-    { Temperatures = "reference/temperatures.md" },
-    { Tips = "reference/tips.md" },
-    { Development = "reference/development.md" },
+    { "Seasons" = "reference/seasons.md" },
+    { "Spirits" = "reference/spirits.md" },
+    { "Temperatures" = "reference/temperatures.md" },
+    { "Tips" = "reference/tips.md" },
+    { "Development" = "reference/development.md" },
 ]
 
 [[project.nav]]
 "Cooklang Files" = "https://github.com/nicholaswilde/recipes/tree/main/cook"
 
 [[project.nav]]
-Tags = "tags.md"
+"Tags" = "tags.md"
 
 [project.extra]
 social = [
