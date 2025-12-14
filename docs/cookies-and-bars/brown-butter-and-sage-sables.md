@@ -50,9 +50,11 @@ minutes.
 
 Pour the butter and sage mixture into the bowl of a stand mixer (or into a large bowl if using a hand mixer), making
 sure you scrape in all the browned bits. Pluck out all of the sage, letting any excess butter drip back into the bowl,
-and set the sprigs aside for later. Let the butter cool completely to room temperature, stirring occasionally, until it
-starts to solidify. (To speed this process along, submerge the bottom of the bowl in ice water and stir the butter until
-it turns opaque, but take care not to let it harden.)
+and set the sprigs aside for later. Let the butter cool completely to room temperature, stirring occasionally, until it starts to solidify. 
+
+!!! tip
+
+    To speed this process along, submerge the bottom of the bowl in ice water and stir the butter until it turns opaque, but take care not to let it harden.
 
 ### Step 3
 
