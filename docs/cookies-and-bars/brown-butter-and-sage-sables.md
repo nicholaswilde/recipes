@@ -4,6 +4,7 @@ tags:
   - cookie
   - claire-saffitz
   - dessert
+  - favorite
 ---
 # :cookie: Brown Butter & Sage Sables
 
