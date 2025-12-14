@@ -66,6 +66,10 @@ While the butter is cooling, in a medium bowl, whisk together the all-purpose fl
 Set the bowl of solidified butter on the mixer and attach the paddle. Add the granulated sugar and lemon zest and beat
 on medium until the mixture is thoroughly combined and pale, about 2 minutes.
 
+!!! tip
+
+    Massage the lemon zest and sugar with your fingers to flavor the sugar.
+
 ### Step 5
 
 Use a flexible spatula to scrape down the sides of the bowl and add the egg yolks and vanilla. Beat on medium until just
