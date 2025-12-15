@@ -31,7 +31,7 @@ Asian = [
   { "Banh Mi Sandwich" = "asian/banh-mi-sandwich.md" },
   { "Coconut Curried Vegetables with Rice" = "asian/coconut-curried-vegetables-with-rice.md" },
   { "Cool & Spicy Noodle Salad" = "asian/cool-and-spicy-noodle-salad.md" },
-  { "Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md" }, 
+  { "Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md" },
   { "Easy Vegan Ramen" = "asian/easy-vegan-ramen.md" },
   { "Everyday Chinese Vegetable Stir-Fry" = "asian/everyday-chinese-vegetable-stir-fry.md" },
   { "Fresh Spring Rolls" = "asian/fresh-spring-rolls.md" },
@@ -113,6 +113,7 @@ Breads = [
   { "Sourdough English Muffins" = "breads/sourdough-english-muffins.md" },
   { "Sourdough Pizza Crust" = "breads/sourdough-pizza-crust.md" },
   { "Sourdough Pretzels" = "breads/sourdough-pretzels.md" },
+  { "Star Bread" = "breads/star-bread.md" },
   { "Texas Roadhouse Rolls" = "breads/texas-roadhouse-rolls.md" },
   { "The Best Cornbread" = "breads/the-best-cornbread.md" },
   { "The Best Pumpkin Bread" = "breads/the-best-pumpkin-bread.md" },
@@ -123,835 +124,326 @@ Breads = [
 ]
 
 [[project.nav]]
-
-[[project.nav.Breakfast]]
-"1-Bowl Carrot Apple Muffins" = "breakfast/1-bowl-carrot-apple-muffins.md"
-
-[[project.nav.Breakfast]]
-"Apple Cider Doughnuts" = "breakfast/apple-cider-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Apple Pie Overnight Oats" = "breakfast/apple-pie-overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Apricot Honey Oatmeal" = "breakfast/apricot-honey-oatmeal.md"
-
-[[project.nav.Breakfast]]
-"Belgian Waffles" = "breakfast/belgian-waffles.md"
-
-[[project.nav.Breakfast]]
-"Breakfast Potatoes" = "breakfast/breakfast-potatoes.md"
-
-[[project.nav.Breakfast]]
-"Breakfast Tofu Scramble" = "breakfast/breakfast-tofu-scramble.md"
-
-[[project.nav.Breakfast]]
-"Brown Sugar Honey Butter Toast" = "breakfast/brown-sugar-honey-butter-toast.md"
-
-[[project.nav.Breakfast]]
-"Buttermilk Pancakes" = "breakfast/buttermilk-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Buttermilk Whole Wheat Waffles" = "breakfast/buttermilk-whole-wheat-waffles.md"
-
-[[project.nav.Breakfast]]
-"Chocolate Cake Doughnuts" = "breakfast/chocolate-cake-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Chocolate Chip Muffins" = "breakfast/chocolate-chip-muffins.md"
-
-[[project.nav.Breakfast]]
-"Chocolate Muffins" = "breakfast/chocolate-muffins.md"
-
-[[project.nav.Breakfast]]
-"Cindy's Banana Overnight Oats" = "breakfast/cindy's-banana-overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Cinnamon-Sugared Buttermilk Doughnuts" = "breakfast/cinnamon-sugared-buttermilk-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Cinnamon Rolls" = "breakfast/cinnamon-rolls.md"
-
-[[project.nav.Breakfast]]
-"Cinnamon Toast Crunch Baked Oats Recipe by Tasty" = "breakfast/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.md"
-
-[[project.nav.Breakfast]]
-"Classic Buttermilk Waffles" = "breakfast/classic-buttermilk-waffles.md"
-
-[[project.nav.Breakfast]]
-"Conchas (Mexican Pan Dulce)" = "breakfast/conchas-(mexican-pan-dulce).md"
-
-[[project.nav.Breakfast]]
-"Costa Rican Baked Doughnuts" = "breakfast/costa-rican-baked-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Crispy Mushroom Galette" = "breakfast/crispy-mushroom-galette.md"
-
-[[project.nav.Breakfast]]
-"Crunch French Toast" = "breakfast/crunch-french-toast.md"
-
-[[project.nav.Breakfast]]
-"Decadent Chocolate Overnight Oats" = "breakfast/decadent-chocolate-overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Dorie Greenspan's Lemon Poppy Muffins" = "breakfast/dorie-greenspan's-lemon-poppy-muffins.md"
-
-[[project.nav.Breakfast]]
-"Double-Berry Overnight Oats" = "breakfast/double-berry-overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Dreamy Cream Scones" = "breakfast/dreamy-cream-scones.md"
-
-[[project.nav.Breakfast]]
-"Dutch Pancakes" = "breakfast/dutch-pancakes.md"
-
-[[project.nav.Breakfast]]
-"French Omelet" = "breakfast/french-omelet.md"
-
-[[project.nav.Breakfast]]
-"French Toast" = "breakfast/french-toast.md"
-
-[[project.nav.Breakfast]]
-"Frittata" = "breakfast/frittata.md"
-
-[[project.nav.Breakfast]]
-"Gordon Ramsay Scrambled Eggs" = "breakfast/gordon-ramsay-scrambled-eggs.md"
-
-[[project.nav.Breakfast]]
-"Hash Browns" = "breakfast/hash-browns.md"
-
-[[project.nav.Breakfast]]
-"Jamie Oliver Blueberry Smoothie Pancakes" = "breakfast/jamie-oliver-blueberry-smoothie-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Joy of Cooking Pancakes" = "breakfast/joy-of-cooking-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Levain Bakery Blueberry Muffins" = "breakfast/levain-bakery-blueberry-muffins.md"
-
-[[project.nav.Breakfast]]
-"Loaded Potato Pancakes" = "breakfast/loaded-potato-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Mom's Breakfast Potatoes" = "breakfast/mom's-breakfast-potatoes.md"
-
-[[project.nav.Breakfast]]
-"Morning Muffin in a Mug" = "breakfast/morning-muffin-in-a-mug.md"
-
-[[project.nav.Breakfast]]
-"Orejas (Mexican Pan Dulce)" = "breakfast/orejas-(mexican-pan-dulce).md"
-
-[[project.nav.Breakfast]]
-"Overnight Brown-Butter Yeast-Raised Waffles" = "breakfast/overnight-brown-butter-yeast-raised-waffles.md"
-
-[[project.nav.Breakfast]]
-"Overnight Oats" = "breakfast/overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Pan Boxty" = "breakfast/pan-boxty.md"
-
-[[project.nav.Breakfast]]
-"Peanut Butter Overnight Oats" = "breakfast/peanut-butter-overnight-oats.md"
-
-[[project.nav.Breakfast]]
-"Potato Latkes" = "breakfast/potato-latkes.md"
-
-[[project.nav.Breakfast]]
-"Powdered Sugar Doughnuts" = "breakfast/powdered-sugar-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Pumpkin Muffins" = "breakfast/pumpkin-muffins.md"
-
-[[project.nav.Breakfast]]
-"Queen Elizabeth II's Drop Scones" = "breakfast/queen-elizabeth-ii's-drop-scones.md"
-
-[[project.nav.Breakfast]]
-"Shakshuka" = "breakfast/shakshuka.md"
-
-[[project.nav.Breakfast]]
-"Slow Cooker Mexican Egg Casserole" = "breakfast/slow-cooker-mexican-egg-casserole.md"
-
-[[project.nav.Breakfast]]
-"Sourdough Pancakes" = "breakfast/sourdough-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Southwestern Butternut Squash and Black Bean Breakfast Bowl" = "breakfast/southwestern-butternut-squash-and-black-bean-breakfast-bowl.md"
-
-[[project.nav.Breakfast]]
-"Sweet Potato Pancakes" = "breakfast/sweet-potato-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Toasted-Coconut Granola" = "breakfast/toasted-coconut-granola.md"
-
-[[project.nav.Breakfast]]
-"The Food Lab Light & Fluffy Scrambled Eggs" = "breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md"
-
-[[project.nav.Breakfast]]
-"Vegan Bacon" = "breakfast/vegan-bacon.md"
-
-[[project.nav.Breakfast]]
-"Vegan Banana Pancakes" = "breakfast/vegan-banana-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Veggie Chickpea Hash" = "breakfast/veggie-chickpea-hash.md"
-
-[[project.nav.Breakfast]]
-"Whole Wheat Pancakes" = "breakfast/whole-wheat-pancakes.md"
-
-[[project.nav.Breakfast]]
-"Yeasted Doughnuts" = "breakfast/yeasted-doughnuts.md"
-
-[[project.nav.Breakfast]]
-"Yeasted Doughnuts with Chocolate Frosting" = "breakfast/yeasted-doughnuts-with-chocolate-frosting.md"
-
-[[project.nav.Breakfast]]
-"Zeb's Waffles" = "breakfast/zeb's-waffles.md"
+Breakfast = [
+  { "1-Bowl Carrot Apple Muffins" = "breakfast/1-bowl-carrot-apple-muffins.md" },
+  { "Apple Cider Doughnuts" = "breakfast/apple-cider-doughnuts.md" },
+  { "Apple Pie Overnight Oats" = "breakfast/apple-pie-overnight-oats.md" },
+  { "Apricot Honey Oatmeal" = "breakfast/apricot-honey-oatmeal.md" },
+  { "Belgian Waffles" = "breakfast/belgian-waffles.md" },
+  { "Breakfast Potatoes" = "breakfast/breakfast-potatoes.md" },
+  { "Breakfast Tofu Scramble" = "breakfast/breakfast-tofu-scramble.md" },
+  { "Brown Sugar Honey Butter Toast" = "breakfast/brown-sugar-honey-butter-toast.md" },
+  { "Buttermilk Pancakes" = "breakfast/buttermilk-pancakes.md" },
+  { "Buttermilk Whole Wheat Waffles" = "breakfast/buttermilk-whole-wheat-waffles.md" },
+  { "Chocolate Cake Doughnuts" = "breakfast/chocolate-cake-doughnuts.md" },
+  { "Chocolate Chip Muffins" = "breakfast/chocolate-chip-muffins.md" },
+  { "Chocolate Muffins" = "breakfast/chocolate-muffins.md" },
+  { "Cindy's Banana Overnight Oats" = "breakfast/cindy's-banana-overnight-oats.md" },
+  { "Cinnamon-Sugared Buttermilk Doughnuts" = "breakfast/cinnamon-sugared-buttermilk-doughnuts.md" },
+  { "Cinnamon Rolls" = "breakfast/cinnamon-rolls.md" },
+  { "Cinnamon Toast Crunch Baked Oats Recipe by Tasty" = "breakfast/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.md" },
+  { "Classic Buttermilk Waffles" = "breakfast/classic-buttermilk-waffles.md" },
+  { "Conchas (Mexican Pan Dulce)" = "breakfast/conchas-(mexican-pan-dulce).md" },
+  { "Costa Rican Baked Doughnuts" = "breakfast/costa-rican-baked-doughnuts.md" },
+  { "Crispy Mushroom Galette" = "breakfast/crispy-mushroom-galette.md" },
+  { "Crunch French Toast" = "breakfast/crunch-french-toast.md" },
+  { "Decadent Chocolate Overnight Oats" = "breakfast/decadent-chocolate-overnight-oats.md" },
+  { "Dorie Greenspan's Lemon Poppy Muffins" = "breakfast/dorie-greenspan's-lemon-poppy-muffins.md" },
+  { "Double-Berry Overnight Oats" = "breakfast/double-berry-overnight-oats.md" },
+  { "Dreamy Cream Scones" = "breakfast/dreamy-cream-scones.md" },
+  { "Dutch Pancakes" = "breakfast/dutch-pancakes.md" },
+  { "French Omelet" = "breakfast/french-omelet.md" },
+  { "French Toast" = "breakfast/french-toast.md" },
+  { "Frittata" = "breakfast/frittata.md" },
+  { "Gordon Ramsay Scrambled Eggs" = "breakfast/gordon-ramsay-scrambled-eggs.md" },
+  { "Hash Browns" = "breakfast/hash-browns.md" },
+  { "Jamie Oliver Blueberry Smoothie Pancakes" = "breakfast/jamie-oliver-blueberry-smoothie-pancakes.md" },
+  { "Joy of Cooking Pancakes" = "breakfast/joy-of-cooking-pancakes.md" },
+  { "Levain Bakery Blueberry Muffins" = "breakfast/levain-bakery-blueberry-muffins.md" },
+  { "Loaded Potato Pancakes" = "breakfast/loaded-potato-pancakes.md" },
+  { "Mom's Breakfast Potatoes" = "breakfast/mom's-breakfast-potatoes.md" },
+  { "Morning Muffin in a Mug" = "breakfast/morning-muffin-in-a-mug.md" },
+  { "Orejas (Mexican Pan Dulce)" = "breakfast/orejas-(mexican-pan-dulce).md" },
+  { "Overnight Brown-Butter Yeast-Raised Waffles" = "breakfast/overnight-brown-butter-yeast-raised-waffles.md" },
+  { "Overnight Oats" = "breakfast/overnight-oats.md" },
+  { "Pan Boxty" = "breakfast/pan-boxty.md" },
+  { "Peanut Butter Overnight Oats" = "breakfast/peanut-butter-overnight-oats.md" },
+  { "Potato Latkes" = "breakfast/potato-latkes.md" },
+  { "Powdered Sugar Doughnuts" = "breakfast/powdered-sugar-doughnuts.md" },
+  { "Pumpkin Muffins" = "breakfast/pumpkin-muffins.md" },
+  { "Queen Elizabeth II's Drop Scones" = "breakfast/queen-elizabeth-ii's-drop-scones.md" },
+  { "Shakshuka" = "breakfast/shakshuka.md" },
+  { "Slow Cooker Mexican Egg Casserole" = "breakfast/slow-cooker-mexican-egg-casserole.md" },
+  { "Sourdough Pancakes" = "breakfast/sourdough-pancakes.md" },
+  { "Southwestern Butternut Squash and Black Bean Breakfast Bowl" = "breakfast/southwestern-butternut-squash-and-black-bean-breakfast-bowl.md" },
+  { "Sweet Potato Pancakes" = "breakfast/sweet-potato-pancakes.md" },
+  { "Toasted-Coconut Granola" = "breakfast/toasted-coconut-granola.md" },
+  { "The Food Lab Light & Fluffy Scrambled Eggs" = "breakfast/the-food-lab-light-and-fluffy-scrambled-eggs.md" },
+  { "Vegan Bacon" = "breakfast/vegan-bacon.md" },
+  { "Vegan Banana Pancakes" = "breakfast/vegan-banana-pancakes.md" },
+  { "Veggie Chickpea Hash" = "breakfast/veggie-chickpea-hash.md" },
+  { "Whole Wheat Pancakes" = "breakfast/whole-wheat-pancakes.md" },
+  { "Yeasted Doughnuts" = "breakfast/yeasted-doughnuts.md" },
+  { "Yeasted Doughnuts with Chocolate Frosting" = "breakfast/yeasted-doughnuts-with-chocolate-frosting.md" },
+  { "Zeb's Waffles" = "breakfast/zeb's-waffles.md" },
+]
 
 [[project.nav]]
-
-[[project.nav."Cookies & Bars"]]
-"Almond Cookies" = "cookies-and-bars/almond-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Apple Cinnamon Raisin Bars" = "cookies-and-bars/apple-cinnamon-raisin-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Applied Pumpkin Chocolate Chip Cookies" = "cookies-and-bars/applied-pumpkin-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Black & White Cookies" = "cookies-and-bars/black-and-white-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-Brookies = "cookies-and-bars/brookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Brown Butter & Maple Chewy Pumpkin Cookies" = "cookies-and-bars/brown-butter-and-maple-chewy-pumpkin-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Brown Butter & Sage Sables" = "cookies-and-bars/brown-butter-and-sage-sables.md"
-
-[[project.nav."Cookies & Bars"]]
-"Brown Butter Chocolate Chunk Cookies" = "cookies-and-bars/brown-butter-chocolate-chunk-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Brown Butter Iced Oatmeal Cookies" = "cookies-and-bars/brown-butter-iced-oatmeal-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Brown Butter Macadamia Nut" = "cookies-and-bars/brown-butter-macadamia-nut.md"
-
-[[project.nav."Cookies & Bars"]]
-"Browned Butter Financiers" = "cookies-and-bars/browned-butter-financiers.md"
-
-[[project.nav."Cookies & Bars"]]
-"Butter Cookies" = "cookies-and-bars/butter-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Butter Swirl Shortbread Cookies" = "cookies-and-bars/butter-swirl-shortbread-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Butterscotch Brownies" = "cookies-and-bars/butterscotch-brownies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Buttery Pineapple Crumble Bars" = "cookies-and-bars/buttery-pineapple-crumble-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Cherry Bars" = "cookies-and-bars/cherry-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chewy Brownies" = "cookies-and-bars/chewy-brownies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Chip Blondies" = "cookies-and-bars/chocolate-chip-blondies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Chip Cookies with Chickpeas" = "cookies-and-bars/chocolate-chip-cookies-with-chickpeas.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Chip Skillet Cookie" = "cookies-and-bars/chocolate-chip-skillet-cookie.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Crinkles" = "cookies-and-bars/chocolate-crinkles.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Peanut Butter Cheesecake Bars" = "cookies-and-bars/chocolate-peanut-butter-cheesecake-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Pizzelle" = "cookies-and-bars/chocolate-pizzelle.md"
-
-[[project.nav."Cookies & Bars"]]
-"Chocolate Scotcheroos" = "cookies-and-bars/chocolate-scotcheroos.md"
-
-[[project.nav."Cookies & Bars"]]
-"Cinnamon-Spiced Shortbread" = "cookies-and-bars/cinnamon-spiced-shortbread.md"
-
-[[project.nav."Cookies & Bars"]]
-"Classic Pizzelle" = "cookies-and-bars/classic-pizzelle.md"
-
-[[project.nav."Cookies & Bars"]]
-"Consumer Union Chocolate Chip Cookies" = "cookies-and-bars/consumer-union-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Cook's Illustrated Perfect Chocolate Chip Cookies" = "cookies-and-bars/cook's-illustrated-perfect-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Cracked-Surface Crunchy Gingersnaps" = "cookies-and-bars/cracked-surface-crunchy-gingersnaps.md"
-
-[[project.nav."Cookies & Bars"]]
-"Cranberry Bars" = "cookies-and-bars/cranberry-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Custard Creams" = "cookies-and-bars/custard-creams.md"
-
-[[project.nav."Cookies & Bars"]]
-"Diamond-Edged Melt-in-Your-Mouth Butter Cookies" = "cookies-and-bars/diamond-edged-melt-in-your-mouth-butter-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Double Chocolate Mint Paleo Cookies" = "cookies-and-bars/double-chocolate-mint-paleo-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Edible Cookie Dough" = "cookies-and-bars/edible-cookie-dough.md"
-
-[[project.nav."Cookies & Bars"]]
-Florentines = "cookies-and-bars/florentines.md"
-
-[[project.nav."Cookies & Bars"]]
-"French Macarons" = "cookies-and-bars/french-macarons.md"
-
-[[project.nav."Cookies & Bars"]]
-"Fudge Brownies" = "cookies-and-bars/fudge-brownies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Glazed Lemon Bars" = "cookies-and-bars/glazed-lemon-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Healthy Carrot Cookies" = "cookies-and-bars/healthy-carrot-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Honey Cookies (Finikia)" = "cookies-and-bars/honey-cookies-(finikia).md"
-
-[[project.nav."Cookies & Bars"]]
-"King Arthur Chocolate Chip Cookies" = "cookies-and-bars/king-arthur-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-Ladyfingers = "cookies-and-bars/ladyfingers.md"
-
-[[project.nav."Cookies & Bars"]]
-"Lemon Bars" = "cookies-and-bars/lemon-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Lofthouse Cookies" = "cookies-and-bars/lofthouse-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"M&M Cookies" = "cookies-and-bars/m&m-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Magic Cookie Bars" = "cookies-and-bars/magic-cookie-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-Meringues = "cookies-and-bars/meringues.md"
-
-[[project.nav."Cookies & Bars"]]
-"Millionaire's Shortbread" = "cookies-and-bars/millionaire's-shortbread.md"
-
-[[project.nav."Cookies & Bars"]]
-"Mini Madeleines" = "cookies-and-bars/mini-madeleines.md"
-
-[[project.nav."Cookies & Bars"]]
-"Molasses Spice Cookies" = "cookies-and-bars/molasses-spice-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Oatmeal Chocolate Chip Cookies" = "cookies-and-bars/oatmeal-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Oatmeal Cookies" = "cookies-and-bars/oatmeal-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Oatmeal Cream Pies" = "cookies-and-bars/oatmeal-cream-pies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Oatmeal Raisin" = "cookies-and-bars/oatmeal-raisin.md"
-
-[[project.nav."Cookies & Bars"]]
-"Orange Sparkle Slice-and-Bake Cookies" = "cookies-and-bars/orange-sparkle-slice-and-bake-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-Oreos = "cookies-and-bars/oreos.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peach Bars" = "cookies-and-bars/peach-bars.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peanut Butter Bars with Salted Chocolate Ganache" = "cookies-and-bars/peanut-butter-bars-with-salted-chocolate-ganache.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peanut Butter Cookies" = "cookies-and-bars/peanut-butter-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peanut Butter Crisscrosses" = "cookies-and-bars/peanut-butter-crisscrosses.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peanut Butter Sandwich Cookies" = "cookies-and-bars/peanut-butter-sandwich-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Peanut Butter Stuffed Brownies" = "cookies-and-bars/peanut-butter-stuffed-brownies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Persian Chickpea cookies with Pistachio" = "cookies-and-bars/persian-chickpea-cookies-with-pistachio.md"
-
-[[project.nav."Cookies & Bars"]]
-"Preposterously Peanut Butter Cup Cookies" = "cookies-and-bars/preposterously-peanut-butter-cup-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Pumpkin Cheesecake Cookies" = "cookies-and-bars/pumpkin-cheesecake-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Pumpkin Chocolate Chip Cookies" = "cookies-and-bars/pumpkin-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Pumpkin Cookies with Cream Cheese Frosting" = "cookies-and-bars/pumpkin-cookies-with-cream-cheese-frosting.md"
-
-[[project.nav."Cookies & Bars"]]
-"Salted Caramel Chocolate Macarons" = "cookies-and-bars/salted-caramel-chocolate-macarons.md"
-
-[[project.nav."Cookies & Bars"]]
-"Salted Peanut Butter" = "cookies-and-bars/salted-peanut-butter.md"
-
-[[project.nav."Cookies & Bars"]]
-"Samoas" = "cookies-and-bars/samoas.md"
-
-[[project.nav."Cookies & Bars"]]
-"Shortbread" = "cookies-and-bars/shortbread.md"
-
-[[project.nav."Cookies & Bars"]]
-"Simple Sugar Cookies" = "cookies-and-bars/simple-sugar-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Soft White Chocolate Chip Cranberry Cookies" = "cookies-and-bars/soft-white-chocolate-chip-cranberry-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Snickerdoodles" = "cookies-and-bars/snickerdoodles.md"
-
-[[project.nav."Cookies & Bars"]]
-"Tante Myrn's Sugar Cookies" = "cookies-and-bars/tante-myrn's-sugar-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"The Best Sugar Cookies" = "cookies-and-bars/the-best-sugar-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"The New York Times Chocolate Chip Cookies" = "cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"Traditional Italian Biscotti" = "cookies-and-bars/traditional-italian-biscotti.md"
-
-[[project.nav."Cookies & Bars"]]
-"Twix" = "cookies-and-bars/twix.md"
-
-[[project.nav."Cookies & Bars"]]
-"Vanilla Bean Sables" = "cookies-and-bars/vanilla-bean-sables.md"
-
-[[project.nav."Cookies & Bars"]]
-"Vanilla Wafers" = "cookies-and-bars/vanilla-wafers.md"
-
-[[project.nav."Cookies & Bars"]]
-"Weight Watchers Double Oatmeal Cookies" = "cookies-and-bars/weight-watchers-double-oatmeal-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"White Chocolate Chip Macadamia Nut" = "cookies-and-bars/white-chocolate-chip-macadamia-nut.md"
-
-[[project.nav."Cookies & Bars"]]
-"White Chocolate Cranberry Cookies" = "cookies-and-bars/white-chocolate-cranberry-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"World Peace Cookies" = "cookies-and-bars/world-peace-cookies.md"
-
-[[project.nav."Cookies & Bars"]]
-"World's Best Brownies" = "cookies-and-bars/world's-best-brownies.md"
+"Cookies & Bars" = [
+  { "Almond Cookies" = "cookies-and-bars/almond-cookies.md" },
+  { "Apple Cinnamon Raisin Bars" = "cookies-and-bars/apple-cinnamon-raisin-bars.md" },
+  { "Applied Pumpkin Chocolate Chip Cookies" = "cookies-and-bars/applied-pumpkin-chocolate-chip-cookies.md" },
+  { "Black & White Cookies" = "cookies-and-bars/black-and-white-cookies.md" },
+  { "Brookies" = "cookies-and-bars/brookies.md" },
+  { "Brown Butter & Maple Chewy Pumpkin Cookies" = "cookies-and-bars/brown-butter-and-maple-chewy-pumpkin-cookies.md" },
+  { "Brown Butter & Sage Sables" = "cookies-and-bars/brown-butter-and-sage-sables.md" },
+  { "Brown Butter Chocolate Chunk Cookies" = "cookies-and-bars/brown-butter-chocolate-chunk-cookies.md" },
+  { "Brown Butter Iced Oatmeal Cookies" = "cookies-and-bars/brown-butter-iced-oatmeal-cookies.md" },
+  { "Brown Butter Macadamia Nut" = "cookies-and-bars/brown-butter-macadamia-nut.md" },
+  { "Browned Butter Financiers" = "cookies-and-bars/browned-butter-financiers.md" },
+  { "Butter Cookies" = "cookies-and-bars/butter-cookies.md" },
+  { "Butter Swirl Shortbread Cookies" = "cookies-and-bars/butter-swirl-shortbread-cookies.md" },
+  { "Butterscotch Brownies" = "cookies-and-bars/butterscotch-brownies.md" },
+  { "Buttery Pineapple Crumble Bars" = "cookies-and-bars/buttery-pineapple-crumble-bars.md" },
+  { "Cherry Bars" = "cookies-and-bars/cherry-bars.md" },
+  { "Chewy Brownies" = "cookies-and-bars/chewy-brownies.md" },
+  { "Chocolate Chip Blondies" = "cookies-and-bars/chocolate-chip-blondies.md" },
+  { "Chocolate Chip Cookies with Chickpeas" = "cookies-and-bars/chocolate-chip-cookies-with-chickpeas.md" },
+  { "Chocolate Chip Skillet Cookie" = "cookies-and-bars/chocolate-chip-skillet-cookie.md" },
+  { "Chocolate Crinkles" = "cookies-and-bars/chocolate-crinkles.md" },
+  { "Chocolate Peanut Butter Cheesecake Bars" = "cookies-and-bars/chocolate-peanut-butter-cheesecake-bars.md" },
+  { "Chocolate Pizzelle" = "cookies-and-bars/chocolate-pizzelle.md" },
+  { "Chocolate Scotcheroos" = "cookies-and-bars/chocolate-scotcheroos.md" },
+  { "Cinnamon-Spiced Shortbread" = "cookies-and-bars/cinnamon-spiced-shortbread.md" },
+  { "Classic Pizzelle" = "cookies-and-bars/classic-pizzelle.md" },
+  { "Consumer Union Chocolate Chip Cookies" = "cookies-and-bars/consumer-union-chocolate-chip-cookies.md" },
+  { "Cook's Illustrated Perfect Chocolate Chip Cookies" = "cookies-and-bars/cook's-illustrated-perfect-chocolate-chip-cookies.md" },
+  { "Cracked-Surface Crunchy Gingersnaps" = "cookies-and-bars/cracked-surface-crunchy-gingersnaps.md" },
+  { "Cranberry Bars" = "cookies-and-bars/cranberry-bars.md" },
+  { "Custard Creams" = "cookies-and-bars/custard-creams.md" },
+  { "Diamond-Edged Melt-in-Your-Mouth Butter Cookies" = "cookies-and-bars/diamond-edged-melt-in-your-mouth-butter-cookies.md" },
+  { "Double Chocolate Mint Paleo Cookies" = "cookies-and-bars/double-chocolate-mint-paleo-cookies.md" },
+  { "Edible Cookie Dough" = "cookies-and-bars/edible-cookie-dough.md" },
+  { "Florentines" = "cookies-and-bars/florentines.md" },
+  { "French Macarons" = "cookies-and-bars/french-macarons.md" },
+  { "Fudge Brownies" = "cookies-and-bars/fudge-brownies.md" },
+  { "Glazed Lemon Bars" = "cookies-and-bars/glazed-lemon-bars.md" },
+  { "Healthy Carrot Cookies" = "cookies-and-bars/healthy-carrot-cookies.md" },
+  { "Honey Cookies (Finikia)" = "cookies-and-bars/honey-cookies-(finikia).md" },
+  { "King Arthur Chocolate Chip Cookies" = "cookies-and-bars/king-arthur-chocolate-chip-cookies.md" },
+  { "Ladyfingers" = "cookies-and-bars/ladyfingers.md" },
+  { "Lemon Bars" = "cookies-and-bars/lemon-bars.md" },
+  { "Lofthouse Cookies" = "cookies-and-bars/lofthouse-cookies.md" },
+  { "M&M Cookies" = "cookies-and-bars/m&m-cookies.md" },
+  { "Magic Cookie Bars" = "cookies-and-bars/magic-cookie-bars.md" },
+  { "Meringues" = "cookies-and-bars/meringues.md" },
+  { "Millionaire's Shortbread" = "cookies-and-bars/millionaire's-shortbread.md" },
+  { "Mini Madeleines" = "cookies-and-bars/mini-madeleines.md" },
+  { "Molasses Spice Cookies" = "cookies-and-bars/molasses-spice-cookies.md" },
+  { "Oatmeal Chocolate Chip Cookies" = "cookies-and-bars/oatmeal-chocolate-chip-cookies.md" },
+  { "Oatmeal Cookies" = "cookies-and-bars/oatmeal-cookies.md" },
+  { "Oatmeal Cream Pies" = "cookies-and-bars/oatmeal-cream-pies.md" },
+  { "Oatmeal Raisin" = "cookies-and-bars/oatmeal-raisin.md" },
+  { "Orange Sparkle Slice-and-Bake Cookies" = "cookies-and-bars/orange-sparkle-slice-and-bake-cookies.md" },
+  { "Oreos" = "cookies-and-bars/oreos.md" },
+  { "Peach Bars" = "cookies-and-bars/peach-bars.md" },
+  { "Peanut Butter Bars with Salted Chocolate Ganache" = "cookies-and-bars/peanut-butter-bars-with-salted-chocolate-ganache.md" },
+  { "Peanut Butter Cookies" = "cookies-and-bars/peanut-butter-cookies.md" },
+  { "Peanut Butter Crisscrosses" = "cookies-and-bars/peanut-butter-crisscrosses.md" },
+  { "Peanut Butter Sandwich Cookies" = "cookies-and-bars/peanut-butter-sandwich-cookies.md" },
+  { "Peanut Butter Stuffed Brownies" = "cookies-and-bars/peanut-butter-stuffed-brownies.md" },
+  { "Persian Chickpea cookies with Pistachio" = "cookies-and-bars/persian-chickpea-cookies-with-pistachio.md" },
+  { "Preposterously Peanut Butter Cup Cookies" = "cookies-and-bars/preposterously-peanut-butter-cup-cookies.md" },
+  { "Pumpkin Cheesecake Cookies" = "cookies-and-bars/pumpkin-cheesecake-cookies.md" },
+  { "Pumpkin Chocolate Chip Cookies" = "cookies-and-bars/pumpkin-chocolate-chip-cookies.md" },
+  { "Pumpkin Cookies with Cream Cheese Frosting" = "cookies-and-bars/pumpkin-cookies-with-cream-cheese-frosting.md" },
+  { "Salted Caramel Chocolate Macarons" = "cookies-and-bars/salted-caramel-chocolate-macarons.md" },
+  { "Salted Peanut Butter" = "cookies-and-bars/salted-peanut-butter.md" },
+  { "Samoas" = "cookies-and-bars/samoas.md" },
+  { "Shortbread" = "cookies-and-bars/shortbread.md" },
+  { "Simple Sugar Cookies" = "cookies-and-bars/simple-sugar-cookies.md" },
+  { "Soft White Chocolate Chip Cranberry Cookies" = "cookies-and-bars/soft-white-chocolate-chip-cranberry-cookies.md" },
+  { "Snickerdoodles" = "cookies-and-bars/snickerdoodles.md" },
+  { "Tante Myrn's Sugar Cookies" = "cookies-and-bars/tante-myrn's-sugar-cookies.md" },
+  { "The Best Sugar Cookies" = "cookies-and-bars/the-best-sugar-cookies.md" },
+  { "The New York Times Chocolate Chip Cookies" = "cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md" },
+  { "Traditional Italian Biscotti" = "cookies-and-bars/traditional-italian-biscotti.md" },
+  { "Twix" = "cookies-and-bars/twix.md" },
+  { "Vanilla Bean Sables" = "cookies-and-bars/vanilla-bean-sables.md" },
+  { "Vanilla Wafers" = "cookies-and-bars/vanilla-wafers.md" },
+  { "Weight Watchers Double Oatmeal Cookies" = "cookies-and-bars/weight-watchers-double-oatmeal-cookies.md" },
+  { "White Chocolate Chip Macadamia Nut" = "cookies-and-bars/white-chocolate-chip-macadamia-nut.md" },
+  { "White Chocolate Cranberry Cookies" = "cookies-and-bars/white-chocolate-cranberry-cookies.md" },
+  { "World Peace Cookies" = "cookies-and-bars/world-peace-cookies.md" },
+  { "World's Best Brownies" = "cookies-and-bars/world's-best-brownies.md" },
+]
 
 [[project.nav]]
 Custards = [
-    { "Crème Bavaroise" = "custards/crème-bavaroise.md" },
-    { "Crème Brûlée" = "custards/crème-brûlée.md" },
-    { "Crème Chiboust" = "custards/crème-chiboust.md" },
-    { "Crème Diplomat" = "custards/crème-diplomat.md" },
-    { "Crème Pâtissière" = "custards/crème-pâtissière.md" },
+  { "Crème Bavaroise" = "custards/crème-bavaroise.md" },
+  { "Crème Brûlée" = "custards/crème-brûlée.md" },
+  { "Crème Chiboust" = "custards/crème-chiboust.md" },
+  { "Crème Diplomat" = "custards/crème-diplomat.md" },
+  { "Crème Pâtissière" = "custards/crème-pâtissière.md" },
 ]
 
 [[project.nav]]
-[[project.nav.Desserts]]
-"Cakes" = [
-  { "1-Bowl Vegan Gluten-Free Carrot Cake" = "desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md" },
-  { "Apple Cake" = "desserts/cake/apple-cake.md" },
-  { "Apple Fritter Cake" = "desserts/cake/apple-fritter-cake.md" },
+Desserts = [
+  { "Cakes" = [
+    { "1-Bowl Vegan Gluten-Free Carrot Cake" = "desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md" },
+    { "Apple Cake" = "desserts/cake/apple-cake.md" },
+    { "Apple Fritter Cake" = "desserts/cake/apple-fritter-cake.md" },
+    { "Beccherie Tiramisù" = "desserts/cake/beccherie-tiramisù.md" },
+    { "Boston Cream Pie" = "desserts/cake/boston-cream-pie.md" },
+    { "Breton Butter Bake" = "desserts/cake/breton-butter-bake.md" },
+    { "Bride's Cake with Raspberry Filling and White Chocolate Frosting" = "desserts/cake/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.md" },
+    { "Carrot Cake" = "desserts/cake/carrot-cake.md" },
+    { "Cherry Almond Skyr Cake" = "desserts/cake/cherry-almond-skyr-cake.md" },
+    { "Chez Panisse Almond Torte" = "desserts/cake/chez-panisse-almond-torte.md" },
+    { "Cinnamon Chocolate Cake" = "desserts/cake/cinnamon-chocolate-cake.md" },
+    { "Cinnamon-Crisp Coffee Cake" = "desserts/cake/cinnamon-crisp-coffee-cake.md" },
+    { "Classic Birthday Cake" = "desserts/cake/classic-birthday-cake.md" },
+    { "Cream Cheese Pound Cake" = "desserts/cake/cream-cheese-pound-cake.md" },
+    { "Dinner Party Yogurt Cake" = "desserts/cake/dinner-party-yogurt-cake.md" },
+    { "Dominique Ansel's Chocolate Cake" = "desserts/cake/dominique-ansel's-chocolate-cake.md" },
+    { "Flourless Chocolate Cake" = "desserts/cake/flourless-chocolate-cake.md" },
+    { "Funfetti Cake" = "desserts/cake/funfetti-cake.md" },
+    { "Galette des Rois" = "desserts/cake/galette-des-rois.md" },
+    { "Gâteau Basque" = "desserts/cake/gâteau-basque.md" },
+    { "Grammys Texas Sheet Cake" = "desserts/cake/grammys-texas-sheet-cake.md" },
+    { "Hot Milk Cake" = "desserts/cake/hot-milk-cake.md" },
+    { "Hummingbird Cake" = "desserts/cake/hummingbird-cake.md" },
+    { "Ina Garten's Coconut Cake" = "desserts/cake/ina-garten's-coconut-cake.md" },
+    { "King Arthur's Carrot Cake" = "desserts/cake/king-arthurs-carrot-cake.md" },
+    { "Lemon Bundt Cake" = "desserts/cake/lemon-bundt-cake.md" },
+    { "Lemon Thyme Yogurt Cake" = "desserts/cake/lemon-thyme-yogurt-cake.md" },
+    { "Marble Cake" = "desserts/cake/marble-cake.md" },
+    { "Olive Oil Cake" = "desserts/cake/olive-oil-cake.md" },
+    { "Pineapple Upside Down Cake" = "desserts/cake/pineapple-upside-down-cake.md" },
+    { "Poppy Seed Almond Cake" = "desserts/cake/poppy-seed-almond-cake.md" },
+    { "Pound Cake" = "desserts/cake/pound-cake.md" },
+    { "Prinsesstårta" = "desserts/cake/prinsesstårta.md" },
+    { "Reine be Saba (Queen of Sheba)" = "desserts/cake/reine-be-saba-(queen-of-sheba).md" },
+    { "Rhubarb Cake" = "desserts/cake/rhubarb-cake.md" },
+    { "Smash Cake" = "desserts/cake/smash-cake.md" },
+    { "Sour Cream Coffee Cake" = "desserts/cake/sour-cream-coffee-cake.md" },
+    { "Southern Velvet Cake" = "desserts/cake/southern-velvet-cake.md" },
+    { "Strawberry Cake" = "desserts/cake/strawberry-cake.md" },
+    { "The Original Boston Cream Pie" = "desserts/cake/the-original-boston-cream-pie.md" },
+    { "The Perfect Chocolate Cake" = "desserts/cake/the-perfect-chocolate-cake.md" },
+    { "Tiramisù" = "desserts/cake/tiramisù.md" },
+    { "Tres Leches Cake with Berries" = "desserts/cake/tres-leches-cake-with-berries.md" },
+    { "Vanilla Cake" = "desserts/cake/vanilla-cake.md" },
+    { "Vegan Carrot Cake" = "desserts/cake/vegan-carrot-cake.md" },
+    { "Vegan Strawberry Cake" = "desserts/cake/vegan-strawberry-cake.md" },
+    { "Victoria Sandwich Cake" = "desserts/cake/victoria-sandwich-cake.md" },
+    { "Yogurt Cake Version 1" = "desserts/cake/yogurt-cake-version-1.md" },
+    { "Yogurt Cake Version 2" = "desserts/cake/yogurt-cake-version-2.md" },
+    { "Yule Log (Classic Bûche de Noël)" = "desserts/cake/yule-log-(classic-bûche-de-noël).md" },
+  ] },
+  { "Cupcakes" = [
+    { "Chocolate Cupcakes" = "desserts/cupcakes/chocolate-cupcakes.md" },
+    { "Corn & Hatch Chile Cupcakes with Honey Buttercream" = "desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md" },
+    { "Vanilla Cupcakes" = "desserts/cupcakes/vanilla-cupcakes.md" },
+    { "White Chocolate Strawberry Cupcakes" = "desserts/cupcakes/white-chocolate-strawberry-cupcakes.md" },
+  ] },
+  { "Pies" = [
+    { "Banana Cream Pie" = "desserts/pie/banana-cream-pie.md" },
+    { "Banoffee Pie" = "desserts/pie/banoffee-pie.md" },
+    { "Blueberry Pie" = "desserts/pie/blueberry-pie.md" },
+    { "Butterfinger Ice Cream Pie" = "desserts/pie/butterfinger-ice-cream-pie.md" },
+    { "Buttermilk Chess Pie" = "desserts/pie/buttermilk-chess-pie.md" },
+    { "Buttermilk Pie" = "desserts/pie/buttermilk-pie.md" },
+    { "Chess Pie" = "desserts/pie/chess-pie.md" },
+    { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
+    { "His Favorite Butterscotch Pie" = "desserts/pie/his-favorite-butterscotch-pie.md" },
+    { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
+    { "Lemon Pie" = "desserts/pie/lemon-pie.md" },
+    { "Libby's Famous Pumpkin Pie" = "desserts/pie/libby's-famous-pumpkin-pie.md" },
+    { "Mini Apple Pies" = "desserts/pie/mini-apple-pies.md" },
+    { "Peanut Butter Cream Pie" = "desserts/pie/peanut-butter-cream-pie.md" },
+    { "Shoofly Pie" = "desserts/pie/shoofly-pie.md" },
+    { "Spring Fruit Tart Pie" = "desserts/pie/spring-fruit-tart-pie.md" },
+    { "Tart Cherry Pie" = "desserts/pie/tart-cherry-pie.md" },
+    { "The Best Lemon Meringue Pie" = "desserts/pie/the-best-lemon-meringue-pie.md" },
+    { "Tollhouse Pie" = "desserts/pie/tollhouse-pie.md" },
+    { "Trader Joe's Key Lime Pie with Strawberry Whipped Cream" = "desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md" },
+  ] },
+  { "Tarts" = [
+    { "Chocolate Tart" = "desserts/tarts/chocolate-tart.md" },
+    { "Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md" },
+    { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
+    { "Plum Torte" = "desserts/tarts/plum-torte.md" },
+    { "Strawberry Tart" = "desserts/tarts/strawberry-tart.md" },
+  ] },
+  { "4 Ingredient Chocolate Mousse" = "desserts/4-ingredient-chocolate-mousse.md" },
+  { "Banana Pudding" = "desserts/banana-pudding.md" },
+  { "Brandy Snaps" = "desserts/brandy-snaps.md" },
+  { "Bread Pudding" = "desserts/bread-pudding.md" },
+  { "Buckeyes" = "desserts/buckeyes.md" },
+  { "Buttermilk Panna Cotta" = "desserts/buttermilk-panna-cotta.md" },
+  { "Cannoli" = "desserts/cannoli.md" },
+  { "Chia Pudding" = "desserts/chia-pudding.md" },
+  { "Choco Taco" = "desserts/choco-taco.md" },
+  { "Chocolate Mousse" = "desserts/chocolate-mousse.md" },
+  { "Chocolate Soufflé" = "desserts/chocolate-soufflé.md" },
+  { "Chocolate Whoopie Pies with Vanilla Buttercream Filling" = "desserts/chocolate-whoopie-pies-with-vanilla-buttercream-filling.md" },
+  { "Classic Crème Brûlée" = "desserts/classic-crème-brûlée.md" },
+  { "Classic Fudge" = "desserts/classic-fudge.md" },
+  { "Coconut Macaroons" = "desserts/coconut-macaroons.md" },
+  { "Cooks Illustrated Lemon Bars" = "desserts/cooks-illustrated-lemon-bars.md" },
+  { "Crème Brûlée" = "desserts/crème-brûlée.md" },
+  { "Crêpes Suzette" = "desserts/crêpes-suzette.md" },
+  { "Disney's Churros" = "desserts/disney's-churros.md" },
+  { "Disney's Frozen Pineapple Treat" = "desserts/disney's-frozen-pineapple-treat.md" },
+  { "English Toffee" = "desserts/english-toffee.md" },
+  { "Fruit Galette" = "desserts/fruit-galette.md" },
+  { "Fruit Sorbet" = "desserts/fruit-sorbet.md" },
+  { "Gordon Ramsay's Chocolate Soufflé" = "desserts/gordon-ramsay's-chocolate-soufflé.md" },
+  { "Grandma Kleins Chocolate Caramels" = "desserts/grandma-kleins-chocolate-caramels.md" },
+  { "Gulab Jambu" = "desserts/gulab-jambu.md" },
+  { "Ice Cream" = "desserts/ice-cream.md" },
+  { "Ina Garten's Apple Crisp" = "desserts/ina-garten's-apple-crisp.md" },
+  { "Lemony Blueberry Sorbet" = "desserts/lemony-blueberry-sorbet.md" },
+  { "Martha Stewarts New York-Style Cheesecake" = "desserts/martha-stewarts-new-york-style-cheesecake.md" },
+  { "Mamie Eisenhower's Fudge" = "desserts/mamie-eisenhower's-fudge.md" },
+  { "Melomakarona" = "desserts/melomakarona.md" },
+  { "Millefeuille" = "desserts/millefeuille.md" },
+  { "Montélimar Nougat" = "desserts/montélimar-nougat.md" },
+  { "New Orleans Pralines" = "desserts/new-orleans-pralines.md" },
+  { "New York-Style Cheesecake" = "desserts/new-york-style-cheesecake.md" },
+  { "Old-Fashioned Rice Pudding" = "desserts/old-fashioned-rice-pudding.md" },
+  { "Peanut Brittle" = "desserts/peanut-brittle.md" },
+  { "Peanut Butter Cups" = "desserts/peanut-butter-cups.md" },
+  { "Pear Tarte Tatin" = "desserts/pear-tarte-tatin.md" },
+  { "Pecan Brittle" = "desserts/pecan-brittle.md" },
+  { "Pouding Chômeur with Pure Maple Sauce" = "desserts/pouding-chomeur-with-pure-maple-sauce.md" },
+  { "Pumpkin Cheesecake" = "desserts/pumpkin-cheesecake.md" },
+  { "Rice Krispies" = "desserts/rice-krispies.md" },
+  { "Slow Cooker Apple Crisp" = "desserts/slow-cooker-apple-crisp.md" },
+  { "Sticky Toffee Pudding" = "desserts/sticky-toffee-pudding.md" },
+  { "Strawberry Mousse" = "desserts/strawberry-mousse.md" },
+  { "Strawberry Rhubarb Crisp" = "desserts/strawberry-rhubarb-crisp.md" },
+  { "Strawberry Shortcakes" = "desserts/strawberry-shortcakes.md" },
+  { "Swiss Roll" = "desserts/swiss-roll.md" },
+  { "Tiramisù" = "desserts/tiramisù.md" },
+  { "Toffee Bits" = "desserts/toffee-bits.md" },
+  { "Tofu Mousse" = "desserts/tofu-mousse.md" },
+  { "Ultimate Brown Butter Rice Krispies Treats" = "desserts/ultimate-brown-butter-rice-krispies-treats.md" },
+  { "Vanilla Bean Ice Cream" = "desserts/vanilla-bean-ice-cream.md" },
+  { "Vanilla Bean Whip" = "desserts/vanilla-bean-whip.md" },
+  { "Vanilla Pudding" = "desserts/vanilla-pudding.md" },
+  { "Vegan Banana Ice Cream" = "desserts/vegan-banana-ice-cream.md" },
+  { "Vegan Chocolate Pudding with Cinnamon & Chile" = "desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md" },
 ]
-
-[[project.nav]]
-[[project.nav.Desserts]]
-[[project.nav.Desserts.Cakes]]
-"Beccherie Tiramisù" = "desserts/cake/beccherie-tiramisù.md"
-
-[[project.nav.Desserts.Cakes]]
-"Boston Cream Pie" = "desserts/cake/boston-cream-pie.md"
-
-[[project.nav.Desserts.Cakes]]
-"Breton Butter Bake" = "desserts/cake/breton-butter-bake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Bride's Cake with Raspberry Filling and White Chocolate Frosting" = "desserts/cake/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.md"
-
-[[project.nav.Desserts.Cakes]]
-"Carrot Cake" = "desserts/cake/carrot-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Cherry Almond Skyr Cake" = "desserts/cake/cherry-almond-skyr-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Chez Panisse Almond Torte" = "desserts/cake/chez-panisse-almond-torte.md"
-
-[[project.nav.Desserts.Cakes]]
-"Cinnamon Chocolate Cake" = "desserts/cake/cinnamon-chocolate-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Cinnamon-Crisp Coffee Cake" = "desserts/cake/cinnamon-crisp-coffee-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Classic Birthday Cake" = "desserts/cake/classic-birthday-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Cream Cheese Pound Cake" = "desserts/cake/cream-cheese-pound-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Dinner Party Yogurt Cake" = "desserts/cake/dinner-party-yogurt-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Dominique Ansel's Chocolate Cake" = "desserts/cake/dominique-ansel's-chocolate-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Flourless Chocolate Cake" = "desserts/cake/flourless-chocolate-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Funfetti Cake" = "desserts/cake/funfetti-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Galette des Rois" = "desserts/cake/galette-des-rois.md"
-
-[[project.nav.Desserts.Cakes]]
-"Gâteau Basque" = "desserts/cake/gâteau-basque.md"
-
-[[project.nav.Desserts.Cakes]]
-"Grammys Texas Sheet Cake" = "desserts/cake/grammys-texas-sheet-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Hot Milk Cake" = "desserts/cake/hot-milk-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Hummingbird Cake" = "desserts/cake/hummingbird-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Ina Garten's Coconut Cake" = "desserts/cake/ina-garten's-coconut-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"King Arthur's Carrot Cake" = "desserts/cake/king-arthurs-carrot-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Lemon Bundt Cake" = "desserts/cake/lemon-bundt-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Lemon Thyme Yogurt Cake" = "desserts/cake/lemon-thyme-yogurt-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Marble Cake" = "desserts/cake/marble-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Olive Oil Cake" = "desserts/cake/olive-oil-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Pineapple Upside Down Cake" = "desserts/cake/pineapple-upside-down-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Poppy Seed Almond Cake" = "desserts/cake/poppy-seed-almond-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Pound Cake" = "desserts/cake/pound-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Prinsesstårta" = "desserts/cake/prinsesstårta.md"
-
-[[project.nav.Desserts.Cakes]]
-"Reine be Saba (Queen of Sheba)" = "desserts/cake/reine-be-saba-(queen-of-sheba).md"
-
-[[project.nav.Desserts.Cakes]]
-"Rhubarb Cake" = "desserts/cake/rhubarb-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Smash Cake" = "desserts/cake/smash-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Sour Cream Coffee Cake" = "desserts/cake/sour-cream-coffee-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Southern Velvet Cake" = "desserts/cake/southern-velvet-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Strawberry Cake" = "desserts/cake/strawberry-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"The Original Boston Cream Pie" = "desserts/cake/the-original-boston-cream-pie.md"
-
-[[project.nav.Desserts.Cakes]]
-"The Perfect Chocolate Cake" = "desserts/cake/the-perfect-chocolate-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Tiramisù" = "desserts/cake/tiramisù.md"
-
-[[project.nav.Desserts.Cakes]]
-"Tres Leches Cake with Berries" = "desserts/cake/tres-leches-cake-with-berries.md"
-
-[[project.nav.Desserts.Cakes]]
-"Vanilla Cake" = "desserts/cake/vanilla-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Vegan Carrot Cake" = "desserts/cake/vegan-carrot-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Vegan Strawberry Cake" = "desserts/cake/vegan-strawberry-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Victoria Sandwich Cake" = "desserts/cake/victoria-sandwich-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Yogurt Cake Version 1" = "desserts/cake/yogurt-cake-version-1.md"
-
-[[project.nav.Desserts.Cakes]]
-"Yogurt Cake Version 2" = "desserts/cake/yogurt-cake-version-2.md"
-
-[[project.nav.Desserts.Cakes]]
-"Yule Log (Classic Bûche de Noël)" = "desserts/cake/yule-log-(classic-bûche-de-noël).md"
-
-[[project.nav.Desserts]]
-Cupcakes = [
-  { "Chocolate Cupcakes" = "desserts/cupcakes/chocolate-cupcakes.md" },
-  { "Corn & Hatch Chile Cupcakes with Honey Buttercream" = "desserts/cupcakes/corn-&-hatch-chile-cupcakes-with-honey-buttercream.md" },
-  { "Vanilla Cupcakes" = "desserts/cupcakes/vanilla-cupcakes.md" },
-  { "White Chocolate Strawberry Cupcakes" = "desserts/cupcakes/white-chocolate-strawberry-cupcakes.md" },
-]
-
-[[project.nav.Desserts]]
-Pies = [
-  { "Banana Cream Pie" = "desserts/pie/banana-cream-pie.md" },
-  { "Banoffee Pie" = "desserts/pie/banoffee-pie.md" },
-  { "Blueberry Pie" = "desserts/pie/blueberry-pie.md" },
-  { "Butterfinger Ice Cream Pie" = "desserts/pie/butterfinger-ice-cream-pie.md" },
-  { "Buttermilk Chess Pie" = "desserts/pie/buttermilk-chess-pie.md" },
-  { "Buttermilk Pie" = "desserts/pie/buttermilk-pie.md" },
-  { "Chess Pie" = "desserts/pie/chess-pie.md" },
-  { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
-  { "His Favorite Butterscotch Pie" = "desserts/pie/his-favorite-butterscotch-pie.md" },
-  { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
-  { "Lemon Pie" = "desserts/pie/lemon-pie.md" },
-  { "Libby's Famous Pumpkin Pie" = "desserts/pie/libby's-famous-pumpkin-pie.md" },
-  { "Mini Apple Pies" = "desserts/pie/mini-apple-pies.md" },
-  { "Peanut Butter Cream Pie" = "desserts/pie/peanut-butter-cream-pie.md" },
-  { "Shoofly Pie" = "desserts/pie/shoofly-pie.md" },
-  { "Spring Fruit Tart Pie" = "desserts/pie/spring-fruit-tart-pie.md" },
-  { "Tart Cherry Pie" = "desserts/pie/tart-cherry-pie.md" },
-  { "The Best Lemon Meringue Pie" = "desserts/pie/the-best-lemon-meringue-pie.md" },
-  { "Tollhouse Pie" = "desserts/pie/tollhouse-pie.md" },
-  { "Trader Joe's Key Lime Pie with Strawberry Whipped Cream" = "desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md" },
-]
-
-[[project.nav.Desserts]]
-Tarts = [
-  { "Chocolate Tart" = "desserts/tarts/chocolate-tart.md" },
-  { "Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md" },
-  { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
-  { "Plum Torte" = "desserts/tarts/plum-torte.md" },
-  { "Strawberry Tart" = "desserts/tarts/strawberry-tart.md" },
-]
-
-[[project.nav.Desserts]]
-"4 Ingredient Chocolate Mousse" = "desserts/4-ingredient-chocolate-mousse.md"
-
-[[project.nav.Desserts]]
-"Banana Pudding" = "desserts/banana-pudding.md"
-
-[[project.nav.Desserts]]
-"Brandy Snaps" = "desserts/brandy-snaps.md"
-
-[[project.nav.Desserts]]
-"Bread Pudding" = "desserts/bread-pudding.md"
-
-[[project.nav.Desserts]]
-"Buckeyes" = "desserts/buckeyes.md"
-
-[[project.nav.Desserts]]
-"Buttermilk Panna Cotta" = "desserts/buttermilk-panna-cotta.md"
-
-[[project.nav.Desserts]]
-"Cannoli" = "desserts/cannoli.md"
-
-[[project.nav.Desserts]]
-"Chia Pudding" = "desserts/chia-pudding.md"
-
-[[project.nav.Desserts]]
-"Choco Taco" = "desserts/choco-taco.md"
-
-[[project.nav.Desserts]]
-"Chocolate Mousse" = "desserts/chocolate-mousse.md"
-
-[[project.nav.Desserts]]
-"Chocolate Soufflé" = "desserts/chocolate-soufflé.md"
-
-[[project.nav.Desserts]]
-"Chocolate Whoopie Pies with Vanilla Buttercream Filling" = "desserts/chocolate-whoopie-pies-with-vanilla-buttercream-filling.md"
-
-[[project.nav.Desserts]]
-"Classic Crème Brûlée" = "desserts/classic-crème-brûlée.md"
-
-[[project.nav.Desserts]]
-"Classic Fudge" = "desserts/classic-fudge.md"
-
-[[project.nav.Desserts]]
-"Coconut Macaroons" = "desserts/coconut-macaroons.md"
-
-[[project.nav.Desserts]]
-"Cooks Illustrated Lemon Bars" = "desserts/cooks-illustrated-lemon-bars.md"
-
-[[project.nav.Desserts]]
-"Crème Brûlée" = "desserts/crème-brûlée.md"
-
-[[project.nav.Desserts]]
-"Crêpes Suzette" = "desserts/crêpes-suzette.md"
-
-[[project.nav.Desserts]]
-"Disney's Churros" = "desserts/disney's-churros.md"
-
-[[project.nav.Desserts]]
-"Disney's Frozen Pineapple Treat" = "desserts/disney's-frozen-pineapple-treat.md"
-
-[[project.nav.Desserts]]
-"English Toffee" = "desserts/english-toffee.md"
-
-[[project.nav.Desserts]]
-"Fruit Galette" = "desserts/fruit-galette.md"
-
-[[project.nav.Desserts]]
-"Fruit Sorbet" = "desserts/fruit-sorbet.md"
-
-[[project.nav.Desserts]]
-"Gordon Ramsay's Chocolate Soufflé" = "desserts/gordon-ramsay's-chocolate-soufflé.md"
-
-[[project.nav.Desserts]]
-"Grandma Kleins Chocolate Caramels" = "desserts/grandma-kleins-chocolate-caramels.md"
-
-[[project.nav.Desserts]]
-"Gulab Jambu" = "desserts/gulab-jambu.md"
-
-[[project.nav.Desserts]]
-"Ice Cream" = "desserts/ice-cream.md"
-
-[[project.nav.Desserts]]
-"Ina Garten's Apple Crisp" = "desserts/ina-garten's-apple-crisp.md"
-
-[[project.nav.Desserts]]
-"Lemony Blueberry Sorbet" = "desserts/lemony-blueberry-sorbet.md"
-
-[[project.nav.Desserts]]
-"Martha Stewarts New York-Style Cheesecake" = "desserts/martha-stewarts-new-york-style-cheesecake.md"
-
-[[project.nav.Desserts]]
-"Mamie Eisenhower's Fudge" = "desserts/mamie-eisenhower's-fudge.md"
-
-[[project.nav.Desserts]]
-Melomakarona = "desserts/melomakarona.md"
-
-[[project.nav.Desserts]]
-Millefeuille = "desserts/millefeuille.md"
-
-[[project.nav.Desserts]]
-"Montélimar Nougat" = "desserts/montélimar-nougat.md"
-
-[[project.nav.Desserts]]
-"New Orleans Pralines" = "desserts/new-orleans-pralines.md"
-
-[[project.nav.Desserts]]
-"New York-Style Cheesecake" = "desserts/new-york-style-cheesecake.md"
-
-[[project.nav.Desserts]]
-"Old-Fashioned Rice Pudding" = "desserts/old-fashioned-rice-pudding.md"
-
-[[project.nav.Desserts]]
-"Peanut Brittle" = "desserts/peanut-brittle.md"
-
-[[project.nav.Desserts]]
-"Peanut Butter Cups" = "desserts/peanut-butter-cups.md"
-
-[[project.nav.Desserts]]
-"Pear Tarte Tatin" = "desserts/pear-tarte-tatin.md"
-
-[[project.nav.Desserts]]
-"Pecan Brittle" = "desserts/pecan-brittle.md"
-
-[[project.nav.Desserts]]
-"Pouding Chômeur with Pure Maple Sauce" = "desserts/pouding-chomeur-with-pure-maple-sauce.md"
-
-[[project.nav.Desserts]]
-"Pumpkin Cheesecake" = "desserts/pumpkin-cheesecake.md"
-
-[[project.nav.Desserts]]
-"Rice Krispies" = "desserts/rice-krispies.md"
-
-[[project.nav.Desserts]]
-"Slow Cooker Apple Crisp" = "desserts/slow-cooker-apple-crisp.md"
-
-[[project.nav.Desserts]]
-"Sticky Toffee Pudding" = "desserts/sticky-toffee-pudding.md"
-
-[[project.nav.Desserts]]
-"Strawberry Mousse" = "desserts/strawberry-mousse.md"
-
-[[project.nav.Desserts]]
-"Strawberry Rhubarb Crisp" = "desserts/strawberry-rhubarb-crisp.md"
-
-[[project.nav.Desserts]]
-"Strawberry Shortcakes" = "desserts/strawberry-shortcakes.md"
-
-[[project.nav.Desserts]]
-"Swiss Roll" = "desserts/swiss-roll.md"
-
-[[project.nav.Desserts]]
-"Tiramisù" = "desserts/tiramisù.md"
-
-[[project.nav.Desserts]]
-"Toffee Bits" = "desserts/toffee-bits.md"
-
-[[project.nav.Desserts]]
-"Tofu Mousse" = "desserts/tofu-mousse.md"
-
-[[project.nav.Desserts]]
-"Ultimate Brown Butter Rice Krispies Treats" = "desserts/ultimate-brown-butter-rice-krispies-treats.md"
-
-[[project.nav.Desserts]]
-"Vanilla Bean Ice Cream" = "desserts/vanilla-bean-ice-cream.md"
-
-[[project.nav.Desserts]]
-"Vanilla Bean Whip" = "desserts/vanilla-bean-whip.md"
-
-[[project.nav.Desserts]]
-"Vanilla Pudding" = "desserts/vanilla-pudding.md"
-
-[[project.nav.Desserts]]
-"Vegan Banana Ice Cream" = "desserts/vegan-banana-ice-cream.md"
-
-[[project.nav.Desserts]]
-"Vegan Chocolate Pudding with Cinnamon & Chile" = "desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md"
 
 [[project.nav]]
 Dutch = [
-    { Kroket = "dutch/kroket.md" },
+  { "Kroket" = "dutch/kroket.md" },
 ]
 
 [[project.nav]]
-"Holiday" = [
+Holiday = [
   { "Alton Brown's White Trash" = "holiday/alton-brown's-white-trash.md" },
   { "Aunt Mary's Cherry Mashers" = "holiday/aunt-marys-cherry-mashers.md" },
   { "Baked Ziti" = "holiday/baked-ziti.md" },
@@ -1014,1505 +506,595 @@ Indonesian = [
 ]
 
 [[project.nav]]
-
-[[project.nav.Ingredients]]
-Butter = [
-  { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
-  { "Almond Butter" = "ingredients/butter/almond-butter.md" },
-  { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
-  { "Butter" = "ingredients/butter/butter.md" },
-  { "Chili Lime Butter" = "ingredients/butter/chili-lime-butter.md" },
-  { "Clarified Butter" = "ingredients/butter/clarified-butter.md" },
-  { "Garlic-Parsley Basting Butter" = "ingredients/butter/garlic-parsley-basting-butter.md" },
-  { "Ghee" = "ingredients/butter/ghee.md" },
-  { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
-  { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
-  { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
-]
-
-[[project.nav.Ingredients]]
-Caramel = [
-  { "Dry Caramel" = "ingredients/caramel/dry-caramel.md" },
-  { "Hard Caramel" = "ingredients/caramel/hard-caramel.md" },
-  { "Wet Caramel" = "ingredients/caramel/wet-caramel.md" },
-]
-
-[[project.nav.Ingredients]]
-Extracts = [
-  { "Almond Extract" = "ingredients/extracts/almond-extract.md" },
-  { "Lemon Extract" = "ingredients/extracts/lemon-extract.md" },
-  { "Mint Extract" = "ingredients/extracts/mint-extract.md" },
-  { "Orange Extract" = "ingredients/extracts/orange-extract.md" },
-  { "Vanilla Extract" = "ingredients/extracts/vanilla-extract.md" },
-]
-
-[[project.nav.Ingredients]]
-Fillings = [
-  { Mousse = "ingredients/fillings/mousse.md" },
-]
-
-[[project.nav.Ingredients]]
-Frosting = [
-  { "American Buttercream" = "ingredients/frosting/american-buttercream.md" },
-  { "Brown Butter Cream Cheese Frosting" = "ingredients/frosting/brown-butter-cream-cheese-frosting.md" },
-  { "Chocolate Ganache Glaze or Frosting" = "ingredients/frosting/chocolate-ganache-glaze-or-frosting.md" },
-  { "Classic Vanilla Buttercream Frosting" = "ingredients/frosting/classic-vanilla-buttercream-frosting.md" },
-  { "Craquelin" = "ingredients/frosting/craquelin.md" },
-  { "Cream Cheese Frosting" = "ingredients/frosting/cream-cheese-frosting.md" },
-  { "Danette's Kosher Marshmallow Creme Fondant (DKF)" = "ingredients/frosting/danette's-kosher-marshmallow-creme-fondant.md" },
-  { "Dominique Ansel's Chocolate Ganache" = "ingredients/frosting/dominique-ansel's-chocolate-ganache.md" },
-  { "French Buttercream" = "ingredients/frosting/french-buttercream.md" },
-  { "Marzipan" = "ingredients/frosting/marzipan.md"},
-  { "Mom's Buttercream Frosting" = "ingredients/frosting/mom's-buttercream-frosting.md" },
-  { "Peanut Butter Frosting" = "ingredients/frosting/peanut-butter-frosting.md" },
-  { "Peppermint Buttercream Frosting" = "ingredients/frosting/peppermint-buttercream-frosting.md" },
-  { "Sour Cream Topping" = "ingredients/frosting/sour-cream-topping.md" },
-  { "Swiss Buttercream" = "ingredients/frosting/swiss-buttercream.md" },
-  { "Vegan Strawberry Frosting" = "ingredients/frosting/vegan-strawberry-frosting.md" },
-  { "White Chocolate Frosting" = "ingredients/frosting/white-chocolate-frosting.md" },
-]
-
-[[project.nav.Ingredients]]
-Meringue = [
+Ingredients = [
+  { "Butter" = [
+    { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
+    { "Almond Butter" = "ingredients/butter/almond-butter.md" },
+    { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
+    { "Butter" = "ingredients/butter/butter.md" },
+    { "Chili Lime Butter" = "ingredients/butter/chili-lime-butter.md" },
+    { "Clarified Butter" = "ingredients/butter/clarified-butter.md" },
+    { "Garlic-Parsley Basting Butter" = "ingredients/butter/garlic-parsley-basting-butter.md" },
+    { "Ghee" = "ingredients/butter/ghee.md" },
+    { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
+    { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
+    { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
+  ] },
+  { "Caramel" = [
+    { "Dry Caramel" = "ingredients/caramel/dry-caramel.md" },
+    { "Hard Caramel" = "ingredients/caramel/hard-caramel.md" },
+    { "Wet Caramel" = "ingredients/caramel/wet-caramel.md" },
+  ] },
+  { "Extracts" = [
+    { "Almond Extract" = "ingredients/extracts/almond-extract.md" },
+    { "Lemon Extract" = "ingredients/extracts/lemon-extract.md" },
+    { "Mint Extract" = "ingredients/extracts/mint-extract.md" },
+    { "Orange Extract" = "ingredients/extracts/orange-extract.md" },
+    { "Vanilla Extract" = "ingredients/extracts/vanilla-extract.md" },
+  ] },
+  { "Fillings" = [
+    { "Mousse" = "ingredients/fillings/mousse.md" },
+  ] },
+  { "Frosting" = [
+    { "American Buttercream" = "ingredients/frosting/american-buttercream.md" },
+    { "Brown Butter Cream Cheese Frosting" = "ingredients/frosting/brown-butter-cream-cheese-frosting.md" },
+    { "Chocolate Ganache Glaze or Frosting" = "ingredients/frosting/chocolate-ganache-glaze-or-frosting.md" },
+    { "Classic Vanilla Buttercream Frosting" = "ingredients/frosting/classic-vanilla-buttercream-frosting.md" },
+    { "Craquelin" = "ingredients/frosting/craquelin.md" },
+    { "Cream Cheese Frosting" = "ingredients/frosting/cream-cheese-frosting.md" },
+    { "Danette's Kosher Marshmallow Creme Fondant (DKF)" = "ingredients/frosting/danette's-kosher-marshmallow-creme-fondant.md" },
+    { "Dominique Ansel's Chocolate Ganache" = "ingredients/frosting/dominique-ansel's-chocolate-ganache.md" },
+    { "French Buttercream" = "ingredients/frosting/french-buttercream.md" },
+    { "Marzipan" = "ingredients/frosting/marzipan.md" },
+    { "Mom's Buttercream Frosting" = "ingredients/frosting/mom's-buttercream-frosting.md" },
+    { "Peanut Butter Frosting" = "ingredients/frosting/peanut-butter-frosting.md" },
+    { "Peppermint Buttercream Frosting" = "ingredients/frosting/peppermint-buttercream-frosting.md" },
+    { "Sour Cream Topping" = "ingredients/frosting/sour-cream-topping.md" },
+    { "Swiss Buttercream" = "ingredients/frosting/swiss-buttercream.md" },
+    { "Vegan Strawberry Frosting" = "ingredients/frosting/vegan-strawberry-frosting.md" },
+    { "White Chocolate Frosting" = "ingredients/frosting/white-chocolate-frosting.md" },
+  ] },
+  { "Meringue" = [
     { "French Meringue" = "ingredients/meringue/french-meringue.md" },
     { "Italian Meringue" = "ingredients/meringue/italian-meringue.md" },
     { "Swiss Meringue" = "ingredients/meringue/swiss-meringue.md" },
-]
-
-[[project.nav.Ingredients]]
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"All-Purpose Flaky Pastry Dough" = "ingredients/pastry-dough/all--purpose-flaky-pastry-dough.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Basic Pastry" = "ingredients/pastry-dough/basic-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Chocolate Biscuit" = "ingredients/pastry-dough/chocolate-biscuit.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Danish Pastry" = "ingredients/pastry-dough/danish-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Deluxe Butter Pastry" = "ingredients/pastry-dough/deluxe-butter-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Dominique Ansel's Pâte à Choux" = "ingredients/pastry-dough/dominique-ansel's-pâte-à-choux.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Empanada Pastry" = "ingredients/pastry-dough/empanada-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-Filo = "ingredients/pastry-dough/filo.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Flaky Olive Oil Dough" = "ingredients/pastry-dough/flaky-olive-oil-dough.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Hot Water Crust" = "ingredients/pastry-dough/hot-water-crust.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Pat-in-the-Pan Butter" = "ingredients/pastry-dough/pat-in-the-pan-butter-dough.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Pat-in-the-Pan Shortbread" = "ingredients/pastry-dough/pat-in-the-pan-shortbread-dough.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Pâte à Choux" = "ingredients/pastry-dough/pâte-à-choux.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Pâte Brisée" = "ingredients/pastry-dough/pâte-brisée.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Puff Pastry" = "ingredients/pastry-dough/puff-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Rough Puff Pastry" = "ingredients/pastry-dough/rough-puff-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Sweet Pastry" = "ingredients/pastry-dough/sweet-pastry.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Sweet Tart" = "ingredients/pastry-dough/sweet-tart.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Vanilla Sablé Shell" = "ingredients/pastry-dough/vanilla-sablé-shell.md"
-
-[[project.nav.Ingredients."Pastry Dough"]]
-"Vegan Empanada Pastry" = "ingredients/pastry-dough/vegan-empanada-pastry.md"
-
-[[project.nav.Ingredients]]
-"Post-Baking Glazes" = [
-  { "Dark Chocolate Mirror Glaze" = "ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md" },
-  { "Fruit Glaze (Nappage)" = "ingredients/post-baking-glazes/fruit-glaze-(nappage).md" },
-  { "Lemon Glaze" = "ingredients/post-baking-glazes/lemon-glaze.md" },
-  { "Milk Glaze" = "ingredients/post-baking-glazes/milk-glaze.md" },
-  { "Royal Icing" = "ingredients/post-baking-glazes/royal-icing.md" },
-]
-
-[[project.nav.Ingredients]]
-Seasonings = [
-  { "Celery Salt" = "ingredients/seasonings/celery-salt.md" },
-  { "Cinnamon Sugar" = "ingredients/seasonings/cinnamon-sugar.md" },
-  { "Doritos Popcorn" = "ingredients/seasonings/doritos-popcorn.md" },
-  { "Herbes de Provence" = "ingredients/seasonings/herbes-de-provence.md" },
-  { "Everything Bagel" = "ingredients/seasonings/everything-bagel.md" },
-  { "Italian Seasoning" = "ingredients/seasonings/italian-seasoning.md" },
-  { "Pizza Dough Seasoning" = "ingredients/seasonings/pizza-dough-seasoning.md" },
-  { "Pumpkin Pie Spice" = "ingredients/seasonings/pumpkin-pie-spice.md" },
-  { "Taco Seasoning" = "ingredients/seasonings/taco-seasoning.md" },
-  { "Umami Seasoning" = "ingredients/seasonings/umami-seasoning.md" },
-  { "Vegan Chicken-Less Seasoning Salt" = "ingredients/seasonings/vegan-chicken-less-seasoning-salt.md" },
-]
-
-[[project.nav.Ingredients]]
-Sponge = [
+  ] },
+  { "Pastry Dough" = [
+    { "All-Purpose Flaky Pastry Dough" = "ingredients/pastry-dough/all--purpose-flaky-pastry-dough.md" },
+    { "Basic Pastry" = "ingredients/pastry-dough/basic-pastry.md" },
+    { "Chocolate Biscuit" = "ingredients/pastry-dough/chocolate-biscuit.md" },
+    { "Danish Pastry" = "ingredients/pastry-dough/danish-pastry.md" },
+    { "Deluxe Butter Pastry" = "ingredients/pastry-dough/deluxe-butter-pastry.md" },
+    { "Dominique Ansel's Pâte à Choux" = "ingredients/pastry-dough/dominique-ansel's-pâte-à-choux.md" },
+    { "Empanada Pastry" = "ingredients/pastry-dough/empanada-pastry.md" },
+    { "Filo" = "ingredients/pastry-dough/filo.md" },
+    { "Flaky Olive Oil Dough" = "ingredients/pastry-dough/flaky-olive-oil-dough.md" },
+    { "Hot Water Crust" = "ingredients/pastry-dough/hot-water-crust.md" },
+    { "Pat-in-the-Pan Butter" = "ingredients/pastry-dough/pat-in-the-pan-butter-dough.md" },
+    { "Pat-in-the-Pan Shortbread" = "ingredients/pastry-dough/pat-in-the-pan-shortbread-dough.md" },
+    { "Pâte à Choux" = "ingredients/pastry-dough/pâte-à-choux.md" },
+    { "Pâte Brisée" = "ingredients/pastry-dough/pâte-brisée.md" },
+    { "Puff Pastry" = "ingredients/pastry-dough/puff-pastry.md" },
+    { "Rough Puff Pastry" = "ingredients/pastry-dough/rough-puff-pastry.md" },
+    { "Sweet Pastry" = "ingredients/pastry-dough/sweet-pastry.md" },
+    { "Sweet Tart" = "ingredients/pastry-dough/sweet-tart.md" },
+    { "Vanilla Sablé Shell" = "ingredients/pastry-dough/vanilla-sablé-shell.md" },
+    { "Vegan Empanada Pastry" = "ingredients/pastry-dough/vegan-empanada-pastry.md" },
+  ] },
+  { "Post-Baking Glazes" = [
+    { "Dark Chocolate Mirror Glaze" = "ingredients/post-baking-glazes/dark-chocolate-mirror-glaze.md" },
+    { "Fruit Glaze (Nappage)" = "ingredients/post-baking-glazes/fruit-glaze-(nappage).md" },
+    { "Lemon Glaze" = "ingredients/post-baking-glazes/lemon-glaze.md" },
+    { "Milk Glaze" = "ingredients/post-baking-glazes/milk-glaze.md" },
+    { "Royal Icing" = "ingredients/post-baking-glazes/royal-icing.md" },
+  ] },
+  { "Seasonings" = [
+    { "Celery Salt" = "ingredients/seasonings/celery-salt.md" },
+    { "Cinnamon Sugar" = "ingredients/seasonings/cinnamon-sugar.md" },
+    { "Doritos Popcorn" = "ingredients/seasonings/doritos-popcorn.md" },
+    { "Herbes de Provence" = "ingredients/seasonings/herbes-de-provence.md" },
+    { "Everything Bagel" = "ingredients/seasonings/everything-bagel.md" },
+    { "Italian Seasoning" = "ingredients/seasonings/italian-seasoning.md" },
+    { "Pizza Dough Seasoning" = "ingredients/seasonings/pizza-dough-seasoning.md" },
+    { "Pumpkin Pie Spice" = "ingredients/seasonings/pumpkin-pie-spice.md" },
+    { "Taco Seasoning" = "ingredients/seasonings/taco-seasoning.md" },
+    { "Umami Seasoning" = "ingredients/seasonings/umami-seasoning.md" },
+    { "Vegan Chicken-Less Seasoning Salt" = "ingredients/seasonings/vegan-chicken-less-seasoning-salt.md" },
+  ] },
+  { "Sponge" = [
     { "Angel Food Cake" = "ingredients/sponge/angel-food-cake.md" },
     { "Chiffon Sponge" = "ingredients/sponge/chiffon-sponge.md" },
     { "French Sponge Cake (Biscuit)" = "ingredients/sponge/french-sponge-cake-(biscuit).md" },
     { "Genoise Sponge" = "ingredients/sponge/genoise-sponge.md" },
+  ] },
+  { "Tofu" = [
+    { "Preparation" = "ingredients/tofu/preparation.md" },
+    { "Air Fryer Tofu" = "ingredients/tofu/air-fryer-tofu.md" },
+    { "Baked Sriracha Tofu" = "ingredients/tofu/baked-sriracha-tofu.md" },
+    { "Crispy Baked Peanut Tofu" = "ingredients/tofu/crispy-baked-peanut-tofu.md" },
+    { "Crispy Baked Tofu Nuggets" = "ingredients/tofu/crispy-baked-tofu-nuggets.md" },
+    { "Crispy Baked Tofu with Italian Herbs" = "ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md" },
+    { "Orange Honey Tofu" = "ingredients/tofu/orange-honey-tofu.md" },
+    { "Pan-Fried Tofu" = "ingredients/tofu/pan-fried-tofu.md" },
+  ] },
+  { "Almond Cotija" = "ingredients/almond-cotija.md" },
+  { "Almond Flour" = "ingredients/almond-flour.md" },
+  { "Almond Paste" = "ingredients/almond-paste.md" },
+  { "Apple Butter" = "ingredients/apple-butter.md" },
+  { "Aquafaba" = "ingredients/aquafaba.md" },
+  { "Aquafaba Whipped Cream" = "ingredients/aquafaba-whipped-cream.md" },
+  { "Beurre Manié" = "ingredients/beurre-manié.md" },
+  { "Bisquick" = "ingredients/bisquick.md" },
+  { "Blanched Almonds" = "ingredients/blanched-almonds.md" },
+  { "Blueberry Syrup for Pancakes" = "ingredients/blueberry-syrup-for-pancakes.md" },
+  { "Bouquet Garni" = "ingredients/bouquet-garni.md" },
+  { "Breadcrumbs" = "ingredients/breadcrumbs.md" },
+  { "Brown Sugar" = "ingredients/brown-sugar.md" },
+  { "Buttermilk" = "ingredients/buttermilk.md" },
+  { "Candied Orange Peel" = "ingredients/candied-orange-peel.md" },
+  { "Caramelized Onions" = "ingredients/caramelized-onions.md" },
+  { "Chickpea Flour" = "ingredients/chickpea-flour.md" },
+  { "Chili Paste" = "ingredients/chili-paste.md" },
+  { "Coconut Bacon" = "ingredients/coconut-bacon.md" },
+  { "Confectioners' Sugar" = "ingredients/confectioners-sugar.md" },
+  { "Crème Fraîche" = "ingredients/crème-fraîche.md" },
+  { "Croutons" = "ingredients/croutons.md" },
+  { "Crumb Crust" = "ingredients/crumb-crust.md" },
+  { "Date Paste" = "ingredients/date-paste.md" },
+  { "Dry Roasted Peanuts" = "ingredients/dry-roasted-peanuts.md" },
+  { "Dulce de Leche" = "ingredients/dulce-de-leche.md" },
+  { "Evaporated Milk" = "ingredients/evaporated-milk.md" },
+  { "Fajita Veggies" = "ingredients/fajita-veggies.md" },
+  { "Flavored Sugars" = "ingredients/flavored-sugars.md" },
+  { "Frico Crumble" = "ingredients/frico-crumble.md" },
+  { "Graham Crackers" = "ingredients/graham-crackers.md" },
+  { "Grated Vegetable Shortening" = "ingredients/grated-vegetable-shortening.md" },
+  { "Honey Whipped Cream" = "ingredients/honey-whipped-cream.md" },
+  { "Ice Cream Cones" = "ingredients/ice-cream-cones.md" },
+  { "Jackfruit Mixiote" = "ingredients/jackfruit-mixiote.md" },
+  { "Jean Pierre's Vegetable Stock" = "ingredients/jean-pierre's-vegetable-stock.md" },
+  { "Lemon Curd" = "ingredients/lemon-curd.md" },
+  { "Marshmallow Fluff" = "ingredients/marshmallow-fluff.md" },
+  { "Mint Filling" = "ingredients/mint-filling.md" },
+  { "Mirepoix" = "ingredients/mirepoix.md" },
+  { "Miso Nori Paste" = "ingredients/miso-nori-paste.md" },
+  { "Mushroom Pastor" = "ingredients/mushroom-pastor.md" },
+  { "Nixtamal Nicoyan Corn Tortillas" = "ingredients/nixtamal-nicoyan-corn-tortillas.md" },
+  { "Onion Pique" = "ingredients/onion-pique.md" },
+  { "Onion Soup Mix" = "ingredients/onion-soup-mix.md" },
+  { "Oreo Pie Crust" = "ingredients/oreo-pie-crust.md" },
+  { "Pasta" = "ingredients/pasta.md" },
+  { "Peanut Butter" = "ingredients/peanut-butter.md" },
+  { "Pectin" = "ingredients/pectin.md" },
+  { "Pickled Carrots & Daikon" = "ingredients/pickled-carrots-and-daikon.md" },
+  { "Pizza Dough" = "ingredients/pizza-dough.md" },
+  { "Pumpkin Filling" = "ingredients/pumpkin-filling.md" },
+  { "Pumpkin Purée" = "ingredients/pumpkin-purée.md" },
+  { "Pumpkin Seed Parmesan" = "ingredients/pumpkin-seed-parmesan.md" },
+  { "Queso Fresco" = "ingredients/queso-fresco.md" },
+  { "Quick Mexican-Style Chorizo" = "ingredients/quick-mexican-style-chorizo.md" },
+  { "Quick Strawberry Jam" = "ingredients/quick-strawberry-jam.md" },
+  { "Ranch Dressing Mix" = "ingredients/ranch-dressing-mix.md" },
+  { "Rice Flour" = "ingredients/rice-flour.md" },
+  { "Ricotta" = "ingredients/ricotta.md" },
+  { "Roasted Garlic" = "ingredients/roasted-garlic.md" },
+  { "Roasted Red Peppers" = "ingredients/roasted-red-peppers.md" },
+  { "Roux" = "ingredients/roux.md" },
+  { "Sauerkraut" = "ingredients/sauerkraut.md" },
+  { "Scottish Oatmeal" = "ingredients/scottish-oatmeal.md" },
+  { "Simple Syrup" = "ingredients/simple-syrup.md" },
+  { "Sourdough Starter" = "ingredients/sourdough-starter.md" },
+  { "Stiff Sourdough Starter" = "ingredients/stiff-sourdough-starter.md" },
+  { "Strawberry Purée" = "ingredients/strawberry-purée.md" },
+  { "Streusel Crumble" = "ingredients/streusel-crumble.md" },
+  { "Sweetened Coconut Flakes" = "ingredients/sweetened-coconut-flakes.md" },
+  { "Sweetened Condensed Milk" = "ingredients/sweetened-condensed-milk.md" },
+  { "Sweetened Whipped Cream" = "ingredients/sweetened-whipped-cream.md" },
+  { "Toasted Nuts" = "ingredients/toasted-nuts.md" },
+  { "Tomato Paste" = "ingredients/tomato-paste.md" },
+  { "Vanilla Bean Cream" = "ingredients/vanilla-bean-cream.md" },
+  { "Vanilla Sugar" = "ingredients/vanilla-sugar.md" },
+  { "Vegan Marshmallows" = "ingredients/vegan-marshmallows.md" },
+  { "Vegan Parmesan" = "ingredients/vegan-parmesan.md" },
+  { "Vegan Veggie Ground Meat" = "ingredients/vegan-veggie-ground-meat.md" },
+  { "Vegetable Broth" = "ingredients/vegetable-broth.md" },
+  { "Yogurt" = "ingredients/yogurt.md" },
 ]
 
-[[project.nav.Ingredients]]
-Tofu = [
-  { "Preparation" = "ingredients/tofu/preparation.md" },
-  { "Air Fryer Tofu" = "ingredients/tofu/air-fryer-tofu.md" },
-  { "Baked Sriracha Tofu" = "ingredients/tofu/baked-sriracha-tofu.md" },
-  { "Crispy Baked Peanut Tofu" = "ingredients/tofu/crispy-baked-peanut-tofu.md" },
-  { "Crispy Baked Tofu Nuggets" = "ingredients/tofu/crispy-baked-tofu-nuggets.md" },
-  { "Crispy Baked Tofu with Italian Herbs" = "ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md" },
-  { "Orange Honey Tofu" = "ingredients/tofu/orange-honey-tofu.md" },
-  { "Pan-Fried Tofu" = "ingredients/tofu/pan-fried-tofu.md" },
+[[project.nav]]
+Italian = [
+  { "Baked Cream Cheese Spaghetti Casserole" = "italian/baked-cream-cheese-spaghetti-casserole.md" },
+  { "Butternut Squash and Sage Spaghetti" = "italian/butternut-squash-and-sage-spaghetti.md" },
+  { "Butternut Squash Pasta with Walnuts & Sage" = "italian/butternut-squash-pasta-with-walnuts-and-sage.md" },
+  { "Caprese Risoni" = "italian/caprese-risoni.md" },
+  { "Classic Margherita Pizza" = "italian/classic-margherita-pizza.md" },
+  { "Creamy Italian White Bean" = "italian/creamy-italian-white-bean.md" },
+  { "Creamy Mushroom Pasta" = "italian/creamy-mushroom-pasta.md" },
+  { "Easiest Ever Macaroni & Cheese" = "italian/easiest-ever-macaroni-&-cheese.md" },
+  { "Eggplant Parm Meatballs" = "italian/eggplant-parm-meatballs.md" },
+  { "Eggplant Parmesan Pasta" = "italian/eggplant-parmesan-pasta.md" },
+  { "Eggplant Parmigiana" = "italian/eggplant-parmigiana.md" },
+  { "Firecracker Chickpea Meatballs" = "italian/firecracker-chickpea-meatballs.md" },
+  { "Ginger Sesame Vegan Meatballs" = "italian/ginger-sesame-vegan-meatballs.md" },
+  { "Healthy Pasta with Pesto & Broccoli" = "italian/healthy-pasta-with-pesto-and-broccoli.md" },
+  { "Lemon & Pea Alfredo" = "italian/lemon-and-pea-alfredo.md" },
+  { "Light & Tender Potato Gnocchi with Sage Butter Sauce" = "italian/light-and-tender-potato-gnocchi-with-sage-butter-sauce.md" },
+  { "Jamie Oliver Ricotta Fritters" = "italian/jamie-oliver-ricotta-fritters.md" },
+  { "Macaroni & Cheese" = "italian/macaroni-&-cheese.md" },
+  { "Maria Agresta’s Gnocchi alla Cilentana" = "italian/maria-agresta’s-gnocchi-alla-cilentana.md" },
+  { "Mezza Luna Lasagna" = "italian/mezza-luna-lasagna.md" },
+  { "Mushroom Risotto" = "italian/mushroom-risotto.md" },
+  { "Olive Garden Fettuccine Alfredo" = "italian/olive-garden-fettuccine-alfredo.md" },
+  { "Pasta e Ceci (Pasta with Chickpeas)" = "italian/pasta-e-ceci-(pasta-with-chickpeas).md" },
+  { "Pasta Pomodoro" = "italian/pasta-pomodoro.md" },
+  { "Pasta with Burst Cherry Tomato Sauce" = "italian/pasta-with-burst-cherry-tomato-sauce.md" },
+  { "Pea Pesto Pasta with Dun-Dried Tomatoes & Arugula" = "italian/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.md" },
+  { "Penne Alla Vodka" = "italian/penne-alla-vodka.md" },
+  { "Potato Gnocchi" = "italian/potato-gnocchi.md" },
+  { "Risotto Milanese" = "italian/risotto-milanese.md" },
+  { "Spaghetti Aglio E Olio" = "italian/spaghetti-aglio-e-olio.md" },
+  { "Spaghetti All'Assassina" = "italian/spaghetti-all'assassina.md" },
+  { "Spaghetti Alla Puttanesca" = "italian/spaghetti-alla-puttanesca.md" },
+  { "Spinach & Ricotta Gnudi with Tomato Butter Sauce" = "italian/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.md" },
+  { "Spinach Lasagna" = "italian/spinach-lasagna.md" },
+  { "Summer Pesto Pasta" = "italian/summer-pesto-pasta.md" },
+  { "Trapani-Style Pasta" = "italian/trapani-style-pasta.md" },
+  { "White Pizza" = "italian/white-pizza.md" },
 ]
 
-[[project.nav.Ingredients]]
-"Almond Cotija" = "ingredients/almond-cotija.md"
-
-[[project.nav.Ingredients]]
-"Almond Flour" = "ingredients/almond-flour.md"
-
-[[project.nav.Ingredients]]
-"Almond Paste" = "ingredients/almond-paste.md"
-
-[[project.nav.Ingredients]]
-"Apple Butter" = "ingredients/apple-butter.md"
-
-[[project.nav.Ingredients]]
-"Aquafaba" = "ingredients/aquafaba.md"
-
-[[project.nav.Ingredients]]
-"Aquafaba Whipped Cream" = "ingredients/aquafaba-whipped-cream.md"
-
-[[project.nav.Ingredients]]
-"Beurre Manié" = "ingredients/beurre-manié.md"
-
-[[project.nav.Ingredients]]
-"Bisquick" = "ingredients/bisquick.md"
-
-[[project.nav.Ingredients]]
-"Blanched Almonds" = "ingredients/blanched-almonds.md"
-
-[[project.nav.Ingredients]]
-"Blueberry Syrup for Pancakes" = "ingredients/blueberry-syrup-for-pancakes.md"
-
-[[project.nav.Ingredients]]
-"Bouquet Garni" = "ingredients/bouquet-garni.md"
-
-[[project.nav.Ingredients]]
-"Breadcrumbs" = "ingredients/breadcrumbs.md"
-
-[[project.nav.Ingredients]]
-"Brown Sugar" = "ingredients/brown-sugar.md"
-
-[[project.nav.Ingredients]]
-"Buttermilk" = "ingredients/buttermilk.md"
-
-[[project.nav.Ingredients]]
-"Candied Orange Peel" = "ingredients/candied-orange-peel.md"
-
-[[project.nav.Ingredients]]
-"Caramelized Onions" = "ingredients/caramelized-onions.md"
-
-[[project.nav.Ingredients]]
-"Chickpea Flour" = "ingredients/chickpea-flour.md"
-
-[[project.nav.Ingredients]]
-"Chili Paste" = "ingredients/chili-paste.md"
-
-[[project.nav.Ingredients]]
-"Coconut Bacon" = "ingredients/coconut-bacon.md"
-
-[[project.nav.Ingredients]]
-"Confectioners' Sugar" = "ingredients/confectioners-sugar.md"
-
-[[project.nav.Ingredients]]
-"Crème Fraîche" = "ingredients/crème-fraîche.md"
-
-[[project.nav.Ingredients]]
-"Croutons" = "ingredients/croutons.md"
-
-[[project.nav.Ingredients]]
-"Crumb Crust" = "ingredients/crumb-crust.md"
-
-[[project.nav.Ingredients]]
-"Date Paste" = "ingredients/date-paste.md"
-
-[[project.nav.Ingredients]]
-"Dry Roasted Peanuts" = "ingredients/dry-roasted-peanuts.md"
-
-[[project.nav.Ingredients]]
-"Dulce de Leche" = "ingredients/dulce-de-leche.md"
-
-[[project.nav.Ingredients]]
-"Evaporated Milk" = "ingredients/evaporated-milk.md"
-
-[[project.nav.Ingredients]]
-"Fajita Veggies" = "ingredients/fajita-veggies.md"
-
-[[project.nav.Ingredients]]
-"Flavored Sugars" = "ingredients/flavored-sugars.md"
-
-[[project.nav.Ingredients]]
-"Frico Crumble" = "ingredients/frico-crumble.md"
-
-[[project.nav.Ingredients]]
-"Graham Crackers" = "ingredients/graham-crackers.md"
-
-[[project.nav.Ingredients]]
-"Grated Vegetable Shortening" = "ingredients/grated-vegetable-shortening.md"
-
-[[project.nav.Ingredients]]
-"Honey Whipped Cream" = "ingredients/honey-whipped-cream.md"
-
-[[project.nav.Ingredients]]
-"Ice Cream Cones" = "ingredients/ice-cream-cones.md"
-
-[[project.nav.Ingredients]]
-"Jackfruit Mixiote" = "ingredients/jackfruit-mixiote.md"
-
-[[project.nav.Ingredients]]
-"Jean Pierre's Vegetable Stock" = "ingredients/jean-pierre's-vegetable-stock.md"
-
-[[project.nav.Ingredients]]
-"Lemon Curd" = "ingredients/lemon-curd.md"
-
-[[project.nav.Ingredients]]
-"Marshmallow Fluff" = "ingredients/marshmallow-fluff.md"
-
-[[project.nav.Ingredients]]
-"Mint Filling" = "ingredients/mint-filling.md"
-
-[[project.nav.Ingredients]]
-"Mirepoix" = "ingredients/mirepoix.md"
-
-[[project.nav.Ingredients]]
-"Miso Nori Paste" = "ingredients/miso-nori-paste.md"
-
-[[project.nav.Ingredients]]
-"Mushroom Pastor" = "ingredients/mushroom-pastor.md"
-
-[[project.nav.Ingredients]]
-"Nixtamal Nicoyan Corn Tortillas" = "ingredients/nixtamal-nicoyan-corn-tortillas.md"
-
-[[project.nav.Ingredients]]
-"Onion Pique" = "ingredients/onion-pique.md"
-
-[[project.nav.Ingredients]]
-"Onion Soup Mix" = "ingredients/onion-soup-mix.md"
-
-[[project.nav.Ingredients]]
-"Oreo Pie Crust" = "ingredients/oreo-pie-crust.md"
-
-[[project.nav.Ingredients]]
-"Pasta" = "ingredients/pasta.md"
-
-[[project.nav.Ingredients]]
-"Peanut Butter" = "ingredients/peanut-butter.md"
-
-[[project.nav.Ingredients]]
-"Pectin" = "ingredients/pectin.md"
-
-[[project.nav.Ingredients]]
-"Pickled Carrots & Daikon" = "ingredients/pickled-carrots-and-daikon.md"
-
-[[project.nav.Ingredients]]
-"Pizza Dough" = "ingredients/pizza-dough.md"
-
-[[project.nav.Ingredients]]
-"Pumpkin Filling" = "ingredients/pumpkin-filling.md"
-
-[[project.nav.Ingredients]]
-"Pumpkin Purée" = "ingredients/pumpkin-purée.md"
-
-[[project.nav.Ingredients]]
-"Pumpkin Seed Parmesan" = "ingredients/pumpkin-seed-parmesan.md"
-
-[[project.nav.Ingredients]]
-"Queso Fresco" = "ingredients/queso-fresco.md"
-
-[[project.nav.Ingredients]]
-"Quick Mexican-Style Chorizo" = "ingredients/quick-mexican-style-chorizo.md"
-
-[[project.nav.Ingredients]]
-"Quick Strawberry Jam" = "ingredients/quick-strawberry-jam.md"
-
-[[project.nav.Ingredients]]
-"Ranch Dressing Mix" = "ingredients/ranch-dressing-mix.md"
-
-[[project.nav.Ingredients]]
-"Rice Flour" = "ingredients/rice-flour.md"
-
-[[project.nav.Ingredients]]
-"Ricotta" = "ingredients/ricotta.md"
-
-[[project.nav.Ingredients]]
-"Roasted Garlic" = "ingredients/roasted-garlic.md"
-
-[[project.nav.Ingredients]]
-"Roasted Red Peppers" = "ingredients/roasted-red-peppers.md"
-
-[[project.nav.Ingredients]]
-"Roux" = "ingredients/roux.md"
-
-[[project.nav.Ingredients]]
-"Sauerkraut" = "ingredients/sauerkraut.md"
-
-[[project.nav.Ingredients]]
-"Scottish Oatmeal" = "ingredients/scottish-oatmeal.md"
-
-[[project.nav.Ingredients]]
-"Simple Syrup" = "ingredients/simple-syrup.md"
-
-[[project.nav.Ingredients]]
-"Sourdough Starter" = "ingredients/sourdough-starter.md"
-
-[[project.nav.Ingredients]]
-"Stiff Sourdough Starter" = "ingredients/stiff-sourdough-starter.md"
-
-[[project.nav.Ingredients]]
-"Strawberry Purée" = "ingredients/strawberry-purée.md"
-
-[[project.nav.Ingredients]]
-"Streusel Crumble" = "ingredients/streusel-crumble.md"
-
-[[project.nav.Ingredients]]
-"Sweetened Coconut Flakes" = "ingredients/sweetened-coconut-flakes.md"
-
-[[project.nav.Ingredients]]
-"Sweetened Condensed Milk" = "ingredients/sweetened-condensed-milk.md"
-
-[[project.nav.Ingredients]]
-"Sweetened Whipped Cream" = "ingredients/sweetened-whipped-cream.md"
-
-[[project.nav.Ingredients]]
-"Toasted Nuts" = "ingredients/toasted-nuts.md"
-
-[[project.nav.Ingredients]]
-"Tomato Paste" = "ingredients/tomato-paste.md"
-
-[[project.nav.Ingredients]]
-"Vanilla Bean Cream" = "ingredients/vanilla-bean-cream.md"
-
-[[project.nav.Ingredients]]
-"Vanilla Sugar" = "ingredients/vanilla-sugar.md"
-
-[[project.nav.Ingredients]]
-"Vegan Marshmallows" = "ingredients/vegan-marshmallows.md"
-
-[[project.nav.Ingredients]]
-"Vegan Parmesan" = "ingredients/vegan-parmesan.md"
-
-[[project.nav.Ingredients]]
-"Vegan Veggie Ground Meat" = "ingredients/vegan-veggie-ground-meat.md"
-
-[[project.nav.Ingredients]]
-"Vegetable Broth" = "ingredients/vegetable-broth.md"
-
-[[project.nav.Ingredients]]
-"Yogurt" = "ingredients/yogurt.md"
+[[project.nav]]
+Lunches = [
+  { "Applied Grilled Cheese" = "lunches/applied-grilled-cheese.md" },
+  { "Bourbon Grilled Cheese" = "lunches/bourbon-grilled-cheese.md" },
+  { "Broccoli Salad" = "lunches/broccoli-salad.md" },
+  { "Brussels Sprout Melts" = "lunches/brussels-sprout-melts.md" },
+  { "Caprese Sandwich" = "lunches/caprese-sandwich.md" },
+  { "Carrot Dogs" = "lunches/carrot-dogs.md" },
+  { "Chickpea Sunflower Sandwich" = "lunches/chickpea-sunflower-sandwich.md" },
+  { "Cucumber Sandwich" = "lunches/cucumber-sandwich.md" },
+  { "Egg Salad Sandwich" = "lunches/egg-salad-sandwich.md" },
+  { "Green Goddess Caprese Melt" = "lunches/green-goddess-caprese-melt.md" },
+  { "Grilled Tomato Sandwich" = "lunches/grilled-tomato-sandwich.md" },
+  { "Open-Faced Cherry Tomato Ricotta Sandwich" = "lunches/open-faced-cherry-tomato-ricotta-sandwich.md" },
+  { "Perfect Chickpea Salad" = "lunches/perfect-chickpea-salad.md" },
+  { "Potato Meets Egg Salad" = "lunches/potato-meets-egg-salad.md" },
+  { "Quick Couscous Chickpea Salad" = "lunches/quick-couscous-chickpea-salad.md" },
+  { "Romesco Wrap" = "lunches/romesco-wrap.md" },
+  { "Sonoran Salad" = "lunches/sonoran-salad.md" },
+  { "Superfood Power Bowl" = "lunches/superfood-power-bowl.md" },
+  { "Sweet Potato Chickpea Buddha Bowl" = "lunches/sweet-potato-chickpea-buddha-bowl.md" },
+  { "Vegetarian Corn Dogs" = "lunches/vegetarian-corn-dogs.md" },
+  { "Veggie Rainbow Wrap" = "lunches/veggie-rainbow-wrap.md" },
+  { "Watercress Egg Salad Tea Sandwich" = "lunches/watercress-egg-salad-tea-sandwich.md" },
+]
 
 [[project.nav]]
-
-[[project.nav.Italian]]
-"Baked Cream Cheese Spaghetti Casserole" = "italian/baked-cream-cheese-spaghetti-casserole.md"
-
-[[project.nav.Italian]]
-"Butternut Squash and Sage Spaghetti" = "italian/butternut-squash-and-sage-spaghetti.md"
-
-[[project.nav.Italian]]
-"Butternut Squash Pasta with Walnuts & Sage" = "italian/butternut-squash-pasta-with-walnuts-and-sage.md"
-
-[[project.nav.Italian]]
-"Caprese Risoni" = "italian/caprese-risoni.md"
-
-[[project.nav.Italian]]
-"Classic Margherita Pizza" = "italian/classic-margherita-pizza.md"
-
-[[project.nav.Italian]]
-"Creamy Italian White Bean" = "italian/creamy-italian-white-bean.md"
-
-[[project.nav.Italian]]
-"Creamy Mushroom Pasta" = "italian/creamy-mushroom-pasta.md"
-
-[[project.nav.Italian]]
-"Easiest Ever Macaroni & Cheese" = "italian/easiest-ever-macaroni-&-cheese.md"
-
-[[project.nav.Italian]]
-"Eggplant Parm Meatballs" = "italian/eggplant-parm-meatballs.md"
-
-[[project.nav.Italian]]
-"Eggplant Parmesan Pasta" = "italian/eggplant-parmesan-pasta.md"
-
-[[project.nav.Italian]]
-"Eggplant Parmigiana" = "italian/eggplant-parmigiana.md"
-
-[[project.nav.Italian]]
-"Firecracker Chickpea Meatballs" = "italian/firecracker-chickpea-meatballs.md"
-
-[[project.nav.Italian]]
-"Ginger Sesame Vegan Meatballs" = "italian/ginger-sesame-vegan-meatballs.md"
-
-[[project.nav.Italian]]
-"Healthy Pasta with Pesto & Broccoli" = "italian/healthy-pasta-with-pesto-and-broccoli.md"
-
-[[project.nav.Italian]]
-"Lemon & Pea Alfredo" = "italian/lemon-and-pea-alfredo.md"
-
-[[project.nav.Italian]]
-"Light & Tender Potato Gnocchi with Sage Butter Sauce" = "italian/light-and-tender-potato-gnocchi-with-sage-butter-sauce.md"
-
-[[project.nav.Italian]]
-"Jamie Oliver Ricotta Fritters" = "italian/jamie-oliver-ricotta-fritters.md"
-
-[[project.nav.Italian]]
-"Macaroni & Cheese" = "italian/macaroni-&-cheese.md"
-
-[[project.nav.Italian]]
-"Maria Agresta’s Gnocchi alla Cilentana" = "italian/maria-agresta’s-gnocchi-alla-cilentana.md"
-
-[[project.nav.Italian]]
-"Mezza Luna Lasagna" = "italian/mezza-luna-lasagna.md"
-
-[[project.nav.Italian]]
-"Mushroom Risotto" = "italian/mushroom-risotto.md"
-
-[[project.nav.Italian]]
-"Olive Garden Fettuccine Alfredo" = "italian/olive-garden-fettuccine-alfredo.md"
-
-[[project.nav.Italian]]
-"Pasta e Ceci (Pasta with Chickpeas)" = "italian/pasta-e-ceci-(pasta-with-chickpeas).md"
-
-[[project.nav.Italian]]
-"Pasta Pomodoro" = "italian/pasta-pomodoro.md"
-
-[[project.nav.Italian]]
-"Pasta with Burst Cherry Tomato Sauce" = "italian/pasta-with-burst-cherry-tomato-sauce.md"
-
-[[project.nav.Italian]]
-"Pea Pesto Pasta with Dun-Dried Tomatoes & Arugula" = "italian/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.md"
-
-[[project.nav.Italian]]
-"Penne Alla Vodka" = "italian/penne-alla-vodka.md"
-
-[[project.nav.Italian]]
-"Potato Gnocchi" = "italian/potato-gnocchi.md"
-
-[[project.nav.Italian]]
-"Risotto Milanese" = "italian/risotto-milanese.md"
-
-[[project.nav.Italian]]
-"Spaghetti Aglio E Olio" = "italian/spaghetti-aglio-e-olio.md"
-
-[[project.nav.Italian]]
-"Spaghetti All'Assassina" = "italian/spaghetti-all'assassina.md"
-
-[[project.nav.Italian]]
-"Spaghetti Alla Puttanesca" = "italian/spaghetti-alla-puttanesca.md"
-
-[[project.nav.Italian]]
-"Spinach & Ricotta Gnudi with Tomato Butter Sauce" = "italian/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.md"
-
-[[project.nav.Italian]]
-"Spinach Lasagna" = "italian/spinach-lasagna.md"
-
-[[project.nav.Italian]]
-"Summer Pesto Pasta" = "italian/summer-pesto-pasta.md"
-
-[[project.nav.Italian]]
-"Trapani-Style Pasta" = "italian/trapani-style-pasta.md"
-
-[[project.nav.Italian]]
-"White Pizza" = "italian/white-pizza.md"
+Main = [
+  { "Baked Sweet Potatoes With Chili Beans" = "main/baked-sweet-potatoes-with-chili-beans.md" },
+  { "Cabbage & Sun-Dried Tomato Sauté" = "main/cabbage-and-sun-dried-tomato-sauté.md" },
+  { "Cowboy Quinoa Bake" = "main/cowboy-quinoa-bake.md" },
+  { "Crispy Chicken-less Sliders" = "main/crispy-chicken-less-sliders.md" },
+  { "Curry Chicken Pot Pie" = "main/curry-chicken-pot-pie.md" },
+  { "Fall Turkey Chili With Pumpkin" = "main/fall-turkey-chili-with-pumpkin.md" },
+  { "Fish-ish Tacos with Spicy Dill Slaw" = "main/fish-ish-tacos-with-spicy-dill-slaw.md" },
+  { "Fresh Fava Beans with Mint & Scallions" = "main/fresh-fava-beans-with-mint-and-scallions.md" },
+  { "Peruvian Burrito Bowl" = "main/peruvian-burrito-bowl.md" },
+  { "Potato Broccoli Casserole" = "main/potato-broccoli-casserole.md" },
+  { "Rice with Corned Beef" = "main/rice-with-corned-beef.md" },
+  { "Spicy Pumpkin Curry Pot Pie" = "main/spicy-pumpkin-curry-pot-pie.md" },
+  { "Vegan Salisbury Steak" = "main/vegan-salisbury-steak.md" },
+]
 
 [[project.nav]]
-
-[[project.nav.Lunches]]
-"Applied Grilled Cheese" = "lunches/applied-grilled-cheese.md"
-
-[[project.nav.Lunches]]
-"Bourbon Grilled Cheese" = "lunches/bourbon-grilled-cheese.md"
-
-[[project.nav.Lunches]]
-"Broccoli Salad" = "lunches/broccoli-salad.md"
-
-[[project.nav.Lunches]]
-"Brussels Sprout Melts" = "lunches/brussels-sprout-melts.md"
-
-[[project.nav.Lunches]]
-"Caprese Sandwich" = "lunches/caprese-sandwich.md"
-
-[[project.nav.Lunches]]
-"Carrot Dogs" = "lunches/carrot-dogs.md"
-
-[[project.nav.Lunches]]
-"Chickpea Sunflower Sandwich" = "lunches/chickpea-sunflower-sandwich.md"
-
-[[project.nav.Lunches]]
-"Cucumber Sandwich" = "lunches/cucumber-sandwich.md"
-
-[[project.nav.Lunches]]
-"Egg Salad Sandwich" = "lunches/egg-salad-sandwich.md"
-
-[[project.nav.Lunches]]
-"Green Goddess Caprese Melt" = "lunches/green-goddess-caprese-melt.md"
-
-[[project.nav.Lunches]]
-"Grilled Tomato Sandwich" = "lunches/grilled-tomato-sandwich.md"
-
-[[project.nav.Lunches]]
-"Open-Faced Cherry Tomato Ricotta Sandwich" = "lunches/open-faced-cherry-tomato-ricotta-sandwich.md"
-
-[[project.nav.Lunches]]
-"Perfect Chickpea Salad" = "lunches/perfect-chickpea-salad.md"
-
-[[project.nav.Lunches]]
-"Potato Meets Egg Salad" = "lunches/potato-meets-egg-salad.md"
-
-[[project.nav.Lunches]]
-"Quick Couscous Chickpea Salad" = "lunches/quick-couscous-chickpea-salad.md"
-
-[[project.nav.Lunches]]
-"Romesco Wrap" = "lunches/romesco-wrap.md"
-
-[[project.nav.Lunches]]
-"Sonoran Salad" = "lunches/sonoran-salad.md"
-
-[[project.nav.Lunches]]
-"Superfood Power Bowl" = "lunches/superfood-power-bowl.md"
-
-[[project.nav.Lunches]]
-"Sweet Potato Chickpea Buddha Bowl" = "lunches/sweet-potato-chickpea-buddha-bowl.md"
-
-[[project.nav.Lunches]]
-"Vegetarian Corn Dogs" = "lunches/vegetarian-corn-dogs.md"
-
-[[project.nav.Lunches]]
-"Veggie Rainbow Wrap" = "lunches/veggie-rainbow-wrap.md"
-
-[[project.nav.Lunches]]
-"Watercress Egg Salad Tea Sandwich" = "lunches/watercress-egg-salad-tea-sandwich.md"
+Mediterranean = [
+  { "Baked Feta with Chickpeas & Kale" = "mediterranean/baked-feta-with-chickpeas-and-kale.md" },
+  { "Balsamic Lentil Sauté" = "mediterranean/balsamic-lentil-sauté.md" },
+  { "Cook's Illustrated Horiatiki Salata (Greek Salad)" = "mediterranean/cook's-illustrated-horiatiki-salata-(greek-salad).md" },
+  { "Gordon Ramsay's Spicy Sausage Rice" = "mediterranean/gordon-ramsay's-spicy-sausage-rice.md" },
+  { "Greek Orzo Stuffed Red Peppers" = "mediterranean/greek-orzo-stuffed-red-peppers.md" },
+  { "Harissa Olive Oil-Braised Chickpeas & Fennel" = "mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md" },
+  { "Jeanie's Falafel" = "mediterranean/jeanie's-falafel.md" },
+  { "Lemon Garlic Orzo with Roasted Veggies" = "mediterranean/lemon-garlic-orzo-with-roasted-veggies.md" },
+  { "Mediterranean Coleslaw" = "mediterranean/mediterranean-coleslaw.md" },
+  { "Mediterranean-Inspired Orzo Pasta Salad" = "mediterranean/mediterranean-inspired-orzo-pasta-salad.md" },
+  { "Mediterranean Pasta Salad" = "mediterranean/mediterranean-pasta-salad.md" },
+  { "Mushroom & Walnut Bolognese" = "mediterranean/mushroom-and-walnut-bolognese.md" },
+  { "Saucy Moroccan-Spiced Lentils" = "mediterranean/saucy-moroccan-spiced-lentils.md" },
+  { "Scrambled Chickpea & Spinach Pitas" = "mediterranean/scrambled-chickpea-and-spinach-pitas.md" },
+  { "Spicy Red Lentil Curry" = "mediterranean/spicy-red-lentil-curry.md" },
+  { "Sprouted Kitchen Spring Noodles Artichokes & Lemons" = "mediterranean/sprouted-kitchen-spring-noodles-artichokes-and-lemons.md" },
+  { "Tomato Baked White Beans with Lemon Parsley Oil" = "mediterranean/tomato-baked-white-beans-with-lemon-parsley-oil.md" },
+  { "Vegetarian Paella" = "mediterranean/vegetarian-paella.md" },
+]
 
 [[project.nav]]
-
-[[project.nav.Main]]
-"Baked Sweet Potatoes With Chili Beans" = "main/baked-sweet-potatoes-with-chili-beans.md"
-
-[[project.nav.Main]]
-"Cabbage & Sun-Dried Tomato Sauté" = "main/cabbage-and-sun-dried-tomato-sauté.md"
-
-[[project.nav.Main]]
-"Cowboy Quinoa Bake" = "main/cowboy-quinoa-bake.md"
-
-[[project.nav.Main]]
-"Crispy Chicken-less Sliders" = "main/crispy-chicken-less-sliders.md"
-
-[[project.nav.Main]]
-"Curry Chicken Pot Pie" = "main/curry-chicken-pot-pie.md"
-
-[[project.nav.Main]]
-"Fall Turkey Chili With Pumpkin" = "main/fall-turkey-chili-with-pumpkin.md"
-
-[[project.nav.Main]]
-"Fish-ish Tacos with Spicy Dill Slaw" = "main/fish-ish-tacos-with-spicy-dill-slaw.md"
-
-[[project.nav.Main]]
-"Fresh Fava Beans with Mint & Scallions" = "main/fresh-fava-beans-with-mint-and-scallions.md"
-
-[[project.nav.Main]]
-"Peruvian Burrito Bowl" = "main/peruvian-burrito-bowl.md"
-
-[[project.nav.Main]]
-"Potato Broccoli Casserole" = "main/potato-broccoli-casserole.md"
-
-[[project.nav.Main]]
-"Rice with Corned Beef" = "main/rice-with-corned-beef.md"
-
-[[project.nav.Main]]
-"Spicy Pumpkin Curry Pot Pie" = "main/spicy-pumpkin-curry-pot-pie.md"
-
-[[project.nav.Main]]
-"Vegan Salisbury Steak" = "main/vegan-salisbury-steak.md"
-
-[[project.nav]]
-
-[[project.nav.Mediterranean]]
-"Baked Feta with Chickpeas & Kale" = "mediterranean/baked-feta-with-chickpeas-and-kale.md"
-
-[[project.nav.Mediterranean]]
-"Balsamic Lentil Sauté" = "mediterranean/balsamic-lentil-sauté.md"
-
-[[project.nav.Mediterranean]]
-"Cook's Illustrated Horiatiki Salata (Greek Salad)" = "mediterranean/cook's-illustrated-horiatiki-salata-(greek-salad).md"
-
-[[project.nav.Mediterranean]]
-"Gordon Ramsay's Spicy Sausage Rice" = "mediterranean/gordon-ramsay's-spicy-sausage-rice.md"
-
-[[project.nav.Mediterranean]]
-"Greek Orzo Stuffed Red Peppers" = "mediterranean/greek-orzo-stuffed-red-peppers.md"
-
-[[project.nav.Mediterranean]]
-"Harissa Olive Oil-Braised Chickpeas & Fennel" = "mediterranean/harissa-olive-oil-braised-chickpeas-and-fennel.md"
-
-[[project.nav.Mediterranean]]
-"Jeanie's Falafel" = "mediterranean/jeanie's-falafel.md"
-
-[[project.nav.Mediterranean]]
-"Lemon Garlic Orzo with Roasted Veggies" = "mediterranean/lemon-garlic-orzo-with-roasted-veggies.md"
-
-[[project.nav.Mediterranean]]
-"Mediterranean Coleslaw" = "mediterranean/mediterranean-coleslaw.md"
-
-[[project.nav.Mediterranean]]
-"Mediterranean-Inspired Orzo Pasta Salad" = "mediterranean/mediterranean-inspired-orzo-pasta-salad.md"
-
-[[project.nav.Mediterranean]]
-"Mediterranean Pasta Salad" = "mediterranean/mediterranean-pasta-salad.md"
-
-[[project.nav.Mediterranean]]
-"Mushroom & Walnut Bolognese" = "mediterranean/mushroom-and-walnut-bolognese.md"
-
-[[project.nav.Mediterranean]]
-"Saucy Moroccan-Spiced Lentils" = "mediterranean/saucy-moroccan-spiced-lentils.md"
-
-[[project.nav.Mediterranean]]
-"Scrambled Chickpea & Spinach Pitas" = "mediterranean/scrambled-chickpea-and-spinach-pitas.md"
-
-[[project.nav.Mediterranean]]
-"Spicy Red Lentil Curry" = "mediterranean/spicy-red-lentil-curry.md"
-
-[[project.nav.Mediterranean]]
-"Sprouted Kitchen Spring Noodles Artichokes & Lemons" = "mediterranean/sprouted-kitchen-spring-noodles-artichokes-and-lemons.md"
-
-[[project.nav.Mediterranean]]
-"Tomato Baked White Beans with Lemon Parsley Oil" = "mediterranean/tomato-baked-white-beans-with-lemon-parsley-oil.md"
-
-[[project.nav.Mediterranean]]
-"Vegetarian Paella" = "mediterranean/vegetarian-paella.md"
-
-[[project.nav]]
-
-[[project.nav.Mexican]]
-"Baked Black Bean Taquitos" = "mexican/baked-black-bean-taquitos.md"
-
-[[project.nav.Mexican]]
-"Black Bean Burritos" = "mexican/black-bean-burritos.md"
-
-[[project.nav.Mexican]]
-"Black Bean Burrito Bake" = "mexican/black-bean-burrito-bake.md"
-
-[[project.nav.Mexican]]
-"Black Bean, Corn, & Zucchini Enchiladas" = "mexican/black-bean-corn-and-zucchini-enchiladas.md"
-
-[[project.nav.Mexican]]
-"Black Bean Mole" = "mexican/black-bean-mole.md"
-
-[[project.nav.Mexican]]
-"Butternut Squash Tostadas" = "mexican/butternut-squash-tostadas.md"
-
-[[project.nav.Mexican]]
-"Calabaza & Onion Quesadillas" = "mexican/calabaza-and-onion-quesadillas.md"
-
-[[project.nav.Mexican]]
-"Cheesy Black Bean Quesadilla Triangles" = "mexican/cheesy-black-bean-quesadilla-triangles.md"
-
-[[project.nav.Mexican]]
-"Chile Relleno Casserole" = "mexican/chile-relleno-casserole.md"
-
-[[project.nav.Mexican]]
-"Chipotle Breakfast Tacos" = "mexican/chipotle-breakfast-tacos.md"
-
-[[project.nav.Mexican]]
-"Chipotle-Inspired Vegan Burrito Bowls" = "mexican/chipotle-inspired-vegan-burrito-bowls.md"
-
-[[project.nav.Mexican]]
-Empanadas = "mexican/empanadas.md"
-
-[[project.nav.Mexican]]
-"Enchiladas Verdes" = "mexican/enchiladas-verdes.md"
-
-[[project.nav.Mexican]]
-Escabeche = "mexican/escabeche.md"
-
-[[project.nav.Mexican]]
-Guacamole = "mexican/guacamole.md"
-
-[[project.nav.Mexican]]
-"Lentil Fajita Tacos with Zhoug Crema" = "mexican/lentil-fajita-tacos-with-zhoug-crema.md"
-
-[[project.nav.Mexican]]
-"Mexican Garbanzo Salad" = "mexican/mexican-garbanzo-salad.md"
-
-[[project.nav.Mexican]]
-"Potato Tacos" = "mexican/potato-tacos.md"
-
-[[project.nav.Mexican]]
-"Roasted Cauliflower Tacos with Chipotle Romesco" = "mexican/roasted-cauliflower-tacos-with-chipotle-romesco.md"
-
-[[project.nav.Mexican]]
-"Slow Cooker Black Bean Chili" = "mexican/slow-cooker-black-bean-chili.md"
-
-[[project.nav.Mexican]]
-"Soyrizo & Potato Empanadas" = "mexican/soyrizo-and-potato-empanadas.md"
-
-[[project.nav.Mexican]]
-"Sweet & Spicy Corncakes" = "mexican/sweet-and-spicy-corncakes.md"
-
-[[project.nav.Mexican]]
-"Sweet Potato Black Bean Enchiladas" = "mexican/sweet-potato-black-bean-enchiladas.md"
-
-[[project.nav.Mexican]]
-"Taco Bake" = "mexican/taco-bake.md"
-
-[[project.nav.Mexican]]
-"Taquito-lada Casserole" = "mexican/taquito-lada-casserole.md"
-
-[[project.nav.Mexican]]
-"Tijuana Torte" = "mexican/tijuana-torte.md"
-
-[[project.nav.Mexican]]
-"Tofu Tacos" = "mexican/tofu-tacos.md"
-
-[[project.nav.Mexican]]
-"Tostadas with Refried Black Beans & Pickled Cabbage & Onion" = "mexican/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.md"
-
-[[project.nav.Mexican]]
-"Vegetarian Tacos" = "mexican/vegetarian-tacos.md"
+Mexican = [
+  { "Baked Black Bean Taquitos" = "mexican/baked-black-bean-taquitos.md" },
+  { "Black Bean Burritos" = "mexican/black-bean-burritos.md" },
+  { "Black Bean Burrito Bake" = "mexican/black-bean-burrito-bake.md" },
+  { "Black Bean, Corn, & Zucchini Enchiladas" = "mexican/black-bean-corn-and-zucchini-enchiladas.md" },
+  { "Black Bean Mole" = "mexican/black-bean-mole.md" },
+  { "Butternut Squash Tostadas" = "mexican/butternut-squash-tostadas.md" },
+  { "Calabaza & Onion Quesadillas" = "mexican/calabaza-and-onion-quesadillas.md" },
+  { "Cheesy Black Bean Quesadilla Triangles" = "mexican/cheesy-black-bean-quesadilla-triangles.md" },
+  { "Chile Relleno Casserole" = "mexican/chile-relleno-casserole.md" },
+  { "Chipotle Breakfast Tacos" = "mexican/chipotle-breakfast-tacos.md" },
+  { "Chipotle-Inspired Vegan Burrito Bowls" = "mexican/chipotle-inspired-vegan-burrito-bowls.md" },
+  { "Empanadas" = "mexican/empanadas.md" },
+  { "Enchiladas Verdes" = "mexican/enchiladas-verdes.md" },
+  { "Escabeche" = "mexican/escabeche.md" },
+  { "Guacamole" = "mexican/guacamole.md" },
+  { "Lentil Fajita Tacos with Zhoug Crema" = "mexican/lentil-fajita-tacos-with-zhoug-crema.md" },
+  { "Mexican Garbanzo Salad" = "mexican/mexican-garbanzo-salad.md" },
+  { "Potato Tacos" = "mexican/potato-tacos.md" },
+  { "Roasted Cauliflower Tacos with Chipotle Romesco" = "mexican/roasted-cauliflower-tacos-with-chipotle-romesco.md" },
+  { "Slow Cooker Black Bean Chili" = "mexican/slow-cooker-black-bean-chili.md" },
+  { "Soyrizo & Potato Empanadas" = "mexican/soyrizo-and-potato-empanadas.md" },
+  { "Sweet & Spicy Corncakes" = "mexican/sweet-and-spicy-corncakes.md" },
+  { "Sweet Potato Black Bean Enchiladas" = "mexican/sweet-potato-black-bean-enchiladas.md" },
+  { "Taco Bake" = "mexican/taco-bake.md" },
+  { "Taquito-lada Casserole" = "mexican/taquito-lada-casserole.md" },
+  { "Tijuana Torte" = "mexican/tijuana-torte.md" },
+  { "Tofu Tacos" = "mexican/tofu-tacos.md" },
+  { "Tostadas with Refried Black Beans & Pickled Cabbage & Onion" = "mexican/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.md" },
+  { "Vegetarian Tacos" = "mexican/vegetarian-tacos.md" },
+]
 
 [[project.nav]]
 "Pressure Cooker" = [
-    { "Black Beans" = "pressurecooker/black-beans.md" },
-    { "Brown Rice" = "pressurecooker/brown-rice.md" },
-    { "Chickpeas" = "pressurecooker/chickpeas.md" },
-    { "Refried Black Beans" = "pressurecooker/refried-black-beans.md" },
+  { "Black Beans" = "pressurecooker/black-beans.md" },
+  { "Brown Rice" = "pressurecooker/brown-rice.md" },
+  { "Chickpeas" = "pressurecooker/chickpeas.md" },
+  { "Refried Black Beans" = "pressurecooker/refried-black-beans.md" },
 ]
 
 [[project.nav]]
-
-[[project.nav."Sauces & Dressings"]]
-"5 Mother Sauces" = [
+"Sauces & Dressings" = [
+  { "5 Mother Sauces" = [
     { "Béchamel" = "sauces-and-dressings/5-mother-sauces/béchamel.md" },
     { "Espagnole" = "sauces-and-dressings/5-mother-sauces/espagnole.md" },
     { "Hollandaise" = "sauces-and-dressings/5-mother-sauces/hollandaise.md" },
     { "Tomate" = "sauces-and-dressings/5-mother-sauces/tomate.md" },
     { "Velouté" = "sauces-and-dressings/5-mother-sauces/velouté.md" },
+  ] },
+  { "Pesto" = [
+    { "Balsamic Pesto" = "sauces-and-dressings/pesto/balsamic-pesto.md" },
+    { "Basic Pesto" = "sauces-and-dressings/pesto/basic-pesto.md" },
+    { "Broccoli Pesto" = "sauces-and-dressings/pesto/broccoli-pesto.md" },
+    { "Cilantro Almond Pesto" = "sauces-and-dressings/pesto/cilantro-almond-pesto.md" },
+    { "Cook's Country Perfect Pesto" = "sauces-and-dressings/pesto/cook's-country-perfect-pesto.md" },
+    { "Jalapeño Lime Pesto" = "sauces-and-dressings/pesto/jalapeño-lime-pesto.md" },
+    { "Joy of Cooking Pesto" = "sauces-and-dressings/pesto/joy-of-cooking-pesto.md" },
+    { "Lemon Arugula Pesto" = "sauces-and-dressings/pesto/lemon-arugula-pesto.md" },
+    { "Lemon-Pepper Parsley Pesto" = "sauces-and-dressings/pesto/lemon-pepper-parsley-pesto.md" },
+    { "Mascarpone Pesto" = "sauces-and-dressings/pesto/mascarpone-pesto.md" },
+    { "Sun-Dried Tomato Pesto" = "sauces-and-dressings/pesto/sun-dried-tomato-pesto.md" },
+  ] },
+  { "Aaron Combs' Salsa" = "sauces-and-dressings/aaron-combs'-salsa.md" },
+  { "Adobo Sauce" = "sauces-and-dressings/adobo-sauce.md" },
+  { "A Very Popular BBQ Sauce" = "sauces-and-dressings/a-very-popular-bbq-sauce.md" },
+  { "Aji Verde" = "sauces-and-dressings/aji-verde.md" },
+  { "Alfredo Sauce" = "sauces-and-dressings/alfredo-sauce.md" },
+  { "All-Purpose Vinaigrette" = "sauces-and-dressings/all-purpose-vinaigrette.md" },
+  { "Asian Sweet & Sour Sauce" = "sauces-and-dressings/asian-sweet-and-sour-sauce.md" },
+  { "Balsamic Onion Jam" = "sauces-and-dressings/balsamic-onion-jam.md" },
+  { "Beet Hummus" = "sauces-and-dressings/beet-hummus.md" },
+  { "Benedictine Sandwich Spread" = "sauces-and-dressings/benedictine-sandwich-spread.md" },
+  { "Berry Sauce" = "sauces-and-dressings/berry-sauce.md" },
+  { "Blue Cheese Herb Spread" = "sauces-and-dressings/blue-cheese-herb-spread.md" },
+  { "Broccoli Salad Dressing" = "sauces-and-dressings/broccoli-salad-dressing.md" },
+  { "Buffalo Sauce" = "sauces-and-dressings/buffalo-sauce.md" },
+  { "Butternut Squash Sauce" = "sauces-and-dressings/butternut-squash-sauce.md" },
+  { "Carrot-Tamarind Chutney" = "sauces-and-dressings/carrot-tamarind-chutney.md" },
+  { "Cashew Chipotle Ranch Dressing" = "sauces-and-dressings/cashew-chipotle-ranch-dressing.md" },
+  { "Cashew Crema" = "sauces-and-dressings/cashew-crema.md" },
+  { "Cashew Nacho Cheese" = "sauces-and-dressings/cashew-nacho-cheese.md" },
+  { "Cashew Queso Blanco" = "sauces-and-dressings/cashew-queso-blanco.md" },
+  { "Chilero Hot Sauce" = "sauces-and-dressings/chilero-hot-sauce.md" },
+  { "Chimichurri" = "sauces-and-dressings/chimichurri.md" },
+  { "Chipotle Mayonnaise" = "sauces-and-dressings/chipotle-mayonnaise.md" },
+  { "Chipotle Ranch Dressing" = "sauces-and-dressings/chipotle-ranch-dressing.md" },
+  { "Cilantro Dressing" = "sauces-and-dressings/cilantro-dressing.md" },
+  { "Citrus Honey Dressing" = "sauces-and-dressings/citrus-honey-dressing.md" },
+  { "Claire's Five-Onion Dip" = "sauces-and-dressings/claire's-five-onion-dip.md" },
+  { "Classic Mustard" = "sauces-and-dressings/classic-mustard.md" },
+  { "Classic Tartar Sauce" = "sauces-and-dressings/classic-tartar-sauce.md" },
+  { "Creamy Cilantro Dressing" = "sauces-and-dressings/creamy-cilantro-dressing.md" },
+  { "Creamy Vegan Cheese Sauce" = "sauces-and-dressings/creamy-vegan-cheese-sauce.md" },
+  { "Crème Anglaise" = "sauces-and-dressings/crème-anglaise.md" },
+  { "Dijon Mustard" = "sauces-and-dressings/dijon-mustard.md" },
+  { "Edamame Hummus" = "sauces-and-dressings/edamame-hummus.md" },
+  { "Enchilada Sauce" = "sauces-and-dressings/enchilada-sauce.md" },
+  { "French Dressing" = "sauces-and-dressings/french-dressing.md" },
+  { "Garlic Aioli" = "sauces-and-dressings/garlic-aioli.md" },
+  { "Green Goddess Dressing" = "sauces-and-dressings/green-goddess-dressing.md" },
+  { "Hearts of Palm Ceviche" = "sauces-and-dressings/hearts-of-palm-ceviche.md" },
+  { "Homemade Ranch Dip" = "sauces-and-dressings/homemade-ranch-dip.md" },
+  { "Honey Mustard Dipping Sauce" = "sauces-and-dressings/honey-mustard-dipping-sauce.md" },
+  { "Honey Mustard Vinaigrette" = "sauces-and-dressings/honey-mustard-vinaigrette.md" },
+  { "Hot Fudge Sauce" = "sauces-and-dressings/hot-fudge-sauce.md" },
+  { "Hummus" = "sauces-and-dressings/hummus.md" },
+  { "Hummus-Orange Juice Dressing" = "sauces-and-dressings/hummus-orange-juice-dressing.md" },
+  { "Ina Garten's Perfect Vinaigrette" = "sauces-and-dressings/ina-garten's-perfect-vinaigrette.md" },
+  { "Italian Vinaigrette" = "sauces-and-dressings/italian-vinaigrette.md" },
+  { "Jane's 3, 2, 1 Salad Dressing" = "sauces-and-dressings/jane's-3,-2,-1-salad-dressing.md" },
+  { "Lebanese Garlic Sauce (Toum)" = "sauces-and-dressings/lebanese-garlic-sauce-(toum).md" },
+  { "Magnolia Ranchero Sauce" = "sauces-and-dressings/magnolia-ranchero-sauce.md" },
+  { "Marinara Sauce" = "sauces-and-dressings/marinara-sauce.md" },
+  { "Mayonnaise" = "sauces-and-dressings/mayonnaise.md" },
+  { "Mexicrema Dressing" = "sauces-and-dressings/mexicrema-dressing.md" },
+  { "Miso Glaze" = "sauces-and-dressings/miso-glaze.md" },
+  { "Mixed Berry Coulis" = "sauces-and-dressings/mixed-berry-coulis.md" },
+  { "Mushroom Gravy" = "sauces-and-dressings/mushroom-gravy.md" },
+  { "Mushroom Sauce" = "sauces-and-dressings/mushroom-sauce.md" },
+  { "New York-Style Pizza Sauce" = "sauces-and-dressings/new-york-style-pizza-sauce.md" },
+  { "New York Times' Classic Marinara Sauce" = "sauces-and-dressings/new-york-times'-classic-marinara-sauce.md" },
+  { "Oil-Free Easy French Hummus Dressing" = "sauces-and-dressings/oil-free-easy-french-hummus-dressing.md" },
+  { "Oil-Free Hummus" = "sauces-and-dressings/oil-free-hummus.md" },
+  { "Orange Juice-Lime Salad Dressing" = "sauces-and-dressings/orange-juice-lime-salad-dressing.md" },
+  { "Peanut Dipping Sauce" = "sauces-and-dressings/peanut-dipping-sauce.md" },
+  { "Persian Yogurt Dip with Shallots (Mast-O Musir)" = "sauces-and-dressings/persian-yogurt-dip-with-shallots-(mast-o-musir).md" },
+  { "Pumpkin Curry Sauce" = "sauces-and-dressings/pumpkin-curry-sauce.md" },
+  { "Pumpkin Seed Salsa" = "sauces-and-dressings/pumpkin-seed-salsa.md" },
+  { "Ranch Dip" = "sauces-and-dressings/ranch-dip.md" },
+  { "Ranch Dressing" = "sauces-and-dressings/ranch-dressing.md" },
+  { "Red Wine Vinaigrette" = "sauces-and-dressings/red-wine-vinaigrette.md" },
+  { "Rip's Salad Dressing" = "sauces-and-dressings/rip's-salad-dressing.md" },
+  { "Roasted Garlic Hummus" = "sauces-and-dressings/roasted-garlic-hummus.md" },
+  { "Roasted Red Pepper Coulis" = "sauces-and-dressings/roasted-red-pepper-coulis.md" },
+  { "Roasted Red Pepper Dressing" = "sauces-and-dressings/roasted-red-pepper-dressing.md" },
+  { "Roasted Red Pepper Sauce" = "sauces-and-dressings/roasted-red-pepper-sauce.md" },
+  { "Salsa Brava" = "sauces-and-dressings/salsa-brava.md" },
+  { "Salsa Fresca (Pico de Gallo)" = "sauces-and-dressings/salsa-fresca-(pico-de-gallo).md" },
+  { "Salsa Macha" = "sauces-and-dressings/salsa-macha.md" },
+  { "Salsa Negra" = "sauces-and-dressings/salsa-negra.md" },
+  { "Salsa Ranchera" = "sauces-and-dressings/salsa-ranchera.md" },
+  { "Salsa Roja" = "sauces-and-dressings/salsa-roja.md" },
+  { "Salsa Verde" = "sauces-and-dressings/salsa-verde.md" },
+  { "Salted Caramel Sauce" = "sauces-and-dressings/salted-caramel-sauce.md" },
+  { "Simple Barbecue Sauce" = "sauces-and-dressings/simple-barbecue-sauce.md" },
+  { "Simple Berry Compote" = "sauces-and-dressings/simple-berry-compote.md" },
+  { "Simple Tartar Sauce" = "sauces-and-dressings/simple-tartar-sauce.md" },
+  { "Single Jar of Fruit Jam" = "sauces-and-dressings/single-jar-of-fruit-jam.md" },
+  { "Spaghetti Sauce" = "sauces-and-dressings/spaghetti-sauce.md" },
+  { "Special Sauce for Burgers" = "sauces-and-dressings/special-sauce-for-burgers.md" },
+  { "Spicy Vegan Mayo" = "sauces-and-dressings/spicy-vegan-mayo.md" },
+  { "Spinach Dip" = "sauces-and-dressings/spinach-dip.md" },
+  { "Strawberry Tarragon Dressing" = "sauces-and-dressings/strawberry-tarragon-dressing.md" },
+  { "Sumac Lemon Vinaigrette" = "sauces-and-dressings/sumac-lemon-vinaigrette.md" },
+  { "Sweet-and-Spicy Ketchup" = "sauces-and-dressings/sweet-and-spicy-ketchup.md" },
+  { "Sweet-and-Spicy Corn Salsa" = "sauces-and-dressings/sweet-and-spicy-corn-salsa.md" },
+  { "Tahini" = "sauces-and-dressings/tahini.md" },
+  { "The Soyfoods Council Chimichurri" = "sauces-and-dressings/the-soyfoods-council-chimichurri.md" },
+  { "Tofu Mayonnaise" = "sauces-and-dressings/tofu-mayonnaise.md" },
+  { "Tomato Bruschetta" = "sauces-and-dressings/tomato-bruschetta.md" },
+  { "Tomato Ragu" = "sauces-and-dressings/tomato-ragu.md" },
+  { "Tomato Sauce" = "sauces-and-dressings/tomato-sauce.md" },
+  { "Tzatziki Dip" = "sauces-and-dressings/tzatziki-dip.md" },
+  { "Tzatziki Sauce" = "sauces-and-dressings/tzatziki-sauce.md" },
+  { "Vegan Caesar Dressing" = "sauces-and-dressings/vegan-caesar-dressing.md" },
+  { "Vegan Chipotle Ranch Dressing" = "sauces-and-dressings/vegan-chipotle-ranch-dressing.md" },
+  { "Vegan Ranch Dressing" = "sauces-and-dressings/vegan-ranch-dressing.md" },
+  { "Vegan Sour Cream" = "sauces-and-dressings/vegan-sour-cream.md" },
+  { "Vegetarian Sausage Gravy" = "sauces-and-dressings/vegetarian-sausage-gravy.md" },
+  { "Vinaigrette" = "sauces-and-dressings/vinaigrette.md" },
+  { "Whipped Almond Ricotta" = "sauces-and-dressings/whipped-almond-ricotta.md" },
+  { "White Mac & Cheese Sauce" = "sauces-and-dressings/white-mac-and-cheese-sauce.md" },
 ]
 
-[[project.nav."Sauces & Dressings"]]
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Balsamic Pesto" = "sauces-and-dressings/pesto/balsamic-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Basic Pesto" = "sauces-and-dressings/pesto/basic-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Broccoli Pesto" = "sauces-and-dressings/pesto/broccoli-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Cilantro Almond Pesto" = "sauces-and-dressings/pesto/cilantro-almond-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Cook's Country Perfect Pesto" = "sauces-and-dressings/pesto/cook's-country-perfect-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Jalapeño Lime Pesto" = "sauces-and-dressings/pesto/jalapeño-lime-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Joy of Cooking Pesto" = "sauces-and-dressings/pesto/joy-of-cooking-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Lemon Arugula Pesto" = "sauces-and-dressings/pesto/lemon-arugula-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Lemon-Pepper Parsley Pesto" = "sauces-and-dressings/pesto/lemon-pepper-parsley-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Mascarpone Pesto" = "sauces-and-dressings/pesto/mascarpone-pesto.md"
-
-[[project.nav."Sauces & Dressings".Pesto]]
-"Sun-Dried Tomato Pesto" = "sauces-and-dressings/pesto/sun-dried-tomato-pesto.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Aaron Combs' Salsa" = "sauces-and-dressings/aaron-combs'-salsa.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Adobo Sauce" = "sauces-and-dressings/adobo-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"A Very Popular BBQ Sauce" = "sauces-and-dressings/a-very-popular-bbq-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Aji Verde" = "sauces-and-dressings/aji-verde.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Alfredo Sauce" = "sauces-and-dressings/alfredo-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"All-Purpose Vinaigrette" = "sauces-and-dressings/all-purpose-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Asian Sweet & Sour Sauce" = "sauces-and-dressings/asian-sweet-and-sour-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Balsamic Onion Jam" = "sauces-and-dressings/balsamic-onion-jam.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Beet Hummus" = "sauces-and-dressings/beet-hummus.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Benedictine Sandwich Spread" = "sauces-and-dressings/benedictine-sandwich-spread.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Berry Sauce" = "sauces-and-dressings/berry-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Blue Cheese Herb Spread" = "sauces-and-dressings/blue-cheese-herb-spread.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Broccoli Salad Dressing" = "sauces-and-dressings/broccoli-salad-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Buffalo Sauce" = "sauces-and-dressings/buffalo-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Butternut Squash Sauce" = "sauces-and-dressings/butternut-squash-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Carrot-Tamarind Chutney" = "sauces-and-dressings/carrot-tamarind-chutney.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Cashew Chipotle Ranch Dressing" = "sauces-and-dressings/cashew-chipotle-ranch-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Cashew Crema" = "sauces-and-dressings/cashew-crema.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Cashew Nacho Cheese" = "sauces-and-dressings/cashew-nacho-cheese.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Cashew Queso Blanco" = "sauces-and-dressings/cashew-queso-blanco.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Chilero Hot Sauce" = "sauces-and-dressings/chilero-hot-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-Chimichurri = "sauces-and-dressings/chimichurri.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Chipotle Mayonnaise" = "sauces-and-dressings/chipotle-mayonnaise.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Chipotle Ranch Dressing" = "sauces-and-dressings/chipotle-ranch-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Cilantro Dressing" = "sauces-and-dressings/cilantro-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Citrus Honey Dressing" = "sauces-and-dressings/citrus-honey-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Claire's Five-Onion Dip" = "sauces-and-dressings/claire's-five-onion-dip.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Classic Mustard" = "sauces-and-dressings/classic-mustard.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Classic Tartar Sauce" = "sauces-and-dressings/classic-tartar-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Creamy Cilantro Dressing" = "sauces-and-dressings/creamy-cilantro-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Creamy Vegan Cheese Sauce" = "sauces-and-dressings/creamy-vegan-cheese-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Crème Anglaise" = "sauces-and-dressings/crème-anglaise.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Dijon Mustard" = "sauces-and-dressings/dijon-mustard.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Edamame Hummus" = "sauces-and-dressings/edamame-hummus.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Enchilada Sauce" = "sauces-and-dressings/enchilada-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"French Dressing" = "sauces-and-dressings/french-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Garlic Aioli" = "sauces-and-dressings/garlic-aioli.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Green Goddess Dressing" = "sauces-and-dressings/green-goddess-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Hearts of Palm Ceviche" = "sauces-and-dressings/hearts-of-palm-ceviche.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Homemade Ranch Dip" = "sauces-and-dressings/homemade-ranch-dip.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Honey Mustard Dipping Sauce" = "sauces-and-dressings/honey-mustard-dipping-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Honey Mustard Vinaigrette" = "sauces-and-dressings/honey-mustard-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Hot Fudge Sauce" = "sauces-and-dressings/hot-fudge-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-Hummus = "sauces-and-dressings/hummus.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Hummus-Orange Juice Dressing" = "sauces-and-dressings/hummus-orange-juice-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Ina Garten's Perfect Vinaigrette" = "sauces-and-dressings/ina-garten's-perfect-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Italian Vinaigrette" = "sauces-and-dressings/italian-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Jane's 3, 2, 1 Salad Dressing" = "sauces-and-dressings/jane's-3,-2,-1-salad-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Lebanese Garlic Sauce (Toum)" = "sauces-and-dressings/lebanese-garlic-sauce-(toum).md"
-
-[[project.nav."Sauces & Dressings"]]
-"Magnolia Ranchero Sauce" = "sauces-and-dressings/magnolia-ranchero-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Marinara Sauce" = "sauces-and-dressings/marinara-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-Mayonnaise = "sauces-and-dressings/mayonnaise.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Mexicrema Dressing" = "sauces-and-dressings/mexicrema-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Miso Glaze" = "sauces-and-dressings/miso-glaze.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Mixed Berry Coulis" = "sauces-and-dressings/mixed-berry-coulis.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Mushroom Gravy" = "sauces-and-dressings/mushroom-gravy.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Mushroom Sauce" = "sauces-and-dressings/mushroom-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"New York-Style Pizza Sauce" = "sauces-and-dressings/new-york-style-pizza-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"New York Times' Classic Marinara Sauce" = "sauces-and-dressings/new-york-times'-classic-marinara-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Oil-Free Easy French Hummus Dressing" = "sauces-and-dressings/oil-free-easy-french-hummus-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Oil-Free Hummus" = "sauces-and-dressings/oil-free-hummus.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Orange Juice-Lime Salad Dressing" = "sauces-and-dressings/orange-juice-lime-salad-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Peanut Dipping Sauce" = "sauces-and-dressings/peanut-dipping-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Persian Yogurt Dip with Shallots (Mast-O Musir)" = "sauces-and-dressings/persian-yogurt-dip-with-shallots-(mast-o-musir).md"
-
-[[project.nav."Sauces & Dressings"]]
-"Pumpkin Curry Sauce" = "sauces-and-dressings/pumpkin-curry-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Pumpkin Seed Salsa" = "sauces-and-dressings/pumpkin-seed-salsa.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Ranch Dip" = "sauces-and-dressings/ranch-dip.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Ranch Dressing" = "sauces-and-dressings/ranch-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Red Wine Vinaigrette" = "sauces-and-dressings/red-wine-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Rip's Salad Dressing" = "sauces-and-dressings/rip's-salad-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Roasted Garlic Hummus" = "sauces-and-dressings/roasted-garlic-hummus.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Roasted Red Pepper Coulis" = "sauces-and-dressings/roasted-red-pepper-coulis.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Roasted Red Pepper Dressing" = "sauces-and-dressings/roasted-red-pepper-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Roasted Red Pepper Sauce" = "sauces-and-dressings/roasted-red-pepper-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Brava" = "sauces-and-dressings/salsa-brava.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Fresca (Pico de Gallo)" = "sauces-and-dressings/salsa-fresca-(pico-de-gallo).md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Macha" = "sauces-and-dressings/salsa-macha.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Negra" = "sauces-and-dressings/salsa-negra.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Ranchera" = "sauces-and-dressings/salsa-ranchera.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Roja" = "sauces-and-dressings/salsa-roja.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salsa Verde" = "sauces-and-dressings/salsa-verde.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Salted Caramel Sauce" = "sauces-and-dressings/salted-caramel-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Simple Barbecue Sauce" = "sauces-and-dressings/simple-barbecue-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Simple Berry Compote" = "sauces-and-dressings/simple-berry-compote.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Simple Tartar Sauce" = "sauces-and-dressings/simple-tartar-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Single Jar of Fruit Jam" = "sauces-and-dressings/single-jar-of-fruit-jam.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Spaghetti Sauce" = "sauces-and-dressings/spaghetti-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Special Sauce for Burgers" = "sauces-and-dressings/special-sauce-for-burgers.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Spicy Vegan Mayo" = "sauces-and-dressings/spicy-vegan-mayo.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Spinach Dip" = "sauces-and-dressings/spinach-dip.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Strawberry Tarragon Dressing" = "sauces-and-dressings/strawberry-tarragon-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Sumac Lemon Vinaigrette" = "sauces-and-dressings/sumac-lemon-vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Sweet-and-Spicy Ketchup" = "sauces-and-dressings/sweet-and-spicy-ketchup.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Sweet-and-Spicy Corn Salsa" = "sauces-and-dressings/sweet-and-spicy-corn-salsa.md"
-
-[[project.nav."Sauces & Dressings"]]
-Tahini = "sauces-and-dressings/tahini.md"
-
-[[project.nav."Sauces & Dressings"]]
-"The Soyfoods Council Chimichurri" = "sauces-and-dressings/the-soyfoods-council-chimichurri.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tofu Mayonnaise" = "sauces-and-dressings/tofu-mayonnaise.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tomato Bruschetta" = "sauces-and-dressings/tomato-bruschetta.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tomato Ragu" = "sauces-and-dressings/tomato-ragu.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tomato Sauce" = "sauces-and-dressings/tomato-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tzatziki Dip" = "sauces-and-dressings/tzatziki-dip.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Tzatziki Sauce" = "sauces-and-dressings/tzatziki-sauce.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Vegan Caesar Dressing" = "sauces-and-dressings/vegan-caesar-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Vegan Chipotle Ranch Dressing" = "sauces-and-dressings/vegan-chipotle-ranch-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Vegan Ranch Dressing" = "sauces-and-dressings/vegan-ranch-dressing.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Vegan Sour Cream" = "sauces-and-dressings/vegan-sour-cream.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Vegetarian Sausage Gravy" = "sauces-and-dressings/vegetarian-sausage-gravy.md"
-
-[[project.nav."Sauces & Dressings"]]
-Vinaigrette = "sauces-and-dressings/vinaigrette.md"
-
-[[project.nav."Sauces & Dressings"]]
-"Whipped Almond Ricotta" = "sauces-and-dressings/whipped-almond-ricotta.md"
-
-[[project.nav."Sauces & Dressings"]]
-"White Mac & Cheese Sauce" = "sauces-and-dressings/white-mac-and-cheese-sauce.md"
-
 [[project.nav]]
-
-[[project.nav.Sides]]
-"America's Test Kitchen Best Baked Potatoes" = "sides/america's-test-kitchen-best-baked-potatoes.md"
-
-[[project.nav.Sides]]
-"America's Test Kitchen Best Baked Sweet Potatoes" = "sides/america's-test-kitchen-best-baked-sweet-potatoes.md"
-
-[[project.nav.Sides]]
-"Amish Potato Salad" = "sides/amish-potato-salad.md"
-
-[[project.nav.Sides]]
-"Andrew King's Pasta Salad" = "sides/andrew-kings-pasta-salad.md"
-
-[[project.nav.Sides]]
-"Asparagus Purée" = "sides/asparagus-purée.md"
-
-[[project.nav.Sides]]
-"Balsamic-Dressed Cucumber with Olives" = "sides/balsamic-dressed-cucumber-with-olives.md"
-
-[[project.nav.Sides]]
-"Banana Chips" = "sides/banana-chips.md"
-
-[[project.nav.Sides]]
-"Basmati Pilaf" = "sides/basmati-pilaf.md"
-
-[[project.nav.Sides]]
-"Beach Day Chickpea Salad" = "sides/beach-day-chickpea-salad.md"
-
-[[project.nav.Sides]]
-"Blueberry Chickpea Salad" = "sides/blueberry-chickpea-salad.md"
-
-[[project.nav.Sides]]
-"Bow Tie Pasta Chips" = "sides/bow-tie-pasta-chips.md"
-
-[[project.nav.Sides]]
-"Braised Asparagus with Lemon & Chives" = "sides/braised-asparagus-with-lemon-and-chives.md"
-
-[[project.nav.Sides]]
-"Brazilian Rice" = "sides/brazilian-rice.md"
-
-[[project.nav.Sides]]
-"Brown Sugar & Spice Roasted Carrots" = "sides/brown-sugar-and-spice-roasted-carrots.md"
-
-[[project.nav.Sides]]
-"Brussels Sprouts With Warm Honey Glaze" = "sides/brussels-sprouts-with-warm-honey-glaze.md"
-
-[[project.nav.Sides]]
-"Buffalo-Baked Baby Carrots" = "sides/buffalo-baked-baby-carrots.md"
-
-[[project.nav.Sides]]
-"Buffalo Cauliflower Wings" = "sides/buffalo-cauliflower-wings.md"
-
-[[project.nav.Sides]]
-"Butter-Basted Grilled Mushrooms" = "sides/butter-basted-grilled-mushrooms.md"
-
-[[project.nav.Sides]]
-"Caprese Flatbread" = "sides/caprese-flatbread.md"
-
-[[project.nav.Sides]]
-"Carrot Cake Protein Bites" = "sides/carrot-cake-protein-bites.md"
-
-[[project.nav.Sides]]
-"Carrot Slaw" = "sides/carrot-slaw.md"
-
-[[project.nav.Sides]]
-"Cauliflower Purée with Thyme" = "sides/cauliflower-purée-with-thyme.md"
-
-[[project.nav.Sides]]
-"Charred Brussels Sprouts with Walnuts & Gorgonzola" = "sides/charred-brussels-sprouts-with-walnuts-&-gorgonzola.md"
-
-[[project.nav.Sides]]
-"Cheese Soufflé" = "sides/cheese-soufflé.md"
-
-[[project.nav.Sides]]
-"Cheesy Popcorn" = "sides/cheesy-popcorn.md"
-
-[[project.nav.Sides]]
-"Cheesy Potatoes" = "sides/cheesy-potatoes.md"
-
-[[project.nav.Sides]]
-"Cilantro Almond Pesto Brussels Sprouts" = "sides/cilantro-almond-pesto-brussels-sprouts.md"
-
-[[project.nav.Sides]]
-"Club Crackers" = "sides/club-crackers.md"
-
-[[project.nav.Sides]]
-"Corn Tortillas" = "sides/corn-tortillas.md"
-
-[[project.nav.Sides]]
-Couscous = "sides/couscous.md"
-
-[[project.nav.Sides]]
-"Creamed Spinach" = "sides/creamed-spinach.md"
-
-[[project.nav.Sides]]
-"Crispy Herbes de Provence Potatoes" = "sides/crispy-herbes-de-provence-potatoes.md"
-
-[[project.nav.Sides]]
-"Deviled Eggs" = "sides/deviled-eggs.md"
-
-[[project.nav.Sides]]
-"Dried Fruit & Nut Mix" = "sides/dried-fruit-and-nut-mix.md"
-
-[[project.nav.Sides]]
-"Eggless Egg Salad" = "sides/eggless-egg-salad.md"
-
-[[project.nav.Sides]]
-"Falafel Scones with Harissa Yogurt" = "sides/falafel-scones-with-harissa-yogurt.md"
-
-[[project.nav.Sides]]
-"Fennel & Potato Cassola" = "sides/fennel-and-potato-cassola.md"
-
-[[project.nav.Sides]]
-"French Potato Salad" = "sides/french-potato-salad.md"
-
-[[project.nav.Sides]]
-"Fried Green Plantains" = "sides/fried-green-plantains.md"
-
-[[project.nav.Sides]]
-"Fried Green Tomatoes" = "sides/fried-green-tomatoes.md"
-
-[[project.nav.Sides]]
-"Funeral Potatoes" = "sides/funeral-potatoes.md"
-
-[[project.nav.Sides]]
-"Garlic & Lemon Roasted Romanesco Cauliflower" = "sides/garlic-and-lemon-roasted-romanesco-cauliflower.md"
-
-[[project.nav.Sides]]
-"Garlic Mushrooms" = "sides/garlic-mushrooms.md"
-
-[[project.nav.Sides]]
-"Garlic Rice" = "sides/garlic-rice.md"
-
-[[project.nav.Sides]]
-"Golden French Mashed Potatoes" = "sides/golden-french-mashed-potatoes.md"
-
-[[project.nav.Sides]]
-"Gracias Madre Black Beans" = "sides/gracias-madre-black-beans.md"
-
-[[project.nav.Sides]]
-"Granola Bars" = "sides/granola-bars.md"
-
-[[project.nav.Sides]]
-"Greek Style Lemon Roasted Potatoes" = "sides/greek-style-lemon-roasted-potatoes.md"
-
-[[project.nav.Sides]]
-"Green Rice" = "sides/green-rice.md"
-
-[[project.nav.Sides]]
-"Grilled Mushrooms with Rosemary-Lemon Basting Butter" = "sides/grilled-mushrooms-with-rosemary-lemon-basting-butter.md"
-
-[[project.nav.Sides]]
-"Grilled Sweet Potatoes with Chimichurri" = "sides/grilled-sweet-potatoes-with-chimichurri.md"
-
-[[project.nav.Sides]]
-"Hasselback Roasted Zucchini" = "sides/hasselback-roasted-zucchini.md"
-
-[[project.nav.Sides]]
-"Honey & Walnut Baked Brie" = "sides/honey-and-walnut-baked-brie.md"
-
-[[project.nav.Sides]]
-"Honey Glazed Carrots & Parsnips" = "sides/honey-glazed-carrots-and-parsnips.md"
-
-[[project.nav.Sides]]
-"Hummus with Pesto" = "sides/hummus-with-pesto.md"
-
-[[project.nav.Sides]]
-"Ina Garten's Parmesan Roasted Broccoli" = "sides/ina-garten's-parmesan-roasted-broccoli.md"
-
-[[project.nav.Sides]]
-"Ina Garten's Potato Salad" = "sides/ina-garten's-potato-salad.md"
-
-[[project.nav.Sides]]
-"Internet-Famous Crispy Potatoes" = "sides/internet-famous-crispy-potatoes.md"
-
-[[project.nav.Sides]]
-"Jalapeño Corn Pudding" = "sides/jalapeño-corn-pudding.md"
-
-[[project.nav.Sides]]
-"Joel Robuchon's Mashed Potatoes" = "sides/joel-robuchons-mashed-potatoes.md"
-
-[[project.nav.Sides]]
-"Josh Elkin's Mushroom Toast" = "sides/josh-elkin's-mushroom-toast.md"
-
-[[project.nav.Sides]]
-"Julia Child's Garlic Mashed Potatoes" = "sides/julia-child's-garlic-mashed-potatoes.md"
-
-[[project.nav.Sides]]
-"Kale Chips" = "sides/kale-chips.md"
-
-[[project.nav.Sides]]
-"Kettle Corn" = "sides/kettle-corn.md"
-
-[[project.nav.Sides]]
-"Kickstarter Garlic Mushrooms" = "sides/kickstarter-garlic-mushrooms.md"
-
-[[project.nav.Sides]]
-"Kickstarter Lemony Roasted Cauliflower" = "sides/kickstarter-lemony-roasted-cauliflower.md"
-
-[[project.nav.Sides]]
-"Laugenbrezeln (German Lye Pretzels)" = "sides/laugenbrezeln-(german-lye-pretzels).md"
-
-[[project.nav.Sides]]
-"Loaded Vegan Potato Skins" = "sides/loaded-vegan-potato-skins.md"
-
-[[project.nav.Sides]]
-"Macaroni Salad" = "sides/macaroni-salad.md"
-
-[[project.nav.Sides]]
-"Madre Crab Cakes" = "sides/madre-crab-cakes.md"
-
-[[project.nav.Sides]]
-"Maple Harissa Glazed Sweet Potatoes" = "sides/maple-harissa-glazed-sweet-potatoes.md"
-
-[[project.nav.Sides]]
-"Maple Roasted Brussels Sprouts with Pumpkin Seeds" = "sides/maple-roasted-brussels-sprouts-with-pumpkin-seeds.md"
-
-[[project.nav.Sides]]
-"Maple Roasted Carrots with Tahini & Pomegranate" = "sides/maple-roasted-carrots-with-tahini-and-pomegranate.md"
-
-[[project.nav.Sides]]
-"Mashed Sweet Potatoes with Caramelized Shallots" = "sides/mashed-sweet-potatoes-with-caramelized-shallots.md"
-
-[[project.nav.Sides]]
-"Mexican Coleslaw" = "sides/mexican-coleslaw.md"
-
-[[project.nav.Sides]]
-"Miso-Glazed Bok Choy" = "sides/miso-glazed-bok-choy.md"
-
-[[project.nav.Sides]]
-"Miso-Glazed Carrots" = "sides/miso-glazed-carrots.md"
-
-[[project.nav.Sides]]
-"Mushroom Medley" = "sides/mushroom-medley.md"
-
-[[project.nav.Sides]]
-"No Bake Sunshine Energy Bites" = "sides/no-bake-sunshine-energy-bites.md"
-
-[[project.nav.Sides]]
-"Parsnip Purée" = "sides/parsnip-purée.md"
-
-[[project.nav.Sides]]
-"Pasta Salad" = "sides/pasta-salad.md"
-
-[[project.nav.Sides]]
-"Pea Purée" = "sides/pea-purée.md"
-
-[[project.nav.Sides]]
-"Peanut Butter Bites" = "sides/peanut-butter-bites.md"
-
-[[project.nav.Sides]]
-"Peanut Butter Chocolate Chip Protein Bites" = "sides/peanut-butter-chocolate-chip-protein-bites.md"
-
-[[project.nav.Sides]]
-"Pearl Couscous" = "sides/pearl-couscous.md"
-
-[[project.nav.Sides]]
-"Pickled Red Onions" = "sides/pickled-red-onions.md"
-
-[[project.nav.Sides]]
-"Pommes Dauphine" = "sides/pommes-dauphine.md"
-
-[[project.nav.Sides]]
-"Pommes Mont D'or" = "sides/pommes-mont-d'or.md"
-
-[[project.nav.Sides]]
-"Potato Au Gratin" = "sides/potato-au-gratin.md"
-
-[[project.nav.Sides]]
-"Potato Salad" = "sides/potato-salad.md"
-
-[[project.nav.Sides]]
-Quinoa = "sides/quinoa.md"
-
-[[project.nav.Sides]]
-"Red Cabbage Salad" = "sides/red-cabbage-salad.md"
-
-[[project.nav.Sides]]
-"Ritz Crackers" = "sides/ritz-crackers.md"
-
-[[project.nav.Sides]]
-"Roasted Chickpea Snack" = "sides/roasted-chickpea-snack.md"
-
-[[project.nav.Sides]]
-"Roasted Delicata Squash" = "sides/roasted-delicata-squash.md"
-
-[[project.nav.Sides]]
-"Roasted Fennel with Garlic & Thyme" = "sides/roasted-fennel-with-garlic-and-thyme.md"
-
-[[project.nav.Sides]]
-"Rosemary Roasted Cashews" = "sides/rosemary-roasted-cashews.md"
-
-[[project.nav.Sides]]
-"Sautéed Mushrooms" = "sides/sautéed-mushrooms.md"
-
-[[project.nav.Sides]]
-"Scottish Oatcakes" = "sides/scottish-oatcakes.md"
-
-[[project.nav.Sides]]
-"Skillet-Steamed Haricots Verts" = "sides/skillet-steamed-haricots-verts.md"
-
-[[project.nav.Sides]]
-"Spicy Garlic Edamame" = "sides/spicy-garlic-edamame.md"
-
-[[project.nav.Sides]]
-"Steamed Broccoli with Vinaigrette" = "sides/steamed-broccoli-with-vinaigrette.md"
-
-[[project.nav.Sides]]
-"Strawberry Protein Bites" = "sides/strawberry-protein-bites.md"
-
-[[project.nav.Sides]]
-"Tater Tots" = "sides/tater-tots.md"
-
-[[project.nav.Sides]]
-"The Best Crispy Roast Potatoes Ever Recipe" = "sides/the-best-crispy-roast-potatoes-ever-recipe.md"
-
-[[project.nav.Sides]]
-"Three-Bean Salad" = "sides/three-bean-salad.md"
-
-[[project.nav.Sides]]
-"Tomato Feta Pasta Salad" = "sides/tomato-feta-pasta-salad.md"
-
-[[project.nav.Sides]]
-"Tomato Salad" = "sides/tomato-salad.md"
-
-[[project.nav.Sides]]
-"Unsweetened Applesauce" = "sides/unsweetened-applesauce.md"
-
-[[project.nav.Sides]]
-"Vegan Mashed Potatoes" = "sides/vegan-mashed-potatoes.md"
+Sides = [
+  { "America's Test Kitchen Best Baked Potatoes" = "sides/america's-test-kitchen-best-baked-potatoes.md" },
+  { "America's Test Kitchen Best Baked Sweet Potatoes" = "sides/america's-test-kitchen-best-baked-sweet-potatoes.md" },
+  { "Amish Potato Salad" = "sides/amish-potato-salad.md" },
+  { "Andrew King's Pasta Salad" = "sides/andrew-kings-pasta-salad.md" },
+  { "Asparagus Purée" = "sides/asparagus-purée.md" },
+  { "Balsamic-Dressed Cucumber with Olives" = "sides/balsamic-dressed-cucumber-with-olives.md" },
+  { "Banana Chips" = "sides/banana-chips.md" },
+  { "Basmati Pilaf" = "sides/basmati-pilaf.md" },
+  { "Beach Day Chickpea Salad" = "sides/beach-day-chickpea-salad.md" },
+  { "Blueberry Chickpea Salad" = "sides/blueberry-chickpea-salad.md" },
+  { "Bow Tie Pasta Chips" = "sides/bow-tie-pasta-chips.md" },
+  { "Braised Asparagus with Lemon & Chives" = "sides/braised-asparagus-with-lemon-and-chives.md" },
+  { "Brazilian Rice" = "sides/brazilian-rice.md" },
+  { "Brown Sugar & Spice Roasted Carrots" = "sides/brown-sugar-and-spice-roasted-carrots.md" },
+  { "Brussels Sprouts With Warm Honey Glaze" = "sides/brussels-sprouts-with-warm-honey-glaze.md" },
+  { "Buffalo-Baked Baby Carrots" = "sides/buffalo-baked-baby-carrots.md" },
+  { "Buffalo Cauliflower Wings" = "sides/buffalo-cauliflower-wings.md" },
+  { "Butter-Basted Grilled Mushrooms" = "sides/butter-basted-grilled-mushrooms.md" },
+  { "Caprese Flatbread" = "sides/caprese-flatbread.md" },
+  { "Carrot Cake Protein Bites" = "sides/carrot-cake-protein-bites.md" },
+  { "Carrot Slaw" = "sides/carrot-slaw.md" },
+  { "Cauliflower Purée with Thyme" = "sides/cauliflower-purée-with-thyme.md" },
+  { "Charred Brussels Sprouts with Walnuts & Gorgonzola" = "sides/charred-brussels-sprouts-with-walnuts-&-gorgonzola.md" },
+  { "Cheese Soufflé" = "sides/cheese-soufflé.md" },
+  { "Cheesy Popcorn" = "sides/cheesy-popcorn.md" },
+  { "Cheesy Potatoes" = "sides/cheesy-potatoes.md" },
+  { "Cilantro Almond Pesto Brussels Sprouts" = "sides/cilantro-almond-pesto-brussels-sprouts.md" },
+  { "Club Crackers" = "sides/club-crackers.md" },
+  { "Corn Tortillas" = "sides/corn-tortillas.md" },
+  { "Couscous" = "sides/couscous.md" },
+  { "Creamed Spinach" = "sides/creamed-spinach.md" },
+  { "Crispy Herbes de Provence Potatoes" = "sides/crispy-herbes-de-provence-potatoes.md" },
+  { "Deviled Eggs" = "sides/deviled-eggs.md" },
+  { "Dried Fruit & Nut Mix" = "sides/dried-fruit-and-nut-mix.md" },
+  { "Eggless Egg Salad" = "sides/eggless-egg-salad.md" },
+  { "Falafel Scones with Harissa Yogurt" = "sides/falafel-scones-with-harissa-yogurt.md" },
+  { "Fennel & Potato Cassola" = "sides/fennel-and-potato-cassola.md" },
+  { "French Potato Salad" = "sides/french-potato-salad.md" },
+  { "Fried Green Plantains" = "sides/fried-green-plantains.md" },
+  { "Fried Green Tomatoes" = "sides/fried-green-tomatoes.md" },
+  { "Funeral Potatoes" = "sides/funeral-potatoes.md" },
+  { "Garlic & Lemon Roasted Romanesco Cauliflower" = "sides/garlic-and-lemon-roasted-romanesco-cauliflower.md" },
+  { "Garlic Mushrooms" = "sides/garlic-mushrooms.md" },
+  { "Garlic Rice" = "sides/garlic-rice.md" },
+  { "Golden French Mashed Potatoes" = "sides/golden-french-mashed-potatoes.md" },
+  { "Gracias Madre Black Beans" = "sides/gracias-madre-black-beans.md" },
+  { "Granola Bars" = "sides/granola-bars.md" },
+  { "Greek Style Lemon Roasted Potatoes" = "sides/greek-style-lemon-roasted-potatoes.md" },
+  { "Green Rice" = "sides/green-rice.md" },
+  { "Grilled Mushrooms with Rosemary-Lemon Basting Butter" = "sides/grilled-mushrooms-with-rosemary-lemon-basting-butter.md" },
+  { "Grilled Sweet Potatoes with Chimichurri" = "sides/grilled-sweet-potatoes-with-chimichurri.md" },
+  { "Hasselback Roasted Zucchini" = "sides/hasselback-roasted-zucchini.md" },
+  { "Honey & Walnut Baked Brie" = "sides/honey-and-walnut-baked-brie.md" },
+  { "Honey Glazed Carrots & Parsnips" = "sides/honey-glazed-carrots-and-parsnips.md" },
+  { "Hummus with Pesto" = "sides/hummus-with-pesto.md" },
+  { "Ina Garten's Parmesan Roasted Broccoli" = "sides/ina-garten's-parmesan-roasted-broccoli.md" },
+  { "Ina Garten's Potato Salad" = "sides/ina-garten's-potato-salad.md" },
+  { "Internet-Famous Crispy Potatoes" = "sides/internet-famous-crispy-potatoes.md" },
+  { "Jalapeño Corn Pudding" = "sides/jalapeño-corn-pudding.md" },
+  { "Joel Robuchon's Mashed Potatoes" = "sides/joel-robuchons-mashed-potatoes.md" },
+  { "Josh Elkin's Mushroom Toast" = "sides/josh-elkin's-mushroom-toast.md" },
+  { "Julia Child's Garlic Mashed Potatoes" = "sides/julia-child's-garlic-mashed-potatoes.md" },
+  { "Kale Chips" = "sides/kale-chips.md" },
+  { "Kettle Corn" = "sides/kettle-corn.md" },
+  { "Kickstarter Garlic Mushrooms" = "sides/kickstarter-garlic-mushrooms.md" },
+  { "Kickstarter Lemony Roasted Cauliflower" = "sides/kickstarter-lemony-roasted-cauliflower.md" },
+  { "Laugenbrezeln (German Lye Pretzels)" = "sides/laugenbrezeln-(german-lye-pretzels).md" },
+  { "Loaded Vegan Potato Skins" = "sides/loaded-vegan-potato-skins.md" },
+  { "Macaroni Salad" = "sides/macaroni-salad.md" },
+  { "Madre Crab Cakes" = "sides/madre-crab-cakes.md" },
+  { "Maple Harissa Glazed Sweet Potatoes" = "sides/maple-harissa-glazed-sweet-potatoes.md" },
+  { "Maple Roasted Brussels Sprouts with Pumpkin Seeds" = "sides/maple-roasted-brussels-sprouts-with-pumpkin-seeds.md" },
+  { "Maple Roasted Carrots with Tahini & Pomegranate" = "sides/maple-roasted-carrots-with-tahini-and-pomegranate.md" },
+  { "Mashed Sweet Potatoes with Caramelized Shallots" = "sides/mashed-sweet-potatoes-with-caramelized-shallots.md" },
+  { "Mexican Coleslaw" = "sides/mexican-coleslaw.md" },
+  { "Miso-Glazed Bok Choy" = "sides/miso-glazed-bok-choy.md" },
+  { "Miso-Glazed Carrots" = "sides/miso-glazed-carrots.md" },
+  { "Mushroom Medley" = "sides/mushroom-medley.md" },
+  { "No Bake Sunshine Energy Bites" = "sides/no-bake-sunshine-energy-bites.md" },
+  { "Parsnip Purée" = "sides/parsnip-purée.md" },
+  { "Pasta Salad" = "sides/pasta-salad.md" },
+  { "Pea Purée" = "sides/pea-purée.md" },
+  { "Peanut Butter Bites" = "sides/peanut-butter-bites.md" },
+  { "Peanut Butter Chocolate Chip Protein Bites" = "sides/peanut-butter-chocolate-chip-protein-bites.md" },
+  { "Pearl Couscous" = "sides/pearl-couscous.md" },
+  { "Pickled Red Onions" = "sides/pickled-red-onions.md" },
+  { "Pommes Dauphine" = "sides/pommes-dauphine.md" },
+  { "Pommes Mont D'or" = "sides/pommes-mont-d'or.md" },
+  { "Potato Au Gratin" = "sides/potato-au-gratin.md" },
+  { "Potato Salad" = "sides/potato-salad.md" },
+  { "Quinoa" = "sides/quinoa.md" },
+  { "Red Cabbage Salad" = "sides/red-cabbage-salad.md" },
+  { "Ritz Crackers" = "sides/ritz-crackers.md" },
+  { "Roasted Chickpea Snack" = "sides/roasted-chickpea-snack.md" },
+  { "Roasted Delicata Squash" = "sides/roasted-delicata-squash.md" },
+  { "Roasted Fennel with Garlic & Thyme" = "sides/roasted-fennel-with-garlic-and-thyme.md" },
+  { "Rosemary Roasted Cashews" = "sides/rosemary-roasted-cashews.md" },
+  { "Sautéed Mushrooms" = "sides/sautéed-mushrooms.md" },
+  { "Scottish Oatcakes" = "sides/scottish-oatcakes.md" },
+  { "Skillet-Steamed Haricots Verts" = "sides/skillet-steamed-haricots-verts.md" },
+  { "Spicy Garlic Edamame" = "sides/spicy-garlic-edamame.md" },
+  { "Steamed Broccoli with Vinaigrette" = "sides/steamed-broccoli-with-vinaigrette.md" },
+  { "Strawberry Protein Bites" = "sides/strawberry-protein-bites.md" },
+  { "Tater Tots" = "sides/tater-tots.md" },
+  { "The Best Crispy Roast Potatoes Ever Recipe" = "sides/the-best-crispy-roast-potatoes-ever-recipe.md" },
+  { "Three-Bean Salad" = "sides/three-bean-salad.md" },
+  { "Tomato Feta Pasta Salad" = "sides/tomato-feta-pasta-salad.md" },
+  { "Tomato Salad" = "sides/tomato-salad.md" },
+  { "Unsweetened Applesauce" = "sides/unsweetened-applesauce.md" },
+  { "Vegan Mashed Potatoes" = "sides/vegan-mashed-potatoes.md" },
+]
 
 [[project.nav]]
 "Soups & Stews" = [
@@ -2547,194 +1129,86 @@ Quinoa = "sides/quinoa.md"
 ]
 
 [[project.nav]]
-"Tarts" = [
+Tarts = [
   { "Caramelized Onion, Spinach, & Sweet Potato Tart" = "vegetarian/caramelized-onion,-spinach,-and-sweet-potato-tart.md" },
-  { "Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md" },    
+  { "Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md" },
 ]
 
-
 [[project.nav]]
-
-[[project.nav.Vegetarian]]
-"Adas Polo (Persian Lentil Rice)" = "vegetarian/adas-polo-(persian-lentil-rice).md"
-
-[[project.nav.Vegetarian]]
-"Black Bean Burgers" = "vegetarian/black-bean-burgers.md"
-
-[[project.nav.Vegetarian]]
-"California Veggie Wraps" = "vegetarian/california-veggie-wraps.md"
-
-[[project.nav.Vegetarian]]
-"Cauliflower Green Bean Mac & Cheese" = "vegetarian/cauliflower-green-bean-mac-and-cheese.md"
-
-[[project.nav.Vegetarian]]
-"Chickpea & Spinach Pancakes" = "vegetarian/chickpea-and-spinach-pancakes.md"
-
-[[project.nav.Vegetarian]]
-"Creamy Vegan Polenta with Mushrooms & Kale" = "vegetarian/creamy-vegan-polenta-with-mushrooms-and-kale.md"
-
-[[project.nav.Vegetarian]]
-"Crustless Broccoli Quiche" = "vegetarian/crustless-broccoli-quiche.md"
-
-[[project.nav.Vegetarian]]
-"Fennel & Potato Cassola" = "vegetarian/fennel-and-potato-cassola.md"
-
-[[project.nav.Vegetarian]]
-"Fiesta Salad" = "vegetarian/fiesta-salad.md"
-
-[[project.nav.Vegetarian]]
-"Game Changers Oat & Lentil Meatloaf" = "vegetarian/game-changers-oat-and-lentil-meatloaf.md"
-
-[[project.nav.Vegetarian]]
-"Garlic Chana Dal" = "vegetarian/garlic-chana-dal.md"
-
-[[project.nav.Vegetarian]]
-"Greens & Grains Bowls" = "vegetarian/greens-and-grains-bowls.md"
-
-[[project.nav.Vegetarian]]
-"Grilled Tofu with Chimichurri Sauce" = "vegetarian/grilled-tofu-with-chimichurri-sauce.md"
-
-[[project.nav.Vegetarian]]
-"Indian Spiced Lentil Burgers" = "vegetarian/indian-spiced-lentil-burgers.md"
-
-[[project.nav.Vegetarian]]
-"Italian Sausage with Grits & Tomatoes" = "vegetarian/italian-sausage-with-grits-&-tomatoes.md"
-
-[[project.nav.Vegetarian]]
-"Jackfruit Curry" = "vegetarian/jackfruit-curry.md"
-
-[[project.nav.Vegetarian]]
-"Jeweled Rice" = "vegetarian/jeweled-rice.md"
-
-[[project.nav.Vegetarian]]
-"Jose Guevara's Gallo Pinto" = "vegetarian/jose-guevara's-gallo-pinto.md"
-
-[[project.nav.Vegetarian]]
-"Lemon Garlic Cauliflower Rice" = "vegetarian/lemon-garlic-cauliflower-rice.md"
-
-[[project.nav.Vegetarian]]
-"Lemony Broccoli Salad with Chickpeas & Feta" = "vegetarian/lemony-broccoli-salad-with-chickpeas-&-feta.md"
-
-[[project.nav.Vegetarian]]
-"Lentil and Mushroom Stuffed Peppers and Butternut Squash" = "vegetarian/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.md"
-
-[[project.nav.Vegetarian]]
-"Lentil Meatballs with Lemon Pesto" = "vegetarian/lentil-meatballs-with-lemon-pesto.md"
-
-[[project.nav.Vegetarian]]
-"Lentil Mushroom Stew over Mashed Potatoes" = "vegetarian/lentil-mushroom-stew-over-mashed-potatoes.md"
-
-[[project.nav.Vegetarian]]
-"Lentil Patties" = "vegetarian/lentil-patties.md"
-
-[[project.nav.Vegetarian]]
-"Meat-Free Meat Loaf" = "vegetarian/meat-free-meat-loaf.md"
-
-[[project.nav.Vegetarian]]
-"Meatless Umami Shepherd's Pie" = "vegetarian/meatless-umami-shepherd's-pie.md"
-
-[[project.nav.Vegetarian]]
-"Mushroom Barbacoa Bowl" = "vegetarian/mushroom-barbacoa-bowl.md"
-
-[[project.nav.Vegetarian]]
-"Mushroom Rice Burgers" = "vegetarian/mushroom-rice-burgers.md"
-
-[[project.nav.Vegetarian]]
-"Quinoa & Veggie Power Bowls" = "vegetarian/quinoa-and-veggie-power-bowls.md"
-
-[[project.nav.Vegetarian]]
-"Ratatouille Provençale" = "vegetarian/ratatouille-provençale.md"
-
-[[project.nav.Vegetarian]]
-"Slow Cooker Indian-Spiced Chickpeas & Red Potatoes" = "vegetarian/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.md"
-
-[[project.nav.Vegetarian]]
-"Slow Cooker Red Beans & Rice" = "vegetarian/slow-cooker-red-beans-and-rice.md"
-
-[[project.nav.Vegetarian]]
-"Slow Cooker Vegetarian Black-Eyed Peas" = "vegetarian/slow-cooker-vegetarian-black-eyed-peas.md"
-
-[[project.nav.Vegetarian]]
-"Spicy Cashew Quinoa Salad" = "vegetarian/spicy-cashew-quinoa-salad.md"
-
-[[project.nav.Vegetarian]]
-"Spinach & Feta Filo Pie" = "vegetarian/spinach-and-feta-filo-pie.md"
-
-[[project.nav.Vegetarian]]
-"Spinach Salad with Gorgonzola & Pear" = "vegetarian/spinach-salad-with-gorgonzola-and-pear.md"
-
-[[project.nav.Vegetarian]]
-"Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs" = "vegetarian/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.md"
-
-[[project.nav.Vegetarian]]
-"Super Nourishing Beans & Greens" = "vegetarian/super-nourishing-beans-and-greens.md"
-
-[[project.nav.Vegetarian]]
-"Texas Potato Pancakes" = "vegetarian/texas-potato-pancakes.md"
-
-[[project.nav.Vegetarian]]
-"The Best Vegan Burger" = "vegetarian/the-best-vegan-burger.md"
-
-[[project.nav.Vegetarian]]
-"The Casado Plate" = "vegetarian/the-casado-plate.md"
-
-[[project.nav.Vegetarian]]
-"Thyme & White Bean Pot Pies" = "vegetarian/thyme-and-white-bean-pot-pies.md"
-
-[[project.nav.Vegetarian]]
-"Tortilla de Patatas" = "vegetarian/tortilla-de-patatas.md"
-
-[[project.nav.Vegetarian]]
-"Vegan Baked Beans" = "vegetarian/vegan-baked-beans.md"
-
-[[project.nav.Vegetarian]]
-"Vegan Caesar Salad" = "vegetarian/vegan-caesar-salad.md"
-
-[[project.nav.Vegetarian]]
-"Vegan Giant Bean & Kale Penne" = "vegetarian/vegan-giant-bean-&-kale-penne.md"
-
-[[project.nav.Vegetarian]]
-"Vegan Ricotta & Sun-Dried Tomato Pesto Salad" = "vegetarian/vegan-ricotta-&-sun-dried-tomato-pesto-salad.md"
-
-[[project.nav.Vegetarian]]
-"Vegan Zucchini Lasagna" = "vegetarian/vegan-zucchini-lasagna.md"
-
-[[project.nav.Vegetarian]]
-"Vegetable Casserole" = "vegetarian/vegetable-casserole.md"
-
-[[project.nav.Vegetarian]]
-"Vegetarian Pot Pie" = "vegetarian/vegetarian-pot-pie.md"
-
-[[project.nav.Vegetarian]]
-"Veggie Burgers" = "vegetarian/veggie-burgers.md"
-
-[[project.nav.Vegetarian]]
-"Veggie Cassola" = "vegetarian/veggie-cassola.md"
-
-[[project.nav.Vegetarian]]
-"Zesty Roasted Vegetables" = "vegetarian/zesty-roasted-vegetables.md"
-
-[[project.nav.Vegetarian]]
-"Zucchini Pasta with Lentil Bolognese" = "vegetarian/zucchini-pasta-with-lentil-bolognese.md"
+Vegetarian = [
+  { "Adas Polo (Persian Lentil Rice)" = "vegetarian/adas-polo-(persian-lentil-rice).md" },
+  { "Black Bean Burgers" = "vegetarian/black-bean-burgers.md" },
+  { "California Veggie Wraps" = "vegetarian/california-veggie-wraps.md" },
+  { "Cauliflower Green Bean Mac & Cheese" = "vegetarian/cauliflower-green-bean-mac-and-cheese.md" },
+  { "Chickpea & Spinach Pancakes" = "vegetarian/chickpea-and-spinach-pancakes.md" },
+  { "Creamy Vegan Polenta with Mushrooms & Kale" = "vegetarian/creamy-vegan-polenta-with-mushrooms-and-kale.md" },
+  { "Crustless Broccoli Quiche" = "vegetarian/crustless-broccoli-quiche.md" },
+  { "Fennel & Potato Cassola" = "vegetarian/fennel-and-potato-cassola.md" },
+  { "Fiesta Salad" = "vegetarian/fiesta-salad.md" },
+  { "Game Changers Oat & Lentil Meatloaf" = "vegetarian/game-changers-oat-and-lentil-meatloaf.md" },
+  { "Garlic Chana Dal" = "vegetarian/garlic-chana-dal.md" },
+  { "Greens & Grains Bowls" = "vegetarian/greens-and-grains-bowls.md" },
+  { "Grilled Tofu with Chimichurri Sauce" = "vegetarian/grilled-tofu-with-chimichurri-sauce.md" },
+  { "Indian Spiced Lentil Burgers" = "vegetarian/indian-spiced-lentil-burgers.md" },
+  { "Italian Sausage with Grits & Tomatoes" = "vegetarian/italian-sausage-with-grits-&-tomatoes.md" },
+  { "Jackfruit Curry" = "vegetarian/jackfruit-curry.md" },
+  { "Jeweled Rice" = "vegetarian/jeweled-rice.md" },
+  { "Jose Guevara's Gallo Pinto" = "vegetarian/jose-guevara's-gallo-pinto.md" },
+  { "Lemon Garlic Cauliflower Rice" = "vegetarian/lemon-garlic-cauliflower-rice.md" },
+  { "Lemony Broccoli Salad with Chickpeas & Feta" = "vegetarian/lemony-broccoli-salad-with-chickpeas-&-feta.md" },
+  { "Lentil and Mushroom Stuffed Peppers and Butternut Squash" = "vegetarian/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.md" },
+  { "Lentil Meatballs with Lemon Pesto" = "vegetarian/lentil-meatballs-with-lemon-pesto.md" },
+  { "Lentil Mushroom Stew over Mashed Potatoes" = "vegetarian/lentil-mushroom-stew-over-mashed-potatoes.md" },
+  { "Lentil Patties" = "vegetarian/lentil-patties.md" },
+  { "Meat-Free Meat Loaf" = "vegetarian/meat-free-meat-loaf.md" },
+  { "Meatless Umami Shepherd's Pie" = "vegetarian/meatless-umami-shepherd's-pie.md" },
+  { "Mushroom Barbacoa Bowl" = "vegetarian/mushroom-barbacoa-bowl.md" },
+  { "Mushroom Rice Burgers" = "vegetarian/mushroom-rice-burgers.md" },
+  { "Quinoa & Veggie Power Bowls" = "vegetarian/quinoa-and-veggie-power-bowls.md" },
+  { "Ratatouille Provençale" = "vegetarian/ratatouille-provençale.md" },
+  { "Slow Cooker Indian-Spiced Chickpeas & Red Potatoes" = "vegetarian/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.md" },
+  { "Slow Cooker Red Beans & Rice" = "vegetarian/slow-cooker-red-beans-and-rice.md" },
+  { "Slow Cooker Vegetarian Black-Eyed Peas" = "vegetarian/slow-cooker-vegetarian-black-eyed-peas.md" },
+  { "Spicy Cashew Quinoa Salad" = "vegetarian/spicy-cashew-quinoa-salad.md" },
+  { "Spinach & Feta Filo Pie" = "vegetarian/spinach-and-feta-filo-pie.md" },
+  { "Spinach Salad with Gorgonzola & Pear" = "vegetarian/spinach-salad-with-gorgonzola-and-pear.md" },
+  { "Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs" = "vegetarian/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.md" },
+  { "Super Nourishing Beans & Greens" = "vegetarian/super-nourishing-beans-and-greens.md" },
+  { "Texas Potato Pancakes" = "vegetarian/texas-potato-pancakes.md" },
+  { "The Best Vegan Burger" = "vegetarian/the-best-vegan-burger.md" },
+  { "The Casado Plate" = "vegetarian/the-casado-plate.md" },
+  { "Thyme & White Bean Pot Pies" = "vegetarian/thyme-and-white-bean-pot-pies.md" },
+  { "Tortilla de Patatas" = "vegetarian/tortilla-de-patatas.md" },
+  { "Vegan Baked Beans" = "vegetarian/vegan-baked-beans.md" },
+  { "Vegan Caesar Salad" = "vegetarian/vegan-caesar-salad.md" },
+  { "Vegan Giant Bean & Kale Penne" = "vegetarian/vegan-giant-bean-&-kale-penne.md" },
+  { "Vegan Ricotta & Sun-Dried Tomato Pesto Salad" = "vegetarian/vegan-ricotta-&-sun-dried-tomato-pesto-salad.md" },
+  { "Vegan Zucchini Lasagna" = "vegetarian/vegan-zucchini-lasagna.md" },
+  { "Vegetable Casserole" = "vegetarian/vegetable-casserole.md" },
+  { "Vegetarian Pot Pie" = "vegetarian/vegetarian-pot-pie.md" },
+  { "Veggie Burgers" = "vegetarian/veggie-burgers.md" },
+  { "Veggie Cassola" = "vegetarian/veggie-cassola.md" },
+  { "Zesty Roasted Vegetables" = "vegetarian/zesty-roasted-vegetables.md" },
+  { "Zucchini Pasta with Lentil Bolognese" = "vegetarian/zucchini-pasta-with-lentil-bolognese.md" },
+]
 
 [[project.nav]]
 Reference = [
-    { "Equivalents & Substitutes" = "reference/equivalents-and-substitutes.md" },
-    { "Measuring" = "reference/measuring.md" },
-    { "Pressure Cooker" = "reference/pressure-cooker.md" },
-    { "Seasons" = "reference/seasons.md" },
-    { "Spirits" = "reference/spirits.md" },
-    { "Temperatures" = "reference/temperatures.md" },
-    { "Tips" = "reference/tips.md" },
-    { "Development" = "reference/development.md" },
+  { "Equivalents & Substitutes" = "reference/equivalents-and-substitutes.md" },
+  { "Measuring" = "reference/measuring.md" },
+  { "Pressure Cooker" = "reference/pressure-cooker.md" },
+  { "Seasons" = "reference/seasons.md" },
+  { "Spirits" = "reference/spirits.md" },
+  { "Temperatures" = "reference/temperatures.md" },
+  { "Tips" = "reference/tips.md" },
+  { "Development" = "reference/development.md" },
 ]
 
 [[project.nav]]
 "Cooklang Files" = "https://github.com/nicholaswilde/recipes/tree/main/cook"
 
 [[project.nav]]
-"Tags" = "tags.md"
-
+Tags = "tags.md"
 [project.extra]
 social = [
     { icon = "fontawesome/solid/house", link = "https://nicholaswilde.io/" },
