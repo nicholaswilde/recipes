@@ -212,7 +212,7 @@ Breads = [
 "French Toast" = "breakfast/french-toast.md"
 
 [[project.nav.Breakfast]]
-Frittata = "breakfast/frittata.md"
+"Frittata" = "breakfast/frittata.md"
 
 [[project.nav.Breakfast]]
 "Gordon Ramsay Scrambled Eggs" = "breakfast/gordon-ramsay-scrambled-eggs.md"
@@ -266,7 +266,7 @@ Frittata = "breakfast/frittata.md"
 "Queen Elizabeth II's Drop Scones" = "breakfast/queen-elizabeth-ii's-drop-scones.md"
 
 [[project.nav.Breakfast]]
-Shakshuka = "breakfast/shakshuka.md"
+"Shakshuka" = "breakfast/shakshuka.md"
 
 [[project.nav.Breakfast]]
 "Slow Cooker Mexican Egg Casserole" = "breakfast/slow-cooker-mexican-egg-casserole.md"
@@ -514,10 +514,10 @@ Oreos = "cookies-and-bars/oreos.md"
 "Salted Peanut Butter" = "cookies-and-bars/salted-peanut-butter.md"
 
 [[project.nav."Cookies & Bars"]]
-Samoas = "cookies-and-bars/samoas.md"
+"Samoas" = "cookies-and-bars/samoas.md"
 
 [[project.nav."Cookies & Bars"]]
-Shortbread = "cookies-and-bars/shortbread.md"
+"Shortbread" = "cookies-and-bars/shortbread.md"
 
 [[project.nav."Cookies & Bars"]]
 "Simple Sugar Cookies" = "cookies-and-bars/simple-sugar-cookies.md"
@@ -526,7 +526,7 @@ Shortbread = "cookies-and-bars/shortbread.md"
 "Soft White Chocolate Chip Cranberry Cookies" = "cookies-and-bars/soft-white-chocolate-chip-cranberry-cookies.md"
 
 [[project.nav."Cookies & Bars"]]
-Snickerdoodles = "cookies-and-bars/snickerdoodles.md"
+"Snickerdoodles" = "cookies-and-bars/snickerdoodles.md"
 
 [[project.nav."Cookies & Bars"]]
 "Tante Myrn's Sugar Cookies" = "cookies-and-bars/tante-myrn's-sugar-cookies.md"
@@ -541,7 +541,7 @@ Snickerdoodles = "cookies-and-bars/snickerdoodles.md"
 "Traditional Italian Biscotti" = "cookies-and-bars/traditional-italian-biscotti.md"
 
 [[project.nav."Cookies & Bars"]]
-Twix = "cookies-and-bars/twix.md"
+"Twix" = "cookies-and-bars/twix.md"
 
 [[project.nav."Cookies & Bars"]]
 "Vanilla Bean Sables" = "cookies-and-bars/vanilla-bean-sables.md"
@@ -574,18 +574,15 @@ Custards = [
 ]
 
 [[project.nav]]
-
 [[project.nav.Desserts]]
+"Cakes" = [
+  { "1-Bowl Vegan Gluten-Free Carrot Cake" = "desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md" },
+  { "Apple Cake" = "desserts/cake/apple-cake.md" },
+  { "Apple Fritter Cake" = "desserts/cake/apple-fritter-cake.md" },
+]
 
-[[project.nav.Desserts.Cakes]]
-"1-Bowl Vegan Gluten-Free Carrot Cake" = "desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Apple Cake" = "desserts/cake/apple-cake.md"
-
-[[project.nav.Desserts.Cakes]]
-"Apple Fritter Cake" = "desserts/cake/apple-fritter-cake.md"
-
+[[project.nav]]
+[[project.nav.Desserts]]
 [[project.nav.Desserts.Cakes]]
 "Beccherie Tiramisù" = "desserts/cake/beccherie-tiramisù.md"
 
@@ -2524,6 +2521,7 @@ Quinoa = "sides/quinoa.md"
   { "Creamy Roasted Carrot Soup" = "soups-and-stews/creamy-roasted-carrot-soup.md" },
   { "Eggplant Stew" = "soups-and-stews/eggplant-stew.md" },
   { "French Onion Soup" = "soups-and-stews/french-onion-soup.md" },
+  { "Hearty Vegetarian Stew = soups-and-stews/hearty-vegetarian-stew.md" },
   { "Ikarian Longevity Stew" = "soups-and-stews/ikarian-longevity-stew.md" },
   { "Kickin Potato & Corn Chowder" = "soups-and-stews/kickin-potato-and-corn-chowder.md" },
   { "Lemony Lentil Soup" = "soups-and-stews/lemony-lentil-soup.md" },
