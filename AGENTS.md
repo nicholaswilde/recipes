@@ -36,9 +36,33 @@ This project is a personal recipe collection managed as a documentation site usi
     *   `task yamllint`: Runs `yamllint`.
 *   **Spellchecking:** `task spellcheck` (uses `spellchecker-cli` with `dictionary.txt`).
 *   **Link Checking:** `task linkcheck` (uses `markdown-link-check`).
-*   **Recipe Management:** Recipes are stored in `cook/` as `.cook` files. There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
+*   **Recipe Management:** Recipes are stored in `cook/` as `.cook` files and must be organized by category in subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`). There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
 *   **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
 *   **Front Matter:** Markdown files use front matter for metadata like comments and tags.
 *   **Dependencies:** Python dependencies for Zensical are managed via `pip install` in the CI workflow. `spellchecker-cli` is installed globally via `npm install`.
 *   **Recipe Markdown Pages:** Recipe markdown pages in `docs/` should use emoji from `includes/emoji.yaml`.
 *   **Recipe Markdown Format:** Recipe markdown pages should follow a consistent format, including front matter for metadata (e.g., comments, tags), a main title with an emoji, an image with `loading=lazy`, a table for serving and time information, and sections for ingredients, cookware, and instructions. Instructions should be numbered steps, with `!!! tip` used for additional information.
+
+# Cooklang Specification
+
+Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:
+
+*   **Metadata:** Defined at the top of the file using `>> key: value`. Common keys include `source`, `serves`, `total time`, `time required`, `image`, and `tags`.
+    ```cook
+    >> source: https://example.com/recipe
+    >> serves: 4
+    >> total time: 30 minutes
+    ```
+*   **Ingredients:** Use `@` followed by the ingredient name. If there is a quantity, use `{}`.
+    *   Simple: `@salt`
+    *   With quantity: `@water{1%cup}`
+    *   With quantity (no unit): `@eggs{2}`
+    *   Multi-word ingredient: `@ground beef{1%lb}`
+*   **Cookware:** Use `#` followed by the cookware name.
+    *   Simple: `#pan`
+    *   Multi-word: `#frying pan{}`
+*   **Timer:** Use `~` followed by the duration in `{}`.
+    *   Example: `~{25%minutes}`
+*   **Comments:** Use `[-` and `-]` for block comments or `--` for line comments.
+    *   Example: `[- This is a comment -]`
+*   **Steps:** Write instructions as natural text. Ingredients, cookware, and timers are embedded directly within the sentences.

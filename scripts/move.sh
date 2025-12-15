@@ -53,7 +53,7 @@ function copy_names() {
       s=$(to_lower "${s}")
       c=$(get_category "${path}")
       n=$(get_recipe_name "${path}")
-      arr+=("{ ${n} = ${c}/${s}.md },")
+      arr+=("{ \"${n}\" = \"${c}/${s}.md\" },")
     done
     printf "%s" "${arr[@]}" | copy
   fi
