@@ -54,12 +54,12 @@ Recipes in this project are written using the [Cooklang](https://cooklang.org/do
     >> total time: 30 minutes
     ```
 *   **Ingredients:** Use `@` followed by the ingredient name. If there is a quantity, use `{}`.
-    *   Simple: `@salt`
+    *   Simple: `@salt{}`
     *   With quantity: `@water{1%cup}`
     *   With quantity (no unit): `@eggs{2}`
     *   Multi-word ingredient: `@ground beef{1%lb}`
 *   **Cookware:** Use `#` followed by the cookware name.
-    *   Simple: `#pan`
+    *   Simple: `#pan{}`
     *   Multi-word: `#frying pan{}`
 *   **Timer:** Use `~` followed by the duration in `{}`.
     *   Example: `~{25%minutes}`
