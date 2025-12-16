@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+  - dessert
 ---
 # :chocolate_bar: Chocolate-Peanut Clusters
 
