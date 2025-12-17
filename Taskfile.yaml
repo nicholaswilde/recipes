@@ -184,6 +184,15 @@ tasks:
     desc: Update git submodules
     cmds:
       - "git submodule update --init --recursive --remote"
+  validate:
+    desc: Validate zensical.toml
+    cmds:
+      - python3 -c "import tomllib, sys; tomllib.load(open('zensical.toml', 'rb'))"
+    preconditions:
+      - test: test -n "$(python3 -c 'import tomllib' 2>/dev/null && echo 'found')"
+        msg: |
+          tomllib not found. Please install a Python version that includes tomllib (Python 3.11+).
+    silent: true
   default:
     cmds:
       - task -a
