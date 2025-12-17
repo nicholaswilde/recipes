@@ -43,6 +43,14 @@ This project is a personal recipe collection managed as a documentation site usi
 *   **Recipe Markdown Pages:** Recipe markdown pages in `docs/` should use emoji from `includes/emoji.yaml`.
 *   **Recipe Markdown Format:** Recipe markdown pages should follow a consistent format, including front matter for metadata (e.g., comments, tags), a main title with an emoji, an image with `loading=lazy`, a table for serving and time information, and sections for ingredients, cookware, and instructions. Each ingredient in the ingredients section should be prefixed with an emoji shortcode from `includes/emoji.yaml`. Instructions should be numbered steps, with `!!! tip` used for additional information.
 
+# Recipe Import Process
+
+1.  **Create the `.cook` file:** Follow the specification in the [Cooklang Specification](#cooklang-specification) section.
+2.  **Add the Image:** Download an image from the source, name it the same as the cook file (e.g., `Recipe Name.jpg`), and place it in the same directory as the `.cook` file.
+3.  **Run the Move Task:** Execute `FILES=<path/to/cookfile> task move`. This converts the `.cook` file to Markdown and runs spellcheck and link check.
+4.  **Update `zensical.toml`:** Add the recipe mapping (e.g., `{ "Recipe Name" = "category/recipe-name.md" },`) to the correct section in `zensical.toml`.
+5.  **Add Ingredient Emojis:** Update the generated Markdown file by adding emoji shortcodes to each item in the ingredients section (referencing `includes/emoji.yaml`).
+
 # Cooklang Specification
 
 Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:
