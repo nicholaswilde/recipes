@@ -49,7 +49,7 @@ This project is a personal recipe collection managed as a documentation site usi
 2.  **Add the Image:** Download an image from the source, name it the same as the cook file (e.g., `Recipe Name.jpg`), and place it in the same directory as the `.cook` file.
 3.  **Run the Move Task:** Execute `FILES=<path/to/cookfile> task move`. This converts the `.cook` file to Markdown and runs spellcheck and link check.
 4.  **Update `zensical.toml`:** Add the recipe mapping (e.g., `{ "Recipe Name" = "category/recipe-name.md" },`) to the correct section in `zensical.toml`.
-5.  **Add Ingredient Emojis:** Update the generated Markdown file by adding emoji shortcodes to each item in the ingredients section (referencing `includes/emoji.yaml`).
+5.  **Add Ingredient Emojis:** Update the generated Markdown file by adding emoji shortcodes to each item in the ingredients section (referencing `includes/emoji.yaml`). If an ingredient is missing from `includes/emoji.yaml`, use your best judgement to pick one and update `includes/emoji.yaml` with the new mapping. Ensure that the selected emoji is compatible with mkdocs-material.
 
 # Cooklang Specification
 

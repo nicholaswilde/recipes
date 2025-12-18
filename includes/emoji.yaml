@@ -127,6 +127,7 @@ emoji:
         - red cabbage
         - shredded cabbage
         - spinach
+        - celery
     - lemon:
         - lemon
         - lemon juice
@@ -170,6 +171,8 @@ emoji:
     - sponge:
         - pulp
         - capers
+    - stew:
+        - vegetable broth
     - strawberry:
         - strawberries
         - strawberry jam
