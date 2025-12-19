@@ -47,6 +47,10 @@ the butter comes to a boil. Continue to cook, scraping the bottom and sides cons
 the sage leaves sizzle and fry and the butter sputters, foams, and eventually you see brown bits floating about, 5 to 8
 minutes.
 
+!!! note
+
+    It seems that the sage can burn and become to bitter. Try taking the sage out early, before it gets too burnt.
+
 ### Step 2
 
 Pour the butter and sage mixture into the bowl of a stand mixer (or into a large bowl if using a hand mixer), making
@@ -106,6 +110,10 @@ crosswise into 1/4 to 1/2 inch thick coins, rotating the log as you cut to avoid
 about 18 cookies per log. Transfer the coins to one of the prepared baking sheets, spacing them about 2 inches apart.
 Refrigerate the first sheet of cookies while you repeat the process with the second log and remaining sage sugar,
 slicing and arranging the cookies on the second prepared baking sheet.
+
+!!! note
+
+    For me, the dough cracked when slicing the log cold. Bringing the log to room temperature seemed to help.
 
 ### Step 11
 
