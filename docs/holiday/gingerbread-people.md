@@ -4,6 +4,7 @@ tags:
   - holiday
   - cookie
   - dessert
+  - recipe-box
 ---
 # :snowman: Gingerbread People
 
@@ -49,6 +50,10 @@ While they are still warm, spread evenly with [lemon glaze][2].
 ### Step 6
 
 Cool before frosting with [Royal icing][1].
+
+## :link: Sources
+
+- Recipe Box
 
 [1]: <../ingredients/post-baking-glazes/royal-icing.md>
 [2]: <../ingredients/post-baking-glazes/lemon-glaze.md>
