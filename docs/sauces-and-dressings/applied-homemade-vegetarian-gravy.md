@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - sauce
-  - dressing
+  - gravy
+  - applied-kitchen
 ---
 # :stew: Applied Homemade Vegetarian Gravy
 
