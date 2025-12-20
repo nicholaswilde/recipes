@@ -3,6 +3,7 @@ comments: true
 tags:
   - sauce
   - lebanese
+  - toum
 ---
 # :garlic: Lebanese Garlic Sauce (Toum)
 
@@ -14,10 +15,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :garlic: 1 cup garlic
+- :garlic: 1 cup (149 g) garlic
 - :salt: 2 tsp salt
-- :oil_drum: 3 cups neutral oil
-- :lemon: 0.5 lemon juice
+- :oil_drum: 3 cups (594 g) neutral oil
+- :lemon: 0.5 cup (114 g) lemon juice
 
 ## :cooking: Cookware
 
