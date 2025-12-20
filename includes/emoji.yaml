@@ -51,19 +51,24 @@ emoji:
     - bread:
         - stone ground whole wheat flour
         - pita
+        - flour
     - butter:
         - butter
         - unsalted shortening
+        - vegan butter
     - candy:
         - confectioners' sugar
         - light corn syrup
         - sugar
         - superfine sugar
+        - powdered sugar
     - carrot:
         - carrot
         - frozen vegetables
         - carrots
+        - grated carrots
     - cheese_wedge:
+        - vegan cream cheese
     - chestnut:
         - nutmeg
         - almonds
@@ -74,10 +79,13 @@ emoji:
         - cashew cream
         - cumin powder
         - shelled, roasted, salted pistachios
+        - baking soda
+        - ground cinnamon
     - chocolate_bar:
         - white chocolate chips
     - coconut:
         - full-fat coconut milk
+        - shredded coconut
     - coffee:
         - espresso beans
     - curry:
@@ -87,6 +95,7 @@ emoji:
     - droplet:
         - water
         - hot water
+        - canola oil
     - ear_of_rice:
         - wheat germ
     - egg:
@@ -124,6 +133,8 @@ emoji:
         - small yellow onion
         - large yellow onion
         - brown onion
+    - pineapple:
+        - crushed pineapple
     - potage:
         - vegetable stock
     - salt:

@@ -79,6 +79,7 @@ Ansel
 Ansel's
 Anson
 Appetito
+applesauce
 aquafaba
 Aquafaba
 arbol
@@ -174,6 +175,7 @@ candlenuts
 cannellini
 cannoli
 Cannoli
+canola
 Capellini
 Caprese
 caramelization
@@ -445,6 +447,7 @@ Improver
 ina-garten
 Incredisauce
 indian
+Indigo
 indonesian
 italian
 jackfruit
@@ -642,6 +645,7 @@ pillowy
 Pillowy
 piloncillo
 pimentón
+pineapple
 pipable
 piquillo
 pistachio
@@ -874,6 +878,7 @@ unmolding
 unsticking
 unstrained
 untoasted
+VegNews
 velouté
 Velouté
 verbana
