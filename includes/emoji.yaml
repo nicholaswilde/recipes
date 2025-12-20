@@ -25,6 +25,7 @@ emoji:
         - medium saucepan
         - saucepan
         - large saucepan
+        - large pot
     - spoon:
         - spatula
         - small offset spatula
@@ -42,8 +43,13 @@ emoji:
         - apple cider vinegar
     - artist_palette:
         - natural food coloring
+    - baby_bottle:
+        - yogurt
+    - beans:
+        - chickpeas
     - bread:
         - stone ground whole wheat flour
+        - pita
     - butter:
         - butter
         - unsalted shortening
@@ -65,8 +71,12 @@ emoji:
         - cashew cream
     - chocolate_bar:
         - white chocolate chips
+    - coconut:
+        - full-fat coconut milk
     - coffee:
         - espresso beans
+    - curry:
+        - ground turmeric
     - droplet:
         - water
         - hot water
@@ -82,21 +92,31 @@ emoji:
         - whole milk
     - herb:
         - fresh basil leaves
+        - fresh mint leaves
     - honey_pot:
         - honey
     - hot_pepper:
         - crushed red pepper flakes
+        - red-pepper flakes
+    - leafy_green:
+        - Swiss chard, kale, or collard greens
     - olive:
         - extra virgin olive oil
+        - olive oil
     - onion:
         - onion
         - yellow onion
         - onions
         - small yellow onion
+        - large yellow onion
+    - potage:
+        - vegetable stock
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
         - salt
+        - Kosher salt
+        - black pepper
     - seedling:
         - pumpkin seeds
         - sunflower seeds
