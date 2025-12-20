@@ -4,9 +4,12 @@ emoji:
     - bowl_with_spoon:
         - large bowl
         - heat-proof bowl
+        - large mixing bowl
+        - lightly greased bowl
     - cookie:
         - baking sheet
         - rimmed baking sheet
+        - loaf pans
     - cup_with_straw:
         - heat-proof liquid measuring cup
     - knife:
@@ -26,6 +29,8 @@ emoji:
     - wastebasket:
         - fine-mesh strainer
         - wire rack
+    - wood:
+        - board
   ingredients:
     - apple:
         - apple
@@ -33,6 +38,11 @@ emoji:
         - apple cider vinegar
     - artist_palette:
         - natural food coloring
+    - bread:
+        - stone ground whole wheat flour
+    - butter:
+        - butter
+        - unsalted shortening
     - candy:
         - confectioners' sugar
         - light corn syrup
@@ -54,14 +64,20 @@ emoji:
     - droplet:
         - water
         - hot water
+    - ear_of_rice:
+        - wheat germ
     - flower_playing_cards:
         - vanilla extract
     - garlic:
         - garlic
         - shallot
         - garlic cloves
+    - glass_of_milk:
+        - whole milk
     - herb:
         - fresh basil leaves
+    - honey_pot:
+        - honey
     - hot_pepper:
         - crushed red pepper flakes
     - olive:
@@ -74,6 +90,7 @@ emoji:
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
+        - salt
     - seedling:
         - pumpkin seeds
         - sunflower seeds
@@ -91,6 +108,8 @@ emoji:
     - tangerine:
         - tangerine
         - orange
+    - tea:
+        - active dry yeast
     - tomato:
         - tomato
         - marinara sauce
