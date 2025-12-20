@@ -19,7 +19,7 @@ tags:
 - :candy: 0.25 cup (78 g) light corn syrup
 - :droplet: 0.25 cup (57 g) hot water
 - :flower_playing_cards: 1 tsp vanilla extract
-- :artist_palette: some natural food coloring
+- :art: some natural food coloring
 - :droplet: some water
 
 ## :cooking: Cookware
