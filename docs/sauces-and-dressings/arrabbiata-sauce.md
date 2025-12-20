@@ -4,7 +4,7 @@ tags:
   - sauce
   - dressing
 ---
-# Arrabbiata Sauce
+# :hot_pepper: Arrabbiata Sauce
 
 ![Arrabbiata Sauce][1]{ loading=lazy }
 
