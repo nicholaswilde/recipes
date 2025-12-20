@@ -17,9 +17,12 @@ emoji:
     - shallow_pan_of_food:
         - medium saucepan
         - saucepan
+        - large saucepan
     - spoon:
         - spatula
         - small offset spatula
+        - wooden spoon
+        - potato masher
     - wastebasket:
         - fine-mesh strainer
         - wire rack
@@ -57,10 +60,20 @@ emoji:
         - garlic
         - shallot
         - garlic cloves
+    - herb:
+        - fresh basil leaves
+    - hot_pepper:
+        - crushed red pepper flakes
+    - olive:
+        - extra virgin olive oil
     - onion:
         - onion
         - yellow onion
         - onions
+        - small yellow onion
+    - salt:
+        - fine sea salt
+        - freshly-cracked black pepper
     - seedling:
         - pumpkin seeds
         - sunflower seeds
@@ -81,6 +94,7 @@ emoji:
     - tomato:
         - tomato
         - marinara sauce
+        - whole tomatoes
     - tulip:
         - saffron
     - tumbler_glass:
