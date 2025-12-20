@@ -60,6 +60,7 @@ This project is a personal recipe collection managed as a documentation site usi
 
 1.  **Create the `.cook` file:** Follow the specification in the [Cooklang Specification](#cooklang-specification) section.
     *   **Recipe Name:** Use only the name of the recipe and use your best guess (e.g. `My Best Friends's Mom's Paprikash` -> `Paprikash`). If an existing recipe already exists with the same name, add the name of the recipe author to the new recipe name (e.g. `Paprikash` -> `Jojo's Paprikash`).
+    *   **Unit Abbreviations:** When adding units to the cook recipe file, use the first upper case for tablespoon (e.g. `Tbsp`) and lowercase for teaspoon (e.g. `tsp`).
     *   **Ignored Items:** Before tagging an item as an ingredient (with `@`), check `cook/config/ignored_ingredients.yaml`. If the item is listed there, do **not** tag it as an ingredient.
 2.  **Add the Image:** Download an image from the source, name it the same as the cook file (e.g., `Recipe Name.jpg`), and place it in the same directory as the `.cook` file.
 3.  **Run the Move Task:** Execute `FILES=<path/to/cookfile> task move`. This converts the `.cook` file to Markdown, runs spellcheck and link check, and generates the `zensical.toml` mapping entry (copying it to clipboard if possible).
