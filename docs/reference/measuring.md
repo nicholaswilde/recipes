@@ -247,6 +247,7 @@ $$
 | Pineapple (fresh or canned, diced)                    | 1 cup             | 170         | 6           |
 | Pistachio Nuts (shlled)                               | 1/2 cup           | 60          | 2-1/8       |
 | Polenta (coarse ground cornmeal)                      | 1 cup             | 163         | 5-3/4       |
+| Potatoes (sliced)                                     | 1 cup             | 157         | 5.5         |
 | Pumpkin Purée                                         | 1 cup             | 227         | 8           |
 | Quinoa (whole)                                        | 1 cup             | 177         | 6-1/4       |
 | Quinoa Flour                                          | 1 cup             | 110         | 3-7/8       |

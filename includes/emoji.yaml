@@ -44,6 +44,8 @@ emoji:
         - cheese
         - jack
         - Parmesan
+        - Swiss cheese
+        - Swiss
     - chestnut:
         - nutmeg
         - almonds
@@ -201,6 +203,7 @@ emoji:
         - strawberry jelly
     - sweet_potato:
         - ginger
+        - potatoes
     - takeout_box:
         - soysauce
     - tangerine:
