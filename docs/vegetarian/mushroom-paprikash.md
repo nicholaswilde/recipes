@@ -2,6 +2,11 @@
 comments: true
 tags:
   - vegetarian
+  - mushrooms
+  - paprikash
+  - dinner
+  - main
+  - hungarian
 ---
 # Mushroom Paprikash
 
@@ -13,14 +18,14 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 tbsp olive oil
-- 1 medium yellow onion
-- 2 tbsp sweet paprika
-- some water
-- 16 oz mushrooms
-- some salt
-- 1 cup sour cream
-- some egg noodles or spaetzle
+- :olive: 3 tbsp olive oil
+- :onion: 1 medium yellow onion
+- :hot_pepper: 2 tbsp sweet paprika
+- :droplet: some water
+- :mushroom: 16 oz (454 g) mushrooms
+- :salt: some salt
+- :rice: 1 cup (227 g) sour cream
+- :spaghetti: some egg noodles or spaetzle
 
 ## :cooking: Cookware
 
