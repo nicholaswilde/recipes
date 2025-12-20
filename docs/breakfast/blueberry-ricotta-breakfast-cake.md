@@ -5,6 +5,8 @@ tags:
 ---
 # Blueberry Ricotta Breakfast Cake
 
+![Blueberry Ricotta Breakfast Cake][2]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 1.97 hours |
@@ -60,3 +62,5 @@ sugar. Serve warm or at room temperature.
 ## :link: Source
 
 - <https://barefootcontessa.com/recipes/blueberry-ricotta-breakfast-cake>
+
+[2]: <../assets/images/blueberry-ricotta-breakfast-cake.png>
