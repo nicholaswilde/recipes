@@ -27,10 +27,13 @@ emoji:
     - butter:
         - butter
         - tofu
+        - unsalted butter
+        - nonstick baking spray
     - candy:
         - sugar
         - powdered sugar
         - confectioner's sugar
+        - granulated sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -44,9 +47,14 @@ emoji:
         - nutmeg
         - almonds
         - pine nuts
+        - pumpkin pie spice
+        - pecans
+        - walnuts
     - chocolate_bar:
         - chocolate
         - chocolate chips
+        - white chocolate chips
+        - butterscotch chips
     - coconut:
         - coconut
     - cup_with_straw:
@@ -65,6 +73,7 @@ emoji:
     - ear_of_rice:
         - flour
         - oats
+        - all-purpose flour
     - egg:
         - egg
         - mayonnaise
@@ -121,10 +130,12 @@ emoji:
     - icecream:
         - vanilla
         - icecream
+        - vanilla extract
     - ice_cube:
         - ice water
     - jack_o_lantern:
         - pumpkin
+        - pumpkin purée
     - leafy_green:
         - cabbage
         - red cabbage
@@ -163,6 +174,7 @@ emoji:
     - salt:
         - salt
         - pepper
+        - kosher salt
     - seedling:
         - pumpkin seeds
         - sunflower seeds
