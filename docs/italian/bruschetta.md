@@ -2,8 +2,11 @@
 comments: true
 tags:
   - italian
+  - appetizer
+  - bruschetta
+  - tomato
 ---
-# Bruschetta
+# :tomato: Bruschetta
 
 ![Bruschetta][1]{ loading=lazy }
 
@@ -58,5 +61,8 @@ Broil slices for 1.5 minutes to 2 minutes on each side, until surface starts to 
 Arrange bread like spokes of a wheel on a plate. Pile tomato mixture in the middle of the slices. Garnish with italian
 parsley.
 
-[1]: <../assets/images/bruschetta.jpg>
+## :link: Source
 
+- Cheesecake Factory
+
+[1]: <../assets/images/bruschetta.jpg>
