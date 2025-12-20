@@ -60,4 +60,4 @@ Sprinkle with fleur de sel and cool.
 
 - <https://www.foodnetwork.com/recipes/ina-garten/salted-pistachio-meringues-10021135>
 
-[1]: <../assets/images/salted-pistachio-meringues.jpg>
+[1]: <../assets/images/salted-pistachio-meringues.png>
