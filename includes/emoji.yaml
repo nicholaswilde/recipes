@@ -125,6 +125,7 @@ emoji:
         - chile
         - paprika
         - chili powder
+        - sweet paprika
     - hotsprings:
         - hot water
     - icecream:
@@ -156,11 +157,14 @@ emoji:
         - brown sugar
     - microbe:
         - nutritional yeast
+    - mushroom:
+        - mushrooms
     - olive:
         - olive
         - olive oil
     - onion:
         - onion
+        - yellow onion
     - orange_circle:
         - orange
     - peanuts:
@@ -183,6 +187,8 @@ emoji:
         - spaghetti
         - pasta
         - macaroni
+        - egg noodles
+        - spaetzle
     - sponge:
         - pulp
         - capers
