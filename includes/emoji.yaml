@@ -48,6 +48,7 @@ emoji:
     - beans:
         - chickpeas
         - tinned chickpeas
+        - shelled edamame
     - bread:
         - stone ground whole wheat flour
         - pita
@@ -81,6 +82,7 @@ emoji:
         - shelled, roasted, salted pistachios
         - baking soda
         - ground cinnamon
+        - ground cumin
     - chocolate_bar:
         - white chocolate chips
     - coconut:
@@ -113,6 +115,7 @@ emoji:
     - herb:
         - fresh basil leaves
         - fresh mint leaves
+        - fresh cilantro
     - honey_pot:
         - honey
     - hot_pepper:
@@ -144,6 +147,7 @@ emoji:
         - Kosher salt
         - black pepper
         - fleur de sel
+        - pepper
     - seedling:
         - pumpkin seeds
         - sunflower seeds
@@ -159,9 +163,11 @@ emoji:
     - takeout_box:
         - soysauce
         - coconut aminos
+        - tahini
     - tangerine:
         - tangerine
         - orange
+        - lemon juice
     - tea:
         - active dry yeast
     - tomato:

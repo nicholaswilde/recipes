@@ -239,6 +239,7 @@ churro
 churros
 Churros
 ci
+cilantro
 Cilentana
 Ciliegine
 Cinnamon-Streusel
@@ -331,6 +332,7 @@ Dulcey
 dulse
 duxelles
 echinacea
+edamame
 Eggless
 eggwash
 einkorn
