@@ -47,6 +47,7 @@ emoji:
         - yogurt
     - beans:
         - chickpeas
+        - tinned chickpeas
     - bread:
         - stone ground whole wheat flour
         - pita
@@ -56,6 +57,7 @@ emoji:
     - candy:
         - confectioners' sugar
         - light corn syrup
+        - sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -69,6 +71,7 @@ emoji:
         - pecans
         - walnuts
         - cashew cream
+        - cumin powder
     - chocolate_bar:
         - white chocolate chips
     - coconut:
@@ -77,6 +80,8 @@ emoji:
         - espresso beans
     - curry:
         - ground turmeric
+        - turmeric powder
+        - garam masala
     - droplet:
         - water
         - hot water
@@ -90,6 +95,7 @@ emoji:
         - garlic cloves
     - glass_of_milk:
         - whole milk
+        - double cream
     - herb:
         - fresh basil leaves
         - fresh mint leaves
@@ -98,17 +104,21 @@ emoji:
     - hot_pepper:
         - crushed red pepper flakes
         - red-pepper flakes
+        - chilli powder
     - leafy_green:
         - Swiss chard, kale, or collard greens
+        - spinach leaves
     - olive:
         - extra virgin olive oil
         - olive oil
+        - oil
     - onion:
         - onion
         - yellow onion
         - onions
         - small yellow onion
         - large yellow onion
+        - brown onion
     - potage:
         - vegetable stock
     - salt:
@@ -122,6 +132,7 @@ emoji:
         - sunflower seeds
         - pepitas
         - hemp seeds
+        - mustard seeds
     - sweet_potato:
         - ginger
         - potatoes
@@ -140,6 +151,7 @@ emoji:
         - tomato
         - marinara sauce
         - whole tomatoes
+        - tomato purée
     - tulip:
         - saffron
     - tumbler_glass:

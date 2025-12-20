@@ -60,6 +60,7 @@ AJI
 al
 Albers
 al dente
+Alison
 alla
 Alla
 All'Assassina
@@ -83,6 +84,7 @@ Aquafaba
 arbol
 Arborio
 arils
+Arrabbiata
 arrabiata
 Arthurs
 artisanal
@@ -213,6 +215,7 @@ chilero
 Chilero
 chiles
 chilis
+chilli
 chillies
 chimichurri
 Chimichurri
@@ -578,6 +581,7 @@ Non-Diastatic
 nora-cooks
 nori
 Nori
+NYT
 oelek
 oil-tahini
 ok
@@ -624,6 +628,7 @@ Penne
 pepe
 pepitas
 Peppadew
+Pepperidge
 pepperoncini
 pepperoncinis
 persian
@@ -719,6 +724,7 @@ Roja
 rollout
 roma
 Roma
+Roman
 romanesco
 Romanesco
 rombi
@@ -885,8 +891,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Arrabbiata
-Pepperidge
-NYT
-Alison
-Roman

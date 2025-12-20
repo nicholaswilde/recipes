@@ -29,6 +29,7 @@ Home = "index.md"
 [[project.nav]]
 Asian = [
   { "Banh Mi Sandwich" = "asian/banh-mi-sandwich.md" },
+  { "Chickpea and Spinach Curry" = "asian/chickpea-and-spinach-curry.md" },
   { "Coconut Curried Vegetables with Rice" = "asian/coconut-curried-vegetables-with-rice.md" },
   { "Cool & Spicy Noodle Salad" = "asian/cool-and-spicy-noodle-salad.md" },
   { "Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md" },
