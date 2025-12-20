@@ -15,42 +15,45 @@ emoji:
     - apple:
         - apple
         - apple sauce
-    - bagel:
-        - cream cheese
-    - bell_pepper:
-        - bell pepper
-    - blueberry:
-        - blueberries
-    - bread:
-        - bread crumbs
-        - bread
-        - cornbread
+        - apple cider vinegar
 ...
-    - curry:
-        - curry powder
-        - lentils
-        - dry black eyed peas
+    - carrot:
+        - carrot
+        - frozen vegetables
+        - carrots
+    - cheese_wedge:
 ...
-    - hot_pepper:
-        - chile
-        - paprika
-        - chili powder
-        - sweet paprika
-        - smoked paprika
-        - cayenne pepper
+    - chestnut:
+        - nutmeg
+        - almonds
+        - pine nuts
+        - pumpkin pie spice
+        - pecans
+        - walnuts
+        - cashew cream
 ...
-    - leafy_green:
-        - cabbage
-        - red cabbage
-        - shredded cabbage
-        - spinach
-        - celery
-        - collard greens
+    - garlic:
+        - garlic
+        - shallot
+        - garlic cloves
+...
+    - onion:
+        - onion
+        - yellow onion
+        - onions
+...
+    - seedling:
+        - pumpkin seeds
+        - sunflower seeds
+        - pepitas
+        - hemp seeds
 ...
     - sweet_potato:
         - ginger
         - potatoes
         - sweet potato
+        - fresh ginger
+        - ground ginger
     - takeout_box:
         - soysauce
         - coconut aminos
