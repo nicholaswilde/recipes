@@ -3,26 +3,41 @@ emoji:
   cookware:
     - bowl_with_spoon:
         - large bowl
+        - heat-proof bowl
     - cookie:
         - baking sheet
+        - rimmed baking sheet
+    - cup_with_straw:
+        - heat-proof liquid measuring cup
+    - knife:
+        - sharp knife
     - page_facing_up:
         - parchment paper
+        - parchment
     - shallow_pan_of_food:
         - medium saucepan
+        - saucepan
     - spoon:
         - spatula
+        - small offset spatula
+    - wastebasket:
+        - fine-mesh strainer
+        - wire rack
   ingredients:
     - apple:
         - apple
         - apple sauce
         - apple cider vinegar
-...
+    - artist_palette:
+        - natural food coloring
+    - candy:
+        - confectioners' sugar
+        - light corn syrup
     - carrot:
         - carrot
         - frozen vegetables
         - carrots
     - cheese_wedge:
-...
     - chestnut:
         - nutmeg
         - almonds
@@ -31,23 +46,26 @@ emoji:
         - pecans
         - walnuts
         - cashew cream
-...
+    - chocolate_bar:
+        - white chocolate chips
+    - droplet:
+        - water
+        - hot water
+    - flower_playing_cards:
+        - vanilla extract
     - garlic:
         - garlic
         - shallot
         - garlic cloves
-...
     - onion:
         - onion
         - yellow onion
         - onions
-...
     - seedling:
         - pumpkin seeds
         - sunflower seeds
         - pepitas
         - hemp seeds
-...
     - sweet_potato:
         - ginger
         - potatoes
