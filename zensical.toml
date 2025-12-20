@@ -82,6 +82,7 @@ Breads = [
   { "Cranberry Orange Bread" = "breads/cranberry-orange-bread.md" },
   { "Croissants" = "breads/croissants.md" },
   { "Delicious Zucchini Bread" = "breads/delicious-zucchini-bread.md" },
+  { "Épis de Blé" = "breads/epis-de-ble.md" },
   { "Flour Tortillas" = "breads/flour-tortillas.md" },
   { "French Bread" = "breads/french-bread.md" },
   { "Garlic Bread" = "breads/garlic-bread.md" },
