@@ -147,6 +147,7 @@ $$
 | Chocolate Chips                                       | 1 cup             | 170         | 6           |
 | Cinnamon Sugar                                        | 1/4 cup           | 50          | 1-3/4       |
 | Cocoa (unsweetened)                                   | 1/2 cup           | 42          | 1-1/2       |
+| Coffee Beans (whole)                                  | 1 cup             | 85          | 3           |
 | Coconut (sweetened, shredded)                         | 1 cup             | 85          | 3           |
 | Coconut (unsweetened, large flakes)                   | 1 cup             | 60          | 2-1/8       |
 | Coconut (unsweetened, shredded)                       | 1 cup             | 113         | 4           |

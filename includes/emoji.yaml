@@ -12,8 +12,12 @@ emoji:
         - loaf pans
     - cup_with_straw:
         - heat-proof liquid measuring cup
+    - gear:
+        - coffee or spice grinder
     - knife:
         - sharp knife
+    - package:
+        - container with a tight-fitting lid
     - page_facing_up:
         - parchment paper
         - parchment
@@ -61,6 +65,8 @@ emoji:
         - cashew cream
     - chocolate_bar:
         - white chocolate chips
+    - coffee:
+        - espresso beans
     - droplet:
         - water
         - hot water
