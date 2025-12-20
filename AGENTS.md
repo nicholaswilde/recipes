@@ -40,6 +40,7 @@ This project is a personal recipe collection managed as a documentation site usi
 *   **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
 *   **Front Matter:** Markdown files use front matter for metadata like comments and tags.
 *   **Dependencies:** Python dependencies for Zensical are managed via `pip install` in the CI workflow. `spellchecker-cli` is installed globally via `npm install`.
+*   **Git Commits:** If a commit addresses a GitHub issue, include the issue reference in the commit message using the `Fixes #123` syntax to automatically close the issue.
 *   **Recipe Markdown Pages:** Recipe markdown pages in `docs/` should use emoji from `includes/emoji.yaml`.
 *   **Recipe Markdown Format:** Recipe markdown pages should follow a consistent format, including front matter for metadata (e.g., comments, tags), a main title with an emoji, an image with `loading=lazy`, a table for serving and time information, and sections for ingredients, cookware, and instructions. Each ingredient in the ingredients section should be prefixed with an emoji shortcode from `includes/emoji.yaml`. Instructions should be numbered steps, with `!!! tip` used for additional information.
 
