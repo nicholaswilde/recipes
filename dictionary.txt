@@ -545,6 +545,8 @@ Medjool
 Melomakarona
 meltable
 melty
+meringue
+meringues
 mexican
 Mexicrema
 Mezza
@@ -642,6 +644,8 @@ piloncillo
 pimentón
 pipable
 piquillo
+pistachio
+pistachios
 pizzelle
 Pizzelle
 pkgs

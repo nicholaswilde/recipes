@@ -58,6 +58,7 @@ emoji:
         - confectioners' sugar
         - light corn syrup
         - sugar
+        - superfine sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -72,6 +73,7 @@ emoji:
         - walnuts
         - cashew cream
         - cumin powder
+        - shelled, roasted, salted pistachios
     - chocolate_bar:
         - white chocolate chips
     - coconut:
@@ -87,8 +89,11 @@ emoji:
         - hot water
     - ear_of_rice:
         - wheat germ
+    - egg:
+        - extra-large egg whites
     - flower_playing_cards:
         - vanilla extract
+        - pure vanilla extract
     - garlic:
         - garlic
         - shallot
@@ -127,6 +132,7 @@ emoji:
         - salt
         - Kosher salt
         - black pepper
+        - fleur de sel
     - seedling:
         - pumpkin seeds
         - sunflower seeds
