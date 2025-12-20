@@ -290,6 +290,7 @@ $$
 | Toasted Almond Flour                                  | 1 cup             | 96          | 3-3/8       |
 | Toffee Chunks                                         | 1 cup             | 156         | 5-1/2       |
 | Tomato Paste                                          | 2 Tbsp            | 29          | 1           |
+| Tomatoes (fresh, chopped)                             | 1 cup             | 180         | 6.35        |
 | Tubinado Sugar (raw)                                  | 1 cup             | 180         | 6-3/8       |
 | Unbleached Cake Flour                                 | 1 cup             | 120         | 4-1/4       |
 | Vanilla Extract                                       | 1 Tbsp            | 14          | 1/2         |

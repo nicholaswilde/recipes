@@ -708,6 +708,7 @@ Ingredients = [
 [[project.nav]]
 Italian = [
   { "Baked Cream Cheese Spaghetti Casserole" = "italian/baked-cream-cheese-spaghetti-casserole.md" },
+  { "Bruschetta" = "italian/bruschetta.md" },
   { "Butternut Squash and Sage Spaghetti" = "italian/butternut-squash-and-sage-spaghetti.md" },
   { "Butternut Squash Pasta with Walnuts & Sage" = "italian/butternut-squash-pasta-with-walnuts-and-sage.md" },
   { "Caprese Risoni" = "italian/caprese-risoni.md" },
