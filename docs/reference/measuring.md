@@ -102,6 +102,7 @@ $$
 | Basil Pesto                                           | 2 Tbsp            | 28          | 1           |
 | Bell Peppers (fresh)                                  | 1 cup             | 142         | 5           |
 | Berries (frozen)                                      | 1 cup             | 142         | 5           |
+| Black-Eyed Peas (dry)                                 | 1 cup             | 175         | 6.2         |
 | Blueberries (dried)                                   | 1 cup             | 156         | 5-1/2       |
 | Blueberries (fresh)                                   | 1 cup             | 170         | 6           |
 | Blueberry Juice                                       | 1 cup             | 241         | 8-1/2       |
@@ -152,6 +153,7 @@ $$
 | Coconut Flour                                         | 1 cup             | 128         | 4-1/2       |
 | Coconut Milk Powder                                   | 1/2 cup           | 57          | 2           |
 | Coconut Oil                                           | 1/2 cup           | 113         | 4           |
+| Collard Greens (chopped, raw)                         | 1 cup             | 36          | 1.27        |
 | Confectioners’ Sugar (unsifted)                       | 2 cups            | 227         | 8           |
 | Cookie Crumbs                                         | 1 cup             | 85          | 3           |
 | Corn (popped)                                         | 4 cups            | 21          | 3/4         |

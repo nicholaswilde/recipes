@@ -849,6 +849,7 @@ Mexican = [
 [[project.nav]]
 "Pressure Cooker" = [
   { "Black Beans" = "pressurecooker/black-beans.md" },
+  { "Black Eyed Peas and Greens" = "pressurecooker/black-eyed-peas-and-greens.md" },
   { "Brown Rice" = "pressurecooker/brown-rice.md" },
   { "Chickpeas" = "pressurecooker/chickpeas.md" },
   { "Refried Black Beans" = "pressurecooker/refried-black-beans.md" },
