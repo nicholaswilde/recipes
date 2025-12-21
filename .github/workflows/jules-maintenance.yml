@@ -15,16 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Invoke Jules
+        if: ${{ contains(fromJSON('["trusted-user", "another-user"]'), github.event.issue.user.login) }}
         uses: google-labs-code/jules-invoke@v1
         with:
-          api-key: ${{ secrets.JULES_API_KEY }}
-          model: gemini-2.0-flash-exp
-          instruction: |
-            Optimize images in the repository that are larger than 500KB.
-            Resize them to a maximum width of 1920px maintaining aspect ratio.
-            If file extensions change (e.g. to .webp), update references in .md files.
-            Validate all image links in Markdown files and flag broken ones.
-            Generate a Markdown table in the PR description showing "Before" vs "After" file sizes and savings percentages.
-          base-branch: main
-          branch-name: jules-maintenance/images
-          force-push: true
+          jules_api_key: ${{ secrets.JULES_API_KEY }}
+          prompt: |
+            1. Optimize images in the repository that are larger than 500KB.
+            2. Resize them to a maximum width of 1920px maintaining aspect ratio.
+            3. If file extensions change (e.g. to .webp), update references in .md files.
+            4. Validate all image links in Markdown files and flag broken ones.
+            5. Generate a Markdown table in the PR description showing "Before" vs "After" file sizes and savings percentages.
