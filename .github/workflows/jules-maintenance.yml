@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Invoke Jules
-        if: ${{ contains(fromJSON('["trusted-user", "another-user"]'), github.event.issue.user.login) }}
         uses: google-labs-code/jules-action/jules-invoke@v1
         with:
           jules_api_key: ${{ secrets.JULES_API_KEY }}
