@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- :glass_of_milk: 1 cup warm whole milk
-- :microbe: 1 pkg instant yeast
-- :butter: 5 Tbsp unsalted butter
+- :glass_of_milk: 1 cup (227 g) warm whole milk
+- :microbe: 1 pkg (.25 oz) instant yeast
+- :butter: 5 Tbsp (71 g) unsalted butter
 - :candy: 50 g granulated sugar
 - :egg: 1 large egg
 - :ear_of_rice: 450 g all-purpose flour
@@ -27,7 +27,7 @@ tags:
 
 - :candy: 100 g granulated sugar
 - :custard: 1 Tbsp cinnamon
-- :butter: 3 Tbsp unsalted butter
+- :butter: 3 Tbsp (42 g) unsalted butter
 
 ## :salt: Ingredients - Topping
 
