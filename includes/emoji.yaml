@@ -45,6 +45,7 @@ emoji:
         - natural food coloring
     - baby_bottle:
         - yogurt
+        - vegan mayonnaise
     - beans:
         - chickpeas
         - tinned chickpeas
@@ -70,6 +71,7 @@ emoji:
         - grated carrots
     - cheese_wedge:
         - vegan cream cheese
+        - nutritional yeast
     - chestnut:
         - nutmeg
         - almonds
@@ -109,6 +111,7 @@ emoji:
         - garlic
         - shallot
         - garlic cloves
+        - garlic powder
     - glass_of_milk:
         - whole milk
         - double cream
@@ -122,6 +125,7 @@ emoji:
         - crushed red pepper flakes
         - red-pepper flakes
         - chilli powder
+        - sweet paprika
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -129,6 +133,7 @@ emoji:
         - extra virgin olive oil
         - olive oil
         - oil
+        - capers
     - onion:
         - onion
         - yellow onion
@@ -181,3 +186,4 @@ emoji:
         - rum
     - wine_glass:
         - wine
+        - red wine vinegar
