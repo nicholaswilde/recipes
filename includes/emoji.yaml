@@ -14,6 +14,8 @@ emoji:
         - heat-proof liquid measuring cup
     - gear:
         - coffee or spice grinder
+        - blender
+        - immersion blender
     - knife:
         - sharp knife
     - package:
@@ -26,6 +28,7 @@ emoji:
         - saucepan
         - large saucepan
         - large pot
+        - large heavy pot
     - spoon:
         - spatula
         - small offset spatula
@@ -126,6 +129,7 @@ emoji:
         - red-pepper flakes
         - chilli powder
         - sweet paprika
+        - chili oil
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -145,6 +149,7 @@ emoji:
         - crushed pineapple
     - potage:
         - vegetable stock
+        - vegetable broth
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
@@ -165,6 +170,7 @@ emoji:
         - sweet potato
         - fresh ginger
         - ground ginger
+        - ground dried ginger
     - takeout_box:
         - soysauce
         - coconut aminos
