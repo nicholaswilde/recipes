@@ -1214,6 +1214,7 @@ Vegetarian = [
 
 [[project.nav]]
 Reference = [
+  { "Charts" = "reference/charts.md" },
   { "Equivalents & Substitutes" = "reference/equivalents-and-substitutes.md" },
   { "Measuring" = "reference/measuring.md" },
   { "Pressure Cooker" = "reference/pressure-cooker.md" },
