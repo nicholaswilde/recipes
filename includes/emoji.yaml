@@ -46,6 +46,9 @@ emoji:
         - apple cider vinegar
     - artist_palette:
         - natural food coloring
+    - avocado:
+        - avocado
+        - sliced avocado
     - baby_bottle:
         - yogurt
         - vegan mayonnaise
@@ -53,10 +56,13 @@ emoji:
         - chickpeas
         - tinned chickpeas
         - shelled edamame
+        - dried black beans
+        - seasoned black beans
     - bread:
         - stone ground whole wheat flour
         - pita
         - flour
+        - corn tortillas
     - butter:
         - butter
         - unsalted shortening
@@ -109,6 +115,9 @@ emoji:
         - canola oil
     - ear_of_rice:
         - wheat germ
+        - cooked quinoa
+        - quinoa
+        - brown rice
     - egg:
         - extra-large egg whites
     - flower_playing_cards:
@@ -127,6 +136,9 @@ emoji:
         - fresh mint leaves
         - fresh cilantro
         - bay leaves
+        - dried Mexican oregano
+        - freshly chopped cilantro
+        - dried oregano
     - honey_pot:
         - honey
     - hot_pepper:
@@ -137,6 +149,7 @@ emoji:
         - chili oil
         - Sichuan peppercorns
         - Asian chilli powder
+        - smoked paprika
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -153,11 +166,15 @@ emoji:
         - small yellow onion
         - large yellow onion
         - brown onion
+        - red onion
+        - diced red onion
+        - large onion
     - pineapple:
         - crushed pineapple
     - potage:
         - vegetable stock
         - vegetable broth
+        - low-sodium vegetable broth
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
@@ -188,6 +205,10 @@ emoji:
         - tangerine
         - orange
         - lemon juice
+        - lime
+        - fresh lime juice
+        - lime juice
+        - wedge of fresh lime
     - tea:
         - active dry yeast
     - tomato:
@@ -195,6 +216,7 @@ emoji:
         - marinara sauce
         - whole tomatoes
         - tomato purée
+        - salsa
     - tulip:
         - saffron
     - tumbler_glass:
