@@ -142,6 +142,7 @@ $$
 | Cherries (frozen)                                     | 1 cup             | 113         | 4           |
 | Chia Seeds                                  | 1 Tbsp            | 10          | 3/8         |
 | Chickpea Flour                                        | 1 cup             | 85          | 3           |
+| Chili powder                                          | 1 cup             | 108         | 3-7/8       |
 | Chives (fresh)                                        | 1/2 cup           | 21          | 3/4         |
 | Chocolate (chopped)                                   | 1 cup             | 170         | 6           |
 | Chocolate Chips                                       | 1 cup             | 170         | 6           |
