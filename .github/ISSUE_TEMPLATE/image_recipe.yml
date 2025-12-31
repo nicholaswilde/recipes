@@ -1,0 +1,36 @@
+name: Recipe from Image
+description: Submit a new recipe using an image as the source.
+title: "[Recipe]: "
+labels: ["new recipe", "image source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a new recipe! Please upload the image of the recipe below.
+  - type: input
+    id: recipe_name
+    attributes:
+      label: Recipe Name
+      description: What is the name of the recipe?
+      placeholder: e.g. Grandma's Chocolate Chip Cookies
+    validations:
+      required: true
+  - type: textarea
+    id: recipe_image
+    attributes:
+      label: Recipe Image
+      description: Drag and drop the image of the recipe here.
+      placeholder: ![image](url)
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (Optional)
+      description: If this image is from a website, please provide the link.
+      placeholder: https://example.com/recipe
+  - type: textarea
+    id: notes
+    attributes:
+      label: Transcription / Notes (Optional)
+      description: If the text is hard to read, or if you have specific notes (servings, time), add them here.
