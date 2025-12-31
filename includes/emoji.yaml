@@ -88,6 +88,8 @@ emoji:
         - baking soda
         - ground cinnamon
         - ground cumin
+        - star anise
+        - cinnamon stick
     - chocolate_bar:
         - white chocolate chips
     - coconut:
@@ -122,6 +124,7 @@ emoji:
         - fresh basil leaves
         - fresh mint leaves
         - fresh cilantro
+        - bay leaves
     - honey_pot:
         - honey
     - hot_pepper:
@@ -130,6 +133,8 @@ emoji:
         - chilli powder
         - sweet paprika
         - chili oil
+        - Sichuan peppercorns
+        - Asian chilli powder
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -138,6 +143,7 @@ emoji:
         - olive oil
         - oil
         - capers
+        - neutral-tasting oil
     - onion:
         - onion
         - yellow onion
@@ -164,6 +170,7 @@ emoji:
         - pepitas
         - hemp seeds
         - mustard seeds
+        - cardamom pods
     - sweet_potato:
         - ginger
         - potatoes
