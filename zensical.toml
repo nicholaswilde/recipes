@@ -87,6 +87,7 @@ Breads = [
   { "Flour Tortillas" = "breads/flour-tortillas.md" },
   { "French Bread" = "breads/french-bread.md" },
   { "Garlic Bread" = "breads/garlic-bread.md" },
+  { "Garlic Knots" = "breads/garlic-knots.md" },
   { "Gilligan Monkey Bread" = "breads/gilligan-monkey-bread.md" },
   { "Grilled Naan" = "breads/grilled-naan.md" },
   { "Honey Beer Bread" = "breads/honey-beer-bread.md" },

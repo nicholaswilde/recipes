@@ -63,10 +63,12 @@ emoji:
         - pita
         - flour
         - corn tortillas
+        - bread flour
     - butter:
         - butter
         - unsalted shortening
         - vegan butter
+        - salted butter
     - candy:
         - confectioners' sugar
         - light corn syrup
@@ -81,6 +83,7 @@ emoji:
     - cheese_wedge:
         - vegan cream cheese
         - nutritional yeast
+        - parmesan cheese
     - chestnut:
         - nutmeg
         - almonds
@@ -113,6 +116,7 @@ emoji:
         - water
         - hot water
         - canola oil
+        - warm water
     - ear_of_rice:
         - wheat germ
         - cooked quinoa
@@ -139,6 +143,7 @@ emoji:
         - dried Mexican oregano
         - freshly chopped cilantro
         - dried oregano
+        - fresh basil
     - honey_pot:
         - honey
     - hot_pepper:
@@ -211,6 +216,7 @@ emoji:
         - wedge of fresh lime
     - tea:
         - active dry yeast
+        - instant yeast
     - tomato:
         - tomato
         - marinara sauce
