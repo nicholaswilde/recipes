@@ -27,7 +27,7 @@ tags:
     - :hot_pepper: 0.13 tsp cayenne pepper
     - :salt: 0.13 tsp finely ground black pepper
     - :tomato: 1 can (14.5-ounce / 411 g) diced tomatoes
-    - :beans: 4 cups (680 g) cooked chickpeas
+    - :beans: 4 cups (680 g) [cooked chickpeas](../pressurecooker/chickpeas.md)
     - :droplet: 0.5 cup (114 g) water
     - :coconut: 1 can (14-ounce / 397 g) unsweetened coconut cream
     - :salt: 1 tsp salt
@@ -48,7 +48,7 @@ tags:
     - :hot_pepper: 0.33 tsp cayenne pepper
     - :salt: 0.33 tsp finely ground black pepper
     - :tomato: 2.7 cans (14.5-ounce / 1096 g) diced tomatoes
-    - :beans: 10.67 cups (1813 g) cooked chickpeas
+    - :beans: 10.67 cups (1813 g) [cooked chickpeas](../pressurecooker/chickpeas.md)
     - :droplet: 1.33 cups (304 g) water
     - :coconut: 2.7 cans (14-ounce / 1059 g) unsweetened coconut cream
     - :salt: 2.67 tsp salt
