@@ -15,24 +15,47 @@ tags:
 
 ## :salt: Ingredients
 
-- :olive: 3 Tbsp neutral cooking oil
-- :seedling: 0.25 tsp cumin seeds
-- :seedling: 0.25 tsp brown mustard seeds
-- :onion: 1 medium yellow onion (142 g)
-- :curry: 2 tsp ground coriander
-- :chestnut: 1 tsp ground cumin
-- :curry: 0.25 tsp ground turmeric
-- :hot_pepper: 0.13 tsp cayenne pepper
-- :salt: 0.13 tsp finely ground black pepper
-- :tomato: 1 can (14.5-ounce / 411 g) diced tomatoes
-- :beans: 4 cups (680 g) cooked chickpeas
-- :droplet: 0.5 cup (114 g) water
-- :coconut: 1 can (14-ounce / 397 g) unsweetened coconut cream
-- :salt: 1 tsp salt
-- :tangerine: 1 tsp freshly squeezed lemon juice
-- :herb: 2 Tbsp fresh cilantro
-- :baby_bottle: some cashew yogurt
-- :baby_bottle: some Yogurt Drizzle Sauce
+=== "3 Servings"
+
+    - :olive: 3 Tbsp neutral cooking oil
+    - :seedling: 0.25 tsp cumin seeds
+    - :seedling: 0.25 tsp brown mustard seeds
+    - :onion: 1 medium yellow onion (142 g)
+    - :curry: 2 tsp ground coriander
+    - :chestnut: 1 tsp ground cumin
+    - :curry: 0.25 tsp ground turmeric
+    - :hot_pepper: 0.13 tsp cayenne pepper
+    - :salt: 0.13 tsp finely ground black pepper
+    - :tomato: 1 can (14.5-ounce / 411 g) diced tomatoes
+    - :beans: 4 cups (680 g) cooked chickpeas
+    - :droplet: 0.5 cup (114 g) water
+    - :coconut: 1 can (14-ounce / 397 g) unsweetened coconut cream
+    - :salt: 1 tsp salt
+    - :tangerine: 1 tsp freshly squeezed lemon juice
+    - :herb: 2 Tbsp fresh cilantro
+    - :baby_bottle: some cashew yogurt
+    - :baby_bottle: some Yogurt Drizzle Sauce
+
+=== "8 Servings"
+
+    - :olive: 8 Tbsp neutral cooking oil
+    - :seedling: 0.67 tsp cumin seeds
+    - :seedling: 0.67 tsp brown mustard seeds
+    - :onion: 2.7 medium yellow onions (379 g)
+    - :curry: 5.33 tsp ground coriander
+    - :chestnut: 2.67 tsp ground cumin
+    - :curry: 0.67 tsp ground turmeric
+    - :hot_pepper: 0.33 tsp cayenne pepper
+    - :salt: 0.33 tsp finely ground black pepper
+    - :tomato: 2.7 cans (14.5-ounce / 1096 g) diced tomatoes
+    - :beans: 10.67 cups (1813 g) cooked chickpeas
+    - :droplet: 1.33 cups (304 g) water
+    - :coconut: 2.7 cans (14-ounce / 1059 g) unsweetened coconut cream
+    - :salt: 2.67 tsp salt
+    - :tangerine: 2.67 tsp freshly squeezed lemon juice
+    - :herb: 5.33 Tbsp fresh cilantro
+    - :baby_bottle: some cashew yogurt
+    - :baby_bottle: some Yogurt Drizzle Sauce
 
 ## :cooking: Cookware
 
