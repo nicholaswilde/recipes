@@ -6,6 +6,8 @@ tags:
   - dairy-free
   - salad
   - dressing
+  - favorite
+  - julia-turshen
 ---
 # Pizzeria Vinaigrette
 
