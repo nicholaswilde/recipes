@@ -100,6 +100,7 @@ emoji:
         - star anise
         - cinnamon stick
         - raw unsalted peanuts
+        - peanut butter
     - curry:
     - chocolate_bar:
         - white chocolate chips
@@ -112,6 +113,7 @@ emoji:
         - ground turmeric
         - turmeric powder
         - garam masala
+        - Thai red curry paste
     - droplet:
         - water
         - hot water
@@ -136,6 +138,7 @@ emoji:
     - glass_of_milk:
         - whole milk
         - double cream
+        - unsweetened nondairy milk
     - herb:
         - fresh basil leaves
         - fresh mint leaves
@@ -147,6 +150,7 @@ emoji:
         - fresh basil
     - honey_pot:
         - honey
+        - maple syrup
     - hot_pepper:
         - crushed red pepper flakes
         - red-pepper flakes
@@ -156,6 +160,7 @@ emoji:
         - Sichuan peppercorns
         - Asian chilli powder
         - smoked paprika
+        - Gochujang
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -165,6 +170,7 @@ emoji:
         - oil
         - capers
         - neutral-tasting oil
+        - toasted sesame oil
     - onion:
         - onion
         - yellow onion
@@ -207,6 +213,7 @@ emoji:
         - soysauce
         - coconut aminos
         - tahini
+        - tamari
     - tangerine:
         - tangerine
         - orange
@@ -231,3 +238,4 @@ emoji:
     - wine_glass:
         - wine
         - red wine vinegar
+        - rice vinegar
