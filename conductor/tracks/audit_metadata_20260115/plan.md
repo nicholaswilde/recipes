@@ -16,12 +16,12 @@ Goal: Ensure basic metadata and performance optimizations are in place.
 - [x] Task: Ensure all recipe images in Markdown have `loading="lazy"` attribute 0ade03e
 - [x] Task: Conductor - User Manual Verification 'Metadata and Image Audit' (Protocol in workflow.md) 6ed248b
 
-## Phase 3: Formatting and Emoji Standardization
+## Phase 3: Formatting and Emoji Standardization [checkpoint: ed76b25]
 Goal: Standardize units in `.cook` files and emojis in `.md` files.
 
 - [x] Task: Standardize units in `.cook` files (`Tbsp`, `tsp`) 857a6cc
 - [x] Task: Update Markdown ingredient lists to use emoji shortcodes from `includes/emoji.yaml` 8f92573
-- [ ] Task: Conductor - User Manual Verification 'Formatting and Emoji Standardization' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Formatting and Emoji Standardization' (Protocol in workflow.md) ed76b25
 
 ## Phase 4: Volumetric to Weight Conversions
 Goal: Add gram conversions to all recipes.
