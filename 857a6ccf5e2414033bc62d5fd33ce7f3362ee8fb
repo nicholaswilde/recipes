@@ -1,0 +1,4 @@
+Task: Standardize units in .cook files (Tbsp, tsp)
+Summary: Performed a bulk replacement of tablespoon/teaspoon variations in 15 .cook files to use standardized Tbsp and tsp abbreviations.
+Files: Modified 15 files in cook/
+Why: To ensure consistency in recipe authoring and subsequent generation.
