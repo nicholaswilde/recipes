@@ -6,7 +6,7 @@ This plan outlines the steps to audit and update all existing recipes to comply 
 Goal: Identify the scope of work and ensure tooling is ready.
 
 - [x] Task: Create a comprehensive list of all recipes currently in the collection d0a543b
-- [ ] Task: Audit `includes/emoji.yaml` to ensure common ingredients have mappings
+- [x] Task: Audit `includes/emoji.yaml` to ensure common ingredients have mappings 251a237
 - [ ] Task: Conductor - User Manual Verification 'Preparation and Inventory' (Protocol in workflow.md)
 
 ## Phase 2: Metadata and Image Audit
