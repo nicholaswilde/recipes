@@ -1,0 +1,4 @@
+Task: Add gram conversions to Markdown files using docs/reference/measuring.md
+Summary: Automated the addition of gram conversions to 241 recipe files using a custom Python script and the project's ingredient weight chart. Focused on major staples like flour, sugar, water, and butter.
+Files: Modified 241 files in docs/
+Why: To improve recipe accuracy and follow the Product Guidelines for weight-based measurements.
