@@ -9,12 +9,12 @@ Goal: Identify the scope of work and ensure tooling is ready.
 - [x] Task: Audit `includes/emoji.yaml` to ensure common ingredients have mappings 251a237
 - [x] Task: Conductor - User Manual Verification 'Preparation and Inventory' (Protocol in workflow.md) f51e42f
 
-## Phase 2: Metadata and Image Audit
+## Phase 2: Metadata and Image Audit [checkpoint: 6ed248b]
 Goal: Ensure basic metadata and performance optimizations are in place.
 
 - [x] Task: Bulk audit Markdown front matter for missing `tags` or `source` 0ade03e
 - [x] Task: Ensure all recipe images in Markdown have `loading="lazy"` attribute 0ade03e
-- [ ] Task: Conductor - User Manual Verification 'Metadata and Image Audit' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Metadata and Image Audit' (Protocol in workflow.md) 6ed248b
 
 ## Phase 3: Formatting and Emoji Standardization
 Goal: Standardize units in `.cook` files and emojis in `.md` files.
