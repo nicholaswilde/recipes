@@ -43,7 +43,12 @@ Goal: Ensure the entire collection passes all quality gates.
 
 - [x] Task: Run project-wide linting (`task lint`) c0a2e38
 
-- [ ] Task: Run project-wide spellcheck (`task spellcheck`)
+
+
+- [x] Task: Run project-wide spellcheck (`task spellcheck`) 625ae77
+
+
+
 - [ ] Task: Run project-wide link check (`task linkcheck`)
 - [ ] Task: Verify the full site build (`task docs:build`)
 - [ ] Task: Conductor - User Manual Verification 'Final Validation and Cleanup' (Protocol in workflow.md)
