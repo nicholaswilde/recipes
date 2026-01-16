@@ -39,7 +39,10 @@ Goal: Add gram conversions to all recipes.
 
 Goal: Ensure the entire collection passes all quality gates.
 
-- [~] Task: Run project-wide linting (`task lint`)
+
+
+- [x] Task: Run project-wide linting (`task lint`) c0a2e38
+
 - [ ] Task: Run project-wide spellcheck (`task spellcheck`)
 - [ ] Task: Run project-wide link check (`task linkcheck`)
 - [ ] Task: Verify the full site build (`task docs:build`)
