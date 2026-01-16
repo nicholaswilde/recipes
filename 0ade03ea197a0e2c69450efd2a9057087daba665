@@ -1,0 +1,4 @@
+Task: Bulk audit Markdown front matter for missing tags or source
+Summary: Added missing 'tags' to 61 recipe files based on their directory category. Added missing 'loading=lazy' to 6 recipe images.
+Files: Modified 67 files in docs/
+Why: To comply with Product Guidelines for metadata and performance.
