@@ -1,0 +1,4 @@
+Task: Update Markdown ingredient lists to use emoji shortcodes from includes/emoji.yaml
+Summary: Used a custom Python script to automatically add emojis to 23 recipes that were missing them. Expanded includes/emoji.yaml with common ingredients (orzo, lemon zest, herbs, bell pepper, olives, artichoke hearts, etc.) to ensure better coverage.
+Files: Modified 23 files in docs/ and updated includes/emoji.yaml
+Why: To comply with Product Guidelines for standardized emoji usage across all recipes.
