@@ -19,8 +19,8 @@ Goal: Ensure basic metadata and performance optimizations are in place.
 ## Phase 3: Formatting and Emoji Standardization
 Goal: Standardize units in `.cook` files and emojis in `.md` files.
 
-- [ ] Task: Standardize units in `.cook` files (`Tbsp`, `tsp`)
-- [ ] Task: Update Markdown ingredient lists to use emoji shortcodes from `includes/emoji.yaml`
+- [x] Task: Standardize units in `.cook` files (`Tbsp`, `tsp`) 857a6cc
+- [x] Task: Update Markdown ingredient lists to use emoji shortcodes from `includes/emoji.yaml` 8f92573
 - [ ] Task: Conductor - User Manual Verification 'Formatting and Emoji Standardization' (Protocol in workflow.md)
 
 ## Phase 4: Volumetric to Weight Conversions
