@@ -1,0 +1,4 @@
+Task: Audit includes/emoji.yaml to ensure common ingredients have mappings
+Summary: Added several common ingredients (all-purpose flour, baking powder, vegetable oil, etc.) to includes/emoji.yaml to ensure they are correctly mapped to emojis during the audit.
+Files: includes/emoji.yaml
+Why: To improve the consistency and visual appeal of the ingredient lists in the generated Markdown.
