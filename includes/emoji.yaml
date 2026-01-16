@@ -56,16 +56,20 @@ emoji:
         - chickpeas
         - tinned chickpeas
         - shelled edamame
+        - black beans
         - dried black beans
         - seasoned black beans
     - bread:
         - stone ground whole wheat flour
         - pita
         - flour
+        - all-purpose flour
+        - all purpose flour
         - corn tortillas
         - bread flour
     - butter:
         - butter
+        - unsalted butter
         - unsalted shortening
         - vegan butter
         - salted butter
@@ -73,6 +77,7 @@ emoji:
         - confectioners' sugar
         - light corn syrup
         - sugar
+        - granulated sugar
         - superfine sugar
         - powdered sugar
     - carrot:
@@ -84,6 +89,7 @@ emoji:
         - vegan cream cheese
         - nutritional yeast
         - parmesan cheese
+        - cream cheese
     - chestnut:
         - nutmeg
         - almonds
@@ -95,6 +101,7 @@ emoji:
         - cumin powder
         - shelled, roasted, salted pistachios
         - baking soda
+        - baking powder
         - ground cinnamon
         - ground cumin
         - star anise
@@ -167,6 +174,7 @@ emoji:
     - olive:
         - extra virgin olive oil
         - olive oil
+        - vegetable oil
         - oil
         - capers
         - neutral-tasting oil
