@@ -1,0 +1,4 @@
+Task: Run project-wide linting (task lint)
+Summary: Ran task lint, identified numerous issues. Updated .markdownlintignore to exclude vendored libraries. Created and ran scripts/fix_markdown.py to automatically fix trailing spaces, multiple blank lines, and spaces after list markers across all markdown files. Manually fixed some conductor files.
+Files: Modified almost all markdown files in docs/ and conductor/ and AGENTS.md.
+Why: To enforce code quality and adherence to standards as part of the final validation.
