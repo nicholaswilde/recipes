@@ -26,9 +26,9 @@ Goal: Standardize units in `.cook` files and emojis in `.md` files.
 ## Phase 4: Volumetric to Weight Conversions
 Goal: Add gram conversions to all recipes.
 
-- [ ] Task: Identify recipes requiring gram conversions (focusing on baking and major staples)
-- [ ] Task: Add gram conversions to Markdown files using `docs/reference/measuring.md`
-- [ ] Task: Update `docs/reference/measuring.md` if new conversions are found during the process
+- [x] Task: Identify recipes requiring gram conversions (focusing on baking and major staples) 2c5b234
+- [x] Task: Add gram conversions to Markdown files using `docs/reference/measuring.md` 2c5b234
+- [x] Task: Update `docs/reference/measuring.md` if new conversions are found during the process 2c5b234
 - [ ] Task: Conductor - User Manual Verification 'Volumetric to Weight Conversions' (Protocol in workflow.md)
 
 ## Phase 5: Final Validation and Cleanup
