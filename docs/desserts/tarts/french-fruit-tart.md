@@ -17,10 +17,10 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 2 cup [Bisquick][1]
-- :candy: 0.25 cup sugar
-- :butter: 0.25 cup butter
+- :candy: 0.25 cup (50 g) sugar
+- :butter: 0.25 cup (57 g) butter
 - :cheese_wedge: 8 oz cream cheese
-- :candy: 0.33 cup sugar
+- :candy: 0.33 cup (65 g) sugar
 - :icecream: 1 tsp vanilla
 - :glass_of_milk: 1 cup whipping cream
 - :strawberry: some berries

@@ -14,11 +14,11 @@ comments: true
 ## :salt: Ingredients - Crêpes
 
 - :egg: 2 large eggs
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
 - :glass_of_milk: 0.5 cup milk
 - :salt: 0.13 tsp salt
 - :candy: 0.5 tsp sugar
-- :ice_cube: 0.33 cup cold water
+- :ice_cube: 0.33 cup (75 g) cold water
 - :oil_drum: 1 Tbsp canola oil
 - :butter: 1 Tbsp butter
 

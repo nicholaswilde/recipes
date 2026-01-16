@@ -18,7 +18,7 @@ tags:
 
 - :pie: 1 [Crumb Crust][1] made with graham crackers
 - :pie: 1 Nut Crust made with pecans (alternative)
-- :maple_leaf: 0.67 cup brown sugar
+- :maple_leaf: 0.67 cup (143 g) brown sugar
 - :custard: 0.75 tsp cinnamon
 - :chestnut: 0.25 tsp cloves
 - :sweet_potato: 0.25 tsp ginger
@@ -30,8 +30,8 @@ tags:
 
 ## :salt: Ingredients - Topping
 
-- :rice: 0.5 cup sour cream
-- :maple_leaf: 0.33 cup light brown sugar
+- :rice: 0.5 cup (114 g) sour cream
+- :maple_leaf: 0.33 cup (70 g) light brown sugar
 - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware

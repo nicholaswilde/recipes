@@ -17,7 +17,7 @@ tags:
 - :olive: 1 Tbsp olive oil
 - :onion: 1 small onion
 - :garlic: 2 cloves garlic
-- :maple_leaf: 0.25 cup [brown sugar][1]
+- :maple_leaf: 0.25 cup (53 g) [brown sugar][1]
 - :hot_pepper: 0.5 tsp smoked paprika
 - :herb: 0.25 tsp allspice
 - :four_leaf_clover: 0.25 tsp ground cloves

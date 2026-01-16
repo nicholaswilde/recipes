@@ -28,7 +28,7 @@ tags:
 - :honey_pot: 1 tsp honey
 - :salt: 1 tsp salt
 - :custard: 0.75 tsp cinnamon
-- :butter: 0.75 cup butter
+- :butter: 0.75 cup (170 g) butter
 
 ## :cooking: Cookware
 

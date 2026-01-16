@@ -16,8 +16,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup butter
-- :maple_leaf: 0.5 cup [brown sugar][1]
+- :butter: 0.25 cup (57 g) butter
+- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
 - :pineapple: 5 fans pineapple
 - :cake: 1 box TJ's Vanilla Cake and Baking cake mix
 - :egg: 2 eggs

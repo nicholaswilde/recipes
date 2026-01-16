@@ -19,9 +19,9 @@ tags:
 - :dash: 2 tsp baking powder
 - :custard: 1.5 tsp cinnamon
 - :salt: 0.5 tsp salt
-- :maple_leaf: 2 cups [light brown sugar][1]
+- :maple_leaf: 2 cups (426 g) [light brown sugar][1]
 - :egg: 2 eggs
-- :butter: 0.5 cup unsalted butter
+- :butter: 0.5 cup (114 g) unsalted butter
 - :icecream: 1 tsp vanilla
 - :green_apple: 1.5 cup diced apples
 - :grapes: 0.75 cup raisins

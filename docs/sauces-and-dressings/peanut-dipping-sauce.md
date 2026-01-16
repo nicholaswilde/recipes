@@ -18,10 +18,10 @@ tags:
 - :garlic: 4 cloves garlic
 - :sweet_potato: 1 tsp ginger
 - :hot_pepper: 0.5 tsp red pepper flakes
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :takeout_box: 2 Tbsp soy sauce
 - :lemon: 2 Tbsp lime juice
-- :peanuts: 0.67 cup chunky peanut butter
+- :peanuts: 0.67 cup (90 g) chunky peanut butter
 - :maple_leaf: 1 Tbsp light brown sugar
 - :peanuts: 3 Tbsp unsalted roasted peanuts
 - :herb: 1 Tbsp mint

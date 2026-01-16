@@ -13,10 +13,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup unsalted butter
-- :oil_drum: 0.25 cup vegetable oil
-- :candy: 0.5 cup granulated sugar
-- :maple_leaf: 0.33 cup light brown sugar
+- :butter: 0.25 cup (57 g) unsalted butter
+- :oil_drum: 0.25 cup (50 g) vegetable oil
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 0.33 cup (70 g) light brown sugar
 - :egg: 2 large eggs
 - :icecream: 1 tsp vanilla
 - :dash: 1.5 tsp baking powder
@@ -24,7 +24,7 @@ tags:
 - :chestnut: 0.75 tsp nutmeg
 - :custard: 1 tsp cinnamon
 - :salt: 0.75 tsp salt
-- :ear_of_rice: 2.66 cups all-purpose flour
+- :ear_of_rice: 2.66 cups (319 g) all-purpose flour
 - :glass_of_milk: 1 cup milk
 
 ## :cooking: Cookware

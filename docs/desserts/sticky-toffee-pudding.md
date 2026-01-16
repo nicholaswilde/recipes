@@ -15,7 +15,7 @@ comments: true
 
 - :grapes: 5 oz dates
 - :cup_with_straw: 0.5 tsp baking soda
-- :hotsprings: 0.25 cup boiling water
+- :hotsprings: 0.25 cup (57 g) boiling water
 - :butter: 42 g unsalted butter
 - :maple_leaf: 84 g light brown sugar
 - :egg: 1 egg
@@ -24,7 +24,7 @@ comments: true
 
 ## :salt: Ingredients - Toffee Sauce
 
-- :butter: 0.5 cup unsalted butter
+- :butter: 0.5 cup (114 g) unsalted butter
 - :maple_leaf: 225 g brown sugar
 - :glass_of_milk: 2 Tbsp milk
 - :glass_of_milk: 2 Tbsp heavy cream

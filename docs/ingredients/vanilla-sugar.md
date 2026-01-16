@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :icecream: 1 vanilla bean pod
 
 ## :cooking: Cookware

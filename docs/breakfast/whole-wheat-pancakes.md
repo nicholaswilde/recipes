@@ -17,7 +17,7 @@ tags:
 - :ear_of_rice: 2 cups whole wheat flour
 - :glass_of_milk: 2 cups skim milk
 - :egg: 0.33 cup egg substitute
-- :apple: 0.25 cup applesauce
+- :apple: 0.25 cup (64 g) applesauce
 - :candy: 2 Tbsp sugar
 - :dash: 2 tsp baking powder
 - :dash: 1 tsp baking soda

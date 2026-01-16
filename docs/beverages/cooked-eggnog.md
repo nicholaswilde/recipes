@@ -18,7 +18,7 @@ tags:
 - :glass_of_milk: 1 cup milk
 - :ice_cream: 1 cup heavy cream
 - :egg: 12 egg yolks
-- :candy: 1.33 cups sugar
+- :candy: 1.33 cups (263 g) sugar
 - :chestnut: 1 tsp nutmeg
 - :glass_of_milk: 2 cups milk
 - :ice_cream: 2 cups heavy cream

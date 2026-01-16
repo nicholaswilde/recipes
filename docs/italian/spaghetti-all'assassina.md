@@ -15,10 +15,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 6 cups water
-- :tomato: 0.25 cup [tomato paste][1]
+- :droplet: 6 cups (1362 g) water
+- :tomato: 0.25 cup (58 g) [tomato paste][1]
 - :candy: 1 tsp sugar
-- :olive: 0.33 cup olive oil
+- :olive: 0.33 cup (66 g) olive oil
 - :garlic: 2 cloves garlic
 - :hot_pepper: 0.5 tsp red pepper flakes
 - :tomato: 1 cup tomato passata

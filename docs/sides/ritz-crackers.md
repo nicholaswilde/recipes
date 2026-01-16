@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :dash: 3 tsp baking powder
 - :candy: 1 Tbsp sugar
 - :salt: 0.5 tsp salt
 - :butter: 8 Tbsp cold butter
 - :oil_drum: 2 Tbsp vegetable oil
-- :droplet: 0.67 cup water
+- :droplet: 0.67 cup (152 g) water
 - :egg: 1 egg
 
 ## :cooking: Cookware

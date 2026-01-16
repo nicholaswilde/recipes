@@ -19,12 +19,12 @@ tags:
 - :salt: 1.25 tsp salt
 - :dash: 2 tsp baking powder
 - :egg: 4 large eggs
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :icecream: 1 Tbsp vanilla
 - :chestnut: 0.13 tsp almond extract (optional)
 - :glass_of_milk: 1 cup whole milk
 - :butter: 57 g unsalted butter
-- :oil_drum: 0.33 cup vegetable oil
+- :oil_drum: 0.33 cup (65 g) vegetable oil
 
 ## :salt: Ingredients - Frosting
 

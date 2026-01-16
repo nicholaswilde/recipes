@@ -19,7 +19,7 @@ tags:
 - :leafy_green: 0.5 cups celery
 - :carrot: 0.5 cup carrot
 - :garlic: 3 cloves garlic
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
 - :stew: 6 cups vegetable broth
 - :salt: some salt
 - :salt: some pepper

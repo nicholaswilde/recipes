@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients - Shortbread
 
-- :butter: 1.5 cups unsalted butter
+- :butter: 1.5 cups (340 g) unsalted butter
 - :candy: 200 g granulated sugar
 - :hotsprings: 1 Tbsp warm water
 - :icecream: 1 tsp vanilla

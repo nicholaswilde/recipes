@@ -22,7 +22,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :egg: 3 large eggs
 - :salt: 0.5 tsp salt (optional)
 - :olive: 1 tsp olive oil (optional)

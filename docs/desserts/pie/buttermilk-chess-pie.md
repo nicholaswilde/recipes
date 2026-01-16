@@ -16,8 +16,8 @@ tags:
 ## :salt: Ingredients
 
 - :pie: [Chess Pie][2]
-- :candy: 0.67 cup white sugar
-- :glass_of_milk: 0.67 cup [buttermilk][1]
+- :candy: 0.67 cup (133 g) white sugar
+- :glass_of_milk: 0.67 cup (152 g) [buttermilk][1]
 - :chestnut: 0.5 cup pecans or walnuts (optional)
 - :grapes: 0.5 cup raisins (optional)
 

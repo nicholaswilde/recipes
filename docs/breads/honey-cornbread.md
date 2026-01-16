@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 cup buttermilk
-- :honey_pot: 0.67 cup honey
+- :glass_of_milk: 1 cup (227 g) buttermilk
+- :honey_pot: 0.67 cup (225 g) honey
 - :egg: 2 large eggs
 - :butter: 4 Tbsp unsalted butter
-- :ear_of_rice: 1.25 cup all-purpose flour
+- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
 - :corn: 1 cup cornmeal
 - :salt: 1 tsp salt
 - :dash: 1 tsp baking powder

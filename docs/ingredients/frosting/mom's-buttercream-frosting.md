@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :candy: 1 lb confectioner's sugar
-- :butter: 0.33 cup soft butter
+- :butter: 0.33 cup (75 g) soft butter
 - :glass_of_milk: 0.25 cup milk
 - :salt: 0.25 tsp salt
 - :ice_cream: 1 tsp vanilla

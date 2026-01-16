@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 7 cups Rice Krispies Cereal
+- :ear_of_rice: 7 cups (196 g) Rice Krispies Cereal
 - :butter: 6 Tbsp unsalted butter
 - :dango: 16 oz marshmallows
 

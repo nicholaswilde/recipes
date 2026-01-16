@@ -24,7 +24,7 @@ tags:
 - :ear_of_rice: 1.75 cups (210 g) flour
 - :cup_with_straw: 1 tsp baking soda
 - :ear_of_rice: 2.5 cup (249 g) rolled oats
-- :chocolate_bar: 2 cups (340) chocolate chips
+- :chocolate_bar: 2 cups (340 g) (340) chocolate chips
 
 ## :pencil: Instructions
 

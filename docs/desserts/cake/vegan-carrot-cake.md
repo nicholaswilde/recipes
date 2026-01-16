@@ -15,14 +15,14 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :ear_of_rice: 3 cups all-purpose flour
-- :candy: 2.25 cups sugar
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
+- :candy: 2.25 cups (446 g) sugar
 - :coconut: 0.75 cups shredded coconut
 - :cup_with_straw: 1 Tbsp baking soda
 - :custard: 1.5 tsp cinnamon
 - :salt: 1.5 tsp salt
 - :oil_drum: 18 Tbsp canola oil
-- :apple: 0.75 cup applesauce
+- :apple: 0.75 cup (191 g) applesauce
 - :pineapple: 0.75 cup crushed pineapple, juice included
 - :icecream: 1 Tbsp vanilla
 - :carrot: 3 cups grated carrots
@@ -32,7 +32,7 @@ tags:
 - :cake: 1 [buttercream frosting][1] (alternate)
 - :cheese_wedge: 8 oz cream cheese
 - :butter: 8 Tbsp butter
-- :candy: 4 cups confectioners' sugar
+- :candy: 4 cups (792 g) confectioners' sugar
 - :icecream: 1 Tbsp vanilla
 
 ## :cooking: Cookware

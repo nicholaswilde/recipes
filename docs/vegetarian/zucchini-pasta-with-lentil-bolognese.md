@@ -23,7 +23,7 @@ comments: true
 - :herb: 1 tsp basil
 - :herb: 1 tsp oregano
 - :coconut: 1 Tbsp coconut sugar
-- :droplet: 0.5 cup water
+- :droplet: 0.5 cup (114 g) water
 - :curry: 0.75 cup red lentils
 - :cucumber: 2 medium zucchini
 - :cheese_wedge: some Vegan Parmesan Cheese (optional)

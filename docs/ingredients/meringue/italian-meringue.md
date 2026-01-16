@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 0.5 cup water
+- :droplet: 0.5 cup (114 g) water
 - :rice: 0.25 tsp cream of tartar
-- :candy: 1 cup sugar
+- :candy: 1 cup (198 g) sugar
 - :egg: 3 egg whites
 
 ## :pencil: Instructions

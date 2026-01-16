@@ -16,12 +16,12 @@ tags:
 
 - :cookie: 2.25 cup [graham cracker][1]
 - :candy: 2 Tbsp granulated sugar
-- :butter: 0.5 cup melted butter
+- :butter: 0.5 cup (114 g) melted butter
 
 ## :salt: Ingredients - Filling
 
-- :butter: 0.5 cup butter
-- :maple_leaf: 0.5 cup dark brown sugar
+- :butter: 0.5 cup (114 g) butter
+- :maple_leaf: 0.5 cup (106 g) dark brown sugar
 - :glass_of_milk: 1 14-oz can sweetened condensed milk
 
 ## :salt: Ingredients - Topping

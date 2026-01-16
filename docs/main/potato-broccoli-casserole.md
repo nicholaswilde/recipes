@@ -14,12 +14,12 @@ tags:
 ## :salt: Ingredients
 
 - :potato: 1.5 lbs potatoes
-- :butter: 0.25 cup unsalted butter
+- :butter: 0.25 cup (57 g) unsalted butter
 - :ear_of_rice: 3 Tbsp flour
 - :glass_of_milk: 2.5 cups milk
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :broccoli: 3 cups broccoli
+- :broccoli: 3 cups (273 g) broccoli
 
 ## :cooking: Cookware
 

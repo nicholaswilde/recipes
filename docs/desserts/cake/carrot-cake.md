@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups all-purpose flour
-- :candy: 2 cups sugar
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
+- :candy: 2 cups (396 g) sugar
 - :cup_with_straw: 2 tsp baking soda
 - :salt: 1 tsp salt
 - :custard: 1 tsp cinnamon
-- :oil_drum: 1.5 cups vegetable oil
+- :oil_drum: 1.5 cups (297 g) vegetable oil
 - :egg: 4 eggs
 - :carrot: 3 cups grated carrots
 - :pineapple: 1 can crushed pineapple

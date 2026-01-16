@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients - Cookies
 
-- :butter: 1 cup unsalted butter, softened
-- :maple_leaf: 0.67 cup brown sugar
-- :candy: 0.33 cup granulated sugar
+- :butter: 1 cup (227 g) unsalted butter, softened
+- :maple_leaf: 0.67 cup (143 g) brown sugar
+- :candy: 0.33 cup (65 g) granulated sugar
 - :egg: 1 large egg
 - :icecream: 1 tsp vanilla
-- :jack_o_lantern: 1 cup pumpkin purée
-- :ear_of_rice: 2 cups all-purpose flour
+- :jack_o_lantern: 1 cup (227 g) pumpkin purée
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :custard: 1.5 tsp cinnamon
 - :cup_with_straw: 1 tsp baking soda
 - :dash: 0.25 tsp baking powder
@@ -29,10 +29,10 @@ tags:
 
 ## :salt: Ingredients - Frosting
 
-- :butter: 0.25 cup unsalted butter, softened
+- :butter: 0.25 cup (57 g) unsalted butter, softened
 - :icecream: 1.5 tsp vanilla
 - :bagel: 4 oz cream cheese, softened
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 
 ## :cooking: Cookware
 

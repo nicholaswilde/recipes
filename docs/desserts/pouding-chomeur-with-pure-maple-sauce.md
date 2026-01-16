@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 2 cups maple syrup
-- :maple_leaf: 1.5 cups light brown sugar
+- :maple_leaf: 2 cups (624 g) maple syrup
+- :maple_leaf: 1.5 cups (320 g) light brown sugar
 - :glass_of_milk: 1.5 cups heavy cream
-- :butter: 0.5 cup unsalted butter
+- :butter: 0.5 cup (114 g) unsalted butter
 - :icecream: 1 Tbsp vanilla
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup unsalted butter
-- :candy: 0.75 cup granulated sugar
+- :butter: 0.5 cup (114 g) unsalted butter
+- :candy: 0.75 cup (148 g) granulated sugar
 - :egg: 2 large eggs
-- :ear_of_rice: 1.5 cups all-purpose flour
-- :corn: 0.25 cup cornstarch
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+- :corn: 0.25 cup (28 g) cornstarch
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup buttermilk
+- :butter: 0.75 cup (170 g) buttermilk
 - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware

@@ -17,8 +17,8 @@ tags:
 - :corn: 4 ears sweet corn kernels
 - :hot_pepper: 1 red pepper
 - :sake: 1 cup vinegar
-- :candy: 0.75 cup sugar
-- :ice_cube: 0.25 cup water
+- :candy: 0.75 cup (148 g) sugar
+- :ice_cube: 0.25 cup (57 g) water
 - :hotdog: 1.5 tsp mustard seeds
 - :herb: 0.25 tsp cumin seeds
 - :onion: 1 red onion

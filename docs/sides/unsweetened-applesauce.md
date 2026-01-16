@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :green_apple: 3 medium apples
-- :droplet: 0.67 cup water
+- :droplet: 0.67 cup (152 g) water
 - :candy: some granulated sugar (optional)
 - :lemon: 1 tsp lemon juice
 - :custard: 0.25 tsp cinnamon (optional)

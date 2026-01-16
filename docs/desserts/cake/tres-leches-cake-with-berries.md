@@ -16,11 +16,11 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :dash: 2 tsp baking powder
 - :salt: 0.75 tsp kosher salt
 - :egg: 3 large eggs
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :icecream: 2 tsp vanilla
 - :glass_of_milk: 0.5 cup whole milk
 - :icecream: 1.25 cups heavy cream
@@ -34,7 +34,7 @@ tags:
 ## :salt: Ingredients - Whipped Cream
 
 - :icecream: 1.5 cups cold heavy cream
-- :candy: 0.25 cup confectioners' sugar
+- :candy: 0.25 cup (50 g) confectioners' sugar
 - :candy: 2 Tbsp granulated sugar
 - :rice: 2 Tbsp creme fraîche
 - :icecream: 1 tsp vanilla

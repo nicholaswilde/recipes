@@ -26,7 +26,7 @@ tags:
 - :onion: 0.5 yellow onion
 - :garlic: 1 clove garlic
 - :apple: 2 cups apple cider vinegar
-- :droplet: 2 cups water
+- :droplet: 2 cups (454 g) water
 - :salt: 1.5 tsp kosher salt
 - :candy: 1.5 tsp coconut sugar
 - :carrot: 4 cups mixed vegetables

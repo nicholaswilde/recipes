@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1 cup granulated sugar
-- :butter: 0.5 cup unsalted butter
-- :ear_of_rice: 1 cup all-purpose flour
+- :candy: 1 cup (198 g) granulated sugar
+- :butter: 0.5 cup (114 g) unsalted butter
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :dash: 1 tsp baking powder
 - :salt: 1 pinch salt
 - :egg: 2 eggs

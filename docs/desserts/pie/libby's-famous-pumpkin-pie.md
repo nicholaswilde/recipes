@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.75 cup granulated sugar
+- :candy: 0.75 cup (148 g) granulated sugar
 - :custard: 1 tsp cinnamon
 - :salt: 0.5 tsp salt
 - :sweet_potato: 0.5 tsp ginger

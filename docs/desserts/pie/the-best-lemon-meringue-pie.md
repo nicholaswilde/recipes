@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- :ear_of_rice: 1.25 cup all-purpose flour
+- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
 - :salt: 0.5 tsp salt
 - :carrot: 3 Tbsp vegetable shortening
 - :butter: 4 Tbsp butter
@@ -22,10 +22,10 @@ tags:
 
 ## :salt: Ingredients - Filling
 
-- :candy: 1 cup sugar
-- :corn: 0.25 cup cornstarch
+- :candy: 1 cup (198 g) sugar
+- :corn: 0.25 cup (28 g) cornstarch
 - :salt: 0.13 tsp salt
-- :droplet: 1.5 cups cold water
+- :droplet: 1.5 cups (340 g) cold water
 - :egg: 6 large egg yolks
 - :lemon: 1 tsp lemon zest
 - :lemon: 0.5 cup lemon juice (2-3 lemons)

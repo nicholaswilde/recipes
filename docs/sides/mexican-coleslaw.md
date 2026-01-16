@@ -16,10 +16,10 @@ comments: true
 - :leafy_green: 1 head cabbage
 - :onion: 1 red onion
 - :herb: 1 bunch cilantro
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 - :champagne: 0.17 cup white vinegar
 - :apple: 0.17 cup apple cider vinegar
-- :candy: 0.75 cup sugar
+- :candy: 0.75 cup (148 g) sugar
 - :salt: 0.5 tsp pepper
 - :salt: 2 tsp salt
 

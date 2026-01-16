@@ -14,10 +14,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.75 cups light brown sugar
+- :maple_leaf: 1.75 cups (373 g) light brown sugar
 - :egg: 2 large eggs
 - :icecream: 0.5 tsp vanilla
-- :peanuts: 1.75 cups creamy peanut butter
+- :peanuts: 1.75 cups (236 g) creamy peanut butter
 - :salt: some sea salt
 
 ## :cooking: Cookware

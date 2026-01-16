@@ -14,13 +14,13 @@ tags:
 ## :salt: Ingredients
 
 - :cut_of_meat: 1 lb ground beef
-- :droplet: 5 cups water
+- :droplet: 5 cups (1135 g) water
 - :sake: 1 Tbsp Worcestershire sauce
 - :salt: 1.5 tsp salt
 - :salt: 1 tsp pepper
 - :herb: 0.5 tsp chives
 - :butter: 4 oz butter
-- :ear_of_rice: 1 cup all-purpose flour
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :rice: 1 cup Italian seasoned breadcrumbs
 - :egg: 1 egg white
 - :glass_of_milk: 2 Tbsp milk

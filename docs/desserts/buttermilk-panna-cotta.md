@@ -17,8 +17,8 @@ tags:
 - :custard: 1.5 tsp unflavored gelatin
 - :icecream: 1 cup whipping cream
 - :lemon: 1 tsp lemon peel
-- :candy: 0.5 cup granulated sugar
-- :glass_of_milk: 2 cups buttermilk
+- :candy: 0.5 cup (99 g) granulated sugar
+- :glass_of_milk: 2 cups (454 g) buttermilk
 - :icecream: 2 tsp vanilla
 - :strawberry: some berry compote (optional)
 

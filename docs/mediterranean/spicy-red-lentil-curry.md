@@ -23,7 +23,7 @@ tags:
 - :hot_pepper: 0.5 tsp red curry paste
 - :tomato: 1 6-oz can [tomato paste][4]
 - :stew: 2 cups vegetable broth
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :maple_leaf: 2 Tbsp maple syrup
 - :herb: 0.5 tsp turmeric
 - :coconut: 0.33 cup coconut milk (optional)

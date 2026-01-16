@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 0.25 cup maple syrup
+- :maple_leaf: 0.25 cup (78 g) maple syrup
 - :butter: 3 Tbsp butter
 - :candy: 2 Tbsp sugar
 - :custard: 1.5 tsp cinnamon
 - :salt: 0.25 tsp salt
 - :chestnut: 1 lb blanched whole almonds
-- :candy: 0.25 cup crystallized sugar (optional)
+- :candy: 0.25 cup (50 g) crystallized sugar (optional)
 
 !!! note
 

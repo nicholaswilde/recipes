@@ -19,8 +19,8 @@ tags:
 - :egg: 1 egg yolk
 - :egg: 1 large egg
 - :egg: 4 large egg yolk
-- :candy: 0.67 cup sugar
-- :maple_leaf: 0.67 cup light brown sugar
+- :candy: 0.67 cup (133 g) sugar
+- :maple_leaf: 0.67 cup (143 g) light brown sugar
 - :salt: 0.5 tsp salt
 - :icecream: 0.67 cup heavy cream or evaporated milk
 - :glass_of_milk: 0.33 cup milk

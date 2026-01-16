@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cups all-purpose flour
-- :candy: 1 cup granulated sugar
-- :maple_leaf: 0.5 cup dark brown sugar
+- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
+- :candy: 1 cup (198 g) granulated sugar
+- :maple_leaf: 0.5 cup (106 g) dark brown sugar
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :custard: 2 tsp cinnamon
@@ -24,7 +24,7 @@ tags:
 - :chestnut: 0.25 tsp nutmeg
 - :egg: 2 eggs
 - :jack_o_lantern: 1 15-oz can [pumpkin purée][1]
-- :coconut: 0.5 cup coconut oil
+- :coconut: 0.5 cup (113 g) coconut oil
 - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware

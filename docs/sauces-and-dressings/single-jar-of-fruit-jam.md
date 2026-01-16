@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :strawberry: 2 cup fruit
-- :candy: 0.75 cup sugar
+- :candy: 0.75 cup (148 g) sugar
 - :lemon: 1 Tbsp lemon juice
 
 ## :cooking: Cookware

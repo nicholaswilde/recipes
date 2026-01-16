@@ -14,14 +14,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cup all-purpose flour
+- :ear_of_rice: 2 cup (240 g) all-purpose flour
 - :microbe: 1 pkg instant yeast
 - :candy: 1.5 tsp sugar
 - :salt: 0.75 tsp salt
 - :garlic: 0.25 tsp garlic powder (optional)
 - :herb: 0.25 tsp dried basil (optional)
 - :olive: 2 Tbsp olive oil
-- :droplet: 0.75 cup warm water
+- :droplet: 0.75 cup (170 g) warm water
 
 ## :cooking: Cookware
 

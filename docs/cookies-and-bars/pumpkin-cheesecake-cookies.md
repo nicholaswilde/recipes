@@ -17,16 +17,16 @@ tags:
 - :cheese_wedge: 6 oz cold cream cheese
 - :candy: 3 Tbsp sugar
 - :icecream: 0.5 tsp vanilla
-- :candy: 0.25 cup sugar
+- :candy: 0.25 cup (50 g) sugar
 - :herb: 0.5 tsp pumpkin pie spice
-- :jack_o_lantern: 0.5 cup pumpkin purée
-- :ear_of_rice: 1.75 cups all-purpose flour
+- :jack_o_lantern: 0.5 cup (114 g) pumpkin purée
+- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
 - :herb: 1 Tbsp pumpkin pie spice
 - :dash: 0.5 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup unsalted butter
-- :maple_leaf: 1 cup light brown sugar
+- :butter: 0.75 cup (170 g) unsalted butter
+- :maple_leaf: 1 cup (213 g) light brown sugar
 - :egg: 2 egg yolks
 - :icecream: 2 tsp vanilla
 

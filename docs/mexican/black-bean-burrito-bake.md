@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :hot_pepper: 1 can chipotle chiles in adobo sauce
-- :rice: 0.5 cup sour cream
+- :rice: 0.5 cup (114 g) sour cream
 - :canned_food: 1 can black beans
 - :corn: 1 cup corn
 - :flatbread: 4 flour tortillas

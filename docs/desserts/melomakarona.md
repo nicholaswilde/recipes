@@ -23,18 +23,18 @@ tags:
 - :cup_with_straw: 0.5 tsp baking soda
 - :four_leaf_clover: 0.25 tsp cloves
 - :butter: 1 stick butter
-- :candy: 1 cup sugar
+- :candy: 1 cup (198 g) sugar
 - :egg: 2 eggs
-- :olive: 1.5 cup olive oil
+- :olive: 1.5 cup (300 g) olive oil
 - :orange_circle: 1 cup orange juice
 - :orange_circle: 2 tsp orange zest
 
 ## :salt: Ingredients - Honey Syrup
 
 - :orange_circle: 3 strips orange peel
-- :candy: 1.5 cups sugar
-- :honey_pot: 1.5 cups honey
-- :droplet: 1.5 cups water
+- :candy: 1.5 cups (297 g) sugar
+- :honey_pot: 1.5 cups (504 g) honey
+- :droplet: 1.5 cups (340 g) water
 
 ## :salt: Ingredients - Walnut Topping
 

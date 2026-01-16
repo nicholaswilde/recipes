@@ -16,7 +16,7 @@ tags:
 
 - :pie: 1 frozen pie crust
 - :egg: 1 egg
-- :maple_leaf: 0.25 cup brown sugar
+- :maple_leaf: 0.25 cup (53 g) brown sugar
 - :lemon: 0.5 cup [lemon curd][1]
 - :icecream: 0.5 cup [whipped cream][2]
 - :strawberry: some raspberries

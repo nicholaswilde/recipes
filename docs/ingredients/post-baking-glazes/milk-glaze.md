@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup confectioners' sugar, sifted
+- :candy: 0.5 cup (99 g) confectioners' sugar, sifted
 - :glass_of_milk: 2 tsp hot milk
 - :ice_cream: 0.25 tsp vanilla
 

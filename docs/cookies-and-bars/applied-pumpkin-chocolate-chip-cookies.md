@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup unsalted butter
-- :candy: 0.5 cup brown sugar
-- :candy: 0.5 cup granulated sugar
+- :butter: 0.5 cup (114 g) unsalted butter
+- :candy: 0.5 cup (106 g) brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 1 large egg
 - :icecream: 1 tsp vanilla
 - :salt: 1 tsp salt
@@ -25,7 +25,7 @@ tags:
 - :dash: 1 tsp baking powder
 - :jack_o_lantern: 1 Tbsp pumpkin pie spice
 - :jack_o_lantern: 1 15-oz can pumpkin puree
-- :chocolate_bar: 1 cup mini chocolate chips
+- :chocolate_bar: 1 cup (177 g) mini chocolate chips
 
 ## :cooking: Cookware
 

@@ -20,7 +20,7 @@ tags:
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :butter: 3 Tbsp unsalted butter
-- :peanuts: 0.5 cup [creamy peanut butter][1]
+- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
 - :candy: 0.5 cup (3.5 oz/99 g) granulated sugar
 - :maple_leaf: 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
 - :glass_of_milk: 3 Tbsp whole milk
@@ -28,7 +28,7 @@ tags:
 
 ## :salt: Ingredients - Filling
 
-- :peanuts: 0.75 cup [creamy peanut butter][1]
+- :peanuts: 0.75 cup (101 g) [creamy peanut butter][1]
 - :butter: 3 Tbsp unsalted butter
 - :candy: 1 cup (4 oz/113 g) confectioners’ sugar
 

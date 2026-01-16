@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :glass_of_milk: 2.5 cups whole milk
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :glass_of_milk: 0.5 cup heavy cream
 - :salt: 0.13 tsp salt
 

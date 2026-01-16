@@ -16,7 +16,7 @@ tags:
 
 - :pie: 1 [deluxe butter pastry][1]
 - :cherries: 24 oz frozen tart cherries
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :corn: 2 Tbsp cornstarch
 - :ear_of_rice: 2 Tbsp all-purpose flour
 - :chestnut: 0.5 tsp almond extract
@@ -25,8 +25,8 @@ tags:
 
 ## :salt: Ingredients - Topping
 
-- :ear_of_rice: 1 cup all-purpose flour
-- :maple_leaf: 0.5 cup brown sugar
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
+- :maple_leaf: 0.5 cup (106 g) brown sugar
 - :ear_of_rice: 0.25 cup rolled oats
 - :butter: 6 Tbsp melted butter
 

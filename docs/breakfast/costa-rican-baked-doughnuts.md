@@ -16,10 +16,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :corn: 2 cups masa harina
+- :corn: 2 cups (186 g) masa harina
 - :salt: 1.5 tsp salt
 - :maple_leaf: 3 Tbsp brown sugar
-- :droplet: 1 cup warm water
+- :droplet: 1 cup (227 g) warm water
 - :corn: 0.33 cup creamed corn
 - :icecream: 1 tsp vanilla
 

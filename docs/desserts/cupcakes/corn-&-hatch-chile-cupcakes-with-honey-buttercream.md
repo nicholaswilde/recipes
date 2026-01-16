@@ -22,10 +22,10 @@ tags:
 - :glass_of_milk: 0.75 cup whole milk
 - :tomato: 0.25 cup TJ's Hatch Valley Salsa
 - :corn: 1 box TJ's Cornbread Mix
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (227 g) unsalted butter
 - :salt: 0.13 tsp sea salt
-- :honey_pot: 0.25 cup honey
-- :candy: 2.75 cup powdered sugar
+- :honey_pot: 0.25 cup (84 g) honey
+- :candy: 2.75 cup (544 g) powdered sugar
 
 ## :cooking: Cookware
 

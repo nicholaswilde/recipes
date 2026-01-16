@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :glass_of_milk: 2 cup milk
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :butter: 2 Tbsp butter
 - :salt: 1 pinch salt
 - :icecream: 1 vanilla bean

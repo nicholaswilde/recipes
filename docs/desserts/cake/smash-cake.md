@@ -14,12 +14,12 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :ear_of_rice: 2.25 cups all-purpose flour
+- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup unsalted butter
-- :maple_leaf: 0.75 cup maple syrup
-- :apple: 0.5 cup applesauce
+- :butter: 0.75 cup (170 g) unsalted butter
+- :maple_leaf: 0.75 cup (234 g) maple syrup
+- :apple: 0.5 cup (128 g) applesauce
 - :egg: 2 large eggs
 - :glass_of_milk: 0.33 cup milk
 - :icecream: 1 tsp vanilla
@@ -27,8 +27,8 @@ tags:
 ## :salt: Ingredients - Frosting
 
 - :cheese_wedge: 16 oz cream cheese
-- :microbe: 0.5 cup plain whole milk Greek yogurt
-- :maple_leaf: 0.33 cup maple syrup
+- :microbe: 0.5 cup (114 g) plain whole milk Greek yogurt
+- :maple_leaf: 0.33 cup (103 g) maple syrup
 - :icecream: 1 tsp vanilla
 - :strawberry: 0.25 cup freeze-dried strawberry
 

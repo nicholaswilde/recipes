@@ -17,8 +17,8 @@ comments: true
 - :garlic: 2 cloves garlic
 - :salt: 1 tsp mixed peppercorns
 - 2 cups white vinegar
-- :droplet: 2 cups water
-- :candy: 0.33 cup cane sugar
+- :droplet: 2 cups (454 g) water
+- :candy: 0.33 cup (65 g) cane sugar
 - :salt: 2 Tbsp sea salt
 
 ## :cooking: Cookware

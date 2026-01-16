@@ -14,14 +14,14 @@ tags:
 
 ## :salt: Ingredients - Cake
 
-- :ear_of_rice: 2.5 cups all-purpose flour
-- :corn: 0.25 cup cornstarch
+- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
+- :corn: 0.25 cup (28 g) cornstarch
 - :salt: 1 tsp salt
 - :dash: 2 tsp baking powder
-- :butter: 1 cup unsalted butter
-- :candy: 1.5 cup granulated sugar
+- :butter: 1 cup (227 g) unsalted butter
+- :candy: 1.5 cup (297 g) granulated sugar
 - :egg: 4 large egg whites
-- :oil_drum: 0.25 cup vegetable oil
+- :oil_drum: 0.25 cup (50 g) vegetable oil
 - :icecream: 1 Tbsp vanilla
 - :chestnut: 0.5 tsp almond extract
 - :glass_of_milk: 0.75 cup whole milk
@@ -29,8 +29,8 @@ tags:
 
 ## :salt: Ingredients - Frosting
 
-- :butter: 1.75 cup unsalted butter
-- :candy: 3.5 cups confectioners' sugar
+- :butter: 1.75 cup (397 g) unsalted butter
+- :candy: 3.5 cups (693 g) confectioners' sugar
 - :salt: 0.13 tsp salt
 - :icecream: 1.5 tsp vanilla
 - :chestnut: 0.25 tsp almond extract

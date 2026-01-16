@@ -17,9 +17,9 @@ tags:
 - :yellow_circle: 1.5 cups aquafaba
 - :rice: 0.5 tsp cream of tartar
 - :candy: 2 tsp xanthan gum
-- :candy: 2 cups sugar
+- :candy: 2 cups (396 g) sugar
 - :dash: 2 tsp agar powder
-- :droplet: 0.5 cup water
+- :droplet: 0.5 cup (114 g) water
 - :icecream: 1 vanilla bean
 - :icecream: 1 tsp vanilla
 - :potato: 0.5 cup tapioca or potato starch

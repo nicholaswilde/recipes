@@ -15,13 +15,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :peanuts: 0.5 cup [smooth peanut butter][1]
+- :peanuts: 0.5 cup (68 g) [smooth peanut butter][1]
 - :bagel: 3 oz cold cream cheese
 - :butter: 1.5 Tbsp unsalted butter, softened
 - :icecream: 1 tsp vanilla
 - :glass_of_milk: 3 Tbsp cream or milk
 - :tumbler_glass: 2 Tbsp bourbon or rum (optional)
-- :candy: 2.66 cups confectioners' sugar, sifted
+- :candy: 2.66 cups (527 g) confectioners' sugar, sifted
 - :tumbler_glass: 2 Tbsp cream, milk, or liquor or as needed
 
 ## :cooking: Cookware

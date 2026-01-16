@@ -23,7 +23,7 @@ tags:
 - :egg: 2 large eggs
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 65 g all-purpose flour
-- :chocolate_bar: 0.75 cup semi-sweet chocolate chips
+- :chocolate_bar: 0.75 cup (128 g) semi-sweet chocolate chips
 
 ## :salt: Ingredients - Cookie Dough
 
@@ -36,7 +36,7 @@ tags:
 - :cup_with_straw: 0.25 tsp baking soda
 - :dash: 0.5 tsp baking powder
 - :ear_of_rice: 160 g all-purpose flour
-- :chocolate_bar: 1 cup semi-sweet chocolate chips
+- :chocolate_bar: 1 cup (170 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 1 tsp salt
 - :egg: 3 eggs

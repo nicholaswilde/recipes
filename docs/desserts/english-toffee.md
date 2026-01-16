@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1.75 cups sugar
+- :candy: 1.75 cups (346 g) sugar
 - :cow: 1 cup heavy cream
 - :butter: 1 stick unsalted butter
 - :cow: 0.13 tsp cream of tartar

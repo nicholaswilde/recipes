@@ -20,7 +20,7 @@ tags:
 - :icecream: 0.5 tsp vanilla extract
 - :custard: 0.25 tsp cinnamon
 - :salt: 1 pinch salt
-- :chestnut: 0.25 cup chia seeds
+- :chestnut: 0.25 cup (40 g) chia seeds
 - :strawberry: 0.5 cup strawberries (optional)
 - :coconut: some toasted coconut (optional)
 - :strawberry: some boba pearls (optional)

@@ -13,9 +13,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1 cup sugar
+- :candy: 1 cup (198 g) sugar
 - :tomato: 0.67 cup [ketchup][1]
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 - :champagne: 0.5 cup white vinegar
 - :leafy_green: 0.5 tsp celery seed
 - :hot_pepper: 0.5 tsp chili powder

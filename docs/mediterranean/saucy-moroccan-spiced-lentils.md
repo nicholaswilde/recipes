@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :curry: 1 cup lentils
-- :droplet: 2 cup water
+- :droplet: 2 cup (454 g) water
 - :garlic: 3 cloves garlic
 - :onion: 1 medium onion
 - :bell_pepper: 1 large bell pepper

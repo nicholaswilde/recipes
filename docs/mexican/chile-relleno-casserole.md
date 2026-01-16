@@ -16,7 +16,7 @@ tags:
 
 - :glass_of_milk: 2 cups half and half
 - :egg: 4 eggs
-- :ear_of_rice: 0.67 cups all-purpose flour
+- :ear_of_rice: 0.67 cups (80 g) all-purpose flour
 - :bell_pepper: 6 whole green chiles
 - :bell_pepper: 6 4-oz cans diced green chiles (alternative)
 - :cheese_wedge: 1 lb grated cheddar or jack cheese

@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup all-purpose flour
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :dash: 1.5 tsp baking powder
 - :salt: 0.25 tsp salt
 - :butter: 1 Tbsp butter

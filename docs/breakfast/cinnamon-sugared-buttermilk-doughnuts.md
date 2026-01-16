@@ -13,17 +13,17 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3.5 cups all-purpose flour
-- :candy: 2 cups sugar
+- :ear_of_rice: 3.5 cups (420 g) all-purpose flour
+- :candy: 2 cups (396 g) sugar
 - :rice: 2 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :chestnut: 1.5 tsp nutmeg
 - :salt: 1 tsp salt
-- :glass_of_milk: 0.75 cup buttermilk
+- :glass_of_milk: 0.75 cup (170 g) buttermilk
 - :butter: 4 Tbsp butter
 - :egg: 2 eggs
 - :egg: 1 egg yolk
-- :carrot: 6 cups vegetable shortening
+- :carrot: 6 cups (1104 g) vegetable shortening
 - :custard: 1.5 Tbsp cinnamon
 
 ## :cooking: Cookware

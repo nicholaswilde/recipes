@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients - Bread
 
 - :jack_o_lantern: 1 15-oz can pumpkin puree
-- :oil_drum: 0.5 cup vegetable oil
+- :oil_drum: 0.5 cup (99 g) vegetable oil
 - :egg: 3 large eggs
 - :candy: 330 g granulated sugar
 - :dash: 1.5 tsp baking powder

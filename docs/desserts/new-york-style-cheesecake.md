@@ -18,7 +18,7 @@ tags:
 - :pie: 1 [shortbread crust][1]
 - :egg: 1 egg white
 - :cheese_wedge: 2.5 lbs cream cheese
-- :candy: 1.75 cups sugar
+- :candy: 1.75 cups (346 g) sugar
 - :ear_of_rice: 3 Tbsp all-purpose flour (optional)
 - :lemon: 1 tsp lemon zest
 - :icecream: 0.5 tsp vanilla

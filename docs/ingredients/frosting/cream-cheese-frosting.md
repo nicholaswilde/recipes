@@ -18,7 +18,7 @@ tags:
 - :bagel: 8 oz cold cream cheese
 - :butter: 6 Tbsp unsalted butter, softened
 - :icecream: 2 tsp vanilla
-- :candy: 3 cups confectioners' sugar, sifted
+- :candy: 3 cups (594 g) confectioners' sugar, sifted
 - :lemon: some lemon zest (optional)
 - :orange_circle: some orange zest (optional)
 - :custard: some cinnamon (optional)
@@ -29,7 +29,7 @@ tags:
 - :bagel: 8 oz cold cream cheese
 - :butter: 5 Tbsp unsalted butter, softened
 - :icecream: 2 tsp vanilla
-- :candy: 4 cups confectioners' sugar, sifted
+- :candy: 4 cups (792 g) confectioners' sugar, sifted
 - :lemon: some lemon zest (optional)
 - :orange_circle: some orange zest (optional)
 - :custard: some cinnamon (optional)

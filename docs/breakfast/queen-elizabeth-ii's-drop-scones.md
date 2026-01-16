@@ -16,7 +16,7 @@ tags:
 - :candy: 4 Tbsp sugar
 - :egg: 2 large eggs
 - :glass_of_milk: 1.5 cups whole milk
-- :ear_of_rice: 3 cups all-purpose flour
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
 - :cup_with_straw: 2 tsp baking soda
 - :rice: 3 tsp cream of tartar
 - :butter: 2 Tbsp butter

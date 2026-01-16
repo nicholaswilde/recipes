@@ -25,9 +25,9 @@ tags:
 
 ## :salt: Ingredients - Honey Butter
 
-- :honey_pot: 0.5 cup honey
-- :butter: 1 cup unsalted butter
-- :dango: 0.5 cup [marshmallow fluff][2]
+- :honey_pot: 0.5 cup (168 g) honey
+- :butter: 1 cup (227 g) unsalted butter
+- :dango: 0.5 cup (64 g) [marshmallow fluff][2]
 
 ## :cooking: Cookware
 

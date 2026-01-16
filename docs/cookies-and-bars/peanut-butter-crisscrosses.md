@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup vegetable shortening
-- :candy: 1 cup granulated sugar
-- :maple_leaf: 1 cup [brown sugar][1]
+- :butter: 1 cup (184 g) vegetable shortening
+- :candy: 1 cup (198 g) granulated sugar
+- :maple_leaf: 1 cup (213 g) [brown sugar][1]
 - :egg: 2 large eggs
 - :icecream: 1 tsp vanilla
-- :peanuts: 1 cup [peanut butter][2] (smooth supermarket style, not natural)
+- :peanuts: 1 cup (135 g) [peanut butter][2] (smooth supermarket style, not natural)
 - :ear_of_rice: 3 cups flour
 - :cup_with_straw: 2 tsp baking soda
 - :salt: 0.5 tsp salt

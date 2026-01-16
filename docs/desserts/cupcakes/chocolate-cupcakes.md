@@ -14,19 +14,19 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup all-purpose flour
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :salt: 0.5 tsp salt
 - :cup_with_straw: 0.5 tsp baking soda
 - :chocolate_bar: 0.5 cup cocoa powder
-- :butter: 0.25 cup unsalted butter
-- :candy: 1 cup granulated sugar
+- :butter: 0.25 cup (57 g) unsalted butter
+- :candy: 1 cup (198 g) granulated sugar
 - :chocolate_bar: 2 oz semisweet chocolate
 - :egg: 2 large eggs
 - :egg: 2 large egg yolks
 - :oil_drum: 9 Tbsp vegetable oil
 - :icecream: 2 tsp vanilla
-- :rice: 0.33 cup full-fat sour cream
-- :droplet: 0.5 cup room temperature water
+- :rice: 0.33 cup (75 g) full-fat sour cream
+- :droplet: 0.5 cup (114 g) room temperature water
 - :chocolate_bar: 1 [chocolate ganache][1]
 
 ## :cooking: Cookware

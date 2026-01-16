@@ -16,8 +16,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup unsalted butter
-- :candy: 2 cups confectioners' sugar
+- :butter: 0.5 cup (114 g) unsalted butter
+- :candy: 2 cups (396 g) confectioners' sugar
 - :icecream: 1 Tbsp heavy cream
 - :candy: 0.5 tsp peppermint extract
 

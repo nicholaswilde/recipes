@@ -23,7 +23,7 @@ tags:
 - :egg: 2 egg yolks
 - :butter: 4 Tbsp unsalted butter
 - :icecream: 2 tsp vanilla
-- :candy: 2.5 cup sugar
+- :candy: 2.5 cup (495 g) sugar
 - :ear_of_rice: 1.75 cup flour
 - :salt: 0.75 tsp salt
 - :chocolate_bar: 6 oz bittersweet chocolate

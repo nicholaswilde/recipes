@@ -16,10 +16,10 @@ tags:
 ## :salt: Ingredients
 
 - :strawberry: 1 cup (160 g) fresh strawberries
-- :oil_drum: 0.25 cup vegetable oil
-- :candy: 0.67 cup sugar
+- :oil_drum: 0.25 cup (50 g) vegetable oil
+- :candy: 0.67 cup (133 g) sugar
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.5 cup all-purpose flour
+- :ear_of_rice: 1.5 cup (180 g) all-purpose flour
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
 - :strawberry: some [vegan strawberry frosting][1]

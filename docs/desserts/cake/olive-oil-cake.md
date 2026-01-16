@@ -16,13 +16,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cup all-purpose flour
+- :ear_of_rice: 1.75 cup (210 g) all-purpose flour
 - :dash: 1 tsp baking powder
 - :salt: 0.75 tsp salt
-- :candy: 1.25 cup granulated sugar
+- :candy: 1.25 cup (248 g) granulated sugar
 - :egg: 3 large egg
 - :lemon: 1 lemon
-- :olive: 0.75 cup olive oil
+- :olive: 0.75 cup (150 g) olive oil
 - :glass_of_milk: 0.75 cup milk
 - :candy: 2 tsp granulated sugar
 

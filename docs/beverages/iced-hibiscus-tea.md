@@ -15,11 +15,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 3 cups water
+- :droplet: 3 cups (681 g) water
 - :tropical_drink: 7 tea bags
 - :hibiscus: 0.5 cup dried hibiscus flowers
-- :candy: 0.5 cup sugar
-- :ice_cube: 3 cups ice water
+- :candy: 0.5 cup (99 g) sugar
+- :ice_cube: 3 cups (681 g) ice water
 - :orange_circle: some orange slices or raspberries
 
 ## :cooking: Cookware

@@ -15,8 +15,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup butter, softened
-- :candy: 0.5 cup confectioners' sugar
+- :butter: 1 cup (227 g) butter, softened
+- :candy: 0.5 cup (99 g) confectioners' sugar
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 2.25 cups flour
 - :salt: 0.25 tsp salt

@@ -15,8 +15,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 3 cups granulated sugar
-- :butter: 0.75 cup butter
+- :candy: 3 cups (594 g) granulated sugar
+- :butter: 0.75 cup (170 g) butter
 - :glass_of_milk: 0.67 cup evaporated milk
 - :chocolate_bar: 1 tsp instant espresso powder
 - :dango: 1 7-oz jar marshmallow creme

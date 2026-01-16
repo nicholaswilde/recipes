@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 cup unsalted European butter
+- :butter: 1 cup (227 g) unsalted European butter
 - :candy: 200 g granulated sugar
 - :egg: 5 egg yolks
 - :tumbler_glass: 2 Tbsp dark rum or orange flower water

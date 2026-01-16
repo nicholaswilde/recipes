@@ -15,13 +15,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :butter: 10 Tbsp salted butter
-- :corn: 0.33 cup light corn syrup
+- :corn: 0.33 cup (103 g) light corn syrup
 - :glass_of_milk: 0.33 cup whole milk
 - :icecream: 2 tsp vanilla bean paste
 - :cup_with_straw: 1.25 tsp baking soda
-- :peanuts: 3 cups honey roasted peanuts
+- :peanuts: 3 cups (1008 g) honey roasted peanuts
 - :salt: 0.5 tsp Maldon salt
 
 ## :cooking: Cookware

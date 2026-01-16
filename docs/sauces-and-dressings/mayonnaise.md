@@ -19,7 +19,7 @@ tags:
 - :hotdog: 0.5 tsp Dijon mustard
 - :salt: 0.75 tsp salt
 - :candy: 0.25 tsp sugar
-- :oil_drum: 1.5 cups vegetable oil
+- :oil_drum: 1.5 cups (297 g) vegetable oil
 
 ## :cooking: Cookware
 

@@ -15,21 +15,21 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.75 cup butter
-- :candy: 0.5 cup granulated sugar
-- :maple_leaf: 1 cup light brown sugar
+- :butter: 0.75 cup (170 g) butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 1 cup (213 g) light brown sugar
 - :egg: 2 large eggs
 - :icecream: 1 tsp vanilla extract
-- :peanuts: 0.5 cup creamy peanut butter
+- :peanuts: 0.5 cup (68 g) creamy peanut butter
 - :cup_with_straw: 2.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :ear_of_rice: 1.5 cups all-purpose flour
-- :ear_of_rice: 2 cups old-fashioned rolled oats
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+- :ear_of_rice: 2 cups (198 g) old-fashioned rolled oats
 - :peanuts: some creamy peanut butter
-- :butter: 0.25 cup butter
+- :butter: 0.25 cup (57 g) butter
 - :chocolate_bar: 1 Tbsp unsweetened cocoa powder
 - :glass_of_milk: 1.5 Tbsp milk
-- :candy: 1.25 cups powdered sugar
+- :candy: 1.25 cups (248 g) powdered sugar
 - :icecream: 1 tsp vanilla extract
 
 ## :cooking: Cookware

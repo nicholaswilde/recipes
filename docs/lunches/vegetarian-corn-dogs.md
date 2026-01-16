@@ -17,11 +17,11 @@ tags:
 - :oil_drum: some vegetable oil
 - :hotdog: 12 vegetarian hot dogs
 - :corn: 1.5 cups corn meal
-- :ear_of_rice: 1.25 cups all-purpose flour
-- :candy: 0.25 cup granulated sugar
+- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
+- :candy: 0.25 cup (50 g) granulated sugar
 - :dash: 1 Tbsp baking powder
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 1.75 cups buttermilk
+- :glass_of_milk: 1.75 cups (397 g) buttermilk
 - :egg: 1 egg
 - :olive: 1 Tbsp vegetable or olive oil
 - :honey_pot: 1 Tbsp honey

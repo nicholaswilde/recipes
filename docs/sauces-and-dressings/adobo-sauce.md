@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :hot_pepper: 0.5 cup chile powder
-- :hotsprings: 1.5 cups boiling water
+- :hotsprings: 1.5 cups (340 g) boiling water
 - :sake: 0.25 cup cider vinegar
 - :tomato: 2 Roma tomatoes
 - :garlic: 3 cloves garlic

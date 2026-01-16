@@ -13,10 +13,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2 cups granulated sugar
-- :corn: 1.5 cups corn syrup
+- :candy: 2 cups (396 g) granulated sugar
+- :corn: 1.5 cups (468 g) corn syrup
 - :icecream: 1.5 cups heavy cream
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (227 g) unsalted butter
 - :chocolate_bar: 4 oz unsweetened chocolate
 - :icecream: 2 tsp vanilla
 - :chestnut: 1.5 cups nuts (optional)

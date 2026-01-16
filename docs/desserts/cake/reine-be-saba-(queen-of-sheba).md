@@ -21,12 +21,12 @@ tags:
 - :salt: 1 pinch salt
 - :candy: 2 Tbsp granulated sugar
 - :butter: 8 Tbsp unsalted butter
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :egg: 3 large egg yolks
 - :chestnut: 0.33 cup pulverized almonds
 - :candy: 2 Tbsp granulated sugar
 - :chestnut: 0.25 tsp almond extract
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 
 ## :salt: Ingredients - Frosting
 

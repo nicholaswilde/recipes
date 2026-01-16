@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :coconut: 0.75 cups melted coconut oil
-- :candy: 1 cup sugar
+- :coconut: 0.75 cups (170 g) melted coconut oil
+- :candy: 1 cup (198 g) sugar
 - :egg: 3 eggs
 - :icecream: 0.5 tsp vanilla
 - :lemon: 2 Tbsp lemon zest
-- :microbe: 1 cup [yogurt][1]
+- :microbe: 1 cup (227 g) [yogurt][1]
 - :lemon: 0.25 cup lemon juice
 - :ear_of_rice: 2 cups flour
 - :dash: 1 tsp baking powder
@@ -29,7 +29,7 @@ tags:
 - :ear_of_rice: 2 Tbsp flaxmeal
 - :blueberries: 1 cup blueberries
 - :lemon: 2 tsp lemon juice
-- :candy: 1 cup powdered sugar
+- :candy: 1 cup (198 g) powdered sugar
 
 ## :cooking: Cookware
 

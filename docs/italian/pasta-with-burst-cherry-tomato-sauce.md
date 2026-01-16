@@ -26,7 +26,7 @@ tags:
 ## :salt: Ingredients - Pasta
 
 - :droplet: 4 qt water
-- :olive: 0.25 cup olive oil
+- :olive: 0.25 cup (50 g) olive oil
 - :garlic: 2 cloves garlic
 - :fish: 2 fillets [anchovy][1]
 - :tomato: 2 lbs cherry tomatoes

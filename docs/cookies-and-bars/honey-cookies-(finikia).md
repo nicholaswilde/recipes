@@ -16,12 +16,12 @@ tags:
 ## :salt: Ingredients
 
 - :orange_circle: 0.75 cup orange juice
-- :honey_pot: 0.75 cup honey
+- :honey_pot: 0.75 cup (252 g) honey
 - :lemon: 0.5 lemon juice
 - :lemon: 1 Tbsp lemon zest
 - :icecream: 1 tsp vanilla
 - :tumbler_glass: 1.5 oz cognac or rum
-- :olive: 0.75 cup olive oil
+- :olive: 0.75 cup (150 g) olive oil
 - :cup_with_straw: 1 tsp baking soda
 - :dash: 1 tsp baking powder
 - :ear_of_rice: 3.5 cups (420 g) all-purpose flour

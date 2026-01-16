@@ -18,7 +18,7 @@ tags:
 | 4                                  |
 
 - :glass_of_milk: 6 cups milk
-- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :salt: 0.5 tsp salt
 - :rice: 0.5 cup long grain white rice
 - :icecream: 2 tsp vanilla
@@ -31,7 +31,7 @@ tags:
 | 2                                  |
 
 - :glass_of_milk: 3 cups milk
-- :candy: 0.25 cup granulated sugar
+- :candy: 0.25 cup (50 g) granulated sugar
 - :salt: 0.25 tsp salt
 - :rice: 0.25 cup long grain white rice
 - :icecream: 1 tsp vanilla

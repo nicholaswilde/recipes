@@ -13,7 +13,7 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- :hotsprings: 0.5 cup lukewarm water
+- :hotsprings: 0.5 cup (114 g) lukewarm water
 - :microbe: 7 g yeast
 - :ear_of_rice: 565 g all-purpose flour
 - :egg: 3 large eggs
@@ -27,8 +27,8 @@ tags:
 ## :salt: Ingredients - Decoration
 
 - :butter: 6 Tbsp margarine
-- :candy: 0.5 cup confectioners' sugar
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :candy: 0.5 cup (99 g) confectioners' sugar
+- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
 - :egg: 1 egg yolk
 - :egg: 1 egg
 - :glass_of_milk: 1 Tbsp milk or water

@@ -16,11 +16,11 @@ tags:
 ## :salt: Ingredients - Cake
 
 - :butter: 3 sticks unsalted butter
-- :candy: 2 cups sugar
+- :candy: 2 cups (396 g) sugar
 - :egg: 5 extra-large eggs
 - :icecream: 1.5 tsp vanilla
 - :chestnut: 1.5 tsp almond extracts
-- :ear_of_rice: 3 cups all-purpose flour
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
 - :dash: 1 tsp baking powder
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt

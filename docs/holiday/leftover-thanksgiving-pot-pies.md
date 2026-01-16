@@ -16,7 +16,7 @@ tags:
 
 - :pie: 1 [hot water crust][4]
 - :bowl_with_spoon: 0.5 cup [good gravy][1]
-- :potato: 1 cup [mashed potatoes][2]
+- :potato: 1 cup (213 g) [mashed potatoes][2]
 - :stuffed_flatbread: 1 cup [stuffing][3]
 - :egg: 1 egg
 

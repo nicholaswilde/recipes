@@ -16,7 +16,7 @@ tags:
 
 - :butter: 6 Tbsp unsalted butter
 - :chocolate_bar: 0.5 cup cocoa
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 - :glass_of_milk: 3 Tbsp milk
 - :icecream: 1 tsp vanilla
 - :leafy_green: 1 [Mint Filling][2]

@@ -15,11 +15,11 @@ tags:
 ## :salt: Ingredients
 
 - :potato: 2 lbs russet potatoes
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :egg: 2 large eggs
 - :onion: 0.33 cup onion
 - :salt: some salt
-- :oil_drum: 1.25 cups vegetable oil
+- :oil_drum: 1.25 cups (248 g) vegetable oil
 - :rice: some sour cream
 - :apple: some applesauce
 

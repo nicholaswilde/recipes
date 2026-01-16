@@ -16,13 +16,13 @@ tags:
 
 - :onion: 2 lbs sweet onions
 - :sake: 0.5 cup balsamic vinegar
-- :maple_leaf: 0.5 cup maple syrup
+- :maple_leaf: 0.5 cup (156 g) maple syrup
 - :salt: 1.5 tsp salt
 - :salt: 1.5 tsp pepper
 - :fallen_leaf: 1 bay leaf
 - :green_apple: 2 cups apple juice
 - :rice: 3 Tbsp pectin
-- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 
 ## :cooking: Cookware
 

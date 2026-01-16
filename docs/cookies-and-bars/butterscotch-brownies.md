@@ -14,14 +14,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2.5 cups all-purpose flour
+- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
 - :dash: 1 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 1 cup unsalted butter
-- :maple_leaf: 1.75 cups brown sugar
+- :butter: 1 cup (227 g) unsalted butter
+- :maple_leaf: 1.75 cups (373 g) brown sugar
 - :icecream: 1 Tbsp vanilla
 - :egg: 2 large eggs
-- :chocolate_bar: 1 cup butterscotch morsels
+- :chocolate_bar: 1 cup (227 g) butterscotch morsels
 - :chestnut: 1 cup chopped nuts (optional)
 
 ## :cooking: Cookware

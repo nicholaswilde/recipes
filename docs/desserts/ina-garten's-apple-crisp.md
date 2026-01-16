@@ -19,15 +19,15 @@ tags:
 - :lemon: 1 lemon zest
 - :orange_circle: 2 Tbsp orange juice
 - :lemon: 2 Tbsp lemon juice
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :custard: 2 tsp cinnamon
 - :chestnut: 1 tsp nutmeg
 
 ## :salt: Ingredients - Topping
 
-- :ear_of_rice: 1.5 cups all-purpose flour
-- :candy: 0.75 cup granulated sugar
-- :maple_leaf: 0.75 cup brown sugar
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+- :candy: 0.75 cup (148 g) granulated sugar
+- :maple_leaf: 0.75 cup (160 g) brown sugar
 - :salt: 0.5 tsp salt
 - :ear_of_rice: 1 cup quick-cooking oats
 - :butter: 2 sticks cold butter

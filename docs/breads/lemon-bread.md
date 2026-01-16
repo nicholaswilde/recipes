@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients - Bread
 
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :custard: 3.4 oz instant lemon pudding mix
 - :dash: 1.2 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :egg: 3 eggs
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :butter: 2 Tbsp unsalted butter
 - :icecream: 1 tsp vanilla
 - :lemon: 2 tsp lemon extract
 - :lemon: 0.33 cup lemon juice
-- :carrot: 0.5 cup vegetable oil
-- :microbe: 0.75 cup plain Greek yogurt
+- :carrot: 0.5 cup (99 g) vegetable oil
+- :microbe: 0.75 cup (170 g) plain Greek yogurt
 - :lemon: 1 lemon
 
 ## :salt: Ingredients - Frosting
@@ -33,7 +33,7 @@ tags:
 - :butter: 3 Tbsp butter
 - :lemon: 3 Tbsp lemon juice
 - :lemon: 1 tsp lemon extract
-- :candy: 1.5 cups confectioners' sugar
+- :candy: 1.5 cups (297 g) confectioners' sugar
 
 ## :cooking: Cookware
 

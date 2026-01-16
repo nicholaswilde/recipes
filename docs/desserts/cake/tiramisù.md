@@ -15,9 +15,9 @@ tags:
 ## :salt: Ingredients - Ladyfingers
 
 - :egg: 6 egg
-- :candy: 0.75 cup granulated sugar
+- :candy: 0.75 cup (148 g) granulated sugar
 - :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :salt: 0.25 tsp salt
 - :candy: some confectioners' sugar
 
@@ -30,9 +30,9 @@ tags:
 
 - :egg: 6 egg
 - :glass_of_milk: 0.5 cup whole milk
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :icecream: 1.5 cups heavy whipping cream
-- :candy: 0.25 cup confectioners' sugar
+- :candy: 0.25 cup (50 g) confectioners' sugar
 - :cheese_wedge: 16 oz chilled custard mascarpone
 - :icecream: 2 tsp vanilla
 

@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :potato: 2 lbs all-purpose or boiling potatoes
-- :ear_of_rice: 1.33 cup all-purpose flour
+- :ear_of_rice: 1.33 cup (160 g) all-purpose flour
 - :salt: 1 tsp salt
 - :chestnut: 0.25 tsp nutmeg
 - :butter: 3 Tbsp unsalted butter, melted

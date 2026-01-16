@@ -24,7 +24,7 @@ tags:
 - :dash: 1.25 tsp baking powder
 - :salt: 1 tsp salt
 - :glass_of_milk: 1.33 cups whole milk
-- :microbe: 1 cup sourdough starter
+- :microbe: 1 cup (227 g) sourdough starter
 - :candy: 3 Tbsp granulated sugar
 
 ## :cooking: Cookware

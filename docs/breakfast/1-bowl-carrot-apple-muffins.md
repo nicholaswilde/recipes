@@ -17,17 +17,17 @@ tags:
 - 1.5 Tbsp flaxseed meal
 - :droplet: 4 Tbsp water
 - :banana: 0.33 cup mashed banana
-- :maple_leaf: 0.25 cup agave or maple syrup
-- :olive: 0.25 cup olive oil
-- :green_apple: 0.5 cup unsweetened applesauce
-- :maple_leaf: 0.5 cup [brown sugar][1]
+- :maple_leaf: 0.25 cup (78 g) agave or maple syrup
+- :olive: 0.25 cup (50 g) olive oil
+- :green_apple: 0.5 cup (128 g) unsweetened applesauce
+- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
 - :cup_with_straw: 1.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :custard: 0.5 tsp cinnamon
 - :glass_of_milk: 0.5 cup almond milk
 - :carrot: 1 heaping cup grated carrot
 - :ear_of_rice: 0.67 cup oats
-- :chestnut: 0.5 cup almond meal
+- :chestnut: 0.5 cup (42 g) almond meal
 - :ear_of_rice: 1 heaping cup gluten-free flour blend
 - :chestnut: 0.25 cup walnuts (optional)
 

@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :pie: 1 [puff pastry][1]
-- :candy: 0.5 cup granulated or demerara sugar
+- :candy: 0.5 cup (110 g) granulated or demerara sugar
 - :custard: 0.75 tsp cinnamon
 - :chestnut: 0.25 tsp nutmeg
 - :butter: 3 Tbsp melted butter

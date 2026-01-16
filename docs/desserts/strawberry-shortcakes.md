@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients - Shortcake
 
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :candy: 0.75 tsp granulated sugar
 - :dash: 0.5 tsp baking powder
 - :cup_with_straw: 1 pinch baking soda

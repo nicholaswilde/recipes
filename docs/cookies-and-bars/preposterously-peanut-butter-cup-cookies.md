@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2 cups sugar
-- :peanuts: 2 cups [peanut butter][1]
-- :candy: 2 cups sugar
+- :candy: 2 cups (396 g) sugar
+- :peanuts: 2 cups (270 g) [peanut butter][1]
+- :candy: 2 cups (396 g) sugar
 - :egg: 2 large eggs
 - :cup_with_straw: 2 tsp baking soda
 - :icecream: 2 tsp bourbon vanilla

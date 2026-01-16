@@ -15,33 +15,33 @@ tags:
 
 ## :salt: Ingredients - Streusel
 
-- :ear_of_rice: 3 cups all-purpose flour
-- :maple_leaf: 1 cup brown sugar
-- :candy: 0.5 cup granulated sugar
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
+- :maple_leaf: 1 cup (213 g) brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :salt: 1 tsp salt
 - :custard: 2 Tbsp cinnamon
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (227 g) unsalted butter
 
 ## :salt: Ingredients - Cake
 
-- :ear_of_rice: 2.25 cups all-purpose flour
-- :candy: 1.25 cups granulated sugar
+- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+- :candy: 1.25 cups (248 g) granulated sugar
 - :dash: 1 Tbsp baking powder
 - :cup_with_straw: 0.75 tsp baking soda
 - :salt: 0.75 tsp salt
-- :butter: 0.75 cup unsalted butter
-- :rice: 0.5 cup sour cream
+- :butter: 0.75 cup (170 g) unsalted butter
+- :rice: 0.5 cup (114 g) sour cream
 - :egg: 4 large eggs
-- :rice: 1 cup sour cream
+- :rice: 1 cup (227 g) sour cream
 - :icecream: 1 Tbsp vanilla
 
 ## :salt: Ingredients - Icing
 
-- :butter: 0.25 cup unsalted butter
+- :butter: 0.25 cup (57 g) unsalted butter
 - :icecream: 1 tsp vanilla
 - :salt: 0.5 tsp salt
 - :glass_of_milk: 0.25 cup milk
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 
 ## :cooking: Cookware
 

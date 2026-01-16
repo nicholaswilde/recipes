@@ -19,7 +19,7 @@ tags:
 - :dash: 2.5 tsp baking powder
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :chocolate_bar: 1.5 cups mini semi sweet chocolate chips
+- :chocolate_bar: 1.5 cups (255 g) mini semi sweet chocolate chips
 - :egg: 2 large eggs
 - :rice: 65 g sour cream or full fat Greek yogurt
 - :icecream: 2 tsp vanilla

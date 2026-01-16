@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients - Peanut Sauce
 
-- :peanuts: 0.25 cup creamy peanut butter
+- :peanuts: 0.25 cup (34 g) creamy peanut butter
 - :takeout_box: 4 tsp soy sauce
 - :lemon: 1 Tbsp lime juice
 - :maple_leaf: 2 tsp brown sugar

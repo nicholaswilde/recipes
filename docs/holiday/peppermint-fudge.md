@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 4 cups granulated sugar
+- :candy: 4 cups (792 g) granulated sugar
 - :glass_of_milk: 1 12-oz can evaporated milk
-- :butter: 0.75 cup unsalted butter
+- :butter: 0.75 cup (170 g) unsalted butter
 - :chocolate_bar: 12 oz semisweet chocolate chips
 - :chocolate_bar: 12 oz bittersweet chocolate chips
 - :dango: 1 7-oz jar marshmallow creme

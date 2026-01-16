@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1 stick (1/2 cup) butter
+- :butter: 1 stick (1/2 cup (114 g)) butter
 - :herb: 1 cup Mirepoix
 - :onion: 0.5 cup onions (alternative)
 - :carrot: 0.25 cup carrots (alternative)
 - :leafy_green: 0.25 cup celery (alternative)
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :salt: 10 whole black peppercorns
 - :tomato: 2 cups tomatoes
 - :herb: 0.5 cup parsley

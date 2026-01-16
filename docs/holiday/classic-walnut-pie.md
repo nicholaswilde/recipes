@@ -15,9 +15,9 @@ tags:
 ## :salt: Ingredients
 
 - :egg: 3 eggs
-- :candy: 1 cup sugar
+- :candy: 1 cup (198 g) sugar
 - :ear_of_rice: 2 Tbsp flour
-- :corn: 1 cup light Karo corn syrup
+- :corn: 1 cup (312 g) light Karo corn syrup
 - :butter: 2 Tbsp butter
 - :ice_cream: 1 tsp vanilla
 - :pie: 1 unbaked pie shell

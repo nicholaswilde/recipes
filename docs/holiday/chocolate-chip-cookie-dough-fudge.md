@@ -16,11 +16,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.33 cup butter
-- :maple_leaf: 0.33 cup brown sugar
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :butter: 0.33 cup (75 g) butter
+- :maple_leaf: 0.33 cup (70 g) brown sugar
+- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :chocolate_bar: 1.33 cups mini semi-sweet chocolate chips
+- :chocolate_bar: 1.33 cups (226 g) mini semi-sweet chocolate chips
 - :candy: 1 lb confectioners' sugar
 - :cheese_wedge: 1 8-oz pkg cream cheese
 - :icecream: 1 tsp vanilla

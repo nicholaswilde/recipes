@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1.25 cups confectioners' sugar, sifted
+- :candy: 1.25 cups (248 g) confectioners' sugar, sifted
 - :lemon: 0.25 cup fresh lemon, orange, or lime juice
 - :ice_cream: 1 tsp vanilla
 

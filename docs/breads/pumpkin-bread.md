@@ -18,12 +18,12 @@ tags:
 - :custard: 1 tsp cinnamon
 - :salt: 0.75 tsp salt
 - :cup_with_straw: 0.5 tsp baking soda
-- :carrot: 0.5 cup vegetable oil
+- :carrot: 0.5 cup (99 g) vegetable oil
 - :jack_o_lantern: 1 15-oz can pumpkin purée
 - :candy: 200 g granulated sugar
 - :maple_leaf: 165 g brown sugar
 - :egg: 2 large eggs
-- :rice: 0.25 cup sour cream
+- :rice: 0.25 cup (57 g) sour cream
 - :icecream: 1.5 tsp vanilla
 
 ## :cooking: Cookware

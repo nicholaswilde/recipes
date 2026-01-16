@@ -14,8 +14,8 @@ tags:
 
 ## :salt: Ingredients - Doughnuts
 
-- :ear_of_rice: 4.5 cups all-purpose flour
-- :candy: 0.5 cup sugar
+- :ear_of_rice: 4.5 cups (540 g) all-purpose flour
+- :candy: 0.5 cup (99 g) sugar
 - :microbe: 1 tsp instant yeast
 - :glass_of_milk: 1.5 cup milk
 - :egg: 1 large egg
@@ -25,7 +25,7 @@ tags:
 ## :salt: Ingredients - Glaze
 
 - :candy: 3.25 confectioners' sugar
-- :droplet: 0.5 cup hot water
+- :droplet: 0.5 cup (114 g) hot water
 - :salt: 1 pinch salt
 
 ## :salt: Ingredients - Frying
@@ -35,7 +35,7 @@ tags:
 ## :salt: Ingredients - Raspberry Frosting
 
 - :strawberry: 8 oz frozen raspberries
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 - :salt: 1 pinch salt
 - :rainbow: some rainbow sprinkles (optional)
 

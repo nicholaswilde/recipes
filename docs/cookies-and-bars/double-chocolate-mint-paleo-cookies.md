@@ -14,19 +14,19 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup almond butter
-- :coconut: 0.25 cup melted coconut oil
-- :candy: 0.25 cup coconut sugar
-- :maple_leaf: 0.25 cup maple syrup
+- :butter: 0.25 cup (57 g) almond butter
+- :coconut: 0.25 cup (56 g) melted coconut oil
+- :candy: 0.25 cup (50 g) coconut sugar
+- :maple_leaf: 0.25 cup (78 g) maple syrup
 - :egg: 1 egg
 - :icecream: 1 tsp vanilla
 - :candy: 0.75 tsp peppermint extract
-- :ear_of_rice: 1 cup [almond flour][2]
-- :ear_of_rice: 0.33 cup coconut flour
+- :ear_of_rice: 1 cup (96 g) [almond flour][2]
+- :ear_of_rice: 0.33 cup (42 g) coconut flour
 - :chocolate_bar: 0.33 cup cocoa powder
 - :salt: 0.25 tsp salt
 - :cup_with_straw: 0.5 tsp baking soda
-- :chocolate_bar: 0.5 cup chocolate chips
+- :chocolate_bar: 0.5 cup (85 g) chocolate chips
 - :chocolate_bar: 0.5 cup melt chocolate
 - :candy: 0.5 cup crushed candy cane
 

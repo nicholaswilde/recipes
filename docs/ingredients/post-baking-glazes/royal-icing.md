@@ -15,12 +15,12 @@ tags:
 ## :egg: Ingredients - Fresh Egg Whites
 
 - :egg: 1 large egg white
-- :candy: 0.33 cup confectioners' sugar
-- :candy: 0.67 cup confectioners' sugar
+- :candy: 0.33 cup (65 g) confectioners' sugar
+- :candy: 0.67 cup (133 g) confectioners' sugar
 
 ## :rice: Ingredients - Powdered Egg Whites
 
-- :candy: 1.33 cups confectioners' sugar
+- :candy: 1.33 cups (263 g) confectioners' sugar
 - :egg: 1 Tbsp powdered egg whites
 - :droplet: 2 Tbsp water
 

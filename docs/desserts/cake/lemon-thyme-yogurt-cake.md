@@ -23,7 +23,7 @@ tags:
 - :dash: 2 tsp baking powder
 - :salt: 0.25 tsp salt
 - :herb: 1.5 tsp lemon thyme leaves
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 
 ## :salt: Ingredients - Glaze
 

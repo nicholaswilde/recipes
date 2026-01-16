@@ -15,7 +15,7 @@ tags:
 ## :salt: Ingredients
 
 - :chestnut: 6 cups almonds
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :orange_circle: 3 Tbsp orange flower water
 - :lemon: 1 lemon zest
 

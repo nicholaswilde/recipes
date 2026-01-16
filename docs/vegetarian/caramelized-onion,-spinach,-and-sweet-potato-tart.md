@@ -16,7 +16,7 @@ tags:
 
 - :ear_of_rice: some all-purpose flour
 - :salt: 0.75 tsp salt
-- :olive: 0.33 cup olive oil
+- :olive: 0.33 cup (66 g) olive oil
 - :droplet: 6 Tbsp water
 
 ## :salt: Ingredients - Filling

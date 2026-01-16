@@ -23,8 +23,8 @@ tags:
 - :bell_pepper: 1 green bell pepper
 - :salt: 1 tsp salt
 - :tomato: 6 oz tomato paste
-- :maple_leaf: 0.25 cup molasses
-- :maple_leaf: 0.25 cup brown sugar
+- :maple_leaf: 0.25 cup (85 g) molasses
+- :maple_leaf: 0.25 cup (53 g) brown sugar
 - :hotdog: 1 Tbsp yellow mustard
 - :apple: 1 tsp apple cider vinegar
 - :salt: 0.25 tsp ground pepper

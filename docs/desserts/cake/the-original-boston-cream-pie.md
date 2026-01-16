@@ -16,7 +16,7 @@ tags:
 
 - :egg: 7 egg
 - :candy: 8 oz granulated sugar
-- :ear_of_rice: 1 cup all-purpose flour
+- :ear_of_rice: 1 cup (120 g) all-purpose flour
 - :butter: 1 oz melted butter
 
 ## :salt: Ingredients - Pastry Cream
@@ -24,7 +24,7 @@ tags:
 - :butter: 1 Tbsp unsalted butter
 - :glass_of_milk: 2 cups milk
 - :icecream: 2 cups light cream
-- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :corn: 3.5 Tbsp cornstarch
 - :egg: 6 eggs
 - :tumbler_glass: 1 tsp dark rum
@@ -42,7 +42,7 @@ tags:
 
 ## :salt: Ingredients - White Icing
 
-- :candy: 1 cup confectioners' sugar
+- :candy: 1 cup (198 g) confectioners' sugar
 - :corn: 1 tsp corn syrup
 - :hotsprings: 1 tsp warm water
 

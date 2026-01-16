@@ -21,7 +21,7 @@ tags:
 - :herb: 0.25 tsp dill
 - :salt: some salt
 - :salt: some pepper
-- :oil_drum: 3 cups vegetable oil
+- :oil_drum: 3 cups (594 g) vegetable oil
 - :herb: 2 Tbsp parsley (optional)
 
 ## :cooking: Cookware

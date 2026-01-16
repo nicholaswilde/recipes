@@ -18,7 +18,7 @@ tags:
 
 - :cookie: 5 oz [chocolate wafer cookies][1]
 - :butter: 6 Tbsp unsalted butter
-- :candy: 0.75 cup granulated sugar
+- :candy: 0.75 cup (148 g) granulated sugar
 - :cheese_wedge: 2 8-oz pkgs cream cheese
 - :herb: 1 Tbsp peppermint extract
 - :glass_of_milk: 1.5 cups heavy cream

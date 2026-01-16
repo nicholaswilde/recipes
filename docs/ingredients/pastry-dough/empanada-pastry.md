@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 cups all-purpose flour
+- :ear_of_rice: 3 cups (360 g) all-purpose flour
 - :salt: 0.25-0.5 tsp salt
 - :butter: 6 oz butter
 - :egg: 1 egg
-- :droplet: 0.25-0.5 cup water or milk
+- :droplet: 0.25-0.5 cup (114 g) water or milk
 
 ## :cooking: Cookware
 

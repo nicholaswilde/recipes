@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :strawberry: 2 cups frozen mixed berries
-- :candy: 0.25 cups granulated sugar (optional)
+- :candy: 0.25 cups (50 g) granulated sugar (optional)
 - :lemon: 0.25 cup lemon juice (optional)
 - :tumbler_glass: 2 Tbsp Chambord Liqueur or Grand Marnier (optional)
 

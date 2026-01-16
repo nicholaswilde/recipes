@@ -24,7 +24,7 @@ tags:
 - :ear_of_rice: 3.5 cups (420 g) unbleached all-purpose flour
 - :salt: 2 tsp table salt
 - :seedling: some seeds of choice
-- :droplet: 1.5 cups water
+- :droplet: 1.5 cups (340 g) water
 
 ## :cooking: Cookware
 

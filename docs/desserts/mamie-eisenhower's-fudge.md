@@ -21,7 +21,7 @@ tags:
 - :chestnut: 2 cups walnuts
 - :butter: 2 Tbsp butter
 - :glass_of_milk: 12 oz [evaporated milk][1]
-- :candy: 4.5 cups sugar
+- :candy: 4.5 cups (891 g) sugar
 
 ## :cooking: Cookware
 

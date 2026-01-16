@@ -21,12 +21,12 @@ tags:
 - :candy: 2 Tbsp sugar
 - :salt: 1 tsp salt
 - :tumbler_glass: 0.25 cup vodka
-- :ice_cube: 0.25 cup ice water
+- :ice_cube: 0.25 cup (57 g) ice water
 - :blue_circle: 3 cups berries
 - :green_apple: 1 granny smith apple
 - :blue_circle: 3 cups berries
 - :butter: 2 Tbsp unsalted butter
-- :candy: 0.75 cup sugar
+- :candy: 0.75 cup (148 g) sugar
 - :custard: 2 Tbsp instant tapioca
 - :lemon: 2 tsp lemon zest
 - :lemon: 2 tsp lemon juice

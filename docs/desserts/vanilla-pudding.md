@@ -13,7 +13,7 @@ comments: true
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :corn: 3 Tbsp cornstarch
 - :salt: 0.25 tsp salt
 - :glass_of_milk: 2.25 cup whole milk

@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup unsalted butter
+- :butter: 0.5 cup (114 g) unsalted butter
 - :glass_of_milk: 3 Tbsp heavy cream
 
 ## :cooking: Cookware

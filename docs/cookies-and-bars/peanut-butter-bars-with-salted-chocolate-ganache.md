@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1.5 cups confectioners' sugar
+- :candy: 1.5 cups (297 g) confectioners' sugar
 - :cookie: 1.5 cups graham cracker crumbs
-- :peanuts: 1 cup creamy peanut butter
+- :peanuts: 1 cup (135 g) creamy peanut butter
 - :salt: 0.13 tsp salt
 - :butter: 8 Tbsp melted butter
 - :chocolate_bar: 8 oz semisweet baking chocolate

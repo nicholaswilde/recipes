@@ -13,13 +13,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup unsalted butter
+- :butter: 0.5 cup (114 g) unsalted butter
 - :onion: 1 medium onion
 - :garlic: 4 cloves garlic
 - :carrot: 1.5 cups carrots
 - :potato: 1.5 cups potatoes
 - :leafy_green: 1 cup celery
-- :ear_of_rice: 0.25 cup all-purpose flour
+- :ear_of_rice: 0.25 cup (30 g) all-purpose flour
 - :herb: 1.5 tsp fresh thyme
 - :herb: 1.5 tsp fresh rosemary
 - :salt: 1 tsp salt

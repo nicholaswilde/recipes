@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :corn: 1 Tbsp cornstarch
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 
 ## :cooking: Cookware
 

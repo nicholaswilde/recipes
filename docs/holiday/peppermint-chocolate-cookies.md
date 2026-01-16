@@ -16,9 +16,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup granulated sugar
-- :maple_leaf: 0.5 cup brown sugar
-- :butter: 0.5 cup unsalted butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 0.5 cup (106 g) brown sugar
+- :butter: 0.5 cup (114 g) unsalted butter
 - :egg: 2 eggs
 - :icecream: 1 tsp vanilla
 - :candy: 0.5 tsp peppermint extract
@@ -26,7 +26,7 @@ tags:
 - :chocolate_bar: 0.33 cup unsweetened cocoa powder
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.25 tsp salt
-- :ear_of_rice: 1.66 cups all-purpose flour
+- :ear_of_rice: 1.66 cups (199 g) all-purpose flour
 - :chocolate_bar: 4 oz bittersweet chocolate
 - :cake: 1 [Peppermint Buttercream][1]
 - :candy: some peppermint candies (optional)

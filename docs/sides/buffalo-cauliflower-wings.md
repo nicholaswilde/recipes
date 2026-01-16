@@ -15,8 +15,8 @@ tags:
 ## :salt: Ingredients
 
 - :broccoli: 1 head cauliflower
-- :droplet: 1 cup water
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :droplet: 1 cup (227 g) water
+- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
 - :garlic: 1 Tbsp garlic powder
 - :onion: 1 Tbsp onion powder
 - :salt: 0.5 tsp salt

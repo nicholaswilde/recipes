@@ -15,14 +15,14 @@ tags:
 
 - :potato: 5 medium white potatoes
 - :egg: 2 eggs
-- :candy: 0.75 cup granulated sugar
+- :candy: 0.75 cup (148 g) granulated sugar
 - :corn: 1 tsp cornstarch
 - :salt: 0.5 tsp salt
 - :sake: 0.33 cup apple cider vinegar
 - :glass_of_milk: 0.5 cup milk
 - :hotdog: 1 tsp yellow mustard
 - :butter: 3 Tbsp unsalted butter
-- :egg: 1 cup [mayonnaise][1]
+- :egg: 1 cup (226 g) [mayonnaise][1]
 - :onion: 1 small onion, finely chopped
 - :leafy_green: 1 cup chopped celery
 - :carrot: 1 cup carrots

@@ -15,15 +15,15 @@ tags:
 
 ## :salt: Ingredients
 
-- :carrot: 0.5 cup vegetable oil
+- :carrot: 0.5 cup (99 g) vegetable oil
 - :chocolate_bar: 4 oz melted unsweetened chocolate
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :egg: 4 eggs
 - :icecream: 2 tsp vanilla
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :candy: 1 cup confectioners' sugar
+- :candy: 1 cup (198 g) confectioners' sugar
 
 ## :cooking: Cookware
 

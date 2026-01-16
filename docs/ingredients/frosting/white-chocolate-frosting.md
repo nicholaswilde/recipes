@@ -19,7 +19,7 @@ tags:
 - :cheese_wedge: 1 8-oz pkg cream cheese
 - :butter: 4 Tbsp unsalted butter
 - :icecream: 1 tsp vanilla
-- :candy: 2.5 cups confectioners' sugar
+- :candy: 2.5 cups (495 g) confectioners' sugar
 
 ## :cooking: Cookware
 

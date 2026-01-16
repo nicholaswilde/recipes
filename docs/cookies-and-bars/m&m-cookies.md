@@ -15,17 +15,17 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cups all-purpose flour
+- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
 - :cup_with_straw: 0.5 tsp baking soda
 - :butter: 14 Tbsp unsalted butter
-- :candy: 0.5 cup granulated sugar
-- :maple_leaf: 0.75 cup dark brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 0.75 cup (160 g) dark brown sugar
 - :salt: 1 tsp salt
 - :icecream: 2 tsp vanilla
 - :egg: 1 egg
 - :egg: 1 egg yolk
 - :candy: 1 cup M&M candies
-- :chocolate_bar: 0.5 cup semisweet chocolate chips
+- :chocolate_bar: 0.5 cup (85 g) semisweet chocolate chips
 
 ## :cooking: Cookware
 

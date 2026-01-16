@@ -23,7 +23,7 @@ tags:
 - :onion: 1 small red onion
 - :hot_pepper: 1 jalapeño
 - :sake: 2 cups white wine vinegar
-- :droplet: 0.5 cup water
+- :droplet: 0.5 cup (114 g) water
 - :candy: 3 Tbsp sugar
 - :salt: 0.5 tsp salt
 
@@ -34,7 +34,7 @@ tags:
 - :salt: 0.25 tsp salt
 - :herb: 1 tsp cumin
 - :canned_food: 1 15.5-oz can black beans
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :hot_pepper: 0.25 tsp chipotle powder
 
 ## :salt: Ingredients - Garnish

@@ -25,7 +25,7 @@ tags:
 - :lemon: 1 tsp lemon zest
 - :egg: 2 large egg yolks
 - :icecream: 2 tsp vanilla
-- :candy: 0.5 cup demerara sugar
+- :candy: 0.5 cup (110 g) demerara sugar
 
 ## :cooking: Cookware
 

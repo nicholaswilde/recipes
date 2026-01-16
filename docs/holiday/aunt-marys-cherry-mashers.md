@@ -19,7 +19,7 @@ tags:
 - :butter: 6 Tbsp margarine
 - :cherries: 1 10-oz jar maraschino cherries
 - :icecream: 0.5 tsp vanilla
-- :glass_of_milk: 0.25 cup sweetened condensed milk
+- :glass_of_milk: 0.25 cup (78 g) sweetened condensed milk
 - :chocolate_bar: 1 20-oz pkg chocolate almond bark
 - :chocolate_bar: 1 11.5-oz bag milk chocolate chips
 - :peanuts: 2.5 cups dry-roasted peanuts

@@ -16,11 +16,11 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 1.5 cups flour
-- :maple_leaf: 1 cup [brown sugar][1]
+- :maple_leaf: 1 cup (213 g) [brown sugar][1]
 - :custard: 1 Tbsp cinnamon
 - :chestnut: 0.5 tsp nutmeg
 - :herb: 0.25 tsp ginger
-- :butter: 0.75 cup softened butter
+- :butter: 0.75 cup (170 g) softened butter
 - :apple: 6 medium apples
 
 ## :cooking: Cookware

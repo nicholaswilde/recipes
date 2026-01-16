@@ -16,14 +16,14 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 3.5 cups flour
-- :candy: 3 cups sugar
+- :candy: 3 cups (594 g) sugar
 - :cup_with_straw: 2 tsp baking soda
 - :custard: 1 tsp cinnamon
 - :chestnut: 1 tsp nutmeg
 - :salt: 1.5 tsp salt
 - :egg: 4 eggs
 - :olive: 1 cup oil
-- :droplet: 0.67 cup water
+- :droplet: 0.67 cup (152 g) water
 - :jack_o_lantern: 2 cups pumpkin
 - :chestnut: some walnut halves
 

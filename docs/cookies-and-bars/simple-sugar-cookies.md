@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :carrot: 0.5 cup vegetable shortening
-- :candy: 0.67 cup sugar
-- :glass_of_milk: 0.25 cup [buttermilk][1]
+- :carrot: 0.5 cup (92 g) vegetable shortening
+- :candy: 0.67 cup (133 g) sugar
+- :glass_of_milk: 0.25 cup (57 g) [buttermilk][1]
 - :icecream: 1 Tbsp vanilla
 - :chestnut: 0.13 tsp nutmeg
 - :ear_of_rice: 2 cups flour

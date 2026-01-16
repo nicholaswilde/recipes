@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2.5 cups all-purpose flour
+- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
 - :salt: 1.25 tsp salt
-- :carrot: 0.75 cup vegetable shortening
+- :carrot: 0.75 cup (138 g) vegetable shortening
 - :butter: 3 Tbsp unsalted butter
 - :droplet: 6 Tbsp ice water
 - :droplet: 1 Tbsp ice water

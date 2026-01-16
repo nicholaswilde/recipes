@@ -30,7 +30,7 @@ comments: true
 - :honey_pot: 2 tsp honey or sugar
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 - :tomato: some oven-dried tomatoes (optional)
 
 ## :cooking: Cookware

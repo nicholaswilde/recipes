@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 - :carrot: some vegetable shortening
 - :dango: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
 - :cake: 1 Wilton white fondant

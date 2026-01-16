@@ -20,12 +20,12 @@ tags:
 - :lemon: 1 lemon
 - :candy: some sugar
 - :ear_of_rice: 0.5 cup whole wheat flour
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :corn: 1 Tbsp cornmeal
 - :salt: 0.25 tsp salt
 - :cup_with_straw: 1 tsp baking soda
 - :egg: 1 egg
-- :glass_of_milk: 1 cup [buttermilk][1]
+- :glass_of_milk: 1 cup (227 g) [buttermilk][1]
 - :butter: 2.5 Tbsp butter
 - :glass_of_milk: some milk
 - :maple_leaf: some maple syrup

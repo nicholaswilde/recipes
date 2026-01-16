@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :glass_of_milk: 4 cups heavy cream
-- :candy: 0.75 cup sugar
+- :candy: 0.75 cup (148 g) sugar
 - :icecream: 1 vanilla bean
 - :egg: 7 large egg yolks
 - :salt: 0.25 tsp salt

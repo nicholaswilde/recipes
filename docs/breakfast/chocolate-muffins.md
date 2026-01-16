@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients - Muffins
 
 - :butter: 113 g unsalted butter
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :oil_drum: 0.5 cup canola oil
 - :icecream: 1 Tbsp vanilla
 - :egg: 3 large eggs
@@ -26,13 +26,13 @@ tags:
 - :dash: 1.5 tsp baking powder
 - :salt: 1.5 tsp kosher salt
 - :chocolate_bar: 0.5 cup dark cocoa powder
-- :rice: 1 cup sour cream
-- :glass_of_milk: 0.33 cup buttermilk
+- :rice: 1 cup (227 g) sour cream
+- :glass_of_milk: 0.33 cup (75 g) buttermilk
 - :chocolate_bar: 1.5 cups semi-sweet chocolate chunks
 
 ## :salt: Ingredients - Ganache
 
-- :chocolate_bar: 1.25 cups bittersweet chocolate chips
+- :chocolate_bar: 1.25 cups (212 g) bittersweet chocolate chips
 - :glass_of_milk: 1 14-oz can condensed milk
 - :icecream: 0.25 tsp vanilla
 

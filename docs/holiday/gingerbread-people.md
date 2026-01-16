@@ -16,10 +16,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.5 cups dark molasses
-- :maple_leaf: 1 cup brown sugar
-- :droplet: 0.67 cup cold water
-- :carrot: 0.33 cup vegetable shortening
+- :maple_leaf: 1.5 cups (510 g) dark molasses
+- :maple_leaf: 1 cup (213 g) brown sugar
+- :droplet: 0.67 cup (152 g) cold water
+- :carrot: 0.33 cup (61 g) vegetable shortening
 
 ## :cooking: Cookware
 

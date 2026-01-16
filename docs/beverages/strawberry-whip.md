@@ -14,8 +14,8 @@ tags:
 ## :salt: Ingredients
 
 - :strawberry: 2 cups strawberries
-- :candy: 0.25 cup granulated sugar
-- :microbe: 1 cup vanilla yogurt
+- :candy: 0.25 cup (50 g) granulated sugar
+- :microbe: 1 cup (227 g) vanilla yogurt
 - :pineapple: 0.5 cup pineapple juice
 - :ice_cube: 1 cup crushed ice
 

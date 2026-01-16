@@ -15,8 +15,8 @@ tags:
 
 ## :salt: Ingredients - Carrot Mixture
 
-- :candy: 0.5 cup granulated sugar
-- :droplet: 1 cup water
+- :candy: 0.5 cup (99 g) granulated sugar
+- :droplet: 1 cup (227 g) water
 - :tangerine: 1 orange zest
 - :carrot: 2 medium carrot
 - :grapes: 0.25 cup dates
@@ -37,7 +37,7 @@ tags:
 - :olive: 1 Tbsp olive oil
 - :rice: 2 cups basmati rice
 - :chestnut: 1/4 cup unsalted, shelled, and natural pistachios
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :olive: 3 Tbsp olive oil
 
 ## :cooking: Cookware

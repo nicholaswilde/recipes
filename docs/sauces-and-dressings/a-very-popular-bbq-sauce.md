@@ -13,10 +13,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.5 cup [brown sugar][1]
+- :maple_leaf: 1.5 cup (320 g) [brown sugar][1]
 - :tomato: 1.5 cup [ketchup][2]
 - :wine_glass: 0.5 cup red wine vinegar
-- :droplet: 0.5 cup water
+- :droplet: 0.5 cup (114 g) water
 - :sake: 1 Tbsp Worcestershire sauce
 - :hotdog: 2.5 Tbsp [mustard][3]
 - :hot_pepper: 2 tsp paprika

@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2.5 cups confectioners' sugar
+- :candy: 2.5 cups (495 g) confectioners' sugar
 - :carrot: 2 Tbsp vegetable shortening
 - :corn: 2 Tbsp corn syrup
 - :herb: 2 tsp peppermint extract

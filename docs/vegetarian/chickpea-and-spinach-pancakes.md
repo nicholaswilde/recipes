@@ -17,7 +17,7 @@ tags:
 - :falafel: 1.25 cup chickpea bean flour
 - :herb: 0.75 tsp cumin
 - :salt: 0.5 tsp salt
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :olive: 1 Tbsp olive oil
 - :leafy_green: 1 cup spinach
 - :herb: 2 scallions

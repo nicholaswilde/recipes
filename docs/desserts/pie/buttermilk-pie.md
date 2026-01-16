@@ -15,11 +15,11 @@ tags:
 ## :salt: Ingredients
 
 - :pie: 1 pie crust
-- :salt: 0.5 cup [salted butter][2]
-- :candy: 1.5 cup sugar
+- :salt: 0.5 cup (114 g) [salted butter][2]
+- :candy: 1.5 cup (297 g) sugar
 - :egg: 3 large eggs
 - :ear_of_rice: 3 Tbsp all-purpose flour
-- :glass_of_milk: 0.75 cup [buttermilk][1]
+- :glass_of_milk: 0.75 cup (170 g) [buttermilk][1]
 - :lemon: 1 Tbsp lemon juice
 - :lemon: 1 tsp lemon zest
 - :icecream: 1 tsp vanilla

@@ -17,11 +17,11 @@ tags:
 
 - :ear_of_rice: 18 Tbsp cake flour
 - :egg: 6 large egg yolks
-- :candy: 0.25 cup sugar
+- :candy: 0.25 cup (50 g) sugar
 - :icecream: 1 tsp vanilla
 - :egg: 6 large egg whites
 - :rice: 0.25 tsp cream of tartar
-- :candy: 0.33 cup sugar
+- :candy: 0.33 cup (65 g) sugar
 
 ## :cooking: Cookware
 

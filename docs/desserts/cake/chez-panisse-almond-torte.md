@@ -18,7 +18,7 @@ tags:
 
 - :candy: 1.25 (248 g) cups granulated sugar
 - :chestnut: 200 g [almond paste][2]
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (227 g) unsalted butter
 - :icecream: 1 tsp vanilla
 - :egg: 6 eggs
 - :ear_of_rice: 130 g all-purpose flour

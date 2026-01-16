@@ -15,8 +15,8 @@ tags:
 ## :salt: Ingredients - Filling
 
 - :cherries: 1 lb cranberries
-- :candy: 1.25 cups granulated sugar
-- :droplet: 0.5 cup water
+- :candy: 1.25 cups (248 g) granulated sugar
+- :droplet: 0.5 cup (114 g) water
 - :salt: 1 pinch salt
 - :egg: 3 large egg yolks
 - :corn: 2 tsp cornstarch

@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients - Cookie
 
-- :butter: 1 cup unsalted butter
-- :candy: 0.5 cup granulated sugar
-- :ear_of_rice: 2 cups all-purpose flour
+- :butter: 1 cup (227 g) unsalted butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :dash: 0.25 tsp baking powder
 - :salt: 0.5 tsp salt
 - :glass_of_milk: 2 Tbsp milk

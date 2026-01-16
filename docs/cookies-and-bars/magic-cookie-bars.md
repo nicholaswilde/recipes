@@ -14,10 +14,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :honey_pot: 1.5 cups graham cracker crumbs
-- :butter: 0.5 cup unsalted butter
+- :honey_pot: 1.5 cups (504 g) graham cracker crumbs
+- :butter: 0.5 cup (114 g) unsalted butter
 - :glass_of_milk: 1 14-oz can sweetened condensed milk
-- :chocolate_bar: 2 cups semisweet chocolate chips
+- :chocolate_bar: 2 cups (340 g) semisweet chocolate chips
 - :coconut: 1.33 cups flaked coconut
 - :chestnut: 1 cup chopped nuts (optional)
 

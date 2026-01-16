@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :carrot: 1 lb baby carrots
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :garlic: 0.5 tsp garlic powder
 - :salt: 0.5 tsp salt
 - :bell_pepper: 0.5 tsp paprika
@@ -22,7 +22,7 @@ tags:
 - :glass_of_milk: 0.5 cup milk
 - :bread: 1 cup [breadcrumbs][3]
 - :microbe: 1 Tbsp nutritional yeast
-- :water_buffalo: 1 cup [buffalo sauce][2]
+- :water_buffalo: 1 cup (227 g) [buffalo sauce][2]
 - :leafy_green: 0.25 cup parsley
 
 ## :cooking: Cookware

@@ -26,10 +26,10 @@ tags:
 
 ## :salt: Ingredients - French Buttercream
 
-- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :droplet: 3 Tbsp water
 - :egg: 5 egg yolks
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (227 g) unsalted butter
 - :icecream: 1 tsp vanilla
 - :salt: 1 pinch salt
 

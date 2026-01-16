@@ -22,7 +22,7 @@ tags:
 - :candy: 1 tsp granulated sugar
 - :salt: 1 tsp salt
 - :droplet: some water
-- :oil_drum: 0.5 cup vegetable oil
+- :oil_drum: 0.5 cup (99 g) vegetable oil
 
 ## :cooking: Cookware
 

@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :cheese_wedge: 1 3-oz pkg cream cheese
-- :candy: 2 cups confectioners' sugar
+- :candy: 2 cups (396 g) confectioners' sugar
 - :icecream: 0.5 tsp vanilla
 - :leafy_green: 0.25 tsp peppermint extract
 - :green_circle: 5 drops green food color

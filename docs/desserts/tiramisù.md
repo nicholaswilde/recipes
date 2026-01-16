@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :egg: 4 large egg yolks
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (99 g) sugar
 - :glass_of_milk: 0.75 cup heavy cream
 - :cheese_wedge: 8 oz mascarpone
 - :coffee: 1.75 cups espresso or very strong coffee

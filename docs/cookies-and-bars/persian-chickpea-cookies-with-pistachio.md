@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.5 cup vegetable oil
+- :oil_drum: 0.5 cup (99 g) vegetable oil
 - :candy: 0.75 cup (85 g) confectioners' sugar
 - :herb: 1 tsp ground cardamom
 - :rose: 0.5 Tbsp rose water

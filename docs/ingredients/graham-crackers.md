@@ -19,7 +19,7 @@ tags:
 - :cup_with_straw: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :dash: 0.75 tsp baking powder
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :maple_leaf: 3 oz [dark brown sugar][1]
 - :ear_of_rice: 1 cup graham flour
 - :butter: 6 Tbsp unsalted butter

@@ -14,15 +14,15 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups all-purpose flour
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
 - :cup_with_straw: 1 tsp baking soda
 - :dash: 1 tsp baking powder
 - :chocolate_bar: 2 Tbsp unsweetened cocoa powder
 - :salt: 1 tsp salt
-- :candy: 2 cups granulated sugar
-- :oil_drum: 1 cup vegetable oil
+- :candy: 2 cups (396 g) granulated sugar
+- :oil_drum: 1 cup (198 g) vegetable oil
 - :egg: 2 eggs
-- :glass_of_milk: 1 cup buttermilk
+- :glass_of_milk: 1 cup (227 g) buttermilk
 - :icecream: 2 tsp vanilla
 - :red_circle: 2 oz red food coloring
 - :coffee: 0.5 cup plain hot coffee

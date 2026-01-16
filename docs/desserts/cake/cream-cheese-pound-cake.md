@@ -15,9 +15,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: 1.5 cups unsalted butter
+- :butter: 1.5 cups (340 g) unsalted butter
 - :cheese_wedge: 8 oz cream cheese
-- :candy: 2.75 cups granulated sugar
+- :candy: 2.75 cups (544 g) granulated sugar
 - :egg: 6 large eggs
 - :ear_of_rice: 3 cups cake flour
 - :salt: 0.5 tsp salt

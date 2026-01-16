@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients - Pasta
 
 - :egg: 2 eggs
-- :ear_of_rice: 4 cups all-purpose flour
+- :ear_of_rice: 4 cups (480 g) all-purpose flour
 - :droplet: 3.5 oz water
 - :salt: 1 pinch salt
 

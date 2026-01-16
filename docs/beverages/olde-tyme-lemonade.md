@@ -9,10 +9,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 1.75 cups sugar
-- :droplet: 1 cup water
+- :candy: 1.75 cups (346 g) sugar
+- :droplet: 1 cup (227 g) water
 - :lemon: 1.5 cups lemon juice
-- :droplet: 7 cup water
+- :droplet: 7 cup (1589 g) water
 
 ## :cooking: Cookware
 

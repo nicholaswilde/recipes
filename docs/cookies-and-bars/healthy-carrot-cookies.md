@@ -19,7 +19,7 @@ tags:
 - :custard: 1.5 tsp cinnamon
 - :chestnut: 0.13 tsp nutmeg
 - :salt: 0.25 tsp salt
-- :coconut: 0.25 cup coconut oil
+- :coconut: 0.25 cup (56 g) coconut oil
 - :maple_leaf: 0.5 cup (107 g) brown or coconut sugar
 - :egg: 1 egg
 - :icecream: 1 tsp vanilla

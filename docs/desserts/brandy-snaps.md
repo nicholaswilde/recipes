@@ -14,15 +14,15 @@ tags:
 
 ## :salt: Ingredients - Cookies
 
-- :corn: 0.33 cup dark corn syrup
+- :corn: 0.33 cup (103 g) dark corn syrup
 - :butter: 0.25 lb unsalted butter, cut into pieces
-- :candy: 0.5 cup granulated sugar
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :candy: 0.5 cup (99 g) granulated sugar
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 
 ## :salt: Ingredients - Whipped Cream
 
 - :icecream: 1 cup heavy cream
-- :candy: 0.25 cup confectioners' sugar
+- :candy: 0.25 cup (50 g) confectioners' sugar
 - :tumbler_glass: 1 Tbsp brandy
 - :salt: 0.125 tsp salt
 - :icecream: 0.5 tsp vanilla

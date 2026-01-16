@@ -16,7 +16,7 @@ tags:
 
 - :chestnut: 0.5 cup cashews
 - :custard: 1 12 oz pkg silken tofu
-- :maple_leaf: 0.5 cup maple syrup
+- :maple_leaf: 0.5 cup (156 g) maple syrup
 - :lemon: 2 Tbsp lemon juice
 - :salt: 1 pinch salt
 - :icecream: 1 vanilla bean

@@ -13,9 +13,9 @@ comments: true
 
 ## :salt: Ingredients
 
-- :droplet: 8 cup water
+- :droplet: 8 cup (1816 g) water
 - :tangerine: 3 large naval oranges
-- :candy: 2.5 cup granulated sugar
+- :candy: 2.5 cup (495 g) granulated sugar
 - :salt: 0.5 tsp kosher salt
 
 ## :cooking: Cookware

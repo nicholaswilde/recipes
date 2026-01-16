@@ -14,13 +14,13 @@ tags:
 ## :salt: Ingredients
 
 - :butter: 10 tbsp unsalted butter
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :egg: 3 eggs
 - :cheese_wedge: 1 cup whole-milk ricotta
 - :rice: 2 tbsp sour cream
 - :icecream: 1 tsp pure vanilla extract
 - :lemon: 1 tsp grated lemon zest
-- :ear_of_rice: 1.25 cups all-purpose flour
+- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
 - :dash: 1 tbsp baking powder
 - :salt: 1 tsp Kosher salt
 - :blueberry: 2 cups fresh blueberries

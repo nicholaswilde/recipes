@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.25 cup vegetable oil
+- :oil_drum: 0.25 cup (50 g) vegetable oil
 - :corn: 0.25 cup kernels
 - :candy: 2 Tbsp sugar
 - :salt: 0.5 tsp salt

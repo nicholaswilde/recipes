@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients - Dough
 
-- :ear_of_rice: 4 cups all-purpose flour
+- :ear_of_rice: 4 cups (480 g) all-purpose flour
 - :microbe: 1 pkg instant yeast
 - :salt: 1 tsp salt
-- :candy: 0.33 cup sugar
+- :candy: 0.33 cup (65 g) sugar
 - :glass_of_milk: 1.5 cups milk
 - :butter: 6 Tbsp unsalted butter
 - :egg: 1 egg
 
 ## :salt: Ingredients - Cinnamon Sugar Filling
 
-- :maple_leaf: 0.67 cup light brown sugar
+- :maple_leaf: 0.67 cup (143 g) light brown sugar
 - :custard: 1 Tbsp cinnamon
 - :salt: 1 pinch salt
-- :butter: 0.25 cup unsalted butter
+- :butter: 0.25 cup (57 g) unsalted butter
 
 ### :cupcake: Filling Variation
 
@@ -40,8 +40,8 @@ tags:
 ## :salt: Ingredients - Cream Cheese Frosting
 
 - :cheese_wedge: 4 oz cream cheese
-- :butter: 0.5 cup butter
-- :candy: 3 cups confectioners' sugar
+- :butter: 0.5 cup (114 g) butter
+- :candy: 3 cups (594 g) confectioners' sugar
 - :glass_of_milk: 3 Tbsp milk
 - :salt: 1 pinch salt
 - :icecream: 1 tsp vanilla

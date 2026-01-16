@@ -29,7 +29,7 @@ tags:
 
 ## :salt: Ingredients - Icing
 
-- :candy: 3.5 cups confectioners' sugar
+- :candy: 3.5 cups (693 g) confectioners' sugar
 - :glass_of_milk: 5 Tbsp milk
 - :icecream: 3 Tbsp heavy cream
 - :icecream: 2 tsp vanilla

@@ -13,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 cups old-fashioned rolled oats
+- :ear_of_rice: 3 cups (297 g) old-fashioned rolled oats
 - :jack_o_lantern: 1 cup raw pumpkin seeds
-- :sunflower: 1 cup raw sunflower seeds
+- :sunflower: 1 cup (140 g) raw sunflower seeds
 - :coconut: 1 cup coconut flakes
 - :chestnut: 1.25 cup raw pecans
-- :maple_leaf: 0.75 cup maple syrup
-- :olive: 0.5 cup olive oil
-- :maple_leaf: 0.5 cup light brown sugar
+- :maple_leaf: 0.75 cup (234 g) maple syrup
+- :olive: 0.5 cup (100 g) olive oil
+- :maple_leaf: 0.5 cup (106 g) light brown sugar
 - :salt: some salt
 
 ## :cooking: Cookware

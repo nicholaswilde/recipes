@@ -17,9 +17,9 @@ tags:
 
 - :egg: 2 eggs
 - :ear_of_rice: 0.5 cup flour
-- :candy: 0.5 cup sugar
-- :maple_leaf: 0.5 cup [brown sugar][1]
-- :butter: 1 cup butter
+- :candy: 0.5 cup (99 g) sugar
+- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
+- :butter: 1 cup (227 g) butter
 - :chocolate_bar: 1 6 oz pkg chocolate chips
 - :pie: 1 unbaked [pie shell][2]
 

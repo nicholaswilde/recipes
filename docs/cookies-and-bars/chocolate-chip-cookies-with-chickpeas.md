@@ -16,16 +16,16 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1 cup light or dark brown sugar
-- :butter: 0.75 cup margarine
+- :maple_leaf: 1 cup (213 g) light or dark brown sugar
+- :butter: 0.75 cup (170 g) margarine
 - :egg: 2 large egg whites
 - :icecream: 2 tsp vanilla
 - :falafel: 1 15-oz can chickpeas
 - :chocolate_bar: 12 oz semisweet chocolate chips
 - :chestnut: 0.75 cup walnuts (optional)
 - :grapes: 0.75 cup raisins (optional)
-- :ear_of_rice: 2 cups all-purpose flour
-- :ear_of_rice: 0.5 cup old-fashioned rolled oats
+- :ear_of_rice: 2 cups (240 g) all-purpose flour
+- :ear_of_rice: 0.5 cup (50 g) old-fashioned rolled oats
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.25 tsp kosher salt
 

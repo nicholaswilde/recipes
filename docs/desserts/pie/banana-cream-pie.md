@@ -17,11 +17,11 @@ tags:
 
 - :icecream: 4 cups heavy cream
 - :glass_of_milk: 1.5 cups whole milk
-- :candy: 1.5 cups granulated sugar
+- :candy: 1.5 cups (297 g) granulated sugar
 - :icecream: 1 vanilla bean
 - :egg: 3 large egg yolks
 - :egg: 2 large eggs
-- :corn: 0.5 cup cornstarch
+- :corn: 0.5 cup (56 g) cornstarch
 - :rice_cracker: 1 graham cracker crust
 - :banana: 3 lbs (6 to 7) banana
 - :candy: 2 tsp granulated sugar

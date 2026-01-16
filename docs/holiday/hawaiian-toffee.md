@@ -14,8 +14,8 @@ tags:
 ## :salt: Ingredients
 
 - :chestnut: 0.75 cup macadamia nuts
-- :butter: 1 cup butter
-- :candy: 1 cup sugar
+- :butter: 1 cup (227 g) butter
+- :candy: 1 cup (198 g) sugar
 - :droplet: 2 Tbsp water
 - :salt: 0.25 tsp salt
 - :icecream: 1 tsp vanilla

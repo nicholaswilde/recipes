@@ -18,9 +18,9 @@ tags:
 - :seedling: 2 lbs daikon radishes
 - :candy: 4 tsp granulated sugar
 - :salt: 2 tsp salt
-- :candy: 1 cup granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :sake: 2.5 cups white vinegar
-- :hotsprings: 2 cups warm water
+- :hotsprings: 2 cups (454 g) warm water
 
 ## :cooking: Cookware
 

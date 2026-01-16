@@ -16,7 +16,7 @@ tags:
 - :potato: 2 large Russet potatoes
 - :onion: 1 large onion
 - :egg: 2 eggs
-- :ear_of_rice: 0.5 cup all-purpose flour
+- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 - :salt: 2 tsp salt
 - :dash: 1 tsp baking powder
 - :salt: 0.5 tsp pepper

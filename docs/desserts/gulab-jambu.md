@@ -18,13 +18,13 @@ tags:
 - :glass_of_milk: 1 cup dried milk powder
 - :butter: 2 Tbsp [ghee][1]
 - :glass_of_milk: 0.25 cup whole milk
-- :droplet: 1.5 cup water
-- :candy: 1 cup granulated sugar
+- :droplet: 1.5 cup (340 g) water
+- :candy: 1 cup (198 g) granulated sugar
 - :olive: 4 green cardamom pods
 - :tulip: 5 strands saffron
 - :lemon: 1 tsp lemon juice (optional)
 - :rose: 1 tsp rose water (optional)
-- :butter: 2 cups ghee or vegetable oil
+- :butter: 2 cups (396 g) ghee or vegetable oil
 
 ## :cooking: Cookware
 

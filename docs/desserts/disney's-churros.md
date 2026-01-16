@@ -15,14 +15,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 1 cup water
+- :droplet: 1 cup (227 g) water
 - :butter: 8 Tbsp butter
 - :salt: 0.25 tsp salt
 - :custard: 0.25 tsp cinnamon
 - :ear_of_rice: 1.25 cups flour
 - :egg: 3 eggs
-- :carrot: 1.5 cups vegetable oil
-- :candy: 0.5 cup sugar
+- :carrot: 1.5 cups (297 g) vegetable oil
+- :candy: 0.5 cup (99 g) sugar
 - :custard: 0.5 tsp cinnamon
 - :chocolate_bar: some dipping sauce
 

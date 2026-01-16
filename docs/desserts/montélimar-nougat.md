@@ -14,7 +14,7 @@ comments: true
 ## :salt: Ingredients
 
 - :honey_pot: 10 Tbsp honey
-- :candy: 1.33 cups granulated sugar
+- :candy: 1.33 cups (263 g) granulated sugar
 - :corn: 1 Tbsp corn syrup
 - :droplet: 3 Tbsp water
 - :egg: 1 egg white

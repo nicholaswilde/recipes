@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :chocolate_bar: 12 oz milk chocolate
-- :peanuts: 0.5 cup [creamy peanut butter][1]
+- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
 - :candy: 3 Tbsp confectioners’ sugar
 - :butter: 1 Tbsp butter
 - :salt: 0.13 tsp salt

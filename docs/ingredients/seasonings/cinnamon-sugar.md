@@ -14,7 +14,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :custard: 2 Tbsp cinnamon
 
 ## :cooking: Cookware

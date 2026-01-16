@@ -15,12 +15,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 0.33 cup water
+- :droplet: 0.33 cup (75 g) water
 - :glass_of_milk: 4 Tbsp whole milk
 - :butter: 5.5 Tbsp unsalted butter
 - :candy: 1 tsp sugar
 - :salt: 1 tsp salt
-- :ear_of_rice: 0.67 cup all-purpose flour
+- :ear_of_rice: 0.67 cup (80 g) all-purpose flour
 - :egg: 4 eggs
 
 ## :cooking: Cookware
