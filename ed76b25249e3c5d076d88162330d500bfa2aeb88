@@ -1,0 +1,4 @@
+Phase: Formatting and Emoji Standardization
+Automated Test: Grep for 'Tbsp' in cook/ and '- :' in docs/
+Manual Verification: Verified unit standardization in Black Eyed Peas and Greens.cook and emoji additions in mediterranean-inspired-orzo-pasta-salad.md.
+User Confirmation: yes
