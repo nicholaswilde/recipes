@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - quick-bread
 ---
+
 # :bread: Delicious Zucchini Bread
 
 ![Delicious Zucchini Bread](../assets/images/delicious-zucchini-bread.jpg){ loading=lazy }

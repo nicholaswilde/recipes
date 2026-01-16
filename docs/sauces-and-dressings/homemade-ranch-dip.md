@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dip
 ---
+
 # :rice: Homemade Ranch Dip
 
 ![Homemade Ranch Dip](../assets/images/homemade-ranch-dip.jpg){ loading=lazy }

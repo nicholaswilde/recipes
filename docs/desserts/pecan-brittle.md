@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - claire-saffitz
 ---
+
 # :chestnut: Pecan Brittle
 
 ![Pecan Brittle][1]{ loading=lazy }

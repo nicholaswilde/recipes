@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :candy: Confectioners' Sugar
 
 ![Confectioners Sugar](../assets/images/confectioners-sugar.jpg){ loading=lazy }

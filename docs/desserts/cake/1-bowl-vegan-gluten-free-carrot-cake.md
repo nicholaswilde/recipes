@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - vegan
   - minimalist-baker
 ---
+
 # :carrot: 1-Bowl Vegan Gluten-Free Carrot Cake
 
 ![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg){ loading=lazy }

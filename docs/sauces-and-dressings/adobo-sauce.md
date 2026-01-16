@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - sauce
 ---
+
 # :tomato: Adobo Sauce
 
 ![Adobo Sauce](../assets/images/adobo-sauce.jpg){ loading=lazy }

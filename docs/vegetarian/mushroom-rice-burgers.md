@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - burgers
 ---
+
 # :hamburger: Mushroom Rice Burgers
 
 ![Mushroom Rice Burgers](../assets/images/mushroom-rice-burgers.jpg){ loading=lazy }

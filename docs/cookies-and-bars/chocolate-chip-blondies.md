@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
   - broma-bakery
   - bake-off
 ---
+
 # :cookie: Chocolate Chip Blondies
 
 ![Chocolate Chip Blondies][1]{ loading=lazy }

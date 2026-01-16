@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - salt
 ---
+
 # :leafy_green: Celery Salt
 
 ![Celery Salt](../../assets/images/celery-salt.jpg){ loading=lazy }

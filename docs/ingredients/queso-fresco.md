@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :cheese_wedge: Queso Fresco
 
 ![Queso Fresco][1]{ loading=lazy }

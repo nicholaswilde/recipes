@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - vegan
 ---
+
 # :icecream: Aquafaba Whipped Cream
 
 ![Aquafaba Whipped Cream][1]{ loading=lazy }

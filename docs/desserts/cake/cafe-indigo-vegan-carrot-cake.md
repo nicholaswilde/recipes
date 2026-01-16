@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - vegan
   - carrot-cake
 ---
+
 # :cake: Cafe Indigo Vegan Carrot Cake
 
 ![Cafe Indigo Vegan Carrot Cake][1]{ loading=lazy }

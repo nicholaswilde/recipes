@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :rice: Pectin
 
 ![Pectin](../assets/images/pectin.jpg){ loading=lazy }

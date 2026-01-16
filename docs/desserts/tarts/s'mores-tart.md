@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - tart
   - claire-saffitz
 ---
+
 # :dango: S'mores Tart
 
 ![S'mores Tart][1]{ loading=lazy }

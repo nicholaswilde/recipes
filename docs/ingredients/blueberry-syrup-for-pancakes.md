@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - breakfast
 ---
+
 # :pancakes: Blueberry Syrup for Pancakes
 
 ![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.jpg){ loading=lazy }

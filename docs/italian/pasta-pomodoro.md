@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - italian
   - pasta
   - jean-pierre
 ---
+
 # :spaghetti: Pasta Pomodoro
 
 ![Pasta Pomodoro](../assets/images/pasta-pomodoro.jpg){ loading=lazy }

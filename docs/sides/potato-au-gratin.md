@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - jean-pierre
 ---
+
 # :potato: Potato Au Gratin
 
 ![Potato Au Gratin](../assets/images/potato-au-gratin.jpg){ loading=lazy }

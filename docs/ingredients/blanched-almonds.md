@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :chestnut: Blanched Almonds
 
 ![Blanched Almonds](../assets/images/blanched-almonds.png){ loading=lazy }

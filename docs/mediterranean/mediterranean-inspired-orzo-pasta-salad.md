@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - minimalist-baker
 ---
+
 # :green_salad: Mediterranean-Inspired Orzo Pasta Salad
 
 ![Mediterranean-Inspired Orzo Pasta Salad][1]{ loading=lazy }

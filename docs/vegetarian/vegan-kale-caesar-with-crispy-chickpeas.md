@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - vegan
   - salad
@@ -11,6 +12,7 @@ tags:
   - lunch
   - side
 ---
+
 # :leafy_green: Vegan Kale Caesar with Crispy Chickpeas
 
 ![Vegan Kale Caesar with Crispy Chickpeas][1]{ loading=lazy }

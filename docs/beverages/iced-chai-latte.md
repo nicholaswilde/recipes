@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :coffee: Iced Chai Latte
 
 ![Iced Chai Latte](../assets/images/iced-chai-latte.png){ loading=lazy }

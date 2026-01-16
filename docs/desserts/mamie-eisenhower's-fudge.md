@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - fudge
   - dessert
   - bar
 ---
+
 # :chocolate_bar: Mamie Eisenhower's Fudge
 
 ![Mamie Eisenhower's Fudge](../assets/images/mamie-eisenhower's-fudge.png){ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - pastry-dough
   - paul-hollywood
 ---
+
 # :pie: Sweet Pastry
 
 ![Sweet Pastry](../../assets/images/sweet-pastry.png){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - soup
   - jean-pierre
 ---
+
 # :stew: Minestrone Soup
 
 ![Minestrone Soup](../assets/images/minestrone-soup.jpg){ loading=lazy }

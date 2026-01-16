@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - vegan
   - mousse
 ---
+
 # :chocolate_bar: Tofu Mousse
 
 ![Tofu Mousse][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - sauce
   - heat-culinary
   - persian
 ---
+
 # :falafel: Roasted Garlic Hummus
 
 ![Roasted Garlic Hummus][1]{ loading=lazy }

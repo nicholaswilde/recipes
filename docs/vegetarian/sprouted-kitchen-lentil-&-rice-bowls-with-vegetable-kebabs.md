@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - vegetarian
 ---
+
 # :rice: Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
 ![Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs][1]{ loading=lazy }

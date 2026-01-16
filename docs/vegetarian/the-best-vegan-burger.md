@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - jamie-oliver
   - vegetarian
 ---
+
 # :hamburger: The Best Vegan Burger
 
 ![The Best Vegan Burger](../assets/images/the-best-vegan-burger.jpg){ loading=lazy }

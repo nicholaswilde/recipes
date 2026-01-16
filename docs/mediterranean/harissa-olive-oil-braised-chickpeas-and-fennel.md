@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - recipe-box
 ---
+
 # :stew: Harissa Olive Oil-Braised Chickpeas & Fennel
 
 ![Harissa Olive Oil-Braised Chickpeas and Fennel][1]{ loading=lazy }

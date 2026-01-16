@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - pancake
   - side
 ---
+
 # :pancakes: Texas Potato Pancakes
 
 ![Texas Potato Pancakes](../assets/images/texas-potato-pancakes.jpg){ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - tofu
   - ingredient
   - minimalist-baker
 ---
+
 # :peanuts: Crispy Baked Peanut Tofu
 
 ![Crispy Baked Peanut Tofu](../../assets/images/crispy-baked-peanut-tofu.jpg){ loading=lazy }

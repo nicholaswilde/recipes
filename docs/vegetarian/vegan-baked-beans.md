@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - vegan
 ---
+
 # Vegan Baked Beans
 
 ![Vegan Baked Beans][1]{ loading=lazy }

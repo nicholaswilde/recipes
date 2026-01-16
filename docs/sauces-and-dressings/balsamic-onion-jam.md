@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - jam
   - canning
 ---
+
 # :onion: Balsamic Onion Jam
 
 ![Balsamic Onion Jam](../assets/images/balsamic-onion-jam.jpg){ loading=lazy }

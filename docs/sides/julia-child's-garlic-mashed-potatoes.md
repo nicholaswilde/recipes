@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Julia Child's Garlic Mashed Potatoes
 
 ![Julia Child's Garlic Mashed Potatoes](../assets/images/julia-child's-garlic-mashed-potatoes.jpg){ loading=lazy }

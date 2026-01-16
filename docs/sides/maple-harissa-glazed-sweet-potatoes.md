@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - trader-joes
 ---
+
 # :sweet_potato: Maple Harissa Glazed Sweet Potatoes
 
 ![Maple Harissa Glazed Sweet Potatoes][1]{ loading=lazy }

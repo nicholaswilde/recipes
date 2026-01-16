@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - bread
 ---
+
 # :bread: Basic Sweet Babka
 
 ![Basic Sweet Babka](../assets/images/basic-sweet-babka.jpg){ loading=lazy }

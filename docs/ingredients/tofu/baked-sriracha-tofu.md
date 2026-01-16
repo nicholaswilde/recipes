@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - tofu
   - ingredient
 ---
+
 # :butter: Baked Sriracha Tofu
 
 ![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.jpg){ loading=lazy }

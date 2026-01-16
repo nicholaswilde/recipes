@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cupcake
 ---
+
 # :cupcake: White Chocolate Strawberry Cupcakes
 
 ![White Chocolate Strawberry Cupcakes](../../assets/images/white-chocolate-strawberry-cupcakes.jpg){ loading=lazy }

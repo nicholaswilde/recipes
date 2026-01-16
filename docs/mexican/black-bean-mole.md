@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - the-gracias-madre-cookbook
 ---
+
 # :canned_food: Black Bean Mole
 
 ![Black Bean Mole][1]{ loading=lazy }

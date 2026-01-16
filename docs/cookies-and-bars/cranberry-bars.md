@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
 ---
+
 # :cherries: Cranberry Bars
 
 ![Cranberry Bars][1]{ loading=lazy }

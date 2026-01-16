@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - cheese
   - vegan
 ---
+
 # :cheese_wedge: Vegan Parmesan
 
 ![Vegan Parmesan](../assets/images/vegan-parmesan.jpg){ loading=lazy }

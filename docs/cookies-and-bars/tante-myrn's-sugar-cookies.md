@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - tante-myrna-seccia
 ---
+
 # :cookie: Tante Myrn's Sugar Cookies
 
 ![Tante Myrn's Sugar Cookies](../assets/images/tante-myrn's-sugar-cookies.jpg){ loading=lazy }

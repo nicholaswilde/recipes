@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - trader-joes
   - soup
 ---
+
 # :stew: Sam's Sweet Potato Soup
 
 ![Sam's Sweet Potato Soup](../assets/images/sam's-sweet-potato-soup.png){ loading=lazy }

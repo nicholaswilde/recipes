@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - vegetarian
 ---
+
 # :pie: Vegetarian Pot Pie
 
 ![Vegetarian Pot Pie][1]{ loading=lazy }

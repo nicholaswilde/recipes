@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :potato: Potato Latkes
 
 ![Potato Latkes][1]{ loading=lazy }

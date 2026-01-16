@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
 ---
+
 # :bread: The Easiest Loaf of Bread You'll Ever Bake
 
 ![The Easiest Loaf of Bread You'll Ever Bake][1]{ loading=lazy }

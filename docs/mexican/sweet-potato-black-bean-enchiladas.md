@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - minimalist-baker
 ---
+
 # :burrito: Sweet Potato Black Bean Enchiladas
 
 ![Sweet Potato Black Bean Enchiladas][1]{ loading=lazy }

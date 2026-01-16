@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredients
   - seasoning
 ---
+
 # :herb: Herbes de Provence
 
 ![Herbes de Provence](../../assets/images/herbes-de-provence.png){ loading=lazy }

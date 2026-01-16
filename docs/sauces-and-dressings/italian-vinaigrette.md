@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegan
   - nutrition-studies
   - dressing
 ---
+
 # :green_salad: Italian Vinaigrette
 
 ![Italian Vinaigrette][1]{ loading=lazy }

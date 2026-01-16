@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - bake-off
   - king-arthur
 ---
+
 # :carrot: King Arthurs Carrot Cake
 
 ![King Arthurs Carrot Cake][1]{ loading=lazy }
@@ -77,7 +79,8 @@ Bake the cakes for 35 to 40 minutes, or until a cake tester inserted into the ce
 moist crumbs clinging to it. Allow the cake(s) to cool completely before frosting. If you're using round layer pans,
 remove the layers from the pans after about 15 minutes, and place them on a rack to cool.
 
-## :pencil: Instructions - Frosting 
+## :pencil: Instructions - Frosting
+
 ### Step 8
 
 In a large bowl working with a hand mixer or in the bowl of a stand mixer, beat the room

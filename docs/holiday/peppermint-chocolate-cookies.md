@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - holiday
   - cookie
   - peppermint
   - magnolia
 ---
+
 # :cookie: Peppermint Chocolate Cookies
 
 ![Peppermint Chocolate Cookies](../assets/images/peppermint-chocolate-cookies.jpg){ loading=lazy }

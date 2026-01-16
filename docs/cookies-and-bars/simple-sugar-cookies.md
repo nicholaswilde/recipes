@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - king-arthur
 ---
+
 # :cookie: Simple Sugar Cookies
 
 ![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - italian
 ---
+
 # :spaghetti: Pasta e Ceci (Pasta with Chickpeas)
 
 ![Pasta e Ceci (Pasta with Chickpeas)](../assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg){ loading=lazy }

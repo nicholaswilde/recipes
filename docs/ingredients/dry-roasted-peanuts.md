@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :peanuts: Dry Roasted Peanuts
 
 ![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg){ loading=lazy }

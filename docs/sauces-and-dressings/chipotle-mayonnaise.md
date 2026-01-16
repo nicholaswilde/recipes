@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - kenji-lopez-alt
 ---
+
 # :hot_pepper: Chipotle Mayonnaise
 
 ![Chipotle Mayonnaise][1]{ loading=lazy }

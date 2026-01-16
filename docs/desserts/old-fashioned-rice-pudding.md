@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dessert
 ---
+
 # :rice: Old-Fashioned Rice Pudding
 
 ![Old-Fashioned Rice Pudding][1]{ loading=lazy }
@@ -65,7 +67,6 @@ Once thickened, remove from heat and stir in vanilla.
 
 Let cool and then refrigerate. The last 1/2 cup milk is stirred in just before serving. Sprinkle with cinnamon
 (optional) if desired.
-
 
 !!! tip "Variation"
 

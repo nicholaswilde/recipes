@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :bell_pepper: Roasted Red Peppers
 
 ![Roasted Red Peppers](../assets/images/roasted-red-peppers.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - stew
   - vegetarian
 ---
+
 # :stew: Hearty Vegetarian Stew
 
 ![Hearty Vegetarian Stew][1]{ loading=lazy }

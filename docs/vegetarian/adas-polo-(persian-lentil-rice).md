@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - persian
   - rice
 ---
+
 # :rice: Adas Polo (Persian Lentil Rice)
 
 ![Adas Polo (Persian Lentil Rice)](../assets/images/adas-polo-(persian-lentil-rice).jpg){ loading=lazy }

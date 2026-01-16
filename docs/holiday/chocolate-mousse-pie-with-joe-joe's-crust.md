@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - holiday
   - trader-joes
 ---
+
 # :pie: Chocolate Mousse Pie with Joe-Joe's Crust
 
 ![Chocolate Mousse Pie with Joe-Joe's Crust][1]{ loading=lazy }

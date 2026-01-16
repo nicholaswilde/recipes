@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
 ---
+
 # :ear_of_rice: Whole Wheat Bread
 
 ![Whole Wheat Bread][1]{ loading=lazy }

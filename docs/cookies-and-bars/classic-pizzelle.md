@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
 ---
+
 # :cookie: Classic Pizzelle
 
 ![Classic Pizzelle](../assets/images/classic-pizzelle.jpg){ loading=lazy }

@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :green_salad: Red Cabbage Salad
 
 ![Red Cabbage Salad](../assets/images/red-cabbage-salad.png){ loading=lazy }

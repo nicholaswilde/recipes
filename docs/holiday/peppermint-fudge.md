@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - holiday
   - fudge
   - magnolia
 ---
+
 # :chocolate_bar: Peppermint Fudge
 
 ![Peppermint Fudge](../assets/images/peppermint-fudge.jpg){ loading=lazy }

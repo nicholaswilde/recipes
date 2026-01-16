@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :banana: Banana Chips
 
 ![Banana Chips][1]{ loading=lazy }

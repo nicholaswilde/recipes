@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - lunch
   - minimalist-baker
 ---
+
 # :sweet_potato: Sweet Potato Chickpea Buddha Bowl
 
 ![Sweet Potato Chickpea Buddha Bowl][1]{ loading=lazy }

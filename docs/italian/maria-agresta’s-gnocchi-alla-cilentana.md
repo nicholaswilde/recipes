@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dumpling
   - italian
   - maria-agresta
 ---
+
 # :spaghetti: Maria Agresta’s Gnocchi alla Cilentana
 
 ![Maria Agresta’s Gnocchi alla Cilentana](../assets/images/maria-agresta’s-gnocchi-alla-cilentana.png){ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bar
   - dessert
 ---
+
 # Best Ever Peanut Butter Bars
 
 ![Best Ever Peanut Butter Bars][1]{ loading=lazy }

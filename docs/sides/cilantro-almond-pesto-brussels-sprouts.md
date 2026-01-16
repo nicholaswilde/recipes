@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - the-gracias-madre-cookbook
 ---
+
 # :leafy_green: Cilantro Almond Pesto Brussels Sprouts
 
 ![Cilantro Almond Pesto Brussels Sprouts][1]{ loading=lazy }

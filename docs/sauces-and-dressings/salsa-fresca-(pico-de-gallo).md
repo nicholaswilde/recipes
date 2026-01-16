@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dip
   - mexican
   - joy-of-cooking
 ---
+
 # :tomato: Salsa Fresca (Pico de Gallo)
 
 ![Salsa Fresca (Pico de Gallo)](../assets/images/salsa-fresca-(pico-de-gallo).jpg){ loading=lazy }

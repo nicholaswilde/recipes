@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - holiday
   - breakfast
 ---
+
 # :egg: Huevos in a Crockpot
 
 ![Huevos in a Crockpot](../assets/images/huevos-in-a-crockpot.jpg){ loading=lazy }

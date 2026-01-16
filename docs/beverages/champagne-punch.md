@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - beverage
   - recipe-box
 ---
+
 # :clinking_glasses: Champagne Punch
 
 ![Champagne Punch][1]{ loading=lazy }

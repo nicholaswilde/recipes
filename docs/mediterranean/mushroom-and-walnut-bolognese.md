@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - the-blue-zones-kitchen
 ---
+
 # Mushroom and Walnut Bolognese
 
 ![Mushroom and Walnut Bolognese][1]{ loading=lazy }

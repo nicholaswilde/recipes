@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - soup
   - stew
   - NYT Cooking
   - Alison Roman
 ---
+
 # Spiced Chickpea Stew With Coconut and Turmeric
 
 ![Spiced Chickpea Stew With Coconut and Turmeric][1]{ loading=lazy }

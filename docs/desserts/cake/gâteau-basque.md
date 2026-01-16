@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - french
 ---
+
 # :cake: Gâteau Basque
 
 ![Gâteau Basque](../../assets/images/gâteau-basque.jpg){ loading=lazy }

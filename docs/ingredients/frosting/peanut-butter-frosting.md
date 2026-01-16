@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - frosting
   - joy-of-cooking
 ---
+
 # :peanuts: Peanut Butter Frosting
 
 ![Peanut Butter Frosting](../../assets/images/peanut-butter-frosting.jpg){ loading=lazy }

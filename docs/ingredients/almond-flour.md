@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :chestnut: Almond Flour
 
 ![Almond Flour](../assets/images/almond-flour.jpg){ loading=lazy }

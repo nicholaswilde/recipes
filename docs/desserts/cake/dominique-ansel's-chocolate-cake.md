@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - dominique-ansel
 ---
+
 # :cake: Dominique Ansel's Chocolate Cake
 
 ![Dominique Ansel's Chocolate Cake](../../assets/images/dominique-ansel's-chocolate-cake.png){ loading=lazy }

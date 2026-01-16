@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :egg: Deviled Eggs
 
 ![Deviled Eggs](../assets/images/deviled-eggs.jpg){ loading=lazy }

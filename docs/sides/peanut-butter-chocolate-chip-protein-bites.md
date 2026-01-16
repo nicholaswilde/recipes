@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bites
   - side
   - applied-kitchen
 ---
+
 # :cookie: Peanut Butter Chocolate Chip Protein Bites
 
 ![Peanut Butter Chocolate Chip Protein Bites][2]{ loading=lazy }
@@ -20,7 +22,7 @@ tags:
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 0.5 cup rolled oats
 - :chocolate_bar: 0.5 cup mini chocolate chips
-- :seedling: 0.25 cup hemp seeds or chia seeds or flax seeds 
+- :seedling: 0.25 cup hemp seeds or chia seeds or flax seeds
 
 ## :cooking: Cookware
 

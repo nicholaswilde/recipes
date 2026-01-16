@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - sauce
 ---
+
 # :jack_o_lantern: Pumpkin Curry Sauce
 
 ![Pumpkin Curry Sauce][1]{ loading=lazy }

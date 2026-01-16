@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - lunch
   - trader-joes
 ---
+
 # :rice: Quick Couscous Chickpea Salad
 
 ![Couscous Feta Salad][1]{ loading=lazy }

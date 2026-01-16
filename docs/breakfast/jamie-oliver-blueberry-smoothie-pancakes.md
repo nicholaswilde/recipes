@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - pancake
   - jamie-oliver
 ---
+
 # :pancakes: Jamie Oliver Blueberry Smoothie Pancakes
 
 ![Jamie Oliver Blueberry Smoothie Pancakes][1]{ loading=lazy }

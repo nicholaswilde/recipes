@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - salad
 ---
+
 # :green_salad: Vegan Ricotta & Sun-Dried Tomato Pesto Salad
 
 ![Vegan Ricotta & Sun-Dried Tomato Pesto Salad][3]{ loading=lazy }

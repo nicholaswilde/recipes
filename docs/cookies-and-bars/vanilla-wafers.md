@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
 ---
+
 # :cookie: Vanilla Wafers
 
 ![Vanilla Wafers](../assets/images/vanilla-wafers.jpg){ loading=lazy }

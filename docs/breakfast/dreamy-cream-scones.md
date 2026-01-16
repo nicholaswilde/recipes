@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - scone
   - cooks-illustrated
 ---
+
 # :cookie: Dreamy Cream Scones
 
 ![Dreamy Cream Scones](../assets/images/dreamy-cream-scones.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
 ---
+
 # :peanuts: Peanut Butter Bars with Salted Chocolate Ganache
 
 ![Peanut Butter Bars with Salted Chocolate Ganache][1]{ loading=lazy }

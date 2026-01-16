@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - joy-of-cooking
 ---
+
 # :waffle: Belgian Waffles
 
 ![Belgian Waffles][1]{ loading=lazy }

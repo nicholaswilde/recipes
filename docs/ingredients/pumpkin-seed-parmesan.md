@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - the-gracias-madre-cookbook
 ---
+
 # :cheese_wedge: Pumpkin Seed Parmesan
 
 ![Pumpkin Seed Parmesan][1]{ loading=lazy }

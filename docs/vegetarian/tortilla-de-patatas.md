@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :flatbread: Tortilla de Patatas
 
 ![Tortilla de Patatas](../assets/images/tortilla-de-patatas.png){ loading=lazy }

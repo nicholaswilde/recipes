@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - french
   - joy-of-cooking
 ---
+
 # :egg: French Omelet
 
 ![French Omelet](../assets/images/french-omelet.jpg){ loading=lazy }

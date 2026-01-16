@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - kenji-lopez-alt
 ---
+
 # :hamburger: Black Bean Burgers
 
 ![Black Bean Burgers][1]{ loading=lazy }

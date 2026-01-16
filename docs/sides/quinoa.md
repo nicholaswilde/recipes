@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :rice: Quinoa
 
 ![Quinoa][1]{ loading=lazy }

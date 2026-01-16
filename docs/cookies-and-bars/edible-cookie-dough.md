@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
 ---
+
 # :cookie: Edible Cookie Dough
 
 ![Edible Cookie Dough](../assets/images/edible-cookie-dough.jpg){ loading=lazy }

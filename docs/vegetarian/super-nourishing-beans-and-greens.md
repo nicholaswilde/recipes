@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - minimalist-baker
 ---
+
 # :leafy_green: Super Nourishing Beans & Greens
 
 ![Super Nourishing Beans and Greens](../assets/images/super-nourishing-beans-and-greens.jpg){ loading=lazy }

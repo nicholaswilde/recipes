@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - the-blue-zones-kitchen
 ---
+
 # :curry: The Casado Plate
 
 ![The Casado Plate](../assets/images/the-casado-plate.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - butter
   - ingredient
 ---
+
 # :butter: 3-Ingredient Garlic Butter
 
 ![3-Ingredient Garlic Butter](../../assets/images/3-ingredient-garlic-butter.jpg){ loading=lazy }

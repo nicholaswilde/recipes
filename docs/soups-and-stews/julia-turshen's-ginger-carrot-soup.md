@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - soup
   - stew
   - vegan
@@ -10,6 +11,7 @@ tags:
   - coconut
   - gluten-free
 ---
+
 # :stew: Julia Turshen's Ginger Carrot Soup
 
 ![Julia Turshen's Ginger Carrot Soup][1]{ loading=lazy }

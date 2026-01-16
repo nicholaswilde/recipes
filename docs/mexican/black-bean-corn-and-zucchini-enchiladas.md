@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - recipe-box
 ---
+
 # :curry: Black Bean, Corn, & Zucchini Enchiladas
 
 ![Black Bean Corn and Zucchini Enchiladas][1]{ loading=lazy }

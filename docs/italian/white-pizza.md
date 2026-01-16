@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - italian
   - pizza
 ---
+
 # :pizza: White Pizza
 
 ![White Pizza](../assets/images/white-pizza.jpg){ loading=lazy }

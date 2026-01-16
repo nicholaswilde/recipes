@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - trader-joes
 ---
+
 # :potato: Loaded Potato Pancakes
 
 ![Loaded Potato Pancakes][1]{ loading=lazy }

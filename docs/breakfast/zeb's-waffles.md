@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :waffle: Zeb's Waffles
 
 ![Zeb's Waffles](../assets/images/zeb's-waffles.png){ loading=lazy }

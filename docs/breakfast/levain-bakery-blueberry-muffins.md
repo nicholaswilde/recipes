@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - muffin
   - breakfast
 ---
+
 # :cupcake: Levain Bakery Blueberry Muffins
 
 ![Levain Bakery Blueberry Muffins](../assets/images/levain-bakery-blueberry-muffins.jpg){ loading=lazy }

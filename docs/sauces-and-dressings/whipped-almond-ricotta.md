@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - vegan
 ---
+
 # :chestnut: Whipped Almond Ricotta
 
 ![Whipped Almond Ricotta](../assets/images/whipped-almond-ricotta.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :strawberry: Strawberry Whip
 
 ![Strawberry Whip][1]{ loading=lazy }

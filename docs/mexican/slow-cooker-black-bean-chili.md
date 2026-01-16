@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - mexican
   - slow-cooker
   - recipe-box
   - favorite
 ---
+
 # :stew: Slow Cooker Black Bean Chili
 
 ![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.jpg){ loading=lazy }

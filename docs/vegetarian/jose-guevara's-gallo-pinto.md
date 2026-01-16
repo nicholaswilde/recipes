@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - costa-rican
   - the-blue-zones-kitchen
 ---
+
 # :rice: Jose Guevara's Gallo Pinto
 
 ![Jose Guevara's Gallo Pinto](../assets/images/jose-guevara's-gallo-pinto.jpg){ loading=lazy }

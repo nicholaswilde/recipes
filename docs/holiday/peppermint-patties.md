@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - holiday
   - magnolia
   - peppermint
 ---
+
 # :herb: Peppermint Patties
 
 ![Peppermint Patties](../assets/images/peppermint-patties.jpg){ loading=lazy }

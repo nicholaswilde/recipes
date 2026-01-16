@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - heat-culinary
   - persian
 ---
+
 # :rice: Jeweled Rice
 
 ![Jeweled Rice][1]{ loading=lazy }

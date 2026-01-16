@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - asian
   - stir-fry
   - vegetarian
 ---
+
 # :rice: Simple Fried Rice
 
 ![Simple Fried Rice](../assets/images/simple-fried-rice.jpg){ loading=lazy }

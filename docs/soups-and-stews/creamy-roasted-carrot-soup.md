@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - soup
 ---
+
 # :carrot: Creamy Roasted Carrot Soup
 
 ![Creamy Roasted Carrot Soup](../assets/images/creamy-roasted-carrot-soup.jpg){ loading=lazy }

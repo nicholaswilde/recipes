@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - tart
   - dessert
 ---
+
 # :pie: Cranberry Curd Tart with Almond Crust
 
 ![Cranberry Curd Tart with Almond Crust][1]{ loading=lazy }

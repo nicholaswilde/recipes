@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - the-cake-mix-doctor
 ---
+
 # :cake: Bride's Cake with Raspberry Filling and White Chocolate Frosting
 
 ![Bride's Cake with Raspberry Filling and White Chocolate Frosting][1]{ loading=lazy }

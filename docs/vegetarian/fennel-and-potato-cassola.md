@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - casserole
   - vegan
 ---
+
 # :stew: Fennel & Potato Cassola
 
 ![Fennel and Potato Cassola](../assets/images/fennel-and-potato-cassola.jpg){ loading=lazy }

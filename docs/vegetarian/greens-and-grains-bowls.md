@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bowl
   - vegan
   - main
 ---
+
 # :green_salad: Greens & Grains Bowls
 
 ![Greens and Grains Bowls](../assets/images/greens-and-grains-bowls.jpg){ loading=lazy }

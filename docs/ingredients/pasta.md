@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - italian
   - ingredient
   - pasta
   - joy-of-cooking
 ---
+
 # :spaghetti: Pasta
 
 ![Pasta](../assets/images/pasta.png){ loading=lazy }

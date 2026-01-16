@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - vegan
 ---
+
 # :spaghetti: Vegan Giant Bean & Kale Penne
 
 ![Vegan Giant Bean & Kale Penne](../assets/images/vegan-giant-bean-&-kale-penne.png){ loading=lazy }

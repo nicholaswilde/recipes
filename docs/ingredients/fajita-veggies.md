@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - ingredient
 ---
+
 # :bell_pepper: Fajita Veggies
 
 ![Fajita Veggies](../assets/images/fajita-veggies.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - pressure-cooker
 ---
+
 # :falafel: Chickpeas
 
 ![Chickpeas](../assets/images/chickpeas.png){ loading=lazy }

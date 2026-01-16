@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :stew: Roasted Sweet Garlic & Almond Soup
 
 ![Roasted Sweet Garlic & Almond Soup](../assets/images/roasted-sweet-garlic-&-almond-soup.jpg){ loading=lazy }

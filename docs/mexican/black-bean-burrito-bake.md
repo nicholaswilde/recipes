@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - mexican
 ---
+
 # :burrito: Black Bean Burrito Bake
 
 ![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.jpg){ loading=lazy }

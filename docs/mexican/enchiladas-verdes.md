@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - the-gracias-madre-cookbook
 ---
+
 # :curry: Enchiladas Verdes
 
 ![Enchiladas Verdes][1]{ loading=lazy }

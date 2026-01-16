@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - chez-panisse
   - favorite
 ---
+
 # :chestnut: Chez Panisse Almond Torte
 
 ![Chez Panisse Almond Torte][1]{ loading=lazy }

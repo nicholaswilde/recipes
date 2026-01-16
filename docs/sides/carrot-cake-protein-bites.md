@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bites
   - applied-kitchen
 ---
+
 # :carrot: Carrot Cake Protein Bites
 
 ![Carrot Cake Protein Bites](../assets/images/carrot-cake-protein-bites.jpg){ loading=lazy }

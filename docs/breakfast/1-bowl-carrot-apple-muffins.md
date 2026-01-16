@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - muffins
 ---
+
 # :cupcake: 1-Bowl Carrot Apple Muffins
 
 ![1-Bowl Carrot Apple Muffins](../assets/images/1-bowl-carrot-apple-muffins.jpg){ loading=lazy }

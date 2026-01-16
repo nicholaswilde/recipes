@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cooks-illustrated
   - lunch
   - sandwich
 ---
+
 # :sandwich: Grilled Tomato Sandwich
 
 ![Grilled Tomato Sandwich](../assets/images/grilled-tomato-sandwich.jpg){ loading=lazy }

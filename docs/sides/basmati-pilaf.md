@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - gordon-ramsay
 ---
+
 # :rice: Basmati Pilaf
 
 ![Basmati Pilaf](../assets/images/basmati-pilaf.jpg){ loading=lazy }

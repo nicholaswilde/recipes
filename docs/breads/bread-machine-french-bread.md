@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - bread-machine
 ---
+
 # :bread: Bread Machine French Bread
 
 ![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg){ loading=lazy }

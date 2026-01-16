@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - beverage
   - joy-of-cooking
   - holiday
 ---
+
 # :egg: Cooked Eggnog
 
 ![Cooked Eggnog](../assets/images/cooked-eggnog.jpg){ loading=lazy }

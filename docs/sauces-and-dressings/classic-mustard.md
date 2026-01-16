@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - condiment
 ---
+
 # :hotdog: Classic Mustard
 
 ![Classic Mustard](../assets/images/classic-mustard.jpg){ loading=lazy }

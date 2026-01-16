@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - italian
   - joy-of-cooking
 ---
+
 # :egg: Frittata
 
 ![Frittata](../assets/images/frittata.jpg){ loading=lazy }

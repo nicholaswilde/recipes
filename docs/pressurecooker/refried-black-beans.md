@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - pressure-cooker
 ---
+
 # :potato: Refried Black Beans
 
 ![Refried Black Beans](../assets/images/refried-black-beans.jpg){ loading=lazy }

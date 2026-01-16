@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - mexican
 ---
+
 # :pancakes: Sweet & Spicy Corncakes
 
 ![Sweet and Spicy Corncakes](../assets/images/sweet-and-spicy-corncakes.jpg){ loading=lazy }

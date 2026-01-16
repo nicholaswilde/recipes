@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - king-arthur
 ---
+
 # :bagel: Bagels
 
 ![Bagels][1]{ loading=lazy }

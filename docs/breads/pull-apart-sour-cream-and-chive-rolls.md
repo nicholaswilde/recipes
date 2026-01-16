@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bread
   - claire-saffitz
   - favorite
 ---
+
 # :bread: Pull-Apart Sour Cream and Chive Rolls
 
 ![Pull-Apart Sour Cream and Chive Rolls][1]{ loading=lazy }
@@ -88,21 +90,27 @@ tags:
 - title: Mix
   icon: ":fontawesome-brands-mixer:"
   sub_title: 9:00 a.m.
+
 - title: Bulk Fermentation
   icon: ":microbe:"
   sub_title: 9:15 a.m.
+
 - title: "Divide"
   icon: ":fontawesome-solid-divide:"
   sub_title: 10:45 a.m.
+
 - title: "Shape"
   icon: ":material-shape:"
   sub_title: 11:00 a.m.
+
 - title: Proof
   icon: ":material-rice:"
   sub_title: 11:15 a.m.
+
 - title: Bake
   sub_title: 12:15 p.m.
   icon: ":material-toaster-oven:"
+
 - title: Rest
   sub_title: 12:45 p.m.
   icon: ":material-bed:"

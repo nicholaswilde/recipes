@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - italian
   - pasta
   - recipe-box
 ---
+
 # :spaghetti: Spaghetti Alla Puttanesca
 
 ![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.jpg){ loading=lazy }

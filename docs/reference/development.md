@@ -1,6 +1,8 @@
 ---
 comments: true
+
 ---
+
 # :gear: Development
 
 ## :smiley: Emoji
@@ -9,6 +11,7 @@ Emoji are manually added to the front of ingredients and cookware to give the pa
 that eventually this can be added to `cook-docs` as an automated task. For now, `emoji.yaml` can be used as reference.
 
 ```yaml title="emoji.yaml"
+
 --8<-- "includes/emoji.yaml"
 ```
 
@@ -169,7 +172,9 @@ brew install go-task/tap/go-task
 ```
 
 ```shell title="Usage"
+
 # List tasks
+
 task
 ```
 

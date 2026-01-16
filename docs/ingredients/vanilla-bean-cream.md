@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :icecream: Vanilla Bean Cream
 
 ![Vanilla Bean Cream](../assets/images/vanilla-bean-cream.jpg){ loading=lazy }

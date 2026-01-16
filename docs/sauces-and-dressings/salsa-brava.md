@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - the-gracias-madre-cookbook
 ---
+
 # :tomato: Salsa Brava
 
 ![Salsa Brava][1]{ loading=lazy }

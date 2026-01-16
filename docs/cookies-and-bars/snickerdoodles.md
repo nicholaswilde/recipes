@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
 ---
+
 # :cookie: Snickerdoodles
 
 ![Snickerdoodles](../assets/images/snickerdoodles.jpg){ loading=lazy }

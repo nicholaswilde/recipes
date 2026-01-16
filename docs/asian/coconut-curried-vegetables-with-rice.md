@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - asian
   - vegetarian
 ---
+
 # :coconut: Coconut Curried Vegetables with Rice
 
 ![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.jpg){ loading=lazy }

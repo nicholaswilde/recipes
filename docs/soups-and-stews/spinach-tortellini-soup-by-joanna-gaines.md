@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - magnolia
   - soup
   - recipe-box
 ---
+
 # :stew: Spinach Tortellini Soup by Joanna Gaines
 
 ![Spinach Tortellini Soup by Joanna Gaines][3]{ loading=lazy }

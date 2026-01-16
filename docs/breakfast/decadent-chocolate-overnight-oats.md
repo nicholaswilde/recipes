@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :chocolate_bar: Decadent Chocolate Overnight Oats
 
 ![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg){ loading=lazy }

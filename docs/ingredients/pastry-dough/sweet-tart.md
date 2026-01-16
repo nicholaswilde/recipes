@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - pastry-dough
   - claire-saffitz
 ---
+
 # :pie: Sweet Tart
 
 ![Sweet Tart][1]{ loading=lazy }

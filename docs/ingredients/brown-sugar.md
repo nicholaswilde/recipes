@@ -1,8 +1,11 @@
 ---
 tags:
+
   - ingredients
 comments: true
+
 ---
+
 # :maple_leaf: Brown Sugar
 
 ![Brown Sugar](../assets/images/brown-sugar.jpg){ loading=lazy }

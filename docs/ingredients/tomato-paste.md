@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - american
   - paste
 ---
+
 # :tomato: Tomato Paste
 
 ![Tomato Paste](../assets/images/tomato-paste.png){ loading=lazy }

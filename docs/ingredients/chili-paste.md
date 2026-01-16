@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :hot_pepper: Chili Paste
 
 ![Chili Paste](../assets/images/chili-paste.jpg){ loading=lazy }

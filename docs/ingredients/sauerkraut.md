@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - cooks-illustrated
 ---
+
 # :leafy_green: Sauerkraut
 
 ![Sauerkraut](../assets/images/sauerkraut.jpg){ loading=lazy }

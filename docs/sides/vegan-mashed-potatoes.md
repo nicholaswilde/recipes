@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - minimalist-baker
 ---
+
 # :potato: Vegan Mashed Potatoes
 
 ![Vegan Mashed Potatoes][1]{ loading=lazy }

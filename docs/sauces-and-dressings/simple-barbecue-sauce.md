@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - sauce
 ---
+
 # :hotsprings: Simple Barbecue Sauce
 
 ![Simple Barbecue Sauce](../assets/images/simple-barbecue-sauce.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - julia-child
   - soup
 ---
+
 # :leafy_green: Vichyssoise (Leek & Potato Soup)
 
 ![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg){ loading=lazy }

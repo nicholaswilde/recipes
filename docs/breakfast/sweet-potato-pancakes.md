@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - pancake
 ---
+
 # :pancakes: Sweet Potato Pancakes
 
 ![Sweet Potato Pancakes](../assets/images/sweet-potato-pancakes.png){ loading=lazy }

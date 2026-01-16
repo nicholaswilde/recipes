@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - applied-kitchen
 ---
+
 # :chestnut: Dried Fruit & Nut Mix
 
 ![Dried Fruit and Nut Mix](../assets/images/dried-fruit-and-nut-mix.png){ loading=lazy }

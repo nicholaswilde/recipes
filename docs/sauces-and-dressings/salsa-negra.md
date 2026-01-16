@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - the-gracias-madre-cookbook
 ---
+
 # :hot_pepper: Salsa Negra
 
 ![Salsa Negra][1]{ loading=lazy }

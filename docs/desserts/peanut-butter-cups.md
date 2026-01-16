@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cooks-illustrated
   - copycat
 ---
+
 # :peanuts: Peanut Butter Cups
 
 ![Peanut Butter Cups](../assets/images/peanut-butter-cups.jpg){ loading=lazy }

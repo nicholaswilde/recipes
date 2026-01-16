@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - flour
 ---
+
 # :falafel: Chickpea Flour
 
 ![Chickpea Flour][1]{ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - trader-joes
   - main
 ---
+
 # :hamburger: Crispy Chicken-less Sliders
 
 ![Crispy Chicken-less Sliders](../assets/images/crispy-chicken-less-sliders.png){ loading=lazy }

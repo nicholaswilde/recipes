@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
+
 # :green_salad: Recipes :open_book:
 
 [![ci](https://img.shields.io/github/actions/workflow/status/nicholaswilde/recipes/ci.yaml?label=ci&style=for-the-badge&branch=main)](https://github.com/nicholaswilde/recipes/actions/workflows/ci.yaml)
@@ -29,7 +30,9 @@ alias gpo='git push origin main'
 ---
 
 <!-- spellchecker-disable -->
+
 ## :balance_scale: &nbsp; License
+
 <!-- spellchecker-enable -->
 
 ​[​Apache 2.0 License​](../LICENSE)

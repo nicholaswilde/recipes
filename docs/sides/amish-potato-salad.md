@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Amish Potato Salad
 
 ![Amish Potato Salad](../assets/images/amish-potato-salad.png){ loading=lazy }

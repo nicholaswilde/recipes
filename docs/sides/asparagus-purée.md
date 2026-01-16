@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - puree
   - side
   - gordon-ramsay
 ---
+
 # :herb: Asparagus Purée
 
 ![Asparagus Purée](../assets/images/asparagus-purée.png){ loading=lazy }

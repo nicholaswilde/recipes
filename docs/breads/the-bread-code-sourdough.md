@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bread
   - the-bread-code
   - sourdough
 ---
+
 # :bread: The Bread Code Sourdough
 
 ![The Bread Code Sourdough][1]{ loading=lazy }

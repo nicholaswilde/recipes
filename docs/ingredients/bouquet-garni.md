@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - joy-of-cooking
 ---
+
 # :herb: Bouquet Garni
 
 ![Bouquet Garni](../assets/images/bouquet-garni.png){ loading=lazy }

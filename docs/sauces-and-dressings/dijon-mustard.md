@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - condiment
 ---
+
 # :hotdog: Dijon Mustard
 
 ![Dijon Mustard](../assets/images/dijon-mustard.jpg){ loading=lazy }

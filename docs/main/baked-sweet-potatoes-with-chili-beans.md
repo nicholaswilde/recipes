@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - main
   - sprouted-kitchen
 ---
+
 # :sweet_potato: Baked Sweet Potatoes With Chili Beans
 
 ![Baked Sweet Potatoes With Chili Beans](../assets/images/baked-sweet-potatoes-with-chili-beans.jpg){ loading=lazy }

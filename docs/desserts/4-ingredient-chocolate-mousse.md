@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mousse
   - dessert
 ---
+
 # :chocolate_bar: 4 Ingredient Chocolate Mousse
 
 ![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - mexican
 ---
+
 # :ear: Orejas (Mexican Pan Dulce)
 
 ![Orejas (Mexican Pan Dulce)](../assets/images/orejas-(mexican-pan-dulce).jpg){ loading=lazy }

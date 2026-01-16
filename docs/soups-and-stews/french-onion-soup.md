@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - soup
   - french
   - cooks-illustrated
 ---
+
 # :onion: French Onion Soup
 
 ![French Onion Soup](../assets/images/french-onion-soup.jpg){ loading=lazy }

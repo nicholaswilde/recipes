@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - vegan
 ---
+
 # :bacon: Vegan Bacon
 
 ![Vegan Bacon](../assets/images/vegan-bacon.jpg){ loading=lazy }

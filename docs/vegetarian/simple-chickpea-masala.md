@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - main
   - indian
 ---
+
 # Simple Chickpea Masala
 
 ![Simple Chickpea Masala][1]{ loading=lazy }

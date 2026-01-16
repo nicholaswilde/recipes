@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - seasoning
 ---
+
 # :herb: Italian Seasoning
 
 ![Italian Seasoning](../../assets/images/italian-seasoning.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
     - vegetarian
 ---
+
 # :bread: Meat-Free Meat Loaf
 
 ![Meat-Free Meat Loaf](../assets/images/meat-free-meat-loaf.jpg){ loading=lazy }

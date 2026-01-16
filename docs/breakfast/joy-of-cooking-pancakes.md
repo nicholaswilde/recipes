@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - pancake
   - joy-of-cooking
 ---
+
 # :pancakes: Joy of Cooking Pancakes
 
 ![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.jpg){ loading=lazy }

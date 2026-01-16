@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # Shakshuka
 
 ![Shakshuka][1]{ loading=lazy }

@@ -1,5 +1,7 @@
 # :green_salad: Macaroni Salad
+
 tags:
+
   - sides
 
 ![Macaroni Salad](../assets/images/macaroni-salad.jpg){ loading=lazy }

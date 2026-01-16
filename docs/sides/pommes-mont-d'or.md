@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Pommes Mont D'or
 
 ![Pommes Mont D'or](../assets/images/pommes-mont-d'or.jpg){ loading=lazy }

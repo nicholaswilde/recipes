@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - cooks-illustrated
 ---
+
 # :egg: Mayonnaise
 
 ![Mayonnaise](../assets/images/mayonnaise.jpg){ loading=lazy }

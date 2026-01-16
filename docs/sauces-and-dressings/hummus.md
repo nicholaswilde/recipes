@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - condiment
   - sauce
   - dip
 ---
+
 # :falafel: Hummus
 
 ![Hummus](../assets/images/hummus.jpg){ loading=lazy }

@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - vegan
   - gluten-free
   - dairy-free
@@ -9,6 +10,7 @@ tags:
   - favorite
   - julia-turshen
 ---
+
 # Pizzeria Vinaigrette
 
 ![Pizzeria Vinaigrette][1]{ loading=lazy }

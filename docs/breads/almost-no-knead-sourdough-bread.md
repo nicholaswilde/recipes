@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bread
   - cooks-illustrated
   - sourdough
 ---
+
 # :bread: Almost No-Knead Sourdough Bread
 
 ![Almost No-Knead Sourdough Bread][1]{ loading=lazy }
@@ -68,8 +70,6 @@ Flour top of loaf and score 7" long x 1/2" deep.
 ### Step 9
 
 Cover Dutch oven and place on middle rack. Heat oven to 425°F and bake for 30 minutes.
-
-
 
 !!! note
 

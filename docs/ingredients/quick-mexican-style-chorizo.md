@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - mexican
   - cooks-illustrated
 ---
+
 # :hot_pepper: Quick Mexican-Style Chorizo
 
 ![Quick Mexican-Style Chorizo][1]{ loading=lazy }

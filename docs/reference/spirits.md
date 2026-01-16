@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - reference
 ---
+
 # :champagne: [Spirits][1]
 
 | Spirit | Description |

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :pineapple: Pineapple Paradise
 
 ![Pineapple Paradise](../assets/images/pineapple-paradise.png){ loading=lazy }

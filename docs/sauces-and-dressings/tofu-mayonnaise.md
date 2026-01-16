@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - vegan
 ---
+
 # :egg: Tofu Mayonnaise
 
 ![Tofu Mayonnaise][1]{ loading=lazy }

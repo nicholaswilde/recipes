@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dressing
   - mexican
   - nutrition-studies
 ---
+
 # :avocado: Mexicrema Dressing
 
 ![Mexicrema Dressing](../assets/images/mexicrema-dressing.jpg){ loading=lazy }

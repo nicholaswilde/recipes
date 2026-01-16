@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - applied-kitchen
   - vegetarian
   - salad
 ---
+
 # :green_salad: Fiesta Salad
 
 ![Fiesta Salad](../assets/images/fiesta-salad.jpg){ loading=lazy }

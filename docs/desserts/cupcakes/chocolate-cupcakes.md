@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cupcake
 ---
+
 # :cupcake: Chocolate Cupcakes
 
 ![Chocolate Cupcakes](../../assets/images/chocolate-cupcakes.jpg){ loading=lazy }

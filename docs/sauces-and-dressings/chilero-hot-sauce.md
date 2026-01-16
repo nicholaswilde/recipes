@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - the-blue-zones-kitchen
 ---
+
 # :hot_pepper: Chilero Hot Sauce
 
 ![Chilero Hot Sauce](../assets/images/chilero-hot-sauce.jpg){ loading=lazy }

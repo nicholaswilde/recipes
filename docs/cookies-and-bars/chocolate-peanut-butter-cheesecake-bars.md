@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
 ---
+
 # :chocolate_bar: Chocolate Peanut Butter Cheesecake Bars
 
 ![Chocolate Peanut Butter Cheesecake Bars][2]{ loading=lazy }

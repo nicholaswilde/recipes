@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - condiment
   - sauce
   - spread
 ---
+
 # :seedling: Tahini
 
 ![Tahini](../assets/images/tahini.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - recipe-box
   - the-blue-zones-kitchen
 ---
+
 # :stew: Ikarian Longevity Stew
 
 ![Ikarian Longevity Stew][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - asian
   - vegan
   - minimalist-baker
 ---
+
 # :ramen: Easy Vegan Ramen
 
 ![Easy Vegan Ramen](../assets/images/easy-vegan-ramen.jpg){ loading=lazy }

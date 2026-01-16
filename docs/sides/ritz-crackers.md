@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cracker
   - snack
 ---
+
 # :cookie: Ritz Crackers
 
 ![Ritz Crackers](../assets/images/ritz-crackers.jpg){ loading=lazy }

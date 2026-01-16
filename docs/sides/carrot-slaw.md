@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :carrot: Carrot Slaw
 
 ![Carrot Slaw](../assets/images/carrot-slaw.png){ loading=lazy }

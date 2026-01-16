@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - favorite
 ---
+
 # :cookie: White Chocolate Cranberry Cookies
 
 ![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.jpg){ loading=lazy }

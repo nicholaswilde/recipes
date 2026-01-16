@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - side
   - nutrition-studies
   - salad
 ---
+
 # :blue_circle: Blueberry Chickpea Salad
 
 ![Blueberry Chickpea Salad][1]{ loading=lazy }

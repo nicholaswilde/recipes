@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # Mexican Coleslaw
 
 ![Mexican Coleslaw](../assets/images/mexican-coleslaw.png){ loading=lazy }

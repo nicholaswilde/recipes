@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :tomato: Fried Green Tomatoes
 
 ![Fried Green Tomatoes](../assets/images/fried-green-tomatoes.jpg){ loading=lazy }

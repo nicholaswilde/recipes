@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - taco
   - mexican
   - recipe-box
 ---
+
 # :taco: Tofu Tacos
 
 ![Tofu Tacos](../assets/images/tofu-tacos.jpg){ loading=lazy }

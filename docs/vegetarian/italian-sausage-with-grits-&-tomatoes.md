@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :stew: Italian Sausage with Grits & Tomatoes
 
 ![Italian Sausage with Grits & Tomatoes](../assets/images/italian-sausage-with-grits-&-tomatoes.jpg){ loading=lazy }

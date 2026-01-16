@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - vegan
 ---
+
 # :leafy_green: Vegan Veggie Ground Meat
 
 ![Vegan Veggie Ground Meat][1]{ loading=lazy }

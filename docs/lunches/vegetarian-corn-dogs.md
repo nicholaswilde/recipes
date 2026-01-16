@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - lunch
   - vegetarian
 ---
+
 # :hotdog: Vegetarian Corn Dogs
 
 ![Vegetarian Corn Dogs][1]{ loading=lazy }

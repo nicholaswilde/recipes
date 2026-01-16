@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - italian
   - recipe-box
 ---
+
 # :firecracker: Firecracker Chickpea Meatballs
 
 ![Firecracker Chickpea Meatballs][1]{ loading=lazy }

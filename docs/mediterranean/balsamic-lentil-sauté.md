@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - trader-joes
   - recipe-box
 ---
+
 # :ear_of_rice: Balsamic Lentil Sauté
 
 ![Balsamic Lentil Sauté](../assets/images/balsamic-lentil-sauté.png){ loading=lazy }

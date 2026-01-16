@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - holiday
 ---
+
 # :candy: Holiday Peppermint Bark
 
 ![Holiday Peppermint Bark](../assets/images/holiday-peppermint-bark.jpg){ loading=lazy }

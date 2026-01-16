@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
   - sourdough
 ---
+
 # :baguette_bread: Overnight Sourdough Baguettes
 
 ![Overnight Sourdough Baguettes][1]{ loading=lazy }

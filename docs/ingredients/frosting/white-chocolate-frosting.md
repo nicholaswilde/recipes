@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - frosting
   - ingredient
   - the-cake-mix-doctor
 ---
+
 # :cake: White Chocolate Frosting
 
 ![White Chocolate Frosting](../../assets/images/white-chocolate-frosting.jpg){ loading=lazy }

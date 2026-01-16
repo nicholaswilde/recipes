@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - slow-cooker
 ---
+
 # :stew: Slow Cooker Vegetarian Black-Eyed Peas
 
 ![Slow Cooker Vegetarian Black-Eyed Peas](../assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg){ loading=lazy }

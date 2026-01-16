@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - beverage
   - jean-pierre
 ---
+
 # :coffee: Hot Chocolate
 
 ![Hot Chocolate](../assets/images/hot-chocolate.jpg){ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bites
   - applied-kitchen
   - side
 ---
+
 # :strawberry: Strawberry Protein Bites
 
 ![Strawberry Protein Bites](../assets/images/strawberry-protein-bites.jpg){ loading=lazy }

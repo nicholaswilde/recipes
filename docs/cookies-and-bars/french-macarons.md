@@ -1,12 +1,14 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bar
   - dessert
   - cupcake-jemma
   - macaron
 ---
+
 # :cookie: French Macarons
 
 ![French Macarons](../assets/images/french-macarons.jpg){ loading=lazy }

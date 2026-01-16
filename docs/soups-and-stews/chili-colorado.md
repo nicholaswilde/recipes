@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :stew: Chili Colorado
 
 ![Chili Colorado](../assets/images/chili-colorado.jpg){ loading=lazy }

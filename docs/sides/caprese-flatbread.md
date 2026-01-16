@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - magnolia
 ---
+
 # :flatbread: Caprese Flatbread
 
 ![Caprese Flatbread](../assets/images/caprese-flatbread.jpg){ loading=lazy }

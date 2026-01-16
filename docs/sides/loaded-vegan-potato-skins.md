@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - side
   - vegan
   - nutrition-studies
 ---
+
 # :potato: Loaded Vegan Potato Skins
 
 ![Loaded Vegan Potato Skins][1]{ loading=lazy }

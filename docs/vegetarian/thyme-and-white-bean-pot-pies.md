@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - vegetarian
 ---
+
 # :herb: Thyme & White Bean Pot Pies
 
 ![Thyme and White Bean Pot Pies](../assets/images/thyme-and-white-bean-pot-pies.jpg){ loading=lazy }

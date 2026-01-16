@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - king-arthur
 ---
+
 # :waffle: Classic Buttermilk Waffles
 
 ![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.jpg){ loading=lazy }

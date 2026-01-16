@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - applied-kitchen
   - dessert
 ---
+
 # Applied Pumpkin Chocolate Chip Cookies
 
 ![Applied Pumpkin Chocolate Chip Cookies][1]{ loading=lazy }

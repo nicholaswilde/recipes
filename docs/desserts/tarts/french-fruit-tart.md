@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - french
   - dessert
   - tart
   - recipe-box
 ---
+
 # :strawberry: French Fruit Tart
 
 ![French Fruit Tart](../../assets/images/french-fruit-tart.jpg){ loading=lazy }

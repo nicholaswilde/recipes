@@ -1,8 +1,11 @@
 ---
 tags:
+
   - desserts
 comments: true
+
 ---
+
 # :peanuts: Peanut Brittle
 
 ![Peanut Brittle](../assets/images/peanut-brittle.jpg){ loading=lazy }

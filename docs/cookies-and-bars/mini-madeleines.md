@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - french
   - dominique-ansel
 ---
+
 # :shell: Mini Madeleines
 
 ![Mini Madeleines](../assets/images/mini-madeleines.jpg){ loading=lazy }

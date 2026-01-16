@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - seasoning
   - ingredient
 ---
+
 # :candy: Cinnamon Sugar
 
 ![Cinnamon Sugar](../../assets/images/cinnamon-sugar.jpg){ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
   - sourdough
 ---
+
 # :bread: Vermont Sourdough
 
 ![Vermont Sourdough][1]{ loading=lazy }
@@ -67,30 +69,39 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 - title: Levain
   icon: ":material-bowl:"
   sub_title: 9:00 p.m.
+
 - title: Autolyse
   icon: ":salt:"
   sub_title: 9:00 a.m.
+
 - title: Mix
   icon: ":fontawesome-brands-mixer:"
   sub_title: 9:30 a.m.
+
 - title: Bulk Fermentation
   icon: ":microbe:"
   sub_title: 10:30 a.m.
+
 - title: Fold
   icon: ":fontawesome-solid-hand-holding-hand:"
   sub_title: 11:15 a.m.
+
 - title: "Divide"
   icon: ":fontawesome-solid-divide:"
   sub_title: 12:00 p.m.
+
 - title: "Shape"
   icon: ":fontawesome-solid-shapes:"
   sub_title: 12:20 p.m.
+
 - title: Proof
   icon: ":material-rice:"
   sub_title: 12:45 p.m.
+
 - title: Bake
   sub_title: 2:45 p.m.
   icon: ":material-toaster-oven:"
+
 - title: Rest
   sub_title: 3:30 p.m.
   icon: ":material-bed:"

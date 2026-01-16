@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mexican
   - taco
   - applied-kitchen
 ---
+
 # :taco: Vegetarian Tacos
 
 ![Vegetarian Tacos](../assets/images/vegetarian-tacos.png){ loading=lazy }

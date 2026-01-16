@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bar
   - holiday
   - dessert
 ---
+
 # :chocolate_bar: Chippy Chewy Bars
 
 ![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.jpg){ loading=lazy }

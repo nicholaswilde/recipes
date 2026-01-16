@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - soup
 ---
+
 # :potato: Baked Potato Soup
 
 ![Baked Potato Soup](../assets/images/baked-potato-soup.jpg){ loading=lazy }

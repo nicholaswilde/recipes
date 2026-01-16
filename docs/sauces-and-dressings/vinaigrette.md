@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dressing
   - joy-of-cooking
 ---
+
 # :green_salad: Vinaigrette
 
 ![Vinaigrette](../assets/images/vinaigrette.jpg){ loading=lazy }

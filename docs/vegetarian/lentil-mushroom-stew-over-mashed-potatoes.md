@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - main
 ---
+
 # :mushroom: Lentil Mushroom Stew over Mashed Potatoes
 
 ![Lentil Mushroom Stew over Mashed Potatoes][3]{ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :icecream: Ice Cream Cones
 
 ![Ice Cream Cones](../assets/images/ice-cream-cones.jpg){ loading=lazy }

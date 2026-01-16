@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - holiday
   - magnolia
   - dessert
 ---
+
 # :peanuts: Salted Caramel Peanut Brittle
 
 ![Salted Caramel Peanut Brittle][1]{ loading=lazy }

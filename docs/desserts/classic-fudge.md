@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
   - fudge
 ---
+
 # :chocolate_bar: Classic Fudge
 
 ![Classic Fudge](../assets/images/classic-fudge.png){ loading=lazy }

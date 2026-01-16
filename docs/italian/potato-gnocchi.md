@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - italian
   - joy-of-cooking
 ---
+
 # :potato: Potato Gnocchi
 
 ![Potato Gnocchi](../assets/images/potato-gnocchi.jpg){ loading=lazy }

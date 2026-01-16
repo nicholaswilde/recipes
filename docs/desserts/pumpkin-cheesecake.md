@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cheesecake
   - joy-of-cooking
   - favorite
 ---
+
 # :pie: Pumpkin Cheesecake
 
 ![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.jpg){ loading=lazy }

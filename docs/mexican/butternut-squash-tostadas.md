@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - tostada
 ---
+
 # :stuffed_flatbread: Butternut Squash Tostadas
 
 ![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.jpg){ loading=lazy }

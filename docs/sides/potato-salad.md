@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :potato: Potato Salad
 
 ![Potato Salad](../assets/images/potato-salad.png){ loading=lazy }

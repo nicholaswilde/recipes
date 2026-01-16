@@ -1,12 +1,14 @@
 ---
 comments: true
 tags:
+
   - holiday
   - cookie
   - dessert
   - favorite
   - recipe-box
 ---
+
 # :cookie: Persimmon Cookies
 
 ![Persimmon Cookies][1]{ loading=lazy }

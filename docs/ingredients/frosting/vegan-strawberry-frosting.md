@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - frosting
   - vegan
 ---
+
 # :cake: Vegan Strawberry Frosting
 
 ![Vegan Strawberry Frosting](../../assets/images/vegan-strawberry-frosting.jpg){ loading=lazy }

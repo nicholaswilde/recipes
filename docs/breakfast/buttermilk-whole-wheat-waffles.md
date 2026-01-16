@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :waffle: Buttermilk Whole Wheat Waffles
 
 ![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.jpg){ loading=lazy }

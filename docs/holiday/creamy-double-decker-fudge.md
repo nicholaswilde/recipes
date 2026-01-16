@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - holiday
   - bar
   - dessert
   - fudge
 ---
+
 # :chocolate_bar: Creamy Double Decker Fudge
 
 ![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.jpg){ loading=lazy }

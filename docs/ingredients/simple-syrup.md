@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - syrup
   - dominique-ansel
 ---
+
 # :maple_leaf: Simple Syrup
 
 ![Rum Syrup](../assets/images/simple-syrup.jpg){ loading=lazy }

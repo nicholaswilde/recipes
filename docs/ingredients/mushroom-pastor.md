@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - the-gracias-madre-cookbook
 ---
+
 # :mushroom: Mushroom Pastor
 
 ![Mushroom Pastor][1]{ loading=lazy }

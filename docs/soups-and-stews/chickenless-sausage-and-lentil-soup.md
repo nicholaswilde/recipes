@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :stew: Chickenless Sausage and Lentil Soup
 
 ![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.jpg){ loading=lazy }

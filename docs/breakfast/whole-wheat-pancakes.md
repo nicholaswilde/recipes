@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - pancake
 ---
+
 # :pancakes: Whole Wheat Pancakes
 
 ![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.jpg){ loading=lazy }

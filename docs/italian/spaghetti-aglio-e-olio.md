@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - italian
   - jean-pierre
   - pasta
 ---
+
 # :spaghetti: Spaghetti Aglio E Olio
 
 ![Spaghetti Aglio E Olio](../assets/images/spaghetti-aglio-e-olio.jpg){ loading=lazy }

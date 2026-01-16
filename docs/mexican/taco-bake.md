@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mexican
   - taco
   - bake
 ---
+
 # :taco: Taco Bake
 
 ![Taco Bake](../assets/images/taco-bake.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dessert
 ---
+
 # :bowl_with_spoon: Rice Krispies
 
 ![Rice Krispies](../assets/images/rice-krispies.jpg){ loading=lazy }

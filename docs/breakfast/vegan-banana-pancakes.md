@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - vegan
   - pancake
 ---
+
 # :pancakes: Vegan Banana Pancakes
 
 ![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.jpg){ loading=lazy }
@@ -15,7 +17,7 @@ tags:
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves | 
+| :fork_and_knife_with_plate: Serves |
 |:--:|
 | 6 |
 
@@ -29,7 +31,7 @@ tags:
 - :salt: 0.5 tsp salt
 - :custard: 0.5 tsp cinnamon (optional)
 
-| :fork_and_knife_with_plate: Serves | 
+| :fork_and_knife_with_plate: Serves |
 |:--:|
 | 12 |
 

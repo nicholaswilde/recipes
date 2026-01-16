@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dessert
 ---
+
 # :bowl_with_spoon: Ultimate Brown Butter Rice Krispies Treats
 
 ![Ultimate Brown Butter Rice Krispies Treats][1]{ loading=lazy }

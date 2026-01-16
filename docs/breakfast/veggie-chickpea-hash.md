@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :falafel: Veggie Chickpea Hash
 
 ![Veggie Chickpea Hash][1]{ loading=lazy }

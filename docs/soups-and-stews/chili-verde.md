@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :stew: Chili Verde
 
 ![Chili Verde](../assets/images/chili-verde.jpg){ loading=lazy }

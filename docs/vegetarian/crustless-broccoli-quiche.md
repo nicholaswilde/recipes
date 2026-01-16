@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - vegetarian
 ---
+
 # :broccoli: Crustless Broccoli Quiche
 
 ![Crustless Broccoli Quiche](../assets/images/crustless-broccoli-quiche.jpg){ loading=lazy }

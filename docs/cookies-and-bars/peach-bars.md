@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
   - claire-saffitz
 ---
+
 # :peach: Peach Bars
 
 ![Peach Bars][2]{ loading=lazy }
@@ -88,7 +90,7 @@ and vanilla extract to the peaches in a large bowl and let it sit.
 ### Step 7
 
 Add the all-purpose flour, old-fashioned rolled oats, demerara sugar, ground cinnamon, Diamond Crystal kosher salt, and
-unsalted butter to a bowl and mix together with your hands until there are no discrete pieces of butter left and 
+unsalted butter to a bowl and mix together with your hands until there are no discrete pieces of butter left and
 there aren't any flowery bits.
 
 ## :pencil: Instructions - Filling Continued

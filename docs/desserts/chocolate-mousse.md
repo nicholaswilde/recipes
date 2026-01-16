@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - jean-pierre
   - mousse
 ---
+
 # :chocolate_bar: Chocolate Mousse
 
 ![Chocolate Mousse](../assets/images/chocolate-mousse.jpg){ loading=lazy }

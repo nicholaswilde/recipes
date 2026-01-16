@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :ear_of_rice: Oat Milk
 
 ![Oat Milk][1]{ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - tante-myrna-seccia
 ---
+
 # :green_salad: Pasta Salad
 
 ![Pasta Salad](../assets/images/pasta-salad.jpg){ loading=lazy }

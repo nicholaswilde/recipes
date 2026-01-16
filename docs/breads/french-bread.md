@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
 ---
+
 # :baguette_bread: French Bread
 
 ![French Bread][1]{ loading=lazy }
@@ -124,7 +126,7 @@ Load the loaves (still on the parchment) into the oven, placing them on the ston
 Bake the loaves for 32 to 38 minutes, until the crust is firm and medium golden brown. Let the loaves cool completely
 before slicing. French bread is best eaten the day it's baked. Freeze for longer storage.
 
-!!! tip 
+!!! tip
 
     If you’d like, you can replace the generous 1/4 teaspoon instant yeast in the preferment with 1 tablespoon (14 g)
     sourdough culture for more flavor.
@@ -134,7 +136,7 @@ before slicing. French bread is best eaten the day it's baked. Freeze for longer
     You can substitute up to 25% whole wheat in place of some of the all-purpose flour in the final dough without
     making any significant changes to hydration. To do this, make the preferment as written, then use 3 1/4 cups
     (390 g) all-purpose flour and 1 cup plus 2 1/2 tablespoons (130g) whole wheat flour in the dough. All other
-    instructions remain the same. 
+    instructions remain the same.
 
 ## :link: Sources
 

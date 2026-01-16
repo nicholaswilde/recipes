@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - tofu
 ---
+
 # :butter: Pan-Fried Tofu
 
 ![Pan-Fried Tofu](../../assets/images/pan-fried-tofu.jpg){ loading=lazy }

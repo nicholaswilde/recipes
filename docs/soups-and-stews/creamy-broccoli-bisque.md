@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - soup
   - jean-pierre
 ---
+
 # :broccoli: Creamy Broccoli Bisque
 
 ![Creamy Broccoli Bisque](../assets/images/creamy-broccoli-bisque.jpg){ loading=lazy }

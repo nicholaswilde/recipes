@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - soup
   - stew
   - vegan
@@ -8,6 +9,7 @@ tags:
   - carrot
   - ginger
 ---
+
 # Carrot Ginger Soup
 
 ![Carrot Ginger Soup][1]{ loading=lazy }

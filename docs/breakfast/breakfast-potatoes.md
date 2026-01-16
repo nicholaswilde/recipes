@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :potato: Breakfast Potatoes
 
 ![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg){ loading=lazy }

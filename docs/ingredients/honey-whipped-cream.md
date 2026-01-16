@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :icecream: Honey Whipped Cream
 
 ![Honey Whipped Cream](../assets/images/honey-whipped-cream.jpg){ loading=lazy }

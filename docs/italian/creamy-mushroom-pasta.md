@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - italian
   - pasta
   - jean-pierre
 ---
+
 # :spaghetti: Creamy Mushroom Pasta
 
 ![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.jpg){ loading=lazy }

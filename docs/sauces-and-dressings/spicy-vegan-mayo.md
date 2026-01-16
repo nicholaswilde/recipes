@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - the-gracias-madre-cookbook
 ---
+
 # :egg: Spicy Vegan Mayo
 
 ![Spicy Vegan Mayo][1]{ loading=lazy }

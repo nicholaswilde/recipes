@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - lunch
   - sandwich
   - applied-kitchen
 ---
+
 # :sandwich: Caprese Sandwich
 
 ![Caprese Sandwich](../assets/images/caprese-sandwich.jpg){ loading=lazy }

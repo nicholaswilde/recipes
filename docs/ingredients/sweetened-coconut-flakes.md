@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :coconut: Sweetened Coconut Flakes
 
 ![Sweetened Coconut Flakes][1]{ loading=lazy }

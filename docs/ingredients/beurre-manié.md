@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :butter: Beurre Manié
 
 ![Beurre Manié](../assets/images/beurre-manié.jpg){ loading=lazy }

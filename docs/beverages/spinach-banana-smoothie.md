@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - smoothie
   - beverage
   - applied-kitchen
 ---
+
 # :leafy_green: Spinach Banana Smoothie
 
 ![Spinach Banana Smoothie][2]{ loading=lazy }

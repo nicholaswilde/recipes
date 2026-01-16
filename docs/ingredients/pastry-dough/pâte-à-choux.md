@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - pastry-dough
   - ingredient
   - king-arthur
 ---
+
 # :pie: Pâte À Choux
 
 ![Pâte À Choux](../../assets/images/pâte-à-choux.jpg){ loading=lazy }

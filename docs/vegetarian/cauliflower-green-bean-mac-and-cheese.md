@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - italian
   - main
 ---
+
 # :broccoli: Cauliflower Green Bean Mac & Cheese
 
 ![Cauliflower Green Bean Mac and Cheese](../assets/images/cauliflower-green-bean-mac-and-cheese.jpg){ loading=lazy }

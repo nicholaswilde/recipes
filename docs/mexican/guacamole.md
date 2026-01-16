@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - mexican
 ---
+
 # :avodado: Guacamole
 
 ![Guacamole][1]{ loading=lazy }

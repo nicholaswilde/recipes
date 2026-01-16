@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - ina-garten
 ---
+
 # :broccoli: Ina Garten's Parmesan Roasted Broccoli
 
 ![Ina Garten's Parmesan Roasted Broccoli](../assets/images/ina-garten's-parmesan-roasted-broccoli.jpg){ loading=lazy }

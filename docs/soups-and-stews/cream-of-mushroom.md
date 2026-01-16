@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - soup
 ---
+
 # :mushroom: Cream of Mushroom
 
 ![Cream of Mushroom](../assets/images/cream-of-mushroom.jpg){ loading=lazy }

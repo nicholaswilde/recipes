@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - shortcake
   - cooks-illustrated
 ---
+
 # :strawberry: Strawberry Shortcakes
 
 ![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg){ loading=lazy }

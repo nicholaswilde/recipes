@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - nutrition-studies
 ---
+
 # :leafy_green: Mediterranean Coleslaw
 
 ![Mediterranean Coleslaw][1]{ loading=lazy }

@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :spaghetti: Zucchini Pasta with Lentil Bolognese
 
 ![Zucchini Pasta with Lentil Bolognese](../assets/images/zucchini-pasta-with-lentil-bolognese.jpg){ loading=lazy }

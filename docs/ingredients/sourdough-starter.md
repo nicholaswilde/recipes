@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - sourdough
   - cooks-illustrated
 ---
+
 # :microbe: Sourdough Starter
 
 ![Sourdough Starter](../assets/images/sourdough-starter.jpg){ loading=lazy }

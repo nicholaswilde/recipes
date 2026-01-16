@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegan
   - italian
 ---
+
 # :spaghetti: Ginger Sesame Vegan Meatballs
 
 ![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg){ loading=lazy }

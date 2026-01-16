@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :broccoli: Lemony Broccoli Salad with Chickpeas & Feta
 
 ![Lemony Broccoli Salad with Chickpeas & Feta][1]{ loading=lazy }

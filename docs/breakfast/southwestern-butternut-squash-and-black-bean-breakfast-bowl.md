@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - minimalist-baker
 ---
+
 # :sweet_potato: Southwestern Butternut Squash and Black Bean Breakfast Bowl
 
 ![Southwestern Butternut Squash and Black Bean Breakfast Bowl][1]{ loading=lazy }

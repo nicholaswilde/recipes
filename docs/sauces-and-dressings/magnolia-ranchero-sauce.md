@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - magnolia
 ---
+
 # :racehorse: Magnolia Ranchero Sauce
 
 ![Magnolia Ranchero Sauce][1]{ loading=lazy }

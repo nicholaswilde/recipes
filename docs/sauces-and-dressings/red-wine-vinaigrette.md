@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dressing
   - applied-kitchen
 ---
+
 # :sake: Red Wine Vinaigrette
 
 ![Red Wine Vinaigrette][1]{ loading=lazy }

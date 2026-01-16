@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegan
   - salad
   - trader-joes
 ---
+
 # :green_salad: Vegan Caesar Salad
 
 ![Vegan Caesar Salad][4]{ loading=lazy }

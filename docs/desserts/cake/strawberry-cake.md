@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
 ---
+
 # :cake: Strawberry Cake
 
 ![Strawberry Cake](../../assets/images/strawberry-cake.jpg){ loading=lazy }

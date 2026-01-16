@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mother-sauce
   - french
   - joy-of-cooking
 ---
+
 # :tomato: Tomate
 
 ![Tomate](../../assets/images/tomate.jpg){ loading=lazy }

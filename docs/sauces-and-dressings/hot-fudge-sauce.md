@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - claire-saffitz
 ---
+
 # :chocolate_bar: Hot Fudge Sauce
 
 ![Hot Fudge Sauce][1]{ loading=lazy }

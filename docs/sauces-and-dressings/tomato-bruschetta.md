@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - sauce
   - italian
   - the-new-york-times
 ---
+
 # :tomato: Tomato Bruschetta
 
 ![Tomato Bruschetta](../assets/images/tomato-bruschetta.jpg){ loading=lazy }

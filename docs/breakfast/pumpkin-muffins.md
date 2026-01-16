@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - muffins
 ---
+
 # :cupcake: Pumpkin Muffins
 
 ![Pumpkin Muffins](../assets/images/pumpkin-muffins.jpg){ loading=lazy }

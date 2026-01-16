@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - minimalist-baker
 ---
+
 # :curry: Spicy Red Lentil Curry
 
 ![Spicy Red Lentil Curry][1]{ loading=lazy }

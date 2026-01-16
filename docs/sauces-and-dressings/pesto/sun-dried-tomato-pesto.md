@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - sauce
   - italian
   - joy-of-cooking
   - pesto
 ---
+
 # :tomato: Sun-Dried Tomato Pesto
 
 ![Sun-Dried Tomato Pesto](../../assets/images/sun-dried-tomato-pesto.jpg){ loading=lazy }

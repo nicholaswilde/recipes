@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cracker
   - alton-brown
   - snack
 ---
+
 # :cookie: Graham Crackers
 
 ![Graham Crackers](../assets/images/graham-crackers.jpg){ loading=lazy }

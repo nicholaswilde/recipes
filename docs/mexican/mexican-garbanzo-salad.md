@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - salad
 ---
+
 # :green_salad: Mexican Garbanzo Salad
 
 ![Mexican Garbanzo Salad](../assets/images/mexican-garbanzo-salad.jpg){ loading=lazy }

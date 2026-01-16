@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - italian
 ---
+
 # :canned_food: Creamy Italian White Bean
 
 ![Creamy Italian White Bean][1]{ loading=lazy }

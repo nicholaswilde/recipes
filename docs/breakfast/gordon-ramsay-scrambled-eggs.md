@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - gordon-ramsay
 ---
+
 # :egg: Gordon Ramsay Scrambled Eggs
 
 ![Gordon Ramsay Scrambled Eggs](../assets/images/gordon-ramsay-scrambled-eggs.jpg){ loading=lazy }

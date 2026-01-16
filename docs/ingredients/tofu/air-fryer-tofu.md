@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - tofu
 ---
+
 # :butter: Air Fryer Tofu
 
 ![Air Fryer Tofu](../../assets/images/air-fryer-tofu.jpg){ loading=lazy }

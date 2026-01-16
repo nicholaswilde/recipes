@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :rice: Crème Fraîche
 
 ![Crème Fraîche](../assets/images/crème-fraîche.jpg){ loading=lazy }

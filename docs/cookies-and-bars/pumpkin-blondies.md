@@ -1,12 +1,14 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bar
   - dessert
   - pumpkin
   - fall
 ---
+
 # Pumpkin Blondies
 
 ![Pumpkin Blondies][1]{ loading=lazy }

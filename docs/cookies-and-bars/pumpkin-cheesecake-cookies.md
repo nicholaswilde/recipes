@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
 ---
+
 # :jack_o_lantern: Pumpkin Cheesecake Cookies
 
 ![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg){ loading=lazy }

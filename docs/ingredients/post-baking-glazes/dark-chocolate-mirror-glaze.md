@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - glaze
   - ingredient
   - dominique-ansel
 ---
+
 # :chocolate_bar: Dark Chocolate Mirror Glaze
 
 ![Dark Chocolate Mirror Glaze](../../assets/images/dark-chocolate-mirror-glaze.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :pineapple: Pineapple Apple Cider Vinegar Turmeric Drink
 
 ![Pineapple Apple Cider Vinegar Turmeric Drink][1]{ loading=lazy }

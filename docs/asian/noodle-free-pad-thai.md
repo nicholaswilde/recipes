@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - asian
   - vegetarian
   - recipe-box
 ---
+
 # :curry: Noodle-Free Pad Thai
 
 ![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg){ loading=lazy }

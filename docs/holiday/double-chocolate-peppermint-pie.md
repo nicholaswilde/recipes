@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - holiday
   - pie
   - peppermint
   - magnolia
 ---
+
 # :pie: Double Chocolate Peppermint Pie
 
 ![Double Chocolate Peppermint Pie](../assets/images/double-chocolate-peppermint-pie.jpg){ loading=lazy }

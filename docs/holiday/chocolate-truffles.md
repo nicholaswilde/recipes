@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - holiday
 ---
+
 # :chocolate_bar: Chocolate Truffles
 
 ![Chocolate Truffles](../assets/images/chocolate-truffles.jpg){ loading=lazy }

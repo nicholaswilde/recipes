@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - jessica-seinfeld
 ---
+
 # :sweet_potato: Mashed Sweet Potatoes with Caramelized Shallots
 
 ![Mashed Sweet Potatoes with Caramelized Shallots][1]{ loading=lazy }

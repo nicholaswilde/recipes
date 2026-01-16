@@ -1,8 +1,11 @@
 ---
 tags:
+
   - desserts
 comments: true
+
 ---
+
 # :pancakes: Crêpes Suzette
 
 ![Crêpes Suzette](../assets/images/crêpes-suzette.jpg){ loading=lazy }

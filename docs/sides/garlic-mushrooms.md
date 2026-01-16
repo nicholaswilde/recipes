@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - jean-pierre
 ---
+
 # :mushroom: Garlic Mushrooms
 
 ![Garlic Mushrooms](../assets/images/garlic-mushrooms.jpg){ loading=lazy }

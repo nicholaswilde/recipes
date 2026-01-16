@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - gordon-ramsay
   - french
 ---
+
 # :pear: Pear Tarte Tatin
 
 ![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg){ loading=lazy }

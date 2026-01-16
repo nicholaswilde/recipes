@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - trader-joes
 ---
+
 # :pie: Meatless Umami Shepherd's Pie
 
 ![Meatless Umami Shepherd's Pie](../assets/images/meatless-umami-shepherd's-pie.png){ loading=lazy }

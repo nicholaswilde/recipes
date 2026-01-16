@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :custard: Breakfast Tofu Scramble
 
 ![Breakfast Tofu Scramble][1]{ loading=lazy }

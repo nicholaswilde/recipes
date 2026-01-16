@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :doughnut: Cinnamon Rolls
 
 ![Cinnamon Rolls](../assets/images/cinnamon-rolls.png){ loading=lazy }
@@ -35,7 +37,7 @@ tags:
 - :custard: 2 Tbsp cinnamon
 - :chestnut: 1/2 tsp nutmeg
 - :salt: 1/4 tsp salt
-- :chestnut: 115 g toasted pecans 
+- :chestnut: 115 g toasted pecans
 
 ## :salt: Ingredients - Cream Cheese Frosting
 

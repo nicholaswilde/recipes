@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - slow-cooker
 ---
+
 # :rice: Slow Cooker Red Beans and Rice
 
 ![Slow Cooker Red Beans and Rice](../assets/images/slow-cooker-red-beans-and-rice.jpg){ loading=lazy }

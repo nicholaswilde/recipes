@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :leafy_green: Kale Chips
 
 ![Kale Chips](../assets/images/kale-chips.jpg){ loading=lazy }

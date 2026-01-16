@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - lunch
   - cooks-illustrated
   - sandwich
 ---
+
 # :sandwich: Open-Faced Cherry Tomato Ricotta Sandwich
 
 ![Open-Faced Cherry Tomato Ricotta Sandwich][1]{ loading=lazy }

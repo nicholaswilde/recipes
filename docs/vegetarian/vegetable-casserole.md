@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :shallow_pan_of_food: Vegetable Casserole
 
 ![Vegetable Casserole](../assets/images/vegetable-casserole.jpg){ loading=lazy }

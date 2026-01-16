@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - mexican
 ---
+
 # :burrito: Black Bean Burritos
 
 ![Black Bean Burritos](../assets/images/black-bean-burritos.jpg){ loading=lazy }

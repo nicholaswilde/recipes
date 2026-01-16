@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - minimalist-baker
 ---
+
 # :strawberry: Simple Berry Compote
 
 ![Simple Berry Compote](../assets/images/simple-berry-compote.jpg){ loading=lazy }

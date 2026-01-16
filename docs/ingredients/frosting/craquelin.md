@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - frosting
   - ingredient
   - cupcake-jemma
 ---
+
 # :cupcake: Craquelin
 
 ![Craquelin](../../assets/images/craquelin.jpg){ loading=lazy }

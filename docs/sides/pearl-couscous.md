@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :shallow_pan_of_food: Pearl Couscous
 
 ![Pearl Couscous][1]{ loading=lazy }

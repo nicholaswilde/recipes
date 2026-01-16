@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mexican
   - tostada
 ---
+
 # :stuffed_flatbread: Tostadas with Refried Black Beans & Pickled Cabbage & Onion
 
 ![Tostadas with Refried Black Beans and Pickled Cabbage and Onion][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - pastry-dough
   - joy-of-cooking
 ---
+
 # :pie: Basic Pastry
 
 ![Basic Pastry](../../assets/images/basic-pastry.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - holiday
   - dessert
 ---
+
 # :chocolate_bar: Chocolate-Peanut Clusters
 
 ![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.jpg){ loading=lazy }

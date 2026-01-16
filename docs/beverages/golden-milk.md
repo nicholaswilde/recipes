@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :glass_of_milk: Golden Milk
 
 ![Golden Milk][1]{ loading=lazy }

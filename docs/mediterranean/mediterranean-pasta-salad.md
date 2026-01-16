@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - recipe-box
 ---
+
 # :green_salad: Mediterranean Pasta Salad
 
 ![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg){ loading=lazy }

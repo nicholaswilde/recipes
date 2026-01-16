@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - trader-joes
   - pie
 ---
+
 # :pie: Trader Joe's Key Lime Pie with Strawberry Whipped Cream
 
 ![Trader Joe's Key Lime Pie with Strawberry Whipped Cream][1]{ loading=lazy }

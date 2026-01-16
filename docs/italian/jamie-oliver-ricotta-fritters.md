@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - jamie-oliver
   - italian
   - vegetarian
   - recipe-box
 ---
+
 # :cheese_wedge: Jamie Oliver Ricotta Fritters
 
 ![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg){ loading=lazy }

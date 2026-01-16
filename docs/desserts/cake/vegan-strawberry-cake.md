@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - vegan
 ---
+
 # :cake: Vegan Strawberry Cake
 
 ![Vegan Strawberry Cake](../../assets/images/vegan-strawberry-cake.jpg){ loading=lazy }

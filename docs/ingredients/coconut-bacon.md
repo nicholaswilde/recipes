@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :bacon: Coconut Bacon
 
 ![Coconut Bacon][1]{ loading=lazy }

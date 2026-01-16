@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - pressure-cooker
 ---
+
 # :rice: Brown Rice
 
 ![Brown Rice][1]{ loading=lazy }

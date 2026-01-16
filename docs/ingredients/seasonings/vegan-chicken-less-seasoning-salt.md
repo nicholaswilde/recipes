@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - seasoning
 ---
+
 # :salt: Vegan Chicken-Less Seasoning Salt
 
 ![Vegan Chicken-Less Seasoning Salt][1]{ loading=lazy }

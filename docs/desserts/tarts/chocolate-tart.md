@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - tart
 ---
+
 # :chocolate_bar: Chocolate Tart
 
 ![Chocolate Tart][1]{ loading=lazy }

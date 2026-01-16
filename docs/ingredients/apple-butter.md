@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :green_apple: Apple Butter
 
 ![Apple Butter][1]{ loading=lazy }
@@ -65,7 +67,7 @@ headspace at the top of the jar to allow for expansion.
 
 !!! note
 
-    If fresh apples are to be used, slice apples into 1/4" pieces and add to slow cooker with sugar and spices and 
+    If fresh apples are to be used, slice apples into 1/4" pieces and add to slow cooker with sugar and spices and
     cook for 10 hours on low. Puree with immersion blender until smooth. Add vanilla and cook for additional 2 hours
     uncovered, stirring occasionally.
 

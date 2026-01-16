@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - joy-of-cooking
   - vegetarian
 ---
+
 # :eggplant: Ratatouille Provençale
 
 ![Ratatouille Provençale](../assets/images/ratatouille-provençale.jpg){ loading=lazy }

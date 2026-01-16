@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :ear_of_rice: Toasted-Coconut Granola
 
 ![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.jpg){ loading=lazy }

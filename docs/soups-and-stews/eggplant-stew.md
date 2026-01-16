@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - stew
 ---
+
 # :eggplant: Eggplant Stew
 
 ![Eggplant Stew](../assets/images/eggplant-stew.jpg){ loading=lazy }

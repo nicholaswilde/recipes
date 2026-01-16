@@ -1,12 +1,15 @@
 ---
 tags:
+
   - sides
 comments: true
 tag:
+
   - gordon-ramsay
   - puree
   - side
 ---
+
 # :carrot: Parsnip Purée
 
 ![Parsnip Purée](../assets/images/parsnip-purée.jpg){ loading=lazy }

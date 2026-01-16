@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
 ---
+
 # :crown: Galette des Rois
 
 ![Galette des Rois][1]{ loading=lazy }

@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :rice: Garlic Rice
 
 ![Garlic Rice](../assets/images/garlic-rice.jpg){ loading=lazy }

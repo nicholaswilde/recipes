@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - mushrooms
   - paprikash
@@ -8,6 +9,7 @@ tags:
   - main
   - hungarian
 ---
+
 # Mushroom Paprikash
 
 ![Mushroom Paprikash][1]{ loading=lazy }

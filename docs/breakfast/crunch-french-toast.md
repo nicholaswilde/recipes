@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - magnolia
 ---
+
 # :pancakes: Crunch French Toast
 
 ![Crunch French Toast](../assets/images/crunch-french-toast.jpg){ loading=lazy }

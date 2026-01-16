@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - nora-cooks
 ---
+
 # :broccoli: Buffalo Cauliflower Wings
 
 ![Buffalo Cauliflower Wings][1]{ loading=lazy }

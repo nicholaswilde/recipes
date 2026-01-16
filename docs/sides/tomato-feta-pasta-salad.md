@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - side
   - salad
   - ina-garten
 ---
+
 # :green_salad: Tomato Feta Pasta Salad
 
 ![Tomato Feta Pasta Salad](../assets/images/tomato-feta-pasta-salad.jpg){ loading=lazy }

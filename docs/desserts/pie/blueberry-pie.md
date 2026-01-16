@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - pie
   - dessert
   - recipe-box
 ---
+
 # :pie: Blueberry Pie
 
 ![Blueberry Pie](../../assets/images/blueberry-pie.jpg){ loading=lazy }

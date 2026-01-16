@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - joy-of-cooking
   - ingredient
 ---
+
 # :stew: Vegetable Broth
 
 ![Vegetable Broth](../assets/images/vegetable-broth.jpg){ loading=lazy }

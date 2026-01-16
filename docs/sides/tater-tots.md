@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Tater Tots
 
 ![Tater Tots][1]{ loading=lazy }

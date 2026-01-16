@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - seasoning
 ---
+
 # :bagel: Everything Bagel
 
 ![Everything Bagel][1]{ loading=lazy }

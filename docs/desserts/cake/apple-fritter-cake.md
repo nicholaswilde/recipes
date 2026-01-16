@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - king-arthur
 ---
+
 # :green_apple: Apple Fritter Cake
 
 ![Apple Fritter Cake](../../assets/images/apple-fritter-cake.jpg){ loading=lazy }

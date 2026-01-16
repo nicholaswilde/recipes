@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - spread
   - jam
   - condiment
 ---
+
 # :strawberry: Single Jar of Fruit Jam
 
 ![Single Jar of Fruit Jam](../assets/images/single-jar-of-fruit-jam.jpg){ loading=lazy }

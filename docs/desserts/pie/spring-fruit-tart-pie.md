@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - pie
   - tart
   - dessert
   - applied-kitchen
 ---
+
 # :pie: Spring Fruit Tart Pie
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |

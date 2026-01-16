@@ -1,12 +1,14 @@
 ---
 comments: true
 tags:
+
   - side
   - potatoes
   - cream
   - french
   - julia child
 ---
+
 # Scalloped Potatoes
 
 ![Scalloped Potatoes][1]{ loading=lazy }

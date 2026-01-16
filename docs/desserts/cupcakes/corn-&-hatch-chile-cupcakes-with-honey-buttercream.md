@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cupcake
   - trader-joes
 ---
+
 # :cupcake: Corn & Hatch Chile Cupcakes with Honey Buttercream
 
 ![Corn & Hatch Chile Cupcakes with Honey Buttercream][1]{ loading=lazy }

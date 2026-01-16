@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - bar
   - holiday
   - dessert
   - fudge
 ---
+
 # :peanuts: Old-Fashioned Peanut Butter Fudge
 
 ![Old-Fashioned Peanut Butter Fudge](../assets/images/old-fashioned-peanut-butter-fudge.jpg){ loading=lazy }

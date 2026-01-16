@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - salad
   - lunch
   - vegan
 ---
+
 # :falafel: Beach Day Chickpea Salad
 
 ![Beach Day Chickpea Salad][1]{ loading=lazy }

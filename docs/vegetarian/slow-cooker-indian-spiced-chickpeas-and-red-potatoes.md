@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - slow-cooker
   - vegetarian
 ---
+
 # :falafel: Slow Cooker Indian-Spiced Chickpeas & Red Potatoes
 
 ![Slow Cooker Indian-Spiced Chickpeas & Red Potatoes][2]{ loading=lazy }

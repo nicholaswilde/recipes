@@ -1,8 +1,11 @@
 ---
 tags:
+
   - desserts
 comments: true
+
 ---
+
 # :icecream: Vanilla Pudding
 
 ![Vanilla Pudding](../assets/images/vanilla-pudding.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :grapes: Date Paste
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |

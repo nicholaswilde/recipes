@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :stew: Jean Pierre's Vegetable Stock
 
 ![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.jpg){ loading=lazy }

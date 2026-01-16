@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - tofu
 ---
+
 # :butter: Crispy Baked Tofu Nuggets
 
 ![Crispy Baked Tofu Nuggets](../../assets/images/crispy-baked-tofu-nuggets.jpg){ loading=lazy }

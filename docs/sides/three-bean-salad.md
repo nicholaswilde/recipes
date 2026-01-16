@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :green_salad: Three-Bean Salad
 
 ![Three-Bean Salad](../assets/images/three-bean-salad.jpg){ loading=lazy }

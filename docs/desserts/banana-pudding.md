@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - pudding
   - magnolia
 ---
+
 # :custard: Banana Pudding
 
 ![Banana Pudding](../assets/images/banana-pudding.jpg){ loading=lazy }

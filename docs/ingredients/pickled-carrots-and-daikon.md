@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - vietnamese
 ---
+
 # :carrot: Pickled Carrots & Daikon
 
 ![Pickled Carrots and Daikon](../assets/images/pickled-carrots-and-daikon.png){ loading=lazy }

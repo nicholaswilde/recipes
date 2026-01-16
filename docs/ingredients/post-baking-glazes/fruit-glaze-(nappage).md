@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - glaze
   - ingredient
   - dominique-ansel
 ---
+
 # :strawberry: Fruit Glaze (Nappage)
 
 ![Fruit Glaze (Nappage)](../../assets/images/fruit-glaze-(nappage).jpg){ loading=lazy }

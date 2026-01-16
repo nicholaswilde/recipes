@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - tart
   - dominique-ansel
 ---
+
 # :strawberry: Strawberry Tart
 
 ![Strawberry Tart](../../assets/images/strawberry-tart.jpg){ loading=lazy }

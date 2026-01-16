@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Joel Robuchon's Mashed Potatoes
 
 ![Joel Robuchons Mashed Potatoes][1]{ loading=lazy }

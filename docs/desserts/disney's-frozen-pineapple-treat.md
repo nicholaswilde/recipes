@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - disney
   - dessert
 ---
+
 # :pineapple: Disney's Frozen Pineapple Treat
 
 ![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.jpg){ loading=lazy }
@@ -43,6 +45,7 @@ Make a swirl using a piping bag or plastic sandwich bag.
 ## :link: Source
 
 <!-- markdownlint-disable-next-line MD013 -->
+
 - <https://www.disneyfoodblog.com/2020/04/08/foodies-theres-a-brand-new-step-by-step-cooking-at-home-feature-on-the-disney-world-app/>
 
 [1]: https://www.disneyfoodblog.com/2020/04/27/disney-recipe-authentic-disney-dole-whip-at-home-two-ways-with-these-simple-steps

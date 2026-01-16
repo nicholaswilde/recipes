@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - cooks-illustrated
 ---
+
 # :potato: Pan Boxty
 
 ![Pan Boxty](../assets/images/pan-boxty.jpg){ loading=lazy }

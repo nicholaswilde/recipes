@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
+
 # :green_salad: Recipes :book:
 
 [![ci](https://img.shields.io/github/actions/workflow/status/nicholaswilde/recipes/ci.yaml?label=ci&style=for-the-badge&branch=main)](https://github.com/nicholaswilde/recipes/actions/workflows/ci.yaml)

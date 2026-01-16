@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ina-garten
   - salad
   - side
 ---
+
 # :potato: Ina Garten's Potato Salad
 
 ![Ina Garten's Potato Salad](../assets/images/ina-garten's-potato-salad.jpg){ loading=lazy }

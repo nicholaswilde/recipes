@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - main
   - the-blue-zones-kitchen
 ---
+
 # :onion: Fresh Fava Beans with Mint & Scallions
 
 ![Fresh Fava Beans with Mint and Scallions][1]{ loading=lazy }

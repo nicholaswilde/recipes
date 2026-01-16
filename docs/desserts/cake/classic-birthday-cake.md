@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cake
   - dessert
   - king-arthur
 ---
+
 # :cake: Classic Birthday Cake
 
 ![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg){ loading=lazy }

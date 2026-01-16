@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sauce
   - the-gracias-madre-cookbook
 ---
+
 # :jack_o_lantern: Pumpkin Seed Salsa
 
 ![Pumpkin Seed Salsa][1]{ loading=lazy }

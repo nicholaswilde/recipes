@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :hamburger: Indian Spiced Lentil Burgers
 
 ![Indian Spiced Lentil Burgers](../assets/images/indian-spiced-lentil-burgers.jpg){ loading=lazy }

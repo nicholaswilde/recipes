@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - cooks-illustrated
   - favorite
 ---
+
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
 
 ![Cook's Illustrated Perfect Chocolate Chip Cookies][2]{ loading=lazy }

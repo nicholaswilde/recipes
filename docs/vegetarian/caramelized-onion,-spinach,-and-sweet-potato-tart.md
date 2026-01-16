@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - tart
 ---
+
 # :pie: Caramelized Onion, Spinach, and Sweet Potato Tart
 
 ![Caramelized Onion, Spinach, and Sweet Potato Tart][1]{ loading=lazy }

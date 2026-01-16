@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - quick-bread
 ---
+
 # :bread: Honey Beer Bread
 
 ![Honey Beer Bread](../assets/images/honey-beer-bread.jpg){ loading=lazy }

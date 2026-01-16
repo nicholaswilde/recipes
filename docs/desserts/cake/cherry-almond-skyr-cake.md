@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cake
   - dominique-ansel
 ---
+
 # :cake: Cherry Almond Skyr Cake
 
 ![Cherry Almond Skyr Cake](../../assets/images/cherry-almond-skyr-cake.jpg){ loading=lazy }

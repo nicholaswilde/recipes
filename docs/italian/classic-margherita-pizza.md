@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - pizza
   - italian
 ---
+
 # :pizza: Classic Margherita Pizza
 
 ![Classic Margherita Pizza](../assets/images/classic-margherita-pizza.jpg){ loading=lazy }

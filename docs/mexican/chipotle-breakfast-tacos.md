@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mexican
   - taco
   - recipe-box
 ---
+
 # :taco: Chipotle Breakfast Tacos
 
 ![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.jpg){ loading=lazy }

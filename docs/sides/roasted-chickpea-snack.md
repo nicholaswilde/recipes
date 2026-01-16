@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - snack
 ---
+
 # :falafel: Roasted Chickpea Snack
 
 ![Roasted Chickpea Snack][1]{ loading=lazy }

@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :sweet_potato: Grilled Sweet Potatoes with Chimichurri
 
 ![Grilled Sweet Potatoes with Chimichurri](../assets/images/grilled-sweet-potatoes-with-chimichurri.jpg){ loading=lazy }

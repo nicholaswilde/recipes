@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - pastry-dough
   - ingredient
   - claire-saffitz
 ---
+
 # :pie: Pâte Brisée
 
 ![Pâte Brisée][1]{ loading=lazy }

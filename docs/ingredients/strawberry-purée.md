@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - puree
   - dominique-ansel
 ---
+
 # :strawberry: Strawberry Purée
 
 ![Strawberry Purée](../assets/images/strawberry-purée.jpg){ loading=lazy }

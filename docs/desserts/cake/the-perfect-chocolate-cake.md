@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cake
   - dominique-ansel
   - dessert
 ---
+
 # :cake: The Perfect Chocolate Cake
 
 ![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg){ loading=lazy }

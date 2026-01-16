@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - jamie-oliver
   - favorite
 ---
+
 # :leafy_green: Spinach and Feta Filo Pie
 
 ![Spinach and Feta Filo Pie](../assets/images/spinach-and-feta-filo-pie.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - flour
 ---
+
 # :rice: Rice Flour
 
 ![Rice Flour][1]{ loading=lazy }

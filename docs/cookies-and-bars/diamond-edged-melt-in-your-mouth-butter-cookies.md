@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bakewise
   - dessert
 ---
+
 # :cookie: Diamond-Edged Melt-in-Your-Mouth Butter Cookies
 
 ![Diamond-Edged Melt-in-Your-Mouth Butter Cookies][1]{ loading=lazy }

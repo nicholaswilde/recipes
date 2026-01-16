@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - italian
   - appetizer
   - bruschetta
   - tomato
 ---
+
 # :tomato: Bruschetta
 
 ![Bruschetta][1]{ loading=lazy }

@@ -1,12 +1,14 @@
 ---
 comments: true
 tags:
+
   - asian
   - stir-fry
   - vegetarian
   - recipe-box
   - minimalist-baker
 ---
+
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
 
 ![Crispy Peanut Tofu & Cauliflower Rice Stir-Fry][2]{ loading=lazy }

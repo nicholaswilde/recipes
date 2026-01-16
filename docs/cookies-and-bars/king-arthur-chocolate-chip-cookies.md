@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - recipe-of-the-year
   - dessert
 ---
+
 # :cookie: King Arthur Chocolate Chip Cookies
 
 ![King Arthur Chocolate Chip Cookies][1]{ loading=lazy }

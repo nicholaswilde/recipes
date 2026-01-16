@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - extract
   - ingredient
 ---
+
 # :icecream: Vanilla Extract
 
 ![Vanilla Extract](../../assets/images/vanilla-extract.jpg){ loading=lazy }

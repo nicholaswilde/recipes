@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - trader-joes
   - salad
 ---
+
 # :green_salad: Spicy Cashew Quinoa Salad
 
 ![Spicy Cashew Quinoa Salad](../assets/images/spicy-cashew-quinoa-salad.png){ loading=lazy }

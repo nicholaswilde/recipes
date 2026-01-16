@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - snack
 ---
+
 # :peanuts: Honey Roasted Peanuts
 
 ![Honey Roasted Peanuts][1]{ loading=lazy }

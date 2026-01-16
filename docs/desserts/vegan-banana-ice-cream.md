@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - vegan
 ---
+
 # :banana: Vegan Banana Ice Cream
 
 ![Vegan Banana Ice Cream][1]{ loading=lazy }

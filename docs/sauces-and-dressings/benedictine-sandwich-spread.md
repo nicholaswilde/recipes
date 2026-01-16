@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - spread
   - vegetarian
 ---
+
 # :cucumber: Benedictine Sandwich Spread
 
 ![Benedictine Sandwich Spread](../assets/images/benedictine-sandwich-spread.jpg){ loading=lazy }

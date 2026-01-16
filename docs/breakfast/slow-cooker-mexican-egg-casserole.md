@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mexican
   - breakfast
   - slow-cooker
 ---
+
 # :egg: Slow Cooker Mexican Egg Casserole
 
 ![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.jpg){ loading=lazy }

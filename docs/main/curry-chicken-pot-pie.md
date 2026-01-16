@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - main
   - pot-pie
   - trader-joes
 ---
+
 # :pie: Curry Chicken Pot Pie
 
 ![Curry Chicken Pot Pie](../assets/images/curry-chicken-pot-pie.png){ loading=lazy }

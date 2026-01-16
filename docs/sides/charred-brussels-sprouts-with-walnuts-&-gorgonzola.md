@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola
 
 ![Charred Brussels Sprouts with Walnuts & Gorgonzola][1]{ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - the-gracias-madre-cookbook
 ---
+
 # :rice: Green Rice
 
 ![Green Rice][1]{ loading=lazy }

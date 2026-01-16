@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dressing
   - ina-garten
 ---
+
 # :champagne: Ina Garten's Perfect Vinaigrette
 
 ![Ina Garten's Perfect Vinaigrette](../assets/images/ina-garten's-perfect-vinaigrette.jpg){ loading=lazy }

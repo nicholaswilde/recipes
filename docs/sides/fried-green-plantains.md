@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - the-blue-zones-kitchen
 ---
+
 # :banana: Fried Green Plantains
 
 ![Fried Green Plantains](../assets/images/fried-green-plantains.jpg){ loading=lazy }

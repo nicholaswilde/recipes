@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - chili
 ---
+
 # :canned_food: Plant-Based Chili
 
 ![Plant-Based Chili](../assets/images/plant-based-chili.jpg){ loading=lazy }

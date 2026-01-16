@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - tofu
   - ingredient
   - minimalist-baker
 ---
+
 # :custard: Crispy Baked Tofu with Italian Herbs
 
 ![Crispy Baked Tofu with Italian Herbs][1]{ loading=lazy }

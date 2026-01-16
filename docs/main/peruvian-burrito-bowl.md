@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - main
   - peruvian
   - bowl
 ---
+
 # :burrito: Peruvian Burrito Bowl
 
 ![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg){ loading=lazy }

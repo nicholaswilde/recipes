@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - jean-pierre
 ---
+
 # :onion: Caramelized Onions
 
 ![Caramelized Onions](../assets/images/caramelized-onions.jpg){ loading=lazy }

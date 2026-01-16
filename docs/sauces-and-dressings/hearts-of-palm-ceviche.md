@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - the-blue-zones-kitchen
 ---
+
 # :leafy_green: Hearts of Palm Ceviche
 
 ![Hearts of Palm Ceviche](../assets/images/hearts-of-palm-ceviche.jpg){ loading=lazy }

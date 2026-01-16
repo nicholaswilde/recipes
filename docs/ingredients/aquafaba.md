@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :falafel: Aquafaba
 
 ![Aquafaba](../assets/images/aquafaba.png){ loading=lazy }
@@ -26,17 +28,23 @@ air and serve as an excellent alternative to eggs. Here are the most common uses
 - **Meringues and Macarons** – Yay! These fancy little desserts are accessible to vegans again. Whip your aquafaba into
   impossibly stiff peaks with a hand mixer or standing mixer and a pinch of cream of tartar. This might take 10 minutes
   or more, but it’s totally worth it.
+
 - **Aquafaba Whipped Cream** – Light fluffy vegan whipped cream made from chickpea water? Sounds preposterous, but it’s
   perfection!
+
 - **Crusty Layer** – Brush onto potatoes or the tops of pies before baking for a little added crispiness.
 - **Egg White Substitute** – Beaten into semi-stiff peaks (for about 5 minutes), this mixture is wonderful for adding
   into waffles or other baked items.
+
 - **Chocolate Mousse** – A marvelous mousse can be made with only whipped aquafaba, sugar and dark chocolate. So creamy
   and thick, you won’t believe your eyes. This recipe from Lazy Cat Kitchen is really dreamy.
+
 - **Buttercream Frosting** – Aquafaba makes a great base for buttercream that forms the most terrific texture. I like
   this recipe by Geeky Cakes. A bit more involved, but it produces a truly professional frosting.
+
 - **Vegan Marshmallows or ‘Marshmallow’ Fluff** – You can make your own vegetarian marshmallows from scratch using
   aquafaba!
+
 - **Vegan Cheese** – This recipe from Avocados and Ales is pretty popular and provides the most mouthwatering and
   meltable results for a plant-based mozzarella cheese.
 

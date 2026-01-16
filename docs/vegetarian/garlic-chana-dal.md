@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - chetna-makan
   - indian
 ---
+
 # :garlic: Garlic Chana Dal
 
 ![Garlic Chana Dal][1]{ loading=lazy }

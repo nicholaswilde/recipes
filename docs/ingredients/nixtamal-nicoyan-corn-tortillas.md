@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - mexican
 ---
+
 # :flatbread: Nixtamal Nicoyan Corn Tortillas
 
 ![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.jpg){ loading=lazy }

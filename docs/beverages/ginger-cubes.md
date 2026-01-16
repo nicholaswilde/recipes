@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - beverage
 ---
+
 # :ice_cube: Ginger Cubes
 
 ![Ginger Cubes][1]{ loading=lazy }

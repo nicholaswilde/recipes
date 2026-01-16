@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - martha-stewart
   - cheesecake
 ---
+
 # :cake: Martha Stewart's New York-Style Cheesecake
 
 ![Martha Stewarts New York-Style Cheesecake][2]{ loading=lazy }

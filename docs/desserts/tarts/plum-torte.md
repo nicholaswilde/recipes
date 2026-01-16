@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - tart
   - the-new-york-times
 ---
+
 # :purple_circle: Plum Torte
 
 ![Plum Torte][1]{ loading=lazy }

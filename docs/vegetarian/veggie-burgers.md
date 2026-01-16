@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - minimalist-baker
 ---
+
 # :hamburger: Veggie Burgers
 
 ![Veggie Burgers][1]{ loading=lazy }

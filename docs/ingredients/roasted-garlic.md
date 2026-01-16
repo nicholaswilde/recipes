@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :garlic: Roasted Garlic
 
 ![Roasted Garlic](../assets/images/roasted-garlic.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - cooks-illustrated
 ---
+
 # :peanuts: Peanut Butter
 
 ![Peanut Butter](../assets/images/peanut-butter.jpg){ loading=lazy }

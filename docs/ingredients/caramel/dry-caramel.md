@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - caramel
   - ingredient
 ---
+
 # :candy: Dry Caramel
 
 ![Dry Caramel](../../assets/images/dry-caramel.jpg){ loading=lazy }

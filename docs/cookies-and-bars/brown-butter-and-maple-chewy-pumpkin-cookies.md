@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bake-off
   - dessert
 ---
+
 # :jack_o_lantern: Brown Butter and Maple Chewy Pumpkin Cookies
 
 ![Brown Butter and Maple Chewy Pumpkin Cookies][1]{ loading=lazy }

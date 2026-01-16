@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - holiday
   - bread
   - favorite
 ---
+
 # :bread: Monastery Pumpkin Bread
 
 ![Monastery Pumpkin Bread](../assets/images/monastery-pumpkin-bread.jpg){ loading=lazy }

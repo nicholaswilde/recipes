@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - pasta
   - italian
   - recipe-box
 ---
+
 # :spaghetti: Summer Pesto Pasta
 
 ![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg){ loading=lazy }

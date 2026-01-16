@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - pressure-cooker
 ---
+
 # :canned_food: Black Beans
 
 ![Black Beans](../assets/images/black-beans.jpg){ loading=lazy }

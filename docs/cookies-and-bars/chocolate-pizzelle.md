@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - king-arthur
 ---
+
 # :cookie: Chocolate Pizzelle
 
 ![Chocolate Pizzelle](../assets/images/chocolate-pizzelle.jpg){ loading=lazy }

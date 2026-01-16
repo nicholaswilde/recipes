@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # Josh Elkin's Mushroom Toast
 
 ![Josh Elkin's Mushroom Toast](../assets/images/josh-elkin's-mushroom-toast.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - side
 ---
+
 # :potato: Funeral Potatoes
 
 ![Funeral Potatoes][1]{ loading=lazy }

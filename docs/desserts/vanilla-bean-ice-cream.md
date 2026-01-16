@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dessert
 ---
+
 # :ice_cream: Vanilla Bean Ice Cream
 
 ![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.jpg){ loading=lazy }

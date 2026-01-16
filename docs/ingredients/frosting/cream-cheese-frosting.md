@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - joy-of-cooking
   - frosting
 ---
+
 # :birthday: Cream Cheese Frosting
 
 ![Cream Cheese Frosting](../../assets/images/cream-cheese-frosting.png){ loading=lazy }

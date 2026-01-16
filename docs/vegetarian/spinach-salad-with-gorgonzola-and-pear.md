@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - salad
   - vegetarian
 ---
+
 # :green_salad: Spinach Salad with Gorgonzola and Pear
 
 ![Spinach Salad with Gorgonzola and Pear](../assets/images/spinach-salad-with-gorgonzola-and-pear.jpg){ loading=lazy }

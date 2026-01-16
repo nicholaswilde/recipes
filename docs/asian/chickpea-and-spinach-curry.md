@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - asian
   - curry
   - chickpeas
@@ -8,6 +9,7 @@ tags:
   - vegetarian
   - vegan
 ---
+
 # :curry: Chickpea and Spinach Curry
 
 ![Chickpea and Spinach Curry][1]{ loading=lazy }

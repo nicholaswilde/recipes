@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - bakewise
   - dessert
 ---
+
 # :cookie: Cracked-Surface Crunchy Gingersnaps
 
 ![Cracked-Surface Crunchy Gingersnaps][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegan
   - dressing
   - minimalist-baker
 ---
+
 # :green_salad: Vegan Caesar Dressing
 
 ![Vegan Caesar Dressing][1]{ loading=lazy }

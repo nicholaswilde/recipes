@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - mexican
 ---
+
 # :taco: Baked Black Bean Taquitos
 
 ![Baked Black Bean Taquitos][1]{ loading=lazy }

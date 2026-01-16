@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - ina-garten
 ---
+
 # :cookie: Cinnamon-Spiced Shortbread
 
 ![Cinnamon-Spiced Shortbread](../assets/images/cinnamon-spiced-shortbread.jpg){ loading=lazy }

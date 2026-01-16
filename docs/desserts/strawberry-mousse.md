@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - mousse
 ---
+
 # :strawberry: Strawberry Mousse
 
 ![Strawberry Mousse](../assets/images/strawberry-mousse.jpg){ loading=lazy }

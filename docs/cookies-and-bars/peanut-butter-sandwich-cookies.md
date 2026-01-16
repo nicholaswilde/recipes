@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - dessert
   - cooks-illustrated
 ---
+
 # :peanuts: Peanut Butter Sandwich Cookies
 
 ![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg){ loading=lazy }

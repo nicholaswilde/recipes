@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - king-arthur
 ---
+
 # :bread: Japanese Milk Bread Rolls
 
 ![Japanese Milk Bread Rolls][1]{ loading=lazy }
@@ -14,7 +16,7 @@ tags:
 
 ## :scales: Ratios
 
-| :ear_of_rice: flour | :droplet: water | :glass_of_milk: milk | 
+| :ear_of_rice: flour | :droplet: water | :glass_of_milk: milk |
 |:-------------------:|:---------------:|:--------------------:|
 |        1 part       |      3 parts    |        3 parts       |
 

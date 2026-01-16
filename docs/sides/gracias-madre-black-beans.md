@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - the-gracias-madre-cookbook
 ---
+
 # :canned_food: Gracias Madre Black Beans
 
 ![Gracias Madre Black Beans][1]{ loading=lazy }

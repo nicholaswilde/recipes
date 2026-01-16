@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - cookie
   - claire-saffitz
   - dessert
 ---
+
 # :ear_of_rice: Oatmeal Cookies
 
 ![Oatmeal Cookies][1]{ loading=lazy }

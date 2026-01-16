@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash
 
 ![Applied Sweet Potato Soyrizo Hash][1]{ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - holiday
 ---
+
 # :corn: Gingerbread Caramel Corn
 
 ![Gingerbread Caramel Corn](../assets/images/gingerbread-caramel-corn.jpg){ loading=lazy }

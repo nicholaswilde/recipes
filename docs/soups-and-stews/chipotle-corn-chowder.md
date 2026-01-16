@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - recipe-box
   - chowder
 ---
+
 # :corn: Chipotle Corn Chowder
 
 ![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg){ loading=lazy }

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :carrot: Grated Vegetable Shortening
 
 ![Grated Vegetable Shortening](../assets/images/grated-vegetable-shortening.png){ loading=lazy }

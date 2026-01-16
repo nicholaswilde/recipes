@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :baguette_bread: Croutons
 
 ![Croutons](../assets/images/croutons.jpg){ loading=lazy }

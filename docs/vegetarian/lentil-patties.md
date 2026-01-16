@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - heat-culinary
   - persian
 ---
+
 # :hamburger: Lentil Patties
 
 ![Lentil Patties][1]{ loading=lazy }

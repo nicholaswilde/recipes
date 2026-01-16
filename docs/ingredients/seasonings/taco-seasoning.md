@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - seasoning
 ---
+
 # :taco: Taco Seasoning
 
 ![Taco Seasoning](../../assets/images/taco-seasoning.jpg){ loading=lazy }

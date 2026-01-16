@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :pretzel: Laugenbrezeln (German Lye Pretzels)
 
 ![Laugenbrezeln (German Lye Pretzels)](../assets/images/laugenbrezeln-(german-lye-pretzels).jpg){ loading=lazy }
@@ -135,6 +138,7 @@ small children or pets.
 - Food-grade lye (also known as sodium hydroxide), available at baking shops or online
 - Long sleeves with long rubber gloves (such as for dishwashing: before wearing, blow up each glove like a balloon to
 ensure that there are no holes)
+
 - Eyeglasses or safety goggles
 - Digital scale that measures in grams
 - Rags in case of spills or drips
@@ -144,12 +148,15 @@ ensure that there are no holes)
 
 1. Cover counter with plastic wrap or large plastic bag. Put on rubber gloves, making sure no skin on your arms is
 showing. Put on eyeglasses or safety goggles.
+
 2. Measure out exactly 40 grams of lye crystals into small bowl on scale. Set aside small bowl with lye crystals. Cover
 container of lye crystals and store in safe location per package instructions.
+
 3. Place large bowl on scale. Add 1,000 grams cold water to large bowl. Add reserved 40 grams lye crystals to water and
 whisk gently to dissolve. Order of operations is important: Always add lye to water instead of adding water to lye.
 (Lye solution in bowl will heat up slightly and will give off some vapors, which are barely. noticeable, but it's not
 advisable. to put your face directly over solution.) Rinse whisk well with cool water. Remove scale.
+
 4. Set wire rack in rimmed baking sheet and place to right of lye solution. Unwrap sheet of chilled pretzels, place to
 left of lye solution, and proceed with recipe. (Clear counter while pretzels bake; see below.)
 
@@ -158,6 +165,7 @@ left of lye solution, and proceed with recipe. (Clear counter while pretzels bak
 1. Still wearing gloves and eyewear, transfer bowl of lye solution to sink.
 2. Run cold water into bowl in gentle stream to dilute solution. Pour solution down drain. Flush drain and rinse bowl
 and sink thoroughly with plenty of cold water.
+
 3. Rinse rimmed baking sheets and wire rack with plenty of cold water. Dispose of plastic wrap or plastic bag on
 counter. Rinse gloves before removing. Once gloves are off, remove eyewear.
 

@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :egg: The Food Lab Light & Fluffy Scrambled Eggs
 
 ![The Food Lab Light and Fluffy Scrambled Eggs][1]{ loading=lazy }

@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - salad
   - lunch
   - sandwich
   - favorite
 ---
+
 # :falafel: Dr. Campbell Perfect Chickpea Salad Sandwich Spread
 
 ![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg){ loading=lazy }

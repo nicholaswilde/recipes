@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - mediterranean
 ---
+
 # :stew: Vegetarian Paella
 
 ![Vegetarian Paella](../assets/images/vegetarian-paella.jpg){ loading=lazy }

@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - sugar
   - ingredient
 ---
+
 # :candy: Vanilla Sugar
 
 ![Vanilla Sugar](../assets/images/vanilla-sugar.jpg){ loading=lazy }

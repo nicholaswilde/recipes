@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - minimalist-baker
 ---
+
 # :peanuts: Peanut Butter Overnight Oats
 
 ![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg){ loading=lazy }

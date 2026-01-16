@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - pudding
   - vegan
 ---
+
 # :custard: Vegan Chocolate Pudding with Cinnamon & Chile
 
 ![Vegan Chocolate Pudding With Cinnamon and Chile][1]{ loading=lazy }

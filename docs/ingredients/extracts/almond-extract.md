@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - extract
 ---
+
 # :chestnut: Almond Extract
 
 ![Almond Extract](../../assets/images/almond-extract.png){ loading=lazy }

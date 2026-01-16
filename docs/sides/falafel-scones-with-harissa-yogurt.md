@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - trader-joes
 ---
+
 # Falafel Scones with Harissa Yogurt
 
 ![Falafel Scones with Harissa Yogurt](../assets/images/falafel-scones-with-harissa-yogurt.png){ loading=lazy }

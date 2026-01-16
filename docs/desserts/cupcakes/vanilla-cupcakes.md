@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - dessert
   - cupcake
 ---
+
 # :cupcake: Vanilla Cupcakes
 
 ![Vanilla Cupcakes](../../assets/images/vanilla-cupcakes.jpg){ loading=lazy }

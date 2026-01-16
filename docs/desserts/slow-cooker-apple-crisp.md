@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - dessert
   - slow-cooker
   - recipe-box
 ---
+
 # :apple: Slow Cooker Apple Crisp
 
 ![Slow Cooker Apple Crisp](../assets/images/slow-cooker-apple-crisp.jpg){ loading=lazy }

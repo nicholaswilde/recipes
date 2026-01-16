@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - dessert
 ---
+
 # :pie: Fruit Galette
 
 ![Fruit Galette][1]{ loading=lazy }

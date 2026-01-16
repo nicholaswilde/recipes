@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - bread
 ---
+
 # :bread: Cinnamon Streusel Bread
 
 ![Cinnamon Streusel Bread](../assets/images/cinnamon-streusel-bread.png){ loading=lazy }

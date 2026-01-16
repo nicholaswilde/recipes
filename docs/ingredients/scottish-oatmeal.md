@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - scottish
 ---
+
 # :ear_of_rice: Scottish Oatmeal
 
 ![Scottish Oatmeal][1]{ loading=lazy }

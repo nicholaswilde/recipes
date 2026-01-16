@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - side
   - minimalist-baker
 ---
+
 # :leafy_green: Miso-Glazed Bok Choy
 
 ![Miso-Glazed Bok Choy](../assets/images/miso-glazed-bok-choy.jpg){ loading=lazy }

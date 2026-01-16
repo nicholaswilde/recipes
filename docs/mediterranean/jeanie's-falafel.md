@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mediterranean
   - recipe-box
   - favorite
 ---
+
 # :falafel: Jeanie's Falafel
 
 ![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg){ loading=lazy }

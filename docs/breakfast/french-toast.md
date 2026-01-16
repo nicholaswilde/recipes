@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :bread: French Toast
 
 ![French Toast](../assets/images/french-toast.jpg){ loading=lazy }

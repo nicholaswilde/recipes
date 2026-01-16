@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
   - recipe-box
 ---
+
 # :cookie: Chocolate Scotcheroos
 
 ![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg){ loading=lazy }

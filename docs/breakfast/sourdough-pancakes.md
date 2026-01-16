@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - claire-saffitz
   - sourdough
 ---
+
 # :pancakes: Sourdough Pancakes
 
 ![Sourdough Pancakes][1]{ loading=lazy }

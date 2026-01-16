@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - cooks-illustrated
   - recipe-box
   - mediterranean
   - greek
 ---
+
 # :green_salad: Cook's Illustrated Horiatiki Salata (Greek Salad)
 
 ![Cook's Illustrated Horiatiki Salata (Greek Salad)][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - main
   - trader-joes
   - recipe-box
 ---
+
 # :ear_of_rice: Cowboy Quinoa Bake
 
 ![Cowboy Quinoa Bake](../assets/images/cowboy-quinoa-bake.png){ loading=lazy }

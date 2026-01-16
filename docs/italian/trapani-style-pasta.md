@@ -1,11 +1,13 @@
 ---
 comments: true
 tags:
+
   - italian
   - pasta
   - jamie-oliver
   - recipe-box
 ---
+
 # :spaghetti: Trapani-Style Pasta
 
 ![Trapani-Style Pasta](../assets/images/trapani-style-pasta.jpg){ loading=lazy }

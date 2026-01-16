@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - breakfast
   - gordon-ramsay
 ---
+
 # :potato: Hash Browns
 
 ![Hash Browns](../assets/images/hash-browns.jpg){ loading=lazy }

@@ -1,6 +1,7 @@
 ---
 comments: true
 tags:
+
   - snack
   - appetizer
   - vegan
@@ -8,6 +9,7 @@ tags:
   - edamame
   - hummus
 ---
+
 # :beans: Edamame Hummus
 
 ![Edamame Hummus][1]{ loading=lazy }

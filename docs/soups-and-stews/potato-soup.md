@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :potato: Potato Soup
 
 ![Potato Soup](../assets/images/potato-soup.jpg){ loading=lazy }

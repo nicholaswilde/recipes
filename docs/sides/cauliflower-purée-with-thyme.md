@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :broccoli: Cauliflower Purée with Thyme
 
 ![Cauliflower Purée with Thyme](../assets/images/cauliflower-purée-with-thyme.jpg){ loading=lazy }

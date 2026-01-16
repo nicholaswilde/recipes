@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - ingredient
 ---
+
 # :glass_of_milk: Sweetened Condensed Milk
 
 ![Sweetened Condensed Milk](../assets/images/sweetened-condensed-milk.jpg){ loading=lazy }

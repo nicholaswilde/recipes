@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - chetna-makan
   - indian
 ---
+
 # :curry: Jackfruit Curry
 
 ![Jackfruit Curry][1]{ loading=lazy }

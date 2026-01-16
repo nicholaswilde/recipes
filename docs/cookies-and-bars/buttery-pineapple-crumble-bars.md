@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bar
   - dessert
 ---
+
 # :pineapple: Buttery Pineapple Crumble Bars
 
 ![Buttery Pineapple Crumble Bars][1]{ loading=lazy }

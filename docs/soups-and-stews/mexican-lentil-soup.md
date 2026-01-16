@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - mexican
   - soup
   - recipe-box
 ---
+
 # :stew: Mexican Lentil Soup
 
 ![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.jpg){ loading=lazy }

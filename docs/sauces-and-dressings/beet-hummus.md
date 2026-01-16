@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - applied-kitchen
   - dip
 ---
+
 # :sweet_potato: Beet Hummus
 
 ![Beet Hummus](../assets/images/beet-hummus.png){ loading=lazy }

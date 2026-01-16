@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - sourdough
 ---
+
 # :microbe: Stiff Sourdough Starter
 
 ![Stiff Sourdough Starter][1]{ loading=lazy }

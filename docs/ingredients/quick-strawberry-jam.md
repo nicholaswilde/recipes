@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - dominique-ansel
   - jam
 ---
+
 # :strawberry: Quick Strawberry Jam
 
 ![Quick Strawberry Jam](../assets/images/quick-strawberry-jam.png){ loading=lazy }

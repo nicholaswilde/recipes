@@ -1,8 +1,10 @@
 ---
 comments: true
 tags:
+
   - breakfast
 ---
+
 # :ear_of_rice: Apricot Honey Oatmeal
 
 ![Apricot Honey Oatmeal][1]{ loading=lazy }

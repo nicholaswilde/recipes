@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - favorite
   - gordon-ramsay
   - side
 ---
+
 # :carrot: Honey Glazed Carrots & Parsnips
 
 ![Honey Glazed Carrots and Parsnips](../assets/images/honey-glazed-carrots-and-parsnips.jpg){ loading=lazy }

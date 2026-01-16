@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :butter: Grilled Tofu with Chimichurri Sauce
 
 ![Grilled Tofu with Chimichurri Sauce](../assets/images/grilled-tofu-with-chimichurri-sauce.png){ loading=lazy }

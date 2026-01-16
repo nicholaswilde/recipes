@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - vegetarian
   - recipe-box
 ---
+
 # :bell_pepper: Lentil and Mushroom Stuffed Peppers and Butternut Squash
 
 ![Lentil and Mushroom Stuffed Peppers and Butternut Squash][1]{ loading=lazy }

@@ -1,10 +1,12 @@
 ---
 comments: true
 tags:
+
   - side
   - whole-foods
   - cathy
 ---
+
 # :leafy_green: Maple Roasted Brussels Sprouts with Pumpkin Seeds
 
 ![Maple Roasted Brussels Sprouts with Pumpkin Seeds][1]{ loading=lazy }

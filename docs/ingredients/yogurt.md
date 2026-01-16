@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - ingredient
   - cooks-illustrated
 ---
+
 # :microbe: Yogurt
 
 ![Yogurt](../assets/images/yogurt.jpg){ loading=lazy }

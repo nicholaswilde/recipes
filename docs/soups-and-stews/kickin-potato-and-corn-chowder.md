@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - chowder
   - the-blue-zones-kitchen
 ---
+
 # :stew: Kickin Potato & Corn Chowder
 
 ![Kickin Potato and Corn Chowder][1]{ loading=lazy }

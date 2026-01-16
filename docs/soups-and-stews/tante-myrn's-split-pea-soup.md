@@ -1,8 +1,11 @@
 ---
 tags:
+
   - soups-and-stews
 comments: true
+
 ---
+
 # :green_circle: Tante Myrn's Split Pea Soup
 
 ![Tante Myrn's Split Pea Soup](../assets/images/tante-myrn's-split-pea-soup.jpg){ loading=lazy }

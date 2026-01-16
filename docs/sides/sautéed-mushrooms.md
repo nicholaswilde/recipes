@@ -1,8 +1,11 @@
 ---
 tags:
+
   - sides
 comments: true
+
 ---
+
 # :mushroom: Sautéed Mushrooms
 
 ![Sautéed Mushrooms](../assets/images/sautéed-mushrooms.jpg){ loading=lazy }

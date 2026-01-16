@@ -1,9 +1,11 @@
 ---
 comments: true
 tags:
+
   - bread
   - paul-hollywood
 ---
+
 # :croissant: Croissants
 
 ![Croissants](../assets/images/croissants.png){ loading=lazy }

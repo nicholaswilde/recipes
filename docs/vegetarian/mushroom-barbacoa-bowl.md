@@ -1,8 +1,11 @@
 ---
 tags:
+
   - vegetarian
 comments: true
+
 ---
+
 # :mushroom: Mushroom Barbacoa Bowl
 
 ![Mushroom Barbacoa Bowl](../assets/images/mushroom-barbacoa-bowl.jpg){ loading=lazy }
