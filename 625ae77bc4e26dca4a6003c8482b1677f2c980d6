@@ -1,0 +1,4 @@
+Task: Run project-wide spellcheck (task spellcheck)
+Summary: Ran task spellcheck and identified 4 typos. Added 'julia-turshen', 'kimchi', 'Kimchi', 'parm', and 'retext-spell' to dictionary.txt. Re-ran spellcheck to confirm zero issues.
+Files: dictionary.txt
+Why: To ensure no spelling errors in the documentation.
