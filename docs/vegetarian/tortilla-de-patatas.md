@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :flatbread: Tortilla de Patatas

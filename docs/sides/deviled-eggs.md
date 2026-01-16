@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :egg: Deviled Eggs

@@ -6,7 +6,7 @@ tags:
 ---
 # :bell_pepper: Fajita Veggies
 
-![Fajita Veggies](../assets/images/fajita-veggies.jpg)
+![Fajita Veggies](../assets/images/fajita-veggies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

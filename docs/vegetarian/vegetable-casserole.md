@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :shallow_pan_of_food: Vegetable Casserole

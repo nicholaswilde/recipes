@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola

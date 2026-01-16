@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :potato: Pommes Dauphine

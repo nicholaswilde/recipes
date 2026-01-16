@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :mushroom: Butter-Basted Grilled Mushrooms

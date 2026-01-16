@@ -1,4 +1,6 @@
 ---
+tags:
+  - ingredients
 comments: true
 ---
 # :tangerine: Candied Orange Peel

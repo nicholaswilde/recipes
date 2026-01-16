@@ -1,4 +1,6 @@
 ---
+tags:
+  - desserts
 comments: true
 ---
 # :candy: Montélimar Nougat

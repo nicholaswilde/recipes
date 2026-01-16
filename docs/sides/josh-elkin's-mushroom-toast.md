@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # Josh Elkin's Mushroom Toast

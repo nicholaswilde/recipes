@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # Jalapeño Corn Pudding

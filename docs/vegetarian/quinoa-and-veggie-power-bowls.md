@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :green_salad: Quinoa & Veggie Power Bowls

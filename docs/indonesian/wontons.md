@@ -6,7 +6,7 @@ tags:
 ---
 # :dumpling: Wontons
 
-![Wontons](../assets/images/wontons.jpg)
+![Wontons](../assets/images/wontons.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :broccoli: Cauliflower Purée with Thyme

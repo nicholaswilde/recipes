@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :spaghetti: Zucchini Pasta with Lentil Bolognese

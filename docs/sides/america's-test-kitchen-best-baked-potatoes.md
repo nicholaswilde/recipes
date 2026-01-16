@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :potato: America's Test Kitchen Best Baked Potatoes

@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :potato: Crispy Herbes de Provence Potatoes

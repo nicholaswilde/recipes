@@ -1,4 +1,6 @@
 ---
+tags:
+  - ingredients
 comments: true
 ---
 # :maple_leaf: Brown Sugar

@@ -1,4 +1,6 @@
 ---
+tags:
+  - soups-and-stews
 comments: true
 ---
 # :stew: Chili Colorado

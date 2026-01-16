@@ -1,4 +1,6 @@
 ---
+tags:
+  - desserts
 comments: true
 ---
 # :icecream: Vanilla Pudding

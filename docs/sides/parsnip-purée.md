@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 tag:
   - gordon-ramsay

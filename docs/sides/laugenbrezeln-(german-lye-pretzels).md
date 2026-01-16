@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :pretzel: Laugenbrezeln (German Lye Pretzels)

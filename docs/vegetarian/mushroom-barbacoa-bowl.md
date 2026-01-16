@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :mushroom: Mushroom Barbacoa Bowl

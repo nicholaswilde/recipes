@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :lemon: Lentil Meatballs with Lemon Pesto

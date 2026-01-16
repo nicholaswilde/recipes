@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Cinnamon-Spiced Shortbread
 
-![Cinnamon-Spiced Shortbread](../assets/images/cinnamon-spiced-shortbread.jpg)
+![Cinnamon-Spiced Shortbread](../assets/images/cinnamon-spiced-shortbread.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 ---
 # :cookie: Chocolate Scotcheroos
 
-![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg)
+![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :butter: Grilled Tofu with Chimichurri Sauce

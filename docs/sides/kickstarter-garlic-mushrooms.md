@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :mushroom: Kickstarter Garlic Mushrooms

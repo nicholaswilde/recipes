@@ -1,4 +1,6 @@
 ---
+tags:
+  - sides
 comments: true
 ---
 # :sweet_potato: America's Test Kitchen Best Baked Sweet Potatoes

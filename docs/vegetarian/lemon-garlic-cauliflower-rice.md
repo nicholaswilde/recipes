@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :broccoli: Lemon Garlic Cauliflower Rice

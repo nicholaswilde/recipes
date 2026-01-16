@@ -1,4 +1,6 @@
 ---
+tags:
+  - soups-and-stews
 comments: true
 ---
 # :green_circle: Split Pea Soup

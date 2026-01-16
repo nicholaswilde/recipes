@@ -1,4 +1,6 @@
 ---
+tags:
+  - vegetarian
 comments: true
 ---
 # :hamburger: Indian Spiced Lentil Burgers
