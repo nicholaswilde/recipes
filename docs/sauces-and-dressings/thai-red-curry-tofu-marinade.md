@@ -15,14 +15,14 @@ tags:
 ## :salt: Ingredients
 
 - 1 block extra firm tofu
-- 2 Tbsp Thai red curry paste
-- 1.5 Tbsp maple syrup
-- 1 Tbsp tamari
-- 1 Tbsp rice vinegar
-- 1 tsp toasted sesame oil
-- 2 large cloves garlic
-- 1 Tbsp ginger
-- 0.25 cup unsweetened nondairy milk
+- :curry: 2 Tbsp Thai red curry paste
+- :honey_pot: 1.5 Tbsp maple syrup
+- :takeout_box: 1 Tbsp tamari
+- :wine_glass: 1 Tbsp rice vinegar
+- :olive: 1 tsp toasted sesame oil
+- :garlic: 2 large cloves garlic
+- :sweet_potato: 1 Tbsp ginger
+- :glass_of_milk: 0.25 cup unsweetened nondairy milk
 
 ## :cooking: Cookware
 

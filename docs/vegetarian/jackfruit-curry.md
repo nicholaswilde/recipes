@@ -18,24 +18,24 @@ tags:
 - 1 14-oz can jackfruit
 - 1 Tbsp coriander seeds
 - 1 tsp cumin seeds
-- 0.75 inch fresh ginger
-- 4 cloves garlic
+- :sweet_potato: 0.75 inch fresh ginger
+- :garlic: 4 cloves garlic
 - 1 small green chili
-- 0.25 tsp black peppercorns
+- :salt: 0.25 tsp black peppercorns
 
 ## :salt: Ingredients - Curry
 
-- 1 Tbsp vegetable oil
+- :olive: 1 Tbsp vegetable oil
 - 1 bay leaf
 - 2 dried red chillies
 - 1 tsp cumin seeds
-- 2 medium onions
-- 2 tomatoes
-- some fingerling potatoes
-- 0.5 tsp salt
+- :onion: 2 medium onions
+- :tomato: 2 tomatoes
+- :sweet_potato: some fingerling potatoes
+- :salt: 0.5 tsp salt
 - 0.5 tsp turmeric
-- 1 tsp garam masala
-- 0.5 tsp granulated sugar
+- :curry: 1 tsp garam masala
+- :candy: 0.5 tsp granulated sugar
 
 ## :cooking: Cookware
 

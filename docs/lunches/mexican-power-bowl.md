@@ -13,38 +13,38 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.5 cups dried black beans
-- 7 cups low-sodium vegetable broth
-- 1 large onion
-- 6 cloves garlic
-- 2 tsp ground cumin
-- 1 tsp dried Mexican oregano
-- 1 tsp smoked paprika
+- :beans: 2.5 cups dried black beans
+- :potage: 7 cups low-sodium vegetable broth
+- :onion: 1 large onion
+- :garlic: 6 cloves garlic
+- :chestnut: 2 tsp ground cumin
+- :herb: 1 tsp dried Mexican oregano
+- :hot_pepper: 1 tsp smoked paprika
 - 1 bay leaf
-- 1.5 tsp salt
-- 2 Tbsp fresh lime juice
-- 5 large sweet potatoes
-- 3 Tbsp vegetable broth or water
+- :salt: 1.5 tsp salt
+- :tangerine: 2 Tbsp fresh lime juice
+- :sweet_potato: 5 large sweet potatoes
+- :potage: 3 Tbsp vegetable broth or water
 - 4 tsp chili powder
-- 1.5 tsp ground cumin
-- 1.5 tsp smoked paprika
-- 1.5 tsp garlic powder
-- 1.5 tsp dried oregano
-- 1.25 tsp salt
-- 0.25 tsp black pepper
-- 10 corn tortillas
-- 1 Tbsp lime juice
-- 0.5 tsp salt
-- 1 cup raw pepitas
-- 0.25 tsp salt
+- :chestnut: 1.5 tsp ground cumin
+- :hot_pepper: 1.5 tsp smoked paprika
+- :garlic: 1.5 tsp garlic powder
+- :herb: 1.5 tsp dried oregano
+- :salt: 1.25 tsp salt
+- :salt: 0.25 tsp black pepper
+- :bread: 10 corn tortillas
+- :tangerine: 1 Tbsp lime juice
+- :salt: 0.5 tsp salt
+- :seedling: 1 cup raw pepitas
+- :salt: 0.25 tsp salt
 - 0.25 tsp cumin
 - 8 cups spinach
-- 4 cups cooked quinoa
-- 1 cup salsa
-- 1 sliced avocado
-- 1 bunch freshly chopped cilantro
-- 1 diced red onion
-- 1 wedge of fresh lime
+- :ear_of_rice: 4 cups cooked quinoa
+- :tomato: 1 cup salsa
+- :avocado: 1 sliced avocado
+- :herb: 1 bunch freshly chopped cilantro
+- :onion: 1 diced red onion
+- :tangerine: 1 wedge of fresh lime
 
 ## :cooking: Cookware
 

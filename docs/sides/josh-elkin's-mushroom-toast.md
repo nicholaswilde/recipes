@@ -13,20 +13,20 @@ comments: true
 
 ## :salt: Ingredients
 
-- 0.25 cup Butter
-- 1 Tbsp olive oil
-- 1 cup sliced shallots
-- 2 cloves garlic
+- :butter: 0.25 cup Butter
+- :olive: 1 Tbsp olive oil
+- :garlic: 1 cup sliced shallots
+- :garlic: 2 cloves garlic
 - 2 cups porcini mushrooms
-- some salt
-- some pepper
+- :salt: some salt
+- :salt: some pepper
 - 2 Tbsp thyme
 - 4 thick slices crusty bread
 - 1 cup mascarpone cheese
-- some salt
-- some pepper
+- :salt: some salt
+- :salt: some pepper
 - 2 Tbsp thyme
-- some flaky salt
+- :salt: some flaky salt
 - 2 Tbsp Parmesan
 
 ## :cooking: Cookware

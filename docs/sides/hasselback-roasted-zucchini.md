@@ -14,16 +14,16 @@ comments: true
 ## :salt: Ingredients
 
 - 4 medium zucchini
-- 2 cup basil
-- 2 tsp capers
-- 1 tsp lemon zest
-- 3 clove garlic
-- some sea salt
-- 0.25 tsp black pepper
+- :herb: 2 cup basil
+- :olive: 2 tsp capers
+- :tangerine: 1 tsp lemon zest
+- :garlic: 3 clove garlic
+- :salt: some sea salt
+- :salt: 0.25 tsp black pepper
 - 1.5 cup whole wheat couscous
-- 0.25 cup nutritional yeast
-- 2 Tbsp [Tahini][1]
-- 3 Tbsp lemon juice
+- :cheese_wedge: 0.25 cup nutritional yeast
+- :takeout_box: 2 Tbsp [Tahini][1]
+- :tangerine: 3 Tbsp lemon juice
 
 ## :cooking: Cookware
 

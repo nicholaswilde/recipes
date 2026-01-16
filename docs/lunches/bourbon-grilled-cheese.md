@@ -14,13 +14,13 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 medium onion
-- 1 Tbsp [brown sugar][1]
-- 0.25 tsp salt
-- 0.25 tsp pepper
+- :olive: 1 Tbsp olive oil
+- :onion: 1 medium onion
+- :candy: 1 Tbsp [brown sugar][1]
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
 - 1 Tbsp Bourbon
-- 1.5 tsp butter
+- :butter: 1.5 tsp butter
 - 8 slices sourdough bread
 - 6 oz cheddar cheese
 - 6 oz Gruyère cheese

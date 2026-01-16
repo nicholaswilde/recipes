@@ -15,16 +15,16 @@ comments: true
 
 - 1 pkg firm tofu
 - 0.5 stalk celery plug leaves
-- 1 clove shallot
+- :garlic: 1 clove shallot
 - 0.25 tsp dry dill
 - 0.5 tsp fresh dill
 - 0.5 tsp turmeric
 - 1 tsp Dijon mustard
 - 2 tsp dill pickle relish
-- 0.25 tsp onion powder
-- 0.25 tsp garlic powder
+- :onion: 0.25 tsp onion powder
+- :garlic: 0.25 tsp garlic powder
 - 0.25 cup [mayonnaise][1]
-- some sea salt
+- :salt: some sea salt
 - some turmeric
 
 ## :cooking: Cookware

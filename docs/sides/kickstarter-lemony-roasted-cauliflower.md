@@ -13,12 +13,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 4 Tbsp lemon juice
-- 0.5 Tbsp tahini
+- :tangerine: 4 Tbsp lemon juice
+- :takeout_box: 0.5 Tbsp tahini
 - 0.25 tsp paprika
 - 5 cups cauliflower
-- 0.25 tsp salt
-- some pepper
+- :salt: 0.25 tsp salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 

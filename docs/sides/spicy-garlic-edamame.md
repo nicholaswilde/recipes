@@ -14,15 +14,15 @@ comments: true
 ## :salt: Ingredients
 
 - 16 oz edamame
-- 3 quarts salted water
+- :droplet: 3 quarts salted water
 - 0.5 tsp arrowroot starch
-- 1 Tbsp coconut oil
-- 2 cloves garlic
-- 1 Tbsp ginger
-- 0.5 tsp red pepper flakes
-- 1.5 Tbsp tamari
-- 1 Tbsp maple syrup
-- 0.5 tsp toasted sesame oil (optional)
+- :olive: 1 Tbsp coconut oil
+- :garlic: 2 cloves garlic
+- :sweet_potato: 1 Tbsp ginger
+- :salt: 0.5 tsp red pepper flakes
+- :takeout_box: 1.5 Tbsp tamari
+- :honey_pot: 1 Tbsp maple syrup
+- :olive: 0.5 tsp toasted sesame oil (optional)
 
 ## :cooking: Cookware
 

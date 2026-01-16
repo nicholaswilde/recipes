@@ -13,14 +13,14 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 Tbsp kosher salt
-- 0.5 tsp baking soda
-- 4 lbs Yukon gold potatoes
-- 5 Tbsp olive oil
+- :salt: 2 Tbsp kosher salt
+- :chestnut: 0.5 tsp baking soda
+- :sweet_potato: 4 lbs Yukon gold potatoes
+- :olive: 5 Tbsp olive oil
 - 1 small handful rosemary
-- 3 cloves garlic
-- some black pepper
-- 1 small handful parsley
+- :garlic: 3 cloves garlic
+- :salt: some black pepper
+- :herb: 1 small handful parsley
 
 ## :cooking: Cookware
 

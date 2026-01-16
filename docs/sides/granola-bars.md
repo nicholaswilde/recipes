@@ -14,14 +14,14 @@ comments: true
 ## :salt: Ingredients
 
 - 180 g soft dates
-- 360 ml honey
-- 60 g pecans
+- :honey_pot: 360 ml honey
+- :chestnut: 60 g pecans
 - 60 g dried apricots
 - 250 g rolled oats
-- 30 g sunflower seeds
+- :seedling: 30 g sunflower seeds
 - 120 g unsweetened desiccated coconut
 - 2 Tbsp chia seeds
-- some vegetable oil
+- :olive: some vegetable oil
 
 ## :cooking: Cookware
 

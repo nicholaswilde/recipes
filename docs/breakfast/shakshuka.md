@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 Tbsp olive oil
-- 1 red bell pepper
-- 1 medium onion
-- 4 cloves garlic
+- :olive: 2 Tbsp olive oil
+- :hot_pepper: 1 red bell pepper
+- :onion: 1 medium onion
+- :garlic: 4 cloves garlic
 - 2 tsp paprika
 - 1 tsp cumin
 - 0.25 tsp chili powder
-- 1 28-oz can whole peeled tomatoes
-- some salt
-- some pepper
+- :tomato: 1 28-oz can whole peeled tomatoes
+- :salt: some salt
+- :salt: some pepper
 - 6 large eggs
 - 1 small bunch cilantro
-- 1 small bunch parsley
+- :herb: 1 small bunch parsley
 
 ## :cooking: Cookware
 

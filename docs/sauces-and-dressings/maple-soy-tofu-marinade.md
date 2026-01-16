@@ -15,12 +15,12 @@ tags:
 ## :salt: Ingredients
 
 - 1 block extra firm tofu
-- 0.25 cup tamari
-- 3 Tbsp rice vinegar
-- 1 Tbsp maple syrup
-- 1 tsp toasted sesame oil
-- 2 large cloves garlic
-- 1 Tbsp ginger
+- :takeout_box: 0.25 cup tamari
+- :wine_glass: 3 Tbsp rice vinegar
+- :honey_pot: 1 Tbsp maple syrup
+- :olive: 1 tsp toasted sesame oil
+- :garlic: 2 large cloves garlic
+- :sweet_potato: 1 Tbsp ginger
 
 ## :cooking: Cookware
 

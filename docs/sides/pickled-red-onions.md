@@ -13,13 +13,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 small red onions
-- 2 cloves garlic
-- 1 tsp mixed peppercorns
+- :onion: 2 small red onions
+- :garlic: 2 cloves garlic
+- :salt: 1 tsp mixed peppercorns
 - 2 cups white vinegar
-- 2 cups water
-- 0.33 cup cane sugar
-- 2 Tbsp sea salt
+- :droplet: 2 cups water
+- :candy: 0.33 cup cane sugar
+- :salt: 2 Tbsp sea salt
 
 ## :cooking: Cookware
 

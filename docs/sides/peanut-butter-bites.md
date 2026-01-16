@@ -13,12 +13,12 @@ comments: true
 
 ## :salt: Ingredients
 
-- 1 cup almonds
+- :chestnut: 1 cup almonds
 - 1 tsp vanilla
 - 0.5 tsp cinnamon
 - 1 cup pitted dates
-- 0.5 cup [peanut butter][1]
-- 1 pinch salt
+- :chestnut: 0.5 cup [peanut butter][1]
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

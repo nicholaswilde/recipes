@@ -15,14 +15,14 @@ tags:
 ## :salt: Ingredients
 
 - 1 block extra firm tofu
-- 0.25 cup peanut butter
-- 1.5 Tbsp tamari
-- 1.5 Tbsp lime juice
-- 1 Tbsp rice vinegar
-- 2 tsp maple syrup
-- 2 large cloves garlic
-- 1 Tbsp ginger
-- 2 Tbsp warm water
+- :chestnut: 0.25 cup peanut butter
+- :takeout_box: 1.5 Tbsp tamari
+- :tangerine: 1.5 Tbsp lime juice
+- :wine_glass: 1 Tbsp rice vinegar
+- :honey_pot: 2 tsp maple syrup
+- :garlic: 2 large cloves garlic
+- :sweet_potato: 1 Tbsp ginger
+- :droplet: 2 Tbsp warm water
 
 ## :cooking: Cookware
 

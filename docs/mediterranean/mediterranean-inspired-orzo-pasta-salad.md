@@ -14,24 +14,24 @@ tags:
 
 ## :salt: Ingredients
 
-- 8 oz orzo
-- 0.25 cup pasta water
-- 2 Tbsp olive oil
-- 2 Tbsp lemon juice
-- 2 tsp lemon zest
-- 0.5 tsp garlic powder
-- 1 Tbsp maple syrup
-- 1 tsp Italian herbs
-- 0.5 tsp salt
-- 0.5 tsp pepper
-- 1 Tbsp nutritional yeast
-- 0.5 cup red onion
-- 1 cup cherry tomatoes
-- 0.75 cup bell pepper
-- 0.75 cup Kalamata olives
-- 0.5 cup artichoke hearts
-- 0.25 cup parsley
-- 0.25 cup basil
+- :ear_of_rice: 8 oz orzo
+- :droplet: 0.25 cup pasta water
+- :olive: 2 Tbsp olive oil
+- :tangerine: 2 Tbsp lemon juice
+- :tangerine: 2 tsp lemon zest
+- :garlic: 0.5 tsp garlic powder
+- :honey_pot: 1 Tbsp maple syrup
+- :herb: 1 tsp Italian herbs
+- :salt: 0.5 tsp salt
+- :salt: 0.5 tsp pepper
+- :cheese_wedge: 1 Tbsp nutritional yeast
+- :onion: 0.5 cup red onion
+- :tomato: 1 cup cherry tomatoes
+- :hot_pepper: 0.75 cup bell pepper
+- :olive: 0.75 cup Kalamata olives
+- :leafy_green: 0.5 cup artichoke hearts
+- :herb: 0.25 cup parsley
+- :herb: 0.25 cup basil
 
 ## :cooking: Cookware
 

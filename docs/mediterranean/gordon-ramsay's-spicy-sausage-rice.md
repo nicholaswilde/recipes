@@ -16,18 +16,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 glug olive oil
-- 1 red onion
-- 1 red pepper
-- 2 cloves garlic
+- :olive: 1 glug olive oil
+- :onion: 1 red onion
+- :salt: 1 red pepper
+- :garlic: 2 cloves garlic
 - 5 veggie Italian sausage
-- 1 tsp smoked paprika
+- :hot_pepper: 1 tsp smoked paprika
 - 200 g uncooked rice
-- 3 oz white wine
-- 2 cups vegetable stock
+- :wine_glass: 3 oz white wine
+- :potage: 2 cups vegetable stock
 - 4 scallions
-- 1 tomato
-- 1 small bunch parsley
+- :tomato: 1 tomato
+- :herb: 1 small bunch parsley
 
 ## :cooking: Cookware
 

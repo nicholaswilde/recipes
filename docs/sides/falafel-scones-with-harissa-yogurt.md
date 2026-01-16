@@ -13,17 +13,17 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup Greek yogurt
+- :baby_bottle: 1 cup Greek yogurt
 - 2 tsp harissa
 - 1 cup TJ's falafel mix
-- 1 cup flour
-- 3 Tbsp sugar
-- 4 tsp baking powder
-- 0.5 cup unsalted butter
+- :bread: 1 cup flour
+- :candy: 3 Tbsp sugar
+- :chestnut: 4 tsp baking powder
+- :butter: 0.5 cup unsalted butter
 - 2 large eggs
 - 0.5 cup heavy cream
-- 0.5 cup sun-dried tomatoes
-- 0.5 red bell pepper
+- :tomato: 0.5 cup sun-dried tomatoes
+- :hot_pepper: 0.5 red bell pepper
 
 ## :cooking: Cookware
 

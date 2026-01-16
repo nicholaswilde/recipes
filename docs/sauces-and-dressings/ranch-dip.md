@@ -13,9 +13,9 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup sour cream or plain non-fat greek yogurt
+- :baby_bottle: 1 cup sour cream or plain non-fat greek yogurt
 - 3 Tbsp [ranch dressing mix][1]
-- 0.67 cups buttermilk or water
+- :butter: 0.67 cups buttermilk or water
 
 ## :cooking: Cookware
 

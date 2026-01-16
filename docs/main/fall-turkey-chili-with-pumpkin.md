@@ -14,17 +14,17 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 bell pepper
-- 0.5 medium onions
-- 2 cloves garlic
-- 1 pkg soy crumbles
-- 1 can diced tomatoes
+- :hot_pepper: 1 bell pepper
+- :onion: 0.5 medium onions
+- :garlic: 2 cloves garlic
+- :tumbler_glass: 1 pkg soy crumbles
+- :tomato: 1 can diced tomatoes
 - 2 cans pumpkin
 - 1 can kidney beans
 - 0.5 can corn
 - 1 cup sour cream
 - 0.5 cup cheese
-- 1 avocado
+- :avocado: 1 avocado
 - 1 pkg cilantro
 
 ## :cooking: Cookware

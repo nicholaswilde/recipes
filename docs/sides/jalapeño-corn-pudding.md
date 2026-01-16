@@ -13,13 +13,13 @@ comments: true
 
 ## :salt: Ingredients
 
-- 2 Tbsp butter
+- :butter: 2 Tbsp butter
 - 1 cup milk
 - 2 eggs
-- 0.5 tsp salt
-- 2 Tbsp sugar
-- 2 Tbsp flour
-- 1 tsp baking powder
+- :salt: 0.5 tsp salt
+- :candy: 2 Tbsp sugar
+- :bread: 2 Tbsp flour
+- :chestnut: 1 tsp baking powder
 - 2 cups corn
 - 0.5 cup cheese
 - 2 Tbsp jalapeños
