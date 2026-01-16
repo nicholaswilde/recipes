@@ -12,8 +12,8 @@ Goal: Identify the scope of work and ensure tooling is ready.
 ## Phase 2: Metadata and Image Audit
 Goal: Ensure basic metadata and performance optimizations are in place.
 
-- [ ] Task: Bulk audit Markdown front matter for missing `tags` or `source`
-- [ ] Task: Ensure all recipe images in Markdown have `loading="lazy"` attribute
+- [x] Task: Bulk audit Markdown front matter for missing `tags` or `source` 0ade03e
+- [x] Task: Ensure all recipe images in Markdown have `loading="lazy"` attribute 0ade03e
 - [ ] Task: Conductor - User Manual Verification 'Metadata and Image Audit' (Protocol in workflow.md)
 
 ## Phase 3: Formatting and Emoji Standardization
