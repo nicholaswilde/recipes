@@ -17,13 +17,13 @@ tags:
 ## :salt: Ingredients
 
 - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :ear_of_rice: 3 cups quick oats
+- :ear_of_rice: 3 cups (297 g) quick oats
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :custard: 2 tsp cinnamon
 - :sweet_potato: 1 tsp ginger
 - :four_leaf_clover: 0.5 tsp cloves
-- :butter: 1 cup unsalted butter
+- :butter: 1 cup (226 g) unsalted butter
 - :maple_leaf: 1.5 cups light brown sugar
 - :candy: 0.5 cup granulated sugar
 - :egg: 2 egg whites
