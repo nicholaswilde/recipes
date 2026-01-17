@@ -16,7 +16,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups all-purpose flour
+- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
 - :ear_of_rice: 3 cups quick oats
 - :cup_with_straw: 1 tsp baking soda
 - :salt: 0.5 tsp salt
