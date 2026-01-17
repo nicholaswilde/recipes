@@ -24,7 +24,7 @@ tags:
 - :sweet_potato: 1 tsp ginger
 - :four_leaf_clover: 0.5 tsp cloves
 - :butter: 1 cup (226 g) unsalted butter
-- :maple_leaf: 1.5 cups light brown sugar
+- :maple_leaf: 1.5 cups (320 g) light brown sugar
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 egg whites
 - :chocolate_bar: 0.25 cup mini chocolate chips
