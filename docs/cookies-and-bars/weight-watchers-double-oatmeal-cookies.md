@@ -27,7 +27,7 @@ tags:
 - :maple_leaf: 1.5 cups (320 g) light brown sugar
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 egg whites
-- :chocolate_bar: 0.25 cup mini chocolate chips
+- :chocolate_bar: 0.25 cup (44 g) mini chocolate chips
 
 ## :cooking: Cookware
 
