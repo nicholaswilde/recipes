@@ -43,7 +43,7 @@ tags:
     - :butter: 0.5 cup (113 g) unsalted butter
     - :maple_leaf: 0.75 cups (160 g) light brown sugar
     - :candy: 0.25 cup (49 g) granulated sugar
-    - :egg: 21 egg white
+    - :egg: 1 egg white
     - :chocolate_bar: 0.125 cup (22 g) mini chocolate chips
 
 ## :cooking: Cookware
