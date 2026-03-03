@@ -365,6 +365,7 @@ Desserts = [
     { "Buttermilk Chess Pie" = "desserts/pie/buttermilk-chess-pie.md" },
     { "Buttermilk Pie" = "desserts/pie/buttermilk-pie.md" },
     { "Chess Pie" = "desserts/pie/chess-pie.md" },
+    { "Chocolate Cream Pie" = "desserts/pie/chocolate-cream-pie.md" },
     { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
     { "His Favorite Butterscotch Pie" = "desserts/pie/his-favorite-butterscotch-pie.md" },
     { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
