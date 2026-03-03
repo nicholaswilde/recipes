@@ -2,7 +2,7 @@
 
 This project is a personal recipe collection managed as a documentation site using Zensical. Recipes are primarily written in a custom `.cook` format and then converted to Markdown (`.md`) files, which are then served by Zensical. The site is deployed to GitHub Pages. The project uses various tools for linting, spellchecking, and link checking to maintain quality.
 
-# Main Technologies
+## Main Technologies
 
 * **Zensical:** Static site generator for documentation.
 * **Zensical Material Theme:** Provides the visual theme for the documentation site.
@@ -14,7 +14,7 @@ This project is a personal recipe collection managed as a documentation site usi
 * **GitHub Actions:** For continuous integration and deployment to GitHub Pages.
 * **Pre-commit hooks:** For enforcing code quality and formatting before commits.
 
-# Building and Running
+## Building and Running
 
 * **Install Zensical:** `task docs:deps` (uses `uv` and `pip`)
 * **Update Zensical:** `task docs:update`
@@ -22,7 +22,7 @@ This project is a personal recipe collection managed as a documentation site usi
 * **Start Cooklang server:** `task server`
 * **Deploy to GitHub Pages:** The GitHub Actions workflow `ci.yaml` automatically deploys the docs on pushes to `main` branch (paths `docs/**`, `mkdocs.**`). Manually, this would involve `zensical gh-deploy --force` after installing dependencies.
 
-# Development Conventions
+## Development Conventions
 
 * **Pre-commit hooks:**
     * `trailing-whitespace`: Removes trailing whitespace.
@@ -45,19 +45,19 @@ This project is a personal recipe collection managed as a documentation site usi
 * **Recipe Markdown Pages:** Recipe markdown pages in `docs/` should use emoji from `includes/emoji.yaml`.
 * **Recipe Markdown Format:** Recipe markdown pages should follow a consistent format, including front matter for metadata (e.g., comments, tags), a main title with an emoji, an image with `loading=lazy`, a table for serving and time information, and sections for ingredients, cookware, and instructions. Each ingredient in the ingredients section should be prefixed with an emoji shortcode from `includes/emoji.yaml`. Instructions should be numbered steps, with `!!! tip` used for additional information.
 
-# Helper Tasks
+## Helper Tasks
 
 * **Search Emojis:** `task emoji-search` (filters `includes/emoji.yaml`).
 * **List Ingredients:** `task list-ingredients` (lists all used ingredients to help with consistency).
 * **Validate Config:** `task validate` (checks `zensical.toml` syntax).
 * **Spellcheck File:** `task spellcheck-file FILE=path/to/file`.
 
-# GitHub CLI Operations
+## GitHub CLI Operations
 
 * **List Issues:** `gh issue list` (lists open issues in the repository).
 * **Filter Issues by Label:** `gh issue list --label required` (filters issues to show only those requiring action).
 
-# Recipe Import Process
+## Recipe Import Process
 
 1. **Create the `.cook` file:** Follow the specification in the [Cooklang Specification](#cooklang-specification) section.
     * **Recipe Name:** Use only the name of the recipe and use your best guess (e.g. `My Best Friends's Mom's Paprikash` -> `Paprikash`). If an existing recipe already exists with the same name, add the name of the recipe author to the new recipe name (e.g. `Paprikash` -> `Jojo's Paprikash`).
@@ -76,7 +76,7 @@ This project is a personal recipe collection managed as a documentation site usi
     * **Update Reference:** If a new conversion is found externally, add it to `docs/reference/measuring.md` for future use.
     * **Exceptions:** Ignore gram conversions for small measurements (e.g., teaspoons, tablespoons) of spices, herbs, and seasonings.
 
-# Issue Triage and Labeling
+## Issue Triage and Labeling
 
 When reviewing open issues for potential recipes:
 
@@ -86,11 +86,12 @@ When reviewing open issues for potential recipes:
 3. **Image/PDF Sources:** If the recipe is provided via an image or PDF, ensure it is tracked or processed using the "Recipe from Image" template standards.
 4. **Enhancements:** For general improvements or lists (e.g., charts), use the `enhancement` label.
 
-# Cooklang Specification
+## Cooklang Specification
 
 Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:
 
 * **Metadata:** Defined at the top of the file using `>> key: value`. Common keys include `source`, `serves`, `total time`, `time required`, `image`, and `tags`.
+    
     ```cook
     >> source: https://example.com/recipe
     >> serves: 4

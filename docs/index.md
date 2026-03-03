@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
 
-# :green_salad: Recipes :book:
+# :green_salad: Recipes :book
 
 [![ci](https://img.shields.io/github/actions/workflow/status/nicholaswilde/recipes/ci.yaml?label=ci&style=for-the-badge&branch=main)](https://github.com/nicholaswilde/recipes/actions/workflows/ci.yaml)
 [![link-check](https://img.shields.io/github/actions/workflow/status/nicholaswilde/recipes/link-check.yaml?label=link-check&style=for-the-badge&branch=main)](https://github.com/nicholaswilde/recipes/actions/workflows/link-check.yaml)

@@ -94,7 +94,8 @@ All tasks follow a strict lifecycle:
     - The plan you present to the user **must** follow this format:
 
         **For a Frontend Change:**
-        ```
+        
+        ```bash
         The automated tests have passed. For manual verification, please follow these steps:
 
         **Manual Verification Steps:**
