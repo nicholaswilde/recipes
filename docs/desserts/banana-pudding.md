@@ -95,6 +95,6 @@ When ready to serve, top with the reserved whipped cream and bananas.
 
 ## :link: Source
 
-- <https://magnolia.com/blog/recipe/d2aa51dc-e630-48f4-8581-2d1d39ddb254/banana-pudding/>
+- [Magnolia](https://web.archive.org/web/20230208025747/https://magnolia.com/blog/recipe/d2aa51dc-e630-48f4-8581-2d1d39ddb254/banana-pudding/)
 
 [1]: <../cookies-and-bars/vanilla-wafers.md>

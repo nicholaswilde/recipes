@@ -90,7 +90,7 @@ Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle 
 
 ### :link: Source
 
-- <https://magnolia.com/blog/article/12252/lemon-pie-recipe/>
+- [Magnolia](https://web.archive.org/web/20230104034648/https://magnolia.com/blog/article/12252/lemon-pie-recipe/)
 
 [1]: <../../ingredients/graham-crackers.md>
 [2]: <../../ingredients/sweetened-condensed-milk.md>

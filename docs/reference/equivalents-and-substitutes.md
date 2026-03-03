@@ -222,7 +222,7 @@ Let mixture sit for 5 minutes.
 [9]: <../ingredients/miso-nori-paste.md>
 [10]: <https://www.nigella.com/ask/substitute-for-suet>
 [11]: <../ingredients/grated-vegetable-shortening.md>
-[13]: <https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening>
+- [My Recipes](https://web.archive.org/web/20221209153903/https://www.myrecipes.com/how-to/cooking-questions/butter-instead-of-shortening)
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
 [16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>

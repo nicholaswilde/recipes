@@ -130,6 +130,7 @@ emoji:
         - wheat germ
         - cooked quinoa
         - quinoa
+        - orzo
         - brown rice
     - egg:
         - extra-large egg whites
@@ -150,6 +151,9 @@ emoji:
         - fresh basil leaves
         - fresh mint leaves
         - fresh cilantro
+        - parsley
+        - basil
+        - Italian herbs
         - bay leaves
         - dried Mexican oregano
         - freshly chopped cilantro
@@ -159,6 +163,9 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - bell pepper
+        - red bell pepper
+        - green bell pepper
         - crushed red pepper flakes
         - red-pepper flakes
         - chilli powder
@@ -171,12 +178,16 @@ emoji:
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
+        - arugula
+        - artichoke hearts
     - olive:
         - extra virgin olive oil
         - olive oil
         - vegetable oil
         - oil
         - capers
+        - Kalamata olives
+        - olives
         - neutral-tasting oil
         - toasted sesame oil
     - onion:
@@ -226,6 +237,7 @@ emoji:
         - tangerine
         - orange
         - lemon juice
+        - lemon zest
         - lime
         - fresh lime juice
         - lime juice

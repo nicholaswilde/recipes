@@ -59,7 +59,7 @@ Can be served with [buttermilk biscuits][2].
 
 ## :link: Source
 
-- <https://magnolia.com/blog/recipe/f65330af-c67f-436d-b96c-7db357d56c4b/classic-sausage-gravy/>
+- [Magnolia](https://web.archive.org/web/20230323005001/https://magnolia.com/blog/recipe/f65330af-c67f-436d-b96c-7db357d56c4b/classic-sausage-gravy/)
 
 [1]: <../ingredients/roux.md>
 [2]: <../breads/buttermilk-biscuits.md>

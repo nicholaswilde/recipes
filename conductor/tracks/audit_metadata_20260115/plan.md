@@ -49,6 +49,9 @@ Goal: Ensure the entire collection passes all quality gates.
 
 
 
-- [ ] Task: Run project-wide link check (`task linkcheck`)
+- [~] Task: Run project-wide link check (`task linkcheck`)
+
+
+
 - [ ] Task: Verify the full site build (`task docs:build`)
 - [ ] Task: Conductor - User Manual Verification 'Final Validation and Cleanup' (Protocol in workflow.md)
