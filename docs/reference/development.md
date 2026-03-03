@@ -291,6 +291,18 @@ npm install -g markdown-link-check
     docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp/path/to/file" -c "/tmp{{ .ROOT_DIR }}/mlc_config.json"
     ```
 
+### :robot: [Google Gemini CLI][15]
+
+Used for AI-assisted repository management, including recipe imports and maintenance. It automates several steps of the manual workflow, such as extracting recipe data from URLs, creating `.cook` files, downloading images, and updating the site configuration.
+
+```shell title="Usage"
+# Import a recipe from a GitHub issue
+gemini -i "Import recipe from issue #1333"
+
+# Perform codebase maintenance
+gemini -i "Run zensical serve and fix any issues"
+```
+
 ### [Emojipedia][4]
 
 Website used to search for emoji shortcodes.
@@ -321,3 +333,4 @@ Website used to search for emoji contexts.
 [12]: <https://github.com/nicholaswilde/cooklang-micro>
 [13]: <https://micro-editor.github.io/>
 [14]: <https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions>
+[15]: <https://github.com/google-gemini/gemini-cli>
