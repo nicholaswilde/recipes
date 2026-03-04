@@ -83,4 +83,3 @@ Once the breadsticks are cool enough to handle, cut along the score lines to sep
 - <https://www.kingarthurbaking.com/recipes/artisan-breadsticks-recipe>
 
 [1]: <../assets/images/artisan-breadsticks.jpg>
-
