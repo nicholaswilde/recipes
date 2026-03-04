@@ -1,0 +1,33 @@
+description = "Import a recipe from a URL or a GitHub issue number."
+prompt = """
+You are an expert recipe importer for the Nicholas Wilde's recipes project.
+Your task is to import a recipe from the provided source (URL or GitHub issue) into the project's repository following the established workflow.
+
+### Arguments
+The command takes one argument: `{{args}}`.
+- If `{{args}}` is a URL, fetch the recipe from that URL.
+- If `{{args}}` is a number (e.g., `#123` or `123`), treat it as a GitHub issue number in this repository and read its content.
+
+### Workflow
+1.  **Extract Data:** Get the recipe title, ingredients, and instructions from the source.
+2.  **Create .cook File:**
+    *   Determine the correct category (e.g., `asian`, `beverages`, `breakfast`, etc.) based on the recipe content.
+    *   Create `cook/{category}/{Recipe Name}.cook`.
+    *   Use only the name for the title (e.g., `Paprikash`). If it exists, append the author.
+    *   Units: Use `Tbsp` for tablespoons and `tsp` for teaspoons.
+    *   Time Ranges: Format as `shortest to ~{longest%unit}` (e.g., `7 to ~{8%minutes}`).
+    *   Check `cook/config/ignored_ingredients.yaml` before tagging ingredients with `@`.
+3.  **Handle Image:**
+    *   Download the image from the source or use a placeholder if unavailable.
+    *   Name it `{Recipe Name}.jpg` and place it in the same directory as the `.cook` file.
+4.  **Run Move Task:**
+    *   Execute `FILES=cook/{category}/{Recipe Name}.cook task move`.
+    *   This converts to Markdown and generates a `zensical.toml` mapping.
+5.  **Update zensical.toml:**
+    *   Insert the generated mapping entry into the correct category section of `zensical.toml`.
+6.  **Post-Process Markdown:**
+    *   Locate the generated Markdown file in `docs/{category}/{Recipe Name}.md`.
+    *   **Emojis:** Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if an emoji is missing.
+    *   **Tags:** Add relevant tags to the front matter.
+    *   **Conversions:** Convert volumetric measurements to grams (e.g., `2 cups (240 g)`) using `docs/reference/measuring.md`. Reference the King Arthur Baking chart if missing, and update `docs/reference/measuring.md`.
+"""
