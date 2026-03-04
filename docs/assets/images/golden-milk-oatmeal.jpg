@@ -1,0 +1,703 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+  
+  <script>
+  window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-PVNXRRL');
+</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <link rel="stylesheet" href="https://use.typekit.net/wlz3yjs.css">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  
+  <link rel='dns-prefetch' href='//cdn.nutritionstudies.org' /><style type="text/css" id="wpml-ls-inline-styles-additional-css">.wpml-ls-slot-29 a, .wpml-ls-slot-29 a:visited { color:#009345!important; font-weight:700!important; }</style>
+<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found - Center for Nutrition Studies</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page Not Found - Center for Nutrition Studies" />
+	<meta property="og:site_name" content="Center for Nutrition Studies" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://nutritionstudies.org/#website","url":"https://nutritionstudies.org/","name":"Center for Nutrition Studies","description":"Food. Science. Health.","publisher":{"@id":"https://nutritionstudies.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nutritionstudies.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://nutritionstudies.org/#organization","name":"T. Colin Campbell Center for Nutrition Studies","url":"https://nutritionstudies.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://nutritionstudies.org/#/schema/logo/image/","url":"https://cdn.nutritionstudies.org/wp-content/uploads/2025/04/cns-logo-symbol.png","contentUrl":"https://cdn.nutritionstudies.org/wp-content/uploads/2025/04/cns-logo-symbol.png","width":1376,"height":1377,"caption":"T. Colin Campbell Center for Nutrition Studies"},"image":{"@id":"https://nutritionstudies.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/nutritionstudies","https://x.com/tcolincampbellf","https://www.instagram.com/nutritionstudies/","https://www.linkedin.com/company/t-colin-campbell-center-for-nutrition-studies","https://www.pinterest.com/tcccns","https://www.youtube.com/user/nutritionstudies"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.nutritionstudies.org' />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.nutritionstudies.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-postratings-css' href='https://cdn.nutritionstudies.org/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.91.1' media='all' />
+<link rel='stylesheet' id='app/0-css' href='https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/css/app.2c4075.css' media='all' />
+<script src="https://cdn.nutritionstudies.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nutritionstudies.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<meta name="generator" content="WPML ver:4.7.3 stt:1,2;" />
+</head>
+
+<div class="modal fade" id="cns-newsletter-popup" data-popup="true" tabindex="-1" role="dialog" aria-labelledby="cns-newsletter-popup-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content bg-white border border-2">
+      <button type="button" class="btn-close btn-close-white p-2 bg-white rounded-circle opacity-100" data-bs-dismiss="modal" aria-label="Close"></button>
+      <div class="modal-body">
+        <div class="row mt-5">
+          <div class="col">
+            <div class="d-none d-sm-block">
+              <h1 class="position-relative z-2 d-inline-block f-geologica display-6 fw-bold bg-success text-white px-2 py-2 mb-0">Subscribe to</h1>
+              <br>
+              <h1 class="position-relative z-1 d-inline-block f-geologica display-6 fw-bold bg-success text-white px-2 py-2 mb-0 mt-n3">our newsletter!</h1>
+            </div>
+            <div class="d-block d-sm-none">
+              <h1 class="text-center position-relative z-2 d-inline-block f-geologica display-6 fw-bold bg-success text-white px-2 py-2 mb-0">Subscribe to our newsletter!</h1>
+            </div>
+            <p class="lead my-4">Stay up-to-date on the latest from the Center for Nutrition Studies!</p>
+            <form action="" method="post" id="cns-newsletter-popup-mailchimp-form" class="mailchimp-form mailchimp-form-light" data-mailchimp="true">
+  <div style="position:absolute; left:-9999px; top: -9999px;">
+    <input type="text" name="bot" autocomplete="off" tabindex="-1" aria-hidden="true" aria-label="Leave this field blank">
+  </div>
+  <input type="hidden" name="list" value="9941e1caac">
+  <input type="hidden" name="tags" value="Plant-Based Nutrition Interest">
+  <input type="hidden" name="event" value="new-newsletter-subscriber">
+  <input type="hidden" name="cookie" value="cns_newsletter_subscribed">
+  <div class="form-group mb-0">
+    <div class="input-group mb-3">
+      <label for="cns-newsletter-popup-mailchimp-form-name" class="visually-hidden">Name</label>
+      <input type="text" class="form-control form-control-lg" name="name" id="cns-newsletter-popup-mailchimp-form-name" aria-label="Name" placeholder="Name" required>
+    </div>
+        <div class="input-group mb-4">
+      <label for="cns-newsletter-popup-mailchimp-form-email" class="visually-hidden">Email</label>
+      <input type="email" class="form-control form-control-lg" name="email" id="cns-newsletter-popup-mailchimp-form-email" aria-label="Email" placeholder="Email" required>
+    </div>
+    <div class="input-group mt-4 justify-content-center">
+      <button id="cns-newsletter-popup-mailchimp-form-submit-button" class="btn btn-lg btn-rounded btn-success" type="submit" data-ga-event-trigger="click" data-ga-event-name="newsletter-list,newsletter-list-newsletter-popup"> Subscribe </button>
+    </div>
+        <div id="newsletter-food-sustainable-tagline" class="my-4">
+      <p class="mb-3">Learn more about our specialized newsletter: <span class="d-lg-inline-block"><a href="https://nutritionstudies.org/newsletter/food-for-a-sustainable-future/">Food for a Sustainable Future</a>.</span></p>
+    </div>
+      </div>
+</form>
+<div class="messages ">
+      <p class="mb-0 mailchimp-success" style="display:none;"> Thank you, your sign-up request was successful! </p>
+    <p class="mb-0 mailchimp-failure" style="display:none;"> Oops! Something went wrong, please contact newsletter@nutritionstudies.org </p>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<body data-rsssl=1 class="error404 wp-embed-responsive wp-theme-nutritionstudies">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVNXRRL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+      
+  <div id="app">
+    <header id="cns-header" class="">
+  <nav id="cns-org-menu" class="bg-success d-none d-lg-block" data-bs-theme="dark">
+    <div class="container-lg h-100">
+      <div class="row h-100">
+        <div class="col h-100">
+          <ul class="small navbar-nav flex-row justify-content-end h-100">
+            
+            <li class="d-flex flex-row me-2">
+              <form id="cns-search-form" role="search" method="get" action="https://nutritionstudies.org/">
+  <div class="input-group">
+    <label for="cns-search-input" class="visually-hidden"> Search </label>
+    
+    <input name="s" class="form-control" type="search" placeholder=" search " id="cns-search-input" value="" aria-label=" Search ">
+    <button id="cns-search-btn" class="btn btn-success" type="submit" aria-label=" Submit search ">
+      <i class="bi bi-search" aria-hidden="true"></i>
+    </button>
+  </div>
+</form>
+            </li>
+            <li class="nav-item d-flex flex-row align-items-center dropdown">
+              <a class="nav-link link-light dropdown-toggle d-flex flex-row align-items-center" href="#" id="navbarDropdown48063" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+        <div class="dropdown-menu dropdown-menu-center bg-success" aria-labelledby="navbarDropdown48063">
+          <div class="container-lg">
+            <div class="row g-0 w-100">
+              <div class="col-lg">
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/about/">About Us</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/about/dr-t-colin-campbell/">Dr. T. Colin Campbell</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/about/staff-executive-board/">Staff &#038; Executive Board</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/about/medical-advisory-board/">Medical Advisory Board</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/write-for-us/">Write For Us</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/about/contact/">Contact Us</a>
+                                  <a class="dropdown-item link-light " href="https://nutritionstudies.org/refund-policy/">Refund Policy</a>
+                              </div>
+            </div>
+          </div>
+        </div>
+        
+          </li>
+      <li class="nav-item d-flex flex-row align-items-center ">
+              <a class="nav-link d-flex flex-row align-items-center link-light" href="https://nutritionstudies.org/research/">Research <i class="ms-1 bi bi-chevron-right"></i></a>
+          </li>
+      <li class="nav-item d-flex flex-row align-items-center ">
+              <a class="nav-link d-flex flex-row align-items-center link-light" href="https://nutritionstudies.org/about/donate/">Donate <i class="ms-1 bi bi-chevron-right"></i></a>
+          </li>
+      <li class="nav-item d-flex flex-row align-items-center ">
+              <a class="nav-link d-flex flex-row align-items-center link-light" href="https://nutritionstudies.com.cn/#/index">中文 <i class="ms-1 bi bi-chevron-right"></i></a>
+          </li>
+              <li class="nav-item d-flex flex-row align-items-center "><a class="nav-link d-flex flex-row align-items-center link-light" href="https://nutritionstudies.org/es/">Español <i class="ms-1 bi bi-chevron-right"></i></a></li>          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <nav id="cns-main-menu" class="navbar navbar-expand-lg" data-bs-theme="light">
+    <div class="container-lg h-100">
+      <div id="cns-main-menu-logo">
+                <a title="T. Colin Campbell Center for Nutrition Studies" href="https://nutritionstudies.org/">
+          <img alt="T. Colin Campbell Center for Nutrition Studies" width="250" class="img-fluid d-none d-xl-block" src="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo.1f1145.png" srcset="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo.1f1145.png, https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo@2x.f3f27d.png 2x">
+          <img alt="T. Colin Campbell Center for Nutrition Studies" width="175" class="img-fluid d-block d-xl-none" src="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo.1f1145.png" srcset="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo.1f1145.png, https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo@2x.f3f27d.png 2x">
+        </a>
+              </div>
+      
+      <button class="navbar-toggler collapsed" type="button" data-bs-toggle="offcanvas-collapse-menu" aria-label=" Open main menu " aria-controls="cns-menu-collapse" aria-expanded="false">
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse offcanvas-collapse-menu p-4 p-lg-0 flex-column align-items-end" id="cns-menu-collapse">
+        <div class="d-flex d-lg-none flex-row"> <form id="cns-search-form" role="search" method="get" action="https://nutritionstudies.org/">
+  <div class="input-group">
+    <label for="cns-search-input" class="visually-hidden"> Search </label>
+    
+    <input name="s" class="form-control" type="search" placeholder=" search " id="cns-search-input" value="" aria-label=" Search ">
+    <button id="cns-search-btn" class="btn btn-success" type="submit" aria-label=" Submit search ">
+      <i class="bi bi-search" aria-hidden="true"></i>
+    </button>
+  </div>
+</form>
+ </div>
+        
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown mega-menu">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown21438" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown21438">
+            
+            <div class="row justify-content-center flex-lg-nowrap">
+              
+                                  <div class="col-lg-3 mb-3 mb-lg-0">
+    <div class="featured-courses-card-widget featured-widget-card mt-2">
+        <div class="card">
+            <a href="https://nutritionstudies.org/courses/">
+                <img width="1200" height="628" loading="lazy"  alt="Certificates and Courses" class="img-fluid" src="https://cdn.nutritionstudies.org/wp-content/uploads/2025/01/course-featured-image-cooking-course-bundle.jpg">
+            </a>
+            <div class="card-body"><a href="https://nutritionstudies.org/courses/">Browse All Programs and Courses</a></div>
+        </div>
+    </div>
+    </div>                                                                                                                                                        <div class="col-lg-auto">
+                                          <a class="dropdown-item column-2 dropdown-header" href="https://nutritionstudies.org/courses/">
+                                                  <span class="underline">Certificate Programs</span>
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/courses/plant-based-nutrition/">
+                                                  Plant-Based Nutrition
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/courses/food-and-sustainability/">
+                                                  Food &amp; Sustainability
+                                              </a>
+                                      </div>
+                                                                <div class="col-lg-auto">
+                                          <a class="dropdown-item column-3 dropdown-header" href="https://nutritionstudies.org/courses/">
+                                                  <span class="underline">Cooking Courses</span>
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/courses/wfpb-cooking-beginners/">
+                                                  Whole Food, Plant-Based Cooking: A Beginner’s Course
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/courses/wfpb-cooking-meal-planning/">
+                                                  Whole Food, Plant-Based Cooking: Meal Planning Made Easy
+                                              </a>
+                                      </div>
+                                                                <div class="col-lg-auto">
+                                          <a class="dropdown-item column-4 dropdown-header" href="https://nutritionstudies.org/classes/">
+                                                  <span class="underline">Classes</span>
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/cook-along-classes/">
+                                                  Cook Along Classes With Chef Del
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/in-depth-with-the-doctors/">
+                                                  In-Depth with the Doctors
+                                              </a>
+                                      </div>
+                                          </div>
+          </div>
+          
+                
+      
+    </li>
+      <li class="nav-item dropdown">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown43326" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Communities<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu dropdown-menu-center" aria-labelledby="navbarDropdown43326">
+            <div class="container-lg">
+              <div class="row g-0 w-100">
+                <div class="col-lg">
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/cns-kitchen/">Join CNS Kitchen</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/whole-communities/">Join Whole Communities</a>
+                                  </div>
+              </div>
+            </div>
+          </div>
+                
+      
+    </li>
+      <li class="nav-item dropdown mega-menu">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown48079" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Articles<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown48079">
+            
+            <div class="row justify-content-center flex-lg-nowrap">
+              
+                              <div class="col-lg-3 mb-3 mb-lg-0">  <div class="featured-article-card-widget featured-widget-card">
+      <a href="https://nutritionstudies.org/new-dietary-guidelines-require-radical-change/" class="pl-0 mb-2 dropdown-item dropdown-header">
+          <span class="underline">Featured Article</span>
+      </a>
+      <div class="card">
+          <a href="https://nutritionstudies.org/new-dietary-guidelines-require-radical-change/">
+              <img width="1200" height="628" loading="lazy" class="img-fluid" src="https://cdn.nutritionstudies.org/wp-content/uploads/2026/02/Article-Featured-Images-6.jpg" alt="New Dietary Guidelines Require Radical Change">
+          </a>
+          <div class="card-body">
+              <a href="https://nutritionstudies.org/new-dietary-guidelines-require-radical-change/">New Dietary Guidelines Require Radical Change</a>
+          </div>
+      </div>
+  </div></div>                                                                                                                                                        <div class="col-lg-auto">
+                                          <a class="dropdown-item column-2 dropdown-header d-none d-lg-block" href="https://nutritionstudies.org/topics/">
+                                                  <span class="underline">Articles</span>
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/topics/">
+                                                  All Topics
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/topics/disease/">
+                                                  Disease
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/topics/food-sustainability/">
+                                                  Food Sustainability
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/topics/family/">
+                                                  Family &amp; Kids
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/topics/fitness/">
+                                                  Fitness
+                                              </a>
+                                      </div>
+                                                                <div class="col-lg-auto">
+                                          <a class="dropdown-item column-3 d-none d-lg-block invisible dropdown-header" href="#">
+                                                  <span class="underline">Articles</span>
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/topics/in-the-kitchen/">
+                                                  In The Kitchen
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/topics/nutrition-science/">
+                                                  Nutrition Science
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/topics/social-issues/">
+                                                  Social Issues
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/topics/success-stories/">
+                                                  Success Stories
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/topics/wellness/">
+                                                  Wellness
+                                              </a>
+                                      </div>
+                                          </div>
+          </div>
+          
+                
+      
+    </li>
+      <li class="nav-item dropdown mega-menu">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown21436" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Recipes<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown21436">
+            
+            <div class="row justify-content-center flex-lg-nowrap">
+              
+                                <div class="col-lg-3 mb-3 mb-lg-0">
+  <div class="featured-recipe-card-widget featured-widget-card">
+      <a href="https://nutritionstudies.org/recipes/main-dish/vegan-shepherds-pie/" class="pl-0 mb-2 dropdown-item dropdown-header"><span class="underline">Featured Recipe</span></a>
+      <div class="card">
+          <a href="https://nutritionstudies.org/recipes/main-dish/vegan-shepherds-pie/"><img width="1200" height="628" loading="lazy" class="img-fluid" src="https://cdn.nutritionstudies.org/wp-content/uploads/2018/11/vegan-shepherds-pie-4-1200x628.jpg" alt="Vegan Shepherd’s Pie"></a>
+          <div class="card-body">
+              <a href="https://nutritionstudies.org/recipes/main-dish/vegan-shepherds-pie/">Vegan Shepherd’s Pie</a>
+              <footer class="recipe-card-rating"><img src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_on.gif" alt="20 votes, average: 4.50 out of 5" title="20 votes, average: 4.50 out of 5" class="post-ratings-image" /><img src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_on.gif" alt="20 votes, average: 4.50 out of 5" title="20 votes, average: 4.50 out of 5" class="post-ratings-image" /><img src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_on.gif" alt="20 votes, average: 4.50 out of 5" title="20 votes, average: 4.50 out of 5" class="post-ratings-image" /><img src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_on.gif" alt="20 votes, average: 4.50 out of 5" title="20 votes, average: 4.50 out of 5" class="post-ratings-image" /><img src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_half.gif" alt="20 votes, average: 4.50 out of 5" title="20 votes, average: 4.50 out of 5" class="post-ratings-image" /><span class="post-ratings-users">(20)</small></footer>
+          </div>
+      </div>
+  </div>
+  </div>                                                                                                                                                        <div class="col-lg-auto">
+                                          <a class="dropdown-item column-2 dropdown-header d-none d-lg-block" href="https://nutritionstudies.org/recipes/">
+                                                  <span class="underline">Recipes</span>
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/">
+                                                  All Recipes
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/appetizer/">
+                                                  Appetizers
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/beverages/">
+                                                  Beverages
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/breakfast/">
+                                                  Breakfast
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/condiments/">
+                                                  Condiments
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/dessert/">
+                                                  Desserts
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/dip-spread/">
+                                                  Dips &amp; Spreads
+                                              </a>
+                                          <a class="dropdown-item column-2" href="https://nutritionstudies.org/recipes/main-dish/">
+                                                  Main Dish
+                                              </a>
+                                      </div>
+                                                                <div class="col-lg-auto">
+                                          <a class="dropdown-item column-3 d-none d-lg-block invisible dropdown-header" href="#">
+                                                  <span class="underline">Recipes</span>
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/salad-dressing/">
+                                                  Salad Dressings
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/salad/">
+                                                  Salads
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/sauce/">
+                                                  Sauces
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/sides/">
+                                                  Side Dishes
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/snack/">
+                                                  Snacks
+                                              </a>
+                                          <a class="dropdown-item column-3" href="https://nutritionstudies.org/recipes/soup/">
+                                                  Soups
+                                              </a>
+                                      </div>
+                                                                <div class="col-lg-auto">
+                                          <a class="dropdown-item column-4 dropdown-header" href="https://nutritionstudies.org/t/cooking-tips/">
+                                                  <span class="underline">Cooking Tips</span>
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/plant-based-tips-cooking-without-oil/">
+                                                  No Oil? No Problem
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/plant-based-food-tips-healthy-recipe-substitutions/">
+                                                  Ingredient Substitutions
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/top-15-spices-plant-based-cooking/">
+                                                  Building Big Flavor
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/easy-plant-based-meal-prep-breakfast-lunch-dinner/">
+                                                  Easy Meal Prep
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/how-to-cook-with-tofu/">
+                                                  Perfect Tofu Taste &amp; Texture
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/plant-based-grilling-tips-recipes-and-gear/">
+                                                  Get Your Grill On
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/batch-cooking-and-meal-prep-tips-for-a-plant-based-kitchen/">
+                                                  Batch Cooking &amp; Meal Prep
+                                              </a>
+                                          <a class="dropdown-item column-4" href="https://nutritionstudies.org/naturally-sweet-cooking-and-baking-without-added-sugar/">
+                                                  Sweetness Without Sugar
+                                              </a>
+                                      </div>
+                                          </div>
+          </div>
+          
+                
+      
+    </li>
+      <li class="nav-item dropdown">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown42121" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu dropdown-menu-center" aria-labelledby="navbarDropdown42121">
+            <div class="container-lg">
+              <div class="row g-0 w-100">
+                <div class="col-lg">
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/whole-food-plant-based-diet-guide/">Whole Food, Plant-Based Guide</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/courses/wfpb-living-getting-started/">Free Getting Started Course</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/webinars/">Webinar Library</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/the-china-study/">The China Study</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/whole/">Whole</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/the-future-of-nutrition/">The Future of Nutrition</a>
+                                  </div>
+              </div>
+            </div>
+          </div>
+                
+      
+    </li>
+      <li class="nav-item ">
+              <a class="nav-link d-flex flex-row align-items-center" href="https://nutritionstudies.org/planetary-stewards/">Planetary Stewards <i class="ms-1 bi bi-chevron-right"></i></a>
+      
+    </li>
+      <li class="nav-item highlight">
+              <a class="nav-link d-flex flex-row align-items-center" href="https://nutritionstudies.org/events/">Events <i class="ms-1 bi bi-chevron-right"></i></a>
+      
+    </li>
+      <li class="nav-item dropdown d-inline-block d-lg-none">
+              <a class="nav-link d-flex flex-row align-items-center dropdown-toggle" href="#" id="navbarDropdown21439" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<i class="ms-1 bi bi-chevron-down"></i></a>
+        
+                  <div class="dropdown-menu dropdown-menu-center" aria-labelledby="navbarDropdown21439">
+            <div class="container-lg">
+              <div class="row g-0 w-100">
+                <div class="col-lg">
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/about/">About Us</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/about/dr-t-colin-campbell/">Dr. T. Colin Campbell</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/about/staff-executive-board/">Staff &#038; Executive Board</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/about/medical-advisory-board/">Medical Advisory Board</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/write-for-us/">Write For Us</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/about/contact/">Contact Us</a>
+                                      <a class="dropdown-item " href="https://nutritionstudies.org/refund-policy/">Refund Policy</a>
+                                  </div>
+              </div>
+            </div>
+          </div>
+                
+      
+    </li>
+      <li class="nav-item d-inline-block d-lg-none">
+              <a class="nav-link d-flex flex-row align-items-center" href="https://nutritionstudies.org/research/">Research <i class="ms-1 bi bi-chevron-right"></i></a>
+      
+    </li>
+      <li class="nav-item d-inline-block d-lg-none">
+              <a class="nav-link d-flex flex-row align-items-center" href="https://nutritionstudies.org/about/donate/">Donate <i class="ms-1 bi bi-chevron-right"></i></a>
+      
+    </li>
+      <li class="nav-item d-inline-block d-lg-none">
+              <a class="nav-link d-flex flex-row align-items-center" href="https://nutritionstudies.com.cn/#/index">中文 <i class="ms-1 bi bi-chevron-right"></i></a>
+      
+    </li>
+    
+  <li class="nav-item d-flex flex-row align-items-center d-inline-block d-lg-none ml-lg-4"><a class="nav-link d-flex flex-row align-items-center text-success" href="https://nutritionstudies.org/es/">Español <i class="ms-1 bi bi-chevron-right"></i></a></li>        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<div id="wrapper">
+  <main id="main" role="main">
+              <section id="cns-not-found" class="blade">
+    <div class="container">
+      <div class="page-header">
+  <h1>Not Found</h1>
+</div>
+          </div>
+  </section>
+  </main>
+</div>
+
+<footer id="cns-footer" class="blade text-white position-relative">
+  <div class="container">
+    <div class="row justify-content-center mt-5">
+      <div id="cns-footer-social-icons" class="social-icons col-auto text-center mb-3 mb-lg-4">
+                <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="Instagram" href="https://www.instagram.com/nutritionstudies/">
+          <i class="bi bi-instagram"></i>
+        </a>
+        <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="Facebook" href="https://www.facebook.com/nutritionstudies">
+          <i class="bi bi-facebook"></i>
+        </a>
+        <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="X" href="https://twitter.com/tcolincampbellf">
+          <i class="bi bi-twitter"></i>
+        </a>
+        <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="YouTube" href="https://www.youtube.com/user/nutritionstudies">
+          <i class="bi bi-youtube"></i>
+        </a>
+        <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="Pinterest" href="https://pinterest.com/nutritionstudies">
+          <i class="bi bi-pinterest"></i>
+        </a>
+        <a class="social-link" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" href="https://www.linkedin.com/company/t-colin-campbell-center-for-nutrition-studies">
+          <i class="bi bi-linkedin"></i>
+        </a>
+              </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-5 mb-4">
+        <h5 class="text-muted mt-4 text-center text-lg-start"> Subscribe to our newsletter. Stay up-to-date on the latest from the Center for Nutrition Studies! </h5>
+                <form action="" method="post" id="cns-newsletter-footer-mailchimp-form" class="mailchimp-form mailchimp-form-dark" data-mailchimp="true">
+  <div style="position:absolute; left:-9999px; top: -9999px;">
+    <input type="text" name="bot" autocomplete="off" tabindex="-1" aria-hidden="true" aria-label="Leave this field blank">
+  </div>
+  <input type="hidden" name="list" value="9941e1caac">
+  <input type="hidden" name="tags" value="Plant-Based Nutrition Interest">
+  <input type="hidden" name="event" value="new-newsletter-subscriber">
+  <input type="hidden" name="cookie" value="cns_newsletter_subscribed">
+  <div class="form-group mb-0">
+    <div class="input-group mb-3">
+      <label for="cns-newsletter-footer-mailchimp-form-name" class="visually-hidden">Name</label>
+      <input type="text" class="form-control form-control-lg" name="name" id="cns-newsletter-footer-mailchimp-form-name" aria-label="Name" placeholder="Name" required>
+    </div>
+        <div class="input-group mb-4">
+      <label for="cns-newsletter-footer-mailchimp-form-email" class="visually-hidden">Email</label>
+      <input type="email" class="form-control form-control-lg" name="email" id="cns-newsletter-footer-mailchimp-form-email" aria-label="Email" placeholder="Email" required>
+    </div>
+    <div class="input-group mt-4 justify-content-lg-start justify-content-center">
+      <button id="cns-newsletter-footer-mailchimp-form-submit-button" class="btn btn-lg btn-rounded btn-light" type="submit" data-ga-event-trigger="click" data-ga-event-name="newsletter-list,newsletter-list-newsletter-footer"> Subscribe </button>
+    </div>
+        <div id="newsletter-food-sustainable-tagline" class="my-4">
+      <p class="mb-3">Learn more about our specialized newsletter: <span class="d-lg-inline-block"><a href="https://nutritionstudies.org/newsletter/food-for-a-sustainable-future/">Food for a Sustainable Future</a>.</span></p>
+    </div>
+      </div>
+</form>
+<div class="messages ">
+      <p class="mb-0 mailchimp-success" style="display:none;"> Thank you, your sign-up request was successful! </p>
+    <p class="mb-0 mailchimp-failure" style="display:none;"> Oops! Something went wrong, please contact newsletter@nutritionstudies.org </p>
+</div>
+              </div>
+      <div class="col-lg">
+        <div class="row justify-content-center text-center text-lg-end">
+                                    <div class="col-lg">
+                <h5 class="text-muted mt-4">Courses</h5>
+                <ul class="list-group list-group-flush">
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/courses/">All Programs and Courses</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/courses/plant-based-nutrition/">Plant-Based Nutrition Certificate</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/courses/food-and-sustainability/">Food &#038; Sustainability Certificate</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/courses/wfpb-cooking-beginners/">WFPB Cooking: A Beginner&#039;s Course</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/courses/wfpb-cooking-meal-planning/">WFPB Cooking: Meal Planning Made Easy</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/cook-along-classes/">Cook Along Classes</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/in-depth-with-the-doctors/">In-Depth with the Doctors</a></li>
+                                  </ul>
+              </div>
+                          <div class="col-lg">
+                <h5 class="text-muted mt-4">Resources</h5>
+                <ul class="list-group list-group-flush">
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/recipes/">Recipes</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/topics/">Articles</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/whole-food-plant-based-diet-guide/">WFPB Guide</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/getting-started/">Free Getting Started Course</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/webinars/">Webinar Library</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/the-china-study/">The China Study</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/whole/">Whole</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/the-future-of-nutrition/">The Future of Nutrition</a></li>
+                                  </ul>
+              </div>
+                          <div class="col-lg">
+                <h5 class="text-muted mt-4">About</h5>
+                <ul class="list-group list-group-flush">
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/">About Us</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/events/">Events</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/dr-t-colin-campbell/">Dr. T. Colin Campbell</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/staff-executive-board/">Staff &#038; Executive Board</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/medical-advisory-board/">Medical Advisory Board</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/research/">Research</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/donate/">Donate</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/write-for-us/">Write For Us</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/about/contact/">Contact Us</a></li>
+                                      <li class="list-group-item"><a href="https://nutritionstudies.org/refund-policy/">Refund Policy</a></li>
+                                  </ul>
+              </div>
+                              </div>
+      </div>
+    </div>
+    <hr class="mt-4 mg-lg-5">
+        <div class="row">
+      <div class="col-lg-auto">
+        <a class="d-block text-center text-lg-start" href="https://nutritionstudies.org/">
+          <img alt="T. Colin Campbell Center for Nutrition Studies" width="250" id="cns-footer-logo" loading="lazy" class="img-fluid" src="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/images/cns-logo-footer.ae961d.png">
+        </a>
+      </div>
+      <div class="col-lg">
+        <div id="cns-copyright-text" class="mt-3 mt-lg-0 mb-0 text-center text-lg-end small">
+          <p class="mb-2 mb-lg-0">
+            Copyright 2026 <a href="https://nutritionstudies.org/"><strong>T. Colin Campbell Center for Nutrition Studies</strong></a>. <span class="d-inline-block">All rights reserved.</span>
+          </p>
+          <p class="mb-2 mb-lg-0">
+            <a href="https://nutritionstudies.org/privacy/">
+              <strong>Privacy Policy</strong>
+            </a>
+            <span class="mx-1">|</span>
+            <a href="https://nutritionstudies.org/terms-of-use/">
+              <strong>Terms of Use</strong>
+            </a>
+            <span class="mx-1">|</span>
+            <a href="https://nutritionstudies.org/refund-policy/">
+              <strong>Refund Policy</strong>
+            </a>
+          </p>
+        </div>
+        <div id="cns-language-text" class="mb-2 mb-lg-0 text-center text-lg-end small">
+          <p class="mb-2 mb-lg-0">
+            <a target="_blank" rel="noopener noreferrer" href="https://nutritionstudies.com.cn/#/index">
+              <strong>中文</strong>
+            </a>
+            <span class="mx-1">|</span>
+            <a class="fw-bold" href="https://nutritionstudies.org/es/">Español </a>          </p>
+        </div>
+      </div>
+    </div>
+      </div>
+</footer>
+  </div>
+
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/nutritionstudies\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--Amazon AWS CDN Plugin. Powered by WPAdmin.ca 3.0.1--><script id="wp-postratings-js-extra">
+var ratingsL10n = {"plugin_url":"https:\/\/nutritionstudies.org\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/nutritionstudies.org\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"cns","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://nutritionstudies.org/wp-content/plugins/wp-postratings/images/cns/rating_over.gif";;
+</script>
+<script src="https://cdn.nutritionstudies.org/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.91.1" id="wp-postratings-js"></script>
+<script id="app/0-js-extra">
+var cns = {"ajax_url":"https:\/\/nutritionstudies.org\/wp-admin\/admin-ajax.php","lang":"en","posts_per_page":"24","post_type":"post"};
+</script>
+<script id="app/0-js-before">
+(()=>{"use strict";var e,r,t,a={},o={};function n(e){var r=o[e];if(void 0!==r)return r.exports;var t=o[e]={exports:{}};return a[e](t,t.exports,n),t.exports}n.m=a,e=[],n.O=(r,t,a,o)=>{if(!t){var i=1/0;for(l=0;l<e.length;l++){t=e[l][0],a=e[l][1],o=e[l][2];for(var d=!0,s=0;s<t.length;s++)(!1&o||i>=o)&&Object.keys(n.O).every((e=>n.O[e](t[s])))?t.splice(s--,1):(d=!1,o<i&&(i=o));if(d){e.splice(l--,1);var u=a();void 0!==u&&(r=u)}}return r}o=o||0;for(var l=e.length;l>0&&e[l-1][2]>o;l--)e[l]=e[l-1];e[l]=[t,a,o]},n.d=(e,r)=>{for(var t in r)n.o(r,t)&&!n.o(e,t)&&Object.defineProperty(e,t,{enumerable:!0,get:r[t]})},n.f={},n.e=e=>Promise.all(Object.keys(n.f).reduce(((r,t)=>(n.f[t](e,r),r)),[])),n.u=e=>993===e?"js/bundle/vendor/993.js":684===e?"js/bundle/vendor/684.js":"js/dynamic/"+e+"."+{12:"d8fa7d",17:"411d63",60:"b9f579",63:"495aa3",72:"73f5d9",142:"f90fbe",148:"50dc8c",156:"84106b",181:"376443",204:"b137f7",211:"ea9e7a",268:"4042a0",401:"28dc31",426:"a9c8c5",445:"2a6cdc",518:"1659eb",554:"66f7ae",557:"99807f",592:"90490e",604:"ada9c9",612:"6a75b0",620:"11cc12",633:"132876",647:"86cfe8",653:"74794a",655:"791b44",670:"0e7fb3",714:"ae9848",732:"8be883",765:"3ac8f3",890:"494cd9",902:"c325ca",913:"40f98f",931:"0bc818"}[e]+".chunk.js",n.miniCssF=e=>{},n.o=(e,r)=>Object.prototype.hasOwnProperty.call(e,r),r={},t="@roots/bud/sage/sage:",n.l=(e,a,o,i)=>{if(r[e])r[e].push(a);else{var d,s;if(void 0!==o)for(var u=document.getElementsByTagName("script"),l=0;l<u.length;l++){var c=u[l];if(c.getAttribute("src")==e||c.getAttribute("data-webpack")==t+o){d=c;break}}d||(s=!0,(d=document.createElement("script")).charset="utf-8",d.timeout=120,n.nc&&d.setAttribute("nonce",n.nc),d.setAttribute("data-webpack",t+o),d.src=e),r[e]=[a];var f=(t,a)=>{d.onerror=d.onload=null,clearTimeout(b);var o=r[e];if(delete r[e],d.parentNode&&d.parentNode.removeChild(d),o&&o.forEach((e=>e(a))),t)return t(a)},b=setTimeout(f.bind(null,void 0,{type:"timeout",target:d}),12e4);d.onerror=f.bind(null,d.onerror),d.onload=f.bind(null,d.onload),s&&document.head.appendChild(d)}},n.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.p="/wp-content/themes/nutritionstudies/public/",(()=>{var e={666:0};n.f.j=(r,t)=>{var a=n.o(e,r)?e[r]:void 0;if(0!==a)if(a)t.push(a[2]);else if(/^(268|647|666)$/.test(r))e[r]=0;else{var o=new Promise(((t,o)=>a=e[r]=[t,o]));t.push(a[2]=o);var i=n.p+n.u(r),d=new Error;n.l(i,(t=>{if(n.o(e,r)&&(0!==(a=e[r])&&(e[r]=void 0),a)){var o=t&&("load"===t.type?"missing":t.type),i=t&&t.target&&t.target.src;d.message="Loading chunk "+r+" failed.\n("+o+": "+i+")",d.name="ChunkLoadError",d.type=o,d.request=i,a[1](d)}}),"chunk-"+r,r)}},n.O.j=r=>0===e[r];var r=(r,t)=>{var a,o,i=t[0],d=t[1],s=t[2],u=0;if(i.some((r=>0!==e[r]))){for(a in d)n.o(d,a)&&(n.m[a]=d[a]);if(s)var l=s(n)}for(r&&r(t);u<i.length;u++)o=i[u],n.o(e,o)&&e[o]&&e[o][0](),e[o]=0;return n.O(l)},t=self.webpackChunk_roots_bud_sage_sage=self.webpackChunk_roots_bud_sage_sage||[];t.forEach(r.bind(null,0)),t.push=r.bind(null,t.push.bind(t))})()})();
+</script>
+<script src="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/js/802.ed07bc.js" id="app/0-js"></script>
+<script src="https://cdn.nutritionstudies.org/wp-content/themes/nutritionstudies/public/js/app.d99414.js" id="app/1-js"></script>
+</body>
+
+</html>

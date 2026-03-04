@@ -17,6 +17,7 @@
 20cm
 20x50cm
 23cm
+236ºF
 25g
 2A
 2B
@@ -850,6 +851,7 @@ tartlets
 Tatin
 Tbsps
 Teff
+teff
 tempeh
 the-gracias-madre-cookbook
 the-new-york-times

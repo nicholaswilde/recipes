@@ -6,11 +6,14 @@ emoji:
         - heat-proof bowl
         - large mixing bowl
         - lightly greased bowl
+        - small bowl
+        - medium bowl
     - cookie:
         - Oreo cookies
         - baking sheet
         - rimmed baking sheet
         - loaf pans
+        - muffin tin
     - cup_with_straw:
         - heat-proof liquid measuring cup
     - gear:
@@ -19,22 +22,28 @@ emoji:
         - immersion blender
     - knife:
         - sharp knife
+        - toothpick
     - package:
         - container with a tight-fitting lid
+        - piping bag
     - page_facing_up:
         - parchment paper
         - parchment
+        - wax paper
+        - foil
     - shallow_pan_of_food:
         - medium saucepan
         - saucepan
         - large saucepan
         - large pot
         - large heavy pot
+        - heavy saucepan
     - spoon:
         - spatula
         - small offset spatula
         - wooden spoon
         - potato masher
+        - small spoon
     - wastebasket:
         - fine-mesh strainer
         - wire rack
@@ -45,6 +54,8 @@ emoji:
         - apple
         - apple sauce
         - apple cider vinegar
+        - sliced figs
+        - mangos
     - artist_palette:
         - natural food coloring
     - avocado:
@@ -82,6 +93,10 @@ emoji:
         - superfine sugar
         - powdered sugar
         - dark brown sugar
+        - golden brown sugar
+        - brown sugar
+        - instant vanilla pudding mix
+        - cinnamon sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -95,6 +110,7 @@ emoji:
     - chestnut:
         - cornstarch
         - semi-sweet chocolate
+        - dark chocolate
         - nutmeg
         - almonds
         - pine nuts
@@ -108,19 +124,25 @@ emoji:
         - baking powder
         - ground cinnamon
         - ground cumin
+        - cumin seeds
+        - ground coriander
         - star anise
         - cinnamon stick
         - raw unsalted peanuts
         - peanut butter
         - mixed nuts
+        - Medjool dates
+        - ground cloves
     - curry:
     - chocolate_bar:
         - white chocolate chips
+        - chocolate melts
     - coconut:
         - full-fat coconut milk
         - shredded coconut
     - coffee:
         - espresso beans
+        - instant coffee
     - curry:
         - ground turmeric
         - turmeric powder
@@ -137,11 +159,16 @@ emoji:
         - quinoa
         - orzo
         - brown rice
+        - rolled oats
+        - teff
     - egg:
         - extra-large egg whites
+        - egg yolk
+        - eggs
     - flower_playing_cards:
         - vanilla extract
         - pure vanilla extract
+        - vanilla
     - garlic:
         - garlic
         - shallot
@@ -152,6 +179,9 @@ emoji:
         - whole milk
         - double cream
         - unsweetened nondairy milk
+        - heavy cream
+        - heavy whipping cream
+        - plant-based milk
     - herb:
         - fresh basil leaves
         - fresh mint leaves
@@ -187,6 +217,9 @@ emoji:
         - spinach leaves
         - arugula
         - artichoke hearts
+    - melon:
+        - jackfruit
+        - pumpkin puree
     - olive:
         - extra virgin olive oil
         - olive oil
@@ -195,8 +228,9 @@ emoji:
         - capers
         - Kalamata olives
         - olives
-        - neutral-tasting oil
+        -neutral-tasting oil
         - toasted sesame oil
+        - nonstick cooking spray
     - onion:
         - onion
         - yellow onion
@@ -228,6 +262,7 @@ emoji:
         - pepitas
         - hemp seeds
         - mustard seeds
+        - nigella seeds
         - cardamom pods
     - sweet_potato:
         - ginger
