@@ -65,7 +65,7 @@ Drain, cool, and cut into quarters, removing any seeds.
 
 ### Step 7
 
-Process the oranges to a fairly fine puree in a blender or food processor (or use a meat grinder).
+Process the oranges to a fairly fine purée in a blender or food processor (or use a meat grinder).
 
 ### Step 8
 
@@ -73,11 +73,12 @@ Beat 6 eggs in a bowl until thick.
 
 ### Step 9
 
-Add 1.5 cups (126 g) ground almonds, 1 pinch salt, 1 cup (198 g) sugar, 1 teaspoon baking powder, and orange puree. Mix well.
+Add 1.5 cups (126 g) ground almonds, 1 pinch salt, 1 cup (198 g) sugar, 1 teaspoon baking powder, and orange purée. Mix well.
 
 ### Step 10
 
-Pour into the prepared cake pan and bake for 1 hour, or until the cake is firm to the touch when pressed with the tip of your finger.
+Pour into the prepared cake pan and bake for 1 hour, or until the cake is firm to the touch when pressed with the
+tip of your finger.
 
 ### Step 11
 
