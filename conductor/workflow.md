@@ -159,43 +159,26 @@ Before marking any task complete, verify:
 
 ## Development Commands
 
-**AI AGENT INSTRUCTION: This section should be adapted to the project's specific language, framework, and build tools.**
+### Building and Running
 
-### Setup
+* **Install Zensical:** `task docs:deps` (uses `uv` and `pip`)
+* **Update Zensical:** `task docs:update`
+* **Start local development server:** `task serve` (access at `http://127.0.0.1:8000`)
+* **Start Cooklang server:** `task server`
+* **Deploy to GitHub Pages:** The GitHub Actions workflow `ci.yaml` automatically deploys the docs on pushes to `main` branch (paths `docs/**`, `mkdocs.**`). Manually, this would involve `zensical gh-deploy --force` after installing dependencies.
 
-```bash
+### Helper Tasks
 
-# Example: Commands to set up the development environment (e.g., install dependencies, configure database)
+* **Search Emojis:** `task emoji-search` (filters `includes/emoji.yaml`).
+* **List Ingredients:** `task list-ingredients` (lists all used ingredients to help with consistency).
+* **Validate Config:** `task validate` (checks `zensical.toml` syntax).
+* **Spellcheck File:** `task spellcheck-file FILE=path/to/file`.
 
-# e.g., for a Node.js project: npm install
+### GitHub CLI Operations
 
-# e.g., for a Go project: go mod tidy
+* **List Issues:** `gh issue list` (lists open issues in the repository).
+* **Filter Issues by Label:** `gh issue list --label required` (filters issues to show only those requiring action).
 
-```
-
-### Daily Development
-
-```bash
-
-# Example: Commands for common daily tasks (e.g., start dev server, run tests, lint, format)
-
-# e.g., for a Node.js project: npm run dev, npm test, npm run lint
-
-# e.g., for a Go project: go run main.go, go test ./..., go fmt ./...
-
-```
-
-### Before Committing
-
-```bash
-
-# Example: Commands to run all pre-commit checks (e.g., format, lint, type check, run tests)
-
-# e.g., for a Node.js project: npm run check
-
-# e.g., for a Go project: make check (if a Makefile exists)
-
-```
 
 ## Testing Requirements
 
@@ -368,3 +351,57 @@ A task is complete when:
 - Document lessons learned
 - Optimize for user happiness
 - Keep things simple and maintainable
+
+
+## Development Conventions
+
+* **Pre-commit hooks:**
+    * `trailing-whitespace`: Removes trailing whitespace.
+    * `end-of-file-fixer`: Ensures files end with a newline.
+    * `mixed-line-ending`: Standardizes line endings.
+    * `markdownlint`: Lints Markdown files for style and consistency.
+    * `markdown-link-check`: Checks for broken links in Markdown files.
+* **Linting:**
+    * `task lint`: Runs `markdownlint` and `yamllint`.
+    * `task markdownlint`: Runs `markdownlint-cli`.
+    * `task yamllint`: Runs `yamllint`.
+* **Spellchecking:** `task spellcheck` (uses `spellchecker-cli` with `dictionary.txt`).
+* **Link Checking:** `task linkcheck` (uses `markdown-link-check`).
+* **Recipe Management:** Recipes are stored in `cook/` as `.cook` files and must be organized by category in subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`). There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
+* **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
+* **Front Matter:** Markdown files use front matter for metadata like comments and tags.
+* **Dependencies:** Python dependencies for Zensical are managed via `pip install` in the CI workflow. `spellchecker-cli` is installed globally via `npm install`.
+* **Git Commits:** If a commit addresses a GitHub issue, include the issue reference in the commit message using the `Fixes #123` syntax to automatically close the issue.
+* **Zensical Navigation:** Any removal of entries from `zensical.toml` must be confirmed by the user.
+* **Recipe Markdown Pages:** Recipe markdown pages in `docs/` should use emoji from `includes/emoji.yaml`.
+* **Recipe Markdown Format:** Recipe markdown pages should follow a consistent format, including front matter for metadata (e.g., comments, tags), a main title with an emoji, an image with `loading=lazy`, a table for serving and time information, and sections for ingredients, cookware, and instructions. Each ingredient in the ingredients section should be prefixed with an emoji shortcode from `includes/emoji.yaml`. Instructions should be numbered steps, with `!!! tip` used for additional information.
+
+## Recipe Import Process
+
+1. **Create the `.cook` file:** Follow the specification in the [Cooklang Specification](#cooklang-specification) section.
+    * **Recipe Name:** Use only the name of the recipe and use your best guess (e.g. `My Best Friends's Mom's Paprikash` -> `Paprikash`). If an existing recipe already exists with the same name, add the name of the recipe author to the new recipe name (e.g. `Paprikash` -> `Jojo's Paprikash`).
+    * **Unit Abbreviations:** When adding units to the cook recipe file, use the first upper case for tablespoon (e.g. `Tbsp`) and lowercase for teaspoon (e.g. `tsp`).
+    * **Time Ranges:** When there is a time range in the `.cook` file, put the longest time inside of a `~{}` block and keep the shortest time outside of the block. Replace the dash with a `to` and add necessary spaces (e.g. `7-8 minutes` -> `7 to ~{8%minutes}`).
+    * **Ignored Items:** Before tagging an item as an ingredient (with `@`), check `cook/config/ignored_ingredients.yaml`. If the item is listed there, do **not** tag it as an ingredient.
+2. **Add the Image:** Download an image from the source, name it the same as the cook file (e.g., `Recipe Name.jpg`), and place it in the same directory as the `.cook` file. If an image cannot be found, use the `nano banana mcp` to create a recipe image.
+3. **Run the Move Task:** Execute `FILES=<path/to/cookfile> task move`. This converts the `.cook` file to Markdown, runs spellcheck and link check, and generates the `zensical.toml` mapping entry (copying it to clipboard if possible).
+4. **Update `zensical.toml`:** Paste the mapping entry generated by the previous step into the correct section of `zensical.toml`.
+5. **Add Ingredient Emojis:** Update the generated Markdown file by adding emoji shortcodes to each item in the ingredients section (referencing `includes/emoji.yaml`). If an ingredient is missing from `includes/emoji.yaml`, use your best judgement to pick one and update `includes/emoji.yaml` with the new mapping. Ensure that the selected emoji is compatible with mkdocs-material.
+6. **Add Tags:** Generate relevant tags for the recipe and add them to the front matter of the generated Markdown file.
+7. **Volumetric to Weight Conversions:** Convert volumetric measurements to grams in the Markdown file using the following rules:
+    * **Formatting:** Place the weight in parentheses after the volume, e.g., `2 cups (240 g) all-purpose flour`.
+    * **Reference:** Use `docs/reference/measuring.md` for weight conversions.
+    * **Missing Conversions:** If a conversion is missing from the reference file, look it up on the [King Arthur Baking Ingredient Weight Chart](https://www.kingarthurbaking.com/learn/ingredient-weight-chart).
+    * **Update Reference:** If a new conversion is found externally, add it to `docs/reference/measuring.md` for future use.
+    * **Exceptions:** Ignore gram conversions for small measurements (e.g., teaspoons, tablespoons) of spices, herbs, and seasonings.
+8. **Verify the Build:** Run `zensical build` and fix any issues (e.g., broken links, linting errors) to ensure the site builds correctly.
+
+## Issue Triage and Labeling
+
+When reviewing open issues for potential recipes:
+
+1. **Check for Duplicates:** Search the codebase to see if the recipe already exists.
+    * If it exists, apply the `duplicate` label and add a comment linking to the existing `.cook` file.
+2. **New Recipes:** If the recipe is new and valid, apply the `new recipe` label.
+3. **Image/PDF Sources:** If the recipe is provided via an image or PDF, ensure it is tracked or processed using the "Recipe from Image" template standards.
+4. **Enhancements:** For general improvements or lists (e.g., charts), use the `enhancement` label.

@@ -2,6 +2,8 @@
 
 ## Vision
 
+This project is a personal recipe collection managed as a documentation site using Zensical. Recipes are primarily written in a custom `.cook` format and then converted to Markdown (`.md`) files, which are then served by Zensical. The site is deployed to GitHub Pages. The project uses various tools for linting, spellchecking, and link checking to maintain quality.
+
 To create a comprehensive, easily accessible, and visually appealing personal recipe collection using modern documentation tools. The project aims to digitize and preserve culinary knowledge while leveraging the Cooklang format for structured, machine-readable recipes.
 
 ## Goals

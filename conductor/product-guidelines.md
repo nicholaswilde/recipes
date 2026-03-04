@@ -27,3 +27,31 @@
 - **Linting:** Adhere to `markdownlint` and `yamllint` configurations.
 - **Spelling:** All content must pass the project's spellcheck process.
 - **Links:** Verify all external links using the link-check tool.
+
+
+## Cooklang Specification
+
+Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:
+
+* **Metadata:** Defined at the top of the file using `>> key: value`. Common keys include `source`, `serves`, `total time`, `time required`, `image`, and `tags`.
+
+    ```cook
+    >> source: https://example.com/recipe
+    >> serves: 4
+    >> total time: 30 minutes
+    ```
+
+* **Ingredients:** Use `@` followed by the ingredient name. If there is a quantity, use `{}`.
+    * Simple: `@salt{}`
+    * With quantity: `@water{1%cup}`
+    * With quantity (no unit): `@eggs{2}`
+    * Multi-word ingredient: `@ground beef{1%lb}`
+* **Cookware:** Use `#` followed by the cookware name.
+    * Simple: `#pan{}`
+    * Multi-word: `#frying pan{}`
+* **Timer:** Use `~` followed by the duration in `{}`.
+    * Example: `~{25%minutes}`
+* **Comments:** Use `[-` and `-]` for block comments or `--` for line comments.
+    * Example: `[- This is a comment -]`
+* **Steps:** Write instructions as natural text. Ingredients, cookware, and timers are embedded directly within the sentences.
+
