@@ -144,4 +144,3 @@ the oven, until both the bread and oven are at room temperature.
 - <https://www.kingarthurbaking.com/recipes/epis-de-ble-recipe>
 
 [1]: <../assets/images/epis-de-ble.jpg>
-

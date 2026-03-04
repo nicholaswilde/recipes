@@ -33,9 +33,11 @@ All tasks follow a strict lifecycle:
    - Rerun tests to ensure they still pass after refactoring.
 
 6. **Verify Coverage:** Run coverage reports using the project's chosen tools. For example, in a Python project, this might look like:
+
    ```bash
    pytest --cov=app --cov-report=html
    ```
+
    Target: >80% coverage for new code. The specific tools and commands will vary by language and framework.
 
 7. **Document Deviations:** If implementation differs from tech stack:
@@ -53,6 +55,7 @@ All tasks follow a strict lifecycle:
    - **Step 9.1: Get Commit Hash:** Obtain the hash of the *just-completed commit* (`git log -1 --format="%H"`).
    - **Step 9.2: Draft Note Content:** Create a detailed summary for the completed task. This should include the task name, a summary of changes, a list of all created/modified files, and the core "why" for the change.
    - **Step 9.3: Attach Note:** Use the `git notes` command to attach the summary to the commit.
+
      ```bash
 
      # The note content from the previous step is passed via the -m flag.
@@ -94,7 +97,7 @@ All tasks follow a strict lifecycle:
     - The plan you present to the user **must** follow this format:
 
         **For a Frontend Change:**
-        
+
         ```bash
         The automated tests have passed. For manual verification, please follow these steps:
 
@@ -106,6 +109,7 @@ All tasks follow a strict lifecycle:
         ```
 
         **For a Backend Change:**
+
         ```
         The automated tests have passed. For manual verification, please follow these steps:
 

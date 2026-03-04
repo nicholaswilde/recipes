@@ -415,6 +415,7 @@ glug
 gnudi
 Gnudi
 GNUDI
+Gochujang
 gordon-ramsay
 Goreng
 gracias
@@ -475,12 +476,15 @@ jose
 julia
 julia child
 julia-child
+julia-turshen
 julienned
 kabocha
 Kalamata
 kenji-lopez-alt
 Kickin
 Kickstarter
+kimchi
+Kimchi
 king-arthur
 Kir
 KitchenAid
@@ -623,6 +627,7 @@ paprikash
 Paprikash
 Parbake
 parcooked
+parm
 Parm
 Parmigiano-Reggiano
 pasilla
@@ -725,6 +730,7 @@ repo
 Reroll
 rerolled
 resolidify
+retext-spell
 Rewhisk
 Rewrap
 ribbony
@@ -753,6 +759,7 @@ Rotini
 Roussillon
 Russe
 Saba
+sabayon
 Sablé
 Saffitz
 Salata
@@ -912,9 +919,3 @@ Zeb's
 zhoug
 Zhoug
 Ziti
-Gochujang
-julia-turshen
-kimchi
-parm
-retext-spell
-Kimchi

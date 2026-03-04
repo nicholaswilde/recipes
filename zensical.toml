@@ -1161,6 +1161,7 @@ Sides = [
 [[project.nav]]
 Tarts = [
   { "Caramelized Onion, Spinach, & Sweet Potato Tart" = "vegetarian/caramelized-onion,-spinach,-and-sweet-potato-tart.md" },
+  { "Lemon Tart" = "tarts/lemon-tart.md" },
   { "Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md" },
 ]
 

@@ -75,4 +75,3 @@ Serve on their own, over rice, baked/roasted sweet potato, or with cornbread.
 - <https://minimalistbaker.com/smoky-instant-pot-black-eyed-peas-greens-vegan/>
 
 [1]: <../assets/images/black-eyed-peas-and-greens.jpg>
-

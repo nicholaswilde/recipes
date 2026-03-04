@@ -93,4 +93,3 @@ Pile on a serving plate and decorate with colored sprinkles.
 - <https://www.marcellinaincucina.com/struffoli-bakers-odyssey-challenge-38/>
 
 [1]: <../assets/images/struffoli.jpg>
-

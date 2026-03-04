@@ -81,4 +81,3 @@ beaters to get out any lumps, if needed. Spread chocolate frosting over the top 
 - <https://tastesbetterfromscratch.com/best-ever-peanut-butter-bars/>
 
 [1]: <../assets/images/best-ever-peanut-butter-bars.jpg>
-

@@ -70,4 +70,3 @@ Enjoy immediately with salads, rice (or cauliflower rice), bowls, and more. Stor
 
 - <https://minimalistbaker.com/saucy-moroccan-spiced-lentils/>
 - Recipe Box
-

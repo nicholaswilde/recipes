@@ -64,4 +64,3 @@ slurry (1 teaspoon cornstarch dissolved in 1 tablespoon water) to the saucepan f
 - <https://cookingforpeanuts.com/easy-tofu-marinade-recipes/>
 
 [1]: <../assets/images/maple-soy-tofu-marinade.jpg>
-

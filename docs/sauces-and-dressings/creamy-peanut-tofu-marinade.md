@@ -66,4 +66,3 @@ unsweetened nondairy milk, or more tamari to thin the sauce.
 - <https://cookingforpeanuts.com/easy-tofu-marinade-recipes/>
 
 [1]: <../assets/images/creamy-peanut-tofu-marinade.jpg>
-

@@ -78,4 +78,3 @@ seeds or fresh parsley (chopped).
 - <https://namelymarly.com/carrot-ginger-soup/>
 
 [1]: <../assets/images/carrot-ginger-soup.jpg>
-

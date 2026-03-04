@@ -28,8 +28,8 @@ This document summarizes key rules and best practices from the Google HTML/CSS S
 
 - **CSS Validity:** Use valid CSS.
 - **Class Naming:** Use meaningful, generic names. Separate words with a hyphen (`-`).
-  - **Good:** `.video-player`, `.site-navigation`
-  - **Bad:** `.vid`, `.red-text`
+    - **Good:** `.video-player`, `.site-navigation`
+    - **Bad:** `.vid`, `.red-text`
 - **ID Selectors:** Avoid using ID selectors for styling. Prefer class selectors.
 - **Shorthand Properties:** Use shorthand properties where possible (e.g., `padding`, `font`).
 - **`0` and Units:** Omit units for `0` values (e.g., `margin: 0;`).
@@ -43,9 +43,9 @@ This document summarizes key rules and best practices from the Google HTML/CSS S
 - **Indentation:** Indent all block content.
 - **Semicolons:** Use a semicolon after every declaration.
 - **Spacing:**
-  - Use a space after a property name's colon (`font-weight: bold;`).
-  - Use a space between the last selector and the opening brace (`.foo {`).
-  - Start a new line for each selector and declaration.
+    - Use a space after a property name's colon (`font-weight: bold;`).
+    - Use a space between the last selector and the opening brace (`.foo {`).
+    - Start a new line for each selector and declaration.
 - **Rule Separation:** Separate rules with a new line.
 - **Quotation Marks:** Use single quotes (`''`) for attribute selectors and property values (e.g., `[type='text']`).
 

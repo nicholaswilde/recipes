@@ -116,4 +116,3 @@ warm doughnuts and doughnut holes in cinnamon sugar.
 
 [1]: <../assets/images/apple-cider-doughnuts.jpg>
 [2]: <../ingredients/apple-butter.md>
-

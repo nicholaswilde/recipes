@@ -91,7 +91,7 @@ When reviewing open issues for potential recipes:
 Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:
 
 * **Metadata:** Defined at the top of the file using `>> key: value`. Common keys include `source`, `serves`, `total time`, `time required`, `image`, and `tags`.
-    
+
     ```cook
     >> source: https://example.com/recipe
     >> serves: 4

@@ -119,4 +119,3 @@ diced red onion, or a wedge of fresh lime.
 - <https://github.com/user-attachments/files/24298379/Mexican.Power.Bowl.pdf>
 
 [1]: <../assets/images/mexican-power-bowl.jpg>
-

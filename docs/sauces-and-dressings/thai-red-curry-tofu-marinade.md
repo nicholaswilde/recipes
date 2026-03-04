@@ -67,4 +67,3 @@ water) to the saucepan for a creamier sauce.
 - <https://cookingforpeanuts.com/easy-tofu-marinade-recipes/>
 
 [1]: <../assets/images/thai-red-curry-tofu-marinade.jpg>
-

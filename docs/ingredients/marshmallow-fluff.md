@@ -65,7 +65,7 @@ by hand if it becomes "flat."
 !!! tip
 
     Want to try flavored marshmallow spread? Here's some suggestions: Chocolate: add 1/4 to 1/3 cup cocoa powder during
-    the last minutes of mixing	Mint: substitute 1 teaspoon peppermint extract for the vanilla Lemon: add the zest of one
+    the last minutes of mixing    Mint: substitute 1 teaspoon peppermint extract for the vanilla Lemon: add the zest of one
     large lemon to the finished spread.
 
 !!! tip

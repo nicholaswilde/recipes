@@ -2,7 +2,7 @@
 
 tags:
 
-  - sides
+- sides
 
 ![Macaroni Salad](../assets/images/macaroni-salad.jpg){ loading=lazy }
 
