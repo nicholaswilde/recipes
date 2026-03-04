@@ -114,6 +114,7 @@ bâtard
 bavaroise
 Bavaroise
 béarnaise
+Beau
 Beccherie
 béchamel
 Béchamel
@@ -582,6 +583,7 @@ Miso-Glazed
 Mixiote
 MkDocs
 moldable
+Monde
 Montélimar
 morita
 Mornay
