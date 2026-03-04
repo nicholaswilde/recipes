@@ -186,6 +186,8 @@ emoji:
         - vanilla extract
         - pure vanilla extract
         - vanilla
+        - almond extract
+        - pure almond extract
     - garlic:
         - garlic
         - shallot
@@ -269,6 +271,7 @@ emoji:
         - freshly-cracked black pepper
         - salt
         - Kosher salt
+        - Morton kosher salt
         - black pepper
         - fleur de sel
         - pepper
@@ -278,6 +281,7 @@ emoji:
         - sunflower seeds
         - pepitas
         - hemp seeds
+        - poppy seeds
         - mustard seeds
         - nigella seeds
         - cardamom pods
@@ -296,9 +300,12 @@ emoji:
     - tangerine:
         - tangerine
         - orange
+        - orange juice
+        - freshly squeezed orange juice
         - large oranges
         - thin slices of peeled orange
         - lemon juice
+        - orange zest
         - lemon zest
         - lime
         - fresh lime juice
