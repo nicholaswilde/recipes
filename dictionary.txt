@@ -441,6 +441,7 @@ Harissa
 Hasselback
 headspace
 heat-culinary
+herbes
 Herbes
 hoisin
 Hollandaise
