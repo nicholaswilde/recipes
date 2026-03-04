@@ -31,6 +31,8 @@ emoji:
         - parchment
         - wax paper
         - foil
+    - paintbrush:
+        - pastry brush
     - shallow_pan_of_food:
         - medium saucepan
         - saucepan
@@ -38,6 +40,7 @@ emoji:
         - large pot
         - large heavy pot
         - heavy saucepan
+        - flan ring
     - spoon:
         - spatula
         - small offset spatula
@@ -56,6 +59,13 @@ emoji:
         - apple cider vinegar
         - sliced figs
         - mangos
+        - dried fruits
+        - raisins
+        - prunes
+        - apricots
+        - peaches
+        - nectarines
+        - plums
     - artist_palette:
         - natural food coloring
     - avocado:
@@ -64,6 +74,8 @@ emoji:
     - baby_bottle:
         - yogurt
         - vegan mayonnaise
+        - crème fraîche
+        - sour cream
     - beans:
         - chickpeas
         - tinned chickpeas
@@ -97,6 +109,8 @@ emoji:
         - brown sugar
         - instant vanilla pudding mix
         - cinnamon sugar
+        - crystal sugar
+        - confectioner's sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -133,6 +147,7 @@ emoji:
         - mixed nuts
         - Medjool dates
         - ground cloves
+        - ground mace
     - curry:
     - chocolate_bar:
         - white chocolate chips
@@ -302,3 +317,4 @@ emoji:
         - wine
         - red wine vinegar
         - rice vinegar
+        - dry white wine
