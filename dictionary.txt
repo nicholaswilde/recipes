@@ -435,6 +435,7 @@ Gruyère
 guajillo
 guevara
 guevara's
+Guinness
 Gulab
 habanero
 habaneros
@@ -597,6 +598,7 @@ Nasi
 Negra
 Nicoyan
 nigella
+Nigella
 Nisha
 nixtamal
 Nixtamal

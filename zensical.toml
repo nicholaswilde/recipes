@@ -332,6 +332,7 @@ Desserts = [
     { "Lemon Bundt Cake" = "desserts/cake/lemon-bundt-cake.md" },
     { "Lemon Thyme Yogurt Cake" = "desserts/cake/lemon-thyme-yogurt-cake.md" },
     { "Marble Cake" = "desserts/cake/marble-cake.md" },
+    { "Nigella Lawson's Chocolate Guinness Cake" = "desserts/cake/nigella-lawson's-chocolate-guinness-cake.md" },
     { "Olive Oil Cake" = "desserts/cake/olive-oil-cake.md" },
     { "Pineapple Upside Down Cake" = "desserts/cake/pineapple-upside-down-cake.md" },
     { "Poppy Seed Almond Cake" = "desserts/cake/poppy-seed-almond-cake.md" },
