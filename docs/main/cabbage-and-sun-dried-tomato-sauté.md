@@ -56,4 +56,4 @@ Serve with fresh fava beans with mint and scallions and [fennel and potato casso
 
 - The Blue Zones Kitchen
 
-[1]: ../vegetarian/fennel-and-potato-cassola.md
+[1]: ../main/fennel-and-potato-cassola.md

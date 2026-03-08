@@ -109,4 +109,4 @@ and cutting into slices. Serve warm or at room temperature.
 - Dessert Person
 
 [1]: <../assets/images/crispy-mushroom-galette.jpg>
-[2]: <../ingredients/pastry-dough/flakey-olive-oil-dough.md>
+[2]: <../ingredients/pastry-dough/flaky-olive-oil-dough.md>

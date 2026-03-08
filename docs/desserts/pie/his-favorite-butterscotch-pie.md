@@ -193,4 +193,4 @@ Serve.
 
 ## :link: Source
 
-- <https://cookingprofessionally.com/recipe/his-favorite-butterscotch-pie>
+- <https://web.archive.org/web/20230206173111/https://cookingprofessionally.com/recipe/his-favorite-butterscotch-pie>

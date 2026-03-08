@@ -379,7 +379,7 @@ A task is complete when:
 1. **Find/Scrape the Recipe:**
     - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed.
     - Use `manage_recipes(action='format', format_type='cooklang', urls=[...])` to generate the initial `.cook` file content from a URL.
-    - **Validation:** Verify the output matches the [Cooklang Specification](#cooklang-specification) section.
+    - **Validation:** Verify the output matches the [Cooklang Specification](./product-guidelines.md#cooklang-specification) section.
     - **Recipe Name:** Use only the name of the recipe and use your best guess (e.g. `My Best Friends's Mom's Paprikash` -> `Paprikash`). If an existing recipe already exists with the same name, add the name of the recipe author to the new recipe name (e.g. `Paprikash` -> `Jojo's Paprikash`).
     - **Unit Abbreviations:** When adding units to the cook recipe file, use the first upper case for tablespoon (e.g. `Tbsp`) and lowercase for teaspoon (e.g. `tsp`).
     - **Time Ranges:** When there is a time range in the `.cook` file, put the longest time inside of a `~{}` block and keep the shortest time outside of the block. Replace the dash with a `to` and add necessary spaces (e.g. `7-8 minutes` -> `7 to ~{8%minutes}`).

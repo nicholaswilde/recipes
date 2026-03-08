@@ -51,4 +51,4 @@ Scrape the ice cream into a storage container and place back in the freezer.
 ## :link: Sources
 
 - <https://www.youtube.com/watch?v=ZkZAQ2QLr7Q>
-- <https://greatist.com/eat/make-easy-ice-cream-in-a-food-processor>
+- <https://web.archive.org/web/20230930231817/https://greatist.com/eat/make-easy-ice-cream-in-a-food-processor>

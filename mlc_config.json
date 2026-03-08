@@ -56,6 +56,9 @@
       },
       {
         "pattern": "^https://www.cleveland.com/cooking/2017/12/olive_oil_cake_from_americas_t.html"
+      },
+      {
+        "pattern": "^https://www.tasteofhome.com/"
       }
   ],
   "aliveStatusCodes": [200, 206, 403, 429, 405, 520]

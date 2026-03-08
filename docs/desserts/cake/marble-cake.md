@@ -166,7 +166,7 @@ consistency is achieved.
 
 ## :link: Sources
 
-- <https://cleobuttera.com/cakes/moist-and-tender-marble-cake/>
+- <https://web.archive.org/web/20230331053706/https://cleobuttera.com/cakes/moist-and-tender-marble-cake/>
 - <https://www.thepancakeprincess.com/best-marble-cake-bake-off/>
 
 [1]: <../../assets/images/marble-cake.jpg>

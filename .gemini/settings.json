@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "recipes": {
+        "command": "recipes-mcp-rs",
+        "trust": true
+    }
+  }
+}

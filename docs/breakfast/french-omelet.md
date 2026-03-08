@@ -105,4 +105,4 @@ sautéed zucchini or asparagus tips.
 
 - Joy of Cooking
 
-[1]: <../vegetarian/ratatouille-provençale.md>
+[1]: <../main/ratatouille-provençale.md>
