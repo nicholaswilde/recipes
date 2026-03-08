@@ -13,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 zucchini
-- 1 large onion
-- 2 large bell pepper
-- 2 carrots
-- 1 Italian eggplant
-- 0.5 cup olive oil
-- some Salt
-- some pepper
-- 1 bunch parsley
-- 1 sprig thyme
-- 5 basil leaves
-- 3 bay leaves
+- :cucumber: 1 zucchini
+- :onion: 1 large onion
+- :hot_pepper: 2 large bell pepper
+- :carrot: 2 carrots
+- :eggplant: 1 Italian eggplant
+- :olive: 0.5 cup (100 g) olive oil
+- :salt: some salt
+- :salt: some pepper
+- :herb: 1 bunch parsley
+- :herb: 1 sprig thyme
+- :herb: 5 basil leaves
+- :herb: 3 bay leaves
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 large roasting pan
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 large roasting pan
 
 ## :pencil: Instructions
 

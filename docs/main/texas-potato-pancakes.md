@@ -13,24 +13,24 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 lbs russet potatoes
-- 0.5 cup all-purpose flour
-- 2 large eggs
-- 0.33 cup onion
-- some salt
-- 1.25 cups vegetable oil
-- some sour cream
-- some applesauce
+- :sweet_potato: 2 lbs russet potatoes
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :egg: 2 large [eggs][2]
+- :onion: 0.33 cup (45 g) onion
+- :salt: some salt
+- :olive: 1.25 cups (250 g) vegetable oil
+- :baby_bottle: some sour cream
+- :apple: some applesauce
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
-- 1 large plate
-- 1 paper towels
-- 1 clean dish towel
-- 1 large bowl
-- 1 12-inch skillet
-- 1 spatulas
+- :cookie: 1 rimmed baking sheet
+- :bowl_with_spoon: 1 large plate
+- :page_facing_up: 1 paper towels
+- :page_facing_up: 1 clean dish towel
+- :bowl_with_spoon: 1 large bowl
+- :shallow_pan_of_food: 1 12-inch skillet
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 
@@ -72,4 +72,5 @@ sour cream and applesauce separately.
 - <https://www.cookscountry.com/recipes/10040-texas-potato-pancakes>
 
 [1]: <../assets/images/texas-potato-pancakes.jpg>
+[2]: <../ingredients/eggs.md>
 

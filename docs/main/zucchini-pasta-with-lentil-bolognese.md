@@ -13,25 +13,25 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 medium shallot
-- 4 cloves garlic
-- 3 medium carrots
-- 1 pinch salt
-- 26 oz marinara sauce
-- 1 pinch red pepper flake
-- 1 tsp basil
-- 1 tsp oregano
-- 1 Tbsp coconut sugar
-- 0.5 cup water
-- 0.75 cup red lentils
-- 2 medium zucchini
-- some Vegan Parmesan Cheese (optional)
+- :olive: 1 Tbsp olive oil
+- :garlic: 1 medium shallot
+- :garlic: 4 cloves garlic
+- :carrot: 3 medium carrots
+- :salt: 1 pinch salt
+- :tomato: 26 oz marinara sauce
+- :hot_pepper: 1 pinch red pepper flake
+- :herb: 1 tsp basil
+- :herb: 1 tsp oregano
+- :candy: 1 Tbsp coconut sugar
+- :droplet: 0.5 cup (115 g) water
+- :beans: 0.75 cup (155 g) [red lentils][2]
+- :cucumber: 2 medium zucchini
+- :cheese_wedge: some [vegan Parmesan cheese][3] (optional)
 
 ## :cooking: Cookware
 
-- 1 large rimmed skillet
-- 1 mandolin or vegetable
+- :shallow_pan_of_food: 1 large rimmed skillet
+- :knife: 1 mandolin or vegetable peeler
 
 ## :pencil: Instructions
 
@@ -74,4 +74,6 @@ Sauce will keep in the refrigerator up to 3 days or in the freezer 1 month.
 - <https://minimalistbaker.com/zucchini-pasta-with-lentil-bolognese/#wprm-recipe-container-35207>
 
 [1]: <../assets/images/zucchini-pasta-with-lentil-bolognese.jpg>
+[2]: <../ingredients/red-lentils.md>
+[3]: <../ingredients/vegan-parmesan.md>
 

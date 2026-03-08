@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup brown rice
-- 1 cup raw walnuts
-- 0.5 Tbsp oil
-- 0.5 medium white onion
-- some salt
-- some pepper
-- 0.5 tsp chili powder
-- 1 Tbsp cumin
-- 1 Tbsp smoked paprika
-- 0.5 tsp salt
-- 0.5 tsp pepper
-- 1 Tbsp brown sugar
-- 1.5 cups dried black beans
-- 0.33 cup panko bread crumbs
-- 4 Tbsp BBQ sauce
-- 1 flax egg
+- :ear_of_rice: 1 cup (170 g) cooked [brown rice][2]
+- :chestnut: 1 cup (113 g) raw walnuts
+- :olive: 0.5 Tbsp oil
+- :onion: 0.5 medium white onion
+- :salt: some salt
+- :salt: some pepper
+- :hot_pepper: 0.5 tsp chili powder
+- :chestnut: 1 Tbsp cumin
+- :hot_pepper: 1 Tbsp smoked paprika
+- :salt: 0.5 tsp salt
+- :salt: 0.5 tsp pepper
+- :candy: 1 Tbsp brown sugar
+- :beans: 1.5 cups (260 g) dried black beans
+- :bread: 0.33 cup (65 g) panko bread crumbs
+- :hot_springs: 4 Tbsp BBQ sauce
+- :seedling: 1 [flax egg][3]
 
 ## :cooking: Cookware
 
-- 1 blender or food processor
-- 1 large mixing bowl
+- :gear: 1 blender or food processor
+- :bowl_with_spoon: 1 large mixing bowl
 
 ## :pencil: Instructions
 
@@ -106,4 +106,6 @@ Serve burgers as is, or on toasted buns with desired toppings. Leftovers keep in
 - <https://minimalistbaker.com/easy-grillable-veggie-burgers/>
 
 [1]: <../assets/images/veggie-burgers.jpg>
+[2]: <../ingredients/brown-rice.md>
+[3]: <../ingredients/flax-egg.md>
 

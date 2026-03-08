@@ -13,35 +13,35 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 Tbsp nutritional yeast
-- 1 Tbsp vegan butter
-- 1 Tbsp soy sauce
-- 1 block (14 oz) extra-firm tofu
-- 1 Tbsp vegan butter
-- 1 small yellow onion
-- 3 cloves garlic
-- 16 oz button mushrooms
-- 0.75 cup vegetable broth
-- 3 Tbsp cornstarch
-- 0.5 cup breadcrumbs
-- 0.75 tsp salt
-- 0.5 tsp smoked paprika
-- 0.5 tsp dried thyme
-- 0.25 tsp black pepper
-- 0.25 tsp dried sage
-- 0.13 tsp ground cloves
-- 1 pkg double pie crust
-- some aquafaba
-- some plant milk
+- :cheese_wedge: 2 Tbsp nutritional yeast
+- :butter: 1 Tbsp vegan butter
+- :takeout_box: 1 Tbsp [soy sauce][2]
+- :cheese_wedge: 1 block (14 oz) extra-firm tofu
+- :butter: 1 Tbsp vegan butter
+- :onion: 1 small yellow onion
+- :garlic: 3 cloves garlic
+- :mushroom: 16 oz button mushrooms
+- :stew: 0.75 cup (170 g) [vegetable broth][3]
+- :chestnut: 3 Tbsp cornstarch
+- :bread: 0.5 cup (57 g) breadcrumbs
+- :salt: 0.75 tsp salt
+- :hot_pepper: 0.5 tsp smoked paprika
+- :herb: 0.5 tsp dried thyme
+- :salt: 0.25 tsp black pepper
+- :herb: 0.25 tsp dried sage
+- :chestnut: 0.13 tsp ground cloves
+- :bread: 1 pkg double [pie crust][4]
+- :baby_bottle: some aquafaba
+- :glass_of_milk: some plant milk
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper
-- 1 large bowl
-- 1 large skillet
-- 1 small jar
-- 1 9-inch pie plate
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
+- :shallow_pan_of_food: 1 large skillet
+- :package: 1 small jar
+- :shallow_pan_of_food: 1 9-inch pie plate
 
 ## :pencil: Instructions
 
@@ -108,4 +108,7 @@ Let pie rest for at least 10 minutes before slicing to allow filling to set.
 - <https://itdoesnttastelikechicken.com/vegan-tourtiere-vegan-meat-pie/>
 
 [1]: <../assets/images/vegan-tourtiere.jpg>
+[2]: <../ingredients/soy-sauce.md>
+[3]: <../ingredients/vegetable-broth.md>
+[4]: <../ingredients/pastry-dough/double-pie-crust.md>
 

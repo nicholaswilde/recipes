@@ -13,22 +13,22 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 pkg TJ's Mini Pearl Grape Tomatoes
-- 4 Tbsp olive oil
-- some salt
-- some pepper
-- 5 cloves garlic
-- 1 bag TJ's kale
-- 1 pkg TJ's Penne Rigate
-- 1 can TJ's Giant Baked Beans in Tomato Sauce
-- some Parmesan (optional)
+- :tomato: 1 pkg TJ's Mini Pearl Grape Tomatoes
+- :olive: 4 Tbsp olive oil
+- :salt: some salt
+- :salt: some pepper
+- :garlic: 5 cloves garlic
+- :leafy_green: 1 bag TJ's kale
+- :ear_of_rice: 1 pkg TJ's Penne Rigate
+- :beans: 1 can TJ's Giant Baked Beans in Tomato Sauce
+- :cheese_wedge: some [Parmesan cheese][2] (optional)
 
 ## :cooking: Cookware
 
-- 1 large pot
-- 1 medium-sized bowl
-- 1 baking tray
-- 1 large Dutch oven
+- :shallow_pan_of_food: 1 large pot
+- :bowl_with_spoon: 1 medium-sized bowl
+- :cookie: 1 baking tray
+- :shallow_pan_of_food: 1 large Dutch oven
 
 ## :pencil: Instructions
 
@@ -66,4 +66,5 @@ then mix and serve topped with grated Parmesan (optional) cheese.
 - <https://www.traderjoes.com/home/recipes/vegan-giant-bean-kale-penne>
 
 [1]: <../assets/images/vegan-giant-bean-&-kale-penne.png>
+[2]: <../ingredients/parmesan.md>
 

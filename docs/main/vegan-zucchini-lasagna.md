@@ -13,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 cups raw macadamia nuts or soaked blanched almonds
-- 2 Tbsp Nutritional yeast
-- 0.5 cup basil
-- 2 tsp oregano
-- 1 lemon
-- 1 olive oil (optional)
-- 1 tsp salt
-- 1 pinch pepper
-- 0.5 cup water
-- 0.25 cup vegan Parmesan cheese (optional)
-- 1 28-oz jar marinara sauce
-- 3 medium zucchini
+- :chestnut: 3 cups (450 g) raw macadamia nuts or soaked blanched almonds
+- :cheese_wedge: 2 Tbsp nutritional yeast
+- :herb: 0.5 cup (20 g) fresh basil
+- :herb: 2 tsp oregano
+- :tangerine: 1 lemon
+- :olive: 1 Tbsp olive oil (optional)
+- :salt: 1 tsp salt
+- :salt: 1 pinch pepper
+- :droplet: 0.5 cup (115 g) water
+- :cheese_wedge: 0.25 cup (25 g) [vegan Parmesan cheese][2] (optional)
+- :tomato: 1 28-oz jar marinara sauce
+- :cucumber: 3 medium zucchini
 
 ## :cooking: Cookware
 
-- 1 food processor or blender
-- 1 mandolin
+- :gear: 1 food processor or blender
+- :knife: 1 mandolin
 
 ## :pencil: Instructions
 
@@ -93,4 +93,5 @@ refrigerator, or in the freezer up to 1 month.
 - <https://minimalistbaker.com/8-ingredient-zucchini-lasagna-gf/>
 
 [1]: <../assets/images/vegan-zucchini-lasagna.jpg>
+[2]: <../ingredients/vegan-parmesan.md>
 

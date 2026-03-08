@@ -13,31 +13,31 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 Tbsp olive oil
-- 1 large white or yellow onion
-- some salt
-- some pepper
-- 1 lb carrots
-- 30 g all-purpose flour
-- 0.5 cup dry white wine (optional)
-- 3 cups vegetable broth
-- 1 tsp dry thyme
-- 1 15-oz can white beans
-- 180 g all-purpose flour
-- 0.25 tsp salt
-- 10 Tbsp vegan butter or coconut oil
-- 7 Tbsp ice cold water
+- :olive: 2 Tbsp olive oil
+- :onion: 1 large white or yellow onion
+- :salt: some salt
+- :salt: some pepper
+- :carrot: 1 lb carrots
+- :bread: 30 g all-purpose flour
+- :wine_glass: 0.5 cup (115 g) dry white wine (optional)
+- :stew: 3 cups (680 g) [vegetable broth][2]
+- :herb: 1 tsp dry thyme
+- :beans: 1 15-oz can white beans
+- :bread: 180 g all-purpose flour
+- :salt: 0.25 tsp salt
+- :butter: 10 Tbsp vegan butter or coconut oil
+- :droplet: 7 Tbsp ice cold water
 
 ## :cooking: Cookware
 
-- 1 ramekins
-- 1 baking sheet
-- 1 large pot
-- 1 mixing bowl
-- 1 pastry cutter or fork
-- 1 wooden spoon
-- 1 pizza cutter or knife
-- 1 spatula
+- :shallow_pan_of_food: 1 ramekins
+- :cookie: 1 baking sheet
+- :shallow_pan_of_food: 1 large pot
+- :bowl_with_spoon: 1 mixing bowl
+- :knife: 1 pastry cutter or fork
+- :spoon: 1 wooden spoon
+- :knife: 1 pizza cutter or knife
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 
@@ -121,4 +121,5 @@ Store leftovers covered in the refrigerator for 3 to 4 days, or in the freezer u
 - <https://minimalistbaker.com/thyme-white-bean-pot-pies/#wprm-recipe-container-35425>
 
 [1]: <../assets/images/thyme-and-white-bean-pot-pies.jpg>
+[2]: <../ingredients/vegetable-broth.md>
 

@@ -13,30 +13,30 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.5 cup unsalted butter
-- 1 medium onion
-- 4 cloves garlic
-- 1.5 cups carrots
-- 1.5 cups potatoes
-- 1 cup celery
-- 0.25 cup all-purpose flour
-- 1.5 tsp fresh thyme
-- 1.5 tsp fresh rosemary
-- 1 tsp salt
-- 0.5 tsp pepper
-- 2 cups vegetable broth
-- 1 cup frozen peas
-- 2 Tbsp parsley
-- 0.25 cup heavy cream
-- some pie crust
-- 1 medium egg
-- 1 Tbsp water
+- :butter: 0.5 cup (113 g) unsalted butter
+- :onion: 1 medium onion
+- :garlic: 4 cloves garlic
+- :carrot: 1.5 cups (210 g) carrots
+- :sweet_potato: 1.5 cups (235 g) potatoes
+- :leafy_green: 1 cup (142 g) celery
+- :bread: 0.25 cup (30 g) all-purpose flour
+- :herb: 1.5 tsp fresh thyme
+- :herb: 1.5 tsp fresh rosemary
+- :salt: 1 tsp salt
+- :salt: 0.5 tsp pepper
+- :stew: 2 cups (455 g) [vegetable broth][2]
+- :beans: 1 cup (150 g) frozen peas
+- :herb: 2 Tbsp parsley
+- :glass_of_milk: 0.25 cup (60 g) heavy cream
+- :bread: some [pie crust][3]
+- :egg: 1 medium [egg][4]
+- :droplet: 1 Tbsp water
 
 ## :cooking: Cookware
 
-- 1 large sauté pan
-- 1 pie pan
-- 1 fork
+- :shallow_pan_of_food: 1 large sauté pan
+- :shallow_pan_of_food: 1 pie pan
+- :knife: 1 fork
 
 ## :pencil: Instructions
 
@@ -106,4 +106,7 @@ Once fully cooked and golden brown, remove the pie from the oven. Cool for 15 mi
 - <https://www.aspicyperspective.com/best-vegetarian-pot-pie/>
 
 [1]: <../assets/images/vegetarian-pot-pie.jpg>
+[2]: <../ingredients/vegetable-broth.md>
+[3]: <../ingredients/pastry-dough/pie-crust.md>
+[4]: <../ingredients/eggs.md>
 

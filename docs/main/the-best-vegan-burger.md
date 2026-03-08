@@ -13,24 +13,24 @@ tags:
 
 ## :salt: Ingredients
 
-- 400 g chickpeas
-- 340 g sweetcorn
-- 0.5 tsp coriander
-- 0.5 tsp paprika
-- 0.5 tsp cumin
-- 3 Tbsp flour
-- 1 pinch sea salt
-- 1 lemon zest
-- some rapeseed oil
-- 1 small lettuce
-- 2 large tomatoes
-- some ketchup
-- 4 burger buns
+- :beans: 400 g [chickpeas][2]
+- :carrot: 340 g sweetcorn
+- :chestnut: 0.5 tsp coriander
+- :hot_pepper: 0.5 tsp paprika
+- :chestnut: 0.5 tsp cumin
+- :bread: 3 Tbsp flour
+- :salt: 1 pinch sea salt
+- :tangerine: 1 lemon zest
+- :olive: some rapeseed oil
+- :leafy_green: 1 small lettuce
+- :tomato: 2 large tomatoes
+- :tomato: some ketchup
+- :bread: 4 burger buns
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 large frying pan
+- :gear: 1 food processor
+- :shallow_pan_of_food: 1 large frying pan
 
 ## :pencil: Instructions
 
@@ -69,4 +69,5 @@ with a fresh green salad.
 - <https://www.jamieoliver.com/recipes/vegetables-recipes/the-best-vegan-burger/>
 
 [1]: <../assets/images/the-best-vegan-burger.jpg>
+[2]: <../ingredients/chickpeas.md>
 
