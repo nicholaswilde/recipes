@@ -1,0 +1,16 @@
+Task: Batch 5 (12 recipes)
+Summary: Added ingredient/cookware emojis and weight conversions to recipes in docs/sides/ and docs/tarts/.
+Files:
+- docs/sides/fiesta-salad.md
+- docs/sides/lemon-garlic-cauliflower-rice.md
+- docs/sides/lemony-broccoli-salad-with-chickpeas-&-feta.md
+- docs/sides/spicy-cashew-quinoa-salad.md
+- docs/sides/spinach-salad-with-gorgonzola-and-pear.md
+- docs/sides/tortilla-de-patatas.md
+- docs/sides/vegan-baked-beans.md
+- docs/sides/vegan-kale-caesar-with-crispy-chickpeas.md
+- docs/sides/vegan-ricotta-&-sun-dried-tomato-pesto-salad.md
+- docs/sides/vegetable-casserole.md
+- docs/sides/zesty-roasted-vegetables.md
+- docs/tarts/caramelized-onion,-spinach,-and-sweet-potato-tart.md
+Why: Standardizing metadata for consistency and accuracy.
