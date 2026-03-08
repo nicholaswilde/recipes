@@ -83,6 +83,7 @@ emoji:
         - black beans
         - dried black beans
         - seasoned black beans
+        - dried red lentils
     - bread:
         - stone ground whole wheat flour
         - pita
@@ -91,6 +92,11 @@ emoji:
         - all purpose flour
         - corn tortillas
         - bread flour
+    - broccoli:
+        - broccoli
+        - cauliflower
+        - broccoli florets
+        - frozen broccoli
     - butter:
         - butter
         - unsalted butter
@@ -165,6 +171,7 @@ emoji:
         - turmeric powder
         - garam masala
         - Thai red curry paste
+        - curry powder
     - droplet:
         - water
         - hot water

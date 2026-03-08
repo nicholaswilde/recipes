@@ -9,7 +9,7 @@
 ## Visual Identity
 
 - **Primary Imagery:** Every recipe should ideally feature a high-quality, appetizing photograph of the finished dish.
-- **Placeholders:** If a custom photograph is unavailable, use clean, relevant placeholders (e.g., generated via the `nano banana mcp` or similar tools).
+- **Placeholders:** If a custom photograph is unavailable, use clean, relevant placeholders (e.g., generated via the Recipes MCP server or similar tools).
 - **Optimization:** All images must include `loading="lazy"` to ensure optimal performance.
 
 ## Content Formatting

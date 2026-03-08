@@ -173,6 +173,7 @@ $$
 | Cream Cheese                                          | 1 cup             | 227         | 8           |
 | Crystallized Ginger                                   | 1/2 cup           | 92          | 3-1/4       |
 | Currants                                              | 1 cup             | 142         | 5           |
+| Curry powder                                          | 1 Tbsp            | 10          | 3/8         |
 | Dates (chopped)                                       | 1 cup             | 149         | 5-1/4       |
 | Demerara Sugar                                        | 1 cup             | 220         | 7-3/4       |
 | Dried Blueberry Powder                                | 1/4 cup           | 28          | 1           |
@@ -181,6 +182,7 @@ $$
 | Dried Nonfat Milk (powdered)                          | 1/4 cup           | 21          | 3/4         |
 | Dried Potato Flakes (instant mashed potatoes)         | 1/2 cup           | 43          | 1-1/2       |
 | Dried Whole Milk (powdered)                           | 1/2 cup           | 50          | 1-3/4       |
+| Dried Red Lentils                                     | 1 cup             | 210         | 7-3/8       |
 | Durum Flour                                           | 1 cup             | 124         | 4-3/8       |
 | Easy Roll Dough Improver                              | 2 Tbsp            | 18          | 5/8         |
 | Egg (fresh)                                           | 1 large           | 50          | 1-3/4       |
@@ -200,8 +202,12 @@ $$
 | Gluten-Free All-Purpose Flour                         | 1 cup             | 156         | 5-1/2       |
 | Graham Cracker Crumbs (boxed)                         | 1 cup             | 99          | 3-1/2       |
 | Graham Crackers (crushed)                             | 1 cup             | 142         | 5           |
-| Graham Cracker Sheet                            | 1 sheet           | 15          | 1/2         |
+| Gran Graham Cracker Sheet                            | 1 sheet           | 15          | 1/2         |
+| Ground Coriander                                      | 1 tsp             | 2           | -           |
+| Ground Cumin                                          | 1 tsp             | 3           | -           |
+| Ground Turmeric                                       | 1 tsp             | 3           | -           |
 | Granola                                               | 1 cup             | 113         | 4           |
+
 | Grape-Nuts                                            | 1/2 cup           | 57          | 2           |
 | Harvest Grains Blend                                  | 1/2 cup           | 74          | 2-5/8       |
 | Hazelnut Flour                                        | 1 cup             | 89          | 3-1/8       |

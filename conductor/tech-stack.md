@@ -15,6 +15,7 @@
 
 - **Taskfile:** A task runner used to automate development workflows like building, serving, and linting.
 - **GitHub Actions:** CI/CD platform for automated testing and deployment to GitHub Pages.
+- **Recipes MCP Server:** Provides tools for scraping, formatting, and converting recipes and ingredients.
 - **Docker:** Used to containerize development tools ensuring environment consistency.
 - **uv:** A fast Python package manager used for managing Zensical and its dependencies.
 
