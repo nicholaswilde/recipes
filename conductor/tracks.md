@@ -4,7 +4,7 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Enhance Metadata for Moved Recipes**
+- [x] **Track: Enhance Metadata for Moved Recipes**
   *Link: [./tracks/enhance_metadata_moved_recipes_20260308/](./tracks/enhance_metadata_moved_recipes_20260308/)*
 
 - [ ] **Track: Consolidate Small Categories**
