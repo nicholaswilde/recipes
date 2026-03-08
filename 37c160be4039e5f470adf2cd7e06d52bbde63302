@@ -1,0 +1,7 @@
+Task: Move Dutch
+Summary: Moved 1 Dutch recipe (Kroket) from cook/dutch and docs/dutch to cook/sides and docs/sides respectively. Added dutch tag to .cook file.
+Files:
+- cook/sides/Kroket.cook
+- cook/sides/Kroket.jpg
+- docs/sides/kroket.md
+Why: Consolidating small categories for a cleaner project structure.
