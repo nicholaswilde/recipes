@@ -1,0 +1,10 @@
+Task: Batch 4 (6 recipes)
+Summary: Added ingredient/cookware emojis and weight conversions to recipes in docs/breakfast/ and docs/lunches/.
+Files:
+- docs/breakfast/chickpea-and-spinach-pancakes.md
+- docs/breakfast/crispy-mushroom-galette.md
+- docs/breakfast/french-omelet.md
+- docs/breakfast/jose-guevara's-gallo-pinto.md
+- docs/breakfast/shakshuka.md
+- docs/lunches/california-veggie-wraps.md
+Why: Standardizing metadata for consistency and accuracy.
