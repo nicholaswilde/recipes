@@ -1,0 +1,14 @@
+Task: Batch 1 (10 recipes)
+Summary: Added ingredient/cookware emojis and weight conversions to the first 10 recipes in docs/main/.
+Files:
+- docs/main/black-bean-burgers.md
+- docs/main/cauliflower-green-bean-mac-and-cheese.md
+- docs/main/creamy-vegan-polenta-with-mushrooms-and-kale.md
+- docs/main/fennel-and-potato-cassola.md
+- docs/main/game-changers-oat-and-lentil-meatloaf.md
+- docs/main/garlic-chana-dal.md
+- docs/main/greens-and-grains-bowls.md
+- docs/main/grilled-tofu-with-chimichurri-sauce.md
+- docs/main/indian-spiced-lentil-burgers.md
+- docs/main/italian-sausage-with-grits-&-tomatoes.md
+Why: Standardizing metadata for consistency and accuracy.
