@@ -1,0 +1,8 @@
+{
+  "track_id": "audit_metadata_20260115",
+  "type": "maintenance",
+  "status": "new",
+  "created_at": "2026-01-15T10:00:00Z",
+  "updated_at": "2026-01-15T10:00:00Z",
+  "description": "Audit and Update Recipe Metadata"
+}

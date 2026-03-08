@@ -4,5 +4,17 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: Audit and Update Recipe Metadata**
-  *Link: [./tracks/audit_metadata_20260115/](./tracks/audit_metadata_20260115/)*
+- [ ] **Track: Enhance Metadata for Moved Recipes**
+  *Link: [./tracks/enhance_metadata_moved_recipes_20260308/](./tracks/enhance_metadata_moved_recipes_20260308/)*
+
+- [ ] **Track: Consolidate Small Categories**
+  *Link: [./tracks/consolidate_small_20260308/](./tracks/consolidate_small_20260308/)*
+
+- [ ] **Track: Sub-categorize Large Folders**
+  *Link: [./tracks/subcategorize_large_20260308/](./tracks/subcategorize_large_20260308/)*
+
+- [ ] **Track: Standardize Cuisines to Meal Types**
+  *Link: [./tracks/reorg_cuisines_20260308/](./tracks/reorg_cuisines_20260308/)*
+
+- [ ] **Track: Reorganize Holiday Category**
+  *Link: [./tracks/reorg_holiday_20260308/](./tracks/reorg_holiday_20260308/)*
