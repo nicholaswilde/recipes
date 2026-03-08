@@ -1,0 +1,14 @@
+Task: Move Indonesian
+Summary: Moved 5 Indonesian recipes from cook/indonesian and docs/indonesian to cook/asian and docs/asian respectively. Added indonesian tag to .cook files.
+Files:
+- cook/asian/Indonesian Satay.cook
+- cook/asian/Lemper.cook
+- cook/asian/Lumpia.cook
+- cook/asian/Nasi Goreng.cook
+- cook/asian/Wontons.cook
+- docs/asian/indonesian-satay.md
+- docs/asian/lemper.md
+- docs/asian/lumpia.md
+- docs/asian/nasi-goreng.md
+- docs/asian/wontons.md
+Why: Consolidating small categories into broader ones for better discoverability.
