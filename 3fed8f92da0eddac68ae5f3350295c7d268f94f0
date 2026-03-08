@@ -1,0 +1,19 @@
+Task: Move Pressure Cooker
+Summary: Consolidated recipes from cook/pressurecooker and docs/pressurecooker into cook/ingredients, cook/sides, docs/ingredients, or docs/sides. Added pressure-cooker tag.
+Files:
+- cook/ingredients/Black Beans.cook
+- cook/ingredients/Black Beans.jpg
+- cook/ingredients/Brown Rice.cook
+- cook/ingredients/Brown Rice.png
+- cook/ingredients/Chickpeas.cook
+- cook/ingredients/Chickpeas.png
+- cook/sides/Black Eyed Peas and Greens.cook
+- cook/sides/Black Eyed Peas and Greens.jpg
+- cook/sides/Refried Black Beans.cook
+- cook/sides/Refried Black Beans.jpg
+- docs/ingredients/black-beans.md
+- docs/ingredients/brown-rice.md
+- docs/ingredients/chickpeas.md
+- docs/sides/black-eyed-peas-and-greens.md
+- docs/sides/refried-black-beans.md
+Why: Merging small categories for better project organization.
