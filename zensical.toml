@@ -438,7 +438,9 @@ Desserts = [
   { "Peanut Butter Cups" = "desserts/peanut-butter-cups.md" },
   { "Pear Tarte Tatin" = "desserts/pear-tarte-tatin.md" },
   { "Pecan Brittle" = "desserts/pecan-brittle.md" },
-  { "Pouding Chômeur with Pure Maple Sauce" = "desserts/pouding-chomeur-with-pure-maple-sauce.md" },
+  { "Pecan Tassies" = "desserts/pecan-tassies.md" },
+  { "Pouding Chomeur with Pure Maple Sauce" = "desserts/pouding-chomeur-with-pure-maple-sauce.md" },
+
   { "Pumpkin Cheesecake" = "desserts/pumpkin-cheesecake.md" },
   { "Rice Krispies" = "desserts/rice-krispies.md" },
   { "Salted Pistachio Meringues" = "desserts/salted-pistachio-meringues.md" },

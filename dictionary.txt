@@ -855,6 +855,8 @@ tarte
 Tarte
 tartlet
 tartlets
+tassies
+Tassies
 Tatin
 Tbsps
 teff
