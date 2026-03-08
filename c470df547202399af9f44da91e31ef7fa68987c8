@@ -1,0 +1,5 @@
+Task: Update Navigation
+Summary: Updated zensical.toml to remove Indonesian, Dutch, Custards, Tarts, and Pressure Cooker categories. Moved recipes into Asian, Sides, Main, Desserts, and Ingredients as appropriate.
+Files:
+- zensical.toml
+Why: Updating site navigation to reflect the new project structure.
