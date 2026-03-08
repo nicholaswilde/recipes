@@ -31,16 +31,21 @@ Asian = [
   { "Banh Mi Sandwich" = "asian/banh-mi-sandwich.md" },
   { "Chickpea and Spinach Curry" = "asian/chickpea-and-spinach-curry.md" },
   { "Coconut Curried Vegetables with Rice" = "asian/coconut-curried-vegetables-with-rice.md" },
-  { "Cool & Spicy Noodle Salad" = "asian/cool-and-spicy-noodle-salad.md" },
+  { "Cool & Spicy Noodle Salad" = "asian/cool-and-and-spicy-noodle-salad.md" },
   { "Creamy Spiced Red Lentil & Cauliflower Dal" = "asian/creamy-spiced-red-lentil-&-cauliflower-dal.md" },
   { "Crispy Peanut Tofu & Cauliflower Rice Stir Fry" = "asian/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.md" },
   { "Easy Vegan Ramen" = "asian/easy-vegan-ramen.md" },
   { "Everyday Chinese Vegetable Stir-Fry" = "asian/everyday-chinese-vegetable-stir-fry.md" },
   { "Fresh Spring Rolls" = "asian/fresh-spring-rolls.md" },
+  { "Indonesian Satay" = "asian/indonesian-satay.md" },
+  { "Lemper" = "asian/lemper.md" },
+  { "Lumpia" = "asian/lumpia.md" },
+  { "Nasi Goreng" = "asian/nasi-goreng.md" },
   { "Noodle-Free Pad Thai" = "asian/noodle-free-pad-thai.md" },
   { "Simple Fried Rice" = "asian/simple-fried-rice.md" },
   { "Truffley Cauliflower Stir Fry" = "asian/truffley-cauliflower-stir-fry.md" },
   { "Vegetarian Egg Rolls" = "asian/vegetarian-egg-rolls.md" },
+  { "Wontons" = "asian/wontons.md" },
 ]
 
 [[project.nav]]
@@ -153,7 +158,7 @@ Breakfast = [
   { "Cinnamon Rolls" = "breakfast/cinnamon-rolls.md" },
   { "Cinnamon Toast Crunch Baked Oats Recipe by Tasty" = "breakfast/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.md" },
   { "Classic Buttermilk Waffles" = "breakfast/classic-buttermilk-waffles.md" },
-  { "Conchas (Mexican Pan Dulce)" = "breakfast/conchas-(mexican-pan-dulce).md" },
+  { "Conchas (Mexican Pan Dulce)" = "breakfast/conchas-(mexican-pan-dilce).md" },
   { "Costa Rican Baked Doughnuts" = "breakfast/costa-rican-baked-doughnuts.md" },
   { "Crispy Mushroom Galette" = "breakfast/crispy-mushroom-galette.md" },
   { "Crustless Broccoli Quiche" = "breakfast/crustless-broccoli-quiche.md" },
@@ -176,7 +181,7 @@ Breakfast = [
   { "Loaded Potato Pancakes" = "breakfast/loaded-potato-pancakes.md" },
   { "Mom's Breakfast Potatoes" = "breakfast/mom's-breakfast-potatoes.md" },
   { "Morning Muffin in a Mug" = "breakfast/morning-muffin-in-a-mug.md" },
-  { "Orejas (Mexican Pan Dulce)" = "breakfast/orejas-(mexican-pan-dulce).md" },
+  { "Orejas (Mexican Pan Dulce)" = "breakfast/orejas-(mexican-pan-dilce).md" },
   { "Overnight Brown-Butter Yeast-Raised Waffles" = "breakfast/overnight-brown-butter-yeast-raised-waffles.md" },
   { "Overnight Oats" = "breakfast/overnight-oats.md" },
   { "Pan Boxty" = "breakfast/pan-boxty.md" },
@@ -296,15 +301,6 @@ Breakfast = [
 ]
 
 [[project.nav]]
-Custards = [
-  { "Crème Bavaroise" = "custards/crème-bavaroise.md" },
-  { "Crème Brûlée" = "custards/crème-brûlée.md" },
-  { "Crème Chiboust" = "custards/crème-chiboust.md" },
-  { "Crème Diplomat" = "custards/crème-diplomat.md" },
-  { "Crème Pâtissière" = "custards/crème-pâtissière.md" },
-]
-
-[[project.nav]]
 Desserts = [
   { "Cakes" = [
     { "1-Bowl Vegan Gluten-Free Carrot Cake" = "desserts/cake/1-bowl-vegan-gluten-free-carrot-cake.md" },
@@ -392,9 +388,11 @@ Desserts = [
     { "Trader Joe's Key Lime Pie with Strawberry Whipped Cream" = "desserts/pie/trader-joe's-key-lime-pie-with-strawberry-whipped-cream.md" },
   ] },
   { "Tarts" = [
+    { "Brioche Tart" = "desserts/brioche-tart.md" },
     { "Chocolate Tart" = "desserts/tarts/chocolate-tart.md" },
     { "Cranberry Curd Tart with Almond Crust" = "desserts/tarts/cranberry-curd-tart-with-almond-crust.md" },
     { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
+    { "Lemon Tart" = "desserts/lemon-tart.md" },
     { "Plum Torte" = "desserts/tarts/plum-torte.md" },
     { "Strawberry Tart" = "desserts/tarts/strawberry-tart.md" },
   ] },
@@ -416,7 +414,11 @@ Desserts = [
   { "Coconut Macaroons" = "desserts/coconut-macaroons.md" },
   { "Copycat See's Bordeaux" = "desserts/copycat-sees-bordeaux.md" },
   { "Cooks Illustrated Lemon Bars" = "desserts/cooks-illustrated-lemon-bars.md" },
+  { "Crème Bavaroise" = "desserts/crème-bavaroise.md" },
   { "Crème Brûlée" = "desserts/crème-brûlée.md" },
+  { "Crème Chiboust" = "desserts/crème-chiboust.md" },
+  { "Crème Diplomat" = "desserts/crème-diplomat.md" },
+  { "Crème Pâtissière" = "desserts/crème-pâtissière.md" },
   { "Crêpes Suzette" = "desserts/crêpes-suzette.md" },
   { "Disney's Churros" = "desserts/disney's-churros.md" },
   { "Disney's Frozen Pineapple Treat" = "desserts/disney's-frozen-pineapple-treat.md" },
@@ -462,11 +464,6 @@ Desserts = [
   { "Vanilla Pudding" = "desserts/vanilla-pudding.md" },
   { "Vegan Banana Ice Cream" = "desserts/vegan-banana-ice-cream.md" },
   { "Vegan Chocolate Pudding with Cinnamon & Chile" = "desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md" },
-]
-
-[[project.nav]]
-Dutch = [
-  { "Kroket" = "dutch/kroket.md" },
 ]
 
 [[project.nav]]
@@ -522,15 +519,6 @@ Holiday = [
   { "Triple Layer Chocolate Mints" = "holiday/triple-layer-chocolate-mints.md" },
   { "Unexpected Cheddar Cheese Ball" = "holiday/unexpected-cheddar-cheese-ball.md" },
   { "Vegetarian Stuffing" = "holiday/vegetarian-stuffing.md" },
-]
-
-[[project.nav]]
-Indonesian = [
-  { "Indonesian Satay" = "indonesian/indonesian-satay.md" },
-  { "Lemper" = "indonesian/lemper.md" },
-  { "Lumpia" = "indonesian/lumpia.md" },
-  { "Nasi Goreng" = "indonesian/nasi-goreng.md" },
-  { "Wontons" = "indonesian/wontons.md" },
 ]
 
 [[project.nav]]
@@ -655,14 +643,17 @@ Ingredients = [
   { "Beau Monde Seasoning" = "ingredients/beau-monde-seasoning.md" },
   { "Beurre Manié" = "ingredients/beurre-manié.md" },
   { "Bisquick" = "ingredients/bisquick.md" },
+  { "Black Beans" = "ingredients/black-beans.md" },
   { "Blanched Almonds" = "ingredients/blanched-almonds.md" },
   { "Blueberry Syrup for Pancakes" = "ingredients/blueberry-syrup-for-pancakes.md" },
   { "Bouquet Garni" = "ingredients/bouquet-garni.md" },
   { "Breadcrumbs" = "ingredients/breadcrumbs.md" },
+  { "Brown Rice" = "ingredients/brown-rice.md" },
   { "Brown Sugar" = "ingredients/brown-sugar.md" },
   { "Buttermilk" = "ingredients/buttermilk.md" },
   { "Candied Orange Peel" = "ingredients/candied-orange-peel.md" },
   { "Caramelized Onions" = "ingredients/caramelized-onions.md" },
+  { "Chickpeas" = "ingredients/chickpeas.md" },
   { "Chickpea Flour" = "ingredients/chickpea-flour.md" },
   { "Chili Paste" = "ingredients/chili-paste.md" },
   { "Coconut Bacon" = "ingredients/coconut-bacon.md" },
@@ -810,6 +801,7 @@ Main = [
   { "Baked Sweet Potatoes With Chili Beans" = "main/baked-sweet-potatoes-with-chili-beans.md" },
   { "Black Bean Burgers" = "main/black-bean-burgers.md" },
   { "Cabbage & Sun-Dried Tomato Sauté" = "main/cabbage-and-sun-dried-tomato-sauté.md" },
+  { "Caramelized Onion, Spinach, & Sweet Potato Tart" = "main/caramelized-onion,-spinach,-and-sweet-potato-tart.md" },
   { "Cauliflower Green Bean Mac & Cheese" = "main/cauliflower-green-bean-mac-and-cheese.md" },
   { "Cowboy Quinoa Bake" = "main/cowboy-quinoa-bake.md" },
   { "Creamy Vegan Polenta with Mushrooms & Kale" = "main/creamy-vegan-polenta-with-mushrooms-and-kale.md" },
@@ -841,6 +833,7 @@ Main = [
   { "Quinoa & Veggie Power Bowls" = "main/quinoa-and-veggie-power-bowls.md" },
   { "Ratatouille Provençale" = "main/ratatouille-provençale.md" },
   { "Rice with Corned Beef" = "main/rice-with-corned-beef.md" },
+  { "Shallot, Onion, & Chive Tart" = "main/shallot-onion-and-chive-tart.md" },
   { "Simple Chickpea Masala" = "main/simple-chickpea-masala.md" },
   { "Slow Cooker Indian-Spiced Chickpeas & Red Potatoes" = "main/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.md" },
   { "Slow Cooker Red Beans & Rice" = "main/slow-cooker-red-beans-and-rice.md" },
@@ -917,15 +910,6 @@ Mexican = [
   { "Tofu Tacos" = "mexican/tofu-tacos.md" },
   { "Tostadas with Refried Black Beans & Pickled Cabbage & Onion" = "mexican/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.md" },
   { "Vegetarian Tacos" = "mexican/vegetarian-tacos.md" },
-]
-
-[[project.nav]]
-"Pressure Cooker" = [
-  { "Black Beans" = "pressurecooker/black-beans.md" },
-  { "Black Eyed Peas and Greens" = "pressurecooker/black-eyed-peas-and-greens.md" },
-  { "Brown Rice" = "pressurecooker/brown-rice.md" },
-  { "Chickpeas" = "pressurecooker/chickpeas.md" },
-  { "Refried Black Beans" = "pressurecooker/refried-black-beans.md" },
 ]
 
 [[project.nav]]
@@ -1081,6 +1065,7 @@ Sides = [
   { "Banana Chips" = "sides/banana-chips.md" },
   { "Basmati Pilaf" = "sides/basmati-pilaf.md" },
   { "Beach Day Chickpea Salad" = "sides/beach-day-chickpea-salad.md" },
+  { "Black Eyed Peas and Greens" = "sides/black-eyed-peas-and-greens.md" },
   { "Blueberry Chickpea Salad" = "sides/blueberry-chickpea-salad.md" },
   { "Bow Tie Pasta Chips" = "sides/bow-tie-pasta-chips.md" },
   { "Braised Asparagus with Lemon & Chives" = "sides/braised-asparagus-with-lemon-and-chives.md" },
@@ -1140,6 +1125,7 @@ Sides = [
   { "Kettle Corn" = "sides/kettle-corn.md" },
   { "Kickstarter Garlic Mushrooms" = "sides/kickstarter-garlic-mushrooms.md" },
   { "Kickstarter Lemony Roasted Cauliflower" = "sides/kickstarter-lemony-roasted-cauliflower.md" },
+  { "Kroket" = "sides/kroket.md" },
   { "Laugenbrezeln (German Lye Pretzels)" = "sides/laugenbrezeln-(german-lye-pretzels).md" },
   { "Lemon Garlic Cauliflower Rice" = "sides/lemon-garlic-cauliflower-rice.md" },
   { "Lemony Broccoli Salad with Chickpeas & Feta" = "sides/lemony-broccoli-salad-with-chickpeas-&-feta.md" },
@@ -1168,6 +1154,7 @@ Sides = [
   { "Potato Salad" = "sides/potato-salad.md" },
   { "Quinoa" = "sides/quinoa.md" },
   { "Red Cabbage Salad" = "sides/red-cabbage-salad.md" },
+  { "Refried Black Beans" = "sides/refried-black-beans.md" },
   { "Ritz Crackers" = "sides/ritz-crackers.md" },
   { "Roasted Chickpea Snack" = "sides/roasted-chickpea-snack.md" },
   { "Roasted Delicata Squash" = "sides/roasted-delicata-squash.md" },
@@ -1230,14 +1217,6 @@ Sides = [
   { "Tante Myrn's Split Pea Soup" = "soups-and-stews/tante-myrn's-split-pea-soup.md" },
   { "Vegan Mushroom Stew" = "soups-and-stews/vegan-mushroom-stew.md" },
   { "Vichyssoise (Leek & Potato Soup)" = "soups-and-stews/vichyssoise-(leek-and-potato-soup).md" },
-]
-
-[[project.nav]]
-Tarts = [
-  { "Brioche Tart" = "tarts/brioche-tart.md" },
-  { "Caramelized Onion, Spinach, & Sweet Potato Tart" = "tarts/caramelized-onion-spinach-and-sweet-potato-tart.md" },
-  { "Lemon Tart" = "tarts/lemon-tart.md" },
-  { "Shallot, Onion, & Chive Tart" = "tarts/shallot-onion-and-chive-tart.md" },
 ]
 
 [[project.nav]]
