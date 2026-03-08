@@ -13,21 +13,21 @@ tags:
 
 ## :salt: Ingredients
 
-- 1.25 cup chickpea bean flour
-- 0.75 tsp cumin
-- 0.5 tsp salt
-- 1 cup water
-- 1 Tbsp olive oil
-- 1 cup spinach
-- 2 scallions
-- some greek yogurt (optional)
-- 1 cucumber
-- some za’atar (optional)
+- :bread: 1.25 cup (105 g) [chickpea flour][2]
+- :chestnut: 0.75 tsp cumin
+- :salt: 0.5 tsp salt
+- :droplet: 1 cup (227 g) water
+- :olive: 1 Tbsp olive oil
+- :leafy_green: 1 cup (30 g) spinach
+- :onion: 2 scallions
+- :baby_bottle: some Greek yogurt (optional)
+- :cucumber: 1 cucumber
+- :herb: some za’atar (optional)
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 large skillet
+- :bowl_with_spoon: 1 medium bowl
+- :shallow_pan_of_food: 1 large skillet
 
 ## :pencil: Instructions
 
@@ -57,4 +57,5 @@ little za’atar (optional) (if using) and some more scallions.
 - <https://jessicaseinfeld.com/recipes/chickpea-and-spinach-pancakes>
 
 [1]: <../assets/images/chickpea-and-spinach-pancakes.jpg>
+[2]: <../ingredients/chickpea-flour.md>
 

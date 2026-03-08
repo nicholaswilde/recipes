@@ -19,25 +19,25 @@ tags:
 
 - :olive: 2 Tbsp olive oil
 - :leafy_green: 2 large leeks
-- :hotdog: 1 Tbsp grainy Dijon mustard
+- :baby_bottle: 1 Tbsp grainy [Dijon mustard][3]
 - :salt: some salt
 - :salt: some pepper
 - :olive: 2 Tbsp olive oil
 - :mushroom: 1 lb shiitake, cremini, oyster, and/or maitake mushrooms
 - :garlic: 5 cloves garlic
 - :herb: 2 sprigs rosemary
-- :flatbread: 1 [flaky olive oil dough][2]
-- :ear_of_rice: some flour
+- :bread: 1 [flaky olive oil dough][2]
+- :bread: some flour
 - :olive: some olive oil
 - :bread: 2 Tbsp panko bread crumbs
-- :microbe: 2 tsp nutritional yeast
+- :cheese_wedge: 2 tsp nutritional yeast
 
 ## :cooking: Cookware
 
-- 1 medium skillet
-- 1 medium bowl
-- 1 baking sheet
-- 1 parchment paper
+- :shallow_pan_of_food: 1 medium skillet
+- :bowl_with_spoon: 1 medium bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 
@@ -110,3 +110,4 @@ and cutting into slices. Serve warm or at room temperature.
 
 [1]: <../assets/images/crispy-mushroom-galette.jpg>
 [2]: <../ingredients/pastry-dough/flaky-olive-oil-dough.md>
+[3]: <../ingredients/dijon-mustard.md>

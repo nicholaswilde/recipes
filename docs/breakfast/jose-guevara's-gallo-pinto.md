@@ -13,21 +13,21 @@ tags:
 
 ## :salt: Ingredients
 
-- 1.5 Tbsp vegetable oil
-- 1 onion
-- 1 clove garlic
-- 2 Tbsp Worcestershire sauce
-- 1 8-oz can cooked black beans
-- 2 cups cooked long-grain white rice
-- some salt (optional)
-- some pepper (optional)
-- 0.5 sliced avocado
-- some Chilero hot sauce (optional)
-- some cilantro (optional)
+- :olive: 1.5 Tbsp vegetable oil
+- :onion: 1 onion
+- :garlic: 1 clove garlic
+- :takeout_box: 2 Tbsp Worcestershire sauce
+- :beans: 1 8-oz can cooked black beans
+- :ear_of_rice: 2 cups (340 g) cooked long-grain white rice
+- :salt: some salt (optional)
+- :salt: some pepper (optional)
+- :avocado: 0.5 sliced avocado
+- :hot_pepper: some Chilero hot sauce (optional)
+- :herb: some cilantro (optional)
 
 ## :cooking: Cookware
 
-- 1 large skillet
+- :shallow_pan_of_food: 1 large skillet
 
 ## :pencil: Instructions
 

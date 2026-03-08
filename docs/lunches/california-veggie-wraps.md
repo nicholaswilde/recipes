@@ -13,16 +13,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 Tbsp Benedictine spread
-- 4 whole wheat tortilla
-- 2 cups lettuce
-- 1 cup shredded carrots
-- 1 cup sprouts
-- 1 avocado, slice
-- 1 bell pepper, sliced
-- 0.5 cup jack cheese
+- :cheese_wedge: 4 Tbsp [Benedictine spread][2]
+- :bread: 4 whole wheat tortillas
+- :leafy_green: 2 cups (110 g) lettuce
+- :carrot: 1 cup (100 g) shredded carrots
+- :seedling: 1 cup (35 g) sprouts
+- :avocado: 1 avocado, sliced
+- :hot_pepper: 1 bell pepper, sliced
+- :cheese_wedge: 0.5 cup (57 g) jack cheese
 
 ## :cooking: Cookware
+
+- :knife: 1 knife
 
 ## :pencil: Instructions
 
@@ -40,4 +42,5 @@ half.
 Serves 8 half-wraps.
 
 [1]: <../assets/images/california-veggie-wraps.jpg>
+[2]: <../sauces-and-dressings/benedictine-spread.md>
 

@@ -19,20 +19,20 @@ tags:
 - :hot_pepper: 1 red bell pepper
 - :onion: 1 medium onion
 - :garlic: 4 cloves garlic
-- 2 tsp paprika
-- 1 tsp cumin
-- 0.25 tsp chili powder
+- :hot_pepper: 2 tsp paprika
+- :chestnut: 1 tsp cumin
+- :hot_pepper: 0.25 tsp chili powder
 - :tomato: 1 28-oz can whole peeled tomatoes
 - :salt: some salt
 - :salt: some pepper
-- 6 large eggs
-- 1 small bunch cilantro
+- :egg: 6 large [eggs][2]
+- :herb: 1 small bunch cilantro
 - :herb: 1 small bunch parsley
 
 ## :cooking: Cookware
 
-- 1 large sauté pan
-- 1 large spoon
+- :shallow_pan_of_food: 1 large sauté pan
+- :spoon: 1 large spoon
 
 ## :pencil: Instructions
 
@@ -69,3 +69,4 @@ Cook the tomatoes in the sauce until tender. Reduce the sauce mixture before add
 - <https://downshiftology.com/recipes/shakshuka/>
 
 [1]: <../assets/images/shakshuka.jpg>
+[2]: <../ingredients/eggs.md>

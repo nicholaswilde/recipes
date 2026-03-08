@@ -37,7 +37,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 8 to 10 inch skillet
+- :shallow_pan_of_food: 1 8 to 10 inch skillet
 
 ## :pencil: Instructions - Omelet
 
