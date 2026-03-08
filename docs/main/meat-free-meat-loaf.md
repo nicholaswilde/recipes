@@ -22,7 +22,7 @@ tags:
 - :takeout_box: 2 Tbsp [tahini][3]
 - :takeout_box: 1 Tbsp [soy sauce][4]
 - :herb: 1 Tbsp parsley
-- :cut_of_meat: 1 pkg TJs soy meat
+- :cut_of_meat: 1 pkg TJ's soy meat
 - :salt: some salt
 - :salt: some pepper
 
@@ -59,7 +59,7 @@ Pulse cooked brown lentils in a food processor then add to soy meat mixture.
 
 ### Step 6
 
-In a food processor, mix soft tofu, tahini, soy sauce, and minced parsley. Stir into the TJs soy meat and season with
+In a food processor, mix soft tofu, tahini, soy sauce, and minced parsley. Stir into the TJ's soy meat and season with
 salt and pepper.
 
 ### Step 7
