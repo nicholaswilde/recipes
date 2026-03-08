@@ -1,0 +1,14 @@
+Task: Batch 3 (10 recipes)
+Summary: Added ingredient/cookware emojis and weight conversions to the remaining recipes in docs/main/.
+Files:
+- docs/main/mushroom-rice-burgers.md
+- docs/main/quinoa-and-veggie-power-bowls.md
+- docs/main/ratatouille-provençale.md
+- docs/main/simple-chickpea-masala.md
+- docs/main/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.md
+- docs/main/slow-cooker-red-beans-and-rice.md
+- docs/main/slow-cooker-vegetarian-black-eyed-peas.md
+- docs/main/spinach-and-feta-filo-pie.md
+- docs/main/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.md
+- docs/main/super-nourishing-beans-and-greens.md
+Why: Standardizing metadata for consistency and accuracy.
