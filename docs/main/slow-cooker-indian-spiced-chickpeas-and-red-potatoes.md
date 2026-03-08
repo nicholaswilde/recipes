@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 onion
-- 2 cloves garlic
-- 2 tsp olive oil
-- 2 tsp coriander
-- 2 tsp cumin
-- 0.5 tsp garam masala
-- 0.5 tsp ginger
-- 0.25 tsp turmeric
-- 0.25 tsp red pepper flakes
-- 1 tsp salt
-- 1 15-oz can diced tomatoes
-- 2 Tbsp tomato paste
-- 1 cup vegetable broth
-- 2 15-oz cans chickpeas
-- 1 lb red potatoes, cut into 1/2" pieces
-- 1 small bunch cilantro
-- 1 lime
+- :onion: 1 onion
+- :garlic: 2 cloves garlic
+- :olive: 2 tsp olive oil
+- :chestnut: 2 tsp coriander
+- :chestnut: 2 tsp cumin
+- :curry: 0.5 tsp garam masala
+- :sweet_potato: 0.5 tsp ginger
+- :curry: 0.25 tsp turmeric
+- :hot_pepper: 0.25 tsp red pepper flakes
+- :salt: 1 tsp salt
+- :tomato: 1 15-oz can diced tomatoes
+- :tomato: 2 Tbsp tomato paste
+- :stew: 1 cup (227 g) [vegetable broth][2]
+- :beans: 2 15-oz cans [chickpeas][3]
+- :sweet_potato: 1 lb red potatoes, cut into 1/2" pieces
+- :herb: 1 small bunch cilantro
+- :tangerine: 1 lime
 
 ## :cooking: Cookware
 
-- 1 slow cooker
+- :shallow_pan_of_food: 1 slow cooker
 
 ## :pencil: Instructions
 
@@ -62,4 +62,6 @@ Cook on high for 4 to 5 hours or low for 8 to 10 hours.
 Ladle into a serve and serve with fresh cilantro and lime wedges for squeezing over the top.
 
 [1]: <../assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.jpg>
+[2]: <../ingredients/vegetable-broth.md>
+[3]: <../ingredients/chickpeas.md>
 

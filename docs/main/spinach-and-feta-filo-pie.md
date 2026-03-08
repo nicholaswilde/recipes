@@ -13,28 +13,28 @@ tags:
 
 ## :salt: Ingredients
 
-- 100 g pine nuts
-- 5 large eggs
-- 300 g feta cheese
-- 50 g Cheddar
-- 1 pinch black pepper
-- 2 pinches dried oregano
-- 1 lemon zest
-- some olive oil
-- 1 knob unsalted butter
-- 400 g spinach
-- 1 270 g filo
-- some sea salt
-- 1 pinch cayenne pepper
-- 1 whole nutmeg
-- some rosemary
+- :chestnut: 100 g pine nuts
+- :egg: 5 large [eggs][2]
+- :cheese_wedge: 300 g feta cheese
+- :cheese_wedge: 50 g [Cheddar cheese][3]
+- :salt: 1 pinch black pepper
+- :herb: 2 pinches dried oregano
+- :tangerine: 1 lemon zest
+- :olive: some olive oil
+- :butter: 1 knob unsalted butter
+- :leafy_green: 400 g spinach
+- :bread: 1 270 g [filo dough][4]
+- :salt: some sea salt
+- :hot_pepper: 1 pinch cayenne pepper
+- :chestnut: 1 whole nutmeg
+- :herb: some rosemary
 
 ## :cooking: Cookware
 
-- 1 large ovenproof frying pan
-- 1 large mixing bowl
-- 1 frying pan
-- 1 50 cm strip of greaseproof paper
+- :shallow_pan_of_food: 1 large ovenproof frying pan
+- :bowl_with_spoon: 1 large mixing bowl
+- :shallow_pan_of_food: 1 frying pan
+- :page_facing_up: 1 50 cm strip of greaseproof paper
 
 ## :pencil: Instructions
 
@@ -104,4 +104,7 @@ oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fr
 - <https://www.jamieoliver.com/recipes/cheese-recipes/spinach-feta-filo-pie/>
 
 [1]: <../assets/images/spinach-and-feta-filo-pie.jpg>
+[2]: <../ingredients/eggs.md>
+[3]: <../ingredients/cheddar-cheese.md>
+[4]: <../ingredients/pastry-dough/filo-dough.md>
 

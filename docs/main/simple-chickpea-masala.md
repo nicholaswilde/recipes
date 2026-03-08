@@ -13,30 +13,30 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 Tbsp neutral cooking oil
-- 0.25 tsp cumin seeds
-- 0.25 tsp brown mustard seeds
-- 1 medium yellow onion
-- 2 tsp ground coriander
-- 1 tsp ground cumin
-- 0.25 tsp ground turmeric
-- 0.13 tsp cayenne pepper
-- 0.13 tsp finely ground black pepper
-- 1 can (14.5-ounce) diced tomatoes
-- 4 cups cooked chickpeas
-- 0.5 cup water
-- 1 can (14-ounce) unsweetened coconut cream
-- 1 tsp salt
-- 1 tsp freshly squeezed lemon juice
-- 2 Tbsp fresh cilantro
-- some cashew yogurt
-- some Yogurt Drizzle Sauce
+- :olive: 3 Tbsp neutral cooking oil
+- :seedling: 0.25 tsp cumin seeds
+- :seedling: 0.25 tsp brown mustard seeds
+- :onion: 1 medium yellow onion
+- :chestnut: 2 tsp ground coriander
+- :chestnut: 1 tsp ground cumin
+- :curry: 0.25 tsp ground turmeric
+- :hot_pepper: 0.13 tsp cayenne pepper
+- :salt: 0.13 tsp finely ground black pepper
+- :tomato: 1 can (14.5-ounce) diced tomatoes
+- :beans: 4 cups (800 g) cooked [chickpeas][2]
+- :droplet: 0.5 cup (115 g) water
+- :coconut: 1 can (14-ounce) unsweetened coconut cream
+- :salt: 1 tsp salt
+- :tangerine: 1 tsp freshly squeezed lemon juice
+- :herb: 2 Tbsp fresh cilantro
+- :baby_bottle: some cashew yogurt
+- :baby_bottle: some [Yogurt Drizzle Sauce][3]
 
 ## :cooking: Cookware
 
-- 1 medium skillet
-- 1 potato masher
-- 1 spatula
+- :shallow_pan_of_food: 1 medium skillet
+- :spoon: 1 potato masher
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 
@@ -67,4 +67,6 @@ Drizzle Sauce (optional).
 - Practically Vegan by Nisha Melvani
 
 [1]: <../assets/images/simple-chickpea-masala.jpg>
+[2]: <../ingredients/chickpeas.md>
+[3]: <../sauces-and-dressings/yogurt-drizzle-sauce.md>
 

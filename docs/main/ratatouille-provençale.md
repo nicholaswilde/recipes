@@ -13,25 +13,25 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.25 cup olive oil
-- 1 medium eggplant
-- 1 lb zucchini
-- 2 Tbsp olive oil
-- 1.5 cups sliced onions
-- 2 large red bell peppers
-- 3 cloves garlic
-- some salt
-- some pepper
-- 1 14-oz can diced tomatoes
-- 3 sprigs fresh thyme
-- 0.5 tsp dried thyme (alternative)
-- 1 bay leaf
-- 0.25 cup chopped basil
-- some pitted black olives (optional)
+- :olive: 0.25 cup (50 g) olive oil
+- :eggplant: 1 medium eggplant
+- :cucumber: 1 lb zucchini
+- :olive: 2 Tbsp olive oil
+- :onion: 1.5 cups (215 g) sliced onions
+- :hot_pepper: 2 large red bell peppers
+- :garlic: 3 cloves garlic
+- :salt: some salt
+- :salt: some pepper
+- :tomato: 1 14-oz can diced tomatoes
+- :herb: 3 sprigs fresh thyme
+- :herb: 0.5 tsp dried thyme (alternative)
+- :herb: 1 bay leaf
+- :herb: 0.25 cup (10 g) chopped basil
+- :olive: some pitted black olives (optional)
 
 ## :cooking: Cookware
 
-- 1 large skillet or Dutch oven
+- :shallow_pan_of_food: 1 large skillet or Dutch oven
 
 ## :pencil: Instructions
 

@@ -13,21 +13,21 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 medium onion
-- 2 cloves garlic
-- 8 oz white mushrooms
-- 1 cup brown rice
-- 0.5 cup quick oats
-- 0.75 cup cheddar cheese
-- 1 egg
-- some salt
-- some pepper
-- 3 Tbsp bread crumbs
+- :onion: 1 medium onion
+- :garlic: 2 cloves garlic
+- :mushroom: 8 oz white mushrooms
+- :ear_of_rice: 1 cup (170 g) cooked [brown rice][2]
+- :ear_of_rice: 0.5 cup (50 g) quick oats
+- :cheese_wedge: 0.75 cup (85 g) cheddar cheese
+- :egg: 1 [egg][3]
+- :salt: some salt
+- :salt: some pepper
+- :bread: 3 Tbsp bread crumbs
 
 ## :cooking: Cookware
 
-- 1 skillet
-- 1 large bowl
+- :shallow_pan_of_food: 1 skillet
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 
@@ -47,4 +47,6 @@ Cover mixture and refrigerate 3 to 4 hours. Make 4 patties and refrigerate for 1
 On grill, cook 4 to 6 minutes per side.
 
 [1]: <../assets/images/mushroom-rice-burgers.jpg>
+[2]: <../ingredients/brown-rice.md>
+[3]: <../ingredients/eggs.md>
 

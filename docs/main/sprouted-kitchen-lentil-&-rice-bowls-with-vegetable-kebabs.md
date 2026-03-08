@@ -13,35 +13,35 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cloves garlic
-- 2 roasted red bell peppers
-- 0.75 cup walnuts
-- 1 Tbsp honey
-- 1 tsp salt
-- 1 tsp pepper
-- 1.5 tsp paprika
-- 1 tsp cumin
-- 3 Tbsp olive oil
-- 0.75 cup lentils
-- 1 pkg TJ's frozen brown rice
-- 3 cups spinach
-- 0.5 lb potatoes
-- 2 Tbsp butter
-- 2 Tbsp olive oil
-- 2 yellow onions
-- some olive oil
-- 2 tsp garlic powder
-- 1 pinch cayenne
-- 0.5 lb potatoes
-- 1 small eggplant
-- 0.5 red onion
-- 2 bell peppers
-- 0.5 cup feta
+- :garlic: 2 cloves garlic
+- :hot_pepper: 2 roasted red bell peppers
+- :chestnut: 0.75 cup (85 g) walnuts
+- :honey_pot: 1 Tbsp honey
+- :salt: 1 tsp salt
+- :salt: 1 tsp pepper
+- :hot_pepper: 1.5 tsp paprika
+- :chestnut: 1 tsp cumin
+- :olive: 3 Tbsp olive oil
+- :beans: 0.75 cup (155 g) cooked [lentils][2]
+- :ear_of_rice: 1 pkg TJ's frozen [brown rice][3]
+- :leafy_green: 3 cups (90 g) spinach
+- :sweet_potato: 0.5 lb potatoes
+- :butter: 2 Tbsp butter
+- :olive: 2 Tbsp olive oil
+- :onion: 2 yellow onions
+- :olive: some olive oil
+- :garlic: 2 tsp garlic powder
+- :hot_pepper: 1 pinch cayenne
+- :sweet_potato: 0.5 lb potatoes
+- :eggplant: 1 small eggplant
+- :onion: 0.5 red onion
+- :hot_pepper: 2 bell peppers
+- :cheese_wedge: 0.5 cup (57 g) [feta cheese][4]
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 skewers
+- :gear: 1 food processor
+- :knife: 1 skewers
 
 ## :pencil: Instructions
 
@@ -77,4 +77,7 @@ until tender, 8 to 10 minutes, rotating occasionally.
 Serve with a scoop of lentil and rice mix, kebabs, sauce, and sprinkle of feta.
 
 [1]: <../assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.jpg>
+[2]: <../ingredients/lentils.md>
+[3]: <../ingredients/brown-rice.md>
+[4]: <../ingredients/feta-cheese.md>
 

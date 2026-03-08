@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 Tbsp olive oil
-- 2 large shallot
-- 8 cloves garlic
-- 1 tsp red pepper flakes
-- 2 bunches Swiss chard
-- 2 15-oz cans white beans
-- 1 tsp salt
-- 2 cups water or vegetable stock
-- 2 Tbsp lemon juice
-- some sriracha tofu (optional)
+- :olive: 4 Tbsp olive oil
+- :garlic: 2 large shallot
+- :garlic: 8 cloves garlic
+- :hot_pepper: 1 tsp red pepper flakes
+- :leafy_green: 2 bunches Swiss chard
+- :beans: 2 15-oz cans white beans
+- :salt: 1 tsp salt
+- :stew: 2 cups (455 g) water or [vegetable stock][2]
+- :tangerine: 2 Tbsp lemon juice
+- :cheese_wedge: some sriracha [tofu][3] (optional)
 
 ## :cooking: Cookware
 
-- 1 Dutch oven or a large rimmed skillet with a lid
+- :shallow_pan_of_food: 1 Dutch oven or a large rimmed skillet with a lid
 
 ## :pencil: Instructions
 
@@ -58,4 +58,6 @@ or eggs. Keeps for 3 to 4 days in the refrigerator or up to 1 month in the freez
 - <https://minimalistbaker.com/super-nourishing-beans-greens/#wprm-recipe-container-102870>
 
 [1]: <../assets/images/super-nourishing-beans-and-greens.jpg>
+[2]: <../ingredients/vegetable-stock.md>
+[3]: <../ingredients/tofu.md>
 
