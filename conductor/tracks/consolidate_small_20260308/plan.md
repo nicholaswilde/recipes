@@ -2,7 +2,7 @@
 
 ## Steps
 1. [x] **Move Indonesian:** (a7117e6) `indonesian/` -> `asian/`.
-2. [~] **Move Dutch:** `dutch/kroket.cook` -> `sides/kroket.cook` (with Dutch tag).
+2. [x] **Move Dutch:** (37c160b) `dutch/kroket.cook` -> `sides/kroket.cook` (with Dutch tag).
 3. [ ] **Move Desserts:** `custards/` & `tarts/` -> `desserts/`.
 4. [ ] **Move Pressure Cooker:** Move recipes (e.g., `black-beans`) to functional folders and add `pressure-cooker` tag.
 5. [ ] **Update Navigation:** Refactor `zensical.toml`.
