@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup zucchini
-- 1 large tomato
-- 1 medium onion
-- 0.33 cup Parmesan cheese
-- 0.5 cup reduced-fat Bisquick
-- 1 cup fat-free milk
-- 0.5 cup egg substitute
-- some salt
-- some pepper
+- :cucumber: 1 cup (150 g) zucchini
+- :tomato: 1 large tomato
+- :onion: 1 medium onion
+- :cheese_wedge: 0.33 cup (35 g) [Parmesan cheese][2]
+- :bread: 0.5 cup (60 g) reduced-fat Bisquick
+- :glass_of_milk: 1 cup (227 g) fat-free milk
+- :egg: 0.5 cup (115 g) [egg substitute][3]
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
-- 1 9-inch pie plate
+- :shallow_pan_of_food: 1 9-inch pie plate
 
 ## :pencil: Instructions
 
@@ -47,4 +47,6 @@ substitute, salt and pepper to taste until blended, then pour into pie plate.
 Bake for 35 minutes.
 
 [1]: <../assets/images/vegetable-casserole.jpg>
+[2]: <../ingredients/parmesan.md>
+[3]: <../ingredients/egg-substitute.md>
 

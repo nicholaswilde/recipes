@@ -13,28 +13,28 @@ tags:
 
 ## :salt: Ingredients
 
-- some all-purpose flour
-- 0.75 tsp salt
-- 0.33 cup olive oil
-- 6 Tbsp water
-- 4 Tbsp olive oil
-- 1 large yellow onion
-- 0.5 tsp salt
-- 8 oz button mushrooms
-- 0.5 cup dry white wine
-- 0.25 tsp pepper
-- 12 cups spinach
-- 0.25 tsp red pepper flakes
-- 0.2 cup feta cheese
-- 10 oz sweet potatoes
-- some dill
+- :bread: some all-purpose flour
+- :salt: 0.75 tsp salt
+- :olive: 0.33 cup (65 g) olive oil
+- :droplet: 6 Tbsp water
+- :olive: 4 Tbsp olive oil
+- :onion: 1 large yellow onion
+- :salt: 0.5 tsp salt
+- :mushroom: 8 oz button mushrooms
+- :wine_glass: 0.5 cup (115 g) dry white wine
+- :salt: 0.25 tsp pepper
+- :leafy_green: 12 cups (360 g) spinach
+- :hot_pepper: 0.25 tsp red pepper flakes
+- :cheese_wedge: 0.2 cup (25 g) [feta cheese][2]
+- :sweet_potato: 10 oz sweet potatoes
+- :herb: some dill
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 fork
-- 1 large pot
-- 1 large piece of parchment paper
+- :bowl_with_spoon: 1 large bowl
+- :knife: 1 fork
+- :shallow_pan_of_food: 1 large pot
+- :page_facing_up: 1 large piece of parchment paper
 
 ## :pencil: Instructions
 
@@ -97,3 +97,4 @@ temperature. Sprinkle with a little dill before serving.
 - <https://jessicaseinfeld.com/recipes/caramelized-onion-spinach-and-sweet-potato-tart>
 
 [1]: <../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg>
+[2]: <../ingredients/feta-cheese.md>

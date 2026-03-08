@@ -13,31 +13,31 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 15-oz can chickpeas
-- 2 Tbsp extra-virgin olive oil
-- 0.5 tsp kosher salt
-- 0.5 tsp garlic powder
-- 0.5 tsp sweet paprika
-- 2 large cloves garlic
-- 1 3.5-oz jar capers
-- 2 Tbsp red wine vinegar
-- 2 Tbsp fresh lemon juice
-- 0.5 cup vegan mayonnaise
-- 0.25 cup extra-virgin olive oil
-- 0.25 tsp kosher salt
-- 0.5 tsp freshly ground black pepper
-- 3 Tbsp nutritional yeast
-- 1 lb kale
-- 0.5 lemon
-- some kosher salt
+- :beans: 1 15-oz can [chickpeas][2]
+- :olive: 2 Tbsp extra-virgin olive oil
+- :salt: 0.5 tsp kosher salt
+- :garlic: 0.5 tsp garlic powder
+- :hot_pepper: 0.5 tsp sweet paprika
+- :garlic: 2 large cloves garlic
+- :olive: 1 3.5-oz jar capers
+- :wine_glass: 2 Tbsp red wine vinegar
+- :tangerine: 2 Tbsp fresh lemon juice
+- :baby_bottle: 0.5 cup (115 g) [vegan mayonnaise][3]
+- :olive: 0.25 cup (50 g) extra-virgin olive oil
+- :salt: 0.25 tsp kosher salt
+- :salt: 0.5 tsp freshly ground black pepper
+- :cheese_wedge: 3 Tbsp nutritional yeast
+- :leafy_green: 1 lb kale
+- :tangerine: 0.5 lemon
+- :salt: some kosher salt
 
 ## :cooking: Cookware
 
-- 1 sheet pan
-- 1 blender
-- 1 large bowl
-- 1 tongs
-- 1 serving platter
+- :cookie: 1 sheet pan
+- :gear: 1 blender
+- :bowl_with_spoon: 1 large bowl
+- :knife: 1 tongs
+- :shallow_pan_of_food: 1 serving platter
 
 ## :pencil: Instructions
 
@@ -75,4 +75,6 @@ Top the salad with the chickpeas and drizzle with another 1/4 cup or so of the d
 - What Goes with What by Julia Turshen
 
 [1]: <../assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg>
+[2]: <../ingredients/chickpeas.md>
+[3]: <../sauces-and-dressings/vegan-mayonnaise.md>
 

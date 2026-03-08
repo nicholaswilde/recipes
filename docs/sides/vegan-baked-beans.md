@@ -13,26 +13,26 @@ tags:
 
 ## :salt: Ingredients
 
-- 16 oz dried great northern beans
-- 2 cups bean juice
-- 2 cups vegetable broth
-- 1 onion
-- 4 cloves garlic
-- 0.5 jalapeno pepper
-- 1 green bell pepper
-- 1 tsp salt
-- 6 oz tomato paste
-- 0.25 cup molasses
-- 0.25 cup brown sugar
-- 1 Tbsp yellow mustard
-- 1 tsp apple cider vinegar
-- 0.25 tsp ground pepper
-- 0.25 tsp chipotle chili powder
-- 1 tsp chipotle in adobo (alternative)
+- :beans: 16 oz dried great northern beans
+- :droplet: 2 cups (455 g) bean juice
+- :stew: 2 cups (455 g) [vegetable broth][2]
+- :onion: 1 onion
+- :garlic: 4 cloves garlic
+- :hot_pepper: 0.5 jalapeno pepper
+- :hot_pepper: 1 green bell pepper
+- :salt: 1 tsp salt
+- :tomato: 6 oz tomato paste
+- :honey_pot: 0.25 cup (85 g) molasses
+- :candy: 0.25 cup (55 g) brown sugar
+- :baby_bottle: 1 Tbsp yellow mustard
+- :apple: 1 tsp apple cider vinegar
+- :salt: 0.25 tsp ground pepper
+- :hot_pepper: 0.25 tsp chipotle chili powder
+- :hot_pepper: 1 tsp chipotle in adobo (alternative)
 
 ## :cooking: Cookware
 
-- 1 crock pot (optional)
+- :shallow_pan_of_food: 1 crock pot (optional)
 
 ## :pencil: Instructions
 
@@ -86,4 +86,5 @@ or chipotle in adobo (alternative) and slow cook on low 2 to 4 hours.
 - <https://www.brandnewvegan.com/recipes/beans-legumes/vegan-baked-beans>
 
 [1]: <../assets/images/vegan-baked-beans.jpg>
+[2]: <../ingredients/vegetable-broth.md>
 

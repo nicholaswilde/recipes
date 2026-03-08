@@ -13,30 +13,30 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 medium onion
-- 3 Tbsp olive oil
-- 1 tsp salt
-- 5 medium russet potatoes
-- 2 Tbsp olive oil
-- 1.5 tsp salt
-- 0.13 tsp white pepper
-- 5 large eggs
-- 1 tsp olive oil
-- 2 cloves garlic
-- 0.5 cup lemon juice
-- 2 tsp honey or sugar
-- 0.5 tsp salt
-- 0.25 tsp pepper
-- 0.5 cup olive oil
-- some oven-dried tomatoes (optional)
+- :onion: 1 medium onion
+- :olive: 3 Tbsp olive oil
+- :salt: 1 tsp salt
+- :sweet_potato: 5 medium russet potatoes
+- :olive: 2 Tbsp olive oil
+- :salt: 1.5 tsp salt
+- :salt: 0.13 tsp white pepper
+- :egg: 5 large [eggs][2]
+- :olive: 1 tsp olive oil
+- :garlic: 2 cloves garlic
+- :tangerine: 0.5 cup (115 g) lemon juice
+- :honey_pot: 2 tsp honey or sugar
+- :salt: 0.5 tsp salt
+- :salt: 0.25 tsp pepper
+- :olive: 0.5 cup (100 g) olive oil
+- :tomato: some oven-dried tomatoes (optional)
 
 ## :cooking: Cookware
 
-- 1 non-stick fry pan
-- 1 small paring knife
-- 1 large bowl
-- 1 9 inch, non-stick fry pan
-- 1 large plate
+- :shallow_pan_of_food: 1 non-stick fry pan
+- :knife: 1 small paring knife
+- :bowl_with_spoon: 1 large bowl
+- :shallow_pan_of_food: 1 9 inch, non-stick fry pan
+- :bowl_with_spoon: 1 large plate
 
 ## :pencil: Instructions
 
@@ -94,4 +94,5 @@ for garnish.
 - <https://rouxbe.com/recipes/77-tortilla-de-patatas>
 
 [1]: <../assets/images/tortilla-de-patatas.png>
+[2]: <../ingredients/eggs.md>
 

@@ -13,14 +13,16 @@ tags:
 
 ## :salt: Ingredients
 
-- some roasted corn
-- some black beans
-- some fajita veggies
-- some tortilla strips
-- some mixed greens
-- some chipotle ranch dressing
+- :carrot: some roasted corn
+- :beans: some black beans
+- :hot_pepper: some fajita veggies
+- :bread: some tortilla strips
+- :leafy_green: some mixed greens
+- :baby_bottle: some [Chipotle Ranch Dressing][2]
 
 ## :cooking: Cookware
+
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 
@@ -37,4 +39,5 @@ Top with chipotle ranch dressing.
 - Applied Kitchen
 
 [1]: <../assets/images/fiesta-salad.jpg>
+[2]: <../sauces-and-dressings/chipotle-ranch-dressing.md>
 

@@ -13,15 +13,17 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.75 cup Whipped Almond Ricotta
-- 0.5 cup pesto
-- 6 cups mixed greens or spinach
-- 0.5 cup sun-dried tomatoes
-- 0.5 cup pine nuts
-- 0.5 cup cooked chickpeas
-- 3 Tbsp lemon juice (optional)
+- :cheese_wedge: 0.75 cup (170 g) [Whipped Almond Ricotta][2]
+- :herb: 0.5 cup (115 g) [pesto][3]
+- :leafy_green: 6 cups (180 g) mixed greens or spinach
+- :tomato: 0.5 cup (85 g) [sun-dried tomatoes][4]
+- :chestnut: 0.5 cup (70 g) pine nuts
+- :beans: 0.5 cup (100 g) cooked [chickpeas][5]
+- :tangerine: 3 Tbsp lemon juice (optional)
 
 ## :cooking: Cookware
+
+- :shallow_pan_of_food: 1 serving platter
 
 ## :pencil: Instructions
 
@@ -48,4 +50,7 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 - <https://minimalistbaker.com/vegan-ricotta-sun-dried-tomato-pesto-salad/>
 
 [1]: <../assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg>
+[2]: <../sauces-and-dressings/whipped-almond-ricotta.md>
+[3]: <../sauces-and-dressings/pesto/basic-pesto.md>
+[5]: <../ingredients/chickpeas.md>
 

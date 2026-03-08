@@ -13,21 +13,21 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 Tbsp olive oil
-- 6 cups broccoli florets
-- 3 cups peas
-- some salt
-- some pepper
-- 1 15-oz can chickpeas
-- 0.75 cup crumbled feta
-- 1 tsp lemon zest
-- 0.5 lemon lemon juice
-- 1 tsp olive oil
+- :olive: 3 Tbsp olive oil
+- :broccoli: 6 cups (540 g) broccoli florets
+- :beans: 3 cups (450 g) peas
+- :salt: some salt
+- :salt: some pepper
+- :beans: 1 15-oz can [chickpeas][2]
+- :cheese_wedge: 0.75 cup (85 g) [feta cheese][3]
+- :tangerine: 1 tsp lemon zest
+- :tangerine: 0.5 lemon juice
+- :olive: 1 tsp olive oil
 
 ## :cooking: Cookware
 
-- 1 large skillet
-- 1 bowl
+- :shallow_pan_of_food: 1 large skillet
+- :bowl_with_spoon: 1 bowl
 
 ## :pencil: Instructions
 
@@ -44,4 +44,6 @@ Cook for 5 minutes, then add the peas. Season with salt and pepper and cook for 
 Pour veggies into a bowl and cool for 10 minutes. Add chickpeas, crumbled feta, lemon zest, lemon juice, and olive oil.
 
 [1]: <../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg>
+[2]: <../ingredients/chickpeas.md>
+[3]: <../ingredients/feta-cheese.md>
 

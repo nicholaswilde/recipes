@@ -13,24 +13,24 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 ripe Anjou pear
-- 3 Tbsp red wine vinegar
-- 1 Tbsp shallot
-- 1 Tbsp Dijon mustard
-- 1 tsp brown sugar
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 0.25 cup canola oil
-- 1 Tbsp lemon juice
-- 8 oz spinach
-- 3 oz Gorgonzola
-- 0.5 cup walnuts
-- 0.25 cup pomegranate seeds
+- :apple: 1 ripe Anjou pear
+- :wine_glass: 3 Tbsp red wine vinegar
+- :garlic: 1 Tbsp shallot
+- :baby_bottle: 1 Tbsp [Dijon mustard][2]
+- :candy: 1 tsp brown sugar
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
+- :olive: 0.25 cup (50 g) canola oil
+- :tangerine: 1 Tbsp lemon juice
+- :leafy_green: 8 oz spinach
+- :cheese_wedge: 3 oz Gorgonzola
+- :chestnut: 0.5 cup (55 g) walnuts
+- :seedling: 0.25 cup (45 g) pomegranate seeds
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 large bowl
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 
@@ -55,4 +55,5 @@ Gorgonzola, walnuts, pomegranate seeds, and sliced pear. Drizzle remaining 1/4 c
 - Cook's Illustrated
 
 [1]: <../assets/images/spinach-salad-with-gorgonzola-and-pear.jpg>
+[2]: <../ingredients/dijon-mustard.md>
 

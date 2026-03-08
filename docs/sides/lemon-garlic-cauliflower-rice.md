@@ -13,18 +13,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 1 Tbsp garlic
-- 1 bag TJ's Riced Cauliflower
-- 1 Tbsp lemon juice
-- 2 Tbsp parsley
-- 0.33 cup Chiave d’Oro Cheese
-- some salt
-- some pepper
+- :olive: 1 Tbsp olive oil
+- :garlic: 1 Tbsp garlic
+- :broccoli: 1 bag TJ's Riced Cauliflower
+- :tangerine: 1 Tbsp lemon juice
+- :herb: 2 Tbsp parsley
+- :cheese_wedge: 0.33 cup (35 g) Chiave d’Oro Cheese
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
-- 1 large, nonstick skillet
+- :shallow_pan_of_food: 1 large, nonstick skillet
 
 ## :pencil: Instructions
 

@@ -13,17 +13,17 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 cups cubed carrots, sweet potatoes, and/or butternut squash
-- 3 cups cauliflower florets, halved Brussels sprouts, or halved tiny new potatoes
-- 2 Tbsp olive oil
-- 0.25 tsp salt
-- 0.25 tsp pepper
-- 1 Jalapeño Lime Pesto
+- :carrot: 3 cups (450 g) cubed carrots, sweet potatoes, and/or butternut squash
+- :broccoli: 3 cups (300 g) cauliflower florets, halved Brussels sprouts, or halved tiny new potatoes
+- :olive: 2 Tbsp olive oil
+- :salt: 0.25 tsp salt
+- :salt: 0.25 tsp pepper
+- :herb: 1 [Jalapeño Lime Pesto][2]
 
 ## :cooking: Cookware
 
-- 1 15 x 10 inch baking pan
-- 1 foil
+- :cookie: 1 15 x 10 inch baking pan
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 
@@ -57,4 +57,5 @@ Toss or tip with Jalapeño Lime Pesto.
 - Magnolia
 
 [1]: <../assets/images/zesty-roasted-vegetables.jpg>
+[2]: <../sauces-and-dressings/pesto/jalapeño-lime-pesto.md>
 
