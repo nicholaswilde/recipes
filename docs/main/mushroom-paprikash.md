@@ -13,18 +13,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 Tbsp olive oil
-- 1 medium yellow onion
-- 2 Tbsp sweet paprika
-- some water
-- 16 oz mushrooms
-- some salt
-- 1 cup sour cream
-- some egg noodles or spaetzle
+- :olive: 3 Tbsp olive oil
+- :onion: 1 medium yellow onion
+- :hot_pepper: 2 Tbsp sweet paprika
+- :droplet: some water
+- :mushroom: 16 oz mushrooms
+- :salt: some salt
+- :baby_bottle: 1 cup (227 g) sour cream
+- :ear_of_rice: some egg noodles or spaetzle
 
 ## :cooking: Cookware
 
-- 1 large pan or Dutch oven
+- :shallow_pan_of_food: 1 large pan or Dutch oven
 
 ## :pencil: Instructions
 

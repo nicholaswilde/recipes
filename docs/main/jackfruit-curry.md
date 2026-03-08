@@ -13,28 +13,28 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 14-oz can jackfruit
-- 1 Tbsp coriander seeds
-- 1 tsp cumin seeds
-- 0.75 inch fresh ginger
-- 4 cloves garlic
-- 1 small green chili
-- 0.25 tsp black peppercorns
-- 1 Tbsp vegetable oil
-- 1 bay leaf
-- 2 dried red chillies
-- 1 tsp cumin seeds
-- 2 medium onions
-- 2 tomatoes
-- 0.5 tsp salt
-- 0.5 tsp turmeric
-- 1 tsp garam masala
-- 0.5 tsp granulated sugar
+- :melon: 1 14-oz can jackfruit
+- :seedling: 1 Tbsp coriander seeds
+- :seedling: 1 tsp cumin seeds
+- :sweet_potato: 0.75 inch fresh ginger
+- :garlic: 4 cloves garlic
+- :hot_pepper: 1 small green chili
+- :salt: 0.25 tsp black peppercorns
+- :olive: 1 Tbsp vegetable oil
+- :herb: 1 bay leaf
+- :hot_pepper: 2 dried red chillies
+- :seedling: 1 tsp cumin seeds
+- :onion: 2 medium onions
+- :tomato: 2 tomatoes
+- :salt: 0.5 tsp salt
+- :curry: 0.5 tsp turmeric
+- :curry: 1 tsp garam masala
+- :candy: 0.5 tsp granulated sugar
 
 ## :cooking: Cookware
 
-- 1 small blender
-- 1 pan
+- :gear: 1 small blender
+- :shallow_pan_of_food: 1 pan
 
 ## :pencil: Instructions
 

@@ -13,39 +13,43 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 large butternut squash
-- 1 Tbsp olive oil
-- some salt
-- some pepper
-- 1 Tbsp maple syrup
-- 0.5 tsp cayenne
-- 5 oz goat cheese
-- 0.5 cup whole milk or vegetable broth
-- 2 Tbsp sour cream
-- 1 Tbsp grapeseed oil
-- 2 lime juice and zest
-- 2 Tbsp granulated sugar
-- some salt
-- some pepper
-- 6 cups shredded cabbage
-- 2 green onions
-- 0.5 cup cilantro
-- 4 poblano peppers
-- 3 Tbsp olive oil
-- 0.5 tsp salt
-- 1 Tbsp olive oil
-- 0.5 yellow onion
-- 1 lb cremini mushrooms
-- 3 cloves garlic
-- 1.5 cups cooked lentils
-- 0.5 cup vegetable broth
-- 2 tsp cumin
-- some vinegar
-- 0.33 cup cilantro
-- 0.5 cup toasted pepitas
-- 5 oz goat cheese
+- :melon: 1 large butternut squash
+- :olive: 1 Tbsp olive oil
+- :salt: some salt
+- :salt: some pepper
+- :honey_pot: 1 Tbsp maple syrup
+- :hot_pepper: 0.5 tsp cayenne
+- :cheese_wedge: 5 oz goat cheese
+- :stew: 0.5 cup (115 g) whole milk or [vegetable broth][2]
+- :baby_bottle: 2 Tbsp sour cream
+- :olive: 1 Tbsp grapeseed oil
+- :tangerine: 2 lime juice and zest
+- :candy: 2 Tbsp granulated sugar
+- :salt: some salt
+- :salt: some pepper
+- :leafy_green: 6 cups (420 g) shredded cabbage
+- :onion: 2 green onions
+- :herb: 0.5 cup (20 g) cilantro
+- :hot_pepper: 4 poblano peppers
+- :olive: 3 Tbsp olive oil
+- :salt: 0.5 tsp salt
+- :olive: 1 Tbsp olive oil
+- :onion: 0.5 yellow onion
+- :mushroom: 1 lb cremini mushrooms
+- :garlic: 3 cloves garlic
+- :beans: 1.5 cups (300 g) cooked [lentils][3]
+- :stew: 0.5 cup (115 g) [vegetable broth][2]
+- :chestnut: 2 tsp cumin
+- :wine_glass: some vinegar
+- :herb: 0.33 cup (15 g) cilantro
+- :seedling: 0.5 cup (64 g) toasted pepitas
+- :cheese_wedge: 5 oz goat cheese
 
 ## :cooking: Cookware
+
+- :shallow_pan_of_food: 1 skillet
+- :cookie: 1 baking sheet
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 
@@ -80,4 +84,6 @@ side of slaw. Garnish with cilantro and toasted pepitas and crumbled goat cheese
 - Recipe Box
 
 [1]: <../assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.jpg>
+[2]: <../ingredients/vegetable-broth.md>
+[3]: <../ingredients/lentils.md>
 

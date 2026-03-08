@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 Tbsp unsalted butter
-- 1 container TJ's mirepoix
-- 1 pkg TJ's beefless beef
-- 1 bag mushroom medley
-- 2 Tbsp tomato paste
-- 2 Tbsp all-purpose flour
-- 2 cups vegetable broth
-- 3 Tbsp TJ's Mushroom and Company Multipurpose umami seasoning
-- 1 cup peas
-- 1 pkg TJ's prepared mashed potatoes
+- :butter: 3 Tbsp unsalted butter
+- :carrot: 1 container TJ's mirepoix
+- :cut_of_meat: 1 pkg TJ's beefless beef
+- :mushroom: 1 bag mushroom medley
+- :tomato: 2 Tbsp tomato paste
+- :bread: 2 Tbsp all-purpose flour
+- :stew: 2 cups (455 g) [vegetable broth][2]
+- :salt: 3 Tbsp TJ's Mushroom and Company Multipurpose umami seasoning
+- :beans: 1 cup (150 g) peas
+- :sweet_potato: 1 pkg TJ's prepared mashed potatoes
 
 ## :cooking: Cookware
 
-- 1 12-inch cast iron pan or oven-safe pan
+- :shallow_pan_of_food: 1 12-inch cast iron pan or oven-safe pan
 
 ## :pencil: Instructions
 
@@ -69,4 +69,5 @@ Cool for 15 minutes, before serving.
 - <https://www.traderjoes.com/home/recipes/meatless-umami-shepherds-pie>
 
 [1]: <../assets/images/meatless-umami-shepherd's-pie.png>
+[2]: <../ingredients/vegetable-broth.md>
 

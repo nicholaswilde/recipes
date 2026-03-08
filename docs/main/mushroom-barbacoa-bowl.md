@@ -13,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 cloves garlic
-- 1 medium yellow onion
-- 3 Tbsp lime juice
-- 3 chipotle peppers (optional)
-- 1 Tbsp cumin
-- 1 tsp oregano
-- 1 pinch cloves
-- 2 lbs portobello mushrooms
-- some salt
-- some pepper
-- 2 cups brown rice
-- 2 cups steamed vegetables
-- 1 Roasted Red Pepper Sauce
+- :garlic: 4 cloves garlic
+- :onion: 1 medium yellow onion
+- :tangerine: 3 Tbsp lime juice
+- :hot_pepper: 3 chipotle peppers (optional)
+- :chestnut: 1 Tbsp cumin
+- :herb: 1 tsp oregano
+- :chestnut: 1 pinch cloves
+- :mushroom: 2 lbs portobello mushrooms
+- :salt: some salt
+- :salt: some pepper
+- :ear_of_rice: 2 cups (340 g) cooked [brown rice][2]
+- :carrot: 2 cups (285 g) steamed vegetables
+- :hot_pepper: 1 [Roasted Red Pepper Sauce][3]
 
 ## :cooking: Cookware
 
-- 1 large skillet
+- :shallow_pan_of_food: 1 large skillet
 
 ## :pencil: Instructions
 
@@ -65,4 +65,6 @@ Top with the Barbacoa Mushrooms, steamed vegetables, and the Roasted Red Pepper 
 - <https://nutritionstudies.org/recipes/main-dish/mushroom-barbacoa-bowl/>
 
 [1]: <../assets/images/mushroom-barbacoa-bowl.jpg>
+[2]: <../ingredients/brown-rice.md>
+[3]: <../sauces-and-dressings/roasted-red-pepper-sauce.md>
 

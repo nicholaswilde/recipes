@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 small onion
-- 1 small carrot
-- 0.5 cup ground walnuts
-- 1 cup bread crumbs
-- 1 cup brown lentils
-- 0.25 cup soft tofu
-- 2 Tbsp tahini
-- 1 Tbsp soy sauce
-- 1 Tbsp parsley
-- 1 pkg TJs soy meat
-- some salt
-- some pepper
+- :onion: 1 small onion
+- :carrot: 1 small carrot
+- :chestnut: 0.5 cup (57 g) ground walnuts
+- :bread: 1 cup (113 g) bread crumbs
+- :beans: 1 cup (200 g) cooked brown [lentils][2]
+- :cheese_wedge: 0.25 cup (60 g) soft tofu
+- :takeout_box: 2 Tbsp [tahini][3]
+- :takeout_box: 1 Tbsp [soy sauce][4]
+- :herb: 1 Tbsp parsley
+- :cut_of_meat: 1 pkg TJs soy meat
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
-- 1 9x5" loaf pan
-- 1 skillet
-- 1 bowl
-- 1 food processor
-- 1 pan
-- 1 foil
+- :cookie: 1 9x5" loaf pan
+- :shallow_pan_of_food: 1 skillet
+- :bowl_with_spoon: 1 bowl
+- :gear: 1 food processor
+- :shallow_pan_of_food: 1 pan
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 
@@ -80,4 +80,7 @@ Cover with foil and bake for 45 minutes.
 Remove foil and bake for 7 to 10 minutes more.
 
 [1]: <../assets/images/meat-free-meat-loaf.jpg>
+[2]: <../ingredients/lentils.md>
+[3]: <../sauces-and-dressings/tahini.md>
+[4]: <../ingredients/soy-sauce.md>
 

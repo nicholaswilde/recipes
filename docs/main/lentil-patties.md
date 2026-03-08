@@ -13,22 +13,22 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup dry lentils
-- 2.5 cups water
-- 1 tsp salt
-- 0.5 medium onion
-- 1 carrot
-- 1 Tbsp olive oil
-- 1 tsp pepper
-- some salt
-- 1 Tbsp soy sauce
-- 0.75 cup rolled oats
-- 0.75 cup bread crumbs
-- 2 eggs (optional)
+- :beans: 1 cup (210 g) dry [lentils][2]
+- :droplet: 2.5 cups (570 g) water
+- :salt: 1 tsp salt
+- :onion: 0.5 medium onion
+- :carrot: 1 carrot
+- :olive: 1 Tbsp olive oil
+- :salt: 1 tsp pepper
+- :salt: some salt
+- :takeout_box: 1 Tbsp [soy sauce][3]
+- :ear_of_rice: 0.75 cup (75 g) rolled oats
+- :bread: 0.75 cup (85 g) bread crumbs
+- :egg: 2 [eggs][4] (optional)
 
 ## :cooking: Cookware
 
-- 1 bowl
+- :bowl_with_spoon: 1 bowl
 
 ## :pencil: Instructions
 
@@ -63,4 +63,7 @@ Burgers can be then shallow fried for 1 to 2 minutes on each side or baked at 40
 - HEAT Culinary
 
 [1]: <../assets/images/lentil-patties.jpg>
+[2]: <../ingredients/lentils.md>
+[3]: <../ingredients/soy-sauce.md>
+[4]: <../ingredients/eggs.md>
 

@@ -13,29 +13,29 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.5 cup granulated sugar
-- 1 cup water
-- 1 orange zest
-- 2 medium carrot
-- 0.25 cup dates
-- 0.25 cup raisins
-- 0.25 cup dried cranberries
-- 1 Tbsp olive oil
-- 2 Tbsp unsalted butter
-- 0.25 tsp saffron
-- 1 medium onion
-- 0.25 tsp cardamom
-- 0.25 tsp turmeric
-- 1 Tbsp olive oil
-- 2 cups basmati rice
-- 0.25 cup unsalted, shelled, and natural pistachios
-- 1 cup water
-- 3 Tbsp olive oil
+- :candy: 0.5 cup (100 g) granulated sugar
+- :droplet: 1 cup (227 g) water
+- :tangerine: 1 orange zest
+- :carrot: 2 medium carrot
+- :chestnut: 0.25 cup (37 g) dates
+- :apple: 0.25 cup (37 g) raisins
+- :apple: 0.25 cup (30 g) dried cranberries
+- :olive: 1 Tbsp olive oil
+- :butter: 2 Tbsp unsalted butter
+- :tulip: 0.25 tsp saffron
+- :onion: 1 medium onion
+- :seedling: 0.25 tsp cardamom
+- :curry: 0.25 tsp turmeric
+- :olive: 1 Tbsp olive oil
+- :ear_of_rice: 2 cups (395 g) basmati rice
+- :seedling: 0.25 cup (30 g) unsalted, shelled, and natural pistachios
+- :droplet: 1 cup (227 g) water
+- :olive: 3 Tbsp olive oil
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 wooden spoon
+- :shallow_pan_of_food: 1 medium saucepan
+- :spoon: 1 wooden spoon
 
 ## :pencil: Instructions
 

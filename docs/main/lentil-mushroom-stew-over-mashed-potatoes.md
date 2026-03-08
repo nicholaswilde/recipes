@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 Tbsp olive oil
-- 0.5 cup shallot
-- 2 cups cremini mushrooms
-- 2 Tbsp coconut aminos
-- 1 pinch salt
-- 1 pinch pepper
-- 2 Tbsp thyme
-- 0.67 cup green lentils
-- 2 cups vegetable broth
-- 1 lb yellow potatoes
-- some salt
-- some pepper
-- 2 Tbsp olive oil
-- 4 Tbsp unsweetened plain almond milk or vegetable broth (for moisture)
-- some parsley (optional)
-- some vegan Parmesan cheese (optional)
+- :olive: 1 Tbsp olive oil
+- :garlic: 0.5 cup (78 g) shallot
+- :mushroom: 2 cups (155 g) cremini mushrooms
+- :takeout_box: 2 Tbsp coconut aminos
+- :salt: 1 pinch salt
+- :salt: 1 pinch pepper
+- :herb: 2 Tbsp thyme
+- :beans: 0.67 cup (140 g) green lentils
+- :stew: 2 cups (455 g) [vegetable broth][2]
+- :sweet_potato: 1 lb yellow potatoes
+- :salt: some salt
+- :salt: some pepper
+- :olive: 2 Tbsp olive oil
+- :glass_of_milk: 4 Tbsp unsweetened plain almond milk or [vegetable broth][2] (for moisture)
+- :herb: some parsley (optional)
+- :cheese_wedge: some [vegan Parmesan cheese][3] (optional)
 
 ## :cooking: Cookware
 
-- 1 large rimmed pan
-- 1 large pot
+- :shallow_pan_of_food: 1 large rimmed pan
+- :shallow_pan_of_food: 1 large pot
 
 ## :pencil: Instructions
 
@@ -86,4 +86,6 @@ stovetop or in a 350°F (176°C) oven until hot.
 - <https://minimalistbaker.com/lentil-mushroom-stew-over-mashed-potatoes/>
 
 [1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg>
+[2]: <../ingredients/vegetable-broth.md>
+[3]: <../ingredients/vegan-parmesan.md>
 
