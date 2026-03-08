@@ -26,7 +26,7 @@ tags:
 - :hot_pepper: 1 tsp smoked paprika
 - 200 g uncooked rice
 - :wine_glass: 3 oz white wine
-- :potage: 2 cups vegetable stock
+- :stew: 2 cups vegetable stock
 - 4 scallions
 - :tomato: 1 tomato
 - :herb: 1 small bunch parsley

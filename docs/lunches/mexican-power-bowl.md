@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :beans: 2.5 cups dried black beans
-- :potage: 7 cups low-sodium vegetable broth
+- :stew: 7 cups low-sodium vegetable broth
 - :onion: 1 large onion
 - :garlic: 6 cloves garlic
 - :chestnut: 2 tsp ground cumin
@@ -26,7 +26,7 @@ tags:
 - :salt: 1.5 tsp salt
 - :tangerine: 2 Tbsp fresh lime juice
 - :sweet_potato: 5 large sweet potatoes
-- :potage: 3 Tbsp vegetable broth or water
+- :stew: 3 Tbsp vegetable broth or water
 - 4 tsp chili powder
 - :chestnut: 1.5 tsp ground cumin
 - :hot_pepper: 1.5 tsp smoked paprika

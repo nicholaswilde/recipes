@@ -28,7 +28,7 @@ tags:
 - :hot_pepper: 1 tsp red-pepper flakes
 - :beans: 2 15-ounce cans (850 g) chickpeas
 - :coconut: 2 15-ounce cans (800 ml) full-fat coconut milk
-- :potage: 2 cups (454 g) vegetable stock
+- :stew: 2 cups (454 g) vegetable stock
 - :leafy_green: 1 bunch Swiss chard, kale, or collard greens
 - :herb: 1 cup (20 g) fresh mint leaves
 - :baby_bottle: some yogurt

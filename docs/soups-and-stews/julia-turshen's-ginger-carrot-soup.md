@@ -29,7 +29,7 @@ tags:
 - :sweet_potato: 2 tsp ground dried ginger
 - :salt: some kosher salt
 - :coconut: 1 13.5-oz can full-fat coconut milk
-- :potage: 4 cups (907 g) vegetable broth
+- :stew: 4 cups (907 g) vegetable broth
 - :hot_pepper: some chili oil
 
 ## :cooking: Cookware
