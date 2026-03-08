@@ -2,7 +2,7 @@
 
 ## Steps
 1. [x] **Batch 1 (10 recipes):** (d231bb0) Process first 10 recipes in `docs/main/`.
-2. [ ] **Batch 2 (10 recipes):** Process next 10 recipes in `docs/main/`.
+2. [x] **Batch 2 (10 recipes):** (15d4d6f) Process next 10 recipes in `docs/main/`.
 3. [ ] **Batch 3 (10 recipes):** Process remaining recipes in `docs/main/`.
 4. [ ] **Batch 4 (10 recipes):** Process recipes in `docs/breakfast/` and `docs/lunches/`.
 5. [ ] **Batch 5 (15 recipes):** Process recipes in `docs/sides/` and `docs/tarts/`.
