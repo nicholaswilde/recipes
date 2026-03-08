@@ -1,0 +1,27 @@
+Task: Move Desserts
+Summary: Consolidated recipes from cook/custards and cook/tarts into cook/desserts or cook/main. Updated doc files accordingly. Added custard/tart tags.
+Files:
+- cook/desserts/Crème Bavaroise.cook
+- cook/desserts/Crème Bavaroise.png
+- cook/desserts/Crème Chiboust.cook
+- cook/desserts/Crème Chiboust.jpg
+- cook/desserts/Crème Diplomat.cook
+- cook/desserts/Crème Diplomat.png
+- cook/desserts/Brioche Tart.cook
+- cook/desserts/Brioche Tart.jpg
+- cook/desserts/Lemon Tart.cook
+- cook/desserts/Lemon Tart.jpg
+- cook/main/Caramelized Onion, Spinach, and Sweet Potato Tart.cook
+- cook/main/Caramelized Onion, Spinach, and Sweet Potato Tart.jpg
+- cook/main/Shallot Onion and Chive Tart.cook
+- cook/main/Shallot Onion and Chive Tart.jpg
+- docs/desserts/crème-bavaroise.md
+- docs/desserts/crème-brûlée.md
+- docs/desserts/crème-chiboust.md
+- docs/desserts/crème-diplomat.md
+- docs/desserts/crème-pâtissière.md
+- docs/desserts/brioche-tart.md
+- docs/desserts/lemon-tart.md
+- docs/main/caramelized-onion,-spinach,-and-sweet-potato-tart.md
+- docs/main/shallot-onion-and-chive-tart.md
+Why: Merging small/overlapping categories into established ones for a cleaner structure.
