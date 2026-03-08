@@ -6,3 +6,4 @@ ignore:
 files:
   - "./cook/**/*.cook"
   - "./docs/**/*.md"
+  - "!conductor/**/*"
