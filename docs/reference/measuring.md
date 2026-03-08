@@ -250,8 +250,10 @@ $$
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
 | Olive Oil                                             | 1/4 cup           | 50          | 1-/34       |
 | Onion (fresh, diced)                                  | 1 cups            | 142         | 5           |
+| Orzo                                                  | 1 cup             | 200         | 7           |
 | Peanut Butter                                         | 1 cup             | 135         | 4-3/4       |
 | Peanuts (whole, shelled)                              | 1 cup             | 142         | 5           |
+| Peas (frozen)                                         | 1 cup             | 150         | 5-1/4       |
 | Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
 | Pine Nuts                                             | 1/2 cup           | 71          | 2-1/2       |
 | Pineapple (crushed, drained)                          | 1 cup             | 256         | 9           |
