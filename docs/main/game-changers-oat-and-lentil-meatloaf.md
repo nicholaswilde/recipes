@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 stalks celery
-- 0.5 onion
-- 2 cloves garlic
-- 10 oz firm tofu
-- 0.25 cup walnuts
-- 0.5 cup brown lentils
-- 1.25 cups quick-cooking oats
-- 0.5 tsp thyme
-- 0.5 rosemary
-- 2 Tbsp soy sauce
-- 1 Tbsp Dijon mustard
-- 2 tsp parsley
-- 0.5 tsp sage
-- 2 Tbsp BBQ sauce
+- :leafy_green: 2 stalks celery
+- :onion: 0.5 onion
+- :garlic: 2 cloves garlic
+- :cheese_wedge: 10 oz firm tofu
+- :chestnut: 0.25 cup (28 g) walnuts
+- :beans: 0.5 cup (105 g) brown lentils
+- :ear_of_rice: 1.25 cups (125 g) quick-cooking oats
+- :herb: 0.5 tsp thyme
+- :herb: 0.5 tsp rosemary
+- :takeout_box: 2 Tbsp [soy sauce][2]
+- :baby_bottle: 1 Tbsp Dijon mustard
+- :herb: 2 tsp parsley
+- :herb: 0.5 tsp sage
+- :hot_springs: 2 Tbsp BBQ sauce
 
 ## :cooking: Cookware
 
-- 1 skillet
-- 1 large bowl
-- 1 loaf pan
-- 1 foil
+- :shallow_pan_of_food: 1 skillet
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 loaf pan
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 
@@ -64,4 +64,5 @@ Best if allowed to fest for at least 1 hour.
 - <https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/>
 
 [1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.jpg>
+[2]: <../ingredients/soy-sauce.md>
 

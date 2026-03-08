@@ -13,26 +13,26 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 15-oz cans black beans
-- 4 Tbsp olive oil
-- 1 medium onion
-- 1 large poblano pepper
-- 3 cloves garlic
-- 1 chipotle chile in adobo sauce
-- 0.75 cup roasted cashews
-- 0.5 cup feta or cotija cheese
-- 0.75 cup panko bread crumbs
-- 1 large egg
-- 2 Tbsp mayonnaise
-- some salt
-- some pepper
-- 8 hamburger buns
-- some pepper jack, cheddar, muenster, or Swiss cheese (optional)
+- :beans: 2 15-oz cans black beans
+- :olive: 4 Tbsp olive oil
+- :onion: 1 medium onion
+- :hot_pepper: 1 large poblano pepper
+- :garlic: 3 cloves garlic
+- :hot_pepper: 1 chipotle chile in adobo sauce
+- :chestnut: 0.75 cup (85 g) roasted cashews
+- :cheese_wedge: 0.5 cup (57 g) feta or cotija cheese
+- :bread: 0.75 cup (150 g) panko bread crumbs
+- :egg: 1 large egg
+- :baby_bottle: 2 Tbsp [mayonnaise][2]
+- :salt: some salt
+- :salt: some pepper
+- :bread: 8 hamburger buns
+- :cheese_wedge: some pepper jack, cheddar, muenster, or Swiss cheese (optional)
 
 ## :cooking: Cookware
 
-- 1 foil-lined rimmed baking sheet
-- 1 food processor
+- :cookie: 1 foil-lined rimmed baking sheet
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 
@@ -95,4 +95,5 @@ Tip: Chipotle mayonnaise works well as a condiment.
 - <https://www.seriouseats.com/the-best-black-bean-burger-recipe>
 
 [1]: <../assets/images/black-bean-burgers.jpg>
+[2]: <../sauces-and-dressings/mayonnaise.md>
 

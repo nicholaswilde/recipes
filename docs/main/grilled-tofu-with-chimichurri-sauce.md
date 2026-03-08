@@ -13,18 +13,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 tsp granulated garlic
-- 1 tsp smoked paprika
-- 1 tsp cumin
-- 1 lb extra-firm tofu
-- some olive oil
-- some salt
-- 1 Chimichurri Sauce
+- :garlic: 2 tsp granulated garlic
+- :hot_pepper: 1 tsp smoked paprika
+- :chestnut: 1 tsp cumin
+- :cheese_wedge: 1 lb extra-firm tofu
+- :olive: some olive oil
+- :salt: some salt
+- :leafy_green: 1 [Chimichurri Sauce][2]
 
 ## :cooking: Cookware
 
-- 1 tongs
-- 1 flat spatula
+- :knife: 1 tongs
+- :spoon: 1 flat spatula
 
 ## :pencil: Instructions
 
@@ -52,4 +52,5 @@ Chimichurri Sauce.
 - <https://www.thesoyfoodscouncil.com/post/grilled-tofu-with-chimichurri-sauce-and-grilled-garlic-bread-2>
 
 [1]: <../assets/images/grilled-tofu-with-chimichurri-sauce.png>
+[2]: <../sauces-and-dressings/chimichurri-sauce.md>
 

@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients
 
-- 1.5 cups vegetable broth
-- 1.5 cups milk
-- 0.75 cup white stone ground grits (not instant)
-- 0.25 tsp salt
-- 1 cup cheddar
-- 6 links soy Italian sausages
-- 2 cups cherry tomatoes
-- 2 Tbsp parsley
+- :stew: 1.5 cups (340 g) [vegetable broth][2]
+- :glass_of_milk: 1.5 cups (340 g) milk
+- :ear_of_rice: 0.75 cup (125 g) white stone ground grits (not instant)
+- :salt: 0.25 tsp salt
+- :cheese_wedge: 1 cup (113 g) cheddar
+- :cut_of_meat: 6 links soy Italian sausages
+- :tomato: 2 cups (300 g) cherry tomatoes
+- :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware
 
-- 1 saucepan
-- 1 skillet
+- :shallow_pan_of_food: 1 saucepan
+- :shallow_pan_of_food: 1 skillet
 
 ## :pencil: Instructions
 
@@ -50,4 +50,5 @@ Remove from heat and stir in shredded cheddar cheese. Lightly brown soy Italian 
 Serve over grits with chopped halved cherry tomatoes and parsley.
 
 [1]: <../assets/images/italian-sausage-with-grits-&-tomatoes.jpg>
+[2]: <../ingredients/vegetable-broth.md>
 

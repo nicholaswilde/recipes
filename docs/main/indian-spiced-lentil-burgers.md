@@ -13,27 +13,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup brown or green lentils
-- 1 15-oz can chickpeas
-- 2 scallions
-- 0.33 cup cilantro or flat-leaf parsley
-- 1 lemon
-- 2 tsp garam masala
-- 0.5 tsp cumin
-- 0.75 tsp salt
-- 0.25 tsp black pepper
-- 1 pinch cayenne pepper
-- 3 Tbsp olive oil
-- some shredded romaine and carrots
-- 1 cucumber
-- some hot sauce
+- :beans: 1 cup (210 g) brown or green lentils
+- :beans: 1 15-oz can chickpeas
+- :onion: 2 scallions
+- :herb: 0.33 cup (15 g) cilantro or flat-leaf parsley
+- :tangerine: 1 lemon
+- :curry: 2 tsp garam masala
+- :chestnut: 0.5 tsp cumin
+- :salt: 0.75 tsp salt
+- :salt: 0.25 tsp black pepper
+- :hot_pepper: 1 pinch cayenne pepper
+- :olive: 3 Tbsp olive oil
+- :leafy_green: some shredded romaine and carrots
+- :cucumber: 1 cucumber
+- :hot_pepper: some hot sauce
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 strainer
-- 1 food processor
-- 1 large
+- :shallow_pan_of_food: 1 medium saucepan
+- :wastebasket: 1 strainer
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

@@ -13,29 +13,29 @@ tags:
 
 ## :salt: Ingredients
 
-- 6 cups vegetable broth
-- some salt
-- 1.5 cups polenta
-- 3 Tbsp butter
-- 2 Tbsp nutritional yeast
-- some black pepper
-- 3 Tbsp olive oil
-- 1 small yellow onion
-- 1 lb cremini mushrooms
-- 2 tsp rosemary
-- 4 cloves garlic
-- 1 pinch red-pepper flakes
-- 3 Tbsp tomato paste
-- 0.67 cup red wine
-- 1 cup vegetable broth
-- 2 small bunches curly kale
-- 1 tsp red wine vinegar
+- :stew: 6 cups (1.4 kg) [vegetable broth][2]
+- :salt: some salt
+- :ear_of_rice: 1.5 cups (245 g) polenta
+- :butter: 3 Tbsp butter
+- :cheese_wedge: 2 Tbsp nutritional yeast
+- :salt: some black pepper
+- :olive: 3 Tbsp olive oil
+- :onion: 1 small yellow onion
+- :mushroom: 1 lb cremini mushrooms
+- :herb: 2 tsp rosemary
+- :garlic: 4 cloves garlic
+- :hot_pepper: 1 pinch red-pepper flakes
+- :tomato: 3 Tbsp tomato paste
+- :wine_glass: 0.67 cup (150 g) red wine
+- :stew: 1 cup (227 g) [vegetable broth][2]
+- :leafy_green: 2 small bunches curly kale
+- :wine_glass: 1 tsp red wine vinegar
 
 ## :cooking: Cookware
 
-- 1 large saucepan
-- 1 wooden spoon
-- 1 12-inch skillet
+- :shallow_pan_of_food: 1 large saucepan
+- :spoon: 1 wooden spoon
+- :shallow_pan_of_food: 1 12-inch skillet
 
 ## :pencil: Instructions
 
@@ -80,4 +80,5 @@ sprinkled with parsley.
 - <https://cooking.nytimes.com/recipes/1021827-creamy-vegan-polenta-with-mushrooms-and-kale>
 
 [1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg>
+[2]: <../ingredients/vegetable-broth.md>
 

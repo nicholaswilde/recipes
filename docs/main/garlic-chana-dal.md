@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients
 
-- 400 g dal (split chickpeas)
-- 1500 g water
-- 1 tsp turmeric
-- 1.5 tsp salt
-- 3 Tbsp ghee or oil
-- 1 tsp cumin seeds
-- 8 cloves garlic
-- 1 tsp chili powder
-- 1 large handful coriander
+- :beans: 400 g [dal (split chickpeas)][2]
+- :droplet: 1.5 L water
+- :curry: 1 tsp turmeric
+- :salt: 1.5 tsp salt
+- :olive: 3 Tbsp ghee or oil
+- :seedling: 1 tsp cumin seeds
+- :garlic: 8 cloves garlic
+- :hot_pepper: 1 tsp chili powder
+- :herb: 1 large handful coriander
 
 ## :cooking: Cookware
 
-- 1 pan
+- :shallow_pan_of_food: 1 pan
 
 ## :pencil: Instructions
 
@@ -52,4 +52,5 @@ I like to serve mine with onion and pea pulao. Time to tuck in!
 - <https://www.youtube.com/watch?v=wmR6WuibsYk>
 
 [1]: <../assets/images/garlic-chana-dal.jpg>
+[2]: <../ingredients/dal.md>
 

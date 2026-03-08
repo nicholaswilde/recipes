@@ -13,19 +13,19 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 baby bulbs fennel
-- 1 sweet onion (Vidalia)
-- 3 Yukon gold potatoes
-- 3 Tbsp olive oil
-- 1 cup water
-- 3 bay leaves
-- 1 cup water
-- some salt
-- some pepper
+- :herb: 3 baby bulbs fennel
+- :onion: 1 sweet onion (Vidalia)
+- :sweet_potato: 3 Yukon gold potatoes
+- :olive: 3 Tbsp olive oil
+- :droplet: 1 cup (227 g) water
+- :herb: 3 bay leaves
+- :droplet: 1 cup (227 g) water
+- :salt: some salt
+- :salt: some pepper
 
 ## :cooking: Cookware
 
-- 1 large sauté pan
+- :shallow_pan_of_food: 1 large sauté pan
 
 ## :pencil: Instructions
 

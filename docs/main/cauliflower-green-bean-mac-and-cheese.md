@@ -13,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 Tbsp apple cider vinegar
-- 1 tsp cumin
-- 1 tsp garam masala
-- 0.5 tsp turmeric
-- 0.25 tsp ground ginger
-- 0.5 tsp salt
-- 8 oz green beans
-- 1 pkg cauliflower florets
-- 1 12-oz pkg red lentil pasta
-- 3 Tbsp toasted crushed almonds
-- 0.25 cup raisins
-- some cilantro
+- :apple: 1 Tbsp apple cider vinegar
+- :chestnut: 1 tsp cumin
+- :curry: 1 tsp garam masala
+- :curry: 0.5 tsp turmeric
+- :sweet_potato: 0.25 tsp ground ginger
+- :salt: 0.5 tsp salt
+- :beans: 8 oz green beans
+- :broccoli: 1 pkg cauliflower florets
+- :ear_of_rice: 1 12-oz pkg red lentil pasta
+- :chestnut: 3 Tbsp toasted crushed almonds
+- :apple: 0.25 cup (37 g) raisins
+- :herb: some cilantro
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 baking
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 
