@@ -16,12 +16,12 @@ tags:
 
 ## :salt: Ingredients
 
-- :tangerine: 2 large oranges
-- :egg: 6 eggs
-- :chestnut: 1.5 cups (126 g) ground almonds
+- :tangerine: 2 large oranges (approx. 400 g)
+- :egg: 6 eggs (approx. 300 g)
+- :chestnut: 1.5 cups (144 g) ground almonds
 - :salt: 1 pinch salt
 - :candy: 1 cup (198 g) sugar
-- :chestnut: 1 teaspoon baking powder
+- :chestnut: 1 teaspoon (4 g) baking powder
 - :tangerine: some thin slices of peeled orange
 - :candy: some confectioners' sugar
 - :chestnut: some cinnamon
@@ -73,7 +73,7 @@ Beat 6 eggs in a bowl until thick.
 
 ### Step 9
 
-Add 1.5 cups (126 g) ground almonds, 1 pinch salt, 1 cup (198 g) sugar, 1 teaspoon baking powder, and orange purée. Mix well.
+Add 1.5 cups (144 g) ground almonds, 1 pinch salt, 1 cup (198 g) sugar, 1 teaspoon (4 g) baking powder, and orange purée. Mix well.
 
 ### Step 10
 
