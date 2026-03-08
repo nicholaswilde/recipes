@@ -1232,7 +1232,10 @@ Vegetarian = [
   { "Vegan Caesar Salad" = "vegetarian/vegan-caesar-salad.md" },
   { "Vegan Giant Bean & Kale Penne" = "vegetarian/vegan-giant-bean-&-kale-penne.md" },
   { "Vegan Kale Caesar with Crispy Chickpeas" = "vegetarian/vegan-kale-caesar-with-crispy-chickpeas.md" },
-  { "Vegan Ricotta & Sun-Dried Tomato Pesto Salad" = "vegetarian/vegan-ricotta-&-sun-dried-tomato-pesto-salad.md" },  { "Vegan Zucchini Lasagna" = "vegetarian/vegan-zucchini-lasagna.md" },
+  { "Vegan Ricotta & Sun-Dried Tomato Pesto Salad" = "vegetarian/vegan-ricotta-&-sun-dried-tomato-pesto-salad.md" },
+  { "Vegan Tourtiere" = "vegetarian/vegan-tourtiere.md" },
+  { "Vegan Zucchini Lasagna" = "vegetarian/vegan-zucchini-lasagna.md" },
+
   { "Vegetable Casserole" = "vegetarian/vegetable-casserole.md" },
   { "Vegetarian Pot Pie" = "vegetarian/vegetarian-pot-pie.md" },
   { "Veggie Burgers" = "vegetarian/veggie-burgers.md" },

@@ -77,6 +77,7 @@ emoji:
         - vegan mayonnaise
         - crème fraîche
         - sour cream
+        - aquafaba
     - beans:
         - chickpeas
         - tinned chickpeas
@@ -93,6 +94,8 @@ emoji:
         - all purpose flour
         - corn tortillas
         - bread flour
+        - breadcrumbs
+        - double pie crust
     - broccoli:
         - broccoli
         - cauliflower
@@ -129,6 +132,7 @@ emoji:
         - nutritional yeast
         - parmesan cheese
         - cream cheese
+        - extra-firm tofu
     - chestnut:
         - cornstarch
         - semi-sweet chocolate
@@ -211,6 +215,7 @@ emoji:
         - heavy cream
         - heavy whipping cream
         - plant-based milk
+        - plant milk
     - herb:
         - fresh basil leaves
         - fresh mint leaves
@@ -224,6 +229,8 @@ emoji:
         - dried oregano
         - fresh basil
         - fresh rosemary
+        - dried thyme
+        - dried sage
     - honey_pot:
         - honey
         - maple syrup
@@ -249,6 +256,8 @@ emoji:
     - melon:
         - jackfruit
         - pumpkin puree
+    - mushroom:
+        - button mushrooms
     - olive:
         - extra virgin olive oil
         - olive oil
@@ -306,6 +315,7 @@ emoji:
         - ground dried ginger
     - takeout_box:
         - soysauce
+        - soy sauce
         - coconut aminos
         - tahini
         - tamari
