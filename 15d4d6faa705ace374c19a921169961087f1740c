@@ -1,0 +1,14 @@
+Task: Batch 2 (10 recipes)
+Summary: Added ingredient/cookware emojis and weight conversions to the next 10 recipes in docs/main/.
+Files:
+- docs/main/jackfruit-curry.md
+- docs/main/jeweled-rice.md
+- docs/main/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.md
+- docs/main/lentil-meatballs-with-lemon-pesto.md
+- docs/main/lentil-mushroom-stew-over-mashed-potatoes.md
+- docs/main/lentil-patties.md
+- docs/main/meat-free-meat-loaf.md
+- docs/main/meatless-umami-shepherd's-pie.md
+- docs/main/mushroom-barbacoa-bowl.md
+- docs/main/mushroom-paprikash.md
+Why: Standardizing metadata for consistency and accuracy.
