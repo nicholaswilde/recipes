@@ -1,0 +1,6 @@
+Task: Validation
+Summary: Fixed spelling errors ('avacado' -> 'avocado', 'TJs' -> 'TJ's') found during spellcheck and verified site build.
+Files:
+- docs/main/meat-free-meat-loaf.md
+- docs/main/quinoa-and-veggie-power-bowls.md
+Why: Ensuring metadata accuracy and project standards.
