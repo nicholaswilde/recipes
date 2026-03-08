@@ -1,0 +1,15 @@
+Task: Batch 3b (Remaining docs/main/)
+Summary: Added ingredient/cookware emojis and weight conversions to the final 11 recipes in docs/main/.
+Files:
+- docs/main/texas-potato-pancakes.md
+- docs/main/the-best-vegan-burger.md
+- docs/main/the-casado-plate.md
+- docs/main/thyme-and-white-bean-pot-pies.md
+- docs/main/vegan-giant-bean-&-kale-penne.md
+- docs/main/vegan-tourtiere.md
+- docs/main/vegan-zucchini-lasagna.md
+- docs/main/vegetarian-pot-pie.md
+- docs/main/veggie-burgers.md
+- docs/main/veggie-cassola.md
+- docs/main/zucchini-pasta-with-lentil-bolognese.md
+Why: Completing metadata standardization for the main category.
