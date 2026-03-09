@@ -4,7 +4,7 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Standardize Cuisines to Meal Types**
+- [~] **Track: Standardize Cuisines to Meal Types**
   *Link: [./tracks/reorg_cuisines_20260308/](./tracks/reorg_cuisines_20260308/)*
 
 ---
