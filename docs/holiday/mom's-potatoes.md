@@ -73,4 +73,4 @@ Bake for approximately 1 hour.
 
 - Mom Farmer
 
-[1]: <../sauces-and-dressings/5-mother-sauces/béchamel.md>
+[1]: <../sauces-and-dressings/mother-sauces/béchamel.md>

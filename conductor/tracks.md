@@ -4,7 +4,7 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Sub-categorize Large Folders**
+- [~] **Track: Sub-categorize Large Folders**
   *Link: [./tracks/subcategorize_large_20260308/](./tracks/subcategorize_large_20260308/)*
 
 ---

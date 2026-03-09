@@ -54,4 +54,4 @@ griddled side is crisp, about 2 minutes.
 
 - Cook's Illustrated
 
-[1]: <../sauces-and-dressings/mayonnaise.md>
+[1]: <../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

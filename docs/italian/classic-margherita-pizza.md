@@ -79,4 +79,4 @@ dough and toppings.
 - <https://www.thekitchn.com/easy-recipe-classic-margherita-pizza-recipes-from-the-kitchn-174103>
 
 [1]: <../ingredients/pizza-dough.md>
-[2]: <../sauces-and-dressings/new-york-style-pizza-sauce.md>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/new-york-style-pizza-sauce.md>

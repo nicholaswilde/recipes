@@ -81,6 +81,6 @@ Remove foil and bake for 7 to 10 minutes more.
 
 [1]: <../assets/images/meat-free-meat-loaf.jpg>
 [2]: <../ingredients/lentils.md>
-[3]: <../sauces-and-dressings/tahini.md>
+[3]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
 [4]: <../ingredients/soy-sauce.md>
 

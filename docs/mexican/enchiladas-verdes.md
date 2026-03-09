@@ -77,6 +77,6 @@ Garnish with the toasted pumpkin seeds, a little more salsa verde, and cilantro 
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/enchiladas-verdes.jpg>
-[2]: <../sides/corn-tortillas.md>
-[3]: <../sauces-and-dressings/salsa-verde.md>
-[4]: <../sides/gracias-madre-black-beans.md>
+[2]: <../sides/grains-and-legumes/corn-tortillas.md>
+[3]: <../sauces-and-dressings/salsas/salsa-verde.md>
+[4]: <../sides/grains-and-legumes/gracias-madre-black-beans.md>

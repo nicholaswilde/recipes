@@ -388,8 +388,8 @@ with the gas marks, used in some countries, as well.
     The scoop# may be found by measuring the scoop bowl diameter if the scoop# is not printed on the scoop.
 [^2]:
     The King Arthur Baking Company All-Purpose Baker's Companion
-[1]: <../sauces-and-dressings/mayonnaise.md>
-[2]: <../sauces-and-dressings/tahini.md>
+[1]: <../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
+[2]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
 [3]: <http://www.bakersbrigade.com/cookie-scoop-sizes-explained/>
 [4]: <https://zeroll.com/collections/universal-ez-disher/standard>
 [5]: <https://www.kingarthurbaking.com/learn/ingredient-weight-chart>

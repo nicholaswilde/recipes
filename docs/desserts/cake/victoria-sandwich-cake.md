@@ -113,5 +113,5 @@ with the second sponge, crust-side up, and dust with confectioners' sugar.
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/victoria-sandwich-cake/>
 
-[1]: <../../sauces-and-dressings/single-jar-of-fruit-jam.md>
+[1]: <../../sauces-and-dressings/sweet-sauces/single-jar-of-fruit-jam.md>
 [2]: <../../reference/equivalents-and-substitutes.md#self-rising-flour>

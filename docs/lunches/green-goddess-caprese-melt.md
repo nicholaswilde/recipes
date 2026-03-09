@@ -46,5 +46,5 @@ To the baguette, add tomatoes, mozzarella, grated Parmesan, zesty sweet Peppadew
 - <https://www.panerabread.com/en-us/menu/products/green-goddess-caprese-melt--toasted-baguette.html>
 
 [1]: <../assets/images/green-goddess-caprese-melt.jpg>
-[2]: <../sauces-and-dressings/green-goddess-dressing.md>
-[3]: <../sauces-and-dressings/garlic-aioli.md>
+[2]: <../sauces-and-dressings/dips-and-spreads/green-goddess-dressing.md>
+[3]: <../sauces-and-dressings/gravy-and-savory-sauces/garlic-aioli.md>

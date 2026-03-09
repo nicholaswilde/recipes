@@ -102,4 +102,4 @@ Drizzle with hot fudge sauce or chocolate syrup (optional) if desired.
 [2]: <../../desserts/crème-pâtissière.md>
 [3]: <../../ingredients/pastry-dough/sweet-pastry.md>
 [4]: <../../ingredients/peanut-butter.md>
-[5]: <../../sauces-and-dressings/hot-fudge-sauce.md>
+[5]: <../../sauces-and-dressings/sweet-sauces/hot-fudge-sauce.md>

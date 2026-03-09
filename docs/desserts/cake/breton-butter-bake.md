@@ -91,4 +91,4 @@ slice the cake while still warm. The cake can be eaten warm or at room temperatu
 
 [1]: <../../assets/images/breton-butter-bake.jpg>
 [2]: <../../ingredients/crème-fraîche.md>
-[3]: <../../sauces-and-dressings/single-jar-of-fruit-jam.md>
+[3]: <../../sauces-and-dressings/sweet-sauces/single-jar-of-fruit-jam.md>

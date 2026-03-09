@@ -44,5 +44,5 @@ from oven and garnish with remaining cheese and green onions. Allow to cool slig
 
 - <https://www.traderjoes.com/home/recipes/taquito-lada-casserole>
 
-[1]: <../sauces-and-dressings/enchilada-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
 [2]: <./baked-black-bean-taquitos.md>

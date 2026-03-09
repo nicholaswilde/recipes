@@ -1,7 +1,7 @@
 # Implementation Plan: Sub-categorize Large Folders
 
 ## Steps
-1. [ ] **Categorize Recipes:** Sort `sides` and `sauces-and-dressings` into proposed sub-categories.
-2. [ ] **Move Files:** Move `.cook` and image files to their respective sub-folders.
-3. [ ] **Update Navigation:** Refactor `zensical.toml`.
-4. [ ] **Validation:** Check site links and navigation.
+1. [x] **Categorize Recipes:** Sort `sides` and `sauces-and-dressings` into proposed sub-categories.
+2. [x] **Move Files:** Move `.cook` and image files to their respective sub-folders.
+3. [x] **Update Navigation:** Refactor `zensical.toml`.
+4. [~] **Validation:** Check site links and navigation.

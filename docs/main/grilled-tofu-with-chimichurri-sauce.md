@@ -52,5 +52,5 @@ Chimichurri Sauce.
 - <https://www.thesoyfoodscouncil.com/post/grilled-tofu-with-chimichurri-sauce-and-grilled-garlic-bread-2>
 
 [1]: <../assets/images/grilled-tofu-with-chimichurri-sauce.png>
-[2]: <../sauces-and-dressings/chimichurri.md>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/chimichurri.md>
 

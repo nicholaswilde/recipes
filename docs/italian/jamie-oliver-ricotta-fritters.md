@@ -50,4 +50,4 @@ Serve with favorite [marinara][1].
 - <https://www.jamieoliver.com/recipes/cheese-recipes/ricotta-fritters-with-tomato-sauce-courgette-salad/>
 - Recipe Box
 
-[1]: <../sauces-and-dressings/marinara-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/marinara-sauce.md>

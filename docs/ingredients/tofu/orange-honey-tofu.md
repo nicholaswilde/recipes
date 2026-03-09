@@ -74,4 +74,4 @@ side of steamed broccoli or cauliflower if desired.
 [1]: <./pan-fried-tofu.md>
 [2]: <./air-fryer-tofu.md>
 [3]: <../../ingredients/vegetable-broth.md>
-[4]: <../../sauces-and-dressings/tahini.md>
+[4]: <../../sauces-and-dressings/dips-and-spreads/tahini.md>

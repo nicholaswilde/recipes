@@ -78,5 +78,5 @@ As soon as it's done, immediately pour into a mold or into a cocktail glass and 
 
 - <https://www.youtube.com/watch?v=q8uS3VI86-w>
 
-[1]: <../sauces-and-dressings/crème-anglaise.md>
+[1]: <../sauces-and-dressings/sweet-sauces/crème-anglaise.md>
 [2]: <../ingredients/sweetened-whipped-cream.md>

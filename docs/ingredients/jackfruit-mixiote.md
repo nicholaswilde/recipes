@@ -68,5 +68,5 @@ Add the mixture to the jackfruit in the pan and stir to combine.
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/jackfruit-mixiote.jpg>
-[2]: <../sauces-and-dressings/salsa-ranchera.md>
-[3]: <../sauces-and-dressings/simple-barbecue-sauce.md>
+[2]: <../sauces-and-dressings/salsas/salsa-ranchera.md>
+[3]: <../sauces-and-dressings/gravy-and-savory-sauces/simple-barbecue-sauce.md>

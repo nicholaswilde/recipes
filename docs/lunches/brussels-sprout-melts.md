@@ -82,4 +82,4 @@ half.
 
 - <https://www.thekitchn.com/brussel-sprouts-melts-recipe-23432384>
 
-[1]: <../sauces-and-dressings/dijon-mustard.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>

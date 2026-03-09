@@ -50,5 +50,5 @@ Puree until very smooth. Pour over rice and bean mixture. Combine well and serve
 
 [1]: <../assets/images/greens-and-grains-bowls.jpg>
 [2]: <../ingredients/brown-rice.md>
-[3]: <../sauces-and-dressings/dijon-mustard.md>
+[3]: <../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
 

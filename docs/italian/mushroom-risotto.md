@@ -70,4 +70,4 @@ Top with a sprinkling of chives.
 - Joy of Cooking
 
 [1]: <./risotto-milanese.md>
-[2]: <../sides/sautéed-mushrooms.md>
+[2]: <../sides/vegetables/sautéed-mushrooms.md>

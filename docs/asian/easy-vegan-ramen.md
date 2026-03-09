@@ -105,5 +105,5 @@ up to 1 month.
 
 - <https://minimalistbaker.com/easy-vegan-ramen/#wprm-recipe-container-35499>
 
-[1]: <../sides/miso-glazed-bok-choy.md>
-[2]: <../sides/miso-glazed-carrots.md>
+[1]: <../sides/vegetables/miso-glazed-bok-choy.md>
+[2]: <../sides/vegetables/miso-glazed-carrots.md>

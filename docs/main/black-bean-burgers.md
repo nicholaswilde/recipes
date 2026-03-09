@@ -95,5 +95,5 @@ Tip: Chipotle mayonnaise works well as a condiment.
 - <https://www.seriouseats.com/the-best-black-bean-burger-recipe>
 
 [1]: <../assets/images/black-bean-burgers.jpg>
-[2]: <../sauces-and-dressings/mayonnaise.md>
+[2]: <../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
 

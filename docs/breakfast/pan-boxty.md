@@ -74,4 +74,4 @@ and reheated in dry skillet on stovetop or on rimmed baking sheet in 350°F oven
 
 - Cook's Illustrated
 
-[1]: <../sides/golden-french-mashed-potatoes.md>
+[1]: <../sides/potatoes/golden-french-mashed-potatoes.md>

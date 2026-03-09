@@ -64,4 +64,4 @@ sit 15 minutes before serving.
 
 - Trader Joe's
 
-[1]: <../sauces-and-dressings/pumpkin-curry-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/pumpkin-curry-sauce.md>

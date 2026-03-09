@@ -66,5 +66,5 @@ Top with the Barbacoa Mushrooms, steamed vegetables, and the Roasted Red Pepper 
 
 [1]: <../assets/images/mushroom-barbacoa-bowl.jpg>
 [2]: <../ingredients/brown-rice.md>
-[3]: <../sauces-and-dressings/roasted-red-pepper-sauce.md>
+[3]: <../sauces-and-dressings/gravy-and-savory-sauces/roasted-red-pepper-sauce.md>
 

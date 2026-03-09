@@ -73,4 +73,4 @@ board, with the seam underneath.
 
 - <https://www.dailymail.co.uk/femail/food/article-5013617/Paul-s-classic-bakes-Swiss-roll.html>
 
-[1]: <../sauces-and-dressings/single-jar-of-fruit-jam.md>
+[1]: <../sauces-and-dressings/sweet-sauces/single-jar-of-fruit-jam.md>

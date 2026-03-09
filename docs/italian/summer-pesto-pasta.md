@@ -54,4 +54,4 @@ Mix well, then pour in pasta. Combine veggies into pasta and serve.
 
 - Recipe Box
 
-[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/pesto/joy-of-cooking-pesto.md>

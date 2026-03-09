@@ -49,9 +49,9 @@ Serve the quesadillas with the [pumpkin seed salsa][4] and [cashew crema][2]. Ga
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/calabaza-and-onion-quesadillas.jpg>
-[2]: <../sauces-and-dressings/cashew-crema.md>
+[2]: <../sauces-and-dressings/dips-and-spreads/cashew-crema.md>
 [3]: <../ingredients/pumpkin-filling.md>
-[4]: <../sauces-and-dressings/pumpkin-seed-salsa.md>
-[5]: <../sides/corn-tortillas.md>
-[6]: <../sauces-and-dressings/cashew-nacho-cheese.md>
+[4]: <../sauces-and-dressings/salsas/pumpkin-seed-salsa.md>
+[5]: <../sides/grains-and-legumes/corn-tortillas.md>
+[6]: <../sauces-and-dressings/dips-and-spreads/cashew-nacho-cheese.md>
 [7]: <../ingredients/toasted-nuts.md>

@@ -69,4 +69,4 @@ over the top, sprinkle with reserved fennel fronds, and serve with crusty bread 
 - Recipe Box
 
 [1]: <../assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png>
-[2]: <../sides/couscous.md>
+[2]: <../sides/grains-and-legumes/couscous.md>

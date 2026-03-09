@@ -76,5 +76,5 @@ Season with salt and pepper, add a squeeze of lemon juice, and top with parsley 
 - Trader Joe's
 
 [1]: <../assets/images/quick-couscous-chickpea-salad.jpg>
-[2]: <../sides/couscous.md>
+[2]: <../sides/grains-and-legumes/couscous.md>
 [3]: <../ingredients/vegetable-broth.md>

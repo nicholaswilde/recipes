@@ -75,4 +75,4 @@ Serve with [peanut dipping sauce][1] and enjoy!
 [^1]:
   Thinly sliced into long matchsticks.
 
-[1]: <../sauces-and-dressings/peanut-dipping-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/peanut-dipping-sauce.md>

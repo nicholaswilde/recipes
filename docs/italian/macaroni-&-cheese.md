@@ -72,4 +72,4 @@ Parmigiano-Reggiano over the top. Bake for 20 to 25 minutes.
 
 [1]: <../ingredients/onion-pique.md>
 [2]: <../ingredients/breadcrumbs.md>
-[3]: <../sauces-and-dressings/5-mother-sauces/béchamel.md>
+[3]: <../sauces-and-dressings/mother-sauces/béchamel.md>

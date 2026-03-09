@@ -36,4 +36,4 @@ Add slices of tomato and mozzarella to the bread to make a sandwich.
 
 - Applied Kitchen
 
-[1]: <../sauces-and-dressings/pesto/joy-of-cooking-pesto.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/pesto/joy-of-cooking-pesto.md>

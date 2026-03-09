@@ -79,4 +79,4 @@ until warmed through before serving on top of the pasta and garnishing with pars
 
 - <https://cupofjo.com/2022/4/eggplant-parm-meatballs/>
 
-[1]: <../sauces-and-dressings/marinara-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/marinara-sauce.md>

@@ -75,4 +75,4 @@ fudge sauce and sprinkle with crushed peppermint candies before serving.
 - Magnolia
 
 [1]: <../cookies-and-bars/chocolate-pizzelle.md>
-[2]: <../sauces-and-dressings/hot-fudge-sauce.md>
+[2]: <../sauces-and-dressings/sweet-sauces/hot-fudge-sauce.md>

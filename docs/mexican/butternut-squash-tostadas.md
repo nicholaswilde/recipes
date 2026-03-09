@@ -75,4 +75,4 @@ with red cabbage, cilantro, and [Mexicrema dressing][1] or guacamole.
 
 - <https://nutritionstudies.org/recipes/main-dish/butternut-squash-tostadas/>
 
-[1]: ../sauces-and-dressings/mexicrema-dressing.md
+[1]: ../sauces-and-dressings/dips-and-spreads/mexicrema-dressing.md

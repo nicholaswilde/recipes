@@ -59,5 +59,5 @@ Place on a bed of mashed potatoes and top with [mushroom gravy][3].
 
 [1]: <../assets/images/vegan-salisbury-steak.jpg>
 [2]: <../ingredients/onion-soup-mix.md>
-[3]: <../sauces-and-dressings/mushroom-gravy.md>
+[3]: <../sauces-and-dressings/gravy-and-savory-sauces/mushroom-gravy.md>
 [4]: <../ingredients/breadcrumbs.md>

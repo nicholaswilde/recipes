@@ -56,5 +56,5 @@ Top with grated Parmesan and bake for 30 minutes.
 
 - Recipe Box
 
-[1]: <../sauces-and-dressings/marinara-sauce.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/marinara-sauce.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>

@@ -68,4 +68,4 @@ and bubbly. Remove from oven and rest 15 minutes before slicing.
 - <https://www.traderjoes.com/home/recipes/mezza-luna-lasagna>
 
 [1]: <../ingredients/ricotta.md>
-[2]: <../sauces-and-dressings/alfredo-sauce.md>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md>

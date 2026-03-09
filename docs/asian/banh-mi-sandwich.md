@@ -44,5 +44,5 @@ serve.
 
 - Applied Kitchen
 
-[1]: <../sauces-and-dressings/garlic-aioli.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/garlic-aioli.md>
 [2]: <../ingredients/pickled-carrots-and-daikon.md>
