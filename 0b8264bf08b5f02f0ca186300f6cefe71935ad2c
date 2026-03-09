@@ -1,0 +1,6 @@
+Task: Move Files
+Summary: Moved 51 holiday recipes and their associated images and documentation to functional meal-type folders. Verified that all files were migrated correctly, resolving any naming mismatches.
+Files:
+- cook/* (moved)
+- docs/* (moved)
+Why: Standardizing the project structure around functional categories while retaining the holiday classification through tags.
