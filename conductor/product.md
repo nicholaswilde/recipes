@@ -22,7 +22,7 @@ To create a comprehensive, easily accessible, and visually appealing personal re
 ## Core Features
 
 - **Recipe Management:** Cooklang-based authoring with automated conversion to Markdown.
-- **Categorization:** Hierarchical organization (e.g., Asian, Breads, Desserts) for easy navigation.
+- **Categorization:** Functional organization (e.g., Main, Sides, Desserts) with tag-based discovery for cuisines.
 - **Search:** Full-text search capability provided by the documentation theme.
 - **Visuals:** High-quality images for each recipe with lazy loading.
 - **Tools:** Integrated unit conversion, spellchecking, and link checking.
