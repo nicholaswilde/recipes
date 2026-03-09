@@ -4,11 +4,6 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [x] **Track: Consolidate Small Categories**
-  *Link: [./tracks/consolidate_small_20260308/](./tracks/consolidate_small_20260308/)*
-
----
-
 - [ ] **Track: Sub-categorize Large Folders**
   *Link: [./tracks/subcategorize_large_20260308/](./tracks/subcategorize_large_20260308/)*
 
