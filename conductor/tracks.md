@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [~] **Track: Reorganize Holiday Category**
+- [x] **Track: Reorganize Holiday Category**
   *Link: [./tracks/reorg_holiday_20260308/](./tracks/reorg_holiday_20260308/)*
