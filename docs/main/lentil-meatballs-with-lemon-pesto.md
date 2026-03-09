@@ -81,5 +81,5 @@ halfway through.
 [1]: <../assets/images/lentil-meatballs-with-lemon-pesto.jpg>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/eggs.md>
-[4]: <../ingredients/parmesan.md>
+[4]: <../ingredients/vegan-parmesan.md>
 

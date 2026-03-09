@@ -101,4 +101,4 @@ Leftovers (excluding eggs) keep well (without sauce) for 3 to 4 days in the refr
 
 [1]: <../assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg>
 [2]: <../sauces-and-dressings/enchilada-sauce.md>
-[3]: <../pressurecooker/black-beans.md>
+[3]: <../ingredients/black-beans.md>

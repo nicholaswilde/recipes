@@ -42,5 +42,5 @@ half.
 Serves 8 half-wraps.
 
 [1]: <../assets/images/california-veggie-wraps.jpg>
-[2]: <../sauces-and-dressings/benedictine-spread.md>
+[2]: <../sauces-and-dressings/benedictine-sandwich-spread.md>
 

@@ -107,6 +107,6 @@ Once fully cooked and golden brown, remove the pie from the oven. Cool for 15 mi
 
 [1]: <../assets/images/vegetarian-pot-pie.jpg>
 [2]: <../ingredients/vegetable-broth.md>
-[3]: <../ingredients/pastry-dough/pie-crust.md>
+[3]: <../ingredients/pastry-dough/basic-pastry.md>
 [4]: <../ingredients/eggs.md>
 

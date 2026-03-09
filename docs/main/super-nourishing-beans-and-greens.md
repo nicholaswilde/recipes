@@ -58,6 +58,6 @@ or eggs. Keeps for 3 to 4 days in the refrigerator or up to 1 month in the freez
 - <https://minimalistbaker.com/super-nourishing-beans-greens/#wprm-recipe-container-102870>
 
 [1]: <../assets/images/super-nourishing-beans-and-greens.jpg>
-[2]: <../ingredients/vegetable-stock.md>
-[3]: <../ingredients/tofu.md>
+[2]: <../ingredients/vegetable-broth.md>
+[3]: <../ingredients/tofu/preparation.md>
 

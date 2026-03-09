@@ -20,7 +20,7 @@ tags:
 - :herb: 0.5 bunch cilantro
 - :cheese_wedge: 1 pkg sriracha [tofu][3]
 - :onion: 3 green onions
-- :baby_bottle: 0.5 cup (125 g) [TJ's Spicy Cashew Butter Dressing][4]
+- :baby_bottle: 0.5 cup (125 g) TJ's Spicy Cashew Butter Dressing
 - :chestnut: 0.5 cup (55 g) TJ's Chile & Garlic Cashews
 - :tangerine: 1 lime
 
@@ -46,7 +46,6 @@ To serve, spoon salad into shallow bowls and top with a squeeze of fresh lime ju
 - Trader Joe's
 
 [1]: <../assets/images/spicy-cashew-quinoa-salad.png>
-[2]: <../ingredients/quinoa.md>
-[3]: <../ingredients/tofu.md>
-[4]: <../sauces-and-dressings/spicy-cashew-butter-dressing.md>
+[2]: <./quinoa.md>
+[3]: <../ingredients/tofu/baked-sriracha-tofu.md>
 

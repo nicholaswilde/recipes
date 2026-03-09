@@ -30,7 +30,7 @@ tags:
 - :tangerine: 1 tsp freshly squeezed lemon juice
 - :herb: 2 Tbsp fresh cilantro
 - :baby_bottle: some cashew yogurt
-- :baby_bottle: some [Yogurt Drizzle Sauce][3]
+- :baby_bottle: some Yogurt Drizzle Sauce
 
 ## :cooking: Cookware
 
@@ -68,5 +68,4 @@ Drizzle Sauce (optional).
 
 [1]: <../assets/images/simple-chickpea-masala.jpg>
 [2]: <../ingredients/chickpeas.md>
-[3]: <../sauces-and-dressings/yogurt-drizzle-sauce.md>
 

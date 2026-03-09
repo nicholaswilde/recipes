@@ -110,5 +110,5 @@ Let pie rest for at least 10 minutes before slicing to allow filling to set.
 [1]: <../assets/images/vegan-tourtiere.jpg>
 [2]: <../ingredients/soy-sauce.md>
 [3]: <../ingredients/vegetable-broth.md>
-[4]: <../ingredients/pastry-dough/double-pie-crust.md>
+[4]: <../ingredients/pastry-dough/basic-pastry.md>
 

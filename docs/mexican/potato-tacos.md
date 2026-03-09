@@ -57,6 +57,6 @@ To assemble tacos, layer beans and potato/pepper mix, then add toppings as desir
 
 - Recipe Box
 
-[1]: <../pressurecooker/refried-black-beans.md>
-[2]: <../pressurecooker/black-beans.md>
+[1]: <../sides/refried-black-beans.md>
+[2]: <../ingredients/black-beans.md>
 [3]: <../ingredients/seasonings/taco-seasoning.md>

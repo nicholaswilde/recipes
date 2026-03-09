@@ -76,5 +76,5 @@ Top the salad with the chickpeas and drizzle with another 1/4 cup or so of the d
 
 [1]: <../assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg>
 [2]: <../ingredients/chickpeas.md>
-[3]: <../sauces-and-dressings/vegan-mayonnaise.md>
+[3]: <../sauces-and-dressings/tofu-mayonnaise.md>
 

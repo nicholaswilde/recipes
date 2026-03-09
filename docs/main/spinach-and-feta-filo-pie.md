@@ -16,7 +16,7 @@ tags:
 - :chestnut: 100 g pine nuts
 - :egg: 5 large [eggs][2]
 - :cheese_wedge: 300 g feta cheese
-- :cheese_wedge: 50 g [Cheddar cheese][3]
+- :cheese_wedge: 50 g Cheddar cheese
 - :salt: 1 pinch black pepper
 - :herb: 2 pinches dried oregano
 - :tangerine: 1 lemon zest
@@ -105,6 +105,5 @@ oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fr
 
 [1]: <../assets/images/spinach-and-feta-filo-pie.jpg>
 [2]: <../ingredients/eggs.md>
-[3]: <../ingredients/cheddar-cheese.md>
-[4]: <../ingredients/pastry-dough/filo-dough.md>
+[4]: <../ingredients/pastry-dough/filo.md>
 

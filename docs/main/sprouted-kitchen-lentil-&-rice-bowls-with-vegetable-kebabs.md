@@ -36,7 +36,7 @@ tags:
 - :eggplant: 1 small eggplant
 - :onion: 0.5 red onion
 - :hot_pepper: 2 bell peppers
-- :cheese_wedge: 0.5 cup (57 g) [feta cheese][4]
+- :cheese_wedge: 0.5 cup (57 g) feta cheese
 
 ## :cooking: Cookware
 
@@ -79,5 +79,4 @@ Serve with a scoop of lentil and rice mix, kebabs, sauce, and sprinkle of feta.
 [1]: <../assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.jpg>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/brown-rice.md>
-[4]: <../ingredients/feta-cheese.md>
 

@@ -46,4 +46,4 @@ Add water if needed.
 - <https://nutritionstudies.org/recipes/appetizer/oil-free-hummus-spread/>
 
 [1]: <../assets/images/oil-free-hummus.jpg>
-[2]: <../pressurecooker/chickpeas.md>
+[2]: <../ingredients/chickpeas.md>

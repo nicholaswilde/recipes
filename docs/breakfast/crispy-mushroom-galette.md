@@ -110,4 +110,4 @@ and cutting into slices. Serve warm or at room temperature.
 
 [1]: <../assets/images/crispy-mushroom-galette.jpg>
 [2]: <../ingredients/pastry-dough/flaky-olive-oil-dough.md>
-[3]: <../ingredients/dijon-mustard.md>
+[3]: <../sauces-and-dressings/dijon-mustard.md>

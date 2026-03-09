@@ -99,7 +99,7 @@ Drizzle with hot fudge sauce or chocolate syrup (optional) if desired.
 - <https://yeyfood.com/how-to-make-a-yummy-peanut-butter-cream-pie/>
 
 [1]: <../../ingredients/sweetened-whipped-cream.md>
-[2]: <../../custards/crème-pâtissière.md>
+[2]: <../../desserts/crème-pâtissière.md>
 [3]: <../../ingredients/pastry-dough/sweet-pastry.md>
 [4]: <../../ingredients/peanut-butter.md>
 [5]: <../../sauces-and-dressings/hot-fudge-sauce.md>

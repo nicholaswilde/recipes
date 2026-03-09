@@ -25,7 +25,7 @@ tags:
 - :salt: 0.25 tsp pepper
 - :leafy_green: 12 cups (360 g) spinach
 - :hot_pepper: 0.25 tsp red pepper flakes
-- :cheese_wedge: 0.2 cup (25 g) [feta cheese][2]
+- :cheese_wedge: 0.2 cup (25 g) feta cheese
 - :sweet_potato: 10 oz sweet potatoes
 - :herb: some dill
 
@@ -97,4 +97,3 @@ temperature. Sprinkle with a little dill before serving.
 - <https://jessicaseinfeld.com/recipes/caramelized-onion-spinach-and-sweet-potato-tart>
 
 [1]: <../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg>
-[2]: <../ingredients/feta-cheese.md>

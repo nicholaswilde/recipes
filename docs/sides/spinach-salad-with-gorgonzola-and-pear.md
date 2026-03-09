@@ -55,5 +55,5 @@ Gorgonzola, walnuts, pomegranate seeds, and sliced pear. Drizzle remaining 1/4 c
 - Cook's Illustrated
 
 [1]: <../assets/images/spinach-salad-with-gorgonzola-and-pear.jpg>
-[2]: <../ingredients/dijon-mustard.md>
+[2]: <../sauces-and-dressings/dijon-mustard.md>
 

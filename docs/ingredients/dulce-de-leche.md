@@ -55,4 +55,4 @@ Spread it on bread, drizzle over cookies, cake or ice cream or eat by the spoonf
 
 ## :link: Source
 
-- [The Tough Cookie](https://web.archive.org/web/20201101001356/https://thetoughcookie.com/2014/01/14/making-dulce-de-leche-made-in-the-can/)
+- <https://food52.com/blog/10157-how-to-make-dulce-de-leche-with-a-can-of-condensed-milk>

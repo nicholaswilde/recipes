@@ -47,6 +47,6 @@ substitute, salt and pepper to taste until blended, then pour into pie plate.
 Bake for 35 minutes.
 
 [1]: <../assets/images/vegetable-casserole.jpg>
-[2]: <../ingredients/parmesan.md>
-[3]: <../ingredients/egg-substitute.md>
+[2]: <../ingredients/vegan-parmesan.md>
+[3]: <../reference/equivalents-and-substitutes.md#eggs>
 

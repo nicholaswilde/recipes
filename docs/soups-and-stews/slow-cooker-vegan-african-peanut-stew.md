@@ -54,5 +54,5 @@ Stir in spinach just before serving and cook 15 minutes more.
 
 Use immersion blender to thicken to taste. Serves 6.
 
-[1]: <../pressurecooker/chickpeas.md>
+[1]: <../ingredients/chickpeas.md>
 [2]: <../ingredients/vegetable-broth.md>

@@ -66,5 +66,5 @@ then mix and serve topped with grated Parmesan (optional) cheese.
 - <https://www.traderjoes.com/home/recipes/vegan-giant-bean-kale-penne>
 
 [1]: <../assets/images/vegan-giant-bean-&-kale-penne.png>
-[2]: <../ingredients/parmesan.md>
+[2]: <../ingredients/vegan-parmesan.md>
 
