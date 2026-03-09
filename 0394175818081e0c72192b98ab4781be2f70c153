@@ -1,0 +1,6 @@
+Task: Add Tags
+Summary: Added holiday and specific occasion tags (thanksgiving, christmas) to 51 recipes. Synced tags between .md front matter and .cook source files to ensure metadata consistency across the project.
+Files:
+- cook/* (.cook files updated)
+- docs/* (.md files updated)
+Why: To enable discovery of recipes by occasion while they reside in functional meal-type categories.
