@@ -1,0 +1,5 @@
+Task: Update Navigation
+Summary: Refactored zensical.toml by removing the Holiday section and redistributing 51 recipe entries into their functional meal-type sections (Breakfast, Main, Breads, Sauces & Dressings, Sides, Cookies & Bars, Desserts). Re-sorted target sections and cleaned up redundant navigation headers.
+Files:
+- zensical.toml
+Why: To eliminate top-level category bloat and provide a more intuitive, meal-based discovery experience.
