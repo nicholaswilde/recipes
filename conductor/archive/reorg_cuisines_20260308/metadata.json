@@ -1,0 +1,8 @@
+{
+  "track_id": "reorg_cuisines_20260308",
+  "type": "reorganization",
+  "status": "new",
+  "created_at": "2026-03-08T12:00:00Z",
+  "updated_at": "2026-03-08T12:00:00Z",
+  "description": "Move cuisine-based folders (Mexican, Italian, Asian) into functional meal-type hierarchy"
+}
