@@ -2,35 +2,32 @@
 comments: true
 tags:
 
+  - holiday
   - side
-  - tante-myrna-seccia
 ---
 
 # :potato: Cheesy Potatoes
 
-![Cheesy Potatoes](../../assets/images/cheesy-potatoes.jpg){ loading=lazy }
+![Cheesy Potatoes](../assets/images/cheesy-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 60 minutes |
+| 25 minutes |
 
 ## :salt: Ingredients
 
-- :onion: 0.5 onions
-- :canned_food: 1 can cream of chicken or potato soup
-- :rice: 8 oz sour cream
-- :butter: 1 stick butter
+- :potato: 6 medium potatoes (peeled, boiled, refrigerated, shredded)
+- :cheese_wedge: 2 cups shredded cheese
+- :butter: 0.25 cup butter
+- :onion: 0.33 cup chopped green onion
 - :salt: 1 tsp salt
-- :salt: 1 tsp pepper
-- :cheese_wedge: 8 oz mild cheddar cheese
-- :potato: 16 oz [hash brown potatoes][1]
-- :bowl_with_spoon: some corn flakes
+- :salt: 0.25 tsp pepper
+- :rice: 2 cups sour cream
+- :butter: 2 Tbsp butter
 
 ## :cooking: Cookware
 
-- 1 casserole or foil pan
-- 1 Pam
-- 1 bowl
+- 1 9 x 13" pan
 
 ## :pencil: Instructions
 
@@ -40,27 +37,21 @@ Preheat oven to 350°F.
 
 ### Step 2
 
-Bake only in casserole or foil pan coated with Pam.
+Spray 9 x 13" pan with Pam. Lightly mix potatoes (peeled, boiled, refrigerated, shredded), shredded cheese, and 1/4 cup
+butter.
 
 ### Step 3
 
-In a bowl mix chopped onions, cream of chicken or potato soup, sour cream, melted butter, salt, pepper, 1/2 of the
-grated mild cheddar cheese, and [hash brown potatoes][1].
+Add chopped green onion, salt, pepper, and sour cream.
 
 ### Step 4
 
-Place in pan.
+Dab 2 Tbsp butter on top.
 
 ### Step 5
 
-Place 1/2 cheese on top (cover).
+Bake at 350°F for 25 minutes.
 
 ### Step 6
 
-Bake 45 minutes covered, 15 minutes uncovered with corn flakes on top.
-
-## :link: Source
-
-- Tante Myrna Seccia
-
-[1]: <../../breakfast/hash-browns.md>
+Broil the potatoes for a few minutes to brown the top.

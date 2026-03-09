@@ -27,7 +27,6 @@ extra_javascript = [
 Home = "index.md"
 
 [[project.nav]]
-[[project.nav]]
 Beverages = [
   { "Champagne Punch" = "beverages/champagne-punch.md" },
   { "Cooked Eggnog" = "beverages/cooked-eggnog.md" },
@@ -697,7 +696,6 @@ Ingredients = [
 ]
 
 [[project.nav]]
-[[project.nav]]
 Lunches = [
   { "Applied Grilled Cheese" = "lunches/applied-grilled-cheese.md" },
   { "Bourbon Grilled Cheese" = "lunches/bourbon-grilled-cheese.md" },
@@ -880,7 +878,6 @@ Mediterranean = [
   { "Vegetarian Paella" = "mediterranean/vegetarian-paella.md" },
 ]
 
-[[project.nav]]
 [[project.nav]]
 "Sauces & Dressings" = [
   { "A Very Popular BBQ Sauce" = "sauces-and-dressings/gravy-and-savory-sauces/a-very-popular-bbq-sauce.md" },
