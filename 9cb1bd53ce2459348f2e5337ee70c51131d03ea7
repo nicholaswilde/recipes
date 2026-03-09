@@ -1,0 +1,10 @@
+Task: Validation
+Summary: Verified site build and fixed all dead links. Created missing ingredient docs (eggs.md, flax-egg.md, soy-sauce.md, dal.md, lentils.md) and corrected numerous outdated links.
+Files:
+- docs/ingredients/eggs.md
+- docs/ingredients/flax-egg.md
+- docs/ingredients/soy-sauce.md
+- docs/ingredients/dal.md
+- docs/ingredients/lentils.md
+- [numerous recipe files updated]
+Why: Ensuring project integrity and high quality documentation.
