@@ -1,0 +1,5 @@
+Task: Add Tags
+Summary: Synced 105 tags from .md front matter back to .cook files for 82 recipes. Ensured each moved recipe has appropriate cuisine identification (mexican, italian, asian) in its primary source format.
+Files:
+- cook/* (.cook files updated with >> tags: metadata)
+Why: Maintaining .cook files as the single source of truth for all recipe metadata.
