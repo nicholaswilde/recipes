@@ -1,0 +1,9 @@
+Task: Sub-categorize Large Folders
+Summary: Divided 'sides' and 'sauces-and-dressings' into manageable sub-categories. Moved .cook files and images, updated zensical.toml navigation, and refactored docs/ markdown paths. Verified with zensical build and link checks.
+Files:
+- cook/sides/* (moved to sub-folders)
+- cook/sauces-and-dressings/* (moved to sub-folders)
+- docs/sides/* (updated paths)
+- docs/sauces-and-dressings/* (updated paths)
+- zensical.toml
+Why: To improve searchability and organization of large recipe categories.
