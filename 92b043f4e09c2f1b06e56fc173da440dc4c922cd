@@ -1,0 +1,5 @@
+Task: Update Navigation
+Summary: Refactored zensical.toml by removing cuisine-based sections (Asian, Italian, Mexican) and distributing 82 recipe entries into functional meal-type sections (Breakfast, Main, Sides, Soups & Stews, Desserts). Re-sorted target sections alphabetically.
+Files:
+- zensical.toml
+Why: To provide a consistent navigation experience based on recipe type rather than origin.
