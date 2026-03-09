@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - bar
-  - holiday
   - dessert
+  - holiday
 ---
 
 # :chocolate_bar: Chippy Chewy Bars

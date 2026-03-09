@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - dessert
   - holiday
   - magnolia
-  - dessert
 ---
 
 # :peanuts: Salted Caramel Peanut Brittle

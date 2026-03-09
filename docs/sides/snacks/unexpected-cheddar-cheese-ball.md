@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - holiday
   - spread
   - trader-joes

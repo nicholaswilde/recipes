@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-
+  - christmas
   - holiday
   - magnolia
   - peppermint

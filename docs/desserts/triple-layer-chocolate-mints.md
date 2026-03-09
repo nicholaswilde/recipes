@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - dessert
+  - holiday
 ---
 
 # :chocolate_bar: Triple Layer Chocolate Mints

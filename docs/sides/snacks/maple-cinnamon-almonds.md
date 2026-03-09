@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - dessert
+  - holiday
 ---
 
 # :chestnut: Maple-Cinnamon Almonds

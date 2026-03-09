@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-
   - holiday
   - side
+  - thanksgiving
 ---
 
 # :leafy_green: Cranberry Glazed Roasted Brussels Sprouts

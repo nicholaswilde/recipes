@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - breakfast
+  - holiday
 ---
 
 # :egg: Huevos in a Crockpot

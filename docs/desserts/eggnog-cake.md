@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - cake
+  - christmas
+  - holiday
 ---
 
 # :cake: Eggnog Cake

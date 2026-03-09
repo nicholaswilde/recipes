@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-
   - holiday
   - sauce
+  - thanksgiving
 ---
 
 # :cherries: Cranberry Sauce

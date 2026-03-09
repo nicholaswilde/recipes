@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-
   - holiday
-  - stuffing
   - side
+  - stuffing
+  - thanksgiving
 ---
 
 # :stuffed_flatbread: Vegetarian Stuffing

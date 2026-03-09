@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-
+  - christmas
   - holiday
-  - pie
-  - peppermint
   - magnolia
+  - peppermint
+  - pie
 ---
 
 # :pie: Double Chocolate Peppermint Pie

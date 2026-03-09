@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-
-  - holiday
+  - christmas
   - cookie
-  - peppermint
+  - holiday
   - magnolia
+  - peppermint
 ---
 
 # :cookie: Peppermint Chocolate Cookies

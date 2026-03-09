@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - cookie
   - dessert
   - favorite
+  - holiday
   - recipe-box
 ---
 

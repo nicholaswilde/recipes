@@ -2,9 +2,9 @@
 comments: true
 tags:
   - holiday
-  - snack
   - nuts
   - rosemary
+  - snack
   - vegetarian
 ---
 # :chestnut: Rosemary Spiced Nuts

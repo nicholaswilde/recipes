@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - holiday
   - italian
   - pasta
-  - holiday
 ---
 
 # :spaghetti: Baked Ziti

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - gravy
+  - holiday
 ---
 
 # :bowl_with_spoon: Good Gravy

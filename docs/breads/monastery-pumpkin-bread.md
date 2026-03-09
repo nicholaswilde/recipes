@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - holiday
   - bread
   - favorite
+  - holiday
 ---
 
 # :bread: Monastery Pumpkin Bread
