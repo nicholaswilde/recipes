@@ -1,0 +1,6 @@
+Task: Move Files
+Summary: Moved 82 .cook files and their corresponding images and .md files from cuisine-based folders to functional meal-type folders. Cleaned up empty directories and temporary scripts.
+Files:
+- cook/* (moved)
+- docs/* (moved)
+Why: Standardizing project structure on functional categories.
