@@ -1,0 +1,5 @@
+Task: Categorize Recipes
+Summary: Identified functional meal-type categories for 51 holiday recipes. Created categorization.json to map these recipes to target folders (breakfast, main, sides, desserts, etc.).
+Files:
+- conductor/tracks/reorg_holiday_20260308/categorization.json
+Why: To improve organization and enable holiday recipes to be found through standard meal planning categories.
