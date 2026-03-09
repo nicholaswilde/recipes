@@ -1,0 +1,5 @@
+Task: Categorize Recipes
+Summary: Identified and mapped 82 recipes from cuisine-based folders to functional meal-type categories. Created a categorization.json file to guide file moves.
+Files:
+- conductor/tracks/reorg_cuisines_20260308/categorization.json
+Why: To eliminate navigation friction by standardizing on functional folders.
