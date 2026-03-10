@@ -9,11 +9,11 @@ This plan outlines the steps to complete the charts in `docs/reference/charts.md
     - [x] Verify the prototype's responsiveness on mobile using browser developer tools.
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Research and Formatting Prototype' (Protocol in workflow.md) 42f6920
 
-## Phase 2: Refactor Existing Charts
-- [x] Task: Refactor "Fruity Cobblers & Crisps" to the new format.
-- [x] Task: Refactor "Salad Dressings" to the new format.
-- [~] Task: Refactor "Salads with Lettuce" to the new format.
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Refactor Existing Charts' (Protocol in workflow.md)
+## Phase 2: Refactor Existing Charts [checkpoint: 5170042]
+- [x] Task: Refactor "Fruity Cobblers & Crisps" to the new format. 5170042
+- [x] Task: Refactor "Salad Dressings" to the new format. 5170042
+- [x] Task: Refactor "Salads with Lettuce" to the new format. 5170042
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Refactor Existing Charts' (Protocol in workflow.md) 5170042
 
 ## Phase 3: Add Remaining Charts
 - [ ] Task: Add "Non-lettuce salads" chart.
