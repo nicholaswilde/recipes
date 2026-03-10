@@ -15,26 +15,26 @@ This plan outlines the steps to complete the charts in `docs/reference/charts.md
 - [x] Task: Refactor "Salads with Lettuce" to the new format. 5170042
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Refactor Existing Charts' (Protocol in workflow.md) 5170042
 
-## Phase 3: Add Remaining Charts
-- [x] Task: Add "Non-lettuce salads" chart.
-- [x] Task: Add "Sandwiches" chart.
-- [x] Task: Add "Stovetop Vegetables" chart.
-- [x] Task: Add "Roasted Vegetables" chart.
-- [x] Task: Add "Stuffed Vegetables" chart.
-- [x] Task: Add "Brothy Soups" chart.
-- [x] Task: Add "Beans" chart.
-- [x] Task: Add "Pureed Soups" chart.
-- [x] Task: Add "Stews" chart.
-- [x] Task: Add "Braises" chart.
-- [x] Task: Add "One-pot Rice Dishes" chart.
-- [x] Task: Add "Grain Bowls" chart.
-- [x] Task: Add "Quick Pastas" chart.
-- [x] Task: Add "Meatballs" chart.
-- [x] Task: Add "Sheet Pan Dinners" chart.
-- [x] Task: Add "Savory Pies" chart.
-- [x] Task: Add "One-Bowl Batters" chart.
-- [x] Task: Add "Menu Suggestions" chart.
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Add Remaining Charts' (Protocol in workflow.md)
+## Phase 3: Add Remaining Charts [checkpoint: ead7bd2]
+- [x] Task: Add "Non-lettuce salads" chart. ead7bd2
+- [x] Task: Add "Sandwiches" chart. ead7bd2
+- [x] Task: Add "Stovetop Vegetables" chart. ead7bd2
+- [x] Task: Add "Roasted Vegetables" chart. ead7bd2
+- [x] Task: Add "Stuffed Vegetables" chart. ead7bd2
+- [x] Task: Add "Brothy Soups" chart. ead7bd2
+- [x] Task: Add "Beans" chart. ead7bd2
+- [x] Task: Add "Pureed Soups" chart. ead7bd2
+- [x] Task: Add "Stews" chart. ead7bd2
+- [x] Task: Add "Braises" chart. ead7bd2
+- [x] Task: Add "One-pot Rice Dishes" chart. ead7bd2
+- [x] Task: Add "Grain Bowls" chart. ead7bd2
+- [x] Task: Add "Quick Pastas" chart. ead7bd2
+- [x] Task: Add "Meatballs" chart. ead7bd2
+- [x] Task: Add "Sheet Pan Dinners" chart. ead7bd2
+- [x] Task: Add "Savory Pies" chart. ead7bd2
+- [x] Task: Add "One-Bowl Batters" chart. ead7bd2
+- [x] Task: Add "Menu Suggestions" chart. ead7bd2
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Add Remaining Charts' (Protocol in workflow.md) ead7bd2
 
 ## Phase 4: Final Validation and Cleanup
 - [ ] Task: Run `task lint` and fix any issues.
