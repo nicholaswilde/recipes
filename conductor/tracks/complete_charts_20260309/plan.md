@@ -37,8 +37,8 @@ This plan outlines the steps to complete the charts in `docs/reference/charts.md
 - [x] Task: Conductor - User Manual Verification 'Phase 3: Add Remaining Charts' (Protocol in workflow.md) ead7bd2
 
 ## Phase 4: Final Validation and Cleanup
-- [ ] Task: Run `task lint` and fix any issues.
-- [ ] Task: Run `task spellcheck` and update `dictionary.txt` if necessary.
-- [ ] Task: Run `zensical build` to verify the final site.
-- [ ] Task: Close issue #1331.
-- [ ] Task: Conductor - User Manual Verification 'Phase 4: Final Validation and Cleanup' (Protocol in workflow.md)
+- [x] Task: Run `task lint` and fix any issues. e3f4204
+- [x] Task: Run `task spellcheck` and update `dictionary.txt` if necessary. e3f4204
+- [x] Task: Run `zensical build` to verify the final site. e3f4204
+- [x] Task: Close issue #1331. e3f4204
+- [x] Task: Conductor - User Manual Verification 'Phase 4: Final Validation and Cleanup' (Protocol in workflow.md) ead7bd2

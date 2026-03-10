@@ -8,5 +8,5 @@ No incomplete tracks found in the tracks file. All tasks are completed!
 
 ---
 
-- [~] **Track: Complete Julia Turshen's "What Goes with What" Charts**
+- [x] **Track: Complete Julia Turshen's "What Goes with What" Charts**
 *Link: [./tracks/complete_charts_20260309/](./tracks/complete_charts_20260309/)*

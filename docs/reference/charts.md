@@ -154,13 +154,45 @@ Charts from Julia Turshen's *What Goes with What*.
 
 <div class="grid cards" markdown>
 
-- __Placeholder Item__
+- __Sliced Cucumbers__
 
     ---
 
-    **Column 1**: Placeholder
-    **Column 2**: Placeholder
-    **Column 3**: Placeholder
+    **Dressing**: Red wine vinegar, olive oil, & dried oregano
+    **Herb**: Lots of parsley
+    **An Extra Thing**: Crumbled feta
+
+- __Corn Kernels__
+
+    ---
+
+    **Dressing**: 50/50 lime juice & olive oil
+    **Herb**: Cilantro
+    **An Extra Thing**: Diced avocado
+
+- __Tomatoes (big ones in wedges / little ones halved)__
+
+    ---
+
+    **Dressing**: Caesar
+    **Herb**: Parsley
+    **An Extra Thing**: Crunchy, garlicky breadcrumbs
+
+- __Peach Wedges__
+
+    ---
+
+    **Dressing**: 1 part sherry vinegar, 1 part Dijon, 3 parts olive oil
+    **Herb**: Minced chives
+    **An Extra Thing**: Crumbled crispy bacon
+
+- __Bite-sized pieces of Melon__
+
+    ---
+
+    **Dressing**: A squeeze of lemon & olive oil
+    **Herb**: Torn basil
+    **An Extra Thing**: Drape with prosciutto
 
 </div>
 
@@ -210,13 +242,50 @@ Charts from Julia Turshen's *What Goes with What*.
 
 <div class="grid cards" markdown>
 
-- __Placeholder Item__
+- __Feta + Rice-Stuffed Peppers__
 
     ---
 
-    **Column 1**: Placeholder
-    **Column 2**: Placeholder
-    **Column 3**: Placeholder
+    **Vegetable with a Cavity**: Bell Peppers
+    **Something Starchy for the Filling**: Cooked Rice & Frozen Spinach
+    **Something Fatty**: Feta
+    **Flavor**: Garlic Powder & Dried Oregano
+
+- __Twice-Baked Cacio e Pepe Potatoes__
+
+    ---
+
+    **Vegetable with a Cavity**: Baked Potatoes (Scooped Out)
+    **Something Starchy for the Filling**: Fluffy Potato from Scooped Out Center
+    **Something Fatty**: Pecorino & Butter
+    **Flavor**: Tons of Black Pepper
+
+- __Mushrooms Rockefeller__
+
+    ---
+
+    **Vegetable with a Cavity**: Mushrooms with Stems Popped Off
+    **Something Starchy for the Filling**: Chopped Mushroom Stems, Breadcrumbs & Spinach
+    **Something Fatty**: Butter & Parmesan
+    **Flavor**: Garlic, Lemon Zest & Juice
+
+- __Tomatoes Casino__
+
+    ---
+
+    **Vegetable with a Cavity**: Tomatoes (Scooped Out)
+    **Something Starchy for the Filling**: Breadcrumbs
+    **Something Fatty**: Bacon!
+    **Flavor**: Garlic & Fresh Parsley
+
+- __Spiced Chickpea Squash Bowls__
+
+    ---
+
+    **Vegetable with a Cavity**: Roasted Acorn Squash (Halved & Seeded)
+    **Something Starchy for the Filling**: Chickpeas + Crushed Tomatoes
+    **Something Fatty**: Olive Oil
+    **Flavor**: Lots of Spices & Cilantro
 
 </div>
 
@@ -350,13 +419,50 @@ Charts from Julia Turshen's *What Goes with What*.
 
 <div class="grid cards" markdown>
 
-- __Placeholder Item__
+- __"Paella"__
 
     ---
 
-    **Column 1**: Placeholder
-    **Column 2**: Placeholder
-    **Column 3**: Placeholder
+    **Carb**: Cooked Rice
+    **Protein**: Diced Chorizo
+    **Veg**: Diced Onion & Peas
+    **Finish**: Fresh Lemon
+
+- __Gnocchi Night!__
+
+    ---
+
+    **Carb**: Shelf-stable Gnocchi
+    **Protein**: Big Spoonfuls of Ricotta
+    **Veg**: Cherry Tomatoes & Baby Spinach
+    **Finish**: Grated Parm!
+
+- __Sausage & Peppers__
+
+    ---
+
+    **Carb**: *Not in foil—serve on toasted buns
+    **Protein**: Italian Sausages (hot or sweet)
+    **Veg**: Sliced Peppers & Onions
+    **Finish**: A handful of arugula w/ lemon & olive oil
+
+- __Tex-Mex Rice & Beans__
+
+    ---
+
+    **Carb**: Cooked Rice
+    **Protein**: Drained/Rinsed Canned Black Beans
+    **Veg**: Canned Green Chiles & Corn Kernels
+    **Finish**: Grated Cheddar & Avocado & Cilantro
+
+- __Pierogies & Kielbasa__
+
+    ---
+
+    **Carb**: Pre-made Pierogies
+    **Protein**: Sliced Kielbasa
+    **Veg**: Sauerkraut (or sliced cabbage)
+    **Finish**: Sour Cream!
 
 </div>
 
