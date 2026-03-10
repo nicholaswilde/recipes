@@ -293,13 +293,50 @@ Charts from Julia Turshen's *What Goes with What*.
 
 <div class="grid cards" markdown>
 
-- __Placeholder Item__
+- __Fastest Chicken Noodle Soup__
 
     ---
 
-    **Column 1**: Placeholder
-    **Column 2**: Placeholder
-    **Column 3**: Placeholder
+    **Sauté in Olive Oil**: Diced chicken breasts + carrots with garlic powder & paprika
+    **Add Liquid**: Chicken broth
+    **Add this & Simmer**: Egg noodles / raw garlic at the very end
+    **Top with**: Fresh herbs (optional)
+
+- __Italian Wedding Soup__
+
+    ---
+
+    **Sauté in Olive Oil**: Onions & garlic
+    **Add Liquid**: Chicken broth
+    **Add this & Simmer**: Small meatballs, small pasta & greens
+    **Top with**: Grated Pecorino
+
+- __Minestrone-ish__
+
+    ---
+
+    **Sauté in Olive Oil**: Onion, carrots, cabbage, garlic, tomato paste + dried oregano
+    **Add Liquid**: Canned tomatoes + chicken or veg broth
+    **Add this & Simmer**: Canned white beans & small pasta
+    **Top with**: Grated Parm & store-bought pesto
+
+- __Any-Bean Soup__
+
+    ---
+
+    **Sauté in Olive Oil**: Diced onion, carrots + lots of garlic
+    **Add Liquid**: Chicken or veg broth
+    **Add this & Simmer**: Dried beans
+    **Top with**: Lots of fresh herbs & olive oil drizzle
+
+- __Frozen Fish Chowder__
+
+    ---
+
+    **Sauté in Olive Oil**: Diced onion & celery
+    **Add Liquid**: Seafood or fish broth & cream
+    **Add this & Simmer**: Diced potatoes, corn & fish
+    **Top with**: Fresh chives & oyster crackers
 
 </div>
 
