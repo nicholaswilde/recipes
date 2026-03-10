@@ -158,6 +158,8 @@ broma-bakery
 brookies
 Brookies
 brotforms
+brothy
+Brothy
 brûlée
 Brûlée
 brûléed
@@ -828,6 +830,7 @@ spiralled
 springform
 Stewarts
 stovetop
+Stovetop
 streusel
 Streusel
 streusel-side

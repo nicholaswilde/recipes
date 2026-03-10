@@ -149,3 +149,255 @@ Charts from Julia Turshen's *What Goes with What*.
     **Dressing**: Creamy mustard dressing
 
 </div>
+
+## Non-lettuce salads
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Sandwiches
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Stovetop Vegetables
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Roasted Vegetables
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Stuffed Vegetables
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Brothy Soups
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Beans
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Pureed Soups
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Stews
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Braises
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## One-pot Rice Dishes
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Grain Bowls
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Quick Pastas
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Meatballs
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Sheet Pan Dinners
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Savory Pies
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## One-Bowl Batters
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>
+
+## Menu Suggestions
+
+<div class="grid cards" markdown>
+
+- __Placeholder Item__
+
+    ---
+
+    **Column 1**: Placeholder
+    **Column 2**: Placeholder
+    **Column 3**: Placeholder
+
+</div>

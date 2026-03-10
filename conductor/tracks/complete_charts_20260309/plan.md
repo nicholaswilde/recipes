@@ -16,24 +16,24 @@ This plan outlines the steps to complete the charts in `docs/reference/charts.md
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Refactor Existing Charts' (Protocol in workflow.md) 5170042
 
 ## Phase 3: Add Remaining Charts
-- [ ] Task: Add "Non-lettuce salads" chart.
-- [ ] Task: Add "Sandwiches" chart.
-- [ ] Task: Add "Stovetop Vegetables" chart.
-- [ ] Task: Add "Roasted Vegetables" chart.
-- [ ] Task: Add "Stuffed Vegetables" chart.
-- [ ] Task: Add "Brothy Soups" chart.
-- [ ] Task: Add "Beans" chart.
-- [ ] Task: Add "Pureed Soups" chart.
-- [ ] Task: Add "Stews" chart.
-- [ ] Task: Add "Braises" chart.
-- [ ] Task: Add "One-pot Rice Dishes" chart.
-- [ ] Task: Add "Grain Bowls" chart.
-- [ ] Task: Add "Quick Pastas" chart.
-- [ ] Task: Add "Meatballs" chart.
-- [ ] Task: Add "Sheet Pan Dinners" chart.
-- [ ] Task: Add "Savory Pies" chart.
-- [ ] Task: Add "One-Bowl Batters" chart.
-- [ ] Task: Add "Menu Suggestions" chart.
+- [x] Task: Add "Non-lettuce salads" chart.
+- [x] Task: Add "Sandwiches" chart.
+- [x] Task: Add "Stovetop Vegetables" chart.
+- [x] Task: Add "Roasted Vegetables" chart.
+- [x] Task: Add "Stuffed Vegetables" chart.
+- [x] Task: Add "Brothy Soups" chart.
+- [x] Task: Add "Beans" chart.
+- [x] Task: Add "Pureed Soups" chart.
+- [x] Task: Add "Stews" chart.
+- [x] Task: Add "Braises" chart.
+- [x] Task: Add "One-pot Rice Dishes" chart.
+- [x] Task: Add "Grain Bowls" chart.
+- [x] Task: Add "Quick Pastas" chart.
+- [x] Task: Add "Meatballs" chart.
+- [x] Task: Add "Sheet Pan Dinners" chart.
+- [x] Task: Add "Savory Pies" chart.
+- [x] Task: Add "One-Bowl Batters" chart.
+- [x] Task: Add "Menu Suggestions" chart.
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Add Remaining Charts' (Protocol in workflow.md)
 
 ## Phase 4: Final Validation and Cleanup
