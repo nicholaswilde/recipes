@@ -2,12 +2,12 @@
 
 This plan outlines the steps to complete the charts in `docs/reference/charts.md` and implement a new, more readable format.
 
-## Phase 1: Research and Formatting Prototype
-- [x] Task: Research and define the "New Format" for charts. 294a4da
+## Phase 1: Research and Formatting Prototype [checkpoint: 42f6920]
+- [x] Task: Research and define the "New Format" for charts. 42f6920
     - [x] Explore alternatives to wide Markdown tables (e.g., stacked tables, definition lists, or custom HTML blocks).
     - [x] Create a prototype of the "New Format" for one existing chart (e.g., Salad Dressings).
     - [x] Verify the prototype's responsiveness on mobile using browser developer tools.
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Research and Formatting Prototype' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Research and Formatting Prototype' (Protocol in workflow.md) 42f6920
 
 ## Phase 2: Refactor Existing Charts
 - [ ] Task: Refactor "Fruity Cobblers & Crisps" to the new format.
