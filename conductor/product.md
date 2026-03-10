@@ -24,6 +24,7 @@ To create a comprehensive, easily accessible, and visually appealing personal re
 - **Recipe Management:** Cooklang-based authoring with automated conversion to Markdown.
 - **Categorization:** Functional organization (e.g., Main, Sides, Desserts) with tag-based discovery for cuisines and occasions (e.g., holiday, thanksgiving).
 - **Search:** Full-text search capability provided by the documentation theme.
+- **Reference Charts:** Quick-reference ingredient combinations and guides (e.g., "What Goes with What" charts).
 - **Visuals:** High-quality images for each recipe with lazy loading.
 - **Tools:** Integrated unit conversion, spellchecking, and link checking.
 

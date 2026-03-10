@@ -22,6 +22,11 @@
 - **Callouts:** Use `!!! tip` for additional advice, variations, or "pro-tips" that enhance the recipe.
 - **Metadata:** Every recipe must include relevant tags and source information in the front matter.
 
+- **Reference Charts:**
+    - Use the "Grid Cards" layout for better mobile readability and visual appeal.
+    - Wrap lists in `<div class="grid cards" markdown>` to enable the grid layout.
+    - Use horizontal rules (`---`) to separate titles from content within each card.
+
 ## Technical Standards
 
 - **Linting:** Adhere to `markdownlint` and `yamllint` configurations.
