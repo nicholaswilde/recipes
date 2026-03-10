@@ -4,30 +4,148 @@ Charts from Julia Turshen's *What Goes with What*.
 
 ## Fruity Cobblers & Crisps
 
-| Fruity Cobblers & Crisps | Fruit | Seasoning/Thickener | Fat/Liquid Topping Ingredients | Main Dry Topping Ingredients |
-|:------------------------:|:-----:|:-------------------:|:------------------------------:|:----------------------------:|
-| Pear, cherry, & almond crisp | Sliced pears & frozen cherries | Sugar, lemon juice, almond extract & cornstarch | Butter | Sugar, almond flour & rolled oats |
-| Gingery peach & blueberry cakey cobbler | Frozen peaches & fresh or frozen blueberries | Sugar, lemon, cornstarch & ground ginger | Heavy cream | Flour, cornmeal, baking powder, salt, & sugar |
-| Apple & cranberry crisp | Cranberry sauce & sliced apples | Lemon, cornstarch, & ground cinnamon | Butter | Flour, oats, brown sugar & cinnamon |
-| Raspberry & chocolate cobbler | Frozen raspberries | Sugar, lemon, & cornstarch | Eggs & heavy cream | Flour, sugar, cocoa powder, baking powder & soda & chocolate chips |
-| Pineapple upside-down cake (a cobbler, inverted) | Canned pineapple rings & maraschino cherries | Dark brown sugar & butter | Eggs, sour cream, vegetable oil, & vanilla | Flour, sugar, baking powder, baking soda & salt |
+<div class="grid cards" markdown>
+
+- __Pear, cherry, & almond crisp__
+
+    ---
+
+    **Fruit**: Sliced pears & frozen cherries
+    **Seasoning/Thickener**: Sugar, lemon juice, almond extract & cornstarch
+    **Fat/Liquid Topping Ingredients**: Butter
+    **Main Dry Topping Ingredients**: Sugar, almond flour & rolled oats
+
+- __Gingery peach & blueberry cakey cobbler__
+
+    ---
+
+    **Fruit**: Frozen peaches & fresh or frozen blueberries
+    **Seasoning/Thickener**: Sugar, lemon, cornstarch & ground ginger
+    **Fat/Liquid Topping Ingredients**: Heavy cream
+    **Main Dry Topping Ingredients**: Flour, cornmeal, baking powder, salt, & sugar
+
+- __Apple & cranberry crisp__
+
+    ---
+
+    **Fruit**: Sliced apples & cranberry sauce
+    **Seasoning/Thickener**: Lemon, cornstarch, & ground cinnamon
+    **Fat/Liquid Topping Ingredients**: Butter
+    **Main Dry Topping Ingredients**: Flour, oats, brown sugar & cinnamon
+
+- __Raspberry & chocolate cobbler__
+
+    ---
+
+    **Fruit**: Frozen raspberries
+    **Seasoning/Thickener**: Sugar, lemon, & cornstarch
+    **Fat/Liquid Topping Ingredients**: Eggs & heavy cream
+    **Main Dry Topping Ingredients**: Flour, sugar, cocoa powder, baking powder & soda & chocolate chips
+
+- __Pineapple upside-down cake (a cobbler, inverted)__
+
+    ---
+
+    **Fruit**: Canned pineapple rings & maraschino cherries
+    **Seasoning/Thickener**: Dark brown sugar & butter
+    **Fat/Liquid Topping Ingredients**: Eggs, sour cream, vegetable oil, & vanilla
+    **Main Dry Topping Ingredients**: Flour, sugar, baking powder, baking soda & salt
+
+</div>
 
 ## Salad Dressings
 
-| Salad Dressings | Acid (1 part) | Fat/Oil (2-3 parts) | Seasoning |
-|:---------------:|:-------------:|:-------------------:|:---------:|
-| Creamy lemon dressing | Fresh lemon zest & juice | 50/50 olive oil & Greek yogurt | Honey & salt |
-| Pizzeria vinaigrette | Red wine vinegar | Olive oil | Dried oregano, garlic & salt |
-| Creamy mustard dressing | White wine vinegar | Equal parts olive oil & mayo | Dijon, honey, salt & pepper |
-| Kimchi dressing | Kimchi juice & rice vinegar | Mayo | Soy sauce, fish sauce, salt & Korean red pepper flakes |
-| Tahini ranch dressing | Red wine vinegar | Tahini + boiling water plus mayo | Honey, garlic, salt, fresh chives & dill |
+<div class="grid cards" markdown>
+
+- __Creamy lemon dressing__
+
+    ---
+
+    **Acid (1 part)**: Fresh lemon zest & juice
+    **Fat/Oil (2-3 parts)**: 50/50 olive oil & Greek yogurt
+    **Seasoning**: Honey & salt
+
+- __Pizzeria vinaigrette__
+
+    ---
+
+    **Acid (1 part)**: Red wine vinegar
+    **Fat/Oil (2-3 parts)**: Olive oil
+    **Seasoning**: Dried oregano, garlic & salt
+
+- __Creamy mustard dressing__
+
+    ---
+
+    **Acid (1 part)**: White wine vinegar
+    **Fat/Oil (2-3 parts)**: Equal parts olive oil & mayo
+    **Seasoning**: Dijon, honey, salt & pepper
+
+- __Kimchi dressing__
+
+    ---
+
+    **Acid (1 part)**: Kimchi juice & rice vinegar
+    **Fat/Oil (2-3 parts)**: Mayo
+    **Seasoning**: Soy sauce, fish sauce, salt & Korean red pepper flakes
+
+- __Tahini ranch dressing__
+
+    ---
+
+    **Acid (1 part)**: Red wine vinegar
+    **Fat/Oil (2-3 parts)**: Tahini + boiling water plus mayo
+    **Seasoning**: Honey, garlic, salt, fresh chives & dill
+
+</div>
 
 ## Salads with Lettuce
 
-| Salads with lettuce | Base | Crunchy thing | Rich thing | Dressing |
-|:-------------------:|:----:|:-------------:|:----------:|:--------:|
-| Classic caesar with big crunchy croutons | Romaine | Croutons | Shaved parm | Julia's Caesar |
-| Vegan kale caesar with crispy chickpeas | Shredded kale massaged with lemon & salt | Roasted chickpeas | Extra dressing! | Caper caesar |
-| Italian chopped salad | Chopped romaine, jarred artichoke hears & roasted peppers | Thinly sliced pepperoncini | Olives, diced salami & cheese | Pizzeria vinaigrette |
-| Winter chopped salad | Shredded kale & cabbage | Pumpkin seeds & pickled red onions | Roasted squash & crumbled feta | Go-to dressing |
-| My usual chopped salad | Chopped romaine & red cabbage | Roasted almonds & grated carrots | Chickpeas, feta & golden raisins | Creamy mustard dressing |
+<div class="grid cards" markdown>
+
+- __Classic caesar with big crunchy croutons__
+
+    ---
+
+    **Base**: Romaine
+    **Crunchy thing**: Croutons
+    **Rich thing**: Shaved parm
+    **Dressing**: Julia's Caesar
+
+- __Vegan kale caesar with crispy chickpeas__
+
+    ---
+
+    **Base**: Shredded kale massaged with lemon & salt
+    **Crunchy thing**: Roasted chickpeas
+    **Rich thing**: Extra dressing!
+    **Dressing**: Caper caesar
+
+- __Italian chopped salad__
+
+    ---
+
+    **Base**: Chopped romaine, jarred artichoke hearts & roasted peppers
+    **Crunchy thing**: Thinly sliced pepperoncini
+    **Rich thing**: Olives, diced salami & cheese
+    **Dressing**: Pizzeria vinaigrette
+
+- __Winter chopped salad__
+
+    ---
+
+    **Base**: Shredded kale & cabbage
+    **Crunchy thing**: Pumpkin seeds & pickled red onions
+    **Rich thing**: Roasted squash & crumbled feta
+    **Dressing**: Go-to dressing
+
+- __My usual chopped salad__
+
+    ---
+
+    **Base**: Chopped romaine & red cabbage
+    **Crunchy thing**: Roasted almonds & grated carrots
+    **Rich thing**: Chickpeas, feta & golden raisins
+    **Dressing**: Creamy mustard dressing
+
+</div>
