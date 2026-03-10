@@ -168,10 +168,13 @@ bruschetta
 Bruschetta
 Bûche
 buco
+Bulgogi
+Bulgogi-Inspired
 bundt
 Bundt
 Buon
 Butterfinger
+Cacio
 caesar
 Caffè
 cakey
@@ -224,6 +227,7 @@ chile
 chilero
 Chilero
 chiles
+Chiles
 chilis
 chilli
 Chilli
@@ -657,6 +661,7 @@ Pecorino
 penne
 Penne
 pepe
+Pepe
 pepitas
 Peppadew
 Pepperidge
@@ -667,6 +672,7 @@ peruvian
 petits
 pico
 Pico
+Pierogies
 pillowy
 Pillowy
 piloncillo
@@ -701,6 +707,7 @@ pourable
 prebaked
 pre-commit
 precut
+Pre-made
 preroasted
 preshape
 Preshape
@@ -865,6 +872,7 @@ Tbsps
 teff
 Teff
 tempeh
+Tempeh
 the-gracias-madre-cookbook
 the-new-york-times
 Tiramisù

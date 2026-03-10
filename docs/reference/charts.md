@@ -391,13 +391,41 @@ Charts from Julia Turshen's *What Goes with What*.
 
 <div class="grid cards" markdown>
 
-- __Placeholder Item__
+- __In the spirit of an Unwrapped Dumpling__
 
     ---
 
-    **Column 1**: Placeholder
-    **Column 2**: Placeholder
-    **Column 3**: Placeholder
+    **Protein**: Ground Pork or Crumbled Tempeh
+    **Aromatics**: Minced Garlic, Ginger & Scallions
+    **Sauce**: Equal parts: Oyster Sauce, Soy Sauce & Toasted Sesame Oil
+    **Vegetable**: Shredded Green Cabbage or Coleslaw Mix
+
+- __Buffalo Chicken, Baby!__
+
+    ---
+
+    **Protein**: Ground Chicken or Crumbled Super Firm Tofu
+    **Aromatics**: Minced Garlic
+    **Sauce**: Equal parts Butter & Frank's Red Hot Sauce
+    **Vegetable**: Thinly sliced Carrots & Celery (Top w/ blue cheese!)
+
+- __Bulgogi-Inspired__
+
+    ---
+
+    **Protein**: Ground Beef or Plant-Based Ground "Beef"
+    **Aromatics**: Thinly sliced Onions & Minced Garlic
+    **Sauce**: Soy Sauce, Sugar, Gochujang & Sesame Oil
+    **Vegetable**: Daikon matchsticks
+
+- __In the spirit of a Lamb Gyro__
+
+    ---
+
+    **Protein**: Ground Lamb or Plant-Based Ground "Meat"
+    **Aromatics**: Minced Red Onion & Garlic (Plus: Cumin, Oregano & Pepper)
+    **Sauce**: Red Wine Vinegar + Honey
+    **Vegetable**: Diced Zucchini & Halved Cherry Tomatoes
 
 </div>
 
