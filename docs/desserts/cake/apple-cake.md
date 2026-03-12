@@ -98,6 +98,6 @@ days.
 ## :link: Sources
 
 - <https://sallysbakingaddiction.com/apple-cake/>
-- <https://www.thepancakeprincess.com/2023/10/14/best-apple-cake-bake-off/>
+- <https://www.thepancakeprincess.com/best-apple-cake-bake-off/>
 
 [1]: <../../assets/images/apple-cake.jpg>
