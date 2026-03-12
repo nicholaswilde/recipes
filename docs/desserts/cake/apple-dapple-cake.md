@@ -14,7 +14,6 @@ tags:
 
 ## :salt: Ingredients
 
-- :olive: some nonstick baking spray
 - :bread: 3 cups (360 g) all-purpose flour
 - :chestnut: 2 tsp (4 g) ground cinnamon
 - :salt: 1.5 tsp (8 g) kosher salt
@@ -25,38 +24,37 @@ tags:
 - :droplet: 1.5 cups (297 g) canola oil
 - :flower_playing_cards: 1 Tbsp (14 g) vanilla extract
 - :egg: 3 large (150 g) eggs
-- :apple: 3 large (765 g) Gala apples
+- :apple: 3 large (765 g) Gala apples (peeled, cored, and finely chopped into 1/4-in. pieces)
 - :chestnut: 1 cup (99 g) toasted chopped pecans
 - :candy: 1 cup (213 g) light brown sugar
 - :butter: 0.75 cup (170 g) unsalted butter
 - :glass_of_milk: 0.25 cup (57 g) heavy whipping cream
 - :salt: 0.5 tsp kosher salt
+- :olive: some nonstick baking spray
 
 ## :cooking: Cookware
 
-- 1 12-cup Bundt pan
-- 1 medium bowl
-- 1 large bowl
-- 1 electric mixer
-- 1 Bundt pan
-- 1 small spatula
-- 1 wire rack
-- 1 medium saucepan
-- 1 wooden skewer
-- 1 aluminum foil
+- :cookie: 1 12-cup Bundt pan
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 large bowl
+- :electric_plug: 1 electric mixer
+- :spoon: 1 small spatula
+- :wastebasket: 1 wire rack
+- :shallow_pan_of_food: 1 medium saucepan
+- :knife: 1 wooden skewer
+- :page_facing_up: 1 aluminum foil
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Preheat oven to 350°F. Grease a 12-cup Bundt pan with nonstick baking spray. Whisk together 3 cups (360 g) all-purpose
-flour, 2 tsp (4 g) ground cinnamon, 1.5 tsp (8 g) kosher salt, 1 tsp (4 g) baking powder, 0.5 tsp (3 g) baking soda, and
-0.5 tsp ground nutmeg in a medium bowl until combined.
+Preheat oven to 350°F. Grease a 12-cup Bundt pan with nonstick baking spray. Whisk together all-purpose flour, ground
+cinnamon, kosher salt, baking powder, baking soda, and ground nutmeg in a medium bowl until combined.
 
 ### Step 2
 
-Stir together 2 cups (396 g) granulated sugar, 1.5 cups (297 g) canola oil, 1 Tbsp (14 g) vanilla extract, and 3 large
-(150 g) eggs in a large bowl; beat with an electric mixer on medium speed until lightened in color, 2 to 3 minutes.
+Stir together granulated sugar, canola oil, vanilla extract, and eggs in a large bowl; beat with an electric mixer on
+medium speed until lightened in color, 2 to 3 minutes.
 
 ### Step 3
 
@@ -65,8 +63,7 @@ minutes.
 
 ### Step 4
 
-Fold 3 large (765 g) Gala apples (peeled, cored, and finely chopped into 1/4-in. pieces) and 1 cup (99 g) toasted chopped
-pecans into batter until evenly distributed.
+Fold Gala apples and toasted chopped pecans into batter until evenly distributed.
 
 ### Step 5
 
@@ -79,9 +76,8 @@ minutes. Remove from oven; let cake cool in Bundt pan on a wire rack for 10 minu
 
 ### Step 7
 
-Stir together 1 cup (213 g) light brown sugar, 0.75 cup (170 g) unsalted butter, 0.25 cup (57 g) heavy whipping cream,
-and 0.5 tsp kosher salt in a medium saucepan. Bring to a boil over medium, whisking constantly. Boil 2 additional
-minutes, and remove from heat.
+Stir together light brown sugar, unsalted butter, heavy whipping cream, and kosher salt in a medium saucepan. Bring to a
+boil over medium, whisking constantly. Boil 2 additional minutes, and remove from heat.
 
 ### Step 8
 
@@ -97,9 +93,22 @@ Invert cake onto wire rack; remove Bundt pan, and let cake cool completely, abou
 Uncover remaining Caramel Glaze in saucepan, and cook over low, stirring constantly, until just warmed through and
 smooth, about 1 minute. Drizzle remaining Caramel Glaze over cake.
 
+## :twisted_rightwards_arrows: Variations
+
+- **Vintage Version**: Add a handful of black and golden raisins to the batter along with the apples.
+- **Nut-Free**: Omit the pecans entirely; the cake remains flavorful and moist.
+
+## :bulb: Tips
+
+- **Glaze Timing**: If you prefer, you can apply the glaze 10 minutes after removing the cake from the pan, though the in-pan soak is traditional for maximum moisture.
+- **Glaze Texture**: Ensure the sugar is fully dissolved while boiling the glaze to prevent a grainy texture.
+- **Baking Spray**: Use a spray specifically labeled as "baking spray" (containing flour) for the cleanest release.
+- **Overmixing**: Only mix the batter until the flour is just combined to maintain a tender crumb.
+- **Poking Holes**: This is essential for allowing the caramel glaze to penetrate deep into the cake.
+
 ## :link: Source
 
+- <https://www.southernliving.com/apple-dapple-cake-review-11806445>
 - <https://www.southernliving.com/apple-dapple-cake-7560280>
 
 [1]: <../../assets/images/apple-dapple-cake.jpg>
-
