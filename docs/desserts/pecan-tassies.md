@@ -13,30 +13,30 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 24 | 1 hour 50 minutes |
+| 24 | 1.83 hours |
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup (113 g) unsalted butter
-- :cheese_wedge: 3 oz (85 g) cream cheese
+- :butter: 0.5 cup (113 g) unsalted butter (softened)
+- :cheese_wedge: 3 oz (85 g) cream cheese (softened)
 - :bread: 1 cup (120 g) all-purpose flour
 - :salt: 0.13 tsp salt
 - :egg: 1 large (50 g) egg
-- :candy: 0.75 cup (160 g) light brown sugar
-- :butter: 1 Tbsp (14 g) unsalted butter
+- :candy: 0.75 cup (160 g) light brown sugar (firmly packed)
+- :butter: 1 Tbsp (14 g) unsalted butter (melted)
 - :flower_playing_cards: 1 tsp (4 g) vanilla extract
 - :salt: some salt
 - :chestnut: 1 cup (99 g) finely chopped pecans
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 electric mixer
-- 1 plastic wrap
-- 1 24-cup miniature muffin pan
-- 1 small bowl
-- 1 wire rack
-- 1 thin knife
+- :bowl_with_spoon: 1 medium bowl
+- :electric_plug: 1 electric mixer
+- :page_facing_up: 1 plastic wrap
+- :cookie: 1 24-cup miniature muffin pan
+- :bowl_with_spoon: 1 small bowl
+- :wastebasket: 1 wire rack
+- :knife: 1 thin knife
 
 ## :pencil: Instructions
 
@@ -61,9 +61,8 @@ firmly against bottom and up sides of cups to form a shell.
 
 ### Step 5
 
-Whisk together 1 large (50 g) egg, 0.75 cup (160 g) light brown sugar (firmly packed), 1 Tbsp (14 g) unsalted butter
-(melted), 1 tsp (4 g) vanilla extract, and a dash of salt in a small bowl until smooth. Stir in 1 cup (99 g) finely
-chopped pecans.
+Whisk together egg, light brown sugar (firmly packed), 1 Tbsp (14 g) unsalted butter (melted), 1 tsp (4 g) vanilla
+extract, and a dash of salt in a small bowl until smooth. Stir in 1 cup (99 g) finely chopped pecans.
 
 ### Step 6
 
@@ -78,9 +77,20 @@ Bake until filling is set and pastry is lightly browned, 20 to 25 minutes.
 Let tassies cool in pan on a wire rack for 5 minutes. Carefully run a thin knife around edges to loosen, then remove
 from pan to cool completely.
 
+## :twisted_rightwards_arrows: Variations
+
+- **Bourbon Pecan Tassies**: Add a splash of bourbon to the filling mixture for extra flavor.
+
+## :bulb: Tips
+
+- **Batch for Gifting**: This recipe is easy to quadruple, making it perfect for holiday gifts.
+- **Ideal for Crowds**: These bite-sized treats are great for parties where people want a taste without a full slice of pie.
+- **Balanced Sweetness**: These are less sweet than traditional pecan pie, making them more approachable for many.
+- **Perfect Ratio**: The thick, buttery crust ensures the treats are firm enough to eat by hand while keeping the filling moist.
+
 ## :link: Source
 
-- <https://www.southernliving.com/recipes/pecan-tassies>
+- <https://www.southernliving.com/pecan-tassies-review-11805752>
+- <https://www.southernliving.com/pecan-tassies-7560279>
 
 [1]: <../assets/images/pecan-tassies.jpg>
-
