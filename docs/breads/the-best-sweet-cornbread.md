@@ -5,9 +5,9 @@ tags:
   - bread
 ---
 
-# :corn: The Best Cornbread
+# :corn: The Best Sweet Cornbread
 
-![The Best Cornbread][1]{ loading=lazy }
+![The Best Sweet Cornbread][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -65,5 +65,5 @@ served at room temperature so it is soft and spreadable.
 - <https://www.melskitchencafe.com/the-cornbread-and-fluffy-honey-butter/>
 - <https://www.thepancakeprincess.com/2019/11/24/best-sweet-cornbread-bake-off/>
 
-[1]: <../assets/images/the-best-cornbread.jpg>
+[1]: <../assets/images/the-best-sweet-cornbread.jpg>
 [2]: <../ingredients/marshmallow-fluff.md>
