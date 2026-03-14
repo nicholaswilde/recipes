@@ -653,6 +653,7 @@ Ingredients = [
   { "Roux" = "ingredients/roux.md" },
   { "Sauerkraut" = "ingredients/sauerkraut.md" },
   { "Scottish Oatmeal" = "ingredients/scottish-oatmeal.md" },
+  { "Self-Rising Cornmeal" = "ingredients/self-rising-cornmeal.md" },
   { "Simple Syrup" = "ingredients/simple-syrup.md" },
   { "Sourdough Starter" = "ingredients/sourdough-starter.md" },
   { "Stiff Sourdough Starter" = "ingredients/stiff-sourdough-starter.md" },
