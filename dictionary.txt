@@ -393,6 +393,7 @@ focaccia
 Focaccia
 FOK
 foldings
+forbes
 frac
 fraiche
 fraiche.
@@ -480,6 +481,7 @@ indonesian
 italian
 jackfruit
 Jackfruit
+jacques-torres
 jalapeño
 Jalapeño
 jalapeños

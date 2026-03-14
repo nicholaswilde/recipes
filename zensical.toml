@@ -33,6 +33,7 @@ Beverages = [
   { "Ginger Cubes" = "beverages/ginger-cubes.md" },
   { "Golden Milk" = "beverages/golden-milk.md" },
   { "Hot Chocolate" = "beverages/hot-chocolate.md" },
+  { "Hot Chocolate (Jacques Torres)" = "beverages/hot-chocolate-jacques-torres.md" },
   { "Iced Chai Latte" = "beverages/iced-chai-latte.md" },
   { "Iced Hibiscus Tea" = "beverages/iced-hibiscus-tea.md" },
   { "Oat Milk" = "beverages/oat-milk.md" },
