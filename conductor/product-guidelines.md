@@ -14,6 +14,7 @@
 
 ## Content Formatting
 
+- **Titles:** Prefix each recipe title with its corresponding emoji shortcode from `includes/emoji.yaml`.
 - **Instructions:** Always use numbered steps. Each step should focus on a concise set of actions.
 - **Ingredients:** Prefix each ingredient with its corresponding emoji shortcode from `includes/emoji.yaml`.
 - **Measurements:**
