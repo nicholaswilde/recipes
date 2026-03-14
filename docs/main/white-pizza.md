@@ -18,7 +18,7 @@ tags:
 
 - :butter: 1 [pizza dough][1]
 - :cheese_wedge: 8 oz mozzarella cheese
-- :cheese_wedge: 1 cup whole-milk ricotta cheese
+- :cheese_wedge: 1 cup whole-milk [ricotta cheese](../ingredients/ricotta.md)
 - :cheese_wedge: 1 oz Pecorino Romano cheese
 - :garlic: 1 clove garlic
 - :olive: 2 Tbsp olive oil
@@ -40,7 +40,7 @@ least 2 hours before proceeding. The dough is ready when it does not bounce back
 ### Step 2
 
 Pat and gently squeeze 8 ounces fresh mozzarella cheese dry with paper towels if water packed. Thinly slice. Place 1 cup
-whole-milk ricotta cheese in a small bowl. Finely grate 1 ounce Pecorino Romano cheese (about 1/2 packed cup) or measure
+whole-milk [ricotta cheese](../ingredients/ricotta.md) in a small bowl. Finely grate 1 ounce Pecorino Romano cheese (about 1/2 packed cup) or measure
 out 1/3 cup store-bought grated, add it to the bowl of ricotta, and stir to combine.
 
 ### Step 3

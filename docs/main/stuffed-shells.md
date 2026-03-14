@@ -18,7 +18,7 @@ tags:
 ## :salt: Ingredients
 
 - :bread: 12 oz (340 g) jumbo pasta shells
-- :cheese_wedge: 15 oz (425 g) package ricotta cheese
+- :cheese_wedge: 15 oz (425 g) package [ricotta cheese](../ingredients/ricotta.md)
 - :egg: 2 large (100 g) eggs (lightly beaten)
 - :cheese_wedge: 1 cup (113 g) jack cheese (shredded)
 - :cheese_wedge: 2 cups (226 g) shredded mozzarella cheese
@@ -49,7 +49,7 @@ Boil jumbo pasta shells in salted water according to package directions for al d
 
 ### Step 3
 
-In a large bowl, combine ricotta cheese, eggs, shredded jack cheese, 2 cups shredded mozzarella cheese, Parmesan cheese,
+In a large bowl, combine [ricotta cheese](../ingredients/ricotta.md), eggs, shredded jack cheese, 2 cups shredded mozzarella cheese, Parmesan cheese,
 thawed and drained spinach, salt, and black pepper. Stir until well combined.
 
 !!! note

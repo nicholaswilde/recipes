@@ -15,7 +15,7 @@ tags:
 
 - :beans: 2 cups (400 g) cooked [lentils][2]
 - :egg: 2 [eggs][3]
-- :cheese_wedge: 0.75 cup (170 g) ricotta cheese
+- :cheese_wedge: 0.75 cup (170 g) [ricotta cheese](../ingredients/ricotta.md)
 - :cheese_wedge: 0.25 cup (25 g) [Parmesan cheese][4]
 - :garlic: 1 clove garlic
 - :seedling: 0.5 tsp fennel seed
