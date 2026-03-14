@@ -16,7 +16,7 @@ tags:
 ## :salt: Ingredients
 
 - :olive: 0.25 cup (56 g) bacon drippings
-- :ear_of_rice: 2 cups (276 g) [self-rising cornmeal mix](../../ingredients/self-rising-cornmeal.md)
+- :ear_of_rice: 2 cups (276 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
 - :chestnut: 0.5 tsp (3 g) baking soda
 - :egg: 2 large (100 g) eggs (lightly beaten)
 - :glass_of_milk: 1.5 cups (340 g) buttermilk
