@@ -10,6 +10,7 @@ The command takes one argument: `{{args}}`.
 
 ### Workflow
 1.  **Extract Data:** Get the recipe title, ingredients, and instructions from the source.
+    *   **Image/PDF Sources:** If the recipe is provided via an image or PDF (e.g., provided in a GitHub issue via an image link), download the image to a temporary file and use `tesseract <image_path> -` to extract the text. Use the extracted text to create the recipe.
 2.  **Create .cook File:**
     *   Determine the correct category (e.g., `asian`, `beverages`, `breakfast`, etc.) based on the recipe content.
     *   Create `cook/{category}/{Recipe Name}.cook`.
