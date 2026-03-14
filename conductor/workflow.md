@@ -380,7 +380,10 @@ A task is complete when:
     - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed.
     - Use `manage_recipes(action='format', format_type='cooklang', urls=[...])` to generate the initial `.cook` file content from a URL.
     - **Validation:** Verify the output matches the [Cooklang Specification](./product-guidelines.md#cooklang-specification) section.
-    - **Recipe Name:** Use only the name of the recipe and use your best guess (e.g. `My Best Friends's Mom's Paprikash` -> `Paprikash`). If an existing recipe already exists with the same name, add the name of the recipe author to the new recipe name (e.g. `Paprikash` -> `Jojo's Paprikash`).
+    - **Recipe Name:** Use only the name of the recipe (e.g., `My Best Friend's Mom's Paprikash` -> `Paprikash`). The name of the source or author should only be added to the title if a recipe with the same name already exists.
+    - **Duplicate Handling:** If a recipe with the same name already exists, you MUST prompt the user to decide whether to:
+        1. Replace the existing recipe with the new one.
+        2. Rename the new recipe to include the author or source name (e.g., `Teriyaki Sauce (The Daring Gourmet)`).
     - **Unit Abbreviations:** When adding units to the cook recipe file, use the first upper case for tablespoon (e.g. `Tbsp`) and lowercase for teaspoon (e.g. `tsp`).
     - **Time Ranges:** When there is a time range in the `.cook` file, put the longest time inside of a `~{}` block and keep the shortest time outside of the block. Replace the dash with a `to` and add necessary spaces (e.g. `7-8 minutes` -> `7 to ~{8%minutes}`).
     - **Ignored Items:** Before tagging an item as an ingredient (with `@`), check `cook/config/ignored_ingredients.yaml`. If the item is listed there, do **not** tag it as an ingredient.
