@@ -89,7 +89,7 @@ slightly dry to the touch.
 
 ### Step 11
 
-These "meatballs" are delicious served with steamed or roasted broccoli, sesame seeds, teriyaki sauce, and your grain
+These "meatballs" are delicious served with steamed or roasted broccoli, sesame seeds, [teriyaki sauce](../sauces-and-dressings/gravy-and-savory-sauces/teriyaki-sauce.md), and your grain
 of choice (brown rice, white rice, quinoa, coconut rice, millet // or cauliflower rice for grain-free).
 
 ### Step 12
