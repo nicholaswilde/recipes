@@ -7,9 +7,9 @@ tags:
   - bigger-bolder-baking
 ---
 
-# Easy Orange Marmalade (Bigger Bolder Baking)
+# Orange Marmalade
 
-![Easy Orange Marmalade (Bigger Bolder Baking)](../../../assets/images/easy-orange-marmalade-(bigger-bolder-baking).jpg){ loading=lazy }
+![Orange Marmalade](../../../assets/images/orange-marmalade.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
