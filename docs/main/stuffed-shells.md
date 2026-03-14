@@ -7,7 +7,7 @@ tags:
   - cheese
   - gilligan-family
 ---
-# Stuffed Shells
+# :shallow_pan_of_food: Stuffed Shells
 
 ![Stuffed Shells][1]{ loading=lazy }
 
