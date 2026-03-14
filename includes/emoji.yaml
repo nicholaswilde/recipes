@@ -95,6 +95,7 @@ emoji:
         - stone ground whole wheat flour
         - pita
         - pasta
+        - spaghetti
         - flour
         - all-purpose flour
         - all purpose flour
@@ -140,6 +141,7 @@ emoji:
         - vegan cream cheese
         - nutritional yeast
         - parmesan cheese
+        - vegan parmesan
         - cream cheese
         - extra-firm tofu
     - chestnut:
@@ -193,6 +195,7 @@ emoji:
         - hot water
         - canola oil
         - warm water
+        - reserved pasta water
     - ear_of_rice:
         - wheat germ
         - cooked quinoa
@@ -254,6 +257,7 @@ emoji:
         - red bell pepper
         - green bell pepper
         - crushed red pepper flakes
+        - chili flakes
         - red-pepper flakes
         - chilli powder
         - sweet paprika
@@ -273,6 +277,8 @@ emoji:
         - pumpkin puree
     - mushroom:
         - button mushrooms
+        - shiitake mushrooms
+        - cremini mushrooms
     - olive:
         - extra virgin olive oil
         - olive oil
@@ -337,6 +343,7 @@ emoji:
         - coconut aminos
         - tahini
         - tamari
+        - miso paste
     - tangerine:
         - tangerine
         - orange

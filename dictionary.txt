@@ -193,6 +193,8 @@ canola
 Capellini
 Caprese
 caramelization
+carty
+Carty
 Casado
 Casis
 cassis
@@ -664,6 +666,7 @@ Parbake
 parcooked
 parm
 Parm
+parmesan
 Parmigiano-Reggiano
 pasilla
 passata
@@ -893,6 +896,7 @@ teff
 Teff
 tempeh
 Tempeh
+teri-ann
 the-gracias-madre-cookbook
 the-new-york-times
 Tiramisù

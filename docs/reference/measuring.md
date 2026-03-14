@@ -242,6 +242,7 @@ $$
 | Milk (fresh)                                          | 1 cup             | 227         | 8           |
 | Millet (whole)                                        | 1/2 cup           | 103         | 3-5/8       |
 | Mini Chocolate Chips                                  | 1 cup             | 177         | 6-1/4       |
+| Miso Paste                                           | 1 Tbsp            | 18          | 0.6         |
 | Molasses                                              | 1/4 cup           | 85          | 3           |
 | Mushrooms (sliced)                                    | 1 cup             | 78          | 2-3/4       |
 | Non-Diastatic Malt Powder                             | 2 Tbsps           | 18          | 5/8         |
