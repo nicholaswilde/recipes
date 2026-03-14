@@ -1,62 +1,65 @@
 ---
 comments: true
 tags:
-
-  - holiday
-  - trader-joes
+  - dessert
 ---
-
-# :pie: Chocolate Mousse Pie with Joe-Joe's Crust
+# Chocolate Mousse Pie with Joe-Joe's Crust
 
 ![Chocolate Mousse Pie with Joe-Joe's Crust][1]{ loading=lazy }
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 4.12 hours |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 8-10 | 4.50 hours |
 
 ## :salt: Ingredients
 
-- :cookie: 28 cookies TJ's Joe-Joe's
-- :butter: 0.25 cup unsalted butter
-- :coconut: 1 14-oz can coconut cream
-- :chocolate_bar: 1 12-oz bag semi-sweet chocolate chips
-- :salt: 0.5 tsp salt
-- :ice_cream: 1 can whipped cream
+- 25 Joe-Joe's cookies
+- 4 Tbsp melted butter
+- 8 oz dark chocolate
+- 4 Tbsp butter
+- 4 egg yolks
+- 4 egg whites
+- 0.25 cup sugar
 
 ## :cooking: Cookware
 
-- 1 food
+- 1 pie plate
 - 1 double boiler
+- 1 separate bowl
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Preheat oven to 350°F.
+Crush Joe-Joe's cookies and mix with melted butter. Press into a pie plate.
 
 ### Step 2
 
-Crush TJ's Joe-Joe's in a food processor until they are fine crumbs. Blend in melted unsalted butter.
+Chill crust for 30 minutes.
 
 ### Step 3
 
-Bake 5 to 7 minutes, the remove and cool completely.
+Melt dark chocolate and butter in a double boiler. Cool slightly.
 
 ### Step 4
 
-Clean the food processor, then pour in coconut cream. Set aside.
+Whisk egg yolks into chocolate mixture.
 
 ### Step 5
 
-Melt semi-sweet chocolate chips in double boiler, then pour into the food processor with the coconut cream. Add salt.
-Blend until completely smooth, 20 to 30 seconds.
+In a separate bowl, beat egg whites with sugar until stiff peaks form.
 
 ### Step 6
 
-Pour filling into crust and chill for 4 hours or overnight in the fridge.
+Fold egg whites into chocolate mixture.
 
 ### Step 7
 
-Serve with whipped cream.
+Pour into crust and chill for at least 4 hours.
+
+## :link: Source
+
+- <https://www.thekitchn.com/recipe-chocolate-mousse-pie-with-joe-joes-crust-236310>
 
 [1]: <../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg>
+

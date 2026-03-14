@@ -1,13 +1,11 @@
 ---
 comments: true
 tags:
-  - christmas
-  - holiday
+  - dessert
 ---
+# Holiday Peppermint Bark
 
-# :candy: Holiday Peppermint Bark
-
-![Holiday Peppermint Bark](../assets/images/holiday-peppermint-bark.jpg){ loading=lazy }
+![Holiday Peppermint Bark][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,8 +13,8 @@ tags:
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 12-oz pkg white chocolate morsels
-- :candy: 24 pieces peppermint candies
+- 1 12-oz pkg white chocolate morsels
+- 24 pieces peppermint candies
 
 ## :cooking: Cookware
 
@@ -52,3 +50,6 @@ stand for about 1 hour or until firm. Break into pieces. Store in airtight conta
 ## :link: Source
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
+
+[1]: <../assets/images/holiday-peppermint-bark.jpg>
+

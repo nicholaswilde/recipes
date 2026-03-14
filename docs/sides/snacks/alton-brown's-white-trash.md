@@ -1,61 +1,45 @@
----
-comments: true
-tags:
-
-  - alton-brown
-  - holiday
-  - dessert
----
-
-# :chocolate_bar: Alton Brown's White Trash
+# Alton Brown's White Trash
 
 ![Alton Brown's White Trash](../assets/images/alton-brown's-white-trash.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 25 | 30 minutes |
+| 12-15 | 0 minutes |
 
 ## :salt: Ingredients
 
-- :bowl_with_spoon: 3.5 cups Cheerios toasted oat
-- :bowl_with_spoon: 3 cups Rice Chex
-- :bowl_with_spoon: 3 cups Corn Chex
-- :m: 16 oz M&Ms plain chocolate
-- :peanuts: 2.5 cups salted mixed nuts
-- :pretzel: 2 cups small pretzels
-- :chocolate_bar: 2 11-oz pkgs white chocolate chips
+- 3 cups crispy corn cereal squares
+- 3 cups crispy rice cereal squares
+- 3 cups toasted oat cereal
+- 2 cups miniature pretzels
+- 2 cups salted peanuts
+- 20 oz white chocolate chips
 
 ## :cooking: Cookware
 
 - 1 large bowl
-- 1 double boiler
-- 1 parchment paper
+- 1 microwave-safe bowl
+- 1 wax paper
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Dump the Cheerios toasted oat, Rice Chex, Corn Chex, M&Ms plain chocolate, salted mixed nuts & small pretzels in a large
-bowl.
+In a large bowl, combine crispy corn cereal squares, crispy rice cereal squares, toasted oat cereal, miniature pretzels,
+and salted peanuts.
 
 ### Step 2
 
-Melt the white chocolate chips in the microwave or in a double boiler. Melt very slowly, stirring occasionally, being
-careful not to burn the chocolate.
+Melt white chocolate chips in a microwave-safe bowl in 30-second intervals until smooth.
 
 ### Step 3
 
-Dump melted chocolate over the rest of the ingredients and fold over and over until you have well-coated hunks and
-chunks.
+Pour melted chocolate over cereal mixture and toss to coat.
 
 ### Step 4
 
-Spread the whole mess out on parchment paper and set in a cool place until it sets up, then break it into pieces.
-
-### Step 5
-
-Store in zip-top bags or air-tight containers.
+Spread on wax paper and cool until set.
 
 ## :link: Source
 
-- <https://www.food.com/recipe/alton-browns-white-trash-226723>
+- <https://www.foodnetwork.com/recipes/alton-brown/white-trash-recipe-1941401>

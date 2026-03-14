@@ -1,13 +1,11 @@
 ---
 comments: true
 tags:
-  - christmas
-  - holiday
+  - dessert
 ---
+# Gingerbread Caramel Corn
 
-# :corn: Gingerbread Caramel Corn
-
-![Gingerbread Caramel Corn](../assets/images/gingerbread-caramel-corn.jpg){ loading=lazy }
+![Gingerbread Caramel Corn][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :corn: 10 cups popcorn
-- :chestnut: 1 cup lightly salted roasted cashews
-- :maple_leaf: 1 cup (213 g) dark brown sugar
-- :butter: 0.5 cup (114 g) butter
-- :corn: 0.25 cup (78 g) light corn syrup
-- :sweet_potato: 1 tsp ginger
-- :custard: 1 tsp cinnamon
-- :cup_with_straw: 0.5 tsp baking soda
+- 10 cups popcorn
+- 1 cup lightly salted roasted cashews
+- 1 cup dark brown sugar
+- 0.5 cup butter
+- 0.25 cup light corn syrup
+- 1 tsp ginger
+- 1 tsp cinnamon
+- 0.5 tsp baking soda
 
 ## :cooking: Cookware
 
@@ -67,3 +65,6 @@ single layer. Cool completely, about 10 minutes. Store in airtight container at 
 ## :link: Source
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
+
+[1]: <../assets/images/gingerbread-caramel-corn.jpg>
+

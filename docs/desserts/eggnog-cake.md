@@ -1,26 +1,23 @@
 ---
 comments: true
 tags:
-  - cake
-  - christmas
-  - holiday
+  - dessert
 ---
+# Eggnog Cake
 
-# :cake: Eggnog Cake
-
-![Eggnog Cake](../assets/images/eggnog-cake.jpg){ loading=lazy }
+![Eggnog Cake][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 30 minutes |
+| 8 | 23 minutes |
 
 ## :salt: Ingredients
 
-- :cake: 1 pkg yellow cake mix
-- :tumbler_glass: 2 Tbsp rum
-- :egg: 1 cup [eggnog][1]
-- :carrot: 0.25 cup vegetable oil
-- :icecream: 1 can whipped cream
+- 1 pkg yellow cake mix
+- 2 Tbsp rum
+- 1 cup eggnog
+- 0.25 cup vegetable oil
+- 1 can whipped cream
 
 ## :cooking: Cookware
 
@@ -49,4 +46,5 @@ Cook for 20 minutes.
 
 Layer tiers with whipped cream.
 
-[1]: <../beverages/cooked-eggnog.md>
+[1]: <../assets/images/eggnog-cake.jpg>
+

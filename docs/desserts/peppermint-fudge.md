@@ -1,15 +1,11 @@
 ---
 comments: true
 tags:
-  - christmas
-  - fudge
-  - holiday
-  - magnolia
+  - dessert
 ---
+# Peppermint Fudge
 
-# :chocolate_bar: Peppermint Fudge
-
-![Peppermint Fudge](../assets/images/peppermint-fudge.jpg){ loading=lazy }
+![Peppermint Fudge][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 4 cups (792 g) granulated sugar
-- :glass_of_milk: 1 12-oz can evaporated milk
-- :butter: 0.75 cup (170 g) unsalted butter
-- :chocolate_bar: 12 oz semisweet chocolate chips
-- :chocolate_bar: 12 oz bittersweet chocolate chips
-- :dango: 1 7-oz jar marshmallow creme
-- :candy: 0.5 tsp peppermint extract
-- :candy: 1 cup crushed peppermint candies
+- 4 cups granulated sugar
+- 1 12-oz can evaporated milk
+- 0.75 cup unsalted butter
+- 12 oz semisweet chocolate chips
+- 12 oz bittersweet chocolate chips
+- 1 7-oz jar marshmallow creme
+- 0.5 tsp peppermint extract
+- 1 cup crushed peppermint candies
 
 ## :cooking: Cookware
 
@@ -71,3 +67,6 @@ Store in an airtight container in the refrigerator up to 3 days.
 ## :link: Source
 
 - Magnolia
+
+[1]: <../assets/images/peppermint-fudge.jpg>
+

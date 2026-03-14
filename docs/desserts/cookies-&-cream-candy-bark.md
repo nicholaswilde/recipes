@@ -1,23 +1,21 @@
 ---
 comments: true
 tags:
-  - christmas
-  - holiday
+  - dessert
 ---
+# Cookies & Cream Candy Bark
 
-# :chocolate_bar: Cookies & Cream Candy Bark
-
-![Cookies & Cream Candy Bark](../assets/images/cookies-&-cream-candy-bark.jpg){ loading=lazy }
+![Cookies & Cream Candy Bark][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 20 minutes |
+| 0 minutes |
 
 ## :salt: Ingredients
 
-- :ice_cream: 2 cups vanilla melts
-- :chocolate_bar: 2 cups milk chocolate melts
-- :cookie: 15 cookies [Oreo][1]
+- 2 cups vanilla melts
+- 2 cups milk chocolate melts
+- 15 cookies Oreo
 
 ## :cooking: Cookware
 
@@ -43,4 +41,5 @@ Drop spoonfuls of both mixtures onto wax paper and swirl with a knife.
 
 Sprinkle remaining Oreos on top; allow to harden in refrigerator.
 
-[1]: <../cookies-and-bars/oreos.md>
+[1]: <../assets/images/cookies-&-cream-candy-bark.jpg>
+

@@ -1,16 +1,13 @@
 ---
 comments: true
 tags:
-  - christmas
   - cookie
+  - bar
   - dessert
-  - holiday
-  - recipe-box
 ---
+# Gingerbread People
 
-# :snowman: Gingerbread People
-
-![Gingerbread People](../assets/images/gingerbread-people.jpg){ loading=lazy }
+![Gingerbread People][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,10 +15,10 @@ tags:
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.5 cups (510 g) dark molasses
-- :maple_leaf: 1 cup (213 g) brown sugar
-- :droplet: 0.67 cup (152 g) cold water
-- :carrot: 0.33 cup (61 g) vegetable shortening
+- 1.5 cups dark molasses
+- 1 cup brown sugar
+- 0.67 cup cold water
+- 0.33 cup vegetable shortening
 
 ## :cooking: Cookware
 
@@ -47,15 +44,11 @@ Bake for 10 to 12 minutes.
 
 ### Step 5
 
-While they are still warm, spread evenly with [lemon glaze][2].
+While they are still warm, spread evenly with lemon glaze.
 
 ### Step 6
 
-Cool before frosting with [Royal icing][1].
+Cool before frosting with Royal icing.
 
-## :link: Sources
+[1]: <../assets/images/gingerbread-people.jpg>
 
-- Recipe Box
-
-[1]: <../ingredients/post-baking-glazes/royal-icing.md>
-[2]: <../ingredients/post-baking-glazes/lemon-glaze.md>

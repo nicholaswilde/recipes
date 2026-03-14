@@ -1,37 +1,34 @@
 ---
 comments: true
 tags:
-  - christmas
   - cookie
-  - holiday
-  - magnolia
-  - peppermint
+  - bar
+  - dessert
 ---
+# Peppermint Chocolate Cookies
 
-# :cookie: Peppermint Chocolate Cookies
-
-![Peppermint Chocolate Cookies](../assets/images/peppermint-chocolate-cookies.jpg){ loading=lazy }
+![Peppermint Chocolate Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 12 | 29 minutes |
+| 12 | 13 minutes |
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (99 g) granulated sugar
-- :maple_leaf: 0.5 cup (106 g) brown sugar
-- :butter: 0.5 cup (114 g) unsalted butter
-- :egg: 2 eggs
-- :icecream: 1 tsp vanilla
-- :candy: 0.5 tsp peppermint extract
-- :coffee: 0.5 tsp instant espresso coffee powder
-- :chocolate_bar: 0.33 cup unsweetened cocoa powder
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 0.25 tsp salt
-- :ear_of_rice: 1.66 cups (199 g) all-purpose flour
-- :chocolate_bar: 4 oz bittersweet chocolate
-- :cake: 1 [Peppermint Buttercream][1]
-- :candy: some peppermint candies (optional)
+- 0.5 cup granulated sugar
+- 0.5 cup brown sugar
+- 0.5 cup unsalted butter
+- 2 eggs
+- 1 tsp vanilla
+- 0.5 tsp peppermint extract
+- 0.5 tsp instant espresso coffee powder
+- 0.33 cup unsweetened cocoa powder
+- 1 tsp baking soda
+- 0.25 tsp salt
+- 1.66 cups all-purpose flour
+- 4 oz bittersweet chocolate
+- 1 Peppermint Buttercream
+- some peppermint candies (optional)
 
 ## :cooking: Cookware
 
@@ -71,11 +68,11 @@ centers appear set. Repeat tapping. Let cool 2 minutes on cookie sheets. Remove;
 
 ### Step 7
 
-Spread cooled cookies with [Peppermint Buttercream][1]. If you like, sprinkle with crushed peppermint candies
-(optional).
+Spread cooled cookies with Peppermint Buttercream. If you like, sprinkle with crushed peppermint candies (optional).
 
 ## :link: Source
 
 - Magnolia
 
-[1]: <../ingredients/frosting/peppermint-buttercream-frosting.md>
+[1]: <../assets/images/peppermint-chocolate-cookies.jpg>
+

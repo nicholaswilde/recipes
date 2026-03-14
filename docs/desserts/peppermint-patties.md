@@ -1,15 +1,11 @@
 ---
 comments: true
 tags:
-  - christmas
-  - holiday
-  - magnolia
-  - peppermint
+  - dessert
 ---
+# Peppermint Patties
 
-# :herb: Peppermint Patties
-
-![Peppermint Patties](../assets/images/peppermint-patties.jpg){ loading=lazy }
+![Peppermint Patties][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +13,13 @@ tags:
 
 ## :salt: Ingredients
 
-- :candy: 2.5 cups (495 g) confectioners' sugar
-- :carrot: 2 Tbsp vegetable shortening
-- :corn: 2 Tbsp corn syrup
-- :herb: 2 tsp peppermint extract
-- :droplet: 2 tsp water
-- :chocolate_bar: 12 oz bittersweet chocolate chips
-- :carrot: 1 tsp vegetable shortening
+- 2.5 cups confectioners' sugar
+- 2 Tbsp vegetable shortening
+- 2 Tbsp corn syrup
+- 2 tsp peppermint extract
+- 2 tsp water
+- 12 oz bittersweet chocolate chips
+- 1 tsp vegetable shortening
 
 ## :cooking: Cookware
 
@@ -60,3 +56,6 @@ in an airtight container in the refrigerator up to 5 days.
 ## :link: Source
 
 - Magnolia
+
+[1]: <../assets/images/peppermint-patties.jpg>
+

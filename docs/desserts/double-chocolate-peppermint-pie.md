@@ -1,32 +1,27 @@
 ---
 comments: true
 tags:
-  - christmas
-  - holiday
-  - magnolia
-  - peppermint
-  - pie
+  - dessert
 ---
+# Double Chocolate Peppermint Pie
 
-# :pie: Double Chocolate Peppermint Pie
-
-![Double Chocolate Peppermint Pie](../assets/images/double-chocolate-peppermint-pie.jpg){ loading=lazy }
+![Double Chocolate Peppermint Pie][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 20 minutes |
+| 8 | 6.08 hours |
 
 ## :salt: Ingredients
 
-- :cookie: 5 oz [chocolate wafer cookies][1]
-- :butter: 6 Tbsp unsalted butter
-- :candy: 0.75 cup (148 g) granulated sugar
-- :cheese_wedge: 2 8-oz pkgs cream cheese
-- :herb: 1 Tbsp peppermint extract
-- :glass_of_milk: 1.5 cups heavy cream
-- :red_circle: some red food coloring (optional)
-- :chocolate_bar: some [hot fudge sauce][2]
-- :candy: 0.25 cup crushed peppermint candies
+- 5 oz chocolate wafer cookies
+- 6 Tbsp unsalted butter
+- 0.75 cup granulated sugar
+- 2 8-oz pkgs cream cheese
+- 1 Tbsp peppermint extract
+- 1.5 cups heavy cream
+- some red food coloring (optional)
+- some hot fudge sauce
+- 0.25 cup crushed peppermint candies
 
 ## :cooking: Cookware
 
@@ -43,9 +38,9 @@ Preheat oven to 375°F.
 
 ### Step 2
 
-Lightly coat a 9 inch pie plate with cooking spray. In a bowl stir together crushed [chocolate wafer cookies][1],
-unsalted butter, and 1/4 cup of the granulated sugar. Press into bottom and up sides of prepared pie plate. Bake 5
-minutes. Cool completely on a wire rack.
+Lightly coat a 9 inch pie plate with cooking spray. In a bowl stir together crushed chocolate wafer cookies, unsalted
+butter, and 1/4 cup of the granulated sugar. Press into bottom and up sides of prepared pie plate. Bake 5 minutes. Cool
+completely on a wire rack.
 
 ### Step 3
 
@@ -65,14 +60,14 @@ cream cheese mixture to whipped cream; find to combine.
 Spoon filling into pie crust. Chill pie 3 to 6 hours or until cold. Serve the same day the pie is made. Drizzle with hot
 fudge sauce and sprinkle with crushed peppermint candies before serving.
 
-!!! tip
+### Step 7
 
-    Gel food coloring is a much thicker product than liquid food coloring, and it provides more intense color. Use 1/8
-    tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
+Tip: Gel food coloring is a much thicker product than liquid food coloring, and it provides more intense color. Use 1/8
+tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
 
 ## :link: Source
 
 - Magnolia
 
-[1]: <../cookies-and-bars/chocolate-pizzelle.md>
-[2]: <../sauces-and-dressings/sweet-sauces/hot-fudge-sauce.md>
+[1]: <../assets/images/double-chocolate-peppermint-pie.jpg>
+
