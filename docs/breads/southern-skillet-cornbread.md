@@ -60,4 +60,4 @@ thoroughly. Pour the hot drippings into the batter and whisk to blend.
 
 - <https://www.southernliving.com/recipes/southern-skillet-cornbread>
 
-[1]: <../assets/images/southern-skillet-cornbread-(southern-living).jpg>
+[1]: <../assets/images/southern-skillet-cornbread.jpg>
