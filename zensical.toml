@@ -399,6 +399,7 @@ Desserts = [
   { "Melomakarona" = "desserts/melomakarona.md" },
   { "Millefeuille" = "desserts/millefeuille.md" },
   { "Mini Apple Pies" = "desserts/pie/mini-apple-pies.md" },
+  { "Mini Cranberry Tarts" = "desserts/tarts/mini-cranberry-tarts.md" },
   { "Montélimar Nougat" = "desserts/montélimar-nougat.md" },
   { "New Orleans Pralines" = "desserts/new-orleans-pralines.md" },
   { "New York-Style Cheesecake" = "desserts/new-york-style-cheesecake.md" },
