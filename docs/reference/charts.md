@@ -13,7 +13,7 @@ Charts from Julia Turshen's *What Goes with What*.
     **Fruit**: Sliced pears & frozen cherries
     **Seasoning/Thickener**: Sugar, lemon juice, almond extract & cornstarch
     **Fat/Liquid Topping Ingredients**: Butter
-    **Main Dry Topping Ingredients**: Sugar, almond flour & rolled oats
+    **Main Dry Topping Ingredients**: Sugar, [almond flour][2] & rolled oats
 
 - __Gingery peach & blueberry cakey cobbler__
 
@@ -574,3 +574,4 @@ Charts from Julia Turshen's *What Goes with What*.
 </div>
 
 [1]: <../ingredients/black-beans.md>
+[2]: <../ingredients/almond-flour.md>

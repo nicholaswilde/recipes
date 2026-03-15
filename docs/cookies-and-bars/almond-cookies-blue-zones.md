@@ -3,12 +3,11 @@ comments: true
 tags:
 
   - cookie
-  - dessert
 ---
 
-# :chestnut: Almond Cookies
+# :chestnut: Almond Cookies (Blue Zones)
 
-![Almond Cookies](../assets/images/almond-cookies.jpg){ loading=lazy }
+![Almond Cookies (Blue Zones)](../../assets/images/almond-cookies-blue-zones.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :chestnut: 6 cups almonds
+- :chestnut: 6 cups (852 g) almonds
 - :candy: 0.5 cup (99 g) sugar
 - :orange_circle: 3 Tbsp orange flower water
 - :lemon: 1 lemon zest
@@ -35,9 +34,9 @@ In a 300°F oven, toast blanched and peeled almonds for 10 minutes.
 
 ### Step 2
 
-In a food processor or high-powered blender, process almonds until they reach the consistency of coarse almond flour. In
-a sauce pot, combine 1/2 cup sugar and orange flower water. Heat over very low heat until the syrup becomes thick. Add
-the almond flour into the syrup, mixing to combine over heat for a couple minutes.
+In a food processor or high-powered blender, process almonds until they reach the consistency of coarse [almond flour][1].
+In a sauce pot, combine 1/2 cup sugar and orange flower water. Heat over very low heat until the syrup becomes thick. Add
+the [almond flour][1] into the syrup, mixing to combine over heat for a couple minutes.
 
 ### Step 3
 
@@ -62,3 +61,5 @@ Keep in glass jars or another covered container.
 ## :link: Source
 
 - Blue Zones
+
+[1]: <../ingredients/almond-flour.md>

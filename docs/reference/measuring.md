@@ -80,7 +80,7 @@ $$
 |-------------------------------------------------------|-------------------|-------------|-------------|
 | 00 Pizza Flour                                  | 1 cup             | 116         | 4           |
 | All-Purpose Flour                                     | 1 cup             | 120         | 4-1/4       |
-| Almond Flour                                          | 1 cup             | 96          | 3-3/8       |
+| [Almond Flour][6]                                          | 1 cup             | 96          | 3-3/8       |
 | Almond Meal                                           | 1 cup             | 84          | 3           |
 | Almond Paste (packed)                                 | 1 cup             | 259         | 9-1/8       |
 | Almonds (sliced)                                      | 1/2 cup           | 43          | 1-1/2       |
@@ -303,7 +303,7 @@ $$
 | Tapioca Starch or Flour                               | 1 cup             | 113         | 4           |
 | Tapioca (quick cooking)                               | 2 Tbsps           | 21          | 3/4         |
 | Teff Flour                                            | 1 cup             | 135         | 4-3/4       |
-| Toasted Almond Flour                                  | 1 cup             | 96          | 3-3/8       |
+| [Toasted Almond Flour][6]                                  | 1 cup             | 96          | 3-3/8       |
 | Toffee Chunks                                         | 1 cup             | 156         | 5-1/2       |
 | Tomato Paste                                          | 2 Tbsp            | 29          | 1           |
 | Tomatoes (fresh, chopped)                             | 1 cup             | 180         | 6.35        |
@@ -394,3 +394,4 @@ with the gas marks, used in some countries, as well.
 [3]: <http://www.bakersbrigade.com/cookie-scoop-sizes-explained/>
 [4]: <https://zeroll.com/collections/universal-ez-disher/standard>
 [5]: <https://www.kingarthurbaking.com/learn/ingredient-weight-chart>
+[6]: <../ingredients/almond-flour.md>
