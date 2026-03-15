@@ -22,6 +22,7 @@
     - Provide volumetric to weight conversions (grams) in parentheses for major ingredients (e.g., `2 cups (240 g) all-purpose flour`).
 - **Callouts:** Use `!!! tip` for additional advice, variations, or "pro-tips" that enhance the recipe.
 - **Metadata:** Every recipe must include relevant tags and source information in the front matter.
+- **Sources:** All recipes must include a `## :link: Source` section at the end of the Markdown file. If a "Pancake Princess" bake-off link is provided in the source issue, it must be included as an additional reference in this section.
 
 - **Reference Charts:**
     - Use the "Grid Cards" layout for better mobile readability and visual appeal.
