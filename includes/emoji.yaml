@@ -86,7 +86,6 @@ emoji:
         - strawberries
         - blueberries
         - dried fruits
-        - raisins
         - prunes
         - apricots
         - peaches
@@ -140,12 +139,9 @@ emoji:
         - vegan butter
         - salted butter
     - candy:
-        - confectioners' sugar
-        - confectioners’ sugar
-        - light corn syrup
-        - corn syrup
-        - sugar
         - granulated sugar
+        - white granulated sugar
+        - light soft brown sugar
         - light brown sugar
         - superfine sugar
         - powdered sugar
@@ -158,6 +154,11 @@ emoji:
         - crystal sugar
         - confectioner's sugar
         - confectioner’s sugar
+        - confectioners' sugar
+        - confectioners’ sugar
+        - light corn syrup
+        - corn syrup
+        - sugar
     - carrot:
         - carrot
         - frozen vegetables
@@ -179,8 +180,6 @@ emoji:
         - almonds
         - whole raw almonds
         - ground almonds
-
-        - ground almonds
         - pine nuts
         - pumpkin pie spice
         - pecans
@@ -200,11 +199,10 @@ emoji:
         - cinnamon stick
         - raw unsalted peanuts
         - peanut butter
+        - smooth unsweetened peanut butter
+        - freeze-dried corn powder
+        - corn flour
         - mixed nuts
-        - Medjool dates
-        - ground cloves
-        - ground mace
-    - curry:
     - chocolate_bar:
         - white chocolate chips
         - chocolate melts
@@ -214,6 +212,7 @@ emoji:
     - coffee:
         - espresso beans
         - instant coffee
+        - espresso powder
     - curry:
         - ground turmeric
         - turmeric powder
@@ -264,6 +263,12 @@ emoji:
         - Baker’s Special Dried Milk
         - milk powder
         - whipped cream
+    - grapes:
+        - raisins
+        - dates
+        - red grapes
+        - green grapes
+        - date paste
     - herb:
         - fresh basil leaves
         - fresh mint leaves
@@ -403,6 +408,8 @@ emoji:
         - saffron
     - tumbler_glass:
         - rum
+        - Guinness Draught Stout
+        - reduced Guinness
     - wine_glass:
         - wine
         - red wine vinegar

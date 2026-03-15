@@ -1,64 +1,74 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dessert
+  - asian
+  - todd-wilbur
 ---
+# Almond Cookies
 
-# :chestnut: Almond Cookies
+![Almond Cookies][1]{ loading=lazy }
 
-![Almond Cookies](../assets/images/almond-cookies.jpg){ loading=lazy }
-
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 16 | 30 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 20 minutes |
 
 ## :salt: Ingredients
 
-- :chestnut: 6 cups almonds
-- :candy: 0.5 cup (99 g) sugar
-- :orange_circle: 3 Tbsp orange flower water
-- :lemon: 1 lemon zest
+- 3 cups (360 g) :bread: All-purpose flour
+- 1 tsp (6 g) :chestnut: Baking soda
+- 1/2 tsp (3 g) :salt: Salt
+- 1 cup (142 g) :chestnut: Blanched almonds, divided
+- 1 cup (198 g) :candy: Granulated sugar
+- 1 1/2 cups (339 g) :butter: Lard (or 1 1/2 cups (276 g) :olive: Vegetable shortening)
+- 1 tsp (5 g) :flower_playing_cards: Almond extract
+- 1 large :egg: Egg
+- 1/8 cup (30 g) :droplet: Water
+- 1 large :egg: Egg, beaten (for egg wash)
 
 ## :cooking: Cookware
 
-- 1 food processor or high-powered blender
-- 1 sauce pot
-- 1 tissue paper
+- :bowl_with_spoon: Medium bowl
+- :bowl_with_spoon: Large bowl
+- :gear: Blender or food processor
+- :cookie: Cookie sheet
 
 ## :pencil: Instructions
 
 ### Step 1
 
-In a 300°F oven, toast blanched and peeled almonds for 10 minutes.
+Preheat your oven to 175°C (350°F).
 
 ### Step 2
 
-In a food processor or high-powered blender, process almonds until they reach the consistency of coarse almond flour. In
-a sauce pot, combine 1/2 cup sugar and orange flower water. Heat over very low heat until the syrup becomes thick. Add
-the almond flour into the syrup, mixing to combine over heat for a couple minutes.
+In a :bowl_with_spoon: medium bowl, whisk together :bread: all-purpose flour, :chestnut: baking soda, and :salt: salt.
 
 ### Step 3
 
-Turn off heat and add lemon zest, mixing to combine.
+Grind 1/2 cup (71 g) of the :chestnut: blanched almonds in a :gear: blender or food processor until they reach a fine powder. Stir this almond powder into the flour mixture.
 
 ### Step 4
 
-When cool enough to handle, roll dough into walnut-size balls with hands.
+In a separate :bowl_with_spoon: large bowl, cream together :candy: granulated sugar, :butter: lard (or :olive: vegetable shortening), :flower_playing_cards: almond extract, :egg: egg, and :droplet: water until well combined.
 
 ### Step 5
 
-Roll the balls in remaining sugar.
+Gradually add the dry flour mixture to the wet ingredients and mix thoroughly until a dough forms.
 
 ### Step 6
 
-Let almond balls dry completely and wrap in tissue paper, twirling the sides like candy wrappers.
+Roll the dough into 1-inch balls. Place them on an ungreased :cookie: cookie sheet about 2 inches apart.
 
 ### Step 7
 
-Keep in glass jars or another covered container.
+Press one of the remaining :chestnut: blanched almonds into the center of each ball, flattening the cookie slightly with your fingers as you do so.
 
-## :link: Source
+### Step 8
 
-- Blue Zones
+Lightly brush the top of each cookie with :egg: beaten egg.
+
+### Step 9
+
+Bake for 20 minutes, or until the edges are lightly browned.
+
+[1]: <../assets/images/almond-cookies.jpg>

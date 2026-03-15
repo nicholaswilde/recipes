@@ -1,20 +1,20 @@
 ---
 comments: true
 tags:
-
   - ingredient
 ---
+# Date Paste
 
-# :grapes: Date Paste
+![Date Paste][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 2 cups | 20 minutes |
+| 2 cups | 10 minutes |
 
 ## :salt: Ingredients
 
-- :droplet: 4 cups water
-- :grapes: 12 oz Medjool dates
+- 4 cups water
+- 12 oz Medjool dates
 
 ## :cooking: Cookware
 
@@ -41,3 +41,6 @@ you'd like a thinner consistency. Transfer to a glass container and cover.
 ## :link: Source
 
 - <https://amyinthekitchen.com/date-paste/>
+
+[1]: <../assets/images/date-paste.jpg>
+

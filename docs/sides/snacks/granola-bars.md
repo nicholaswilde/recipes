@@ -53,7 +53,7 @@ Roughly chop the pecans with a large knife, then chop the dried apricots.
 ### Step 4
 
 Put the rolled oats, pecans, apricots, sunflower seeds, unsweetened desiccated coconut and chia seeds into a mixing bowl
-and add the date paste. Mix everything together really well.
+and add the [date paste](../../ingredients/date-paste.md). Mix everything together really well.
 
 ### Step 5
 
