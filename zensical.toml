@@ -195,6 +195,7 @@ Breakfast = [
 
 [[project.nav]]
 "Cookies & Bars" = [
+  { "Almond Biscotti" = "cookies-and-bars/almond-biscotti.md" },
   { "Almond Cookies" = "cookies-and-bars/almond-cookies.md" },
   { "Apple Cinnamon Raisin Bars" = "cookies-and-bars/apple-cinnamon-raisin-bars.md" },
   { "Applied Pumpkin Chocolate Chip Cookies" = "cookies-and-bars/applied-pumpkin-chocolate-chip-cookies.md" },
@@ -219,6 +220,7 @@ Breakfast = [
   { "Chocolate Chip Cookies with Chickpeas" = "cookies-and-bars/chocolate-chip-cookies-with-chickpeas.md" },
   { "Chocolate Chip Skillet Cookie" = "cookies-and-bars/chocolate-chip-skillet-cookie.md" },
   { "Chocolate Crinkles" = "cookies-and-bars/chocolate-crinkles.md" },
+  { "Chocolate Crinkle Cookies (Maura Kilpatrick)" = "cookies-and-bars/chocolate-crinkle-cookies-(maura-kilpatrick).md" },
   { "Chocolate Mint Squares" = "cookies-and-bars/chocolate-mint-squares.md" },
   { "Chocolate Peanut Butter Cheesecake Bars" = "cookies-and-bars/chocolate-peanut-butter-cheesecake-bars.md" },
   { "Chocolate Pizzelle" = "cookies-and-bars/chocolate-pizzelle.md" },
@@ -285,6 +287,7 @@ Breakfast = [
   { "Tartine's Soft Glazed Gingerbread" = "cookies-and-bars/tartines-soft-glazed-gingerbread.md" },
   { "The Best Sugar Cookies" = "cookies-and-bars/the-best-sugar-cookies.md" },
   { "The New York Times Chocolate Chip Cookies" = "cookies-and-bars/the-new-york-times-chocolate-chip-cookies.md" },
+  { "Thumbprint Cookies" = "cookies-and-bars/thumbprint-cookies.md" },
   { "Tiny Mini Kisses Peanut Blossoms" = "cookies-and-bars/tiny-mini-kisses-peanut-blossoms.md" },
   { "Traditional Italian Biscotti" = "cookies-and-bars/traditional-italian-biscotti.md" },
   { "Twix" = "cookies-and-bars/twix.md" },

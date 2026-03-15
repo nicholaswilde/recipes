@@ -515,6 +515,8 @@ Kalamata
 kenji-lopez-alt
 Kickin
 Kickstarter
+kilpatrick
+Kilpatrick
 kimchi
 Kimchi
 king-arthur
@@ -589,6 +591,8 @@ mascarpone
 Mascarpone
 masoor
 Masoor
+maura
+Maura
 maynards-bakery
 McMillen
 mediterranean
@@ -600,6 +604,8 @@ melty
 Melvani
 meringue
 meringues
+merritt
+Merritt
 mexican
 Mexicrema
 Mezza
@@ -816,6 +822,8 @@ Sablé
 Saffitz
 Salata
 sallys-baking-addiction
+sam
+Sam
 sambal
 Samoas
 Sardinian
@@ -964,6 +972,8 @@ unstrained
 untoasted
 urad
 Urad
+vannelli
+Vannelli
 VegNews
 velouté
 Velouté

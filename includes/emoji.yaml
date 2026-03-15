@@ -9,14 +9,18 @@ emoji:
         - small bowl
         - medium bowl
         - mixing bowl
+        - microwave-safe bowl
     - cookie:
         - Oreo cookies
         - baking sheet
+        - parchment-lined baking sheet
         - rimmed baking sheet
         - loaf pans
         - muffin tin
         - 8-inch square metal baking pan
         - cookie molds
+        - cookie scoop
+        - 2-tablespoon cookie scoop
     - cup_with_straw:
         - heat-proof liquid measuring cup
     - gear:
@@ -25,10 +29,13 @@ emoji:
         - immersion blender
         - food processor
         - stand mixer
+    - snowflake:
+        - freezer
     - knife:
         - sharp knife
         - toothpick
         - fork
+        - serrated knife
     - package:
         - container with a tight-fitting lid
         - piping bag
@@ -56,6 +63,7 @@ emoji:
         - wooden spoon
         - potato masher
         - small spoon
+        - large serving spoon
     - wastebasket:
         - fine-mesh strainer
         - wire rack
@@ -166,9 +174,12 @@ emoji:
     - chestnut:
         - cornstarch
         - semi-sweet chocolate
+        - extra-bittersweet chocolate
         - dark chocolate
-        - nutmeg
         - almonds
+        - whole raw almonds
+        - ground almonds
+
         - ground almonds
         - pine nuts
         - pumpkin pie spice
