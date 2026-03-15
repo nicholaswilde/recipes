@@ -22,7 +22,8 @@ The command takes one argument: `{{args}}`. This is the name of the ingredient t
         *   Handle instances in the "Ingredients" list (e.g., `- :emoji: {{args}}`) and in the "Instructions" text.
         *   Be surgical: only change the specific ingredient name.
 4.  **Verification:**
-    *   After making changes, run `task linkcheck` or a targeted check to ensure no dead links were introduced.
+    *   After making changes, verify the new links.
+    *   **Note:** DO NOT run `task linkcheck` project-wide as it takes too long. Perform a targeted check or manual verification instead.
 5.  **Git Operations:**
     *   If changes were made, stage the files and propose a commit message following the project's convention (e.g., `docs: link {{args}} in related recipes`).
 """
