@@ -1,0 +1,4 @@
+Phase: Phase 1: Identification and Documentation
+Automated Test Command: export PYTHONPATH=:/home/nicholas/git/nicholaswilde/recipes/scripts && python3 scripts/test_identify_multi_serving.py
+Manual Verification Steps: 1. Run identification script; 2. Review spec.md; 3. Spot-check a result.
+User Confirmation: yes
