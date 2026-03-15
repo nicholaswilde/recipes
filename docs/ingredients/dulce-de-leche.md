@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 can sweetened condensed milk
+- :glass_of_milk: 1 can [sweetened condensed milk][1]
 
 ## :cooking: Cookware
 
@@ -31,9 +31,9 @@ you're about to cook.
 
 ### Step 2
 
-Remove the label from the can of sweetened condensed milk and carefully submerge it into the boiling water using a pair
-of tongs or slotted spoon. Make sure you place the can on its side, so it can roll around. If you place the can bottom
-or top-side down, the boiling water can cause it to bounce up and down, which is really annoying...
+Remove the label from the can of [sweetened condensed milk][1] and carefully submerge it into the boiling water using a
+pair of tongs or slotted spoon. Make sure you place the can on its side, so it can roll around. If you place the can
+bottom or top-side down, the boiling water can cause it to bounce up and down, which is really annoying...
 
 ### Step 3
 
@@ -56,3 +56,5 @@ Spread it on bread, drizzle over cookies, cake or ice cream or eat by the spoonf
 ## :link: Source
 
 - <https://food52.com/blog/10157-how-to-make-dulce-de-leche-with-a-can-of-condensed-milk>
+
+[1]: <./sweetened-condensed-milk.md>

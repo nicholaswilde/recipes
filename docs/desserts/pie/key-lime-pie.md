@@ -17,7 +17,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 14-oz can sweetened condensed milk
+- :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
 - :lemon: 0.5 cup lime juice
 - :lemon: 4 tsp lime zest
 - :egg: 4 large egg yolks
@@ -36,8 +36,8 @@ tags:
 
 ### Step 1
 
-Thoroughly whisk sweetened condensed milk, lime juice, lime zest, egg yolks, and salt together, and set aside to thicken
-while you prepare the crust.
+Thoroughly whisk [sweetened condensed milk][2], lime juice, lime zest, egg yolks, and salt together, and set aside to
+thicken while you prepare the crust.
 
 ### Step 2
 
@@ -69,3 +69,4 @@ Just before serving, whip the cream to soft peaks, and spread it on top of the p
 - <https://www.thepancakeprincess.com/best-key-lime-pie-bake-off/>
 
 [1]: <../../assets/images/key-lime-pie.jpg>
+[2]: <../../ingredients/sweetened-condensed-milk.md>

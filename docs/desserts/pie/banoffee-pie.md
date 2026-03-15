@@ -24,7 +24,7 @@ tags:
 
 - :butter: 0.5 cup (114 g) butter
 - :maple_leaf: 0.5 cup (106 g) dark brown sugar
-- :glass_of_milk: 1 14-oz can sweetened condensed milk
+- :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
 
 ## :salt: Ingredients - Topping
 
@@ -49,8 +49,8 @@ pie dish and press it up along the sides. Chill the crust until firm.
 ### Step 2
 
 To make the filling: Melt butter in a medium sized saucepan. Stir in dark brown sugar and melt over medium low heat. Add
-the sweetened condensed milk and bring it to a boil for a few minutes stirring continuously. The toffee should start to
-darken. Pour the filling over the crust. Cool and chill again for at least and hour or until firm.
+the [sweetened condensed milk][2] and bring it to a boil for a few minutes stirring continuously. The toffee should
+start to darken. Pour the filling over the crust. Cool and chill again for at least and hour or until firm.
 
 ## :pencil: Instructions - Topping
 
@@ -63,3 +63,4 @@ Top with sliced bananas, heavy cream, and chocolate shavings.
 - <https://therecipecritic.com/banoffee-pie/>
 
 [1]: <../../ingredients/graham-crackers.md>
+[2]: <../../ingredients/sweetened-condensed-milk.md>

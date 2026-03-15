@@ -38,7 +38,7 @@ mixture is smooth when stirred. Stir in 1/2 teaspoon vanilla; spread evenly into
 
 ### Step 2
 
-Place remaining sweetened condensed milk and semi-sweet chocolate chips in another small microwave-safe bowl; repeat
+Place remaining [sweetened condensed milk][1] and semi-sweet chocolate chips in another small microwave-safe bowl; repeat
 above microwave procedure. Stir in remaining 1/2 teaspoon vanilla; spread evenly over peanut butter layer.
 
 ### Step 3

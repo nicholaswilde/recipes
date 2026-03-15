@@ -40,7 +40,7 @@ Chill 1 hour or until firm. Store covered at room temperature.
 
 ### Microwave Directions
 
-In 1-quart glass measure, combine chips and sweetened condensed milk. Microwave at HIGH (100%
+In 1-quart glass measure, combine chips and [sweetened condensed milk][1]. Microwave at HIGH (100%
 power) 3 minutes, stirring after 1½ minutes. Stir until smooth. Proceed as directed above.
 
 ### Amaretto Truffles

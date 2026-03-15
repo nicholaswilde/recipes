@@ -20,7 +20,7 @@ tags:
 - :butter: 6 Tbsp margarine
 - :cherries: 1 10-oz jar maraschino cherries
 - :icecream: 0.5 tsp vanilla
-- :glass_of_milk: 0.25 cup (78 g) sweetened condensed milk
+- :glass_of_milk: 0.25 cup (78 g) [sweetened condensed milk][2]
 - :chocolate_bar: 1 20-oz pkg chocolate almond bark
 - :chocolate_bar: 1 11.5-oz bag milk chocolate chips
 - :peanuts: 2.5 cups dry-roasted peanuts
@@ -41,7 +41,7 @@ Line a baking sheet with parchment paper.
 ### Step 2
 
 In a stand mixer fitted with the paddle attachment, combine the 7.2-ounce package Betty Crocker Home Style Fluffy White
-Frosting Mix, confectioners' sugar, margarine, maraschino cherries, vanilla, and sweetened condensed milk.
+Frosting Mix, confectioners' sugar, margarine, maraschino cherries, vanilla, and [sweetened condensed milk][2].
 
 ### Step 3
 
@@ -76,3 +76,4 @@ Store in an airtight container in the refrigerator for up to 3 days.
 - <https://magnolia.com/blog/recipe/922fe751-664a-4622-aff9-4d51f4a6f97d/aunt-marys-cherry-mashers/>
 
 [1]: <../assets/images/aunt-marys-cherry-mashers.jpg>
+[2]: <../ingredients/sweetened-condensed-milk.md>
