@@ -1,0 +1,4 @@
+Task: Recursively scan docs/ for multiple Ingredients headers.
+Summary: Created scripts/identify_multi_serving.py and test_identify_multi_serving.py. Scanned the docs/ directory and populated spec.md with the identified files.
+Files: scripts/identify_multi_serving.py, scripts/test_identify_multi_serving.py, conductor/tracks/identify_multi_serving_recipes_20260314/spec.md
+Why: To provide a comprehensive list of recipes requiring tab conversion for multiple servings/components.
