@@ -494,6 +494,7 @@ james-beard
 jamie-oliver
 jean-pierre
 Jemma
+jennifer
 jeremy-scheck
 jessica-seinfeld
 jewish
@@ -557,6 +558,8 @@ Maillardization
 maitake
 Maitake
 Maldon
+maloney
+Maloney
 Manchego
 mandoline
 Manicotti
