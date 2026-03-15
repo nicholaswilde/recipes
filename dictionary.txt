@@ -128,6 +128,7 @@ Beurre
 biga
 biscotti
 Biscotti
+blackstrap
 Blanco
 Ble
 blé
@@ -360,6 +361,7 @@ Eggless
 eggwash
 einkorn
 Elderflower
+elizabeth
 Elkin's
 Emojipedia
 empanada
@@ -542,6 +544,8 @@ limoncello
 Limoncello
 Limonsardo
 liquidy
+liz
+Liz
 Lofthouse
 Lumpia
 macaron
@@ -742,6 +746,8 @@ pressurecooker
 Prinsesstårta
 provençale
 Provençale
+prueitt
+Prueitt
 prue-leith
 pulao
 purée
@@ -892,6 +898,9 @@ taquitos
 Taquitos
 tarte
 Tarte
+tartine
+Tartine
+Tartine's
 tartlet
 tartlets
 tassies
