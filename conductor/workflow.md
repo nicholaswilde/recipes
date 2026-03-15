@@ -380,6 +380,7 @@ A task is complete when:
     - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed.
     - Use `manage_recipes(action='format', format_type='cooklang', urls=[...])` to generate the initial `.cook` file content from a URL.
     - **Image/PDF Sources:** If the recipe is provided via an image or PDF (e.g., provided in a GitHub issue via an image link), download the image to a temporary file and use `tesseract <image_path> -` to extract the text. Use the extracted text to create the recipe.
+    - **Pancake Princess:** If there is a "Pancake Princess" link in the source issue, include that link as an additional reference in the `## :link: Source` section of the generated Markdown recipe page.
     - **Validation:** Verify the output matches the [Cooklang Specification](./product-guidelines.md#cooklang-specification) section.
     - **Recipe Name:** Use only the name of the recipe (e.g., `My Best Friend's Mom's Paprikash` -> `Paprikash`). The name of the source or author should only be added to the title if a recipe with the same name already exists.
     - **Duplicate Handling:** If a recipe with the same name already exists, you MUST prompt the user to decide whether to:
