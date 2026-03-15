@@ -26,7 +26,7 @@ tags:
 - :icecream: 2 tsp vanilla
 - :glass_of_milk: 0.5 cup whole milk
 - :icecream: 1.25 cups heavy cream
-- :glass_of_milk: 1 12-oz can evaporated milk
+- :glass_of_milk: 1 12-oz can [evaporated milk][2]
 - :glass_of_milk: 1 14-oz can sweetened condensed milk
 - :chestnut: 0.5 tsp almond extract
 - :icecream: 1 vanilla bean
@@ -82,7 +82,7 @@ Set aside to cool in the pan for 30 minutes.
 
 ### Step 7
 
-In a 4 cup liquid measuring cup, whisk together the heavy cream, evaporated milk, sweetened condensed milk, almond
+In a 4 cup liquid measuring cup, whisk together the heavy cream, [evaporated milk][2], sweetened condensed milk, almond
 extract, and vanilla bean seeds.
 
 ### Step 8
@@ -118,3 +118,4 @@ Serve cold.
 - <https://www.thepancakeprincess.com/best-tres-leches-bake-off/>
 
 [1]: <../../assets/images/tres-leches-cake-with-berries.png>
+[2]: <../../ingredients/evaporated-milk.md>

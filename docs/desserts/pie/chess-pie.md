@@ -24,7 +24,7 @@ tags:
 - :candy: 0.67 cup (133 g) sugar
 - :maple_leaf: 0.67 cup (143 g) light brown sugar
 - :salt: 0.5 tsp salt
-- :icecream: 0.67 cup heavy cream or evaporated milk
+- :icecream: 0.67 cup heavy cream or [evaporated milk][2]
 - :glass_of_milk: 0.33 cup milk
 - :icecream: 0.33 cup heavy cream
 - :butter: 6 Tbsp unsalted butter
@@ -54,7 +54,7 @@ salt.
 
 ### Step 4
 
-Whisk in 2/3 cup heavy cream or evaporated milk or 1/3 cup milk plus 1/3 cup heavy cream.
+Whisk in 2/3 cup heavy cream or [evaporated milk][2] or 1/3 cup milk plus 1/3 cup heavy cream.
 
 ### Step 5
 
@@ -74,3 +74,4 @@ Pour the filling into the crust. Bake until firm, 50 to 65 minutes.
 - Joy of Cooking
 
 [1]: <../../ingredients/pastry-dough/basic-pastry.md>
+[2]: <../../ingredients/evaporated-milk.md>

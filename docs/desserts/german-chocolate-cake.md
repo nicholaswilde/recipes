@@ -28,14 +28,14 @@ tags:
 - 0.5 cup granulated sugar
 - 0.5 cup butter
 - 3 large egg yolks
-- 0.75 cup evaporated milk
+- 0.75 cup [evaporated milk][2]
 - 1 Tbsp vanilla extract
 - 1 cup chopped pecans
 - 1 cup shredded sweetened coconut
 - 0.5 cup butter
 - 0.67 cup unsweetened cocoa powder
 - 3 cups powdered sugar
-- 0.33 cup evaporated milk
+- 0.33 cup [evaporated milk][2]
 - 1 tsp vanilla extract
 
 ## :cooking: Cookware
@@ -77,7 +77,7 @@ minutes in the pans, then invert onto wire racks to cool completely.
 ### Step 8
 
 In a saucepan, combine light brown sugar (100 g), granulated sugar (100 g), butter (115 g), large egg yolks, and
-evaporated milk (180 ml). Bring to a low boil over medium heat, stirring constantly until thickened.
+[evaporated milk][2] (180 ml). Bring to a low boil over medium heat, stirring constantly until thickened.
 
 ### Step 9
 
@@ -92,8 +92,8 @@ Melt butter (115 g) and stir in unsweetened cocoa powder (65 g).
 
 ### Step 12
 
-Alternately add powdered sugar (360 g) and evaporated milk (80 ml), beating to a spreading consistency. Stir in vanilla
-extract (5 ml).
+Alternately add powdered sugar (360 g) and [evaporated milk][2] (80 ml), beating to a spreading consistency. Stir in
+vanilla extract (5 ml).
 
 ### Step 13
 
@@ -107,4 +107,4 @@ the second cake layer. Cover the entire cake with chocolate frosting and spoon t
 - <https://tastesbetterfromscratch.com/german-chocolate-cake/>
 
 [1]: <../assets/images/german-chocolate-cake.jpg>
-
+[2]: <../ingredients/evaporated-milk.md>

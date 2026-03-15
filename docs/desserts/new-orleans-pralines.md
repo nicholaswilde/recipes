@@ -44,7 +44,7 @@ use a silicone mat on top of the baking sheet.
 
 ### Step 3
 
-In a medium saucepan over medium heat, combine the white granulated sugar, brown sugar, and evaporated milk.
+In a medium saucepan over medium heat, combine the white granulated sugar, brown sugar, and [evaporated milk][1].
 
 ### Step 4
 

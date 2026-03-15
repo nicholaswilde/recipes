@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - 4 cups granulated sugar
-- 1 12-oz can evaporated milk
+- 1 12-oz can [evaporated milk][2]
 - 0.75 cup unsalted butter
 - 12 oz semisweet chocolate chips
 - 12 oz bittersweet chocolate chips
@@ -36,7 +36,7 @@ Line a 13 x 9 inch pan with foil, allowing foil to hang over edges of pan. Butte
 
 ### Step 2
 
-Combine granulated sugar, evaporated milk, and the 3/4 cup unsalted butter in a large heavy saucepan.
+Combine granulated sugar, [evaporated milk][2], and the 3/4 cup unsalted butter in a large heavy saucepan.
 
 ### Step 3
 
@@ -69,4 +69,4 @@ Store in an airtight container in the refrigerator up to 3 days.
 - Magnolia
 
 [1]: <../assets/images/peppermint-fudge.jpg>
-
+[2]: <../ingredients/evaporated-milk.md>

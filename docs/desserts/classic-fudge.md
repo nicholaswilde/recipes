@@ -19,7 +19,7 @@ tags:
 
 - :candy: 3 cups (594 g) granulated sugar
 - :butter: 0.75 cup (170 g) butter
-- :glass_of_milk: 0.67 cup evaporated milk
+- :glass_of_milk: 0.67 cup [evaporated milk][1]
 - :chocolate_bar: 1 tsp instant espresso powder
 - :dango: 1 7-oz jar marshmallow creme
 - :icecream: 1 tsp vanilla
@@ -36,8 +36,8 @@ tags:
 
 ### Step 1
 
-Combine the granulated sugar, butter, evaporated milk, and instant espresso powder in a saucepan and bring to a boil
-over medium heat, stirring occasionally.
+Combine the granulated sugar, butter, [evaporated milk][1], and instant espresso powder in a saucepan and bring to a
+boil over medium heat, stirring occasionally.
 
 ### Step 2
 
@@ -66,3 +66,5 @@ Allow the fudge to cool and set completely (at least 3 hours) before cutting it 
 ## :link: Source
 
 - <https://www.tastingtable.com/912358/classic-fudge-recipe/>
+
+[1]: <../ingredients/evaporated-milk.md>
