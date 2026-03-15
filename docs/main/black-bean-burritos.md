@@ -17,7 +17,7 @@ tags:
 
 - :hot_pepper: 1 chipotle chile in adobo sauce
 - :rice: 0.5 cup reduced fat sour cream
-- :canned_food: 1 15-oz can black beans
+- :canned_food: 1 15-oz can [black beans][1]
 - :corn: 1 cup corn
 - :flatbread: 4 tortillas
 - :tomato: 1 cup salsa
@@ -40,7 +40,7 @@ Chop chipotle chile in adobo sauce and combine with reduced fat sour cream.
 
 ### Step 3
 
-Place half of black beans in food processor; combine all beans, corn, and sour cream mixture.
+Place half of [black beans][1] in food processor; combine all beans, corn, and sour cream mixture.
 
 ### Step 4
 
@@ -49,3 +49,5 @@ Spoon 1/2 cup mixture into tortillas and place in baking dish. Cover with salsa 
 ### Step 5
 
 Cover and bake for 20 minutes.
+
+[1]: <../ingredients/black-beans.md>

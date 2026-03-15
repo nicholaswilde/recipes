@@ -2,101 +2,94 @@
 comments: true
 tags:
 
-  - vegan
-  - italian
+  - meatball
+  - main
 ---
 
-# :spaghetti: Ginger Sesame Vegan Meatballs
+# :meat_on_bone: Ginger Sesame Vegan Meatballs
 
 ![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:------:|:----------:|
-| 4      | 70 minutes |
+|:----------------------------------:|:-----------------------: |
+| 16 meatballs | 1 hour |
 
-## :salt: Ingredients
+## :salt: Ingredients - Meatballs
 
-- :canned_food: 1 can black beans
-- :mushroom: 8 ozs cremini mushrooms
+- :mushroom: 8 oz mushrooms
+- :onion: 0.5 cup chopped onion
+- :canned_food: 1 can [black beans][1]
 - :garlic: 4 cloves garlic
-- :garlic: 2.5 Tbsp ginger
-- :seedling: 3 stalks green onion
-- :pancakes: 1 Tbsp maple syrup
-- :rice: 1 cup quinoa
-- :sake: 1 tbsp sesame oil
-- :sake: 2 tbsp tamari
+- :onion: 3 stalks green onion
+- :sweet_potato: 2.5 Tbsp ginger
+- :takeout_box: 2 Tbsp tamari
+- :bread: 0.5 cup breadcrumbs
+- :seedling: 1 Tbsp flaxseed meal
+- :droplet: 3 Tbsp water
+- :olive: 1 Tbsp toasted sesame oil
+
+## :salt: Ingredients - Glaze
+
+- :takeout_box: 0.25 cup tamari
+- :honey_pot: 2 Tbsp maple syrup
+- :sweet_potato: 1 Tbsp ginger
+- :garlic: 1 clove garlic
+- :olive: 1 tsp toasted sesame oil
+- :hot_pepper: 1 tsp sriracha
 
 ## :cooking: Cookware
 
-- :stew: small saucepan
-- :fork_and_knife: fork
-- :cooking: large skillet
-- :shirt: kitchen towel
-- :cookie: baking sheet
-- :tropical_drink: food processor
+- 1 small bowl
+- 1 large skillet
+- 1 kitchen towel
+- 1 food processor
+- 1 baking sheet
 
 ## :pencil: Instructions
 
 ### Step 1
 
-If you haven’t done so, cook quinoa and set aside to cool. To prepare 1 cup cooked quinoa: Add 1/3 heaping cup (65 g)
-dry quinoa to a small saucepan and toast for 2-3 minutes over medium heat. Then add 2/3 cup (160 ml) water and bring
-to a boil. Once boiling, cover and reduce heat to a simmer. Cook for 10-15 minutes or until water is absorbed. Then
-fluff with a fork, remove from the heat, and crack the lid so the quinoa can cool.
+In a small bowl, mix flaxseed meal and water. Let sit for 5 minutes.
 
 ### Step 2
 
-Heat a large skillet over medium heat with the sesame oil. Once hot, add the cremini mushrooms and sauté for 10-15
-minutes, stirring occasionally, until they are lightly browned and have released most of their moisture.
+Finely chop mushrooms and onion. Sauté in a large skillet over medium heat until softened and moisture has evaporated.
 
 ### Step 3
 
-Drain and rinse the black beans, then dry in a clean kitchen towel.
+Drain and rinse the [black beans][1], then dry in a clean kitchen towel.
 
 ### Step 4
 
-To the sautéed mushrooms, add the black beans, garlic, green onion, ginger, and tamari (or soy sauce or coconut
-aminos). Sauté for 3-4 minutes, or until slightly softened, stirring frequently. Set aside to cool slightly.
+To the sautéed mushrooms, add the [black beans][1], garlic, green onion, ginger, and tamari (or soy sauce or coconut
+aminos). Sauté for 3 to 4 minutes, or until slightly softened, stirring frequently. Set aside to cool slightly.
 
 ### Step 5
 
-Preheat the oven to 400 F (200 C) and set out a baking sheet.
+In a food processor, pulse the mushroom and bean mixture until it forms a coarse paste. Do not overprocess.
 
 ### Step 6
 
-Transfer the mixture to a food processor and pulse until no large pieces of beans or mushrooms remain, being careful
-not to overmix into a paste.
+Transfer to a bowl and stir in flax egg and breadcrumbs. Let sit for 10 minutes.
 
 ### Step 7
 
-Add 1 cup (185 g) cooked and cooled quinoa (adjust amount if altering batch size) and the maple syrup (or agave or
-honey). Pulse to combine until a textured dough forms, again being careful not to overmix.
+Preheat oven to 375°F (200°C). Form mixture into 16 meatballs and place on a baking sheet.
 
 ### Step 8
 
-Taste and adjust flavor as needed, adding more tamari for saltiness/depth of flavor, sesame oil for nuttiness, or maple
-syrup for balance. If it’s too wet, add more quinoa and pulse to combine.
+Bake for 20 to 25 minutes until firm and browned.
 
 ### Step 9
 
-Scoop out 1 ½-Tbsp portions of dough and gently shape into round balls using wet hands. Recipe as written makes ~15
-meatballs. Add formed meatballs to a bare or parchment-lined baking sheet.
+Whisk glaze ingredients together in a small saucepan over medium heat until thickened.
 
 ### Step 10
 
-Bake for 15 minutes. Then flip to ensure even baking and bake for another 10-15 minutes, or until golden brown and
-slightly dry to the touch.
-
-### Step 11
-
-These "meatballs" are delicious served with steamed or roasted broccoli, sesame seeds, [teriyaki sauce](../sauces-and-dressings/gravy-and-savory-sauces/teriyaki-sauce.md), and your grain
-of choice (brown rice, white rice, quinoa, coconut rice, millet // or cauliflower rice for grain-free).
-
-### Step 12
-
-Leftovers will keep up to 3-4 days in the refrigerator or 1 month in the freezer. To reheat cooked meatballs from
-frozen, place on a baking sheet and bake at 400 F (200 C) for 10-12 minutes.
+Toss meatballs in glaze before serving.
 
 ## :link: Source
 
-- <https://minimalistbaker.com/ginger-sesame-vegan-meatballs/#wprm-recipe-container-89162>
+- <https://www.connoisseurusveg.com/ginger-sesame-vegan-meatballs/>
+
+[1]: <../ingredients/black-beans.md>

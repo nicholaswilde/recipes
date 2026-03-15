@@ -1,99 +1,83 @@
 ---
 comments: true
 tags:
+
+  - burger
   - main
 ---
-# Black Bean Burgers
 
-![Black Bean Burgers][1]{ loading=lazy }
+# :hamburger: Black Bean Burgers
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 1.03 hours |
+![Black Bean Burgers](../assets/images/black-bean-burgers.jpg){ loading=lazy }
+
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 6 burgers | 1 hour |
 
 ## :salt: Ingredients
 
-- :beans: 2 15-oz cans black beans
-- :olive: 4 Tbsp olive oil
-- :onion: 1 medium onion
-- :hot_pepper: 1 large poblano pepper
+- :beans: 2 15-oz cans [black beans][1]
+- :olive: 2 Tbsp extra virgin olive oil
+- :onion: 0.5 cup (80 g) chopped bell pepper
+- :onion: 0.5 cup (80 g) chopped onion
 - :garlic: 3 cloves garlic
-- :hot_pepper: 1 chipotle chile in adobo sauce
-- :chestnut: 0.75 cup (85 g) roasted cashews
-- :cheese_wedge: 0.5 cup (57 g) feta or cotija cheese
-- :bread: 0.75 cup (150 g) panko bread crumbs
-- :egg: 1 large egg
-- :baby_bottle: 2 Tbsp [mayonnaise][2]
+- :herb: 1.5 tsp ground cumin
+- :hot_pepper: 1 tsp chili powder
+- :hot_pepper: 0.5 tsp garlic powder
+- :hot_pepper: 0.25 tsp smoked paprika
+- :bread: 0.5 cup (60 g) breadcrumbs
+- :cheese_wedge: 0.5 cup (50 g) feta cheese (optional)
+- :egg: 2 large eggs
 - :salt: some salt
-- :salt: some pepper
-- :bread: 8 hamburger buns
-- :cheese_wedge: some pepper jack, cheddar, muenster, or Swiss cheese (optional)
+- :salt: some black pepper
 
 ## :cooking: Cookware
 
-- :cookie: 1 foil-lined rimmed baking sheet
-- :gear: 1 food processor
+- 1 foil-lined rimmed baking sheet
+- 1 small sauté pan
+- 1 food processor
+- 1 large bowl
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Adjust oven rack to center position and preheat oven to 350°F (175°C). Spread black beans in a single layer on a
+Adjust oven rack to center position and preheat oven to 350°F (175°C). Spread [black beans][1] in a single layer on a
 foil-lined rimmed baking sheet. Roast until beans are mostly split open and outer skins are beginning to get crunchy,
 about 20 minutes. Remove from oven and allow to cool slightly.
 
 ### Step 2
 
-While beans roast, heat 2 tablespoons olive oil in a medium skillet over medium-high heat until shimmering. Add onion
-and poblano pepper and cook, stirring frequently, until softened, about 5 minutes. Add garlic and cook, stirring
-constantly, until fragrant, about 2 minutes. Add chipotle chile in adobo sauce and sauce and cook, stirring, until
-fragrant, about 30 seconds. Transfer mixture to a large bowl.
+While beans are roasting, heat olive oil in a small sauté pan over medium heat. Add bell pepper, onion, and garlic. Cook
+until vegetables are softened, about 5 minutes. Squeeze out as much moisture as possible using a clean kitchen towel or
+fine-mesh strainer.
 
 ### Step 3
 
-Place roasted cashews in the bowl of a food processor and pulse until chopped into pieces no larger than 1/3-inch, about
-12 short pulses. Add to bowl with onions and peppers.
+In a food processor, pulse the roasted [black beans][1] until they are mostly broken down but still have some texture.
+Transfer to a large bowl.
 
 ### Step 4
 
-When beans are slightly cooled, transfer to food processor. Add feta or cotija cheese. Pulse until beans are roughly
-chopped (the largest pieces should be about 1/3 of a full bean in size). Transfer to bowl with onion and peppers
-mixture. Add panko bread crumbs, egg, and mayonnaise and season with salt and pepper. Fold together gently but
-thoroughly with hands. Patty mixture can be stored in an airtight container in the refrigerator for up to three days at
-this stage.
+Add the sautéed vegetables to the bowl along with cumin, chili powder, garlic powder, smoked paprika, breadcrumbs, feta
+cheese (if using), eggs, salt, and pepper. Mix everything together with a fork until well combined.
 
 ### Step 5
 
-To cook indoors: Form bean mixture into 6 to 8 patties as wide as your hamburger buns. Heat 1 tablespoon oil in a large
-nonstick or cast iron skillet over medium heat until shimmering. Add 4 patties and cook, swirling pan occasionally,
-until well browned and crisp on first side, about 5 minutes. Carefully flip and cook until second side is browned, about
-5 minutes longer, adding pepper jack, cheddar, muenster, or Swiss cheese (optional) if desired. If cooking more than 4
-burgers, cook in batches, keeping cooked burgers on a rack set in a rimmed baking sheet in a 200°F oven while second
-batch cooks.
+Form the mixture into 6 patties.
 
 ### Step 6
 
-To cook on the grill: Light 2/3 chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour
-out and arrange the coals on one side of the charcoal grate. Set cooking grate in place, cover grill and allow to
-preheat for 5 minutes. Alternatively, set half the burners on a gas grill to the medium-high setting, cover, and preheat
-for 10 minutes. Clean and oil the grilling grate. Form bean mixture into 6 to 8 patties as wide as your burger buns and
-brush top sides with oil. Place on hot side of grill oiled-side down and cook without moving until first side is well
-browned, 3 to 5 minutes. Brush tops of burgers with oil. Carefully flip and continue cooking until second side is
-browned, 3 to 5 minutes longer, topping with cheese if desired.
+To cook the burgers, heat a little oil in a large nonstick or cast-iron skillet over medium-high heat. Cook the patties
+for 4 to 5 minutes per side until browned and heated through. Alternatively, grill the patties over medium-high heat
+for 4 to 5 minutes per side.
 
 ### Step 7
 
-Spread top and bottom buns with chipotle mayonnaise or other condiments as desired. Add toppings to top or bottom bun as
-desired. Place patties on bottom buns, close burgers, and serve immediately.
-
-### Step 8
-
-Tip: Chipotle mayonnaise works well as a condiment.
+Serve on buns with your favorite toppings.
 
 ## :link: Source
 
-- <https://www.seriouseats.com/the-best-black-bean-burger-recipe>
+- <https://sallysbakingaddiction.com/best-black-bean-burgers/>
 
-[1]: <../assets/images/black-bean-burgers.jpg>
-[2]: <../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
-
+[1]: <../ingredients/black-beans.md>

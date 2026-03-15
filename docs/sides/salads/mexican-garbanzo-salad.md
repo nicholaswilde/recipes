@@ -22,7 +22,7 @@ tags:
 - :falafel: 1 can chickpeas
 - :herb: 0.25 cup cilantro
 - :lemon: some lime juice
-- :canned_food: 1 can black beans (optional)
+- :canned_food: 1 can [black beans][1] (optional)
 - :avocado: 1 cup avocado (optional)
 - :cucumber: 1 cucumber (optional)
 
@@ -35,4 +35,7 @@ tags:
 ### Step 1
 
 Combine diced tomatoes or 1 container TJ's pico de gallo, white onion, minced jalapeño, chickpeas, cilantro, lime juice
-to taste, black beans (optional), avocado (optional), and diced cucumber (optional) in a large bowl.
+to taste, [black beans][1] (optional), avocado (optional), and diced cucumber (optional) in a large bowl.
+
+[1]: <../../ingredients/black-beans.md>
+

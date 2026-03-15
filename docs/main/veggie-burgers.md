@@ -1,111 +1,69 @@
 ---
 comments: true
 tags:
-  - main
----
-# Veggie Burgers
 
-![Veggie Burgers][1]{ loading=lazy }
+  - main
+  - burger
+---
+
+# :hamburger: Veggie Burgers
+
+![Veggie Burgers](../assets/images/veggie-burgers.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 6 | 3.01 days |
+| 4 burgers | 45 minutes |
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup (170 g) cooked [brown rice][2]
-- :chestnut: 1 cup (113 g) raw walnuts
-- :olive: 0.5 Tbsp oil
-- :onion: 0.5 medium white onion
-- :salt: some salt
-- :salt: some pepper
-- :hot_pepper: 0.5 tsp chili powder
-- :chestnut: 1 Tbsp cumin
-- :hot_pepper: 1 Tbsp smoked paprika
+- :beans: 1.5 cups (260 g) [dried black beans][1]
+- :ear_of_rice: 0.5 cup (93 g) cooked brown rice
+- :onion: 0.5 cup (80 g) chopped onion
+- :hot_pepper: 0.5 cup (80 g) chopped bell pepper
+- :garlic: 2 cloves garlic
+- :herb: 1 tsp ground cumin
+- :hot_pepper: 1 tsp chili powder
 - :salt: 0.5 tsp salt
-- :salt: 0.5 tsp pepper
-- :candy: 1 Tbsp brown sugar
-- :beans: 1.5 cups (260 g) dried black beans
-- :bread: 0.33 cup (65 g) panko bread crumbs
-- :hot_springs: 4 Tbsp BBQ sauce
-- :seedling: 1 [flax egg][3]
+- :salt: 0.25 tsp black pepper
+- :bread: 0.5 cup (60 g) breadcrumbs
+- :egg: 1 large egg
+- :olive: 1 Tbsp extra virgin olive oil
 
 ## :cooking: Cookware
 
-- :gear: 1 blender or food processor
-- :bowl_with_spoon: 1 large mixing bowl
+- 1 large mixing bowl
+- 1 fork
+- 1 large skillet
 
 ## :pencil: Instructions
 
 ### Step 1
 
-If your brown rice isn’t cooked yet, start there by following this method for the best results. Otherwise, move onto
-the next step.
+To a large mixing bowl, add drained, [dried black beans][1] and mash well with a fork, leaving only a few whole beans.
 
 ### Step 2
 
-Toast the raw walnuts until fragrant and golden brown. Let cool and move onto the next step.
+Add cooked brown rice, onion, bell pepper, garlic, cumin, chili powder, salt, and pepper. Mix well.
 
 ### Step 3
 
-In the meantime, heat the same skillet over medium heat. Once hot, add oil and white onion. Season with a bit of salt
-and pepper and sauté for 3 to 4 minutes, or until onion is fragrant, soft, and translucent. Remove from heat and set
-aside.
+Add breadcrumbs and egg. Mix until everything is well combined and the mixture can be formed into patties.
 
 ### Step 4
 
-Once walnuts are cooled, add to blender or food processor with chili powder, cumin, smoked paprika, salt, pepper and
-brown sugar and blend until a fine meal is achieved. Set aside.
+Form the mixture into 4 patties.
 
 ### Step 5
 
-To a large mixing bowl, add drained, dried black beans and mash well with a fork, leaving only a few whole beans.
+Heat olive oil in a large skillet over medium heat. Cook the patties for 4 to 5 minutes per side until browned and heated
+through.
 
 ### Step 6
 
-Next add cooked rice, spice-walnut mixture, sautéed onion, panko bread crumbs, 3 to 4 Tbsp of BBQ sauce, and flax egg
-and mix thoroughly with a wooden spoon for 1 to 2 minutes, or until a moldable dough forms. If dry, add an extra 1 to 2
-Tbsp BBQ sauce (amount as original recipe is written // adjust if altering batch size). If too wet, add more panko bread
-crumbs. Taste and adjust seasonings as needed.
-
-### Step 7
-
-For larger burgers, divide into 5 patties (1/2 cup in size // amount as original recipe is written), or form 10 smaller
-burgers (1/4 cup in size // amount as original recipe is written). To help form the patties, line your 1/2 or 1/4
-measuring cup with plastic wrap and pack with burger mixture. Press down to pack firmly, then lift out by the plastic
-wrap’s edge, and slightly flatten with hands to form a 3/4-inch thick patty. Set on a baking sheet or plate for
-grilling.
-
-### Step 8
-
-If grilling, heat the grill at this time and brush the grill surface with oil to ease cooking. Otherwise, heat the same
-skillet you used earlier to medium heat.
-
-### Step 9
-
-Once skillet is hot, add just enough oil to lightly coat the bottom of your skillet, then add your burgers – only as
-many as will comfortably fit in the pan. Otherwise, add burgers to the grill and close lid.
-
-### Step 10
-
-Cook for 3 to 4 minutes or until well browned on the underside, then flip gently. They aren’t as firm as meat burgers,
-but will definitely hold their shape. Reduce heat if cooking/browning too quickly. Cook for 3 to 4 minutes on other
-side.
-
-### Step 11
-
-Remove burgers from heat to let cool slightly, and prepare any other toppings/sides at this time (such as
-grilling/toasting your buns).
-
-### Step 12
-
-Serve burgers as is, or on toasted buns with desired toppings. Leftovers keep in the refrigerator for 2 to 3 days.
+Serve on buns with your favorite toppings.
 
 ## :link: Source
 
-- <https://minimalistbaker.com/easy-grillable-veggie-burgers/>
+- <https://minimalistbaker.com/the-best-vegan-veggie-burger/>
 
-[1]: <../assets/images/veggie-burgers.jpg>
-[2]: <../ingredients/brown-rice.md>
-[3]: <../ingredients/flax-egg.md>
-
+[1]: <../ingredients/black-beans.md>

@@ -16,7 +16,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :canned_food: 1 cup dried black beans
+- :canned_food: 1 cup [dried black beans][2]
 - :fallen_leaf: 1 bay leaf
 - :herb: 0.5 tsp oregano
 - :olive: 1 Tbsp olive oil
@@ -33,11 +33,11 @@ tags:
 
 ### Step 1
 
-Soak the dried black beans overnight.
+Soak the [dried black beans][2] overnight.
 
 ### Step 2
 
-In a medium pot over medium-high heat, add the dried black beans, bay leaf, oregano, and just enough water to cover
+In a medium pot over medium-high heat, add the [dried black beans][2], bay leaf, oregano, and just enough water to cover
 (about 2 cups). Bring to a boil, cover, and reduce the heat to low. Stirring occasionally, simmer until the beans are
 very tender, about 90 minutes.
 
@@ -57,3 +57,4 @@ the pot.) Add the salt and taste to adjust the seasoning.
 - The Gracias Madre Cookbook
 
 [1]: <../../assets/images/gracias-madre-black-beans.jpg>
+[2]: <../../ingredients/black-beans.md>

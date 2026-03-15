@@ -31,7 +31,7 @@ tags:
 - :oil_drum: 1 tsp canola oil
 - :cucumber: 2 cups diced zucchini
 - :corn: 1 10-oz pkg frozen corn
-- :canned_food: 1 15-oz can black beans
+- :canned_food: 1 15-oz can [black beans][3]
 - :curry: 3 cups enchilada sauce
 - :flatbread: 8 whole wheat tortilla
 - :cheese_wedge: 2 cups shredded cheese
@@ -63,7 +63,7 @@ Add 2 cups diced zucchini and frozen corn. Sauté for 5 minutes.
 
 ### Step 5
 
-Remove from heat and stir in black beans.
+Remove from heat and stir in [black beans][3].
 
 ### Step 6
 
@@ -87,3 +87,4 @@ Bake for an additional 10 minutes, uncovered after sprinkling 1 cup of cheese on
 
 [1]: <../assets/images/black-bean-corn-and-zucchini-enchiladas.jpg>
 [2]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
+[3]: <../ingredients/black-beans.md>

@@ -25,7 +25,7 @@ comments: true
 - :herb: 1 tsp cumin
 - :chocolate_bar: 1 tsp cocoa powder
 - :hot_pepper: 1 pinch cayenne
-- :potato: 2 cups black beans
+- :potato: 2 cups [black beans][2]
 - :flatbread: 4 corn tortillas
 - :salt: some salt
 - :herb: some cilantro
@@ -46,7 +46,7 @@ Heat olive oil in large pot and sauté yellow onion and garlic. Add cabbage, cub
 
 ### Step 2
 
-Add cumin, cocoa powder, and cayenne and black beans and cook for 10 minutes. Pulse soup with immersion blender.
+Add cumin, cocoa powder, and cayenne and [black beans][2] and cook for 10 minutes. Pulse soup with immersion blender.
 
 ### Step 3
 
@@ -62,3 +62,4 @@ minutes, giving the pan a gentle shake halfway through.
 Garnish soup with tortilla strips, chopped cilantro, and avocado.
 
 [1]: <../ingredients/vegetable-broth.md>
+[2]: <../ingredients/black-beans.md>

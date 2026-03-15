@@ -1,54 +1,57 @@
 ---
 comments: true
 tags:
-  - main
----
-# Greens and Grains Bowls
 
-![Greens and Grains Bowls][1]{ loading=lazy }
+  - main
+  - bowl
+---
+
+# :stuffed_flatbread: Greens and Grains Bowls
+
+![Greens and Grains Bowls](../assets/images/greens-and-grains-bowls.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 6 | 0 minutes |
+| 4 | 30 minutes |
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4 cups (680 g) cooked [brown rice][2]
-- :sweet_potato: 4 cups (800 g) cooked sweet potato
-- :beans: 1 15-oz can black beans
-- :hot_pepper: 2 cups (285 g) bell pepper
-- :leafy_green: 6 cups (180 g) raw spinach or kale
-- :apple: 1.5 cups (255 g) fresh or frozen mango chunks
-- :chestnut: 4 Tbsp (25 g) flax seed meal
-- :wine_glass: 4 Tbsp red wine vinegar
-- :garlic: 1 Tbsp chopped shallot
-- :baby_bottle: 1 tsp [Dijon mustard][3]
-- :salt: 1 tsp salt
-- :droplet: 0.5 cup (115 g) water
-- :honey_pot: 2 Tbsp maple syrup
+- :ear_of_rice: 4 cups cooked brown rice
+- :sweet_potato: 4 cups cooked sweet potato
+- :beans: 1 15-oz can [black beans][1]
+- :hot_pepper: 2 cups chopped bell pepper
+- :leafy_green: 6 cups raw spinach or kale
+- :avocado: 1 avocado
+- :herb: some cilantro
+- :lemon: some lime wedges
+- :sauce: some [creamy tahini dressing][2]
 
 ## :cooking: Cookware
 
-- :bowl_with_spoon: 1 large bowl
-- :gear: 1 blender
+- 1 large bowl
 
 ## :pencil: Instructions
 
 ### Step 1
 
-In a large bowl, mix together cooked brown rice, cooked sweet potato, black beans, chopped bell pepper, and raw spinach
-or kale.
+In a large bowl, mix together cooked brown rice, cooked sweet potato, [black beans][1], chopped bell pepper, and raw
+spinach or kale.
 
 ### Step 2
 
-In a blender, combine fresh or frozen mango chunks, flax seed meal, red wine vinegar, chopped shallot, Dijon mustard,
-salt, water, and maple syrup.
+Divide the mixture between 4 bowls.
 
 ### Step 3
 
-Puree until very smooth. Pour over rice and bean mixture. Combine well and serve.
+Top each bowl with sliced avocado and fresh cilantro.
 
-[1]: <../assets/images/greens-and-grains-bowls.jpg>
-[2]: <../ingredients/brown-rice.md>
-[3]: <../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+### Step 4
 
+Serve with lime wedges and [creamy tahini dressing][2].
+
+## :link: Source
+
+- <https://cookieandkate.com/greens-and-grains-bowl-recipe/>
+
+[1]: <../ingredients/black-beans.md>
+[2]: <../sauces-and-dressings/dips-and-spreads/tahini.md>

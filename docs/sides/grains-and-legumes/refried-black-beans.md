@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :potato: 400 g dried black beans
+- :potato: 400 g [dried black beans][1]
 - :onion: 1 medium onion
 - :garlic: 4 cloves garlic
 - :herb: 1 tsp cumin
@@ -34,7 +34,7 @@ tags:
 
 ### Step 1
 
-Add dried black beans, coarsely chopped onion, garlic, cumin, chili powder, black pepper, dried oregano, and vegetable
+Add [dried black beans][1], coarsely chopped onion, garlic, cumin, chili powder, black pepper, dried oregano, and vegetable
 broth to an Instant Pot.
 
 ### Step 2
@@ -52,3 +52,5 @@ Use an immersion blender to blend, adding in liquid to desired consistency.
 ### Step 5
 
 Stir in salt and lime juice to taste.
+
+[1]: <../../ingredients/black-beans.md>

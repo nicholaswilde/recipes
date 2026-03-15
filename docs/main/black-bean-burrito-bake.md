@@ -17,7 +17,7 @@ tags:
 
 - :hot_pepper: 1 can chipotle chiles in adobo sauce
 - :rice: 0.5 cup (114 g) sour cream
-- :canned_food: 1 can black beans
+- :canned_food: 1 can [black beans][1]
 - :corn: 1 cup corn
 - :flatbread: 4 flour tortillas
 - :tomato: 1 cup TJ's Spicy Smoked Peach Salsa
@@ -42,7 +42,7 @@ another use. Combine sour cream and chile in a medium bowl; let stand 10 minutes
 
 ### Step 3
 
-Place half of black beans in a food processor; process until finely chopped. Add chopped beans, remaining beans, and
+Place half of [black beans][1] in a food processor; process until finely chopped. Add chopped beans, remaining beans, and
 corn to sour cream mixture.
 
 ### Step 4
@@ -54,3 +54,5 @@ Monterey Jack cheese. Cover and bake at 350° for 20 minutes or until thoroughly
 ## :link: Source
 
 - My Recipes
+
+[1]: <../ingredients/black-beans.md>

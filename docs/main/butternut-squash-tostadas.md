@@ -24,7 +24,7 @@ tags:
 - :onion: 1 cup onions
 - :bell_pepper: 0.5 cup bell pepper
 - :garlic: 3 cloves garlic
-- :canned_food: 2 cups black beans
+- :canned_food: 2 cups [black beans][2]
 - :flatbread: 6 corn tortillas
 - :tomato: 0.25 cup salsa
 - :leafy_green: 0.5 cup red cabbage
@@ -60,7 +60,7 @@ While the squash is in the oven, sauté the diced onions and bell pepper in a sk
 
 ### Step 5
 
-Add the garlic and black beans to the sautéed onions and peppers, stir and cook for 2 minutes.
+Add the garlic and [black beans][2] to the sautéed onions and peppers, stir and cook for 2 minutes.
 
 ### Step 6
 
@@ -76,3 +76,4 @@ with red cabbage, cilantro, and [Mexicrema dressing][1] or guacamole.
 - <https://nutritionstudies.org/recipes/main-dish/butternut-squash-tostadas/>
 
 [1]: ../sauces-and-dressings/dips-and-spreads/mexicrema-dressing.md
+[2]: <../ingredients/black-beans.md>

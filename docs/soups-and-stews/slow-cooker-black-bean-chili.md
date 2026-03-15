@@ -18,7 +18,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :peanuts: 1 lb dried black beans
+- :peanuts: 1 lb [dried black beans][2]
 - :hot_pepper: 2 tsp chili powder
 - :hot_pepper: 1 chipotle chili in adobo sauce
 - :garlic: 6 cloves garlic
@@ -39,7 +39,7 @@ tags:
 
 ### Step 1
 
-Add dried black beans, chili powder, chipotle chili in adobo sauce, garlic, fire roasted tomatoes, salt, pepper, chopped
+Add [dried black beans][2], chili powder, chipotle chili in adobo sauce, garlic, fire roasted tomatoes, salt, pepper, chopped
 onion, salsa verde, roasted red peppers, ground cumin, and vegetable broth to a slow cooker.
 
 ### Step 2
@@ -51,3 +51,4 @@ Cook on high for 6 to 8 hours.
 - Recipe Box
 
 [1]: <../ingredients/vegetable-broth.md>
+[2]: <../ingredients/black-beans.md>

@@ -516,7 +516,7 @@ Charts from Julia Turshen's *What Goes with What*.
     ---
 
     **Carb**: Cooked Rice
-    **Protein**: Drained/Rinsed Canned Black Beans
+    **Protein**: Drained/Rinsed Canned [Black Beans][1]
     **Veg**: Canned Green Chiles & Corn Kernels
     **Finish**: Grated Cheddar & Avocado & Cilantro
 
@@ -572,3 +572,5 @@ Charts from Julia Turshen's *What Goes with What*.
     **Column 3**: Placeholder
 
 </div>
+
+[1]: <../ingredients/black-beans.md>

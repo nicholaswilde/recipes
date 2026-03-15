@@ -27,7 +27,7 @@ tags:
 - :hot_pepper: 0.5 tsp chipotle powder
 - :custard: 1 14-oz block extra-firm tofu
 - :corn: 1 15-oz can corn
-- :canned_food: 1 15-oz black beans
+- :canned_food: 1 15-oz [black beans][4]
 - :hot_pepper: 0.5 tsp chipotle powder
 - :hot_pepper: 0.5 tsp chili powder
 - :olive: 1 Tbsp olive oil
@@ -48,7 +48,7 @@ tofu.
 
 ### Step 3
 
-Add corn, black beans, 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Sauté with olive oil over medium heat.
+Add corn, [black beans][4], 1/2 tsp chipotle powder, and 1/2 tsp of chili powder. Sauté with olive oil over medium heat.
 
 ### Step 4
 
@@ -61,3 +61,4 @@ Build bowls starting with rice, then corn and beans, then tofu. Top with cilantr
 [1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg>
 [2]: <../sauces-and-dressings/salsas/salsa-fresca-(pico-de-gallo).md>
 [3]: <./guacamole.md>
+[4]: <../ingredients/black-beans.md>

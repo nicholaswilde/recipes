@@ -14,7 +14,7 @@ tags:
 ## :salt: Ingredients
 
 - :carrot: some roasted corn
-- :beans: some black beans
+- :beans: some [black beans][3]
 - :hot_pepper: some fajita veggies
 - :bread: some tortilla strips
 - :leafy_green: some mixed greens
@@ -28,7 +28,7 @@ tags:
 
 ### Step 1
 
-Combine roasted corn, black beans, fajita veggies, and tortilla strips over mixed greens.
+Combine roasted corn, [black beans][3], fajita veggies, and tortilla strips over mixed greens.
 
 ### Step 2
 
@@ -40,4 +40,5 @@ Top with chipotle ranch dressing.
 
 [1]: <../../assets/images/fiesta-salad.jpg>
 [2]: <../../sauces-and-dressings/chipotle-ranch-dressing.md>
+[3]: <../../ingredients/black-beans.md>
 

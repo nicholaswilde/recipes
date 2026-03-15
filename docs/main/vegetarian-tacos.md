@@ -27,7 +27,7 @@ tags:
 - :onion: 0.5 red onions, sliced
 - :corn: 2 ears sweet corn
 - :garlic: 1 Tbsp garlic
-- :canned_food: 1 can black beans, drained
+- :canned_food: 1 can [black beans][1], drained
 - :flatbread: 8 corn or TJ's Jicama tortillas
 - :cheese_wedge: some feta cheese (optional)
 - :herb: some cilantro (optional)
@@ -63,7 +63,7 @@ the sweet potatoes are roasted and slightly browned.
 
 Meanwhile, drizzle 1 to 2 Tbsp of olive oil to coat the bottom of a sauté pan and bring to a medium heat. Add
 mushrooms, thinly sliced, red onions, sliced, sweet corn and minced garlic. Once vegetables are slightly browned, add
-the drained black beans, drained, and turn heat to low. Simmer until the sweet potatoes are done cooking in the oven.
+the drained [black beans][1], drained, and turn heat to low. Simmer until the sweet potatoes are done cooking in the oven.
 
 ### Step 4
 
@@ -78,3 +78,5 @@ avocado crema and a sprinkle of feta cheese (optional) and cilantro (optional) o
 ## :link: Source
 
 - Applied Kitchen
+
+[1]: <../ingredients/black-beans.md>

@@ -7,7 +7,7 @@ tags:
 
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash
 
-![Applied Sweet Potato Soyrizo Hash][1]{ loading=lazy }
+![Applied Sweet Potato Soyrizo Hash](../assets/images/applied-sweet-potato-soyrizo-hash.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,51 +15,39 @@ tags:
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :sweet_potato: 1 large sweet potato
-- :onion: 1 red onions
-- :hotdog: 1 12-oz pkg soyrizo
-- :canned_food: 1 15-oz can black beans
-- :herb: 0.5 bunch cilantro
-- :salt: some salt
-- :salt: some pepper
+- :sweet_potato: 2 lb sweet potatoes
+- :olive: 2 Tbsp extra virgin olive oil
+- :hot_pepper: 12 oz soyrizo
+- :canned_food: 1 15-oz can [black beans][1]
 - :avocado: 1 avocado
-- :lemon: 1 lime wedge
+- :herb: some cilantro
+- :lemon: some lime wedges
 
 ## :cooking: Cookware
+
+- 1 large skillet
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Heat olive oil in a saute pan over medium-high heat. Add sweet potato and saute until tender.
+Peel and dice the sweet potatoes into 1/2-inch cubes.
 
 ### Step 2
 
-Add the diced red onions and continue to saute until they become translucent.
+Heat the olive oil in a large skillet over medium heat. Add the sweet potatoes and cook until tender and slightly
+browned, about 15 to 20 minutes.
 
 ### Step 3
 
-Next, add the soyrizo and stir until lightly browned.
+Add the soyrizo to the skillet and cook for another 5 minutes, breaking it up with a spoon.
 
 ### Step 4
 
-Add the black beans and stir until heated through.
+Add the [black beans][1] and stir until heated through.
 
 ### Step 5
 
-Turn off the heat and fold in the cilantro.
+Top with sliced avocado and fresh cilantro. Serve with lime wedges.
 
-### Step 6
-
-Season to taste with salt and pepper
-
-### Step 7
-
-Garnish with avocado and lime wedge
-
-## :link: Source
-
-- Applied Kitchen
-
-[1]: <../assets/images/applied-sweet-potato-soyrizo-hash.jpg>
+[1]: <../ingredients/black-beans.md>

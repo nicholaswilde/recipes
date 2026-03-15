@@ -31,7 +31,7 @@ tags:
 - :hot_pepper: 1 dried ancho chiles
 - :herb: 1 tsp fresh oregano leaves
 - :chocolate_bar: 0.25 oz disk stone-ground Mexican dark chocolate
-- :canned_food: 2 cups black beans
+- :canned_food: 2 cups [black beans][2]
 - :salt: some salt
 - :droplet: some water
 
@@ -89,7 +89,7 @@ Add the fresh oregano leaves, preferably Mexican oregano, and fried plantain to 
 
 Pass the mixture through a fine-mesh strainer into a large pot. Place the pot over medium-high heat and bring to a boil.
 Reduce the heat to a strong simmer, about medium heat, and cook for 15 minutes. Break up the disk stone-ground Mexican
-dark chocolate into a few pieces, add it to the pot, and continue simmering for 10 minutes. Add the black beans and
+dark chocolate into a few pieces, add it to the pot, and continue simmering for 10 minutes. Add the [black beans][2] and
 simmer for another 10 minutes. Season with salt to taste and add a little water if needed to thin out the mole. Store in
 a sealed container in the refrigerator for up to 1 week, or in the freezer for up to 6 months.
 
@@ -98,3 +98,4 @@ a sealed container in the refrigerator for up to 1 week, or in the freezer for u
 - The Gracias Madre Cookbook
 
 [1]: <../assets/images/black-bean-mole.jpg>
+[2]: <../ingredients/black-beans.md>
