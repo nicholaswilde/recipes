@@ -365,6 +365,7 @@ A task is complete when:
     - `task yamllint`: Runs `yamllint`.
 - **Spellchecking:** `task spellcheck` (uses `spellchecker-cli` with `dictionary.txt`).
 - **Link Checking:** `task linkcheck` (uses `markdown-link-check`).
+    - **Note:** DO NOT run `task linkcheck` project-wide as it takes a long time to check links in all files. Only use targeted link checks if necessary.
 - **Recipe Management:** Recipes are stored in `cook/` as `.cook` files and must be organized by category in subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`). There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
 - **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
 - **Front Matter:** Markdown files use front matter for metadata like comments and tags.

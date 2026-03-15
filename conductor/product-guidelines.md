@@ -29,11 +29,11 @@
     - Wrap lists in `<div class="grid cards" markdown>` to enable the grid layout.
     - Use horizontal rules (`---`) to separate titles from content within each card.
 
-## Technical Standards
+- **Technical Standards**
 
 - **Linting:** Adhere to `markdownlint` and `yamllint` configurations.
 - **Spelling:** All content must pass the project's spellcheck process.
-- **Links:** Verify all external links using the link-check tool.
+- **Links:** Verify external links as needed, but avoid project-wide link checks (e.g., `task linkcheck`) as they are excessively slow.
 
 ## Cooklang Specification
 
