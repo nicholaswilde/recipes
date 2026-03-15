@@ -1,6 +1,6 @@
 # Implementation Plan - Identify Recipes with Multiple Serving-Sized Ingredient Lists
 
-## Phase 1: Identification and Documentation
+## Phase 1: Identification and Documentation [checkpoint: 2afad00]
 
 Goal: Scan the documentation and list all recipes requiring tab conversion.
 
