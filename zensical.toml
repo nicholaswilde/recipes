@@ -368,6 +368,7 @@ Desserts = [
   { "English Toffee" = "desserts/english-toffee.md" },
   { "Flourless Chocolate Cake" = "desserts/cake/flourless-chocolate-cake.md" },
   { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
+  { "Fresh Fruit Tart" = "desserts/tarts/fresh-fruit-tart.md" },
   { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
   { "Fruit Galette" = "desserts/fruit-galette.md" },
   { "Fruit Sorbet" = "desserts/fruit-sorbet.md" },

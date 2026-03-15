@@ -215,6 +215,7 @@ challahs
 Chambord
 champignons
 Chana
+chang
 chantilly
 chasmi
 chasni
@@ -499,6 +500,7 @@ jeremy-scheck
 jessica-seinfeld
 jewish
 Jicama
+joanne
 Jojo's
 jose
 julia
@@ -871,6 +873,7 @@ struffoli
 Struffoli
 Stuf
 Stuf.
+Sucree
 Superfood
 Sureau
 tahini
