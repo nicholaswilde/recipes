@@ -17,7 +17,7 @@ tags:
 ## :salt: Ingredients
 
 - :sponge: 1 pkg grain tempeh
-- :takeout_box: 4 Tbsp soy sauce
+- :takeout_box: 4 Tbsp [soy sauce][2]
 - :olive: 4 Tbsp olive oil
 - :broccoli: 1 bag riced cauliflower stir fry
 
@@ -50,3 +50,4 @@ Divide stir fry among bowls and top with tempeh. Serve with extra soy sauce for 
 - Trader Joe's
 
 [1]: <../assets/images/truffley-cauliflower-stir-fry.png>
+[2]: <../ingredients/mock-soy-sauce.md>

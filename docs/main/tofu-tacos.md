@@ -19,7 +19,7 @@ tags:
 
 - :butter: 16 oz extra firm tofu
 - :olive: 1 Tbsp olive oil
-- :sake: 2 Tbsp soy sauce
+- :sake: 2 Tbsp [soy sauce][1]
 - :tomato: 2 Tbsp tomato paste
 - :maple_leaf: 1 Tbsp maple syrup
 - :onion: 1 tsp onion powder
@@ -66,3 +66,5 @@ Bake for 20 minutes, then stir/flip with a spatula. Bake for 20 minutes more.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../ingredients/mock-soy-sauce.md>

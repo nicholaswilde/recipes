@@ -23,7 +23,7 @@ tags:
 - :seedling: 2 Tbsp [basil pesto][2]
 - :sake: 0.25 cup white wine vinegar
 - :cactus: 4 tsp agave syrup
-- :hotdog: 1 tsp Dijon mustard
+- :hotdog: 1 tsp [Dijon mustard][4]
 - :salt: some salt
 - :salt: some pepper
 
@@ -56,3 +56,4 @@ Transfer to a dressing container, cover, and refrigerate.
 [1]: <../../assets/images/green-goddess-dressing.jpg>
 [2]: <./pesto/basic-pesto.md>
 [3]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
+[4]: <../dijon-mustard.md>

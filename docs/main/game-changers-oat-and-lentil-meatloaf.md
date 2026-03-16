@@ -23,7 +23,7 @@ tags:
 - :herb: 0.5 tsp thyme
 - :herb: 0.5 tsp rosemary
 - :takeout_box: 2 Tbsp [soy sauce][2]
-- :baby_bottle: 1 Tbsp Dijon mustard
+- :baby_bottle: 1 Tbsp [Dijon mustard][3]
 - :herb: 2 tsp parsley
 - :herb: 0.5 tsp sage
 - :hot_springs: 2 Tbsp BBQ sauce
@@ -64,5 +64,6 @@ Best if allowed to fest for at least 1 hour.
 - <https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/>
 
 [1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.jpg>
-[2]: <../ingredients/soy-sauce.md>
+[2]: <../ingredients/mock-soy-sauce.md>
+[3]: <../sauces-and-dressings/dijon-mustard.md>
 

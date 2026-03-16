@@ -2,3 +2,6 @@
 - I have imported the Classic White Sandwich Bread recipe (King Arthur Baking).
 - I have imported the Beautiful Burger Buns recipe (Ellen Dorsey).
 - I have imported the Flaky Buttery Crescent Rolls recipe (King Arthur Baking).
+- I have imported the Thai Red Curry Paste recipe.
+- I have imported the Mock Soy Sauce recipe.
+- I have imported the Dijon Mustard recipe.

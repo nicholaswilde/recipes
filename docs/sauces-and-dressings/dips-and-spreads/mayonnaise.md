@@ -18,7 +18,7 @@ tags:
 
 - :egg: 1 large egg
 - :sake: 4 tsp white wine vinegar
-- :hotdog: 0.5 tsp Dijon mustard
+- :hotdog: 0.5 tsp [Dijon mustard][2]
 - :salt: 0.75 tsp salt
 - :candy: 0.25 tsp sugar
 - :oil_drum: 1.5 cups (297 g) vegetable oil
@@ -51,3 +51,4 @@ refrigerate until ready to use. (Mayonnaise can be refrigerated for up to 1 week
 - <https://www.cookscountry.com/recipes/11467-easy-homemade-mayonnaise>
 
 [1]: <../../sauces-and-dressings/dips-and-spreads/tofu-mayonnaise.md>
+[2]: <../dijon-mustard.md>

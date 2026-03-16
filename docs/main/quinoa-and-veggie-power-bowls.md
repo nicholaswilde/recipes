@@ -79,5 +79,5 @@ Serve with desired toppings (e.g. pine nuts (optional), avocado (optional), humm
 
 [1]: <../assets/images/quinoa-and-veggie-power-bowls.jpg>
 [2]: <../sides/grains-and-legumes/quinoa.md>
-[3]: <../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[3]: <../sauces-and-dressings/dijon-mustard.md>
 

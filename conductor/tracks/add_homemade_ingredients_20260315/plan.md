@@ -1,9 +1,9 @@
 # Implementation Plan: Add Homemade Ingredient Recipes
 
 ## Phase 1: Curries & Sauces
-- [ ] Import a recipe for **Thai Red Curry Paste**.
-- [ ] Import a recipe for **Mock Soy Sauce** (or a soy-free alternative).
-- [ ] Import a recipe for **Dijon Mustard**.
+- [x] Import a recipe for **Thai Red Curry Paste**.
+- [x] Import a recipe for **Mock Soy Sauce** (or a soy-free alternative).
+- [x] Import a recipe for **Dijon Mustard**.
 
 ## Phase 2: Baking Staples
 - [ ] Add a quick recipe/guide for homemade **Baking Powder** (e.g., baking soda + cream of tartar).

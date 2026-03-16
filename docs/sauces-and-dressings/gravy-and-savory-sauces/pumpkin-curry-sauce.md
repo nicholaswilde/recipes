@@ -19,7 +19,7 @@ tags:
 - :onion: 1 yellow onion
 - :garlic: 1 Tbsp garlic
 - :sweet_potato: 1 tsp ginger
-- :curry: 2 Tbsp red curry paste
+- :curry: 2 Tbsp [red curry paste][3]
 - :jack_o_lantern: 1 cup [pumpkin puree][2]
 - :coconut: 1 15-oz can coconut milk
 - :salt: 0.5 tsp pepper
@@ -45,7 +45,7 @@ Cook the aromatics until the onion is translucent, about 5 minutes.
 
 ### Step 4
 
-Add the red curry paste, [pumpkin puree][2], coconut milk, pepper, and salt to the pan and stir well. Bring the curry
+Add the [red curry paste][3], [pumpkin puree][2], coconut milk, pepper, and salt to the pan and stir well. Bring the curry
 sauce to a simmer and cook for 15 minutes.
 
 ### Step 5
@@ -58,3 +58,4 @@ Serve and enjoy.
 
 [1]: <../../assets/images/pumpkin-curry-sauce.png>
 [2]: <../../ingredients/pumpkin-purée.md>
+[3]: <../../../ingredients/thai-red-curry-paste.md>

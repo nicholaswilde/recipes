@@ -24,10 +24,10 @@ tags:
 - :hot_pepper: 1 small red chili pepper, seeded and minced
 - :hot_pepper: 1 large red bell pepper, cut into 3/4-inch pieces
 - :melon: 1 medium butternut squash, peeled and cut into 1/2-inch cubes (about 3 1/2 cups)
-- :curry: 2 Tbsp (30 g) Thai red curry paste
+- :curry: 2 Tbsp (30 g) [Thai red curry paste][3]
 - :stew: 3 cups (710 ml) vegetable broth, plus more as needed
 - :tahini: 3 Tbsp (48 g) [tahini][2]
-- :stew: 1 Tbsp (15 ml) low-sodium soy sauce or tamari
+- :stew: 1 Tbsp (15 ml) low-sodium [soy sauce][4] or tamari
 - :lemon: 1 Tbsp (15 ml) lime juice, freshly squeezed, plus more to taste
 - :honey_pot: 1/2 tsp (3 g) maple syrup, or to taste
 - :beans: Chickpea croutons (optional)
@@ -99,3 +99,5 @@ Garnish with **fresh cilantro**.
 
 [1]: <../assets/images/butternut-squash-tahini-curry.jpg>
 [2]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
+[3]: <../ingredients/thai-red-curry-paste.md>
+[4]: <../ingredients/mock-soy-sauce.md>

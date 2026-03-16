@@ -18,7 +18,7 @@ tags:
 
 - :custard: 1 12.3-oz pkg firm silken tofu
 - :green_apple: 1 Tbsp apple cider vinegar
-- :hotdog: 2 tsp Dijon mustard
+- :hotdog: 2 tsp [Dijon mustard][2]
 - :garlic: 0.75 tsp garlic powder
 - :onion: 0.75 tsp onion powder
 - :salt: 0.75 tsp salt
@@ -61,3 +61,4 @@ For best results, chill for at least an hour before using.
 - <https://nutritionstudies.org/recipes/dip-spread/tofu-mayonnaise/>
 
 [1]: <../../assets/images/tofu-mayonnaise.jpg>
+[2]: <../dijon-mustard.md>
