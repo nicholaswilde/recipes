@@ -127,6 +127,7 @@ emoji:
         - corn tortillas
         - bread flour
         - breadcrumbs
+        - panko breadcrumbs
         - double pie crust
     - broccoli:
         - broccoli
@@ -172,8 +173,10 @@ emoji:
         - vegan cream cheese
         - nutritional yeast
         - parmesan cheese
+        - grated Parmesan cheese
         - vegan parmesan
         - cream cheese
+        - reduced-fat cream cheese (Neufchâtel)
         - extra-firm tofu
     - chestnut:
         - cornstarch
@@ -251,6 +254,7 @@ emoji:
     - garlic:
         - garlic
         - shallot
+        - small shallot
         - garlic cloves
         - garlic powder
         - garlic clove
@@ -278,9 +282,10 @@ emoji:
         - fresh mint leaves
         - fresh cilantro
         - parsley
+        - fresh parsley
         - basil
         - Italian herbs
-        - bay leaves
+    - honey_pot:
         - dried Mexican oregano
         - freshly chopped cilantro
         - dried oregano
@@ -318,6 +323,7 @@ emoji:
         - button mushrooms
         - shiitake mushrooms
         - cremini mushrooms
+        - medium cremini or white button mushrooms
     - olive:
         - extra virgin olive oil
         - olive oil
@@ -354,8 +360,9 @@ emoji:
         - fine sea salt
         - freshly-cracked black pepper
         - freshly ground black pepper
+        - freshly ground pepper
         - salt
-        - table salt
+    - seedling:
         - Pretzel salt
         - Kosher salt
         - Morton kosher salt
