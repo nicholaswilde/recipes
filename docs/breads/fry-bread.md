@@ -4,9 +4,9 @@ tags:
   - bread
   - fry bread
 ---
-# Authentic Indian Fry Bread
+# Fry Bread
 
-![Authentic Indian Fry Bread][1]{ loading=lazy }
+![Fry Bread][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -63,4 +63,4 @@ Remove the bread and place it on a paper towel-lined plate to drain excess oil.
 
 - <https://thestayathomechef.com/authentic-indian-fry-bread/>
 
-[1]: <../assets/images/authentic-indian-fry-bread.jpg>
+[1]: <../assets/images/fry-bread.jpg>
