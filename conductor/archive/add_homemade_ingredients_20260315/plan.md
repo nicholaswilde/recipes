@@ -10,6 +10,6 @@
 - [x] Verify if other simple baking staples (like self-rising flour) need to be documented.
 
 ## Phase 3: Review & Finalize
-- [ ] Update `zensical.toml` to ensure all new recipes are navigable.
-- [ ] Perform a spellcheck on all new files.
-- [ ] Mark the track as complete.
+- [x] Update `zensical.toml` to ensure all new recipes are navigable.
+- [x] Perform a spellcheck on all new files.
+- [x] Mark the track as complete.

@@ -4,7 +4,7 @@ tags:
   - ingredients
   - mustard
   - condiments
-  - dijon
+  - Dijon
   - homemade
 ---
 # Dijon Mustard

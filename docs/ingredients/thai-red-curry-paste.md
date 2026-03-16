@@ -3,7 +3,7 @@ comments: true
 tags:
   - ingredients
   - curry paste
-  - thai
+  - Thai
   - spicy
 ---
 # Thai Red Curry Paste
