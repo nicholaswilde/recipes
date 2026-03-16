@@ -1,3 +1,4 @@
 site/**
 **.swp
 cook/**/**.md
+__pycache__/

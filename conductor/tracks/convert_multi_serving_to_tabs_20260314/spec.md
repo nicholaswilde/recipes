@@ -1,38 +1,25 @@
-# Specification - Identify Recipes with Multiple Serving-Sized Ingredient Lists
+# Specification - Convert Multi-Serving Recipes to Zensical Tabs
 
 ## Overview
-The goal of this track is to scan all recipe Markdown files in the `docs/` directory to identify those that list ingredients multiple times for different sized servings. These recipes are characterized by having multiple "Ingredients" headers (e.g., "## Ingredients - 1lb", "## Ingredients - 2lb"). The result of this track will be a comprehensive list of these files, which will be used in a subsequent track to convert them to use Zensical tabs.
+The goal of this track is to convert identified recipe Markdown files that have multiple "Ingredients" sections (e.g., for different sizes or components) to use Content Tabs (powered by `pymdownx.tabbed`). This will improve the layout, save vertical space, and provide a better user experience by allowing users to switch between different variations of a recipe easily.
 
 ## Functional Requirements
-1.  **Recursive Scan:** Scan all `.md` files within the `docs/` directory and its subdirectories.
-2.  **Pattern Identification:** Identify files that contain more than one occurrence of a header starting with "Ingredients" (e.g., matching the pattern `## :salt: Ingredients`).
-3.  **List Generation:** Create a list of the relative file paths for all identified recipes.
-4.  **Task Documentation:** Update this specification (or the implementation plan) with the final list of identified recipes.
+1. **Zensical Tabs Implementation:** For each identified recipe, replace multiple "Ingredients" headers with a single "Ingredients" header followed by Content Tabs.
+2. **Tab Naming:** Use clear and descriptive names for the tabs (e.g., "9 Inch", "10 Inch", "Dough", "Frosting").
+3. **Consistency:** Ensure the tabbed layout follows a consistent style across all converted recipes.
+4. **Validation:** Verify that the generated Markdown renders correctly and that the site build passes.
 
 ## Non-Functional Requirements
-- **Accuracy:** Ensure all recipes with multiple "Ingredients" headers are captured.
-- **Efficiency:** Use optimized search tools (like `grep` or `ripgrep`) to perform the scan.
+- **Maintainability:** Ensure the Markdown remains easy to read and edit.
+- **Performance:** The use of tabs should not negatively impact the page loading or rendering speed.
 
-## Identified Recipes with Multiple Ingredients Headers
+## Targeted Recipes (From "Identify Multi-Serving Recipes" track)
 
-The following recipes have more than one "Ingredients" header and are candidates for conversion to Zensical tabs:
-
-### Alternative Options (High Priority for Tabs)
+### High Priority (Alternative Options)
 - `docs/desserts/martha-stewarts-new-york-style-cheesecake.md` (9 Inch vs 10 Inch)
 - `docs/ingredients/post-baking-glazes/royal-icing.md` (Fresh vs Powdered Egg Whites)
 
-### Component-Based (May benefit from tabs to save space)
-- `docs/beverages/iced-chai-latte.md`
-- `docs/breads/basic-sweet-babka.md`
-- `docs/breads/bagels.md`
-- `docs/breads/brioche.md`
-- `docs/cookies-and-bars/brookies.md`
-- `docs/desserts/cake/tiramisù.md`
-- `docs/desserts/pie/the-best-lemon-meringue-pie.md`
-- `docs/breakfast/cinnamon-rolls.md`
-- (and many others...)
-
-## Full List of Identified Files
+### Other Identified Recipes
 - beverages/iced-chai-latte.md
 - breads/another-lemon-blueberry-bread.md
 - breads/bagels.md
@@ -127,7 +114,6 @@ The following recipes have more than one "Ingredients" header and are candidates
 - desserts/fruit-galette.md
 - desserts/gordon-ramsay's-chocolate-soufflé.md
 - desserts/ina-garten's-apple-crisp.md
-- desserts/martha-stewarts-new-york-style-cheesecake.md
 - desserts/melomakarona.md
 - desserts/millefeuille.md
 - desserts/pie/banoffee-pie.md
@@ -142,7 +128,6 @@ The following recipes have more than one "Ingredients" header and are candidates
 - desserts/strawberry-shortcakes.md
 - desserts/tarts/cranberry-curd-tart-with-almond-crust.md
 - ingredients/frosting/cream-cheese-frosting.md
-- ingredients/post-baking-glazes/royal-icing.md
 - ingredients/stiff-sourdough-starter.md
 - ingredients/tofu/crispy-baked-peanut-tofu.md
 - lunches/sweet-potato-chickpea-buddha-bowl.md
@@ -163,10 +148,6 @@ The following recipes have more than one "Ingredients" header and are candidates
 - soups-and-stews/roasted-tomato-soup.md
 
 ## Acceptance Criteria
-- [x] A complete list of all recipe files in `docs/` containing multiple "Ingredients" headers is generated.
-- [x] The list is documented within the track artifacts (specifically in the `spec.md` file).
-
-
-## Out of Scope
-- Converting the identified recipes to use Zensical tabs.
-- Updating the content of the identified Markdown files.
+- [ ] All recipes in the list are converted to use Zensical Content Tabs for their "Ingredients" sections.
+- [ ] Each converted page renders correctly with working tabs.
+- [ ] The `zensical build` command runs successfully without errors.
