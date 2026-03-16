@@ -78,5 +78,6 @@ Store leftovers at room temperature. To reheat, bake at 350°F for 7 to 10 minut
 ## :link: Source
 
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/flaky-buttery-crescent-rolls-recipe)
+- [King Arthur Baking Blog](https://www.kingarthurbaking.com/blog/2011/12/05/flaky-buttery-crescent-rolls-the-best-of-both-worlds)
 
 [1]: <../assets/images/flaky-buttery-crescent-rolls.jpg>
