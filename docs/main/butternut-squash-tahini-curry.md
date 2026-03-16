@@ -97,5 +97,5 @@ Garnish with **fresh cilantro**.
 
 - [GitHub Issue #1344](https://github.com/nicholaswilde/recipes/issues/1344)
 
-[1]: <../assets/images/butternut-squash-tahini-curry-practically-vegan.jpg>
+[1]: <../assets/images/butternut-squash-tahini-curry.jpg>
 [2]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
