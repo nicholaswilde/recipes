@@ -139,6 +139,8 @@ emoji:
         - unsalted shortening
         - vegan butter
         - salted butter
+        - knob
+        - knob of butter
     - candy:
         - granulated sugar
         - white granulated sugar
@@ -338,15 +340,20 @@ emoji:
         - red onion
         - diced red onion
         - large onion
+        - leek
+        - leeks
     - pineapple:
         - crushed pineapple
     - stew:
         - vegetable stock
         - vegetable broth
         - low-sodium vegetable broth
+        - chicken or vegetable stock
+        - stock
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
+        - freshly ground black pepper
         - salt
         - table salt
         - Pretzel salt
@@ -375,6 +382,8 @@ emoji:
         - fresh ginger
         - ground ginger
         - ground dried ginger
+        - medium potato
+        - potato
     - takeout_box:
         - soysauce
         - soy sauce
