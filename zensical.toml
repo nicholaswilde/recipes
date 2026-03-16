@@ -403,6 +403,7 @@ Desserts = [
   { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
   { "King Arthur's Carrot Cake" = "desserts/cake/king-arthurs-carrot-cake.md" },
   { "Lemon Bundt Cake" = "desserts/cake/lemon-bundt-cake.md" },
+  { "Lemon Pudding Cake" = "desserts/cake/lemon-pudding-cake.md" },
   { "Lemon Pie" = "desserts/pie/lemon-pie.md" },
   { "Lemon Tart" = "desserts/lemon-tart.md" },
   { "Lemon Thyme Yogurt Cake" = "desserts/cake/lemon-thyme-yogurt-cake.md" },
