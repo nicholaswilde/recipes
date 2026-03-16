@@ -6,7 +6,7 @@
 - [x] Import a recipe for **Dijon Mustard**.
 
 ## Phase 2: Baking Staples
-- [ ] Add a quick recipe/guide for homemade **Baking Powder** (e.g., baking soda + cream of tartar).
+- [x] Add a quick recipe/guide for homemade **Baking Powder** (e.g., baking soda + cream of tartar).
 - [ ] Verify if other simple baking staples (like self-rising flour) need to be documented.
 
 ## Phase 3: Review & Finalize
