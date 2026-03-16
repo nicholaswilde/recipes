@@ -345,10 +345,10 @@ doneness
 donut
 dorie
 Dorie
-Dorie
 dorie-greenspan
 d'Oro
 doughs
+Draught
 du
 dulce
 Dulce
@@ -417,6 +417,7 @@ Frittatas
 Funfetti
 Fuscilli
 fusilli
+galangal
 galette
 Galette
 gallo
@@ -427,6 +428,7 @@ GANACHE
 garam
 garni
 Garni
+Garten
 Garten's
 Gâteau
 genoise
@@ -470,8 +472,10 @@ headspace
 heat-culinary
 herbes
 Herbes
+Hjem
 hoisin
 Hollandaise
+Honour
 Horiatiki
 huacatay
 Huevos
@@ -511,6 +515,7 @@ julia-child
 julia-turshen
 julienned
 kabocha
+kaffir
 Kalamata
 kenji-lopez-alt
 Kickin
@@ -522,6 +527,7 @@ Kimchi
 king-arthur
 Kir
 KitchenAid
+Kitchn
 Kleins
 Knorr
 Krispie
@@ -643,6 +649,7 @@ Nisha
 nixtamal
 Nixtamal
 Noël
+Noir
 non-diastatic
 Non-Diastatic
 nora-cooks
@@ -748,6 +755,7 @@ preroasted
 preshape
 Preshape
 preshaped
+pre-sifted
 pressurecooker
 Prinsesstårta
 provençale
@@ -924,11 +932,13 @@ the-gracias-madre-cookbook
 the-new-york-times
 Tiramisù
 TJ's
+todd-wilbur
 Tollhouse
 tomari
 Tomate
 tomatillo
 tomatillos
+Tosi
 tostada
 tostadas
 Tostadas
@@ -972,6 +982,7 @@ unstrained
 untoasted
 urad
 Urad
+Valrhona
 vannelli
 Vannelli
 VegNews
@@ -997,12 +1008,3 @@ zested
 zhoug
 Zhoug
 Ziti
-pre-sifted
-Tosi
-todd-wilbur
-Draught
-galangal
-kaffir
-Honour
-Hjem
-Kitchn
