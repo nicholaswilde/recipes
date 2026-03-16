@@ -73,6 +73,7 @@ Breads = [
   { "Croissants" = "breads/croissants.md" },
   { "Delicious Zucchini Bread" = "breads/delicious-zucchini-bread.md" },
   { "Flour Tortillas" = "breads/flour-tortillas.md" },
+  { "Flaky Buttery Crescent Rolls" = "breads/flaky-buttery-crescent-rolls.md" },
   { "French Bread" = "breads/french-bread.md" },
   { "Garlic Bread" = "breads/garlic-bread.md" },
   { "Garlic Knots" = "breads/garlic-knots.md" },
