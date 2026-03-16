@@ -77,4 +77,4 @@ Cool on a rack before slicing horizontally.
 
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/beautiful-burger-buns-recipe)
 
-[1]: <../assets/images/beautiful-burger-buns-ellen-dorsey.jpg>
+[1]: <../assets/images/beautiful-burger-buns.jpg>
