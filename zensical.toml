@@ -51,6 +51,7 @@ Breads = [
   { "Another Lemon Blueberry Bread" = "breads/another-lemon-blueberry-bread.md" },
   { "Artisan Breadsticks" = "breads/artisan-breadsticks.md" },
   { "Artisan No-Knead Pizza Crust" = "breads/artisan-no-knead-pizza-crust.md" },
+  { "Authentic Indian Fry Bread" = "breads/authentic-indian-fry-bread.md" },
   { "Bagels" = "breads/bagels.md" },
   { "Baguettes" = "breads/baguettes.md" },
   { "Basic Sweet Babka" = "breads/basic-sweet-babka.md" },
