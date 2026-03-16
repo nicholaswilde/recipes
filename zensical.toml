@@ -66,6 +66,7 @@ Breads = [
   { "Ciabatta" = "breads/ciabatta.md" },
   { "Cinnamon Raisin Sourdough Bread" = "breads/cinnamon-raisin-sourdough-bread.md" },
   { "Cinnamon Streusel Bread" = "breads/cinnamon-streusel-bread.md" },
+  { "Classic White Sandwich Bread" = "breads/classic-white-sandwich-bread-king-arthur-baking.md" },
   { "Cornbread" = "breads/cornbread.md" },
   { "Cranberry Orange Bread" = "breads/cranberry-orange-bread.md" },
   { "Croissants" = "breads/croissants.md" },

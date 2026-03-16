@@ -1,1 +1,2 @@
 - I have imported the Butternut Squash Tahini Curry recipe (Issue #1344).
+- I have imported the Classic White Sandwich Bread recipe (King Arthur Baking).
