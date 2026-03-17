@@ -498,6 +498,7 @@ Incredisauce
 indian
 Indigo
 indonesian
+israeli
 italian
 jackfruit
 Jackfruit
@@ -886,6 +887,8 @@ soba
 Soba
 sojae
 Soleil
+Solomonov
+Solomonov's
 Sonoran
 soto
 soufflé
@@ -916,6 +919,7 @@ Superfood
 Sureau
 tahini
 Tahini
+TAHINI
 tahini's
 tamari
 Tamari
@@ -978,6 +982,7 @@ Turshen's
 Twix
 tylose
 Tyme
+uber-creamy
 umami
 Umami
 unblanched
@@ -1019,6 +1024,7 @@ Wontons
 xanthan
 Yeasted
 za'atar
+Zahav
 Zeb's
 Zepeda
 zested
