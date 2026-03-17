@@ -58,6 +58,7 @@ emoji:
         - heavy saucepan
         - flan ring
         - 9-inch tart pan
+        - cake plate
     - spoon:
         - spatula
         - small offset spatula
@@ -86,6 +87,8 @@ emoji:
         - raspberries
         - strawberries
         - blueberries
+        - banana
+        - bananas
         - dried fruits
         - prunes
         - apricots
@@ -134,6 +137,7 @@ emoji:
         - double pie crust
         - torn bread pieces (like ciabatta or baguette)
         - torn corn tortilla pieces
+        - Trader Joe's Banana Bread Mix
     - broccoli:
         - broccoli
         - cauliflower
@@ -354,7 +358,7 @@ emoji:
         - toasted sesame oil
         - nonstick cooking spray
         - nonstick baking spray
-    ...
+        - coconut oil spray
     - tea:
         - active dry yeast
         - instant yeast
