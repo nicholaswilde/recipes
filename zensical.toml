@@ -438,6 +438,7 @@ Desserts = [
   { "Peppermint Fudge" = "desserts/peppermint-fudge.md" },
   { "Peppermint Patties" = "desserts/peppermint-patties.md" },
   { "Pineapple Upside Down Cake" = "desserts/cake/pineapple-upside-down-cake.md" },
+  { "Pineapple Upside Down Cake Shutterbean" = "desserts/cake/pineapple-upside-down-cake-shutterbean.md" },
   { "Plum Torte" = "desserts/tarts/plum-torte.md" },
   { "Poppy Seed Almond Cake" = "desserts/cake/poppy-seed-almond-cake.md" },
   { "Pouding Chomeur with Pure Maple Sauce" = "desserts/pouding-chomeur-with-pure-maple-sauce.md" },
