@@ -77,4 +77,4 @@ Top with finely chopped parsley and enjoy.
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/classic-hollandaise-sauce-4122491>
+- <https://www.thespruceeats.com/classic-hollandaise-sauce-recipe-4122491>

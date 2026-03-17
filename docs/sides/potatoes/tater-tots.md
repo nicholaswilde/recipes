@@ -73,6 +73,6 @@ Serve immediately, garnished with parsley (optional), if desired.
 ## :link: Sources
 
 - <https://damndelicious.net/2015/04/10/homemade-tater-tots/>
-- <https://www.thespruceeats.com/air-fryer-tater-tots-4798915>
+- <https://www.thespruceeats.com/air-fryer-tater-tots-recipe-5119115>
 
 [1]: <../../assets/images/tater-tots.jpg>

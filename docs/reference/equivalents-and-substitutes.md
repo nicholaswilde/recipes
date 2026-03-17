@@ -213,16 +213,16 @@ Let mixture sit for 5 minutes.
     This will add an extra 3/8 tsp of salt, so decrease the salt in your recipe accordingly.
 [1]: <https://www.beanilla.com/blog/how-to-use-vanilla-beans>
 [2]: <https://thetakeout.com/you-don-t-need-to-buy-cream-of-tartar-1849147017>
-[3]: <https://www.thespruceeats.com/fresh-garlic-clove-substitute-4147732#toc-fresh-garlic-substitutes>
+[3]: <https://www.thespruceeats.com/garlic-substitute-4147732>
 [4]: <https://www.thespruceeats.com/chopped-onion-substitutes-4150417>
-[5]: <https://www.thespruceeats.com/herb-substitutions-in-cooking-1807691>
+[5]: <https://www.thespruceeats.com/herb-conversion-list-1807860>
 [6]: <https://www.acouplecooks.com/soy-sauce-substitute/>
 [7]: <https://www.mortonsalt.com/article/salt-conversion-chart/>
 [8]: <https://www.cooksillustrated.com/how_tos/13677-a-vegan-substitute-for-anchovies>
 [9]: <../ingredients/miso-nori-paste.md>
 [10]: <https://www.nigella.com/ask/substitute-for-suet>
 [11]: <../ingredients/grated-vegetable-shortening.md>
-[13]: <https://www.thespruceeats.com/shortening-substitutes-4155135>
+[13]: <https://www.thespruceeats.com/vegetable-shortening-substitute-4155135>
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
 [15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
 [16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>

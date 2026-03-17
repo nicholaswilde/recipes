@@ -70,4 +70,4 @@ large, wide bowl immediately. Let the popcorn cool for 2 minutes so it crisps up
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/kettle-corn-recipe-6833421>
+- <https://www.thespruceeats.com/easy-kettle-corn-recipe-6833421>

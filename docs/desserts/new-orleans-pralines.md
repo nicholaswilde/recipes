@@ -80,6 +80,6 @@ pralines in an airtight container at room temperature. Enjoy.
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/new-orleans-pralines-521172>
+- <https://www.thespruceeats.com/new-orleans-pralines-recipe-3059174>
 
 [1]: <../ingredients/evaporated-milk.md>
