@@ -104,6 +104,9 @@ Cool on a rack.
 ## :link: Source
 
 - <https://www.jessiesheehanbakes.com/2015/02/10/salty-milk-chocolate-peanut-butter-cookies/>
+
+## :link: References
+
 - [The Pancake Princess - Best Peanut Butter Cookie Bake-Off](https://www.thepancakeprincess.com/2020/06/30/best-peanut-butter-cookie-bake-off/)
 
 [1]: <../assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg>
