@@ -88,4 +88,7 @@ Serving: Spread the hummus in a shallow bowl, creating a well in the center. Dus
 ## :link: Source
 
 - [Food Network](https://www.foodnetwork.com/fnk/recipes/hummus-7151796)
+
+## :link: References
+
 - [Cookie and Kate](https://cookieandkate.com/best-hummus-recipe/)
