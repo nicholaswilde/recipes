@@ -213,6 +213,8 @@ emoji:
         - ground cumin
         - cumin seeds
         - ground coriander
+        - ground nutmeg
+        - ground cloves
         - star anise
         - cinnamon stick
         - small cinnamon stick
@@ -241,12 +243,14 @@ emoji:
         - garam masala
         - Thai red curry paste
         - curry powder
+        - dashi powder
     - droplet:
         - water
         - hot water
         - canola oil
         - warm water
         - reserved pasta water
+        - mushroom soaking water
     - ear_of_rice:
         - wheat germ
         - cooked quinoa
@@ -276,6 +280,7 @@ emoji:
         - garlic clove
     - glass_of_milk:
         - whole milk
+        - milk
         - double cream
         - unsweetened nondairy milk
         - heavy cream
@@ -338,12 +343,15 @@ emoji:
         - spinach leaves
         - arugula
         - artichoke hearts
+        - kombu
     - melon:
         - jackfruit
         - pumpkin puree
+        - canned pumpkin puree
     - mushroom:
         - button mushrooms
         - shiitake mushrooms
+        - dried shiitake mushrooms
         - cremini mushrooms
         - medium cremini or white button mushrooms
     - olive:
@@ -468,3 +476,5 @@ emoji:
         - red wine vinegar
         - rice vinegar
         - dry white wine
+        - sake
+        - mirin
