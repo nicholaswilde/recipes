@@ -129,6 +129,8 @@ emoji:
         - breadcrumbs
         - panko breadcrumbs
         - double pie crust
+        - torn bread pieces (like ciabatta or baguette)
+        - torn corn tortilla pieces
     - broccoli:
         - broccoli
         - cauliflower
@@ -183,6 +185,8 @@ emoji:
         - semi-sweet chocolate
         - extra-bittersweet chocolate
         - dark chocolate
+        - Mexican chocolate
+        - stone-ground Mexican dark chocolate, broken into pieces
         - almonds
         - whole raw almonds
         - ground almonds
@@ -203,7 +207,9 @@ emoji:
         - ground coriander
         - star anise
         - cinnamon stick
+        - small cinnamon stick
         - raw unsalted peanuts
+        - peanuts
         - peanut butter
         - smooth unsweetened peanut butter
         - freeze-dried corn powder
@@ -285,7 +291,7 @@ emoji:
         - fresh parsley
         - basil
         - Italian herbs
-    - honey_pot:
+        - bay leaves
         - dried Mexican oregano
         - freshly chopped cilantro
         - dried oregano
@@ -293,6 +299,8 @@ emoji:
         - fresh rosemary
         - dried thyme
         - dried sage
+        - dried avocado leaf or bay leaf
+        - fresh marjoram
     - honey_pot:
         - honey
         - maple syrup
@@ -311,6 +319,9 @@ emoji:
         - smoked paprika
         - Gochujang
         - cayenne pepper
+        - dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
+        - dried pasilla chiles, seeds and veins removed and reserved
+        - dried guajillo chiles, seeds and veins removed and reserved
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - spinach leaves
@@ -348,6 +359,7 @@ emoji:
         - large onion
         - leek
         - leeks
+        - onion, layers separated
     - pineapple:
         - crushed pineapple
     - stew:
@@ -362,7 +374,8 @@ emoji:
         - freshly ground black pepper
         - freshly ground pepper
         - salt
-    - seedling:
+        - table salt
+        - Himalayan salt
         - Pretzel salt
         - Kosher salt
         - Morton kosher salt
@@ -423,6 +436,8 @@ emoji:
         - whole tomatoes
         - tomato purée
         - salsa
+        - Roma or plum tomatoes
+        - tomatillo, husk removed
     - tulip:
         - saffron
     - tumbler_glass:
