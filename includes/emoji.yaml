@@ -340,6 +340,7 @@ emoji:
         - extra virgin olive oil
         - olive oil
         - vegetable oil
+        - avocado oil
         - oil
         - capers
         - Kalamata olives
@@ -348,10 +349,12 @@ emoji:
         - toasted sesame oil
         - nonstick cooking spray
         - nonstick baking spray
-    - onion:
-        - onion
-        - yellow onion
-        - onions
+    ...
+    - tea:
+        - active dry yeast
+        - instant yeast
+        - sourdough discard
+        - sourdough starter
         - small yellow onion
         - large yellow onion
         - brown onion
