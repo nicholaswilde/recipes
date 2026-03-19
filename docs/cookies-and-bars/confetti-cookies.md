@@ -5,9 +5,9 @@ tags:
   - dessert
   - smitten kitchen
 ---
-# Confetti Cookies Smitten Kitchen
+# Confetti Cookies
 
-![Confetti Cookies Smitten Kitchen][1]{ loading=lazy }
+![Confetti Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -66,4 +66,4 @@ a few minutes before transferring to a cooling rack.
 
 - [Confetti Cookies – Smitten Kitchen](https://smittenkitchen.com/2016/05/confetti-cookies/)
 
-[1]: <../assets/images/confetti-cookies-smitten-kitchen.jpg>
+[1]: <../assets/images/confetti-cookies.jpg>
