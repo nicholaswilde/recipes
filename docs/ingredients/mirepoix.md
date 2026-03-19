@@ -29,4 +29,4 @@ carrots, and 4 ounces of celery.
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/what-is-mirepoix-996133>
+- <https://www.thespruceeats.com/what-is-mirepoix-recipe-996133>

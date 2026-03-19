@@ -50,4 +50,4 @@ Store brown sugar in an airtight container to prevent from drying out. Enjoy in 
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/how-to-make-your-own-brown-sugar-995823>
+- <https://www.thespruceeats.com/how-to-make-brown-sugar-recipe-995823>

@@ -51,4 +51,4 @@ Store in an airtight container. Use to season meats, chicken, fish, salads, vege
 
 ## :link: Source
 
-- <https://www.thespruceeats.com/make-your-own-herbes-de-provence-995824>
+- <https://www.thespruceeats.com/herbes-de-provence-recipe-995824>

@@ -75,5 +75,5 @@ to light and oxygen can cause fats to become rancid.
 
 ## :link: Sources
 
-- <https://www.thespruceeats.com/how-to-make-clarified-butter-995451>
+- <https://www.thespruceeats.com/how-to-make-clarified-butter-recipe-995451>
 - <https://youtu.be/C8ReU5s4i0k?si=yGh4r-SH6qFCDUcX>
