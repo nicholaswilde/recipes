@@ -25,7 +25,7 @@ tags:
 - :egg: 1 large (50 g) egg
 - :flower_playing_cards: 2 tsp (9 g) vanilla extract
 - :flower_playing_cards: 0.25 tsp almond extract
-- :artist_palette: 1 cup rainbow sprinkles
+- :art: 1 cup rainbow sprinkles
 
 ## :cooking: Cookware
 
