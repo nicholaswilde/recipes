@@ -198,6 +198,14 @@ Calvados
 Campagne
 Campari
 candlenuts
+caneles
+Caneles
+canelés
+Canelés
+canneles
+Canneles
+cannelés
+Cannelés
 cannellini
 cannoli
 Cannoli
@@ -392,6 +400,7 @@ Escabeche
 Espagnole
 Esselstyn
 eyewear
+Fabricant
 falafel
 Falafel
 falafels
@@ -589,6 +598,7 @@ Macaron
 macarons
 Macarons
 Macha
+Madagascan
 madeleine
 Madeleine
 madeleines
@@ -1010,6 +1020,7 @@ umami
 Umami
 unblanched
 underbake
+underbaked
 undercooked
 undercooking
 Undipped
@@ -1055,4 +1066,3 @@ zested
 zhoug
 Zhoug
 Ziti
-underbaked

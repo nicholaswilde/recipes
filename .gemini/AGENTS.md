@@ -7,3 +7,5 @@
 - I have imported the Dijon Mustard recipe.
 - I have added a recipe for homemade Baking Powder.
 - I have added a recipe for homemade Self-Rising Flour.
+- I have imported the Cannelés de Bordeaux recipe (Issue #1351).
+- I have imported the NYT Dutch Baby recipe (Issue #1349).

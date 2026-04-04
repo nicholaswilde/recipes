@@ -16,7 +16,8 @@
 
 - **Titles:** Prefix each recipe title with its corresponding emoji shortcode from `includes/emoji.yaml`.
 - **Instructions:** Always use numbered steps. Each step should focus on a concise set of actions.
-- **Ingredients:** Prefix each ingredient with its corresponding emoji shortcode from `includes/emoji.yaml`.
+- **Ingredients:** Prefix each ingredient with its corresponding emoji shortcode from `includes/emoji.yaml`. The emoji must come before the measurement (e.g., `:bread: 1/2 cup (60 g) all-purpose flour`).
+- **Cookware:** Prefix each cookware item with its corresponding emoji shortcode from `includes/emoji.yaml`.
 - **Measurements:**
     - Use standard unit abbreviations (e.g., `Tbsp` for tablespoon, `tsp` for teaspoon).
     - Provide volumetric to weight conversions (grams) in parentheses for major ingredients (e.g., `2 cups (240 g) all-purpose flour`).
