@@ -1,13 +1,11 @@
 ---
 comments: true
 tags:
-  - desserts
-  - french
-  - cannelés
+  - dessert
 ---
-# Cannelés de Bordeaux
+# Canneles de Bordeaux
 
-![Cannelés de Bordeaux][1]{ loading=lazy }
+![Canneles de Bordeaux][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -15,30 +13,30 @@ tags:
 
 ## :salt: Ingredients
 
-- :flower_playing_cards: 2 vanilla beans
-- :glass_of_milk: 500 ml (480 g) milk
-- :candy: 200 g cane sugar
-- :egg: 2 large eggs
-- :egg: 2 egg yolks
-- :butter: 50 g butter
-- :bread: 100 g all-purpose flour
-- :tumbler_glass: 60 ml (56 g) dark rum
-- :bee: 40 g beeswax
-- :butter: 60 g butter
+- 2 vanilla beans
+- 500 ml milk
+- 200 g cane sugar
+- 2 large eggs
+- 2 egg yolks
+- 50 g butter
+- 100 g all-purpose flour
+- 60 ml dark rum
+- 40 g beeswax
+- 60 g butter
 
 ## :cooking: Cookware
 
-- :shallow_pan_of_food: 1 saucepan
-- :bowl_with_spoon: 1 bowl
-- :package: 1 fridge
-- :gear: 1 whisk
-- :cookie: 1 mold
-- :wastebasket: 1 cooling rack
-- :snowflake: 1 freezer
-- :package: 1 fridge
-- :gear: 1 oven
-- :page_facing_up: 1 foil-lined baking sheet
-- :wastebasket: 1 cooling rack
+- 1 saucepan.
+- 1 bowl,
+- 1 fridge
+- 1 whisk
+- 1 mold
+- 1 cooling
+- 1 freezer
+- 1 fridge
+- 1 oven
+- 1 foil-lined
+- 1 cooling
 
 ## :pencil: Instructions
 
