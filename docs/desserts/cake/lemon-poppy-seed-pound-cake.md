@@ -1,45 +1,45 @@
 ---
 comments: true
 tags:
-  - desserts
+  - dessert
   - cake
-  - pound-cake
-  - lemon
 ---
-# Lemon Poppy Seed Pound Cake (Melissa Clark)
+# Lemon Poppy Seed Pound Cake
 
-![Lemon Poppy Seed Pound Cake (Melissa Clark)][1]{ loading=lazy }
+![Lemon Poppy Seed Pound Cake][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 1.5 hours |
+| 60 minutes |
 
 ## :salt: Ingredients
 
-- :butter: butter (for greasing)
-- :bread: 1 3/4 cups (210 g) all-purpose flour (plus more for pan)
-- :tangerine: zest of 2 lemons
-- :candy: 1 cup (198 g) sugar
-- :baby_bottle: 1/2 cup (114 g) buttermilk
-- :tangerine: 3 Tbsp (45 g) lemon juice
-- :egg: 3 large eggs (150 g)
-- :chestnut: 1 1/2 tsp baking powder
-- :chestnut: 1/4 tsp baking soda
-- :salt: 1/4 tsp fine sea salt
-- :olive: 2/3 cup (132 g) extra-virgin olive oil
-- :seedling: 1 Tbsp poppy seeds
-- :tangerine: 4 tsp (20 g) lemon juice
-- :candy: 1/2 cup (57 g) confectioner's sugar
+- some butter
+- some all-purpose flour
+- 2 lemons lemon zest
+- 1 cup sugar
+- 0.5 cup buttermilk
+- 3 Tbsp lemon juice
+- 3 large eggs
+- some all-purpose flour
+- 1.5 tsp baking powder
+- 0.25 tsp baking soda
+- 0.25 tsp fine sea salt
+- 0.67 cup extra-virgin olive oil
+- 1 Tbsp poppy seeds
+- 4 tsp lemon juice
+- 0.5 cup confectioner's sugar
 
 ## :cooking: Cookware
 
-- :gear: 1 oven
-- :cookie: 1 8-inch loaf pan
-- :bowl_with_spoon: 2 bowls
-- :knife: 1 toothpick
-- :wastebasket: 1 baking rack
-- :cookie: 1 rimmed baking sheet
-- :paintbrush: 1 pastry brush
+- 1 oven
+- 1 loaf
+- 1 bowl,
+- 1 bowl,
+- 1 toothpick
+- 1 baking
+- 1 rimmed
+- 1 pastry
 
 ## :pencil: Instructions
 
