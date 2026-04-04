@@ -9,3 +9,4 @@
 - I have added a recipe for homemade Self-Rising Flour.
 - I have imported the Cannelés de Bordeaux recipe (Issue #1351).
 - I have imported the NYT Dutch Baby recipe (Issue #1349).
+- I have imported the Lemon Poppy Seed Pound Cake (Melissa Clark) recipe (Issue #1348).
