@@ -2,7 +2,6 @@
 comments: true
 tags:
   - breakfast
-  - brunch
 ---
 # NYT Dutch Baby
 
@@ -14,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- :egg: 3 eggs
-- :bread: 1/2 cup (60 g) all-purpose flour
-- :glass_of_milk: 1/2 cup (114 g) milk
-- :candy: 1 Tbsp (12 g) sugar
-- :chestnut: 1 pinch nutmeg
-- :butter: 4 Tbsp (57 g) unsalted butter
-- :honey_pot: syrup
-- :apple: preserves
-- :candy: confectioner's sugar
-- :candy: cinnamon sugar
+- 3 eggs
+- 0.5 cup all-purpose flour
+- 0.5 cup milk
+- 1 Tbsp sugar
+- 1 pinch nutmeg
+- 4 Tbsp unsalted butter
+- some syrup
+- some preserves
+- some confectioner's sugar
+- some cinnamon sugar
 
 ## :cooking: Cookware
 
-- :gear: 1 oven
-- :gear: 1 blender
-- :shallow_pan_of_food: 1 skillet
-- :cookie: 1 baking dish
+- 1 oven
+- 1 blender
+- 1 skillet
+- 1 baking
 
 ## :pencil: Instructions
 
