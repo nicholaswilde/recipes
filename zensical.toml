@@ -413,6 +413,7 @@ Desserts = [
   { "Ice Cream" = "desserts/ice-cream.md" },
   { "Ina Garten's Apple Crisp" = "desserts/ina-garten's-apple-crisp.md" },
   { "Ina Garten's Coconut Cake" = "desserts/cake/ina-garten's-coconut-cake.md" },
+  { "Key Lime Pound Cake" = "desserts/cake/key-lime-pound-cake.md" },
   { "Key Lime Pie" = "desserts/pie/key-lime-pie.md" },
   { "King Arthur's Carrot Cake" = "desserts/cake/king-arthurs-carrot-cake.md" },
   { "Lemon Bundt Cake" = "desserts/cake/lemon-bundt-cake.md" },
