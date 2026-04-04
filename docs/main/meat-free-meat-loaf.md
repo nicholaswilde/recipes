@@ -19,7 +19,7 @@ tags:
 - :bread: 1 cup (113 g) bread crumbs
 - :beans: 1 cup (200 g) cooked brown [lentils][2]
 - :cheese_wedge: 0.25 cup (60 g) soft tofu
-- :takeout_box: 2 Tbsp [tahini][3]
+- :seedling: 2 Tbsp [tahini][3]
 - :takeout_box: 1 Tbsp [soy sauce][4]
 - :herb: 1 Tbsp parsley
 - :cut_of_meat: 1 pkg TJ's soy meat

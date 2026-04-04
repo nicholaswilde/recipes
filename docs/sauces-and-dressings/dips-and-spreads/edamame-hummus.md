@@ -21,7 +21,7 @@ tags:
 ## :salt: Ingredients
 
 - :beans: 1.5 cups (233 g) shelled edamame (steamed or boiled)
-- :takeout_box: 1 Tbsp tahini
+- :seedling: 1 Tbsp tahini
 - :tangerine: 2 lemons lemon juice
 - :garlic: 2 garlic cloves (minced)
 - :chestnut: 1 tsp ground cumin

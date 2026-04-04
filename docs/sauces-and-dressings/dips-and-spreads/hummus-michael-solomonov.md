@@ -25,11 +25,11 @@ tags:
 - :garlic: 1 head garlic
 - :tangerine: 0.75 cup (170 g) lemon juice
 - :salt: 0.5 tsp (2.5 g) kosher salt
-- :takeout_box: 2 cups (512 g) tahini
+- :seedling: 2 cups (512 g) tahini
 - :chestnut: 0.5 tsp (1.5 g) ground cumin
 - :salt: 1 tsp (5 g) kosher salt
 - :droplet: 1.25 cups (284 g) ice water
-- :takeout_box: some Tahini Sauce (from above)
+- :seedling: some Tahini Sauce (from above)
 - :salt: some kosher salt
 - :chestnut: 0.25 tsp (0.75 g) ground cumin
 - :hot_pepper: some paprika

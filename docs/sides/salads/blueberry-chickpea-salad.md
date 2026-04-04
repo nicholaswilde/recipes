@@ -21,7 +21,7 @@ tags:
 - :garlic: 1 tsp garlic powder
 - :lemon: 2 lemon juice
 - :maple_leaf: 1 Tbsp maple syrup
-- :sunflower: 3 Tbsp tahini
+- :seedling: 3 Tbsp tahini
 - :droplet: 0.25 cup water
 - :salt: some salt
 - :salt: some pepper

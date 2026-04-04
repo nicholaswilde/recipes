@@ -22,7 +22,7 @@ tags:
 - :candy: 0.25 cup (78 g) sugar (coconut sugar, brown sugar, or pure maple syrup)
 - :honey_pot: 8 tsp honey
 - :rice: 0.33 cup rice vinegar
-- :takeout_box: 0.25 cup [tahini][4] or soy sauce
+- :seedling: 0.25 cup [tahini][4] or soy sauce
 - :garlic: 3 cloves garlic
 - :sweet_potato: 2 tsp ginger
 - :hot_pepper: 1 tsp Sriracha hot sauce

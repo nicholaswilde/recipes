@@ -26,7 +26,7 @@ tags:
 - :melon: 1 medium butternut squash, peeled and cut into 1/2-inch cubes (about 3 1/2 cups)
 - :curry: 2 Tbsp (30 g) [Thai red curry paste][3]
 - :stew: 3 cups (710 ml) vegetable broth, plus more as needed
-- :tahini: 3 Tbsp (48 g) [tahini][2]
+- :seedling: 3 Tbsp (48 g) [tahini][2]
 - :stew: 1 Tbsp (15 ml) low-sodium [soy sauce][4] or tamari
 - :lemon: 1 Tbsp (15 ml) lime juice, freshly squeezed, plus more to taste
 - :honey_pot: 1/2 tsp (3 g) maple syrup, or to taste
