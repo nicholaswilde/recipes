@@ -11,3 +11,4 @@
 - I have imported the NYT Dutch Baby recipe (Issue #1349).
 - I have imported the Lemon Poppy Seed Pound Cake (Melissa Clark) recipe (Issue #1348).
 - I have imported the Key Lime Pound Cake recipe (Issue #1346).
+- I have updated the Butternut Squash Tahini Curry recipe with a new image and source (Practically Vegan book).
