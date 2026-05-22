@@ -207,7 +207,41 @@ tasks:
         msg: |
           tomllib not found. Please install a Python version that includes tomllib (Python 3.11+).
     silent: true
+
+  encrypt:
+    desc: Encrypt mcp_config.json and settings.json files using sops
+    cmds:
+      - |
+        if [ -f .agents/mcp_config.json ]; then
+          sops --encrypt --input-type json --output-type json --output .agents/mcp_config.json.enc .agents/mcp_config.json
+        elif [ -f mcp_config.json ]; then
+          sops --encrypt --input-type json --output-type json --output mcp_config.json.enc mcp_config.json
+        fi
+      - |
+        if [ -f .agents/settings.json ]; then
+          sops --encrypt --input-type json --output-type json --output .agents/settings.json.enc .agents/settings.json
+        elif [ -f settings.json ]; then
+          sops --encrypt --input-type json --output-type json --output settings.json.enc settings.json
+        fi
+
+  decrypt:
+    desc: Decrypt mcp_config.json.enc and settings.json.enc files using sops
+    cmds:
+      - |
+        if [ -f .agents/mcp_config.json.enc ]; then
+          sops --decrypt --input-type json --output-type json --output .agents/mcp_config.json .agents/mcp_config.json.enc
+        elif [ -f mcp_config.json.enc ]; then
+          sops --decrypt --input-type json --output-type json --output mcp_config.json mcp_config.json.enc
+        fi
+      - |
+        if [ -f .agents/settings.json.enc ]; then
+          sops --decrypt --input-type json --output-type json --output .agents/settings.json .agents/settings.json.enc
+        elif [ -f settings.json.enc ]; then
+          sops --decrypt --input-type json --output-type json --output settings.json settings.json.enc
+        fi
+
   default:
     cmds:
       - task -a
     silent: true
+

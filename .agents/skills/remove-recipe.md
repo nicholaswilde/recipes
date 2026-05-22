@@ -1,0 +1,26 @@
+# /remove-recipe <args>
+
+Remove a recipe from the repository, including Markdown, Cook, images, and navigation entries.
+
+## Description
+This skill safely and completely removes a recipe and all of its associated files and configurations from the repository.
+
+## Protocol
+1. **Locate the Recipe:**
+   - Search `zensical.toml` for the exact entry matching `<args>`.
+   - Identify the category and the Markdown file path (e.g., `{ "Banh Mi Sandwich" = "asian/banh-mi-sandwich.md" }`).
+2. **Verify and Collect Paths:**
+   - **Markdown:** `docs/{path_from_zensical}`.
+   - **Cook File:** `cook/{category}/{Recipe Name}.cook`. (Note: The category in `cook/` might be lowercase, and the filename matches the recipe name).
+   - **Image File:** Check for `{Recipe Name}.jpg`, `{Recipe Name}.png`, or `{Recipe Name}.jpeg` in the same `cook/{category}/` directory.
+3. **Removal Process:**
+   - **Delete Files:** Remove the Markdown file, the Cook file, and any matching image files.
+   - **Update zensical.toml:** Remove the specific entry line from the `zensical.toml` file. Ensure the surrounding list structure remains valid.
+4. **Confirmation:**
+   - List the files that were deleted.
+   - Confirm that the `zensical.toml` entry was removed.
+   - If any file was not found, report it but continue with the others.
+
+## Safety Checks
+- Before deleting, verify that the files exist.
+- If the recipe name is ambiguous or not found in `zensical.toml`, ask for clarification.

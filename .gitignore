@@ -2,3 +2,5 @@ site/**
 **.swp
 cook/**/**.md
 __pycache__/
+mcp_config.json
+settings.json

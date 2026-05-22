@@ -1,0 +1,5 @@
+---
+creation_rules:
+  - filename_regex: (\.ya?ml|\.db|\.env|\.json|\.ini|\.toml)$
+    pgp: '78E2E084522FB8A14C0D9AED800C8DB8B299A622'
+    age: 'age1x2at6wwq2gks47fsep9a25emdeqd93e3k0gfsswtmhruqrteu5jqjvy7kd'

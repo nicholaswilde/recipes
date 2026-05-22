@@ -1,0 +1,27 @@
+{
+	"mcpServers": {
+		"recipes": {
+			"command": "ENC[AES256_GCM,data:oRKCtGFAkuAHKvLxfMs=,iv:gOfN5wUPNf0s9rcHWkC+EanIEQS7+N064twaW5w23/o=,tag:SnsZuOv6iUBYPd3PLmc9KQ==,type:str]",
+			"trust": "ENC[AES256_GCM,data:F+fVAw==,iv:30UV7wEiFXjfm6VEPY3+eUji5u5Z0o2k2SosXQsvtu8=,tag:Sk9nC1w2Hbxdh/Ljh0MHsg==,type:bool]"
+		}
+	},
+	"sops": {
+		"age": [
+			{
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBISnZzVWpPSzFCaVRLUzUr\nSnVoYUVwM1FEanYraGJGanBMOHJ3cWppVVZ3CmdKakF2RkRMZG1pNEZUczhQSmRN\nVENqRklNUVdwSlJES2o4TlJJbC9yK00KLS0tIHRQRm5tUytNVlBLMWFRTE9hcVBH\nbGJ6ZjRwbUhXN3VPa1lTUTkyRGc2bTgKN9FMZHSJrWSZzBBIf/YBmZCq/eD9tLpz\n1RVLKYLAXDDfUrqVuTsXAoL+KZpIWZDDizxG6iilzUibhKQb0u51Dg==\n-----END AGE ENCRYPTED FILE-----\n",
+				"recipient": "age1x2at6wwq2gks47fsep9a25emdeqd93e3k0gfsswtmhruqrteu5jqjvy7kd"
+			}
+		],
+		"lastmodified": "2026-05-22T03:07:17Z",
+		"mac": "ENC[AES256_GCM,data:KazLaQjotwx4BWP9zIRIChdyAN3aK6Y+yM/jxcKSGur6uizRhL492GEfuS3hPM0gzaQFs/hRRXZILVo8hPmLvP+bStNUKnjveXUtCl+tLk35N81X+skagORHAZX4su3ezUnSQKerZWwnYJ2S9vlUCT56SibSb+8YFURPC2AvDLI=,iv:Yd8LT1yryvjWWQAgEku2ES2SBHDQKNVM8yRSMe74zwY=,tag:Gl+rBiHbts/KUQNnojrScQ==,type:str]",
+		"pgp": [
+			{
+				"created_at": "2026-05-22T03:07:17Z",
+				"enc": "-----BEGIN PGP MESSAGE-----\n\nhF4D9lXjpzPw+n0SAQdA4mC7Gii+3duM3iJPs0+g4U/U9O/L8VXd8aWQwwOaWGAw\nJVbQ3Plx0Z9zLDAERprfiClRcV61o8MKaI+7MgGe2ypexj95aHuIfORjEXof7P8N\n0lwBPNV3fXLjb3vdLYhHaQ0TWNn3ZWdPdy0PwgrLdd+niYobWFhYquead9Hy0Iev\n0FMXf9xiV8ke0IpW7aNIULtFb1vARkWf4iOoyK2g9poTelPAGluJARh/ImJLUg==\n=GZPx\n-----END PGP MESSAGE-----",
+				"fp": "78E2E084522FB8A14C0D9AED800C8DB8B299A622"
+			}
+		],
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.13.0"
+	}
+}

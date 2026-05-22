@@ -1,0 +1,27 @@
+# /link-ingredient <args>
+
+Search for an ingredient in Markdown recipes and create links to its own recipe page.
+
+## Description
+This skill searches for a specific ingredient in all Markdown recipe files and automatically creates links to that ingredient's own recipe or information page, following project conventions.
+
+## Protocol
+1. **Locate Ingredient File:**
+   - Find the "source of truth" Markdown file for `<args>`.
+   - Search `docs/**/*.md` for a file name that matches or search `zensical.toml` for the display name `<args>`.
+   - Confirm the path (e.g., `docs/ingredients/teriyaki-sauce.md`).
+2. **Search for Occurrences:**
+   - Search all `docs/**/*.md` files for the text `<args>` (case-insensitive).
+   - Exclude the ingredient's own file from the search results.
+3. **Create Links:**
+   - For each occurrence found, determine the relative path from the current file to the ingredient's file.
+   - Replace the plain text with a Markdown link: `[<args>](relative/path/to/file.md)`.
+   - **Rules:**
+     - Do NOT link if it is already part of a Markdown link.
+     - Handle instances in the "Ingredients" list (e.g., `- :emoji: <args>`) and in the "Instructions" text.
+     - Be surgical: only change the specific ingredient name.
+4. **Verification:**
+   - After making changes, verify the new links.
+   - **Note:** DO NOT run `task linkcheck` project-wide as it takes too long. Perform a targeted check or manual verification instead.
+5. **Git Operations:**
+   - If changes were made, stage the files and propose a commit message following the project's convention (e.g., `docs: link <args> in related recipes`).
