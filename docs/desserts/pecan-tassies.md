@@ -7,7 +7,7 @@ tags:
   - southern-living
   - holiday
 ---
-# Pecan Tassies
+# :chestnut: Pecan Tassies
 
 ![Pecan Tassies][1]{ loading=lazy }
 
