@@ -84,7 +84,7 @@ but centers are still soft, 10 to 14 minutes, rotating the baking sheet halfway 
 sheet to wire rack and allow cookies to cool completely before serving. Cookies can be stored in an airtight container
 at room temperature for up to 3 days.
 
-!!! note
+!!! tip
 
     The cookies should be inserted into the oven straight from the fridge or while still cold to help prevent spread.
 
