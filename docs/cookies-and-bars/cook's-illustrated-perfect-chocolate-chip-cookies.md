@@ -41,7 +41,7 @@ tags:
 
 ### Step 1
 
-Preheat oven to 375°F. Line 2 large 18x12-in baking sheets with parchment paper.
+Line 2 large 18x12-in baking sheets with parchment paper.
 
 ### Step 2
 
@@ -75,6 +75,10 @@ sheets, 8 dough balls per sheet.
 
 ### Step 7
 
+Preheat oven to 375°F. 
+
+### Step 8
+
 Bake the cookies 1 tray at a time until the cookies are golden brown but still puffy, and the edges have begun to set
 but centers are still soft, 10 to 14 minutes, rotating the baking sheet halfway through baking. Transfer the baking
 sheet to wire rack and allow cookies to cool completely before serving. Cookies can be stored in an airtight container
@@ -82,7 +86,7 @@ at room temperature for up to 3 days.
 
 !!! note
 
-  The cookies should be inserted into the oven straight from the fridge or while still cold to help prevent spread.
+    The cookies should be inserted into the oven straight from the fridge or while still cold to help prevent spread.
 
 ## :link: Sources
 
