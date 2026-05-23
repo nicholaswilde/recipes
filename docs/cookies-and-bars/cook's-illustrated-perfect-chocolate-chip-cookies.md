@@ -86,6 +86,7 @@ at room temperature for up to 3 days.
 
 ## :link: Sources
 
+- <https://youtu.be/oCt3xhKCX1k?si=XAq2xo8k-NlMe312>
 - <https://www.browneyedbaker.com/cooks-illustrated-perfect-chocolate-chip-cookies/>
 - <https://www.thepancakeprincess.com/best-brown-butter-chocolate-chip-cookie-bake-off/>
 
