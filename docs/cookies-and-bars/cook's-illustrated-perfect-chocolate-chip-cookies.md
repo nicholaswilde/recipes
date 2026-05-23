@@ -14,7 +14,7 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 16 | 23 minutes |
+| 15 | 23 minutes |
 
 ## :salt: Ingredients
 
@@ -87,6 +87,10 @@ at room temperature for up to 3 days.
 !!! tip
 
     The cookies should be inserted into the oven straight from the fridge or while still cold to help prevent spread.
+
+!!! tip
+
+    I found that baking for 11 minutes is ideal for my setup, rotating half way through.
 
 ## :link: Sources
 
