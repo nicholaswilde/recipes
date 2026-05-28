@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
   - mexican
-  -recipe-box
+  - recipe-box
 ---
 
 # :bell_pepper: Chile Relleno Casserole
