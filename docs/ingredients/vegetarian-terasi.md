@@ -2,6 +2,8 @@
 comments: true
 tags:
   - ingredient
+  - indonesian
+  - indo-dutch
 ---
 # :bowl_with_spoon: Vegetarian Terasi
 
