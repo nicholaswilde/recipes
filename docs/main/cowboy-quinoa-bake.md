@@ -28,9 +28,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 fork.
-- 1 large bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :knife: 1 fork.
+- :bowl_with_spoon: 1 large bowl
 - 1 8-inch square baking pan
 
 ## :pencil: Instructions

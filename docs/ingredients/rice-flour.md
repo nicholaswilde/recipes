@@ -20,8 +20,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 blender or spice grinder
+- :cookie: 1 baking sheet
+- :gear: 1 blender or spice grinder
 - 1 fine-mesh sieve
 
 ## :pencil: Instructions

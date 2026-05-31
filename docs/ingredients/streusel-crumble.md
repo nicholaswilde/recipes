@@ -24,8 +24,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 sheet pan
-- 1 parchment paper
-- 1 stand mixer
+- :page_facing_up: 1 parchment paper
+- :gear: 1 stand mixer
 
 ## :pencil: Instructions
 

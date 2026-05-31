@@ -37,10 +37,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 Dutch oven
-- 1 wooden spoon
-- 1 rimmed baking sheet
+- :spoon: 1 wooden spoon
+- :cookie: 1 rimmed baking sheet
 - 1 12-ounce ovensafe crocks
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 
 ## :pencil: Instructions
 

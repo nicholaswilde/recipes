@@ -20,7 +20,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 high-speed blender or spice grinder
+- :gear: 1 high-speed blender or spice grinder
 - 1 Sieve
 
 ## :pencil: Instructions

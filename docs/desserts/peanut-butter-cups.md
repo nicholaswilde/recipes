@@ -25,12 +25,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 24‑cup mini-muffin tin
+- :cookie: 1 24‑cup mini-muffin tin
 - 1 paper liners
 - 1 large zipper-lock plastic bag
-- 1 rolling pin
-- 1 small microwave-safe bowl
-- 1 rubber spatula
+- :wood: 1 rolling pin
+- :bowl_with_spoon: 1 small microwave-safe bowl
+- :spoon: 1 rubber spatula
 - 1 quart-size zipper-lock bag
 - 1 scissors
 - 1 oven mitts

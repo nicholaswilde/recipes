@@ -50,12 +50,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 stand mixer
-- 1 lightly greased bowl
-- 1 reusable cover or plastic wrap
-- 1 baking sheet
-- 1 parchment
+- :bowl_with_spoon: 1 large bowl
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 lightly greased bowl
+- :package: 1 reusable cover or plastic wrap
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment
 - 1 shallow pot
 - 1 dough whisk or slotted spoon
 - 1 cooling rack

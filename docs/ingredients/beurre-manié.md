@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 fork
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

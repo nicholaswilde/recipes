@@ -31,7 +31,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheets
+- :cookie: 1 baking sheets
 - 1 electric mixer
 
 ## :pencil: Instructions - Cookies

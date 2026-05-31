@@ -37,11 +37,11 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 heat-proof bowl or measuring cup
-- 1 stand mixer
-- 1 blender or immersion blender
-- 1 6 cup muffin tin
-- 1 small saucepan
+- :bowl_with_spoon: 1 heat-proof bowl or measuring cup
+- :gear: 1 stand mixer
+- :gear: 1 blender or immersion blender
+- :cookie: 1 6 cup muffin tin
+- :shallow_pan_of_food: 1 small saucepan
 
 ## :pencil: Instructions
 

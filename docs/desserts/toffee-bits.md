@@ -21,9 +21,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small rimmed baking sheet
-- 1 parchment paper or a silicone baking mat
-- 1 heavy-bottomed small saucepan
+- :cookie: 1 small rimmed baking sheet
+- :page_facing_up: 1 parchment paper or a silicone baking mat
+- :shallow_pan_of_food: 1 heavy-bottomed small saucepan
 
 ## :pencil: Instructions
 

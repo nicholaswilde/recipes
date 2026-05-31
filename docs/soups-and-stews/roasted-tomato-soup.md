@@ -40,8 +40,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 roasting tray
-- 1 potato masher
-- 1 stick blender
+- :spoon: 1 potato masher
+- :gear: 1 stick blender
 - 1 mortar and pestle
 
 ## :pencil: Instructions - Soup

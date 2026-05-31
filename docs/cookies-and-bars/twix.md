@@ -38,11 +38,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 large bowl
-- 1 parchment paper
+- :shallow_pan_of_food: 1 small saucepan
+- :bowl_with_spoon: 1 large bowl
+- :page_facing_up: 1 parchment paper
 - 1 cookie cutter
-- 1 wire rack
+- :wastebasket: 1 wire rack
 
 ## Caramel Instructions
 

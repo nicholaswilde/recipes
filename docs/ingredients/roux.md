@@ -46,7 +46,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 
 ## :pencil: Instructions
 

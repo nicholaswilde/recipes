@@ -35,9 +35,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 oven proof ramekins
-- 1 pastry blender
+- :gear: 1 pastry blender
 
 ## :pencil: Instructions - Filling
 

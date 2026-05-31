@@ -26,10 +26,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 sturdy spoon
-- 1 plastic wrap
-- 1 baking sheet
+- :package: 1 plastic wrap
+- :cookie: 1 baking sheet
 - 1 cast-iron frying pan
 - 1 sieve
 

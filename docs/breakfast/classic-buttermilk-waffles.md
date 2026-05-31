@@ -29,10 +29,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 2 mixing bowls
-- 1 wooden spoon
+- :bowl_with_spoon: 2 mixing bowls
+- :spoon: 1 wooden spoon
 - 1 waffle iron
-- 1 pastry brush
+- :paintbrush: 1 pastry brush
 
 ## :pencil: Instructions
 

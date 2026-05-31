@@ -13,23 +13,23 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.5 cups confectioners' sugar
+- :candy: 2.5 cups confectioners' sugar
 - 2 Tbsp vegetable shortening
-- 2 Tbsp corn syrup
-- 2 tsp peppermint extract
-- 2 tsp water
+- :candy: 2 Tbsp corn syrup
+- :salt: 2 tsp peppermint extract
+- :droplet: 2 tsp water
 - 12 oz bittersweet chocolate chips
 - 1 tsp vegetable shortening
 
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 plastic wrap
-- 1 serrated knife
+- :package: 1 plastic wrap
+- :knife: 1 serrated knife
 - 1 tray
 - 1 waxed paper
-- 1 small bowl
-- 1 fork
+- :bowl_with_spoon: 1 small bowl
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

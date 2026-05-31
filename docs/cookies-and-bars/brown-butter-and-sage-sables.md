@@ -31,14 +31,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 heatproof spatula
-- 1 stand mixer
-- 1 medium bowl
-- 1 flexible spatula
-- 1 parchment paper
-- 1 plastic wrap
-- 1 small bowl
+- :shallow_pan_of_food: 1 small saucepan
+- :spoon: 1 heatproof spatula
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 medium bowl
+- :spoon: 1 flexible spatula
+- :page_facing_up: 1 parchment paper
+- :package: 1 plastic wrap
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

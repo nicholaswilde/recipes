@@ -28,7 +28,7 @@ tags:
 - :peach: 680 g ripe peaches
 - :corn: 2 tsp cornstarch
 - :candy: 62.5 g demerara sugar
-- 🫚 1/2 tsp ground ginger
+- :sweet_potato: 🫚 1/2 tsp ground ginger
 - :custard: 1/4 tsp ground cinnamon
 - :chestnut: 1/8 tsp ground nutmeg
 - :salt: 1/4 tsp Diamond Crystal kosher salt
@@ -47,11 +47,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch square baking pan
-- 1 medium bowl
-- 1 small bowl
-- 1 medium saucepan
-- 1 fork
-- 1 wire rack
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 small bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :knife: 1 fork
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions - Crust
 

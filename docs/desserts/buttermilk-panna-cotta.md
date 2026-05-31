@@ -26,10 +26,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 - 1 3/4 cup ramekins or custard cups
 - 1 nonstick spray
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 
 ## :pencil: Instructions
 

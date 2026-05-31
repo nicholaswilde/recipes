@@ -30,9 +30,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 stand mixer
-- 1 parchment
+- :gear: 1 food processor
+- :gear: 1 stand mixer
+- :page_facing_up: 1 parchment
 - 1 sheet tray
 - 1 cooling rack
 

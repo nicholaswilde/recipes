@@ -36,10 +36,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 medium–large (4-quart or so) heavy-bottomed pot
 - 1 medium baking dish or wide shallow bowl
-- 1 large baking sheet
+- :cookie: 1 large baking sheet
 - 1 paper towels
 - 1 large high-sided skillet
 - 1 9 X 13 inch baking dish

@@ -28,9 +28,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 parchment-lined baking sheet
-- 1 cookie scoop
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 parchment-lined baking sheet
+- :cookie: 1 cookie scoop
 
 ## :pencil: Instructions
 

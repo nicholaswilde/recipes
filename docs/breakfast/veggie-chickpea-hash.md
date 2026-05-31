@@ -25,7 +25,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 cast iron pan
-- 1 spatula
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

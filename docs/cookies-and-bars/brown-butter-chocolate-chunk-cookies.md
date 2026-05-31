@@ -31,11 +31,11 @@ tags:
 
 - 1 small pot
 - 1 large ovenproof skillet
-- 1 stand mixer
-- 1 small bowl
-- 1 medium bowl
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 half-sheet pans
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

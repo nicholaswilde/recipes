@@ -33,10 +33,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 foil-lined rimmed baking sheet
+- :cookie: 1 foil-lined rimmed baking sheet
 - 1 small sauté pan
-- 1 food processor
-- 1 large bowl
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

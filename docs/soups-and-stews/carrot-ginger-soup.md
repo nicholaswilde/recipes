@@ -35,8 +35,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large saucepan or pot
-- 1 blender
+- :shallow_pan_of_food: 1 large saucepan or pot
+- :gear: 1 blender
 
 ## :pencil: Instructions
 

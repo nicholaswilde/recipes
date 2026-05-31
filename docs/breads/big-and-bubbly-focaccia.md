@@ -33,11 +33,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 spatula, bowl scraper, dough whisk
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 spatula, bowl scraper, dough whisk
 - 1 9" square Fabulous Focaccia Pan
 - 1 nonstick spray
-- 1 3"-wide strip of parchment
+- :page_facing_up: 1 3"-wide strip of parchment
 
 ## :pencil: Instructions
 

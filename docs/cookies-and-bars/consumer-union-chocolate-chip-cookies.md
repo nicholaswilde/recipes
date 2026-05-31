@@ -51,7 +51,7 @@ tags:
 
 - 1 mixer
 - 1 cooking sheet
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

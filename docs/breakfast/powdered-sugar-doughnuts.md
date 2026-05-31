@@ -32,8 +32,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 doughnut pans
-- 1 12-cup mini muffin tin
-- 1 medium-sized mixing bowl
+- :cookie: 1 12-cup mini muffin tin
+- :bowl_with_spoon: 1 medium-sized mixing bowl
 
 ## :pencil: Instructions
 

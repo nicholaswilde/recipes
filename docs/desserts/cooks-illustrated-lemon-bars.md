@@ -37,10 +37,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 foil
+- :page_facing_up: 1 foil
 - 1 8 inch square baking pan
 - 1 bowl
-- 1 fine-mesh strainer
+- :wastebasket: 1 fine-mesh strainer
 
 ## :pencil: Instructions - Crust
 

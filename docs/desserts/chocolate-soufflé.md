@@ -31,7 +31,7 @@ tags:
 
 - 1 7-inch or 1/2-quart soufflé mold
 - 1 skillet
-- 1 large rubber spatula
+- :spoon: 1 large rubber spatula
 
 ## :pencil: Instructions
 

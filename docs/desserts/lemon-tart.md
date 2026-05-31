@@ -27,14 +27,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 large bowl
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
 - 1 mixer fitted with the paddle attachment
 - 1 9-inch fluted tart pan with a removable bottom
 - 1 pot
 - 1 large metal bowl
 - 1 large whisk
-- 1 baking sheet
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

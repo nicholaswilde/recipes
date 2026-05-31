@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- large saucepan or Dutch oven
+- :shallow_pan_of_food: large saucepan or Dutch oven
 - 9" x 5" or 10" x 5" loaf pan
 - rack
 

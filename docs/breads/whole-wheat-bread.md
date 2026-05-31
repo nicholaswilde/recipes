@@ -26,11 +26,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 lightly greased bowl
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 lightly greased bowl
 - 1 8 1/2" x 4 1/2" loaf pan
-- 1 plastic wrap or a reusable cover
-- 1 aluminum foil
+- :package: 1 plastic wrap or a reusable cover
+- :page_facing_up: 1 aluminum foil
 
 ## :pencil: Instructions
 

@@ -39,9 +39,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 small mixing bowl or measuring cup
-- 1 lightly greased bowl
+- :shallow_pan_of_food: 1 small saucepan
+- :bowl_with_spoon: 1 small mixing bowl or measuring cup
+- :bowl_with_spoon: 1 lightly greased bowl
 - 1 9" x 5" loaf pan
 
 ## :pencil: Instructions - Tangzhong

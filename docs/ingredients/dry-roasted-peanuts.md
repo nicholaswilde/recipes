@@ -19,7 +19,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 
 ## :pencil: Instructions
 

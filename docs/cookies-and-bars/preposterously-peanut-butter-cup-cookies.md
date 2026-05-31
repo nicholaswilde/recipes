@@ -27,8 +27,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 2 baking sheets
-- 1 parchment paper
+- :cookie: 2 baking sheets
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

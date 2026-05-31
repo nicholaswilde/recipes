@@ -13,20 +13,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 cups granulated sugar
-- 1 12-oz can [evaporated milk][2]
-- 0.75 cup unsalted butter
+- :candy: 4 cups granulated sugar
+- :glass_of_milk: 1 12-oz can [evaporated milk][2]
+- :butter: 0.75 cup unsalted butter
 - 12 oz semisweet chocolate chips
 - 12 oz bittersweet chocolate chips
 - 1 7-oz jar marshmallow creme
-- 0.5 tsp peppermint extract
-- 1 cup crushed peppermint candies
+- :salt: 0.5 tsp peppermint extract
+- :salt: 1 cup crushed peppermint candies
 
 ## :cooking: Cookware
 
 - 1 13 x 9 inch pan
-- 1 foil
-- 1 large heavy saucepan
+- :page_facing_up: 1 foil
+- :shallow_pan_of_food: 1 large heavy saucepan
 
 ## :pencil: Instructions
 

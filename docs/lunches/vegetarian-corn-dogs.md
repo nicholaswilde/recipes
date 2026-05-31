@@ -30,9 +30,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large pot or dutch oven
+- :shallow_pan_of_food: 1 large pot or dutch oven
 - 1 drinking glass
-- 1 wire rack
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

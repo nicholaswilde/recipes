@@ -37,10 +37,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 stand mixer
-- 1 rolling pin
+- :gear: 1 stand mixer
+- :wood: 1 rolling pin
 - 1 3-inch doughnut cutter
-- 1 wire rack
+- :wastebasket: 1 wire rack
 - 1 paper towels
 - 1 large Dutch oven
 - 1 slotted spoon or wire skimmer

@@ -30,9 +30,9 @@ tags:
 
 - 1 paper towels
 - 1 plate
-- 1 baking sheets
-- 1 parchment paper
-- 1 medium bowl
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

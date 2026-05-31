@@ -34,15 +34,15 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 stand mixer
+- :shallow_pan_of_food: 1 small saucepan
+- :gear: 1 stand mixer
 - 1 lightly oiled bowl
-- 1 plastic wrap
-- 1 baking sheets
-- 1 parchment
-- 1 sharp knife or pizza cutter
+- :package: 1 plastic wrap
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment
+- :knife: 1 sharp knife or pizza cutter
 - 1 dish towel
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions - Dough
 

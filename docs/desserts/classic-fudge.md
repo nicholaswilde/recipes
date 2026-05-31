@@ -28,9 +28,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 - 1 13 X 9 inch pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

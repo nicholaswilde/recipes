@@ -29,8 +29,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 8 X 8 or 9 X 9 inch baking pan
-- 1 large bowl
-- 1 whisk or rubber spatula
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 whisk or rubber spatula
 
 ## :pencil: Instructions
 

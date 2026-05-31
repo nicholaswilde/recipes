@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 fork
-- 1 baking sheet
+- :bowl_with_spoon: 1 large bowl
+- :knife: 1 fork
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

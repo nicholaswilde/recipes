@@ -29,10 +29,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 x 3-inch baking pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 bowl
 - 1 electric mixer
-- 1 wooden spoon or spatula
+- :spoon: 1 wooden spoon or spatula
 
 ## :pencil: Instructions
 

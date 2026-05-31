@@ -31,10 +31,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 glass measuring cup
-- 1 small bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 cooling rack
 
 ## :pencil: Instructions

@@ -24,7 +24,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large saucepan
+- :shallow_pan_of_food: 1 large saucepan
 - 1 9 x 13" casserole dish
 
 ## :pencil: Instructions

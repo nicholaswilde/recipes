@@ -25,12 +25,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 fridge
 - 1 tablespoon
-- 1 airtight container
+- :package: 1 airtight container
 - 1 fridge
-- 1 freezer
+- :snowflake: 1 freezer
 
 ## :pencil: Instructions
 

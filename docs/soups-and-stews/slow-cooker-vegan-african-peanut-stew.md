@@ -33,7 +33,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 slow cooker
-- 1 immersion blender
+- :gear: 1 immersion blender
 
 ## :pencil: Instructions
 

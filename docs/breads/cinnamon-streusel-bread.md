@@ -52,13 +52,13 @@ tags:
 ## :cooking: Cookware
 
 - 1 1 pound loaf pan
-- 1 parchment paper
-- 1 small bowl
-- 1 stand mixer
-- 1 rubber spatula
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 small bowl
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
 - 1 butter knife
-- 1 wire rack
-- 1 small bowl
+- :wastebasket: 1 wire rack
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

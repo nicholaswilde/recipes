@@ -35,12 +35,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-by-13-inch baking pan
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 bowl of an electric mixer
 - 1 paddle attachment
-- 1 wire rack
-- 1 cutting board
-- 1 sharp knife
+- :wastebasket: 1 wire rack
+- :wood: 1 cutting board
+- :knife: 1 sharp knife
 
 ## :pencil: Instructions
 

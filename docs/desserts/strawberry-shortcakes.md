@@ -36,17 +36,17 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
-- 1 parchment paper
-- 1 medium bowl
+- :cookie: 1 rimmed baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
 - 1 1/3-cup dry measuring cup
 - 1 vegetable oil spray
 - 1 spoon
 - 1 butter knife
-- 1 wire rack
-- 1 medium bowl
-- 1 potato masher
-- 1 small bowl
+- :wastebasket: 1 wire rack
+- :bowl_with_spoon: 1 medium bowl
+- :spoon: 1 potato masher
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions - Shortcake
 

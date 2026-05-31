@@ -26,9 +26,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor or blender
-- 1 small bowls
-- 1 small spoons
+- :gear: 1 food processor or blender
+- :bowl_with_spoon: 1 small bowls
+- :spoon: 1 small spoons
 
 ## :pencil: Instructions
 

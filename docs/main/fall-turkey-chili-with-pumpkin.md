@@ -24,14 +24,14 @@ tags:
 - 2 cans pumpkin
 - 1 can kidney beans
 - 0.5 can corn
-- 1 cup sour cream
+- :baby_bottle: 1 cup sour cream
 - 0.5 cup cheese
 - :avocado: 1 avocado
 - 1 pkg cilantro
 
 ## :cooking: Cookware
 
-- 1 large saucepan
+- :shallow_pan_of_food: 1 large saucepan
 - 1 spoon
 
 ## :pencil: Instructions

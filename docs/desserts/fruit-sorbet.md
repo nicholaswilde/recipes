@@ -26,7 +26,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 sauce pan
-- 1 food processor
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 

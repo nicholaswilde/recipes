@@ -38,8 +38,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl or extra large (6-quart) dough rising bucket
-- 1 parchment paper
+- :bowl_with_spoon: 1 large bowl or extra large (6-quart) dough rising bucket
+- :page_facing_up: 1 parchment paper
 - 1 Dutch ovens
 
 ## :pencil: Instructions

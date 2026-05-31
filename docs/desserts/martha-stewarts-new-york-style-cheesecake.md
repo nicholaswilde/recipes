@@ -62,11 +62,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 10-inch springform pan
-- 1 foil
-- 1 food processor
-- 1 baking sheet
-- 1 wire rack
-- 1 large bowl
+- :page_facing_up: 1 foil
+- :gear: 1 food processor
+- :cookie: 1 baking sheet
+- :wastebasket: 1 wire rack
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

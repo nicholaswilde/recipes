@@ -23,7 +23,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 8 inch square pan
-- 1 foil
+- :page_facing_up: 1 foil
 - 1 double boiler
 
 ## :pencil: Instructions

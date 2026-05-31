@@ -35,10 +35,10 @@ By weight:
 ## :cooking: Cookware
 
 - 1 electric mixer
-- 1 medium bowl
-- 1 ungreased baking sheet
-- 1 parchment paper
-- 1 wooden spoon
+- :bowl_with_spoon: 1 medium bowl
+- :cookie: 1 ungreased baking sheet
+- :page_facing_up: 1 parchment paper
+- :spoon: 1 wooden spoon
 - 1 glass bowl
 
 ## :pencil: Instructions

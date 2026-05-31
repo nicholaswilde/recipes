@@ -32,9 +32,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 - 1 9x13-inch baking dish
-- 1 mixing bowl
+- :bowl_with_spoon: 1 mixing bowl
 
 ## :pencil: Instructions
 

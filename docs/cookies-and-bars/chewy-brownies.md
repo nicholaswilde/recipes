@@ -33,7 +33,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 9x13 pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

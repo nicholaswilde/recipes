@@ -42,12 +42,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 sheet pan
-- 1 parchment paper
-- 1 heavy medium saucepan
-- 1 wooden spoon or heat-resistant spatula
+- :page_facing_up: 1 parchment paper
+- :shallow_pan_of_food: 1 heavy medium saucepan
+- :spoon: 1 wooden spoon or heat-resistant spatula
 - 1 sheet pan
 - 1 plastic bag
-- 1 shallow medium bowl
+- :bowl_with_spoon: 1 shallow medium bowl
 - 1 large cast-iron griddle
 - 1 sheet pan
 

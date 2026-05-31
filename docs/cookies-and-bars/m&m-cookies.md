@@ -31,9 +31,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 stand mixer
-- 1 rubber spatula or wooden spoon
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula or wooden spoon
 
 ## :pencil: Instructions
 

@@ -33,7 +33,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
+- :gear: 1 food processor
 - 1 pan
 
 ## :pencil: Instructions

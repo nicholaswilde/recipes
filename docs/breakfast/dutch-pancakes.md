@@ -28,7 +28,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender or mixer
+- :gear: 1 blender or mixer
 - 1 frying pan
 
 ## :pencil: Instructions

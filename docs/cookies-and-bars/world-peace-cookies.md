@@ -29,10 +29,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 baking sheets
-- 1 parchment paper or silicone baking mats
-- 1 sharp knife
+- :gear: 1 stand mixer
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment paper or silicone baking mats
+- :knife: 1 sharp knife
 
 ## :pencil: Instructions
 

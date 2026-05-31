@@ -25,9 +25,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 large bowl
-- 1 plastic wrap
-- 1 12 x 12 parchment paper
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 plastic wrap
+- :page_facing_up: 1 12 x 12 parchment paper
 - 1 Dutch oven
 
 ## :pencil: Instructions

@@ -34,7 +34,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 kitchen towel or paper
-- 1 blender
+- :gear: 1 blender
 - 1 large frying pan
 
 ## :pencil: Instructions

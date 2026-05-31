@@ -31,7 +31,7 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 hand blender
+- :gear: 1 hand blender
 
 ## :pencil: Instructions
 

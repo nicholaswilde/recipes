@@ -29,12 +29,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 13 x 9 inch pan
-- 1 silicone liner or heavy-duty aluminum foil
-- 1 large heavy saucepan
-- 1 pastry brush
-- 1 wooden spoon
-- 1 offset spatula
-- 1 wax paper
+- :page_facing_up: 1 silicone liner or heavy-duty aluminum foil
+- :shallow_pan_of_food: 1 large heavy saucepan
+- :paintbrush: 1 pastry brush
+- :spoon: 1 wooden spoon
+- :spoon: 1 offset spatula
+- :page_facing_up: 1 wax paper
 
 ## :pencil: Instructions
 

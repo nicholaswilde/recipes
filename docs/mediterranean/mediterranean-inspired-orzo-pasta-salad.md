@@ -37,8 +37,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large pot
-- 1 mixing bowl
+- :shallow_pan_of_food: 1 large pot
+- :bowl_with_spoon: 1 mixing bowl
 
 ## :pencil: Instructions
 

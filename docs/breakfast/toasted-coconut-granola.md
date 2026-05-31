@@ -27,8 +27,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 rimmed baking sheet
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 rimmed baking sheet
 
 ## :pencil: Instructions
 

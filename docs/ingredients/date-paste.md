@@ -13,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 cups water
-- 12 oz Medjool dates
+- :droplet: 4 cups water
+- :grapes: 12 oz Medjool dates
 
 ## :cooking: Cookware
 
 - 1 pot
 - 1 4 cup glass measuring cup
-- 1 high speed blender
+- :gear: 1 high speed blender
 
 ## :pencil: Instructions
 

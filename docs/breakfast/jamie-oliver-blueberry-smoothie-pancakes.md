@@ -31,7 +31,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 pan
 
 ## :pencil: Instructions

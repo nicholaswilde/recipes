@@ -42,9 +42,9 @@ tags:
 
 - 1 6-ounce muffin cups
 - 1 paper muffin liners
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 paddle attachment
-- 1 small saucepan
+- :shallow_pan_of_food: 1 small saucepan
 - 1 pastry bag
 - 1 paring knife
 

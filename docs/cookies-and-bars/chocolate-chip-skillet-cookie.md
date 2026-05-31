@@ -34,7 +34,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 10 inch cast iron skillet
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 large mixing bowl
 
 ## :pencil: Instructions
 

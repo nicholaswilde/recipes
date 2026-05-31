@@ -30,8 +30,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large saucepan
-- 1 small bowl
+- :shallow_pan_of_food: 1 large saucepan
+- :bowl_with_spoon: 1 small bowl
 - 1 whisk
 
 ## :pencil: Instructions

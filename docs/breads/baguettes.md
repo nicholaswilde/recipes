@@ -28,11 +28,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 medium-sized bowl
 - 1 cast iron pan
 - 1 dish towel or couche
-- 1 parchment
+- :page_facing_up: 1 parchment
 - 1 baker's lame
 
 ## :pencil: Instructions - Starter

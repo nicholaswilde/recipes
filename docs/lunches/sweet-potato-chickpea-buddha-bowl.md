@@ -44,9 +44,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 large skillet
-- 1 mixing bowl
+- :bowl_with_spoon: 1 mixing bowl
 
 ## :pencil: Instructions
 

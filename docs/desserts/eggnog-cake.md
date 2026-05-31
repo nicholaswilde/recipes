@@ -14,14 +14,14 @@ tags:
 ## :salt: Ingredients
 
 - 1 pkg yellow cake mix
-- 2 Tbsp rum
+- :tumbler_glass: 2 Tbsp rum
 - 1 cup eggnog
-- 0.25 cup vegetable oil
-- 1 can whipped cream
+- :olive: 0.25 cup vegetable oil
+- :glass_of_milk: 1 can whipped cream
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 8-in square greased pans
 
 ## :pencil: Instructions

@@ -34,12 +34,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 plastic wrap
+- :gear: 1 stand mixer
+- :package: 1 plastic wrap
 - 1 large (3 1/2") star cutter
-- 1 parchment
-- 1 baking sheets
-- 1 medium bowl
+- :page_facing_up: 1 parchment
+- :cookie: 1 baking sheets
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions - Shortbread
 

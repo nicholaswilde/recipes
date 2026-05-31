@@ -36,13 +36,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheets
-- 1 food processor
+- :cookie: 1 baking sheets
+- :gear: 1 food processor
 - 2 bowls
-- 1 rubber spatula
+- :spoon: 1 rubber spatula
 - 1 number 60 scoop or tablespoon measure
-- 1 prepared baking sheet
-- 1 wire rack
+- :cookie: 1 prepared baking sheet
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions - Cookies
 

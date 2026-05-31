@@ -25,9 +25,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper or aluminum foil
-- 1 large bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper or aluminum foil
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

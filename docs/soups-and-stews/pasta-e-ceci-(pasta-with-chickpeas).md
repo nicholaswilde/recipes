@@ -27,7 +27,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 
 ## :pencil: Instructions
 

@@ -25,9 +25,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 bowl
-- 1 plastic wrap
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

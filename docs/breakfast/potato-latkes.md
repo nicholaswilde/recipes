@@ -27,11 +27,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
+- :gear: 1 food processor
 - 1 dishtowel
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 heavy-bottomed pan
-- 1 spatula
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

@@ -39,9 +39,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 colander
-- 1 large bowl
-- 1 small bowl
-- 1 small bowl
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 - 1 serving platter
 
 ## :pencil: Instructions

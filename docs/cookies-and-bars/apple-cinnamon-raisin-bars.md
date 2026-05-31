@@ -31,8 +31,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 X 13 pan
-- 1 medium bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

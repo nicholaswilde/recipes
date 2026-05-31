@@ -23,7 +23,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rubber spatula
+- :spoon: 1 rubber spatula
 
 ## :pencil: Instructions
 

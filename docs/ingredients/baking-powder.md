@@ -22,9 +22,9 @@ tags:
 
 ## :cooking: Cookware
 
-- small bowl or sifter
+- :bowl_with_spoon: small bowl or sifter
 - whisk
-- airtight container
+- :package: airtight container
 
 ## :pencil: Instructions
 

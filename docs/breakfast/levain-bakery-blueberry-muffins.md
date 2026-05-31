@@ -29,12 +29,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 small liquid measuring cup
-- 1 stand mixer
-- 1 rubber spatula
-- 1 plastic wrap
-- 1 offset spatula
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
+- :package: 1 plastic wrap
+- :spoon: 1 offset spatula
 
 ## :pencil: Instructions
 

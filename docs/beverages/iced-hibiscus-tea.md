@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large saucepan
+- :shallow_pan_of_food: 1 large saucepan
 - 1 pitcher
 - 1 tall
 

@@ -24,9 +24,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheet
-- 1 parchment paper
-- 1 large bowl
+- :cookie: 1 large baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

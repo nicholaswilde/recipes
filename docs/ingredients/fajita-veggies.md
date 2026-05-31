@@ -16,7 +16,7 @@ tags:
 
 ## :salt: Ingredients
 
-- ::sunflower: 0.25 cup sunflower oil
+- :olive: ::sunflower: 0.25 cup sunflower oil
 - :bell_pepper: 2 large green peppers
 - :onion: 1 large red onions
 - :herb: 0.5 tsp oregano

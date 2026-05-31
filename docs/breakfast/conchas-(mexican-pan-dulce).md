@@ -37,8 +37,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 large bowl
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 large bowl
 - 1 clean kitchen towel
 - 1 food coloring gel
 - 1 knife

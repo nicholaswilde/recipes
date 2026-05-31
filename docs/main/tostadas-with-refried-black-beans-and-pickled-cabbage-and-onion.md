@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 potato masher or the back of a fork
-- 1 baking sheet
+- :shallow_pan_of_food: 1 medium saucepan
+- :spoon: 1 potato masher or the back of a fork
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

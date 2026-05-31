@@ -31,9 +31,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch pie plate
-- 1 fork
-- 1 small bowl
-- 1 pastry brush
+- :knife: 1 fork
+- :bowl_with_spoon: 1 small bowl
+- :paintbrush: 1 pastry brush
 
 ## :pencil: Instructions
 

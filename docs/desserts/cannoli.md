@@ -29,11 +29,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
+- :gear: 1 food processor
 - 1 lightly oiled bowl
-- 1 large pot or Dutch oven
+- :shallow_pan_of_food: 1 large pot or Dutch oven
 - 1 4 inch cookie cutter
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 hand mixer
 
 ## :pencil: Instructions

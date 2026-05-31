@@ -51,7 +51,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 9" x 13" pan
-- 1 parchment
+- :page_facing_up: 1 parchment
 - 1 bowl
 - 1 9" x 13" pan
 

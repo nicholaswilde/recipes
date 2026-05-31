@@ -23,7 +23,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender or food processor
+- :gear: 1 blender or food processor
 
 ## :pencil: Instructions
 

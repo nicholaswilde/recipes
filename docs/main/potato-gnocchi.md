@@ -24,11 +24,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 fork
+- :knife: 1 fork
 - 1 potato ricer or sieve
 - 1 spoon
-- 1 large pot
-- 1 baking sheet
+- :shallow_pan_of_food: 1 large pot
+- :cookie: 1 baking sheet
 - 1 slotted spoon or skimmer
 - 1 wide bowl
 

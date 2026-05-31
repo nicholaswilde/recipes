@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 cookie sheets
 
 ## :pencil: Instructions

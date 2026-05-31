@@ -23,10 +23,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 parchment
-- 1 baking sheet
-- 1 food processor
-- 1 spatula
+- :page_facing_up: 1 parchment
+- :cookie: 1 baking sheet
+- :gear: 1 food processor
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

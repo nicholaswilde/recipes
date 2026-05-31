@@ -34,7 +34,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium mixing bowl
+- :bowl_with_spoon: 1 medium mixing bowl
 
 ## :pencil: Instructions
 

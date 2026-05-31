@@ -40,14 +40,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer or large mixing bowl
+- :bowl_with_spoon: 1 stand mixer or large mixing bowl
 - 1 paddle attachment
 - 1 dough hook
 - 1 greased bowl
-- 1 small bowl
-- unscented dental floss or a very sharp knife
+- :bowl_with_spoon: 1 small bowl
+- :knife: unscented dental floss or a very sharp knife
 - 1 9x13-inch baking pan
-- parchment paper
+- :page_facing_up: parchment paper
 
 ## :pencil: Instructions - Dough
 

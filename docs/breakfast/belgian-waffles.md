@@ -30,9 +30,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 waffle iron
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 large
-- 1 plastic wrap
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

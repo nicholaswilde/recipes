@@ -33,7 +33,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large pot
+- :shallow_pan_of_food: 1 large pot
 - 1 large nonstick or cast-iron pan
 - 1 small baking dish
 

@@ -16,8 +16,8 @@ tags:
 ## :salt: Ingredients
 
 - 1.5 cups dark molasses
-- 1 cup brown sugar
-- 0.67 cup cold water
+- :candy: 1 cup brown sugar
+- :droplet: 0.67 cup cold water
 - 0.33 cup vegetable shortening
 
 ## :cooking: Cookware

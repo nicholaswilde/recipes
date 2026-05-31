@@ -23,9 +23,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 1/2 gallon glass or ceramic container
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 1 quart zipper-lock bag
 - 1 cheesecloth
 - 1 rubber band

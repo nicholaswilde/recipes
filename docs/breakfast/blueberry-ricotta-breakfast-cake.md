@@ -32,8 +32,8 @@ tags:
 
 - 1 9-inch round springform pan
 - 1 bowl of an electric mixer
-- 1 small bowl
-- 1 wire rack
+- :bowl_with_spoon: 1 small bowl
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

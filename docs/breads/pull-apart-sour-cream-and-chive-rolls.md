@@ -70,15 +70,15 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 stand mixer
-- 1 large bowl
-- 1 plastic wrap or a silicone lid
+- :shallow_pan_of_food: 1 small saucepan
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 plastic wrap or a silicone lid
 - 1 13 x 9 pan
 - 1 wheel cutter or bench scraper
-- 1 fork
-- 1 small bowl
-- 1 knife or an offset spatula
+- :knife: 1 fork
+- :bowl_with_spoon: 1 small bowl
+- :spoon: 1 knife or an offset spatula
 
 ## :calendar: Baking Schedule
 

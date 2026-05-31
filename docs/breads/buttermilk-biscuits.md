@@ -27,11 +27,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 food processor
-- 1 large bowl
-- 1 rubber spatula
-- 1 rolling pin
+- :bowl_with_spoon: 1 small bowl
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 rubber spatula
+- :wood: 1 rolling pin
 - 1 bench scraper
 
 ## :pencil: Instructions

@@ -46,11 +46,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 tall sauté pan
 - 1 slotted spoon
-- 1 parchment
-- 1 wire rack
+- :page_facing_up: 1 parchment
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions - Dough
 

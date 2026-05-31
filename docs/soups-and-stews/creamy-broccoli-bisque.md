@@ -60,7 +60,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 immersion blender
+- :gear: 1 immersion blender
 - 1 large soup kettle
 
 ## :pencil: Instructions

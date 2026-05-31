@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 5 x 9 loaf pans
+- :cookie: 1 5 x 9 loaf pans
 - 1 electric mixer
 
 ## :pencil: Instructions

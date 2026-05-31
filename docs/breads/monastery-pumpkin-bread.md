@@ -30,7 +30,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 loaf pans
+- :cookie: 1 loaf pans
 
 ## :pencil: Instructions
 

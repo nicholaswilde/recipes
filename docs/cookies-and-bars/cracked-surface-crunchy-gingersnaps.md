@@ -32,11 +32,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 heavy-duty mixer
-- 1 medium mixing bowl
-- 1 baking sheet
-- 1 release foil
+- :bowl_with_spoon: 1 medium mixing bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 release foil
 - 1 non-stick cooking spray
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

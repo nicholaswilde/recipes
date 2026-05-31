@@ -43,8 +43,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 9x13 baking dish
-- 1 parchment or foil
-- 1 spatula
+- :page_facing_up: 1 parchment or foil
+- :spoon: 1 spatula
 
 ## :pencil: Instructions - Brownies
 

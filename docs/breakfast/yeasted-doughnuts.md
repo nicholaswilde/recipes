@@ -43,21 +43,21 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheets
-- 1 wire racks
+- :cookie: 1 large baking sheets
+- :wastebasket: 1 wire racks
 - 1 3 inch round cutter
 - 1 1 inch round cutter
 - 1 Dutch oven
-- 1 stand mixer
-- 1 rubber spatula
-- 1 plastic wrap
-- 1 large bowl
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
+- :package: 1 plastic wrap
+- :bowl_with_spoon: 1 large bowl
 - 1 loaf pan
-- 1 rimmed baking sheet
-- 1 parchment paper
+- :cookie: 1 rimmed baking sheet
+- :page_facing_up: 1 parchment paper
 - 1 spider skimmer
-- 1 blender
-- 1 fine-mesh strainer
+- :gear: 1 blender
+- :wastebasket: 1 fine-mesh strainer
 
 !!! note
     You'll need two large baking sheets and two wire racks for this recipe. You'll also need 3 inch round cutter and 1

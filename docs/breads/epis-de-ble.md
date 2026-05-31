@@ -31,15 +31,15 @@ tags:
 ## :cooking: Cookware
 
 - 1 bread machine
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 medium-sized bowl
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 scissors
 - 1 sheet pan or pans
 - 1 cast iron pan
 - 1 baking stone
 - 1 baker's peel
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 rack
 
 ## :pencil: Instructions

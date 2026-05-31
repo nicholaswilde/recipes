@@ -27,8 +27,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 hand mixer or stand mixer
+- :bowl_with_spoon: 1 large bowl
+- :gear: 1 hand mixer or stand mixer
 - 1 medium-sized pitcher
 
 ## :pencil: Instructions - Whipped Cream

@@ -21,7 +21,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 10-inch nonstick skillet
-- 1 spatulas
+- :spoon: 1 spatulas
 - 1 paper towels
 
 ## :pencil: Instructions

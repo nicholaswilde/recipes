@@ -27,8 +27,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 baking sheet
+- :shallow_pan_of_food: 1 medium saucepan
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

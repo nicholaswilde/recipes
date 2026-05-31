@@ -27,7 +27,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

@@ -13,21 +13,21 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 eggs
-- 0.5 cup all-purpose flour
-- 0.5 cup milk
-- 1 Tbsp sugar
+- :egg: 3 eggs
+- :bread: 0.5 cup all-purpose flour
+- :glass_of_milk: 0.5 cup milk
+- :candy: 1 Tbsp sugar
 - 1 pinch nutmeg
-- 4 Tbsp unsalted butter
+- :butter: 4 Tbsp unsalted butter
 - some syrup
 - some preserves
-- some confectioner's sugar
-- some cinnamon sugar
+- :candy: some confectioner's sugar
+- :candy: some cinnamon sugar
 
 ## :cooking: Cookware
 
 - 1 oven
-- 1 blender
+- :gear: 1 blender
 - 1 skillet
 - 1 baking
 

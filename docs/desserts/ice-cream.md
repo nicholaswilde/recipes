@@ -27,9 +27,9 @@ tags:
 - 1 bowl
 - 1 fine-mesh sieve
 - 1 bowl
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 - 1 zip-top bag
-- 1 food processor
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 

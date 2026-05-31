@@ -34,7 +34,7 @@ tags:
 
 - 1 6 to 8 cups (1.5 - 2 L) baking dish
 - 1 separate bowl
-- 1 potato masher or slotted spoon
+- :spoon: 1 potato masher or slotted spoon
 
 ## :pencil: Instructions
 

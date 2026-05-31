@@ -46,11 +46,11 @@ tags:
 
 - 1 bowl
 - 1 baking trays
-- 1 parchment paper
-- 1 plastic wrap
-- 1 large saucepan
-- 1 potato masher
-- 1 piping bag
+- :page_facing_up: 1 parchment paper
+- :package: 1 plastic wrap
+- :shallow_pan_of_food: 1 large saucepan
+- :spoon: 1 potato masher
+- :package: 1 piping bag
 
 ## :pencil: Instructions
 

@@ -40,9 +40,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
+- :gear: 1 food processor
 - 1 bowl
-- 1 immersion blender
+- :gear: 1 immersion blender
 - 1 skillet
 
 ## :pencil: Instructions

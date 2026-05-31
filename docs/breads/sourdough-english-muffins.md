@@ -48,9 +48,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 lightly greased bowl
-- 1 baking sheets
-- 1 plastic wrap
+- :bowl_with_spoon: 1 lightly greased bowl
+- :cookie: 1 baking sheets
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

@@ -24,11 +24,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 plastic wrap
-- 1 parchment
-- 1 rolling pin
-- 1 baking sheet
-- 1 fork
+- :package: 1 plastic wrap
+- :page_facing_up: 1 parchment
+- :wood: 1 rolling pin
+- :cookie: 1 baking sheet
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

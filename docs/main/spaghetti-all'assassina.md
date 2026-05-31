@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 12-inch nonstick skillet
-- 1 long-handled rubber spatula
-- 1 thin spatulas
+- :spoon: 1 long-handled rubber spatula
+- :spoon: 1 thin spatulas
 
 ## :pencil: Instructions
 

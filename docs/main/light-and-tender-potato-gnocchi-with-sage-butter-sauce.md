@@ -26,12 +26,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 wire rack
+- :wastebasket: 1 wire rack
 - 1 tongs
 - 1 spoon
 - 1 ricer or food mill
-- 1 pastry blender or bench scraper
-- 1 large pot
+- :gear: 1 pastry blender or bench scraper
+- :shallow_pan_of_food: 1 large pot
 - 1 large skillet
 
 ## :pencil: Instructions

@@ -29,8 +29,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
-- 1 potato masher
+- :shallow_pan_of_food: 1 saucepan
+- :spoon: 1 potato masher
 
 ## :pencil: Instructions
 

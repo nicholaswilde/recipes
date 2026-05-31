@@ -32,7 +32,7 @@ tags:
 
 - 1 small nonstick or cast-iron pan
 - 1 large nonstick or cast-iron pan
-- 1 high-speed blender
+- :gear: 1 high-speed blender
 
 ## :pencil: Instructions
 

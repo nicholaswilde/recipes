@@ -41,9 +41,9 @@ tags:
 - 1 plate
 - 1 paper towels
 - 1 large cast-iron pan
-- 1 high-speed blender
-- 1 fine-mesh strainer
-- 1 large pot
+- :gear: 1 high-speed blender
+- :wastebasket: 1 fine-mesh strainer
+- :shallow_pan_of_food: 1 large pot
 - 1 sealed container
 
 ## :pencil: Instructions

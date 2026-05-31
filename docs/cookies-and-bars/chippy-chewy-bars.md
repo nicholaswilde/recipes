@@ -27,8 +27,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 13 X 9 X 2-inch baking pan
-- 1 fork
-- 1 wire rack
+- :knife: 1 fork
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

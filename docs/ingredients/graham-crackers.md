@@ -31,11 +31,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
+- :gear: 1 food processor
 - 1 plastic
-- 1 parchment
+- :page_facing_up: 1 parchment
 - 1 pizza cutter
-- 1 fork
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

@@ -38,11 +38,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
-- 1 small saucepan
-- 1 fine-mesh strainer
-- 1 rubber spatula
-- 1 stick blender
+- :shallow_pan_of_food: 1 saucepan
+- :shallow_pan_of_food: 1 small saucepan
+- :wastebasket: 1 fine-mesh strainer
+- :spoon: 1 rubber spatula
+- :gear: 1 stick blender
 
 ## :pencil: Instructions
 

@@ -20,8 +20,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 foil
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 

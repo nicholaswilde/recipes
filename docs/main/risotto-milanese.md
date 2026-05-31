@@ -30,8 +30,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
-- 1 large heavy saucepan
+- :shallow_pan_of_food: 1 saucepan
+- :shallow_pan_of_food: 1 large heavy saucepan
 
 ## :pencil: Instructions
 

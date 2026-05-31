@@ -37,12 +37,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 regular-size muffin pan
-- 1 baking sheet
-- 1 large bowl
+- :cookie: 1 baking sheet
+- :bowl_with_spoon: 1 large bowl
 - 1 large glass measuring cup or another bowl
-- 1 whisk or a rubber spatula
+- :spoon: 1 whisk or a rubber spatula
 - 1 cooling rack
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions - Muffins
 

@@ -28,9 +28,9 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 heavy-bottomed medium saucepan
+- :shallow_pan_of_food: 1 heavy-bottomed medium saucepan
 - 1 heat-proof container
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 serving bowls (optional)
 
 ## :pencil: Instructions

@@ -22,7 +22,7 @@ tags:
 
 - 1 spice grinder
 - 1 mortar and pestle
-- 1 airtight container
+- :package: 1 airtight container
 
 ## :pencil: Instructions
 

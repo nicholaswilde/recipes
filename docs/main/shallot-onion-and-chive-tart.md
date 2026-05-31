@@ -41,11 +41,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 large frying pan
 - 1 23 cm loose-based fluted tart tin
-- 1 fork
-- 1 baking parchment or foil
+- :knife: 1 fork
+- :page_facing_up: 1 baking parchment or foil
 - 1 baking beans, or uncooked rice or lentils
 
 ## :pencil: Instructions - Shortcrust Pastry

@@ -27,8 +27,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 wire rack
-- 1 rimmed baking sheet
+- :wastebasket: 1 wire rack
+- :cookie: 1 rimmed baking sheet
 - 1 box grater
 - 1 clean dish towel
 - 1 12 inch nonstick skillet

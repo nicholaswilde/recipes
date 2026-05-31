@@ -30,7 +30,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mixing bowl
+- :bowl_with_spoon: 1 mixing bowl
 
 ## :pencil: Instructions
 

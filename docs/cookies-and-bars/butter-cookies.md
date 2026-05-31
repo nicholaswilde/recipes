@@ -28,12 +28,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheets
-- 1 parchment paper or silicone baking mats
-- 1 large bowl
-- 1 handheld mixer or a stand mixer
+- :cookie: 1 large baking sheets
+- :page_facing_up: 1 parchment paper or silicone baking mats
+- :bowl_with_spoon: 1 large bowl
+- :gear: 1 handheld mixer or a stand mixer
 - 1 large piping tip
-- 1 piping bag
+- :package: 1 piping bag
 
 ## :pencil: Instructions
 

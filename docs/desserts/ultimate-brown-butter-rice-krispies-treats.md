@@ -26,9 +26,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 8" square pan
-- 1 parchment
-- 1 large saucepan
-- 1 flexible spatula
+- :page_facing_up: 1 parchment
+- :shallow_pan_of_food: 1 large saucepan
+- :spoon: 1 flexible spatula
 
 ## :pencil: Instructions
 

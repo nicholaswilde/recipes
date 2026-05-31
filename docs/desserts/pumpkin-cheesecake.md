@@ -39,8 +39,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 cake pan
-- 1 small bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

@@ -39,8 +39,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mixing bowl
-- 1 fork
+- :bowl_with_spoon: 1 mixing bowl
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

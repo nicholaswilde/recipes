@@ -33,12 +33,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 medium pot
-- 1 heatproof spatula
-- 1 large bowl
+- :spoon: 1 heatproof spatula
+- :bowl_with_spoon: 1 large bowl
 - 1 whisk
-- 1 plastic wrap
-- 1 rubber spatula
-- 1 piping bag
+- :package: 1 plastic wrap
+- :spoon: 1 rubber spatula
+- :package: 1 piping bag
 - 1 nonstick mini madeleine pan
 
 ## :pencil: Instructions - Day 1: Make Batter

@@ -25,9 +25,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 x 13" pan
-- 1 foil
+- :page_facing_up: 1 foil
 - 1 cooking spray
-- 1 2 quart saucepan
+- :shallow_pan_of_food: 1 2 quart saucepan
 - 1 casserole pan
 
 ## :pencil: Instructions

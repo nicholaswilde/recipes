@@ -23,8 +23,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 plastic wrap
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 plastic wrap
 - 1 griddle or skillet
 - 1 kitchen tongs
 

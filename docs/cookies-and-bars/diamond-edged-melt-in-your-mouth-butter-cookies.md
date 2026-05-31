@@ -30,10 +30,10 @@ tags:
 
 - 1 heavy-duty mixer
 - 1 paddle attachment
-- 1 wax paper
-- 1 plastic wrap
-- 1 heavy baking sheet
-- 1 release foil or parchment
+- :page_facing_up: 1 wax paper
+- :package: 1 plastic wrap
+- :cookie: 1 heavy baking sheet
+- :page_facing_up: 1 release foil or parchment
 - 1 non-stick cooking spray
 
 ## :pencil: Instructions

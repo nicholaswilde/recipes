@@ -35,8 +35,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 waffle iron
-- 1 medium bowl
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

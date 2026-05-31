@@ -28,10 +28,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large pot
+- :shallow_pan_of_food: 1 large pot
 - 1 bowl
 - 1 whisk
-- 1 plastic wrap
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

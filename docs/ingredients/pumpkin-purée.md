@@ -20,9 +20,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper
-- 1 food processor
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :gear: 1 food processor
 - 1 fine mesh strainer or cheesecloth
 
 ## :pencil: Instructions

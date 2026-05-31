@@ -47,8 +47,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 wooden spoon
+- :bowl_with_spoon: 1 medium bowl
+- :spoon: 1 wooden spoon
 - 1 large griddle or pan
 
 ## :pencil: Instructions

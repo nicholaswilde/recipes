@@ -39,11 +39,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 fork
-- 1 plastic wrap
-- 1 large bowl
-- 1 greased rimmed baking sheet
-- 1 wire rack
+- :knife: 1 fork
+- :package: 1 plastic wrap
+- :bowl_with_spoon: 1 large bowl
+- :cookie: 1 greased rimmed baking sheet
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

@@ -28,10 +28,10 @@ tags:
 
 ## :cooking: Cookware
 
-- small saucepan
+- :shallow_pan_of_food: small saucepan
 - fine-mesh sieve
 - glass bowl or jar
-- blender or food processor
+- :gear: blender or food processor
 
 ## :pencil: Instructions
 

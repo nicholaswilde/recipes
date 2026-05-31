@@ -34,13 +34,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 large bowl
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
 - 1 measuring cup
-- 1 plastic wrap
-- 1 rimmed baking sheet
-- 1 parchment paper
-- 1 wire rack
+- :package: 1 plastic wrap
+- :cookie: 1 rimmed baking sheet
+- :page_facing_up: 1 parchment paper
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

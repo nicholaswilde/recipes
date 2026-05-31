@@ -26,8 +26,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 8 inch square pan
-- 1 foil
-- 1 small saucepan
+- :page_facing_up: 1 foil
+- :shallow_pan_of_food: 1 small saucepan
 
 ## :pencil: Instructions
 

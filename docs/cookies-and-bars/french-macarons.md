@@ -37,18 +37,18 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 large bowl
-- 1 plastic wrap
-- 1 large heavy saucepan
+- :gear: 1 food processor
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 plastic wrap
+- :shallow_pan_of_food: 1 large heavy saucepan
 - 1 very clean bowl
 - 1 electric mixer
-- 1 piping bag
+- :package: 1 piping bag
 - 1 medium round piping tip (around 1 cm in diameter)
-- 1 baking sheet
-- 1 parchment paper
-- 1 toothpick
-- 1 medium saucepan
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :knife: 1 toothpick
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 stand-mixer
 
 ## :pencil: Instructions - Macarons

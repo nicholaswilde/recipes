@@ -27,8 +27,8 @@ tags:
 
 - 1 9" x 13" pan
 - 1 heavy medium sauce pan
-- 1 spatula or wooden spoon
-- 1 wax paper
+- :spoon: 1 spatula or wooden spoon
+- :page_facing_up: 1 wax paper
 
 ## :pencil: Instructions
 

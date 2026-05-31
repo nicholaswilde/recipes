@@ -29,8 +29,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 baking sheet
+- :gear: 1 food processor
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

@@ -39,10 +39,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 stand mixer
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 stand mixer
 - 1 dough hook
-- 1 rolling pin
+- :wood: 1 rolling pin
 - 1 bowl
 - 1 instant-read thermometer
 

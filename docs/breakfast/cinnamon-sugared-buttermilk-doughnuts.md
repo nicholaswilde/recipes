@@ -30,18 +30,18 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 2-cup liquid measuring cup
-- 1 wooden spoon or rubber spatula
+- :spoon: 1 wooden spoon or rubber spatula
 - 1 large Dutch oven
-- 1 rimmed baking sheet
-- 1 parchment paper
-- 1 rolling pin
+- :cookie: 1 rimmed baking sheet
+- :page_facing_up: 1 parchment paper
+- :wood: 1 rolling pin
 - 1 doughnut cutter
-- 1 wire rack
+- :wastebasket: 1 wire rack
 - 1 paper towels
 - 1 spider skimmer
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large pot
+- :shallow_pan_of_food: 1 large pot
 - 1 large straight-sided skillet
 
 ## :pencil: Instructions

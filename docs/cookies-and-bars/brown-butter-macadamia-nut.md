@@ -31,13 +31,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 flexible spatula
-- 1 small saucepan or skillet
-- 1 heatproof spatula
+- :spoon: 1 flexible spatula
+- :shallow_pan_of_food: 1 small saucepan or skillet
+- :spoon: 1 heatproof spatula
 - 1 medium heatproof bowl
-- 1 baking sheets
-- 1 parchment paper
-- 1 wire rack
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment paper
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

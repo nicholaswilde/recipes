@@ -15,27 +15,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.5 cup granulated sugar
-- 0.5 cup brown sugar
-- 0.5 cup unsalted butter
-- 2 eggs
-- 1 tsp vanilla
-- 0.5 tsp peppermint extract
+- :candy: 0.5 cup granulated sugar
+- :candy: 0.5 cup brown sugar
+- :butter: 0.5 cup unsalted butter
+- :egg: 2 eggs
+- :flower_playing_cards: 1 tsp vanilla
+- :salt: 0.5 tsp peppermint extract
 - 0.5 tsp instant espresso coffee powder
 - 0.33 cup unsweetened cocoa powder
-- 1 tsp baking soda
-- 0.25 tsp salt
-- 1.66 cups all-purpose flour
+- :chestnut: 1 tsp baking soda
+- :salt: 0.25 tsp salt
+- :bread: 1.66 cups all-purpose flour
 - 4 oz bittersweet chocolate
-- 1 Peppermint Buttercream
-- some peppermint candies (optional)
+- :butter: 1 Peppermint Buttercream
+- :salt: some peppermint candies (optional)
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 parchment
+- :bowl_with_spoon: 1 large bowl
+- :page_facing_up: 1 parchment
 - 1 cookie sheets
-- 1 wire racks
+- :wastebasket: 1 wire racks
 
 ## :pencil: Instructions
 

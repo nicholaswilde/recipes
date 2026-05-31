@@ -23,7 +23,7 @@ tags:
 
 - 1 cannoli molds
 - 1 PAM cooking spray
-- 1 piping bag
+- :package: 1 piping bag
 
 ## :pencil: Instructions
 

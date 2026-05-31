@@ -28,8 +28,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 tongs
 
 ## :pencil: Instructions

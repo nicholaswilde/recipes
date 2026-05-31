@@ -25,12 +25,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 medium-sized mixing bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :bowl_with_spoon: 1 medium-sized mixing bowl
 - 1 wire mesh sieve
 - 1 ramekins
 - 1 baking tray
-- 1 parchment paper or aluminum foil
+- :page_facing_up: 1 parchment paper or aluminum foil
 
 ## :pencil: Instructions
 

@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet or large plate
-- 1 kitchen towel or plastic wrap
+- :cookie: 1 baking sheet or large plate
+- :package: 1 kitchen towel or plastic wrap
 - 1 small pot
-- 1 large saucepan
+- :shallow_pan_of_food: 1 large saucepan
 - 1 slotted spoon
 - 1 plate
 

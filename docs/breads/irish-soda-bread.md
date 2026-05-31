@@ -32,10 +32,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 8" or 9" round cake pan
-- 1 medium-sized mixing bowl
+- :bowl_with_spoon: 1 medium-sized mixing bowl
 - 1 mixer
 - 1 bowl
-- 1 sharp knife
+- :knife: 1 sharp knife
 
 ## :pencil: Instructions
 

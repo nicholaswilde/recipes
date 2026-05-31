@@ -25,8 +25,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 food processor
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 food processor
 - 1 11 x 7-inch baking dish
 
 ## :pencil: Instructions

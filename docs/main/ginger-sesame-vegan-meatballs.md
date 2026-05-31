@@ -39,11 +39,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 - 1 large skillet
 - 1 kitchen towel
-- 1 food processor
-- 1 baking sheet
+- :gear: 1 food processor
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

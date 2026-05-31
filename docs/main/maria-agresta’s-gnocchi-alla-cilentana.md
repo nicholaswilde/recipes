@@ -36,7 +36,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 pot
 
 ## :pencil: Instructions - Pasta

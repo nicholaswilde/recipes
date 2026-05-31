@@ -25,9 +25,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 rimmed sheet pan
-- 1 parchment paper
-- 1 medium bowl
-- 1 spatula
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

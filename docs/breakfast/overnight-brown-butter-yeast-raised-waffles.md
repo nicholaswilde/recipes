@@ -29,8 +29,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 3 quart stainless steel saucier or saucepan
-- 1 heat-resistant spatula
+- :shallow_pan_of_food: 1 3 quart stainless steel saucier or saucepan
+- :spoon: 1 heat-resistant spatula
 - 1 waffle iron
 
 ## :pencil: Instructions

@@ -47,7 +47,7 @@ tags:
 - 1 pan
 - 1 wire whisk
 - 1 electric whisk
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 palette knife
 
 ## :pencil: Instructions

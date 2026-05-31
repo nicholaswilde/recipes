@@ -13,38 +13,38 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups granulated sugar
-- some all-purpose flour
+- :candy: 2 cups granulated sugar
+- :bread: some all-purpose flour
 - 0.75 cup unsweetened cocoa powder
-- some baking powder
-- some baking soda
-- 1 tsp salt
-- 2 large eggs
-- 1 cup buttermilk
-- 0.5 cup vegetable or canola oil
-- 2 tsp vanilla extract
-- 1 cup boiling water
-- 0.5 cup light brown sugar
-- 0.5 cup granulated sugar
-- 0.5 cup butter
-- 3 large egg yolks
-- 0.75 cup [evaporated milk][2]
-- 1 Tbsp vanilla extract
-- 1 cup chopped pecans
+- :chestnut: some baking powder
+- :chestnut: some baking soda
+- :salt: 1 tsp salt
+- :egg: 2 large eggs
+- :baby_bottle: 1 cup buttermilk
+- :droplet: 0.5 cup vegetable or canola oil
+- :flower_playing_cards: 2 tsp vanilla extract
+- :droplet: 1 cup boiling water
+- :candy: 0.5 cup light brown sugar
+- :candy: 0.5 cup granulated sugar
+- :butter: 0.5 cup butter
+- :egg: 3 large egg yolks
+- :glass_of_milk: 0.75 cup [evaporated milk][2]
+- :flower_playing_cards: 1 Tbsp vanilla extract
+- :chestnut: 1 cup chopped pecans
 - 1 cup shredded sweetened coconut
-- 0.5 cup butter
+- :butter: 0.5 cup butter
 - 0.67 cup unsweetened cocoa powder
-- 3 cups powdered sugar
-- 0.33 cup [evaporated milk][2]
-- 1 tsp vanilla extract
+- :candy: 3 cups powdered sugar
+- :glass_of_milk: 0.33 cup [evaporated milk][2]
+- :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
 
 - 1 8 or 9-inch round baking pans
-- 1 parchment paper
-- 1 large bowl
-- 1 wire racks
-- 1 saucepan
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
+- :wastebasket: 1 wire racks
+- :shallow_pan_of_food: 1 saucepan
 
 ## :pencil: Instructions
 

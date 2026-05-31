@@ -22,8 +22,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 heatproof airtight container
+- :shallow_pan_of_food: 1 medium saucepan
+- :package: 1 heatproof airtight container
 
 ## :pencil: Instructions
 

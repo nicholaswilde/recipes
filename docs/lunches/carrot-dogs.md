@@ -29,11 +29,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 colander
-- 1 small bowl
-- 1 rimmed baking sheet
-- 1 parchment paper
+- :bowl_with_spoon: 1 small bowl
+- :cookie: 1 rimmed baking sheet
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

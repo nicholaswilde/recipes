@@ -29,9 +29,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 baking sheet
-- 1 parchment paper
+- :gear: 1 stand mixer
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

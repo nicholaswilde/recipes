@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 3-quart saucepan
+- :shallow_pan_of_food: 1 3-quart saucepan
 - 1 9x13 pan
 
 ## :pencil: Instructions

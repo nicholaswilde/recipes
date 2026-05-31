@@ -27,7 +27,7 @@ tags:
 
 ## :cooking: Cookware
 
-- small saucepan
+- :shallow_pan_of_food: small saucepan
 - whisk
 - glass jar
 

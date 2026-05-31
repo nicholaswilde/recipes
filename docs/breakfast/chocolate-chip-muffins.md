@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 bowl
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 muffin (or cupcake) tin
 - 1 paper liners
 - 1 ice cream scoop

@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 large skillet
 
 ## :pencil: Instructions

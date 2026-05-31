@@ -38,11 +38,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheets
-- 1 parchment paper
-- 1 large bowl
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
 - 1 electric mixer
-- 1 wire racks
+- :wastebasket: 1 wire racks
 - 1 bowl
 
 ## :pencil: Instructions - Cookies

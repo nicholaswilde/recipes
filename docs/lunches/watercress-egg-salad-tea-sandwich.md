@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 potato masher or fork
+- :spoon: 1 potato masher or fork
 
 ## :pencil: Instructions
 

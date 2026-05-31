@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

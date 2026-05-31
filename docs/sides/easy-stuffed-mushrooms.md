@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- #rimmed baking sheet
-- #parchment paper
+- :cookie: #rimmed baking sheet
+- :page_facing_up: #parchment paper
 - #medium skillet
-- #medium bowl
+- :bowl_with_spoon: #medium bowl
 
 ## :pencil: Instructions
 

@@ -34,7 +34,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 Dutch oven
-- 1 wooden spoon
+- :spoon: 1 wooden spoon
 
 ## :pencil: Instructions
 

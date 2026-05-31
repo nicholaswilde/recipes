@@ -22,7 +22,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 - 1 1-quart Mason jars
 - 1 clean spoon
 

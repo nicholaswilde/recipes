@@ -29,9 +29,9 @@ tags:
 - 1 small cereal bowl
 - 1 juice glass
 - 1 ramekin
-- 1 rimmed baking sheet
-- 1 sharp knife
-- 1 microwave-safe bowl
+- :cookie: 1 rimmed baking sheet
+- :knife: 1 sharp knife
+- :bowl_with_spoon: 1 microwave-safe bowl
 
 ## :pencil: Instructions
 

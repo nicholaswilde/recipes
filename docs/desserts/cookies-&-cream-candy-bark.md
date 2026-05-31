@@ -13,14 +13,14 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups vanilla melts
-- 2 cups milk chocolate melts
+- :flower_playing_cards: 2 cups vanilla melts
+- :chocolate_bar: 2 cups milk chocolate melts
 - 15 cookies Oreo
 
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 wax paper
+- :page_facing_up: 1 wax paper
 - 1 knife
 
 ## :pencil: Instructions

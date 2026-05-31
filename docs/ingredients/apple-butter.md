@@ -28,10 +28,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 bottomed saucepan
+- :shallow_pan_of_food: 1 bottomed saucepan
 - 1 slow cooker (alternative)
 - 1 splatter guard
-- 1 blender
+- :gear: 1 blender
 
 ## :pencil: Instructions
 

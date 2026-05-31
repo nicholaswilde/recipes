@@ -29,9 +29,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 13 x 9-inch baking dish
-- 1 stand mixer
-- 1 medium saucepan
-- 1 kitchen shears or a very sharp knife
+- :gear: 1 stand mixer
+- :shallow_pan_of_food: 1 medium saucepan
+- :knife: 1 kitchen shears or a very sharp knife
 
 ## :pencil: Instructions
 

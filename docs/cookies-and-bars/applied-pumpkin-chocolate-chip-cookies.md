@@ -31,9 +31,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper
-- 1 large mixing bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 bowl
 - 1 ice cream scoop or spoon
 

@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 small bowl
-- 1 baking sheet
-- 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 small bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

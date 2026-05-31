@@ -36,7 +36,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 separate bowl
 - 1 9x13'' pan
 - 1 small skillet

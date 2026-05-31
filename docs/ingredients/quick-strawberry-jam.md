@@ -25,7 +25,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 - 1 medium pot
 - 1 bowl
 

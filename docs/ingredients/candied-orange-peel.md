@@ -24,9 +24,9 @@ comments: true
 ## :cooking: Cookware
 
 - 1 colander
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 vegetable peeler or paring knife
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 
 ## :pencil: Instructions
 

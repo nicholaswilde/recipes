@@ -40,16 +40,16 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 dough hook
 - 1 lightly oiled bowl
-- 1 small bowl
-- 1 parchment paper
-- 1 3-inch round cookie cutter or small bowl
-- 1 pastry cutter or very sharp knife
-- 1 rimmed baking sheet
-- 1 plastic wrap or tea towel
-- 1 foil
+- :bowl_with_spoon: 1 small bowl
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 3-inch round cookie cutter or small bowl
+- :knife: 1 pastry cutter or very sharp knife
+- :cookie: 1 rimmed baking sheet
+- :package: 1 plastic wrap or tea towel
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 

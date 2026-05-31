@@ -35,10 +35,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large saucepan
+- :shallow_pan_of_food: 1 large saucepan
 - 1 glass baking vessel
 - 1 skillet
-- 1 small food processor
+- :gear: 1 small food processor
 
 ## :pencil: Instructions
 

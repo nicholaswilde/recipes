@@ -24,7 +24,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor or high-speed blender
+- :gear: 1 food processor or high-speed blender
 
 ## :pencil: Instructions
 

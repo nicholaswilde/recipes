@@ -48,8 +48,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 stand mixer
+- :bowl_with_spoon: 1 large bowl
+- :gear: 1 stand mixer
 
 ## :pencil: Instructions
 

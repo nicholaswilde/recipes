@@ -29,11 +29,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 bowl scraper
 - 1 round or oval proofing baskets (brotforms)
 - 1 cast iron skillet
-- 1 parchment
+- :page_facing_up: 1 parchment
 - 1 baker’s lame or razor blade
 
 ## :pencil: Instructions

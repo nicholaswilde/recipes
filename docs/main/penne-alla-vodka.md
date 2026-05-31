@@ -35,7 +35,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 medium (11-inch) Dutch oven
-- 1 food processor
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 

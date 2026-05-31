@@ -30,8 +30,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 baking sheet
+- :bowl_with_spoon: 1 medium bowl
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

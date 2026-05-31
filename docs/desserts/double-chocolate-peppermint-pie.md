@@ -14,21 +14,21 @@ tags:
 ## :salt: Ingredients
 
 - 5 oz chocolate wafer cookies
-- 6 Tbsp unsalted butter
-- 0.75 cup granulated sugar
-- 2 8-oz pkgs cream cheese
-- 1 Tbsp peppermint extract
-- 1.5 cups heavy cream
+- :butter: 6 Tbsp unsalted butter
+- :candy: 0.75 cup granulated sugar
+- :cheese_wedge: 2 8-oz pkgs cream cheese
+- :salt: 1 Tbsp peppermint extract
+- :glass_of_milk: 1.5 cups heavy cream
 - some red food coloring (optional)
 - some hot fudge sauce
-- 0.25 cup crushed peppermint candies
+- :salt: 0.25 cup crushed peppermint candies
 
 ## :cooking: Cookware
 
 - 1 9 inch pie plate
 - 1 bowl
-- 1 wire rack
-- 1 medium bowl
+- :wastebasket: 1 wire rack
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

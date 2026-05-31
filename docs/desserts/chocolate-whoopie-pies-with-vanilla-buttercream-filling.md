@@ -37,7 +37,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 baking pans
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 electric mixer
 - 1 1-ounce ice cream scoop
 - 1 disposable pastry bag

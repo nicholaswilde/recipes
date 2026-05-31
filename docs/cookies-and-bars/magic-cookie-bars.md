@@ -27,7 +27,7 @@ tags:
 
 - 1 9x13-inch baking dish
 - 1 bowl
-- 1 fork
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

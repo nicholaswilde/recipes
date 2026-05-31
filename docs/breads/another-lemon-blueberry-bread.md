@@ -38,10 +38,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 9"x 5" loaf pan
-- 1 parchment paper
-- 1 medium bowl
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
 - 1 electric mixer
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

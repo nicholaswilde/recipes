@@ -35,10 +35,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 rolling pin
-- 1 parchment paper
-- 1 baking sheet
+- :gear: 1 stand mixer
+- :wood: 1 rolling pin
+- :page_facing_up: 1 parchment paper
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions - Biscuit
 

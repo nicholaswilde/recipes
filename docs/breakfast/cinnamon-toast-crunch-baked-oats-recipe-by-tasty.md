@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 ramekin or loaf dish
 - 1 air fryer
 

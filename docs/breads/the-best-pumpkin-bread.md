@@ -30,13 +30,13 @@ tags:
 
 ## :salt: Ingredients - Topping
 
-- 1 Tbsp granulated sugar
-- 1 tsp cinnamon
+- :candy: 1 Tbsp granulated sugar
+- :chestnut: 1 tsp cinnamon
 
 ## :cooking: Cookware
 
 - 1 6 cup loaf pan
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 spoon
 - 1 small dish
 

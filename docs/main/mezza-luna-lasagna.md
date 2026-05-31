@@ -31,10 +31,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 bowl
 - 1 9"x 13" baking dish
-- 1 foil
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 

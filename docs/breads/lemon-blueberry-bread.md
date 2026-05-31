@@ -36,7 +36,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 loaf pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 bowl
 
 ## :pencil: Instructions - Dough

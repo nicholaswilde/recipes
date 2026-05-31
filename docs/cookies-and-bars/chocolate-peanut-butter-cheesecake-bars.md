@@ -43,7 +43,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mixing bowl
+- :bowl_with_spoon: 1 mixing bowl
 - 1 9x13-inch pan
 
 ## :pencil: Instructions

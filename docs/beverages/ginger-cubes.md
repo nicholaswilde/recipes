@@ -23,7 +23,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 ice cube tray
 
 ## :pencil: Instructions

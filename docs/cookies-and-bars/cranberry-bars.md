@@ -43,10 +43,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 X 13-inch baking pan
-- 1 parchment paper
-- 1 large bowl
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
 - 1 pastry cutter
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

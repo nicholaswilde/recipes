@@ -45,9 +45,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheet
-- 1 parchment paper
-- 1 small saucepan
+- :cookie: 1 large baking sheet
+- :page_facing_up: 1 parchment paper
+- :shallow_pan_of_food: 1 small saucepan
 - 1 medium rimmed skillet
 
 ## :pencil: Instructions

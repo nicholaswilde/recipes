@@ -31,7 +31,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 fork
+- :knife: 1 fork
 - 1 dough scraper
 
 ## :pencil: Instructions

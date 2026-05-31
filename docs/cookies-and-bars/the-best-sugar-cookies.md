@@ -28,10 +28,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 hand mixer or a stand mixer
-- 1 large baking sheets
-- 1 parchment paper or silicone baking mats
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 hand mixer or a stand mixer
+- :cookie: 1 large baking sheets
+- :page_facing_up: 1 parchment paper or silicone baking mats
 
 ## :pencil: Instructions
 

@@ -20,7 +20,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 high-powered blender or a spice grinder
+- :gear: 1 high-powered blender or a spice grinder
 
 ## :pencil: Instructions
 

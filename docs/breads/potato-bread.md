@@ -44,11 +44,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 lightly greased bowl
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 lightly greased bowl
 - 1 9" x 5" loaf pan
 - 1 clear shower caps
-- 1 aluminum foil
+- :page_facing_up: 1 aluminum foil
 
 ## :pencil: Instructions
 

@@ -35,7 +35,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 12-inch nonstick skillet
-- 1 rubber spatula
+- :spoon: 1 rubber spatula
 
 ## :pencil: Instructions
 

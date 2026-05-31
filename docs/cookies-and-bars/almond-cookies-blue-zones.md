@@ -22,7 +22,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor or high-powered blender
+- :gear: 1 food processor or high-powered blender
 - 1 sauce pot
 - 1 tissue paper
 

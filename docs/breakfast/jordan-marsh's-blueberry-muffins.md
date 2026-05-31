@@ -28,11 +28,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 standard 12-cup muffin tin
-- 1 stand mixer or large mixing bowl
-- 1 fork or small bowl (for mashing)
-- 1 rubber spatula
-- 1 wire rack
+- :cookie: 1 standard 12-cup muffin tin
+- :bowl_with_spoon: 1 stand mixer or large mixing bowl
+- :bowl_with_spoon: 1 fork or small bowl (for mashing)
+- :spoon: 1 rubber spatula
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

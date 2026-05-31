@@ -26,8 +26,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 piping bag
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 piping bag
 - 1 medium pastry tip
 
 ## :pencil: Instructions

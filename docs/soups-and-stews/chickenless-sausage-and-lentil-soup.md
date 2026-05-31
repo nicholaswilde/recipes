@@ -28,7 +28,7 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 large pot
+- :shallow_pan_of_food: 1 large pot
 
 ## :pencil: Instructions
 

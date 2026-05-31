@@ -34,14 +34,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 bowl
 - 1 electric mixer
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 - 1 plate
 - 1 paper towels
-- 1 large mixing bowl
-- 1 wire rack
+- :bowl_with_spoon: 1 large mixing bowl
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

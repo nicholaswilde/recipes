@@ -28,8 +28,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rolling pin
-- 1 freezer bag
+- :wood: 1 rolling pin
+- :snowflake: 1 freezer bag
 - 1 bowl
 - 1 spoon
 - 1 square cake pan

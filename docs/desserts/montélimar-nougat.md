@@ -28,11 +28,11 @@ comments: true
 ## :cooking: Cookware
 
 - 1 9 X 4 inch loaf pan
-- 1 parchment paper
-- 1 medium saucepan
+- :page_facing_up: 1 parchment paper
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 candy thermometer
-- 1 serrated knife
-- 1 plastic wrap
+- :knife: 1 serrated knife
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions - Nougat
 

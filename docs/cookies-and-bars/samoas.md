@@ -33,16 +33,16 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 bowl
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 doughnut cutter
-- 1 baking sheet
-- 1 parchment paper
-- 1 wire rack
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :wastebasket: 1 wire rack
 - 1 double boiler
-- 1 large bowl
-- 1 piping bag or fork
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 piping bag or fork
 
 ## :pencil: Instructions - Cookie
 

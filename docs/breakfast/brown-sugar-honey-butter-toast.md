@@ -24,10 +24,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 miniature spatula
+- :bowl_with_spoon: 1 small bowl
+- :spoon: 1 miniature spatula
 - 1 sheet pan
-- 1 parchment
+- :page_facing_up: 1 parchment
 
 ## :pencil: Instructions
 

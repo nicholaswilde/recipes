@@ -48,11 +48,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 x 9 baking pan
-- 1 parchment paper
-- 1 large bowl
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
 - 1 medium-sized bowl
-- 1 spatula
-- 1 fork
+- :spoon: 1 spatula
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

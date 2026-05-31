@@ -33,9 +33,9 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 large pot
-- 1 immersion blender
-- 1 baking sheet
+- :shallow_pan_of_food: 1 large pot
+- :gear: 1 immersion blender
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

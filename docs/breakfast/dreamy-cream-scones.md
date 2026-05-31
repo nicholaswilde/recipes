@@ -27,12 +27,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl or work bowl of food processor
+- :gear: 1 large bowl or work bowl of food processor
 - 1 knives
-- 1 rubber spatula or fork
+- :spoon: 1 rubber spatula or fork
 - 1 8 inch cake pan
-- 1 baking sheet
-- 1 wire rack
+- :cookie: 1 baking sheet
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

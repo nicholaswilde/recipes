@@ -22,7 +22,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mixing bowl
+- :bowl_with_spoon: 1 mixing bowl
 - 1 hand mixer
 
 ## :pencil: Instructions

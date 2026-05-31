@@ -31,8 +31,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
-- 1 fork
+- :bowl_with_spoon: 1 large mixing bowl
+- :knife: 1 fork
 - 1 large skillet
 
 ## :pencil: Instructions

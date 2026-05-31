@@ -26,9 +26,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mini muffin tins
-- 1 saucepan
-- 1 medium bowl
+- :cookie: 1 mini muffin tins
+- :shallow_pan_of_food: 1 saucepan
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

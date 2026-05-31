@@ -28,9 +28,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 medium saucepan
-- 1 parchment paper
+- :gear: 1 stand mixer
+- :shallow_pan_of_food: 1 medium saucepan
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

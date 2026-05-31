@@ -14,20 +14,20 @@ tags:
 ## :salt: Ingredients
 
 - 7 g rapid-rise yeast
-- 0.75 cup warm milk
-- 440 g all-purpose flour
-- 50 g brown sugar
-- 8 g salt
-- 2 large eggs
-- 2 tsp vanilla extract
-- 226 g butter
-- some cinnamon
-- 226 g Lars Own Belgian Pearl Sugar
+- :glass_of_milk: 0.75 cup warm milk
+- :bread: 440 g all-purpose flour
+- :candy: 50 g brown sugar
+- :salt: 8 g salt
+- :egg: 2 large eggs
+- :flower_playing_cards: 2 tsp vanilla extract
+- :butter: 226 g butter
+- :chestnut: some cinnamon
+- :candy: 226 g Lars Own Belgian Pearl Sugar
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 greased cookie sheet
 - 1 greased waffle iron
 

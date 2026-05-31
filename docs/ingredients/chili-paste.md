@@ -28,8 +28,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
-- 1 deep wok or saucepan
+- :gear: 1 blender
+- :shallow_pan_of_food: 1 deep wok or saucepan
 - 1 jar
 
 ## :pencil: Instructions

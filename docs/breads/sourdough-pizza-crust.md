@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 lightly greased container
 - 1 14" round pizza pan or 18" x 13" half-sheet pan
 

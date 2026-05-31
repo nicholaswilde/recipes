@@ -24,10 +24,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 parchment paper
-- 1 rolling pin
-- 1 sharp knife
-- 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :wood: 1 rolling pin
+- :knife: 1 sharp knife
+- :cookie: 1 baking sheet
 - 1 cooling rack
 
 ## :pencil: Instructions

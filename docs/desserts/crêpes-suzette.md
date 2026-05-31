@@ -36,13 +36,13 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 6-inch crêpe pan or nonstick skillet
-- 1 mini food processor
-- 1 baking sheet
-- 1 long spatula
+- :gear: 1 mini food processor
+- :cookie: 1 baking sheet
+- :spoon: 1 long spatula
 - 1 heatproof platter
-- 1 small saucepan
+- :shallow_pan_of_food: 1 small saucepan
 
 ## :pencil: Instructions
 

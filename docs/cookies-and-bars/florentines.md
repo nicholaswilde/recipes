@@ -29,10 +29,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 17 x 12 inch (43 x 30 cm) baking or cookie sheet
-- 1 parchment paper or a silicone mat
-- 1 food processor or blender
-- 1 small saucepan
-- 1 sharp knife
+- :page_facing_up: 1 parchment paper or a silicone mat
+- :gear: 1 food processor or blender
+- :shallow_pan_of_food: 1 small saucepan
+- :knife: 1 sharp knife
 - 1 cooling rack
 
 ## :pencil: Instructions

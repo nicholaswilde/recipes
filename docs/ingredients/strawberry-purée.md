@@ -21,7 +21,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender or food processor
+- :gear: 1 blender or food processor
 - 1 fine mesh strainer
 
 ## :pencil: Instructions

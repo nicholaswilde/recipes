@@ -29,7 +29,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

@@ -32,8 +32,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 mixing bowl
-- 1 baking sheet
+- :bowl_with_spoon: 1 mixing bowl
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

@@ -13,12 +13,12 @@ tags:
 
 ## :salt: Ingredients
 
-- 2.5 cups heavy cream
-- 0.67 cups milk
-- 5 Tbsp sugar
-- 1 vanilla bean
-- 6 egg yolks
-- 0.25 cups sugar
+- :glass_of_milk: 2.5 cups heavy cream
+- :glass_of_milk: 0.67 cups milk
+- :candy: 5 Tbsp sugar
+- :flower_playing_cards: 1 vanilla bean
+- :egg: 6 egg yolks
+- :candy: 0.25 cups sugar
 
 ## :cooking: Cookware
 

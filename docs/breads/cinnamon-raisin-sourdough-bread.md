@@ -55,7 +55,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 lightly greased container
-- 1 aluminum foil
+- :page_facing_up: 1 aluminum foil
 
 ## :pencil: Instructions - Dough
 

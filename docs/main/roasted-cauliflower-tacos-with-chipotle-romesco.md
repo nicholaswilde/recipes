@@ -49,8 +49,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 2 large baking sheets
-- 1 high-speed blender
+- :cookie: 2 large baking sheets
+- :gear: 1 high-speed blender
 
 ## :pencil: Instructions
 

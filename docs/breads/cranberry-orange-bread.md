@@ -41,8 +41,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 9x5 loaf pan
-- 1 large bowl
-- 1 small bowl
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

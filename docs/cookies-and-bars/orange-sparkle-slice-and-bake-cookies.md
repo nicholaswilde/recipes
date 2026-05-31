@@ -32,10 +32,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 parchment
+- :bowl_with_spoon: 1 small bowl
+- :page_facing_up: 1 parchment
 - 1 Slice-and-Bake Cookie Dough Keeper
-- 1 baking sheets
+- :cookie: 1 baking sheets
 
 ## :pencil: Instructions
 

@@ -35,7 +35,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 large heavy-bottomed soup pot
 
 ## :pencil: Instructions

@@ -29,8 +29,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 large saucepan
+- :bowl_with_spoon: 1 medium bowl
+- :shallow_pan_of_food: 1 large saucepan
 - 1 fine mesh strainer
 
 ## :pencil: Instructions

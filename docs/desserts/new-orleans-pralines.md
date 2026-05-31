@@ -25,11 +25,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 aluminum foil
-- 1 medium saucepan
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 aluminum foil
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 candy thermometer
-- 1 wooden spoon
+- :spoon: 1 wooden spoon
 
 ## :pencil: Instructions
 

@@ -31,8 +31,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
-- 1 stand mixer
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 stand mixer
 - 1 bench knife or dough scraper
 - 1 plant mister
 

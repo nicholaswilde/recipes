@@ -35,7 +35,7 @@ tags:
 
 - 1 bowl
 - 1 pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 skillet
 
 ## :pencil: Instructions

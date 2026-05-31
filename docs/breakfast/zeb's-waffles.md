@@ -31,7 +31,7 @@ tags:
 - 1 waffle iron
 - 1 grater or vegetable peeler
 - 1 bowl
-- 1 food processor or high-speed blender
+- :gear: 1 food processor or high-speed blender
 
 ## :pencil: Instructions
 

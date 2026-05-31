@@ -34,13 +34,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper
-- 1 small bowl
-- 1 medium bowl
-- 1 rubber spatula
-- 1 wide metal spatula
-- 1 wire rack
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 small bowl
+- :bowl_with_spoon: 1 medium bowl
+- :spoon: 1 rubber spatula
+- :spoon: 1 wide metal spatula
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

@@ -24,10 +24,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 dolly
-- 1 baking sheet
-- 1 parchment paper
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
 - 1 cooking twine
 - 1 circular cutter
 

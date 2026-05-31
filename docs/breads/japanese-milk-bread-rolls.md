@@ -44,8 +44,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 small mixing bowl
+- :shallow_pan_of_food: 1 small saucepan
+- :bowl_with_spoon: 1 small mixing bowl
 - 1 8" or 9" round cake pan
 
 ## :pencil: Instructions

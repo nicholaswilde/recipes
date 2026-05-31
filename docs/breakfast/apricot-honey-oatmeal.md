@@ -23,7 +23,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 3 quart saucepan
+- :shallow_pan_of_food: 1 3 quart saucepan
 
 ## :pencil: Instructions
 

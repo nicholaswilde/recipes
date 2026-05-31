@@ -26,8 +26,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch square pan
-- 1 foil
-- 1 medium saucepan
+- :page_facing_up: 1 foil
+- :shallow_pan_of_food: 1 medium saucepan
 - 1 candy thermometer
 
 ## :pencil: Instructions

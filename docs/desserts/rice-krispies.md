@@ -22,9 +22,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 9 x 13 inch pan
-- 1 large mixing bowl
-- 1 medium or large saucepan
-- 1 rubber spatula
+- :bowl_with_spoon: 1 large mixing bowl
+- :shallow_pan_of_food: 1 medium or large saucepan
+- :spoon: 1 rubber spatula
 
 ## :pencil: Instructions
 

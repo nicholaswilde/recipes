@@ -29,9 +29,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 large bowl
-- 1 fork
+- :cookie: 1 baking sheet
+- :bowl_with_spoon: 1 large bowl
+- :knife: 1 fork
 
 ## :pencil: Instructions
 

@@ -25,11 +25,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 electric mixer
 - 1 pastry bag
 - 1 large star tip
-- 1 baking sheet
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

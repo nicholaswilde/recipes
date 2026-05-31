@@ -36,9 +36,9 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 heavy 2-quart saucepan
+- :shallow_pan_of_food: 1 heavy 2-quart saucepan
 - 1 cookie sheet
-- 1 forks
+- :knife: 1 forks
 - 1 candy thermometer
 
 ## :pencil: Instructions

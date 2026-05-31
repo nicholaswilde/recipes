@@ -23,10 +23,10 @@ tags:
 
 - 1 colander
 - 1 cheesecloth
-- 1 large pot
+- :shallow_pan_of_food: 1 large pot
 - 1 instant-read thermometer
 - 1 slotted spoon or wire skimmer
-- 1 plastic wrap
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

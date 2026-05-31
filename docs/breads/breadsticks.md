@@ -32,9 +32,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 lightly greased bowl
-- 1 parchment-lined baking sheet
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 lightly greased bowl
+- :cookie: 1 parchment-lined baking sheet
 
 ## :pencil: Instructions
 

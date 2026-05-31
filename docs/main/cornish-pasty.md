@@ -13,30 +13,30 @@ tags:
 
 ## :salt: Ingredients
 
-- 500 g strong white bread flour
-- 2 tsp salt
+- :bread: 500 g strong white bread flour
+- :salt: 2 tsp salt
 - 400 g vegetable shortening
-- 150 ml ice-cold water
-- 200 ml vegetable stock
-- 0.75 tsp garlic powder
+- :droplet: 150 ml ice-cold water
+- :stew: 200 ml vegetable stock
+- :garlic: 0.75 tsp garlic powder
 - 0.75 tsp onion granules
 - 0.25 tsp dried rosemary
-- 0.25 tsp dried thyme
-- 1 Tbsp nutritional yeast
-- 1.5 tsp soy sauce
-- 20 g cornflour
-- 3 Tbsp water
-- 200 g potato (peeled and diced 1cm cubes)
+- :herb: 0.25 tsp dried thyme
+- :cheese_wedge: 1 Tbsp nutritional yeast
+- :takeout_box: 1.5 tsp soy sauce
+- :bread: 20 g cornflour
+- :droplet: 3 Tbsp water
+- :sweet_potato: 200 g potato (peeled and diced 1cm cubes)
 - 100 g swede (rutabaga) (peeled and diced 1cm cubes)
 - 75 g mushrooms (chopped)
 - 75 g onion (peeled and diced)
 - 2 tsp dairy-free margarine
-- 2 Tbsp dairy-free milk
+- :glass_of_milk: 2 Tbsp dairy-free milk
 
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 
 ## :pencil: Instructions
 

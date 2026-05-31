@@ -31,7 +31,7 @@ tags:
 
 - 1 double boiler
 - 1 stainless steel bowl
-- 1 spatula
+- :spoon: 1 spatula
 - 1 pastry bag or a spoon
 
 ## :pencil: Instructions

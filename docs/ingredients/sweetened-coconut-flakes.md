@@ -21,9 +21,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 baking sheet
-- 1 parchment paper
+- :shallow_pan_of_food: 1 small saucepan
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

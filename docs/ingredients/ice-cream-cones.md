@@ -24,8 +24,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 spatula
+- :gear: 1 stand mixer
+- :spoon: 1 spatula
 - 1 waffle cone maker
 - 1 cone roller
 

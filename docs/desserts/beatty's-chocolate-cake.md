@@ -14,24 +14,24 @@ tags:
 ## :salt: Ingredients
 
 - 2 cake pans
-- 1.75 cups all-purpose flour
-- 2 cups sugar
+- :bread: 1.75 cups all-purpose flour
+- :candy: 2 cups sugar
 - 0.75 cups good cocoa powder (such as Valrhona)
-- 2 tsp baking soda
-- 1 tsp baking powder
-- 1 tsp kosher salt
-- 1 cup buttermilk, shaken
-- 0.5 cups vegetable oil
-- 2 extra-large eggs, at room temperature
-- 1 tsp pure vanilla extract
+- :chestnut: 2 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :salt: 1 tsp kosher salt
+- :baby_bottle: 1 cup buttermilk, shaken
+- :olive: 0.5 cups vegetable oil
+- :egg: 2 extra-large eggs, at room temperature
+- :flower_playing_cards: 1 tsp pure vanilla extract
 - 1 cup freshly brewed hot coffee
 - 6 ounces good semisweet chocolate (such as Valrhona Le Noir 56% Cacao)
-- 0.5 pound unsalted butter, at room temperature
-- 1 extra-large egg yolk, at room temperature
-- 1 tsp pure vanilla extract
-- 1.25 cups sifted confectioners’ sugar
-- 1 Tbsp instant coffee granules (such as Nescafe)
-- 2 tsp hottest tap water
+- :butter: 0.5 pound unsalted butter, at room temperature
+- :egg: 1 extra-large egg yolk, at room temperature
+- :flower_playing_cards: 1 tsp pure vanilla extract
+- :candy: 1.25 cups sifted confectioners’ sugar
+- :coffee: 1 Tbsp instant coffee granules (such as Nescafe)
+- :droplet: 2 tsp hottest tap water
 
 ## :cooking: Cookware
 

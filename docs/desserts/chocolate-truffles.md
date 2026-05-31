@@ -20,7 +20,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 heavy saucepan
+- :shallow_pan_of_food: 1 heavy saucepan
 - 1 1-quart glass measure
 
 ## :pencil: Instructions

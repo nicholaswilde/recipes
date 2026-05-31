@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 biscuit cutter and stamp
-- 1 wire rack
+- :wastebasket: 1 wire rack
 - 1 small pan
 
 ## :pencil: Instructions - Biscuit

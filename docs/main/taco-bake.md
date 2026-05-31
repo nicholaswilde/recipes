@@ -34,7 +34,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 skillet
-- 1 potato masher
+- :spoon: 1 potato masher
 
 ## :pencil: Instructions
 

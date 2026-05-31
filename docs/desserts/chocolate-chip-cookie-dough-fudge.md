@@ -29,9 +29,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 8 or 9-inch square pan
-- 1 foil
-- 1 small bowl
-- 1 plastic wrap
+- :page_facing_up: 1 foil
+- :bowl_with_spoon: 1 small bowl
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

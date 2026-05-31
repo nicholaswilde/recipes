@@ -34,9 +34,9 @@ tags:
 
 ## :cooking: Cookware
 
-- large bowl or stand mixer
-- baking sheet
-- parchment paper (optional)
+- :gear: large bowl or stand mixer
+- :cookie: baking sheet
+- :page_facing_up: parchment paper (optional)
 - rack
 
 ## :pencil: Instructions

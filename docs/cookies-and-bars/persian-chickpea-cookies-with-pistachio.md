@@ -28,11 +28,11 @@ tags:
 
 - 1 bowl
 - 1 hand mixer
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 baking tray
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 - 1 1 inch clover shaped cookie cutter
-- 1 wire rack
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

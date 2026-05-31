@@ -34,11 +34,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheets
-- 1 silicone baking mats or parchment paper
-- 1 mixing bowl
-- 1 electric stand mixer
-- 1 rubber spatula
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 silicone baking mats or parchment paper
+- :bowl_with_spoon: 1 mixing bowl
+- :gear: 1 electric stand mixer
+- :spoon: 1 rubber spatula
 
 ## :pencil: Instructions
 

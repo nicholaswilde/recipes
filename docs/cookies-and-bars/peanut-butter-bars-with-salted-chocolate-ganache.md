@@ -29,9 +29,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 8 x 8-inch baking dish
-- 1 large bowl
-- 1 medium bowl
-- 1 small saucepan
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 medium bowl
+- :shallow_pan_of_food: 1 small saucepan
 
 ## :pencil: Instructions
 

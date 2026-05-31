@@ -27,9 +27,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 wooden spoon
-- 1 parchment paper
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 wooden spoon
+- :page_facing_up: 1 parchment paper
 - 1 pizza pan
 
 ## :pencil: Instructions

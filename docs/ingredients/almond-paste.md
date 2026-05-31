@@ -23,8 +23,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 plastic wrap
+- :gear: 1 food processor
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

@@ -26,8 +26,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 peeler
-- 1 food processor
-- 1 2 quart saucepan, double boiler, or bain-marie
+- :gear: 1 food processor
+- :shallow_pan_of_food: 1 2 quart saucepan, double boiler, or bain-marie
 - 1 fine mesh sieve
 
 ## :pencil: Instructions

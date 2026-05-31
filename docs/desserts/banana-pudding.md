@@ -31,12 +31,12 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 small bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :bowl_with_spoon: 1 small bowl
 - 1 shallow container
 - 1 strainer
-- 1 rubber spatula
-- 1 plastic wrap
+- :spoon: 1 rubber spatula
+- :package: 1 plastic wrap
 - 8 jars
 
 ## :pencil: Instructions

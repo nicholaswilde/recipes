@@ -107,14 +107,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 small bowl
-- 1 stand mixer
+- :bowl_with_spoon: 1 small bowl
+- :gear: 1 stand mixer
 - 1 greased bowl
 - 1 damp towel
-- 1 small saucepan
-- 1 8.5 x 4.5 inch loaf pans
+- :shallow_pan_of_food: 1 small saucepan
+- :cookie: 1 8.5 x 4.5 inch loaf pans
 - 1 loaf pan
-- 1 medium saucepan
+- :shallow_pan_of_food: 1 medium saucepan
 
 ## :pencil: Instructions - Dough
 

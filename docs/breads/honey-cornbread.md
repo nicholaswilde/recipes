@@ -30,7 +30,7 @@ tags:
 
 - 1 8-inch square baking pan
 - 1 bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

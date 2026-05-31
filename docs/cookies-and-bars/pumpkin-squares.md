@@ -40,7 +40,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 9 x 13" pan
 
 ## :pencil: Instructions

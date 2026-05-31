@@ -30,11 +30,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 30 x 23cm cake tin
-- 1 baking parchment
+- :page_facing_up: 1 baking parchment
 - 1 large heatproof bowl
 - 1 balloon whisk
-- 1 wooden spoon
-- 1 wire rack
+- :spoon: 1 wooden spoon
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

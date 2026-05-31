@@ -23,7 +23,7 @@ tags:
 
 - 1 heat-safe bowl
 - 1 8 inch square pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

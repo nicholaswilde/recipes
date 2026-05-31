@@ -25,8 +25,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 8-inch square pan
-- 1 foil
-- 1 small microwave-safe bowl
+- :page_facing_up: 1 foil
+- :bowl_with_spoon: 1 small microwave-safe bowl
 
 ## :pencil: Instructions
 

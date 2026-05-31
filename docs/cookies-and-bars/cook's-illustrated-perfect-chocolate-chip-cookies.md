@@ -31,11 +31,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 18x12-in baking sheets
-- 1 medium bowl
+- :cookie: 1 18x12-in baking sheets
+- :bowl_with_spoon: 1 medium bowl
 - 1 10-inch stainless steel or cast iron skillet
 - 1 large heatproof bowl
-- 1 rubber spatula or wooden spoon
+- :spoon: 1 rubber spatula or wooden spoon
 
 ## :pencil: Instructions
 

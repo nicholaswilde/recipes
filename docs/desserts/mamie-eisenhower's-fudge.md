@@ -28,7 +28,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 large heat-safe bowl
-- 1 large, heavy saucepan
+- :shallow_pan_of_food: 1 large, heavy saucepan
 - 1 pan
 
 ## :pencil: Instructions

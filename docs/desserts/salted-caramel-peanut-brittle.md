@@ -31,7 +31,7 @@ tags:
 - 1 nonstick silicone mat
 - 1 large heavy-bottomed pot
 - 1 candy thermometer
-- 1 pastry brush
+- :paintbrush: 1 pastry brush
 
 ## :pencil: Instructions
 

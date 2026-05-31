@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 - 1 9x13 pan
 
 ## :pencil: Instructions

@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 Dutch oven or soup pot
-- 1 wooden spoon or sturdy silicone spatula
-- 1 blender
+- :spoon: 1 wooden spoon or sturdy silicone spatula
+- :gear: 1 blender
 
 ## :pencil: Instructions
 

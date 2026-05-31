@@ -26,7 +26,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

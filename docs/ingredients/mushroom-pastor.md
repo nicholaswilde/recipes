@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 large cast-iron or other heavy sauté pan
-- 1 high-speed blender
+- :gear: 1 high-speed blender
 - 1 large nonstick pan
 - 1 tongs or a slotted spoon
 

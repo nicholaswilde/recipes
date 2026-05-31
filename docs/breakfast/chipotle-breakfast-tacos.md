@@ -28,7 +28,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 - 1 skillet
 - 1 bowl
 

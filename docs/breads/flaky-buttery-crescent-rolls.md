@@ -32,10 +32,10 @@ tags:
 
 ## :cooking: Cookware
 
-- large bowl
-- baking sheet
-- rolling pin
-- plastic wrap
+- :bowl_with_spoon: large bowl
+- :cookie: baking sheet
+- :wood: rolling pin
+- :package: plastic wrap
 
 ## :pencil: Instructions
 

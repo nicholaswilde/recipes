@@ -29,9 +29,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 ungreased cookie sheet
-- 1 wire rack
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

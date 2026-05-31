@@ -41,19 +41,19 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium saucepan
-- 1 medium bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :bowl_with_spoon: 1 medium bowl
 - 1 whisk
-- 1 medium bowl
-- 1 stand mixer
-- 1 parchment
-- 1 rimmed baking sheet
-- 1 plastic wrap
-- 1 small bowl
+- :bowl_with_spoon: 1 medium bowl
+- :gear: 1 stand mixer
+- :page_facing_up: 1 parchment
+- :cookie: 1 rimmed baking sheet
+- :package: 1 plastic wrap
+- :bowl_with_spoon: 1 small bowl
 - 1 3.25 inch round cookie cutter
 - 1 1.25" cutter
-- 1 wire rack
-- 1 large pot
+- :wastebasket: 1 wire rack
+- :shallow_pan_of_food: 1 large pot
 - 1 deep-fry thermometer
 
 ## :pencil: Instructions

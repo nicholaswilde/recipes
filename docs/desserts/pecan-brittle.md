@@ -26,9 +26,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 small container
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 - 1 sheet pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

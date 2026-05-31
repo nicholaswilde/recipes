@@ -33,7 +33,7 @@ tags:
 
 - 1 paper liners
 - 1 standard size muffin baking pan
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 
 ## :pencil: Instructions
 

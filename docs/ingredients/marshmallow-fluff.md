@@ -25,7 +25,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium-sized saucepan
+- :shallow_pan_of_food: 1 medium-sized saucepan
 - 1 candy thermometer
 
 ## :pencil: Instructions

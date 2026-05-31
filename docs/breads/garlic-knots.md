@@ -34,11 +34,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 oven
-- 1 baking sheet
-- 1 large bowl
+- :cookie: 1 baking sheet
+- :bowl_with_spoon: 1 large bowl
 - 1 bowl
-- 1 plastic wrap
-- 1 small saucepan
+- :package: 1 plastic wrap
+- :shallow_pan_of_food: 1 small saucepan
 
 ## :pencil: Instructions
 

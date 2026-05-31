@@ -30,7 +30,7 @@ tags:
 
 - 1 bowl
 - 1 10-inch broiler-safe skillet
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 
 ## :pencil: Instructions
 

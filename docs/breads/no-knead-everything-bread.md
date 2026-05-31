@@ -26,8 +26,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 plastic wrap
+- :bowl_with_spoon: 1 large bowl
+- :package: 1 plastic wrap
 - 1 14" to 15" long lidded stoneware baker or 9" to 10" round lidded baking crock
 
 ## :pencil: Instructions

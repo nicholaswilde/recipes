@@ -35,18 +35,18 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 rubber spatula
-- 1 plastic wrap
-- 1 large bowl
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
+- :package: 1 plastic wrap
+- :bowl_with_spoon: 1 large bowl
 - 1 plastic
 - 1 3-inch round cutter
 - 1 1-inch round cutter
 - 1 sheet
-- 1 kettle or small saucepan
+- :shallow_pan_of_food: 1 kettle or small saucepan
 - 1 large Dutch oven
 - 1 spider skimmer
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 
 !!! note
     You'll need two large baking sheets and two wire racks for this recipe. You'll also need 3-inch and 1-inch round

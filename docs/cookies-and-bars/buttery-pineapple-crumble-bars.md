@@ -29,9 +29,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch square baking pan
-- 1 stand mixer
-- 1 small bowl
-- 1 wire rack
+- :gear: 1 stand mixer
+- :bowl_with_spoon: 1 small bowl
+- :wastebasket: 1 wire rack
 
 ## :pencil: Instructions
 

@@ -34,7 +34,7 @@ tags:
 
 - 1 heatproof bowl
 - 1 large rimmed skillet
-- 1 high-speed blender
+- :gear: 1 high-speed blender
 
 ## :pencil: Instructions
 

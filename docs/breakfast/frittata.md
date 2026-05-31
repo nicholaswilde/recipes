@@ -33,7 +33,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 10 to 12 inch cast-iron skillet or a nonstick pan with a heat-proof handle
-- 1 fork
+- :knife: 1 fork
 - 1 10 inch skillet
 - 1 hot platter
 

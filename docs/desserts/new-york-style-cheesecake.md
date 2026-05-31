@@ -31,10 +31,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch spring-form pan
-- 1 fork
+- :knife: 1 fork
 - 1 rack
-- 1 large bowl
-- 1 wooden spoon
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 wooden spoon
 - 1 rack
 
 ## :pencil: Instructions

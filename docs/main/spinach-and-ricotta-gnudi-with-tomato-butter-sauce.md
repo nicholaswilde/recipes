@@ -42,11 +42,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
+- :cookie: 1 rimmed baking sheet
 - 1 paper towels
-- 1 large bowl
-- 1 food processor
-- 1 small saucepan
+- :bowl_with_spoon: 1 large bowl
+- :gear: 1 food processor
+- :shallow_pan_of_food: 1 small saucepan
 - 1 Dutch oven
 - 1 spider skimmer or slotted spoon
 - 1 bowls

@@ -24,11 +24,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 electric mixer
-- 1 parchment-lined baking sheet
+- :cookie: 1 parchment-lined baking sheet
 - 1 small heatproof bowl
-- 1 toothpick
+- :knife: 1 toothpick
 
 ## :pencil: Instructions
 

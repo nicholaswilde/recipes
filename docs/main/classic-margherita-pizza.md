@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 food processor
-- 1 parchment paper
-- 1 baking sheet
+- :gear: 1 food processor
+- :page_facing_up: 1 parchment paper
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

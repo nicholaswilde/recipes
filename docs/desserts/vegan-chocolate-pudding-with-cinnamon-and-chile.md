@@ -50,7 +50,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 small pot
-- 1 blender
+- :gear: 1 blender
 - 4 ramekins
 
 ## :pencil: Instructions

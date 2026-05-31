@@ -36,13 +36,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment paper
-- 1 large mixing bowl
-- 1 1.5 ounce cookie scoop
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 large mixing bowl
+- :cookie: 1 1.5 ounce cookie scoop
 - 1 cooling rack
 - 1 microwave safe bowl
-- 1 spatula
+- :spoon: 1 spatula
 
 ## :pencil: Instructions - Cookies
 

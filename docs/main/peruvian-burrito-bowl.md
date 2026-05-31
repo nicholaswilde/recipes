@@ -41,10 +41,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
+- :gear: 1 blender
 - 1 medium pot
-- 1 fork
-- 1 rimmed baking sheet
+- :knife: 1 fork
+- :cookie: 1 rimmed baking sheet
 
 ## :pencil: Instructions
 

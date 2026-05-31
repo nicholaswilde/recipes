@@ -32,10 +32,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
-- 1 spatula
-- 1 small bowl
-- 1 2 tablespoon cookie scoop
+- :gear: 1 stand mixer
+- :spoon: 1 spatula
+- :bowl_with_spoon: 1 small bowl
+- :cookie: 1 2 tablespoon cookie scoop
 
 ## :pencil: Instructions
 

@@ -27,7 +27,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 pot
-- 1 immersion blender
+- :gear: 1 immersion blender
 
 ## :pencil: Instructions
 

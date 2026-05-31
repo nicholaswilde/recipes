@@ -40,7 +40,7 @@ tags:
 
 - 1 skillet
 - 1 9 x 13 dish
-- 1 foil
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions
 

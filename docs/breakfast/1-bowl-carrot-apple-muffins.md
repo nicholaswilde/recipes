@@ -35,11 +35,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
-- 1 muffin tin
+- :bowl_with_spoon: 1 large mixing bowl
+- :cookie: 1 muffin tin
 - 1 liners
 - 1 whisk
-- 1 toothpick
+- :knife: 1 toothpick
 
 ## :pencil: Instructions
 

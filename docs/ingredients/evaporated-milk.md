@@ -20,7 +20,7 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 non-stick heavy bottom saucepan
+- :shallow_pan_of_food: 1 non-stick heavy bottom saucepan
 
 ## :pencil: Instructions
 

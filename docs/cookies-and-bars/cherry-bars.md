@@ -43,11 +43,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 9-inch square baking pan
-- 1 medium bowl
-- 1 small bowl
-- 1 medium saucepan
-- 1 fork
-- 1 wire rack
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 small bowl
+- :shallow_pan_of_food: 1 medium saucepan
+- :knife: 1 fork
+- :wastebasket: 1 wire rack
 
 !!! tip
 

@@ -25,8 +25,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 blender
-- 1 freezer-safe dish
+- :gear: 1 blender
+- :snowflake: 1 freezer-safe dish
 
 ## :pencil: Instructions
 

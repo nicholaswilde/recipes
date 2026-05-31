@@ -30,8 +30,8 @@ comments: true
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 wooden spoon or mixer
-- 1 airtight container
+- :spoon: 1 wooden spoon or mixer
+- :package: 1 airtight container
 
 ## :pencil: Instructions
 

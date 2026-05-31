@@ -14,16 +14,16 @@ tags:
 ## :salt: Ingredients
 
 - 1 12-oz pkg white chocolate morsels
-- 24 pieces peppermint candies
+- :salt: 24 pieces peppermint candies
 
 ## :cooking: Cookware
 
-- 1 wax paper
-- 1 medium, microwave-safe bowl
+- :page_facing_up: 1 wax paper
+- :bowl_with_spoon: 1 medium, microwave-safe bowl
 - 1 heavy-duty resealable plastic food storage bag
-- 1 rolling pin
+- :wood: 1 rolling pin
 - 1 strainer
-- 1 baking sheet
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

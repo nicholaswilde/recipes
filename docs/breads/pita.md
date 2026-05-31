@@ -27,9 +27,9 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 clean dishtowel
-- 1 airtight container or plastic bag
+- :package: 1 airtight container or plastic bag
 
 ## :pencil: Instructions
 

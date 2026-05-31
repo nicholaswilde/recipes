@@ -40,13 +40,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 electric mixer
-- 1 baking sheets
-- 1 parchment paper
+- :cookie: 1 baking sheets
+- :page_facing_up: 1 parchment paper
 - 1 cooling rack
-- 1 offset spatula
+- :spoon: 1 offset spatula
 
 ## :pencil: Instructions - Cookies
 

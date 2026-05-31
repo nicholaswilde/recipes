@@ -30,14 +30,14 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 1.5 quart saucepan
+- :shallow_pan_of_food: 1 1.5 quart saucepan
 - 1 medium skillet
-- 1 piping bag
+- :package: 1 piping bag
 - 1 large star tip
-- 1 saucepan
+- :shallow_pan_of_food: 1 saucepan
 - 1 knife
 - 1 slotted spoon
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 serving plate
 
 ## :pencil: Instructions

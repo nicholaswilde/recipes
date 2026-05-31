@@ -22,8 +22,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 rimmed baking sheet
-- 1 food processor
+- :cookie: 1 rimmed baking sheet
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 

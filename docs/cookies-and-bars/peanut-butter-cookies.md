@@ -32,13 +32,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium-large bowl
+- :bowl_with_spoon: 1 medium-large bowl
 - 1 whisk
-- 1 stand mixer
-- 1 rubber spatula
-- 1 parchment
-- 1 baking sheet
-- 1 plastic wrap
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
+- :page_facing_up: 1 parchment
+- :cookie: 1 baking sheet
+- :package: 1 plastic wrap
 
 ## :pencil: Instructions
 

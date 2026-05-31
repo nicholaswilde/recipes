@@ -14,12 +14,12 @@ tags:
 ## :salt: Ingredients
 
 - 25 Joe-Joe's cookies
-- 4 Tbsp melted butter
-- 8 oz dark chocolate
-- 4 Tbsp butter
-- 4 egg yolks
-- 4 egg whites
-- 0.25 cup sugar
+- :butter: 4 Tbsp melted butter
+- :chestnut: 8 oz dark chocolate
+- :butter: 4 Tbsp butter
+- :egg: 4 egg yolks
+- :egg: 4 egg whites
+- :candy: 0.25 cup sugar
 
 ## :cooking: Cookware
 

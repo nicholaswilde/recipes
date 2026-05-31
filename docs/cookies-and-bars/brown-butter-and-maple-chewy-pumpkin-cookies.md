@@ -38,10 +38,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheet
-- 1 parchment paper
-- 1 medium bowl
-- 1 large mixing bowl
+- :cookie: 1 large baking sheet
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 medium bowl
+- :bowl_with_spoon: 1 large mixing bowl
 
 ## :pencil: Instructions - Cookies
 

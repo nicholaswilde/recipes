@@ -33,9 +33,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
-- 1 parchment
-- 1 large mixing bowl
+- :cookie: 1 baking sheet
+- :page_facing_up: 1 parchment
+- :bowl_with_spoon: 1 large mixing bowl
 - 1 cooling rack
 
 ## :pencil: Instructions

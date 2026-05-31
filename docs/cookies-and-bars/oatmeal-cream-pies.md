@@ -39,12 +39,12 @@ tags:
 ## :cooking: Cookware
 
 - 1 cookie sheet
-- 1 parchment paper
-- 1 stand mixer
-- 1 rubber spatula
+- :page_facing_up: 1 parchment paper
+- :gear: 1 stand mixer
+- :spoon: 1 rubber spatula
 - 1 bowl
-- 1 wire rack
-- 1 piping bag
+- :wastebasket: 1 wire rack
+- :package: 1 piping bag
 - 1 round tip
 
 ## :pencil: Instructions

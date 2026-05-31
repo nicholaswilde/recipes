@@ -21,8 +21,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheets
-- 1 parchment paper
+- :cookie: 1 large baking sheets
+- :page_facing_up: 1 parchment paper
 - 1 large pastry bag
 - 1 5/8 inch plain tip
 

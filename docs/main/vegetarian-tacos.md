@@ -43,9 +43,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large baking sheet
+- :cookie: 1 large baking sheet
 - 1 sauté pan
-- 1 small bowl
+- :bowl_with_spoon: 1 small bowl
 
 ## :pencil: Instructions
 

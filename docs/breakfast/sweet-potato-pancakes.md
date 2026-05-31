@@ -25,9 +25,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 - 1 griddle or nonstick skillet
-- 1 spatula
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

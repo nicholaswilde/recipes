@@ -33,7 +33,7 @@ tags:
 
 - 1 bowl
 - 1 deep frying pan
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 slotted spoon
 - 1 wide frying pan or skillet
 - 1 serving plate

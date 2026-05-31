@@ -28,8 +28,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 electric mixer
-- 1 large bowl
-- 1 medium bowl
+- :bowl_with_spoon: 1 large bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 8x8-inch dish or a 9-inch round cake pan
 
 ## :pencil: Instructions

@@ -29,9 +29,9 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 medium bowl
+- :bowl_with_spoon: 1 medium bowl
 - 1 pizza cutter
-- 1 baking sheet
+- :cookie: 1 baking sheet
 
 ## :pencil: Instructions
 

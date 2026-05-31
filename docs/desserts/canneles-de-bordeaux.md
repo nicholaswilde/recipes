@@ -13,29 +13,29 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 vanilla beans
-- 500 ml milk
-- 200 g cane sugar
-- 2 large eggs
-- 2 egg yolks
-- 50 g butter
-- 100 g all-purpose flour
-- 60 ml dark rum
-- 40 g beeswax
-- 60 g butter
+- :flower_playing_cards: 2 vanilla beans
+- :glass_of_milk: 500 ml milk
+- :candy: 200 g cane sugar
+- :egg: 2 large eggs
+- :egg: 2 egg yolks
+- :butter: 50 g butter
+- :bread: 100 g all-purpose flour
+- :tumbler_glass: 60 ml dark rum
+- :bee: 40 g beeswax
+- :butter: 60 g butter
 
 ## :cooking: Cookware
 
-- 1 saucepan.
+- :shallow_pan_of_food: 1 saucepan.
 - 1 bowl,
 - 1 fridge
 - 1 whisk
 - 1 mold
 - 1 cooling
-- 1 freezer
+- :snowflake: 1 freezer
 - 1 fridge
 - 1 oven
-- 1 foil-lined
+- :page_facing_up: 1 foil-lined
 - 1 cooling
 
 ## :pencil: Instructions

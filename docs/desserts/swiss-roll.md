@@ -26,10 +26,10 @@ tags:
 ## :cooking: Cookware
 
 - 1 32 x 22 cm Swiss roll tin
-- 1 baking parchment
+- :page_facing_up: 1 baking parchment
 - 1 hand-held electric whisk or food mixer
-- 1 large bowl
-- 1 wire rack
+- :bowl_with_spoon: 1 large bowl
+- :wastebasket: 1 wire rack
 - 1 damp tea towel
 
 ## :pencil: Instructions

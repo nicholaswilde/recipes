@@ -30,11 +30,11 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 baking sheet
+- :cookie: 1 baking sheet
 - 1 silicon mat
-- 1 large bowl
-- 1 fork
-- 1 spatula
+- :bowl_with_spoon: 1 large bowl
+- :knife: 1 fork
+- :spoon: 1 spatula
 
 ## :pencil: Instructions
 

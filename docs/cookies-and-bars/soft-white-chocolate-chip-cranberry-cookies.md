@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 bowl
-- 1 large baking sheets
-- 1 parchment paper or silicone baking mats
+- :cookie: 1 large baking sheets
+- :page_facing_up: 1 parchment paper or silicone baking mats
 
 ## :pencil: Instructions
 

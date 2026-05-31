@@ -36,7 +36,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 bowl
-- 1 fork
+- :knife: 1 fork
 - 1 glass jar
 
 ## :pencil: Instructions

@@ -24,8 +24,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 medium-size bowl
-- 1 silicone spatula or a sturdy wooden spoon
-- 1 rolling pin
+- :spoon: 1 silicone spatula or a sturdy wooden spoon
+- :wood: 1 rolling pin
 
 ## :pencil: Instructions - By Hand
 

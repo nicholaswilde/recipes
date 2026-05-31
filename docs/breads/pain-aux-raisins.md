@@ -48,14 +48,14 @@ tags:
 ## :cooking: Cookware
 
 - 1 dough scraper
-- 1 mixing bowl
-- 1 wooden spoon
+- :bowl_with_spoon: 1 mixing bowl
+- :spoon: 1 wooden spoon
 - 1 baking paper
-- 1 rolling pin
-- 1 medium bowl
+- :wood: 1 rolling pin
+- :bowl_with_spoon: 1 medium bowl
 - 1 balloon whisk
-- 1 small saucepan
-- 1 foil
+- :shallow_pan_of_food: 1 small saucepan
+- :page_facing_up: 1 foil
 
 ## :pencil: Instructions - Dough
 

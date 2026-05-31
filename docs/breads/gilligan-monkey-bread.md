@@ -29,7 +29,7 @@ tags:
 ## :cooking: Cookware
 
 - 1 Bundt pan
-- 1 plastic wrap
+- :package: 1 plastic wrap
 - 1 platter
 
 ## :pencil: Instructions

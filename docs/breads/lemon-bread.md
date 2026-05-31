@@ -40,11 +40,11 @@ tags:
 ## :cooking: Cookware
 
 - 1 5 x 9 loaf pan
-- 1 parchment paper
-- 1 mixing bowl
+- :page_facing_up: 1 parchment paper
+- :bowl_with_spoon: 1 mixing bowl
 - 1 stand or hand mixer
 - 1 cooling rack
-- 1 hand or stand mixer
+- :gear: 1 hand or stand mixer
 
 ## :pencil: Instructions - Bread
 

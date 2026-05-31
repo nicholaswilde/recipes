@@ -30,10 +30,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large mixing bowl
-- 1 stand mixer
-- 1 large baking sheets
-- 1 parchment paper
+- :bowl_with_spoon: 1 large mixing bowl
+- :gear: 1 stand mixer
+- :cookie: 1 large baking sheets
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

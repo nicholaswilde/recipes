@@ -30,8 +30,8 @@ comments: true
 
 ## :cooking: Cookware
 
-- 1 large pot
-- 1 immersion blender
+- :shallow_pan_of_food: 1 large pot
+- :gear: 1 immersion blender
 
 ## :pencil: Instructions
 

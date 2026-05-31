@@ -31,8 +31,8 @@ tags:
 ## :cooking: Cookware
 
 - 1 8.5 or 9 inch loaf pan
-- 1 parchment
-- 1 large bowl
+- :page_facing_up: 1 parchment
+- :bowl_with_spoon: 1 large bowl
 - 1 cooling rack
 - 1 paring knife
 

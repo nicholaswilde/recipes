@@ -25,10 +25,10 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 microwave-safe bowl
-- 1 larger mixing bowl
+- :bowl_with_spoon: 1 microwave-safe bowl
+- :bowl_with_spoon: 1 larger mixing bowl
 - 1 10 X 10 inch pan
-- 1 parchment paper
+- :page_facing_up: 1 parchment paper
 
 ## :pencil: Instructions
 

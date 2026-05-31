@@ -33,8 +33,8 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 rubber spatula
+- :bowl_with_spoon: 1 large bowl
+- :spoon: 1 rubber spatula
 - 1 electric mixer
 
 ## :pencil: Instructions

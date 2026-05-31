@@ -14,23 +14,23 @@ tags:
 ## :salt: Ingredients
 
 - 10 cups popcorn
-- 1 cup lightly salted roasted cashews
-- 1 cup dark brown sugar
-- 0.5 cup butter
-- 0.25 cup light corn syrup
-- 1 tsp ginger
-- 1 tsp cinnamon
-- 0.5 tsp baking soda
+- :salt: 1 cup lightly salted roasted cashews
+- :candy: 1 cup dark brown sugar
+- :butter: 0.5 cup butter
+- :candy: 0.25 cup light corn syrup
+- :sweet_potato: 1 tsp ginger
+- :chestnut: 1 tsp cinnamon
+- :chestnut: 0.5 tsp baking soda
 
 ## :cooking: Cookware
 
 - 1 17 X 11-inch shallow roasting pan
-- 1 foil
+- :page_facing_up: 1 foil
 - 1 heavy
-- 1 2-quart saucepan
-- 1 pastry brush
+- :shallow_pan_of_food: 1 2-quart saucepan
+- :paintbrush: 1 pastry brush
 - 1 candy thermometer
-- 1 large baking sheet
+- :cookie: 1 large baking sheet
 
 ## :pencil: Instructions
 

@@ -13,18 +13,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 cups heavy cream
-- 1 cup milk (2% or whole)
-- 8 large egg yolks
+- :glass_of_milk: 2 cups heavy cream
+- :glass_of_milk: 1 cup milk (2% or whole)
+- :egg: 8 large egg yolks
 - 12 oz bittersweet chocolate (66-72% cacao)
-- 0.5 cups granulated sugar
-- 0.5 tsp flaky sea salt
-- 1 tsp vanilla extract
+- :candy: 0.5 cups granulated sugar
+- :salt: 0.5 tsp flaky sea salt
+- :flower_playing_cards: 1 tsp vanilla extract
 - 2 Tbsp Grand Marnier (optional)
-- 1 cup heavy cream
-- 0.25 cups confectioners' sugar
-- 0.5 tsp flaky sea salt
-- 1 tsp vanilla extract
+- :glass_of_milk: 1 cup heavy cream
+- :candy: 0.25 cups confectioners' sugar
+- :salt: 0.5 tsp flaky sea salt
+- :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
 
