@@ -7,9 +7,9 @@ tags:
   - allrecipes
 ---
 
-# :jack_o_lantern: Iced Pumpkin Cookies Allrecipes
+# :jack_o_lantern: Iced Pumpkin Cookies
 
-![Iced Pumpkin Cookies Allrecipes][1]{ loading=lazy }
+![Iced Pumpkin Cookies][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -89,4 +89,4 @@ Drizzle or spread the glaze over the cooled cookies. Let the glaze set before se
 
 - <https://www.allrecipes.com/recipe/10033/iced-pumpkin-cookies/>
 
-[1]: <../assets/images/iced-pumpkin-cookies-allrecipes.jpg>
+[1]: <../assets/images/iced-pumpkin-cookies.jpg>
