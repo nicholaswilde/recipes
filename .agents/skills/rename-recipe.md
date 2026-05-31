@@ -16,9 +16,20 @@ This skill safely and completely renames a recipe along with all of its associat
      - **Cook Image:** `cook/{category}/{Old Recipe Name}.{jpg|png}`
      - **Docs Image Asset:** `docs/assets/images/{old-slug}.{jpg|png}`
 
-2. **Handle Target Conflicts:**
-   - Check if `<new_name>` already exists in the repository.
-   - If a recipe with `<new_name>` exists, consult the user on how to resolve the naming conflict (e.g., prefixing with "Classic" or distinguishing the recipes).
+2. **Check for Target Conflicts:**
+   - **Scan Configuration:** Search `zensical.toml` to see if an entry with `<new_name>` or target path `docs/{category}/{new-slug}.md` already exists.
+   - **Scan Filesystem:** Check for existing files matching the target name in:
+     - `docs/{category}/{new-slug}.md`
+     - `cook/{category}/{New Name}.cook`
+     - `cook/{category}/{New Name}.{jpg|png}`
+     - `docs/assets/images/{new-slug}.{jpg|png}`
+   - **Conflict Resolution Protocol:**
+     - If a conflict exists (e.g., another recipe has the same name or uses the same slug), do **not** overwrite it silently.
+     - Present the naming conflict details to the user (e.g., highlighting that both the source recipe and the conflicting target recipe exist).
+     - Use the `ask_question` tool to present structured options for conflict resolution, such as:
+       - **Option 1 (Differentiate New):** Rename the new recipe to a differentiated title (e.g., adding a prefix/suffix like "Classic" or "Scratch").
+       - **Option 2 (Differentiate Existing):** Rename the existing conflicting recipe to a more specific title (e.g., appending its author/brand) to free up the exact generic name for the new recipe.
+       - **Option 3 (Overwrite/Merge):** Replace/delete the existing recipe to make the new one the sole recipe under that name (only if explicitly requested).
 
 3. **Rename Files via Git (`git mv`):**
    - Rename the files using `git mv` to preserve commit history:
