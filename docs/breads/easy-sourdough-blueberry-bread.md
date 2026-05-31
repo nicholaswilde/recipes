@@ -5,9 +5,9 @@ tags:
   - sourdough
   - blueberry
 ---
-# :bread: Easy Sourdough Blueberry Bread Farmhouse on Boone
+# :bread: Easy Sourdough Blueberry Bread
 
-![Easy Sourdough Blueberry Bread Farmhouse on Boone][1]{ loading=lazy }
+![Easy Sourdough Blueberry Bread][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -100,4 +100,4 @@ Allow the bread to cool in the pan for 20 minutes before transferring it to a **
 
 - <https://www.farmhouseonboone.com/easy-sourdough-blueberry-bread/>
 
-[1]: <../assets/images/easy-sourdough-blueberry-bread-farmhouse-on-boone.jpg>
+[1]: <../assets/images/easy-sourdough-blueberry-bread.jpg>
