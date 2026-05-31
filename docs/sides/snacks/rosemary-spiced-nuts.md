@@ -17,20 +17,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 lb (450 g) :chestnut: mixed nuts
-- 1 Tbsp :butter: unsalted butter
-- 1 Tbsp :honey_pot: maple syrup
-- 2 Tbsp :herb: fresh rosemary
-- 1 Tbsp :candy: dark brown sugar
-- 0.5 tsp :hot_pepper: cayenne pepper
-- 2 tsp :salt: flaky sea salt
-- 1 tsp :herb: fresh rosemary
+- :chestnut: 1 lb (450 g) mixed nuts
+- :butter: 1 Tbsp unsalted butter
+- :honey_pot: 1 Tbsp maple syrup
+- :herb: 2 Tbsp fresh rosemary
+- :candy: 1 Tbsp dark brown sugar
+- :hot_pepper: 0.5 tsp cayenne pepper
+- :salt: 2 tsp flaky sea salt
+- :herb: 1 tsp fresh rosemary
 - :salt: flaky sea salt
 
 ## :cooking: Cookware
 
-- 1 :cookie: rimmed baking sheet
-- 1 :bowl_with_spoon: large bowl
+- :cookie: 1 rimmed baking sheet
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 

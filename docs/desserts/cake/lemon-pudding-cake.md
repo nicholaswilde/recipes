@@ -16,16 +16,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 large :egg: egg yolks
-- 1 cup (198 g) :candy: granulated sugar, divided
-- 1 cup (227 g) :glass_of_milk: whole milk
-- 0.5 cups (114 g) :tangerine: fresh lemon juice (from about 2 to 3 lemons)
-- 1 Tbsp (6 g) :tangerine: finely grated lemon zest
-- 2 Tbsp (28 g) :butter: unsalted butter
-- 1 tsp :flower_playing_cards: vanilla extract
-- 0.25 cups (30 g) :bread: all-purpose flour
-- 0.25 tsp (1.5 g) :salt: kosher salt
-- 3 large :egg: egg whites
+- :egg: 3 large egg yolks
+- :candy: 1 cup (198 g) granulated sugar, divided
+- :glass_of_milk: 1 cup (227 g) whole milk
+- :tangerine: 0.5 cups (114 g) fresh lemon juice (from about 2 to 3 lemons)
+- :tangerine: 1 Tbsp (6 g) finely grated lemon zest
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla extract
+- :bread: 0.25 cups (30 g) all-purpose flour
+- :salt: 0.25 tsp (1.5 g) kosher salt
+- :egg: 3 large egg whites
 - :candy: powdered sugar
 - :glass_of_milk: whipped cream
 

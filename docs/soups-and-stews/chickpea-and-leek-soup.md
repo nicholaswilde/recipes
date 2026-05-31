@@ -16,16 +16,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 12 oz (340 g) :beans: chickpeas, dried (or 2 cans 14 oz)
+- :beans: 12 oz (340 g) chickpeas, dried (or 2 cans 14 oz)
 - :droplet: water
-- 1 :sweet_potato: medium potato
+- :sweet_potato: 1 medium potato
 - :stew: stock
-- 1 Tbsp (14 g) :olive: olive oil
-- 1 knob (14 g) :butter: butter
-- 5 :onion: medium leeks
-- 2 :garlic: garlic cloves
+- :olive: 1 Tbsp (14 g) olive oil
+- :butter: 1 knob (14 g) butter
+- :onion: 5 medium leeks
+- :garlic: 2 garlic cloves
 - :salt: salt
-- 1.5 pints (850 ml) :stew: chicken or vegetable stock
+- :stew: 1.5 pints (850 ml) chicken or vegetable stock
 - :salt: freshly ground black pepper
 - :cheese_wedge: Parmesan cheese
 - :olive: extra-virgin olive oil

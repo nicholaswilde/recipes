@@ -15,15 +15,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 2 sticks (225 g) :butter: Unsalted butter, room temperature
-- 1 1/2 cups (300 g) :candy: Granulated sugar
-- 1 large :egg: Egg
-- 1 1/3 cups (225 g) :bread: All-purpose flour (or :bread: Bread flour for a taller cookie)
-- 1/4 cup (45 g) :chestnut: Corn flour
-- 2/3 cup (65 g) :chestnut: Freeze-dried corn powder
-- 3/4 tsp (3 g) :chestnut: Baking powder
-- 1/4 tsp (1.5 g) :chestnut: Baking soda
-- 1 1/2 tsp (6 g) :salt: Kosher salt
+- :butter: 2 sticks (225 g) Unsalted butter, room temperature
+- :candy: 1 1/2 cups (300 g) Granulated sugar
+- :egg: 1 large Egg
+- :bread: 1 1/3 cups (225 g) All-purpose flour (or :bread: Bread flour for a taller cookie)
+- :chestnut: 1/4 cup (45 g) Corn flour
+- :chestnut: 2/3 cup (65 g) Freeze-dried corn powder
+- :chestnut: 3/4 tsp (3 g) Baking powder
+- :chestnut: 1/4 tsp (1.5 g) Baking soda
+- :salt: 1 1/2 tsp (6 g) Kosher salt
 
 ## :cooking: Cookware
 

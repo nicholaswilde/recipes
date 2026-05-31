@@ -16,27 +16,27 @@ tags:
 ## :salt: Ingredients
 
 ### Cake
-- 2 bottles (11.2–12 oz each) :tumbler_glass: Guinness Draught Stout
-- 1 3/4 cups (219 g) :bread: All-purpose flour
-- 3/4 cup (62 g) :chestnut: Unsweetened natural cocoa powder
-- 1 3/4 cups (350 g) :candy: Granulated sugar
-- 2 tsp :chestnut: Baking soda
-- 1 tsp :chestnut: Baking powder
-- 1 tsp :salt: Salt
-- 2 tsp :coffee: Espresso powder (optional)
-- 1/2 cup (120 ml) :olive: Vegetable or canola oil
-- 3/4 cup (180 g) :baby_bottle: Full-fat sour cream, room temperature
-- 2 large :egg: Eggs, room temperature
-- 2 tsp :flower_playing_cards: Pure vanilla extract
-- 1/2 cup (120 ml) :glass_of_milk: Buttermilk, room temperature
+- :tumbler_glass: 2 bottles (11.2–12 oz each) Guinness Draught Stout
+- :bread: 1 3/4 cups (219 g) All-purpose flour
+- :chestnut: 3/4 cup (62 g) Unsweetened natural cocoa powder
+- :candy: 1 3/4 cups (350 g) Granulated sugar
+- :chestnut: 2 tsp Baking soda
+- :chestnut: 1 tsp Baking powder
+- :salt: 1 tsp Salt
+- :coffee: 2 tsp Espresso powder (optional)
+- :olive: 1/2 cup (120 ml) Vegetable or canola oil
+- :baby_bottle: 3/4 cup (180 g) Full-fat sour cream, room temperature
+- :egg: 2 large Eggs, room temperature
+- :flower_playing_cards: 2 tsp Pure vanilla extract
+- :glass_of_milk: 1/2 cup (120 ml) Buttermilk, room temperature
 
 ### Frosting
-- 8 oz (224 g) :cheese_wedge: Full-fat brick cream cheese, softened
-- 1/2 cup (115 g) :butter: Unsalted butter, softened
-- 3 1/2 cups (420 g) :candy: Confectioners’ sugar
-- 1/2 cup (41 g) :chestnut: Unsweetened cocoa powder
-- 2 Tbsp :tumbler_glass: Reduced Guinness
-- 1 tsp :flower_playing_cards: Pure vanilla extract
+- :cheese_wedge: 8 oz (224 g) Full-fat brick cream cheese, softened
+- :butter: 1/2 cup (115 g) Unsalted butter, softened
+- :candy: 3 1/2 cups (420 g) Confectioners’ sugar
+- :chestnut: 1/2 cup (41 g) Unsweetened cocoa powder
+- :tumbler_glass: 2 Tbsp Reduced Guinness
+- :flower_playing_cards: 1 tsp Pure vanilla extract
 
 ## :cooking: Cookware
 

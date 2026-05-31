@@ -16,34 +16,34 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 :tomato: Roma or plum tomatoes
-- 1 :tomato: tomatillo, husk removed
-- 0.25 :onion: onion, layers separated
-- 1 :garlic: garlic clove
-- 1 Tbsp (9 g) :chestnut: almonds
-- 1 Tbsp (9 g) :chestnut: peanuts
-- 2 tsp (6 g) :seedling: pumpkin seeds
-- 2 tsp (6 g) :seedling: sesame seeds
-- 1 :chestnut: small cinnamon stick
-- 1 :chestnut: allspice berry
-- 1 :chestnut: clove
-- 0.125 tsp (0.4 g) :seedling: fennel seeds
-- 0.125 tsp (0.4 g) :chestnut: cumin seeds
-- 1 :herb: dried avocado leaf or bay leaf
-- 10 :hot_pepper: dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
-- 5 :hot_pepper: dried pasilla chiles, seeds and veins removed and reserved
-- 3 :hot_pepper: dried guajillo chiles, seeds and veins removed and reserved
-- 2.5 cups (567 g) :stew: vegetable broth
-- 0.5 cup (21 g) :bread: torn bread pieces (like ciabatta or baguette)
-- 0.5 cup :bread: torn corn tortilla pieces
-- 3 Tbsp (42 g) :butter: vegan butter
-- 2 Tbsp (18 g) :grapes: raisins
-- 1 tsp :herb: fresh thyme leaves
-- 1 tsp :herb: fresh oregano leaves
-- 0.5 tsp :herb: fresh marjoram
-- 0.5 disk (43 g) :chestnut: stone-ground Mexican dark chocolate, broken into pieces
-- 1 Tbsp (18 g) :salt: Himalayan salt
-- 1 Tbsp (12 g) :candy: sugar
+- :tomato: 4 Roma or plum tomatoes
+- :tomato: 1 tomatillo, husk removed
+- :onion: 0.25 onion, layers separated
+- :garlic: 1 garlic clove
+- :chestnut: 1 Tbsp (9 g) almonds
+- :chestnut: 1 Tbsp (9 g) peanuts
+- :seedling: 2 tsp (6 g) pumpkin seeds
+- :seedling: 2 tsp (6 g) sesame seeds
+- :chestnut: 1 small cinnamon stick
+- :chestnut: 1 allspice berry
+- :chestnut: 1 clove
+- :seedling: 0.125 tsp (0.4 g) fennel seeds
+- :chestnut: 0.125 tsp (0.4 g) cumin seeds
+- :herb: 1 dried avocado leaf or bay leaf
+- :hot_pepper: 10 dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
+- :hot_pepper: 5 dried pasilla chiles, seeds and veins removed and reserved
+- :hot_pepper: 3 dried guajillo chiles, seeds and veins removed and reserved
+- :stew: 2.5 cups (567 g) vegetable broth
+- :bread: 0.5 cup (21 g) torn bread pieces (like ciabatta or baguette)
+- :bread: 0.5 cup torn corn tortilla pieces
+- :butter: 3 Tbsp (42 g) vegan butter
+- :grapes: 2 Tbsp (18 g) raisins
+- :herb: 1 tsp fresh thyme leaves
+- :herb: 1 tsp fresh oregano leaves
+- :herb: 0.5 tsp fresh marjoram
+- :chestnut: 0.5 disk (43 g) stone-ground Mexican dark chocolate, broken into pieces
+- :salt: 1 Tbsp (18 g) Himalayan salt
+- :candy: 1 Tbsp (12 g) sugar
 
 ## :cooking: Cookware
 

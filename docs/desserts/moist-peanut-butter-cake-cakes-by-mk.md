@@ -15,27 +15,27 @@ tags:
 ## :salt: Ingredients
 
 ### Cake
-- 1 2/3 cups (210 g) :bread: All-purpose flour
-- 3 Tbsp (24 g) :chestnut: Cornstarch
-- 1/2 tsp :chestnut: Baking soda
-- 2 tsp (8 g) :chestnut: Baking powder
-- 1/2 tsp :salt: Salt
-- 1/3 cup (80 g) :butter: Unsalted butter, room temperature
-- 1/3 cup (75 g) :olive: Unflavored vegetable oil
-- 1/2 cup (100 g) :candy: White granulated sugar
-- 3/4 cup (150 g) :candy: Light soft brown sugar
-- 2/3 cup (150 g) :chestnut: Smooth unsweetened peanut butter
-- 3 large :egg: Eggs, room temperature
-- 1 1/2 tsp :flower_playing_cards: Vanilla extract
-- 1 cup (225 g) :glass_of_milk: Buttermilk, room temperature
+- :bread: 1 2/3 cups (210 g) All-purpose flour
+- :chestnut: 3 Tbsp (24 g) Cornstarch
+- :chestnut: 1/2 tsp Baking soda
+- :chestnut: 2 tsp (8 g) Baking powder
+- :salt: 1/2 tsp Salt
+- :butter: 1/3 cup (80 g) Unsalted butter, room temperature
+- :olive: 1/3 cup (75 g) Unflavored vegetable oil
+- :candy: 1/2 cup (100 g) White granulated sugar
+- :candy: 3/4 cup (150 g) Light soft brown sugar
+- :chestnut: 2/3 cup (150 g) Smooth unsweetened peanut butter
+- :egg: 3 large Eggs, room temperature
+- :flower_playing_cards: 1 1/2 tsp Vanilla extract
+- :glass_of_milk: 1 cup (225 g) Buttermilk, room temperature
 
 ### Peanut Butter Frosting
-- 1 1/2 cups (340 g) :butter: Unsalted butter, room temperature
-- 3 cups (375 g) :candy: Powdered sugar
-- 2 tsp :flower_playing_cards: Vanilla extract
-- 1/2 cup (120 g) :glass_of_milk: Heavy cream, room temperature
-- 1/2 tsp :salt: Salt
-- 1 cup (250 g) :chestnut: Smooth unsweetened peanut butter
+- :butter: 1 1/2 cups (340 g) Unsalted butter, room temperature
+- :candy: 3 cups (375 g) Powdered sugar
+- :flower_playing_cards: 2 tsp Vanilla extract
+- :glass_of_milk: 1/2 cup (120 g) Heavy cream, room temperature
+- :salt: 1/2 tsp Salt
+- :chestnut: 1 cup (250 g) Smooth unsweetened peanut butter
 
 ## :cooking: Cookware
 

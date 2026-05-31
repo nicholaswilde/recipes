@@ -14,12 +14,12 @@ tags:
 
 ## :salt: Ingredients
 
-- 4 cups (480 g) :bread: all-purpose flour
-- 1 tsp (6 g) :salt: salt
-- 1.5 Tbsp (18 g) :chestnut: baking powder
-- 1.5 cups (340 g) :droplet: hot water (120°F to 130°F)
-- 2 Tbsp (25 g) :olive: vegetable oil
-- some :olive: vegetable oil (for frying)
+- :bread: 4 cups (480 g) all-purpose flour
+- :salt: 1 tsp (6 g) salt
+- :chestnut: 1.5 Tbsp (18 g) baking powder
+- :droplet: 1.5 cups (340 g) hot water (120°F to 130°F)
+- :olive: 2 Tbsp (25 g) vegetable oil
+- :olive: some vegetable oil (for frying)
 
 ## :cooking: Cookware
 

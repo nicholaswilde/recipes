@@ -16,16 +16,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 pound (454 g) :mushroom: medium cremini or white button mushrooms
-- 1 Tbsp (14 g) :olive: extra-virgin olive oil
-- 1 :garlic: small shallot
-- 2 :garlic: garlic cloves, minced
-- 2 oz (56 g) :cheese_wedge: reduced-fat cream cheese (Neufchâtel)
-- 0.25 cup (25 g) :cheese_wedge: grated Parmesan cheese
-- 2 Tbsp (5 g) :herb: fresh parsley, chopped
-- 0.25 tsp (1.5 g) :salt: salt
-- 0.25 tsp (0.5 g) :salt: freshly ground pepper
-- 0.25 cup (12.5 g) :bread: panko breadcrumbs
+- :mushroom: 1 pound (454 g) medium cremini or white button mushrooms
+- :olive: 1 Tbsp (14 g) extra-virgin olive oil
+- :garlic: 1 small shallot
+- :garlic: 2 garlic cloves, minced
+- :cheese_wedge: 2 oz (56 g) reduced-fat cream cheese (Neufchâtel)
+- :cheese_wedge: 0.25 cup (25 g) grated Parmesan cheese
+- :herb: 2 Tbsp (5 g) fresh parsley, chopped
+- :salt: 0.25 tsp (1.5 g) salt
+- :salt: 0.25 tsp (0.5 g) freshly ground pepper
+- :bread: 0.25 cup (12.5 g) panko breadcrumbs
 - :olive: cooking spray
 
 ## :cooking: Cookware
