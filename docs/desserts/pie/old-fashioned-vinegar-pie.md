@@ -6,9 +6,10 @@ tags:
   - pie
   - desperation pie
 ---
-# Old-Fashioned Vinegar Pie Southern Living
 
-![Old-Fashioned Vinegar Pie Southern Living][1]{ loading=lazy }
+# :pie: Old-Fashioned Vinegar Pie
+
+![Old-Fashioned Vinegar Pie][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -44,13 +45,11 @@ Roll out the Single-Crust Pie Pastry and fit it into a 9-inch pie plate.
 
 ### Step 3
 
-Blind bake the crust (using pie weights) at 350°F for 20 minutes, then remove weights and bake for another 10 minutes
-until lightly browned.
+Blind bake the crust (using pie weights) at 350°F for 20 minutes, then remove weights and bake for another 10 minutes until lightly browned.
 
 ### Step 4
 
-In a medium bowl, whisk together the large eggs, granulated sugar, light brown sugar, vanilla extract, melted unsalted
-butter, apple cider vinegar, honey, all-purpose flour, and kosher salt until smooth.
+In a medium bowl, whisk together the large eggs, granulated sugar, light brown sugar, vanilla extract, melted unsalted butter, apple cider vinegar, honey, all-purpose flour, and kosher salt until smooth.
 
 ### Step 5
 
@@ -72,5 +71,4 @@ Dust with powdered sugar before serving.
 
 - <https://www.southernliving.com/recipes/old-fashioned-vinegar-pie>
 
-[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.jpg>
-
+[1]: <../../assets/images/old-fashioned-vinegar-pie.jpg>
