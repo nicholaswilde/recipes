@@ -1,0 +1,5 @@
+# Author & Recipe Whitelist
+# Add names, substrings, or full recipe titles here to exclude them from being flagged as having an author in the title.
+
+Tante Myrna Seccia
+Tante Myrn

@@ -16,5 +16,6 @@
 - I have imported the `liteparse` skill into `.agents/skills/liteparse.md`.
 - I have imported Stella Parks' BraveTart Brownies recipe, updated zensical.toml, includes/emoji.yaml, and dictionary.txt, and downloaded the recipe's hero image.
 - I have removed the Peanut Butter Stuffed Brownies recipe, including its CookLang, Markdown, image files, and menu configurations.
+- Always consult and filter out terms in `.agents/author_whitelist.txt` when listing recipes containing author names in their titles to respect whitelisted names (e.g. "Tante Myrna Seccia").
 
 
