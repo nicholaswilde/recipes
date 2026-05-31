@@ -6,9 +6,9 @@ tags:
   - magnolia
 ---
 
-# :racehorse: Magnolia Ranchero Sauce
+# :racehorse: Ranchero Sauce
 
-![Magnolia Ranchero Sauce][1]{ loading=lazy }
+![Ranchero Sauce][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -55,4 +55,4 @@ If making ahead, the ranchero sauce will keep for 3 to 5 days in an airtight con
 
 - <https://magnolia.com/blog/article/428153/huevos-rancheros-recipe/>
 
-[1]: <../../assets/images/magnolia-ranchero-sauce.jpg>
+[1]: <../../assets/images/ranchero-sauce.jpg>
