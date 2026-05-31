@@ -4,9 +4,9 @@ tags:
   - bread
   - king-arthur
 ---
-# Pretzel Buns (King Arthur Baking)
+# Pretzel Buns
 
-![Pretzel Buns (King Arthur Baking)][1]{ loading=lazy }
+![Pretzel Buns][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -88,4 +88,4 @@ Transfer to a rack to cool. These are best enjoyed fresh on the day they are bak
 
 - <https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe>
 
-[1]: <../assets/images/pretzel-buns-(king-arthur-baking).jpg>
+[1]: <../assets/images/pretzel-buns.jpg>
