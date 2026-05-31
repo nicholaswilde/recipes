@@ -114,6 +114,7 @@ ayam
 babka
 Babka
 babkas
+backend
 bain-marie
 bakewise
 BakeWise
@@ -298,6 +299,8 @@ coli
 collard greens
 Comté
 Conchas
+config
+Config
 cookiedough
 cooklang
 cooklang.
@@ -365,6 +368,8 @@ di
 dishwashing
 disney
 ditalini
+docx
+DOCX
 dominique-ansel
 doneness
 donut
@@ -380,6 +385,8 @@ Dulce
 Dulcey
 dulse
 duxelles
+easyocr
+EasyOCR
 EatingWell
 echinacea
 edamame
@@ -510,6 +517,8 @@ Huevos
 hungarian
 iFoodReal
 Ikarian
+imagemagick
+ImageMagick
 Improver
 ina-garten
 Incredisauce
@@ -540,6 +549,8 @@ Jicama
 joanne
 Jojo's
 jose
+json
+JSON
 julia
 julia child
 julia-child
@@ -589,8 +600,14 @@ limoncello
 Limoncello
 Limonsardo
 liquidy
+liteparse
+LiteParse
 liz
 Liz
+llamaindex
+LlamaIndex
+llm
+LLM
 Lofthouse
 low-carb
 Lumpia
@@ -699,6 +716,7 @@ Non-Diastatic
 nora-cooks
 nori
 Nori
+npm
 NYT
 oelek
 oil-tahini
@@ -721,6 +739,8 @@ overprocess
 overwhip
 overwhipping
 ozs
+paddleocr
+PaddleOCR
 paneer
 panera
 Panisse
@@ -876,7 +896,6 @@ Russe
 Saba
 sabayon
 Sablé
-Saffitz
 Saffitz
 Saffitz's
 Salata
@@ -1060,6 +1079,8 @@ widthwise
 wonton
 Wontons
 xanthan
+xlsx
+XLSX
 Yeasted
 za'atar
 Zahav
