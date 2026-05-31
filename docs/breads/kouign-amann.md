@@ -5,9 +5,9 @@ tags:
   - dessert
 ---
 
-# :bread: Claire Saffitz's Kouign-Amann
+# :bread: Kouign-Amann
 
-![Claire Saffitz's Kouign-Amann][1]{ loading=lazy }
+![Kouign-Amann][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -141,4 +141,4 @@ Immediately remove from pan and transfer to a wire rack; let cool.
 
 - [YouTube](https://youtube.com/watch?v=Mb9OBQhWucA&si=rG5YN-iv8hY_QVr8)
 
-[1]: <../assets/images/claire-saffitz's-kouign-amann.jpg>
+[1]: <../assets/images/kouign-amann.jpg>
