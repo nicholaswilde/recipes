@@ -5,9 +5,9 @@ tags:
   - sourdough
   - amy bakes bread
 ---
-# Maple Pecan Sourdough Bread Amy Bakes Bread
+# Maple Pecan Sourdough Bread
 
-![Maple Pecan Sourdough Bread Amy Bakes Bread][1]{ loading=lazy }
+![Maple Pecan Sourdough Bread][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -96,4 +96,4 @@ Cool completely on a wire rack before slicing.
 
 - [Maple Pecan Sourdough Bread - Amy Bakes Bread](https://amybakesbread.com/maple-pecan-sourdough-bread/)
 
-[1]: <../assets/images/maple-pecan-sourdough-bread-amy-bakes-bread.jpg>
+[1]: <../assets/images/maple-pecan-sourdough-bread.jpg>
