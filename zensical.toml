@@ -461,6 +461,7 @@ Desserts = [
   { "Pumpkin Spiced Apple Pie" = "desserts/pumpkin-spiced-apple-pie.md" },
   { "Reine be Saba (Queen of Sheba)" = "desserts/cake/reine-be-saba-(queen-of-sheba).md" },
   { "Rhubarb Cake" = "desserts/cake/rhubarb-cake.md" },
+  { "Rhubarb Frangipane Tart" = "desserts/tarts/rhubarb-frangipane-tart.md" },
   { "Rice Krispies" = "desserts/rice-krispies.md" },
   { "Salted Caramel Peanut Brittle" = "desserts/salted-caramel-peanut-brittle.md" },
   { "Salted Pistachio Meringues" = "desserts/salted-pistachio-meringues.md" },

@@ -23,6 +23,7 @@
 20x50cm
 236ºF
 23cm
+23cm-diameter
 24x8
 25g
 2A
@@ -458,6 +459,7 @@ Fraîche
 Framboise
 Frangelico
 frangipane
+Frangipane
 fresca
 Fresca
 frico
@@ -929,6 +931,8 @@ sabayon
 Sablé
 Saffitz
 Saffitz's
+Sainsbury
+Sainsbury's
 Salata
 sallys-baking-addiction
 sam
