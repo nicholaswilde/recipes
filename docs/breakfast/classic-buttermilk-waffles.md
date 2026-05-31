@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-  - king-arthur
+  - bake-off
 ---
 
 # :waffle: Classic Buttermilk Waffles
@@ -12,56 +12,68 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 10 | 40 minutes |
+| 4 | 50 minutes |
 
 ## :salt: Ingredients
 
-- :egg: 2 large eggs
-- :glass_of_milk: 397 g buttermilk
-- :butter: 8 Tbsp melted butter
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 210 g all-purpose flour
-- :candy: 25 g granulated sugar
-- :dash: 2 tsp baking powder
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 1 tsp salt
+- :ear_of_rice: 1 3/4 cups (210 g) all-purpose flour
+- :dash: 2 1/4 tsp baking powder
+- :cup_with_straw: 1/4 tsp baking soda
+- :corn: 2 Tbsp (16 g) cornstarch
+- :candy: 3 Tbsp + 1 tsp (40 g) granulated sugar
+- :salt: 1/2 tsp fine sea salt
+- :egg: 3 large eggs
+- :glass_of_milk: 3/4 cup (180 g) buttermilk
+- :glass_of_milk: 3/4 cup (180 g) heavy cream
+- :butter: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
 
 ## :cooking: Cookware
 
-- 1 medium-sized mixing bowl
+- 2 mixing bowls
+- 1 wooden spoon
 - 1 waffle iron
+- 1 pastry brush
 
 ## :pencil: Instructions
 
 ### Step 1
 
-In a medium-sized mixing bowl, beat together the eggs, buttermilk, melted butter, and vanilla.
+In a bowl, whisk together the all-purpose flour, baking powder, baking soda, cornstarch, granulated sugar, and fine sea salt.
 
 ### Step 2
 
-In a separate bowl whisk together the all-purpose flour, granulated sugar, baking powder, baking soda, and salt.
+In another bowl, whisk together the eggs, buttermilk, and heavy cream.
 
 ### Step 3
 
-Combine the wet and dry ingredients, stirring just until nearly smooth; a few small lumps may remain.
+Using a wooden spoon, stir the wet ingredients into the dry ingredients until a few streaks of flour remain, but the batter is almost mixed together.
 
 ### Step 4
 
-Spray your waffle iron with a non-stick cooking spray before preheating it. Cook waffles according to the manufacturer's
-directions. For an 8" round waffle iron, use about 1/3 cup batter; cook for 2 to 3 minutes, until the iron stops
-steaming.
+Add the unsalted butter and stir until just combined.
+
+!!! important
+
+    Allow the batter to rest for 15 to 30 minutes.
+
+### Step 5
+
+Heat a waffle iron.
+
+### Step 6
+
+Brush butter on both sides of the waffle iron.
+
+### Step 7
+
+Pour about 1/3 cup of batter onto the iron and cook according to the manufacturer's directions.
 
 !!! tip
 
     Waffles are best consumed as soon as they're baked, but in a pinch you may place them on a rack to cool, wrap
     tightly to store in the refrigerator, then reheat for 6 minutes in a 350°F oven.
 
-!!! note
-
-    Leave out the sugar if you want savory waffles, such as the type you'd use as a base for creamed chipped beef or
-    fried chicken.
-
 ## :link: Sources
 
-- <https://www.kingarthurbaking.com/recipes/classic-buttermilk-waffles-recipe>
-- <https://www.thekitchn.com/waffle-recipe-reviews-23107623>
+- <https://ohsweetbasil.com/ultimate-waffle-recipe/>
+- <https://www.thepancakeprincess.com/best-buttermilk-waffle-bake-off/>
