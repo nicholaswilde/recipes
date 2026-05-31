@@ -3,7 +3,7 @@ comments: true
 tags:
   - main
 ---
-# Grilled Tofu with Chimichurri Sauce
+# :custard: Grilled Tofu with Chimichurri Sauce
 
 ![Grilled Tofu with Chimichurri Sauce][1]{ loading=lazy }
 
