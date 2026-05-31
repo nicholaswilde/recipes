@@ -306,6 +306,7 @@ Config
 cookiedough
 cooklang
 cooklang.
+Cooklang
 Copha
 corncake
 Corncakes
@@ -659,6 +660,7 @@ maura
 Maura
 maynards-bakery
 McMillen
+MCP
 mediterranean
 medjool
 Medjool
@@ -701,6 +703,7 @@ muscavado
 mushroom-kombu
 musir
 Musir
+Myrna
 Myrn's
 nappage
 Nasi
@@ -928,6 +931,7 @@ Shaoxing
 Sheehan
 Shoofly
 shortbreads
+shortcode
 shortcodes
 Shutterbean
 Sicilia

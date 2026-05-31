@@ -24,6 +24,7 @@
 - **Callouts:** Use `!!! tip` for additional advice, variations, or "pro-tips" that enhance the recipe.
 - **Metadata:** Every recipe must include relevant tags and source information in the front matter.
 - **Sources:** All recipes must include a `## :link: Source` section at the end of the Markdown file. If a "Pancake Princess" bake-off link is provided in the source issue, it must be included as an additional reference in this section.
+- **Personal Recipes:** Retain personal or family recipes in the collection. These usually have sources listed as plain text without URLs (e.g., `Recipe Box`, `Tante Myrna Seccia`). Do not remove or deprecate them during cleanup or duplicate audits.
 
 - **Reference Charts:**
     - Use the "Grid Cards" layout for better mobile readability and visual appeal.
