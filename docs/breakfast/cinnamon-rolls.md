@@ -1,158 +1,129 @@
 ---
 comments: true
 tags:
-
   - breakfast
+  - bake-off
 ---
 
 # :doughnut: Cinnamon Rolls
 
 ![Cinnamon Rolls](../assets/images/cinnamon-rolls.png){ loading=lazy }
 
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 2.5 hours |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 12 | 15 hours |
 
 ## :salt: Ingredients - Dough
 
-- :ear_of_rice: 4 cups (480 g) all-purpose flour
-- :microbe: 1 pkg instant yeast
-- :salt: 1 tsp salt
-- :candy: 0.33 cup (65 g) sugar
-- :glass_of_milk: 1.5 cups milk
-- :butter: 6 Tbsp unsalted butter
-- :egg: 1 egg
+- :glass_of_milk: 3/4 cup (170 g) whole milk, warmed
+- :honey_pot: 1/4 cup (85 g) honey
+- :egg: 4 large eggs, room temperature
+- :ear_of_rice: 4 cups (568 g) all-purpose flour
+- :microbe: 2 1/4 tsp instant yeast
+- :salt: 2 tsp salt
+- :butter: 10 Tbsp (142 g) unsalted butter, room temperature, cut into pieces
 
 ## :salt: Ingredients - Cinnamon Sugar Filling
 
-- :maple_leaf: 0.67 cup (143 g) light brown sugar
-- :custard: 1 Tbsp cinnamon
+- :butter: 2 Tbsp (29 g) unsalted butter, melted and cooled
+- :maple_leaf: 1/2 cup (100 g) brown sugar, packed
+- :custard: 1 Tbsp ground cinnamon
 - :salt: 1 pinch salt
-- :butter: 0.25 cup (57 g) unsalted butter
-
-### :cupcake: Filling Variation
-
-- :butter: 115 g unsalted butter
-- :maple_leaf: 170 g light brown sugar
-- :custard: 2 Tbsp cinnamon
-- :chestnut: 1/2 tsp nutmeg
-- :salt: 1/4 tsp salt
-- :chestnut: 115 g toasted pecans
 
 ## :salt: Ingredients - Cream Cheese Frosting
 
-- :cheese_wedge: 4 oz cream cheese
-- :butter: 0.5 cup (114 g) butter
-- :candy: 3 cups (594 g) confectioners' sugar
-- :glass_of_milk: 3 Tbsp milk
+- :butter: 8 Tbsp (113 g) unsalted butter, room temperature
+- :cheese_wedge: 4 oz (114 g) cream cheese, room temperature
+- :flower_playing_cards: 1 tsp vanilla extract
+- :candy: 1 cup (120 g) confectioners' sugar
 - :salt: 1 pinch salt
-- :icecream: 1 tsp vanilla
-
-### :cake: Frosting Variation
-
-- :cheese_wedge: 4 oz cream cheese
-- :icecream: 2 tsp vanilla
-- :candy: 141 g confectioners' sugar
 
 ## :cooking: Cookware
 
-- 1 large bowl
-- 1 microwave safe bowl
+- 1 stand mixer or large mixing bowl
+- 1 paddle attachment
+- 1 dough hook
+- 1 greased bowl
 - 1 small bowl
-- 1 floss or a very sharp knife
-- 1 9 x 13 inch pan
-- 1 parchment paper
-- 1 dish cloth
+- unscented dental floss or a very sharp knife
+- 1 9x13-inch baking pan
+- parchment paper
 
 ## :pencil: Instructions - Dough
 
 ### Step 1
 
-In a large bowl combine 2 cups of the all-purpose flour, instant yeast, salt and sugar in a bowl. Mix to combine.
+In a bowl or the bowl of a stand mixer, whisk together the warm whole milk, honey, and large eggs.
 
 ### Step 2
 
-In a microwave safe bowl, microwave the milk and butter for 30 seconds until warm and the butter is mostly melted. The
-mixture should be warm, but not hot. If it is too hot, make sure to let it cool before adding to the yeast to prevent
-killing the yeast. Add the warm milk and butter to the flour mixture.
+Add the all-purpose flour, instant yeast, and salt. Using a paddle attachment, mix on low speed for 2 minutes until a shaggy dough forms.
 
 ### Step 3
 
-Add the egg.
+Let the dough rest for 15 to 20 minutes.
 
 ### Step 4
 
-Beat on low speed, gradually increasing to high until completely combined, about 2 minutes.
+Switch to a dough hook. Knead the dough on medium-low speed for 5 minutes.
 
 ### Step 5
 
-Scrape down the bowl and add 1 more cup of flour, beating until combined. Add the remaining cup of flour in a little at
-a time until the dough starts to pull away from the sides of the bowl and form a ball.
+With the mixer running, add the unsalted butter one piece at a time, mixing until fully incorporated. Knead for another 5 minutes until the dough is smooth, soft, and slightly sticky.
 
 ### Step 6
 
-Turn the dough out onto a well floured surface and knead for about 10 minutes until smooth and you can stretch a piece
-of dough out between your fingers without it breaking. This means the gluten has developed and your dough will be
-pillowy soft.
+Place the dough in a greased bowl and cover. Let rise for 30 minutes.
 
 ### Step 7
 
-Transfer the dough to an oiled bowl and cover. Let rise in a warm place for 1 hour or until the dough has doubled in
-size.
-
-## :pencil: Instructions - Cinnamon Sugar Filling
+Reach under the dough, pull it up, and fold it over itself. Repeat this folding technique 3 more times at 30-minute intervals (for 2 hours total of rising and folding).
 
 ### Step 8
 
-While the dough rises, make the filling. Combine the light brown sugar, cinnamon, and salt together in a small bowl and
-mix well. Set aside.
+Cover the bowl tightly with plastic wrap and refrigerate overnight (or up to 24 hours).
+
+## :pencil: Instructions - Assembly & Baking
 
 ### Step 9
 
-Once the dough has risen, roll it out into a long rectangle about 18 x 12 inches on a well floured surface.
+Roll the chilled dough on a well-floured surface into an 18 x 12-inch rectangle.
 
 ### Step 10
 
-Spread the butter for the filling all the way to the edge of the dough. Sprinkle the sugar mixture over the butter,
-pressing it down to stick to the butter.
+Brush the dough with 2 tablespoons of melted and cooled unsalted butter.
 
 ### Step 11
 
-From the long end, roll the dough away from you into a tight roll, sealing the bottom edge down by pinching the dough
-together.
+In a small bowl, mix together the brown sugar, ground cinnamon, and pinch of salt. Sprinkle this mixture evenly over the butter, pressing down gently.
 
 ### Step 12
 
-Use floss or a very sharp knife to cut the dough into 12 even rolls. Place the rolls in a 9 x 13 inch pan lined with
-parchment paper. Cover loosely with a dish cloth and allow to rise for another hour until doubled in size and puffed up.
+From the long end, roll the dough into a tight log, pinching the seam to seal.
 
 ### Step 13
 
-Bake the cinnamon rolls at 350°F for 30 minutes or until they are golden brown and no longer doughy. Allow to cool.
-
-## :pencil: Instructions - Cream Cheese Frosting
+Cut the log into 12 even rolls using unscented dental floss or a very sharp knife. Place the rolls in a greased 9x13-inch baking pan lined with parchment paper.
 
 ### Step 14
 
-While the rolls cool, make the cream cheese frosting. In a stand mixer fit with the whisk attachment combine the cream
-cheese, butter, confectioners' sugar, milk, salt, and vanilla extract. Beat on low speed, gradually increasing to high
-until light and fluffy. Spread the icing evenly over the 12 rolls. Enjoy warm!
+Cover loosely and let rise in a warm place for 1 to 1.5 hours until puffed and doubled.
 
-!!! tip "Filling Variation"
+### Step 15
 
-    Prepare filling with the same bowl and beater, mixing butter, brown sugar, cinnamon, nutmeg, and salt on low speed
-    until moistened. Increase to medium and beat the dark paste until creamy, light in color, and very soft, about 5
-    minutes. Transfer to a zip-top bag or disposable pastry bag and set aside until needed, up to 24 hours at room
-    temperature. Reserve the pecans until it's time to fill and shape the rolls.
+Preheat oven to 350°F. Bake the rolls for 25 to 30 minutes until golden brown.
 
-!!! tip "Frosting Variation"
+## :pencil: Instructions - Cream Cheese Frosting & Glazing
 
-    Combine cream cheese and vanilla with half the confectioners' sugar in the bowl of a stand mixer fitted with a
-    paddle attachment. Mix on low to moisten, then sprinkle in the rest of the sugar a little at a time. Once it is
-    incorporated, increase to medium and beat until creamy and pale ivory, about 5 minutes. Transfer to a zip-top bag
-    or disposable pastry bag and set aside until needed, up to 24 hours at room temperature. (If your kitchen is chilly
-    and the frosting hardens in that time, briefly microwave the bag to restore its creamy texture before use.)
+### Step 16
 
-## :link: Source
+In a stand mixer fitted with the paddle attachment, beat the unsalted butter and cream cheese until smooth. Beat in the vanilla extract, confectioners' sugar, and a pinch of salt until light and fluffy.
 
-- <https://bromabakery.com/homemade-cinnamon-rolls-soft-fluffy/>
+### Step 17
+
+**Double-glaze:** Spread half of the frosting immediately over the warm cinnamon rolls so it melts into the cracks. Allow the rolls to cool for 15 minutes, then spread the remaining frosting over the top.
+
+## :link: Sources
+
+- <https://thevanillabeanblog.com/cinnamon-rolls/>
+- <https://www.thepancakeprincess.com/best-cinnamon-roll-bake-off/>
