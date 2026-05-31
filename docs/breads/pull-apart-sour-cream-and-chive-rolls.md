@@ -17,59 +17,56 @@ tags:
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1/2 Batch                          |
+=== "1 Batch"
 
-### :bread: 1/2 Batch - Tangzhong
+    ### :bread: Tangzhong
 
-- :glass_of_milk: 0.25 (57 g) cup whole milk
-- :ear_of_rice: 21 g bread flour
-- :droplet: 0.25 (57 g) cup water
+    - :glass_of_milk: 0.5 (113 g) cup whole milk
+    - :ear_of_rice: 42 g bread flour
+    - :droplet: 0.5 (113 g) cup water
 
-### :bread: 1/2 Batch - Dough
+    ### :bread: Dough
 
-- :glass_of_milk: 1 Tbsp whole milk
-- :microbe: 0.75 tsp active dry yeast
-- :rice: 1/2 cup (113 g) sour cream
-- :candy: 25 g granulated sugar
-- :salt: 2 tsp salt
-- :egg: 1 egg
-- :butter: 2 Tbsp (28 g) unsalted butter
-- :ear_of_rice: 313 g bread flour
-- :butter: 1 Tbsp (14 g) unsalted butter
-- :herb: 0.25 cup chives
-- :egg: 1/2 egg
-- :salt: some flaky sea salt
-- :salt: some pepper
-- :butter: 1 Tbsp (14 g) unsalted butter
+    - :glass_of_milk: 2 Tbsp whole milk
+    - :microbe: 1.5 tsp active dry yeast
+    - :rice: 1 cup (227 g) sour cream
+    - :candy: 50 g granulated sugar
+    - :salt: 4 tsp salt
+    - :egg: 2 egg
+    - :butter: 4 Tbsp (57 g) unsalted butter
+    - :ear_of_rice: 625 g bread flour
+    - :butter: 2 Tbsp (28 g) unsalted butter
+    - :herb: 0.5 cup chives
+    - :egg: 1 egg
+    - :salt: some flaky sea salt
+    - :salt: some pepper
+    - :butter: 2 Tbsp (28 g) unsalted butter
 
-| :fork_and_knife_with_plate:Serves |
-|:---------------------------------:|
-| 1 Batch                           |
+=== "1/2 Batch"
 
-### :bread: 1 Batch - Tangzhong
+    ### :bread: Tangzhong
 
-- :glass_of_milk: 0.5 (113 g) cup whole milk
-- :ear_of_rice: 42 g bread flour
-- :droplet: 0.5 (113 g) cup water
+    - :glass_of_milk: 0.25 (57 g) cup whole milk
+    - :ear_of_rice: 21 g bread flour
+    - :droplet: 0.25 (57 g) cup water
 
-### :bread: 1 Batch - Dough
+    ### :bread: Dough
 
-- :glass_of_milk: 2 Tbsp whole milk
-- :microbe: 1.5 tsp active dry yeast
-- :rice: 1 cup (227 g) sour cream
-- :candy: 50 g granulated sugar
-- :salt: 4 tsp salt
-- :egg: 2 egg
-- :butter: 4 Tbsp (57 g) unsalted butter
-- :ear_of_rice: 625 g bread flour
-- :butter: 2 Tbsp (28 g) unsalted butter
-- :herb: 0.5 cup chives
-- :egg: 1 egg
-- :salt: some flaky sea salt
-- :salt: some pepper
-- :butter: 2 Tbsp (28 g) unsalted butter
+    - :glass_of_milk: 1 Tbsp whole milk
+    - :microbe: 0.75 tsp active dry yeast
+    - :rice: 1/2 cup (113 g) sour cream
+    - :candy: 25 g granulated sugar
+    - :salt: 2 tsp salt
+    - :egg: 1 egg
+    - :butter: 2 Tbsp (28 g) unsalted butter
+    - :ear_of_rice: 313 g bread flour
+    - :butter: 1 Tbsp (14 g) unsalted butter
+    - :herb: 0.25 cup chives
+    - :egg: 1/2 egg
+    - :salt: some flaky sea salt
+    - :salt: some pepper
+    - :butter: 1 Tbsp (14 g) unsalted butter
+
 
 ## :cooking: Cookware
 
