@@ -3,9 +3,9 @@ comments: true
 tags:
   - breakfast
 ---
-# Belgian Pearl Sugar Liege Waffles (Lars Own)
+# Belgian Pearl Sugar Liege Waffles
 
-![Belgian Pearl Sugar Liege Waffles (Lars Own)][1]{ loading=lazy }
+![Belgian Pearl Sugar Liege Waffles][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -66,5 +66,5 @@ Bake in a preheated and greased waffle iron for 2 to 3 minutes or until deep gol
 
 - Lars Own
 
-[1]: <../assets/images/belgian-pearl-sugar-liege-waffles-(lars-own).jpg>
+[1]: <../assets/images/belgian-pearl-sugar-liege-waffles.jpg>
 
