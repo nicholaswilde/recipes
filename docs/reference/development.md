@@ -291,16 +291,28 @@ npm install -g markdown-link-check
     docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp/path/to/file" -c "/tmp{{ .ROOT_DIR }}/mlc_config.json"
     ```
 
-### :robot: [Google Gemini CLI][15]
+### :robot: [Google Antigravity CLI][15]
 
-Used for AI-assisted repository management, including recipe imports and maintenance. It automates several steps of the manual workflow, such as extracting recipe data from URLs, creating `.cook` files, downloading images, and updating the site configuration.
+Used for AI-assisted repository management, including recipe imports and maintenance. It automates several steps of the manual workflow, such as using **LiteParse** to extract structured recipe information from local documents and images, fetching recipes from URLs, creating `.cook` files, downloading images, and updating the site configuration.
 
 ```shell title="Usage"
 # Import a recipe from a GitHub issue
-gemini -i "Import recipe from issue #1333"
+antigravity -i "Import recipe from issue #1333"
 
 # Perform codebase maintenance
-gemini -i "Run zensical serve and fix any issues"
+antigravity -i "Run zensical serve and fix any issues"
+```
+
+### :scissors: [LiteParse][16]
+
+Used by the Google Antigravity CLI and AI coding assistants to extract text and layout-aware recipe information from local files and images without cloud or LLM dependencies.
+
+```shell title="Installation"
+npm install --global @llamaindex/liteparse
+```
+
+```shell title="Usage"
+lit parse document.pdf
 ```
 
 ### [Emojipedia][4]
@@ -333,4 +345,5 @@ Website used to search for emoji contexts.
 [12]: <https://github.com/nicholaswilde/cooklang-micro>
 [13]: <https://micro-editor.github.io/>
 [14]: <https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions>
-[15]: <https://github.com/google-gemini/gemini-cli>
+[15]: <https://github.com/google-gemini/antigravity-cli>
+[16]: <https://github.com/run-llama/liteparse>
