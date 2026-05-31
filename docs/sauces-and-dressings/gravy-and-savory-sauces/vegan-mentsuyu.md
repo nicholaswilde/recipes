@@ -7,9 +7,9 @@ tags:
   - vegan
 ---
 
-# :wine_glass: Vegan Mentsuyu Okonomi Kitchen
+# :wine_glass: Vegan Mentsuyu
 
-![Vegan Mentsuyu Okonomi Kitchen](../../../assets/images/vegan-mentsuyu-okonomi-kitchen.jpg){ loading=lazy }
+![Vegan Mentsuyu](../../../assets/images/vegan-mentsuyu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
