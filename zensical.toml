@@ -498,7 +498,6 @@ Desserts = [
   { "Vanilla Cupcakes" = "desserts/cupcakes/vanilla-cupcakes.md" },
   { "Vanilla Pudding" = "desserts/vanilla-pudding.md" },
   { "Vegan Banana Ice Cream" = "desserts/vegan-banana-ice-cream.md" },
-  { "Vegan Carrot Cake" = "desserts/cake/vegan-carrot-cake.md" },
   { "Vegan Chocolate Pudding with Cinnamon & Chile" = "desserts/vegan-chocolate-pudding-with-cinnamon-and-chile.md" },
   { "Vegan Strawberry Cake" = "desserts/cake/vegan-strawberry-cake.md" },
   { "Vegan Vanilla Cake" = "desserts/vegan-vanilla-cake.md" },
