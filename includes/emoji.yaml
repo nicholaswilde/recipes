@@ -196,6 +196,8 @@ emoji:
         - semi-sweet chocolate
         - extra-bittersweet chocolate
         - dark chocolate
+        - finely chopped dark chocolate, about 72%
+        - Dutch-process cocoa powder
         - Mexican chocolate
         - stone-ground Mexican dark chocolate, broken into pieces
         - almonds
@@ -233,6 +235,8 @@ emoji:
         - white chocolate chips
         - milk chocolate chips
         - chocolate melts
+        - finely chopped dark chocolate, about 72%
+        - Dutch-process cocoa powder
     - coconut:
         - full-fat coconut milk
         - shredded coconut
@@ -268,6 +272,7 @@ emoji:
         - egg whites
         - egg yolk
         - eggs
+        - large eggs
     - flower_playing_cards:
         - vanilla extract
         - pure vanilla extract
@@ -404,6 +409,7 @@ emoji:
         - Pretzel salt
         - Kosher salt
         - Morton kosher salt
+        - Diamond Crystal kosher salt
         - black pepper
         - fleur de sel
         - pepper

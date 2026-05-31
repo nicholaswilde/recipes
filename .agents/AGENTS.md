@@ -14,3 +14,5 @@
 - I have updated the Butternut Squash Tahini Curry recipe with a new image and source (Practically Vegan book).
 - I have created a new Gemini command `/zensical fix` in `.gemini/commands/zensical-fix.toml` to validate the project and fix build issues.
 - I have imported the `liteparse` skill into `.agents/skills/liteparse.md`.
+- I have imported Stella Parks' BraveTart Brownies recipe, updated zensical.toml, includes/emoji.yaml, and dictionary.txt, and downloaded the recipe's hero image.
+
