@@ -7,9 +7,9 @@ tags:
   - gluten-free
 ---
 
-# :pizza: Cauliflower Pizza Crust iFoodReal
+# :pizza: Cauliflower Pizza Crust
 
-![Cauliflower Pizza Crust iFoodReal][1]{ loading=lazy }
+![Cauliflower Pizza Crust][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -89,4 +89,4 @@ Let the pizza cool for 1 to 2 minutes before cutting into 8 slices.
 
 - <https://ifoodreal.com/cauliflower-pizza-crust/>
 
-[1]: <../assets/images/cauliflower-pizza-crust-ifoodreal.jpg>
+[1]: <../assets/images/cauliflower-pizza-crust.jpg>
