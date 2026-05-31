@@ -751,6 +751,7 @@ Nori
 npm
 NYT
 oelek
+Oelek
 oil-tahini
 ok
 Okonomi
@@ -868,6 +869,8 @@ purée
 purée
 Purée
 puréed
+pureeing
+puréeing
 Puttanesca
 quenelle
 queso
@@ -939,6 +942,7 @@ sallys-baking-addiction
 sam
 Sam
 sambal
+Sambal
 Samoas
 Sardinian
 Sarouhan
