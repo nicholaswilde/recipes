@@ -4,9 +4,9 @@ tags:
   - bread
 ---
 
-# :bread: Sandwich Rye Bread King Arthur Baking
+# :bread: Sandwich Rye Bread
 
-![Sandwich Rye Bread King Arthur Baking][1]{ loading=lazy }
+![Sandwich Rye Bread][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -78,4 +78,4 @@ Remove the bread from the oven and turn it out of the pan onto a **wire rack** t
 
 - <https://www.kingarthurbaking.com/recipes/sandwich-rye-bread-recipe>
 
-[1]: <../assets/images/sandwich-rye-bread-king-arthur-baking.jpg>
+[1]: <../assets/images/sandwich-rye-bread.jpg>
