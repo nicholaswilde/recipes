@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+  - bake-off
 ---
 
 # :cake: Vegan Vanilla Cake
@@ -74,8 +75,9 @@ Pour the batter evenly into the prepared pans and bake for 30 to 35 minutes, unt
 
 Allow to cool in the pans for 15 minutes, then carefully invert them onto a cooling rack to cool completely before frosting with Vegan Buttercream Frosting (optional, decorate with vegan friendly sprinkles).
 
-## :link: Source
+## :link: Sources
 
 - <https://www.noracooks.com/vegan-vanilla-cake/>
+- <https://www.thepancakeprincess.com/best-vegan-vanilla-cake-bake-off/>
 
 [1]: <../assets/images/vegan-vanilla-cake.jpg>
