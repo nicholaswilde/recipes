@@ -35,6 +35,8 @@
 350ºF
 3A
 3B
+3g-4g
+3G/4G
 400ºF
 42cm
 450g
@@ -63,6 +65,7 @@ Abricot
 Acine
 adobo
 Adobo
+afterEach
 agar agar
 Aglio
 Agresta's
@@ -111,6 +114,7 @@ asian
 aspergillus
 Aspergillus
 au
+Auditable
 autolyse
 Autolyse
 ayam
@@ -118,6 +122,7 @@ babka
 Babka
 babkas
 backend
+Backend
 bain-marie
 bakewise
 BakeWise
@@ -137,6 +142,7 @@ Beccherie
 béchamel
 Béchamel
 beefless
+beforeEach
 bella
 beurre
 Beurre
@@ -245,6 +251,8 @@ chang
 chantilly
 chasmi
 chasni
+checkpointing
+Checkpointing
 chetna-makan
 Chex
 Chez
@@ -299,6 +307,7 @@ CLI
 clouté
 Clouté
 coconut aminos
+codebase
 coli
 collard greens
 Comté
@@ -309,6 +318,8 @@ cookiedough
 cooklang
 cooklang.
 Cooklang
+cooklang-based
+Cooklang-based
 Copha
 corncake
 Corncakes
@@ -454,6 +465,7 @@ Frico
 frittata
 Frittata
 Frittatas
+Frontend
 Funfetti
 Fuscilli
 fusilli
@@ -482,6 +494,8 @@ gnudi
 Gnudi
 GNUDI
 Gochujang
+godoc
+GoDoc
 gordon-ramsay
 Goreng
 gracias
@@ -503,6 +517,7 @@ Gulab
 habanero
 habaneros
 hafrashas
+hardcoded
 harina
 Harina
 harissa
@@ -517,6 +532,7 @@ hoisin
 Hollandaise
 Honour
 Horiatiki
+hotfix
 huacatay
 Huevos
 hungarian
@@ -554,8 +570,10 @@ Jicama
 joanne
 Jojo's
 jose
+JS
 json
 JSON
+judgement
 julia
 julia child
 julia-child
@@ -600,10 +618,12 @@ lengthways
 levain
 Levain
 libby
+lifecycle
 Ligurian
 limoncello
 Limoncello
 Limonsardo
+linters
 liquidy
 liteparse
 LiteParse
@@ -658,6 +678,7 @@ mascarpone
 Mascarpone
 masoor
 Masoor
+MathJax
 maura
 Maura
 maynards-bakery
@@ -693,6 +714,7 @@ miso-glazed
 Miso-Glazed
 Mixiote
 MkDocs
+mkdocs-material
 moldable
 Monde
 Montélimar
@@ -822,7 +844,9 @@ pourable
 pre-baked
 prebaked
 pre-commit
+Pre-commit
 precut
+Pre-Deployment
 Pre-made
 preroasted
 preshape
@@ -928,6 +952,7 @@ sealable
 Seccia
 sel
 serrano
+SHA
 Shakshuka
 Shaoxing
 Sheehan
@@ -977,6 +1002,7 @@ struffoli
 Struffoli
 Stuf
 Stuf.
+subdirectories
 Sucree
 Superfood
 Sureau
@@ -1006,6 +1032,7 @@ tassies
 Tassies
 Tatin
 Tbsps
+teardown
 teff
 Teff
 tempeh
@@ -1046,6 +1073,7 @@ Twix
 tylose
 Tyme
 uber-creamy
+UI
 umami
 Umami
 unblanched
@@ -1082,6 +1110,7 @@ Verts
 vietnamese
 webp
 well-puréed
+whitespace
 Whoopie
 widthwise
 wonton
@@ -1089,10 +1118,13 @@ Wontons
 xanthan
 xlsx
 XLSX
+XSS
+YAML
 Yeasted
 za'atar
 Zahav
 Zeb's
+Zensical
 Zepeda
 zested
 zhoug
