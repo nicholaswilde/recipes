@@ -6,9 +6,9 @@ tags:
   - dessert
 ---
 
-# :butter: Holiday Butter Cookies King Arthur Baking
+# :butter: Holiday Butter Cookies
 
-![Holiday Butter Cookies King Arthur Baking][1]{ loading=lazy }
+![Holiday Butter Cookies][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -86,4 +86,4 @@ When cool, ice and decorate as desired.
 
 - [The Pancake Princess - Best Sugar Cookie Bake-Off](https://www.thepancakeprincess.com/2017/12/20/best-sugar-cookie-bake-off/)
 
-[1]: <../../assets/images/holiday-butter-cookies-king-arthur-baking.jpg>
+[1]: <../assets/images/holiday-butter-cookies.jpg>
