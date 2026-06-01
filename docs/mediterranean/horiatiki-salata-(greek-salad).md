@@ -8,9 +8,9 @@ tags:
   - greek
 ---
 
-# :green_salad: Cook's Illustrated Horiatiki Salata (Greek Salad)
+# :green_salad: Horiatiki Salata (Greek Salad)
 
-![Cook's Illustrated Horiatiki Salata (Greek Salad)][1]{ loading=lazy }
+![Horiatiki Salata (Greek Salad)][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -71,4 +71,4 @@ extra oregano to taste. Drizzle feta with remaining 1 Tbsp olive oil.
 - <https://www.cooksillustrated.com/recipes/13159-horiatiki-salata-hearty-greek-salad-for-two>
 - Recipe Box
 
-[1]: <../assets/images/cook's-illustrated-horiatiki-salata.jpg>
+[1]: <../assets/images/horiatiki-salata.jpg>
