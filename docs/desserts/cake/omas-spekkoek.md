@@ -86,4 +86,4 @@ Repeat this process, baking each alternating layer after layer, until the cake i
 
 ## :link: Source
 
-- [GitHub Issue #1364](https://github.com/nicholaswilde/recipes/issues/1364)
+- *Indo Dutch Kitchen Secrets* by Jeff Kesberry ([GitHub Issue #1364](https://github.com/nicholaswilde/recipes/issues/1364))
