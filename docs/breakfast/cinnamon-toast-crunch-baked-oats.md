@@ -5,9 +5,9 @@ tags:
   - breakfast
 ---
 
-# :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats Recipe by Tasty
+# :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats
 
-![Cinnamon Toast Crunch Baked Oats Recipe by Tasty][1]{ loading=lazy }
+![Cinnamon Toast Crunch Baked Oats][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -54,4 +54,4 @@ Enjoy!
 
 - <https://tasty.co/recipe/cinnamon-toast-crunch-baked-oats>
 
-[1]: <../assets/images/cinnamon-toast-crunch-baked-oats-recipe-by-tasty.jpg>
+[1]: <../assets/images/cinnamon-toast-crunch-baked-oats.jpg>
