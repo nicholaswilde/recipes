@@ -551,6 +551,7 @@ ina-garten
 Incredisauce
 indian
 Indigo
+indo-dutch
 indonesian
 israeli
 italian
@@ -760,6 +761,8 @@ ok
 Okonomi
 Olde
 Olio
+Oma
+Oma's
 ombre
 omelettes
 orecchiette
@@ -1000,6 +1003,8 @@ Soyrizo
 spaetzle
 Spaetzle
 spaghettoni
+spekkoek
+Spekkoek
 Spelt
 spiralize
 spiralled
