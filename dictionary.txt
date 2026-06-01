@@ -387,6 +387,7 @@ di
 dishwashing
 disney
 ditalini
+djinten
 docx
 DOCX
 doenjang
@@ -590,8 +591,12 @@ julienned
 kabocha
 kaffir
 Kalamata
+katjang
+Katjang
+kencur
 kenji-lopez-alt
 Kesberry
+ketumbar
 Kickin
 Kickstarter
 kilpatrick
@@ -905,6 +910,10 @@ rehydrated
 Reine
 reinvert
 Relleno
+rempejek
+Rempejek
+rempeyek
+Rempeyek
 replacer
 repo
 Reroll
