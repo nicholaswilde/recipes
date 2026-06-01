@@ -18,5 +18,6 @@
 - I have removed the Peanut Butter Stuffed Brownies recipe, including its CookLang, Markdown, image files, and menu configurations.
 - Always consult and filter out terms in `.agents/author_whitelist.txt` when listing recipes containing author names in their titles to respect whitelisted names (e.g. "Tante Myrna Seccia").
 - When importing a recipe that calls for **terasi** (shrimp paste / belacan), always substitute it with a markdown link to the Vegetarian Terasi recipe (`[Vegetarian Terasi](../ingredients/vegetarian-terasi.md)`, adjusting the relative path as needed) in both the ingredients list and the instructions. Do not list terasi as a plain ingredient.
+- When importing a recipe that calls for **sambal oelek** (or sambal ulek), always substitute it with a markdown link to the Sambal Oelek recipe (`[Sambal Oelek](../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)`, adjusting the relative path as needed) in both the ingredients list and the instructions. Do not list sambal oelek as a plain ingredient.
 
 
