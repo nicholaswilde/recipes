@@ -10,9 +10,9 @@ tags:
   - the pancake princess
   - bake-off
 ---
-# :cookie: Tartine's Soft Glazed Gingerbread
+# :cookie: Soft Glazed Gingerbread
 
-![Tartine's Soft Glazed Gingerbread][1]{ loading=lazy }
+![Soft Glazed Gingerbread][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -111,4 +111,4 @@ Let cool completely until the glaze dries to a shiny, opaque finish. If baked as
 - <https://www.food.com/recipe/tartines-soft-glazed-gingerbread-491511>
 - <https://www.thepancakeprincess.com/2020/12/10/best-gingerbread-cookie-bake-off/>
 
-[1]: <../assets/images/tartines-soft-glazed-gingerbread.jpg>
+[1]: <../assets/images/soft-glazed-gingerbread.jpg>
