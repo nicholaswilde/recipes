@@ -6,9 +6,9 @@ tags:
   - stella-parks
   - serious-eats
 ---
-# :cookie: Oatmeal Raisin Cookies (Serious Eats)
+# :cookie: Oatmeal Raisin Cookies
 
-![Oatmeal Raisin Cookies (Serious Eats)][1]{ loading=lazy }
+![Oatmeal Raisin Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -78,4 +78,4 @@ Let the cookies cool completely on the baking sheet.
 
 - <https://www.seriouseats.com/oatmeal-raisin-cookies-recipe-8759166>
 
-[1]: <../assets/images/oatmeal-raisin-cookies-(serious-eats).jpg>
+[1]: <../assets/images/oatmeal-raisin-cookies.jpg>

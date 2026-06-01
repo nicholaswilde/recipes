@@ -7,9 +7,9 @@ tags:
   - tante-myrna-seccia
 ---
 
-# :cookie: Oatmeal Raisin
+# :cookie: Oatmeal Raisin Cookies (Classic)
 
-![Oatmeal Raisin](../assets/images/oatmeal-raisin.jpg){ loading=lazy }
+![Oatmeal Raisin Cookies (Classic)](../assets/images/oatmeal-raisin-cookies-(classic).jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
