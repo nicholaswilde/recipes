@@ -367,6 +367,8 @@ Dal
 dals
 Danette's
 dashi
+daun
+Daun
 dauphine
 Dauphine
 de
@@ -594,6 +596,10 @@ Kalamata
 katjang
 Katjang
 kencur
+kering
+Kering
+kentang
+Kentang
 kenji-lopez-alt
 Kesberry
 ketumbar
@@ -955,6 +961,8 @@ Saffitz's
 Sainsbury
 Sainsbury's
 Salata
+salam
+Salam
 sallys-baking-addiction
 sam
 Sam
