@@ -1054,7 +1054,6 @@ Mediterranean = [
 ]
 [[project.nav]]
 Sides = [
-  { "Alton Brown's White Trash" = "sides/snacks/alton-brown's-white-trash.md" },
   { "America's Test Kitchen Best Baked Potatoes" = "sides/potatoes/america's-test-kitchen-best-baked-potatoes.md" },
   { "America's Test Kitchen Best Baked Sweet Potatoes" = "sides/potatoes/america's-test-kitchen-best-baked-sweet-potatoes.md" },
   { "Amish Potato Salad" = "sides/potatoes/amish-potato-salad.md" },
@@ -1217,6 +1216,7 @@ Sides = [
   { "Vegetable Casserole" = "sides/vegetables/vegetable-casserole.md" },
   { "Vegetarian Egg Rolls" = "sides/snacks/vegetarian-egg-rolls.md" },
   { "Vegetarian Stuffing" = "sides/vegetables/vegetarian-stuffing.md" },
+  { "White Trash" = "sides/snacks/white-trash.md" },
   { "Wontons" = "sides/snacks/wontons.md" },
   { "Zesty Roasted Vegetables" = "sides/vegetables/zesty-roasted-vegetables.md" },
 ]

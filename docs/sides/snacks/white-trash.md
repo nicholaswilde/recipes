@@ -1,6 +1,6 @@
-# Alton Brown's White Trash
+# White Trash
 
-![Alton Brown's White Trash](../assets/images/alton-brown's-white-trash.jpg){ loading=lazy }
+![White Trash](../../assets/images/white-trash.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
