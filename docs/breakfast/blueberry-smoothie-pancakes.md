@@ -7,9 +7,9 @@ tags:
   - jamie-oliver
 ---
 
-# :pancakes: Jamie Oliver Blueberry Smoothie Pancakes
+# :pancakes: Blueberry Smoothie Pancakes
 
-![Jamie Oliver Blueberry Smoothie Pancakes][1]{ loading=lazy }
+![Blueberry Smoothie Pancakes][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -46,4 +46,4 @@ remaining blueberries.
 Place oil in heated pan, then pour batter to make pancakes. Top with yogurt (optional), cinnamon (optional), nuts
 (optional), and honey (optional).
 
-[1]: <../assets/images/jamie-oliver-blueberry-smoothie-pancakes.jpg>
+[1]: <../assets/images/blueberry-smoothie-pancakes.jpg>
