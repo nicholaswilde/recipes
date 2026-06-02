@@ -4,12 +4,12 @@ tags:
 
   - bread
   - bake-off
-hero: assets/images/cornbread.jpg
+hero: assets/images/sweet-cornbread.jpg
 ---
 
-# :corn: Cornbread
+# :corn: Sweet Cornbread
 
-![Cornbread][1]{ loading=lazy }
+![Sweet Cornbread][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -56,4 +56,4 @@ out clean or with a few moist crumbs.
 - <https://www.melskitchencafe.com/the-cornbread-and-fluffy-honey-butter/>
 - <https://www.thepancakeprincess.com/2019/11/24/best-sweet-cornbread-bake-off/>
 
-[1]: <../assets/images/cornbread.jpg>
+[1]: <../assets/images/sweet-cornbread.jpg>
