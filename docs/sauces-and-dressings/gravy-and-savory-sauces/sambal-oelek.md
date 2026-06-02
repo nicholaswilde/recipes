@@ -60,4 +60,4 @@ Allow the paste to cool completely, then spoon it into a clean, airtight glass j
 
 ## :link: Source
 
-- <https://tashasartisanfoods.com/blog/homemade-sambal-oelek-recipe/>
+- <https://tashasartisanfoods.com/blog/vegan-sambal-oelek-recipe/>

@@ -74,5 +74,5 @@ Allow to cool in the pan for 5 minutes, then transfer the muffins to a wire rack
 
 ## :link: Sources
 
-- <https://www.kingarthurbaking.com/recipes/jordan-marsh-blueberry-muffins-recipe>
+- <https://www.kingarthurbaking.com/recipes/famous-jordan-marsh-blueberry-muffins-recipe>
 - <https://www.thepancakeprincess.com/best-blueberry-muffin-bake-off/>
