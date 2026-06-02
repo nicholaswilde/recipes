@@ -3,9 +3,9 @@ comments: true
 tags:
   - breakfast
 ---
-# NYT Dutch Baby
+# Dutch Baby
 
-![NYT Dutch Baby][1]{ loading=lazy }
+![Dutch Baby][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -61,5 +61,5 @@ sugar.
 
 - <https://cooking.nytimes.com/recipes/6648-dutch-baby>
 
-[1]: <../assets/images/nyt-dutch-baby.jpg>
+[1]: <../assets/images/dutch-baby.jpg>
 
