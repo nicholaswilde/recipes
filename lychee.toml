@@ -2,7 +2,7 @@
 
 # Display settings
 verbose = "info"
-show_host_stats = true
+host_stats = true
 
 # Request settings
 timeout = 5
