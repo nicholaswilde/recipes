@@ -1,0 +1,40 @@
+# Lychee Configuration File
+
+# Display settings
+verbose = "info"
+show_host_stats = true
+
+# Request settings
+timeout = 5
+max_retries = 2
+max_concurrency = 20
+
+# Accept rate-limiting and anti-scraper codes as valid to prevent false build failures
+accept = [200, 201, 202, 204, 206, 403, 405, 429, 520]
+
+# Exclude private IP ranges and loopbacks
+exclude_all_private = true
+
+# Regex exclusions for specific slow/rate-limited URLs
+exclude = [
+    '^https://www\.freshfoodbites\.com/lemon-pepper-parsley-pesto/',
+    '^https://www\.bakepedia\.com/montelimar-nougat/',
+    '^https://www\.bluezones\.com/',
+    '^https://yummynotes\.net/adas-polo-recipe/',
+    '^https://www\.cookscountry\.com/recipes/11467-easy-homemade-mayonnaise',
+    '^https://hellskitchenrecipes\.com/gordon-ramsay-tomato-soup/',
+    '^https://purekitchenblog\.com/homemade-seasoning-blend-i-use-on-everything/',
+    '^https://www\.bobsredmill\.com/recipes/how-to-make/flaxseed-meal-egg-replacer/',
+    '^https://cooktoria\.com/baked-black-bean-taquitos/',
+    '^https://www\.thekitchn\.com/refrigerated-cookie-dough-268281',
+    '^https://www\.thekitchn\.com/vanilla-cake-recipe-showdown-23651936',
+    '^https://www\.jessiesheehanbakes\.com/2015/02/10/salty-milk-chocolate-peanut-butter-cookies/',
+    '^https://www\.thekitchn\.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156',
+    '^https://www\.quakeroats\.com/cooking-and-recipes/apricot-honey-oatmeal',
+    '^https://www\.thekitchn\.com/challah-recipe-reviews-22969552',
+    '^https://www\.thekitchn\.com/recipe-scrambled-chickpea-and-spinach-pitas-234095',
+    '^https://www\.thekitchn\.com/brussel-sprouts-melts-recipe-23432384',
+    '^https://www\.thekitchn\.com/cherry-pie-recipe-showdown-23394698',
+    '^https://www\.cleveland\.com/cooking/2017/12/olive_oil_cake_from_americas_t\.html',
+    '^https://www\.tasteofhome\.com/'
+]

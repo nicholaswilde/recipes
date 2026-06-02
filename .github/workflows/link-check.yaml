@@ -17,26 +17,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:     
-  markdown-link-check:
-    name: Markdown link check
+  link-check:
+    name: Link Check
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Get event type
-        id: get-type
-        run: |
-          if [ "${{ github.event_name }}" == "schedule" ]; then
-            echo "MOD_ONLY=no" >> "$GITHUB_OUTPUT"
-          else
-            echo "MOD_ONLY=yes" >> "$GITHUB_OUTPUT"
-          fi
       - name: Checkout repo
         uses: actions/checkout@v4
+
       - name: Check markdown links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        uses: lycheeverse/lychee-action@v2
         with:
-          folder-path: './docs'
-          config-file: './mlc_config.json'
-          use-quiet-mode: 'yes'
-          check-modified-files-only: ${{ steps.get-type.outputs.MOD_ONLY }}
-          base-branch: 'main'
+          args: docs/
