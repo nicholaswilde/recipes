@@ -167,6 +167,8 @@ Bolognese
 bombe
 Bon
 boule
+bourguignon
+Bourguignon
 Boursin
 Boxty
 BRAUN
@@ -680,6 +682,7 @@ Manchego
 mandoline
 Manicotti
 manie
+manié
 Manié
 marbleness
 Margherita
