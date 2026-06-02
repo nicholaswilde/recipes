@@ -503,8 +503,7 @@ Desserts = [
   { "Victoria Sandwich Cake" = "desserts/cake/victoria-sandwich-cake.md" },
   { "White Chocolate Strawberry Cupcakes" = "desserts/cupcakes/white-chocolate-strawberry-cupcakes.md" },
   { "Whole Orange Almond Cake" = "desserts/cake/whole-orange-almond-cake.md" },
-  { "Yogurt Cake Version 1" = "desserts/cake/yogurt-cake-version-1.md" },
-  { "Yogurt Cake Version 2" = "desserts/cake/yogurt-cake-version-2.md" },
+  { "Yogurt Cake" = "desserts/cake/yogurt-cake.md" },
   { "Yule Log (Classic Bûche de Noël)" = "desserts/cake/yule-log-(classic-bûche-de-noël).md" },
 ]
 

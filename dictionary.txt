@@ -1160,6 +1160,8 @@ xlsx
 XLSX
 XSS
 YAML
+yaourt
+Yaourt
 Yeasted
 za'atar
 Zahav
