@@ -6,9 +6,9 @@ tags:
   - soup
 ---
 
-# :stew: Sam's Sweet Potato Soup
+# :stew: Sweet Potato Soup
 
-![Sam's Sweet Potato Soup](../assets/images/sam's-sweet-potato-soup.png){ loading=lazy }
+![Sweet Potato Soup](../assets/images/sweet-potato-soup.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
