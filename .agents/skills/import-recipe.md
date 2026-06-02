@@ -44,3 +44,7 @@ repository following the established recipe import workflow.
      `docs/reference/measuring.md`.
    - **Additional References:** If there is a "Pancake Princess" link in the source issue, include that link as
      an additional reference in the `## :link: Source` section of the Markdown recipe page.
+
+## GitHub CLI (`gh`) Guidelines
+
+When using the GitHub CLI (`gh`) to view issues, check workflow runs, or run other commands inside sandbox or non-interactive terminals, always disable the interactive pager by piping the output to `cat` (e.g., `gh run list --limit 5 | cat` or `gh issue view 1253 | cat`). This prevents the command from hanging or warning about a non-functional terminal.
