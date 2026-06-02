@@ -8,9 +8,9 @@ tags:
   - recipe-box
 ---
 
-# :cheese_wedge: Jamie Oliver Ricotta Fritters
+# :cheese_wedge: Ricotta Fritters
 
-![Jamie Oliver Ricotta Fritters](../assets/images/jamie-oliver-ricotta-fritters.jpg){ loading=lazy }
+![Ricotta Fritters](../assets/images/ricotta-fritters.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
