@@ -86,20 +86,21 @@ tasks:
       - docker image pull mikefarah/yq
       - docker image pull squidfunk/mkdocs-material
       - docker image pull 06kellyjac/markdownlint-cli
-      - docker image pull ghcr.io/tcort/markdown-link-check:stable
+      - docker image pull lycheeverse/lychee
   linkcheck:
-    desc: Check for dead links
+    desc: Check for dead links using lychee
     cmds:
-      - ./scripts/linkcheck.sh
+      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee docs/
+
+  linkcheck-offline:
+    desc: Check for dead local links and images using lychee (offline)
+    cmds:
+      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee --offline docs/
+
   linkcheck-file:
-    desc: Link check a given file
+    desc: Link check a given file using lychee
     cmds:
-      - >-
-        docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable
-        "/tmp{{.f}}" -c "/tmp{{ .ROOT_DIR }}/mlc_config.json" || exit 1
-    vars:
-      f:
-        sh: "readlink -f {{shellQuote .FILE}}"
+      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee {{shellQuote .FILE}}
   lint:
     desc: Lint the project
     cmds:
