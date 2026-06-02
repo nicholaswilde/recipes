@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - tofu
+hero: assets/images/preparation.jpg
 ---
 
 # :butter: Tofu Preparation

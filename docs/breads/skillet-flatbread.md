@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/skillet-flatbread.jpg
 ---
 
 # :flatbread: Skillet Flatbread

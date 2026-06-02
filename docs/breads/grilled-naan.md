@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/grilled-naan.jpg
 ---
 
 # :flatbread: Grilled Naan

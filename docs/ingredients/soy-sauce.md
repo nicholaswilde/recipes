@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/soy-sauce.jpg
 ---
 # :takeout_box: Soy Sauce
 

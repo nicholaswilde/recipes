@@ -6,6 +6,7 @@ tags:
   - recipe-box
   - mediterranean
   - greek
+hero: assets/images/horiatiki-salata-(greek-salad).jpg
 ---
 
 # :green_salad: Horiatiki Salata (Greek Salad)

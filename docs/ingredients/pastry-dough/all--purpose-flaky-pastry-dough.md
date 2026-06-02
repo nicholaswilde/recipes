@@ -6,6 +6,7 @@ tags:
   - pastry-dough
   - claire-saffitz
   - king-arthur
+hero: assets/images/all--purpose-flaky-pastry-dough.jpg
 ---
 
 # :pie: All-Purpose Flaky Pastry Dough

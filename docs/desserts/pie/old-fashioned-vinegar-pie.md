@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - desperation pie
+hero: assets/images/old-fashioned-vinegar-pie.jpg
 ---
 
 # :pie: Old-Fashioned Vinegar Pie
