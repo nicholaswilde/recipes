@@ -6,9 +6,9 @@ tags:
   - bake-off
 ---
 
-# :cupcake: Jordan Marsh's Blueberry Muffins
+# :cupcake: Blueberry Muffins
 
-![Jordan Marsh's Blueberry Muffins](../assets/images/jordan-marsh's-blueberry-muffins.jpg){ loading=lazy }
+![Blueberry Muffins](../assets/images/blueberry-muffins.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
