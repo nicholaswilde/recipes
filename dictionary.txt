@@ -596,11 +596,11 @@ Kalamata
 katjang
 Katjang
 kencur
-kering
-Kering
+kenji-lopez-alt
 kentang
 Kentang
-kenji-lopez-alt
+kering
+Kering
 Kesberry
 ketumbar
 Kickin
@@ -649,6 +649,7 @@ liteparse
 LiteParse
 liz
 Liz
+Lizano
 llamaindex
 LlamaIndex
 llm
@@ -960,9 +961,9 @@ Saffitz
 Saffitz's
 Sainsbury
 Sainsbury's
-Salata
 salam
 Salam
+Salata
 sallys-baking-addiction
 sam
 Sam
@@ -1024,11 +1025,11 @@ Spaetzle
 spaghettoni
 spekkoek
 Spekkoek
-stella-parks
 Spelt
 spiralize
 spiralled
 springform
+stella-parks
 Stewarts
 stovetop
 Stovetop
