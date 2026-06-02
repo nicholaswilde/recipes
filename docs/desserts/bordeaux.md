@@ -3,9 +3,9 @@ comments: true
 tags:
   - dessert
 ---
-# :candy: Copycat See's Bordeaux
+# :candy: Bordeaux
 
-![Copycat See's Bordeaux][1]{ loading=lazy }
+![Bordeaux][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -54,4 +54,4 @@ Melt :chestnut: dark chocolate and :butter: butter in the :microwave: microwave 
 
 - <https://selfproclaimedfoodie.com/copycat-sees-bordeaux/>
 
-[1]: <../assets/images/copycat-sees-bordeaux.jpg>
+[1]: <../assets/images/bordeaux.jpg>
