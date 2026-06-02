@@ -5,9 +5,9 @@ tags:
   - cookie
 ---
 
-# :chestnut: Almond Cookies (Blue Zones)
+# :chestnut: Blue Zones Almond Cookies
 
-![Almond Cookies (Blue Zones)](../../assets/images/almond-cookies-blue-zones.jpg){ loading=lazy }
+![Blue Zones Almond Cookies](../../assets/images/blue-zones-almond-cookies.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
