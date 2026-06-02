@@ -6,9 +6,9 @@ tags:
   - trader-joes
 ---
 
-# :apple: Caramelized Upside Down Banana Cake Trader Joe's
+# :apple: Caramelized Upside Down Banana Cake
 
-![Caramelized Upside Down Banana Cake Trader Joe's][1]{ loading=lazy }
+![Caramelized Upside Down Banana Cake][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -74,4 +74,4 @@ Serve with **whipped cream** if desired.
 
 - [Nicholas Wilde's Recipe #1000](https://github.com/nicholaswilde/recipes/issues/1000)
 
-[1]: <../../assets/images/caramelized-upside-down-banana-cake-trader-joe's.jpg>
+[1]: <../../assets/images/caramelized-upside-down-banana-cake.jpg>
