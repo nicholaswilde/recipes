@@ -9,7 +9,7 @@ tags:
 
 # :burrito: Fresh Spring Rolls
 
-![Fresh Spring Rolls](../assets/images/fresh-spring-rolls.png){ loading=lazy }
+![Fresh Spring Rolls](../../assets/images/fresh-spring-rolls.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -75,4 +75,4 @@ Serve with [peanut dipping sauce][1] and enjoy!
 [^1]:
   Thinly sliced into long matchsticks.
 
-[1]: <../sauces-and-dressings/gravy-and-savory-sauces/peanut-dipping-sauce.md>
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/peanut-dipping-sauce.md>

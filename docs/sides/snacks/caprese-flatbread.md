@@ -59,5 +59,5 @@ Remove from oven. Top with basil and, if you like, drizzle with balsamic glaze (
 
 - Magnolia
 
-[1]: <../../sauces-and-dressings/pesto/balsamic-pesto.md>
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/balsamic-pesto.md>
 [2]: <../../breads/naan.md>

@@ -7,7 +7,7 @@ tags:
 
 # :potato: Mom's Potatoes
 
-![Mom's Potatoes](../assets/images/mom's-potatoes.jpg){ loading=lazy }
+![Mom's Potatoes](../../assets/images/mom's-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -73,4 +73,4 @@ Bake for approximately 1 hour.
 
 - Mom Farmer
 
-[1]: <../sauces-and-dressings/mother-sauces/béchamel.md>
+[1]: <../../sauces-and-dressings/mother-sauces/béchamel.md>

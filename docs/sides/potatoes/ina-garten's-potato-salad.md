@@ -66,6 +66,6 @@ the flavors to blend. Serve cold or at room temperature.
 
 - <https://www.tasteofhome.com/article/ina-garten-potato-salad/>
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
 [2]: <../../ingredients/buttermilk.md>
 [3]: <../../sauces-and-dressings/dijon-mustard.md>

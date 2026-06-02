@@ -69,4 +69,4 @@ Enjoy!
 
 - Tante Myrna Seccia
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

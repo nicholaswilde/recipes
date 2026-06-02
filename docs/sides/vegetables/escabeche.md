@@ -68,4 +68,4 @@ Note: The mixed vegetables can contain zucchini, baby carrots, bell peppers, cel
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/escabeche.jpg>
+[1]: <../../assets/images/escabeche.jpg>

@@ -38,5 +38,5 @@ Add more buttermilk or water to thin as desired.
 - <https://www.simplyscratch.com/homemade-ranch-dressing-mix/>
 
 [1]: <../../ingredients/ranch-dressing-mix.md>
-[2]: <../../sauces-and-dressings/mayonnaise.md>
+[2]: <mayonnaise.md>
 [3]: <../../ingredients/buttermilk.md>

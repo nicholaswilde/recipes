@@ -8,7 +8,7 @@ tags:
 
 # :chestnut: Sweet Tart
 
-![Sweet Tart](../../assets/images/sweet-tart.jpg){ loading=lazy }
+![Sweet Tart](../../assets/images/sweet-tart.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -7,7 +7,7 @@ tags:
 
 # :potato: Cheesy Potatoes
 
-![Cheesy Potatoes](../assets/images/cheesy-potatoes.jpg){ loading=lazy }
+![Cheesy Potatoes](../../assets/images/cheesy-potatoes.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

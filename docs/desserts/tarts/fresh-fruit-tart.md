@@ -113,4 +113,4 @@ Serve within 6 hours of assembly.
 - <https://www.foodnetwork.com/fnk/recipes/fresh-fruit-tart-8246548>
 - <https://www.thepancakeprincess.com/2023/07/03/best-fruit-tart-bake-off/>
 
-[1]: <../assets/images/fresh-fruit-tart.jpg>
+[1]: <../../assets/images/fresh-fruit-tart.jpg>

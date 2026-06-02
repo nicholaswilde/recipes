@@ -64,4 +64,4 @@ least 1 hour, better if overnight. Serve chilled and enjoy!
 
 - <https://insanelygoodrecipes.com/amish-potato-salad/>
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

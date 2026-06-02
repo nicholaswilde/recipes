@@ -87,4 +87,4 @@ Serve with [ranch dressing][2].
 - <https://www.noracooks.com/vegan-cauliflower-buffalo-wings/>
 
 [1]: <../../assets/images/buffalo-cauliflower-wings.jpg>
-[2]: <../../sauces-and-dressings/ranch-dressing.md>
+[2]: <../../sauces-and-dressings/dips-and-spreads/ranch-dressing.md>

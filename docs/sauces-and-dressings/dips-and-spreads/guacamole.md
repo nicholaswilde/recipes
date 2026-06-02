@@ -51,4 +51,4 @@ Serve the guacamole with tortilla chips.
 
 - <https://downshiftology.com/recipes/best-ever-guacamole/>
 
-[1]: <../assets/images/guacamole.jpg>
+[1]: <../../assets/images/guacamole.jpg>

@@ -58,4 +58,4 @@ Serve and enjoy.
 
 [1]: <../../assets/images/pumpkin-curry-sauce.png>
 [2]: <../../ingredients/pumpkin-purée.md>
-[3]: <../../../ingredients/thai-red-curry-paste.md>
+[3]: <../../ingredients/thai-red-curry-paste.md>

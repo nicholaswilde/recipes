@@ -51,5 +51,5 @@ Blend for 20 to 30 seconds or until smooth. (I use a NutriBullet.) Taste and adj
 - <https://www.thegardengrazer.com/roasted-red-pepper-dressing/#recipe>
 
 [1]: <../../assets/images/roasted-red-pepper-dressing.jpg>
-[2]: <../../sauces-and-dressings/tahini.md>
+[2]: <../dips-and-spreads/tahini.md>
 [3]: <../../ingredients/seasonings/italian-seasoning.md>

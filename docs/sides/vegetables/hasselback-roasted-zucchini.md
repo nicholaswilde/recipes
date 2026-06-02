@@ -64,4 +64,4 @@ Serve zucchini drizzled with Tahini Sauce.
 
 - <https://www.forksoverknives.com/recipes/vegan-salads-sides/hasselback-roasted-zucchini/>
 
-[1]: <../../sauces-and-dressings/tahini.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/tahini.md>

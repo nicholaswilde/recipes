@@ -9,7 +9,7 @@ tags:
 
 # :wine_glass: Vegan Mentsuyu
 
-![Vegan Mentsuyu](../../../assets/images/vegan-mentsuyu.jpg){ loading=lazy }
+![Vegan Mentsuyu](../../assets/images/vegan-mentsuyu.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

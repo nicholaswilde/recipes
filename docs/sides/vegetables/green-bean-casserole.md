@@ -7,7 +7,7 @@ tags:
 
 # :cucumber: Green Bean Casserole
 
-![Green Bean Casserole](../assets/images/green-bean-casserole.jpg){ loading=lazy }
+![Green Bean Casserole](../../assets/images/green-bean-casserole.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -59,4 +59,4 @@ Pour into 1.5 quart baking dish.
 
 Bake for 20 minutes; sprinkle with cheddar cheese (optional) if desired, and bake for 10 minutes more.
 
-[1]: <../ingredients/vegetable-broth.md>
+[1]: <../../ingredients/vegetable-broth.md>

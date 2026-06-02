@@ -50,4 +50,4 @@ Adjust ingredients and sea salt to your liking. Add more turmeric if it needs mo
 
 - <https://www.tastewiththeeyes.com/2010/01/eggless-egg-salad/>
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

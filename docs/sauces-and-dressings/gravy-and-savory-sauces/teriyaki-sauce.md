@@ -9,7 +9,7 @@ tags:
 
 # :takeout_box: Teriyaki Sauce
 
-![Teriyaki Sauce](../../../assets/images/teriyaki-sauce.jpg){ loading=lazy }
+![Teriyaki Sauce](../../assets/images/teriyaki-sauce.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

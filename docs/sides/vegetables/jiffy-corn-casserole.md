@@ -8,7 +8,7 @@ tags:
 
 # :corn: Jiffy Corn Casserole
 
-![Jiffy Corn Casserole](../assets/images/jiffy-corn-casserole.jpg){ loading=lazy }
+![Jiffy Corn Casserole](../../assets/images/jiffy-corn-casserole.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

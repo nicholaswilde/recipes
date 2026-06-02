@@ -49,4 +49,4 @@ Do Ahead: Tartar sauce can be made 1 week ahead. Cover and chill.
 - <https://www.bonappetit.com/recipe/classic-tartar-sauce/>
 
 [1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
-[2]: <../../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[2]: <../dijon-mustard.md>

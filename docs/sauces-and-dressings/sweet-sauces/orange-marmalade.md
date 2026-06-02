@@ -9,7 +9,7 @@ tags:
 
 # Orange Marmalade
 
-![Orange Marmalade](../../../assets/images/orange-marmalade.jpg){ loading=lazy }
+![Orange Marmalade](../../assets/images/orange-marmalade.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

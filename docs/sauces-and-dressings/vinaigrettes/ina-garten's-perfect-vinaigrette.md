@@ -47,4 +47,4 @@ moisten and serve immediately.
 [^1]:
     If you don’t want to use raw egg, leave it out. You can also use extra mustard to help emulsify
 
-[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[1]: <../dijon-mustard.md>

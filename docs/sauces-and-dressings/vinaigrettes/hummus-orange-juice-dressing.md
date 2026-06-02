@@ -38,4 +38,4 @@ bowl and whisk until smooth.
 - Prevent and Reverse Heart Disease by Caldwell B. Esselstyn, Jr., M.D.
 
 [1]: <../../sauces-and-dressings/dips-and-spreads/hummus.md>
-[2]: <../../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[2]: <../dijon-mustard.md>

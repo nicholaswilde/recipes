@@ -34,4 +34,4 @@ Serve with vinaigrette.
 
 - Joy of Cooking
 
-[1]: <../../sauces-and-dressings/vinaigrette.md>
+[1]: <../../sauces-and-dressings/vinaigrettes/vinaigrette.md>

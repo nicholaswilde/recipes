@@ -60,5 +60,5 @@ Build bowls starting with rice, then corn and beans, then tofu. Top with cilantr
 
 [1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg>
 [2]: <../sauces-and-dressings/salsas/salsa-fresca-(pico-de-gallo).md>
-[3]: <./guacamole.md>
+[3]: <../sauces-and-dressings/dips-and-spreads/guacamole.md>
 [4]: <../ingredients/black-beans.md>

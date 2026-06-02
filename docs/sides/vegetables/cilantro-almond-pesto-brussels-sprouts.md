@@ -65,4 +65,4 @@ lemon wedges.
 - The Gracias Madre Cookbook
 
 [1]: <../../assets/images/cilantro-almond-pesto-brussels-sprouts.jpg>
-[2]: <../../sauces-and-dressings/pesto/cilantro-almond-pesto.md>
+[2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/cilantro-almond-pesto.md>

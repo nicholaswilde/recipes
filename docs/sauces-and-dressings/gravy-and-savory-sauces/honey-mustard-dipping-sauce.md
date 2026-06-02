@@ -39,4 +39,4 @@ Serve at room temperature. The sauce will keep, covered and refrigerated, for up
 
 - Joy of Cooking
 
-[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[1]: <../dijon-mustard.md>

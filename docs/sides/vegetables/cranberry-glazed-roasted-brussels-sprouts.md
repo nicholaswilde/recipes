@@ -71,4 +71,4 @@ clung and coated the Brussels sprouts.
 
 - <https://www.halfbakedharvest.com/cranberry-glazed-roasted-brussel-sprouts/>
 
-[1]: <../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg>
+[1]: <../../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg>

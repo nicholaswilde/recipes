@@ -8,7 +8,7 @@ tags:
 
 # :stuffed_flatbread: Peruvian Burrito Bowl
 
-![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.png){ loading=lazy }
+![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -39,6 +39,6 @@ Top with chipotle ranch dressing.
 - Applied Kitchen
 
 [1]: <../../assets/images/fiesta-salad.jpg>
-[2]: <../../sauces-and-dressings/chipotle-ranch-dressing.md>
+[2]: <../../sauces-and-dressings/dips-and-spreads/chipotle-ranch-dressing.md>
 [3]: <../../ingredients/black-beans.md>
 

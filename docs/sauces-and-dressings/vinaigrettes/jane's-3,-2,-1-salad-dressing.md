@@ -34,4 +34,4 @@ Mix balsamic vinegar, [mustard][1] of choice, and maple syrup in a small bowl an
 
 - Prevent and Reverse Heart Disease by Caldwell B. Esselstyn, Jr., M.D.
 
-[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/dijon-mustard.md>
+[1]: <../dijon-mustard.md>

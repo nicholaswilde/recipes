@@ -8,7 +8,7 @@ tags:
 
 # :stuffed_flatbread: Mexican Power Bowl
 
-![Mexican Power Bowl](../assets/images/mexican-power-bowl.png){ loading=lazy }
+![Mexican Power Bowl](../assets/images/mexican-power-bowl.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

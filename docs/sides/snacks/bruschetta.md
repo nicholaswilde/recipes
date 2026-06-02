@@ -67,4 +67,4 @@ parsley.
 
 - Cheesecake Factory
 
-[1]: <../assets/images/bruschetta.jpg>
+[1]: <../../assets/images/bruschetta.jpg>

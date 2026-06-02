@@ -7,7 +7,7 @@ tags:
 
 # :burrito: Lemper
 
-![Lemper](../assets/images/lemper.jpg){ loading=lazy }
+![Lemper](../../assets/images/lemper.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

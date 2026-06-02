@@ -87,4 +87,4 @@ times. Brush all over with egg wash, sprinkle with sesame seeds, and bake until 
 
 - <https://cupofjo.com/2024/11/13/tarte-soleil-easy-holiday-appetizer/>
 
-[1]: <../assets/images/spinach-artichoke-tarte-soleil.jpg>
+[1]: <../../assets/images/spinach-artichoke-tarte-soleil.jpg>

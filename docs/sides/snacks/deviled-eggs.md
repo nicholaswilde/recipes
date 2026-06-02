@@ -52,4 +52,4 @@ Chill for 3 hours and enjoy!
 
 - Tante Myrna Seccia
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

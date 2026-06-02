@@ -87,7 +87,7 @@ Bake mini pies in a 400°F oven for 50 minutes or until the pastry has puffed up
 
 - <https://thegreekfoodie.com/leftover-stuffing-pies>
 
-[1]: <./good-gravy.md>
+[1]: <../sauces-and-dressings/gravy-and-savory-sauces/good-gravy.md>
 [2]: <../sides/potatoes/golden-french-mashed-potatoes.md>
-[3]: <./vegetarian-stuffing.md>
+[3]: <../sides/vegetables/vegetarian-stuffing.md>
 [4]: <../ingredients/pastry-dough/hot-water-crust.md>

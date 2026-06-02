@@ -71,4 +71,4 @@ Dust with powdered sugar before serving.
 
 - <https://www.southernliving.com/recipes/old-fashioned-vinegar-pie>
 
-[1]: <../../assets/images/old-fashioned-vinegar-pie.jpg>
+[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.jpg>

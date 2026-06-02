@@ -38,4 +38,4 @@ and sear on other side.
 
 - <https://minimalistbaker.com/easy-vegan-ramen/#wprm-recipe-container-35499>
 
-[1]: <../../sauces-and-dressings/miso-glaze.md>
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/miso-glaze.md>

@@ -8,7 +8,7 @@ tags:
 
 # :burrito: Lumpia
 
-![Lumpia](../assets/images/lumpia.jpg){ loading=lazy }
+![Lumpia](../../assets/images/lumpia.jpg){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

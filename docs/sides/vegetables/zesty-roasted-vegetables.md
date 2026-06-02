@@ -57,5 +57,5 @@ Toss or tip with Jalapeño Lime Pesto.
 - Magnolia
 
 [1]: <../../assets/images/zesty-roasted-vegetables.jpg>
-[2]: <../../sauces-and-dressings/pesto/jalapeño-lime-pesto.md>
+[2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/jalapeño-lime-pesto.md>
 

@@ -10,7 +10,7 @@ tags:
 
 # :apple: Indian Mango Chutney
 
-![Indian Mango Chutney](../../../assets/images/indian-mango-chutney.jpg){ loading=lazy }
+![Indian Mango Chutney](../../assets/images/indian-mango-chutney.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

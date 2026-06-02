@@ -67,4 +67,4 @@ Top with sliced egg and paprika, refrigerate 3-6 hours or overnight.
 
 - Tante Myrna Seccia
 
-[1]: <../../sauces-and-dressings/mayonnaise.md>
+[1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

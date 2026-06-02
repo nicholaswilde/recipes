@@ -67,4 +67,4 @@ days.
 
 - <https://www.kitchenkonfidence.com/2014/10/rosemary-spiced-mixed-nuts-2014>
 
-[1]: <../assets/images/rosemary-spiced-nuts.jpg>
+[1]: <../../assets/images/rosemary-spiced-nuts.jpg>

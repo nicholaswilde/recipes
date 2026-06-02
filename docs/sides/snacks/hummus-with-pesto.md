@@ -55,5 +55,5 @@ Transfer hummus to a small bowl. Swirl in [pesto][1]. Drizzle with a little oliv
 
 - Magnolia
 
-[1]: <../../sauces-and-dressings/pesto/basic-pesto.md>
-[2]: <../../sauces-and-dressings/tahini.md>
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/basic-pesto.md>
+[2]: <../../sauces-and-dressings/dips-and-spreads/tahini.md>
