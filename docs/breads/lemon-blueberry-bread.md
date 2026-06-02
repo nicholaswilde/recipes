@@ -5,6 +5,7 @@ tags:
   - bread
   - quick-bread
   - recipe-box
+hero: assets/images/lemon-blueberry-bread.jpg
 ---
 
 # :lemon: Lemon Blueberry Bread

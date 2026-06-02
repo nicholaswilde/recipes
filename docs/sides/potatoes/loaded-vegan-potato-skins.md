@@ -5,6 +5,7 @@ tags:
   - side
   - vegan
   - nutrition-studies
+hero: assets/images/loaded-vegan-potato-skins.jpg
 ---
 
 # :potato: Loaded Vegan Potato Skins

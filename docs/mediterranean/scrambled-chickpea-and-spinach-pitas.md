@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - mediterranean
+hero: assets/images/scrambled-chickpea-and-spinach-pitas.png
 ---
 
 # :stuffed_flatbread: Scrambled Chickpea & Spinach Pitas

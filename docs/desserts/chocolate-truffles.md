@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/chocolate-truffles.jpg
 ---
 
 # :chocolate_bar: Chocolate Truffles

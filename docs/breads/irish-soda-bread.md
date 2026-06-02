@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/irish-soda-bread.jpg
 ---
 
 # :four_leaf_clover: Irish Soda Bread

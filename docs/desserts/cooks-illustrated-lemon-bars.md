@@ -5,6 +5,7 @@ tags:
   - dessert
   - bake-off
   - cooks-illustrated
+hero: assets/images/cooks-illustrated-lemon-bars.jpg
 ---
 
 # :lemon: Cooks Illustrated Lemon Bars

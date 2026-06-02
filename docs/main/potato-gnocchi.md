@@ -4,6 +4,7 @@ tags:
 
   - italian
   - joy-of-cooking
+hero: assets/images/potato-gnocchi.jpg
 ---
 
 # :potato: Potato Gnocchi

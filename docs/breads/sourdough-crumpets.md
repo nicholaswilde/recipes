@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/sourdough-crumpets.jpg
 ---
 
 # :bread: Sourdough Crumpets

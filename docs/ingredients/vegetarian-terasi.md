@@ -4,6 +4,7 @@ tags:
   - ingredient
   - indonesian
   - indo-dutch
+hero: assets/images/vegetarian-terasi.png
 ---
 # :bowl_with_spoon: Vegetarian Terasi
 

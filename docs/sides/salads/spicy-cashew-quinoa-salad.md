@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/spicy-cashew-quinoa-salad.png
 ---
 # Spicy Cashew Quinoa Salad
 

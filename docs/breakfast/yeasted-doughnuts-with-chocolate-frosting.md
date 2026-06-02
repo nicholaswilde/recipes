@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - cooks-illustrated
+hero: assets/images/yeasted-doughnuts-with-chocolate-frosting.jpg
 ---
 
 # :doughnut: Yeasted Doughnuts with Chocolate Frosting

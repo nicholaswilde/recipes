@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/vegan-caesar-salad.png
 ---
 # Vegan Caesar Salad
 

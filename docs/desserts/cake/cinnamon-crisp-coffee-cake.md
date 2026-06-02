@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - king-arthur
+hero: assets/images/cinnamon-crisp-coffee-cake.jpg
 ---
 
 # :cake: Cinnamon-Crisp Coffee Cake

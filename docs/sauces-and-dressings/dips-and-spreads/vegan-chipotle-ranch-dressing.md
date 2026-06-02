@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - minimalist-baker
+hero: assets/images/vegan-chipotle-ranch-dressing.jpg
 ---
 
 # :hot_pepper: Vegan Chipotle Ranch Dressing

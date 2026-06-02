@@ -6,6 +6,7 @@ tags:
   - cheesecake
   - joy-of-cooking
   - favorite
+hero: assets/images/pumpkin-cheesecake.jpg
 ---
 
 # :pie: Pumpkin Cheesecake

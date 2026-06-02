@@ -4,6 +4,7 @@ tags:
 
   - tofu
   - ingredient
+hero: assets/images/baked-sriracha-tofu.jpg
 ---
 
 # :butter: Baked Sriracha Tofu

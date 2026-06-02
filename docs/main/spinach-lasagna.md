@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - lasagna
+hero: assets/images/spinach-lasagna.jpg
 ---
 
 # :spaghetti: Spinach Lasagna

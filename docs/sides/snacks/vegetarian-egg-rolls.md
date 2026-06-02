@@ -4,6 +4,7 @@ tags:
 
   - asian
   - vegetarian
+hero: assets/images/vegetarian-egg-rolls.png
 ---
 
 # :burrito: Vegetarian Egg Rolls

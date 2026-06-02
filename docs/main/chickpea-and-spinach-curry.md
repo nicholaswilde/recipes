@@ -8,6 +8,7 @@ tags:
   - spinach
   - vegetarian
   - vegan
+hero: assets/images/chickpea-and-spinach-curry.jpg
 ---
 
 # :curry: Chickpea and Spinach Curry

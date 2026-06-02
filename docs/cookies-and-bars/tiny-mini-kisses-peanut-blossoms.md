@@ -3,6 +3,7 @@ comments: true
 tags:
   - cookie
   - holiday
+hero: assets/images/tiny-mini-kisses-peanut-blossoms.jpg
 ---
 
 # :chocolate_bar: Tiny Mini Kisses Peanut Blossoms

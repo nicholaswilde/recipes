@@ -5,6 +5,7 @@ tags:
   - ingredient
   - dominique-ansel
   - jam
+hero: assets/images/quick-strawberry-jam.png
 ---
 
 # :strawberry: Quick Strawberry Jam

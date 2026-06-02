@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - sourdough
+hero: assets/images/stiff-sourdough-starter.jpg
 ---
 
 # :microbe: Stiff Sourdough Starter

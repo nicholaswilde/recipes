@@ -4,6 +4,7 @@ tags:
 
   - puree
   - ingredient
+hero: assets/images/pumpkin-purée.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Purée

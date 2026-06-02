@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - flour
+hero: assets/images/chickpea-flour.jpg
 ---
 
 # :falafel: Chickpea Flour

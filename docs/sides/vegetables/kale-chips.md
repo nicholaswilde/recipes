@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/kale-chips.jpg
 ---
 
 # :leafy_green: Kale Chips

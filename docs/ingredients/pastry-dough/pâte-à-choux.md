@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - king-arthur
+hero: assets/images/pâte-à-choux.jpg
 ---
 
 # :pie: Pâte À Choux

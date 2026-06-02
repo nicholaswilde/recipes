@@ -8,6 +8,7 @@ tags:
   - maura kilpatrick
   - the pancake princess
   - bake-off
+hero: assets/images/earthquake-chocolate-crinkle-cookies.jpg
 ---
 # :cookie: Earthquake Chocolate Crinkle Cookies
 

@@ -5,6 +5,7 @@ tags:
   - dessert
   - stella-parks
   - serious-eats
+hero: assets/images/oatmeal-raisin-cookies.jpg
 ---
 # :cookie: Oatmeal Raisin Cookies
 

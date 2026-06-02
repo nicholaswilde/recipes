@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/confectioners-sugar.jpg
 ---
 
 # :candy: Confectioners' Sugar

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/butternut-squash-and-sage-spaghetti.jpg
 ---
 
 # :spaghetti: Butternut Squash and Sage Spaghetti

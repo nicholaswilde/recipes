@@ -5,6 +5,7 @@ tags:
   - dumpling
   - italian
   - maria-agresta
+hero: assets/images/maria-agresta’s-gnocchi-alla-cilentana.png
 ---
 
 # :spaghetti: Maria Agresta’s Gnocchi alla Cilentana

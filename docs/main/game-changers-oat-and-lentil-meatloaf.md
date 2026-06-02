@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/game-changers-oat-and-lentil-meatloaf.jpg
 ---
 # Game Changers Oat and Lentil Meatloaf
 

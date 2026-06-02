@@ -4,6 +4,7 @@ tags:
   - desserts
 comments: true
 
+hero: assets/images/sticky-toffee-pudding.jpg
 ---
 
 # :grapes: Sticky Toffee Pudding

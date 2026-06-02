@@ -5,6 +5,7 @@ tags:
   - mexican
   - taco
   - bake
+hero: assets/images/taco-bake.jpg
 ---
 
 # :taco: Taco Bake

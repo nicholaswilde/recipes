@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - magnolia
+hero: assets/images/crunch-french-toast.jpg
 ---
 
 # :pancakes: Crunch French Toast

@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - pie
+hero: assets/images/mini-apple-pies.jpg
 ---
 
 # :pie: Mini Apple Pies

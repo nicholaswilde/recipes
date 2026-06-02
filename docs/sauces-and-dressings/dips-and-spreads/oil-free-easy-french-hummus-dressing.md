@@ -4,6 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
+hero: assets/images/oil-free-easy-french-hummus-dressing.jpg
 ---
 
 # :salad_bowl: Oil-Free Easy French Hummus Dressing

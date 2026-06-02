@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/salsa-negra.jpg
 ---
 
 # :hot_pepper: Salsa Negra

@@ -4,6 +4,7 @@ tags:
 
   - asian
   - vegetarian
+hero: assets/images/coconut-curried-vegetables-with-rice.jpg
 ---
 
 # :coconut: Coconut Curried Vegetables with Rice

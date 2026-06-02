@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/spreadable-butter.jpg
 ---
 
 # :butter: Spreadable Butter

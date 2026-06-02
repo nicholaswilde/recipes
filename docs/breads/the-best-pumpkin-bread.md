@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/the-best-pumpkin-bread.jpg
 ---
 
 # :jack_o_lantern: The Best Pumpkin Bread

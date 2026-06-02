@@ -6,6 +6,7 @@ tags:
   - side
   - indian
   - mango
+hero: assets/images/indian-mango-chutney.jpg
 ---
 
 # :apple: Indian Mango Chutney

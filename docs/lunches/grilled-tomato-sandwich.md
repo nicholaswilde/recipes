@@ -5,6 +5,7 @@ tags:
   - cooks-illustrated
   - lunch
   - sandwich
+hero: assets/images/grilled-tomato-sandwich.jpg
 ---
 
 # :sandwich: Grilled Tomato Sandwich

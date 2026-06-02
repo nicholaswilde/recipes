@@ -5,6 +5,7 @@ tags:
   - ingredient
   - sourdough
   - cooks-illustrated
+hero: assets/images/sourdough-starter.jpg
 ---
 
 # :microbe: Sourdough Starter

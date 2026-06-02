@@ -5,6 +5,7 @@ tags:
   - bites
   - side
   - applied-kitchen
+hero: assets/images/peanut-butter-chocolate-chip-protein-bites.jpg
 ---
 
 # :cookie: Peanut Butter Chocolate Chip Protein Bites

@@ -3,6 +3,7 @@ comments: true
 tags:
   - holiday
   - pie
+hero: assets/images/classic-walnut-pie.jpg
 ---
 
 # :pie: Classic Walnut Pie

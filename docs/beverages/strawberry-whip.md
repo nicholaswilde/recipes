@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/strawberry-whip.jpg
 ---
 
 # :strawberry: Strawberry Whip

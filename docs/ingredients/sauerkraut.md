@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/sauerkraut.jpg
 ---
 
 # :leafy_green: Sauerkraut

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/ginger-miso-basting-butter.jpg
 ---
 
 # :butter: Ginger-Miso Basting Butter

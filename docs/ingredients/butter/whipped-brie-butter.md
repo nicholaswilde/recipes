@@ -5,6 +5,7 @@ tags:
   - butter
   - ingredient
   - applied-kitchen
+hero: assets/images/whipped-brie-butter.jpg
 ---
 
 # :butter: Whipped Brie Butter

@@ -5,6 +5,7 @@ tags:
   - tart
   - paul-hollywood
   - vegetarian
+hero: assets/images/shallot-onion-and-chive-tart.jpg
 ---
 
 # :onion: Shallot, Onion, & Chive Tart

@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - sandwich
+hero: assets/images/watercress-egg-salad-tea-sandwich.png
 ---
 
 # :sandwich: Watercress Egg Salad Tea Sandwich

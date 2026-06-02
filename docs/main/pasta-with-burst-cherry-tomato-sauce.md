@@ -4,6 +4,7 @@ tags:
 
   - italian
   - pasta
+hero: assets/images/pasta-with-burst-cherry-tomato-sauce.jpg
 ---
 
 # :spaghetti: Pasta with Burst Cherry Tomato Sauce

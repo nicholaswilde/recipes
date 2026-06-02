@@ -5,6 +5,7 @@ tags:
   - cracker
   - alton-brown
   - snack
+hero: assets/images/graham-crackers.jpg
 ---
 
 # :cookie: Graham Crackers

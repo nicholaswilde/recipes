@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - vegetarian
+hero: assets/images/vegetarian-corn-dogs.jpg
 ---
 
 # :hotdog: Vegetarian Corn Dogs

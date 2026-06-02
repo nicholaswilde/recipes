@@ -5,6 +5,7 @@ tags:
   - vegetarian
   - vegan
   - condiments
+hero: assets/images/sambal-oelek.png
 ---
 # :hot_pepper: Sambal Oelek
 

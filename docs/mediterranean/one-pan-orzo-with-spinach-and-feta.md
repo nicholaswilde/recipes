@@ -7,6 +7,7 @@ tags:
   - spinach
   - feta
   - vegetarian
+hero: assets/images/one-pan-orzo-with-spinach-and-feta.jpg
 ---
 # One-Pan Orzo with Spinach and Feta
 

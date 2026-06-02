@@ -6,6 +6,7 @@ tags:
   - favorite
   - holiday
   - recipe-box
+hero: assets/images/persimmon-cookies.jpg
 ---
 
 # :cookie: Persimmon Cookies

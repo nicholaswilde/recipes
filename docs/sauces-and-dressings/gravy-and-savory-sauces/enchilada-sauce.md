@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/enchilada-sauce.jpg
 ---
 
 # :taco: Enchilada Sauce

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/shakshuka.jpg
 ---
 
 # Shakshuka

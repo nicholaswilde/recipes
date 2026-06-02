@@ -6,6 +6,7 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
+hero: assets/images/swiss-buttercream.jpg
 ---
 
 # :cake: Swiss Buttercream

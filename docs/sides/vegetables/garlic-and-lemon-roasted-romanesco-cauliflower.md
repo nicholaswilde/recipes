@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.jpg
 ---
 
 # :broccoli: Garlic & Lemon Roasted Romanesco Cauliflower

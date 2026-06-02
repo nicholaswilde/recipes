@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/magic-cookie-bars.jpg
 ---
 
 # :magic_wand: Magic Cookie Bars

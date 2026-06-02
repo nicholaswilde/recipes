@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - applied-kitchen
+hero: assets/images/citrus-honey-dressing.jpg
 ---
 
 # :lemon: Citrus Honey Dressing

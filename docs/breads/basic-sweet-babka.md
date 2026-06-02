@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/basic-sweet-babka.jpg
 ---
 
 # :bread: Basic Sweet Babka

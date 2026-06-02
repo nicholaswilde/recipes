@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - tante-myrna-seccia
+hero: assets/images/tante-myrn's-sugar-cookies.jpg
 ---
 
 # :cookie: Tante Myrn's Sugar Cookies

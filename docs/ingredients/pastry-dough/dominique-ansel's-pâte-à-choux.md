@@ -5,6 +5,7 @@ tags:
   - dominique-ansel
   - pastry-dough
   - french
+hero: assets/images/dominique-ansel's-pâte-à-choux.jpg
 ---
 
 # :pie: Dominique Ansel's Pâte à Choux

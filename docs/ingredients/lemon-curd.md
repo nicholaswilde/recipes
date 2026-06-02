@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - ina-garten
+hero: assets/images/lemon-curd.jpg
 ---
 
 # :lemon: Lemon Curd

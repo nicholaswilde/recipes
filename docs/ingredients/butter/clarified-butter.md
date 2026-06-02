@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - butter
+hero: assets/images/clarified-butter.jpg
 ---
 
 # :butter: Clarified Butter

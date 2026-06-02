@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - extract
+hero: assets/images/almond-extract.png
 ---
 
 # :chestnut: Almond Extract

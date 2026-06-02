@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - vegan
+hero: assets/images/vegan-marshmallows.jpg
 ---
 
 # :dango: Vegan Marshmallows

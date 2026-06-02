@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/almond-paste.jpg
 ---
 
 # :chestnut: Almond Paste

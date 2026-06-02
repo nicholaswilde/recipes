@@ -5,6 +5,7 @@ tags:
   - mexican
   - bowl
   - recipe-box
+hero: assets/images/chipotle-inspired-vegan-burrito-bowls.jpg
 ---
 
 # :green_salad: Chipotle-Inspired Vegan Burrito Bowls

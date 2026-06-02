@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/gingerbread-caramel-corn.jpg
 ---
 # Gingerbread Caramel Corn
 

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/marry-me-butter-beans.jpg
 ---
 
 # Marry Me Butter Beans

@@ -6,6 +6,7 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
+hero: assets/images/french-buttercream.jpg
 ---
 
 # :butter: French Buttercream

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/vegetarian-pot-pie.jpg
 ---
 # Vegetarian Pot Pie
 

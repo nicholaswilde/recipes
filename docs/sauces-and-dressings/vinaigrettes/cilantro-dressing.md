@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/cilantro-dressing.jpg
 ---
 
 # :herb: Cilantro Dressing

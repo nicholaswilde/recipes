@@ -5,6 +5,7 @@ tags:
   - breakfast
   - muffins
   - bake-off
+hero: assets/images/chocolate-muffins.jpg
 ---
 
 # :cupcake: Chocolate Muffins

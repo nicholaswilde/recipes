@@ -4,6 +4,7 @@ tags:
 
   - side
   - magnolia
+hero: assets/images/caprese-flatbread.jpg
 ---
 
 # :flatbread: Caprese Flatbread

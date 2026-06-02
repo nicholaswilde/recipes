@@ -7,6 +7,7 @@ tags:
   - pistachios
   - ina-garten
   - gluten-free
+hero: assets/images/salted-pistachio-meringues.png
 ---
 
 # :cookie: Salted Pistachio Meringues

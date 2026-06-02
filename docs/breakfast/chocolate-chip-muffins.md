@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - bake-off
+hero: assets/images/chocolate-chip-muffins.jpg
 ---
 
 # :cupcake: Chocolate Chip Muffins

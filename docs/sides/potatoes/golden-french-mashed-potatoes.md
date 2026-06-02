@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/golden-french-mashed-potatoes.jpg
 ---
 
 # :potato: Golden French Mashed Potatoes

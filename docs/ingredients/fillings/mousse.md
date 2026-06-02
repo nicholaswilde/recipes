@@ -4,6 +4,7 @@ tags:
 
   - filling
   - ingredient
+hero: assets/images/mousse.jpg
 ---
 
 # :chocolate_bar: Mousse

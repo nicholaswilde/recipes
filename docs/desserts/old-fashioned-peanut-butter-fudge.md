@@ -5,6 +5,7 @@ tags:
   - dessert
   - fudge
   - holiday
+hero: assets/images/old-fashioned-peanut-butter-fudge.jpg
 ---
 
 # :peanuts: Old-Fashioned Peanut Butter Fudge

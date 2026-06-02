@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - applied-kitchen
+hero: assets/images/chia-pudding.png
 ---
 
 # :custard: Chia Pudding

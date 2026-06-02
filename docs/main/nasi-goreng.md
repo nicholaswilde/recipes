@@ -4,6 +4,7 @@ tags:
 
   - indonesian
   - tante-myrna-seccia
+hero: assets/images/nasi-goreng.jpg
 ---
 
 # :rice: Nasi Goreng

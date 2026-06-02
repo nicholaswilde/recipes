@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/cranberry-bars.jpg
 ---
 
 # :cherries: Cranberry Bars

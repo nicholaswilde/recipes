@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - panera
+hero: assets/images/green-goddess-caprese-melt.jpg
 ---
 
 # :baguette_bread: Green Goddess Caprese Melt

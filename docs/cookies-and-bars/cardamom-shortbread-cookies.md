@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/cardamom-shortbread-cookies.jpg
 ---
 # Cardamom Shortbread Cookies
 

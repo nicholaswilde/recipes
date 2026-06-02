@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - ina-garten
+hero: assets/images/ina-garten's-perfect-vinaigrette.jpg
 ---
 
 # :champagne: Ina Garten's Perfect Vinaigrette

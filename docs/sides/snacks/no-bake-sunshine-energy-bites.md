@@ -5,6 +5,7 @@ tags:
   - bites
   - side
   - applied-kitchen
+hero: assets/images/no-bake-sunshine-energy-bites.png
 ---
 
 # :grapes: No Bake Sunshine Energy Bites

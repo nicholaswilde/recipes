@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - minimalist-baker
+hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg
 ---
 
 # :sweet_potato: Southwestern Butternut Squash and Black Bean Breakfast Bowl

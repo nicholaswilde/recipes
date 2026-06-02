@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - extract
+hero: assets/images/lemon-extract.jpg
 ---
 
 # :lemon: Lemon Extract

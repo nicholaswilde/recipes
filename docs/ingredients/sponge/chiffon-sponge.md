@@ -5,6 +5,7 @@ tags:
   - ingredient
   - sponge
   - king-arthur
+hero: assets/images/chiffon-sponge.jpg
 ---
 
 # :cake: Chiffon Sponge

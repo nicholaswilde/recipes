@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg
 ---
 
 # :doughnut: Cinnamon-Sugared Buttermilk Doughnuts

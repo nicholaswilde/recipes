@@ -4,6 +4,7 @@ tags:
 
   - condiment
   - sauce
+hero: assets/images/sweet-and-spicy-ketchup.jpg
 ---
 
 # :tomato: Sweet-and-Spicy Ketchup

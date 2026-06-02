@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/the-original-boston-cream-pie.jpg
 ---
 
 # :cake: The Original Boston Cream Pie

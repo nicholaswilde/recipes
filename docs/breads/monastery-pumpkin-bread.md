@@ -4,6 +4,7 @@ tags:
   - bread
   - favorite
   - holiday
+hero: assets/images/monastery-pumpkin-bread.jpg
 ---
 
 # :bread: Monastery Pumpkin Bread

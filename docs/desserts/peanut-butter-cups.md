@@ -5,6 +5,7 @@ tags:
   - dessert
   - cooks-illustrated
   - copycat
+hero: assets/images/peanut-butter-cups.jpg
 ---
 
 # :peanuts: Peanut Butter Cups

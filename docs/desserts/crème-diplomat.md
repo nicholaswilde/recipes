@@ -5,6 +5,7 @@ tags:
   - filling
   - ingredient
   - custard
+hero: assets/images/crème-diplomat.png
 ---
 
 # :icecream: Crème Diplomat

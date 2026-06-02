@@ -4,6 +4,7 @@ tags:
 
   - bread
   - bake-off
+hero: assets/images/honey-challah-with-assorted-toppings.jpg
 ---
 
 # :bread: Honey Challah with Assorted Toppings

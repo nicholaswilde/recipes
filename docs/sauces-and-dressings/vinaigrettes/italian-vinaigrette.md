@@ -5,6 +5,7 @@ tags:
   - vegan
   - nutrition-studies
   - dressing
+hero: assets/images/italian-vinaigrette.jpg
 ---
 
 # :green_salad: Italian Vinaigrette

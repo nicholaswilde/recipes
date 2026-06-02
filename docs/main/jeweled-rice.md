@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/jeweled-rice.jpg
 ---
 # Jeweled Rice
 

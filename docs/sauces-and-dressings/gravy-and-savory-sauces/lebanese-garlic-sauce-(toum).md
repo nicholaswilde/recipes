@@ -5,6 +5,7 @@ tags:
   - sauce
   - lebanese
   - toum
+hero: assets/images/lebanese-garlic-sauce-(toum).jpg
 ---
 
 # :garlic: Lebanese Garlic Sauce (Toum)

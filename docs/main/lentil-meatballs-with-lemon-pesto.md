@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/lentil-meatballs-with-lemon-pesto.jpg
 ---
 # Lentil Meatballs with Lemon Pesto
 

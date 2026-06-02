@@ -3,6 +3,7 @@ comments: true
 tags:
   - casserole
   - holiday
+hero: assets/images/green-bean-casserole.jpg
 ---
 
 # :cucumber: Green Bean Casserole

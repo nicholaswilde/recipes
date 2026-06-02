@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/peppermint-fudge.jpg
 ---
 # Peppermint Fudge
 

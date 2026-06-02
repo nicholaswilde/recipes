@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/pound-cake.jpg
 ---
 
 # :cake: Pound Cake

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/jackfruit-curry.jpg
 ---
 # Jackfruit Curry
 

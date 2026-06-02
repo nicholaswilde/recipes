@@ -4,6 +4,7 @@ tags:
   - desserts
 comments: true
 
+hero: assets/images/peanut-brittle.jpg
 ---
 
 # :peanuts: Peanut Brittle

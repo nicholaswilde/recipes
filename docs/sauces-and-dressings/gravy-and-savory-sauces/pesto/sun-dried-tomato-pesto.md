@@ -6,6 +6,7 @@ tags:
   - italian
   - joy-of-cooking
   - pesto
+hero: assets/images/sun-dried-tomato-pesto.jpg
 ---
 
 # :tomato: Sun-Dried Tomato Pesto

@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - allrecipes
+hero: assets/images/iced-pumpkin-cookies.jpg
 ---
 
 # :jack_o_lantern: Iced Pumpkin Cookies

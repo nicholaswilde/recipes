@@ -5,6 +5,7 @@ tags:
   - cookie
   - claire-saffitz
   - dessert
+hero: assets/images/oatmeal-cookies.jpg
 ---
 
 # :ear_of_rice: Oatmeal Cookies

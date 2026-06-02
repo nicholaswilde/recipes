@@ -4,6 +4,7 @@ tags:
 
   - chowder
   - the-blue-zones-kitchen
+hero: assets/images/kickin-potato-and-corn-chowder.jpg
 ---
 
 # :stew: Kickin Potato & Corn Chowder

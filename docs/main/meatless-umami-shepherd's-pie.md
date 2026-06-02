@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/meatless-umami-shepherd's-pie.png
 ---
 # Meatless Umami Shepherd's Pie
 

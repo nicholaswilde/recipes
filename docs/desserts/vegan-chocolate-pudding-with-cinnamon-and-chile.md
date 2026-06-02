@@ -5,6 +5,7 @@ tags:
   - dessert
   - pudding
   - vegan
+hero: assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.jpg
 ---
 
 # :custard: Vegan Chocolate Pudding with Cinnamon & Chile

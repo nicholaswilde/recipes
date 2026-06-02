@@ -4,6 +4,7 @@ tags:
 
   - side
   - trader-joes
+hero: assets/images/mushroom-medley.jpg
 ---
 
 # :mushroom: Mushroom Medley

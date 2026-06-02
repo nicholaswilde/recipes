@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/decadent-chocolate-overnight-oats.jpg
 ---
 
 # :chocolate_bar: Decadent Chocolate Overnight Oats

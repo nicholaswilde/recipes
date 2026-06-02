@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - recipe-box
+hero: assets/images/chewy-brownies.jpg
 ---
 
 # :chocolate_bar: Chewy Brownies

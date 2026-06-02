@@ -4,6 +4,7 @@ tags:
 
   - ingredients
   - seasoning
+hero: assets/images/herbes-de-provence.png
 ---
 
 # :herb: Herbes de Provence

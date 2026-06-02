@@ -4,6 +4,7 @@ tags:
 
   - side
   - popcorn
+hero: assets/images/kettle-corn.png
 ---
 
 # :corn: Kettle Corn

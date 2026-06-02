@@ -4,6 +4,7 @@ tags:
   - bread
   - sourdough
   - amy bakes bread
+hero: assets/images/maple-pecan-sourdough-bread.jpg
 ---
 # Maple Pecan Sourdough Bread
 

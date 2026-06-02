@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/southern-velvet-cake.png
 ---
 
 # :cake: Southern Velvet Cake

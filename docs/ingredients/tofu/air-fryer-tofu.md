@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - tofu
+hero: assets/images/air-fryer-tofu.jpg
 ---
 
 # :butter: Air Fryer Tofu

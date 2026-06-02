@@ -4,6 +4,7 @@ tags:
 
   - applied-kitchen
   - dressing
+hero: assets/images/sumac-lemon-vinaigrette.jpg
 ---
 
 # :lemon: Sumac Lemon Vinaigrette

@@ -4,6 +4,7 @@ tags:
   - desserts
 comments: true
 
+hero: assets/images/crêpes-suzette.jpg
 ---
 
 # :pancakes: Crêpes Suzette

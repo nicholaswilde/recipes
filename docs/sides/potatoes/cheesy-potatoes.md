@@ -3,6 +3,7 @@ comments: true
 tags:
   - holiday
   - side
+hero: assets/images/cheesy-potatoes.jpg
 ---
 
 # :potato: Cheesy Potatoes

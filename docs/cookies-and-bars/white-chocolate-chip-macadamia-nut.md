@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/white-chocolate-chip-macadamia-nut.jpg
 ---
 
 # :cookie: White Chocolate Chip Macadamia Nut

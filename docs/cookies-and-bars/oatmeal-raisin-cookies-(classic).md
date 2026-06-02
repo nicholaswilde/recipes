@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - tante-myrna-seccia
+hero: assets/images/oatmeal-raisin-cookies-(classic).jpg
 ---
 
 # :cookie: Oatmeal Raisin Cookies (Classic)

@@ -4,6 +4,7 @@ tags:
 
   - dumpling
   - italian
+hero: assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png
 ---
 
 # :spaghetti: Light & Tender Potato Gnocchi With Sage-Butter Sauce

@@ -5,6 +5,7 @@ tags:
   - ingredient
   - american
   - paste
+hero: assets/images/tomato-paste.png
 ---
 
 # :tomato: Tomato Paste

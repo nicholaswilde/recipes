@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - tspoons
+hero: assets/images/strawberry-rhubarb-crisp.jpg
 ---
 
 # :strawberry: Strawberry Rhubarb Crisp

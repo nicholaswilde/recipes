@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - recipe-box
+hero: assets/images/tijuana-torte.jpg
 ---
 
 # :pie: Tijuana Torte

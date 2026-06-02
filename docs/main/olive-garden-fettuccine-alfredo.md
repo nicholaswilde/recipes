@@ -4,6 +4,7 @@ tags:
 
   - italian
   - pasta
+hero: assets/images/olive-garden-fettuccine-alfredo.jpg
 ---
 
 # :spaghetti: Olive Garden Fettuccine Alfredo

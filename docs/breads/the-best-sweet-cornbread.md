@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/the-best-sweet-cornbread.jpg
 ---
 
 # :corn: The Best Sweet Cornbread

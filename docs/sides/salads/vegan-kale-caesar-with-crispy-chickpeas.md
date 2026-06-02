@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg
 ---
 # Vegan Kale Caesar with Crispy Chickpeas
 

@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/chocolate-peanut-butter-cheesecake-bars.png
 ---
 
 # :chocolate_bar: Chocolate Peanut Butter Cheesecake Bars

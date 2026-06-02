@@ -5,6 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
+hero: assets/images/cinnamon-raisin-sourdough-bread.jpg
 ---
 
 # :bread: Cinnamon Raisin Sourdough Bread

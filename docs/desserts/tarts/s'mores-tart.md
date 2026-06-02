@@ -5,6 +5,7 @@ tags:
   - dessert
   - tart
   - claire-saffitz
+hero: assets/images/s'mores-tart.jpg
 ---
 
 # :dango: S'mores Tart

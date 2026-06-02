@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
+hero: assets/images/lemon-thyme-yogurt-cake.jpg
 ---
 
 # :cake: Lemon Thyme Yogurt Cake

@@ -5,6 +5,7 @@ tags:
   - buns
   - burger buns
   - sandwich
+hero: assets/images/beautiful-burger-buns.jpg
 ---
 # Beautiful Burger Buns
 

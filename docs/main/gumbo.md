@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/gumbo.jpg
 ---
 
 # :stew: Gumbo

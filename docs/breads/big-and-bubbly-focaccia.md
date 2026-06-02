@@ -6,6 +6,7 @@ tags:
   - king-arthur
   - recipe-of-the-year
   - favorite
+hero: assets/images/big-and-bubbly-focaccia.jpg
 ---
 
 # :bread: Big & Bubbly Focaccia

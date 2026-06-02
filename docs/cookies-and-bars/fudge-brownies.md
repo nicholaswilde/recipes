@@ -6,6 +6,7 @@ tags:
   - bake-off
   - bar
   - dessert
+hero: assets/images/fudge-brownies.jpg
 ---
 
 # :chocolate_bar: Fudge Brownies

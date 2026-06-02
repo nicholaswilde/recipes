@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/special-sauce-for-burgers.jpg
 ---
 
 # :hamburger: Special Sauce for Burgers

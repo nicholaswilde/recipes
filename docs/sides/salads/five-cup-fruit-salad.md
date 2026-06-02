@@ -3,6 +3,7 @@ comments: true
 tags:
   - holiday
   - salad
+hero: assets/images/five-cup-fruit-salad.jpg
 ---
 
 # :pineapple: Five-Cup Fruit Salad

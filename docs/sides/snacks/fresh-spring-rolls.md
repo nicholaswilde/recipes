@@ -5,6 +5,7 @@ tags:
   - asian
   - side
   - applied-kitchen
+hero: assets/images/fresh-spring-rolls.png
 ---
 
 # :burrito: Fresh Spring Rolls

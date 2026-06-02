@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/beurre-manié.jpg
 ---
 
 # :butter: Beurre Manié

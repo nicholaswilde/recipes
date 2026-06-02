@@ -5,6 +5,7 @@ tags:
   - cake
   - lemon
   - pudding
+hero: assets/images/lemon-pudding-cake.jpg
 ---
 # Lemon Pudding Cake
 

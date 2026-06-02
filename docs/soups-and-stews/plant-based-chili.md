@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - chili
+hero: assets/images/plant-based-chili.jpg
 ---
 
 # :canned_food: Plant-Based Chili

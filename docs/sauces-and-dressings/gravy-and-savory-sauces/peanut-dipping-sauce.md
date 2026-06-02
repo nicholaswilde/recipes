@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - joy-of-cooking
+hero: assets/images/peanut-dipping-sauce.jpg
 ---
 
 # :peanuts: Peanut Dipping Sauce

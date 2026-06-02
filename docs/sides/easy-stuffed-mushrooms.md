@@ -5,6 +5,7 @@ tags:
   - side
   - mushroom
   - vegetarian
+hero: assets/images/easy-stuffed-mushrooms.jpg
 ---
 # Easy Stuffed Mushrooms
 

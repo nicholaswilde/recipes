@@ -4,6 +4,7 @@ tags:
 
   - bread
   - sugar-spun-run
+hero: assets/images/pumpkin-coffee-cake.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Coffee Cake

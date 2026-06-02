@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - vegan
+hero: assets/images/vegan-veggie-ground-meat.jpg
 ---
 
 # :leafy_green: Vegan Veggie Ground Meat

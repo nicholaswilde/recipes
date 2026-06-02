@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/granola-bars.jpg
 ---
 
 # Granola Bars

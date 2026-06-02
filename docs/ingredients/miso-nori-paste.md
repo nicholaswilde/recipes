@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/miso-nori-paste.jpg
 ---
 
 # Miso Nori Paste

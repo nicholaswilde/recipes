@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - butter
+hero: assets/images/butter.jpg
 ---
 
 # :butter: Butter

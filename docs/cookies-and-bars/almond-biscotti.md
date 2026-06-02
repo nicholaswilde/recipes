@@ -9,6 +9,7 @@ tags:
   - maria vannelli
   - the pancake princess
   - bake-off
+hero: assets/images/almond-biscotti.jpg
 ---
 # :cookie: Almond Biscotti
 

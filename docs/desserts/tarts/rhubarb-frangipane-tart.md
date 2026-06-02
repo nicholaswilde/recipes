@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - tart
+hero: assets/images/rhubarb-frangipane-tart.jpg
 ---
 # :leafy_green: Rhubarb Frangipane Tart
 

@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/brown-butter-chocolate-chunk-cookies.jpg
 ---
 
 # :cookie: Brown Butter Chocolate Chunk Cookies

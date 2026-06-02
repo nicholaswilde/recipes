@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - joy-of-cooking
+hero: assets/images/vinaigrette.jpg
 ---
 
 # :green_salad: Vinaigrette

@@ -7,6 +7,7 @@ tags:
   - dessert
   - cupcake-jemma
   - macaron
+hero: assets/images/french-macarons.jpg
 ---
 
 # :cookie: French Macarons

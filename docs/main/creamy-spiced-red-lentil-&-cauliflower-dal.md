@@ -5,6 +5,7 @@ tags:
   - vegetarian
   - slow-cooker
   - new-recipe
+hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg
 ---
 
 # :curry: Creamy Spiced Red Lentil & Cauliflower Dal

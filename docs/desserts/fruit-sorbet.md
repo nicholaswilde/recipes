@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/fruit-sorbet.jpg
 ---
 
 # :strawberry: Fruit Sorbet

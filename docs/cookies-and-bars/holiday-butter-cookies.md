@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/holiday-butter-cookies.jpg
 ---
 
 # :butter: Holiday Butter Cookies

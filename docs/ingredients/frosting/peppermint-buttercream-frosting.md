@@ -6,6 +6,7 @@ tags:
   - ingredient
   - peppermint
   - magnolia
+hero: assets/images/peppermint-buttercream-frosting.jpg
 ---
 
 # :candy: Peppermint Buttercream Frosting

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/spinach-artichoke-tarte-soleil.jpg
 ---
 
 # :flatbread: Spinach-Artichoke Tarte Soleil

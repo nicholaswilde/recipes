@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/grandma-kleins-chocolate-caramels.jpg
 ---
 
 # :chocolate_bar: Grandma Kleins Chocolate Caramels

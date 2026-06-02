@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - sandwich
+hero: assets/images/potato-meets-egg-salad.jpg
 ---
 
 # :sandwich: Potato Meets Egg Salad

@@ -4,6 +4,7 @@ tags:
 
   - joy-of-cooking
   - ingredient
+hero: assets/images/royal-icing.png
 ---
 
 # :crown: Royal Icing

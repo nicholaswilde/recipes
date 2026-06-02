@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - wrap
+hero: assets/images/romesco-wrap.jpg
 ---
 
 # :flatbread: Romesco Wrap

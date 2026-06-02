@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - fry bread
+hero: assets/images/fry-bread.jpg
 ---
 # Fry Bread
 

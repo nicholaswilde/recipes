@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/buffalo-baked-baby-carrots.jpg
 ---
 
 # :carrot: Buffalo-Baked Baby Carrots

@@ -4,6 +4,7 @@ tags:
 
   - indonesian
   - tante-myrna-seccia
+hero: assets/images/indonesian-satay.jpg
 ---
 
 # :meat_on_bone: Indonesian Satay

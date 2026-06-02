@@ -6,6 +6,7 @@ tags:
   - italian
   - cooks-illustrated
   - pesto
+hero: assets/images/cook's-country-perfect-pesto.jpg
 ---
 
 # :herb: Cook's Country Perfect Pesto

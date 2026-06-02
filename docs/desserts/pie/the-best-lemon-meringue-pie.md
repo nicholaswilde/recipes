@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - pie
+hero: assets/images/the-best-lemon-meringue-pie.png
 ---
 
 # :pie: The Best Lemon Meringue Pie

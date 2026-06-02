@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - soup
+hero: assets/images/lemony-lentil-soup.jpg
 ---
 
 # :lemon: Lemony Lentil Soup

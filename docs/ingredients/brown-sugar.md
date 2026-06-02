@@ -4,6 +4,7 @@ tags:
   - ingredients
 comments: true
 
+hero: assets/images/brown-sugar.jpg
 ---
 
 # :maple_leaf: Brown Sugar

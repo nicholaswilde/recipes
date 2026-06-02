@@ -4,6 +4,7 @@ tags:
 
   - mousse
   - dessert
+hero: assets/images/4-ingredient-chocolate-mousse.jpg
 ---
 
 # :chocolate_bar: 4 Ingredient Chocolate Mousse

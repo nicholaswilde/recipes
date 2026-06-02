@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/cheesy-popcorn.jpg
 ---
 
 # :popcorn: Cheesy Popcorn

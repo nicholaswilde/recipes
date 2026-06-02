@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/blanched-almonds.png
 ---
 
 # :chestnut: Blanched Almonds

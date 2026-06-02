@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - trader-joes
+hero: assets/images/morning-muffin-in-a-mug.png
 ---
 
 # :cupcake: Morning Muffin In a Mug

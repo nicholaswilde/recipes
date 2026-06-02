@@ -4,6 +4,7 @@ tags:
 
   - mix
   - ingredient
+hero: assets/images/ranch-dressing-mix.jpg
 ---
 
 # Ranch Dressing Mix

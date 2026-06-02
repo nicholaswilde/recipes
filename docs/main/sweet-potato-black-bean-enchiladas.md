@@ -4,6 +4,7 @@ tags:
 
   - main
   - enchilada
+hero: assets/images/sweet-potato-black-bean-enchiladas.jpg
 ---
 
 # :stuffed_flatbread: Sweet Potato Black Bean Enchiladas

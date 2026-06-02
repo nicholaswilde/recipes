@@ -4,6 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
+hero: assets/images/gracias-madre-black-beans.jpg
 ---
 
 # :canned_food: Gracias Madre Black Beans

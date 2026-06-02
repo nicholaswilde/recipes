@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/eggplant-parmigiana.jpg
 ---
 
 # :eggplant: Eggplant Parmigiana

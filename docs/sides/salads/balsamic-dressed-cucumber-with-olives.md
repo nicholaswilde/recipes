@@ -4,6 +4,7 @@ tags:
 
   - side
   - jamie-oliver
+hero: assets/images/balsamic-dressed-cucumber-with-olives.jpg
 ---
 
 # :cucumber: Balsamic-Dressed Cucumber with Olives

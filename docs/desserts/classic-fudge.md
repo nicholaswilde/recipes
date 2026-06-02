@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - fudge
+hero: assets/images/classic-fudge.png
 ---
 
 # :chocolate_bar: Classic Fudge

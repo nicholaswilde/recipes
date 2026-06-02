@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - pastry
+hero: assets/images/sweet-tart.png
 ---
 
 # :chestnut: Sweet Tart

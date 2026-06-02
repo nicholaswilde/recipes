@@ -5,6 +5,7 @@ tags:
   - sauce
   - joy-of-cooking
   - pesto
+hero: assets/images/joy-of-cooking-pesto.jpg
 ---
 
 # :herb: Joy of Cooking Pesto

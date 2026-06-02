@@ -4,6 +4,7 @@ tags:
 
   - gravy
   - applied-kitchen
+hero: assets/images/applied-homemade-vegetarian-gravy.jpg
 ---
 
 # :stew: Applied Homemade Vegetarian Gravy

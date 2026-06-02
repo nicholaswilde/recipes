@@ -4,6 +4,7 @@ tags:
 
   - panera
   - dressing
+hero: assets/images/green-goddess-dressing.jpg
 ---
 
 # :green_salad: Green Goddess Dressing

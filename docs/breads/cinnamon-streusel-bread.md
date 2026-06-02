@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/cinnamon-streusel-bread.png
 ---
 
 # :bread: Cinnamon Streusel Bread

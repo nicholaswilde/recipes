@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - claire-saffitz
+hero: assets/images/peach-bars.jpg
 ---
 
 # :peach: Peach Bars

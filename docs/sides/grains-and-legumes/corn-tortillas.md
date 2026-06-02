@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/corn-tortillas.png
 ---
 
 # :corn: Corn Tortillas

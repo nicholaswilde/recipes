@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - stew
+hero: assets/images/eggplant-stew.jpg
 ---
 
 # :eggplant: Eggplant Stew

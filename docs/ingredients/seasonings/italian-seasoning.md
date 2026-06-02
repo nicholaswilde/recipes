@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/italian-seasoning.jpg
 ---
 
 # :herb: Italian Seasoning

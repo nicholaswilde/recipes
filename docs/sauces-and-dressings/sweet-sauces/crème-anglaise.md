@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - french
+hero: assets/images/crème-anglaise.jpg
 ---
 
 # :egg: Crème Anglaise

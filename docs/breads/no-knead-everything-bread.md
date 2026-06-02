@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/no-knead-everything-bread.jpg
 ---
 
 # :bread: No-Knead Everything Bread

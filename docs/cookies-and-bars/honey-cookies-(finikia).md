@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - the-blue-zones-kitchen
+hero: assets/images/honey-cookies-(finikia).jpg
 ---
 
 # :honey_pot: Honey Cookies (Finikia)

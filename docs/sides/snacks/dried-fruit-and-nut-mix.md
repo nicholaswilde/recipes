@@ -4,6 +4,7 @@ tags:
 
   - side
   - applied-kitchen
+hero: assets/images/dried-fruit-and-nut-mix.png
 ---
 
 # :chestnut: Dried Fruit & Nut Mix

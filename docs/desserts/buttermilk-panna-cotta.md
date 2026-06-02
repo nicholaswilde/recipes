@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/buttermilk-panna-cotta.jpg
 ---
 
 # :icecream: Buttermilk Panna Cotta

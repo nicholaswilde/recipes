@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/golden-milk.jpg
 ---
 
 # :glass_of_milk: Golden Milk

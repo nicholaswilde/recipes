@@ -5,6 +5,7 @@ tags:
   - dessert
   - indonesian
   - indo-dutch
+hero: assets/images/omas-spekkoek.png
 ---
 # :cake: Oma's Spekkoek
 

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - condiment
+hero: assets/images/classic-mustard.jpg
 ---
 
 # :hotdog: Classic Mustard

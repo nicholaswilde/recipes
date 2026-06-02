@@ -4,6 +4,7 @@ tags:
   - favorite
   - holiday
   - thanksgiving
+hero: assets/images/leftover-thanksgiving-pot-pies.jpg
 ---
 
 # :pie: Leftover Thanksgiving Pot Pies

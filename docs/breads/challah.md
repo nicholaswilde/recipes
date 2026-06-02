@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/challah.jpg
 ---
 
 # :baguette_bread: Challah

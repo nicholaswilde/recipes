@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/honey-and-walnut-baked-brie.jpg
 ---
 
 # :cheese_wedge: Honey and Walnut Baked Brie

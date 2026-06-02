@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/hawaiian-toffee.jpg
 ---
 
 # :candy: Hawaiian Toffee

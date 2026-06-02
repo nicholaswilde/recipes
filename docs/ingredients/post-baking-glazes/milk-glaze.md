@@ -5,6 +5,7 @@ tags:
   - glaze
   - joy-of-cooking
   - ingredient
+hero: assets/images/milk-glaze.jpg
 ---
 
 # :glass_of_milk: Milk Glaze

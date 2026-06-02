@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/bisquick.jpg
 ---
 
 # :ear_of_rice: Bisquick

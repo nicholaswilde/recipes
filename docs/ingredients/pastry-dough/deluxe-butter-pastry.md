@@ -5,6 +5,7 @@ tags:
   - joy-of-cooking
   - pastry-dough
   - ingredient
+hero: assets/images/deluxe-butter-pastry.jpg
 ---
 
 # :pie: Deluxe Butter Pastry

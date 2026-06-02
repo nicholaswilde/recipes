@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/marble-cake.jpg
 ---
 
 # :cake: Marble Cake

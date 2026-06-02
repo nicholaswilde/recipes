@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - cupcake-princess
+hero: assets/images/m&m-cookies.jpg
 ---
 
 # :cookie: M&M Cookies

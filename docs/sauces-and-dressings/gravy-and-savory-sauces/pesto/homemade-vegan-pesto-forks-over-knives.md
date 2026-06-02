@@ -5,6 +5,7 @@ tags:
   - pesto
   - oil-free
   - forks-over-knives
+hero: assets/images/homemade-vegan-pesto-forks-over-knives.jpg
 ---
 
 # :herb: Homemade Vegan Pesto Forks Over Knives

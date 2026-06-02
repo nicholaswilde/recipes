@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/the-best-vegan-burger.jpg
 ---
 # The Best Vegan Burger
 

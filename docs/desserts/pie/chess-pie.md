@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - joy-of-cooking
+hero: assets/images/chess-pie.jpg
 ---
 
 # :pie: Chess Pie

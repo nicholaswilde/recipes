@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
 ---
 # Lemony Broccoli Salad with Chickpeas & Feta
 

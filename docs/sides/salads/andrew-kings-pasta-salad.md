@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/andrew-kings-pasta-salad.jpg
 ---
 
 # Andrew King's Pasta Salad

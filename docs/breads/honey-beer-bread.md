@@ -4,6 +4,7 @@ tags:
 
   - bread
   - quick-bread
+hero: assets/images/honey-beer-bread.jpg
 ---
 
 # :bread: Honey Beer Bread

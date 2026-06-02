@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/strawberry-cake.jpg
 ---
 
 # :cake: Strawberry Cake

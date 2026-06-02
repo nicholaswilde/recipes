@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
+hero: assets/images/dinner-party-yogurt-cake.jpg
 ---
 
 # :cake: Dinner Party Yogurt Cake

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/toasted-coconut-granola.jpg
 ---
 
 # :ear_of_rice: Toasted-Coconut Granola

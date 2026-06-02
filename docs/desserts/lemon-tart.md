@@ -2,6 +2,7 @@
 comments: true
 tags:
   - tart
+hero: assets/images/lemon-tart.jpg
 ---
 # Lemon Tart
 

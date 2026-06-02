@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/custard-creams.jpg
 ---
 
 # :cookie: Custard Creams

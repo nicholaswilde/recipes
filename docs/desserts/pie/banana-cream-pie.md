@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - martha-stewart
+hero: assets/images/banana-cream-pie.jpg
 ---
 
 # :banana: Banana Cream Pie

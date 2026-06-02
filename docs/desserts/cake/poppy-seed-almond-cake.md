@@ -6,6 +6,7 @@ tags:
   - cake
   - claire-saffitz
   - favorite
+hero: assets/images/poppy-seed-almond-cake.jpg
 ---
 
 # :chestnut: Poppy Seed Almond Cake

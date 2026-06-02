@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/sweetened-condensed-milk.jpg
 ---
 
 # :glass_of_milk: Sweetened Condensed Milk

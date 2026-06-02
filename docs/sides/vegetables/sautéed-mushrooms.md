@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/sautéed-mushrooms.jpg
 ---
 
 # :mushroom: Sautéed Mushrooms

@@ -5,6 +5,7 @@ tags:
   - main
   - trader-joes
   - recipe-box
+hero: assets/images/cowboy-quinoa-bake.png
 ---
 
 # :ear_of_rice: Cowboy Quinoa Bake

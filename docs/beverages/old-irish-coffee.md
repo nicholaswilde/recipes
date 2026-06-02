@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/old-irish-coffee.jpg
 ---
 
 # :coffee: Old Irish Coffee

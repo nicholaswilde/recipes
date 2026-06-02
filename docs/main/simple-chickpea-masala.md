@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/simple-chickpea-masala.jpg
 ---
 # Simple Chickpea Masala
 

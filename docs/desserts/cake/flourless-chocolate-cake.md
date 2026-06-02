@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/flourless-chocolate-cake.jpg
 ---
 
 # :chocolate_bar: Flourless Chocolate Cake

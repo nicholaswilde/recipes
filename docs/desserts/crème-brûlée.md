@@ -4,6 +4,7 @@ tags:
 
   - custard
   - dessert
+hero: assets/images/crème-brûlée.jpg
 ---
 
 # :egg: Crème Brûlée

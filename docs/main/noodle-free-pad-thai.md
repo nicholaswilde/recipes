@@ -5,6 +5,7 @@ tags:
   - asian
   - vegetarian
   - recipe-box
+hero: assets/images/noodle-free-pad-thai.jpg
 ---
 
 # :curry: Noodle-Free Pad Thai

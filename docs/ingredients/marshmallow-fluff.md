@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - king-arthur
+hero: assets/images/marshmallow-fluff.jpg
 ---
 
 # :dango: Marshmallow Fluff

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/meat-free-meat-loaf.jpg
 ---
 # Meat-Free Meat Loaf
 

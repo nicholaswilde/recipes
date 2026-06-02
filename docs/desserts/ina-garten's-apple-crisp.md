@@ -4,6 +4,7 @@ tags:
 
   - ina-garten
   - dessert
+hero: assets/images/ina-garten's-apple-crisp.jpg
 ---
 
 # :apple: Ina Garten's Apple Crisp

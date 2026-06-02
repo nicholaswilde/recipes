@@ -4,6 +4,7 @@ tags:
 
   - stew
   - slow-cooker
+hero: assets/images/slow-cooker-vegan-african-peanut-stew.png
 ---
 
 # :peanut: Slow Cooker Vegan African Peanut Stew

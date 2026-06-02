@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - sandwich
+hero: assets/images/cucumber-sandwich.jpg
 ---
 
 # :sandwich: Cucumber Sandwich

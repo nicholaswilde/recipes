@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/crustless-broccoli-quiche.jpg
 ---
 # Crustless Broccoli Quiche
 

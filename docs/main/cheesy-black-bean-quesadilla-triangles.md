@@ -5,6 +5,7 @@ tags:
   - mexican
   - quesadilla
   - recipe-box
+hero: assets/images/cheesy-black-bean-quesadilla-triangles.jpg
 ---
 
 # :flatbread: Cheesy Black Bean Quesadilla Triangles

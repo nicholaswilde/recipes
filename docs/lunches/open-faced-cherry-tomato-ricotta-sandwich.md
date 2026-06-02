@@ -5,6 +5,7 @@ tags:
   - lunch
   - cooks-illustrated
   - sandwich
+hero: assets/images/open-faced-cherry-tomato-ricotta-sandwich.jpg
 ---
 
 # :sandwich: Open-Faced Cherry Tomato Ricotta Sandwich

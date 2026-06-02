@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - king-arthur
+hero: assets/images/apple-fritter-cake.jpg
 ---
 
 # :green_apple: Apple Fritter Cake

@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - italian
+hero: assets/images/cannoli.png
 ---
 
 # :cake: Cannoli

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
+hero: assets/images/toffee-crackers.jpg
 ---
 
 # :cookie: Toffee Crackers

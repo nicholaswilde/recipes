@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/apricot-honey-oatmeal.jpg
 ---
 
 # :ear_of_rice: Apricot Honey Oatmeal

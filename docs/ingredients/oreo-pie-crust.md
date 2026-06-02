@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - crust
+hero: assets/images/oreo-pie-crust.jpg
 ---
 
 # :pie: Oreo Pie Crust

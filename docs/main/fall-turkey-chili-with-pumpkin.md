@@ -4,6 +4,7 @@ tags:
 
   - main
   - trader-joes
+hero: assets/images/fall-turkey-chili-with-pumpkin.png
 ---
 
 # Fall Turkey Chili With Pumpkin

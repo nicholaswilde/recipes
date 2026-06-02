@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
+hero: assets/images/lemon-bundt-cake.jpg
 ---
 
 # :cake: Lemon Bundt Cake

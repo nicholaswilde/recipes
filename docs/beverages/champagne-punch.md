@@ -4,6 +4,7 @@ tags:
 
   - beverage
   - recipe-box
+hero: assets/images/champagne-punch.jpg
 ---
 
 # :clinking_glasses: Champagne Punch

@@ -5,6 +5,7 @@ tags:
   - asian
   - stir-fry
   - vegetarian
+hero: assets/images/everyday-chinese-vegetable-stir-fry.jpg
 ---
 
 # :rice: Everyday Chinese Vegetable Stir-Fry

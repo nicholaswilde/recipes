@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
+hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg
 ---
 
 # :spaghetti: Sprouted Kitchen Spring Noodles Artichokes & Lemons

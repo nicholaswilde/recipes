@@ -5,6 +5,7 @@ tags:
   - mediterranean
   - recipe-box
   - favorite
+hero: assets/images/jeanie's-falafel.jpg
 ---
 
 # :falafel: Jeanie's Falafel

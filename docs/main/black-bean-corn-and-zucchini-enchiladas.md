@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - recipe-box
+hero: assets/images/black-bean-corn-and-zucchini-enchiladas.jpg
 ---
 
 # :curry: Black Bean, Corn, & Zucchini Enchiladas

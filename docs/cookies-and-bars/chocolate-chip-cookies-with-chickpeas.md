@@ -6,6 +6,7 @@ tags:
   - jessica-seinfeld
   - deceptively-delicious
   - dessert
+hero: assets/images/chocolate-chip-cookies-with-chickpeas.jpg
 ---
 
 # :cookie: Chocolate Chip Cookies with Chickpeas

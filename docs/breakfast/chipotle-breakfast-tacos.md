@@ -5,6 +5,7 @@ tags:
   - mexican
   - taco
   - recipe-box
+hero: assets/images/chipotle-breakfast-tacos.jpg
 ---
 
 # :taco: Chipotle Breakfast Tacos

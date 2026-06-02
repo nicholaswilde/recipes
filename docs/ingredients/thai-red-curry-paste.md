@@ -5,6 +5,7 @@ tags:
   - curry paste
   - Thai
   - spicy
+hero: assets/images/thai-red-curry-paste.jpg
 ---
 # Thai Red Curry Paste
 

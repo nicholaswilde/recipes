@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - joy-of-cooking
+hero: assets/images/roux.png
 ---
 
 # :stew: Roux

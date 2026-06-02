@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/cauliflower-green-bean-mac-and-cheese.jpg
 ---
 # Cauliflower Green Bean Mac and Cheese
 

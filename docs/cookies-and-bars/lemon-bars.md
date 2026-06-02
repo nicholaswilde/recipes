@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - tante-myrna-seccia
+hero: assets/images/lemon-bars.jpg
 ---
 
 # :lemon: Lemon Bars

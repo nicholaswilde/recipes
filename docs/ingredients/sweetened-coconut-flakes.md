@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/sweetened-coconut-flakes.jpg
 ---
 
 # :coconut: Sweetened Coconut Flakes

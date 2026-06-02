@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/toasted-nuts.jpg
 ---
 
 # :chestnut: Toasted Nuts

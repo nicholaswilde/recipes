@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - tofu
+hero: assets/images/crispy-baked-tofu-nuggets.jpg
 ---
 
 # :butter: Crispy Baked Tofu Nuggets

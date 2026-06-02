@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/roasted-sweet-garlic-&-almond-soup.jpg
 ---
 
 # :stew: Roasted Sweet Garlic & Almond Soup

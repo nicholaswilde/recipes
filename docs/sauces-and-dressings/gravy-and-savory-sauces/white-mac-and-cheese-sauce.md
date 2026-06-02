@@ -6,6 +6,7 @@ tags:
   - italian
   - forks-over-knives
   - vegan
+hero: assets/images/white-mac-and-cheese-sauce.jpg
 ---
 
 # :spaghetti: White Mac & Cheese Sauce

@@ -4,6 +4,7 @@ tags:
 
   - side
   - minimalist-baker
+hero: assets/images/roasted-fennel-with-garlic-and-thyme.jpg
 ---
 
 # :leafy_green: Roasted Fennel with Garlic and Thyme

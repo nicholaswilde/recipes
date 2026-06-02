@@ -5,6 +5,7 @@ tags:
   - mexican
   - taco
   - trader-joes
+hero: assets/images/lentil-fajita-tacos-with-zhoug-crema.png
 ---
 
 # :taco: Lentil Fajita Tacos with Zhoug Crema

@@ -6,6 +6,7 @@ tags:
   - french
   - fancy
   - artisan
+hero: assets/images/epis-de-ble.jpg
 ---
 
 # Epis de Ble

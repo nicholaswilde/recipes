@@ -8,6 +8,7 @@ tags:
   - gluten-free
   - edamame
   - hummus
+hero: assets/images/edamame-hummus.jpg
 ---
 
 # :beans: Edamame Hummus

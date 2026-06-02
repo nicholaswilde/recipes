@@ -5,6 +5,7 @@ tags:
   - butter
   - ingredient
   - applied-kitchen
+hero: assets/images/chili-lime-butter.jpg
 ---
 
 # :butter: Chili Lime Butter

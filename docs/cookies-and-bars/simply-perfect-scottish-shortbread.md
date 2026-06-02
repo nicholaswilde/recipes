@@ -7,6 +7,7 @@ tags:
   - scottish
   - jennifer maloney
   - the pancake princess
+hero: assets/images/simply-perfect-scottish-shortbread.jpg
 ---
 # Simply Perfect Scottish Shortbread
 

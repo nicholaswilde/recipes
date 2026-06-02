@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - nutrition-studies
+hero: assets/images/mediterranean-coleslaw.jpg
 ---
 
 # :leafy_green: Mediterranean Coleslaw

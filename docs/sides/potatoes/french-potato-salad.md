@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/french-potato-salad.png
 ---
 
 # :potato: French Potato Salad

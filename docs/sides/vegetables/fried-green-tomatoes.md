@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/fried-green-tomatoes.jpg
 ---
 
 # :tomato: Fried Green Tomatoes

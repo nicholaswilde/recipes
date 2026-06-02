@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/crispy-herbes-de-provence-potatoes.png
 ---
 
 # :potato: Crispy Herbes de Provence Potatoes

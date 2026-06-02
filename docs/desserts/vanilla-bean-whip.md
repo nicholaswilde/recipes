@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - forks-over-knives
+hero: assets/images/vanilla-bean-whip.jpg
 ---
 
 # :icecream: Vanilla Bean Whip

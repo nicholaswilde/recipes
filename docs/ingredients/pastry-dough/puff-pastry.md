@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - paul-hollywood
+hero: assets/images/puff-pastry.png
 ---
 
 # :pie: Puff Pastry

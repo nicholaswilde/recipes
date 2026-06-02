@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
   - holiday
+hero: assets/images/huevos-in-a-crockpot.jpg
 ---
 
 # :egg: Huevos in a Crockpot

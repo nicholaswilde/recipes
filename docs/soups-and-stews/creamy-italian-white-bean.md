@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/creamy-italian-white-bean.jpg
 ---
 
 # :canned_food: Creamy Italian White Bean

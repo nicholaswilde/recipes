@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/ginger-cubes.jpg
 ---
 
 # :ice_cube: Ginger Cubes

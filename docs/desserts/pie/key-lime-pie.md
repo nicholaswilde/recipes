@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - bake-off
+hero: assets/images/key-lime-pie.jpg
 ---
 
 # :lemon: Key Lime Pie

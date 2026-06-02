@@ -5,6 +5,7 @@ tags:
   - cookie
   - dorie-greenspan
   - dessert
+hero: assets/images/vanilla-bean-sables.jpg
 ---
 
 # :cookie: Vanilla Bean Sables

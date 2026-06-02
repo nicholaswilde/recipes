@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/japanese-milk-bread.jpg
 ---
 
 # :bread: Japanese Milk Bread

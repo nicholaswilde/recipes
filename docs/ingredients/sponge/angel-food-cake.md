@@ -5,6 +5,7 @@ tags:
   - ingredient
   - sponge
   - king-arthur
+hero: assets/images/angel-food-cake.jpg
 ---
 
 # :cake: Angel Food Cake

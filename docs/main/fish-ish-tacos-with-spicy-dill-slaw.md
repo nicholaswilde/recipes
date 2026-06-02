@@ -4,6 +4,7 @@ tags:
 
   - main
   - trader-joes
+hero: assets/images/fish-ish-tacos-with-spicy-dill-slaw.png
 ---
 
 # :fish: Fish-ish Tacos with Spicy Dill Slaw

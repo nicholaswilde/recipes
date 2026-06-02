@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - mousse
+hero: assets/images/strawberry-mousse.jpg
 ---
 
 # :strawberry: Strawberry Mousse

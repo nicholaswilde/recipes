@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - jean-pierre
+hero: assets/images/tomato-ragu.jpg
 ---
 
 # :tomato: Tomato Ragu

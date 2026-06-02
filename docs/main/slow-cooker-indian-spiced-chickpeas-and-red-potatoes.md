@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.jpg
 ---
 # Slow Cooker Indian-Spiced Chickpeas and Red Potatoes
 

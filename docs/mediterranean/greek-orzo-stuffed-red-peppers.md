@@ -5,6 +5,7 @@ tags:
   - mediterranean
   - greek
   - recipe-box
+hero: assets/images/greek-orzo-stuffed-red-peppers.jpg
 ---
 
 # :bell_pepper: Greek Orzo Stuffed Red Peppers

@@ -6,6 +6,7 @@ tags:
   - dessert
   - joy-of-cooking
   - custard
+hero: assets/images/chocolate-soufflé.jpg
 ---
 
 # :custard: Chocolate Soufflé

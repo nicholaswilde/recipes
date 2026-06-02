@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - anna-olson
+hero: assets/images/bread-pudding.jpg
 ---
 
 # :bread: Bread Pudding

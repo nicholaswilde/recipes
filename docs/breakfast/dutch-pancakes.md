@@ -5,6 +5,7 @@ tags:
   - breakfast
   - pancake
   - tante-myrna-seccia
+hero: assets/images/dutch-pancakes.jpg
 ---
 
 # :pancakes: Dutch Pancakes

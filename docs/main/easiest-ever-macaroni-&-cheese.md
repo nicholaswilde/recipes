@@ -4,6 +4,7 @@ tags:
 
   - pasta
   - italian
+hero: assets/images/easiest-ever-macaroni-&-cheese.jpg
 ---
 
 # :spaghetti: Easiest Ever Macaroni & Cheese

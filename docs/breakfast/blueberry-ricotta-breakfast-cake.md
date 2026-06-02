@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/blueberry-ricotta-breakfast-cake.png
 ---
 
 # Blueberry Ricotta Breakfast Cake

@@ -4,6 +4,7 @@ tags:
 
   - cake
   - dessert
+hero: assets/images/cinnamon-chocolate-cake.jpg
 ---
 
 # :cake: Cinnamon Chocolate Cake

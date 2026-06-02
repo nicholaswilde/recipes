@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/pampered-chef-cannoli.jpg
 ---
 
 # :baguette_bread: Pampered Chef Cannoli

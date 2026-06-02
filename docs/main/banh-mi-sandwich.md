@@ -6,6 +6,7 @@ tags:
   - vegetarian
   - sandwich
   - applied-kitchen
+hero: assets/images/banh-mi-sandwich.jpg
 ---
 
 # :sandwich: Banh Mi Sandwich

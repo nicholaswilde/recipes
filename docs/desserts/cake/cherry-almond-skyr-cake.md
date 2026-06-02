@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - dominique-ansel
+hero: assets/images/cherry-almond-skyr-cake.jpg
 ---
 
 # :cake: Cherry Almond Skyr Cake

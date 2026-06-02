@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - prue-leith
+hero: assets/images/millefeuille.jpg
 ---
 
 # :cake: Millefeuille

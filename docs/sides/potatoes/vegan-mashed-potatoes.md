@@ -4,6 +4,7 @@ tags:
 
   - side
   - minimalist-baker
+hero: assets/images/vegan-mashed-potatoes.jpg
 ---
 
 # :potato: Vegan Mashed Potatoes

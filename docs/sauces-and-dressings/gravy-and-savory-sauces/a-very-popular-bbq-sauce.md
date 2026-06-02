@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/a-very-popular-bbq-sauce.jpg
 ---
 
 # :hotsprings: A Very Popular BBQ Sauce

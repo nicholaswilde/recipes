@@ -5,6 +5,7 @@ tags:
   - lunch
   - applied-kitchen
   - sandwich
+hero: assets/images/applied-grilled-cheese.jpg
 ---
 
 # :sandwich: Applied Grilled Cheese

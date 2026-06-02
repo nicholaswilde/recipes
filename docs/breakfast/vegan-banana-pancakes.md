@@ -5,6 +5,7 @@ tags:
   - breakfast
   - vegan
   - pancake
+hero: assets/images/vegan-banana-pancakes.jpg
 ---
 
 # :pancakes: Vegan Banana Pancakes

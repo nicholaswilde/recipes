@@ -5,6 +5,7 @@ tags:
   - cookie
   - bakewise
   - dessert
+hero: assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.jpg
 ---
 
 # :cookie: Diamond-Edged Melt-in-Your-Mouth Butter Cookies

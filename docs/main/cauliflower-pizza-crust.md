@@ -5,6 +5,7 @@ tags:
   - pizza
   - low-carb
   - gluten-free
+hero: assets/images/cauliflower-pizza-crust.jpg
 ---
 
 # :pizza: Cauliflower Pizza Crust

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - bake-off
+hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg
 ---
 # Moist Peanut Butter Cake
 

@@ -5,6 +5,7 @@ tags:
   - breakfast
   - french
   - joy-of-cooking
+hero: assets/images/french-omelet.jpg
 ---
 
 # :egg: French Omelet

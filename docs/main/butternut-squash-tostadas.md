@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - tostada
+hero: assets/images/butternut-squash-tostadas.jpg
 ---
 
 # :stuffed_flatbread: Butternut Squash Tostadas

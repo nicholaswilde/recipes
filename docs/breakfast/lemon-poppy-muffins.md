@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - muffin
+hero: assets/images/lemon-poppy-muffins.jpg
 ---
 
 # :cupcake: Lemon Poppy Muffins

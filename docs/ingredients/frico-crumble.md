@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/frico-crumble.jpg
 ---
 
 # :cheese_wedge: Frico Crumble

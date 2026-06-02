@@ -7,6 +7,7 @@ tags:
   - oatmeal
   - chocolate-chip
   - krollskorner
+hero: assets/images/chewy-oatmeal-chocolate-chip-cookies.jpg
 ---
 
 # :ear_of_rice: Chewy Oatmeal Chocolate Chip Cookies

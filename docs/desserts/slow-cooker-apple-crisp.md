@@ -5,6 +5,7 @@ tags:
   - dessert
   - slow-cooker
   - recipe-box
+hero: assets/images/slow-cooker-apple-crisp.jpg
 ---
 
 # :apple: Slow Cooker Apple Crisp

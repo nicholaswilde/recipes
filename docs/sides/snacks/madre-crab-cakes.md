@@ -5,6 +5,7 @@ tags:
   - side
   - the-gracias-madre-cookbook
   - vegan
+hero: assets/images/madre-crab-cakes.jpg
 ---
 
 # :crab: Madre Crab Cakes

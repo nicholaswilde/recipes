@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
   - bake-off
+hero: assets/images/cinnamon-rolls.png
 ---
 
 # :doughnut: Cinnamon Rolls

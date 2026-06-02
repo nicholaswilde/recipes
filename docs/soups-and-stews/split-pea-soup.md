@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/split-pea-soup.jpg
 ---
 
 # :green_circle: Split Pea Soup

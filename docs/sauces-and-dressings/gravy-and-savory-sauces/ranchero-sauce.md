@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - magnolia
+hero: assets/images/ranchero-sauce.jpg
 ---
 
 # :racehorse: Ranchero Sauce

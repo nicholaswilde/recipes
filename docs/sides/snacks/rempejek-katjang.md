@@ -6,6 +6,7 @@ tags:
   - indo-dutch
   - vegetarian
   - vegan
+hero: assets/images/rempejek-katjang.jpg
 ---
 # :chestnut: Rempejek Katjang
 

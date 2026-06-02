@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/old-fashioned-rice-pudding.jpg
 ---
 
 # :rice: Old-Fashioned Rice Pudding

@@ -4,6 +4,7 @@ tags:
 
   - spread
   - cooks-illustrated
+hero: assets/images/carrot-tamarind-chutney.jpg
 ---
 
 # :carrot: Carrot-Tamarind Chutney

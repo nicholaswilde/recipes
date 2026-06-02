@@ -8,6 +8,7 @@ tags:
   - food network
   - the pancake princess
   - bake-off
+hero: assets/images/fresh-fruit-tart.jpg
 ---
 # :pie: Fresh Fruit Tart
 

@@ -4,6 +4,7 @@ tags:
 
   - side
   - gordon-ramsay
+hero: assets/images/basmati-pilaf.jpg
 ---
 
 # :rice: Basmati Pilaf

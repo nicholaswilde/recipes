@@ -4,6 +4,7 @@ tags:
 
   - side
   - jean-pierre
+hero: assets/images/garlic-mushrooms.jpg
 ---
 
 # :mushroom: Garlic Mushrooms

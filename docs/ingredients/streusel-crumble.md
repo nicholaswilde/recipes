@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/streusel-crumble.png
 ---
 
 # :pie: Streusel Crumble

@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/mexican-coleslaw.png
 ---
 
 # Mexican Coleslaw

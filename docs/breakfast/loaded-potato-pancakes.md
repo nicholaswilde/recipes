@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - trader-joes
+hero: assets/images/loaded-potato-pancakes.png
 ---
 
 # :potato: Loaded Potato Pancakes

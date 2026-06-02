@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/yogurt.jpg
 ---
 
 # :microbe: Yogurt

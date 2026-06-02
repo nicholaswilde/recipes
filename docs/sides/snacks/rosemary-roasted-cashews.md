@@ -4,6 +4,7 @@ tags:
 
   - side
   - ina-garten
+hero: assets/images/rosemary-roasted-cashews.jpg
 ---
 
 # :chestnut: Rosemary Roasted Cashews

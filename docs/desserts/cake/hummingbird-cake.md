@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/hummingbird-cake.jpg
 ---
 
 # :cake: Hummingbird Cake

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/tzatziki-sauce.jpg
 ---
 
 # :rice: Tzatziki Sauce

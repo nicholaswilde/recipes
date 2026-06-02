@@ -4,6 +4,7 @@ tags:
 
   - side
   - the-blue-zones-kitchen
+hero: assets/images/fennel-and-potato-cassola.jpg
 ---
 
 # :leafy_green: Fennel & Potato Cassola

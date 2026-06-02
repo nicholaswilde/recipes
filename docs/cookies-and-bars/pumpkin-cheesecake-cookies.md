@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/pumpkin-cheesecake-cookies.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Cheesecake Cookies

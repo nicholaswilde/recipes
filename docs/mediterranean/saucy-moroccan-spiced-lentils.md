@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
+hero: assets/images/saucy-moroccan-spiced-lentils.jpg
 ---
 
 # :curry: Saucy Moroccan-Spiced Lentils

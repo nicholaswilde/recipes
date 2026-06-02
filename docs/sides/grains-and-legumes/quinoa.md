@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/quinoa.jpg
 ---
 
 # :rice: Quinoa

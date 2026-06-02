@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - ingredient
+hero: assets/images/fajita-veggies.jpg
 ---
 
 # :bell_pepper: Fajita Veggies

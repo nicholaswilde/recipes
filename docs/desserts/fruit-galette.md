@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/fruit-galette.jpg
 ---
 
 # :pie: Fruit Galette

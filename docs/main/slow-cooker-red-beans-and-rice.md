@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/slow-cooker-red-beans-and-rice.jpg
 ---
 # Slow Cooker Red Beans and Rice
 

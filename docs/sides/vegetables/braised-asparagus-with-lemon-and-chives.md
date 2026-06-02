@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/braised-asparagus-with-lemon-and-chives.jpg
 ---
 
 # :leafy_green: Braised Asparagus with Lemon & Chives

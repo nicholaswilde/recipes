@@ -5,6 +5,7 @@ tags:
   - cookie
   - bake-off
   - dessert
+hero: assets/images/lofthouse-cookies.png
 ---
 
 # :cookie: Lofthouse Cookies

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/chipotle-ranch-dressing.jpg
 ---
 
 # :hot_pepper: Chipotle Ranch Dressing

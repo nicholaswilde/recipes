@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/roasted-garlic.jpg
 ---
 
 # :garlic: Roasted Garlic

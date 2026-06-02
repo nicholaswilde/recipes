@@ -5,6 +5,7 @@ tags:
   - side
   - king-arthur
   - appetizer
+hero: assets/images/artisan-breadsticks.jpg
 ---
 # Artisan Breadsticks
 

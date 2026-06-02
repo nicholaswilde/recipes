@@ -4,6 +4,7 @@ tags:
 
   - trader-joes
   - soup
+hero: assets/images/sweet-potato-soup.png
 ---
 
 # :stew: Sweet Potato Soup

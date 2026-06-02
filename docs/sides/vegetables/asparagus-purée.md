@@ -5,6 +5,7 @@ tags:
   - puree
   - side
   - gordon-ramsay
+hero: assets/images/asparagus-purée.png
 ---
 
 # :herb: Asparagus Purée

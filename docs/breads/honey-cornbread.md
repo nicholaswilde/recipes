@@ -4,6 +4,7 @@ tags:
 
   - bread
   - quick-bread
+hero: assets/images/honey-cornbread.jpg
 ---
 
 # :corn: Honey Cornbread

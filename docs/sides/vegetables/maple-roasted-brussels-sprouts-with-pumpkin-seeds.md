@@ -5,6 +5,7 @@ tags:
   - side
   - whole-foods
   - cathy
+hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg
 ---
 
 # :leafy_green: Maple Roasted Brussels Sprouts with Pumpkin Seeds

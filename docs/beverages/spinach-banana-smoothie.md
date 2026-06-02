@@ -5,6 +5,7 @@ tags:
   - smoothie
   - beverage
   - applied-kitchen
+hero: assets/images/spinach-banana-smoothie.png
 ---
 
 # :leafy_green: Spinach Banana Smoothie

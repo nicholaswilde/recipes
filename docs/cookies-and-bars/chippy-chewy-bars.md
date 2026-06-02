@@ -4,6 +4,7 @@ tags:
   - bar
   - dessert
   - holiday
+hero: assets/images/chippy-chewy-bars.jpg
 ---
 
 # :chocolate_bar: Chippy Chewy Bars

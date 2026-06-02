@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/apple-butter.jpg
 ---
 
 # :green_apple: Apple Butter

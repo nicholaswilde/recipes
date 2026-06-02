@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - favorite
+hero: assets/images/white-chocolate-cranberry-cookies.jpg
 ---
 
 # :cookie: White Chocolate Cranberry Cookies

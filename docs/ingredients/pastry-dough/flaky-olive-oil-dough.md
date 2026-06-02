@@ -6,6 +6,7 @@ tags:
   - ingredient
   - claire-saffitz
   - dessert-person
+hero: assets/images/flaky-olive-oil-dough.jpg
 ---
 
 # :olive: Flaky Olive Oil Dough

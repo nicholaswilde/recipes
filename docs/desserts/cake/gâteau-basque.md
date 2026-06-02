@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - french
+hero: assets/images/gâteau-basque.jpg
 ---
 
 # :cake: Gâteau Basque

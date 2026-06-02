@@ -4,6 +4,7 @@ tags:
 
   - pie
   - dessert
+hero: assets/images/shoofly-pie.png
 ---
 
 # :pie: Shoofly Pie

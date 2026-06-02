@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/garlic-parsley-basting-butter.jpg
 ---
 
 # :butter: Garlic-Parsley Basting Butter

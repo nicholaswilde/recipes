@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/simple-barbecue-sauce.jpg
 ---
 
 # :hotsprings: Simple Barbecue Sauce

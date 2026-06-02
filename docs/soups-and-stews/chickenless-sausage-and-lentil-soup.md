@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/chickenless-sausage-and-lentil-soup.jpg
 ---
 
 # :stew: Chickenless Sausage and Lentil Soup

@@ -4,6 +4,7 @@ tags:
   - ingredient
   - southern-living
   - feast-and-farm
+hero: assets/images/self-rising-cornmeal.jpg
 ---
 # Self-Rising Cornmeal
 

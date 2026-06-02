@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.jpg
 ---
 # Lentil and Mushroom Stuffed Peppers and Butternut Squash
 

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - king-arthur
+hero: assets/images/buttermilk.jpg
 ---
 
 # :glass_of_milk: Buttermilk

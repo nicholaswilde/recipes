@@ -6,6 +6,7 @@ tags:
   - pasta
   - jamie-oliver
   - recipe-box
+hero: assets/images/trapani-style-pasta.jpg
 ---
 
 # :spaghetti: Trapani-Style Pasta

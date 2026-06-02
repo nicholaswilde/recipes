@@ -4,6 +4,7 @@ tags:
 
   - burger
   - main
+hero: assets/images/black-bean-burgers.jpg
 ---
 
 # :hamburger: Black Bean Burgers

@@ -4,6 +4,7 @@ tags:
 
   - meringue
   - ingredient
+hero: assets/images/swiss-meringue.jpg
 ---
 
 # :egg: Swiss Meringue

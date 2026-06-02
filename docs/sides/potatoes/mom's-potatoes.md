@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - holiday
+hero: assets/images/mom's-potatoes.jpg
 ---
 
 # :potato: Mom's Potatoes

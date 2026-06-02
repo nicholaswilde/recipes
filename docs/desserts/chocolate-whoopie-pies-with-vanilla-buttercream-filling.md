@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - pie
+hero: assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg
 ---
 
 # :cookie: Chocolate Whoopie Pies with Vanilla Buttercream Filling

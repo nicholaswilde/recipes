@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - frosting
+hero: assets/images/classic-vanilla-buttercream-frosting.jpg
 ---
 
 # :cake: Classic Vanilla Buttercream Frosting

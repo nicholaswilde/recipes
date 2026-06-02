@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dip
+hero: assets/images/homemade-ranch-dip.jpg
 ---
 
 # :rice: Homemade Ranch Dip

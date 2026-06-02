@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+hero: assets/images/sandwich-rye-bread.jpg
 ---
 
 # :bread: Sandwich Rye Bread

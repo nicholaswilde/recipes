@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg
 ---
 # Creamy Vegan Polenta with Mushrooms and Kale
 

@@ -4,6 +4,7 @@ tags:
 
   - dip
   - applied-kitchen
+hero: assets/images/tzatziki-dip.jpg
 ---
 
 # Tzatziki Dip

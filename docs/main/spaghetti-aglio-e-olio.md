@@ -5,6 +5,7 @@ tags:
   - italian
   - jean-pierre
   - pasta
+hero: assets/images/spaghetti-aglio-e-olio.jpg
 ---
 
 # :spaghetti: Spaghetti Aglio E Olio

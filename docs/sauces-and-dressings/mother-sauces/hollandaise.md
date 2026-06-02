@@ -4,6 +4,7 @@ tags:
 
   - mother-sauce
   - french
+hero: assets/images/hollandaise.jpg
 ---
 
 # :egg: Hollandaise

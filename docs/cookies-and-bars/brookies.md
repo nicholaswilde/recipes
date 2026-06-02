@@ -5,6 +5,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/brookies.jpg
 ---
 
 # :cookie: Brookies

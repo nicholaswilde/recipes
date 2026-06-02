@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/canneles-de-bordeaux.jpg
 ---
 # Canneles de Bordeaux
 

@@ -4,6 +4,7 @@ tags:
 
   - bread
   - paul-hollywood
+hero: assets/images/pain-aux-raisins.png
 ---
 
 # :bagel: Pain Aux Raisins

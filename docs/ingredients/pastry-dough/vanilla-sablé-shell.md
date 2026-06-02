@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - dominique-ansel
+hero: assets/images/vanilla-sablé-shell.jpg
 ---
 
 # :pie: Vanilla Sablé Shell

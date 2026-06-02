@@ -5,6 +5,7 @@ tags:
   - side
   - nutrition-studies
   - salad
+hero: assets/images/blueberry-chickpea-salad.jpg
 ---
 
 # :blue_circle: Blueberry Chickpea Salad

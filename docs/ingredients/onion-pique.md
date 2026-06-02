@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/onion-pique.jpg
 ---
 
 # :onion: Onion Pique

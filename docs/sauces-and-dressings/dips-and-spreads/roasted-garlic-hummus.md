@@ -5,6 +5,7 @@ tags:
   - sauce
   - heat-culinary
   - persian
+hero: assets/images/roasted-garlic-hummus.jpg
 ---
 
 # :falafel: Roasted Garlic Hummus

@@ -4,6 +4,7 @@ tags:
 
   - bread
   - quick-bread
+hero: assets/images/delicious-zucchini-bread.jpg
 ---
 
 # :bread: Delicious Zucchini Bread

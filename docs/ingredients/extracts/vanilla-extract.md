@@ -4,6 +4,7 @@ tags:
 
   - extract
   - ingredient
+hero: assets/images/vanilla-extract.jpg
 ---
 
 # :icecream: Vanilla Extract

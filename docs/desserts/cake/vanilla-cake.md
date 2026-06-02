@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/vanilla-cake.jpg
 ---
 
 # :cake: Vanilla Cake

@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/naan.jpg
 ---
 
 # :flatbread: Naan

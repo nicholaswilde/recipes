@@ -4,6 +4,7 @@ tags:
 
   - frosting
   - ingredient
+hero: assets/images/marzipan.jpg
 ---
 
 # :dango: Marzipan

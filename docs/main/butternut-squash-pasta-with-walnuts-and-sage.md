@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/butternut-squash-pasta-with-walnuts-and-sage.jpg
 ---
 
 # :spaghetti: Butternut Squash Pasta with Walnuts & Sage

@@ -5,6 +5,7 @@ tags:
   - breakfast
   - claire-saffitz
   - dessert-person
+hero: assets/images/crispy-mushroom-galette.jpg
 ---
 
 # :mushroom: Crispy Mushroom Galette

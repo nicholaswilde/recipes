@@ -4,6 +4,7 @@ tags:
 
   - muffin
   - breakfast
+hero: assets/images/levain-bakery-blueberry-muffins.jpg
 ---
 
 # :cupcake: Levain Bakery Blueberry Muffins

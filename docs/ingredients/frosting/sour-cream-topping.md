@@ -4,6 +4,7 @@ tags:
 
   - frosting
   - ingredient
+hero: assets/images/sour-cream-topping.jpg
 ---
 
 # :rice: Sour Cream Topping

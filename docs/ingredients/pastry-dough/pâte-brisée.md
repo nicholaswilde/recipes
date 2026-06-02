@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - claire-saffitz
+hero: assets/images/pâte-brisée.jpg
 ---
 
 # :pie: Pâte Brisée

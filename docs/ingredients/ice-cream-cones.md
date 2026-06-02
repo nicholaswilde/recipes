@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/ice-cream-cones.jpg
 ---
 
 # :icecream: Ice Cream Cones

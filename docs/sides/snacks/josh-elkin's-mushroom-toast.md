@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/josh-elkin's-mushroom-toast.jpg
 ---
 
 # Josh Elkin's Mushroom Toast

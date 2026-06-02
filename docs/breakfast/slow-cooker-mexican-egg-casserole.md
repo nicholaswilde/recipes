@@ -5,6 +5,7 @@ tags:
   - mexican
   - breakfast
   - slow-cooker
+hero: assets/images/slow-cooker-mexican-egg-casserole.jpg
 ---
 
 # :egg: Slow Cooker Mexican Egg Casserole

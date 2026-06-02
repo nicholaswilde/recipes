@@ -5,6 +5,7 @@ tags:
   - bread
   - claire-saffitz
   - favorite
+hero: assets/images/pull-apart-sour-cream-and-chive-rolls.jpg
 ---
 
 # :bread: Pull-Apart Sour Cream and Chive Rolls

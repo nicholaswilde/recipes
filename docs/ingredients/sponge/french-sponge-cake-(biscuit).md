@@ -5,6 +5,7 @@ tags:
   - ingredient
   - joy-of-cooking
   - french
+hero: assets/images/french-sponge-cake-(biscuit).jpg
 ---
 
 # :cake: French Sponge Cake (Biscuit)

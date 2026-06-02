@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
+hero: assets/images/mediterranean-pasta-salad.jpg
 ---
 
 # :green_salad: Mediterranean Pasta Salad

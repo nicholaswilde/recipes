@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/toffee-bits.jpg
 ---
 
 # Toffee Bits

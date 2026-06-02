@@ -4,6 +4,7 @@ tags:
 
   - extract
   - ingredient
+hero: assets/images/mint-extract.jpg
 ---
 
 # :shamrock: Mint Extract

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/pumpkin-curry-sauce.png
 ---
 
 # :jack_o_lantern: Pumpkin Curry Sauce

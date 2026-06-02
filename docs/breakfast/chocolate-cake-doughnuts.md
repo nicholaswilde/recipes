@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/chocolate-cake-doughnuts.jpg
 ---
 
 # :doughnut: Chocolate Cake Doughnuts

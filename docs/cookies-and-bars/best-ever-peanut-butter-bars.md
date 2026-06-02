@@ -5,6 +5,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/best-ever-peanut-butter-bars.jpg
 ---
 
 # Best Ever Peanut Butter Bars

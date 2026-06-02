@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
+hero: assets/images/black-beans.jpg
 ---
 
 # :canned_food: Black Beans

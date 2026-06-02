@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/cauliflower-purée-with-thyme.jpg
 ---
 
 # :broccoli: Cauliflower Purée with Thyme

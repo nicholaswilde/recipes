@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
+hero: assets/images/jackfruit-mixiote.jpg
 ---
 
 # :melon: Jackfruit Mixiote

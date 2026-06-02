@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - pancake-princess
+hero: assets/images/peanut-butter-cookies.jpg
 ---
 
 # :peanuts: Peanut Butter Cookies

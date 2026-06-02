@@ -4,6 +4,7 @@ tags:
 
   - pastry-dough
   - ingredient
+hero: assets/images/hot-water-crust.jpg
 ---
 
 # :pie: Hot Water Crust

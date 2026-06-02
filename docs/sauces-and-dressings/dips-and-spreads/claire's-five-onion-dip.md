@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dip
+hero: assets/images/claire's-five-onion-dip.jpg
 ---
 
 # :onion: Claire's Five-Onion Dip

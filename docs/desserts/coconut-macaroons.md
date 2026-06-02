@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/coconut-macaroons.png
 ---
 
 # :coconut: Coconut Macaroons

@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - dressing
+hero: assets/images/broccoli-salad-dressing.jpg
 ---
 
 # Broccoli Salad Dressing

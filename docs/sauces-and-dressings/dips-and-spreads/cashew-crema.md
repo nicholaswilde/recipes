@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/cashew-crema.jpg
 ---
 
 # :rice: Cashew Crema

@@ -5,6 +5,7 @@ tags:
   - meringue
   - ingredient
   - joy-of-cooking
+hero: assets/images/french-meringue.jpg
 ---
 
 # :egg: French Meringue

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/vegetable-casserole.jpg
 ---
 # Vegetable Casserole
 

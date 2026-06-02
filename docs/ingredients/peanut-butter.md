@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
+hero: assets/images/peanut-butter.jpg
 ---
 
 # :peanuts: Peanut Butter

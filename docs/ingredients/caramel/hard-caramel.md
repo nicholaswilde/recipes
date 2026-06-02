@@ -4,6 +4,7 @@ tags:
 
   - caramel
   - ingredient
+hero: assets/images/hard-caramel.jpg
 ---
 
 # :candy: Hard Caramel

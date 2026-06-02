@@ -4,6 +4,7 @@ tags:
   - dessert
   - cheesecake
   - maynards-bakery
+hero: assets/images/two-layer-cheesecake.jpg
 ---
 # Two-Layer Cheesecake
 

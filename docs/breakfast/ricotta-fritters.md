@@ -6,6 +6,7 @@ tags:
   - italian
   - vegetarian
   - recipe-box
+hero: assets/images/ricotta-fritters.jpg
 ---
 
 # :cheese_wedge: Ricotta Fritters

@@ -6,6 +6,7 @@ tags:
   - dessert
   - trader-joes
   - recipe-box
+hero: assets/images/pineapple-upside-down-cake.png
 ---
 
 # :pineapple: Pineapple Upside Down Cake

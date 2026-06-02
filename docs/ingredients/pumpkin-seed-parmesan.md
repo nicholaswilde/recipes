@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
+hero: assets/images/pumpkin-seed-parmesan.jpg
 ---
 
 # :cheese_wedge: Pumpkin Seed Parmesan

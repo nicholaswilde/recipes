@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/cashew-chipotle-ranch-dressing.jpg
 ---
 
 # :green_salad: Cashew Chipotle Ranch Dressing

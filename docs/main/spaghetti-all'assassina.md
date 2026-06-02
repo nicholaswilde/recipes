@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - cooks-illustrated
+hero: assets/images/spaghetti-all'assassina.jpg
 ---
 
 # :spaghetti: Spaghetti All'Assassina

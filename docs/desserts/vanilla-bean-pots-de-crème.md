@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/vanilla-bean-pots-de-crème.jpg
 ---
 # Vanilla Bean Pots de Crème
 

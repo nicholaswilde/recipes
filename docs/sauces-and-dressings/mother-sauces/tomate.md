@@ -5,6 +5,7 @@ tags:
   - mother-sauce
   - french
   - joy-of-cooking
+hero: assets/images/tomate.jpg
 ---
 
 # :tomato: Tomate

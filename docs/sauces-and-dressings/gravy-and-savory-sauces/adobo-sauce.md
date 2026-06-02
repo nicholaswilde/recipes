@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/adobo-sauce.jpg
 ---
 
 # :tomato: Adobo Sauce

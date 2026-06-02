@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/apple-pie-overnight-oats.jpg
 ---
 
 # :green_apple: Apple Pie Overnight Oats

@@ -4,6 +4,7 @@ tags:
   - bread
   - sourdough
   - blueberry
+hero: assets/images/easy-sourdough-blueberry-bread.jpg
 ---
 # :bread: Easy Sourdough Blueberry Bread
 

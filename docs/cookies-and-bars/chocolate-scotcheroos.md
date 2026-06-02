@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - recipe-box
+hero: assets/images/chocolate-scotcheroos.jpg
 ---
 
 # :cookie: Chocolate Scotcheroos

@@ -5,6 +5,7 @@ tags:
   - dessert
   - fudge
   - holiday
+hero: assets/images/creamy-double-decker-fudge.jpg
 ---
 
 # :chocolate_bar: Creamy Double Decker Fudge

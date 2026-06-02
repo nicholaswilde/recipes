@@ -6,6 +6,7 @@ tags:
   - waffle
   - bake-off
   - pancake-princess
+hero: assets/images/overnight-brown-butter-yeast-raised-waffles.png
 ---
 
 # :waffle: Overnight Brown-Butter Yeast-Raised Waffles

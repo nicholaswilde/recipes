@@ -4,6 +4,7 @@ tags:
 
   - side
   - jamie-oliver
+hero: assets/images/tomato-salad.jpg
 ---
 
 # :tomato: Tomato Salad

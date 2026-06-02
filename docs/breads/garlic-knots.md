@@ -4,6 +4,7 @@ tags:
 
   - bread
   - side
+hero: assets/images/garlic-knots.jpg
 ---
 
 # :bread: Garlic Knots

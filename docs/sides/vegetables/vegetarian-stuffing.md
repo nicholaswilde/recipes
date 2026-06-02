@@ -5,6 +5,7 @@ tags:
   - side
   - stuffing
   - thanksgiving
+hero: assets/images/vegetarian-stuffing.jpg
 ---
 
 # :stuffed_flatbread: Vegetarian Stuffing

@@ -5,6 +5,7 @@ tags:
   - magnolia
   - soup
   - recipe-box
+hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg
 ---
 
 # :stew: Spinach Tortellini Soup by Joanna Gaines

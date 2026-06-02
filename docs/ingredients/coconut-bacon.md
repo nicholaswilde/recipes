@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/coconut-bacon.jpg
 ---
 
 # :bacon: Coconut Bacon

@@ -5,6 +5,7 @@ tags:
   - bread
   - quick-bread
   - recipe-box
+hero: assets/images/cranberry-orange-bread.jpg
 ---
 
 # :bread: Cranberry Orange Bread

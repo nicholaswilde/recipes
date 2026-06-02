@@ -4,6 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
+hero: assets/images/strawberry-tarragon-dressing.jpg
 ---
 
 # :strawberry: Strawberry Tarragon Dressing

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/julia-child's-garlic-mashed-potatoes.jpg
 ---
 
 # :potato: Julia Child's Garlic Mashed Potatoes

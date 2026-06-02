@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - king-arthur
+hero: assets/images/meringues.jpg
 ---
 
 # :egg: Meringues

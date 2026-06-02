@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/classic-pizzelle.jpg
 ---
 
 # :cookie: Classic Pizzelle

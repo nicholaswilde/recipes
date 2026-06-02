@@ -4,6 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
+hero: assets/images/creamy-cilantro-dressing.jpg
 ---
 
 # :herb: Creamy Cilantro Dressing

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - lunch
+hero: assets/images/egg-salad-sandwich.jpg
 ---
 
 # :sandwich: Egg Salad Sandwich

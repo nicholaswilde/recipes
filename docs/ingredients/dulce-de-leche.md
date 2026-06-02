@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/dulce-de-leche.jpg
 ---
 
 # :glass_of_milk: Dulce de Leche

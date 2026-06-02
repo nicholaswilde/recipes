@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - gravy
+hero: assets/images/mushroom-gravy.jpg
 ---
 
 # :mushroom: Mushroom Gravy

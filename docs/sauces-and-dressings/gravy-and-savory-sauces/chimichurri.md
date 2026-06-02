@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/chimichurri.jpg
 ---
 
 # :herb: Chimichurri

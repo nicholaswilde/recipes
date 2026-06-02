@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
+hero: assets/images/yogurt-cake-version-1.jpg
 ---
 
 # :cake: Yogurt Cake Version 1

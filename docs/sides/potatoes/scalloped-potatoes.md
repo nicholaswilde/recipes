@@ -7,6 +7,7 @@ tags:
   - cream
   - french
   - julia child
+hero: assets/images/scalloped-potatoes.jpg
 ---
 
 # Scalloped Potatoes

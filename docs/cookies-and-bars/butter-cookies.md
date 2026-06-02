@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/butter-cookies.jpg
 ---
 
 # :cookie: Butter Cookies

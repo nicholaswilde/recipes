@@ -5,6 +5,7 @@ tags:
   - condiment
   - sauce
   - spread
+hero: assets/images/tahini.jpg
 ---
 
 # :seedling: Tahini

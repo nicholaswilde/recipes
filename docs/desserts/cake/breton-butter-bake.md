@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
+hero: assets/images/breton-butter-bake.jpg
 ---
 
 # :butter: Breton Butter Bake

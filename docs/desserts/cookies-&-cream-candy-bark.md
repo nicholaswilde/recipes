@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/cookies-&-cream-candy-bark.jpg
 ---
 # Cookies & Cream Candy Bark
 

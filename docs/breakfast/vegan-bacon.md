@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - vegan
+hero: assets/images/vegan-bacon.jpg
 ---
 
 # :bacon: Vegan Bacon

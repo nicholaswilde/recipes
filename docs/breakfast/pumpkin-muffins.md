@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - muffins
+hero: assets/images/pumpkin-muffins.jpg
 ---
 
 # :cupcake: Pumpkin Muffins

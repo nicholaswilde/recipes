@@ -5,6 +5,7 @@ tags:
   - glaze
   - ingredient
   - dominique-ansel
+hero: assets/images/dark-chocolate-mirror-glaze.jpg
 ---
 
 # :chocolate_bar: Dark Chocolate Mirror Glaze

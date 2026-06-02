@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/lemon-poppy-seed-pound-cake.jpg
 ---
 # Lemon Poppy Seed Pound Cake
 

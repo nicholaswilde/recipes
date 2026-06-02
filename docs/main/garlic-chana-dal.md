@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/garlic-chana-dal.jpg
 ---
 # Garlic Chana Dal
 

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/chili-paste.jpg
 ---
 
 # :hot_pepper: Chili Paste

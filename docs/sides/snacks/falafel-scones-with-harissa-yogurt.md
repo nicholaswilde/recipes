@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - trader-joes
+hero: assets/images/falafel-scones-with-harissa-yogurt.png
 ---
 
 # Falafel Scones with Harissa Yogurt

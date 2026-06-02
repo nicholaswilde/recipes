@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/tortilla-de-patatas.png
 ---
 # Tortilla de Patatas
 

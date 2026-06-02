@@ -5,6 +5,7 @@ tags:
   - savory-sauce
   - asian
   - the-daring-gourmet
+hero: assets/images/teriyaki-sauce.jpg
 ---
 
 # :takeout_box: Teriyaki Sauce

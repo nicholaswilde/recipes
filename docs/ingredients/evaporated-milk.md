@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - bigger-bolder-baking
+hero: assets/images/evaporated-milk.png
 ---
 
 # :glass_of_milk: Evaporated Milk

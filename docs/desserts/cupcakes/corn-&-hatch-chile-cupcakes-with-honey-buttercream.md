@@ -5,6 +5,7 @@ tags:
   - dessert
   - cupcake
   - trader-joes
+hero: assets/images/corn-&-hatch-chile-cupcakes-with-honey-buttercream.png
 ---
 
 # :cupcake: Corn & Hatch Chile Cupcakes with Honey Buttercream

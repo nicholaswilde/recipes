@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - coulis
+hero: assets/images/mixed-berry-coulis.jpg
 ---
 
 # :strawberry: Mixed Berry Coulis

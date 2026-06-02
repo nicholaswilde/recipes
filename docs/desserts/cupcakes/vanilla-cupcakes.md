@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cupcake
+hero: assets/images/vanilla-cupcakes.jpg
 ---
 
 # :cupcake: Vanilla Cupcakes

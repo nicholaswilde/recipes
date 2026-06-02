@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - main
+hero: assets/images/potato-broccoli-casserole.jpg
 ---
 
 # :potato: Potato Broccoli Casserole

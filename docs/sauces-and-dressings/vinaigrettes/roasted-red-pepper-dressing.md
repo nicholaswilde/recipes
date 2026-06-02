@@ -4,6 +4,7 @@ tags:
 
   - oil-free
   - dressing
+hero: assets/images/roasted-red-pepper-dressing.jpg
 ---
 
 # :bell_pepper: Roasted Red Pepper Dressing

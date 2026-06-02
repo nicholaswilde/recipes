@@ -6,6 +6,7 @@ tags:
   - claire-saffitz
   - dessert
   - favorite
+hero: assets/images/brown-butter-and-sage-sables.jpg
 ---
 
 # :cookie: Brown Butter & Sage Sables

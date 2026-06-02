@@ -6,6 +6,7 @@ tags:
   - cake
   - vegan
   - carrot-cake
+hero: assets/images/cafe-indigo-vegan-carrot-cake.jpg
 ---
 
 # :cake: Cafe Indigo Vegan Carrot Cake

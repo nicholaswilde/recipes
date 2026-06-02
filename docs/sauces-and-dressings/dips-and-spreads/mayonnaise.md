@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - cooks-illustrated
+hero: assets/images/mayonnaise.jpg
 ---
 
 # :egg: Mayonnaise

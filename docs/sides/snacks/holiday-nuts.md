@@ -2,6 +2,7 @@
 comments: true
 tags:
   - holiday
+hero: assets/images/holiday-nuts.jpg
 ---
 
 # :chestnut: Holiday Nuts

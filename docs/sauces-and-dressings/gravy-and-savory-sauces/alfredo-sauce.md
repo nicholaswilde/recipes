@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - italian
+hero: assets/images/alfredo-sauce.jpg
 ---
 
 # :spaghetti: Alfredo Sauce

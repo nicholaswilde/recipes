@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - king-arthur
+hero: assets/images/bagels.jpg
 ---
 
 # :bagel: Bagels

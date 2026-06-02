@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - main
+hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.jpg
 ---
 
 # :stuffed_flatbread: Tostadas with Refried Black Beans & Pickled Cabbage & Onion

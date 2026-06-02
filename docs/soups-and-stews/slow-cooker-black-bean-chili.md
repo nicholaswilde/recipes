@@ -6,6 +6,7 @@ tags:
   - slow-cooker
   - recipe-box
   - favorite
+hero: assets/images/slow-cooker-black-bean-chili.jpg
 ---
 
 # :stew: Slow Cooker Black Bean Chili

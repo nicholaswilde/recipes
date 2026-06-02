@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
+hero: assets/images/rhubarb-cake.jpg
 ---
 
 # :chopsticks: Rhubarb Cake

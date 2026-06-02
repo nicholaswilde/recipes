@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - jean-pierre
+hero: assets/images/mushroom-sauce.jpg
 ---
 
 # :mushroom: Mushroom Sauce

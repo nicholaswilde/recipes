@@ -5,6 +5,7 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
+hero: assets/images/mushroom-risotto.jpg
 ---
 
 # :mushroom: Mushroom Risotto

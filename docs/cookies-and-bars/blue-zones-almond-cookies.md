@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - cookie
+hero: assets/images/blue-zones-almond-cookies.jpg
 ---
 
 # :chestnut: Blue Zones Almond Cookies

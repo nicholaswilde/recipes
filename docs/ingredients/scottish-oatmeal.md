@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - scottish
+hero: assets/images/scottish-oatmeal.jpg
 ---
 
 # :ear_of_rice: Scottish Oatmeal

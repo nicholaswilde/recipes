@@ -5,6 +5,7 @@ tags:
   - mexican
   - tacos
   - recipe-box
+hero: assets/images/potato-tacos.jpg
 ---
 
 # :taco: Potato Tacos

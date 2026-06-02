@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - spread
+hero: assets/images/blue-cheese-herb-spread.jpg
 ---
 
 # :herb: Blue Cheese Herb Spread

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/roasted-delicata-squash.jpg
 ---
 
 # :cucumber: Roasted Delicata Squash

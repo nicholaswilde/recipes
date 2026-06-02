@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/soft-white-chocolate-chip-cranberry-cookies.jpg
 ---
 
 # :cookie: Soft White Chocolate Chip Cranberry Cookies

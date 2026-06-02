@@ -4,6 +4,7 @@ tags:
 
   - pie
   - dessert
+hero: assets/images/buttermilk-pie.jpg
 ---
 
 # :pie: Buttermilk Pie

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - breakfast
+hero: assets/images/blueberry-syrup-for-pancakes.jpg
 ---
 
 # :pancakes: Blueberry Syrup for Pancakes

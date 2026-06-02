@@ -4,6 +4,7 @@ tags:
 
   - side
   - minimalist-baker
+hero: assets/images/miso-glazed-carrots.jpg
 ---
 
 # :carrot: Miso-Glazed Carrots

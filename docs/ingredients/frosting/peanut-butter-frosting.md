@@ -5,6 +5,7 @@ tags:
   - ingredient
   - frosting
   - joy-of-cooking
+hero: assets/images/peanut-butter-frosting.jpg
 ---
 
 # :peanuts: Peanut Butter Frosting

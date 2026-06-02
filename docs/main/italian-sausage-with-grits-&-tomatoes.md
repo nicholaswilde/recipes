@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/italian-sausage-with-grits-&-tomatoes.jpg
 ---
 # Italian Sausage with Grits & Tomatoes
 

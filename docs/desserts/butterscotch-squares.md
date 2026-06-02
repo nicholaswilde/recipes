@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/butterscotch-squares.jpg
 ---
 # :candy: Butterscotch Squares
 

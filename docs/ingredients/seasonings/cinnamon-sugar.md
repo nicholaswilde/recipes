@@ -4,6 +4,7 @@ tags:
 
   - seasoning
   - ingredient
+hero: assets/images/cinnamon-sugar.jpg
 ---
 
 # :candy: Cinnamon Sugar

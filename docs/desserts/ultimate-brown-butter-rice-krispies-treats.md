@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/ultimate-brown-butter-rice-krispies-treats.jpg
 ---
 
 # :bowl_with_spoon: Ultimate Brown Butter Rice Krispies Treats

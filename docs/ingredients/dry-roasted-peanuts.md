@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/dry-roasted-peanuts.jpg
 ---
 
 # :peanuts: Dry Roasted Peanuts

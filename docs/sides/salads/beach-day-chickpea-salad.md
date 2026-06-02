@@ -5,6 +5,7 @@ tags:
   - salad
   - lunch
   - vegan
+hero: assets/images/beach-day-chickpea-salad.jpg
 ---
 
 # :falafel: Beach Day Chickpea Salad

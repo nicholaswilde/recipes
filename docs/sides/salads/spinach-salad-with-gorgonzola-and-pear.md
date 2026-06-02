@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/spinach-salad-with-gorgonzola-and-pear.jpg
 ---
 # Spinach Salad with Gorgonzola and Pear
 

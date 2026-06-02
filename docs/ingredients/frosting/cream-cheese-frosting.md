@@ -5,6 +5,7 @@ tags:
   - ingredient
   - joy-of-cooking
   - frosting
+hero: assets/images/cream-cheese-frosting.png
 ---
 
 # :birthday: Cream Cheese Frosting

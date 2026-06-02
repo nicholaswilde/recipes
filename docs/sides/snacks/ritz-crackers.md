@@ -4,6 +4,7 @@ tags:
 
   - cracker
   - snack
+hero: assets/images/ritz-crackers.jpg
 ---
 
 # :cookie: Ritz Crackers

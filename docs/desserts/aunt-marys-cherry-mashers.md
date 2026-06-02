@@ -3,6 +3,7 @@ comments: true
 tags:
   - holiday
   - magnolia
+hero: assets/images/aunt-marys-cherry-mashers.jpg
 ---
 
 # :cherries: Aunt Mary's Cherry Mashers

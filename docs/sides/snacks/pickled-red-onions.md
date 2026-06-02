@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/pickled-red-onions.jpg
 ---
 
 # Pickled Red Onions

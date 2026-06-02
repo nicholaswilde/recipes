@@ -5,6 +5,7 @@ tags:
   - hot-chocolate
   - jacques-torres
   - forbes
+hero: assets/images/thick-hot-chocolate.jpg
 ---
 # :coffee: Thick Hot Chocolate
 

@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/laugenbrezeln-(german-lye-pretzels).jpg
 ---
 
 # :pretzel: Laugenbrezeln (German Lye Pretzels)

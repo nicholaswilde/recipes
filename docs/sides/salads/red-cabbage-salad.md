@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/red-cabbage-salad.png
 ---
 
 # :green_salad: Red Cabbage Salad

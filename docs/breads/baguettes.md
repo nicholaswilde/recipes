@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/baguettes.jpg
 ---
 
 # :baguette_bread: Baguettes

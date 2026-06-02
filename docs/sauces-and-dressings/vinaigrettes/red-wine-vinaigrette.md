@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - applied-kitchen
+hero: assets/images/red-wine-vinaigrette.jpg
 ---
 
 # :sake: Red Wine Vinaigrette

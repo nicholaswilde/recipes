@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
+hero: assets/images/escabeche.jpg
 ---
 
 # :carrot: Escabeche

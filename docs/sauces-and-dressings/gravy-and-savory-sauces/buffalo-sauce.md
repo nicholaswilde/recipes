@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/buffalo-sauce.jpg
 ---
 
 # :water_buffalo: Buffalo Sauce

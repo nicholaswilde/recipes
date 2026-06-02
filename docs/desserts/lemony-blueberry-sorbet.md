@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - sorbet
+hero: assets/images/lemony-blueberry-sorbet.jpg
 ---
 
 # :lemon: Lemony Blueberry Sorbet

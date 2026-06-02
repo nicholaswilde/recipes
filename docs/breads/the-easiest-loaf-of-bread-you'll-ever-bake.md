@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/the-easiest-loaf-of-bread-you'll-ever-bake.jpg
 ---
 
 # :bread: The Easiest Loaf of Bread You'll Ever Bake

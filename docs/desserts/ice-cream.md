@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/ice-cream.jpg
 ---
 
 # :ice_cream: Ice Cream

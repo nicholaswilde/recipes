@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - pie
+hero: assets/images/his-favorite-butterscotch-pie.jpg
 ---
 
 # :pie: His Favorite Butterscotch Pie

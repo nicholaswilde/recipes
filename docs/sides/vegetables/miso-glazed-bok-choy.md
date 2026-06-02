@@ -4,6 +4,7 @@ tags:
 
   - side
   - minimalist-baker
+hero: assets/images/miso-glazed-bok-choy.jpg
 ---
 
 # :leafy_green: Miso-Glazed Bok Choy

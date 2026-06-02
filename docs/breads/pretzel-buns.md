@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - king-arthur
+hero: assets/images/pretzel-buns.jpg
 ---
 # Pretzel Buns
 

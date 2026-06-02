@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/lemon-garlic-cauliflower-rice.png
 ---
 # Lemon Garlic Cauliflower Rice
 

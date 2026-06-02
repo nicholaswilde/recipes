@@ -9,6 +9,7 @@ tags:
   - sugar spun run
   - the pancake princess
   - bake-off
+hero: assets/images/thumbprint-cookies.jpg
 ---
 # :cookie: Thumbprint Cookies
 

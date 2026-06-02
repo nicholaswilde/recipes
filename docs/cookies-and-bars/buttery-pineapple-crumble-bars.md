@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/buttery-pineapple-crumble-bars.jpg
 ---
 
 # :pineapple: Buttery Pineapple Crumble Bars

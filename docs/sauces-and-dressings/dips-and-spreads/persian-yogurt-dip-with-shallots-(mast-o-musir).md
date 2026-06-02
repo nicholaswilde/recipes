@@ -4,6 +4,7 @@ tags:
 
   - dip
   - persian
+hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg
 ---
 
 # :onion: Persian Yogurt Dip with Shallots (Mast-O Musir)

@@ -5,6 +5,7 @@ tags:
   - dessert
   - tart
   - dominique-ansel
+hero: assets/images/strawberry-tart.jpg
 ---
 
 # :strawberry: Strawberry Tart

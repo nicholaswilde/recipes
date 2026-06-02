@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/pumpkin-seed-salsa.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Seed Salsa

@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - mexican
+hero: assets/images/aaron-combs'-salsa.jpg
 ---
 
 # :tomato: Aaron Combs' Salsa

@@ -4,6 +4,7 @@ tags:
 
   - italian
   - sauce
+hero: assets/images/garlic-aioli.jpg
 ---
 
 # :garlic: Garlic Aioli

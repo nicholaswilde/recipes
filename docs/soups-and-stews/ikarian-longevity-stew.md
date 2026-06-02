@@ -4,6 +4,7 @@ tags:
 
   - recipe-box
   - the-blue-zones-kitchen
+hero: assets/images/ikarian-longevity-stew.jpg
 ---
 
 # :stew: Ikarian Longevity Stew

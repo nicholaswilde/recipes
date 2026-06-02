@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/joel-robuchons-mashed-potatoes.jpg
 ---
 
 # :potato: Joel Robuchon's Mashed Potatoes

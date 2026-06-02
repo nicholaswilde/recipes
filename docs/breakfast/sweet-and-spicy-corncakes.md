@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - mexican
+hero: assets/images/sweet-and-spicy-corncakes.jpg
 ---
 
 # :pancakes: Sweet & Spicy Corncakes

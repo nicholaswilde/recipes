@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/butter-basted-grilled-mushrooms.jpg
 ---
 
 # :mushroom: Butter-Basted Grilled Mushrooms

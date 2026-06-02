@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/pizza-dough-seasoning.jpg
 ---
 
 # :pizza: Pizza Dough Seasoning

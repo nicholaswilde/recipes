@@ -6,6 +6,7 @@ tags:
   - cake
   - chez-panisse
   - favorite
+hero: assets/images/chez-panisse-almond-torte.jpg
 ---
 
 # :chestnut: Chez Panisse Almond Torte

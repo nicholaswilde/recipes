@@ -5,6 +5,7 @@ tags:
   - ingredient
   - joy-of-cooking
   - whipped-cream
+hero: assets/images/sweetened-whipped-cream.jpg
 ---
 
 # :icecream: Sweetened Whipped Cream

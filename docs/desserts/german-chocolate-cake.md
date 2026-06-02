@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/german-chocolate-cake.jpg
 ---
 # German Chocolate Cake
 

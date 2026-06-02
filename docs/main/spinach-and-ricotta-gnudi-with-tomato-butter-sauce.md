@@ -4,6 +4,7 @@ tags:
 
   - dumpling
   - italian
+hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg
 ---
 
 # :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce

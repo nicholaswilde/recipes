@@ -4,6 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
+hero: assets/images/cilantro-almond-pesto-brussels-sprouts.jpg
 ---
 
 # :leafy_green: Cilantro Almond Pesto Brussels Sprouts

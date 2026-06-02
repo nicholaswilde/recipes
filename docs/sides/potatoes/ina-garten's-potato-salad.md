@@ -5,6 +5,7 @@ tags:
   - ina-garten
   - salad
   - side
+hero: assets/images/ina-garten's-potato-salad.jpg
 ---
 
 # :potato: Ina Garten's Potato Salad

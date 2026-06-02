@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - preppy-kitchen
+hero: assets/images/hot-milk-cake.jpg
 ---
 
 # :cake: Hot Milk Cake

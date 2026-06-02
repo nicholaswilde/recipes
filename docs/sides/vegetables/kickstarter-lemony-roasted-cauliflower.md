@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/kickstarter-lemony-roasted-cauliflower.jpg
 ---
 
 # Kickstarter Lemony Roasted Cauliflower

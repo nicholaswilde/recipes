@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - broma-bakery
+hero: assets/images/chocolate-chip-skillet-cookie.png
 ---
 
 # :cookie: Chocolate Chip Skillet Cookie

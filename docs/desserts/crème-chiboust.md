@@ -5,6 +5,7 @@ tags:
   - filling
   - ingredient
   - custard
+hero: assets/images/crème-chiboust.jpg
 ---
 
 # :custard: Crème Chiboust

@@ -4,6 +4,7 @@ tags:
 
   - recipe-box
   - chowder
+hero: assets/images/chipotle-corn-chowder.jpg
 ---
 
 # :corn: Chipotle Corn Chowder

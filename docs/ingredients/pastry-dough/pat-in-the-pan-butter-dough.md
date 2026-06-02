@@ -5,6 +5,7 @@ tags:
   - ingredient
   - joy-of-cooking
   - pastry-dough
+hero: assets/images/pat-in-the-pan-butter-dough.jpg
 ---
 
 # :pie: Pat-in-the-Pan Butter Dough

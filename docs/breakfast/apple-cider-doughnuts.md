@@ -6,6 +6,7 @@ tags:
   - claire-saffitz
   - bake-off
   - doughnuts
+hero: assets/images/apple-cider-doughnuts.jpg
 ---
 
 # :doughnut: Apple Cider Doughnuts

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/umami-seasoning.jpg
 ---
 
 # :mushroom: Umami Seasoning

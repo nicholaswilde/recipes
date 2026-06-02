@@ -5,6 +5,7 @@ tags:
   - frosting
   - ingredient
   - the-cake-mix-doctor
+hero: assets/images/white-chocolate-frosting.jpg
 ---
 
 # :cake: White Chocolate Frosting

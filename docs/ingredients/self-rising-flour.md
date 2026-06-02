@@ -6,6 +6,7 @@ tags:
   - staples
   - homemade
   - flour
+hero: assets/images/self-rising-flour.jpg
 ---
 # Self-Rising Flour
 

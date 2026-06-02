@@ -4,6 +4,7 @@ tags:
 
   - side
   - nora-cooks
+hero: assets/images/buffalo-cauliflower-wings.jpg
 ---
 
 # :broccoli: Buffalo Cauliflower Wings

@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - gordon-ramsay
+hero: assets/images/hash-browns.jpg
 ---
 
 # :potato: Hash Browns

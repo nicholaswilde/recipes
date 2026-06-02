@@ -5,6 +5,7 @@ tags:
   - ingredient
   - cheese
   - vegan
+hero: assets/images/vegan-parmesan.jpg
 ---
 
 # :cheese_wedge: Vegan Parmesan

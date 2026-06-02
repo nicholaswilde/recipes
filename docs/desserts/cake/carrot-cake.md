@@ -5,6 +5,7 @@ tags:
   - cake
   - dessert
   - tante-myrna-seccia
+hero: assets/images/carrot-cake.jpg
 ---
 
 # :cake: Carrot Cake

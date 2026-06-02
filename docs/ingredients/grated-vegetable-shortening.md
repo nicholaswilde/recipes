@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/grated-vegetable-shortening.png
 ---
 
 # :carrot: Grated Vegetable Shortening

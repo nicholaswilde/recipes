@@ -4,6 +4,7 @@ tags:
 
   - side
   - cooks-illustrated
+hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg
 ---
 
 # :mushroom: Grilled Mushrooms with Rosemary-Lemon Basting Butter

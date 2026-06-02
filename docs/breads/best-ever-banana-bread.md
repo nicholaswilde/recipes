@@ -4,6 +4,7 @@ tags:
 
   - bread
   - recipe-box
+hero: assets/images/best-ever-banana-bread.jpg
 ---
 
 # :banana: Best-Ever Banana Bread

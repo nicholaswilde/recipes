@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/flour-tortillas.jpg
 ---
 
 # :flatbread: Flour Tortillas

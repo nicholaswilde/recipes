@@ -5,6 +5,7 @@ tags:
   - sauce
   - whats-for-dessert
   - claire-saffitz
+hero: assets/images/salted-caramel-sauce.jpg
 ---
 
 # :custard: Salted Caramel Sauce

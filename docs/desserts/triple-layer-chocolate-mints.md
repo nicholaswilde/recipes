@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
+hero: assets/images/triple-layer-chocolate-mints.jpg
 ---
 
 # :chocolate_bar: Triple Layer Chocolate Mints

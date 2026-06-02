@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - claire-saffitz
+hero: assets/images/pecan-brittle.jpg
 ---
 
 # :chestnut: Pecan Brittle

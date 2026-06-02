@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - pastry-dough
+hero: assets/images/danish-pastry.png
 ---
 
 # :pie: Danish Pastry

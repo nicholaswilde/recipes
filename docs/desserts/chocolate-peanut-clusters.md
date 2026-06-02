@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
+hero: assets/images/chocolate-peanut-clusters.jpg
 ---
 
 # :chocolate_bar: Chocolate-Peanut Clusters

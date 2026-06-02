@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/funfetti-cake.jpg
 ---
 
 # :cake: Funfetti Cake

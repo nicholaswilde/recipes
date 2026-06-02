@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/butterscotch-brownies.png
 ---
 
 # :butter: Butterscotch Brownies

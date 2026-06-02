@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
+hero: assets/images/mushroom-pastor.jpg
 ---
 
 # :mushroom: Mushroom Pastor

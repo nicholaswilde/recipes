@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/vanilla-bean-ice-cream.jpg
 ---
 
 # :ice_cream: Vanilla Bean Ice Cream

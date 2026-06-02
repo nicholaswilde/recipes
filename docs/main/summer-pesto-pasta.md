@@ -5,6 +5,7 @@ tags:
   - pasta
   - italian
   - recipe-box
+hero: assets/images/summer-pesto-pasta.jpg
 ---
 
 # :spaghetti: Summer Pesto Pasta

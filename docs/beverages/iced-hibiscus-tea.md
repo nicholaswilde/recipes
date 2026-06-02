@@ -5,6 +5,7 @@ tags:
   - beverage
   - tea
   - joy-of-cooking
+hero: assets/images/iced-hibiscus-tea.jpg
 ---
 
 # :hibiscus: Iced Hibiscus Tea

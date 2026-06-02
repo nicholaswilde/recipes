@@ -5,6 +5,7 @@ tags:
   - breakfast
   - italian
   - joy-of-cooking
+hero: assets/images/frittata.jpg
 ---
 
 # :egg: Frittata

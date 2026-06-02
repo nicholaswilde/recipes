@@ -5,6 +5,7 @@ tags:
   - bread
   - the-bread-code
   - sourdough
+hero: assets/images/the-bread-code-sourdough.jpg
 ---
 
 # :bread: The Bread Code Sourdough

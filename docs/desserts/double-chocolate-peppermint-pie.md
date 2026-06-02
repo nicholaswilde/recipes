@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/double-chocolate-peppermint-pie.jpg
 ---
 # Double Chocolate Peppermint Pie
 

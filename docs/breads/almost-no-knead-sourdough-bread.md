@@ -5,6 +5,7 @@ tags:
   - bread
   - cooks-illustrated
   - sourdough
+hero: assets/images/almost-no-knead-sourdough-bread.jpg
 ---
 
 # :bread: Almost No-Knead Sourdough Bread

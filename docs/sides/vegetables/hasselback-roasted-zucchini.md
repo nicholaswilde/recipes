@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/hasselback-roasted-zucchini.jpg
 ---
 
 # Hasselback Roasted Zucchini

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - bake-off
+hero: assets/images/vegan-vanilla-cake.jpg
 ---
 
 # :cake: Vegan Vanilla Cake

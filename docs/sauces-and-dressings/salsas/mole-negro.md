@@ -5,6 +5,7 @@ tags:
   - mexican
   - mole
   - vegan
+hero: assets/images/mole-negro.jpg
 ---
 # Mole Negro
 

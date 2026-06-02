@@ -5,6 +5,7 @@ tags:
   - cake
   - dominique-ansel
   - dessert
+hero: assets/images/the-perfect-chocolate-cake.jpg
 ---
 
 # :cake: The Perfect Chocolate Cake

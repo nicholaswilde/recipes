@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
+hero: assets/images/brown-rice.png
 ---
 
 # :rice: Brown Rice

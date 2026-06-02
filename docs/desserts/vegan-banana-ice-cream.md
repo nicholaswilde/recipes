@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - vegan
+hero: assets/images/vegan-banana-ice-cream.jpg
 ---
 
 # :banana: Vegan Banana Ice Cream

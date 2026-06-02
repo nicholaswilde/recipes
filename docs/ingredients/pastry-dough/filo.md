@@ -4,6 +4,7 @@ tags:
 
   - pastry-dough
   - ingredient
+hero: assets/images/filo.jpg
 ---
 
 # :pie: Filo

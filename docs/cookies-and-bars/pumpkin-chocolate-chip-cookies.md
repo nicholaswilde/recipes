@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/pumpkin-chocolate-chip-cookies.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Chocolate Chip Cookies

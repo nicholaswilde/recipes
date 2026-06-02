@@ -5,6 +5,7 @@ tags:
   - butter
   - ingredient
   - jean-pierre
+hero: assets/images/ghee.png
 ---
 
 # :butter: Ghee

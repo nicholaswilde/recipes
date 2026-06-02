@@ -4,6 +4,7 @@ tags:
 
   - italian
   - jean-pierre
+hero: assets/images/macaroni-&-cheese.jpg
 ---
 
 # :spaghetti: Macaroni & Cheese

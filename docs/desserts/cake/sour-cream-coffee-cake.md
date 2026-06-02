@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/sour-cream-coffee-cake.jpg
 ---
 
 # :cake: Sour Cream Coffee Cake

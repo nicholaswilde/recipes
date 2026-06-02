@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/breakfast-tofu-scramble.jpg
 ---
 
 # :custard: Breakfast Tofu Scramble

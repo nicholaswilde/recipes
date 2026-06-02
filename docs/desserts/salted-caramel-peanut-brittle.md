@@ -4,6 +4,7 @@ tags:
   - dessert
   - holiday
   - magnolia
+hero: assets/images/salted-caramel-peanut-brittle.jpg
 ---
 
 # :peanuts: Salted Caramel Peanut Brittle

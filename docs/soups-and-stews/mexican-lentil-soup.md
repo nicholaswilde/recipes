@@ -5,6 +5,7 @@ tags:
   - mexican
   - soup
   - recipe-box
+hero: assets/images/mexican-lentil-soup.jpg
 ---
 
 # :stew: Mexican Lentil Soup

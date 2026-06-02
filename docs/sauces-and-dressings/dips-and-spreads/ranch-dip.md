@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dip
+hero: assets/images/ranch-dip.jpg
 ---
 
 # Ranch Dip

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/vegan-baked-beans.jpg
 ---
 # Vegan Baked Beans
 

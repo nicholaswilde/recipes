@@ -5,6 +5,7 @@ tags:
   - dessert
   - fudge
   - holiday
+hero: assets/images/chocolate-chip-cookie-dough-fudge.jpg
 ---
 
 # :chocolate_bar: Chocolate Chip Cookie Dough Fudge

@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - minimalist-baker
+hero: assets/images/simple-berry-compote.jpg
 ---
 
 # :strawberry: Simple Berry Compote

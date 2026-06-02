@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/cherry-bars.jpg
 ---
 
 # :cherries: Cherry Bars

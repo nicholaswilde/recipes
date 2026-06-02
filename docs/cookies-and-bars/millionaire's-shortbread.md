@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/millionaire's-shortbread.png
 ---
 
 # :chocolate_bar: Millionaire's Shortbread

@@ -5,6 +5,7 @@ tags:
   - side
   - salad
   - ina-garten
+hero: assets/images/tomato-feta-pasta-salad.jpg
 ---
 
 # :green_salad: Tomato Feta Pasta Salad

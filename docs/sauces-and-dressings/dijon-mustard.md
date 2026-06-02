@@ -6,6 +6,7 @@ tags:
   - condiments
   - Dijon
   - homemade
+hero: assets/images/dijon-mustard.jpg
 ---
 # Dijon Mustard
 

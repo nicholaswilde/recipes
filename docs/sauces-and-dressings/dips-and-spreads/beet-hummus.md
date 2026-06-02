@@ -4,6 +4,7 @@ tags:
 
   - applied-kitchen
   - dip
+hero: assets/images/beet-hummus.png
 ---
 
 # :sweet_potato: Beet Hummus

@@ -5,6 +5,7 @@ tags:
   - dessert
   - martha-stewart
   - cheesecake
+hero: assets/images/martha-stewarts-new-york-style-cheesecake.jpg
 ---
 
 # :cake: Martha Stewart's New York-Style Cheesecake

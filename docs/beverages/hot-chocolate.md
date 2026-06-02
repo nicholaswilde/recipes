@@ -4,6 +4,7 @@ tags:
 
   - beverage
   - jean-pierre
+hero: assets/images/hot-chocolate.jpg
 ---
 
 # :coffee: Hot Chocolate

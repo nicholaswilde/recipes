@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/greek-style-lemon-roasted-potatoes.png
 ---
 
 # :potato: Greek Style Lemon Roasted Potatoes

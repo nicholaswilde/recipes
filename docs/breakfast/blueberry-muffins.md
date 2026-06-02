@@ -4,6 +4,7 @@ tags:
   - breakfast
   - muffin
   - bake-off
+hero: assets/images/blueberry-muffins.jpg
 ---
 
 # :cupcake: Blueberry Muffins

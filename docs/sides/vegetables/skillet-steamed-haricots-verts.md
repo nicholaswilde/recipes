@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/skillet-steamed-haricots-verts.jpg
 ---
 
 # Skillet-Steamed Haricots Verts

@@ -5,6 +5,7 @@ tags:
   - pasta
   - italian
   - vegetarian
+hero: assets/images/eggplant-parmesan-pasta.jpg
 ---
 
 # :spaghetti: Eggplant Parmesan Pasta

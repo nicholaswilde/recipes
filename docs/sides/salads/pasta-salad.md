@@ -4,6 +4,7 @@ tags:
 
   - side
   - tante-myrna-seccia
+hero: assets/images/pasta-salad.jpg
 ---
 
 # :green_salad: Pasta Salad

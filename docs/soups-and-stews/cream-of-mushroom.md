@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - soup
+hero: assets/images/cream-of-mushroom.jpg
 ---
 
 # :mushroom: Cream of Mushroom

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/simple-tartar-sauce.png
 ---
 
 # :fish: Tartar Sauce

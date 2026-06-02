@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/gilligan-monkey-bread.png
 ---
 
 # :monkey_face: Gilligan Monkey Bread

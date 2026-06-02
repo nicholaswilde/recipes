@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/penne-alla-vodka.jpg
 ---
 
 # :spaghetti: Penne Alla Vodka

@@ -4,6 +4,7 @@ tags:
 
   - side
   - mediterranean
+hero: assets/images/couscous.jpg
 ---
 
 # :shallow_pan_of_food: Couscous

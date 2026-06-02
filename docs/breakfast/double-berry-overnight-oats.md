@@ -4,6 +4,7 @@ tags:
 
   - overnight-oats
   - breakfast
+hero: assets/images/double-berry-overnight-oats.jpg
 ---
 
 # :ear_of_rice: Double-Berry Overnight Oats

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - joy-of-cooking
+hero: assets/images/bouquet-garni.png
 ---
 
 # :herb: Bouquet Garni

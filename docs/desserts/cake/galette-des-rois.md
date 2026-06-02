@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - holiday
+hero: assets/images/galette-des-rois.jpg
 ---
 
 # :cake: Galette des Rois

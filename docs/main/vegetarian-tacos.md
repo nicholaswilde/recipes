@@ -5,6 +5,7 @@ tags:
   - mexican
   - taco
   - applied-kitchen
+hero: assets/images/vegetarian-tacos.png
 ---
 
 # :taco: Vegetarian Tacos

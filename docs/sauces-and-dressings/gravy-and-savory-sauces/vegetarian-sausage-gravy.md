@@ -4,6 +4,7 @@ tags:
 
   - vegetarian
   - sauce
+hero: assets/images/vegetarian-sausage-gravy.jpg
 ---
 
 # :hotdog: Vegetarian Sausage Gravy

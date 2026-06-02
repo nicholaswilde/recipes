@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
+hero: assets/images/pumpkin-filling.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Filling

@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg
 ---
 
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola

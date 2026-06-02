@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/three-bean-salad.jpg
 ---
 
 # :green_salad: Three-Bean Salad

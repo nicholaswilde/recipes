@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/chocolate-pots-de-crème.jpg
 ---
 # Chocolate Pots de Crème
 

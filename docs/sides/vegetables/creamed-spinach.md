@@ -4,6 +4,7 @@ tags:
 
   - side
   - jean-pierre
+hero: assets/images/creamed-spinach.jpg
 ---
 
 # :leafy_green: Creamed Spinach

@@ -6,6 +6,7 @@ tags:
   - tart
   - dessert
   - applied-kitchen
+hero: assets/images/spring-fruit-tart-pie.png
 ---
 
 # :pie: Spring Fruit Tart Pie

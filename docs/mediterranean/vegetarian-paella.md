@@ -4,6 +4,7 @@ tags:
 
   - vegetarian
   - mediterranean
+hero: assets/images/vegetarian-paella.jpg
 ---
 
 # :stew: Vegetarian Paella

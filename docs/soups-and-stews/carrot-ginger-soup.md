@@ -8,6 +8,7 @@ tags:
   - vegetarian
   - carrot
   - ginger
+hero: assets/images/carrot-ginger-soup.jpg
 ---
 
 # Carrot Ginger Soup

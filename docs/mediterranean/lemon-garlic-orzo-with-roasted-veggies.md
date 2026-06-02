@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
+hero: assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg
 ---
 
 # :rice: Lemon Garlic Orzo with Roasted Veggies

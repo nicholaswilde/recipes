@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/roasted-red-peppers.jpg
 ---
 
 # :bell_pepper: Roasted Red Peppers

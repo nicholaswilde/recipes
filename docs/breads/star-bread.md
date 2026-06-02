@@ -5,6 +5,7 @@ tags:
   - bread
   - preppy-kitchen
   - holiday
+hero: assets/images/star-bread.jpg
 ---
 
 # :star: Star Bread

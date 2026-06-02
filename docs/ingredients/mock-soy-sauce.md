@@ -6,6 +6,7 @@ tags:
   - substitute
   - soy-free
   - gluten-free
+hero: assets/images/mock-soy-sauce.jpg
 ---
 # Mock Soy Sauce
 

@@ -5,6 +5,7 @@ tags:
   - condiment
   - sauce
   - dip
+hero: assets/images/hummus.jpg
 ---
 
 # :falafel: Hummus

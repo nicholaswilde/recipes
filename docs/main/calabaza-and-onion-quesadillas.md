@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
+hero: assets/images/calabaza-and-onion-quesadillas.jpg
 ---
 
 # :flatbread: Calabaza & Onion Quesadillas

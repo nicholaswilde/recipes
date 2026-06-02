@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
+hero: assets/images/peanut-butter-sandwich-cookies.jpg
 ---
 
 # :peanuts: Peanut Butter Sandwich Cookies

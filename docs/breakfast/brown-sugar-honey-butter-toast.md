@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - cupcake-jemma
+hero: assets/images/brown-sugar-honey-butter-toast.jpg
 ---
 
 # :waffle: Brown Sugar Honey Butter Toast

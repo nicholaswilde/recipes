@@ -4,6 +4,7 @@ tags:
 
   - italian
   - pizza
+hero: assets/images/white-pizza.jpg
 ---
 
 # :pizza: White Pizza

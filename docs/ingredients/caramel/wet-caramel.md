@@ -5,6 +5,7 @@ tags:
   - caramel
   - ingredient
   - cupcake-jemma
+hero: assets/images/wet-caramel.jpg
 ---
 
 # :candy: Wet Caramel

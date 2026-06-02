@@ -4,6 +4,7 @@ tags:
 
   - holiday
   - side
+hero: assets/images/grandpa's-stuffing.jpg
 ---
 
 # :stuffed_flatbread: Grandpa's Stuffing

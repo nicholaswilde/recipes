@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/orange-juice-lime-salad-dressing.jpg
 ---
 
 # Orange Juice-Lime Salad Dressing

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/jose-guevara's-gallo-pinto.png
 ---
 
 # :stuffed_flatbread: Jose Guevara's Gallo Pinto

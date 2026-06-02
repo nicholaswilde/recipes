@@ -6,6 +6,7 @@ tags:
   - dessert
   - honey
   - struffoli
+hero: assets/images/struffoli.jpg
 ---
 
 # Struffoli

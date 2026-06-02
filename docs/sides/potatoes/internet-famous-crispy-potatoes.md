@@ -4,6 +4,7 @@ tags:
 
   - side
   - jeremy-scheck
+hero: assets/images/internet-famous-crispy-potatoes.jpg
 ---
 
 # :potato: Internet-Famous Crispy Potatoes

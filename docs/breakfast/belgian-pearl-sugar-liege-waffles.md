@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/belgian-pearl-sugar-liege-waffles.jpg
 ---
 # Belgian Pearl Sugar Liege Waffles
 

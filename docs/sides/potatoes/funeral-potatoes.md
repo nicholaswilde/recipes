@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/funeral-potatoes.jpg
 ---
 
 # :potato: Funeral Potatoes

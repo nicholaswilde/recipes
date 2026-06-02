@@ -5,6 +5,7 @@ tags:
   - weight-watchers
   - dessert
   - recipe-box
+hero: assets/images/weight-watchers-double-oatmeal-cookies.jpg
 ---
 # :cookie: Weight Watchers Double Oatmeal Cookies
 

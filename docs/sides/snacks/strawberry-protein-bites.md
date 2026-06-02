@@ -5,6 +5,7 @@ tags:
   - bites
   - applied-kitchen
   - side
+hero: assets/images/strawberry-protein-bites.jpg
 ---
 
 # :strawberry: Strawberry Protein Bites

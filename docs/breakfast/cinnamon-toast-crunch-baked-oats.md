@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/cinnamon-toast-crunch-baked-oats.jpg
 ---
 
 # :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats

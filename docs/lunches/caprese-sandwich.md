@@ -5,6 +5,7 @@ tags:
   - lunch
   - sandwich
   - applied-kitchen
+hero: assets/images/caprese-sandwich.jpg
 ---
 
 # :sandwich: Caprese Sandwich

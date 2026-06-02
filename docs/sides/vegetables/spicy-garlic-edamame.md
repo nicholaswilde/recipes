@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/spicy-garlic-edamame.jpg
 ---
 
 # Spicy Garlic Edamame

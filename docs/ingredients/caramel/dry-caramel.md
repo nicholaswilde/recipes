@@ -4,6 +4,7 @@ tags:
 
   - caramel
   - ingredient
+hero: assets/images/dry-caramel.jpg
 ---
 
 # :candy: Dry Caramel

@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - trader-joes
+hero: assets/images/quick-couscous-chickpea-salad.jpg
 ---
 
 # :rice: Quick Couscous Chickpea Salad

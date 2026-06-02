@@ -5,6 +5,7 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
+hero: assets/images/crispy-baked-peanut-tofu.jpg
 ---
 
 # :peanuts: Crispy Baked Peanut Tofu

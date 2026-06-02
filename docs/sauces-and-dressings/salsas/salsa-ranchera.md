@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/salsa-ranchera.jpg
 ---
 
 # :tomato: Salsa Ranchera

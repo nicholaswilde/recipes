@@ -6,6 +6,7 @@ tags:
   - appetizer
   - bruschetta
   - tomato
+hero: assets/images/bruschetta.jpg
 ---
 
 # :tomato: Bruschetta

@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - dominique-ansel
+hero: assets/images/dominique-ansel's-chocolate-cake.png
 ---
 
 # :cake: Dominique Ansel's Chocolate Cake

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/doritos-popcorn.jpg
 ---
 
 # :popcorn: Doritos Popcorn

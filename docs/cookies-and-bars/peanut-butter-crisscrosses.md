@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - king-arthur
+hero: assets/images/peanut-butter-crisscrosses.jpg
 ---
 
 # :peanuts: Peanut Butter Crisscrosses

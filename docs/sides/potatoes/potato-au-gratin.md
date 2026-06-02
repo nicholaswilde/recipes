@@ -4,6 +4,7 @@ tags:
 
   - side
   - jean-pierre
+hero: assets/images/potato-au-gratin.jpg
 ---
 
 # :potato: Potato Au Gratin

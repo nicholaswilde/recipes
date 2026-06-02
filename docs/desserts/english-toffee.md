@@ -5,6 +5,7 @@ tags:
   - toffee
   - dessert
   - joy-of-cooking
+hero: assets/images/english-toffee.jpg
 ---
 
 # :candy: English Toffee

@@ -5,6 +5,7 @@ tags:
   - pie
   - dessert
   - recipe-box
+hero: assets/images/blueberry-pie.jpg
 ---
 
 # :pie: Blueberry Pie

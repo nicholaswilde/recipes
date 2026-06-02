@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
+hero: assets/images/maple-cinnamon-almonds.jpg
 ---
 
 # :chestnut: Maple-Cinnamon Almonds

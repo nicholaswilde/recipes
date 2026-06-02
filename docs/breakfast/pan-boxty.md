@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - cooks-illustrated
+hero: assets/images/pan-boxty.jpg
 ---
 
 # :potato: Pan Boxty

@@ -4,6 +4,7 @@ tags:
 
   - overnight-oats
   - breakfast
+hero: assets/images/overnight-oats.jpg
 ---
 
 # :ear_of_rice: Overnight Oats

@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/whole-wheat-bread.jpg
 ---
 
 # :ear_of_rice: Whole Wheat Bread

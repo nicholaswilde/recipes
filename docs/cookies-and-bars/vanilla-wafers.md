@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/vanilla-wafers.jpg
 ---
 
 # :cookie: Vanilla Wafers

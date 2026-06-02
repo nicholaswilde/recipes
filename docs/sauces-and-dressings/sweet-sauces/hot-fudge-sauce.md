@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - claire-saffitz
+hero: assets/images/hot-fudge-sauce.jpg
 ---
 
 # :chocolate_bar: Hot Fudge Sauce

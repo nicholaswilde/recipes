@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.jpg
 ---
 # Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 

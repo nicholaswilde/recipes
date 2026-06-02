@@ -4,6 +4,7 @@ tags:
 
   - soup
   - gordon-ramsay
+hero: assets/images/roasted-tomato-soup.png
 ---
 
 # :tomato: Roasted Tomato Soup

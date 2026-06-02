@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/amish-potato-salad.png
 ---
 
 # :potato: Amish Potato Salad

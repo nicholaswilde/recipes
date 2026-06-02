@@ -5,6 +5,7 @@ tags:
   - sauce
   - italian
   - recipe-box
+hero: assets/images/spaghetti-sauce.jpg
 ---
 
 # :spaghetti: Spaghetti Sauce

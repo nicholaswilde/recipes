@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
   - trader-joes
+hero: assets/images/caramelized-upside-down-banana-cake.jpg
 ---
 
 # :apple: Caramelized Upside Down Banana Cake

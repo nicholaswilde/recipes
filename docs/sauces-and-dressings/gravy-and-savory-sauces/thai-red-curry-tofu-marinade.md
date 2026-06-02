@@ -5,6 +5,7 @@ tags:
   - gluten-free
   - marinade
   - tofu
+hero: assets/images/thai-red-curry-tofu-marinade.jpg
 ---
 
 # Thai Red Curry Tofu Marinade

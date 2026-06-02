@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/chickpea-and-spinach-pancakes.jpg
 ---
 # Chickpea and Spinach Pancakes
 

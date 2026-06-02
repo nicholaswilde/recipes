@@ -4,6 +4,7 @@ tags:
 
   - bread
   - side
+hero: assets/images/breadsticks.jpg
 ---
 
 # :bread: Breadsticks

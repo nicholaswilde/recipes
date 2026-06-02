@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/eggless-egg-salad.jpg
 ---
 
 # Eggless Egg Salad

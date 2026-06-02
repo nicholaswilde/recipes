@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/sourdough-crackers.jpg
 ---
 
 # :flatbread: Sourdough Crackers

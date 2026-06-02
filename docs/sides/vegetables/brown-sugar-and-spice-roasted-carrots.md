@@ -4,6 +4,7 @@ tags:
 
   - side
   - jessica-seinfeld
+hero: assets/images/brown-sugar-and-spice-roasted-carrots.jpg
 ---
 
 # :carrot: Brown Sugar & Spice Roasted Carrots

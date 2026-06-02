@@ -6,6 +6,7 @@ tags:
   - dessert
   - broma-bakery
   - bake-off
+hero: assets/images/chocolate-chip-blondies.png
 ---
 
 # :cookie: Chocolate Chip Blondies

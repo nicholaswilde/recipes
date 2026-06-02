@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/brazilian-rice.jpg
 ---
 
 # :rice: Brazilian Rice

@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - recipe-box
+hero: assets/images/spaghetti-alla-puttanesca.jpg
 ---
 
 # :spaghetti: Spaghetti Alla Puttanesca

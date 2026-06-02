@@ -5,6 +5,7 @@ tags:
   - ingredient
   - filling
   - dessert
+hero: assets/images/mint-filling.jpg
 ---
 
 # :leafy_green: Mint Filling

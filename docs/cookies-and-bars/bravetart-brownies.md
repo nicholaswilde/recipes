@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/bravetart-brownies.jpg
 ---
 # BraveTart Brownies
 

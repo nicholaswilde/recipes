@@ -4,6 +4,7 @@ tags:
 
   - side
   - joy-of-cooking
+hero: assets/images/steamed-broccoli-with-vinaigrette.jpg
 ---
 
 # :broccoli: Steamed Broccoli with Vinaigrette

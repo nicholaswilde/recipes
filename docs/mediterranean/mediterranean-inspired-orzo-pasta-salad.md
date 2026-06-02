@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - minimalist-baker
+hero: assets/images/mediterranean-inspired-orzo-pasta-salad.jpg
 ---
 
 # :green_salad: Mediterranean-Inspired Orzo Pasta Salad

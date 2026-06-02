@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/salsa-brava.jpg
 ---
 
 # :tomato: Salsa Brava

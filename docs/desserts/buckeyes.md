@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/buckeyes.jpg
 ---
 
 # :yellow_circle: Buckeyes

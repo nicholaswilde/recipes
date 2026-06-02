@@ -5,6 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
+hero: assets/images/overnight-sourdough-baguettes.jpg
 ---
 
 # :baguette_bread: Overnight Sourdough Baguettes

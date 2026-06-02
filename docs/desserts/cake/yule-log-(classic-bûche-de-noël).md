@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - king-arthur
+hero: assets/images/yule-log-(classic-bûche-de-noël).jpg
 ---
 
 # :wood: Yule Log (Classic Bûche de Noël)

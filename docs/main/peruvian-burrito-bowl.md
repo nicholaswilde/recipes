@@ -4,6 +4,7 @@ tags:
 
   - bowl
   - main
+hero: assets/images/peruvian-burrito-bowl.jpg
 ---
 
 # :stuffed_flatbread: Peruvian Burrito Bowl

@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
   - dessert
+hero: assets/images/kouign-amann.jpg
 ---
 
 # :bread: Kouign-Amann

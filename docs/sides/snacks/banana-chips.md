@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/banana-chips.jpg
 ---
 
 # :banana: Banana Chips

@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - magnolia
+hero: assets/images/broccoli-pesto.jpg
 ---
 
 # :herb: Broccoli Pesto

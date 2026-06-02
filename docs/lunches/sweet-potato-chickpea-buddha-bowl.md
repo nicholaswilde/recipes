@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - minimalist-baker
+hero: assets/images/sweet-potato-chickpea-buddha-bowl.jpg
 ---
 
 # :sweet_potato: Sweet Potato Chickpea Buddha Bowl

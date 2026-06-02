@@ -4,6 +4,7 @@ tags:
   - cookie
   - asian
   - todd-wilbur
+hero: assets/images/almond-cookies.jpg
 ---
 # Almond Cookies
 

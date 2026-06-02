@@ -5,6 +5,7 @@ tags:
   - sauce
   - italian
   - joy-of-cooking
+hero: assets/images/marinara-sauce.jpg
 ---
 
 # :tomato: Marinara Sauce

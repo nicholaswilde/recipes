@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - pesto
+hero: assets/images/lemon-pepper-parsley-pesto.jpg
 ---
 
 # :herb: Lemon-Pepper Parsley Pesto

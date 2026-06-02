@@ -4,6 +4,7 @@ tags:
 
   - italian
   - vegetarian
+hero: assets/images/eggplant-parm-meatballs.jpg
 ---
 
 # :spaghetti: Eggplant Parm Meatballs

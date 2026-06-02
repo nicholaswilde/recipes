@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - vegan
+hero: assets/images/aquafaba-whipped-cream.jpg
 ---
 
 # :icecream: Aquafaba Whipped Cream

@@ -4,6 +4,7 @@ tags:
 
   - asian
   - trader-joes
+hero: assets/images/truffley-cauliflower-stir-fry.png
 ---
 
 # :broccoli: Truffley Cauliflower Stir Fry

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - jean-pierre
+hero: assets/images/breadcrumbs.jpg
 ---
 
 # :bread: Breadcrumbs

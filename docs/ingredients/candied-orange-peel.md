@@ -4,6 +4,7 @@ tags:
   - ingredients
 comments: true
 
+hero: assets/images/candied-orange-peel.jpg
 ---
 
 # :tangerine: Candied Orange Peel

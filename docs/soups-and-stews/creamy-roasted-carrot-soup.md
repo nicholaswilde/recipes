@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - soup
+hero: assets/images/creamy-roasted-carrot-soup.jpg
 ---
 
 # :carrot: Creamy Roasted Carrot Soup

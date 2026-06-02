@@ -3,6 +3,7 @@ comments: true
 tags:
   - holiday
   - casserole
+hero: assets/images/ruth's-chris-sweet-potato-casserole.jpg
 ---
 
 # :potato: Ruth's Chris Sweet Potato Casserole

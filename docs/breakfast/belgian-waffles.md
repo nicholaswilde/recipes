@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
+hero: assets/images/belgian-waffles.jpg
 ---
 
 # :waffle: Belgian Waffles

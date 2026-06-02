@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - vegan
+hero: assets/images/vegan-sour-cream.jpg
 ---
 
 # :rice: Vegan Sour Cream

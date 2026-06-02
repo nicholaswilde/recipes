@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
+hero: assets/images/cashew-queso-blanco.jpg
 ---
 
 # :rice: Cashew Queso Blanco

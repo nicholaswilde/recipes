@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/breakfast-potatoes.jpg
 ---
 
 # :potato: Breakfast Potatoes

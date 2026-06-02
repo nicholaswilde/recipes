@@ -4,6 +4,7 @@ tags:
 
   - butter
   - ingredient
+hero: assets/images/almond-butter.jpg
 ---
 
 # :butter: Almond Butter

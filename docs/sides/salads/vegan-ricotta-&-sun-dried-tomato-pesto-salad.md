@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 ---
 # Vegan Ricotta & Sun-Dried Tomato Pesto Salad
 

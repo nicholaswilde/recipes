@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - dressing
+hero: assets/images/berry-sauce.jpg
 ---
 
 # :strawberry: Berry Sauce

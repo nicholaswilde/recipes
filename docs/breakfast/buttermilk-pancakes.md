@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
+hero: assets/images/buttermilk-pancakes.jpg
 ---
 
 # :pancakes: Buttermilk Pancakes

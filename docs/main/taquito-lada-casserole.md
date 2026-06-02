@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - trader-joes
+hero: assets/images/taquito-lada-casserole.png
 ---
 
 # :taco: Taquito-lada Casserole

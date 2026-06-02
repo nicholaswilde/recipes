@@ -4,6 +4,7 @@ tags:
 
   - pie
   - dessert
+hero: assets/images/banoffee-pie.jpg
 ---
 
 # :pie: Banoffee Pie

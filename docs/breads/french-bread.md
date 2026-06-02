@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/french-bread.jpg
 ---
 
 # :baguette_bread: French Bread

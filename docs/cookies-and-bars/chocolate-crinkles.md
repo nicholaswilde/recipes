@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - grandma-beatrice-wilde
+hero: assets/images/chocolate-crinkles.jpg
 ---
 
 # :cookie: Chocolate Crinkles

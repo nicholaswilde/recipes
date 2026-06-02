@@ -8,6 +8,7 @@ tag:
   - gordon-ramsay
   - puree
   - side
+hero: assets/images/parsnip-purée.jpg
 ---
 
 # :carrot: Parsnip Purée

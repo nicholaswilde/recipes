@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/butter-swirl-shortbread-cookies.jpg
 ---
 
 # :cookie: Butter Swirl Shortbread Cookies

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - pastry-dough
+hero: assets/images/empanada-pastry.jpg
 ---
 
 # :dumpling: Empanada Pastry

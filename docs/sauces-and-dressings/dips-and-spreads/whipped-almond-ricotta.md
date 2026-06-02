@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - vegan
+hero: assets/images/whipped-almond-ricotta.jpg
 ---
 
 # :chestnut: Whipped Almond Ricotta

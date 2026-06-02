@@ -6,6 +6,7 @@ tags:
   - pasta
   - cheese
   - gilligan-family
+hero: assets/images/stuffed-shells.jpg
 ---
 # :shallow_pan_of_food: Stuffed Shells
 

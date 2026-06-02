@@ -4,6 +4,7 @@ tags:
 
   - side
   - ina-garten
+hero: assets/images/ina-garten's-parmesan-roasted-broccoli.jpg
 ---
 
 # :broccoli: Ina Garten's Parmesan Roasted Broccoli

@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
+hero: assets/images/black-bean-mole.jpg
 ---
 
 # :canned_food: Black Bean Mole

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/pumpkin-pie-spice.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Pie Spice

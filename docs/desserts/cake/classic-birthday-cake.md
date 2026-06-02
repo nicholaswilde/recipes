@@ -5,6 +5,7 @@ tags:
   - cake
   - dessert
   - king-arthur
+hero: assets/images/classic-birthday-cake.jpg
 ---
 
 # :cake: Classic Birthday Cake

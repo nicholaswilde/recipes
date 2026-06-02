@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/brown-butter-macadamia-nut.jpg
 ---
 
 # :cookie: Brown Butter Macadamia Nut

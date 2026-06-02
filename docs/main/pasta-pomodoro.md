@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - jean-pierre
+hero: assets/images/pasta-pomodoro.jpg
 ---
 
 # :spaghetti: Pasta Pomodoro

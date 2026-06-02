@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/gordon-ramsay's-chocolate-soufflé.png
 ---
 
 # :custard: Gordon Ramsay's Chocolate Soufflé

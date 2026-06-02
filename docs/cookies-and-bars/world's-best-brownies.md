@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - gordon-ramsay
+hero: assets/images/world's-best-brownies.jpg
 ---
 
 # :chocolate_bar: World's Best Brownies

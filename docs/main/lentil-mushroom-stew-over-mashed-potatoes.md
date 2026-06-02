@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg
 ---
 # Lentil Mushroom Stew over Mashed Potatoes
 

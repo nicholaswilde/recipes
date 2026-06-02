@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/peppermint-chocolate-cookies.jpg
 ---
 # Peppermint Chocolate Cookies
 

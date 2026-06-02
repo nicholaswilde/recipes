@@ -10,6 +10,7 @@ tags:
   - ginger
   - coconut
   - gluten-free
+hero: assets/images/ginger-carrot-soup.jpg
 ---
 
 # :stew: Ginger Carrot Soup

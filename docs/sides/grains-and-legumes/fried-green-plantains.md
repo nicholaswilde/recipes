@@ -4,6 +4,7 @@ tags:
 
   - side
   - the-blue-zones-kitchen
+hero: assets/images/fried-green-plantains.jpg
 ---
 
 # :banana: Fried Green Plantains

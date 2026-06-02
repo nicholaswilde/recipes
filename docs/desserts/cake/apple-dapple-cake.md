@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/apple-dapple-cake.jpg
 ---
 # Apple Dapple Cake
 

@@ -4,6 +4,7 @@ tags:
   - bread
   - southern-living
   - cornbread
+hero: assets/images/southern-skillet-cornbread.jpg
 ---
 # Southern Skillet Cornbread
 

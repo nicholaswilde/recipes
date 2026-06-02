@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/deviled-eggs.jpg
 ---
 
 # :egg: Deviled Eggs

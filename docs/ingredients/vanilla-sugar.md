@@ -4,6 +4,7 @@ tags:
 
   - sugar
   - ingredient
+hero: assets/images/vanilla-sugar.jpg
 ---
 
 # :candy: Vanilla Sugar

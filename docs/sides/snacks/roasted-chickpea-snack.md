@@ -4,6 +4,7 @@ tags:
 
   - side
   - snack
+hero: assets/images/roasted-chickpea-snack.jpg
 ---
 
 # :falafel: Roasted Chickpea Snack

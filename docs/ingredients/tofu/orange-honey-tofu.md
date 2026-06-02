@@ -4,6 +4,7 @@ tags:
 
   - asian
   - vegetarian
+hero: assets/images/orange-honey-tofu.jpg
 ---
 
 # :tangerine: Orange Honey Tofu

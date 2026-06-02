@@ -4,6 +4,7 @@ tags:
 
   - italian
   - sauce
+hero: assets/images/new-york-style-pizza-sauce.jpg
 ---
 
 # :tomato: New York-Style Pizza Sauce

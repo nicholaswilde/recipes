@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/spinach-and-feta-filo-pie.jpg
 ---
 # Spinach and Feta Filo Pie
 

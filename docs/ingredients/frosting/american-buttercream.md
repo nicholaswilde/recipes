@@ -6,6 +6,7 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
+hero: assets/images/american-buttercream.jpg
 ---
 
 # :cake: American Buttercream

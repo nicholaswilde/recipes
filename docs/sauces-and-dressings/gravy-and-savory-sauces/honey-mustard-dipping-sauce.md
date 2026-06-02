@@ -5,6 +5,7 @@ tags:
   - sauce
   - dip
   - joy-of-cooking
+hero: assets/images/honey-mustard-dipping-sauce.jpg
 ---
 
 # :honey_pot: Honey Mustard Dipping Sauce

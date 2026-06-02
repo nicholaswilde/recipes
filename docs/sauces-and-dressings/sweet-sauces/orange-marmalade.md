@@ -5,6 +5,7 @@ tags:
   - sweet-sauce
   - citrus
   - bigger-bolder-baking
+hero: assets/images/orange-marmalade.jpg
 ---
 
 # Orange Marmalade

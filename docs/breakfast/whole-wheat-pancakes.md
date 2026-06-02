@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - pancake
+hero: assets/images/whole-wheat-pancakes.jpg
 ---
 
 # :pancakes: Whole Wheat Pancakes

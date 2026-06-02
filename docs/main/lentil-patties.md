@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/lentil-patties.jpg
 ---
 # Lentil Patties
 

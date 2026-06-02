@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - recipe-box
+hero: assets/images/oatmeal-chocolate-chip-cookies.jpg
 ---
 
 # :cookie: Oatmeal Chocolate Chip Cookies

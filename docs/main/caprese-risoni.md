@@ -5,6 +5,7 @@ tags:
   - pasta
   - italian
   - recipe-box
+hero: assets/images/caprese-risoni.jpg
 ---
 
 # :spaghetti: Caprese Risoni

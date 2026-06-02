@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/ranch-dressing.jpg
 ---
 
 # :herb: Ranch Dressing

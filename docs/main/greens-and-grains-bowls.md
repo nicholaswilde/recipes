@@ -4,6 +4,7 @@ tags:
 
   - main
   - bowl
+hero: assets/images/greens-and-grains-bowls.jpg
 ---
 
 # :stuffed_flatbread: Greens and Grains Bowls

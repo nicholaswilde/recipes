@@ -4,6 +4,7 @@ tags:
 
   - bread
   - bake-off
+hero: assets/images/cornbread.jpg
 ---
 
 # :corn: Cornbread

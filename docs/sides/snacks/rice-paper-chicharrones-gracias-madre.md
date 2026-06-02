@@ -3,6 +3,7 @@ comments: true
 tags:
   - snack
   - side
+hero: assets/images/rice-paper-chicharrones-gracias-madre.jpg
 ---
 
 # :bread: Rice Paper Chicharrones Gracias Madre

@@ -6,6 +6,7 @@ tags:
   - stew
   - NYT Cooking
   - Alison Roman
+hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.jpg
 ---
 
 # Spiced Chickpea Stew With Coconut and Turmeric

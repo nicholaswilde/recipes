@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/pineapple-paradise.png
 ---
 
 # :pineapple: Pineapple Paradise

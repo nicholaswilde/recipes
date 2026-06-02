@@ -4,6 +4,7 @@ tags:
 
   - butter
   - ingredient
+hero: assets/images/3-ingredient-garlic-butter.jpg
 ---
 
 # :butter: 3-Ingredient Garlic Butter

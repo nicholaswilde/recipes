@@ -4,6 +4,7 @@ tags:
 
   - stew
   - vegetarian
+hero: assets/images/hearty-vegetarian-stew.jpg
 ---
 
 # :stew: Hearty Vegetarian Stew

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/buttermilk-whole-wheat-waffles.jpg
 ---
 
 # :waffle: Buttermilk Whole Wheat Waffles

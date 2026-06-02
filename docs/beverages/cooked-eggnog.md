@@ -5,6 +5,7 @@ tags:
   - beverage
   - joy-of-cooking
   - holiday
+hero: assets/images/cooked-eggnog.jpg
 ---
 
 # :egg: Cooked Eggnog

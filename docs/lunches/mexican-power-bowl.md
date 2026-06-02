@@ -4,6 +4,7 @@ tags:
 
   - bowl
   - lunch
+hero: assets/images/mexican-power-bowl.jpg
 ---
 
 # :stuffed_flatbread: Mexican Power Bowl

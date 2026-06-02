@@ -6,6 +6,7 @@ tags:
   - vegan
   - butternut-squash
   - tahini
+hero: assets/images/butternut-squash-tahini-curry.jpg
 ---
 # Butternut Squash Tahini Curry
 

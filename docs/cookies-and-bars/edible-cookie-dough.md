@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/edible-cookie-dough.jpg
 ---
 
 # :cookie: Edible Cookie Dough

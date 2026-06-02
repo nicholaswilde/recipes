@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/tante-myrn's-split-pea-soup.jpg
 ---
 
 # :green_circle: Tante Myrn's Split Pea Soup

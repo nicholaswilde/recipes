@@ -4,6 +4,7 @@ tags:
 
   - frosting
   - ingredient
+hero: assets/images/poured-fondant-icing.jpg
 ---
 
 # Poured Fondant Icing

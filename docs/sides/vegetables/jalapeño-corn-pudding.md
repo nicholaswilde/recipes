@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/jalapeño-corn-pudding.jpg
 ---
 
 # Jalapeño Corn Pudding

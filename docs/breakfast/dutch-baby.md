@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/dutch-baby.jpg
 ---
 # Dutch Baby
 

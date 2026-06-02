@@ -5,6 +5,7 @@ tags:
   - dessert
   - jean-pierre
   - mousse
+hero: assets/images/chocolate-mousse.jpg
 ---
 
 # :chocolate_bar: Chocolate Mousse

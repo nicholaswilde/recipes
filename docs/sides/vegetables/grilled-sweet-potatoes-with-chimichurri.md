@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/grilled-sweet-potatoes-with-chimichurri.jpg
 ---
 
 # :sweet_potato: Grilled Sweet Potatoes with Chimichurri

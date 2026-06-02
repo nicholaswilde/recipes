@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/vanilla-bean-cream.jpg
 ---
 
 # :icecream: Vanilla Bean Cream

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/taco-seasoning.jpg
 ---
 
 # :taco: Taco Seasoning

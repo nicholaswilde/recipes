@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - recipe-box
+hero: assets/images/consumer-union-chocolate-chip-cookies.jpg
 ---
 
 # :cookie: Consumer Union Chocolate Chip Cookies

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/french-toast.jpg
 ---
 
 # :bread: French Toast

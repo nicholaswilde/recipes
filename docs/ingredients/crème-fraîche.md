@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/crème-fraîche.jpg
 ---
 
 # :rice: Crème Fraîche

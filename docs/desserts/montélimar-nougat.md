@@ -4,6 +4,7 @@ tags:
   - desserts
 comments: true
 
+hero: assets/images/montélimar-nougat.jpg
 ---
 
 # :candy: Montélimar Nougat

@@ -4,6 +4,7 @@ tags:
 
   - cracker
   - snack
+hero: assets/images/club-crackers.jpg
 ---
 
 # :cookie: Club Crackers

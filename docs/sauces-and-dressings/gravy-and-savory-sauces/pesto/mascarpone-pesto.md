@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - magnolia
+hero: assets/images/mascarpone-pesto.jpg
 ---
 
 # :herb: Mascarpone Pesto

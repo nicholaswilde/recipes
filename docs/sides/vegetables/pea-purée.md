@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/pea-purée.jpg
 ---
 
 # :green_circle: Pea Purée

@@ -7,6 +7,7 @@ tags:
   - vegetarian
   - recipe-box
   - minimalist-baker
+hero: assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg
 ---
 
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry

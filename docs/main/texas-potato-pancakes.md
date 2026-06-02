@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/texas-potato-pancakes.jpg
 ---
 # Texas Potato Pancakes
 

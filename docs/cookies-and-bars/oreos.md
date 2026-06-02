@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/oreos.jpg
 ---
 
 # :cookie: Oreos

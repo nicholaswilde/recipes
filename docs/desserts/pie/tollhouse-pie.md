@@ -5,6 +5,7 @@ tags:
   - pie
   - dessert
   - recipe-box
+hero: assets/images/tollhouse-pie.jpg
 ---
 
 # :pie: Tollhouse Pie

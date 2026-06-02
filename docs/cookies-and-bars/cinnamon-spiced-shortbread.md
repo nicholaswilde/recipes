@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - ina-garten
+hero: assets/images/cinnamon-spiced-shortbread.jpg
 ---
 
 # :cookie: Cinnamon-Spiced Shortbread

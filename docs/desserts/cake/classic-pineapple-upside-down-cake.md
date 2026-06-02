@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/classic-pineapple-upside-down-cake.jpg
 ---
 
 # :pineapple: Classic Pineapple Upside Down Cake

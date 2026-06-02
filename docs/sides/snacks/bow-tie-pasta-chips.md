@@ -4,6 +4,7 @@ tags:
 
   - side
   - nutrition-studies
+hero: assets/images/bow-tie-pasta-chips.jpg
 ---
 
 # :ribbon: Bow Tie Pasta Chips

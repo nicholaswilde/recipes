@@ -4,6 +4,7 @@ tags:
 
   - sandwich
   - lunch
+hero: assets/images/brussels-sprout-melts.jpg
 ---
 
 # :sandwich: Brussels Sprout Melts

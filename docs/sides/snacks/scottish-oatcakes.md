@@ -5,6 +5,7 @@ tags:
   - side
   - cooks-illustrated
   - scottish
+hero: assets/images/scottish-oatcakes.jpg
 ---
 
 # :cookie: Scottish Oatcakes

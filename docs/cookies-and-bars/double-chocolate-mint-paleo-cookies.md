@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/double-chocolate-mint-paleo-cookies.jpg
 ---
 
 # :cookie: Double Chocolate Mint Paleo Cookies

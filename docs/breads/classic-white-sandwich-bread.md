@@ -5,6 +5,7 @@ tags:
   - sandwich bread
   - white bread
   - King Arthur Baking
+hero: assets/images/classic-white-sandwich-bread.jpg
 ---
 # Classic White Sandwich Bread
 

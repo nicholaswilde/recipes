@@ -5,6 +5,7 @@ tags:
   - favorite
   - gordon-ramsay
   - side
+hero: assets/images/honey-glazed-carrots-and-parsnips.jpg
 ---
 
 # :carrot: Honey Glazed Carrots & Parsnips

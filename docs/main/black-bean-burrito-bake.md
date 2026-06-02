@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - mexican
+hero: assets/images/black-bean-burrito-bake.jpg
 ---
 
 # :burrito: Black Bean Burrito Bake

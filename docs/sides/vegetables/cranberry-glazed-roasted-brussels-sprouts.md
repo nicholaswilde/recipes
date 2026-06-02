@@ -4,6 +4,7 @@ tags:
   - holiday
   - side
   - thanksgiving
+hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg
 ---
 
 # :leafy_green: Cranberry Glazed Roasted Brussels Sprouts

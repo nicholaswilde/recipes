@@ -5,6 +5,7 @@ tags:
   - gluten-free
   - marinade
   - tofu
+hero: assets/images/maple-soy-tofu-marinade.jpg
 ---
 
 # Maple Soy Tofu Marinade

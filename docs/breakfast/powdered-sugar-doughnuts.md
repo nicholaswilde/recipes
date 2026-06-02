@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/powdered-sugar-doughnuts.jpg
 ---
 
 # :doughnut: Powdered Sugar Doughnuts

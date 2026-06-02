@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/quinoa-and-veggie-power-bowls.jpg
 ---
 # Quinoa and Veggie Power Bowls
 

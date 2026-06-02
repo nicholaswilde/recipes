@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - sponge
+hero: assets/images/genoise-sponge.jpg
 ---
 
 # :cake: Genoise Sponge

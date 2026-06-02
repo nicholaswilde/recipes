@@ -5,6 +5,7 @@ tags:
   - ingredient
   - meringue
   - joy-of-cooking
+hero: assets/images/italian-meringue.jpg
 ---
 
 # :egg: Italian Meringue

@@ -5,6 +5,7 @@ tags:
   - ingredient
   - syrup
   - dominique-ansel
+hero: assets/images/simple-syrup.jpg
 ---
 
 # :maple_leaf: Simple Syrup

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - lunch
+hero: assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.jpg
 ---
 # No Bake Peanut Butter Chocolate Chip Energy Bites
 

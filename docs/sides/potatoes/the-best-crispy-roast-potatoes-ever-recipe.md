@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg
 ---
 
 # The Best Crispy Roast Potatoes Ever Recipe

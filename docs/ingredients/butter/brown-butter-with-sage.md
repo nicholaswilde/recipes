@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - butter
+hero: assets/images/brown-butter-with-sage.jpg
 ---
 
 # :seedling: Brown Butter with Sage

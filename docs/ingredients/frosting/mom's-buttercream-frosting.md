@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - frosting
+hero: assets/images/mom's-buttercream-frosting.jpg
 ---
 
 # :cupcake: Mom's Buttercream Frosting

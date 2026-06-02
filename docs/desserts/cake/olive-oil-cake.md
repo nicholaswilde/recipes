@@ -6,6 +6,7 @@ tags:
   - bake-off
   - cake
   - cooks-illustrated
+hero: assets/images/olive-oil-cake.jpg
 ---
 
 # :olive: Olive Oil Cake

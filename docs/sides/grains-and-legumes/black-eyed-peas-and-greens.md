@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
+hero: assets/images/black-eyed-peas-and-greens.jpg
 ---
 
 # Black Eyed Peas and Greens

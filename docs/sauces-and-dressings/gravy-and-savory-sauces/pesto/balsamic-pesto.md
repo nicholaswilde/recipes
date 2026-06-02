@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - magnolia
+hero: assets/images/balsamic-pesto.jpg
 ---
 
 # :herb: Balsamic Pesto

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dip
+hero: assets/images/spinach-dip.jpg
 ---
 
 # :leafy_green: Spinach Dip

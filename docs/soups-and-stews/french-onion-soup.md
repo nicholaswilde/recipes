@@ -5,6 +5,7 @@ tags:
   - soup
   - french
   - cooks-illustrated
+hero: assets/images/french-onion-soup.jpg
 ---
 
 # :onion: French Onion Soup

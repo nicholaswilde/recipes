@@ -5,6 +5,7 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
+hero: assets/images/risotto-milanese.jpg
 ---
 
 # :ear_of_rice: Risotto Milanese

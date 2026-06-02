@@ -5,6 +5,7 @@ tags:
   - ina-garten
   - cake
   - dessert
+hero: assets/images/ina-garten's-coconut-cake.jpg
 ---
 
 # :coconut: Ina Garten's Coconut Cake

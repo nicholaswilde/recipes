@@ -5,6 +5,7 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
+hero: assets/images/crispy-baked-tofu-with-italian-herbs.jpg
 ---
 
 # :custard: Crispy Baked Tofu with Italian Herbs

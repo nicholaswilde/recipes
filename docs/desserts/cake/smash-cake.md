@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/smash-cake.jpg
 ---
 
 # :cake: Smash Cake

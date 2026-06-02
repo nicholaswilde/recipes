@@ -4,6 +4,7 @@ tags:
   - cookie
   - dessert
   - holiday
+hero: assets/images/russian-tea-cakes.jpg
 ---
 
 # :cookie: Russian Tea Cakes

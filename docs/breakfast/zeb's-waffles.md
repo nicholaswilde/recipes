@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/zeb's-waffles.png
 ---
 
 # :waffle: Zeb's Waffles

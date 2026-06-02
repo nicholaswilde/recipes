@@ -5,6 +5,7 @@ tags:
   - vegan
   - dressing
   - minimalist-baker
+hero: assets/images/vegan-caesar-dressing.jpg
 ---
 
 # :green_salad: Vegan Caesar Dressing

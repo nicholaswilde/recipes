@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/new-orleans-pralines.png
 ---
 
 # :chestnut: New Orleans Pralines

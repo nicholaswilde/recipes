@@ -5,6 +5,7 @@ tags:
   - dessert
   - shortcake
   - cooks-illustrated
+hero: assets/images/strawberry-shortcakes.jpg
 ---
 
 # :strawberry: Strawberry Shortcakes

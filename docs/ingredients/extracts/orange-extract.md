@@ -4,6 +4,7 @@ tags:
 
   - extract
   - ingredient
+hero: assets/images/orange-extract.jpg
 ---
 
 # :tangerine: Orange Extract

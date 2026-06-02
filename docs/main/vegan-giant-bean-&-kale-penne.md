@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/vegan-giant-bean-&-kale-penne.png
 ---
 # Vegan Giant Bean & Kale Penne
 

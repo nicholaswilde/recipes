@@ -5,6 +5,7 @@ tags:
   - ingredient
   - pastry-dough
   - joy-of-cooking
+hero: assets/images/basic-pastry.jpg
 ---
 
 # :pie: Basic Pastry

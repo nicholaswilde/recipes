@@ -6,6 +6,7 @@ tags:
   - dominique-ansel
   - custard
   - filling
+hero: assets/images/crème-pâtissière.jpg
 ---
 
 # :egg: Crème Pâtissière

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/pineapple-apple-cider-vinegar-turmeric-drink.jpg
 ---
 
 # :pineapple: Pineapple Apple Cider Vinegar Turmeric Drink

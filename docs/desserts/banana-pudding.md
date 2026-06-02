@@ -5,6 +5,7 @@ tags:
   - dessert
   - pudding
   - magnolia
+hero: assets/images/banana-pudding.jpg
 ---
 
 # :custard: Banana Pudding

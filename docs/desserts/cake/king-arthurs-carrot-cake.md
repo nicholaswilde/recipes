@@ -6,6 +6,7 @@ tags:
   - cake
   - bake-off
   - king-arthur
+hero: assets/images/king-arthurs-carrot-cake.jpg
 ---
 
 # :carrot: King Arthurs Carrot Cake

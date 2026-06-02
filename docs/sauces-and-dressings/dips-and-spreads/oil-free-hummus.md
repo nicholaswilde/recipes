@@ -5,6 +5,7 @@ tags:
   - sauce
   - oil-free
   - nutrition-studies
+hero: assets/images/oil-free-hummus.jpg
 ---
 
 # :falafel: Oil-Free Hummus

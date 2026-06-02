@@ -4,6 +4,7 @@ tags:
 
   - pizza
   - italian
+hero: assets/images/classic-margherita-pizza.jpg
 ---
 
 # :pizza: Classic Margherita Pizza

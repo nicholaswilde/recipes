@@ -1,3 +1,6 @@
+---
+hero: assets/images/macaroni-salad.jpg
+---
 # :green_salad: Macaroni Salad
 
 tags:

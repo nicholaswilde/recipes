@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/grilled-tofu-with-chimichurri-sauce.png
 ---
 # :custard: Grilled Tofu with Chimichurri Sauce
 

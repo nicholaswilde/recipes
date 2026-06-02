@@ -5,6 +5,7 @@ tags:
   - breakfast
   - claire-saffitz
   - sourdough
+hero: assets/images/sourdough-pancakes.jpg
 ---
 
 # :pancakes: Sourdough Pancakes

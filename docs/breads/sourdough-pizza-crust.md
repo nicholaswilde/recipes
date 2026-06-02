@@ -5,6 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
+hero: assets/images/sourdough-pizza-crust.jpg
 ---
 
 # :pizza: Sourdough Pizza Crust

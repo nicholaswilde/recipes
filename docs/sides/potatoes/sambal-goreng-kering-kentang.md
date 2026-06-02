@@ -6,6 +6,7 @@ tags:
   - indo-dutch
   - vegetarian
   - vegan
+hero: assets/images/sambal-goreng-kering-kentang.png
 ---
 # :potato: Sambal Goreng Kering Kentang
 

@@ -4,6 +4,7 @@ tags:
 
   - main
   - trader-joes
+hero: assets/images/spicy-pumpkin-curry-pot-pie.png
 ---
 
 # :pie: Spicy Pumpkin Curry Pot Pie

@@ -5,6 +5,7 @@ tags:
   - dessert
   - tart
   - the-new-york-times
+hero: assets/images/plum-torte.jpg
 ---
 
 # :purple_circle: Plum Torte

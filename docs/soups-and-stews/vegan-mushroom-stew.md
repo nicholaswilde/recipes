@@ -5,6 +5,7 @@ tags:
   - soup
   - stew
   - costco
+hero: assets/images/vegan-mushroom-stew.jpg
 ---
 
 # :mushroom: Vegan Mushroom Stew

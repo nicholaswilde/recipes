@@ -5,6 +5,7 @@ tags:
   - breakfast
   - scone
   - cooks-illustrated
+hero: assets/images/dreamy-cream-scones.jpg
 ---
 
 # :cookie: Dreamy Cream Scones

@@ -5,6 +5,7 @@ tags:
   - cookie
   - king-arthur
   - dessert
+hero: assets/images/orange-sparkle-slice-and-bake-cookies.jpg
 ---
 
 # :tangerine: Orange Sparkle Slice-and-Bake Cookies

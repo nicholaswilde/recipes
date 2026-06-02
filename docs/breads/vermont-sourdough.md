@@ -5,6 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
+hero: assets/images/vermont-sourdough.jpg
 ---
 
 # :bread: Vermont Sourdough

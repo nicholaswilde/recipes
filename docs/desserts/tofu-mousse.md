@@ -5,6 +5,7 @@ tags:
   - dessert
   - vegan
   - mousse
+hero: assets/images/tofu-mousse.jpg
 ---
 
 # :chocolate_bar: Tofu Mousse

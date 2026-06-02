@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/artisan-no-knead-pizza-crust.jpg
 ---
 
 # :pizza: Artisan No-Knead Pizza Crust

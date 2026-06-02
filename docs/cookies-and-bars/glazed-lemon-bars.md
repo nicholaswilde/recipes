@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - recipe-box
+hero: assets/images/glazed-lemon-bars.jpg
 ---
 
 # :lemon: Glazed Lemon Bars

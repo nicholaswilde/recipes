@@ -5,6 +5,7 @@ tags:
   - disney
   - mexican
   - dessert
+hero: assets/images/disney's-churros.jpg
 ---
 
 # :pretzel: Disney's Churros

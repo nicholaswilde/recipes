@@ -5,6 +5,7 @@ tags:
   - asian
   - vegan
   - minimalist-baker
+hero: assets/images/easy-vegan-ramen.jpg
 ---
 
 # :ramen: Easy Vegan Ramen

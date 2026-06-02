@@ -5,6 +5,7 @@ tags:
   - ingredient
   - mexican
   - cooks-illustrated
+hero: assets/images/quick-mexican-style-chorizo.jpg
 ---
 
 # :hot_pepper: Quick Mexican-Style Chorizo

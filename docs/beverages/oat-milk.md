@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/oat-milk.jpg
 ---
 
 # :ear_of_rice: Oat Milk

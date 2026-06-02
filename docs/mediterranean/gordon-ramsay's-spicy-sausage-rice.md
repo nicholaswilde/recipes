@@ -6,6 +6,7 @@ tags:
   - gordon-ramsay
   - main
   - recipe-box
+hero: assets/images/gordon-ramsay's-spicy-sausage-rice.jpg
 ---
 
 # :rice: Gordon Ramsay's Spicy Sausage Rice

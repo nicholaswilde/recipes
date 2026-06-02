@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/salted-peanut-butter.jpg
 ---
 
 # :cookie: Salted Peanut Butter

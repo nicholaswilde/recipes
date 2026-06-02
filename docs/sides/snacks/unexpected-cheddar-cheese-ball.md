@@ -4,6 +4,7 @@ tags:
   - holiday
   - spread
   - trader-joes
+hero: assets/images/unexpected-cheddar-cheese-ball.png
 ---
 
 # :orange_circle: Unexpected Cheddar Cheese Ball

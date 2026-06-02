@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/beau-monde-seasoning.jpg
 ---
 # Beau Monde Seasoning
 

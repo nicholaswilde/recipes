@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - salad
+hero: assets/images/mexican-garbanzo-salad.jpg
 ---
 
 # :green_salad: Mexican Garbanzo Salad

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/conchas-(mexican-pan-dulce).jpg
 ---
 
 # :shell: Conchas (Mexican Pan Dulce)

@@ -7,6 +7,7 @@ tags:
   - middle eastern
   - vegan
   - gluten-free
+hero: assets/images/hummus-michael-solomonov.jpg
 ---
 
 # :beans: Hummus Michael Solomonov

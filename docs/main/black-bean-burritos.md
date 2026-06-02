@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - mexican
+hero: assets/images/black-bean-burritos.jpg
 ---
 
 # :burrito: Black Bean Burritos

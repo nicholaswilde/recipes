@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - vegan
+hero: assets/images/vegan-strawberry-cake.jpg
 ---
 
 # :cake: Vegan Strawberry Cake

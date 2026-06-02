@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - bake-off
+hero: assets/images/classic-buttermilk-waffles.jpg
 ---
 
 # :waffle: Classic Buttermilk Waffles

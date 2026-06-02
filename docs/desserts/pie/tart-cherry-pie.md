@@ -4,6 +4,7 @@ tags:
 
   - pie
   - dessert
+hero: assets/images/tart-cherry-pie.jpg
 ---
 
 # :pie: Tart Cherry Pie

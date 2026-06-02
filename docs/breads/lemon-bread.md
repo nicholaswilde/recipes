@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/lemon-bread.png
 ---
 
 # :lemon: Lemon Bread

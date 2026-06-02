@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - vegan
+hero: assets/images/tofu-mayonnaise.jpg
 ---
 
 # :egg: Tofu Mayonnaise

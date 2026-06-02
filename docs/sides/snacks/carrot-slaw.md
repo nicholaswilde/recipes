@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/carrot-slaw.png
 ---
 
 # :carrot: Carrot Slaw

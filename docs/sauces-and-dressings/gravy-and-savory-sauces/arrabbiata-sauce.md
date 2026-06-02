@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - dressing
+hero: assets/images/arrabbiata-sauce.jpg
 ---
 
 # :hot_pepper: Arrabbiata Sauce

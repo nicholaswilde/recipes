@@ -6,6 +6,7 @@ tags:
   - dessert
   - tart
   - recipe-box
+hero: assets/images/french-fruit-tart.jpg
 ---
 
 # :strawberry: French Fruit Tart

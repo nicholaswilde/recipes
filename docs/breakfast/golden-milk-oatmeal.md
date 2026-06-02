@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/golden-milk-oatmeal.jpg
 ---
 # :ear_of_rice: Golden Milk Oatmeal
 

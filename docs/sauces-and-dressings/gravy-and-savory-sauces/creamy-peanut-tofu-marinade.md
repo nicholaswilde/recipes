@@ -5,6 +5,7 @@ tags:
   - gluten-free
   - marinade
   - tofu
+hero: assets/images/creamy-peanut-tofu-marinade.jpg
 ---
 
 # Creamy Peanut Tofu Marinade

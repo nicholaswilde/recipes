@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/swiss-roll.jpg
 ---
 
 # :cake: Swiss Roll

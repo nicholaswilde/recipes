@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/brussels-sprouts-with-warm-honey-glaze.jpg
 ---
 
 # :leafy_green: Brussels Sprouts With Warm Honey Glaze

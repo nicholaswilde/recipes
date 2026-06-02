@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/the-best-sugar-cookies.jpg
 ---
 
 # :cookie: The Best Sugar Cookies

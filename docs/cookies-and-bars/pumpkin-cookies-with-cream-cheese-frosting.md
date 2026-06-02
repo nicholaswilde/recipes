@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/pumpkin-cookies-with-cream-cheese-frosting.png
 ---
 
 # :jack_o_lantern: Pumpkin Cookies with Cream Cheese Frosting

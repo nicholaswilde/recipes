@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - mexican
+hero: assets/images/guacamole.jpg
 ---
 
 # :avodado: Guacamole

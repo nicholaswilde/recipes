@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cookie
+hero: assets/images/twix.jpg
 ---
 
 # :cookie: Twix

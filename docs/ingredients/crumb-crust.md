@@ -4,6 +4,7 @@ tags:
 
   - joy-of-cooking
   - ingredient
+hero: assets/images/crumb-crust.jpg
 ---
 
 # :pie: Crumb Crust

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/classic-tartar-sauce.jpg
 ---
 
 # :fish: Classic Tartar Sauce

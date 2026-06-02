@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - cooks-illustrated
+hero: assets/images/yeasted-doughnuts.jpg
 ---
 
 # :doughnut: Yeasted Doughnuts

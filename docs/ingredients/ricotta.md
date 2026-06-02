@@ -5,6 +5,7 @@ tags:
   - ingredient
   - ina-garten
   - cheese
+hero: assets/images/ricotta.jpg
 ---
 
 # :cheese_wedge: Ricotta

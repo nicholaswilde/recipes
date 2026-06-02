@@ -5,6 +5,7 @@ tags:
   - taco
   - mexican
   - recipe-box
+hero: assets/images/tofu-tacos.jpg
 ---
 
 # :taco: Tofu Tacos

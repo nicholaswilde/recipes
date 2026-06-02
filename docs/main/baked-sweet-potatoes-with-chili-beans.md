@@ -4,6 +4,7 @@ tags:
 
   - main
   - sprouted-kitchen
+hero: assets/images/baked-sweet-potatoes-with-chili-beans.jpg
 ---
 
 # :sweet_potato: Baked Sweet Potatoes With Chili Beans

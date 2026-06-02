@@ -5,6 +5,7 @@ tags:
   - sauce
   - italian
   - the-new-york-times
+hero: assets/images/tomato-bruschetta.jpg
 ---
 
 # :tomato: Tomato Bruschetta

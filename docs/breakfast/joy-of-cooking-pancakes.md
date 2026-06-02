@@ -5,6 +5,7 @@ tags:
   - breakfast
   - pancake
   - joy-of-cooking
+hero: assets/images/joy-of-cooking-pancakes.jpg
 ---
 
 # :pancakes: Joy of Cooking Pancakes

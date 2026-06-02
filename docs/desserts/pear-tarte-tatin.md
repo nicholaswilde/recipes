@@ -5,6 +5,7 @@ tags:
   - dessert
   - gordon-ramsay
   - french
+hero: assets/images/pear-tarte-tatin.jpg
 ---
 
 # :pear: Pear Tarte Tatin

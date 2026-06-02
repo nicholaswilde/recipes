@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/queen-elizabeth-ii's-drop-scones.jpg
 ---
 
 # :pancakes: Queen Elizabeth II's Drop Scones

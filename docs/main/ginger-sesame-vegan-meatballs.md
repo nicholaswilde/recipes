@@ -4,6 +4,7 @@ tags:
 
   - meatball
   - main
+hero: assets/images/ginger-sesame-vegan-meatballs.jpg
 ---
 
 # :meat_on_bone: Ginger Sesame Vegan Meatballs

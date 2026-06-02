@@ -4,6 +4,7 @@ tags:
 
   - tart
   - dessert
+hero: assets/images/cranberry-curd-tart-with-almond-crust.jpg
 ---
 
 # :pie: Cranberry Curd Tart with Almond Crust

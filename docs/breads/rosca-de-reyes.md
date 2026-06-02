@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/rosca-de-reyes.jpg
 ---
 
 # Rosca de Reyes

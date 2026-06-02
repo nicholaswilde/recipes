@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg
 ---
 
 # :cookie: Peanut Butter Chocolate Chip Cookies Jessie Sheehan

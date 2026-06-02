@@ -4,6 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
+hero: assets/images/green-rice.jpg
 ---
 
 # :rice: Green Rice

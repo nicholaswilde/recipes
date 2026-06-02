@@ -6,6 +6,7 @@ tags:
   - rosemary
   - snack
   - vegetarian
+hero: assets/images/rosemary-spiced-nuts.jpg
 ---
 # :chestnut: Rosemary Spiced Nuts
 

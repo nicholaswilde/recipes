@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - kenji-lopez-alt
+hero: assets/images/chipotle-mayonnaise.jpg
 ---
 
 # :hot_pepper: Chipotle Mayonnaise

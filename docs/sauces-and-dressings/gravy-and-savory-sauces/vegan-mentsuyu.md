@@ -5,6 +5,7 @@ tags:
   - condiment
   - japanese
   - vegan
+hero: assets/images/vegan-mentsuyu.jpg
 ---
 
 # :wine_glass: Vegan Mentsuyu

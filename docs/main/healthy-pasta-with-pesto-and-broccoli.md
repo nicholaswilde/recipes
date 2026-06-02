@@ -6,6 +6,7 @@ tags:
   - italian
   - vegetarian
   - recipe-box
+hero: assets/images/healthy-pasta-with-pesto-and-broccoli.jpg
 ---
 
 # :broccoli: Healthy Pasta with Pesto & Broccoli

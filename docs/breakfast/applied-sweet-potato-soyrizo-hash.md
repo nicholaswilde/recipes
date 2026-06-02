@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/applied-sweet-potato-soyrizo-hash.jpg
 ---
 
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash

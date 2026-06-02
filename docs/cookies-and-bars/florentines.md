@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/florentines.jpg
 ---
 
 # :cookie: Florentines

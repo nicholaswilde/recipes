@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
+hero: assets/images/chocolate-mint-squares.jpg
 ---
 
 # :chocolate_bar: Chocolate Mint Squares

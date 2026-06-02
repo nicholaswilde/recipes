@@ -5,6 +5,7 @@ tags:
   - cookie
   - ina-garten
   - dessert
+hero: assets/images/shortbread.jpg
 ---
 
 # :flatbread: Shortbread

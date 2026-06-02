@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/thyme-and-white-bean-pot-pies.jpg
 ---
 # Thyme and White Bean Pot Pies
 

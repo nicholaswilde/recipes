@@ -6,6 +6,7 @@ tags:
   - ingredient
   - pasta
   - joy-of-cooking
+hero: assets/images/pasta.png
 ---
 
 # :spaghetti: Pasta

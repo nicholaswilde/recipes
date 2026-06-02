@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - king-arthur
+hero: assets/images/chocolate-pizzelle.jpg
 ---
 
 # :cookie: Chocolate Pizzelle

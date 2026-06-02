@@ -6,6 +6,7 @@ tags:
   - dessert
   - cooks-illustrated
   - favorite
+hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg
 ---
 
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies

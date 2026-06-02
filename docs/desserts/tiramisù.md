@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - cake
+hero: assets/images/tiramisù.jpg
 ---
 
 # :cake: Tiramisù

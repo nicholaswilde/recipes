@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/pumpkin-cream-cheese-muffins.jpg
 ---
 # :muffin: Pumpkin Cream Cheese Muffins
 

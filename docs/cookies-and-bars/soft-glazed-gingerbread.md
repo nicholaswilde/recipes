@@ -9,6 +9,7 @@ tags:
   - liz prueitt
   - the pancake princess
   - bake-off
+hero: assets/images/soft-glazed-gingerbread.jpg
 ---
 # :cookie: Soft Glazed Gingerbread
 

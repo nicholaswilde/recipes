@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg
 ---
 # Chocolate Mousse Pie with Joe-Joe's Crust
 

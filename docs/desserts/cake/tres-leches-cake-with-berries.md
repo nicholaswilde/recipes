@@ -6,6 +6,7 @@ tags:
   - cake
   - ina-garten
   - bake-off
+hero: assets/images/tres-leches-cake-with-berries.png
 ---
 
 # :cake: Tres Leches Cake with Berries

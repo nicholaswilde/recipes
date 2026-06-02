@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/unsweetened-applesauce.jpg
 ---
 
 # :green_apple: Unsweetened Applesauce

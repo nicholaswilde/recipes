@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - joy-of-cooking
+hero: assets/images/honey-mustard-vinaigrette.jpg
 ---
 
 # :honey_pot: Honey Mustard Vinaigrette

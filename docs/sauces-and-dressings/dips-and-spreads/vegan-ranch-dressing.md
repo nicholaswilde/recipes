@@ -4,6 +4,7 @@ tags:
 
   - dressing
   - vegan
+hero: assets/images/vegan-ranch-dressing.jpg
 ---
 
 # :herb: Vegan Ranch Dressing

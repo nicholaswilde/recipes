@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/guinness-chocolate-cake.jpg
 ---
 # Guinness Chocolate Cake
 

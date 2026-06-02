@@ -4,6 +4,7 @@ tags:
 
   - main
   - the-blue-zones-kitchen
+hero: assets/images/cabbage-and-sun-dried-tomato-sauté.jpg
 ---
 
 # :leafy_green: Cabbage & Sun-dried Tomato Sauté

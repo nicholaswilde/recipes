@@ -4,6 +4,7 @@ tags:
   - cookie
   - dessert
   - smitten kitchen
+hero: assets/images/confetti-cookies.jpg
 ---
 # Confetti Cookies
 

@@ -5,6 +5,7 @@ tags:
   - cookie
   - bake-off
   - dessert
+hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg
 ---
 
 # :jack_o_lantern: Brown Butter and Maple Chewy Pumpkin Cookies

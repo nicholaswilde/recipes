@@ -4,6 +4,7 @@ tags:
 
   - sauce
   - dressing
+hero: assets/images/all-purpose-vinaigrette.jpg
 ---
 
 # All-Purpose Vinaigrette

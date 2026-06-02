@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
+hero: assets/images/soyrizo-and-potato-empanadas.jpg
 ---
 
 # :dumpling: Soyrizo & Potato Empanadas

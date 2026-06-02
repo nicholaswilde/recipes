@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - muffins
+hero: assets/images/1-bowl-carrot-apple-muffins.jpg
 ---
 
 # :cupcake: 1-Bowl Carrot Apple Muffins

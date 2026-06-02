@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - main
+hero: assets/images/baked-black-bean-taquitos.jpg
 ---
 
 # :stuffed_flatbread: Baked Black Bean Taquitos

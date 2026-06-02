@@ -5,6 +5,7 @@ tags:
   - cookie
   - dorie-greenspan
   - dessert
+hero: assets/images/world-peace-cookies.jpg
 ---
 
 # :cookie: World Piece Cookies

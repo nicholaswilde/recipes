@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - cookie
+hero: assets/images/healthy-carrot-cookies.png
 ---
 
 # :carrot: Healthy Carrot Cookies

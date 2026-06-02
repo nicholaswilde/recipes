@@ -5,6 +5,7 @@ tags:
   - julia-child
   - cake
   - dessert
+hero: assets/images/reine-be-saba-(queen-of-sheba).jpg
 ---
 
 # :cake: Reine be Saba (Queen of Sheba)

@@ -5,6 +5,7 @@ tags:
   - asian
   - stir-fry
   - vegetarian
+hero: assets/images/simple-fried-rice.jpg
 ---
 
 # :rice: Simple Fried Rice

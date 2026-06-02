@@ -4,6 +4,7 @@ tags:
 
   - bites
   - applied-kitchen
+hero: assets/images/carrot-cake-protein-bites.jpg
 ---
 
 # :carrot: Carrot Cake Protein Bites

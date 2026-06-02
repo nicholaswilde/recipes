@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/kickstarter-garlic-mushrooms.jpg
 ---
 
 # :mushroom: Kickstarter Garlic Mushrooms

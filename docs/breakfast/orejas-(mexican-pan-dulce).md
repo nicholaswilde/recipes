@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - mexican
+hero: assets/images/orejas-(mexican-pan-dulce).jpg
 ---
 
 # :ear: Orejas (Mexican Pan Dulce)

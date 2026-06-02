@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - the-gracias-madre-cookbook
+hero: assets/images/vegan-empanada-pastry.jpg
 ---
 
 # :dumpling: Vegan Empanada Pastry

@@ -5,6 +5,7 @@ tags:
   - pie
   - dessert
   - joy-of-cooking
+hero: assets/images/buttermilk-chess-pie.png
 ---
 
 # :pie: Buttermilk Chess Pie

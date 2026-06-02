@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - the-cake-mix-doctor
+hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg
 ---
 
 # :cake: Bride's Cake with Raspberry Filling and White Chocolate Frosting

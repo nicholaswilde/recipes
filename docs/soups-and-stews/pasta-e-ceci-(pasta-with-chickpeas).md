@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg
 ---
 
 # :spaghetti: Pasta e Ceci (Pasta with Chickpeas)

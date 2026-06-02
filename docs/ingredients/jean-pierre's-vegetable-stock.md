@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/jean-pierre's-vegetable-stock.jpg
 ---
 
 # :stew: Jean Pierre's Vegetable Stock

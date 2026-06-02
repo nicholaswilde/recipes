@@ -5,6 +5,7 @@ tags:
   - salsa
   - mexican
   - the-gracias-madre-cookbook
+hero: assets/images/salsa-verde.jpg
 ---
 
 # :tomato: Salsa Verde

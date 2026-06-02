@@ -5,6 +5,7 @@ tags:
   - main
   - vegan
   - favorite
+hero: assets/images/vegan-salisbury-steak.jpg
 ---
 
 # :hamburger: Vegan Salisbury Steak

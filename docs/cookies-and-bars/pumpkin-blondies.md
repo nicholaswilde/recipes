@@ -7,6 +7,7 @@ tags:
   - dessert
   - pumpkin
   - fall
+hero: assets/images/pumpkin-blondies.jpg
 ---
 
 # Pumpkin Blondies

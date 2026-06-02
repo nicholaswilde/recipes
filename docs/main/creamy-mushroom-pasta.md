@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - jean-pierre
+hero: assets/images/creamy-mushroom-pasta.jpg
 ---
 
 # :spaghetti: Creamy Mushroom Pasta

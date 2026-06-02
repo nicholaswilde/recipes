@@ -5,6 +5,7 @@ tags:
   - spread
   - jam
   - condiment
+hero: assets/images/single-jar-of-fruit-jam.jpg
 ---
 
 # :strawberry: Single Jar of Fruit Jam

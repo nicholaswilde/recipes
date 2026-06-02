@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - dessert
+hero: assets/images/browned-butter-financiers.jpg
 ---
 
 # :cupcake: Browned Butter Financiers

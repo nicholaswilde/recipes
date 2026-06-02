@@ -5,6 +5,7 @@ tags:
   - sauce
   - vegan
   - nutrition-studies
+hero: assets/images/creamy-vegan-cheese-sauce.jpg
 ---
 
 # :cheese_wedge: Creamy Vegan Cheese Sauce

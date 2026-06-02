@@ -4,6 +4,7 @@ tags:
   - casserole
   - holiday
   - thanksgiving
+hero: assets/images/jiffy-corn-casserole.jpg
 ---
 
 # :corn: Jiffy Corn Casserole

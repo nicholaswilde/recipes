@@ -4,6 +4,7 @@ tags:
 
   - italian
   - pasta
+hero: assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.jpg
 ---
 
 # :spaghetti: Pea Pesto Pasta with Sun-Dried Tomatoes & Arugula

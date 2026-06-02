@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/tomato-sauce.jpg
 ---
 
 # :tomato: Tomato Sauce

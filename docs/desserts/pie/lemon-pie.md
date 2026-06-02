@@ -6,6 +6,7 @@ tags:
   - dessert
   - magnolia
   - favorite
+hero: assets/images/lemon-pie.jpg
 ---
 
 # :pie: Lemon Pie

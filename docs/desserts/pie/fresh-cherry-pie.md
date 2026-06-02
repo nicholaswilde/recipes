@@ -4,6 +4,7 @@ tags:
 
   - pie
   - dessert
+hero: assets/images/fresh-cherry-pie.jpg
 ---
 
 # :pie: Fresh Cherry Pie

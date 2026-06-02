@@ -5,6 +5,7 @@ tags:
   - cake
   - bake-off
   - sallys-baking-addiction
+hero: assets/images/apple-cake.jpg
 ---
 
 # :red_apple: Apple Cake

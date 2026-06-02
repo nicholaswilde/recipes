@@ -5,6 +5,7 @@ tags:
   - joy-of-cooking
   - glaze
   - ingredient
+hero: assets/images/lemon-glaze.jpg
 ---
 
 # :lemon: Lemon Glaze

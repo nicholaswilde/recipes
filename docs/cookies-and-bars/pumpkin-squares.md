@@ -4,6 +4,7 @@ tags:
   - bar
   - dessert
   - holiday
+hero: assets/images/pumpkin-squares.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Squares

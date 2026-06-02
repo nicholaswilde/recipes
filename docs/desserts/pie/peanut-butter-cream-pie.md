@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - pie
+hero: assets/images/peanut-butter-cream-pie.jpg
 ---
 
 # :peanuts: Peanut Butter Cream Pie

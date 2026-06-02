@@ -4,6 +4,7 @@ tags:
 
   - cookie
   - joy-of-cooking
+hero: assets/images/ladyfingers.png
 ---
 
 # :baguette_bread: Ladyfingers

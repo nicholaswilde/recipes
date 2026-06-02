@@ -5,6 +5,7 @@ tags:
   - lunch
   - minimalist-baker
   - sandwich
+hero: assets/images/chickpea-sunflower-sandwich.jpg
 ---
 
 # :sandwich: Chickpea Sunflower Sandwich

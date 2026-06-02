@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cooks-illustrated
+hero: assets/images/choco-taco.jpg
 ---
 
 # :taco: Choco Taco

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/honey-whipped-cream.jpg
 ---
 
 # :icecream: Honey Whipped Cream

@@ -6,6 +6,7 @@ tags:
   - dessert
   - cookie
   - recipe-box
+hero: assets/images/melomakarona.jpg
 ---
 
 # :cookie: Melomakarona

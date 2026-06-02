@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - minimalist-baker
+hero: assets/images/spicy-red-lentil-curry.jpg
 ---
 
 # :curry: Spicy Red Lentil Curry

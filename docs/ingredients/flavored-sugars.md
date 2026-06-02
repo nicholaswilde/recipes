@@ -4,6 +4,7 @@ tags:
 
   - cooks-illustrated
   - ingredient
+hero: assets/images/flavored-sugars.jpg
 ---
 
 # :candy: Flavored Sugars

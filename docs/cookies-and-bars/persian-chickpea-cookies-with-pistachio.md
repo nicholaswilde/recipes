@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - persian
+hero: assets/images/persian-chickpea-cookies-with-pistachio.jpg
 ---
 
 # :falafel: Persian Chickpea Cookies with Pistachio

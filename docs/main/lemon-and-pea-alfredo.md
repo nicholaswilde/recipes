@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+hero: assets/images/lemon-and-pea-alfredo.jpg
 ---
 
 # :spaghetti: Lemon & Pea Alfredo

@@ -5,6 +5,7 @@ tags:
   - asian
   - sauce
   - joy-of-cooking
+hero: assets/images/asian-sweet-and-sour-sauce.jpg
 ---
 
 # :takeout_box: Asian Sweet-&-Sour Sauce

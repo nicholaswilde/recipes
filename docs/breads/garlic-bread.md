@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/garlic-bread.jpg
 ---
 
 # :baguette_bread: Garlic Bread

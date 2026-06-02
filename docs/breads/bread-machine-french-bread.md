@@ -4,6 +4,7 @@ tags:
 
   - bread
   - bread-machine
+hero: assets/images/bread-machine-french-bread.jpg
 ---
 
 # :bread: Bread Machine French Bread

@@ -5,6 +5,7 @@ tags:
   - cake
   - dessert
   - american
+hero: assets/images/cream-cheese-pound-cake.jpg
 ---
 
 # :birthday: Cream Cheese Pound Cake

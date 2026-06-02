@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/sourdough-english-muffins.jpg
 ---
 
 # :bread: Sourdough English Muffins

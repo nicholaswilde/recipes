@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/queso-fresco.png
 ---
 
 # :cheese_wedge: Queso Fresco

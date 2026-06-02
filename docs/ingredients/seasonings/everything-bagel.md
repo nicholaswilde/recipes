@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/everything-bagel.png
 ---
 
 # :bagel: Everything Bagel

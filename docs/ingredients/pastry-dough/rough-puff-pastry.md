@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - pastry-dough
+hero: assets/images/rough-puff-pastry.jpg
 ---
 
 # :pie: Rough Puff Pastry

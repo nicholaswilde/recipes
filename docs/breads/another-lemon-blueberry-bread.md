@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/another-lemon-blueberry-bread.jpg
 ---
 
 # :lemon: Another Lemon Blueberry Bread

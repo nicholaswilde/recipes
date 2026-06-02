@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - gordon-ramsay
+hero: assets/images/gordon-ramsay-scrambled-eggs.jpg
 ---
 
 # :egg: Gordon Ramsay Scrambled Eggs

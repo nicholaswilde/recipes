@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - custard
+hero: assets/images/classic-crème-brûlée.jpg
 ---
 
 # :custard: Classic Crème Brûlée

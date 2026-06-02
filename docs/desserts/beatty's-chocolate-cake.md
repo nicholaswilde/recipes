@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/beatty's-chocolate-cake.jpg
 ---
 # Beatty's Chocolate Cake
 

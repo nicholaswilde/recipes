@@ -4,6 +4,7 @@ tags:
   - holiday
   - sauce
   - thanksgiving
+hero: assets/images/cranberry-sauce.jpg
 ---
 
 # :cherries: Cranberry Sauce

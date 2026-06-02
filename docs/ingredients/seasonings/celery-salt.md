@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - salt
+hero: assets/images/celery-salt.jpg
 ---
 
 # :leafy_green: Celery Salt

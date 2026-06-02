@@ -5,6 +5,7 @@ tags:
   - dessert
   - cheesecake
   - joy-of-cooking
+hero: assets/images/new-york-style-cheesecake.jpg
 ---
 
 # :pie: New York-Style Cheesecake

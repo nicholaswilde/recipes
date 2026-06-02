@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/mirepoix.jpg
 ---
 
 # :leafy_green: Mirepoix

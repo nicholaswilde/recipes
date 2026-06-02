@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - tart
+hero: assets/images/chocolate-tart.jpg
 ---
 
 # :chocolate_bar: Chocolate Tart

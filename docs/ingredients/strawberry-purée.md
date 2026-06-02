@@ -5,6 +5,7 @@ tags:
   - ingredient
   - puree
   - dominique-ansel
+hero: assets/images/strawberry-purée.jpg
 ---
 
 # :strawberry: Strawberry Purée

@@ -6,6 +6,7 @@ tags:
   - cranberry
   - dorie greenspan
   - holiday
+hero: assets/images/mini-cranberry-tarts.jpg
 ---
 # Mini Cranberry Tarts
 

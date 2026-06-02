@@ -4,6 +4,7 @@ tags:
 
   - main
   - burger
+hero: assets/images/veggie-burgers.jpg
 ---
 
 # :hamburger: Veggie Burgers

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/mom's-breakfast-potatoes.jpg
 ---
 
 # :potato: Mom's Breakfast Potatoes

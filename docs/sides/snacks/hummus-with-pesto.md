@@ -4,6 +4,7 @@ tags:
 
   - side
   - magnolia
+hero: assets/images/hummus-with-pesto.jpg
 ---
 
 # :herb: Hummus with Pesto

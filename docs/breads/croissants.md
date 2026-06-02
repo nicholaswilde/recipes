@@ -4,6 +4,7 @@ tags:
 
   - bread
   - paul-hollywood
+hero: assets/images/croissants.png
 ---
 
 # :croissant: Croissants

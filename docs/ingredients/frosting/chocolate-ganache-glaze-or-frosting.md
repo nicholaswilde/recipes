@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - joy-of-cooking
+hero: assets/images/chocolate-ganache-glaze-or-frosting.jpg
 ---
 
 # :chocolate_bar: Chocolate Ganache Glaze or Frosting

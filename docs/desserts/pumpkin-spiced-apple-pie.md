@@ -4,6 +4,7 @@ tags:
   - dessert
   - holiday
   - pie
+hero: assets/images/pumpkin-spiced-apple-pie.jpg
 ---
 
 # :pie: Pumpkin Spiced Apple Pie

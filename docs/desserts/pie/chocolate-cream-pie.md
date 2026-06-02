@@ -4,6 +4,7 @@ tags:
   - chocolate
   - pie
   - dessert
+hero: assets/images/chocolate-cream-pie.jpg
 ---
 # :pie: Chocolate Cream Pie
 

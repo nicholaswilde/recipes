@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - coulis
+hero: assets/images/roasted-red-pepper-coulis.jpg
 ---
 
 # :bell_pepper: Roasted Red Pepper Coulis

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - tofu
+hero: assets/images/pan-fried-tofu.jpg
 ---
 
 # :butter: Pan-Fried Tofu

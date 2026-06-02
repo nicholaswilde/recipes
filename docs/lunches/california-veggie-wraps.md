@@ -2,6 +2,7 @@
 comments: true
 tags:
   - lunch
+hero: assets/images/california-veggie-wraps.jpg
 ---
 # California Veggie Wraps
 

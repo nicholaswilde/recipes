@@ -4,6 +4,7 @@ tags:
 
   - soup
   - jean-pierre
+hero: assets/images/creamy-broccoli-bisque.jpg
 ---
 
 # :broccoli: Creamy Broccoli Bisque

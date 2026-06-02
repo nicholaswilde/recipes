@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/chili-verde.jpg
 ---
 
 # :stew: Chili Verde

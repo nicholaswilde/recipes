@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/victoria-sandwich-cake.png
 ---
 
 # :cake: Victoria Sandwich Cake

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - glaze
+hero: assets/images/miso-glaze.jpg
 ---
 
 # :ramen: Miso Glaze

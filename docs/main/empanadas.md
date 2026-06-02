@@ -4,6 +4,7 @@ tags:
 
   - mexican
   - tante-myrna-seccia
+hero: assets/images/empanadas.jpg
 ---
 
 # :dumpling: Empanadas

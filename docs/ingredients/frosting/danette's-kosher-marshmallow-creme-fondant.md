@@ -4,6 +4,7 @@ tags:
 
   - frosting
   - ingredient
+hero: assets/images/danette's-kosher-marshmallow-creme-fondant.png
 ---
 
 # :cake: Danette's Kosher Marshmallow Creme Fondant (DKF)

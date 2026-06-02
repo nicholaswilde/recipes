@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/the-casado-plate.jpg
 ---
 # The Casado Plate
 

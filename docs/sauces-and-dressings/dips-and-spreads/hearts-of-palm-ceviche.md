@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - the-blue-zones-kitchen
+hero: assets/images/hearts-of-palm-ceviche.jpg
 ---
 
 # :leafy_green: Hearts of Palm Ceviche

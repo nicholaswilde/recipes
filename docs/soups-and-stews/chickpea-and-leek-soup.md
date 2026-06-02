@@ -5,6 +5,7 @@ tags:
   - stew
   - chickpea
   - leek
+hero: assets/images/chickpea-and-leek-soup.jpg
 ---
 # Chickpea and Leek Soup
 

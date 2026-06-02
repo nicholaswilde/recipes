@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - trader-joes
+hero: assets/images/preposterously-peanut-butter-cup-cookies.png
 ---
 
 # :cookie: Preposterously Peanut Butter Cup Cookies

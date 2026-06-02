@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - king-arthur
+hero: assets/images/boston-cream-pie.jpg
 ---
 
 # :cake: Boston Cream Pie

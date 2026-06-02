@@ -6,6 +6,7 @@ tags:
   - dessert
   - cupcake-jemma
   - macaron
+hero: assets/images/salted-caramel-chocolate-macarons.jpg
 ---
 
 # :cookie: Salted Caramel Chocolate Macarons

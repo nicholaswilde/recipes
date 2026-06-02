@@ -6,6 +6,7 @@ tags:
   - pasta
   - mushrooms
   - teri-ann carty
+hero: assets/images/vegan-cacio-e-pepe.jpg
 ---
 # :spaghetti: Vegan Cacio e Pepe
 

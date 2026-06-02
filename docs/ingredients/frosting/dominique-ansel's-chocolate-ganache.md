@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - dominique-ansel
+hero: assets/images/dominique-ansel's-chocolate-ganache.jpg
 ---
 
 # :chocolate_bar: Dominique Ansel's Chocolate Ganache

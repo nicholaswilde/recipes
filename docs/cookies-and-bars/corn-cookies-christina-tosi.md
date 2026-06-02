@@ -4,6 +4,7 @@ tags:
   - cookie
   - milk-bar
   - bake-off
+hero: assets/images/corn-cookies-christina-tosi.jpg
 ---
 # Corn Cookies
 

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - mix
+hero: assets/images/onion-soup-mix.png
 ---
 
 # :onion: Onion Soup Mix

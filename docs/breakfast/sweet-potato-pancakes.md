@@ -4,6 +4,7 @@ tags:
 
   - breakfast
   - pancake
+hero: assets/images/sweet-potato-pancakes.png
 ---
 
 # :pancakes: Sweet Potato Pancakes

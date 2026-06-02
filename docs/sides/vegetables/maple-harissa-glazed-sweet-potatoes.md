@@ -4,6 +4,7 @@ tags:
 
   - side
   - trader-joes
+hero: assets/images/maple-harissa-glazed-sweet-potatoes.png
 ---
 
 # :sweet_potato: Maple Harissa Glazed Sweet Potatoes

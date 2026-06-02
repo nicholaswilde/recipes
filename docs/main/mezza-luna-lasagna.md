@@ -5,6 +5,7 @@ tags:
   - italian
   - pasta
   - trader-joes
+hero: assets/images/mezza-luna-lasagna.png
 ---
 
 # :spaghetti: Mezza Luna Lasagna

@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - the-gracias-madre-cookbook
+hero: assets/images/cilantro-almond-pesto.jpg
 ---
 
 # :herb: Cilantro Almond Pesto

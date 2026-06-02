@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
   - james-beard
+hero: assets/images/whole-orange-almond-cake.jpg
 ---
 
 # :tangerine: Whole Orange Almond Cake

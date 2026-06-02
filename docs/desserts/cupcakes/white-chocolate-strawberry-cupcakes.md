@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cupcake
+hero: assets/images/white-chocolate-strawberry-cupcakes.jpg
 ---
 
 # :cupcake: White Chocolate Strawberry Cupcakes

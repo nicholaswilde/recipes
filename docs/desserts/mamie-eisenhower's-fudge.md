@@ -5,6 +5,7 @@ tags:
   - fudge
   - dessert
   - bar
+hero: assets/images/mamie-eisenhower's-fudge.png
 ---
 
 # :chocolate_bar: Mamie Eisenhower's Fudge

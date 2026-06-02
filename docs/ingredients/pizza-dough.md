@@ -4,6 +4,7 @@ tags:
 
   - dough
   - ingredient
+hero: assets/images/pizza-dough.jpg
 ---
 
 # :pizza: Pizza Dough

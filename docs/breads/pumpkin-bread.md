@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - bread
+hero: assets/images/pumpkin-bread.jpg
 ---
 
 # :jack_o_lantern: Pumpkin Bread

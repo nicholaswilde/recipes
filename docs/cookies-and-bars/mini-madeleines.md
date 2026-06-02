@@ -6,6 +6,7 @@ tags:
   - dessert
   - french
   - dominique-ansel
+hero: assets/images/mini-madeleines.jpg
 ---
 
 # :shell: Mini Madeleines

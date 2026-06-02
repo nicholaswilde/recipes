@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/jane's-3,-2,-1-salad-dressing.jpg
 ---
 
 # :green_salad: Jane's 3, 2, 1 Salad Dressing

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - tart
+hero: assets/images/brioche-tart.jpg
 ---
 # :pie: Brioche Tart
 

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/bordeaux.jpg
 ---
 # :candy: Bordeaux
 

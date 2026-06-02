@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - magnolia
+hero: assets/images/basic-pesto.jpg
 ---
 
 # :herb: Basic Pesto

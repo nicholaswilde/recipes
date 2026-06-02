@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - lunch
+hero: assets/images/broccoli-salad.jpg
 ---
 
 # :broccoli: Broccoli Salad

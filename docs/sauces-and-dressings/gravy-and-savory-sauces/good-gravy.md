@@ -3,6 +3,7 @@ comments: true
 tags:
   - gravy
   - holiday
+hero: assets/images/good-gravy.jpg
 ---
 
 # :bowl_with_spoon: Good Gravy

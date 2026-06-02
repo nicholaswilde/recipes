@@ -6,6 +6,7 @@ tags:
   - italian
   - dessert
   - king-arthur
+hero: assets/images/traditional-italian-biscotti.jpg
 ---
 
 # :baguette_bread: Traditional Italian Biscotti

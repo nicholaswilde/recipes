@@ -4,6 +4,7 @@ tags:
 
   - julia-child
   - soup
+hero: assets/images/vichyssoise-(leek-and-potato-soup).jpg
 ---
 
 # :leafy_green: Vichyssoise (Leek & Potato Soup)

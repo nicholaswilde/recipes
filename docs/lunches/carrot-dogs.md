@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - nutrition-studies
+hero: assets/images/carrot-dogs.jpg
 ---
 
 # :hotdog: Carrot Dogs

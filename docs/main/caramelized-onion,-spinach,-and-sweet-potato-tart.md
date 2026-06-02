@@ -2,6 +2,7 @@
 comments: true
 tags:
   - tart
+hero: assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg
 ---
 # Caramelized Onion, Spinach, and Sweet Potato Tart
 

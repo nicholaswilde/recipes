@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - lunch
+hero: assets/images/superfood-power-bowl.jpg
 ---
 
 # :salad_bowl: Superfood Power Bowl

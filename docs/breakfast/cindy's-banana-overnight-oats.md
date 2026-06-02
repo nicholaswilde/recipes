@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/cindy's-banana-overnight-oats.jpg
 ---
 
 # :banana: Cindy's Banana Overnight Oats

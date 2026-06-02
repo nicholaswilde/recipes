@@ -5,6 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
+hero: assets/images/grammys-texas-sheet-cake.jpg
 ---
 
 # :cake: Grammys Texas Sheet Cake

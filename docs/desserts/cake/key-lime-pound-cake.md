@@ -5,6 +5,7 @@ tags:
   - cake
   - pound-cake
   - key-lime
+hero: assets/images/key-lime-pound-cake.jpg
 ---
 # Key Lime Pound Cake
 

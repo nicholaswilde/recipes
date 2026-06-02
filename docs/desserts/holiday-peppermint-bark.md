@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/holiday-peppermint-bark.jpg
 ---
 # Holiday Peppermint Bark
 

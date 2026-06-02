@@ -4,6 +4,7 @@ tags:
 
   - bread
   - copycat
+hero: assets/images/texas-roadhouse-rolls.jpg
 ---
 
 # :bread: Texas Roadhouse Rolls

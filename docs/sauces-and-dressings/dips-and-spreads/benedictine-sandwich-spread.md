@@ -4,6 +4,7 @@ tags:
 
   - spread
   - vegetarian
+hero: assets/images/benedictine-sandwich-spread.jpg
 ---
 
 # :cucumber: Benedictine Sandwich Spread

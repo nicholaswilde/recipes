@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/adas-polo-(persian-lentil-rice).jpg
 ---
 # Adas Polo (Persian Lentil Rice)
 

@@ -5,6 +5,7 @@ tags:
   - ingredient
   - pastry-dough
   - paul-hollywood
+hero: assets/images/sweet-pastry.png
 ---
 
 # :pie: Sweet Pastry

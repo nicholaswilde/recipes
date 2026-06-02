@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/rice-krispies.jpg
 ---
 
 # :bowl_with_spoon: Rice Krispies

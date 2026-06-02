@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dressing
+hero: assets/images/french-dressing.jpg
 ---
 
 # :green_salad: French Dressing

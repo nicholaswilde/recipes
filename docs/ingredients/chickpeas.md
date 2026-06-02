@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
+hero: assets/images/chickpeas.png
 ---
 
 # :falafel: Chickpeas

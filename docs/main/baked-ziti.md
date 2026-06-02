@@ -4,6 +4,7 @@ tags:
   - holiday
   - italian
   - pasta
+hero: assets/images/baked-ziti.jpg
 ---
 
 # :spaghetti: Baked Ziti

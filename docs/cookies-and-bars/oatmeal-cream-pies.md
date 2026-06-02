@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - broma-bakery
+hero: assets/images/oatmeal-cream-pies.png
 ---
 
 # :cookie: Oatmeal Cream Pies

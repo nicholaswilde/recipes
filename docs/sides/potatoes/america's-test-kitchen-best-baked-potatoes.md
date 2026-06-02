@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/america's-test-kitchen-best-baked-potatoes.jpg
 ---
 
 # :potato: America's Test Kitchen Best Baked Potatoes

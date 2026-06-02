@@ -4,6 +4,7 @@ tags:
 
   - disney
   - dessert
+hero: assets/images/disney's-frozen-pineapple-treat.jpg
 ---
 
 # :pineapple: Disney's Frozen Pineapple Treat

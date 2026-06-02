@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - seasoning
+hero: assets/images/vegan-chicken-less-seasoning-salt.jpg
 ---
 
 # :salt: Vegan Chicken-Less Seasoning Salt

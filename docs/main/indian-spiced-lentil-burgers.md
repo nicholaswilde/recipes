@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/indian-spiced-lentil-burgers.jpg
 ---
 # Indian Spiced Lentil Burgers
 

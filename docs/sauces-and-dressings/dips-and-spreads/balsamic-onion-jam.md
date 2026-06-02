@@ -4,6 +4,7 @@ tags:
 
   - jam
   - canning
+hero: assets/images/balsamic-onion-jam.jpg
 ---
 
 # :onion: Balsamic Onion Jam

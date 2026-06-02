@@ -5,6 +5,7 @@ tags:
   - dressing
   - mexican
   - nutrition-studies
+hero: assets/images/mexicrema-dressing.jpg
 ---
 
 # :avocado: Mexicrema Dressing

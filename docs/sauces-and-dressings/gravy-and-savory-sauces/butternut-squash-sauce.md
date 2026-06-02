@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - sauce
+hero: assets/images/butternut-squash-sauce.jpg
 ---
 
 # :sweet_potato: Butternut Squash Sauce

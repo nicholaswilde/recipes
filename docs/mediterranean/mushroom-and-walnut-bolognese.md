@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - the-blue-zones-kitchen
+hero: assets/images/mushroom-and-walnut-bolognese.jpg
 ---
 
 # Mushroom and Walnut Bolognese

@@ -5,6 +5,7 @@ tags:
   - breakfast
   - pancake
   - jamie-oliver
+hero: assets/images/blueberry-smoothie-pancakes.jpg
 ---
 
 # :pancakes: Blueberry Smoothie Pancakes

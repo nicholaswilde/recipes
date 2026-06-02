@@ -4,6 +4,7 @@ tags:
 
   - bread
   - king-arthur
+hero: assets/images/potato-bread.jpg
 ---
 
 # :potato: Potato Bread

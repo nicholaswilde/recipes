@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - sandwich
+hero: assets/images/bourbon-grilled-cheese.jpg
 ---
 
 # :sandwich: Bourbon Grilled Cheese

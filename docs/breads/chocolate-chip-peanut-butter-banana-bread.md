@@ -4,6 +4,7 @@ tags:
 
   - bread
   - recipe-box
+hero: assets/images/chocolate-chip-peanut-butter-banana-bread.jpg
 ---
 
 # :bread: Chocolate Chip Peanut Butter Banana Bread

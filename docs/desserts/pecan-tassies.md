@@ -6,6 +6,7 @@ tags:
   - cookie
   - southern-living
   - holiday
+hero: assets/images/pecan-tassies.jpg
 ---
 # :chestnut: Pecan Tassies
 

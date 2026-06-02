@@ -4,6 +4,7 @@ tags:
 
   - trader-joes
   - main
+hero: assets/images/crispy-chicken-less-sliders.png
 ---
 
 # :hamburger: Crispy Chicken-less Sliders

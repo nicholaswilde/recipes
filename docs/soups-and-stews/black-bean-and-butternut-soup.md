@@ -4,6 +4,7 @@ tags:
   - soups-and-stews
 comments: true
 
+hero: assets/images/black-bean-and-butternut-soup.jpg
 ---
 
 # :stew: Black Bean & Butternut Soup

@@ -5,6 +5,7 @@ tags:
   - baking
   - staples
   - homemade
+hero: assets/images/baking-powder.jpg
 ---
 # Baking Powder
 

@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - indonesian
+hero: assets/images/lemper.jpg
 ---
 
 # :burrito: Lemper

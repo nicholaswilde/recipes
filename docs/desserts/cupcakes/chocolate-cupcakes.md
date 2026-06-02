@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cupcake
+hero: assets/images/chocolate-cupcakes.jpg
 ---
 
 # :cupcake: Chocolate Cupcakes

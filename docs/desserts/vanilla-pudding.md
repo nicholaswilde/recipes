@@ -4,6 +4,7 @@ tags:
   - desserts
 comments: true
 
+hero: assets/images/vanilla-pudding.jpg
 ---
 
 # :icecream: Vanilla Pudding

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg
 ---
 # Slow Cooker Vegetarian Black-Eyed Peas
 

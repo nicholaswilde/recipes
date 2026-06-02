@@ -5,6 +5,7 @@ tags:
   - main
   - pot-pie
   - trader-joes
+hero: assets/images/curry-chicken-pot-pie.png
 ---
 
 # :pie: Curry Chicken Pot Pie

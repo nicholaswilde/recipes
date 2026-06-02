@@ -5,6 +5,7 @@ tags:
   - mexican
   - taco
   - minimalist-baker
+hero: assets/images/roasted-cauliflower-tacos-with-chipotle-romesco.jpg
 ---
 
 # :taco: Roasted Cauliflower Tacos with Chipotle Romesco

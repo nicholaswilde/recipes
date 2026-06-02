@@ -5,6 +5,7 @@ tags:
   - mexican
   - sauce
   - cooks-illustrated
+hero: assets/images/aji-verde.jpg
 ---
 
 # :hot_pepper: Aji Verde

@@ -4,6 +4,7 @@ tags:
 
   - bar
   - dessert
+hero: assets/images/peanut-butter-bars-with-salted-chocolate-ganache.jpg
 ---
 
 # :peanuts: Peanut Butter Bars with Salted Chocolate Ganache

@@ -4,6 +4,7 @@ tags:
 
   - ingredient
   - flour
+hero: assets/images/rice-flour.jpg
 ---
 
 # :rice: Rice Flour

@@ -4,6 +4,7 @@ tags:
 
   - joy-of-cooking
   - ingredient
+hero: assets/images/vegetable-broth.jpg
 ---
 
 # :stew: Vegetable Broth

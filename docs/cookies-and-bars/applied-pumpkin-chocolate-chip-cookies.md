@@ -5,6 +5,7 @@ tags:
   - cookie
   - applied-kitchen
   - dessert
+hero: assets/images/applied-pumpkin-chocolate-chip-cookies.jpg
 ---
 
 # Applied Pumpkin Chocolate Chip Cookies

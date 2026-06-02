@@ -4,6 +4,7 @@ tags:
 
   - bread
   - bread-machine
+hero: assets/images/bread-machine-italian-parmesan.jpg
 ---
 
 # :bread: Bread Machine Italian Parmesan

@@ -5,6 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - dominique-ansel
+hero: assets/images/chocolate-biscuit.jpg
 ---
 
 # :cake: Chocolate Biscuit

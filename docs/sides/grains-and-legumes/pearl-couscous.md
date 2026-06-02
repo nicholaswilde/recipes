@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - side
+hero: assets/images/pearl-couscous.jpg
 ---
 
 # :shallow_pan_of_food: Pearl Couscous

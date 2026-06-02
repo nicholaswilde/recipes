@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - holiday
+hero: assets/images/libby's-famous-pumpkin-pie.jpg
 ---
 
 # :pie: Libby's Famous Pumpkin Pie

@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - indian
+hero: assets/images/gulab-jambu.jpg
 ---
 
 # :doughnut: Gulab Jambu

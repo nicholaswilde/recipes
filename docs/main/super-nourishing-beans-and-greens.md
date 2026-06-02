@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/super-nourishing-beans-and-greens.jpg
 ---
 # Super Nourishing Beans and Greens
 

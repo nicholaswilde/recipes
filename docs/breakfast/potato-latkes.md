@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - breakfast
+hero: assets/images/potato-latkes.jpg
 ---
 
 # :potato: Potato Latkes

@@ -4,6 +4,7 @@ tags:
 
   - italian
   - recipe-box
+hero: assets/images/baked-cream-cheese-spaghetti-casserole.jpg
 ---
 
 # :spaghetti: Baked Cream Cheese Spaghetti Casserole

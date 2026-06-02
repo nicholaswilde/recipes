@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - beverage
+hero: assets/images/olde-tyme-lemonade.jpg
 ---
 
 # :lemon: Olde Tyme Lemonade

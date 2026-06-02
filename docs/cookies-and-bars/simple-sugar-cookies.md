@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - king-arthur
+hero: assets/images/simple-sugar-cookies.jpg
 ---
 
 # :cookie: Simple Sugar Cookies

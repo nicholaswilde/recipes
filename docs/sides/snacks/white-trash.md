@@ -1,3 +1,6 @@
+---
+hero: assets/images/white-trash.jpg
+---
 # White Trash
 
 ![White Trash](../../assets/images/white-trash.jpg){ loading=lazy }

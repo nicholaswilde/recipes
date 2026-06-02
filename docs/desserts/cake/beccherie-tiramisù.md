@@ -4,6 +4,7 @@ tags:
 
   - dessert
   - cake
+hero: assets/images/beccherie-tiramisù.jpg
 ---
 
 # :cake: Beccherie Tiramisù

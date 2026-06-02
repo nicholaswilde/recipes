@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - dessert
+hero: assets/images/pouding-chomeur-with-pure-maple-sauce.jpg
 ---
 
 # :custard: Pouding Chômeur with Pure Maple Sauce

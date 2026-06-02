@@ -4,6 +4,7 @@ tags:
   - sides
 comments: true
 
+hero: assets/images/pommes-dauphine.jpg
 ---
 
 # :potato: Pommes Dauphine

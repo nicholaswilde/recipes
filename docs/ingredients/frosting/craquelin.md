@@ -5,6 +5,7 @@ tags:
   - frosting
   - ingredient
   - cupcake-jemma
+hero: assets/images/craquelin.jpg
 ---
 
 # :cupcake: Craquelin

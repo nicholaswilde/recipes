@@ -4,6 +4,7 @@ tags:
 
   - lunch
   - wrap
+hero: assets/images/veggie-rainbow-wrap.png
 ---
 
 # :rainbow: Veggie Rainbow Wrap

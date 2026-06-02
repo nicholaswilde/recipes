@@ -5,6 +5,7 @@ tags:
   - dessert
   - pie
   - grandma-beatrice-wilde
+hero: assets/images/butterfinger-ice-cream-pie.jpg
 ---
 
 # :pie: Butterfinger Ice Cream Pie

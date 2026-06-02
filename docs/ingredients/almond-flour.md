@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/almond-flour.jpg
 ---
 
 # :chestnut: Almond Flour

@@ -4,6 +4,7 @@ tags:
 
   - seasoning
   - ingredient
+hero: assets/images/espresso-powder.jpg
 ---
 
 # Espresso Powder

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/zucchini-pasta-with-lentil-bolognese.jpg
 ---
 # Zucchini Pasta with Lentil Bolognese
 

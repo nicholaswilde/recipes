@@ -9,6 +9,7 @@ tags:
   - dressing
   - favorite
   - julia-turshen
+hero: assets/images/pizzeria-vinaigrette.jpg
 ---
 
 # Pizzeria Vinaigrette

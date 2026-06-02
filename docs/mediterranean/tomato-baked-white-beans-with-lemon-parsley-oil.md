@@ -4,6 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
+hero: assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg
 ---
 
 # :tomato: Tomato Baked White Beans with Lemon Parsley Oil

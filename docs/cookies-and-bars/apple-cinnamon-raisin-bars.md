@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
   - recipe-box
+hero: assets/images/apple-cinnamon-raisin-bars.jpg
 ---
 
 # :apple: Apple Cinnamon Raisin Bars

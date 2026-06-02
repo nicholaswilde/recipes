@@ -5,6 +5,7 @@ tags:
   - cookie
   - bakewise
   - dessert
+hero: assets/images/cracked-surface-crunchy-gingersnaps.jpg
 ---
 
 # :cookie: Cracked-Surface Crunchy Gingersnaps

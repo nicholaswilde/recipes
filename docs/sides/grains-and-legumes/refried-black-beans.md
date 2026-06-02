@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
+hero: assets/images/refried-black-beans.jpg
 ---
 
 # :potato: Refried Black Beans

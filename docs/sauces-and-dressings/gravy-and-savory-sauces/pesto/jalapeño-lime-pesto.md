@@ -5,6 +5,7 @@ tags:
   - sauce
   - pesto
   - magnolia
+hero: assets/images/jalapeño-lime-pesto.jpg
 ---
 
 # :herb: Jalapeño Lime Pesto

@@ -5,6 +5,7 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
+hero: assets/images/molasses-spice-cookies.jpg
 ---
 
 # :cookie: Molasses Spice Cookies
