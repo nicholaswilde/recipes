@@ -9,9 +9,9 @@ tags:
   - the pancake princess
   - bake-off
 ---
-# :cookie: Chocolate Crinkle Cookies (Maura Kilpatrick)
+# :cookie: Earthquake Chocolate Crinkle Cookies
 
-![Chocolate Crinkle Cookies (Maura Kilpatrick)][1]{ loading=lazy }
+![Earthquake Chocolate Crinkle Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -93,4 +93,4 @@ Cool completely on the :cookie: baking sheet.
 - <https://newengland.com/food/desserts/earthquake-chocolate-crinkle-cookies/>
 - <https://www.thepancakeprincess.com/2023/12/12/best-chocolate-crinkle-cookie-bake-off/>
 
-[1]: <../assets/images/chocolate-crinkle-cookies-(maura-kilpatrick).jpg>
+[1]: <../assets/images/earthquake-chocolate-crinkle-cookies.jpg>
