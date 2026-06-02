@@ -4,6 +4,7 @@ tags:
 
   - side
   - gordon-ramsay
+hero: assets/images/cheese-soufflé.jpg
 ---
 
 # :cheese_wedge: Cheese Soufflé
