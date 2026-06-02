@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-
   - pastry-dough
   - ingredient
   - claire-saffitz
+  - king-arthur
 hero: assets/images/pâte-brisée.jpg
 ---
 
-# :pie: Pâte Brisée
+# :pie: Pâte Brisée (All-Purpose Flaky Pastry Dough)
 
 ![Pâte Brisée][1]{ loading=lazy }
 
