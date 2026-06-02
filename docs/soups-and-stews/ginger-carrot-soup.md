@@ -12,9 +12,9 @@ tags:
   - gluten-free
 ---
 
-# :stew: Julia Turshen's Ginger Carrot Soup
+# :stew: Ginger Carrot Soup
 
-![Julia Turshen's Ginger Carrot Soup][1]{ loading=lazy }
+![Ginger Carrot Soup][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -62,4 +62,4 @@ taste with salt and serve hot, topped with chili oil.
 
 - What Goes with What by Julia Turshen
 
-[1]: <../assets/images/julia-turshen's-ginger-carrot-soup.jpg>
+[1]: <../assets/images/ginger-carrot-soup.jpg>
