@@ -8,7 +8,7 @@
 
 ## Frontend
 
-- **MkDocs Material:** The underlying theme for Zensical, providing a responsive and modern UI.
+- **MkDocs:** The underlying static site generator.
 - **Custom CSS/JS:** Utilized for specific styling and MathJax support for mathematical notations (if needed).
 
 ## Tools and Automation

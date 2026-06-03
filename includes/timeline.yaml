@@ -11,13 +11,13 @@
   icon: ":fontawesome-solid-divide:"
   sub_title: 10:45 a.m.
 - title: Proof
-  icon: ":material-rice:"
+  icon: ":fontawesome-solid-bowl-rice:"
   sub_title: 11:00 a.m.
 - title: Bake
   sub_title: 12:00 p.m.
-  icon: ":material-toaster-oven:"
+  icon: ":fontawesome-solid-fire-burner:"
 - title: Rest
   sub_title: 12:30 p.m.
-  icon: ":material-bed:"
+  icon: ":fontawesome-solid-bed:"
 
 # ::/timeline::

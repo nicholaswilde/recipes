@@ -738,7 +738,6 @@ miso-glazed
 Miso-Glazed
 Mixiote
 MkDocs
-mkdocs-material
 moldable
 Monde
 Montélimar

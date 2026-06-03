@@ -68,7 +68,7 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 ::timeline::
 
 - title: Levain
-  icon: ":material-bowl:"
+  icon: ":fontawesome-solid-bowl-food:"
   sub_title: 9:00 p.m.
 
 - title: Autolyse
@@ -96,16 +96,16 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
   sub_title: 12:20 p.m.
 
 - title: Proof
-  icon: ":material-rice:"
+  icon: ":fontawesome-solid-bowl-rice:"
   sub_title: 12:45 p.m.
 
 - title: Bake
   sub_title: 2:45 p.m.
-  icon: ":material-toaster-oven:"
+  icon: ":fontawesome-solid-fire-burner:"
 
 - title: Rest
   sub_title: 3:30 p.m.
-  icon: ":material-bed:"
+  icon: ":fontawesome-solid-bed:"
 
 ::/timeline::
 

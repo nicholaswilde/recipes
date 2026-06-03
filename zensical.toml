@@ -1287,38 +1287,7 @@ social = [
 ]
 
 [project.theme]
-name = "material"
-custom_dir = "overrides"
-favicon = "assets/images/favicon.svg"
-features = [
-    "navigation.tracking",
-    "navigation.top",
-    "navigation.footer",
-    "content.code.copy",
-    "content.action.edit", # Edit this page
-    "content.action.view", # View source of this page
-]
-
-[project.theme.icon]
-repo = "fontawesome/brands/github"
-logo = "fontawesome/solid/bowl-rice"
-
-[[project.theme.palette]]
-media = "(prefers-color-scheme: light)"
-scheme = "default"
-
-[project.theme.palette.toggle]
-icon = "material/toggle-switch-off-outline"
-name = "Switch to dark mode"
-
-[[project.theme.palette]]
-media = "(prefers-color-scheme: dark)"
-scheme = "slate"
-
-[project.theme.palette.toggle]
-icon = "material/toggle-switch"
-name = "Switch to light mode"
-
+name = "mkdocs"
 [markdown]
 extensions = [
     "neoteroi.timeline",
@@ -1328,7 +1297,7 @@ extensions = [
     "admonition",
     "tables",
     { "pymdownx.arithmatex" = { generic = true } },
-    { "pymdownx.emoji" = { emoji_index = "material.extensions.emoji.twemoji", emoji_generator = "material.extensions.emoji.to_svg" } },
+    { "pymdownx.emoji" = { emoji_index = "pymdownx.emoji.twemoji", emoji_generator = "pymdownx.emoji.to_svg" } },
     { "pymdownx.highlight" = { anchor_linenums = true } },
     "pymdownx.inlinehilite",
     "pymdownx.snippets",

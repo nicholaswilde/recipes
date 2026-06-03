@@ -38,11 +38,6 @@ tasks:
     cmds:
       - gemini -m gemini-{{ .VER }}-flash
 
-  build:
-    desc: Build mkdocs-material Dockerfile
-    cmds:
-      - docker build -t ghcr.io/nicholaswilde/mkdocs-material .
-
   linkspector:
     desc: linkspector
     cmds:
@@ -84,7 +79,6 @@ tasks:
     desc: Update docker images
     cmds:
       - docker image pull mikefarah/yq
-      - docker image pull squidfunk/mkdocs-material
   linkcheck:
     desc: Check for dead links using lychee
     cmds:

@@ -34,7 +34,7 @@ graph TD
   J[Move markdown file to ./docs/category];
   K[Copy image to ./docs/assets/images<br/>with same base file name as markdown file];
   L[Add markdown file to mkdocs.yaml];
-  M[Locally run mkdocs to test mkdocs-material];
+  M[Locally run mkdocs to test site];
   N[Commit and push to repo];
   O{Is the file<br />correct?};
   P[Edit cook file];
@@ -190,13 +190,6 @@ brew install nicholaswilde/tap/cook-docs
 /recipes/cook/category$ cook-docs
 ```
 
-### :book: [Material for MkDocs][6]
-
-Used as theme for static site.
-
-```shell title="Installation"
-pip install mkdocs-material mkdocs-minify-plugin
-```
 
 ### :book: [MkDocs][7]
 
@@ -354,7 +347,6 @@ Website used to search for emoji contexts.
 [3]: <https://nicholaswilde.io/cook-docs/>
 [4]: <https://emojipedia.org/>
 [5]: <https://emojicombos.com/>
-[6]: <https://squidfunk.github.io/mkdocs-material/>
 [7]: <https://www.mkdocs.org/>
 [8]: <https://taskfile.dev/>
 [9]: <https://github.com/tbroadley/spellchecker-cli>

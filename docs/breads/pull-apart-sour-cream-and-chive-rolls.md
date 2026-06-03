@@ -98,20 +98,20 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.jpg
   sub_title: 10:45 a.m.
 
 - title: "Shape"
-  icon: ":material-shape:"
+  icon: ":fontawesome-solid-shapes:"
   sub_title: 11:00 a.m.
 
 - title: Proof
-  icon: ":material-rice:"
+  icon: ":fontawesome-solid-bowl-rice:"
   sub_title: 11:15 a.m.
 
 - title: Bake
   sub_title: 12:15 p.m.
-  icon: ":material-toaster-oven:"
+  icon: ":fontawesome-solid-fire-burner:"
 
 - title: Rest
   sub_title: 12:45 p.m.
-  icon: ":material-bed:"
+  icon: ":fontawesome-solid-bed:"
 
 ::/timeline::
 
