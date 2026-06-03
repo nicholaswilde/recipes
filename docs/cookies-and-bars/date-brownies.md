@@ -5,7 +5,7 @@ tags:
   - bar
   - dessert
 ---
-# Date Brownies
+# :chocolate_bar: Date Brownies
 
 ![Date Brownies][1]{ loading=lazy }
 
@@ -15,25 +15,25 @@ tags:
 
 ## :salt: Ingredients
 
-- 1 cup Medjool dates
-- 1 cup hot water
-- 3 Tbsp soaking water
-- 0.33 cup rolled oats
-- 3 Tbsp olive oil
-- 2 eggs
-- 1 tsp vanilla extract
-- 0.25 cup unsweetened cocoa powder
-- 0.5 tsp sea salt
-- 1 cup dark chocolate chips
-- 0.25 cup dark chocolate chips
-- some sea salt
+- :grapes: 1 cup (149 g) Medjool dates
+- :droplet: 1 cup (227 g) hot water
+- :droplet: 3 Tbsp (43 g) soaking water
+- :ear_of_rice: 0.33 cup (33 g) rolled oats
+- :olive: 3 Tbsp (38 g) olive oil
+- :egg: 2 eggs
+- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :chocolate_bar: 0.25 cup (21 g) unsweetened cocoa powder
+- :salt: 0.5 tsp (3 g) sea salt
+- :chocolate_bar: 1 cup (177 g) dark chocolate chips
+- :chocolate_bar: 0.25 cup (44 g) dark chocolate chips
+- :salt: some sea salt
 
 ## :cooking: Cookware
 
-- 1 8x8-inch baking pan
-- 1 parchment paper
-- 1 blender or food processor
-- 1 microwave
+- :cookie: 1 8x8-inch baking pan
+- :page_facing_up: 1 parchment paper
+- :gear: 1 blender or food processor
+- :gear: 1 microwave
 
 ## :pencil: Instructions
 
