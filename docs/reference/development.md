@@ -45,7 +45,7 @@ graph TD
   V{Is the image<br/>format webp?};
   W[Convert the image<br/>to png using dwebp];
   X[Check spelling using<br/>spellchecker-cli];
-  Y[Check markdown links<br/>using markdown-link-check];
+  Y[Check markdown links and styling<br/>using lychee and rumdl];
   Z{What is the<br/>origin of the recipe?};
   AB{What type of device<br/>is being used?}
   AC[Use the GitHub mobile app<br/>to create an issue]
@@ -104,7 +104,7 @@ graph TD
   click H "#cook-docs"
   click U "https://github.com/nicholaswilde/recipes/blob/main/.github/workflows/ci.yaml"
   click X "#spellchecker-cli"
-  click Y "#markdown-link-check"
+  click Y "#lychee"
 ```
 
 ## :hammer_and_wrench: Tools
@@ -264,12 +264,16 @@ echo "word to add" >> dictionary.txt
     sort dictionary.txt -u -o dictionary.txt
     ```
 
-### :link: [markdown-link-check][10]
+### :link: [Lychee][10]
 
 Used to check documentation links.
 
 ```shell title="Installation"
-npm install -g markdown-link-check
+# Via Homebrew
+brew install lychee
+
+# Via Cargo
+cargo install lychee
 ```
 
 === "Task"
@@ -278,17 +282,31 @@ npm install -g markdown-link-check
     task linkcheck
     ```
 
-=== "Script"
+=== "Manual"
 
     ```shell title="Usage"
-    chmod +x ./scripts/linkcheck.sh
-    ./scripts/linkcheck.sh
+    lychee docs/
     ```
 
-=== "Docker"
+### :page_with_curl: [rumdl][17]
+
+Used to lint and format Markdown files.
+
+```shell title="Installation"
+# Via Cargo
+cargo install rumdl
+```
+
+=== "Task"
 
     ```shell title="Usage"
-    docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp/path/to/file" -c "/tmp{{ .ROOT_DIR }}/mlc_config.json"
+    task markdownlint
+    ```
+
+=== "Manual"
+
+    ```shell title="Usage"
+    rumdl check .
     ```
 
 ### :robot: [Google Antigravity CLI][15]
@@ -340,10 +358,11 @@ Website used to search for emoji contexts.
 [7]: <https://www.mkdocs.org/>
 [8]: <https://taskfile.dev/>
 [9]: <https://github.com/tbroadley/spellchecker-cli>
-[10]: <https://github.com/tcort/markdown-link-check>
+[10]: <https://github.com/lycheeverse/lychee>
 [11]: <https://github.com/cooklang/cook-import>
 [12]: <https://github.com/nicholaswilde/cooklang-micro>
 [13]: <https://micro-editor.github.io/>
 [14]: <https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions>
 [15]: <https://github.com/google-gemini/antigravity-cli>
 [16]: <https://github.com/run-llama/liteparse>
+[17]: <https://github.com/rvben/rumdl>
