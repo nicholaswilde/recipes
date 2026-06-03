@@ -3,32 +3,33 @@ comments: true
 tags:
   - main
 ---
-# Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon
+# :shallow_pan_of_food: Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon
 
 ![Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 20 minutes |
+|:----------------------------------:|:------------------------:|
+| 4                                  | 20 minutes               |
 
 ## :salt: Ingredients
 
-- 1 bunch broccolini
-- 1 pint grape tomatoes
-- 1 small red onion
-- 0.5 lemon
-- 3 Tbsp olive oil
-- 1 tsp ground cumin
-- 0.5 tsp red-pepper flakes
-- some kosher salt
-- some black pepper
-- 2 blocks feta
-- some cooked orzo or farro
-- some olive oil
-- 0.5 lemon
-- 0.5 cup fresh basil or cilantro
+- :broccoli: 1 bunch broccolini, ends trimmed (or broccoli cut into bite-size pieces)
+- :tomato: 1 pint (approx. 340 g) grape tomatoes
+- :tea: 1 small red onion, cut into 2-inch wedges
+- :tangerine: 1 lemon, halved (1/2 sliced into thin rounds, 1/2 left intact for squeezing)
+- :olive: 3 Tbsp (38 g) olive oil, plus more for serving
+- :chestnut: 1 tsp ground cumin
+- :hot_pepper: 1/2 tsp red-pepper flakes
+- :salt: kosher salt, to taste
+- :salt: freshly ground black pepper, to taste
+- :cheese_wedge: 2 blocks (6 to 8 oz / 170 to 225 g each) feta
+- :ear_of_rice: cooked orzo or farro, for serving
+- :herb: 1/2 cup (21 g) chopped fresh basil or cilantro
 
 ## :cooking: Cookware
+
+- :cookie: 1 sheet pan
+- :knife: 1 fork
 
 ## :pencil: Instructions
 
@@ -74,4 +75,3 @@ Top with fresh basil or cilantro (leaves and fine stems, roughly chopped, option
 - <https://cooking.nytimes.com/recipes/1021277-sheet-pan-baked-feta-with-broccolini-tomatoes-and-lemon>
 
 [1]: <../assets/images/sheet-pan-baked-feta-with-broccolini,-tomatoes-and-lemon.jpg>
-

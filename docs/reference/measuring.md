@@ -194,6 +194,8 @@ $$
 | First Clear Flour                                     | 1 cup             | 106         | 3-3/4       |
 | Flax Meal                                             | 1/2 cup           | 50          | 1-3/4       |
 | Flaxseed                                              | 1/4 cup           | 35          | 1-1/4       |
+| Fresh Basil                                           | 1/2 cup           | 21          | 3/4         |
+| Fresh Cilantro                                        | 1/2 cup           | 21          | 3/4         |
 | Garlic (cloves, in skin for roasting)                 | 1 large head      | 113         | 4           |
 | Garlic (minced)                                       | 2 Tbsps           | 28          | 1           |
 | Garlic (peeled and sliced)                            | 1 cup             | 149         | 5-1/4       |
