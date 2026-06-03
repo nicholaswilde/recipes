@@ -1,17 +1,28 @@
 # /zensical-fix
 
-Validate the Zensical project and fix common issues found during build.
+Validate the Zensical project and automatically fix issues found during validation and build.
 
 ## Description
-This skill validates the Zensical configuration and automatically or systematically fixes any issues found during the build process.
+This skill leverages the `zensical_fix.py` helper script to automatically run Zensical configuration validation and clean builds, parse output warnings (such as unresolved reference links or unused link definitions), and correct them instantly across recipe markdown files.
 
 ## Protocol
-1. **Validate Configuration:** Run `task validate` to ensure `zensical.toml` is syntactically correct.
-2. **Perform Build:** Run `zensical build` and capture the output.
-3. **Analyze and Fix:**
-   - **Unused Link Definitions:** If the build reports unused link definitions in newly modified or relevant files, remove them.
-   - **Unresolved Link References:** Fix any broken internal links or missing reference definitions.
-   - **Spellcheck:** If there are spelling warnings (e.g., from `task move` or a manual check), add valid technical terms or ingredient names to `dictionary.txt` and run `task sort`.
-   - **Missing Emojis:** If ingredients are missing emojis, update `includes/emoji.yaml` and then update the recipe markdown.
-   - **Missing Conversions:** If gram conversions are missing or incorrect, update `docs/reference/measuring.md` and the recipe markdown.
-4. **Final Verification:** Run `zensical build` again to confirm that critical issues (errors and relevant warnings) are resolved.
+1. **Run the Zensical Auto-Fixer Script**:
+   - Execute the python script in the repository root to automatically run validation and build steps and resolve any common issues:
+     ```bash
+     python3 scripts/zensical_fix.py
+     ```
+   - The script will:
+     - Run `task validate` to verify that `zensical.toml` has no syntax issues.
+     - Run `zensical build --clean` to gather all build warnings/errors.
+     - Parse the build output and strip ANSI color sequences.
+     - Automatically clean up unused link definitions by removing the definition line.
+     - Automatically resolve unresolved link references (e.g. escaping `[ml]`/`[g]` to `\[ml\]`/`\[g\]` and turning unresolved target references like `[vegetable broth][1]` into clean plain text like `vegetable broth`).
+     - Re-run `zensical build --clean` to verify that the build succeeds with exit code 0.
+
+2. **Verify and Deploy**:
+   - Verify that `git status` lists only the expected changes.
+   - Run a clean build manually if needed to confirm zero warnings:
+     ```bash
+     zensical build --clean
+     ```
+   - Stage, commit, and push any modified recipe files following conventional commit standards.
