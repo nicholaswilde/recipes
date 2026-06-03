@@ -19,6 +19,7 @@ emoji:
         - muffin tin
         - 8-inch square metal baking pan
         - 8x8-inch baking pan
+        - 8-inch baking dish
         - cookie molds
         - cookie scoop
         - 2-tablespoon cookie scoop
@@ -170,6 +171,7 @@ emoji:
         - white granulated sugar
         - light soft brown sugar
         - light brown sugar
+        - packed light brown sugar
         - superfine sugar
         - powdered sugar
         - dark brown sugar
@@ -367,6 +369,9 @@ emoji:
         - dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
         - dried pasilla chiles, seeds and veins removed and reserved
         - dried guajillo chiles, seeds and veins removed and reserved
+    - ice_cream:
+        - vanilla ice cream
+        - fudge ripple ice cream
     - leafy_green:
         - Swiss chard, kale, or collard greens
         - rhubarb
