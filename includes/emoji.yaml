@@ -266,6 +266,10 @@ emoji:
         - espresso beans
         - instant coffee
         - espresso powder
+    - cucumber:
+        - cucumber
+        - cucumbers
+        - Persian cucumbers
     - curry:
         - ground turmeric
         - turmeric powder
@@ -526,6 +530,8 @@ emoji:
         - Roma or plum tomatoes
         - tomatillo, husk removed
         - grape tomatoes
+        - ripe red tomatoes
+        - ripe tomatoes
     - tulip:
         - saffron
     - tumbler_glass:

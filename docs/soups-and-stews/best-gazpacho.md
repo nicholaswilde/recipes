@@ -4,39 +4,36 @@ tags:
   - soup
   - stew
 ---
-# Best Gazpacho
+# :tomato: Best Gazpacho
 
 ![Best Gazpacho][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 8-12 | 0 minutes |
+|:----------------------------------:|:------------------------:|
+| 8-12                               | 0 minutes                |
 
 ## :salt: Ingredients
 
-- 2 lbs ripe red tomatoes
-- 1 Italian frying pepper
-- 1 cucumber
-- 1 small mild onion
-- 1 clove garlic
-- 2 tsp sherry vinegar
-- 2 tsp salt
-- 0.5 cup extra-virgin olive oil
-- some salt
-- some sherry vinegar
-- some ice water
-- some extra-virgin olive oil
+- :tomato: 2 lbs ripe red tomatoes, cored and roughly cut
+- :hot_pepper: 1 Italian frying pepper (or cubanelle / Anaheim pepper), cored, seeded and roughly cut
+- :cucumber: 1 cucumber (approx. 8 inches), peeled and roughly cut
+- :tea: 1 small mild onion, peeled and roughly cut
+- :garlic: 1 clove garlic
+- :wine_glass: 2 tsp sherry vinegar, plus more to taste
+- :salt: 2 tsp (12 g) salt, plus more to taste
+- :olive: 1/2 cup (100 g) extra-virgin olive oil, plus more for drizzling
+- :droplet: ice water, to thin if needed
 
 ## :cooking: Cookware
 
-- 1 blender
-- 1 bowl
-- 1 rubber spatula
-- 1 strainer
-- 1 food mill
-- 1 spatula
-- 1 ladle
-- 1 pitcher
+- :gear: 1 blender
+- :bowl_with_spoon: 1 deep bowl
+- :spoon: 1 rubber spatula
+- :wastebasket: 1 fine-mesh strainer
+- :gear: 1 food mill
+- :spoon: 1 spatula
+- :spoon: 1 ladle
+- :package: 1 glass pitcher
 
 ## :pencil: Instructions
 
@@ -71,4 +68,3 @@ touch.
 - <https://cooking.nytimes.com/recipes/1017577-best-gazpacho>
 
 [1]: <../assets/images/best-gazpacho.png>
-
