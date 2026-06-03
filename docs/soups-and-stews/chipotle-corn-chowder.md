@@ -17,7 +17,7 @@ hero: assets/images/chipotle-corn-chowder.jpg
 
 ## :salt: Ingredients
 
-- :stew: 1.75 cups [vegetable broth][1]
+- :stew: 1.75 cups vegetable broth
 - :corn: 1.5 cups frozen corn
 - :bell_pepper: 1 cup green bell pepper
 - :bell_pepper: 1 cup red bell pepper

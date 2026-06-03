@@ -224,7 +224,7 @@ Let mixture sit for 5 minutes.
 [11]: <../ingredients/grated-vegetable-shortening.md>
 [13]: <https://www.thespruceeats.com/vegetable-shortening-substitute-4155135>
 [14]: <https://www.challengedairy.com/tips-and-techniques/substituting-unsalted-butter-for-salted>
-[15]: <https://www.seriouseats.com/how-salty-should-pasta-water-be>
+
 [16]: <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>
 [17]: <https://www.thekitchn.com/4-rules-for-successfully-swapping-honey-for-sugar-in-any-baked-goods-230156>
 [18]: <https://cosmopolitancornbread.com/substitute-pectin/>

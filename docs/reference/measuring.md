@@ -355,8 +355,8 @@ the other measurement as well.
 
 With the exception of the other English-speaking nations, cookbooks are written with metric measurements. Should
 you run into a metric cookbook, here are some conversions of our basic measurements, which are difficult to translate
-exactly. Small amounts will not make much difference, so metric amounts are usually rounded. (You use milliliters [ml]
-when speaking of liquids, and grams [g] when speaking of solids.) For baking purposes, a gram is the same as a
+exactly. Small amounts will not make much difference, so metric amounts are usually rounded. (You use milliliters \[ml\]
+when speaking of liquids, and grams \[g\] when speaking of solids.) For baking purposes, a gram is the same as a
 milliliter.
 
 | Imperial  | Metric              |
