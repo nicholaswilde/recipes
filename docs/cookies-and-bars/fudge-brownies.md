@@ -19,35 +19,31 @@ hero: assets/images/fudge-brownies.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 dozen |
+=== "Full Batch"
 
-- :egg: 4 eggs
-- :chocolate_bar: 106 g Dutch-process cocoa
-- :salt: 2 tsp salt
-- :dash: 1 tsp baking powder
-- :hot_beverage: 1 tsp espresso powder
-- :icecream: 1 Tbsp vanilla
-- :butter: 227 g unsalted butter
-- :candy: 447 g granulated sugar
-- :ear_of_rice: 180 g all-purpose flour
-- :chocolate_bar: 340 g chocolate chips
+    - :egg: 4 eggs
+    - :chocolate_bar: 106 g Dutch-process cocoa
+    - :salt: 2 tsp salt
+    - :dash: 1 tsp baking powder
+    - :hot_beverage: 1 tsp espresso powder
+    - :icecream: 1 Tbsp vanilla
+    - :butter: 227 g unsalted butter
+    - :candy: 447 g granulated sugar
+    - :ear_of_rice: 180 g all-purpose flour
+    - :chocolate_bar: 340 g chocolate chips
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 dozen |
+=== "Half Batch"
 
-- :egg: 2 eggs
-- :chocolate_bar: 53 g Dutch-process cocoa
-- :salt: 1 tsp salt
-- :dash: 0.5 tsp baking powder
-- :hot_beverage: 0.5 tsp espresso powder
-- :icecream: 0.5 Tbsp vanilla
-- :butter: 114 g unsalted butter
-- :candy: 224 g granulated sugar
-- :ear_of_rice: 90 g all-purpose flour
-- :chocolate_bar: 170 g chocolate chips
+    - :egg: 2 eggs
+    - :chocolate_bar: 53 g Dutch-process cocoa
+    - :salt: 1 tsp salt
+    - :dash: 0.5 tsp baking powder
+    - :hot_beverage: 0.5 tsp espresso powder
+    - :icecream: 0.5 Tbsp vanilla
+    - :butter: 114 g unsalted butter
+    - :candy: 224 g granulated sugar
+    - :ear_of_rice: 90 g all-purpose flour
+    - :chocolate_bar: 170 g chocolate chips
 
 ## :cooking: Cookware
 

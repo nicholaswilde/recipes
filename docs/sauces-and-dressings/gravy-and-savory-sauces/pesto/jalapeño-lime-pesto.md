@@ -18,33 +18,29 @@ hero: assets/images/jalapeño-lime-pesto.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves  |
-|:-----------------------------------:|
-| 3.33 cups                           |
+=== "Full Batch"
 
-- :herb: 4 cups cilantro
-- :jack_o_lantern: 1.33 cup toasted pepitas
-- :cheese_wedge: 1 cup Cotija or feta cheese
-- :oil_drum: 1 cup canola oil
-- :hot_pepper: 2 small jalapeño chiles
-- :lemon: 4 Tbsp lime juice
-- :garlic: 2 cloves garlic
-- :salt: 0.5 tsp salt
-- :salt: 0.5 tsp pepper
+    - :herb: 4 cups cilantro
+    - :jack_o_lantern: 1.33 cup toasted pepitas
+    - :cheese_wedge: 1 cup Cotija or feta cheese
+    - :oil_drum: 1 cup canola oil
+    - :hot_pepper: 2 small jalapeño chiles
+    - :lemon: 4 Tbsp lime juice
+    - :garlic: 2 cloves garlic
+    - :salt: 0.5 tsp salt
+    - :salt: 0.5 tsp pepper
 
-| :fork_and_knife_with_plate: Serves  |
-|:-----------------------------------:|
-| 1.67 cups                           |
+=== "Half Batch"
 
-- :herb: 2 cups cilantro
-- :jack_o_lantern: 0.67 cup toasted pepitas
-- :cheese_wedge: 0.5 cup Cotija or feta cheese
-- :oil_drum: 0.5 cup canola oil
-- :hot_pepper: 1 small jalapeño chile
-- :lemon: 2 Tbsp lime juice
-- :garlic: 1 clove garlic
-- :salt: 0.25 tsp salt
-- :salt: 0.25 tsp pepper
+    - :herb: 2 cups cilantro
+    - :jack_o_lantern: 0.67 cup toasted pepitas
+    - :cheese_wedge: 0.5 cup Cotija or feta cheese
+    - :oil_drum: 0.5 cup canola oil
+    - :hot_pepper: 1 small jalapeño chile
+    - :lemon: 2 Tbsp lime juice
+    - :garlic: 1 clove garlic
+    - :salt: 0.25 tsp salt
+    - :salt: 0.25 tsp pepper
 
 ## :cooking: Cookware
 

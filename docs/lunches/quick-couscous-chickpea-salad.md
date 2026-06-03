@@ -17,41 +17,37 @@ hero: assets/images/quick-couscous-chickpea-salad.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 8 |
+=== "serves 8"
 
-- :shallow_pan_of_food: 2 cups whole wheat [couscous][2]
-- :stew: 2 cups [vegetable broth][3]
-- :falafel: 2 cans Greek chickpeas with Parsley and Cumin
-- :onion: 1 cup green onion
-- :cheese_wedge: 1 cup feta
-- :olive: 1 cup Kalamata olives
-- :cucumber: 4 Persian cucumbers
-- :tomato: 2 cup grape tomatoes
-- :hot_pepper: some pepperoncini
-- :salt: some salt
-- :salt: some pepper
-- :lemon: some lemon juice
-- :herb: 0.5 cup parsley
+    - :shallow_pan_of_food: 2 cups whole wheat [couscous](../sides/grains-and-legumes/couscous.md)
+    - :stew: 2 cups [vegetable broth](../ingredients/vegetable-broth.md)
+    - :falafel: 2 cans Greek chickpeas with Parsley and Cumin
+    - :onion: 1 cup green onion
+    - :cheese_wedge: 1 cup feta
+    - :olive: 1 cup Kalamata olives
+    - :cucumber: 4 Persian cucumbers
+    - :tomato: 2 cup grape tomatoes
+    - :hot_pepper: some pepperoncini
+    - :salt: some salt
+    - :salt: some pepper
+    - :lemon: some lemon juice
+    - :herb: 0.5 cup parsley
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 4 |
+=== "serves 4"
 
-- :shallow_pan_of_food: 1 cup whole wheat [couscous][2]
-- :stew: 1 cup [vegetable broth][3]
-- :falafel: 1 can Greek chickpeas with Parsley and Cumin
-- :onion: 0.5 cup green onion
-- :cheese_wedge: 0.5 cup feta
-- :olive: 0.5 cup Kalamata olives
-- :cucumber: 2 Persian cucumbers
-- :tomato: 1 cup grape tomatoes
-- :hot_pepper: some pepperoncini
-- :salt: some salt
-- :salt: some pepper
-- :lemon: some lemon juice
-- :herb: 0.25 cup parsley
+    - :shallow_pan_of_food: 1 cup whole wheat [couscous](../sides/grains-and-legumes/couscous.md)
+    - :stew: 1 cup [vegetable broth](../ingredients/vegetable-broth.md)
+    - :falafel: 1 can Greek chickpeas with Parsley and Cumin
+    - :onion: 0.5 cup green onion
+    - :cheese_wedge: 0.5 cup feta
+    - :olive: 0.5 cup Kalamata olives
+    - :cucumber: 2 Persian cucumbers
+    - :tomato: 1 cup grape tomatoes
+    - :hot_pepper: some pepperoncini
+    - :salt: some salt
+    - :salt: some pepper
+    - :lemon: some lemon juice
+    - :herb: 0.25 cup parsley
 
 ## :cooking: Cookware
 
@@ -77,5 +73,3 @@ Season with salt and pepper, add a squeeze of lemon juice, and top with parsley 
 - Trader Joe's
 
 [1]: <../assets/images/quick-couscous-chickpea-salad.jpg>
-[2]: <../sides/grains-and-legumes/couscous.md>
-[3]: <../ingredients/vegetable-broth.md>

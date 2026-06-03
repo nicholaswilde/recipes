@@ -16,49 +16,47 @@ hero: assets/images/martha-stewarts-new-york-style-cheesecake.jpg
 |:-----------------------: |
 | 8.05 hours               |
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 9 inch cake |
+## :salt: Ingredients
 
-## :salt: Ingredients - 9 Inch - Crust
+=== "serves 1 9 inch cake"
 
-- :flatbread: 9 squares (68 g) graham crackers
-- :butter: 4.5 Tbsp (64 g) unsalted butter, melted
-- :candy: 1.5 Tbsp (19 g) granulated sugar
-- :salt: 1 pinch salt
+    ### :flatbread: Crust
 
-## :salt: Ingredients - 9 Inch - Cake
+    - :flatbread: 9 squares (68 g) graham crackers
+    - :butter: 4.5 Tbsp (64 g) unsalted butter, melted
+    - :candy: 1.5 Tbsp (19 g) granulated sugar
+    - :salt: 1 pinch salt
 
-- :cheese_wedge: 2.625 lbs (5.25 pkgs) cream cheese
-- :candy: 1.6875 cups (335 g) granulated sugar
-- :ear_of_rice: 0.375 cup (45 g) all-purpose flour
-- :icecream: 1 tsp vanilla
-- :rice: 0.75 cup (171 g) sour cream, room temperature
-- :egg: 4 large eggs
-- :lemon: 0.75 tsp lemon zest (optional)
-- :rice: 1 sour cream topping (optional)
+    ### :cheese_wedge: Cake
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 10 inch cake |
+    - :cheese_wedge: 2.625 lbs (5.25 pkgs) cream cheese
+    - :candy: 1.6875 cups (335 g) granulated sugar
+    - :ear_of_rice: 0.375 cup (45 g) all-purpose flour
+    - :icecream: 1 tsp vanilla
+    - :rice: 0.75 cup (171 g) sour cream, room temperature
+    - :egg: 4 large eggs
+    - :lemon: 0.75 tsp lemon zest (optional)
+    - :rice: 1 sour cream topping (optional)
 
-## :salt: Ingredients - 10 Inch - Crust
+=== "serves 1 10 inch cake"
 
-- :flatbread: 12 squares (90 g) graham crackers
-- :butter: 6 Tbsp (85 g) unsalted butter, melted
-- :candy: 2 Tbsp (25 g) granulated sugar
-- :salt: 1 pinch salt
+    ### :flatbread: Crust
 
-## :salt: Ingredients - 10 Inch - Cake
+    - :flatbread: 12 squares (90 g) graham crackers
+    - :butter: 6 Tbsp (85 g) unsalted butter, melted
+    - :candy: 2 Tbsp (25 g) granulated sugar
+    - :salt: 1 pinch salt
 
-- :cheese_wedge: 3.5 lbs (7 pkgs) cream cheese
-- :candy: 2.25 cups (446 g) granulated sugar
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :icecream: 1.5 tsp vanilla
-- :rice: 1 cup (227 g) sour cream, room temperature
-- :egg: 5 large eggs
-- :lemon: 1 tsp lemon zest (optional)
-- :rice: 1 sour cream topping (optional)
+    ### :cheese_wedge: Cake
+
+    - :cheese_wedge: 3.5 lbs (7 pkgs) cream cheese
+    - :candy: 2.25 cups (446 g) granulated sugar
+    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :icecream: 1.5 tsp vanilla
+    - :rice: 1 cup (227 g) sour cream, room temperature
+    - :egg: 5 large eggs
+    - :lemon: 1 tsp lemon zest (optional)
+    - :rice: 1 sour cream topping (optional)
 
 ## :cooking: Cookware
 

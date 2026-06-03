@@ -16,95 +16,79 @@ hero: assets/images/basic-sweet-babka.jpg
 
 ## :salt: Ingredients - Dough
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 large loaves |
+=== "Full Batch"
 
-- :microbe: 1 Tbsp dry active yeast
-- :candy: 0.5 tsp granulated sugar
-- :droplet: 0.5 (113 g) cup lukewarm water
-- :ear_of_rice: 4.5 cups (540 g) all-purpose flour
-- :candy: 0.33 cup (66 g) granulated sugar
-- :icecream: 2 tsp vanilla
-- :glass_of_milk: 0.5 cup (113 g) milk
-- :butter: 0.75 cup (170 g) melted butter
-- :egg: 2 eggs
+    - :microbe: 1 Tbsp dry active yeast
+    - :candy: 0.5 tsp granulated sugar
+    - :droplet: 0.5 (113 g) cup lukewarm water
+    - :ear_of_rice: 4.5 cups (540 g) all-purpose flour
+    - :candy: 0.33 cup (66 g) granulated sugar
+    - :icecream: 2 tsp vanilla
+    - :glass_of_milk: 0.5 cup (113 g) milk
+    - :butter: 0.75 cup (170 g) melted butter
+    - :egg: 2 eggs
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 large loaf |
+=== "Half Batch"
 
-- :microbe: 2 tsp dry active yeast
-- :candy: 0.25 tsp granulated sugar
-- :droplet: 0.25 (57 g) cup lukewarm water
-- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-- :candy: 0.17 cup (33 g) granulated sugar
-- :icecream: 1 tsp vanilla
-- :glass_of_milk: 0.25 cup (57 g) milk
-- :butter: 0.375 cup (85 g) melted butter
-- :egg: 1 eggs
+    - :microbe: 2 tsp dry active yeast
+    - :candy: 0.25 tsp granulated sugar
+    - :droplet: 0.25 (57 g) cup lukewarm water
+    - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+    - :candy: 0.17 cup (33 g) granulated sugar
+    - :icecream: 1 tsp vanilla
+    - :glass_of_milk: 0.25 cup (57 g) milk
+    - :butter: 0.375 cup (85 g) melted butter
+    - :egg: 1 eggs
 
 ## :salt: Ingredients - Syrup
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 4 large loaves |
+=== "serves 4 large loaves"
 
-- :droplet: 0.67 (151 g) cup water
-- :candy: 1 cup (198 g) granulated sugar
-- :icecream: 1 tsp vanilla
+    - :droplet: 0.67 (151 g) cup water
+    - :candy: 1 cup (198 g) granulated sugar
+    - :icecream: 1 tsp vanilla
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 large loaf |
+=== "serves 1 large loaf"
 
-- :droplet: 0.17 (38 g) cup water
-- :candy: 1/4 cup (50 g) granulated sugar
-- :icecream: 1/4 tsp vanilla
+    - :droplet: 0.17 (38 g) cup water
+    - :candy: 1/4 cup (50 g) granulated sugar
+    - :icecream: 1/4 tsp vanilla
 
 ## :salt: Ingredients - Chocolate Filling
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 large loaves |
+=== "Full Batch"
 
-- :butter: 0.75 cup (170 g) unsalted butter
-- :candy: 0.5 cup (99 g) granulated sugar
-- :chocolate_bar: 0.33 cup (29 g) unsweetened cocoa powder
-- :chocolate_bar: 6 oz (170 g) dark chocolate
-- :custard: 0.25 tsp cinnamon
-- :salt: 1 pinch salt
+    - :butter: 0.75 cup (170 g) unsalted butter
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :chocolate_bar: 0.33 cup (29 g) unsweetened cocoa powder
+    - :chocolate_bar: 6 oz (170 g) dark chocolate
+    - :custard: 0.25 tsp cinnamon
+    - :salt: 1 pinch salt
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 large loaf |
+=== "Half Batch"
 
-- :butter: 85 g unsalted butter
-- :candy: 0.25 cup (50 g) granulated sugar
-- :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
-- :chocolate_bar: 3 oz (85 g) dark chocolate
-- :custard: 0.125 tsp cinnamon
-- :salt: 1 pinch salt
+    - :butter: 85 g unsalted butter
+    - :candy: 0.25 cup (50 g) granulated sugar
+    - :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
+    - :chocolate_bar: 3 oz (85 g) dark chocolate
+    - :custard: 0.125 tsp cinnamon
+    - :salt: 1 pinch salt
 
 ## :salt: Ingredients - Cinnamon Filling
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 large loaves |
+=== "Full Batch"
 
-- :butter: 0.75 cup (170 g) unsalted melted butter
-- :candy: 300 g granulated sugar
-- :custard: 2 Tbsp cinnamon
-- :salt: 1 pinch salt
+    - :butter: 0.75 cup (170 g) unsalted melted butter
+    - :candy: 300 g granulated sugar
+    - :custard: 2 Tbsp cinnamon
+    - :salt: 1 pinch salt
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 large loaf |
+=== "Half Batch"
 
-- :butter: 85 g unsalted melted butter
-- :candy: 150 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :salt: 1 pinch salt
+    - :butter: 85 g unsalted melted butter
+    - :candy: 150 g granulated sugar
+    - :custard: 1 Tbsp cinnamon
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 
@@ -206,5 +190,3 @@ cool.
 - <https://www.ediblecommunities.com/recipes/basic-sweet-babka/>
 - <https://www.thekitchn.com/chocolate-babka-recipe-reviews-23213321>
 - <https://family-friends-food.com/cinnamon-babka-modern-jewish-baker-review/>
-
-[1]: <../ingredients/seasonings/cinnamon-sugar.md>

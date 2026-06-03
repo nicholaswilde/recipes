@@ -17,25 +17,21 @@ hero: assets/images/pain-de-campagne-(country-bread).jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 large loaves |
+=== "Full Batch"
 
-- :microbe: 40 g [sourdough starter][2]
-- :ear_of_rice: 100 g whole wheat flour
-- :droplet: 800 g water
-- :salt: 20 g salt
-- :ear_of_rice: 900 g bread flour
+    - :microbe: 40 g [sourdough starter][2]
+    - :ear_of_rice: 100 g whole wheat flour
+    - :droplet: 800 g water
+    - :salt: 20 g salt
+    - :ear_of_rice: 900 g bread flour
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 large loaf |
+=== "Half Batch"
 
-- :microbe: 40 g [sourdough starter][2]
-- :ear_of_rice: 50 g whole wheat flour
-- :droplet: 400 g water
-- :salt: 10 g salt
-- :ear_of_rice: 450 g bread flour
+    - :microbe: 40 g [sourdough starter][2]
+    - :ear_of_rice: 50 g whole wheat flour
+    - :droplet: 400 g water
+    - :salt: 10 g salt
+    - :ear_of_rice: 450 g bread flour
 
 ## :cooking: Cookware
 

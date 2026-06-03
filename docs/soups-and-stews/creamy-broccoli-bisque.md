@@ -17,47 +17,43 @@ hero: assets/images/creamy-broccoli-bisque.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves  |
-|:-----------------------------------:|
-| 4                                   |
+=== "serves 4"
 
-- :broccoli: 1 head broccoli
-- :glass_of_milk: some milk
-- :butter: 1 Tbsp unsalted butter
-- :onion: 1 cup onion
-- :garlic: 4 cloves garlic
-- :herb: 1 tsp thyme
-- :leafy_green: 1 cup (100 g) celery
-- :carrot: 1 cup (145 g) carrot
-- :potato: 1 cup (225 g) potato
-- :stew: 4 cups vegetable stock
-- :glass_of_milk: 0.66 cups heavy cream
-- :cheese_wedge: 2.66 oz English cheddar cheese
-- :salt: some salt
-- :salt: some pepper
-- :carrot: 0.33 carrot
-- :herb: 4 tsp parsley
+    - :broccoli: 1 head broccoli
+    - :glass_of_milk: some milk
+    - :butter: 1 Tbsp unsalted butter
+    - :onion: 1 cup onion
+    - :garlic: 4 cloves garlic
+    - :herb: 1 tsp thyme
+    - :leafy_green: 1 cup (100 g) celery
+    - :carrot: 1 cup (145 g) carrot
+    - :potato: 1 cup (225 g) potato
+    - :stew: 4 cups vegetable stock
+    - :glass_of_milk: 0.66 cups heavy cream
+    - :cheese_wedge: 2.66 oz English cheddar cheese
+    - :salt: some salt
+    - :salt: some pepper
+    - :carrot: 0.33 carrot
+    - :herb: 4 tsp parsley
 
-| :fork_and_knife_with_plate: Serves  |
-|:-----------------------------------:|
-| 12                                  |
+=== "serves 12"
 
-- :broccoli: 3 heads broccoli
-- :glass_of_milk: some milk
-- :butter: 3 Tbsp unsalted butter
-- :onion: 3 cups onion
-- :garlic: 10 cloves garlic
-- :herb: 1 Tbsp thyme
-- :leafy_green: 3 cups (300 g) celery
-- :carrot: 3 cups (435 g) carrots
-- :potato: 3 cups (675 g) potatoes
-- :stew: 10 cups vegetable stock
-- :glass_of_milk: 2 cups heavy cream
-- :cheese_wedge: 8 oz English cheddar cheese
-- :salt: some salt
-- :salt: some pepper
-- :carrot: 1 carrot
-- :herb: 0.25 cup parsley
+    - :broccoli: 3 heads broccoli
+    - :glass_of_milk: some milk
+    - :butter: 3 Tbsp unsalted butter
+    - :onion: 3 cups onion
+    - :garlic: 10 cloves garlic
+    - :herb: 1 Tbsp thyme
+    - :leafy_green: 3 cups (300 g) celery
+    - :carrot: 3 cups (435 g) carrots
+    - :potato: 3 cups (675 g) potatoes
+    - :stew: 10 cups vegetable stock
+    - :glass_of_milk: 2 cups heavy cream
+    - :cheese_wedge: 8 oz English cheddar cheese
+    - :salt: some salt
+    - :salt: some pepper
+    - :carrot: 1 carrot
+    - :herb: 0.25 cup parsley
 
 ## :cooking: Cookware
 

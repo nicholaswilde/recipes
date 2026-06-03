@@ -29,29 +29,25 @@ hero: assets/images/cinnamon-raisin-sourdough-bread.jpg
 
 ## :salt: Ingredients - Filling
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 |
+=== "serves 1"
 
-- :candy: 50 g granulated sugar
-- :custard: 1.5 tsp cinnamon
-- :ear_of_rice: 2 tsp all-purpose flour
-- :egg: 1 egg
-- :droplet: 1 Tbsp water
-- :grapes: 74 g raisins
-- :butter: some unsalted butter (optional)
+    - :candy: 50 g granulated sugar
+    - :custard: 1.5 tsp cinnamon
+    - :ear_of_rice: 2 tsp all-purpose flour
+    - :egg: 1 egg
+    - :droplet: 1 Tbsp water
+    - :grapes: 74 g raisins
+    - :butter: some unsalted butter (optional)
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 |
+=== "serves 2"
 
-- :candy: 100 g granulated sugar
-- :custard: 3 tsp cinnamon
-- :ear_of_rice: 4 tsp all-purpose flour
-- :egg: 1 egg
-- :droplet: 1 Tbsp water
-- :grapes: 148 g raisins
-- :butter: some unsalted butter (optional)
+    - :candy: 100 g granulated sugar
+    - :custard: 3 tsp cinnamon
+    - :ear_of_rice: 4 tsp all-purpose flour
+    - :egg: 1 egg
+    - :droplet: 1 Tbsp water
+    - :grapes: 148 g raisins
+    - :butter: some unsalted butter (optional)
 
 ## :cooking: Cookware
 

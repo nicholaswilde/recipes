@@ -17,35 +17,31 @@ hero: assets/images/double-berry-overnight-oats.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 3 |
+=== "serves 3"
 
-- :ear_of_rice: 1 cup (99 g) uncooked old fashioned oats
-- :glass_of_milk: 1 cup (227 g) unsweetened vanilla almond milk
-- :microbe: 1 cup (227 g) light artificially sweetened yogurt
-- :strawberry: 2.25 (376 g) cup mixed berries
-- :lemon: 1 Tbsp lemon zest
-- :custard: 0.25 tsp cinnamon
-- :salt: 0.25 tsp salt
-- :chestnut: 3 Tbsp almonds
-- :chestnut: 3 Tbsp chia seeds
-- :icecream: 1 tsp vanilla
+    - :ear_of_rice: 1 cup (99 g) uncooked old fashioned oats
+    - :glass_of_milk: 1 cup (227 g) unsweetened vanilla almond milk
+    - :microbe: 1 cup (227 g) light artificially sweetened yogurt
+    - :strawberry: 2.25 (376 g) cup mixed berries
+    - :lemon: 1 Tbsp lemon zest
+    - :custard: 0.25 tsp cinnamon
+    - :salt: 0.25 tsp salt
+    - :chestnut: 3 Tbsp almonds
+    - :chestnut: 3 Tbsp chia seeds
+    - :icecream: 1 tsp vanilla
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 |
+=== "serves 1"
 
-- :ear_of_rice: 0.33 cup (33 g) uncooked old fashioned oats
-- :glass_of_milk: 0.33 cup (76 g) unsweetened vanilla almond milk
-- :microbe: 0.33 cup (76 g) light artificially sweetened yogurt
-- :strawberry: 0.75 cup (132 g) mixed berries
-- :lemon: 1 tsp lemon zest
-- :custard: 1 pinch cinnamon
-- :salt: 1 pinch salt
-- :chestnut: 1 Tbsp almonds
-- :chestnut: 1 Tbsp chia seeds
-- :icecream: 0.25 tsp vanilla
+    - :ear_of_rice: 0.33 cup (33 g) uncooked old fashioned oats
+    - :glass_of_milk: 0.33 cup (76 g) unsweetened vanilla almond milk
+    - :microbe: 0.33 cup (76 g) light artificially sweetened yogurt
+    - :strawberry: 0.75 cup (132 g) mixed berries
+    - :lemon: 1 tsp lemon zest
+    - :custard: 1 pinch cinnamon
+    - :salt: 1 pinch salt
+    - :chestnut: 1 Tbsp almonds
+    - :chestnut: 1 Tbsp chia seeds
+    - :icecream: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

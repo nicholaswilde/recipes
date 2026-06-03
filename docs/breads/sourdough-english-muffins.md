@@ -17,35 +17,31 @@ hero: assets/images/sourdough-english-muffins.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 dozen large muffins |
+=== "Full Batch"
 
-- :candy: 25 g granulated sugar
-- :hot_springs: 454 g warm water
-- :microbe: 1 Tbsp active dry yeast or instant yeast
-- :microbe: 227 g [sourdough starter][2]
-- :ear_of_rice: 840 g all-purpose flour
-- :glass_of_milk: 56 g dry milk
-- :butter: 57 g unsalted butter
-- :salt: 18 g salt
-- :test_tube: 0.25 tsp citric acid (sour salt), (optional)
-- :corn: some cornmeal or semolina (optional)
+    - :candy: 25 g granulated sugar
+    - :hot_springs: 454 g warm water
+    - :microbe: 1 Tbsp active dry yeast or instant yeast
+    - :microbe: 227 g [sourdough starter][2]
+    - :ear_of_rice: 840 g all-purpose flour
+    - :glass_of_milk: 56 g dry milk
+    - :butter: 57 g unsalted butter
+    - :salt: 18 g salt
+    - :test_tube: 0.25 tsp citric acid (sour salt), (optional)
+    - :corn: some cornmeal or semolina (optional)
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 dozen large muffins |
+=== "Half Batch"
 
-- :candy: 13 g granulated sugar
-- :hot_springs: 227 g warm water
-- :microbe: 2 tsp active dry yeast or instant yeast
-- :microbe: 114 g [sourdough starter][2]
-- :ear_of_rice: 420 g all-purpose flour
-- :glass_of_milk: 28 g dry milk
-- :butter: 28 g unsalted butter
-- :salt: 9 g salt
-- :test_tube: 0.125 tsp citric acid (sour salt), (optional)
-- :corn: some cornmeal or semolina (optional)
+    - :candy: 13 g granulated sugar
+    - :hot_springs: 227 g warm water
+    - :microbe: 2 tsp active dry yeast or instant yeast
+    - :microbe: 114 g [sourdough starter][2]
+    - :ear_of_rice: 420 g all-purpose flour
+    - :glass_of_milk: 28 g dry milk
+    - :butter: 28 g unsalted butter
+    - :salt: 9 g salt
+    - :test_tube: 0.125 tsp citric acid (sour salt), (optional)
+    - :corn: some cornmeal or semolina (optional)
 
 ## :cooking: Cookware
 

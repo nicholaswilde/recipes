@@ -13,39 +13,33 @@ hero: assets/images/ikarian-longevity-stew.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:------:|
-| 4      |
+=== "serves 4"
 
-- :herb: 2 bay leaves
-- :canned_food: 8 oz black-eyed peas
-- :seedling: 1 bunch chopped dill
-- :garlic: 1 fennel bulb
-- :garlic: 4 garlic
-- :olive: 0.5 cups olive oil
-- :onion: 1 large red onion
-- :salt: salt
-- :tomato: 1 large tomato
-- :tomato: 2 tsp tomato paste
-- :stew: some water or vegetable broth
+    - :herb: 2 bay leaves
+    - :canned_food: 8 oz black-eyed peas
+    - :seedling: 1 bunch chopped dill
+    - :garlic: 1 fennel bulb
+    - :garlic: 4 garlic
+    - :olive: 0.5 cups olive oil
+    - :onion: 1 large red onion
+    - :salt: salt
+    - :tomato: 1 large tomato
+    - :tomato: 2 tsp tomato paste
+    - :stew: some water or vegetable broth
 
-### :stew: Slow Cooker
+=== "serves 8"
 
-| :fork_and_knife_with_plate: Serves |
-|:------:|
-| 8      |
-
-- :herb: 4 bay leaves
-- :canned_food: 16 oz black-eyed peas
-- :seedling: 2 bunches chopped dill
-- :garlic: 2 fennel bulbs
-- :garlic: 8 garlic cloves
-- :olive: 1 cup olive oil
-- :onion: 2 large red onions
-- :salt: salt
-- :tomato: 2 large tomatoes
-- :tomato: 4 tsp tomato paste
-- :stew: 6 cups water or vegetable broth
+    - :herb: 4 bay leaves
+    - :canned_food: 16 oz black-eyed peas
+    - :seedling: 2 bunches chopped dill
+    - :garlic: 2 fennel bulbs
+    - :garlic: 8 garlic cloves
+    - :olive: 1 cup olive oil
+    - :onion: 2 large red onions
+    - :salt: salt
+    - :tomato: 2 large tomatoes
+    - :tomato: 4 tsp tomato paste
+    - :stew: 6 cups water or vegetable broth
 
 ## :pencil: Instructions
 

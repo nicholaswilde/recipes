@@ -17,31 +17,27 @@ hero: assets/images/potato-bread.jpg
 
 ## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 2 loaves |
+=== "Full Batch"
 
-- :microbe: 1 Tbsp instant yeast
-- :candy: 99 g granulated sugar
-- :hot_springs: 340 g lukewarm water or potato water
-- :butter: 170 g unsalted butter
-- :salt: 15 g salt
-- :egg: 2 large eggs
-- :potato: 198 g mashed potatoes
-- :ear_of_rice: 780 g all-purpose flour
+    - :microbe: 1 Tbsp instant yeast
+    - :candy: 99 g granulated sugar
+    - :hot_springs: 340 g lukewarm water or potato water
+    - :butter: 170 g unsalted butter
+    - :salt: 15 g salt
+    - :egg: 2 large eggs
+    - :potato: 198 g mashed potatoes
+    - :ear_of_rice: 780 g all-purpose flour
 
-| :fork_and_knife_with_plate: Serves |
-|:----------------------------------:|
-| 1 loaf |
+=== "Half Batch"
 
-- :microbe: 2 tsp instant yeast
-- :candy: 50 g granulated sugar
-- :hot_springs: 170 g lukewarm water or potato water
-- :butter: 85 g unsalted butter
-- :salt: 8 g salt
-- :egg: 1 large eggs
-- :potato: 99 g mashed potatoes
-- :ear_of_rice: 390 g all-purpose flour
+    - :microbe: 2 tsp instant yeast
+    - :candy: 50 g granulated sugar
+    - :hot_springs: 170 g lukewarm water or potato water
+    - :butter: 85 g unsalted butter
+    - :salt: 8 g salt
+    - :egg: 1 large eggs
+    - :potato: 99 g mashed potatoes
+    - :ear_of_rice: 390 g all-purpose flour
 
 ## :cooking: Cookware
 
