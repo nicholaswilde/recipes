@@ -9,9 +9,11 @@ hero: assets/images/cheese-soufflé.jpg
 
 # :cheese_wedge: Cheese Soufflé
 
+![Cheese Soufflé](../../assets/images/cheese-soufflé.jpg){ loading=lazy }
+
 | :timer_clock: Total Time |
-|:-----------------------: |
-| 1.15 hours |
+|:------------------------:|
+| 1.15 hours               |
 
 ## :salt: Ingredients
 
