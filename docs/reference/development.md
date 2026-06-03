@@ -322,6 +322,28 @@ cargo install yamllint-rs
     ```shell title="Usage"
     yamllint-rs .
     ```
+ 
+### :page_with_curl: [yq][19]
+ 
+Used to query and modify YAML files and Markdown front-matter.
+ 
+```shell title="Installation"
+# Via Homebrew
+brew install yq
+```
+ 
+=== "Task"
+ 
+    ```shell title="Usage"
+    task add-comments
+    task add-tag
+    ```
+ 
+=== "Manual"
+ 
+    ```shell title="Usage"
+    yq --front-matter="process" '.comments = "true"' docs/path/to/recipe.md
+    ```
 
 ### :robot: [Google Antigravity CLI][15]
 
@@ -380,3 +402,4 @@ Website used to search for emoji contexts.
 [16]: <https://github.com/run-llama/liteparse>
 [17]: <https://github.com/rvben/rumdl>
 [18]: <https://github.com/AvnerCohen/yamllint-rs>
+[19]: <https://github.com/mikefarah/yq>

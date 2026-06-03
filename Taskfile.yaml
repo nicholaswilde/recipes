@@ -55,17 +55,11 @@ tasks:
   add-comments:
     desc: Add a front matter tag
     cmds:
-      - >-
-        {{ .CMD }} '.comments = "true"' /workdir/{{ .CLI_ARGS }}
-    vars:
-      CMD: docker run --rm -v "${PWD}":/workdir mikefarah/yq --front-matter="process"
+      - yq --front-matter="process" '.comments = "true"' {{ .CLI_ARGS }}
   add-tag:
     desc: Add a front matter tag
     cmds:
-      - >-
-        {{ .CMD }} '.tags += ["{{ (split " " .CLI_ARGS)._0 }}"]' /workdir/{{ (split " " .CLI_ARGS)._1 }}
-    vars:
-      CMD: docker run --rm -v "${PWD}":/workdir mikefarah/yq -i --front-matter="process"
+      - yq -i --front-matter="process" '.tags += ["{{ (split " " .CLI_ARGS)._0 }}"]' {{ (split " " .CLI_ARGS)._1 }}
 
   clean:
     desc: Clean markdown files from cook dir
@@ -75,10 +69,7 @@ tasks:
     desc: Install dependencies
     cmds:
       - npm install --location=global spellchecker-cli
-  docker-update:
-    desc: Update docker images
-    cmds:
-      - docker image pull mikefarah/yq
+
   linkcheck:
     desc: Check for dead links using lychee
     cmds:
