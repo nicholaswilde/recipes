@@ -22,4 +22,6 @@
 - Always use the GitHub CLI (`gh`) to view, monitor, and debug remote GitHub Actions workflow runs when verifying the status of CI pipelines or investigating deployment failures.
 - I have imported the Date Brownies recipe (Issue #1355).
 - I have added the recipe servings and batch tab conversion skill to `.agents/skills/recipe-servings-tabs.md`.
+- I have added a skill to monitor and fix GitHub Actions workflow runs in `.agents/skills/review-actions.md`.
+
 
