@@ -18,6 +18,7 @@ emoji:
         - loaf pans
         - muffin tin
         - 8-inch square metal baking pan
+        - 8x8-inch baking pan
         - cookie molds
         - cookie scoop
         - 2-tablespoon cookie scoop
@@ -30,6 +31,8 @@ emoji:
         - immersion blender
         - food processor
         - stand mixer
+        - microwave
+        - blender or food processor
     - snowflake:
         - freezer
     - knife:
@@ -239,9 +242,11 @@ emoji:
     - chocolate_bar:
         - white chocolate chips
         - milk chocolate chips
+        - dark chocolate chips
         - chocolate melts
         - finely chopped dark chocolate, about 72%
         - Dutch-process cocoa powder
+        - unsweetened cocoa powder
     - coconut:
         - full-fat coconut milk
         - shredded coconut
@@ -259,6 +264,7 @@ emoji:
     - droplet:
         - water
         - hot water
+        - soaking water
         - canola oil
         - warm water
         - reserved pasta water
@@ -309,6 +315,7 @@ emoji:
     - grapes:
         - raisins
         - dates
+        - Medjool dates
         - red grapes
         - green grapes
         - date paste

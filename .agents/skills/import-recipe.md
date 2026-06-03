@@ -30,18 +30,13 @@ repository following the established recipe import workflow.
    - Download the image from the source or use a placeholder if unavailable.
    - Name it `{Recipe Name}.jpg` and place it in the same directory as the `.cook` file.
 5. **Run Move Task:**
-   - Execute `FILES=cook/{category}/{Recipe Name}.cook task move`.
-   - This converts the `.cook` file to Markdown and generates a `zensical.toml` mapping.
-6. **Update zensical.toml:**
-   - Insert the generated mapping entry into the correct category section of `zensical.toml`.
-7. **Post-Process Markdown:**
+   - Execute `FILES="cook/{category}/{Recipe Name}.cook" task move`.
+   - This converts the `.cook` file to Markdown, copies/converts the recipe image, runs the `lychee` link checker, and automatically inserts the navigation mapping entry into the correct category section of `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
+6. **Post-Process Markdown:**
    - Locate the generated Markdown file in `docs/{category}/{Recipe Name}.md`.
-   - **Emojis:** Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml`
-     if an emoji is missing.
+   - **Emojis:** Run `python3 scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify that all ingredients and cookware are mapped in `includes/emoji.yaml`. Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if any emojis are reported missing.
    - **Tags:** Add relevant tags to the front matter.
-   - **Conversions:** Convert volumetric measurements to grams (e.g., `2 cups (240 g)`) using
-     `docs/reference/measuring.md`. Reference the King Arthur Baking chart if missing, and update
-     `docs/reference/measuring.md`.
+   - **Conversions:** Run `python3 scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"` to automatically convert volumetric measurements to grams and add emojis using the data from `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md` if any conversions are missing or incorrect.
    - **Additional References:** If there is a "Pancake Princess" link in the source issue, include that link as
      an additional reference in the `## :link: Source` section of the Markdown recipe page.
 

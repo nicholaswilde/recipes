@@ -73,11 +73,11 @@ function spell_check() {
 }
 
 function links_check() {
- lb_infoln "Checking links"
-  arr=()
+  lb_infoln "Checking links"
   for path in "${@}"; do
     s=$(get_new_markdown_path "${path}")
-    docker run --rm -v /:/tmp:ro -i -w /tmp ghcr.io/tcort/markdown-link-check:stable "/tmp${s}" -c "/tmp${ROOT_DIR}/mlc_config.json"
+    s=$(realpath --relative-to="${ROOT_DIR}" "${s}")
+    docker run --rm -v "${ROOT_DIR}":/app -w /app lycheeverse/lychee "${s}"
   done
 }
 
@@ -113,6 +113,10 @@ function move_files(){
   fi
 
   mv "${markdown_path}" "${new_markdown_path}"
+
+  recipe_name=$(get_recipe_name "${recipe_path}")
+  relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
+  python3 "${DIR}/add-recipe-nav.py" "${recipe_name}" "${relative_markdown_path}"
 }
 
 function main(){
