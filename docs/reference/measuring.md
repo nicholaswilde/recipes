@@ -203,6 +203,7 @@ $$
 | Ginger (fresh, sliced)                                | 1/4 cup           | 57          | 2           |
 | Gluten-Free All-Purpose Baking Mix                    | 1 cup             | 120         | 4-1/4       |
 | Gluten-Free All-Purpose Flour                         | 1 cup             | 156         | 5-1/2       |
+| Gochugaru                                             | 1 cup             | 108         | 3-7/8       |
 | Graham Cracker Crumbs (boxed)                         | 1 cup             | 99          | 3-1/2       |
 | Graham Crackers (crushed)                             | 1 cup             | 142         | 5           |
 | Gran Graham Cracker Sheet                            | 1 sheet           | 15          | 1/2         |
