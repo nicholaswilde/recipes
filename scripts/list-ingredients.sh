@@ -6,7 +6,7 @@
 # Copy cook shopping-list command to clipboard to list all ingredients in all
 # cook recipes.
 #
-# @author Nicholas Wilde, 0x08b7d7a3
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
 # @date 24 Jun 2022
 # @version 0.0.1
 #

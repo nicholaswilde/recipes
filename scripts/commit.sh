@@ -6,7 +6,7 @@
 # ----------------
 # Commit recipes to the remote repo
 #
-# @author Nicholas Wilde, 0x08b7d7a3
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
 # @date 02 Sep 2022
 # @version 0.2.0
 #
