@@ -39,6 +39,15 @@ repository following the established recipe import workflow.
    - **Conversions:** Run `python3 scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"` to automatically convert volumetric measurements to grams and add emojis using the data from `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md` if any conversions are missing or incorrect.
    - **Additional References:** If there is a "Pancake Princess" link in the source issue, include that link as
      an additional reference in the `## :link: Source` section of the Markdown recipe page.
+7. **Spellcheck and Whitelist:**
+    - Run the focused spellcheck on the newly generated Markdown recipe file:
+      ```bash
+      task spellcheck-file FILE="docs/{category}/{recipe-name-slug}.md"
+      ```
+    - If any valid new words (e.g. proper nouns, technical cooking terms, or unique ingredient names) are flagged as typos by the spellchecker:
+      - Append them to the end of `dictionary.txt` in the root directory.
+      - Run the sort task (`task sort`) to clean and organize the dictionary.
+      - Re-run `task spellcheck-file` to automatically regenerate the `_typos.toml` configuration and verify that the file is clean.
 
 ## GitHub CLI (`gh`) Guidelines
 
