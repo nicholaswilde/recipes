@@ -179,6 +179,7 @@ $$
 | Dried Blueberry Powder                                | 1/4 cup           | 28          | 1           |
 | Dried Buttermilk Powder                               | 2 Tbsp            | 25          | 7/8         |
 | Dried Milk (Baker’s Special Dried Milk)               | 1/4 cup           | 35          | 1-1/4       |
+| Dried Minced Onion                                    | 1 cup             | 96          | 3-3/8       |
 | Dried Nonfat Milk (powdered)                          | 1/4 cup           | 21          | 3/4         |
 | Dried Potato Flakes (instant mashed potatoes)         | 1/2 cup           | 43          | 1-1/2       |
 | Dried Whole Milk (powdered)                           | 1/2 cup           | 50          | 1-3/4       |

@@ -3,30 +3,28 @@ comments: true
 tags:
   - sauce
 ---
-# Chile Crisp
+# :hot_pepper: Chile Crisp
 
 ![Chile Crisp](../../assets/images/chile-crisp.jpg){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 1 1/4 cups | 6 minutes |
+|:----------------------------------:|:------------------------:|
+| 1 1/4 cups                         | 6 minutes                |
 
 ## :salt: Ingredients
 
-- 0.5 cup vegetable oil
-- 0.25 cup dried minced onion
-- 0.5 tsp granulated sugar
-- 0.5 tsp Diamond Crystal kosher salt
-- 0.33 cup crushed dried small red chiles or red-pepper flakes
-- 3 Tbsp sesame seeds
-- 1 tsp coarsely ground Sichuan peppercorns (optional)
-- 0.5 tsp granulated sugar
-- 1 tsp Diamond Crystal kosher salt
+- :olive: 1/2 cup (99 g) vegetable oil
+- :tea: 1/4 cup (24 g) dried minced onion
+- :candy: 1 tsp (4 g) granulated sugar, divided
+- :salt: 1 1/2 tsp (4 g) Diamond Crystal kosher salt, divided
+- :hot_pepper: 1/3 cup (28 g) crushed dried small red chiles or red-pepper flakes
+- :seedling: 3 Tbsp (27 g) sesame seeds
+- :hot_pepper: 1 tsp (3 g) coarsely ground Sichuan peppercorns, optional
 
 ## :cooking: Cookware
 
-- 1 small saucepan
-- 1 airtight container
+- :shallow_pan_of_food: 1 small saucepan
+- :package: 1 airtight container
 
 ## :pencil: Instructions
 
