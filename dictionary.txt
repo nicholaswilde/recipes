@@ -184,6 +184,7 @@ brining
 Brisée
 brittles
 broccolini
+Broccolini
 Broma
 broma-bakery
 brookies
@@ -441,6 +442,7 @@ falafel
 Falafel
 falafels
 Farfalle
+farro
 fava
 Fava
 filé
