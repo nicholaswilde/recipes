@@ -85,7 +85,6 @@ tasks:
     cmds:
       - docker image pull mikefarah/yq
       - docker image pull squidfunk/mkdocs-material
-      - docker image pull 06kellyjac/markdownlint-cli
   linkcheck:
     desc: Check for dead links using lychee
     cmds:
@@ -112,15 +111,11 @@ tasks:
   markdownlint:
     desc: Run markdownlint-cli
     cmds:
-      - >-
-        docker run --rm -it -v ${PWD}:/markdown:ro
-        06kellyjac/markdownlint-cli .
+      - rumdl check .
   markdownlint-fix:
     desc: Run markdownlint-cli fix
     cmds:
-      - >-
-        docker run --rm -it -v ${PWD}:/markdown:ro
-        06kellyjac/markdownlint-cli -f .
+      - rumdl check --fix .
   serve:
     desc: Serve a local zensical server
     cmds:

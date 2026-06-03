@@ -29,6 +29,6 @@ This skill automates and documents the process of converting multi-serving/batch
 5. **Verify and Lint:**
    - Validate the modified files by running the targeted linter:
      ```bash
-     npx markdownlint-cli --config .markdownlint.yaml path/to/recipe.md
+     rumdl check path/to/recipe.md
      ```
    - Ensure `task validate` passes successfully.
