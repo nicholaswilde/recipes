@@ -359,6 +359,8 @@ Crockpot
 cruciferous
 Crustless
 crystalizing
+cubanelle
+Cubanelle
 Cubbison's
 cupcake-jemma
 custardy
@@ -729,6 +731,7 @@ microplane
 millefeuille
 Millefeuille
 Minestrone-ish
+mins
 mirepoix
 Mirepoix
 mirin
@@ -746,6 +749,8 @@ Moong
 morita
 Mornay
 MorningStar
+moskin
+Moskin
 muscavado
 mushroom-kombu
 musir

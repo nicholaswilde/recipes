@@ -1219,6 +1219,7 @@ Sides = [
 [[project.nav]]
 "Soups & Stews" = [
   { "Baked Potato Soup" = "soups-and-stews/baked-potato-soup.md" },
+  { "Best Gazpacho" = "soups-and-stews/best-gazpacho.md" },
   { "Black Bean & Butternut Soup" = "soups-and-stews/black-bean-and-butternut-soup.md" },
   { "Carrot Ginger Soup" = "soups-and-stews/carrot-ginger-soup.md" },
   { "Chickenless Sausage & Lentil Soup" = "soups-and-stews/chickenless-sausage-and-lentil-soup.md" },
