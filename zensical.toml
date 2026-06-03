@@ -1287,7 +1287,7 @@ social = [
 ]
 
 [project.theme]
-name = "mkdocs"
+name = "material"
 [markdown]
 extensions = [
     "neoteroi.timeline",
