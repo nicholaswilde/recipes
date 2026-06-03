@@ -353,12 +353,6 @@ A task is complete when:
 
 ## Development Conventions
 
-- **Pre-commit hooks:**
-    - `trailing-whitespace`: Removes trailing whitespace.
-    - `end-of-file-fixer`: Ensures files end with a newline.
-    - `mixed-line-ending`: Standardizes line endings.
-    - `markdownlint`: Lints Markdown files for style and consistency.
-    - `markdown-link-check`: Checks for broken links in Markdown files.
 - **Linting:**
     - `task lint`: Runs `markdownlint` and `yamllint`.
     - `task markdownlint`: Runs `markdownlint-cli`.
