@@ -20,3 +20,6 @@
 - When importing a recipe that calls for **terasi** (shrimp paste / belacan), always substitute it with a markdown link to the Vegetarian Terasi recipe (`[Vegetarian Terasi](../ingredients/vegetarian-terasi.md)`, adjusting the relative path as needed) in both the ingredients list and the instructions. Do not list terasi as a plain ingredient.
 - When importing a recipe that calls for **sambal oelek** (or sambal ulek), always substitute it with a markdown link to the Sambal Oelek recipe (`[Sambal Oelek](../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)`, adjusting the relative path as needed) in both the ingredients list and the instructions. Do not list sambal oelek as a plain ingredient.
 - Always use the GitHub CLI (`gh`) to view, monitor, and debug remote GitHub Actions workflow runs when verifying the status of CI pipelines or investigating deployment failures.
+- I have imported the Date Brownies recipe (Issue #1355).
+- I have added the recipe servings and batch tab conversion skill to `.agents/skills/recipe-servings-tabs.md`.
+
