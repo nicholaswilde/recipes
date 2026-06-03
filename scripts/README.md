@@ -64,6 +64,10 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `python3 scripts/identify_multi_serving.py [directory]`
 * **Description**: Scans for recipe markdown files containing multiple "Ingredients" headers (which usually represent multi-serving/tab configurations).
 
+#### [find_duplicate_issues.py](find_duplicate_issues.py)
+* **Usage**: `python3 scripts/find_duplicate_issues.py [--close]`
+* **Description**: Scans open duplicate-labeled issues on GitHub and cross-references them against imported recipes in the codebase, with an optional `--close` flag to auto-close exact URL matches.
+
 #### [comments.sh](comments.sh)
 * **Usage**: `./scripts/comments.sh`
 * **Description**: Traverses markdown recipes and appends `comments: true` to the front-matter of any file missing it.

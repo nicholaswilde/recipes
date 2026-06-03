@@ -87,6 +87,13 @@ To locate recipes that have multiple servings tabs/tables (multiple "Ingredients
   python3 scripts/identify_multi_serving.py [directory]
   ```
 
+#### Scan and Resolve Duplicate Issues
+To find and optionally close duplicate GitHub issues that correspond to already-imported recipes:
+* **Protocol**:
+  ```bash
+  python3 scripts/find_duplicate_issues.py [--close]
+  ```
+
 #### Sync Giscus Comments Flag
 To verify which recipes have comments and append `comments: true` to their front-matter:
 * **Protocol**:
