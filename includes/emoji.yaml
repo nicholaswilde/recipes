@@ -33,8 +33,6 @@ emoji:
         - stand mixer
         - microwave
         - blender or food processor
-    - snowflake:
-        - freezer
     - knife:
         - sharp knife
         - toothpick
@@ -59,11 +57,14 @@ emoji:
         - large pot
         - large heavy pot
         - heavy saucepan
+        - skillet
         - flan ring
         - 9-inch tart pan
         - 23cm-diameter tart tin
         - tart tin
         - cake plate
+    - snowflake:
+        - freezer
     - spoon:
         - spatula
         - small offset spatula
@@ -115,8 +116,6 @@ emoji:
         - sour cream
         - aquafaba
         - buttermilk
-    - bee:
-        - beeswax
     - beans:
         - chickpeas
         - tinned chickpeas
@@ -127,11 +126,14 @@ emoji:
         - dried red lentils
         - peas
         - frozen peas
+    - bee:
+        - beeswax
     - bread:
         - stone ground whole wheat flour
         - pita
         - pasta
         - spaghetti
+        - spaghetti or other long pasta
         - flour
         - all-purpose flour
         - white rice flour
@@ -323,6 +325,7 @@ emoji:
         - fresh basil leaves
         - fresh mint leaves
         - fresh cilantro
+        - cilantro
         - parsley
         - fresh parsley
         - basil
@@ -355,6 +358,7 @@ emoji:
         - Asian chilli powder
         - smoked paprika
         - Gochujang
+        - gochujang paste
         - cayenne pepper
         - fresh red chili peppers
         - dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
@@ -392,28 +396,8 @@ emoji:
         - nonstick cooking spray
         - nonstick baking spray
         - coconut oil spray
-    - tea:
-        - active dry yeast
-        - instant yeast
-        - sourdough discard
-        - sourdough starter
-        - small yellow onion
-        - large yellow onion
-        - brown onion
-        - red onion
-        - diced red onion
-        - large onion
-        - leek
-        - leeks
-        - onion, layers separated
     - pineapple:
         - crushed pineapple
-    - stew:
-        - vegetable stock
-        - vegetable broth
-        - low-sodium vegetable broth
-        - chicken or vegetable stock
-        - stock
     - salt:
         - fine sea salt
         - freshly-cracked black pepper
@@ -431,6 +415,8 @@ emoji:
         - pepper
         - sea salt
         - flaky sea salt
+        - some salt
+        - some pepper
     - seedling:
         - pumpkin seeds
         - sunflower seeds
@@ -446,6 +432,12 @@ emoji:
         - cardamom pods
         - freshly ground cardamom
         - tahini
+    - stew:
+        - vegetable stock
+        - vegetable broth
+        - low-sodium vegetable broth
+        - chicken or vegetable stock
+        - stock
     - sweet_potato:
         - ginger
         - potatoes
@@ -482,6 +474,21 @@ emoji:
     - tea:
         - active dry yeast
         - instant yeast
+        - sourdough discard
+        - sourdough starter
+        - small yellow onion
+        - large yellow onion
+        - brown onion
+        - red onion
+        - diced red onion
+        - large onion
+        - leek
+        - leeks
+        - onion, layers separated
+        - scallions
+    - tea:
+        - active dry yeast
+        - instant yeast
     - tomato:
         - tomato
         - marinara sauce
@@ -500,6 +507,7 @@ emoji:
         - wine
         - red wine vinegar
         - rice vinegar
+        - sherry vinegar or rice vinegar
         - dry white wine
         - sake
         - mirin

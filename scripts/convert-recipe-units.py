@@ -84,7 +84,7 @@ def find_best_match(name, mappings):
         
     def tokenize(s):
         s = re.sub(r'[\(\),\-#]', ' ', s.lower())
-        return set(w for w in s.split() if w not in ["and", "or", "with", "of", "in", "for", "chopped", "pitted", "sliced", "slivered", "packed", "extra", "topping"])
+        return set(w for w in s.split() if w not in ["and", "or", "with", "of", "in", "for", "chopped", "pitted", "sliced", "slivered", "packed", "extra", "topping", "some"])
         
     name_tokens = tokenize(name_lower)
     if not name_tokens:
@@ -119,7 +119,7 @@ def find_best_key(name, table):
         
     def tokenize(s):
         s = re.sub(r'[\(\),\-#]', ' ', s.lower())
-        return set(w for w in s.split() if w not in ["and", "or", "with", "of", "in", "for", "chopped", "pitted", "sliced", "slivered", "packed", "extra", "topping"])
+        return set(w for w in s.split() if w not in ["and", "or", "with", "of", "in", "for", "chopped", "pitted", "sliced", "slivered", "packed", "extra", "topping", "some"])
         
     name_tokens = tokenize(name_lower)
     if not name_tokens:
@@ -255,11 +255,12 @@ def main():
                 else:
                     name = m.group(6)
                     
-                emoji = find_best_match(name, emoji_mappings["ingredients"])
+                name_clean = re.sub(r'^some\s+', '', name).strip()
+                emoji = find_best_match(name_clean, emoji_mappings["ingredients"])
                 grams = None
                 
                 if qty_str and unit:
-                    grams = convert_ingredient(qty_str, unit, name, measuring_table)
+                    grams = convert_ingredient(qty_str, unit, name_clean, measuring_table)
                     
                 emoji_str = f":{emoji}: " if emoji else ""
                 

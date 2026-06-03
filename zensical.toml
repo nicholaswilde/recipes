@@ -510,6 +510,7 @@ Desserts = [
 
 [[project.nav]]
 Ingredients = [
+  { "Butter" = [
     { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
     { "Almond Butter" = "ingredients/butter/almond-butter.md" },
     { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
@@ -520,7 +521,6 @@ Ingredients = [
     { "Ghee" = "ingredients/butter/ghee.md" },
     { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
     { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
-  { "Vegetarian Gochujang Paste" = "ingredients/vegetarian-gochujang-paste.md" },
     { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
   ] },
   { "Caramel" = [
@@ -710,6 +710,7 @@ Ingredients = [
   { "Vegan Parmesan" = "ingredients/vegan-parmesan.md" },
   { "Vegan Veggie Ground Meat" = "ingredients/vegan-veggie-ground-meat.md" },
   { "Vegetable Broth" = "ingredients/vegetable-broth.md" },
+  { "Vegetarian Gochujang Paste" = "ingredients/vegetarian-gochujang-paste.md" },
   { "Vegetarian Terasi" = "ingredients/vegetarian-terasi.md" },
   { "Yogurt" = "ingredients/yogurt.md" },
 ]
@@ -794,6 +795,7 @@ Main = [
   { "Game Changers Oat & Lentil Meatloaf" = "main/game-changers-oat-and-lentil-meatloaf.md" },
   { "Garlic Chana Dal" = "main/garlic-chana-dal.md" },
   { "Ginger Sesame Vegan Meatballs" = "main/ginger-sesame-vegan-meatballs.md" },
+  { "Gochujang Buttered Noodles" = "main/gochujang-buttered-noodles.md" },
   { "Greens & Grains Bowls" = "main/greens-and-grains-bowls.md" },
   { "Grilled Tofu with Chimichurri Sauce" = "main/grilled-tofu-with-chimichurri-sauce.md" },
   { "Gumbo" = "main/gumbo.md" },
@@ -852,8 +854,8 @@ Main = [
   { "Spinach & Ricotta Gnudi with Tomato Butter Sauce" = "main/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.md" },
   { "Spinach Lasagna" = "main/spinach-lasagna.md" },
   { "Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs" = "main/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.md" },
-  { "Summer Pesto Pasta" = "main/summer-pesto-pasta.md" },
   { "Stuffed Shells" = "main/stuffed-shells.md" },
+  { "Summer Pesto Pasta" = "main/summer-pesto-pasta.md" },
   { "Super Nourishing Beans & Greens" = "main/super-nourishing-beans-and-greens.md" },
   { "Sweet Potato Black Bean Enchiladas" = "main/sweet-potato-black-bean-enchiladas.md" },
   { "Taco Bake" = "main/taco-bake.md" },
