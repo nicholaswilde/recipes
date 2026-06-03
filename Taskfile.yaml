@@ -86,21 +86,20 @@ tasks:
       - docker image pull mikefarah/yq
       - docker image pull squidfunk/mkdocs-material
       - docker image pull 06kellyjac/markdownlint-cli
-      - docker image pull lycheeverse/lychee
   linkcheck:
     desc: Check for dead links using lychee
     cmds:
-      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee docs/
+      - lychee docs/
 
   linkcheck-offline:
     desc: Check for dead local links and images using lychee (offline)
     cmds:
-      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee --offline docs/
+      - lychee --offline docs/
 
   linkcheck-file:
     desc: Link check a given file using lychee
     cmds:
-      - docker run --rm -v "${PWD}":/app -w /app lycheeverse/lychee {{shellQuote .FILE}}
+      - lychee {{shellQuote .FILE}}
   lint:
     desc: Lint the project
     cmds:

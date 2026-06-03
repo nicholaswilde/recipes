@@ -77,7 +77,7 @@ function links_check() {
   for path in "${@}"; do
     s=$(get_new_markdown_path "${path}")
     s=$(realpath --relative-to="${ROOT_DIR}" "${s}")
-    docker run --rm -v "${ROOT_DIR}":/app -w /app lycheeverse/lychee "${s}"
+    (cd "${ROOT_DIR}" && lychee "${s}")
   done
 }
 

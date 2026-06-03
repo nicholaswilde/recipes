@@ -12,7 +12,7 @@ This skill leverages `lychee` to scan all external hyperlinks across markdown fi
      ```bash
      task linkcheck
      ```
-   - *Note*: This task automatically leverages `lychee` in a single Docker container, executing a parallel stream-based scan across the entire project in less than 30 seconds.
+   - *Note*: This task leverages the local `lychee` binary, executing a parallel stream-based scan across the entire project in less than 30 seconds.
 
 2. **Unpack and Filter Log Output**:
    - Since `lychee` checks thousands of links, isolate actual `404 Not Found` errors by searching the task logs:
