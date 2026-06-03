@@ -38,12 +38,6 @@ tasks:
     cmds:
       - gemini -m gemini-{{ .VER }}-flash
 
-  linkspector:
-    desc: linkspector
-    cmds:
-      - |
-        docker run --rm -it -v "${PWD}":/app -v "${PWD}"/.linkspector.yaml:/path/to/custom-config.yml \
-        --name linkspector umbrelladocs/linkspector bash -c 'linkspector check -c /path/to/custom-config.yml'
 
   add-lazy-loading:
     desc: Add lazy image loading
