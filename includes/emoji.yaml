@@ -206,6 +206,7 @@ emoji:
         - extra-firm tofu
         - Mozzarella cheese
         - feta
+        - Parmesan
     - chestnut:
         - cornstarch
         - semi-sweet chocolate
@@ -384,6 +385,7 @@ emoji:
         - arugula
         - artichoke hearts
         - kombu
+        - brussels sprouts
     - melon:
         - jackfruit
         - pumpkin puree
@@ -397,6 +399,7 @@ emoji:
     - olive:
         - extra virgin olive oil
         - olive oil
+        - extra-virgin olive oil
         - vegetable oil
         - avocado oil
         - oil
@@ -459,6 +462,7 @@ emoji:
         - ground dried ginger
         - medium potato
         - potato
+        - potato gnocchi
     - takeout_box:
         - soysauce
         - soy sauce
