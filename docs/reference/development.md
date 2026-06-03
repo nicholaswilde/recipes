@@ -282,24 +282,45 @@ cargo install lychee
     ```
 
 ### :page_with_curl: [rumdl][17]
-
+ 
 Used to lint and format Markdown files.
-
+ 
 ```shell title="Installation"
 # Via Cargo
 cargo install rumdl
 ```
-
+ 
 === "Task"
-
+ 
     ```shell title="Usage"
     task markdownlint
     ```
-
+ 
 === "Manual"
-
+ 
     ```shell title="Usage"
     rumdl check .
+    ```
+ 
+### :page_with_curl: [yamllint-rs][18]
+ 
+Used to lint YAML files.
+ 
+```shell title="Installation"
+# Via Cargo
+cargo install yamllint-rs
+```
+ 
+=== "Task"
+ 
+    ```shell title="Usage"
+    task yamllint
+    ```
+ 
+=== "Manual"
+ 
+    ```shell title="Usage"
+    yamllint-rs .
     ```
 
 ### :robot: [Google Antigravity CLI][15]
@@ -358,3 +379,4 @@ Website used to search for emoji contexts.
 [15]: <https://github.com/google-gemini/antigravity-cli>
 [16]: <https://github.com/run-llama/liteparse>
 [17]: <https://github.com/rvben/rumdl>
+[18]: <https://github.com/AvnerCohen/yamllint-rs>
