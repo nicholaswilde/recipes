@@ -44,7 +44,7 @@ graph TD
   U[CI GitHub Action workflow<br/>deploys recipe site];
   V{Is the image<br/>format webp?};
   W[Convert the image<br/>to png using dwebp];
-  X[Check spelling using<br/>spellchecker-cli];
+  X[Check spelling using<br/>typos];
   Y[Check markdown links and styling<br/>using lychee and rumdl];
   Z{What is the<br/>origin of the recipe?};
   AB{What type of device<br/>is being used?}
@@ -103,7 +103,7 @@ graph TD
   click F "#cooklang"
   click H "#cook-docs"
   click U "https://github.com/nicholaswilde/recipes/blob/main/.github/workflows/ci.yaml"
-  click X "#spellchecker-cli"
+  click X "#typos"
   click Y "#lychee"
 ```
 
@@ -215,18 +215,20 @@ Used to generate static site.
     mkdocs serve
     ```
 
-### :abc: [Spellchecker CLI][9]
+### :abc: [typos][9]
 
 Used to check documentation spelling.
 
 ```shell title="Installation"
-npm install --global spellchecker-cli
+# Via Homebrew
+brew install typos-cli
 ```
 
 === "Task"
 
     ```shell title="Usage"
     task spellcheck
+    task spellcheck-file FILE=path/to/file
     ```
 
 === "Script"
@@ -239,7 +241,7 @@ npm install --global spellchecker-cli
 === "Manual"
 
     ```shell title="Usage"
-    npx spellchecker -d dictionary.txt -f {"./cook/**/*.cook","./docs/**/*.md"}
+    typos
     ```
 
 ```shell title="Add to dictionary"
@@ -392,7 +394,7 @@ Website used to search for emoji contexts.
 [5]: <https://emojicombos.com/>
 [7]: <https://www.mkdocs.org/>
 [8]: <https://taskfile.dev/>
-[9]: <https://github.com/tbroadley/spellchecker-cli>
+[9]: <https://github.com/crate-ci/typos>
 [10]: <https://github.com/lycheeverse/lychee>
 [11]: <https://github.com/cooklang/cook-import>
 [12]: <https://github.com/nicholaswilde/cooklang-micro>

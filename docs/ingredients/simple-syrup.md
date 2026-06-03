@@ -37,7 +37,7 @@ hero: assets/images/simple-syrup.jpg
 ### Step 1
 
 In a pot, bring granulated sugar and water to a boil while stirring occasionally. Remove from heat and stir in alcohol
-(optoinal) such as dark rum. Let cool to room temperature.
+(optional) such as dark rum. Let cool to room temperature.
 
 !!! tip
 

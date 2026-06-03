@@ -68,7 +68,7 @@ tasks:
   deps:
     desc: Install dependencies
     cmds:
-      - npm install --location=global spellchecker-cli
+      - brew install typos-cli
 
   linkcheck:
     desc: Check for dead links using lychee
@@ -140,17 +140,13 @@ tasks:
   spellcheck:
     desc: Spellcheck cook files
     cmds:
-      - npx spellchecker --config {{ .ROOT_DIR }}/.spellcheckerrc.yml
-
+      - python3 scripts/generate_typos_config.py
+      - typos
   spellcheck-file:
     desc: Spellcheck a single file
     cmds:
-      - |
-        npx spellchecker -d {{ .ROOT_DIR }}/dictionary.txt -f {{shellQuote .f }} \
-          --config {{ .ROOT_DIR }}/.spellcheckerrc.yml
-    vars:
-      f:
-        sh: "readlink -f {{shellQuote .FILE}}"
+      - python3 scripts/generate_typos_config.py
+      - typos {{shellQuote .FILE}}
   commit:
     desc: Commit new cook files, FILES.
     cmds:
