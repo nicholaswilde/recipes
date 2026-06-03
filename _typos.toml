@@ -1,8 +1,6 @@
 [files]
 extend-exclude = [
   "docs/assets/images/**",
-  "libbash/**",
-  "scripts/libbash/**",
   "conductor/**",
   "*.jpg",
   "*.png",

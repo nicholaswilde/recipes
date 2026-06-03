@@ -170,3 +170,24 @@ function do_checks(){
 function get_mime_type(){
   file -b --mime-type "${1}"
 }
+
+function lb_infoln() {
+  printf "\033[0;32mINFO: %s\033[0m\n" "$1"
+}
+
+function lb_command_exists() {
+  command_exists "$@"
+}
+
+function lb_is_null() {
+  is_null "$@"
+}
+
+function lb_show_version() {
+  show_version "$@"
+}
+
+function lb_usage_error() {
+  usage_error "$@"
+}
+

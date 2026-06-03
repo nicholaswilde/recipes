@@ -3,8 +3,6 @@ extends: default
 
 ignore: |
   **/.github/**
-  libbash/**
-  scripts/libbash/**
 
 rules:
   indentation: disable

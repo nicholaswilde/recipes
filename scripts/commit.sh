@@ -32,11 +32,6 @@ readonly DEBUG
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
 
-# shellcheck source=/dev/null
-source "${DIR}/libbash/init"
-# shellcheck source=/dev/null
-source "${LIBBASH_DIR}/all"
-
 function file_status(){
   git diff --quiet "${1}"
 }

@@ -7,8 +7,6 @@ def main():
     
     exclusions = [
         "docs/assets/images/**",
-        "libbash/**",
-        "scripts/libbash/**",
         "conductor/**",
         "*.jpg",
         "*.png",

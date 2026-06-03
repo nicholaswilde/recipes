@@ -31,11 +31,6 @@ readonly DEBUG
 # shellcheck source=/dev/null
 source "${DIR}/lib/libbash"
 
-# shellcheck source=/dev/null
-source "${DIR}/libbash/init"
-# shellcheck source=/dev/null
-source "${LIBBASH_DIR}/all"
-
 function cleanup(){
   if command_exists task; then
    lb_infoln "Cleaning up"
