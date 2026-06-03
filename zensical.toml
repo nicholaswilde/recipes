@@ -510,7 +510,6 @@ Desserts = [
 
 [[project.nav]]
 Ingredients = [
-  { "Butter" = [
     { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
     { "Almond Butter" = "ingredients/butter/almond-butter.md" },
     { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
@@ -521,6 +520,7 @@ Ingredients = [
     { "Ghee" = "ingredients/butter/ghee.md" },
     { "Ginger-Miso Basting Butter" = "ingredients/butter/ginger-miso-basting-butter.md" },
     { "Spreadable Butter" = "ingredients/butter/spreadable-butter.md" },
+  { "Vegetarian Gochujang Paste" = "ingredients/vegetarian-gochujang-paste.md" },
     { "Whipped Brie Butter" = "ingredients/butter/whipped-brie-butter.md" },
   ] },
   { "Caramel" = [
