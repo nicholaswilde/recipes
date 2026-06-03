@@ -6,13 +6,13 @@ tags:
   - rolls
 hero: assets/images/parker-house-rolls.jpg
 ---
-# Parker House Rolls
+# :bread: Parker House Rolls
 
 ![Parker House Rolls][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 16 | 3.22 hours |
+|:----------------------------------:|:------------------------:|
+| 16                                 | 3.22 hours               |
 
 ## :salt: Ingredients
 
@@ -36,7 +36,9 @@ hero: assets/images/parker-house-rolls.jpg
 
 ### Step 1
 
-Combine all-purpose flour, instant yeast, granulated sugar, table salt, potato flour or dried potato flakes, butter (room temperature), milk, and egg in a large bowl; mix to a shaggy dough. Tip: warm the milk and egg slightly to speed rising.
+Combine all-purpose flour, instant yeast, granulated sugar, table salt, potato flour or dried potato flakes, butter
+(room temperature), milk, and egg in a large bowl; mix to a shaggy dough. Tip: warm the milk and egg slightly to
+speed rising.
 
 ### Step 2
 
@@ -56,11 +58,13 @@ Brush dough with butter (melted), reserving remainder for the other half and top
 
 ### Step 6
 
-Cut each piece lengthwise into two 4" × 12" strips. Fold each strip lengthwise so the bottom edge extends about 1/2" beyond the top, forming about 2 1/4" × 12" strips.
+Cut each piece lengthwise into two 4" × 12" strips. Fold each strip lengthwise so the bottom edge extends about 1/2"
+beyond the top, forming about 2 1/4" × 12" strips.
 
 ### Step 7
 
-Cut each strip crosswise into 4 pieces (about 3" each), making 8 folded rolls per half (16 total). Flip smooth-side up and place in a lightly greased baking pan. Gently flatten to cover the pan bottom.
+Cut each strip crosswise into 4 pieces (about 3" each), making 8 folded rolls per half (16 total). Flip smooth-side
+up and place in a lightly greased baking pan. Gently flatten to cover the pan bottom.
 
 ### Step 8
 
