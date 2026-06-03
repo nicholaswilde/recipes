@@ -280,6 +280,7 @@ $$
 | Salt (kosher, Diamond Crystal)                        | 1 Tbsp            | 8           | -           |
 | Salt (kosher, Morton’s)                               | 1 Tbsp            | 16          | -           |
 | Salt (table)                                          | 1 Tbsp            | 18          | -           |
+| Salted Butter                                         | 8 Tbsp (1/2 cup)  | 113         | 4           |
 | Scallions (sliced)                                    | 1 cup             | 64          | 2-1/4       |
 | Self-Rising Flour                                     | 1 cup             | 113         | 4           |
 | Semolina Flour                                        | 1 cup             | 163         | 5-3/4       |
@@ -309,6 +310,7 @@ $$
 | Tomatoes (fresh, chopped)                             | 1 cup             | 180         | 6.35        |
 | Tubinado Sugar (raw)                                  | 1 cup             | 180         | 6-3/8       |
 | Unbleached Cake Flour                                 | 1 cup             | 120         | 4-1/4       |
+| Unsalted Butter                                       | 8 Tbsp (1/2 cup)  | 113         | 4           |
 | Vanilla Extract                                       | 1 Tbsp            | 14          | 1/2         |
 | Vegetable Oil                                         | 1 cup             | 198         | 7           |
 | Vegetable Shortening                                  | 1/4 cup           | 46          | 1-5/8       |
@@ -317,6 +319,7 @@ $$
 | Walnuts (chopped)                                     | 1 cup             | 113         | 4           |
 | Walnuts (whole)                                       | 1/2 cup           | 64          | 2-1/4       |
 | Water                                                 | 1 cup             | 227         | 8           |
+| Whole Milk                                            | 1 cup             | 227         | 8           |
 | Wheat Berries (red)                                   | 1 cup             | 184         | 6-1/2       |
 | Wheat Bran                                            | 1/2 cup           | 32          | 1-1/8       |
 | Wheat Germ                                            | 1/4 cup           | 28          | 1           |

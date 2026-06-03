@@ -96,7 +96,6 @@ emoji:
         - kiwi
         - blackberries
         - raspberries
-        - strawberries
         - blueberries
         - banana
         - bananas
@@ -461,6 +460,10 @@ emoji:
         - low-sodium vegetable broth
         - chicken or vegetable stock
         - stock
+    - strawberry:
+        - strawberries
+        - strawberry
+        - fresh strawberries
     - sweet_potato:
         - ginger
         - potatoes
