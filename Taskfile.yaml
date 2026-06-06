@@ -83,6 +83,12 @@ tasks:
     cmds:
       - task: markdownlint
       - task: yamllint
+      - task: shuck
+
+  shuck:
+    desc: Run shuck shell linter
+    cmds:
+      - shuck check scripts/
   list-ingredients:
     desc: List all ingredients in all cook recipes and copy to clipboard.
     cmds:

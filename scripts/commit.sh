@@ -29,7 +29,7 @@ readonly SCRIPT_VERSION
 readonly SCRIPT_DESC
 readonly DEBUG
 
-# shellcheck source=/dev/null
+# shuck:disable=C003
 source "${DIR}/lib/libbash"
 
 function file_status(){
@@ -107,6 +107,7 @@ while getopts ":hv-" o; do
     OPTARG="${OPTARG#"$o"}"   # extract long option argument (may be empty)
     OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
   fi
+  # shuck:disable=C135
   case "${o}" in
     h|help)    show_help "${SCRIPT_NAME}" "${SCRIPT_DESC}";;
     v|version) lb_show_version "${SCRIPT_NAME}" "${SCRIPT_VERSION}";;

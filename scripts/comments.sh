@@ -15,6 +15,7 @@
 set -e
 set -o pipefail
 readonly DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )/../" >/dev/null 2>&1 && pwd )
+# shuck:disable=C013
 for f in $(find "${DIR}" -not -path '*.github*' -not -path '*cook*' -not -name '*index.md' -not -name '*README.md' -name \*.md); do
   s=$(head -n 1 "${f}")
   if [[ "${s}" != "---" ]]; then
