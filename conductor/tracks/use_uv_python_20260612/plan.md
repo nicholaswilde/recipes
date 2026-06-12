@@ -8,8 +8,8 @@
 
 ## Phase 2: Taskfile and Script Migration
 
-- [ ] Task: Update `Taskfile.yaml` to use `uv run`
-    - [ ] Update tasks like `validate` and `spellcheck` in `Taskfile.yaml` to run via `uv run`
+- [~] Task: Update `Taskfile.yaml` to use `uv run`
+    - [~] Update tasks like `validate` and `spellcheck` in `Taskfile.yaml` to run via `uv run`
 - [ ] Task: Update utility shell scripts to use `uv run`
     - [ ] Add check for the `uv` binary in scripts (e.g. `move.sh`) and fail cleanly if missing
     - [ ] Replace `python3` with `uv run` inside shell scripts
