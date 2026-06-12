@@ -9,6 +9,11 @@ vars:
   PORT: 8000
 
 tasks:
+  build:
+    desc: Build the static site
+    cmds:
+      - uv run zensical build
+      
   docs:deps:
     desc: Install Zensical
     cmds:
@@ -104,7 +109,7 @@ tasks:
   serve:
     desc: Serve a local zensical server
     cmds:
-      - zensical serve
+      - uv run zensical serve
   server:
     desc: Serve a cook server
     cmds:
