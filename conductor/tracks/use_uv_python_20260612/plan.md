@@ -19,8 +19,8 @@
 
 ## Phase 3: Documentation and Verification
 
-- [~] Task: Update developer documentation
-    - [~] Replace any raw `python3` commands with `uv run` in `docs/` and skills documentation
-- [ ] Task: Verify full repository status
-    - [ ] Run `task lint` and verify no syntax/link check errors exist
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Documentation and Verification' (Protocol in workflow.md)
+- [x] Task: Update developer documentation 2e35cd4
+    - [x] Replace any raw `python3` commands with `uv run` in `docs/` and skills documentation
+- [x] Task: Verify full repository status 2e35cd4
+    - [x] Run `task lint` and verify no syntax/link check errors exist
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Documentation and Verification' (Protocol in workflow.md) 2e35cd4
