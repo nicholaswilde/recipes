@@ -31,24 +31,38 @@ repository following the established recipe import workflow.
    - Name it `{Recipe Name}.jpg` and place it in the same directory as the `.cook` file.
 5. **Run Move Task:**
    - Execute `FILES="cook/{category}/{Recipe Name}.cook" task move`.
-   - This converts the `.cook` file to Markdown, copies/converts the recipe image, runs the `lychee` link checker, and automatically inserts the navigation mapping entry into the correct category section of `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
+   - This converts the `.cook` file to Markdown, copies/converts the recipe image, runs the `lychee` link
+     checker, and automatically inserts the navigation mapping entry into the correct category section of
+     `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
 6. **Post-Process Markdown:**
    - Locate the generated Markdown file in `docs/{category}/{Recipe Name}.md`.
-   - **Emojis:** Run `uv run scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify that all ingredients and cookware are mapped in `includes/emoji.yaml`. Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if any emojis are reported missing.
+   - **Emojis:** Run `uv run scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify
+     that all ingredients and cookware are mapped in `includes/emoji.yaml`. Add emoji shortcodes from
+     `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if any emojis are reported missing.
    - **Tags:** Add relevant tags to the front matter.
-   - **Conversions:** Run `uv run scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"` to automatically convert volumetric measurements to grams and add emojis using the data from `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md` if any conversions are missing or incorrect.
+   - **Conversions:** Run `uv run scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"`
+     to automatically convert volumetric measurements to grams and add emojis using the data from
+     `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md`
+     if any conversions are missing or incorrect.
    - **Additional References:** If there is a "Pancake Princess" link in the source issue, include that link as
      an additional reference in the `## :link: Source` section of the Markdown recipe page.
 7. **Spellcheck and Whitelist:**
-    - Run the focused spellcheck on the newly generated Markdown recipe file:
+   - Run the focused spellcheck on the newly generated Markdown recipe file:
+
       ```bash
       task spellcheck-file FILE="docs/{category}/{recipe-name-slug}.md"
       ```
-    - If any valid new words (e.g. proper nouns, technical cooking terms, or unique ingredient names) are flagged as typos by the spellchecker:
+
+    - If any valid new words (e.g., proper nouns, technical cooking terms, or unique ingredient names)
+      are flagged as typos by the spellchecker:
       - Append them to the end of `dictionary.txt` in the root directory.
       - Run the sort task (`task sort`) to clean and organize the dictionary.
-      - Re-run `task spellcheck-file` to automatically regenerate the `_typos.toml` configuration and verify that the file is clean.
+      - Re-run `task spellcheck-file` to automatically regenerate the `_typos.toml` configuration and
+        verify that the file is clean.
 
 ## GitHub CLI (`gh`) Guidelines
 
-When using the GitHub CLI (`gh`) to view issues, check workflow runs, or run other commands inside sandbox or non-interactive terminals, always disable the interactive pager by piping the output to `cat` (e.g., `gh run list --limit 5 | cat` or `gh issue view 1253 | cat`). This prevents the command from hanging or warning about a non-functional terminal.
+When using the GitHub CLI (`gh`) to view issues, check workflow runs, or run other commands inside sandbox or
+non-interactive terminals, always disable the interactive pager by piping the output to `cat` (e.g.,
+`gh run list --limit 5 | cat` or `gh issue view 1253 | cat`). This prevents the command from hanging or warning
+about a non-functional terminal.
