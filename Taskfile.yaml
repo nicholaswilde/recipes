@@ -140,12 +140,12 @@ tasks:
   spellcheck:
     desc: Spellcheck cook files
     cmds:
-      - python3 scripts/generate_typos_config.py
+      - uv run scripts/generate_typos_config.py
       - typos
   spellcheck-file:
     desc: Spellcheck a single file
     cmds:
-      - python3 scripts/generate_typos_config.py
+      - uv run scripts/generate_typos_config.py
       - typos {{shellQuote .FILE}}
   commit:
     desc: Commit new cook files, FILES.
@@ -171,9 +171,9 @@ tasks:
   validate:
     desc: Validate zensical.toml
     cmds:
-      - python3 -c "import tomllib, sys; tomllib.load(open('zensical.toml', 'rb'))"
+      - uv run python -c "import tomllib, sys; tomllib.load(open('zensical.toml', 'rb'))"
     preconditions:
-      - test: test -n "$(python3 -c 'import tomllib' 2>/dev/null && echo 'found')"
+      - test: test -n "$(uv run python -c 'import tomllib' 2>/dev/null && echo 'found')"
         msg: |
           tomllib not found. Please install a Python version that includes tomllib (Python 3.11+).
     silent: true
