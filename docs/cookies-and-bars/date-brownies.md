@@ -62,5 +62,5 @@ Pour the batter into the prepared pan, top with extra dark chocolate chips and f
 
 - <https://theplantbasedschool.com/date-brownies/>
 
-[1]: <../assets/images/date-brownies.jpg>
+[1]: <../assets/images/date-brownies.webp>
 

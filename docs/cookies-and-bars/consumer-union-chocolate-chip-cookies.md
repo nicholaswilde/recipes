@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - recipe-box
-hero: assets/images/consumer-union-chocolate-chip-cookies.jpg
+hero: assets/images/consumer-union-chocolate-chip-cookies.webp
 ---
 
 # :cookie: Consumer Union Chocolate Chip Cookies
 
-![Consumer Union Chocolate Chip Cookies](../assets/images/consumer-union-chocolate-chip-cookies.jpg){ loading=lazy }
+![Consumer Union Chocolate Chip Cookies](../assets/images/consumer-union-chocolate-chip-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

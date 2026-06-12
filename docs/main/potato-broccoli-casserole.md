@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - main
-hero: assets/images/potato-broccoli-casserole.jpg
+hero: assets/images/potato-broccoli-casserole.webp
 ---
 
 # :potato: Potato Broccoli Casserole
 
-![Potato Broccoli Casserole](../assets/images/potato-broccoli-casserole.jpg){ loading=lazy }
+![Potato Broccoli Casserole](../assets/images/potato-broccoli-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

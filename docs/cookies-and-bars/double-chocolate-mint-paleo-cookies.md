@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/double-chocolate-mint-paleo-cookies.jpg
+hero: assets/images/double-chocolate-mint-paleo-cookies.webp
 ---
 
 # :cookie: Double Chocolate Mint Paleo Cookies
@@ -95,5 +95,5 @@ Let set and store at room temperature for up to one week.
 
 - <https://www.erinliveswhole.com/paleo-double-chocolate-mint-cookies/>
 
-[1]: <../assets/images/double-chocolate-mint-paleo-cookies.jpg>
+[1]: <../assets/images/double-chocolate-mint-paleo-cookies.webp>
 [2]: <../ingredients/almond-flour.md>

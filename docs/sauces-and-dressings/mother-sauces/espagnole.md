@@ -5,12 +5,12 @@ tags:
   - mother-sauce
   - french
   - joy-of-cooking
-hero: assets/images/espagnole.jpg
+hero: assets/images/espagnole.webp
 ---
 
 # :cow: Espagnole
 
-![Espagnole](../../assets/images/espagnole.jpg){ loading=lazy }
+![Espagnole](../../assets/images/espagnole.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

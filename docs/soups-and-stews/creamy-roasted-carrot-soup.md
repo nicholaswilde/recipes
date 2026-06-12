@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - soup
-hero: assets/images/creamy-roasted-carrot-soup.jpg
+hero: assets/images/creamy-roasted-carrot-soup.webp
 ---
 
 # :carrot: Creamy Roasted Carrot Soup
 
-![Creamy Roasted Carrot Soup](../assets/images/creamy-roasted-carrot-soup.jpg){ loading=lazy }
+![Creamy Roasted Carrot Soup](../assets/images/creamy-roasted-carrot-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

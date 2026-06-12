@@ -5,7 +5,7 @@ tags:
   - cookie
   - dorie-greenspan
   - dessert
-hero: assets/images/vanilla-bean-sables.jpg
+hero: assets/images/vanilla-bean-sables.webp
 ---
 
 # :cookie: Vanilla Bean Sables
@@ -73,4 +73,4 @@ Repeat the baking with the remaining dough.
 
 - <https://alexandracooks.com/2016/10/26/vanilla-bean-sables/>
 
-[1]: <../assets/images/vanilla-bean-sables.jpg>
+[1]: <../assets/images/vanilla-bean-sables.webp>

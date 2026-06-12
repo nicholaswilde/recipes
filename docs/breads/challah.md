@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/challah.jpg
+hero: assets/images/challah.webp
 ---
 
 # :baguette_bread: Challah
@@ -136,4 +136,4 @@ Store cooled bread, well wrapped, at room temperature for several days; freeze f
 - <https://youtube.com/watch?v=UdYYRColviQ>
 - <https://youtube.com/watch?v=niM19Rt7t38>
 
-[1]: <../assets/images/challah.jpg>
+[1]: <../assets/images/challah.webp>

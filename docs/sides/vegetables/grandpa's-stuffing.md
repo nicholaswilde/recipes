@@ -4,12 +4,12 @@ tags:
 
   - holiday
   - side
-hero: assets/images/grandpa's-stuffing.jpg
+hero: assets/images/grandpa's-stuffing.webp
 ---
 
 # :stuffed_flatbread: Grandpa's Stuffing
 
-![Grandpa's Stuffing](../../assets/images/grandpa's-stuffing.jpg){ loading=lazy }
+![Grandpa's Stuffing](../../assets/images/grandpa's-stuffing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

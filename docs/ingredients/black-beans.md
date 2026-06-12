@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - pressure-cooker
-hero: assets/images/black-beans.jpg
+hero: assets/images/black-beans.webp
 ---
 
 # :canned_food: Black Beans
 
-![Black Beans](../assets/images/black-beans.jpg){ loading=lazy }
+![Black Beans](../assets/images/black-beans.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

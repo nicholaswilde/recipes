@@ -5,12 +5,12 @@ tags:
   - ina-garten
   - cake
   - dessert
-hero: assets/images/ina-garten's-coconut-cake.jpg
+hero: assets/images/ina-garten's-coconut-cake.webp
 ---
 
 # :coconut: Ina Garten's Coconut Cake
 
-![Ina Garten's Coconut Cake](../../assets/images/ina-garten's-coconut-cake.jpg){ loading=lazy }
+![Ina Garten's Coconut Cake](../../assets/images/ina-garten's-coconut-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

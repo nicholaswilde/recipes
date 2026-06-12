@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/gingerbread-people.jpg
+hero: assets/images/gingerbread-people.webp
 ---
 # Gingerbread People
 
@@ -51,5 +51,5 @@ While they are still warm, spread evenly with lemon glaze.
 
 Cool before frosting with Royal icing.
 
-[1]: <../assets/images/gingerbread-people.jpg>
+[1]: <../assets/images/gingerbread-people.webp>
 

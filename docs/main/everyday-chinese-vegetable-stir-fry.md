@@ -5,12 +5,12 @@ tags:
   - asian
   - stir-fry
   - vegetarian
-hero: assets/images/everyday-chinese-vegetable-stir-fry.jpg
+hero: assets/images/everyday-chinese-vegetable-stir-fry.webp
 ---
 
 # :rice: Everyday Chinese Vegetable Stir-Fry
 
-![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg){ loading=lazy }
+![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

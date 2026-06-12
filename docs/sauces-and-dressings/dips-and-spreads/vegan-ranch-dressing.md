@@ -4,12 +4,12 @@ tags:
 
   - dressing
   - vegan
-hero: assets/images/vegan-ranch-dressing.jpg
+hero: assets/images/vegan-ranch-dressing.webp
 ---
 
 # :herb: Vegan Ranch Dressing
 
-![Vegan Ranch Dressing](../../assets/images/vegan-ranch-dressing.jpg){ loading=lazy }
+![Vegan Ranch Dressing](../../assets/images/vegan-ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

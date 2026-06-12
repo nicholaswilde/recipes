@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/hummus-orange-juice-dressing.jpg
+hero: assets/images/hummus-orange-juice-dressing.webp
 ---
 
 # :falafel: Hummus-Orange Juice Dressing
 
-![Hummus-Orange Juice Dressing](../../assets/images/hummus-orange-juice-dressing.jpg){ loading=lazy }
+![Hummus-Orange Juice Dressing](../../assets/images/hummus-orange-juice-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

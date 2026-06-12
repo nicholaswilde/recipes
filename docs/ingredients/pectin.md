@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/pectin.jpg
+hero: assets/images/pectin.webp
 ---
 
 # :rice: Pectin
 
-![Pectin](../assets/images/pectin.jpg){ loading=lazy }
+![Pectin](../assets/images/pectin.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/grilled-naan.jpg
+hero: assets/images/grilled-naan.webp
 ---
 
 # :flatbread: Grilled Naan
@@ -97,4 +97,4 @@ Store naan, well-wrapped, on the counter for two days; freeze for longer storage
 
 - <https://www.kingarthurbaking.com/recipes/grilled-naan-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

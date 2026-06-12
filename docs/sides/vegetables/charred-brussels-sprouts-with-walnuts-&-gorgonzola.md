@@ -4,7 +4,7 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg
+hero: assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.webp
 ---
 
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola
@@ -54,4 +54,4 @@ Meanwhile, toast walnuts in a heated for 8 to 10 minutes.
 
 Transfer to a large bowl. Add Brussels sprouts, walnuts, crumbled Gorgonzola, and balsamic vinegar.
 
-[1]: <../../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg>
+[1]: <../../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.webp>

@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - gordon-ramsay
-hero: assets/images/world's-best-brownies.jpg
+hero: assets/images/world's-best-brownies.webp
 ---
 
 # :chocolate_bar: World's Best Brownies
 
-![World's Best Brownies](../assets/images/world's-best-brownies.jpg){ loading=lazy }
+![World's Best Brownies](../assets/images/world's-best-brownies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

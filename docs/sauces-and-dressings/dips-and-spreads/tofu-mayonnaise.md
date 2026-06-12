@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - vegan
-hero: assets/images/tofu-mayonnaise.jpg
+hero: assets/images/tofu-mayonnaise.webp
 ---
 
 # :egg: Tofu Mayonnaise
@@ -61,5 +61,5 @@ For best results, chill for at least an hour before using.
 
 - <https://nutritionstudies.org/recipes/dip-spread/tofu-mayonnaise/>
 
-[1]: <../../assets/images/tofu-mayonnaise.jpg>
+[1]: <../../assets/images/tofu-mayonnaise.webp>
 [2]: <../dijon-mustard.md>

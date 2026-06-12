@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/pepperidge-farm-whole-wheat-bread.jpg
+hero: assets/images/pepperidge-farm-whole-wheat-bread.webp
 ---
 
 # Pepperidge Farm Whole Wheat Bread
@@ -64,4 +64,4 @@ minutes to 45 minutes longer or until bread is done.
 
 - <https://www.recipesecrets.net/t/pepperidge-farm-whole-wheat-bread-copycat-from-1937/261083>
 
-[1]: <../assets/images/pepperidge-farm-whole-wheat-bread.jpg>
+[1]: <../assets/images/pepperidge-farm-whole-wheat-bread.webp>

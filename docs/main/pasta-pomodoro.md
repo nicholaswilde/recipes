@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - jean-pierre
-hero: assets/images/pasta-pomodoro.jpg
+hero: assets/images/pasta-pomodoro.webp
 ---
 
 # :spaghetti: Pasta Pomodoro
 
-![Pasta Pomodoro](../assets/images/pasta-pomodoro.jpg){ loading=lazy }
+![Pasta Pomodoro](../assets/images/pasta-pomodoro.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

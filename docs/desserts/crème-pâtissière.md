@@ -6,12 +6,12 @@ tags:
   - dominique-ansel
   - custard
   - filling
-hero: assets/images/crème-pâtissière.jpg
+hero: assets/images/crème-pâtissière.webp
 ---
 
 # :egg: Crème Pâtissière
 
-![Crème Pâtissière](../assets/images/crème-pâtissière.jpg){ loading=lazy }
+![Crème Pâtissière](../assets/images/crème-pâtissière.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

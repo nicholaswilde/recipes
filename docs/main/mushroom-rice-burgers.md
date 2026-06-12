@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/mushroom-rice-burgers.jpg
+hero: assets/images/mushroom-rice-burgers.webp
 ---
 # Mushroom Rice Burgers
 
@@ -47,7 +47,7 @@ Cover mixture and refrigerate 3 to 4 hours. Make 4 patties and refrigerate for 1
 
 On grill, cook 4 to 6 minutes per side.
 
-[1]: <../assets/images/mushroom-rice-burgers.jpg>
+[1]: <../assets/images/mushroom-rice-burgers.webp>
 [2]: <../ingredients/brown-rice.md>
 [3]: <../ingredients/eggs.md>
 

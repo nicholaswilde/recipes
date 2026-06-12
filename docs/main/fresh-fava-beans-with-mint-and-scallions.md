@@ -4,7 +4,7 @@ tags:
 
   - main
   - the-blue-zones-kitchen
-hero: assets/images/fresh-fava-beans-with-mint-and-scallions.jpg
+hero: assets/images/fresh-fava-beans-with-mint-and-scallions.webp
 ---
 
 # :onion: Fresh Fava Beans with Mint & Scallions
@@ -54,5 +54,5 @@ Serve with fennel and [sun-dried tomato sauté][2].
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/fresh-fava-beans-with-mint-and-scallions.jpg>
+[1]: <../assets/images/fresh-fava-beans-with-mint-and-scallions.webp>
 [2]: <./cabbage-and-sun-dried-tomato-sauté.md>

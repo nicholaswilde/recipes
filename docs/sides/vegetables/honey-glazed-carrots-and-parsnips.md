@@ -5,12 +5,12 @@ tags:
   - favorite
   - gordon-ramsay
   - side
-hero: assets/images/honey-glazed-carrots-and-parsnips.jpg
+hero: assets/images/honey-glazed-carrots-and-parsnips.webp
 ---
 
 # :carrot: Honey Glazed Carrots & Parsnips
 
-![Honey Glazed Carrots and Parsnips](../../assets/images/honey-glazed-carrots-and-parsnips.jpg){ loading=lazy }
+![Honey Glazed Carrots and Parsnips](../../assets/images/honey-glazed-carrots-and-parsnips.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

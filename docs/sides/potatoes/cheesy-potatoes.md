@@ -3,12 +3,12 @@ comments: true
 tags:
   - holiday
   - side
-hero: assets/images/cheesy-potatoes.jpg
+hero: assets/images/cheesy-potatoes.webp
 ---
 
 # :potato: Cheesy Potatoes
 
-![Cheesy Potatoes](../../assets/images/cheesy-potatoes.jpg){ loading=lazy }
+![Cheesy Potatoes](../../assets/images/cheesy-potatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

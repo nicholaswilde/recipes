@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
-hero: assets/images/buttermilk-pancakes.jpg
+hero: assets/images/buttermilk-pancakes.webp
 ---
 
 # :pancakes: Buttermilk Pancakes
@@ -36,5 +36,5 @@ Decrease the baking powder to 1 tsp. Substitute buttermilk for the milk.
 
 - Joy of Cooking
 
-[1]: <../assets/images/buttermilk-pancakes.jpg>
+[1]: <../assets/images/buttermilk-pancakes.webp>
 [2]: <./joy-of-cooking-pancakes.md>

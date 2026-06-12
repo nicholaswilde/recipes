@@ -5,7 +5,7 @@ tags:
   - stew
   - vegetarian
   - mushrooms
-hero: assets/images/mushroom-bourguignon.jpg
+hero: assets/images/mushroom-bourguignon.webp
 ---
 # Mushroom Bourguignon
 
@@ -65,4 +65,4 @@ To serve, spoon the stew over a bowl of cooked egg noodles. Dollop with sour cre
 - [Smitten Kitchen](https://smittenkitchen.com/2009/01/mushroom-bourguignon/)
 - [Eater](https://www.eater.com/24281779/best-mushroom-recipes-eater-staff)
 
-[1]: <../assets/images/mushroom-bourguignon.jpg>
+[1]: <../assets/images/mushroom-bourguignon.webp>

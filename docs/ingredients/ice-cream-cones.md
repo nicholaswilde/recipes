@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/ice-cream-cones.jpg
+hero: assets/images/ice-cream-cones.webp
 ---
 
 # :icecream: Ice Cream Cones
 
-![Ice Cream Cones](../assets/images/ice-cream-cones.jpg){ loading=lazy }
+![Ice Cream Cones](../assets/images/ice-cream-cones.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

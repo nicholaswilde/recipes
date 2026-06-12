@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/holiday-butter-cookies.jpg
+hero: assets/images/holiday-butter-cookies.webp
 ---
 
 # :butter: Holiday Butter Cookies
@@ -87,4 +87,4 @@ When cool, ice and decorate as desired.
 
 - [The Pancake Princess - Best Sugar Cookie Bake-Off](https://www.thepancakeprincess.com/2017/12/20/best-sugar-cookie-bake-off/)
 
-[1]: <../assets/images/holiday-butter-cookies.jpg>
+[1]: <../assets/images/holiday-butter-cookies.webp>

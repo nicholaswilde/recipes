@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cooks-illustrated
-hero: assets/images/choco-taco.jpg
+hero: assets/images/choco-taco.webp
 ---
 
 # :taco: Choco Taco
 
-![Choco Taco](../assets/images/choco-taco.jpg){ loading=lazy }
+![Choco Taco](../assets/images/choco-taco.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

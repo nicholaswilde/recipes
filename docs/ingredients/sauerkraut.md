@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/sauerkraut.jpg
+hero: assets/images/sauerkraut.webp
 ---
 
 # :leafy_green: Sauerkraut
 
-![Sauerkraut](../assets/images/sauerkraut.jpg){ loading=lazy }
+![Sauerkraut](../assets/images/sauerkraut.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

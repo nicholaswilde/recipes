@@ -4,12 +4,12 @@ tags:
 
   - bites
   - applied-kitchen
-hero: assets/images/carrot-cake-protein-bites.jpg
+hero: assets/images/carrot-cake-protein-bites.webp
 ---
 
 # :carrot: Carrot Cake Protein Bites
 
-![Carrot Cake Protein Bites](../../assets/images/carrot-cake-protein-bites.jpg){ loading=lazy }
+![Carrot Cake Protein Bites](../../assets/images/carrot-cake-protein-bites.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

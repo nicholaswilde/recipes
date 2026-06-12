@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/pita.jpg
+hero: assets/images/pita.webp
 ---
 
 # :flatbread: Pita
@@ -88,4 +88,4 @@ Store cooled pitas in an airtight container or plastic bag.
 
 - <https://www.kingarthurbaking.com/recipes/golden-pita-bread-recipe>
 
-[1]: <../assets/images/pita.jpg>
+[1]: <../assets/images/pita.webp>

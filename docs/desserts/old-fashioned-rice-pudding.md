@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/old-fashioned-rice-pudding.jpg
+hero: assets/images/old-fashioned-rice-pudding.webp
 ---
 
 # :rice: Old-Fashioned Rice Pudding
@@ -77,4 +77,4 @@ Let cool and then refrigerate. The last 1/2 cup milk is stirred in just before s
 
 - <https://spicysouthernkitchen.com/old-fashioned-rice-pudding/>
 
-[1]: <../assets/images/old-fashioned-rice-pudding.jpg>
+[1]: <../assets/images/old-fashioned-rice-pudding.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
   - cookie
   - holiday
-hero: assets/images/tiny-mini-kisses-peanut-blossoms.jpg
+hero: assets/images/tiny-mini-kisses-peanut-blossoms.webp
 ---
 
 # :chocolate_bar: Tiny Mini Kisses Peanut Blossoms
 
-![Tiny Mini Kisses Peanut Blossoms](../assets/images/tiny-mini-kisses-peanut-blossoms.jpg){ loading=lazy }
+![Tiny Mini Kisses Peanut Blossoms](../assets/images/tiny-mini-kisses-peanut-blossoms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

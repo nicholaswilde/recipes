@@ -5,12 +5,12 @@ tags:
   - mexican
   - sauce
   - cooks-illustrated
-hero: assets/images/aji-verde.jpg
+hero: assets/images/aji-verde.webp
 ---
 
 # :hot_pepper: Aji Verde
 
-![Aji Verde](../../assets/images/aji-verde.jpg){ loading=lazy }
+![Aji Verde](../../assets/images/aji-verde.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

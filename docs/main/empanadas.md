@@ -4,12 +4,12 @@ tags:
 
   - mexican
   - tante-myrna-seccia
-hero: assets/images/empanadas.jpg
+hero: assets/images/empanadas.webp
 ---
 
 # :dumpling: Empanadas
 
-![Empanadas](../assets/images/empanadas.jpg){ loading=lazy }
+![Empanadas](../assets/images/empanadas.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

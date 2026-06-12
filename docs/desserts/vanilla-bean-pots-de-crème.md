@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/vanilla-bean-pots-de-crème.jpg
+hero: assets/images/vanilla-bean-pots-de-crème.webp
 ---
 # Vanilla Bean Pots de Crème
 
@@ -60,5 +60,5 @@ before serving.
 
 - <https://alexandracooks.com/2015/02/06/vanilla-bean-pots-de-creme/>
 
-[1]: <../assets/images/vanilla-bean-pots-de-crème.jpg>
+[1]: <../assets/images/vanilla-bean-pots-de-crème.webp>
 

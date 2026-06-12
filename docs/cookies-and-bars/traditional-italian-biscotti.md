@@ -6,12 +6,12 @@ tags:
   - italian
   - dessert
   - king-arthur
-hero: assets/images/traditional-italian-biscotti.jpg
+hero: assets/images/traditional-italian-biscotti.webp
 ---
 
 # :baguette_bread: Traditional Italian Biscotti
 
-![Traditional Italian Biscotti](../assets/images/traditional-italian-biscotti.jpg){ loading=lazy }
+![Traditional Italian Biscotti](../assets/images/traditional-italian-biscotti.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

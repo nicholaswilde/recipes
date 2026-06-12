@@ -5,12 +5,12 @@ tags:
   - dessert
   - cheesecake
   - joy-of-cooking
-hero: assets/images/new-york-style-cheesecake.jpg
+hero: assets/images/new-york-style-cheesecake.webp
 ---
 
 # :pie: New York-Style Cheesecake
 
-![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.jpg){ loading=lazy }
+![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

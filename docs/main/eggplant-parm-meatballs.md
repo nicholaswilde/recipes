@@ -4,12 +4,12 @@ tags:
 
   - italian
   - vegetarian
-hero: assets/images/eggplant-parm-meatballs.jpg
+hero: assets/images/eggplant-parm-meatballs.webp
 ---
 
 # :spaghetti: Eggplant Parm Meatballs
 
-![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.jpg){ loading=lazy }
+![Eggplant Parm Meatballs](../assets/images/eggplant-parm-meatballs.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

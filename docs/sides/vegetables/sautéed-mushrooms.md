@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/sautéed-mushrooms.jpg
+hero: assets/images/sautéed-mushrooms.webp
 ---
 
 # :mushroom: Sautéed Mushrooms
 
-![Sautéed Mushrooms](../../assets/images/sautéed-mushrooms.jpg){ loading=lazy }
+![Sautéed Mushrooms](../../assets/images/sautéed-mushrooms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-roja.jpg
+hero: assets/images/salsa-roja.webp
 ---
 
 # :tomato: Salsa Roja
@@ -57,4 +57,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-roja.jpg>
+[1]: <../../assets/images/salsa-roja.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/maple-cinnamon-almonds.jpg
+hero: assets/images/maple-cinnamon-almonds.webp
 ---
 
 # :chestnut: Maple-Cinnamon Almonds
 
-![Maple-Cinnamon Almonds](../../assets/images/maple-cinnamon-almonds.jpg){ loading=lazy }
+![Maple-Cinnamon Almonds](../../assets/images/maple-cinnamon-almonds.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

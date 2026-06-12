@@ -6,12 +6,12 @@ tags:
   - dessert
   - magnolia
   - favorite
-hero: assets/images/lemon-pie.jpg
+hero: assets/images/lemon-pie.webp
 ---
 
 # :pie: Lemon Pie
 
-![Lemon Pie](../../assets/images/lemon-pie.jpg){ loading=lazy }
+![Lemon Pie](../../assets/images/lemon-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

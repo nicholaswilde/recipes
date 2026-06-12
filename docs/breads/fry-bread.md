@@ -3,7 +3,7 @@ comments: true
 tags:
   - bread
   - fry bread
-hero: assets/images/fry-bread.jpg
+hero: assets/images/fry-bread.webp
 ---
 # Fry Bread
 
@@ -64,4 +64,4 @@ Remove the bread and place it on a paper towel-lined plate to drain excess oil.
 
 - <https://thestayathomechef.com/authentic-indian-fry-bread/>
 
-[1]: <../assets/images/fry-bread.jpg>
+[1]: <../assets/images/fry-bread.webp>

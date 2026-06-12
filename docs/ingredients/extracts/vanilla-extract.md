@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/vanilla-extract.jpg
+hero: assets/images/vanilla-extract.webp
 ---
 
 # :icecream: Vanilla Extract
 
-![Vanilla Extract](../../assets/images/vanilla-extract.jpg){ loading=lazy }
+![Vanilla Extract](../../assets/images/vanilla-extract.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

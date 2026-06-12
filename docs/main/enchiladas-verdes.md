@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/enchiladas-verdes.jpg
+hero: assets/images/enchiladas-verdes.webp
 ---
 
 # :curry: Enchiladas Verdes
@@ -77,7 +77,7 @@ Garnish with the toasted pumpkin seeds, a little more salsa verde, and cilantro 
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/enchiladas-verdes.jpg>
+[1]: <../assets/images/enchiladas-verdes.webp>
 [2]: <../sides/grains-and-legumes/corn-tortillas.md>
 [3]: <../sauces-and-dressings/salsas/salsa-verde.md>
 [4]: <../sides/grains-and-legumes/gracias-madre-black-beans.md>

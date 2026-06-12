@@ -2,7 +2,7 @@
 comments: true
 tags:
   - lunch
-hero: assets/images/creamy-chickpea-eggless-egg-salad-sandwich.jpg
+hero: assets/images/creamy-chickpea-eggless-egg-salad-sandwich.webp
 ---
 # :sandwich: Creamy Chickpea Eggless Egg Salad Sandwich
 
@@ -57,5 +57,5 @@ evenly coated. Taste and adjust the salt or mustard to your liking.
 Let the salad chill in the fridge for 20 to 30 minutes before building the sandwiches to allow the dried dill to hydrate
 and flavors to marry.
 
-[1]: <../assets/images/creamy-chickpea-eggless-egg-salad-sandwich.jpg>
+[1]: <../assets/images/creamy-chickpea-eggless-egg-salad-sandwich.webp>
 

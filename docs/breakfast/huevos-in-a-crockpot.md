@@ -3,12 +3,12 @@ comments: true
 tags:
   - breakfast
   - holiday
-hero: assets/images/huevos-in-a-crockpot.jpg
+hero: assets/images/huevos-in-a-crockpot.webp
 ---
 
 # :egg: Huevos in a Crockpot
 
-![Huevos in a Crockpot](../assets/images/huevos-in-a-crockpot.jpg){ loading=lazy }
+![Huevos in a Crockpot](../assets/images/huevos-in-a-crockpot.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

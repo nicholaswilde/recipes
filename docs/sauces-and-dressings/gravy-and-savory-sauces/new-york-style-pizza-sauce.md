@@ -4,12 +4,12 @@ tags:
 
   - italian
   - sauce
-hero: assets/images/new-york-style-pizza-sauce.jpg
+hero: assets/images/new-york-style-pizza-sauce.webp
 ---
 
 # :tomato: New York-Style Pizza Sauce
 
-![New York-Style Pizza Sauce](../../assets/images/new-york-style-pizza-sauce.jpg){ loading=lazy }
+![New York-Style Pizza Sauce](../../assets/images/new-york-style-pizza-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

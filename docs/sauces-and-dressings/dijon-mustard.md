@@ -6,7 +6,7 @@ tags:
   - condiments
   - Dijon
   - homemade
-hero: assets/images/dijon-mustard.jpg
+hero: assets/images/dijon-mustard.webp
 ---
 # Dijon Mustard
 
@@ -65,4 +65,4 @@ Store in the refrigerator for up to 2 months.
 - [Hill Hjem](https://hillhjem.com/how-to-make-dijon-mustard/)
 - [Fox Valley Foodie](https://www.foxvalleyfoodie.com/homemade-dijon-mustard/)
 
-[1]: <../assets/images/dijon-mustard.jpg>
+[1]: <../assets/images/dijon-mustard.webp>

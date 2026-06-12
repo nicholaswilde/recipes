@@ -5,7 +5,7 @@ tags:
   - curry paste
   - Thai
   - spicy
-hero: assets/images/thai-red-curry-paste.jpg
+hero: assets/images/thai-red-curry-paste.webp
 ---
 # Thai Red Curry Paste
 
@@ -71,4 +71,4 @@ Use immediately or store in an airtight container in the refrigerator for up to 
 
 - [Simply Suwanee](https://www.simplysuwanee.com/authentic-homemade-thai-red-curry-paste/)
 
-[1]: <../assets/images/thai-red-curry-paste.jpg>
+[1]: <../assets/images/thai-red-curry-paste.webp>

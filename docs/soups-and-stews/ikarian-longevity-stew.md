@@ -4,7 +4,7 @@ tags:
 
   - recipe-box
   - the-blue-zones-kitchen
-hero: assets/images/ikarian-longevity-stew.jpg
+hero: assets/images/ikarian-longevity-stew.webp
 ---
 
 # :stew: Ikarian Longevity Stew
@@ -71,4 +71,4 @@ Continue cooking until the black-eyed peas are tender. Remove, pour in remaining
 - Blue Zones
 - Recipe Box
 
-[1]: <../assets/images/ikarian-longevity-stew.jpg>
+[1]: <../assets/images/ikarian-longevity-stew.webp>

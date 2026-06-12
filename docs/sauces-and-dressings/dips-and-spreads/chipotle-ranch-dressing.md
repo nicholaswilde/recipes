@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/chipotle-ranch-dressing.jpg
+hero: assets/images/chipotle-ranch-dressing.webp
 ---
 
 # :hot_pepper: Chipotle Ranch Dressing
 
-![Chipotle Ranch Dressing](../../assets/images/chipotle-ranch-dressing.jpg){ loading=lazy }
+![Chipotle Ranch Dressing](../../assets/images/chipotle-ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

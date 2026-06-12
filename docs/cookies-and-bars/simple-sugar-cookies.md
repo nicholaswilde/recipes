@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/simple-sugar-cookies.jpg
+hero: assets/images/simple-sugar-cookies.webp
 ---
 
 # :cookie: Simple Sugar Cookies
 
-![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg){ loading=lazy }
+![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

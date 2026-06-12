@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - chili
-hero: assets/images/plant-based-chili.jpg
+hero: assets/images/plant-based-chili.webp
 ---
 
 # :canned_food: Plant-Based Chili
 
-![Plant-Based Chili](../assets/images/plant-based-chili.jpg){ loading=lazy }
+![Plant-Based Chili](../assets/images/plant-based-chili.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

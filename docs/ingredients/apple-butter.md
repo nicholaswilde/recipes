@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/apple-butter.jpg
+hero: assets/images/apple-butter.webp
 ---
 
 # :green_apple: Apple Butter
@@ -86,4 +86,4 @@ headspace at the top of the jar to allow for expansion.
 
 - <https://theviewfromgreatisland.com/how-to-make-apple-butter-from-apple-sauce/>
 
-[1]: <../assets/images/apple-butter.jpg>
+[1]: <../assets/images/apple-butter.webp>

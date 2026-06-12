@@ -5,7 +5,7 @@ tags:
   - breakfast
   - claire-saffitz
   - dessert-person
-hero: assets/images/crispy-mushroom-galette.jpg
+hero: assets/images/crispy-mushroom-galette.webp
 ---
 
 # :mushroom: Crispy Mushroom Galette
@@ -109,6 +109,6 @@ and cutting into slices. Serve warm or at room temperature.
 
 - Dessert Person
 
-[1]: <../assets/images/crispy-mushroom-galette.jpg>
+[1]: <../assets/images/crispy-mushroom-galette.webp>
 [2]: <../ingredients/pastry-dough/flaky-olive-oil-dough.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>

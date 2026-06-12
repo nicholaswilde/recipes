@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - king-arthur
-hero: assets/images/cinnamon-crisp-coffee-cake.jpg
+hero: assets/images/cinnamon-crisp-coffee-cake.webp
 ---
 
 # :cake: Cinnamon-Crisp Coffee Cake
 
-![Cinnamon-Crisp Coffee Cake](../../assets/images/cinnamon-crisp-coffee-cake.jpg){ loading=lazy }
+![Cinnamon-Crisp Coffee Cake](../../assets/images/cinnamon-crisp-coffee-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

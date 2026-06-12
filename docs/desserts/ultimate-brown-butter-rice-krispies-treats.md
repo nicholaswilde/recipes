@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/ultimate-brown-butter-rice-krispies-treats.jpg
+hero: assets/images/ultimate-brown-butter-rice-krispies-treats.webp
 ---
 
 # :bowl_with_spoon: Ultimate Brown Butter Rice Krispies Treats
@@ -76,4 +76,4 @@ remove the Rice Krispies treats out of the pan before slicing and serving.
 
 - <https://www.kingarthurbaking.com/recipes/ultimate-brown-butter-rice-krispies-treats-recipe>
 
-[1]: <../assets/images/ultimate-brown-butter-rice-krispies-treats.jpg>
+[1]: <../assets/images/ultimate-brown-butter-rice-krispies-treats.webp>

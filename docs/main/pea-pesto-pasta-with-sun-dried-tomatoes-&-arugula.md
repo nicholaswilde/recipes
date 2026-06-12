@@ -4,7 +4,7 @@ tags:
 
   - italian
   - pasta
-hero: assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.jpg
+hero: assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.webp
 ---
 
 # :spaghetti: Pea Pesto Pasta with Sun-Dried Tomatoes & Arugula
@@ -89,4 +89,4 @@ Best when fresh, though leftovers will keep in the refrigerator up to 2-3 days. 
 
 - <https://minimalistbaker.com/pea-pesto-pasta-with-sun-dried-tomatoes-arugula-vegan-gf>
 
-[1]: <../assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.jpg>
+[1]: <../assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.webp>

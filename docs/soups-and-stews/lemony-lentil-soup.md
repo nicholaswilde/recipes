@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - soup
-hero: assets/images/lemony-lentil-soup.jpg
+hero: assets/images/lemony-lentil-soup.webp
 ---
 
 # :lemon: Lemony Lentil Soup
 
-![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.jpg){ loading=lazy }
+![Lemony Lentil Soup](../assets/images/lemony-lentil-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

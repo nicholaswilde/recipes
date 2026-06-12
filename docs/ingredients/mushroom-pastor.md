@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/mushroom-pastor.jpg
+hero: assets/images/mushroom-pastor.webp
 ---
 
 # :mushroom: Mushroom Pastor
@@ -89,4 +89,4 @@ Cook until the mushrooms are warmed through and the marinade has thickened a bit
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/mushroom-pastor.jpg>
+[1]: <../assets/images/mushroom-pastor.webp>

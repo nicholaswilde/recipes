@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/lemon-thyme-yogurt-cake.jpg
+hero: assets/images/lemon-thyme-yogurt-cake.webp
 ---
 
 # :cake: Lemon Thyme Yogurt Cake
@@ -83,4 +83,4 @@ lemon thyme leaves, for decoration.
 
 - Gateau: The Surprising Simplicity of French Cakes
 
-[1]: <../../assets/images/lemon-thyme-yogurt-cake.jpg>
+[1]: <../../assets/images/lemon-thyme-yogurt-cake.webp>

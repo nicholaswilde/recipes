@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - indonesian
-hero: assets/images/lemper.jpg
+hero: assets/images/lemper.webp
 ---
 
 # :burrito: Lemper
 
-![Lemper](../../assets/images/lemper.jpg){ loading=lazy }
+![Lemper](../../assets/images/lemper.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

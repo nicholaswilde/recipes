@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - recipe-box
-hero: assets/images/apple-cinnamon-raisin-bars.jpg
+hero: assets/images/apple-cinnamon-raisin-bars.webp
 ---
 
 # :apple: Apple Cinnamon Raisin Bars
 
-![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.jpg){ loading=lazy }
+![Apple Cinnamon Raisin Bars](../assets/images/apple-cinnamon-raisin-bars.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

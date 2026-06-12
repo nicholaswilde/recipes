@@ -4,12 +4,12 @@ tags:
 
   - side
   - magnolia
-hero: assets/images/hummus-with-pesto.jpg
+hero: assets/images/hummus-with-pesto.webp
 ---
 
 # :herb: Hummus with Pesto
 
-![Hummus with Pesto](../../assets/images/hummus-with-pesto.jpg){ loading=lazy }
+![Hummus with Pesto](../../assets/images/hummus-with-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

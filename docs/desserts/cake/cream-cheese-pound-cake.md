@@ -5,12 +5,12 @@ tags:
   - cake
   - dessert
   - american
-hero: assets/images/cream-cheese-pound-cake.jpg
+hero: assets/images/cream-cheese-pound-cake.webp
 ---
 
 # :birthday: Cream Cheese Pound Cake
 
-![Cream Cheese Pound Cake](../../assets/images/cream-cheese-pound-cake.jpg){ loading=lazy }
+![Cream Cheese Pound Cake](../../assets/images/cream-cheese-pound-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

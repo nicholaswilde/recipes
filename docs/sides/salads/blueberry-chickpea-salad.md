@@ -5,7 +5,7 @@ tags:
   - side
   - nutrition-studies
   - salad
-hero: assets/images/blueberry-chickpea-salad.jpg
+hero: assets/images/blueberry-chickpea-salad.webp
 ---
 
 # :blue_circle: Blueberry Chickpea Salad
@@ -60,4 +60,4 @@ Serve and enjoy!
 
 - <https://nutritionstudies.org/recipes/salad/blueberry-chickpea-salad/>
 
-[1]: <../../assets/images/blueberry-chickpea-salad.jpg>
+[1]: <../../assets/images/blueberry-chickpea-salad.webp>

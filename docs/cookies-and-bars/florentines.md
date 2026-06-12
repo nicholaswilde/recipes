@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/florentines.jpg
+hero: assets/images/florentines.webp
 ---
 
 # :cookie: Florentines
 
-![Florentines](../assets/images/florentines.jpg){ loading=lazy }
+![Florentines](../assets/images/florentines.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

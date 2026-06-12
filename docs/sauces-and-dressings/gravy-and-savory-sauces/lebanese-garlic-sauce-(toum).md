@@ -5,7 +5,7 @@ tags:
   - sauce
   - lebanese
   - toum
-hero: assets/images/lebanese-garlic-sauce-(toum).jpg
+hero: assets/images/lebanese-garlic-sauce-(toum).webp
 ---
 
 # :garlic: Lebanese Garlic Sauce (Toum)
@@ -61,4 +61,4 @@ The next day, replace the paper towel with an airtight lid and keep in the fridg
 
 - <https://feelgoodfoodie.net/recipe/lebanese-garlic-sauce/>
 
-[1]: <../../assets/images/lebanese-garlic-sauce-(toum).jpg>
+[1]: <../../assets/images/lebanese-garlic-sauce-(toum).webp>

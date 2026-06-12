@@ -5,12 +5,12 @@ tags:
   - condiment
   - sauce
   - spread
-hero: assets/images/tahini.jpg
+hero: assets/images/tahini.webp
 ---
 
 # :seedling: Tahini
 
-![Tahini](../../assets/images/tahini.jpg){ loading=lazy }
+![Tahini](../../assets/images/tahini.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

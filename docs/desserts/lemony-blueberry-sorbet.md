@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - sorbet
-hero: assets/images/lemony-blueberry-sorbet.jpg
+hero: assets/images/lemony-blueberry-sorbet.webp
 ---
 
 # :lemon: Lemony Blueberry Sorbet
@@ -51,4 +51,4 @@ Transfer the sorbet to an airtight container and freeze for another 30 minutes o
 
 - <https://www.farmfreshtoyou.com/recipes/601/lemony-blueberry-sorbet>
 
-[1]: <../assets/images/lemony-blueberry-sorbet.jpg>
+[1]: <../assets/images/lemony-blueberry-sorbet.webp>

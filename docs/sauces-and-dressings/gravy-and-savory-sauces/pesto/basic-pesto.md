@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/basic-pesto.jpg
+hero: assets/images/basic-pesto.webp
 ---
 
 # :herb: Basic Pesto
 
-![Basic Pesto](../../../assets/images/basic-pesto.jpg){ loading=lazy }
+![Basic Pesto](../../../assets/images/basic-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

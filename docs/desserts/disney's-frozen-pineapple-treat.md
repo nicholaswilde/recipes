@@ -4,12 +4,12 @@ tags:
 
   - disney
   - dessert
-hero: assets/images/disney's-frozen-pineapple-treat.jpg
+hero: assets/images/disney's-frozen-pineapple-treat.webp
 ---
 
 # :pineapple: Disney's Frozen Pineapple Treat
 
-![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.jpg){ loading=lazy }
+![Disney's Frozen Pineapple Treat](../assets/images/disney's-frozen-pineapple-treat.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

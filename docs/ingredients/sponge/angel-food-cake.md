@@ -5,12 +5,12 @@ tags:
   - ingredient
   - sponge
   - king-arthur
-hero: assets/images/angel-food-cake.jpg
+hero: assets/images/angel-food-cake.webp
 ---
 
 # :cake: Angel Food Cake
 
-![Angel Food Cake](../../assets/images/angel-food-cake.jpg){ loading=lazy }
+![Angel Food Cake](../../assets/images/angel-food-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

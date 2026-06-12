@@ -5,12 +5,12 @@ tags:
   - ingredient
   - joy-of-cooking
   - french
-hero: assets/images/french-sponge-cake-(biscuit).jpg
+hero: assets/images/french-sponge-cake-(biscuit).webp
 ---
 
 # :cake: French Sponge Cake (Biscuit)
 
-![French Sponge Cake (Biscuit)](../../assets/images/french-sponge-cake-(biscuit).jpg){ loading=lazy }
+![French Sponge Cake (Biscuit)](../../assets/images/french-sponge-cake-(biscuit).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

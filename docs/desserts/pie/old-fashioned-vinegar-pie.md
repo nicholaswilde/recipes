@@ -5,7 +5,7 @@ tags:
   - dessert
   - pie
   - desperation pie
-hero: assets/images/old-fashioned-vinegar-pie.jpg
+hero: assets/images/old-fashioned-vinegar-pie.webp
 ---
 
 # :pie: Old-Fashioned Vinegar Pie
@@ -72,4 +72,4 @@ Dust with powdered sugar before serving.
 
 - <https://www.southernliving.com/recipes/old-fashioned-vinegar-pie>
 
-[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.jpg>
+[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.webp>

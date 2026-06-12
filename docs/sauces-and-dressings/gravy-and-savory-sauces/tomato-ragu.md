@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - jean-pierre
-hero: assets/images/tomato-ragu.jpg
+hero: assets/images/tomato-ragu.webp
 ---
 
 # :tomato: Tomato Ragu
 
-![Tomato Ragu](../../assets/images/tomato-ragu.jpg){ loading=lazy }
+![Tomato Ragu](../../assets/images/tomato-ragu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

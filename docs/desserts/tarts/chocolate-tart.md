@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - tart
-hero: assets/images/chocolate-tart.jpg
+hero: assets/images/chocolate-tart.webp
 ---
 
 # :chocolate_bar: Chocolate Tart
@@ -77,7 +77,7 @@ Slice the chocolate tart, serve with whipped cream, fresh berries and flaky sea 
 
 - <https://krollskorner.com/recipes/desserts/chocolate-tart/>
 
-[1]: <../../assets/images/chocolate-tart.jpg>
+[1]: <../../assets/images/chocolate-tart.webp>
 [2]: <../../ingredients/pastry-dough/sweet-tart.md>
 [3]: <../fruit-sorbet.md>
 [4]: <../../desserts/new-orleans-pralines.md>

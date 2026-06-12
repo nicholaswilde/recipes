@@ -4,7 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
-hero: assets/images/gracias-madre-black-beans.jpg
+hero: assets/images/gracias-madre-black-beans.webp
 ---
 
 # :canned_food: Gracias Madre Black Beans
@@ -57,5 +57,5 @@ the pot.) Add the salt and taste to adjust the seasoning.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/gracias-madre-black-beans.jpg>
+[1]: <../../assets/images/gracias-madre-black-beans.webp>
 [2]: <../../ingredients/black-beans.md>

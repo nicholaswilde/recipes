@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/mascarpone-pesto.jpg
+hero: assets/images/mascarpone-pesto.webp
 ---
 
 # :herb: Mascarpone Pesto
 
-![Mascarpone Pesto](../../../assets/images/mascarpone-pesto.jpg){ loading=lazy }
+![Mascarpone Pesto](../../../assets/images/mascarpone-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

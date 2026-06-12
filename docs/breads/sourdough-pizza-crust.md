@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/sourdough-pizza-crust.jpg
+hero: assets/images/sourdough-pizza-crust.webp
 ---
 
 # :pizza: Sourdough Pizza Crust
@@ -100,6 +100,6 @@ Storage information: Store leftover pizza, well wrapped, in the refrigerator for
 
 - <https://www.kingarthurbaking.com/recipes/sourdough-pizza-crust-recipe>
 
-[1]: <../assets/images/sourdough-pizza-crust.jpg>
+[1]: <../assets/images/sourdough-pizza-crust.webp>
 [2]: <../ingredients/sourdough-starter.md>
 [3]: <../ingredients/seasonings/pizza-dough-seasoning.md>

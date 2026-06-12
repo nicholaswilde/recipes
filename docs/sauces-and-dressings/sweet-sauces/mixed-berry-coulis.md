@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - coulis
-hero: assets/images/mixed-berry-coulis.jpg
+hero: assets/images/mixed-berry-coulis.webp
 ---
 
 # :strawberry: Mixed Berry Coulis
 
-![Mixed Berry Coulis](../../assets/images/mixed-berry-coulis.jpg){ loading=lazy }
+![Mixed Berry Coulis](../../assets/images/mixed-berry-coulis.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

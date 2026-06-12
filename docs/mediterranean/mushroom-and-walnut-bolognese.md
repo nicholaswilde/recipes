@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - the-blue-zones-kitchen
-hero: assets/images/mushroom-and-walnut-bolognese.jpg
+hero: assets/images/mushroom-and-walnut-bolognese.webp
 ---
 
 # Mushroom and Walnut Bolognese
@@ -71,4 +71,4 @@ sprinkling of nutritional yeast or pecorino if desired.
 
 - The Blue Zones Kitchen One Pot Meals
 
-[1]: <../assets/images/mushroom-and-walnut-bolognese.jpg>
+[1]: <../assets/images/mushroom-and-walnut-bolognese.webp>

@@ -6,7 +6,7 @@ tags:
   - claire-saffitz
   - bake-off
   - doughnuts
-hero: assets/images/apple-cider-doughnuts.jpg
+hero: assets/images/apple-cider-doughnuts.webp
 ---
 
 # :doughnut: Apple Cider Doughnuts
@@ -115,5 +115,5 @@ warm doughnuts and doughnut holes in cinnamon sugar.
 
 - <https://www.youtube.com/watch?v=dVCYAqcTvVc>
 
-[1]: <../assets/images/apple-cider-doughnuts.jpg>
+[1]: <../assets/images/apple-cider-doughnuts.webp>
 [2]: <../ingredients/apple-butter.md>

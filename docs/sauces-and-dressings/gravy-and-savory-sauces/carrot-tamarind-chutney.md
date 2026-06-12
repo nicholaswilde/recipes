@@ -4,12 +4,12 @@ tags:
 
   - spread
   - cooks-illustrated
-hero: assets/images/carrot-tamarind-chutney.jpg
+hero: assets/images/carrot-tamarind-chutney.webp
 ---
 
 # :carrot: Carrot-Tamarind Chutney
 
-![Carrot-Tamarind Chutney](../../assets/images/carrot-tamarind-chutney.jpg){ loading=lazy }
+![Carrot-Tamarind Chutney](../../assets/images/carrot-tamarind-chutney.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

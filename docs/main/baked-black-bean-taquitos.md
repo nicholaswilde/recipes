@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - main
-hero: assets/images/baked-black-bean-taquitos.jpg
+hero: assets/images/baked-black-bean-taquitos.webp
 ---
 
 # :stuffed_flatbread: Baked Black Bean Taquitos
 
-![Baked Black Bean Taquitos](../assets/images/baked-black-bean-taquitos.jpg){ loading=lazy }
+![Baked Black Bean Taquitos](../assets/images/baked-black-bean-taquitos.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/apricot-honey-oatmeal.jpg
+hero: assets/images/apricot-honey-oatmeal.webp
 ---
 
 # :ear_of_rice: Apricot Honey Oatmeal
@@ -49,4 +49,4 @@ Let stand until of desired consistency.
 
 - <https://www.quakeroats.com/cooking-and-recipes/apricot-honey-oatmeal>
 
-[1]: <../assets/images/apricot-honey-oatmeal.jpg>
+[1]: <../assets/images/apricot-honey-oatmeal.webp>

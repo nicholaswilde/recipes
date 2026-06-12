@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/powdered-sugar-doughnuts.jpg
+hero: assets/images/powdered-sugar-doughnuts.webp
 ---
 
 # :doughnut: Powdered Sugar Doughnuts
 
-![Powdered Sugar Doughnuts](../assets/images/powdered-sugar-doughnuts.jpg){ loading=lazy }
+![Powdered Sugar Doughnuts](../assets/images/powdered-sugar-doughnuts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

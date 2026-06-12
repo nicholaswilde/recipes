@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/butternut-squash-sauce.jpg
+hero: assets/images/butternut-squash-sauce.webp
 ---
 
 # :sweet_potato: Butternut Squash Sauce
@@ -76,5 +76,5 @@ Season to taste.
 
 - <https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/>
 
-[1]: <../../assets/images/butternut-squash-sauce.jpg>
+[1]: <../../assets/images/butternut-squash-sauce.webp>
 [2]: <../../ingredients/vegetable-broth.md>

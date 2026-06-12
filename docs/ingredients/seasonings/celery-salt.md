@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - salt
-hero: assets/images/celery-salt.jpg
+hero: assets/images/celery-salt.webp
 ---
 
 # :leafy_green: Celery Salt
 
-![Celery Salt](../../assets/images/celery-salt.jpg){ loading=lazy }
+![Celery Salt](../../assets/images/celery-salt.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

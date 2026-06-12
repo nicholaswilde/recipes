@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/olde-tyme-lemonade.jpg
+hero: assets/images/olde-tyme-lemonade.webp
 ---
 
 # :lemon: Olde Tyme Lemonade
 
-![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.jpg){ loading=lazy }
+![Olde Tyme Lemonade](../assets/images/olde-tyme-lemonade.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

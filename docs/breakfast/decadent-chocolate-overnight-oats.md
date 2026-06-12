@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/decadent-chocolate-overnight-oats.jpg
+hero: assets/images/decadent-chocolate-overnight-oats.webp
 ---
 
 # :chocolate_bar: Decadent Chocolate Overnight Oats
 
-![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.jpg){ loading=lazy }
+![Decadent Chocolate Overnight Oats](../assets/images/decadent-chocolate-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

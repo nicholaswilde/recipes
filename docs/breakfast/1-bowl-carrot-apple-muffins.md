@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - muffins
-hero: assets/images/1-bowl-carrot-apple-muffins.jpg
+hero: assets/images/1-bowl-carrot-apple-muffins.webp
 ---
 
 # :cupcake: 1-Bowl Carrot Apple Muffins
 
-![1-Bowl Carrot Apple Muffins](../assets/images/1-bowl-carrot-apple-muffins.jpg){ loading=lazy }
+![1-Bowl Carrot Apple Muffins](../assets/images/1-bowl-carrot-apple-muffins.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

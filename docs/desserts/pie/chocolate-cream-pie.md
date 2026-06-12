@@ -4,7 +4,7 @@ tags:
   - chocolate
   - pie
   - dessert
-hero: assets/images/chocolate-cream-pie.jpg
+hero: assets/images/chocolate-cream-pie.webp
 ---
 # :pie: Chocolate Cream Pie
 
@@ -72,4 +72,4 @@ Beat heavy whipping cream, sugar, and vanilla extract to soft peaks. Spread over
 
 - [Tastes Better From Scratch](https://tastesbetterfromscratch.com/chocolate-cream-pie/)
 
-[1]: <../../assets/images/chocolate-cream-pie.jpg>
+[1]: <../../assets/images/chocolate-cream-pie.webp>

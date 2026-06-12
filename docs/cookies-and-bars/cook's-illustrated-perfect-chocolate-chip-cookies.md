@@ -6,7 +6,7 @@ tags:
   - dessert
   - cooks-illustrated
   - favorite
-hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg
+hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp
 ---
 
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
@@ -100,4 +100,4 @@ at room temperature for up to 3 days.
 - <https://www.thepancakeprincess.com/best-brown-butter-chocolate-chip-cookie-bake-off/>
 
 [1]: <../ingredients/brown-sugar.md>
-[2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg>
+[2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/onion-pique.jpg
+hero: assets/images/onion-pique.webp
 ---
 
 # :onion: Onion Pique
 
-![Onion Pique](../assets/images/onion-pique.jpg){ loading=lazy }
+![Onion Pique](../assets/images/onion-pique.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

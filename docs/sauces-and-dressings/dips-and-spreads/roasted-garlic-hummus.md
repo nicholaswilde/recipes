@@ -5,7 +5,7 @@ tags:
   - sauce
   - heat-culinary
   - persian
-hero: assets/images/roasted-garlic-hummus.jpg
+hero: assets/images/roasted-garlic-hummus.webp
 ---
 
 # :falafel: Roasted Garlic Hummus
@@ -60,6 +60,6 @@ Serve at room temperature with [pita bread][3].
 
 - HEAT Culinary
 
-[1]: <../../assets/images/roasted-garlic-hummus.jpg>
+[1]: <../../assets/images/roasted-garlic-hummus.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/tahini.md>
 [3]: <../../breads/pita.md>

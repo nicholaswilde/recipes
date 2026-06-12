@@ -6,7 +6,7 @@ tags:
   - favorite
   - holiday
   - recipe-box
-hero: assets/images/persimmon-cookies.jpg
+hero: assets/images/persimmon-cookies.webp
 ---
 
 # :cookie: Persimmon Cookies
@@ -76,4 +76,4 @@ Bake until done, about 15 minutes (set when touched in center).
 
 - Recipe Box
 
-[1]: <../assets/images/persimmon-cookies.jpg>
+[1]: <../assets/images/persimmon-cookies.webp>

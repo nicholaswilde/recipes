@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/ginger-miso-basting-butter.jpg
+hero: assets/images/ginger-miso-basting-butter.webp
 ---
 
 # :butter: Ginger-Miso Basting Butter
 
-![Ginger-Miso Basting Butter](../../assets/images/ginger-miso-basting-butter.jpg){ loading=lazy }
+![Ginger-Miso Basting Butter](../../assets/images/ginger-miso-basting-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

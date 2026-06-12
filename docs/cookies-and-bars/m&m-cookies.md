@@ -5,7 +5,7 @@ tags:
   - cookie
   - dessert
   - cupcake-princess
-hero: assets/images/m&m-cookies.jpg
+hero: assets/images/m&m-cookies.webp
 ---
 
 # :cookie: M&M Cookies
@@ -111,4 +111,4 @@ returns to 375°F (191°C) before baking the remaining tray.
 - <https://www.jessicagavin.com/m-and-m-cookies/>
 - <https://www.thepancakeprincess.com/2022/06/14/best-mm-cookie-bake-off/>
 
-[1]: <../assets/images/m&m-cookies.jpg>
+[1]: <../assets/images/m&m-cookies.webp>

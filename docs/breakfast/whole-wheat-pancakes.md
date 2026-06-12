@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - pancake
-hero: assets/images/whole-wheat-pancakes.jpg
+hero: assets/images/whole-wheat-pancakes.webp
 ---
 
 # :pancakes: Whole Wheat Pancakes
 
-![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.jpg){ loading=lazy }
+![Whole Wheat Pancakes](../assets/images/whole-wheat-pancakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

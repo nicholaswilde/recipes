@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/unsweetened-applesauce.jpg
+hero: assets/images/unsweetened-applesauce.webp
 ---
 
 # :green_apple: Unsweetened Applesauce
@@ -88,4 +88,4 @@ Pour applesauce in bottles or bowls. Once cooled refrigerate them for about a we
 
 - <https://www.vegrecipesofindia.com/applesauce-recipe-no-sugar/>
 
-[1]: <../../assets/images/unsweetened-applesauce.jpg>
+[1]: <../../assets/images/unsweetened-applesauce.webp>

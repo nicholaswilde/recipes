@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - tspoons
-hero: assets/images/strawberry-rhubarb-crisp.jpg
+hero: assets/images/strawberry-rhubarb-crisp.webp
 ---
 
 # :strawberry: Strawberry Rhubarb Crisp
@@ -67,4 +67,4 @@ Sprinkle topping onto filling to cover. Bake until top is golden and fruit is bu
 
 - Tspoons
 
-[1]: <../assets/images/strawberry-rhubarb-crisp.jpg>
+[1]: <../assets/images/strawberry-rhubarb-crisp.webp>

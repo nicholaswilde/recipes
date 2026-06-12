@@ -3,12 +3,12 @@ comments: true
 tags:
   - holiday
   - salad
-hero: assets/images/five-cup-fruit-salad.jpg
+hero: assets/images/five-cup-fruit-salad.webp
 ---
 
 # :pineapple: Five-Cup Fruit Salad
 
-![Five-Cup Fruit Salad](../../assets/images/five-cup-fruit-salad.jpg){ loading=lazy }
+![Five-Cup Fruit Salad](../../assets/images/five-cup-fruit-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

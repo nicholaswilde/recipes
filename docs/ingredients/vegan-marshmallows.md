@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - vegan
-hero: assets/images/vegan-marshmallows.jpg
+hero: assets/images/vegan-marshmallows.webp
 ---
 
 # :dango: Vegan Marshmallows
 
-![Vegan Marshmallows](../assets/images/vegan-marshmallows.jpg){ loading=lazy }
+![Vegan Marshmallows](../assets/images/vegan-marshmallows.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

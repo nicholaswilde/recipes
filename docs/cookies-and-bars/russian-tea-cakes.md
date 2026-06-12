@@ -4,12 +4,12 @@ tags:
   - cookie
   - dessert
   - holiday
-hero: assets/images/russian-tea-cakes.jpg
+hero: assets/images/russian-tea-cakes.webp
 ---
 
 # :cookie: Russian Tea Cakes
 
-![Russian Tea Cakes](../assets/images/russian-tea-cakes.jpg){ loading=lazy }
+![Russian Tea Cakes](../assets/images/russian-tea-cakes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

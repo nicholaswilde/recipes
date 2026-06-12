@@ -56,5 +56,5 @@ Divide braised mushrooms among shallow bowls and top with scallions (thinly slic
 
 - <https://www.bonappetit.com/recipe/coconut-braised-mushrooms-with-ginger-and-scallions>
 
-[1]: <../assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.jpg>
+[1]: <../assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp>
 

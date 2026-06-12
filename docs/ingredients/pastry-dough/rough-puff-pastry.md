@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - pastry-dough
-hero: assets/images/rough-puff-pastry.jpg
+hero: assets/images/rough-puff-pastry.webp
 ---
 
 # :pie: Rough Puff Pastry
 
-![Rough Puff Pastry](../../assets/images/rough-puff-pastry.jpg){ loading=lazy }
+![Rough Puff Pastry](../../assets/images/rough-puff-pastry.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

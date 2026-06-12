@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - vegan
-hero: assets/images/vegan-strawberry-cake.jpg
+hero: assets/images/vegan-strawberry-cake.webp
 ---
 
 # :cake: Vegan Strawberry Cake
 
-![Vegan Strawberry Cake](../../assets/images/vegan-strawberry-cake.jpg){ loading=lazy }
+![Vegan Strawberry Cake](../../assets/images/vegan-strawberry-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

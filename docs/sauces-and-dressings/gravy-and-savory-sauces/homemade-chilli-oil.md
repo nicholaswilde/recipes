@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/homemade-chilli-oil.jpg
+hero: assets/images/homemade-chilli-oil.webp
 ---
 
 # Homemade Chilli Oil
@@ -70,4 +70,4 @@ Allow to cool before storing in an airtight jar. Use within a year.
 
 - <https://www.marionskitchen.com/homemade-chilli-oil/>
 
-[1]: <../../assets/images/homemade-chilli-oil.jpg>
+[1]: <../../assets/images/homemade-chilli-oil.webp>

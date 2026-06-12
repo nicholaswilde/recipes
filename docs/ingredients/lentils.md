@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/lentils.jpg
+hero: assets/images/lentils.webp
 ---
 # :beans: Lentils
 

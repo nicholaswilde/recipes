@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/texas-potato-pancakes.jpg
+hero: assets/images/texas-potato-pancakes.webp
 ---
 # Texas Potato Pancakes
 
@@ -72,6 +72,6 @@ sour cream and applesauce separately.
 
 - <https://www.cookscountry.com/recipes/10040-texas-potato-pancakes>
 
-[1]: <../assets/images/texas-potato-pancakes.jpg>
+[1]: <../assets/images/texas-potato-pancakes.webp>
 [2]: <../ingredients/eggs.md>
 

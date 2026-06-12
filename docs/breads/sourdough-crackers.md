@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-crackers.jpg
+hero: assets/images/sourdough-crackers.webp
 ---
 
 # :flatbread: Sourdough Crackers
@@ -116,4 +116,4 @@ Store crackers, well wrapped, at room temperature for up to a week; freeze for l
 - <https://www.kingarthurbaking.com/blog/2020/08/24/sourdough-crackers>
 - <https://www.youtube.com/watch?v=4aZ7xAPCa50>
 
-[1]: <../assets/images/sourdough-crackers.jpg>
+[1]: <../assets/images/sourdough-crackers.webp>

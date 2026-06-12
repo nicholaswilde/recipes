@@ -4,7 +4,7 @@ tags:
 
   - side
   - nora-cooks
-hero: assets/images/buffalo-cauliflower-wings.jpg
+hero: assets/images/buffalo-cauliflower-wings.webp
 ---
 
 # :broccoli: Buffalo Cauliflower Wings
@@ -87,5 +87,5 @@ Serve with [ranch dressing][2].
 
 - <https://www.noracooks.com/vegan-cauliflower-buffalo-wings/>
 
-[1]: <../../assets/images/buffalo-cauliflower-wings.jpg>
+[1]: <../../assets/images/buffalo-cauliflower-wings.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/ranch-dressing.md>

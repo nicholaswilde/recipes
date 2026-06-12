@@ -3,12 +3,12 @@ comments: true
 tags:
   - holiday
   - casserole
-hero: assets/images/ruth's-chris-sweet-potato-casserole.jpg
+hero: assets/images/ruth's-chris-sweet-potato-casserole.webp
 ---
 
 # :potato: Ruth's Chris Sweet Potato Casserole
 
-![Ruth's Chris Sweet Potato Casserole](../../assets/images/ruth's-chris-sweet-potato-casserole.jpg){ loading=lazy }
+![Ruth's Chris Sweet Potato Casserole](../../assets/images/ruth's-chris-sweet-potato-casserole.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

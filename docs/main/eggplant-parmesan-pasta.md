@@ -5,12 +5,12 @@ tags:
   - pasta
   - italian
   - vegetarian
-hero: assets/images/eggplant-parmesan-pasta.jpg
+hero: assets/images/eggplant-parmesan-pasta.webp
 ---
 
 # :spaghetti: Eggplant Parmesan Pasta
 
-![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.jpg){ loading=lazy }
+![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|

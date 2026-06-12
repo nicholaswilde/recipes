@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - minimalist-baker
-hero: assets/images/sweet-potato-chickpea-buddha-bowl.jpg
+hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
 ---
 
 # :sweet_potato: Sweet Potato Chickpea Buddha Bowl
@@ -100,4 +100,4 @@ Best when fresh, though leftovers will keep for a few days in the fridge.
 
 - <https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/>
 
-[1]: <../assets/images/sweet-potato-chickpea-buddha-bowl.jpg>
+[1]: <../assets/images/sweet-potato-chickpea-buddha-bowl.webp>

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
-hero: assets/images/rhubarb-cake.jpg
+hero: assets/images/rhubarb-cake.webp
 ---
 
 # :chopsticks: Rhubarb Cake
@@ -103,4 +103,4 @@ Let cool for 20 minutes in the pan before removing it from the pan and letting i
 
 - <https://youtube.com/watch?v=WsQOYaSauMk&si=hXDlk67yF1IiksUM>
 
-[1]: <../../assets/images/rhubarb-cake.jpg>
+[1]: <../../assets/images/rhubarb-cake.webp>

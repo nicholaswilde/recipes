@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/simple-chickpea-masala.jpg
+hero: assets/images/simple-chickpea-masala.webp
 ---
 # Simple Chickpea Masala
 
@@ -67,6 +67,6 @@ Drizzle Sauce (optional).
 
 - Practically Vegan by Nisha Melvani
 
-[1]: <../assets/images/simple-chickpea-masala.jpg>
+[1]: <../assets/images/simple-chickpea-masala.webp>
 [2]: <../ingredients/chickpeas.md>
 

@@ -4,12 +4,12 @@ tags:
 
   - dough
   - ingredient
-hero: assets/images/pizza-dough.jpg
+hero: assets/images/pizza-dough.webp
 ---
 
 # :pizza: Pizza Dough
 
-![Pizza Dough](../assets/images/pizza-dough.jpg){ loading=lazy }
+![Pizza Dough](../assets/images/pizza-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

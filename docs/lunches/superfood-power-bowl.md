@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/superfood-power-bowl.jpg
+hero: assets/images/superfood-power-bowl.webp
 ---
 
 # :salad_bowl: Superfood Power Bowl
@@ -43,4 +43,4 @@ Top it off: Sprinkle with roasted sunflower seeds.
 Add a sauce (optional):  A simple tahini dressing (optional), a light lemon vinaigrette (optional), or even a drizzle of
 sriracha (optional) would work well.
 
-[1]: <../assets/images/superfood-power-bowl.jpg>
+[1]: <../assets/images/superfood-power-bowl.webp>

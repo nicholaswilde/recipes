@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/classic-pineapple-upside-down-cake.jpg
+hero: assets/images/classic-pineapple-upside-down-cake.webp
 ---
 
 # :pineapple: Classic Pineapple Upside Down Cake
@@ -79,4 +79,4 @@ Let the cake rest in the pan for 15 minutes. Slowly invert it onto your serving 
 
 - [The Pancake Princess - Best Pineapple Upside-Down Cake Bake-Off](https://www.thepancakeprincess.com/best-pineapple-upside-down-cake-bake-off/)
 
-[1]: <../../assets/images/classic-pineapple-upside-down-cake.jpg>
+[1]: <../../assets/images/classic-pineapple-upside-down-cake.webp>

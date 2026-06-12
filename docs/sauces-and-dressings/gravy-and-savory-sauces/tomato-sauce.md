@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/tomato-sauce.jpg
+hero: assets/images/tomato-sauce.webp
 ---
 
 # :tomato: Tomato Sauce
@@ -73,4 +73,4 @@ Taste and adjust seasoning if necessary. Before serving, stir in the chopped fre
 
 - <https://www.onceuponachef.com/recipes/tomato-sauce-basil.html>
 
-[1]: <../../assets/images/tomato-sauce.jpg>
+[1]: <../../assets/images/tomato-sauce.webp>

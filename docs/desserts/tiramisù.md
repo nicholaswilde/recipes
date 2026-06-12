@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - cake
-hero: assets/images/tiramisù.jpg
+hero: assets/images/tiramisù.webp
 ---
 
 # :cake: Tiramisù
 
-![Tiramisù](../assets/images/tiramisù.jpg){ loading=lazy }
+![Tiramisù](../assets/images/tiramisù.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - cookie
   - king-arthur
   - dessert
-hero: assets/images/orange-sparkle-slice-and-bake-cookies.jpg
+hero: assets/images/orange-sparkle-slice-and-bake-cookies.webp
 ---
 
 # :tangerine: Orange Sparkle Slice-and-Bake Cookies
@@ -98,4 +98,4 @@ to a rack to cool completely before serving. Repeat with remaining dough.
 
 - King Arthur
 
-[1]: <../assets/images/orange-sparkle-slice-and-bake-cookies.jpg>
+[1]: <../assets/images/orange-sparkle-slice-and-bake-cookies.webp>

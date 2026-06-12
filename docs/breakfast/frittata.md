@@ -5,12 +5,12 @@ tags:
   - breakfast
   - italian
   - joy-of-cooking
-hero: assets/images/frittata.jpg
+hero: assets/images/frittata.webp
 ---
 
 # :egg: Frittata
 
-![Frittata](../assets/images/frittata.jpg){ loading=lazy }
+![Frittata](../assets/images/frittata.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

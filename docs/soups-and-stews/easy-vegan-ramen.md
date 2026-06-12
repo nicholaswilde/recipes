@@ -5,12 +5,12 @@ tags:
   - asian
   - vegan
   - minimalist-baker
-hero: assets/images/easy-vegan-ramen.jpg
+hero: assets/images/easy-vegan-ramen.webp
 ---
 
 # :ramen: Easy Vegan Ramen
 
-![Easy Vegan Ramen](../assets/images/easy-vegan-ramen.jpg){ loading=lazy }
+![Easy Vegan Ramen](../assets/images/easy-vegan-ramen.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

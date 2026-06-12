@@ -5,12 +5,12 @@ tags:
   - dessert
   - pie
   - joy-of-cooking
-hero: assets/images/chess-pie.jpg
+hero: assets/images/chess-pie.webp
 ---
 
 # :pie: Chess Pie
 
-![Chess Pie](../../assets/images/chess-pie.jpg){ loading=lazy }
+![Chess Pie](../../assets/images/chess-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

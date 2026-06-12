@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - gravy
-hero: assets/images/mushroom-gravy.jpg
+hero: assets/images/mushroom-gravy.webp
 ---
 
 # :mushroom: Mushroom Gravy
@@ -70,4 +70,4 @@ Whisk well and cook over medium heat for 10 minutes until the gravy thickens som
 
 - <https://nutritionstudies.org/recipes/sauce/best-ever-mushroom-gravy/>
 
-[1]: <../../assets/images/mushroom-gravy.jpg>
+[1]: <../../assets/images/mushroom-gravy.webp>

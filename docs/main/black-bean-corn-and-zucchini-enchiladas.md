@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - recipe-box
-hero: assets/images/black-bean-corn-and-zucchini-enchiladas.jpg
+hero: assets/images/black-bean-corn-and-zucchini-enchiladas.webp
 ---
 
 # :curry: Black Bean, Corn, & Zucchini Enchiladas
@@ -86,6 +86,6 @@ Bake for an additional 10 minutes, uncovered after sprinkling 1 cup of cheese on
 
 - Recipe Box
 
-[1]: <../assets/images/black-bean-corn-and-zucchini-enchiladas.jpg>
+[1]: <../assets/images/black-bean-corn-and-zucchini-enchiladas.webp>
 [2]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
 [3]: <../ingredients/black-beans.md>

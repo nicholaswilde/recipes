@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
+hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.webp
 ---
 # Vegan Ricotta & Sun-Dried Tomato Pesto Salad
 
@@ -50,7 +50,7 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 
 - <https://minimalistbaker.com/vegan-ricotta-sun-dried-tomato-pesto-salad/>
 
-[1]: <../../assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg>
+[1]: <../../assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/whipped-almond-ricotta.md>
 [3]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/basic-pesto.md>
 [5]: <../../ingredients/chickpeas.md>

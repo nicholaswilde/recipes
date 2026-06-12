@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - breakfast
-hero: assets/images/blueberry-syrup-for-pancakes.jpg
+hero: assets/images/blueberry-syrup-for-pancakes.webp
 ---
 
 # :pancakes: Blueberry Syrup for Pancakes
 
-![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.jpg){ loading=lazy }
+![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - mexican
-hero: assets/images/black-bean-burritos.jpg
+hero: assets/images/black-bean-burritos.webp
 ---
 
 # :burrito: Black Bean Burritos
 
-![Black Bean Burritos](../assets/images/black-bean-burritos.jpg){ loading=lazy }
+![Black Bean Burritos](../assets/images/black-bean-burritos.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

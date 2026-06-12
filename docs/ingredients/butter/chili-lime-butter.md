@@ -5,7 +5,7 @@ tags:
   - butter
   - ingredient
   - applied-kitchen
-hero: assets/images/chili-lime-butter.jpg
+hero: assets/images/chili-lime-butter.webp
 ---
 
 # :butter: Chili Lime Butter
@@ -50,4 +50,4 @@ Mix well.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/chili-lime-butter.jpg>
+[1]: <../../assets/images/chili-lime-butter.webp>

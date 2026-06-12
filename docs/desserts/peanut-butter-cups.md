@@ -5,12 +5,12 @@ tags:
   - dessert
   - cooks-illustrated
   - copycat
-hero: assets/images/peanut-butter-cups.jpg
+hero: assets/images/peanut-butter-cups.webp
 ---
 
 # :peanuts: Peanut Butter Cups
 
-![Peanut Butter Cups](../assets/images/peanut-butter-cups.jpg){ loading=lazy }
+![Peanut Butter Cups](../assets/images/peanut-butter-cups.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

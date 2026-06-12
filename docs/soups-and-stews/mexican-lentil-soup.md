@@ -5,12 +5,12 @@ tags:
   - mexican
   - soup
   - recipe-box
-hero: assets/images/mexican-lentil-soup.jpg
+hero: assets/images/mexican-lentil-soup.webp
 ---
 
 # :stew: Mexican Lentil Soup
 
-![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.jpg){ loading=lazy }
+![Mexican Lentil Soup](../assets/images/mexican-lentil-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

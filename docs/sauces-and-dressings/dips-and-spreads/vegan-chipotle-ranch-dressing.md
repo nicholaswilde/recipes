@@ -4,12 +4,12 @@ tags:
 
   - dressing
   - minimalist-baker
-hero: assets/images/vegan-chipotle-ranch-dressing.jpg
+hero: assets/images/vegan-chipotle-ranch-dressing.webp
 ---
 
 # :hot_pepper: Vegan Chipotle Ranch Dressing
 
-![Vegan Chipotle Ranch Dressing](../../assets/images/vegan-chipotle-ranch-dressing.jpg){ loading=lazy }
+![Vegan Chipotle Ranch Dressing](../../assets/images/vegan-chipotle-ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

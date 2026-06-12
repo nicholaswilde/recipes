@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/almond-cotija.jpg
+hero: assets/images/almond-cotija.webp
 ---
 
 # :cheese_wedge: Almond Cotija
@@ -62,5 +62,5 @@ Store in an airtight jar for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/almond-cotija.jpg>
+[1]: <../assets/images/almond-cotija.webp>
 [2]: <./blanched-almonds.md>

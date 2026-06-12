@@ -5,12 +5,12 @@ tags:
   - lunch
   - minimalist-baker
   - sandwich
-hero: assets/images/chickpea-sunflower-sandwich.jpg
+hero: assets/images/chickpea-sunflower-sandwich.webp
 ---
 
 # :sandwich: Chickpea Sunflower Sandwich
 
-![Chickpea Sunflower Sandwich](../assets/images/chickpea-sunflower-sandwich.jpg){ loading=lazy }
+![Chickpea Sunflower Sandwich](../assets/images/chickpea-sunflower-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

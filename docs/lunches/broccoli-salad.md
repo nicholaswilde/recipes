@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/broccoli-salad.jpg
+hero: assets/images/broccoli-salad.webp
 ---
 
 # :broccoli: Broccoli Salad
@@ -54,4 +54,4 @@ Serve the same day.
 
 - The Essential Mormon Cookbook
 
-[1]: <../assets/images/broccoli-salad.jpg>
+[1]: <../assets/images/broccoli-salad.webp>

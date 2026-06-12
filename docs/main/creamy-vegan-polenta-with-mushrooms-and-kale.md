@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg
+hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 ---
 # Creamy Vegan Polenta with Mushrooms and Kale
 
@@ -80,6 +80,6 @@ sprinkled with parsley.
 
 - <https://cooking.nytimes.com/recipes/1021827-creamy-vegan-polenta-with-mushrooms-and-kale>
 
-[1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg>
+[1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp>
 [2]: <../ingredients/vegetable-broth.md>
 

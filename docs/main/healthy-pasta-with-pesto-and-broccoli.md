@@ -6,12 +6,12 @@ tags:
   - italian
   - vegetarian
   - recipe-box
-hero: assets/images/healthy-pasta-with-pesto-and-broccoli.jpg
+hero: assets/images/healthy-pasta-with-pesto-and-broccoli.webp
 ---
 
 # :broccoli: Healthy Pasta with Pesto & Broccoli
 
-![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.jpg){ loading=lazy }
+![Healthy Pasta with Pesto and Broccoli](../assets/images/healthy-pasta-with-pesto-and-broccoli.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

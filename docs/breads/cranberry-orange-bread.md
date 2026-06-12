@@ -5,12 +5,12 @@ tags:
   - bread
   - quick-bread
   - recipe-box
-hero: assets/images/cranberry-orange-bread.jpg
+hero: assets/images/cranberry-orange-bread.webp
 ---
 
 # :bread: Cranberry Orange Bread
 
-![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.jpg){ loading=lazy }
+![Cranberry Orange Bread](../assets/images/cranberry-orange-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

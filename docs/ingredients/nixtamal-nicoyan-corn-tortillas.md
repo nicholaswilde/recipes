@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - mexican
-hero: assets/images/nixtamal-nicoyan-corn-tortillas.jpg
+hero: assets/images/nixtamal-nicoyan-corn-tortillas.webp
 ---
 
 # :flatbread: Nixtamal Nicoyan Corn Tortillas
 
-![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.jpg){ loading=lazy }
+![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/veggie-cassola.jpg
+hero: assets/images/veggie-cassola.webp
 ---
 # Veggie Cassola
 
@@ -56,5 +56,5 @@ Roast for 1 hour. Remove bay leaves, then serve with crusty bread.
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/veggie-cassola.jpg>
+[1]: <../assets/images/veggie-cassola.webp>
 

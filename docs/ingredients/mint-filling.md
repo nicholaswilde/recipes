@@ -5,7 +5,7 @@ tags:
   - ingredient
   - filling
   - dessert
-hero: assets/images/mint-filling.jpg
+hero: assets/images/mint-filling.webp
 ---
 
 # :leafy_green: Mint Filling
@@ -43,4 +43,4 @@ Add 2 to 3 teaspoons milk, if needed, for spreading consistency.
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/mint-filling.jpg>
+[1]: <../assets/images/mint-filling.webp>

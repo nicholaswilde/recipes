@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/shakshuka.jpg
+hero: assets/images/shakshuka.webp
 ---
 
 # Shakshuka
@@ -69,5 +69,5 @@ Cook the tomatoes in the sauce until tender. Reduce the sauce mixture before add
 
 - <https://downshiftology.com/recipes/shakshuka/>
 
-[1]: <../assets/images/shakshuka.jpg>
+[1]: <../assets/images/shakshuka.webp>
 [2]: <../ingredients/eggs.md>

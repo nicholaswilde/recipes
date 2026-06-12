@@ -4,7 +4,7 @@ tags:
 
   - side
   - snack
-hero: assets/images/roasted-chickpea-snack.jpg
+hero: assets/images/roasted-chickpea-snack.webp
 ---
 
 # :falafel: Roasted Chickpea Snack
@@ -64,4 +64,4 @@ toss with spices while hot. Eat at room temperature.
 - <https://www.skinnytaste.com/roasted-chickpea-snack-2-pts/>
 - <https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe>
 
-[1]: <../../assets/images/roasted-chickpea-snack.jpg>
+[1]: <../../assets/images/roasted-chickpea-snack.webp>

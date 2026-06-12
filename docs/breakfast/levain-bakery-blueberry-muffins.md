@@ -4,12 +4,12 @@ tags:
 
   - muffin
   - breakfast
-hero: assets/images/levain-bakery-blueberry-muffins.jpg
+hero: assets/images/levain-bakery-blueberry-muffins.webp
 ---
 
 # :cupcake: Levain Bakery Blueberry Muffins
 
-![Levain Bakery Blueberry Muffins](../assets/images/levain-bakery-blueberry-muffins.jpg){ loading=lazy }
+![Levain Bakery Blueberry Muffins](../assets/images/levain-bakery-blueberry-muffins.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

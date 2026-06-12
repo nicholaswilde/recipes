@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/tante-myrn's-split-pea-soup.jpg
+hero: assets/images/tante-myrn's-split-pea-soup.webp
 ---
 
 # :green_circle: Tante Myrn's Split Pea Soup
 
-![Tante Myrn's Split Pea Soup](../assets/images/tante-myrn's-split-pea-soup.jpg){ loading=lazy }
+![Tante Myrn's Split Pea Soup](../assets/images/tante-myrn's-split-pea-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

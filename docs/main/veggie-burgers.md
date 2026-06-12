@@ -4,12 +4,12 @@ tags:
 
   - main
   - burger
-hero: assets/images/veggie-burgers.jpg
+hero: assets/images/veggie-burgers.webp
 ---
 
 # :hamburger: Veggie Burgers
 
-![Veggie Burgers](../assets/images/veggie-burgers.jpg){ loading=lazy }
+![Veggie Burgers](../assets/images/veggie-burgers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

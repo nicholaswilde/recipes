@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - vegan
-hero: assets/images/vegan-sour-cream.jpg
+hero: assets/images/vegan-sour-cream.webp
 ---
 
 # :rice: Vegan Sour Cream
@@ -49,4 +49,4 @@ Allow the mixture to chill for 1 hour to become thick.
 
 - <https://nutritionstudies.org/recipes/sauce/vegan-sour-cream/>
 
-[1]: <../../assets/images/vegan-sour-cream.jpg>
+[1]: <../../assets/images/vegan-sour-cream.webp>

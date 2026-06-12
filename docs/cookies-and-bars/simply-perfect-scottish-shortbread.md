@@ -7,7 +7,7 @@ tags:
   - scottish
   - jennifer maloney
   - the pancake princess
-hero: assets/images/simply-perfect-scottish-shortbread.jpg
+hero: assets/images/simply-perfect-scottish-shortbread.webp
 ---
 # Simply Perfect Scottish Shortbread
 
@@ -85,4 +85,4 @@ Transfer to a :wastebasket: cooling rack to cool completely. Store in an :packag
 - <https://www.seasonsandsuppers.ca/crispy-scottish-shortbread/>
 - <https://www.thepancakeprincess.com/2021/12/10/best-shortbread-bake-off/>
 
-[1]: <../assets/images/simply-perfect-scottish-shortbread.jpg>
+[1]: <../assets/images/simply-perfect-scottish-shortbread.webp>

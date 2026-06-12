@@ -5,12 +5,12 @@ tags:
   - gluten-free
   - marinade
   - tofu
-hero: assets/images/maple-soy-tofu-marinade.jpg
+hero: assets/images/maple-soy-tofu-marinade.webp
 ---
 
 # Maple Soy Tofu Marinade
 
-![Maple Soy Tofu Marinade](../../assets/images/maple-soy-tofu-marinade.jpg){ loading=lazy }
+![Maple Soy Tofu Marinade](../../assets/images/maple-soy-tofu-marinade.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

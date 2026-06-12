@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/lemon-arugula-pesto.jpg
+hero: assets/images/lemon-arugula-pesto.webp
 ---
 
 # :herb: Lemon Arugula Pesto
 
-![Lemon Arugula Pesto](../../../assets/images/lemon-arugula-pesto.jpg){ loading=lazy }
+![Lemon Arugula Pesto](../../../assets/images/lemon-arugula-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

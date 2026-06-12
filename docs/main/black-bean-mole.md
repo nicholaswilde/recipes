@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/black-bean-mole.jpg
+hero: assets/images/black-bean-mole.webp
 ---
 
 # :canned_food: Black Bean Mole
@@ -98,5 +98,5 @@ a sealed container in the refrigerator for up to 1 week, or in the freezer for u
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/black-bean-mole.jpg>
+[1]: <../assets/images/black-bean-mole.webp>
 [2]: <../ingredients/black-beans.md>

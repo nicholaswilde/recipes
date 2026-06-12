@@ -4,12 +4,12 @@ tags:
 
   - joy-of-cooking
   - ingredient
-hero: assets/images/vegetable-broth.jpg
+hero: assets/images/vegetable-broth.webp
 ---
 
 # :stew: Vegetable Broth
 
-![Vegetable Broth](../assets/images/vegetable-broth.jpg){ loading=lazy }
+![Vegetable Broth](../assets/images/vegetable-broth.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -2,12 +2,12 @@
 comments: true
 tags:
   - holiday
-hero: assets/images/chocolate-truffles.jpg
+hero: assets/images/chocolate-truffles.webp
 ---
 
 # :chocolate_bar: Chocolate Truffles
 
-![Chocolate Truffles](../assets/images/chocolate-truffles.jpg){ loading=lazy }
+![Chocolate Truffles](../assets/images/chocolate-truffles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

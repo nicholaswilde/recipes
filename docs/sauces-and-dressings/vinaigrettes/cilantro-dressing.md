@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/cilantro-dressing.jpg
+hero: assets/images/cilantro-dressing.webp
 ---
 
 # :herb: Cilantro Dressing
 
-![Cilantro Dressing](../../assets/images/cilantro-dressing.jpg){ loading=lazy }
+![Cilantro Dressing](../../assets/images/cilantro-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

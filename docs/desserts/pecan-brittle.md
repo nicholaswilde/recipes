@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - claire-saffitz
-hero: assets/images/pecan-brittle.jpg
+hero: assets/images/pecan-brittle.webp
 ---
 
 # :chestnut: Pecan Brittle
@@ -78,5 +78,5 @@ Let cool to room temperature for about 2 hours and break up into small pieces.
 
 - <https://www.youtube.com/watch?v=gGBC4-CsXOM>
 
-[1]: <../assets/images/pecan-brittle.jpg>
+[1]: <../assets/images/pecan-brittle.webp>
 [2]: <https://nicholaswilde.io/recipes/ingredients/toasted-nuts/>

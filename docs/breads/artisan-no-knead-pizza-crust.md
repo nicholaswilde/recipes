@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/artisan-no-knead-pizza-crust.jpg
+hero: assets/images/artisan-no-knead-pizza-crust.webp
 ---
 
 # :pizza: Artisan No-Knead Pizza Crust
@@ -120,4 +120,4 @@ Repeat with the remaining dough and toppings.
 
 - <https://www.kingarthurbaking.com/recipes/artisan-no-knead-pizza-crust-recipe>
 
-[1]: <../assets/images/artisan-no-knead-pizza-crust.jpg>
+[1]: <../assets/images/artisan-no-knead-pizza-crust.webp>

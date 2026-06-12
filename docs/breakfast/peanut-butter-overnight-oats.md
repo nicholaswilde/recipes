@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - minimalist-baker
-hero: assets/images/peanut-butter-overnight-oats.jpg
+hero: assets/images/peanut-butter-overnight-oats.webp
 ---
 
 # :peanuts: Peanut Butter Overnight Oats
 
-![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.jpg){ loading=lazy }
+![Peanut Butter Overnight Oats](../assets/images/peanut-butter-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

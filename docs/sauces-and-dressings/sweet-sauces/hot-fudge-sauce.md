@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - claire-saffitz
-hero: assets/images/hot-fudge-sauce.jpg
+hero: assets/images/hot-fudge-sauce.webp
 ---
 
 # :chocolate_bar: Hot Fudge Sauce
@@ -78,4 +78,4 @@ If preparing ahead of time, pour the sauce into a 1 pint jar, cover, and chill.
 
 - <https://www.youtube.com/watch?v=epGtaTsYxYY>
 
-[1]: <../../assets/images/hot-fudge-sauce.jpg>
+[1]: <../../assets/images/hot-fudge-sauce.webp>

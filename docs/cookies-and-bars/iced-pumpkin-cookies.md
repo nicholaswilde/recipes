@@ -5,7 +5,7 @@ tags:
   - bar
   - dessert
   - allrecipes
-hero: assets/images/iced-pumpkin-cookies.jpg
+hero: assets/images/iced-pumpkin-cookies.webp
 ---
 
 # :jack_o_lantern: Iced Pumpkin Cookies
@@ -90,4 +90,4 @@ Drizzle or spread the glaze over the cooled cookies. Let the glaze set before se
 
 - <https://www.allrecipes.com/recipe/10033/iced-pumpkin-cookies/>
 
-[1]: <../assets/images/iced-pumpkin-cookies.jpg>
+[1]: <../assets/images/iced-pumpkin-cookies.webp>

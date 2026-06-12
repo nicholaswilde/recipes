@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/roasted-fennel-with-garlic-and-thyme.jpg
+hero: assets/images/roasted-fennel-with-garlic-and-thyme.webp
 ---
 
 # :leafy_green: Roasted Fennel with Garlic and Thyme
 
-![Roasted Fennel with Garlic and Thyme](../../assets/images/roasted-fennel-with-garlic-and-thyme.jpg){ loading=lazy }
+![Roasted Fennel with Garlic and Thyme](../../assets/images/roasted-fennel-with-garlic-and-thyme.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

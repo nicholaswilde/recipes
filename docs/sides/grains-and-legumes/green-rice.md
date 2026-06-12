@@ -4,7 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
-hero: assets/images/green-rice.jpg
+hero: assets/images/green-rice.webp
 ---
 
 # :rice: Green Rice
@@ -64,4 +64,4 @@ Fluff with a fork and keep covered until serving.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/green-rice.jpg>
+[1]: <../../assets/images/green-rice.webp>

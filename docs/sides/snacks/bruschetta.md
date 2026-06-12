@@ -6,7 +6,7 @@ tags:
   - appetizer
   - bruschetta
   - tomato
-hero: assets/images/bruschetta.jpg
+hero: assets/images/bruschetta.webp
 ---
 
 # :tomato: Bruschetta
@@ -68,4 +68,4 @@ parsley.
 
 - Cheesecake Factory
 
-[1]: <../../assets/images/bruschetta.jpg>
+[1]: <../../assets/images/bruschetta.webp>

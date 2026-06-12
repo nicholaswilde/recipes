@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/pearl-couscous.jpg
+hero: assets/images/pearl-couscous.webp
 ---
 
 # :shallow_pan_of_food: Pearl Couscous
@@ -59,4 +59,4 @@ toss and serve.
 
 - <https://www.themediterraneandish.com/pearl-couscous-recipe/>
 
-[1]: <../../assets/images/pearl-couscous.jpg>
+[1]: <../../assets/images/pearl-couscous.webp>

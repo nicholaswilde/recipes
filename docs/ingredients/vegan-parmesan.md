@@ -5,12 +5,12 @@ tags:
   - ingredient
   - cheese
   - vegan
-hero: assets/images/vegan-parmesan.jpg
+hero: assets/images/vegan-parmesan.webp
 ---
 
 # :cheese_wedge: Vegan Parmesan
 
-![Vegan Parmesan](../assets/images/vegan-parmesan.jpg){ loading=lazy }
+![Vegan Parmesan](../assets/images/vegan-parmesan.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

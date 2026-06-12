@@ -5,7 +5,7 @@ tags:
   - dessert
   - tart
   - claire-saffitz
-hero: assets/images/s'mores-tart.jpg
+hero: assets/images/s'mores-tart.webp
 ---
 
 # :dango: S'mores Tart
@@ -101,6 +101,6 @@ serving plate.
 
 - What's For Dessert
 
-[1]: <../../assets/images/s'mores-tart.jpg>
+[1]: <../../assets/images/s'mores-tart.webp>
 [2]: <../../ingredients/marshmallow-fluff.md>
 [3]: <../../ingredients/graham-crackers.md>

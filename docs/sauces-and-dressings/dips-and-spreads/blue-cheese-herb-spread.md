@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - spread
-hero: assets/images/blue-cheese-herb-spread.jpg
+hero: assets/images/blue-cheese-herb-spread.webp
 ---
 
 # :herb: Blue Cheese Herb Spread
 
-![Blue Cheese Herb Spread](../../assets/images/blue-cheese-herb-spread.jpg){ loading=lazy }
+![Blue Cheese Herb Spread](../../assets/images/blue-cheese-herb-spread.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

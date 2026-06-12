@@ -8,7 +8,7 @@ tags:
   - maura kilpatrick
   - the pancake princess
   - bake-off
-hero: assets/images/earthquake-chocolate-crinkle-cookies.jpg
+hero: assets/images/earthquake-chocolate-crinkle-cookies.webp
 ---
 # :cookie: Earthquake Chocolate Crinkle Cookies
 
@@ -94,4 +94,4 @@ Cool completely on the :cookie: baking sheet.
 - <https://newengland.com/food/desserts/earthquake-chocolate-crinkle-cookies/>
 - <https://www.thepancakeprincess.com/2023/12/12/best-chocolate-crinkle-cookie-bake-off/>
 
-[1]: <../assets/images/earthquake-chocolate-crinkle-cookies.jpg>
+[1]: <../assets/images/earthquake-chocolate-crinkle-cookies.webp>

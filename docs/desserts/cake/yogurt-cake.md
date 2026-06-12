@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/yogurt-cake-version-1.jpg
+hero: assets/images/yogurt-cake-version-1.webp
 ---
 # Yogurt Cake (Gâteau au Yaourt)
 
@@ -88,5 +88,5 @@ This cake can also be made in an 8-inch springform or a 9-inch round cake pan:
 
 - *Gateau: The Surprising Simplicity of French Cakes*
 
-[1]: <../../assets/images/yogurt-cake-version-1.jpg>
-[2]: <../../assets/images/yogurt-cake-version-2.jpg>
+[1]: <../../assets/images/yogurt-cake-version-1.webp>
+[2]: <../../assets/images/yogurt-cake-version-2.webp>

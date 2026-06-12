@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/pumpkin-seed-parmesan.jpg
+hero: assets/images/pumpkin-seed-parmesan.webp
 ---
 
 # :cheese_wedge: Pumpkin Seed Parmesan
@@ -46,4 +46,4 @@ Store in the refrigerator for up to 2 weeks.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/pumpkin-seed-parmesan.jpg>
+[1]: <../assets/images/pumpkin-seed-parmesan.webp>

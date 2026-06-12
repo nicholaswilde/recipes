@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/vermont-sourdough.jpg
+hero: assets/images/vermont-sourdough.webp
 ---
 
 # :bread: Vermont Sourdough
@@ -194,7 +194,7 @@ Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze f
 
 - <https://www.kingarthurbaking.com/recipes/vermont-sourdough-recipe>
 
-[1]: <../assets/images/vermont-sourdough.jpg>
+[1]: <../assets/images/vermont-sourdough.webp>
 [2]: <../ingredients/sourdough-starter.md>
 [3]: <https://nicholaswilde.io/sourdough-calculator/>
 [4]: <../ingredients/roasted-garlic.md>

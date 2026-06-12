@@ -4,12 +4,12 @@ tags:
 
   - sandwich
   - lunch
-hero: assets/images/brussels-sprout-melts.jpg
+hero: assets/images/brussels-sprout-melts.webp
 ---
 
 # :sandwich: Brussels Sprout Melts
 
-![Brussels Sprout Melts](../assets/images/brussels-sprout-melts.jpg){ loading=lazy }
+![Brussels Sprout Melts](../assets/images/brussels-sprout-melts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

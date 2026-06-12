@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - vegan
-hero: assets/images/aquafaba-whipped-cream.jpg
+hero: assets/images/aquafaba-whipped-cream.webp
 ---
 
 # :icecream: Aquafaba Whipped Cream
@@ -69,5 +69,5 @@ added or you will lose the fluffiness)!
 
 - <https://thehiddenveggies.com/aquafaba-whipped-cream-vegan-cool-whip/>
 
-[1]: <../assets/images/aquafaba-whipped-cream.jpg>
+[1]: <../assets/images/aquafaba-whipped-cream.webp>
 [2]: <./aquafaba.md>

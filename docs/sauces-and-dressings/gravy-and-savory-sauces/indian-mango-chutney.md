@@ -6,12 +6,12 @@ tags:
   - side
   - indian
   - mango
-hero: assets/images/indian-mango-chutney.jpg
+hero: assets/images/indian-mango-chutney.webp
 ---
 
 # :apple: Indian Mango Chutney
 
-![Indian Mango Chutney](../../assets/images/indian-mango-chutney.jpg){ loading=lazy }
+![Indian Mango Chutney](../../assets/images/indian-mango-chutney.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

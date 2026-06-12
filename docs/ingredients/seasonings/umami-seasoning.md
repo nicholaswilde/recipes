@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/umami-seasoning.jpg
+hero: assets/images/umami-seasoning.webp
 ---
 
 # :mushroom: Umami Seasoning
@@ -54,4 +54,4 @@ Cover and store in an airtight container in the pantry for up to 6 months.
 
 - <https://bowlsarethenewplates.com/umami-seasoning/>
 
-[1]: <../../assets/images/umami-seasoning.jpg>
+[1]: <../../assets/images/umami-seasoning.webp>

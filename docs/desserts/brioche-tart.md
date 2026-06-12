@@ -2,7 +2,7 @@
 comments: true
 tags:
   - tart
-hero: assets/images/brioche-tart.jpg
+hero: assets/images/brioche-tart.webp
 ---
 # :pie: Brioche Tart
 
@@ -180,4 +180,4 @@ chopped almonds and a dusting of :candy: confectioner's sugar.
 
 - <https://www.mtpr.org/arts-culture/2018-09-30/a-brioche-tart-so-good-it-made-julia-child-cry>
 
-[1]: <../assets/images/brioche-tart.jpg>
+[1]: <../assets/images/brioche-tart.webp>

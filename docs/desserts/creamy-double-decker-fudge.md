@@ -5,12 +5,12 @@ tags:
   - dessert
   - fudge
   - holiday
-hero: assets/images/creamy-double-decker-fudge.jpg
+hero: assets/images/creamy-double-decker-fudge.webp
 ---
 
 # :chocolate_bar: Creamy Double Decker Fudge
 
-![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.jpg){ loading=lazy }
+![Creamy Double Decker Fudge](../assets/images/creamy-double-decker-fudge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

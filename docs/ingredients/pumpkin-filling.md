@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/pumpkin-filling.jpg
+hero: assets/images/pumpkin-filling.webp
 ---
 
 # :jack_o_lantern: Pumpkin Filling
@@ -57,4 +57,4 @@ Add the chopped fresh mint and stir to combine.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/pumpkin-filling.jpg>
+[1]: <../assets/images/pumpkin-filling.webp>

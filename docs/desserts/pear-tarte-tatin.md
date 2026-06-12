@@ -5,12 +5,12 @@ tags:
   - dessert
   - gordon-ramsay
   - french
-hero: assets/images/pear-tarte-tatin.jpg
+hero: assets/images/pear-tarte-tatin.webp
 ---
 
 # :pear: Pear Tarte Tatin
 
-![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg){ loading=lazy }
+![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

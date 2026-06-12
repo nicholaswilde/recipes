@@ -6,7 +6,7 @@ tags:
   - bake-off
   - cake
   - cooks-illustrated
-hero: assets/images/olive-oil-cake.jpg
+hero: assets/images/olive-oil-cake.webp
 ---
 
 # :olive: Olive Oil Cake
@@ -66,4 +66,4 @@ for up to 3 days.)
 - <https://www.thepancakeprincess.com/2022/03/31/best-olive-oil-cake-bake-off/>
 - <https://www.cleveland.com/cooking/2017/12/olive_oil_cake_from_americas_t.html>
 
-[1]: <../../assets/images/olive-oil-cake.jpg>
+[1]: <../../assets/images/olive-oil-cake.webp>

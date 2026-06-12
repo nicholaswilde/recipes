@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
   - trader-joes
-hero: assets/images/caramelized-upside-down-banana-cake.jpg
+hero: assets/images/caramelized-upside-down-banana-cake.webp
 ---
 
 # :apple: Caramelized Upside Down Banana Cake
@@ -75,4 +75,4 @@ Serve with **whipped cream** if desired.
 
 - [Nicholas Wilde's Recipe #1000](https://github.com/nicholaswilde/recipes/issues/1000)
 
-[1]: <../../assets/images/caramelized-upside-down-banana-cake.jpg>
+[1]: <../../assets/images/caramelized-upside-down-banana-cake.webp>

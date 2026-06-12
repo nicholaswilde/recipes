@@ -4,7 +4,7 @@ tags:
   - dessert
   - holiday
   - magnolia
-hero: assets/images/salted-caramel-peanut-brittle.jpg
+hero: assets/images/salted-caramel-peanut-brittle.webp
 ---
 
 # :peanuts: Salted Caramel Peanut Brittle
@@ -69,4 +69,4 @@ Sprinkle with the Maldon salt and let it sit until completely cool, about 30 min
 
 - <https://magnolia.com/blog/recipe/72248df7-9d8e-4737-90ff-1d846692cec2/salted-caramel-peanut-brittle/>
 
-[1]: <../assets/images/salted-caramel-peanut-brittle.jpg>
+[1]: <../assets/images/salted-caramel-peanut-brittle.webp>

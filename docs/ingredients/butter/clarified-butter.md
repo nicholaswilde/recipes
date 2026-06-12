@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - butter
-hero: assets/images/clarified-butter.jpg
+hero: assets/images/clarified-butter.webp
 ---
 
 # :butter: Clarified Butter
 
-![Clarified Butter](../../assets/images/clarified-butter.jpg){ loading=lazy }
+![Clarified Butter](../../assets/images/clarified-butter.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

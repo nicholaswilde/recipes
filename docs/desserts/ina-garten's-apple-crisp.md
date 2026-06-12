@@ -4,12 +4,12 @@ tags:
 
   - ina-garten
   - dessert
-hero: assets/images/ina-garten's-apple-crisp.jpg
+hero: assets/images/ina-garten's-apple-crisp.webp
 ---
 
 # :apple: Ina Garten's Apple Crisp
 
-![Ina Garten's Apple Crisp](../assets/images/ina-garten's-apple-crisp.jpg){ loading=lazy }
+![Ina Garten's Apple Crisp](../assets/images/ina-garten's-apple-crisp.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - side
   - ina-garten
-hero: assets/images/ina-garten's-parmesan-roasted-broccoli.jpg
+hero: assets/images/ina-garten's-parmesan-roasted-broccoli.webp
 ---
 
 # :broccoli: Ina Garten's Parmesan Roasted Broccoli
 
-![Ina Garten's Parmesan Roasted Broccoli](../../assets/images/ina-garten's-parmesan-roasted-broccoli.jpg){ loading=lazy }
+![Ina Garten's Parmesan Roasted Broccoli](../../assets/images/ina-garten's-parmesan-roasted-broccoli.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

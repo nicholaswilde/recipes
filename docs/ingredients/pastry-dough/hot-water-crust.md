@@ -4,12 +4,12 @@ tags:
 
   - pastry-dough
   - ingredient
-hero: assets/images/hot-water-crust.jpg
+hero: assets/images/hot-water-crust.webp
 ---
 
 # :pie: Hot Water Crust
 
-![Hot Water Crust](../../assets/images/hot-water-crust.jpg){ loading=lazy }
+![Hot Water Crust](../../assets/images/hot-water-crust.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

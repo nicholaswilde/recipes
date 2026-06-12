@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/classic-tartar-sauce.jpg
+hero: assets/images/classic-tartar-sauce.webp
 ---
 
 # :fish: Classic Tartar Sauce
 
-![Classic Tartar Sauce](../../assets/images/classic-tartar-sauce.jpg){ loading=lazy }
+![Classic Tartar Sauce](../../assets/images/classic-tartar-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

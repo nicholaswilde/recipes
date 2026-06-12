@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - lasagna
-hero: assets/images/spinach-lasagna.jpg
+hero: assets/images/spinach-lasagna.webp
 ---
 
 # :spaghetti: Spinach Lasagna
 
-![Spinach Lasagna](../assets/images/spinach-lasagna.jpg){ loading=lazy }
+![Spinach Lasagna](../assets/images/spinach-lasagna.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

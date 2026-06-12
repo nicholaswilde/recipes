@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/roasted-delicata-squash.jpg
+hero: assets/images/roasted-delicata-squash.webp
 ---
 
 # :cucumber: Roasted Delicata Squash
@@ -63,4 +63,4 @@ Bake in the preheated oven until the bottoms are browned and squash is tender, 1
 
 - <https://www.allrecipes.com/recipe/260734/roasted-delicata-squash/>
 
-[1]: <../../assets/images/roasted-delicata-squash.jpg>
+[1]: <../../assets/images/roasted-delicata-squash.webp>

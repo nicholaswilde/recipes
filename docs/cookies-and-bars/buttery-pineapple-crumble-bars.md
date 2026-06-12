@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/buttery-pineapple-crumble-bars.jpg
+hero: assets/images/buttery-pineapple-crumble-bars.webp
 ---
 
 # :pineapple: Buttery Pineapple Crumble Bars
@@ -71,4 +71,4 @@ minutes. Transfer to a wire rack. Cool completely, about 1 hour. and cut into 16
 
 - Coastal Living Spring 2024
 
-[1]: <../assets/images/buttery-pineapple-crumble-bars.jpg>
+[1]: <../assets/images/buttery-pineapple-crumble-bars.webp>

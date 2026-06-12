@@ -5,7 +5,7 @@ tags:
   - bites
   - side
   - applied-kitchen
-hero: assets/images/peanut-butter-chocolate-chip-protein-bites.jpg
+hero: assets/images/peanut-butter-chocolate-chip-protein-bites.webp
 ---
 
 # :cookie: Peanut Butter Chocolate Chip Protein Bites
@@ -59,4 +59,4 @@ Store in an airtight container and refrigerate.
 - Applied Kitchen
 
 [1]: <../../ingredients/peanut-butter.md>
-[2]: <../../assets/images/peanut-butter-chocolate-chip-protein-bites.jpg>
+[2]: <../../assets/images/peanut-butter-chocolate-chip-protein-bites.webp>

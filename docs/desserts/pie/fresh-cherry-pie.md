@@ -4,12 +4,12 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/fresh-cherry-pie.jpg
+hero: assets/images/fresh-cherry-pie.webp
 ---
 
 # :pie: Fresh Cherry Pie
 
-![Fresh Cherry Pie](../../assets/images/fresh-cherry-pie.jpg){ loading=lazy }
+![Fresh Cherry Pie](../../assets/images/fresh-cherry-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

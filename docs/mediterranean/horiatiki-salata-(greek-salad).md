@@ -6,7 +6,7 @@ tags:
   - recipe-box
   - mediterranean
   - greek
-hero: assets/images/horiatiki-salata-(greek-salad).jpg
+hero: assets/images/horiatiki-salata-(greek-salad).webp
 ---
 
 # :green_salad: Horiatiki Salata (Greek Salad)
@@ -72,4 +72,4 @@ extra oregano to taste. Drizzle feta with remaining 1 Tbsp olive oil.
 - <https://www.cooksillustrated.com/recipes/13159-horiatiki-salata-hearty-greek-salad-for-two>
 - Recipe Box
 
-[1]: <../assets/images/horiatiki-salata.jpg>
+[1]: <../assets/images/horiatiki-salata.webp>

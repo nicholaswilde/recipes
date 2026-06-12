@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
-hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg
+hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.webp
 ---
 
 # :spaghetti: Sprouted Kitchen Spring Noodles Artichokes & Lemons
@@ -79,4 +79,4 @@ Mix cooked pasta, artichoke sauce, and grated pecorino. Add arugula and dill.
 - Recipe Box
 
 [1]: <../ingredients/crème-fraîche.md>
-[2]: <../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.jpg>
+[2]: <../assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.webp>

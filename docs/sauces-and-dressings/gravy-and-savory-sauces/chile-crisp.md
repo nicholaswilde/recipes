@@ -5,7 +5,7 @@ tags:
 ---
 # :hot_pepper: Chile Crisp
 
-![Chile Crisp](../../assets/images/chile-crisp.jpg){ loading=lazy }
+![Chile Crisp](../../assets/images/chile-crisp.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:------------------------:|

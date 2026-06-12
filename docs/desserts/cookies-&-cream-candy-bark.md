@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/cookies-&-cream-candy-bark.jpg
+hero: assets/images/cookies-&-cream-candy-bark.webp
 ---
 # Cookies & Cream Candy Bark
 
@@ -42,5 +42,5 @@ Drop spoonfuls of both mixtures onto wax paper and swirl with a knife.
 
 Sprinkle remaining Oreos on top; allow to harden in refrigerator.
 
-[1]: <../assets/images/cookies-&-cream-candy-bark.jpg>
+[1]: <../assets/images/cookies-&-cream-candy-bark.webp>
 

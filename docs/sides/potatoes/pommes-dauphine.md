@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/pommes-dauphine.jpg
+hero: assets/images/pommes-dauphine.webp
 ---
 
 # :potato: Pommes Dauphine
 
-![Pommes Dauphine](../../assets/images/pommes-dauphine.jpg){ loading=lazy }
+![Pommes Dauphine](../../assets/images/pommes-dauphine.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

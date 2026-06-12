@@ -4,12 +4,12 @@ tags:
 
   - bread
   - quick-bread
-hero: assets/images/honey-beer-bread.jpg
+hero: assets/images/honey-beer-bread.webp
 ---
 
 # :bread: Honey Beer Bread
 
-![Honey Beer Bread](../assets/images/honey-beer-bread.jpg){ loading=lazy }
+![Honey Beer Bread](../assets/images/honey-beer-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

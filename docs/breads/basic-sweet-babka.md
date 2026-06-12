@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/basic-sweet-babka.jpg
+hero: assets/images/basic-sweet-babka.webp
 ---
 
 # :bread: Basic Sweet Babka
 
-![Basic Sweet Babka](../assets/images/basic-sweet-babka.jpg){ loading=lazy }
+![Basic Sweet Babka](../assets/images/basic-sweet-babka.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

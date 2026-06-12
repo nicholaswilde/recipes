@@ -4,12 +4,12 @@ tags:
 
   - tofu
   - ingredient
-hero: assets/images/baked-sriracha-tofu.jpg
+hero: assets/images/baked-sriracha-tofu.webp
 ---
 
 # :butter: Baked Sriracha Tofu
 
-![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.jpg){ loading=lazy }
+![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

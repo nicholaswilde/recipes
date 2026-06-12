@@ -5,12 +5,12 @@ tags:
   - julia-child
   - cake
   - dessert
-hero: assets/images/reine-be-saba-(queen-of-sheba).jpg
+hero: assets/images/reine-be-saba-(queen-of-sheba).webp
 ---
 
 # :cake: Reine be Saba (Queen of Sheba)
 
-![Reine be Saba (Queen of Sheba)](../../assets/images/reine-be-saba-(queen-of-sheba).jpg){ loading=lazy }
+![Reine be Saba (Queen of Sheba)](../../assets/images/reine-be-saba-(queen-of-sheba).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

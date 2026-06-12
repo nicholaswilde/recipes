@@ -4,12 +4,12 @@ tags:
 
   - bowl
   - lunch
-hero: assets/images/mexican-power-bowl.jpg
+hero: assets/images/mexican-power-bowl.webp
 ---
 
 # :stuffed_flatbread: Mexican Power Bowl
 
-![Mexican Power Bowl](../assets/images/mexican-power-bowl.jpg){ loading=lazy }
+![Mexican Power Bowl](../assets/images/mexican-power-bowl.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

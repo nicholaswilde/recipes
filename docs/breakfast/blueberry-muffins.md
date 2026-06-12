@@ -4,12 +4,12 @@ tags:
   - breakfast
   - muffin
   - bake-off
-hero: assets/images/blueberry-muffins.jpg
+hero: assets/images/blueberry-muffins.webp
 ---
 
 # :cupcake: Blueberry Muffins
 
-![Blueberry Muffins](../assets/images/blueberry-muffins.jpg){ loading=lazy }
+![Blueberry Muffins](../assets/images/blueberry-muffins.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

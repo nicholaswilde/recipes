@@ -4,12 +4,12 @@ tags:
 
   - main
   - enchilada
-hero: assets/images/sweet-potato-black-bean-enchiladas.jpg
+hero: assets/images/sweet-potato-black-bean-enchiladas.webp
 ---
 
 # :stuffed_flatbread: Sweet Potato Black Bean Enchiladas
 
-![Sweet Potato Black Bean Enchiladas](../assets/images/sweet-potato-black-bean-enchiladas.jpg){ loading=lazy }
+![Sweet Potato Black Bean Enchiladas](../assets/images/sweet-potato-black-bean-enchiladas.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

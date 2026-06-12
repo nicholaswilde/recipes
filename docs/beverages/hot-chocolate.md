@@ -4,12 +4,12 @@ tags:
 
   - beverage
   - jean-pierre
-hero: assets/images/hot-chocolate.jpg
+hero: assets/images/hot-chocolate.webp
 ---
 
 # :coffee: Hot Chocolate
 
-![Hot Chocolate](../assets/images/hot-chocolate.jpg){ loading=lazy }
+![Hot Chocolate](../assets/images/hot-chocolate.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

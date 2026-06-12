@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/strawberry-whip.jpg
+hero: assets/images/strawberry-whip.webp
 ---
 
 # :strawberry: Strawberry Whip
@@ -48,4 +48,4 @@ Makes two generous, frosty drinks.
 
 - The Essential Mormon Cookbook
 
-[1]: <../assets/images/strawberry-whip.jpg>
+[1]: <../assets/images/strawberry-whip.webp>

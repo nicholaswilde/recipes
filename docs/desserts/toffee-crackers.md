@@ -3,12 +3,12 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/toffee-crackers.jpg
+hero: assets/images/toffee-crackers.webp
 ---
 
 # :cookie: Toffee Crackers
 
-![Toffee Crackers](../assets/images/toffee-crackers.jpg){ loading=lazy }
+![Toffee Crackers](../assets/images/toffee-crackers.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

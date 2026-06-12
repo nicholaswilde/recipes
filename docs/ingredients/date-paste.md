@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/date-paste.jpg
+hero: assets/images/date-paste.webp
 ---
 # Date Paste
 
@@ -43,5 +43,5 @@ you'd like a thinner consistency. Transfer to a glass container and cover.
 
 - <https://amyinthekitchen.com/date-paste/>
 
-[1]: <../assets/images/date-paste.jpg>
+[1]: <../assets/images/date-paste.webp>
 

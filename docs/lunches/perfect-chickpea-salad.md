@@ -6,12 +6,12 @@ tags:
   - lunch
   - sandwich
   - favorite
-hero: assets/images/perfect-chickpea-salad.jpg
+hero: assets/images/perfect-chickpea-salad.webp
 ---
 
 # :falafel: Dr. Campbell Perfect Chickpea Salad Sandwich Spread
 
-![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.jpg){ loading=lazy }
+![Perfect Chickpea Salad](../assets/images/perfect-chickpea-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

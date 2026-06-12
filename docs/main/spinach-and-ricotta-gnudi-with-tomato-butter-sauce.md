@@ -4,7 +4,7 @@ tags:
 
   - dumpling
   - italian
-hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg
+hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp
 ---
 
 # :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce
@@ -102,4 +102,4 @@ Parmesan. Serve immediately.
 
 - <https://www.americastestkitchen.com/recipes/13539-spinach-and-ricotta-gnudi-with-tomato-butter-sauce>
 
-[1]: <../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.jpg>
+[1]: <../assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp>

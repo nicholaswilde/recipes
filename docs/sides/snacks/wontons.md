@@ -4,12 +4,12 @@ tags:
 
   - indonesian
   - tante-myrna-seccia
-hero: assets/images/wontons.jpg
+hero: assets/images/wontons.webp
 ---
 
 # :dumpling: Wontons
 
-![Wontons](../../assets/images/wontons.jpg){ loading=lazy }
+![Wontons](../../assets/images/wontons.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

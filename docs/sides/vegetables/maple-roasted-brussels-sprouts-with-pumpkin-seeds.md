@@ -5,7 +5,7 @@ tags:
   - side
   - whole-foods
   - cathy
-hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg
+hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.webp
 ---
 
 # :leafy_green: Maple Roasted Brussels Sprouts with Pumpkin Seeds
@@ -56,4 +56,4 @@ Drizzle with maple syrup and toss with pumpkin seeds. Roast 5 minutes more until
 
 - <https://www.wholefoodsmarket.com/recipes/maple-roasted-brussels-sprouts-pumpkin-seeds>
 
-[1]: <../../assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg>
+[1]: <../../assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.webp>

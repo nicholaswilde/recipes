@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/buttermilk-panna-cotta.jpg
+hero: assets/images/buttermilk-panna-cotta.webp
 ---
 
 # :icecream: Buttermilk Panna Cotta
@@ -59,4 +59,4 @@ panna cotta to settle onto plate. Top with berry compote (optional) and serve ch
 
 - <https://www.epicurious.com/recipes/food/views/buttermilk-panna-cotta-240370>
 
-[1]: <../assets/images/buttermilk-panna-cotta.jpg>
+[1]: <../assets/images/buttermilk-panna-cotta.webp>

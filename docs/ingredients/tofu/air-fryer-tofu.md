@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - tofu
-hero: assets/images/air-fryer-tofu.jpg
+hero: assets/images/air-fryer-tofu.webp
 ---
 
 # :butter: Air Fryer Tofu
 
-![Air Fryer Tofu](../../assets/images/air-fryer-tofu.jpg){ loading=lazy }
+![Air Fryer Tofu](../../assets/images/air-fryer-tofu.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

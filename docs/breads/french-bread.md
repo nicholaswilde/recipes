@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/french-bread.jpg
+hero: assets/images/french-bread.webp
 ---
 
 # :baguette_bread: French Bread
@@ -144,4 +144,4 @@ before slicing. French bread is best eaten the day it's baked. Freeze for longer
 - <https://www.kingarthurbaking.com/recipes/everyday-french-loaf-recipe>
 - <https://www.youtube.com/watch?v=A-QvjTmSJyY>
 
-[1]: <../assets/images/french-bread.jpg>
+[1]: <../assets/images/french-bread.webp>

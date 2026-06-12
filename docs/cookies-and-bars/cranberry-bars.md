@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/cranberry-bars.jpg
+hero: assets/images/cranberry-bars.webp
 ---
 
 # :cherries: Cranberry Bars
@@ -100,4 +100,4 @@ refrigerator for up to 1 week.
 
 - <https://sallysbakingaddiction.com/cranberry-crumble-pie-bars/#tasty-recipes-77854>
 
-[1]: <../assets/images/cranberry-bars.jpg>
+[1]: <../assets/images/cranberry-bars.webp>

@@ -4,7 +4,7 @@ tags:
 
   - dip
   - applied-kitchen
-hero: assets/images/tzatziki-dip.jpg
+hero: assets/images/tzatziki-dip.webp
 ---
 
 # Tzatziki Dip
@@ -53,4 +53,4 @@ Combine the cucumbers, olive oil, and Greek yogurt in a bowl, and serve.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/tzatziki-dip.jpg>
+[1]: <../../assets/images/tzatziki-dip.webp>

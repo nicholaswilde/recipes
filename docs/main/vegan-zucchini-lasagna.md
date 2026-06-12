@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/vegan-zucchini-lasagna.jpg
+hero: assets/images/vegan-zucchini-lasagna.webp
 ---
 # Vegan Zucchini Lasagna
 
@@ -93,6 +93,6 @@ refrigerator, or in the freezer up to 1 month.
 
 - <https://minimalistbaker.com/8-ingredient-zucchini-lasagna-gf/>
 
-[1]: <../assets/images/vegan-zucchini-lasagna.jpg>
+[1]: <../assets/images/vegan-zucchini-lasagna.webp>
 [2]: <../ingredients/vegan-parmesan.md>
 

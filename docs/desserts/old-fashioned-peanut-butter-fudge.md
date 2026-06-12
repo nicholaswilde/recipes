@@ -5,12 +5,12 @@ tags:
   - dessert
   - fudge
   - holiday
-hero: assets/images/old-fashioned-peanut-butter-fudge.jpg
+hero: assets/images/old-fashioned-peanut-butter-fudge.webp
 ---
 
 # :peanuts: Old-Fashioned Peanut Butter Fudge
 
-![Old-Fashioned Peanut Butter Fudge](../assets/images/old-fashioned-peanut-butter-fudge.jpg){ loading=lazy }
+![Old-Fashioned Peanut Butter Fudge](../assets/images/old-fashioned-peanut-butter-fudge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - nutrition-studies
-hero: assets/images/mediterranean-coleslaw.jpg
+hero: assets/images/mediterranean-coleslaw.webp
 ---
 
 # :leafy_green: Mediterranean Coleslaw
@@ -44,4 +44,4 @@ Serve immediately.
 
 - <https://nutritionstudies.org/recipes/sides/mediterranean-coleslaw/>
 
-[1]: <../assets/images/mediterranean-coleslaw.jpg>
+[1]: <../assets/images/mediterranean-coleslaw.webp>

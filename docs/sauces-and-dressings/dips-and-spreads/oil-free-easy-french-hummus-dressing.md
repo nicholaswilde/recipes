@@ -4,7 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
-hero: assets/images/oil-free-easy-french-hummus-dressing.jpg
+hero: assets/images/oil-free-easy-french-hummus-dressing.webp
 ---
 
 # :salad_bowl: Oil-Free Easy French Hummus Dressing
@@ -47,4 +47,4 @@ Taste and adjust the flavors as needed.
 
 - <https://nutritionstudies.org/recipes/salad-dressing/oil-free-easy-french-hummus-dressing/>
 
-[1]: <../../assets/images/oil-free-easy-french-hummus-dressing.jpg>
+[1]: <../../assets/images/oil-free-easy-french-hummus-dressing.webp>

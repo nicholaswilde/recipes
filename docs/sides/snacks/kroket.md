@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dutch
-hero: assets/images/kroket.jpg
+hero: assets/images/kroket.webp
 ---
 
 # :hotdog: Kroket
 
-![Kroket](../../assets/images/kroket.jpg){ loading=lazy }
+![Kroket](../../assets/images/kroket.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

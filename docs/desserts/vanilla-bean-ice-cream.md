@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/vanilla-bean-ice-cream.jpg
+hero: assets/images/vanilla-bean-ice-cream.webp
 ---
 
 # :ice_cream: Vanilla Bean Ice Cream
 
-![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.jpg){ loading=lazy }
+![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

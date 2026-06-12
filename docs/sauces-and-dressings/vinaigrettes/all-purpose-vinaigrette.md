@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/all-purpose-vinaigrette.jpg
+hero: assets/images/all-purpose-vinaigrette.webp
 ---
 
 # All-Purpose Vinaigrette
@@ -38,4 +38,4 @@ refrigerated in an airtight container for up to a week.
 
 - <https://nutritionstudies.org/recipes/salad-dressing/all-purpose-vinaigrette/>
 
-[1]: <../../assets/images/all-purpose-vinaigrette.jpg>
+[1]: <../../assets/images/all-purpose-vinaigrette.webp>

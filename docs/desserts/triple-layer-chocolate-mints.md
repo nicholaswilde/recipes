@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/triple-layer-chocolate-mints.jpg
+hero: assets/images/triple-layer-chocolate-mints.webp
 ---
 
 # :chocolate_bar: Triple Layer Chocolate Mints
@@ -63,4 +63,4 @@ in refrigerator.
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/triple-layer-chocolate-mints.jpg>
+[1]: <../assets/images/triple-layer-chocolate-mints.webp>

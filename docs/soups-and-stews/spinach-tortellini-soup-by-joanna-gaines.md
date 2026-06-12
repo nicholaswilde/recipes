@@ -5,7 +5,7 @@ tags:
   - magnolia
   - soup
   - recipe-box
-hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg
+hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.webp
 ---
 
 # :stew: Spinach Tortellini Soup by Joanna Gaines
@@ -73,4 +73,4 @@ thaw before reheating.
 
 [1]: <../ingredients/vegetable-broth.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>
-[3]: <../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg>
+[3]: <../assets/images/spinach-tortellini-soup-by-joanna-gaines.webp>

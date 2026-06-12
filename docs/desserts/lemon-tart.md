@@ -2,7 +2,7 @@
 comments: true
 tags:
   - tart
-hero: assets/images/lemon-tart.jpg
+hero: assets/images/lemon-tart.webp
 ---
 # Lemon Tart
 
@@ -111,4 +111,4 @@ or cold.
 
 - <https://goop.com/ca-en/recipes/thomas-keller-lemon-tart/>
 
-[1]: <../assets/images/lemon-tart.jpg>
+[1]: <../assets/images/lemon-tart.webp>

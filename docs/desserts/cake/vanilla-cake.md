@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/vanilla-cake.jpg
+hero: assets/images/vanilla-cake.webp
 ---
 
 # :cake: Vanilla Cake
@@ -109,5 +109,5 @@ extract.
 - <https://www.thepancakeprincess.com/best-vanilla-cake-bake-off/>
 - <https://www.thekitchn.com/vanilla-cake-recipe-showdown-23651936>
 
-[1]: <../../assets/images/vanilla-cake.jpg>
+[1]: <../../assets/images/vanilla-cake.webp>
 [2]: <../../ingredients/frosting/classic-vanilla-buttercream-frosting.md>

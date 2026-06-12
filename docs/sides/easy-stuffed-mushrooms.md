@@ -5,11 +5,11 @@ tags:
   - side
   - mushroom
   - vegetarian
-hero: assets/images/easy-stuffed-mushrooms.jpg
+hero: assets/images/easy-stuffed-mushrooms.webp
 ---
 # Easy Stuffed Mushrooms
 
-![Easy Stuffed Mushrooms](../assets/images/easy-stuffed-mushrooms.jpg){ loading=lazy }
+![Easy Stuffed Mushrooms](../assets/images/easy-stuffed-mushrooms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

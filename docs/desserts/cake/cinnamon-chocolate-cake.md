@@ -4,12 +4,12 @@ tags:
 
   - cake
   - dessert
-hero: assets/images/cinnamon-chocolate-cake.jpg
+hero: assets/images/cinnamon-chocolate-cake.webp
 ---
 
 # :cake: Cinnamon Chocolate Cake
 
-![Cinnamon Chocolate Cake](../../assets/images/cinnamon-chocolate-cake.jpg){ loading=lazy }
+![Cinnamon Chocolate Cake](../../assets/images/cinnamon-chocolate-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

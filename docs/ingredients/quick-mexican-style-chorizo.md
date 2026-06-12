@@ -5,7 +5,7 @@ tags:
   - ingredient
   - mexican
   - cooks-illustrated
-hero: assets/images/quick-mexican-style-chorizo.jpg
+hero: assets/images/quick-mexican-style-chorizo.webp
 ---
 
 # :hot_pepper: Quick Mexican-Style Chorizo
@@ -57,4 +57,4 @@ juices are bubbling, about 3 minutes.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/quick-mexican-style-chorizo.jpg>
+[1]: <../assets/images/quick-mexican-style-chorizo.webp>

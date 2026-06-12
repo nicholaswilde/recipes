@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/mushroom-barbacoa-bowl.jpg
+hero: assets/images/mushroom-barbacoa-bowl.webp
 ---
 # Mushroom Barbacoa Bowl
 
@@ -65,7 +65,7 @@ Top with the Barbacoa Mushrooms, steamed vegetables, and the Roasted Red Pepper 
 
 - <https://nutritionstudies.org/recipes/main-dish/mushroom-barbacoa-bowl/>
 
-[1]: <../assets/images/mushroom-barbacoa-bowl.jpg>
+[1]: <../assets/images/mushroom-barbacoa-bowl.webp>
 [2]: <../ingredients/brown-rice.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/roasted-red-pepper-sauce.md>
 

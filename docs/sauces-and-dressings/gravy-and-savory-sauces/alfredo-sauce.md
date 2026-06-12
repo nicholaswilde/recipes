@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - italian
-hero: assets/images/alfredo-sauce.jpg
+hero: assets/images/alfredo-sauce.webp
 ---
 
 # :spaghetti: Alfredo Sauce
 
-![Alfredo Sauce](../../assets/images/alfredo-sauce.jpg){ loading=lazy }
+![Alfredo Sauce](../../assets/images/alfredo-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

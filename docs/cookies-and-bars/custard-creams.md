@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/custard-creams.jpg
+hero: assets/images/custard-creams.webp
 ---
 
 # :cookie: Custard Creams
@@ -99,4 +99,4 @@ chill the biscuits until the filling is firm. They will keep for up to 3 days in
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/prue-leiths-custard-creams/>
 
-[1]: <../assets/images/custard-creams.jpg>
+[1]: <../assets/images/custard-creams.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/french-dressing.jpg
+hero: assets/images/french-dressing.webp
 ---
 
 # :green_salad: French Dressing
 
-![French Dressing](../../assets/images/french-dressing.jpg){ loading=lazy }
+![French Dressing](../../assets/images/french-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

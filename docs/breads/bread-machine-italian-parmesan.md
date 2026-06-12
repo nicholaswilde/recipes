@@ -4,7 +4,7 @@ tags:
 
   - bread
   - bread-machine
-hero: assets/images/bread-machine-italian-parmesan.jpg
+hero: assets/images/bread-machine-italian-parmesan.webp
 ---
 
 # :bread: Bread Machine Italian Parmesan
@@ -61,4 +61,4 @@ Close bread machine and press "start". Take 4.5 hours.
 
 - <https://www.food.com/recipe/italian-parmesan-bread-for-bread-machine-155369>
 
-[1]: <../assets/images/bread-machine-italian-parmesan.jpg>
+[1]: <../assets/images/bread-machine-italian-parmesan.webp>

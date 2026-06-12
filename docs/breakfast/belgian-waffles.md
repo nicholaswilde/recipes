@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
-hero: assets/images/belgian-waffles.jpg
+hero: assets/images/belgian-waffles.webp
 ---
 
 # :waffle: Belgian Waffles
@@ -63,4 +63,4 @@ Cook and sprinkle with confectioners' sugar.
 
 - Joy of Cooking
 
-[1]: <../assets/images/belgian-waffles.jpg>
+[1]: <../assets/images/belgian-waffles.webp>

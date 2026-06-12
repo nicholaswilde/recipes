@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/vanilla-pudding.jpg
+hero: assets/images/vanilla-pudding.webp
 ---
 
 # :icecream: Vanilla Pudding
 
-![Vanilla Pudding](../assets/images/vanilla-pudding.jpg){ loading=lazy }
+![Vanilla Pudding](../assets/images/vanilla-pudding.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

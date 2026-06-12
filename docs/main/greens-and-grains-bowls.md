@@ -4,12 +4,12 @@ tags:
 
   - main
   - bowl
-hero: assets/images/greens-and-grains-bowls.jpg
+hero: assets/images/greens-and-grains-bowls.webp
 ---
 
 # :stuffed_flatbread: Greens and Grains Bowls
 
-![Greens and Grains Bowls](../assets/images/greens-and-grains-bowls.jpg){ loading=lazy }
+![Greens and Grains Bowls](../assets/images/greens-and-grains-bowls.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

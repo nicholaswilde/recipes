@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - ina-garten
-hero: assets/images/cinnamon-spiced-shortbread.jpg
+hero: assets/images/cinnamon-spiced-shortbread.webp
 ---
 
 # :cookie: Cinnamon-Spiced Shortbread
 
-![Cinnamon-Spiced Shortbread](../assets/images/cinnamon-spiced-shortbread.jpg){ loading=lazy }
+![Cinnamon-Spiced Shortbread](../assets/images/cinnamon-spiced-shortbread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

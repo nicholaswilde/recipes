@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cupcake
-hero: assets/images/white-chocolate-strawberry-cupcakes.jpg
+hero: assets/images/white-chocolate-strawberry-cupcakes.webp
 ---
 
 # :cupcake: White Chocolate Strawberry Cupcakes
 
-![White Chocolate Strawberry Cupcakes](../../assets/images/white-chocolate-strawberry-cupcakes.jpg){ loading=lazy }
+![White Chocolate Strawberry Cupcakes](../../assets/images/white-chocolate-strawberry-cupcakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

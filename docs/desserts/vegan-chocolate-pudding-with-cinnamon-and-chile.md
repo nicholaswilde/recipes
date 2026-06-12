@@ -5,7 +5,7 @@ tags:
   - dessert
   - pudding
   - vegan
-hero: assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.jpg
+hero: assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.webp
 ---
 
 # :custard: Vegan Chocolate Pudding with Cinnamon & Chile
@@ -63,4 +63,4 @@ chill for at least 30 minutes. If you like, garnish with chocolate shavings befo
 
 - <https://cooking.nytimes.com/recipes/1012538-vegan-chocolate-pudding-with-cinnamon-and-chile>
 
-[1]: <../assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.jpg>
+[1]: <../assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.webp>

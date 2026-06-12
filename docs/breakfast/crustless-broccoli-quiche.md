@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/crustless-broccoli-quiche.jpg
+hero: assets/images/crustless-broccoli-quiche.webp
 ---
 # Crustless Broccoli Quiche
 
@@ -60,4 +60,4 @@ serve.
 
 - <https://healthyrecipesblogs.com/crustless-quiche/>
 
-[1]: <../assets/images/crustless-broccoli-quiche.jpg>
+[1]: <../assets/images/crustless-broccoli-quiche.webp>

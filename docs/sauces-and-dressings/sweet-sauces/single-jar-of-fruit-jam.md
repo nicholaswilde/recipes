@@ -5,12 +5,12 @@ tags:
   - spread
   - jam
   - condiment
-hero: assets/images/single-jar-of-fruit-jam.jpg
+hero: assets/images/single-jar-of-fruit-jam.webp
 ---
 
 # :strawberry: Single Jar of Fruit Jam
 
-![Single Jar of Fruit Jam](../../assets/images/single-jar-of-fruit-jam.jpg){ loading=lazy }
+![Single Jar of Fruit Jam](../../assets/images/single-jar-of-fruit-jam.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - side
   - nutrition-studies
-hero: assets/images/bow-tie-pasta-chips.jpg
+hero: assets/images/bow-tie-pasta-chips.webp
 ---
 
 # :ribbon: Bow Tie Pasta Chips
@@ -44,4 +44,4 @@ batch). Cook at 390°F for 5 minutes, then shake the basket and cook for 3 to 5 
 
 - <https://nutritionstudies.org/recipes/appetizer/air-fryer-bow-tie-pasta-chips/>
 
-[1]: <../../assets/images/bow-tie-pasta-chips.jpg>
+[1]: <../../assets/images/bow-tie-pasta-chips.webp>

@@ -4,7 +4,7 @@ tags:
 
   - dip
   - persian
-hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg
+hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).webp
 ---
 
 # :onion: Persian Yogurt Dip with Shallots (Mast-O Musir)
@@ -53,4 +53,4 @@ Garnish with rose petals (optional), fresh mint leaves and a drizzle of olive oi
 
 - <https://www.thedeliciouscrescent.com/persian-yogurt-dip-with-shallots/>
 
-[1]: <../../assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg>
+[1]: <../../assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).webp>

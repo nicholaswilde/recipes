@@ -4,7 +4,7 @@ tags:
 
   - bread
   - bake-off
-hero: assets/images/honey-challah-with-assorted-toppings.jpg
+hero: assets/images/honey-challah-with-assorted-toppings.webp
 ---
 
 # :bread: Honey Challah with Assorted Toppings
@@ -84,4 +84,4 @@ sweet and sticky glaze.
 - <https://www.thekitchn.com/challah-recipe-reviews-22969552>
 - <https://youtube.com/watch?v=1FcR1PDzC94&si=tDbaP9S1RaTcP5Sp>
 
-[1]: <../assets/images/honey-challah-with-assorted-toppings.jpg>
+[1]: <../assets/images/honey-challah-with-assorted-toppings.webp>

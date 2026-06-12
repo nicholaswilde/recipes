@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cookie
-hero: assets/images/brandy-snaps.jpg
+hero: assets/images/brandy-snaps.webp
 ---
 
 # :cake: Brandy Snaps
 
-![Brandy Snaps](../assets/images/brandy-snaps.jpg){ loading=lazy }
+![Brandy Snaps](../assets/images/brandy-snaps.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

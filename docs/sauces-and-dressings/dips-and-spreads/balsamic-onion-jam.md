@@ -4,12 +4,12 @@ tags:
 
   - jam
   - canning
-hero: assets/images/balsamic-onion-jam.jpg
+hero: assets/images/balsamic-onion-jam.webp
 ---
 
 # :onion: Balsamic Onion Jam
 
-![Balsamic Onion Jam](../../assets/images/balsamic-onion-jam.jpg){ loading=lazy }
+![Balsamic Onion Jam](../../assets/images/balsamic-onion-jam.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

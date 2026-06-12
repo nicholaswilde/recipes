@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-baked-beans.jpg
+hero: assets/images/vegan-baked-beans.webp
 ---
 # Vegan Baked Beans
 
@@ -86,6 +86,6 @@ or chipotle in adobo (alternative) and slow cook on low 2 to 4 hours.
 
 - <https://www.brandnewvegan.com/recipes/beans-legumes/vegan-baked-beans>
 
-[1]: <../../assets/images/vegan-baked-beans.jpg>
+[1]: <../../assets/images/vegan-baked-beans.webp>
 [2]: <../../ingredients/vegetable-broth.md>
 

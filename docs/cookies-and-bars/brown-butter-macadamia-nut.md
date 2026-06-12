@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/brown-butter-macadamia-nut.jpg
+hero: assets/images/brown-butter-macadamia-nut.webp
 ---
 
 # :cookie: Brown Butter Macadamia Nut
 
-![Brown Butter Macadamia Nut](../assets/images/brown-butter-macadamia-nut.jpg){ loading=lazy }
+![Brown Butter Macadamia Nut](../assets/images/brown-butter-macadamia-nut.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

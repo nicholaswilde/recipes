@@ -4,12 +4,12 @@ tags:
   - bread
   - favorite
   - holiday
-hero: assets/images/monastery-pumpkin-bread.jpg
+hero: assets/images/monastery-pumpkin-bread.webp
 ---
 
 # :bread: Monastery Pumpkin Bread
 
-![Monastery Pumpkin Bread](../assets/images/monastery-pumpkin-bread.jpg){ loading=lazy }
+![Monastery Pumpkin Bread](../assets/images/monastery-pumpkin-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/fiesta-salad.jpg
+hero: assets/images/fiesta-salad.webp
 ---
 # Fiesta Salad
 
@@ -39,7 +39,7 @@ Top with chipotle ranch dressing.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/fiesta-salad.jpg>
+[1]: <../../assets/images/fiesta-salad.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/chipotle-ranch-dressing.md>
 [3]: <../../ingredients/black-beans.md>
 

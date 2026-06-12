@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - mexican
-hero: assets/images/black-bean-burrito-bake.jpg
+hero: assets/images/black-bean-burrito-bake.webp
 ---
 
 # :burrito: Black Bean Burrito Bake
 
-![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.jpg){ loading=lazy }
+![Black Bean Burrito Bake](../assets/images/black-bean-burrito-bake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

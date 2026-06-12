@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/cashew-queso-blanco.jpg
+hero: assets/images/cashew-queso-blanco.webp
 ---
 
 # :rice: Cashew Queso Blanco
@@ -45,4 +45,4 @@ Cover and refrigerate for at least 30 minutes before using.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cashew-queso-blanco.jpg>
+[1]: <../../assets/images/cashew-queso-blanco.webp>

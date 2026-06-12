@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/browned-butter-financiers.jpg
+hero: assets/images/browned-butter-financiers.webp
 ---
 
 # :cupcake: Browned Butter Financiers
@@ -74,4 +74,4 @@ Let the financiers cool in the tins before removing them.
 
 - <https://www.davidlebovitz.com/brown-pastry-browned-butter-financiers-recipe-french/>
 
-[1]: <../assets/images/browned-butter-financiers.jpg>
+[1]: <../assets/images/browned-butter-financiers.webp>

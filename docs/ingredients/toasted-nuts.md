@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/toasted-nuts.jpg
+hero: assets/images/toasted-nuts.webp
 ---
 
 # :chestnut: Toasted Nuts
 
-![Toasted Nuts](../assets/images/toasted-nuts.jpg){ loading=lazy }
+![Toasted Nuts](../assets/images/toasted-nuts.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

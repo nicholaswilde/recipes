@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/pea-purée.jpg
+hero: assets/images/pea-purée.webp
 ---
 
 # :green_circle: Pea Purée
 
-![Pea Purée](../../assets/images/pea-purée.jpg){ loading=lazy }
+![Pea Purée](../../assets/images/pea-purée.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

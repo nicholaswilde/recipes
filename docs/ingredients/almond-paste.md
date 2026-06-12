@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/almond-paste.jpg
+hero: assets/images/almond-paste.webp
 ---
 
 # :chestnut: Almond Paste
@@ -55,5 +55,5 @@ Store almond paste, tightly wrapped, for up to 1 month in the refrigerator, or u
 
 - <https://www.kingarthurbaking.com/recipes/diy-almond-paste-recipe>
 
-[1]: <../assets/images/almond-paste.jpg>
+[1]: <../assets/images/almond-paste.webp>
 [2]: <./almond-flour.md>

@@ -8,7 +8,7 @@ tags:
   - vegetarian
   - carrot
   - ginger
-hero: assets/images/carrot-ginger-soup.jpg
+hero: assets/images/carrot-ginger-soup.webp
 ---
 
 # Carrot Ginger Soup
@@ -78,4 +78,4 @@ seeds or fresh parsley (chopped).
 
 - <https://namelymarly.com/carrot-ginger-soup/>
 
-[1]: <../assets/images/carrot-ginger-soup.jpg>
+[1]: <../assets/images/carrot-ginger-soup.webp>

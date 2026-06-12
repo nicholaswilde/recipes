@@ -5,12 +5,12 @@ tags:
   - dessert
   - shortcake
   - cooks-illustrated
-hero: assets/images/strawberry-shortcakes.jpg
+hero: assets/images/strawberry-shortcakes.webp
 ---
 
 # :strawberry: Strawberry Shortcakes
 
-![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.jpg){ loading=lazy }
+![Strawberry Shortcakes](../assets/images/strawberry-shortcakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/skillet-flatbread.jpg
+hero: assets/images/skillet-flatbread.webp
 ---
 
 # :flatbread: Skillet Flatbread
@@ -72,4 +72,4 @@ flattening between your palms.
 
 - <https://www.kingarthurbaking.com/recipes/skillet-flatbreads-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

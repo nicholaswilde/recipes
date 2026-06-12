@@ -6,7 +6,7 @@ tags:
   - pasta
   - cheese
   - gilligan-family
-hero: assets/images/stuffed-shells.jpg
+hero: assets/images/stuffed-shells.webp
 ---
 # :shallow_pan_of_food: Stuffed Shells
 
@@ -85,4 +85,4 @@ Let rest for 5 minutes before serving.
 - Gilligan Family
 - <https://github.com/nicholaswilde/recipes/issues/1343>
 
-[1]: <../assets/images/stuffed-shells.jpg>
+[1]: <../assets/images/stuffed-shells.webp>

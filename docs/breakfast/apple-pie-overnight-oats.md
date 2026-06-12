@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/apple-pie-overnight-oats.jpg
+hero: assets/images/apple-pie-overnight-oats.webp
 ---
 
 # :green_apple: Apple Pie Overnight Oats
 
-![Apple Pie Overnight Oats](../assets/images/apple-pie-overnight-oats.jpg){ loading=lazy }
+![Apple Pie Overnight Oats](../assets/images/apple-pie-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

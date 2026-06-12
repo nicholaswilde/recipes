@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - extract
-hero: assets/images/lemon-extract.jpg
+hero: assets/images/lemon-extract.webp
 ---
 
 # :lemon: Lemon Extract
 
-![Lemon Extract](../../assets/images/lemon-extract.jpg){ loading=lazy }
+![Lemon Extract](../../assets/images/lemon-extract.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

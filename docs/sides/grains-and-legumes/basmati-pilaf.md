@@ -4,12 +4,12 @@ tags:
 
   - side
   - gordon-ramsay
-hero: assets/images/basmati-pilaf.jpg
+hero: assets/images/basmati-pilaf.webp
 ---
 
 # :rice: Basmati Pilaf
 
-![Basmati Pilaf](../../assets/images/basmati-pilaf.jpg){ loading=lazy }
+![Basmati Pilaf](../../assets/images/basmati-pilaf.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

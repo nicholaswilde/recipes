@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/jalapeño-lime-pesto.jpg
+hero: assets/images/jalapeño-lime-pesto.webp
 ---
 
 # :herb: Jalapeño Lime Pesto
 
-![Jalapeño Lime Pesto](../../../assets/images/jalapeño-lime-pesto.jpg){ loading=lazy }
+![Jalapeño Lime Pesto](../../../assets/images/jalapeño-lime-pesto.webp){ loading=lazy }
 
 | :timer_clock: Total Time  |
 |:-------------------------:|

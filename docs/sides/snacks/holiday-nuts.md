@@ -2,12 +2,12 @@
 comments: true
 tags:
   - holiday
-hero: assets/images/holiday-nuts.jpg
+hero: assets/images/holiday-nuts.webp
 ---
 
 # :chestnut: Holiday Nuts
 
-![Holiday Nuts](../../assets/images/holiday-nuts.jpg){ loading=lazy }
+![Holiday Nuts](../../assets/images/holiday-nuts.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

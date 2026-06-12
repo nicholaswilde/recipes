@@ -5,12 +5,12 @@ tags:
   - pie
   - dessert
   - recipe-box
-hero: assets/images/blueberry-pie.jpg
+hero: assets/images/blueberry-pie.webp
 ---
 
 # :pie: Blueberry Pie
 
-![Blueberry Pie](../../assets/images/blueberry-pie.jpg){ loading=lazy }
+![Blueberry Pie](../../assets/images/blueberry-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

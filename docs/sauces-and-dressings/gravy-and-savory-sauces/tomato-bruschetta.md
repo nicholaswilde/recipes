@@ -5,12 +5,12 @@ tags:
   - sauce
   - italian
   - the-new-york-times
-hero: assets/images/tomato-bruschetta.jpg
+hero: assets/images/tomato-bruschetta.webp
 ---
 
 # :tomato: Tomato Bruschetta
 
-![Tomato Bruschetta](../../assets/images/tomato-bruschetta.jpg){ loading=lazy }
+![Tomato Bruschetta](../../assets/images/tomato-bruschetta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

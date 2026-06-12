@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - grandma-beatrice-wilde
-hero: assets/images/chocolate-crinkles.jpg
+hero: assets/images/chocolate-crinkles.webp
 ---
 
 # :cookie: Chocolate Crinkles
 
-![Chocolate Crinkles](../assets/images/chocolate-crinkles.jpg){ loading=lazy }
+![Chocolate Crinkles](../assets/images/chocolate-crinkles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

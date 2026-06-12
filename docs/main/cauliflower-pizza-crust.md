@@ -5,7 +5,7 @@ tags:
   - pizza
   - low-carb
   - gluten-free
-hero: assets/images/cauliflower-pizza-crust.jpg
+hero: assets/images/cauliflower-pizza-crust.webp
 ---
 
 # :pizza: Cauliflower Pizza Crust
@@ -90,4 +90,4 @@ Let the pizza cool for 1 to 2 minutes before cutting into 8 slices.
 
 - <https://ifoodreal.com/cauliflower-pizza-crust/>
 
-[1]: <../assets/images/cauliflower-pizza-crust.jpg>
+[1]: <../assets/images/cauliflower-pizza-crust.webp>

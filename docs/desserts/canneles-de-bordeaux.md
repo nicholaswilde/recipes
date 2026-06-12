@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/canneles-de-bordeaux.jpg
+hero: assets/images/canneles-de-bordeaux.webp
 ---
 # Canneles de Bordeaux
 
@@ -86,5 +86,5 @@ Let cool for 2 hours at room temperature.
 
 - <https://tasteofartisan.com/canele/#recipe>
 
-[1]: <../assets/images/canneles-de-bordeaux.jpg>
+[1]: <../assets/images/canneles-de-bordeaux.webp>
 

@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - gordon-ramsay
-hero: assets/images/hash-browns.jpg
+hero: assets/images/hash-browns.webp
 ---
 
 # :potato: Hash Browns
 
-![Hash Browns](../assets/images/hash-browns.jpg){ loading=lazy }
+![Hash Browns](../assets/images/hash-browns.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

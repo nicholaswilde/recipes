@@ -7,7 +7,7 @@ tags:
   - vegetarian
   - recipe-box
   - minimalist-baker
-hero: assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg
+hero: assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.webp
 ---
 
 # :peanuts: Crispy Peanut Tofu & Cauliflower Rice Stir-Fry
@@ -108,4 +108,4 @@ Optionally, vegetables such as thinly sliced baby bok choy (optional) may be add
 - Recipe Box
 
 [1]: <../ingredients/peanut-butter.md>
-[2]: <../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.jpg>
+[2]: <../assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.webp>

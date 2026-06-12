@@ -6,12 +6,12 @@ tags:
   - italian
   - joy-of-cooking
   - pesto
-hero: assets/images/sun-dried-tomato-pesto.jpg
+hero: assets/images/sun-dried-tomato-pesto.webp
 ---
 
 # :tomato: Sun-Dried Tomato Pesto
 
-![Sun-Dried Tomato Pesto](../../../assets/images/sun-dried-tomato-pesto.jpg){ loading=lazy }
+![Sun-Dried Tomato Pesto](../../../assets/images/sun-dried-tomato-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

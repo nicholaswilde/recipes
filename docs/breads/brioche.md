@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/brioche.jpg
+hero: assets/images/brioche.webp
 ---
 
 # :bread: Brioche
@@ -158,4 +158,4 @@ consistency. Drizzle the glaze over the baked loaves, if desired.
 - <https://www.youtube.com/watch?v=4Y8MxeG9BAc>
 - <https://www.youtube.com/watch?v=AG--9bm6s0A>
 
-[1]: <../assets/images/brioche.jpg>
+[1]: <../assets/images/brioche.webp>

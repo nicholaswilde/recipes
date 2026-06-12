@@ -5,12 +5,12 @@ tags:
   - ingredient
   - sourdough
   - cooks-illustrated
-hero: assets/images/sourdough-starter.jpg
+hero: assets/images/sourdough-starter.webp
 ---
 
 # :microbe: Sourdough Starter
 
-![Sourdough Starter](../assets/images/sourdough-starter.jpg){ loading=lazy }
+![Sourdough Starter](../assets/images/sourdough-starter.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,12 +5,12 @@ tags:
   - sweet-sauce
   - citrus
   - bigger-bolder-baking
-hero: assets/images/orange-marmalade.jpg
+hero: assets/images/orange-marmalade.webp
 ---
 
 # Orange Marmalade
 
-![Orange Marmalade](../../assets/images/orange-marmalade.jpg){ loading=lazy }
+![Orange Marmalade](../../assets/images/orange-marmalade.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

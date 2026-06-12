@@ -7,12 +7,12 @@ tags:
   - middle eastern
   - vegan
   - gluten-free
-hero: assets/images/hummus-michael-solomonov.jpg
+hero: assets/images/hummus-michael-solomonov.webp
 ---
 
 # :beans: Hummus Michael Solomonov
 
-![Hummus Michael Solomonov](../../assets/images/hummus-michael-solomonov.jpg){ loading=lazy }
+![Hummus Michael Solomonov](../../assets/images/hummus-michael-solomonov.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - cooks-illustrated
   - ingredient
-hero: assets/images/flavored-sugars.jpg
+hero: assets/images/flavored-sugars.webp
 ---
 
 # :candy: Flavored Sugars
 
-![Flavored Sugars](../assets/images/flavored-sugars.jpg){ loading=lazy }
+![Flavored Sugars](../assets/images/flavored-sugars.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

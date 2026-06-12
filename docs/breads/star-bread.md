@@ -5,7 +5,7 @@ tags:
   - bread
   - preppy-kitchen
   - holiday
-hero: assets/images/star-bread.jpg
+hero: assets/images/star-bread.webp
 ---
 
 # :star: Star Bread
@@ -113,4 +113,4 @@ on the pan for 10 minutes. Lightly dust with confectioners' sugar before serving
 
 - <https://preppykitchen.com/star-bread/>
 
-[1]: <../assets/images/star-bread.jpg>
+[1]: <../assets/images/star-bread.webp>

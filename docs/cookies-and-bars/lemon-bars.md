@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - tante-myrna-seccia
-hero: assets/images/lemon-bars.jpg
+hero: assets/images/lemon-bars.webp
 ---
 
 # :lemon: Lemon Bars
 
-![Lemon Bars](../assets/images/lemon-bars.jpg){ loading=lazy }
+![Lemon Bars](../assets/images/lemon-bars.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

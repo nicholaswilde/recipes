@@ -5,12 +5,12 @@ tags:
   - ina-garten
   - salad
   - side
-hero: assets/images/ina-garten's-potato-salad.jpg
+hero: assets/images/ina-garten's-potato-salad.webp
 ---
 
 # :potato: Ina Garten's Potato Salad
 
-![Ina Garten's Potato Salad](../../assets/images/ina-garten's-potato-salad.jpg){ loading=lazy }
+![Ina Garten's Potato Salad](../../assets/images/ina-garten's-potato-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

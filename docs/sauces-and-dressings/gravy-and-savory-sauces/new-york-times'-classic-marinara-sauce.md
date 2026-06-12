@@ -5,7 +5,7 @@ tags:
   - sauce
   - the-new-york-times
   - recipe-box
-hero: assets/images/new-york-times'-classic-marinara-sauce.jpg
+hero: assets/images/new-york-times'-classic-marinara-sauce.webp
 ---
 
 # :tomato: New York Times' Classic Marinara Sauce
@@ -62,4 +62,4 @@ Taste and season as needed. Discard basil and chile, if using.
 - The New York Times
 - Recipe Box
 
-[1]: <../../assets/images/new-york-times'-classic-marinara-sauce.jpg>
+[1]: <../../assets/images/new-york-times'-classic-marinara-sauce.webp>

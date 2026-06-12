@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/cashew-chipotle-ranch-dressing.jpg
+hero: assets/images/cashew-chipotle-ranch-dressing.webp
 ---
 
 # :green_salad: Cashew Chipotle Ranch Dressing
 
-![Cashew Chipotle Ranch Dressing](../../assets/images/cashew-chipotle-ranch-dressing.jpg){ loading=lazy }
+![Cashew Chipotle Ranch Dressing](../../assets/images/cashew-chipotle-ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

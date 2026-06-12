@@ -4,7 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
-hero: assets/images/cilantro-almond-pesto-brussels-sprouts.jpg
+hero: assets/images/cilantro-almond-pesto-brussels-sprouts.webp
 ---
 
 # :leafy_green: Cilantro Almond Pesto Brussels Sprouts
@@ -65,5 +65,5 @@ lemon wedges.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cilantro-almond-pesto-brussels-sprouts.jpg>
+[1]: <../../assets/images/cilantro-almond-pesto-brussels-sprouts.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/cilantro-almond-pesto.md>

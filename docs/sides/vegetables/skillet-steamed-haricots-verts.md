@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/skillet-steamed-haricots-verts.jpg
+hero: assets/images/skillet-steamed-haricots-verts.webp
 ---
 
 # Skillet-Steamed Haricots Verts
 
-![Skillet-Steamed Haricots Verts](../../assets/images/skillet-steamed-haricots-verts.jpg){ loading=lazy }
+![Skillet-Steamed Haricots Verts](../../assets/images/skillet-steamed-haricots-verts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

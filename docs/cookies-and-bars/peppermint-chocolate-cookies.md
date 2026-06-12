@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/peppermint-chocolate-cookies.jpg
+hero: assets/images/peppermint-chocolate-cookies.webp
 ---
 # Peppermint Chocolate Cookies
 
@@ -75,5 +75,5 @@ Spread cooled cookies with Peppermint Buttercream. If you like, sprinkle with cr
 
 - Magnolia
 
-[1]: <../assets/images/peppermint-chocolate-cookies.jpg>
+[1]: <../assets/images/peppermint-chocolate-cookies.webp>
 

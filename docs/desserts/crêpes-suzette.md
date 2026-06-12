@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/crêpes-suzette.jpg
+hero: assets/images/crêpes-suzette.webp
 ---
 
 # :pancakes: Crêpes Suzette
 
-![Crêpes Suzette](../assets/images/crêpes-suzette.jpg){ loading=lazy }
+![Crêpes Suzette](../assets/images/crêpes-suzette.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

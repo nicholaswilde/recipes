@@ -6,11 +6,11 @@ tags:
   - indo-dutch
   - vegetarian
   - vegan
-hero: assets/images/rempejek-katjang.jpg
+hero: assets/images/rempejek-katjang.webp
 ---
 # :chestnut: Rempejek Katjang
 
-![Rempejek Katjang](../../assets/images/rempejek-katjang.jpg){ loading=lazy }
+![Rempejek Katjang](../../assets/images/rempejek-katjang.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

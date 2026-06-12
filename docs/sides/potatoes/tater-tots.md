@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/tater-tots.jpg
+hero: assets/images/tater-tots.webp
 ---
 
 # :potato: Tater Tots
@@ -76,4 +76,4 @@ Serve immediately, garnished with parsley (optional), if desired.
 - <https://damndelicious.net/2015/04/10/homemade-tater-tots/>
 - <https://www.thespruceeats.com/air-fryer-tater-tots-recipe-5119115>
 
-[1]: <../../assets/images/tater-tots.jpg>
+[1]: <../../assets/images/tater-tots.webp>

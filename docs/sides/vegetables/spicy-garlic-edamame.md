@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/spicy-garlic-edamame.jpg
+hero: assets/images/spicy-garlic-edamame.webp
 ---
 
 # Spicy Garlic Edamame
 
-![Spicy Garlic Edamame](../../assets/images/spicy-garlic-edamame.jpg){ loading=lazy }
+![Spicy Garlic Edamame](../../assets/images/spicy-garlic-edamame.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - flour
-hero: assets/images/rice-flour.jpg
+hero: assets/images/rice-flour.webp
 ---
 
 # :rice: Rice Flour
@@ -67,4 +67,4 @@ If you want an extra-fine flour, sift it through a fine-mesh sieve to remove any
 
     For a super fine texture, grind the rice once, then pass it through the grinder again.
 
-[1]: <../assets/images/rice-flour.jpg>
+[1]: <../assets/images/rice-flour.webp>

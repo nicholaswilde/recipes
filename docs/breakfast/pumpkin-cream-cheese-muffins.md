@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/pumpkin-cream-cheese-muffins.jpg
+hero: assets/images/pumpkin-cream-cheese-muffins.webp
 ---
 # :muffin: Pumpkin Cream Cheese Muffins
 
@@ -94,4 +94,4 @@ Let cool in the pan for 10 minutes before transferring to a :wastebasket: wire r
 
 - <https://www.thepancakeprincess.com/the-pumpkin-muffin-bake-off/>
 
-[1]: <../assets/images/pumpkin-cream-cheese-muffins.jpg>
+[1]: <../assets/images/pumpkin-cream-cheese-muffins.webp>

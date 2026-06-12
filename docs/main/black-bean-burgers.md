@@ -4,12 +4,12 @@ tags:
 
   - burger
   - main
-hero: assets/images/black-bean-burgers.jpg
+hero: assets/images/black-bean-burgers.webp
 ---
 
 # :hamburger: Black Bean Burgers
 
-![Black Bean Burgers](../assets/images/black-bean-burgers.jpg){ loading=lazy }
+![Black Bean Burgers](../assets/images/black-bean-burgers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

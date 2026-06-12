@@ -5,12 +5,12 @@ tags:
   - ingredient
   - joy-of-cooking
   - pastry-dough
-hero: assets/images/pat-in-the-pan-butter-dough.jpg
+hero: assets/images/pat-in-the-pan-butter-dough.webp
 ---
 
 # :pie: Pat-in-the-Pan Butter Dough
 
-![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.jpg){ loading=lazy }
+![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

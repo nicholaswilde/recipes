@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/honey-and-walnut-baked-brie.jpg
+hero: assets/images/honey-and-walnut-baked-brie.webp
 ---
 
 # :cheese_wedge: Honey and Walnut Baked Brie
 
-![Honey and Walnut Baked Brie](../../assets/images/honey-and-walnut-baked-brie.jpg){ loading=lazy }
+![Honey and Walnut Baked Brie](../../assets/images/honey-and-walnut-baked-brie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

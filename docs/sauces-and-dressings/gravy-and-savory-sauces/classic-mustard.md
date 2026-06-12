@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - condiment
-hero: assets/images/classic-mustard.jpg
+hero: assets/images/classic-mustard.webp
 ---
 
 # :hotdog: Classic Mustard
 
-![Classic Mustard](../../assets/images/classic-mustard.jpg){ loading=lazy }
+![Classic Mustard](../../assets/images/classic-mustard.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

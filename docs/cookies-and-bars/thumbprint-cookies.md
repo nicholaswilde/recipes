@@ -9,7 +9,7 @@ tags:
   - sugar spun run
   - the pancake princess
   - bake-off
-hero: assets/images/thumbprint-cookies.jpg
+hero: assets/images/thumbprint-cookies.webp
 ---
 # :cookie: Thumbprint Cookies
 
@@ -100,4 +100,4 @@ Allow cookies to cool completely on the :cookie: baking sheet before serving.
 - <https://sugarspunrun.com/thumbprint-cookies/>
 - <https://www.thepancakeprincess.com/best-thumbprint-cookie-bake-off/>
 
-[1]: <../assets/images/thumbprint-cookies.jpg>
+[1]: <../assets/images/thumbprint-cookies.webp>

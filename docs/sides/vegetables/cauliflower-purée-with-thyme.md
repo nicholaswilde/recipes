@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/cauliflower-purée-with-thyme.jpg
+hero: assets/images/cauliflower-purée-with-thyme.webp
 ---
 
 # :broccoli: Cauliflower Purée with Thyme
 
-![Cauliflower Purée with Thyme](../../assets/images/cauliflower-purée-with-thyme.jpg){ loading=lazy }
+![Cauliflower Purée with Thyme](../../assets/images/cauliflower-purée-with-thyme.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

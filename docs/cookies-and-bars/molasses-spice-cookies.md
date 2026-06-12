@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
-hero: assets/images/molasses-spice-cookies.jpg
+hero: assets/images/molasses-spice-cookies.webp
 ---
 
 # :cookie: Molasses Spice Cookies
 
-![Molasses Spice Cookies](../assets/images/molasses-spice-cookies.jpg){ loading=lazy }
+![Molasses Spice Cookies](../assets/images/molasses-spice-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

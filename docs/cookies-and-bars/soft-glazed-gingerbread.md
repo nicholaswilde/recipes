@@ -9,7 +9,7 @@ tags:
   - liz prueitt
   - the pancake princess
   - bake-off
-hero: assets/images/soft-glazed-gingerbread.jpg
+hero: assets/images/soft-glazed-gingerbread.webp
 ---
 # :cookie: Soft Glazed Gingerbread
 
@@ -112,4 +112,4 @@ Let cool completely until the glaze dries to a shiny, opaque finish. If baked as
 - <https://www.food.com/recipe/tartines-soft-glazed-gingerbread-491511>
 - <https://www.thepancakeprincess.com/2020/12/10/best-gingerbread-cookie-bake-off/>
 
-[1]: <../assets/images/soft-glazed-gingerbread.jpg>
+[1]: <../assets/images/soft-glazed-gingerbread.webp>

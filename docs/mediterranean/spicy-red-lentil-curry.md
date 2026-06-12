@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - minimalist-baker
-hero: assets/images/spicy-red-lentil-curry.jpg
+hero: assets/images/spicy-red-lentil-curry.webp
 ---
 
 # :curry: Spicy Red Lentil Curry
@@ -90,7 +90,7 @@ moisture, or in the microwave.
 
 - <https://minimalistbaker.com/spicy-red-lentil-curry/>
 
-[1]: <../assets/images/spicy-red-lentil-curry.jpg>
+[1]: <../assets/images/spicy-red-lentil-curry.webp>
 [2]: <../breads/pita.md>
 [3]: <../breads/naan.md>
 [4]: <../ingredients/tomato-paste.md>

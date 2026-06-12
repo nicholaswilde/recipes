@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - butter
-hero: assets/images/butter.jpg
+hero: assets/images/butter.webp
 ---
 
 # :butter: Butter
 
-![Butter](../../assets/images/butter.jpg){ loading=lazy }
+![Butter](../../assets/images/butter.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

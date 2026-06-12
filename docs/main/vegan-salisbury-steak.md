@@ -5,7 +5,7 @@ tags:
   - main
   - vegan
   - favorite
-hero: assets/images/vegan-salisbury-steak.jpg
+hero: assets/images/vegan-salisbury-steak.webp
 ---
 
 # :hamburger: Vegan Salisbury Steak
@@ -58,7 +58,7 @@ Place on a bed of mashed potatoes and top with [mushroom gravy][3].
 
 - <https://thiswifecooks.com/vegan-salisbury-steak-with-mushroom-gravy/>
 
-[1]: <../assets/images/vegan-salisbury-steak.jpg>
+[1]: <../assets/images/vegan-salisbury-steak.webp>
 [2]: <../ingredients/onion-soup-mix.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/mushroom-gravy.md>
 [4]: <../ingredients/breadcrumbs.md>

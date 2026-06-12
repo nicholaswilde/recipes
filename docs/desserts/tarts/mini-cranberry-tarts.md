@@ -6,7 +6,7 @@ tags:
   - cranberry
   - dorie greenspan
   - holiday
-hero: assets/images/mini-cranberry-tarts.jpg
+hero: assets/images/mini-cranberry-tarts.webp
 ---
 # Mini Cranberry Tarts
 
@@ -97,4 +97,4 @@ Let cool for 15 minutes before removing from the pan. Dust with confectioners' s
 
 - <https://www.foodandwine.com/dorie-greenspans-mini-cranberry-tarts-8736247>
 
-[1]: <../../assets/images/mini-cranberry-tarts.jpg>
+[1]: <../../assets/images/mini-cranberry-tarts.webp>

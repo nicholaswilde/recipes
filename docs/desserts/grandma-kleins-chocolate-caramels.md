@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/grandma-kleins-chocolate-caramels.jpg
+hero: assets/images/grandma-kleins-chocolate-caramels.webp
 ---
 
 # :chocolate_bar: Grandma Kleins Chocolate Caramels
 
-![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.jpg){ loading=lazy }
+![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/pain-de-campagne-(country-bread).jpg
+hero: assets/images/pain-de-campagne-(country-bread).webp
 ---
 
 # :bread: Pain de Campagne (Country Bread)
@@ -130,5 +130,5 @@ Store leftover bread, loosely wrapped, for several days; freeze for longer stora
 
 - <https://www.kingarthurbaking.com/recipes/pain-de-campagne-country-bread-recipe>
 
-[1]: <../assets/images/pain-de-campagne-(country-bread).jpg>
+[1]: <../assets/images/pain-de-campagne-(country-bread).webp>
 [2]: <../ingredients/sourdough-starter.md>

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/marble-cake.jpg
+hero: assets/images/marble-cake.webp
 ---
 
 # :cake: Marble Cake
@@ -170,4 +170,4 @@ consistency is achieved.
 - <https://web.archive.org/web/20230331053706/https://cleobuttera.com/cakes/moist-and-tender-marble-cake/>
 - <https://www.thepancakeprincess.com/best-marble-cake-bake-off/>
 
-[1]: <../../assets/images/marble-cake.jpg>
+[1]: <../../assets/images/marble-cake.webp>

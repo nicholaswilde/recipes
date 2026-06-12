@@ -6,7 +6,7 @@ tags:
   - staples
   - homemade
   - flour
-hero: assets/images/self-rising-flour.jpg
+hero: assets/images/self-rising-flour.webp
 ---
 # Self-Rising Flour
 
@@ -56,5 +56,5 @@ Transfer to an airtight container. Store in a cool, dry place for up to 6 months
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/homemade-self-rising-flour-recipe)
 - [The Kitchn](https://www.thekitchn.com/how-to-make-self-rising-flour-232729)
 
-[1]: <../assets/images/self-rising-flour.jpg>
+[1]: <../assets/images/self-rising-flour.webp>
 [2]: <../ingredients/baking-powder.md>

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/sour-cream-coffee-cake.jpg
+hero: assets/images/sour-cream-coffee-cake.webp
 ---
 
 # :cake: Sour Cream Coffee Cake
@@ -169,4 +169,4 @@ This cake will keep well covered on the counter for 2-3 days. After that, put it
 - <https://thefoodcharlatan.com/sour-cream-coffee-cake/>
 - <https://www.thepancakeprincess.com/best-coffee-cake-bake-off/>
 
-[1]: <../../assets/images/sour-cream-coffee-cake.jpg>
+[1]: <../../assets/images/sour-cream-coffee-cake.webp>

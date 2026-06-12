@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/black-bean-and-butternut-soup.jpg
+hero: assets/images/black-bean-and-butternut-soup.webp
 ---
 
 # :stew: Black Bean & Butternut Soup
 
-![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.jpg){ loading=lazy }
+![Black Bean and Butternut Soup](../assets/images/black-bean-and-butternut-soup.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

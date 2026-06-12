@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - frosting
-hero: assets/images/mom's-buttercream-frosting.jpg
+hero: assets/images/mom's-buttercream-frosting.webp
 ---
 
 # :cupcake: Mom's Buttercream Frosting
 
-![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.jpg){ loading=lazy }
+![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

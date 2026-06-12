@@ -4,7 +4,7 @@ tags:
 
   - bread
   - side
-hero: assets/images/breadsticks.jpg
+hero: assets/images/breadsticks.webp
 ---
 
 # :bread: Breadsticks
@@ -92,4 +92,4 @@ Serve warm.
 
 - <https://sugarspunrun.com/breadsticks/>
 
-[1]: <../assets/images/breadsticks.jpg>
+[1]: <../assets/images/breadsticks.webp>

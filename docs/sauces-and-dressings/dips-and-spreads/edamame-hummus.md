@@ -8,7 +8,7 @@ tags:
   - gluten-free
   - edamame
   - hummus
-hero: assets/images/edamame-hummus.jpg
+hero: assets/images/edamame-hummus.webp
 ---
 
 # :beans: Edamame Hummus
@@ -46,4 +46,4 @@ and pepper to taste until smooth. Add additional water if needed for a smooth co
 
 - <https://nutritionstudies.org/recipes/snack/edamame-hummus/>
 
-[1]: <../../assets/images/edamame-hummus.jpg>
+[1]: <../../assets/images/edamame-hummus.webp>

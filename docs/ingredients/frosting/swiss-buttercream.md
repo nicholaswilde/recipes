@@ -6,12 +6,12 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
-hero: assets/images/swiss-buttercream.jpg
+hero: assets/images/swiss-buttercream.webp
 ---
 
 # :cake: Swiss Buttercream
 
-![Swiss Buttercream](../../assets/images/swiss-buttercream.jpg){ loading=lazy }
+![Swiss Buttercream](../../assets/images/swiss-buttercream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

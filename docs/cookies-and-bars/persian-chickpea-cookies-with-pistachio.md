@@ -5,7 +5,7 @@ tags:
   - cookie
   - dessert
   - persian
-hero: assets/images/persian-chickpea-cookies-with-pistachio.jpg
+hero: assets/images/persian-chickpea-cookies-with-pistachio.webp
 ---
 
 # :falafel: Persian Chickpea Cookies with Pistachio
@@ -82,5 +82,5 @@ completely. Be careful when you transfer the cookies as they crumble very easily
 
 - <https://www.aheadofthyme.com/2017/03/nan-e-nokhodchi-persian-chickpea-cookies/>
 
-[1]: <../assets/images/persian-chickpea-cookies-with-pistachio.jpg>
+[1]: <../assets/images/persian-chickpea-cookies-with-pistachio.webp>
 [2]: <../ingredients/chickpea-flour.md>

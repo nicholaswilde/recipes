@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/berry-sauce.jpg
+hero: assets/images/berry-sauce.webp
 ---
 
 # :strawberry: Berry Sauce
@@ -64,4 +64,4 @@ Transfer the berry sauce to a lidded container and refrigerate until cold.
 
 - What's For Dessert
 
-[1]: <../../assets/images/berry-sauce.jpg>
+[1]: <../../assets/images/berry-sauce.webp>

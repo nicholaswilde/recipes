@@ -5,12 +5,12 @@ tags:
   - dessert
   - jean-pierre
   - mousse
-hero: assets/images/chocolate-mousse.jpg
+hero: assets/images/chocolate-mousse.webp
 ---
 
 # :chocolate_bar: Chocolate Mousse
 
-![Chocolate Mousse](../assets/images/chocolate-mousse.jpg){ loading=lazy }
+![Chocolate Mousse](../assets/images/chocolate-mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

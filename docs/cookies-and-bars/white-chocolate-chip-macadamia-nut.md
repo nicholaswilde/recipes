@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/white-chocolate-chip-macadamia-nut.jpg
+hero: assets/images/white-chocolate-chip-macadamia-nut.webp
 ---
 
 # :cookie: White Chocolate Chip Macadamia Nut
 
-![White Chocolate Chip Macadamia Nut](../assets/images/white-chocolate-chip-macadamia-nut.jpg){ loading=lazy }
+![White Chocolate Chip Macadamia Nut](../assets/images/white-chocolate-chip-macadamia-nut.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

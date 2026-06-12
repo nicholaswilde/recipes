@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/quinoa.jpg
+hero: assets/images/quinoa.webp
 ---
 
 # :rice: Quinoa
@@ -53,4 +53,4 @@ Fluff with a fork.
 
 - <https://www.loveandlemons.com/quinoa/>
 
-[1]: <../../assets/images/quinoa.jpg>
+[1]: <../../assets/images/quinoa.webp>

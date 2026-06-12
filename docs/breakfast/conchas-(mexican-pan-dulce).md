@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/conchas-(mexican-pan-dulce).jpg
+hero: assets/images/conchas-(mexican-pan-dulce).webp
 ---
 
 # :shell: Conchas (Mexican Pan Dulce)
 
-![Conchas (Mexican Pan Dulce)](../assets/images/conchas-(mexican-pan-dulce).jpg){ loading=lazy }
+![Conchas (Mexican Pan Dulce)](../assets/images/conchas-(mexican-pan-dulce).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

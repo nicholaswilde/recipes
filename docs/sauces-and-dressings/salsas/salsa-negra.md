@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-negra.jpg
+hero: assets/images/salsa-negra.webp
 ---
 
 # :hot_pepper: Salsa Negra
@@ -59,4 +59,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-negra.jpg>
+[1]: <../../assets/images/salsa-negra.webp>

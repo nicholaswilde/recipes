@@ -3,7 +3,7 @@ comments: true
 tags:
   - bread
   - king-arthur
-hero: assets/images/pretzel-buns.jpg
+hero: assets/images/pretzel-buns.webp
 ---
 # Pretzel Buns
 
@@ -89,4 +89,4 @@ Transfer to a rack to cool. These are best enjoyed fresh on the day they are bak
 
 - <https://www.kingarthurbaking.com/recipes/pretzel-buns-recipe>
 
-[1]: <../assets/images/pretzel-buns.jpg>
+[1]: <../assets/images/pretzel-buns.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/confectioners-sugar.jpg
+hero: assets/images/confectioners-sugar.webp
 ---
 
 # :candy: Confectioners' Sugar
 
-![Confectioners Sugar](../assets/images/confectioners-sugar.jpg){ loading=lazy }
+![Confectioners Sugar](../assets/images/confectioners-sugar.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

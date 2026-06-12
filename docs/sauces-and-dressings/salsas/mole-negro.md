@@ -5,11 +5,11 @@ tags:
   - mexican
   - mole
   - vegan
-hero: assets/images/mole-negro.jpg
+hero: assets/images/mole-negro.webp
 ---
 # Mole Negro
 
-![Mole Negro](../../assets/images/mole-negro.jpg){ loading=lazy }
+![Mole Negro](../../assets/images/mole-negro.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

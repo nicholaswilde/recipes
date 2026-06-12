@@ -5,12 +5,12 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
-hero: assets/images/crispy-baked-peanut-tofu.jpg
+hero: assets/images/crispy-baked-peanut-tofu.webp
 ---
 
 # :peanuts: Crispy Baked Peanut Tofu
 
-![Crispy Baked Peanut Tofu](../../assets/images/crispy-baked-peanut-tofu.jpg){ loading=lazy }
+![Crispy Baked Peanut Tofu](../../assets/images/crispy-baked-peanut-tofu.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

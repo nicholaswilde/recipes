@@ -5,7 +5,7 @@ tags:
   - side
   - vegan
   - nutrition-studies
-hero: assets/images/loaded-vegan-potato-skins.jpg
+hero: assets/images/loaded-vegan-potato-skins.webp
 ---
 
 # :potato: Loaded Vegan Potato Skins
@@ -64,6 +64,6 @@ Drizzle with [Creamy Vegan Cheese Sauce][3], then top with more smoked paprika, 
 
 - <https://nutritionstudies.org/recipes/appetizer/loaded-vegan-potato-skins/>
 
-[1]: <../../assets/images/loaded-vegan-potato-skins.jpg>
+[1]: <../../assets/images/loaded-vegan-potato-skins.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/tofu-mayonnaise.md>
 [3]: <../../sauces-and-dressings/gravy-and-savory-sauces/creamy-vegan-cheese-sauce.md>

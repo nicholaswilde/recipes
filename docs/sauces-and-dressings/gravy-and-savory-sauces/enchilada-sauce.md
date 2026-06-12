@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/enchilada-sauce.jpg
+hero: assets/images/enchilada-sauce.webp
 ---
 
 # :taco: Enchilada Sauce
@@ -69,4 +69,4 @@ of freshly ground black pepper. Add more salt, if necessary (I usually add anoth
 
 - <https://cookieandkate.com/enchilada-sauce-recipe/>
 
-[1]: <../../assets/images/enchilada-sauce.jpg>
+[1]: <../../assets/images/enchilada-sauce.webp>

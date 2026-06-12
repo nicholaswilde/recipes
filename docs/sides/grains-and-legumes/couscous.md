@@ -4,7 +4,7 @@ tags:
 
   - side
   - mediterranean
-hero: assets/images/couscous.jpg
+hero: assets/images/couscous.webp
 ---
 
 # :shallow_pan_of_food: Couscous
@@ -71,4 +71,4 @@ Enjoy!
 
 - <https://www.themediterraneandish.com/how-to-cook-couscous/>
 
-[1]: <../../assets/images/couscous.jpg>
+[1]: <../../assets/images/couscous.webp>

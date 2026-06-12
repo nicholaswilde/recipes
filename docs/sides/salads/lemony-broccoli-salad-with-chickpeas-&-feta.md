@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
+hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.webp
 ---
 # Lemony Broccoli Salad with Chickpeas & Feta
 
@@ -44,6 +44,6 @@ Cook for 5 minutes, then add the peas. Season with salt and pepper and cook for 
 
 Pour veggies into a bowl and cool for 10 minutes. Add chickpeas, crumbled feta, lemon zest, lemon juice, and olive oil.
 
-[1]: <../../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg>
+[1]: <../../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.webp>
 [2]: <../../ingredients/chickpeas.md>
 

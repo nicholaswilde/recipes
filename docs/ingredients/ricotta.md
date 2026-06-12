@@ -5,12 +5,12 @@ tags:
   - ingredient
   - ina-garten
   - cheese
-hero: assets/images/ricotta.jpg
+hero: assets/images/ricotta.webp
 ---
 
 # :cheese_wedge: Ricotta
 
-![Ricotta](../assets/images/ricotta.jpg){ loading=lazy }
+![Ricotta](../assets/images/ricotta.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

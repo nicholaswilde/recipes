@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/no-knead-everything-bread.jpg
+hero: assets/images/no-knead-everything-bread.webp
 ---
 
 # :bread: No-Knead Everything Bread
@@ -93,5 +93,5 @@ post, Freezing no-knead bread dough, for details.
 - <https://www.kingarthurbaking.com/recipes/no-knead-everything-bread-recipe>
 - <https://youtu.be/0FhiJr6WCGI?si=BqYFNKnHrP-mtsrY>
 
-[1]: <../assets/images/no-knead-everything-bread.jpg>
+[1]: <../assets/images/no-knead-everything-bread.webp>
 [2]: <../ingredients/seasonings/everything-bagel.md>

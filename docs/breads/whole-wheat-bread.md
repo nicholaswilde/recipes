@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/whole-wheat-bread.jpg
+hero: assets/images/whole-wheat-bread.webp
 ---
 
 # :ear_of_rice: Whole Wheat Bread
@@ -116,4 +116,4 @@ Store the bread, well wrapped, at room temperature for several days; freeze for 
 
 - <https://www.kingarthurbaking.com/recipes/classic-100-whole-wheat-bread-recipe>
 
-[1]: <../assets/images/whole-wheat-bread.jpg>
+[1]: <../assets/images/whole-wheat-bread.webp>

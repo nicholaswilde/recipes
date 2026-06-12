@@ -5,7 +5,7 @@ tags:
   - pastry-dough
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/vegan-empanada-pastry.jpg
+hero: assets/images/vegan-empanada-pastry.webp
 ---
 
 # :dumpling: Vegan Empanada Pastry
@@ -73,4 +73,4 @@ Place the dough circles between layers of parchment or plastic wrap and chill un
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/vegan-empanada-pastry.jpg>
+[1]: <../../assets/images/vegan-empanada-pastry.webp>

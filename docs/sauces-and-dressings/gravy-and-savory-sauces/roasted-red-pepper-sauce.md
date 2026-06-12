@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/roasted-red-pepper-sauce.jpg
+hero: assets/images/roasted-red-pepper-sauce.webp
 ---
 
 # :bell_pepper: Roasted Red Pepper Sauce
 
-![Roasted Red Pepper Sauce](../../assets/images/roasted-red-pepper-sauce.jpg){ loading=lazy }
+![Roasted Red Pepper Sauce](../../assets/images/roasted-red-pepper-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

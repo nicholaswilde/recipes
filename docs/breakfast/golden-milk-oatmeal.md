@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/golden-milk-oatmeal.jpg
+hero: assets/images/golden-milk-oatmeal.webp
 ---
 # :ear_of_rice: Golden Milk Oatmeal
 
@@ -64,4 +64,4 @@ Top with :apple: sliced figs and :seedling: hemp seeds, if desired.
 
 - <https://nutritionstudies.org/recipes/breakfast/golden-milk-oatmeal/>
 
-[1]: <../assets/images/golden-milk-oatmeal.jpg>
+[1]: <../assets/images/golden-milk-oatmeal.webp>

@@ -4,7 +4,7 @@ tags:
 
   - side
   - jamie-oliver
-hero: assets/images/tomato-salad.jpg
+hero: assets/images/tomato-salad.webp
 ---
 
 # :tomato: Tomato Salad
@@ -45,4 +45,4 @@ two.
 
 - <https://www.bigoven.com/recipe/jamie-oliver-tomato-salad/2172710>
 
-[1]: <../../assets/images/tomato-salad.jpg>
+[1]: <../../assets/images/tomato-salad.webp>

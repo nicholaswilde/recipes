@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/oat-milk.jpg
+hero: assets/images/oat-milk.webp
 ---
 
 # :ear_of_rice: Oat Milk
@@ -47,4 +47,4 @@ refrigerator for up to one week.
 
 - <https://nutritionstudies.org/recipes/sauce/homemade-oat-milk/>
 
-[1]: <../assets/images/oat-milk.jpg>
+[1]: <../assets/images/oat-milk.webp>

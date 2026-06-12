@@ -4,12 +4,12 @@ tags:
 
   - meringue
   - ingredient
-hero: assets/images/swiss-meringue.jpg
+hero: assets/images/swiss-meringue.webp
 ---
 
 # :egg: Swiss Meringue
 
-![Swiss Meringue](../../assets/images/swiss-meringue.jpg){ loading=lazy }
+![Swiss Meringue](../../assets/images/swiss-meringue.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

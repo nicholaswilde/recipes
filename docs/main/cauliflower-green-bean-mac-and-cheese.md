@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/cauliflower-green-bean-mac-and-cheese.jpg
+hero: assets/images/cauliflower-green-bean-mac-and-cheese.webp
 ---
 # Cauliflower Green Bean Mac and Cheese
 
@@ -57,5 +57,5 @@ Add veggies, toasted crushed almonds, and raisins and mix together. Top with cho
 
 - Forks Over Knives
 
-[1]: <../assets/images/cauliflower-green-bean-mac-and-cheese.jpg>
+[1]: <../assets/images/cauliflower-green-bean-mac-and-cheese.webp>
 

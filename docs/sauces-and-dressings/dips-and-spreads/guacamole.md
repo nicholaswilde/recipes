@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - mexican
-hero: assets/images/guacamole.jpg
+hero: assets/images/guacamole.webp
 ---
 
 # :avodado: Guacamole
@@ -52,4 +52,4 @@ Serve the guacamole with tortilla chips.
 
 - <https://downshiftology.com/recipes/best-ever-guacamole/>
 
-[1]: <../../assets/images/guacamole.jpg>
+[1]: <../../assets/images/guacamole.webp>

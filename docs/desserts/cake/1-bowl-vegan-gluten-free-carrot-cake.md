@@ -6,12 +6,12 @@ tags:
   - cake
   - vegan
   - minimalist-baker
-hero: assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg
+hero: assets/images/1-bowl-vegan-gluten-free-carrot-cake.webp
 ---
 
 # :carrot: 1-Bowl Vegan Gluten-Free Carrot Cake
 
-![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.jpg){ loading=lazy }
+![1-Bowl Vegan Gluten-Free Carrot Cake](../../assets/images/1-bowl-vegan-gluten-free-carrot-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

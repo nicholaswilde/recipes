@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/chickpea-and-spinach-pancakes.jpg
+hero: assets/images/chickpea-and-spinach-pancakes.webp
 ---
 # Chickpea and Spinach Pancakes
 
@@ -57,6 +57,6 @@ little za’atar (optional) (if using) and some more scallions.
 
 - <https://jessicaseinfeld.com/recipes/chickpea-and-spinach-pancakes>
 
-[1]: <../assets/images/chickpea-and-spinach-pancakes.jpg>
+[1]: <../assets/images/chickpea-and-spinach-pancakes.webp>
 [2]: <../ingredients/chickpea-flour.md>
 

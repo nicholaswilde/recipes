@@ -4,12 +4,12 @@ tags:
 
   - mexican
   - tostada
-hero: assets/images/butternut-squash-tostadas.jpg
+hero: assets/images/butternut-squash-tostadas.webp
 ---
 
 # :stuffed_flatbread: Butternut Squash Tostadas
 
-![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.jpg){ loading=lazy }
+![Butternut Squash Tostadas](../assets/images/butternut-squash-tostadas.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

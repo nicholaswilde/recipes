@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/laugenbrezeln-(german-lye-pretzels).jpg
+hero: assets/images/laugenbrezeln-(german-lye-pretzels).webp
 ---
 
 # :pretzel: Laugenbrezeln (German Lye Pretzels)
 
-![Laugenbrezeln (German Lye Pretzels)](../../assets/images/laugenbrezeln-(german-lye-pretzels).jpg){ loading=lazy }
+![Laugenbrezeln (German Lye Pretzels)](../../assets/images/laugenbrezeln-(german-lye-pretzels).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -183,4 +183,4 @@ minutes.
 
 - Cook's Illustrated
 
-[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.jpg>
+[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.webp>

@@ -7,12 +7,12 @@ tags:
   - dessert
   - cupcake-jemma
   - macaron
-hero: assets/images/french-macarons.jpg
+hero: assets/images/french-macarons.webp
 ---
 
 # :cookie: French Macarons
 
-![French Macarons](../assets/images/french-macarons.jpg){ loading=lazy }
+![French Macarons](../assets/images/french-macarons.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - lunch
   - sandwich
-hero: assets/images/cucumber-sandwich.jpg
+hero: assets/images/cucumber-sandwich.webp
 ---
 
 # :sandwich: Cucumber Sandwich
 
-![Cucumber Sandwich](../assets/images/cucumber-sandwich.jpg){ loading=lazy }
+![Cucumber Sandwich](../assets/images/cucumber-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

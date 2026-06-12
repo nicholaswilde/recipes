@@ -5,12 +5,12 @@ tags:
   - breakfast
   - vegan
   - pancake
-hero: assets/images/vegan-banana-pancakes.jpg
+hero: assets/images/vegan-banana-pancakes.webp
 ---
 
 # :pancakes: Vegan Banana Pancakes
 
-![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.jpg){ loading=lazy }
+![Vegan Banana Pancakes](../assets/images/vegan-banana-pancakes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

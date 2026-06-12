@@ -5,12 +5,12 @@ tags:
   - cake
   - dominique-ansel
   - dessert
-hero: assets/images/the-perfect-chocolate-cake.jpg
+hero: assets/images/the-perfect-chocolate-cake.webp
 ---
 
 # :cake: The Perfect Chocolate Cake
 
-![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg){ loading=lazy }
+![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

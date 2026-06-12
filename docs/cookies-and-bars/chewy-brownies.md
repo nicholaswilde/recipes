@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - recipe-box
-hero: assets/images/chewy-brownies.jpg
+hero: assets/images/chewy-brownies.webp
 ---
 
 # :chocolate_bar: Chewy Brownies
 
-![Chewy Brownies](../assets/images/chewy-brownies.jpg){ loading=lazy }
+![Chewy Brownies](../assets/images/chewy-brownies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

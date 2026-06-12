@@ -64,4 +64,4 @@ Divide among serving dishes and top with more Parmesan and chile crisp if you'd 
 
 - <https://cooking.nytimes.com/recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach>
 
-[1]: <../assets/images/chile-crisp-fettuccine-alfredo-with-spinach.jpg>
+[1]: <../assets/images/chile-crisp-fettuccine-alfredo-with-spinach.webp>

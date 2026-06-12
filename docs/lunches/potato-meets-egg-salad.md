@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - sandwich
-hero: assets/images/potato-meets-egg-salad.jpg
+hero: assets/images/potato-meets-egg-salad.webp
 ---
 
 # :sandwich: Potato Meets Egg Salad
@@ -68,4 +68,4 @@ Serve, or refrigerate for 2–3 days.
 
 - <https://nutritionstudies.org/recipes/main-dish/potato-meets-egg-salad/>
 
-[1]: <../assets/images/potato-meets-egg-salad.jpg>
+[1]: <../assets/images/potato-meets-egg-salad.webp>

@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/the-best-vegan-burger.jpg
+hero: assets/images/the-best-vegan-burger.webp
 ---
 # The Best Vegan Burger
 
@@ -69,6 +69,6 @@ with a fresh green salad.
 
 - <https://www.jamieoliver.com/recipes/vegetables-recipes/the-best-vegan-burger/>
 
-[1]: <../assets/images/the-best-vegan-burger.jpg>
+[1]: <../assets/images/the-best-vegan-burger.webp>
 [2]: <../ingredients/chickpeas.md>
 

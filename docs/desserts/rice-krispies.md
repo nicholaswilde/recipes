@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/rice-krispies.jpg
+hero: assets/images/rice-krispies.webp
 ---
 
 # :bowl_with_spoon: Rice Krispies
 
-![Rice Krispies](../assets/images/rice-krispies.jpg){ loading=lazy }
+![Rice Krispies](../assets/images/rice-krispies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

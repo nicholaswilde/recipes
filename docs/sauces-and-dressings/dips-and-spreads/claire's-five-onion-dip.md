@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dip
-hero: assets/images/claire's-five-onion-dip.jpg
+hero: assets/images/claire's-five-onion-dip.webp
 ---
 
 # :onion: Claire's Five-Onion Dip
 
-![Claire's Five-Onion Dip](../../assets/images/claire's-five-onion-dip.jpg){ loading=lazy }
+![Claire's Five-Onion Dip](../../assets/images/claire's-five-onion-dip.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

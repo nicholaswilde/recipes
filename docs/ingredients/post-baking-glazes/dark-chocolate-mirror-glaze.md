@@ -5,12 +5,12 @@ tags:
   - glaze
   - ingredient
   - dominique-ansel
-hero: assets/images/dark-chocolate-mirror-glaze.jpg
+hero: assets/images/dark-chocolate-mirror-glaze.webp
 ---
 
 # :chocolate_bar: Dark Chocolate Mirror Glaze
 
-![Dark Chocolate Mirror Glaze](../../assets/images/dark-chocolate-mirror-glaze.jpg){ loading=lazy }
+![Dark Chocolate Mirror Glaze](../../assets/images/dark-chocolate-mirror-glaze.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

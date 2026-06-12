@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/joel-robuchons-mashed-potatoes.jpg
+hero: assets/images/joel-robuchons-mashed-potatoes.webp
 ---
 
 # :potato: Joel Robuchon's Mashed Potatoes
@@ -63,4 +63,4 @@ For an even lighter, finer purée, put it through a very fine sieve before servi
 
 - <https://www.theguardian.com/lifeandstyle/2018/aug/06/joel-robuchons-best-mashed-potatoes-in-the-world-recipe>
 
-[1]: <../../assets/images/joel-robuchons-mashed-potatoes.jpg>
+[1]: <../../assets/images/joel-robuchons-mashed-potatoes.webp>

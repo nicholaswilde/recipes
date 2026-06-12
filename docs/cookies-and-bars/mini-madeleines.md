@@ -6,12 +6,12 @@ tags:
   - dessert
   - french
   - dominique-ansel
-hero: assets/images/mini-madeleines.jpg
+hero: assets/images/mini-madeleines.webp
 ---
 
 # :shell: Mini Madeleines
 
-![Mini Madeleines](../assets/images/mini-madeleines.jpg){ loading=lazy }
+![Mini Madeleines](../assets/images/mini-madeleines.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/special-sauce-for-burgers.jpg
+hero: assets/images/special-sauce-for-burgers.webp
 ---
 
 # :hamburger: Special Sauce for Burgers
 
-![Special Sauce for Burgers](../../assets/images/special-sauce-for-burgers.jpg){ loading=lazy }
+![Special Sauce for Burgers](../../assets/images/special-sauce-for-burgers.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

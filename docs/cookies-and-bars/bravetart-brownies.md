@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/bravetart-brownies.jpg
+hero: assets/images/bravetart-brownies.webp
 ---
 # BraveTart Brownies
 
@@ -89,5 +89,5 @@ days at room temperature.
 
 - <https://www.seriouseats.com/bravetart-glossy-fudge-brownies>
 
-[1]: <../assets/images/bravetart-brownies.jpg>
+[1]: <../assets/images/bravetart-brownies.webp>
 

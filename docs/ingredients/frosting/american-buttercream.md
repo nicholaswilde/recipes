@@ -6,12 +6,12 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
-hero: assets/images/american-buttercream.jpg
+hero: assets/images/american-buttercream.webp
 ---
 
 # :cake: American Buttercream
 
-![American Buttercream](../../assets/images/american-buttercream.jpg){ loading=lazy }
+![American Buttercream](../../assets/images/american-buttercream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

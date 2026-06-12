@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/peanut-butter-bites.jpg
+hero: assets/images/peanut-butter-bites.webp
 ---
 
 # Peanut Butter Bites
 
-![Peanut Butter Bites](../../assets/images/peanut-butter-bites.jpg){ loading=lazy }
+![Peanut Butter Bites](../../assets/images/peanut-butter-bites.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

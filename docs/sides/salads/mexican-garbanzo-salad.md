@@ -4,12 +4,12 @@ tags:
 
   - mexican
   - salad
-hero: assets/images/mexican-garbanzo-salad.jpg
+hero: assets/images/mexican-garbanzo-salad.webp
 ---
 
 # :green_salad: Mexican Garbanzo Salad
 
-![Mexican Garbanzo Salad](../../assets/images/mexican-garbanzo-salad.jpg){ loading=lazy }
+![Mexican Garbanzo Salad](../../assets/images/mexican-garbanzo-salad.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

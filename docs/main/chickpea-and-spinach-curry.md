@@ -8,7 +8,7 @@ tags:
   - spinach
   - vegetarian
   - vegan
-hero: assets/images/chickpea-and-spinach-curry.jpg
+hero: assets/images/chickpea-and-spinach-curry.webp
 ---
 
 # :curry: Chickpea and Spinach Curry
@@ -76,4 +76,4 @@ Serve with some piping hot basmati rice.
 
 - <https://chetnamakan.co.uk/chickpea-and-spinach-curry/>
 
-[1]: <../assets/images/chickpea-and-spinach-curry.jpg>
+[1]: <../assets/images/chickpea-and-spinach-curry.webp>

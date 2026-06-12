@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - stew
-hero: assets/images/eggplant-stew.jpg
+hero: assets/images/eggplant-stew.webp
 ---
 
 # :eggplant: Eggplant Stew
 
-![Eggplant Stew](../assets/images/eggplant-stew.jpg){ loading=lazy }
+![Eggplant Stew](../assets/images/eggplant-stew.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

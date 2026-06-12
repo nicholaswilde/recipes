@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/spicy-vegan-mayo.jpg
+hero: assets/images/spicy-vegan-mayo.webp
 ---
 
 # :egg: Spicy Vegan Mayo
@@ -42,5 +42,5 @@ Taste and adjust the seasoning.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/spicy-vegan-mayo.jpg>
+[1]: <../../assets/images/spicy-vegan-mayo.webp>
 [2]: <../../sauces-and-dressings/salsas/salsa-negra.md>

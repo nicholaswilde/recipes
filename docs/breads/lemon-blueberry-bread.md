@@ -5,12 +5,12 @@ tags:
   - bread
   - quick-bread
   - recipe-box
-hero: assets/images/lemon-blueberry-bread.jpg
+hero: assets/images/lemon-blueberry-bread.webp
 ---
 
 # :lemon: Lemon Blueberry Bread
 
-![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.jpg){ loading=lazy }
+![Lemon Blueberry Bread](../assets/images/lemon-blueberry-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

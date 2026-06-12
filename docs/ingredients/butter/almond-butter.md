@@ -4,7 +4,7 @@ tags:
 
   - butter
   - ingredient
-hero: assets/images/almond-butter.jpg
+hero: assets/images/almond-butter.webp
 ---
 
 # :butter: Almond Butter
@@ -66,4 +66,4 @@ the refrigerator for up to 2 weeks, or until you see or smell any signs of spoil
 
 - <https://cookieandkate.com/homemade-almond-butter-recipe/>
 
-[1]: <../../assets/images/almond-butter.jpg>
+[1]: <../../assets/images/almond-butter.webp>

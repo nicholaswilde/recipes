@@ -5,12 +5,12 @@ tags:
   - frosting
   - ingredient
   - cupcake-jemma
-hero: assets/images/craquelin.jpg
+hero: assets/images/craquelin.webp
 ---
 
 # :cupcake: Craquelin
 
-![Craquelin](../../assets/images/craquelin.jpg){ loading=lazy }
+![Craquelin](../../assets/images/craquelin.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

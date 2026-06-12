@@ -4,12 +4,12 @@ tags:
 
   - recipe-box
   - chowder
-hero: assets/images/chipotle-corn-chowder.jpg
+hero: assets/images/chipotle-corn-chowder.webp
 ---
 
 # :corn: Chipotle Corn Chowder
 
-![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg){ loading=lazy }
+![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

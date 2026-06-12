@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/eggless-egg-salad.jpg
+hero: assets/images/eggless-egg-salad.webp
 ---
 
 # Eggless Egg Salad
 
-![Eggless Egg Salad](../../assets/images/eggless-egg-salad.jpg){ loading=lazy }
+![Eggless Egg Salad](../../assets/images/eggless-egg-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

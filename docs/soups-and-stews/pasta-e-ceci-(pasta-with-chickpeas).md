@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg
+hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).webp
 ---
 
 # :spaghetti: Pasta e Ceci (Pasta with Chickpeas)
 
-![Pasta e Ceci (Pasta with Chickpeas)](../assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg){ loading=lazy }
+![Pasta e Ceci (Pasta with Chickpeas)](../assets/images/pasta-e-ceci-(pasta-with-chickpeas).webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

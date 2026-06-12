@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/vegan-tourtiere.jpg
+hero: assets/images/vegan-tourtiere.webp
 ---
 # Vegan Tourtiere
 
@@ -108,7 +108,7 @@ Let pie rest for at least 10 minutes before slicing to allow filling to set.
 
 - <https://itdoesnttastelikechicken.com/vegan-tourtiere-vegan-meat-pie/>
 
-[1]: <../assets/images/vegan-tourtiere.jpg>
+[1]: <../assets/images/vegan-tourtiere.webp>
 [2]: <../ingredients/soy-sauce.md>
 [3]: <../ingredients/vegetable-broth.md>
 [4]: <../ingredients/pastry-dough/basic-pastry.md>

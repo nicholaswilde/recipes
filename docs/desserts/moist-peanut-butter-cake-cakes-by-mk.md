@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - bake-off
-hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg
+hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.webp
 ---
 # Moist Peanut Butter Cake
 
@@ -97,4 +97,4 @@ should become incredibly silky, light, and fluffy.
 
 - [Bake-Off: The Best Peanut Butter Cakes](https://www.thepancakeprincess.com/the-peanut-butter-cake-bake-off/)
 
-[1]: <../assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg>
+[1]: <../assets/images/moist-peanut-butter-cake-cakes-by-mk.webp>

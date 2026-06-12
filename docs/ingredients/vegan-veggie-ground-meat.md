@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - vegan
-hero: assets/images/vegan-veggie-ground-meat.jpg
+hero: assets/images/vegan-veggie-ground-meat.webp
 ---
 
 # :leafy_green: Vegan Veggie Ground Meat
@@ -72,4 +72,4 @@ Add to your dish of choice. Enjoy!
 
 - <https://www.youtube.com/watch?v=lDuy_NqW_mQ>
 
-[1]: <../assets/images/vegan-veggie-ground-meat.jpg>
+[1]: <../assets/images/vegan-veggie-ground-meat.webp>

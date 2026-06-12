@@ -5,7 +5,7 @@ tags:
   - hot-chocolate
   - jacques-torres
   - forbes
-hero: assets/images/thick-hot-chocolate.jpg
+hero: assets/images/thick-hot-chocolate.webp
 ---
 # :coffee: Thick Hot Chocolate
 
@@ -53,4 +53,4 @@ To serve, divide the hot chocolate among four mugs or glasses, then garnish each
 
 - <https://www.forbes.com/sites/amberlovebond/2025/01/23/how-to-make-the-perfect-hot-chocolate-according-to-a-master-chocolatier/>
 
-[1]: <../assets/images/thick-hot-chocolate.jpg>
+[1]: <../assets/images/thick-hot-chocolate.webp>

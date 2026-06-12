@@ -5,7 +5,7 @@ tags:
   - vegetarian
   - slow-cooker
   - new-recipe
-hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg
+hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp
 ---
 
 # :curry: Creamy Spiced Red Lentil & Cauliflower Dal
@@ -61,4 +61,4 @@ Stir in fresh cilantro and lime juice right before serving.
 
 - [GitHub Issue #1340](https://github.com/nicholaswilde/recipes/issues/1340)
 
-[1]: <../assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg>
+[1]: <../assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp>

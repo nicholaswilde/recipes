@@ -4,7 +4,7 @@ tags:
 
   - bread
   - side
-hero: assets/images/garlic-knots.jpg
+hero: assets/images/garlic-knots.webp
 ---
 
 # :bread: Garlic Knots
@@ -101,4 +101,4 @@ Serve warm.
 
 - <https://sugarspunrun.com/homemade-garlic-knots-recipe/>
 
-[1]: <../assets/images/garlic-knots.jpg>
+[1]: <../assets/images/garlic-knots.webp>

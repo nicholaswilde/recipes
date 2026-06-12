@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/guinness-chocolate-cake.jpg
+hero: assets/images/guinness-chocolate-cake.webp
 ---
 # Guinness Chocolate Cake
 
@@ -97,4 +97,4 @@ Place one cake layer on a stand, cover with frosting, top with the second layer,
 
 - [Bake-Off: The Best Guinness Chocolate Cakes](https://www.thepancakeprincess.com/the-guinness-chocolate-cake-bake-off/)
 
-[1]: <../../assets/images/guinness-chocolate-cake.jpg>
+[1]: <../../assets/images/guinness-chocolate-cake.webp>

@@ -4,12 +4,12 @@ tags:
 
   - joy-of-cooking
   - ingredient
-hero: assets/images/crumb-crust.jpg
+hero: assets/images/crumb-crust.webp
 ---
 
 # :pie: Crumb Crust
 
-![Crumb Crust](../assets/images/crumb-crust.jpg){ loading=lazy }
+![Crumb Crust](../assets/images/crumb-crust.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

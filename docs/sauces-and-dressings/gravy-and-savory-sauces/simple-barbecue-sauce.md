@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/simple-barbecue-sauce.jpg
+hero: assets/images/simple-barbecue-sauce.webp
 ---
 
 # :hotsprings: Simple Barbecue Sauce
 
-![Simple Barbecue Sauce](../../assets/images/simple-barbecue-sauce.jpg){ loading=lazy }
+![Simple Barbecue Sauce](../../assets/images/simple-barbecue-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

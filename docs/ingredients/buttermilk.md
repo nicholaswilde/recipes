@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - king-arthur
-hero: assets/images/buttermilk.jpg
+hero: assets/images/buttermilk.webp
 ---
 
 # :glass_of_milk: Buttermilk
 
-![Buttermilk](../assets/images/buttermilk.jpg){ loading=lazy }
+![Buttermilk](../assets/images/buttermilk.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

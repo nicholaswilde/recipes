@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - the-gracias-madre-cookbook
-hero: assets/images/cilantro-almond-pesto.jpg
+hero: assets/images/cilantro-almond-pesto.webp
 ---
 
 # :herb: Cilantro Almond Pesto
 
-![Cilantro Almond Pesto](../../../assets/images/cilantro-almond-pesto.jpg){ loading=lazy }
+![Cilantro Almond Pesto](../../../assets/images/cilantro-almond-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

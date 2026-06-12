@@ -5,12 +5,12 @@ tags:
   - pasta
   - italian
   - recipe-box
-hero: assets/images/caprese-risoni.jpg
+hero: assets/images/caprese-risoni.webp
 ---
 
 # :spaghetti: Caprese Risoni
 
-![Caprese Risoni](../assets/images/caprese-risoni.jpg){ loading=lazy }
+![Caprese Risoni](../assets/images/caprese-risoni.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

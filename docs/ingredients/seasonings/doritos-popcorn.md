@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/doritos-popcorn.jpg
+hero: assets/images/doritos-popcorn.webp
 ---
 
 # :popcorn: Doritos Popcorn
@@ -46,4 +46,4 @@ Blend seasonings in a spice or coffee grinder, or blend in blender to make a fin
 
 - <https://wholenewmom.com/dorito-flavored-popcorn-dairy-free/#recipe>
 
-[1]: <../../assets/images/doritos-popcorn.jpg>
+[1]: <../../assets/images/doritos-popcorn.webp>

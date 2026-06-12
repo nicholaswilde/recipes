@@ -5,7 +5,7 @@ tags:
   - frosting
   - ingredient
   - claire-saffitz
-hero: assets/images/brown-butter-cream-cheese-frosting.jpg
+hero: assets/images/brown-butter-cream-cheese-frosting.webp
 ---
 
 # :cake: Brown Butter Cream Cheese Frosting
@@ -81,4 +81,4 @@ Beat mixture until combined.
 
 - <https://youtu.be/ou3zj0R0Gus?si=eDPRcbSBk_GqIZLk&t=706>
 
-[1]: <../../assets/images/brown-butter-cream-cheese-frosting.jpg>
+[1]: <../../assets/images/brown-butter-cream-cheese-frosting.webp>

@@ -5,12 +5,12 @@ tags:
   - beverage
   - joy-of-cooking
   - holiday
-hero: assets/images/cooked-eggnog.jpg
+hero: assets/images/cooked-eggnog.webp
 ---
 
 # :egg: Cooked Eggnog
 
-![Cooked Eggnog](../assets/images/cooked-eggnog.jpg){ loading=lazy }
+![Cooked Eggnog](../assets/images/cooked-eggnog.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

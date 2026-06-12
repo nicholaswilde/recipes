@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/hummingbird-cake.jpg
+hero: assets/images/hummingbird-cake.webp
 ---
 
 # :cake: Hummingbird Cake
@@ -168,5 +168,5 @@ Cover leftover frosted cake tightly and store in the refrigerator for up to 5 da
 
 - <https://sallysbakingaddiction.com/hummingbird-cake/>
 
-[1]: <../../assets/images/hummingbird-cake.jpg>
+[1]: <../../assets/images/hummingbird-cake.webp>
 [2]: <../../ingredients/frosting/brown-butter-cream-cheese-frosting.md>

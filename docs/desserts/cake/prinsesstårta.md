@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/prinsesstårta.jpg
+hero: assets/images/prinsesstårta.webp
 ---
 
 # :cake: Prinsesstårta (Swedish Princess Cake)
 
-![Prinsesstårta](../../assets/images/prinsesstårta.jpg){ loading=lazy }
+![Prinsesstårta](../../assets/images/prinsesstårta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

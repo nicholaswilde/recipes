@@ -4,12 +4,12 @@ tags:
 
   - main
   - the-blue-zones-kitchen
-hero: assets/images/cabbage-and-sun-dried-tomato-sauté.jpg
+hero: assets/images/cabbage-and-sun-dried-tomato-sauté.webp
 ---
 
 # :leafy_green: Cabbage & Sun-dried Tomato Sauté
 
-![Cabbage and Sun-dried Tomato Sauté](../assets/images/cabbage-and-sun-dried-tomato-sauté.jpg){ loading=lazy }
+![Cabbage and Sun-dried Tomato Sauté](../assets/images/cabbage-and-sun-dried-tomato-sauté.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/ginger-cubes.jpg
+hero: assets/images/ginger-cubes.webp
 ---
 
 # :ice_cube: Ginger Cubes
@@ -49,4 +49,4 @@ Take them out and place in zip look bags and grab on every evening together with
 
 - Applied Lisa
 
-[1]: <../assets/images/ginger-cubes.jpg>
+[1]: <../assets/images/ginger-cubes.webp>

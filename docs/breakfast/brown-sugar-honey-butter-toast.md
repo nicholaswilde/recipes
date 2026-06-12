@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - cupcake-jemma
-hero: assets/images/brown-sugar-honey-butter-toast.jpg
+hero: assets/images/brown-sugar-honey-butter-toast.webp
 ---
 
 # :waffle: Brown Sugar Honey Butter Toast
@@ -60,5 +60,5 @@ Bake the bread on a sheet pan lined with parchment for 16 to 18 minutes, flippin
 
 - <https://www.youtube.com/watch?v=jVTRLQJQAxo>
 
-[1]: <../assets/images/brown-sugar-honey-butter-toast.jpg>
+[1]: <../assets/images/brown-sugar-honey-butter-toast.webp>
 [2]: <../breads/japanese-milk-bread.md>

@@ -5,12 +5,12 @@ tags:
   - mediterranean
   - recipe-box
   - favorite
-hero: assets/images/jeanie's-falafel.jpg
+hero: assets/images/jeanie's-falafel.webp
 ---
 
 # :falafel: Jeanie's Falafel
 
-![Jeanie's Falafel](../assets/images/jeanie's-falafel.jpg){ loading=lazy }
+![Jeanie's Falafel](../assets/images/jeanie's-falafel.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

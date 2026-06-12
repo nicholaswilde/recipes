@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/jackfruit-curry.jpg
+hero: assets/images/jackfruit-curry.webp
 ---
 # Jackfruit Curry
 
@@ -72,5 +72,5 @@ Keep in an airtight container in the fridge for 4 to 5 days and reheat before se
 
 - Healthy Indian Vegetarian
 
-[1]: <../assets/images/jackfruit-curry.jpg>
+[1]: <../assets/images/jackfruit-curry.webp>
 

@@ -5,12 +5,12 @@ tags:
   - soup
   - french
   - cooks-illustrated
-hero: assets/images/french-onion-soup.jpg
+hero: assets/images/french-onion-soup.webp
 ---
 
 # :onion: French Onion Soup
 
-![French Onion Soup](../assets/images/french-onion-soup.jpg){ loading=lazy }
+![French Onion Soup](../assets/images/french-onion-soup.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

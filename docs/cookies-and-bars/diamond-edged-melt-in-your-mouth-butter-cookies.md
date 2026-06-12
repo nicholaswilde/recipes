@@ -5,7 +5,7 @@ tags:
   - cookie
   - bakewise
   - dessert
-hero: assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.jpg
+hero: assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.webp
 ---
 
 # :cookie: Diamond-Edged Melt-in-Your-Mouth Butter Cookies
@@ -74,4 +74,4 @@ minutes. Allow to cool on the sheet for 2 minutes, and then remove to a cooling 
 
 - BakeWise
 
-[1]: <../assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.jpg>
+[1]: <../assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.webp>

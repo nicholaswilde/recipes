@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg
+hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp
 ---
 # Lentil Mushroom Stew over Mashed Potatoes
 
@@ -86,7 +86,7 @@ stovetop or in a 350°F (176°C) oven until hot.
 
 - <https://minimalistbaker.com/lentil-mushroom-stew-over-mashed-potatoes/>
 
-[1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg>
+[1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/vegan-parmesan.md>
 

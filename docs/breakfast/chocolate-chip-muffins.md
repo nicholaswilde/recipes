@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - bake-off
-hero: assets/images/chocolate-chip-muffins.jpg
+hero: assets/images/chocolate-chip-muffins.webp
 ---
 
 # :cupcake: Chocolate Chip Muffins
@@ -112,4 +112,4 @@ Let the muffins cool for another 10 to 15 minutes. They’re best served warm so
 - <https://butternutbakeryblog.com/best-chocolate-chip-muffins/>
 - <https://www.thepancakeprincess.com/best-chocolate-chip-muffin-bake-off/>
 
-[1]: <../assets/images/chocolate-chip-muffins.jpg>
+[1]: <../assets/images/chocolate-chip-muffins.webp>

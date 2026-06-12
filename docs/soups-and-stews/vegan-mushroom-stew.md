@@ -5,7 +5,7 @@ tags:
   - soup
   - stew
   - costco
-hero: assets/images/vegan-mushroom-stew.jpg
+hero: assets/images/vegan-mushroom-stew.webp
 ---
 
 # :mushroom: Vegan Mushroom Stew
@@ -90,4 +90,4 @@ Tip: Serve with mashed potatoes and bread.
 
 - Costco Connection
 
-[1]: <../assets/images/vegan-mushroom-stew.jpg>
+[1]: <../assets/images/vegan-mushroom-stew.webp>

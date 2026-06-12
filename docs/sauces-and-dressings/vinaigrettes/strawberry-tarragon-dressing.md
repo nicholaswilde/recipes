@@ -4,7 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
-hero: assets/images/strawberry-tarragon-dressing.jpg
+hero: assets/images/strawberry-tarragon-dressing.webp
 ---
 
 # :strawberry: Strawberry Tarragon Dressing
@@ -40,4 +40,4 @@ until smooth and creamy, stopping once or twice to scrape down the sides.
 
 - <https://nutritionstudies.org/recipes/salad-dressing/strawberry-tarragon-salad-dressing/>
 
-[1]: <../../assets/images/strawberry-tarragon-dressing.jpg>
+[1]: <../../assets/images/strawberry-tarragon-dressing.webp>

@@ -4,12 +4,12 @@ tags:
 
   - caramel
   - ingredient
-hero: assets/images/dry-caramel.jpg
+hero: assets/images/dry-caramel.webp
 ---
 
 # :candy: Dry Caramel
 
-![Dry Caramel](../../assets/images/dry-caramel.jpg){ loading=lazy }
+![Dry Caramel](../../assets/images/dry-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

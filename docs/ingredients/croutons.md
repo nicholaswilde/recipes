@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/croutons.jpg
+hero: assets/images/croutons.webp
 ---
 
 # :baguette_bread: Croutons
 
-![Croutons](../assets/images/croutons.jpg){ loading=lazy }
+![Croutons](../assets/images/croutons.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

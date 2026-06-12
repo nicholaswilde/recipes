@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/the-best-sugar-cookies.jpg
+hero: assets/images/the-best-sugar-cookies.webp
 ---
 
 # :cookie: The Best Sugar Cookies
 
-![The Best Sugar Cookies](../assets/images/the-best-sugar-cookies.jpg){ loading=lazy }
+![The Best Sugar Cookies](../assets/images/the-best-sugar-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

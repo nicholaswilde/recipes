@@ -5,7 +5,7 @@ tags:
   - dessert
   - tart
   - the-new-york-times
-hero: assets/images/plum-torte.jpg
+hero: assets/images/plum-torte.webp
 ---
 
 # :purple_circle: Plum Torte
@@ -70,5 +70,5 @@ or with [whipped cream][2] (optional).
 - <https://cooking.nytimes.com/recipes/3783-original-plum-torte>
 - <https://youtu.be/W1qpZWkrQMA?si=acxgEX5gTpZ0N7s1>
 
-[1]: <../../assets/images/plum-torte.jpg>
+[1]: <../../assets/images/plum-torte.webp>
 [2]: <../../ingredients/sweetened-whipped-cream.md>

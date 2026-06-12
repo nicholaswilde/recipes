@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/montélimar-nougat.jpg
+hero: assets/images/montélimar-nougat.webp
 ---
 
 # :candy: Montélimar Nougat
 
-![Montélimar Nougat](../assets/images/montélimar-nougat.jpg){ loading=lazy }
+![Montélimar Nougat](../assets/images/montélimar-nougat.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

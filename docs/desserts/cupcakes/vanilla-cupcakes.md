@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cupcake
-hero: assets/images/vanilla-cupcakes.jpg
+hero: assets/images/vanilla-cupcakes.webp
 ---
 
 # :cupcake: Vanilla Cupcakes
 
-![Vanilla Cupcakes](../../assets/images/vanilla-cupcakes.jpg){ loading=lazy }
+![Vanilla Cupcakes](../../assets/images/vanilla-cupcakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

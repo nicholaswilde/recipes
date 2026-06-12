@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/cornish-pasty.jpg
+hero: assets/images/cornish-pasty.webp
 ---
 # Cornish Pasty
 
@@ -92,5 +92,5 @@ hot.
 
 - <https://aveganvisit.com/home/a-proper-vegan-cornish-pasty/>
 
-[1]: <../assets/images/cornish-pasty.jpg>
+[1]: <../assets/images/cornish-pasty.webp>
 

@@ -5,7 +5,7 @@ tags:
   - cookie
   - claire-saffitz
   - dessert
-hero: assets/images/oatmeal-cookies.jpg
+hero: assets/images/oatmeal-cookies.webp
 ---
 
 # :ear_of_rice: Oatmeal Cookies
@@ -94,5 +94,5 @@ Move to a cooling rack to let the cookies completely cool.
 
 - <https://www.youtube.com/watch?v=gGBC4-CsXOM>
 
-[1]: <../assets/images/oatmeal-cookies.jpg>
+[1]: <../assets/images/oatmeal-cookies.webp>
 [2]: <../desserts/pecan-brittle.md>

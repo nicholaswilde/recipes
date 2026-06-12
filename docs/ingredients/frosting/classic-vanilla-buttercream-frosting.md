@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - frosting
-hero: assets/images/classic-vanilla-buttercream-frosting.jpg
+hero: assets/images/classic-vanilla-buttercream-frosting.webp
 ---
 
 # :cake: Classic Vanilla Buttercream Frosting
 
-![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.jpg){ loading=lazy }
+![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - sandwich bread
   - white bread
   - King Arthur Baking
-hero: assets/images/classic-white-sandwich-bread.jpg
+hero: assets/images/classic-white-sandwich-bread.webp
 ---
 # Classic White Sandwich Bread
 
@@ -61,4 +61,4 @@ Remove from the oven and turn out onto a rack to cool. Wrap in plastic and store
 
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/king-arthurs-classic-white-sandwich-bread-recipe)
 
-[1]: <../assets/images/classic-white-sandwich-bread.jpg>
+[1]: <../assets/images/classic-white-sandwich-bread.webp>

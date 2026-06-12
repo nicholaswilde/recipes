@@ -4,12 +4,12 @@ tags:
 
   - side
   - gordon-ramsay
-hero: assets/images/cheese-soufflé.jpg
+hero: assets/images/cheese-soufflé.webp
 ---
 
 # :cheese_wedge: Cheese Soufflé
 
-![Cheese Soufflé](../../assets/images/cheese-soufflé.jpg){ loading=lazy }
+![Cheese Soufflé](../../assets/images/cheese-soufflé.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:------------------------:|

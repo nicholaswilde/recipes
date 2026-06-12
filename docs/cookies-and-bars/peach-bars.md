@@ -5,7 +5,7 @@ tags:
   - bar
   - dessert
   - claire-saffitz
-hero: assets/images/peach-bars.jpg
+hero: assets/images/peach-bars.webp
 ---
 
 # :peach: Peach Bars
@@ -142,4 +142,4 @@ refrigerator for up to 1 week.
 - <https://www.youtube.com/watch?v=T1YQBxY-bv4>
 
 [1]: <../ingredients/pastry-dough/deluxe-butter-pastry.md>
-[2]: <../assets/images/peach-bars.jpg>
+[2]: <../assets/images/peach-bars.webp>

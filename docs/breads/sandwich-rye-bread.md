@@ -2,7 +2,7 @@
 comments: true
 tags:
   - bread
-hero: assets/images/sandwich-rye-bread.jpg
+hero: assets/images/sandwich-rye-bread.webp
 ---
 
 # :bread: Sandwich Rye Bread
@@ -79,4 +79,4 @@ Remove the bread from the oven and turn it out of the pan onto a **wire rack** t
 
 - <https://www.kingarthurbaking.com/recipes/sandwich-rye-bread-recipe>
 
-[1]: <../assets/images/sandwich-rye-bread.jpg>
+[1]: <../assets/images/sandwich-rye-bread.webp>

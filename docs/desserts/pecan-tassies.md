@@ -6,7 +6,7 @@ tags:
   - cookie
   - southern-living
   - holiday
-hero: assets/images/pecan-tassies.jpg
+hero: assets/images/pecan-tassies.webp
 ---
 # :chestnut: Pecan Tassies
 
@@ -94,4 +94,4 @@ from pan to cool completely.
 - <https://www.southernliving.com/pecan-tassies-review-11805752>
 - <https://www.southernliving.com/pecan-tassies-7560279>
 
-[1]: <../assets/images/pecan-tassies.jpg>
+[1]: <../assets/images/pecan-tassies.webp>

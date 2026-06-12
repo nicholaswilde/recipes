@@ -4,12 +4,12 @@ tags:
 
   - indonesian
   - tante-myrna-seccia
-hero: assets/images/nasi-goreng.jpg
+hero: assets/images/nasi-goreng.webp
 ---
 
 # :rice: Nasi Goreng
 
-![Nasi Goreng](../assets/images/nasi-goreng.jpg){ loading=lazy }
+![Nasi Goreng](../assets/images/nasi-goreng.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

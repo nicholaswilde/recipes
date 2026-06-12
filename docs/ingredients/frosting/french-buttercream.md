@@ -6,12 +6,12 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
-hero: assets/images/french-buttercream.jpg
+hero: assets/images/french-buttercream.webp
 ---
 
 # :butter: French Buttercream
 
-![French Buttercream](../../assets/images/french-buttercream.jpg){ loading=lazy }
+![French Buttercream](../../assets/images/french-buttercream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

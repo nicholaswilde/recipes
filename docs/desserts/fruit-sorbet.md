@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/fruit-sorbet.jpg
+hero: assets/images/fruit-sorbet.webp
 ---
 
 # :strawberry: Fruit Sorbet
@@ -73,4 +73,4 @@ Make the sorbet the same way as making ice cream using a food processor.
 
 - <https://www.youtube.com/watch?v=2rcf0MzBjy0>
 
-[1]: <../assets/images/fruit-sorbet.jpg>
+[1]: <../assets/images/fruit-sorbet.webp>

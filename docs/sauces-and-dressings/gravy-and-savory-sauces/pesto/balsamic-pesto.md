@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/balsamic-pesto.jpg
+hero: assets/images/balsamic-pesto.webp
 ---
 
 # :herb: Balsamic Pesto
 
-![Balsamic Pesto](../../../assets/images/balsamic-pesto.jpg){ loading=lazy }
+![Balsamic Pesto](../../../assets/images/balsamic-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

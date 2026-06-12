@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/buffalo-baked-baby-carrots.jpg
+hero: assets/images/buffalo-baked-baby-carrots.webp
 ---
 
 # :carrot: Buffalo-Baked Baby Carrots
@@ -60,6 +60,6 @@ your dip of choice.
 
 - Cal-Organic Farms
 
-[1]: <../../assets/images/buffalo-baked-baby-carrots.jpg>
+[1]: <../../assets/images/buffalo-baked-baby-carrots.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/buffalo-sauce.md>
 [3]: <../../ingredients/breadcrumbs.md>

@@ -4,7 +4,7 @@ tags:
   - ingredient
   - southern-living
   - feast-and-farm
-hero: assets/images/self-rising-cornmeal.jpg
+hero: assets/images/self-rising-cornmeal.webp
 ---
 # Self-Rising Cornmeal
 
@@ -39,4 +39,4 @@ Use according to whatever recipe you are following.
 
 - <https://feastandfarm.com/how-to-make-self-rising-cornmeal/>
 
-[1]: <../assets/images/self-rising-cornmeal.jpg>
+[1]: <../assets/images/self-rising-cornmeal.webp>

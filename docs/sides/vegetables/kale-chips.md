@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/kale-chips.jpg
+hero: assets/images/kale-chips.webp
 ---
 
 # :leafy_green: Kale Chips
 
-![Kale Chips](../../assets/images/kale-chips.jpg){ loading=lazy }
+![Kale Chips](../../assets/images/kale-chips.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

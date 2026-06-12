@@ -5,7 +5,7 @@ tags:
   - bread
   - kenji-lopez-alt
   - bake-off
-hero: assets/images/buttermilk-biscuits.jpg
+hero: assets/images/buttermilk-biscuits.webp
 ---
 
 # :cookie: Buttermilk Biscuits
@@ -83,4 +83,4 @@ rotating the pan halfway through. Allow to cool for 5 minutes and serve.
 - <https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe>
 - <https://www.thepancakeprincess.com/best-biscuit-bake-off/>
 
-[1]: <../assets/images/buttermilk-biscuits.jpg>
+[1]: <../assets/images/buttermilk-biscuits.webp>

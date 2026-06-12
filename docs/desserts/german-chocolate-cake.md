@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/german-chocolate-cake.jpg
+hero: assets/images/german-chocolate-cake.webp
 ---
 # German Chocolate Cake
 
@@ -107,5 +107,5 @@ the second cake layer. Cover the entire cake with chocolate frosting and spoon t
 
 - <https://tastesbetterfromscratch.com/german-chocolate-cake/>
 
-[1]: <../assets/images/german-chocolate-cake.jpg>
+[1]: <../assets/images/german-chocolate-cake.webp>
 [2]: <../ingredients/evaporated-milk.md>

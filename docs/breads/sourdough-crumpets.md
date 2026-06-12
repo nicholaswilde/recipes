@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-crumpets.jpg
+hero: assets/images/sourdough-crumpets.webp
 ---
 
 # :bread: Sourdough Crumpets
@@ -57,5 +57,5 @@ Store any leftovers at room temperature for several days. Freeze, well wrapped, 
 - <https://www.kingarthurbaking.com/recipes/sourdough-crumpets-recipe>
 - <https://youtube.com/watch?v=MhHGfafYmJs>
 
-[1]: <../assets/images/sourdough-crumpets.jpg>
+[1]: <../assets/images/sourdough-crumpets.webp>
 [2]: <../ingredients/sourdough-starter.md>

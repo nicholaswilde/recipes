@@ -5,12 +5,12 @@ tags:
   - condiment
   - sauce
   - dip
-hero: assets/images/hummus.jpg
+hero: assets/images/hummus.webp
 ---
 
 # :falafel: Hummus
 
-![Hummus](../../assets/images/hummus.jpg){ loading=lazy }
+![Hummus](../../assets/images/hummus.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

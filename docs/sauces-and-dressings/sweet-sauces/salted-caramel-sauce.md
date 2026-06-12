@@ -5,7 +5,7 @@ tags:
   - sauce
   - whats-for-dessert
   - claire-saffitz
-hero: assets/images/salted-caramel-sauce.jpg
+hero: assets/images/salted-caramel-sauce.webp
 ---
 
 # :custard: Salted Caramel Sauce
@@ -77,4 +77,4 @@ occasionally, until it's warm but not hot. It will thicken as it cools.
 
 - What's For Dessert
 
-[1]: <../../assets/images/salted-caramel-sauce.jpg>
+[1]: <../../assets/images/salted-caramel-sauce.webp>

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - pastry-dough
-hero: assets/images/empanada-pastry.jpg
+hero: assets/images/empanada-pastry.webp
 ---
 
 # :dumpling: Empanada Pastry
 
-![Empanada Pastry](../../assets/images/empanada-pastry.jpg){ loading=lazy }
+![Empanada Pastry](../../assets/images/empanada-pastry.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

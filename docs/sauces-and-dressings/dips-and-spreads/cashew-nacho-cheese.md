@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/cashew-nacho-cheese.jpg
+hero: assets/images/cashew-nacho-cheese.webp
 ---
 
 # :cheese_wedge: Cashew Nacho Cheese
@@ -57,4 +57,4 @@ The mixture will keep in the fridge, covered, for 3 to 4 days.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cashew-nacho-cheese.jpg>
+[1]: <../../assets/images/cashew-nacho-cheese.webp>

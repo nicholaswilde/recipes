@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/edible-cookie-dough.jpg
+hero: assets/images/edible-cookie-dough.webp
 ---
 
 # :cookie: Edible Cookie Dough
 
-![Edible Cookie Dough](../assets/images/edible-cookie-dough.jpg){ loading=lazy }
+![Edible Cookie Dough](../assets/images/edible-cookie-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

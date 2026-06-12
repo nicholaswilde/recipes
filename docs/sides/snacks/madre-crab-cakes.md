@@ -5,7 +5,7 @@ tags:
   - side
   - the-gracias-madre-cookbook
   - vegan
-hero: assets/images/madre-crab-cakes.jpg
+hero: assets/images/madre-crab-cakes.webp
 ---
 
 # :crab: Madre Crab Cakes
@@ -75,4 +75,4 @@ the lemon wedges.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/madre-crab-cakes.jpg>
+[1]: <../../assets/images/madre-crab-cakes.webp>

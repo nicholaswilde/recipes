@@ -6,12 +6,12 @@ tags:
   - italian
   - forks-over-knives
   - vegan
-hero: assets/images/white-mac-and-cheese-sauce.jpg
+hero: assets/images/white-mac-and-cheese-sauce.webp
 ---
 
 # :spaghetti: White Mac & Cheese Sauce
 
-![White Mac and Cheese Sauce](../../assets/images/white-mac-and-cheese-sauce.jpg){ loading=lazy }
+![White Mac and Cheese Sauce](../../assets/images/white-mac-and-cheese-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

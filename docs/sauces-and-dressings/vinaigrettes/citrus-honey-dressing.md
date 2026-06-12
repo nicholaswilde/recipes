@@ -4,7 +4,7 @@ tags:
 
   - dressing
   - applied-kitchen
-hero: assets/images/citrus-honey-dressing.jpg
+hero: assets/images/citrus-honey-dressing.webp
 ---
 
 # :lemon: Citrus Honey Dressing
@@ -48,4 +48,4 @@ Pour the dressing over the fruit and toss evenly before serving.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/citrus-honey-dressing.jpg>
+[1]: <../../assets/images/citrus-honey-dressing.webp>

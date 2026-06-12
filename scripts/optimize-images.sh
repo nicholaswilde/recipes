@@ -111,7 +111,15 @@ for file in "${FILES_TO_PROCESS[@]}"; do
     output_webp="$base_no_ext.webp"
 
     echo "Converting $filename to WebP..."
-    cwebp -q 80 -metadata all "$file" -o "$output_webp"
+    if ! cwebp -q 80 -metadata all "$file" -o "$output_webp" 2>/dev/null; then
+      echo "  cwebp failed. Attempting fallback conversion using Python Pillow..."
+      if ! uv run python -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; im = Image.open('$file'); im.save('$output_webp', 'WEBP', quality=80)" 2>/dev/null; then
+        echo "  Warning: $filename is not a valid image or is completely corrupted. Skipping."
+        # Keep original size and skip deletion
+        TOTAL_NEW_SIZE=$((TOTAL_NEW_SIZE + orig_size))
+        continue
+      fi
+    fi
     
     new_size=$(wc -c < "$output_webp")
     TOTAL_NEW_SIZE=$((TOTAL_NEW_SIZE + new_size))
@@ -121,8 +129,11 @@ for file in "${FILES_TO_PROCESS[@]}"; do
 
   elif [ "$ext" = "png" ]; then
     echo "Optimizing PNG: $filename..."
-    # Make a copy to check size if oxipng doesn't print bytes cleanly, or measure before/after
-    oxipng -o 4 --strip safe "$file"
+    if ! oxipng -o 4 --strip safe "$file" 2>/dev/null; then
+      echo "  Warning: oxipng failed to optimize $filename. Skipping."
+      TOTAL_NEW_SIZE=$((TOTAL_NEW_SIZE + orig_size))
+      continue
+    fi
     
     new_size=$(wc -c < "$file")
     TOTAL_NEW_SIZE=$((TOTAL_NEW_SIZE + new_size))

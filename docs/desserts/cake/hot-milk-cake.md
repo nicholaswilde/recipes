@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - preppy-kitchen
-hero: assets/images/hot-milk-cake.jpg
+hero: assets/images/hot-milk-cake.webp
 ---
 
 # :cake: Hot Milk Cake
@@ -65,4 +65,4 @@ cool completely in the pan on a wire rack. Dust the cake with confectioners' sug
 
 - <https://preppykitchen.com/hot-milk-cake/>
 
-[1]: <../../assets/images/hot-milk-cake.jpg>
+[1]: <../../assets/images/hot-milk-cake.webp>

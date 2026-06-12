@@ -5,7 +5,7 @@ tags:
   - bread
   - cooks-illustrated
   - sourdough
-hero: assets/images/almost-no-knead-sourdough-bread.jpg
+hero: assets/images/almost-no-knead-sourdough-bread.webp
 ---
 
 # :bread: Almost No-Knead Sourdough Bread
@@ -92,5 +92,5 @@ Remove from pot and rest and cool for 2 hours before serving.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/almost-no-knead-sourdough-bread.jpg>
+[1]: <../assets/images/almost-no-knead-sourdough-bread.webp>
 [2]: <../ingredients/sourdough-starter.md>

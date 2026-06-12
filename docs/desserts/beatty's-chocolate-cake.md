@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/beatty's-chocolate-cake.jpg
+hero: assets/images/beatty's-chocolate-cake.webp
 ---
 # Beatty's Chocolate Cake
 
@@ -109,5 +109,5 @@ cake.
 
 - <https://barefootcontessa.com/recipes/beattys-chocolate-cake>
 
-[1]: <../assets/images/beatty's-chocolate-cake.jpg>
+[1]: <../assets/images/beatty's-chocolate-cake.webp>
 

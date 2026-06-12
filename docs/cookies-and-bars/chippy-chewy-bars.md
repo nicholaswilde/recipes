@@ -4,12 +4,12 @@ tags:
   - bar
   - dessert
   - holiday
-hero: assets/images/chippy-chewy-bars.jpg
+hero: assets/images/chippy-chewy-bars.webp
 ---
 
 # :chocolate_bar: Chippy Chewy Bars
 
-![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.jpg){ loading=lazy }
+![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

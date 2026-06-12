@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/miso-nori-paste.jpg
+hero: assets/images/miso-nori-paste.webp
 ---
 
 # Miso Nori Paste
 
-![Miso Nori](../assets/images/miso-nori-paste.jpg){ loading=lazy }
+![Miso Nori](../assets/images/miso-nori-paste.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

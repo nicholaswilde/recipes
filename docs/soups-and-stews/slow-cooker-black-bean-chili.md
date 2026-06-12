@@ -6,12 +6,12 @@ tags:
   - slow-cooker
   - recipe-box
   - favorite
-hero: assets/images/slow-cooker-black-bean-chili.jpg
+hero: assets/images/slow-cooker-black-bean-chili.webp
 ---
 
 # :stew: Slow Cooker Black Bean Chili
 
-![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.jpg){ loading=lazy }
+![Slow Cooker Black Bean Chili](../assets/images/slow-cooker-black-bean-chili.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

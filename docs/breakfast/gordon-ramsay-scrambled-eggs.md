@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - gordon-ramsay
-hero: assets/images/gordon-ramsay-scrambled-eggs.jpg
+hero: assets/images/gordon-ramsay-scrambled-eggs.webp
 ---
 
 # :egg: Gordon Ramsay Scrambled Eggs
 
-![Gordon Ramsay Scrambled Eggs](../assets/images/gordon-ramsay-scrambled-eggs.jpg){ loading=lazy }
+![Gordon Ramsay Scrambled Eggs](../assets/images/gordon-ramsay-scrambled-eggs.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

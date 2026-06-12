@@ -4,12 +4,12 @@ tags:
 
   - lunch
   - sandwich
-hero: assets/images/bourbon-grilled-cheese.jpg
+hero: assets/images/bourbon-grilled-cheese.webp
 ---
 
 # :sandwich: Bourbon Grilled Cheese
 
-![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.jpg){ loading=lazy }
+![Bourbon Grilled Cheese](../assets/images/bourbon-grilled-cheese.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

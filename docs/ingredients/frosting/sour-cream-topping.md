@@ -4,12 +4,12 @@ tags:
 
   - frosting
   - ingredient
-hero: assets/images/sour-cream-topping.jpg
+hero: assets/images/sour-cream-topping.webp
 ---
 
 # :rice: Sour Cream Topping
 
-![Sour Cream Topping](../../assets/images/sour-cream-topping.jpg){ loading=lazy }
+![Sour Cream Topping](../../assets/images/sour-cream-topping.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,7 +6,7 @@ tags:
   - ingredient
   - claire-saffitz
   - dessert-person
-hero: assets/images/flaky-olive-oil-dough.jpg
+hero: assets/images/flaky-olive-oil-dough.webp
 ---
 
 # :olive: Flaky Olive Oil Dough
@@ -104,4 +104,4 @@ ready to use.
 
 - Dessert Person
 
-[1]: <../../assets/images/flaky-olive-oil-dough.jpg>
+[1]: <../../assets/images/flaky-olive-oil-dough.webp>

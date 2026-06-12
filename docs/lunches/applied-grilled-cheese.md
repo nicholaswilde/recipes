@@ -5,12 +5,12 @@ tags:
   - lunch
   - applied-kitchen
   - sandwich
-hero: assets/images/applied-grilled-cheese.jpg
+hero: assets/images/applied-grilled-cheese.webp
 ---
 
 # :sandwich: Applied Grilled Cheese
 
-![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.jpg){ loading=lazy }
+![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

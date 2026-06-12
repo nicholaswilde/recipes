@@ -5,12 +5,12 @@ tags:
   - breakfast
   - pancake
   - joy-of-cooking
-hero: assets/images/joy-of-cooking-pancakes.jpg
+hero: assets/images/joy-of-cooking-pancakes.webp
 ---
 
 # :pancakes: Joy of Cooking Pancakes
 
-![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.jpg){ loading=lazy }
+![Joy of Cooking Pancakes](../assets/images/joy-of-cooking-pancakes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

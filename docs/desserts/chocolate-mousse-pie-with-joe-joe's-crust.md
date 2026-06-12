@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg
+hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.webp
 ---
 # Chocolate Mousse Pie with Joe-Joe's Crust
 
@@ -62,5 +62,5 @@ Pour into crust and chill for at least 4 hours.
 
 - <https://www.thekitchn.com/recipe-chocolate-mousse-pie-with-joe-joes-crust-236310>
 
-[1]: <../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.jpg>
+[1]: <../assets/images/chocolate-mousse-pie-with-joe-joe's-crust.webp>
 

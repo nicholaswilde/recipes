@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - indian
-hero: assets/images/gulab-jambu.jpg
+hero: assets/images/gulab-jambu.webp
 ---
 
 # :doughnut: Gulab Jambu
 
-![Gulab Jambu](../assets/images/gulab-jambu.jpg){ loading=lazy }
+![Gulab Jambu](../assets/images/gulab-jambu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

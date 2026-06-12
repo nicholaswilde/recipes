@@ -5,12 +5,12 @@ tags:
   - mexican
   - taco
   - recipe-box
-hero: assets/images/chipotle-breakfast-tacos.jpg
+hero: assets/images/chipotle-breakfast-tacos.webp
 ---
 
 # :taco: Chipotle Breakfast Tacos
 
-![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.jpg){ loading=lazy }
+![Chipotle Breakfast Tacos](../assets/images/chipotle-breakfast-tacos.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

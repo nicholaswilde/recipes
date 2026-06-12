@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - cooks-illustrated
-hero: assets/images/mayonnaise.jpg
+hero: assets/images/mayonnaise.webp
 ---
 
 # :egg: Mayonnaise
 
-![Mayonnaise](../../assets/images/mayonnaise.jpg){ loading=lazy }
+![Mayonnaise](../../assets/images/mayonnaise.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
