@@ -1,7 +1,7 @@
 {
   "track_id": "optimize_images_20260612",
   "type": "chore",
-  "status": "new",
+  "status": "In Progress",
   "created_at": "2026-06-12T06:53:30Z",
   "updated_at": "2026-06-12T06:53:30Z",
   "description": "optimizes images in this repo. Convert jpeg to webp using cwebp binary tool. optimize png images using oxipng. Replace the image extensions in the markdown files. print the total space savings after the conversion and optimization."
