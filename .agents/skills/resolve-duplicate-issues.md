@@ -10,7 +10,7 @@ This skill leverages [scripts/find_duplicate_issues.py](file:///home/nicholas/gi
 ### 1. Perform Dry Run Check
 Scan open duplicate issues and list matches without closing them:
 ```bash
-python3 scripts/find_duplicate_issues.py
+uv run scripts/find_duplicate_issues.py
 ```
 
 ---
@@ -18,7 +18,7 @@ python3 scripts/find_duplicate_issues.py
 ### 2. Auto-Close Exact Matches
 To automatically close the exact URL matches on GitHub with a comment pointing to the existing recipe path:
 ```bash
-python3 scripts/find_duplicate_issues.py --close
+uv run scripts/find_duplicate_issues.py --close
 ```
 
 ---

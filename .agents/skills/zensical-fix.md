@@ -9,7 +9,7 @@ This skill leverages the `zensical_fix.py` helper script to automatically run Ze
 1. **Run the Zensical Auto-Fixer Script**:
    - Execute the python script in the repository root to automatically run validation and build steps and resolve any common issues:
      ```bash
-     python3 scripts/zensical_fix.py
+     uv run scripts/zensical_fix.py
      ```
    - The script will:
      - Run `task validate` to verify that `zensical.toml` has no syntax issues.

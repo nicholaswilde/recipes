@@ -18,7 +18,7 @@ This skill leverages `lychee` in offline mode to identify broken local reference
 2. **Run the Link Auto-Fixer Script**:
    - Execute the dynamic python script that scans the repository, builds a complete directory structure map, and automatically corrects any broken relative references:
      ```bash
-     python3 scripts/fix_broken_links.py
+     uv run scripts/fix_broken_links.py
      ```
    - The script will automatically:
      - Re-calculate and fix incorrect relative directory paths based on current file nesting depth.

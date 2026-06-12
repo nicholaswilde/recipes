@@ -31,7 +31,7 @@ Once a recipe has been imported and verified, commit the changes using the conve
 To batch-relocate sides and sauces to nested subfolders based on filename mappings:
 * **Protocol**:
   ```bash
-  python3 scripts/move_and_verify.py
+  uv run scripts/move_and_verify.py
   ```
 
 ---
@@ -42,7 +42,7 @@ To batch-relocate sides and sauces to nested subfolders based on filename mappin
 If `zensical build` fails or outputs warnings about unused/unresolved links:
 * **Protocol**:
   ```bash
-  python3 scripts/zensical_fix.py
+  uv run scripts/zensical_fix.py
   ```
 * **Under the Hood**: Runs checks, parses warnings, automatically removes unused reference links, and escapes unresolved bracket patterns like `[ml]`.
 
@@ -50,7 +50,7 @@ If `zensical build` fails or outputs warnings about unused/unresolved links:
 To automatically insert matching ingredient emojis and convert volumetric units (cups, tbsp) to weight-annotated strings (grams) on a recipe's markdown file:
 * **Protocol**:
   ```bash
-  python3 scripts/convert-recipe-units.py docs/category/recipe.md
+  uv run scripts/convert-recipe-units.py docs/category/recipe.md
   ```
 * **Under the Hood**: Cross-references ingredients with [includes/emoji.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/emoji.yaml) and [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md).
 
@@ -58,7 +58,7 @@ To automatically insert matching ingredient emojis and convert volumetric units 
 If Lychee checks fail or relative markdown links are broken:
 * **Protocol**:
   ```bash
-  python3 scripts/fix_broken_links.py
+  uv run scripts/fix_broken_links.py
   ```
 * **Under the Hood**: Automatically resolves relative markdown and image links against files in the repository.
 
@@ -70,33 +70,33 @@ If Lychee checks fail or relative markdown links are broken:
 To check if all ingredients or cookware used in a `.cook` recipe are registered in the central emoji list:
 * **Protocol**:
   ```bash
-  python3 scripts/check-recipe-emojis.py cook/category/recipe.cook
+  uv run scripts/check-recipe-emojis.py cook/category/recipe.cook
   ```
 
 #### Regenerate Typos Configuration
 When new words are added to `dictionary.txt`, regenerate the spellchecker exclusions/whitelist:
 * **Protocol**:
   ```bash
-  python3 scripts/generate_typos_config.py
+  uv run scripts/generate_typos_config.py
   ```
 
 #### Identify Multi-Serving Recipes
 To locate recipes that have multiple servings tabs/tables (multiple "Ingredients" headings):
 * **Protocol**:
   ```bash
-  python3 scripts/identify_multi_serving.py [directory]
+  uv run scripts/identify_multi_serving.py [directory]
   ```
 
 #### Scan and Resolve Duplicate Issues
 To find and optionally close duplicate GitHub issues that correspond to already-imported recipes:
 * **Protocol**:
   ```bash
-  python3 scripts/find_duplicate_issues.py [--close]
+  uv run scripts/find_duplicate_issues.py [--close]
   ```
 
 #### Sync Giscus Comments Flag
 To verify which recipes have comments and append `comments: true` to their front-matter:
 * **Protocol**:
   ```bash
-  python3 scripts/sync_giscus_comments.py
+  uv run scripts/sync_giscus_comments.py
   ```

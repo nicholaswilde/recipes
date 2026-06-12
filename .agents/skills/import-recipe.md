@@ -34,9 +34,9 @@ repository following the established recipe import workflow.
    - This converts the `.cook` file to Markdown, copies/converts the recipe image, runs the `lychee` link checker, and automatically inserts the navigation mapping entry into the correct category section of `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
 6. **Post-Process Markdown:**
    - Locate the generated Markdown file in `docs/{category}/{Recipe Name}.md`.
-   - **Emojis:** Run `python3 scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify that all ingredients and cookware are mapped in `includes/emoji.yaml`. Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if any emojis are reported missing.
+   - **Emojis:** Run `uv run scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify that all ingredients and cookware are mapped in `includes/emoji.yaml`. Add emoji shortcodes from `includes/emoji.yaml` to each ingredient. Update `includes/emoji.yaml` if any emojis are reported missing.
    - **Tags:** Add relevant tags to the front matter.
-   - **Conversions:** Run `python3 scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"` to automatically convert volumetric measurements to grams and add emojis using the data from `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md` if any conversions are missing or incorrect.
+   - **Conversions:** Run `uv run scripts/convert-recipe-units.py "docs/{category}/{recipe-name-slug}.md"` to automatically convert volumetric measurements to grams and add emojis using the data from `docs/reference/measuring.md` and `includes/emoji.yaml`. Update `docs/reference/measuring.md` if any conversions are missing or incorrect.
    - **Additional References:** If there is a "Pancake Princess" link in the source issue, include that link as
      an additional reference in the `## :link: Source` section of the Markdown recipe page.
 7. **Spellcheck and Whitelist:**

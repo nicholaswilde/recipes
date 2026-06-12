@@ -50,7 +50,7 @@ Based on the job logs, apply the corresponding fix protocol:
     ```
   - Regenerate configuration:
     ```bash
-    python3 scripts/generate_typos_config.py
+    uv run scripts/generate_typos_config.py
     ```
   - Commit the updated `dictionary.txt` and `_typos.toml`.
 
@@ -59,7 +59,7 @@ Based on the job logs, apply the corresponding fix protocol:
 * **Fix**:
   - Run the relative link fixer script to automatically resolve pathing errors:
     ```bash
-    python3 scripts/fix_broken_links.py
+    uv run scripts/fix_broken_links.py
     ```
   - For external URLs that are permanently down or invalid, locate the file and update or remove the link.
 
@@ -68,7 +68,7 @@ Based on the job logs, apply the corresponding fix protocol:
 * **Fix**:
   - Run the zensical automatic fixer script:
     ```bash
-    python3 scripts/zensical_fix.py
+    uv run scripts/zensical_fix.py
     ```
 
 ---
