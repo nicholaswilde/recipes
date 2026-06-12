@@ -1,8 +1,8 @@
 # Implementation Plan: Use `uv` for Python Scripts Execution
 
 ## Phase 1: Environment and Script Auditing
-- [ ] Task: Audit all Python invocations in the repository
-    - [ ] Search `Taskfile.yaml`, `scripts/*.sh`, and `docs/**/*.md` for `python3` to locate all target lines
+- [~] Task: Audit all Python invocations in the repository
+    - [~] Search `Taskfile.yaml`, `scripts/*.sh`, and `docs/**/*.md` for `python3` to locate all target lines
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Environment and Script Auditing' (Protocol in workflow.md)
 
 ## Phase 2: Taskfile and Script Migration
