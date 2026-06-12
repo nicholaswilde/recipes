@@ -15,7 +15,7 @@
     - [x] Replace `python3` with `uv run` inside shell scripts
 - [x] Task: Validate modified scripts and Taskfile 6f6320f
     - [x] Run `task validate` and `task spellcheck-file` using the new `uv run` setup to ensure it works
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md)
+- [~] Task: Conductor - User Manual Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md)
 
 ## Phase 3: Documentation and Verification
 
