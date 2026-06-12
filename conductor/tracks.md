@@ -13,3 +13,10 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 - [ ] **Track: Image Optimization and WebP Conversion**
 *Link: [./tracks/optimize_images_20260612/](./tracks/optimize_images_20260612/)*
+
+
+---
+
+- [ ] **Track: Use `uv` for Python Scripts Execution**
+*Link: [./tracks/use_uv_python_20260612/](./tracks/use_uv_python_20260612/)*
+

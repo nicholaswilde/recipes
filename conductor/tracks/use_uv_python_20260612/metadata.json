@@ -1,0 +1,8 @@
+{
+  "track_id": "use_uv_python_20260612",
+  "type": "chore",
+  "status": "new",
+  "created_at": "2026-06-12T06:56:50Z",
+  "updated_at": "2026-06-12T06:56:50Z",
+  "description": "convert this repo to using uv to run python3 scripts instead of using python3 directly."
+}
