@@ -3,12 +3,12 @@
 ## Phase 1: Script Development and Testing
 - [x] Task: Create a mock image test suite or validation checklist for the image optimization script f6d86fb
     - [x] Create a test directory with dummy `.jpg` and `.png` files to test compression and format conversion f6d86fb
-- [ ] Task: Implement image optimization and conversion script
-    - [ ] Create `scripts/optimize-images.sh` to check for dependencies (`cwebp`, `oxipng`)
-    - [ ] Implement optional category parameter parsing and category-specific directory/file filtering
-    - [ ] Implement JPEG to WebP conversion with `cwebp -q 80 -metadata all` and delete original JPEG
-    - [ ] Implement PNG optimization with `oxipng -o 4 --strip safe`
-    - [ ] Implement calculation and reporting of total space savings (bytes and percentage) for the current run
+- [x] Task: Implement image optimization and conversion script a036ebc
+    - [x] Create `scripts/optimize-images.sh` to check for dependencies (`cwebp`, `oxipng`) a036ebc
+    - [x] Implement optional category parameter parsing and category-specific directory/file filtering a036ebc
+    - [x] Implement JPEG to WebP conversion with `cwebp -q 80 -metadata all` and delete original JPEG a036ebc
+    - [x] Implement PNG optimization with `oxipng -o 4 --strip safe` a036ebc
+    - [x] Implement calculation and reporting of total space savings (bytes and percentage) for the current run a036ebc
 - [ ] Task: Test script on dummy directory
     - [ ] Execute `scripts/optimize-images.sh` on the test directory and verify format conversion and optimization results
     - [ ] Test specifying a category and verify only that category's images and markdown references are affected
