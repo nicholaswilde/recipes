@@ -13,8 +13,8 @@
 - [x] Task: Update utility shell scripts to use `uv run` 9dc44b9
     - [x] Add check for the `uv` binary in scripts (e.g. `move.sh`) and fail cleanly if missing
     - [x] Replace `python3` with `uv run` inside shell scripts
-- [~] Task: Validate modified scripts and Taskfile
-    - [~] Run `task validate` and `task spellcheck-file` using the new `uv run` setup to ensure it works
+- [x] Task: Validate modified scripts and Taskfile 6f6320f
+    - [x] Run `task validate` and `task spellcheck-file` using the new `uv run` setup to ensure it works
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md)
 
 ## Phase 3: Documentation and Verification
