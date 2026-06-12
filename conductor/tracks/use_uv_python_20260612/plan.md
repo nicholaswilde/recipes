@@ -17,7 +17,7 @@
     - [x] Run `task validate` and `task spellcheck-file` using the new `uv run` setup to ensure it works
 - [x] Task: Conductor - Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md) bbe34a5
 
-## Phase 3: Documentation and Verification
+## Phase 3: Documentation and Verification [checkpoint: 0063ee1]
 
 - [x] Task: Update developer documentation 2e35cd4
     - [x] Replace any raw `python3` commands with `uv run` in `docs/` and skills documentation
