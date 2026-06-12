@@ -1,0 +1,7 @@
+Phase: Phase 3: Documentation and Verification
+Automated test command: rumdl check .agents/skills/*.md
+Manual verification steps:
+1. Open .agents/skills/zensical-fix.md and confirm it references 'uv run scripts/zensical_fix.py'.
+2. Open scripts/README.md and confirm that all Python utility script usages reference 'uv run'.
+3. Confirm git status is clean.
+User confirmation: Yes
