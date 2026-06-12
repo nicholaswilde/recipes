@@ -15,7 +15,12 @@
 set -e
 set -o pipefail
 
+if ! command -v uv &> /dev/null; then
+  echo "Error: 'uv' is not installed. Please install it to run Python scripts." >&2
+  exit 1
+fi
+
 a=$(git rev-parse --show-toplevel)
 cd "${a}"
-python3 scripts/generate_typos_config.py
+uv run scripts/generate_typos_config.py
 typos

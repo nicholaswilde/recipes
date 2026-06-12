@@ -15,6 +15,11 @@
 set -e
 set -o pipefail
 
+if ! command -v uv &> /dev/null; then
+  echo "Error: 'uv' is not installed. Please install it to run Python scripts." >&2
+  exit 1
+fi
+
 # https://stackoverflow.com/a/246128/1061279
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 SCRIPT_NAME=$(basename "${0}")
@@ -111,7 +116,7 @@ function move_files(){
 
   recipe_name=$(get_recipe_name "${recipe_path}")
   relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
-  python3 "${DIR}/add-recipe-nav.py" "${recipe_name}" "${relative_markdown_path}"
+  uv run "${DIR}/add-recipe-nav.py" "${recipe_name}" "${relative_markdown_path}"
 }
 
 function main(){
