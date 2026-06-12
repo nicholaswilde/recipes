@@ -6,7 +6,7 @@
     - [x] Search `Taskfile.yaml`, `scripts/*.sh`, and `docs/**/*.md` for `python3` to locate all target lines
 - [x] Task: Conductor - Verification 'Phase 1: Environment and Script Auditing' (Protocol in workflow.md) 7671e22
 
-## Phase 2: Taskfile and Script Migration
+## Phase 2: Taskfile and Script Migration [checkpoint: bbe34a5]
 
 - [x] Task: Update `Taskfile.yaml` to use `uv run` 538b159
     - [x] Update tasks like `validate` and `spellcheck` in `Taskfile.yaml` to run via `uv run`
@@ -15,7 +15,7 @@
     - [x] Replace `python3` with `uv run` inside shell scripts
 - [x] Task: Validate modified scripts and Taskfile 6f6320f
     - [x] Run `task validate` and `task spellcheck-file` using the new `uv run` setup to ensure it works
-- [~] Task: Conductor - User Manual Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md)
+- [x] Task: Conductor - Verification 'Phase 2: Taskfile and Script Migration' (Protocol in workflow.md) bbe34a5
 
 ## Phase 3: Documentation and Verification
 
