@@ -15,8 +15,8 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md) c427308
 
 ## Phase 2: Migration Execution and Markdown Updates
-- [ ] Task: Add markdown reference update logic
-    - [ ] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in target category markdown files and change them to `.webp`
+- [x] Task: Add markdown reference update logic a036ebc
+    - [x] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in target category markdown files and change them to `.webp` a036ebc
 - [ ] Task: Run migration on repository assets in stages
     - [ ] Execute `scripts/optimize-images.sh` for one category at a time (e.g. `lunches`, `breads`, `breakfast`, `desserts`, etc.)
     - [ ] Verify image conversions and markdown reference changes stage-by-stage
