@@ -250,6 +250,7 @@ $$
 | Molasses                                              | 1/4 cup           | 85          | 3           |
 | Mushrooms (sliced)                                    | 1 cup             | 78          | 2-3/4       |
 | Non-Diastatic Malt Powder                             | 2 Tbsps           | 18          | 5/8         |
+| Nutritional Yeast                                     | 1/4 cup           | 15          | 1/2         |
 | Oat Bran                                              | 1/2 cup           | 53          | 1-7/8       |
 | Oat Flour                                             | 1 cup             | 92          | 3-1/4       |
 | Old-Fashioned Rolled Oats                             | 1 cup             | 99          | 3-1/2       |
@@ -260,6 +261,7 @@ $$
 | Peanuts (whole, shelled)                              | 1 cup             | 142         | 5           |
 | Peas (frozen)                                         | 1 cup             | 150         | 5-1/4       |
 | Pecans (whole)                                        | 1 cup             | 99          | 3-1/2       |
+| Pickles (chopped)                                     | 1/2 cup           | 75          | 2-5/8       |
 | Pine Nuts                                             | 1/2 cup           | 71          | 2-1/2       |
 | Pineapple (crushed, drained)                          | 1 cup             | 256         | 9           |
 | Pineapple (dried)                                     | 1/2 cup           | 71          | 2-1/2       |
@@ -316,6 +318,7 @@ $$
 | Unbleached Cake Flour                                 | 1 cup             | 120         | 4-1/4       |
 | Unsalted Butter                                       | 8 Tbsp (1/2 cup)  | 113         | 4           |
 | Vanilla Extract                                       | 1 Tbsp            | 14          | 1/2         |
+| Vegan Mayonnaise                                      | 1/2 cup           | 113         | 4           |
 | Vegetable Oil                                         | 1 cup             | 198         | 7           |
 | Vegetable Shortening                                  | 1/4 cup           | 46          | 1-5/8       |
 | Vermont Cheese Powder                                 | 1/2 cup           | 57          | 2           |

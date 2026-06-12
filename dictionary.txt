@@ -601,6 +601,7 @@ julia-turshen
 julienned
 kabocha
 kaffir
+Kala
 Kalamata
 katjang
 Katjang
@@ -762,6 +763,7 @@ musir
 Musir
 Myrna
 Myrn's
+Namak
 nappage
 Nasi
 Negra
