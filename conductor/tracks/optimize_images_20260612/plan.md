@@ -9,9 +9,9 @@
     - [x] Implement JPEG to WebP conversion with `cwebp -q 80 -metadata all` and delete original JPEG a036ebc
     - [x] Implement PNG optimization with `oxipng -o 4 --strip safe` a036ebc
     - [x] Implement calculation and reporting of total space savings (bytes and percentage) for the current run a036ebc
-- [ ] Task: Test script on dummy directory
-    - [ ] Execute `scripts/optimize-images.sh` on the test directory and verify format conversion and optimization results
-    - [ ] Test specifying a category and verify only that category's images and markdown references are affected
+- [x] Task: Test script on dummy directory 6b6ce7e
+    - [x] Execute `scripts/optimize-images.sh` on the test directory and verify format conversion and optimization results 6b6ce7e
+    - [x] Test specifying a category and verify only that category's images and markdown references are affected 6b6ce7e
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md)
 
 ## Phase 2: Migration Execution and Markdown Updates
