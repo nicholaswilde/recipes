@@ -5,18 +5,22 @@
     - [ ] Create a test directory with dummy `.jpg` and `.png` files to test compression and format conversion
 - [ ] Task: Implement image optimization and conversion script
     - [ ] Create `scripts/optimize-images.sh` to check for dependencies (`cwebp`, `oxipng`)
+    - [ ] Implement optional category parameter parsing and category-specific directory/file filtering
     - [ ] Implement JPEG to WebP conversion with `cwebp -q 80 -metadata all` and delete original JPEG
     - [ ] Implement PNG optimization with `oxipng -o 4 --strip safe`
-    - [ ] Implement calculation and reporting of total space savings (bytes and percentage)
+    - [ ] Implement calculation and reporting of total space savings (bytes and percentage) for the current run
 - [ ] Task: Test script on dummy directory
     - [ ] Execute `scripts/optimize-images.sh` on the test directory and verify format conversion and optimization results
+    - [ ] Test specifying a category and verify only that category's images and markdown references are affected
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md)
 
 ## Phase 2: Migration Execution and Markdown Updates
 - [ ] Task: Add markdown reference update logic
-    - [ ] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in `docs/` markdown files and change them to `.webp`
-- [ ] Task: Run migration on repository assets
-    - [ ] Run `scripts/optimize-images.sh` on `docs/assets/images/` and record the space savings
+    - [ ] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in target category markdown files and change them to `.webp`
+- [ ] Task: Run migration on repository assets in stages
+    - [ ] Execute `scripts/optimize-images.sh` for one category at a time (e.g. `lunches`, `breads`, `breakfast`, `desserts`, etc.)
+    - [ ] Verify image conversions and markdown reference changes stage-by-stage
+    - [ ] Execute `scripts/optimize-images.sh` with no arguments to catch any remaining images not covered in category stages
 - [ ] Task: Verify links and repository integrity
     - [ ] Run `task linkcheck-offline` to ensure no broken image links exist
     - [ ] Run `task lint` and `task validate` to verify overall project health

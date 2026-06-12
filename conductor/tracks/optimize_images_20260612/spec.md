@@ -2,22 +2,22 @@
 
 ## Overview
 This track introduces image optimization and WebP conversion for all recipe images in the repository. It includes:
-1. A one-time migration script `scripts/optimize-images.sh` to convert all existing `.jpg` images to `.webp` using `cwebp`, optimize all `.png` images in-place using `oxipng`, and update all corresponding image references in existing Markdown files under `docs/`.
+1. A migration script `scripts/optimize-images.sh` designed to perform conversions in stages (one category at a time, or all at once) to convert existing `.jpg` images to `.webp` using `cwebp`, optimize `.png` images in-place using `oxipng`, and update all corresponding image references in existing Markdown files under `docs/`.
 2. Updates to the recipe import workflow (`scripts/move.sh`) to automatically convert incoming `.jpg` images to `.webp` and optimize them, as well as rewriting markdown references accordingly.
 3. Reporting of the total space savings (in percentage and bytes) after the migration.
 
 ## Functional Requirements
 - **Migration Script (`scripts/optimize-images.sh`):**
   - Check for the availability of `cwebp` and `oxipng` and exit gracefully with instructions if they are missing.
-  - Process all `.jpg` files in `docs/assets/images/`:
-    - Convert them to `.webp` with quality 80 and metadata preserved (`cwebp -q 80 -metadata all <input> -o <output>`).
-    - Accumulate original and compressed file sizes.
-    - Delete the original `.jpg` file upon successful conversion.
-  - Process all `.png` files in `docs/assets/images/`:
-    - Optimize in-place using `oxipng -o 4 --strip safe <file>`.
-    - Accumulate original and optimized file sizes.
-  - Update all Markdown files under `docs/` to replace references to `.jpg` with `.webp` (specifically updating lines like `[1]: <../assets/images/recipe-name.jpg>` or `hero: assets/images/recipe-name.jpg` to use `.webp`).
-  - Print the total space savings in percentage and in bytes.
+  - Support an optional category argument to allow running the conversion in stages, one category at a time (e.g. `scripts/optimize-images.sh lunches`). If no category is specified, process all categories.
+  - For JPEGs/PNGs inside `docs/assets/images/` belonging to the target category (or all if none specified):
+    - Convert JPEGs to `.webp` with quality 80 and metadata preserved (`cwebp -q 80 -metadata all <input> -o <output>`) and delete the original `.jpg` file.
+    - Optimize PNGs in-place using `oxipng -o 4 --strip safe <file>`.
+    - Accumulate original and compressed/optimized file sizes for the processed batch.
+  - Update references in existing Markdown files:
+    - If a category is specified, scan and update `.jpg` image references to `.webp` in `docs/<category>/*.md`.
+    - If no category is specified, scan and update all Markdown files under `docs/`.
+  - Print the total space savings in percentage and in bytes for the processed batch.
 - **Workflow Script (`scripts/move.sh` & `scripts/lib/libbash`):**
   - Update the recipe movement flow so that when an image is moved/copied from a `.cook` category folder into `docs/assets/images/`:
     - If the image is a `.jpg`, convert it to `.webp` using `cwebp` and delete the original `.jpg` in the destination.
