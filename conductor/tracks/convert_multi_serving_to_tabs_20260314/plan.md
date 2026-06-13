@@ -7,9 +7,9 @@ This track converts identified recipes to use Content Tabs for their multiple in
 - [x] Convert `docs/ingredients/post-baking-glazes/royal-icing.md` to use tabs (Fresh vs Powdered Egg Whites) (25aebc3)
 - [x] Establish a clear pattern/standard for tab implementation (e.g., indentation, header nesting) (f8840e9)
 
-## Phase 2: Breads & Breakfast
-- [ ] Convert identified recipes in `docs/breads/` (30 files)
-- [ ] Convert identified recipes in `docs/breakfast/` (11 files)
+## Phase 2: Breads & Breakfast [checkpoint: 2a0ba16]
+- [x] Convert identified recipes in `docs/breads/` (30 files) (2a0ba16)
+- [x] Convert identified recipes in `docs/breakfast/` (11 files) (2a0ba16)
 
 ## Phase 3: Cookies, Bars & Desserts
 - [ ] Convert identified recipes in `docs/cookies-and-bars/` (18 files)
