@@ -49,7 +49,7 @@ to form a thick batter.
 ### Step 3
 
 In a separate bowl, place the [breadcrumbs][3] and nutritional yeast. Dip each carrot into the batter and then into the
-breadcrumbs. Place each coated carrot on a baking sheet and bake for 30 minutes.
+[Breadcrumbs](../../ingredients/breadcrumbs.md). Place each coated carrot on a baking sheet and bake for 30 minutes.
 
 ### Step 4
 

@@ -48,7 +48,7 @@ Add the confectioners' sugar, all-purpose flour, salt, and [almond flour][1] to 
 
 ### Step 4
 
-Add the cold butter and pulse until the mixture looks like breadcrumbs.
+Add the cold butter and pulse until the mixture looks like [Breadcrumbs](../breadcrumbs.md).
 
 ### Step 5
 

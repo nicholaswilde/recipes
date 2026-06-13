@@ -5,6 +5,7 @@ tags:
   - tart
 hero: assets/images/rhubarb-frangipane-tart.webp
 ---
+
 # :leafy_green: Rhubarb Frangipane Tart
 
 ![Rhubarb Frangipane Tart][1]{ loading=lazy }
@@ -46,7 +47,7 @@ hero: assets/images/rhubarb-frangipane-tart.webp
 ### Step 1
 
 First, make the pastry. Tip the plain flour, icing sugar and a salt into a mixing bowl, dice the cold unsalted butter
-into cubes and rub it in until the mixture resembles breadcrumbs. Add the large egg yolk and cold water and knead the
+into cubes and rub it in until the mixture resembles [Breadcrumbs](../../ingredients/breadcrumbs.md). Add the large egg yolk and cold water and knead the
 dough together with your hands until combined. Try not to overwork the dough; stop as soon as it comes together in a
 ball. Wrap, then chill the dough for 20 minutes.
 
@@ -80,4 +81,3 @@ brush, brush the glaze over the top of the warm tart, and allow to cool.
 - Sainsbury's Magazine
 
 [1]: <../../assets/images/rhubarb-frangipane-tart.webp>
-

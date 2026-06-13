@@ -26,7 +26,7 @@ hero: assets/images/black-bean-burgers.webp
 - :hot_pepper: 1 tsp chili powder
 - :hot_pepper: 0.5 tsp garlic powder
 - :hot_pepper: 0.25 tsp smoked paprika
-- :bread: 0.5 cup (60 g) breadcrumbs
+- :bread: 0.5 cup (60 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :cheese_wedge: 0.5 cup (50 g) feta cheese (optional)
 - :egg: 2 large eggs
 - :salt: some salt
@@ -60,8 +60,9 @@ Transfer to a large bowl.
 
 ### Step 4
 
-Add the sautéed vegetables to the bowl along with cumin, chili powder, garlic powder, smoked paprika, breadcrumbs, feta
-cheese (if using), eggs, salt, and pepper. Mix everything together with a fork until well combined.
+Add the sautéed vegetables to the bowl along with cumin, chili powder, garlic powder, smoked paprika,
+[Breadcrumbs](../ingredients/breadcrumbs.md), feta cheese (if using), eggs, salt, and pepper. Mix
+everything together with a fork until well combined.
 
 ### Step 5
 

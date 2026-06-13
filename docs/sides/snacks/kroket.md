@@ -24,7 +24,7 @@ hero: assets/images/kroket.webp
 - :herb: 0.5 tsp chives
 - :butter: 4 oz butter
 - :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :rice: 1 cup Italian seasoned breadcrumbs
+- :rice: 1 cup Italian seasoned [Breadcrumbs](../../ingredients/breadcrumbs.md)
 - :egg: 1 egg white
 - :glass_of_milk: 2 Tbsp milk
 - :hotdog: some mustard or deli brown mustard (optional)
@@ -78,7 +78,7 @@ Breading and frying: Roll the dough into rolls 4 inches long and 1 inch wide.
 
 ### Step 10
 
-Coat with Italian seasoned breadcrumbs.
+Coat with Italian seasoned [Breadcrumbs](../../ingredients/breadcrumbs.md).
 
 ### Step 11
 

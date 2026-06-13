@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/vegan-tourtiere.webp
 ---
+
 # Vegan Tourtiere
 
 ![Vegan Tourtiere][1]{ loading=lazy }
@@ -24,7 +25,7 @@ hero: assets/images/vegan-tourtiere.webp
 - :mushroom: 16 oz button mushrooms
 - :stew: 0.75 cup (170 g) [vegetable broth][3]
 - :chestnut: 3 Tbsp cornstarch
-- :bread: 0.5 cup (57 g) breadcrumbs
+- :bread: 0.5 cup (57 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :salt: 0.75 tsp salt
 - :hot_pepper: 0.5 tsp smoked paprika
 - :herb: 0.5 tsp dried thyme
@@ -80,7 +81,7 @@ In a small jar or bowl, whisk vegetable broth with cornstarch until smooth.
 
 ### Step 8
 
-Pour broth mixture into the skillet. Add baked tofu crumbles, breadcrumbs, salt, smoked paprika, dried thyme, black
+Pour broth mixture into the skillet. Add baked tofu crumbles, [Breadcrumbs](../ingredients/breadcrumbs.md), salt, smoked paprika, dried thyme, black
 pepper, dried sage, and ground cloves.
 
 ### Step 9
@@ -112,4 +113,3 @@ Let pie rest for at least 10 minutes before slicing to allow filling to set.
 [2]: <../ingredients/soy-sauce.md>
 [3]: <../ingredients/vegetable-broth.md>
 [4]: <../ingredients/pastry-dough/basic-pastry.md>
-

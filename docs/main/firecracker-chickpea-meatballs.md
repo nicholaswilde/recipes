@@ -18,7 +18,7 @@ hero: assets/images/firecracker-chickpea-meatballs.png
 ## :salt: Ingredients
 
 - :falafel: 400 g chickpeas
-- :bread: 1 cup breadcrumbs
+- :bread: 1 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :onion: 0.5 cup red onion
 - :garlic: 2 cloves garlic
 - :sake: 2 Tbsp soy sauce
@@ -41,7 +41,7 @@ Preheat oven to 400°F.
 
 ### Step 2
 
-Place drained chickpeas, breadcrumbs, chopped red onion, garlic, soy sauce, paprika, cumin, and black pepper in food
+Place drained chickpeas, [Breadcrumbs](../ingredients/breadcrumbs.md), chopped red onion, garlic, soy sauce, paprika, cumin, and black pepper in food
 processor. Pulse until well mixed. Add water if needed to allow ingredients to combine.
 
 ### Step 3

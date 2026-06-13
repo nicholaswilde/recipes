@@ -23,7 +23,7 @@ hero: assets/images/madre-crab-cakes.webp
 - :onion: 2 tsp onion
 - :bell_pepper: 2 tsp red bell pepper
 - :leafy_green: 1 cup shredded hearts of palm
-- :bread: 3 Tbsp panko breadcrumbs
+- :bread: 3 Tbsp panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
 - :egg: 1.5 Tbsp vegan mayonnaise
 - :rice_ball: 1 Tbsp crushed nori
 - :herb: 1 tsp parsley
@@ -51,14 +51,14 @@ coarse puree.
 
 ### Step 2
 
-In a large bowl, add the corn mixture, shredded hearts of palm, panko breadcrumbs, vegan mayonnaise, crushed nori,
+In a large bowl, add the corn mixture, shredded hearts of palm, panko [Breadcrumbs](../../ingredients/breadcrumbs.md), vegan mayonnaise, crushed nori,
 parsley, Old Bay seasoning, mustard powder, salt, and pepper. Stir gently to combine.
 
 ### Step 3
 
-On a large plate, place a generous layer of breadcrumbs. Line another plate or baking sheet with parchment. Using a
+On a large plate, place a generous layer of [Breadcrumbs](../../ingredients/breadcrumbs.md). Line another plate or baking sheet with parchment. Using a
 4-cup measure, scoop out portions of the crab cake mixture, flatten slightly with your hands, and dredge in the
-breadcrumbs. Place on the parchment-lined plate and repeat with the remaining mixture.
+[Breadcrumbs](../../ingredients/breadcrumbs.md). Place on the parchment-lined plate and repeat with the remaining mixture.
 
 ### Step 4
 

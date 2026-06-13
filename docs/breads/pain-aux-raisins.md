@@ -65,7 +65,7 @@ hero: assets/images/pain-aux-raisins.png
 ### Step 1
 
 Make the dough. Put the strong white bread flour in a mixing bowl. Cut 25g of the butter into cubes, add these to the
-bowl and rub in the butter with your fingertips until the mixture resembles breadcrumbs. Add the caster sugar,
+bowl and rub in the butter with your fingertips until the mixture resembles [Breadcrumbs](../ingredients/breadcrumbs.md). Add the caster sugar,
 fast-action dried yeast and salt and stir to combine.
 
 ### Step 2

@@ -31,7 +31,7 @@ hero: assets/images/rough-puff-pastry.webp
 ### Step 1
 
 Mix the all-purpose flour and salt together in a bowl. Rub in the chilled butter using your fingertips until the mixture
-resembles breadcrumbs. Gradually add enough water to form a dough (about 4-6 tablespoons of water).
+resembles [Breadcrumbs](../breadcrumbs.md). Gradually add enough water to form a dough (about 4-6 tablespoons of water).
 
 ### Step 2
 

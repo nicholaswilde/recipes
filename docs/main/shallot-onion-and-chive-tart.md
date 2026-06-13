@@ -56,7 +56,7 @@ hero: assets/images/shallot-onion-and-chive-tart.webp
 ### Step 1
 
 To make the pastry, put the all-purpose flour into a bowl and mix in the salt. Add the cold unsalted butter and cold
-vegetable shortening and rub into the flour with your fingertips until the mixture resembles fine breadcrumbs.
+vegetable shortening and rub into the flour with your fingertips until the mixture resembles fine [Breadcrumbs](../ingredients/breadcrumbs.md).
 Alternatively, do this in a food processor or mixer and then transfer to a bowl.
 
 ### Step 2

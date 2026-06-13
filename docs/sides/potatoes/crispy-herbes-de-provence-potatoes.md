@@ -21,7 +21,7 @@ hero: assets/images/crispy-herbes-de-provence-potatoes.png
 - :potato: 2.5 lbs gold potatoes
 - :butter: 6 Tbsp butter
 - :cheese_wedge: 1 cups Parmesan
-- :bread: 0.25 cup panko breadcrumbs
+- :bread: 0.25 cup panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
 - :herb: 1.5 Tbsp TJ's [Herbes de Provence][1]
 - :salt: 1 tsp salt
 - :salt: 0.25 tsp pepper
@@ -49,12 +49,12 @@ Using a mandoline or knife, thinly slice the gold potatoes and place in a large 
 
 ### Step 4
 
-Combine remaining butter, grated Parmesan cheese, panko breadcrumbs, TJ's Herbes de Provence, salt, and pepper with
+Combine remaining butter, grated Parmesan cheese, panko [Breadcrumbs](../../ingredients/breadcrumbs.md), TJ's Herbes de Provence, salt, and pepper with
 potatoes. Toss to coat.
 
 ### Step 5
 
-To arrange the potatoes,  lay a single layer of potatoes against the side of the pan, until a ring of potatoes is
+To arrange the potatoes, lay a single layer of potatoes against the side of the pan, until a ring of potatoes is
 formed. Continue to make rings of potatoes, until the entire pan is filled.
 
 ### Step 6

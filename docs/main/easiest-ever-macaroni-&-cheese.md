@@ -24,7 +24,7 @@ hero: assets/images/easiest-ever-macaroni-&-cheese.webp
 - :cheese_wedge: 4 oz extra-sharp cheddar
 - :hotdog: 0.5 tsp [Dijon mustard][1]
 - :hot_pepper: 1 pinch cayenne
-- :bread: 0.33 cup panko breadcrumbs
+- :bread: 0.33 cup panko [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :olive: 1 Tbsp olive oil
 - :salt: 0.13 tsp salt
 - :salt: 0.13 tsp pepper
@@ -51,7 +51,7 @@ Cook, stirring constantly, until cheese has completely melted. Cover saucepan an
 
 ### Step 4
 
-Meanwhile, combine panko breadcrumbs, olive oil, and 1/8 tsp salt and 1/8 tsp pepper in a skillet.
+Meanwhile, combine panko [Breadcrumbs](../ingredients/breadcrumbs.md), olive oil, and 1/8 tsp salt and 1/8 tsp pepper in a skillet.
 
 ### Step 5
 

@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 ---
+
 # Lentil Meatballs with Lemon Pesto
 
 ![Lentil Meatballs with Lemon Pesto][1]{ loading=lazy }
@@ -24,7 +25,7 @@ hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 - :herb: 1 pinch thyme
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :bread: 0.67 cup (135 g) panko breadcrumbs
+- :bread: 0.67 cup (135 g) panko [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :garlic: 1 clove garlic
 - :chestnut: 0.25 cup (35 g) pine nuts
 - :tangerine: 1 lemon zest
@@ -55,7 +56,7 @@ fennel seed, chopped parsley, thyme, salt, and pepper.
 
 ### Step 3
 
-Stir in panko breadcrumbs and let sit for 20 minutes.
+Stir in panko [Breadcrumbs](../ingredients/breadcrumbs.md) and let sit for 20 minutes.
 
 ### Step 4
 
@@ -83,4 +84,3 @@ halfway through.
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/eggs.md>
 [4]: <../ingredients/vegan-parmesan.md>
-

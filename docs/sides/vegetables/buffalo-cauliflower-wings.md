@@ -80,7 +80,7 @@ Serve with [ranch dressing][2].
 
 !!! note
 
-    To make them extra-crispy, roll the cauliflower in panko breadcrumbs (you will need about 1.5 cups) once they are
+    To make them extra-crispy, roll the cauliflower in panko [Breadcrumbs](../../ingredients/breadcrumbs.md) (you will need about 1.5 cups) once they are
     coated in the flour/milk mixture. Then bake per the instructions.
 
 ## :link: Source

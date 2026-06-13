@@ -26,7 +26,7 @@ hero: assets/images/ginger-sesame-vegan-meatballs.webp
     - :onion: 3 stalks green onion
     - :sweet_potato: 2.5 Tbsp ginger
     - :takeout_box: 2 Tbsp tamari
-    - :bread: 0.5 cup breadcrumbs
+    - :bread: 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
     - :seedling: 1 Tbsp flaxseed meal
     - :droplet: 3 Tbsp water
     - :olive: 1 Tbsp toasted sesame oil
@@ -73,7 +73,7 @@ In a food processor, pulse the mushroom and bean mixture until it forms a coarse
 
 ### Step 6
 
-Transfer to a bowl and stir in flax egg and breadcrumbs. Let sit for 10 minutes.
+Transfer to a bowl and stir in flax egg and [Breadcrumbs](../ingredients/breadcrumbs.md). Let sit for 10 minutes.
 
 ### Step 7
 

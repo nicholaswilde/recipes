@@ -26,7 +26,7 @@ hero: assets/images/pommes-mont-d'or.jpg
 - :cheese_wedge: 100 g grates Gruyere or Comte cheese
 - :ear_of_rice: some all-purpose flour
 - :egg: 2 egg
-- :bread: some breadcrumbs
+- :bread: some [Breadcrumbs](../../ingredients/breadcrumbs.md)
 
 ## :cooking: Cookware
 
@@ -87,7 +87,7 @@ piping bag.
 ### Step 10
 
 To make classic swirls, pipe walnut size rosettes on a baking sheet covered with parchment paper. Spoon a tablespoon of
-melted butter over each and a sprinkle of cheese (optional). Bake at 180 - 200°C  for 15 minutes until golden.
+melted butter over each and a sprinkle of cheese (optional). Bake at 180 - 200°C for 15 minutes until golden.
 
 ### Step 11
 
@@ -97,8 +97,8 @@ melted butter over each and a sprinkle of cheese (optional). Bake for 15 minutes
 ### Step 12
 
 To make the croquettes, place the potato mixture in the freezer until completely cold but not frozen. Roll the mixture
-into medium size balls, then coat in the all-purpose flour followed by the egg and finally the breadcrumbs. Deep fry at
-180 degrees Celsius for 3-4 minutes.
+into medium size balls, then coat in the all-purpose flour followed by the egg and finally the
+[Breadcrumbs](../../ingredients/breadcrumbs.md). Deep fry at 180 degrees Celsius for 3-4 minutes.
 
 ## :link: Source
 

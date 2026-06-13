@@ -38,7 +38,7 @@ Slice tomatoes 1/2 inch thick. Discard the ends.
 
 Whisk eggs and milk together in a medium-size bowl. Scoop flour onto a plate. Mix cornmeal, bread crumbs and salt and
 pepper on another plate. Dip tomatoes into flour to coat. Then dip the tomatoes into milk and egg mixture. Dredge in
-breadcrumbs to completely coat.
+[Breadcrumbs](../../ingredients/breadcrumbs.md) to completely coat.
 
 ### Step 3
 

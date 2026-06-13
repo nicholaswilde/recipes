@@ -26,7 +26,7 @@ hero: assets/images/veggie-burgers.webp
 - :hot_pepper: 1 tsp chili powder
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp black pepper
-- :bread: 0.5 cup (60 g) breadcrumbs
+- :bread: 0.5 cup (60 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :egg: 1 large egg
 - :olive: 1 Tbsp extra virgin olive oil
 
@@ -48,7 +48,7 @@ Add cooked brown rice, onion, bell pepper, garlic, cumin, chili powder, salt, an
 
 ### Step 3
 
-Add breadcrumbs and egg. Mix until everything is well combined and the mixture can be formed into patties.
+Add [Breadcrumbs](../ingredients/breadcrumbs.md) and egg. Mix until everything is well combined and the mixture can be formed into patties.
 
 ### Step 4
 
