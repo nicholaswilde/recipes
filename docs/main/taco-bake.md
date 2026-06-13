@@ -25,7 +25,7 @@ hero: assets/images/taco-bake.webp
 - :garlic: 2 cloves minced garlic
 - :olive: some olive oil
 - :curry: 2.5 cups cooked lentils
-- :tomato: 3 Tbsp tomato paste
+- :tomato: 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :hot_pepper: 2 Tbsp hot sauce
 - :taco: 12 hard taco shells
 - :cheese_wedge: some pepper jack cheese
@@ -45,7 +45,7 @@ Combine taco seasoning, oregano, cumin. In skillet, sauté onion and minced garl
 
 ### Step 2
 
-Add spice blend and set aside. Lower heat to medium, add cooked lentils and a splash of water, tomato paste, and hot
+Add spice blend and set aside. Lower heat to medium, add cooked lentils and a splash of water, [Tomato Paste](../ingredients/tomato-paste.md), and hot
 sauce.
 
 ### Step 3

@@ -23,7 +23,7 @@ hero: assets/images/vegan-veggie-ground-meat.webp
 - :onion: 1 red onion
 - :garlic: 3 cloves garlic
 - :chestnut: 1.5 cups walnuts
-- :tomato: 3 Tbsp tomato paste
+- :tomato: 3 Tbsp [Tomato Paste](tomato-paste.md)
 - :herb: 2 Tbsp Italian seasoning
 - :bell_pepper: 1 Tbsp paprika
 - :herb: 2 tsp sage
@@ -47,7 +47,7 @@ batches).
 
 ### Step 2
 
-Coarsely blend walnuts along with tomato paste until combined.
+Coarsely blend walnuts along with [Tomato Paste](tomato-paste.md) until combined.
 
 ### Step 3
 
@@ -62,7 +62,7 @@ water remains at the bottom of the pan.
 
 ### Step 5
 
-Turn off heat and add walnut and tomato paste mixture. Mix thoroughly to combine.
+Turn off heat and add walnut and [Tomato Paste](tomato-paste.md) mixture. Mix thoroughly to combine.
 
 ### Step 6
 

@@ -31,7 +31,7 @@ hero: assets/images/eggplant-parmesan-pasta.webp
 - :bread: 0.75 cups panko bread crumbs
 - :cup_with_straw: 0.5 cups pasta water
 - :spaghetti: 1 lb short pasta
-- :tomato: 2 Tbsps tomato paste
+- :tomato: 2 Tbsps [Tomato Paste](../ingredients/tomato-paste.md)
 - :cup_with_straw: 1.5 cups water
 
 ## :cooking: Cookware
@@ -53,7 +53,7 @@ Set a large pot of salted water to boil.
 Wipe out the skillet and heat 2 tablespoons of the olive oil over medium. Add finely chopped onion and cook, stirring
 occasionally, until softened, about 2 minutes. Stir in minced garlic until fragrant, 30 seconds. Add eggplant and
 drizzle over the remaining 4 tablespoons olive oil. Season with salt and pepper, and cook, stirring occasionally,
-until eggplant is softened, about 8 minutes. Add in tomato paste and stir constantly until lightly caramelized on the
+until eggplant is softened, about 8 minutes. Add in [Tomato Paste](../ingredients/tomato-paste.md) and stir constantly until lightly caramelized on the
 bottom of the skillet, about 2 minutes. Add crushed tomatoes, basil sprig, dried oregano and 1½ cups of water, and
 bring to a simmer over medium-high heat.
 

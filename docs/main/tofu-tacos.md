@@ -21,7 +21,7 @@ hero: assets/images/tofu-tacos.webp
 - :butter: 16 oz extra firm tofu
 - :olive: 1 Tbsp olive oil
 - :sake: 2 Tbsp [soy sauce][1]
-- :tomato: 2 Tbsp tomato paste
+- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :maple_leaf: 1 Tbsp maple syrup
 - :onion: 1 tsp onion powder
 - :garlic: 1 tsp garlic powder
@@ -53,7 +53,7 @@ In a large bowl, mash patted dry extra firm tofu with a fork.
 
 ### Step 4
 
-Mix olive oil, soy sauce, tomato paste, maple syrup, onion powder, garlic powder, smoked paprika, chili powder, and
+Mix olive oil, soy sauce, [Tomato Paste](../ingredients/tomato-paste.md), maple syrup, onion powder, garlic powder, smoked paprika, chili powder, and
 cumin.
 
 ### Step 5

@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 ---
+
 # Creamy Vegan Polenta with Mushrooms and Kale
 
 ![Creamy Vegan Polenta with Mushrooms and Kale][1]{ loading=lazy }
@@ -26,7 +27,7 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 - :herb: 2 tsp rosemary
 - :garlic: 4 cloves garlic
 - :hot_pepper: 1 pinch red-pepper flakes
-- :tomato: 3 Tbsp tomato paste
+- :tomato: 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :wine_glass: 0.67 cup (150 g) red wine
 - :stew: 1 cup (227 g) [vegetable broth][2]
 - :leafy_green: 2 small bunches curly kale
@@ -57,7 +58,7 @@ if the pan looks dry, until the mushrooms have released their water and are tend
 ### Step 3
 
 Add the garlic and red-pepper flakes, and cook for 1 minute, until fragrant. (Be careful not to let the garlic burn.)
-Add the tomato paste and cook, stirring to incorporate, until it turns a rusty brown color and begins to caramelize on
+Add the [Tomato Paste](../ingredients/tomato-paste.md) and cook, stirring to incorporate, until it turns a rusty brown color and begins to caramelize on
 the bottom of the pan.
 
 ### Step 4
@@ -82,4 +83,3 @@ sprinkled with parsley.
 
 [1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

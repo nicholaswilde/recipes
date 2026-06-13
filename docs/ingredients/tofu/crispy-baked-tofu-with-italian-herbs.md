@@ -22,7 +22,7 @@ hero: assets/images/crispy-baked-tofu-with-italian-herbs.webp
 - :takeout_box: 1.5 Tbsp tamari
 - :olive: 3 Tbsp olive oil
 - :sake: 3 Tbsp balsamic vinegar
-- :tomato: 1.5 Tbsp tomato paste
+- :tomato: 1.5 Tbsp [Tomato Paste](../tomato-paste.md)
 - :garlic: 4.5 cloves garlic
 - :herb: 2 tsp basil
 - :herb: 1.5 tsp oregano
@@ -54,7 +54,7 @@ Crumble the tofu into pieces less than 1/2-inch in size and arrange them on the 
 
 ### Step 4
 
-In a small bowl, whisk the remaining ingredients (tamari, olive oil, balsamic vinegar, tomato paste, garlic, basil,
+In a small bowl, whisk the remaining ingredients (tamari, olive oil, balsamic vinegar, [Tomato Paste](../tomato-paste.md), garlic, basil,
 oregano, thyme, and salt). Pour over the tofu and toss to coat.
 
 ### Step 5

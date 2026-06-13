@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp
 ---
+
 # Slow Cooker Indian-Spiced Chickpeas and Red Potatoes
 
 ![Slow Cooker Indian-Spiced Chickpeas and Red Potatoes][1]{ loading=lazy }
@@ -25,7 +26,7 @@ hero: assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp
 - :hot_pepper: 0.25 tsp red pepper flakes
 - :salt: 1 tsp salt
 - :tomato: 1 15-oz can diced tomatoes
-- :tomato: 2 Tbsp tomato paste
+- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :stew: 1 cup (227 g) [vegetable broth][2]
 - :beans: 2 15-oz cans [chickpeas][3]
 - :sweet_potato: 1 lb red potatoes, cut into 1/2" pieces
@@ -48,7 +49,7 @@ Add coriander, cumin, garam masala, ginger, turmeric, red pepper flakes, and sal
 
 ### Step 3
 
-Add diced tomatoes, tomato paste, and vegetable broth. Stir until combined.
+Add diced tomatoes, [Tomato Paste](../ingredients/tomato-paste.md), and vegetable broth. Stir until combined.
 
 ### Step 4
 
@@ -65,4 +66,3 @@ Ladle into a serve and serve with fresh cilantro and lime wedges for squeezing o
 [1]: <../assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/chickpeas.md>
-

@@ -29,7 +29,7 @@ hero: assets/images/tomate.webp
 - :herb: 1 Tbsp sage
 - :herb: 1 Tbsp thyme
 - :tomato: 1 28-oz can whole tomatoes with juice
-- :tomato: 2 tsp tomato paste
+- :tomato: 2 tsp [Tomato Paste](../../ingredients/tomato-paste.md)
 - :salt: 0.75 tsp salt
 - :salt: 0.25 tsp pepper
 
@@ -55,7 +55,7 @@ Add and cook, stirring, for about 30 seconds minced garlic, chopped basil, rosem
 
 ### Step 4
 
-Stir in whole tomatoes with juice, tomato paste, salt, and pepper.
+Stir in whole tomatoes with juice, [Tomato Paste](../../ingredients/tomato-paste.md), salt, and pepper.
 
 ### Step 5
 

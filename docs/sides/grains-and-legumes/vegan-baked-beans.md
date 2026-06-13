@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/vegan-baked-beans.webp
 ---
+
 # Vegan Baked Beans
 
 ![Vegan Baked Beans][1]{ loading=lazy }
@@ -22,7 +23,7 @@ hero: assets/images/vegan-baked-beans.webp
 - :hot_pepper: 0.5 jalapeno pepper
 - :hot_pepper: 1 green bell pepper
 - :salt: 1 tsp salt
-- :tomato: 6 oz tomato paste
+- :tomato: 6 oz [Tomato Paste](../../ingredients/tomato-paste.md)
 - :honey_pot: 0.25 cup (85 g) molasses
 - :candy: 0.25 cup (55 g) brown sugar
 - :baby_bottle: 1 Tbsp yellow mustard
@@ -79,7 +80,7 @@ Add mixture to crock pot (optional).
 
 ### Step 11
 
-Add tomato paste, molasses, brown sugar, yellow mustard, apple cider vinegar, ground pepper, and chipotle chili powder
+Add [Tomato Paste](../../ingredients/tomato-paste.md), molasses, brown sugar, yellow mustard, apple cider vinegar, ground pepper, and chipotle chili powder
 or chipotle in adobo (alternative) and slow cook on low 2 to 4 hours.
 
 ## :link: Source
@@ -88,4 +89,3 @@ or chipotle in adobo (alternative) and slow cook on low 2 to 4 hours.
 
 [1]: <../../assets/images/vegan-baked-beans.webp>
 [2]: <../../ingredients/vegetable-broth.md>
-

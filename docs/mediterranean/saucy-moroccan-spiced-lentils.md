@@ -22,7 +22,7 @@ hero: assets/images/saucy-moroccan-spiced-lentils.webp
 - :garlic: 3 cloves garlic
 - :onion: 1 medium onion
 - :bell_pepper: 1 large bell pepper
-- :tomato: 2 Tbsp tomato paste
+- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :coconut: 2 Tbsp coconut sugar
 - :salt: 0.5 tsp sea salt
 - :bell_pepper: 1 Tbsp paprika
@@ -47,13 +47,13 @@ simmer (uncovered) for about 20 minutes or until lentils are tender.
 
 ### Step 2
 
-In the meantime, to a food processor or small blender, add garlic*, onion or shallot*, bell pepper, tomato paste,
+In the meantime, to a food processor or small blender, add garlic*, onion or shallot*, bell pepper, [Tomato Paste](../ingredients/tomato-paste.md),
 coconut sugar, sea salt, paprika, cumin, coriander, ginger, turmeric, cayenne pepper, and apple cider vinegar. Mix to
 thoroughly combine.
 
 ### Step 3
 
-Taste and adjust flavor as needed, adding more tomato paste for depth of flavor, spices for more overall flavor
+Taste and adjust flavor as needed, adding more [Tomato Paste](../ingredients/tomato-paste.md) for depth of flavor, spices for more overall flavor
 (especially coriander and paprika), cayenne for heat, coconut sugar for sweetness, apple cider vinegar for acidity, or
 salt for saltiness. Set aside.
 

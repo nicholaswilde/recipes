@@ -22,7 +22,7 @@ hero: assets/images/eggplant-stew.webp
 - :bell_pepper: 1 red or yellow bell pepper
 - :bell_pepper: 2 tsp paprika
 - :garlic: 2 cloves garlic
-- :tomato: 2 Tbsp tomato paste
+- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :tomato: 5 plum tomatoes
 - :falafel: 1 15-oz can chickpeas
 - :salt: 1 tsp salt
@@ -48,7 +48,7 @@ garlic during last few minutes
 
 ### Step 3
 
-Stir in tomato paste, and moisten with a few tablespoons of water.
+Stir in [Tomato Paste](../ingredients/tomato-paste.md), and moisten with a few tablespoons of water.
 
 ### Step 4
 

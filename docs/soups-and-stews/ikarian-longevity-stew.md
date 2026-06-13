@@ -24,7 +24,7 @@ hero: assets/images/ikarian-longevity-stew.webp
     - :onion: 1 large red onion
     - :salt: salt
     - :tomato: 1 large tomato
-    - :tomato: 2 tsp tomato paste
+    - :tomato: 2 tsp [Tomato Paste](../ingredients/tomato-paste.md)
     - :stew: some water or vegetable broth
 
 === "serves 8"
@@ -38,7 +38,7 @@ hero: assets/images/ikarian-longevity-stew.webp
     - :onion: 2 large red onions
     - :salt: salt
     - :tomato: 2 large tomatoes
-    - :tomato: 4 tsp tomato paste
+    - :tomato: 4 tsp [Tomato Paste](../ingredients/tomato-paste.md)
     - :stew: 6 cups water or vegetable broth
 
 ## :pencil: Instructions
@@ -50,7 +50,8 @@ soft (about 12 minutes). Add the black-eyed peas and toss to coat in the oil.
 
 ### Step 2
 
-Add the tomato, tomato paste and enough water or vegetable broth to cover the beans by about an inch. Add the bay leaves.
+Add the tomato, [Tomato Paste](../ingredients/tomato-paste.md) and enough water or vegetable broth to cover
+the beans by about an inch. Add the bay leaves.
 Bring to a boil, reduce heat and simmer until the black-eyed peas are about half way cooked. (Check after 40 minutes,
 but it may take over an hour.)
 

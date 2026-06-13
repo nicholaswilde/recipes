@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp
 ---
+
 # Lentil Mushroom Stew over Mashed Potatoes
 
 ![Lentil Mushroom Stew over Mashed Potatoes][1]{ loading=lazy }
@@ -68,7 +69,7 @@ vegetable broth (for moisture).
 ### Step 6
 
 Once lentils are tender, taste sauce and adjust flavor as needed, adding more salt or coconut aminos for saltiness,
-pepper for spice, or tomato paste for more depth of flavor (optional – we didn’t find it necessary). Turn off heat
+pepper for spice, or [Tomato Paste](../ingredients/tomato-paste.md) for more depth of flavor (optional – we didn’t find it necessary). Turn off heat
 and let the mixture rest so flavors can deepen. Add the 2 Tbsp (30 g // or more as needed) mashed potatoes to the lentil
 mushroom stew and stir in to thicken.
 
@@ -89,4 +90,3 @@ stovetop or in a 350°F (176°C) oven until hot.
 [1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/vegan-parmesan.md>
-
