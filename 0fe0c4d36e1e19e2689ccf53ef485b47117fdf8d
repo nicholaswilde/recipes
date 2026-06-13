@@ -1,0 +1,4 @@
+Task: Update the recipe move workflow
+Summary: Updated scripts/move.sh to convert copied JPEGs to WebP with cwebp (deleting original) and optimize PNGs with oxipng. Rewrites referenced JPEGs to WebPs inside the generated recipe markdown files.
+Files modified/created: scripts/move.sh
+Why: Automates image optimization and WebP conversion for all incoming recipes during the move task.
