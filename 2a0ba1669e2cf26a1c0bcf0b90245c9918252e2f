@@ -1,0 +1,4 @@
+Task: Convert identified recipes in docs/breads/ and docs/breakfast/ to use content tabs
+Summary: Batch converted 28 bread recipe files and 11 breakfast recipe files to use content tabs for ingredients sections containing multiple components or variations.
+Modified files: 39 files in docs/breads/ and docs/breakfast/
+Why: Enhance organization, save vertical space, and keep formatting consistent with the newly established Markdown style guide.
