@@ -1,0 +1,4 @@
+Task: Add markdown reference update logic
+Summary: Updated scripts/optimize-images.sh to escape ampersands in sed replacement paths and broadened the category file regex in grep to support special characters.
+Files modified/created: scripts/optimize-images.sh
+Why: Fixes corruption of image paths containing ampersands (&) and ensures all referenced images are correctly resolved under category sweeps.
