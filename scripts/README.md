@@ -104,12 +104,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 #### [lint-changed.py](lint-changed.py)
 
-* **Usage**: `python3 scripts/lint-changed.py` or `task lint-changed`
+* **Usage**: `uv run python3 scripts/lint-changed.py` or `task lint-changed`
 * **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown and YAML
   files in the git workspace, running the appropriate linters only on those files to save context tokens.
 
 #### [git-summary.py](git-summary.py)
 
-* **Usage**: `python3 scripts/git-summary.py` or `task git-summary`
+* **Usage**: `uv run python3 scripts/git-summary.py` or `task git-summary`
 * **Description**: Prints a highly compact, token-efficient summary of branch status, modified files stat,
   and the last commit, avoiding verbose git status and git diff outputs.

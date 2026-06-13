@@ -22,13 +22,13 @@ responsive presentation.
    - Convert a single recipe file's ingredients to tabs:
 
      ```bash
-     python3 scripts/convert_file.py docs/path/to/recipe.md
+     uv run python3 scripts/convert_file.py docs/path/to/recipe.md
      ```
 
    - Alternatively, batch convert all recipes in a specific category:
 
      ```bash
-     python3 scripts/batch_convert.py <category_filter>
+     uv run python3 scripts/batch_convert.py <category_filter>
      ```
 
 3. **Verify Compliance with style guide**:

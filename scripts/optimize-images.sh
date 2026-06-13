@@ -95,13 +95,8 @@ process_image() {
       TOTAL_COMP_SIZE=$((TOTAL_COMP_SIZE + new_size))
       FILES_PROCESSED=$((FILES_PROCESSED + 1))
     else
-      # Try Pillow as a fallback for corrupted/truncated JPEGs
-      local py_bin="${ROOT_DIR}/.venv/bin/python3"
-      if [ ! -x "$py_bin" ]; then
-        py_bin="python3"
-      fi
-      if "$py_bin" -c "from PIL import Image, ImageFile" &>/dev/null && \
-         "$py_bin" -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('$img_path').convert('RGB').save('$webp_path', 'WEBP', quality=80)" &>/dev/null; then
+      if uv run python3 -c "from PIL import Image, ImageFile" &>/dev/null && \
+         uv run python3 -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('$img_path').convert('RGB').save('$webp_path', 'WEBP', quality=80)" &>/dev/null; then
         local new_size
         new_size=$(wc -c < "$webp_path")
         

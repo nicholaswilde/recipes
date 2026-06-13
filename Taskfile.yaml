@@ -93,12 +93,12 @@ tasks:
   lint-changed:
     desc: Lint only modified/changed files (saves tokens)
     cmds:
-      - python3 scripts/lint-changed.py
+      - uv run python3 scripts/lint-changed.py
 
   git-summary:
     desc: Show a token-efficient summary of git workspace status and changes
     cmds:
-      - python3 scripts/git-summary.py
+      - uv run python3 scripts/git-summary.py
 
   shuck:
     desc: Run shuck shell linter
