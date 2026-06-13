@@ -27,9 +27,9 @@
 - [x] Task: Conductor - User Manual Verification 'Phase 2: Migration Execution and Markdown Updates' (Protocol in workflow.md) (c8ce961)
 
 ## Phase 3: Workflow Integration
-- [ ] Task: Update the recipe move workflow
-    - [ ] Update `scripts/move.sh` to convert `.jpg` files to `.webp` using `cwebp` after copying, and optimize `.png` files using `oxipng`
-    - [ ] Update `scripts/move.sh` to find and replace `.jpg` image links with `.webp` in the newly generated markdown file
+- [x] Task: Update the recipe move workflow (0fe0c4d)
+    - [x] Update `scripts/move.sh` to convert `.jpg` files to `.webp` using `cwebp` after copying, and optimize `.png` files using `oxipng` (0fe0c4d)
+    - [x] Update `scripts/move.sh` to find and replace `.jpg` image links with `.webp` in the newly generated markdown file (0fe0c4d)
 - [ ] Task: Validate integration with a mock recipe
     - [ ] Run a test import/move using a mock `.cook` file and `.jpg` image to verify automated WebP conversion and Markdown updating
     - [ ] Run `git diff` on the test output to verify correctness
