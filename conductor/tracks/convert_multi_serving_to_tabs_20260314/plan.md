@@ -19,6 +19,6 @@ This track converts identified recipes to use Content Tabs for their multiple in
 - [x] Convert identified recipes in `docs/main/`, `docs/lunches/`, `docs/ingredients/` (6d649ef)
 - [x] Convert identified recipes in `docs/sides/` and `docs/soups-and-stews/` (6d649ef)
 
-## Phase 5: Verification & Cleanup
-- [ ] Run `zensical build` and verify all converted pages render correctly.
-- [ ] Perform a final scan to ensure no recipes with multiple "Ingredients" headers were missed.
+## Phase 5: Verification & Cleanup [checkpoint: fddcae4]
+- [x] Run `zensical build` and verify all converted pages render correctly. (fddcae4)
+- [x] Perform a final scan to ensure no recipes with multiple "Ingredients" headers were missed. (fddcae4)
