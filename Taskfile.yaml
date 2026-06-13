@@ -175,6 +175,13 @@ tasks:
     desc: Move recipes markdown file and image, FILES.
     cmds:
       - ./scripts/move.sh {{shellQuote .FILES }}
+  hyperlink-ingredient:
+    desc: Hyperlink an ingredient in a recipe markdown file
+    cmds:
+      - >-
+        uv run python3 scripts/hyperlink-ingredient.py
+        --target {{shellQuote .TARGET}}
+        --ingredient {{shellQuote .INGREDIENT}}
   deg:
     desc: Replace temperatures with degree symbols
     cmds:

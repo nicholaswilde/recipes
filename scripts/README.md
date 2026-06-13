@@ -15,6 +15,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/list-ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
 | `scripts/lint-changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
 | `scripts/git-summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
+| `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 
 ---
 
@@ -55,6 +56,13 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run scripts/fix_broken_links.py`
 * **Description**: Scans all files in `docs/` and automatically resolves broken relative markdown links/images by matching the file basenames against existing files in the repository.
+
+#### [hyperlink-ingredient.py](hyperlink-ingredient.py)
+
+* **Usage**: `uv run python3 scripts/hyperlink-ingredient.py --target <recipe.md> --ingredient "<Name>"` or
+  `task hyperlink-ingredient TARGET=<recipe.md> INGREDIENT="<Name>"`
+* **Description**: Scans the target recipe and automatically replaces raw text occurrences of the specified
+  ingredient with a relative markdown link pointing to its corresponding file in `docs/`.
 
 ---
 
