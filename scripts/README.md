@@ -16,6 +16,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/lint-changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
 | `scripts/git-summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
+| `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 
 ---
 
@@ -63,6 +64,13 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   `task hyperlink-ingredient TARGET=<recipe.md> INGREDIENT="<Name>"`
 * **Description**: Scans the target recipe and automatically replaces raw text occurrences of the specified
   ingredient with a relative markdown link pointing to its corresponding file in `docs/`.
+
+#### [hyperlink-ingredient-global.py](hyperlink-ingredient-global.py)
+
+* **Usage**: `uv run python3 scripts/hyperlink-ingredient-global.py --ingredient "<Name>"` or
+  `task hyperlink-ingredient-global INGREDIENT="<Name>"`
+* **Description**: Scans all recipes in `docs/` and automatically replaces raw text occurrences of the specified
+  ingredient with a relative markdown link pointing to its corresponding file.
 
 ---
 

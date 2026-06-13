@@ -182,6 +182,12 @@ tasks:
         uv run python3 scripts/hyperlink-ingredient.py
         --target {{shellQuote .TARGET}}
         --ingredient {{shellQuote .INGREDIENT}}
+  hyperlink-ingredient-global:
+    desc: Hyperlink an ingredient globally in all recipe markdown files
+    cmds:
+      - >-
+        uv run python3 scripts/hyperlink-ingredient-global.py
+        --ingredient {{shellQuote .INGREDIENT}}
   deg:
     desc: Replace temperatures with degree symbols
     cmds:
