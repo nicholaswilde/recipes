@@ -44,9 +44,12 @@ update_references() {
   local new_name="$2"
   local search_dir="$3"
   
+  # Escape & in the replacement string for sed
+  local escaped_new_name="${new_name//&/\\&}"
+  
   # Use grep -rl to find files referencing the old image, then update them
   grep -rl "assets/images/${orig_name}" "$search_dir" 2>/dev/null | while read -r file; do
-    sed -i "s|assets/images/${orig_name}|assets/images/${new_name}|g" "$file"
+    sed -i "s|assets/images/${orig_name}|assets/images/${escaped_new_name}|g" "$file"
   done
 }
 
@@ -127,7 +130,7 @@ if [ -n "$CATEGORY" ]; then
   
   # Extract image names referenced in these markdown files
   # Match assets/images/filename.ext
-  mapfile -t referenced_images < <(grep -o -h -E "assets/images/[a-zA-Z0-9_.-]+\.(jpg|jpeg|png|JPG|JPEG|PNG)" "${md_files[@]}" 2>/dev/null | sed 's|assets/images/||' | sort -u)
+  mapfile -t referenced_images < <(grep -o -h -E "assets/images/[^)\"'<>[:space:]]+\.(jpg|jpeg|png|JPG|JPEG|PNG)" "${md_files[@]}" 2>/dev/null | sed 's|assets/images/||' | sort -u)
   
   for img in "${referenced_images[@]}"; do
     process_image "${IMAGES_PATH}/${img}"
