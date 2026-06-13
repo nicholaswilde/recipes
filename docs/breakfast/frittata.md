@@ -16,20 +16,22 @@ hero: assets/images/frittata.webp
 |:----------------------------------:|:-----------------------: |
 | 3 | 15 minutes |
 
-## :salt: Ingredients - Frittata
+## :salt: Ingredients
 
-- :egg: 6 eggs
-- :salt: some salt
-- :salt: some pepper
-- :olive: 0.5 Tbsp olive oil
+=== "Frittata"
 
-## :salt: Ingredients - Fillings
+    - :egg: 6 eggs
+    - :salt: some salt
+    - :salt: some pepper
+    - :olive: 0.5 Tbsp olive oil
 
-- :eggplant: 2 cups diced cooked vegetables (optional)
-- :cheese_wedge: 2 cups cheese (optional)
-- :poultry_leg: 2 cups chicken (optional)
-- :shrimp: 2 cups seafood (optional)
-- :meat_on_bone: 2 cups ham (optional)
+=== "Fillings"
+
+    - :eggplant: 2 cups diced cooked vegetables (optional)
+    - :cheese_wedge: 2 cups cheese (optional)
+    - :poultry_leg: 2 cups chicken (optional)
+    - :shrimp: 2 cups seafood (optional)
+    - :meat_on_bone: 2 cups ham (optional)
 
 ## :cooking: Cookware
 

@@ -14,28 +14,30 @@ hero: assets/images/rosca-de-reyes.webp
 |:----------------------------------:|:-----------------------: |
 | 16 | 3.62 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :hotsprings: 0.5 cup (114 g) lukewarm water
-- :microbe: 7 g yeast
-- :ear_of_rice: 565 g all-purpose flour
-- :egg: 3 large eggs
-- :egg: 3 egg yolks
-- :candy: 150 g granulated sugar
-- :orange_circle: 1.5 Tbsp orange extract
-- :orange_circle: 1 orange zest
-- :salt: 0.5 tsp salt
-- :butter: 169 g unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Decoration
+    - :hotsprings: 0.5 cup (114 g) lukewarm water
+    - :microbe: 7 g yeast
+    - :ear_of_rice: 565 g all-purpose flour
+    - :egg: 3 large eggs
+    - :egg: 3 egg yolks
+    - :candy: 150 g granulated sugar
+    - :orange_circle: 1.5 Tbsp orange extract
+    - :orange_circle: 1 orange zest
+    - :salt: 0.5 tsp salt
+    - :butter: 169 g unsalted butter
 
-- :butter: 6 Tbsp margarine
-- :candy: 0.5 cup (99 g) confectioners' sugar
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
-- :egg: 1 egg yolk
-- :egg: 1 egg
-- :glass_of_milk: 1 Tbsp milk or water
-- :cherries: some dried figs, candied citron, quince paste stripes, orange peels or cherries
+=== "Decoration"
+
+    - :butter: 6 Tbsp margarine
+    - :candy: 0.5 cup (99 g) confectioners' sugar
+    - :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+    - :egg: 1 egg yolk
+    - :egg: 1 egg
+    - :glass_of_milk: 1 Tbsp milk or water
+    - :cherries: some dried figs, candied citron, quince paste stripes, orange peels or cherries
 
 ## :cooking: Cookware
 

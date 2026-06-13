@@ -15,18 +15,20 @@ hero: assets/images/french-bread.webp
 |:----------------------------------:|:-----------------------: |
 | 2 loaves | 19.88 hours |
 
-## :salt: Ingredients - Preferment
+## :salt: Ingredients
 
-- :ear_of_rice: 222 g all-purpose flour
-- :microbe: 0.25 generous tsp instant yeast
-- :ice_cube: 222 g cool water
+=== "Preferment"
 
-## :salt: Ingredients - Dough
+    - :ear_of_rice: 222 g all-purpose flour
+    - :microbe: 0.25 generous tsp instant yeast
+    - :ice_cube: 222 g cool water
 
-- :hot_springs: 319 g warm water
-- :ear_of_rice: 519 g all-purpose flour
-- :salt: 15 g salt
-- :microbe: 0.5 scant tsp instant yeast
+=== "Dough"
+
+    - :hot_springs: 319 g warm water
+    - :ear_of_rice: 519 g all-purpose flour
+    - :salt: 15 g salt
+    - :microbe: 0.5 scant tsp instant yeast
 
 ## :cooking: Cookware
 

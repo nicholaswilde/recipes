@@ -14,27 +14,29 @@ hero: assets/images/another-lemon-blueberry-bread.webp
 |:----------------------------------:|:-----------------------: |
 | 10 | 1.58 hours |
 
-## :salt: Ingredients - Bread
+## :salt: Ingredients
 
-- :ear_of_rice: 1.5 (180 g) cups all-purpose flour
-- :dash: 1 tsp baking powder
-- :salt: 1 tsp salt
-- :lemon: 2 tsp lemon zest
-- :candy: 1 cup (198 g) granulated sugar
-- :egg: 2 eggs
-- :butter: 0.33 cup (38 g) unsalted butter
-- :icecream: 0.5 tsp vanilla
-- :lemon: 2 Tbsp lemon juice
-- :glass_of_milk: 0.5 cup (113 g) whole milk
-- :blue_circle: 1 cup (142 g) frozen blueberries
-- :ear_of_rice: 1 Tbsp all-purpose flour
+=== "Bread"
 
-## :salt: Ingredients - Glaze
+    - :ear_of_rice: 1.5 (180 g) cups all-purpose flour
+    - :dash: 1 tsp baking powder
+    - :salt: 1 tsp salt
+    - :lemon: 2 tsp lemon zest
+    - :candy: 1 cup (198 g) granulated sugar
+    - :egg: 2 eggs
+    - :butter: 0.33 cup (38 g) unsalted butter
+    - :icecream: 0.5 tsp vanilla
+    - :lemon: 2 Tbsp lemon juice
+    - :glass_of_milk: 0.5 cup (113 g) whole milk
+    - :blue_circle: 1 cup (142 g) frozen blueberries
+    - :ear_of_rice: 1 Tbsp all-purpose flour
 
-- :butter: 2 Tbsp (28 g) unsalted butter
-- :candy: 0.5 cup (57 g) confectioners' sugar
-- :lemon: 2 Tbsp lemon juice
-- :icecream: 0.5 tsp vanilla
+=== "Glaze"
+
+    - :butter: 2 Tbsp (28 g) unsalted butter
+    - :candy: 0.5 cup (57 g) confectioners' sugar
+    - :lemon: 2 Tbsp lemon juice
+    - :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

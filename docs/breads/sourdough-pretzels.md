@@ -15,25 +15,27 @@ hero: assets/images/sourdough-pretzels.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 2.53 hours |
 
-## :salt: Ingredients - Pretzels
+## :salt: Ingredients
 
-- :droplet: 198 g water
-- :microbe: 227 g [sourdough starter][2]
-- :ear_of_rice: 360 g bread flour
-- :glass_of_milk: 28 g dry milk
-- :candy: 14 g granulated sugar
-- :ear_of_rice: 18 g non-diastatic malt powder (alternative)
-- :butter: 1 Tbsp unsalted butter or vegetable oil
-- :salt: 9 g salt
-- :microbe: 2 tsp instant yeast
+=== "Pretzels"
 
-## :salt: Ingredients - Topping
+    - :droplet: 198 g water
+    - :microbe: 227 g [sourdough starter][2]
+    - :ear_of_rice: 360 g bread flour
+    - :glass_of_milk: 28 g dry milk
+    - :candy: 14 g granulated sugar
+    - :ear_of_rice: 18 g non-diastatic malt powder (alternative)
+    - :butter: 1 Tbsp unsalted butter or vegetable oil
+    - :salt: 9 g salt
+    - :microbe: 2 tsp instant yeast
 
-- :candy: 14 g granulated sugar
-- :ear_of_rice: 18 g non-diastatic malt powder (alternative)
-- :droplet: 28 g water
-- :salt: some pretzel salt
-- :butter: 28 g melted unsalted butter
+=== "Topping"
+
+    - :candy: 14 g granulated sugar
+    - :ear_of_rice: 18 g non-diastatic malt powder (alternative)
+    - :droplet: 28 g water
+    - :salt: some pretzel salt
+    - :butter: 28 g melted unsalted butter
 
 ## :cooking: Cookware
 

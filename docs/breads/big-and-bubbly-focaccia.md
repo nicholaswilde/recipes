@@ -17,20 +17,22 @@ hero: assets/images/big-and-bubbly-focaccia.webp
 |:----------------------------------:|:-----------------------: |
 | 1 8" square | 4.20 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :salt: 9 g salt
-- :candy: 5 g granulated sugar
-- :microbe: 1 tsp yeast
-- :hotsprings: 284 g lukewarm water
-- :olive: 18 g olive oil
+=== "Dough"
 
-## :salt: Ingredients - Assembly
+    - :ear_of_rice: 360 g all-purpose flour
+    - :salt: 9 g salt
+    - :candy: 5 g granulated sugar
+    - :microbe: 1 tsp yeast
+    - :hotsprings: 284 g lukewarm water
+    - :olive: 18 g olive oil
 
-- :olive: 13 g olive oil
-- :olive: 13 g olive oil
-- :salt: some flaky salt
+=== "Assembly"
+
+    - :olive: 13 g olive oil
+    - :olive: 13 g olive oil
+    - :salt: some flaky salt
 
 ## :cooking: Cookware
 

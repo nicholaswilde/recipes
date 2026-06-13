@@ -17,28 +17,30 @@ hero: assets/images/apple-cider-doughnuts.webp
 |:----------------------------------:|:-----------------------: |
 | 10 | 3.50 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :green_apple: 485 g apple cider
-- :butter: 128 g [apple butter][2]
-- :rice: 113 g sour cream
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 455 g all-purpose flour
-- :salt: 1 tsp kosher salt
-- :dash: 2.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :custard: 1 tsp cinnamon
-- :chestnut: 0.13 tsp nutmeg
-- :maple_leaf: 53 g brown sugar
-- :candy: 50 g granulated sugar
-- :egg: 2 eggs
-- :butter: 56 g melted unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Coating
+    - :green_apple: 485 g apple cider
+    - :butter: 128 g [apple butter][2]
+    - :rice: 113 g sour cream
+    - :icecream: 2 tsp vanilla
+    - :ear_of_rice: 455 g all-purpose flour
+    - :salt: 1 tsp kosher salt
+    - :dash: 2.5 tsp baking powder
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :custard: 1 tsp cinnamon
+    - :chestnut: 0.13 tsp nutmeg
+    - :maple_leaf: 53 g brown sugar
+    - :candy: 50 g granulated sugar
+    - :egg: 2 eggs
+    - :butter: 56 g melted unsalted butter
 
-- :candy: 198 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :oil_drum: some vegetable oil
+=== "Coating"
+
+    - :candy: 198 g granulated sugar
+    - :custard: 1 Tbsp cinnamon
+    - :oil_drum: some vegetable oil
 
 ## :cooking: Cookware
 

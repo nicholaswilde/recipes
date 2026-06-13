@@ -15,22 +15,24 @@ hero: assets/images/naan.webp
 |:----------------------------------:|:-----------------------: |
 | 8 | 1.33 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 180 g all-purpose flour
-- :ear_of_rice: 90 g bread flour
-- :hot_springs: 142 g warm water
-- :rice: 71 g full-fat plain Greek yogurt
-- :butter: 28 g ghee or unsalted butter
-- :microbe: 1.5 tsp instant yeast
-- :candy: 1 tsp granulated sugar
-- :salt: 2 tsp salt
+=== "Dough"
 
-## :salt: Ingredients - Topping
+    - :ear_of_rice: 180 g all-purpose flour
+    - :ear_of_rice: 90 g bread flour
+    - :hot_springs: 142 g warm water
+    - :rice: 71 g full-fat plain Greek yogurt
+    - :butter: 28 g ghee or unsalted butter
+    - :microbe: 1.5 tsp instant yeast
+    - :candy: 1 tsp granulated sugar
+    - :salt: 2 tsp salt
 
-- :butter: 28 g ghee or butter
-- :seedling: 2 tsp nigella seeds (optional)
-- :herb: 0.25 cup cilantro
+=== "Topping"
+
+    - :butter: 28 g ghee or butter
+    - :seedling: 2 tsp nigella seeds (optional)
+    - :herb: 0.25 cup cilantro
 
 ## :cooking: Cookware
 

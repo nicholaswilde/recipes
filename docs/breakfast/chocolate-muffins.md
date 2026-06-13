@@ -16,28 +16,30 @@ hero: assets/images/chocolate-muffins.webp
 |:----------------------------------:|:-----------------------: |
 | 9 jumbo muffins | 25 minutes |
 
-## :salt: Ingredients - Muffins
+## :salt: Ingredients
 
-- :butter: 113 g unsalted butter
-- :candy: 1 cup (198 g) granulated sugar
-- :oil_drum: 0.5 cup canola oil
-- :icecream: 1 Tbsp vanilla
-- :egg: 3 large eggs
-- :chocolate_bar: 1 3.9-oz box dry chocolate pudding
-- :ear_of_rice: 1.5 cups cake flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 1.5 tsp baking powder
-- :salt: 1.5 tsp kosher salt
-- :chocolate_bar: 0.5 cup dark cocoa powder
-- :rice: 1 cup (227 g) sour cream
-- :glass_of_milk: 0.33 cup (75 g) buttermilk
-- :chocolate_bar: 1.5 cups semi-sweet chocolate chunks
+=== "Muffins"
 
-## :salt: Ingredients - Ganache
+    - :butter: 113 g unsalted butter
+    - :candy: 1 cup (198 g) granulated sugar
+    - :oil_drum: 0.5 cup canola oil
+    - :icecream: 1 Tbsp vanilla
+    - :egg: 3 large eggs
+    - :chocolate_bar: 1 3.9-oz box dry chocolate pudding
+    - :ear_of_rice: 1.5 cups cake flour
+    - :cup_with_straw: 1 tsp baking soda
+    - :dash: 1.5 tsp baking powder
+    - :salt: 1.5 tsp kosher salt
+    - :chocolate_bar: 0.5 cup dark cocoa powder
+    - :rice: 1 cup (227 g) sour cream
+    - :glass_of_milk: 0.33 cup (75 g) buttermilk
+    - :chocolate_bar: 1.5 cups semi-sweet chocolate chunks
 
-- :chocolate_bar: 1.25 cups (212 g) bittersweet chocolate chips
-- :glass_of_milk: 1 14-oz can condensed milk
-- :icecream: 0.25 tsp vanilla
+=== "Ganache"
+
+    - :chocolate_bar: 1.25 cups (212 g) bittersweet chocolate chips
+    - :glass_of_milk: 1 14-oz can condensed milk
+    - :icecream: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

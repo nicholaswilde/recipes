@@ -15,24 +15,26 @@ hero: assets/images/yeasted-doughnuts-with-chocolate-frosting.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.75 hours |
 
-## :salt: Ingredients - Doughnuts
+## :salt: Ingredients
 
-- :ear_of_rice: 4.5 cups (540 g) all-purpose flour
-- :candy: 0.5 cup (99 g) sugar
-- :microbe: 1 tsp instant yeast
-- :glass_of_milk: 0.2 cups milk
-- :egg: 1 large egg
-- :salt: 1.5 tsp salt
-- :butter: 8 Tbsp unsalted butter
-- :oil_drum: 2 qts vegetable oil
+=== "Doughnuts"
 
-## :salt: Ingredients - Frosting
+    - :ear_of_rice: 4.5 cups (540 g) all-purpose flour
+    - :candy: 0.5 cup (99 g) sugar
+    - :microbe: 1 tsp instant yeast
+    - :glass_of_milk: 0.2 cups milk
+    - :egg: 1 large egg
+    - :salt: 1.5 tsp salt
+    - :butter: 8 Tbsp unsalted butter
+    - :oil_drum: 2 qts vegetable oil
 
-- :chocolate_bar: 4 oz bittersweet chocolate
-- :droplet: 0.5 cup (114 g) water
-- :rice: 2 cups (396 g) confectioners' sugar
-- :chocolate_bar: 2 Tbsp unsweetened cocoa powder
-- :salt: 1 pinch salt
+=== "Frosting"
+
+    - :chocolate_bar: 4 oz bittersweet chocolate
+    - :droplet: 0.5 cup (114 g) water
+    - :rice: 2 cups (396 g) confectioners' sugar
+    - :chocolate_bar: 2 Tbsp unsweetened cocoa powder
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

@@ -18,19 +18,21 @@ hero: assets/images/vermont-sourdough.webp
 
 The [Sourdough Calculator][3] may be used to generate a recipe.
 
-## :salt: Ingredients - Liquid Levain
+## :salt: Ingredients
 
-- :ear_of_rice: 135 g all-purpose flour
-- :droplet: 170 g cool water
-- :microbe: 14 g ripe [sourdough starter][2]
+=== "Liquid Levain"
 
-## :salt: Ingredients - Dough
+    - :ear_of_rice: 135 g all-purpose flour
+    - :droplet: 170 g cool water
+    - :microbe: 14 g ripe [sourdough starter][2]
 
-- :ear_of_rice: 660 g all-purpose flour
-- :ear_of_rice: 93 g whole wheat flour
-- :droplet: 440 g water
-- :microbe: all of the levain
-- :salt: 18 g salt
+=== "Dough"
+
+    - :ear_of_rice: 660 g all-purpose flour
+    - :ear_of_rice: 93 g whole wheat flour
+    - :droplet: 440 g water
+    - :microbe: all of the levain
+    - :salt: 18 g salt
 
 ## :salt: Mix Ins (Optional)
 

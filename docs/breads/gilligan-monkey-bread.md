@@ -14,18 +14,20 @@ hero: assets/images/gilligan-monkey-bread.png
 |:-----------------------: |
 | 35 minutes |
 
-## :salt: Ingredients - Bread
+## :salt: Ingredients
 
-- :bread: 2 Bridgeford loaves
-- :butter: 114 g butter
-- :candy: 198 g [cinnamon and sugar][2]
-- :chestnut: 198 g Pecans or walnuts (optional)
+=== "Bread"
 
-## :salt: Ingredients - Glaze
+    - :bread: 2 Bridgeford loaves
+    - :butter: 114 g butter
+    - :candy: 198 g [cinnamon and sugar][2]
+    - :chestnut: 198 g Pecans or walnuts (optional)
 
-- :candy: 114 g confectioners' sugar (optional)
-- :milk: 2 Tbsp milk (optional)
-- :icecream: 1 tsp vanilla (optional)
+=== "Glaze"
+
+    - :candy: 114 g confectioners' sugar (optional)
+    - :milk: 2 Tbsp milk (optional)
+    - :icecream: 1 tsp vanilla (optional)
 
 ## :cooking: Cookware
 

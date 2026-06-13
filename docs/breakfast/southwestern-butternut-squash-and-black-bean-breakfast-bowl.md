@@ -15,34 +15,36 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 |:----------------------------------:|:-----------------------: |
 | 2 | 43 minutes |
 
-## :salt: Ingredients - Squash
+## :salt: Ingredients
 
-- :sweet_potato: 3 cups butternut squash
-- :oil_drum: 1 Tbsp vegetable oil
-- :salt: 0.5 tsp salt
-- :salt: 0.5 tsp pepper
-- :garlic: 0.13 tsp garlic powder
+=== "Squash"
 
-## :salt: Ingredients - Beans
+    - :sweet_potato: 3 cups butternut squash
+    - :oil_drum: 1 Tbsp vegetable oil
+    - :salt: 0.5 tsp salt
+    - :salt: 0.5 tsp pepper
+    - :garlic: 0.13 tsp garlic powder
 
-- :canned_food: 1 15-oz can [black beans][3]
-- :taco: 0.25 cup [enchilada sauce][2]
+=== "Beans"
 
-## :salt: Ingredients - Veggies
+    - :canned_food: 1 15-oz can [black beans][3]
+    - :taco: 0.25 cup [enchilada sauce][2]
 
-- :oil_drum: 0.5 Tbsp vegetable oil
-- :hot_pepper: 0.25 tsp red pepper flakes (optional)
-- :leafy_green: 5 cups baby spinach
+=== "Veggies"
 
-## :salt: Ingredients - Eggs
+    - :oil_drum: 0.5 Tbsp vegetable oil
+    - :hot_pepper: 0.25 tsp red pepper flakes (optional)
+    - :leafy_green: 5 cups baby spinach
 
-- :oil_drum: 0.5 Tbsp vegetable oil
-- :egg: 4 eggs
-- :salt: 0.13 tsp salt
+=== "Eggs"
 
-## :salt: Ingredients - For Serving
+    - :oil_drum: 0.5 Tbsp vegetable oil
+    - :egg: 4 eggs
+    - :salt: 0.13 tsp salt
 
-- :taco: 0.25 cup [enchilada sauce][2]
+=== "For Serving"
+
+    - :taco: 0.25 cup [enchilada sauce][2]
 
 ## :cooking: Cookware
 

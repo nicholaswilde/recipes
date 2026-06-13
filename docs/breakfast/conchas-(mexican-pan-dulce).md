@@ -14,27 +14,29 @@ hero: assets/images/conchas-(mexican-pan-dulce).webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 2.13 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :droplet: 3 Tbsp warm water
-- :microbe: 2.5 tsp active dry yeast
-- :carrot: 1 Tbsp vegetable oil
-- :butter: 0.5 cup (114 g) melted butter
-- :candy: 0.33 cup (65 g) granulated sugar
-- :glass_of_milk: 0.75 cup [evaporated][1] or whole milk
-- :salt: 2 tsp salt
-- :icecream: 2 tsp vanilla
-- :custard: 2 tsp ground cinnamon
-- :egg: 2 large eggs
-- :ear_of_rice: 4 cups (480 g) all-purpose flour
+=== "Dough"
 
-## :salt: Ingredients - Topping
+    - :droplet: 3 Tbsp warm water
+    - :microbe: 2.5 tsp active dry yeast
+    - :carrot: 1 Tbsp vegetable oil
+    - :butter: 0.5 cup (114 g) melted butter
+    - :candy: 0.33 cup (65 g) granulated sugar
+    - :glass_of_milk: 0.75 cup [evaporated][1] or whole milk
+    - :salt: 2 tsp salt
+    - :icecream: 2 tsp vanilla
+    - :custard: 2 tsp ground cinnamon
+    - :egg: 2 large eggs
+    - :ear_of_rice: 4 cups (480 g) all-purpose flour
 
-- :butter: 0.5 cup (114 g) unsalted butter
-- :candy: 0.67 cup (133 g) granulated sugar
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :icecream: 1 tsp vanilla
-- :chocolate_bar: 2 tsp unsweetened cocoa powder
+=== "Topping"
+
+    - :butter: 0.5 cup (114 g) unsalted butter
+    - :candy: 0.67 cup (133 g) granulated sugar
+    - :ear_of_rice: 1 cup (120 g) all-purpose flour
+    - :icecream: 1 tsp vanilla
+    - :chocolate_bar: 2 tsp unsweetened cocoa powder
 
 ## :cooking: Cookware
 

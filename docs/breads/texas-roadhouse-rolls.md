@@ -15,23 +15,25 @@ hero: assets/images/texas-roadhouse-rolls.webp
 |:----------------------------------:|:-----------------------: |
 | 24 | 2.33 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :glass_of_milk: 340 g whole milk
-- :candy: 50 g granulated sugar
-- :microbe: 0.25 oz active dry yeast
-- :egg: 3 large eggs
-- :butter: 4 Tbsp butter
-- :salt: 4 tsp salt
-- :ear_of_rice: 810 g all-purpose flour
+=== "Dough"
 
-## :salt: Ingredients - Cinnamon-Honey Butter
+    - :glass_of_milk: 340 g whole milk
+    - :candy: 50 g granulated sugar
+    - :microbe: 0.25 oz active dry yeast
+    - :egg: 3 large eggs
+    - :butter: 4 Tbsp butter
+    - :salt: 4 tsp salt
+    - :ear_of_rice: 810 g all-purpose flour
 
-- :candy: 1 Tbsp confectioners’ sugar
-- :honey_pot: 1 tsp honey
-- :salt: 1 tsp salt
-- :custard: 0.75 tsp cinnamon
-- :butter: 0.75 cup (170 g) butter
+=== "Cinnamon-Honey Butter"
+
+    - :candy: 1 Tbsp confectioners’ sugar
+    - :honey_pot: 1 tsp honey
+    - :salt: 1 tsp salt
+    - :custard: 0.75 tsp cinnamon
+    - :butter: 0.75 cup (170 g) butter
 
 ## :cooking: Cookware
 

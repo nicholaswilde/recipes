@@ -16,25 +16,27 @@ hero: assets/images/french-omelet.webp
 |:----------------------------------:|:-----------------------: |
 | 1 | 10 minutes |
 
-## :salt: Ingredients - Omelet
+## :salt: Ingredients
 
-- :egg: 2 large eggs
-- :salt: 0.13 tsp salt
-- :salt: 1 pinch pepper
-- :butter: 1 Tbsp unsalted butter
+=== "Omelet"
 
-## :salt: Ingredients - Fillings
+    - :egg: 2 large eggs
+    - :salt: 0.13 tsp salt
+    - :salt: 1 pinch pepper
+    - :butter: 1 Tbsp unsalted butter
 
-- :herb: some chives
-- :herb: some parsley
-- :eggplant: some [ratatouille provençale][1]
-- :mushroom: some creamed mushrooms
-- :avocado: some guacamole and salsa fresca
-- :cheese_wedge: some ricotta or goat cheese mixed with tomatoes and herbs
-- :olive: some chopped olives and sour cream
-- :mushroom: some duxelles
-- :onion: some caramelized onions
-- :cucumber: some sautéed zucchini or asparagus tips
+=== "Fillings"
+
+    - :herb: some chives
+    - :herb: some parsley
+    - :eggplant: some [ratatouille provençale][1]
+    - :mushroom: some creamed mushrooms
+    - :avocado: some guacamole and salsa fresca
+    - :cheese_wedge: some ricotta or goat cheese mixed with tomatoes and herbs
+    - :olive: some chopped olives and sour cream
+    - :mushroom: some duxelles
+    - :onion: some caramelized onions
+    - :cucumber: some sautéed zucchini or asparagus tips
 
 ## :cooking: Cookware
 

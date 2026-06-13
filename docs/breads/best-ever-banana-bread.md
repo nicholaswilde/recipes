@@ -15,26 +15,28 @@ hero: assets/images/best-ever-banana-bread.webp
 |:-----------------------: |
 | 60 minutes |
 
-## :salt: Ingredients - Bread
+## :salt: Ingredients
 
-- :candy: 1.25 cups (248 g) granulated sugar
-- :butter: 0.5 cup (113 g) unsalted butter
-- :egg: 2 eggs
-- :banana: 1.5 cups (3-4) banana
-- :glass_of_milk: 0.5 cup (114 g) [buttermilk][1]
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 1 tsp salt
-- :chestnut: 1 cup nuts (optional)
+=== "Bread"
 
-## :salt: Ingredients - Streusel
+    - :candy: 1.25 cups (248 g) granulated sugar
+    - :butter: 0.5 cup (113 g) unsalted butter
+    - :egg: 2 eggs
+    - :banana: 1.5 cups (3-4) banana
+    - :glass_of_milk: 0.5 cup (114 g) [buttermilk][1]
+    - :icecream: 1 tsp vanilla
+    - :ear_of_rice: 2.5 cups (300 g) all-purpose flour
+    - :cup_with_straw: 1 tsp baking soda
+    - :salt: 1 tsp salt
+    - :chestnut: 1 cup nuts (optional)
 
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :salt: 0.25 tsp salt
-- :butter: 4 Tbsp (57 g) melted butter
-- :maple_leaf: 0.5 cup (107 g) brown sugar
-- :custard: 1 tsp cinnamon
+=== "Streusel"
+
+    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :salt: 0.25 tsp salt
+    - :butter: 4 Tbsp (57 g) melted butter
+    - :maple_leaf: 0.5 cup (107 g) brown sugar
+    - :custard: 1 tsp cinnamon
 
 ## :cooking: Cookware
 

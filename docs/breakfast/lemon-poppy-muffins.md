@@ -15,25 +15,27 @@ hero: assets/images/lemon-poppy-muffins.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 25 minutes |
 
-## :salt: Ingredients - Muffins
+## :salt: Ingredients
 
-- :candy: 0.67 cup (133 g) granulated sugar
-- :lemon: 1 lemon zest
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :dash: 2 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :salt: 0.25 tsp salt
-- :rice: 0.75 cup (170 g) sour cream
-- :egg: 2 large eggs
-- :icecream: 1 tsp vanilla
-- :lemon: 1 lemon juice
-- :butter: 1 stick melted and cooled butter
-- :seedling: 2 Tbsp poppy seeds
+=== "Muffins"
 
-## :salt: Ingredients - Icing
+    - :candy: 0.67 cup (133 g) granulated sugar
+    - :lemon: 1 lemon zest
+    - :ear_of_rice: 2 cups (240 g) all-purpose flour
+    - :dash: 2 tsp baking powder
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :salt: 0.25 tsp salt
+    - :rice: 0.75 cup (170 g) sour cream
+    - :egg: 2 large eggs
+    - :icecream: 1 tsp vanilla
+    - :lemon: 1 lemon juice
+    - :butter: 1 stick melted and cooled butter
+    - :seedling: 2 Tbsp poppy seeds
 
-- :candy: 1 cup (198 g) confectioners' sugar
-- :lemon: 3 Tbsp lemon juice
+=== "Icing"
+
+    - :candy: 1 cup (198 g) confectioners' sugar
+    - :lemon: 3 Tbsp lemon juice
 
 ## :cooking: Cookware
 

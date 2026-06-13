@@ -15,20 +15,22 @@ hero: assets/images/ciabatta.webp
 |:----------------------------------:|:-----------------------: |
 | 2 loaves | 18.63 hours |
 
-## :salt: Ingredients - Biga
+## :salt: Ingredients
 
-- :ear_of_rice: 180 g all-purpose flour
-- :microbe: 0.25 tsp instant yeast
-- :droplet: 114 g water
+=== "Biga"
 
-## :salt: Ingredients - Dough
+    - :ear_of_rice: 180 g all-purpose flour
+    - :microbe: 0.25 tsp instant yeast
+    - :droplet: 114 g water
 
-- :microbe: 1 tsp instant yeast
-- :glass_of_milk: 2 tsp nonfat dry milk or 38 g milk
-- :salt: 1.5 tsp salt
-- :droplet: 213 g water or 175 g
-- :olive: 11 g olive oil
-- :ear_of_rice: 240 g all-purpose flour
+=== "Dough"
+
+    - :microbe: 1 tsp instant yeast
+    - :glass_of_milk: 2 tsp nonfat dry milk or 38 g milk
+    - :salt: 1.5 tsp salt
+    - :droplet: 213 g water or 175 g
+    - :olive: 11 g olive oil
+    - :ear_of_rice: 240 g all-purpose flour
 
 ## :cooking: Cookware
 

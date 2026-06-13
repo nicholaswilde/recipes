@@ -15,28 +15,30 @@ hero: assets/images/brioche.webp
 |:----------------------------------:|:-----------------------: |
 | 1 large loaf | 10.03 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 330 g all-purpose flour
-- :glass_of_milk: 28 g dry milk
-- :salt: 8 g salt
-- :microbe: 1 Tbsp instant yeast
-- :egg: 3 large eggs
-- :ice_cube: 57 g water
-- :candy: 35 g granulated sugar
-- :butter: 142 g unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Glaze (optional)
+    - :ear_of_rice: 330 g all-purpose flour
+    - :glass_of_milk: 28 g dry milk
+    - :salt: 8 g salt
+    - :microbe: 1 Tbsp instant yeast
+    - :egg: 3 large eggs
+    - :ice_cube: 57 g water
+    - :candy: 35 g granulated sugar
+    - :butter: 142 g unsalted butter
 
-- :candy: 3 Tbsp confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :salt: 1 tsp salt
-- :icecream: 2 tsp heavy cream
+=== "Glaze (optional)"
 
-## :salt: Ingredients - Braided Loaf
+    - :candy: 3 Tbsp confectioners' sugar
+    - :icecream: 1 tsp vanilla
+    - :salt: 1 tsp salt
+    - :icecream: 2 tsp heavy cream
 
-- :egg: 1 egg yolk (optional)
-- :oyster: some pearl sugar or sparkling white sugar (optional)
+=== "Braided Loaf"
+
+    - :egg: 1 egg yolk (optional)
+    - :oyster: some pearl sugar or sparkling white sugar (optional)
 
 ## :cooking: Cookware
 

@@ -16,38 +16,40 @@ hero: assets/images/cinnamon-raisin-sourdough-bread.webp
 |:----------------------------------:|:-----------------------: |
 | 1 loaf | 3.75 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :microbe: 113 g [sourdough starter][2]
-- :microbe: 2.5 tsp instant yeast
-- :candy: 1 Tbsp granulated sugar
-- :salt: 8 g salt
-- :egg: 1 large egg
-- :butter: 71 g unsalted butter
-- :droplet: 152 g water
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 360 g all-purpose flour
+    - :microbe: 113 g [sourdough starter][2]
+    - :microbe: 2.5 tsp instant yeast
+    - :candy: 1 Tbsp granulated sugar
+    - :salt: 8 g salt
+    - :egg: 1 large egg
+    - :butter: 71 g unsalted butter
+    - :droplet: 152 g water
 
-=== "serves 1"
+=== "Filling"
 
-    - :candy: 50 g granulated sugar
-    - :custard: 1.5 tsp cinnamon
-    - :ear_of_rice: 2 tsp all-purpose flour
-    - :egg: 1 egg
-    - :droplet: 1 Tbsp water
-    - :grapes: 74 g raisins
-    - :butter: some unsalted butter (optional)
+    === "serves 1"
 
-=== "serves 2"
+        - :candy: 50 g granulated sugar
+        - :custard: 1.5 tsp cinnamon
+        - :ear_of_rice: 2 tsp all-purpose flour
+        - :egg: 1 egg
+        - :droplet: 1 Tbsp water
+        - :grapes: 74 g raisins
+        - :butter: some unsalted butter (optional)
 
-    - :candy: 100 g granulated sugar
-    - :custard: 3 tsp cinnamon
-    - :ear_of_rice: 4 tsp all-purpose flour
-    - :egg: 1 egg
-    - :droplet: 1 Tbsp water
-    - :grapes: 148 g raisins
-    - :butter: some unsalted butter (optional)
+    === "serves 2"
+
+        - :candy: 100 g granulated sugar
+        - :custard: 3 tsp cinnamon
+        - :ear_of_rice: 4 tsp all-purpose flour
+        - :egg: 1 egg
+        - :droplet: 1 Tbsp water
+        - :grapes: 148 g raisins
+        - :butter: some unsalted butter (optional)
 
 ## :cooking: Cookware
 

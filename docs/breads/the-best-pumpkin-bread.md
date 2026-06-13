@@ -14,25 +14,27 @@ hero: assets/images/the-best-pumpkin-bread.webp
 |:-----------------------: |
 | 1.42 hours |
 
-## :salt: Ingredients - Bread
+## :salt: Ingredients
 
-- :jack_o_lantern: 1 15-oz can pumpkin puree
-- :oil_drum: 0.5 cup (99 g) vegetable oil
-- :egg: 3 large eggs
-- :candy: 330 g granulated sugar
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.75 tsp baking soda
-- :salt: 0.75 tsp salt
-- :custard:  0.75 tsp cinnamon
-- :chestnut: 0.25 heaped tsp nutmeg
-- :sweet_potato: 0.25 heaped tsp ginger
-- :four_leaf_clover: 2 pinches ground cloves
-- :ear_of_rice: 295 g all-purpose flour
+=== "Bread"
 
-## :salt: Ingredients - Topping
+    - :jack_o_lantern: 1 15-oz can pumpkin puree
+    - :oil_drum: 0.5 cup (99 g) vegetable oil
+    - :egg: 3 large eggs
+    - :candy: 330 g granulated sugar
+    - :dash: 1.5 tsp baking powder
+    - :cup_with_straw: 0.75 tsp baking soda
+    - :salt: 0.75 tsp salt
+    - :custard:  0.75 tsp cinnamon
+    - :chestnut: 0.25 heaped tsp nutmeg
+    - :sweet_potato: 0.25 heaped tsp ginger
+    - :four_leaf_clover: 2 pinches ground cloves
+    - :ear_of_rice: 295 g all-purpose flour
 
-- :candy: 1 Tbsp granulated sugar
-- :chestnut: 1 tsp cinnamon
+=== "Topping"
+
+    - :candy: 1 Tbsp granulated sugar
+    - :chestnut: 1 tsp cinnamon
 
 ## :cooking: Cookware
 

@@ -14,30 +14,32 @@ hero: assets/images/cinnamon-rolls.png
 |:----------------------------------:|:-----------------------: |
 | 12 | 15 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :glass_of_milk: 3/4 cup (170 g) whole milk, warmed
-- :honey_pot: 1/4 cup (85 g) honey
-- :egg: 4 large eggs, room temperature
-- :ear_of_rice: 4 cups (568 g) all-purpose flour
-- :microbe: 2 1/4 tsp instant yeast
-- :salt: 2 tsp salt
-- :butter: 10 Tbsp (142 g) unsalted butter, room temperature, cut into pieces
+=== "Dough"
 
-## :salt: Ingredients - Cinnamon Sugar Filling
+    - :glass_of_milk: 3/4 cup (170 g) whole milk, warmed
+    - :honey_pot: 1/4 cup (85 g) honey
+    - :egg: 4 large eggs, room temperature
+    - :ear_of_rice: 4 cups (568 g) all-purpose flour
+    - :microbe: 2 1/4 tsp instant yeast
+    - :salt: 2 tsp salt
+    - :butter: 10 Tbsp (142 g) unsalted butter, room temperature, cut into pieces
 
-- :butter: 2 Tbsp (29 g) unsalted butter, melted and cooled
-- :maple_leaf: 1/2 cup (100 g) brown sugar, packed
-- :custard: 1 Tbsp ground cinnamon
-- :salt: 1 pinch salt
+=== "Cinnamon Sugar Filling"
 
-## :salt: Ingredients - Cream Cheese Frosting
+    - :butter: 2 Tbsp (29 g) unsalted butter, melted and cooled
+    - :maple_leaf: 1/2 cup (100 g) brown sugar, packed
+    - :custard: 1 Tbsp ground cinnamon
+    - :salt: 1 pinch salt
 
-- :butter: 8 Tbsp (113 g) unsalted butter, room temperature
-- :cheese_wedge: 4 oz (114 g) cream cheese, room temperature
-- :flower_playing_cards: 1 tsp vanilla extract
-- :candy: 1 cup (120 g) confectioners' sugar
-- :salt: 1 pinch salt
+=== "Cream Cheese Frosting"
+
+    - :butter: 8 Tbsp (113 g) unsalted butter, room temperature
+    - :cheese_wedge: 4 oz (114 g) cream cheese, room temperature
+    - :flower_playing_cards: 1 tsp vanilla extract
+    - :candy: 1 cup (120 g) confectioners' sugar
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

@@ -15,36 +15,38 @@ hero: assets/images/pain-aux-raisins.png
 |:----------------------------------:|:-----------------------: |
 | 12 | 3.17 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 350 g strong white bread flour
-- :butter: 250 g butter
-- :candy: 30 g caster sugar
-- :microbe: 7 g fast-action dried yeast
-- :salt: 1 tsp salt
-- :glass_of_milk: 125 ml whole milk
-- :droplet: 50 ml warm water
-- :egg: 1 large egg
+=== "Dough"
 
-## :salt: Ingredients - Crème Pâtissière
+    - :ear_of_rice: 350 g strong white bread flour
+    - :butter: 250 g butter
+    - :candy: 30 g caster sugar
+    - :microbe: 7 g fast-action dried yeast
+    - :salt: 1 tsp salt
+    - :glass_of_milk: 125 ml whole milk
+    - :droplet: 50 ml warm water
+    - :egg: 1 large egg
 
-- :candy: 50 g caster sugar
-- :egg: 2 large egg yolks
-- :corn: 20 g cornflour
-- :glass_of_milk: 250 ml whole milk
-- :icecream: 0.5 pod vanilla
+=== "Crème Pâtissière"
 
-## :salt: Ingredients - Filling
+    - :candy: 50 g caster sugar
+    - :egg: 2 large egg yolks
+    - :corn: 20 g cornflour
+    - :glass_of_milk: 250 ml whole milk
+    - :icecream: 0.5 pod vanilla
 
-- :grapes: 100 g raisins
-- :custard: 0.25 tsp cinnamon
-- :orange_circle: 1 orange
-- :egg: 1 egg
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :grapes: 100 g raisins
+    - :custard: 0.25 tsp cinnamon
+    - :orange_circle: 1 orange
+    - :egg: 1 egg
 
-- :candy: 200 g confectioners' sugar
-- :orange_circle: 1 orange juice
+=== "Icing"
+
+    - :candy: 200 g confectioners' sugar
+    - :orange_circle: 1 orange juice
 
 ## :cooking: Cookware
 

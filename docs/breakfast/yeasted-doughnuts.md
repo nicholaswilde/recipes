@@ -15,32 +15,34 @@ hero: assets/images/yeasted-doughnuts.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.25 hours |
 
-## :salt: Ingredients - Doughnuts
+## :salt: Ingredients
 
-- :ear_of_rice: 4.5 cups (540 g) all-purpose flour
-- :candy: 0.5 cup (99 g) sugar
-- :microbe: 1 tsp instant yeast
-- :glass_of_milk: 1.5 cup milk
-- :egg: 1 large egg
-- :salt: 1.5 tsp salt
-- :butter: 8 Tbsp butter
+=== "Doughnuts"
 
-## :salt: Ingredients - Glaze
+    - :ear_of_rice: 4.5 cups (540 g) all-purpose flour
+    - :candy: 0.5 cup (99 g) sugar
+    - :microbe: 1 tsp instant yeast
+    - :glass_of_milk: 1.5 cup milk
+    - :egg: 1 large egg
+    - :salt: 1.5 tsp salt
+    - :butter: 8 Tbsp butter
 
-- :candy: 3.25 confectioners' sugar
-- :droplet: 0.5 cup (114 g) hot water
-- :salt: 1 pinch salt
+=== "Glaze"
 
-## :salt: Ingredients - Frying
+    - :candy: 3.25 confectioners' sugar
+    - :droplet: 0.5 cup (114 g) hot water
+    - :salt: 1 pinch salt
 
-- :oil_drum: 2 qt vegetable oil
+=== "Frying"
 
-## :salt: Ingredients - Raspberry Frosting
+    - :oil_drum: 2 qt vegetable oil
 
-- :strawberry: 8 oz frozen raspberries
-- :candy: 2 cups (396 g) confectioners' sugar
-- :salt: 1 pinch salt
-- :rainbow: some rainbow sprinkles (optional)
+=== "Raspberry Frosting"
+
+    - :strawberry: 8 oz frozen raspberries
+    - :candy: 2 cups (396 g) confectioners' sugar
+    - :salt: 1 pinch salt
+    - :rainbow: some rainbow sprinkles (optional)
 
 ## :cooking: Cookware
 

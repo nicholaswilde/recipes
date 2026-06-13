@@ -15,36 +15,38 @@ hero: assets/images/pumpkin-coffee-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 30 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :butter: 170 g unsalted butter
-- :candy: 100 g granulated sugar
-- :maple_leaf: 50 g brown sugar
-- :egg: 2 large eggs
-- :jack_o_lantern: 240 g [pumpkin puree][2]
-- :rice: 2 Tbsp sour cream
-- :icecream: 1.5 tsp vanilla
-- :ear_of_rice: 156 g all-purpose flour
-- :nutmeg: 2 tsp [pumpkin pie spice][3]
-- :custard: 0.5 tsp cinnamon
-- :dash: 0.75 tsp baking powder
-- :cup_with_straw: 0.75 tsp baking soda
-- :salt: 0.5 tsp salt
+=== "Cake"
 
-## :salt: Ingredients - Streusel
+    - :butter: 170 g unsalted butter
+    - :candy: 100 g granulated sugar
+    - :maple_leaf: 50 g brown sugar
+    - :egg: 2 large eggs
+    - :jack_o_lantern: 240 g [pumpkin puree][2]
+    - :rice: 2 Tbsp sour cream
+    - :icecream: 1.5 tsp vanilla
+    - :ear_of_rice: 156 g all-purpose flour
+    - :nutmeg: 2 tsp [pumpkin pie spice][3]
+    - :custard: 0.5 tsp cinnamon
+    - :dash: 0.75 tsp baking powder
+    - :cup_with_straw: 0.75 tsp baking soda
+    - :salt: 0.5 tsp salt
 
-- :ear_of_rice: 125 g all-purpose flour
-- :maple_leaf: 150 g brown sugar
-- :candy: 2 Tbsp granulated sugar
-- :salt: 0.5 tsp salt
-- :custard: 1.5 tsp cinnamon
-- :butter: 6 Tbsp unsalted butter
+=== "Streusel"
 
-## :salt: Ingredients - Glaze
+    - :ear_of_rice: 125 g all-purpose flour
+    - :maple_leaf: 150 g brown sugar
+    - :candy: 2 Tbsp granulated sugar
+    - :salt: 0.5 tsp salt
+    - :custard: 1.5 tsp cinnamon
+    - :butter: 6 Tbsp unsalted butter
 
-- :candy: 63 g confectioners' sugar
-- :glass_of_milk: 3 Tsp milk
-- :icecream: 0.25 tsp vanilla
+=== "Glaze"
+
+    - :candy: 63 g confectioners' sugar
+    - :glass_of_milk: 3 Tsp milk
+    - :icecream: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 
