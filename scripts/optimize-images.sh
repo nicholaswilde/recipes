@@ -95,7 +95,27 @@ process_image() {
       TOTAL_COMP_SIZE=$((TOTAL_COMP_SIZE + new_size))
       FILES_PROCESSED=$((FILES_PROCESSED + 1))
     else
-      echo "Warning: Failed to convert $img_path to WebP format." >&2
+      # Try Pillow as a fallback for corrupted/truncated JPEGs
+      local py_bin="${ROOT_DIR}/.venv/bin/python3"
+      if [ ! -x "$py_bin" ]; then
+        py_bin="python3"
+      fi
+      if "$py_bin" -c "from PIL import Image, ImageFile" &>/dev/null && \
+         "$py_bin" -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('$img_path').convert('RGB').save('$webp_path', 'WEBP', quality=80)" &>/dev/null; then
+        local new_size
+        new_size=$(wc -c < "$webp_path")
+        
+        rm -f "$img_path"
+        
+        # Update markdown references
+        update_references "$filename" "${base}.webp" "$search_dir"
+        
+        TOTAL_ORIG_SIZE=$((TOTAL_ORIG_SIZE + orig_size))
+        TOTAL_COMP_SIZE=$((TOTAL_COMP_SIZE + new_size))
+        FILES_PROCESSED=$((FILES_PROCESSED + 1))
+      else
+        echo "Warning: Failed to convert $img_path to WebP format (both cwebp and Pillow fallback failed)." >&2
+      fi
     fi
     
   elif [[ "$mime" == "image/png" || "${ext,,}" == "png" ]]; then

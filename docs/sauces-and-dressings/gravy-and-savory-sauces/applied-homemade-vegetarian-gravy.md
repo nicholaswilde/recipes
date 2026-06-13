@@ -4,7 +4,7 @@ tags:
 
   - gravy
   - applied-kitchen
-hero: assets/images/applied-homemade-vegetarian-gravy.jpg
+hero: assets/images/applied-homemade-vegetarian-gravy.webp
 ---
 
 # :stew: Applied Homemade Vegetarian Gravy
@@ -75,4 +75,4 @@ Pro-tip: To make this gravy vegan, substitute the butter with oil or a plant-bas
 
 - Applied Kitchen
 
-[1]: <../../assets/images/applied-homemade-vegetarian-gravy.jpg>
+[1]: <../../assets/images/applied-homemade-vegetarian-gravy.webp>

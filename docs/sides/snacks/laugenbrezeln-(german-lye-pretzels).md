@@ -183,4 +183,4 @@ minutes.
 
 - Cook's Illustrated
 
-[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.jpg>
+[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.webp>

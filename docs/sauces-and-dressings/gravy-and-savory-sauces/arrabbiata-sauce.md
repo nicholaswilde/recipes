@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/arrabbiata-sauce.jpg
+hero: assets/images/arrabbiata-sauce.webp
 ---
 
 # :hot_pepper: Arrabbiata Sauce
@@ -70,4 +70,4 @@ Serve immediately or refrigerate in a sealed container for up to 4 days.
 
 - <https://www.gimmesomeoven.com/spicy-arrabbiata-sauce/>
 
-[1]: <../../assets/images/arrabbiata-sauce.jpg>
+[1]: <../../assets/images/arrabbiata-sauce.webp>

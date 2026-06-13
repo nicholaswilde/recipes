@@ -4,12 +4,12 @@ tags:
 
   - dip
   - mexican
-hero: assets/images/sweet-and-spicy-corn-salsa.jpg
+hero: assets/images/sweet-and-spicy-corn-salsa.webp
 ---
 
 # :corn: Sweet-&-Spicy Corn Salsa
 
-![Sweet-and-Spicy Corn Salsa](../../assets/images/sweet-and-spicy-corn-salsa.jpg){ loading=lazy }
+![Sweet-and-Spicy Corn Salsa](../../assets/images/sweet-and-spicy-corn-salsa.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

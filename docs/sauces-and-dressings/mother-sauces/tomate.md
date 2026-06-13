@@ -5,12 +5,12 @@ tags:
   - mother-sauce
   - french
   - joy-of-cooking
-hero: assets/images/tomate.jpg
+hero: assets/images/tomate.webp
 ---
 
 # :tomato: Tomate
 
-![Tomate](../../assets/images/tomate.jpg){ loading=lazy }
+![Tomate](../../assets/images/tomate.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -128,7 +128,21 @@ function move_files(){
           escaped_webp_name="${escaped_webp_name//&/\\&}"
           sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
         else
-          lb_infoln "Warning: Failed to convert image to WebP using cwebp"
+          # Try Pillow as a fallback for corrupted/truncated JPEGs
+          local py_bin="${ROOT_DIR}/.venv/bin/python3"
+          if [ ! -x "$py_bin" ]; then
+            py_bin="python3"
+          fi
+          if "$py_bin" -c "from PIL import Image, ImageFile" &>/dev/null && \
+             "$py_bin" -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('${new_image_path}').convert('RGB').save('${webp_path}', 'WEBP', quality=80)" &>/dev/null; then
+            rm -f "${new_image_path}"
+            
+            local escaped_webp_name="${base}.webp"
+            escaped_webp_name="${escaped_webp_name//&/\\&}"
+            sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
+          else
+            lb_infoln "Warning: Failed to convert image to WebP using both cwebp and Pillow fallback"
+          fi
         fi
       else
         lb_infoln "Warning: cwebp not found, skipping WebP conversion"
