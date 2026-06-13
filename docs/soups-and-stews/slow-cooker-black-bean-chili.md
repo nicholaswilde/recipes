@@ -28,7 +28,7 @@ hero: assets/images/slow-cooker-black-bean-chili.webp
 - :salt: some pepper
 - :onion: 1 onion
 - :stew: 1 12-oz jar salsa verde
-- :bell_pepper: 1 jar roasted red peppers
+- :bell_pepper: 1 jar [Roasted Red Peppers](../ingredients/roasted-red-peppers.md)
 - :herb: 1 Tbsp ground cumin
 - :stew: 4 cups [vegetable broth][1]
 
@@ -41,7 +41,7 @@ hero: assets/images/slow-cooker-black-bean-chili.webp
 ### Step 1
 
 Add [dried black beans][2], chili powder, chipotle chili in adobo sauce, garlic, fire roasted tomatoes, salt, pepper, chopped
-onion, salsa verde, roasted red peppers, ground cumin, and vegetable broth to a slow cooker.
+onion, salsa verde, [Roasted Red Peppers](../ingredients/roasted-red-peppers.md), ground cumin, and vegetable broth to a slow cooker.
 
 ### Step 2
 

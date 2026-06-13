@@ -19,7 +19,7 @@ hero: assets/images/roasted-red-pepper-coulis.webp
 - :olive: 1 Tbsp olive oil
 - :onion: 1 cup onion
 - :garlic: 1 Tbsp garlic
-- :bell_pepper: 1 24-oz jar roasted red peppers
+- :bell_pepper: 1 24-oz jar [Roasted Red Peppers](../../ingredients/roasted-red-peppers.md)
 - :salt: some salt
 - :salt: some pepper
 
@@ -34,7 +34,7 @@ hero: assets/images/roasted-red-pepper-coulis.webp
 ### Step 1
 
 In a saucepan, heat the olive oil, when hot add the onion and cook until translucent. Add the garlic, and when fragrant
-add the roasted red peppers and their juice and cook for 10 to 15 minutes.
+add the [Roasted Red Peppers](../../ingredients/roasted-red-peppers.md) and their juice and cook for 10 to 15 minutes.
 
 ### Step 2
 

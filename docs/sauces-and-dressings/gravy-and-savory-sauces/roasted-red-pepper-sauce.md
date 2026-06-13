@@ -46,7 +46,7 @@ Store refrigerated for up to 7 days.
 
 ### Step 3
 
-Note: You can use jarred fire-roasted red peppers instead.
+Note: You can use jarred fire-[Roasted Red Peppers](../../ingredients/roasted-red-peppers.md) instead.
 
 ### Step 4
 

@@ -22,7 +22,7 @@ hero: assets/images/mediterranean-pasta-salad.webp
 - :onion: 0.5 red onion
 - :chestnut: 2 Tbsp pine nuts
 - :tomato: 2 tomatoes
-- :bell_pepper: 1 jar roasted red peppers
+- :bell_pepper: 1 jar [Roasted Red Peppers](../ingredients/roasted-red-peppers.md)
 - :cucumber: 1 cucumber
 - :olive: 1 cup pitted olives
 - :sponge: 1 Tbsp capers
@@ -55,7 +55,7 @@ and pine nuts begin to brown.
 
 ### Step 4
 
-Remove from heat. In a large mixing bowl, add cooked pasta, sautéed mixture, roasted red peppers, diced cucumber,
+Remove from heat. In a large mixing bowl, add cooked pasta, sautéed mixture, [Roasted Red Peppers](../ingredients/roasted-red-peppers.md), diced cucumber,
 pitted olives, capers, kidney beans, basil, parsley, red wine vinegar, pepper, and garlic; gently toss to mix well.
 
 !!! tip "Options"

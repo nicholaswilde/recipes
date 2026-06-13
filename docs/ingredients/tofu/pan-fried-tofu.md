@@ -59,7 +59,7 @@ it onto a plate or a wire rack.
 
 ### Step 6
 
-Serve immediately with dishes like vegetable tempura, sauteed kale, vegan stuffed peppers, or even roasted red peppers.
+Serve immediately with dishes like vegetable tempura, sauteed kale, vegan stuffed peppers, or even [Roasted Red Peppers](../roasted-red-peppers.md).
 
 ### Step 7
 
