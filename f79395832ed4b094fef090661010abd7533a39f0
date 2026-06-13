@@ -1,0 +1,4 @@
+Task: Implement image optimization and conversion script
+Summary: Created scripts/optimize-images.sh to convert JPEGs to WebP and optimize PNGs with oxipng, handling category filters and reporting space savings.
+Files modified/created: scripts/optimize-images.sh, scripts/test_optimize_images.py
+Why: Provides the core command-line migration utility required by the track specification.
