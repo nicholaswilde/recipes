@@ -110,6 +110,39 @@ function move_files(){
 
   if [ -f "${image_path}" ]; then
     cp "${image_path}" "${new_image_path}"
+    
+    local filename
+    filename=$(basename "${new_image_path}")
+    local ext="${filename##*.}"
+    local base="${filename%.*}"
+    
+    if [[ "${ext,,}" == "jpg" || "${ext,,}" == "jpeg" ]]; then
+      if command_exists cwebp; then
+        lb_infoln "Converting image to WebP"
+        local webp_path="${new_image_path%.*}.webp"
+        if cwebp -q 80 -metadata all "${new_image_path}" -o "${webp_path}" &>/dev/null; then
+          rm -f "${new_image_path}"
+          
+          # Escape & in replacement string for sed
+          local escaped_webp_name="${base}.webp"
+          escaped_webp_name="${escaped_webp_name//&/\\&}"
+          sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
+        else
+          lb_infoln "Warning: Failed to convert image to WebP using cwebp"
+        fi
+      else
+        lb_infoln "Warning: cwebp not found, skipping WebP conversion"
+      fi
+    elif [[ "${ext,,}" == "png" ]]; then
+      if command_exists oxipng; then
+        lb_infoln "Optimizing PNG image"
+        if ! oxipng -o 4 --strip safe "${new_image_path}" &>/dev/null; then
+          lb_infoln "Warning: Failed to optimize PNG image using oxipng"
+        fi
+      else
+        lb_infoln "Warning: oxipng not found, skipping PNG optimization"
+      fi
+    fi
   fi
 
   mv "${markdown_path}" "${new_markdown_path}"
