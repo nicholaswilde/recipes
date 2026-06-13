@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.jpg
+hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp
 ---
 # Lentil and Mushroom Stuffed Peppers and Butternut Squash
 
@@ -84,7 +84,7 @@ side of slaw. Garnish with cilantro and toasted pepitas and crumbled goat cheese
 
 - Recipe Box
 
-[1]: <../assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.jpg>
+[1]: <../assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/lentils.md>
 

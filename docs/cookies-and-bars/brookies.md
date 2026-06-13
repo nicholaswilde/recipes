@@ -5,7 +5,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/brookies.jpg
+hero: assets/images/brookies.webp
 ---
 
 # :cookie: Brookies
@@ -98,4 +98,4 @@ from pan and cutting.
 
 - <https://preppykitchen.com/brookies/>
 
-[1]: <../assets/images/brookies.jpg>
+[1]: <../assets/images/brookies.webp>

@@ -3,7 +3,7 @@ comments: true
 tags:
   - holiday
   - magnolia
-hero: assets/images/aunt-marys-cherry-mashers.jpg
+hero: assets/images/aunt-marys-cherry-mashers.webp
 ---
 
 # :cherries: Aunt Mary's Cherry Mashers
@@ -76,5 +76,5 @@ Store in an airtight container in the refrigerator for up to 3 days.
 
 - <https://magnolia.com/blog/recipe/922fe751-664a-4622-aff9-4d51f4a6f97d/aunt-marys-cherry-mashers/>
 
-[1]: <../assets/images/aunt-marys-cherry-mashers.jpg>
+[1]: <../assets/images/aunt-marys-cherry-mashers.webp>
 [2]: <../ingredients/sweetened-condensed-milk.md>

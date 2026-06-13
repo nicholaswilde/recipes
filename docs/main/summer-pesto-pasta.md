@@ -5,12 +5,12 @@ tags:
   - pasta
   - italian
   - recipe-box
-hero: assets/images/summer-pesto-pasta.jpg
+hero: assets/images/summer-pesto-pasta.webp
 ---
 
 # :spaghetti: Summer Pesto Pasta
 
-![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.jpg){ loading=lazy }
+![Summer Pesto Pasta](../assets/images/summer-pesto-pasta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

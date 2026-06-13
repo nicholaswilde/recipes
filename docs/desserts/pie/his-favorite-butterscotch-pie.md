@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - pie
-hero: assets/images/his-favorite-butterscotch-pie.jpg
+hero: assets/images/his-favorite-butterscotch-pie.webp
 ---
 
 # :pie: His Favorite Butterscotch Pie
 
-![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.jpg){ loading=lazy }
+![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

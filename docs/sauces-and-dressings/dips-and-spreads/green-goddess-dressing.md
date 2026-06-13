@@ -4,7 +4,7 @@ tags:
 
   - panera
   - dressing
-hero: assets/images/green-goddess-dressing.jpg
+hero: assets/images/green-goddess-dressing.webp
 ---
 
 # :green_salad: Green Goddess Dressing
@@ -54,7 +54,7 @@ Transfer to a dressing container, cover, and refrigerate.
 
 - <https://www.panerabread.com/en-us/articles/green-goddess-dressing-recipe.html>
 
-[1]: <../../assets/images/green-goddess-dressing.jpg>
+[1]: <../../assets/images/green-goddess-dressing.webp>
 [2]: <../gravy-and-savory-sauces/pesto/basic-pesto.md>
 [3]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
 [4]: <../dijon-mustard.md>

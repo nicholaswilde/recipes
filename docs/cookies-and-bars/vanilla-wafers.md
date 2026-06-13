@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/vanilla-wafers.jpg
+hero: assets/images/vanilla-wafers.webp
 ---
 
 # :cookie: Vanilla Wafers
 
-![Vanilla Wafers](../assets/images/vanilla-wafers.jpg){ loading=lazy }
+![Vanilla Wafers](../assets/images/vanilla-wafers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

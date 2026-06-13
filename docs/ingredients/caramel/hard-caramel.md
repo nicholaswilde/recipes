@@ -4,12 +4,12 @@ tags:
 
   - caramel
   - ingredient
-hero: assets/images/hard-caramel.jpg
+hero: assets/images/hard-caramel.webp
 ---
 
 # :candy: Hard Caramel
 
-![Hard Caramel](../../assets/images/hard-caramel.jpg){ loading=lazy }
+![Hard Caramel](../../assets/images/hard-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

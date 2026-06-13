@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - trader-joes
-hero: assets/images/quick-couscous-chickpea-salad.jpg
+hero: assets/images/quick-couscous-chickpea-salad.webp
 ---
 
 # :rice: Quick Couscous Chickpea Salad
@@ -72,4 +72,4 @@ Season with salt and pepper, add a squeeze of lemon juice, and top with parsley 
 
 - Trader Joe's
 
-[1]: <../assets/images/quick-couscous-chickpea-salad.jpg>
+[1]: <../assets/images/quick-couscous-chickpea-salad.webp>

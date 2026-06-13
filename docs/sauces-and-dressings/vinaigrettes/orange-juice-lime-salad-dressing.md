@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/orange-juice-lime-salad-dressing.jpg
+hero: assets/images/orange-juice-lime-salad-dressing.webp
 ---
 
 # Orange Juice-Lime Salad Dressing
 
-![Orange Juice-Lime Salad Dressing](../../assets/images/orange-juice-lime-salad-dressing.jpg){ loading=lazy }
+![Orange Juice-Lime Salad Dressing](../../assets/images/orange-juice-lime-salad-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/japanese-milk-bread-rolls.jpg
+hero: assets/images/japanese-milk-bread-rolls.webp
 ---
 
 # :bread: Japanese Milk Bread Rolls
@@ -104,4 +104,4 @@ completely.
 
 - <https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe>
 
-[1]: <../assets/images/japanese-milk-bread-rolls.jpg>
+[1]: <../assets/images/japanese-milk-bread-rolls.webp>

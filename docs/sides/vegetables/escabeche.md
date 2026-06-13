@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/escabeche.jpg
+hero: assets/images/escabeche.webp
 ---
 
 # :carrot: Escabeche
@@ -69,4 +69,4 @@ Note: The mixed vegetables can contain zucchini, baby carrots, bell peppers, cel
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/escabeche.jpg>
+[1]: <../../assets/images/escabeche.webp>

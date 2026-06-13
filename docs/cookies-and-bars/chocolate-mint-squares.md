@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/chocolate-mint-squares.jpg
+hero: assets/images/chocolate-mint-squares.webp
 ---
 
 # :chocolate_bar: Chocolate Mint Squares
@@ -71,5 +71,5 @@ refrigerator.
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/chocolate-mint-squares.jpg>
+[1]: <../assets/images/chocolate-mint-squares.webp>
 [2]: <../ingredients/mint-filling.md>

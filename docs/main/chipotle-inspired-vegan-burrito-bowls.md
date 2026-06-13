@@ -5,7 +5,7 @@ tags:
   - mexican
   - bowl
   - recipe-box
-hero: assets/images/chipotle-inspired-vegan-burrito-bowls.jpg
+hero: assets/images/chipotle-inspired-vegan-burrito-bowls.webp
 ---
 
 # :green_salad: Chipotle-Inspired Vegan Burrito Bowls
@@ -59,7 +59,7 @@ Build bowls starting with rice, then corn and beans, then tofu. Top with cilantr
 
 - Recipe Box
 
-[1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.jpg>
+[1]: <../assets/images/chipotle-inspired-vegan-burrito-bowls.webp>
 [2]: <../sauces-and-dressings/salsas/salsa-fresca-(pico-de-gallo).md>
 [3]: <../sauces-and-dressings/dips-and-spreads/guacamole.md>
 [4]: <../ingredients/black-beans.md>

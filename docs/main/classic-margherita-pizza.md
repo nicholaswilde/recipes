@@ -4,12 +4,12 @@ tags:
 
   - pizza
   - italian
-hero: assets/images/classic-margherita-pizza.jpg
+hero: assets/images/classic-margherita-pizza.webp
 ---
 
 # :pizza: Classic Margherita Pizza
 
-![Classic Margherita Pizza](../assets/images/classic-margherita-pizza.jpg){ loading=lazy }
+![Classic Margherita Pizza](../assets/images/classic-margherita-pizza.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

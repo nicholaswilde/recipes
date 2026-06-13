@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/butterscotch-squares.jpg
+hero: assets/images/butterscotch-squares.webp
 ---
 # :candy: Butterscotch Squares
 
@@ -62,4 +62,4 @@ until set.
 
 - <https://www.crazyforcrust.com/butterscotch-squares-copycat-recipe/>
 
-[1]: <../assets/images/butterscotch-squares.jpg>
+[1]: <../assets/images/butterscotch-squares.webp>

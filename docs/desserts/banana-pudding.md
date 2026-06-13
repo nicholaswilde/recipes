@@ -5,12 +5,12 @@ tags:
   - dessert
   - pudding
   - magnolia
-hero: assets/images/banana-pudding.jpg
+hero: assets/images/banana-pudding.webp
 ---
 
 # :custard: Banana Pudding
 
-![Banana Pudding](../assets/images/banana-pudding.jpg){ loading=lazy }
+![Banana Pudding](../assets/images/banana-pudding.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

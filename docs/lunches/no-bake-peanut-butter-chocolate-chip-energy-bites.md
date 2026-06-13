@@ -2,7 +2,7 @@
 comments: true
 tags:
   - lunch
-hero: assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.jpg
+hero: assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.webp
 ---
 # No Bake Peanut Butter Chocolate Chip Energy Bites
 
@@ -64,4 +64,4 @@ Store in an airtight container in the fridge for up to 2 weeks or in the freezer
 
 - <https://github.com/user-attachments/files/18538740/No.Bake.Peanut.Butter.Chocolate.Chip.Energy.Bites.pdf>
 
-[1]: <../assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.jpg>
+[1]: <../assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.webp>

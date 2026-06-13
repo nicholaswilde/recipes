@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - forks-over-knives
-hero: assets/images/vanilla-bean-whip.jpg
+hero: assets/images/vanilla-bean-whip.webp
 ---
 
 # :icecream: Vanilla Bean Whip
@@ -54,4 +54,4 @@ Transfer the mixture to a bowl and cover with plastic wrap. Chill for several ho
 
 - Forks Over Knives
 
-[1]: <../assets/images/vanilla-bean-whip.jpg>
+[1]: <../assets/images/vanilla-bean-whip.webp>

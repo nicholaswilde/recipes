@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/peanut-butter.jpg
+hero: assets/images/peanut-butter.webp
 ---
 
 # :peanuts: Peanut Butter
 
-![Peanut Butter](../assets/images/peanut-butter.jpg){ loading=lazy }
+![Peanut Butter](../assets/images/peanut-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

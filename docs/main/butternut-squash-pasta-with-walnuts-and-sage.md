@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/butternut-squash-pasta-with-walnuts-and-sage.jpg
+hero: assets/images/butternut-squash-pasta-with-walnuts-and-sage.webp
 ---
 
 # :spaghetti: Butternut Squash Pasta with Walnuts & Sage
@@ -81,4 +81,4 @@ Taste and adjust seasonings and serve with extra grated cheese.
 
 - <https://www.loveandlemons.com/butternut-pasta-walnuts-sage/>
 
-[1]: <../assets/images/butternut-squash-pasta-with-walnuts-and-sage.jpg>
+[1]: <../assets/images/butternut-squash-pasta-with-walnuts-and-sage.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
   - snack
   - side
-hero: assets/images/rice-paper-chicharrones-gracias-madre.jpg
+hero: assets/images/rice-paper-chicharrones-gracias-madre.webp
 ---
 
 # :bread: Rice Paper Chicharrones Gracias Madre
 
-![Rice Paper Chicharrones Gracias Madre](../../assets/images/rice-paper-chicharrones-gracias-madre.jpg){ loading=lazy }
+![Rice Paper Chicharrones Gracias Madre](../../assets/images/rice-paper-chicharrones-gracias-madre.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

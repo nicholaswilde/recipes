@@ -5,12 +5,12 @@ tags:
   - toffee
   - dessert
   - joy-of-cooking
-hero: assets/images/english-toffee.jpg
+hero: assets/images/english-toffee.webp
 ---
 
 # :candy: English Toffee
 
-![English Toffee](../assets/images/english-toffee.jpg){ loading=lazy }
+![English Toffee](../assets/images/english-toffee.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -6,12 +6,12 @@ tags:
   - vegetarian
   - sandwich
   - applied-kitchen
-hero: assets/images/banh-mi-sandwich.jpg
+hero: assets/images/banh-mi-sandwich.webp
 ---
 
 # :sandwich: Banh Mi Sandwich
 
-![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.jpg){ loading=lazy }
+![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

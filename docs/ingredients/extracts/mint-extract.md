@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/mint-extract.jpg
+hero: assets/images/mint-extract.webp
 ---
 
 # :shamrock: Mint Extract
 
-![Mint Extract](../../assets/images/mint-extract.jpg){ loading=lazy }
+![Mint Extract](../../assets/images/mint-extract.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

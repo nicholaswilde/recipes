@@ -6,7 +6,7 @@ tags:
   - bake-off
   - bar
   - dessert
-hero: assets/images/fudge-brownies.jpg
+hero: assets/images/fudge-brownies.webp
 ---
 
 # :chocolate_bar: Fudge Brownies
@@ -112,4 +112,4 @@ Store any leftovers, well-wrapped, at room temperature for 5 to 6 days. Freeze f
 - <https://www.kingarthurbaking.com/recipes/fudge-brownies-recipe>
 - <https://www.thepancakeprincess.com/2018/05/14/best-brownie-bake-off/>
 
-[1]: <../assets/images/fudge-brownies.jpg>
+[1]: <../assets/images/fudge-brownies.webp>

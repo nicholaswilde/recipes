@@ -4,12 +4,12 @@ tags:
 
   - bread
   - recipe-box
-hero: assets/images/best-ever-banana-bread.jpg
+hero: assets/images/best-ever-banana-bread.webp
 ---
 
 # :banana: Best-Ever Banana Bread
 
-![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.jpg){ loading=lazy }
+![Best-Ever Banana Bread](../assets/images/best-ever-banana-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

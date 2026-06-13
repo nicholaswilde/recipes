@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/baguettes.jpg
+hero: assets/images/baguettes.webp
 ---
 
 # :baguette_bread: Baguettes
@@ -136,4 +136,4 @@ just before serving.
 - <https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe>
 - <https://www.youtube.com/watch?v=a8l5Qi43U3c>
 
-[1]: <../assets/images/baguettes.jpg>
+[1]: <../assets/images/baguettes.webp>

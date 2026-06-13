@@ -4,7 +4,7 @@ tags:
   - dessert
   - cheesecake
   - maynards-bakery
-hero: assets/images/two-layer-cheesecake.jpg
+hero: assets/images/two-layer-cheesecake.webp
 ---
 # Two-Layer Cheesecake
 
@@ -72,4 +72,4 @@ Let cool, then chill in the refrigerator before serving. Top with refrigerated f
 
 - <https://github.com/nicholaswilde/recipes/issues/1342>
 
-[1]: <../assets/images/two-layer-cheesecake.jpg>
+[1]: <../assets/images/two-layer-cheesecake.webp>

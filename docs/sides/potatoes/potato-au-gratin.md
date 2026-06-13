@@ -4,12 +4,12 @@ tags:
 
   - side
   - jean-pierre
-hero: assets/images/potato-au-gratin.jpg
+hero: assets/images/potato-au-gratin.webp
 ---
 
 # :potato: Potato Au Gratin
 
-![Potato Au Gratin](../../assets/images/potato-au-gratin.jpg){ loading=lazy }
+![Potato Au Gratin](../../assets/images/potato-au-gratin.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

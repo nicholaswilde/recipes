@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/golden-milk.jpg
+hero: assets/images/golden-milk.webp
 ---
 
 # :glass_of_milk: Golden Milk
@@ -44,4 +44,4 @@ spices incorporate. Do not let boil.
 
 - <https://wicworks.fns.usda.gov/recipe/golden-milk>
 
-[1]: <../assets/images/golden-milk.jpg>
+[1]: <../assets/images/golden-milk.webp>

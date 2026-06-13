@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/flourless-chocolate-cake.jpg
+hero: assets/images/flourless-chocolate-cake.webp
 ---
 
 # :chocolate_bar: Flourless Chocolate Cake
@@ -65,4 +65,4 @@ Try to make this cake the day before you intend to serve it to let it rest and t
 - <https://www.redonline.co.uk/food/recipes/a500295/trish-deseine-s-decadent-almost-flourless-chocolate-cake/>
 - <https://www.thepancakeprincess.com/2023/04/04/the-flourless-chocolate-cake-bake-off/>
 
-[1]: <../../assets/images/flourless-chocolate-cake.jpg>
+[1]: <../../assets/images/flourless-chocolate-cake.webp>

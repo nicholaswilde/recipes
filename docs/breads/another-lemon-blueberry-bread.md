@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/another-lemon-blueberry-bread.jpg
+hero: assets/images/another-lemon-blueberry-bread.webp
 ---
 
 # :lemon: Another Lemon Blueberry Bread
@@ -101,4 +101,4 @@ then pour glaze over the loaf. Allow to set a few minutes, then enjoy!
 
 - <https://www.glorioustreats.com/lemon-blueberry-bread/>
 
-[1]: <../assets/images/another-lemon-blueberry-bread.jpg>
+[1]: <../assets/images/another-lemon-blueberry-bread.webp>

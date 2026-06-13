@@ -5,12 +5,12 @@ tags:
   - dessert
   - pie
   - martha-stewart
-hero: assets/images/banana-cream-pie.jpg
+hero: assets/images/banana-cream-pie.webp
 ---
 
 # :banana: Banana Cream Pie
 
-![Banana Cream Pie](../../assets/images/banana-cream-pie.jpg){ loading=lazy }
+![Banana Cream Pie](../../assets/images/banana-cream-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dip
-hero: assets/images/spinach-dip.jpg
+hero: assets/images/spinach-dip.webp
 ---
 
 # :leafy_green: Spinach Dip
 
-![Spinach Dip](../../assets/images/spinach-dip.jpg){ loading=lazy }
+![Spinach Dip](../../assets/images/spinach-dip.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

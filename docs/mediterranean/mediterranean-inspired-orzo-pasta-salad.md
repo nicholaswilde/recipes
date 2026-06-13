@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - minimalist-baker
-hero: assets/images/mediterranean-inspired-orzo-pasta-salad.jpg
+hero: assets/images/mediterranean-inspired-orzo-pasta-salad.webp
 ---
 
 # :green_salad: Mediterranean-Inspired Orzo Pasta Salad
@@ -73,4 +73,4 @@ freezer friendly.
 
 - <https://minimalistbaker.com/mediterranean-orzo-pasta-salad/#wprm-recipe-container-94099>
 
-[1]: <../assets/images/mediterranean-inspired-orzo-pasta-salad.jpg>
+[1]: <../assets/images/mediterranean-inspired-orzo-pasta-salad.webp>

@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/orange-extract.jpg
+hero: assets/images/orange-extract.webp
 ---
 
 # :tangerine: Orange Extract
 
-![Orange Extract](../../assets/images/orange-extract.jpg){ loading=lazy }
+![Orange Extract](../../assets/images/orange-extract.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - dessert
   - pie
   - bake-off
-hero: assets/images/key-lime-pie.jpg
+hero: assets/images/key-lime-pie.webp
 ---
 
 # :lemon: Key Lime Pie
@@ -69,5 +69,5 @@ Just before serving, whip the cream to soft peaks, and spread it on top of the p
 - <https://food52.com/recipes/33481-key-lime-pie>
 - <https://www.thepancakeprincess.com/best-key-lime-pie-bake-off/>
 
-[1]: <../../assets/images/key-lime-pie.jpg>
+[1]: <../../assets/images/key-lime-pie.webp>
 [2]: <../../ingredients/sweetened-condensed-milk.md>

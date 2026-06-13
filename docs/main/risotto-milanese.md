@@ -5,12 +5,12 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
-hero: assets/images/risotto-milanese.jpg
+hero: assets/images/risotto-milanese.webp
 ---
 
 # :ear_of_rice: Risotto Milanese
 
-![Risotto Milanese](../assets/images/risotto-milanese.jpg){ loading=lazy }
+![Risotto Milanese](../assets/images/risotto-milanese.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

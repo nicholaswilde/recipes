@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/peanut-butter-crisscrosses.jpg
+hero: assets/images/peanut-butter-crisscrosses.webp
 ---
 
 # :peanuts: Peanut Butter Crisscrosses
 
-![Peanut Butter Crisscrosses](../assets/images/peanut-butter-crisscrosses.jpg){ loading=lazy }
+![Peanut Butter Crisscrosses](../assets/images/peanut-butter-crisscrosses.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

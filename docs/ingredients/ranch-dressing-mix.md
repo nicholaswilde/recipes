@@ -4,12 +4,12 @@ tags:
 
   - mix
   - ingredient
-hero: assets/images/ranch-dressing-mix.jpg
+hero: assets/images/ranch-dressing-mix.webp
 ---
 
 # Ranch Dressing Mix
 
-![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.jpg){ loading=lazy }
+![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

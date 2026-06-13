@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/flax-egg.jpg
+hero: assets/images/flax-egg.webp
 ---
 # :seedling: Flax Egg
 

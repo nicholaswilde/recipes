@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/vegan-chicken-less-seasoning-salt.jpg
+hero: assets/images/vegan-chicken-less-seasoning-salt.webp
 ---
 
 # :salt: Vegan Chicken-Less Seasoning Salt
@@ -45,4 +45,4 @@ Store in a dry, air tight container.
 
 - <https://purekitchenblog.com/homemade-seasoning-blend-i-use-on-everything/>
 
-[1]: <../../assets/images/vegan-chicken-less-seasoning-salt.jpg>
+[1]: <../../assets/images/vegan-chicken-less-seasoning-salt.webp>

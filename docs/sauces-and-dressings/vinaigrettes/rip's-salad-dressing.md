@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/rip's-salad-dressing.jpg
+hero: assets/images/rip's-salad-dressing.webp
 ---
 
 # :green_salad: Rip's Salad Dressing
 
-![Rip's Salad Dressing](../../assets/images/rip's-salad-dressing.jpg){ loading=lazy }
+![Rip's Salad Dressing](../../assets/images/rip's-salad-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

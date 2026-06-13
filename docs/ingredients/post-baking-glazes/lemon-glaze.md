@@ -5,12 +5,12 @@ tags:
   - joy-of-cooking
   - glaze
   - ingredient
-hero: assets/images/lemon-glaze.jpg
+hero: assets/images/lemon-glaze.webp
 ---
 
 # :lemon: Lemon Glaze
 
-![Lemon Glaze](../../assets/images/lemon-glaze.jpg){ loading=lazy }
+![Lemon Glaze](../../assets/images/lemon-glaze.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

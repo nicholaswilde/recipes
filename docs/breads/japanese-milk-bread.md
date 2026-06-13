@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/japanese-milk-bread.jpg
+hero: assets/images/japanese-milk-bread.webp
 ---
 
 # :bread: Japanese Milk Bread
@@ -119,4 +119,4 @@ Store leftover bread, well wrapped, at cool room temperature for 5 to 7 days; fr
 
 - <https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe>
 
-[1]: <../assets/images/japanese-milk-bread.jpg>
+[1]: <../assets/images/japanese-milk-bread.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/lemon-and-pea-alfredo.jpg
+hero: assets/images/lemon-and-pea-alfredo.webp
 ---
 
 # :spaghetti: Lemon & Pea Alfredo
 
-![Lemon and Pea Alfredo](../assets/images/lemon-and-pea-alfredo.jpg){ loading=lazy }
+![Lemon and Pea Alfredo](../assets/images/lemon-and-pea-alfredo.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

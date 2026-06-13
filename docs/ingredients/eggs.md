@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/eggs.jpg
+hero: assets/images/eggs.webp
 ---
 # :egg: Eggs
 

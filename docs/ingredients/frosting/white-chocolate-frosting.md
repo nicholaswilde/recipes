@@ -5,12 +5,12 @@ tags:
   - frosting
   - ingredient
   - the-cake-mix-doctor
-hero: assets/images/white-chocolate-frosting.jpg
+hero: assets/images/white-chocolate-frosting.webp
 ---
 
 # :cake: White Chocolate Frosting
 
-![White Chocolate Frosting](../../assets/images/white-chocolate-frosting.jpg){ loading=lazy }
+![White Chocolate Frosting](../../assets/images/white-chocolate-frosting.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

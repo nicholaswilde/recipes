@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/jalapeño-corn-pudding.jpg
+hero: assets/images/jalapeño-corn-pudding.webp
 ---
 
 # Jalapeño Corn Pudding
 
-![Jalapeño Corn Pudding](../../assets/images/jalapeño-corn-pudding.jpg){ loading=lazy }
+![Jalapeño Corn Pudding](../../assets/images/jalapeño-corn-pudding.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

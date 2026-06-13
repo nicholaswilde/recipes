@@ -6,7 +6,7 @@ tags:
   - the-blue-zones-kitchen
   - doughnuts
   - costa-rican
-hero: assets/images/costa-rican-baked-doughnuts.jpg
+hero: assets/images/costa-rican-baked-doughnuts.webp
 ---
 
 # :doughnut: Costa Rican Baked Doughnuts
@@ -71,4 +71,4 @@ Allow to cool before enjoying.
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/costa-rican-baked-doughnuts.jpg>
+[1]: <../assets/images/costa-rican-baked-doughnuts.webp>

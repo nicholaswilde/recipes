@@ -5,7 +5,7 @@ tags:
   - butter
   - ingredient
   - applied-kitchen
-hero: assets/images/whipped-brie-butter.jpg
+hero: assets/images/whipped-brie-butter.webp
 ---
 
 # :butter: Whipped Brie Butter
@@ -50,4 +50,4 @@ Serve immediately with warm bread or crackers.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/whipped-brie-butter.jpg>
+[1]: <../../assets/images/whipped-brie-butter.webp>

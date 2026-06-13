@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - glaze
-hero: assets/images/miso-glaze.jpg
+hero: assets/images/miso-glaze.webp
 ---
 
 # :ramen: Miso Glaze
 
-![Miso Glaze](../../assets/images/miso-glaze.jpg){ loading=lazy }
+![Miso Glaze](../../assets/images/miso-glaze.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

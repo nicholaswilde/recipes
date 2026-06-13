@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cinnamon-toast-crunch-baked-oats.jpg
+hero: assets/images/cinnamon-toast-crunch-baked-oats.webp
 ---
 
 # :bowl_with_spoon: Cinnamon Toast Crunch Baked Oats
@@ -55,4 +55,4 @@ Enjoy!
 
 - <https://tasty.co/recipe/cinnamon-toast-crunch-baked-oats>
 
-[1]: <../assets/images/cinnamon-toast-crunch-baked-oats.jpg>
+[1]: <../assets/images/cinnamon-toast-crunch-baked-oats.webp>

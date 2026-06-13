@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - the-blue-zones-kitchen
-hero: assets/images/chilero-hot-sauce.jpg
+hero: assets/images/chilero-hot-sauce.webp
 ---
 
 # :hot_pepper: Chilero Hot Sauce
 
-![Chilero Hot Sauce](../../assets/images/chilero-hot-sauce.jpg){ loading=lazy }
+![Chilero Hot Sauce](../../assets/images/chilero-hot-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

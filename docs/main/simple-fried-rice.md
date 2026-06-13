@@ -5,12 +5,12 @@ tags:
   - asian
   - stir-fry
   - vegetarian
-hero: assets/images/simple-fried-rice.jpg
+hero: assets/images/simple-fried-rice.webp
 ---
 
 # :rice: Simple Fried Rice
 
-![Simple Fried Rice](../assets/images/simple-fried-rice.jpg){ loading=lazy }
+![Simple Fried Rice](../assets/images/simple-fried-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

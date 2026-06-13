@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/holiday-peppermint-bark.jpg
+hero: assets/images/holiday-peppermint-bark.webp
 ---
 # Holiday Peppermint Bark
 
@@ -52,5 +52,5 @@ stand for about 1 hour or until firm. Break into pieces. Store in airtight conta
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/holiday-peppermint-bark.jpg>
+[1]: <../assets/images/holiday-peppermint-bark.webp>
 

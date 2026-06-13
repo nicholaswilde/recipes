@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - anna-olson
-hero: assets/images/bread-pudding.jpg
+hero: assets/images/bread-pudding.webp
 ---
 
 # :bread: Bread Pudding
@@ -76,5 +76,5 @@ The bread pudding can be served warm or chilled.
 
 - <https://www.youtube.com/watch?v=gbhlieL2i4E>
 
-[1]: <../assets/images/bread-pudding.jpg>
+[1]: <../assets/images/bread-pudding.webp>
 [2]: <../ingredients/seasonings/cinnamon-sugar.md>

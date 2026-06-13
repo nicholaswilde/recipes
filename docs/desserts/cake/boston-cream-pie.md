@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - king-arthur
-hero: assets/images/boston-cream-pie.jpg
+hero: assets/images/boston-cream-pie.webp
 ---
 
 # :cake: Boston Cream Pie
 
-![Boston Cream Pie](../../assets/images/boston-cream-pie.jpg){ loading=lazy }
+![Boston Cream Pie](../../assets/images/boston-cream-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

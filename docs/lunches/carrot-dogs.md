@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - nutrition-studies
-hero: assets/images/carrot-dogs.jpg
+hero: assets/images/carrot-dogs.webp
 ---
 
 # :hotdog: Carrot Dogs
@@ -71,4 +71,4 @@ Serve the carrots in the hot dog buns with your choice of toppings.
 
 - <https://nutritionstudies.org/recipes/main-dish/carrot-dogs/>
 
-[1]: <../assets/images/carrot-dogs.jpg>
+[1]: <../assets/images/carrot-dogs.webp>

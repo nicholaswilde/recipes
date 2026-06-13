@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/jane's-3,-2,-1-salad-dressing.jpg
+hero: assets/images/jane's-3,-2,-1-salad-dressing.webp
 ---
 
 # :green_salad: Jane's 3, 2, 1 Salad Dressing
 
-![Jane's 3, 2, 1 Salad Dressing](../../assets/images/jane's-3,-2,-1-salad-dressing.jpg){ loading=lazy }
+![Jane's 3, 2, 1 Salad Dressing](../../assets/images/jane's-3,-2,-1-salad-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

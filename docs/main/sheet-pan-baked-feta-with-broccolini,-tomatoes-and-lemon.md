@@ -74,4 +74,4 @@ Top with fresh basil or cilantro (leaves and fine stems, roughly chopped, option
 
 - <https://cooking.nytimes.com/recipes/1021277-sheet-pan-baked-feta-with-broccolini-tomatoes-and-lemon>
 
-[1]: <../assets/images/sheet-pan-baked-feta-with-broccolini,-tomatoes-and-lemon.jpg>
+[1]: <../assets/images/sheet-pan-baked-feta-with-broccolini,-tomatoes-and-lemon.webp>

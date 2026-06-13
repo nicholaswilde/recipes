@@ -5,7 +5,7 @@ tags:
   - cookie
   - dorie-greenspan
   - dessert
-hero: assets/images/world-peace-cookies.jpg
+hero: assets/images/world-peace-cookies.webp
 ---
 
 # :cookie: World Piece Cookies
@@ -86,4 +86,4 @@ Bake the remaining dough.
 - <https://doriegreenspan.com/recipe/world-peace-cookies-the-newest-version-from-dories-cookies-sneak-peek/>
 - <https://www.youtube.com/watch?v=CXAGViXspMk>
 
-[1]: <../assets/images/world-peace-cookies.jpg>
+[1]: <../assets/images/world-peace-cookies.webp>

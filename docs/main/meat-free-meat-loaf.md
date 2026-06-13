@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/meat-free-meat-loaf.jpg
+hero: assets/images/meat-free-meat-loaf.webp
 ---
 # Meat-Free Meat Loaf
 
@@ -80,7 +80,7 @@ Cover with foil and bake for 45 minutes.
 
 Remove foil and bake for 7 to 10 minutes more.
 
-[1]: <../assets/images/meat-free-meat-loaf.jpg>
+[1]: <../assets/images/meat-free-meat-loaf.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
 [4]: <../ingredients/soy-sauce.md>

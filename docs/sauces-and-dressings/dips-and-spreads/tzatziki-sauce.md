@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/tzatziki-sauce.jpg
+hero: assets/images/tzatziki-sauce.webp
 ---
 
 # :rice: Tzatziki Sauce
 
-![Tzatziki Sauce](../../assets/images/tzatziki-sauce.jpg){ loading=lazy }
+![Tzatziki Sauce](../../assets/images/tzatziki-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

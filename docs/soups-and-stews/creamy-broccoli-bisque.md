@@ -4,12 +4,12 @@ tags:
 
   - soup
   - jean-pierre
-hero: assets/images/creamy-broccoli-bisque.jpg
+hero: assets/images/creamy-broccoli-bisque.webp
 ---
 
 # :broccoli: Creamy Broccoli Bisque
 
-![Creamy Broccoli Bisque](../assets/images/creamy-broccoli-bisque.jpg){ loading=lazy }
+![Creamy Broccoli Bisque](../assets/images/creamy-broccoli-bisque.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

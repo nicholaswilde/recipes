@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - king-arthur
-hero: assets/images/bagels.jpg
+hero: assets/images/bagels.webp
 ---
 
 # :bagel: Bagels
@@ -176,4 +176,4 @@ into sandwiches can be stored, well wrapped, at room temperature for several day
 
 - <https://www.kingarthurbaking.com/recipes/ultimate-sandwich-bagels-recipe>
 
-[1]: <../assets/images/bagels.jpg>
+[1]: <../assets/images/bagels.webp>

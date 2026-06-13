@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/pickled-red-onions.jpg
+hero: assets/images/pickled-red-onions.webp
 ---
 
 # Pickled Red Onions
 
-![Pickled Red Onions](../../assets/images/pickled-red-onions.jpg){ loading=lazy }
+![Pickled Red Onions](../../assets/images/pickled-red-onions.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

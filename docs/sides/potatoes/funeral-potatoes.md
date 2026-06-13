@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/funeral-potatoes.jpg
+hero: assets/images/funeral-potatoes.webp
 ---
 
 # :potato: Funeral Potatoes
@@ -53,4 +53,4 @@ Bake at 350°F for 30 minutes.
 
 - The Essential Mormon Cookbook
 
-[1]: <../../assets/images/funeral-potatoes.jpg>
+[1]: <../../assets/images/funeral-potatoes.webp>

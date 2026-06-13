@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/pumpkin-cheesecake-cookies.jpg
+hero: assets/images/pumpkin-cheesecake-cookies.webp
 ---
 
 # :jack_o_lantern: Pumpkin Cheesecake Cookies
 
-![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg){ loading=lazy }
+![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

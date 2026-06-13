@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - vegetarian
-hero: assets/images/vegetarian-corn-dogs.jpg
+hero: assets/images/vegetarian-corn-dogs.webp
 ---
 
 # :hotdog: Vegetarian Corn Dogs
@@ -69,4 +69,4 @@ needed to brown evenly. Transfer to a wire rack to cool.
 
 - <https://natashaskitchen.com/corn-dogs-recipe/>
 
-[1]: <../assets/images/vegetarian-corn-dogs.jpg>
+[1]: <../assets/images/vegetarian-corn-dogs.webp>

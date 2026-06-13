@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/butter-cookies.jpg
+hero: assets/images/butter-cookies.webp
 ---
 
 # :cookie: Butter Cookies
 
-![Butter Cookies](../assets/images/butter-cookies.jpg){ loading=lazy }
+![Butter Cookies](../assets/images/butter-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

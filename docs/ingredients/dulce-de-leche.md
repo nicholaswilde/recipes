@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/dulce-de-leche.jpg
+hero: assets/images/dulce-de-leche.webp
 ---
 
 # :glass_of_milk: Dulce de Leche
 
-![Dulce de Leche](../assets/images/dulce-de-leche.jpg){ loading=lazy }
+![Dulce de Leche](../assets/images/dulce-de-leche.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

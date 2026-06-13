@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/italian-sausage-with-grits-&-tomatoes.jpg
+hero: assets/images/italian-sausage-with-grits-&-tomatoes.webp
 ---
 # Italian Sausage with Grits & Tomatoes
 
@@ -50,6 +50,6 @@ Remove from heat and stir in shredded cheddar cheese. Lightly brown soy Italian 
 
 Serve over grits with chopped halved cherry tomatoes and parsley.
 
-[1]: <../assets/images/italian-sausage-with-grits-&-tomatoes.jpg>
+[1]: <../assets/images/italian-sausage-with-grits-&-tomatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 

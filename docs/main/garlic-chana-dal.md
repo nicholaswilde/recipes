@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/garlic-chana-dal.jpg
+hero: assets/images/garlic-chana-dal.webp
 ---
 # Garlic Chana Dal
 
@@ -52,6 +52,6 @@ I like to serve mine with onion and pea pulao. Time to tuck in!
 
 - <https://www.youtube.com/watch?v=wmR6WuibsYk>
 
-[1]: <../assets/images/garlic-chana-dal.jpg>
+[1]: <../assets/images/garlic-chana-dal.webp>
 [2]: <../ingredients/dal.md>
 

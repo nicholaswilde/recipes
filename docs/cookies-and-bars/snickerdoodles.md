@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/snickerdoodles.jpg
+hero: assets/images/snickerdoodles.webp
 ---
 
 # :cookie: Snickerdoodles
 
-![Snickerdoodles](../assets/images/snickerdoodles.jpg){ loading=lazy }
+![Snickerdoodles](../assets/images/snickerdoodles.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

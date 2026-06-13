@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/penne-alla-vodka.jpg
+hero: assets/images/penne-alla-vodka.webp
 ---
 
 # :spaghetti: Penne Alla Vodka
@@ -68,4 +68,4 @@ stir in 1/2 cup of the Parmesan cheese and serve hot sprinkled with extra Parmes
 
 - <https://barefootcontessa.com/recipes/penne-alla-vodka>
 
-[1]: <../assets/images/penne-alla-vodka.jpg>
+[1]: <../assets/images/penne-alla-vodka.webp>

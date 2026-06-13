@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - the-cake-mix-doctor
-hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg
+hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.webp
 ---
 
 # :cake: Bride's Cake with Raspberry Filling and White Chocolate Frosting
@@ -78,5 +78,5 @@ Garnish the cake with the fresh raspberries. Slice and serve.
 
 - The Cake Mix Doctor
 
-[1]: <../../assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg>
+[1]: <../../assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.webp>
 [2]: <../../ingredients/frosting/white-chocolate-frosting.md>

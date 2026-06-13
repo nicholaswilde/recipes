@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - bake-off
-hero: assets/images/vegan-vanilla-cake.jpg
+hero: assets/images/vegan-vanilla-cake.webp
 ---
 
 # :cake: Vegan Vanilla Cake
@@ -81,4 +81,4 @@ Allow to cool in the pans for 15 minutes, then carefully invert them onto a cool
 - <https://www.noracooks.com/vegan-vanilla-cake/>
 - <https://www.thepancakeprincess.com/best-vegan-vanilla-cake-bake-off/>
 
-[1]: <../assets/images/vegan-vanilla-cake.jpg>
+[1]: <../assets/images/vegan-vanilla-cake.webp>

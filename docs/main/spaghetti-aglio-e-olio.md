@@ -5,12 +5,12 @@ tags:
   - italian
   - jean-pierre
   - pasta
-hero: assets/images/spaghetti-aglio-e-olio.jpg
+hero: assets/images/spaghetti-aglio-e-olio.webp
 ---
 
 # :spaghetti: Spaghetti Aglio E Olio
 
-![Spaghetti Aglio E Olio](../assets/images/spaghetti-aglio-e-olio.jpg){ loading=lazy }
+![Spaghetti Aglio E Olio](../assets/images/spaghetti-aglio-e-olio.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

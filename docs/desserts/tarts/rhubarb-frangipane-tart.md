@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - tart
-hero: assets/images/rhubarb-frangipane-tart.jpg
+hero: assets/images/rhubarb-frangipane-tart.webp
 ---
 # :leafy_green: Rhubarb Frangipane Tart
 
@@ -79,5 +79,5 @@ brush, brush the glaze over the top of the warm tart, and allow to cool.
 
 - Sainsbury's Magazine
 
-[1]: <../../assets/images/rhubarb-frangipane-tart.jpg>
+[1]: <../../assets/images/rhubarb-frangipane-tart.webp>
 

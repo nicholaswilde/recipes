@@ -5,12 +5,12 @@ tags:
   - cake
   - dessert
   - tante-myrna-seccia
-hero: assets/images/carrot-cake.jpg
+hero: assets/images/carrot-cake.webp
 ---
 
 # :cake: Carrot Cake
 
-![Carrot Cake](../../assets/images/carrot-cake.jpg){ loading=lazy }
+![Carrot Cake](../../assets/images/carrot-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

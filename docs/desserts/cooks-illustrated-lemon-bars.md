@@ -5,7 +5,7 @@ tags:
   - dessert
   - bake-off
   - cooks-illustrated
-hero: assets/images/cooks-illustrated-lemon-bars.jpg
+hero: assets/images/cooks-illustrated-lemon-bars.webp
 ---
 
 # :lemon: Cooks Illustrated Lemon Bars
@@ -89,4 +89,4 @@ between cuts as necessary. Before serving, dust bars with confectioners' sugar (
 - Cook's Illustrated
 - <https://www.thepancakeprincess.com/best-lemon-bar-bake-off/>
 
-[1]: <../assets/images/cooks-illustrated-lemon-bars.jpg>
+[1]: <../assets/images/cooks-illustrated-lemon-bars.webp>

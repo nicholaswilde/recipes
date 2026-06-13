@@ -4,7 +4,7 @@ tags:
   - bread
   - bake-off
   - rolls
-hero: assets/images/parker-house-rolls.jpg
+hero: assets/images/parker-house-rolls.webp
 ---
 # :bread: Parker House Rolls
 
@@ -79,4 +79,4 @@ Bake for 20 to 25 minutes until golden brown. Brush with remaining melted butter
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe)
 - [The Pancake Princess](https://www.thepancakeprincess.com/best-parker-house-roll-bake-off/)
 
-[1]: <../assets/images/parker-house-rolls.jpg>
+[1]: <../assets/images/parker-house-rolls.webp>

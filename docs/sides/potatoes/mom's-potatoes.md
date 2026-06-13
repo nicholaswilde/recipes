@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - holiday
-hero: assets/images/mom's-potatoes.jpg
+hero: assets/images/mom's-potatoes.webp
 ---
 
 # :potato: Mom's Potatoes
 
-![Mom's Potatoes](../../assets/images/mom's-potatoes.jpg){ loading=lazy }
+![Mom's Potatoes](../../assets/images/mom's-potatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

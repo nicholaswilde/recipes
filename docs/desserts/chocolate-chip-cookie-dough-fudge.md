@@ -5,12 +5,12 @@ tags:
   - dessert
   - fudge
   - holiday
-hero: assets/images/chocolate-chip-cookie-dough-fudge.jpg
+hero: assets/images/chocolate-chip-cookie-dough-fudge.webp
 ---
 
 # :chocolate_bar: Chocolate Chip Cookie Dough Fudge
 
-![Chocolate Chip Cookie Dough Fudge](../assets/images/chocolate-chip-cookie-dough-fudge.jpg){ loading=lazy }
+![Chocolate Chip Cookie Dough Fudge](../assets/images/chocolate-chip-cookie-dough-fudge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

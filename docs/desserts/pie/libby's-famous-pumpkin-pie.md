@@ -5,7 +5,7 @@ tags:
   - dessert
   - pie
   - holiday
-hero: assets/images/libby's-famous-pumpkin-pie.jpg
+hero: assets/images/libby's-famous-pumpkin-pie.webp
 ---
 
 # :pie: Libby's Famous Pumpkin Pie
@@ -59,7 +59,7 @@ immediately or refrigerate.
 
 - <https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/>
 
-[1]: <../../assets/images/libby's-famous-pumpkin-pie.jpg>
+[1]: <../../assets/images/libby's-famous-pumpkin-pie.webp>
 [2]: <../../ingredients/pastry-dough/basic-pastry.md>
 [3]: <../../ingredients/sweetened-whipped-cream.md>
 [4]: <../../ingredients/evaporated-milk.md>

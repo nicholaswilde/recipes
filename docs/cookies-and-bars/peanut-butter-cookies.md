@@ -5,7 +5,7 @@ tags:
   - cookie
   - dessert
   - pancake-princess
-hero: assets/images/peanut-butter-cookies.jpg
+hero: assets/images/peanut-butter-cookies.webp
 ---
 
 # :peanuts: Peanut Butter Cookies
@@ -86,4 +86,4 @@ Cookies will keep at room temp tightly covered for up to 3 days or up to a month
 - <https://www.jessiesheehanbakes.com/2015/02/10/salty-milk-chocolate-peanut-butter-cookies/>
 - <https://www.thepancakeprincess.com/2020/06/30/best-peanut-butter-cookie-bake-off/>
 
-[1]: <../assets/images/peanut-butter-cookies.jpg>
+[1]: <../assets/images/peanut-butter-cookies.webp>

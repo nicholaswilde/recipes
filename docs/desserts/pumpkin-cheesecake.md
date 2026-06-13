@@ -6,12 +6,12 @@ tags:
   - cheesecake
   - joy-of-cooking
   - favorite
-hero: assets/images/pumpkin-cheesecake.jpg
+hero: assets/images/pumpkin-cheesecake.webp
 ---
 
 # :pie: Pumpkin Cheesecake
 
-![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.jpg){ loading=lazy }
+![Pumpkin Cheesecake](../assets/images/pumpkin-cheesecake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

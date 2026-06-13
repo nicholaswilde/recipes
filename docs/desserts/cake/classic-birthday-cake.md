@@ -5,12 +5,12 @@ tags:
   - cake
   - dessert
   - king-arthur
-hero: assets/images/classic-birthday-cake.jpg
+hero: assets/images/classic-birthday-cake.webp
 ---
 
 # :cake: Classic Birthday Cake
 
-![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg){ loading=lazy }
+![Classic Birthday Cake](../../assets/images/classic-birthday-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

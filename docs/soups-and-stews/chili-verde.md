@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/chili-verde.jpg
+hero: assets/images/chili-verde.webp
 ---
 
 # :stew: Chili Verde
 
-![Chili Verde](../assets/images/chili-verde.jpg){ loading=lazy }
+![Chili Verde](../assets/images/chili-verde.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

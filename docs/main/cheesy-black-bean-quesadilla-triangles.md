@@ -5,12 +5,12 @@ tags:
   - mexican
   - quesadilla
   - recipe-box
-hero: assets/images/cheesy-black-bean-quesadilla-triangles.jpg
+hero: assets/images/cheesy-black-bean-quesadilla-triangles.webp
 ---
 
 # :flatbread: Cheesy Black Bean Quesadilla Triangles
 
-![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.jpg){ loading=lazy }
+![Cheesy Black Bean Quesadilla Triangles](../assets/images/cheesy-black-bean-quesadilla-triangles.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

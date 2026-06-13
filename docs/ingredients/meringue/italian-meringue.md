@@ -5,12 +5,12 @@ tags:
   - ingredient
   - meringue
   - joy-of-cooking
-hero: assets/images/italian-meringue.jpg
+hero: assets/images/italian-meringue.webp
 ---
 
 # :egg: Italian Meringue
 
-![Italian Meringue](../../assets/images/italian-meringue.jpg){ loading=lazy }
+![Italian Meringue](../../assets/images/italian-meringue.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

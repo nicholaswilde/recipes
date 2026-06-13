@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - dominique-ansel
-hero: assets/images/cherry-almond-skyr-cake.jpg
+hero: assets/images/cherry-almond-skyr-cake.webp
 ---
 
 # :cake: Cherry Almond Skyr Cake
 
-![Cherry Almond Skyr Cake](../../assets/images/cherry-almond-skyr-cake.jpg){ loading=lazy }
+![Cherry Almond Skyr Cake](../../assets/images/cherry-almond-skyr-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

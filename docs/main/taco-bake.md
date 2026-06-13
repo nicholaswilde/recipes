@@ -5,12 +5,12 @@ tags:
   - mexican
   - taco
   - bake
-hero: assets/images/taco-bake.jpg
+hero: assets/images/taco-bake.webp
 ---
 
 # :taco: Taco Bake
 
-![Taco Bake](../assets/images/taco-bake.jpg){ loading=lazy }
+![Taco Bake](../assets/images/taco-bake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

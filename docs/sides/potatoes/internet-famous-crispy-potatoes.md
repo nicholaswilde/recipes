@@ -4,7 +4,7 @@ tags:
 
   - side
   - jeremy-scheck
-hero: assets/images/internet-famous-crispy-potatoes.jpg
+hero: assets/images/internet-famous-crispy-potatoes.webp
 ---
 
 # :potato: Internet-Famous Crispy Potatoes
@@ -65,4 +65,4 @@ Finish with fresh, tender herbs such as dill or parsley (optional).
 
 - <https://scheckeats.com/internet-famous-crispy-potatoes/>
 
-[1]: <../../assets/images/internet-famous-crispy-potatoes.jpg>
+[1]: <../../assets/images/internet-famous-crispy-potatoes.webp>

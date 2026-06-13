@@ -5,7 +5,7 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
-hero: assets/images/crispy-baked-tofu-with-italian-herbs.jpg
+hero: assets/images/crispy-baked-tofu-with-italian-herbs.webp
 ---
 
 # :custard: Crispy Baked Tofu with Italian Herbs
@@ -76,4 +76,4 @@ skillet or in the oven at 350°F (176°C) for 5-10 minutes until warm and crispy
 
 - <https://minimalistbaker.com/italian-herb-crispy-baked-tofu/>
 
-[1]: <../../assets/images/crispy-baked-tofu-with-italian-herbs.jpg>
+[1]: <../../assets/images/crispy-baked-tofu-with-italian-herbs.webp>

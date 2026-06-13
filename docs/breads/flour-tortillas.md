@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/flour-tortillas.jpg
+hero: assets/images/flour-tortillas.webp
 ---
 
 # :flatbread: Flour Tortillas
@@ -97,4 +97,4 @@ freezer.
 
 - <https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/>
 
-[1]: <../assets/images/flour-tortillas.jpg>
+[1]: <../assets/images/flour-tortillas.webp>

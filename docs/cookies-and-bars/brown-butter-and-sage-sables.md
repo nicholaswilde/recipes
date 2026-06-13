@@ -6,7 +6,7 @@ tags:
   - claire-saffitz
   - dessert
   - favorite
-hero: assets/images/brown-butter-and-sage-sables.jpg
+hero: assets/images/brown-butter-and-sage-sables.webp
 ---
 
 # :cookie: Brown Butter & Sage Sables
@@ -128,4 +128,4 @@ baking sheets.
 
 - Dessert Person
 
-[1]: <../assets/images/brown-butter-and-sage-sables.jpg>
+[1]: <../assets/images/brown-butter-and-sage-sables.webp>

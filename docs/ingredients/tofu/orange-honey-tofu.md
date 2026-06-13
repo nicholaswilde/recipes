@@ -4,12 +4,12 @@ tags:
 
   - asian
   - vegetarian
-hero: assets/images/orange-honey-tofu.jpg
+hero: assets/images/orange-honey-tofu.webp
 ---
 
 # :tangerine: Orange Honey Tofu
 
-![Orange Honey Tofu](../../assets/images/orange-honey-tofu.jpg){ loading=lazy }
+![Orange Honey Tofu](../../assets/images/orange-honey-tofu.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

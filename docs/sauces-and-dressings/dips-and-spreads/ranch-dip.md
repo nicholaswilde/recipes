@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dip
-hero: assets/images/ranch-dip.jpg
+hero: assets/images/ranch-dip.webp
 ---
 
 # Ranch Dip
 
-![Ranch Dip](../../assets/images/ranch-dip.jpg){ loading=lazy }
+![Ranch Dip](../../assets/images/ranch-dip.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

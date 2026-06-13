@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/peanut-butter-bars-with-salted-chocolate-ganache.jpg
+hero: assets/images/peanut-butter-bars-with-salted-chocolate-ganache.webp
 ---
 
 # :peanuts: Peanut Butter Bars with Salted Chocolate Ganache
@@ -64,4 +64,4 @@ Sprinkle evenly with the flaky sea salt. Cut into squares to serve.
 
 - <https://www.foodnetwork.com/recipes/nancy-fuller/peanut-butter-bars-with-salted-chocolate-ganache-3287824>
 
-[1]: <../assets/images/peanut-butter-bars-with-salted-chocolate-ganache.jpg>
+[1]: <../assets/images/peanut-butter-bars-with-salted-chocolate-ganache.webp>

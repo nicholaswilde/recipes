@@ -4,12 +4,12 @@ tags:
 
   - julia-child
   - soup
-hero: assets/images/vichyssoise-(leek-and-potato-soup).jpg
+hero: assets/images/vichyssoise-(leek-and-potato-soup).webp
 ---
 
 # :leafy_green: Vichyssoise (Leek & Potato Soup)
 
-![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).jpg){ loading=lazy }
+![Vichyssoise (Leek and Potato Soup)](../assets/images/vichyssoise-(leek-and-potato-soup).webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

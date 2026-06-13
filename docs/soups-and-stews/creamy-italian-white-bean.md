@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/creamy-italian-white-bean.jpg
+hero: assets/images/creamy-italian-white-bean.webp
 ---
 
 # :canned_food: Creamy Italian White Bean
@@ -84,5 +84,5 @@ Store leftovers in an airtight container in the refrigerator for up to 3-4 days 
 
 - <https://minimalistbaker.com/creamy-italian-white-bean-skillet-meal/>
 
-[1]: <../assets/images/creamy-italian-white-bean.jpg>
+[1]: <../assets/images/creamy-italian-white-bean.webp>
 [2]: <../ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md>

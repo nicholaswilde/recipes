@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - cooks-illustrated
-hero: assets/images/spaghetti-all'assassina.jpg
+hero: assets/images/spaghetti-all'assassina.webp
 ---
 
 # :spaghetti: Spaghetti All'Assassina
 
-![Spaghetti All'Assassina](../assets/images/spaghetti-all'assassina.jpg){ loading=lazy }
+![Spaghetti All'Assassina](../assets/images/spaghetti-all'assassina.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

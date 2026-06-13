@@ -5,12 +5,12 @@ tags:
   - lunch
   - sandwich
   - applied-kitchen
-hero: assets/images/caprese-sandwich.jpg
+hero: assets/images/caprese-sandwich.webp
 ---
 
 # :sandwich: Caprese Sandwich
 
-![Caprese Sandwich](../assets/images/caprese-sandwich.jpg){ loading=lazy }
+![Caprese Sandwich](../assets/images/caprese-sandwich.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

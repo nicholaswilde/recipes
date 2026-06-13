@@ -5,12 +5,12 @@ tags:
   - glaze
   - joy-of-cooking
   - ingredient
-hero: assets/images/milk-glaze.jpg
+hero: assets/images/milk-glaze.webp
 ---
 
 # :glass_of_milk: Milk Glaze
 
-![Milk Glaze](../../assets/images/milk-glaze.jpg){ loading=lazy }
+![Milk Glaze](../../assets/images/milk-glaze.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

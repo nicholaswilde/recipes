@@ -5,7 +5,7 @@ tags:
   - dessert
   - stella-parks
   - serious-eats
-hero: assets/images/oatmeal-raisin-cookies.jpg
+hero: assets/images/oatmeal-raisin-cookies.webp
 ---
 # :cookie: Oatmeal Raisin Cookies
 
@@ -79,4 +79,4 @@ Let the cookies cool completely on the baking sheet.
 
 - <https://www.seriouseats.com/oatmeal-raisin-cookies-recipe-8759166>
 
-[1]: <../assets/images/oatmeal-raisin-cookies.jpg>
+[1]: <../assets/images/oatmeal-raisin-cookies.webp>

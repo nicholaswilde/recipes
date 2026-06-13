@@ -4,12 +4,12 @@ tags:
 
   - main
   - sprouted-kitchen
-hero: assets/images/baked-sweet-potatoes-with-chili-beans.jpg
+hero: assets/images/baked-sweet-potatoes-with-chili-beans.webp
 ---
 
 # :sweet_potato: Baked Sweet Potatoes With Chili Beans
 
-![Baked Sweet Potatoes With Chili Beans](../assets/images/baked-sweet-potatoes-with-chili-beans.jpg){ loading=lazy }
+![Baked Sweet Potatoes With Chili Beans](../assets/images/baked-sweet-potatoes-with-chili-beans.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - meatball
   - main
-hero: assets/images/ginger-sesame-vegan-meatballs.jpg
+hero: assets/images/ginger-sesame-vegan-meatballs.webp
 ---
 
 # :meat_on_bone: Ginger Sesame Vegan Meatballs
 
-![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.jpg){ loading=lazy }
+![Ginger Sesame Vegan Meatballs](../assets/images/ginger-sesame-vegan-meatballs.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

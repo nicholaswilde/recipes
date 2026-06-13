@@ -4,12 +4,12 @@ tags:
   - favorite
   - holiday
   - thanksgiving
-hero: assets/images/leftover-thanksgiving-pot-pies.jpg
+hero: assets/images/leftover-thanksgiving-pot-pies.webp
 ---
 
 # :pie: Leftover Thanksgiving Pot Pies
 
-![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.jpg){ loading=lazy }
+![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

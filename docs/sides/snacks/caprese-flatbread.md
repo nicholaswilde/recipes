@@ -4,12 +4,12 @@ tags:
 
   - side
   - magnolia
-hero: assets/images/caprese-flatbread.jpg
+hero: assets/images/caprese-flatbread.webp
 ---
 
 # :flatbread: Caprese Flatbread
 
-![Caprese Flatbread](../../assets/images/caprese-flatbread.jpg){ loading=lazy }
+![Caprese Flatbread](../../assets/images/caprese-flatbread.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

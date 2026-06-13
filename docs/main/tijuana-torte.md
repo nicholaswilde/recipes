@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - recipe-box
-hero: assets/images/tijuana-torte.jpg
+hero: assets/images/tijuana-torte.webp
 ---
 
 # :pie: Tijuana Torte
@@ -67,5 +67,5 @@ Bake for 20 to 25 minutes.
 - Proctor Junior Troop - Toni Wilkerson
 - Recipe Box
 
-[1]: <../assets/images/tijuana-torte.jpg>
+[1]: <../assets/images/tijuana-torte.webp>
 [2]: <../ingredients/seasonings/taco-seasoning.md>

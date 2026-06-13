@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/ranch-dressing.jpg
+hero: assets/images/ranch-dressing.webp
 ---
 
 # :herb: Ranch Dressing
 
-![Ranch Dressing](../../assets/images/ranch-dressing.jpg){ loading=lazy }
+![Ranch Dressing](../../assets/images/ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

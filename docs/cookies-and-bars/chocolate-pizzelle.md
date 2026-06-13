@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/chocolate-pizzelle.jpg
+hero: assets/images/chocolate-pizzelle.webp
 ---
 
 # :cookie: Chocolate Pizzelle
 
-![Chocolate Pizzelle](../assets/images/chocolate-pizzelle.jpg){ loading=lazy }
+![Chocolate Pizzelle](../assets/images/chocolate-pizzelle.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

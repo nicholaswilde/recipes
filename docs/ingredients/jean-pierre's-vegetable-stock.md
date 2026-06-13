@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/jean-pierre's-vegetable-stock.jpg
+hero: assets/images/jean-pierre's-vegetable-stock.webp
 ---
 
 # :stew: Jean Pierre's Vegetable Stock
 
-![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.jpg){ loading=lazy }
+![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

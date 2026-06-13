@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg
+hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
 ---
 
 # :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
 
-![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg){ loading=lazy }
+![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

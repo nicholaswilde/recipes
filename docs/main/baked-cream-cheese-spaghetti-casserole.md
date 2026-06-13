@@ -4,12 +4,12 @@ tags:
 
   - italian
   - recipe-box
-hero: assets/images/baked-cream-cheese-spaghetti-casserole.jpg
+hero: assets/images/baked-cream-cheese-spaghetti-casserole.webp
 ---
 
 # :spaghetti: Baked Cream Cheese Spaghetti Casserole
 
-![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg){ loading=lazy }
+![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/banana-chips.jpg
+hero: assets/images/banana-chips.webp
 ---
 
 # :banana: Banana Chips
@@ -59,4 +59,4 @@ over and air fry for 2 to 4 minutes at 350°F (177°C) if they aren't crispy eno
 
 - <https://summeryule.com/air-fryer-banana-chips/>
 
-[1]: <../../assets/images/banana-chips.jpg>
+[1]: <../../assets/images/banana-chips.webp>

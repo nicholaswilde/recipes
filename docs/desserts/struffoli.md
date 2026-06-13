@@ -6,7 +6,7 @@ tags:
   - dessert
   - honey
   - struffoli
-hero: assets/images/struffoli.jpg
+hero: assets/images/struffoli.webp
 ---
 
 # Struffoli
@@ -93,4 +93,4 @@ Pile on a serving plate and decorate with colored sprinkles.
 
 - <https://www.marcellinaincucina.com/struffoli-bakers-odyssey-challenge-38/>
 
-[1]: <../assets/images/struffoli.jpg>
+[1]: <../assets/images/struffoli.webp>

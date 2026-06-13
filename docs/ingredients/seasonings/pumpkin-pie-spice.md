@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/pumpkin-pie-spice.jpg
+hero: assets/images/pumpkin-pie-spice.webp
 ---
 
 # :jack_o_lantern: Pumpkin Pie Spice
@@ -50,4 +50,4 @@ temperature in a dry place, like a cupboard, drawer, or pantry.
 
 - <https://sallysbakingaddiction.com/pumpkin-pie-spice/>
 
-[1]: <../../assets/images/pumpkin-pie-spice.jpg>
+[1]: <../../assets/images/pumpkin-pie-spice.webp>

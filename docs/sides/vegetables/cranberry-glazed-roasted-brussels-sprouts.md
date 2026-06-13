@@ -4,7 +4,7 @@ tags:
   - holiday
   - side
   - thanksgiving
-hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg
+hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.webp
 ---
 
 # :leafy_green: Cranberry Glazed Roasted Brussels Sprouts
@@ -72,4 +72,4 @@ clung and coated the Brussels sprouts.
 
 - <https://www.halfbakedharvest.com/cranberry-glazed-roasted-brussel-sprouts/>
 
-[1]: <../../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg>
+[1]: <../../assets/images/cranberry-glazed-roasted-brussels-sprouts.webp>

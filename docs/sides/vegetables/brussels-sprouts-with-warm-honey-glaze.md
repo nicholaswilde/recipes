@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/brussels-sprouts-with-warm-honey-glaze.jpg
+hero: assets/images/brussels-sprouts-with-warm-honey-glaze.webp
 ---
 
 # :leafy_green: Brussels Sprouts With Warm Honey Glaze
 
-![Brussels Sprouts With Warm Honey Glaze](../../assets/images/brussels-sprouts-with-warm-honey-glaze.jpg){ loading=lazy }
+![Brussels Sprouts With Warm Honey Glaze](../../assets/images/brussels-sprouts-with-warm-honey-glaze.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/julia-child's-garlic-mashed-potatoes.jpg
+hero: assets/images/julia-child's-garlic-mashed-potatoes.webp
 ---
 
 # :potato: Julia Child's Garlic Mashed Potatoes
 
-![Julia Child's Garlic Mashed Potatoes](../../assets/images/julia-child's-garlic-mashed-potatoes.jpg){ loading=lazy }
+![Julia Child's Garlic Mashed Potatoes](../../assets/images/julia-child's-garlic-mashed-potatoes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

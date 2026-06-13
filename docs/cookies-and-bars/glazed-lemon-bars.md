@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - recipe-box
-hero: assets/images/glazed-lemon-bars.jpg
+hero: assets/images/glazed-lemon-bars.webp
 ---
 
 # :lemon: Glazed Lemon Bars
 
-![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.jpg){ loading=lazy }
+![Glazed Lemon Bars](../assets/images/glazed-lemon-bars.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

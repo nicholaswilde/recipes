@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/crème-fraîche.jpg
+hero: assets/images/crème-fraîche.webp
 ---
 
 # :rice: Crème Fraîche
 
-![Crème Fraîche](../assets/images/crème-fraîche.jpg){ loading=lazy }
+![Crème Fraîche](../assets/images/crème-fraîche.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/pumpkin-bread.jpg
+hero: assets/images/pumpkin-bread.webp
 ---
 
 # :jack_o_lantern: Pumpkin Bread
 
-![Pumpkin Bread](../assets/images/pumpkin-bread.jpg){ loading=lazy }
+![Pumpkin Bread](../assets/images/pumpkin-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/garlic-parsley-basting-butter.jpg
+hero: assets/images/garlic-parsley-basting-butter.webp
 ---
 
 # :butter: Garlic-Parsley Basting Butter
 
-![Garlic-Parsley Basting Butter](../../assets/images/garlic-parsley-basting-butter.jpg){ loading=lazy }
+![Garlic-Parsley Basting Butter](../../assets/images/garlic-parsley-basting-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

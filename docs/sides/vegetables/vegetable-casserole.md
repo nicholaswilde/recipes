@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegetable-casserole.jpg
+hero: assets/images/vegetable-casserole.webp
 ---
 # Vegetable Casserole
 
@@ -47,7 +47,7 @@ substitute, salt and pepper to taste until blended, then pour into pie plate.
 
 Bake for 35 minutes.
 
-[1]: <../../assets/images/vegetable-casserole.jpg>
+[1]: <../../assets/images/vegetable-casserole.webp>
 [2]: <../../ingredients/vegan-parmesan.md>
 [3]: <../../reference/equivalents-and-substitutes.md#eggs>
 

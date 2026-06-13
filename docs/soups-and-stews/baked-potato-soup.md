@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - soup
-hero: assets/images/baked-potato-soup.jpg
+hero: assets/images/baked-potato-soup.webp
 ---
 
 # :potato: Baked Potato Soup
 
-![Baked Potato Soup](../assets/images/baked-potato-soup.jpg){ loading=lazy }
+![Baked Potato Soup](../assets/images/baked-potato-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

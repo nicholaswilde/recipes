@@ -6,7 +6,7 @@ tags:
   - stew
   - NYT Cooking
   - Alison Roman
-hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.jpg
+hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.webp
 ---
 
 # Spiced Chickpea Stew With Coconut and Turmeric
@@ -87,4 +87,4 @@ red-pepper flakes (if desired), and a drizzle of olive oil. Serve with yogurt an
 
 - <https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric>
 
-[1]: <../assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.jpg>
+[1]: <../assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.webp>

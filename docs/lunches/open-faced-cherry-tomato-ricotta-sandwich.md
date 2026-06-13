@@ -5,7 +5,7 @@ tags:
   - lunch
   - cooks-illustrated
   - sandwich
-hero: assets/images/open-faced-cherry-tomato-ricotta-sandwich.jpg
+hero: assets/images/open-faced-cherry-tomato-ricotta-sandwich.webp
 ---
 
 # :sandwich: Open-Faced Cherry Tomato Ricotta Sandwich
@@ -51,4 +51,4 @@ whole-milk ricotta on each slice of rustic 1/2-inch-thick bread. Top with tomato
 
 - Cook's Illustrated
 
-[1]: <../assets/images/open-faced-cherry-tomato-ricotta-sandwich.jpg>
+[1]: <../assets/images/open-faced-cherry-tomato-ricotta-sandwich.webp>

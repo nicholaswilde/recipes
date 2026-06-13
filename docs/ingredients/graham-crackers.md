@@ -5,12 +5,12 @@ tags:
   - cracker
   - alton-brown
   - snack
-hero: assets/images/graham-crackers.jpg
+hero: assets/images/graham-crackers.webp
 ---
 
 # :cookie: Graham Crackers
 
-![Graham Crackers](../assets/images/graham-crackers.jpg){ loading=lazy }
+![Graham Crackers](../assets/images/graham-crackers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

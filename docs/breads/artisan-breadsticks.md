@@ -5,7 +5,7 @@ tags:
   - side
   - king-arthur
   - appetizer
-hero: assets/images/artisan-breadsticks.jpg
+hero: assets/images/artisan-breadsticks.webp
 ---
 # Artisan Breadsticks
 
@@ -83,4 +83,4 @@ Once the breadsticks are cool enough to handle, cut along the score lines to sep
 
 - <https://www.kingarthurbaking.com/recipes/artisan-breadsticks-recipe>
 
-[1]: <../assets/images/artisan-breadsticks.jpg>
+[1]: <../assets/images/artisan-breadsticks.webp>

@@ -4,7 +4,7 @@ tags:
 
   - applied-kitchen
   - dressing
-hero: assets/images/sumac-lemon-vinaigrette.jpg
+hero: assets/images/sumac-lemon-vinaigrette.webp
 ---
 
 # :lemon: Sumac Lemon Vinaigrette
@@ -60,4 +60,4 @@ Toss the vinaigrette into the salad and serve.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/sumac-lemon-vinaigrette.jpg>
+[1]: <../../assets/images/sumac-lemon-vinaigrette.webp>

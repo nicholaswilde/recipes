@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/buffalo-sauce.jpg
+hero: assets/images/buffalo-sauce.webp
 ---
 
 # :water_buffalo: Buffalo Sauce
 
-![Buffalo Sauce](../../assets/images/buffalo-sauce.jpg){ loading=lazy }
+![Buffalo Sauce](../../assets/images/buffalo-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

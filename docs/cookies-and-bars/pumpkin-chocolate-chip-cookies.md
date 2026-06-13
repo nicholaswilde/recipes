@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/pumpkin-chocolate-chip-cookies.jpg
+hero: assets/images/pumpkin-chocolate-chip-cookies.webp
 ---
 
 # :jack_o_lantern: Pumpkin Chocolate Chip Cookies
@@ -97,4 +97,4 @@ hours, they soften throughout).
 
 - <https://www.cookingclassy.com/pumpkin-chocolate-chip-cookies/>
 
-[1]: <../assets/images/pumpkin-chocolate-chip-cookies.jpg>
+[1]: <../assets/images/pumpkin-chocolate-chip-cookies.webp>

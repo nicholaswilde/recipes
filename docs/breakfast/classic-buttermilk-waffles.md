@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - bake-off
-hero: assets/images/classic-buttermilk-waffles.jpg
+hero: assets/images/classic-buttermilk-waffles.webp
 ---
 
 # :waffle: Classic Buttermilk Waffles
 
-![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.jpg){ loading=lazy }
+![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

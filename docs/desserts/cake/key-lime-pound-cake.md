@@ -5,7 +5,7 @@ tags:
   - cake
   - pound-cake
   - key-lime
-hero: assets/images/key-lime-pound-cake.jpg
+hero: assets/images/key-lime-pound-cake.webp
 ---
 # Key Lime Pound Cake
 
@@ -92,5 +92,5 @@ Allow the cake to cool completely for about 1 hour before serving.
 
 - <https://www.southernliving.com/recipes/key-lime-pound-cake>
 
-[1]: <../../assets/images/key-lime-pound-cake.jpg>
+[1]: <../../assets/images/key-lime-pound-cake.webp>
 

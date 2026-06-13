@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/magic-cookie-bars.jpg
+hero: assets/images/magic-cookie-bars.webp
 ---
 
 # :magic_wand: Magic Cookie Bars
@@ -55,5 +55,5 @@ Bake in the preheated oven until lightly browned, about 25 minutes. Cool complet
 
 - <https://www.allrecipes.com/recipe/63959/magic-cookie-bars-from-eagle-brand/>
 
-[1]: <../assets/images/magic-cookie-bars.jpg>
+[1]: <../assets/images/magic-cookie-bars.webp>
 [2]: <../ingredients/sweetened-condensed-milk.md>

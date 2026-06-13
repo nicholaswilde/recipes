@@ -4,12 +4,12 @@ tags:
 
   - overnight-oats
   - breakfast
-hero: assets/images/double-berry-overnight-oats.jpg
+hero: assets/images/double-berry-overnight-oats.webp
 ---
 
 # :ear_of_rice: Double-Berry Overnight Oats
 
-![Double-Berry Overnight Oats](../assets/images/double-berry-overnight-oats.jpg){ loading=lazy }
+![Double-Berry Overnight Oats](../assets/images/double-berry-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

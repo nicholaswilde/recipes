@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - bake-off
-hero: assets/images/black-and-white-cookies.jpg
+hero: assets/images/black-and-white-cookies.webp
 ---
 
 # :cookie: Black & White Cookies
 
-![Black and White Cookies](../assets/images/black-and-white-cookies.jpg){ loading=lazy }
+![Black and White Cookies](../assets/images/black-and-white-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

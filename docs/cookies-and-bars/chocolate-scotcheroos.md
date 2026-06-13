@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - recipe-box
-hero: assets/images/chocolate-scotcheroos.jpg
+hero: assets/images/chocolate-scotcheroos.webp
 ---
 
 # :cookie: Chocolate Scotcheroos
 
-![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.jpg){ loading=lazy }
+![Chocolate Scotcheroos](../assets/images/chocolate-scotcheroos.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

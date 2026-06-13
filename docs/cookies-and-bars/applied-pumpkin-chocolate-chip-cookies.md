@@ -5,7 +5,7 @@ tags:
   - cookie
   - applied-kitchen
   - dessert
-hero: assets/images/applied-pumpkin-chocolate-chip-cookies.jpg
+hero: assets/images/applied-pumpkin-chocolate-chip-cookies.webp
 ---
 
 # Applied Pumpkin Chocolate Chip Cookies
@@ -83,4 +83,4 @@ the edges are golden and the centers are set. Baking time may vary depending on 
 
 - Applied Kitchen
 
-[1]: <../assets/images/applied-pumpkin-chocolate-chip-cookies.jpg>
+[1]: <../assets/images/applied-pumpkin-chocolate-chip-cookies.webp>

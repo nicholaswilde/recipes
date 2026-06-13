@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - mousse
-hero: assets/images/strawberry-mousse.jpg
+hero: assets/images/strawberry-mousse.webp
 ---
 
 # :strawberry: Strawberry Mousse
 
-![Strawberry Mousse](../assets/images/strawberry-mousse.jpg){ loading=lazy }
+![Strawberry Mousse](../assets/images/strawberry-mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

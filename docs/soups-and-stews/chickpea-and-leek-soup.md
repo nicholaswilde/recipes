@@ -5,7 +5,7 @@ tags:
   - stew
   - chickpea
   - leek
-hero: assets/images/chickpea-and-leek-soup.jpg
+hero: assets/images/chickpea-and-leek-soup.webp
 ---
 # Chickpea and Leek Soup
 
@@ -83,4 +83,4 @@ pepper, and an extra sprinkling of Parmesan cheese.
 
 - <https://www.foodnetwork.com/recipes/jamie-oliver/chickpea-and-leek-soup-recipe-1911871>
 
-[1]: <../assets/images/chickpea-and-leek-soup.jpg>
+[1]: <../assets/images/chickpea-and-leek-soup.webp>

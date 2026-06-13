@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/garlic-bread.jpg
+hero: assets/images/garlic-bread.webp
 ---
 
 # :baguette_bread: Garlic Bread
 
-![Garlic Bread](../assets/images/garlic-bread.jpg){ loading=lazy }
+![Garlic Bread](../assets/images/garlic-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

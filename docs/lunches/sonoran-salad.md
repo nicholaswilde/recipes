@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/sonoran-salad.jpg
+hero: assets/images/sonoran-salad.webp
 ---
 
 # :green_salad: Sonoran Salad

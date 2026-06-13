@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - the-blue-zones-kitchen
-hero: assets/images/honey-cookies-(finikia).jpg
+hero: assets/images/honey-cookies-(finikia).webp
 ---
 
 # :honey_pot: Honey Cookies (Finikia)
 
-![Honey Cookies (Finikia)](../assets/images/honey-cookies-(finikia).jpg){ loading=lazy }
+![Honey Cookies (Finikia)](../assets/images/honey-cookies-(finikia).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

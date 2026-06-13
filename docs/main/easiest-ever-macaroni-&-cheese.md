@@ -4,12 +4,12 @@ tags:
 
   - pasta
   - italian
-hero: assets/images/easiest-ever-macaroni-&-cheese.jpg
+hero: assets/images/easiest-ever-macaroni-&-cheese.webp
 ---
 
 # :spaghetti: Easiest Ever Macaroni & Cheese
 
-![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.jpg){ loading=lazy }
+![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

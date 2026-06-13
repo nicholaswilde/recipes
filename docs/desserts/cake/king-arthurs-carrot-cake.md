@@ -6,7 +6,7 @@ tags:
   - cake
   - bake-off
   - king-arthur
-hero: assets/images/king-arthurs-carrot-cake.jpg
+hero: assets/images/king-arthurs-carrot-cake.webp
 ---
 
 # :carrot: King Arthurs Carrot Cake
@@ -104,4 +104,4 @@ Refrigerate any leftovers, well wrapped, for a day or so; freeze for longer stor
 - <https://www.kingarthurbaking.com/recipes/king-arthurs-carrot-cake-recipe>
 - <https://www.thepancakeprincess.com/best-carrot-cake-bake-off/>
 
-[1]: <../../assets/images/king-arthurs-carrot-cake.jpg>
+[1]: <../../assets/images/king-arthurs-carrot-cake.webp>

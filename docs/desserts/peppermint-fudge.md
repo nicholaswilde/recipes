@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/peppermint-fudge.jpg
+hero: assets/images/peppermint-fudge.webp
 ---
 # Peppermint Fudge
 
@@ -69,5 +69,5 @@ Store in an airtight container in the refrigerator up to 3 days.
 
 - Magnolia
 
-[1]: <../assets/images/peppermint-fudge.jpg>
+[1]: <../assets/images/peppermint-fudge.webp>
 [2]: <../ingredients/evaporated-milk.md>

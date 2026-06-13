@@ -5,12 +5,12 @@ tags:
   - ingredient
   - sponge
   - king-arthur
-hero: assets/images/chiffon-sponge.jpg
+hero: assets/images/chiffon-sponge.webp
 ---
 
 # :cake: Chiffon Sponge
 
-![Chiffon Sponge](../../assets/images/chiffon-sponge.jpg){ loading=lazy }
+![Chiffon Sponge](../../assets/images/chiffon-sponge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

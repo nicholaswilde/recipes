@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - minimalist-baker
-hero: assets/images/simple-berry-compote.jpg
+hero: assets/images/simple-berry-compote.webp
 ---
 
 # :strawberry: Simple Berry Compote
 
-![Simple Berry Compote](../../assets/images/simple-berry-compote.jpg){ loading=lazy }
+![Simple Berry Compote](../../assets/images/simple-berry-compote.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

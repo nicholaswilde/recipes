@@ -4,12 +4,12 @@ tags:
 
   - side
   - jean-pierre
-hero: assets/images/creamed-spinach.jpg
+hero: assets/images/creamed-spinach.webp
 ---
 
 # :leafy_green: Creamed Spinach
 
-![Creamed Spinach](../../assets/images/creamed-spinach.jpg){ loading=lazy }
+![Creamed Spinach](../../assets/images/creamed-spinach.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

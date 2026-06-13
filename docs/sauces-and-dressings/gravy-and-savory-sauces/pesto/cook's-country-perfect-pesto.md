@@ -6,12 +6,12 @@ tags:
   - italian
   - cooks-illustrated
   - pesto
-hero: assets/images/cook's-country-perfect-pesto.jpg
+hero: assets/images/cook's-country-perfect-pesto.webp
 ---
 
 # :herb: Cook's Country Perfect Pesto
 
-![Cook's Country Perfect Pesto](../../../assets/images/cook's-country-perfect-pesto.jpg){ loading=lazy }
+![Cook's Country Perfect Pesto](../../../assets/images/cook's-country-perfect-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

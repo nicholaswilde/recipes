@@ -4,7 +4,7 @@ tags:
   - bread
   - sourdough
   - blueberry
-hero: assets/images/easy-sourdough-blueberry-bread.jpg
+hero: assets/images/easy-sourdough-blueberry-bread.webp
 ---
 # :bread: Easy Sourdough Blueberry Bread
 
@@ -101,4 +101,4 @@ Allow the bread to cool in the pan for 20 minutes before transferring it to a **
 
 - <https://www.farmhouseonboone.com/easy-sourdough-blueberry-bread/>
 
-[1]: <../assets/images/easy-sourdough-blueberry-bread.jpg>
+[1]: <../assets/images/easy-sourdough-blueberry-bread.webp>

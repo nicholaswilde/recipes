@@ -4,7 +4,7 @@ tags:
 
   - dressing
   - applied-kitchen
-hero: assets/images/red-wine-vinaigrette.jpg
+hero: assets/images/red-wine-vinaigrette.webp
 ---
 
 # :sake: Red Wine Vinaigrette
@@ -54,4 +54,4 @@ Garnish with the chopped basil and serve.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/red-wine-vinaigrette.jpg>
+[1]: <../../assets/images/red-wine-vinaigrette.webp>

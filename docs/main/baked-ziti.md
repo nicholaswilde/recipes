@@ -4,12 +4,12 @@ tags:
   - holiday
   - italian
   - pasta
-hero: assets/images/baked-ziti.jpg
+hero: assets/images/baked-ziti.webp
 ---
 
 # :spaghetti: Baked Ziti
 
-![Baked Ziti](../assets/images/baked-ziti.jpg){ loading=lazy }
+![Baked Ziti](../assets/images/baked-ziti.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

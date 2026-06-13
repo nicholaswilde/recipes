@@ -4,12 +4,12 @@ tags:
 
   - italian
   - pizza
-hero: assets/images/white-pizza.jpg
+hero: assets/images/white-pizza.webp
 ---
 
 # :pizza: White Pizza
 
-![White Pizza](../assets/images/white-pizza.jpg){ loading=lazy }
+![White Pizza](../assets/images/white-pizza.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

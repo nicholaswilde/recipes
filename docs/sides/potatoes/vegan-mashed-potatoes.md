@@ -4,7 +4,7 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/vegan-mashed-potatoes.jpg
+hero: assets/images/vegan-mashed-potatoes.webp
 ---
 
 # :potato: Vegan Mashed Potatoes
@@ -67,4 +67,4 @@ keep in the fridge covered for up to a few days. Not freezer friendly.
 
 - <https://minimalistbaker.com/the-best-damn-vegan-mashed-potatoes/>
 
-[1]: <../../assets/images/vegan-mashed-potatoes.jpg>
+[1]: <../../assets/images/vegan-mashed-potatoes.webp>

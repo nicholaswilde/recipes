@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/italian-seasoning.jpg
+hero: assets/images/italian-seasoning.webp
 ---
 
 # :herb: Italian Seasoning
 
-![Italian Seasoning](../../assets/images/italian-seasoning.jpg){ loading=lazy }
+![Italian Seasoning](../../assets/images/italian-seasoning.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - pie
-hero: assets/images/peanut-butter-cream-pie.jpg
+hero: assets/images/peanut-butter-cream-pie.webp
 ---
 
 # :peanuts: Peanut Butter Cream Pie
 
-![Peanut Butter Cream Pie](../../assets/images/peanut-butter-cream-pie.jpg){ loading=lazy }
+![Peanut Butter Cream Pie](../../assets/images/peanut-butter-cream-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

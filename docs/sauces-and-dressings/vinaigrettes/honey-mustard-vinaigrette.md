@@ -4,12 +4,12 @@ tags:
 
   - dressing
   - joy-of-cooking
-hero: assets/images/honey-mustard-vinaigrette.jpg
+hero: assets/images/honey-mustard-vinaigrette.webp
 ---
 
 # :honey_pot: Honey Mustard Vinaigrette
 
-![Honey Mustard Vinaigrette](../../assets/images/honey-mustard-vinaigrette.jpg){ loading=lazy }
+![Honey Mustard Vinaigrette](../../assets/images/honey-mustard-vinaigrette.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

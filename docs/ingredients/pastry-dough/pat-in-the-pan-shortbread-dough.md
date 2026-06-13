@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - joy-of-cooking
-hero: assets/images/pat-in-the-pan-shortbread-dough.jpg
+hero: assets/images/pat-in-the-pan-shortbread-dough.webp
 ---
 
 # :pie: Pat-in-the-Pan Shortbread Dough
 
-![Pat-in-the-Pan Shortbread Dough](../../assets/images/pat-in-the-pan-shortbread-dough.jpg){ loading=lazy }
+![Pat-in-the-Pan Shortbread Dough](../../assets/images/pat-in-the-pan-shortbread-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

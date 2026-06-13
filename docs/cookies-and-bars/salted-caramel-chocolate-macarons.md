@@ -6,12 +6,12 @@ tags:
   - dessert
   - cupcake-jemma
   - macaron
-hero: assets/images/salted-caramel-chocolate-macarons.jpg
+hero: assets/images/salted-caramel-chocolate-macarons.webp
 ---
 
 # :cookie: Salted Caramel Chocolate Macarons
 
-![Salted Caramel Chocolate Macarons](../assets/images/salted-caramel-chocolate-macarons.jpg){ loading=lazy }
+![Salted Caramel Chocolate Macarons](../assets/images/salted-caramel-chocolate-macarons.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

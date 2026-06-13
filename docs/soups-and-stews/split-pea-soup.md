@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/split-pea-soup.jpg
+hero: assets/images/split-pea-soup.webp
 ---
 
 # :green_circle: Split Pea Soup
 
-![Split Pea Soup](../assets/images/split-pea-soup.jpg){ loading=lazy }
+![Split Pea Soup](../assets/images/split-pea-soup.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

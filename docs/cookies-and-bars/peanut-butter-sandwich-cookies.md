@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
-hero: assets/images/peanut-butter-sandwich-cookies.jpg
+hero: assets/images/peanut-butter-sandwich-cookies.webp
 ---
 
 # :peanuts: Peanut Butter Sandwich Cookies
 
-![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg){ loading=lazy }
+![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/potato-bread.jpg
+hero: assets/images/potato-bread.webp
 ---
 
 # :potato: Potato Bread
@@ -99,4 +99,4 @@ wrap well and freeze.
 
 - <https://www.kingarthurbaking.com/recipes/potato-bread-recipe>
 
-[1]: <../assets/images/potato-bread.jpg>
+[1]: <../assets/images/potato-bread.webp>

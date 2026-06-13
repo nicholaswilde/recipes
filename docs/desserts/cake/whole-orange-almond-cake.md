@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
   - james-beard
-hero: assets/images/whole-orange-almond-cake.jpg
+hero: assets/images/whole-orange-almond-cake.webp
 ---
 
 # :tangerine: Whole Orange Almond Cake
@@ -102,4 +102,4 @@ Serve with whipped cream.
 
 - <https://www.jamesbeard.org/recipes/whole-orange-almond-cake>
 
-[1]: <../../assets/images/whole-orange-almond-cake.jpg>
+[1]: <../../assets/images/whole-orange-almond-cake.webp>

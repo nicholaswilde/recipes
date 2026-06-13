@@ -5,11 +5,11 @@ tags:
   - dessert
   - indonesian
   - indo-dutch
-hero: assets/images/omas-spekkoek.png
+hero: assets/images/omas-spekkoek.webp
 ---
 # :cake: Oma's Spekkoek
 
-![Oma's Spekkoek](../../assets/images/omas-spekkoek.png){ loading=lazy }
+![Oma's Spekkoek](../../assets/images/omas-spekkoek.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

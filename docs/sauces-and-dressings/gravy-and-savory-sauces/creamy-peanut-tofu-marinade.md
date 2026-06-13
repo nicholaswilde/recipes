@@ -5,12 +5,12 @@ tags:
   - gluten-free
   - marinade
   - tofu
-hero: assets/images/creamy-peanut-tofu-marinade.jpg
+hero: assets/images/creamy-peanut-tofu-marinade.webp
 ---
 
 # Creamy Peanut Tofu Marinade
 
-![Creamy Peanut Tofu Marinade](../../assets/images/creamy-peanut-tofu-marinade.jpg){ loading=lazy }
+![Creamy Peanut Tofu Marinade](../../assets/images/creamy-peanut-tofu-marinade.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

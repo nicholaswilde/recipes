@@ -4,12 +4,12 @@ tags:
 
   - indonesian
   - tante-myrna-seccia
-hero: assets/images/lumpia.jpg
+hero: assets/images/lumpia.webp
 ---
 
 # :burrito: Lumpia
 
-![Lumpia](../../assets/images/lumpia.jpg){ loading=lazy }
+![Lumpia](../../assets/images/lumpia.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

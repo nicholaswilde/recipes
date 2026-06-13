@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/hasselback-roasted-zucchini.jpg
+hero: assets/images/hasselback-roasted-zucchini.webp
 ---
 
 # Hasselback Roasted Zucchini
 
-![Hasselback Roasted Zucchini](../../assets/images/hasselback-roasted-zucchini.jpg){ loading=lazy }
+![Hasselback Roasted Zucchini](../../assets/images/hasselback-roasted-zucchini.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

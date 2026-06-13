@@ -7,7 +7,7 @@ tags:
   - oatmeal
   - chocolate-chip
   - krollskorner
-hero: assets/images/chewy-oatmeal-chocolate-chip-cookies.jpg
+hero: assets/images/chewy-oatmeal-chocolate-chip-cookies.webp
 ---
 
 # :ear_of_rice: Chewy Oatmeal Chocolate Chip Cookies
@@ -101,4 +101,4 @@ Whisk **confectioners sugar** (113 g), **whole milk** (21 g), and **pure vanilla
 
 - [The Pancake Princess - Best Oatmeal Chocolate Chip Cookie Bake-Off](https://www.thepancakeprincess.com/2021/10/12/the-best-oatmeal-chocolate-chip-cookie-bake-off/)
 
-[1]: <../assets/images/chewy-oatmeal-chocolate-chip-cookies.jpg>
+[1]: <../assets/images/chewy-oatmeal-chocolate-chip-cookies.webp>

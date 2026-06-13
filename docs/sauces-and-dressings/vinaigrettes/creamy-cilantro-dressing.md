@@ -4,7 +4,7 @@ tags:
 
   - nutrition-studies
   - dressing
-hero: assets/images/creamy-cilantro-dressing.jpg
+hero: assets/images/creamy-cilantro-dressing.webp
 ---
 
 # :herb: Creamy Cilantro Dressing
@@ -45,4 +45,4 @@ Serve with your favorite salad, power bowl, steamed veggies, or wrap.
 
 - <https://nutritionstudies.org/recipes/salad-dressing/creamy-cilantro-dressing/>
 
-[1]: <../../assets/images/creamy-cilantro-dressing.jpg>
+[1]: <../../assets/images/creamy-cilantro-dressing.webp>

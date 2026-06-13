@@ -4,12 +4,12 @@ tags:
 
   - italian
   - jean-pierre
-hero: assets/images/macaroni-&-cheese.jpg
+hero: assets/images/macaroni-&-cheese.webp
 ---
 
 # :spaghetti: Macaroni & Cheese
 
-![Macaroni & Cheese](../assets/images/macaroni-&-cheese.jpg){ loading=lazy }
+![Macaroni & Cheese](../assets/images/macaroni-&-cheese.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

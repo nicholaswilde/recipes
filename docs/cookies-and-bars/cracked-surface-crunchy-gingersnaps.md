@@ -5,7 +5,7 @@ tags:
   - cookie
   - bakewise
   - dessert
-hero: assets/images/cracked-surface-crunchy-gingersnaps.jpg
+hero: assets/images/cracked-surface-crunchy-gingersnaps.webp
 ---
 
 # :cookie: Cracked-Surface Crunchy Gingersnaps
@@ -74,4 +74,4 @@ Remove the foil and cookies to a rack to cool completely.
 
 - BakeWise
 
-[1]: <../assets/images/cracked-surface-crunchy-gingersnaps.jpg>
+[1]: <../assets/images/cracked-surface-crunchy-gingersnaps.webp>

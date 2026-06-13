@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - prue-leith
-hero: assets/images/millefeuille.jpg
+hero: assets/images/millefeuille.webp
 ---
 
 # :cake: Millefeuille
 
-![Millefeuille](../assets/images/millefeuille.jpg){ loading=lazy }
+![Millefeuille](../assets/images/millefeuille.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,7 +4,7 @@ tags:
   - bread
   - southern-living
   - cornbread
-hero: assets/images/southern-skillet-cornbread.jpg
+hero: assets/images/southern-skillet-cornbread.webp
 ---
 # Southern Skillet Cornbread
 
@@ -61,4 +61,4 @@ thoroughly. Pour the hot drippings into the batter and whisk to blend.
 
 - <https://www.southernliving.com/recipes/southern-skillet-cornbread>
 
-[1]: <../assets/images/southern-skillet-cornbread.jpg>
+[1]: <../assets/images/southern-skillet-cornbread.webp>

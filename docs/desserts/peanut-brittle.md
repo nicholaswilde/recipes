@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/peanut-brittle.jpg
+hero: assets/images/peanut-brittle.webp
 ---
 
 # :peanuts: Peanut Brittle
 
-![Peanut Brittle](../assets/images/peanut-brittle.jpg){ loading=lazy }
+![Peanut Brittle](../assets/images/peanut-brittle.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

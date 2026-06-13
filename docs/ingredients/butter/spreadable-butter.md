@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/spreadable-butter.jpg
+hero: assets/images/spreadable-butter.webp
 ---
 
 # :butter: Spreadable Butter
 
-![Spreadable Butter](../../assets/images/spreadable-butter.jpg){ loading=lazy }
+![Spreadable Butter](../../assets/images/spreadable-butter.webp){ loading=lazy }
 
 ## :scales: Ratio
 

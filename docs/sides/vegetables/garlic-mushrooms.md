@@ -4,12 +4,12 @@ tags:
 
   - side
   - jean-pierre
-hero: assets/images/garlic-mushrooms.jpg
+hero: assets/images/garlic-mushrooms.webp
 ---
 
 # :mushroom: Garlic Mushrooms
 
-![Garlic Mushrooms](../../assets/images/garlic-mushrooms.jpg){ loading=lazy }
+![Garlic Mushrooms](../../assets/images/garlic-mushrooms.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

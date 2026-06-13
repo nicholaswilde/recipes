@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - mexican
-hero: assets/images/aaron-combs'-salsa.jpg
+hero: assets/images/aaron-combs'-salsa.webp
 ---
 
 # :tomato: Aaron Combs' Salsa
 
-![Aaron Comb's Salsa](../../assets/images/aaron-combs'-salsa.jpg){ loading=lazy }
+![Aaron Comb's Salsa](../../assets/images/aaron-combs'-salsa.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

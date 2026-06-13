@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/breakfast-tofu-scramble.jpg
+hero: assets/images/breakfast-tofu-scramble.webp
 ---
 
 # :custard: Breakfast Tofu Scramble
@@ -50,4 +50,4 @@ cook for another 4 to 6 minutes until everything is cooked through.
 
 Serve with whole-grain toast or on a warm corn tortilla.
 
-[1]: <../assets/images/breakfast-tofu-scramble.jpg>
+[1]: <../assets/images/breakfast-tofu-scramble.webp>

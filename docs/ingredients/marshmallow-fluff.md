@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - king-arthur
-hero: assets/images/marshmallow-fluff.jpg
+hero: assets/images/marshmallow-fluff.webp
 ---
 
 # :dango: Marshmallow Fluff
@@ -84,4 +84,4 @@ by hand if it becomes "flat."
 
 - <https://www.kingarthurbaking.com/recipes/homemade-marshmallow-spread-recipe>
 
-[1]: <../assets/images/marshmallow-fluff.jpg>
+[1]: <../assets/images/marshmallow-fluff.webp>

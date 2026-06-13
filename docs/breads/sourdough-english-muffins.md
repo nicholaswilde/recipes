@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-english-muffins.jpg
+hero: assets/images/sourdough-english-muffins.webp
 ---
 
 # :bread: Sourdough English Muffins
@@ -111,5 +111,5 @@ freeze for longer storage.
 
 - <https://www.kingarthurbaking.com/recipes/sourdough-english-muffins-recipe>
 
-[1]: <../assets/images/sourdough-english-muffins.jpg>
+[1]: <../assets/images/sourdough-english-muffins.webp>
 [2]: <../ingredients/sourdough-starter.md>

@@ -6,12 +6,12 @@ tags:
   - dessert
   - cookie
   - recipe-box
-hero: assets/images/melomakarona.jpg
+hero: assets/images/melomakarona.webp
 ---
 
 # :cookie: Melomakarona
 
-![Melomakarona](../assets/images/melomakarona.jpg){ loading=lazy }
+![Melomakarona](../assets/images/melomakarona.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

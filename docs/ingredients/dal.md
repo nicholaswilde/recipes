@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/dal.jpg
+hero: assets/images/dal.webp
 ---
 # :beans: Dal (Dried Legumes)
 

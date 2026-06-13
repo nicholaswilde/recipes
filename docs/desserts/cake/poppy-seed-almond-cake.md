@@ -6,7 +6,7 @@ tags:
   - cake
   - claire-saffitz
   - favorite
-hero: assets/images/poppy-seed-almond-cake.jpg
+hero: assets/images/poppy-seed-almond-cake.webp
 ---
 
 # :chestnut: Poppy Seed Almond Cake
@@ -121,4 +121,4 @@ Wait for the cake to cool and the glaze to crystallize before serving.
 
 - <https://www.youtube.com/watch?v=IBlRFuMjvZE>
 
-[1]: <../../assets/images/poppy-seed-almond-cake.jpg>
+[1]: <../../assets/images/poppy-seed-almond-cake.webp>

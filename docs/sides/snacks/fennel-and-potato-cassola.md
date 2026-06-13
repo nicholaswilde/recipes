@@ -4,7 +4,7 @@ tags:
 
   - side
   - the-blue-zones-kitchen
-hero: assets/images/fennel-and-potato-cassola.jpg
+hero: assets/images/fennel-and-potato-cassola.webp
 ---
 
 # :leafy_green: Fennel & Potato Cassola
@@ -61,4 +61,4 @@ Remove from heat, discard bay leaves, and add salt and pepper to taste.
 
 - The Blue Zones Kitchen
 
-[1]: <../../assets/images/fennel-and-potato-cassola.jpg>
+[1]: <../../assets/images/fennel-and-potato-cassola.webp>

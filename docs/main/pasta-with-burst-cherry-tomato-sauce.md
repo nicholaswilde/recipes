@@ -4,12 +4,12 @@ tags:
 
   - italian
   - pasta
-hero: assets/images/pasta-with-burst-cherry-tomato-sauce.jpg
+hero: assets/images/pasta-with-burst-cherry-tomato-sauce.webp
 ---
 
 # :spaghetti: Pasta with Burst Cherry Tomato Sauce
 
-![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg){ loading=lazy }
+![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

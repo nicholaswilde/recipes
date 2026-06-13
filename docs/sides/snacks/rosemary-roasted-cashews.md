@@ -4,12 +4,12 @@ tags:
 
   - side
   - ina-garten
-hero: assets/images/rosemary-roasted-cashews.jpg
+hero: assets/images/rosemary-roasted-cashews.webp
 ---
 
 # :chestnut: Rosemary Roasted Cashews
 
-![Rosemary Roasted Cashews](../../assets/images/rosemary-roasted-cashews.jpg){ loading=lazy }
+![Rosemary Roasted Cashews](../../assets/images/rosemary-roasted-cashews.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
-hero: assets/images/lemon-bundt-cake.jpg
+hero: assets/images/lemon-bundt-cake.webp
 ---
 
 # :cake: Lemon Bundt Cake
@@ -156,4 +156,4 @@ Wait for the cake to cool and the glaze to crystallize before serving.
 
 - <https://www.youtube.com/watch?v=KhGI83cHJgo>
 
-[1]: <../../assets/images/lemon-bundt-cake.jpg>
+[1]: <../../assets/images/lemon-bundt-cake.webp>

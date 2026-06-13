@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - recipe-box
-hero: assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg
+hero: assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.webp
 ---
 
 # :tomato: Tomato Baked White Beans with Lemon Parsley Oil
@@ -86,4 +86,4 @@ or so minutes.
 - <https://bojongourmet.com/tomato-baked-white-beans-with-feta-and-lemon-parsley-oil/>
 - Recipe Box
 
-[1]: <../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.jpg>
+[1]: <../assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.webp>

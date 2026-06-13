@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/applied-sweet-potato-soyrizo-hash.jpg
+hero: assets/images/applied-sweet-potato-soyrizo-hash.webp
 ---
 
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash
 
-![Applied Sweet Potato Soyrizo Hash](../assets/images/applied-sweet-potato-soyrizo-hash.jpg){ loading=lazy }
+![Applied Sweet Potato Soyrizo Hash](../assets/images/applied-sweet-potato-soyrizo-hash.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

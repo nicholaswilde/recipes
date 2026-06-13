@@ -2,7 +2,7 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/dutch-baby.jpg
+hero: assets/images/dutch-baby.webp
 ---
 # Dutch Baby
 
@@ -62,5 +62,5 @@ sugar.
 
 - <https://cooking.nytimes.com/recipes/6648-dutch-baby>
 
-[1]: <../assets/images/dutch-baby.jpg>
+[1]: <../assets/images/dutch-baby.webp>
 

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - tofu
-hero: assets/images/crispy-baked-tofu-nuggets.jpg
+hero: assets/images/crispy-baked-tofu-nuggets.webp
 ---
 
 # :butter: Crispy Baked Tofu Nuggets
 
-![Crispy Baked Tofu Nuggets](../../assets/images/crispy-baked-tofu-nuggets.jpg){ loading=lazy }
+![Crispy Baked Tofu Nuggets](../../assets/images/crispy-baked-tofu-nuggets.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

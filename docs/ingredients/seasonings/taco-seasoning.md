@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/taco-seasoning.jpg
+hero: assets/images/taco-seasoning.webp
 ---
 
 # :taco: Taco Seasoning
 
-![Taco Seasoning](../../assets/images/taco-seasoning.jpg){ loading=lazy }
+![Taco Seasoning](../../assets/images/taco-seasoning.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

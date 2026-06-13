@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - cooks-illustrated
-hero: assets/images/yeasted-doughnuts.jpg
+hero: assets/images/yeasted-doughnuts.webp
 ---
 
 # :doughnut: Yeasted Doughnuts
 
-![Yeasted Doughnuts](../assets/images/yeasted-doughnuts.jpg){ loading=lazy }
+![Yeasted Doughnuts](../assets/images/yeasted-doughnuts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - dessert
   - vegan
   - mousse
-hero: assets/images/tofu-mousse.jpg
+hero: assets/images/tofu-mousse.webp
 ---
 
 # :chocolate_bar: Tofu Mousse
@@ -59,4 +59,4 @@ chocolate flakes (optional), and store them in the fridge for 1 hour before serv
 
 - <https://www.theconsciousplantkitchen.com/tofu-mousse/>
 
-[1]: <../assets/images/tofu-mousse.jpg>
+[1]: <../assets/images/tofu-mousse.webp>

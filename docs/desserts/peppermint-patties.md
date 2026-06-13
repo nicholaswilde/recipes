@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/peppermint-patties.jpg
+hero: assets/images/peppermint-patties.webp
 ---
 # Peppermint Patties
 
@@ -58,5 +58,5 @@ in an airtight container in the refrigerator up to 5 days.
 
 - Magnolia
 
-[1]: <../assets/images/peppermint-patties.jpg>
+[1]: <../assets/images/peppermint-patties.webp>
 

@@ -5,12 +5,12 @@ tags:
   - mexican
   - breakfast
   - slow-cooker
-hero: assets/images/slow-cooker-mexican-egg-casserole.jpg
+hero: assets/images/slow-cooker-mexican-egg-casserole.webp
 ---
 
 # :egg: Slow Cooker Mexican Egg Casserole
 
-![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.jpg){ loading=lazy }
+![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

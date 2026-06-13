@@ -5,12 +5,12 @@ tags:
   - caramel
   - ingredient
   - cupcake-jemma
-hero: assets/images/wet-caramel.jpg
+hero: assets/images/wet-caramel.webp
 ---
 
 # :candy: Wet Caramel
 
-![Wet Caramel](../../assets/images/wet-caramel.jpg){ loading=lazy }
+![Wet Caramel](../../assets/images/wet-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -6,11 +6,11 @@ tags:
   - indo-dutch
   - vegetarian
   - vegan
-hero: assets/images/sambal-goreng-kering-kentang.png
+hero: assets/images/sambal-goreng-kering-kentang.webp
 ---
 # :potato: Sambal Goreng Kering Kentang
 
-![Sambal Goreng Kering Kentang](../../assets/images/sambal-goreng-kering-kentang.png){ loading=lazy }
+![Sambal Goreng Kering Kentang](../../assets/images/sambal-goreng-kering-kentang.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

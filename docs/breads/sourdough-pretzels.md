@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-pretzels.jpg
+hero: assets/images/sourdough-pretzels.webp
 ---
 
 # :pretzel: Sourdough Pretzels
@@ -95,5 +95,5 @@ Remove the pretzels from the oven, and brush with melted butter.
 - <https://www.kingarthurbaking.com/recipes/sourdough-pretzels-recipe>
 - <https://www.kingarthurbaking.com/blog/2011/04/28/soft-scrumptious-and-sourdough-pretzels-from-your-discard-starter>
 
-[1]: <../assets/images/sourdough-pretzels.jpg>
+[1]: <../assets/images/sourdough-pretzels.webp>
 [2]: <../ingredients/sourdough-starter.md>

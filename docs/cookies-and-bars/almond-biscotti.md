@@ -9,7 +9,7 @@ tags:
   - maria vannelli
   - the pancake princess
   - bake-off
-hero: assets/images/almond-biscotti.jpg
+hero: assets/images/almond-biscotti.webp
 ---
 # :cookie: Almond Biscotti
 
@@ -98,4 +98,4 @@ Place on a :wastebasket: wire rack to cool.
 - <https://www.shelovesbiscotti.com/almond-biscotti/>
 - <https://www.thepancakeprincess.com/best-almond-biscotti-bake-off/>
 
-[1]: <../assets/images/almond-biscotti.jpg>
+[1]: <../assets/images/almond-biscotti.webp>

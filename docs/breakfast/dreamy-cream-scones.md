@@ -5,12 +5,12 @@ tags:
   - breakfast
   - scone
   - cooks-illustrated
-hero: assets/images/dreamy-cream-scones.jpg
+hero: assets/images/dreamy-cream-scones.webp
 ---
 
 # :cookie: Dreamy Cream Scones
 
-![Dreamy Cream Scones](../assets/images/dreamy-cream-scones.jpg){ loading=lazy }
+![Dreamy Cream Scones](../assets/images/dreamy-cream-scones.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

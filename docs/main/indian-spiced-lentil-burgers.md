@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/indian-spiced-lentil-burgers.jpg
+hero: assets/images/indian-spiced-lentil-burgers.webp
 ---
 # Indian Spiced Lentil Burgers
 
@@ -82,5 +82,5 @@ Cut the lemon into wedges and serve with the burgers.
 
 - <https://jessicaseinfeld.com/recipes/indian-spiced-lentil-burgers>
 
-[1]: <../assets/images/indian-spiced-lentil-burgers.jpg>
+[1]: <../assets/images/indian-spiced-lentil-burgers.webp>
 

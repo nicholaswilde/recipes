@@ -5,12 +5,12 @@ tags:
   - dessert
   - pie
   - grandma-beatrice-wilde
-hero: assets/images/butterfinger-ice-cream-pie.jpg
+hero: assets/images/butterfinger-ice-cream-pie.webp
 ---
 
 # :pie: Butterfinger Ice Cream Pie
 
-![Butterfinger Ice Cream Pie](../../assets/images/butterfinger-ice-cream-pie.jpg){ loading=lazy }
+![Butterfinger Ice Cream Pie](../../assets/images/butterfinger-ice-cream-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

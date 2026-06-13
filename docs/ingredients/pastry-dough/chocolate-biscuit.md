@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - dominique-ansel
-hero: assets/images/chocolate-biscuit.jpg
+hero: assets/images/chocolate-biscuit.webp
 ---
 
 # :cake: Chocolate Biscuit
 
-![Chocolate Biscuit](../../assets/images/chocolate-biscuit.jpg){ loading=lazy }
+![Chocolate Biscuit](../../assets/images/chocolate-biscuit.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

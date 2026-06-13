@@ -66,5 +66,5 @@ pepper. Top with the cilantro or scallions (if using) and serve immediately.
 
 - <https://cooking.nytimes.com/recipes/1024066-gochujang-buttered-noodles>
 
-[1]: <../assets/images/gochujang-buttered-noodles.png>
+[1]: <../assets/images/gochujang-buttered-noodles.webp>
 

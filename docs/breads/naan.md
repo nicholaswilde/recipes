@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/naan.jpg
+hero: assets/images/naan.webp
 ---
 
 # :flatbread: Naan
@@ -94,4 +94,4 @@ Store naan, well wrapped, at room temperature for two days; freeze for longer st
 
 - <https://www.kingarthurbaking.com/recipes/naan-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - dominique-ansel
-hero: assets/images/dominique-ansel's-chocolate-ganache.jpg
+hero: assets/images/dominique-ansel's-chocolate-ganache.webp
 ---
 
 # :chocolate_bar: Dominique Ansel's Chocolate Ganache
 
-![Dominique Ansel's Chocolate Ganache](../../assets/images/dominique-ansel's-chocolate-ganache.jpg){ loading=lazy }
+![Dominique Ansel's Chocolate Ganache](../../assets/images/dominique-ansel's-chocolate-ganache.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

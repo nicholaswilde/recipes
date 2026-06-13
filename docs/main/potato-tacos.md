@@ -5,12 +5,12 @@ tags:
   - mexican
   - tacos
   - recipe-box
-hero: assets/images/potato-tacos.jpg
+hero: assets/images/potato-tacos.webp
 ---
 
 # :taco: Potato Tacos
 
-![Potato Tacos](../assets/images/potato-tacos.jpg){ loading=lazy }
+![Potato Tacos](../assets/images/potato-tacos.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

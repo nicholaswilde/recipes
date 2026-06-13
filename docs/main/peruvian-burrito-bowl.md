@@ -4,12 +4,12 @@ tags:
 
   - bowl
   - main
-hero: assets/images/peruvian-burrito-bowl.jpg
+hero: assets/images/peruvian-burrito-bowl.webp
 ---
 
 # :stuffed_flatbread: Peruvian Burrito Bowl
 
-![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg){ loading=lazy }
+![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

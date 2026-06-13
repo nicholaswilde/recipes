@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/toasted-coconut-granola.jpg
+hero: assets/images/toasted-coconut-granola.webp
 ---
 
 # :ear_of_rice: Toasted-Coconut Granola
 
-![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.jpg){ loading=lazy }
+![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

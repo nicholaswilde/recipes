@@ -67,4 +67,4 @@ touch.
 
 - <https://cooking.nytimes.com/recipes/1017577-best-gazpacho>
 
-[1]: <../assets/images/best-gazpacho.png>
+[1]: <../assets/images/best-gazpacho.webp>

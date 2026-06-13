@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - tofu
-hero: assets/images/pan-fried-tofu.jpg
+hero: assets/images/pan-fried-tofu.webp
 ---
 
 # :butter: Pan-Fried Tofu
 
-![Pan-Fried Tofu](../../assets/images/pan-fried-tofu.jpg){ loading=lazy }
+![Pan-Fried Tofu](../../assets/images/pan-fried-tofu.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

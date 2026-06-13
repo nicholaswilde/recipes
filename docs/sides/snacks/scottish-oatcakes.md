@@ -5,7 +5,7 @@ tags:
   - side
   - cooks-illustrated
   - scottish
-hero: assets/images/scottish-oatcakes.jpg
+hero: assets/images/scottish-oatcakes.webp
 ---
 
 # :cookie: Scottish Oatcakes
@@ -64,5 +64,5 @@ recrisp in 325°F oven for 5 to 7 minutes.)
 
 - Cook's Illustrated
 
-[1]: <../../assets/images/scottish-oatcakes.jpg>
+[1]: <../../assets/images/scottish-oatcakes.webp>
 [2]: <../../ingredients/scottish-oatmeal.md>

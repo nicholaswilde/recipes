@@ -5,12 +5,12 @@ tags:
   - taco
   - mexican
   - recipe-box
-hero: assets/images/tofu-tacos.jpg
+hero: assets/images/tofu-tacos.webp
 ---
 
 # :taco: Tofu Tacos
 
-![Tofu Tacos](../assets/images/tofu-tacos.jpg){ loading=lazy }
+![Tofu Tacos](../assets/images/tofu-tacos.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -9,7 +9,7 @@ tags:
   - dressing
   - favorite
   - julia-turshen
-hero: assets/images/pizzeria-vinaigrette.jpg
+hero: assets/images/pizzeria-vinaigrette.webp
 ---
 
 # Pizzeria Vinaigrette
@@ -45,4 +45,4 @@ for up to a 1 week in a covered container (or jar) in the refrigerator.
 
 - Julia Turshen's What Goes with What
 
-[1]: <../../assets/images/pizzeria-vinaigrette.jpg>
+[1]: <../../assets/images/pizzeria-vinaigrette.webp>

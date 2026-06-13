@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg
+hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.webp
 ---
 
 # :cookie: Peanut Butter Chocolate Chip Cookies Jessie Sheehan
@@ -110,4 +110,4 @@ Cool on a rack.
 
 - [The Pancake Princess - Best Peanut Butter Cookie Bake-Off](https://www.thepancakeprincess.com/2020/06/30/best-peanut-butter-cookie-bake-off/)
 
-[1]: <../assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg>
+[1]: <../assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.webp>

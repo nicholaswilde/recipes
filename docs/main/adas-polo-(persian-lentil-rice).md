@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/adas-polo-(persian-lentil-rice).jpg
+hero: assets/images/adas-polo-(persian-lentil-rice).webp
 ---
 # Adas Polo (Persian Lentil Rice)
 
@@ -80,4 +80,4 @@ Transfer the rice to a serving dish.
 
 - <https://yummynotes.net/adas-polo-recipe/>
 
-[1]: <../assets/images/adas-polo-(persian-lentil-rice).jpg>
+[1]: <../assets/images/adas-polo-(persian-lentil-rice).webp>

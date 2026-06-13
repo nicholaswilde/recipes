@@ -4,12 +4,12 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/tart-cherry-pie.jpg
+hero: assets/images/tart-cherry-pie.webp
 ---
 
 # :pie: Tart Cherry Pie
 
-![Tart Cherry Pie](../../assets/images/tart-cherry-pie.jpg){ loading=lazy }
+![Tart Cherry Pie](../../assets/images/tart-cherry-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

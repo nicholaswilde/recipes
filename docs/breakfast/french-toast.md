@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/french-toast.jpg
+hero: assets/images/french-toast.webp
 ---
 
 # :bread: French Toast
 
-![French Toast](../assets/images/french-toast.jpg){ loading=lazy }
+![French Toast](../assets/images/french-toast.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

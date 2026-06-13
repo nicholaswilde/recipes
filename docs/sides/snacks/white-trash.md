@@ -1,9 +1,9 @@
 ---
-hero: assets/images/white-trash.jpg
+hero: assets/images/white-trash.webp
 ---
 # White Trash
 
-![White Trash](../../assets/images/white-trash.jpg){ loading=lazy }
+![White Trash](../../assets/images/white-trash.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

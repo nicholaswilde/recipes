@@ -2,12 +2,12 @@
 comments: true
 tags:
   - holiday
-hero: assets/images/gumbo.jpg
+hero: assets/images/gumbo.webp
 ---
 
 # :stew: Gumbo
 
-![Gumbo](../assets/images/gumbo.jpg){ loading=lazy }
+![Gumbo](../assets/images/gumbo.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

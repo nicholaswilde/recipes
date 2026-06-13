@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.jpg
+hero: assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.webp
 ---
 
 # :broccoli: Garlic & Lemon Roasted Romanesco Cauliflower
@@ -55,4 +55,4 @@ Serve warm, topped with more lemon zest to taste.
 
 - <https://itsavegworldafterall.com/garlic-and-lemon-roasted-romanesco-cauliflower/#recipe>
 
-[1]: <../../assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.jpg>
+[1]: <../../assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.webp>

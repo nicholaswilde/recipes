@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/the-original-boston-cream-pie.jpg
+hero: assets/images/the-original-boston-cream-pie.webp
 ---
 
 # :cake: The Original Boston Cream Pie
 
-![The Original Boston Cream Pie](../../assets/images/the-original-boston-cream-pie.jpg){ loading=lazy }
+![The Original Boston Cream Pie](../../assets/images/the-original-boston-cream-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

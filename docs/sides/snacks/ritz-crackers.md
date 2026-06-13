@@ -4,12 +4,12 @@ tags:
 
   - cracker
   - snack
-hero: assets/images/ritz-crackers.jpg
+hero: assets/images/ritz-crackers.webp
 ---
 
 # :cookie: Ritz Crackers
 
-![Ritz Crackers](../../assets/images/ritz-crackers.jpg){ loading=lazy }
+![Ritz Crackers](../../assets/images/ritz-crackers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

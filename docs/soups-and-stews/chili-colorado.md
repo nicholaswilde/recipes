@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/chili-colorado.jpg
+hero: assets/images/chili-colorado.webp
 ---
 
 # :stew: Chili Colorado
 
-![Chili Colorado](../assets/images/chili-colorado.jpg){ loading=lazy }
+![Chili Colorado](../assets/images/chili-colorado.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

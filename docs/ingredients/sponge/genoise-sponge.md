@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - sponge
-hero: assets/images/genoise-sponge.jpg
+hero: assets/images/genoise-sponge.webp
 ---
 
 # :cake: Genoise Sponge
 
-![Genoise Sponge](../../assets/images/genoise-sponge.jpg){ loading=lazy }
+![Genoise Sponge](../../assets/images/genoise-sponge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

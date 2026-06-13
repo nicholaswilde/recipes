@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/pizza-dough-seasoning.jpg
+hero: assets/images/pizza-dough-seasoning.webp
 ---
 
 # :pizza: Pizza Dough Seasoning
@@ -40,4 +40,4 @@ Just add a tablespoon or so to your pizza dough recipe when you are mixing and y
 
 - <http://littlebirdiesecrets.blogspot.com/2009/12/pizza-dough-seasoning.html>
 
-[1]: <../../assets/images/pizza-dough-seasoning.jpg>
+[1]: <../../assets/images/pizza-dough-seasoning.webp>

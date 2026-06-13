@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/lentil-meatballs-with-lemon-pesto.jpg
+hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 ---
 # Lentil Meatballs with Lemon Pesto
 
@@ -79,7 +79,7 @@ Preheat the oven to 400°F and form lentil mixture into 1-inch balls.
 Line a baking sheet with parchment paper and spray with olive oil. Bake for 15 to 20 minutes on the middle rack, turning
 halfway through.
 
-[1]: <../assets/images/lentil-meatballs-with-lemon-pesto.jpg>
+[1]: <../assets/images/lentil-meatballs-with-lemon-pesto.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/eggs.md>
 [4]: <../ingredients/vegan-parmesan.md>

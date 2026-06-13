@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/pouding-chomeur-with-pure-maple-sauce.jpg
+hero: assets/images/pouding-chomeur-with-pure-maple-sauce.webp
 ---
 
 # :custard: Pouding Chômeur with Pure Maple Sauce
@@ -86,4 +86,4 @@ Remove the cake from the oven. Cool for a few hours.
 
 - Costco
 
-[1]: <../assets/images/pouding-chomeur-with-pure-maple-sauce.jpg>
+[1]: <../assets/images/pouding-chomeur-with-pure-maple-sauce.webp>

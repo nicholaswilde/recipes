@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/a-very-popular-bbq-sauce.jpg
+hero: assets/images/a-very-popular-bbq-sauce.webp
 ---
 
 # :hotsprings: A Very Popular BBQ Sauce
 
-![A Very Popular BBQ Sauce](../../assets/images/a-very-popular-bbq-sauce.jpg){ loading=lazy }
+![A Very Popular BBQ Sauce](../../assets/images/a-very-popular-bbq-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/the-casado-plate.jpg
+hero: assets/images/the-casado-plate.webp
 ---
 # The Casado Plate
 
@@ -45,7 +45,7 @@ Top with corn (optional), sliced avocado (optional), chopped cilantro (optional)
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/the-casado-plate.jpg>
+[1]: <../assets/images/the-casado-plate.webp>
 [2]: <../breakfast/jose-guevara's-gallo-pinto.md>
 [3]: <../sauces-and-dressings/dips-and-spreads/hearts-of-palm-ceviche.md>
 [4]: <../sides/grains-and-legumes/fried-green-plantains.md>

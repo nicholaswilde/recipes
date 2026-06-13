@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/parmesan-pull-apart-bread.jpg
+hero: assets/images/parmesan-pull-apart-bread.webp
 ---
 
 # :cheese_wedge: Parmesan Pull-Apart Bread
 
-![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg){ loading=lazy }
+![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

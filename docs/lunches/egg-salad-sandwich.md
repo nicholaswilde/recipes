@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/egg-salad-sandwich.jpg
+hero: assets/images/egg-salad-sandwich.webp
 ---
 
 # :sandwich: Egg Salad Sandwich
 
-![Egg Salad Sandwich](../assets/images/egg-salad-sandwich.jpg){ loading=lazy }
+![Egg Salad Sandwich](../assets/images/egg-salad-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

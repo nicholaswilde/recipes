@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - muffins
-hero: assets/images/pumpkin-muffins.jpg
+hero: assets/images/pumpkin-muffins.webp
 ---
 
 # :cupcake: Pumpkin Muffins
 
-![Pumpkin Muffins](../assets/images/pumpkin-muffins.jpg){ loading=lazy }
+![Pumpkin Muffins](../assets/images/pumpkin-muffins.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

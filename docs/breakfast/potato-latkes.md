@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/potato-latkes.jpg
+hero: assets/images/potato-latkes.webp
 ---
 
 # :potato: Potato Latkes
@@ -69,4 +69,4 @@ to drain and sprinkle with salt while still warm. Repeat with the remaining batt
 
 - <https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes>
 
-[1]: <../assets/images/potato-latkes.jpg>
+[1]: <../assets/images/potato-latkes.webp>

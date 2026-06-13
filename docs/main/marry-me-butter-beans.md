@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/marry-me-butter-beans.jpg
+hero: assets/images/marry-me-butter-beans.webp
 ---
 
 # Marry Me Butter Beans
@@ -55,4 +55,4 @@ over rice, or with pasta.
 
 - <https://www.liveeatlearn.com/marry-me-butter-beans/#wprm-recipe-container-93276>
 
-[1]: <../assets/images/marry-me-butter-beans.jpg>
+[1]: <../assets/images/marry-me-butter-beans.webp>

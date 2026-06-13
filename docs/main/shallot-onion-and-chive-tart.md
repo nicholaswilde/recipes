@@ -5,12 +5,12 @@ tags:
   - tart
   - paul-hollywood
   - vegetarian
-hero: assets/images/shallot-onion-and-chive-tart.jpg
+hero: assets/images/shallot-onion-and-chive-tart.webp
 ---
 
 # :onion: Shallot, Onion, & Chive Tart
 
-![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.jpg){ loading=lazy }
+![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

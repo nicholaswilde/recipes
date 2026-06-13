@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/dinner-party-yogurt-cake.jpg
+hero: assets/images/dinner-party-yogurt-cake.webp
 ---
 
 # :cake: Dinner Party Yogurt Cake
@@ -84,4 +84,4 @@ once it has cooled to room temperature.
 
 - Gâteau
 
-[1]: <../../assets/images/dinner-party-yogurt-cake.jpg>
+[1]: <../../assets/images/dinner-party-yogurt-cake.webp>

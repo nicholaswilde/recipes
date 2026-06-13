@@ -5,7 +5,7 @@ tags:
   - vegan
   - nutrition-studies
   - dressing
-hero: assets/images/italian-vinaigrette.jpg
+hero: assets/images/italian-vinaigrette.webp
 ---
 
 # :green_salad: Italian Vinaigrette
@@ -57,4 +57,4 @@ Serve immediately or store in an airtight container in the refrigerator for up t
 
 - <https://nutritionstudies.org/recipes/salad-dressing/italian-vinaigrette/>
 
-[1]: <../../assets/images/italian-vinaigrette.jpg>
+[1]: <../../assets/images/italian-vinaigrette.webp>

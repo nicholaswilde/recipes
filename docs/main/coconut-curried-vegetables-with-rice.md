@@ -4,12 +4,12 @@ tags:
 
   - asian
   - vegetarian
-hero: assets/images/coconut-curried-vegetables-with-rice.jpg
+hero: assets/images/coconut-curried-vegetables-with-rice.webp
 ---
 
 # :coconut: Coconut Curried Vegetables with Rice
 
-![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.jpg){ loading=lazy }
+![Coconut Curried Vegetables with Rice](../assets/images/coconut-curried-vegetables-with-rice.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

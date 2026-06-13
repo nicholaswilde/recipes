@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/meringues.jpg
+hero: assets/images/meringues.webp
 ---
 
 # :egg: Meringues
 
-![Meringues](../assets/images/meringues.jpg){ loading=lazy }
+![Meringues](../assets/images/meringues.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

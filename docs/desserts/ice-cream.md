@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/ice-cream.jpg
+hero: assets/images/ice-cream.webp
 ---
 
 # :ice_cream: Ice Cream
 
-![Ice Cream](../assets/images/ice-cream.jpg){ loading=lazy }
+![Ice Cream](../assets/images/ice-cream.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

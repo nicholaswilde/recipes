@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/bisquick.jpg
+hero: assets/images/bisquick.webp
 ---
 
 # :ear_of_rice: Bisquick
 
-![Bisquick](../assets/images/bisquick.jpg){ loading=lazy }
+![Bisquick](../assets/images/bisquick.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

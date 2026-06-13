@@ -7,7 +7,7 @@ tags:
   - dessert
   - pumpkin
   - fall
-hero: assets/images/pumpkin-blondies.jpg
+hero: assets/images/pumpkin-blondies.webp
 ---
 
 # Pumpkin Blondies
@@ -85,4 +85,4 @@ squares using a sharp knife.
 
 - <https://cooking.nytimes.com/recipes/1021463-pumpkin-blondies>
 
-[1]: <../assets/images/pumpkin-blondies.jpg>
+[1]: <../assets/images/pumpkin-blondies.webp>

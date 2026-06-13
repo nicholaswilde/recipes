@@ -4,11 +4,11 @@ tags:
   - ingredient
   - indonesian
   - indo-dutch
-hero: assets/images/vegetarian-terasi.png
+hero: assets/images/vegetarian-terasi.webp
 ---
 # :bowl_with_spoon: Vegetarian Terasi
 
-![Vegetarian Terasi](../assets/images/vegetarian-terasi.png){ loading=lazy }
+![Vegetarian Terasi](../assets/images/vegetarian-terasi.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

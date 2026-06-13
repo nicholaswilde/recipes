@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/roasted-garlic.jpg
+hero: assets/images/roasted-garlic.webp
 ---
 
 # :garlic: Roasted Garlic
 
-![Roasted Garlic](../assets/images/roasted-garlic.jpg){ loading=lazy }
+![Roasted Garlic](../assets/images/roasted-garlic.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - bread
   - copycat
-hero: assets/images/texas-roadhouse-rolls.jpg
+hero: assets/images/texas-roadhouse-rolls.webp
 ---
 
 # :bread: Texas Roadhouse Rolls
 
-![Texas Roadhouse Rolls](../assets/images/texas-roadhouse-rolls.jpg){ loading=lazy }
+![Texas Roadhouse Rolls](../assets/images/texas-roadhouse-rolls.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/miso-glazed-bok-choy.jpg
+hero: assets/images/miso-glazed-bok-choy.webp
 ---
 
 # :leafy_green: Miso-Glazed Bok Choy
 
-![Miso-Glazed Bok Choy](../../assets/images/miso-glazed-bok-choy.jpg){ loading=lazy }
+![Miso-Glazed Bok Choy](../../assets/images/miso-glazed-bok-choy.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

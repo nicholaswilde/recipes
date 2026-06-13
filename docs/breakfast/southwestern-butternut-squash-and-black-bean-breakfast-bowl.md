@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - minimalist-baker
-hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg
+hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.webp
 ---
 
 # :sweet_potato: Southwestern Butternut Squash and Black Bean Breakfast Bowl
@@ -100,6 +100,6 @@ Leftovers (excluding eggs) keep well (without sauce) for 3 to 4 days in the refr
 
 - <https://minimalistbaker.com/southwestern-butternut-squash-black-bean-breakfast-bowl/>
 
-[1]: <../assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg>
+[1]: <../assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.webp>
 [2]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
 [3]: <../ingredients/black-beans.md>

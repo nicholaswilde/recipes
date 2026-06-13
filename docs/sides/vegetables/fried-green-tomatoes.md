@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/fried-green-tomatoes.jpg
+hero: assets/images/fried-green-tomatoes.webp
 ---
 
 # :tomato: Fried Green Tomatoes
 
-![Fried Green Tomatoes](../../assets/images/fried-green-tomatoes.jpg){ loading=lazy }
+![Fried Green Tomatoes](../../assets/images/fried-green-tomatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/breton-butter-bake.jpg
+hero: assets/images/breton-butter-bake.webp
 ---
 
 # :butter: Breton Butter Bake
@@ -90,6 +90,6 @@ slice the cake while still warm. The cake can be eaten warm or at room temperatu
 
 - Gateau: The Surprising Simplicity of French Cakes
 
-[1]: <../../assets/images/breton-butter-bake.jpg>
+[1]: <../../assets/images/breton-butter-bake.webp>
 [2]: <../../ingredients/crème-fraîche.md>
 [3]: <../../sauces-and-dressings/sweet-sauces/single-jar-of-fruit-jam.md>

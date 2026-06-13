@@ -4,12 +4,12 @@ tags:
 
   - spread
   - vegetarian
-hero: assets/images/benedictine-sandwich-spread.jpg
+hero: assets/images/benedictine-sandwich-spread.webp
 ---
 
 # :cucumber: Benedictine Sandwich Spread
 
-![Benedictine Sandwich Spread](../../assets/images/benedictine-sandwich-spread.jpg){ loading=lazy }
+![Benedictine Sandwich Spread](../../assets/images/benedictine-sandwich-spread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

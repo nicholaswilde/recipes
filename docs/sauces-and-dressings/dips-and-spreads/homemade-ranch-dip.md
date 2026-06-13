@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dip
-hero: assets/images/homemade-ranch-dip.jpg
+hero: assets/images/homemade-ranch-dip.webp
 ---
 
 # :rice: Homemade Ranch Dip
 
-![Homemade Ranch Dip](../../assets/images/homemade-ranch-dip.jpg){ loading=lazy }
+![Homemade Ranch Dip](../../assets/images/homemade-ranch-dip.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

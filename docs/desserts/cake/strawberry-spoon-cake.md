@@ -58,4 +58,4 @@ minutes before spooning into bowls. Serve warm with vanilla ice cream.
 
 - <https://cooking.nytimes.com/recipes/1021174-strawberry-spoon-cake>
 
-[1]: <../../assets/images/strawberry-spoon-cake.jpg>
+[1]: <../../assets/images/strawberry-spoon-cake.webp>

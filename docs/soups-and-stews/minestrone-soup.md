@@ -4,12 +4,12 @@ tags:
 
   - soup
   - jean-pierre
-hero: assets/images/minestrone-soup.jpg
+hero: assets/images/minestrone-soup.webp
 ---
 
 # :stew: Minestrone Soup
 
-![Minestrone Soup](../assets/images/minestrone-soup.jpg){ loading=lazy }
+![Minestrone Soup](../assets/images/minestrone-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

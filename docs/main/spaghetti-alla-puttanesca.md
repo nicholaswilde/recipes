@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - recipe-box
-hero: assets/images/spaghetti-alla-puttanesca.jpg
+hero: assets/images/spaghetti-alla-puttanesca.webp
 ---
 
 # :spaghetti: Spaghetti Alla Puttanesca
 
-![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.jpg){ loading=lazy }
+![Spaghetti Alla Puttanesca](../assets/images/spaghetti-alla-puttanesca.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -2,7 +2,7 @@
 comments: true
 tags:
   - tart
-hero: assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg
+hero: assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.webp
 ---
 # Caramelized Onion, Spinach, and Sweet Potato Tart
 
@@ -97,4 +97,4 @@ temperature. Sprinkle with a little dill before serving.
 
 - <https://jessicaseinfeld.com/recipes/caramelized-onion-spinach-and-sweet-potato-tart>
 
-[1]: <../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.jpg>
+[1]: <../assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.webp>

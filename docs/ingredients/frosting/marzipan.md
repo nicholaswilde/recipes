@@ -4,12 +4,12 @@ tags:
 
   - frosting
   - ingredient
-hero: assets/images/marzipan.jpg
+hero: assets/images/marzipan.webp
 ---
 
 # :dango: Marzipan
 
-![Marzipan](../../assets/images/marzipan.jpg){ loading=lazy }
+![Marzipan](../../assets/images/marzipan.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

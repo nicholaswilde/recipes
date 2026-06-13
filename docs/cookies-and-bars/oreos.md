@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/oreos.jpg
+hero: assets/images/oreos.webp
 ---
 
 # :cookie: Oreos
 
-![Oreos](../assets/images/oreos.jpg){ loading=lazy }
+![Oreos](../assets/images/oreos.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

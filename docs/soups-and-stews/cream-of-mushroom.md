@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - soup
-hero: assets/images/cream-of-mushroom.jpg
+hero: assets/images/cream-of-mushroom.webp
 ---
 
 # :mushroom: Cream of Mushroom
 
-![Cream of Mushroom](../assets/images/cream-of-mushroom.jpg){ loading=lazy }
+![Cream of Mushroom](../assets/images/cream-of-mushroom.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

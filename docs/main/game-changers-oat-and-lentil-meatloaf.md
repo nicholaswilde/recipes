@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/game-changers-oat-and-lentil-meatloaf.jpg
+hero: assets/images/game-changers-oat-and-lentil-meatloaf.webp
 ---
 # Game Changers Oat and Lentil Meatloaf
 
@@ -64,7 +64,7 @@ Best if allowed to fest for at least 1 hour.
 
 - <https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/>
 
-[1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.jpg>
+[1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.webp>
 [2]: <../ingredients/mock-soy-sauce.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>
 

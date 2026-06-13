@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/coconut-bacon.jpg
+hero: assets/images/coconut-bacon.webp
 ---
 
 # :bacon: Coconut Bacon
@@ -63,4 +63,4 @@ The coconut bacon can be stored in an airtight container or glass jar for up to 
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/coconut-bacon.jpg>
+[1]: <../assets/images/coconut-bacon.webp>

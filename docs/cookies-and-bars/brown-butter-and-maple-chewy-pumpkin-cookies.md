@@ -5,7 +5,7 @@ tags:
   - cookie
   - bake-off
   - dessert
-hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg
+hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp
 ---
 
 # :jack_o_lantern: Brown Butter and Maple Chewy Pumpkin Cookies
@@ -116,4 +116,4 @@ Allow the cookies to cool, then dig in!
 - <https://butternutbakeryblog.com/chewy-pumpkin-cookies/>
 - <https://www.thepancakeprincess.com/2022/10/28/best-pumpkin-cookie-bake-off/>
 
-[1]: <../assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg>
+[1]: <../assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp>

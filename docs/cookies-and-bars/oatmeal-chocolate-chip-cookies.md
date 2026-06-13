@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - recipe-box
-hero: assets/images/oatmeal-chocolate-chip-cookies.jpg
+hero: assets/images/oatmeal-chocolate-chip-cookies.webp
 ---
 
 # :cookie: Oatmeal Chocolate Chip Cookies
 
-![Oatmeal Chocolate Chip Cookies](../assets/images/oatmeal-chocolate-chip-cookies.jpg){ loading=lazy }
+![Oatmeal Chocolate Chip Cookies](../assets/images/oatmeal-chocolate-chip-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

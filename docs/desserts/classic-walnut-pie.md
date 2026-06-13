@@ -3,12 +3,12 @@ comments: true
 tags:
   - holiday
   - pie
-hero: assets/images/classic-walnut-pie.jpg
+hero: assets/images/classic-walnut-pie.webp
 ---
 
 # :pie: Classic Walnut Pie
 
-![Classic Walnut Pie](../assets/images/classic-walnut-pie.jpg){ loading=lazy }
+![Classic Walnut Pie](../assets/images/classic-walnut-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

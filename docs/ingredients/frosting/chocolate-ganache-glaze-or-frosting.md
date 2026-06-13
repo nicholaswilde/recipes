@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - joy-of-cooking
-hero: assets/images/chocolate-ganache-glaze-or-frosting.jpg
+hero: assets/images/chocolate-ganache-glaze-or-frosting.webp
 ---
 
 # :chocolate_bar: Chocolate Ganache Glaze or Frosting
 
-![Chocolate Ganache Glaze or Frosting](../../assets/images/chocolate-ganache-glaze-or-frosting.jpg){ loading=lazy }
+![Chocolate Ganache Glaze or Frosting](../../assets/images/chocolate-ganache-glaze-or-frosting.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

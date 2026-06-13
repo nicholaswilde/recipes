@@ -6,7 +6,7 @@ tags:
   - pasta
   - mushrooms
   - teri-ann carty
-hero: assets/images/vegan-cacio-e-pepe.jpg
+hero: assets/images/vegan-cacio-e-pepe.webp
 ---
 # :spaghetti: Vegan Cacio e Pepe
 
@@ -69,4 +69,4 @@ Serve immediately while hot.
 
 - <https://www.simplyrecipes.com/vegan-cacio-e-pepe-recipe-6890181>
 
-[1]: <../assets/images/vegan-cacio-e-pepe.jpg>
+[1]: <../assets/images/vegan-cacio-e-pepe.webp>

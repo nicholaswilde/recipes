@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - pressure-cooker
-hero: assets/images/black-eyed-peas-and-greens.jpg
+hero: assets/images/black-eyed-peas-and-greens.webp
 ---
 
 # Black Eyed Peas and Greens
@@ -75,4 +75,4 @@ Serve on their own, over rice, baked/roasted sweet potato, or with cornbread.
 
 - <https://minimalistbaker.com/smoky-instant-pot-black-eyed-peas-greens-vegan/>
 
-[1]: <../../assets/images/black-eyed-peas-and-greens.jpg>
+[1]: <../../assets/images/black-eyed-peas-and-greens.webp>

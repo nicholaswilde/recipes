@@ -6,12 +6,12 @@ tags:
   - italian
   - vegetarian
   - recipe-box
-hero: assets/images/ricotta-fritters.jpg
+hero: assets/images/ricotta-fritters.webp
 ---
 
 # :cheese_wedge: Ricotta Fritters
 
-![Ricotta Fritters](../assets/images/ricotta-fritters.jpg){ loading=lazy }
+![Ricotta Fritters](../assets/images/ricotta-fritters.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

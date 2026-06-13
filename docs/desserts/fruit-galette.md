@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/fruit-galette.jpg
+hero: assets/images/fruit-galette.webp
 ---
 
 # :pie: Fruit Galette
@@ -85,4 +85,4 @@ on wire rack. Serve warm or at room temperature
 
 - <https://cooking.nytimes.com/recipes/1016758-fruit-galette>
 
-[1]: <../assets/images/fruit-galette.jpg>
+[1]: <../assets/images/fruit-galette.webp>

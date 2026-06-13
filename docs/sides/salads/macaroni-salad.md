@@ -1,5 +1,5 @@
 ---
-hero: assets/images/macaroni-salad.jpg
+hero: assets/images/macaroni-salad.webp
 ---
 # :green_salad: Macaroni Salad
 
@@ -7,7 +7,7 @@ tags:
 
 - sides
 
-![Macaroni Salad](../../assets/images/macaroni-salad.jpg){ loading=lazy }
+![Macaroni Salad](../../assets/images/macaroni-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

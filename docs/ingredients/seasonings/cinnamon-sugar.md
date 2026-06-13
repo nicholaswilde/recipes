@@ -4,12 +4,12 @@ tags:
 
   - seasoning
   - ingredient
-hero: assets/images/cinnamon-sugar.jpg
+hero: assets/images/cinnamon-sugar.webp
 ---
 
 # :candy: Cinnamon Sugar
 
-![Cinnamon Sugar](../../assets/images/cinnamon-sugar.jpg){ loading=lazy }
+![Cinnamon Sugar](../../assets/images/cinnamon-sugar.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

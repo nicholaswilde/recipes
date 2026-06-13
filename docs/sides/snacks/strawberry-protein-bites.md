@@ -5,12 +5,12 @@ tags:
   - bites
   - applied-kitchen
   - side
-hero: assets/images/strawberry-protein-bites.jpg
+hero: assets/images/strawberry-protein-bites.webp
 ---
 
 # :strawberry: Strawberry Protein Bites
 
-![Strawberry Protein Bites](../../assets/images/strawberry-protein-bites.jpg){ loading=lazy }
+![Strawberry Protein Bites](../../assets/images/strawberry-protein-bites.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

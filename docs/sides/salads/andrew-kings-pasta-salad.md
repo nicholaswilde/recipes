@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/andrew-kings-pasta-salad.jpg
+hero: assets/images/andrew-kings-pasta-salad.webp
 ---
 
 # Andrew King's Pasta Salad
@@ -70,4 +70,4 @@ Season with shredded Parmesan, sea salt, and fine black pepper to taste.
 
 - Andrew King
 
-[1]: <../../assets/images/andrew-kings-pasta-salad.jpg>
+[1]: <../../assets/images/andrew-kings-pasta-salad.webp>

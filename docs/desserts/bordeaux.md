@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/bordeaux.jpg
+hero: assets/images/bordeaux.webp
 ---
 # :candy: Bordeaux
 
@@ -55,4 +55,4 @@ Melt :chestnut: dark chocolate and :butter: butter in the :microwave: microwave 
 
 - <https://selfproclaimedfoodie.com/copycat-sees-bordeaux/>
 
-[1]: <../assets/images/bordeaux.jpg>
+[1]: <../assets/images/bordeaux.webp>

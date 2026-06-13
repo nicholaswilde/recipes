@@ -5,12 +5,12 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
-hero: assets/images/mushroom-risotto.jpg
+hero: assets/images/mushroom-risotto.webp
 ---
 
 # :mushroom: Mushroom Risotto
 
-![Mushroom Risotto](../assets/images/mushroom-risotto.jpg){ loading=lazy }
+![Mushroom Risotto](../assets/images/mushroom-risotto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

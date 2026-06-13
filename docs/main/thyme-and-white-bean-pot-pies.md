@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/thyme-and-white-bean-pot-pies.jpg
+hero: assets/images/thyme-and-white-bean-pot-pies.webp
 ---
 # Thyme and White Bean Pot Pies
 
@@ -121,6 +121,6 @@ Store leftovers covered in the refrigerator for 3 to 4 days, or in the freezer u
 
 - <https://minimalistbaker.com/thyme-white-bean-pot-pies/#wprm-recipe-container-35425>
 
-[1]: <../assets/images/thyme-and-white-bean-pot-pies.jpg>
+[1]: <../assets/images/thyme-and-white-bean-pot-pies.webp>
 [2]: <../ingredients/vegetable-broth.md>
 

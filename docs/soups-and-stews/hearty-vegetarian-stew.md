@@ -4,7 +4,7 @@ tags:
 
   - stew
   - vegetarian
-hero: assets/images/hearty-vegetarian-stew.jpg
+hero: assets/images/hearty-vegetarian-stew.webp
 ---
 
 # :stew: Hearty Vegetarian Stew
@@ -66,4 +66,4 @@ If a thicker consistency is desired, let simmer for another 25 to 30 minutes.
 
 When ready, sprinkle with chopped parsley and serve hot.
 
-[1]: <../assets/images/hearty-vegetarian-stew.jpg>
+[1]: <../assets/images/hearty-vegetarian-stew.webp>

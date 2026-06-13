@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/calabaza-and-onion-quesadillas.jpg
+hero: assets/images/calabaza-and-onion-quesadillas.webp
 ---
 
 # :flatbread: Calabaza & Onion Quesadillas
@@ -49,7 +49,7 @@ Serve the quesadillas with the [pumpkin seed salsa][4] and [cashew crema][2]. Ga
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/calabaza-and-onion-quesadillas.jpg>
+[1]: <../assets/images/calabaza-and-onion-quesadillas.webp>
 [2]: <../sauces-and-dressings/dips-and-spreads/cashew-crema.md>
 [3]: <../ingredients/pumpkin-filling.md>
 [4]: <../sauces-and-dressings/salsas/pumpkin-seed-salsa.md>

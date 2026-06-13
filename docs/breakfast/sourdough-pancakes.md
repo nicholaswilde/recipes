@@ -5,7 +5,7 @@ tags:
   - breakfast
   - claire-saffitz
   - sourdough
-hero: assets/images/sourdough-pancakes.jpg
+hero: assets/images/sourdough-pancakes.webp
 ---
 
 # :pancakes: Sourdough Pancakes
@@ -79,4 +79,4 @@ Griddle the pancakes in a frying pan on the range.
 
 - <https://www.youtube.com/watch?v=zlOIV4Ju6FU>
 
-[1]: <../assets/images/sourdough-pancakes.jpg>
+[1]: <../assets/images/sourdough-pancakes.webp>

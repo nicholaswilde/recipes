@@ -4,12 +4,12 @@ tags:
 
   - overnight-oats
   - breakfast
-hero: assets/images/overnight-oats.jpg
+hero: assets/images/overnight-oats.webp
 ---
 
 # :ear_of_rice: Overnight Oats
 
-![Overnight Oats](../assets/images/overnight-oats.jpg){ loading=lazy }
+![Overnight Oats](../assets/images/overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

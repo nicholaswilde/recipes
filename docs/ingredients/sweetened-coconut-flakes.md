@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/sweetened-coconut-flakes.jpg
+hero: assets/images/sweetened-coconut-flakes.webp
 ---
 
 # :coconut: Sweetened Coconut Flakes
@@ -51,4 +51,4 @@ Add the coconut to your baking sheet lined with parchment paper and let it dry.
 
 - <https://cakedecorist.com/how-to-sweeten-coconut-flakes/>
 
-[1]: <../assets/images/sweetened-coconut-flakes.jpg>
+[1]: <../assets/images/sweetened-coconut-flakes.webp>

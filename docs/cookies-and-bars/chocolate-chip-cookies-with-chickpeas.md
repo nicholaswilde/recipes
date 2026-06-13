@@ -6,7 +6,7 @@ tags:
   - jessica-seinfeld
   - deceptively-delicious
   - dessert
-hero: assets/images/chocolate-chip-cookies-with-chickpeas.jpg
+hero: assets/images/chocolate-chip-cookies-with-chickpeas.webp
 ---
 
 # :cookie: Chocolate Chip Cookies with Chickpeas
@@ -66,4 +66,4 @@ Store in an airtight container for up to 3 days.
 
 - <https://jessicaseinfeld.com/recipes/chocolate-chip-cookies-with-chickpeas>
 
-[1]: <../assets/images/chocolate-chip-cookies-with-chickpeas.jpg>
+[1]: <../assets/images/chocolate-chip-cookies-with-chickpeas.webp>

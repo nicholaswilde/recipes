@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/vegetarian-pot-pie.jpg
+hero: assets/images/vegetarian-pot-pie.webp
 ---
 # Vegetarian Pot Pie
 
@@ -106,7 +106,7 @@ Once fully cooked and golden brown, remove the pie from the oven. Cool for 15 mi
 
 - <https://www.aspicyperspective.com/best-vegetarian-pot-pie/>
 
-[1]: <../assets/images/vegetarian-pot-pie.jpg>
+[1]: <../assets/images/vegetarian-pot-pie.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/pastry-dough/basic-pastry.md>
 [4]: <../ingredients/eggs.md>

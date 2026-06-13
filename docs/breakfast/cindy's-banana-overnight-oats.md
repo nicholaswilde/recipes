@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cindy's-banana-overnight-oats.jpg
+hero: assets/images/cindy's-banana-overnight-oats.webp
 ---
 
 # :banana: Cindy's Banana Overnight Oats
 
-![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.jpg){ loading=lazy }
+![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

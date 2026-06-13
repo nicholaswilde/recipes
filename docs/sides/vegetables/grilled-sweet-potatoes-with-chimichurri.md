@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/grilled-sweet-potatoes-with-chimichurri.jpg
+hero: assets/images/grilled-sweet-potatoes-with-chimichurri.webp
 ---
 
 # :sweet_potato: Grilled Sweet Potatoes with Chimichurri
 
-![Grilled Sweet Potatoes with Chimichurri](../../assets/images/grilled-sweet-potatoes-with-chimichurri.jpg){ loading=lazy }
+![Grilled Sweet Potatoes with Chimichurri](../../assets/images/grilled-sweet-potatoes-with-chimichurri.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

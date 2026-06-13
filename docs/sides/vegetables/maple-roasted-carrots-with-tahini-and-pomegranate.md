@@ -5,7 +5,7 @@ tags:
   - side
   - persian
   - heat-culinary
-hero: assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.jpg
+hero: assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.webp
 ---
 
 # :carrot: Maple Roasted Carrots with Tahini & Pomegranate
@@ -64,4 +64,4 @@ cilantro. Enjoy!
 
 - HEAT Culinary
 
-[1]: <../../assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.jpg>
+[1]: <../../assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.webp>

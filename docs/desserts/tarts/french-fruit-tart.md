@@ -6,12 +6,12 @@ tags:
   - dessert
   - tart
   - recipe-box
-hero: assets/images/french-fruit-tart.jpg
+hero: assets/images/french-fruit-tart.webp
 ---
 
 # :strawberry: French Fruit Tart
 
-![French Fruit Tart](../../assets/images/french-fruit-tart.jpg){ loading=lazy }
+![French Fruit Tart](../../assets/images/french-fruit-tart.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

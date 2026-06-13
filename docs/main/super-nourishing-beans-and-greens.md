@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/super-nourishing-beans-and-greens.jpg
+hero: assets/images/super-nourishing-beans-and-greens.webp
 ---
 # Super Nourishing Beans and Greens
 
@@ -58,7 +58,7 @@ or eggs. Keeps for 3 to 4 days in the refrigerator or up to 1 month in the freez
 
 - <https://minimalistbaker.com/super-nourishing-beans-greens/#wprm-recipe-container-102870>
 
-[1]: <../assets/images/super-nourishing-beans-and-greens.jpg>
+[1]: <../assets/images/super-nourishing-beans-and-greens.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/tofu/preparation.md>
 

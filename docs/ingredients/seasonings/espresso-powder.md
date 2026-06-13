@@ -4,7 +4,7 @@ tags:
 
   - seasoning
   - ingredient
-hero: assets/images/espresso-powder.jpg
+hero: assets/images/espresso-powder.webp
 ---
 
 # Espresso Powder
@@ -47,4 +47,4 @@ Pour into a container with a tight-fitting lid (such as a small Mason jar or spi
 
 - <https://addapinch.com/espresso-powder-recipe/>
 
-[1]: <../../assets/images/espresso-powder.jpg>
+[1]: <../../assets/images/espresso-powder.webp>

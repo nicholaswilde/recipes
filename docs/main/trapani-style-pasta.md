@@ -6,12 +6,12 @@ tags:
   - pasta
   - jamie-oliver
   - recipe-box
-hero: assets/images/trapani-style-pasta.jpg
+hero: assets/images/trapani-style-pasta.webp
 ---
 
 # :spaghetti: Trapani-Style Pasta
 
-![Trapani-Style Pasta](../assets/images/trapani-style-pasta.jpg){ loading=lazy }
+![Trapani-Style Pasta](../assets/images/trapani-style-pasta.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - jean-pierre
-hero: assets/images/breadcrumbs.jpg
+hero: assets/images/breadcrumbs.webp
 ---
 
 # :bread: Breadcrumbs
 
-![Breadcrumbs](../assets/images/breadcrumbs.jpg){ loading=lazy }
+![Breadcrumbs](../assets/images/breadcrumbs.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

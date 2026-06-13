@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/rosca-de-reyes.jpg
+hero: assets/images/rosca-de-reyes.webp
 ---
 
 # Rosca de Reyes
@@ -109,4 +109,4 @@ in an airtight container for up to 3 days.
 
 - <https://www.mexicoinmykitchen.com/three-kings-bread-recipe/>
 
-[1]: <../assets/images/rosca-de-reyes.jpg>
+[1]: <../assets/images/rosca-de-reyes.webp>

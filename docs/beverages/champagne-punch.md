@@ -4,7 +4,7 @@ tags:
 
   - beverage
   - recipe-box
-hero: assets/images/champagne-punch.jpg
+hero: assets/images/champagne-punch.webp
 ---
 
 # :clinking_glasses: Champagne Punch
@@ -43,4 +43,4 @@ Enjoy!
 
 - Recipe Box
 
-[1]: <../assets/images/champagne-punch.jpg>
+[1]: <../assets/images/champagne-punch.webp>

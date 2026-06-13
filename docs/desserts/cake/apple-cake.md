@@ -5,7 +5,7 @@ tags:
   - cake
   - bake-off
   - sallys-baking-addiction
-hero: assets/images/apple-cake.jpg
+hero: assets/images/apple-cake.webp
 ---
 
 # :red_apple: Apple Cake
@@ -101,4 +101,4 @@ days.
 - <https://sallysbakingaddiction.com/apple-cake/>
 - <https://www.thepancakeprincess.com/best-apple-cake-bake-off/>
 
-[1]: <../../assets/images/apple-cake.jpg>
+[1]: <../../assets/images/apple-cake.webp>

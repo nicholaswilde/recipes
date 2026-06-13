@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/yogurt.jpg
+hero: assets/images/yogurt.webp
 ---
 
 # :microbe: Yogurt
 
-![Yogurt](../assets/images/yogurt.jpg){ loading=lazy }
+![Yogurt](../assets/images/yogurt.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

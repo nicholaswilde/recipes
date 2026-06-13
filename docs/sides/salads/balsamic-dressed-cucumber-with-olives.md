@@ -4,7 +4,7 @@ tags:
 
   - side
   - jamie-oliver
-hero: assets/images/balsamic-dressed-cucumber-with-olives.jpg
+hero: assets/images/balsamic-dressed-cucumber-with-olives.webp
 ---
 
 # :cucumber: Balsamic-Dressed Cucumber with Olives
@@ -88,4 +88,4 @@ Pick and tear over the mint leaves, toss everything together, then serve.
 
 - <https://www.jamieoliver.com/recipes/vegetables-recipes/balsamic-dressed-cucumber-with-olives/>
 
-[1]: <../../assets/images/balsamic-dressed-cucumber-with-olives.jpg>
+[1]: <../../assets/images/balsamic-dressed-cucumber-with-olives.webp>

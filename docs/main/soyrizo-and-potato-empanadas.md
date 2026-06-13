@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/soyrizo-and-potato-empanadas.jpg
+hero: assets/images/soyrizo-and-potato-empanadas.webp
 ---
 
 # :dumpling: Soyrizo & Potato Empanadas
@@ -71,5 +71,5 @@ Serve with the avocado salsa verde for dipping.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/soyrizo-and-potato-empanadas.jpg>
+[1]: <../assets/images/soyrizo-and-potato-empanadas.webp>
 [2]: <../ingredients/pastry-dough/vegan-empanada-pastry.md>

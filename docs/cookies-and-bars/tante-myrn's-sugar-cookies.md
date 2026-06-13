@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - tante-myrna-seccia
-hero: assets/images/tante-myrn's-sugar-cookies.jpg
+hero: assets/images/tante-myrn's-sugar-cookies.webp
 ---
 
 # :cookie: Tante Myrn's Sugar Cookies
 
-![Tante Myrn's Sugar Cookies](../assets/images/tante-myrn's-sugar-cookies.jpg){ loading=lazy }
+![Tante Myrn's Sugar Cookies](../assets/images/tante-myrn's-sugar-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

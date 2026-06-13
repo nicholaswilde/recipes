@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.jpg
+hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp
 ---
 # One-Bowl Buttermilk Birthday Cake with Cream Cheese Frosting
 
@@ -79,5 +79,5 @@ and candles as desired.
 
 - <https://alexandracooks.com/2019/02/06/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting/>
 
-[1]: <../../assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.jpg>
+[1]: <../../assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp>
 

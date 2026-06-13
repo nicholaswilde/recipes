@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/irish-soda-bread.jpg
+hero: assets/images/irish-soda-bread.webp
 ---
 
 # :four_leaf_clover: Irish Soda Bread
@@ -84,4 +84,4 @@ Store for about 2 days, well wrapped, at room temperature; freeze for longer sto
 
 - <https://www.kingarthurbaking.com/recipes/irish-soda-bread-recipe>
 
-[1]: <../assets/images/irish-soda-bread.jpg>
+[1]: <../assets/images/irish-soda-bread.webp>

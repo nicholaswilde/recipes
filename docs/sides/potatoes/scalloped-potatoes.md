@@ -7,7 +7,7 @@ tags:
   - cream
   - french
   - julia child
-hero: assets/images/scalloped-potatoes.jpg
+hero: assets/images/scalloped-potatoes.webp
 ---
 
 # Scalloped Potatoes
@@ -67,4 +67,4 @@ About 20 minutes before serving, set in the upper middle level of the preheated 
 
 - <https://farmersmarketinstitute.org/julia-childs-scalloped-potatoes-baked-in-cream/>
 
-[1]: <../../assets/images/scalloped-potatoes.jpg>
+[1]: <../../assets/images/scalloped-potatoes.webp>

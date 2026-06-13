@@ -5,12 +5,12 @@ tags:
   - side
   - salad
   - ina-garten
-hero: assets/images/tomato-feta-pasta-salad.jpg
+hero: assets/images/tomato-feta-pasta-salad.webp
 ---
 
 # :green_salad: Tomato Feta Pasta Salad
 
-![Tomato Feta Pasta Salad](../../assets/images/tomato-feta-pasta-salad.jpg){ loading=lazy }
+![Tomato Feta Pasta Salad](../../assets/images/tomato-feta-pasta-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

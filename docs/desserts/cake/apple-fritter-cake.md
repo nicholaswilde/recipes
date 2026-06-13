@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - king-arthur
-hero: assets/images/apple-fritter-cake.jpg
+hero: assets/images/apple-fritter-cake.webp
 ---
 
 # :green_apple: Apple Fritter Cake
 
-![Apple Fritter Cake](../../assets/images/apple-fritter-cake.jpg){ loading=lazy }
+![Apple Fritter Cake](../../assets/images/apple-fritter-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

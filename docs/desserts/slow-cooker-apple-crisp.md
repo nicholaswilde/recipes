@@ -5,12 +5,12 @@ tags:
   - dessert
   - slow-cooker
   - recipe-box
-hero: assets/images/slow-cooker-apple-crisp.jpg
+hero: assets/images/slow-cooker-apple-crisp.webp
 ---
 
 # :apple: Slow Cooker Apple Crisp
 
-![Slow Cooker Apple Crisp](../assets/images/slow-cooker-apple-crisp.jpg){ loading=lazy }
+![Slow Cooker Apple Crisp](../assets/images/slow-cooker-apple-crisp.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

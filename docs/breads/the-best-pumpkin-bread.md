@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/the-best-pumpkin-bread.jpg
+hero: assets/images/the-best-pumpkin-bread.webp
 ---
 
 # :jack_o_lantern: The Best Pumpkin Bread
 
-![The Best Pumpkin Bread](../assets/images/the-best-pumpkin-bread.jpg){ loading=lazy }
+![The Best Pumpkin Bread](../assets/images/the-best-pumpkin-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

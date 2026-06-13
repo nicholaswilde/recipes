@@ -4,12 +4,12 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/buttermilk-pie.jpg
+hero: assets/images/buttermilk-pie.webp
 ---
 
 # :pie: Buttermilk Pie
 
-![Buttermilk Pie](../../assets/images/buttermilk-pie.jpg){ loading=lazy }
+![Buttermilk Pie](../../assets/images/buttermilk-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

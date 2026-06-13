@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/breakfast-potatoes.jpg
+hero: assets/images/breakfast-potatoes.webp
 ---
 
 # :potato: Breakfast Potatoes
 
-![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg){ loading=lazy }
+![Breakfast Potatoes](../assets/images/breakfast-potatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

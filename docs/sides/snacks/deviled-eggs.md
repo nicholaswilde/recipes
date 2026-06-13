@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/deviled-eggs.jpg
+hero: assets/images/deviled-eggs.webp
 ---
 
 # :egg: Deviled Eggs
 
-![Deviled Eggs](../../assets/images/deviled-eggs.jpg){ loading=lazy }
+![Deviled Eggs](../../assets/images/deviled-eggs.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

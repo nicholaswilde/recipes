@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - jean-pierre
-hero: assets/images/caramelized-onions.jpg
+hero: assets/images/caramelized-onions.webp
 ---
 
 # :onion: Caramelized Onions
 
-![Caramelized Onions](../assets/images/caramelized-onions.jpg){ loading=lazy }
+![Caramelized Onions](../assets/images/caramelized-onions.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

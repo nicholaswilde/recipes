@@ -4,7 +4,7 @@ tags:
   - cookie
   - asian
   - todd-wilbur
-hero: assets/images/almond-cookies.jpg
+hero: assets/images/almond-cookies.webp
 ---
 # Almond Cookies
 
@@ -72,4 +72,4 @@ Lightly brush the top of each cookie with :egg: beaten egg.
 
 Bake for 20 minutes, or until the edges are lightly browned.
 
-[1]: <../assets/images/almond-cookies.jpg>
+[1]: <../assets/images/almond-cookies.webp>

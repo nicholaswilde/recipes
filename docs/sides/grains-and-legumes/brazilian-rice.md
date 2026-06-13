@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/brazilian-rice.jpg
+hero: assets/images/brazilian-rice.webp
 ---
 
 # :rice: Brazilian Rice
 
-![Brazilian Rice](../../assets/images/brazilian-rice.jpg){ loading=lazy }
+![Brazilian Rice](../../assets/images/brazilian-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/buckeyes.jpg
+hero: assets/images/buckeyes.webp
 ---
 
 # :yellow_circle: Buckeyes
 
-![Buckeyes](../assets/images/buckeyes.jpg){ loading=lazy }
+![Buckeyes](../assets/images/buckeyes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

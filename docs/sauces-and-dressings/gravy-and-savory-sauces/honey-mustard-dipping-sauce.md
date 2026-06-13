@@ -5,12 +5,12 @@ tags:
   - sauce
   - dip
   - joy-of-cooking
-hero: assets/images/honey-mustard-dipping-sauce.jpg
+hero: assets/images/honey-mustard-dipping-sauce.webp
 ---
 
 # :honey_pot: Honey Mustard Dipping Sauce
 
-![Honey Mustard Dipping Sauce](../../assets/images/honey-mustard-dipping-sauce.jpg){ loading=lazy }
+![Honey Mustard Dipping Sauce](../../assets/images/honey-mustard-dipping-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

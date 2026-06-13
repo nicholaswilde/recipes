@@ -4,12 +4,12 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/banoffee-pie.jpg
+hero: assets/images/banoffee-pie.webp
 ---
 
 # :pie: Banoffee Pie
 
-![Banoffee Pie](../../assets/images/banoffee-pie.jpg){ loading=lazy }
+![Banoffee Pie](../../assets/images/banoffee-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

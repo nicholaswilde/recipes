@@ -3,7 +3,7 @@ comments: true
 tags:
   - bread
   - dessert
-hero: assets/images/kouign-amann.jpg
+hero: assets/images/kouign-amann.webp
 ---
 
 # :bread: Kouign-Amann
@@ -142,4 +142,4 @@ Immediately remove from pan and transfer to a wire rack; let cool.
 
 - [YouTube](https://youtube.com/watch?v=Mb9OBQhWucA&si=rG5YN-iv8hY_QVr8)
 
-[1]: <../assets/images/kouign-amann.jpg>
+[1]: <../assets/images/kouign-amann.webp>

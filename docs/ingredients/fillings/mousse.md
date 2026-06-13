@@ -4,12 +4,12 @@ tags:
 
   - filling
   - ingredient
-hero: assets/images/mousse.jpg
+hero: assets/images/mousse.webp
 ---
 
 # :chocolate_bar: Mousse
 
-![Mousse](../../assets/images/mousse.jpg){ loading=lazy }
+![Mousse](../../assets/images/mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

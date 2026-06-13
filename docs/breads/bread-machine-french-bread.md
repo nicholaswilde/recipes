@@ -4,12 +4,12 @@ tags:
 
   - bread
   - bread-machine
-hero: assets/images/bread-machine-french-bread.jpg
+hero: assets/images/bread-machine-french-bread.webp
 ---
 
 # :bread: Bread Machine French Bread
 
-![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg){ loading=lazy }
+![Bread Machine French Bread](../assets/images/bread-machine-french-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

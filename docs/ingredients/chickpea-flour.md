@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - flour
-hero: assets/images/chickpea-flour.jpg
+hero: assets/images/chickpea-flour.webp
 ---
 
 # :falafel: Chickpea Flour
@@ -42,4 +42,4 @@ Store in an airtight container for up to 2 months.
 
 - <https://www.alphafoodie.com/how-to-make-chickpea-flour/>
 
-[1]: <../assets/images/chickpea-flour.jpg>
+[1]: <../assets/images/chickpea-flour.webp>

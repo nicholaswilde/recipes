@@ -6,7 +6,7 @@ tags:
   - king-arthur
   - recipe-of-the-year
   - favorite
-hero: assets/images/big-and-bubbly-focaccia.jpg
+hero: assets/images/big-and-bubbly-focaccia.webp
 ---
 
 # :bread: Big & Bubbly Focaccia
@@ -146,4 +146,4 @@ from the oven once again and transfer it to a wire rack to cool completely.
 
 - <https://www.kingarthurbaking.com/recipes/big-and-bubbly-focaccia-recipe>
 
-[1]: <../assets/images/big-and-bubbly-focaccia.jpg>
+[1]: <../assets/images/big-and-bubbly-focaccia.webp>

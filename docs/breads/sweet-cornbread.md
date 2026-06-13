@@ -4,7 +4,7 @@ tags:
 
   - bread
   - bake-off
-hero: assets/images/sweet-cornbread.jpg
+hero: assets/images/sweet-cornbread.webp
 ---
 
 # :corn: Sweet Cornbread
@@ -56,4 +56,4 @@ out clean or with a few moist crumbs.
 - <https://www.melskitchencafe.com/the-cornbread-and-fluffy-honey-butter/>
 - <https://www.thepancakeprincess.com/2019/11/24/best-sweet-cornbread-bake-off/>
 
-[1]: <../assets/images/sweet-cornbread.jpg>
+[1]: <../assets/images/sweet-cornbread.webp>

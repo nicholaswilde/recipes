@@ -3,12 +3,12 @@ comments: true
 tags:
   - casserole
   - holiday
-hero: assets/images/green-bean-casserole.jpg
+hero: assets/images/green-bean-casserole.webp
 ---
 
 # :cucumber: Green Bean Casserole
 
-![Green Bean Casserole](../../assets/images/green-bean-casserole.jpg){ loading=lazy }
+![Green Bean Casserole](../../assets/images/green-bean-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

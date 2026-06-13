@@ -4,12 +4,12 @@ tags:
 
   - mousse
   - dessert
-hero: assets/images/4-ingredient-chocolate-mousse.jpg
+hero: assets/images/4-ingredient-chocolate-mousse.webp
 ---
 
 # :chocolate_bar: 4 Ingredient Chocolate Mousse
 
-![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.jpg){ loading=lazy }
+![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

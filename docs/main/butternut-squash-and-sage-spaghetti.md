@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/butternut-squash-and-sage-spaghetti.jpg
+hero: assets/images/butternut-squash-and-sage-spaghetti.webp
 ---
 
 # :spaghetti: Butternut Squash and Sage Spaghetti
@@ -85,4 +85,4 @@ Garnish with grated pecorino cheese and crispy fried sage leaves.
 
 - <https://recipe30.com/squash-and-sage-spaghetti.html/>
 
-[1]: <../assets/images/butternut-squash-and-sage-spaghetti.jpg>
+[1]: <../assets/images/butternut-squash-and-sage-spaghetti.webp>

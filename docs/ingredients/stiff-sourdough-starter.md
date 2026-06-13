@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - sourdough
-hero: assets/images/stiff-sourdough-starter.jpg
+hero: assets/images/stiff-sourdough-starter.webp
 ---
 
 # :microbe: Stiff Sourdough Starter
@@ -88,5 +88,5 @@ Feed once a week.
 - <https://www.kingarthurbaking.com/recipes/a-smaller-sourdough-starter-recipe>
 - <https://www.kingarthurbaking.com/blog/2018/10/30/maintaining-a-smaller-sourdough-starter>
 
-[1]: <../assets/images/stiff-sourdough-starter.jpg>
+[1]: <../assets/images/stiff-sourdough-starter.webp>
 [2]: <./sourdough-starter.md>

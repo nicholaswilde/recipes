@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - holiday
-hero: assets/images/galette-des-rois.jpg
+hero: assets/images/galette-des-rois.webp
 ---
 
 # :cake: Galette des Rois
 
-![Galette des Rois](../../assets/images/galette-des-rois.jpg){ loading=lazy }
+![Galette des Rois](../../assets/images/galette-des-rois.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

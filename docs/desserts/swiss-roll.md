@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/swiss-roll.jpg
+hero: assets/images/swiss-roll.webp
 ---
 
 # :cake: Swiss Roll
 
-![Swiss Roll](../assets/images/swiss-roll.jpg){ loading=lazy }
+![Swiss Roll](../assets/images/swiss-roll.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

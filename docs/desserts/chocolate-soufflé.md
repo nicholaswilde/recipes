@@ -6,12 +6,12 @@ tags:
   - dessert
   - joy-of-cooking
   - custard
-hero: assets/images/chocolate-soufflé.jpg
+hero: assets/images/chocolate-soufflé.webp
 ---
 
 # :custard: Chocolate Soufflé
 
-![Chocolate Soufflé](../assets/images/chocolate-soufflé.jpg){ loading=lazy }
+![Chocolate Soufflé](../assets/images/chocolate-soufflé.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - mediterranean
   - recipe-box
-hero: assets/images/mediterranean-pasta-salad.jpg
+hero: assets/images/mediterranean-pasta-salad.webp
 ---
 
 # :green_salad: Mediterranean Pasta Salad
 
-![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg){ loading=lazy }
+![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

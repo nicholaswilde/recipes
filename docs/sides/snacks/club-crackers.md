@@ -4,12 +4,12 @@ tags:
 
   - cracker
   - snack
-hero: assets/images/club-crackers.jpg
+hero: assets/images/club-crackers.webp
 ---
 
 # :cookie: Club Crackers
 
-![Club Crackers](../../assets/images/club-crackers.jpg){ loading=lazy }
+![Club Crackers](../../assets/images/club-crackers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

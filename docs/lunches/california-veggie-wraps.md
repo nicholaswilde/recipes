@@ -2,7 +2,7 @@
 comments: true
 tags:
   - lunch
-hero: assets/images/california-veggie-wraps.jpg
+hero: assets/images/california-veggie-wraps.webp
 ---
 # California Veggie Wraps
 
@@ -42,6 +42,6 @@ half.
 
 Serves 8 half-wraps.
 
-[1]: <../assets/images/california-veggie-wraps.jpg>
+[1]: <../assets/images/california-veggie-wraps.webp>
 [2]: <../sauces-and-dressings/dips-and-spreads/benedictine-sandwich-spread.md>
 

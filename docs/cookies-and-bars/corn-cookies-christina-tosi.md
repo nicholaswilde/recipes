@@ -4,7 +4,7 @@ tags:
   - cookie
   - milk-bar
   - bake-off
-hero: assets/images/corn-cookies-christina-tosi.jpg
+hero: assets/images/corn-cookies-christina-tosi.webp
 ---
 # Corn Cookies
 
@@ -73,4 +73,4 @@ The cookies are done when they have puffed, crackled, and are faintly browned on
 
 - [Bake-Off: The Best Corn Cookies](https://www.thepancakeprincess.com/best-corn-cookie-bake-off/)
 
-[1]: <../assets/images/corn-cookies-christina-tosi.jpg>
+[1]: <../assets/images/corn-cookies-christina-tosi.webp>

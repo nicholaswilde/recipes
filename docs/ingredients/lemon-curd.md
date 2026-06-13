@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - ina-garten
-hero: assets/images/lemon-curd.jpg
+hero: assets/images/lemon-curd.webp
 ---
 
 # :lemon: Lemon Curd
 
-![Lemon Curd](../assets/images/lemon-curd.jpg){ loading=lazy }
+![Lemon Curd](../assets/images/lemon-curd.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -5,12 +5,12 @@ tags:
   - beverage
   - tea
   - joy-of-cooking
-hero: assets/images/iced-hibiscus-tea.jpg
+hero: assets/images/iced-hibiscus-tea.webp
 ---
 
 # :hibiscus: Iced Hibiscus Tea
 
-![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.jpg){ loading=lazy }
+![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

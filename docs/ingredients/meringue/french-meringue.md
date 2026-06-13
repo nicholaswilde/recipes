@@ -5,12 +5,12 @@ tags:
   - meringue
   - ingredient
   - joy-of-cooking
-hero: assets/images/french-meringue.jpg
+hero: assets/images/french-meringue.webp
 ---
 
 # :egg: French Meringue
 
-![French Meringue](../../assets/images/french-meringue.jpg){ loading=lazy }
+![French Meringue](../../assets/images/french-meringue.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

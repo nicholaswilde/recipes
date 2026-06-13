@@ -4,7 +4,7 @@ tags:
 
   - pastry-dough
   - ingredient
-hero: assets/images/filo.jpg
+hero: assets/images/filo.webp
 ---
 
 # :pie: Filo
@@ -87,4 +87,4 @@ Roll out one of the squares of dough to a rough 30 cm diameter circle.
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baklava/>
 
-[1]: <../../assets/images/filo.jpg>
+[1]: <../../assets/images/filo.webp>

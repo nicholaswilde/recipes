@@ -6,12 +6,12 @@ tags:
   - gordon-ramsay
   - main
   - recipe-box
-hero: assets/images/gordon-ramsay's-spicy-sausage-rice.jpg
+hero: assets/images/gordon-ramsay's-spicy-sausage-rice.webp
 ---
 
 # :rice: Gordon Ramsay's Spicy Sausage Rice
 
-![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg){ loading=lazy }
+![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

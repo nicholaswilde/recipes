@@ -5,12 +5,12 @@ tags:
   - sauce
   - joy-of-cooking
   - pesto
-hero: assets/images/joy-of-cooking-pesto.jpg
+hero: assets/images/joy-of-cooking-pesto.webp
 ---
 
 # :herb: Joy of Cooking Pesto
 
-![Joy of Cooking Pesto](../../../assets/images/joy-of-cooking-pesto.jpg){ loading=lazy }
+![Joy of Cooking Pesto](../../../assets/images/joy-of-cooking-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

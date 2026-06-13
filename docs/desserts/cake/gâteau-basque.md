@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - french
-hero: assets/images/gâteau-basque.jpg
+hero: assets/images/gâteau-basque.webp
 ---
 
 # :cake: Gâteau Basque
 
-![Gâteau Basque](../../assets/images/gâteau-basque.jpg){ loading=lazy }
+![Gâteau Basque](../../assets/images/gâteau-basque.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

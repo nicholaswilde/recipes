@@ -4,7 +4,7 @@ tags:
 
   - chowder
   - the-blue-zones-kitchen
-hero: assets/images/kickin-potato-and-corn-chowder.jpg
+hero: assets/images/kickin-potato-and-corn-chowder.webp
 ---
 
 # :stew: Kickin Potato & Corn Chowder
@@ -78,4 +78,4 @@ Garnish each bowl with fresh cilantro and serve.
 
 - The Blue Zones Kitchen One Pot Meals
 
-[1]: <../assets/images/kickin-potato-and-corn-chowder.jpg>
+[1]: <../assets/images/kickin-potato-and-corn-chowder.webp>

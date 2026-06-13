@@ -4,7 +4,7 @@ tags:
 
   - bread
   - sugar-spun-run
-hero: assets/images/pumpkin-coffee-cake.jpg
+hero: assets/images/pumpkin-coffee-cake.webp
 ---
 
 # :jack_o_lantern: Pumpkin Coffee Cake
@@ -126,6 +126,6 @@ Cut and serve. Enjoy!
 
 - <https://sugarspunrun.com/pumpkin-coffee-cake/>
 
-[1]: <../assets/images/pumpkin-coffee-cake.jpg>
+[1]: <../assets/images/pumpkin-coffee-cake.webp>
 [2]: <../ingredients/pumpkin-purée.md>
 [3]: <../ingredients/seasonings/pumpkin-pie-spice.md>

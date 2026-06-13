@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/jackfruit-mixiote.jpg
+hero: assets/images/jackfruit-mixiote.webp
 ---
 
 # :melon: Jackfruit Mixiote
@@ -68,6 +68,6 @@ Add the mixture to the jackfruit in the pan and stir to combine.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/jackfruit-mixiote.jpg>
+[1]: <../assets/images/jackfruit-mixiote.webp>
 [2]: <../sauces-and-dressings/salsas/salsa-ranchera.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/simple-barbecue-sauce.md>

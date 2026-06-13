@@ -4,7 +4,7 @@ tags:
   - cookie
   - dessert
   - smitten kitchen
-hero: assets/images/confetti-cookies.jpg
+hero: assets/images/confetti-cookies.webp
 ---
 # Confetti Cookies
 
@@ -67,4 +67,4 @@ a few minutes before transferring to a cooling rack.
 
 - [Confetti Cookies – Smitten Kitchen](https://smittenkitchen.com/2016/05/confetti-cookies/)
 
-[1]: <../assets/images/confetti-cookies.jpg>
+[1]: <../assets/images/confetti-cookies.webp>

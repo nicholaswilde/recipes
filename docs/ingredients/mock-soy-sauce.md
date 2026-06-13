@@ -6,7 +6,7 @@ tags:
   - substitute
   - soy-free
   - gluten-free
-hero: assets/images/mock-soy-sauce.jpg
+hero: assets/images/mock-soy-sauce.webp
 ---
 # Mock Soy Sauce
 
@@ -58,4 +58,4 @@ Transfer to a glass jar and store in the refrigerator for up to 2 weeks.
 
 - [The Honour System](https://thehonoursystem.com/faux-soy-sauce-soy-gluten-free/)
 
-[1]: <../assets/images/mock-soy-sauce.jpg>
+[1]: <../assets/images/mock-soy-sauce.webp>

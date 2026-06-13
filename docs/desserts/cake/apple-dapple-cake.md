@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/apple-dapple-cake.jpg
+hero: assets/images/apple-dapple-cake.webp
 ---
 # Apple Dapple Cake
 
@@ -112,4 +112,4 @@ smooth, about 1 minute. Drizzle remaining Caramel Glaze over cake.
 - <https://www.southernliving.com/apple-dapple-cake-review-11806445>
 - <https://www.southernliving.com/apple-dapple-cake-7560280>
 
-[1]: <../../assets/images/apple-dapple-cake.jpg>
+[1]: <../../assets/images/apple-dapple-cake.webp>

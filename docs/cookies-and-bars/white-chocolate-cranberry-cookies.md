@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - favorite
-hero: assets/images/white-chocolate-cranberry-cookies.jpg
+hero: assets/images/white-chocolate-cranberry-cookies.webp
 ---
 
 # :cookie: White Chocolate Cranberry Cookies
 
-![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.jpg){ loading=lazy }
+![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

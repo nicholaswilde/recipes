@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/lemon-poppy-seed-pound-cake.jpg
+hero: assets/images/lemon-poppy-seed-pound-cake.webp
 ---
 # Lemon Poppy Seed Pound Cake
 
@@ -79,5 +79,5 @@ and sides of cake. Cool completely before slicing.
 
 - <https://cooking.nytimes.com/recipes/1014800-lemon-poppy-seed-pound-cake>
 
-[1]: <../../assets/images/lemon-poppy-seed-pound-cake.jpg>
+[1]: <../../assets/images/lemon-poppy-seed-pound-cake.webp>
 

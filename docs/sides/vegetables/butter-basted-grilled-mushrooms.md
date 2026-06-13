@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/butter-basted-grilled-mushrooms.jpg
+hero: assets/images/butter-basted-grilled-mushrooms.webp
 ---
 
 # :mushroom: Butter-Basted Grilled Mushrooms
 
-![Butter-Basted Grilled Mushrooms](../../assets/images/butter-basted-grilled-mushrooms.jpg){ loading=lazy }
+![Butter-Basted Grilled Mushrooms](../../assets/images/butter-basted-grilled-mushrooms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

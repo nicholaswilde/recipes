@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - muffin
-hero: assets/images/lemon-poppy-muffins.jpg
+hero: assets/images/lemon-poppy-muffins.webp
 ---
 
 # :cupcake: Lemon Poppy Muffins
 
-![Lemon Poppy Muffins](../assets/images/lemon-poppy-muffins.jpg){ loading=lazy }
+![Lemon Poppy Muffins](../assets/images/lemon-poppy-muffins.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

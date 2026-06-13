@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/garlic-rice.jpg
+hero: assets/images/garlic-rice.webp
 ---
 
 # :rice: Garlic Rice
 
-![Garlic Rice](../../assets/images/garlic-rice.jpg){ loading=lazy }
+![Garlic Rice](../../assets/images/garlic-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

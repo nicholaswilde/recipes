@@ -4,12 +4,12 @@ tags:
 
   - bread
   - quick-bread
-hero: assets/images/delicious-zucchini-bread.jpg
+hero: assets/images/delicious-zucchini-bread.webp
 ---
 
 # :bread: Delicious Zucchini Bread
 
-![Delicious Zucchini Bread](../assets/images/delicious-zucchini-bread.jpg){ loading=lazy }
+![Delicious Zucchini Bread](../assets/images/delicious-zucchini-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

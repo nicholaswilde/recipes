@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/almond-flour.jpg
+hero: assets/images/almond-flour.webp
 ---
 
 # :chestnut: Almond Flour
 
-![Almond Flour](../assets/images/almond-flour.jpg){ loading=lazy }
+![Almond Flour](../assets/images/almond-flour.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

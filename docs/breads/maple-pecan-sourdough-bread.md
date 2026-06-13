@@ -4,7 +4,7 @@ tags:
   - bread
   - sourdough
   - amy bakes bread
-hero: assets/images/maple-pecan-sourdough-bread.jpg
+hero: assets/images/maple-pecan-sourdough-bread.webp
 ---
 # Maple Pecan Sourdough Bread
 
@@ -97,4 +97,4 @@ Cool completely on a wire rack before slicing.
 
 - [Maple Pecan Sourdough Bread - Amy Bakes Bread](https://amybakesbread.com/maple-pecan-sourdough-bread/)
 
-[1]: <../assets/images/maple-pecan-sourdough-bread.jpg>
+[1]: <../assets/images/maple-pecan-sourdough-bread.webp>

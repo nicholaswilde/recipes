@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/grammys-texas-sheet-cake.jpg
+hero: assets/images/grammys-texas-sheet-cake.webp
 ---
 
 # :cake: Grammys Texas Sheet Cake
@@ -112,4 +112,4 @@ temperature or up to a week in the fridge.
 - <https://www.thepancakeprincess.com/grammys-texas-sheet-cake/>
 - <https://www.thepancakeprincess.com/best-texas-sheet-cake-bake-off/>
 
-[1]: <../../assets/images/grammys-texas-sheet-cake.jpg>
+[1]: <../../assets/images/grammys-texas-sheet-cake.webp>

@@ -4,12 +4,12 @@ tags:
 
   - italian
   - joy-of-cooking
-hero: assets/images/potato-gnocchi.jpg
+hero: assets/images/potato-gnocchi.webp
 ---
 
 # :potato: Potato Gnocchi
 
-![Potato Gnocchi](../assets/images/potato-gnocchi.jpg){ loading=lazy }
+![Potato Gnocchi](../assets/images/potato-gnocchi.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

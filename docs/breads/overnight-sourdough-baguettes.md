@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/overnight-sourdough-baguettes.jpg
+hero: assets/images/overnight-sourdough-baguettes.webp
 ---
 
 # :baguette_bread: Overnight Sourdough Baguettes
@@ -152,7 +152,7 @@ room temperature for up to several days; freeze for longer storage.
 
 - <https://www.kingarthurbaking.com/recipes/overnight-baguettes-recipe>
 
-[1]: <../assets/images/overnight-sourdough-baguettes.jpg>
+[1]: <../assets/images/overnight-sourdough-baguettes.webp>
 [2]: <../ingredients/sourdough-starter.md>
 
 [^1]:

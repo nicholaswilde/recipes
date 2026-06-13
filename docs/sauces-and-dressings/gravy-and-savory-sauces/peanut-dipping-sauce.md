@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - joy-of-cooking
-hero: assets/images/peanut-dipping-sauce.jpg
+hero: assets/images/peanut-dipping-sauce.webp
 ---
 
 # :peanuts: Peanut Dipping Sauce
 
-![Peanut Dipping Sauce](../../assets/images/peanut-dipping-sauce.jpg){ loading=lazy }
+![Peanut Dipping Sauce](../../assets/images/peanut-dipping-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

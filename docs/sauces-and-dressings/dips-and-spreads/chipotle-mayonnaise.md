@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - kenji-lopez-alt
-hero: assets/images/chipotle-mayonnaise.jpg
+hero: assets/images/chipotle-mayonnaise.webp
 ---
 
 # :hot_pepper: Chipotle Mayonnaise
@@ -44,5 +44,5 @@ Pour into an airtight container, cover, and store in the refrigerator until read
 - <https://www.seriouseats.com/sauced-chipotle-mayonnaise-recipe>
 - <https://www.youtube.com/watch?v=BMgLRD2v5w0&t=730s>
 
-[1]: <../../assets/images/chipotle-mayonnaise.jpg>
+[1]: <../../assets/images/chipotle-mayonnaise.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

@@ -6,7 +6,7 @@ tags:
   - vegan
   - butternut-squash
   - tahini
-hero: assets/images/butternut-squash-tahini-curry.jpg
+hero: assets/images/butternut-squash-tahini-curry.webp
 ---
 # Butternut Squash Tahini Curry
 
@@ -104,5 +104,5 @@ Garnish with fresh cilantro (chopped).
 
 - Practically Vegan
 
-[1]: <../assets/images/butternut-squash-tahini-curry.jpg>
+[1]: <../assets/images/butternut-squash-tahini-curry.webp>
 

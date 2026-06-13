@@ -5,12 +5,12 @@ tags:
   - breakfast
   - french
   - joy-of-cooking
-hero: assets/images/french-omelet.jpg
+hero: assets/images/french-omelet.webp
 ---
 
 # :egg: French Omelet
 
-![French Omelet](../assets/images/french-omelet.jpg){ loading=lazy }
+![French Omelet](../assets/images/french-omelet.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -73,7 +73,7 @@ Meanwhile, agitate the pan forward and backward with the left hand. Keep the egg
 bottom. With a dinner fork, quickly swirl the eggs with a circular motion, as shown. Hold the fork so the tines are
 parallel to, but not scraping, the base of the pan.
 
-![French Omelet 2](../assets/images/french-omelet-2.jpg)
+![French Omelet 2](../assets/images/french-omelet-2.webp)
 
 ### Step 4
 

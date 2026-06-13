@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/toffee-bits.jpg
+hero: assets/images/toffee-bits.webp
 ---
 
 # Toffee Bits
@@ -58,4 +58,4 @@ week.
 
 - <https://handletheheat.com/homemade-toffee-bits/>
 
-[1]: <../assets/images/toffee-bits.jpg>
+[1]: <../assets/images/toffee-bits.webp>

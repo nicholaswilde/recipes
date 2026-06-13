@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/frico-crumble.jpg
+hero: assets/images/frico-crumble.webp
 ---
 
 # :cheese_wedge: Frico Crumble
@@ -47,4 +47,4 @@ bite-size pieces.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/frico-crumble.jpg>
+[1]: <../assets/images/frico-crumble.webp>

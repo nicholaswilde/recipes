@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/cinnamon-raisin-sourdough-bread.jpg
+hero: assets/images/cinnamon-raisin-sourdough-bread.webp
 ---
 
 # :bread: Cinnamon Raisin Sourdough Bread
@@ -117,5 +117,5 @@ before slicing.
 
 - <https://www.kingarthurbaking.com/recipes/cinnamon-raisin-sourdough-bread-recipe>
 
-[1]: <../assets/images/cinnamon-raisin-sourdough-bread.jpg>
+[1]: <../assets/images/cinnamon-raisin-sourdough-bread.webp>
 [2]: <../ingredients/sourdough-starter.md>

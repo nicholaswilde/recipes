@@ -5,12 +5,12 @@ tags:
   - pie
   - dessert
   - recipe-box
-hero: assets/images/tollhouse-pie.jpg
+hero: assets/images/tollhouse-pie.webp
 ---
 
 # :pie: Tollhouse Pie
 
-![Tollhouse Pie](../../assets/images/tollhouse-pie.jpg){ loading=lazy }
+![Tollhouse Pie](../../assets/images/tollhouse-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

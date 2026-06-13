@@ -5,7 +5,7 @@ tags:
   - breakfast
   - muffins
   - bake-off
-hero: assets/images/chocolate-muffins.jpg
+hero: assets/images/chocolate-muffins.webp
 ---
 
 # :cupcake: Chocolate Muffins
@@ -108,4 +108,4 @@ each muffin hole and enjoy!
 - <https://abcnews.go.com/GMA/Food/paris-olympics-viral-chocolate-muffin-recipe-recreate-norwegian/story?id=112478502>
 - <https://www.thepancakeprincess.com/best-chocolate-muffin-bake-off/>
 
-[1]: <../assets/images/chocolate-muffins.jpg>
+[1]: <../assets/images/chocolate-muffins.webp>

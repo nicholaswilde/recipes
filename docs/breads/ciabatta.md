@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/ciabatta.jpg
+hero: assets/images/ciabatta.webp
 ---
 
 # :baguette_bread: Ciabatta
@@ -112,4 +112,4 @@ Dust the loaves generously with flour.
 - The King Arthur Baking Company All-Purpose Baker's Companion
 - <https://www.youtube.com/watch?v=bRGHpCNl72o>
 
-[1]: <../assets/images/ciabatta.jpg>
+[1]: <../assets/images/ciabatta.webp>

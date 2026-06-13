@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/eggplant-parmigiana.jpg
+hero: assets/images/eggplant-parmigiana.webp
 ---
 
 # :eggplant: Eggplant Parmigiana
 
-![Eggplant Parmigiana](../assets/images/eggplant-parmigiana.jpg){ loading=lazy }
+![Eggplant Parmigiana](../assets/images/eggplant-parmigiana.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

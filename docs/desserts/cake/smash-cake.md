@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/smash-cake.jpg
+hero: assets/images/smash-cake.webp
 ---
 
 # :cake: Smash Cake
@@ -98,4 +98,4 @@ frostings together in the middle of the cake creating an ombre effect.
 
 - <https://babyfoode.com/blog/healthy-smash-cake-baby/>
 
-[1]: <../../assets/images/smash-cake.jpg>
+[1]: <../../assets/images/smash-cake.webp>

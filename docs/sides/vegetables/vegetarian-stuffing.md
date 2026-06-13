@@ -5,12 +5,12 @@ tags:
   - side
   - stuffing
   - thanksgiving
-hero: assets/images/vegetarian-stuffing.jpg
+hero: assets/images/vegetarian-stuffing.webp
 ---
 
 # :stuffed_flatbread: Vegetarian Stuffing
 
-![Vegetarian Stuffing](../../assets/images/vegetarian-stuffing.jpg){ loading=lazy }
+![Vegetarian Stuffing](../../assets/images/vegetarian-stuffing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

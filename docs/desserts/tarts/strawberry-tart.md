@@ -5,12 +5,12 @@ tags:
   - dessert
   - tart
   - dominique-ansel
-hero: assets/images/strawberry-tart.jpg
+hero: assets/images/strawberry-tart.webp
 ---
 
 # :strawberry: Strawberry Tart
 
-![Strawberry Tart](../../assets/images/strawberry-tart.jpg){ loading=lazy }
+![Strawberry Tart](../../assets/images/strawberry-tart.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

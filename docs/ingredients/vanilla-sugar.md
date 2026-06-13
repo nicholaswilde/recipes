@@ -4,12 +4,12 @@ tags:
 
   - sugar
   - ingredient
-hero: assets/images/vanilla-sugar.jpg
+hero: assets/images/vanilla-sugar.webp
 ---
 
 # :candy: Vanilla Sugar
 
-![Vanilla Sugar](../assets/images/vanilla-sugar.jpg){ loading=lazy }
+![Vanilla Sugar](../assets/images/vanilla-sugar.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

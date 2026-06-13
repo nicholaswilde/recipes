@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/salted-peanut-butter.jpg
+hero: assets/images/salted-peanut-butter.webp
 ---
 
 # :cookie: Salted Peanut Butter
 
-![Salted Peanut Butter](../assets/images/salted-peanut-butter.jpg){ loading=lazy }
+![Salted Peanut Butter](../assets/images/salted-peanut-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

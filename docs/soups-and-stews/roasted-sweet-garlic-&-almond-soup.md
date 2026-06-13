@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/roasted-sweet-garlic-&-almond-soup.jpg
+hero: assets/images/roasted-sweet-garlic-&-almond-soup.webp
 ---
 
 # :stew: Roasted Sweet Garlic & Almond Soup
 
-![Roasted Sweet Garlic & Almond Soup](../assets/images/roasted-sweet-garlic-&-almond-soup.jpg){ loading=lazy }
+![Roasted Sweet Garlic & Almond Soup](../assets/images/roasted-sweet-garlic-&-almond-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

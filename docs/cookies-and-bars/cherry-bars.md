@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/cherry-bars.jpg
+hero: assets/images/cherry-bars.webp
 ---
 
 # :cherries: Cherry Bars
@@ -129,4 +129,4 @@ refrigerator for up to 1 week.
 
 - <https://sallysbakingaddiction.com/cherry-pie-bars/#tasty-recipes-124000>
 
-[1]: <../assets/images/cherry-bars.jpg>
+[1]: <../assets/images/cherry-bars.webp>

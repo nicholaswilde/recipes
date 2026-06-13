@@ -4,12 +4,12 @@ tags:
 
   - side
   - jessica-seinfeld
-hero: assets/images/brown-sugar-and-spice-roasted-carrots.jpg
+hero: assets/images/brown-sugar-and-spice-roasted-carrots.webp
 ---
 
 # :carrot: Brown Sugar & Spice Roasted Carrots
 
-![Brown Sugar and Spice Roasted Carrots](../../assets/images/brown-sugar-and-spice-roasted-carrots.jpg){ loading=lazy }
+![Brown Sugar and Spice Roasted Carrots](../../assets/images/brown-sugar-and-spice-roasted-carrots.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

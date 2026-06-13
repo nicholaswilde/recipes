@@ -2,7 +2,7 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/beau-monde-seasoning.jpg
+hero: assets/images/beau-monde-seasoning.webp
 ---
 # Beau Monde Seasoning
 
@@ -44,4 +44,4 @@ Store the seasoning in an airtight container at room temperature for up to 6 mon
 
 - <https://www.southernliving.com/beau-monde-seasoning-11705735>
 
-[1]: <../assets/images/beau-monde-seasoning.jpg>
+[1]: <../assets/images/beau-monde-seasoning.webp>

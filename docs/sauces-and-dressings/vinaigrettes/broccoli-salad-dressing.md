@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/broccoli-salad-dressing.jpg
+hero: assets/images/broccoli-salad-dressing.webp
 ---
 
 # Broccoli Salad Dressing
@@ -36,5 +36,5 @@ Chill at least 1 hour before tossing with salad.
 
 - The Essential Mormon Cookbook
 
-[1]: <../../assets/images/broccoli-salad-dressing.jpg>
+[1]: <../../assets/images/broccoli-salad-dressing.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

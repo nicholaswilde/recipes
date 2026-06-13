@@ -2,7 +2,7 @@
 comments: true
 tags:
   - side
-hero: assets/images/zesty-roasted-vegetables.jpg
+hero: assets/images/zesty-roasted-vegetables.webp
 ---
 # Zesty Roasted Vegetables
 
@@ -57,6 +57,6 @@ Toss or tip with Jalapeño Lime Pesto.
 
 - Magnolia
 
-[1]: <../../assets/images/zesty-roasted-vegetables.jpg>
+[1]: <../../assets/images/zesty-roasted-vegetables.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/jalapeño-lime-pesto.md>
 

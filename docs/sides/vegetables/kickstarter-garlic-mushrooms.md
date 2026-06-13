@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/kickstarter-garlic-mushrooms.jpg
+hero: assets/images/kickstarter-garlic-mushrooms.webp
 ---
 
 # :mushroom: Kickstarter Garlic Mushrooms
 
-![Kickstarter Garlic Mushrooms](../../assets/images/kickstarter-garlic-mushrooms.jpg){ loading=lazy }
+![Kickstarter Garlic Mushrooms](../../assets/images/kickstarter-garlic-mushrooms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/sticky-toffee-pudding.jpg
+hero: assets/images/sticky-toffee-pudding.webp
 ---
 
 # :grapes: Sticky Toffee Pudding
 
-![Sticky Toffee Pudding](../assets/images/sticky-toffee-pudding.jpg){ loading=lazy }
+![Sticky Toffee Pudding](../assets/images/sticky-toffee-pudding.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

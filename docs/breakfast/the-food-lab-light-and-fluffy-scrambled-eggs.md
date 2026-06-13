@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg
+hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.webp
 ---
 
 # :egg: The Food Lab Light & Fluffy Scrambled Eggs
@@ -46,4 +46,4 @@ serve.
 
 - The Food Lab
 
-[1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg>
+[1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.webp>

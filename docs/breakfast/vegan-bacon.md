@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - vegan
-hero: assets/images/vegan-bacon.jpg
+hero: assets/images/vegan-bacon.webp
 ---
 
 # :bacon: Vegan Bacon
 
-![Vegan Bacon](../assets/images/vegan-bacon.jpg){ loading=lazy }
+![Vegan Bacon](../assets/images/vegan-bacon.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/beccherie-tiramisù.jpg
+hero: assets/images/beccherie-tiramisù.webp
 ---
 
 # :cake: Beccherie Tiramisù
 
-![Beccherie Tiramisù](../../assets/images/beccherie-tiramisù.jpg){ loading=lazy }
+![Beccherie Tiramisù](../../assets/images/beccherie-tiramisù.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

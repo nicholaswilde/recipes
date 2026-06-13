@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/double-chocolate-peppermint-pie.jpg
+hero: assets/images/double-chocolate-peppermint-pie.webp
 ---
 # Double Chocolate Peppermint Pie
 
@@ -70,5 +70,5 @@ tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
 
 - Magnolia
 
-[1]: <../assets/images/double-chocolate-peppermint-pie.jpg>
+[1]: <../assets/images/double-chocolate-peppermint-pie.webp>
 

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - pastry
-hero: assets/images/sweet-tart.png
+hero: assets/images/sweet-tart.webp
 ---
 
 # :chestnut: Sweet Tart
 
-![Sweet Tart](../../assets/images/sweet-tart.png){ loading=lazy }
+![Sweet Tart](../../assets/images/sweet-tart.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

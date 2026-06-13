@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - jean-pierre
-hero: assets/images/creamy-mushroom-pasta.jpg
+hero: assets/images/creamy-mushroom-pasta.webp
 ---
 
 # :spaghetti: Creamy Mushroom Pasta
 
-![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.jpg){ loading=lazy }
+![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

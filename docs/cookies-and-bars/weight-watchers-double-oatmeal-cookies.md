@@ -5,7 +5,7 @@ tags:
   - weight-watchers
   - dessert
   - recipe-box
-hero: assets/images/weight-watchers-double-oatmeal-cookies.jpg
+hero: assets/images/weight-watchers-double-oatmeal-cookies.webp
 ---
 # :cookie: Weight Watchers Double Oatmeal Cookies
 
@@ -87,4 +87,4 @@ Chill for 24 hours. Bake for 11 to 14 minutes.
 - Weight Watchers
 - Recipe Box
 
-[1]: <../assets/images/weight-watchers-double-oatmeal-cookies.jpg>
+[1]: <../assets/images/weight-watchers-double-oatmeal-cookies.webp>

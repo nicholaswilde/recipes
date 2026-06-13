@@ -4,12 +4,12 @@ tags:
 
   - custard
   - dessert
-hero: assets/images/crème-brûlée.jpg
+hero: assets/images/crème-brûlée.webp
 ---
 
 # :egg: Crème Brûlée
 
-![Crème Brûlée](../assets/images/crème-brûlée.jpg){ loading=lazy }
+![Crème Brûlée](../assets/images/crème-brûlée.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

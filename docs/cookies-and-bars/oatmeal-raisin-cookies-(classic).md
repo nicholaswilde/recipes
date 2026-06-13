@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - tante-myrna-seccia
-hero: assets/images/oatmeal-raisin-cookies-(classic).jpg
+hero: assets/images/oatmeal-raisin-cookies-(classic).webp
 ---
 
 # :cookie: Oatmeal Raisin Cookies (Classic)
 
-![Oatmeal Raisin Cookies (Classic)](../assets/images/oatmeal-raisin-cookies-(classic).jpg){ loading=lazy }
+![Oatmeal Raisin Cookies (Classic)](../assets/images/oatmeal-raisin-cookies-(classic).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

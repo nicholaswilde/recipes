@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/buttermilk-whole-wheat-waffles.jpg
+hero: assets/images/buttermilk-whole-wheat-waffles.webp
 ---
 
 # :waffle: Buttermilk Whole Wheat Waffles
 
-![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.jpg){ loading=lazy }
+![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

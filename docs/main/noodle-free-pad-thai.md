@@ -5,12 +5,12 @@ tags:
   - asian
   - vegetarian
   - recipe-box
-hero: assets/images/noodle-free-pad-thai.jpg
+hero: assets/images/noodle-free-pad-thai.webp
 ---
 
 # :curry: Noodle-Free Pad Thai
 
-![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.jpg){ loading=lazy }
+![Noodle-Free Pad Thai](../assets/images/noodle-free-pad-thai.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

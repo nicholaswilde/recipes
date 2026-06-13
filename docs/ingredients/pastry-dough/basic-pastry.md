@@ -5,12 +5,12 @@ tags:
   - ingredient
   - pastry-dough
   - joy-of-cooking
-hero: assets/images/basic-pastry.jpg
+hero: assets/images/basic-pastry.webp
 ---
 
 # :pie: Basic Pastry
 
-![Basic Pastry](../../assets/images/basic-pastry.jpg){ loading=lazy }
+![Basic Pastry](../../assets/images/basic-pastry.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

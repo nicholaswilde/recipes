@@ -5,7 +5,7 @@ tags:
   - cookie
   - ina-garten
   - dessert
-hero: assets/images/shortbread.jpg
+hero: assets/images/shortbread.webp
 ---
 
 # :flatbread: Shortbread
@@ -93,4 +93,4 @@ Drizzle 1/2 of each cookie with just enough chocolate to coat it.
 - <https://www.foodnetwork.com/recipes/ina-garten/shortbread-cookies-recipe-1945855>
 - <https://www.thekitchn.com/shortbread-cookie-recipe-showdown-23480965>
 
-[1]: <../assets/images/shortbread.jpg>
+[1]: <../assets/images/shortbread.webp>

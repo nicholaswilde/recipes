@@ -5,7 +5,7 @@ tags:
   - baking
   - staples
   - homemade
-hero: assets/images/baking-powder.jpg
+hero: assets/images/baking-powder.webp
 ---
 # Baking Powder
 
@@ -54,4 +54,4 @@ Transfer to an airtight container. Store in a cool, dry place for up to 6 months
 - [Arm & Hammer](https://www.armandhammer.com/en/articles/homemade-baking-powder-substitute)
 - [King Arthur Baking](https://www.kingarthurbaking.com/blog/2015/06/14/baking-powder-substitute)
 
-[1]: <../assets/images/baking-powder.jpg>
+[1]: <../assets/images/baking-powder.webp>

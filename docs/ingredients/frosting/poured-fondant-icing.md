@@ -4,7 +4,7 @@ tags:
 
   - frosting
   - ingredient
-hero: assets/images/poured-fondant-icing.jpg
+hero: assets/images/poured-fondant-icing.webp
 ---
 
 # Poured Fondant Icing
@@ -79,4 +79,4 @@ desired. Transfer to a plate for serving.
 
 - <https://www.kingarthurbaking.com/recipes/poured-fondant-icing-recipe>
 
-[1]: <../../assets/images/poured-fondant-icing.jpg>
+[1]: <../../assets/images/poured-fondant-icing.webp>

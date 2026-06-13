@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/cheesy-popcorn.jpg
+hero: assets/images/cheesy-popcorn.webp
 ---
 
 # :popcorn: Cheesy Popcorn
@@ -54,5 +54,5 @@ Pour the popcorn into a bowl, and toss in the seasoning mix.
 
 - <https://youtube.com/watch?v=G5NEwx6KqPM>
 
-[1]: <../../assets/images/cheesy-popcorn.jpg>
+[1]: <../../assets/images/cheesy-popcorn.webp>
 [2]: <../../ingredients/toasted-nuts.md>

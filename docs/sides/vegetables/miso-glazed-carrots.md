@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/miso-glazed-carrots.jpg
+hero: assets/images/miso-glazed-carrots.webp
 ---
 
 # :carrot: Miso-Glazed Carrots
 
-![Miso-Glazed Carrots](../../assets/images/miso-glazed-carrots.jpg){ loading=lazy }
+![Miso-Glazed Carrots](../../assets/images/miso-glazed-carrots.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -4,12 +4,12 @@ tags:
 
   - mediterranean
   - recipe-box
-hero: assets/images/saucy-moroccan-spiced-lentils.jpg
+hero: assets/images/saucy-moroccan-spiced-lentils.webp
 ---
 
 # :curry: Saucy Moroccan-Spiced Lentils
 
-![Saucy Moroccan-Spiced Lentils](../assets/images/saucy-moroccan-spiced-lentils.jpg){ loading=lazy }
+![Saucy Moroccan-Spiced Lentils](../assets/images/saucy-moroccan-spiced-lentils.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

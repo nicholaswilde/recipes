@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/three-bean-salad.jpg
+hero: assets/images/three-bean-salad.webp
 ---
 
 # :green_salad: Three-Bean Salad
 
-![Three-Bean Salad](../../assets/images/three-bean-salad.jpg){ loading=lazy }
+![Three-Bean Salad](../../assets/images/three-bean-salad.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

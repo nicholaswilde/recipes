@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/kickstarter-lemony-roasted-cauliflower.jpg
+hero: assets/images/kickstarter-lemony-roasted-cauliflower.webp
 ---
 
 # Kickstarter Lemony Roasted Cauliflower
 
-![Kickstarter Lemony Roasted Cauliflower](../../assets/images/kickstarter-lemony-roasted-cauliflower.jpg){ loading=lazy }
+![Kickstarter Lemony Roasted Cauliflower](../../assets/images/kickstarter-lemony-roasted-cauliflower.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

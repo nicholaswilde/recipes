@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/potato-soup.jpg
+hero: assets/images/potato-soup.webp
 ---
 
 # :potato: Potato Soup
 
-![Potato Soup](../assets/images/potato-soup.jpg){ loading=lazy }
+![Potato Soup](../assets/images/potato-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

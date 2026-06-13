@@ -10,7 +10,7 @@ tags:
   - ginger
   - coconut
   - gluten-free
-hero: assets/images/ginger-carrot-soup.jpg
+hero: assets/images/ginger-carrot-soup.webp
 ---
 
 # :stew: Ginger Carrot Soup
@@ -63,4 +63,4 @@ taste with salt and serve hot, topped with chili oil.
 
 - What Goes with What by Julia Turshen
 
-[1]: <../assets/images/ginger-carrot-soup.jpg>
+[1]: <../assets/images/ginger-carrot-soup.webp>

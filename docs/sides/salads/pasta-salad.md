@@ -4,12 +4,12 @@ tags:
 
   - side
   - tante-myrna-seccia
-hero: assets/images/pasta-salad.jpg
+hero: assets/images/pasta-salad.webp
 ---
 
 # :green_salad: Pasta Salad
 
-![Pasta Salad](../../assets/images/pasta-salad.jpg){ loading=lazy }
+![Pasta Salad](../../assets/images/pasta-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

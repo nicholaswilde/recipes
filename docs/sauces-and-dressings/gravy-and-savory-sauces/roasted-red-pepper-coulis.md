@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - coulis
-hero: assets/images/roasted-red-pepper-coulis.jpg
+hero: assets/images/roasted-red-pepper-coulis.webp
 ---
 
 # :bell_pepper: Roasted Red Pepper Coulis
 
-![Roasted Red Pepper Coulis](../../assets/images/roasted-red-pepper-coulis.jpg){ loading=lazy }
+![Roasted Red Pepper Coulis](../../assets/images/roasted-red-pepper-coulis.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

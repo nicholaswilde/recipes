@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - scottish
-hero: assets/images/scottish-oatmeal.jpg
+hero: assets/images/scottish-oatmeal.webp
 ---
 
 # :ear_of_rice: Scottish Oatmeal
@@ -34,4 +34,4 @@ half oat pieces, about 2 minutes, or blend in a blender for about 15 seconds.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/scottish-oatmeal.jpg>
+[1]: <../assets/images/scottish-oatmeal.webp>

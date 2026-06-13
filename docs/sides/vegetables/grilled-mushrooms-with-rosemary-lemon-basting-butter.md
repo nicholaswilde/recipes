@@ -4,7 +4,7 @@ tags:
 
   - side
   - cooks-illustrated
-hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg
+hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.webp
 ---
 
 # :mushroom: Grilled Mushrooms with Rosemary-Lemon Basting Butter
@@ -82,4 +82,4 @@ with salt and pepper to taste, and serve.
 
 - <https://www.cooksillustrated.com/recipes/15040-grilled-mushrooms-with-rosemary-lemon-basting-butter>
 
-[1]: <../../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg>
+[1]: <../../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.webp>

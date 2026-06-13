@@ -2,7 +2,7 @@
 comments: true
 tags:
   - main
-hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg
+hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.webp
 ---
 # Slow Cooker Vegetarian Black-Eyed Peas
 
@@ -45,6 +45,6 @@ salt, liquid smoke, yellow mustard, bay leaf, and vegetable broth to slow cooker
 
 Cook on high for 4 to 5 hours or low 6 to 7 hours.
 
-[1]: <../assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg>
+[1]: <../assets/images/slow-cooker-vegetarian-black-eyed-peas.webp>
 [2]: <../ingredients/vegetable-broth.md>
 

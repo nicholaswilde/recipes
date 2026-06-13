@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/classic-pizzelle.jpg
+hero: assets/images/classic-pizzelle.webp
 ---
 
 # :cookie: Classic Pizzelle
 
-![Classic Pizzelle](../assets/images/classic-pizzelle.jpg){ loading=lazy }
+![Classic Pizzelle](../assets/images/classic-pizzelle.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
