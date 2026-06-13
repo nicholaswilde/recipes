@@ -5,7 +5,7 @@ tags:
   - sauce
   - italian
   - recipe-box
-hero: assets/images/spaghetti-sauce.jpg
+hero: assets/images/spaghetti-sauce.webp
 ---
 
 # :spaghetti: Spaghetti Sauce
@@ -45,4 +45,4 @@ minutes.
 
 [1]: <../../sauces-and-dressings/gravy-and-savory-sauces/tomato-sauce.md>
 [2]: <../../ingredients/tomato-paste.md>
-[3]: <../../assets/images/spaghetti-sauce.jpg>
+[3]: <../../assets/images/spaghetti-sauce.webp>
