@@ -18,7 +18,7 @@ hero: assets/images/ranch-dip.webp
 
 - :baby_bottle: 1 cup sour cream or plain non-fat greek yogurt
 - 3 Tbsp [ranch dressing mix][1]
-- :butter: 0.67 cups buttermilk or water
+- :butter: 0.67 cups [buttermilk](../../ingredients/buttermilk.md) or water
 
 ## :cooking: Cookware
 
@@ -26,11 +26,11 @@ hero: assets/images/ranch-dip.webp
 
 ### Step 1
 
-In a mixing bowl; combine sour cream or plain non-fat greek yogurt, ranch dressing mix, and buttermilk or water.
+In a mixing bowl; combine sour cream or plain non-fat greek yogurt, ranch dressing mix, and [buttermilk](../../ingredients/buttermilk.md) or water.
 
 ### Step 2
 
-Add more buttermilk or water to thin as desired.
+Add more [buttermilk](../../ingredients/buttermilk.md) or water to thin as desired.
 
 ## :link: Source
 

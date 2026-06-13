@@ -5,6 +5,7 @@ tags:
   - cake
 hero: assets/images/lemon-poppy-seed-pound-cake.webp
 ---
+
 # Lemon Poppy Seed Pound Cake
 
 ![Lemon Poppy Seed Pound Cake][1]{ loading=lazy }
@@ -19,7 +20,7 @@ hero: assets/images/lemon-poppy-seed-pound-cake.webp
 - some all-purpose flour
 - 2 lemons lemon zest
 - 1 cup sugar
-- 0.5 cup buttermilk
+- 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
 - 3 Tbsp lemon juice
 - 3 large eggs
 - some all-purpose flour
@@ -50,7 +51,7 @@ Heat oven to 350°F. butter and all-purpose flour an 8-inch loaf pan.
 
 ### Step 2
 
-In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in buttermilk,
+In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in [buttermilk](../../ingredients/buttermilk.md),
 lemon juice, and large eggs.
 
 ### Step 3
@@ -80,4 +81,3 @@ and sides of cake. Cool completely before slicing.
 - <https://cooking.nytimes.com/recipes/1014800-lemon-poppy-seed-pound-cake>
 
 [1]: <../../assets/images/lemon-poppy-seed-pound-cake.webp>
-

@@ -25,7 +25,7 @@ hero: assets/images/southern-velvet-cake.png
 - :candy: 2 cups (396 g) granulated sugar
 - :oil_drum: 1 cup (198 g) vegetable oil
 - :egg: 2 eggs
-- :glass_of_milk: 1 cup (227 g) buttermilk
+- :glass_of_milk: 1 cup (227 g) [buttermilk](../../ingredients/buttermilk.md)
 - :icecream: 2 tsp vanilla
 - :red_circle: 2 oz red food coloring
 - :coffee: 0.5 cup plain hot coffee
@@ -61,7 +61,7 @@ In a large bowl, combine the granulated sugar and vegetable oil.
 
 ### Step 5
 
-Mix in the eggs, buttermilk, vanilla, and 1 to 2 oz of red food coloring until combined.
+Mix in the eggs, [buttermilk](../../ingredients/buttermilk.md), vanilla, and 1 to 2 oz of red food coloring until combined.
 
 ### Step 6
 

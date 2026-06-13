@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/german-chocolate-cake.webp
 ---
+
 # German Chocolate Cake
 
 ![German Chocolate Cake][1]{ loading=lazy }
@@ -21,7 +22,7 @@ hero: assets/images/german-chocolate-cake.webp
 - :chestnut: some baking soda
 - :salt: 1 tsp salt
 - :egg: 2 large eggs
-- :baby_bottle: 1 cup buttermilk
+- :baby_bottle: 1 cup [buttermilk](../ingredients/buttermilk.md)
 - :droplet: 0.5 cup vegetable or canola oil
 - :flower_playing_cards: 2 tsp vanilla extract
 - :droplet: 1 cup boiling water
@@ -62,7 +63,8 @@ baking powder (6 g), baking soda (7.5 g), and salt (5 g).
 
 ### Step 4
 
-In a separate bowl, mix large eggs, buttermilk (240 ml), vegetable or canola oil (120 ml), and vanilla extract (10 ml).
+In a separate bowl, mix large eggs, [buttermilk](../ingredients/buttermilk.md) (240 ml), vegetable or canola
+oil (120 ml), and vanilla extract (10 ml).
 
 ### Step 5
 

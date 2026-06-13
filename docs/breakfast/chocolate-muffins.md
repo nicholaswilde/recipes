@@ -32,7 +32,7 @@ hero: assets/images/chocolate-muffins.webp
     - :salt: 1.5 tsp kosher salt
     - :chocolate_bar: 0.5 cup dark cocoa powder
     - :rice: 1 cup (227 g) sour cream
-    - :glass_of_milk: 0.33 cup (75 g) buttermilk
+    - :glass_of_milk: 0.33 cup (75 g) [buttermilk](../ingredients/buttermilk.md)
     - :chocolate_bar: 1.5 cups semi-sweet chocolate chunks
 
 === "Ganache"
@@ -82,7 +82,7 @@ ensure there are no lumps.
 ### Step 7
 
 On low speed, add the dry ingredients into the butter mixture in two installments, alternating with the sour cream. Beat
-just until combined and no flour streaks are visible. Next, beat in the buttermilk until just combined. Fold in the 1
+just until combined and no flour streaks are visible. Next, beat in the [buttermilk](../ingredients/buttermilk.md) until just combined. Fold in the 1
 1/2 cups of semi-sweet chocolate chunks.
 
 ### Step 8

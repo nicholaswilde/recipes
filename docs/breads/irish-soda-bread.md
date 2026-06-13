@@ -25,7 +25,7 @@ hero: assets/images/irish-soda-bread.webp
 - :grapes: 95 g currants
 - :grapes: 99 g raisins (alternative)
 - :butter: 57 g unsalted butter
-- :glass_of_milk: 302 g buttermilk
+- :glass_of_milk: 302 g [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 large egg
 - :ear_of_rice: 254 g whole wheat (alternative)
 - :ear_of_rice: 150 g all-purpose flour (alternative)
@@ -56,9 +56,9 @@ no large chunks remain.
 
 ### Step 4
 
-In a separate bowl (or in a measuring cup) whisk together the buttermilk and egg. Pour this mixture into the dry
+In a separate bowl (or in a measuring cup) whisk together the [buttermilk](../ingredients/buttermilk.md) and egg. Pour this mixture into the dry
 ingredients and mix to combine. The dough will be stiff; if it's too crumbly to squeeze together, add another tablespoon
-or two of buttermilk.
+or two of [buttermilk](../ingredients/buttermilk.md).
 
 ### Step 5
 

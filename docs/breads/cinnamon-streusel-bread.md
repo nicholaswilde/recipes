@@ -94,7 +94,7 @@ distributed everything.
 
 ### Step 6
 
-Add about half of the dry ingredients and mix. Next, add the buttermilk and mix. Add the remaining dry ingredients and
+Add about half of the dry ingredients and mix. Next, add the [buttermilk](../ingredients/buttermilk.md) and mix. Add the remaining dry ingredients and
 mix until no streaks of flour remain. Do not over mix.
 
 ### Step 7

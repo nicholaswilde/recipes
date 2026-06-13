@@ -5,6 +5,7 @@ tags:
   - bake-off
 hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg
 ---
+
 # Moist Peanut Butter Cake
 
 ![Moist Peanut Butter Cake][1]{ loading=lazy }
@@ -16,6 +17,7 @@ hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg
 ## :salt: Ingredients
 
 ### Cake
+
 - :bread: 1 2/3 cups (210 g) All-purpose flour
 - :chestnut: 3 Tbsp (24 g) Cornstarch
 - :chestnut: 1/2 tsp Baking soda
@@ -28,9 +30,10 @@ hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.jpg
 - :chestnut: 2/3 cup (150 g) Smooth unsweetened peanut butter
 - :egg: 3 large Eggs, room temperature
 - :flower_playing_cards: 1 1/2 tsp Vanilla extract
-- :glass_of_milk: 1 cup (225 g) Buttermilk, room temperature
+- :glass_of_milk: 1 cup (225 g) [buttermilk](../ingredients/buttermilk.md), room temperature
 
 ### Peanut Butter Frosting
+
 - :butter: 1 1/2 cups (340 g) Unsalted butter, room temperature
 - :candy: 3 cups (375 g) Powdered sugar
 - :flower_playing_cards: 2 tsp Vanilla extract
@@ -63,7 +66,7 @@ Add Eggs one at a time on low speed, mixing for about 10 to 15 seconds after eac
 
 ### Step 5
 
-Add Vanilla extract and Buttermilk (225g). Mix on medium speed until the batter is smooth and creamy.
+Add Vanilla extract and [buttermilk](../ingredients/buttermilk.md) (225g). Mix on medium speed until the batter is smooth and creamy.
 
 ### Step 6
 

@@ -41,7 +41,7 @@ Preheat the oven to 350°F.
 
 ### Step 2
 
-In a large bowl, beat together the vegetable shortening and sugar until smooth. Add the buttermilk and vanilla, again
+In a large bowl, beat together the vegetable shortening and sugar until smooth. Add the [buttermilk](../ingredients/buttermilk.md) and vanilla, again
 beating until well combined. The mixture may look a bit curdled, which is OK. Add the nutmeg, flour, baking soda, and
 salt to the wet ingredients and beat until the mixture forms a cohesive dough.
 

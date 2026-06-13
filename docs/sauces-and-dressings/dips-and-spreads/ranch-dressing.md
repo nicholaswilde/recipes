@@ -32,7 +32,7 @@ In a mixing bowl; combine [mayonnaise][2], sour cream or plain non-fat greek yog
 
 ### Step 2
 
-Add more buttermilk or water to thin as desired.
+Add more [buttermilk](../../ingredients/buttermilk.md) or water to thin as desired.
 
 ## :link: Source
 

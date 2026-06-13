@@ -38,12 +38,12 @@ hero: assets/images/vegan-chipotle-ranch-dressing.webp
 ### Step 1
 
 Soak cashews in very hot water for 30 minutes. While cashews are soaking, measure out unsweetened almond milk and add
-lemon juice and set aside to curdle (this makes your vegan “buttermilk”).
+lemon juice and set aside to curdle (this makes your vegan “[buttermilk](../../ingredients/buttermilk.md)”).
 
 ### Step 2
 
 Drain and rinse cashews, then transfer to a small blender (a blender is preferred over a food processor for achieving a
-smooth texture) and add almond "buttermilk", garlic, salt, chipotle pepper in adobo sauce, onion powder, apple cider
+smooth texture) and add almond "[buttermilk](../../ingredients/buttermilk.md)", garlic, salt, chipotle pepper in adobo sauce, onion powder, apple cider
 vinegar, maple syrup (optional), ground chipotle chile, and dill. Blend on high for 1 to 2 minutes or until very creamy
 and smooth, stopping to scrape down sides as needed.
 

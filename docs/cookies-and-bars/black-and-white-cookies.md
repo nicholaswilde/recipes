@@ -28,7 +28,7 @@ hero: assets/images/black-and-white-cookies.webp
     - :candy: 1.25 cups (248 g) granulated sugar
     - :egg: 2 large eggs
     - :egg: 1 large egg yolk
-    - :butter: 0.75 cup (170 g) buttermilk
+    - :butter: 0.75 cup (170 g) [buttermilk](../ingredients/buttermilk.md)
     - :icecream: 1 Tbsp vanilla
     - :lemon: 1 Tbsp lemon zest
 
@@ -72,7 +72,7 @@ Add the eggs and egg yolk, one at a time, mixing between each addition. Scrape d
 
 ### Step 5
 
-Add the flour in three steps, alternating with the buttermilk, added in two steps, mixing until just blended. Scrape
+Add the flour in three steps, alternating with the [buttermilk](../ingredients/buttermilk.md), added in two steps, mixing until just blended. Scrape
 down the sides of the bowl. Mix in the vanilla and lemon zest.
 
 ### Step 6

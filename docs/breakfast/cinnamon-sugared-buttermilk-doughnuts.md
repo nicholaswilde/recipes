@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
+hero: assets/images/cinnamon-sugared-[buttermilk](../ingredients/buttermilk.md)-doughnuts.webp
 ---
 
-# :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
+# :doughnut: Cinnamon-Sugared [buttermilk](../ingredients/buttermilk.md) Doughnuts
 
 ![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.webp){ loading=lazy }
 
@@ -22,7 +22,7 @@ hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
 - :cup_with_straw: 0.5 tsp baking soda
 - :chestnut: 1.5 tsp nutmeg
 - :salt: 1 tsp salt
-- :glass_of_milk: 0.75 cup (170 g) buttermilk
+- :glass_of_milk: 0.75 cup (170 g) [buttermilk](../ingredients/buttermilk.md)
 - :butter: 4 Tbsp butter
 - :egg: 2 eggs
 - :egg: 1 egg yolk
@@ -58,7 +58,7 @@ hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
 ### Step 1
 
 Stir 1 cup all-purpose flour, 1 cup sugar, baking powder, baking soda, nutmeg, and salt together in bowl of stand mixer.
-Whisk buttermilk, butter, eggs, and egg yolk together in 2-cup liquid measuring cup.
+Whisk [buttermilk](../ingredients/buttermilk.md), butter, eggs, and egg yolk together in 2-cup liquid measuring cup.
 
 ### Step 2
 

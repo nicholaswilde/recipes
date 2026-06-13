@@ -3,9 +3,10 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp
+hero: assets/images/one-bowl-[buttermilk](../../ingredients/buttermilk.md)-birthday-cake-with-cream-cheese-frosting.webp
 ---
-# One-Bowl Buttermilk Birthday Cake with Cream Cheese Frosting
+
+# One-Bowl [buttermilk](../../ingredients/buttermilk.md) Birthday Cake with Cream Cheese Frosting
 
 ![One-Bowl Buttermilk Birthday Cake with Cream Cheese Frosting][1]{ loading=lazy }
 
@@ -22,7 +23,7 @@ hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting
 - 1 cup sugar
 - 0.5 cups neutral oil (such as grapeseed or avocado)
 - 2 eggs
-- 0.5 cup buttermilk
+- 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
 - 2 tsp vanilla extract
 - 2 cake pans
 - 8 oz cream cheese
@@ -45,7 +46,7 @@ In a large bowl, whisk together the all-purpose flour, salt, baking soda, baking
 
 ### Step 3
 
-Add the neutral oil (such as grapeseed or avocado), lightly beaten eggs, buttermilk plus 2 tablespoons, and vanilla
+Add the neutral oil (such as grapeseed or avocado), lightly beaten eggs, [buttermilk](../../ingredients/buttermilk.md) plus 2 tablespoons, and vanilla
 extract. Stir until just combined.
 
 ### Step 4
@@ -80,4 +81,3 @@ and candles as desired.
 - <https://alexandracooks.com/2019/02/06/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting/>
 
 [1]: <../../assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp>
-

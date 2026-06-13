@@ -29,7 +29,7 @@ hero: assets/images/pouding-chomeur-with-pure-maple-sauce.webp
 - :corn: 0.25 cup (28 g) cornstarch
 - :dash: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup (170 g) buttermilk
+- :butter: 0.75 cup (170 g) [buttermilk](../ingredients/buttermilk.md)
 - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware
@@ -60,13 +60,13 @@ about 5 minutes. Add the room temperature eggs and mix until fluffy, about 2 min
 ### Step 4
 
 In a separate bowl, mix the all-purpose flour, cornstarch, baking powder and salt until very well combined. Separately,
-mix the room temperature buttermilk and vanilla.
+mix the room temperature [buttermilk](../ingredients/buttermilk.md) and vanilla.
 
 ### Step 5
 
 Add half of the dry ingredients to the creamed mixture. Mix on low speed until barely incorporated, then pour in half
-the buttermilk-vanilla mixture; resume mixing on low speed until just combined. Repeat with a third of the dry
-ingredients, then the buttermilk-vanilla mixture, and finally add the rest of the dry ingredients.
+the [buttermilk](../ingredients/buttermilk.md)-vanilla mixture; resume mixing on low speed until just combined. Repeat with a third of the dry
+ingredients, then the [buttermilk](../ingredients/buttermilk.md)-vanilla mixture, and finally add the rest of the dry ingredients.
 
 ### Step 6
 

@@ -6,6 +6,7 @@ tags:
   - cornbread
 hero: assets/images/southern-skillet-cornbread.webp
 ---
+
 # Southern Skillet Cornbread
 
 ![Southern Skillet Cornbread][1]{ loading=lazy }
@@ -20,7 +21,7 @@ hero: assets/images/southern-skillet-cornbread.webp
 - :ear_of_rice: 2 cups (276 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
 - :chestnut: 0.5 tsp (3 g) baking soda
 - :egg: 2 large (100 g) eggs (lightly beaten)
-- :glass_of_milk: 1.5 cups (340 g) buttermilk
+- :glass_of_milk: 1.5 cups (340 g) [buttermilk](../ingredients/buttermilk.md)
 - :butter: some butter (for serving)
 
 ## :cooking: Cookware
@@ -41,7 +42,7 @@ minutes.
 ### Step 2
 
 **Prepare Cornbread Batter:** Combine the self-rising cornmeal mix and baking soda in a bowl; make a well in the center
-of the mixture. In a separate bowl, stir together the eggs and buttermilk. Add the wet ingredients to the dry mixture,
+of the mixture. In a separate bowl, stir together the eggs and [buttermilk](../ingredients/buttermilk.md). Add the wet ingredients to the dry mixture,
 stirring just until moistened.
 
 ### Step 3

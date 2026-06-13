@@ -67,7 +67,7 @@ In a medium bowl, whisk the all-purpose flour, baking powder, kosher salt, and b
 
 ### Step 4
 
-In a separate bowl, mix the whole milk, vanilla, 1/4 cup (57 g) of Meyer lemon juice to make a home made buttermilk.
+In a separate bowl, mix the whole milk, vanilla, 1/4 cup (57 g) of Meyer lemon juice to make a home made [buttermilk](../../ingredients/buttermilk.md).
 Curdling is okay.
 
 !!! note

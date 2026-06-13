@@ -44,7 +44,7 @@ hero: assets/images/cinnamon-crisp-coffee-cake.webp
     - :butter: 113 g unsalted butter
     - :icecream: 2 tsp vanilla
     - :egg: 2 large eggs
-    - :butter: 227 g buttermilk
+    - :butter: 227 g [buttermilk](../../ingredients/buttermilk.md)
     - :rice: 227 g Greek yogurt (alternative)
 
 === "Glaze (Optional)"
@@ -103,7 +103,7 @@ attachment as needed; the mixture will be thick.
 
 ### Step 6
 
-If using buttermilk, slowly pour it into the mixture while the mixer is running on low speed. If using Greek yogurt
+If using [buttermilk](../../ingredients/buttermilk.md), slowly pour it into the mixture while the mixer is running on low speed. If using Greek yogurt
 (alternative), add the yogurt all at once before starting to mix. Continue to stir until the batter is smooth. Stop to
 scrape the bowl and then mix again at low speed for 30 seconds.
 
@@ -121,7 +121,7 @@ Sprinkle the filling evenly across the batter.
 ### Step 9
 
 Transfer the remaining batter atop the filling and gently spread to the edges. (The batter will be pourable if you’ve
-used buttermilk; otherwise, transfer the thick batter by dolloping portions over the filling then use a spatula to
+used [buttermilk](../../ingredients/buttermilk.md); otherwise, transfer the thick batter by dolloping portions over the filling then use a spatula to
 smooth it out into an even layer.) It’s OK if a little bit of the filling gets mixed into the top layer of batter.
 
 ### Step 10

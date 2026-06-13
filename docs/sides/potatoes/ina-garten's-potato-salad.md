@@ -53,7 +53,7 @@ the potatoes to steam for another 15 to 20 minutes, until they’re tender but n
 
 ### Step 3
 
-Meanwhile, in a small bowl, whisk together the mayonnaise, buttermilk, Dijon mustard, whole-grain mustard, dill, 1
+Meanwhile, in a small bowl, whisk together the mayonnaise, [buttermilk](../../ingredients/buttermilk.md), Dijon mustard, whole-grain mustard, dill, 1
 teaspoon of salt and 1 teaspoon of pepper. Set aside.
 
 ### Step 4

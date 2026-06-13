@@ -6,6 +6,7 @@ tags:
   - bake-off
 hero: assets/images/guinness-chocolate-cake.webp
 ---
+
 # Guinness Chocolate Cake
 
 ![Guinness Chocolate Cake][1]{ loading=lazy }
@@ -17,6 +18,7 @@ hero: assets/images/guinness-chocolate-cake.webp
 ## :salt: Ingredients
 
 ### Cake
+
 - :tumbler_glass: 2 bottles (11.2–12 oz each) Guinness Draught Stout
 - :bread: 1 3/4 cups (219 g) All-purpose flour
 - :chestnut: 3/4 cup (62 g) Unsweetened natural cocoa powder
@@ -29,9 +31,10 @@ hero: assets/images/guinness-chocolate-cake.webp
 - :baby_bottle: 3/4 cup (180 g) Full-fat sour cream, room temperature
 - :egg: 2 large Eggs, room temperature
 - :flower_playing_cards: 2 tsp Pure vanilla extract
-- :glass_of_milk: 1/2 cup (120 ml) Buttermilk, room temperature
+- :glass_of_milk: 1/2 cup (120 ml) [buttermilk](../../ingredients/buttermilk.md), room temperature
 
 ### Frosting
+
 - :cheese_wedge: 8 oz (224 g) Full-fat brick cream cheese, softened
 - :butter: 1/2 cup (115 g) Unsalted butter, softened
 - :candy: 3 1/2 cups (420 g) Confectioners’ sugar
@@ -51,27 +54,38 @@ hero: assets/images/guinness-chocolate-cake.webp
 
 ### Step 1
 
-Pour both bottles of :tumbler_glass: Guinness Draught Stout into a :shallow_pan_of_food: large saucepan. Bring to a boil over medium-high heat. Once boiling, reduce to medium-low and simmer for about 30 minutes until it reduces to approximately 3/4 cup (180ml). Set aside to cool slightly. Note: You will use 1/2 cup for the cake batter and reserve the rest for the frosting.
+Pour both bottles of :tumbler_glass: Guinness Draught Stout into a :shallow_pan_of_food: large saucepan.
+Bring to a boil over medium-high heat. Once boiling, reduce to medium-low and simmer for about 30 minutes
+until it reduces to approximately 3/4 cup (180ml). Set aside to cool slightly. Note: You will use 1/2 cup
+for the cake batter and reserve the rest for the frosting.
 
 ### Step 2
 
-Preheat oven to 350°F (177°C). Grease two :shallow_pan_of_food: 9-inch cake pans, line with :page_facing_up: parchment paper, and grease the parchment.
+Preheat oven to 350°F (177°C). Grease two :shallow_pan_of_food: 9-inch cake pans, line with
+:page_facing_up: parchment paper, and grease the parchment.
 
 ### Step 3
 
-In a :bowl_with_spoon: large bowl, whisk :bread: all-purpose flour (219g), :chestnut: unsweetened natural cocoa powder (62g), :candy: granulated sugar (350g), :chestnut: baking soda, :chestnut: baking powder, :salt: salt, and :coffee: espresso powder (optional) until combined.
+In a :bowl_with_spoon: large bowl, whisk :bread: all-purpose flour (219g), :chestnut: unsweetened natural
+cocoa powder (62g), :candy: granulated sugar (350g), :chestnut: baking soda, :chestnut: baking powder,
+:salt: salt, and :coffee: espresso powder (optional) until combined.
 
 ### Step 4
 
-In a separate :bowl_with_spoon: bowl (or :gear: stand mixer), whisk :olive: vegetable or canola oil (120ml), :baby_bottle: full-fat sour cream (180g) (room temperature), :egg: large eggs (room temperature), and :flower_playing_cards: pure vanilla extract until combined. Mix in :glass_of_milk: buttermilk (120ml) (room temperature).
+In a separate :bowl_with_spoon: bowl (or :gear: stand mixer), whisk :olive: vegetable or canola oil (120ml),
+:baby_bottle: full-fat sour cream (180g) (room temperature), :egg: large eggs (room temperature), and
+:flower_playing_cards: pure vanilla extract until combined. Mix in :glass_of_milk:
+[buttermilk](../../ingredients/buttermilk.md) (120ml) (room temperature).
 
 ### Step 5
 
-Pour the wet ingredients into the dry. Give it a quick whisk, then add 1/2 cup of the hot :tumbler_glass: reduced Guinness. Mix on low speed until just combined. The batter will be very thin.
+Pour the wet ingredients into the dry. Give it a quick whisk, then add 1/2 cup of the hot :tumbler_glass:
+reduced Guinness. Mix on low speed until just combined. The batter will be very thin.
 
 ### Step 6
 
-Divide the batter evenly between the two pans. Bake for 28 to 32 minutes or until a toothpick inserted into the center comes out clean.
+Divide the batter evenly between the two pans. Bake for 28 to 32 minutes or until a toothpick inserted into
+the center comes out clean.
 
 ### Step 7
 
@@ -79,15 +93,18 @@ Allow cakes to cool completely in the pans before frosting.
 
 ### Step 8
 
-To make the frosting, beat softened :cheese_wedge: full-fat brick cream cheese (224g) and softened :butter: unsalted butter (115g) together on medium-high speed in a :gear: stand mixer until smooth (about 2 minutes).
+To make the frosting, beat softened :cheese_wedge: full-fat brick cream cheese (224g) and softened :butter:
+unsalted butter (115g) together on medium-high speed in a :gear: stand mixer until smooth (about 2 minutes).
 
 ### Step 9
 
-Add :candy: confectioners’ sugar (420g), :chestnut: unsweetened cocoa powder (41g), 2 tablespoons of the reserved :tumbler_glass: reduced Guinness, and :flower_playing_cards: pure vanilla extract.
+Add :candy: confectioners' sugar (420g), :chestnut: unsweetened cocoa powder (41g), 2 tablespoons of the
+reserved :tumbler_glass: reduced Guinness, and :flower_playing_cards: pure vanilla extract.
 
 ### Step 10
 
-Beat on low for 30 seconds, then switch to high and beat for full 2 minutes until light and creamy. If it's too thin, add more sugar; if too thick, add the remaining tablespoon of Guinness.
+Beat on low for 30 seconds, then switch to high and beat for full 2 minutes until light and creamy. If it's
+too thin, add more sugar; if too thick, add the remaining tablespoon of Guinness.
 
 ### Step 11
 

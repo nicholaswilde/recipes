@@ -38,7 +38,7 @@ hero: assets/images/yule-log-(classic-bûche-de-noël).jpg
     - :coffee: 1 tsp espresso powder (optional)
     - :dash: 1 tsp baking powder
     - :carrot: 50 g vegetable oil
-    - :butter: 85 g buttermilk
+    - :butter: 85 g [buttermilk](../../ingredients/buttermilk.md)
 
 === "Filling"
 
@@ -88,7 +88,7 @@ ingredients have been incorporated.
 
 ### Step 5
 
-Whisk together the vegetable oil and buttermilk and fold into the batter, mixing just until combined.
+Whisk together the vegetable oil and [buttermilk](../../ingredients/buttermilk.md) and fold into the batter, mixing just until combined.
 
 ### Step 6
 

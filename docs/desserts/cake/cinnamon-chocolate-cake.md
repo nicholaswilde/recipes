@@ -26,7 +26,7 @@ hero: assets/images/cinnamon-chocolate-cake.webp
     - :chocolate_bar: 4 tsp cocoa powder
     - :droplet: 1 cup (227 g) water
     - :carrot: 0.5 cup (92 g) vegetable shortening
-    - :glass_of_milk: 0.5 cup (114 g) buttermilk
+    - :glass_of_milk: 0.5 cup (114 g) [buttermilk](../../ingredients/buttermilk.md)
     - :cup_with_straw: 1 tsp baking soda
     - :egg: 2 eggs
     - :icecream: 2 tsp vanilla
@@ -65,7 +65,7 @@ ingredients.
 
 ### Step 4
 
-Add buttermilk, baking soda, eggs, and vanilla; mix well.
+Add [buttermilk](../../ingredients/buttermilk.md), baking soda, eggs, and vanilla; mix well.
 
 ### Step 5
 

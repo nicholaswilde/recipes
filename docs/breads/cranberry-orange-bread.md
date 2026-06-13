@@ -59,7 +59,7 @@ In a large bowl, whisk together whole wheat pastry flour, granulated sugar, baki
 
 ### Step 3
 
-In a small bowl, whisk together melted butter, egg, buttermilk, orange zest, vanilla, and orange juice.
+In a small bowl, whisk together melted butter, egg, [buttermilk](../ingredients/buttermilk.md), orange zest, vanilla, and orange juice.
 
 ### Step 4
 
@@ -79,7 +79,8 @@ Cool in pan for 10 minutes.
 
 ### Step 8
 
-Prepare glaze by simply whisking together the melted unsalted butter, confectioners' sugar, orange juice and vanilla, then pour glaze over the loaf. Allow to set a few minutes, then enjoy!
+Prepare glaze by simply whisking together the melted unsalted butter, confectioners' sugar, orange juice and
+vanilla, then pour glaze over the loaf. Allow to set a few minutes, then enjoy!
 
 !!! note
 
@@ -89,4 +90,4 @@ Prepare glaze by simply whisking together the melted unsalted butter, confection
 
 - Recipe Box
 
-[1]: ../ingredients/buttermilk.md
+[1]: <../ingredients/buttermilk.md>

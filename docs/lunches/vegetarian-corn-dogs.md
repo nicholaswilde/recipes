@@ -24,7 +24,7 @@ hero: assets/images/vegetarian-corn-dogs.webp
 - :candy: 0.25 cup (50 g) granulated sugar
 - :dash: 1 Tbsp baking powder
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 1.75 cups (397 g) buttermilk
+- :glass_of_milk: 1.75 cups (397 g) [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 egg
 - :olive: 1 Tbsp vegetable or olive oil
 - :honey_pot: 1 Tbsp honey
@@ -47,8 +47,9 @@ Pat dry with paper towels. Insert sticks into vegetarian hot dogs.
 
 ### Step 3
 
-Whisk together corn meal, all-purpose flour, granulated sugar, baking powder and salt. Whisk together buttermilk, egg, 1
-Tbsp vegetable or olive oil and honey. Combine wet and dry ingredients and whisk to combine.
+Whisk together corn meal, all-purpose flour, granulated sugar, baking powder and salt. Whisk together
+[buttermilk](../ingredients/buttermilk.md), egg, 1 Tbsp vegetable or olive oil and honey. Combine wet and dry
+ingredients and whisk to combine.
 
 ### Step 4
 

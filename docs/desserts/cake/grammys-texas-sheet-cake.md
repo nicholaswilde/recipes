@@ -29,7 +29,7 @@ hero: assets/images/grammys-texas-sheet-cake.webp
     - :chocolate_bar: 21 g cocoa powder
     - :droplet: 227 g water
     - :egg: 2 eggs
-    - :butter: 227 g buttermilk
+    - :butter: 227 g [buttermilk](../../ingredients/buttermilk.md)
     - :icecream: 1 Tbsp vanilla
 
 === "Pecans"
@@ -71,7 +71,8 @@ cup of water and heat until melted. Add butter mixture to the dry ingredients an
 
 ### Step 4
 
-In a separate bowl (or the saucepan that you just emptied), whisk together 2 eggs, 1 cup buttermilk and 1 Tbsp vanilla.
+In a separate bowl (or the saucepan that you just emptied), whisk together 2 eggs, 1 cup
+[buttermilk](../../ingredients/buttermilk.md) and 1 Tbsp vanilla.
 Gradually add to the butter mixture and stir until fully incorporated.
 
 ### Step 5
@@ -105,9 +106,10 @@ temperature or up to a week in the fridge.
 
 !!! note
 
-    If you don’t have buttermilk on hand, you can sub an equal volume of 1 part milk to sour cream or Greek yogurt.
-    In a pinch, you can sub 1 cup of buttermilk for 1 cup of milk (ideally whole milk, but any kind will work) with 1
-    tablespoon of milk replaced with vinegar.
+    If you don't have [buttermilk](../../ingredients/buttermilk.md) on hand, you can sub an equal volume of 1
+    part milk to sour cream or Greek yogurt.
+    In a pinch, you can sub 1 cup of [buttermilk](../../ingredients/buttermilk.md) for 1 cup of milk (ideally
+    whole milk, but any kind will work) with 1 tablespoon of milk replaced with vinegar.
 
 ## :link: Sources
 

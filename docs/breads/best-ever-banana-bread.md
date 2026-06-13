@@ -46,11 +46,13 @@ hero: assets/images/best-ever-banana-bread.webp
 
 ### Step 1
 
-Combine granulated sugar, softened butter, eggs, banana (3-4), buttermilk, vanilla, all-purpose flour, baking soda, salt, and nuts (optional).
+Combine granulated sugar, softened butter, eggs, banana (3-4), [buttermilk](../ingredients/buttermilk.md),
+vanilla, all-purpose flour, baking soda, salt, and nuts (optional).
 
 ### Step 2
 
-Make the streusel topping by whisking together the brown sugar, salt, all-purpose flour, and cinnamon. Add the melted butter, stirring until well combined. Add the topping to the pan.
+Make the streusel topping by whisking together the brown sugar, salt, all-purpose flour, and cinnamon. Add
+the melted butter, stirring until well combined. Add the topping to the pan.
 
 !!! note
 

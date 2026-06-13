@@ -17,7 +17,7 @@ hero: assets/images/crème-fraîche.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 1 cup heavy cream
-- :glass_of_milk: 2 Tbsp buttermilk
+- :glass_of_milk: 2 Tbsp [buttermilk](buttermilk.md)
 
 ## :cooking: Cookware
 
@@ -28,9 +28,9 @@ hero: assets/images/crème-fraîche.webp
 
 ### Step 1
 
-In a bowl, combine the heavy cream and buttermilk. Cover with a clean kitchen cloth in a warm, draft-free place and let
-sit until thickened, but still a pourable consistency, 12 to 16 hours. Stir and refrigerate until ready to use. (Can be
-refrigerated for up to 1 week.)
+In a bowl, combine the heavy cream and [buttermilk](buttermilk.md). Cover with a clean kitchen cloth in a
+warm, draft-free place and let sit until thickened, but still a pourable consistency, 12 to 16 hours. Stir and
+refrigerate until ready to use. (Can be refrigerated for up to 1 week.)
 
 ## :link: Source
 

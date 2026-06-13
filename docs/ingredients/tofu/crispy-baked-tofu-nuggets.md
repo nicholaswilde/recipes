@@ -59,14 +59,14 @@ cashew coating to a shallow bowl or dish.
 
 ### Step 4
 
-Next, make the vegan buttermilk in a separate shallow bowl or dish by combining the unsweetened dairy-free milk and
+Next, make the vegan [buttermilk](../buttermilk.md) in a separate shallow bowl or dish by combining the unsweetened dairy-free milk and
 lemon juice. Mix and set aside to curdle. Then add 1/2 cup cornstarch (56 g) to another shallow bowl and set aside
 (adjust the amount of cornstarch if altering the default number of servings).
 
 ### Step 5
 
 Cut your pressed tofu into 1-inch (2.5 cm) cubes, and start the assembly line! Using clean hands, start by coating your
-tofu in cornstarch and gently tapping on the side of the bowl to shake off any excess. Next, dip in the vegan buttermilk
+tofu in cornstarch and gently tapping on the side of the bowl to shake off any excess. Next, dip in the vegan [buttermilk](../buttermilk.md)
 and evenly coat, then place in the cashew coating and turn the tofu a few times to evenly coat all sides. Place your
 breaded nugget on the prepared baking sheet and repeat with the remaining tofu.
 

@@ -29,7 +29,7 @@ hero: assets/images/chocolate-chip-muffins.webp
 - :maple_leaf: 2 Tbsp maple syrup
 - :oil_drum: 2 Tbsp vegetable oil
 - :butter: 113 g unsalted butter
-- :glass_of_milk: 255 g buttermilk
+- :glass_of_milk: 255 g [buttermilk](../ingredients/buttermilk.md)
 - :candy: 3 Tbsp coarse sugar
 
 ## :cooking: Cookware
@@ -55,7 +55,7 @@ In a separate bowl, whisk together the eggs and sour cream or full fat Greek yog
 
 ### Step 3
 
-Then mix in the vanilla, maple syrup, and vegetable oil followed by the unsalted butter and then buttermilk.
+Then mix in the vanilla, maple syrup, and vegetable oil followed by the unsalted butter and then [buttermilk](../ingredients/buttermilk.md).
 
 ### Step 4
 

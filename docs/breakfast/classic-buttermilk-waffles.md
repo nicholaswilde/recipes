@@ -4,10 +4,10 @@ tags:
 
   - breakfast
   - bake-off
-hero: assets/images/classic-buttermilk-waffles.webp
+hero: assets/images/classic-[buttermilk](../ingredients/buttermilk.md)-waffles.webp
 ---
 
-# :waffle: Classic Buttermilk Waffles
+# :waffle: Classic [buttermilk](../ingredients/buttermilk.md) Waffles
 
 ![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.webp){ loading=lazy }
 
@@ -24,7 +24,7 @@ hero: assets/images/classic-buttermilk-waffles.webp
 - :candy: 3 Tbsp + 1 tsp (40 g) granulated sugar
 - :salt: 1/2 tsp fine sea salt
 - :egg: 3 large eggs
-- :glass_of_milk: 3/4 cup (180 g) buttermilk
+- :glass_of_milk: 3/4 cup (180 g) [buttermilk](../ingredients/buttermilk.md)
 - :glass_of_milk: 3/4 cup (180 g) heavy cream
 - :butter: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
 
@@ -39,15 +39,17 @@ hero: assets/images/classic-buttermilk-waffles.webp
 
 ### Step 1
 
-In a bowl, whisk together the all-purpose flour, baking powder, baking soda, cornstarch, granulated sugar, and fine sea salt.
+In a bowl, whisk together the all-purpose flour, baking powder, baking soda, cornstarch, granulated sugar,
+and fine sea salt.
 
 ### Step 2
 
-In another bowl, whisk together the eggs, buttermilk, and heavy cream.
+In another bowl, whisk together the eggs, [buttermilk](../ingredients/buttermilk.md), and heavy cream.
 
 ### Step 3
 
-Using a wooden spoon, stir the wet ingredients into the dry ingredients until a few streaks of flour remain, but the batter is almost mixed together.
+Using a wooden spoon, stir the wet ingredients into the dry ingredients until a few streaks of flour remain,
+but the batter is almost mixed together.
 
 ### Step 4
 

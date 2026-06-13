@@ -5,10 +5,10 @@ tags:
   - bread
   - kenji-lopez-alt
   - bake-off
-hero: assets/images/buttermilk-biscuits.webp
+hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-biscuits.webp
 ---
 
-# :cookie: Buttermilk Biscuits
+# :cookie: [buttermilk](../ingredients/buttermilk.md) Biscuits
 
 ![Buttermilk Biscuits][1]{ loading=lazy }
 
@@ -18,7 +18,7 @@ hero: assets/images/buttermilk-biscuits.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 120 g buttermilk
+- :glass_of_milk: 120 g [buttermilk](../ingredients/buttermilk.md)
 - :rice: 113 g sour cream
 - :ear_of_rice: 284 g all-purpose flour
 - :dash: 12 g baking powder
@@ -40,7 +40,7 @@ hero: assets/images/buttermilk-biscuits.webp
 ### Step 1
 
 Adjust an oven rack to the middle position and preheat the oven to 425°F (220°C). In a small bowl, whisk together the
-buttermilk and sour cream.
+[buttermilk](../ingredients/buttermilk.md) and sour cream.
 
 ### Step 2
 
@@ -50,7 +50,7 @@ meal and the largest butter pieces are about 1/4 inch at their widest, about 8 t
 
 ### Step 3
 
-Add the buttermilk mixture to the flour mixture and, using a rubber spatula, fold until just combined. Transfer the
+Add the [buttermilk](../ingredients/buttermilk.md) mixture to the flour mixture and, using a rubber spatula, fold until just combined. Transfer the
 dough to a floured work surface and knead until it just comes together, adding extra flour as necessary.
 
 ### Step 4

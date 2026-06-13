@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/beatty's-chocolate-cake.webp
 ---
+
 # Beatty's Chocolate Cake
 
 ![Beatty's Chocolate Cake][1]{ loading=lazy }
@@ -21,7 +22,7 @@ hero: assets/images/beatty's-chocolate-cake.webp
 - :chestnut: 2 tsp baking soda
 - :chestnut: 1 tsp baking powder
 - :salt: 1 tsp kosher salt
-- :baby_bottle: 1 cup buttermilk, shaken
+- :baby_bottle: 1 cup [buttermilk](../ingredients/buttermilk.md), shaken
 - :olive: 0.5 cups vegetable oil
 - :egg: 2 extra-large eggs, at room temperature
 - :flower_playing_cards: 1 tsp pure vanilla extract
@@ -50,7 +51,7 @@ into the bowl of an electric mixer fitted with a paddle attachment. Mix on low s
 
 ### Step 3
 
-In a separate bowl, combine the buttermilk, shaken, vegetable oil, extra-large eggs, at room temperature, and pure
+In a separate bowl, combine the [buttermilk](../ingredients/buttermilk.md), shaken, vegetable oil, extra-large eggs, at room temperature, and pure
 vanilla extract.
 
 ### Step 4
@@ -110,4 +111,3 @@ cake.
 - <https://barefootcontessa.com/recipes/beattys-chocolate-cake>
 
 [1]: <../assets/images/beatty's-chocolate-cake.webp>
-

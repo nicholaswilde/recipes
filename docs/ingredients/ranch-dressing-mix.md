@@ -17,7 +17,7 @@ hero: assets/images/ranch-dressing-mix.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup dry buttermilk
+- :butter: 1 cup dry [buttermilk](buttermilk.md)
 - :herb: 2.5 Tbsp dried parsley
 - :herb: 2 Tbsp dried chives
 - :seedling: 2 tsp dried dill
@@ -41,7 +41,7 @@ hero: assets/images/ranch-dressing-mix.webp
 
 ### Step 1
 
-In a mixing bowl; measure and add in the dry buttermilk with dried parsley dried chives, dried dill, garlic powder,
+In a mixing bowl; measure and add in the dry [buttermilk](buttermilk.md) with dried parsley dried chives, dried dill, garlic powder,
 onion powder, dried onion flakes, salt, black pepper, paprika, and cayenne whisking to combine.
 
 ### Step 2

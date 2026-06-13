@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/buttermilk-whole-wheat-waffles.webp
+hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-whole-wheat-waffles.webp
 ---
 
-# :waffle: Buttermilk Whole Wheat Waffles
+# :waffle: [buttermilk](../ingredients/buttermilk.md) Whole Wheat Waffles
 
 ![Buttermilk Whole Wheat Waffles](../assets/images/buttermilk-whole-wheat-waffles.webp){ loading=lazy }
 
@@ -56,9 +56,9 @@ In a medium bowl, whisk together the whole wheat flour, all-purpose flour, cornm
 
 ### Step 4
 
-In another medium bowl, whisk the egg. Add the buttermilk and the cooled melted butter and whisk again. Gradually add to
-the dry ingredients to form a batter and mix gently with a spoon until combined. Thin batter with a little 2% milk if
-needed.
+In another medium bowl, whisk the egg. Add the [buttermilk](../ingredients/buttermilk.md) and the cooled
+melted butter and whisk again. Gradually add to the dry ingredients to form a batter and mix gently with a
+spoon until combined. Thin batter with a little 2% milk if needed.
 
 ### Step 5
 

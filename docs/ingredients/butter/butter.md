@@ -41,11 +41,11 @@ As the cream gets thicker, increase the mixer speed.
 
 ### Step 4
 
-The cream should separate from the milk. The milk is buttermilk.
+The cream should separate from the milk. The milk is [buttermilk](../buttermilk.md).
 
 ### Step 5
 
-When the cream gets lumpy and starts to turn yellow, keep whipping until the buttermilk separates from the cream.
+When the cream gets lumpy and starts to turn yellow, keep whipping until the [buttermilk](../buttermilk.md) separates from the cream.
 
 ### Step 6
 
@@ -54,7 +54,7 @@ Scrape the butter off the walls of the bowl and out of the mixer blades and smus
 ### Step 7
 
 Add the butter to a fine mesh bag or cheesecloth or face towel. Rinse the butter in iced water because if you don't
-rinse the buttermilk off of the butter, the butter will spoil quickly.
+rinse the [buttermilk](../buttermilk.md) off of the butter, the butter will spoil quickly.
 
 ### Step 8
 

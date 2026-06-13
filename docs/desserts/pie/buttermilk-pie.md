@@ -4,10 +4,10 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/buttermilk-pie.webp
+hero: assets/images/[buttermilk](../../ingredients/buttermilk.md)-pie.webp
 ---
 
-# :pie: Buttermilk Pie
+# :pie: [buttermilk](../../ingredients/buttermilk.md) Pie
 
 ![Buttermilk Pie](../../assets/images/buttermilk-pie.webp){ loading=lazy }
 
@@ -66,7 +66,7 @@ salt and mix to combine.
 ### Step 5
 
 Carefully pour the filling into the crust. Bake for 45 to 50 minutes, until the edges and center of pie are set
-completely.  (Tent the pie with foil towards the end if either the crust or surface of the pie look darker than golden
+completely. (Tent the pie with foil towards the end if either the crust or surface of the pie look darker than golden
 brown). Let the pie cool completely, about 2 hours. Garnish with a sprinkle of confectioners' sugar, if desired.
 
 ## :link: Source
