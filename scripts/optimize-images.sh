@@ -29,7 +29,7 @@ fi
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 readonly DIR
 
-# Source libbash for helper variables and functions
+# shuck:disable=C003
 source "${DIR}/lib/libbash"
 
 CATEGORY="${1:-}"
