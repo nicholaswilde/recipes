@@ -5,7 +5,7 @@ tags:
   - cake
   - lemon
   - pudding
-hero: assets/images/lemon-pudding-cake.jpg
+hero: assets/images/lemon-pudding-cake.webp
 ---
 # Lemon Pudding Cake
 
@@ -83,4 +83,4 @@ of whipped cream.
 
 - <https://www.thekitchn.com/lemon-pudding-cake-23295840>
 
-[1]: <../../assets/images/lemon-pudding-cake.jpg>
+[1]: <../../assets/images/lemon-pudding-cake.webp>

@@ -5,7 +5,7 @@ tags:
   - buns
   - burger buns
   - sandwich
-hero: assets/images/beautiful-burger-buns.jpg
+hero: assets/images/beautiful-burger-buns.webp
 ---
 # Beautiful Burger Buns
 
@@ -78,4 +78,4 @@ Cool on a rack before slicing horizontally.
 
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/beautiful-burger-buns-recipe)
 
-[1]: <../assets/images/beautiful-burger-buns.jpg>
+[1]: <../assets/images/beautiful-burger-buns.webp>
