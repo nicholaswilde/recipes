@@ -1,0 +1,4 @@
+Task: Convert identified recipes in docs/main/, docs/lunches/, docs/ingredients/, docs/sides/ and docs/soups-and-stews/ to use content tabs
+Summary: Batch converted 19 recipe files across main courses, lunches, sides, soups/stews, and basic ingredients to use content tabs for ingredients sections containing multiple components or variations.
+Modified files: 19 files in docs/
+Why: Enhance organization, save vertical space, and keep formatting consistent with the newly established Markdown style guide.
