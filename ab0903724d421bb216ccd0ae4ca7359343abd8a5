@@ -1,0 +1,4 @@
+Task: Validate integration with a mock recipe
+Summary: Created a mock recipe mock-cookie.cook and mock-cookie.jpg, executed the move task, and successfully verified that the workflow automatically converted the JPEG to WebP, deleted the original JPEG, optimized the image, and updated the markdown reference to .webp.
+Files modified/created: None (verification run)
+Why: Ensures that new recipes imported using the standard move task are automatically optimized and referenced correctly.
