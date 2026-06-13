@@ -31,9 +31,7 @@ repository following the established recipe import workflow.
    - Name it `{Recipe Name}.jpg` and place it in the same directory as the `.cook` file.
 5. **Run Move Task:**
    - Execute `FILES="cook/{category}/{Recipe Name}.cook" task move`.
-   - This converts the `.cook` file to Markdown, copies/converts the recipe image, runs the `lychee` link
-     checker, and automatically inserts the navigation mapping entry into the correct category section of
-     `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
+   - This converts the `.cook` file to Markdown, automatically converts any copied JPEG image to WebP (and optimizes PNGs using oxipng), runs the `lychee` link checker, and automatically inserts the navigation mapping entry into the correct category section of `zensical.toml` in alphabetical order using the `add-recipe-nav.py` script.
 6. **Post-Process Markdown:**
    - Locate the generated Markdown file in `docs/{category}/{Recipe Name}.md`.
    - **Emojis:** Run `uv run scripts/check-recipe-emojis.py "cook/{category}/{Recipe Name}.cook"` to verify

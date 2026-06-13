@@ -185,7 +185,7 @@ def move_cook_files(base_dir, mapping):
         subcat_dir = os.path.join(base_dir, subcat)
         os.makedirs(subcat_dir, exist_ok=True)
         for recipe in recipes:
-            for ext in ['.cook', '.jpg', '.png']:
+            for ext in ['.cook', '.jpg', '.png', '.jpeg', '.webp']:
                 src = os.path.join(base_dir, f"{recipe}{ext}")
                 dst = os.path.join(subcat_dir, f"{recipe}{ext}")
                 if os.path.exists(src):

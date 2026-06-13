@@ -96,6 +96,22 @@ If Lychee checks fail or relative markdown links are broken:
 
 * **Under the Hood**: Automatically resolves relative markdown and image links against files in the repository.
 
+#### Optimize and Convert Images
+
+To convert all JPEGs to WebP, optimize PNGs, and update all Markdown recipe references globally or for a specific category:
+
+* **Protocol**:
+
+  ```bash
+  # Globally
+  bash scripts/optimize-images.sh
+
+  # For a specific category
+  bash scripts/optimize-images.sh [category]
+  ```
+
+* **Under the Hood**: Invokes [scripts/optimize-images.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/optimize-images.sh), which converts JPEGs to `.webp` (using `cwebp` with a Python Pillow fallback to salvage truncated/corrupted JPEGs), deletes the original files, updates all Markdown recipe references, and runs `oxipng` to optimize PNG files.
+
 ---
 
 ### 3. Checkers & Generators

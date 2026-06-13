@@ -13,16 +13,16 @@ This skill safely and completely renames a recipe along with all of its associat
    - Confirm the existence of:
      - **Markdown Page:** `docs/{category}/{old-slug}.md`
      - **Cooklang File:** `cook/{category}/{Old Recipe Name}.cook`
-     - **Cook Image:** `cook/{category}/{Old Recipe Name}.{jpg|png}`
-     - **Docs Image Asset:** `docs/assets/images/{old-slug}.{jpg|png}`
+     - **Cook Image:** `cook/{category}/{Old Recipe Name}.{jpg|png|webp}`
+     - **Docs Image Asset:** `docs/assets/images/{old-slug}.{jpg|png|webp}`
 
 2. **Check for Target Conflicts:**
    - **Scan Configuration:** Search `zensical.toml` to see if an entry with `<new_name>` or target path `docs/{category}/{new-slug}.md` already exists.
    - **Scan Filesystem:** Check for existing files matching the target name in:
      - `docs/{category}/{new-slug}.md`
      - `cook/{category}/{New Name}.cook`
-     - `cook/{category}/{New Name}.{jpg|png}`
-     - `docs/assets/images/{new-slug}.{jpg|png}`
+     - `cook/{category}/{New Name}.{jpg|png|webp}`
+     - `docs/assets/images/{new-slug}.{jpg|png|webp}`
    - **Conflict Resolution Protocol:**
      - If a conflict exists (e.g., another recipe has the same name or uses the same slug), do **not** overwrite it silently.
      - Present the naming conflict details to the user (e.g., highlighting that both the source recipe and the conflicting target recipe exist).
@@ -35,14 +35,14 @@ This skill safely and completely renames a recipe along with all of its associat
    - Rename the files using `git mv` to preserve commit history:
      - Markdown: `git mv docs/{category}/{old-slug}.md docs/{category}/{new-slug}.md`
      - Cooklang: `git mv "cook/{category}/{Old Name}.cook" "cook/{category}/{New Name}.cook"`
-     - Cook Image: `git mv "cook/{category}/{Old Name}.jpg" "cook/{category}/{New Name}.jpg"`
-     - Docs Image: `git mv docs/assets/images/{old-slug}.jpg docs/assets/images/{new-slug}.jpg`
+     - Cook Image: `git mv "cook/{category}/{Old Name}.{jpg|png|webp}" "cook/{category}/{New Name}.{jpg|png|webp}"` (depending on the extension of the existing image)
+     - Docs Image: `git mv docs/assets/images/{old-slug}.{jpg|png|webp} docs/assets/images/{new-slug}.{jpg|png|webp}`
 
 4. **Update File Contents:**
    - **Markdown Page:** 
      - Update the title (`# :emoji: New Recipe Name`).
      - Update the image reference alt text (`![New Recipe Name][1]`).
-     - Update the image link path at the bottom of the page (`[1]: <../../assets/images/{new-slug}.jpg>`).
+     - Update the image link path at the bottom of the page (`[1]: <../../assets/images/{new-slug}.{jpg|png|webp}>`).
    - **Cooklang File:**
      - Update the metadata title (`>> title: New Recipe Name`).
    - **zensical.toml:**
