@@ -18,7 +18,7 @@ hero: assets/images/martha-stewarts-new-york-style-cheesecake.webp
 
 ## :salt: Ingredients
 
-=== "serves 1 9 inch cake"
+=== "9 Inch"
 
     ### :flatbread: Crust
 
@@ -38,7 +38,7 @@ hero: assets/images/martha-stewarts-new-york-style-cheesecake.webp
     - :lemon: 0.75 tsp lemon zest (optional)
     - :rice: 1 sour cream topping (optional)
 
-=== "serves 1 10 inch cake"
+=== "10 Inch"
 
     ### :flatbread: Crust
 
