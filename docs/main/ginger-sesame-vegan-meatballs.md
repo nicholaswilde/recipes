@@ -15,28 +15,30 @@ hero: assets/images/ginger-sesame-vegan-meatballs.webp
 |:----------------------------------:|:-----------------------: |
 | 16 meatballs | 1 hour |
 
-## :salt: Ingredients - Meatballs
+## :salt: Ingredients
 
-- :mushroom: 8 oz mushrooms
-- :onion: 0.5 cup chopped onion
-- :canned_food: 1 can [black beans][1]
-- :garlic: 4 cloves garlic
-- :onion: 3 stalks green onion
-- :sweet_potato: 2.5 Tbsp ginger
-- :takeout_box: 2 Tbsp tamari
-- :bread: 0.5 cup breadcrumbs
-- :seedling: 1 Tbsp flaxseed meal
-- :droplet: 3 Tbsp water
-- :olive: 1 Tbsp toasted sesame oil
+=== "Meatballs"
 
-## :salt: Ingredients - Glaze
+    - :mushroom: 8 oz mushrooms
+    - :onion: 0.5 cup chopped onion
+    - :canned_food: 1 can [black beans][1]
+    - :garlic: 4 cloves garlic
+    - :onion: 3 stalks green onion
+    - :sweet_potato: 2.5 Tbsp ginger
+    - :takeout_box: 2 Tbsp tamari
+    - :bread: 0.5 cup breadcrumbs
+    - :seedling: 1 Tbsp flaxseed meal
+    - :droplet: 3 Tbsp water
+    - :olive: 1 Tbsp toasted sesame oil
 
-- :takeout_box: 0.25 cup tamari
-- :honey_pot: 2 Tbsp maple syrup
-- :sweet_potato: 1 Tbsp ginger
-- :garlic: 1 clove garlic
-- :olive: 1 tsp toasted sesame oil
-- :hot_pepper: 1 tsp sriracha
+=== "Glaze"
+
+    - :takeout_box: 0.25 cup tamari
+    - :honey_pot: 2 Tbsp maple syrup
+    - :sweet_potato: 1 Tbsp ginger
+    - :garlic: 1 clove garlic
+    - :olive: 1 tsp toasted sesame oil
+    - :hot_pepper: 1 tsp sriracha
 
 ## :cooking: Cookware
 

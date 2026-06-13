@@ -15,28 +15,30 @@ hero: assets/images/roasted-tomato-soup.png
 |:----------------------------------:|:-----------------------: |
 | 4 | 1 hour 10 minutes |
 
-## :salt: Ingredients - Soup
+## :salt: Ingredients
 
-- :garlic: 2 cloves garlic
-- :onion: 2 medium red onions
-- :hot_pepper: 1 tsp cayenne pepper
-- :olive: some olive oil
-- :salt: 1 pinch salt
-- :salt: 1 pinch pepper
-- :maple_leaf: 1 tsp brown sugar
-- :sake: 1 tsp balsamic vinegar
-- :tomato: 3.5 lbs tomatoes
-- :stew: 1 qt vegetable stock
-- :glass_of_milk: 4 oz heavy cream
+=== "Soup"
 
-## :salt: Ingredients - Pesto
+    - :garlic: 2 cloves garlic
+    - :onion: 2 medium red onions
+    - :hot_pepper: 1 tsp cayenne pepper
+    - :olive: some olive oil
+    - :salt: 1 pinch salt
+    - :salt: 1 pinch pepper
+    - :maple_leaf: 1 tsp brown sugar
+    - :sake: 1 tsp balsamic vinegar
+    - :tomato: 3.5 lbs tomatoes
+    - :stew: 1 qt vegetable stock
+    - :glass_of_milk: 4 oz heavy cream
 
-- :chestnut: 3 Tbsp pine nuts
-- :tomato: 3 oz sun-dried tomatoes
-- :salt: 1 pinch pepper
-- :cheese_wedge: 2 oz Parmesan
-- :olive: 1 dash olive oil
-- :tomato: 1 dash tomato oil
+=== "Pesto"
+
+    - :chestnut: 3 Tbsp pine nuts
+    - :tomato: 3 oz sun-dried tomatoes
+    - :salt: 1 pinch pepper
+    - :cheese_wedge: 2 oz Parmesan
+    - :olive: 1 dash olive oil
+    - :tomato: 1 dash tomato oil
 
 ## :cooking: Cookware
 

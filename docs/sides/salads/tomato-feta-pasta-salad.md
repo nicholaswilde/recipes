@@ -16,28 +16,30 @@ hero: assets/images/tomato-feta-pasta-salad.webp
 |:-----------------------: |
 | 12 minutes |
 
-## :salt: Ingredients - Salad
+## :salt: Ingredients
 
-- :spaghetti: 0.5 lb [fusilli pasta][1]
-- :tomato: 1 lb tomatoes
-- :olive: 0.75 cup Kalamata olives
-- :cheese_wedge: 1 lb feta
-- :tomato: 6 sun-dried tomatoes
+=== "Salad"
 
-## :salt: Ingredients - Dressing
+    - :spaghetti: 0.5 lb [fusilli pasta][1]
+    - :tomato: 1 lb tomatoes
+    - :olive: 0.75 cup Kalamata olives
+    - :cheese_wedge: 1 lb feta
+    - :tomato: 6 sun-dried tomatoes
 
-- :tomato: 5 sun-dried tomatoes
-- :wine_glass: 2 Tbsp red wine vinegar
-- :olive: 6 Tbsp olive oil
-- :garlic: 1 clove garlic
-- :sponge: 1 tsp capers
-- :salt: 1 tsp salt
-- :salt: 0.75 tsp pepper
+=== "Dressing"
 
-## :salt: Ingredients - Garnish
+    - :tomato: 5 sun-dried tomatoes
+    - :wine_glass: 2 Tbsp red wine vinegar
+    - :olive: 6 Tbsp olive oil
+    - :garlic: 1 clove garlic
+    - :sponge: 1 tsp capers
+    - :salt: 1 tsp salt
+    - :salt: 0.75 tsp pepper
 
-- :cheese_wedge: 1 cup Parmesan
-- :herb: 1 cup parsley
+=== "Garnish"
+
+    - :cheese_wedge: 1 cup Parmesan
+    - :herb: 1 cup parsley
 
 ## :cooking: Cookware
 

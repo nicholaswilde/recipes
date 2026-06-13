@@ -16,24 +16,26 @@ hero: assets/images/maria-agresta’s-gnocchi-alla-cilentana.png
 |:-----------------------: |
 | 55 minutes |
 
-## :salt: Ingredients - Pasta
+## :salt: Ingredients
 
-- :egg: 2 eggs
-- :ear_of_rice: 4 cups (480 g) all-purpose flour
-- :droplet: 3.5 oz water
-- :salt: 1 pinch salt
+=== "Pasta"
 
-## :salt: Ingredients - Sauce
+    - :egg: 2 eggs
+    - :ear_of_rice: 4 cups (480 g) all-purpose flour
+    - :droplet: 3.5 oz water
+    - :salt: 1 pinch salt
 
-- :tomato: 2.2 lbs tomatoes
-- :onion: 0.25 red onion
-- :olive: 3 Tbsp olive oil
-- :garlic: 1 clove garlic
-- :herb: 20 leaves basil
-- :salt: 2 tsp salt
-- :cheese_wedge: 10.6 oz smoked mozzarella
-- :salt: some black pepper
-- :cheese_wedge: some pecorino cheese
+=== "Sauce"
+
+    - :tomato: 2.2 lbs tomatoes
+    - :onion: 0.25 red onion
+    - :olive: 3 Tbsp olive oil
+    - :garlic: 1 clove garlic
+    - :herb: 20 leaves basil
+    - :salt: 2 tsp salt
+    - :cheese_wedge: 10.6 oz smoked mozzarella
+    - :salt: some black pepper
+    - :cheese_wedge: some pecorino cheese
 
 ## :cooking: Cookware
 

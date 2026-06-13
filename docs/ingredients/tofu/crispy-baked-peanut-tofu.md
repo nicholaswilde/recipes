@@ -16,30 +16,32 @@ hero: assets/images/crispy-baked-peanut-tofu.webp
 |:----------------------------------:|:-----------------------: |
 | 2 | 1.18 hours |
 
-## :salt: Ingredients - Tofu
+## :salt: Ingredients
 
-- :butter: 340 g extra-firm tofu
+=== "Tofu"
 
-## :salt: Ingredients - Sauce
+    - :butter: 340 g extra-firm tofu
 
-- :peantus: 38 g peanut butter
-- :oil_drum: 15 ml sesame oil
-- :sake: 30 ml tamari or soy sauce or coconut aminos
-- :maple_leaf: 30 ml maple syrup
-- :garlic: 2 tsp chili garlic sauce
+=== "Sauce"
 
-## :salt: Ingredients - Cauliflower Rice
+    - :peantus: 38 g peanut butter
+    - :oil_drum: 15 ml sesame oil
+    - :sake: 30 ml tamari or soy sauce or coconut aminos
+    - :maple_leaf: 30 ml maple syrup
+    - :garlic: 2 tsp chili garlic sauce
 
-- :broccoli: 1 small head cauliflower
-- :garlic: 2 cloves garlic
-- :oil_drum: 15 ml sesame oil
-- :sake: 2 tsp tamari
+=== "Cauliflower Rice"
 
-## :salt: Ingredients - Veggies (optional)
+    - :broccoli: 1 small head cauliflower
+    - :garlic: 2 cloves garlic
+    - :oil_drum: 15 ml sesame oil
+    - :sake: 2 tsp tamari
 
-- :leafy_green: 75 g veggies (optional)
-- :oil_drum: 1 dash sesame oil
-- :sake: 1 dash tamari
+=== "Veggies (optional)"
+
+    - :leafy_green: 75 g veggies (optional)
+    - :oil_drum: 1 dash sesame oil
+    - :sake: 1 dash tamari
 
 ## :cooking: Cookware
 

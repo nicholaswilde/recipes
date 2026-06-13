@@ -16,28 +16,30 @@ hero: assets/images/shallot-onion-and-chive-tart.webp
 |:----------------------------------:|:-----------------------: |
 | 4 to 6 | 1.88 hours |
 
-## :salt: Ingredients - Shortcrust Pastry
+## :salt: Ingredients
 
-- :ear_of_rice: 225 g all-purpose flour
-- :salt: some salt
-- :butter: 60 g cold unsalted butter
-- :carrot: 60 g cold vegetable shortening
-- :ice_cube: 5 Tbsp cold water
+=== "Shortcrust Pastry"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 225 g all-purpose flour
+    - :salt: some salt
+    - :butter: 60 g cold unsalted butter
+    - :carrot: 60 g cold vegetable shortening
+    - :ice_cube: 5 Tbsp cold water
 
-- :onion: 8 shallots
-- :onion: 3 large onions
-- :butter: 25 g unsalted butter
-- :sunflower: 1 Tbsp sunflower oil
-- :salt: 1 pinch salt
-- :egg: 4 medium eggs
-- :egg: 2 medium egg yolks
-- :icecream: 200 ml heavy cream
-- :hotdog: 1.5 Tbsp wholegrain mustard
-- :seedling: 1 Tbsp chives
-- :salt: some salt
-- :salt: some white pepper
+=== "Filling"
+
+    - :onion: 8 shallots
+    - :onion: 3 large onions
+    - :butter: 25 g unsalted butter
+    - :sunflower: 1 Tbsp sunflower oil
+    - :salt: 1 pinch salt
+    - :egg: 4 medium eggs
+    - :egg: 2 medium egg yolks
+    - :icecream: 200 ml heavy cream
+    - :hotdog: 1.5 Tbsp wholegrain mustard
+    - :seedling: 1 Tbsp chives
+    - :salt: some salt
+    - :salt: some white pepper
 
 ## :cooking: Cookware
 

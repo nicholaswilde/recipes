@@ -16,25 +16,27 @@ hero: assets/images/blueberry-chickpea-salad.webp
 |:----------------------------------:|:-----------------------: |
 | 4 | 10 minutes |
 
-## :salt: Ingredients - Dressing
+## :salt: Ingredients
 
-- :microbe: 1 Tbsp nutritional yeast
-- :garlic: 1 tsp garlic powder
-- :lemon: 2 lemon juice
-- :maple_leaf: 1 Tbsp maple syrup
-- :seedling: 3 Tbsp tahini
-- :droplet: 0.25 cup water
-- :salt: some salt
-- :salt: some pepper
+=== "Dressing"
 
-## :salt: Ingredients - Salad
+    - :microbe: 1 Tbsp nutritional yeast
+    - :garlic: 1 tsp garlic powder
+    - :lemon: 2 lemon juice
+    - :maple_leaf: 1 Tbsp maple syrup
+    - :seedling: 3 Tbsp tahini
+    - :droplet: 0.25 cup water
+    - :salt: some salt
+    - :salt: some pepper
 
-- :blue_circle: 2 cups fresh blueberries
-- :falafel: 1 can cooked chickpeas
-- :cucumber: 1 cup cucumber
-- :leafy_green: 4 cups red cabbage
-- :leafy_green: 1 handful mixed salad greens
-- :chestnut: 0.25 cup walnuts
+=== "Salad"
+
+    - :blue_circle: 2 cups fresh blueberries
+    - :falafel: 1 can cooked chickpeas
+    - :cucumber: 1 cup cucumber
+    - :leafy_green: 4 cups red cabbage
+    - :leafy_green: 1 handful mixed salad greens
+    - :chestnut: 0.25 cup walnuts
 
 ## :cooking: Cookware
 

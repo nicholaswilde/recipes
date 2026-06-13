@@ -14,26 +14,28 @@ hero: assets/images/eggplant-parmigiana.webp
 |:----------------------------------:|:-----------------------: |
 | 8-12 | 2.00 hours |
 
-## :salt: Ingredients - Sauce
+## :salt: Ingredients
 
-- :tomato: 1 28-oz can plum tomatoes and their juices
-- :olive: 3 Tbsp olive oil
-- :garlic: 6 cloves garlic
-- :salt: some salt
-- :salt: some pepper
+=== "Sauce"
 
-## :salt: Ingredients - Eggplant
+    - :tomato: 1 28-oz can plum tomatoes and their juices
+    - :olive: 3 Tbsp olive oil
+    - :garlic: 6 cloves garlic
+    - :salt: some salt
+    - :salt: some pepper
 
-- :egg: 3 large eggs
-- :droplet: 1 Tbsp water
-- :salt: 1 pinch salt
-- :bread: 1.25 cups dried plain fine bread crumbs
-- :herb: 1 Tbsp [Italian seasoning][1]
-- :salt: 0.5 tsp salt
-- :carrot: 0.5 cup vegetable oil
-- :eggplant: 3 medium eggplant
-- :cheese_wedge: 10.5 oz mozzarella
-- :cheese_wedge: 3 Tbsp Pecorino
+=== "Eggplant"
+
+    - :egg: 3 large eggs
+    - :droplet: 1 Tbsp water
+    - :salt: 1 pinch salt
+    - :bread: 1.25 cups dried plain fine bread crumbs
+    - :herb: 1 Tbsp [Italian seasoning][1]
+    - :salt: 0.5 tsp salt
+    - :carrot: 0.5 cup vegetable oil
+    - :eggplant: 3 medium eggplant
+    - :cheese_wedge: 10.5 oz mozzarella
+    - :cheese_wedge: 3 Tbsp Pecorino
 
 ## :cooking: Cookware
 

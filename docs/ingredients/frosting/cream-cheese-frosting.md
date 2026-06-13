@@ -16,27 +16,29 @@ hero: assets/images/cream-cheese-frosting.png
 |:----------------------------------:|:-----------------------: |
 | 2 cups | 0 minutes |
 
-## :salt: Ingredients - Food Processor Method
+## :salt: Ingredients
 
-- :bagel: 8 oz cold cream cheese
-- :butter: 6 Tbsp unsalted butter, softened
-- :icecream: 2 tsp vanilla
-- :candy: 3 cups (594 g) confectioners' sugar, sifted
-- :lemon: some lemon zest (optional)
-- :orange_circle: some orange zest (optional)
-- :custard: some cinnamon (optional)
-- :tumbler_glass: some liqueur (optional)
+=== "Food Processor Method"
 
-## :salt: Ingredients - Electric Mixer Method
+    - :bagel: 8 oz cold cream cheese
+    - :butter: 6 Tbsp unsalted butter, softened
+    - :icecream: 2 tsp vanilla
+    - :candy: 3 cups (594 g) confectioners' sugar, sifted
+    - :lemon: some lemon zest (optional)
+    - :orange_circle: some orange zest (optional)
+    - :custard: some cinnamon (optional)
+    - :tumbler_glass: some liqueur (optional)
 
-- :bagel: 8 oz cold cream cheese
-- :butter: 5 Tbsp unsalted butter, softened
-- :icecream: 2 tsp vanilla
-- :candy: 4 cups (792 g) confectioners' sugar, sifted
-- :lemon: some lemon zest (optional)
-- :orange_circle: some orange zest (optional)
-- :custard: some cinnamon (optional)
-- :tumbler_glass: some liqueur (optional)
+=== "Electric Mixer Method"
+
+    - :bagel: 8 oz cold cream cheese
+    - :butter: 5 Tbsp unsalted butter, softened
+    - :icecream: 2 tsp vanilla
+    - :candy: 4 cups (792 g) confectioners' sugar, sifted
+    - :lemon: some lemon zest (optional)
+    - :orange_circle: some orange zest (optional)
+    - :custard: some cinnamon (optional)
+    - :tumbler_glass: some liqueur (optional)
 
 ## :cooking: Cookware
 

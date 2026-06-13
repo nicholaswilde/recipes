@@ -15,31 +15,33 @@ hero: assets/images/pasta-with-burst-cherry-tomato-sauce.webp
 |:----------------------------------:|:-----------------------: |
 | 4 | 50 minutes |
 
-## :salt: Ingredients - Topping
+## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :brown_circle: 0.25 cup capers
-- :fish: 1 fillet [anchovy][1]
-- :bread: 0.5 cup panko
-- :salt: 0.13 tsp salt
-- :salt: 0.13 tsp pepper
-- :herb: 0.25 cup parsley
-- :lemon: 1 tsp lemon zest
+=== "Topping"
 
-## :salt: Ingredients - Pasta
+    - :olive: 2 Tbsp olive oil
+    - :brown_circle: 0.25 cup capers
+    - :fish: 1 fillet [anchovy][1]
+    - :bread: 0.5 cup panko
+    - :salt: 0.13 tsp salt
+    - :salt: 0.13 tsp pepper
+    - :herb: 0.25 cup parsley
+    - :lemon: 1 tsp lemon zest
 
-- :droplet: 4 qt water
-- :olive: 0.25 cup (50 g) olive oil
-- :garlic: 2 cloves garlic
-- :fish: 2 fillets [anchovy][1]
-- :tomato: 2 lbs cherry tomatoes
-- :salt: 1.5 tsp salt
-- :candy: 0.25 tsp sugar
-- :hot_pepper: 0.13 tsp red pepper flakes
-- :spaghetti: 12 oz penne rigate, orecchiette, campanelle, or other short pasta
-- :salt: 1 Tbsp salt
-- :butter: 2 Tbsp butter
-- :herb: 1 cup basil
+=== "Pasta"
+
+    - :droplet: 4 qt water
+    - :olive: 0.25 cup (50 g) olive oil
+    - :garlic: 2 cloves garlic
+    - :fish: 2 fillets [anchovy][1]
+    - :tomato: 2 lbs cherry tomatoes
+    - :salt: 1.5 tsp salt
+    - :candy: 0.25 tsp sugar
+    - :hot_pepper: 0.13 tsp red pepper flakes
+    - :spaghetti: 12 oz penne rigate, orecchiette, campanelle, or other short pasta
+    - :salt: 1 Tbsp salt
+    - :butter: 2 Tbsp butter
+    - :herb: 1 cup basil
 
 ## :cooking: Cookware
 

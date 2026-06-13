@@ -15,22 +15,24 @@ hero: assets/images/stiff-sourdough-starter.webp
 |:-----------------------: |
 | 0 minutes |
 
-## :salt: Ingredients - Flour Mixture
+## :salt: Ingredients
 
-- :ear_of_rice: 150 g whole wheat
-- :ear_of_rice: 180 g all-purpose flour
+=== "Flour Mixture"
 
-## :salt: Ingredients - Conversion
+    - :ear_of_rice: 150 g whole wheat
+    - :ear_of_rice: 180 g all-purpose flour
 
-- :microbe: 10 g [sourdough starter][2]
-- :ear_of_rice: 50 g flour mixture
-- :droplet: 25 g water
+=== "Conversion"
 
-## :salt: Ingredients - Maintenance
+    - :microbe: 10 g [sourdough starter][2]
+    - :ear_of_rice: 50 g flour mixture
+    - :droplet: 25 g water
 
-- :microbe: 10 g [sourdough starter][2]
-- :ear_of_rice: 20 g flour mixture
-- :droplet: 10 g water
+=== "Maintenance"
+
+    - :microbe: 10 g [sourdough starter][2]
+    - :ear_of_rice: 20 g flour mixture
+    - :droplet: 10 g water
 
 ## :pencil: Instructions - Flour Mixture
 

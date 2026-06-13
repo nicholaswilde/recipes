@@ -14,23 +14,25 @@ hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-on
 |:----------------------------------:|:-----------------------: |
 | 4 | 45 minutes |
 
-## :salt: Ingredients - Refried Black Beans
+## :salt: Ingredients
 
-- :onion: 0.5 medium yellow onion
-- :olive: 2 Tbsp olive oil
-- :salt: 0.25 tsp salt
-- :herb: 1 tsp cumin
-- :canned_food: 1 15.5-oz can [black beans][2]
-- :droplet: 1 cup water
-- :hot_pepper: 0.25 tsp chipotle powder
+=== "Refried Black Beans"
 
-## :salt: Ingredients - Tostadas
+    - :onion: 0.5 medium yellow onion
+    - :olive: 2 Tbsp olive oil
+    - :salt: 0.25 tsp salt
+    - :herb: 1 tsp cumin
+    - :canned_food: 1 15.5-oz can [black beans][2]
+    - :droplet: 1 cup water
+    - :hot_pepper: 0.25 tsp chipotle powder
 
-- :bread: 8 corn tortillas
-- :olive: some olive oil
-- :avocado: 1 avocado
-- :herb: some cilantro
-- :stuffed_flatbread: some pickled cabbage and onion
+=== "Tostadas"
+
+    - :bread: 8 corn tortillas
+    - :olive: some olive oil
+    - :avocado: 1 avocado
+    - :herb: some cilantro
+    - :stuffed_flatbread: some pickled cabbage and onion
 
 ## :cooking: Cookware
 

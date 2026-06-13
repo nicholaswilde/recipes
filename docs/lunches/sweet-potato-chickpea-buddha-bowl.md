@@ -15,33 +15,35 @@ hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
 |:----------------------------------:|:-----------------------: |
 | 8 | 25 minutes |
 
-## :salt: Ingredients - Vegetables
+## :salt: Ingredients
 
-- :sweet_potato: 5.33 small sweet potatoes
-- :onion: 1.33 medium red onions
-- :olive: 5.33 Tbsp olive oil
-- :broccoli: 2.67 bundles broccolini
-- :salt: 0.67 tsp salt
-- :salt: 0.67 tsp pepper
-- :leafy_green: 5.33 handfuls kale
+=== "Vegetables"
 
-## :salt: Ingredients - Chickpeas
+    - :sweet_potato: 5.33 small sweet potatoes
+    - :onion: 1.33 medium red onions
+    - :olive: 5.33 Tbsp olive oil
+    - :broccoli: 2.67 bundles broccolini
+    - :salt: 0.67 tsp salt
+    - :salt: 0.67 tsp pepper
+    - :leafy_green: 5.33 handfuls kale
 
-- :falafel: 2.67 15-oz cans chickpeas
-- :herb: 1.67 tsp cumin
-- :hot_pepper: 2 tsp chili powder
-- :garlic: 2 tsp garlic powder
-- :salt: 0.67 tsp salt
-- :salt: 0.67 tsp pepper
-- :herb: some oregano (optional)
-- :curry: 0.67 tsp turmeric (optional)
+=== "Chickpeas"
 
-## :salt: Ingredients - Tahini Sauce
+    - :falafel: 2.67 15-oz cans chickpeas
+    - :herb: 1.67 tsp cumin
+    - :hot_pepper: 2 tsp chili powder
+    - :garlic: 2 tsp garlic powder
+    - :salt: 0.67 tsp salt
+    - :salt: 0.67 tsp pepper
+    - :herb: some oregano (optional)
+    - :curry: 0.67 tsp turmeric (optional)
 
-- :seedling: 0.67 cup tahini
-- :maple_leaf: 2.67 Tbsp maple syrup
-- :lemon: 1.33 medium lemon juice
-- :hot_springs: 5 Tbsp hot water
+=== "Tahini Sauce"
+
+    - :seedling: 0.67 cup tahini
+    - :maple_leaf: 2.67 Tbsp maple syrup
+    - :lemon: 1.33 medium lemon juice
+    - :hot_springs: 5 Tbsp hot water
 
 ## :cooking: Cookware
 

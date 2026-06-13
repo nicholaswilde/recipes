@@ -16,30 +16,32 @@ hero: assets/images/fresh-spring-rolls.png
 |:----------------------------------:|:-----------------------: |
 | 8 | 30 minutes |
 
-## :salt: Ingredients - Peanut Sauce
+## :salt: Ingredients
 
-- :peanuts: 0.25 cup (34 g) creamy peanut butter
-- :takeout_box: 4 tsp soy sauce
-- :lemon: 1 Tbsp lime juice
-- :maple_leaf: 2 tsp brown sugar
-- :hot_pepper: 1 tsp chili garlic sauce
-- :sweet_potato: 1 tsp freshly ground ginger
-- :droplet: 2 Tbsp water
+=== "Peanut Sauce"
 
-## :salt: Ingredients - Spring Rolls
+    - :peanuts: 0.25 cup (34 g) creamy peanut butter
+    - :takeout_box: 4 tsp soy sauce
+    - :lemon: 1 Tbsp lime juice
+    - :maple_leaf: 2 tsp brown sugar
+    - :hot_pepper: 1 tsp chili garlic sauce
+    - :sweet_potato: 1 tsp freshly ground ginger
+    - :droplet: 2 Tbsp water
 
-- :flatbread: 8 rice paper wrapper
-- :leafy_green: 0.5 head lettuce
-- :herb: 0.75 cup mint
-- :herb: 0.75 cup cilantro
-- :carrot: 1 cup carrots[^1]
-- :leafy_green: 0.5 head purple cabbage
-- :bell_pepper: 1 red bell pepper[^1]
-- :cucumber: 0.5 cucumber[^1]
-- :avocado: 1 avocado
-- :salt: some salt
-- :salt: some pepper
-- :peanuts: 1 [peanut dipping sauce][1]
+=== "Spring Rolls"
+
+    - :flatbread: 8 rice paper wrapper
+    - :leafy_green: 0.5 head lettuce
+    - :herb: 0.75 cup mint
+    - :herb: 0.75 cup cilantro
+    - :carrot: 1 cup carrots[^1]
+    - :leafy_green: 0.5 head purple cabbage
+    - :bell_pepper: 1 red bell pepper[^1]
+    - :cucumber: 0.5 cucumber[^1]
+    - :avocado: 1 avocado
+    - :salt: some salt
+    - :salt: some pepper
+    - :peanuts: 1 [peanut dipping sauce][1]
 
 ## :cooking: Cookware
 
