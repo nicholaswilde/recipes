@@ -1,0 +1,4 @@
+Task: Convert beverages/iced-chai-latte.md to use content tabs
+Summary: Converted the ingredients section of iced-chai-latte.md to use pymdownx.tabbed content tabs following the Markdown style guide.
+Modified files: docs/beverages/iced-chai-latte.md
+Why: Improve readability and consistency in beverages recipes.
