@@ -21,9 +21,9 @@
     - [x] Execute `scripts/optimize-images.sh` for one category at a time (e.g. `lunches`, `breads`, `breakfast`, `desserts`, etc.) (51c6465)
     - [x] Verify image conversions and markdown reference changes stage-by-stage (51c6465)
     - [x] Execute `scripts/optimize-images.sh` with no arguments to catch any remaining images not covered in category stages (51c6465)
-- [~] Task: Verify links and repository integrity
-    - [~] Run `task linkcheck-offline` to ensure no broken image links exist
-    - [~] Run `task lint` and `task validate` to verify overall project health
+- [x] Task: Verify links and repository integrity (ea4f696)
+    - [x] Run `task linkcheck-offline` to ensure no broken image links exist (ea4f696)
+    - [x] Run `task lint` and `task validate` to verify overall project health (ea4f696)
 - [ ] Task: Conductor - User Manual Verification 'Phase 2: Migration Execution and Markdown Updates' (Protocol in workflow.md)
 
 ## Phase 3: Workflow Integration
