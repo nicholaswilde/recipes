@@ -15,9 +15,9 @@ This track converts identified recipes to use Content Tabs for their multiple in
 - [x] Convert identified recipes in `docs/cookies-and-bars/` (18 files) (0095e12)
 - [x] Convert identified recipes in `docs/desserts/` (36 files) (0095e12)
 
-## Phase 4: Main, Lunches & Others
-- [ ] Convert identified recipes in `docs/main/`, `docs/lunches/`, `docs/ingredients/`
-- [ ] Convert identified recipes in `docs/sides/` and `docs/soups-and-stews/`
+## Phase 4: Main, Lunches & Others [checkpoint: 6d649ef]
+- [x] Convert identified recipes in `docs/main/`, `docs/lunches/`, `docs/ingredients/` (6d649ef)
+- [x] Convert identified recipes in `docs/sides/` and `docs/soups-and-stews/` (6d649ef)
 
 ## Phase 5: Verification & Cleanup
 - [ ] Run `zensical build` and verify all converted pages render correctly.
