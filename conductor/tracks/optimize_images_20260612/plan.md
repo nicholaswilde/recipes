@@ -30,7 +30,7 @@
 - [x] Task: Update the recipe move workflow (0fe0c4d)
     - [x] Update `scripts/move.sh` to convert `.jpg` files to `.webp` using `cwebp` after copying, and optimize `.png` files using `oxipng` (0fe0c4d)
     - [x] Update `scripts/move.sh` to find and replace `.jpg` image links with `.webp` in the newly generated markdown file (0fe0c4d)
-- [ ] Task: Validate integration with a mock recipe
-    - [ ] Run a test import/move using a mock `.cook` file and `.jpg` image to verify automated WebP conversion and Markdown updating
-    - [ ] Run `git diff` on the test output to verify correctness
+- [x] Task: Validate integration with a mock recipe (ab09037)
+    - [x] Run a test import/move using a mock `.cook` file and `.jpg` image to verify automated WebP conversion and Markdown updating (ab09037)
+    - [x] Run `git diff` on the test output to verify correctness (ab09037)
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: Workflow Integration' (Protocol in workflow.md)
