@@ -1,8 +1,8 @@
 # Implementation Plan: Image Optimization and WebP Conversion
 
 ## Phase 1: Script Development and Testing
-- [ ] Task: Create a mock image test suite or validation checklist for the image optimization script
-    - [ ] Create a test directory with dummy `.jpg` and `.png` files to test compression and format conversion
+- [x] Task: Create a mock image test suite or validation checklist for the image optimization script (99d9d50)
+    - [x] Create a test directory with dummy `.jpg` and `.png` files to test compression and format conversion (99d9d50)
 - [ ] Task: Implement image optimization and conversion script
     - [ ] Create `scripts/optimize-images.sh` to check for dependencies (`cwebp`, `oxipng`)
     - [ ] Implement optional category parameter parsing and category-specific directory/file filtering
