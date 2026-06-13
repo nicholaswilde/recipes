@@ -1,0 +1,7 @@
+Phase Verification Report
+Phase: Phase 3: Workflow Integration
+Automated Test Command: ./scripts/move.sh cook/desserts/mock-cookie.cook
+Manual Verification Steps:
+1. Verify automated conversion on import (import test-recipe.cook and test-recipe.jpg).
+2. Confirm WebP is created, JPEG deleted, and markdown updated.
+User Confirmation: Approved
