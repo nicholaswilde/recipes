@@ -45,21 +45,31 @@ def add_hyperlink(target_path, ingredient_name, ingredient_file):
     with open(target_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    link_pattern = r'(\[[^\]]+\]\([^\)]+\)|\[[^\]]+\])'
+    # Match skip targets:
+    # 1. Reference definition: ^\[[^\]]+\]:\s*.*$
+    # 2. Angle bracket links: <[^>]+>
+    # 3. Standard Markdown link: \[[^\]]+\]\([^\)]+\)
+    # 4. Reference link: \[[^\]]+\]\[[^\]]*\]
+    skip_def = r'(^\[[^\]]+\]:\s*.*$)'
+    skip_angle = r'(<[^>]+>)'
+    skip_link = r'(\[[^\]]+\]\([^\)]+\))'
+    skip_ref = r'(\[[^\]]+\]\[[^\]]*\])'
     ing_pattern = r'\b(' + re.escape(ingredient_name) + r')\b'
-    combined_pattern = f'{link_pattern}|{ing_pattern}'
+    
+    combined_pattern = f'{skip_def}|{skip_angle}|{skip_link}|{skip_ref}|{ing_pattern}'
     
     replacements_made = 0
     
     def replace_fn(match):
         nonlocal replacements_made
-        if match.group(1):
-            return match.group(1)
+        # Check if any skip group matched
+        if match.group(1) or match.group(2) or match.group(3) or match.group(4):
+            return match.group(0)
         else:
             replacements_made += 1
             return f'[{ingredient_name}]({rel_path})'
             
-    new_content = re.sub(combined_pattern, replace_fn, content, flags=re.IGNORECASE)
+    new_content = re.sub(combined_pattern, replace_fn, content, flags=re.IGNORECASE | re.MULTILINE)
     
     if replacements_made > 0:
         with open(target_path, "w", encoding="utf-8") as f:

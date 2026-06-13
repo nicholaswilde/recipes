@@ -42,9 +42,10 @@ hero: assets/images/gulab-jambu.webp
 
 ### Step 1
 
-Sift 1/2 cup Bisquick into a medium bowl. Add 1 cup dried milk powder and whisk until combined. Melt 2 tablespoons ghee
-in the microwave or on the stovetop. Pour into the [Bisquick][2] mixture and stir until the texture is crumbly and you can
-visibly see no more [ghee][1]. Add 1/4 cup whole milk and stir until a sticky and wet dough forms.
+Sift 1/2 cup [Bisquick](../ingredients/bisquick.md) into a medium bowl. Add 1 cup dried milk powder and whisk
+until combined. Melt 2 tablespoons ghee in the microwave or on the stovetop. Pour into the [Bisquick][2] mixture
+and stir until the texture is crumbly and you can visibly see no more [ghee][1]. Add 1/4 cup whole milk and stir
+until a sticky and wet dough forms.
 
 ### Step 2
 

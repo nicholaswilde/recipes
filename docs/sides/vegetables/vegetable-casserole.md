@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/vegetable-casserole.webp
 ---
+
 # Vegetable Casserole
 
 ![Vegetable Casserole][1]{ loading=lazy }
@@ -18,7 +19,7 @@ hero: assets/images/vegetable-casserole.webp
 - :tomato: 1 large tomato
 - :onion: 1 medium onion
 - :cheese_wedge: 0.33 cup (35 g) [Parmesan cheese][2]
-- :bread: 0.5 cup (60 g) reduced-fat Bisquick
+- :bread: 0.5 cup (60 g) reduced-fat [Bisquick](../../ingredients/bisquick.md)
 - :glass_of_milk: 1 cup (227 g) fat-free milk
 - :egg: 0.5 cup (115 g) [egg substitute][3]
 - :salt: some salt
@@ -40,8 +41,9 @@ Grease a 9-inch pie plate.
 
 ### Step 3
 
-Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat Bisquick, fat-free milk, egg
-substitute, salt and pepper to taste until blended, then pour into pie plate.
+Layer chopped zucchini, chopped tomato, onion, and Parmesan cheese. Stir reduced-fat
+[Bisquick](../../ingredients/bisquick.md), fat-free milk, egg substitute, salt and pepper to taste until
+blended, then pour into pie plate.
 
 ### Step 4
 
@@ -50,4 +52,3 @@ Bake for 35 minutes.
 [1]: <../../assets/images/vegetable-casserole.webp>
 [2]: <../../ingredients/vegan-parmesan.md>
 [3]: <../../reference/equivalents-and-substitutes.md#eggs>
-
