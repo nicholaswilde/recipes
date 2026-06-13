@@ -11,9 +11,9 @@ This track converts identified recipes to use Content Tabs for their multiple in
 - [x] Convert identified recipes in `docs/breads/` (30 files) (2a0ba16)
 - [x] Convert identified recipes in `docs/breakfast/` (11 files) (2a0ba16)
 
-## Phase 3: Cookies, Bars & Desserts
-- [ ] Convert identified recipes in `docs/cookies-and-bars/` (18 files)
-- [ ] Convert identified recipes in `docs/desserts/` (36 files)
+## Phase 3: Cookies, Bars & Desserts [checkpoint: 0095e12]
+- [x] Convert identified recipes in `docs/cookies-and-bars/` (18 files) (0095e12)
+- [x] Convert identified recipes in `docs/desserts/` (36 files) (0095e12)
 
 ## Phase 4: Main, Lunches & Others
 - [ ] Convert identified recipes in `docs/main/`, `docs/lunches/`, `docs/ingredients/`
