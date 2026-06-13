@@ -1,0 +1,4 @@
+Task: Run migration on repository assets in stages
+Summary: Executed the optimize-images.sh script across all recipe categories and ran a final global pass, resulting in the conversion of all JPEGs to WebPs, optimization of PNGs, and updating of all markdown references.
+Files modified/created: Modified 1100+ markdown files under docs/ and migrated image files in docs/assets/images/.
+Why: Converted all existing JPEG assets to WebP and optimized PNG assets to improve page performance and repository size.
