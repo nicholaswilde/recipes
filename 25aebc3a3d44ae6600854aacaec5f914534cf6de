@@ -1,0 +1,4 @@
+Task: Convert docs/ingredients/post-baking-glazes/royal-icing.md to use tabs (Fresh vs Powdered Egg Whites)
+Summary: Converted the separate Fresh Egg Whites and Powdered Egg Whites ingredients and instructions sections in royal-icing.md to use pymdownx.tabbed content tabs following the newly established Markdown style guide.
+Modified files: docs/ingredients/post-baking-glazes/royal-icing.md
+Why: Improve readability and consistency of alternative preparations in the Royal Icing recipe.
