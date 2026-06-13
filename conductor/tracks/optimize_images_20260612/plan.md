@@ -17,10 +17,10 @@
 ## Phase 2: Migration Execution and Markdown Updates
 - [x] Task: Add markdown reference update logic (bdb9a87)
     - [x] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in target category markdown files and change them to `.webp` (bdb9a87)
-- [~] Task: Run migration on repository assets in stages
-    - [~] Execute `scripts/optimize-images.sh` for one category at a time (e.g. `lunches`, `breads`, `breakfast`, `desserts`, etc.)
-    - [~] Verify image conversions and markdown reference changes stage-by-stage
-    - [~] Execute `scripts/optimize-images.sh` with no arguments to catch any remaining images not covered in category stages
+- [x] Task: Run migration on repository assets in stages (51c6465)
+    - [x] Execute `scripts/optimize-images.sh` for one category at a time (e.g. `lunches`, `breads`, `breakfast`, `desserts`, etc.) (51c6465)
+    - [x] Verify image conversions and markdown reference changes stage-by-stage (51c6465)
+    - [x] Execute `scripts/optimize-images.sh` with no arguments to catch any remaining images not covered in category stages (51c6465)
 - [~] Task: Verify links and repository integrity
     - [~] Run `task linkcheck-offline` to ensure no broken image links exist
     - [~] Run `task lint` and `task validate` to verify overall project health
