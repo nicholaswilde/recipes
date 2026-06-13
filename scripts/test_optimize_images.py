@@ -54,7 +54,7 @@ class TestOptimizeImages(unittest.TestCase):
         self.assertTrue(os.path.exists(self.script_path), f"Script {self.script_path} does not exist yet (expected for RED phase)")
         
         result = subprocess.run([self.script_path], cwd=self.test_dir, capture_output=True, text=True)
-        self.assertEqual(result.returncode, 0, f"Script failed with: {result.stderr}")
+        self.assertEqual(result.returncode, 0, f"Script failed with:\nSTDOUT:\n{result.stdout}\nSTDERR:\n{result.stderr}")
         
         # Check that JPG is converted to WebP and original is deleted
         webp_path = os.path.join(self.images_dir, "test-cake.webp")
