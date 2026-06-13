@@ -15,17 +15,19 @@ hero: assets/images/royal-icing.png
 |:----------------------------------:|:-----------------------: |
 | 3/4 cup | 10 minutes |
 
-## :egg: Ingredients - Fresh Egg Whites
+## :salt: Ingredients
 
-- :egg: 1 large egg white
-- :candy: 0.33 cup (65 g) confectioners' sugar
-- :candy: 0.67 cup (133 g) confectioners' sugar
+=== "Fresh Egg Whites"
 
-## :rice: Ingredients - Powdered Egg Whites
+    - :egg: 1 large egg white
+    - :candy: 0.33 cup (65 g) confectioners' sugar
+    - :candy: 0.67 cup (133 g) confectioners' sugar
 
-- :candy: 1.33 cups (263 g) confectioners' sugar
-- :egg: 1 Tbsp powdered egg whites
-- :droplet: 2 Tbsp water
+=== "Powdered Egg Whites"
+
+    - :candy: 1.33 cups (263 g) confectioners' sugar
+    - :egg: 1 Tbsp powdered egg whites
+    - :droplet: 2 Tbsp water
 
 ## :cooking: Cookware
 
@@ -47,40 +49,42 @@ hero: assets/images/royal-icing.png
     working, keep the bowl of icing covered with a damp dish towel and, when not piping, cover the tip of the icing
     bag as well to prevent drying.
 
-## :egg: Instructions - Fresh Egg Whites
+## :pencil: Instructions
 
-### Step 1
+=== "Fresh Egg Whites"
 
-Stir together in a microwave-safe bowl until thoroughly combined egg white and 1/3 cup confectioners' sugar.
+    ### Step 1
 
-### Step 2
+    Stir together in a microwave-safe bowl until thoroughly combined egg white and 1/3 cup confectioners' sugar.
 
-Microwave on high until the mixture reaches 160°F on a thermometer (it should not exceed 175°F), 30 to 60 seconds. If
-you need to take more than one temperature reading, wash the thermometer thoroughly or dip it into a mug of boiling
-water before taking additional readings. Add and beat on high speed until the icing is cool and holds stiff peaks
-2/3 cup confectioners' sugar or as needed.
+    ### Step 2
 
-### Step 3
+    Microwave on high until the mixture reaches 160°F on a thermometer (it should not exceed 175°F), 30 to 60 seconds. If
+    you need to take more than one temperature reading, wash the thermometer thoroughly or dip it into a mug of boiling
+    water before taking additional readings. Add and beat on high speed until the icing is cool and holds stiff peaks
+    2/3 cup confectioners' sugar or as needed.
 
-If the icing is not stiff enough, add more sugar.
+    ### Step 3
 
-### Step 4
+    If the icing is not stiff enough, add more sugar.
 
-Color, if desired, with liquid, powdered, or paste food coloring, the color will intensify as the icing stands. The
-icing can be stored in a covered container for up to 3 days; press a piece of wax or parchment paper directly against
-the surface to prevent drying. The icing can be rebeaten if necessary. To pipe, use a small pastry bag fitted with a
-fine tip, or cut off the corner of a sealable plastic bag or the tip of a parchment paper cone.
+    ### Step 4
 
-## :rice: Instructions - Powdered Egg Whites
+    Color, if desired, with liquid, powdered, or paste food coloring, the color will intensify as the icing stands. The
+    icing can be stored in a covered container for up to 3 days; press a piece of wax or parchment paper directly against
+    the surface to prevent drying. The icing can be rebeaten if necessary. To pipe, use a small pastry bag fitted with a
+    fine tip, or cut off the corner of a sealable plastic bag or the tip of a parchment paper cone.
 
-### Step 1
+=== "Powdered Egg Whites"
 
-Powdered egg whites: Beat together in a medium bowl until stiff peaks form confectioners' sugar, powdered egg whites,
-and water.
+    ### Step 1
 
-### Step 2
+    Powdered egg whites: Beat together in a medium bowl until stiff peaks form confectioners' sugar, powdered egg whites,
+    and water.
 
-Color if desired with liquid, paste powdered food coloring.
+    ### Step 2
+
+    Color if desired with liquid, paste powdered food coloring.
 
 ## :link: Source
 
