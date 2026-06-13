@@ -37,7 +37,7 @@ hero: assets/images/chez-panisse-almond-torte.webp
 
 ### Step 1
 
-Preheat the oven to 325°F. Beat the granulated sugar with the [almond paste][2] until the almond paste is in fine
+Preheat the oven to 325°F. Beat the granulated sugar with the [almond paste][2] until the [Almond Paste](../../ingredients/almond-paste.md) is in fine
 pieces. Or, better, pulverize it in a food processor. Beat in the unsalted butter and the vanilla, then cream the
 mixture until it is light and fluffy. Beat in the whole eggs, one at a time - the eggs should be at room temperature -
 beating well after each addition so the eggs are thoroughly mixed in.
