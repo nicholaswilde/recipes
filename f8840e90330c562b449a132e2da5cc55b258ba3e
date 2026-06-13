@@ -1,0 +1,4 @@
+Task: Establish a clear pattern/standard for tab implementation (e.g., indentation, header nesting)
+Summary: Created conductor/code_styleguides/markdown.md to specify the standard for Content Tabs syntax, indentation, naming conventions, and header nesting.
+Modified files: conductor/code_styleguides/markdown.md
+Why: Establishing a standard ensures all developers and agents implement tabs consistently across the recipes codebase.
