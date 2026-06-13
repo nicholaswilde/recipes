@@ -14,7 +14,7 @@
     - [x] Test specifying a category and verify only that category's images and markdown references are affected (274ce78)
 - [x] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md) (5cb0001)
 
-## Phase 2: Migration Execution and Markdown Updates
+## Phase 2: Migration Execution and Markdown Updates [checkpoint: c8ce961]
 - [x] Task: Add markdown reference update logic (bdb9a87)
     - [x] Add regex/sed replacements in `scripts/optimize-images.sh` to find all `.jpg` image references in target category markdown files and change them to `.webp` (bdb9a87)
 - [x] Task: Run migration on repository assets in stages (51c6465)
@@ -24,7 +24,7 @@
 - [x] Task: Verify links and repository integrity (ea4f696)
     - [x] Run `task linkcheck-offline` to ensure no broken image links exist (ea4f696)
     - [x] Run `task lint` and `task validate` to verify overall project health (ea4f696)
-- [ ] Task: Conductor - User Manual Verification 'Phase 2: Migration Execution and Markdown Updates' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Migration Execution and Markdown Updates' (Protocol in workflow.md) (c8ce961)
 
 ## Phase 3: Workflow Integration
 - [ ] Task: Update the recipe move workflow
