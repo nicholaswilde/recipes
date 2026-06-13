@@ -1,6 +1,6 @@
 # Implementation Plan: Image Optimization and WebP Conversion
 
-## Phase 1: Script Development and Testing
+## Phase 1: Script Development and Testing [checkpoint: 5cb0001]
 - [x] Task: Create a mock image test suite or validation checklist for the image optimization script (99d9d50)
     - [x] Create a test directory with dummy `.jpg` and `.png` files to test compression and format conversion (99d9d50)
 - [x] Task: Implement image optimization and conversion script (f793958)
@@ -12,7 +12,7 @@
 - [x] Task: Test script on dummy directory (274ce78)
     - [x] Execute `scripts/optimize-images.sh` on the test directory and verify format conversion and optimization results (274ce78)
     - [x] Test specifying a category and verify only that category's images and markdown references are affected (274ce78)
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 1: Script Development and Testing' (Protocol in workflow.md) (5cb0001)
 
 ## Phase 2: Migration Execution and Markdown Updates
 - [ ] Task: Add markdown reference update logic
