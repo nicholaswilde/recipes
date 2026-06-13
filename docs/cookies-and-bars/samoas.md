@@ -15,22 +15,24 @@ hero: assets/images/samoas.png
 |:----------------------------------:|:-----------------------: |
 | 14 | 2 hours 15 minutes |
 
-## :salt: Ingredients - Cookie
+## :salt: Ingredients
 
-- :butter: 1 cup (227 g) unsalted butter
-- :candy: 0.5 cup (99 g) granulated sugar
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :dash: 0.25 tsp baking powder
-- :salt: 0.5 tsp salt
-- :glass_of_milk: 2 Tbsp milk
-- :icecream: 0.5 tsp vanilla
+=== "Cookie"
 
-## :salt: Ingredients - Coconut Topping
+    - :butter: 1 cup (227 g) unsalted butter
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :ear_of_rice: 2 cups (240 g) all-purpose flour
+    - :dash: 0.25 tsp baking powder
+    - :salt: 0.5 tsp salt
+    - :glass_of_milk: 2 Tbsp milk
+    - :icecream: 0.5 tsp vanilla
 
-- :coconut: 3 cups coconut
-- :candy: 20 oz caramels
-- :glass_of_milk: 4 Tbsp milk
-- :chocolate_bar: 12 oz dark chocolate
+=== "Coconut Topping"
+
+    - :coconut: 3 cups coconut
+    - :candy: 20 oz caramels
+    - :glass_of_milk: 4 Tbsp milk
+    - :chocolate_bar: 12 oz dark chocolate
 
 ## :cooking: Cookware
 

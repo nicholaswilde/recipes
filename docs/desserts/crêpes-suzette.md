@@ -15,25 +15,27 @@ hero: assets/images/crêpes-suzette.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 45 minutes |
 
-## :salt: Ingredients - Crêpes
+## :salt: Ingredients
 
-- :egg: 2 large eggs
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
-- :glass_of_milk: 0.5 cup milk
-- :salt: 0.13 tsp salt
-- :candy: 0.5 tsp sugar
-- :ice_cube: 0.33 cup (75 g) cold water
-- :oil_drum: 1 Tbsp canola oil
-- :butter: 1 Tbsp butter
+=== "Crêpes"
 
-## :salt: Ingredients - Orange Butter
+    - :egg: 2 large eggs
+    - :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+    - :glass_of_milk: 0.5 cup milk
+    - :salt: 0.13 tsp salt
+    - :candy: 0.5 tsp sugar
+    - :ice_cube: 0.33 cup (75 g) cold water
+    - :oil_drum: 1 Tbsp canola oil
+    - :butter: 1 Tbsp butter
 
-- :butter: 6 Tbsp butter
-- :candy: 6 Tbsp sugar
-- :orange_circle: 1 Tbsp orange zest
-- :orange_circle: 0.33 cup orange juice
-- :tumbler_glass: 0.25 cup Grand Marnier
-- :tumbler_glass: 2 Tbsp cognac
+=== "Orange Butter"
+
+    - :butter: 6 Tbsp butter
+    - :candy: 6 Tbsp sugar
+    - :orange_circle: 1 Tbsp orange zest
+    - :orange_circle: 0.33 cup orange juice
+    - :tumbler_glass: 0.25 cup Grand Marnier
+    - :tumbler_glass: 2 Tbsp cognac
 
 ## :cooking: Cookware
 

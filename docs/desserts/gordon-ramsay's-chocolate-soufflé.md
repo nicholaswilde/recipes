@@ -14,32 +14,34 @@ hero: assets/images/gordon-ramsay's-chocolate-soufflé.png
 |:-----------------------: |
 | 27 minutes |
 
-## :salt: Ingredients - Dishes
+## :salt: Ingredients
 
-- :butter: 25 g softened butter
-- :chocolate_bar: some grated chocolate
+=== "Dishes"
 
-## :salt: Ingredients - Crème Pâtissière
+    - :butter: 25 g softened butter
+    - :chocolate_bar: some grated chocolate
 
-- :ear_of_rice: 2 Tbsp all-purpose flour
-- :candy: 2 tsp sugar
-- :corn: 0.5 tsp cornflour
-- :egg: 1 medium egg yolk
-- :egg: 1 medium whole egg
-- :glass_of_milk: 4 Tbsp whole milk
-- :icecream: 1 Tbsp heavy cream
-- :chocolate_bar: 25 g 70 percent chocolate
+=== "Crème Pâtissière"
 
-## :salt: Ingredients - Meringue
+    - :ear_of_rice: 2 Tbsp all-purpose flour
+    - :candy: 2 tsp sugar
+    - :corn: 0.5 tsp cornflour
+    - :egg: 1 medium egg yolk
+    - :egg: 1 medium whole egg
+    - :glass_of_milk: 4 Tbsp whole milk
+    - :icecream: 1 Tbsp heavy cream
+    - :chocolate_bar: 25 g 70 percent chocolate
 
-- :egg: 6 medium egg whites
-- :candy: 85 g granulated sugar
+=== "Meringue"
 
-## :salt: Ingredients - Ganache
+    - :egg: 6 medium egg whites
+    - :candy: 85 g granulated sugar
 
-- :icecream: 4 Tbsp heavy cream
-- :chocolate_bar: 50 g 70 percent chocolate
-- :chocolate_bar: 1 Tbsp cocoa powder
+=== "Ganache"
+
+    - :icecream: 4 Tbsp heavy cream
+    - :chocolate_bar: 50 g 70 percent chocolate
+    - :chocolate_bar: 1 Tbsp cocoa powder
 
 ## :cooking: Cookware
 

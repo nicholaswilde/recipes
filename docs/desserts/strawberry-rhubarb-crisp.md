@@ -15,24 +15,26 @@ hero: assets/images/strawberry-rhubarb-crisp.webp
 |:----------------------------------:|:-----------------------: |
 | 4 | 30 minutes |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :strawberry: 1 cup frozen strawberries
-- :leafy_green: 1 cup frozen rhubarb
-- :candy: 4 Tbsp granulated sugar
-- :orange_circle: 1 Tbsp orange juice
-- :orange_circle: 1 tsp orange zest
-- :salt: 1 pinch salt
-- :ear_of_rice: 0.5 Tbsp all-purpose flour
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :strawberry: 1 cup frozen strawberries
+    - :leafy_green: 1 cup frozen rhubarb
+    - :candy: 4 Tbsp granulated sugar
+    - :orange_circle: 1 Tbsp orange juice
+    - :orange_circle: 1 tsp orange zest
+    - :salt: 1 pinch salt
+    - :ear_of_rice: 0.5 Tbsp all-purpose flour
 
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :maple_leaf: 2 Tbsp light brown sugar
-- :candy: 0.25 cup (50 g) granulated sugar
-- :salt: 1 pinch salt
-- :ear_of_rice: 0.5 cup old fashioned oats
-- :butter: 3 oz cold unsalted butter
+=== "Topping"
+
+    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :maple_leaf: 2 Tbsp light brown sugar
+    - :candy: 0.25 cup (50 g) granulated sugar
+    - :salt: 1 pinch salt
+    - :ear_of_rice: 0.5 cup old fashioned oats
+    - :butter: 3 oz cold unsalted butter
 
 ## :cooking: Cookware
 

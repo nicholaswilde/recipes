@@ -16,24 +16,26 @@ hero: assets/images/strawberry-shortcakes.webp
 |:----------------------------------:|:-----------------------: |
 | 2 | 51 minutes |
 
-## :salt: Ingredients - Shortcake
+## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :candy: 0.75 tsp granulated sugar
-- :dash: 0.5 tsp baking powder
-- :cup_with_straw: 1 pinch baking soda
-- :salt: 0.13 tsp salt
-- :glass_of_milk: 0.33 cup heavy cream
-- :candy: 0.5 tsp granulated sugar
+=== "Shortcake"
 
-## :salt: Ingredients - Strawberries & Cream
+    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :candy: 0.75 tsp granulated sugar
+    - :dash: 0.5 tsp baking powder
+    - :cup_with_straw: 1 pinch baking soda
+    - :salt: 0.13 tsp salt
+    - :glass_of_milk: 0.33 cup heavy cream
+    - :candy: 0.5 tsp granulated sugar
 
-- :strawberry: 8 oz strawberries
-- :candy: 1 Tbsp granulated sugar
-- :lemon: 0.5 tsp lemon juice
-- :glass_of_milk: 0.5 cup heavy cream
-- :candy: 1 Tbsp confectioners' sugar
-- :icecream: 0.25 tsp vanilla
+=== "Strawberries & Cream"
+
+    - :strawberry: 8 oz strawberries
+    - :candy: 1 Tbsp granulated sugar
+    - :lemon: 0.5 tsp lemon juice
+    - :glass_of_milk: 0.5 cup heavy cream
+    - :candy: 1 Tbsp confectioners' sugar
+    - :icecream: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

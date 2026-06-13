@@ -17,29 +17,31 @@ hero: assets/images/king-arthurs-carrot-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 16 | 1.08 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :oil_drum: 248 g vegetable oil
-- :candy: 397 g granulated sugar
-- :salt: 1 tsp salt
-- :egg: 4 large eggs
-- :herb: 1 Tbsp cinnamon
-- :herb: 0.5 tsp ginger
-- :four_leaf_clover: 0.25 tsp cloves
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :ear_of_rice: 240 g all-purpose flour
-- :carrot: 326 g carrots
-- :chestnut: 170 g pecans or walnuts
+=== "Cake"
 
-## :salt: Ingredients - Frosting
+    - :oil_drum: 248 g vegetable oil
+    - :candy: 397 g granulated sugar
+    - :salt: 1 tsp salt
+    - :egg: 4 large eggs
+    - :herb: 1 Tbsp cinnamon
+    - :herb: 0.5 tsp ginger
+    - :four_leaf_clover: 0.25 tsp cloves
+    - :dash: 1.5 tsp baking powder
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :ear_of_rice: 240 g all-purpose flour
+    - :carrot: 326 g carrots
+    - :chestnut: 170 g pecans or walnuts
 
-- :butter: 113 g unsalted butter
-- :cheese_wedge: 1 8-oz pkg cream cheese
-- :salt: 0.25 tsp salt
-- :icecream: 2 tsp vanilla
-- :candy: 397 g confectioners' sugar
-- :glass_of_milk: 1 tsp milk or heavy cream (optional)
+=== "Frosting"
+
+    - :butter: 113 g unsalted butter
+    - :cheese_wedge: 1 8-oz pkg cream cheese
+    - :salt: 0.25 tsp salt
+    - :icecream: 2 tsp vanilla
+    - :candy: 397 g confectioners' sugar
+    - :glass_of_milk: 1 tsp milk or heavy cream (optional)
 
 ## :cooking: Cookware
 

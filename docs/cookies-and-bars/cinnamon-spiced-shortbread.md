@@ -16,22 +16,24 @@ hero: assets/images/cinnamon-spiced-shortbread.webp
 |:-----------------------: |
 | 52 minutes |
 
-## :salt: Ingredients - Shortbread
+## :salt: Ingredients
 
-- :butter: 1.5 cups (340 g) unsalted butter
-- :candy: 200 g granulated sugar
-- :hotsprings: 1 Tbsp warm water
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 420 g all-purpose flour
-- :custard: 2 tsp cinnamon
-- :salt: 1 tsp salt
+=== "Shortbread"
 
-## :salt: Ingredients - Sugar Coating
+    - :butter: 1.5 cups (340 g) unsalted butter
+    - :candy: 200 g granulated sugar
+    - :hotsprings: 1 Tbsp warm water
+    - :icecream: 1 tsp vanilla
+    - :ear_of_rice: 420 g all-purpose flour
+    - :custard: 2 tsp cinnamon
+    - :salt: 1 tsp salt
 
-- :candy: 100 g granulated sugar
-- :custard: 0.5 tsp cinnamon
-- :chestnut: 0.5 tsp nutmeg
-- :four_leaf_clover: 0.25 tsp cloves
+=== "Sugar Coating"
+
+    - :candy: 100 g granulated sugar
+    - :custard: 0.5 tsp cinnamon
+    - :chestnut: 0.5 tsp nutmeg
+    - :four_leaf_clover: 0.25 tsp cloves
 
 ## :cooking: Cookware
 

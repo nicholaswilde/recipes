@@ -16,26 +16,28 @@ hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp
 |:----------------------------------:|:-----------------------: |
 | 12 cookies | 55 minutes |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :butter: 220 g unsalted butter
-- :ear_of_rice: 280 g all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 0.5 tsp baking powder
-- :salt: 0.5 tsp salt
-- :jack_o_lantern: 1.5 tsp pumpkin pie spice
-- :custard: 0.5 tsp cinnamon
-- :maple_leaf: 280 g dark brown sugar
-- :egg: 1 large egg yolk
-- :maple_leaf: 3 Tbsp maple syrup
-- :icecream: 1 tsp vanilla
-- :jack_o_lantern: 80 g pumpkin purée
+=== "Cookies"
 
-## :salt: Ingredients - Coating
+    - :butter: 220 g unsalted butter
+    - :ear_of_rice: 280 g all-purpose flour
+    - :cup_with_straw: 1 tsp baking soda
+    - :dash: 0.5 tsp baking powder
+    - :salt: 0.5 tsp salt
+    - :jack_o_lantern: 1.5 tsp pumpkin pie spice
+    - :custard: 0.5 tsp cinnamon
+    - :maple_leaf: 280 g dark brown sugar
+    - :egg: 1 large egg yolk
+    - :maple_leaf: 3 Tbsp maple syrup
+    - :icecream: 1 tsp vanilla
+    - :jack_o_lantern: 80 g pumpkin purée
 
-- :maple_leaf: 1.5 Tbsp light brown sugar
-- :candy: 1.5 Tbsp granulated sugar
-- :custard: 0.75 tsp cinnamon
+=== "Coating"
+
+    - :maple_leaf: 1.5 Tbsp light brown sugar
+    - :candy: 1.5 Tbsp granulated sugar
+    - :custard: 0.75 tsp cinnamon
 
 ## :cooking: Cookware
 

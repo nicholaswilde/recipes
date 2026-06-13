@@ -15,39 +15,41 @@ hero: assets/images/the-original-boston-cream-pie.webp
 |:-----------------------: |
 | 21 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :egg: 7 egg
-- :candy: 8 oz granulated sugar
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :butter: 1 oz melted butter
+=== "Cake"
 
-## :salt: Ingredients - Pastry Cream
+    - :egg: 7 egg
+    - :candy: 8 oz granulated sugar
+    - :ear_of_rice: 1 cup (120 g) all-purpose flour
+    - :butter: 1 oz melted butter
 
-- :butter: 1 Tbsp unsalted butter
-- :glass_of_milk: 2 cups milk
-- :icecream: 2 cups light cream
-- :candy: 0.5 cup (99 g) granulated sugar
-- :corn: 3.5 Tbsp cornstarch
-- :egg: 6 eggs
-- :tumbler_glass: 1 tsp dark rum
+=== "Pastry Cream"
 
-## :salt: Ingredients - Icing
+    - :butter: 1 Tbsp unsalted butter
+    - :glass_of_milk: 2 cups milk
+    - :icecream: 2 cups light cream
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :corn: 3.5 Tbsp cornstarch
+    - :egg: 6 eggs
+    - :tumbler_glass: 1 tsp dark rum
 
-- :cake: 6 oz white fondant
-- :chocolate_bar: 3 oz semisweet chocolate
-- :cake: 5 oz white fondant
+=== "Icing"
 
-## :salt: Ingredients - Chocolate Icing
+    - :cake: 6 oz white fondant
+    - :chocolate_bar: 3 oz semisweet chocolate
+    - :cake: 5 oz white fondant
 
-- :chocolate_bar: 6 oz semisweet chocolate
-- :hotsprings: 2 oz warm water
+=== "Chocolate Icing"
 
-## :salt: Ingredients - White Icing
+    - :chocolate_bar: 6 oz semisweet chocolate
+    - :hotsprings: 2 oz warm water
 
-- :candy: 1 cup (198 g) confectioners' sugar
-- :corn: 1 tsp corn syrup
-- :hotsprings: 1 tsp warm water
+=== "White Icing"
+
+    - :candy: 1 cup (198 g) confectioners' sugar
+    - :corn: 1 tsp corn syrup
+    - :hotsprings: 1 tsp warm water
 
 ## :cooking: Cookware
 

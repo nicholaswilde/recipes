@@ -16,40 +16,42 @@ hero: assets/images/cinnamon-crisp-coffee-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 8" square cake | 2 minutes |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :candy: 66 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :chocolate_bar: 2 Tbsp unsweetened cocoa
+=== "Filling"
 
-## :salt: Ingredients - Crumbs
+    - :candy: 66 g granulated sugar
+    - :custard: 1 Tbsp cinnamon
+    - :chocolate_bar: 2 Tbsp unsweetened cocoa
 
-- :ear_of_rice: 120 g all-purpose flour
-- :candy: 75 g granulated sugar
-- :candy: 14 g confectioners' sugar
-- :custard: 1 Tbsp cinnamon
-- :salt: 0.25 tsp salt
-- :butter: 85 g unsalted butter
-- :icecream: 1 tsp vanilla
+=== "Crumbs"
 
-## :salt: Ingredients - Cake
+    - :ear_of_rice: 120 g all-purpose flour
+    - :candy: 75 g granulated sugar
+    - :candy: 14 g confectioners' sugar
+    - :custard: 1 Tbsp cinnamon
+    - :salt: 0.25 tsp salt
+    - :butter: 85 g unsalted butter
+    - :icecream: 1 tsp vanilla
 
-- :ear_of_rice: 240 g all-purpose flour
-- :candy: 149 g granulated sugar
-- :dash: 1 tsp baking powder
-- :salt: 0.75 tsp salt
-- :cup_with_straw: 0.25 tsp baking soda
-- :butter: 113 g unsalted butter
-- :icecream: 2 tsp vanilla
-- :egg: 2 large eggs
-- :butter: 227 g buttermilk
-- :rice: 227 g Greek yogurt (alternative)
+=== "Cake"
 
-## :salt: Ingredients - Glaze (Optional)
+    - :ear_of_rice: 240 g all-purpose flour
+    - :candy: 149 g granulated sugar
+    - :dash: 1 tsp baking powder
+    - :salt: 0.75 tsp salt
+    - :cup_with_straw: 0.25 tsp baking soda
+    - :butter: 113 g unsalted butter
+    - :icecream: 2 tsp vanilla
+    - :egg: 2 large eggs
+    - :butter: 227 g buttermilk
+    - :rice: 227 g Greek yogurt (alternative)
 
-- :candy: 85 g confectioners' sugar
-- :custard: 1 pinch cinnamon
-- :droplet: 3 tsp water
+=== "Glaze (Optional)"
+
+    - :candy: 85 g confectioners' sugar
+    - :custard: 1 pinch cinnamon
+    - :droplet: 3 tsp water
 
 ## :cooking: Cookware
 

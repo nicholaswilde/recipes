@@ -15,20 +15,22 @@ hero: assets/images/victoria-sandwich-cake.png
 |:----------------------------------:|:-----------------------: |
 | 8 | 40 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :egg: 3 medium eggs
-- :butter: 175 g unsalted butter
-- :candy: 175 g granulated sugar
-- :ear_of_rice: 175 g [self-raising flour][2]
-- :icecream: 0.75 tsp vanilla
-- :hotsprings: 1 Tbsp warm water
+=== "Cake"
 
-## :salt: Ingredients - Filling
+    - :egg: 3 medium eggs
+    - :butter: 175 g unsalted butter
+    - :candy: 175 g granulated sugar
+    - :ear_of_rice: 175 g [self-raising flour][2]
+    - :icecream: 0.75 tsp vanilla
+    - :hotsprings: 1 Tbsp warm water
 
-- :icecream: 150 ml whipping cream (optional)
-- :strawberry: 6 Tbsp [raspberry jam][1]
-- :candy: some confectioners' sugar
+=== "Filling"
+
+    - :icecream: 150 ml whipping cream (optional)
+    - :strawberry: 6 Tbsp [raspberry jam][1]
+    - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
 

@@ -16,28 +16,30 @@ hero: assets/images/ina-garten's-coconut-cake.jpg
 |:-----------------------: |
 | 2.08 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :butter: 3 sticks unsalted butter
-- :candy: 2 cups (396 g) sugar
-- :egg: 5 extra-large eggs
-- :icecream: 1.5 tsp vanilla
-- :chestnut: 1.5 tsp almond extracts
-- :ear_of_rice: 3 cups (360 g) all-purpose flour
-- :dash: 1 tsp baking powder
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 0.5 tsp salt
-- :glass_of_milk: 1 cup milk
-- :coconut: 4 oz sweetened shredded coconut
+=== "Cake"
 
-## :salt: Ingredients - Frosting
+    - :butter: 3 sticks unsalted butter
+    - :candy: 2 cups (396 g) sugar
+    - :egg: 5 extra-large eggs
+    - :icecream: 1.5 tsp vanilla
+    - :chestnut: 1.5 tsp almond extracts
+    - :ear_of_rice: 3 cups (360 g) all-purpose flour
+    - :dash: 1 tsp baking powder
+    - :cup_with_straw: 1 tsp baking soda
+    - :salt: 0.5 tsp salt
+    - :glass_of_milk: 1 cup milk
+    - :coconut: 4 oz sweetened shredded coconut
 
-- :cheese_wedge: 2 8-oz bricks softened cream cheese
-- :butter: 2 sticks unsalted butter
-- :icecream: 0.75 tsp vanilla
-- :chestnut: 0.25 tsp almond extract
-- :candy: 1 lb confectioners’ sugar
-- :coconut: 6 oz sweetened shredded coconut
+=== "Frosting"
+
+    - :cheese_wedge: 2 8-oz bricks softened cream cheese
+    - :butter: 2 sticks unsalted butter
+    - :icecream: 0.75 tsp vanilla
+    - :chestnut: 0.25 tsp almond extract
+    - :candy: 1 lb confectioners’ sugar
+    - :coconut: 6 oz sweetened shredded coconut
 
 ## :cooking: Cookware
 

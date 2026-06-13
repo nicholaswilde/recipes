@@ -15,31 +15,33 @@ hero: assets/images/cranberry-bars.webp
 |:----------------------------------:|:-----------------------: |
 | 18-24 squares | 1.92 hours |
 
-## :salt: Ingredients - Crust & Topping
+## :salt: Ingredients
 
-- :ear_of_rice: 375 g all-purpose flour
-- :candy: 200 g granulated sugar
-- :dash: 1 tsp baking powder
-- :salt: 0.25 tsp salt
-- :custard: 1 tsp cinnamon
-- :butter: 226 g cold cubed unsalted butter
-- :egg: 1 large egg
-- :glass_of_milk: 60 g milk
-- :icecream: 2 tsp vanilla
+=== "Crust & Topping"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 375 g all-purpose flour
+    - :candy: 200 g granulated sugar
+    - :dash: 1 tsp baking powder
+    - :salt: 0.25 tsp salt
+    - :custard: 1 tsp cinnamon
+    - :butter: 226 g cold cubed unsalted butter
+    - :egg: 1 large egg
+    - :glass_of_milk: 60 g milk
+    - :icecream: 2 tsp vanilla
 
-- :cherries: 400 g fresh or frozen cranberries
-- :candy: 150 g granulated sugar
-- :corn: 1 Tbsp cornstarch
-- :tangerine: 2 tsp orange zest
-- :tangerine: 15 g fresh orange juice
-- :chestnut: 30 g sliced almonds (optional)
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :cherries: 400 g fresh or frozen cranberries
+    - :candy: 150 g granulated sugar
+    - :corn: 1 Tbsp cornstarch
+    - :tangerine: 2 tsp orange zest
+    - :tangerine: 15 g fresh orange juice
+    - :chestnut: 30 g sliced almonds (optional)
 
-- :tangerine: 30 g fresh orange juice
-- :candy: 120 g confectioners' sugar
+=== "Icing"
+
+    - :tangerine: 30 g fresh orange juice
+    - :candy: 120 g confectioners' sugar
 
 ## :cooking: Cookware
 

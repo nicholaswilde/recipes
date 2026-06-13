@@ -16,24 +16,26 @@ hero: assets/images/peanut-butter-sandwich-cookies.webp
 |:----------------------------------:|:-----------------------: |
 | 24 | 3.5 hours |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :peanuts: 1.25 cups (6.25 oz/177 g) raw peanuts
-- :ear_of_rice: 0.75 cups (3.75 oz/106 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 0.5 tsp salt
-- :butter: 3 Tbsp unsalted butter
-- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
-- :candy: 0.5 cup (3.5 oz/99 g) granulated sugar
-- :maple_leaf: 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
-- :glass_of_milk: 3 Tbsp whole milk
-- :egg: 1 large egg
+=== "Cookies"
 
-## :salt: Ingredients - Filling
+    - :peanuts: 1.25 cups (6.25 oz/177 g) raw peanuts
+    - :ear_of_rice: 0.75 cups (3.75 oz/106 g) all-purpose flour
+    - :cup_with_straw: 1 tsp baking soda
+    - :salt: 0.5 tsp salt
+    - :butter: 3 Tbsp unsalted butter
+    - :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
+    - :candy: 0.5 cup (3.5 oz/99 g) granulated sugar
+    - :maple_leaf: 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
+    - :glass_of_milk: 3 Tbsp whole milk
+    - :egg: 1 large egg
 
-- :peanuts: 0.75 cup (101 g) [creamy peanut butter][1]
-- :butter: 3 Tbsp unsalted butter
-- :candy: 1 cup (4 oz/113 g) confectioners’ sugar
+=== "Filling"
+
+    - :peanuts: 0.75 cup (101 g) [creamy peanut butter][1]
+    - :butter: 3 Tbsp unsalted butter
+    - :candy: 1 cup (4 oz/113 g) confectioners’ sugar
 
 ## :cooking: Cookware
 

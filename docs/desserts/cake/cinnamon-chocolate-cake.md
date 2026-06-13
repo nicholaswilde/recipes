@@ -15,30 +15,32 @@ hero: assets/images/cinnamon-chocolate-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 24 | 20 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :candy: 2 cups (396 g) granulated sugar
-- :custard: 1 tsp cinnamon
-- :butter: 1 stick margarine or butter
-- :chocolate_bar: 4 tsp cocoa powder
-- :droplet: 1 cup (227 g) water
-- :carrot: 0.5 cup (92 g) vegetable shortening
-- :glass_of_milk: 0.5 cup (114 g) buttermilk
-- :cup_with_straw: 1 tsp baking soda
-- :egg: 2 eggs
-- :icecream: 2 tsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Icing
+    - :ear_of_rice: 2 cups (240 g) all-purpose flour
+    - :candy: 2 cups (396 g) granulated sugar
+    - :custard: 1 tsp cinnamon
+    - :butter: 1 stick margarine or butter
+    - :chocolate_bar: 4 tsp cocoa powder
+    - :droplet: 1 cup (227 g) water
+    - :carrot: 0.5 cup (92 g) vegetable shortening
+    - :glass_of_milk: 0.5 cup (114 g) buttermilk
+    - :cup_with_straw: 1 tsp baking soda
+    - :egg: 2 eggs
+    - :icecream: 2 tsp vanilla
 
-- :butter: 1 stick margarine
-- :chocolate_bar: 2 Tbsp cocoa powder
-- :glass_of_milk: 6 Tbsp milk
-- :candy: 1 lb confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :custard: 1 tsp cinnamon
-- :chestnut: 1 cup chopped walnuts
-- :coconut: 1 cup coconut
+=== "Icing"
+
+    - :butter: 1 stick margarine
+    - :chocolate_bar: 2 Tbsp cocoa powder
+    - :glass_of_milk: 6 Tbsp milk
+    - :candy: 1 lb confectioners' sugar
+    - :icecream: 1 tsp vanilla
+    - :custard: 1 tsp cinnamon
+    - :chestnut: 1 cup chopped walnuts
+    - :coconut: 1 cup coconut
 
 ## :cooking: Cookware
 

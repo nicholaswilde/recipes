@@ -16,33 +16,35 @@ hero: assets/images/boston-cream-pie.webp
 |:-----------------------: |
 | 5 hours 10 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :candy: 397 g granulated sugar
-- :egg: 4 large eggs
-- :carrot: 67 g vegetable oil
-- :ear_of_rice: 240 g all-purpose flour
-- :salt: 1.25 tsp salt
-- :dash: 2 tsp baking powder
-- :butter: 57 g unsalted butter
-- :glass_of_milk: 227 g whole milk
-- :icecream: 2 tsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Filling
+    - :candy: 397 g granulated sugar
+    - :egg: 4 large eggs
+    - :carrot: 67 g vegetable oil
+    - :ear_of_rice: 240 g all-purpose flour
+    - :salt: 1.25 tsp salt
+    - :dash: 2 tsp baking powder
+    - :butter: 57 g unsalted butter
+    - :glass_of_milk: 227 g whole milk
+    - :icecream: 2 tsp vanilla
 
-- :glass_of_milk: 567 g whole milk
-- :candy: 99 g granulated sugar
-- :salt: 0.25 tsp salt
-- :corn: 39 g cornstarch
-- :egg: 3 large egg yolks
-- :egg: 1 egg
-- :icecream: 2 tsp vanilla
+=== "Filling"
 
-## :salt: Ingredients - Glaze
+    - :glass_of_milk: 567 g whole milk
+    - :candy: 99 g granulated sugar
+    - :salt: 0.25 tsp salt
+    - :corn: 39 g cornstarch
+    - :egg: 3 large egg yolks
+    - :egg: 1 egg
+    - :icecream: 2 tsp vanilla
 
-- :chocolate_bar: 57 g semisweet chocolate
-- :icecream: 57 g heavy cream
-- :icecream: 0.5 tsp vanilla
+=== "Glaze"
+
+    - :chocolate_bar: 57 g semisweet chocolate
+    - :icecream: 57 g heavy cream
+    - :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

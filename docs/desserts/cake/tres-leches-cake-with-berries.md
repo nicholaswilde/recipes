@@ -17,30 +17,32 @@ hero: assets/images/tres-leches-cake-with-berries.png
 |:----------------------------------:|:-----------------------: |
 | 12 | 7.08 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :dash: 2 tsp baking powder
-- :salt: 0.75 tsp kosher salt
-- :egg: 3 large eggs
-- :candy: 1 cup (198 g) granulated sugar
-- :icecream: 2 tsp vanilla
-- :glass_of_milk: 0.5 cup whole milk
-- :icecream: 1.25 cups heavy cream
-- :glass_of_milk: 1 12-oz can [evaporated milk][2]
-- :glass_of_milk: 1 14-oz can [sweetened condensed milk][3]
-- :chestnut: 0.5 tsp almond extract
-- :icecream: 1 vanilla bean
-- :candy: 5 Tbsp granulated sugar
-- :candy: some confectioners' sugar
+=== "Cake"
 
-## :salt: Ingredients - Whipped Cream
+    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+    - :dash: 2 tsp baking powder
+    - :salt: 0.75 tsp kosher salt
+    - :egg: 3 large eggs
+    - :candy: 1 cup (198 g) granulated sugar
+    - :icecream: 2 tsp vanilla
+    - :glass_of_milk: 0.5 cup whole milk
+    - :icecream: 1.25 cups heavy cream
+    - :glass_of_milk: 1 12-oz can [evaporated milk][2]
+    - :glass_of_milk: 1 14-oz can [sweetened condensed milk][3]
+    - :chestnut: 0.5 tsp almond extract
+    - :icecream: 1 vanilla bean
+    - :candy: 5 Tbsp granulated sugar
+    - :candy: some confectioners' sugar
 
-- :icecream: 1.5 cups cold heavy cream
-- :candy: 0.25 cup (50 g) confectioners' sugar
-- :candy: 2 Tbsp granulated sugar
-- :rice: 2 Tbsp creme fraîche
-- :icecream: 1 tsp vanilla
+=== "Whipped Cream"
+
+    - :icecream: 1.5 cups cold heavy cream
+    - :candy: 0.25 cup (50 g) confectioners' sugar
+    - :candy: 2 Tbsp granulated sugar
+    - :rice: 2 Tbsp creme fraîche
+    - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware
 

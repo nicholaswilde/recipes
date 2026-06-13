@@ -17,26 +17,28 @@ hero: assets/images/poppy-seed-almond-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.60 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :dash: 1.5 tsp baking powder
-- :ear_of_rice: 390 g all-purpose flour
-- :salt: 1 tsp salt
-- :blue_circle: 2 Tbsp poppy seeds
-- :candy: 465 g granulated sugar
-- :icecream: 1.5 tsp vanilla
-- :chestnut: 1.5 tsp almond extract
-- :glass_of_milk: 360 g whole milk
-- :egg: 3 eggs
-- :oil_drum: 288 g neutral oil
+=== "Cake"
 
-## :salt: Ingredients - Glaze
+    - :dash: 1.5 tsp baking powder
+    - :ear_of_rice: 390 g all-purpose flour
+    - :salt: 1 tsp salt
+    - :blue_circle: 2 Tbsp poppy seeds
+    - :candy: 465 g granulated sugar
+    - :icecream: 1.5 tsp vanilla
+    - :chestnut: 1.5 tsp almond extract
+    - :glass_of_milk: 360 g whole milk
+    - :egg: 3 eggs
+    - :oil_drum: 288 g neutral oil
 
-- :candy: 90 g confectioners' sugar
-- :orange_circle: 57 g orange juice
-- :butter: 2 tsp (10 g) unsalted butter
-- :icecream: 0.5 tsp vanilla
-- :chestnut: 0.5 tsp almond extract
+=== "Glaze"
+
+    - :candy: 90 g confectioners' sugar
+    - :orange_circle: 57 g orange juice
+    - :butter: 2 tsp (10 g) unsalted butter
+    - :icecream: 0.5 tsp vanilla
+    - :chestnut: 0.5 tsp almond extract
 
 ## :cooking: Cookware
 

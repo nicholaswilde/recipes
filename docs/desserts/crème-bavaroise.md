@@ -16,18 +16,20 @@ hero: assets/images/crème-bavaroise.png
 |:-----------------------: |
 | 30 minutes |
 
-## :salt: Ingredients - Crème Anglaise
+## :salt: Ingredients
 
-- :egg: 4 egg yolks
-- :candy: 125 g granulated sugar
-- :glass_of_milk: 500 ml whole milk
-- :icecream: 1 vanilla bean
+=== "Crème Anglaise"
 
-## :salt: Ingredients - Crème Bavaroise
+    - :egg: 4 egg yolks
+    - :candy: 125 g granulated sugar
+    - :glass_of_milk: 500 ml whole milk
+    - :icecream: 1 vanilla bean
 
-- :petri_dish: 10 g agar agar
-- :chocolate_bar: 4 Tbsp unsweetened cocoa powder (optional)
-- :icecream: 400 ml heavy cream
+=== "Crème Bavaroise"
+
+    - :petri_dish: 10 g agar agar
+    - :chocolate_bar: 4 Tbsp unsweetened cocoa powder (optional)
+    - :icecream: 400 ml heavy cream
 
 ## :cooking: Cookware
 

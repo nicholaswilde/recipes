@@ -17,25 +17,27 @@ hero: assets/images/pumpkin-cheesecake.webp
 |:----------------------------------:|:-----------------------: |
 | 10-12 | 54 minutes |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :pie: 1 [Crumb Crust][1] made with graham crackers
-- :pie: 1 Nut Crust made with pecans (alternative)
-- :maple_leaf: 0.67 cup (143 g) brown sugar
-- :custard: 0.75 tsp cinnamon
-- :chestnut: 0.25 tsp cloves
-- :sweet_potato: 0.25 tsp ginger
-- :chestnut: 0.13 tsp nutmeg
-- :cheese_wedge: 1 lb cream cheese
-- :egg: 2 large eggs
-- :egg: 2 large egg yolks
-- :jack_o_lantern: 1 cup canned or cooked pumpkin
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :pie: 1 [Crumb Crust][1] made with graham crackers
+    - :pie: 1 Nut Crust made with pecans (alternative)
+    - :maple_leaf: 0.67 cup (143 g) brown sugar
+    - :custard: 0.75 tsp cinnamon
+    - :chestnut: 0.25 tsp cloves
+    - :sweet_potato: 0.25 tsp ginger
+    - :chestnut: 0.13 tsp nutmeg
+    - :cheese_wedge: 1 lb cream cheese
+    - :egg: 2 large eggs
+    - :egg: 2 large egg yolks
+    - :jack_o_lantern: 1 cup canned or cooked pumpkin
 
-- :rice: 0.5 cup (114 g) sour cream
-- :maple_leaf: 0.33 cup (70 g) light brown sugar
-- :icecream: 1 tsp vanilla
+=== "Topping"
+
+    - :rice: 0.5 cup (114 g) sour cream
+    - :maple_leaf: 0.33 cup (70 g) light brown sugar
+    - :icecream: 1 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -15,48 +15,50 @@ hero: assets/images/prinsesstårta.webp
 |:----------------------------------:|:-----------------------: |
 | 12 to 16 | 4 hours |
 
-## :salt: Ingredients - Vanilla Custard
+## :salt: Ingredients
 
-- :glass_of_milk: 600 ml whole milk
-- :icecream: 1 vanilla pod
-- :egg: 6 egg yolks
-- :candy: 100 g granulated sugar
-- :corn: 50 g cornflour
-- :butter: 50 g unsalted butter
+=== "Vanilla Custard"
 
-## :salt: Ingredients - Jam
+    - :glass_of_milk: 600 ml whole milk
+    - :icecream: 1 vanilla pod
+    - :egg: 6 egg yolks
+    - :candy: 100 g granulated sugar
+    - :corn: 50 g cornflour
+    - :butter: 50 g unsalted butter
 
-- :strawberry: 200 g raspberries
-- :candy: 175 g jam sugar
+=== "Jam"
 
-## :salt: Ingredients - Sponge
+    - :strawberry: 200 g raspberries
+    - :candy: 175 g jam sugar
 
-- :droplet: 2 Tbsp water
-- :egg: 4 large eggs
-- :candy: 150 g granulated sugar
-- :candy: 75 g cornflour
-- :ear_of_rice: 75 g all-purpose flour
-- :dash: 1 tsp baking powder
-- :butter: 50 g melted unsalted butter
+=== "Sponge"
 
-## :salt: Ingredients - Fondant Rose
+    - :droplet: 2 Tbsp water
+    - :egg: 4 large eggs
+    - :candy: 150 g granulated sugar
+    - :candy: 75 g cornflour
+    - :ear_of_rice: 75 g all-purpose flour
+    - :dash: 1 tsp baking powder
+    - :butter: 50 g melted unsalted butter
 
-- :cake: 25 g pink fondant
-- :candy: some confectioners' sugar
+=== "Fondant Rose"
 
-## :salt: Ingredients - Decoration
+    - :cake: 25 g pink fondant
+    - :candy: some confectioners' sugar
 
-- :glass_of_milk: 750 ml heavy cream
-- :chocolate_bar: 50 g dark chocolate (36 percent solids), melted
+=== "Decoration"
 
-## :salt: Ingredients - Marzipan
+    - :glass_of_milk: 750 ml heavy cream
+    - :chocolate_bar: 50 g dark chocolate (36 percent solids), melted
 
-- :chestnut: 400 g ground almonds
-- :candy: 150 g granulated sugar
-- :candy: 250 g confectioners' sugar
-- :egg: 2 medium eggs
-- :chestnut: 1 tsp almond extract
-- :green_circle: some green food coloring paste
+=== "Marzipan"
+
+    - :chestnut: 400 g ground almonds
+    - :candy: 150 g granulated sugar
+    - :candy: 250 g confectioners' sugar
+    - :egg: 2 medium eggs
+    - :chestnut: 1 tsp almond extract
+    - :green_circle: some green food coloring paste
 
 ## :cooking: Cookware
 

@@ -15,23 +15,25 @@ hero: assets/images/tart-cherry-pie.webp
 |:----------------------------------:|:-----------------------: |
 | 9 | 1.58 hours |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :pie: 1 [deluxe butter pastry][1]
-- :cherries: 24 oz frozen tart cherries
-- :candy: 1 cup (198 g) granulated sugar
-- :corn: 2 Tbsp cornstarch
-- :ear_of_rice: 2 Tbsp all-purpose flour
-- :chestnut: 0.5 tsp almond extract
-- :butter: 1 Tbsp unsalted butter
-- :tumbler_glass: 1 Tbsp amaretto
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :pie: 1 [deluxe butter pastry][1]
+    - :cherries: 24 oz frozen tart cherries
+    - :candy: 1 cup (198 g) granulated sugar
+    - :corn: 2 Tbsp cornstarch
+    - :ear_of_rice: 2 Tbsp all-purpose flour
+    - :chestnut: 0.5 tsp almond extract
+    - :butter: 1 Tbsp unsalted butter
+    - :tumbler_glass: 1 Tbsp amaretto
 
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :maple_leaf: 0.5 cup (106 g) brown sugar
-- :ear_of_rice: 0.25 cup rolled oats
-- :butter: 6 Tbsp melted butter
+=== "Topping"
+
+    - :ear_of_rice: 1 cup (120 g) all-purpose flour
+    - :maple_leaf: 0.5 cup (106 g) brown sugar
+    - :ear_of_rice: 0.25 cup rolled oats
+    - :butter: 6 Tbsp melted butter
 
 ## :cooking: Cookware
 

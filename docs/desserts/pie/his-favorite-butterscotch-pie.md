@@ -15,37 +15,39 @@ hero: assets/images/his-favorite-butterscotch-pie.webp
 |:----------------------------------:|:-----------------------: |
 | 8 | 9.00 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :candy: 2 tsp granulated sugar
-- :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) salted butter
-- :ice_cube: 3 Tbsp ice water
+=== "Crust"
 
-## :salt: Ingredients - Caramel Sauce
+    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+    - :candy: 2 tsp granulated sugar
+    - :salt: 0.5 tsp salt
+    - :butter: 0.5 cup (114 g) salted butter
+    - :ice_cube: 3 Tbsp ice water
 
-- :candy: 1.5 cups (297 g) granulated sugar
-- :droplet: 0.5 cup (114 g) water
-- :icecream: 1 cup heavy cream
-- :tumbler_glass: 1 Tbsp rye whiskey
-- :salt: 0.25 tsp salt
+=== "Caramel Sauce"
 
-## :salt: Ingredients - Filling
+    - :candy: 1.5 cups (297 g) granulated sugar
+    - :droplet: 0.5 cup (114 g) water
+    - :icecream: 1 cup heavy cream
+    - :tumbler_glass: 1 Tbsp rye whiskey
+    - :salt: 0.25 tsp salt
 
-- :egg: 3 large egg yolks
-- :corn: 6 Tbsp cornstarch
-- :glass_of_milk: 1.75 cups half-and-half
-- :maple_leaf: 1.5 cups (320 g) light brown sugar
-- :salt: 0.75 tsp salt
-- :butter: 0.25 cup (57 g) salted butter
-- :tumbler_glass: 1 Tbsp rye whiskey
-- :icecream: 1 tsp vanilla
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :egg: 3 large egg yolks
+    - :corn: 6 Tbsp cornstarch
+    - :glass_of_milk: 1.75 cups half-and-half
+    - :maple_leaf: 1.5 cups (320 g) light brown sugar
+    - :salt: 0.75 tsp salt
+    - :butter: 0.25 cup (57 g) salted butter
+    - :tumbler_glass: 1 Tbsp rye whiskey
+    - :icecream: 1 tsp vanilla
 
-- :icecream: 3 cups heavy cream
-- :candy: 0.25 cup (50 g) confectioners' sugar
+=== "Topping"
+
+    - :icecream: 3 cups heavy cream
+    - :candy: 0.25 cup (50 g) confectioners' sugar
 
 ## :cooking: Cookware
 

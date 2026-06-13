@@ -16,34 +16,36 @@ hero: assets/images/peach-bars.webp
 |:----------------------------------:|:-----------------------: |
 | 16 bars | 2.27 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :ear_of_rice: 163 g all-purpose flour
-- :candy: 8 g granulated sugar
-- :salt: 1/2 tsp salt
-- :butter: 113 g unsalted butter
-- :ice_cube: 60 g ice water
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 163 g all-purpose flour
+    - :candy: 8 g granulated sugar
+    - :salt: 1/2 tsp salt
+    - :butter: 113 g unsalted butter
+    - :ice_cube: 60 g ice water
 
-- :peach: 680 g ripe peaches
-- :corn: 2 tsp cornstarch
-- :candy: 62.5 g demerara sugar
-- :sweet_potato: 🫚 1/2 tsp ground ginger
-- :custard: 1/4 tsp ground cinnamon
-- :chestnut: 1/8 tsp ground nutmeg
-- :salt: 1/4 tsp Diamond Crystal kosher salt
-- :lemon: 1 Tbsp fresh lemon juice
-- :icecream: 1 tsp vanilla extract
+=== "Filling"
 
-## :salt: Ingredients - Crumble Topping
+    - :peach: 680 g ripe peaches
+    - :corn: 2 tsp cornstarch
+    - :candy: 62.5 g demerara sugar
+    - :sweet_potato: 🫚 1/2 tsp ground ginger
+    - :custard: 1/4 tsp ground cinnamon
+    - :chestnut: 1/8 tsp ground nutmeg
+    - :salt: 1/4 tsp Diamond Crystal kosher salt
+    - :lemon: 1 Tbsp fresh lemon juice
+    - :icecream: 1 tsp vanilla extract
 
-- :ear_of_rice: 87 g all-purpose flour
-- :ear_of_rice: 60 g old-fashioned rolled oats
-- :candy: 43 g demerara sugar
-- :custard: 1 tsp ground cinnamon
-- :salt: 1/2 tsp Diamond Crystal kosher salt
-- :butter: 93 g unsalted butter
+=== "Crumble Topping"
+
+    - :ear_of_rice: 87 g all-purpose flour
+    - :ear_of_rice: 60 g old-fashioned rolled oats
+    - :candy: 43 g demerara sugar
+    - :custard: 1 tsp ground cinnamon
+    - :salt: 1/2 tsp Diamond Crystal kosher salt
+    - :butter: 93 g unsalted butter
 
 ## :cooking: Cookware
 

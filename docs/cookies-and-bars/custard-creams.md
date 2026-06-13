@@ -15,22 +15,24 @@ hero: assets/images/custard-creams.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.87 hours |
 
-## :salt: Ingredients - Biscuit
+## :salt: Ingredients
 
-- :butter: 100 g unsalted butter
-- :candy: 100 g granulated sugar
-- :egg: 1 egg
-- :icecream: 0.5 tsp vanilla
-- :ear_of_rice: 175 g all-purpose flour
-- :rice: 35 g custard powder
+=== "Biscuit"
 
-## :salt: Ingredients - Custard
+    - :butter: 100 g unsalted butter
+    - :candy: 100 g granulated sugar
+    - :egg: 1 egg
+    - :icecream: 0.5 tsp vanilla
+    - :ear_of_rice: 175 g all-purpose flour
+    - :rice: 35 g custard powder
 
-- :candy: 65 g granulated sugar
-- :droplet: 2 Tbsp water
-- :egg: 2 egg yolks
-- :rice: 20 g custard powder
-- :butter: 150 g unsalted butter
+=== "Custard"
+
+    - :candy: 65 g granulated sugar
+    - :droplet: 2 Tbsp water
+    - :egg: 2 egg yolks
+    - :rice: 20 g custard powder
+    - :butter: 150 g unsalted butter
 
 ## :cooking: Cookware
 

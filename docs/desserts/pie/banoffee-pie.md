@@ -15,23 +15,25 @@ hero: assets/images/banoffee-pie.webp
 |:-----------------------: |
 | 1 hour 30 minutes |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :cookie: 2.25 cup [graham cracker][1]
-- :candy: 2 Tbsp granulated sugar
-- :butter: 0.5 cup (114 g) melted butter
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :cookie: 2.25 cup [graham cracker][1]
+    - :candy: 2 Tbsp granulated sugar
+    - :butter: 0.5 cup (114 g) melted butter
 
-- :butter: 0.5 cup (114 g) butter
-- :maple_leaf: 0.5 cup (106 g) dark brown sugar
-- :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :butter: 0.5 cup (114 g) butter
+    - :maple_leaf: 0.5 cup (106 g) dark brown sugar
+    - :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
 
-- :banana: 4 sliced bananas
-- :glass_of_milk: 2 cups heavy cream
-- :chocolate_bar: some chocolate shavings
+=== "Topping"
+
+    - :banana: 4 sliced bananas
+    - :glass_of_milk: 2 cups heavy cream
+    - :chocolate_bar: some chocolate shavings
 
 ## :cooking: Cookware
 

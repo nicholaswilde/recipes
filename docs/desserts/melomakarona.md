@@ -17,33 +17,35 @@ hero: assets/images/melomakarona.webp
 |:-----------------------: |
 | 1.48 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 6.75 cups flour
-- :dash: 1.5 tsp baking powder
-- :custard: 1 tsp cinnamon
-- :salt: 1 tsp salt
-- :cup_with_straw: 0.5 tsp baking soda
-- :four_leaf_clover: 0.25 tsp cloves
-- :butter: 1 stick butter
-- :candy: 1 cup (198 g) sugar
-- :egg: 2 eggs
-- :olive: 1.5 cup (300 g) olive oil
-- :orange_circle: 1 cup orange juice
-- :orange_circle: 2 tsp orange zest
+=== "Dough"
 
-## :salt: Ingredients - Honey Syrup
+    - :ear_of_rice: 6.75 cups flour
+    - :dash: 1.5 tsp baking powder
+    - :custard: 1 tsp cinnamon
+    - :salt: 1 tsp salt
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :four_leaf_clover: 0.25 tsp cloves
+    - :butter: 1 stick butter
+    - :candy: 1 cup (198 g) sugar
+    - :egg: 2 eggs
+    - :olive: 1.5 cup (300 g) olive oil
+    - :orange_circle: 1 cup orange juice
+    - :orange_circle: 2 tsp orange zest
 
-- :orange_circle: 3 strips orange peel
-- :candy: 1.5 cups (297 g) sugar
-- :honey_pot: 1.5 cups (504 g) honey
-- :droplet: 1.5 cups (340 g) water
+=== "Honey Syrup"
 
-## :salt: Ingredients - Walnut Topping
+    - :orange_circle: 3 strips orange peel
+    - :candy: 1.5 cups (297 g) sugar
+    - :honey_pot: 1.5 cups (504 g) honey
+    - :droplet: 1.5 cups (340 g) water
 
-- :chestnut: 8 oz finely chopped walnuts
-- :custard: 1 tsp cinnamon
-- :four_leaf_clover: 0.13 tsp cloves
+=== "Walnut Topping"
+
+    - :chestnut: 8 oz finely chopped walnuts
+    - :custard: 1 tsp cinnamon
+    - :four_leaf_clover: 0.13 tsp cloves
 
 ## :cooking: Cookware
 

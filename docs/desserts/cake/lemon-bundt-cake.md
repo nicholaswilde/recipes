@@ -16,25 +16,27 @@ hero: assets/images/lemon-bundt-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.25 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 405 g all-purpose flour
-- :dash: 2.5 tsp baking powder
-- :salt: 1 tsp kosher salt
-- :cup_with_straw: 0.5 tsp baking soda
-- :glass_of_milk: 240 g whole milk
-- :icecream: 2 tsp vanilla
-- :lemon: 170 g Meyer lemon juice
-- :lemon: 2 Meyer lemon zest
-- :candy: 479 g granulated sugar
-- :egg: 4 large eggs
-- :olive: 267 g olive oil
+=== "Cake"
 
-## :salt: Ingredients - Glaze
+    - :ear_of_rice: 405 g all-purpose flour
+    - :dash: 2.5 tsp baking powder
+    - :salt: 1 tsp kosher salt
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :glass_of_milk: 240 g whole milk
+    - :icecream: 2 tsp vanilla
+    - :lemon: 170 g Meyer lemon juice
+    - :lemon: 2 Meyer lemon zest
+    - :candy: 479 g granulated sugar
+    - :egg: 4 large eggs
+    - :olive: 267 g olive oil
 
-- :candy: 132 g granulated sugar
-- :lemon: 114 g Meyer lemon juice
-- :olive: 25 g olive oil
+=== "Glaze"
+
+    - :candy: 132 g granulated sugar
+    - :lemon: 114 g Meyer lemon juice
+    - :olive: 25 g olive oil
 
 ## :cooking: Cookware
 

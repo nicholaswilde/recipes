@@ -16,32 +16,34 @@ hero: assets/images/grammys-texas-sheet-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 24 | 35 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 260 g all-purpose flour
-- :candy: 400 g granulated sugar
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 1 tsp salt
-- :butter: 113 g unsalted butter
-- :oil_drum: 66 g vegetable oil
-- :chocolate_bar: 21 g cocoa powder
-- :droplet: 227 g water
-- :egg: 2 eggs
-- :butter: 227 g buttermilk
-- :icecream: 1 Tbsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Pecans
+    - :ear_of_rice: 260 g all-purpose flour
+    - :candy: 400 g granulated sugar
+    - :cup_with_straw: 1 tsp baking soda
+    - :salt: 1 tsp salt
+    - :butter: 113 g unsalted butter
+    - :oil_drum: 66 g vegetable oil
+    - :chocolate_bar: 21 g cocoa powder
+    - :droplet: 227 g water
+    - :egg: 2 eggs
+    - :butter: 227 g buttermilk
+    - :icecream: 1 Tbsp vanilla
 
-- :butter: 28 g unsalted butter
-- :chestnut: 228 g chopped pecans
+=== "Pecans"
 
-## :salt: Ingredients - Icing
+    - :butter: 28 g unsalted butter
+    - :chestnut: 228 g chopped pecans
 
-- :butter: 113 g unsalted butter
-- :cheese_wedge: 4 oz cream cheese
-- :candy: 454 g confectioners' sugar
-- :chocolate_bar: 16 g cocoa powder
-- :icecream: 1 Tbsp vanilla
+=== "Icing"
+
+    - :butter: 113 g unsalted butter
+    - :cheese_wedge: 4 oz cream cheese
+    - :candy: 454 g confectioners' sugar
+    - :chocolate_bar: 16 g cocoa powder
+    - :icecream: 1 Tbsp vanilla
 
 ## :cooking: Cookware
 

@@ -15,33 +15,35 @@ hero: assets/images/strawberry-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 10 to 12 | 6 hours |
 
-## :salt: Ingredients - Purée
+## :salt: Ingredients
 
-- :strawberry: 454 g strawberries
+=== "Purée"
 
-## :salt: Ingredients - Cake
+    - :strawberry: 454 g strawberries
 
-- :ear_of_rice: 285 g cake flour
-- :dash: 2 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :salt: 1 tsp salt
-- :butter: 170 g unsalted butter
-- :candy: 350 g granulated sugar
-- :egg: 5 large egg whites
-- :microbe: 75 g sour cream or plain yogurt
-- :icecream: 2 tsp vanilla
-- :glass_of_milk: 120 ml whole milk
-- :purple_circle: 2 drops food coloring
+=== "Cake"
 
-## :salt: Ingredients - Frosting
+    - :ear_of_rice: 285 g cake flour
+    - :dash: 2 tsp baking powder
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :salt: 1 tsp salt
+    - :butter: 170 g unsalted butter
+    - :candy: 350 g granulated sugar
+    - :egg: 5 large egg whites
+    - :microbe: 75 g sour cream or plain yogurt
+    - :icecream: 2 tsp vanilla
+    - :glass_of_milk: 120 ml whole milk
+    - :purple_circle: 2 drops food coloring
 
-- :strawberry: 25 g freeze-dried strawberries
-- :cheese_wedge: 1 8-oz full-fat cream cheese
-- :butter: 113 g unsalted butter
-- :candy: 360 g confectioners' sugar
-- :glass_of_milk: 1 Tbsp whole milk
-- :icecream: 1 tsp vanilla
-- :salt: some salt
+=== "Frosting"
+
+    - :strawberry: 25 g freeze-dried strawberries
+    - :cheese_wedge: 1 8-oz full-fat cream cheese
+    - :butter: 113 g unsalted butter
+    - :candy: 360 g confectioners' sugar
+    - :glass_of_milk: 1 Tbsp whole milk
+    - :icecream: 1 tsp vanilla
+    - :salt: some salt
 
 ## :cooking: Cookware
 

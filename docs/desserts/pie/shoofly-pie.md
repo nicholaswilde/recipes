@@ -15,23 +15,25 @@ hero: assets/images/shoofly-pie.png
 |:----------------------------------:|:-----------------------: |
 | 8 | 3.17 hours |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :pie: 1 [pie dough][1]
-- :maple_leaf: 0.5 cup (106 g) brown sugar
-- :maple_leaf: 0.5 cup (170 g) molasses
-- :egg: 1 large egg
-- :ear_of_rice: 1.5 tsp all-purpose flour
-- :cup_with_straw: 0.5 tsp baking soda
-- :hotsprings: 1 cup (227 g) boiling water
-- :egg: 1 egg yolk
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :pie: 1 [pie dough][1]
+    - :maple_leaf: 0.5 cup (106 g) brown sugar
+    - :maple_leaf: 0.5 cup (170 g) molasses
+    - :egg: 1 large egg
+    - :ear_of_rice: 1.5 tsp all-purpose flour
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :hotsprings: 1 cup (227 g) boiling water
+    - :egg: 1 egg yolk
 
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :maple_leaf: 0.75 cup (160 g) brown sugar
-- :cup_with_straw: 0.75 tsp baking soda
-- :salt: 1 pinch salt
+=== "Topping"
+
+    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+    - :maple_leaf: 0.75 cup (160 g) brown sugar
+    - :cup_with_straw: 0.75 tsp baking soda
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

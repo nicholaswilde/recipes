@@ -17,30 +17,32 @@ hero: assets/images/lemon-pie.webp
 |:-----------------------: |
 | 1.37 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :cookie: 1.5 cups (149 g) crushed [graham crackers][1]
-- :candy: 0.33 (66 g) cup granulated sugar
-- :butter: 6 Tbsps (85 g) melted salted butter
-- :lemon: 1/2 lemon zest (optional)
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :cookie: 1.5 cups (149 g) crushed [graham crackers][1]
+    - :candy: 0.33 (66 g) cup granulated sugar
+    - :butter: 6 Tbsps (85 g) melted salted butter
+    - :lemon: 1/2 lemon zest (optional)
 
-- :oil_drum: some vegetable oil
-- :glass_of_milk: 3 cups (936 g) [sweetened condensed milk][2]
-- :egg: 3 egg yolks
-- :lemon: 0.66 cup (151 g) lemon juice
-- :salt: some salt
+=== "Filling"
 
-## :salt: Ingredients - Whipped Cream Topping
+    - :oil_drum: some vegetable oil
+    - :glass_of_milk: 3 cups (936 g) [sweetened condensed milk][2]
+    - :egg: 3 egg yolks
+    - :lemon: 0.66 cup (151 g) lemon juice
+    - :salt: some salt
 
-- :icecream: 1 cup (227 g) heavy cream
-- :candy: 2 Tbsp (25 g) sugar
-- :icecream: 1 tsp vanilla
-- :lemon: some fresh lemon slices
-- :lemon: some lemon zest
-- :herb: some mint sprigs
-- :lemon: some [candied lemon peel][3]
+=== "Whipped Cream Topping"
+
+    - :icecream: 1 cup (227 g) heavy cream
+    - :candy: 2 Tbsp (25 g) sugar
+    - :icecream: 1 tsp vanilla
+    - :lemon: some fresh lemon slices
+    - :lemon: some lemon zest
+    - :herb: some mint sprigs
+    - :lemon: some [candied lemon peel][3]
 
 ## :cooking: Cookware
 

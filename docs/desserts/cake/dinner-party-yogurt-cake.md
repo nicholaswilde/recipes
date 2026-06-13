@@ -16,28 +16,30 @@ hero: assets/images/dinner-party-yogurt-cake.webp
 |:-----------------------: |
 | 45 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :candy: 200 g granulated sugar
-- :tangerine: 1 orange zest
-- :microbe: 125 g whole plain yogurt
-- :egg: 3 large eggs
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 180 g all-purpose or cake flour
-- :dash: 2 tsp baking powder
-- :salt: 0.25 tsp salt
-- :oil_drum: 0.5 cup canola oil
+=== "Cake"
 
-## :salt: Ingredients - Soaking Syrup
+    - :candy: 200 g granulated sugar
+    - :tangerine: 1 orange zest
+    - :microbe: 125 g whole plain yogurt
+    - :egg: 3 large eggs
+    - :icecream: 1 tsp vanilla
+    - :ear_of_rice: 180 g all-purpose or cake flour
+    - :dash: 2 tsp baking powder
+    - :salt: 0.25 tsp salt
+    - :oil_drum: 0.5 cup canola oil
 
-- :tangerine: 2 Tbsp Grand Marnier
-- :tangerine: 2 Tbsp orange juice
-- :candy: 50 g superfine sugar
+=== "Soaking Syrup"
 
-## :salt: Ingredients - Glaze
+    - :tangerine: 2 Tbsp Grand Marnier
+    - :tangerine: 2 Tbsp orange juice
+    - :candy: 50 g superfine sugar
 
-- :peach: 0.75 cup apricot jam or marmalade
-- :tumbler_glass: 2 tsp rum or water
+=== "Glaze"
+
+    - :peach: 0.75 cup apricot jam or marmalade
+    - :tumbler_glass: 2 tsp rum or water
 
 ## :cooking: Cookware
 

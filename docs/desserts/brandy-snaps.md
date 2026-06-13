@@ -15,20 +15,22 @@ hero: assets/images/brandy-snaps.webp
 |:----------------------------------:|:-----------------------: |
 | 36 | 7 minutes |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :corn: 0.33 cup (103 g) dark corn syrup
-- :butter: 0.25 lb unsalted butter, cut into pieces
-- :candy: 0.5 cup (99 g) granulated sugar
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+=== "Cookies"
 
-## :salt: Ingredients - Whipped Cream
+    - :corn: 0.33 cup (103 g) dark corn syrup
+    - :butter: 0.25 lb unsalted butter, cut into pieces
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
 
-- :icecream: 1 cup heavy cream
-- :candy: 0.25 cup (50 g) confectioners' sugar
-- :tumbler_glass: 1 Tbsp brandy
-- :salt: 0.125 tsp salt
-- :icecream: 0.5 tsp vanilla
+=== "Whipped Cream"
+
+    - :icecream: 1 cup heavy cream
+    - :candy: 0.25 cup (50 g) confectioners' sugar
+    - :tumbler_glass: 1 Tbsp brandy
+    - :salt: 0.125 tsp salt
+    - :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -17,22 +17,24 @@ hero: assets/images/salted-caramel-chocolate-macarons.webp
 |:----------------------------------:|:-----------------------: |
 | 36 | 60 minutes |
 
-## :salt: Ingredients - Macarons
+## :salt: Ingredients
 
-- :chestnut: 170 g ground almonds
-- :candy: 160 g confectioners' sugar
-- :chocolate_bar: 45 g unsweetened cocoa powder
-- :egg: 144 g egg whites (Split into 72 g each)
-- :candy: 210 g granulated sugar
-- :ice_cube: 70 ml cold water
+=== "Macarons"
 
-## :salt: Ingredients - Salted Caramel Chocolate Ganache
+    - :chestnut: 170 g ground almonds
+    - :candy: 160 g confectioners' sugar
+    - :chocolate_bar: 45 g unsweetened cocoa powder
+    - :egg: 144 g egg whites (Split into 72 g each)
+    - :candy: 210 g granulated sugar
+    - :ice_cube: 70 ml cold water
 
-- :candy: 220 g granulated sugar
-- :icecream: 212 g heavy cream
-- :chocolate_bar: 75 g 54 percent cocoa chocolate
-- :salt: 0.75 tsp flaked sea salt
-- :butter: 15 g unsalted butter
+=== "Salted Caramel Chocolate Ganache"
+
+    - :candy: 220 g granulated sugar
+    - :icecream: 212 g heavy cream
+    - :chocolate_bar: 75 g 54 percent cocoa chocolate
+    - :salt: 0.75 tsp flaked sea salt
+    - :butter: 15 g unsalted butter
 
 ## :pencil: Instructions
 

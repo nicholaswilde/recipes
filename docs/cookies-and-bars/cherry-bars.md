@@ -15,31 +15,33 @@ hero: assets/images/cherry-bars.webp
 |:----------------------------------:|:-----------------------: |
 | 16 bars | 2.27 hours |
 
-## :salt: Ingredients - Crust & Topping
+## :salt: Ingredients
 
-- :ear_of_rice: 188 g all-purpose flour
-- :ear_of_rice: 85 g whole rolled oats
-- :maple_leaf: 100 g brown sugar
-- :dash: 1 tsp baking powder
-- :lemon: 1 tsp lemon zest
-- :salt: 0.13 tsp salt
-- :butter: 142 g melted unsalted butter
-- :icecream: 1 tsp vanilla
+=== "Crust & Topping"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 188 g all-purpose flour
+    - :ear_of_rice: 85 g whole rolled oats
+    - :maple_leaf: 100 g brown sugar
+    - :dash: 1 tsp baking powder
+    - :lemon: 1 tsp lemon zest
+    - :salt: 0.13 tsp salt
+    - :butter: 142 g melted unsalted butter
+    - :icecream: 1 tsp vanilla
 
-- :corn: 11 g cornstarch
-- :cherries: 525 g sour cherries
-- :candy: 100 g granulated sugar
-- :lemon: 1 tsp lemon juice
-- :chestnut: 0.25 tsp almond extract
-- :ear_of_rice: 2 Tbsp whole rolled oats
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :corn: 11 g cornstarch
+    - :cherries: 525 g sour cherries
+    - :candy: 100 g granulated sugar
+    - :lemon: 1 tsp lemon juice
+    - :chestnut: 0.25 tsp almond extract
+    - :ear_of_rice: 2 Tbsp whole rolled oats
 
-- :glass_of_milk: 2 Tbsp whole milk
-- :candy: 120 g confectioners' sugar
-- :chestnut: 0.25 tsp almond extract
+=== "Icing"
+
+    - :glass_of_milk: 2 Tbsp whole milk
+    - :candy: 120 g confectioners' sugar
+    - :chestnut: 0.25 tsp almond extract
 
 ## :cooking: Cookware
 

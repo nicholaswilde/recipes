@@ -15,33 +15,35 @@ hero: assets/images/millefeuille.webp
 |:----------------------------------:|:-----------------------: |
 | 4 | 60 minutes |
 
-## :salt: Ingredients - Rough Puff Pastry
+## :salt: Ingredients
 
-- :butter: 140 g unsalted butter
-- :salt: 1 pinch salt
-- :ear_of_rice: 225 g all-purpose flour
-- :ice_cube: 135 ml very cold water
+=== "Rough Puff Pastry"
 
-## :salt: Ingredients - Crème Diplomat
+    - :butter: 140 g unsalted butter
+    - :salt: 1 pinch salt
+    - :ear_of_rice: 225 g all-purpose flour
+    - :ice_cube: 135 ml very cold water
 
-- :egg: 4 egg yolks
-- :candy: 110 g granulated sugar
-- :ear_of_rice: 50 g all-purpose flour
-- :corn: 50 g cornflour
-- :glass_of_milk: 580 ml whole milk
+=== "Crème Diplomat"
 
-## :salt: Ingredients - Raspberry Jam
+    - :egg: 4 egg yolks
+    - :candy: 110 g granulated sugar
+    - :ear_of_rice: 50 g all-purpose flour
+    - :corn: 50 g cornflour
+    - :glass_of_milk: 580 ml whole milk
 
-- :strawberry: 400 g raspberries
-- :candy: 400 g jam sugar
-- :lemon: 1 lemon juice
-- :icecream: 300 ml heavy cream
+=== "Raspberry Jam"
 
-## :salt: Ingredients - Fondant
+    - :strawberry: 400 g raspberries
+    - :candy: 400 g jam sugar
+    - :lemon: 1 lemon juice
+    - :icecream: 300 ml heavy cream
 
-- :egg: 4 tsp egg white powder
-- :droplet: 4 Tbsp water
-- :cake: 400 g white fondant
+=== "Fondant"
+
+    - :egg: 4 tsp egg white powder
+    - :droplet: 4 Tbsp water
+    - :cake: 400 g white fondant
 
 ## :cooking: Cookware
 

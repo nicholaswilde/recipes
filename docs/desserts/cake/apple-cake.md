@@ -16,32 +16,34 @@ hero: assets/images/apple-cake.webp
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.70 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :bread: 2.5 cups (313 g) all-purpose flour
-- :chestnut: 2 tsp baking powder
-- :chestnut: 0.75 tsp baking soda
-- :salt: 0.5 tsp salt
-- :chestnut: 2 tsp ground cinnamon
-- :chestnut: 0.5 tsp ground nutmeg
-- :sweet_potato: 0.25 tsp ground ginger
-- :chestnut: 0.25 tsp ground allspice
-- :droplet: 1 cup (240 g) vegetable oil
-- :candy: 1 cup (200 g) granulated sugar
-- :candy: 0.5 cup (100 g) light or dark brown sugar (packed)
-- :apple: 1 cup (240 g) unsweetened applesauce
-- :egg: 4 large (200 g) eggs
-- :flower_playing_cards: 1 tsp vanilla extract
-- :tangerine: 2 Tbsp (30 g) orange juice
-- :apple: 3 cups (360 g) apples (peeled & chopped into 1/2-inch chunks)
+=== "Cake"
 
-## :salt: Ingredients - Glaze (Optional)
+    - :bread: 2.5 cups (313 g) all-purpose flour
+    - :chestnut: 2 tsp baking powder
+    - :chestnut: 0.75 tsp baking soda
+    - :salt: 0.5 tsp salt
+    - :chestnut: 2 tsp ground cinnamon
+    - :chestnut: 0.5 tsp ground nutmeg
+    - :sweet_potato: 0.25 tsp ground ginger
+    - :chestnut: 0.25 tsp ground allspice
+    - :droplet: 1 cup (240 g) vegetable oil
+    - :candy: 1 cup (200 g) granulated sugar
+    - :candy: 0.5 cup (100 g) light or dark brown sugar (packed)
+    - :apple: 1 cup (240 g) unsweetened applesauce
+    - :egg: 4 large (200 g) eggs
+    - :flower_playing_cards: 1 tsp vanilla extract
+    - :tangerine: 2 Tbsp (30 g) orange juice
+    - :apple: 3 cups (360 g) apples (peeled & chopped into 1/2-inch chunks)
 
-- :butter: 0.25 cup (56 g) unsalted butter
-- :candy: 1 cup (200 g) light or dark brown sugar (packed)
-- :glass_of_milk: 0.5 cup (120 g) heavy whipping cream
-- :salt: Small pinch salt
-- :candy: 0.5 cup (60 g) confectioner’s sugar (sifted)
+=== "Glaze (Optional)"
+
+    - :butter: 0.25 cup (56 g) unsalted butter
+    - :candy: 1 cup (200 g) light or dark brown sugar (packed)
+    - :glass_of_milk: 0.5 cup (120 g) heavy whipping cream
+    - :salt: Small pinch salt
+    - :candy: 0.5 cup (60 g) confectioner’s sugar (sifted)
 
 ## :cooking: Cookware
 

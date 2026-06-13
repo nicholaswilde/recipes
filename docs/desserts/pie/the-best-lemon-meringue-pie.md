@@ -15,31 +15,33 @@ hero: assets/images/the-best-lemon-meringue-pie.png
 |:-----------------------: |
 | 2.12 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
-- :salt: 0.5 tsp salt
-- :carrot: 3 Tbsp vegetable shortening
-- :butter: 4 Tbsp butter
-- :droplet: 4 Tbsp ice water
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :ear_of_rice: 1.25 cup (150 g) all-purpose flour
+    - :salt: 0.5 tsp salt
+    - :carrot: 3 Tbsp vegetable shortening
+    - :butter: 4 Tbsp butter
+    - :droplet: 4 Tbsp ice water
 
-- :candy: 1 cup (198 g) sugar
-- :corn: 0.25 cup (28 g) cornstarch
-- :salt: 0.13 tsp salt
-- :droplet: 1.5 cups (340 g) cold water
-- :egg: 6 large egg yolks
-- :lemon: 1 tsp lemon zest
-- :lemon: 0.5 cup lemon juice (2-3 lemons)
-- :butter: 2 Tbsp butter
+=== "Filling"
 
-## :salt: Ingredients - Meringue
+    - :candy: 1 cup (198 g) sugar
+    - :corn: 0.25 cup (28 g) cornstarch
+    - :salt: 0.13 tsp salt
+    - :droplet: 1.5 cups (340 g) cold water
+    - :egg: 6 large egg yolks
+    - :lemon: 1 tsp lemon zest
+    - :lemon: 0.5 cup lemon juice (2-3 lemons)
+    - :butter: 2 Tbsp butter
 
-- :egg: 3 egg whites
-- :rice: 0.25 tsp cream of tartar
-- :candy: 6 Tbsp superfine sugar
-- :icecream: 0.5 tsp vanilla
+=== "Meringue"
+
+    - :egg: 3 egg whites
+    - :rice: 0.25 tsp cream of tartar
+    - :candy: 6 Tbsp superfine sugar
+    - :icecream: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

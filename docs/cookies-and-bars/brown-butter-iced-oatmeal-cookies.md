@@ -15,25 +15,27 @@ hero: assets/images/brown-butter-iced-oatmeal-cookies.png
 |:----------------------------------:|:-----------------------: |
 | 16 | 45 minutes |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :butter: 0.75 cup (170 g) butter
-- :maple_leaf: 0.75 cup (160 g) light brown sugar
-- :candy: 0.25 cup (50 g) granulated sugar
-- :egg: 1 egg
-- :egg: 1 egg yolk
-- :icecream: 0.5 tsp vanilla
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :salt: 0.5 tsp salt
-- :cup_with_straw: 0.5 tsp baking soda
-- :ear_of_rice: 1 cup (99 g) old fashioned oats
+=== "Dough"
 
-## :salt: Ingredients - Icing
+    - :butter: 0.75 cup (170 g) butter
+    - :maple_leaf: 0.75 cup (160 g) light brown sugar
+    - :candy: 0.25 cup (50 g) granulated sugar
+    - :egg: 1 egg
+    - :egg: 1 egg yolk
+    - :icecream: 0.5 tsp vanilla
+    - :ear_of_rice: 1 cup (120 g) all-purpose flour
+    - :salt: 0.5 tsp salt
+    - :cup_with_straw: 0.5 tsp baking soda
+    - :ear_of_rice: 1 cup (99 g) old fashioned oats
 
-- :candy: 1.33 cups (227 g) confectioners' sugar
-- :glass_of_milk: 2 Tbsp (28 g) milk
-- :icecream: 1 tsp vanilla
-- :salt: 1 pinch salt
+=== "Icing"
+
+    - :candy: 1.33 cups (227 g) confectioners' sugar
+    - :glass_of_milk: 2 Tbsp (28 g) milk
+    - :icecream: 1 tsp vanilla
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

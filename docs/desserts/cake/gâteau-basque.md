@@ -16,26 +16,28 @@ hero: assets/images/gâteau-basque.webp
 |:-----------------------: |
 | 1.28 hours |
 
-## :salt: Ingredients - Shortcrust
+## :salt: Ingredients
 
-- :ear_of_rice: 200 g all-purpose flour
-- :dash: 12 g baking powder
-- :candy: 130 g granulated sugar
-- :butter: 140 g diced cold butter
-- :lemon: some lemon zest
-- :egg: 4 egg yolks
+=== "Shortcrust"
 
-## :salt: Ingredients - Pastry Cream
+    - :ear_of_rice: 200 g all-purpose flour
+    - :dash: 12 g baking powder
+    - :candy: 130 g granulated sugar
+    - :butter: 140 g diced cold butter
+    - :lemon: some lemon zest
+    - :egg: 4 egg yolks
 
-- :glass_of_milk: 250 ml milk
-- :icecream: 0.5 vanilla bean
-- :candy: 60 g granulated sugar
-- :egg: 4 egg yolks
-- :ear_of_rice: 10 g all-purpose flour
-- :corn: 15 g cornstarch
-- :butter: 20 g butter
-- :tumbler_glass: 1 tsp rum (optional)
-- :egg: 1 egg
+=== "Pastry Cream"
+
+    - :glass_of_milk: 250 ml milk
+    - :icecream: 0.5 vanilla bean
+    - :candy: 60 g granulated sugar
+    - :egg: 4 egg yolks
+    - :ear_of_rice: 10 g all-purpose flour
+    - :corn: 15 g cornstarch
+    - :butter: 20 g butter
+    - :tumbler_glass: 1 tsp rum (optional)
+    - :egg: 1 egg
 
 ## :cooking: Cookware
 

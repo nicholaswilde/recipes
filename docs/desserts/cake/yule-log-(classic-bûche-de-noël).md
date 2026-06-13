@@ -16,36 +16,38 @@ hero: assets/images/yule-log-(classic-bûche-de-noël).jpg
 |:-----------------------: |
 | 1 hour 12 minutes |
 
-## :salt: Ingredients - Frosting
+## :salt: Ingredients
 
-- :chocolate_bar: 170 g semisweet chocolate
-- :icecream: 170 g heavy cream
-- :salt: 0.13 tsp salt
-- :icecream: 1 tsp vanilla
-- :butter: 85 g unsalted butter
+=== "Frosting"
 
-## :salt: Ingredients - Cake
+    - :chocolate_bar: 170 g semisweet chocolate
+    - :icecream: 170 g heavy cream
+    - :salt: 0.13 tsp salt
+    - :icecream: 1 tsp vanilla
+    - :butter: 85 g unsalted butter
 
-- :egg: 5 large eggs
-- :candy: 99 g granulated sugar
-- :salt: 0.5 tsp salt
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 60 g all-purpose flour
-- :chocolate_bar: 28 g unsweetened cocoa powder
-- :corn: 3 Tbsp cornstarch
-- :coffee: 1 tsp espresso powder (optional)
-- :dash: 1 tsp baking powder
-- :carrot: 50 g vegetable oil
-- :butter: 85 g buttermilk
+=== "Cake"
 
-## :salt: Ingredients - Filling
+    - :egg: 5 large eggs
+    - :candy: 99 g granulated sugar
+    - :salt: 0.5 tsp salt
+    - :icecream: 1 tsp vanilla
+    - :ear_of_rice: 60 g all-purpose flour
+    - :chocolate_bar: 28 g unsweetened cocoa powder
+    - :corn: 3 Tbsp cornstarch
+    - :coffee: 1 tsp espresso powder (optional)
+    - :dash: 1 tsp baking powder
+    - :carrot: 50 g vegetable oil
+    - :butter: 85 g buttermilk
 
-- :icecream: 1 cup heavy cream
-- :icecream: 2 tsp vanilla
-- :candy: 17 g granulated sugar
-- :rice: 1 tsp Instant ClearJel
-- :cheese_wedge: 170 g mascarpone
-- :candy: some confectioners' sugar (optional)
+=== "Filling"
+
+    - :icecream: 1 cup heavy cream
+    - :icecream: 2 tsp vanilla
+    - :candy: 17 g granulated sugar
+    - :rice: 1 tsp Instant ClearJel
+    - :cheese_wedge: 170 g mascarpone
+    - :candy: some confectioners' sugar (optional)
 
 ## :cooking: Cookware
 
