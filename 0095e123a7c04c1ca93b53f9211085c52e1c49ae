@@ -1,0 +1,4 @@
+Task: Convert identified recipes in docs/cookies-and-bars/ and docs/desserts/ to use content tabs
+Summary: Batch converted 15 cookies/bars recipe files and 48 dessert recipe files to use content tabs for ingredients sections containing multiple components or variations.
+Modified files: 63 files in docs/cookies-and-bars/ and docs/desserts/
+Why: Enhance organization, save vertical space, and keep formatting consistent with the newly established Markdown style guide.
