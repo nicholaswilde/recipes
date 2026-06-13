@@ -2,7 +2,7 @@
 
 This track converts identified recipes to use Content Tabs for their multiple ingredients sections.
 
-## Phase 1: High Priority & Foundation
+## Phase 1: High Priority & Foundation [checkpoint: ff2fa37]
 - [x] Convert `docs/desserts/martha-stewarts-new-york-style-cheesecake.md` to use tabs (9 Inch vs 10 Inch) (d38acad)
 - [x] Convert `docs/ingredients/post-baking-glazes/royal-icing.md` to use tabs (Fresh vs Powdered Egg Whites) (25aebc3)
 - [x] Establish a clear pattern/standard for tab implementation (e.g., indentation, header nesting) (f8840e9)
