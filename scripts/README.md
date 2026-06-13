@@ -13,6 +13,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
 | `scripts/list-ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
+| `scripts/lint-changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
+| `scripts/git-summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 
 ---
 
@@ -95,3 +97,19 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [lib/libbash](lib/libbash)
 
 * **Description**: Sourced library containing common helper functions used across bash scripts in this repository. Includes utilities for terminal output, logging, version info, checking system commands, and parsing recipe file attributes.
+
+---
+
+### 5. Token-Saving Tools for AI Agents
+
+#### [lint-changed.py](lint-changed.py)
+
+* **Usage**: `python3 scripts/lint-changed.py` or `task lint-changed`
+* **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown and YAML
+  files in the git workspace, running the appropriate linters only on those files to save context tokens.
+
+#### [git-summary.py](git-summary.py)
+
+* **Usage**: `python3 scripts/git-summary.py` or `task git-summary`
+* **Description**: Prints a highly compact, token-efficient summary of branch status, modified files stat,
+  and the last commit, avoiding verbose git status and git diff outputs.
