@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-
+  - favorite
   - side
   - the-gracias-madre-cookbook
 hero: assets/images/gracias-madre-black-beans.webp
