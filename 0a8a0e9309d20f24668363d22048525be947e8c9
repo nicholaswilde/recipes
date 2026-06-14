@@ -1,0 +1,7 @@
+Task: Update Agent Skill Documentation & Update Scripts Registry
+Summary of changes: Updated .agents/skills/import-recipe.md to instruct agents to use the unified import orchestrator script scripts/import_recipe_workflow.py. Documented the script in .agents/skills/scripts-registry.md and scripts/README.md.
+Created/modified files:
+- .agents/skills/import-recipe.md
+- .agents/skills/scripts-registry.md
+- scripts/README.md
+Why: To ensure that agents and developers have clear, up-to-date documentation on how to use the recipe import workflow orchestrator.
