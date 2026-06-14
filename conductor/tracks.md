@@ -2,8 +2,7 @@
 
 This file tracks all major tracks for the project. Each track has its own detailed plan in its respective folder.
 
-
-- [ ] **Track: Implement scripts/whitelist_typos.py to automatically whitelist
+- [x] **Track: Implement scripts/whitelist_typos.py to automatically whitelist
   words in dictionary.txt, sort the dictionary, and regenerate the typos configuration.**
 *Link: [./tracks/auto_dictionary_whitelister/](./tracks/auto_dictionary_whitelister/)*
 
