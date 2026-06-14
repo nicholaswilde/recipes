@@ -2,12 +2,12 @@
 
 ## Phase 1: Implementation & Validation
 
-- [ ] Task: Create `scripts/whitelist_typos.py`
-    - [ ] Implement CLI argument parsing for list of words.
-    - [ ] Implement appending, sorting (`sort -u`), and saving logic for `dictionary.txt`.
-    - [ ] Trigger execution of `scripts/generate_typos_config.py` programmatically or via subprocess.
-- [ ] Task: Write Tests
-    - [ ] Add unit tests verifying words are correctly inserted, deduplicated, sorted, and config is regenerated.
-- [ ] Task: Update Scripts Registry
-    - [ ] Document the script's usage in `scripts-registry.md`.
+- [x] Task: Create `scripts/whitelist_typos.py` (78fe480)
+    - [x] Implement CLI argument parsing for list of words.
+    - [x] Implement appending, sorting (`sort -u`), and saving logic for `dictionary.txt`.
+    - [x] Trigger execution of `scripts/generate_typos_config.py` programmatically or via subprocess.
+- [x] Task: Write Tests (78fe480)
+    - [x] Add unit tests verifying words are correctly inserted, deduplicated, sorted, and config is regenerated.
+- [x] Task: Update Scripts Registry (4b225d9)
+    - [x] Document the script's usage in `scripts-registry.md`.
 - [ ] Task: Conductor - User Manual Verification
