@@ -1,0 +1,6 @@
+Task: Research & Update Ingredient Weights
+Summary of Changes: Retrieved King Arthur Baking Ingredient Weight Chart, merged the new conversions alphabetically into the Ingredient Weight Chart in docs/reference/measuring.md, formatted ounces with hyphens, ran linter checks, and wrote unit tests verifying the table correctness and sorting.
+Created/Modified Files:
+- docs/reference/measuring.md
+- scripts/test_measuring_table.py
+Why: To provide an expanded reference of ingredient weight conversions to help cooking and unit conversion accuracy.
