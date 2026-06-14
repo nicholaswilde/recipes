@@ -1,0 +1,8 @@
+Phase: Phase 1: Implementation & Validation
+Automated Test Command: CI=true uv run pytest
+Manual Verification Steps:
+1. Ran uv run scripts/scrape_to_cook.py with Greek Lemon Potatoes recipe URL.
+2. Verified Greek Lemon Potatoes.cook and Greek Lemon Potatoes.jpg were created under cook/sides/.
+3. Verified metadata headers, tagged ingredients/cookware, and time range format in .cook file.
+4. Cleaned up created files.
+User Confirmation: Received explicit approval ('yes') on 2026-06-14T00:23:29-07:00.
