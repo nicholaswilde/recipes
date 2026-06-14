@@ -1,0 +1,8 @@
+{
+  "track_id": "triage_recipe_backlog",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-06-14T07:50:00Z",
+  "updated_at": "2026-06-14T07:50:00Z",
+  "description": "Import and triage open recipe backlog issues #1378 and #1379 using the new orchestrator workflow."
+}
