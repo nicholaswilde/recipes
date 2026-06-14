@@ -1,0 +1,6 @@
+Task: Create scripts/import_recipe_workflow.py & Write Tests
+Summary of changes: Implemented scripts/import_recipe_workflow.py to orchestrate the entire single recipe import process (scraping, moving, emoji matching, unit conversion, spellchecking, and whitelisting) in a single CLI command. Added unit tests in scripts/test_import_recipe_workflow.py verifying argument parsing, URL processing, and GitHub issue extraction.
+Created/modified files:
+- scripts/import_recipe_workflow.py
+- scripts/test_import_recipe_workflow.py
+Why: To automate the recipe import pipeline, reducing agent token usage and trajectory length.
