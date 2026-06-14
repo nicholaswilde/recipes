@@ -17,6 +17,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/git-summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
+| `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
 
 ---
 
@@ -45,6 +46,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: A specialized batch utility script that organizes and relocates recipes within
   the `sides` and `sauces-and-dressings` categories to their nested subdirectories (e.g.,
   `potatoes`, `vinaigrettes`, `salsas`), maintaining both the `.cook` files and compiled markdown docs.
+
+#### [scrape_to_cook.py](scrape_to_cook.py)
+
+* **Usage**: `uv run scripts/scrape_to_cook.py <URL> [--category <category_override>]`
+* **Description**: Scrapes a recipe webpage, extracts its metadata, ingredients, and instructions, and compiles
+  them into a properly structured CookLang `.cook` file while downloading the recipe's hero image.
 
 ---
 

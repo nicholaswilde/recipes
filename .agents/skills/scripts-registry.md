@@ -54,6 +54,22 @@ To batch-relocate sides and sauces to nested subfolders based on filename mappin
   uv run scripts/move_and_verify.py
   ```
 
+#### Scrape Recipe Webpage to Cooklang
+
+To automatically scrape a recipe from a URL, extract its title, servings, times, ingredients, and instructions,
+and compile it into a CookLang `.cook` file while downloading the hero image:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/scrape_to_cook.py <URL> [--category <category_override>]
+  ```
+
+* **Under the Hood**: Attempts to extract JSON-LD recipe schema (`schema.org/Recipe`). If no JSON-LD schema is found,
+  falls back to WordPress Recipe Maker (WPRM) HTML class extraction. It parses ISO 8601 durations, formats
+  ingredients/cookware/time-ranges to CookLang syntax, automatically downloads the hero image, and auto-categorizes
+  the recipe into subfolders of `cook/`.
+
 ---
 
 ### 2. Auto-Fixers & Formatting
