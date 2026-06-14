@@ -1,0 +1,6 @@
+Task: Document in Scripts Registry
+Summary of changes: Added documentation for the new scripts/scrape_to_cook.py recipe scraper in both scripts/README.md and the .agents/skills/scripts-registry.md file, detailing usage and extraction processes.
+Created/modified files:
+- scripts/README.md
+- .agents/skills/scripts-registry.md
+Why: To ensure developer clarity and register the new automation tool in project registries.
