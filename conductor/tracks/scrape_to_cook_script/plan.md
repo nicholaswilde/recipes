@@ -12,4 +12,4 @@
       sites (e.g. RecipeTin Eats, The Plant Based School).
 - [x] Task: Document in Scripts Registry (62b55cf)
     - [x] Document the script's usage in `scripts-registry.md`.
-- [~] Task: Conductor - User Manual Verification
+- [x] Task: Conductor - User Manual Verification (6a9167b)
