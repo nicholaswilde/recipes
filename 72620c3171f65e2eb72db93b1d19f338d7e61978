@@ -1,0 +1,4 @@
+Task: Migrate sides/grains-and-legumes/couscous.md to Zensical tabs
+Changes: Converted plain ingredients list and the servings table to Zensical tabs (Serves 4, Serves 6, Serves 8), scaling ingredients appropriately.
+Modified files: docs/sides/grains-and-legumes/couscous.md
+Why: Improve readability and clean up vertical space on the recipe page.
