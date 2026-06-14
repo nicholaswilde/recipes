@@ -57,6 +57,7 @@ repository following the established recipe import workflow.
       - Run the sort task (`task sort`) to clean and organize the dictionary.
       - Re-run `task spellcheck-file` to automatically regenerate the `_typos.toml` configuration and
         verify that the file is clean.
+    - Run the global spellcheck task (`task spellcheck`) and fix any issues before concluding.
 
 ## GitHub CLI (`gh`) Guidelines
 
