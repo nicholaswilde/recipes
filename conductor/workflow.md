@@ -8,6 +8,10 @@
 4. **High Code Coverage:** Aim for >80% code coverage for all modules
 5. **User Experience First:** Every decision should prioritize user experience
 6. **Non-Interactive & CI-Aware:** Prefer non-interactive commands. Use `CI=true` for watch-mode tools (tests, linters) to ensure single execution.
+7. **Consult the Scripts Registry:** Before implementing manual edits, imports, relocations, formatting, or
+   checks, agents must read the scripts registry ([scripts-registry.md](file:///.agents/skills/scripts-registry.md))
+   to see if there are automated scripts available to handle the task.
+
 
 ## Task Workflow
 
