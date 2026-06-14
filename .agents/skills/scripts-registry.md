@@ -110,7 +110,37 @@ To convert all JPEGs to WebP, optimize PNGs, and update all Markdown recipe refe
   bash scripts/optimize-images.sh [category]
   ```
 
-* **Under the Hood**: Invokes [scripts/optimize-images.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/optimize-images.sh), which converts JPEGs to `.webp` (using `cwebp` with a Python Pillow fallback to salvage truncated/corrupted JPEGs), deletes the original files, updates all Markdown recipe references, and runs `oxipng` to optimize PNG files.
+* **Under the Hood**: Invokes [scripts/optimize-images.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/optimize-images.sh),
+  which converts JPEGs to `.webp` (using `cwebp` with a Python Pillow fallback to salvage truncated/corrupted JPEGs),
+  deletes the original files, updates all Markdown recipe references, and runs `oxipng` to optimize PNG files.
+
+#### Scale and Add Recipe Sizes
+
+To scale recipe ingredients by a factor and append them as a new Zensical tab (e.g. `=== "Double"` or `=== "Half"`):
+
+* **Protocol**:
+
+  ```bash
+  uv run python3 scripts/add_recipe_size.py <recipe_path> <scale_factor> "<tab_name>"
+  ```
+
+* **Under the Hood**: Invokes [scripts/add_recipe_size.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add_recipe_size.py),
+  which automatically converts plain ingredients lists to Zensical tabs (extracting the original serving size from the
+  top metadata table and removing the serves column from the table) or appends the tab to existing tabs.
+
+#### Adjust Recipe Metadata and Frontmatter
+
+To dynamically adjust metadata, add/remove tags, or update frontmatter keys in a recipe markdown file:
+
+* **Protocol**:
+
+  ```bash
+  uv run python3 scripts/adjust_recipe_metadata.py <recipe_path> [options]
+  ```
+
+* **Under the Hood**: Invokes [scripts/adjust_recipe_metadata.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/adjust_recipe_metadata.py),
+  which uses PyYAML to parse and modify frontmatter (e.g., adding/removing tags, setting `comments` flags or
+  `hero` image paths) while preserving the Markdown body.
 
 ---
 
