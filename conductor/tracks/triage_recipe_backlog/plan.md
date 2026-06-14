@@ -4,7 +4,7 @@
 
 - [x] Task: Import Issue #1378 (04cd23d)
     - [ ] Run orchestrator script: `uv run scripts/import_recipe_workflow.py 1378 sides`
-- [ ] Task: Import Issue #1379
+- [x] Task: Import Issue #1379 (294ef0a)
     - [ ] Run orchestrator script: `uv run scripts/import_recipe_workflow.py 1379 sides`
 - [ ] Task: Verify Build
     - [ ] Run `zensical build` and verify that the site compiles without warnings or errors.
