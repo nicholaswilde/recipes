@@ -1,6 +1,6 @@
 # Implementation Plan - Recipe Webpage to CookLang Parser Script
 
-## Phase 1: Implementation & Validation
+## Phase 1: Implementation & Validation [checkpoint: 40e2ae30]
 
 - [x] Task: Create `scripts/scrape_to_cook.py` (6a9167b)
     - [x] Set up HTML fetching and BeautifulSoup/JSON-LD parsing.
