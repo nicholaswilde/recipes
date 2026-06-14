@@ -179,6 +179,14 @@ tasks:
     desc: Move recipes markdown file and image, FILES.
     cmds:
       - ./scripts/move.sh {{shellQuote .FILES }}
+  import-recipe:
+    desc: Import a recipe from a URL or GitHub issue number.
+    cmds:
+      - uv run scripts/import_recipe_workflow.py {{shellQuote .URL}} {{if .CATEGORY}}{{shellQuote .CATEGORY}}{{end}}
+  whitelist-typo:
+    desc: Whitelist words in the typos dictionary and rebuild config.
+    cmds:
+      - uv run scripts/whitelist_typos.py {{.WORDS}}
   hyperlink-ingredient:
     desc: Hyperlink an ingredient in a recipe markdown file
     cmds:
