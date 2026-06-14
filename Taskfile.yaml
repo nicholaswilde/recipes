@@ -13,6 +13,10 @@ tasks:
     desc: Check recipes for missing iamges.
     cmds:
       - 'uv run scripts/check_missing_images.py'
+  check-missing-sources:
+    desc: Find recipes missing a source section.
+    cmds:
+      - 'uv run scripts/find_missing_sources.py'
   build:
     desc: Build the static site
     cmds:

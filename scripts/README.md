@@ -20,6 +20,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
 | `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
+| `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
 
 ---
 
@@ -58,7 +59,10 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [import_recipe_workflow.py](import_recipe_workflow.py)
 
 * **Usage**: `uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]`
-* **Description**: Orchestrates the entire single recipe import pipeline: scrapes a recipe URL or extracts it from a GitHub issue, moves it to the appropriate category, runs emoji verification and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with auto-whitelisting for proper nouns).
+* **Description**: Orchestrates the entire single recipe import pipeline: scrapes a recipe URL or
+  extracts it from a GitHub issue, moves it to the appropriate category, runs emoji verification
+  and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with
+  auto-whitelisting for proper nouns).
 
 ---
 
@@ -146,6 +150,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `uv run scripts/sync_giscus_comments.py`
 * **Description**: Queries GitHub Discussions via `gh api` to locate recipes with active comments,
   automatically setting `comments: true` in their front-matter.
+
+#### [find_missing_sources.py](find_missing_sources.py)
+
+* **Usage**: `uv run scripts/find_missing_sources.py` or `task check-missing-sources`
+* **Description**: Scans all markdown recipe files under `docs/` (excluding configuration, index, and reference files)
+  to identify those missing a Source/Sources heading.
 
 ---
 
