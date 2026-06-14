@@ -11,6 +11,8 @@ hero: assets/images/spring-fruit-tart-pie.png
 
 # :pie: Spring Fruit Tart Pie
 
+![Spring Fruit Tart Pie][3]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4-6 | 20 minutes |
@@ -80,3 +82,5 @@ Sprinkle confectioners' sugar (optional) for an added touch.
 
 [1]: <../../ingredients/lemon-curd.md>
 [2]: <../../ingredients/sweetened-whipped-cream.md>
+
+[3]: <../../assets/images/spring-fruit-tart-pie.png>

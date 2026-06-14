@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - vegan
-hero: assets/images/whipped-almond-[Ricotta](../../ingredients/ricotta.md).webp
+hero: assets/images/whipped-almond-ricotta.webp
 ---
 
-# :chestnut: Whipped Almond [Ricotta](../../ingredients/ricotta.md)
+# :chestnut: Whipped Almond [ricotta](../../ingredients/ricotta.md)
 
-![Whipped Almond Ricotta](../../assets/images/whipped-almond-ricotta.webp){ loading=lazy }
+![Whipped Almond ricotta](../../assets/images/whipped-almond-ricotta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

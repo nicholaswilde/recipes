@@ -4,7 +4,9 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/oatmeal-raisin-energy-balls.webp
 ---
+
 # Oatmeal Raisin Energy Balls
 
 ![Oatmeal Raisin Energy Balls][1]{ loading=lazy }
@@ -49,4 +51,3 @@ roll it into a ball. Enjoy right away or store in an airtight container in the r
 - <https://theplantbasedschool.com/oatmeal-raisin-energy-balls/>
 
 [1]: <../assets/images/oatmeal-raisin-energy-balls.webp>
-

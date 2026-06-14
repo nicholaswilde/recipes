@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/key-lime-pie-energy-balls.webp
 ---
 
 # Key Lime Pie Energy Balls

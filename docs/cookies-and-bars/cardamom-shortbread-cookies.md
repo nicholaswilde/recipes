@@ -6,7 +6,10 @@ tags:
   - dessert
 hero: assets/images/cardamom-shortbread-cookies.jpg
 ---
+
 # Cardamom Shortbread Cookies
+
+![Cardamom Shortbread Cookies][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -15,18 +18,21 @@ hero: assets/images/cardamom-shortbread-cookies.jpg
 ## :salt: Ingredients
 
 ### Cardamom Shortbread
+
 - :butter: 1 cup (226 g) salted butter, softened
 - :candy: 1/2 cup (60 g) powdered sugar
 - :seedling: 1 tsp (2 g) freshly ground cardamom
 - :bread: 1 3/4 cups (228 g) all-purpose flour
 
 ### Orange Glaze
+
 - :candy: 1 cup (120 g) powdered sugar
 - :tangerine: 1 Tbsp (15 ml) orange juice
 - :glass_of_milk: 1 Tbsp (15 ml) milk
 - :tangerine: orange zest, to decorate (optional)
 
 ## :cooking: Cookware
+
 - :cookie: baking sheet
 - :page_facing_up: parchment paper
 - :spoon: spatula
@@ -75,3 +81,4 @@ on a rack until dry.
 
 - <https://stateofdinner.com/cardamom-shortbread-cookies-recipe/>
 
+[1]: <../assets/images/cardamom-shortbread-cookies.jpg>

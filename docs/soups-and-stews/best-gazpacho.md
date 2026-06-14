@@ -3,7 +3,9 @@ comments: true
 tags:
   - soup
   - stew
+hero: assets/images/best-gazpacho.webp
 ---
+
 # :tomato: Best Gazpacho
 
 ![Best Gazpacho][1]{ loading=lazy }

@@ -4,7 +4,9 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/irene's-cretan-biscuits.webp
 ---
+
 # Irene's Cretan Biscuits
 
 ![Irene's Cretan Biscuits][1]{ loading=lazy }
@@ -89,4 +91,3 @@ Cool for 5 minutes on the tray then transfer onto a wire rack to fully cool.
 - <https://www.recipetineats.com/cretan-biscuits-greek-almond-cookies/>
 
 [1]: <../assets/images/irene's-cretan-biscuits.webp>
-

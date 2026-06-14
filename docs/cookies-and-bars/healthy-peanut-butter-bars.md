@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/healthy-peanut-butter-bars.webp
 ---
 
 # Healthy Peanut Butter Bars

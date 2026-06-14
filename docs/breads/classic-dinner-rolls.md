@@ -2,7 +2,9 @@
 comments: true
 tags:
   - bread
+hero: assets/images/classic-dinner-rolls.webp
 ---
+
 # Classic Dinner Rolls
 
 ![Classic Dinner Rolls][1]{ loading=lazy }
@@ -80,4 +82,3 @@ them cool in the pan for 10 minutes before serving.
 - <https://www.jessicagavin.com/classic-dinner-rolls/>
 
 [1]: <../assets/images/classic-dinner-rolls.webp>
-

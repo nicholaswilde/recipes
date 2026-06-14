@@ -9,6 +9,8 @@ hero: assets/images/brown-butter-chocolate-chunk-cookies.webp
 
 # :cookie: Brown Butter Chocolate Chunk Cookies
 
+![Brown Butter Chocolate Chunk Cookies][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 15 | 47 minutes |
@@ -98,3 +100,5 @@ sheet pans. Store the cookies wrapped at room temperature for 1 to 2 days or in 
 ## :link: Source
 
 - <https://cupofjo.com/2023/04/12/brown-butter-chocolate-chunk-cookies/>
+
+[1]: <../assets/images/brown-butter-chocolate-chunk-cookies.webp>

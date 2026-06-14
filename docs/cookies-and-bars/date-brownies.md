@@ -4,7 +4,9 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/date-brownies.webp
 ---
+
 # :chocolate_bar: Date Brownies
 
 ![Date Brownies][1]{ loading=lazy }
@@ -63,4 +65,3 @@ Pour the batter into the prepared pan, top with extra dark chocolate chips and f
 - <https://theplantbasedschool.com/date-brownies/>
 
 [1]: <../assets/images/date-brownies.webp>
-

@@ -8,6 +8,8 @@ hero: assets/images/sonoran-salad.webp
 
 # :green_salad: Sonoran Salad
 
+![Sonoran Salad][3]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 45 minutes |
@@ -58,3 +60,5 @@ Top with black cumin (optional).
 
 [1]: <../sides/grains-and-legumes/quinoa.md>
 [2]: <../ingredients/black-beans.md>
+
+[3]: <../assets/images/sonoran-salad.webp>

@@ -8,7 +8,9 @@ tags:
   - dairy-free
   - mushrooms
   - weeknight
+hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 ---
+
 # Coconut-Braised Mushrooms With Ginger and Scallions
 
 ![Coconut-Braised Mushrooms With Ginger and Scallions][1]{ loading=lazy }
@@ -57,4 +59,3 @@ Divide braised mushrooms among shallow bowls and top with scallions (thinly slic
 - <https://www.bonappetit.com/recipe/coconut-braised-mushrooms-with-ginger-and-scallions>
 
 [1]: <../assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp>
-

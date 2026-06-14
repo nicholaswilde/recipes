@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/chile-crisp-fettuccine-alfredo-with-spinach.webp
 ---
+
 # :spaghetti: Chile Crisp Fettuccine Alfredo With Spinach
 
 ![Chile Crisp Fettuccine Alfredo With Spinach][1]{ loading=lazy }

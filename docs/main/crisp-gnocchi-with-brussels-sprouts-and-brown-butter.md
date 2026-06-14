@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/crisp-gnocchi-with-brussels-sprouts-and-brown-butter.webp
 ---
+
 # :spaghetti: Crisp Gnocchi With Brussels Sprouts and Brown Butter
 
 ![Crisp Gnocchi With Brussels Sprouts and Brown Butter][1]{ loading=lazy }
@@ -57,4 +59,3 @@ salt and a generous amount of black pepper, and cook, stirring, until the butter
 - <https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter>
 
 [1]: <../assets/images/crisp-gnocchi-with-brussels-sprouts-and-brown-butter.webp>
-

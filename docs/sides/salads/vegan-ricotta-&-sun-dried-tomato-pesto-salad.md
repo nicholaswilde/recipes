@@ -2,11 +2,12 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-[Ricotta](../../ingredients/ricotta.md)-&-sun-dried-tomato-pesto-salad.jpg
+hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 ---
-# Vegan [Ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
 
-![Vegan Ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
+# Vegan [ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
+
+![Vegan ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -14,7 +15,7 @@ hero: assets/images/vegan-[Ricotta](../../ingredients/ricotta.md)-&-sun-dried-to
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 0.75 cup (170 g) [Whipped Almond Ricotta][2]
+- :cheese_wedge: 0.75 cup (170 g) [Whipped Almond ricotta][2]
 - :herb: 0.5 cup (115 g) [pesto][3]
 - :leafy_green: 6 cups (180 g) mixed greens or spinach
 - :tomato: 0.5 cup (85 g) sun-dried tomatoes
@@ -30,7 +31,7 @@ hero: assets/images/vegan-[Ricotta](../../ingredients/ricotta.md)-&-sun-dried-to
 
 ### Step 1
 
-Start by preparing Whipped Almond [Ricotta](../../ingredients/ricotta.md) (follow link for instructions). Then set in refrigerator until serving.
+Start by preparing Whipped Almond [ricotta](../../ingredients/ricotta.md) (follow link for instructions). Then set in refrigerator until serving.
 
 ### Step 2
 
@@ -39,7 +40,7 @@ Next prepare pesto dressing (follow link for instructions). Then cover and set i
 ### Step 3
 
 To plate, arrange mixed greens or spinach on a serving platter (or bowl) and top with sun-dried tomatoes, pine nuts, and
-cooked chickpeas. Dollop on spoonfuls of almond [Ricotta](../../ingredients/ricotta.md) and drizzle with vegan pesto. You can also squeeze with fresh
+cooked chickpeas. Dollop on spoonfuls of almond [ricotta](../../ingredients/ricotta.md) and drizzle with vegan pesto. You can also squeeze with fresh
 lemon juice (optional) for extra flavor and moisture.
 
 ### Step 4
@@ -54,4 +55,3 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 [2]: <../../sauces-and-dressings/dips-and-spreads/whipped-almond-ricotta.md>
 [3]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/basic-pesto.md>
 [5]: <../../ingredients/chickpeas.md>
-

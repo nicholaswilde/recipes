@@ -2,7 +2,9 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/vegetarian-gochujang-paste.webp
 ---
+
 # :hot_pepper: Vegetarian Gochujang Paste
 
 ![Vegetarian Gochujang Paste][1]{ loading=lazy }

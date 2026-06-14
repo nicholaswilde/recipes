@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/snickers-energy-balls.webp
 ---
 
 # Snickers Energy Balls

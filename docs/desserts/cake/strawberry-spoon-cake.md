@@ -3,7 +3,9 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/strawberry-spoon-cake.webp
 ---
+
 # :cake: Strawberry Spoon Cake
 
 ![Strawberry Spoon Cake][1]{ loading=lazy }

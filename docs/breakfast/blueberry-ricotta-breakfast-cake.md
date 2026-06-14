@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/blueberry-[Ricotta](../ingredients/ricotta.md)-breakfast-cake.png
+hero: assets/images/blueberry-ricotta-breakfast-cake.png
 ---
 
-# Blueberry [Ricotta](../ingredients/ricotta.md) Breakfast Cake
+# Blueberry [ricotta](../ingredients/ricotta.md) Breakfast Cake
 
-![Blueberry Ricotta Breakfast Cake][2]{ loading=lazy }
+![Blueberry ricotta Breakfast Cake][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,7 +19,7 @@ hero: assets/images/blueberry-[Ricotta](../ingredients/ricotta.md)-breakfast-cak
 - :butter: 10 tbsp unsalted butter
 - :candy: 1 cup (198 g) granulated sugar
 - :egg: 3 eggs
-- :cheese_wedge: 1 cup whole-milk [Ricotta](../ingredients/ricotta.md)
+- :cheese_wedge: 1 cup whole-milk [ricotta](../ingredients/ricotta.md)
 - :rice: 2 tbsp sour cream
 - :icecream: 1 tsp pure vanilla extract
 - :lemon: 1 tsp grated lemon zest
@@ -46,8 +46,9 @@ Preheat the oven to 350 degrees. Grease and flour a 9-inch round springform pan,
 
 Place the unsalted butter and granulated sugar in the bowl of an electric mixer fitted with the paddle attachment and
 beat on medium speed for 3 minutes, until light and fluffy, scraping down the sides of the bowl as needed. With the
-mixer on low, add the eggs one at a time, mixing well after each addition. Add the whole-milk [Ricotta](../ingredients/ricotta.md), sour cream, pure
-vanilla extract, and grated lemon zest and mix well. (The batter will look curdled.)
+mixer on low, add the eggs one at a time, mixing well after each addition. Add the whole-milk
+[ricotta](../ingredients/ricotta.md), sour cream, pure vanilla extract, and grated lemon zest and mix well.
+(The batter will look curdled.)
 
 ### Step 3
 

@@ -2,7 +2,9 @@
 comments: true
 tags:
   - sauce
+hero: assets/images/chile-crisp.webp
 ---
+
 # :hot_pepper: Chile Crisp
 
 ![Chile Crisp](../../assets/images/chile-crisp.webp){ loading=lazy }

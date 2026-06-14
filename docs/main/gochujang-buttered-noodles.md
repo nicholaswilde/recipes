@@ -7,7 +7,9 @@ tags:
   - korean-inspired
   - eric-kim
   - quick-and-easy
+hero: assets/images/gochujang-buttered-noodles.webp
 ---
+
 # Gochujang Buttered Noodles
 
 ![Gochujang Buttered Noodles][1]{ loading=lazy }
@@ -67,4 +69,3 @@ pepper. Top with the cilantro or scallions (if using) and serve immediately.
 - <https://cooking.nytimes.com/recipes/1024066-gochujang-buttered-noodles>
 
 [1]: <../assets/images/gochujang-buttered-noodles.webp>
-

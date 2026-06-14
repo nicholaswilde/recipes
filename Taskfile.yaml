@@ -10,7 +10,7 @@ vars:
 
 tasks:
   check-missing-images:
-    desc: Check recipes for missing iamges.
+    desc: Check recipes for missing images.
     cmds:
       - 'uv run scripts/check_missing_images.py'
   check-missing-sources:

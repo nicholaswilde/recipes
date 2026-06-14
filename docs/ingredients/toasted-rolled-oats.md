@@ -3,9 +3,12 @@ comments: true
 tags:
 
   - ingredient
+hero: assets/images/toasted-rolled-oats.webp
 ---
 
 # :ear_of_rice: Toasted Rolled Oats
+
+![Toasted Rolled Oats][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -37,3 +40,5 @@ Remove from the oven and let cool completely before using.
 !!! tip
 
     Keep a close eye on the oats during the last few minutes as they can go from golden to burnt quickly.
+
+[1]: <../assets/images/toasted-rolled-oats.webp>

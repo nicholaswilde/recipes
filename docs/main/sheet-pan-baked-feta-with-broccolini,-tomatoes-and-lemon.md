@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/sheet-pan-baked-feta-with-broccolini,-tomatoes-and-lemon.webp
 ---
+
 # :shallow_pan_of_food: Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon
 
 ![Sheet-Pan Baked Feta With Broccolini, Tomatoes and Lemon][1]{ loading=lazy }

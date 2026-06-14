@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/date-energy-balls.webp
 ---
 
 # Date Energy Balls

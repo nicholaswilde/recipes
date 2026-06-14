@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/lemon-energy-balls.webp
 ---
 
 # Lemon Energy Balls
