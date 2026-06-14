@@ -1,0 +1,8 @@
+Task: Create scripts/scrape_to_cook.py & Write Unit Tests
+Summary of changes: Implemented scripts/scrape_to_cook.py to fetch and parse recipe pages (via JSON-LD schema or WPRM BeautifulSoup fallback). Added ISO 8601 duration parsing, CookLang ingredient formatting, and time range mapping to standard rules. Added unit tests covering all helpers and HTML scraping scenarios in scripts/test_scrape_to_cook.py, and updated pyproject.toml dependencies to include beautifulsoup4 and pytest.
+Created/modified files:
+- scripts/scrape_to_cook.py
+- scripts/test_scrape_to_cook.py
+- pyproject.toml
+- uv.lock
+Why: To automate the ingestion of recipe webpages and compile them directly to CookLang formats, saving significant import time.
