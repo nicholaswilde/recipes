@@ -1,0 +1,8 @@
+Task: Update scripts/check-recipe-emojis.py with --fix Flag & Write Tests
+Summary of changes: Added a --fix CLI flag to check-recipe-emojis.py that calculates similarity of missing ingredients/cookware references using word overlap and edit-distance similarity, writes them back into the proper categories in includes/emoji.yaml, and automatically runs task emoji-sort to maintain formatting. Wrote unit tests for CLI functionality, similarity mapping, and dry-run validation, and updated documentation in scripts/README.md and .agents/skills/scripts-registry.md.
+Created/modified files:
+- scripts/check-recipe-emojis.py
+- scripts/test_check_recipe_emojis.py
+- scripts/README.md
+- .agents/skills/scripts-registry.md
+Why: To automate the process of adding missing emojis to includes/emoji.yaml, saving manual editing time and reducing errors.
