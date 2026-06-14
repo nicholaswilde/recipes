@@ -8,4 +8,4 @@
     - [x] Edit the markdown file to insert the conversions into the tables and sort them.
 - [x] Task: Verify Formatting & Linting (9b22d33)
     - [x] Run `rumdl check docs/reference/measuring.md` to ensure correct formatting and style.
-- [ ] Task: Conductor - User Manual Verification
+- [x] Task: Conductor - User Manual Verification (9b22d33)
