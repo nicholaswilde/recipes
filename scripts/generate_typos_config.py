@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 import os
 
+DICTIONARY_PATH = "dictionary.txt"
+TYPOS_TOML_PATH = "_typos.toml"
+
 def main():
-    dict_path = "dictionary.txt"
-    config_path = "_typos.toml"
+    dict_path = globals().get("DICTIONARY_PATH", DICTIONARY_PATH)
+    config_path = globals().get("TYPOS_TOML_PATH", TYPOS_TOML_PATH)
     
     exclusions = [
         "docs/assets/images/**",
