@@ -7,9 +7,11 @@ This skill automates and documents the process of converting multi-serving/batch
 
 ## Protocol
 1. **Identify Candidate Files:**
-   - Scan the `docs/` folder for files containing more than one occurrence of the Serves table header: `| :fork_and_knife_with_plate: Serves |` (or minor spacing variations).
-   - Also search for files containing wording like `full batch`, `half batch`, or `double batch` (case-insensitive) in headers, table contents, or recipe text to locate other recipes offering multiple batch sizes.
-   - Filter out files where the multiple tables represent distinct components of a single recipe (e.g. Dough vs. Filling vs. Glaze) rather than separate batch/serving sizes of the same recipe.
+   - Run the automated multi-serving script:
+     ```bash
+     uv run scripts/identify_multi_serving.py
+     ```
+   - Verify if the multiple tables represent separate batch/serving sizes rather than distinct components (like Dough and Glaze).
 2. **Determine Tab Names:**
    - Use `Full Batch` and `Half Batch` (Title Case) for recipes defined in batches (e.g. `1/2 Batch`, `2 loaves`, `2 dozen large muffins`).
    - Use `serves X` (lowercase `serves`) where `X` is a numeric count or range of servings (e.g. `serves 6`, `serves 12`).
