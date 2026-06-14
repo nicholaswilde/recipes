@@ -70,6 +70,18 @@ and compile it into a CookLang `.cook` file while downloading the hero image:
   ingredients/cookware/time-ranges to CookLang syntax, automatically downloads the hero image, and auto-categorizes
   the recipe into subfolders of `cook/`.
 
+#### Recipe Import Workflow Orchestrator
+
+To orchestrate the entire recipe import process (scraping, moving, emoji matching, unit conversion, spellchecking, and whitelisting) in a single command execution:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]
+  ```
+
+* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check-recipe-emojis.py --fix` to verify emojis, `scripts/convert-recipe-units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
+
 ---
 
 ### 2. Auto-Fixers & Formatting

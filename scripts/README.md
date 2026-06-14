@@ -18,6 +18,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
+| `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 
 ---
@@ -53,6 +54,11 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `uv run scripts/scrape_to_cook.py <URL> [--category <category_override>]`
 * **Description**: Scrapes a recipe webpage, extracts its metadata, ingredients, and instructions, and compiles
   them into a properly structured CookLang `.cook` file while downloading the recipe's hero image.
+
+#### [import_recipe_workflow.py](import_recipe_workflow.py)
+
+* **Usage**: `uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]`
+* **Description**: Orchestrates the entire single recipe import pipeline: scrapes a recipe URL or extracts it from a GitHub issue, moves it to the appropriate category, runs emoji verification and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with auto-whitelisting for proper nouns).
 
 ---
 
