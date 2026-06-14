@@ -10,9 +10,9 @@ hero: assets/images/quinoa.webp
 
 ![Quinoa][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 25 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 25 minutes |
 
 ## :salt: Ingredients
 

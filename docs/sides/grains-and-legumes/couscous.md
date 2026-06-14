@@ -11,9 +11,9 @@ hero: assets/images/couscous.webp
 
 ![Couscous][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 10 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 10 minutes |
 
 ## :salt: Ingredients
 
