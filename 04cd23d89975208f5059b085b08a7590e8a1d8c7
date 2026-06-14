@@ -1,0 +1,11 @@
+Task: Import Issue #1378
+Summary of Changes: Imported 'Ginger and Garlic Green Beans' recipe. Transcribed ingredients and preparation steps into CookLang, compiled to Markdown, ran unit conversions, verified lints and spelling, updated emoji registry and menu index, and added a TDD verification test.
+Created/Modified Files:
+- cook/sides/vegetables/Ginger and Garlic Green Beans.cook
+- cook/sides/vegetables/Ginger and Garlic Green Beans.jpg
+- docs/assets/images/ginger-and-garlic-green-beans.webp
+- docs/sides/vegetables/ginger-and-garlic-green-beans.md
+- includes/emoji.yaml
+- zensical.toml
+- scripts/test_recipe_1378.py
+Why: To import the backlog recipe from issue #1378 using standard workflow procedures.
