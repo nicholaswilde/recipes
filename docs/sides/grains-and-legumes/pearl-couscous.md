@@ -18,7 +18,7 @@ hero: assets/images/pearl-couscous.webp
 
 - :olive: 2 Tbsp olive oil
 - :shallow_pan_of_food: 1 cup pearl couscous
-- :stew: 1.5 cups water or vegetable broth
+- :stew: 1.5 cups water or [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some kosher salt
 - :herb: 0.25 cup parsley (optional)
 - :lemon: 1 lemon zest (optional)
@@ -36,7 +36,7 @@ pearl couscous and toss around to toast (the couscous pearls should turn a nice 
 
 ### Step 2
 
-Boil 1.5 cups of water or vegetable broth and add it to the toasted pearl couscous. Season with kosher salt.
+Boil 1.5 cups of water or [Vegetable Broth](../../ingredients/vegetable-broth.md) and add it to the toasted pearl couscous. Season with kosher salt.
 
 ### Step 3
 

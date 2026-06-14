@@ -51,7 +51,7 @@ In a food processor, pulverize the cooked lentils into mush.
 
 ### Step 2
 
-Put them in a mixing bowl, and add the lightly beaten eggs, Ricotta, grated Parmesan, minced 1 clove of garlic, minced
+Put them in a mixing bowl, and add the lightly beaten eggs, [Ricotta](../ingredients/ricotta.md), grated Parmesan, minced 1 clove of garlic, minced
 fennel seed, chopped parsley, thyme, salt, and pepper.
 
 ### Step 3

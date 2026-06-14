@@ -23,7 +23,7 @@ hero: assets/images/applied-homemade-vegetarian-gravy.webp
 - :carrot: 0.5 cup carrot
 - :garlic: 3 cloves garlic
 - :ear_of_rice: 0.75 cup (90 g) all-purpose flour
-- :stew: 6 cups vegetable broth
+- :stew: 6 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some salt
 - :salt: some pepper
 
@@ -49,7 +49,7 @@ Stir in the all-purpose flour and cook for an additional 4 minutes, or until the
 
 ### Step 5
 
-Gradually add the vegetable broth while stirring to avoid lumps.
+Gradually add the [Vegetable Broth](../../ingredients/vegetable-broth.md) while stirring to avoid lumps.
 
 ### Step 6
 

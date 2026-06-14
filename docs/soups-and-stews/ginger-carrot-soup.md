@@ -30,7 +30,7 @@ hero: assets/images/ginger-carrot-soup.webp
 - :sweet_potato: 2 tsp ground dried ginger
 - :salt: some kosher salt
 - :coconut: 1 13.5-oz can full-fat coconut milk
-- :stew: 4 cups (907 g) vegetable broth
+- :stew: 4 cups (907 g) [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :hot_pepper: some chili oil
 
 ## :cooking: Cookware
@@ -50,7 +50,7 @@ minutes.
 
 ### Step 2
 
-Add the full-fat coconut milk and vegetable broth. Bring to a boil, then lower the heat to a simmer and season to taste
+Add the full-fat coconut milk and [Vegetable Broth](../ingredients/vegetable-broth.md). Bring to a boil, then lower the heat to a simmer and season to taste
 with salt (the exact amount depends on how salty your broth is). Cover the pot and cook until the carrots are incredibly
 tender, about 20 minutes.
 

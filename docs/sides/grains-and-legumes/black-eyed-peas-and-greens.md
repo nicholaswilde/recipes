@@ -21,7 +21,7 @@ hero: assets/images/black-eyed-peas-and-greens.webp
 - :bell_pepper: 1 medium (142 g) red bell pepper
 - :garlic: 3 cloves garlic
 - :curry: 1.25 cups (219 g) dry black eyed peas
-- :stew: 3.5 cups (795 g) vegetable broth
+- :stew: 3.5 cups (795 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :fallen_leaf: 2 bay leaves
 - :hot_pepper: 2 tsp smoked paprika
 - :hot_pepper: 0.25 tsp cayenne pepper
@@ -51,7 +51,7 @@ Add red bell pepper (diced) and minced garlic and sauté for 1 minute, then pres
 
 ### Step 3
 
-Add all remaining ingredients except collard greens: dry black eyed peas, vegetable broth, bay leaves, smoked paprika,
+Add all remaining ingredients except collard greens: dry black eyed peas, [Vegetable Broth](../../ingredients/vegetable-broth.md), bay leaves, smoked paprika,
 cayenne pepper, coconut aminos, liquid smoke, sea salt and pepper. Stir to combine.
 
 ### Step 4

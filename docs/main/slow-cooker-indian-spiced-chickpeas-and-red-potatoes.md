@@ -49,7 +49,7 @@ Add coriander, cumin, garam masala, ginger, turmeric, red pepper flakes, and sal
 
 ### Step 3
 
-Add diced tomatoes, [Tomato Paste](../ingredients/tomato-paste.md), and vegetable broth. Stir until combined.
+Add diced tomatoes, [Tomato Paste](../ingredients/tomato-paste.md), and [Vegetable Broth](../ingredients/vegetable-broth.md). Stir until combined.
 
 ### Step 4
 

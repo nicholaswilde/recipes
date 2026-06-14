@@ -50,7 +50,7 @@ Add dry marsala wine and cook until it evaporates.
 
 ### Step 4
 
-Add remaining vegetable broth and season with salt and pepper to taste.
+Add remaining [Vegetable Broth](../../ingredients/vegetable-broth.md) and season with salt and pepper to taste.
 
 ### Step 5
 

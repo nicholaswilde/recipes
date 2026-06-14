@@ -38,7 +38,7 @@ more baking sheets.
 
 ### Step 2
 
-Chop off and discard the fennel stalks and fronds (or save for making vegetable broth). Then slice the fennel bulb in
+Chop off and discard the fennel stalks and fronds (or save for making [Vegetable Broth](../../ingredients/vegetable-broth.md)). Then slice the fennel bulb in
 half through the core and cut out and discard the triangular core from each half. Thinly slice both halves of the fennel
 bulb — 1 large bulb should yield about 2.5 cups or 200 g sliced.
 

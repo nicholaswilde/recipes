@@ -25,7 +25,7 @@ hero: assets/images/flaky-buttery-crescent-rolls.webp
 - :candy: 2 tsp (8 g) granulated sugar
 - :tea: 2 tsp (6 g) instant yeast
 - :butter: 20 Tbsp (283 g) unsalted butter, cold, divided
-- :cheese_wedge: 1 1/2 cups (340 g) ricotta cheese, full-fat or part-skim
+- :cheese_wedge: 1 1/2 cups (340 g) [Ricotta](../ingredients/ricotta.md) cheese, full-fat or part-skim
 
 ### Topping
 - :egg: 1 large egg, beaten
@@ -46,7 +46,7 @@ Whisk together the **flour**, **salt**, **baking powder**, **sugar**, and **yeas
 
 ### Step 2
 
-Cut the cold **butter** into pats. Add half to the flour mixture and mix until the butter is in pea-sized bits. Add the **ricotta** and mix until the dough comes together. Add the remaining **butter** and mix briefly, ensuring it remains in pea-sized chunks.
+Cut the cold **butter** into pats. Add half to the flour mixture and mix until the butter is in pea-sized bits. Add the **[Ricotta](../ingredients/ricotta.md)** and mix until the dough comes together. Add the remaining **butter** and mix briefly, ensuring it remains in pea-sized chunks.
 
 ### Step 3
 

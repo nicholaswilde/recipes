@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/italian-sausage-with-grits-&-tomatoes.webp
 ---
+
 # Italian Sausage with Grits & Tomatoes
 
 ![Italian Sausage with Grits & Tomatoes][1]{ loading=lazy }
@@ -32,7 +33,7 @@ hero: assets/images/italian-sausage-with-grits-&-tomatoes.webp
 
 ### Step 1
 
-In a saucepan, bring vegetable broth and milk to a boil.
+In a saucepan, bring [Vegetable Broth](../ingredients/vegetable-broth.md) and milk to a boil.
 
 ### Step 2
 
@@ -52,4 +53,3 @@ Serve over grits with chopped halved cherry tomatoes and parsley.
 
 [1]: <../assets/images/italian-sausage-with-grits-&-tomatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

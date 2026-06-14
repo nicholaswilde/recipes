@@ -4,10 +4,10 @@ tags:
 
   - sauce
   - vegan
-hero: assets/images/whipped-almond-ricotta.webp
+hero: assets/images/whipped-almond-[Ricotta](../../ingredients/ricotta.md).webp
 ---
 
-# :chestnut: Whipped Almond Ricotta
+# :chestnut: Whipped Almond [Ricotta](../../ingredients/ricotta.md)
 
 ![Whipped Almond Ricotta](../../assets/images/whipped-almond-ricotta.webp){ loading=lazy }
 

@@ -26,7 +26,7 @@ hero: assets/images/mushroom-gravy.jpg
 - :herb: 1 tsp rosemary
 - :wine_glass: 0.5 cup dry white wine
 - :broccoli: 3 cups cauliflower florets
-- :stew: 2 cups vegetable broth
+- :stew: 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: 0.5 tsp salt
 - :salt: some pepper
 - :microbe: 2 Tbsp nutritional yeast
@@ -60,7 +60,7 @@ Make a purée from steamed cauliflower florets.
 
 ### Step 5
 
-Add the cauliflower purée, vegetable broth, sea salt, black pepper, and nutritional yeast.
+Add the cauliflower purée, [Vegetable Broth](../../ingredients/vegetable-broth.md), sea salt, black pepper, and nutritional yeast.
 
 ### Step 7
 

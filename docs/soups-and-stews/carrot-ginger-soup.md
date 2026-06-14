@@ -27,7 +27,7 @@ hero: assets/images/carrot-ginger-soup.webp
 - :sweet_potato: 2 Tbsp fresh ginger
 - :sweet_potato: 1 tsp ground ginger
 - :garlic: 3 cloves garlic
-- :stew: 4 cups (908 g) vegetable broth
+- :stew: 4 cups (908 g) [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :apple: 1 Tbsp apple cider vinegar
 - :rice: some cashew cream or sour cream
 - :seedling: some pumpkin seeds
@@ -57,7 +57,7 @@ Add the garlic cloves (chopped) and cook, stirring, for 1 minute.
 
 ### Step 4
 
-Pour in the vegetable broth and bring it to a boil. Then reduce the heat to a simmer and cook for 20 minutes to 30
+Pour in the [Vegetable Broth](../ingredients/vegetable-broth.md) and bring it to a boil. Then reduce the heat to a simmer and cook for 20 minutes to 30
 minutes, or until the carrots are tender.
 
 ### Step 5

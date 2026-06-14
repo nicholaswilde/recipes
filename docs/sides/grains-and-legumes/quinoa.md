@@ -23,7 +23,7 @@ hero: assets/images/quinoa.webp
 ## :salt: Ingredients
 
 - :rice: 1 cup quinoa
-- :stew: 1.75 cups vegetable broth
+- :stew: 1.75 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 ## :cooking: Cookware
 
@@ -38,7 +38,7 @@ Rinse the quinoa.
 
 ### Step 2
 
-Combine the quinoa and vegetable broth in a medium pot. Bring to a boil, cover, reduce the heat, and simmer for 15
+Combine the quinoa and [Vegetable Broth](../../ingredients/vegetable-broth.md) in a medium pot. Bring to a boil, cover, reduce the heat, and simmer for 15
 minutes.
 
 ### Step 3

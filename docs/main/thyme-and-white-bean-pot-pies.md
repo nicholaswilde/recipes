@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/thyme-and-white-bean-pot-pies.webp
 ---
+
 # Thyme and White Bean Pot Pies
 
 ![Thyme and White Bean Pot Pies][1]{ loading=lazy }
@@ -58,7 +59,7 @@ to thoroughly coat.
 
 ### Step 4
 
-Cook for 1 minute, then slowly add dry white wine (optional) followed by vegetable broth, whisking to prevent clumps.
+Cook for 1 minute, then slowly add dry white wine (optional) followed by [Vegetable Broth](../ingredients/vegetable-broth.md), whisking to prevent clumps.
 
 ### Step 5
 
@@ -123,4 +124,3 @@ Store leftovers covered in the refrigerator for 3 to 4 days, or in the freezer u
 
 [1]: <../assets/images/thyme-and-white-bean-pot-pies.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

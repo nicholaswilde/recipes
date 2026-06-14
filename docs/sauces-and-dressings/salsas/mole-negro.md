@@ -7,6 +7,7 @@ tags:
   - vegan
 hero: assets/images/mole-negro.webp
 ---
+
 # Mole Negro
 
 ![Mole Negro](../../assets/images/mole-negro.webp){ loading=lazy }
@@ -34,7 +35,7 @@ hero: assets/images/mole-negro.webp
 - :hot_pepper: 10 dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
 - :hot_pepper: 5 dried pasilla chiles, seeds and veins removed and reserved
 - :hot_pepper: 3 dried guajillo chiles, seeds and veins removed and reserved
-- :stew: 2.5 cups (567 g) vegetable broth
+- :stew: 2.5 cups (567 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :bread: 0.5 cup (21 g) torn bread pieces (like ciabatta or baguette)
 - :bread: 0.5 cup torn corn tortilla pieces
 - :butter: 3 Tbsp (42 g) vegan butter
@@ -72,7 +73,7 @@ Wipe out the pan. Add the reserved veins and seeds from the chiles. Toast over m
 
 ### Step 5
 
-To the #blender, add the :stew: vegetable broth, :bread: torn bread pieces (like ciabatta or baguette), :bread: torn corn tortilla pieces, :butter: vegan butter, :grapes: raisins, :herb: fresh thyme leaves, :herb: fresh oregano leaves, and :herb: fresh marjoram. Blend until very smooth and creamy.
+To the #blender, add the :stew: [Vegetable Broth](../../ingredients/vegetable-broth.md), :bread: torn bread pieces (like ciabatta or baguette), :bread: torn corn tortilla pieces, :butter: vegan butter, :grapes: raisins, :herb: fresh thyme leaves, :herb: fresh oregano leaves, and :herb: fresh marjoram. Blend until very smooth and creamy.
 
 ### Step 6
 

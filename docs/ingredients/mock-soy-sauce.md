@@ -8,6 +8,7 @@ tags:
   - gluten-free
 hero: assets/images/mock-soy-sauce.webp
 ---
+
 # Mock Soy Sauce
 
 ![Mock Soy Sauce][1]{ loading=lazy }
@@ -18,7 +19,7 @@ hero: assets/images/mock-soy-sauce.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups (475 ml) vegetable broth or beef broth
+- :stew: 2 cups (475 ml) [Vegetable Broth](vegetable-broth.md) or beef broth
 - :honey_pot: 2 Tbsp (30 ml) balsamic vinegar
 - :apple: 1 Tbsp (15 ml) apple cider vinegar
 - :honey_pot: 1 Tbsp (20 g) dark molasses

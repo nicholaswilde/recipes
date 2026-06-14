@@ -16,7 +16,7 @@ hero: assets/images/good-gravy.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups vegetable broth
+- :stew: 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :takeout_box: 2.5 Tbsp tamari or other soy sauce
 - :herb: 1 Tbsp fresh thyme
 - :salt: some salt
@@ -33,7 +33,7 @@ hero: assets/images/good-gravy.webp
 
 ### Step 1
 
-In a small saucepan, combine the vegetable broth, tamari or other soy sauce, fresh thyme, and salt and pepper to taste
+In a small saucepan, combine the [Vegetable Broth](../../ingredients/vegetable-broth.md), tamari or other soy sauce, fresh thyme, and salt and pepper to taste
 and bring to a boil over high heat.
 
 ### Step 2

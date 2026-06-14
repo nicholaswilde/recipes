@@ -24,7 +24,7 @@ hero: assets/images/cannoli.png
 - :egg: 1 large whole egg
 - :egg: 1 egg yolk
 - :wine_glass: 0.5 cup marsala wine
-- :cheese_wedge: 16 oz ricotta
+- :cheese_wedge: 16 oz [Ricotta](../ingredients/ricotta.md)
 - :candy: 0.5 cup (99 g) confectioners' sugar
 - :icecream: 1 tsp vanilla
 
@@ -90,7 +90,7 @@ While the cannoli are cooling, make the filling.
 
 ### Step 11
 
-Add the strained ricotta, confectioners' sugar, and vanilla to a large bowl. Using a hand mixer, whip the ricotta until
+Add the strained [Ricotta](../ingredients/ricotta.md), confectioners' sugar, and vanilla to a large bowl. Using a hand mixer, whip the [Ricotta](../ingredients/ricotta.md) until
 it's fully combined and smooth. If desired, fold in chopped nuts or chocolate chips!
 
 ### Step 12

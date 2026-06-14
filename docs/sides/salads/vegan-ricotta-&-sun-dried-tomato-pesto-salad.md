@@ -2,9 +2,9 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
+hero: assets/images/vegan-[Ricotta](../../ingredients/ricotta.md)-&-sun-dried-tomato-pesto-salad.jpg
 ---
-# Vegan Ricotta & Sun-Dried Tomato Pesto Salad
+# Vegan [Ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
 
 ![Vegan Ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
 
@@ -30,7 +30,7 @@ hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 
 ### Step 1
 
-Start by preparing Whipped Almond Ricotta (follow link for instructions). Then set in refrigerator until serving.
+Start by preparing Whipped Almond [Ricotta](../../ingredients/ricotta.md) (follow link for instructions). Then set in refrigerator until serving.
 
 ### Step 2
 
@@ -39,7 +39,7 @@ Next prepare pesto dressing (follow link for instructions). Then cover and set i
 ### Step 3
 
 To plate, arrange mixed greens or spinach on a serving platter (or bowl) and top with sun-dried tomatoes, pine nuts, and
-cooked chickpeas. Dollop on spoonfuls of almond ricotta and drizzle with vegan pesto. You can also squeeze with fresh
+cooked chickpeas. Dollop on spoonfuls of almond [Ricotta](../../ingredients/ricotta.md) and drizzle with vegan pesto. You can also squeeze with fresh
 lemon juice (optional) for extra flavor and moisture.
 
 ### Step 4

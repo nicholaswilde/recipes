@@ -21,7 +21,7 @@ hero: assets/images/pea-purée.webp
 - :garlic: 2 cloves garlic
 - :garlic: 2 medium shallots
 - :green_circle: 2 lb frozen peas
-- :carrot: 2 cups vegetable broth
+- :carrot: 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: 0.25 tsp salt
 - :salt: 0.13 tsp white pepper
 - :herb: 1 handful mint (optional)
@@ -41,7 +41,7 @@ let them go golden.
 
 ### Step 2
 
-Cook peas: Add frozen peas and vegetable broth, increase heat to bring to simmer then cover and reduce heat to medium.
+Cook peas: Add frozen peas and [Vegetable Broth](../../ingredients/vegetable-broth.md), increase heat to bring to simmer then cover and reduce heat to medium.
 Simmer 2 minutes.
 
 ### Step 3

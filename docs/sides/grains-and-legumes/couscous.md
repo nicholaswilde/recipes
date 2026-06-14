@@ -17,7 +17,7 @@ hero: assets/images/couscous.webp
 
 ## :salt: Ingredients
 
-- :stew: 1 cup vegetable broth or water
+- :stew: 1 cup [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
 - :salt: 1 pinch kosher salt
 - :shallow_pan_of_food: 1 cup couscous
 - :olive: 2 Tbsp olive oil
@@ -43,7 +43,7 @@ hero: assets/images/couscous.webp
 
 ### Step 1
 
-In a saucepan, add vegetable broth or water. Add a drizzle of extra virgin olive oil and a pinch of kosher salt. Bring
+In a saucepan, add [Vegetable Broth](../../ingredients/vegetable-broth.md) or water. Add a drizzle of extra virgin olive oil and a pinch of kosher salt. Bring
 to a boil.
 
 ### Step 2

@@ -42,7 +42,7 @@ least 2 hours before proceeding. The dough is ready when it does not bounce back
 
 Pat and gently squeeze 8 ounces fresh mozzarella cheese dry with paper towels if water packed. Thinly slice. Place 1 cup
 whole-milk [ricotta cheese](../ingredients/ricotta.md) in a small bowl. Finely grate 1 ounce Pecorino Romano cheese (about 1/2 packed cup) or measure
-out 1/3 cup store-bought grated, add it to the bowl of ricotta, and stir to combine.
+out 1/3 cup store-bought grated, add it to the bowl of [Ricotta](../ingredients/ricotta.md), and stir to combine.
 
 ### Step 3
 
@@ -54,7 +54,7 @@ aside for garnish.
 
 Heat a pizza oven to 800ºF. Stretch or roll out one portion of dough on a lightly floured pizza peel into a rough 11 to
 12 inch round. Brush the dough round with 1 tablespoon of the garlic oil. Top evenly with half of the mozzarella and
-dollop all over with half of the ricotta mixture.
+dollop all over with half of the [Ricotta](../ingredients/ricotta.md) mixture.
 
 ### Step 5
 
@@ -67,7 +67,7 @@ oregano leaves over the top. Garnish with more red pepper flakes if desired.
 
 Place an upside-down baking sheet or pizza stone on the middle rack and heat the oven to 450ºF. Stretch or roll out one
 portion of dough on a sheet of parchment paper into a rough 11 to 12-inch round. Brush the dough round with 1 tablespoon
-of the garlic oil. Top evenly with half of the mozzarella and dollop all over with half of the ricotta mixture.
+of the garlic oil. Top evenly with half of the mozzarella and dollop all over with half of the [Ricotta](../ingredients/ricotta.md) mixture.
 
 ### Step 7
 

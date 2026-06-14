@@ -68,7 +68,7 @@ Add beans back into pot, with 2 cups bean juice.
 
 ### Step 8
 
-Add vegetable broth, diced onion, garlic, jalapeno pepper, finely diced green bell pepper and salt.
+Add [Vegetable Broth](../../ingredients/vegetable-broth.md), diced onion, garlic, jalapeno pepper, finely diced green bell pepper and salt.
 
 ### Step 9
 

@@ -43,7 +43,7 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 
 ### Step 1
 
-Make the polenta: Bring 6 cups vegetable broth and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in the
+Make the polenta: Bring 6 cups [Vegetable Broth](../ingredients/vegetable-broth.md) and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in the
 polenta, then turn the heat to low and simmer, stirring occasionally with a wooden spoon, until the polenta has
 thickened to your liking, 10 to 15 minutes. Off the heat, stir in the butter and nutritional yeast. Season to taste with
 salt and black pepper; cover and set aside.
@@ -67,7 +67,7 @@ Add the red wine and cook, stirring and scraping brown bits from the pan, until 
 
 ### Step 5
 
-Add the 1 cup vegetable broth, and bring to a simmer. Begin adding handfuls of curly kale, cooking and stirring until
+Add the 1 cup [Vegetable Broth](../ingredients/vegetable-broth.md), and bring to a simmer. Begin adding handfuls of curly kale, cooking and stirring until
 the kale wilts. Add 3/4 teaspoon salt and 1/4 teaspoon pepper and cook, stirring occasionally, until the liquid in the
 pan reduces and thickens, about 10 minutes.
 

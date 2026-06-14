@@ -23,7 +23,7 @@ hero: assets/images/refried-black-beans.webp
 - :hot_pepper: 0.5 tsp chili powder
 - :salt: 0.5 tsp black pepper
 - :herb: 1 tsp dried oregano
-- :stew: 5 cups vegetable broth
+- :stew: 5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some salt
 - :lemon: some lime juice
 

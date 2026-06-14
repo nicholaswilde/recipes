@@ -22,7 +22,7 @@ hero: assets/images/black-bean-corn-and-zucchini-enchiladas.webp
     - :oil_drum: 1 tsp canola oil
     - :onion: 0.5 cup diced red onion
     - :garlic: 1 tsp minced garlic
-    - :stew: 0.5 cup vegetable broth
+    - :stew: 0.5 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
     - :hot_pepper: 1 Tbsp chili powder
     - :honey_pot: 1 Tbsp honey
     - :herb: 1 tsp ground cumin
@@ -53,7 +53,7 @@ Preheat oven to 350°F.
 
 ### Step 2
 
-Prepare [enchilada sauce][2] by sautéing canola oil, diced red onion, minced garlic, vegetable broth, chili powder,
+Prepare [enchilada sauce][2] by sautéing canola oil, diced red onion, minced garlic, [Vegetable Broth](../ingredients/vegetable-broth.md), chili powder,
 honey, ground cumin, salt, and drained crushed tomatoes.
 
 ### Step 3

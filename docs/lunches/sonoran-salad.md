@@ -16,7 +16,7 @@ hero: assets/images/sonoran-salad.webp
 
 - :leafy_green: 4 pkgs shredded Brussels sprouts
 - :rice: 266 g dry [quinoa][1]
-- :stew: 300 g vegetable broth
+- :stew: 300 g [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :canned_food: 4 cans [black beans][2]
 - :leafy_green: some cilantro
 - :corn: 400 g corn
@@ -37,7 +37,7 @@ Preheat oven to 400°F. Roast shredded Brussels sprouts for 20 minutes.
 
 ### Step 2
 
-Cook dry [quinoa][1] in vegetable broth for 15 minutes.
+Cook dry [quinoa][1] in [Vegetable Broth](../ingredients/vegetable-broth.md) for 15 minutes.
 
 ### Step 3
 

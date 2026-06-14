@@ -51,7 +51,7 @@ Add [Tomato Paste](../ingredients/tomato-paste.md) and mix to combine. Then add 
 
 ### Step 5
 
-Add vegetable broth and TJ's Mushroom and Company Multipurpose umami seasoning and cook until thickened, about 5
+Add [Vegetable Broth](../ingredients/vegetable-broth.md) and TJ's Mushroom and Company Multipurpose umami seasoning and cook until thickened, about 5
 minutes.
 
 ### Step 6

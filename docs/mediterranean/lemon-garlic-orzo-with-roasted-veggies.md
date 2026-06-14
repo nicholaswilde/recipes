@@ -64,7 +64,7 @@ about 3 minutes or until golden.
 
 ### Step 5
 
-Add vegetable broth. Bring to a  simmer, turn down heat to low, cover and cook for 15 minutes. Remove from heat. Cover
+Add [Vegetable Broth](../ingredients/vegetable-broth.md). Bring to a simmer, turn down heat to low, cover and cook for 15 minutes. Remove from heat. Cover
 and set aside.
 
 ### Step 6

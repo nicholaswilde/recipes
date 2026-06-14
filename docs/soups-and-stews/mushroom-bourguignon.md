@@ -25,7 +25,7 @@ hero: assets/images/mushroom-bourguignon.webp
 - :onion: 1 small yellow onion, finely diced
 - :garlic: 2 cloves garlic, minced
 - :wine_glass: 1 cup full-bodied red wine
-- :stew: 2 cups beef or vegetable broth (beef is traditional, vegetable is vegetarian)
+- :stew: 2 cups beef or [Vegetable Broth](../ingredients/vegetable-broth.md) (beef is traditional, vegetable is vegetarian)
 - :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :herb: 1 tsp fresh thyme leaves (or 1/2 tsp dried)
 - :bread: 1 1/2 Tbsp all-purpose flour

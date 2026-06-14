@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/vegetarian-pot-pie.webp
 ---
+
 # Vegetarian Pot Pie
 
 ![Vegetarian Pot Pie][1]{ loading=lazy }
@@ -57,7 +58,7 @@ Then add in the carrots, potatoes, and celery. Sauté another 5 minutes to softe
 ### Step 4
 
 Stir in the all-purpose flour, fresh thyme, fresh rosemary, 1 teaspoon salt, and 1/2 teaspoon cracked black pepper. Make
-sure the flour is evenly coating all the vegetables. Then stir in the vegetable broth.
+sure the flour is evenly coating all the vegetables. Then stir in the [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 5
 
@@ -110,4 +111,3 @@ Once fully cooked and golden brown, remove the pie from the oven. Cool for 15 mi
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/pastry-dough/basic-pastry.md>
 [4]: <../ingredients/eggs.md>
-

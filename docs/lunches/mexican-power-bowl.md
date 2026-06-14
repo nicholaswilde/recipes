@@ -18,7 +18,7 @@ hero: assets/images/mexican-power-bowl.webp
 ## :salt: Ingredients
 
 - :beans: 2.5 cups [dried black beans][1]
-- :stew: 7 cups low-sodium vegetable broth
+- :stew: 7 cups low-sodium [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :onion: 1 large onion
 - :garlic: 6 cloves garlic
 - :herb: 2 tsp ground cumin
@@ -40,7 +40,7 @@ hero: assets/images/mexican-power-bowl.webp
 
 ### Step 1
 
-Combine the [dried black beans][1], low-sodium vegetable broth, diced large onion, minced garlic, ground cumin, dried
+Combine the [dried black beans][1], low-sodium [Vegetable Broth](../ingredients/vegetable-broth.md), diced large onion, minced garlic, ground cumin, dried
 Mexican oregano, smoked paprika and bay leaf in a slow cooker.
 
 ### Step 2

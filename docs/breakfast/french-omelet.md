@@ -32,7 +32,7 @@ hero: assets/images/french-omelet.webp
     - :eggplant: some [ratatouille provençale][1]
     - :mushroom: some creamed mushrooms
     - :avocado: some guacamole and salsa fresca
-    - :cheese_wedge: some ricotta or goat cheese mixed with tomatoes and herbs
+    - :cheese_wedge: some [Ricotta](../ingredients/ricotta.md) or goat cheese mixed with tomatoes and herbs
     - :olive: some chopped olives and sour cream
     - :mushroom: some duxelles
     - :onion: some caramelized onions
@@ -101,7 +101,7 @@ Glaze and garnish, if you wish, and serve at once.
 Herbs, such as chives and parsley or finely grated cheese may be added to the beaten eggs before cooking or more
 substantial fillings may be placed in the middle of the omelet just before it is rolled. Use 1/3 to 1/2 cup filling at
 room temperature for a 2 egg omelet. [ratatouille provençale][1], creamed mushrooms, guacamole and salsa fresca,
-ricotta or goat cheese mixed with tomatoes and herbs, chopped olives and sour cream, duxelles, caramelized onions, and
+[Ricotta](../ingredients/ricotta.md) or goat cheese mixed with tomatoes and herbs, chopped olives and sour cream, duxelles, caramelized onions, and
 sautéed zucchini or asparagus tips.
 
 ## :link: Source

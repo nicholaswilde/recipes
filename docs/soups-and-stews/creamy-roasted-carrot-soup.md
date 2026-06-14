@@ -23,7 +23,7 @@ hero: assets/images/creamy-roasted-carrot-soup.webp
 - :garlic: 2 cloves garlic
 - :herb: 0.5 tsp coriander
 - :custard: 0.25 tsp cumin
-- :stew: 4 cup vegetable broth
+- :stew: 4 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :droplet: 2 cup water
 - :butter: 1.5 Tbsp butter
 - :lemon: 1.5 tsp lemon juice
@@ -67,7 +67,7 @@ softened and turning translucent, 5 to 7 minutes.
 ### Step 6
 
 Add the garlic, coriander and cumin (if following a variation, see recipe notes for additions). Cook until fragrant
-while stirring constantly, about 30 seconds to 1 minute. Pour in the vegetable broth and water, while scraping up any
+while stirring constantly, about 30 seconds to 1 minute. Pour in the [Vegetable Broth](../ingredients/vegetable-broth.md) and water, while scraping up any
 browned bits on the bottom with a wooden spoon or sturdy silicone spatula.
 
 ### Step 7

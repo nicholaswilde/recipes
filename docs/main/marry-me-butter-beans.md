@@ -24,7 +24,7 @@ hero: assets/images/marry-me-butter-beans.webp
 - :hot_pepper: 0.5 tsp smoked paprika
 - :salt: 0.25 tsp ground black pepper
 - :tomato: 0.5 cup sun-dried tomatoes
-- :stew: 1 cup vegetable broth
+- :stew: 1 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :canned_food: 2 cans butter beans
 - :leafy_green: 1 cup fresh spinach
 - :glass_of_milk: 1 cup heavy cream
@@ -44,7 +44,7 @@ large saute pan over medium heat. Cook for about 2 minutes, until garlic is frag
 
 ### Step 2
 
-Stir in sun-dried tomatoes, vegetable broth, and butter beans. Continue cooking on medium, uncovered, for 5 minutes.
+Stir in sun-dried tomatoes, [Vegetable Broth](../ingredients/vegetable-broth.md), and butter beans. Continue cooking on medium, uncovered, for 5 minutes.
 
 ### Step 3
 

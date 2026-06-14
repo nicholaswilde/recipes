@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/slow-cooker-red-beans-and-rice.webp
 ---
+
 # Slow Cooker Red Beans and Rice
 
 ![Slow Cooker Red Beans and Rice][1]{ loading=lazy }
@@ -35,7 +36,7 @@ hero: assets/images/slow-cooker-red-beans-and-rice.webp
 
 ### Step 1
 
-Place red beans, onion, finely chopped, chopped green pepper, chopped celery, thyme, garlic, vegetable broth, bay leaf,
+Place red beans, onion, finely chopped, chopped green pepper, chopped celery, thyme, garlic, [Vegetable Broth](../ingredients/vegetable-broth.md), bay leaf,
 smoke paprika, and cayenne in a slow cooker.
 
 ### Step 2
@@ -56,4 +57,3 @@ Note: For brown rice, cook 2 more hours beyond the initial 4 to 5 hours.
 
 [1]: <../assets/images/slow-cooker-red-beans-and-rice.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

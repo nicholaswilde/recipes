@@ -4,10 +4,10 @@ tags:
 
   - dumpling
   - italian
-hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp
+hero: assets/images/spinach-and-[Ricotta](../ingredients/ricotta.md)-gnudi-with-tomato-butter-sauce.webp
 ---
 
-# :dumpling: Spinach & Ricotta Gnudi with Tomato-Butter Sauce
+# :dumpling: Spinach & [Ricotta](../ingredients/ricotta.md) Gnudi with Tomato-Butter Sauce
 
 ![Spinach and Ricotta Gnudi with Tomato-Butter Sauce][1]{ loading=lazy }
 
@@ -19,7 +19,7 @@ hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp
 
 ### Gnudi
 
-- :glass_of_milk: 1.5 cups whole-milk ricotta
+- :glass_of_milk: 1.5 cups whole-milk [Ricotta](../ingredients/ricotta.md)
 - :ear_of_rice: 0.5 cup all-purpose flour
 - :cheese_wedge: 1 oz Parmesan
 - :bread: 1 Tbsp panko
@@ -56,20 +56,20 @@ hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp
 
 !!! note
 
-    Ricotta without stabilizers such as locust bean, guar, and xanthan gums drains more readily. You can substitute
-    part-skim ricotta for the whole-milk ricotta. Frozen whole-leaf spinach is easiest to squeeze dry, but frozen chopped
+    [Ricotta](../ingredients/ricotta.md) without stabilizers such as locust bean, guar, and xanthan gums drains more readily. You can substitute
+    part-skim [Ricotta](../ingredients/ricotta.md) for the whole-milk [Ricotta](../ingredients/ricotta.md). Frozen whole-leaf spinach is easiest to squeeze dry, but frozen chopped
     spinach will work. Squeezing the spinach should remove 1/2 to 2/3 cup of liquid; you should have 2/3 cup of finely
     chopped spinach. Our tomato-butter sauce isn't strictly canonical; if you'd prefer a more traditional accompaniment,
     substitute our Simple Tomato Sauce or browned butter and fresh sage. Serve with a simple salad.
 
 ### Step 1
 
-FOR THE GNUDI: Line rimmed baking sheet with double layer of paper towels. Spread whole-milk ricotta in even layer over
+FOR THE GNUDI: Line rimmed baking sheet with double layer of paper towels. Spread whole-milk [Ricotta](../ingredients/ricotta.md) in even layer over
 towels; set aside and let sit for 10 minutes. Place all-purpose flour, Parmesan, panko, salt, pepper, and lemon zest in
 large bowl and stir to combine. Process frozen whole-leaf spinach in food processor until finely chopped, about 30
 seconds, scraping down sides of bowl as needed. Transfer spinach to bowl with flour mixture. Grasp paper towels and fold
-ricotta in half; peel back towels. Rotate sheet 90 degrees and repeat folding and peeling 2 more times to consolidate
-ricotta into smaller mass. Using paper towels as sling, transfer ricotta to bowl with spinach mixture. Discard paper
+[Ricotta](../ingredients/ricotta.md) in half; peel back towels. Rotate sheet 90 degrees and repeat folding and peeling 2 more times to consolidate
+[Ricotta](../ingredients/ricotta.md) into smaller mass. Using paper towels as sling, transfer [Ricotta](../ingredients/ricotta.md) to bowl with spinach mixture. Discard paper
 towels but do not wash sheet. Add egg whites to bowl and mix gently until well combined.
 
 ### Step 2

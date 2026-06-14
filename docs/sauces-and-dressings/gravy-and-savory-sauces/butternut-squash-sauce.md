@@ -61,7 +61,7 @@ Add the garlic until fragrant.
 
 ### Step 7
 
-Add the vegetable broth. Reduce the heat and simmer until the squash is soft and the liquid is reduced by half, about 15
+Add the [Vegetable Broth](../../ingredients/vegetable-broth.md). Reduce the heat and simmer until the squash is soft and the liquid is reduced by half, about 15
 to 20 minutes.
 
 ### Step 8

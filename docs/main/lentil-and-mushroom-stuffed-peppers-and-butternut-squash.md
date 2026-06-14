@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp
 ---
+
 # Lentil and Mushroom Stuffed Peppers and Butternut Squash
 
 ![Lentil and Mushroom Stuffed Peppers and Butternut Squash][1]{ loading=lazy }
@@ -57,7 +58,7 @@ hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.web
 ### Step 1
 
 Bake butternut squash at 425°F for 20 minutes, then puree with olive oil, salt, pepper, maple syrup, cayenne, goat
-cheese, and whole milk or vegetable broth.
+cheese, and whole milk or [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 2
 
@@ -72,7 +73,7 @@ to 15 minutes.
 ### Step 4
 
 For the filling, heat 1 Tbsp olive oil and saute yellow onion. Add chopped cremini mushrooms and continue cooking until
-mushrooms release their liquid, 6 to 8 minutes. Drain if necessary. Add garlic, cooked lentils, and vegetable broth and
+mushrooms release their liquid, 6 to 8 minutes. Drain if necessary. Add garlic, cooked lentils, and [Vegetable Broth](../ingredients/vegetable-broth.md) and
 heat through. Stir in cumin and vinegar.
 
 ### Step 5
@@ -87,4 +88,3 @@ side of slaw. Garnish with cilantro and toasted pepitas and crumbled goat cheese
 [1]: <../assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/lentils.md>
-

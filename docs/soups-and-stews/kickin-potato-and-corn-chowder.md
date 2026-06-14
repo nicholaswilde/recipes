@@ -17,7 +17,7 @@ hero: assets/images/kickin-potato-and-corn-chowder.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups vegetable broth
+- :stew: 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :glass_of_milk: 2 cups unsweetened soy milk
 - :corn: 1 tsp cornstarch
 - :bell_pepper: 2 whole poblanos peppers
@@ -43,7 +43,7 @@ hero: assets/images/kickin-potato-and-corn-chowder.webp
 
 ### Step 1
 
-Combine the vegetable broth and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
+Combine the [Vegetable Broth](../ingredients/vegetable-broth.md) and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
 incorporated with no lumps.
 
 ### Step 2

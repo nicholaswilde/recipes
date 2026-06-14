@@ -61,7 +61,7 @@ then cover and let stand for 15 minutes; remove the cloves and bay leaf, if used
 | Sauce   | Modification |
 |---------|--------------|
 | Mornay  | Add 1/2 cup grated cheese to 1 cup of hot sauce; stir over low heat until cheese is melted. Season with a little mustard or Worcestershire sauce to taste. |
-| Velouté | Substitute chicken, beef, fish, or vegetable broth for the milk. |
+| Velouté | Substitute chicken, beef, fish, or [Vegetable Broth](../../ingredients/vegetable-broth.md) for the milk. |
 | Herb    | Add 1 teaspoon of freshly chopped herbs or 1/2 teaspoon dried herbs to 1 cup of hot sauce. Cook for a minute or two longer to get more flavor from the herbs. |
 | Cream   | Add 2 or 3 tablespoons of heavy cream to the finished sauce. For an onion flavor, add an onion slice to the milk when heating; remove onion slice before adding milk to flour and butter mixture. |
 | Mustard | Combine 1 teaspoon dry mustard to flour used in sauce. This sauce is especially good with fish and chicken. |

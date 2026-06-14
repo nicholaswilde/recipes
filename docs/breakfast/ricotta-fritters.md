@@ -6,10 +6,10 @@ tags:
   - italian
   - vegetarian
   - recipe-box
-hero: assets/images/ricotta-fritters.webp
+hero: assets/images/[Ricotta](../ingredients/ricotta.md)-fritters.webp
 ---
 
-# :cheese_wedge: Ricotta Fritters
+# :cheese_wedge: [Ricotta](../ingredients/ricotta.md) Fritters
 
 ![Ricotta Fritters](../assets/images/ricotta-fritters.webp){ loading=lazy }
 
@@ -20,7 +20,7 @@ hero: assets/images/ricotta-fritters.webp
 ## :salt: Ingredients
 
 - :egg: 1 egg
-- :cheese_wedge: 14 oz ricotta
+- :cheese_wedge: 14 oz [Ricotta](../ingredients/ricotta.md)
 - :chestnut: 0.25 tsp nutmeg
 - :lemon: 1 lemon zest
 - :cheese_wedge: 1.5 oz Parmesan
@@ -36,7 +36,7 @@ hero: assets/images/ricotta-fritters.webp
 
 ### Step 1
 
-Mix egg, ricotta, nutmeg, lemon zest, Parmesan, and flour.
+Mix egg, [Ricotta](../ingredients/ricotta.md), nutmeg, lemon zest, Parmesan, and flour.
 
 ### Step 2
 

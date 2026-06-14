@@ -24,7 +24,7 @@ hero: assets/images/easy-vegan-ramen.webp
     - :garlic: 5 cloves garlic
     - :sweet_potato: 1 3-inch ginger
     - :onion: 1 medium yellow onion
-    - :stew: 6 cups vegetable broth
+    - :stew: 6 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
     - :sake: 2 Tbsp tamari or soy sauce
     - :mushroom: 0.5 oz dehydrated shiitake mushrooms
     - :oil_drum: 1 tsp sesame oil
@@ -57,13 +57,13 @@ onion has developed a slight sear (browned edges).
 
 ### Step 3
 
-Add 1 cup (240 ml // amount as original recipe is written // adjust if altering batch size) of the vegetable broth to
+Add 1 cup (240 ml // amount as original recipe is written // adjust if altering batch size) of the [Vegetable Broth](../ingredients/vegetable-broth.md) to
 deglaze the bottom of the pan. Use a whisk (or wooden spoon) to scrape up any bits that may have stuck to the bottom to
 enhance the flavor of the broth.
 
 ### Step 4
 
-Add remaining 5 cups (1200 ml // amount as original recipe is written // adjust if altering batch size) vegetable broth,
+Add remaining 5 cups (1200 ml // amount as original recipe is written // adjust if altering batch size) [Vegetable Broth](../ingredients/vegetable-broth.md),
 tamari or soy sauce, and dehydrated shiitake mushrooms - stir.
 
 ### Step 5

@@ -24,7 +24,7 @@ hero: assets/images/enchilada-sauce.jpg
 - :salt: 0.25 tsp salt
 - :custard: 1 pinch cinnamon (optional)
 - :tomato: 2 Tbsp [Tomato Paste](../../ingredients/tomato-paste.md)
-- :stew: 2 cup vegetable broth
+- :stew: 2 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :olive: 3 Tbsp olive oil
 - :sake: 1 tsp apple cider or distilled white vinegar
 - :salt: some black pepper
@@ -40,7 +40,7 @@ hero: assets/images/enchilada-sauce.jpg
 
 This sauce comes together quickly once you get started, so measure the dry ingredients (the all-purpose flour, chili
 powder, cumin, garlic powder, oregano, salt and cinnamon (optional)) into a small bowl and place it near the stove.
-Place the [Tomato Paste](../../ingredients/tomato-paste.md) and vegetable broth near the stove as well.
+Place the [Tomato Paste](../../ingredients/tomato-paste.md) and [Vegetable Broth](../../ingredients/vegetable-broth.md) near the stove as well.
 
 ### Step 2
 

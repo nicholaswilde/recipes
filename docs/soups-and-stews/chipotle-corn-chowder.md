@@ -17,7 +17,7 @@ hero: assets/images/chipotle-corn-chowder.webp
 
 ## :salt: Ingredients
 
-- :stew: 1.75 cups vegetable broth
+- :stew: 1.75 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :corn: 1.5 cups frozen corn
 - :bell_pepper: 1 cup green bell pepper
 - :bell_pepper: 1 cup red bell pepper
@@ -39,7 +39,7 @@ hero: assets/images/chipotle-corn-chowder.webp
 
 ### Step 1
 
-In a large saucepan, combine vegetable broth, frozen corn, chopped green bell pepper, chopped red bell pepper, sliced
+In a large saucepan, combine [Vegetable Broth](../ingredients/vegetable-broth.md), frozen corn, chopped green bell pepper, chopped red bell pepper, sliced
 carrots, cumin, and cayenne pepper.
 
 ### Step 2

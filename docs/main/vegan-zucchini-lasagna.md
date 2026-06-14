@@ -74,7 +74,7 @@ Pour about 1 cup (amount as original recipe is written // adjust if altering bat
 
 ### Step 9
 
-Scoop small spoonfuls amounts of ricotta mixture over the zucchini and gently spread into a thin layer. Spread on a
+Scoop small spoonfuls amounts of [Ricotta](../ingredients/ricotta.md) mixture over the zucchini and gently spread into a thin layer. Spread on a
 layer of marinara sauce and then top with more zucchini slices. Continue until all filling and zucchini are used up. The
 top two layers should be zucchini and then sauce. Sprinkle on vegan Parmesan cheese (optional), and then cover with
 foil.

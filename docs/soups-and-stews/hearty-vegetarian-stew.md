@@ -29,7 +29,7 @@ hero: assets/images/hearty-vegetarian-stew.webp
 - :mushroom: 0.5 lb mushrooms
 - :canned_food: 1 cup red kidney beans
 - :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :stew: 4 cups vegetable broth
+- :stew: 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :leafy_green: 2 Tbsp parsley
 
 ## :cooking: Cookware
@@ -48,7 +48,7 @@ around edges, about 5 minutes.
 
 Add chopped yellow onions and fresh thyme. Saute until onions are tender, about 2 minutes. Add minced garlic and saute
 for about 30 seconds, then add Marsala wine, halved mushrooms, red kidney beans, and [Tomato Paste](../ingredients/tomato-paste.md) and stir to combine.
-Add enough vegetable broth to cover squash.
+Add enough [Vegetable Broth](../ingredients/vegetable-broth.md) to cover squash.
 
 ### Step 3
 

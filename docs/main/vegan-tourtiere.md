@@ -77,7 +77,7 @@ mostly evaporated, 8 to 10 minutes.
 
 ### Step 7
 
-In a small jar or bowl, whisk vegetable broth with cornstarch until smooth.
+In a small jar or bowl, whisk [Vegetable Broth](../ingredients/vegetable-broth.md) with cornstarch until smooth.
 
 ### Step 8
 
@@ -86,7 +86,7 @@ pepper, dried sage, and ground cloves.
 
 ### Step 9
 
-Stir until mixture thickens. If it looks too dry, add more vegetable broth (up to 0.25 cups). Remove from heat.
+Stir until mixture thickens. If it looks too dry, add more [Vegetable Broth](../ingredients/vegetable-broth.md) (up to 0.25 cups). Remove from heat.
 
 ### Step 10
 

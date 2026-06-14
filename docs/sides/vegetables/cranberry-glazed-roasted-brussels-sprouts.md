@@ -26,7 +26,7 @@ hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.webp
 - :grapes: 0.5 cup fresh cranberries
 - :honey_pot: 1 Tbsp honey
 - :herb: 0.5 tsp thyme
-- :stew: 0.25 cup vegetable broth
+- :stew: 0.25 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :hotdog: 1 Tbsp Dijon mustard
 
 ## :cooking: Cookware
@@ -59,7 +59,7 @@ reduced to a thick syrup. Stir in fresh cranberries, honey, and thyme.
 
 ### Step 5
 
-Reduce heat and cook 6 minutes, until cranberries start to break down. Add the vegetable broth and bring to a boil.
+Reduce heat and cook 6 minutes, until cranberries start to break down. Add the [Vegetable Broth](../../ingredients/vegetable-broth.md) and bring to a boil.
 Reduce heat and simmer 15 minutes, until thick. Add the mixture to a blender with the Dijon mustard and purée mixture
 in a blender until smooth.
 

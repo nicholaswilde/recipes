@@ -57,7 +57,7 @@ hero: assets/images/quick-couscous-chickpea-salad.webp
 
 ### Step 1
 
-Cook whole wheat couscous in vegetable broth.
+Cook whole wheat couscous in [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 2
 

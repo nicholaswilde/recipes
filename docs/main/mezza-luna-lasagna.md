@@ -55,7 +55,7 @@ Empty [Alfredo sauce][2] into a sauce pan; warm over very low heat, just enough 
 
 Assemble lasagna: Coat the bottom of a 9"x 13" baking dish with a light layer of Alfredo sauce. Place four sheets of no
 boil lasagna noodles side by side and top them with more Alfredo sauce. Next, add squash in a single layer. Top squash
-with more Alfredo sauce and another layer of noodles. Top noodles with all of the ricotta-spinach mixture and smooth
+with more Alfredo sauce and another layer of noodles. Top noodles with all of the [Ricotta](../ingredients/ricotta.md)-spinach mixture and smooth
 out. Top with another layer of noodles, then Alfredo sauce and the last of the squash. Pour over the remainder of
 Alfredo sauce and top with Mozzarella cheese & Parmesan cheeses.
 

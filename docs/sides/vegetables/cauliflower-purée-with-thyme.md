@@ -17,7 +17,7 @@ hero: assets/images/cauliflower-purée-with-thyme.webp
 
 ## :salt: Ingredients
 
-- :stew: 1 cup vegetable broth
+- :stew: 1 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: 1 tsp salt
 - :broccoli: 2 lbs cauliflower
 - :butter: 1.5 Tbsp butter[^1]
@@ -35,13 +35,13 @@ hero: assets/images/cauliflower-purée-with-thyme.webp
 
 ### Step 1
 
-In a large pot, bring the vegetable broth and salt to a boil. Add the cauliflower; bring back to a boil. Cover, reduce
+In a large pot, bring the [Vegetable Broth](../../ingredients/vegetable-broth.md) and salt to a boil. Add the cauliflower; bring back to a boil. Cover, reduce
 the heat to low and steam for 15 to 20 minutes, or until cauliflower is very tender.
 
 ### Step 2
 
 Strain the cauliflower using a strainer then use a slotted spoon to transfer the cauliflower to a food processor. Add 3
-tablespoons of vegetable broth from the pot, along with the butter. Process until smooth.
+tablespoons of [Vegetable Broth](../../ingredients/vegetable-broth.md) from the pot, along with the butter. Process until smooth.
 
 ### Step 3
 

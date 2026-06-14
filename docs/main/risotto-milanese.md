@@ -38,7 +38,7 @@ hero: assets/images/risotto-milanese.webp
 
 ### Step 1
 
-Combine and let stand for 10 minutes saffron threads and hot vegetable broth.
+Combine and let stand for 10 minutes saffron threads and hot [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 2
 

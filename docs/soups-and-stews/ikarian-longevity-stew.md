@@ -25,7 +25,7 @@ hero: assets/images/ikarian-longevity-stew.webp
     - :salt: salt
     - :tomato: 1 large tomato
     - :tomato: 2 tsp [Tomato Paste](../ingredients/tomato-paste.md)
-    - :stew: some water or vegetable broth
+    - :stew: some water or [Vegetable Broth](../ingredients/vegetable-broth.md)
 
 === "serves 8"
 
@@ -39,7 +39,7 @@ hero: assets/images/ikarian-longevity-stew.webp
     - :salt: salt
     - :tomato: 2 large tomatoes
     - :tomato: 4 tsp [Tomato Paste](../ingredients/tomato-paste.md)
-    - :stew: 6 cups water or vegetable broth
+    - :stew: 6 cups water or [Vegetable Broth](../ingredients/vegetable-broth.md)
 
 ## :pencil: Instructions
 
@@ -50,7 +50,7 @@ soft (about 12 minutes). Add the black-eyed peas and toss to coat in the oil.
 
 ### Step 2
 
-Add the tomato, [Tomato Paste](../ingredients/tomato-paste.md) and enough water or vegetable broth to cover
+Add the tomato, [Tomato Paste](../ingredients/tomato-paste.md) and enough water or [Vegetable Broth](../ingredients/vegetable-broth.md) to cover
 the beans by about an inch. Add the bay leaves.
 Bring to a boil, reduce heat and simmer until the black-eyed peas are about half way cooked. (Check after 40 minutes,
 but it may take over an hour.)
@@ -65,7 +65,7 @@ Continue cooking until the black-eyed peas are tender. Remove, pour in remaining
 
 !!! tip "Slow Cooker"
 
-    If cooking in a slow cooker, double the recipe except for vegetable broth, use 6 cups. Cook on high for 9 hours.
+    If cooking in a slow cooker, double the recipe except for [Vegetable Broth](../ingredients/vegetable-broth.md), use 6 cups. Cook on high for 9 hours.
 
 ## :link: Sources
 

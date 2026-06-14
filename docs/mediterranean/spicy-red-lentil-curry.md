@@ -25,7 +25,7 @@ hero: assets/images/spicy-red-lentil-curry.webp
 - :carrot: 0.5 cup carrots
 - :hot_pepper: 0.5 tsp red curry paste
 - :tomato: 1 6-oz can [tomato paste][4]
-- :stew: 2 cups vegetable broth
+- :stew: 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :droplet: 1 cup (227 g) water
 - :maple_leaf: 2 Tbsp maple syrup
 - :herb: 0.5 tsp turmeric
@@ -57,12 +57,12 @@ Add red curry paste and sauté for 2 minutes, stirring frequently.
 
 ### Step 4
 
-Add [tomato paste][4], vegetable broth, water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
+Add [tomato paste][4], [Vegetable Broth](../ingredients/vegetable-broth.md), water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
 
 ### Step 5
 
 Bring to a simmer over medium heat, then reduce heat slightly to low (or medium-low), and gently simmer for 20 minutes,
-or until lentils are tender. Stir frequently to incorporate flavors, and add more vegetable broth as needed if the
+or until lentils are tender. Stir frequently to incorporate flavors, and add more [Vegetable Broth](../ingredients/vegetable-broth.md) as needed if the
 mixture becomes too thick.
 
 ### Step 6

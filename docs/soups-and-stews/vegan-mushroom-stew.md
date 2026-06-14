@@ -35,7 +35,7 @@ hero: assets/images/vegan-mushroom-stew.webp
 - :potato: 1 lb yellow potatoes
 - :curry: 1 cup split red lentils
 - :tomato: 1 15-oz can tomato sauce
-- :stew: 3 cups vegetable broth
+- :stew: 3 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :fallen_leaf: 2 bay leaves
 - :herb: some parsley
 
@@ -68,7 +68,7 @@ Deglaze with balsamic vinegar and soy sauce.
 
 ### Step 6
 
-Add yellow potatoes, split red lentils, tomato sauce, vegetable broth, and bay leaves.
+Add yellow potatoes, split red lentils, tomato sauce, [Vegetable Broth](../ingredients/vegetable-broth.md), and bay leaves.
 
 ### Step 7
 

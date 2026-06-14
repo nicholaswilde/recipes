@@ -51,7 +51,7 @@ frequently. Add a pinch of salt and pepper.
 
 ### Step 3
 
-Add thyme, dry green lentils, and 2 cups vegetable broth (480 ml // or the smaller end of the range if adjusting recipe
+Add thyme, dry green lentils, and 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md) (480 ml // or the smaller end of the range if adjusting recipe
 size). Bring to a low boil over medium-high heat. Once boiling, reduce heat to a simmer and cook on low for about 20
 minutes, adding more broth as needed if the mixture looks dry.
 
@@ -64,7 +64,7 @@ high heat and cook for 12 to 15 minutes or until they slide off easily when pier
 
 Once tender, drain potatoes and add back to pot or a mixing bowl. Season with salt, pepper, and a bit of olive oil and
 mash until tender and fluffy. For added moisture in place of oil, add 2 to 4 Tbsp unsweetened plain almond milk or
-vegetable broth (for moisture).
+[Vegetable Broth](../ingredients/vegetable-broth.md) (for moisture).
 
 ### Step 6
 
