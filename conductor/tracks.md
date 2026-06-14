@@ -8,12 +8,6 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [x] **Track: Import and triage open recipe backlog issues #1378 and #1379 using the
-  new orchestrator workflow.**
-*Link: [./tracks/triage_recipe_backlog/](./tracks/triage_recipe_backlog/)*
-
----
-
 - [ ] **Track: Expand the measurement conversions table in `docs/reference/measuring.md` to
   support more ingredients.**
 *Link: [./tracks/expand_measuring_reference/](./tracks/expand_measuring_reference/)*
