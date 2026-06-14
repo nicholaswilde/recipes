@@ -2,12 +2,13 @@
 
 ## Phase 1: Implementation & Validation
 
-- [ ] Task: Update `scripts/check-recipe-emojis.py` with `--fix` Flag
-    - [ ] Implement command line argument parsing for `--fix`.
-    - [ ] Implement similarity checking against mapped items in `includes/emoji.yaml`.
-    - [ ] Implement YAML writing logic to insert new items under matched emoji keys.
-- [ ] Task: Write Tests
-    - [ ] Add unit tests verifying auto-mapping accuracy and YAML integrity after rewrite.
-- [ ] Task: Update Scripts Registry
-    - [ ] Update `scripts-registry.md` to document the new `--fix` flag.
-- [ ] Task: Conductor - User Manual Verification
+- [x] Task: Update `scripts/check-recipe-emojis.py` with `--fix` Flag (3091df5)
+    - [x] Implement command line argument parsing for `--fix`.
+    - [x] Implement similarity checking against mapped items in `includes/emoji.yaml`.
+    - [x] Implement YAML writing logic to insert new items under matched emoji keys.
+- [x] Task: Write Tests (3091df5)
+    - [x] Add unit tests verifying auto-mapping accuracy and YAML integrity after rewrite.
+- [x] Task: Update Scripts Registry (3091df5)
+    - [x] Update `scripts-registry.md` to document the new `--fix` flag.
+- [~] Task: Conductor - User Manual Verification
+
