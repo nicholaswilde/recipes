@@ -1,6 +1,6 @@
 # Implementation Plan - Auto-Emoji Mapper Script Option
 
-## Phase 1: Implementation & Validation
+## Phase 1: Implementation & Validation [checkpoint: cbbd0fa2]
 
 - [x] Task: Update `scripts/check-recipe-emojis.py` with `--fix` Flag (3091df5)
     - [x] Implement command line argument parsing for `--fix`.
