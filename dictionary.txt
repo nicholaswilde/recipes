@@ -379,6 +379,7 @@ Dauphine
 de
 deglaze
 Deglaze
+Deglet
 dehusked
 delicata
 Delicata
@@ -779,6 +780,7 @@ Noël
 Noir
 non-diastatic
 Non-Diastatic
+Noor
 nora-cooks
 nori
 Nori
