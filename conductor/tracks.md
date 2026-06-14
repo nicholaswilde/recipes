@@ -2,11 +2,6 @@
 
 This file tracks all major tracks for the project. Each track has its own detailed plan in its respective folder.
 
-- [x] **Track: Implement scripts/scrape_to_cook.py to automatically scrape recipe
-  webpages and format them into CookLang (.cook) files.**
-*Link: [./tracks/scrape_to_cook_script/](./tracks/scrape_to_cook_script/)*
-
----
 
 - [ ] **Track: Implement scripts/whitelist_typos.py to automatically whitelist
   words in dictionary.txt, sort the dictionary, and regenerate the typos configuration.**
