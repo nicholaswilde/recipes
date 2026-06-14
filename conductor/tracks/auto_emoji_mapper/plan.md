@@ -10,5 +10,5 @@
     - [x] Add unit tests verifying auto-mapping accuracy and YAML integrity after rewrite.
 - [x] Task: Update Scripts Registry (3091df5)
     - [x] Update `scripts-registry.md` to document the new `--fix` flag.
-- [~] Task: Conductor - User Manual Verification
+- [x] Task: Conductor - User Manual Verification (3091df5)
 
