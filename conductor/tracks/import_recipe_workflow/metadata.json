@@ -1,0 +1,8 @@
+{
+  "track_id": "import_recipe_workflow",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-06-14T07:14:00Z",
+  "updated_at": "2026-06-14T07:14:00Z",
+  "description": "Create scripts/import_recipe_workflow.py to orchestrate the entire import recipe workflow in a single CLI command, and update import-recipe.md skill to instruct agents to use it."
+}

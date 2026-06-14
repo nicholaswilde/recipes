@@ -1,0 +1,8 @@
+{
+  "track_id": "auto_dictionary_whitelister",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-06-14T07:14:00Z",
+  "updated_at": "2026-06-14T07:14:00Z",
+  "description": "Implement scripts/whitelist_typos.py to automatically whitelist words in dictionary.txt, sort the dictionary, and regenerate the typos configuration."
+}
