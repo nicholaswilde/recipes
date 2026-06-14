@@ -19,7 +19,13 @@ repository following the established recipe import workflow.
 2. **Under the Hood / Manual Exceptions:**
    - The script will automatically scrape the recipe, compile the `.cook` file, move it to the correct destination under `docs/`, map missing emojis, convert volumetric units, run spellcheck, and interactive/auto-whitelist any proper nouns.
    - **Image/PDF Sources:** If the recipe is provided via an image or PDF in a GitHub issue, first download the file, run `lit parse <file_path>` (via the `liteparse` skill) to extract the text, format it into a `.cook` file in the correct category under `cook/`, and then run the remaining steps starting from `task move`.
-    - Run the global spellcheck task (`task spellcheck`) and fix any issues before concluding.
+    - **Spellcheck Validation:** Run the focused spellcheck task (`task spellcheck-file FILE="docs/{category}/{recipe-name-slug}.md"`) instead of the general `task spellcheck` to ensure focused and efficient validation.
+
+3. **Commit Changes:**
+   - Stage and commit the imported recipe changes using the conventional commit standard or the helper script:
+     ```bash
+     task commit FILES="cook/{category}/{Recipe Name}.cook"
+     ```
 
 ## GitHub CLI (`gh`) Guidelines
 
