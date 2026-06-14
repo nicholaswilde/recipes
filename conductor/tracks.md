@@ -8,12 +8,6 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [x] **Track: Add auto-fix/interactive mapping capabilities to check-recipe-emojis.py
-  to automate adding missing emojis to includes/emoji.yaml.**
-*Link: [./tracks/auto_emoji_mapper/](./tracks/auto_emoji_mapper/)*
-
----
-
 - [ ] **Track: Implement scripts/whitelist_typos.py to automatically whitelist
   words in dictionary.txt, sort the dictionary, and regenerate the typos configuration.**
 *Link: [./tracks/auto_dictionary_whitelister/](./tracks/auto_dictionary_whitelister/)*
