@@ -21,6 +21,13 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
+| `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
+| `scripts/add-recipe-nav.py` | - | Adds a recipe's relative path to the correct navigation section in `zensical.toml`. |
+| `scripts/add_recipe_size.py` | - | Scales ingredients of a recipe by a factor and appends it as a new tab block. |
+| `scripts/adjust_recipe_metadata.py` | - | Modifies frontmatter metadata tags and custom properties for a recipe markdown file. |
+| `scripts/optimize-images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
+| `scripts/refactor_nav.py` | - | Replaces navigation blocks in `zensical.toml` with preset navigation structures. |
+| `scripts/move_and_verify.py` | - | Relocates recipes in `sides` and `sauces-and-dressings` to subdirectories and updates navigation. |
 
 ---
 
@@ -49,6 +56,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: A specialized batch utility script that organizes and relocates recipes within
   the `sides` and `sauces-and-dressings` categories to their nested subdirectories (e.g.,
   `potatoes`, `vinaigrettes`, `salsas`), maintaining both the `.cook` files and compiled markdown docs.
+
+#### [add-recipe-nav.py](add-recipe-nav.py)
+
+* **Usage**: `uv run scripts/add-recipe-nav.py <recipe_name> <relative_path>`
+* **Description**: Automatically inserts a recipe file under the correct section list in
+  `zensical.toml` and maintains alphabetical ordering of the list items.
 
 #### [scrape_to_cook.py](scrape_to_cook.py)
 
@@ -103,6 +116,31 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: Scans all recipes in `docs/` and automatically replaces raw text occurrences of the specified
   ingredient with a relative markdown link pointing to its corresponding file.
 
+#### [add_recipe_size.py](add_recipe_size.py)
+
+* **Usage**: `uv run scripts/add_recipe_size.py <recipe.md> <scale_factor> <tab_name>`
+* **Description**: Scales ingredient quantities in a recipe's markdown file by a given multiplier and adds
+  the result as a new tab (e.g. `=== "Serves 4"`). Handles mixed fractions, simple fractions, decimals,
+  integers, and weight measurements in grams.
+
+#### [adjust_recipe_metadata.py](adjust_recipe_metadata.py)
+
+* **Usage**:
+
+  ```bash
+  uv run scripts/adjust_recipe_metadata.py <recipe.md> \
+    [--add-tags <tag1,tag2>] [--remove-tags <tag3>] [--set-metadata <key=val>]
+  ```
+
+* **Description**: Modifies frontmatter metadata tags and custom properties (such as comments or hero images)
+  for a recipe markdown file.
+
+#### [optimize-images.sh](optimize-images.sh)
+
+* **Usage**: `./scripts/optimize-images.sh [category]`
+* **Description**: Converts recipe JPEGs to WebP format, optimizes PNG files using `oxipng`, updates markdown links
+  automatically, and removes the original image assets to reduce file sizes.
+
 ---
 
 ### 3. Checkers & Linter Generators
@@ -156,6 +194,18 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `uv run scripts/find_missing_sources.py` or `task check-missing-sources`
 * **Description**: Scans all markdown recipe files under `docs/` (excluding configuration, index, and reference files)
   to identify those missing a Source/Sources heading.
+
+#### [check_missing_images.py](check_missing_images.py)
+
+* **Usage**: `uv run scripts/check_missing_images.py [--json] [--category CATEGORY]` or `task check-missing-images`
+* **Description**: Scans all recipe markdown files under `docs/` and reports missing hero frontmatter fields,
+  missing image embeds (`![...]`), nonexistent hero files, and corrupted links.
+
+#### [refactor_nav.py](refactor_nav.py)
+
+* **Usage**: `uv run scripts/refactor_nav.py`
+* **Description**: A batch helper script that replaces the `Sides` and `Sauces & Dressings` navigation configurations
+  in `zensical.toml` with pre-defined structures.
 
 ---
 
