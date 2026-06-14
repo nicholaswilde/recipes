@@ -18,6 +18,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
+| `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 
 ---
 
@@ -108,6 +109,13 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run scripts/generate_typos_config.py`
 * **Description**: Re-generates `_typos.toml` by reading and sorting words from [dictionary.txt](../dictionary.txt).
+
+#### [whitelist_typos.py](whitelist_typos.py)
+
+* **Usage**: `uv run scripts/whitelist_typos.py <word1> [word2] ...`
+* **Description**: Appends one or more words to [dictionary.txt](../dictionary.txt), automatically runs
+  an alphabetical sort and unique deduplication on the dictionary, and executes the typos config generator
+  to rebuild `_typos.toml` in a single run.
 
 #### [identify_multi_serving.py](identify_multi_serving.py)
 
