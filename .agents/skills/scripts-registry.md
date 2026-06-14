@@ -195,6 +195,22 @@ When new words are added to `dictionary.txt`, regenerate the spellchecker exclus
   uv run scripts/generate_typos_config.py
   ```
 
+#### Whitelist and Sort Typos Dictionary
+
+To whitelist one or more words in `dictionary.txt`, sort the dictionary alphabetically and uniquely,
+and automatically regenerate the spellcheck configuration:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/whitelist_typos.py <word1> [word2] ...
+  ```
+
+* **Under the Hood**: Appends the new words to `dictionary.txt`, performs an alphabetical sort and
+  unique deduplication (`sort -u`), writes the sorted file back, and programmatically executes
+  `scripts/generate_typos_config.py` to rebuild `_typos.toml`.
+
+
 #### Identify Multi-Serving Recipes
 
 To locate recipes that have multiple servings tabs/tables (multiple "Ingredients" headings):

@@ -9,6 +9,10 @@ vars:
   PORT: 8000
 
 tasks:
+  check-missing-images:
+    desc: Check recipes for missing iamges.
+    cmds:
+      - 'uv run scripts/check_missing_images.py'
   build:
     desc: Build the static site
     cmds:
