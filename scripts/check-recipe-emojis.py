@@ -2,6 +2,12 @@
 import sys
 import re
 import os
+import argparse
+import difflib
+import subprocess
+import yaml
+
+EMOJI_YAML_PATH = "includes/emoji.yaml"
 
 def load_emoji_mappings(filepath):
     mappings = {
@@ -51,12 +57,103 @@ def find_match(name, category_mappings):
         
     return None
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: check-recipe-emojis.py <recipe.cook>")
-        sys.exit(1)
+def find_best_emoji_group(missing_term, emoji_category_data):
+    best_score = 0.0
+    best_emoji = None
+    
+    missing_lower = missing_term.lower().strip()
+    missing_words = set(re.findall(r'\w+', missing_lower))
+    
+    for group in emoji_category_data:
+        for emoji_name, terms in group.items():
+            for term in terms:
+                term_lower = term.lower().strip()
+                if term_lower == missing_lower:
+                    return emoji_name, 1.0
+                    
+                # Substring/word overlap check
+                term_words = set(re.findall(r'\w+', term_lower))
+                has_overlap = False
+                for w1 in missing_words:
+                    for w2 in term_words:
+                        if len(w1) > 3 and len(w2) > 3 and (w1 in w2 or w2 in w1):
+                            has_overlap = True
+                            break
+                if has_overlap:
+                    score = 0.8
+                    if score > best_score:
+                        best_score = score
+                        best_emoji = emoji_name
+                
+                # SequenceMatcher similarity
+                seq_score = difflib.SequenceMatcher(None, missing_lower, term_lower).ratio()
+                if seq_score > best_score:
+                    best_score = seq_score
+                    best_emoji = emoji_name
+                    
+    if best_score >= 0.6:
+        return best_emoji, best_score
+    return None, 0.0
+
+def insert_emoji_mapping(filepath, category, emoji_key, new_term):
+    with open(filepath, "r", encoding="utf-8") as f:
+        lines = f.readlines()
         
-    cook_path = sys.argv[1]
+    category_found = False
+    inserted = False
+    
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped == f"{category}:":
+            category_found = True
+            continue
+        if category_found and (stripped == "ingredients:" or stripped == "cookware:") and line.startswith("  "):
+            break
+            
+        if category_found and line.rstrip().endswith(f"- {emoji_key}:"):
+            # Check indentation to match
+            # If the next line is indented, let's match its indentation, otherwise default to 8 spaces
+            indent = "        "
+            if i + 1 < len(lines):
+                next_line = lines[i + 1]
+                m_indent = re.match(r'^(\s+)-', next_line)
+                if m_indent:
+                    indent = m_indent.group(1)
+            lines.insert(i + 1, f"{indent}- {new_term}\n")
+            inserted = True
+            break
+            
+    if not inserted:
+        # End of category or file
+        category_index = -1
+        next_category_index = -1
+        for i, line in enumerate(lines):
+            stripped = line.strip()
+            if stripped == f"{category}:":
+                category_index = i
+            elif category_index != -1 and (stripped == "ingredients:" or stripped == "cookware:") and line.startswith("  "):
+                next_category_index = i
+                break
+                
+        insert_pos = next_category_index if next_category_index != -1 else len(lines)
+        new_group_lines = [
+            f"    - {emoji_key}:\n",
+            f"        - {new_term}\n"
+        ]
+        for offset, gl in enumerate(new_group_lines):
+            lines.insert(insert_pos + offset, gl)
+            
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+def main():
+    parser = argparse.ArgumentParser(description="Check and optionally fix recipe emojis in includes/emoji.yaml")
+    parser.add_argument("recipe_path", help="Path to the recipe .cook file")
+    parser.add_argument("--fix", action="store_true", help="Automatically map missing emojis in includes/emoji.yaml")
+    
+    args = parser.parse_args()
+    
+    cook_path = args.recipe_path
     if not os.path.exists(cook_path):
         print(f"Error: {cook_path} not found")
         sys.exit(1)
@@ -78,12 +175,12 @@ def main():
         if name:
             cookware.add(name.strip())
             
-    emoji_yaml_path = "includes/emoji.yaml"
-    if not os.path.exists(emoji_yaml_path):
-        print(f"Error: {emoji_yaml_path} not found")
+    emoji_path = globals().get("EMOJI_YAML_PATH", EMOJI_YAML_PATH)
+    if not os.path.exists(emoji_path):
+        print(f"Error: {emoji_path} not found")
         sys.exit(1)
         
-    mappings = load_emoji_mappings(emoji_yaml_path)
+    mappings = load_emoji_mappings(emoji_path)
     
     missing_ingredients = []
     missing_cookware = []
@@ -110,6 +207,49 @@ def main():
             missing_cookware.append(cw)
             
     print("-" * 50)
+    
+    if args.fix and (missing_ingredients or missing_cookware):
+        # We need to load raw YAML data to find close matches or structure
+        with open(emoji_path, "r", encoding="utf-8") as f:
+            yaml_data = yaml.safe_load(f)
+            
+        print("Auto-fixing missing emoji mappings...")
+        
+        fixed_count = 0
+        
+        if missing_ingredients:
+            ingredients_data = yaml_data.get("emoji", {}).get("ingredients", [])
+            for ing in missing_ingredients:
+                best_group, score = find_best_emoji_group(ing, ingredients_data)
+                if best_group:
+                    print(f"  Mapping ingredient '{ing}' to group '{best_group}' (confidence: {score:.2f})")
+                else:
+                    best_group = "takeout_box"
+                    print(f"  No similar group found for ingredient '{ing}'. Mapping to fallback group '{best_group}'")
+                insert_emoji_mapping(emoji_path, "ingredients", best_group, ing)
+                fixed_count += 1
+                
+        if missing_cookware:
+            cookware_data = yaml_data.get("emoji", {}).get("cookware", [])
+            for cw in missing_cookware:
+                best_group, score = find_best_emoji_group(cw, cookware_data)
+                if best_group:
+                    print(f"  Mapping cookware '{cw}' to group '{best_group}' (confidence: {score:.2f})")
+                else:
+                    best_group = "bowl_with_spoon"
+                    print(f"  No similar group found for cookware '{cw}'. Mapping to fallback group '{best_group}'")
+                insert_emoji_mapping(emoji_path, "cookware", best_group, cw)
+                fixed_count += 1
+                
+        if fixed_count > 0:
+            # Run sorting / formatting
+            try:
+                subprocess.run(["task", "emoji-sort"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            except Exception:
+                pass
+            print(f"Successfully auto-mapped {fixed_count} missing emojis in {emoji_path}!")
+            sys.exit(0)
+            
     if missing_ingredients or missing_cookware:
         print("Warning: Missing emoji mappings found.")
         if missing_ingredients:

@@ -146,7 +146,7 @@ To dynamically adjust metadata, add/remove tags, or update frontmatter keys in a
 
 ### 3. Checkers & Generators
 
-#### Check Recipe Emoji Mappings
+#### Check and Fix Recipe Emoji Mappings
 
 To check if all ingredients or cookware used in a `.cook` recipe are registered in the central emoji list:
 
@@ -155,6 +155,19 @@ To check if all ingredients or cookware used in a `.cook` recipe are registered 
   ```bash
   uv run scripts/check-recipe-emojis.py cook/category/recipe.cook
   ```
+
+To automatically map and fix missing emojis in `includes/emoji.yaml` using similarity checking and fallback groups:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/check-recipe-emojis.py --fix cook/category/recipe.cook
+  ```
+
+* **Under the Hood**: Compares missing terms against existing emoji mappings using a combination of substring,
+  word-overlap, and SequenceMatcher similarity. Confident matches are inserted under the matched emoji group,
+  while unmatched terms fallback to generic categories (`takeout_box` for ingredients and `bowl_with_spoon`
+  for cookware). Finally, it runs `task emoji-sort` to maintain ordering.
 
 #### Regenerate Typos Configuration
 
