@@ -361,6 +361,9 @@ A task is complete when:
 - **Link Checking:** `task linkcheck` (uses `markdown-link-check`).
     - **Note:** DO NOT run `task linkcheck` project-wide as it takes a long time to check links in all files. Only use targeted link checks if necessary.
 - **Recipe Management:** Recipes are stored in `cook/` as `.cook` files and must be organized by category in subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`). There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
+- **Scripts Registry:** When creating any new helper, automation, or utility scripts in `scripts/`, you must
+  update the project scripts registry ([scripts-registry.md](file:///.agents/skills/scripts-registry.md)) to
+  document their purpose, protocols, commands, and options.
 - **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
 - **Front Matter:** Markdown files use front matter for metadata like comments and tags.
 - **Dependencies:** Python dependencies for Zensical are managed via `pip install` in the CI workflow. `spellchecker-cli` is installed globally via `npm install`.
