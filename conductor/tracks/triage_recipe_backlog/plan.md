@@ -2,7 +2,7 @@
 
 ## Phase 1: Implementation & Validation
 
-- [ ] Task: Import Issue #1378
+- [x] Task: Import Issue #1378 (04cd23d)
     - [ ] Run orchestrator script: `uv run scripts/import_recipe_workflow.py 1378 sides`
 - [ ] Task: Import Issue #1379
     - [ ] Run orchestrator script: `uv run scripts/import_recipe_workflow.py 1379 sides`
