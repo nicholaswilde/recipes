@@ -1,0 +1,9 @@
+Phase: Phase 1: Implementation & Validation
+Automated Test Command: CI=true uv run pytest
+Manual Verification Steps:
+1. Created scratch/test_emoji.cook with fresh almonds and strange plant.
+2. Verified dry-run mode detects missing emojis (fresh almonds, strange plant) and exits with code 1.
+3. Verified auto-fix mode maps fresh almonds to chestnut group and strange plant to takeout_box, and successfully exits with code 0.
+4. Verified git diff includes/emoji.yaml showing correct updates.
+5. Discarded scratch changes and restored includes/emoji.yaml.
+User Confirmation: Received explicit approval ('yes') on 2026-06-14T00:18:25-07:00.
