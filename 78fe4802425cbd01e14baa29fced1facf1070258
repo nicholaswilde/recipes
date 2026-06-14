@@ -1,0 +1,7 @@
+Task: Create scripts/whitelist_typos.py & Write Tests
+Summary of changes: Implemented scripts/whitelist_typos.py to parse positional CLI arguments representing new words, append them to dictionary.txt, and sort/deduplicate dictionary.txt. Updated scripts/generate_typos_config.py to declare and use module-level path constants to support dynamic config overrides during testing, and programmatically invoke it inside whitelist_typos.py. Wrote unit tests in scripts/test_whitelist_typos.py to verify sorting, uniqueness, and config regeneration.
+Created/modified files:
+- scripts/whitelist_typos.py
+- scripts/test_whitelist_typos.py
+- scripts/generate_typos_config.py
+Why: To automate spellcheck whitelist updates, saving developers from manually editing and sorting the dictionary file and rebuilding typos config in separate steps.
