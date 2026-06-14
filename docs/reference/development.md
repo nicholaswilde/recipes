@@ -190,30 +190,59 @@ brew install nicholaswilde/tap/cook-docs
 /recipes/cook/category$ cook-docs
 ```
 
+### :book: [Zensical][20]
 
-### :book: [MkDocs][7]
-
-Used to generate static site.
+A modern static site generator wrapper that builds and serves this documentation site.
+It wraps MkDocs and configures the theme, search, and page structure.
 
 ```shell title="Installation"
-(
-  wget https://bootstrap.pypa.io/get-pip.py
-  python get-pip.py
-  pip install mkdocs
-)
+task docs:deps
 ```
 
 === "Task"
 
     ```shell title="Usage"
     task serve
+    task build
     ```
 
 === "Manual"
 
     ```shell title="Usage"
-    mkdocs serve
+    uv run zensical serve
+    uv run zensical build
     ```
+
+### :book: [MkDocs][7]
+
+The underlying static site generator wrapped by Zensical to render the final HTML site.
+
+### :package: [uv][21]
+
+An extremely fast Python package installer and resolver. It manages Python dependencies
+and virtual environments for Zensical and Python helper scripts in this repository.
+
+```shell title="Installation"
+# Via curl
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+```shell title="Usage"
+uv run <script_name>.py
+```
+
+### :frame_with_picture: [oxipng][22]
+
+A multithreaded lossless PNG optimizer used during image processing and relocation.
+
+```shell title="Installation"
+# Via Homebrew
+brew install oxipng
+```
+
+```shell title="Usage"
+oxipng -o 4 --strip safe image.png
+```
 
 ### :abc: [typos][9]
 
@@ -284,72 +313,75 @@ cargo install lychee
     ```
 
 ### :page_with_curl: [rumdl][17]
- 
+
 Used to lint and format Markdown files.
- 
+
 ```shell title="Installation"
 # Via Cargo
 cargo install rumdl
 ```
- 
+
 === "Task"
- 
+
     ```shell title="Usage"
     task markdownlint
     ```
- 
+
 === "Manual"
- 
+
     ```shell title="Usage"
     rumdl check .
     ```
- 
+
 ### :page_with_curl: [yamllint-rs][18]
- 
+
 Used to lint YAML files.
- 
+
 ```shell title="Installation"
 # Via Cargo
 cargo install yamllint-rs
 ```
- 
+
 === "Task"
- 
+
     ```shell title="Usage"
     task yamllint
     ```
- 
+
 === "Manual"
- 
+
     ```shell title="Usage"
     yamllint-rs .
     ```
- 
+
 ### :page_with_curl: [yq][19]
- 
+
 Used to query and modify YAML files and Markdown front-matter.
- 
+
 ```shell title="Installation"
 # Via Homebrew
 brew install yq
 ```
- 
+
 === "Task"
- 
+
     ```shell title="Usage"
     task add-comments
     task add-tag
     ```
- 
+
 === "Manual"
- 
+
     ```shell title="Usage"
     yq --front-matter="process" '.comments = "true"' docs/path/to/recipe.md
     ```
 
 ### :robot: [Google Antigravity CLI][15]
 
-Used for AI-assisted repository management, including recipe imports and maintenance. It automates several steps of the manual workflow, such as using **LiteParse** to extract structured recipe information from local documents and images, fetching recipes from URLs, creating `.cook` files, downloading images, and updating the site configuration.
+Used for AI-assisted repository management, including recipe imports and maintenance. It automates several steps
+of the manual workflow, such as using **LiteParse** to extract structured recipe information from local
+documents and images, fetching recipes from URLs, creating `.cook` files, downloading images, and updating
+the site configuration.
 
 ```shell title="Usage"
 # Import a recipe from a GitHub issue
@@ -361,7 +393,8 @@ antigravity -i "Run zensical serve and fix any issues"
 
 ### :scissors: [LiteParse][16]
 
-Used by the Google Antigravity CLI and AI coding assistants to extract text and layout-aware recipe information from local files and images without cloud or LLM dependencies.
+Used by the Google Antigravity CLI and AI coding assistants to extract text and layout-aware recipe
+information from local files and images without cloud or LLM dependencies.
 
 ```shell title="Installation"
 npm install --global @llamaindex/liteparse
@@ -405,3 +438,6 @@ Website used to search for emoji contexts.
 [17]: <https://github.com/rvben/rumdl>
 [18]: <https://github.com/AvnerCohen/yamllint-rs>
 [19]: <https://github.com/mikefarah/yq>
+[20]: <https://pypi.org/project/zensical/>
+[21]: <https://github.com/astral-sh/uv>
+[22]: <https://github.com/shpakovskiy/oxipng>
