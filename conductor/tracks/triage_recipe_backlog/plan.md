@@ -8,4 +8,4 @@
     - [ ] Run orchestrator script: `uv run scripts/import_recipe_workflow.py 1379 sides`
 - [x] Task: Verify Build (294ef0a)
     - [ ] Run `zensical build` and verify that the site compiles without warnings or errors.
-- [ ] Task: Conductor - User Manual Verification
+- [x] Task: Conductor - User Manual Verification (294ef0a)
