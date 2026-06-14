@@ -1,0 +1,11 @@
+Task: Import Issue #1379
+Summary of Changes: Imported 'Green Beans with Lime and Red Onions' recipe. Transcribed ingredients and preparation steps into CookLang, compiled to Markdown, ran unit conversions, verified lints and spelling, updated emoji registry and menu index, and added a TDD verification test.
+Created/Modified Files:
+- cook/sides/vegetables/Green Beans With Lime and Red Onions.cook
+- cook/sides/vegetables/Green Beans With Lime and Red Onions.jpg
+- docs/assets/images/green-beans-with-lime-and-red-onions.webp
+- docs/sides/vegetables/green-beans-with-lime-and-red-onions.md
+- includes/emoji.yaml
+- zensical.toml
+- scripts/test_recipe_1379.py
+Why: To import the backlog recipe from issue #1379 using standard workflow procedures.
