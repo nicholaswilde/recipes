@@ -1,6 +1,6 @@
 # Implementation Plan - Recipe Import Workflow Orchestrator
 
-## Phase 1: Implementation & Validation
+## Phase 1: Implementation & Validation [checkpoint: e313d2f]
 
 - [x] Task: Create `scripts/import_recipe_workflow.py` (be8ae71)
     - [x] Implement argument parsing (`url/issue`, `category`).
@@ -12,4 +12,4 @@
     - [x] Write integration/unit tests for the workflow orchestrator script.
 - [x] Task: Update Scripts Registry (0a8a0e9)
     - [x] Document the orchestrator in `scripts-registry.md`.
-- [ ] Task: Conductor - User Manual Verification
+- [x] Task: Conductor - User Manual Verification (e313d2f)
