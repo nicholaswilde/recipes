@@ -14,7 +14,7 @@ hero: assets/images/gingerbread-caramel-corn.webp
 
 ## :salt: Ingredients
 
-- 10 cups popcorn
+- :ear_of_rice: 10 cups popcorn
 - :salt: 1 cup lightly salted roasted cashews
 - :candy: 1 cup dark brown sugar
 - :butter: 0.5 cup butter

@@ -14,7 +14,7 @@ hero: assets/images/belgian-pearl-sugar-liege-waffles.webp
 
 ## :salt: Ingredients
 
-- 7 g rapid-rise yeast
+- :tea: 7 g rapid-rise yeast
 - :glass_of_milk: 0.75 cup warm milk
 - :bread: 440 g all-purpose flour
 - :candy: 50 g brown sugar

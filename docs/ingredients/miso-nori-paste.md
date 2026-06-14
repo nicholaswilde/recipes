@@ -16,8 +16,8 @@ hero: assets/images/miso-nori-paste.webp
 
 ## :salt: Ingredients
 
-- 1 8x7 sheet nori
-- 0.25 cup white miso
+- :leafy_green: 1 8x7 sheet nori
+- :takeout_box: 0.25 cup white miso
 
 ## :cooking: Cookware
 

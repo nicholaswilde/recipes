@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 0.75 cup water
-- 2.25 tsp active dry yeast
-- 0.25 cup granulated sugar
-- 0.5 cup whole milk
-- 1 large egg
-- 0.25 cup unsalted butter
-- 1 tsp fine sea salt
-- 3.5 cups bread flour
-- 2 Tbsp unsalted butter
+- :droplet: 0.75 cup water
+- :tea: 2.25 tsp active dry yeast
+- :candy: 0.25 cup granulated sugar
+- :glass_of_milk: 0.5 cup whole milk
+- :egg: 1 large egg
+- :butter: 0.25 cup unsalted butter
+- :salt: 1 tsp fine sea salt
+- :bread: 3.5 cups bread flour
+- :butter: 2 Tbsp unsalted butter
 
 ## :cooking: Cookware
 

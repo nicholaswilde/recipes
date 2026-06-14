@@ -19,8 +19,8 @@ hero: assets/images/kickstarter-lemony-roasted-cauliflower.webp
 
 - :tangerine: 4 Tbsp lemon juice
 - :seedling: 0.5 Tbsp tahini
-- 0.25 tsp paprika
-- 5 cups cauliflower
+- :hot_pepper: 0.25 tsp paprika
+- :broccoli: 5 cups cauliflower
 - :salt: 0.25 tsp salt
 - :salt: some pepper
 

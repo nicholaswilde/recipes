@@ -22,13 +22,13 @@ hero: assets/images/fall-turkey-chili-with-pumpkin.png
 - :garlic: 2 cloves garlic
 - :tumbler_glass: 1 pkg soy crumbles
 - :tomato: 1 can diced tomatoes
-- 2 cans pumpkin
-- 1 can kidney beans
-- 0.5 can corn
+- :melon: 2 cans pumpkin
+- :beans: 1 can kidney beans
+- :ear_of_rice: 0.5 can corn
 - :baby_bottle: 1 cup sour cream
-- 0.5 cup cheese
+- :cheese_wedge: 0.5 cup cheese
 - :avocado: 1 avocado
-- 1 pkg cilantro
+- :herb: 1 pkg cilantro
 
 ## :cooking: Cookware
 

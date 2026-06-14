@@ -17,9 +17,9 @@ hero: assets/images/spicy-garlic-edamame.webp
 
 ## :salt: Ingredients
 
-- 16 oz edamame
+- :beans: 16 oz edamame
 - :droplet: 3 quarts salted water
-- 0.5 tsp arrowroot starch
+- :chestnut: 0.5 tsp arrowroot starch
 - :olive: 1 Tbsp coconut oil
 - :garlic: 2 cloves garlic
 - :sweet_potato: 1 Tbsp ginger

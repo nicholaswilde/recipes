@@ -17,7 +17,7 @@ hero: assets/images/german-chocolate-cake.webp
 
 - :candy: 2 cups granulated sugar
 - :bread: some all-purpose flour
-- 0.75 cup unsweetened cocoa powder
+- :chocolate_bar: 0.75 cup unsweetened cocoa powder
 - :chestnut: some baking powder
 - :chestnut: some baking soda
 - :salt: 1 tsp salt
@@ -33,9 +33,9 @@ hero: assets/images/german-chocolate-cake.webp
 - :glass_of_milk: 0.75 cup [evaporated milk][2]
 - :flower_playing_cards: 1 Tbsp vanilla extract
 - :chestnut: 1 cup chopped pecans
-- 1 cup shredded sweetened coconut
+- :coconut: 1 cup shredded sweetened coconut
 - :butter: 0.5 cup butter
-- 0.67 cup unsweetened cocoa powder
+- :chocolate_bar: 0.67 cup unsweetened cocoa powder
 - :candy: 3 cups powdered sugar
 - :glass_of_milk: 0.33 cup [evaporated milk][2]
 - :flower_playing_cards: 1 tsp vanilla extract

@@ -16,7 +16,7 @@ hero: assets/images/cookies-&-cream-candy-bark.webp
 
 - :flower_playing_cards: 2 cups vanilla melts
 - :chocolate_bar: 2 cups milk chocolate melts
-- 15 cookies Oreo
+- :cookie: 15 cookies Oreo
 
 ## :cooking: Cookware
 

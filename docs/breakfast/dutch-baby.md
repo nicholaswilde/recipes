@@ -18,10 +18,10 @@ hero: assets/images/dutch-baby.webp
 - :bread: 0.5 cup all-purpose flour
 - :glass_of_milk: 0.5 cup milk
 - :candy: 1 Tbsp sugar
-- 1 pinch nutmeg
+- :chestnut: 1 pinch nutmeg
 - :butter: 4 Tbsp unsalted butter
-- some syrup
-- some preserves
+- :honey_pot: some syrup
+- :strawberry: some preserves
 - :candy: some confectioner's sugar
 - :candy: some cinnamon sugar
 

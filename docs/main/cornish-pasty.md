@@ -16,22 +16,22 @@ hero: assets/images/cornish-pasty.webp
 
 - :bread: 500 g strong white bread flour
 - :salt: 2 tsp salt
-- 400 g vegetable shortening
+- :butter: 400 g vegetable shortening
 - :droplet: 150 ml ice-cold water
 - :stew: 200 ml vegetable stock
 - :garlic: 0.75 tsp garlic powder
-- 0.75 tsp onion granules
-- 0.25 tsp dried rosemary
+- :tea: 0.75 tsp onion granules
+- :herb: 0.25 tsp dried rosemary
 - :herb: 0.25 tsp dried thyme
 - :cheese_wedge: 1 Tbsp nutritional yeast
 - :takeout_box: 1.5 tsp soy sauce
 - :bread: 20 g cornflour
 - :droplet: 3 Tbsp water
 - :sweet_potato: 200 g potato (peeled and diced 1cm cubes)
-- 100 g swede (rutabaga) (peeled and diced 1cm cubes)
-- 75 g mushrooms (chopped)
-- 75 g onion (peeled and diced)
-- 2 tsp dairy-free margarine
+- :sweet_potato: 100 g swede (rutabaga) (peeled and diced 1cm cubes)
+- :mushroom: 75 g mushrooms (chopped)
+- :tea: 75 g onion (peeled and diced)
+- :butter: 2 tsp dairy-free margarine
 - :glass_of_milk: 2 Tbsp dairy-free milk
 
 ## :cooking: Cookware

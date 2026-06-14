@@ -18,9 +18,9 @@ hero: assets/images/peanut-butter-bites.webp
 ## :salt: Ingredients
 
 - :chestnut: 1 cup almonds
-- 1 tsp vanilla
-- 0.5 tsp cinnamon
-- 1 cup pitted dates
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: 0.5 tsp cinnamon
+- :grapes: 1 cup pitted dates
 - :chestnut: 0.5 cup [peanut butter][1]
 - :salt: 1 pinch salt
 

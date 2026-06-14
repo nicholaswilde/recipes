@@ -14,14 +14,14 @@ hero: assets/images/double-chocolate-peppermint-pie.webp
 
 ## :salt: Ingredients
 
-- 5 oz chocolate wafer cookies
+- :cookie: 5 oz chocolate wafer cookies
 - :butter: 6 Tbsp unsalted butter
 - :candy: 0.75 cup granulated sugar
 - :cheese_wedge: 2 8-oz pkgs cream cheese
 - :salt: 1 Tbsp peppermint extract
 - :glass_of_milk: 1.5 cups heavy cream
-- some red food coloring (optional)
-- some hot fudge sauce
+- :art: some red food coloring (optional)
+- :chocolate_bar: some hot fudge sauce
 - :salt: 0.25 cup crushed peppermint candies
 
 ## :cooking: Cookware

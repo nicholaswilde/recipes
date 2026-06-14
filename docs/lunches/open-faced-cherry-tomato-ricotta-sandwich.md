@@ -21,7 +21,7 @@ hero: assets/images/open-faced-cherry-tomato-[Ricotta](../ingredients/ricotta.md
 - :hotdog: 4 tsp whole-grain mustard
 - :honey_pot: 2 tsp honey
 - :herb: 2 tsp marjoram
-- 1 tsp white or red miso
+- :takeout_box: 1 tsp white or red miso
 - :salt: 0.25 tsp pepper
 - :tomato: 10 oz cherry tomatoes
 - :cheese_wedge: 8 oz whole-milk [Ricotta](../ingredients/ricotta.md)

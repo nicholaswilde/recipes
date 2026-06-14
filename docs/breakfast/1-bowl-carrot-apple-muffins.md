@@ -17,7 +17,7 @@ hero: assets/images/1-bowl-carrot-apple-muffins.webp
 
 ## :salt: Ingredients
 
-- 1.5 Tbsp flaxseed meal
+- :seedling: 1.5 Tbsp flaxseed meal
 - :droplet: 4 Tbsp water
 - :banana: 0.33 cup mashed banana
 - :maple_leaf: 0.25 cup (78 g) agave or maple syrup

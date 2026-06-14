@@ -11,12 +11,12 @@ hero: assets/images/white-trash.webp
 
 ## :salt: Ingredients
 
-- 3 cups crispy corn cereal squares
-- 3 cups crispy rice cereal squares
-- 3 cups toasted oat cereal
-- 2 cups miniature pretzels
-- 2 cups salted peanuts
-- 20 oz white chocolate chips
+- :ear_of_rice: 3 cups crispy corn cereal squares
+- :ear_of_rice: 3 cups crispy rice cereal squares
+- :ear_of_rice: 3 cups toasted oat cereal
+- :bread: 2 cups miniature pretzels
+- :chestnut: 2 cups salted peanuts
+- :chocolate_bar: 20 oz white chocolate chips
 
 ## :cooking: Cookware
 

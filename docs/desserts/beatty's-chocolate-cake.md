@@ -15,10 +15,10 @@ hero: assets/images/beatty's-chocolate-cake.webp
 
 ## :salt: Ingredients
 
-- 2 cake pans
+- :cookie: 2 cake pans
 - :bread: 1.75 cups all-purpose flour
 - :candy: 2 cups sugar
-- 0.75 cups good cocoa powder (such as Valrhona)
+- :chocolate_bar: 0.75 cups good cocoa powder (such as Valrhona)
 - :chestnut: 2 tsp baking soda
 - :chestnut: 1 tsp baking powder
 - :salt: 1 tsp kosher salt
@@ -26,8 +26,8 @@ hero: assets/images/beatty's-chocolate-cake.webp
 - :olive: 0.5 cups vegetable oil
 - :egg: 2 extra-large eggs, at room temperature
 - :flower_playing_cards: 1 tsp pure vanilla extract
-- 1 cup freshly brewed hot coffee
-- 6 ounces good semisweet chocolate (such as Valrhona Le Noir 56% Cacao)
+- :coffee: 1 cup freshly brewed hot coffee
+- :chestnut: 6 ounces good semisweet chocolate (such as Valrhona Le Noir 56% Cacao)
 - :butter: 0.5 pound unsalted butter, at room temperature
 - :egg: 1 extra-large egg yolk, at room temperature
 - :flower_playing_cards: 1 tsp pure vanilla extract

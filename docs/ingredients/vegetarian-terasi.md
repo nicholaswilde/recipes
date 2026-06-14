@@ -16,10 +16,10 @@ hero: assets/images/vegetarian-terasi.webp
 
 ## :salt: Ingredients
 
-- 1 crumbled vegetable stock cube
-- 2 Tbsp dark or red miso paste
-- 0.5 tsp ground toasted nori seaweed
-- 1 Tbsp warm water
+- :stew: 1 crumbled vegetable stock cube
+- :takeout_box: 2 Tbsp dark or red miso paste
+- :leafy_green: 0.5 tsp ground toasted nori seaweed
+- :droplet: 1 Tbsp warm water
 
 ## :cooking: Cookware
 

@@ -18,15 +18,15 @@ hero: assets/images/jalapeño-corn-pudding.webp
 ## :salt: Ingredients
 
 - :butter: 2 Tbsp butter
-- 1 cup milk
-- 2 eggs
+- :glass_of_milk: 1 cup milk
+- :egg: 2 eggs
 - :salt: 0.5 tsp salt
 - :candy: 2 Tbsp sugar
 - :bread: 2 Tbsp flour
 - :chestnut: 1 tsp baking powder
-- 2 cups corn
-- 0.5 cup cheese
-- 2 Tbsp jalapeños
+- :ear_of_rice: 2 cups corn
+- :cheese_wedge: 0.5 cup cheese
+- :hot_pepper: 2 Tbsp jalapeños
 
 ## :cooking: Cookware
 

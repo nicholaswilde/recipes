@@ -16,7 +16,7 @@ hero: assets/images/chimichurri.jpg
 
 ## :salt: Ingredients
 
-- 🥂 0.5 cup red wine vinegar
+- :wine_glass: 0.5 cup red wine vinegar
 - :lemon: 1 lemon juice
 - :garlic: 1 small shallot
 - :garlic: 5 cloves garlic

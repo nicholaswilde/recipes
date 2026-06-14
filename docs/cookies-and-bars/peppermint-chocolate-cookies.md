@@ -22,12 +22,12 @@ hero: assets/images/peppermint-chocolate-cookies.webp
 - :egg: 2 eggs
 - :flower_playing_cards: 1 tsp vanilla
 - :salt: 0.5 tsp peppermint extract
-- 0.5 tsp instant espresso coffee powder
-- 0.33 cup unsweetened cocoa powder
+- :coffee: 0.5 tsp instant espresso coffee powder
+- :chocolate_bar: 0.33 cup unsweetened cocoa powder
 - :chestnut: 1 tsp baking soda
 - :salt: 0.25 tsp salt
 - :bread: 1.66 cups all-purpose flour
-- 4 oz bittersweet chocolate
+- :chestnut: 4 oz bittersweet chocolate
 - :butter: 1 Peppermint Buttercream
 - :salt: some peppermint candies (optional)
 

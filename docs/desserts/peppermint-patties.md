@@ -15,12 +15,12 @@ hero: assets/images/peppermint-patties.webp
 ## :salt: Ingredients
 
 - :candy: 2.5 cups confectioners' sugar
-- 2 Tbsp vegetable shortening
+- :butter: 2 Tbsp vegetable shortening
 - :candy: 2 Tbsp corn syrup
 - :salt: 2 tsp peppermint extract
 - :droplet: 2 tsp water
-- 12 oz bittersweet chocolate chips
-- 1 tsp vegetable shortening
+- :chocolate_bar: 12 oz bittersweet chocolate chips
+- :butter: 1 tsp vegetable shortening
 
 ## :cooking: Cookware
 

@@ -23,12 +23,12 @@ hero: assets/images/gordon-ramsay's-spicy-sausage-rice.webp
 - :onion: 1 red onion
 - :salt: 1 red pepper
 - :garlic: 2 cloves garlic
-- 5 veggie Italian sausage
+- :hot_pepper: 5 veggie Italian sausage
 - :hot_pepper: 1 tsp smoked paprika
-- 200 g uncooked rice
+- :ear_of_rice: 200 g uncooked rice
 - :wine_glass: 3 oz white wine
 - :stew: 2 cups vegetable stock
-- 4 scallions
+- :tea: 4 scallions
 - :tomato: 1 tomato
 - :herb: 1 small bunch parsley
 

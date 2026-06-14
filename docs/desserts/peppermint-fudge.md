@@ -17,9 +17,9 @@ hero: assets/images/peppermint-fudge.webp
 - :candy: 4 cups granulated sugar
 - :glass_of_milk: 1 12-oz can [evaporated milk][2]
 - :butter: 0.75 cup unsalted butter
-- 12 oz semisweet chocolate chips
-- 12 oz bittersweet chocolate chips
-- 1 7-oz jar marshmallow creme
+- :chocolate_bar: 12 oz semisweet chocolate chips
+- :chocolate_bar: 12 oz bittersweet chocolate chips
+- :candy: 1 7-oz jar marshmallow creme
 - :salt: 0.5 tsp peppermint extract
 - :salt: 1 cup crushed peppermint candies
 

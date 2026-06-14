@@ -16,10 +16,10 @@ hero: assets/images/gingerbread-people.webp
 
 ## :salt: Ingredients
 
-- 1.5 cups dark molasses
+- :honey_pot: 1.5 cups dark molasses
 - :candy: 1 cup brown sugar
 - :droplet: 0.67 cup cold water
-- 0.33 cup vegetable shortening
+- :butter: 0.33 cup vegetable shortening
 
 ## :cooking: Cookware
 

@@ -24,8 +24,8 @@ hero: assets/images/three-bean-salad.webp
 - :salt: 0.5 tsp salt
 - :salt: 0.13 tsp pepper
 - :onion: 0.5 small red onion
-- 8 oz yellow wax beans
-- 8 oz Romano beans
+- :beans: 8 oz yellow wax beans
+- :beans: 8 oz Romano beans
 - :canned_food: 1 15-oz can kidney beans
 - :herb: 0.25 cup parsley
 

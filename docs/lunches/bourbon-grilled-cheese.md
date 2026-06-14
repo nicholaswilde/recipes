@@ -22,11 +22,11 @@ hero: assets/images/bourbon-grilled-cheese.webp
 - :candy: 1 Tbsp [brown sugar][1]
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- 1 Tbsp Bourbon
+- :tumbler_glass: 1 Tbsp Bourbon
 - :butter: 1.5 tsp butter
-- 8 slices sourdough bread
-- 6 oz cheddar cheese
-- 6 oz Gruyère cheese
+- :bread: 8 slices sourdough bread
+- :cheese_wedge: 6 oz cheddar cheese
+- :cheese_wedge: 6 oz Gruyère cheese
 
 ## :cooking: Cookware
 

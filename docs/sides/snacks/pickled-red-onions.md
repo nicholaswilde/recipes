@@ -20,7 +20,7 @@ hero: assets/images/pickled-red-onions.webp
 - :onion: 2 small red onions
 - :garlic: 2 cloves garlic
 - :salt: 1 tsp mixed peppercorns
-- 2 cups white vinegar
+- :wine_glass: 2 cups white vinegar
 - :droplet: 2 cups (454 g) water
 - :candy: 0.33 cup (65 g) cane sugar
 - :salt: 2 Tbsp sea salt

@@ -14,7 +14,7 @@ hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.webp
 
 ## :salt: Ingredients
 
-- 25 Joe-Joe's cookies
+- :cookie: 25 Joe-Joe's cookies
 - :butter: 4 Tbsp melted butter
 - :chestnut: 8 oz dark chocolate
 - :butter: 4 Tbsp butter
