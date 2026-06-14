@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - platter
         - large bowl
         - heat-proof bowl
         - large mixing bowl
@@ -224,6 +225,7 @@ emoji:
         - feta
         - Parmesan
     - chestnut:
+        - chopped cilantro
         - cornstarch
         - semi-sweet chocolate
         - extra-bittersweet chocolate
@@ -386,6 +388,7 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - crushed red pepper
         - bell pepper
         - red bell pepper
         - green bell pepper
