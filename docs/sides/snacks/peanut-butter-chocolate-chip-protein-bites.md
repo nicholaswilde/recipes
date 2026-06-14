@@ -52,6 +52,10 @@ Store in an airtight container and refrigerate.
 
 !!! tip
 
+    For more flavor, use [toasted rolled oats](../../ingredients/toasted-rolled-oats.md) instead of plain rolled oats.
+
+!!! tip
+
     If the mixture is too dry or crumbly, add a teaspoon of warm water.
 
 ## :link: Source
