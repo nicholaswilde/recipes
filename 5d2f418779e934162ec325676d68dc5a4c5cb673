@@ -1,0 +1,5 @@
+Task: Update Taskfile.yaml
+Summary of changes: Integrated import-recipe and whitelist-typo shortcuts in Taskfile.yaml to run scripts/import_recipe_workflow.py and scripts/whitelist_typos.py with clean CLI variables.
+Created/modified files:
+- Taskfile.yaml
+Why: To provide developers with quick, clean terminal task shortcuts for recipe importing and typo whitelisting.
