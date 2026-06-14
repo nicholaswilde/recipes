@@ -14,16 +14,22 @@ hero: assets/images/quinoa.webp
 |:----------------------------------:|:-----------------------: |
 | 4 | 25 minutes |
 
-| :cut_of_meat: Uncooked | :hot_springs: Cooked | :droplet: Liquid | :fork_and_knife_with_plate: Serves |
-|:----------------------:|:--------------------:|:----------------:|:----------------------------------:|
-| 133 g                  | 400 g                | 300 g            | 4                                  |
-| 200 g                  | 600 g                | 450 g            | 6                                  |
-| 267 g                  | 800 g                | 600 g            | 8                                  |
-
 ## :salt: Ingredients
 
-- :rice: 1 cup quinoa
-- :stew: 1.75 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+=== "Serves 4"
+
+    - :rice: 0.75 cup (133 g) quinoa
+    - :stew: 1.25 cups (300 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
+
+=== "Serves 6"
+
+    - :rice: 1.2 cups (200 g) quinoa
+    - :stew: 1.9 cups (450 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
+
+=== "Serves 8"
+
+    - :rice: 1.5 cups (267 g) quinoa
+    - :stew: 2.5 cups (600 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 ## :cooking: Cookware
 
