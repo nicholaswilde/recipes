@@ -5,9 +5,3 @@ This file tracks all major tracks for the project. Each track has its own detail
 - [x] **Track: Integrate Taskfile Shortcuts for new python scripts (`import_recipe_workflow.py` and
   `whitelist_typos.py`) to simplify development workflows.**
 *Link: [./tracks/taskfile_shortcuts/](./tracks/taskfile_shortcuts/)*
-
----
-
-- [x] **Track: Expand the measurement conversions table in `docs/reference/measuring.md` to
-  support more ingredients.**
-*Link: [./tracks/expand_measuring_reference/](./tracks/expand_measuring_reference/)*
