@@ -8,6 +8,6 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Expand the measurement conversions table in `docs/reference/measuring.md` to
+- [x] **Track: Expand the measurement conversions table in `docs/reference/measuring.md` to
   support more ingredients.**
 *Link: [./tracks/expand_measuring_reference/](./tracks/expand_measuring_reference/)*
