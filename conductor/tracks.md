@@ -2,7 +2,25 @@
 
 This file tracks all major tracks for the project. Each track has its own detailed plan in its respective folder.
 
-- [scrape_to_cook_script](file:///home/nicholas/git/nicholaswilde/recipes/conductor/tracks/scrape_to_cook_script/index.md)
-- [auto_emoji_mapper](file:///home/nicholas/git/nicholaswilde/recipes/conductor/tracks/auto_emoji_mapper/index.md)
-- [auto_dictionary_whitelister](file:///home/nicholas/git/nicholaswilde/recipes/conductor/tracks/auto_dictionary_whitelister/index.md)
-- [import_recipe_workflow](file:///home/nicholas/git/nicholaswilde/recipes/conductor/tracks/import_recipe_workflow/index.md)
+- [ ] **Track: Implement scripts/scrape_to_cook.py to automatically scrape recipe
+  webpages and format them into CookLang (.cook) files.**
+*Link: [./tracks/scrape_to_cook_script/](./tracks/scrape_to_cook_script/)*
+
+---
+
+- [x] **Track: Add auto-fix/interactive mapping capabilities to check-recipe-emojis.py
+  to automate adding missing emojis to includes/emoji.yaml.**
+*Link: [./tracks/auto_emoji_mapper/](./tracks/auto_emoji_mapper/)*
+
+---
+
+- [ ] **Track: Implement scripts/whitelist_typos.py to automatically whitelist
+  words in dictionary.txt, sort the dictionary, and regenerate the typos configuration.**
+*Link: [./tracks/auto_dictionary_whitelister/](./tracks/auto_dictionary_whitelister/)*
+
+---
+
+- [ ] **Track: Create scripts/import_recipe_workflow.py to orchestrate the entire
+  import recipe workflow in a single CLI command, and update import-recipe.md skill
+  to instruct agents to use it.**
+*Link: [./tracks/import_recipe_workflow/](./tracks/import_recipe_workflow/)*
