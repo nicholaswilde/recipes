@@ -14,4 +14,4 @@
     - [x] Run `rumdl check` on `couscous.md` and `quinoa.md`
     - [x] Run `task lint` and `task validate` to check configurations
     - [x] Run `zensical build` to ensure static site compiles successfully
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Migration of Candidate Recipes' (Protocol in workflow.md)
+- [~] Task: Conductor - User Manual Verification 'Phase 1: Migration of Candidate Recipes' (Protocol in workflow.md)
