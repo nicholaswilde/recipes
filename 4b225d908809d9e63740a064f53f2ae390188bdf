@@ -1,0 +1,5 @@
+Task: Update Scripts Registry
+Summary of changes: Documented the usage and under-the-hood details of scripts/whitelist_typos.py in scripts/README.md.
+Created/modified files:
+- scripts/README.md
+Why: To provide clear documentation on how to run and use the new whitelisting script.
