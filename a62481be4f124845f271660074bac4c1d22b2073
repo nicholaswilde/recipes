@@ -1,0 +1,3 @@
+Task: Remove Serves column from metadata tables
+Changes: Removed the Serves column from the top metadata tables in couscous.md and quinoa.md since serves are now handled by Zensical tabs.
+Modified files: docs/sides/grains-and-legumes/couscous.md, docs/sides/grains-and-legumes/quinoa.md
