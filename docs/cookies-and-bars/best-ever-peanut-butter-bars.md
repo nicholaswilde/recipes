@@ -77,6 +77,10 @@ For the Chocolate Frosting: Add butter to a small skillet over medium heat. Once
 powder. Remove from heat and stir in milk, powdered sugar, and vanilla extract. Whisk until smooth, using electric
 beaters to get out any lumps, if needed. Spread chocolate frosting over the top of the bars.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://tastesbetterfromscratch.com/best-ever-peanut-butter-bars/>

@@ -62,6 +62,10 @@ cooling rack to cool.
 
 Store in an airtight container for up to 3 days.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://jessicaseinfeld.com/recipes/chocolate-chip-cookies-with-chickpeas>

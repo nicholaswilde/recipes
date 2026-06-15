@@ -93,6 +93,10 @@ Bake for 9 to 11 minutes. Pull them out before they look fully done. Let them re
 
 Whisk **confectioners sugar** (113 g), **whole milk** (21 g), and **pure vanilla extract** (4 g) together in a **medium bowl** and drizzle over the cooled cookies.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://krollskorner.com/recipes/desserts/chewy-oatmeal-chocolate-chip-cookies/>

@@ -40,6 +40,10 @@ Preheat oven to 365°F.
 Combine butter, packed brown sugar, granulated sugar, eggs, milk, vanilla, all-purpose flour, baking soda, rolled oats,
 and chocolate chips and bake for 8 to 10 minutes.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - Recipe Box

@@ -51,6 +51,10 @@ time and blend again until it is ready.
 Scoop a full, heaping tablespoon of mixture into your hand. Squeeze it firmly 4 to 5 times to compact it, then quickly
 roll into a ball. Store in the fridge for up to 1 week or freeze for later.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/date-energy-balls/>

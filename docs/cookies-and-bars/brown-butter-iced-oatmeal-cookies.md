@@ -89,6 +89,10 @@ milk, vanilla, and salt for the frosting in a microwave safe bowl. Mix until smo
 Frost the top of each oatmeal cookie, using an offset to spatula to scrape off any excess glaze. Allow the glaze to set
 before eating!
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://bromabakery.com/brown-butter-iced-oatmeal-cookies/>

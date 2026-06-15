@@ -58,6 +58,10 @@ butter layer and spread evenly. Sprinkle with sea salt right away.
 Freeze for about 1 hour, or until firm. Let the pan sit at room temperature for a couple of minutes, then slice into
 squares or bars. Store them in the freezer for an easy grab-and-go snack.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/peanut-butter-bars/>

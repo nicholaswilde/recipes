@@ -59,6 +59,10 @@ While still warm, form the mixture into patties. Add eggs (optional) if the mixt
 
 Burgers can be then shallow fried for 1 to 2 minutes on each side or baked at 400°F for 15 minutes.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - HEAT Culinary

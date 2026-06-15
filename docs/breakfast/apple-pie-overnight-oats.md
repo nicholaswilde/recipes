@@ -62,6 +62,10 @@ apples on top of the oats. Place in the refrigerator overnight, or for at least 
 Enjoy chilled or at room temperature. Overnight oats will keep in the refrigerator for 2-3 days, though best within the
 first 12-24 hours in our experience. Not freezer friendly.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://minimalistbaker.com/apple-pie-overnight-oats/>

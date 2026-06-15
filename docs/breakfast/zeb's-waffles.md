@@ -63,6 +63,10 @@ waffle according to the manufacturer’s directions for your waffle iron. When d
 (some waffles require the assistance of a chopstick to encourage release from the waffle iron). Top with sliced kiwi,
 raspberries, and maple syrup.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://mealplanner.plantstrong.com/recipe/5a4d20cfbc1767ff4c771e83>

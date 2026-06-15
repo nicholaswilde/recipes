@@ -60,6 +60,10 @@ Reduce heat to medium-low and cook for 15 minutes.
 
 Top with :apple: sliced figs and :seedling: hemp seeds, if desired.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://nutritionstudies.org/recipes/breakfast/golden-milk-oatmeal/>

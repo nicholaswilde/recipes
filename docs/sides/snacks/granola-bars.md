@@ -70,6 +70,10 @@ cool completely.
 
 Cut into bars and try not to eat them all or you won’t have any left for your breakfast!
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.gordonramsayrestaurants.com/recipes/granola-bars/>

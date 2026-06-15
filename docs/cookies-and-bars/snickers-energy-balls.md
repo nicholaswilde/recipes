@@ -55,6 +55,10 @@ Optional chocolate topping: Melt chopped dark chocolate (70% cocoa) in a microwa
 stirring between each interval. Drizzle over the energy balls or dip them in the chocolate. Sprinkle with chopped
 roasted salted peanuts if you like. Refrigerate or freeze for 15 to 20 minutes, or until the chocolate is set.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/snickers-energy-balls/>

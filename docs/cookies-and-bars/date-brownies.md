@@ -60,6 +60,10 @@ the blender and blend for 30 to 60 seconds until fully incorporated.
 Pour the batter into the prepared pan, top with extra dark chocolate chips and flaky sea salt (optional). Bake for 18 to
 22 minutes until the top is set but the center is still soft. Allow to cool completely before slicing.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/date-brownies/>

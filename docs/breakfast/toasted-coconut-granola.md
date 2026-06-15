@@ -52,6 +52,10 @@ until granola is toasted, about 45 minutes.
 Remove granola from oven and season with salt. Let cool completely before serving or storing in an airtight container
 for up to 1 month.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.marthastewart.com/256537/farmhands-choice-granola>

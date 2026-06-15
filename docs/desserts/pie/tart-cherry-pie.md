@@ -89,6 +89,10 @@ it before then the pie filling won't be set). The longer the pie rests, the easi
 days ahead of time. Pie is best served at room temp or just slightly warm. Serves 9. Great with vanilla bean ice cream.
 Enjoy!
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Sources
 
 - <https://www.ambitiouskitchen.com/tart-cherry-pie/>

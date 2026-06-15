@@ -50,6 +50,10 @@ create approximately 20 bites.
 
 Store in an airtight container and refrigerate.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - Applied Kitchen

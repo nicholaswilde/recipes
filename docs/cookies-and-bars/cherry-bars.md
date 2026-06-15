@@ -127,6 +127,10 @@ Slice squares with a sharp knife and, for neat squares, wipe the knife clean bet
 Cover and store leftover cherry pie bars (with or without icing) at room temperature for up to 2 days or in the
 refrigerator for up to 1 week.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/cherry-pie-bars/#tasty-recipes-124000>

@@ -65,6 +65,10 @@ a coarse meal and butter is combined (be sure to not over mix into one large bal
 
 Sprinkle topping onto filling to cover. Bake until top is golden and fruit is bubbly, about 30 minutes.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - Tspoons

@@ -75,6 +75,10 @@ minutes.
 
 Let the cookies cool completely on the baking sheet.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.seriouseats.com/oatmeal-raisin-cookies-recipe-8759166>

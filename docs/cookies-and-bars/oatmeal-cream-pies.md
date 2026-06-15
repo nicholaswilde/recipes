@@ -95,6 +95,10 @@ Pipe the creme filling onto the backside of one of the cookies and sandwich toge
 
 Store in an airtight container or Ziploc bag for up to 7 days! Enjoy!
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://bromabakery.com/homemade-oatmeal-creme-pies/>

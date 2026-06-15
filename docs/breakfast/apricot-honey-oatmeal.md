@@ -45,6 +45,10 @@ is absorbed, stirring occasionally. Remove from heat.
 
 Let stand until of desired consistency.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.quakeroats.com/cooking-and-recipes/apricot-honey-oatmeal>

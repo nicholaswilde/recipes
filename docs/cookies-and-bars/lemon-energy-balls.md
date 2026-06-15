@@ -54,6 +54,10 @@ Roll the balls in additional shredded coconut to coat.
 
 Enjoy right away or chill for 20 minutes for the best texture. Store in the fridge or freeze.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/lemon-energy-balls/>

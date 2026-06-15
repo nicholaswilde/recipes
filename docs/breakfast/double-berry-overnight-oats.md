@@ -55,6 +55,10 @@ Combine uncooked old fashioned oats, unsweetened vanilla almond milk, light arti
 berries, lemon zest, cinnamon, vanilla, chia seeds, and salt in a medium jar or large glass; stir, cover and
 refrigerate overnight. Garish with almonds; serve.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.weightwatchers.com/us/recipe/double-berry-overnight-oats/585c27d0d4c2a8c517deece5>

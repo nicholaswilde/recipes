@@ -43,6 +43,10 @@ of water. Use 4 cups for a thinner consistency).
 Using a nut milk bag or cheesecloth, drain the milk into a bowl. Transfer to a sealable container, and store in your
 refrigerator for up to one week.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://nutritionstudies.org/recipes/sauce/homemade-oat-milk/>

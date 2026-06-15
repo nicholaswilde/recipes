@@ -70,6 +70,10 @@ Bake for 12 to 15 minutes, until the edges are lightly browned.
 
 Allow to cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.shelikesfood.com/healthy-carrot-cake-cookies/>

@@ -46,6 +46,10 @@ coarse and hold together when squeezed in your hand. If it's too dry, add a litt
 Scoop about 1.5 Tbsp of the mixture into your hand. Squeeze it firmly a few times until it sticks together, then gently
 roll it into a ball. Enjoy right away or store in an airtight container in the refrigerator for up to 1 week.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/oatmeal-raisin-energy-balls/>

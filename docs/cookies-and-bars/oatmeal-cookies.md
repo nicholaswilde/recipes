@@ -90,6 +90,10 @@ Cool on the sheet for 5 minutes.
 
 Move to a cooling rack to let the cookies completely cool.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.youtube.com/watch?v=gGBC4-CsXOM>

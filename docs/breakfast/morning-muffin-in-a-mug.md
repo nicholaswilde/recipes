@@ -47,6 +47,10 @@ expand as it cooks and may partially rise out of the mug.
 Carefully remove the mug from the microwave, as it will be very hot, and let cool for about 5 minutes. Top with some
 fresh berries (optional), drizzle with more honey if desired, and serve.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.traderjoes.com/home/recipes/morning-muffin-in-a-mug>

@@ -52,6 +52,10 @@ Roll the balls in additional shredded coconut mixed with extra lime zest so the 
 
 Place them on a plate or tray and chill in the fridge for about 20 minutes until slightly firm.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/key-lime-pie-energy-balls/>

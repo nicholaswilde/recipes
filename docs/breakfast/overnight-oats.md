@@ -53,6 +53,10 @@ least 3 hours before enjoying.
     The possibilities for flavor combinations are endless! For extra convenience, make enough servings for the whole
     week & store in the refrigerator until ready to enjoy.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - Marissa Kent Nutrition
