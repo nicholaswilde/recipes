@@ -431,6 +431,7 @@ Pierogies
 Pillowy
 Pizzelle
 Play-Doh
+Ploughman's
 Poire
 Polenta
 Pommes
@@ -1023,6 +1024,8 @@ pistachios
 pizzelle
 pkgs
 play-doh
+ploughman
+ploughman's
 png
 poblano
 poblanos
