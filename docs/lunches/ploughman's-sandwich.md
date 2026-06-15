@@ -3,7 +3,7 @@ comments: true
 tags:
   - lunch
 ---
-# Ploughman's Sandwich
+# :sandwich: Ploughman's Sandwich
 
 ![Ploughman's Sandwich][1]{ loading=lazy }
 
