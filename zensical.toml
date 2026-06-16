@@ -457,6 +457,7 @@ Desserts = [
   { "Pecan Tassies" = "desserts/pecan-tassies.md" },
   { "Peppermint Fudge" = "desserts/peppermint-fudge.md" },
   { "Peppermint Patties" = "desserts/peppermint-patties.md" },
+  { "Persian Saffron Rice Pudding Sholeh Zard" = "desserts/persian-saffron-rice-pudding-sholeh-zard.md" },
   { "Pineapple Upside Down Cake" = "desserts/cake/pineapple-upside-down-cake.md" },
   { "Plum Torte" = "desserts/tarts/plum-torte.md" },
   { "Poppy Seed Almond Cake" = "desserts/cake/poppy-seed-almond-cake.md" },

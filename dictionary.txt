@@ -508,6 +508,7 @@ Seccia
 Shakshuka
 Shaoxing
 Sheehan
+Sholeh
 Shoofly
 Shutterbean
 Sicilia
@@ -590,6 +591,7 @@ YAML
 Yaourt
 Yeasted
 Zahav
+Zard
 Zeb's
 Zensical
 Zepeda
@@ -1099,6 +1101,7 @@ scottish
 sealable
 sel
 serrano
+sholeh
 shortbreads
 shortcode
 shortcodes
@@ -1191,6 +1194,7 @@ xanthan
 xlsx
 yaourt
 za'atar
+zard
 zested
 zhoug
 ziplock
