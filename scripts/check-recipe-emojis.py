@@ -161,14 +161,14 @@ def main():
     with open(cook_path, "r", encoding="utf-8") as f:
         content = f.read()
         
-    raw_ingredients = re.findall(r'@(?:([^{]+)\{[^}]*\}|(\w+))', content)
+    raw_ingredients = re.findall(r'@(?:([^\n@#{}]+)\{[^}]*\}|(\w+))', content)
     ingredients = set()
     for item in raw_ingredients:
         name = item[0] if item[0] else item[1]
         if name:
             ingredients.add(name.strip())
             
-    raw_cookware = re.findall(r'#(?:([^{]+)\{[^}]*\}|(\w+))', content)
+    raw_cookware = re.findall(r'#(?:([^\n@#{}]+)\{[^}]*\}|(\w+))', content)
     cookware = set()
     for item in raw_cookware:
         name = item[0] if item[0] else item[1]

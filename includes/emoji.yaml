@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - pot
         - platter
         - large bowl
         - heat-proof bowl
@@ -94,6 +95,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - vegan Worcestershire sauce
         - apple
         - apple sauce
         - apple cider vinegar
@@ -122,6 +124,7 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - vegan sausage (13 oz)
         - yogurt
         - vegan mayonnaise
         - vegan mayo
@@ -130,6 +133,7 @@ emoji:
         - aquafaba
         - buttermilk
     - beans:
+        - green onions
         - chickpeas
         - tinned chickpeas
         - shelled edamame
@@ -143,6 +147,7 @@ emoji:
     - bee:
         - beeswax
     - bread:
+        - long grain white rice
         - stone ground whole wheat flour
         - pita
         - pasta
@@ -363,6 +368,7 @@ emoji:
         - green grapes
         - date paste
     - herb:
+        - Cajun seasoning
         - fresh basil leaves
         - fresh mint leaves
         - fresh cilantro
@@ -388,6 +394,7 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - crushed tomatoes
         - crushed red pepper
         - bell pepper
         - red bell pepper
@@ -479,6 +486,7 @@ emoji:
         - some salt
         - some pepper
     - seedling:
+        - yellow onion
         - pumpkin seeds
         - sunflower seeds
         - yellow or Dijon mustard
@@ -521,6 +529,7 @@ emoji:
         - tamari
         - miso paste
     - tangerine:
+        - okra
         - tangerine
         - orange
         - orange juice
