@@ -499,6 +499,7 @@ Desserts = [
   { "Tollhouse Pie" = "desserts/pie/tollhouse-pie.md" },
   { "Tres Leches Cake with Berries" = "desserts/cake/tres-leches-cake-with-berries.md" },
   { "Triple Layer Chocolate Mints" = "desserts/triple-layer-chocolate-mints.md" },
+  { "Tspoons Strawberry Rhubarb Crisp" = "desserts/tspoons-strawberry-rhubarb-crisp.md" },
   { "Two-Layer Cheesecake" = "desserts/two-layer-cheesecake.md" },
   { "Ultimate Brown Butter Rice Krispies Treats" = "desserts/ultimate-brown-butter-rice-krispies-treats.md" },
   { "Vanilla Bean Ice Cream" = "desserts/vanilla-bean-ice-cream.md" },
