@@ -76,7 +76,7 @@ sheets, 8 dough balls per sheet.
 
 ### Step 7
 
-Preheat oven to 375°F. 
+Preheat oven to 375°F.
 
 ### Step 8
 

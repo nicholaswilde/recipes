@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/butterscotch-squares.webp
 ---
+
 # :candy: Butterscotch Squares
 
 ![Butterscotch Squares][1]{ loading=lazy }

@@ -9,6 +9,7 @@ tags:
   - vegetarian
 hero: assets/images/one-pan-orzo-with-spinach-and-feta.webp
 ---
+
 # One-Pan Orzo with Spinach and Feta
 
 ![One-Pan Orzo with Spinach and Feta][1]{ loading=lazy }
@@ -74,4 +75,3 @@ Garnish with the reserved scallions and extra feta. Serve warm.
 - <https://cooking.nytimes.com/recipes/1021941-one-pan-orzo-with-spinach-and-feta>
 
 [1]: <../assets/images/one-pan-orzo-with-spinach-and-feta.webp>
-

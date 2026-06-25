@@ -7,6 +7,7 @@ tags:
   - indo-dutch
 hero: assets/images/omas-spekkoek.webp
 ---
+
 # :cake: Oma's Spekkoek
 
 ![Oma's Spekkoek](../../assets/images/omas-spekkoek.webp){ loading=lazy }
@@ -25,7 +26,7 @@ hero: assets/images/omas-spekkoek.webp
 - :ear_of_rice: 1.5 cups all purpose flour, sieved
 - :salt: 1 pinch salt
 
-### Spices for the brown layer:
+### Spices for the brown layer
 
 - :seedling: 4 rounded tsp ground anise seed
 - :seedling: 8 rounded tsp ground cinnamon

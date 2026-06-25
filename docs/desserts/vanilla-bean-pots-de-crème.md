@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/vanilla-bean-pots-de-crème.jpg
 ---
+
 # Vanilla Bean Pots de Crème
 
 ![Vanilla Bean Pots de Crème][1]{ loading=lazy }
@@ -61,4 +62,3 @@ before serving.
 - <https://alexandracooks.com/2015/02/06/vanilla-bean-pots-de-creme/>
 
 [1]: <../assets/images/vanilla-bean-pots-de-crème.jpg>
-

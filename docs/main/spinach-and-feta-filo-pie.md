@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/spinach-and-feta-filo-pie.webp
 ---
+
 # Spinach and Feta Filo Pie
 
 ![Spinach and Feta Filo Pie][1]{ loading=lazy }
@@ -107,4 +108,3 @@ oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fr
 [1]: <../assets/images/spinach-and-feta-filo-pie.webp>
 [2]: <../ingredients/eggs.md>
 [4]: <../ingredients/pastry-dough/filo.md>
-

@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/tortilla-de-patatas.png
 ---
+
 # Tortilla de Patatas
 
 ![Tortilla de Patatas][1]{ loading=lazy }
@@ -96,4 +97,3 @@ for garnish.
 
 [1]: <../../assets/images/tortilla-de-patatas.png>
 [2]: <../../ingredients/eggs.md>
-

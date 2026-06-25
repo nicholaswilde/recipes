@@ -54,7 +54,7 @@ color, another 10 minutes or so.
 Add the red wine and stir, scraping up any brown bits off the bottom of the pot. Then add the crushed or pureed
 tomatoes, liquid aminos or fish sauce, and unsweetened soy milk, and stir well. Lower the heat to a bare simmer and let
 the sauce cook, stirring occasionally to be sure it isn't sticking, for an hour. If the sauce starts to stick, add 1/4
-cup of water and stir  well. Let it continue simmering for a least another 40 minutes or up to 4 hours for deeper
+cup of water and stir well. Let it continue simmering for a least another 40 minutes or up to 4 hours for deeper
 flavors. Remove the bay leaves.
 
 ### Step 3

@@ -4,6 +4,7 @@ tags:
   - breakfast
 hero: assets/images/belgian-pearl-sugar-liege-waffles.webp
 ---
+
 # Belgian Pearl Sugar Liege Waffles
 
 ![Belgian Pearl Sugar Liege Waffles][1]{ loading=lazy }
@@ -68,4 +69,3 @@ Bake in a preheated and greased waffle iron for 2 to 3 minutes or until deep gol
 - Lars Own
 
 [1]: <../assets/images/belgian-pearl-sugar-liege-waffles.webp>
-

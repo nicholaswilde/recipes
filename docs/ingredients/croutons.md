@@ -46,7 +46,7 @@ Spread the bread cubes out in a single layer on a baking sheet.
 
 ### Step 4
 
-Bake until golden, turning once halfway through cooking in order to brown all sides of the croutons.  Cooking time will
+Bake until golden, turning once halfway through cooking in order to brown all sides of the croutons. Cooking time will
 depend on the thickness of the cubes, so watch to be sure that they do not burn. (Mine generally take between 15 to 20
 minutes.)
 

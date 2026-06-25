@@ -87,6 +87,7 @@ clean.
 ### Step 7
 
 **Topping (Optional):**
+
 - **Dusting:** Right before serving, dust with 2 Tablespoons (15g) of confectioners’ sugar.
 - **Glaze:** Combine butter, brown sugar, heavy cream, and salt in a saucepan over medium heat. Stir constantly until
   butter melts, then bring to a rapid boil for 1 minute. Reduce heat to low and simmer for 1 minute. Remove from heat

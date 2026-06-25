@@ -49,7 +49,7 @@ hero: assets/images/pumpkin-cheesecake-cookies.webp
 ### Step 1
 
 Line a baking sheet with {}parchment paper or a nonstick baking mat{}. (This reusable silicone baking mat is our
-editors’ go-to.)  Combine the cold cream cheese, sugar and vanilla in a bowl. Mix on medium-high speed with an
+editors’ go-to.) Combine the cold cream cheese, sugar and vanilla in a bowl. Mix on medium-high speed with an
 electric mixer until fluffy. Scoop the filling into 16 2 teaspoon sized portions. Transfer the baking sheet to the
 freezer. Leave the cheesecake balls in the freezer until frozen and very firm.
 

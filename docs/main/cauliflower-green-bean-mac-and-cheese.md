@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/cauliflower-green-bean-mac-and-cheese.webp
 ---
+
 # Cauliflower Green Bean Mac and Cheese
 
 ![Cauliflower Green Bean Mac and Cheese][1]{ loading=lazy }
@@ -58,4 +59,3 @@ Add veggies, toasted crushed almonds, and raisins and mix together. Top with cho
 - Forks Over Knives
 
 [1]: <../assets/images/cauliflower-green-bean-mac-and-cheese.webp>
-

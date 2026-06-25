@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/gingerbread-people.webp
 ---
+
 # Gingerbread People
 
 ![Gingerbread People][1]{ loading=lazy }
@@ -52,4 +53,3 @@ While they are still warm, spread evenly with lemon glaze.
 Cool before frosting with Royal icing.
 
 [1]: <../assets/images/gingerbread-people.webp>
-

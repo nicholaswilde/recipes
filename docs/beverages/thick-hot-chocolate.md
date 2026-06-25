@@ -7,6 +7,7 @@ tags:
   - forbes
 hero: assets/images/thick-hot-chocolate.webp
 ---
+
 # :coffee: Thick Hot Chocolate
 
 ![Thick Hot Chocolate][1]{ loading=lazy }

@@ -39,7 +39,7 @@ Shell and split the eggs in half lengthwise and remove, but don't discard, the y
 ### Step 3
 
 For filling, take yolks, mash them and mix mayonnaise, mustard, salt, garlic salt, onion powder, finely chopped bacon
-bits.  all ingredients together until creamy. Add mayonnaise if not creamy enough.
+bits. all ingredients together until creamy. Add mayonnaise if not creamy enough.
 
 ### Step 4
 

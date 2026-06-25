@@ -139,7 +139,6 @@ small children or pets.
 - Food-grade lye (also known as sodium hydroxide), available at baking shops or online
 - Long sleeves with long rubber gloves (such as for dishwashing: before wearing, blow up each glove like a balloon to
 ensure that there are no holes)
-
 - Eyeglasses or safety goggles
 - Digital scale that measures in grams
 - Rags in case of spills or drips
@@ -166,7 +165,6 @@ left of lye solution, and proceed with recipe. (Clear counter while pretzels bak
 1. Still wearing gloves and eyewear, transfer bowl of lye solution to sink.
 2. Run cold water into bowl in gentle stream to dilute solution. Pour solution down drain. Flush drain and rinse bowl
 and sink thoroughly with plenty of cold water.
-
 3. Rinse rimmed baking sheets and wire rack with plenty of cold water. Dispose of plastic wrap or plastic bag on
 counter. Rinse gloves before removing. Once gloves are off, remove eyewear.
 

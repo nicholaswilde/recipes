@@ -7,6 +7,7 @@ tags:
   - King Arthur Baking
 hero: assets/images/classic-white-sandwich-bread.webp
 ---
+
 # Classic White Sandwich Bread
 
 ![Classic White Sandwich Bread][1]{ loading=lazy }

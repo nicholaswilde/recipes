@@ -6,16 +6,20 @@ Convert recipes with multiple ingredients/instructions headers (e.g., Dough and 
 
 1. **Identify Candidates**:
    - Locate recipes with multiple ingredients headers:
+
      ```bash
      uv run scripts/identify_multi_serving.py
      ```
 
 2. **Convert to Tabs**:
    - **For different serving/batch sizes**: Use the automated size scaling script:
+
      ```bash
      uv run python3 scripts/add_recipe_size.py <recipe_path> <scale_factor> "<tab_name>"
      ```
+
    - **For different components (e.g. Dough vs. Glaze)**: Manually wrap them in tabs following the 4-space indentation standard:
+
      ```markdown
      === "Dough"
 

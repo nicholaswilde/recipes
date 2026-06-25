@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/texas-potato-pancakes.webp
 ---
+
 # Texas Potato Pancakes
 
 ![Texas Potato Pancakes][1]{ loading=lazy }
@@ -74,4 +75,3 @@ sour cream and applesauce separately.
 
 [1]: <../assets/images/texas-potato-pancakes.webp>
 [2]: <../ingredients/eggs.md>
-

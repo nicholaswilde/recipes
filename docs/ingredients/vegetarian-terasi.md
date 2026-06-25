@@ -6,6 +6,7 @@ tags:
   - indo-dutch
 hero: assets/images/vegetarian-terasi.webp
 ---
+
 # :bowl_with_spoon: Vegetarian Terasi
 
 ![Vegetarian Terasi](../assets/images/vegetarian-terasi.webp){ loading=lazy }

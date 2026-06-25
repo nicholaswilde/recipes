@@ -1,6 +1,7 @@
 ---
 hero: assets/images/white-trash.webp
 ---
+
 # White Trash
 
 ![White Trash](../../assets/images/white-trash.webp){ loading=lazy }

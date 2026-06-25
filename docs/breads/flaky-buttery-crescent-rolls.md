@@ -8,6 +8,7 @@ tags:
   - King Arthur Baking
 hero: assets/images/flaky-buttery-crescent-rolls.webp
 ---
+
 # Flaky Buttery Crescent Rolls
 
 ![Flaky Buttery Crescent Rolls][1]{ loading=lazy }
@@ -19,6 +20,7 @@ hero: assets/images/flaky-buttery-crescent-rolls.webp
 ## :salt: Ingredients
 
 ### Dough
+
 - :bread: 3 cups (360 g) King Arthur Unbleached All-Purpose Flour
 - :salt: 1 1/4 tsp (8 g) table salt (reduce to 3/4 tsp if using salted butter)
 - :chestnut: 1 tsp (4 g) baking powder
@@ -28,6 +30,7 @@ hero: assets/images/flaky-buttery-crescent-rolls.webp
 - :cheese_wedge: 1 1/2 cups (340 g) [Ricotta](../ingredients/ricotta.md) cheese, full-fat or part-skim
 
 ### Topping
+
 - :egg: 1 large egg, beaten
 - :droplet: 1 Tbsp (15 g) water
 

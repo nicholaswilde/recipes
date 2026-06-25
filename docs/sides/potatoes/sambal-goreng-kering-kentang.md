@@ -8,6 +8,7 @@ tags:
   - vegan
 hero: assets/images/sambal-goreng-kering-kentang.webp
 ---
+
 # :potato: Sambal Goreng Kering Kentang
 
 ![Sambal Goreng Kering Kentang](../../assets/images/sambal-goreng-kering-kentang.webp){ loading=lazy }

@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - mixing
         - whisk
         - pan
         - pot
@@ -90,6 +91,7 @@ emoji:
         - small spoon
         - large serving spoon
     - wastebasket:
+        - strainer
         - fine-mesh strainer
         - wire rack
     - wood:
@@ -98,6 +100,14 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - cherry tomatoes
+        - Fresh thyme (optional)
+        - pinch of ground nutmeg
+        - Granny Smith apples
+        - /4 cup (28g) pecans, chopped
+        - tomato sauce
+        - dried
+        - chopped fresh cilantro (optional, for serving)
         - rhubarb stalks, trimmed and sliced ½-inch thick
         - vegan Worcestershire sauce
         - apple
@@ -128,6 +138,14 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - /4 teaspoon table salt
+        - /2 teaspoon King Arthur Pure Vanilla Extract
+        - /2 cup (113g) ricotta cheese or farmer's cheese, well drained
+        - (85g) unsalted butter, softened
+        - (28g) unsalted butter, melted
+        - (283g) milk, lukewarm, divided
+        - olive oil over medium-high heat. Add the onion and sauté until softened, 2 to ~
+        - garlic. Cook, stirring, until rice is toasted and fragrant, 3 to ~
         - unsalted butter, cut into ½-inch cubes
         - salt. Process until well combined, about ~
         - Lightly sweetened whipped cream or vanilla ice cream, for serving (optional)
@@ -141,6 +159,7 @@ emoji:
         - aquafaba
         - buttermilk
     - beans:
+        - finely chopped white onion
         - green onions
         - chickpeas
         - tinned chickpeas
@@ -155,6 +174,11 @@ emoji:
     - bee:
         - beeswax
     - bread:
+        - /4 teaspoon ground cinnamon
+        - /4 cup (30g) King Arthur Unbleached All-Purpose Flour
+        - (390g) King Arthur Unbleached All-Purpose Flour
+        - (14g) Instant Clearjel or cornstarch
+        - (14g) Instant Clearjel or 2 tablespoons (14g) King Arthur Unbleached All-Purpose Flour
         - ½ tablespoons cornstarch
         - all-purpose flour, spooned into measuring cup and leveled-off with a knife
         - long grain white rice
@@ -196,6 +220,10 @@ emoji:
         - knob
         - knob of butter
     - candy:
+        - instant yeast or active dry yeast
+        - /4 cup (50g) granulated sugar
+        - /3 cup (67g) granulated sugar
+        - (14g) granulated sugar
         - granulated
         - granulated sugar
         - golden caster sugar
@@ -408,6 +436,8 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - chili powder
+        - chili
         - crushed tomatoes
         - crushed red pepper
         - bell pepper
@@ -440,6 +470,7 @@ emoji:
         - vanilla ice cream
         - fudge ripple ice cream
     - leafy_green:
+        - cherry
         - Swiss chard, kale, or collard greens
         - rhubarb
         - celery (optional)
@@ -480,6 +511,7 @@ emoji:
     - pineapple:
         - crushed pineapple
     - salt:
+        - Sea salt and freshly ground black pepper
         - fine sea salt
         - Kala Namak or black salt
         - freshly-cracked black pepper
@@ -517,6 +549,7 @@ emoji:
         - freshly ground cardamom
         - tahini
     - stew:
+        - low sodium chicken broth
         - vegetable stock
         - vegetable broth
         - low-sodium vegetable broth
@@ -544,6 +577,7 @@ emoji:
         - tamari
         - miso paste
     - tangerine:
+        - lemon zest or 1/8 teaspoon lemon oil
         - okra
         - tangerine
         - orange

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
 ---
+
 # Persian Saffron Rice Pudding Sholeh Zard
 
 ![Persian Saffron Rice Pudding Sholeh Zard][1]{ loading=lazy }
@@ -75,4 +76,3 @@ almond flakes), whole almonds, dried crushed rose petals (or rose buds), and opt
 - <https://www.linsfood.com/persian-saffron-rice-pudding-sholeh-zard/>
 
 [1]: <../assets/images/persian-saffron-rice-pudding-sholeh-zard.webp>
-

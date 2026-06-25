@@ -40,7 +40,7 @@ Top it off: Sprinkle with roasted sunflower seeds.
 
 ### Step 3
 
-Add a sauce (optional):  A simple tahini dressing (optional), a light lemon vinaigrette (optional), or even a drizzle of
+Add a sauce (optional): A simple tahini dressing (optional), a light lemon vinaigrette (optional), or even a drizzle of
 sriracha (optional) would work well.
 
 [1]: <../assets/images/superfood-power-bowl.webp>

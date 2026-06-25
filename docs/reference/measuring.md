@@ -516,6 +516,23 @@ with the gas marks, used in some countries, as well.
 | 450°F       | 230°C or Gas Mark 8   |
 | 475°F       | 240°C or Gas Mark 9   |
 
+## :scales: Baking Ratios
+
+Understanding fundamental baking ratios allows you to scale, troubleshoot, and create recipes without needing a reference formula. These ratios represent parts by weight (mass).
+
+| Item | Ratio (by Weight) | Parts Breakdown |
+| :--- | :---: | :--- |
+| **Simple Syrup** | 1:1 | 1 part sugar : 1 part water |
+| **Pasta Dough** | 3:2 | 3 parts flour : 2 parts egg |
+| **Pie Dough** | 3:2:1 | 3 parts flour : 2 parts fat : 1 part liquid |
+| **Biscuits & Scones** | 3:1:2 | 3 parts flour : 1 part fat : 2 parts liquid |
+| **Cookie Dough (Shortbread)** | 3:2:1 | 3 parts flour : 2 parts fat : 1 part sugar |
+| **Pound Cake** | 1:1:1:1 | 1 part flour : 1 part egg : 1 part fat : 1 part sugar |
+| **Muffins & Quick Breads** | 2:2:1:0.5 | 2 parts flour : 2 parts liquid : 1 part egg : 0.5 part fat |
+| **Pancakes & Crepes** | 1:1:0.5:0.25 | 1 part flour : 1 part liquid : 0.5 part egg : 0.25 part fat |
+| **Choux Pastry** | 2:1:2:2 | 2 parts liquid : 1 part fat : 2 parts flour : 2 parts egg |
+| **Frangipane (Almond Cream)** | 1:1:1:1 | 1 part ground almonds : 1 part butter : 1 part sugar : 1 part egg |
+
 [^1]:
     The scoop# may be found by measuring the scoop bowl diameter if the scoop# is not printed on the scoop.
 [^2]:

@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
 ---
+
 # :cake: Butter Cake
 
 ![Butter Cake][1]{ loading=lazy }
@@ -81,4 +82,3 @@ serving. Store the cooled cake covered at room temperature for up to 5 days.
 - <https://preppykitchen.com/butter-cake/>
 
 [1]: <../../assets/images/butter-cake.webp>
-

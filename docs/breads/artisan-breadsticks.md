@@ -7,6 +7,7 @@ tags:
   - appetizer
 hero: assets/images/artisan-breadsticks.webp
 ---
+
 # Artisan Breadsticks
 
 ![Artisan Breadsticks][1]{ loading=lazy }

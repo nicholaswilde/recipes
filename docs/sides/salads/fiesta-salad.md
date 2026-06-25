@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/fiesta-salad.webp
 ---
+
 # Fiesta Salad
 
 ![Fiesta Salad][1]{ loading=lazy }
@@ -42,4 +43,3 @@ Top with chipotle ranch dressing.
 [1]: <../../assets/images/fiesta-salad.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/chipotle-ranch-dressing.md>
 [3]: <../../ingredients/black-beans.md>
-

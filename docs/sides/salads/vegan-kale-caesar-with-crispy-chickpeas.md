@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.webp
 ---
+
 # Vegan Kale Caesar with Crispy Chickpeas
 
 ![Vegan Kale Caesar with Crispy Chickpeas][1]{ loading=lazy }
@@ -78,4 +79,3 @@ Top the salad with the chickpeas and drizzle with another 1/4 cup or so of the d
 [1]: <../../assets/images/vegan-kale-caesar-with-crispy-chickpeas.webp>
 [2]: <../../ingredients/chickpeas.md>
 [3]: <../../sauces-and-dressings/dips-and-spreads/tofu-mayonnaise.md>
-

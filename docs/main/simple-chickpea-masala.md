@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/simple-chickpea-masala.webp
 ---
+
 # Simple Chickpea Masala
 
 ![Simple Chickpea Masala][1]{ loading=lazy }
@@ -69,4 +70,3 @@ Drizzle Sauce (optional).
 
 [1]: <../assets/images/simple-chickpea-masala.webp>
 [2]: <../ingredients/chickpeas.md>
-

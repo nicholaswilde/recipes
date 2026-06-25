@@ -7,6 +7,7 @@ tags:
   - condiments
 hero: assets/images/sambal-oelek.png
 ---
+
 # :hot_pepper: Sambal Oelek
 
 ![Sambal Oelek](../../assets/images/sambal-oelek.png){ loading=lazy }

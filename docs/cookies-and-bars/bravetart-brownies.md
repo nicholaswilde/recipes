@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/bravetart-brownies.webp
 ---
+
 # BraveTart Brownies
 
 ![BraveTart Brownies][1]{ loading=lazy }
@@ -90,4 +91,3 @@ days at room temperature.
 - <https://www.seriouseats.com/bravetart-glossy-fudge-brownies>
 
 [1]: <../assets/images/bravetart-brownies.webp>
-

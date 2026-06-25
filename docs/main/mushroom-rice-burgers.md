@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/mushroom-rice-burgers.webp
 ---
+
 # Mushroom Rice Burgers
 
 ![Mushroom Rice Burgers][1]{ loading=lazy }
@@ -34,7 +35,7 @@ hero: assets/images/mushroom-rice-burgers.webp
 
 ### Step 1
 
-Heat skillet. Sauté chopped onion and minced garlic until brown, about 4 minutes.  Add chopped white mushrooms, cook
+Heat skillet. Sauté chopped onion and minced garlic until brown, about 4 minutes. Add chopped white mushrooms, cook
 until liquid has evaporated. Stir in cooked brown rice and cook for 1 minute. Remove from heat and transfer mixture to
 large bowl. Stir in quick oats, grated cheddar cheese, and egg. Add salt and pepper. If mixture seems wet, add bread
 crumbs.
@@ -50,4 +51,3 @@ On grill, cook 4 to 6 minutes per side.
 [1]: <../assets/images/mushroom-rice-burgers.webp>
 [2]: <../ingredients/brown-rice.md>
 [3]: <../ingredients/eggs.md>
-

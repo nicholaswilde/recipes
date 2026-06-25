@@ -34,7 +34,7 @@ With an immersion blender, blend almond milk and bananas.
 
 ### Step 2
 
-To a mason jar or small bowl with a lid, add the almond milk and banana mixture and  rolled oats and stir a few more
+To a mason jar or small bowl with a lid, add the almond milk and banana mixture and rolled oats and stir a few more
 times. Then press down with a spoon to ensure all oats have been moistened and are immersed in almond milk.
 
 ### Step 3

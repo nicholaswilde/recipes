@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/the-best-vegan-burger.webp
 ---
+
 # The Best Vegan Burger
 
 ![The Best Vegan Burger][1]{ loading=lazy }
@@ -71,4 +72,3 @@ with a fresh green salad.
 
 [1]: <../assets/images/the-best-vegan-burger.webp>
 [2]: <../ingredients/chickpeas.md>
-

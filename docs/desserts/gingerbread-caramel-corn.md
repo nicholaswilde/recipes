@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/gingerbread-caramel-corn.webp
 ---
+
 # Gingerbread Caramel Corn
 
 ![Gingerbread Caramel Corn][1]{ loading=lazy }
@@ -68,4 +69,3 @@ single layer. Cool completely, about 10 minutes. Store in airtight container at 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
 [1]: <../assets/images/gingerbread-caramel-corn.webp>
-

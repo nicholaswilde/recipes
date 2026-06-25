@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/vegan-giant-bean-&-kale-penne.png
 ---
+
 # Vegan Giant Bean & Kale Penne
 
 ![Vegan Giant Bean & Kale Penne][1]{ loading=lazy }
@@ -68,4 +69,3 @@ then mix and serve topped with grated Parmesan (optional) cheese.
 
 [1]: <../assets/images/vegan-giant-bean-&-kale-penne.png>
 [2]: <../ingredients/vegan-parmesan.md>
-

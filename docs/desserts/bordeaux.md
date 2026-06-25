@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/bordeaux.webp
 ---
+
 # :candy: Bordeaux
 
 ![Bordeaux][1]{ loading=lazy }

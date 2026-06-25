@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/mushroom-barbacoa-bowl.webp
 ---
+
 # Mushroom Barbacoa Bowl
 
 ![Mushroom Barbacoa Bowl][1]{ loading=lazy }
@@ -68,4 +69,3 @@ Top with the Barbacoa Mushrooms, steamed vegetables, and the Roasted Red Pepper 
 [1]: <../assets/images/mushroom-barbacoa-bowl.webp>
 [2]: <../ingredients/brown-rice.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/roasted-red-pepper-sauce.md>
-

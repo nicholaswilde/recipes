@@ -4,6 +4,7 @@ tags:
   - breakfast
 hero: assets/images/golden-milk-oatmeal.jpg
 ---
+
 # :ear_of_rice: Golden Milk Oatmeal
 
 ![Golden Milk Oatmeal][1]{ loading=lazy }

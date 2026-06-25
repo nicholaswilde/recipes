@@ -6,6 +6,7 @@ tags:
   - maynards-bakery
 hero: assets/images/two-layer-cheesecake.webp
 ---
+
 # Two-Layer Cheesecake
 
 ![Two-Layer Cheesecake][1]{ loading=lazy }

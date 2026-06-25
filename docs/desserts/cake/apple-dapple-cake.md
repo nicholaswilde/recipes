@@ -5,6 +5,7 @@ tags:
   - cake
 hero: assets/images/apple-dapple-cake.webp
 ---
+
 # Apple Dapple Cake
 
 ![Apple Dapple Cake][1]{ loading=lazy }

@@ -3,6 +3,7 @@ comments: true
 tags:
   - main
 ---
+
 # :stew: Vegan Jambalaya
 
 ![Vegan Jambalaya][1]{ loading=lazy }
@@ -79,4 +80,3 @@ Serve sprinkled with chopped fresh parsley and green onions and enjoy!
 - <https://www.noracooks.com/vegan-jambalaya/>
 
 [1]: <../assets/images/vegan-jambalaya.webp>
-

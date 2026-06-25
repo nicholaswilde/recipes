@@ -8,6 +8,7 @@ tags:
   - gilligan-family
 hero: assets/images/stuffed-shells.webp
 ---
+
 # :shallow_pan_of_food: Stuffed Shells
 
 ![Stuffed Shells][1]{ loading=lazy }

@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/lentil-patties.webp
 ---
+
 # Lentil Patties
 
 ![Lentil Patties][1]{ loading=lazy }
@@ -71,4 +72,3 @@ Burgers can be then shallow fried for 1 to 2 minutes on each side or baked at 40
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/soy-sauce.md>
 [4]: <../ingredients/eggs.md>
-

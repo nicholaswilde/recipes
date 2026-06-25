@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/game-changers-oat-and-lentil-meatloaf.webp
 ---
+
 # Game Changers Oat and Lentil Meatloaf
 
 ![Game Changers Oat and Lentil Meatloaf][1]{ loading=lazy }
@@ -67,4 +68,3 @@ Best if allowed to fest for at least 1 hour.
 [1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.webp>
 [2]: <../ingredients/mock-soy-sauce.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>
-

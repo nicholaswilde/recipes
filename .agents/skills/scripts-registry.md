@@ -222,7 +222,6 @@ and automatically regenerate the spellcheck configuration:
   unique deduplication (`sort -u`), writes the sorted file back, and programmatically executes
   `scripts/generate_typos_config.py` to rebuild `_typos.toml`.
 
-
 #### Identify Multi-Serving Recipes
 
 To locate recipes that have multiple servings tabs/tables (multiple "Ingredients" headings):

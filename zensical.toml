@@ -71,6 +71,7 @@ Breads = [
   { "Classic White Sandwich Bread" = "breads/classic-white-sandwich-bread.md" },
   { "Cranberry Orange Bread" = "breads/cranberry-orange-bread.md" },
   { "Croissants" = "breads/croissants.md" },
+  { "Czech Kolaches" = "breads/czech-kolaches.md" },
   { "Delicious Zucchini Bread" = "breads/delicious-zucchini-bread.md" },
   { "Easy Sourdough Blueberry Bread" = "breads/easy-sourdough-blueberry-bread.md" },
   { "Flaky Buttery Crescent Rolls" = "breads/flaky-buttery-crescent-rolls.md" },
@@ -651,6 +652,7 @@ Ingredients = [
   { "Buttermilk" = "ingredients/buttermilk.md" },
   { "Candied Orange Peel" = "ingredients/candied-orange-peel.md" },
   { "Caramelized Onions" = "ingredients/caramelized-onions.md" },
+  { "Cheddar Cheese Powder" = "ingredients/cheddar-cheese-powder.md" },
   { "Chickpeas" = "ingredients/chickpeas.md" },
   { "Chickpea Flour" = "ingredients/chickpea-flour.md" },
   { "Chili Paste" = "ingredients/chili-paste.md" },
@@ -709,6 +711,7 @@ Ingredients = [
   { "Stiff Sourdough Starter" = "ingredients/stiff-sourdough-starter.md" },
   { "Strawberry Purée" = "ingredients/strawberry-purée.md" },
   { "Streusel Crumble" = "ingredients/streusel-crumble.md" },
+  { "Sun-Dried Tomatoes" = "ingredients/sun-dried-tomatoes.md" },
   { "Sweetened Coconut Flakes" = "ingredients/sweetened-coconut-flakes.md" },
   { "Sweetened Condensed Milk" = "ingredients/sweetened-condensed-milk.md" },
   { "Sweetened Whipped Cream" = "ingredients/sweetened-whipped-cream.md" },
@@ -1183,6 +1186,7 @@ Sides = [
   { "Mexican Garbanzo Salad" = "sides/salads/mexican-garbanzo-salad.md" },
   { "Mexican Garbanzo Salad" = "sides/salads/mexican-garbanzo-salad.md" },
   { "Mexican Garbanzo Salad" = "sides/salads/mexican-garbanzo-salad.md" },
+  { "Mexican Rice" = "sides/grains-and-legumes/mexican-rice.md" },
   { "Miso-Glazed Bok Choy" = "sides/vegetables/miso-glazed-bok-choy.md" },
   { "Miso-Glazed Carrots" = "sides/vegetables/miso-glazed-carrots.md" },
   { "Mom's Potatoes" = "sides/potatoes/mom's-potatoes.md" },
@@ -1317,6 +1321,9 @@ social = [
 
 [project.theme]
 name = "material"
+features = [
+    "navigation.footer"
+]
 
 # Palette toggle for light mode
 [[project.theme.palette]]

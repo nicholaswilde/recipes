@@ -3,6 +3,7 @@ comments: true
 tags:
   - lunch
 ---
+
 # :sandwich: Ploughman's Sandwich
 
 ![Ploughman's Sandwich][1]{ loading=lazy }
@@ -49,4 +50,3 @@ Top with the second slice of bread, buttered-side down. Press gently, cut the sa
 - Marks & Spencer
 
 [1]: <../assets/images/ploughman's-sandwich.webp>
-

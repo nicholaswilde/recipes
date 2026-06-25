@@ -8,6 +8,7 @@ tags:
   - homemade
 hero: assets/images/dijon-mustard.webp
 ---
+
 # Dijon Mustard
 
 ![Dijon Mustard][1]{ loading=lazy }

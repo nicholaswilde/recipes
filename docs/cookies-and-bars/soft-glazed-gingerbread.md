@@ -11,6 +11,7 @@ tags:
   - bake-off
 hero: assets/images/soft-glazed-gingerbread.jpg
 ---
+
 # :cookie: Soft Glazed Gingerbread
 
 ![Soft Glazed Gingerbread][1]{ loading=lazy }

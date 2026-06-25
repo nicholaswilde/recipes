@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/spicy-cashew-quinoa-salad.png
 ---
+
 # Spicy Cashew Quinoa Salad
 
 ![Spicy Cashew Quinoa Salad][1]{ loading=lazy }
@@ -49,4 +50,3 @@ To serve, spoon salad into shallow bowls and top with a squeeze of fresh lime ju
 [1]: <../../assets/images/spicy-cashew-quinoa-salad.png>
 [2]: <../../sides/grains-and-legumes/quinoa.md>
 [3]: <../../ingredients/tofu/baked-sriracha-tofu.md>
-

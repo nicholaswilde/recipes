@@ -6,6 +6,7 @@ tags:
   - feast-and-farm
 hero: assets/images/self-rising-cornmeal.webp
 ---
+
 # Self-Rising Cornmeal
 
 ![Self-Rising Cornmeal][1]{ loading=lazy }

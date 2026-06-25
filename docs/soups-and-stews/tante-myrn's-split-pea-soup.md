@@ -62,7 +62,7 @@ hero: assets/images/tante-myrn's-split-pea-soup.webp
 
 ### Step 7
 
-Boil green peas, carrots, celery, onion, garlic, and cubed potatoes  in 6 cups of water until tender with a ham bone or
+Boil green peas, carrots, celery, onion, garlic, and cubed potatoes in 6 cups of water until tender with a ham bone or
 ham hock, about 1.5 to 2 hours.
 
 ### Step 8

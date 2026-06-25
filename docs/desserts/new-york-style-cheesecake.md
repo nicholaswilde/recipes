@@ -50,7 +50,7 @@ Preheat the oven to 400°F. Lightly grease a 9-inch spring-form pan. Prepare the
 Press one-third of the dough, or slightly less, over the bottom of the pan as evenly as possible. Prick the dough all
 over with a fork. Bake until the crust is light golden brown, 10 to 15 minutes. Let cool completely on a rack. Press the
 remaining dough about 1/8 inch thick around the sides of the pan, making sure that it is attached to the bottom crust
-all around. Brush the bottom and sides of the crust with 1 well beaten  egg white.
+all around. Brush the bottom and sides of the crust with 1 well beaten egg white.
 
 ### Step 3
 

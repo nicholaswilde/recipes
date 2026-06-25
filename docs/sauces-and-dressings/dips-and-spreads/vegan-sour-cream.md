@@ -38,7 +38,7 @@ and creamy texture.
 
 ### Step 2
 
-Combine cashews, water, silken tofu, lemon juice, agave nectar, white miso paste, and salt  in a food processor or
+Combine cashews, water, silken tofu, lemon juice, agave nectar, white miso paste, and salt in a food processor or
 blender and blend until smooth and creamy.
 
 ### Step 3

@@ -6,6 +6,7 @@ tags:
   - gateau
 hero: assets/images/yogurt-cake-version-1.webp
 ---
+
 # Yogurt Cake (Gâteau au Yaourt)
 
 This classic French cake, traditionally measured using an empty yogurt jar (pot), is shown here in two versions from *Gâteau: The Surprising Simplicity of French Cakes*.
@@ -33,12 +34,15 @@ This classic French cake, traditionally measured using an empty yogurt jar (pot)
 ### :pencil: Instructions (Version 1)
 
 #### Step 1
+
 Preheat the oven to 350°F. Butter and flour an 8.5 x 4.5 inch loaf pan.
 
 #### Step 2
+
 Empty the 1 jar of whole plain yogurt from its little jar into a mixing bowl. Add the eggs and whisk to combine. Using the empty yogurt jar as a measuring cup, add 2 jars of granulated sugar. Whisk well. Whisk in 3 jars of all-purpose or cake flour and the baking powder, then whisk in 1 jar of canola oil until homogeneous.
 
 #### Step 3
+
 Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inserted in the center comes out clean.
 
 ---
@@ -67,12 +71,15 @@ Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inser
 ### :pencil: Instructions (Version 2)
 
 #### Step 1
+
 Preheat the oven to 350°F. Butter and flour an 8.5 x 4.5 inch loaf pan.
 
 #### Step 2
+
 Whisk the 1 jar of whole plain yogurt and eggs together in a mixing bowl. Whisk in the vanilla and lemon zest. Add the 2 jars of granulated sugar and whisk to thoroughly combine. Add the 3 jars of all-purpose or cake flour, baking powder, and salt and whisk just to combine. Add the 1 jar of canola oil and whisk until homogeneous.
 
 #### Step 3
+
 Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inserted in the center comes out clean.
 
 ---
@@ -80,9 +87,10 @@ Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inser
 ## 💡 Notes
 
 This cake can also be made in an 8-inch springform or a 9-inch round cake pan:
-* A **9-inch cake** will take around 30 to 35 minutes to bake.
-* An **8-inch round cake** will take closer to 40 minutes.
-* A **medium loaf pan** takes between 35 and 45 minutes.
+
+- A **9-inch cake** will take around 30 to 35 minutes to bake.
+- An **8-inch round cake** will take closer to 40 minutes.
+- A **medium loaf pan** takes between 35 and 45 minutes.
 
 ## :link: Source
 

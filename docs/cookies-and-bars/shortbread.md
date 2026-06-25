@@ -27,7 +27,7 @@ By weight:
 ## :salt: Ingredients
 
 - :butter: 0.75 lb (340 g) unsalted butter
-- :candy: 1 cup  (198 g) granulated sugar
+- :candy: 1 cup (198 g) granulated sugar
 - :icecream: 1 tsp vanilla
 - :ear_of_rice: 3.5 (420 g) cup all-purpose flour
 - :salt: 0.25 tsp salt

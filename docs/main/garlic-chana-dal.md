@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/garlic-chana-dal.webp
 ---
+
 # Garlic Chana Dal
 
 ![Garlic Chana Dal][1]{ loading=lazy }
@@ -54,4 +55,3 @@ I like to serve mine with onion and pea pulao. Time to tuck in!
 
 [1]: <../assets/images/garlic-chana-dal.webp>
 [2]: <../ingredients/dal.md>
-

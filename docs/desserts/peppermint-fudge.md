@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/peppermint-fudge.webp
 ---
+
 # Peppermint Fudge
 
 ![Peppermint Fudge][1]{ loading=lazy }

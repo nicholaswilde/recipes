@@ -35,7 +35,7 @@ Grease a 9 x 13 inch pan and a large mixing bowl with butter or baking spray.
 
 ### Step 2
 
-Pour the  Rice Krispies Cereal into the greased bowl and set it aside.
+Pour the Rice Krispies Cereal into the greased bowl and set it aside.
 
 ### Step 3
 

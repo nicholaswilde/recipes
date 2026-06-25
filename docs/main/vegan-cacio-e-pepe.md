@@ -8,6 +8,7 @@ tags:
   - teri-ann carty
 hero: assets/images/vegan-cacio-e-pepe.webp
 ---
+
 # :spaghetti: Vegan Cacio e Pepe
 
 ![Vegan Cacio e Pepe][1]{ loading=lazy }

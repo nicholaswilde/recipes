@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/chocolate-pots-de-crème.jpg
 ---
+
 # Chocolate Pots de Crème
 
 ![Chocolate Pots de Crème][1]{ loading=lazy }
@@ -74,4 +75,3 @@ chocolate shavings.
 - <https://alexandracooks.com/2018/02/13/chocolate-pots-de-creme-stovetop-method-no-water-bath/>
 
 [1]: <../assets/images/chocolate-pots-de-crème.jpg>
-

@@ -41,7 +41,7 @@ Air-fry or bake TJ's Battered Plant-Based Fish Fillets according to package dire
 
 ### Step 2
 
-While fillets are baking, in a small bowl, whisk  TJ's Vegan Creamy Dill Dressing and TJ's Hot & Sweet Jalapeño brine
+While fillets are baking, in a small bowl, whisk TJ's Vegan Creamy Dill Dressing and TJ's Hot & Sweet Jalapeño brine
 to emulsify. Add chopped jalapeños. Add ¼ cup of prepared dressing to a large bowl with ready TJ's Ready Veggies OR
 Organic Shredded Green & Red Cabbage with Orange Carrots and toss to combine (reserve remaining dressing for taco
 assembly). Refrigerate until ready to serve.

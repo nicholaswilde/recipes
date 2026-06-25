@@ -6,6 +6,7 @@ tags:
   - smitten kitchen
 hero: assets/images/confetti-cookies.webp
 ---
+
 # Confetti Cookies
 
 ![Confetti Cookies][1]{ loading=lazy }

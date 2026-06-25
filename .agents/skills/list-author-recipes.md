@@ -3,6 +3,7 @@
 Print a list of all recipes in the repository that contain an author name, blog, restaurant, or brand in their title, using the `zensical.toml` configuration while respecting the whitelist.
 
 ## Description
+
 This skill parses the `zensical.toml` navigation configuration, extracts all active recipes, identifies those with author names or brand identifiers in their titles, filters out whitelisted entries, and presents the resulting list.
 
 ## Protocol

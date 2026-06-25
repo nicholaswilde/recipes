@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/peppermint-chocolate-cookies.webp
 ---
+
 # Peppermint Chocolate Cookies
 
 ![Peppermint Chocolate Cookies][1]{ loading=lazy }
@@ -76,4 +77,3 @@ Spread cooled cookies with Peppermint Buttercream. If you like, sprinkle with cr
 - Magnolia
 
 [1]: <../assets/images/peppermint-chocolate-cookies.webp>
-

@@ -44,7 +44,7 @@ Blend all-purpose flour, baking powder, ground cinnamon, salt, and baking soda i
 
 ### Step 2
 
-Blend  vegetable shortening, brown sugar, sugar, eggs, and vanilla in mixing bowl until fluffy.
+Blend vegetable shortening, brown sugar, sugar, eggs, and vanilla in mixing bowl until fluffy.
 
 ### Step 3
 

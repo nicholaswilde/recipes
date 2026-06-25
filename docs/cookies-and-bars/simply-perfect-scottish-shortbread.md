@@ -9,6 +9,7 @@ tags:
   - the pancake princess
 hero: assets/images/simply-perfect-scottish-shortbread.webp
 ---
+
 # Simply Perfect Scottish Shortbread
 
 ![Simply Perfect Scottish Shortbread][1]{ loading=lazy }

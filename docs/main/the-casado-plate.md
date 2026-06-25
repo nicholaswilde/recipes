@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/the-casado-plate.webp
 ---
+
 # The Casado Plate
 
 ![The Casado Plate][1]{ loading=lazy }
@@ -51,4 +52,3 @@ Top with corn (optional), sliced avocado (optional), chopped cilantro (optional)
 [4]: <../sides/grains-and-legumes/fried-green-plantains.md>
 [5]: <../sauces-and-dressings/gravy-and-savory-sauces/chilero-hot-sauce.md>
 [6]: <../ingredients/nixtamal-nicoyan-corn-tortillas.md>
-

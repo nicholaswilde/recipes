@@ -3,6 +3,7 @@
 Rename an existing recipe in the repository, including Markdown, Cooklang, images, zensical.toml configuration, and cross-references.
 
 ## Description
+
 This skill safely and completely renames a recipe along with all of its associated source files, image assets, Cooklang files, configuration entries, and reference links in the repository, while preserving Git version control history.
 
 ## Protocol
@@ -39,7 +40,7 @@ This skill safely and completely renames a recipe along with all of its associat
      - Docs Image: `git mv docs/assets/images/{old-slug}.{jpg|png|webp} docs/assets/images/{new-slug}.{jpg|png|webp}`
 
 4. **Update File Contents:**
-   - **Markdown Page:** 
+   - **Markdown Page:**
      - Update the title (`# :emoji: New Recipe Name`).
      - Update the image reference alt text (`![New Recipe Name][1]`).
      - Update the image link path at the bottom of the page (`[1]: <../../assets/images/{new-slug}.{jpg|png|webp}>`).
@@ -54,9 +55,11 @@ This skill safely and completely renames a recipe along with all of its associat
 
 6. **Validation & Spellcheck:**
    - Run the spellcheck-file task on the renamed markdown recipe:
+
      ```bash
      task spellcheck-file FILE=docs/{category}/{new-slug}.md
      ```
+
    - Verify there are no syntax or formatting issues.
 
 7. **Git Commit & Push:**

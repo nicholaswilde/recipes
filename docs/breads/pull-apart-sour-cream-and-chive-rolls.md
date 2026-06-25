@@ -68,7 +68,6 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
     - :salt: some pepper
     - :butter: 1 Tbsp (14 g) unsalted butter
 
-
 ## :cooking: Cookware
 
 - :shallow_pan_of_food: 1 small saucepan

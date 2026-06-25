@@ -4,6 +4,7 @@ tags:
   - tart
 hero: assets/images/brioche-tart.webp
 ---
+
 # :pie: Brioche Tart
 
 ![Brioche Tart][1]{ loading=lazy }

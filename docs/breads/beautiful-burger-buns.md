@@ -7,6 +7,7 @@ tags:
   - sandwich
 hero: assets/images/beautiful-burger-buns.webp
 ---
+
 # Beautiful Burger Buns
 
 ![Beautiful Burger Buns][1]{ loading=lazy }
@@ -18,6 +19,7 @@ hero: assets/images/beautiful-burger-buns.webp
 ## :salt: Ingredients
 
 ### Buns
+
 - :bread: 3 1/2 cups (420 g) King Arthur Unbleached All-Purpose Flour
 - :droplet: 3/4 cup plus 2 Tbsp (198 g) water, lukewarm
 - :butter: 2 Tbsp (28 g) butter, at room temperature
@@ -27,9 +29,11 @@ hero: assets/images/beautiful-burger-buns.webp
 - :tea: 1 Tbsp (9 g) instant yeast
 
 ### Butter glaze
+
 - :butter: 3 Tbsp (43 g) butter, melted; divided
 
 ### Seed topping (optional)
+
 - :egg: 1 large egg white, whisked with 2 Tbsp cold water
 - :seedling: Sesame seeds, or the seeds of your choice
 

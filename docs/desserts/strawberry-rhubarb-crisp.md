@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
 ---
+
 # :strawberry: Strawberry Rhubarb Crisp
 
 ![Strawberry Rhubarb Crisp][1]{ loading=lazy }
@@ -87,4 +88,3 @@ uncovered, in a 300°F oven until heated through and crisp on top.
 - <https://www.onceuponachef.com/recipes/strawberry-rhubarb-crisp.html>
 
 [1]: <../assets/images/strawberry-rhubarb-crisp.webp>
-

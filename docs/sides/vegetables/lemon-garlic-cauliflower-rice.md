@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/lemon-garlic-cauliflower-rice.png
 ---
+
 # Lemon Garlic Cauliflower Rice
 
 ![Lemon Garlic Cauliflower Rice][1]{ loading=lazy }
@@ -59,4 +60,3 @@ Serve warm or at room temperature.
 - <https://www.traderjoes.com/home/recipes/lemon-garlic-cauliflower-rice>
 
 [1]: <../../assets/images/lemon-garlic-cauliflower-rice.png>
-

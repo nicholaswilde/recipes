@@ -4,6 +4,7 @@ tags:
   - breakfast
 hero: assets/images/chickpea-and-spinach-pancakes.webp
 ---
+
 # Chickpea and Spinach Pancakes
 
 ![Chickpea and Spinach Pancakes][1]{ loading=lazy }
@@ -59,4 +60,3 @@ little za’atar (optional) (if using) and some more scallions.
 
 [1]: <../assets/images/chickpea-and-spinach-pancakes.webp>
 [2]: <../ingredients/chickpea-flour.md>
-

@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
 ---
+
 # Lemony Broccoli Salad with Chickpeas & Feta
 
 ![Lemony Broccoli Salad with Chickpeas & Feta][1]{ loading=lazy }
@@ -46,4 +47,3 @@ Pour veggies into a bowl and cool for 10 minutes. Add chickpeas, crumbled feta, 
 
 [1]: <../../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg>
 [2]: <../../ingredients/chickpeas.md>
-

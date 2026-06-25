@@ -13,6 +13,7 @@ The simplified Bayesian average is calculated as:
 $$ W = \frac{v \cdot R + m \cdot C}{v + m} $$
 
 Where:
+
 - **$W$**: Weighted rating (the resulting Bayesian average).
 - **$R$**: Raw average rating of the recipe (from 0 to 5 stars).
 - **$v$**: Number of ratings/votes/reviews for the recipe.
@@ -24,6 +25,7 @@ Where:
 ## Protocol
 
 ### 1. Structure the Input Data
+
 Prepare a JSON file containing the recipe search results with `title`, `rating` (0.0 to 5.0), `votes` (integer count), and optionally `url` or `source`. For example, save this to `recipes_to_rank.json`:
 
 ```json
@@ -58,6 +60,7 @@ uv run python3 scripts/rank_recipes_bayesian.py --input recipes_to_rank.json --m
 ```
 
 ### 3. Interactive Mode (Alternative)
+
 To quickly compare a few ratings without writing a JSON file, run in interactive mode:
 
 ```bash

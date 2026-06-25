@@ -10,6 +10,7 @@ tags:
   - bake-off
 hero: assets/images/earthquake-chocolate-crinkle-cookies.webp
 ---
+
 # :cookie: Earthquake Chocolate Crinkle Cookies
 
 ![Earthquake Chocolate Crinkle Cookies][1]{ loading=lazy }

@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-
   - holiday
+  - recipe-box
 hero: assets/images/mom's-potatoes.webp
 ---
 

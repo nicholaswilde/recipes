@@ -3,9 +3,11 @@
 Search for an ingredient in Markdown recipes and create links to its own recipe page.
 
 ## Description
+
 This skill searches for a specific ingredient in all Markdown recipe files and automatically creates links to that ingredient's own recipe or information page, following project conventions.
 
 ## Protocol
+
 1. **Locate Ingredient File:**
    - Find the "source of truth" Markdown file for `<args>`.
    - Search `docs/**/*.md` for a file name that matches or search `zensical.toml` for the display name `<args>`.

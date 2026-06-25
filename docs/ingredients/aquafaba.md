@@ -26,6 +26,7 @@ almost essential for everyday baking—especially for vegans—because it’s a 
 air and serve as an excellent alternative to eggs. Here are the most common uses:
 
 - **Egg Replacement** – Use 3 tablespoons of liquid per egg in any recipe.
+
 - **Meringues and Macarons** – Yay! These fancy little desserts are accessible to vegans again. Whip your aquafaba into
   impossibly stiff peaks with a hand mixer or standing mixer and a pinch of cream of tartar. This might take 10 minutes
   or more, but it’s totally worth it.
@@ -34,6 +35,7 @@ air and serve as an excellent alternative to eggs. Here are the most common uses
   perfection!
 
 - **Crusty Layer** – Brush onto potatoes or the tops of pies before baking for a little added crispiness.
+
 - **Egg White Substitute** – Beaten into semi-stiff peaks (for about 5 minutes), this mixture is wonderful for adding
   into waffles or other baked items.
 

@@ -4,6 +4,7 @@ tags:
   - side
   - salad
 ---
+
 # Tzatziki Chickpea Salad
 
 ![Tzatziki Chickpea Salad][1]{ loading=lazy }
@@ -60,4 +61,3 @@ To serve, drizzle with additional olive oil.
 - <https://cooking.nytimes.com/recipes/1025698-tzatziki-chickpea-salad>
 
 [1]: <../../assets/images/tzatziki-chickpea-salad.png>
-

@@ -66,6 +66,10 @@ then cover and let stand for 15 minutes; remove the cloves and bay leaf, if used
 | Cream   | Add 2 or 3 tablespoons of heavy cream to the finished sauce. For an onion flavor, add an onion slice to the milk when heating; remove onion slice before adding milk to flour and butter mixture. |
 | Mustard | Combine 1 teaspoon dry mustard to flour used in sauce. This sauce is especially good with fish and chicken. |
 
+## :video_camera: References
+
+- [Bechamel in a French Michelin Two-Star Restaurant with Giuliano Sperandio - Le Taillevent (YouTube)](https://youtu.be/7AAx0uIuoBQ)
+
 ## :link: Source
 
 - Joy of Cooking

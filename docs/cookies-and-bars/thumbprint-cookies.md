@@ -11,6 +11,7 @@ tags:
   - bake-off
 hero: assets/images/thumbprint-cookies.webp
 ---
+
 # :cookie: Thumbprint Cookies
 
 ![Thumbprint Cookies][1]{ loading=lazy }

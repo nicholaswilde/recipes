@@ -8,6 +8,7 @@ tags:
   - vegan
 hero: assets/images/rempejek-katjang.webp
 ---
+
 # :chestnut: Rempejek Katjang
 
 ![Rempejek Katjang](../../assets/images/rempejek-katjang.webp){ loading=lazy }

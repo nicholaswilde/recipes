@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/quinoa-and-veggie-power-bowls.webp
 ---
+
 # Quinoa and Veggie Power Bowls
 
 ![Quinoa and Veggie Power Bowls][1]{ loading=lazy }
@@ -81,4 +82,3 @@ Serve with desired toppings (e.g. pine nuts (optional), avocado (optional), humm
 [1]: <../assets/images/quinoa-and-veggie-power-bowls.webp>
 [2]: <../sides/grains-and-legumes/quinoa.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>
-

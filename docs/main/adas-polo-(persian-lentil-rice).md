@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/adas-polo-(persian-lentil-rice).webp
 ---
+
 # Adas Polo (Persian Lentil Rice)
 
 ![Adas Polo (Persian Lentil Rice)][1]{ loading=lazy }

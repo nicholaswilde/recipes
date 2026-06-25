@@ -4,6 +4,7 @@ tags:
   - side
 hero: assets/images/spinach-salad-with-gorgonzola-and-pear.webp
 ---
+
 # Spinach Salad with Gorgonzola and Pear
 
 ![Spinach Salad with Gorgonzola and Pear][1]{ loading=lazy }
@@ -57,4 +58,3 @@ Gorgonzola, walnuts, pomegranate seeds, and sliced pear. Drizzle remaining 1/4 c
 
 [1]: <../../assets/images/spinach-salad-with-gorgonzola-and-pear.webp>
 [2]: <../../sauces-and-dressings/dijon-mustard.md>
-

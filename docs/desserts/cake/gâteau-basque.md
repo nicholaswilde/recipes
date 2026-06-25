@@ -99,7 +99,7 @@ the pan. On a medium heat, bring back to the boil, whisking continuously.
 
 ### Step 10
 
-Once boiling, reduce the heat to low and keep cooking for 2 minutes.  Turn off the heat and whisk in the butter. The
+Once boiling, reduce the heat to low and keep cooking for 2 minutes. Turn off the heat and whisk in the butter. The
 mixture should be smooth and thick.
 
 ### Step 11
@@ -116,7 +116,7 @@ another sheet on top.
 
 ### Step 13
 
-Roll out the dough until the round disc is a diameter of 20 cm (8 inches).  Place on a flat board and return to the
+Roll out the dough until the round disc is a diameter of 20 cm (8 inches). Place on a flat board and return to the
 fridge.
 
 ### Step 14

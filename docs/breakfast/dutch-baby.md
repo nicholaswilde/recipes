@@ -4,6 +4,7 @@ tags:
   - breakfast
 hero: assets/images/dutch-baby.webp
 ---
+
 # Dutch Baby
 
 ![Dutch Baby][1]{ loading=lazy }
@@ -63,4 +64,3 @@ sugar.
 - <https://cooking.nytimes.com/recipes/6648-dutch-baby>
 
 [1]: <../assets/images/dutch-baby.webp>
-

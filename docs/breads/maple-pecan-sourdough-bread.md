@@ -6,6 +6,7 @@ tags:
   - amy bakes bread
 hero: assets/images/maple-pecan-sourdough-bread.webp
 ---
+
 # Maple Pecan Sourdough Bread
 
 ![Maple Pecan Sourdough Bread][1]{ loading=lazy }

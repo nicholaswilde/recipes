@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/zucchini-pasta-with-lentil-bolognese.webp
 ---
+
 # Zucchini Pasta with Lentil Bolognese
 
 ![Zucchini Pasta with Lentil Bolognese][1]{ loading=lazy }
@@ -77,4 +78,3 @@ Sauce will keep in the refrigerator up to 3 days or in the freezer 1 month.
 [1]: <../assets/images/zucchini-pasta-with-lentil-bolognese.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/vegan-parmesan.md>
-

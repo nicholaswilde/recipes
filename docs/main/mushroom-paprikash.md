@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/mushroom-paprikash.webp
 ---
+
 # Mushroom Paprikash
 
 ![Mushroom Paprikash][1]{ loading=lazy }
@@ -65,4 +66,3 @@ Boil up your egg noodles or spaetzle, and serve beneath a good scoop of paprikas
 - <https://cupofjo.com/2025/02/19/easy-mushroom-paprikash-recipe/>
 
 [1]: <../assets/images/mushroom-paprikash.webp>
-

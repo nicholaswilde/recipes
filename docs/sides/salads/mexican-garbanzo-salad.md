@@ -39,4 +39,3 @@ Combine diced tomatoes or 1 container TJ's pico de gallo, white onion, minced ja
 to taste, [black beans][1] (optional), avocado (optional), and diced cucumber (optional) in a large bowl.
 
 [1]: <../../ingredients/black-beans.md>
-

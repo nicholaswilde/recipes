@@ -4,6 +4,7 @@ tags:
   - dessert
 hero: assets/images/eggnog-cake.webp
 ---
+
 # Eggnog Cake
 
 ![Eggnog Cake][1]{ loading=lazy }
@@ -48,4 +49,3 @@ Cook for 20 minutes.
 Layer tiers with whipped cream.
 
 [1]: <../assets/images/eggnog-cake.webp>
-

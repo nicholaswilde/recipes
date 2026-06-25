@@ -8,6 +8,7 @@ tags:
   - holiday
 hero: assets/images/mini-cranberry-tarts.webp
 ---
+
 # Mini Cranberry Tarts
 
 ![Mini Cranberry Tarts][1]{ loading=lazy }

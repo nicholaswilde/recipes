@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.webp
 ---
+
 # Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
 ![Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs][1]{ loading=lazy }
@@ -80,4 +81,3 @@ Serve with a scoop of lentil and rice mix, kebabs, sauce, and sprinkle of feta.
 [1]: <../assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/brown-rice.md>
-

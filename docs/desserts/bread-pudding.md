@@ -51,7 +51,7 @@ Tbsp (45 g) over the day-old bread and toss in a large bowl.
 ### Step 3
 
 In a separate bowl, whisk the eggs, egg yolk and granulated sugar and then whisk in the milk, whipping cream, vanilla,
-nutmeg and salt.  Pour this over the day old bread, toss to coat, and let sit for about 15 minutes, stirring once or
+nutmeg and salt. Pour this over the day old bread, toss to coat, and let sit for about 15 minutes, stirring once or
 twice. It may look like a lot of liquid, but it all balances out.
 
 ### Step 4

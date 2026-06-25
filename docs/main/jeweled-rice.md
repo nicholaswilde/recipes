@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/jeweled-rice.webp
 ---
+
 # Jeweled Rice
 
 ![Jeweled Rice][1]{ loading=lazy }
@@ -84,4 +85,3 @@ rice is tender and the bottom layer of rice is brown and crisp, 30 to 40 minutes
 - HEAT Culinary
 
 [1]: <../assets/images/jeweled-rice.webp>
-

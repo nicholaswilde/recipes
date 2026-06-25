@@ -4,6 +4,7 @@ tags:
   - ingredient
 hero: assets/images/date-paste.webp
 ---
+
 # Date Paste
 
 ![Date Paste][1]{ loading=lazy }
@@ -44,4 +45,3 @@ you'd like a thinner consistency. Transfer to a glass container and cover.
 - <https://amyinthekitchen.com/date-paste/>
 
 [1]: <../assets/images/date-paste.webp>
-

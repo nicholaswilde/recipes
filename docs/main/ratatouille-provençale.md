@@ -4,6 +4,7 @@ tags:
   - main
 hero: assets/images/ratatouille-provençale.webp
 ---
+
 # Ratatouille Provençale
 
 ![Ratatouille Provençale][1]{ loading=lazy }
@@ -78,4 +79,3 @@ tender, about 20 minutes more. Taste and adjust the seasonings. Stir in chopped 
 - Joy of Cooking
 
 [1]: <../assets/images/ratatouille-provençale.webp>
-

@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+  - recipe-box
 hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp
 ---
 

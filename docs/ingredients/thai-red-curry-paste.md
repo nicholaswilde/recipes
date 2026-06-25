@@ -7,6 +7,7 @@ tags:
   - spicy
 hero: assets/images/thai-red-curry-paste.webp
 ---
+
 # Thai Red Curry Paste
 
 ![Thai Red Curry Paste][1]{ loading=lazy }

@@ -63,7 +63,7 @@ Wipe out the skillet and set it back on the stove for the mushrooms.
 ### Step 4
 
 Add 2 tablespoons of the olive oil to the same skillet and heat over high heat until shimmering. Add half of the
-shiitake, cremini, oyster, and/or maitake mushrooms, 2 of the smashed garlic cloves, and 1 of the rosemary  sprigs. Toss
+shiitake, cremini, oyster, and/or maitake mushrooms, 2 of the smashed garlic cloves, and 1 of the rosemary sprigs. Toss
 the mushrooms once just to coat in oil, then let them cook undisturbed until they're browned in spots, about 3 minutes.
 Continue to cook, tossing occasionally, until the mushrooms are browned all over, have released their liquid, and are
 tender, 5 to 8 minutes longer. Season the mixture with salt and pepper. Scrape into a separate medium bowl and set the

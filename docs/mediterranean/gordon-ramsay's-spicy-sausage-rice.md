@@ -44,7 +44,7 @@ Add glug of olive oil to a heated Dutch oven. Fry sliced red onion for 5 minutes
 
 ### Step 2
 
-Add the red pepper and garlic and cook  for 2 minutes. Crumble in veggie Italian sausage and cook for 5 minutes.
+Add the red pepper and garlic and cook for 2 minutes. Crumble in veggie Italian sausage and cook for 5 minutes.
 
 ### Step 3
 
