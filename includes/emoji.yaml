@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - whisk
+        - pan
         - pot
         - platter
         - large bowl
@@ -58,6 +60,7 @@ emoji:
     - paintbrush:
         - pastry brush
     - shallow_pan_of_food:
+        - oven
         - wide skillet
         - medium saucepan
         - saucepan
@@ -124,6 +127,7 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - unsalted butter (softened)
         - vegan sausage (13 oz)
         - yogurt
         - vegan mayonnaise
