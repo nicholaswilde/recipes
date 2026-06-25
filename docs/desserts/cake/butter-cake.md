@@ -4,7 +4,7 @@ tags:
   - dessert
   - cake
 ---
-# Butter Cake
+# :cake: Butter Cake
 
 ![Butter Cake][1]{ loading=lazy }
 
@@ -14,18 +14,18 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 cups all-purpose flour
-- 1 teaspoon salt
-- 0.75 teaspoon baking powder
-- 0.5 teaspoon baking soda
-- 1 cup unsalted butter (softened)
-- 2 cups granulated sugar
-- 4 large eggs
-- 1 cup whole milk
-- 5 tablespoons unsalted butter
-- 0.75 cup granulated sugar
-- 0.25 cup water
-- 1.5 teaspoons vanilla extract
+- :bread: 3 cups (360 g) all-purpose flour
+- :salt: 1 teaspoon salt
+- :chestnut: 0.75 teaspoon baking powder
+- :chestnut: 0.5 teaspoon baking soda
+- :baby_bottle: 1 cup (226 g) unsalted butter (softened)
+- :candy: 2 cups (396 g) granulated sugar
+- :egg: 4 large eggs
+- :glass_of_milk: 1 cup (227 g) whole milk
+- :butter: 5 tablespoons (71 g) unsalted butter
+- :candy: 0.75 cup (148 g) granulated sugar
+- :droplet: 0.25 cup (57 g) water
+- :flower_playing_cards: 1.5 teaspoons vanilla extract
 
 ## :cooking: Cookware
 
