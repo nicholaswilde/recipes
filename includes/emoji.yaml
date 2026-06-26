@@ -259,6 +259,7 @@ emoji:
         - carrots
         - grated carrots
     - cheese_wedge:
+        - Monterey Jack cheese
         - cheese
         - cottage cheese
         - extra firm tofu
@@ -443,6 +444,7 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - jalapeño or serrano pepper
         - chili powder
         - chili
         - crushed tomatoes
@@ -629,6 +631,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - roma tomato
         - pico de gallo
         - tomato
         - marinara sauce

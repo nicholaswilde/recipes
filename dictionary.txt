@@ -67,6 +67,7 @@ Alison
 All'Assassina
 Alla
 Allrecipes
+Alt
 Aminos
 Anglaise
 Anjou
@@ -305,6 +306,7 @@ Jojo's
 Kala
 Kalamata
 Katjang
+Kenji
 Kentang
 Kering
 Kesberry
@@ -341,7 +343,10 @@ Liz
 Lizano
 LlamaIndex
 Lofthouse
+Lopez-Alt
 Lumpia
+López
+López-Alt
 MCP
 Macaron
 Macarons
