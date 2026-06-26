@@ -489,6 +489,7 @@ Desserts = [
   { "Sticky Toffee Pudding" = "desserts/sticky-toffee-pudding.md" },
   { "Strawberry Cake" = "desserts/cake/strawberry-cake.md" },
   { "Strawberry Mousse" = "desserts/strawberry-mousse.md" },
+  { "Strawberry Rhubarb Cardamom Galette" = "desserts/pie/strawberry-rhubarb-cardamom-galette.md" },
   { "Strawberry Rhubarb Crisp" = "desserts/strawberry-rhubarb-crisp.md" },
   { "Strawberry Shortcakes" = "desserts/strawberry-shortcakes.md" },
   { "Strawberry Spoon Cake" = "desserts/cake/strawberry-spoon-cake.md" },

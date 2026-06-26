@@ -24,6 +24,7 @@ emoji:
         - microwave-safe bowl
         - bowl
     - cookie:
+        - baking
         - Oreo cookies
         - baking sheet
         - parchment-lined baking sheet
@@ -67,6 +68,7 @@ emoji:
         - wax paper
         - foil
     - paintbrush:
+        - pastry
         - pastry brush
     - shallow_pan_of_food:
         - oven
@@ -109,6 +111,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - ground cardamom
         - nutmeg
         - ground allspice
         - bittersweet chocolate (chopped (112g))
@@ -169,6 +172,8 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - ice-cold water
+        - coarse demerara sugar
         - pumpkin puree ((160g))
         - powdered sugar (sifted (120g))
         - powdered sugar ((30g))
@@ -203,6 +208,7 @@ emoji:
         - aquafaba
         - buttermilk
     - beans:
+        - fine
         - white
         - green peas ((matar))
         - green cardamoms ((elaichi))
@@ -438,6 +444,7 @@ emoji:
         - teff
         - cooked orzo or farro
     - egg:
+        - large egg yolk
         - extra-large egg whites
         - egg whites
         - egg white
