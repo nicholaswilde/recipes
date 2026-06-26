@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
 ---
+
 # Vegan espresso martini chocolate mousse
 
 ![Vegan espresso martini chocolate mousse][1]{ loading=lazy }
@@ -83,4 +84,3 @@ Serve garnished with coffee beans or chocolate shavings.
 - <https://www.supergoldenbakes.com/vegan-espresso-martini-chocolate-mousse/>
 
 [1]: <../assets/images/vegan-espresso-martini-chocolate-mousse.webp>
-

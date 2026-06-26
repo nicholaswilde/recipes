@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
 ---
+
 # Pumpkin Roll Recipe
 
 ![Pumpkin Roll Recipe][1]{ loading=lazy }
@@ -192,4 +193,3 @@ Once the cake is chilled and you are ready to serve, dust it with powdered sugar
 - <https://preppykitchen.com/pumpkin-roll/#recipe>
 
 [1]: <../assets/images/pumpkin-roll-recipe.webp>
-

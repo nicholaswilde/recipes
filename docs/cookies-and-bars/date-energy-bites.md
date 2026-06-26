@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/date-energy-bites.webp
 ---
+
 # Date Energy Bites
 
 ![Date Energy Bites][1]{ loading=lazy }
@@ -58,11 +59,10 @@ instructions.
 
 !!! tip
 
-    You can use vanilla extract instead of water to add a warm, sweet flavor note to the energy balls.
+    You can use vanilla extract instead of water to add a warm, sweet flavor note to the energy bites.
 
 ## :link: Source
 
 - <https://theplantbasedschool.com/date-energy-balls/>
 
 [1]: <../assets/images/date-energy-bites.webp>
-

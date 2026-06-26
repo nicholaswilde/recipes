@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
+
 # Croissants
 
 ![Croissants][1]{ loading=lazy }
@@ -288,4 +289,3 @@ baking sheets.
 - <https://cooking.nytimes.com/recipes/1022053-croissants>
 
 [1]: <../assets/images/croissants.webp>
-

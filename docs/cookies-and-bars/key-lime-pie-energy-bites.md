@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/key-lime-pie-energy-bites.webp
 ---
+
 # Key Lime Pie Energy Bites
 
 ![Key Lime Pie Energy Bites][1]{ loading=lazy }
@@ -61,4 +62,3 @@ instructions.
 - <https://theplantbasedschool.com/key-lime-pie-energy-balls/>
 
 [1]: <../assets/images/key-lime-pie-energy-bites.webp>
-

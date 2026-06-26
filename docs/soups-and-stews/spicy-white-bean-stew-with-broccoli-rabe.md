@@ -4,6 +4,7 @@ tags:
   - soup
   - stew
 ---
+
 # Spicy White Bean Stew With Broccoli Rabe
 
 ![Spicy White Bean Stew With Broccoli Rabe][1]{ loading=lazy }
@@ -128,4 +129,3 @@ Serve with feta and parsley, and with eggs, if you like.
 - <https://cooking.nytimes.com/recipes/1020754-spicy-white-bean-stew-with-broccoli-rabe>
 
 [1]: <../assets/images/spicy-white-bean-stew-with-broccoli-rabe.webp>
-

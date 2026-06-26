@@ -3,6 +3,7 @@ comments: true
 tags:
   - main
 ---
+
 # Fry Bread Recipe
 
 ![Fry Bread Recipe][1]{ loading=lazy }
@@ -124,4 +125,3 @@ Spread beans over fry bread, top with any other desired toppings, and serve warm
 - <https://lilluna.com/homemade-indian-fry-bread/>
 
 [1]: <../assets/images/fry-bread-recipe.webp>
-

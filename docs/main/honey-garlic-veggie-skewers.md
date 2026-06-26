@@ -3,6 +3,7 @@ comments: true
 tags:
   - main
 ---
+
 # Honey Garlic Veggie Skewers
 
 ![Honey Garlic Veggie Skewers][1]{ loading=lazy }
@@ -53,4 +54,3 @@ the last 2 minutes of grilling.
 - Applied Kitchen
 
 [1]: <../assets/images/honey-garlic-veggie-skewers.webp>
-

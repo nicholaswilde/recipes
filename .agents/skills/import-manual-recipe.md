@@ -1,5 +1,5 @@
 # Import Manual Recipe
- 
+
 This skill guides the import of recipes from manual sources, images, PDFs, or websites that cannot be automatically scraped due to blocking (e.g. Serious Eats).
 
 ## Description
@@ -28,6 +28,7 @@ This skill utilizes the manual recipe import orchestrator script (`import_manual
 
    *Example:*
    To import a manually created recipe `Classic Dinner Rolls.cook` with an image `rolls.jpg` to the `breads` category:
+
    ```bash
    uv run scripts/import_manual_recipe.py "Classic Dinner Rolls.cook" -i "rolls.jpg" -c breads
    ```

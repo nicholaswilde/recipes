@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/lemon-energy-bites.webp
 ---
+
 # Lemon Energy Bites
 
 ![Lemon Energy Bites][1]{ loading=lazy }
@@ -63,4 +64,3 @@ instructions.
 - <https://theplantbasedschool.com/lemon-energy-balls/>
 
 [1]: <../assets/images/lemon-energy-bites.webp>
-

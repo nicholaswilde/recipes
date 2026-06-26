@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
 ---
+
 # Flourless Chocolate Cake (King Arthur Baking)
 
 ![Flourless Chocolate Cake (King Arthur Baking)][1]{ loading=lazy }
@@ -71,4 +72,3 @@ before serving.
 - <https://www.kingarthurbaking.com/recipes/flourless-chocolate-cake-recipe>
 
 [1]: <../../assets/images/flourless-chocolate-cake-(king-arthur-baking).webp>
-

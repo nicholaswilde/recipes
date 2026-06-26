@@ -4,6 +4,7 @@ tags:
   - dessert
   - pie
 ---
+
 # Strawberry Rhubarb Cardamom Galette
 
 ![Strawberry Rhubarb Cardamom Galette][1]{ loading=lazy }
@@ -118,4 +119,3 @@ strawberries and rhubarb. Let the galette cool on the baking sheet for at least 
 - Adapted from Sainsbury's Magazine & Claire Saffitz's technique
 
 [1]: <../../assets/images/strawberry-rhubarb-cardamom-galette.webp>
-

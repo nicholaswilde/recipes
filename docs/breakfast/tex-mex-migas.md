@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
+
 # Tex-Mex Migas
 
 ![Tex-Mex Migas][1]{ loading=lazy }
@@ -61,4 +62,3 @@ Top with fresh cilantro and serve immediately with your favorite salsa.
 - Serious Eats / J. Kenji López-Alt
 
 [1]: <../assets/images/tex-mex-migas.webp>
-

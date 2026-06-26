@@ -69,7 +69,7 @@ peppercorn kernels (I usually use about 10 peppercorns per jar, give or take)
 ### Step 9
 
 Prepare ingredients: Thoroughly wash 12 pickling cucumbers. Slice cucumbers into 1/4-inch thick slices or spears. Set
-aside. Smash garlic cloves and separate dill from thick stems.  Also, sanitize mason jars by running them through the
+aside. Smash garlic cloves and separate dill from thick stems. Also, sanitize mason jars by running them through the
 dishwasher.
 
 ### Step 10

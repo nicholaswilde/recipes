@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/oatmeal-raisin-energy-bites.webp
 ---
+
 # Oatmeal Raisin Energy Bites
 
 ![Oatmeal Raisin Energy Bites][1]{ loading=lazy }
@@ -55,4 +56,3 @@ instructions.
 - <https://theplantbasedschool.com/oatmeal-raisin-energy-balls/>
 
 [1]: <../assets/images/oatmeal-raisin-energy-bites.webp>
-

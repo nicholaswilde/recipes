@@ -3,9 +3,10 @@ comments: true
 tags:
   - main
 ---
-# Veg Biryani  Vegetable Biryani Recipe
 
-![Veg Biryani  Vegetable Biryani Recipe][1]{ loading=lazy }
+# Veg Biryani Vegetable Biryani Recipe
+
+![Veg Biryani Vegetable Biryani Recipe][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -288,7 +289,7 @@ and wait for 8 mins. Then release the rest manually.)
 ### Step 55
 
 When the IP finishes, for aldente cooked vegetable biryani quick release the pressure manually. For softer rice, wait
-for 5 to 7 mins (natural pressure release) and then release the rest manually with the help of a spoon.  Garnish with
+for 5 to 7 mins (natural pressure release) and then release the rest manually with the help of a spoon. Garnish with
 fried onions. Serve with Raita.
 
 ## :link: Source
@@ -296,4 +297,3 @@ fried onions. Serve with Raita.
 - <https://www.indianhealthyrecipes.com/veg-biryani/#comments>
 
 [1]: <../assets/images/veg-biryani--vegetable-biryani-recipe.webp>
-

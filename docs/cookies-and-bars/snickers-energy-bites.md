@@ -6,6 +6,7 @@ tags:
   - dessert
 hero: assets/images/snickers-energy-bites.webp
 ---
+
 # Snickers Energy Bites
 
 ![Snickers Energy Bites][1]{ loading=lazy }
@@ -51,7 +52,7 @@ between your palms to smooth it into a ball. Place the balls on a parchment-line
 ### Step 4
 
 Optional chocolate topping: Melt chopped dark chocolate (70% cocoa) in a microwave-safe bowl in 30-second intervals,
-stirring between each interval. Drizzle over the energy balls or dip them in the chocolate. Sprinkle with chopped
+stirring between each interval. Drizzle over the energy bites or dip them in the chocolate. Sprinkle with chopped
 roasted salted peanuts if you like. Refrigerate or freeze for 15 to 20 minutes, or until the chocolate is set.
 
 !!! tip
@@ -64,4 +65,3 @@ instructions.
 - <https://theplantbasedschool.com/snickers-energy-balls/>
 
 [1]: <../assets/images/snickers-energy-bites.webp>
-

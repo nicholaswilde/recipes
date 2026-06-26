@@ -3,6 +3,7 @@ comments: true
 tags:
   - breakfast
 ---
+
 # Migas
 
 ![Migas][1]{ loading=lazy }
@@ -63,4 +64,3 @@ Top with salsa, sour cream, cheese, cilantro, pico de gallo, and avocado to serv
 - Cup of Jo
 
 [1]: <../assets/images/migas.webp>
-
