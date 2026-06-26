@@ -21,7 +21,7 @@ Below is my current workflow for documenting recipes.
 
 ``` mermaid
 graph TD
-  S[Change to or create ./cook/catetory dir];
+  S[Change to or create ./cook/category dir];
   A{Does the source<br/>website exist?};
   B[Import recipe using cook-import];
   C[Manually write cook<br/>file using micro editor];
@@ -106,6 +106,37 @@ graph TD
   click X "#typos"
   click Y "#lychee"
 ```
+
+### :robot: Automated Import Orchestrators
+
+While the flowchart above illustrates the manual step-by-step pipeline, two unified Python orchestrator scripts are available to automate this entire workflow:
+
+#### 1. Recipe Import Workflow (`import_recipe_workflow.py`)
+Used for recipes that can be scraped from a website URL or a GitHub issue containing a recipe URL:
+```shell
+uv run scripts/import_recipe_workflow.py <URL_or_issue_number> [category]
+```
+*Under the hood, this script:*
+- Scrapes the recipe into a `.cook` file and downloads the image.
+- Compiles and organizes the files using `move.sh`.
+- Checks and maps missing emojis using `check-recipe-emojis.py --fix`.
+- Converts units to weights using `convert-recipe-units.py`.
+- Spellchecks the output and whitelists proper nouns.
+
+#### 2. Manual Recipe Import (`import_manual_recipe.py`)
+Used when importing a recipe from a manually written `.cook` file or from unscrapable/image-based sources:
+```shell
+uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
+```
+*Under the hood, this script:*
+- Copies/moves the manual `.cook` and optional image file to the target category.
+- Runs `move.sh` to compile to markdown and process/convert images.
+- Updates `includes/emoji.yaml` with missing emojis using similarity and keyword heuristics.
+- Converts units to weights and inserts emojis.
+- Runs spelling checks and whitelists proper nouns.
+- Offers to stage and commit the changes using conventional commit messages.
+
+---
 
 ## :hammer_and_wrench: Tools
 
