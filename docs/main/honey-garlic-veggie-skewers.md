@@ -3,9 +3,9 @@ comments: true
 tags:
   - main
 ---
-# Honey Garlic Chicken Skewers
+# Honey Garlic Veggie Skewers
 
-![Honey Garlic Chicken Skewers][1]{ loading=lazy }
+![Honey Garlic Veggie Skewers][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,7 +17,7 @@ tags:
 - :honey_pot: 0.25 cup honey
 - :garlic: 2 cloves garlic
 - :olive: 1 tbsp (12 g) olive oil
-- :stew: 1.5 lbs chicken breast
+- :carrot: 1.5 lbs mixed vegetables
 - :takeout_box: some wooden or metal skewers
 
 ## :cooking: Cookware
@@ -33,7 +33,7 @@ In a bowl, whisk together the low-sodium soy sauce, honey, minced garlic, and ol
 
 ### Step 2
 
-Pour half of the marinade over the cubed chicken breast and let it sit for at least 15 minutes.
+Pour half of the marinade over the chopped mixed vegetables and let it sit for at least 15 minutes.
 
 ### Step 3
 
@@ -41,16 +41,16 @@ Preheat your grill to medium-high heat.
 
 ### Step 4
 
-Thread the chicken pieces onto wooden or metal skewers.
+Thread the vegetables onto wooden or metal skewers.
 
 ### Step 5
 
-Grill for 10 to 12 minutes, turning occasionally, until the chicken is cooked through and reaches an internal
-temperature of 165°F. Brush with the remaining marinade in the last 2 minutes of grilling.
+Grill for 10 to 12 minutes, turning occasionally, until the vegetables are tender. Brush with the remaining marinade in
+the last 2 minutes of grilling.
 
 ## :link: Source
 
 - Applied Kitchen
 
-[1]: <../assets/images/honey-garlic-chicken-skewers.webp>
+[1]: <../assets/images/honey-garlic-veggie-skewers.webp>
 
