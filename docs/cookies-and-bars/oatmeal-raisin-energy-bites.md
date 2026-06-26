@@ -4,12 +4,11 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/oatmeal-raisin-energy-balls.webp
+hero: assets/images/oatmeal-raisin-energy-bites.webp
 ---
+# Oatmeal Raisin Energy Bites
 
-# Oatmeal Raisin Energy Balls
-
-![Oatmeal Raisin Energy Balls][1]{ loading=lazy }
+![Oatmeal Raisin Energy Bites][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,11 +17,11 @@ hero: assets/images/oatmeal-raisin-energy-balls.webp
 ## :salt: Ingredients
 
 - :grapes: 0.75 packed cup pitted dates
-- :chestnut: 0.5 cup (68 g) almond butter
+- :chestnut: 0.5 cup (136 g) almond butter
 - :chestnut: 1 tsp (4 g) cinnamon
-- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :flower_playing_cards: 1 tsp vanilla extract
 - :salt: 1 pinch salt
-- :ear_of_rice: 1 cup (99 g) rolled oats
+- :ear_of_rice: 1 cup (113 g) rolled oats
 - :grapes: 0.5 cup (74 g) raisins
 
 ## :cooking: Cookware
@@ -48,10 +47,12 @@ roll it into a ball. Enjoy right away or store in an airtight container in the r
 
 !!! tip
 
-    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for
+instructions.
 
 ## :link: Source
 
 - <https://theplantbasedschool.com/oatmeal-raisin-energy-balls/>
 
-[1]: <../assets/images/oatmeal-raisin-energy-balls.webp>
+[1]: <../assets/images/oatmeal-raisin-energy-bites.webp>
+

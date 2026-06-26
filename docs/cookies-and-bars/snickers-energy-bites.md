@@ -4,12 +4,11 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/snickers-energy-balls.webp
+hero: assets/images/snickers-energy-bites.webp
 ---
+# Snickers Energy Bites
 
-# Snickers Energy Balls
-
-![Snickers Energy Balls][1]{ loading=lazy }
+![Snickers Energy Bites][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,19 +16,19 @@ hero: assets/images/snickers-energy-balls.webp
 
 ## :salt: Ingredients
 
-- :grapes: 1 packed cup (170 g) Medjool dates
-- :ear_of_rice: 0.5 cup (50 g) rolled oats
+- :grapes: 1 packed cup Medjool dates
+- :ear_of_rice: 0.5 cup (56 g) rolled oats
 - :chestnut: 0.5 cup (71 g) roasted salted peanuts
-- :chestnut: 0.25 cup (34 g) peanut butter
-- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :chestnut: 0.25 cup (68 g) peanut butter
+- :flower_playing_cards: 1 tsp vanilla extract
 - :chocolate_bar: 3 Tbsp (33 g) mini dark chocolate chips
 - :chestnut: 0.33 cup (56 g) dark chocolate
 - :chestnut: some roasted salted peanuts
 
 ## :cooking: Cookware
 
-- :gear: 1 food processor
-- :bowl_with_spoon: 1 bowl
+- 1 food processor
+- 1 bowl
 
 ## :pencil: Instructions
 
@@ -57,10 +56,12 @@ roasted salted peanuts if you like. Refrigerate or freeze for 15 to 20 minutes, 
 
 !!! tip
 
-    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for
+instructions.
 
 ## :link: Source
 
 - <https://theplantbasedschool.com/snickers-energy-balls/>
 
-[1]: <../assets/images/snickers-energy-balls.webp>
+[1]: <../assets/images/snickers-energy-bites.webp>
+

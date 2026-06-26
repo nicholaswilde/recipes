@@ -4,12 +4,11 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/key-lime-pie-energy-balls.webp
+hero: assets/images/key-lime-pie-energy-bites.webp
 ---
+# Key Lime Pie Energy Bites
 
-# Key Lime Pie Energy Balls
-
-![Key Lime Pie Energy Balls][1]{ loading=lazy }
+![Key Lime Pie Energy Bites][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,18 +17,18 @@ hero: assets/images/key-lime-pie-energy-balls.webp
 ## :salt: Ingredients
 
 - :grapes: 1 cup (149 g) Medjool dates
-- :ear_of_rice: 0.75 cup (74 g) rolled oats
+- :ear_of_rice: 0.75 cup (85 g) rolled oats
 - :chestnut: 0.5 cup (56 g) cashews
 - :coconut: 0.25 cup (21 g) shredded coconut
 - :bread: 3 Tbsp (19 g) graham cracker crumbs
 - :tangerine: 2 limes
 - :tangerine: 2 Tbsp (28 g) lime juice
-- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :flower_playing_cards: 1 tsp vanilla extract
 - :coconut: some shredded coconut
 
 ## :cooking: Cookware
 
-- :gear: 1 food processor
+- 1 food processor
 
 ## :pencil: Instructions
 
@@ -54,10 +53,12 @@ Place them on a plate or tray and chill in the fridge for about 20 minutes until
 
 !!! tip
 
-    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for
+instructions.
 
 ## :link: Source
 
 - <https://theplantbasedschool.com/key-lime-pie-energy-balls/>
 
-[1]: <../assets/images/key-lime-pie-energy-balls.webp>
+[1]: <../assets/images/key-lime-pie-energy-bites.webp>
+
