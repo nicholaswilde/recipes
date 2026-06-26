@@ -95,7 +95,7 @@ def find_best_emoji_group(missing_term, emoji_category_data):
     for group in emoji_category_data:
         for emoji_name, terms in group.items():
             for term in terms:
-                term_lower = term.lower().strip()
+                term_lower = str(term).lower().strip()
                 if term_lower == missing_lower:
                     return emoji_name, 1.0
                     
