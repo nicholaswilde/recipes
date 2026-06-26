@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - wprm
+        - 39
         - comments
         - knife
         - grill
@@ -104,6 +106,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - fresh dill
+        - fresh
         - ground beef to the slow cooker and continue to cook on low for an additional 1 to ~
         - ground beef
         - ground
@@ -159,6 +163,7 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - kosher
         - hot water, ((130 degrees F))
         - baking
         - ½ to 2 tablespoons Oil ((or ghee))
@@ -189,6 +194,7 @@ emoji:
         - aquafaba
         - buttermilk
     - beans:
+        - white
         - green peas ((matar))
         - green cardamoms ((elaichi))
         - finely chopped white onion
@@ -381,6 +387,7 @@ emoji:
         - instant coffee
         - espresso powder
     - cucumber:
+        - pickling cucumbers
         - cucumber
         - cucumbers
         - Persian cucumbers
@@ -426,6 +433,7 @@ emoji:
         - almond extract
         - pure almond extract
     - garlic:
+        - garlic (skins removed, cloves smashed (use fewer cloves if its a strong garlic))
         - ginger garlic paste
         - garlic cloves, thinly sliced
         - garlic
@@ -492,6 +500,8 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - peppercorn kernels
+        - peppercorn
         - green chili ((slit or chopped) (skip for kids))
         - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
         - cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
@@ -636,6 +646,8 @@ emoji:
         - potato
         - potato gnocchi
     - takeout_box:
+        - white vinegar
+        - pickling
         - (( laung))
         - wooden or metal skewers
         - soysauce
