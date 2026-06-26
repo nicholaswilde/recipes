@@ -17,13 +17,15 @@ repository following the established recipe import workflow.
    ```
 
 2. **Under the Hood / Manual Exceptions:**
-   - The script will automatically scrape the recipe, compile the `.cook` file, move it to the correct destination under `docs/`, map missing emojis, convert volumetric units, run spellcheck, and interactive/auto-whitelist any proper nouns.
-   - **Image/PDF Sources:** If the recipe is provided via an image or PDF in a GitHub issue, first download the file, run `lit parse <file_path>` (via the `liteparse` skill) to extract the text, format it into a `.cook` file in the correct category under `cook/`, and then run the remaining steps starting from `task move`.
-   - **Spellcheck Validation:** Run the focused spellcheck task (`task spellcheck-file FILE="docs/{category}/{recipe-name-slug}.md"`) instead of the general `task spellcheck` to ensure focused and efficient validation.
+   - The workflow script automatically scrapes the recipe, compiles the `.cook` file, relocates it, matches emojis, converts volumetric units, runs the spellchecker, and whitelists proper nouns.
+   - **Image/PDF or Unscrapable Sources:** If the recipe is from an image, a PDF, or a website that blocks scraping (e.g. Serious Eats), first extract the text (using `lit parse` from the `liteparse` skill if needed), create the `.cook` file, and then run the manual orchestrator script:
+     ```bash
+     uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
+     ```
+   - **Spellcheck Validation:** When validating spellings, prefer the focused file spellchecker (e.g., `task spellcheck-file FILE="docs/{category}/{recipe-name}.md"`) instead of checking the whole project.
 
 3. **Commit Changes:**
-   - Stage and commit the imported recipe changes using the conventional commit standard or the helper script:
-
+   - If not committed automatically by the manual orchestrator, stage and commit files using:
      ```bash
      task commit FILES="cook/{category}/{Recipe Name}.cook"
      ```
