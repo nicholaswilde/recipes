@@ -29,7 +29,7 @@ tags:
 - :salt: 1 salt
 - :leafy_green: 150 g rhubarb
 - :strawberry: 150 g strawberries
-- :candy: 40 g caster sugar
+- :candy: 20 g caster sugar
 - :chestnut: 1 tbsp (7 g) cornstarch
 - :egg: 1 egg
 - :baby_bottle: some coarse demerara sugar
@@ -87,8 +87,8 @@ border all around the edge.
 ### Step 8
 
 In a separate bowl, toss rhubarb (sliced into 1/2-inch pieces on the diagonal), fresh strawberries (hulled and halved),
-caster sugar, and cornstarch together until the fruit is coated. Immediately pile the fruit right on top of the
-frangipane layer.
+15 to 20 g of caster sugar, and cornstarch together until the fruit is coated. Immediately pile the fruit right on top
+of the frangipane layer.
 
 ### Step 9
 
