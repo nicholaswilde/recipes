@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - knife
         - grill
         - mixing
         - whisk
@@ -96,6 +97,7 @@ emoji:
         - fine-mesh strainer
         - wire rack
     - wood:
+        - cutting board
         - board
         - rolling pin
         - patterned rolling pin
@@ -144,6 +146,10 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - teaspoons/7 grams active dry yeast
+        - plus ½ teaspoon/12 grams kosher salt
+        - plus 2 tablespoons/214 grams water, at room temperature
+        - cups/605 grams all-purpose or bread flour, plus more for dusting
         - olive oil, plus more for drizzling
         - /4 teaspoon table salt
         - /2 teaspoon King Arthur Pure Vanilla Extract
@@ -180,6 +186,7 @@ emoji:
     - bee:
         - beeswax
     - bread:
+        - All-purpose flour, for rolling
         - tortilla chips
         - /4 teaspoon ground cinnamon
         - /4 cup (30g) King Arthur Unbleached All-Purpose Flour
@@ -227,6 +234,7 @@ emoji:
         - knob
         - knob of butter
     - candy:
+        - cup/66 grams granulated sugar
         - instant yeast or active dry yeast
         - /4 cup (50g) granulated sugar
         - /3 cup (67g) granulated sugar
@@ -400,6 +408,8 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - heavy
+        - cup/120 grams whole milk, at room temperature
         - (15-ounce) cans large white beans, such as cannellini, butter or great Northern, drained and rinsed
         - whole milk
         - milk
@@ -452,6 +462,8 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
+        - cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
         - Red-pepper flakes (optional)
         - Kosher salt and black pepper
         - jalapeño or serrano pepper
