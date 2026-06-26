@@ -393,7 +393,11 @@ def main():
         img_data = recipe_json.get("image")
         image_url = ""
         if isinstance(img_data, list) and img_data:
-            image_url = img_data[0]
+            first_item = img_data[0]
+            if isinstance(first_item, dict):
+                image_url = first_item.get("url") or ""
+            else:
+                image_url = first_item
         elif isinstance(img_data, dict):
             image_url = img_data.get("url") or ""
         elif isinstance(img_data, str):
