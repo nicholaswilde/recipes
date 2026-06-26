@@ -10,13 +10,13 @@ tags:
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 0 minutes |
+| 8 | 1.75 hours |
 
 ## :salt: Ingredients
 
 - :bread: 200 g plain flour
 - :candy: 20 g icing sugar
-- :beans: 1 fine
+- :salt: some fine sea salt
 - :butter: 100 g unsalted butter
 - :egg: 1 large egg yolk
 - :baby_bottle: 2 tbsp (28 g) ice-cold water
@@ -39,13 +39,13 @@ tags:
 
 ## :cooking: Cookware
 
-- 1 bowl,
+- 1 bowl
 - 1 bowl
 - 1 oven
-- 1 baking
-- 1 bowl,
+- 1 baking sheet
+- 1 bowl
 - 1 saucepan
-- 1 pastry
+- 1 pastry brush
 
 ## :pencil: Instructions
 
