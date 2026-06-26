@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - recipe
         - wprm
         - 39
         - comments
@@ -39,6 +40,7 @@ emoji:
     - cup_with_straw:
         - heat-proof liquid measuring cup
     - gear:
+        - hand mixer
         - coffee or spice grinder
         - blender
         - immersion blender
@@ -106,6 +108,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - nutmeg
+        - ground allspice
         - bittersweet chocolate (chopped (112g))
         - fresh dill
         - fresh
@@ -164,6 +168,9 @@ emoji:
         - avocado
         - sliced avocado
     - baby_bottle:
+        - pumpkin puree ((160g))
+        - powdered sugar (sifted (120g))
+        - powdered sugar ((30g))
         - kosher
         - hot water, ((130 degrees F))
         - baking
@@ -213,6 +220,7 @@ emoji:
     - bee:
         - beeswax
     - bread:
+        - all-purpose flour ((90g))
         - semisweet chocolate chips ((90g))
         - all-purpose flour ((80g))
         - All-purpose flour, for rolling
@@ -263,6 +271,7 @@ emoji:
         - knob
         - knob of butter
     - candy:
+        - granulated sugar ((200g))
         - packed light brown sugar ((110g))
         - granulated sugar ((100g))
         - red chilli powder ((or paprika, adjust to taste))
@@ -306,6 +315,7 @@ emoji:
         - carrots
         - grated carrots
     - cheese_wedge:
+        - (8 ounces, 226g) cream cheese
         - shredded lettuce, sour cream, chopped tomatoes, sliced avocados, shredded cheese
         - feta or other salty cheese, such as queso fresco or pecorino, crumbled
         - Monterey Jack cheese
@@ -449,6 +459,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - butter (room temperature (80g))
         - unsalted butter ((56g))
         - ¾ cups water (or thin coconut milk (1¼ cups water for IP, 2 cups for regular pot, refer notes))
         - curd or yogurt

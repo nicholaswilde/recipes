@@ -471,6 +471,7 @@ Desserts = [
   { "Pound Cake" = "desserts/cake/pound-cake.md" },
   { "Prinsesstårta" = "desserts/cake/prinsesstårta.md" },
   { "Pumpkin Cheesecake" = "desserts/pumpkin-cheesecake.md" },
+  { "Pumpkin Roll Recipe" = "desserts/pumpkin-roll-recipe.md" },
   { "Pumpkin Spiced Apple Pie" = "desserts/pumpkin-spiced-apple-pie.md" },
   { "Reine be Saba (Queen of Sheba)" = "desserts/cake/reine-be-saba-(queen-of-sheba).md" },
   { "Rhubarb Cake" = "desserts/cake/rhubarb-cake.md" },
