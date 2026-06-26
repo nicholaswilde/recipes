@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - cake pan
         - recipe
         - wprm
         - 39
@@ -384,6 +385,7 @@ emoji:
         - corn flour
         - mixed nuts
     - chocolate_bar:
+        - chocolate chips
         - unsweetened cocoa powder ((25g))
         - white chocolate chips
         - milk chocolate chips

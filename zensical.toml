@@ -403,6 +403,7 @@ Desserts = [
   { "Eggnog Cake" = "desserts/eggnog-cake.md" },
   { "English Toffee" = "desserts/english-toffee.md" },
   { "Flourless Chocolate Cake" = "desserts/cake/flourless-chocolate-cake.md" },
+  { "Flourless Chocolate Cake (King Arthur Baking)" = "desserts/cake/flourless-chocolate-cake-(king-arthur-baking).md" },
   { "French Fruit Tart" = "desserts/tarts/french-fruit-tart.md" },
   { "Fresh Cherry Pie" = "desserts/pie/fresh-cherry-pie.md" },
   { "Fresh Fruit Tart" = "desserts/tarts/fresh-fruit-tart.md" },
