@@ -6,7 +6,6 @@ tags:
   - dessert
 hero: assets/images/date-energy-balls.webp
 ---
-
 # Date Energy Balls
 
 ![Date Energy Balls][1]{ loading=lazy }
@@ -17,34 +16,32 @@ hero: assets/images/date-energy-balls.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup (99 g) rolled oats
-- :grapes: 1 heaping cup (198 g) Medjool dates
-- :chestnut: 0.33 cup (45 g) peanut butter
+- :ear_of_rice: 1 cup (113 g) rolled oats
+- :grapes: 1 heaping cup Medjool dates
+- :chestnut: 0.33 cup (89 g) peanut butter
 - :chocolate_bar: 2 Tbsp (14 g) cocoa powder
-- :salt: 0.25 tsp (2 g) salt
+- :salt: 0.25 tsp salt
 - :droplet: 1 tsp (5 g) water
+- :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
 
-- :gear: 1 food processor
+- 1 food processor
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Add rolled oats to a food processor and blend for about 1.5 minutes, until they look like coarse flour. A little texture
-is okay.
+Add rolled oats to a food processor and blend for about 1.5 minutes, until they look like coarse flour. A little texture is okay.
 
 ### Step 2
 
-Add pitted Medjool dates (about 8 to 10 dates / 7 oz), peanut butter (or almond butter), unsweetened cocoa powder, and
-optional salt. Blend for 2 to 3 minutes, scraping down the sides if needed. The mixture will look coarse and slightly
-crumbly.
+Add pitted Medjool dates (about 8 to 10 dates / 7 oz), peanut butter (or almond butter), unsweetened cocoa powder, and optional salt. Blend for 2 to 3 minutes, scraping down the sides if needed. The mixture will look coarse and slightly crumbly.
 
 ### Step 3
 
-Squeeze a small amount of mixture in your hand. If it sticks together, it is ready. If it feels too dry, add water at a
-time and blend again until it is ready.
+Squeeze a small amount of mixture in your hand. If it sticks together, it is ready. If it feels too dry, add water (or
+vanilla extract) at a time and blend again until it is ready.
 
 ### Step 4
 
@@ -55,8 +52,14 @@ roll into a ball. Store in the fridge for up to 1 week or freeze for later.
 
     For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
 
+!!! tip
+
+    You can use vanilla extract instead of water to add a warm, sweet flavor note to the energy balls.
+
+
 ## :link: Source
 
 - <https://theplantbasedschool.com/date-energy-balls/>
 
 [1]: <../assets/images/date-energy-balls.webp>
+
