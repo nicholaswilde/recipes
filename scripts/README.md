@@ -19,6 +19,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
 | `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
+| `scripts/import_manual_recipe.py` | - | Orchestrates the manual recipe import pipeline (.cook, image, move, emojis, units, spellcheck, commit). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
 | `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
@@ -76,6 +77,14 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   extracts it from a GitHub issue, moves it to the appropriate category, runs emoji verification
   and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with
   auto-whitelisting for proper nouns).
+
+#### [import_manual_recipe.py](import_manual_recipe.py)
+
+* **Usage**: `uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]`
+* **Description**: Orchestrates the manual recipe import pipeline: copies/moves the `.cook` and optional image file
+  to the correct category under `cook/`, runs `move.sh` to compile to markdown and process the image, runs emoji verification
+  and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with auto-whitelisting of
+  proper nouns). Supports interactive category selection, GitHub issue lookup, and automated conventional committing.
 
 ---
 

@@ -57,6 +57,34 @@ def find_match(name, category_mappings):
         
     return None
 
+def get_heuristic_emoji_group(missing_term, category):
+    missing_lower = missing_term.lower().strip()
+    if category == "ingredients":
+        if "cheese" in missing_lower:
+            return "cheese_wedge"
+        if any(kw in missing_lower for kw in ["pepper", "chili", "chille", "jalapeño", "serrano", "poblano"]):
+            return "hot_pepper"
+        if any(kw in missing_lower for kw in ["onion", "scallion", "shallot", "leek"]):
+            return "tea"
+        if "tomato" in missing_lower or "pico de gallo" in missing_lower or "salsa" in missing_lower:
+            return "tomato"
+        if any(kw in missing_lower for kw in ["sauce", "dressing", "vinegar", "aminos", "tamari", "miso"]):
+            return "takeout_box"
+        if "garlic" in missing_lower:
+            return "garlic"
+        if any(kw in missing_lower for kw in ["chicken", "turkey", "breast"]):
+            return "stew"
+        if any(kw in missing_lower for kw in ["vegetable", "veggie"]):
+            return "carrot"
+        if any(kw in missing_lower for kw in ["cream", "milk", "yogurt", "butter"]):
+            return "glass_of_milk"
+    elif category == "cookware":
+        if any(kw in missing_lower for kw in ["pan", "skillet", "pot", "saucepan", "grill"]):
+            return "bowl_with_spoon"
+        if any(kw in missing_lower for kw in ["spoon", "whisk", "knife", "fork"]):
+            return "bowl_with_spoon"
+    return None
+
 def find_best_emoji_group(missing_term, emoji_category_data):
     best_score = 0.0
     best_emoji = None
@@ -220,24 +248,32 @@ def main():
         if missing_ingredients:
             ingredients_data = yaml_data.get("emoji", {}).get("ingredients", [])
             for ing in missing_ingredients:
-                best_group, score = find_best_emoji_group(ing, ingredients_data)
+                best_group = get_heuristic_emoji_group(ing, "ingredients")
                 if best_group:
-                    print(f"  Mapping ingredient '{ing}' to group '{best_group}' (confidence: {score:.2f})")
+                    print(f"  Heuristic mapped ingredient '{ing}' to group '{best_group}'")
                 else:
-                    best_group = "takeout_box"
-                    print(f"  No similar group found for ingredient '{ing}'. Mapping to fallback group '{best_group}'")
+                    best_group, score = find_best_emoji_group(ing, ingredients_data)
+                    if best_group:
+                        print(f"  Mapping ingredient '{ing}' to group '{best_group}' (confidence: {score:.2f})")
+                    else:
+                        best_group = "takeout_box"
+                        print(f"  No similar group found for ingredient '{ing}'. Mapping to fallback group '{best_group}'")
                 insert_emoji_mapping(emoji_path, "ingredients", best_group, ing)
                 fixed_count += 1
                 
         if missing_cookware:
             cookware_data = yaml_data.get("emoji", {}).get("cookware", [])
             for cw in missing_cookware:
-                best_group, score = find_best_emoji_group(cw, cookware_data)
+                best_group = get_heuristic_emoji_group(cw, "cookware")
                 if best_group:
-                    print(f"  Mapping cookware '{cw}' to group '{best_group}' (confidence: {score:.2f})")
+                    print(f"  Heuristic mapped cookware '{cw}' to group '{best_group}'")
                 else:
-                    best_group = "bowl_with_spoon"
-                    print(f"  No similar group found for cookware '{cw}'. Mapping to fallback group '{best_group}'")
+                    best_group, score = find_best_emoji_group(cw, cookware_data)
+                    if best_group:
+                        print(f"  Mapping cookware '{cw}' to group '{best_group}' (confidence: {score:.2f})")
+                    else:
+                        best_group = "bowl_with_spoon"
+                        print(f"  No similar group found for cookware '{cw}'. Mapping to fallback group '{best_group}'")
                 insert_emoji_mapping(emoji_path, "cookware", best_group, cw)
                 fixed_count += 1
                 
