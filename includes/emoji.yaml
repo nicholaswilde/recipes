@@ -157,7 +157,6 @@ emoji:
         - vegan mayonnaise
         - vegan mayo
         - crème fraîche
-        - sour cream
         - aquafaba
         - buttermilk
     - beans:
@@ -176,6 +175,7 @@ emoji:
     - bee:
         - beeswax
     - bread:
+        - tortilla chips
         - /4 teaspoon ground cinnamon
         - /4 cup (30g) King Arthur Unbleached All-Purpose Flour
         - (390g) King Arthur Unbleached All-Purpose Flour
@@ -259,6 +259,8 @@ emoji:
         - carrots
         - grated carrots
     - cheese_wedge:
+        - cheese
+        - cottage cheese
         - extra firm tofu
         - vegan cream cheese
         - nutritional yeast
@@ -403,6 +405,7 @@ emoji:
         - Baker's Special Dry Milk
         - Baker’s Special Dried Milk
         - milk powder
+        - sour cream
         - whipped cream
     - grapes:
         - raisins
@@ -413,6 +416,7 @@ emoji:
         - green grapes
         - date paste
     - herb:
+        - chili-lime seasoning
         - Cajun seasoning
         - fresh basil leaves
         - fresh mint leaves
@@ -444,6 +448,7 @@ emoji:
         - crushed tomatoes
         - crushed red pepper
         - bell pepper
+        - peppers
         - red bell pepper
         - green bell pepper
         - crushed red pepper flakes
@@ -602,6 +607,7 @@ emoji:
         - Fiori di Sicilia
         - dill pickle juice
     - tea:
+        - onion
         - active dry yeast
         - instant yeast
         - sourdough discard
@@ -623,6 +629,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - pico de gallo
         - tomato
         - marinara sauce
         - whole tomatoes
