@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - grill
         - mixing
         - whisk
         - pan
@@ -100,6 +101,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - low-sodium soy sauce
         - cherry tomatoes
         - Fresh thyme (optional)
         - pinch of ground nutmeg
@@ -549,6 +551,7 @@ emoji:
         - freshly ground cardamom
         - tahini
     - stew:
+        - chicken breast
         - low sodium chicken broth
         - vegetable stock
         - vegetable broth
@@ -571,6 +574,7 @@ emoji:
         - potato
         - potato gnocchi
     - takeout_box:
+        - wooden or metal skewers
         - soysauce
         - soy sauce
         - coconut aminos
