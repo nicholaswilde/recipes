@@ -668,6 +668,7 @@ Levain
 libby
 lifecycle
 Ligurian
+lima
 limoncello
 Limoncello
 Limonsardo
