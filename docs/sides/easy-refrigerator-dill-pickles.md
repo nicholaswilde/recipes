@@ -1,4 +1,4 @@
-# Easy Refrigerator Dill Pickles
+# :cucumber: Easy Refrigerator Dill Pickles
 
 ![Easy Refrigerator Dill Pickles](../assets/images/easy-refrigerator-dill-pickles.webp){ loading=lazy }
 

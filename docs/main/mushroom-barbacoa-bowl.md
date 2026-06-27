@@ -5,7 +5,7 @@ tags:
 hero: assets/images/mushroom-barbacoa-bowl.webp
 ---
 
-# Mushroom Barbacoa Bowl
+# :bowl_with_spoon: Mushroom Barbacoa Bowl
 
 ![Mushroom Barbacoa Bowl][1]{ loading=lazy }
 

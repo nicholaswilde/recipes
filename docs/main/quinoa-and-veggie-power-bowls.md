@@ -5,7 +5,7 @@ tags:
 hero: assets/images/quinoa-and-veggie-power-bowls.webp
 ---
 
-# Quinoa and Veggie Power Bowls
+# :ear_of_rice: Quinoa and Veggie Power Bowls
 
 ![Quinoa and Veggie Power Bowls][1]{ loading=lazy }
 

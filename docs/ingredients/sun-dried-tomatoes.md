@@ -4,7 +4,7 @@ tags:
   - ingredient
 ---
 
-# Sun-Dried Tomatoes
+# :tomato: Sun-Dried Tomatoes
 
 ![Sun-Dried Tomatoes][1]{ loading=lazy }
 

@@ -4,7 +4,7 @@ tags:
   - main
 ---
 
-# Honey Garlic Veggie Skewers
+# :garlic: Honey Garlic Veggie Skewers
 
 ![Honey Garlic Veggie Skewers][1]{ loading=lazy }
 

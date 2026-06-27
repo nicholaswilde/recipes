@@ -6,7 +6,7 @@ tags:
 hero: assets/images/falafel-scones-with-harissa-yogurt.png
 ---
 
-# Falafel Scones with Harissa Yogurt
+# :baby_bottle: Falafel Scones with Harissa Yogurt
 
 ![Falafel Scones with Harissa Yogurt](../../assets/images/falafel-scones-with-harissa-yogurt.png){ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/veggie-cassola.webp
 ---
 
-# Veggie Cassola
+# :cucumber: Veggie Cassola
 
 ![Veggie Cassola][1]{ loading=lazy }
 

@@ -8,7 +8,7 @@ tags:
 hero: assets/images/artisan-breadsticks.webp
 ---
 
-# Artisan Breadsticks
+# :olive: Artisan Breadsticks
 
 ![Artisan Breadsticks][1]{ loading=lazy }
 

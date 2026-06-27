@@ -8,7 +8,7 @@ tags:
 hero: assets/images/mushroom-bourguignon.webp
 ---
 
-# Mushroom Bourguignon
+# :olive: Mushroom Bourguignon
 
 ![Mushroom Bourguignon][1]{ loading=lazy }
 

@@ -4,7 +4,7 @@ tags:
   - breakfast
 ---
 
-# Migas
+# :hot_pepper: Migas
 
 ![Migas][1]{ loading=lazy }
 

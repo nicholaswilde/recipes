@@ -5,7 +5,7 @@ tags:
 hero: assets/images/garlic-chana-dal.webp
 ---
 
-# Garlic Chana Dal
+# :garlic: Garlic Chana Dal
 
 ![Garlic Chana Dal][1]{ loading=lazy }
 

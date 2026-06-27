@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.webp
 ---
 
-# Vegan Kale Caesar with Crispy Chickpeas
+# :beans: Vegan Kale Caesar with Crispy Chickpeas
 
 ![Vegan Kale Caesar with Crispy Chickpeas][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/spinach-salad-with-gorgonzola-and-pear.webp
 ---
 
-# Spinach Salad with Gorgonzola and Pear
+# :green_salad: Spinach Salad with Gorgonzola and Pear
 
 ![Spinach Salad with Gorgonzola and Pear][1]{ loading=lazy }
 

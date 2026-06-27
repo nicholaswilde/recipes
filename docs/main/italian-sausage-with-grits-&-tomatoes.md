@@ -5,7 +5,7 @@ tags:
 hero: assets/images/italian-sausage-with-grits-&-tomatoes.webp
 ---
 
-# Italian Sausage with Grits & Tomatoes
+# :tomato: Italian Sausage with Grits & Tomatoes
 
 ![Italian Sausage with Grits & Tomatoes][1]{ loading=lazy }
 

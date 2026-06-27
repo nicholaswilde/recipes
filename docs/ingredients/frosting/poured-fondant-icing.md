@@ -7,7 +7,7 @@ tags:
 hero: assets/images/poured-fondant-icing.webp
 ---
 
-# Poured Fondant Icing
+# :chocolate_bar: Poured Fondant Icing
 
 ![Poured Fondant Icing][1]{ loading=lazy }
 

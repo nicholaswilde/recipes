@@ -7,7 +7,7 @@ tags:
 hero: assets/images/fall-turkey-chili-with-pumpkin.png
 ---
 
-# Fall Turkey Chili With Pumpkin
+# :hot_pepper: Fall Turkey Chili With Pumpkin
 
 ![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png){ loading=lazy }
 

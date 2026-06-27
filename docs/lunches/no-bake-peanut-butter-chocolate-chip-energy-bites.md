@@ -5,7 +5,7 @@ tags:
 hero: assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.webp
 ---
 
-# No Bake Peanut Butter Chocolate Chip Energy Bites
+# :peanut: No Bake Peanut Butter Chocolate Chip Energy Bites
 
 ![No Bake Peanut Butter Chocolate Chip Energy Bites][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/fiesta-salad.webp
 ---
 
-# Fiesta Salad
+# :green_salad: Fiesta Salad
 
 ![Fiesta Salad][1]{ loading=lazy }
 

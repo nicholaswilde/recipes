@@ -7,7 +7,7 @@ tags:
 hero: assets/images/irene's-cretan-biscuits.webp
 ---
 
-# Irene's Cretan Biscuits
+# :chestnut: Irene's Cretan Biscuits
 
 ![Irene's Cretan Biscuits][1]{ loading=lazy }
 

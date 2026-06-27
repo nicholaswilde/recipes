@@ -7,7 +7,7 @@ tags:
 hero: assets/images/oatmeal-raisin-energy-bites.webp
 ---
 
-# Oatmeal Raisin Energy Bites
+# :grapes: Oatmeal Raisin Energy Bites
 
 ![Oatmeal Raisin Energy Bites][1]{ loading=lazy }
 

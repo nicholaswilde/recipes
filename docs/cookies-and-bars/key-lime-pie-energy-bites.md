@@ -7,7 +7,7 @@ tags:
 hero: assets/images/key-lime-pie-energy-bites.webp
 ---
 
-# Key Lime Pie Energy Bites
+# :lemon: Key Lime Pie Energy Bites
 
 ![Key Lime Pie Energy Bites][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
   - pie
 ---
 
-# Strawberry Rhubarb Cardamom Galette
+# :strawberry: Strawberry Rhubarb Cardamom Galette
 
 ![Strawberry Rhubarb Cardamom Galette][1]{ loading=lazy }
 

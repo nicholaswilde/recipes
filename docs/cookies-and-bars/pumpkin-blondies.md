@@ -10,7 +10,7 @@ tags:
 hero: assets/images/pumpkin-blondies.webp
 ---
 
-# Pumpkin Blondies
+# :ear_of_rice: Pumpkin Blondies
 
 ![Pumpkin Blondies][1]{ loading=lazy }
 

@@ -4,7 +4,7 @@ tags:
   - dessert
 ---
 
-# Vegan espresso martini chocolate mousse
+# :chocolate_bar: Vegan espresso martini chocolate mousse
 
 ![Vegan espresso martini chocolate mousse][1]{ loading=lazy }
 

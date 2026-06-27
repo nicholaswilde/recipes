@@ -7,7 +7,7 @@ tags:
 hero: assets/images/southern-skillet-cornbread.webp
 ---
 
-# Southern Skillet Cornbread
+# :shallow_pan_of_food: Southern Skillet Cornbread
 
 ![Southern Skillet Cornbread][1]{ loading=lazy }
 

@@ -7,7 +7,7 @@ tags:
 hero: assets/images/snickers-energy-bites.webp
 ---
 
-# Snickers Energy Bites
+# :grapes: Snickers Energy Bites
 
 ![Snickers Energy Bites][1]{ loading=lazy }
 

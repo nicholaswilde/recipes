@@ -7,7 +7,7 @@ tags:
 hero: assets/images/gingerbread-people.webp
 ---
 
-# Gingerbread People
+# :honey_pot: Gingerbread People
 
 ![Gingerbread People][1]{ loading=lazy }
 

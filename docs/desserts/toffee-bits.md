@@ -6,7 +6,7 @@ tags:
 hero: assets/images/toffee-bits.webp
 ---
 
-# Toffee Bits
+# :butter: Toffee Bits
 
 ![Toffee Bits][1]{ loading=lazy }
 

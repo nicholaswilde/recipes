@@ -6,7 +6,7 @@ tags:
 hero: assets/images/pepperidge-farm-whole-wheat-bread.webp
 ---
 
-# Pepperidge Farm Whole Wheat Bread
+# :bread: Pepperidge Farm Whole Wheat Bread
 
 ![Pepperidge Farm Whole Wheat Bread][1]{ loading=lazy }
 

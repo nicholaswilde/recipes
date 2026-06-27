@@ -5,7 +5,7 @@ tags:
 hero: assets/images/cauliflower-green-bean-mac-and-cheese.webp
 ---
 
-# Cauliflower Green Bean Mac and Cheese
+# :beans: Cauliflower Green Bean Mac and Cheese
 
 ![Cauliflower Green Bean Mac and Cheese][1]{ loading=lazy }
 

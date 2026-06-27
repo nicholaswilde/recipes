@@ -7,7 +7,7 @@ tags:
 hero: assets/images/corn-cookies-christina-tosi.webp
 ---
 
-# Corn Cookies
+# :corn: Corn Cookies
 
 ![Corn Cookies][1]{ loading=lazy }
 

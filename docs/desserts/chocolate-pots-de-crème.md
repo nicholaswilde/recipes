@@ -5,7 +5,7 @@ tags:
 hero: assets/images/chocolate-pots-de-crème.jpg
 ---
 
-# Chocolate Pots de Crème
+# :chocolate_bar: Chocolate Pots de Crème
 
 ![Chocolate Pots de Crème][1]{ loading=lazy }
 

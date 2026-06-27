@@ -5,7 +5,7 @@ tags:
 hero: assets/images/tortilla-de-patatas.png
 ---
 
-# Tortilla de Patatas
+# :onion: Tortilla de Patatas
 
 ![Tortilla de Patatas][1]{ loading=lazy }
 

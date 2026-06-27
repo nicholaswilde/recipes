@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegetarian-pot-pie.webp
 ---
 
-# Vegetarian Pot Pie
+# :pie: Vegetarian Pot Pie
 
 ![Vegetarian Pot Pie][1]{ loading=lazy }
 

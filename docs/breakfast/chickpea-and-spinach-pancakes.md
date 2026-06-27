@@ -5,7 +5,7 @@ tags:
 hero: assets/images/chickpea-and-spinach-pancakes.webp
 ---
 
-# Chickpea and Spinach Pancakes
+# :bread: Chickpea and Spinach Pancakes
 
 ![Chickpea and Spinach Pancakes][1]{ loading=lazy }
 

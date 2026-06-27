@@ -7,7 +7,7 @@ tags:
 hero: assets/images/tzatziki-dip.jpg
 ---
 
-# Tzatziki Dip
+# :cucumber: Tzatziki Dip
 
 ![Tzatziki Dip][1]{ loading=lazy }
 

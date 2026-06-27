@@ -6,7 +6,7 @@ tags:
 hero: assets/images/one-bowl-[buttermilk](../../ingredients/buttermilk.md)-birthday-cake-with-cream-cheese-frosting.webp
 ---
 
-# One-Bowl [buttermilk](../../ingredients/buttermilk.md) Birthday Cake with Cream Cheese Frosting
+# :cake: One-Bowl [buttermilk](../../ingredients/buttermilk.md) Birthday Cake with Cream Cheese Frosting
 
 ![One-Bowl Buttermilk Birthday Cake with Cream Cheese Frosting][1]{ loading=lazy }
 

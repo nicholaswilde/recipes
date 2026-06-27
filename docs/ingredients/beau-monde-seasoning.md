@@ -5,7 +5,7 @@ tags:
 hero: assets/images/beau-monde-seasoning.webp
 ---
 
-# Beau Monde Seasoning
+# :seedling: Beau Monde Seasoning
 
 ![Beau Monde Seasoning][1]{ loading=lazy }
 

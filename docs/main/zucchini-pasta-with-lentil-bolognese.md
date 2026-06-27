@@ -5,7 +5,7 @@ tags:
 hero: assets/images/zucchini-pasta-with-lentil-bolognese.webp
 ---
 
-# Zucchini Pasta with Lentil Bolognese
+# :spaghetti: Zucchini Pasta with Lentil Bolognese
 
 ![Zucchini Pasta with Lentil Bolognese][1]{ loading=lazy }
 

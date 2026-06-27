@@ -4,7 +4,7 @@ tags:
   - bread
 ---
 
-# Czech Kolaches
+# :glass_of_milk: Czech Kolaches
 
 ![Czech Kolaches][1]{ loading=lazy }
 

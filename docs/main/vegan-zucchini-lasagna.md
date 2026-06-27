@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-zucchini-lasagna.webp
 ---
 
-# Vegan Zucchini Lasagna
+# :chestnut: Vegan Zucchini Lasagna
 
 ![Vegan Zucchini Lasagna][1]{ loading=lazy }
 

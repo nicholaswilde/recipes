@@ -4,7 +4,7 @@ tags:
   - main
 ---
 
-# Veg Biryani Vegetable Biryani Recipe
+# :bowl_with_spoon: Veg Biryani Vegetable Biryani Recipe
 
 ![Veg Biryani Vegetable Biryani Recipe][1]{ loading=lazy }
 

@@ -7,7 +7,7 @@ tags:
 hero: assets/images/two-layer-cheesecake.webp
 ---
 
-# Two-Layer Cheesecake
+# :bread: Two-Layer Cheesecake
 
 ![Two-Layer Cheesecake][1]{ loading=lazy }
 

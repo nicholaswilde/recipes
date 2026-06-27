@@ -5,7 +5,7 @@ tags:
 hero: assets/images/german-chocolate-cake.webp
 ---
 
-# German Chocolate Cake
+# :chocolate_bar: German Chocolate Cake
 
 ![German Chocolate Cake][1]{ loading=lazy }
 

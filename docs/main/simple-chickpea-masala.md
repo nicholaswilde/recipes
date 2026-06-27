@@ -5,7 +5,7 @@ tags:
 hero: assets/images/simple-chickpea-masala.webp
 ---
 
-# Simple Chickpea Masala
+# :olive: Simple Chickpea Masala
 
 ![Simple Chickpea Masala][1]{ loading=lazy }
 

@@ -8,7 +8,7 @@ tags:
 hero: assets/images/baking-powder.webp
 ---
 
-# Baking Powder
+# :baby_bottle: Baking Powder
 
 ![Baking Powder][1]{ loading=lazy }
 

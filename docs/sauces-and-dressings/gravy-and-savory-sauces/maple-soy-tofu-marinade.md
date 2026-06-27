@@ -8,7 +8,7 @@ tags:
 hero: assets/images/maple-soy-tofu-marinade.jpg
 ---
 
-# Maple Soy Tofu Marinade
+# :takeout_box: Maple Soy Tofu Marinade
 
 ![Maple Soy Tofu Marinade](../../assets/images/maple-soy-tofu-marinade.jpg){ loading=lazy }
 

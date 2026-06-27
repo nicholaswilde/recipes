@@ -5,7 +5,7 @@ tags:
 hero: assets/images/meatless-umami-shepherd's-pie.png
 ---
 
-# Meatless Umami Shepherd's Pie
+# :pie: Meatless Umami Shepherd's Pie
 
 ![Meatless Umami Shepherd's Pie][1]{ loading=lazy }
 

@@ -7,7 +7,7 @@ tags:
 hero: assets/images/guinness-chocolate-cake.webp
 ---
 
-# Guinness Chocolate Cake
+# :chocolate_bar: Guinness Chocolate Cake
 
 ![Guinness Chocolate Cake][1]{ loading=lazy }
 

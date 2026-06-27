@@ -7,7 +7,7 @@ tags:
 hero: assets/images/almond-cookies.webp
 ---
 
-# Almond Cookies
+# :chestnut: Almond Cookies
 
 ![Almond Cookies][1]{ loading=lazy }
 

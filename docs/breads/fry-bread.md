@@ -6,7 +6,7 @@ tags:
 hero: assets/images/fry-bread.webp
 ---
 
-# Fry Bread
+# :bread: Fry Bread
 
 ![Fry Bread][1]{ loading=lazy }
 

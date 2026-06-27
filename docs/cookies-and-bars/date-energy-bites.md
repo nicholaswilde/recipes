@@ -7,7 +7,7 @@ tags:
 hero: assets/images/date-energy-bites.webp
 ---
 
-# Date Energy Bites
+# :ear_of_rice: Date Energy Bites
 
 ![Date Energy Bites][1]{ loading=lazy }
 

@@ -6,7 +6,7 @@ tags:
 hero: assets/images/rosca-de-reyes.webp
 ---
 
-# Rosca de Reyes
+# :hotsprings: Rosca de Reyes
 
 ![Rosca de Reyes][1]{ loading=lazy }
 

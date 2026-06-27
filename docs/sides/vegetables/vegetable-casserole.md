@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegetable-casserole.webp
 ---
 
-# Vegetable Casserole
+# :cucumber: Vegetable Casserole
 
 ![Vegetable Casserole][1]{ loading=lazy }
 

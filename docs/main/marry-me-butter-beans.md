@@ -6,7 +6,7 @@ tags:
 hero: assets/images/marry-me-butter-beans.webp
 ---
 
-# Marry Me Butter Beans
+# :butter: Marry Me Butter Beans
 
 ![Marry Me Butter Beans][1]{ loading=lazy }
 

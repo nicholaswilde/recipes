@@ -10,7 +10,7 @@ tags:
 hero: assets/images/scalloped-potatoes.webp
 ---
 
-# Scalloped Potatoes
+# :potato: Scalloped Potatoes
 
 ![Scalloped Potatoes][1]{ loading=lazy }
 

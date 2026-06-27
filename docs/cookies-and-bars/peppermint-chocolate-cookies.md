@@ -7,7 +7,7 @@ tags:
 hero: assets/images/peppermint-chocolate-cookies.webp
 ---
 
-# Peppermint Chocolate Cookies
+# :chocolate_bar: Peppermint Chocolate Cookies
 
 ![Peppermint Chocolate Cookies][1]{ loading=lazy }
 

@@ -7,7 +7,7 @@ tags:
 hero: assets/images/all-purpose-vinaigrette.jpg
 ---
 
-# All-Purpose Vinaigrette
+# :grapes: All-Purpose Vinaigrette
 
 ![All-Purpose Vinaigrette][1]{ loading=lazy }
 

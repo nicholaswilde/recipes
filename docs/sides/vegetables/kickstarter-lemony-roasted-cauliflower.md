@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/kickstarter-lemony-roasted-cauliflower.webp
 ---
 
-# Kickstarter Lemony Roasted Cauliflower
+# :broccoli: Kickstarter Lemony Roasted Cauliflower
 
 ![Kickstarter Lemony Roasted Cauliflower](../../assets/images/kickstarter-lemony-roasted-cauliflower.webp){ loading=lazy }
 

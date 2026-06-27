@@ -6,7 +6,7 @@ tags:
 hero: assets/images/miso-nori-paste.webp
 ---
 
-# Miso Nori Paste
+# :leafy_green: Miso Nori Paste
 
 ![Miso Nori](../assets/images/miso-nori-paste.webp){ loading=lazy }
 

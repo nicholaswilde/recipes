@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/peanut-butter-bites.webp
 ---
 
-# Peanut Butter Bites
+# :peanut: Peanut Butter Bites
 
 ![Peanut Butter Bites](../../assets/images/peanut-butter-bites.webp){ loading=lazy }
 

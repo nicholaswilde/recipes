@@ -5,7 +5,7 @@ tags:
   - stew
 ---
 
-# Spicy White Bean Stew With Broccoli Rabe
+# :beans: Spicy White Bean Stew With Broccoli Rabe
 
 ![Spicy White Bean Stew With Broccoli Rabe][1]{ loading=lazy }
 

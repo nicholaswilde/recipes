@@ -7,7 +7,7 @@ tags:
 hero: assets/images/lemon-energy-bites.webp
 ---
 
-# Lemon Energy Bites
+# :lemon: Lemon Energy Bites
 
 ![Lemon Energy Bites][1]{ loading=lazy }
 

@@ -8,7 +8,7 @@ tags:
 hero: assets/images/orange-marmalade.webp
 ---
 
-# Orange Marmalade
+# :tangerine: Orange Marmalade
 
 ![Orange Marmalade](../../assets/images/orange-marmalade.webp){ loading=lazy }
 

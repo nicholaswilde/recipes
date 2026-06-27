@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/spicy-garlic-edamame.webp
 ---
 
-# Spicy Garlic Edamame
+# :garlic: Spicy Garlic Edamame
 
 ![Spicy Garlic Edamame](../../assets/images/spicy-garlic-edamame.webp){ loading=lazy }
 

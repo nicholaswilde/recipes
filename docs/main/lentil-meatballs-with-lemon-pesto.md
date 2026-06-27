@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 ---
 
-# Lentil Meatballs with Lemon Pesto
+# :lemon: Lentil Meatballs with Lemon Pesto
 
 ![Lentil Meatballs with Lemon Pesto][1]{ loading=lazy }
 

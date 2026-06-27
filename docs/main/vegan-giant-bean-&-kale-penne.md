@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-giant-bean-&-kale-penne.png
 ---
 
-# Vegan Giant Bean & Kale Penne
+# :beans: Vegan Giant Bean & Kale Penne
 
 ![Vegan Giant Bean & Kale Penne][1]{ loading=lazy }
 

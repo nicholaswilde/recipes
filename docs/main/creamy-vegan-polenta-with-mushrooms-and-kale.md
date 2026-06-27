@@ -5,7 +5,7 @@ tags:
 hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 ---
 
-# Creamy Vegan Polenta with Mushrooms and Kale
+# :stew: Creamy Vegan Polenta with Mushrooms and Kale
 
 ![Creamy Vegan Polenta with Mushrooms and Kale][1]{ loading=lazy }
 

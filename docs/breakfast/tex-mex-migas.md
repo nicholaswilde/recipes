@@ -4,7 +4,7 @@ tags:
   - breakfast
 ---
 
-# Tex-Mex Migas
+# :tea: Tex-Mex Migas
 
 ![Tex-Mex Migas][1]{ loading=lazy }
 

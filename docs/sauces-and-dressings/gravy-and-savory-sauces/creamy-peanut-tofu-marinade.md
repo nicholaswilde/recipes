@@ -8,7 +8,7 @@ tags:
 hero: assets/images/creamy-peanut-tofu-marinade.webp
 ---
 
-# Creamy Peanut Tofu Marinade
+# :peanut: Creamy Peanut Tofu Marinade
 
 ![Creamy Peanut Tofu Marinade](../../assets/images/creamy-peanut-tofu-marinade.webp){ loading=lazy }
 

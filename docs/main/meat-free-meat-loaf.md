@@ -5,7 +5,7 @@ tags:
 hero: assets/images/meat-free-meat-loaf.webp
 ---
 
-# Meat-Free Meat Loaf
+# :onion: Meat-Free Meat Loaf
 
 ![Meat-Free Meat Loaf][1]{ loading=lazy }
 

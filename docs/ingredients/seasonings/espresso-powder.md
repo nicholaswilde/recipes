@@ -7,7 +7,7 @@ tags:
 hero: assets/images/espresso-powder.webp
 ---
 
-# Espresso Powder
+# :coffee: Espresso Powder
 
 ![Espresso Powder][1]{ loading=lazy }
 

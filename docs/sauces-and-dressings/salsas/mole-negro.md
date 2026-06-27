@@ -8,7 +8,7 @@ tags:
 hero: assets/images/mole-negro.webp
 ---
 
-# Mole Negro
+# :tomato: Mole Negro
 
 ![Mole Negro](../../assets/images/mole-negro.webp){ loading=lazy }
 

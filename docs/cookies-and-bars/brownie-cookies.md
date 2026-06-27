@@ -6,7 +6,7 @@ tags:
   - dessert
 ---
 
-# Brownie Cookies
+# :cookie: Brownie Cookies
 
 ![Brownie Cookies][1]{ loading=lazy }
 

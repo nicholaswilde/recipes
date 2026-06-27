@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp
 ---
 
-# Lentil Mushroom Stew over Mashed Potatoes
+# :stew: Lentil Mushroom Stew over Mashed Potatoes
 
 ![Lentil Mushroom Stew over Mashed Potatoes][1]{ loading=lazy }
 

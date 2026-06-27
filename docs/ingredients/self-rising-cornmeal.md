@@ -7,7 +7,7 @@ tags:
 hero: assets/images/self-rising-cornmeal.webp
 ---
 
-# Self-Rising Cornmeal
+# :ear_of_rice: Self-Rising Cornmeal
 
 ![Self-Rising Cornmeal][1]{ loading=lazy }
 

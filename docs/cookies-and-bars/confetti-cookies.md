@@ -7,7 +7,7 @@ tags:
 hero: assets/images/confetti-cookies.webp
 ---
 
-# Confetti Cookies
+# :cookie: Confetti Cookies
 
 ![Confetti Cookies][1]{ loading=lazy }
 

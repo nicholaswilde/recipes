@@ -6,7 +6,7 @@ tags:
 hero: assets/images/lemon-poppy-seed-pound-cake.webp
 ---
 
-# Lemon Poppy Seed Pound Cake
+# :lemon: Lemon Poppy Seed Pound Cake
 
 ![Lemon Poppy Seed Pound Cake][1]{ loading=lazy }
 

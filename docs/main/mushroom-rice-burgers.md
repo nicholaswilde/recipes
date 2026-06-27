@@ -5,7 +5,7 @@ tags:
 hero: assets/images/mushroom-rice-burgers.webp
 ---
 
-# Mushroom Rice Burgers
+# :rice: Mushroom Rice Burgers
 
 ![Mushroom Rice Burgers][1]{ loading=lazy }
 

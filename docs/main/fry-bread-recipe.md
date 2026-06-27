@@ -4,7 +4,7 @@ tags:
   - main
 ---
 
-# Fry Bread Recipe
+# :bread: Fry Bread Recipe
 
 ![Fry Bread Recipe][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/game-changers-oat-and-lentil-meatloaf.webp
 ---
 
-# Game Changers Oat and Lentil Meatloaf
+# :leafy_green: Game Changers Oat and Lentil Meatloaf
 
 ![Game Changers Oat and Lentil Meatloaf][1]{ loading=lazy }
 

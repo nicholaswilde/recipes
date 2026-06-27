@@ -6,7 +6,7 @@ tags:
 hero: assets/images/andrew-kings-pasta-salad.webp
 ---
 
-# Andrew King's Pasta Salad
+# :spaghetti: Andrew King's Pasta Salad
 
 ![Andrew Kings Pasta Salad][1]{ loading=lazy }
 

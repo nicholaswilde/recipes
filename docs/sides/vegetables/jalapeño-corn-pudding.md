@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/jalapeño-corn-pudding.webp
 ---
 
-# Jalapeño Corn Pudding
+# :hot_pepper: Jalapeño Corn Pudding
 
 ![Jalapeño Corn Pudding](../../assets/images/jalapeño-corn-pudding.webp){ loading=lazy }
 

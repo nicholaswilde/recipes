@@ -6,7 +6,7 @@ tags:
 hero: assets/images/black-eyed-peas-and-greens.webp
 ---
 
-# Black Eyed Peas and Greens
+# :beans: Black Eyed Peas and Greens
 
 ![Black Eyed Peas and Greens][1]{ loading=lazy }
 

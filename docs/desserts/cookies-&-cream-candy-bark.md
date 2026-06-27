@@ -5,7 +5,7 @@ tags:
 hero: assets/images/cookies-&-cream-candy-bark.webp
 ---
 
-# Cookies & Cream Candy Bark
+# :cookie: Cookies & Cream Candy Bark
 
 ![Cookies & Cream Candy Bark][1]{ loading=lazy }
 

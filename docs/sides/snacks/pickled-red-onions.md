@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/pickled-red-onions.webp
 ---
 
-# Pickled Red Onions
+# :cucumber: Pickled Red Onions
 
 ![Pickled Red Onions](../../assets/images/pickled-red-onions.webp){ loading=lazy }
 

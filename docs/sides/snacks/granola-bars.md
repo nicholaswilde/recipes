@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/granola-bars.webp
 ---
 
-# Granola Bars
+# :grapes: Granola Bars
 
 ![Granola Bars](../../assets/images/granola-bars.webp){ loading=lazy }
 

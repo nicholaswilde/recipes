@@ -5,7 +5,7 @@ tags:
 hero: assets/images/belgian-pearl-sugar-liege-waffles.webp
 ---
 
-# Belgian Pearl Sugar Liege Waffles
+# :candy: Belgian Pearl Sugar Liege Waffles
 
 ![Belgian Pearl Sugar Liege Waffles][1]{ loading=lazy }
 

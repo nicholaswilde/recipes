@@ -7,7 +7,7 @@ tags:
 hero: assets/images/homemade-chilli-oil.webp
 ---
 
-# Homemade Chilli Oil
+# :hot_pepper: Homemade Chilli Oil
 
 ![Homemade Chilli Oil][1]{ loading=lazy }
 

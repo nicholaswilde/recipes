@@ -5,7 +5,7 @@ tags:
 hero: assets/images/cornish-pasty.webp
 ---
 
-# Cornish Pasty
+# :bread: Cornish Pasty
 
 ![Cornish Pasty][1]{ loading=lazy }
 

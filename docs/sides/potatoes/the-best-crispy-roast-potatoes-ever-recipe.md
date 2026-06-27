@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.webp
 ---
 
-# The Best Crispy Roast Potatoes Ever Recipe
+# :potato: The Best Crispy Roast Potatoes Ever Recipe
 
 ![The Best Crispy Roast Potatoes Ever Recipe][1]{ loading=lazy }
 

@@ -8,7 +8,7 @@ tags:
 hero: assets/images/best-ever-peanut-butter-bars.jpg
 ---
 
-# Best Ever Peanut Butter Bars
+# :peanut: Best Ever Peanut Butter Bars
 
 ![Best Ever Peanut Butter Bars][1]{ loading=lazy }
 

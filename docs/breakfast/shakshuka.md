@@ -6,7 +6,7 @@ tags:
 hero: assets/images/shakshuka.webp
 ---
 
-# Shakshuka
+# :olive: Shakshuka
 
 ![Shakshuka][1]{ loading=lazy }
 

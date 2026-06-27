@@ -9,7 +9,7 @@ tags:
 hero: assets/images/struffoli.webp
 ---
 
-# Struffoli
+# :egg: Struffoli
 
 ![Struffoli][1]{ loading=lazy }
 

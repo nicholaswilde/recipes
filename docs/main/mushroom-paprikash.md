@@ -5,7 +5,7 @@ tags:
 hero: assets/images/mushroom-paprikash.webp
 ---
 
-# Mushroom Paprikash
+# :olive: Mushroom Paprikash
 
 ![Mushroom Paprikash][1]{ loading=lazy }
 

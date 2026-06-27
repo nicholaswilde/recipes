@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-baked-beans.webp
 ---
 
-# Vegan Baked Beans
+# :beans: Vegan Baked Beans
 
 ![Vegan Baked Beans][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/holiday-peppermint-bark.webp
 ---
 
-# Holiday Peppermint Bark
+# :chocolate_bar: Holiday Peppermint Bark
 
 ![Holiday Peppermint Bark][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/peppermint-fudge.webp
 ---
 
-# Peppermint Fudge
+# :candy: Peppermint Fudge
 
 ![Peppermint Fudge][1]{ loading=lazy }
 

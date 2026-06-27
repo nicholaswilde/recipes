@@ -10,7 +10,7 @@ tags:
 hero: assets/images/one-pan-orzo-with-spinach-and-feta.webp
 ---
 
-# One-Pan Orzo with Spinach and Feta
+# :bowl_with_spoon: One-Pan Orzo with Spinach and Feta
 
 ![One-Pan Orzo with Spinach and Feta][1]{ loading=lazy }
 

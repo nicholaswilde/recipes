@@ -5,7 +5,7 @@ tags:
 hero: assets/images/the-best-vegan-burger.webp
 ---
 
-# The Best Vegan Burger
+# :beans: The Best Vegan Burger
 
 ![The Best Vegan Burger][1]{ loading=lazy }
 

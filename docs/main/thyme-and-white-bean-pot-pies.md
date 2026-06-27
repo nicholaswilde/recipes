@@ -5,7 +5,7 @@ tags:
 hero: assets/images/thyme-and-white-bean-pot-pies.webp
 ---
 
-# Thyme and White Bean Pot Pies
+# :herb: Thyme and White Bean Pot Pies
 
 ![Thyme and White Bean Pot Pies][1]{ loading=lazy }
 

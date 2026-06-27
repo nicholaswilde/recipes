@@ -5,7 +5,7 @@ tags:
 hero: assets/images/date-paste.webp
 ---
 
-# Date Paste
+# :droplet: Date Paste
 
 ![Date Paste][1]{ loading=lazy }
 

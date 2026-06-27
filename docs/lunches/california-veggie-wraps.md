@@ -5,7 +5,7 @@ tags:
 hero: assets/images/california-veggie-wraps.webp
 ---
 
-# California Veggie Wraps
+# :cheese_wedge: California Veggie Wraps
 
 ![California Veggie Wraps][1]{ loading=lazy }
 

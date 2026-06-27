@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lemon-garlic-cauliflower-rice.png
 ---
 
-# Lemon Garlic Cauliflower Rice
+# :lemon: Lemon Garlic Cauliflower Rice
 
 ![Lemon Garlic Cauliflower Rice][1]{ loading=lazy }
 

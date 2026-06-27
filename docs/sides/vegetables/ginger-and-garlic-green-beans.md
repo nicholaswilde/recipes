@@ -6,7 +6,7 @@ tags:
 hero: assets/images/ginger-and-garlic-green-beans.webp
 ---
 
-# Ginger and Garlic Green Beans
+# :garlic: Ginger and Garlic Green Beans
 
 ![Ginger and Garlic Green Beans](../../assets/images/ginger-and-garlic-green-beans.webp){ loading=lazy }
 

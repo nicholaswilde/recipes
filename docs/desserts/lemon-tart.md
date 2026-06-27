@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lemon-tart.webp
 ---
 
-# Lemon Tart
+# :lemon: Lemon Tart
 
 ![Lemon Tart][1]{ loading=lazy }
 

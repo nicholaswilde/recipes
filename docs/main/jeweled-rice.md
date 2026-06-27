@@ -5,7 +5,7 @@ tags:
 hero: assets/images/jeweled-rice.webp
 ---
 
-# Jeweled Rice
+# :rice: Jeweled Rice
 
 ![Jeweled Rice][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-tourtiere.webp
 ---
 
-# Vegan Tourtiere
+# :cheese_wedge: Vegan Tourtiere
 
 ![Vegan Tourtiere][1]{ loading=lazy }
 

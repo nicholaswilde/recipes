@@ -5,7 +5,7 @@ tags:
   - salad
 ---
 
-# Tzatziki Chickpea Salad
+# :green_salad: Tzatziki Chickpea Salad
 
 ![Tzatziki Chickpea Salad][1]{ loading=lazy }
 

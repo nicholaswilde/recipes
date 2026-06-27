@@ -5,7 +5,7 @@ tags:
 hero: assets/images/super-nourishing-beans-and-greens.webp
 ---
 
-# Super Nourishing Beans and Greens
+# :beans: Super Nourishing Beans and Greens
 
 ![Super Nourishing Beans and Greens][1]{ loading=lazy }
 

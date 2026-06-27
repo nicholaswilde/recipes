@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/josh-elkin's-mushroom-toast.webp
 ---
 
-# Josh Elkin's Mushroom Toast
+# :butter: Josh Elkin's Mushroom Toast
 
 ![Josh Elkin's Mushroom Toast](../../assets/images/josh-elkin's-mushroom-toast.webp){ loading=lazy }
 

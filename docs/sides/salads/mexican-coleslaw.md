@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/mexican-coleslaw.png
 ---
 
-# Mexican Coleslaw
+# :leafy_green: Mexican Coleslaw
 
 ![Mexican Coleslaw](../../assets/images/mexican-coleslaw.png){ loading=lazy }
 

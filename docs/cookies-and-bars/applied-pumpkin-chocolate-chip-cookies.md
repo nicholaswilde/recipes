@@ -8,7 +8,7 @@ tags:
 hero: assets/images/applied-pumpkin-chocolate-chip-cookies.webp
 ---
 
-# Applied Pumpkin Chocolate Chip Cookies
+# :chocolate_bar: Applied Pumpkin Chocolate Chip Cookies
 
 ![Applied Pumpkin Chocolate Chip Cookies][1]{ loading=lazy }
 

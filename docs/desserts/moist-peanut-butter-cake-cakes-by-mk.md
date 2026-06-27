@@ -6,7 +6,7 @@ tags:
 hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.webp
 ---
 
-# Moist Peanut Butter Cake
+# :peanut: Moist Peanut Butter Cake
 
 ![Moist Peanut Butter Cake][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/peppermint-patties.webp
 ---
 
-# Peppermint Patties
+# :candy: Peppermint Patties
 
 ![Peppermint Patties][1]{ loading=lazy }
 

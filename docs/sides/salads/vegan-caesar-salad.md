@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-caesar-salad.png
 ---
 
-# Vegan Caesar Salad
+# :green_salad: Vegan Caesar Salad
 
 ![Vegan Caesar Salad][1]{ loading=lazy }
 

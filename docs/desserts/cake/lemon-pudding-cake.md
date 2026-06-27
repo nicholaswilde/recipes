@@ -8,7 +8,7 @@ tags:
 hero: assets/images/lemon-pudding-cake.webp
 ---
 
-# Lemon Pudding Cake
+# :lemon: Lemon Pudding Cake
 
 ![Lemon Pudding Cake][1]{ loading=lazy }
 

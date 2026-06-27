@@ -5,7 +5,7 @@ tags:
 hero: assets/images/gingerbread-caramel-corn.webp
 ---
 
-# Gingerbread Caramel Corn
+# :corn: Gingerbread Caramel Corn
 
 ![Gingerbread Caramel Corn][1]{ loading=lazy }
 

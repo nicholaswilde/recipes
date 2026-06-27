@@ -8,7 +8,7 @@ tags:
 hero: assets/images/thai-red-curry-tofu-marinade.webp
 ---
 
-# Thai Red Curry Tofu Marinade
+# :curry: Thai Red Curry Tofu Marinade
 
 ![Thai Red Curry Tofu Marinade](../../assets/images/thai-red-curry-tofu-marinade.webp){ loading=lazy }
 

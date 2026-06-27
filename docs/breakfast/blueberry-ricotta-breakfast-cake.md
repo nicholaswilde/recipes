@@ -6,7 +6,7 @@ tags:
 hero: assets/images/blueberry-ricotta-breakfast-cake.png
 ---
 
-# Blueberry [ricotta](../ingredients/ricotta.md) Breakfast Cake
+# :blue_circle: Blueberry [ricotta](../ingredients/ricotta.md) Breakfast Cake
 
 ![Blueberry ricotta Breakfast Cake][2]{ loading=lazy }
 

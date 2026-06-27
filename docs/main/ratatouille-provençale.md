@@ -5,7 +5,7 @@ tags:
 hero: assets/images/ratatouille-provençale.webp
 ---
 
-# Ratatouille Provençale
+# :olive: Ratatouille Provençale
 
 ![Ratatouille Provençale][1]{ loading=lazy }
 

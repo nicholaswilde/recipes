@@ -5,7 +5,7 @@ tags:
 hero: assets/images/double-chocolate-peppermint-pie.webp
 ---
 
-# Double Chocolate Peppermint Pie
+# :chocolate_bar: Double Chocolate Peppermint Pie
 
 ![Double Chocolate Peppermint Pie][1]{ loading=lazy }
 

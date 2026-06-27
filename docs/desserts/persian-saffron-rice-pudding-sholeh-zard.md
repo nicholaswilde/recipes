@@ -4,7 +4,7 @@ tags:
   - dessert
 ---
 
-# Persian Saffron Rice Pudding Sholeh Zard
+# :rice: Persian Saffron Rice Pudding Sholeh Zard
 
 ![Persian Saffron Rice Pudding Sholeh Zard][1]{ loading=lazy }
 

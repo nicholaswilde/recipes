@@ -6,7 +6,7 @@ tags:
 hero: assets/images/green-beans-with-lime-and-red-onions.webp
 ---
 
-# Green Beans With Lime and Red Onions
+# :beans: Green Beans With Lime and Red Onions
 
 ![Green Beans With Lime and Red Onions](../../assets/images/green-beans-with-lime-and-red-onions.webp){ loading=lazy }
 

@@ -6,7 +6,7 @@ tags:
 hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.webp
 ---
 
-# Lentil and Mushroom Stuffed Peppers and Butternut Squash
+# :hot_pepper: Lentil and Mushroom Stuffed Peppers and Butternut Squash
 
 ![Lentil and Mushroom Stuffed Peppers and Butternut Squash][1]{ loading=lazy }
 

@@ -11,7 +11,7 @@ tags:
 hero: assets/images/carrot-ginger-soup.webp
 ---
 
-# Carrot Ginger Soup
+# :stew: Carrot Ginger Soup
 
 ![Carrot Ginger Soup][1]{ loading=lazy }
 

@@ -11,7 +11,7 @@ tags:
 hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 ---
 
-# Coconut-Braised Mushrooms With Ginger and Scallions
+# :sweet_potato: Coconut-Braised Mushrooms With Ginger and Scallions
 
 ![Coconut-Braised Mushrooms With Ginger and Scallions][1]{ loading=lazy }
 

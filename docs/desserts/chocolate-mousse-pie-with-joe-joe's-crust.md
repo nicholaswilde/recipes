@@ -5,7 +5,7 @@ tags:
 hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.webp
 ---
 
-# Chocolate Mousse Pie with Joe-Joe's Crust
+# :chocolate_bar: Chocolate Mousse Pie with Joe-Joe's Crust
 
 ![Chocolate Mousse Pie with Joe-Joe's Crust][1]{ loading=lazy }
 

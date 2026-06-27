@@ -5,7 +5,7 @@ tags:
 hero: assets/images/beatty's-chocolate-cake.webp
 ---
 
-# Beatty's Chocolate Cake
+# :chocolate_bar: Beatty's Chocolate Cake
 
 ![Beatty's Chocolate Cake][1]{ loading=lazy }
 

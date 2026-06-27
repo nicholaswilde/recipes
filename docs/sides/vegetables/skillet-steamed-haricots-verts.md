@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/skillet-steamed-haricots-verts.webp
 ---
 
-# Skillet-Steamed Haricots Verts
+# :shallow_pan_of_food: Skillet-Steamed Haricots Verts
 
 ![Skillet-Steamed Haricots Verts](../../assets/images/skillet-steamed-haricots-verts.webp){ loading=lazy }
 

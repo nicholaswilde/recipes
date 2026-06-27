@@ -7,7 +7,7 @@ tags:
 hero: assets/images/ranch-dressing-mix.webp
 ---
 
-# Ranch Dressing Mix
+# :butter: Ranch Dressing Mix
 
 ![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.webp){ loading=lazy }
 

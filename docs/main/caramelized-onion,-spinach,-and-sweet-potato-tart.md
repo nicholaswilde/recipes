@@ -5,7 +5,7 @@ tags:
 hero: assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.webp
 ---
 
-# Caramelized Onion, Spinach, and Sweet Potato Tart
+# :onion: Caramelized Onion, Spinach, and Sweet Potato Tart
 
 ![Caramelized Onion, Spinach, and Sweet Potato Tart][1]{ loading=lazy }
 

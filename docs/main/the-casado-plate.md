@@ -5,7 +5,7 @@ tags:
 hero: assets/images/the-casado-plate.webp
 ---
 
-# The Casado Plate
+# :ear_of_rice: The Casado Plate
 
 ![The Casado Plate][1]{ loading=lazy }
 

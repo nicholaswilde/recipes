@@ -5,7 +5,7 @@ tags:
 hero: assets/images/indian-spiced-lentil-burgers.webp
 ---
 
-# Indian Spiced Lentil Burgers
+# :beans: Indian Spiced Lentil Burgers
 
 ![Indian Spiced Lentil Burgers][1]{ loading=lazy }
 

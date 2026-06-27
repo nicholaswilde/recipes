@@ -5,7 +5,7 @@ tags:
 hero: assets/images/spicy-cashew-quinoa-salad.png
 ---
 
-# Spicy Cashew Quinoa Salad
+# :chestnut: Spicy Cashew Quinoa Salad
 
 ![Spicy Cashew Quinoa Salad][1]{ loading=lazy }
 

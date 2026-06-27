@@ -5,7 +5,7 @@ tags:
 hero: assets/images/crustless-broccoli-quiche.webp
 ---
 
-# Crustless Broccoli Quiche
+# :broccoli: Crustless Broccoli Quiche
 
 ![Crustless Broccoli Quiche][1]{ loading=lazy }
 

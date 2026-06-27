@@ -7,7 +7,7 @@ tags:
 hero: assets/images/cardamom-shortbread-cookies.jpg
 ---
 
-# Cardamom Shortbread Cookies
+# :cookie: Cardamom Shortbread Cookies
 
 ![Cardamom Shortbread Cookies][1]{ loading=lazy }
 

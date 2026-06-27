@@ -4,7 +4,7 @@ tags:
   - breakfast
 ---
 
-# Croissants
+# :baby_bottle: Croissants
 
 ![Croissants][1]{ loading=lazy }
 

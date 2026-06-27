@@ -6,7 +6,7 @@ tags:
 hero: assets/images/sauteed-green-beans.webp
 ---
 
-# Sauteed Green Beans
+# :beans: Sauteed Green Beans
 
 ![Sauteed Green Beans](../../assets/images/sauteed-green-beans.webp){ loading=lazy }
 

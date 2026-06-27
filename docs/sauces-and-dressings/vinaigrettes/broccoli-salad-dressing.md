@@ -7,7 +7,7 @@ tags:
 hero: assets/images/broccoli-salad-dressing.webp
 ---
 
-# Broccoli Salad Dressing
+# :green_salad: Broccoli Salad Dressing
 
 ![Broccoli Salad Dressing][1]{ loading=lazy }
 

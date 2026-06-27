@@ -10,7 +10,7 @@ tags:
 hero: assets/images/gochujang-buttered-noodles.webp
 ---
 
-# Gochujang Buttered Noodles
+# :spaghetti: Gochujang Buttered Noodles
 
 ![Gochujang Buttered Noodles][1]{ loading=lazy }
 

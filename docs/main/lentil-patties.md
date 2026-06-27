@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lentil-patties.webp
 ---
 
-# Lentil Patties
+# :beans: Lentil Patties
 
 ![Lentil Patties][1]{ loading=lazy }
 

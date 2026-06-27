@@ -5,7 +5,7 @@ tags:
 hero: assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.webp
 ---
 
-# Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
+# :rice: Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs
 
 ![Sprouted Kitchen Lentil & Rice Bowls with Vegetable Kebabs][1]{ loading=lazy }
 

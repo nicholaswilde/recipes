@@ -5,7 +5,7 @@ tags:
 hero: assets/images/texas-potato-pancakes.webp
 ---
 
-# Texas Potato Pancakes
+# :potato: Texas Potato Pancakes
 
 ![Texas Potato Pancakes][1]{ loading=lazy }
 

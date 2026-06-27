@@ -5,7 +5,7 @@ tags:
 hero: assets/images/slow-cooker-red-beans-and-rice.webp
 ---
 
-# Slow Cooker Red Beans and Rice
+# :beans: Slow Cooker Red Beans and Rice
 
 ![Slow Cooker Red Beans and Rice][1]{ loading=lazy }
 

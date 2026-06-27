@@ -5,7 +5,7 @@ tags:
   - cake
 ---
 
-# Flourless Chocolate Cake (King Arthur Baking)
+# :chocolate_bar: Flourless Chocolate Cake (King Arthur Baking)
 
 ![Flourless Chocolate Cake (King Arthur Baking)][1]{ loading=lazy }
 

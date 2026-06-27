@@ -12,7 +12,7 @@ tags:
 hero: assets/images/pizzeria-vinaigrette.webp
 ---
 
-# Pizzeria Vinaigrette
+# :olive: Pizzeria Vinaigrette
 
 ![Pizzeria Vinaigrette][1]{ loading=lazy }
 

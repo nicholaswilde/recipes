@@ -7,7 +7,7 @@ tags:
 hero: assets/images/healthy-peanut-butter-bars.webp
 ---
 
-# Healthy Peanut Butter Bars
+# :peanut: Healthy Peanut Butter Bars
 
 ![Healthy Peanut Butter Bars][1]{ loading=lazy }
 

@@ -9,7 +9,7 @@ tags:
 hero: assets/images/epis-de-ble.webp
 ---
 
-# Epis de Ble
+# :droplet: Epis de Ble
 
 ![Epis de Ble][1]{ loading=lazy }
 

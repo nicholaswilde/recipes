@@ -5,7 +5,7 @@ tags:
 hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
 ---
 
-# Lemony Broccoli Salad with Chickpeas & Feta
+# :green_salad: Lemony Broccoli Salad with Chickpeas & Feta
 
 ![Lemony Broccoli Salad with Chickpeas & Feta][1]{ loading=lazy }
 

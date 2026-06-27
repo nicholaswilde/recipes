@@ -9,7 +9,7 @@ tags:
 hero: assets/images/mock-soy-sauce.webp
 ---
 
-# Mock Soy Sauce
+# :stew: Mock Soy Sauce
 
 ![Mock Soy Sauce][1]{ loading=lazy }
 

@@ -5,7 +5,7 @@ tags:
 hero: assets/images/zesty-roasted-vegetables.webp
 ---
 
-# Zesty Roasted Vegetables
+# :carrot: Zesty Roasted Vegetables
 
 ![Zesty Roasted Vegetables][1]{ loading=lazy }
 

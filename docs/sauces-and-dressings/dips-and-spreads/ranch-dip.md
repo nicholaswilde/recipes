@@ -6,7 +6,7 @@ tags:
 hero: assets/images/ranch-dip.webp
 ---
 
-# Ranch Dip
+# :baby_bottle: Ranch Dip
 
 ![Ranch Dip](../../assets/images/ranch-dip.webp){ loading=lazy }
 

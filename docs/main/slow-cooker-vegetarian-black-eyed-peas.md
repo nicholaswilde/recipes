@@ -5,7 +5,7 @@ tags:
 hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.webp
 ---
 
-# Slow Cooker Vegetarian Black-Eyed Peas
+# :beans: Slow Cooker Vegetarian Black-Eyed Peas
 
 ![Slow Cooker Vegetarian Black-Eyed Peas][1]{ loading=lazy }
 

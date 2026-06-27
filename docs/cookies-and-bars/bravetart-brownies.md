@@ -7,7 +7,7 @@ tags:
 hero: assets/images/bravetart-brownies.webp
 ---
 
-# BraveTart Brownies
+# :butter: BraveTart Brownies
 
 ![BraveTart Brownies][1]{ loading=lazy }
 

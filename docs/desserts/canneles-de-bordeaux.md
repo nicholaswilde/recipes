@@ -5,7 +5,7 @@ tags:
 hero: assets/images/canneles-de-bordeaux.webp
 ---
 
-# Canneles de Bordeaux
+# :flower_playing_cards: Canneles de Bordeaux
 
 ![Canneles de Bordeaux][1]{ loading=lazy }
 

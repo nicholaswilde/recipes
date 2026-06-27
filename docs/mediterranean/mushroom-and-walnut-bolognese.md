@@ -7,7 +7,7 @@ tags:
 hero: assets/images/mushroom-and-walnut-bolognese.jpg
 ---
 
-# Mushroom and Walnut Bolognese
+# :chestnut: Mushroom and Walnut Bolognese
 
 ![Mushroom and Walnut Bolognese][1]{ loading=lazy }
 

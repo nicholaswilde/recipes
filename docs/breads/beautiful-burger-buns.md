@@ -8,7 +8,7 @@ tags:
 hero: assets/images/beautiful-burger-buns.webp
 ---
 
-# Beautiful Burger Buns
+# :bread: Beautiful Burger Buns
 
 ![Beautiful Burger Buns][1]{ loading=lazy }
 

@@ -9,7 +9,7 @@ tags:
 hero: assets/images/mini-cranberry-tarts.webp
 ---
 
-# Mini Cranberry Tarts
+# :bread: Mini Cranberry Tarts
 
 ![Mini Cranberry Tarts][1]{ loading=lazy }
 

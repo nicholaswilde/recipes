@@ -5,7 +5,7 @@ tags:
 hero: assets/images/spinach-and-feta-filo-pie.webp
 ---
 
-# Spinach and Feta Filo Pie
+# :pie: Spinach and Feta Filo Pie
 
 ![Spinach and Feta Filo Pie][1]{ loading=lazy }
 

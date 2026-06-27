@@ -9,7 +9,7 @@ tags:
 hero: assets/images/flaky-buttery-crescent-rolls.webp
 ---
 
-# Flaky Buttery Crescent Rolls
+# :bread: Flaky Buttery Crescent Rolls
 
 ![Flaky Buttery Crescent Rolls][1]{ loading=lazy }
 

@@ -6,7 +6,7 @@ tags:
 hero: assets/images/pretzel-buns.jpg
 ---
 
-# Pretzel Buns
+# :bread: Pretzel Buns
 
 ![Pretzel Buns][1]{ loading=lazy }
 

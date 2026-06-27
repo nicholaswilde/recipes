@@ -8,7 +8,7 @@ tags:
 hero: assets/images/easy-stuffed-mushrooms.webp
 ---
 
-# Easy Stuffed Mushrooms
+# :mushroom: Easy Stuffed Mushrooms
 
 ![Easy Stuffed Mushrooms](../assets/images/easy-stuffed-mushrooms.webp){ loading=lazy }
 

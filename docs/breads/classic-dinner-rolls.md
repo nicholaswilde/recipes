@@ -5,7 +5,7 @@ tags:
 hero: assets/images/classic-dinner-rolls.webp
 ---
 
-# Classic Dinner Rolls
+# :bread: Classic Dinner Rolls
 
 ![Classic Dinner Rolls][1]{ loading=lazy }
 

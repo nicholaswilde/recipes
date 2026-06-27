@@ -773,3 +773,163 @@ emoji:
         - dry white wine
         - sake
         - mirin
+    - clinking_glasses:
+        - champagne punch
+    - ice_cube:
+        - ginger cubes
+    - hibiscus:
+        - iced hibiscus tea
+    - lemon:
+        - olde tyme lemonade
+    - pizza:
+        - artisan no-knead pizza crust
+    - bagel:
+        - bagels
+    - baguette_bread:
+        - baguettes
+    - banana:
+        - best-ever banana bread
+    - croissant:
+        - croissants
+    - flatbread:
+        - flour tortillas
+    - monkey_face:
+        - gilligan monkey bread
+    - four_leaf_clover:
+        - irish soda bread
+    - potato:
+        - potato bread
+    - jack_o_lantern:
+        - pumpkin coffee cake
+    - hotsprings:
+        - rosca de reyes
+    - pretzel:
+        - sourdough pretzels
+    - star:
+        - star bread
+    - corn:
+        - sweet cornbread
+    - cupcake:
+        - 1-bowl carrot apple muffins
+    - doughnut:
+        - apple cider doughnuts
+    - green_apple:
+        - apple pie overnight oats
+    - waffle:
+        - belgian waffles
+    - blue_circle:
+        - blueberry [ricotta](../ingredients/ricotta.md) breakfast cake
+    - pancakes:
+        - blueberry smoothie pancakes
+    - custard:
+        - breakfast tofu scramble
+    - taco:
+        - chipotle breakfast tacos
+    - shell:
+        - conchas (mexican pan dulce)
+    - stuffed_flatbread:
+        - jose guevara's gallo pinto
+    - ear:
+        - orejas (mexican pan dulce)
+    - peanuts:
+        - peanut butter overnight oats
+    - muffin:
+        - pumpkin cream cheese muffins
+    - bacon:
+        - vegan bacon
+    - falafel:
+        - veggie chickpea hash
+    - peanut:
+        - best ever peanut butter bars
+    - cherries:
+        - cherry bars
+    - magic_wand:
+        - magic cookie bars
+    - peach:
+        - peach bars
+    - cake:
+        - brandy snaps
+    - pie:
+        - brioche tart
+    - yellow_circle:
+        - buckeyes
+    - icecream:
+        - [buttermilk](../ingredients/buttermilk.md) panna cotta
+    - red_apple:
+        - apple cake
+    - birthday:
+        - cream cheese pound cake
+    - chopsticks:
+        - rhubarb cake
+    - rice:
+        - old-fashioned rice pudding
+    - pear:
+        - pear tarte tatin
+    - purple_circle:
+        - plum torte
+    - dango:
+        - s'mores tart
+    - canned_food:
+        - black beans
+    - maple_leaf:
+        - brown sugar
+    - onion:
+        - caramelized onions
+    - shamrock:
+        - mint extract
+    - bell_pepper:
+        - fajita veggies
+    - spaghetti:
+        - pasta
+    - dumpling:
+        - empanada pastry
+    - crown:
+        - royal icing
+    - popcorn:
+        - doritos popcorn
+    - microbe:
+        - sourdough starter
+    - sandwich:
+        - applied grilled cheese
+    - hotdog:
+        - carrot dogs
+    - green_salad:
+        - sonoran salad
+    - salad_bowl:
+        - superfood power bowl
+    - rainbow:
+        - veggie rainbow wrap
+    - hamburger:
+        - black bean burgers
+    - burrito:
+        - black bean burrito bake
+    - ramen:
+        - cool & spicy noodle salad
+    - eggplant:
+        - eggplant parmigiana
+    - firecracker:
+        - firecracker chickpea meatballs
+    - fish:
+        - fish-ish tacos with spicy dill slaw
+    - meat_on_bone:
+        - ginger sesame vegan meatballs
+    - avodado:
+        - guacamole
+    - water_buffalo:
+        - buffalo sauce
+    - racehorse:
+        - ranchero sauce
+    - cow:
+        - espagnole
+    - champagne:
+        - ina garten's perfect vinaigrette
+    - sake:
+        - red wine vinaigrette
+    - ribbon:
+        - bow tie pasta chips
+    - crab:
+        - madre crab cakes
+    - orange_circle:
+        - unexpected cheddar cheese ball
+    - green_circle:
+        - pea purée

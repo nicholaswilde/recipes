@@ -5,7 +5,7 @@ tags:
 hero: assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp
 ---
 
-# Slow Cooker Indian-Spiced Chickpeas and Red Potatoes
+# :potato: Slow Cooker Indian-Spiced Chickpeas and Red Potatoes
 
 ![Slow Cooker Indian-Spiced Chickpeas and Red Potatoes][1]{ loading=lazy }
 

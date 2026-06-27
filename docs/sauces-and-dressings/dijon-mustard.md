@@ -9,7 +9,7 @@ tags:
 hero: assets/images/dijon-mustard.webp
 ---
 
-# Dijon Mustard
+# :takeout_box: Dijon Mustard
 
 ![Dijon Mustard][1]{ loading=lazy }
 

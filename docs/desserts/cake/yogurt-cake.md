@@ -7,7 +7,7 @@ tags:
 hero: assets/images/yogurt-cake-version-1.webp
 ---
 
-# Yogurt Cake (Gâteau au Yaourt)
+# :cake: Yogurt Cake (Gâteau au Yaourt)
 
 This classic French cake, traditionally measured using an empty yogurt jar (pot), is shown here in two versions from *Gâteau: The Surprising Simplicity of French Cakes*.
 

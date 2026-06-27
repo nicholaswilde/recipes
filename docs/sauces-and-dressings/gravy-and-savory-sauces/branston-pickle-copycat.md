@@ -4,7 +4,7 @@ tags:
   - sauce
 ---
 
-# Branston Pickle Copycat
+# :cucumber: Branston Pickle Copycat
 
 ![Branston Pickle Copycat](../../assets/images/branston-pickle-copycat.webp){ loading=lazy }
 

@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/hasselback-roasted-zucchini.webp
 ---
 
-# Hasselback Roasted Zucchini
+# :cucumber: Hasselback Roasted Zucchini
 
 ![Hasselback Roasted Zucchini](../../assets/images/hasselback-roasted-zucchini.webp){ loading=lazy }
 

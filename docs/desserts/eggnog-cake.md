@@ -5,7 +5,7 @@ tags:
 hero: assets/images/eggnog-cake.webp
 ---
 
-# Eggnog Cake
+# :cake: Eggnog Cake
 
 ![Eggnog Cake][1]{ loading=lazy }
 

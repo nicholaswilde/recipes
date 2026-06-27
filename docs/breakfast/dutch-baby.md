@@ -5,7 +5,7 @@ tags:
 hero: assets/images/dutch-baby.webp
 ---
 
-# Dutch Baby
+# :egg: Dutch Baby
 
 ![Dutch Baby][1]{ loading=lazy }
 

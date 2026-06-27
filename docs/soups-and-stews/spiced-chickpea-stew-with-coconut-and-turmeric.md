@@ -9,7 +9,7 @@ tags:
 hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.webp
 ---
 
-# Spiced Chickpea Stew With Coconut and Turmeric
+# :stew: Spiced Chickpea Stew With Coconut and Turmeric
 
 ![Spiced Chickpea Stew With Coconut and Turmeric][1]{ loading=lazy }
 

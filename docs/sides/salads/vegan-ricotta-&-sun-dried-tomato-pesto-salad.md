@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 ---
 
-# Vegan [ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
+# :tomato: Vegan [ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
 
 ![Vegan ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
 

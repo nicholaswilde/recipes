@@ -5,7 +5,7 @@ tags:
 hero: assets/images/jackfruit-curry.webp
 ---
 
-# Jackfruit Curry
+# :curry: Jackfruit Curry
 
 ![Jackfruit Curry][1]{ loading=lazy }
 

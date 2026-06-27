@@ -1,4 +1,4 @@
-# Mexican Rice
+# :rice: Mexican Rice
 
 ![Mexican Rice](../../assets/images/mexican-rice.webp){ loading=lazy }
 

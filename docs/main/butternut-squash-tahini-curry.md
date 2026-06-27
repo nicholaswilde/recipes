@@ -9,7 +9,7 @@ tags:
 hero: assets/images/butternut-squash-tahini-curry.webp
 ---
 
-# Butternut Squash Tahini Curry
+# :curry: Butternut Squash Tahini Curry
 
 ![Butternut Squash Tahini Curry][1]{ loading=lazy }
 

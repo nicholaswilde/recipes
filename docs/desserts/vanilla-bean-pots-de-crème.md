@@ -5,7 +5,7 @@ tags:
 hero: assets/images/vanilla-bean-pots-de-crème.jpg
 ---
 
-# Vanilla Bean Pots de Crème
+# :beans: Vanilla Bean Pots de Crème
 
 ![Vanilla Bean Pots de Crème][1]{ loading=lazy }
 
