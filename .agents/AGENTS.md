@@ -37,3 +37,4 @@
 - I have added the recipe servings and batch tab conversion skill to `.agents/skills/recipe-servings-tabs.md`.
 - I have added a skill to monitor and fix GitHub Actions workflow runs in `.agents/skills/review-actions.md`.
 - I have added the recipe image validation skill to `.agents/skills/recipe-image-validation.md`.
+- When searching for recipes to import, they must be lacto-ovo vegetarian and have a highly rated Bayesian score.

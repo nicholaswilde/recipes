@@ -379,7 +379,7 @@ A task is complete when:
 ## Recipe Import Process
 
 1. **Find/Scrape the Recipe:**
-    - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed.
+    - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed. When searching, ensure recipes are lacto-ovo vegetarian and have a highly rated Bayesian score.
     - Use `manage_recipes(action='format', format_type='cooklang', urls=[...])` to generate the initial `.cook` file content from a URL.
     - **Image/PDF Sources:** If the recipe is provided via an image or PDF (e.g., provided in a GitHub issue via an image link), download the image to a temporary file and use `tesseract <image_path> -` to extract the text. Use the extracted text to create the recipe.
     - **Pancake Princess:** If there is a "Pancake Princess" link in the source issue, include that link as an additional reference in the `## :link: Source` section of the generated Markdown recipe page.
