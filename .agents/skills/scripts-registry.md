@@ -260,3 +260,23 @@ To verify which recipes have comments and append `comments: true` to their front
   ```bash
   uv run scripts/sync_giscus_comments.py
   ```
+
+#### Rank Recipes (Bayesian)
+
+To calculate the Bayesian average for a set of recipe search results (rating/votes) to rank them:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/rank_recipes_bayesian.py --input recipes_to_rank.json --min-votes 10 --prior-rating 3.5
+  ```
+
+#### Rank Recipe URLs (Bayesian URL Scraper)
+
+To fetch a list of recipe URLs, extract their structured rating metadata, and rank them objectively:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/rank_recipe_urls.py <URL1> <URL2> ... [--min-votes 10] [--prior-rating 3.5]
+  ```
