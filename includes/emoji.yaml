@@ -177,7 +177,13 @@ emoji:
     - avocado:
         - avocado
         - sliced avocado
+    - avodado:
+        - guacamole
     - baby_bottle:
+        - egg, at room temperature
+        - almond emulsion or almond extract
+        - (96g) King Arthur Almond Flour
+        - (23g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour
         - .25 teaspoons kosher salt
         - ice-cold water
         - coarse demerara sugar
@@ -214,6 +220,14 @@ emoji:
         - crème fraîche
         - aquafaba
         - buttermilk
+    - bacon:
+        - vegan bacon
+    - bagel:
+        - bagels
+    - baguette_bread:
+        - baguettes
+    - banana:
+        - best-ever banana bread
     - beans:
         - fine
         - white
@@ -233,6 +247,12 @@ emoji:
         - frozen peas
     - bee:
         - beeswax
+    - bell_pepper:
+        - fajita veggies
+    - birthday:
+        - cream cheese pound cake
+    - blue_circle:
+        - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
     - bread:
         - all-purpose flour ((90g))
         - semisweet chocolate chips ((90g))
@@ -276,6 +296,8 @@ emoji:
         - broccoli florets
         - frozen broccoli
         - broccolini
+    - burrito:
+        - black bean burrito bake
     - butter:
         - butter
         - unsalted butter
@@ -284,7 +306,10 @@ emoji:
         - salted butter
         - knob
         - knob of butter
+    - cake:
+        - brandy snaps
     - candy:
+        - /2 cup (99g) granulated sugar
         - granulated sugar ((200g))
         - packed light brown sugar ((110g))
         - granulated sugar ((100g))
@@ -320,6 +345,8 @@ emoji:
         - light corn syrup
         - corn syrup
         - sugar
+    - canned_food:
+        - black beans
     - carrot:
         - vegetable oil, (for frying)
         - salt for veggies
@@ -328,6 +355,8 @@ emoji:
         - frozen vegetables
         - carrots
         - grated carrots
+    - champagne:
+        - ina garten's perfect vinaigrette
     - cheese_wedge:
         - (8 ounces, 226g) cream cheese
         - shredded lettuce, sour cream, chopped tomatoes, sliced avocados, shredded cheese
@@ -348,6 +377,8 @@ emoji:
         - feta
         - Parmesan
         - cotija cheese (for garnish)
+    - cherries:
+        - cherry bars
     - chestnut:
         - shahi jeera ((or cumin seeds))
         - chopped pecans
@@ -410,6 +441,10 @@ emoji:
         - Dutch-process cocoa powder
         - unsweetened cocoa powder
         - cocoa powder
+    - chopsticks:
+        - rhubarb cake
+    - clinking_glasses:
+        - champagne punch
     - coconut:
         - full-fat coconut milk
         - coconut milk
@@ -420,12 +455,24 @@ emoji:
         - espresso beans
         - instant coffee
         - espresso powder
+    - corn:
+        - sweet cornbread
+    - cow:
+        - espagnole
+    - crab:
+        - madre crab cakes
+    - croissant:
+        - croissants
+    - crown:
+        - royal icing
     - cucumber:
         - pickling cucumbers
         - cucumber
         - cucumbers
         - Persian cucumbers
         - dill pickles
+    - cupcake:
+        - 1-bowl carrot apple muffins
     - curry:
         - turmeric
         - ground turmeric
@@ -434,6 +481,12 @@ emoji:
         - Thai red curry paste
         - curry powder
         - dashi powder
+    - custard:
+        - breakfast tofu scramble
+    - dango:
+        - s'mores tart
+    - doughnut:
+        - apple cider doughnuts
     - droplet:
         - water
         - hot water
@@ -442,6 +495,10 @@ emoji:
         - warm water
         - reserved pasta water
         - mushroom soaking water
+    - dumpling:
+        - empanada pastry
+    - ear:
+        - orejas (mexican pan dulce)
     - ear_of_rice:
         - old fashioned rolled oats
         - wheat germ
@@ -461,12 +518,24 @@ emoji:
         - egg yolk
         - eggs
         - large eggs
+    - eggplant:
+        - eggplant parmigiana
+    - falafel:
+        - veggie chickpea hash
+    - firecracker:
+        - firecracker chickpea meatballs
+    - fish:
+        - fish-ish tacos with spicy dill slaw
+    - flatbread:
+        - flour tortillas
     - flower_playing_cards:
         - vanilla extract
         - pure vanilla extract
         - vanilla
         - almond extract
         - pure almond extract
+    - four_leaf_clover:
+        - irish soda bread
     - garlic:
         - garlic clove, finely chopped
         - garlic (skins removed, cloves smashed (use fewer cloves if its a strong garlic))
@@ -479,6 +548,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - (85g) unsalted butter, at room temperature
         - cream of tartar
         - butter (room temperature (80g))
         - unsalted butter ((56g))
@@ -510,6 +580,14 @@ emoji:
         - red grapes
         - green grapes
         - date paste
+    - green_apple:
+        - apple pie overnight oats
+    - green_circle:
+        - pea purée
+    - green_salad:
+        - sonoran salad
+    - hamburger:
+        - black bean burgers
     - herb:
         - bay leaf ((tej patta))
         - chili-lime seasoning
@@ -535,6 +613,8 @@ emoji:
         - dried sage
         - dried avocado leaf or bay leaf
         - fresh marjoram
+    - hibiscus:
+        - iced hibiscus tea
     - honey_pot:
         - honey
         - maple syrup
@@ -584,9 +664,19 @@ emoji:
         - dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
         - dried pasilla chiles, seeds and veins removed and reserved
         - dried guajillo chiles, seeds and veins removed and reserved
+    - hotdog:
+        - carrot dogs
+    - hotsprings:
+        - rosca de reyes
     - ice_cream:
         - vanilla ice cream
         - fudge ripple ice cream
+    - ice_cube:
+        - ginger cubes
+    - icecream:
+        - "[buttermilk](../ingredients/buttermilk.md) panna cotta"
+    - jack_o_lantern:
+        - pumpkin coffee cake
     - leafy_green:
         - cherry
         - Swiss chard, kale, or collard greens
@@ -600,10 +690,24 @@ emoji:
         - artichoke hearts
         - kombu
         - brussels sprouts
+    - lemon:
+        - olde tyme lemonade
+    - magic_wand:
+        - magic cookie bars
+    - maple_leaf:
+        - brown sugar
+    - meat_on_bone:
+        - ginger sesame vegan meatballs
     - melon:
         - jackfruit
         - pumpkin puree
         - canned pumpkin puree
+    - microbe:
+        - sourdough starter
+    - monkey_face:
+        - gilligan monkey bread
+    - muffin:
+        - pumpkin cream cheese muffins
     - mushroom:
         - button mushrooms
         - shiitake mushrooms
@@ -626,8 +730,50 @@ emoji:
         - nonstick cooking spray
         - nonstick baking spray
         - coconut oil spray
+    - onion:
+        - caramelized onions
+    - orange_circle:
+        - unexpected cheddar cheese ball
+    - pancakes:
+        - blueberry smoothie pancakes
+    - peach:
+        - peach bars
+    - peanut:
+        - best ever peanut butter bars
+    - peanuts:
+        - peanut butter overnight oats
+    - pear:
+        - pear tarte tatin
+    - pie:
+        - brioche tart
     - pineapple:
         - crushed pineapple
+    - pizza:
+        - artisan no-knead pizza crust
+    - popcorn:
+        - doritos popcorn
+    - potato:
+        - potato bread
+    - pretzel:
+        - sourdough pretzels
+    - purple_circle:
+        - plum torte
+    - racehorse:
+        - ranchero sauce
+    - rainbow:
+        - veggie rainbow wrap
+    - ramen:
+        - cool & spicy noodle salad
+    - red_apple:
+        - apple cake
+    - ribbon:
+        - bow tie pasta chips
+    - rice:
+        - old-fashioned rice pudding
+    - sake:
+        - red wine vinaigrette
+    - salad_bowl:
+        - superfood power bowl
     - salt:
         - Sea salt and freshly ground black pepper
         - fine sea salt
@@ -649,6 +795,8 @@ emoji:
         - flaky sea salt
         - some salt
         - some pepper
+    - sandwich:
+        - applied grilled cheese
     - seedling:
         - yellow onion
         - pumpkin seeds
@@ -666,6 +814,14 @@ emoji:
         - cardamom pods
         - freshly ground cardamom
         - tahini
+    - shamrock:
+        - mint extract
+    - shell:
+        - conchas (mexican pan dulce)
+    - spaghetti:
+        - pasta
+    - star:
+        - star bread
     - stew:
         - vegetable or chicken broth
         - chicken breast
@@ -680,6 +836,8 @@ emoji:
         - strawberries
         - strawberry
         - fresh strawberries
+    - stuffed_flatbread:
+        - jose guevara's gallo pinto
     - sweet_potato:
         - ginger
         - potatoes
@@ -690,6 +848,8 @@ emoji:
         - medium potato
         - potato
         - potato gnocchi
+    - taco:
+        - chipotle breakfast tacos
     - takeout_box:
         - white vinegar
         - pickling
@@ -771,6 +931,10 @@ emoji:
         - rum
         - Guinness Draught Stout
         - reduced Guinness
+    - waffle:
+        - belgian waffles
+    - water_buffalo:
+        - buffalo sauce
     - wine_glass:
         - wine
         - red wine vinegar
@@ -779,163 +943,5 @@ emoji:
         - dry white wine
         - sake
         - mirin
-    - clinking_glasses:
-        - champagne punch
-    - ice_cube:
-        - ginger cubes
-    - hibiscus:
-        - iced hibiscus tea
-    - lemon:
-        - olde tyme lemonade
-    - pizza:
-        - artisan no-knead pizza crust
-    - bagel:
-        - bagels
-    - baguette_bread:
-        - baguettes
-    - banana:
-        - best-ever banana bread
-    - croissant:
-        - croissants
-    - flatbread:
-        - flour tortillas
-    - monkey_face:
-        - gilligan monkey bread
-    - four_leaf_clover:
-        - irish soda bread
-    - potato:
-        - potato bread
-    - jack_o_lantern:
-        - pumpkin coffee cake
-    - hotsprings:
-        - rosca de reyes
-    - pretzel:
-        - sourdough pretzels
-    - star:
-        - star bread
-    - corn:
-        - sweet cornbread
-    - cupcake:
-        - 1-bowl carrot apple muffins
-    - doughnut:
-        - apple cider doughnuts
-    - green_apple:
-        - apple pie overnight oats
-    - waffle:
-        - belgian waffles
-    - blue_circle:
-        - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
-    - pancakes:
-        - blueberry smoothie pancakes
-    - custard:
-        - breakfast tofu scramble
-    - taco:
-        - chipotle breakfast tacos
-    - shell:
-        - conchas (mexican pan dulce)
-    - stuffed_flatbread:
-        - jose guevara's gallo pinto
-    - ear:
-        - orejas (mexican pan dulce)
-    - peanuts:
-        - peanut butter overnight oats
-    - muffin:
-        - pumpkin cream cheese muffins
-    - bacon:
-        - vegan bacon
-    - falafel:
-        - veggie chickpea hash
-    - peanut:
-        - best ever peanut butter bars
-    - cherries:
-        - cherry bars
-    - magic_wand:
-        - magic cookie bars
-    - peach:
-        - peach bars
-    - cake:
-        - brandy snaps
-    - pie:
-        - brioche tart
     - yellow_circle:
         - buckeyes
-    - icecream:
-        - "[buttermilk](../ingredients/buttermilk.md) panna cotta"
-    - red_apple:
-        - apple cake
-    - birthday:
-        - cream cheese pound cake
-    - chopsticks:
-        - rhubarb cake
-    - rice:
-        - old-fashioned rice pudding
-    - pear:
-        - pear tarte tatin
-    - purple_circle:
-        - plum torte
-    - dango:
-        - s'mores tart
-    - canned_food:
-        - black beans
-    - maple_leaf:
-        - brown sugar
-    - onion:
-        - caramelized onions
-    - shamrock:
-        - mint extract
-    - bell_pepper:
-        - fajita veggies
-    - spaghetti:
-        - pasta
-    - dumpling:
-        - empanada pastry
-    - crown:
-        - royal icing
-    - popcorn:
-        - doritos popcorn
-    - microbe:
-        - sourdough starter
-    - sandwich:
-        - applied grilled cheese
-    - hotdog:
-        - carrot dogs
-    - green_salad:
-        - sonoran salad
-    - salad_bowl:
-        - superfood power bowl
-    - rainbow:
-        - veggie rainbow wrap
-    - hamburger:
-        - black bean burgers
-    - burrito:
-        - black bean burrito bake
-    - ramen:
-        - cool & spicy noodle salad
-    - eggplant:
-        - eggplant parmigiana
-    - firecracker:
-        - firecracker chickpea meatballs
-    - fish:
-        - fish-ish tacos with spicy dill slaw
-    - meat_on_bone:
-        - ginger sesame vegan meatballs
-    - avodado:
-        - guacamole
-    - water_buffalo:
-        - buffalo sauce
-    - racehorse:
-        - ranchero sauce
-    - cow:
-        - espagnole
-    - champagne:
-        - ina garten's perfect vinaigrette
-    - sake:
-        - red wine vinaigrette
-    - ribbon:
-        - bow tie pasta chips
-    - crab:
-        - madre crab cakes
-    - orange_circle:
-        - unexpected cheddar cheese ball
-    - green_circle:
-        - pea purée
