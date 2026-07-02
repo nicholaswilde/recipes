@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - 8217
+        - 215
         - cake pan
         - recipe
         - wprm
@@ -71,6 +73,7 @@ emoji:
         - pastry
         - pastry brush
     - shallow_pan_of_food:
+        - 8217;s likely very stiff, so let it rest for about ~
         - oven
         - wide skillet
         - medium saucepan
@@ -111,6 +114,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - King Arthur Pizza Dough Flavor, optional but delicious
+        - (227g) sourdough starter, unfed/discard
         - fresh or frozen baby lima beans
         - fresh okra, cut into ½-inch-thick slices
         - fresh corn kernels
@@ -180,6 +185,11 @@ emoji:
     - avodado:
         - guacamole
     - baby_bottle:
+        - /2 cup plus 2 tablespoons to 3/4 cup (141g to 170g) water, lukewarm
+        - –8 Tablespoons (90–120g/ml) ice-cold water
+        - and 1/3 cups (167g) all-purpose flour (spooned &amp; leveled), plus more as needed
+        - /2 teaspoon salt
+        - (480 grams) all-purpose or bread flour
         - egg, at room temperature
         - almond emulsion or almond extract
         - (96g) King Arthur Almond Flour
@@ -254,6 +264,7 @@ emoji:
     - blue_circle:
         - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
     - bread:
+        - (300g) King Arthur Unbleached All-Purpose Flour
         - all-purpose flour ((90g))
         - semisweet chocolate chips ((90g))
         - all-purpose flour ((80g))
@@ -309,6 +320,7 @@ emoji:
     - cake:
         - brandy snaps
     - candy:
+        - /2 teaspoon instant yeast or active dry yeast
         - /2 cup (99g) granulated sugar
         - granulated sugar ((200g))
         - packed light brown sugar ((110g))
@@ -548,6 +560,8 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
+        - melted butter
         - (85g) unsalted butter, at room temperature
         - cream of tartar
         - butter (room temperature (80g))

@@ -39,4 +39,5 @@
 - I have added the recipe image validation skill to `.agents/skills/recipe-image-validation.md`.
 - I have imported the Chile Relleno recipe from Isabel Eats.
 - I have imported the Frangipane Almond Cream recipe (King Arthur Baking).
+- I have replaced the low-rated Texas Roadhouse Rolls, Rough Puff Pastry, and Sourdough Pizza Crust recipes with their higher-ranked, top-quality alternatives from The Cozy Cook, Sally's Baking Addiction, and King Arthur Baking.
 - When searching for recipes to import, they must be lacto-ovo vegetarian and have a highly rated Bayesian score.
