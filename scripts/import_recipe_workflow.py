@@ -113,14 +113,14 @@ def main():
         sys.exit(1)
     print(f"Target markdown file successfully created at: {md_path}")
     
-    # Step 3: Run check-recipe-emojis.py --fix
+    # Step 3: Run check_recipe_emojis.py --fix
     print("\n--- Step 3: Verifying and auto-fixing recipe emojis ---")
-    emoji_cmd = ["uv", "run", "scripts/check-recipe-emojis.py", "--fix", cook_file]
+    emoji_cmd = ["uv", "run", "scripts/check_recipe_emojis.py", "--fix", cook_file]
     run_command(emoji_cmd)
     
-    # Step 4: Run convert-recipe-units.py
+    # Step 4: Run convert_recipe_units.py
     print("\n--- Step 4: Converting volumetric units to weights ---")
-    convert_cmd = ["uv", "run", "scripts/convert-recipe-units.py", md_path]
+    convert_cmd = ["uv", "run", "scripts/convert_recipe_units.py", md_path]
     run_command(convert_cmd)
     
     # Step 5: Run spellcheck & whitelist

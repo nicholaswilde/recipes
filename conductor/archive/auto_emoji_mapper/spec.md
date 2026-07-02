@@ -1,7 +1,7 @@
 # Specification - Auto-Emoji Mapper Script Option
 
 ## Overview
-Enhance `scripts/check-recipe-emojis.py` with an auto-fixing mechanism (e.g. via a `--fix` CLI flag) to automatically append missing ingredients and cookware terms to `includes/emoji.yaml` under the most appropriate emoji groups, avoiding manual YAML edits.
+Enhance `scripts/check_recipe_emojis.py` with an auto-fixing mechanism (e.g. via a `--fix` CLI flag) to automatically append missing ingredients and cookware terms to `includes/emoji.yaml` under the most appropriate emoji groups, avoiding manual YAML edits.
 
 ## Functional Requirements
 1. **Detection:** Runs the existing check logic to find missing ingredients or cookware terms.
@@ -14,7 +14,7 @@ Enhance `scripts/check-recipe-emojis.py` with an auto-fixing mechanism (e.g. via
 4. **Command CLI:**
    - Invoked via:
      ```bash
-     uv run scripts/check-recipe-emojis.py --fix <recipe_path.cook>
+     uv run scripts/check_recipe_emojis.py --fix <recipe_path.cook>
      ```
 
 ## Acceptance Criteria

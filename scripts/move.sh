@@ -158,7 +158,7 @@ function move_files(){
 
   recipe_name=$(get_recipe_name "${recipe_path}")
   relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
-  uv run "${DIR}/add-recipe-nav.py" "${recipe_name}" "${relative_markdown_path}"
+  uv run "${DIR}/add_recipe_nav.py" "${recipe_name}" "${relative_markdown_path}"
 }
 
 function main(){

@@ -123,8 +123,8 @@ uv run scripts/import_recipe_workflow.py <URL_or_issue_number> [category]
 
 - Scrapes the recipe into a `.cook` file and downloads the image.
 - Compiles and organizes the files using `move.sh`.
-- Checks and maps missing emojis using `check-recipe-emojis.py --fix`.
-- Converts units to weights using `convert-recipe-units.py`.
+- Checks and maps missing emojis using `check_recipe_emojis.py --fix`.
+- Converts units to weights using `convert_recipe_units.py`.
 - Spellchecks the output and whitelists proper nouns.
 
 #### 2. Manual Recipe Import (`import_manual_recipe.py`)

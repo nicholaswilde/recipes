@@ -37,7 +37,7 @@ This skill utilizes the manual recipe import orchestrator script (`import_manual
    The orchestrator will:
    - Copy the `.cook` and image files to their correct staging folder under `cook/`.
    - Run `move.sh` to generate the Markdown file in `docs/` and convert the image to WebP.
-   - Run `check-recipe-emojis.py --fix` to verify emojis in `includes/emoji.yaml` (using keyword heuristics and fuzzy similarity matching).
-   - Run `convert-recipe-units.py` to annotate volumetric units with weights and prepend ingredient emojis.
+   - Run `check_recipe_emojis.py --fix` to verify emojis in `includes/emoji.yaml` (using keyword heuristics and fuzzy similarity matching).
+   - Run `convert_recipe_units.py` to annotate volumetric units with weights and prepend ingredient emojis.
    - Run `generate_typos_config.py` and spellcheck the single file using `typos`, whitelisting and sorting proper nouns via `whitelist_typos.py`.
    - Search relevant GitHub issues using the `gh` CLI (if available) and perform a conventional git commit.

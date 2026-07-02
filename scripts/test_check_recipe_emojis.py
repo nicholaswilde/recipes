@@ -6,9 +6,9 @@ from unittest.mock import patch
 import sys
 import yaml
 
-# Import main and helper functions from check-recipe-emojis
+# Import main and helper functions from check_recipe_emojis
 import importlib.util
-spec = importlib.util.spec_from_file_location("check_recipe_emojis", "scripts/check-recipe-emojis.py")
+spec = importlib.util.spec_from_file_location("check_recipe_emojis", "scripts/check_recipe_emojis.py")
 check_recipe_emojis = importlib.util.module_from_spec(spec)
 sys.modules["check_recipe_emojis"] = check_recipe_emojis
 spec.loader.exec_module(check_recipe_emojis)
@@ -50,7 +50,7 @@ emoji:
         with open(cook_path, "w", encoding="utf-8") as f:
             f.write("Add @almond flakes{10%g} and @mystery substance{5%g} to a #large bowl{}.\n")
             
-        test_argv = ["scripts/check-recipe-emojis.py", "--fix", cook_path]
+        test_argv = ["scripts/check_recipe_emojis.py", "--fix", cook_path]
         
         # Set module level EMOJI_YAML_PATH if it exists, otherwise we'll define it on the module
         setattr(check_recipe_emojis, "EMOJI_YAML_PATH", self.emoji_yaml_path)
@@ -75,13 +75,13 @@ emoji:
 
     @patch("sys.exit")
     def test_fix_missing_cookware(self, mock_exit):
-        # Create a dummy cook recipe with a missing cookware that has high similarity to "baking sheet" (e.g., "baking pan")
+        # Create a dummy cook recipe with a missing cookware that has high similarity to "baking sheet" (e.g., "baking dish")
         # and a cookware with no similarity (e.g., "magic device").
         cook_path = os.path.join(self.test_dir, "test_cookware_recipe.cook")
         with open(cook_path, "w", encoding="utf-8") as f:
-            f.write("Bake on #baking pan{} and use #magic device{}.\n")
+            f.write("Bake on #baking dish{} and use #magic device{}.\n")
             
-        test_argv = ["scripts/check-recipe-emojis.py", "--fix", cook_path]
+        test_argv = ["scripts/check_recipe_emojis.py", "--fix", cook_path]
         setattr(check_recipe_emojis, "EMOJI_YAML_PATH", self.emoji_yaml_path)
         
         with patch.object(sys, "argv", test_argv):
@@ -96,7 +96,7 @@ emoji:
             
         cookware_list = updated_data["emoji"]["cookware"]
         cookie_group = next(item["cookie"] for item in cookware_list if "cookie" in item)
-        self.assertIn("baking pan", cookie_group)
+        self.assertIn("baking dish", cookie_group)
         
         # Verify magic device got mapped to fallback group "bowl_with_spoon"
         bowl_group = next(item["bowl_with_spoon"] for item in cookware_list if "bowl_with_spoon" in item)
@@ -109,7 +109,7 @@ emoji:
         with open(cook_path, "w", encoding="utf-8") as f:
             f.write("Add @almond flakes{10%g} to #large bowl{}.\n")
             
-        test_argv = ["scripts/check-recipe-emojis.py", cook_path]
+        test_argv = ["scripts/check_recipe_emojis.py", cook_path]
         setattr(check_recipe_emojis, "EMOJI_YAML_PATH", self.emoji_yaml_path)
         
         with patch.object(sys, "argv", test_argv):

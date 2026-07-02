@@ -2,7 +2,7 @@
 
 ################################################################################
 #
-# optimize-images
+# optimize_images
 # ----------------
 # Convert JPEG to WebP, optimize PNG, and update markdown references.
 #

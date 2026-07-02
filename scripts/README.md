@@ -12,21 +12,21 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
-| `scripts/list-ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
-| `scripts/lint-changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
-| `scripts/git-summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
-| `scripts/hyperlink-ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
-| `scripts/hyperlink-ingredient-global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
+| `scripts/list_ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
+| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
+| `scripts/git_summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
+| `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
+| `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
 | `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
 | `scripts/import_manual_recipe.py` | - | Orchestrates the manual recipe import pipeline (.cook, image, move, emojis, units, spellcheck, commit). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
 | `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
-| `scripts/add-recipe-nav.py` | - | Adds a recipe's relative path to the correct navigation section in `zensical.toml`. |
+| `scripts/add_recipe_nav.py` | - | Adds a recipe's relative path to the correct navigation section in `zensical.toml`. |
 | `scripts/add_recipe_size.py` | - | Scales ingredients of a recipe by a factor and appends it as a new tab block. |
 | `scripts/adjust_recipe_metadata.py` | - | Modifies frontmatter metadata tags and custom properties for a recipe markdown file. |
-| `scripts/optimize-images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
+| `scripts/optimize_images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
 | `scripts/refactor_nav.py` | - | Replaces navigation blocks in `zensical.toml` with preset navigation structures. |
 | `scripts/move_and_verify.py` | - | Relocates recipes in `sides` and `sauces-and-dressings` to subdirectories and updates navigation. |
 
@@ -58,9 +58,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   the `sides` and `sauces-and-dressings` categories to their nested subdirectories (e.g.,
   `potatoes`, `vinaigrettes`, `salsas`), maintaining both the `.cook` files and compiled markdown docs.
 
-#### [add-recipe-nav.py](add-recipe-nav.py)
+#### [add_recipe_nav.py](add_recipe_nav.py)
 
-* **Usage**: `uv run scripts/add-recipe-nav.py <recipe_name> <relative_path>`
+* **Usage**: `uv run scripts/add_recipe_nav.py <recipe_name> <relative_path>`
 * **Description**: Automatically inserts a recipe file under the correct section list in
   `zensical.toml` and maintains alphabetical ordering of the list items.
 
@@ -97,9 +97,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   It parses the warnings and errors to automatically fix common issues (e.g., removing unused
   reference definitions, escaping bracketed text like `[ml]`, or turning unresolved recipe links into plain text).
 
-#### [convert-recipe-units.py](convert-recipe-units.py)
+#### [convert_recipe_units.py](convert_recipe_units.py)
 
-* **Usage**: `uv run scripts/convert-recipe-units.py <recipe.md>`
+* **Usage**: `uv run scripts/convert_recipe_units.py <recipe.md>`
 * **Description**: Scans a recipe's markdown Ingredients list, automatically converts volumetric/count
   measurements (like `1 cup` or `2 tbsp`) into weight-annotated units (`(120 g)`) by reading mappings
   in [docs/reference/measuring.md](../docs/reference/measuring.md), and inserts the matching ingredient
@@ -111,16 +111,16 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: Scans all files in `docs/` and automatically resolves broken relative markdown
   links/images by matching the file basenames against existing files in the repository.
 
-#### [hyperlink-ingredient.py](hyperlink-ingredient.py)
+#### [hyperlink_ingredient.py](hyperlink_ingredient.py)
 
-* **Usage**: `uv run python3 scripts/hyperlink-ingredient.py --target <recipe.md> --ingredient "<Name>"` or
+* **Usage**: `uv run python3 scripts/hyperlink_ingredient.py --target <recipe.md> --ingredient "<Name>"` or
   `task hyperlink-ingredient TARGET=<recipe.md> INGREDIENT="<Name>"`
 * **Description**: Scans the target recipe and automatically replaces raw text occurrences of the specified
   ingredient with a relative markdown link pointing to its corresponding file in `docs/`.
 
-#### [hyperlink-ingredient-global.py](hyperlink-ingredient-global.py)
+#### [hyperlink_ingredient_global.py](hyperlink_ingredient_global.py)
 
-* **Usage**: `uv run python3 scripts/hyperlink-ingredient-global.py --ingredient "<Name>"` or
+* **Usage**: `uv run python3 scripts/hyperlink_ingredient_global.py --ingredient "<Name>"` or
   `task hyperlink-ingredient-global INGREDIENT="<Name>"`
 * **Description**: Scans all recipes in `docs/` and automatically replaces raw text occurrences of the specified
   ingredient with a relative markdown link pointing to its corresponding file.
@@ -144,9 +144,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: Modifies frontmatter metadata tags and custom properties (such as comments or hero images)
   for a recipe markdown file.
 
-#### [optimize-images.sh](optimize-images.sh)
+#### [optimize_images.sh](optimize_images.sh)
 
-* **Usage**: `./scripts/optimize-images.sh [category]`
+* **Usage**: `./scripts/optimize_images.sh [category]`
 * **Description**: Converts recipe JPEGs to WebP format, optimizes PNG files using `oxipng`, updates markdown links
   automatically, and removes the original image assets to reduce file sizes.
 
@@ -154,9 +154,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 ### 3. Checkers & Linter Generators
 
-#### [check-recipe-emojis.py](check-recipe-emojis.py)
+#### [check_recipe_emojis.py](check_recipe_emojis.py)
 
-* **Usage**: `uv run scripts/check-recipe-emojis.py [--fix] <recipe.cook>`
+* **Usage**: `uv run scripts/check_recipe_emojis.py [--fix] <recipe.cook>`
 * **Description**: Scans a `.cook` file's ingredients (`@`) and cookware (`#`) references to check
   if they are mapped to emojis in [includes/emoji.yaml](../includes/emoji.yaml), exiting with a
   non-zero status if any mapped emojis are missing. The optional `--fix` flag automatically maps
@@ -230,14 +230,14 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 ### 5. Token-Saving Tools for AI Agents
 
-#### [lint-changed.py](lint-changed.py)
+#### [lint_changed.py](lint_changed.py)
 
-* **Usage**: `uv run python3 scripts/lint-changed.py` or `task lint-changed`
+* **Usage**: `uv run python3 scripts/lint_changed.py` or `task lint-changed`
 * **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown
   and YAML files in the git workspace, running the appropriate linters only on those files to save context tokens.
 
-#### [git-summary.py](git-summary.py)
+#### [git_summary.py](git_summary.py)
 
-* **Usage**: `uv run python3 scripts/git-summary.py` or `task git-summary`
+* **Usage**: `uv run python3 scripts/git_summary.py` or `task git-summary`
 * **Description**: Prints a highly compact, token-efficient summary of branch status, modified files stat,
   and the last commit, avoiding verbose git status and git diff outputs.

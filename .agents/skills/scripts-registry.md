@@ -27,7 +27,7 @@ When a new `.cook` recipe file is compiled, relocate it to its final destination
 
 * **Under the Hood**: Invokes [scripts/move.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/move.sh),
   which compiles the markdown, moves images, adds navigation configuration to `zensical.toml` via
-  [scripts/add-recipe-nav.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add-recipe-nav.py),
+  [scripts/add_recipe_nav.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add_recipe_nav.py),
   and runs validation.
 
 #### Commit Recipe Changes
@@ -80,7 +80,7 @@ To orchestrate the entire recipe import process (scraping, moving, emoji matchin
   uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]
   ```
 
-* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check-recipe-emojis.py --fix` to verify emojis, `scripts/convert-recipe-units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
+* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check_recipe_emojis.py --fix` to verify emojis, `scripts/convert_recipe_units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
 
 #### Manual Recipe Import Orchestrator
 
@@ -92,7 +92,7 @@ To orchestrate the import, emoji checking/fixing, unit conversion, spelling vali
   uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
   ```
 
-* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check-recipe-emojis.py --fix` to automatically map missing emojis, `scripts/convert-recipe-units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Optionally prompts for GitHub issues and automates conventional git commits.
+* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check_recipe_emojis.py --fix` to automatically map missing emojis, `scripts/convert_recipe_units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Optionally prompts for GitHub issues and automates conventional git commits.
 
 #### Automated PDF Recipe Import Workflow
 
@@ -131,7 +131,7 @@ weight-annotated strings (grams) on a recipe's markdown file:
 * **Protocol**:
 
   ```bash
-  uv run scripts/convert-recipe-units.py docs/category/recipe.md
+  uv run scripts/convert_recipe_units.py docs/category/recipe.md
   ```
 
 * **Under the Hood**: Cross-references ingredients with [includes/emoji.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/emoji.yaml) and [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md).
@@ -156,13 +156,13 @@ To convert all JPEGs to WebP, optimize PNGs, and update all Markdown recipe refe
 
   ```bash
   # Globally
-  bash scripts/optimize-images.sh
+  bash scripts/optimize_images.sh
 
   # For a specific category
-  bash scripts/optimize-images.sh [category]
+  bash scripts/optimize_images.sh [category]
   ```
 
-* **Under the Hood**: Invokes [scripts/optimize-images.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/optimize-images.sh),
+* **Under the Hood**: Invokes [scripts/optimize_images.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/optimize_images.sh),
   which converts JPEGs to `.webp` (using `cwebp` with a Python Pillow fallback to salvage truncated/corrupted JPEGs),
   deletes the original files, updates all Markdown recipe references, and runs `oxipng` to optimize PNG files.
 
@@ -205,7 +205,7 @@ To check if all ingredients or cookware used in a `.cook` recipe are registered 
 * **Protocol**:
 
   ```bash
-  uv run scripts/check-recipe-emojis.py cook/category/recipe.cook
+  uv run scripts/check_recipe_emojis.py cook/category/recipe.cook
   ```
 
 To automatically map and fix missing emojis in `includes/emoji.yaml` using similarity checking and fallback groups:
@@ -213,7 +213,7 @@ To automatically map and fix missing emojis in `includes/emoji.yaml` using simil
 * **Protocol**:
 
   ```bash
-  uv run scripts/check-recipe-emojis.py --fix cook/category/recipe.cook
+  uv run scripts/check_recipe_emojis.py --fix cook/category/recipe.cook
   ```
 
 * **Under the Hood**: Compares missing terms against existing emoji mappings using keyword-based heuristics (e.g. `cheese` -> `cheese_wedge`, `chili`/`pepper` -> `hot_pepper`, `onion`/`scallion` -> `tea`, `tomato`/`salsa` -> `tomato`, `cream`/`milk`/`butter` -> `glass_of_milk`, cookware containing `pan`/`skillet`/`pot`/`spoon`/`whisk` -> `bowl_with_spoon`), substring matching, word-overlap, and SequenceMatcher similarity. Confident matches are inserted under the matched emoji group, while unmatched terms fallback to generic categories (`takeout_box` for ingredients and `bowl_with_spoon` for cookware). Finally, it runs `task emoji-sort` to maintain ordering.

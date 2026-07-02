@@ -161,6 +161,7 @@ Chicharrones
 Chickenless
 Chilero
 Chiles
+Chilis
 Chilli
 Chimichurri
 Chipotle
@@ -470,6 +471,7 @@ Ranchero
 Realfruit
 RedHot
 Refried
+Rehydrate
 Reine
 Relleno
 Rempejek
@@ -781,6 +783,7 @@ daun
 dauphine
 de
 deglaze
+deglazing
 dehusked
 delicata
 demerara
@@ -1088,6 +1091,7 @@ reflouring
 refried
 rehydrate
 rehydrated
+rehydrating
 reinvert
 rempejek
 rempeyek
@@ -1127,6 +1131,7 @@ snapable
 snickerdoodles
 snuggly
 soba
+soffritto
 sojae
 soto
 soufflé

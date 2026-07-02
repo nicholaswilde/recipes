@@ -72,7 +72,7 @@ For recipes missing an image asset entirely:
 3. Optimize and convert it using the image optimizer:
 
    ```bash
-   ./scripts/optimize-images.sh
+   ./scripts/optimize_images.sh
    ```
 
 ---

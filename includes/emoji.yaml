@@ -2,6 +2,9 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - jar
+        - dehydrator trays
+        - dehydrator
         - mixer bowl
         - cake pans (8"x8"x2")
         - 215
@@ -46,6 +49,7 @@ emoji:
         - measuring cup
         - heat-proof liquid measuring cup
     - gear:
+        - spice grinder
         - electric mixer with whip attachment
         - hand mixer
         - coffee or spice grinder
@@ -108,6 +112,7 @@ emoji:
         - small spoon
         - large serving spoon
     - wastebasket:
+        - fine-mesh sieve
         - cooling rack
         - strainer
         - fine-mesh strainer
@@ -181,6 +186,8 @@ emoji:
         - natural food coloring
         - rainbow sprinkles
     - avocado:
+        - neutral oil
+        - neutral oil, avocado or canola
         - avocado
         - sliced avocado
     - avodado:
@@ -198,7 +205,6 @@ emoji:
         - –8 Tablespoons (90–120g/ml) ice-cold water
         - and 1/3 cups (167g) all-purpose flour (spooned &amp; leveled), plus more as needed
         - /2 teaspoon salt
-        - (480 grams) all-purpose or bread flour
         - egg, at room temperature
         - almond emulsion or almond extract
         - (96g) King Arthur Almond Flour
@@ -239,6 +245,7 @@ emoji:
         - aquafaba
         - buttermilk
     - bacon:
+        - liquid smoke
         - vegan bacon
         - fully cooked uncured applewood smoked bacon
         - center-cut bacon slices
@@ -308,6 +315,7 @@ emoji:
         - rice paper wrappers
         - bread flour
         - cake flour
+        - all-purpose or bread flour
         - breadcrumbs
         - panko breadcrumbs
         - graham cracker crumbs
@@ -331,6 +339,17 @@ emoji:
         - salted butter
         - knob
         - knob of butter
+        - /4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
+        - (85g) unsalted butter
+        - butter flavored oil spray
+        - whipped butter
+        - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
+        - melted butter
+        - (85g) unsalted butter, at room temperature
+        - butter (room temperature (80g))
+        - unsalted butter ((56g))
+        - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
+        - cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
     - cake:
         - brandy snaps
     - candy:
@@ -589,18 +608,9 @@ emoji:
         - (8 oz) mascarpone
         - (7.5 oz) crème fraiche
         - (7.5 oz) crème fraîche
-        - /4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
         - /4 cup (180ml) whole milk
         - /2 cup (120ml) heavy cream
-        - (85g) unsalted butter
-        - butter flavored oil spray
-        - whipped butter
-        - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
-        - melted butter
-        - (85g) unsalted butter, at room temperature
         - cream of tartar
-        - butter (room temperature (80g))
-        - unsalted butter ((56g))
         - ¾ cups water (or thin coconut milk (1¼ cups water for IP, 2 cups for regular pot, refer notes))
         - curd or yogurt
         - heavy
@@ -665,6 +675,7 @@ emoji:
     - hibiscus:
         - iced hibiscus tea
     - honey_pot:
+        - pure maple syrup
         - honey
         - maple syrup
     - hot_pepper:
@@ -678,8 +689,6 @@ emoji:
         - peppercorn kernels
         - peppercorn
         - green chili ((slit or chopped) (skip for kids))
-        - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
-        - cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
         - Red-pepper flakes (optional)
         - Kosher salt and black pepper
         - jalapeño or serrano pepper
@@ -903,6 +912,11 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - tempeh
+        - soy
+        - seasoned rice vinegar
+        - package tempeh
+        - liquid
         - (480ml) half-and-half
         - white vinegar
         - pickling

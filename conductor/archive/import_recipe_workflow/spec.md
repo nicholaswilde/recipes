@@ -8,8 +8,8 @@ Develop a Python orchestrator `scripts/import_recipe_workflow.py` that aggregate
 2. **Orchestrated Workflow:**
    - **Step 1:** Run `scripts/scrape_to_cook.py` to extract recipe content and download the image.
    - **Step 2:** Run `task move` to compile the `.cook` file, move the image, and insert navigation.
-   - **Step 3:** Run `scripts/check-recipe-emojis.py --fix` to verify and auto-add missing emojis.
-   - **Step 4:** Run `scripts/convert-recipe-units.py` to convert volumetric measurements to weight and add emojis.
+   - **Step 3:** Run `scripts/check_recipe_emojis.py --fix` to verify and auto-add missing emojis.
+   - **Step 4:** Run `scripts/convert_recipe_units.py` to convert volumetric measurements to weight and add emojis.
    - **Step 5:** Run `task spellcheck` to check for spelling errors. If spelling errors exist, prompt/detect proper nouns and run `scripts/whitelist_typos.py` to whitelist them automatically.
 3. **Agent Skill Update:**
    - Modify the `/import-recipe` skill ([import-recipe.md](file:///.agents/skills/import-recipe.md)) to instruct agents to use `scripts/import_recipe_workflow.py` instead of running each step manually, significantly reducing the prompt token size and trajectory step count.

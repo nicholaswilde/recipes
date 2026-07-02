@@ -2,14 +2,14 @@
 
 ## Overview
 This track introduces image optimization and WebP conversion for all recipe images in the repository. It includes:
-1. A migration script `scripts/optimize-images.sh` designed to perform conversions in stages (one category at a time, or all at once) to convert existing `.jpg` images to `.webp` using `cwebp`, optimize `.png` images in-place using `oxipng`, and update all corresponding image references in existing Markdown files under `docs/`.
+1. A migration script `scripts/optimize_images.sh` designed to perform conversions in stages (one category at a time, or all at once) to convert existing `.jpg` images to `.webp` using `cwebp`, optimize `.png` images in-place using `oxipng`, and update all corresponding image references in existing Markdown files under `docs/`.
 2. Updates to the recipe import workflow (`scripts/move.sh`) to automatically convert incoming `.jpg` images to `.webp` and optimize them, as well as rewriting markdown references accordingly.
 3. Reporting of the total space savings (in percentage and bytes) after the migration.
 
 ## Functional Requirements
-- **Migration Script (`scripts/optimize-images.sh`):**
+- **Migration Script (`scripts/optimize_images.sh`):**
   - Check for the availability of `cwebp` and `oxipng` and exit gracefully with instructions if they are missing.
-  - Support an optional category argument to allow running the conversion in stages, one category at a time (e.g. `scripts/optimize-images.sh lunches`). If no category is specified, process all categories.
+  - Support an optional category argument to allow running the conversion in stages, one category at a time (e.g. `scripts/optimize_images.sh lunches`). If no category is specified, process all categories.
   - For JPEGs/PNGs inside `docs/assets/images/` belonging to the target category (or all if none specified):
     - Convert JPEGs to `.webp` with quality 80 and metadata preserved (`cwebp -q 80 -metadata all <input> -o <output>`) and delete the original `.jpg` file.
     - Optimize PNGs in-place using `oxipng -o 4 --strip safe <file>`.

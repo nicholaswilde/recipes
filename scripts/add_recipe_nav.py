@@ -5,7 +5,7 @@ import os
 
 def main():
     if len(sys.argv) < 3:
-        print("Usage: add-recipe-nav.py <recipe_name> <relative_path>")
+        print("Usage: add_recipe_nav.py <recipe_name> <relative_path>")
         sys.exit(1)
         
     recipe_name = sys.argv[1]

@@ -204,7 +204,7 @@ def convert_ingredient(qty_str, unit, name, measuring_table):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: convert-recipe-units.py <recipe.md>")
+        print("Usage: convert_recipe_units.py <recipe.md>")
         sys.exit(1)
         
     md_path = sys.argv[1]

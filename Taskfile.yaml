@@ -20,7 +20,7 @@ tasks:
   check-header-emojis:
     desc: Check recipes for missing H1 header emoji shortcodes.
     cmds:
-      - 'uv run scripts/check-header-emojis.py {{ .CLI_ARGS }}'
+      - 'uv run scripts/check_header_emojis.py {{ .CLI_ARGS }}'
   build:
     desc: Build the static site
     cmds:
@@ -105,12 +105,12 @@ tasks:
   lint-changed:
     desc: Lint only modified/changed files (saves tokens)
     cmds:
-      - uv run python3 scripts/lint-changed.py
+      - uv run python3 scripts/lint_changed.py
 
   git-summary:
     desc: Show a token-efficient summary of git workspace status and changes
     cmds:
-      - uv run python3 scripts/git-summary.py
+      - uv run python3 scripts/git_summary.py
 
   shuck:
     desc: Run shuck shell linter
@@ -119,7 +119,7 @@ tasks:
   list-ingredients:
     desc: List all ingredients in all cook recipes and copy to clipboard.
     cmds:
-      - ./scripts/list-ingredients.sh
+      - ./scripts/list_ingredients.sh
   markdownlint:
     desc: Run markdownlint-cli
     cmds:
@@ -199,14 +199,14 @@ tasks:
     desc: Hyperlink an ingredient in a recipe markdown file
     cmds:
       - >-
-        uv run python3 scripts/hyperlink-ingredient.py
+        uv run python3 scripts/hyperlink_ingredient.py
         --target {{shellQuote .TARGET}}
         --ingredient {{shellQuote .INGREDIENT}}
   hyperlink-ingredient-global:
     desc: Hyperlink an ingredient globally in all recipe markdown files
     cmds:
       - >-
-        uv run python3 scripts/hyperlink-ingredient-global.py
+        uv run python3 scripts/hyperlink_ingredient_global.py
         --ingredient {{shellQuote .INGREDIENT}}
   deg:
     desc: Replace temperatures with degree symbols

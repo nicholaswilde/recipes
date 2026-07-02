@@ -2,7 +2,7 @@
 
 ## Phase 1: Implementation & Validation [checkpoint: cbbd0fa2]
 
-- [x] Task: Update `scripts/check-recipe-emojis.py` with `--fix` Flag (3091df5)
+- [x] Task: Update `scripts/check_recipe_emojis.py` with `--fix` Flag (3091df5)
     - [x] Implement command line argument parsing for `--fix`.
     - [x] Implement similarity checking against mapped items in `includes/emoji.yaml`.
     - [x] Implement YAML writing logic to insert new items under matched emoji keys.

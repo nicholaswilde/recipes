@@ -32,7 +32,7 @@ class TestOptimizeImages(unittest.TestCase):
             f.write("# Test Recipe\n\n![Cake](../assets/images/test-cake.jpg)\n![Cookie](../assets/images/test-cookie.png)\n")
 
         # Path to the actual script under test
-        self.script_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "optimize-images.sh"))
+        self.script_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "optimize_images.sh"))
 
     def tearDown(self):
         shutil.rmtree(self.test_dir)
