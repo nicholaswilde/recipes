@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+  - trader-joes
 ---
 
 # Bared Bacon Cheddar Cornbread Cake
@@ -94,6 +95,6 @@ pile on remainder of bacon.
 
 ## :link: Source
 
-- <https://www.traderjoes.com/home/recipes/bared-bacon-cheddar-cornbread-cake>
+- Trader Joe's
 
 [1]: <../assets/images/bared-bacon-cheddar-cornbread-cake.webp>
