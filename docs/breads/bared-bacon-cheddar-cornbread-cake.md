@@ -23,6 +23,7 @@ tags:
 - :corn: 2 boxes cornbread mix
 - :cheese_wedge: 2 cups (228 g) sharp cheddar cheese
 - :bacon: 1 pkg fully cooked uncured applewood smoked bacon
+- :bacon: 1 pkg tempeh bacon (alternative)
 - :glass_of_milk: 1 pkg (8 oz) mascarpone
 - :glass_of_milk: 1 pkg (7.5 oz) crème fraiche
 - :seedling: 1 tsp Dijon mustard
@@ -54,6 +55,11 @@ spray. Set aside.
 ### Step 3
 
 In a large mixing bowl, beat eggs, sunflower oil, and milk.
+
+!!! tip
+
+    Add Smoked Paprika or Liquid Smoke: Mix 1/4 to 1/2 teaspoon of smoked paprika or a tiny splash (2-3 drops) of liquid
+    smoke directly into your liquid ingredients (the oil, milk, and eggs) before combining it with the dry mix.
 
 ### Step 4
 
