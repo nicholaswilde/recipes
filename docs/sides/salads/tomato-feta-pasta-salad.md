@@ -20,25 +20,25 @@ hero: assets/images/tomato-feta-pasta-salad.webp
 
 === "Salad"
 
-    - :spaghetti: 0.5 lb [fusilli pasta][1]
+    - 0.5 lb [fusilli pasta][1]
     - :tomato: 1 lb tomatoes
-    - :olive: 0.75 cup Kalamata olives
+    - :olive: 0.75 cup (106 g) Kalamata olives
     - :cheese_wedge: 1 lb feta
-    - :tomato: 6 sun-dried tomatoes
+    - :tea: 6 sun-dried tomatoes
 
 === "Dressing"
 
-    - :tomato: 5 sun-dried tomatoes
-    - :wine_glass: 2 Tbsp red wine vinegar
-    - :olive: 6 Tbsp olive oil
+    - :tea: 5 sun-dried tomatoes
+    - :wine_glass: 2 Tbsp (26 g) red wine vinegar
+    - :olive: 6 Tbsp (75 g) olive oil
     - :garlic: 1 clove garlic
-    - :sponge: 1 tsp capers
+    - :olive: 1 tsp capers
     - :salt: 1 tsp salt
     - :salt: 0.75 tsp pepper
 
 === "Garnish"
 
-    - :cheese_wedge: 1 cup Parmesan
+    - :cheese_wedge: 1 cup (100 g) Parmesan
     - :herb: 1 cup parsley
 
 ## :cooking: Cookware

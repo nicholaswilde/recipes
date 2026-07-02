@@ -17,9 +17,9 @@ hero: assets/images/chocolate-ganache-glaze-or-frosting.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 0.75 cup heavy cream
-- :chocolate_bar: 8 oz semisweet or bittersweet chocolate
-- :tumbler_glass: 1 Tbsp liqueur (optional)
+- :glass_of_milk: 0.75 cup (170 g) heavy cream
+- :bread: 8 oz (170 g) semisweet or bittersweet chocolate
+- :leafy_green: 1 Tbsp liqueur (optional)
 
 ## :cooking: Cookware
 

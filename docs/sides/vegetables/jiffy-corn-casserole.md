@@ -18,11 +18,11 @@ hero: assets/images/jiffy-corn-casserole.webp
 ## :salt: Ingredients
 
 - :butter: 1 cup butter
-- :corn: 2 cans whole kernel corn, drained
-- :corn: 2 cans cream-style corn
-- :rice: 2 cups sour cream
+- :hot_pepper: 2 cans whole kernel corn, drained
+- :candy: 2 cans cream-style corn
+- :glass_of_milk: 2 cups (454 g) sour cream
 - :egg: 4 eggs
-- :corn: 2 boxes Jiffy corn muffin mix
+- :chestnut: 2 boxes Jiffy corn muffin mix
 - :salt: some salt
 - :salt: some pepper
 

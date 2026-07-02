@@ -16,37 +16,37 @@ hero: assets/images/lentil-and-mushroom-stuffed-peppers-and-butternut-squash.web
 
 ## :salt: Ingredients
 
-- :melon: 1 large butternut squash
-- :olive: 1 Tbsp olive oil
+- 1 large butternut squash
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: some salt
 - :salt: some pepper
-- :honey_pot: 1 Tbsp maple syrup
+- :honey_pot: 1 Tbsp (20 g) maple syrup
 - :hot_pepper: 0.5 tsp cayenne
-- :cheese_wedge: 5 oz goat cheese
-- :stew: 0.5 cup (115 g) whole milk or [vegetable broth][2]
-- :baby_bottle: 2 Tbsp sour cream
-- :olive: 1 Tbsp grapeseed oil
+- :cheese_wedge: 5 oz (142 g) goat cheese
+- :glass_of_milk: 0.5 cup (50 g) whole milk or [vegetable broth][2]
+- :glass_of_milk: 2 Tbsp (28 g) sour cream
+- :olive: 1 Tbsp (12 g) grapeseed oil
 - :tangerine: 2 lime juice and zest
-- :candy: 2 Tbsp granulated sugar
+- :candy: 2 Tbsp (25 g) granulated sugar
 - :salt: some salt
 - :salt: some pepper
-- :leafy_green: 6 cups (420 g) shredded cabbage
-- :onion: 2 green onions
-- :herb: 0.5 cup (20 g) cilantro
+- :coconut: 6 cups (726 g) shredded cabbage
+- :tea: 2 green onions
+- :herb: 0.5 cup (21 g) cilantro
 - :hot_pepper: 4 poblano peppers
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.5 tsp salt
-- :olive: 1 Tbsp olive oil
-- :onion: 0.5 yellow onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 0.5 yellow onion
 - :mushroom: 1 lb cremini mushrooms
 - :garlic: 3 cloves garlic
-- :beans: 1.5 cups (300 g) cooked [lentils][3]
-- :stew: 0.5 cup (115 g) [vegetable broth][2]
-- :chestnut: 2 tsp cumin
+- :ear_of_rice: 1.5 cups (255 g) cooked [lentils][3]
+- 0.5 cup [vegetable broth][2]
+- :chestnut: 2 tsp (6 g) cumin
 - :wine_glass: some vinegar
-- :herb: 0.33 cup (15 g) cilantro
-- :seedling: 0.5 cup (64 g) toasted pepitas
-- :cheese_wedge: 5 oz goat cheese
+- :herb: 0.33 cup (14 g) cilantro
+- :olive: 0.5 cup (42 g) toasted pepitas
+- :cheese_wedge: 5 oz (142 g) goat cheese
 
 ## :cooking: Cookware
 

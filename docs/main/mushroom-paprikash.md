@@ -15,14 +15,14 @@ hero: assets/images/mushroom-paprikash.webp
 
 ## :salt: Ingredients
 
-- :olive: 3 Tbsp olive oil
-- :onion: 1 medium yellow onion
-- :hot_pepper: 2 Tbsp sweet paprika
+- :olive: 3 Tbsp (38 g) olive oil
+- :seedling: 1 medium yellow onion
+- :hot_pepper: 2 Tbsp (18 g) sweet paprika
 - :droplet: some water
-- :mushroom: 16 oz mushrooms
+- :mushroom: 16 oz (156 g) mushrooms
 - :salt: some salt
-- :baby_bottle: 1 cup (227 g) sour cream
-- :ear_of_rice: some egg noodles or spaetzle
+- :glass_of_milk: 1 cup (227 g) sour cream
+- :baby_bottle: some egg noodles or spaetzle
 
 ## :cooking: Cookware
 

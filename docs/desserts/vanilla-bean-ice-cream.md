@@ -20,7 +20,7 @@ hero: assets/images/vanilla-bean-ice-cream.webp
 - :egg: 4 large egg yolks
 - :glass_of_milk: 570 g whole milk
 - :glass_of_milk: 270 g heavy cream
-- :icecream: 1 vanilla pod
+- 1 vanilla pod
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

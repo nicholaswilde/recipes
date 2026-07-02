@@ -16,10 +16,10 @@ hero: assets/images/ranch-dressing.webp
 
 ## :salt: Ingredients
 
-- :egg: 0.5 cup [mayonnaise][2]
-- :custard: 0.5 cup sour cream or plain non-fat greek yogurt
-- :herb: 3 Tbsp [ranch dressing mix][1]
-- :glass_of_milk: 0.67 cups [buttermilk][3] or water
+- 0.5 cup [mayonnaise][2]
+- :cheese_wedge: 0.5 cup (114 g) sour cream or plain non-fat greek yogurt
+- 3 Tbsp [ranch dressing mix][1]
+- :droplet: 0.67 cups (152 g) [buttermilk][3] or water
 
 ## :cooking: Cookware
 

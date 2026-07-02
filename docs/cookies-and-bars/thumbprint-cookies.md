@@ -22,16 +22,16 @@ hero: assets/images/thumbprint-cookies.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (227 g) unsalted butter, softened
-- :candy: 0.33 cup (66 g) granulated sugar
-- :candy: 0.33 cup (71 g) light brown sugar
-- :egg: 1 large (20 g) egg yolk
+- :baby_bottle: 1 cup (226 g) unsalted butter, softened
+- :candy: 0.33 cup (65 g) granulated sugar
+- :candy: 0.33 cup (70 g) light brown sugar
+- :egg: 1 large egg yolk
 - :flower_playing_cards: 0.75 tsp vanilla extract
 - :bread: 2.25 cups (270 g) all-purpose flour
 - :chestnut: 2 tsp (5 g) cornstarch
 - :salt: 0.5 tsp salt
 - :candy: 0.5 cup (99 g) granulated sugar
-- :apple: 0.33 cup (113 g) jam or preserves
+- :apple: 0.33 cup (112 g) jam or preserves
 
 ## :cooking: Cookware
 

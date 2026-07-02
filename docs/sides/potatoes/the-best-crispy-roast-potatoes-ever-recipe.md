@@ -20,7 +20,7 @@ hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.webp
 - :salt: 2 Tbsp kosher salt
 - :chestnut: 0.5 tsp baking soda
 - :sweet_potato: 4 lbs Yukon gold potatoes
-- :olive: 5 Tbsp olive oil
+- :olive: 5 Tbsp (62 g) olive oil
 - :herb: 1 small handful rosemary
 - :garlic: 3 cloves garlic
 - :salt: some black pepper

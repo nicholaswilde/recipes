@@ -18,10 +18,10 @@ hero: assets/images/benedictine-sandwich-spread.webp
 ## :salt: Ingredients
 
 - :cucumber: 1.5 cucumbers
-- :onion: 0.5 small white onion
+- :beans: 0.5 small white onion
 - :salt: 1.5 tsp salt
-- :pepper: 0.5 tsp white pepper
-- :cheese_wedge: 24 oz cream cheese
+- :salt: 0.5 tsp (1 g) white pepper
+- :cheese_wedge: 24 oz (681 g) cream cheese
 
 ## :cooking: Cookware
 

@@ -18,16 +18,16 @@ hero: assets/images/whole-orange-almond-cake.webp
 ## :salt: Ingredients
 
 - :tangerine: 2 large oranges (approx. 400 g)
-- :egg: 6 eggs (approx. 300 g)
-- :chestnut: 1.5 cups (144 g) ground almonds
+- 6 eggs (approx. 300 g)
+- :chestnut: 1.5 cups (216 g) ground almonds
 - :salt: 1 pinch salt
-- :candy: 1 cup (198 g) sugar
-- :chestnut: 1 teaspoon (4 g) baking powder
+- :candy: 1 cup (156 g) sugar
+- :chestnut: 1 teaspoon baking powder
 - :tangerine: some thin slices of peeled orange
 - :candy: some confectioners' sugar
 - :chestnut: some cinnamon
-- :strawberry: some fresh raspberries
-- :icecream: some whipped cream
+- :apple: some fresh raspberries
+- :glass_of_milk: some whipped cream
 
 ## :cooking: Cookware
 

@@ -16,9 +16,9 @@ hero: assets/images/onion-pique.webp
 
 ## :salt: Ingredients
 
-- :onion: 0.5 onion
-- :fallen_leaf: 1 bay leaf
-- :four_leaf_clover: 2 whole dried cloves
+- :tea: 0.5 onion
+- :herb: 1 bay leaf
+- :apple: 2 whole dried cloves
 
 ## :pencil: Instructions
 

@@ -16,17 +16,17 @@ hero: assets/images/lemper.webp
 
 ## :salt: Ingredients
 
-- :rice: 5 cups sweet rice
+- :ear_of_rice: 5 cups (140 g) sweet rice
 - :coconut: 1 can coconut milk
 - :droplet: 1 can water
 - :salt: 1 tsp salt
-- :leafy_green: 2 bay leaves
-- :cut_of_meat: 2 lbs ground beef
-- :onion: 1 medium onion
+- :herb: 2 bay leaves
+- :apple: 2 lbs ground beef
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
-- :chestnut: 0.5 tsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)
+- 0.5 tsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)
 - :salt: 0.5 tsp salt
-- :candy: 2 tsp sugar
+- :candy: 2 tsp (6 g) sugar
 - :chestnut: 1 pkg soto ayam spice
 
 ## :cooking: Cookware

@@ -17,7 +17,7 @@ hero: assets/images/kale-chips.webp
 ## :salt: Ingredients
 
 - :leafy_green: 1 bunch kale
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware

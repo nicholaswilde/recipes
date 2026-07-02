@@ -18,16 +18,16 @@ hero: assets/images/soft-white-chocolate-chip-cranberry-cookies.webp
 ## :salt: Ingredients
 
 - :butter: 170 g unsalted butter
-- :maple_leaf: 150 g dark brown sugar
+- :candy: 150 g dark brown sugar
 - :candy: 50 g granulated sugar
 - :egg: 1 large egg
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 250 g all-purpose flour
-- :corn: 2 tsp cornstarch
-- :cup_with_straw: 1 tsp baking soda
+- :flower_playing_cards: 2 tsp vanilla
+- :bread: 250 g all-purpose flour
+- :chestnut: 2 tsp (5 g) cornstarch
+- :chestnut: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 - :chocolate_bar: 135 g white chocolate chips
-- :cherries: 140 g dried cranberries
+- :apple: 140 g dried cranberries
 
 ## :cooking: Cookware
 

@@ -18,13 +18,13 @@ hero: assets/images/florentines.webp
 ## :salt: Ingredients
 
 - :chestnut: 145 g almonds
-- :ear_of_rice: 3 Tbsp (23 g) all-purpose flour
-- :orange_circle: 2 Tbsp orange peel (optional)
+- :bread: 3 Tbsp (22 g) all-purpose flour
+- :apple: 2 Tbsp (12 g) orange peel (optional)
 - :candy: 140 g granulated sugar
-- :icecream: 2 Tbsp heavy cream
-- :corn: 2 Tbsp light corn syrup
+- :glass_of_milk: 2 Tbsp (28 g) heavy cream
+- :candy: 2 Tbsp (39 g) light corn syrup
 - :butter: 71 g unsalted butter
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :chocolate_bar: 567 g milk or dark chocolate
 
 ## :cooking: Cookware

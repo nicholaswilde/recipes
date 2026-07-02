@@ -20,11 +20,11 @@ hero: assets/images/tomato-bruschetta.webp
 
 - :tomato: 1 lb plum tomatoes
 - :salt: 1 tsp salt
-- :olive: 5 Tbsp olive oil
+- :olive: 5 Tbsp (62 g) olive oil
 - :garlic: 2 cloves garlic, minced
 - :herb: 8 large basil leaves
 - :salt: some pepper
-- :bread: 4 slices toasted bread
+- :potato: 4 slices toasted bread
 
 ## :cooking: Cookware
 

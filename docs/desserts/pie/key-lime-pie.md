@@ -19,14 +19,14 @@ hero: assets/images/key-lime-pie.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
-- :lemon: 0.5 cup lime juice
-- :lemon: 4 tsp lime zest
+- :tangerine: 0.5 cup (114 g) lime juice
+- :tangerine: 4 tsp (19 g) lime zest
 - :egg: 4 large egg yolks
 - :salt: 1 pinch salt
-- :cookie: 1.25 cups (178 g) graham crackers
-- :candy: 3 Tbsp granulated sugar
+- :bread: 1.25 cups (178 g) graham crackers
+- :candy: 3 Tbsp (37 g) granulated sugar
 - :salt: 1 pinch salt
-- :butter: 71 g (5 Tbsp) unsalted butter
+- :glass_of_milk: 71 g (5 Tbsp) unsalted butter
 
 ## :cooking: Cookware
 

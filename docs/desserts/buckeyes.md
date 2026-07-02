@@ -16,12 +16,12 @@ hero: assets/images/buckeyes.webp
 
 ## :salt: Ingredients
 
-- :peanuts: 1 cup (135 g) creamy peanut butter
+- :chestnut: 1 cup (270 g) creamy peanut butter
 - :butter: 4 Tbsp butter
 - :salt: 0.5 tsp salt
-- :candy: 2 cups (396 g) confectioners' sugar
-- :chocolate_bar: 2 cups semisweet chocolate
-- :coconut: 2 Tbsp coconut oil or vegetable shortening
+- :candy: 2 cups (226 g) confectioners' sugar
+- :bread: 2 cups (340 g) semisweet chocolate
+- :carrot: 2 Tbsp (23 g) coconut oil or vegetable shortening
 
 ## :cooking: Cookware
 

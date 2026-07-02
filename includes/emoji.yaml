@@ -121,15 +121,9 @@ emoji:
     - apple:
         - and 1/2 teaspoons baking powder
         - (113g) bittersweet chocolate, finely chopped
-        - fully cooked uncured applewood smoked bacon
-        - cornbread mix
-        - Dijon mustard
-        - corn
         - King Arthur Pizza Dough Flavor, optional but delicious
         - (227g) sourdough starter, unfed/discard
-        - fresh or frozen baby lima beans
         - fresh okra, cut into ½-inch-thick slices
-        - fresh corn kernels
         - .25 cup thinly sliced fresh basil
         - coffee beans or chocolate shavings
         - aquafaba drained from one 400g tin of chickpeas
@@ -142,26 +136,22 @@ emoji:
         - ground beef, slow cooked
         - ground beef
         - ground
-        - pinto beans
         - star anise ((optional, but recommended))
         - mint leaves (chopped (pudina))
         - lemon juice ((optional))
         - inch cinnamon ((dalchini))
         - fried cashews (for garnish (optional))
         - coriander leaves (chopped (cilantro))
-        - (1 small) potato or beans
         - (1 medium) carrot (chopped (gajar))
         - preserved lemon
         - parsley or cilantro, leaves and tender stems
         - bunch (or 2 small bunches) broccoli rabe or kale, thick stems separated from the leaves
         - Fried or medium-boiled eggs, for serving (optional)
         - low-sodium soy sauce
-        - cherry tomatoes
         - Fresh thyme (optional)
         - pinch of ground nutmeg
         - Granny Smith apples
         - /4 cup (28g) pecans, chopped
-        - tomato sauce
         - dried
         - chopped fresh cilantro (optional, for serving)
         - rhubarb stalks, trimmed and sliced ½-inch thick
@@ -203,7 +193,6 @@ emoji:
         - /8 teaspoon salt
         - /4 teaspoon salt
         - /4 cup (31g) all-purpose flour
-        - crème fraiche
         - mayonnaise
         - /2 cup plus 2 tablespoons to 3/4 cup (141g to 170g) water, lukewarm
         - –8 Tablespoons (90–120g/ml) ice-cold water
@@ -247,11 +236,13 @@ emoji:
         - yogurt
         - vegan mayonnaise
         - vegan mayo
-        - crème fraîche
         - aquafaba
         - buttermilk
     - bacon:
         - vegan bacon
+        - fully cooked uncured applewood smoked bacon
+        - center-cut bacon slices
+        - -3 slices bacon
     - bagel:
         - bagels
     - baguette_bread:
@@ -259,6 +250,9 @@ emoji:
     - banana:
         - best-ever banana bread
     - beans:
+        - fresh or frozen baby lima beans
+        - pinto beans
+        - (1 small) potato or beans
         - fine
         - white
         - green peas ((matar))
@@ -494,6 +488,9 @@ emoji:
         - espresso powder
     - corn:
         - sweet cornbread
+        - cornbread mix
+        - corn
+        - fresh corn kernels
     - cow:
         - espagnole
     - crab:
@@ -586,6 +583,12 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - crème fraiche
+        - crème fraîche
+        - mascarpone
+        - (8 oz) mascarpone
+        - (7.5 oz) crème fraiche
+        - (7.5 oz) crème fraîche
         - /4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
         - /4 cup (180ml) whole milk
         - /2 cup (120ml) heavy cream
@@ -845,6 +848,7 @@ emoji:
     - sandwich:
         - applied grilled cheese
     - seedling:
+        - Dijon mustard
         - sunflower oil
         - yellow onion
         - pumpkin seeds
@@ -900,7 +904,6 @@ emoji:
         - chipotle breakfast tacos
     - takeout_box:
         - (480ml) half-and-half
-        - mascarpone
         - white vinegar
         - pickling
         - (( laung))
@@ -911,9 +914,7 @@ emoji:
         - tamari
         - miso paste
     - tangerine:
-        - center-cut bacon slices
         - vodka
-        - -3 slices bacon
         - lemon zest or 1/8 teaspoon lemon oil
         - okra
         - tangerine
@@ -959,6 +960,8 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - cherry tomatoes
+        - tomato sauce
         - cherry tomatoes, halved
         - tomato ((optional) chopped)
         - to 3 tablespoons harissa or tomato paste

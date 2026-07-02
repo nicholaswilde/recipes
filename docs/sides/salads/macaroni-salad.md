@@ -17,19 +17,19 @@ tags:
 ## :salt: Ingredients
 
 - :egg: 4 eggs
-- :chicken: 1 chicken breast
-- :spaghetti: 1 bag macaroni noodles
+- :stew: 1 chicken breast
+- 1 bag macaroni noodles
 - :salt: 1 tsp salt
 - :garlic: 0.5 tsp garlic powder
-- :onion: 0.75 tsp onion powder
+- :chestnut: 0.75 tsp (2 g) onion powder
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :onion: 0.5 onion
+- :tea: 0.5 onion
 - :leafy_green: 2 stalks celery
-- :cucumber: 0.25 cup pickle relish
-- :egg: 1 cup [mayonnaise][1]
-- :hotdog: 0.5 tsp mustard
-- :salt: some Lawry's seasoned salt
+- :tangerine: 0.25 cup pickle relish
+- 1 cup [mayonnaise][1]
+- :seedling: 0.5 tsp mustard
+- :baby_bottle: some Lawry's seasoned salt
 
 ## :cooking: Cookware
 

@@ -18,16 +18,16 @@ hero: assets/images/easy-stuffed-mushrooms.webp
 
 ## :salt: Ingredients
 
-- :mushroom: 1 pound (454 g) medium cremini or white button mushrooms
-- :olive: 1 Tbsp (14 g) extra-virgin olive oil
+- :mushroom: 1 pound medium cremini or white button mushrooms
+- :olive: 1 Tbsp (12 g) extra-virgin olive oil
 - :garlic: 1 small shallot
-- :garlic: 2 garlic cloves, minced
-- :cheese_wedge: 2 oz (56 g) reduced-fat cream cheese (Neufchâtel)
+- :chestnut: 2 garlic cloves, minced
+- :cheese_wedge: 2 oz (57 g) reduced-fat cream cheese (Neufchâtel)
 - :cheese_wedge: 0.25 cup (25 g) grated Parmesan cheese
-- :herb: 2 Tbsp (5 g) fresh parsley, chopped
+- :herb: 2 Tbsp (19 g) fresh parsley, chopped
 - :salt: 0.25 tsp (1.5 g) salt
-- :salt: 0.25 tsp (0.5 g) freshly ground pepper
-- :bread: 0.25 cup (12.5 g) panko [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :salt: 0.25 tsp (1 g) (0.5 g) freshly ground pepper
+- :bread: 0.25 cup (12 g) (12.5 g) panko [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :olive: cooking spray
 
 ## :cooking: Cookware

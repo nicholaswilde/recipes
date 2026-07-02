@@ -15,22 +15,22 @@ hero: assets/images/tortilla-de-patatas.png
 
 ## :salt: Ingredients
 
-- :onion: 1 medium onion
-- :olive: 3 Tbsp olive oil
+- :tea: 1 medium onion
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 1 tsp salt
 - :sweet_potato: 5 medium russet potatoes
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: 1.5 tsp salt
 - :salt: 0.13 tsp white pepper
-- :egg: 5 large [eggs][2]
-- :olive: 1 tsp olive oil
+- 5 large [eggs][2]
+- :olive: 1 tsp (4 g) olive oil
 - :garlic: 2 cloves garlic
-- :tangerine: 0.5 cup (115 g) lemon juice
-- :honey_pot: 2 tsp honey or sugar
+- :tangerine: 0.5 cup (112 g) lemon juice
+- :candy: 2 tsp (8 g) honey or sugar
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
 - :olive: 0.5 cup (100 g) olive oil
-- :tomato: some oven-dried tomatoes (optional)
+- :herb: some oven-dried tomatoes (optional)
 
 ## :cooking: Cookware
 

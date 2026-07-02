@@ -19,15 +19,15 @@ hero: assets/images/plum-torte.webp
 ## :salt: Ingredients
 
 - :candy: 1 cup (198 g) granulated sugar
-- :butter: 0.5 cup (114 g) unsalted butter
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :dash: 1 tsp baking powder
+- :butter: 0.5 cup (113 g) unsalted butter
+- :bread: 1 cup (120 g) all-purpose flour
+- :chestnut: 1 tsp baking powder
 - :salt: 1 pinch salt
 - :egg: 2 eggs
-- :purple_circle: 5 plums
-- :lemon: some lemon juice
-- :custard: 1 tsp cinnamon
-- :ice_cream: some [whipped cream][2] (optional)
+- :apple: 5 plums
+- :tangerine: some lemon juice
+- :chestnut: 1 tsp (4 g) cinnamon
+- :hot_pepper: some [whipped cream][2] (optional)
 
 ## :cooking: Cookware
 

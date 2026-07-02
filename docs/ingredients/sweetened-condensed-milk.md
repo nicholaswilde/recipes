@@ -16,9 +16,9 @@ hero: assets/images/sweetened-condensed-milk.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2.5 cups whole milk
+- :glass_of_milk: 2.5 cups (568 g) whole milk
 - :candy: 1 cup (198 g) granulated sugar
-- :glass_of_milk: 0.5 cup heavy cream
+- :glass_of_milk: 0.5 cup (114 g) heavy cream
 - :salt: 0.13 tsp salt
 
 ## :cooking: Cookware

@@ -20,12 +20,12 @@ hero: assets/images/simply-perfect-scottish-shortbread.webp
 
 ## :salt: Ingredients
 
-- :page_facing_up: some parchment paper
+- :bread: some parchment paper
 - :bread: 1.5 cups (180 g) all-purpose flour
-- :bread: 0.5 cup (71 g) [white rice flour](../ingredients/rice-flour.md)
+- :baby_bottle: 0.5 cup (99 g) [white rice flour](../ingredients/rice-flour.md)
 - :candy: 0.5 cup (99 g) white granulated sugar
 - :salt: 0.25 tsp fine sea salt
-- :butter: 1 cup (227 g) unsalted butter
+- :butter: 1 cup (226 g) unsalted butter
 
 ## :cooking: Cookware
 

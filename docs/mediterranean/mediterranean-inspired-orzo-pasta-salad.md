@@ -17,21 +17,21 @@ hero: assets/images/mediterranean-inspired-orzo-pasta-salad.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 8 oz orzo
-- :droplet: 0.25 cup pasta water
-- :olive: 2 Tbsp olive oil
-- :tangerine: 2 Tbsp lemon juice
-- :tangerine: 2 tsp lemon zest
+- :ear_of_rice: 8 oz (200 g) orzo
+- :droplet: 0.25 cup (36 g) pasta water
+- :olive: 2 Tbsp (25 g) olive oil
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :tangerine: 2 tsp (9 g) lemon zest
 - :garlic: 0.5 tsp garlic powder
-- :honey_pot: 1 Tbsp maple syrup
-- :herb: 1 tsp Italian herbs
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :herb: 1 tsp (2 g) Italian herbs
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :cheese_wedge: 1 Tbsp nutritional yeast
-- :onion: 0.5 cup red onion
-- :tomato: 1 cup cherry tomatoes
-- :hot_pepper: 0.75 cup bell pepper
-- :olive: 0.75 cup Kalamata olives
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+- :tea: 0.5 cup (105 g) red onion
+- :apple: 1 cup (336 g) cherry tomatoes
+- :hot_pepper: 0.75 cup (106 g) bell pepper
+- :olive: 0.75 cup (106 g) Kalamata olives
 - :leafy_green: 0.5 cup artichoke hearts
 - :herb: 0.25 cup parsley
 - :herb: 0.25 cup basil

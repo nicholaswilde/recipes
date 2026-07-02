@@ -18,8 +18,8 @@ hero: assets/images/sourdough-starter.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4.5 cups (702 g) whole-wheat flour
-- :ear_of_rice: 5 cups (709 g) all-purpose flour
+- :bread: 4.5 cups (508 g) whole-wheat flour
+- :bread: 5 cups (600 g) all-purpose flour
 
 ## :cooking: Cookware
 

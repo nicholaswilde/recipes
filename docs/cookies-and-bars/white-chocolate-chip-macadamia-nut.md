@@ -17,13 +17,13 @@ hero: assets/images/white-chocolate-chip-macadamia-nut.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.75 cup (170 g) butter
+- :butter: 0.75 cup butter
 - :maple_leaf: 1 cup (213 g) brown sugar
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 eggs
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 2.25 cup (270 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
+- :flower_playing_cards: 2 tsp vanilla
+- :bread: 2.25 cup (270 g) all-purpose flour
+- :chestnut: 1 tsp baking soda
 - :salt: 1 tsp salt
 - :chocolate_bar: 1 cup (170 g) white chocolate chips
 - :chestnut: 1 cup (149 g) macadamia nuts

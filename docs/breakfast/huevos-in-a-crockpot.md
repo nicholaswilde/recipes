@@ -16,8 +16,8 @@ hero: assets/images/huevos-in-a-crockpot.webp
 
 ## :salt: Ingredients
 
-- :full_moon: 1 dozen flour tortilla
-- :egg: 1 dozen eggs, cracked and lightly scrambled
+- :flatbread: 1 dozen flour tortilla
+- :salt: 1 dozen eggs, cracked and lightly scrambled
 - :tomato: 1 large bottle salsa
 - :cheese_wedge: 1 lb shredded cheddar cheese
 

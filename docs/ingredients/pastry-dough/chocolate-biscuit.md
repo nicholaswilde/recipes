@@ -21,7 +21,7 @@ hero: assets/images/chocolate-biscuit.webp
 - :candy: 176 g granulated sugar
 - :egg: 319 g (11) egg whites
 - :candy: 176 g granulated sugar
-- :egg: 226 g (11) egg yolks
+- :baby_bottle: 226 g (11) egg yolks
 - :chocolate_bar: 102 g unsweetened cocoa powder
 
 ## :cooking: Cookware

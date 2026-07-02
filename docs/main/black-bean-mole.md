@@ -17,22 +17,22 @@ hero: assets/images/black-bean-mole.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: some canola oil
-- :banana: 1 very ripe plantain
-- :tomato: 5 tomatillos
-- :onion: 1 onion
-- :tomato: 1 Roma or plum tomato
+- :droplet: some canola oil
+- :tomato: 1 very ripe plantain
+- 5 tomatillos
+- :tea: 1 onion
+- :apple: 1 Roma or plum tomato
 - :garlic: 4 cloves garlic
-- :chestnut: 2 tsp sesame seeds
-- :custard: 1 small cinnamon stick
-- :herb: 1 clove
-- :herb: 0.25 tsp cumin seeds
+- :seedling: 2 tsp (6 g) sesame seeds
+- :chestnut: 1 small cinnamon stick
+- :garlic: 1 clove
+- :chestnut: 0.25 tsp cumin seeds
 - :hot_pepper: 2 dried pasilla chiles
 - :hot_pepper: 1 dried New Mexico chiles
 - :hot_pepper: 1 dried ancho chiles
-- :herb: 1 tsp fresh oregano leaves
-- :chocolate_bar: 0.25 oz disk stone-ground Mexican dark chocolate
-- :canned_food: 2 cups [black beans][2]
+- :herb: 1 tsp (3 g) fresh oregano leaves
+- :chestnut: 0.25 oz (7 g) disk stone-ground Mexican dark chocolate
+- 2 cups [black beans][2]
 - :salt: some salt
 - :droplet: some water
 

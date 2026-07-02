@@ -16,17 +16,17 @@ hero: assets/images/enchilada-sauce.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 Tbsp all-purpose flour
-- :hot_pepper: 0.25 tsp chili powder
-- :herb: 1 tsp cumin
+- :bread: 3 Tbsp (22 g) all-purpose flour
+- :hot_pepper: 0.25 tsp (1 g) chili powder
+- :chestnut: 1 tsp (3 g) cumin
 - :garlic: 0.5 tsp garlic powder
 - :herb: 0.25 tsp oregano
 - :salt: 0.25 tsp salt
-- :custard: 1 pinch cinnamon (optional)
-- :tomato: 2 Tbsp [Tomato Paste](../../ingredients/tomato-paste.md)
-- :stew: 2 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :olive: 3 Tbsp olive oil
-- :sake: 1 tsp apple cider or distilled white vinegar
+- :chestnut: 1 pinch cinnamon (optional)
+- 2 Tbsp [Tomato Paste](../../ingredients/tomato-paste.md)
+- 2 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :olive: 3 Tbsp (38 g) olive oil
+- :apple: 1 tsp (2 g) apple cider or distilled white vinegar
 - :salt: some black pepper
 
 ## :cooking: Cookware

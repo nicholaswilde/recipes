@@ -19,21 +19,21 @@ hero: assets/images/overnight-oats.webp
 
 === ":ear_of_rice: 0.5 cup old fashioned rolled oats"
 
-    - :seedling: 1 Tbsp chia seeds
-    - :chestnut: 0.5 cup almond or coconut milk
+    - :seedling: 1 Tbsp (9 g) chia seeds
+    - :coconut: 0.5 cup (57 g) almond or coconut milk
 
 === "Optional Add-Ins"
 
     - :chestnut: some chopped nuts (almonds, walnuts, pistachios, pecans, etc.)
-    - :butter: some nut butters (peanut butter, almond butter, etc.)
-    - :peach: some dried fruits
-    - :banana: some fresh fruit
-    - :custard: - some cinnamon
-    - :icecream: some vanilla
+    - :chestnut: some nut butters (peanut butter, almond butter, etc.)
+    - :apple: some dried fruits
+    - :herb: some fresh fruit
+    - :chestnut: - some cinnamon
+    - :flower_playing_cards: some vanilla
     - :chocolate_bar: some cocoa powder
-    - :coconut: some unsweetened dried coconut flakes
-    - :apple: some unsweetened applesauce
-    - :jack_o_lantern: some canned pumpkin
+    - :hot_pepper: some unsweetened dried coconut flakes
+    - :chocolate_bar: some unsweetened applesauce
+    - :melon: some canned pumpkin
 
 ## :pencil: Instructions
 

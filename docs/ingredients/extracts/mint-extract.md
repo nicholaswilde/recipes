@@ -17,8 +17,8 @@ hero: assets/images/mint-extract.webp
 
 ## :salt: Ingredients
 
-- :shamrock: 0.5 cup mint leaves
-- :sake: 2 oz vodka
+- :herb: 0.5 cup mint leaves
+- :tangerine: 2 oz vodka
 
 ## :cooking: Cookware
 

@@ -18,15 +18,15 @@ hero: assets/images/almond-cookies.webp
 ## :salt: Ingredients
 
 - :bread: 3 cups (360 g) All-purpose flour
-- :chestnut: 1 tsp (6 g) Baking soda
-- :salt: 1/2 tsp (3 g) Salt
+- :chestnut: 1 tsp Baking soda
+- :salt: 1/2 tsp Salt
 - :chestnut: 1 cup (142 g) Blanched almonds, divided
 - :candy: 1 cup (198 g) Granulated sugar
-- :butter: 1 1/2 cups (339 g) Lard (or 1 1/2 cups (276 g) :olive: Vegetable shortening)
-- :flower_playing_cards: 1 tsp (5 g) Almond extract
+- :baby_bottle: 1 1/2 cups Lard (or 1 1/2 cups :olive: Vegetable shortening)
+- :flower_playing_cards: 1 tsp (6 g) Almond extract
 - :egg: 1 large Egg
-- :droplet: 1/8 cup (30 g) Water
-- :egg: 1 large Egg, beaten (for egg wash)
+- :droplet: 1/8 cup (28 g) Water
+- :baby_bottle: 1 large Egg, beaten (for egg wash)
 
 ## :cooking: Cookware
 

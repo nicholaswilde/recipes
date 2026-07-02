@@ -20,15 +20,15 @@ hero: assets/images/mini-cranberry-tarts.webp
 ## :salt: Ingredients
 
 - :bread: 1.5 cups (180 g) all-purpose flour
-- :candy: 0.5 cup (57 g) confectioners' sugar
+- :candy: 0.5 cup (56 g) confectioners' sugar
 - :salt: 0.25 tsp salt
 - :butter: 9 Tbsp (127 g) unsalted butter
-- :egg: 1 (20 g) large egg yolk
+- :egg: 1 large egg yolk
 - :apple: 2.5 Tbsp (53 g) chunky jam
-- :egg: 2 (60 g) large egg whites
+- :egg: 2 large egg whites
 - :salt: some salt
-- :candy: 0.5 cup (99 g) sugar
-- :apple: 1.5 cups (149 g) fresh cranberries
+- :candy: 0.5 cup (78 g) sugar
+- :apple: 1.5 cups (148 g) fresh cranberries
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

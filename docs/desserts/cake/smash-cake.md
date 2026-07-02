@@ -19,23 +19,23 @@ hero: assets/images/smash-cake.webp
 
 === "Cake"
 
-    - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-    - :dash: 2 tsp baking powder
+    - :bread: 2.25 cups (270 g) all-purpose flour
+    - :chestnut: 2 tsp baking powder
     - :salt: 0.5 tsp salt
     - :butter: 0.75 cup (170 g) unsalted butter
-    - :maple_leaf: 0.75 cup (234 g) maple syrup
-    - :apple: 0.5 cup (128 g) applesauce
+    - :honey_pot: 0.75 cup (234 g) maple syrup
+    - 0.5 cup (128 g) applesauce
     - :egg: 2 large eggs
-    - :glass_of_milk: 0.33 cup milk
-    - :icecream: 1 tsp vanilla
+    - :glass_of_milk: 0.33 cup (75 g) milk
+    - :flower_playing_cards: 1 tsp vanilla
 
 === "Frosting"
 
-    - :cheese_wedge: 16 oz cream cheese
-    - :microbe: 0.5 cup (114 g) plain whole milk Greek yogurt
-    - :maple_leaf: 0.33 cup (103 g) maple syrup
-    - :icecream: 1 tsp vanilla
-    - :strawberry: 0.25 cup freeze-dried strawberry
+    - :cheese_wedge: 16 oz (454 g) cream cheese
+    - :glass_of_milk: 0.5 cup (50 g) plain whole milk Greek yogurt
+    - :honey_pot: 0.33 cup (103 g) maple syrup
+    - :flower_playing_cards: 1 tsp vanilla
+    - :chestnut: 0.25 cup (32 g) freeze-dried strawberry
 
 ## :cooking: Cookware
 

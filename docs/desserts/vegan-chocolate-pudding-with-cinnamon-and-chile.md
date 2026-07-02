@@ -20,25 +20,25 @@ hero: assets/images/vegan-chocolate-pudding-with-cinnamon-and-chile.webp
 
 === "serves 6 (1 lb Tofu)"
 
-    - :candy: 0.75 cup sugar
-    - :droplet: 0.75 cup water
-    - :butter: 1 lb silken tofu
-    - :chocolate_bar: 8 oz semi-sweet chocolate
-    - :ice_cream: 1 tsp vanilla
-    - :custard: 1.5 tsp ground cinnamon
-    - :hot_pepper: 0.5 tsp chili powder
-    - :chocolate_bar: some chocolate shavings
+    - :candy: 0.75 cup (117 g) sugar
+    - :droplet: 0.75 cup (170 g) water
+    - :cheese_wedge: 1 lb silken tofu
+    - :chestnut: 8 oz (112 g) semi-sweet chocolate
+    - :flower_playing_cards: 1 tsp vanilla
+    - :chestnut: 1.5 tsp (4 g) ground cinnamon
+    - :hot_pepper: 0.5 tsp (1 g) chili powder
+    - :apple: some chocolate shavings
 
 === "serves 4 (12 oz Tofu)"
 
-    - :candy: 0.5 cup + 1 Tbsp sugar
-    - :droplet: 0.5 cup + 1 Tbsp water
-    - :butter: 12 oz silken tofu
-    - :chocolate_bar: 6 oz semi-sweet chocolate
-    - :ice_cream: 0.75 tsp vanilla
-    - :custard: 1-1/8 tsp ground cinnamon
-    - :hot_pepper: 3/8 tsp chili powder
-    - :chocolate_bar: some chocolate shavings
+    - :candy: 0.5 cup (100 g) + 1 Tbsp sugar
+    - :baby_bottle: 0.5 cup (114 g) + 1 Tbsp water
+    - :cheese_wedge: 12 oz silken tofu
+    - :chestnut: 6 oz (84 g) semi-sweet chocolate
+    - :flower_playing_cards: 0.75 tsp vanilla
+    - :bread: 1-1/8 tsp ground cinnamon
+    - :hot_pepper: 3/8 tsp (1 g) chili powder
+    - :apple: some chocolate shavings
 
 ## :cooking: Cookware
 

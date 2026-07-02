@@ -19,16 +19,16 @@ hero: assets/images/pecan-tassies.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup (113 g) unsalted butter (softened)
-- :cheese_wedge: 3 oz (85 g) cream cheese (softened)
+- :baby_bottle: 0.5 cup (113 g) unsalted butter (softened)
+- :birthday: 3 oz (85 g) cream cheese (softened)
 - :bread: 1 cup (120 g) all-purpose flour
 - :salt: 0.13 tsp salt
-- :egg: 1 large (50 g) egg
+- :egg: 1 large egg
 - :candy: 0.75 cup (160 g) light brown sugar (firmly packed)
-- :butter: 1 Tbsp (14 g) unsalted butter (melted)
-- :flower_playing_cards: 1 tsp (4 g) vanilla extract
+- :baby_bottle: 1 Tbsp (14 g) unsalted butter (melted)
+- :flower_playing_cards: 1 tsp vanilla extract
 - :salt: some salt
-- :chestnut: 1 cup (99 g) finely chopped pecans
+- :chestnut: 1 cup (114 g) finely chopped pecans
 
 ## :cooking: Cookware
 

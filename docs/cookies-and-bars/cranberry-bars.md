@@ -19,24 +19,24 @@ hero: assets/images/cranberry-bars.webp
 
 === "Crust & Topping"
 
-    - :ear_of_rice: 375 g all-purpose flour
+    - :bread: 375 g all-purpose flour
     - :candy: 200 g granulated sugar
-    - :dash: 1 tsp baking powder
+    - :chestnut: 1 tsp baking powder
     - :salt: 0.25 tsp salt
-    - :custard: 1 tsp cinnamon
-    - :butter: 226 g cold cubed unsalted butter
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :glass_of_milk: 226 g cold cubed unsalted butter
     - :egg: 1 large egg
     - :glass_of_milk: 60 g milk
-    - :icecream: 2 tsp vanilla
+    - :flower_playing_cards: 2 tsp vanilla
 
 === "Filling"
 
-    - :cherries: 400 g fresh or frozen cranberries
+    - :apple: 400 g fresh or frozen cranberries
     - :candy: 150 g granulated sugar
-    - :corn: 1 Tbsp cornstarch
-    - :tangerine: 2 tsp orange zest
+    - :chestnut: 1 Tbsp (7 g) cornstarch
+    - :tangerine: 2 tsp (4 g) orange zest
     - :tangerine: 15 g fresh orange juice
-    - :chestnut: 30 g sliced almonds (optional)
+    - :apple: 30 g sliced almonds (optional)
 
 === "Icing"
 

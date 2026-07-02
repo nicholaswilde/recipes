@@ -17,14 +17,14 @@ hero: assets/images/egg-salad-sandwich.webp
 ## :salt: Ingredients
 
 - :leafy_green: 2 hearts celery
-- :onion: 0.25 cup onion or shallot
-- :sake: 1 Tbsp champagne vinegar
+- :tea: 0.25 cup (24 g) onion or shallot
+- :wine_glass: 1 Tbsp champagne vinegar
 - :egg: 8 hard-boiled egg
-- :microbe: 2 Tbsp Greek yogurt
-- :hotdog: 1 Tbsp yellow mustard
-- :egg: 1 Tbsp mayonnaise
-- :seedling: 1 tsp dill
-- :seedling: 1 tsp chives
+- :glass_of_milk: 2 Tbsp (28 g) Greek yogurt
+- :seedling: 1 Tbsp (10 g) yellow mustard
+- :baby_bottle: 1 Tbsp (14 g) mayonnaise
+- :apple: 1 tsp dill
+- 1 tsp (1 g) chives
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
 

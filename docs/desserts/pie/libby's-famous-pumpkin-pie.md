@@ -19,18 +19,18 @@ hero: assets/images/libby's-famous-pumpkin-pie.webp
 ## :salt: Ingredients
 
 - :candy: 0.75 cup (148 g) granulated sugar
-- :custard: 1 tsp cinnamon
+- :chestnut: 1 tsp (4 g) cinnamon
 - :salt: 0.5 tsp salt
-- :sweet_potato: 0.5 tsp ginger
-- :chestnut: 0.25 tsp nutmeg
-- :jack_o_lantern: 0.25 tsp pumpkin pie spice
-- :four_leaf_clover: 0.25 tsp cloves
+- :sweet_potato: 0.5 tsp (2 g) ginger
+- :apple: 0.25 tsp nutmeg
+- :chestnut: 0.25 tsp (1 g) pumpkin pie spice
+- :chestnut: 0.25 tsp cloves
 - :egg: 2 eggs
-- :jack_o_lantern: 1 15-oz can pumpkin
+- :chestnut: 1 15-oz can pumpkin
 - :glass_of_milk: 1 12-oz can [evaporated milk][4]
-- :pie: 1 [pie shell][2]
-- :chestnut: some fresh nutmeg
-- :icecream: some [whipped cream][3]
+- 1 [pie shell][2]
+- :sweet_potato: some fresh nutmeg
+- some [whipped cream][3]
 
 ## :cooking: Cookware
 

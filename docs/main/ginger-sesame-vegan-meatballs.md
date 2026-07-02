@@ -19,26 +19,26 @@ hero: assets/images/ginger-sesame-vegan-meatballs.webp
 
 === "Meatballs"
 
-    - :mushroom: 8 oz mushrooms
-    - :onion: 0.5 cup chopped onion
-    - :canned_food: 1 can [black beans][1]
+    - :mushroom: 8 oz (78 g) mushrooms
+    - :seedling: 0.5 cup (48 g) chopped onion
+    - 1 can [black beans][1]
     - :garlic: 4 cloves garlic
-    - :onion: 3 stalks green onion
-    - :sweet_potato: 2.5 Tbsp ginger
+    - :beans: 3 stalks green onion
+    - :sweet_potato: 2.5 Tbsp (23 g) ginger
     - :takeout_box: 2 Tbsp tamari
-    - :bread: 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
-    - :seedling: 1 Tbsp flaxseed meal
-    - :droplet: 3 Tbsp water
-    - :olive: 1 Tbsp toasted sesame oil
+    - 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
+    - 1 Tbsp (5 g) flaxseed meal
+    - :droplet: 3 Tbsp (43 g) water
+    - :olive: 1 Tbsp (5 g) toasted sesame oil
 
 === "Glaze"
 
     - :takeout_box: 0.25 cup tamari
-    - :honey_pot: 2 Tbsp maple syrup
-    - :sweet_potato: 1 Tbsp ginger
+    - :honey_pot: 2 Tbsp (39 g) maple syrup
+    - :sweet_potato: 1 Tbsp (9 g) ginger
     - :garlic: 1 clove garlic
-    - :olive: 1 tsp toasted sesame oil
-    - :hot_pepper: 1 tsp sriracha
+    - :olive: 1 tsp (2 g) toasted sesame oil
+    - 1 tsp sriracha
 
 ## :cooking: Cookware
 

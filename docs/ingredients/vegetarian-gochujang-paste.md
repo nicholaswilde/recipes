@@ -16,10 +16,10 @@ hero: assets/images/vegetarian-gochujang-paste.webp
 ## :salt: Ingredients
 
 - :droplet: 1/2 cup (114 g) water
-- :ear_of_rice: 1/2 cup (64 g) brown rice syrup (or maple syrup)
+- :honey_pot: 1/2 cup (85 g) brown rice syrup (or maple syrup)
 - :takeout_box: 1/2 cup (144 g) red miso paste
 - :hot_pepper: 1/2 cup (54 g) gochugaru (Korean chili flakes/powder)
-- :takeout_box: 2 Tbsp (18 g) soy sauce (or tamari)
+- :apple: 2 Tbsp (28 g) soy sauce (or tamari)
 - :wine_glass: 1 tsp (1 g) rice vinegar
 
 ## :cooking: Cookware

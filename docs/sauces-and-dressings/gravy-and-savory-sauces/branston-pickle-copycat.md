@@ -15,28 +15,28 @@ tags:
 ## :salt: Ingredients
 
 - 1.5 cups swede/rutabaga
-- 1.5 cups carrots
-- 1 cup cauliflower
-- 1 cup yellow onion
-- 1 Granny Smith or other tart apple
-- 3 ounces pitted Medjool dates
-- 2 Tbsp lemon juice
-- 1 cup dark brown sugar
-- 1 cup malt vinegar
-- 0.25 cup spirit vinegar or Essig Essenz
-- 1 Tbsp Worcestershire sauce
-- 2 tsp concentrated tomato paste
-- 1 tsp black treacle or molasses
-- 1.5 tsp kosher or sea salt
-- 0.5 tsp onion powder
-- 0.25 tsp garlic powder
-- 0.25 tsp ground mustard
-- 0.25 tsp ground coriander
-- 0.13 tsp ground allspice
-- 0.13 tsp ground ginger
-- 0.06 tsp ground cloves
-- 2 tsp cornstarch
-- 2 tsp Ball Realfruit Classic Pectin
+- :carrot: 1.5 cups (213 g) carrots
+- :broccoli: 1 cup (100 g) cauliflower
+- :seedling: 1 cup (96 g) yellow onion
+- :green_apple: 1 Granny Smith or other tart apple
+- :grapes: 3 ounces (56 g) pitted Medjool dates
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :candy: 1 cup (213 g) dark brown sugar
+- :wine_glass: 1 cup malt vinegar
+- :wine_glass: 0.25 cup spirit vinegar or Essig Essenz
+- :apple: 1 Tbsp (14 g) Worcestershire sauce
+- :tomato: 2 tsp (10 g) concentrated tomato paste
+- :hot_pepper: 1 tsp (4 g) black treacle or molasses
+- :salt: 1.5 tsp kosher or sea salt
+- :chestnut: 0.5 tsp (1 g) onion powder
+- :garlic: 0.25 tsp garlic powder
+- :chestnut: 0.25 tsp (1 g) ground mustard
+- :chestnut: 0.25 tsp ground coriander
+- :apple: 0.13 tsp ground allspice
+- :sweet_potato: 0.13 tsp ground ginger
+- :chestnut: 0.06 tsp ground cloves
+- :chestnut: 2 tsp (5 g) cornstarch
+- :orange_circle: 2 tsp Ball Realfruit Classic Pectin
 
 ## :cooking: Cookware
 

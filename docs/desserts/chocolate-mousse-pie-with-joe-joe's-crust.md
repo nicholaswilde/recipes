@@ -15,13 +15,13 @@ hero: assets/images/chocolate-mousse-pie-with-joe-joe's-crust.webp
 
 ## :salt: Ingredients
 
-- :cookie: 25 Joe-Joe's cookies
-- :butter: 4 Tbsp melted butter
-- :chestnut: 8 oz dark chocolate
+- :bread: 25 Joe-Joe's cookies
+- :glass_of_milk: 4 Tbsp (68 g) melted butter
+- :chestnut: 8 oz (170 g) dark chocolate
 - :butter: 4 Tbsp butter
-- :egg: 4 egg yolks
-- :egg: 4 egg whites
-- :candy: 0.25 cup sugar
+- :baby_bottle: 4 egg yolks
+- :beans: 4 egg whites
+- :candy: 0.25 cup (39 g) sugar
 
 ## :cooking: Cookware
 

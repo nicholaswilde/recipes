@@ -20,18 +20,18 @@ hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.webp
 ## :salt: Ingredients
 
 - :olive: 0.25 cup (50 g) olive oil
-- :garlic: 4 garlic cloves
-- :onion: 1 (142 g) large yellow onion
+- :chestnut: 4 garlic cloves
+- :seedling: 1 large yellow onion
 - :sweet_potato: some ginger
 - :salt: some Kosher salt
 - :salt: some black pepper
-- :curry: 1.5 tsp ground turmeric
-- :hot_pepper: 1 tsp red-pepper flakes
-- :beans: 2 15-ounce cans (850 g) chickpeas
+- :curry: 1.5 tsp (4 g) ground turmeric
+- :hot_pepper: 1 tsp (4 g) red-pepper flakes
+- :glass_of_milk: 2 15-ounce cans chickpeas
 - :coconut: 2 15-ounce cans (800 ml) full-fat coconut milk
-- :stew: 2 cups (454 g) vegetable stock
+- :stew: 2 cups (396 g) vegetable stock
 - :leafy_green: 1 bunch Swiss chard, kale, or collard greens
-- :herb: 1 cup (20 g) fresh mint leaves
+- :herb: 1 cup fresh mint leaves
 - :baby_bottle: some yogurt
 - :bread: some pita
 

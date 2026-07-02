@@ -15,9 +15,9 @@ hero: assets/images/chocolate-truffles.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 18 oz semi-sweet chocolate chips
+- :chestnut: 18 oz (382 g) semi-sweet chocolate chips
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
-- :icecream: 1 Tbsp vanilla
+- :flower_playing_cards: 1 Tbsp vanilla
 
 ## :cooking: Cookware
 

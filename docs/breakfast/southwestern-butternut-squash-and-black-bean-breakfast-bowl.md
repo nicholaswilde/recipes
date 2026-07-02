@@ -19,32 +19,32 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 
 === "Squash"
 
-    - :sweet_potato: 3 cups butternut squash
-    - :oil_drum: 1 Tbsp vegetable oil
+    - 3 cups butternut squash
+    - :olive: 1 Tbsp (12 g) vegetable oil
     - :salt: 0.5 tsp salt
     - :salt: 0.5 tsp pepper
     - :garlic: 0.13 tsp garlic powder
 
 === "Beans"
 
-    - :canned_food: 1 15-oz can [black beans][3]
-    - :taco: 0.25 cup [enchilada sauce][2]
+    - :glass_of_milk: 1 15-oz can [black beans][3]
+    - 0.25 cup [enchilada sauce][2]
 
 === "Veggies"
 
-    - :oil_drum: 0.5 Tbsp vegetable oil
+    - :olive: 0.5 Tbsp (6 g) vegetable oil
     - :hot_pepper: 0.25 tsp red pepper flakes (optional)
     - :leafy_green: 5 cups baby spinach
 
 === "Eggs"
 
-    - :oil_drum: 0.5 Tbsp vegetable oil
+    - :olive: 0.5 Tbsp (6 g) vegetable oil
     - :egg: 4 eggs
     - :salt: 0.13 tsp salt
 
 === "For Serving"
 
-    - :taco: 0.25 cup [enchilada sauce][2]
+    - 0.25 cup [enchilada sauce][2]
 
 ## :cooking: Cookware
 

@@ -17,16 +17,16 @@ hero: assets/images/brussels-sprouts-with-warm-honey-glaze.webp
 ## :salt: Ingredients
 
 - :leafy_green: 1.5 lb Brussels sprouts
-- :olive: 0.25 cup olive oil
+- :olive: 0.25 cup (50 g) olive oil
 - :salt: 0.5 tsp salt
 - :salt: some pepper
 - :honey_pot: 0.25 cup honey
-- :sake: 0.33 cup red wine or sherry vinegar
-- :hot_pepper: 0.75 tsp red pepper flakes (optional)
+- :wine_glass: 0.33 cup (61 g) red wine or sherry vinegar
+- :hot_pepper: 0.75 tsp (1 g) red pepper flakes (optional)
 - :butter: 3 Tbsp butter
 - :salt: 0.5 tsp salt
-- :onion: 3 scallions
-- :lemon: 1 tsp lemon zest
+- :tea: 3 scallions
+- :tangerine: 1 tsp (5 g) lemon zest
 
 ## :cooking: Cookware
 

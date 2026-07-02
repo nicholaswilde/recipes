@@ -17,8 +17,8 @@ hero: assets/images/yogurt.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 7.5 cups ultra-pasteurized whole, 2 percent low-fat, 1 percent low-fat, or skim milk
-- :microbe: 0.5 cup (114 g) plain yogurt
+- :glass_of_milk: 7.5 cups (750 g) ultra-pasteurized whole, 2 percent low-fat, 1 percent low-fat, or skim milk
+- :bread: 0.5 cup (114 g) plain yogurt
 - :droplet: 5 quarts water
 
 ## :cooking: Cookware

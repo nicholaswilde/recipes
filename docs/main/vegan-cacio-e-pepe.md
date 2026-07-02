@@ -20,14 +20,14 @@ hero: assets/images/vegan-cacio-e-pepe.webp
 ## :salt: Ingredients
 
 - :bread: 400 g spaghetti
-- :droplet: 1 cup (227 g) reserved pasta water
+- :droplet: 1 cup (145 g) reserved pasta water
 - :olive: 2 Tbsp (25 g) olive oil
 - :hot_pepper: 1 pinch chili flakes
-- :onion: 0.5 onion, diced
-- :garlic: 2 garlic cloves, minced
+- :tea: 0.5 onion, diced
+- :chestnut: 2 garlic cloves, minced
 - :mushroom: 4 shiitake mushrooms, sliced
 - :mushroom: 4 cremini mushrooms, sliced
-- :butter: 3 Tbsp (42 g) vegan butter
+- :butter: 3 Tbsp (51 g) vegan butter
 - :takeout_box: 1 Tbsp (18 g) miso paste
 - :cheese_wedge: 0.5 cup (50 g) vegan parmesan, grated
 - :salt: some freshly cracked black pepper

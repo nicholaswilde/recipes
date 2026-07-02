@@ -18,13 +18,13 @@ hero: assets/images/dreamy-cream-scones.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 280 g all-purpose flour
-- :dash: 1 Tbsp baking powder
-- :candy: 3 Tbsp granulated sugar
+- :bread: 280 g all-purpose flour
+- :chestnut: 1 Tbsp baking powder
+- :candy: 3 Tbsp (37 g) granulated sugar
 - :salt: 0.5 tsp salt
-- :butter: 5 Tbsp cold unsalted butter
-- :cherries: 80 g currants or dried cranberries
-- :icecream: 1 cup heavy cream
+- :glass_of_milk: 5 Tbsp (71 g) cold unsalted butter
+- :herb: 80 g currants or dried cranberries
+- :glass_of_milk: 1 cup (227 g) heavy cream
 
 ## :cooking: Cookware
 

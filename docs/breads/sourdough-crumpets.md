@@ -17,10 +17,10 @@ hero: assets/images/sourdough-crumpets.webp
 
 ## :salt: Ingredients
 
-- :microbe: 227 g [sourdough starter][2]
-- :candy: 1 tsp granulated sugar
+- 227 g [sourdough starter][2]
+- :candy: 1 tsp (4 g) granulated sugar
 - :salt: 0.5 tsp salt
-- :cup_with_straw: 0.38 tsp baking soda
+- :chestnut: 0.38 tsp baking soda
 
 ## :cooking: Cookware
 

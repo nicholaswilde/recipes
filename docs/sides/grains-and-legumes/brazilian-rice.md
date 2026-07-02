@@ -17,13 +17,13 @@ hero: assets/images/brazilian-rice.webp
 
 ## :salt: Ingredients
 
-- :rice: 1 cup long-grain rice
-- :olive: 0.25 cup olive oil
-- :onion: 1 onion
+- :bread: 1 cup (198 g) long-grain rice
+- :olive: 0.25 cup (50 g) olive oil
+- :tea: 1 onion
 - :garlic: 3 cloves garlic
-- :droplet: 2 cups water
+- :droplet: 2 cups (454 g) water
 - :salt: 0.25 tsp salt
-- :herb: some cilantro (optional)
+- :apple: some cilantro (optional)
 
 ## :cooking: Cookware
 

@@ -4,6 +4,7 @@ tags:
   - dessert
   - cake
 ---
+
 # Boston Cream Pie
 
 ![Boston Cream Pie][1]{ loading=lazy }
@@ -214,4 +215,3 @@ Cover leftover cake tightly and store in the refrigerator for 5 days.
 - <https://sallysbakingaddiction.com/boston-cream-pie/>
 
 [1]: <../../assets/images/boston-cream-pie.webp>
-

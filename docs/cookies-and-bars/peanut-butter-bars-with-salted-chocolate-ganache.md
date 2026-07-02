@@ -17,14 +17,14 @@ hero: assets/images/peanut-butter-bars-with-salted-chocolate-ganache.webp
 
 ## :salt: Ingredients
 
-- :candy: 1.5 cups (297 g) confectioners' sugar
-- :cookie: 1.5 cups graham cracker crumbs
-- :peanuts: 1 cup (135 g) creamy peanut butter
+- :candy: 1.5 cups (170 g) confectioners' sugar
+- :bread: 1.5 cups (148 g) graham cracker crumbs
+- :chestnut: 1 cup (270 g) creamy peanut butter
 - :salt: 0.13 tsp salt
-- :butter: 8 Tbsp melted butter
-- :chocolate_bar: 8 oz semisweet baking chocolate
+- :glass_of_milk: 8 Tbsp (136 g) melted butter
+- :bread: 8 oz (170 g) semisweet baking chocolate
 - :salt: 0.13 tsp salt
-- :glass_of_milk: 1 cup heavy cream
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :salt: 1 tsp flaky sea salt
 
 ## :cooking: Cookware

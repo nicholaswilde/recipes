@@ -18,14 +18,14 @@ hero: assets/images/brown-sugar-and-spice-roasted-carrots.webp
 ## :salt: Ingredients
 
 - :carrot: 1.5 lbs thin carrots
-- :olive: 2 Tbsp olive oil
-- :maple_leaf: 2 Tbsp dark brown sugar
-- :hot_pepper: 0.5 tsp paprika
-- :herb: 0.5 tsp cumin
+- :olive: 2 Tbsp (25 g) olive oil
+- :candy: 2 Tbsp (27 g) dark brown sugar
+- :candy: 0.5 tsp paprika
+- :chestnut: 0.5 tsp (2 g) cumin
 - :salt: 0.5 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 - :hot_pepper: 0.13 tsp cayenne
-- :herb: 1 Tbsp dill
+- :apple: 1 Tbsp dill
 
 ## :cooking: Cookware
 

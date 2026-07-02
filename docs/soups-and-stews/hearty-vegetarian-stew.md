@@ -18,19 +18,19 @@ hero: assets/images/hearty-vegetarian-stew.webp
 ## :salt: Ingredients
 
 - :olive: some vegetable oil
-- :sweet_potato: 2 lbs butternut squash
+- 2 lbs butternut squash
 - :salt: some salt
 - :salt: some pepper
-- :ear_of_rice: 2 Tbsp flour
-- :onion: 1 yellow onions
-- :herb: 1 Tbsp fresh thyme
+- :bread: 2 Tbsp (12 g) flour
+- :tea: 1 yellow onions
+- :apple: 1 Tbsp fresh thyme
 - :garlic: 4 cloves garlic
 - :wine_glass: 1 cup Marsala wine
 - :mushroom: 0.5 lb mushrooms
-- :canned_food: 1 cup red kidney beans
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :stew: 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
-- :leafy_green: 2 Tbsp parsley
+- :wine_glass: 1 cup (210 g) red kidney beans
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware
 

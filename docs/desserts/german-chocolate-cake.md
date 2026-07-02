@@ -15,29 +15,29 @@ hero: assets/images/german-chocolate-cake.webp
 
 ## :salt: Ingredients
 
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :bread: some all-purpose flour
-- :chocolate_bar: 0.75 cup unsweetened cocoa powder
+- :chocolate_bar: 0.75 cup (63 g) unsweetened cocoa powder
 - :chestnut: some baking powder
 - :chestnut: some baking soda
 - :salt: 1 tsp salt
 - :egg: 2 large eggs
-- :baby_bottle: 1 cup [buttermilk](../ingredients/buttermilk.md)
-- :droplet: 0.5 cup vegetable or canola oil
+- :icecream: 1 cup [buttermilk](../ingredients/buttermilk.md)
+- :carrot: 0.5 cup (99 g) vegetable or canola oil
 - :flower_playing_cards: 2 tsp vanilla extract
-- :droplet: 1 cup boiling water
-- :candy: 0.5 cup light brown sugar
-- :candy: 0.5 cup granulated sugar
+- :droplet: 1 cup (227 g) boiling water
+- :candy: 0.5 cup (106 g) light brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :butter: 0.5 cup butter
 - :egg: 3 large egg yolks
-- :glass_of_milk: 0.75 cup [evaporated milk][2]
+- 0.75 cup [evaporated milk][2]
 - :flower_playing_cards: 1 Tbsp vanilla extract
-- :chestnut: 1 cup chopped pecans
-- :coconut: 1 cup shredded sweetened coconut
+- :chestnut: 1 cup (114 g) chopped pecans
+- :coconut: 1 cup (85 g) shredded sweetened coconut
 - :butter: 0.5 cup butter
-- :chocolate_bar: 0.67 cup unsweetened cocoa powder
-- :candy: 3 cups powdered sugar
-- :glass_of_milk: 0.33 cup [evaporated milk][2]
+- :chocolate_bar: 0.67 cup (56 g) unsweetened cocoa powder
+- :candy: 3 cups (600 g) powdered sugar
+- 0.33 cup [evaporated milk][2]
 - :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware

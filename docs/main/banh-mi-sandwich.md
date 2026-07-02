@@ -19,12 +19,12 @@ hero: assets/images/banh-mi-sandwich.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 16-oz pkg extra firm tofu
-- :garlic: 1 cup [garlic aioli][1]
-- :carrot: 2 cups [pickled carrot and daikon][2]
+- :cheese_wedge: 1 16-oz pkg extra firm tofu
+- 1 cup [garlic aioli][1]
+- :cupcake: 2 cups [pickled carrot and daikon][2]
 - :cucumber: 4 asian cucumber
 - :herb: 1 handful cilantro
-- :baguette_bread: 6 french bread
+- :star: 6 french bread
 
 ## :cooking: Cookware
 

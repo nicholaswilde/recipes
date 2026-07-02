@@ -20,28 +20,28 @@ hero: assets/images/consumer-union-chocolate-chip-cookies.webp
 
 === "Half Batch"
 
-    - :candy: 0.375 cup (75 g) granulated sugar
-    - :maple_leaf: 0.375 cup (80 g) [light brown sugar](../ingredients/brown-sugar.md)
+    - :candy: 0.375 cup (74 g) granulated sugar
+    - :candy: 0.375 cup (80 g) [light brown sugar](../ingredients/brown-sugar.md)
     - :egg: 1 egg
-    - :butter: 1 stick (113 g) unsalted butter
-    - :icecream: 0.5 tsp vanilla
-    - :ear_of_rice: 1.125 cups (135 g) all-purpose flour
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :butter: 1 stick unsalted butter
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :bread: 1.125 cups (135 g) all-purpose flour
+    - :chestnut: 0.5 tsp baking soda
     - :salt: 0.5 tsp salt
-    - :chocolate_bar: 0.5 12 oz pkg (170 g) semi-sweet chocolate chips
+    - :chestnut: 0.5 12 oz pkg semi-sweet chocolate chips
     - :chestnut: some walnuts
 
 === "Full Batch"
 
-    - :candy: 0.75 cup (149 g) granulated sugar
-    - :maple_leaf: 0.75 cup (160 g) [light brown sugar](../ingredients/brown-sugar.md)
+    - :candy: 0.75 cup (148 g) granulated sugar
+    - :candy: 0.75 cup (160 g) [light brown sugar](../ingredients/brown-sugar.md)
     - :egg: 2 eggs
-    - :butter: 2 sticks (226 g) unsalted butter
-    - :icecream: 1 tsp vanilla
-    - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-    - :cup_with_straw: 1 tsp baking soda
+    - :butter: 2 sticks unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
+    - :bread: 2.25 cups (270 g) all-purpose flour
+    - :chestnut: 1 tsp baking soda
     - :salt: 1 tsp salt
-    - :chocolate_bar: 1 12 oz pkg (340 g) semi-sweet chocolate chips
+    - :chestnut: 1 12 oz pkg semi-sweet chocolate chips
     - :chestnut: some walnuts
 
 ## :cooking: Cookware

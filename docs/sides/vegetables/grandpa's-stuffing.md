@@ -19,11 +19,11 @@ hero: assets/images/grandpa's-stuffing.jpg
 
 - :bread: 0.5 loaf white bread
 - :leafy_green: 1 stalk celery
-- :onion: 1 yellow onion
-- :corn: 1 pkg Albers yellow cornmeal (prepared)
+- :tea: 1 yellow onion
+- :tea: 1 pkg Albers yellow cornmeal (prepared)
 - :droplet: some water
-- :poultry_leg: some poultry seasoning
-- :butter: 1 stick melted butter
+- :herb: some poultry seasoning
+- :glass_of_milk: 1 stick melted butter
 
 ## :cooking: Cookware
 

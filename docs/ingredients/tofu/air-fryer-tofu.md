@@ -17,11 +17,11 @@ hero: assets/images/air-fryer-tofu.webp
 
 ## :salt: Ingredients
 
-- :butter: 16 oz tofu
-- :takeout_box: 2 Tbsp tamari or soy sauce
+- :cheese_wedge: 16 oz tofu
+- :apple: 2 Tbsp (28 g) tamari or soy sauce
 - :garlic: 1 tsp garlic powder
-- :onion: 1 tsp onion powder
-- :olive: 1 Tbsp olive oil
+- :chestnut: 1 tsp (2 g) onion powder
+- :olive: 1 Tbsp (12 g) olive oil
 
 ## :cooking: Cookware
 

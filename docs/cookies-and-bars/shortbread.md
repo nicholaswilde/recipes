@@ -26,12 +26,12 @@ By weight:
 
 ## :salt: Ingredients
 
-- :butter: 0.75 lb (340 g) unsalted butter
+- :butter: 0.75 lb unsalted butter
 - :candy: 1 cup (198 g) granulated sugar
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 3.5 (420 g) cup all-purpose flour
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 3.5 cup (420 g) all-purpose flour
 - :salt: 0.25 tsp salt
-- :chocolate_bar: 7 oz (198 g) semi-sweet chocolate
+- :chestnut: 7 oz (98 g) semi-sweet chocolate
 
 ## :cooking: Cookware
 

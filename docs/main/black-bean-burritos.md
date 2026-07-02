@@ -16,13 +16,13 @@ hero: assets/images/black-bean-burritos.webp
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1 chipotle chile in adobo sauce
-- :rice: 0.5 cup reduced fat sour cream
-- :canned_food: 1 15-oz can [black beans][1]
-- :corn: 1 cup corn
-- :flatbread: 4 tortillas
+- :apple: 1 chipotle chile in adobo sauce
+- :cheese_wedge: 0.5 cup (114 g) reduced fat sour cream
+- :glass_of_milk: 1 15-oz can [black beans][1]
+- :corn: 1 cup (312 g) corn
+- :bread: 4 tortillas
 - :tomato: 1 cup salsa
-- :cheese_wedge: 0.5 cup jack cheese
+- :cheese_wedge: 0.5 cup (56 g) jack cheese
 
 ## :cooking: Cookware
 

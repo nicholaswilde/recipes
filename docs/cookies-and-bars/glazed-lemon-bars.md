@@ -18,14 +18,14 @@ hero: assets/images/glazed-lemon-bars.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup [Reduced Fat Bisquick][1]
+- :coconut: 1 cup [Reduced Fat Bisquick][1]
 - :candy: 2 Tbsp (14 g) confectioners' sugar
-- :butter: 2 Tbsp (28 g) firm unsalted butter
-- :candy: 0.75 cup (149 g) granulated sugar
+- :glass_of_milk: 2 Tbsp (28 g) firm unsalted butter
+- :candy: 0.75 cup (148 g) granulated sugar
 - :egg: 0.5 cup egg substitute
-- :lemon: 2 tsp grated lemon peel
+- :apple: 2 tsp (6 g) grated lemon peel
 - :candy: 0.75 cup (85 g) confectioners' sugar
-- :lemon: 1 Tbsp + 1.5 tsp lemon juice
+- :apple: 1 Tbsp + 1.5 tsp lemon juice
 
 ## :cooking: Cookware
 

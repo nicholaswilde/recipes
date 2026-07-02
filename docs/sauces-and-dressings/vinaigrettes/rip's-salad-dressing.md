@@ -16,12 +16,12 @@ hero: assets/images/rip's-salad-dressing.webp
 
 ## :salt: Ingredients
 
-- :lemon: 1 lemon, lime, or orange juice
-- :sake: 1 tsp tamari or soy sauce (optional)
-- :microbe: 1 tsp nutritional yeast
-- :hotdog: 1 tsp mustard of choice
-- :sake: 2 Tbsp balsamic vinegar or any vinegar of choice
-- :honey_pot: 1 tsp molasses or honey (optional)
+- :tangerine: 1 lemon, lime, or orange juice
+- :apple: 1 tsp (5 g) tamari or soy sauce (optional)
+- :cheese_wedge: 1 tsp (1 g) nutritional yeast
+- :seedling: 1 tsp mustard of choice
+- :wine_glass: 2 Tbsp balsamic vinegar or any vinegar of choice
+- :hot_pepper: 1 tsp (7 g) molasses or honey (optional)
 
 ## :cooking: Cookware
 

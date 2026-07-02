@@ -19,16 +19,16 @@ hero: assets/images/struffoli.webp
 
 ## :salt: Ingredients
 
-- :egg: 3 eggs (150 g)
-- :candy: 1 tbsp granulated sugar
-- :olive: 1 tbsp extra virgin olive oil
+- :egg: 3 eggs
+- :candy: 1 tbsp (12 g) granulated sugar
+- :olive: 1 tbsp (12 g) extra virgin olive oil
 - :salt: 1 pinch salt
 - :tangerine: 1 orange
-- :ear_of_rice: 2.5 cups (300 g) all purpose flour
+- :bread: 2.5 cups (300 g) all purpose flour
 - :olive: some light olive oil
-- :honey_pot: 1 cup (336 g) honey
+- :honey_pot: 1 cup honey
 - :candy: 0.25 cup (50 g) granulated sugar
-- :candy: some colored sprinkles
+- :art: some colored sprinkles
 
 ## :cooking: Cookware
 

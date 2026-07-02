@@ -27,13 +27,13 @@ hero: assets/images/peanut-brittle.webp
 
 ## :salt: Ingredients
 
-- :candy: 1 cup (198 g) sugar
-- :corn: 0.5 cup (156 g) corn syrup
+- :candy: 1 cup (156 g) sugar
+- :candy: 0.5 cup (156 g) corn syrup
 - :droplet: 0.25 cup (57 g) water
 - :salt: 0.25 tsp salt
-- :peanuts: 1 cup (142 g) peanuts
-- :butter: 2 Tbsp (28 g) butter
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 cup (142 g) peanuts
+- :butter: 2 Tbsp butter
+- :chestnut: 1 tsp baking soda
 
 ## :cooking: Cookware
 

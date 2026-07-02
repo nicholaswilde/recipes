@@ -21,24 +21,24 @@ hero: assets/images/poppy-seed-almond-cake.webp
 
 === "Cake"
 
-    - :dash: 1.5 tsp baking powder
-    - :ear_of_rice: 390 g all-purpose flour
+    - :chestnut: 1.5 tsp baking powder
+    - :bread: 390 g all-purpose flour
     - :salt: 1 tsp salt
-    - :blue_circle: 2 Tbsp poppy seeds
+    - :seedling: 2 Tbsp poppy seeds
     - :candy: 465 g granulated sugar
-    - :icecream: 1.5 tsp vanilla
-    - :chestnut: 1.5 tsp almond extract
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :flower_playing_cards: 1.5 tsp (8 g) almond extract
     - :glass_of_milk: 360 g whole milk
     - :egg: 3 eggs
-    - :oil_drum: 288 g neutral oil
+    - :olive: 288 g neutral oil
 
 === "Glaze"
 
     - :candy: 90 g confectioners' sugar
-    - :orange_circle: 57 g orange juice
-    - :butter: 2 tsp (10 g) unsalted butter
-    - :icecream: 0.5 tsp vanilla
-    - :chestnut: 0.5 tsp almond extract
+    - :tangerine: 57 g orange juice
+    - :butter: 2 tsp (9 g) unsalted butter
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :flower_playing_cards: 0.5 tsp (3 g) almond extract
 
 ## :cooking: Cookware
 

@@ -19,25 +19,25 @@ hero: assets/images/pumpkin-cookies-with-cream-cheese-frosting.png
 
 === "Cookies"
 
-    - :butter: 1 cup (227 g) unsalted butter, softened
+    - :baby_bottle: 1 cup (226 g) unsalted butter, softened
     - :maple_leaf: 0.67 cup (143 g) brown sugar
     - :candy: 0.33 cup (65 g) granulated sugar
     - :egg: 1 large egg
-    - :icecream: 1 tsp vanilla
-    - :jack_o_lantern: 1 cup (227 g) pumpkin purée
-    - :ear_of_rice: 2 cups (240 g) all-purpose flour
-    - :custard: 1.5 tsp cinnamon
-    - :cup_with_straw: 1 tsp baking soda
-    - :dash: 0.25 tsp baking powder
+    - :flower_playing_cards: 1 tsp vanilla
+    - :melon: 1 cup (227 g) pumpkin purée
+    - :bread: 2 cups (240 g) all-purpose flour
+    - :chestnut: 1.5 tsp (6 g) cinnamon
+    - :chestnut: 1 tsp baking soda
+    - :chestnut: 0.25 tsp baking powder
     - :salt: 0.5 tsp salt
-    - :chestnut: 1 cup chopped walnuts (optional)
+    - :tomato: 1 cup (113 g) chopped walnuts (optional)
 
 === "Frosting"
 
-    - :butter: 0.25 cup (57 g) unsalted butter, softened
-    - :icecream: 1.5 tsp vanilla
-    - :bagel: 4 oz cream cheese, softened
-    - :candy: 2 cups (396 g) confectioners' sugar
+    - :baby_bottle: 0.25 cup (56 g) unsalted butter, softened
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :birthday: 4 oz (114 g) cream cheese, softened
+    - :candy: 2 cups (226 g) confectioners' sugar
 
 ## :cooking: Cookware
 

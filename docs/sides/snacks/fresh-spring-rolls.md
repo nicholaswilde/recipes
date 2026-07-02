@@ -20,28 +20,28 @@ hero: assets/images/fresh-spring-rolls.png
 
 === "Peanut Sauce"
 
-    - :peanuts: 0.25 cup (34 g) creamy peanut butter
-    - :takeout_box: 4 tsp soy sauce
-    - :lemon: 1 Tbsp lime juice
-    - :maple_leaf: 2 tsp brown sugar
-    - :hot_pepper: 1 tsp chili garlic sauce
-    - :sweet_potato: 1 tsp freshly ground ginger
-    - :droplet: 2 Tbsp water
+    - :chestnut: 0.25 cup (68 g) creamy peanut butter
+    - :takeout_box: 4 tsp (12 g) soy sauce
+    - :tangerine: 1 Tbsp (14 g) lime juice
+    - :maple_leaf: 2 tsp (9 g) brown sugar
+    - :garlic: 1 tsp chili garlic sauce
+    - :salt: 1 tsp (5 g) freshly ground ginger
+    - :droplet: 2 Tbsp (28 g) water
 
 === "Spring Rolls"
 
-    - :flatbread: 8 rice paper wrapper
-    - :leafy_green: 0.5 head lettuce
-    - :herb: 0.75 cup mint
-    - :herb: 0.75 cup cilantro
-    - :carrot: 1 cup carrots[^1]
-    - :leafy_green: 0.5 head purple cabbage
-    - :bell_pepper: 1 red bell pepper[^1]
-    - :cucumber: 0.5 cucumber[^1]
+    - :bread: 8 rice paper wrapper
+    - :cheese_wedge: 0.5 head lettuce
+    - :shamrock: 0.75 cup mint
+    - :herb: 0.75 cup (32 g) cilantro
+    - 1 cup carrots[^1]
+    - 0.5 head purple cabbage
+    - :hot_pepper: 1 red bell pepper[^1]
+    - 0.5 cucumber[^1]
     - :avocado: 1 avocado
     - :salt: some salt
     - :salt: some pepper
-    - :peanuts: 1 [peanut dipping sauce][1]
+    - 1 [peanut dipping sauce][1]
 
 ## :cooking: Cookware
 

@@ -16,17 +16,17 @@ hero: assets/images/blueberry-ricotta-breakfast-cake.png
 
 ## :salt: Ingredients
 
-- :butter: 10 tbsp unsalted butter
+- :butter: 10 tbsp (141 g) unsalted butter
 - :candy: 1 cup (198 g) granulated sugar
 - :egg: 3 eggs
-- :cheese_wedge: 1 cup whole-milk [ricotta](../ingredients/ricotta.md)
-- :rice: 2 tbsp sour cream
-- :icecream: 1 tsp pure vanilla extract
-- :lemon: 1 tsp grated lemon zest
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
-- :dash: 1 tbsp baking powder
+- :glass_of_milk: 1 cup (100 g) whole-milk [ricotta](../ingredients/ricotta.md)
+- :glass_of_milk: 2 tbsp (28 g) sour cream
+- :flower_playing_cards: 1 tsp pure vanilla extract
+- :tangerine: 1 tsp (3 g) grated lemon zest
+- :bread: 1.25 cups (150 g) all-purpose flour
+- :chestnut: 1 tbsp baking powder
 - :salt: 1 tsp Kosher salt
-- :blueberry: 2 cups fresh blueberries
+- :apple: 2 cups (340 g) fresh blueberries
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

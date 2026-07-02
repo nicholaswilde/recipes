@@ -17,13 +17,13 @@ hero: assets/images/creamy-cilantro-dressing.webp
 
 ## :salt: Ingredients
 
-- :custard: 12 oz organic firm silken tofu
+- :cheese_wedge: 12 oz organic firm silken tofu
 - :herb: 1 bunch cilantro
 - :garlic: 2 cloves garlic
-- :onion: 0.5 white onion
-- :sake: 3 Tbsp apple cider vinegar
-- :droplet: 0.25 cup water
-- :lemon: 0.5 tsp lemon juice
+- :tea: 0.5 white onion
+- :apple: 3 Tbsp (52 g) apple cider vinegar
+- :droplet: 0.25 cup (57 g) water
+- :tangerine: 0.5 tsp (2 g) lemon juice
 - :salt: some salt
 
 ## :cooking: Cookware

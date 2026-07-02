@@ -18,13 +18,13 @@ hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-biscuits.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 120 g [buttermilk](../ingredients/buttermilk.md)
-- :rice: 113 g sour cream
-- :ear_of_rice: 284 g all-purpose flour
-- :dash: 12 g baking powder
-- :cup_with_straw: 0.25 tsp baking soda
+- :icecream: 120 g [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: 113 g sour cream
+- :bread: 284 g all-purpose flour
+- :chestnut: 12 g baking powder
+- :chestnut: 0.25 tsp baking soda
 - :salt: 1.5 kosher tsp salt
-- :butter: 113 g cold unsalted butter
+- :glass_of_milk: 113 g cold unsalted butter
 
 ## :cooking: Cookware
 

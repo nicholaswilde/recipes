@@ -26,8 +26,8 @@ hero: assets/images/vanilla-bean-cream.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups heavy cream
-- :icecream: 1 vanilla bean
+- :glass_of_milk: 2 cups (454 g) heavy cream
+- :hamburger: 1 vanilla bean
 
 ## :cooking: Cookware
 

@@ -18,13 +18,13 @@ hero: assets/images/balsamic-pesto.webp
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 cup leeks
-- :seedling: 1 cup chives
-- :cheese_wedge: 0.75 cup Manchego cheese
-- :chestnut: 0.67 cup toasted pine nuts
-- :olive: 0.5 cup olive oil
-- :sake: 2 Tbsp white balsamic vinegar
-- :lemon: 1 tsp lemon zest
+- :tea: 1 cup (92 g) leeks
+- 1 cup (42 g) chives
+- :cheese_wedge: 0.75 cup (170 g) Manchego cheese
+- :chestnut: 0.67 cup (95 g) toasted pine nuts
+- :olive: 0.5 cup (100 g) olive oil
+- :takeout_box: 2 Tbsp (21 g) white balsamic vinegar
+- :tangerine: 1 tsp (5 g) lemon zest
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

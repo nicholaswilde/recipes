@@ -17,19 +17,19 @@ hero: assets/images/split-pea-soup.webp
 
 ## :salt: Ingredients
 
-- :stew: 6 cups [vegetable broth][1]
-- :green_circle: 2 cup dried green split peas
-- :onion: 1 medium onion
+- 6 cups [vegetable broth][1]
+- :beans: 2 cup (224 g) dried green split peas
+- :tea: 1 medium onion
 - :leafy_green: 2 stalks celery
 - :garlic: 2 cloves garlic
 - :herb: 0.5 tsp marjoram
 - :herb: 0.5 tsp basil
-- :herb: 0.25 tsp cumin
+- :chestnut: 0.25 tsp (1 g) cumin
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :carrot: 1 cup chopped carrots
-- :carrot: 5 Tbsp shredded carrots
-- :leafy_green: 2 green onions
+- :carrot: 1 cup (142 g) chopped carrots
+- :coconut: 5 Tbsp (31 g) shredded carrots
+- :tea: 2 green onions
 
 ## :cooking: Cookware
 

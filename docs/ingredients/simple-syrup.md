@@ -26,7 +26,7 @@ hero: assets/images/simple-syrup.webp
 
 - :candy: 250 g granulated sugar
 - :droplet: 250 g water
-- :tumbler_glass: 25 g alcohol (optional)
+- :leafy_green: 25 g alcohol (optional)
 
 ## :cooking: Cookware
 

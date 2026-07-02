@@ -19,8 +19,8 @@ hero: assets/images/self-rising-cornmeal.webp
 
 - :ear_of_rice: 1.75 cups (242 g) cornmeal
 - :bread: 6 Tbsp (45 g) all-purpose flour
-- :chestnut: 2 Tbsp (24 g) baking powder
-- :salt: 0.5 tsp (3 g) salt
+- :chestnut: 2 Tbsp baking powder
+- :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
 

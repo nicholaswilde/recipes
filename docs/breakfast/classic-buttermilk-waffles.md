@@ -17,16 +17,16 @@ hero: assets/images/classic-[buttermilk](../ingredients/buttermilk.md)-waffles.w
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 3/4 cups (210 g) all-purpose flour
-- :dash: 2 1/4 tsp baking powder
-- :cup_with_straw: 1/4 tsp baking soda
-- :corn: 2 Tbsp (16 g) cornstarch
-- :candy: 3 Tbsp + 1 tsp (40 g) granulated sugar
+- :baby_bottle: 1 3/4 cups all-purpose flour
+- :chestnut: 2 1/4 tsp baking powder
+- :chestnut: 1/4 tsp baking soda
+- :chestnut: 2 Tbsp (14 g) cornstarch
+- :candy: 3 Tbsp (37 g) + 1 tsp granulated sugar
 - :salt: 1/2 tsp fine sea salt
 - :egg: 3 large eggs
-- :glass_of_milk: 3/4 cup (180 g) [buttermilk](../ingredients/buttermilk.md)
-- :glass_of_milk: 3/4 cup (180 g) heavy cream
-- :butter: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
+- :icecream: 3/4 cup [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: 3/4 cup (170 g) heavy cream
+- :baby_bottle: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
 
 ## :cooking: Cookware
 

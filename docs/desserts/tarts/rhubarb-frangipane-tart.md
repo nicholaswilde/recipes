@@ -19,17 +19,17 @@ hero: assets/images/rhubarb-frangipane-tart.webp
 - :bread: 200 g plain flour
 - :candy: 20 g icing sugar
 - :salt: 1 pinch salt
-- :butter: 100 g cold unsalted butter
+- :glass_of_milk: 100 g cold unsalted butter
 - :egg: 1 large egg yolk
 - :droplet: some water
-- :butter: 125 g soft unsalted butter
+- :glass_of_milk: 125 g soft unsalted butter
 - :candy: 125 g golden caster sugar
 - :egg: 1 large egg
 - :chestnut: 125 g ground almonds
-- :seedling: 0.5 tsp ground cardamom
+- :apple: 0.5 tsp (2 g) ground cardamom
 - :leafy_green: 250 g rhubarb
 - :candy: 40 g caster sugar
-- :droplet: 2 Tbsp water
+- :droplet: 2 Tbsp (28 g) water
 - :flower_playing_cards: 0.5 tsp vanilla extract
 
 ## :cooking: Cookware

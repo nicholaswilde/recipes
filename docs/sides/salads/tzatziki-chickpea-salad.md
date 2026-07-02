@@ -15,7 +15,7 @@ tags:
 
 ## :salt: Ingredients
 
-- :baby_bottle: 1 cup (227 g) Greek yogurt
+- :glass_of_milk: 1 cup (227 g) Greek yogurt
 - :garlic: 1 garlic clove
 - :olive: 2 tablespoons (25 g) olive oil
 - :honey_pot: 2 teaspoons honey
@@ -25,7 +25,7 @@ tags:
 - :salt: some pepper
 - :cucumber: 1 pound Persian cucumbers
 - :beans: 2 cans chickpeas
-- :herb: 1 handful fresh dill
+- :apple: 1 handful fresh dill
 - :herb: 1 handful fresh mint leaves
 - :tea: 2 scallions
 - :tangerine: 0.5 lemon

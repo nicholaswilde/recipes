@@ -15,15 +15,15 @@ hero: assets/images/classic-dinner-rolls.webp
 
 ## :salt: Ingredients
 
-- :droplet: 0.75 cup water
-- :tea: 2.25 tsp active dry yeast
-- :candy: 0.25 cup granulated sugar
-- :glass_of_milk: 0.5 cup whole milk
+- :droplet: 0.75 cup (170 g) water
+- :tea: 2.25 tsp (3 g) active dry yeast
+- :candy: 0.25 cup (50 g) granulated sugar
+- :glass_of_milk: 0.5 cup (114 g) whole milk
 - :egg: 1 large egg
-- :butter: 0.25 cup unsalted butter
+- :butter: 0.25 cup (56 g) unsalted butter
 - :salt: 1 tsp fine sea salt
-- :bread: 3.5 cups bread flour
-- :butter: 2 Tbsp unsalted butter
+- :bread: 3.5 cups (420 g) bread flour
+- :butter: 2 Tbsp (28 g) unsalted butter
 
 ## :cooking: Cookware
 

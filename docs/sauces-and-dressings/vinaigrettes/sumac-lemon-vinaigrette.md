@@ -18,12 +18,12 @@ hero: assets/images/sumac-lemon-vinaigrette.webp
 ## :salt: Ingredients
 
 - :garlic: 1 clove garlic
-- :lemon: 1 Tbsp lemon juice
-- :droplet: 2 Tbsp water
-- :sake: 2 Tbsp white wine vinegar
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :droplet: 2 Tbsp (28 g) water
+- :wine_glass: 2 Tbsp (18 g) white wine vinegar
 - :honey_pot: 1 Tbsp honey
-- :herb: 0.5 tsp sumac seasoning
-- :olive: 0.5 cup olive oil
+- :herb: 0.5 tsp (1 g) sumac seasoning
+- :olive: 0.5 cup (100 g) olive oil
 - :herb: 1 tsp oregano
 - :herb: 1 tsp parsley
 - :herb: 0.5 tsp thyme

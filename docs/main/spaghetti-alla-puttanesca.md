@@ -18,19 +18,19 @@ hero: assets/images/spaghetti-alla-puttanesca.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 16-oz pkg whole wheat spaghetti
-- :olive: 2 oz sliced black olives
-- :deciduous_tree: 1 14-oz can artichoke hearts
-- :falafel: 0.75 cup cooked chickpeas
-- :sponge: 2 Tbsp capers
-- :onion: 0.5 large minced onion
+- :bread: 1 16-oz pkg whole wheat spaghetti
+- :beans: 2 oz (44 g) sliced black olives
+- :leafy_green: 1 14-oz can artichoke hearts
+- :beans: 0.75 cup (161 g) cooked chickpeas
+- :olive: 2 Tbsp capers
+- :tea: 0.5 large minced onion
 - :tomato: 1 14-oz can diced tomatoes
-- :herb: 1 Tbsp dried oregano
+- :herb: 1 Tbsp (9 g) dried oregano
 - :herb: 1 tsp dried basil
-- :herb: 1 tsp dried thyme
-- :hot_pepper: 0.5 tsp red pepper flakes
-- :salt: 0.5 tsp ground black pepper
-- :stew: 3 cups [vegetable broth][1]
+- :herb: 1 tsp (3 g) dried thyme
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
+- :salt: 0.5 tsp (2 g) ground black pepper
+- 3 cups [vegetable broth][1]
 
 ## :cooking: Cookware
 

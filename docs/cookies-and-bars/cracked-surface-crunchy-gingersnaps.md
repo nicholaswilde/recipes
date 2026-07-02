@@ -20,15 +20,15 @@ hero: assets/images/cracked-surface-crunchy-gingersnaps.webp
 
 - :candy: 397 g granulated sugar
 - :butter: 170 g unsalted butter
-- :maple_leaf: 59 ml molasses
+- :candy: 59 ml (85 g) molasses
 - :egg: 1 egg
-- :ear_of_rice: 281 g all-purpose flour
-- :cup_with_straw: 2 tsp baking soda
+- :bread: 281 g all-purpose flour
+- :chestnut: 2 tsp baking soda
 - :salt: 3 g salt
 - :sweet_potato: 5 g ginger
-- :custard: 2 g cinnamon
-- :four_leaf_clover: 1 g cloves
-- :chestnut: 0.5 g nutmeg
+- :chestnut: 2 g cinnamon
+- :chestnut: 1 g cloves
+- :apple: 0.5 g nutmeg
 
 ## :cooking: Cookware
 

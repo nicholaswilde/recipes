@@ -17,16 +17,16 @@ hero: assets/images/ranch-dressing-mix.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup dry [buttermilk](buttermilk.md)
-- :herb: 2.5 Tbsp dried parsley
-- :herb: 2 Tbsp dried chives
-- :seedling: 2 tsp dried dill
+- :candy: 1 cup (170 g) dry [buttermilk](buttermilk.md)
+- :herb: 2.5 Tbsp (22 g) dried parsley
+- :apple: 2 Tbsp (5 g) dried chives
+- :herb: 2 tsp (6 g) dried dill
 - :garlic: 2.5 tsp garlic powder
-- :onion: 1.5 tsp onion powder
-- :onion: 1.5 tsp dried onion flakes
+- :chestnut: 1.5 tsp (3 g) onion powder
+- :tea: 1.5 tsp (3 g) dried onion flakes
 - :salt: 2 tsp salt
-- :salt: 0.5 tsp black pepper
-- :bell_pepper: 0.5 tsp paprika
+- :salt: 0.5 tsp (2 g) black pepper
+- :candy: 0.5 tsp paprika
 - :hot_pepper: 0.25 tsp cayenne
 
 ## :cooking: Cookware

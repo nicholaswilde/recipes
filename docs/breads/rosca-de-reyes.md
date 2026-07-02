@@ -18,26 +18,26 @@ hero: assets/images/rosca-de-reyes.webp
 
 === "Dough"
 
-    - :hotsprings: 0.5 cup (114 g) lukewarm water
-    - :microbe: 7 g yeast
-    - :ear_of_rice: 565 g all-purpose flour
+    - :baby_bottle: 0.5 cup (114 g) lukewarm water
+    - :tea: 7 g yeast
+    - :bread: 565 g all-purpose flour
     - :egg: 3 large eggs
-    - :egg: 3 egg yolks
+    - :baby_bottle: 3 egg yolks
     - :candy: 150 g granulated sugar
-    - :orange_circle: 1.5 Tbsp orange extract
-    - :orange_circle: 1 orange zest
+    - :flower_playing_cards: 1.5 Tbsp orange extract
+    - :tangerine: 1 orange zest
     - :salt: 0.5 tsp salt
     - :butter: 169 g unsalted butter
 
 === "Decoration"
 
-    - :butter: 6 Tbsp margarine
-    - :candy: 0.5 cup (99 g) confectioners' sugar
-    - :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+    - 6 Tbsp margarine
+    - :candy: 0.5 cup (56 g) confectioners' sugar
+    - :bread: 0.75 cup (90 g) all-purpose flour
     - :egg: 1 egg yolk
     - :egg: 1 egg
-    - :glass_of_milk: 1 Tbsp milk or water
-    - :cherries: some dried figs, candied citron, quince paste stripes, orange peels or cherries
+    - :glass_of_milk: 1 Tbsp (14 g) milk or water
+    - :hot_pepper: some dried figs, candied citron, quince paste stripes, orange peels or cherries
 
 ## :cooking: Cookware
 

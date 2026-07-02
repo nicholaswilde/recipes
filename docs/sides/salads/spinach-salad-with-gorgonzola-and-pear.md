@@ -15,19 +15,19 @@ hero: assets/images/spinach-salad-with-gorgonzola-and-pear.webp
 
 ## :salt: Ingredients
 
-- :apple: 1 ripe Anjou pear
-- :wine_glass: 3 Tbsp red wine vinegar
+- :pear: 1 ripe Anjou pear
+- :wine_glass: 3 Tbsp (39 g) red wine vinegar
 - :garlic: 1 Tbsp shallot
-- :baby_bottle: 1 Tbsp [Dijon mustard][2]
-- :candy: 1 tsp brown sugar
+- 1 Tbsp [Dijon mustard][2]
+- :maple_leaf: 1 tsp (4 g) brown sugar
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- :olive: 0.25 cup (50 g) canola oil
-- :tangerine: 1 Tbsp lemon juice
+- :droplet: 0.25 cup (56 g) canola oil
+- :tangerine: 1 Tbsp (14 g) lemon juice
 - :leafy_green: 8 oz spinach
-- :cheese_wedge: 3 oz Gorgonzola
-- :chestnut: 0.5 cup (55 g) walnuts
-- :seedling: 0.25 cup (45 g) pomegranate seeds
+- 3 oz Gorgonzola
+- :chestnut: 0.5 cup (64 g) walnuts
+- :seedling: 0.25 cup (35 g) pomegranate seeds
 
 ## :cooking: Cookware
 

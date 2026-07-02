@@ -18,15 +18,15 @@ hero: assets/images/spicy-garlic-edamame.webp
 ## :salt: Ingredients
 
 - :beans: 16 oz edamame
-- :droplet: 3 quarts salted water
-- :chestnut: 0.5 tsp arrowroot starch
-- :olive: 1 Tbsp coconut oil
+- :butter: 3 quarts salted water
+- 0.5 tsp (2 g) arrowroot starch
+- :olive: 1 Tbsp (14 g) coconut oil
 - :garlic: 2 cloves garlic
-- :sweet_potato: 1 Tbsp ginger
-- :salt: 0.5 tsp red pepper flakes
+- :sweet_potato: 1 Tbsp (9 g) ginger
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
 - :takeout_box: 1.5 Tbsp tamari
-- :honey_pot: 1 Tbsp maple syrup
-- :olive: 0.5 tsp toasted sesame oil (optional)
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :olive: 0.5 tsp (1 g) toasted sesame oil (optional)
 
 ## :cooking: Cookware
 

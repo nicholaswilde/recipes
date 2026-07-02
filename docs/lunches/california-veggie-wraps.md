@@ -15,14 +15,14 @@ hero: assets/images/california-veggie-wraps.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 4 Tbsp [Benedictine spread][2]
-- :bread: 4 whole wheat tortillas
-- :leafy_green: 2 cups (110 g) lettuce
-- :carrot: 1 cup (100 g) shredded carrots
-- :seedling: 1 cup (35 g) sprouts
+- 4 Tbsp [Benedictine spread][2]
+- :flatbread: 4 whole wheat tortillas
+- :cheese_wedge: 2 cups lettuce
+- :coconut: 1 cup (99 g) shredded carrots
+- :leafy_green: 1 cup sprouts
 - :avocado: 1 avocado, sliced
 - :hot_pepper: 1 bell pepper, sliced
-- :cheese_wedge: 0.5 cup (57 g) jack cheese
+- :cheese_wedge: 0.5 cup (56 g) jack cheese
 
 ## :cooking: Cookware
 

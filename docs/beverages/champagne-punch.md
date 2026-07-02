@@ -17,12 +17,12 @@ hero: assets/images/champagne-punch.webp
 
 ## :salt: Ingredients
 
-- :peach: 4 cups Kern's apricot nectar
-- :pineapple: 4 cups pineapple juice
-- :pear: 4 cups guava nectar
-- :tumbler_glass: 2 cups light rum
-- :ice_cube: some ice cubes or mold
-- :bottle_with_popping_cork: 6 cups chilled champagne
+- 4 cups Kern's apricot nectar
+- :tangerine: 4 cups (964 g) pineapple juice
+- 4 cups (1600 g) guava nectar
+- :tumbler_glass: 2 cups (426 g) light rum
+- :ice_cream: some ice cubes or mold
+- :apple: 6 cups chilled champagne
 
 ## :cooking: Cookware
 

@@ -17,12 +17,12 @@ hero: assets/images/doritos-popcorn.webp
 
 ## :salt: Ingredients
 
-- :microbe: 0.25 cup nutritional yeast
+- :cheese_wedge: 0.25 cup (15 g) nutritional yeast
 - :garlic: 1 tsp garlic powder
-- :onion: 1 tsp onion powder
-- :herb: 1 tsp cumin
-- :bell_pepper: 1 tsp paprika
-- :hot_pepper: 0.25 tsp chili powder
+- :chestnut: 1 tsp (2 g) onion powder
+- :chestnut: 1 tsp (3 g) cumin
+- :candy: 1 tsp paprika
+- :hot_pepper: 0.25 tsp (1 g) chili powder
 - :hot_pepper: 0.25 tsp cayenne pepper (optional)
 - :salt: 2 tsp salt
 

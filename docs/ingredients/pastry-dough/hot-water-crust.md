@@ -17,12 +17,12 @@ hero: assets/images/hot-water-crust.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 265 g all-purpose flour
-- :ear_of_rice: 55 g strong white bread flour
+- :bread: 265 g all-purpose flour
+- :bread: 55 g strong white bread flour
 - :butter: 55 g unsalted butter
-- :carrot: 65 g vegetable shortening
+- :butter: 65 g vegetable shortening
 - :salt: 1 tsp salt
-- :droplet: 135 ml boiling water
+- :droplet: 135 ml (130 g) boiling water
 
 ## :cooking: Cookware
 

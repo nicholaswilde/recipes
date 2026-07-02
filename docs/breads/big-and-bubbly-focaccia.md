@@ -21,11 +21,11 @@ hero: assets/images/big-and-bubbly-focaccia.webp
 
 === "Dough"
 
-    - :ear_of_rice: 360 g all-purpose flour
+    - :bread: 360 g all-purpose flour
     - :salt: 9 g salt
     - :candy: 5 g granulated sugar
-    - :microbe: 1 tsp yeast
-    - :hotsprings: 284 g lukewarm water
+    - :tea: 1 tsp (3 g) yeast
+    - :baby_bottle: 284 g lukewarm water
     - :olive: 18 g olive oil
 
 === "Assembly"

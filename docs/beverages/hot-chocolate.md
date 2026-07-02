@@ -18,15 +18,15 @@ hero: assets/images/hot-chocolate.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 170 g whole milk
-- :icecream: 57 g heavy cream
-- :chocolate_bar: 1 Tbsp unsweetened cocoa powder
-- :chocolate_bar: 57 g 70 percent chocolate
-- :candy: 2 Tbsp granulated sugar
+- :glass_of_milk: 57 g heavy cream
+- :chocolate_bar: 1 Tbsp (5 g) unsweetened cocoa powder
+- :chestnut: 57 g 70 percent chocolate
+- :candy: 2 Tbsp (25 g) granulated sugar
 - :salt: 1 pinch salt
-- :icecream: 2 tsp vanilla
-- :corn: 1 Tbsp cornstarch
-- :custard: 1 small pinch cinnamon
-- :tumbler_glass: 2 Tbsp Baileys or Kahlua
+- :flower_playing_cards: 2 tsp vanilla
+- :chestnut: 1 Tbsp (7 g) cornstarch
+- :candy: 1 small pinch cinnamon
+- 2 Tbsp Baileys or Kahlua
 
 ## :cooking: Cookware
 

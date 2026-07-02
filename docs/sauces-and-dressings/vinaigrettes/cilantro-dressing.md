@@ -16,14 +16,14 @@ hero: assets/images/cilantro-dressing.webp
 
 ## :salt: Ingredients
 
-- :sake: 0.33 cup rice vinegar
-- :olive: 4 Tbsp olive oil
-- :egg: 0.25 cup [mayonnaise][2]
-- :cheese: 3 oz cotija cheese or [queso fresco][3]
-- :lemon: 1 lime juice
+- :wine_glass: 0.33 cup (9 g) rice vinegar
+- :olive: 4 Tbsp (50 g) olive oil
+- 0.25 cup [mayonnaise][2]
+- :cheese_wedge: 3 oz (43 g) cotija cheese or [queso fresco][3]
+- :tangerine: 1 lime juice
 - :garlic: 1 clove garlic
 - :hot_pepper: 1 jalapeño
-- :herb: 0.5 cup cilantro
+- :herb: 0.5 cup (21 g) cilantro
 - :salt: 0.5 Tbsp salt
 
 ## :cooking: Cookware

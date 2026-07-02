@@ -18,8 +18,8 @@ hero: assets/images/chile-crisp.webp
 - :olive: 1/2 cup (99 g) vegetable oil
 - :tea: 1/4 cup (24 g) dried minced onion
 - :candy: 1 tsp (4 g) granulated sugar, divided
-- :salt: 1 1/2 tsp (4 g) Diamond Crystal kosher salt, divided
-- :hot_pepper: 1/3 cup (28 g) crushed dried small red chiles or red-pepper flakes
+- :salt: 1 1/2 tsp Diamond Crystal kosher salt, divided
+- :hot_pepper: 1/3 cup (29 g) crushed dried small red chiles or red-pepper flakes
 - :seedling: 3 Tbsp (27 g) sesame seeds
 - :hot_pepper: 1 tsp (3 g) coarsely ground Sichuan peppercorns, optional
 

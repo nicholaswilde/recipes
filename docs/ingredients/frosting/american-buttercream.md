@@ -19,9 +19,9 @@ hero: assets/images/american-buttercream.webp
 
 ## :salt: Ingredients
 
-- :butter: 150 g soft unsalted butter
+- :glass_of_milk: 150 g soft unsalted butter
 - :candy: 340 g confectioners' sugar
-- :glass_of_milk: 4 Tbsp [whole milk][1]
+- 4 Tbsp [whole milk][1]
 
 ## :cooking: Cookware
 

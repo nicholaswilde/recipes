@@ -17,7 +17,7 @@ hero: assets/images/oreo-pie-crust.webp
 
 ## :salt: Ingredients
 
-- :cookie: 24 cookies [Oreos][1]
+- 24 cookies [Oreos][1]
 - :butter: 4 Tbsp butter
 
 ## :cooking: Cookware

@@ -22,16 +22,16 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
 
 === "Liquid Levain"
 
-    - :ear_of_rice: 135 g all-purpose flour
+    - :bread: 135 g all-purpose flour
     - :droplet: 170 g cool water
-    - :microbe: 14 g ripe [sourdough starter][2]
+    - :tomato: 14 g ripe [sourdough starter][2]
 
 === "Dough"
 
-    - :ear_of_rice: 660 g all-purpose flour
-    - :ear_of_rice: 93 g whole wheat flour
+    - :bread: 660 g all-purpose flour
+    - :bread: 93 g whole wheat flour
     - :droplet: 440 g water
-    - :microbe: all of the levain
+    - :bread: all of the levain
     - :salt: 18 g salt
 
 ## :salt: Mix Ins (Optional)

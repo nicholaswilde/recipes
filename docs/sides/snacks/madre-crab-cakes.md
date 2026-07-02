@@ -18,22 +18,22 @@ hero: assets/images/madre-crab-cakes.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :corn: 1 cup corn
-- :onion: 2 tsp onion
-- :bell_pepper: 2 tsp red bell pepper
-- :leafy_green: 1 cup shredded hearts of palm
-- :bread: 3 Tbsp panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
-- :egg: 1.5 Tbsp vegan mayonnaise
-- :rice_ball: 1 Tbsp crushed nori
+- :olive: 1 Tbsp (12 g) olive oil
+- :corn: 1 cup (312 g) corn
+- :tea: 2 tsp (4 g) onion
+- :hot_pepper: 2 tsp (9 g) red bell pepper
+- :coconut: 1 cup (121 g) shredded hearts of palm
+- :bread: 3 Tbsp (9 g) panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
+- :baby_bottle: 1.5 Tbsp (21 g) vegan mayonnaise
+- :hot_pepper: 1 Tbsp (9 g) crushed nori
 - :herb: 1 tsp parsley
-- :hot_pepper: 0.5 tsp Old Bay seasoning
-- :hotdog: 0.25 tsp mustard powder
+- :herb: 0.5 tsp (1 g) Old Bay seasoning
+- :chestnut: 0.25 tsp mustard powder
 - :salt: 0.25 tsp salt
-- :salt:1 pinch pepper
-- :egg: 0.5 cup Spicy Vegan Mayo
-- :herb: 0.25 cup cilantro
-- :lemon: some lemon wedges
+- :salt: 1 pinch pepper
+- :baby_bottle: 0.5 cup (113 g) Spicy Vegan Mayo
+- :herb: 0.25 cup (10 g) cilantro
+- :tangerine: some lemon wedges
 
 ## :cooking: Cookware
 

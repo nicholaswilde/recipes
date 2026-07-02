@@ -17,8 +17,8 @@ hero: assets/images/all-purpose-vinaigrette.jpg
 
 ## :salt: Ingredients
 
-- :grapes: 0.5 cup balsamic vinegar
-- :hotdog: 0.5 cup Dijon mustard
+- :wine_glass: 0.5 cup balsamic vinegar
+- :seedling: 0.5 cup Dijon mustard
 - :garlic: 0.25 cup minced shallot
 - :salt: some ground black pepper
 

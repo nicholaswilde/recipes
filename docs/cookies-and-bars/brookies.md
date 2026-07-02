@@ -23,25 +23,25 @@ hero: assets/images/brookies.webp
     - :butter: 113 g unsalted butter
     - :chocolate_bar: 35 g cocoa powder
     - :candy: 100 g granulated sugar
-    - :maple_leaf: 100 g light brown sugar
+    - :candy: 100 g light brown sugar
     - :salt: 0.5 tsp salt
     - :egg: 2 large eggs
-    - :icecream: 1 tsp vanilla
-    - :ear_of_rice: 65 g all-purpose flour
-    - :chocolate_bar: 0.75 cup (128 g) semi-sweet chocolate chips
+    - :flower_playing_cards: 1 tsp vanilla
+    - :bread: 65 g all-purpose flour
+    - :chestnut: 0.75 cup (128 g) semi-sweet chocolate chips
 
 === "Cookie Dough"
 
     - :butter: 113 g unsalted butter
     - :candy: 100 g granulated sugar
-    - :maple_leaf: 50 g light brown sugar
-    - :icecream: 1 tsp vanilla
+    - :candy: 50 g light brown sugar
+    - :flower_playing_cards: 1 tsp vanilla
     - :egg: 1 large egg
     - :salt: 0.5 tsp salt
-    - :cup_with_straw: 0.25 tsp baking soda
-    - :dash: 0.5 tsp baking powder
-    - :ear_of_rice: 160 g all-purpose flour
-    - :chocolate_bar: 1 cup (170 g) semi-sweet chocolate chips
+    - :chestnut: 0.25 tsp baking soda
+    - :chestnut: 0.5 tsp baking powder
+    - :bread: 160 g all-purpose flour
+    - :chestnut: 1 cup (170 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

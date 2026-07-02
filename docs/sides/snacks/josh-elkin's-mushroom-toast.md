@@ -18,20 +18,20 @@ hero: assets/images/josh-elkin's-mushroom-toast.webp
 ## :salt: Ingredients
 
 - :butter: 0.25 cup Butter
-- :olive: 1 Tbsp olive oil
-- :garlic: 1 cup sliced shallots
+- :olive: 1 Tbsp (12 g) olive oil
+- 1 cup (156 g) sliced shallots
 - :garlic: 2 cloves garlic
-- :mushroom: 2 cups porcini mushrooms
+- :mushroom: 2 cups (156 g) porcini mushrooms
 - :salt: some salt
 - :salt: some pepper
 - :herb: 2 Tbsp thyme
-- :bread: 4 thick slices crusty bread
-- :cheese_wedge: 1 cup mascarpone cheese
+- :monkey_face: 4 thick slices crusty bread
+- :cheese_wedge: 1 cup (227 g) mascarpone cheese
 - :salt: some salt
 - :salt: some pepper
 - :herb: 2 Tbsp thyme
 - :salt: some flaky salt
-- :cheese_wedge: 2 Tbsp Parmesan
+- :cheese_wedge: 2 Tbsp (12 g) Parmesan
 
 ## :cooking: Cookware
 

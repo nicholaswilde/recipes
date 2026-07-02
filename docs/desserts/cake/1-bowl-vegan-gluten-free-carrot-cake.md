@@ -19,22 +19,22 @@ hero: assets/images/1-bowl-vegan-gluten-free-carrot-cake.webp
 
 ## :salt: Ingredients
 
-- :coconut: 0.33 cup (75 g) coconut oil
-- :ear_of_rice: 3 Tbsp flaxseed
-- :droplet: 7.5 Tbsp water
-- :maple_leaf: 0.25 cup (78 g) maple syrup
-- :red_apple: 1 cup (255 g) applesauce
-- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
-- :candy: 0.25 cup (50 g) sugar
+- :olive: 0.33 cup (75 g) coconut oil
+- 3 Tbsp (26 g) flaxseed
+- :droplet: 7.5 Tbsp (106 g) water
+- :honey_pot: 0.25 cup (78 g) maple syrup
+- 1 cup (255 g) applesauce
+- 0.5 cup [brown sugar][1]
+- :candy: 0.25 cup (39 g) sugar
 - :salt: 0.75 tsp salt
-- :cup_with_straw: 1.5 tsp baking soda
-- :dash: 1.5 tsp baking powder
-- :custard: 1 tsp cinnamon
-- :chestnut: 1 cup almond milk
-- :carrot: 1.5 cup grated carrot
-- :ear_of_rice: 1.5 cup (144 g) [almond flour][2]
-- :chestnut: 0.75 cup walnuts
-- :ear_of_rice: 1.5 cup gluten-free flour blend
+- :chestnut: 1.5 tsp baking soda
+- :chestnut: 1.5 tsp baking powder
+- :chestnut: 1 tsp (4 g) cinnamon
+- :glass_of_milk: 1 cup (84 g) almond milk
+- :carrot: 1.5 cup (148 g) grated carrot
+- 1.5 cup [almond flour][2]
+- :chestnut: 0.75 cup (96 g) walnuts
+- :baby_bottle: 1.5 cup (180 g) gluten-free flour blend
 
 ## :cooking: Cookware
 

@@ -16,17 +16,17 @@ hero: assets/images/lemon-and-pea-alfredo.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 lb fusilli con buco pasta
-- :butter: 3 Tbsp unsalted butter
-- :olive: 2 Tbsp olive oil
+- :droplet: 1 lb fusilli con buco pasta
+- :butter: 3 Tbsp (42 g) unsalted butter
+- :olive: 2 Tbsp (25 g) olive oil
 - :garlic: 1 clove garlic
-- :cheese_wedge: 2.5 cup Parmesan
-- :cheese_wedge: 1 cup mascarpone
-- :lemon: 2 tsp lemon zest
+- :cheese_wedge: 2.5 cup (250 g) Parmesan
+- :glass_of_milk: 1 cup (227 g) mascarpone
+- :tangerine: 2 tsp (9 g) lemon zest
 - :salt: 0.75 tsp salt
-- :green_circle: 1.5 cup peas
-- :lemon: 1 Tbsp lemon juice
-- :salt: 1 tsp pink pepper
+- :beans: 1.5 cup (225 g) peas
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :hot_pepper: 1 tsp pink pepper
 
 ## :cooking: Cookware
 

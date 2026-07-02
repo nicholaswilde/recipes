@@ -18,17 +18,17 @@ hero: assets/images/artisan-breadsticks.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp (13 g) olive oil
-- :droplet: 1 1/2 cups (340 g) lukewarm water
+- :olive: 1 Tbsp (12 g) olive oil
+- :candy: 1 1/2 cups lukewarm water
 - :olive: 2 Tbsp (25 g) olive oil
-- :salt: 2 Tbsp (12 g) pizza dough flavor (optional)
-- :candy: 1 tsp granulated sugar
-- :salt: 2 tsp (12 g) table salt
-- :herb: 2 Tbsp (7 g) herbes de Provence (or other dried herbs)
+- :apple: 2 Tbsp (12 g) pizza dough flavor (optional)
+- :candy: 1 tsp (4 g) granulated sugar
+- :salt: 2 tsp table salt
+- :hot_pepper: 2 Tbsp (18 g) herbes de Provence (or other dried herbs)
 - :tea: 2 1/4 tsp instant yeast
-- :bread: 4 1/4 cups (510 g) bread flour
-- :egg: 1 large egg (beaten with 1 Tbsp water for egg wash)
-- :herb: 1/4 cup (43 g) artisan bread topping (or seeds, spices, herbs, salts)
+- :bread: 4 1/4 cups bread flour
+- :baby_bottle: 1 large egg (beaten with 1 Tbsp water for egg wash)
+- :hot_pepper: 1/4 cup (43 g) artisan bread topping (or seeds, spices, herbs, salts)
 
 ## :cooking: Cookware
 

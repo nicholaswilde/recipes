@@ -15,12 +15,12 @@ hero: assets/images/fiesta-salad.webp
 
 ## :salt: Ingredients
 
-- :carrot: some roasted corn
-- :beans: some [black beans][3]
-- :hot_pepper: some fajita veggies
+- :bread: some roasted corn
+- some [black beans][3]
+- :bell_pepper: some fajita veggies
 - :bread: some tortilla strips
-- :leafy_green: some mixed greens
-- :baby_bottle: some [Chipotle Ranch Dressing][2]
+- :chestnut: some mixed greens
+- some [Chipotle Ranch Dressing][2]
 
 ## :cooking: Cookware
 

@@ -17,9 +17,9 @@ hero: assets/images/internet-famous-crispy-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 3 lbs Yukon gold potatoes
+- :sweet_potato: 3 lbs Yukon gold potatoes
 - :olive: some olive oil
-- :herb: some dill or parsley (optional)
+- :tomato: some dill or parsley (optional)
 
 ## :cooking: Cookware
 

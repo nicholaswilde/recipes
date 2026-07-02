@@ -19,12 +19,12 @@ hero: assets/images/homemade-vegan-pesto-forks-over-knives.webp
 ## :salt: Ingredients
 
 - :chestnut: 0.25 cup (28 g) raw cashews
-- :herb: 2 cups (80 g) fresh basil (packed)
-- :cheese_wedge: 2 Tbsp (10 g) nutritional yeast
-- :garlic: 3 cloves (15 g) garlic (roughly chopped)
-- :tangerine: 2 tsp (10 g) lemon juice
+- :herb: 2 cups (84 g) fresh basil (packed)
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
+- :garlic: 3 cloves garlic (roughly chopped)
+- :tangerine: 2 tsp (9 g) lemon juice
 - :salt: 0.13 tsp (0.75 g) sea salt
-- :glass_of_milk: 2 to 4 Tbsp (30 to 60 g) unsweetened unflavored plant milk (almond, soy, cashew, or rice)
+- :baby_bottle: 2 to 4 Tbsp (30 to 60 g) unsweetened unflavored plant milk (almond, soy, cashew, or rice)
 
 ## :cooking: Cookware
 

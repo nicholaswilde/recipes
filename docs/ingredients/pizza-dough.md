@@ -17,13 +17,13 @@ hero: assets/images/pizza-dough.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cup (240 g) all-purpose flour
-- :microbe: 1 pkg instant yeast
-- :candy: 1.5 tsp sugar
+- :bread: 2 cup (240 g) all-purpose flour
+- :tea: 1 pkg instant yeast
+- :candy: 1.5 tsp (5 g) sugar
 - :salt: 0.75 tsp salt
-- :garlic: 0.25 tsp garlic powder (optional)
-- :herb: 0.25 tsp dried basil (optional)
-- :olive: 2 Tbsp olive oil
+- :garlic: 0.25 tsp (1 g) garlic powder (optional)
+- :apple: 0.25 tsp (1 g) dried basil (optional)
+- :olive: 2 Tbsp (25 g) olive oil
 - :droplet: 0.75 cup (170 g) warm water
 
 ## :cooking: Cookware

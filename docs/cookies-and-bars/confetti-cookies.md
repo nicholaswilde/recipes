@@ -18,15 +18,15 @@ hero: assets/images/confetti-cookies.webp
 ## :salt: Ingredients
 
 - :bread: 3 cups (360 g) all-purpose flour
-- :chestnut: 1 tsp (4 g) baking powder
+- :chestnut: 1 tsp baking powder
 - :chestnut: 0.25 tsp (1.5 g) baking soda
 - :salt: 0.75 tsp (4.5 g) fine sea salt
 - :butter: 1 cup (226 g) unsalted butter
 - :cheese_wedge: 0.25 cup (57 g) cream cheese
 - :candy: 1.25 cups (248 g) granulated sugar
-- :egg: 1 large (50 g) egg
-- :flower_playing_cards: 2 tsp (9 g) vanilla extract
-- :flower_playing_cards: 0.25 tsp almond extract
+- :egg: 1 large egg
+- :flower_playing_cards: 2 tsp vanilla extract
+- :flower_playing_cards: 0.25 tsp (1 g) almond extract
 - :art: 1 cup rainbow sprinkles
 
 ## :cooking: Cookware

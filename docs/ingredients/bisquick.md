@@ -16,8 +16,8 @@ hero: assets/images/bisquick.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :dash: 1.5 tsp baking powder
+- :bread: 1 cup (120 g) all-purpose flour
+- :chestnut: 1.5 tsp baking powder
 - :salt: 0.25 tsp salt
 - :butter: 1 Tbsp butter
 

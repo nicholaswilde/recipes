@@ -18,9 +18,9 @@ hero: assets/images/peanut-butter-cups.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 12 oz milk chocolate
-- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
-- :candy: 3 Tbsp confectioners’ sugar
+- :chocolate_bar: 12 oz (255 g) milk chocolate
+- :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+- :candy: 3 Tbsp (34 g) confectioners’ sugar
 - :butter: 1 Tbsp butter
 - :salt: 0.13 tsp salt
 

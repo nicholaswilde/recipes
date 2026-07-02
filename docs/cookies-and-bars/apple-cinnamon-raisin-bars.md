@@ -18,16 +18,16 @@ hero: assets/images/apple-cinnamon-raisin-bars.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups flour
-- :dash: 2 tsp baking powder
-- :custard: 1.5 tsp cinnamon
+- :bread: 2 cups (184 g) flour
+- :chestnut: 2 tsp baking powder
+- :chestnut: 1.5 tsp (6 g) cinnamon
 - :salt: 0.5 tsp salt
-- :maple_leaf: 2 cups (426 g) [light brown sugar][1]
+- :candy: 2 cups (340 g) [light brown sugar][1]
 - :egg: 2 eggs
-- :butter: 0.5 cup (114 g) unsalted butter
-- :icecream: 1 tsp vanilla
-- :green_apple: 1.5 cup diced apples
-- :grapes: 0.75 cup raisins
+- :butter: 0.5 cup (113 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla
+- :apple: 1.5 cup (128 g) diced apples
+- :grapes: 0.75 cup (112 g) raisins
 
 ## :cooking: Cookware
 

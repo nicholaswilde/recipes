@@ -17,11 +17,11 @@ hero: assets/images/chipotle-mayonnaise.webp
 
 ## :salt: Ingredients
 
-- :egg: 0.5 cup [mayonnaise][2]
-- :rice: 0.25 cup sour cream
-- :lemon: 2 Tbsp lime juice
+- 0.5 cup [mayonnaise][2]
+- :glass_of_milk: 0.25 cup (57 g) sour cream
+- :tangerine: 2 Tbsp (28 g) lime juice
 - :garlic: 1 clove garlic
-- :hot_pepper: 2 chipotles in adobo sauce
+- :racehorse: 2 chipotles in adobo sauce
 
 ## :cooking: Cookware
 

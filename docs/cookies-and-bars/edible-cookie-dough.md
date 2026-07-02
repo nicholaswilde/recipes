@@ -17,12 +17,12 @@ hero: assets/images/edible-cookie-dough.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 89 g all-purpose flour
+- :bread: 89 g all-purpose flour
 - :butter: 30 g unsalted butter
 - :candy: 15 g granulated sugar
 - :maple_leaf: 30 g brown sugar
-- :icecream: 0.25 tsp vanilla
-- :glass_of_milk: 15 ml milk
+- :flower_playing_cards: 0.25 tsp vanilla
+- :glass_of_milk: 15 ml (14 g) milk
 - :salt: 0.13 tsp salt
 - :chocolate_bar: 59 g chocolate chips
 

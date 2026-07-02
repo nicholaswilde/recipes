@@ -23,27 +23,27 @@ hero: assets/images/challah.webp
 
         - :egg: 3 large egg yolks
         - :egg: 3 large eggs
-        - :oil_drum: 66 g vegetable oil
-        - :ice_cube: 302 g cold water
-        - :ear_of_rice: 930 g all-purpose flour
+        - :olive: 66 g vegetable oil
+        - :baby_bottle: 302 g cold water
+        - :bread: 930 g all-purpose flour
         - :candy: 99 g granulated sugar
         - :salt: 18 g salt
-        - :microbe: 17 g instant yeast
+        - :tea: 17 g instant yeast
 
     === "Half Batch"
 
         - :egg: 2 large eggs
-        - :oil_drum: 33 g vegetable oil
-        - :ice_cube: 151 g cold water
-        - :ear_of_rice: 465 g all-purpose flour
+        - :olive: 33 g vegetable oil
+        - :baby_bottle: 151 g cold water
+        - :bread: 465 g all-purpose flour
         - :candy: 50 g granulated sugar
         - :salt: 9 g salt
-        - :microbe: 9 g instant yeast
+        - :tea: 9 g instant yeast
 
 === "Topping"
 
     - :egg: 1 large egg
-    - :droplet: 1 tsp water
+    - :droplet: 1 tsp (5 g) water
     - :seedling: some poppy or sesame seeds
 
 ## :cooking: Cookware

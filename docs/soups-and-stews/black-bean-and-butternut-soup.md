@@ -17,17 +17,17 @@ hero: assets/images/black-bean-and-butternut-soup.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 yellow onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 yellow onion
 - :garlic: 3 cloves garlic
-- :leafy_green: 0.5 head cabbage
-- :sweet_potato: 3 cups butternut squash
-- :stew: 3 cups [vegetable broth][1]
-- :herb: 1 tsp cumin
-- :chocolate_bar: 1 tsp cocoa powder
+- 0.5 head cabbage
+- 3 cups butternut squash
+- 3 cups [vegetable broth][1]
+- :chestnut: 1 tsp (3 g) cumin
+- :chocolate_bar: 1 tsp (2 g) cocoa powder
 - :hot_pepper: 1 pinch cayenne
-- :potato: 2 cups [black beans][2]
-- :flatbread: 4 corn tortillas
+- 2 cups [black beans][2]
+- :bread: 4 corn tortillas
 - :salt: some salt
 - :herb: some cilantro
 - :avocado: 1 avocado

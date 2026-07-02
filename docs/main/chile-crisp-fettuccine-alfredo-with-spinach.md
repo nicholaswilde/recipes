@@ -16,13 +16,13 @@ hero: assets/images/chile-crisp-fettuccine-alfredo-with-spinach.webp
 ## :salt: Ingredients
 
 - :droplet: water, for boiling
-- :salt: salt, to taste
-- :butter: 4 Tbsp (56 g) butter
-- :hot_pepper: 1 to 2 Tbsp chile crisp, plus more to taste
+- :candy: salt, to taste
+- :butter: 4 Tbsp butter
+- :baby_bottle: 1 to 2 Tbsp chile crisp, plus more to taste
 - :glass_of_milk: 1 cup (227 g) heavy cream
 - :bread: 1 lb dried fettuccine
 - :leafy_green: 5 oz baby spinach
-- :cheese_wedge: ¾ cup (64 g) finely grated Parmesan, plus more for serving
+- :baby_bottle: ¾ cup finely grated Parmesan, plus more for serving
 
 ## :cooking: Cookware
 

@@ -17,11 +17,11 @@ hero: assets/images/gracias-madre-black-beans.webp
 
 ## :salt: Ingredients
 
-- :canned_food: 1 cup [dried black beans][2]
-- :fallen_leaf: 1 bay leaf
+- :burrito: 1 cup (175 g) [dried black beans][2]
+- :herb: 1 bay leaf
 - :herb: 0.5 tsp oregano
-- :olive: 1 Tbsp olive oil
-- :onion: 0.5 cup onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 0.5 cup (48 g) onion
 - :hot_pepper: 1 jalapeño
 - :salt: 2 tsp salt
 

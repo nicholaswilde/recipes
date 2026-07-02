@@ -19,11 +19,11 @@ hero: assets/images/cook's-country-perfect-pesto.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup pine nuts
-- :olive: 0.75 cup olive oil, divided
+- :chestnut: 0.5 cup (71 g) pine nuts
+- :olive: 0.75 cup (150 g) olive oil, divided
 - :herb: 4 oz basil stems
 - :salt: 2.25 tsp salt, divided
-- :cheese_wedge: 1.25 oz Parmesan
+- :cheese_wedge: 1.25 oz (16 g) Parmesan
 - :garlic: 2 cloves garlic
 
 ## :cooking: Cookware

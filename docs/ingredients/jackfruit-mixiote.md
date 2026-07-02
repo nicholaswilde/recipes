@@ -17,16 +17,16 @@ hero: assets/images/jackfruit-mixiote.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 medium onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 medium onion
 - :garlic: 2 cloves garlic
-- :custard: 2 tsp cumin
-- :bell_pepper: 0.5 tsp chipotle powder
-- :melon: 1 20-oz can jackfruit
-- :tomato: 0.5 cup [salsa ranchera][2]
-- :hot_springs: 0.33 cup [barbecue sauce][3]
-- :hot_pepper: 1 small dried ancho chile
-- :maple_leaf: 2 tsp brown sugar
+- :chestnut: 2 tsp (6 g) cumin
+- :hot_pepper: 0.5 tsp chipotle powder
+- :baby_bottle: 1 20-oz can jackfruit
+- 0.5 cup [salsa ranchera][2]
+- 0.33 cup [barbecue sauce][3]
+- :beans: 1 small dried ancho chile
+- :maple_leaf: 2 tsp (9 g) brown sugar
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

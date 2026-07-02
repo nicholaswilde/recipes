@@ -17,22 +17,22 @@ hero: assets/images/lumpia.webp
 
 ## :salt: Ingredients
 
-- :onion: 0.5 medium onion
-- :oil_drum: 1 tsp vegetable oil
+- :tea: 0.5 medium onion
+- :olive: 1 tsp (4 g) vegetable oil
 - :garlic: 2 cloves garlic
-- :cut_of_meat: 1 lb ground pork or chicken
-- :shrimp: 0.5 lb shrimp (optional)
+- :apple: 1 lb ground pork or chicken
+- :leafy_green: 0.5 lb shrimp (optional)
 - :garlic: 0.75 tsp garlic powder
-- :onion: 1 tsp onion powder
+- :chestnut: 1 tsp (2 g) onion powder
 - :salt: 1 tsp salt
-- :sweet_potato: 0.5 tsp ginger powder
-- :leafy_green: 0.5 head green cabbage
+- :chestnut: 0.5 tsp ginger powder
+- :beans: 0.5 head green cabbage
 - :carrot: 2 carrots
-- :seedling: 2 cups bean sprouts (optional)
-- :burrito: some egg roll wrappers
-- :ear_of_rice: some flour
+- :burrito: 2 cups bean sprouts (optional)
+- :bread: some egg roll wrappers
+- :bread: some flour
 - :droplet: some water
-- :oil_drum: some vegetable oil
+- :olive: some vegetable oil
 
 ## :pencil: Instructions
 

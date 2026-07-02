@@ -16,12 +16,12 @@ hero: assets/images/pearl-couscous.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :shallow_pan_of_food: 1 cup pearl couscous
-- :stew: 1.5 cups water or [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :olive: 2 Tbsp (25 g) olive oil
+- 1 cup (196 g) pearl couscous
+- :baby_bottle: 1.5 cups (340 g) water or [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some kosher salt
-- :herb: 0.25 cup parsley (optional)
-- :lemon: 1 lemon zest (optional)
+- :leafy_green: 0.25 cup parsley (optional)
+- :leafy_green: 1 lemon zest (optional)
 
 ## :cooking: Cookware
 

@@ -16,16 +16,16 @@ hero: assets/images/apple-pie-overnight-oats.webp
 
 ## :salt: Ingredients
 
-- :green_apple: 0.75 cup chopped apples
-- :custard: 0.75 tsp cinnamon
-- :maple_leaf: 2 Tbsp maple syrup
+- :apple: 0.75 cup (64 g) chopped apples
+- :chestnut: 0.75 tsp (3 g) cinnamon
+- :honey_pot: 2 Tbsp (39 g) maple syrup
 - :salt: 1 pinch salt
-- :glass_of_milk: 0.75 cup almond milk
-- :seedling: 1 Tbsp chia seeds
-- :custard: 0.5 tsp cinnamon
-- :butter: 2 Tbsp cashew or almond butter
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 0.5 cup rolled oats
+- :glass_of_milk: 0.75 cup (63 g) almond milk
+- :seedling: 1 Tbsp (9 g) chia seeds
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :chestnut: 2 Tbsp (34 g) cashew or almond butter
+- :flower_playing_cards: 1 tsp vanilla
+- :ear_of_rice: 0.5 cup (56 g) rolled oats
 
 ## :cooking: Cookware
 

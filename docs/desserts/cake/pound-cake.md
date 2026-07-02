@@ -20,13 +20,13 @@ hero: assets/images/pound-cake.webp
 
 - :butter: 196 g unsalted butter
 - :candy: 250 g granulated sugar
-- :dash: 0.5 tsp baking powder
+- :chestnut: 0.5 tsp baking powder
 - :salt: 0.5 tsp salt
 - :egg: 3 large eggs
 - :egg: 1 large egg yolk
-- :rice: 120 g sour cream
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 187 g all-purpose flour
+- :glass_of_milk: 120 g sour cream
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 187 g all-purpose flour
 
 ## :cooking: Cookware
 

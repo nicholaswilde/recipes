@@ -20,17 +20,17 @@ hero: assets/images/thai-red-curry-paste.webp
 
 - :hot_pepper: 8 to 10 large dried red chilies, cut into small pieces and seeded
 - :droplet: Warm water, for soaking
-- :curry: 1 Tbsp (6 g) coriander seeds
-- :curry: 1 tsp (2 g) cumin seeds
-- :curry: 1/2 tsp (1 g) white peppercorns
-- :salt: 1 tsp (6 g) table salt
-- :herb: 2 stalks lemongrass, white part only, finely sliced
-- :curry: 1 Tbsp (15 g) galangal, peeled and finely chopped
-- :lemon: 1 tsp (2 g) kaffir lime zest, finely grated
-- :herb: 1 Tbsp (15 g) coriander root or cilantro stems, finely chopped
-- :garlic: 2 Tbsp (16 g) garlic, finely chopped
-- :onion: 3 Tbsp (30 g) shallots, finely chopped
-- :stew: 1 tsp (5 g) shrimp paste (or miso paste for vegan)
+- :seedling: 1 Tbsp (9 g) coriander seeds
+- :chestnut: 1 tsp cumin seeds
+- :bread: 1/2 tsp white peppercorns
+- :salt: 1 tsp table salt
+- :beans: 2 stalks lemongrass, white part only, finely sliced
+- :hot_pepper: 1 Tbsp (10 g) galangal, peeled and finely chopped
+- :garlic: 1 tsp (2 g) kaffir lime zest, finely grated
+- :apple: 1 Tbsp (6 g) coriander root or cilantro stems, finely chopped
+- :garlic: 2 Tbsp (19 g) garlic, finely chopped
+- :beans: 3 Tbsp (29 g) shallots, finely chopped
+- :takeout_box: 1 tsp (6 g) shrimp paste (or miso paste for vegan)
 
 ## :cooking: Cookware
 

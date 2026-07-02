@@ -17,10 +17,10 @@ hero: assets/images/4-ingredient-chocolate-mousse.webp
 
 ## :salt: Ingredients
 
-- :butter: 2 boxes silken tofu
-- :chocolate_bar: 4 Tbsp cacao powder
-- :grapes: 1 cup [date paste][1]
-- :icecream: 1 tsp vanilla
+- :cheese_wedge: 2 boxes silken tofu
+- :chestnut: 4 Tbsp (27 g) cacao powder
+- 1 cup [date paste][1]
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -3,6 +3,7 @@ comments: true
 tags:
   - bread
 ---
+
 # Bared Bacon Cheddar Cornbread Cake
 
 ![Bared Bacon Cheddar Cornbread Cake][1]{ loading=lazy }
@@ -18,12 +19,12 @@ tags:
 - :egg: 2 large eggs
 - :seedling: 1 cup (198 g) sunflower oil
 - :glass_of_milk: 1.5 cups (340 g) milk
-- :apple: 2 boxes cornbread mix
+- :corn: 2 boxes cornbread mix
 - :cheese_wedge: 2 cups (228 g) sharp cheddar cheese
-- :apple: 1 pkg fully cooked uncured applewood smoked bacon
-- :baby_bottle: 1 pkg (8 oz) mascarpone
-- :baby_bottle: 1 pkg (7.5 oz) crème fraiche
-- :apple: 1 tsp Dijon mustard
+- :bacon: 1 pkg fully cooked uncured applewood smoked bacon
+- :glass_of_milk: 1 pkg (8 oz) mascarpone
+- :glass_of_milk: 1 pkg (7.5 oz) crème fraiche
+- :seedling: 1 tsp Dijon mustard
 
 ## :cooking: Cookware
 
@@ -96,4 +97,3 @@ pile on remainder of bacon.
 - <https://www.traderjoes.com/home/recipes/bared-bacon-cheddar-cornbread-cake>
 
 [1]: <../assets/images/bared-bacon-cheddar-cornbread-cake.webp>
-

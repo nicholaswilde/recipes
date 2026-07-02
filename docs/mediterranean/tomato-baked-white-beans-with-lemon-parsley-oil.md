@@ -17,21 +17,21 @@ hero: assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.webp
 
 ## :salt: Ingredients
 
-- :canned_food: 1 cup white beans
-- :fallen_leaf: 1 bay leaf
+- :glass_of_milk: 1 cup (106 g) white beans
+- :herb: 1 bay leaf
 - :garlic: 2 cloves garlic
-- :olive: 1 Tbsp olive oil
-- :onion: 0.5 yellow onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 0.5 yellow onion
 - :garlic: 2 cloves garlic
-- :tomato: 3 cups diced tomatoes
+- :tomato: 3 cups (426 g) diced tomatoes
 - :herb: 1 Tbsp chopped oregano
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- :cheese_wedge: 6 oz feta
+- :cheese_wedge: 6 oz (86 g) feta
 - :herb: 0.5 bunch parsley
-- :lemon: 0.5 lemon zest
-- :lemon: 0.5 lemon juice
-- :olive: 0.25 cup olive oil
+- :tangerine: 0.5 lemon zest
+- :tangerine: 0.5 lemon juice
+- :olive: 0.25 cup (50 g) olive oil
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

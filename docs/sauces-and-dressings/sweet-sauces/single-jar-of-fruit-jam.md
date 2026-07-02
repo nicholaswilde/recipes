@@ -18,9 +18,9 @@ hero: assets/images/single-jar-of-fruit-jam.webp
 
 ## :salt: Ingredients
 
-- :strawberry: 2 cup fruit
-- :candy: 0.75 cup (148 g) sugar
-- :lemon: 1 Tbsp lemon juice
+- 2 cup (256 g) fruit
+- :candy: 0.75 cup (117 g) sugar
+- :tangerine: 1 Tbsp (14 g) lemon juice
 
 ## :cooking: Cookware
 

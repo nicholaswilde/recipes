@@ -17,13 +17,13 @@ hero: assets/images/pita.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :microbe: 2 tsp instant yeast
-- :ear_of_rice: 2 tsp King Arthur Easy Roll Dough Improver (optional)
-- :candy: 2 tsp granulated sugar
+- :bread: 360 g all-purpose flour
+- :tea: 2 tsp (6 g) instant yeast
+- :apple: 2 tsp King Arthur Easy Roll Dough Improver (optional)
+- :candy: 2 tsp (8 g) granulated sugar
 - :salt: 9 g salt
 - :droplet: 227 g water
-- :oil_drum: 25 g vegetable oil
+- :olive: 25 g vegetable oil
 
 ## :cooking: Cookware
 

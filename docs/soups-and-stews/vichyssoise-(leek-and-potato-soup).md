@@ -17,13 +17,13 @@ hero: assets/images/vichyssoise-(leek-and-potato-soup).webp
 
 ## :salt: Ingredients
 
-- :potato: 2 cups Yukon gold potatoes, peeled and sliced
-- :leafy_green: 3 cups sliced white leek
-- :stew: 1.5 qts [vegetable stock][1][^1]
+- :hot_pepper: 2 cups (172 g) Yukon gold potatoes, peeled and sliced
+- :bread: 3 cups sliced white leek
+- 1.5 qts [vegetable stock][1][^1]
 - :salt: 1 pinch salt
 - :salt: some white pepper
-- :glass_of_milk: 1 cup whipping cream
-- :herb: 3 Tbsp minced chives
+- :glass_of_milk: 1 cup (227 g) whipping cream
+- :tea: 3 Tbsp (8 g) minced chives
 
 ## :cooking: Cookware
 

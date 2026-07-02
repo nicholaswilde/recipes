@@ -17,14 +17,14 @@ hero: assets/images/taco-seasoning.webp
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1 tbsp chili powder
-- :herb: 1.5 tsp cumin
+- :hot_pepper: 1 tbsp (7 g) chili powder
+- :chestnut: 1.5 tsp (4 g) cumin
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :hot_pepper: 0.5 tsp paprika
+- :candy: 0.5 tsp paprika
 - :garlic: 0.25 tsp garlic powder
-- :onion: 0.25 tsp onion powder
-- :hot_pepper: 0.25 tsp red pepper flakes
+- :chestnut: 0.25 tsp (1 g) onion powder
+- :hot_pepper: 0.25 tsp (1 g) red pepper flakes
 - :herb: 0.25 tsp oregano
 
 ## :cooking: Cookware

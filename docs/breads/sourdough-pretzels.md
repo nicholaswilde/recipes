@@ -20,22 +20,22 @@ hero: assets/images/sourdough-pretzels.webp
 === "Pretzels"
 
     - :droplet: 198 g water
-    - :microbe: 227 g [sourdough starter][2]
-    - :ear_of_rice: 360 g bread flour
+    - 227 g [sourdough starter][2]
+    - :bread: 360 g bread flour
     - :glass_of_milk: 28 g dry milk
     - :candy: 14 g granulated sugar
-    - :ear_of_rice: 18 g non-diastatic malt powder (alternative)
-    - :butter: 1 Tbsp unsalted butter or vegetable oil
+    - :chocolate_bar: 18 g non-diastatic malt powder (alternative)
+    - :baby_bottle: 1 Tbsp (14 g) unsalted butter or vegetable oil
     - :salt: 9 g salt
-    - :microbe: 2 tsp instant yeast
+    - :tea: 2 tsp (6 g) instant yeast
 
 === "Topping"
 
     - :candy: 14 g granulated sugar
-    - :ear_of_rice: 18 g non-diastatic malt powder (alternative)
+    - :chocolate_bar: 18 g non-diastatic malt powder (alternative)
     - :droplet: 28 g water
     - :salt: some pretzel salt
-    - :butter: 28 g melted unsalted butter
+    - :baby_bottle: 28 g melted unsalted butter
 
 ## :cooking: Cookware
 

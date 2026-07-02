@@ -18,15 +18,15 @@ hero: assets/images/iced-chai-latte.png
 
 === "Whipped Cream"
 
-    - :icecream: 0.5 cup heavy cream
-    - :rice: 2 tsp TJ's Spicy Chai Tea Latte Mix
-    - :icecream: 1 tsp Bourbon Vanilla Extract
+    - :glass_of_milk: 0.5 cup (114 g) heavy cream
+    - :bread: 2 tsp (5 g) TJ's Spicy Chai Tea Latte Mix
+    - :flower_playing_cards: 1 tsp Bourbon Vanilla Extract
 
 === "Chai Iced Latte"
 
-    - :rice: 6 Tbsp TJ's Spicy Chai Tea Latte Mix
-    - :hotsprings: 0.5 cup hot water
-    - :coffee: 1 cup TJ's Cold Brew Coffee Concentrate
+    - :bread: 6 Tbsp (41 g) TJ's Spicy Chai Tea Latte Mix
+    - :droplet: 0.5 cup (114 g) hot water
+    - :apple: 1 cup (280 g) TJ's Cold Brew Coffee Concentrate
 
 ## :cooking: Cookware
 

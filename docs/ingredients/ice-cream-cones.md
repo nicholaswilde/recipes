@@ -19,8 +19,8 @@ hero: assets/images/ice-cream-cones.webp
 - :egg: 2 large egg whites
 - :salt: 1 pinch salt
 - :candy: 95 g confectioners' sugar
-- :icecream: 0.25 tsp vanilla
-- :ear_of_rice: 65 g all-purpose flour
+- :flower_playing_cards: 0.25 tsp vanilla
+- :bread: 65 g all-purpose flour
 - :butter: 55 g unsalted butter
 
 ## :cooking: Cookware

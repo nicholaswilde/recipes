@@ -17,12 +17,12 @@ hero: assets/images/cucumber-sandwich.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 2 oz cream cheese
-- :microbe: 1 Tbsp Greek yogurt
-- :herb: 1 Tbsp chives
-- :herb: 1 Tbsp dill
+- :cheese_wedge: 2 oz (57 g) cream cheese
+- :glass_of_milk: 1 Tbsp (14 g) Greek yogurt
+- 1 Tbsp (3 g) chives
+- :apple: 1 Tbsp dill
 - :salt: 0.25 tsp pepper
-- :bread: 2 slices sandwich bread
+- :four_leaf_clover: 2 slices sandwich bread
 - :cucumber: 0.33 cup cucumber
 
 ## :cooking: Cookware

@@ -19,7 +19,7 @@ hero: assets/images/marinara-sauce.webp
 ## :salt: Ingredients
 
 - :tomato: 1 28-oz can whole tomatoes with their juice
-- :olive: 0.33 cup olive oil
+- :olive: 0.33 cup (66 g) olive oil
 - :garlic: 3 cloves garlic
 - :herb: 6 sprigs basil
 - :herb: 6 sprigs parsley

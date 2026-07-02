@@ -18,19 +18,19 @@ hero: assets/images/italian-vinaigrette.webp
 
 ## :salt: Ingredients
 
-- :microbe: 2 tsp nutritional yeast
+- :cheese_wedge: 2 tsp (2 g) nutritional yeast
 - :herb: 1.5 tsp dried basil
-- :herb: 0.5 tsp dried oregano
+- :herb: 0.5 tsp (1 g) dried oregano
 - :garlic: 0.5 tsp garlic powder
-- :leafy_green: 0.25 tsp celery seed
+- :leafy_green: 0.25 tsp (1 g) celery seed
 - :hot_pepper: 1 pinch crushed red pepper (optional)
 - :salt: 0.125 tsp pepper
-- :sake: 0.25 cup red wine vinegar
-- :droplet: 0.25 cup water
-- :maple_leaf: 2 Tbsp maple syrup
-- :lemon: 1 Tbsp lemon juice
-- :seedling: 1.5 tsp tahini
-- :hotdog: 1 tsp Dijon mustard
+- :wine_glass: 0.25 cup (52 g) red wine vinegar
+- :droplet: 0.25 cup (57 g) water
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :seedling: 1.5 tsp (8 g) tahini
+- :seedling: 1 tsp Dijon mustard
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware

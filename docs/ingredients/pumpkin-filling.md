@@ -17,13 +17,13 @@ hero: assets/images/pumpkin-filling.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 medium onions
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 medium onions
 - :mushroom: 1 cup cremini mushroom
-- :jack_o_lantern: 1.5 cups pumpkin or butternut squash
+- :muffin: 1.5 cups (340 g) pumpkin or butternut squash
 - :salt: 1 tsp salt
 - :leafy_green: 1 cup kale
-- :leafy_green: 2 Tbsp fresh mint
+- :herb: 2 Tbsp fresh mint
 
 ## :cooking: Cookware
 

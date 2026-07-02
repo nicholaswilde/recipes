@@ -18,14 +18,14 @@ hero: assets/images/red-wine-vinaigrette.webp
 ## :salt: Ingredients
 
 - :garlic: 1 Tbsp garlic
-- :garlic: 1 Tbsp shallots
-- :herb: 1 Tbsp fresh basil
-- :sake: 0.25 cup red wine vinegar
-- :hotdog: 2 tsp whole grain mustard
-- :cactus: 2 tsp agave
+- :garlic: 1 Tbsp (10 g) shallots
+- :herb: 1 Tbsp (3 g) fresh basil
+- :wine_glass: 0.25 cup (52 g) red wine vinegar
+- :seedling: 2 tsp (5 g) whole grain mustard
+- 2 tsp (14 g) agave
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :olive: 0.75 cup olive oil
+- :olive: 0.75 cup (150 g) olive oil
 
 ## :cooking: Cookware
 

@@ -15,16 +15,16 @@ hero: assets/images/meat-free-meat-loaf.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 small onion
+- :tea: 1 small onion
 - :carrot: 1 small carrot
-- :chestnut: 0.5 cup (57 g) ground walnuts
-- :bread: 1 cup (113 g) bread crumbs
-- :beans: 1 cup (200 g) cooked brown [lentils][2]
-- :cheese_wedge: 0.25 cup (60 g) soft tofu
-- :seedling: 2 Tbsp [tahini][3]
-- :takeout_box: 1 Tbsp [soy sauce][4]
+- :chestnut: 0.5 cup (72 g) ground walnuts
+- :potato: 1 cup (112 g) bread crumbs
+- :apple: 1 cup (170 g) cooked brown [lentils][2]
+- :cheese_wedge: 0.25 cup soft tofu
+- 2 Tbsp [tahini][3]
+- 1 Tbsp [soy sauce][4]
 - :herb: 1 Tbsp parsley
-- :cut_of_meat: 1 pkg TJ's soy meat
+- :takeout_box: 1 pkg TJ's soy meat
 - :salt: some salt
 - :salt: some pepper
 

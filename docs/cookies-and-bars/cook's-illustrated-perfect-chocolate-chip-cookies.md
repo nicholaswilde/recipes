@@ -19,16 +19,16 @@ hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
-- :cup_with_straw: 0.5 tsp baking soda
+- :bread: 1.75 cups (210 g) all-purpose flour
+- :chestnut: 0.5 tsp baking soda
 - :butter: 14 Tbsp (198 g) unsalted butter
 - :candy: 0.5 cup (99 g) granulated sugar
-- :maple_leaf: 0.75 cup (160 g) [dark brown sugar][1]
+- :candy: 0.75 cup (128 g) [dark brown sugar][1]
 - :salt: 1 tsp salt
-- :ice_cream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 - :egg: 1 egg
 - :egg: 1 egg yolk
-- :chocolate_bar: 1.25 cups (213 g) semi-sweet chocolate chips
+- :chestnut: 1.25 cups (212 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

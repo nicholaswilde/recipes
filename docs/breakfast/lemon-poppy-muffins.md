@@ -20,22 +20,22 @@ hero: assets/images/lemon-poppy-muffins.webp
 === "Muffins"
 
     - :candy: 0.67 cup (133 g) granulated sugar
-    - :lemon: 1 lemon zest
-    - :ear_of_rice: 2 cups (240 g) all-purpose flour
-    - :dash: 2 tsp baking powder
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :tangerine: 1 lemon zest
+    - :bread: 2 cups (240 g) all-purpose flour
+    - :chestnut: 2 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
     - :salt: 0.25 tsp salt
-    - :rice: 0.75 cup (170 g) sour cream
+    - :glass_of_milk: 0.75 cup (170 g) sour cream
     - :egg: 2 large eggs
-    - :icecream: 1 tsp vanilla
-    - :lemon: 1 lemon juice
-    - :butter: 1 stick melted and cooled butter
+    - :flower_playing_cards: 1 tsp vanilla
+    - :tangerine: 1 lemon juice
+    - :baby_bottle: 1 stick melted and cooled butter
     - :seedling: 2 Tbsp poppy seeds
 
 === "Icing"
 
-    - :candy: 1 cup (198 g) confectioners' sugar
-    - :lemon: 3 Tbsp lemon juice
+    - :candy: 1 cup (113 g) confectioners' sugar
+    - :tangerine: 3 Tbsp (42 g) lemon juice
 
 ## :cooking: Cookware
 

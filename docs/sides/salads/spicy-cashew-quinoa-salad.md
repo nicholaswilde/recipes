@@ -15,15 +15,15 @@ hero: assets/images/spicy-cashew-quinoa-salad.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (350 g) cooked [quinoa][2]
-- :leafy_green: 1 bag TJ's Organic Shredded Green & Red Cabbage with Orange Carrots
-- :beans: 1 pkg TJ's Shelled Edamame with Sea Salt
+- :ear_of_rice: 2 cups (340 g) cooked [quinoa][2]
+- :tea: 1 bag TJ's Organic Shredded Green & Red Cabbage with Orange Carrots
+- :salt: 1 pkg TJ's Shelled Edamame with Sea Salt
 - :hot_pepper: 1 red bell pepper
 - :herb: 0.5 bunch cilantro
-- :cheese_wedge: 1 pkg sriracha [tofu][3]
-- :onion: 3 green onions
-- :baby_bottle: 0.5 cup (125 g) TJ's Spicy Cashew Butter Dressing
-- :chestnut: 0.5 cup (55 g) TJ's Chile & Garlic Cashews
+- 1 pkg sriracha [tofu][3]
+- :tea: 3 green onions
+- :chestnut: 0.5 cup (113 g) TJ's Spicy Cashew Butter Dressing
+- :garlic: 0.5 cup (74 g) TJ's Chile & Garlic Cashews
 - :tangerine: 1 lime
 
 ## :cooking: Cookware

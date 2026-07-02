@@ -19,9 +19,9 @@ hero: assets/images/genoise-sponge.webp
 
 - :egg: 4 eggs
 - :candy: 132 g granulated sugar
-- :icecream: 0.33 tsp vanilla
+- :flower_playing_cards: 0.33 tsp vanilla
 - :salt: 0.25 tsp salt
-- :ear_of_rice: 120 g cake flour
+- :bread: 120 g cake flour
 - :butter: 25 g butter
 
 ## :cooking: Cookware

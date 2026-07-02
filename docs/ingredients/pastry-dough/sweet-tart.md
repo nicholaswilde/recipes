@@ -17,11 +17,11 @@ hero: assets/images/sweet-tart.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 40 g [almond flour][1]
+- 40 g [almond flour][1]
 - :candy: 60 g confectioners' sugar
 - :bread: 250 g all-purpose flour
 - :salt: 1 pinch salt
-- :butter: 150 g cold butter
+- :glass_of_milk: 150 g cold butter
 - :egg: 1 egg
 
 ## :cooking: Cookware

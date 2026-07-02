@@ -20,28 +20,28 @@ hero: assets/images/crispy-baked-peanut-tofu.webp
 
 === "Tofu"
 
-    - :butter: 340 g extra-firm tofu
+    - :cheese_wedge: 340 g extra-firm tofu
 
 === "Sauce"
 
-    - :peantus: 38 g peanut butter
-    - :oil_drum: 15 ml sesame oil
-    - :sake: 30 ml tamari or soy sauce or coconut aminos
-    - :maple_leaf: 30 ml maple syrup
+    - :chestnut: 38 g peanut butter
+    - :olive: 15 ml (14 g) sesame oil
+    - :apple: 30 ml (8 g) tamari or soy sauce or coconut aminos
+    - :honey_pot: 30 ml (40 g) maple syrup
     - :garlic: 2 tsp chili garlic sauce
 
 === "Cauliflower Rice"
 
     - :broccoli: 1 small head cauliflower
     - :garlic: 2 cloves garlic
-    - :oil_drum: 15 ml sesame oil
-    - :sake: 2 tsp tamari
+    - :olive: 15 ml (14 g) sesame oil
+    - :takeout_box: 2 tsp tamari
 
 === "Veggies (optional)"
 
     - :leafy_green: 75 g veggies (optional)
-    - :oil_drum: 1 dash sesame oil
-    - :sake: 1 dash tamari
+    - :olive: 1 dash sesame oil
+    - :takeout_box: 1 dash tamari
 
 ## :cooking: Cookware
 

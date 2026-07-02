@@ -17,15 +17,15 @@ hero: assets/images/vegan-bacon.webp
 
 ## :salt: Ingredients
 
-- :butter: 4 oz extra-firm tofu
-- :olive: 2 tsp olive oil
-- :olive: 2 Tbsp olive oil
-- :takeout_box: 2 Tbsp low-sodium soy sauce or tamari
-- :maple_leaf: 2 Tbsp maple syrup
-- :microbe: 1 Tbsp nutritional yeast
+- :cheese_wedge: 4 oz extra-firm tofu
+- :olive: 2 tsp (8 g) olive oil
+- :olive: 2 Tbsp (25 g) olive oil
+- :apple: 2 Tbsp (28 g) low-sodium soy sauce or tamari
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
 - :hot_pepper: 2 tsp smoked paprika
 - :garlic: 1 tsp garlic powder
-- :rice: 6 sheets rice paper
+- :bread: 6 sheets rice paper
 
 ## :cooking: Cookware
 

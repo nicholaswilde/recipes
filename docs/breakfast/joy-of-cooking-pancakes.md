@@ -18,13 +18,13 @@ hero: assets/images/joy-of-cooking-pancakes.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+- :bread: 1.5 cups (180 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :dash: 1.75 Tbsp baking powder
-- :candy: 3 Tbsp sugar
+- :chestnut: 1.75 Tbsp baking powder
+- :candy: 3 Tbsp (29 g) sugar
 - :egg: 2 eggs
-- :butter: 3 Tbsp (42 g) melted butter
-- :glass_of_milk: 1 cup (227 ml) milk
+- :glass_of_milk: 3 Tbsp (51 g) melted butter
+- :coconut: 1 cup (227 g) (227 ml) milk
 
 ## :pencil: Instructions
 

@@ -18,17 +18,17 @@ hero: assets/images/blueberry-smoothie-pancakes.webp
 
 ## :salt: Ingredients
 
-- :blueberries: 1.5 cups blueberries
-- :banana: 1 banana
-- :glass_of_milk: 0.75 cup milk
+- :apple: 1.5 cups (234 g) blueberries
+- :apple: 1 banana
+- :glass_of_milk: 0.75 cup (170 g) milk
 - :egg: 1 egg
-- :ear_of_rice: 1.75 cups whole wheat flour
-- :dash: 2 tsp baking powder
+- :bread: 1.75 cups (198 g) whole wheat flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.25 tsp salt
-- :microbe: some yogurt (optional)
-- :custard: some cinnamon (optional)
-- :chestnut: some nuts (optional)
-- :honey_pot: some honey (optional)
+- :leafy_green: some yogurt (optional)
+- :chestnut: some cinnamon (optional)
+- :leafy_green: some nuts (optional)
+- :leafy_green: some honey (optional)
 
 ## :cooking: Cookware
 

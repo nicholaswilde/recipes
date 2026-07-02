@@ -17,15 +17,15 @@ hero: assets/images/mexican-garbanzo-salad.webp
 
 ## :salt: Ingredients
 
-- :tomato: 3 cups diced tomatoes or 1 container TJ's pico de gallo
-- :onion: 0.5 cup white onion
+- :tomato: 3 cups (510 g) diced tomatoes or 1 container TJ's pico de gallo
+- :beans: 0.5 cup (53 g) white onion
 - :hot_pepper: 2 Tbsp jalapeño
-- :falafel: 1 can chickpeas
-- :herb: 0.25 cup cilantro
-- :lemon: some lime juice
-- :canned_food: 1 can [black beans][1] (optional)
-- :avocado: 1 cup avocado (optional)
-- :cucumber: 1 cucumber (optional)
+- :beans: 1 can chickpeas
+- :herb: 0.25 cup (10 g) cilantro
+- :tangerine: some lime juice
+- :tomato: 1 can [black beans][1] (optional)
+- :leafy_green: 1 cup avocado (optional)
+- :leafy_green: 1 cucumber (optional)
 
 ## :cooking: Cookware
 

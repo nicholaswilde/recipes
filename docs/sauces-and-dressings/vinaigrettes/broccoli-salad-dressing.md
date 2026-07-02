@@ -17,9 +17,9 @@ hero: assets/images/broccoli-salad-dressing.webp
 
 ## :salt: Ingredients
 
-- :egg: 1 cup [mayonnaise][2]
-- :sake: 2 Tbsp red or white wine vinegar
-- :candy: 0.5 cup (99 g) sugar
+- 1 cup [mayonnaise][2]
+- :wine_glass: 2 Tbsp (25 g) red or white wine vinegar
+- :candy: 0.5 cup (78 g) sugar
 - :salt: 0.5 tsp salt
 
 ## :pencil: Instructions

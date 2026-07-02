@@ -18,14 +18,14 @@ hero: assets/images/caramelized-upside-down-banana-cake.webp
 ## :salt: Ingredients
 
 - :olive: some coconut oil spray
-- :butter: 4 Tbsp (57 g) unsalted butter (melted)
-- :candy: 0.5 cup (107 g) brown sugar
-- :apple: 2 to 3 bananas (sliced)
-- :bread: 1 box (425 g) Trader Joe's Banana Bread Mix
+- :baby_bottle: 4 Tbsp (56 g) unsalted butter (melted)
+- :maple_leaf: 0.5 cup (106 g) brown sugar
+- :bacon: 2 to 3 bananas (sliced)
+- :bread: 1 box Trader Joe's Banana Bread Mix
 - :egg: 2 large eggs
-- :olive: 0.33 cup (67 g) vegetable oil
+- :olive: 0.33 cup (65 g) vegetable oil
 - :droplet: 0.75 cup (170 g) water
-- :apple: 1 banana (mashed)
+- 1 banana (mashed)
 - :glass_of_milk: some whipped cream
 
 ## :cooking: Cookware

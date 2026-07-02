@@ -17,26 +17,26 @@ hero: assets/images/sprouted-kitchen-lentil-&-rice-bowls-with-vegetable-kebabs.w
 
 - :garlic: 2 cloves garlic
 - :hot_pepper: 2 roasted red bell peppers
-- :chestnut: 0.75 cup (85 g) walnuts
+- :chestnut: 0.75 cup (96 g) walnuts
 - :honey_pot: 1 Tbsp honey
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :hot_pepper: 1.5 tsp paprika
-- :chestnut: 1 tsp cumin
-- :olive: 3 Tbsp olive oil
-- :beans: 0.75 cup (155 g) cooked [lentils][2]
-- :ear_of_rice: 1 pkg TJ's frozen [brown rice][3]
-- :leafy_green: 3 cups (90 g) spinach
+- :candy: 1.5 tsp paprika
+- :chestnut: 1 tsp (3 g) cumin
+- :olive: 3 Tbsp (38 g) olive oil
+- :ear_of_rice: 0.75 cup (128 g) cooked [lentils][2]
+- :apple: 1 pkg TJ's frozen [brown rice][3]
+- :leafy_green: 3 cups spinach
 - :sweet_potato: 0.5 lb potatoes
 - :butter: 2 Tbsp butter
-- :olive: 2 Tbsp olive oil
-- :onion: 2 yellow onions
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 2 yellow onions
 - :olive: some olive oil
 - :garlic: 2 tsp garlic powder
 - :hot_pepper: 1 pinch cayenne
 - :sweet_potato: 0.5 lb potatoes
 - :eggplant: 1 small eggplant
-- :onion: 0.5 red onion
+- :tea: 0.5 red onion
 - :hot_pepper: 2 bell peppers
 - :cheese_wedge: 0.5 cup (57 g) feta cheese
 

@@ -18,17 +18,17 @@ hero: assets/images/graham-crackers.webp
 
 ## :salt: Ingredients
 
-- :custard: 0.13 tsp cinnamon
-- :cup_with_straw: 0.5 tsp baking soda
+- :chestnut: 0.13 tsp (1 g) cinnamon
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :dash: 0.75 tsp baking powder
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :maple_leaf: 3 oz [dark brown sugar][1]
-- :ear_of_rice: 1 cup graham flour
-- :butter: 6 Tbsp unsalted butter
-- :maple_leaf: 2.25 oz molasses
-- :glass_of_milk: 3 Tbsp milk
-- :icecream: 0.5 tsp vanilla
+- :chestnut: 0.75 tsp baking powder
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :candy: 3 oz (64 g) [dark brown sugar][1]
+- :chestnut: 1 cup (96 g) graham flour
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :candy: 2.25 oz (96 g) molasses
+- :glass_of_milk: 3 Tbsp (43 g) milk
+- :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

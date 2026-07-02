@@ -16,9 +16,9 @@ hero: assets/images/pectin.webp
 
 ## :salt: Ingredients
 
-- :green_apple: 2 lbs tart green apples
-- :droplet: 4 cups water
-- :lemon: 1 Tbsp lemon juice
+- :hot_pepper: 2 lbs tart green apples
+- :droplet: 4 cups (908 g) water
+- :tangerine: 1 Tbsp (14 g) lemon juice
 
 ## :cooking: Cookware
 

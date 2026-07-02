@@ -19,18 +19,18 @@ hero: assets/images/brandy-snaps.webp
 
 === "Cookies"
 
-    - :corn: 0.33 cup (103 g) dark corn syrup
-    - :butter: 0.25 lb unsalted butter, cut into pieces
+    - :candy: 0.33 cup (103 g) dark corn syrup
+    - :hot_pepper: 0.25 lb unsalted butter, cut into pieces
     - :candy: 0.5 cup (99 g) granulated sugar
-    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :bread: 0.5 cup (60 g) all-purpose flour
 
 === "Whipped Cream"
 
-    - :icecream: 1 cup heavy cream
-    - :candy: 0.25 cup (50 g) confectioners' sugar
-    - :tumbler_glass: 1 Tbsp brandy
+    - :glass_of_milk: 1 cup (227 g) heavy cream
+    - :candy: 0.25 cup (28 g) confectioners' sugar
+    - :cake: 1 Tbsp brandy
     - :salt: 0.125 tsp salt
-    - :icecream: 0.5 tsp vanilla
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

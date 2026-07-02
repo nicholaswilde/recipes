@@ -19,34 +19,34 @@ hero: assets/images/pain-aux-raisins.png
 
 === "Dough"
 
-    - :ear_of_rice: 350 g strong white bread flour
+    - :bread: 350 g strong white bread flour
     - :butter: 250 g butter
     - :candy: 30 g caster sugar
-    - :microbe: 7 g fast-action dried yeast
+    - :chestnut: 7 g fast-action dried yeast
     - :salt: 1 tsp salt
-    - :glass_of_milk: 125 ml whole milk
-    - :droplet: 50 ml warm water
+    - :glass_of_milk: 125 ml (120 g) whole milk
+    - :droplet: 50 ml (48 g) warm water
     - :egg: 1 large egg
 
 === "Crème Pâtissière"
 
     - :candy: 50 g caster sugar
     - :egg: 2 large egg yolks
-    - :corn: 20 g cornflour
-    - :glass_of_milk: 250 ml whole milk
-    - :icecream: 0.5 pod vanilla
+    - 20 g cornflour
+    - :glass_of_milk: 250 ml (240 g) whole milk
+    - :flower_playing_cards: 0.5 pod vanilla
 
 === "Filling"
 
     - :grapes: 100 g raisins
-    - :custard: 0.25 tsp cinnamon
-    - :orange_circle: 1 orange
+    - :chestnut: 0.25 tsp (1 g) cinnamon
+    - :tangerine: 1 orange
     - :egg: 1 egg
 
 === "Icing"
 
     - :candy: 200 g confectioners' sugar
-    - :orange_circle: 1 orange juice
+    - :tangerine: 1 orange juice
 
 ## :cooking: Cookware
 

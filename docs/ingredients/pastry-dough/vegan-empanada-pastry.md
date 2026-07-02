@@ -18,13 +18,13 @@ hero: assets/images/vegan-empanada-pastry.webp
 
 ## :salt: Ingredients
 
-- :coconut: 1.75 cups (396 g) cold coconut oil
-- :ear_of_rice: 4 cups (480 g) all-purpose flour
-- :candy: 1 Tbsp granulated sugar
-- :dash: 2 tsp baking powder
+- :olive: 1.75 cups (396 g) cold coconut oil
+- :bread: 4 cups (480 g) all-purpose flour
+- :candy: 1 Tbsp (12 g) granulated sugar
+- :chestnut: 2 tsp baking powder
 - :salt: 1.5 tsp salt
-- :ice_cube: 1 cup (227 g) ice water
-- :apple: 4 tsp apple cider vinegar
+- :baby_bottle: 1 cup (227 g) ice water
+- :apple: 4 tsp (23 g) apple cider vinegar
 
 ## :cooking: Cookware
 

@@ -18,9 +18,9 @@ hero: assets/images/vegan-strawberry-frosting.webp
 
 ## :salt: Ingredients
 
-- :strawberry: 0.5 cup fresh strawberries (80 g)
-- :butter: 0.33 cup (75 g) vegan butter
-- :candy: 4 cup (792 g) confectioners' sugar
+- :strawberry: 0.5 cup (84 g) fresh strawberries
+- :butter: 0.33 cup (90 g) vegan butter
+- :candy: 4 cup (452 g) confectioners' sugar
 
 ## :cooking: Cookware
 

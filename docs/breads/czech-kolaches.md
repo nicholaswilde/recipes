@@ -14,27 +14,27 @@ tags:
 
 ## :salt: Ingredients
 
-- 1.25 cups (283g) milk, lukewarm, divided
-- 2.5 teaspoons instant yeast or active dry yeast
-- 1 tablespoon (14g) granulated sugar
-- 3.25 cups (390g) King Arthur Unbleached All-Purpose Flour
-- 6 tablespoons (85g) unsalted butter, softened
-- 1 large egg
-- 1 teaspoon lemon zest or 1/8 teaspoon lemon oil
-- 3 /4 teaspoon table salt
-- 1 /3 cup (67g) granulated sugar
-- 1 /4 cup (30g) King Arthur Unbleached All-Purpose Flour
-- 2 tablespoons (28g) unsalted butter, melted
-- 4 teaspoons (14g) Instant Clearjel or 2 tablespoons (14g) King Arthur Unbleached All-Purpose Flour
-- 1 /4 cup (50g) granulated sugar
-- 1 /2 cup (113g) ricotta cheese or farmer's cheese, well drained
-- some pinch of ground nutmeg
-- 2 medium Granny Smith apples
-- 1 /4 cup (50g) granulated sugar
-- 1.5 tablespoons (14g) Instant Clearjel or cornstarch
-- 1 /4 teaspoon ground cinnamon
-- 1 /4 cup (28g) pecans, chopped
-- 1 /2 teaspoon King Arthur Pure Vanilla Extract
+- :baby_bottle: 1.25 cups (390 g) milk, lukewarm, divided
+- :candy: 2.5 teaspoons (8 g) instant yeast or active dry yeast
+- :candy: 1 tablespoon (12 g) granulated sugar
+- :bread: 3.25 cups (507 g) King Arthur Unbleached All-Purpose Flour
+- :baby_bottle: 6 tablespoons (85 g) unsalted butter, softened
+- :egg: 1 large egg
+- :tangerine: 1 teaspoon (3 g) lemon zest or 1/8 teaspoon lemon oil
+- :baby_bottle: 3 /4 teaspoon table salt
+- :candy: 1 /3 cup granulated sugar
+- :bread: 1 /4 cup King Arthur Unbleached All-Purpose Flour
+- :baby_bottle: 2 tablespoons (28 g) unsalted butter, melted
+- :bread: 4 teaspoons (13 g) Instant Clearjel or 2 tablespoons King Arthur Unbleached All-Purpose Flour
+- :candy: 1 /4 cup granulated sugar
+- :baby_bottle: 1 /2 cup ricotta cheese or farmer's cheese, well drained
+- :apple: some pinch of ground nutmeg
+- :apple: 2 medium Granny Smith apples
+- :candy: 1 /4 cup granulated sugar
+- :bread: 1.5 tablespoons Instant Clearjel or cornstarch
+- :bread: 1 /4 teaspoon ground cinnamon
+- :apple: 1 /4 cup pecans, chopped
+- :baby_bottle: 1 /2 teaspoon King Arthur Pure Vanilla Extract
 
 ## :cooking: Cookware
 

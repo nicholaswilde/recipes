@@ -20,12 +20,12 @@ hero: assets/images/hot-milk-cake.webp
 
 - :glass_of_milk: 227 g whole milk
 - :butter: 113 g unsalted butter
-- :ear_of_rice: 240 g all-purpose flour
-- :dash: 2 tsp baking powder
+- :bread: 240 g all-purpose flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
 - :candy: 400 g granulated sugar
 - :egg: 4 large eggs
-- :icecream: 1.5 tsp vanilla
+- :flower_playing_cards: 1.5 tsp vanilla
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

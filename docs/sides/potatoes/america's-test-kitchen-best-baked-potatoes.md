@@ -17,15 +17,15 @@ hero: assets/images/america's-test-kitchen-best-baked-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 4 russet potatoes
+- :sweet_potato: 4 russet potatoes
 - :salt: 2 Tbsps salt
-- :droplet: 0.5 cup water
-- :oil_drum: 1 Tbsp vegetable oil
-- :cheese_wedge: 4 oz goat cheese
-- :olive: 2 Tbsp olive oil
+- :droplet: 0.5 cup (114 g) water
+- :olive: 1 Tbsp (12 g) vegetable oil
+- :cheese_wedge: 4 oz (114 g) goat cheese
+- :olive: 2 Tbsp (25 g) olive oil
 - :herb: 2 Tbsp parsley
-- :garlic: 1 Tbsp shallots
-- :lemon: 0.5 tsp lemon zest
+- :garlic: 1 Tbsp (10 g) shallots
+- :tangerine: 0.5 tsp (2 g) lemon zest
 
 ## :cooking: Cookware
 

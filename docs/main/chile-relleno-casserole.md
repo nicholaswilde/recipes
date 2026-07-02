@@ -18,23 +18,23 @@ hero: assets/images/chile-relleno-casserole.webp
 
 === "Original"
 
-    - :glass_of_milk: 2 cups half and half
+    - :takeout_box: 2 cups (454 g) half and half
     - :egg: 4 eggs
-    - :ear_of_rice: 0.67 cups (80 g) all-purpose flour
-    - :bell_pepper: 6 whole green chiles
-    - :bell_pepper: 6 4-oz cans diced green chiles (alternative)
-    - :cheese_wedge: 1 lb grated cheddar or jack cheese
-    - :tomato: 1 8-oz can tomato sauce
+    - :bread: 0.67 cups (80 g) all-purpose flour
+    - :beans: 6 whole green chiles
+    - :hot_pepper: 6 4-oz cans diced green chiles (alternative)
+    - :orange_circle: 1 lb grated cheddar or jack cheese
+    - :glass_of_milk: 1 8-oz can tomato sauce
 
 === "Modified (Highly Recommended!)"
 
-    - :glass_of_milk: 2 cups half and half
+    - :takeout_box: 2 cups (454 g) half and half
     - :egg: 6 eggs
-    - :ear_of_rice: 0.67 cups (80 g) all-purpose flour
-    - :salt: 0.38 tsp kosher salt (for salting eggs in advance)
-    - :bell_pepper: 6 whole green chiles (split and seeded) or 6 4-oz cans diced green chiles
-    - :cheese_wedge: 1 lb grated cheddar or jack cheese (divided)
-    - :tomato: Chunky salsa (for serving/garnish)
+    - :bread: 0.67 cups (80 g) all-purpose flour
+    - :baby_bottle: 0.38 tsp kosher salt (for salting eggs in advance)
+    - :glass_of_milk: 6 whole green chiles (split and seeded) or 6 4-oz cans diced green chiles
+    - :orange_circle: 1 lb grated cheddar or jack cheese (divided)
+    - :apple: Chunky salsa (for serving/garnish)
 
 ## :cooking: Cookware
 

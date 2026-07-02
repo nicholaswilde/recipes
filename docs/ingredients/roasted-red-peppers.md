@@ -16,7 +16,7 @@ hero: assets/images/roasted-red-peppers.webp
 
 ## :salt: Ingredients
 
-- :bell_pepper: 2 red bell pepper
+- :hot_pepper: 2 red bell pepper
 - :olive: some olive oil
 
 ## :cooking: Cookware

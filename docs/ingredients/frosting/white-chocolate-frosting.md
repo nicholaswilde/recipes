@@ -18,11 +18,11 @@ hero: assets/images/white-chocolate-frosting.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 6 oz white chocolate
+- :chocolate_bar: 6 oz (128 g) white chocolate
 - :cheese_wedge: 1 8-oz pkg cream cheese
-- :butter: 4 Tbsp unsalted butter
-- :icecream: 1 tsp vanilla
-- :candy: 2.5 cups (495 g) confectioners' sugar
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla
+- :candy: 2.5 cups (282 g) confectioners' sugar
 
 ## :cooking: Cookware
 

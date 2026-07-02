@@ -15,17 +15,17 @@ hero: assets/images/cauliflower-green-bean-mac-and-cheese.webp
 
 ## :salt: Ingredients
 
-- :apple: 1 Tbsp apple cider vinegar
-- :chestnut: 1 tsp cumin
+- :apple: 1 Tbsp (18 g) apple cider vinegar
+- :chestnut: 1 tsp (3 g) cumin
 - :curry: 1 tsp garam masala
-- :curry: 0.5 tsp turmeric
-- :sweet_potato: 0.25 tsp ground ginger
+- :curry: 0.5 tsp (2 g) turmeric
+- :sweet_potato: 0.25 tsp (1 g) ground ginger
 - :salt: 0.5 tsp salt
-- :beans: 8 oz green beans
+- :beans: 8 oz (85 g) green beans
 - :broccoli: 1 pkg cauliflower florets
-- :ear_of_rice: 1 12-oz pkg red lentil pasta
-- :chestnut: 3 Tbsp toasted crushed almonds
-- :apple: 0.25 cup (37 g) raisins
+- :hot_pepper: 1 12-oz pkg red lentil pasta
+- :chestnut: 3 Tbsp (27 g) toasted crushed almonds
+- :grapes: 0.25 cup (37 g) raisins
 - :herb: some cilantro
 
 ## :cooking: Cookware

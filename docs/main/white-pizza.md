@@ -17,14 +17,14 @@ hero: assets/images/white-pizza.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 [pizza dough][1]
-- :cheese_wedge: 8 oz mozzarella cheese
-- :cheese_wedge: 1 cup whole-milk [ricotta cheese](../ingredients/ricotta.md)
-- :cheese_wedge: 1 oz Pecorino Romano cheese
+- 1 [pizza dough][1]
+- :cheese_wedge: 8 oz (113 g) mozzarella cheese
+- :glass_of_milk: 1 cup (100 g) whole-milk [ricotta cheese](../ingredients/ricotta.md)
+- :cheese_wedge: 1 oz (14 g) Pecorino Romano cheese
 - :garlic: 1 clove garlic
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: 0.25 tsp kosher salt
-- :hot_pepper: 0.25 tsp red pepper flakes
+- :hot_pepper: 0.25 tsp (1 g) red pepper flakes
 - :herb: 3 sprigs fresh oregano
 
 ## :cooking: Cookware

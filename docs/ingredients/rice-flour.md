@@ -17,7 +17,7 @@ hero: assets/images/rice-flour.webp
 
 ## :salt: Ingredients
 
-- :rice: 1 cup rice
+- :ear_of_rice: 1 cup (28 g) rice
 
 ## :cooking: Cookware
 

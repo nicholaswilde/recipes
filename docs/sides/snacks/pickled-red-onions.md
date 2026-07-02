@@ -17,12 +17,12 @@ hero: assets/images/pickled-red-onions.webp
 
 ## :salt: Ingredients
 
-- :onion: 2 small red onions
+- :tea: 2 small red onions
 - :garlic: 2 cloves garlic
-- :salt: 1 tsp mixed peppercorns
-- :wine_glass: 2 cups white vinegar
+- :carrot: 1 tsp mixed peppercorns
+- :takeout_box: 2 cups (212 g) white vinegar
 - :droplet: 2 cups (454 g) water
-- :candy: 0.33 cup (65 g) cane sugar
+- :candy: 0.33 cup (51 g) cane sugar
 - :salt: 2 Tbsp sea salt
 
 ## :cooking: Cookware

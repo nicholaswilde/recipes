@@ -17,8 +17,8 @@ hero: assets/images/holiday-nuts.webp
 
 - :chestnut: 1 lb pecans halves
 - :butter: 1 stick butter
-- :egg: 2 egg whites
-- :candy: 1 cup (198 g) sugar
+- :beans: 2 egg whites
+- :candy: 1 cup (156 g) sugar
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

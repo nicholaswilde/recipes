@@ -18,13 +18,13 @@ hero: assets/images/tomato-sauce.webp
 
 - :tomato: 4 lbs plum tomato
 - :tomato: 2 28-oz cans whole peeled plum tomatoes (alternative)
-- :butter: 6 Tbsp unsalted butter
-- :olive: 4 Tbsp olive oil
-- :onion: 2 medium yellow onions
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :olive: 4 Tbsp (50 g) olive oil
+- :seedling: 2 medium yellow onions
 - :garlic: 4 cloves garlic
 - :salt: 1.25 tsp salt
-- :candy: 1 tsp granulated sugar
-- :leafy_green: 2 Tbsp fresh basil
+- :candy: 1 tsp (4 g) granulated sugar
+- :herb: 2 Tbsp (5 g) fresh basil
 
 ## :cooking: Cookware
 

@@ -17,16 +17,16 @@ hero: assets/images/fall-turkey-chili-with-pumpkin.png
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1 bell pepper
-- :onion: 0.5 medium onions
+- :salt: 1 bell pepper
+- :tea: 0.5 medium onions
 - :garlic: 2 cloves garlic
-- :tumbler_glass: 1 pkg soy crumbles
+- :takeout_box: 1 pkg soy crumbles
 - :tomato: 1 can diced tomatoes
 - :melon: 2 cans pumpkin
-- :beans: 1 can kidney beans
-- :ear_of_rice: 0.5 can corn
-- :baby_bottle: 1 cup sour cream
-- :cheese_wedge: 0.5 cup cheese
+- :apple: 1 can kidney beans
+- :corn: 0.5 can corn
+- :glass_of_milk: 1 cup (227 g) sour cream
+- :cheese_wedge: 0.5 cup (114 g) cheese
 - :avocado: 1 avocado
 - :herb: 1 pkg cilantro
 

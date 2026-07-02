@@ -15,8 +15,8 @@ hero: assets/images/veggie-cassola.webp
 
 ## :salt: Ingredients
 
-- :cucumber: 1 zucchini
-- :onion: 1 large onion
+- 1 zucchini
+- :tea: 1 large onion
 - :hot_pepper: 2 large bell pepper
 - :carrot: 2 carrots
 - :eggplant: 1 Italian eggplant

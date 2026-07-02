@@ -18,11 +18,11 @@ hero: assets/images/french-meringue.webp
 
 ## :salt: Ingredients
 
-- :egg: 2 egg whites
-- :rice: 0.25 tsp cream of tartar
-- :candy: 3 Tbsp sugar
-- :rice: 4 Tbsp confectioners' sugar (alternative)
-- :icecream: 0.5 tsp vanilla
+- :beans: 2 egg whites
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :candy: 3 Tbsp (29 g) sugar
+- :candy: 4 Tbsp (28 g) confectioners' sugar (alternative)
+- :flower_playing_cards: 0.5 tsp vanilla
 
 ## :pencil: Instructions
 

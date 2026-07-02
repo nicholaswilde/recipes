@@ -17,9 +17,9 @@ hero: assets/images/fajita-veggies.webp
 
 ## :salt: Ingredients
 
-- :olive: ::sunflower: 0.25 cup sunflower oil
-- :bell_pepper: 2 large green peppers
-- :onion: 1 large red onions
+- :seedling: ::sunflower: 0.25 cup sunflower oil
+- :beans: 2 large green peppers
+- :tea: 1 large red onions
 - :herb: 0.5 tsp oregano
 - :salt: 0.5 tsp salt
 

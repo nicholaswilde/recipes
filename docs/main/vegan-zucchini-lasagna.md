@@ -15,18 +15,18 @@ hero: assets/images/vegan-zucchini-lasagna.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 3 cups (450 g) raw macadamia nuts or soaked blanched almonds
-- :cheese_wedge: 2 Tbsp nutritional yeast
-- :herb: 0.5 cup (20 g) fresh basil
+- :chestnut: 3 cups (447 g) raw macadamia nuts or soaked blanched almonds
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
+- :herb: 0.5 cup (21 g) fresh basil
 - :herb: 2 tsp oregano
 - :tangerine: 1 lemon
-- :olive: 1 Tbsp olive oil (optional)
+- :olive: 1 Tbsp (12 g) olive oil (optional)
 - :salt: 1 tsp salt
 - :salt: 1 pinch pepper
-- :droplet: 0.5 cup (115 g) water
-- :cheese_wedge: 0.25 cup (25 g) [vegan Parmesan cheese][2] (optional)
+- :droplet: 0.5 cup (114 g) water
+- :apple: 0.25 cup (25 g) [vegan Parmesan cheese][2] (optional)
 - :tomato: 1 28-oz jar marinara sauce
-- :cucumber: 3 medium zucchini
+- 3 medium zucchini
 
 ## :cooking: Cookware
 

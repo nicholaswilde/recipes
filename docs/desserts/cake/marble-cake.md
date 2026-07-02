@@ -20,32 +20,32 @@ hero: assets/images/marble-cake.webp
 
 === "Cake"
 
-    - :ear_of_rice: 210 g all-purpose flour
-    - :corn: 40 g cornstarch
-    - :dash: 2.5 tsp baking powder
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :bread: 210 g all-purpose flour
+    - :chestnut: 40 g cornstarch
+    - :chestnut: 2.5 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
     - :salt: 0.5 tsp salt
-    - :rice: 181 g sour cream
-    - :glass_of_milk: 0.25 cup whole milk
+    - :glass_of_milk: 181 g sour cream
+    - :glass_of_milk: 0.25 cup (57 g) whole milk
     - :butter: 227 g unsalted butter
     - :candy: 300 g granulated sugar
     - :egg: 2 large eggs
-    - :egge: 1 large egg yolk
-    - :icecream: 1 Tbsp vanilla
+    - :egg: 1 large egg yolk
+    - :flower_playing_cards: 1 Tbsp vanilla
 
 === "Chocolate Marbling"
 
-    - :glass_of_milk: 2 Tbsp whole milk
+    - :glass_of_milk: 2 Tbsp (28 g) whole milk
     - :butter: 15 g unsalted butter
-    - :candy: 1 Tbsp granulated sugar
+    - :candy: 1 Tbsp (12 g) granulated sugar
     - :chocolate_bar: 30 g cocoa powder
-    - :cup_with_straw: 0.13 tsp baking soda
+    - :chestnut: 0.13 tsp baking soda
 
 === "Glaze"
 
     - :chocolate_bar: 77 g white chocolate
-    - :chocolate_bar: 40 g semisweet or bittersweet chocolate
-    - :icecream: 77 g hot heavy whipping cream
+    - :bread: 40 g semisweet or bittersweet chocolate
+    - :glass_of_milk: 77 g hot heavy whipping cream
 
 ## :cooking: Cookware
 

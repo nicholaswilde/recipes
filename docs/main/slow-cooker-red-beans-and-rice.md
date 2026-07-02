@@ -15,13 +15,13 @@ hero: assets/images/slow-cooker-red-beans-and-rice.webp
 
 ## :salt: Ingredients
 
-- :beans: 2 15-oz cans red beans
-- :onion: 1 cup (142 g) onion, finely chopped
-- :hot_pepper: 1 cup (142 g) chopped green pepper
+- :glass_of_milk: 2 15-oz cans red beans
+- :beans: 1 cup (142 g) onion, finely chopped
+- :hot_pepper: 1 cup chopped green pepper
 - :leafy_green: 1 cup (142 g) chopped celery
 - :herb: 2 tsp thyme
 - :garlic: 3 cloves garlic
-- :stew: 2.33 cups (530 g) [vegetable broth][2]
+- 2.33 cups [vegetable broth][2]
 - :herb: 1 bay leaf
 - :hot_pepper: 1 tsp smoked paprika
 - :hot_pepper: 0.25 tsp cayenne

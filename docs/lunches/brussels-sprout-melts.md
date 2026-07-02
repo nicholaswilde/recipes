@@ -17,15 +17,15 @@ hero: assets/images/brussels-sprout-melts.webp
 
 ## :salt: Ingredients
 
-- :butter: 8 Tbsp unsalted butter
-- :onion: 2 large yellow onions
+- :butter: 8 Tbsp (113 g) unsalted butter
+- :seedling: 2 large yellow onions
 - :leafy_green: 8 oz Brussels sprouts
-- :cheese_wedge: 8 oz Swiss cheese
-- :sake: 1 tsp Worcestershire sauce or balsamic vinegar
+- :cheese_wedge: 8 oz (113 g) Swiss cheese
+- :apple: 1 tsp (5 g) Worcestershire sauce or balsamic vinegar
 - :salt: 0.5 tsp kosher salt
-- :salt: 0.5 tsp black pepper
-- :bread: 8 slices rye bread
-- :hotdog: 4 Tbsp [Dijon mustard][1]
+- :salt: 0.5 tsp (2 g) black pepper
+- :star: 8 slices rye bread
+- 4 Tbsp [Dijon mustard][1]
 
 ## :cooking: Cookware
 

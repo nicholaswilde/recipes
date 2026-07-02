@@ -19,16 +19,16 @@ hero: assets/images/vanilla-cake.webp
 ## :salt: Ingredients
 
 - :candy: 198 g granulated sugar
-- :icecream: 1 vanilla bean
-- :ear_of_rice: 210 g cake flour
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :hamburger: 1 vanilla bean
+- :bread: 210 g cake flour
+- :chestnut: 1.5 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :butter: 57 g unsalted butter
 - :egg: 2 large eggs
-- :rice: 76 g sour cream
-- :oil_drum: 50 g canola oil
-- :icecream: 1 Tbsp vanilla
+- :glass_of_milk: 76 g sour cream
+- :droplet: 50 g canola oil
+- :flower_playing_cards: 1 Tbsp vanilla
 - :glass_of_milk: 151 g whole milk
 
 ## :cooking: Cookware

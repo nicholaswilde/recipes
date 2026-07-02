@@ -18,19 +18,19 @@ hero: assets/images/rhubarb-cake.webp
 
 ## :salt: Ingredients
 
-- :candy: some Demerara sugar
-- :chopsticks: 454 g rhubarb
-- :droplet: 1 Tbsp water
-- :cup_with_straw: 0.5 tsp baking soda
-- :ear_of_rice: 228 g all-purpose flour
-- :dash: 2.5 tsp baking powder
+- :baby_bottle: some Demerara sugar
+- :leafy_green: 454 g rhubarb
+- :droplet: 1 Tbsp (14 g) water
+- :chestnut: 0.5 tsp baking soda
+- :bread: 228 g all-purpose flour
+- :chestnut: 2.5 tsp baking powder
 - :salt: 0.75 tsp salt
-- :tangerine: 1.5 tsp orange zest
+- :tangerine: 1.5 tsp (3 g) orange zest
 - :candy: 250 g granulated sugar
-- :butter: 113 g melted unsalted butter
+- :baby_bottle: 113 g melted unsalted butter
 - :egg: 2 eggs
-- :rice: 80 g whole-milk Greek yogurt
-- :icecream: 1 tsp vanilla
+- :glass_of_milk: 80 g whole-milk Greek yogurt
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

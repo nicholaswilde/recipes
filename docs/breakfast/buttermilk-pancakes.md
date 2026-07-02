@@ -17,10 +17,10 @@ hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-pancakes.webp
 
 ## :salt: Ingredients
 
-- :pancakes: 1 [pancakes][2]
-- :cup_with_straw: 0.5 tsp baking soda
-- :dash: 1 tsp baking powder
-- :glass_of_milk: 1.5 cups [buttermilk](../ingredients/buttermilk.md)
+- 1 [pancakes][2]
+- :chestnut: 0.5 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :icecream: 1.5 cups [buttermilk](../ingredients/buttermilk.md)
 
 ## :pencil: Instructions
 

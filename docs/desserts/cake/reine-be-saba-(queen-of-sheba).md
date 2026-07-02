@@ -20,26 +20,26 @@ hero: assets/images/reine-be-saba-(queen-of-sheba).jpg
 
 === "Cake"
 
-    - :chocolate_bar: 4 oz bittersweet chocolate
-    - :coffee: 2 Tbsp strong, hot coffee
-    - :egg: 3 egg whites
+    - :chestnut: 4 oz (85 g) bittersweet chocolate
+    - :jack_o_lantern: 2 Tbsp (11 g) strong, hot coffee
+    - :beans: 3 egg whites
     - :salt: 1 pinch salt
-    - :candy: 2 Tbsp granulated sugar
-    - :butter: 8 Tbsp unsalted butter
-    - :candy: 0.5 cup (99 g) sugar
+    - :candy: 2 Tbsp (25 g) granulated sugar
+    - :butter: 8 Tbsp (113 g) unsalted butter
+    - :candy: 0.5 cup (78 g) sugar
     - :egg: 3 large egg yolks
-    - :chestnut: 0.33 cup pulverized almonds
-    - :candy: 2 Tbsp granulated sugar
-    - :chestnut: 0.25 tsp almond extract
-    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+    - :chestnut: 0.33 cup (38 g) pulverized almonds
+    - :candy: 2 Tbsp (25 g) granulated sugar
+    - :flower_playing_cards: 0.25 tsp (1 g) almond extract
+    - :bread: 0.5 cup (60 g) all-purpose flour
 
 === "Frosting"
 
-    - :chocolate_bar: 3 oz bittersweet chocolate, chopped fine
-    - :coffee: 2 Tbsp strong, hot coffee
-    - :butter: 6 Tbsp unsalted butter, softened and cut into cubes
+    - :apple: 3 oz (64 g) bittersweet chocolate, chopped fine
+    - :jack_o_lantern: 2 Tbsp (11 g) strong, hot coffee
+    - :baby_bottle: 6 Tbsp (85 g) unsalted butter, softened and cut into cubes
     - :salt: 1 pinch salt
-    - :chestnut: 1 cup slivered almonds
+    - :chestnut: 1 cup (86 g) slivered almonds
 
 ## :cooking: Cookware
 

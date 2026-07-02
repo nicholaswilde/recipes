@@ -17,16 +17,16 @@ hero: assets/images/roasted-chickpea-snack.webp
 
 ## :salt: Ingredients
 
-- :falafel: 1 15-oz can chickpeas
+- :baby_bottle: 1 15-oz can chickpeas
 - :salt: 0.25 tsp salt
-- :corn: 2 Tbsp cornstarch
+- :chestnut: 2 Tbsp (14 g) cornstarch
 - :olive: some olive oil
 - :salt: 0.13 tsp salt
-- :hot_pepper: 0.25 tsp chili powder
-- :herb: 0.25 tsp cumin
-- :bell_pepper: 0.25 tsp paprika
-- :herb: 0.25 tsp coriander
-- :curry: 0.25 tsp curry powder
+- :hot_pepper: 0.25 tsp (1 g) chili powder
+- :chestnut: 0.25 tsp (1 g) cumin
+- :candy: 0.25 tsp paprika
+- :chestnut: 0.25 tsp coriander
+- :curry: 0.25 tsp (1 g) curry powder
 - :garlic: 0.25 tsp garlic powder
 
 ## :cooking: Cookware

@@ -17,17 +17,17 @@ hero: assets/images/gulab-jambu.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup [Bisquick][2]
-- :glass_of_milk: 1 cup dried milk powder
-- :butter: 2 Tbsp [ghee][1]
-- :glass_of_milk: 0.25 cup whole milk
+- 0.5 cup [Bisquick][2]
+- :glass_of_milk: 1 cup (140 g) dried milk powder
+- 2 Tbsp [ghee][1]
+- :glass_of_milk: 0.25 cup (57 g) whole milk
 - :droplet: 1.5 cup (340 g) water
 - :candy: 1 cup (198 g) granulated sugar
-- :olive: 4 green cardamom pods
+- :seedling: 4 green cardamom pods
 - :tulip: 5 strands saffron
-- :lemon: 1 tsp lemon juice (optional)
-- :rose: 1 tsp rose water (optional)
-- :butter: 2 cups (396 g) ghee or vegetable oil
+- :apple: 1 tsp lemon juice (optional)
+- :apple: 1 tsp (5 g) rose water (optional)
+- :carrot: 2 cups (396 g) ghee or vegetable oil
 
 ## :cooking: Cookware
 

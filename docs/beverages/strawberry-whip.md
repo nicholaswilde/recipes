@@ -16,11 +16,11 @@ hero: assets/images/strawberry-whip.webp
 
 ## :salt: Ingredients
 
-- :strawberry: 2 cups strawberries
+- :strawberry: 2 cups (334 g) strawberries
 - :candy: 0.25 cup (50 g) granulated sugar
-- :microbe: 1 cup (227 g) vanilla yogurt
-- :pineapple: 0.5 cup pineapple juice
-- :ice_cube: 1 cup crushed ice
+- :glass_of_milk: 1 cup vanilla yogurt
+- :tangerine: 0.5 cup (120 g) pineapple juice
+- :baby_bottle: 1 cup (142 g) crushed ice
 
 ## :cooking: Cookware
 

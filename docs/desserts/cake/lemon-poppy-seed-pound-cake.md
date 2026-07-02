@@ -19,18 +19,18 @@ hero: assets/images/lemon-poppy-seed-pound-cake.webp
 - :butter: some butter
 - :bread: some all-purpose flour
 - :tangerine: 2 lemons lemon zest
-- :candy: 1 cup sugar
-- :baby_bottle: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
-- :tangerine: 3 Tbsp lemon juice
+- :candy: 1 cup (156 g) sugar
+- :icecream: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
+- :tangerine: 3 Tbsp (42 g) lemon juice
 - :egg: 3 large eggs
 - :bread: some all-purpose flour
 - :chestnut: 1.5 tsp baking powder
 - :chestnut: 0.25 tsp baking soda
 - :salt: 0.25 tsp fine sea salt
-- :olive: 0.67 cup extra-virgin olive oil
+- :olive: 0.67 cup (134 g) extra-virgin olive oil
 - :seedling: 1 Tbsp poppy seeds
-- :tangerine: 4 tsp lemon juice
-- :candy: 0.5 cup confectioner's sugar
+- :tangerine: 4 tsp (19 g) lemon juice
+- :candy: 0.5 cup (90 g) confectioner's sugar
 
 ## :cooking: Cookware
 

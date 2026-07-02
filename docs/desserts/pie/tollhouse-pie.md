@@ -19,12 +19,12 @@ hero: assets/images/tollhouse-pie.webp
 ## :salt: Ingredients
 
 - :egg: 2 eggs
-- :ear_of_rice: 0.5 cup flour
-- :candy: 0.5 cup (99 g) sugar
-- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
-- :butter: 1 cup (227 g) butter
+- :bread: 0.5 cup (46 g) flour
+- :candy: 0.5 cup (78 g) sugar
+- 0.5 cup [brown sugar][1]
+- :butter: 1 cup butter
 - :chocolate_bar: 1 6 oz pkg chocolate chips
-- :pie: 1 unbaked [pie shell][2]
+- 1 unbaked [pie shell][2]
 
 ## :cooking: Cookware
 

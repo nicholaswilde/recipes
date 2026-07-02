@@ -15,12 +15,12 @@ hero: assets/images/creamy-chickpea-eggless-egg-salad-sandwich.webp
 
 ## :salt: Ingredients
 
-- :beans: 3 15-oz cans chickpeas
+- :glass_of_milk: 3 15-oz cans chickpeas
 - :baby_bottle: 0.5 cup (113 g) vegan mayo
 - :seedling: 2 Tbsp (20 g) yellow or Dijon mustard
 - :herb: 1 tsp (3 g) dried dill
 - :curry: 0.5 tsp (2 g) ground turmeric
-- :salt: 0.5 tsp (3 g) Kala Namak or black salt
+- :salt: 0.5 tsp Kala Namak or black salt
 - :salt: 0.25 tsp (1 g) black pepper
 - :cucumber: 0.5 cup (75 g) dill pickles
 - :leafy_green: 2 stalks celery (optional)

@@ -19,14 +19,14 @@ hero: assets/images/chiffon-sponge.webp
 ## :salt: Ingredients
 
 - :egg: 7 large egg
-- :rice: 0.5 tsp cream of tartar
+- :glass_of_milk: 0.5 tsp (3 g) cream of tartar
 - :candy: 298 g granulated sugar
-- :ear_of_rice: 240 g all-purpose flour
-- :dash: 2.5 tsp baking powder
+- :bread: 240 g all-purpose flour
+- :chestnut: 2.5 tsp baking powder
 - :salt: 0.75 tsp salt
-- :oil_drum: 99 g vegetable oil
-- :icecream: 2 tsp vanilla
-- :chestnut: 0.5 tsp almond extract
+- :olive: 99 g vegetable oil
+- :flower_playing_cards: 2 tsp vanilla
+- :flower_playing_cards: 0.5 tsp (3 g) almond extract
 - :glass_of_milk: 170 g whole milk
 
 ## :cooking: Cookware

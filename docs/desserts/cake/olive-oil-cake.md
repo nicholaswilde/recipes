@@ -19,15 +19,15 @@ hero: assets/images/olive-oil-cake.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cup (210 g) all-purpose flour
-- :dash: 1 tsp baking powder
+- :bread: 1.75 cup (210 g) all-purpose flour
+- :chestnut: 1 tsp baking powder
 - :salt: 0.75 tsp salt
 - :candy: 1.25 cup (248 g) granulated sugar
 - :egg: 3 large egg
-- :lemon: 1 lemon
+- :tangerine: 1 lemon
 - :olive: 0.75 cup (150 g) olive oil
-- :glass_of_milk: 0.75 cup milk
-- :candy: 2 tsp granulated sugar
+- :glass_of_milk: 0.75 cup (170 g) milk
+- :candy: 2 tsp (8 g) granulated sugar
 
 ## :cooking: Cookware
 

@@ -15,22 +15,22 @@ hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :garlic: 0.5 cup (78 g) shallot
-- :mushroom: 2 cups (155 g) cremini mushrooms
-- :takeout_box: 2 Tbsp coconut aminos
+- :olive: 1 Tbsp (12 g) olive oil
+- :garlic: 0.5 cup shallot
+- :mushroom: 2 cups (156 g) cremini mushrooms
+- :takeout_box: 2 Tbsp (16 g) coconut aminos
 - :salt: 1 pinch salt
 - :salt: 1 pinch pepper
 - :herb: 2 Tbsp thyme
-- :beans: 0.67 cup (140 g) green lentils
-- :stew: 2 cups (455 g) [vegetable broth][2]
-- :sweet_potato: 1 lb yellow potatoes
+- :beans: 0.67 cup (141 g) green lentils
+- 2 cups [vegetable broth][2]
+- :seedling: 1 lb yellow potatoes
 - :salt: some salt
 - :salt: some pepper
-- :olive: 2 Tbsp olive oil
-- :glass_of_milk: 4 Tbsp unsweetened plain almond milk or [vegetable broth][2] (for moisture)
-- :herb: some parsley (optional)
-- :cheese_wedge: some [vegan Parmesan cheese][3] (optional)
+- :olive: 2 Tbsp (25 g) olive oil
+- :glass_of_milk: 4 Tbsp (35 g) unsweetened plain almond milk or [vegetable broth][2] (for moisture)
+- :leafy_green: some parsley (optional)
+- :apple: some [vegan Parmesan cheese][3] (optional)
 
 ## :cooking: Cookware
 

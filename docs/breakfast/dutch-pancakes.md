@@ -18,13 +18,13 @@ hero: assets/images/dutch-pancakes.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
+- :bread: 1.25 cups (150 g) all-purpose flour
 - :egg: 4 eggs
 - :glass_of_milk: 1 cup (227 g) milk
-- :ice_cube: 1.25 cups (284 g) cold water
-- :butter: 3 Tbsp (42 g) butter
-- :icecream: 1 tsp vanilla
-- :custard: some cinnamon (optional)
+- :baby_bottle: 1.25 cups (284 g) cold water
+- :butter: 3 Tbsp butter
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: some cinnamon (optional)
 - :candy: some sugar (optional)
 
 ## :cooking: Cookware

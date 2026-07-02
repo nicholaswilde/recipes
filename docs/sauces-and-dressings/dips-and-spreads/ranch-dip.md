@@ -16,9 +16,9 @@ hero: assets/images/ranch-dip.webp
 
 ## :salt: Ingredients
 
-- :baby_bottle: 1 cup sour cream or plain non-fat greek yogurt
-- :baby_bottle: 3 Tbsp [ranch dressing mix][1]
-- :butter: 0.67 cups [buttermilk](../../ingredients/buttermilk.md) or water
+- :cheese_wedge: 1 cup (227 g) sour cream or plain non-fat greek yogurt
+- 3 Tbsp [ranch dressing mix][1]
+- :icecream: 0.67 cups (152 g) [buttermilk](../../ingredients/buttermilk.md) or water
 
 ## :cooking: Cookware
 

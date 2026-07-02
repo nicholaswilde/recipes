@@ -16,10 +16,10 @@ hero: assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.webp
 
 ## :salt: Ingredients
 
-- :broccoli: 2 cups romanesco cauliflower
-- :olive: 2 Tbsp olive oil
+- :broccoli: 2 cups (200 g) romanesco cauliflower
+- :olive: 2 Tbsp (25 g) olive oil
 - :garlic: 6 cloves crushed garlic
-- :lemon: 2 tsp lemon zest
+- :tangerine: 2 tsp (9 g) lemon zest
 - :salt: some sea salt
 - :salt: some pepper
 

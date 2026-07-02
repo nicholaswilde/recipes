@@ -19,17 +19,17 @@ hero: assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.webp
 ## :salt: Ingredients
 
 - :carrot: 2 lbs carrots
-- :olive: 1 Tbsp olive oil
-- :maple_leaf: 1 Tbsp maple syrup
-- :seedling: 2 Tbsp tahini
-- :lemon: 2 Tbsp lemon juice
-- :sake: 1 tsp soy sauce
-- :maple_leaf: 1 tsp maple syrup
+- :olive: 1 Tbsp (12 g) olive oil
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :seedling: 2 Tbsp (32 g) tahini
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :takeout_box: 1 tsp (3 g) soy sauce
+- :honey_pot: 1 tsp (6 g) maple syrup
 - :garlic: 1 clove garlic
-- :droplet: 2 Tbsp water
-- :pear: 2 Tbsp pomegranate arils
+- :droplet: 2 Tbsp (28 g) water
+- 2 Tbsp pomegranate arils
 - :chestnut: 2 Tbsp pistachios
-- :herb: 1 Tbsp parsley or cilantro
+- :apple: 1 Tbsp (3 g) parsley or cilantro
 
 ## :cooking: Cookware
 

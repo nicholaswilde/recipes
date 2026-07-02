@@ -21,8 +21,8 @@ hero: assets/images/sambal-oelek.png
 - :hot_pepper: 1 lb fresh red chili peppers
 - :garlic: 2 cloves garlic cloves
 - :salt: 1.5 tsp coarse salt
-- :wine_glass: 2 Tbsp rice vinegar
-- :custard: 1 tsp brown sugar
+- :wine_glass: 2 Tbsp (4 g) rice vinegar
+- :maple_leaf: 1 tsp (4 g) brown sugar
 
 ## :cooking: Cookware
 

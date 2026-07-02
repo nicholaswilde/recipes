@@ -16,15 +16,15 @@ hero: assets/images/honey-and-walnut-baked-brie.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 1 wedge or wheel Brie
+- 1 wedge or wheel Brie
 - :chestnut: 57 g walnuts
 - :honey_pot: 84 g honey
 - :herb: 0.5 tsp rosemary
-- :cherries: 21 g dried cherries or cranberries (optional)
+- :apple: 21 g dried cherries or cranberries (optional)
 - :salt: some salt
-- :baguette_bread: some toasted bread (alternative)
-- :flatbread: some crackers
-- :pear: some fruit (alternative)
+- :bread: some toasted bread (alternative)
+- some crackers
+- some fruit (alternative)
 
 ## :cooking: Cookware
 

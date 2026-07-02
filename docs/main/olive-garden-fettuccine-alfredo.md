@@ -17,16 +17,16 @@ hero: assets/images/olive-garden-fettuccine-alfredo.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 4 oz fettuccine
+- :bread: 4 oz fettuccine
 - :butter: 3 Tbsp butter
-- :icecream: 1 cup heavy whipping cream
-- :cheese_wedge: 0.25 cup Parmesan
-- :cheese_wedge: 0.25 cup Romano cheese
+- :glass_of_milk: 1 cup (227 g) heavy whipping cream
+- :cheese_wedge: 0.25 cup (25 g) Parmesan
+- :cheese_wedge: 0.25 cup (28 g) Romano cheese
 - :egg: 1 egg yolk
 - :salt: 0.13 tsp salt
 - :salt: 1 dash pepper
-- :chestnut: 1 dash nutmeg
-- :herb: some parsley (optional)
+- :apple: 1 dash nutmeg
+- :leafy_green: some parsley (optional)
 
 ## :cooking: Cookware
 

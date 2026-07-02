@@ -19,14 +19,14 @@ hero: assets/images/baguettes.webp
 === "Starter"
 
     - :droplet: 113 g water
-    - :microbe: 0.06 tsp instant yeast
-    - :ear_of_rice: 120 g all-purpose flour
+    - :tea: 0.06 tsp instant yeast
+    - :bread: 120 g all-purpose flour
 
 === "Dough"
 
     - :droplet: 255 g water
-    - :microbe: 1.5 tsp instant yeast
-    - :ear_of_rice: 420 g all-purpose flour
+    - :tea: 1.5 tsp (4 g) instant yeast
+    - :bread: 420 g all-purpose flour
     - :salt: 2 tsp salt
 
 ## :cooking: Cookware

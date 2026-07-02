@@ -17,11 +17,11 @@ hero: assets/images/almond-butter.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 16 oz almonds
+- :chestnut: 16 oz (172 g) almonds
 - :salt: 0.25 tsp salt
-- :custard: 0.25 tsp cinnamon (optional)
-- :icecream: 0.5 tsp vanilla (optional)
-- :maple_leaf: 2 Tbsp maple syrup or honey (optional)
+- :chestnut: 0.25 tsp (1 g) cinnamon (optional)
+- :baby_bottle: 0.5 tsp vanilla (optional)
+- :honey_pot: 2 Tbsp (39 g) maple syrup or honey (optional)
 
 ## :cooking: Cookware
 

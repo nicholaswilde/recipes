@@ -15,9 +15,9 @@ hero: assets/images/pampered-chef-cannoli.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 large pkg chocolate instant pudding
-- :icecream: 1 8-oz pkg Cool Whip
-- :pie: 1 pkg [puff pastry][2]
+- :candy: 1 large pkg chocolate instant pudding
+- :glass_of_milk: 1 8-oz pkg Cool Whip
+- 1 pkg [puff pastry][2]
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

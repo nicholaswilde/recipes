@@ -17,10 +17,10 @@ hero: assets/images/maple-pecan-sourdough-bread.webp
 
 ## :salt: Ingredients
 
-- :bread: 35 g sourdough starter
+- :tea: 35 g sourdough starter
 - :bread: 35 g all-purpose flour
 - :droplet: 35 g water
-- :bread: 100 g levain
+- 100 g levain
 - :droplet: 300 g water
 - :honey_pot: 100 g maple syrup
 - :flower_playing_cards: 4 g maple extract

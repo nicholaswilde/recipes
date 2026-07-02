@@ -17,11 +17,11 @@ hero: assets/images/pumpkin-pie-spice.webp
 
 ## :salt: Ingredients
 
-- :custard: 3 Tbsp cinnamon
-- :sweet_potato: 2 tsp ginger
-- :chestnut: 1.5 tsp nutmeg (optional)
-- :four_leaf_clover: 1 tsp cloves
-- :chestnut: 1 tsp allspice
+- :chestnut: 3 Tbsp (38 g) cinnamon
+- :sweet_potato: 2 tsp (6 g) ginger
+- :leafy_green: 1.5 tsp nutmeg (optional)
+- :chestnut: 1 tsp cloves
+- :apple: 1 tsp allspice
 - :salt: 1 pinch black pepper
 
 ## :cooking: Cookware

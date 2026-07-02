@@ -16,9 +16,9 @@ hero: assets/images/honey-whipped-cream.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 cup heavy cream
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :honey_pot: 1 Tbsp honey
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :salt: 0.13 tsp salt
 
 ## :cooking: Cookware

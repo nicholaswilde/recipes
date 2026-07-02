@@ -16,8 +16,8 @@ hero: assets/images/orange-juice-lime-salad-dressing.webp
 
 ## :salt: Ingredients
 
-- :tangerine: 0.33 cup orange juice
-- :sweet_potato: 1 tsp peeled and chopped fresh ginger
+- :tangerine: 0.33 cup (74 g) orange juice
+- :sweet_potato: 1 tsp (5 g) peeled and chopped fresh ginger
 - :tangerine: 1 lime juice and zest
 - :wine_glass: 2 Tbsp raspberry balsamic vinegar
 

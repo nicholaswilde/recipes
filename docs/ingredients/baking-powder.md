@@ -18,9 +18,9 @@ hero: assets/images/baking-powder.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 2 Tbsp (18 g) cream of tartar
-- :chestnut: 1 Tbsp (18 g) baking soda
-- :chestnut: 1 Tbsp (7 g) cornstarch (optional, for storage)
+- :glass_of_milk: 2 Tbsp (36 g) cream of tartar
+- :chestnut: 1 Tbsp baking soda
+- :bread: 1 Tbsp (7 g) cornstarch (optional, for storage)
 
 ## :cooking: Cookware
 

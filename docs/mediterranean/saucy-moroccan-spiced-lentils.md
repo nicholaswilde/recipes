@@ -17,22 +17,22 @@ hero: assets/images/saucy-moroccan-spiced-lentils.webp
 
 ## :salt: Ingredients
 
-- :curry: 1 cup lentils
+- :beans: 1 cup (210 g) lentils
 - :droplet: 2 cup (454 g) water
 - :garlic: 3 cloves garlic
-- :onion: 1 medium onion
-- :bell_pepper: 1 large bell pepper
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :coconut: 2 Tbsp coconut sugar
+- :tea: 1 medium onion
+- :hot_pepper: 1 large bell pepper
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :candy: 2 Tbsp (19 g) coconut sugar
 - :salt: 0.5 tsp sea salt
-- :bell_pepper: 1 Tbsp paprika
-- :herb: 1 tsp cumin
-- :herb: 0.5 tsp coriander
-- :herb: 1 tsp ginger
-- :herb: 0.5 tsp turmeric
+- :candy: 1 Tbsp paprika
+- :chestnut: 1 tsp (3 g) cumin
+- :chestnut: 0.5 tsp (1 g) coriander
+- :sweet_potato: 1 tsp (3 g) ginger
+- :curry: 0.5 tsp (2 g) turmeric
 - :hot_pepper: 0.5 tsp cayenne pepper
-- :sake: 2 Tbsp apple cider vinegar
-- :herb: 0.75 cup parsley or cilantro
+- :apple: 2 Tbsp (35 g) apple cider vinegar
+- :apple: 0.75 cup (32 g) parsley or cilantro
 
 ## :cooking: Cookware
 

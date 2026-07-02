@@ -17,16 +17,16 @@ hero: assets/images/vegetarian-corn-dogs.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: some vegetable oil
-- :hotdog: 12 vegetarian hot dogs
-- :corn: 1.5 cups corn meal
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
+- :olive: some vegetable oil
+- :droplet: 12 vegetarian hot dogs
+- :candy: 1.5 cups (150 g) corn meal
+- :bread: 1.25 cups (150 g) all-purpose flour
 - :candy: 0.25 cup (50 g) granulated sugar
-- :dash: 1 Tbsp baking powder
+- :chestnut: 1 Tbsp baking powder
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 1.75 cups (397 g) [buttermilk](../ingredients/buttermilk.md)
+- :icecream: 1.75 cups [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 egg
-- :olive: 1 Tbsp vegetable or olive oil
+- :olive: 1 Tbsp (12 g) vegetable or olive oil
 - :honey_pot: 1 Tbsp honey
 
 ## :cooking: Cookware

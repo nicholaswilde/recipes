@@ -20,10 +20,10 @@ hero: assets/images/cinnamon-raisin-sourdough-bread.webp
 
 === "Dough"
 
-    - :ear_of_rice: 360 g all-purpose flour
-    - :microbe: 113 g [sourdough starter][2]
-    - :microbe: 2.5 tsp instant yeast
-    - :candy: 1 Tbsp granulated sugar
+    - :bread: 360 g all-purpose flour
+    - 113 g [sourdough starter][2]
+    - :tea: 2.5 tsp (8 g) instant yeast
+    - :candy: 1 Tbsp (12 g) granulated sugar
     - :salt: 8 g salt
     - :egg: 1 large egg
     - :butter: 71 g unsalted butter
@@ -34,22 +34,22 @@ hero: assets/images/cinnamon-raisin-sourdough-bread.webp
     === "serves 1"
 
         - :candy: 50 g granulated sugar
-        - :custard: 1.5 tsp cinnamon
-        - :ear_of_rice: 2 tsp all-purpose flour
+        - :chestnut: 1.5 tsp (6 g) cinnamon
+        - :bread: 2 tsp (5 g) all-purpose flour
         - :egg: 1 egg
-        - :droplet: 1 Tbsp water
+        - :droplet: 1 Tbsp (14 g) water
         - :grapes: 74 g raisins
-        - :butter: some unsalted butter (optional)
+        - :baby_bottle: some unsalted butter (optional)
 
     === "serves 2"
 
         - :candy: 100 g granulated sugar
-        - :custard: 3 tsp cinnamon
-        - :ear_of_rice: 4 tsp all-purpose flour
+        - :chestnut: 3 tsp (12 g) cinnamon
+        - :bread: 4 tsp (10 g) all-purpose flour
         - :egg: 1 egg
-        - :droplet: 1 Tbsp water
+        - :droplet: 1 Tbsp (14 g) water
         - :grapes: 148 g raisins
-        - :butter: some unsalted butter (optional)
+        - :baby_bottle: some unsalted butter (optional)
 
 ## :cooking: Cookware
 

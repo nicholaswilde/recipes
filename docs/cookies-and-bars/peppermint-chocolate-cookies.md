@@ -17,20 +17,20 @@ hero: assets/images/peppermint-chocolate-cookies.webp
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup granulated sugar
-- :candy: 0.5 cup brown sugar
-- :butter: 0.5 cup unsalted butter
+- :candy: 0.5 cup (99 g) granulated sugar
+- :maple_leaf: 0.5 cup (106 g) brown sugar
+- :butter: 0.5 cup (113 g) unsalted butter
 - :egg: 2 eggs
 - :flower_playing_cards: 1 tsp vanilla
-- :salt: 0.5 tsp peppermint extract
+- :flower_playing_cards: 0.5 tsp peppermint extract
 - :coffee: 0.5 tsp instant espresso coffee powder
-- :chocolate_bar: 0.33 cup unsweetened cocoa powder
+- :chocolate_bar: 0.33 cup (28 g) unsweetened cocoa powder
 - :chestnut: 1 tsp baking soda
 - :salt: 0.25 tsp salt
-- :bread: 1.66 cups all-purpose flour
-- :chestnut: 4 oz bittersweet chocolate
-- :butter: 1 Peppermint Buttercream
-- :salt: some peppermint candies (optional)
+- :bread: 1.66 cups (199 g) all-purpose flour
+- :chestnut: 4 oz (85 g) bittersweet chocolate
+- 1 Peppermint Buttercream
+- :hot_pepper: some peppermint candies (optional)
 
 ## :cooking: Cookware
 

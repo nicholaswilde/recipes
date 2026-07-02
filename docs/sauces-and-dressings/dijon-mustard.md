@@ -19,14 +19,14 @@ hero: assets/images/dijon-mustard.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1/2 cup (120 ml) dry white wine
-- :honey_pot: 1/2 cup (120 ml) white wine vinegar
-- :onion: 1 small shallot, minced
+- :wine_glass: 1/2 cup (56 g) (120 ml) dry white wine
+- :wine_glass: 1/2 cup (99 g) (120 ml) white wine vinegar
+- :garlic: 1 small shallot, minced
 - :garlic: 1 garlic clove, smashed
-- :seedling: 1/4 cup (40 g) brown mustard seeds
-- :seedling: 1/4 cup (40 g) yellow mustard seeds
-- :salt: 1 tsp (6 g) table salt
-- :honey_pot: 1 Tbsp (21 g) honey or sugar
+- :seedling: 1/4 cup (42 g) brown mustard seeds
+- :seedling: 1/4 cup (39 g) yellow mustard seeds
+- :salt: 1 tsp table salt
+- :candy: 1 Tbsp (12 g) honey or sugar
 
 ## :cooking: Cookware
 

@@ -16,13 +16,13 @@ hero: assets/images/black-bean-burrito-bake.webp
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1 can chipotle chiles in adobo sauce
-- :rice: 0.5 cup (114 g) sour cream
-- :canned_food: 1 can [black beans][1]
-- :corn: 1 cup corn
-- :flatbread: 4 flour tortillas
-- :tomato: 1 cup TJ's Spicy Smoked Peach Salsa
-- :cheese_wedge: 0.5 cup Monterey Jack cheese
+- :apple: 1 can chipotle chiles in adobo sauce
+- :glass_of_milk: 0.5 cup (114 g) sour cream
+- 1 can [black beans][1]
+- :corn: 1 cup (312 g) corn
+- :bread: 4 flour tortillas
+- :ramen: 1 cup TJ's Spicy Smoked Peach Salsa
+- :cheese_wedge: 0.5 cup (56 g) Monterey Jack cheese
 
 ## :cooking: Cookware
 

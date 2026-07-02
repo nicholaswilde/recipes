@@ -18,8 +18,8 @@ hero: assets/images/spaghetti-aglio-e-olio.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 0.5 lb spaghettoni
-- :olive: 5 Tbsp olive oil
+- 0.5 lb spaghettoni
+- :olive: 5 Tbsp (62 g) olive oil
 - :herb: 2 Tbsp parsley
 - :hot_pepper: 1 small chili pepper
 - :garlic: 2 Tbsp garlic

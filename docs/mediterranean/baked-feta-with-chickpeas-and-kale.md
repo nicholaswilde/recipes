@@ -17,18 +17,18 @@ hero: assets/images/baked-feta-with-chickpeas-and-kale.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :custard: 1 tsp cumin
+- :olive: 2 Tbsp (25 g) olive oil
+- :chestnut: 1 tsp (3 g) cumin
 - :leafy_green: 1 bunch kale
 - :tomato: 2 cups marinara
-- :stuffed_flatbread: 1.5 cups cooked chickpeas
-- :lemon: 1 Tbsp lemon juice
-- :droplet: 0.5 cup water
-- :cheese_wedge: 1 12-oz block feta
+- :beans: 1.5 cups (322 g) cooked chickpeas
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :droplet: 0.5 cup (114 g) water
+- :glass_of_milk: 1 12-oz block feta
 - :salt: some pepper
 - :hot_pepper: 1 pinch red pepper flakes
-- :flatbread: some [pita][1] or baguette
-- :lemon: some lemon wedges
+- :bread: some [pita][1] or baguette
+- :tangerine: some lemon wedges
 
 ## :cooking: Cookware
 

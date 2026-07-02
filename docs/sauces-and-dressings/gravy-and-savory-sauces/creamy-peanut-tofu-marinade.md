@@ -19,14 +19,14 @@ hero: assets/images/creamy-peanut-tofu-marinade.webp
 ## :salt: Ingredients
 
 - :cheese_wedge: 1 block (400 to 450 g) extra firm tofu (14 to 16-ounce)
-- :chestnut: 0.25 cup (64 g) peanut butter
-- :takeout_box: 1.5 Tbsp (22 g) tamari
-- :tangerine: 1.5 Tbsp (22 g) lime juice
-- :wine_glass: 1 Tbsp (15 g) rice vinegar
-- :honey_pot: 2 tsp (14 g) maple syrup
+- :chestnut: 0.25 cup (68 g) peanut butter
+- :takeout_box: 1.5 Tbsp tamari
+- :tangerine: 1.5 Tbsp (21 g) lime juice
+- :wine_glass: 1 Tbsp (2 g) rice vinegar
+- :honey_pot: 2 tsp (13 g) maple syrup
 - :garlic: 2 large cloves garlic, minced
-- :sweet_potato: 1 Tbsp (15 g) ginger, minced
-- :droplet: 2 Tbsp (30 g) warm water
+- :sweet_potato: 1 Tbsp ginger, minced
+- :droplet: 2 Tbsp (28 g) warm water
 
 ## :cooking: Cookware
 

@@ -20,24 +20,24 @@ hero: assets/images/easy-vegan-ramen.webp
 
 === "Ramen"
 
-    - :olive: 1 Tbsp olive oil
+    - :olive: 1 Tbsp (12 g) olive oil
     - :garlic: 5 cloves garlic
     - :sweet_potato: 1 3-inch ginger
-    - :onion: 1 medium yellow onion
-    - :stew: 6 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
-    - :sake: 2 Tbsp tamari or soy sauce
-    - :mushroom: 0.5 oz dehydrated shiitake mushrooms
-    - :oil_drum: 1 tsp sesame oil
-    - :ramen: 1 Tbsp white or yellow miso paste
-    - :ramen: 8 oz ramen noodles
+    - :seedling: 1 medium yellow onion
+    - 6 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+    - :apple: 2 Tbsp (28 g) tamari or soy sauce
+    - :mushroom: 0.5 oz (5 g) dehydrated shiitake mushrooms
+    - :olive: 1 tsp (5 g) sesame oil
+    - :takeout_box: 1 Tbsp (18 g) white or yellow miso paste
+    - 8 oz ramen noodles
 
 === "Topping"
 
-    - :butter: 10 oz extra-firm tofu
-    - :carrot: some [miso-glazed carrots][2] (optional)
-    - :leafy_green: some [miso-glazed baby bok choy][1] (optional)
-    - :seedling: 0.5 cup chopped green onion (optional)
-    - :hot_pepper: some chili garlic sauce (optional
+    - :cheese_wedge: 10 oz extra-firm tofu
+    - :tea: some [miso-glazed carrots][2] (optional)
+    - :apple: some [miso-glazed baby bok choy][1] (optional)
+    - :tea: 0.5 cup (71 g) chopped green onion (optional)
+    - :garlic: some chili garlic sauce (optional
 
 ## :cooking: Cookware
 

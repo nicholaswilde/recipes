@@ -20,33 +20,33 @@ hero: assets/images/sour-cream-coffee-cake.webp
 
 === "Streusel"
 
-    - :ear_of_rice: 3 cups (360 g) all-purpose flour
+    - :bread: 3 cups (360 g) all-purpose flour
     - :maple_leaf: 1 cup (213 g) brown sugar
     - :candy: 0.5 cup (99 g) granulated sugar
     - :salt: 1 tsp salt
-    - :custard: 2 Tbsp cinnamon
-    - :butter: 1 cup (227 g) unsalted butter
+    - :chestnut: 2 Tbsp (25 g) cinnamon
+    - :butter: 1 cup (226 g) unsalted butter
 
 === "Cake"
 
-    - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
+    - :bread: 2.25 cups (270 g) all-purpose flour
     - :candy: 1.25 cups (248 g) granulated sugar
-    - :dash: 1 Tbsp baking powder
-    - :cup_with_straw: 0.75 tsp baking soda
+    - :chestnut: 1 Tbsp baking powder
+    - :chestnut: 0.75 tsp baking soda
     - :salt: 0.75 tsp salt
     - :butter: 0.75 cup (170 g) unsalted butter
-    - :rice: 0.5 cup (114 g) sour cream
+    - :glass_of_milk: 0.5 cup (114 g) sour cream
     - :egg: 4 large eggs
-    - :rice: 1 cup (227 g) sour cream
-    - :icecream: 1 Tbsp vanilla
+    - :glass_of_milk: 1 cup (227 g) sour cream
+    - :flower_playing_cards: 1 Tbsp vanilla
 
 === "Icing"
 
-    - :butter: 0.25 cup (57 g) unsalted butter
-    - :icecream: 1 tsp vanilla
+    - :butter: 0.25 cup (56 g) unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
     - :salt: 0.5 tsp salt
-    - :glass_of_milk: 0.25 cup milk
-    - :candy: 2 cups (396 g) confectioners' sugar
+    - :glass_of_milk: 0.25 cup (57 g) milk
+    - :candy: 2 cups (226 g) confectioners' sugar
 
 ## :cooking: Cookware
 

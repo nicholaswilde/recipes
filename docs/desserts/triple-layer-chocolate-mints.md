@@ -16,10 +16,10 @@ hero: assets/images/triple-layer-chocolate-mints.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 6 oz semisweet chocolate
-- :chocolate_bar: 6 oz white chocolate
-- :leafy_green: 1 tsp peppermint extract
-- :chocolate_bar: 6 oz milk chocolate
+- :bread: 6 oz (128 g) semisweet chocolate
+- :chocolate_bar: 6 oz (128 g) white chocolate
+- :flower_playing_cards: 1 tsp peppermint extract
+- :chocolate_bar: 6 oz (128 g) milk chocolate
 
 ## :cooking: Cookware
 

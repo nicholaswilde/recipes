@@ -18,9 +18,9 @@ hero: assets/images/swiss-meringue.webp
 ## :salt: Ingredients
 
 - :egg: 4 large egg whites
-- :candy: 1 cup sugar (189 g)
+- :candy: 1 cup (156 g) sugar
 - :salt: 1 pinch salt
-- :icecream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 
 ## :cooking: Cookware
 

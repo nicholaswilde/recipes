@@ -18,7 +18,7 @@ hero: assets/images/hard-caramel.webp
 ## :salt: Ingredients
 
 - :candy: 225 g granulated sugar
-- :droplet: 60 ml water
+- :droplet: 60 ml (58 g) water
 - :butter: 15 g unsalted butter
 - :chestnut: 60 g toasted pecans
 

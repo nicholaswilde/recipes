@@ -17,12 +17,12 @@ hero: assets/images/vanilla-wafers.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 stick (113 g) butter
-- :candy: 7 oz (198 g) confectioners' sugar
+- :butter: 1 stick butter
+- :candy: 7 oz (99 g) confectioners' sugar
 - :egg: 3 large egg whites
 - :egg: 1 large egg
-- :ear_of_rice: 6 oz (170 g) all-purpose flour
-- :icecream: 2 tsp vanilla
+- :bread: 6 oz (90 g) all-purpose flour
+- :flower_playing_cards: 2 tsp vanilla
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

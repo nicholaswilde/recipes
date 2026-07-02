@@ -17,13 +17,13 @@ hero: assets/images/bread-machine-italian-parmesan.webp
 
 ## :salt: Ingredients
 
-- :hotsprings: 1.5 cups (341 g) warm water
+- :droplet: 1.5 cups (340 g) warm water
 - :salt: 1.5 tsp salt
-- :herb: 1 tsp Italian seasoning
+- :herb: 1 tsp (2 g) Italian seasoning
 - :garlic: 1 tsp garlic powder
 - :cheese_wedge: 0.25 cup (25 g) Parmesan cheese
-- :ear_of_rice: 4 cups (480 g) bread flour
-- :microbe: 2.5 tsp yeast
+- :bread: 4 cups (480 g) bread flour
+- :tea: 2.5 tsp (8 g) yeast
 
 ## :cooking: Cookware
 

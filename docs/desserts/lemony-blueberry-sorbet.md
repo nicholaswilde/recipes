@@ -17,10 +17,10 @@ hero: assets/images/lemony-blueberry-sorbet.webp
 
 ## :salt: Ingredients
 
-- :blue_circle: 3 cups blueberries
+- :apple: 3 cups (468 g) blueberries
 - :honey_pot: 3 Tbsp honey
-- :lemon: 1 lemon juice
-- :lemon: 1 lemon zest
+- :tangerine: 1 lemon juice
+- :tangerine: 1 lemon zest
 
 ## :cooking: Cookware
 

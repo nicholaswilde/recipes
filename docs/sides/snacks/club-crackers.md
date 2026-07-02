@@ -17,13 +17,13 @@ hero: assets/images/club-crackers.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups einkorn flour
-- :dash: 1 tsp baking powder
+- :chestnut: 2 cups (256 g) einkorn flour
+- :chestnut: 1 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 1 stick cold butter
+- :glass_of_milk: 1 stick cold butter
 - :honey_pot: 1 Tbsp honey
-- :glass_of_milk: 0.67 cups milk
-- :butter: 2 Tbsp melted butter
+- :glass_of_milk: 0.67 cups (152 g) milk
+- :glass_of_milk: 2 Tbsp (34 g) melted butter
 - :salt: some salt
 
 ## :cooking: Cookware

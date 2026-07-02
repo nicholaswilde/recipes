@@ -16,20 +16,20 @@ hero: assets/images/kouign-amann.webp
 
 ## :salt: Ingredients
 
-- :tea: 1 Tbsp (10 g) active dry yeast
+- :tea: 1 Tbsp (4 g) active dry yeast
 - :droplet: 0.25 cup (57 g) very warm water (110°–115°)
-- :candy: 3 Tbsp (40 g) sugar
-- :salt: 1 tsp (5 g) kosher salt
-- :bread: 3 cups (400 g) all-purpose flour
-- :butter: 2 Tbsp (30 g) European-style butter
-- :droplet: 0.75 cup (170 g) cold water
-- :butter: 12 oz (340 g) chilled unsalted European-style butter (at least 82% fat, cut into pieces)
-- :candy: 0.5 cup (100 g) sugar
-- :salt: 1 tsp (5 g) kosher salt
-- :candy: 2 Tbsp (25 g) sugar
-- :candy: 0.25 cup (50 g) sugar
-- :candy: 0.25 cup (50 g) sugar
-- :candy: 2 Tbsp (30 g) sugar
+- :candy: 3 Tbsp (29 g) sugar
+- :salt: 1 tsp kosher salt
+- :bread: 3 cups (360 g) all-purpose flour
+- :hot_pepper: 2 Tbsp (13 g) European-style butter
+- :baby_bottle: 0.75 cup (170 g) cold water
+- :hot_pepper: 12 oz (339 g) chilled unsalted European-style butter (at least 82% fat, cut into pieces)
+- :candy: 0.5 cup (78 g) sugar
+- :salt: 1 tsp kosher salt
+- :candy: 2 Tbsp (20 g) sugar
+- :candy: 0.25 cup (39 g) sugar
+- :candy: 0.25 cup (39 g) sugar
+- :candy: 2 Tbsp (20 g) sugar
 
 ## :cooking: Cookware
 

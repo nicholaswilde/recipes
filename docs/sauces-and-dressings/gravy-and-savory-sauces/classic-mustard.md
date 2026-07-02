@@ -16,13 +16,13 @@ hero: assets/images/classic-mustard.webp
 
 ## :salt: Ingredients
 
-- :droplet: 3 Tbsp water
-- :sake: 5 Tbsp vinegar
-- :hotdog: 0.5 cup mustard powder
-- :candy: 1 Tbsp sugar
+- :droplet: 3 Tbsp (43 g) water
+- :wine_glass: 5 Tbsp vinegar
+- :chestnut: 0.5 cup mustard powder
+- :candy: 1 Tbsp (10 g) sugar
 - :salt: 0.25 tsp salt
-- :herb: 1 tsp turmeric (optional)
-- :hot_pepper: 0.5 tsp sweet paprika (optional)
+- :leafy_green: 1 tsp (3 g) turmeric (optional)
+- :hot_pepper: 0.5 tsp (2 g) sweet paprika (optional)
 
 ## :pencil: Instructions
 

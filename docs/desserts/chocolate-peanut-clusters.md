@@ -16,9 +16,9 @@ hero: assets/images/chocolate-peanut-clusters.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 bag semi-sweet chocolate chips
-- :peanuts: 1 bag peanut-butter chips
-- :peanuts: 1 can skinless salted peanuts
+- :chestnut: 1 bag semi-sweet chocolate chips
+- :chestnut: 1 bag peanut-butter chips
+- :chestnut: 1 can skinless salted peanuts
 
 ## :cooking: Cookware
 

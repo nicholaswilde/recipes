@@ -19,12 +19,12 @@ hero: assets/images/trapani-style-pasta.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 lb pasta
-- :cheese_wedge: 2 oz Parmesan
-- :chestnut: 0.75 cup almonds
+- :spaghetti: 1 lb pasta
+- :cheese_wedge: 2 oz (25 g) Parmesan
+- :chestnut: 0.75 cup (64 g) almonds
 - :garlic: 2 cloves garlic
-- :hot_pepper: 1 chilies
-- :tomato: 3 cups cherry tomatoes
+- 1 chilies
+- :apple: 3 cups (1008 g) cherry tomatoes
 - :olive: some olive oil
 - :salt: some salt
 - :salt: some pepper

@@ -17,10 +17,10 @@ hero: assets/images/baked-sriracha-tofu.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 block tofu
-- :olive: 1 tsp olive oil
-- :hot_pepper: 1.5 Tbsp sriracha
-- :takeout_box: 2 Tbsp soy sauce
+- :cheese_wedge: 1 block tofu
+- :olive: 1 tsp (4 g) olive oil
+- 1.5 Tbsp sriracha
+- :takeout_box: 2 Tbsp (18 g) soy sauce
 
 ## :cooking: Cookware
 

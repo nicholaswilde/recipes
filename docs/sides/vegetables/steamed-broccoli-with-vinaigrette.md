@@ -19,7 +19,7 @@ hero: assets/images/steamed-broccoli-with-vinaigrette.webp
 
 - :broccoli: 2 lbs broccoli
 - :salt: 0.5 tsp salt
-- :green_salad: some [vinaigrette][1]
+- some [vinaigrette][1]
 
 ## :pencil: Instructions
 

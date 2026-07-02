@@ -8,17 +8,17 @@
 
 ## :salt: Ingredients
 
-- 10 ounces fresh or frozen baby lima beans
-- 4 center-cut bacon slices
-- 1 cup chopped sweet onion
-- 4 ounces fresh okra
-- 1 garlic clove
-- 3 cups fresh corn kernels
-- 0.25 tsp kosher salt
-- 0.25 tsp black pepper
-- 3 tbsp butter
-- 5 ounces cherry tomatoes
-- 0.25 cup fresh basil
+- :beans: 10 ounces (175 g) fresh or frozen baby lima beans
+- :bacon: 4 center-cut bacon slices
+- :tea: 1 cup (140 g) chopped sweet onion
+- :apple: 4 ounces fresh okra
+- :garlic: 1 garlic clove
+- :corn: 3 cups (456 g) fresh corn kernels
+- :salt: 0.25 tsp kosher salt
+- :salt: 0.25 tsp (1 g) black pepper
+- :butter: 3 tbsp butter
+- :tomato: 5 ounces (210 g) cherry tomatoes
+- :herb: 0.25 cup (10 g) fresh basil
 
 ## :cooking: Cookware
 

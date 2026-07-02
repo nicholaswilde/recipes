@@ -17,13 +17,13 @@ hero: assets/images/jean-pierre's-vegetable-stock.webp
 ## :salt: Ingredients
 
 - :carrot: 2 lbs carrots
-- :onion: 2 lbs onion
+- :tea: 2 lbs onion
 - :leafy_green: 1 stock celery
-- :leafy_green: 2 leeks
-- :tomato: 1 28-oz can tomatoes
+- :tea: 2 leeks
+- :glass_of_milk: 1 28-oz can tomatoes
 - :herb: 10 sprigs parsley
-- :fallen_leaf: 3 bay leaves
-- :salt: 14 whole peppercorns
+- :herb: 3 bay leaves
+- :hot_pepper: 14 whole peppercorns
 - :herb: 3 sprigs thyme
 - :garlic: 12 cloves garlic
 

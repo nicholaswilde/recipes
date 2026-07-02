@@ -18,10 +18,10 @@ hero: assets/images/creamy-double-decker-fudge.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 cup REESE'S peanut butter chips
+- :peanut: 1 cup (270 g) REESE'S peanut butter chips
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
-- :icecream: 1 tsp vanilla
-- :chocolate_bar: 1 cup semi-sweet chocolate chips
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: 1 cup (170 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

@@ -18,18 +18,18 @@ hero: assets/images/chess-pie.webp
 
 ## :salt: Ingredients
 
-- :pie: 0.5 [Basic Pie or Pastry Dough][1]
+- :green_apple: 0.5 [Basic Pie or Pastry Dough][1]
 - :egg: 1 egg yolk
 - :egg: 1 large egg
 - :egg: 4 large egg yolk
-- :candy: 0.67 cup (133 g) sugar
-- :maple_leaf: 0.67 cup (143 g) light brown sugar
+- :candy: 0.67 cup (105 g) sugar
+- :candy: 0.67 cup (143 g) light brown sugar
 - :salt: 0.5 tsp salt
-- :icecream: 0.67 cup heavy cream or [evaporated milk][2]
-- :glass_of_milk: 0.33 cup milk
-- :icecream: 0.33 cup heavy cream
-- :butter: 6 Tbsp unsalted butter
-- :chestnut: 0.75 cup toasted walnuts or pecans (optional)
+- :glass_of_milk: 0.67 cup (152 g) heavy cream or [evaporated milk][2]
+- :glass_of_milk: 0.33 cup (75 g) milk
+- :glass_of_milk: 0.33 cup (75 g) heavy cream
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :chestnut: 0.75 cup (72 g) toasted walnuts or pecans (optional)
 
 ## :cooking: Cookware
 

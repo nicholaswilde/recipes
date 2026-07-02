@@ -17,20 +17,20 @@ hero: assets/images/chocolate-chip-muffins.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 320 g all-purpose flour
+- :bread: 320 g all-purpose flour
 - :candy: 200 g granulated sugar
-- :dash: 2.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :chestnut: 2.5 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :chocolate_bar: 1.5 cups (255 g) mini semi sweet chocolate chips
+- :chocolate_bar: 1.5 cups (266 g) mini semi sweet chocolate chips
 - :egg: 2 large eggs
-- :rice: 65 g sour cream or full fat Greek yogurt
-- :icecream: 2 tsp vanilla
-- :maple_leaf: 2 Tbsp maple syrup
-- :oil_drum: 2 Tbsp vegetable oil
+- :cheese_wedge: 65 g sour cream or full fat Greek yogurt
+- :flower_playing_cards: 2 tsp vanilla
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :olive: 2 Tbsp (25 g) vegetable oil
 - :butter: 113 g unsalted butter
-- :glass_of_milk: 255 g [buttermilk](../ingredients/buttermilk.md)
-- :candy: 3 Tbsp coarse sugar
+- :icecream: 255 g [buttermilk](../ingredients/buttermilk.md)
+- :baby_bottle: 3 Tbsp (29 g) coarse sugar
 
 ## :cooking: Cookware
 

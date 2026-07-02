@@ -20,12 +20,12 @@ hero: assets/images/butter-cookies.webp
 - :butter: 230 g unsalted butter
 - :candy: 150 g granulated sugar
 - :egg: 1 large egg
-- :icecream: 1.5 tsp vanilla
-- :chestnut: 1 tsp almond extract
-- :ear_of_rice: 281 g all-purpose flour
+- :flower_playing_cards: 1.5 tsp vanilla
+- :flower_playing_cards: 1 tsp (6 g) almond extract
+- :bread: 281 g all-purpose flour
 - :salt: 0.5 tsp salt
-- :glass_of_milk: 1.5 Tbsp whole milk
-- :chocolate_bar: 113 g semi-sweet chocolate (optional)
+- :glass_of_milk: 1.5 Tbsp (21 g) whole milk
+- :chestnut: 113 g semi-sweet chocolate (optional)
 
 ## :cooking: Cookware
 

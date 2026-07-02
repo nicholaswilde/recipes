@@ -19,13 +19,13 @@ hero: assets/images/oatmeal-cream-pies.png
 ## :salt: Ingredients
 
 - :butter: 0.5 cup (113 g) unsalted butter
-- :maple_leaf: 1 cup (213 g) light brown sugar
-- :maple_leaf: 1 Tbsp molasses
+- :candy: 1 cup (213 g) light brown sugar
+- :candy: 1 Tbsp (21 g) molasses
 - :egg: 1 egg
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 1.25 cup (150 g) all-purpose flour
 - :ear_of_rice: 0.5 cup (50 g) old fashioned oats
-- :cup_with_straw: 0.75 tsp baking soda
+- :chestnut: 0.75 tsp baking soda
 - :salt: 0.5 tsp salt
 
 ## :salt: Ingredeitns - Vanilla Cream Filling

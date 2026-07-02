@@ -18,10 +18,10 @@ hero: assets/images/mom's-buttercream-frosting.webp
 ## :salt: Ingredients
 
 - :candy: 1 lb confectioner's sugar
-- :butter: 0.33 cup (75 g) soft butter
-- :glass_of_milk: 0.25 cup milk
+- :butter: 0.33 cup (90 g) soft butter
+- :glass_of_milk: 0.25 cup (57 g) milk
 - :salt: 0.25 tsp salt
-- :ice_cream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

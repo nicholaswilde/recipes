@@ -18,9 +18,9 @@ hero: assets/images/deluxe-butter-pastry.webp
 
 ## :salt: Ingredients
 
-- :pie: 1 [Basic Pastry Dough][1]
-- :butter: 2 sticks cold unsalted butter
-- :carrot: 0.25 cup chilled vegetable shortening
+- :dumpling: 1 [Basic Pastry Dough][1]
+- :glass_of_milk: 2 sticks cold unsalted butter
+- :carrot: 0.25 cup (46 g) chilled vegetable shortening
 
 ## :pencil: Instructions
 

@@ -19,20 +19,20 @@ hero: assets/images/healthy-pasta-with-pesto-and-broccoli.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 pkg fusilli pasta
-- :broccoli: 4 cups broccoli florets
-- :tomato: 2 cups grape tomatoes
-- :cheese_wedge: 0.5 cup Parmesan cheese
-- :droplet: 1 cup pasta water
-- :olive: 1 Tbsp olive oil
+- :ribbon: 1 pkg fusilli pasta
+- :broccoli: 4 cups (364 g) broccoli florets
+- :tomato: 2 cups (228 g) grape tomatoes
+- :cheese_wedge: 0.5 cup (50 g) Parmesan cheese
+- :droplet: 1 cup (145 g) pasta water
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 2 cloves garlic
-- :herb: 1 Tbsp [pesto][1]
-- :herb: 1 Tbsp [pesto][1]
-- :herb: 0.25 cup [pesto][1]
-- :tomato: 0.33 cup sun-dried tomatoes
+- 1 Tbsp [pesto][1]
+- 1 Tbsp [pesto][1]
+- 0.25 cup [pesto][1]
+- :tea: 0.33 cup (56 g) sun-dried tomatoes
 - :salt: 1 salt
 - :salt: some black pepper
-- :hot_pepper: 0.13 tsp red pepper flakes
+- :hot_pepper: 0.13 tsp (1 g) red pepper flakes
 
 ## :cooking: Cookware
 

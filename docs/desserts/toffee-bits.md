@@ -17,7 +17,7 @@ hero: assets/images/toffee-bits.webp
 ## :salt: Ingredients
 
 - :butter: 113 g unsalted butter
-- :maple_leaf: 200 g light brown sugar
+- :candy: 200 g light brown sugar
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware

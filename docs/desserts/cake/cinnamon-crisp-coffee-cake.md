@@ -21,37 +21,37 @@ hero: assets/images/cinnamon-crisp-coffee-cake.webp
 === "Filling"
 
     - :candy: 66 g granulated sugar
-    - :custard: 1 Tbsp cinnamon
-    - :chocolate_bar: 2 Tbsp unsweetened cocoa
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :chocolate_bar: 2 Tbsp (10 g) unsweetened cocoa
 
 === "Crumbs"
 
-    - :ear_of_rice: 120 g all-purpose flour
+    - :bread: 120 g all-purpose flour
     - :candy: 75 g granulated sugar
     - :candy: 14 g confectioners' sugar
-    - :custard: 1 Tbsp cinnamon
+    - :chestnut: 1 Tbsp (12 g) cinnamon
     - :salt: 0.25 tsp salt
     - :butter: 85 g unsalted butter
-    - :icecream: 1 tsp vanilla
+    - :flower_playing_cards: 1 tsp vanilla
 
 === "Cake"
 
-    - :ear_of_rice: 240 g all-purpose flour
+    - :bread: 240 g all-purpose flour
     - :candy: 149 g granulated sugar
-    - :dash: 1 tsp baking powder
+    - :chestnut: 1 tsp baking powder
     - :salt: 0.75 tsp salt
-    - :cup_with_straw: 0.25 tsp baking soda
+    - :chestnut: 0.25 tsp baking soda
     - :butter: 113 g unsalted butter
-    - :icecream: 2 tsp vanilla
+    - :flower_playing_cards: 2 tsp vanilla
     - :egg: 2 large eggs
-    - :butter: 227 g [buttermilk](../../ingredients/buttermilk.md)
-    - :rice: 227 g Greek yogurt (alternative)
+    - :icecream: 227 g [buttermilk](../../ingredients/buttermilk.md)
+    - :glass_of_milk: 227 g Greek yogurt (alternative)
 
 === "Glaze (Optional)"
 
     - :candy: 85 g confectioners' sugar
-    - :custard: 1 pinch cinnamon
-    - :droplet: 3 tsp water
+    - :chestnut: 1 pinch cinnamon
+    - :droplet: 3 tsp (14 g) water
 
 ## :cooking: Cookware
 

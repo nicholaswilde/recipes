@@ -19,18 +19,18 @@ hero: assets/images/sambal-goreng-kering-kentang.webp
 
 ## :salt: Ingredients
 
-- :potato: 500 g potatoes, peeled and julienned or finely grated
-- :oil_drum: 2 cups oil (for frying)
-- :onion: 3 shallots, thinly sliced
+- :apple: 500 g potatoes, peeled and julienned or finely grated
+- :carrot: 2 cups (396 g) oil (for frying)
+- :garlic: 3 shallots, thinly sliced
 - :garlic: 2 cloves garlic, minced
-- :chestnut: 1 Tbsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)
-- :seedling: 1/2 tsp [Vegetarian Terasi](../../ingredients/vegetarian-terasi.md)
-- :lemon: 1 Tbsp tamarind paste (dissolved in 2 Tbsp water)
-- :candy: 2 Tbsp palm sugar (or coconut sugar)
+- 1 Tbsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)
+- 1/2 tsp [Vegetarian Terasi](../../ingredients/vegetarian-terasi.md)
+- :baby_bottle: 1 Tbsp (20 g) tamarind paste (dissolved in 2 Tbsp water)
+- :candy: 2 Tbsp (19 g) palm sugar (or coconut sugar)
 - :salt: 1/2 tsp salt
-- :leafy_green: 2 daun salam (Indonesian bay leaves)
-- :leafy_green: 2 lime leaves, thinly sliced
-- :cooking: 1 Tbsp oil (for sauce)
+- :herb: 2 daun salam (Indonesian bay leaves)
+- :herb: 2 lime leaves, thinly sliced
+- :droplet: 1 Tbsp (12 g) oil (for sauce)
 
 ## :cooking: Cookware
 

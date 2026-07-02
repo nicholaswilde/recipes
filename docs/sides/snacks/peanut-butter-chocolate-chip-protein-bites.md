@@ -18,12 +18,12 @@ hero: assets/images/peanut-butter-chocolate-chip-protein-bites.webp
 
 ## :salt: Ingredients
 
-- :honey_pot: 2 Tbsp honey or maple syrup
-- :peanuts: 0.5 cup [creamy peanut butter][1]
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 0.5 cup rolled oats
-- :chocolate_bar: 0.5 cup mini chocolate chips
-- :seedling: 0.25 cup hemp seeds or chia seeds or flax seeds
+- :honey_pot: 2 Tbsp (39 g) honey or maple syrup
+- :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+- :flower_playing_cards: 1 tsp vanilla
+- :ear_of_rice: 0.5 cup (56 g) rolled oats
+- :chocolate_bar: 0.5 cup (88 g) mini chocolate chips
+- :seedling: 0.25 cup (37 g) hemp seeds, chia seeds, or flax seeds
 
 ## :cooking: Cookware
 

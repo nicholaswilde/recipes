@@ -22,7 +22,7 @@ hero: assets/images/salted-caramel-sauce.webp
 - :candy: 200 g granulated sugar
 - :glass_of_milk: 240 g heavy cream
 - :butter: 85 g unsalted butter
-- :icecream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware

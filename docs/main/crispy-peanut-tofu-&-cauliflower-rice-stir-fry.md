@@ -20,18 +20,18 @@ hero: assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.webp
 
 ## :salt: Ingredients
 
-- :custard: 12 oz extra firm tofu
-- :peanuts: 2.5 Tbsp [peanut butter][1]
-- :takeout_box: 1 Tbsp sesame oil
+- :cheese_wedge: 12 oz extra firm tofu
+- 2.5 Tbsp [peanut butter][1]
+- :olive: 1 Tbsp (14 g) sesame oil
 - :takeout_box: 2 Tbsp tamari
-- :maple_leaf: 2 Tbsp maple syrup
+- :honey_pot: 2 Tbsp (39 g) maple syrup
 - :garlic: 2 tsp chili garlic sauce
 - :takeout_box: 2 tsp tamari
 - :broccoli: 1 small cauliflower
 - :garlic: 2 cloves garlic
-- :takeout_box: 1 dash sesame oil
+- :olive: 1 dash sesame oil
 - :takeout_box: 1 dash tamari
-- :leafy_green: 1 cup baby bok choy (optional)
+- :apple: 1 cup baby bok choy (optional)
 
 ## :cooking: Cookware
 

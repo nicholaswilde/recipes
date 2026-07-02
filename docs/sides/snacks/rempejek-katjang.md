@@ -19,18 +19,18 @@ hero: assets/images/rempejek-katjang.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups rice flour
-- :seedling: 1 tsp ground ketumbar (coriander)
-- :seedling: 1 tsp ground kencur (aromatic ginger)
-- :seedling: 1/2 tsp ground djinten (cumin)
+- :bread: 2 cups (256 g) rice flour
+- :chestnut: 1 tsp (2 g) ground ketumbar (coriander)
+- :sweet_potato: 1 tsp (3 g) ground kencur (aromatic ginger)
+- :chestnut: 1/2 tsp (2 g) ground djinten (cumin)
 - :garlic: 2 cloves garlic, finely minced
 - :salt: 1 pinch salt
-- :coconut: 1.5 cups coconut milk
+- :coconut: 1.5 cups (171 g) coconut milk
 - :egg: 1 egg, beaten
-- :droplet: 1 Tbsp water (or more, to thin batter)
-- :leafy_green: 5 lime leaves, thinly sliced
-- :cooking: 2 cups oil
-- :chestnut: 2 cups raw peanuts
+- :baby_bottle: 1 Tbsp (18 g) water (or more, to thin batter)
+- :herb: 5 lime leaves, thinly sliced
+- :olive: 2 cups (400 g) oil
+- :chestnut: 2 cups (396 g) raw peanuts
 
 ## :cooking: Cookware
 

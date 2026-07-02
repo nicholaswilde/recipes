@@ -17,16 +17,16 @@ hero: assets/images/bourbon-grilled-cheese.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 medium onion
-- :candy: 1 Tbsp [brown sugar][1]
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 medium onion
+- 1 Tbsp [brown sugar][1]
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- :tumbler_glass: 1 Tbsp Bourbon
+- 1 Tbsp Bourbon
 - :butter: 1.5 tsp butter
-- :bread: 8 slices sourdough bread
-- :cheese_wedge: 6 oz cheddar cheese
-- :cheese_wedge: 6 oz Gruyère cheese
+- :four_leaf_clover: 8 slices sourdough bread
+- :cheese_wedge: 6 oz (86 g) cheddar cheese
+- :cheese_wedge: 6 oz (170 g) Gruyère cheese
 
 ## :cooking: Cookware
 

@@ -18,14 +18,14 @@ hero: assets/images/basmati-pilaf.webp
 ## :salt: Ingredients
 
 - :butter: 100 g unsalted butter
-- :onion: 1 large onion
-- :rice: 500 g basmati rice
+- :tea: 1 large onion
+- :baby_bottle: 500 g basmati rice
 - :herb: 1 sprig thyme
-- :fallen_leaf: 2 bay leaves
-- :custard: 2 cinnamon sticks
-- :olive: 8 cardamom pods
-- :four_leaf_clover: 3 cloves
-- :lemon: 6 strips lemon zest
+- :herb: 2 bay leaves
+- :hot_pepper: 2 cinnamon sticks
+- :seedling: 8 cardamom pods
+- :chestnut: 3 cloves
+- :tangerine: 6 strips lemon zest
 - :stew: 1 qt vegetable stock or water
 - :salt: 1.5 tsp sea salt
 - :salt: some ground black pepper

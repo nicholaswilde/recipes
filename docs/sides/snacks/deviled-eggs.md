@@ -18,13 +18,13 @@ hero: assets/images/deviled-eggs.webp
 ## :salt: Ingredients
 
 - :egg: 6 eggs
-- :egg: 3 Tbsp [mayonnaise][1]
-- :hotdog: 0.5 tsp mustard
+- 3 Tbsp [mayonnaise][1]
+- :seedling: 0.5 tsp mustard
 - :salt: 0.25 tsp salt
-- :garlic: 0.13 tsp garlic salt
-- :onion: 0.13 tsp onion powder
-- :bacon: 2 Tbsp bacon bits
-- :salt: some Lawry's Seasoned Salt
+- :salt: 0.13 tsp garlic salt
+- :chestnut: 0.13 tsp onion powder
+- :bacon: 2 Tbsp (23 g) bacon bits
+- :baby_bottle: some Lawry's Seasoned Salt
 
 ## :pencil: Instructions
 

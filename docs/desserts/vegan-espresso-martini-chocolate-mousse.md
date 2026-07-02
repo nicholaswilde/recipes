@@ -14,15 +14,15 @@ tags:
 
 ## :salt: Ingredients
 
-- some aquafaba drained from one 400g tin of chickpeas
-- 0.25 tsp cream of tartar
-- 3 tbsp maple syrup
-- 3 tbsp vodka
-- 1 tbsp coffee liqueur
-- 1 tsp vanilla extract
-- 200 g dark chocolate
-- 3 tbsp strongly brewed espresso
-- some coffee beans or chocolate shavings
+- :apple: some aquafaba drained from one 400g tin of chickpeas
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :honey_pot: 3 tbsp (58 g) maple syrup
+- :tangerine: 3 tbsp vodka
+- :coffee: 1 tbsp (5 g) coffee liqueur
+- :flower_playing_cards: 1 tsp vanilla extract
+- :chestnut: 200 g dark chocolate
+- :coffee: 3 tbsp strongly brewed espresso
+- :apple: some coffee beans or chocolate shavings
 
 ## :cooking: Cookware
 

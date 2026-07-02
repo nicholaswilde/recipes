@@ -15,14 +15,14 @@ hero: assets/images/canneles-de-bordeaux.webp
 
 ## :salt: Ingredients
 
-- :flower_playing_cards: 2 vanilla beans
-- :glass_of_milk: 500 ml milk
+- :apple: 2 vanilla beans
+- :glass_of_milk: 500 ml (480 g) milk
 - :candy: 200 g cane sugar
 - :egg: 2 large eggs
-- :egg: 2 egg yolks
+- :baby_bottle: 2 egg yolks
 - :butter: 50 g butter
 - :bread: 100 g all-purpose flour
-- :tumbler_glass: 60 ml dark rum
+- :tumbler_glass: 60 ml (54 g) dark rum
 - :bee: 40 g beeswax
 - :butter: 60 g butter
 

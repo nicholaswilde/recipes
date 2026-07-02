@@ -19,7 +19,7 @@ hero: assets/images/sauteed-green-beans.webp
 - :butter: 2 Tbsp (28 g) unsalted butter
 - :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 2 large garlic cloves
-- :beans: 1 pound (454 g) green beans
+- :beans: 1 pound green beans
 - :salt: some salt
 - :salt: some black pepper
 - :tangerine: 0.5 lemon

@@ -19,14 +19,14 @@ hero: assets/images/ina-garten's-parmesan-roasted-broccoli.webp
 
 - :broccoli: 4 lb broccoli
 - :garlic: 4 cloves garlic
-- :olive: 6.5 Tbsp olive oil
+- :olive: 6.5 Tbsp (81 g) olive oil
 - :salt: 1.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :lemon: 2 tsp lemon zest
-- :lemon: 2 Tbsp lemon juice
-- :chestnut: 3 Tbsp toasted pine nuts
-- :cheese_wedge: 0.33 cups Parmesan
-- :leafy_green: 12 leaves julienned fresh basil
+- :tangerine: 2 tsp (9 g) lemon zest
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :chestnut: 3 Tbsp (27 g) toasted pine nuts
+- :cheese_wedge: 0.33 cups (33 g) Parmesan
+- :herb: 12 leaves julienned fresh basil
 
 ## :cooking: Cookware
 

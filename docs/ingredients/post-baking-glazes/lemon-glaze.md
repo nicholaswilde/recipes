@@ -18,9 +18,9 @@ hero: assets/images/lemon-glaze.webp
 
 ## :salt: Ingredients
 
-- :candy: 1.25 cups (248 g) confectioners' sugar, sifted
-- :lemon: 0.25 cup fresh lemon, orange, or lime juice
-- :ice_cream: 1 tsp vanilla
+- :baby_bottle: 1.25 cups (141 g) confectioners' sugar, sifted
+- :tangerine: 0.25 cup fresh lemon, orange, or lime juice
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

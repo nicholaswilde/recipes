@@ -16,16 +16,16 @@ hero: assets/images/homemade-ranch-dip.webp
 
 ## :salt: Ingredients
 
-- :egg: 0.75 cup [mayonnaise][1]
-- :rice: 0.75 cup sour cream
-- :seedling: 0.75 tsp dried dill weed
-- :herb: 0.5 tsp dried parsley
-- :herb: 0.5 tsp dried chives
+- 0.75 cup [mayonnaise][1]
+- :glass_of_milk: 0.75 cup (170 g) sour cream
+- :herb: 0.75 tsp (2 g) dried dill weed
+- :herb: 0.5 tsp (1 g) dried parsley
+- :apple: 0.5 tsp dried chives
 - :garlic: 0.5 tsp garlic powder
-- :onion: 0.25 tsp onion powder
+- :chestnut: 0.25 tsp (1 g) onion powder
 - :salt: 0.13 tsp salt
 - :salt: 0.13 tsp ground black pepper
-- :lemon: 3 tsp lemon juice or white vinegar
+- :apple: 3 tsp lemon juice or white vinegar
 
 ## :cooking: Cookware
 

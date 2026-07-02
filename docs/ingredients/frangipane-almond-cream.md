@@ -16,9 +16,9 @@ tags:
 
 - :glass_of_milk: 6 tablespoons (85 g) unsalted butter, at room temperature
 - :candy: 1/2 cup (99 g) granulated sugar
-- :baby_bottle: 1/4 teaspoon table salt
-- :baby_bottle: 1 cup (96 g) King Arthur Almond Flour
-- :baby_bottle: 3 tablespoons (23 g) King Arthur Unbleached All-Purpose Flour
+- :salt: 1/4 teaspoon table salt
+- :baby_bottle: 1 cup (113 g) King Arthur Almond Flour
+- :bread: 3 tablespoons (29 g) King Arthur Unbleached All-Purpose Flour
 - :baby_bottle: 1 large egg, at room temperature
 - :baby_bottle: 2 teaspoons (11 g) almond emulsion or almond extract
 

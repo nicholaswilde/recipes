@@ -21,14 +21,14 @@ hero: assets/images/garlic-mushrooms.webp
 - :mushroom: 1 lb mushrooms
 - :salt: some salt
 - :salt: some pepper
-- :onion: 1 cup red onion
+- :tea: 1 cup (210 g) red onion
 - :herb: 1 Tbsp thyme
 - :herb: 1 Tbsp rosemary
 - :garlic: 1 Tbsp garlic
-- :lemon: 1 Tbsp lemon juice
-- :wine_glass: 2 oz white wine or white vermouth or vegetable stock
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :stew: 2 oz (28 g) white wine or white vermouth or vegetable stock
 - :herb: 2 Tbsp parsley
-- :lemon: 1 lemon zest
+- :tangerine: 1 lemon zest
 - :butter: 2 Tbsp butter
 
 ## :cooking: Cookware

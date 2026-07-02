@@ -17,8 +17,8 @@ hero: assets/images/buttermilk.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 cup [whole milk][1]
-- :lemon: 1 Tbsp vinegar or lemon juice
+- 1 cup [whole milk][1]
+- :apple: 1 Tbsp vinegar or lemon juice
 
 ## :pencil: Instructions
 

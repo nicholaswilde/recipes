@@ -17,19 +17,19 @@ hero: assets/images/caramelized-onion,-spinach,-and-sweet-potato-tart.webp
 
 - :bread: some all-purpose flour
 - :salt: 0.75 tsp salt
-- :olive: 0.33 cup (65 g) olive oil
-- :droplet: 6 Tbsp water
-- :olive: 4 Tbsp olive oil
-- :onion: 1 large yellow onion
+- :olive: 0.33 cup (66 g) olive oil
+- :droplet: 6 Tbsp (85 g) water
+- :olive: 4 Tbsp (50 g) olive oil
+- :seedling: 1 large yellow onion
 - :salt: 0.5 tsp salt
-- :mushroom: 8 oz button mushrooms
-- :wine_glass: 0.5 cup (115 g) dry white wine
+- :mushroom: 8 oz (78 g) button mushrooms
+- :wine_glass: 0.5 cup (53 g) dry white wine
 - :salt: 0.25 tsp pepper
-- :leafy_green: 12 cups (360 g) spinach
-- :hot_pepper: 0.25 tsp red pepper flakes
-- :cheese_wedge: 0.2 cup (25 g) feta cheese
-- :sweet_potato: 10 oz sweet potatoes
-- :herb: some dill
+- :leafy_green: 12 cups spinach
+- :hot_pepper: 0.25 tsp (1 g) red pepper flakes
+- :cheese_wedge: 0.2 cup (23 g) feta cheese
+- :corn: 10 oz (300 g) sweet potatoes
+- :apple: some dill
 
 ## :cooking: Cookware
 

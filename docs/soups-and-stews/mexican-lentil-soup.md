@@ -18,22 +18,22 @@ hero: assets/images/mexican-lentil-soup.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :carrot: 1 large carrot
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :leafy_green: 3 stalks celery
 - :garlic: 3 cloves garlic
-- :herb: 1 Tbsp cumin
+- :chestnut: 1 Tbsp (9 g) cumin
 - :herb: 1 tsp oregano
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
 - :hot_pepper: 2 chipotle chiles in adobo
-- :curry: 3 cups lentils
-- :potato: 1 large Russet potato
+- :beans: 3 cups (630 g) lentils
+- :sweet_potato: 1 large Russet potato
 - :tomato: 1 15-oz can diced tomatoes
-- :stew: 10 cups [vegetable broth][1]
+- 10 cups [vegetable broth][1]
 - :herb: some cilantro
-- :lemon: some lime wedges
+- :tangerine: some lime wedges
 
 ## :cooking: Cookware
 

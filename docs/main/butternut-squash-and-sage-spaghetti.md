@@ -16,21 +16,21 @@ hero: assets/images/butternut-squash-and-sage-spaghetti.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 1 butternut squash
-- :olive: 1 Tbsp olive oil
+- 1 butternut squash
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 6 cloves garlic
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :herb: 24 sage leaves
 - :spaghetti: 320 g pasta
-- :lemon: 0.5 lemon juice
-- :cheese_wedge: 3 Tbsp Mascarpone cheese
-- :chestnut: some nutmeg
+- :tangerine: 0.5 lemon juice
+- :cheese_wedge: 3 Tbsp (43 g) Mascarpone cheese
+- :apple: some nutmeg
 - :salt: some salt
 - :salt: some pepper
-- :droplet: 3 cups pasta cooking water
+- :droplet: 3 cups (435 g) pasta cooking water
 - :olive: some olive oil
-- :hot_pepper: 0.5 tsp chili flakes
-- :cheese_wedge: 1 cup pecorino cheese
+- :hot_pepper: 0.5 tsp (1 g) chili flakes
+- :cheese_wedge: 1 cup (227 g) pecorino cheese
 
 ## :cooking: Cookware
 

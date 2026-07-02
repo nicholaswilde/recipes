@@ -18,9 +18,9 @@ hero: assets/images/whipped-brie-butter.webp
 
 ## :salt: Ingredients
 
-- :butter: 2 oz unsalted butter
-- :cheese_wedge: 6 oz brie
-- :icecream: 2 Tbsp heavy cream
+- :butter: 2 oz (56 g) unsalted butter
+- 6 oz brie
+- :glass_of_milk: 2 Tbsp (28 g) heavy cream
 - :salt: some flaky sea salt
 - :honey_pot: some honey
 

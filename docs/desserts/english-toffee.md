@@ -18,14 +18,14 @@ hero: assets/images/english-toffee.webp
 
 ## :salt: Ingredients
 
-- :candy: 1.75 cups (346 g) sugar
-- :cow: 1 cup heavy cream
+- :candy: 1.75 cups (273 g) sugar
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :butter: 1 stick unsalted butter
-- :cow: 0.13 tsp cream of tartar
-- :ice_cream: 2 tsp vanilla
-- :tumbler_glass: 1 Tbsp dark rum (alternative)
-- :chocolate_bar: 4 oz bittersweet, semi-sweet, or milk chocolate
-- :chestnut: 0.5 cup almonds
+- :glass_of_milk: 0.13 tsp (1 g) cream of tartar
+- :flower_playing_cards: 2 tsp vanilla
+- :chocolate_bar: 1 Tbsp (11 g) dark rum (alternative)
+- :chestnut: 4 oz (70 g) bittersweet, semi-sweet, or milk chocolate
+- :chestnut: 0.5 cup (43 g) almonds
 
 ## :cooking: Cookware
 

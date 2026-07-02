@@ -21,21 +21,21 @@ hero: assets/images/chickpea-and-spinach-curry.webp
 
 ## :salt: Ingredients
 
-- :olive: 1.5 Tbsp oil
+- :olive: 1.5 Tbsp (19 g) oil
 - :seedling: 1 tsp mustard seeds
-- :onion: 1 brown onion
-- :garlic: 2 garlic cloves
+- :tea: 1 brown onion
+- :chestnut: 2 garlic cloves
 - :tomato: 2 tomatoes
-- :tomato: 2 Tbsp tomato purée
+- :tomato: 2 Tbsp (29 g) tomato purée
 - :salt: 1 tsp salt
-- :chestnut: 1 tsp cumin powder
+- :chestnut: 1 tsp (2 g) cumin powder
 - :curry: 1 tsp turmeric powder
 - :hot_pepper: 1 tsp chilli powder
 - :curry: 1 tsp garam masala
 - :beans: 800 g tinned chickpeas
 - :leafy_green: 150 g spinach leaves
-- :candy: 1 tsp sugar
-- :glass_of_milk: 1 Tbsp double cream (optional)
+- :candy: 1 tsp (3 g) sugar
+- :glass_of_milk: 1 Tbsp (18 g) double cream (optional)
 
 ## :cooking: Cookware
 

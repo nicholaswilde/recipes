@@ -17,11 +17,11 @@ hero: assets/images/fry-bread.webp
 ## :salt: Ingredients
 
 - :bread: 4 cups (480 g) all-purpose flour
-- :salt: 1 tsp (6 g) salt
-- :chestnut: 1.5 Tbsp (18 g) baking powder
-- :droplet: 1.5 cups (340 g) hot water (120°F to 130°F)
+- :salt: 1 tsp salt
+- :chestnut: 1.5 Tbsp baking powder
+- :baby_bottle: 1.5 cups (340 g) hot water (120°F to 130°F)
 - :olive: 2 Tbsp (25 g) vegetable oil
-- :olive: some vegetable oil (for frying)
+- :carrot: some vegetable oil (for frying)
 
 ## :cooking: Cookware
 

@@ -18,19 +18,19 @@ hero: assets/images/classic-margherita-pizza.webp
 ## :salt: Ingredients
 
 - :garlic: 4 cloves garlic
-- :tomato: 1 14.5-oz can tomatoes
-- :olive: 2 Tbsp olive oil
-- :candy: 1 tsp sugar
-- :sake: 1 tsp balsamic vinegar
+- :baby_bottle: 1 14.5-oz can tomatoes
+- :olive: 2 Tbsp (25 g) olive oil
+- :candy: 1 tsp (3 g) sugar
+- :wine_glass: 1 tsp balsamic vinegar
 - :salt: 0.75 tsp salt
 - :salt: 0.13 tsp pepper
-- :tomato: [New York-style pizza sauce][2] (alternative)
-- :pizza: 1 lb [pizza dough][1]
-- :ear_of_rice: some all-purpose flour
-- :corn: some cornmeal
-- :cheese_wedge: 8 oz mozzarella
+- :apple: [New York-style pizza sauce][2] (alternative)
+- 1 lb [pizza dough][1]
+- :bread: some all-purpose flour
+- :ear_of_rice: some cornmeal
+- :cheese_wedge: 8 oz (113 g) mozzarella
 - :herb: 0.25 cup basil
-- :cheese_wedge: 0.25 cup Parmesan
+- :cheese_wedge: 0.25 cup (25 g) Parmesan
 
 ## :cooking: Cookware
 

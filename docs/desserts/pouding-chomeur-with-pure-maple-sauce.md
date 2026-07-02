@@ -16,21 +16,21 @@ hero: assets/images/pouding-chomeur-with-pure-maple-sauce.webp
 
 ## :salt: Ingredients
 
-- :maple_leaf: 2 cups (624 g) maple syrup
-- :maple_leaf: 1.5 cups (320 g) light brown sugar
-- :glass_of_milk: 1.5 cups heavy cream
-- :butter: 0.5 cup (114 g) unsalted butter
-- :icecream: 1 Tbsp vanilla
+- :honey_pot: 2 cups (624 g) maple syrup
+- :candy: 1.5 cups (320 g) light brown sugar
+- :glass_of_milk: 1.5 cups (340 g) heavy cream
+- :butter: 0.5 cup (113 g) unsalted butter
+- :flower_playing_cards: 1 Tbsp vanilla
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) unsalted butter
+- :butter: 0.5 cup (113 g) unsalted butter
 - :candy: 0.75 cup (148 g) granulated sugar
 - :egg: 2 large eggs
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :corn: 0.25 cup (28 g) cornstarch
-- :dash: 2 tsp baking powder
+- :bread: 1.5 cups (180 g) all-purpose flour
+- :chestnut: 0.25 cup (28 g) cornstarch
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup (170 g) [buttermilk](../ingredients/buttermilk.md)
-- :icecream: 1 tsp vanilla
+- :icecream: 0.75 cup [buttermilk](../ingredients/buttermilk.md)
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

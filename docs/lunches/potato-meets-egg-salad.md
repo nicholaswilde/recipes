@@ -17,22 +17,22 @@ hero: assets/images/potato-meets-egg-salad.webp
 
 ## :salt: Ingredients
 
-- :seedling: 1 Tbsp tahini
-- :apple: 1 Tbsp apple cider or coconut vinegar
-- :glass_of_milk: 3 Tbsp plain nondairy milk
-- :hotdog: 0.5 tsp Dijon or prepared mustard
-- :microbe: 0.5 Tbsp nutritional yeast
+- :seedling: 1 Tbsp (16 g) tahini
+- :apple: 1 Tbsp (5 g) apple cider or coconut vinegar
+- :glass_of_milk: 3 Tbsp (21 g) plain nondairy milk
+- :seedling: 0.5 tsp (2 g) Dijon or prepared mustard
+- :cheese_wedge: 0.5 Tbsp (2 g) nutritional yeast
 - :salt: 0.25 tsp black salt
-- :curry: 0.25 tsp turmeric
+- :curry: 0.25 tsp (1 g) turmeric
 - :hot_pepper: 0.13 tsp plain or smoked paprika
 - :salt: 1 pinch sea salt
-- :salt: some black pepper (optional)
-- :maple_leaf: 0.5 tsp pure maple syrup
-- :potato: 1 cup cooked and cooled red or yellow potatoes
-- :bell_pepper: 0.25 cup diced bell pepper
-- :leafy_green: 2 Tbsp celery
-- :herb: 1 Tbsp parsley or chives
-- :herb: 0.5 tsp dry dill (optional)
+- :hot_pepper: some black pepper (optional)
+- :honey_pot: 0.5 tsp (3 g) pure maple syrup
+- :tea: 1 cup (86 g) cooked and cooled red or yellow potatoes
+- :hot_pepper: 0.25 cup (36 g) diced bell pepper
+- :leafy_green: 2 Tbsp (18 g) celery
+- :herb: 1 Tbsp (3 g) parsley or chives
+- :leafy_green: 0.5 tsp (2 g) dry dill (optional)
 
 ## :cooking: Cookware
 

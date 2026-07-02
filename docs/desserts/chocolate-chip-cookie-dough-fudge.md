@@ -18,14 +18,14 @@ hero: assets/images/chocolate-chip-cookie-dough-fudge.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.33 cup (75 g) butter
+- :butter: 0.33 cup butter
 - :maple_leaf: 0.33 cup (70 g) brown sugar
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+- :bread: 0.75 cup (90 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :chocolate_bar: 1.33 cups (226 g) mini semi-sweet chocolate chips
+- :chocolate_bar: 1.33 cups (235 g) mini semi-sweet chocolate chips
 - :candy: 1 lb confectioners' sugar
 - :cheese_wedge: 1 8-oz pkg cream cheese
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

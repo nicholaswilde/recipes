@@ -17,8 +17,8 @@ hero: assets/images/miso-glazed-bok-choy.webp
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 small head bok choy
-- :ramen: 1 [miso glaze][1]
+- 1 small head bok choy
+- 1 [miso glaze][1]
 
 ## :cooking: Cookware
 

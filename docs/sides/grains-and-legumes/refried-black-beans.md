@@ -16,16 +16,16 @@ hero: assets/images/refried-black-beans.webp
 
 ## :salt: Ingredients
 
-- :potato: 400 g [dried black beans][1]
-- :onion: 1 medium onion
+- :burrito: 400 g [dried black beans][1]
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
-- :herb: 1 tsp cumin
-- :hot_pepper: 0.5 tsp chili powder
-- :salt: 0.5 tsp black pepper
-- :herb: 1 tsp dried oregano
-- :stew: 5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :chestnut: 1 tsp (3 g) cumin
+- :hot_pepper: 0.5 tsp (1 g) chili powder
+- :salt: 0.5 tsp (2 g) black pepper
+- :herb: 1 tsp (3 g) dried oregano
+- 5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some salt
-- :lemon: some lime juice
+- :tangerine: some lime juice
 
 ## :cooking: Cookware
 

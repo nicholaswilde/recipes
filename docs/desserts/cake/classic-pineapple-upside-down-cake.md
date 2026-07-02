@@ -17,16 +17,16 @@ hero: assets/images/classic-pineapple-upside-down-cake.webp
 ## :salt: Ingredients
 
 - :bread: 2 cups (240 g) cake flour
-- :candy: 1.25 cups (248 g) sugar
-- :chestnut: 5 tsp (20 g) baking powder
-- :salt: 1 tsp (5 g) salt
-- :egg: 8 egg yolks
+- :candy: 1.25 cups (195 g) sugar
+- :chestnut: 5 tsp baking powder
+- :salt: 1 tsp salt
+- :baby_bottle: 8 egg yolks
 - :glass_of_milk: 1.5 cups (340 g) milk
-- :flower_playing_cards: 1 Tbsp (14 g) vanilla extract
-- :butter: 2 sticks (226 g) unsalted butter
-- :butter: 2 sticks (226 g) unsalted butter
-- :candy: 2 cups (426 g) brown sugar
-- :pineapple: 1 fresh pineapple (cored and sliced, or 12 canned slices)
+- :flower_playing_cards: 1 Tbsp vanilla extract
+- :butter: 2 sticks unsalted butter
+- :butter: 2 sticks unsalted butter
+- :maple_leaf: 2 cups (426 g) brown sugar
+- :apple: 1 fresh pineapple (cored and sliced, or 12 canned slices)
 
 ## :cooking: Cookware
 

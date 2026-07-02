@@ -17,10 +17,10 @@ hero: assets/images/citrus-honey-dressing.webp
 
 ## :salt: Ingredients
 
-- :lemon: 1 lemon
-- :orange_circle: 1 orange
+- :tangerine: 1 lemon
+- :tangerine: 1 orange
 - :honey_pot: 4 Tbsp honey
-- :leafy_green: 3 mint leaves (optional)
+- :herb: 3 mint leaves (optional)
 
 ## :cooking: Cookware
 

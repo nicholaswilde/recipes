@@ -18,12 +18,12 @@ hero: assets/images/angel-food-cake.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 120 g cake flour
+- :bread: 120 g cake flour
 - :candy: 298 g granulated sugar
 - :egg: 12 large egg whites
 - :salt: 0.5 tsp salt
-- :icecream: 1 tsp vanilla
-- :rice: 1.5 tsp cream of tartar
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 1.5 tsp (9 g) cream of tartar
 
 ## :cooking: Cookware
 

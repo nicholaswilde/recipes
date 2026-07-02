@@ -18,16 +18,16 @@ hero: assets/images/cherry-almond-skyr-cake.webp
 
 ## :salt: Ingredients
 
-- :cherries: 2 4.4-oz pkgs Icelandic Provisions Fruit & Nut Cherry & Almonds Skyr
+- :ramen: 2 4.4-oz pkgs Icelandic Provisions Fruit & Nut Cherry & Almonds Skyr
 - :candy: 150 g granulated sugar
-- :oil_drum: 64 g grapeseed oil
+- :olive: 64 g grapeseed oil
 - :egg: 3 eggs
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 tsp salt
-- :ear_of_rice: 250 g all-purpose flour
-- :cup_with_straw: 0.5 tsp baking soda
-- :cherries: 20 amarena cherries or fresh pitted black cherries
-- :chestnut: 0.5 cup sliced almonds
+- :bread: 250 g all-purpose flour
+- :chestnut: 0.5 tsp baking soda
+- :apple: 20 amarena cherries or fresh pitted black cherries
+- :chestnut: 0.5 cup (43 g) sliced almonds
 
 ## :cooking: Cookware
 

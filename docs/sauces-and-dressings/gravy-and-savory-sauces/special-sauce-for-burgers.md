@@ -16,16 +16,16 @@ hero: assets/images/special-sauce-for-burgers.webp
 
 ## :salt: Ingredients
 
-- :egg: 0.5 cup [mayonnaise][1]
-- :tomato: 0.5 cup ketchup
-- :hotdog: 0.25 cup yellow mustard
-- :cucumber: 2 Tbsps sweet pickle relish
-- :salt: 0.5 tsp white pepper
+- 0.5 cup [mayonnaise][1]
+- 0.5 cup ketchup
+- :seedling: 0.25 cup (39 g) yellow mustard
+- :tea: 2 Tbsps sweet pickle relish
+- :salt: 0.5 tsp (1 g) white pepper
 - :garlic: 0.25 tsp garlic powder
 - :hot_pepper: 0.5 tsp Hungarian paprika
-- :herb: 0.5 tsp coriander
-- :sake: 1 tsp apple cider vinegar
-- :sake: 0.5 tsp Worcestershire sauce
+- :chestnut: 0.5 tsp (1 g) coriander
+- :apple: 1 tsp (6 g) apple cider vinegar
+- :apple: 0.5 tsp (2 g) Worcestershire sauce
 
 ## :cooking: Cookware
 

@@ -17,11 +17,11 @@ hero: assets/images/healthy-peanut-butter-bars.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups (148 g) rolled oats
-- :chestnut: 1 cup (135 g) peanut butter
-- :honey_pot: 3 Tbsp (63 g) honey
-- :butter: 3 Tbsp (42 g) butter
-- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :ear_of_rice: 1.5 cups (170 g) rolled oats
+- :chestnut: 1 cup (270 g) peanut butter
+- :honey_pot: 3 Tbsp honey
+- :butter: 3 Tbsp butter
+- :flower_playing_cards: 1 tsp vanilla extract
 - :salt: 1 generous pinch sea salt
 - :chocolate_bar: 1 cup (177 g) dark chocolate chips
 - :salt: some sea salt

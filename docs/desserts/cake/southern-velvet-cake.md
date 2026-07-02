@@ -17,20 +17,20 @@ hero: assets/images/southern-velvet-cake.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 1 tsp baking powder
-- :chocolate_bar: 2 Tbsp unsweetened cocoa powder
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 1 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :chocolate_bar: 2 Tbsp (10 g) unsweetened cocoa powder
 - :salt: 1 tsp salt
 - :candy: 2 cups (396 g) granulated sugar
-- :oil_drum: 1 cup (198 g) vegetable oil
+- :olive: 1 cup (198 g) vegetable oil
 - :egg: 2 eggs
-- :glass_of_milk: 1 cup (227 g) [buttermilk](../../ingredients/buttermilk.md)
-- :icecream: 2 tsp vanilla
-- :red_circle: 2 oz red food coloring
-- :coffee: 0.5 cup plain hot coffee
-- :sake: 1 tsp white vinegar
-- :cake: 1 [cream cheese frosting][1]
+- :icecream: 1 cup [buttermilk](../../ingredients/buttermilk.md)
+- :flower_playing_cards: 2 tsp vanilla
+- :art: 2 oz (52 g) red food coloring
+- :coffee: 0.5 cup (42 g) plain hot coffee
+- :takeout_box: 1 tsp (2 g) white vinegar
+- :cheese_wedge: 1 [cream cheese frosting][1]
 
 ## :cooking: Cookware
 

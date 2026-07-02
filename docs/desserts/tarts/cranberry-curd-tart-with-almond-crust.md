@@ -19,23 +19,23 @@ hero: assets/images/cranberry-curd-tart-with-almond-crust.webp
 
 === "Filling"
 
-    - :cherries: 1 lb cranberries
+    - :apple: 1 lb cranberries
     - :candy: 1.25 cups (248 g) granulated sugar
     - :droplet: 0.5 cup (114 g) water
     - :salt: 1 pinch salt
     - :egg: 3 large egg yolks
-    - :corn: 2 tsp cornstarch
-    - :butter: 4 Tbsp softened butter
+    - :chestnut: 2 tsp (5 g) cornstarch
+    - :baby_bottle: 4 Tbsp (56 g) softened butter
 
 === "Crust"
 
-    - :chestnut: 4 oz [almond flour][2]
-    - :corn: 2 oz cornstarch
-    - :candy: 2.33 oz granulated sugar
+    - 4 oz [almond flour][2]
+    - :chestnut: 2 oz (28 g) cornstarch
+    - :candy: 2.33 oz (58 g) granulated sugar
     - :salt: 0.5 tsp salt
-    - :butter: 6 Tbsp melted butter
-    - :chestnut: 0.75 tsp almond extract
-    - :glass_of_milk: 1 cup heavy cream
+    - :glass_of_milk: 6 Tbsp (102 g) melted butter
+    - :flower_playing_cards: 0.75 tsp (4 g) almond extract
+    - :glass_of_milk: 1 cup (227 g) heavy cream
 
 ## :cooking: Cookware
 

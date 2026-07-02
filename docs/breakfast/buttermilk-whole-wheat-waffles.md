@@ -17,21 +17,21 @@ hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-whole-wheat-waffl
 ## :salt: Ingredients
 
 - :strawberry: some strawberries
-- :strawberry: some raspberries
-- :black_circle: some blackberries
-- :blue_circle: some blueberries
-- :lemon: 1 lemon
+- :apple: some raspberries
+- :apple: some blackberries
+- :apple: some blueberries
+- :tangerine: 1 lemon
 - :candy: some sugar
-- :ear_of_rice: 0.5 cup whole wheat flour
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-- :corn: 1 Tbsp cornmeal
+- :bread: 0.5 cup (56 g) whole wheat flour
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :ear_of_rice: 1 Tbsp (9 g) cornmeal
 - :salt: 0.25 tsp salt
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 tsp baking soda
 - :egg: 1 egg
-- :glass_of_milk: 1 cup (227 g) [buttermilk][1]
+- 1 cup [buttermilk][1]
 - :butter: 2.5 Tbsp butter
 - :glass_of_milk: some milk
-- :maple_leaf: some maple syrup
+- :honey_pot: some maple syrup
 
 ## :cooking: Cookware
 

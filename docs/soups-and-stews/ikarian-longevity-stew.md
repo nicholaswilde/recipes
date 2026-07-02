@@ -16,30 +16,30 @@ hero: assets/images/ikarian-longevity-stew.webp
 === "serves 4"
 
     - :herb: 2 bay leaves
-    - :canned_food: 8 oz black-eyed peas
-    - :seedling: 1 bunch chopped dill
-    - :garlic: 1 fennel bulb
+    - :beans: 8 oz (175 g) black-eyed peas
+    - :cucumber: 1 bunch chopped dill
+    - 1 fennel bulb
     - :garlic: 4 garlic
-    - :olive: 0.5 cups olive oil
-    - :onion: 1 large red onion
+    - :olive: 0.5 cups (100 g) olive oil
+    - :tea: 1 large red onion
     - :salt: salt
     - :tomato: 1 large tomato
-    - :tomato: 2 tsp [Tomato Paste](../ingredients/tomato-paste.md)
-    - :stew: some water or [Vegetable Broth](../ingredients/vegetable-broth.md)
+    - 2 tsp [Tomato Paste](../ingredients/tomato-paste.md)
+    - :baby_bottle: some water or [Vegetable Broth](../ingredients/vegetable-broth.md)
 
 === "serves 8"
 
     - :herb: 4 bay leaves
-    - :canned_food: 16 oz black-eyed peas
-    - :seedling: 2 bunches chopped dill
-    - :garlic: 2 fennel bulbs
-    - :garlic: 8 garlic cloves
-    - :olive: 1 cup olive oil
-    - :onion: 2 large red onions
+    - :beans: 16 oz (350 g) black-eyed peas
+    - :cucumber: 2 bunches chopped dill
+    - 2 fennel bulbs
+    - :chestnut: 8 garlic cloves
+    - :olive: 1 cup (200 g) olive oil
+    - :tea: 2 large red onions
     - :salt: salt
     - :tomato: 2 large tomatoes
-    - :tomato: 4 tsp [Tomato Paste](../ingredients/tomato-paste.md)
-    - :stew: 6 cups water or [Vegetable Broth](../ingredients/vegetable-broth.md)
+    - 4 tsp [Tomato Paste](../ingredients/tomato-paste.md)
+    - :baby_bottle: 6 cups (1362 g) water or [Vegetable Broth](../ingredients/vegetable-broth.md)
 
 ## :pencil: Instructions
 

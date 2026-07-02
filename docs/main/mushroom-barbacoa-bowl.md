@@ -16,17 +16,17 @@ hero: assets/images/mushroom-barbacoa-bowl.webp
 ## :salt: Ingredients
 
 - :garlic: 4 cloves garlic
-- :onion: 1 medium yellow onion
-- :tangerine: 3 Tbsp lime juice
-- :hot_pepper: 3 chipotle peppers (optional)
-- :chestnut: 1 Tbsp cumin
+- :seedling: 1 medium yellow onion
+- :tangerine: 3 Tbsp (43 g) lime juice
+- :leafy_green: 3 chipotle peppers (optional)
+- :chestnut: 1 Tbsp (9 g) cumin
 - :herb: 1 tsp oregano
 - :chestnut: 1 pinch cloves
 - :mushroom: 2 lbs portobello mushrooms
 - :salt: some salt
 - :salt: some pepper
-- :ear_of_rice: 2 cups (340 g) cooked [brown rice][2]
-- :carrot: 2 cups (285 g) steamed vegetables
+- :apple: 2 cups (510 g) cooked [brown rice][2]
+- :carrot: 2 cups steamed vegetables
 - :hot_pepper: 1 [Roasted Red Pepper Sauce][3]
 
 ## :cooking: Cookware

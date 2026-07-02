@@ -18,12 +18,12 @@ hero: assets/images/roasted-sweet-garlic-&-almond-soup.webp
 ## :salt: Ingredients
 
 - :garlic: 3 bulbs garlic
-- :onion: 1 white onion
+- :tea: 1 white onion
 - :olive: some olive oil
-- :glass_of_milk: 9 oz half-and-half
-- :stew: 1 qt [vegetable broth][1]
+- :takeout_box: 9 oz (255 g) half-and-half
+- 1 qt [vegetable broth][1]
 - :bread: 1 loaf ciabatta
-- :wine_glass: 2 Tbsp white wine vinegar
+- :wine_glass: 2 Tbsp (18 g) white wine vinegar
 - :chestnut: 150 g almonds
 - :herb: some cilantro
 - :salt: some salt

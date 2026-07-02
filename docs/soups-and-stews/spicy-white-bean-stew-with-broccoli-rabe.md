@@ -24,7 +24,7 @@ tags:
 - :hot_pepper: some Red-pepper flakes (optional)
 - :glass_of_milk: 3 (15-ounce) cans large white beans, such as cannellini, butter or great Northern, drained and rinsed
 - :stew: 4 cups (736 g) vegetable or chicken broth
-- :apple: 1 preserved lemon, thinly sliced, or 1 lemon, halved, for squeezing
+- :tea: 1 preserved lemon, thinly sliced, or 1 lemon, halved, for squeezing
 - :cheese_wedge: 2 ounces (28 g) feta or other salty cheese, such as queso fresco or pecorino, crumbled
 - :apple: 1 cup (42 g) parsley or cilantro, leaves and tender stems
 - :apple: some Fried or medium-boiled eggs, for serving (optional)

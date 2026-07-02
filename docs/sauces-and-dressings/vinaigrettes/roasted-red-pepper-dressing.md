@@ -17,18 +17,18 @@ hero: assets/images/roasted-red-pepper-dressing.webp
 
 ## :salt: Ingredients
 
-- :bell_pepper: 2 large roasted red bell peppers
-- :sake: 3 Tbsp apple cider vinegar (or red wine vinegar or balsamic)
-- :droplet: 1 Tbsp water
-- :maple_leaf: 1 Tbsp maple syrup
-- :ramen: 2 tsp white miso
+- :hot_pepper: 2 large roasted red bell peppers
+- :apple: 3 Tbsp (52 g) apple cider vinegar (or red wine vinegar or balsamic)
+- :droplet: 1 Tbsp (14 g) water
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :takeout_box: 2 tsp (12 g) white miso
 - :garlic: 0.5 tsp garlic powder
-- :herb: 0.5 tsp [Italian seasoning][3]
-- :onion: 1 small shallot (optional)
-- :seedling: 1 Tbsp [tahini (optional)][2]
-- :hotdog: 1 tsp Dijon mustard (optional)
-- :lemon: some lemon juice (optional)
-- :salt: some black pepper (optional)
+- 0.5 tsp [Italian seasoning][3]
+- :leafy_green: 1 small shallot (optional)
+- :apple: 1 Tbsp [tahini (optional)][2]
+- :seedling: 1 tsp Dijon mustard (optional)
+- :apple: some lemon juice (optional)
+- :hot_pepper: some black pepper (optional)
 
 ## :cooking: Cookware
 

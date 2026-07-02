@@ -16,15 +16,15 @@ hero: assets/images/pretzel-buns.jpg
 
 ## :salt: Ingredients
 
-- :bread: 4.5 cups (540 g) King Arthur Unbleached Bread Flour
+- :bread: 4.5 cups (508 g) King Arthur Unbleached Bread Flour
 - :glass_of_milk: 0.25 cup (28 g) King Arthur Baker's Special Dry Milk or nonfat dry milk
 - :droplet: 1.75 cups (397 g) water
 - :butter: 2 Tbsp (28 g) unsalted butter
-- :tea: 2 tsp instant yeast
+- :tea: 2 tsp (6 g) instant yeast
 - :salt: 0.75 tsp table salt
-- :droplet: 2 quarts (1814 g) water
-- :salt: 1 Tbsp (18 g) table salt
-- :chestnut: 0.25 cup (57 g) baking soda
+- :droplet: 2 quarts water
+- :salt: 1 Tbsp table salt
+- :chestnut: 0.25 cup baking soda
 - :salt: some Pretzel salt or coarse salt
 
 ## :cooking: Cookware

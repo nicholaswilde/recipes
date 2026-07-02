@@ -18,16 +18,16 @@ hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.webp
 ## :salt: Ingredients
 
 - :leafy_green: 1.5 lbs Brussels sprouts
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.75 tsp salt
 - :salt: 0.5 tsp pepper
-- :onion: 1 small shallots
-- :sake: 0.5 cup Balsamic Vinegar
-- :grapes: 0.5 cup fresh cranberries
+- :garlic: 1 small shallots
+- :wine_glass: 0.5 cup Balsamic Vinegar
+- :apple: 0.5 cup (50 g) fresh cranberries
 - :honey_pot: 1 Tbsp honey
 - :herb: 0.5 tsp thyme
-- :stew: 0.25 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :hotdog: 1 Tbsp Dijon mustard
+- 0.25 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :seedling: 1 Tbsp Dijon mustard
 
 ## :cooking: Cookware
 

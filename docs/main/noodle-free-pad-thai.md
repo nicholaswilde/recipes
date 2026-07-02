@@ -18,25 +18,25 @@ hero: assets/images/noodle-free-pad-thai.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup (1 TJ's block) extra firm tofu
-- :sake: 1 Tbsp coconut aminos
-- :hot_pepper: 0.13 tsp red pepper flakes
-- :curry: 0.25 tsp turmeric
+- :cheese_wedge: 0.5 cup (1 TJ's block) extra firm tofu
+- :takeout_box: 1 Tbsp (8 g) coconut aminos
+- :hot_pepper: 0.13 tsp (1 g) red pepper flakes
+- :curry: 0.25 tsp (1 g) turmeric
 - :carrot: 5 carrots
-- :bell_pepper: 1 medium red peppers
-- :herb: 3 green onions
-- :peanuts: 2.5 Tbsp [peanut butter][1]
-- :lemon: 3 Tbsp lime juice
-- :hot_pepper: 0.5 tsp red pepper flakes
-- :maple_leaf: 1.5 Tbsp maple syrup
-- :sake: 2 Tbsp coconut aminos
-- :oil_drum: 1 Tbsp sesame oil
+- :hot_pepper: 1 medium red peppers
+- :tea: 3 green onions
+- 2.5 Tbsp [peanut butter][1]
+- :tangerine: 3 Tbsp (43 g) lime juice
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
+- :honey_pot: 1.5 Tbsp (29 g) maple syrup
+- :takeout_box: 2 Tbsp (16 g) coconut aminos
+- :olive: 1 Tbsp (14 g) sesame oil
 - :hot_pepper: 1 jalapeño
-- :leafy_green: 1.5 cups shredded cabbage
-- :sake: 1 Tbsp coconut aminos
-- :sake: 1 Tbsp coconut aminos
-- :sweet_potato: 0.5 tsp fresh ginger
-- :curry: 0.5 tsp turmeric
+- :coconut: 1.5 cups (182 g) shredded cabbage
+- :takeout_box: 1 Tbsp (8 g) coconut aminos
+- :takeout_box: 1 Tbsp (8 g) coconut aminos
+- :sweet_potato: 0.5 tsp (2 g) fresh ginger
+- :curry: 0.5 tsp (2 g) turmeric
 - :herb: some cilantro
 
 ## :cooking: Cookware

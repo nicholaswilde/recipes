@@ -18,17 +18,17 @@ hero: assets/images/banana-cream-pie.webp
 
 ## :salt: Ingredients
 
-- :icecream: 4 cups heavy cream
-- :glass_of_milk: 1.5 cups whole milk
+- :glass_of_milk: 4 cups (908 g) heavy cream
+- :glass_of_milk: 1.5 cups (340 g) whole milk
 - :candy: 1.5 cups (297 g) granulated sugar
-- :icecream: 1 vanilla bean
+- :hamburger: 1 vanilla bean
 - :egg: 3 large egg yolks
 - :egg: 2 large eggs
-- :corn: 0.5 cup (56 g) cornstarch
-- :rice_cracker: 1 graham cracker crust
+- :chestnut: 0.5 cup (56 g) cornstarch
+- :bread: 1 graham cracker crust
 - :banana: 3 lbs (6 to 7) banana
-- :candy: 2 tsp granulated sugar
-- :icecream: 0.5 tsp vanilla
+- :candy: 2 tsp (8 g) granulated sugar
+- :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

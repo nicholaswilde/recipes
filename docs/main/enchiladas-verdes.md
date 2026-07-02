@@ -17,20 +17,20 @@ hero: assets/images/enchiladas-verdes.webp
 
 ## :salt: Ingredients
 
-- :potato: 1 lb Russet potatoes
-- :olive: 1 Tbsp olive oil
-- :onion: 1 onion
+- :sweet_potato: 1 lb Russet potatoes
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 onion
 - :garlic: 2 cloves garlic
 - :salt: some salt
-- :green_circle: 0.5 cup peas
+- :beans: 0.5 cup (75 g) peas
 - :hot_pepper: 0.25 jalapeño
 - :hot_pepper: 0.125 tsp chili powder
-- :tomato: 2 cups [salsa verde][3]
-- :flatbread: 8 [corn tortilla][2]
-- :jack_o_lantern: 0.5 cup pumpkin seeds
-- :herb: 0.25 cup cilantro
+- 2 cups [salsa verde][3]
+- 8 [corn tortilla][2]
+- :seedling: 0.5 cup (80 g) pumpkin seeds
+- :herb: 0.25 cup (10 g) cilantro
 - :avocado: 1 avocado
-- :canned_food: 2 cups [black beans][4]
+- 2 cups [black beans][4]
 
 ## :cooking: Cookware
 

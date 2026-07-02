@@ -20,14 +20,14 @@ hero: assets/images/royal-icing.png
 === "Fresh Egg Whites"
 
     - :egg: 1 large egg white
-    - :candy: 0.33 cup (65 g) confectioners' sugar
-    - :candy: 0.67 cup (133 g) confectioners' sugar
+    - :candy: 0.33 cup (37 g) confectioners' sugar
+    - :candy: 0.67 cup (76 g) confectioners' sugar
 
 === "Powdered Egg Whites"
 
-    - :candy: 1.33 cups (263 g) confectioners' sugar
+    - :candy: 1.33 cups (150 g) confectioners' sugar
     - :egg: 1 Tbsp powdered egg whites
-    - :droplet: 2 Tbsp water
+    - :droplet: 2 Tbsp (28 g) water
 
 ## :cooking: Cookware
 

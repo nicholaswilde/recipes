@@ -16,23 +16,23 @@ hero: assets/images/butternut-squash-pasta-with-walnuts-and-sage.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 2 cups butternut squash
-- :olive: 1 Tbsp olive oil
+- 2 cups butternut squash
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: some salt
 - :salt: some pepper
-- :spaghetti: 6 oz spaghetti or linguine pasta
+- :bread: 6 oz (109 g) spaghetti or linguine pasta
 - :butter: 1 Tbsp butter
 - :garlic: 1 small shallot
 - :herb: 0.25 cup sage
-- :chestnut: 0.25 cup walnuts
-- :curry: 0.5 cup chickpeas
+- :chestnut: 0.25 cup (32 g) walnuts
+- :beans: 0.5 cup chickpeas
 - :garlic: 2 cloves garlic
 - :salt: some salt
 - :salt: some pepper
-- :lemon: 1 lemon
-- :sake: 1 splash balsamic vinegar
+- :tangerine: 1 lemon
+- :wine_glass: 1 splash balsamic vinegar
 - :leafy_green: some spinach
-- :cheese_wedge: some pecorino (optional)
+- :leafy_green: some pecorino (optional)
 - :herb: 0.5 cup parsley
 
 ## :cooking: Cookware

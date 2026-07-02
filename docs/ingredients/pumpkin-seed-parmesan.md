@@ -17,11 +17,11 @@ hero: assets/images/pumpkin-seed-parmesan.webp
 
 ## :salt: Ingredients
 
-- :jack_o_lantern: 0.5 cup pumpkin seeds
-- :seedling: 0.5 cup sesame seeds
+- :seedling: 0.5 cup (80 g) pumpkin seeds
+- :seedling: 0.5 cup (71 g) sesame seeds
 - :salt: 1 tsp salt
 - :garlic: 0.5 tsp minced garlic
-- :hot_pepper: 0.5 tsp chili powder
+- :hot_pepper: 0.5 tsp (1 g) chili powder
 
 ## :cooking: Cookware
 

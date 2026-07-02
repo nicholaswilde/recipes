@@ -17,8 +17,8 @@ hero: assets/images/blueberry-syrup-for-pancakes.webp
 
 ## :salt: Ingredients
 
-- :maple_leaf: 0.5 cup maple syrup
-- :blue_circle: 1.5 cup blueberries
+- :honey_pot: 0.5 cup (156 g) maple syrup
+- :apple: 1.5 cup (234 g) blueberries
 
 ## :pencil: Instructions
 

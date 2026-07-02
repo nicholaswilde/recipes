@@ -20,15 +20,15 @@ hero: assets/images/traditional-italian-biscotti.webp
 ## :salt: Ingredients
 
 - :butter: 56 g unsalted butter
-- :carrot: 46 g vegetable shortening
+- :butter: 46 g vegetable shortening
 - :candy: 147 g granulated sugar
 - :egg: 3 large eggs
-- :icecream: 1 tsp vanilla
-- :star: 1 Tbsp aniseed
-- :lemon: 1 tsp lemon extract
-- :dash: 1 tsp baking powder
+- :flower_playing_cards: 1 tsp vanilla
+- 1 Tbsp aniseed
+- :flower_playing_cards: 1 tsp (4 g) lemon extract
+- :chestnut: 1 tsp baking powder
 - :salt: 0.75 tsp salt
-- :ear_of_rice: 360 g all-purpose flour
+- :bread: 360 g all-purpose flour
 - :chestnut: 168 g almonds or hazelnuts
 
 ## :cooking: Cookware

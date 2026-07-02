@@ -18,13 +18,13 @@ hero: assets/images/world's-best-brownies.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 245 g dark chocolate
+- :chestnut: 245 g dark chocolate
 - :butter: 200 g butter
 - :candy: 175 g granulated sugar
-- :maple_leaf: 125 g [light brown sugar][1]
+- :candy: 125 g [light brown sugar][1]
 - :egg: 4 large eggs
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 115 g all-purpose flour
+- :flower_playing_cards: 2 tsp vanilla
+- :bread: 115 g all-purpose flour
 - :salt: 1 pinch salt
 - :chocolate_bar: 100 g dark chocolate chunks (optional)
 

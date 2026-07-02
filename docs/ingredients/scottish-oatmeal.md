@@ -17,7 +17,7 @@ hero: assets/images/scottish-oatmeal.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 5 oz steel-cut oats
+- :ear_of_rice: 5 oz (88 g) steel-cut oats
 
 ## :cooking: Cookware
 

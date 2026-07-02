@@ -16,7 +16,7 @@ hero: assets/images/almond-flour.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 1 lb [blanched almonds][1]
+- 1 lb [blanched almonds][1]
 
 ## :cooking: Cookware
 

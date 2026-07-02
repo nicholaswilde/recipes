@@ -19,7 +19,7 @@ hero: assets/images/honey-mustard-dipping-sauce.webp
 ## :salt: Ingredients
 
 - :honey_pot: 6 Tbsp honey
-- :hotdog: 0.25 cup [Dijon mustard][1]
+- 0.25 cup [Dijon mustard][1]
 - :hot_pepper: some ground red pepper
 
 ## :cooking: Cookware

@@ -19,7 +19,7 @@ hero: assets/images/eggplant-parmigiana.webp
 === "Sauce"
 
     - :tomato: 1 28-oz can plum tomatoes and their juices
-    - :olive: 3 Tbsp olive oil
+    - :olive: 3 Tbsp (38 g) olive oil
     - :garlic: 6 cloves garlic
     - :salt: some salt
     - :salt: some pepper
@@ -27,14 +27,14 @@ hero: assets/images/eggplant-parmigiana.webp
 === "Eggplant"
 
     - :egg: 3 large eggs
-    - :droplet: 1 Tbsp water
+    - :droplet: 1 Tbsp (14 g) water
     - :salt: 1 pinch salt
-    - :bread: 1.25 cups dried plain fine bread crumbs
-    - :herb: 1 Tbsp [Italian seasoning][1]
+    - :bread: 1.25 cups (140 g) dried plain fine bread crumbs
+    - 1 Tbsp [Italian seasoning][1]
     - :salt: 0.5 tsp salt
-    - :carrot: 0.5 cup vegetable oil
+    - :olive: 0.5 cup (99 g) vegetable oil
     - :eggplant: 3 medium eggplant
-    - :cheese_wedge: 10.5 oz mozzarella
+    - :cheese_wedge: 10.5 oz (148 g) mozzarella
     - :cheese_wedge: 3 Tbsp Pecorino
 
 ## :cooking: Cookware

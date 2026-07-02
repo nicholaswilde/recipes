@@ -16,9 +16,9 @@ hero: assets/images/banana-chips.webp
 
 ## :salt: Ingredients
 
-- :banana: 1 medium banana
-- :lemon: 1 tsp lemon juice
-- :custard: 0.13 tsp cinnamon
+- :apple: 1 medium banana
+- :tangerine: 1 tsp (5 g) lemon juice
+- :chestnut: 0.13 tsp (1 g) cinnamon
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

@@ -18,14 +18,14 @@ hero: assets/images/peanut-butter-frosting.webp
 
 ## :salt: Ingredients
 
-- :peanuts: 0.5 cup (68 g) [smooth peanut butter][1]
-- :bagel: 3 oz cold cream cheese
-- :butter: 1.5 Tbsp unsalted butter, softened
-- :icecream: 1 tsp vanilla
-- :glass_of_milk: 3 Tbsp cream or milk
-- :tumbler_glass: 2 Tbsp bourbon or rum (optional)
-- :candy: 2.66 cups (527 g) confectioners' sugar, sifted
-- :tumbler_glass: 2 Tbsp cream, milk, or liquor or as needed
+- :peanut: 0.5 cup (135 g) [smooth peanut butter][1]
+- :cheese_wedge: 3 oz (85 g) cold cream cheese
+- :baby_bottle: 1.5 Tbsp (21 g) unsalted butter, softened
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 3 Tbsp (43 g) cream or milk
+- :apple: 2 Tbsp bourbon or rum (optional)
+- :baby_bottle: 2.66 cups (301 g) confectioners' sugar, sifted
+- :baby_bottle: 2 Tbsp (14 g) cream, milk, or liquor or as needed
 
 ## :cooking: Cookware
 

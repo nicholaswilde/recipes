@@ -18,11 +18,11 @@ hero: assets/images/persian-chickpea-cookies-with-pistachio.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.5 cup (99 g) vegetable oil
+- :olive: 0.5 cup (99 g) vegetable oil
 - :candy: 0.75 cup (85 g) confectioners' sugar
-- :herb: 1 tsp ground cardamom
-- :rose: 0.5 Tbsp rose water
-- :ear_of_rice: 149 g [chickpea flour][2]
+- :apple: 1 tsp (3 g) ground cardamom
+- :droplet: 0.5 Tbsp (7 g) rose water
+- 149 g [chickpea flour][2]
 - :chestnut: 3 Tbsp pistachios
 
 ## :cooking: Cookware

@@ -18,17 +18,17 @@ hero: assets/images/carrot-cake.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :candy: 2 cups (396 g) sugar
-- :cup_with_straw: 2 tsp baking soda
+- :bread: 2 cups (240 g) all-purpose flour
+- :candy: 2 cups (312 g) sugar
+- :chestnut: 2 tsp baking soda
 - :salt: 1 tsp salt
-- :custard: 1 tsp cinnamon
-- :oil_drum: 1.5 cups (297 g) vegetable oil
+- :chestnut: 1 tsp (4 g) cinnamon
+- :olive: 1.5 cups (297 g) vegetable oil
 - :egg: 4 eggs
-- :carrot: 3 cups grated carrots
+- :carrot: 3 cups (297 g) grated carrots
 - :pineapple: 1 can crushed pineapple
-- :chestnut: 1 cup chopped walnuts
-- :cake: 1 [cream cheese frosting][1]
+- :chestnut: 1 cup (128 g) chopped walnuts
+- :cheese_wedge: 1 [cream cheese frosting][1]
 
 ## :cooking: Cookware
 

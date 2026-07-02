@@ -19,15 +19,15 @@ hero: assets/images/spaghetti-all'assassina.webp
 ## :salt: Ingredients
 
 - :droplet: 6 cups (1362 g) water
-- :tomato: 0.25 cup (58 g) [tomato paste][1]
-- :candy: 1 tsp sugar
+- 0.25 cup [tomato paste][1]
+- :candy: 1 tsp (3 g) sugar
 - :olive: 0.33 cup (66 g) olive oil
 - :garlic: 2 cloves garlic
-- :hot_pepper: 0.5 tsp red pepper flakes
-- :tomato: 1 cup tomato passata
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
+- :apple: 1 cup (232 g) tomato passata
 - :salt: 1.75 tsp salt
-- :spaghetti: 12 oz spaghetti
-- :olive: 2 Tbsp olive oil
+- :bread: 12 oz spaghetti
+- :olive: 2 Tbsp (25 g) olive oil
 
 ## :cooking: Cookware
 

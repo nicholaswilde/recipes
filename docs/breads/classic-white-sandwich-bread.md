@@ -18,12 +18,12 @@ hero: assets/images/classic-white-sandwich-bread.webp
 
 ## :salt: Ingredients
 
-- :droplet: 1 1/4 to 1 1/2 cups (284 g to 340 g) lukewarm water
-- :honey_pot: 1 heaping Tbsp (32 g) honey
+- :baby_bottle: 1 1/4 to 1 1/2 cups (284 g to 340 g) lukewarm water
+- :honey_pot: 1 heaping Tbsp honey
 - :tea: 2 1/4 tsp instant yeast
-- :salt: 1 3/4 tsp (11 g) table salt
-- :butter: 2 Tbsp (28 g) butter, softened
-- :bread: 4 cups (480 g) King Arthur Unbleached All-Purpose Flour
+- :baby_bottle: 1 3/4 tsp table salt
+- :baby_bottle: 2 Tbsp (28 g) butter, softened
+- :bread: 4 cups (624 g) King Arthur Unbleached All-Purpose Flour
 - :glass_of_milk: 1/3 cup (37 g) nonfat dry milk (or King Arthur Baker's Special Dry Milk)
 
 ## :cooking: Cookware

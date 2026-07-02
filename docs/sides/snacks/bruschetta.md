@@ -19,16 +19,16 @@ hero: assets/images/bruschetta.webp
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1.5 cups (270 g) chopped roma tomatoes
-- :onion: 2 tbsp diced red onion
+- :tomato: 1.5 cups (270 g) chopped roma tomatoes
+- :tea: 2 tbsp (18 g) diced red onion
 - :garlic: 4 large cloves garlic
-- :herb: 2 tbsp chopped fresh basil
-- :olive: 0.5 tbsp olive oil
-- :grapes: 0.5 tsp red wine vinegar
+- :herb: 2 tbsp (5 g) chopped fresh basil
+- :olive: 0.5 tbsp (6 g) olive oil
+- :wine_glass: 0.5 tsp (2 g) red wine vinegar
 - :salt: 0.25 tsp salt
 - :salt: 1 dash ground black pepper
 - :bread: 0.5 loaf french baguette or crusty italian bread
-- :olive: 1.5 tbsp olive oil
+- :olive: 1.5 tbsp (19 g) olive oil
 - :salt: 0.25 tsp garlic salt
 - :herb: 2 sprigs italian parsley
 

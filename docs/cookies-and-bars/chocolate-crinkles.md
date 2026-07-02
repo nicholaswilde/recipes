@@ -18,15 +18,15 @@ hero: assets/images/chocolate-crinkles.webp
 
 ## :salt: Ingredients
 
-- :carrot: 0.5 cup (99 g) vegetable oil
-- :chocolate_bar: 4 oz melted unsweetened chocolate
+- :olive: 0.5 cup (99 g) vegetable oil
+- :baby_bottle: 4 oz (142 g) melted unsweetened chocolate
 - :candy: 2 cups (396 g) granulated sugar
 - :egg: 4 eggs
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :dash: 2 tsp baking powder
+- :flower_playing_cards: 2 tsp vanilla
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :candy: 1 cup (198 g) confectioners' sugar
+- :candy: 1 cup (113 g) confectioners' sugar
 
 ## :cooking: Cookware
 

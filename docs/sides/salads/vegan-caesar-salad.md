@@ -15,11 +15,11 @@ hero: assets/images/vegan-caesar-salad.png
 
 ## :salt: Ingredients
 
-- :beans: 1 can garbanzo beans
-- :olive: 1 Tbsp olive oil
-- :salt: 1 tsp TJ's vegan chicken-less seasoning salt
+- :coffee: 1 can garbanzo beans
+- :olive: 1 Tbsp (12 g) olive oil
+- :baby_bottle: 1 tsp TJ's vegan chicken-less seasoning salt
 - :cheese_wedge: 1 vegan Parmesan cheese
-- :baby_bottle: 3 Tbsp TJ's Vegan Caesar Dressing
+- :apple: 3 Tbsp (42 g) TJ's Vegan Caesar Dressing
 - :salt: some black pepper
 - :tangerine: 1 lemon
 

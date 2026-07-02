@@ -15,13 +15,13 @@ hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 0.75 cup (170 g) [Whipped Almond ricotta][2]
-- :herb: 0.5 cup (115 g) [pesto][3]
-- :leafy_green: 6 cups (180 g) mixed greens or spinach
-- :tomato: 0.5 cup (85 g) sun-dried tomatoes
-- :chestnut: 0.5 cup (70 g) pine nuts
-- :beans: 0.5 cup (100 g) cooked [chickpeas][5]
-- :tangerine: 3 Tbsp lemon juice (optional)
+- :baby_bottle: 0.75 cup (194 g) [Whipped Almond ricotta][2]
+- 0.5 cup [pesto][3]
+- :carrot: 6 cups (216 g) mixed greens or spinach
+- :tea: 0.5 cup (85 g) sun-dried tomatoes
+- :chestnut: 0.5 cup (71 g) pine nuts
+- :ear_of_rice: 0.5 cup (85 g) cooked [chickpeas][5]
+- :apple: 3 Tbsp lemon juice (optional)
 
 ## :cooking: Cookware
 

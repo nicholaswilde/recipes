@@ -17,9 +17,9 @@ hero: assets/images/mushroom-medley.webp
 
 ## :salt: Ingredients
 
-- :mushroom: some champignons
+- some champignons
 - :mushroom: some oyster mushrooms
-- :mushroom: some boletus
+- some boletus
 - :mushroom: some slippery jack mushrooms
 - :olive: some olive oil
 - :herb: some parsley

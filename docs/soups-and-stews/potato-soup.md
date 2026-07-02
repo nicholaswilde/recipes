@@ -17,17 +17,17 @@ hero: assets/images/potato-soup.webp
 
 ## :salt: Ingredients
 
-- :potato: 6 large Russet potatoes
+- :sweet_potato: 6 large Russet potatoes
 - :bacon: 0.5 lb sliced bacon
-- :onion: 1 large brown onion
+- :tea: 1 large brown onion
 - :garlic: 3 cloves garlic
-- :glass_of_milk: 2 cups half-and-half
-- :salt: 0.5 tsp white pepper
+- :takeout_box: 2 cups (454 g) half-and-half
+- :salt: 0.5 tsp (1 g) white pepper
 - :garlic: 0.5 tsp garlic powder
-- :onion: 0.5 tsp onion powder
+- :chestnut: 0.5 tsp (1 g) onion powder
 - :salt: 0.5 tsp salt
-- :cheese_wedge: 0.5 cup Parmesan cheese
-- :cheese_wedge: 1 cup extra sharp cheddar cheese
+- :cheese_wedge: 0.5 cup (50 g) Parmesan cheese
+- :cheese_wedge: 1 cup (114 g) extra sharp cheddar cheese
 - :bacon: some bacon chives
 
 ## :cooking: Cookware

@@ -18,14 +18,14 @@ hero: assets/images/chipotle-breakfast-tacos.webp
 
 ## :salt: Ingredients
 
-- :bell_pepper: 1 bag TJ's roasted potatoes with peppers and onions
-- :hotdog: 1 pkg soy chorizo
+- :tea: 1 bag TJ's roasted potatoes with peppers and onions
+- :takeout_box: 1 pkg soy chorizo
 - :olive: some olive oil
 - :egg: 10 eggs
-- :flatbread: 2 pkgs corn tortillas
+- :bread: 2 pkgs corn tortillas
 - :cheese_wedge: some cheese
 - :tomato: 1 pkg pico de gallo
-- :avocado: 1 avocado (optional)
+- :leafy_green: 1 avocado (optional)
 
 ## :cooking: Cookware
 

@@ -17,12 +17,12 @@ hero: assets/images/texas-potato-pancakes.webp
 
 - :sweet_potato: 2 lbs russet potatoes
 - :bread: 0.5 cup (60 g) all-purpose flour
-- :egg: 2 large [eggs][2]
-- :onion: 0.33 cup (45 g) onion
+- 2 large [eggs][2]
+- :tea: 0.33 cup (32 g) onion
 - :salt: some salt
-- :olive: 1.25 cups (250 g) vegetable oil
-- :baby_bottle: some sour cream
-- :apple: some applesauce
+- :olive: 1.25 cups (248 g) vegetable oil
+- :glass_of_milk: some sour cream
+- some applesauce
 
 ## :cooking: Cookware
 

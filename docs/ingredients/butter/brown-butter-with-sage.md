@@ -17,8 +17,8 @@ hero: assets/images/brown-butter-with-sage.webp
 
 ## :salt: Ingredients
 
-- :butter: 2 Tbsp unsalted butter
-- :seedling: 30 leaves fresh sage
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :apple: 30 leaves fresh sage
 
 ## :cooking: Cookware
 

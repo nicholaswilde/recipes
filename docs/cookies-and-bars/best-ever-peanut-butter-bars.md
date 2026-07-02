@@ -18,22 +18,22 @@ hero: assets/images/best-ever-peanut-butter-bars.jpg
 
 ## :salt: Ingredients
 
-- :butter: 0.75 cup (170 g) butter
+- :butter: 0.75 cup butter
 - :candy: 0.5 cup (99 g) granulated sugar
-- :maple_leaf: 1 cup (213 g) light brown sugar
+- :candy: 1 cup (213 g) light brown sugar
 - :egg: 2 large eggs
-- :icecream: 1 tsp vanilla extract
-- :peanuts: 0.5 cup (68 g) creamy peanut butter
-- :cup_with_straw: 2.5 tsp baking soda
+- :flower_playing_cards: 1 tsp vanilla extract
+- :chestnut: 0.5 cup (135 g) creamy peanut butter
+- :chestnut: 2.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
+- :bread: 1.5 cups (180 g) all-purpose flour
 - :ear_of_rice: 2 cups (198 g) old-fashioned rolled oats
-- :peanuts: some creamy peanut butter
-- :butter: 0.25 cup (57 g) butter
-- :chocolate_bar: 1 Tbsp unsweetened cocoa powder
-- :glass_of_milk: 1.5 Tbsp milk
-- :candy: 1.25 cups (248 g) powdered sugar
-- :icecream: 1 tsp vanilla extract
+- :chestnut: some creamy peanut butter
+- :butter: 0.25 cup butter
+- :chocolate_bar: 1 Tbsp (5 g) unsweetened cocoa powder
+- :glass_of_milk: 1.5 Tbsp (21 g) milk
+- :candy: 1.25 cups (250 g) powdered sugar
+- :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
 

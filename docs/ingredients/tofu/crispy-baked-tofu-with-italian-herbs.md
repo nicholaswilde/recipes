@@ -18,11 +18,11 @@ hero: assets/images/crispy-baked-tofu-with-italian-herbs.webp
 
 ## :salt: Ingredients
 
-- :custard: 1 extra-firm tofu
+- :cheese_wedge: 1 extra-firm tofu
 - :takeout_box: 1.5 Tbsp tamari
-- :olive: 3 Tbsp olive oil
-- :sake: 3 Tbsp balsamic vinegar
-- :tomato: 1.5 Tbsp [Tomato Paste](../tomato-paste.md)
+- :olive: 3 Tbsp (38 g) olive oil
+- :wine_glass: 3 Tbsp balsamic vinegar
+- 1.5 Tbsp [Tomato Paste](../tomato-paste.md)
 - :garlic: 4.5 cloves garlic
 - :herb: 2 tsp basil
 - :herb: 1.5 tsp oregano

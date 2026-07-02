@@ -21,13 +21,13 @@ hero: assets/images/scalloped-potatoes.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 1.5 cups (340 g) heavy cream
-- :glass_of_milk: 1.5 cups (340 g) half-and-half
+- :takeout_box: 1.5 cups (340 g) half-and-half
 - :garlic: 1 large clove garlic
 - :salt: 0.5 tsp salt
 - :salt: 1 dash white pepper
-- :fallen_leaf: 1 bay leaf
-- :sweet_potato: 2.25 lbs (1020 g) potatoes
-- :cheese_wedge: 3.5 Tbsp Swiss cheese
+- :herb: 1 bay leaf
+- :sweet_potato: 2.25 lbs potatoes
+- :cheese_wedge: 3.5 Tbsp (25 g) Swiss cheese
 
 ## :cooking: Cookware
 

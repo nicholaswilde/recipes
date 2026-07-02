@@ -16,14 +16,14 @@ hero: assets/images/good-gravy.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :takeout_box: 2.5 Tbsp tamari or other soy sauce
-- :herb: 1 Tbsp fresh thyme
+- 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :apple: 2.5 Tbsp (36 g) tamari or other soy sauce
+- :apple: 1 Tbsp fresh thyme
 - :salt: some salt
 - :salt: some pepper
-- :corn: 2 Tbsp cornstarch
-- :droplet: 3 Tbsp water
-- :glass_of_milk: 0.25 cup milk
+- :chestnut: 2 Tbsp (14 g) cornstarch
+- :droplet: 3 Tbsp (43 g) water
+- :glass_of_milk: 0.25 cup (57 g) milk
 
 ## :cooking: Cookware
 

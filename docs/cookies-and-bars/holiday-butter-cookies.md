@@ -17,8 +17,8 @@ hero: assets/images/holiday-butter-cookies.webp
 
 ## :salt: Ingredients
 
-- :butter: 18 Tbsp (255 g) salted butter
-- :candy: 1.25 cups (142 g) confectioners' sugar
+- :butter: 18 Tbsp (254 g) salted butter
+- :candy: 1.25 cups (141 g) confectioners' sugar
 - :egg: 1 large egg yolk
 - :salt: 0.5 tsp table salt
 - :flower_playing_cards: 1 tsp vanilla extract

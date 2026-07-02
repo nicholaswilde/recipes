@@ -23,15 +23,15 @@ hero: assets/images/frittata.webp
     - :egg: 6 eggs
     - :salt: some salt
     - :salt: some pepper
-    - :olive: 0.5 Tbsp olive oil
+    - :olive: 0.5 Tbsp (6 g) olive oil
 
 === "Fillings"
 
-    - :eggplant: 2 cups diced cooked vegetables (optional)
-    - :cheese_wedge: 2 cups cheese (optional)
-    - :poultry_leg: 2 cups chicken (optional)
-    - :shrimp: 2 cups seafood (optional)
-    - :meat_on_bone: 2 cups ham (optional)
+    - :tea: 2 cups (340 g) diced cooked vegetables (optional)
+    - :cheese_wedge: 2 cups (454 g) cheese (optional)
+    - :leafy_green: 2 cups chicken (optional)
+    - :leafy_green: 2 cups seafood (optional)
+    - :leafy_green: 2 cups ham (optional)
 
 ## :cooking: Cookware
 

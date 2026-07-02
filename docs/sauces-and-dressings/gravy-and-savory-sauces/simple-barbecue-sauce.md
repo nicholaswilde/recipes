@@ -16,11 +16,11 @@ hero: assets/images/simple-barbecue-sauce.webp
 
 ## :salt: Ingredients
 
-- :tomato: 0.67 cup [ketchup][1]
-- :sake: 0.5 cup cider vinegar
-- :maple_leaf: 0.25 cup (53 g) [brown sugar][2]
+- 0.67 cup [ketchup][1]
+- :apple: 0.5 cup (170 g) cider vinegar
+- 0.25 cup [brown sugar][2]
 - :hot_pepper: 2 tsp pimentón (smoked Spanish paprika)
-- :herb: 1 tsp cumin
+- :chestnut: 1 tsp (3 g) cumin
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
 

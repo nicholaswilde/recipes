@@ -15,24 +15,24 @@ hero: assets/images/pumpkin-cream-cheese-muffins.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 8 oz cream cheese
-- :candy: 0.25 cup granulated sugar
+- :cheese_wedge: 8 oz (227 g) cream cheese
+- :candy: 0.25 cup (50 g) granulated sugar
 - :egg: 1 egg yolk
 - :flower_playing_cards: 0.5 tsp vanilla extract
-- :bread: 3 cups all-purpose flour
-- :candy: 3.4 oz instant vanilla pudding mix
+- :bread: 3 cups (360 g) all-purpose flour
+- :candy: 3.4 oz (47 g) instant vanilla pudding mix
 - :chestnut: 2 tsp baking soda
 - :salt: 1 tsp salt
-- :chestnut: 1.5 tsp ground cinnamon
-- :chestnut: 0.5 tsp ground nutmeg
-- :melon: 15 oz pumpkin puree
-- :candy: 1 cup granulated sugar
-- :candy: 1 cup brown sugar
+- :chestnut: 1.5 tsp (4 g) ground cinnamon
+- :chestnut: 0.5 tsp (2 g) ground nutmeg
+- :melon: 15 oz (426 g) pumpkin puree
+- :candy: 1 cup (198 g) granulated sugar
+- :maple_leaf: 1 cup (213 g) brown sugar
 - :egg: 5 eggs
-- :olive: 0.5 cup vegetable oil
-- :butter: 0.5 cup unsalted butter
+- :olive: 0.5 cup (99 g) vegetable oil
+- :butter: 0.5 cup (113 g) unsalted butter
 - :flower_playing_cards: 1 tbsp vanilla extract
-- :candy: 2 tbsp cinnamon sugar
+- :candy: 2 tbsp (25 g) cinnamon sugar
 - :seedling: some pepitas
 
 ## :cooking: Cookware

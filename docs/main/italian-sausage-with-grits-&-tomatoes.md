@@ -15,13 +15,13 @@ hero: assets/images/italian-sausage-with-grits-&-tomatoes.webp
 
 ## :salt: Ingredients
 
-- :stew: 1.5 cups (340 g) [vegetable broth][2]
+- 1.5 cups [vegetable broth][2]
 - :glass_of_milk: 1.5 cups (340 g) milk
-- :ear_of_rice: 0.75 cup (125 g) white stone ground grits (not instant)
+- :bread: 0.75 cup (86 g) white stone ground grits (not instant)
 - :salt: 0.25 tsp salt
-- :cheese_wedge: 1 cup (113 g) cheddar
-- :cut_of_meat: 6 links soy Italian sausages
-- :tomato: 2 cups (300 g) cherry tomatoes
+- :cheese_wedge: 1 cup (114 g) cheddar
+- :apple: 6 links soy Italian sausages
+- :apple: 2 cups (672 g) cherry tomatoes
 - :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware

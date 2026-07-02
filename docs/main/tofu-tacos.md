@@ -18,16 +18,16 @@ hero: assets/images/tofu-tacos.webp
 
 ## :salt: Ingredients
 
-- :butter: 16 oz extra firm tofu
-- :olive: 1 Tbsp olive oil
-- :sake: 2 Tbsp [soy sauce][1]
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :maple_leaf: 1 Tbsp maple syrup
-- :onion: 1 tsp onion powder
+- :cheese_wedge: 16 oz extra firm tofu
+- :olive: 1 Tbsp (12 g) olive oil
+- 2 Tbsp [soy sauce][1]
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :chestnut: 1 tsp (2 g) onion powder
 - :garlic: 1 tsp garlic powder
-- :bell_pepper: 1 tsp smoked paprika
-- :hot_pepper: 2 tsp chili powder
-- :herb: 1 tsp cumin
+- :hot_pepper: 1 tsp smoked paprika
+- :hot_pepper: 2 tsp (4 g) chili powder
+- :chestnut: 1 tsp (3 g) cumin
 
 ## :cooking: Cookware
 

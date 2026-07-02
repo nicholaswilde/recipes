@@ -19,18 +19,18 @@ hero: assets/images/slow-cooker-black-bean-chili.webp
 
 ## :salt: Ingredients
 
-- :peanuts: 1 lb [dried black beans][2]
-- :hot_pepper: 2 tsp chili powder
-- :hot_pepper: 1 chipotle chili in adobo sauce
+- :burrito: 1 lb [dried black beans][2]
+- :hot_pepper: 2 tsp (4 g) chili powder
+- :apple: 1 chipotle chili in adobo sauce
 - :garlic: 6 cloves garlic
 - :tomato: 1 can fire roasted tomatoes
 - :salt: some salt
 - :salt: some pepper
-- :onion: 1 onion
-- :stew: 1 12-oz jar salsa verde
-- :bell_pepper: 1 jar [Roasted Red Peppers](../ingredients/roasted-red-peppers.md)
-- :herb: 1 Tbsp ground cumin
-- :stew: 4 cups [vegetable broth][1]
+- :tea: 1 onion
+- :baby_bottle: 1 12-oz jar salsa verde
+- :hot_pepper: 1 jar [Roasted Red Peppers](../ingredients/roasted-red-peppers.md)
+- :chestnut: 1 Tbsp (9 g) ground cumin
+- 4 cups [vegetable broth][1]
 
 ## :cooking: Cookware
 

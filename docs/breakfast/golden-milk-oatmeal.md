@@ -15,15 +15,15 @@ hero: assets/images/golden-milk-oatmeal.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups plant-based milk
-- :chestnut: 4 Medjool dates
-- :ear_of_rice: 0.75 cup rolled oats
-- :ear_of_rice: 2 tbsp teff
-- :sweet_potato: 2 tsp fresh ginger
-- :curry: 1 tsp ground turmeric
-- :chestnut: 0.25 tsp ground cloves
-- :sweet_potato: 0.25 tsp ground ginger
-- :chestnut: 0.5 tsp ground cinnamon
+- :glass_of_milk: 2 cups (452 g) plant-based milk
+- :grapes: 4 Medjool dates
+- :ear_of_rice: 0.75 cup (85 g) rolled oats
+- :ear_of_rice: 2 tbsp (17 g) teff
+- :sweet_potato: 2 tsp (10 g) fresh ginger
+- :curry: 1 tsp (3 g) ground turmeric
+- :chestnut: 0.25 tsp (1 g) ground cloves
+- :sweet_potato: 0.25 tsp (1 g) ground ginger
+- :chestnut: 0.5 tsp (2 g) ground cinnamon
 - :salt: 0.13 tsp black pepper
 - :apple: some sliced figs
 - :seedling: some hemp seeds

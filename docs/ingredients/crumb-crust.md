@@ -17,12 +17,12 @@ hero: assets/images/crumb-crust.webp
 
 ## :salt: Ingredients
 
-- :rice_cracker: 1.5 cup graham cracker
-- :icecream: 1.5 cup vanilla or chocolate wafer or gingersnap (alternative)
-- :candy: 0.5 cup (99 g) sugar
-- :butter: 6 Tbsp unsalted butter
+- :bread: 1.5 cup graham cracker
+- :chestnut: 1.5 cup (255 g) vanilla or chocolate wafer or gingersnap (alternative)
+- :candy: 0.5 cup (78 g) sugar
+- :butter: 6 Tbsp (85 g) unsalted butter
 - :salt: 0.5 salt
-- :custard: 1 tsp cinnamon (optional)
+- :chestnut: 1 tsp (3 g) cinnamon (optional)
 
 ## :cooking: Cookware
 

@@ -20,7 +20,7 @@ hero: assets/images/cooks-illustrated-lemon-bars.webp
 
 === "Crust"
 
-    - :ear_of_rice: 120 g all-purpose flour
+    - :bread: 120 g all-purpose flour
     - :candy: 50 g granulated sugar
     - :salt: 1 tsp salt
     - :butter: 113 g unsalted butter
@@ -28,14 +28,14 @@ hero: assets/images/cooks-illustrated-lemon-bars.webp
 === "Filling"
 
     - :candy: 198 g granulated sugar
-    - :ear_of_rice: 2 Tbsp all-purpose flour
-    - :dash: 2 tsp cream of tartar
+    - :bread: 2 Tbsp (15 g) all-purpose flour
+    - :glass_of_milk: 2 tsp (12 g) cream of tartar
     - :salt: 0.5 tsp salt
     - :egg: 3 large eggs
     - :egg: 3 large egg yolks
-    - :lemon: 2 tsp lemon zest
-    - :lemon: 0.67 cup lemon juice
-    - :butter: 4 Tbsp unsalted butter
+    - :tangerine: 2 tsp (9 g) lemon zest
+    - :tangerine: 0.67 cup (150 g) lemon juice
+    - :butter: 4 Tbsp (56 g) unsalted butter
     - :candy: some confectioners' sugar (optional)
 
 ## :cooking: Cookware

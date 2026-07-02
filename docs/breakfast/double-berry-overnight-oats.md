@@ -20,28 +20,28 @@ hero: assets/images/double-berry-overnight-oats.webp
 === "serves 3"
 
     - :ear_of_rice: 1 cup (99 g) uncooked old fashioned oats
-    - :glass_of_milk: 1 cup (227 g) unsweetened vanilla almond milk
-    - :microbe: 1 cup (227 g) light artificially sweetened yogurt
-    - :strawberry: 2.25 (376 g) cup mixed berries
-    - :lemon: 1 Tbsp lemon zest
-    - :custard: 0.25 tsp cinnamon
+    - :glass_of_milk: 1 cup (53 g) unsweetened vanilla almond milk
+    - :candy: 1 cup (213 g) light artificially sweetened yogurt
+    - :mushroom: 2.25 cup (320 g) mixed berries
+    - :tangerine: 1 Tbsp (14 g) lemon zest
+    - :chestnut: 0.25 tsp (1 g) cinnamon
     - :salt: 0.25 tsp salt
-    - :chestnut: 3 Tbsp almonds
-    - :chestnut: 3 Tbsp chia seeds
-    - :icecream: 1 tsp vanilla
+    - :chestnut: 3 Tbsp (16 g) almonds
+    - :seedling: 3 Tbsp (28 g) chia seeds
+    - :flower_playing_cards: 1 tsp vanilla
 
 === "serves 1"
 
     - :ear_of_rice: 0.33 cup (33 g) uncooked old fashioned oats
-    - :glass_of_milk: 0.33 cup (76 g) unsweetened vanilla almond milk
-    - :microbe: 0.33 cup (76 g) light artificially sweetened yogurt
-    - :strawberry: 0.75 cup (132 g) mixed berries
-    - :lemon: 1 tsp lemon zest
-    - :custard: 1 pinch cinnamon
+    - :glass_of_milk: 0.33 cup (17 g) unsweetened vanilla almond milk
+    - :candy: 0.33 cup (70 g) light artificially sweetened yogurt
+    - :mushroom: 0.75 cup (106 g) mixed berries
+    - :tangerine: 1 tsp (5 g) lemon zest
+    - :chestnut: 1 pinch cinnamon
     - :salt: 1 pinch salt
-    - :chestnut: 1 Tbsp almonds
-    - :chestnut: 1 Tbsp chia seeds
-    - :icecream: 0.25 tsp vanilla
+    - :chestnut: 1 Tbsp (5 g) almonds
+    - :seedling: 1 Tbsp (9 g) chia seeds
+    - :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

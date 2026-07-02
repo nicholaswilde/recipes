@@ -16,13 +16,13 @@ hero: assets/images/butterscotch-squares.webp
 ## :salt: Ingredients
 
 - :olive: some nonstick cooking spray
-- :candy: 2 cups brown sugar
-- :glass_of_milk: 0.75 cup heavy whipping cream
-- :butter: 6 tbsp unsalted butter
+- :maple_leaf: 2 cups (426 g) brown sugar
+- :glass_of_milk: 0.75 cup (170 g) heavy whipping cream
+- :butter: 6 tbsp (85 g) unsalted butter
 - :flower_playing_cards: 0.5 tsp vanilla
 - :salt: 0.25 tsp salt
-- :candy: 1 cup powdered sugar
-- :chocolate_bar: 16 oz chocolate melts
+- :candy: 1 cup (200 g) powdered sugar
+- :chocolate_bar: 16 oz (340 g) chocolate melts
 
 ## :cooking: Cookware
 

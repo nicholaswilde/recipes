@@ -14,18 +14,18 @@ hero: assets/images/eggplant-parm-meatballs.webp
 ## :salt: Ingredients
 
 - :herb: 1 Tbsp basil
-- :salt: 0.25 tsp black pepper
-- :bread: 1 cup bread crumbs
+- :salt: 0.25 tsp (1 g) black pepper
+- :potato: 1 cup (112 g) bread crumbs
 - :eggplant: 12 oz eggplant
 - :garlic: 6 cloves garlic
-- :tomato: 24 oz [marinara sauce][1]
-- :microbe: 2 Tbsp nutritional yeast
-- :olive: 3 Tbsp olive oil
-- :onion: 1 medium onion
+- 24 oz [marinara sauce][1]
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
+- :olive: 3 Tbsp (38 g) olive oil
+- :tea: 1 medium onion
 - :herb: 1 tsp oregano
 - :herb: 0.25 cup parsley
 - :salt: 0.75 tsp salt
-- :spaghetti: 16 oz spaghetti
+- :bread: 16 oz spaghetti
 - :herb: 0.5 tsp thyme
 
 ## :cooking: Cookware

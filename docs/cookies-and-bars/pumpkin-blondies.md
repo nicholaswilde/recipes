@@ -20,18 +20,18 @@ hero: assets/images/pumpkin-blondies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :chestnut: 1 tbsp pumpkin pie spice
-- :cup_with_straw: 1 tsp baking soda
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 1 tbsp (12 g) pumpkin pie spice
+- :chestnut: 1 tsp baking soda
 - :salt: 1 tsp kosher salt
-- :butter: 1 cup (227 g) unsalted butter
+- :butter: 1 cup (226 g) unsalted butter
 - :candy: 1.25 cups (248 g) granulated sugar
 - :egg: 1 large egg
-- :icecream: 2 tsp vanilla extract
-- :jack_o_lantern: 1 cup (227 g) pumpkin purée
+- :flower_playing_cards: 2 tsp vanilla extract
+- :melon: 1 cup (227 g) pumpkin purée
 - :chocolate_bar: 1 cup (170 g) white chocolate chips
-- :chocolate_bar: 1 cup (185 g) butterscotch chips
-- :chestnut: 0.5 cup (57 g) chopped pecans or walnuts
+- :ribbon: 1 cup (177 g) butterscotch chips
+- :apple: 0.5 cup (56 g) chopped pecans or walnuts
 
 ## :cooking: Cookware
 

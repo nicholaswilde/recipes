@@ -23,21 +23,21 @@ hero: assets/images/soft-glazed-gingerbread.jpg
 ## :salt: Ingredients
 
 - :bread: 3.75 cups (450 g) all-purpose flour
-- :candy: 1 Tbsp (5 g) cocoa powder
-- :sweet_potato: 4 tsp ground ginger
-- :chestnut: 1.5 tsp ground cloves
-- :chestnut: 2 tsp ground cinnamon
+- :chocolate_bar: 1 Tbsp (7 g) cocoa powder
+- :sweet_potato: 4 tsp (12 g) ground ginger
+- :chestnut: 1.5 tsp (4 g) ground cloves
+- :chestnut: 2 tsp (6 g) ground cinnamon
 - :chestnut: 0.5 tsp baking soda
 - :salt: 1 tsp salt
-- :salt: 1.25 tsp black pepper, freshly ground
-- :butter: 1 cup (227 g) unsalted butter, at room temperature
-- :candy: 0.88 cup (173 g) granulated sugar
-- :egg: 1 large (50 g) egg
+- :salt: 1.25 tsp (4 g) black pepper, freshly ground
+- :glass_of_milk: 1 cup (226 g) unsalted butter, at room temperature
+- :candy: 0.88 cup (174 g) granulated sugar
+- :egg: 1 large egg
 - :candy: 0.5 cup (170 g) blackstrap molasses
 - :candy: 2 Tbsp (39 g) light corn syrup
-- :page_facing_up: some parchment paper
+- :bread: some parchment paper
 - :candy: 1 cup (113 g) confectioners' sugar
-- :droplet: 2 Tbsp (30 g) water
+- :droplet: 2 Tbsp (28 g) water
 
 ## :cooking: Cookware
 

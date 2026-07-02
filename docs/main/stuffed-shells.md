@@ -19,16 +19,16 @@ hero: assets/images/stuffed-shells.webp
 
 ## :salt: Ingredients
 
-- :bread: 12 oz (340 g) jumbo pasta shells
-- :cheese_wedge: 15 oz (425 g) package [ricotta cheese](../ingredients/ricotta.md)
-- :egg: 2 large (100 g) eggs (lightly beaten)
+- :ribbon: 12 oz (218 g) jumbo pasta shells
+- :blue_circle: 15 oz package [ricotta cheese](../ingredients/ricotta.md)
+- :baby_bottle: 2 large eggs (lightly beaten)
 - :cheese_wedge: 1 cup (113 g) jack cheese (shredded)
 - :cheese_wedge: 2 cups (226 g) shredded mozzarella cheese
 - :cheese_wedge: 0.5 cup (50 g) Parmesan cheese (grated)
-- :leafy_green: 1 box (283 g) frozen chopped spinach (thawed and drained)
+- :apple: 1 box frozen chopped spinach (thawed and drained)
 - :salt: 0.5 tsp salt
-- :salt: 0.25 tsp black pepper
-- :tomato: 24 oz (680 g) marinara sauce
+- :salt: 0.25 tsp (1 g) black pepper
+- :tomato: 24 oz (684 g) marinara sauce
 - :cheese_wedge: some extra mozzarella cheese (optional)
 
 ## :cooking: Cookware

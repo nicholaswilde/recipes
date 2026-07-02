@@ -17,13 +17,13 @@ hero: assets/images/whole-wheat-pancakes.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups whole wheat flour
-- :glass_of_milk: 2 cups skim milk
+- :bread: 2 cups (226 g) whole wheat flour
+- :glass_of_milk: 2 cups (454 g) skim milk
 - :egg: 0.33 cup egg substitute
-- :apple: 0.25 cup (64 g) applesauce
-- :candy: 2 Tbsp sugar
-- :dash: 2 tsp baking powder
-- :dash: 1 tsp baking soda
+- 0.25 cup (64 g) applesauce
+- :candy: 2 Tbsp (20 g) sugar
+- :chestnut: 2 tsp baking powder
+- :chestnut: 1 tsp baking soda
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

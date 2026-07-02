@@ -16,20 +16,20 @@ hero: assets/images/marry-me-butter-beans.webp
 
 ## :salt: Ingredients
 
-- :butter: 2 Tbsp unsalted butter
+- :butter: 2 Tbsp (28 g) unsalted butter
 - :garlic: 4 cloves garlic
 - :salt: 0.5 tsp salt
 - :herb: 0.5 tsp oregano
-- :hot_pepper: 0.5 tsp crushed red pepper flakes
+- :hot_pepper: 0.5 tsp (1 g) crushed red pepper flakes
 - :hot_pepper: 0.5 tsp smoked paprika
-- :salt: 0.25 tsp ground black pepper
-- :tomato: 0.5 cup sun-dried tomatoes
-- :stew: 1 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
-- :canned_food: 2 cans butter beans
-- :leafy_green: 1 cup fresh spinach
-- :glass_of_milk: 1 cup heavy cream
-- :cheese_wedge: 0.5 cup Parmesan
-- :herb: 2 Tbsp fresh basil
+- :salt: 0.25 tsp (1 g) ground black pepper
+- :tea: 0.5 cup (85 g) sun-dried tomatoes
+- 1 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :glass_of_milk: 2 cans butter beans
+- :herb: 1 cup (42 g) fresh spinach
+- :glass_of_milk: 1 cup (227 g) heavy cream
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
+- :herb: 2 Tbsp (5 g) fresh basil
 
 ## :cooking: Cookware
 

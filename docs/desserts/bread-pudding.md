@@ -18,18 +18,18 @@ hero: assets/images/bread-pudding.webp
 ## :salt: Ingredients
 
 - :grapes: 75 g raisins
-- :sake: some water or rum
+- :droplet: some water or rum
 - :butter: 45 g unsalted butter
 - :egg: 2 large eggs
 - :egg: 1 egg yolk
 - :candy: 100 g granulated sugar
 - :glass_of_milk: 375 g milk
 - :glass_of_milk: 250 g whipping cream
-- :icecream: 1 tsp vanilla
-- :chestnut: 0.25 tsp nutmeg
+- :flower_playing_cards: 1 tsp vanilla
+- :apple: 0.25 tsp nutmeg
 - :salt: 1 pinch salt
-- :bread: 4 cups bread
-- :candy: some [cinnamon sugar][2]
+- :star: 4 cups (480 g) bread
+- some [cinnamon sugar][2]
 
 ## :cooking: Cookware
 

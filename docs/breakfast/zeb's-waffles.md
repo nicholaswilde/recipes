@@ -16,16 +16,16 @@ hero: assets/images/zeb's-waffles.png
 
 ## :salt: Ingredients
 
-- :orange_circle: 1 orange
-- :ear_of_rice: 1 cup rolled oats
-- :chestnut: 0.25 cup walnuts
-- :ear_of_rice: 2 Tbsp flaxseed meal
-- :custard: 0.25 tsp cinnamon
-- :banana: 1 banana
-- :glass_of_milk: 0.5 cup milk
-- :kiwifruit: 2 kiwi
-- :strawberry: 0.5 cup raspberries
-- :maple_leaf: 4 tsp maple syrup
+- :tangerine: 1 orange
+- :ear_of_rice: 1 cup (113 g) rolled oats
+- :chestnut: 0.25 cup (32 g) walnuts
+- 2 Tbsp (10 g) flaxseed meal
+- :chestnut: 0.25 tsp (1 g) cinnamon
+- :apple: 1 banana
+- :glass_of_milk: 0.5 cup (114 g) milk
+- :apple: 2 kiwi
+- :apple: 0.5 cup (60 g) raspberries
+- :honey_pot: 4 tsp (26 g) maple syrup
 
 ## :cooking: Cookware
 

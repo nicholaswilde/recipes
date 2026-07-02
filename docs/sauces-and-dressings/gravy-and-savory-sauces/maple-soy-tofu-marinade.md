@@ -19,12 +19,12 @@ hero: assets/images/maple-soy-tofu-marinade.jpg
 ## :salt: Ingredients
 
 - :cheese_wedge: 1 block (400 to 450 g) extra firm tofu (14 to 16-ounce)
-- :takeout_box: 0.25 cup (60 g) tamari
-- :wine_glass: 3 Tbsp (45 g) rice vinegar
-- :maple_leaf: 1 Tbsp (20 g) maple syrup
-- :oil_drum: 1 tsp (5 g) toasted sesame oil (optional)
+- :takeout_box: 0.25 cup tamari
+- :wine_glass: 3 Tbsp (5 g) rice vinegar
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :olive: 1 tsp (2 g) toasted sesame oil (optional)
 - :garlic: 2 large cloves garlic, minced
-- :herb: 1 Tbsp (15 g) ginger, minced
+- :sweet_potato: 1 Tbsp ginger, minced
 
 ## :cooking: Cookware
 

@@ -18,25 +18,25 @@ hero: assets/images/old-fashioned-rice-pudding.webp
 
 === "serves 4"
 
-    - :glass_of_milk: 6 cups milk
+    - :glass_of_milk: 6 cups (1362 g) milk
     - :candy: 0.5 cup (99 g) granulated sugar
     - :salt: 0.5 tsp salt
-    - :rice: 0.5 cup long grain white rice
-    - :icecream: 2 tsp vanilla
-    - :custard: some cinnamon (optional)
-    - :chocolate_bar: 3 Tbsp cocoa powder (optional)
-    - :grapes: 1/4 cup raisins (optional)
+    - :bread: 0.5 cup (99 g) long grain white rice
+    - :flower_playing_cards: 2 tsp vanilla
+    - :chestnut: some cinnamon (optional)
+    - :chocolate_bar: 3 Tbsp (38 g) cocoa powder (optional)
+    - :leafy_green: 1/4 cup (42 g) raisins (optional)
 
 === "serves 2"
 
-    - :glass_of_milk: 3 cups milk
+    - :glass_of_milk: 3 cups (681 g) milk
     - :candy: 0.25 cup (50 g) granulated sugar
     - :salt: 0.25 tsp salt
-    - :rice: 0.25 cup long grain white rice
-    - :icecream: 1 tsp vanilla
-    - :custard: some cinnamon (optional)
-    - :chocolate_bar: 1.5 Tbsp cocoa powder (optional)
-    - :grapes: 2 Tbsp raisins (optional)
+    - :bread: 0.25 cup (50 g) long grain white rice
+    - :flower_playing_cards: 1 tsp vanilla
+    - :chestnut: some cinnamon (optional)
+    - :chocolate_bar: 1.5 Tbsp (19 g) cocoa powder (optional)
+    - :leafy_green: 2 Tbsp (21 g) raisins (optional)
 
 ## :cooking: Cookware
 

@@ -18,10 +18,10 @@ hero: assets/images/pat-in-the-pan-butter-dough.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+- :bread: 0.5 cup (60 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) unsalted butter
-- :glass_of_milk: 3 Tbsp heavy cream
+- :butter: 0.5 cup (113 g) unsalted butter
+- :glass_of_milk: 3 Tbsp (43 g) heavy cream
 
 ## :cooking: Cookware
 

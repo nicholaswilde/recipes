@@ -17,14 +17,14 @@ hero: assets/images/the-best-sugar-cookies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 281 g all-purpose flour
-- :dash: 0.5 tsp baking powder
+- :bread: 281 g all-purpose flour
+- :chestnut: 0.5 tsp baking powder
 - :salt: 0.25 tsp salt
 - :butter: 170 g unsalted butter
 - :candy: 150 g granulated sugar
 - :egg: 1 large egg
-- :icecream: 2 tsp vanilla
-- :chestnut: 0.5 tsp almond extract
+- :flower_playing_cards: 2 tsp vanilla
+- :flower_playing_cards: 0.5 tsp (3 g) almond extract
 - :crown: some royal icing (optional)
 
 ## :cooking: Cookware

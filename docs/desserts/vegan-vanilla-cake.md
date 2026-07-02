@@ -16,19 +16,19 @@ hero: assets/images/vegan-vanilla-cake.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360 g cake flour
-- :dash: 12 g baking powder
+- :bread: 360 g cake flour
+- :chestnut: 12 g baking powder
 - :salt: 3 g salt
 - :glass_of_milk: 284 g unsweetened soy milk
-- :apple: 2 tsp apple cider vinegar
-- :falafel: 120 g aquafaba
-- :rice: 0.25 tsp cream of tartar
+- :apple: 2 tsp (12 g) apple cider vinegar
+- :baby_bottle: 120 g aquafaba
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
 - :butter: 113 g vegan butter
-- :oil_drum: 110 g canola oil
+- :droplet: 110 g canola oil
 - :candy: 297 g sugar
 - :flower_playing_cards: 1 Tbsp vanilla extract
-- :butter: some Vegan Buttercream Frosting
-- :rainbow: some vegan friendly sprinkles
+- :apple: some Vegan Buttercream Frosting
+- :apple: some vegan friendly sprinkles
 
 ## :cooking: Cookware
 

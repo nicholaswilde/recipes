@@ -17,9 +17,9 @@ hero: assets/images/sour-cream-topping.webp
 
 ## :salt: Ingredients
 
-- :rice: 2 16-oz containers sour cream
-- :candy: 1 Tbsp granulated sugar
-- :icecream: 2 tsp vanilla
+- :glass_of_milk: 2 16-oz containers sour cream
+- :candy: 1 Tbsp (12 g) granulated sugar
+- :flower_playing_cards: 2 tsp vanilla
 
 ## :cooking: Cookware
 

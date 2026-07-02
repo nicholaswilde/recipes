@@ -16,23 +16,23 @@ hero: assets/images/simple-chickpea-masala.webp
 ## :salt: Ingredients
 
 - :olive: 3 Tbsp neutral cooking oil
-- :seedling: 0.25 tsp cumin seeds
-- :seedling: 0.25 tsp brown mustard seeds
-- :onion: 1 medium yellow onion
-- :chestnut: 2 tsp ground coriander
-- :chestnut: 1 tsp ground cumin
-- :curry: 0.25 tsp ground turmeric
+- :chestnut: 0.25 tsp cumin seeds
+- :seedling: 0.25 tsp (1 g) brown mustard seeds
+- :seedling: 1 medium yellow onion
+- :chestnut: 2 tsp (4 g) ground coriander
+- :chestnut: 1 tsp (3 g) ground cumin
+- :curry: 0.25 tsp (1 g) ground turmeric
 - :hot_pepper: 0.13 tsp cayenne pepper
 - :salt: 0.13 tsp finely ground black pepper
 - :tomato: 1 can (14.5-ounce) diced tomatoes
-- :beans: 4 cups (800 g) cooked [chickpeas][2]
-- :droplet: 0.5 cup (115 g) water
-- :coconut: 1 can (14-ounce) unsweetened coconut cream
+- :ear_of_rice: 4 cups (680 g) cooked [chickpeas][2]
+- :droplet: 0.5 cup (114 g) water
+- :cheese_wedge: 1 can (14-ounce) unsweetened coconut cream
 - :salt: 1 tsp salt
 - :tangerine: 1 tsp freshly squeezed lemon juice
-- :herb: 2 Tbsp fresh cilantro
-- :baby_bottle: some cashew yogurt
-- :baby_bottle: some Yogurt Drizzle Sauce
+- :herb: 2 Tbsp (5 g) fresh cilantro
+- :chestnut: some cashew yogurt
+- :apple: some Yogurt Drizzle Sauce
 
 ## :cooking: Cookware
 

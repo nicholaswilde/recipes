@@ -19,13 +19,13 @@ hero: assets/images/mock-soy-sauce.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups (475 ml) [Vegetable Broth](vegetable-broth.md) or beef broth
-- :honey_pot: 2 Tbsp (30 ml) balsamic vinegar
-- :apple: 1 Tbsp (15 ml) apple cider vinegar
-- :honey_pot: 1 Tbsp (20 g) dark molasses
-- :salt: 1 tsp (6 g) table salt
+- :stew: 2 cups (368 g) (475 ml) [Vegetable Broth](vegetable-broth.md) or beef broth
+- :apple: 2 Tbsp (30 ml) balsamic vinegar
+- :apple: 1 Tbsp (18 g) (15 ml) apple cider vinegar
+- :chestnut: 1 Tbsp (21 g) dark molasses
+- :salt: 1 tsp table salt
 - :garlic: 1 pinch garlic powder
-- :curry: 1 pinch ground ginger
+- :sweet_potato: 1 pinch ground ginger
 
 ## :cooking: Cookware
 

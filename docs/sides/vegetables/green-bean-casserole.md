@@ -17,12 +17,12 @@ hero: assets/images/green-bean-casserole.webp
 ## :salt: Ingredients
 
 - :butter: 0.33 stick butter
-- :onion: 0.5 onions
-- :mushroom: 0.5 cup sliced mushrooms
-- :cucumber: 2 cups green beans
-- :stew: 3 cups [vegetable broth][1]
-- :mushroom: 1 can cream of mushroom soup
-- :onion: 1 8-oz can French-fried onion rings
+- :tea: 0.5 onions
+- :mushroom: 0.5 cup (39 g) sliced mushrooms
+- :beans: 2 cups (170 g) green beans
+- 3 cups [vegetable broth][1]
+- :droplet: 1 can cream of mushroom soup
+- :glass_of_milk: 1 8-oz can French-fried onion rings
 - :salt: some salt
 - :salt: some pepper
 - :garlic: some garlic powder

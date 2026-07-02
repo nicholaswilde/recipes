@@ -17,20 +17,20 @@ hero: assets/images/butternut-squash-tostadas.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 4 cups butternut squash
-- :orange_circle: 0.25 cup orange juice
+- 4 cups butternut squash
+- :tangerine: 0.25 cup (56 g) orange juice
 - :garlic: 0.5 tsp garlic powder
 - :salt: some salt
 - :salt: some pepper
-- :onion: 1 cup onions
-- :bell_pepper: 0.5 cup bell pepper
+- :tea: 1 cup (142 g) onions
+- :hot_pepper: 0.5 cup (71 g) bell pepper
 - :garlic: 3 cloves garlic
-- :canned_food: 2 cups [black beans][2]
-- :flatbread: 6 corn tortillas
+- 2 cups [black beans][2]
+- :bread: 6 corn tortillas
 - :tomato: 0.25 cup salsa
-- :leafy_green: 0.5 cup red cabbage
-- :herb: 0.25 cup cilantro
-- :avocado: 0.25 cup Mexicrema dressing or guacamole
+- :grapes: 0.5 cup (105 g) red cabbage
+- :herb: 0.25 cup (10 g) cilantro
+- :avodado: 0.25 cup Mexicrema dressing or guacamole
 
 ## :cooking: Cookware
 

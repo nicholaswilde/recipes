@@ -16,14 +16,14 @@ hero: assets/images/baked-potato-soup.webp
 
 ## :salt: Ingredients
 
-- :potato: 5 lbs Russet potatoes
-- :onion: 1 large yellow onion
-- :garlic: 10 cloves garlic (whole, crushed, or minced)
-- :salt: 1 Tbsp seasoned salt or all-purpose seasoning
-- :stew: 8 cups [vegetable stock][1]
-- :cheese_wedge: 16 oz cream cheese
+- :sweet_potato: 5 lbs Russet potatoes
+- :seedling: 1 large yellow onion
+- :bread: 10 cloves garlic (whole, crushed, or minced)
+- :baby_bottle: 1 Tbsp (8 g) seasoned salt or all-purpose seasoning
+- 8 cups [vegetable stock][1]
+- :cheese_wedge: 16 oz (454 g) cream cheese
 - :cheese_wedge: some shredded cheese (optional)
-- :seedling: some green onions (optional)
+- :tea: some green onions (optional)
 
 ## :cooking: Cookware
 

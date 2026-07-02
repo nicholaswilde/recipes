@@ -16,16 +16,16 @@ hero: assets/images/chili-paste.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 large onion
+- :tea: 1 large onion
 - :garlic: 10 cloves garlic
-- :hot_pepper: 1 lb fresh chillies
+- :herb: 1 lb fresh chillies
 - :chestnut: 3 cashews
-- :chestnut: 5 candlenuts (alternative)
-- :chestnut: 5 macadamia (alternative)
-- :candy: 1 tsp granulated sugar
+- 5 candlenuts (alternative)
+- 5 macadamia (alternative)
+- :candy: 1 tsp (4 g) granulated sugar
 - :salt: 1 tsp salt
 - :droplet: some water
-- :oil_drum: 0.5 cup (99 g) vegetable oil
+- :olive: 0.5 cup (99 g) vegetable oil
 
 ## :cooking: Cookware
 

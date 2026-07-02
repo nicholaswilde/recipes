@@ -15,16 +15,16 @@ hero: assets/images/sheet-pan-baked-feta-with-broccolini,-tomatoes-and-lemon.web
 
 ## :salt: Ingredients
 
-- :broccoli: 1 bunch broccolini, ends trimmed (or broccoli cut into bite-size pieces)
+- :glass_of_milk: 1 bunch broccolini, ends trimmed (or broccoli cut into bite-size pieces)
 - :tomato: 1 pint (approx. 340 g) grape tomatoes
-- :tea: 1 small red onion, cut into 2-inch wedges
-- :tangerine: 1 lemon, halved (1/2 sliced into thin rounds, 1/2 left intact for squeezing)
-- :olive: 3 Tbsp (38 g) olive oil, plus more for serving
-- :chestnut: 1 tsp ground cumin
-- :hot_pepper: 1/2 tsp red-pepper flakes
+- :baby_bottle: 1 small red onion, cut into 2-inch wedges
+- :bread: 1 lemon, halved (1/2 sliced into thin rounds, 1/2 left intact for squeezing)
+- :baby_bottle: 3 Tbsp (38 g) olive oil, plus more for serving
+- :chestnut: 1 tsp (3 g) ground cumin
+- :hot_pepper: 1/2 tsp (2 g) red-pepper flakes
 - :salt: kosher salt, to taste
 - :salt: freshly ground black pepper, to taste
-- :cheese_wedge: 2 blocks (6 to 8 oz / 170 to 225 g each) feta
+- :glass_of_milk: 2 blocks (6 to 8 oz / 170 to 225 g each) feta
 - :ear_of_rice: cooked orzo or farro, for serving
 - :herb: 1/2 cup (21 g) chopped fresh basil or cilantro
 

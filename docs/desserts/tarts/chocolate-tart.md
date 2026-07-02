@@ -17,11 +17,11 @@ hero: assets/images/chocolate-tart.webp
 
 ## :salt: Ingredients - Filling
 
-- :chocolate_bar: 8 oz bittersweet chocolate, chopped
-- :glass_of_milk: 1 cup heavy cream
-- :candy: 3 Tbsp granulated sugar
-- :butter: 3 Tbsp unsalted butter
-- :icecream: 1 tsp vanilla
+- :chestnut: 8 oz (170 g) bittersweet chocolate, chopped
+- :glass_of_milk: 1 cup (227 g) heavy cream
+- :candy: 3 Tbsp (37 g) granulated sugar
+- :butter: 3 Tbsp (42 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 pinch of salt
 
 ## :cooking: Cookware

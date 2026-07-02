@@ -16,17 +16,17 @@ hero: assets/images/mom's-breakfast-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 6 medium russet potatoes
-- :onion: 0.5 cup onion
+- :sweet_potato: 6 medium russet potatoes
+- :tea: 0.5 cup (48 g) onion
 - :butter: 4 Tbsp butter
-- :olive: 4 Tbsp olive oil
-- :herb: 1 tsp dill
-- :herb: 1 tsp chives
-- :garlic: 1 tsp garlic salt
+- :olive: 4 Tbsp (50 g) olive oil
+- :apple: 1 tsp dill
+- 1 tsp (1 g) chives
+- :salt: 1 tsp garlic salt
 - :salt: 1 tsp pepper
 - :salt: 0.5 tsp salt
 - :herb: 1 tsp parsley
-- :herb: 1 tsp Italian herbs
+- :herb: 1 tsp (2 g) Italian herbs
 
 ## :cooking: Cookware
 

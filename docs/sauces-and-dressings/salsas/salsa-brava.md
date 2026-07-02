@@ -18,11 +18,11 @@ hero: assets/images/salsa-brava.webp
 ## :salt: Ingredients
 
 - :tomato: 2 Roma or plum tomatoes
-- :hot_pepper: 2 jalapeños
+- 2 jalapeños
 - :tomato: 1 medium tomatillo
-- :onion: 0.5 medium onion
+- :tea: 0.5 medium onion
 - :garlic: 4 cloves garlic
-- :lemon: 1 lime juice
+- :tangerine: 1 lime juice
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

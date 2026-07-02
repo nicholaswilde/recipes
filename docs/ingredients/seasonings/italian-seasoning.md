@@ -17,12 +17,12 @@ hero: assets/images/italian-seasoning.webp
 
 ## :salt: Ingredients
 
-- :herb: 1.5 tsp dried oregano
-- :herb: 1 tsp dried marjoram
-- :herb: 1 tsp dried thyme
+- :herb: 1.5 tsp (4 g) dried oregano
+- :herb: 1 tsp (3 g) dried marjoram
+- :herb: 1 tsp (3 g) dried thyme
 - :herb: 0.5 tsp dried basil
-- :herb: 0.5 tsp dried rosemary
-- :herb: 0.5 tsp dried sage
+- :herb: 0.5 tsp (1 g) dried rosemary
+- :herb: 0.5 tsp (1 g) dried sage
 
 ## :pencil: Instructions
 

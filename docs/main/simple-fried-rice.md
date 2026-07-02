@@ -19,16 +19,16 @@ hero: assets/images/simple-fried-rice.webp
 ## :salt: Ingredients
 
 - :salt: 0.25 tsp salt
-- :carrot: 2 Tbsp vegetable oil
+- :olive: 2 Tbsp (25 g) vegetable oil
 - :egg: 3 large eggs
 - :carrot: 1 carrot
 - :salt: 0.25 tsp salt
-- :herb: 4 scallion whites
-- :rice: 4 cups jasmine rice
+- :beans: 4 scallion whites
+- :wine_glass: 4 cups (112 g) jasmine rice
 - :salt: 0.25 tsp pepper
 - :salt: 1 tsp salt
-- :green_circle: 0.5 cup frozen peas
-- :herb: 4 scallion greens
+- :beans: 0.5 cup (75 g) frozen peas
+- :leafy_green: 4 scallion greens
 
 ## :cooking: Cookware
 

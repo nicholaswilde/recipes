@@ -18,13 +18,13 @@ hero: assets/images/simple-sugar-cookies.webp
 
 ## :salt: Ingredients
 
-- :carrot: 0.5 cup (92 g) vegetable shortening
-- :candy: 0.67 cup (133 g) sugar
-- :glass_of_milk: 0.25 cup (57 g) [buttermilk][1]
-- :icecream: 1 Tbsp vanilla
-- :chestnut: 0.13 tsp nutmeg
-- :ear_of_rice: 2 cups flour
-- :cup_with_straw: 0.5 tsp baking soda
+- :butter: 0.5 cup (92 g) vegetable shortening
+- :candy: 0.67 cup (105 g) sugar
+- 0.25 cup [buttermilk][1]
+- :flower_playing_cards: 1 Tbsp vanilla
+- :apple: 0.13 tsp nutmeg
+- :bread: 2 cups (184 g) flour
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

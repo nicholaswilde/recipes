@@ -18,17 +18,17 @@ hero: assets/images/galette-des-rois.webp
 
 ## :salt: Ingredients
 
-- :butter: 100 g unsalted butter, softened
+- :baby_bottle: 100 g unsalted butter, softened
 - :candy: 100 g granulated sugar
 - :egg: 1 large egg
-- :chestnut: 100 g [almond flour][1]
+- 100 g [almond flour][1]
 - :flower_playing_cards: 1 tsp vanilla extract
-- :flower_playing_cards: 1/2 tsp almond extract
+- :flower_playing_cards: 1/2 tsp (3 g) almond extract
 - :salt: 1 pinch salt
-- :bread: 2 sheets (approx. 450 g) puff pastry
+- :dumpling: 2 sheets (approx. 450 g) puff pastry
 - :egg: 1 egg (for egg wash)
 - :droplet: 1 Tbsp water (for egg wash)
-- :chestnut: 1 fève (whole almond, bean, or small ceramic figure)
+- :glass_of_milk: 1 fève (whole almond, bean, or small ceramic figure)
 
 ## :cooking: Cookware
 

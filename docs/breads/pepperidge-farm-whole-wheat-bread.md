@@ -16,13 +16,13 @@ hero: assets/images/pepperidge-farm-whole-wheat-bread.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups (490 g) whole milk
-- :tea: 4.5 tsp (14 g) active dry yeast
-- :salt: 2 tsp (12 g) salt
-- :butter: 2 Tbsp (30 g) butter
-- :honey_pot: 0.5 cup (170 g) honey
-- :ear_of_rice: 0.25 cup (30 g) wheat germ
-- :bread: 6 cups (720 g) stone ground whole wheat flour
+- :glass_of_milk: 2 cups (454 g) whole milk
+- :tea: 4.5 tsp (6 g) active dry yeast
+- :salt: 2 tsp salt
+- :butter: 2 Tbsp butter
+- :honey_pot: 0.5 cup honey
+- :ear_of_rice: 0.25 cup (28 g) wheat germ
+- :bread: 6 cups (678 g) stone ground whole wheat flour
 - :butter: some unsalted shortening
 
 ## :cooking: Cookware

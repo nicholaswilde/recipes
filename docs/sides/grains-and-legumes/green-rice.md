@@ -18,13 +18,13 @@ hero: assets/images/green-rice.webp
 ## :salt: Ingredients
 
 - :leafy_green: 1 cup packed spinach
-- :herb: 0.25 cup packed cilantro
+- :chestnut: 0.25 cup (10 g) packed cilantro
 - :salt: 1 tsp salt
-- :droplet: 1.75 cup water
-- :olive: 1 Tbsp olive oil
-- :onion: 0.5 cup yellow onion
+- :droplet: 1.75 cup (397 g) water
+- :olive: 1 Tbsp (12 g) olive oil
+- :seedling: 0.5 cup (48 g) yellow onion
 - :garlic: 2 cloves garlic
-- :rice: 1 cup basmati rice
+- :baby_bottle: 1 cup (28 g) basmati rice
 
 ## :cooking: Cookware
 

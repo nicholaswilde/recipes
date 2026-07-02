@@ -17,11 +17,11 @@ hero: assets/images/vegan-banana-ice-cream.webp
 
 ## :salt: Ingredients
 
-- :banana: some bananas
-- :peanuts: some peanuts
-- :maple_leaf: some maple syrup (optional)
-- :chestnut: some pecans (optional)
-- :glass_of_milk: some real whipped cream (optional)
+- :apple: some bananas
+- :chestnut: some peanuts
+- :honey_pot: some maple syrup (optional)
+- :leafy_green: some pecans (optional)
+- :baby_bottle: some real whipped cream (optional)
 
 ## :cooking: Cookware
 

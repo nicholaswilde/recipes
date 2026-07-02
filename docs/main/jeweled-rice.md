@@ -15,24 +15,24 @@ hero: assets/images/jeweled-rice.webp
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (100 g) granulated sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :droplet: 1 cup (227 g) water
 - :tangerine: 1 orange zest
 - :carrot: 2 medium carrot
-- :chestnut: 0.25 cup (37 g) dates
-- :apple: 0.25 cup (37 g) raisins
-- :apple: 0.25 cup (30 g) dried cranberries
-- :olive: 1 Tbsp olive oil
-- :butter: 2 Tbsp unsalted butter
+- :grapes: 0.25 cup (37 g) dates
+- :grapes: 0.25 cup (37 g) raisins
+- :apple: 0.25 cup (28 g) dried cranberries
+- :olive: 1 Tbsp (12 g) olive oil
+- :butter: 2 Tbsp (28 g) unsalted butter
 - :tulip: 0.25 tsp saffron
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :seedling: 0.25 tsp cardamom
-- :curry: 0.25 tsp turmeric
-- :olive: 1 Tbsp olive oil
-- :ear_of_rice: 2 cups (395 g) basmati rice
-- :seedling: 0.25 cup (30 g) unsalted, shelled, and natural pistachios
+- :curry: 0.25 tsp (1 g) turmeric
+- :olive: 1 Tbsp (12 g) olive oil
+- :baby_bottle: 2 cups (56 g) basmati rice
+- :chestnut: 0.25 cup (36 g) unsalted, shelled, and natural pistachios
 - :droplet: 1 cup (227 g) water
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 
 ## :cooking: Cookware
 

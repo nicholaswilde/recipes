@@ -18,9 +18,9 @@ hero: assets/images/milk-glaze.webp
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (99 g) confectioners' sugar, sifted
-- :glass_of_milk: 2 tsp hot milk
-- :ice_cream: 0.25 tsp vanilla
+- :baby_bottle: 0.5 cup (56 g) confectioners' sugar, sifted
+- :droplet: 2 tsp (9 g) hot milk
+- :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -16,13 +16,13 @@ hero: assets/images/unsweetened-applesauce.webp
 
 ## :salt: Ingredients
 
-- :green_apple: 3 medium apples
+- :apple: 3 medium apples
 - :droplet: 0.67 cup (152 g) water
 - :candy: some granulated sugar (optional)
-- :lemon: 1 tsp lemon juice
-- :custard: 0.25 tsp cinnamon (optional)
-- :chestnut: 0.25 tsp nutmeg (optional)
-- :icecream: 0.25 tsp vanilla
+- :tangerine: 1 tsp (5 g) lemon juice
+- :chestnut: 0.25 tsp (1 g) cinnamon (optional)
+- :leafy_green: 0.25 tsp nutmeg (optional)
+- :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

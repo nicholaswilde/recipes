@@ -15,16 +15,16 @@ hero: assets/images/super-nourishing-beans-and-greens.webp
 
 ## :salt: Ingredients
 
-- :olive: 4 Tbsp olive oil
+- :olive: 4 Tbsp (50 g) olive oil
 - :garlic: 2 large shallot
 - :garlic: 8 cloves garlic
-- :hot_pepper: 1 tsp red pepper flakes
+- :hot_pepper: 1 tsp (4 g) red pepper flakes
 - :leafy_green: 2 bunches Swiss chard
-- :beans: 2 15-oz cans white beans
+- :glass_of_milk: 2 15-oz cans white beans
 - :salt: 1 tsp salt
-- :stew: 2 cups (455 g) water or [vegetable stock][2]
-- :tangerine: 2 Tbsp lemon juice
-- :cheese_wedge: some sriracha [tofu][3] (optional)
+- :baby_bottle: 2 cups (454 g) water or [vegetable stock][2]
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :hot_pepper: some sriracha [tofu][3] (optional)
 
 ## :cooking: Cookware
 

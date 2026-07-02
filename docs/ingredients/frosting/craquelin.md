@@ -19,8 +19,8 @@ hero: assets/images/craquelin.webp
 ## :salt: Ingredients
 
 - :butter: 210 g unsalted butter
-- :maple_leaf: 250 g light brown sugar
-- :ear_of_rice: 250 g all-purpose flour
+- :candy: 250 g light brown sugar
+- :bread: 250 g all-purpose flour
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

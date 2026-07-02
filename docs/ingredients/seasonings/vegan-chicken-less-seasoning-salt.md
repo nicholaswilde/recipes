@@ -17,7 +17,7 @@ hero: assets/images/vegan-chicken-less-seasoning-salt.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 cup onion powder
+- :chestnut: 1 cup (108 g) onion powder
 - :garlic: 0.5 cup garlic powder
 - :curry: 0.25 cup turmeric powder
 - :salt: 0.25 cup salt

@@ -19,10 +19,10 @@ hero: assets/images/dark-chocolate-mirror-glaze.webp
 ## :salt: Ingredients
 
 - :candy: 206 g granulated sugar
-- :icecream: 142 g heavy cream
-- :custard: 12 g gelatin, powdered
-- :ice_cube: 60 g cold water
-- :droplet: 148 g room temperature water
+- :glass_of_milk: 142 g heavy cream
+- :candy: 12 g gelatin, powdered
+- :baby_bottle: 60 g cold water
+- :baby_bottle: 148 g room temperature water
 - :chocolate_bar: 71 g unsweetened cocoa powder
 
 ## :cooking: Cookware

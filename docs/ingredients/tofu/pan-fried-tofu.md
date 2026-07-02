@@ -17,13 +17,13 @@ hero: assets/images/pan-fried-tofu.webp
 
 ## :salt: Ingredients
 
-- :butter: 12 oz tofu cubes
-- :takeout_box: 1 Tbsp tamari or soy sauce
+- :ice_cube: 12 oz tofu cubes
+- :apple: 1 Tbsp (14 g) tamari or soy sauce
 - :garlic: 0.5 tsp garlic powder
-- :onion: 0.5 tsp onion powder
-- :salt: 0.5 tsp black pepper
-- :corn: 6 Tbsp cornstarch
-- :olive: 2 Tbsp oil of choice
+- :chestnut: 0.5 tsp (1 g) onion powder
+- :salt: 0.5 tsp (2 g) black pepper
+- :chestnut: 6 Tbsp (42 g) cornstarch
+- :olive: 2 Tbsp (25 g) oil of choice
 
 ## :cooking: Cookware
 

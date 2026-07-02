@@ -18,12 +18,12 @@ hero: assets/images/salted-caramel-peanut-brittle.webp
 ## :salt: Ingredients
 
 - :candy: 2 cups (396 g) granulated sugar
-- :butter: 10 Tbsp salted butter
-- :corn: 0.33 cup (103 g) light corn syrup
-- :glass_of_milk: 0.33 cup whole milk
-- :icecream: 2 tsp vanilla bean paste
-- :cup_with_straw: 1.25 tsp baking soda
-- :peanuts: 3 cups (1008 g) honey roasted peanuts
+- :butter: 10 Tbsp (141 g) salted butter
+- :candy: 0.33 cup (103 g) light corn syrup
+- :glass_of_milk: 0.33 cup (75 g) whole milk
+- :hamburger: 2 tsp (11 g) vanilla bean paste
+- :chestnut: 1.25 tsp baking soda
+- :chestnut: 3 cups (426 g) honey roasted peanuts
 - :salt: 0.5 tsp Maldon salt
 
 ## :cooking: Cookware

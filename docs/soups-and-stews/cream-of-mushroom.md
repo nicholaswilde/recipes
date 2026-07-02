@@ -17,22 +17,22 @@ hero: assets/images/cream-of-mushroom.webp
 ## :salt: Ingredients
 
 - :butter: 50 g butter
-- :onion: 3 medium shallots
+- :garlic: 3 medium shallots
 - :mushroom: 500 g button mushrooms
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
 - :butter: 40 g unsalted butter
-- :ear_of_rice: 40 g all-purpose flour
-- :glass_of_milk: 800 ml whole milk
-- :fallen_leaf: 2 small bay leaves
-- :onion: 0.5 onion
-- :four_leaf_clover: 2 cloves
+- :bread: 40 g all-purpose flour
+- :glass_of_milk: 800 ml (768 g) whole milk
+- :herb: 2 small bay leaves
+- :tea: 0.5 onion
+- :chestnut: 2 cloves
 - :salt: 1 tsp salt
-- :salt: 0.5 tsp black pepper
-- :chestnut: 1 pinch nutmeg
-- :glass_of_milk: 3 oz milk
-- :icecream: 200 ml whipping cream
-- :bread: 6 croutons
+- :salt: 0.5 tsp (2 g) black pepper
+- :apple: 1 pinch nutmeg
+- :glass_of_milk: 3 oz (85 g) milk
+- :glass_of_milk: 200 ml (192 g) whipping cream
+- 6 croutons
 - :butter: 1 small nub butter
 - :herb: 1 tsp parsley
 - :wine_glass: 1 dash dry sherry or port wine (optional)

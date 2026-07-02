@@ -17,8 +17,8 @@ hero: assets/images/miso-glazed-carrots.webp
 
 ## :salt: Ingredients
 
-- :carrot: 1 cup carrots
-- :ramen: 1 [miso glaze][1]
+- :carrot: 1 cup (142 g) carrots
+- 1 [miso glaze][1]
 
 ## :cooking: Cookware
 

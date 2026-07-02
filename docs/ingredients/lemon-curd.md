@@ -17,11 +17,11 @@ hero: assets/images/lemon-curd.webp
 
 ## :salt: Ingredients
 
-- :lemon: 3 lemons
-- :candy: 1.5 cup (297 g) sugar
+- :tangerine: 3 lemons
+- :candy: 1.5 cup (234 g) sugar
 - :butter: 0.25 lb butter
 - :egg: 4 eggs
-- :lemon: 0.5 cup lemon juice
+- :tangerine: 0.5 cup (112 g) lemon juice
 - :salt: 0.13 tsp salt
 
 ## :cooking: Cookware

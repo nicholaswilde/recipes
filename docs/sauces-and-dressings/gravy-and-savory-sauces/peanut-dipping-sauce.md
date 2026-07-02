@@ -17,17 +17,17 @@ hero: assets/images/peanut-dipping-sauce.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: 2 tsp vegetable oil
+- :olive: 2 tsp (8 g) vegetable oil
 - :garlic: 4 cloves garlic
-- :sweet_potato: 1 tsp ginger
-- :hot_pepper: 0.5 tsp red pepper flakes
+- :sweet_potato: 1 tsp (3 g) ginger
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
 - :droplet: 1 cup (227 g) water
-- :takeout_box: 2 Tbsp soy sauce
-- :lemon: 2 Tbsp lime juice
-- :peanuts: 0.67 cup (90 g) chunky peanut butter
-- :maple_leaf: 1 Tbsp light brown sugar
-- :peanuts: 3 Tbsp unsalted roasted peanuts
-- :herb: 1 Tbsp mint
+- :takeout_box: 2 Tbsp (18 g) soy sauce
+- :tangerine: 2 Tbsp (28 g) lime juice
+- :chestnut: 0.67 cup (181 g) chunky peanut butter
+- :candy: 1 Tbsp (13 g) light brown sugar
+- :chestnut: 3 Tbsp (27 g) unsalted roasted peanuts
+- :shamrock: 1 Tbsp mint
 
 ## :cooking: Cookware
 

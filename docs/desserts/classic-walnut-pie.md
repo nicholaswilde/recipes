@@ -17,13 +17,13 @@ hero: assets/images/classic-walnut-pie.webp
 ## :salt: Ingredients
 
 - :egg: 3 eggs
-- :candy: 1 cup (198 g) sugar
-- :ear_of_rice: 2 Tbsp flour
-- :corn: 1 cup (312 g) light Karo corn syrup
+- :candy: 1 cup (156 g) sugar
+- :bread: 2 Tbsp (12 g) flour
+- :candy: 1 cup (312 g) light Karo corn syrup
 - :butter: 2 Tbsp butter
-- :ice_cream: 1 tsp vanilla
-- :pie: 1 unbaked pie shell
-- :chestnut: 1.5 cups walnuts
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 1 unbaked pie shell
+- :chestnut: 1.5 cups (192 g) walnuts
 
 ## :pencil: Instructions
 

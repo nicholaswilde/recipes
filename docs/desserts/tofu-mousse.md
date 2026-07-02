@@ -18,13 +18,13 @@ hero: assets/images/tofu-mousse.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 10-oz block silken tofu
-- :chocolate_bar: 2 tsp unsweetened cocoa powder
-- :maple_leaf: 4 Tbsp maple syrup
-- :chocolate_bar: 3.5 oz 70% dark chocolate
-- :microbe: some coconut yogurt (optional)
-- :cherries: some fresh raspberries (optional)
-- :chocolate_bar: some chocolate flakes (optional)
+- :custard: 1 10-oz block silken tofu
+- :chocolate_bar: 2 tsp (4 g) unsweetened cocoa powder
+- :honey_pot: 4 Tbsp (78 g) maple syrup
+- :chocolate_bar: 3.5 oz (74 g) 70% dark chocolate
+- :apple: some coconut yogurt (optional)
+- :apple: some fresh raspberries (optional)
+- :hot_pepper: some chocolate flakes (optional)
 
 ## :cooking: Cookware
 

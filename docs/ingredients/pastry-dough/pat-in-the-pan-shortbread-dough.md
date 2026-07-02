@@ -18,11 +18,11 @@ hero: assets/images/pat-in-the-pan-shortbread-dough.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
-- :candy: 0.33 cup (65 g) sugar
-- :lemon: 1 tsp lemon zest
+- :bread: 1.25 cups (150 g) all-purpose flour
+- :candy: 0.33 cup (51 g) sugar
+- :tangerine: 1 tsp (5 g) lemon zest
 - :salt: 0.25 tsp salt
-- :butter: 0.5 cup (114 g) unsalted butter
+- :butter: 0.5 cup (113 g) unsalted butter
 - :egg: 1 large egg yolk
 
 ## :cooking: Cookware

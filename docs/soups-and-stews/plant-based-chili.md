@@ -16,21 +16,21 @@ hero: assets/images/plant-based-chili.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: 2 Tbsp vegetable oil
-- :onion: 2 onions
-- :bell_pepper: 2 red bell peppers
+- :olive: 2 Tbsp (25 g) vegetable oil
+- :tea: 2 onions
+- :hot_pepper: 2 red bell peppers
 - :garlic: 4 cloves garlic
-- :hot_pepper: 1 Tbsp chili powder
-- :herb: 2 tsp cumin
-- :hot_pepper: 1 tsp chipotle in adobe sauce
+- :hot_pepper: 1 Tbsp (7 g) chili powder
+- :chestnut: 2 tsp (6 g) cumin
+- :taco: 1 tsp (5 g) chipotle in adobe sauce
 - :herb: 0.5 tsp oregano
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :cut_of_meat: 12 oz plant-based ground meat
-- :canned_food: 1 15-oz can kidney beans
-- :tomato: 1 28-oz can tomatoes
-- :tomato: 1 15-oz can tomato sauce
-- :droplet: 1 cup water
+- :glass_of_milk: 12 oz (144 g) plant-based ground meat
+- :glass_of_milk: 1 15-oz can kidney beans
+- :glass_of_milk: 1 28-oz can tomatoes
+- :apple: 1 15-oz can tomato sauce
+- :droplet: 1 cup (227 g) water
 
 ## :cooking: Cookware
 

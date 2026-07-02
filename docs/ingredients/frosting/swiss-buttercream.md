@@ -21,8 +21,8 @@ hero: assets/images/swiss-buttercream.webp
 
 - :egg: 4 large egg whites
 - :candy: 300 g granulated sugar
-- :butter: 400 g soft unsalted butter, cubed
-- :icecream: 1 tsp vanilla
+- :glass_of_milk: 400 g soft unsalted butter, cubed
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

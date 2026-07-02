@@ -20,20 +20,20 @@ hero: assets/images/cinnamon-spiced-shortbread.webp
 
 === "Shortbread"
 
-    - :butter: 1.5 cups (340 g) unsalted butter
+    - :butter: 1.5 cups (339 g) unsalted butter
     - :candy: 200 g granulated sugar
-    - :hotsprings: 1 Tbsp warm water
-    - :icecream: 1 tsp vanilla
-    - :ear_of_rice: 420 g all-purpose flour
-    - :custard: 2 tsp cinnamon
+    - :droplet: 1 Tbsp (14 g) warm water
+    - :flower_playing_cards: 1 tsp vanilla
+    - :bread: 420 g all-purpose flour
+    - :chestnut: 2 tsp (8 g) cinnamon
     - :salt: 1 tsp salt
 
 === "Sugar Coating"
 
     - :candy: 100 g granulated sugar
-    - :custard: 0.5 tsp cinnamon
-    - :chestnut: 0.5 tsp nutmeg
-    - :four_leaf_clover: 0.25 tsp cloves
+    - :chestnut: 0.5 tsp (2 g) cinnamon
+    - :apple: 0.5 tsp nutmeg
+    - :chestnut: 0.25 tsp cloves
 
 ## :cooking: Cookware
 

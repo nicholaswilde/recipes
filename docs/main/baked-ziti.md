@@ -17,10 +17,10 @@ hero: assets/images/baked-ziti.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 lb [penne pasta][2]
-- :spaghetti: 2 16-oz jars [marinara sauce][1]
-- :cheese_wedge: 16 oz mozzarella
-- :cheese_wedge: 1 16-oz container [ricotta][3]
+- 1 lb [penne pasta][2]
+- :glass_of_milk: 2 16-oz jars [marinara sauce][1]
+- :cheese_wedge: 16 oz (226 g) mozzarella
+- :glass_of_milk: 1 16-oz container [ricotta][3]
 - :cheese_wedge: 1 block Jack cheese
 
 ## :cooking: Cookware

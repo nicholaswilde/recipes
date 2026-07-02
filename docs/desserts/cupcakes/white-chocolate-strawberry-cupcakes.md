@@ -19,28 +19,28 @@ hero: assets/images/white-chocolate-strawberry-cupcakes.webp
 
 === "Cake"
 
-    - :strawberry: 0.25 cup [strawberry purée][1]
-    - :ear_of_rice: 207 g cake flour
-    - :dash: 1 tsp baking powder
-    - :cup_with_straw: 0.25 tsp baking soda
+    - 0.25 cup [strawberry purée][1]
+    - :bread: 207 g cake flour
+    - :chestnut: 1 tsp baking powder
+    - :chestnut: 0.25 tsp baking soda
     - :salt: 0.25 tsp salt
     - :butter: 115 g unsalted butter
     - :candy: 200 g granulated sugar
-    - :egg: 3 egg whites
-    - :rice: 60 g sour cream
-    - :icecream: 1.5 tsp vanilla
-    - :glass_of_milk: 80 ml milk
+    - :beans: 3 egg whites
+    - :glass_of_milk: 60 g sour cream
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :glass_of_milk: 80 ml (77 g) milk
 
 === "Frosting"
 
-    - :strawberry: 25 g freeze-dried strawberries
+    - :chestnut: 25 g freeze-dried strawberries
     - :chocolate_bar: 170 g white chocolate
     - :butter: 230 g unsalted butter
     - :candy: 240 g confectioners' sugar
-    - :glass_of_milk: 2 Tbsp heavy cream
-    - :icecream: 1 tsp vanilla
+    - :glass_of_milk: 2 Tbsp (28 g) heavy cream
+    - :flower_playing_cards: 1 tsp vanilla
     - :salt: 0.13 tsp salt
-    - :strawberry: some white chocolate covered strawberry (optional)
+    - :chocolate_bar: some white chocolate covered strawberry (optional)
 
 ## :cooking: Cookware
 

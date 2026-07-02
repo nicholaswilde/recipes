@@ -22,14 +22,14 @@ hero: assets/images/victoria-sandwich-cake.png
     - :egg: 3 medium eggs
     - :butter: 175 g unsalted butter
     - :candy: 175 g granulated sugar
-    - :ear_of_rice: 175 g [self-raising flour][2]
-    - :icecream: 0.75 tsp vanilla
-    - :hotsprings: 1 Tbsp warm water
+    - 175 g [self-raising flour][2]
+    - :flower_playing_cards: 0.75 tsp vanilla
+    - :droplet: 1 Tbsp (14 g) warm water
 
 === "Filling"
 
-    - :icecream: 150 ml whipping cream (optional)
-    - :strawberry: 6 Tbsp [raspberry jam][1]
+    - :glass_of_milk: 150 ml (180 g) whipping cream (optional)
+    - 6 Tbsp [raspberry jam][1]
     - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

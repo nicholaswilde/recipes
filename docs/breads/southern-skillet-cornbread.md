@@ -17,12 +17,12 @@ hero: assets/images/southern-skillet-cornbread.webp
 
 ## :salt: Ingredients
 
-- :olive: 0.25 cup (56 g) bacon drippings
-- :ear_of_rice: 2 cups (276 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
-- :chestnut: 0.5 tsp (3 g) baking soda
-- :egg: 2 large (100 g) eggs (lightly beaten)
-- :glass_of_milk: 1.5 cups (340 g) [buttermilk](../ingredients/buttermilk.md)
-- :butter: some butter (for serving)
+- :bacon: 0.25 cup bacon drippings
+- :ear_of_rice: 2 cups (326 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
+- :chestnut: 0.5 tsp baking soda
+- :baby_bottle: 2 large eggs (lightly beaten)
+- :icecream: 1.5 cups [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: some butter (for serving)
 
 ## :cooking: Cookware
 

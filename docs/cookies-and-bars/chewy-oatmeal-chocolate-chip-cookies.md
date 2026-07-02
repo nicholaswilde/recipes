@@ -23,23 +23,23 @@ hero: assets/images/chewy-oatmeal-chocolate-chip-cookies.webp
 - :bread: 1 cup (120 g) all-purpose flour
 - :bread: 0.75 cup (90 g) cake flour
 - :ear_of_rice: 2 cups (198 g) old fashioned oats
-- :chestnut: 1 tsp (3 g) cornstarch
-- :chestnut: 0.25 tsp (1 g) ground cinnamon (optional)
-- :chestnut: 0.25 tsp (1 g) ground nutmeg (optional)
-- :chestnut: 0.5 tsp (3 g) baking soda
-- :chestnut: 0.5 tsp (2 g) baking powder
-- :salt: 0.5 tsp (3 g) salt
+- :chestnut: 1 tsp (2 g) cornstarch
+- :bread: 0.25 tsp (1 g) ground cinnamon (optional)
+- :apple: 0.25 tsp ground nutmeg (optional)
+- :chestnut: 0.5 tsp baking soda
+- :chestnut: 0.5 tsp baking powder
+- :salt: 0.5 tsp salt
 - :butter: 0.5 cup (113 g) unsalted butter
-- :candy: 0.5 cup (107 g) brown sugar
+- :maple_leaf: 0.5 cup (106 g) brown sugar
 - :candy: 0.25 cup (50 g) granulated sugar
-- :egg: 1 large egg (50 g)
-- :egg: 1 large egg yolk (14 g)
+- :egg: 1 large egg
+- :egg: 1 large egg yolk
 - :candy: 1 Tbsp (21 g) molasses
-- :flower_playing_cards: 1 tsp (4 g) pure vanilla extract
-- :chocolate_bar: 2 cups (340 g) milk chocolate chips
-- :candy: 1 cup (113 g) confectioners sugar
+- :flower_playing_cards: 1 tsp pure vanilla extract
+- :chocolate_bar: 2 cups (354 g) milk chocolate chips
+- :candy: 1 cup (196 g) confectioners sugar
 - :glass_of_milk: 1.5 Tbsp (21 g) whole milk
-- :flower_playing_cards: 1 tsp (4 g) pure vanilla extract
+- :flower_playing_cards: 1 tsp pure vanilla extract
 
 ## :cooking: Cookware
 

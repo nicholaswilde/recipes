@@ -16,16 +16,16 @@ hero: assets/images/mom's-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 5 lbs Russet potatoes
-- :corn: 2 Tbsp cornstarch
-- :glass_of_milk: 2 cup milk
+- :sweet_potato: 5 lbs Russet potatoes
+- :chestnut: 2 Tbsp (14 g) cornstarch
+- :glass_of_milk: 2 cup (454 g) milk
 - :butter: 2 Tbsp butter
-- :cheese_wedge: 1 [béchamel][1] (alternative)
+- 1 [béchamel][1] (alternative)
 - :salt: 0.25 tsp pepper
-- :garlic: 1 tsp garlic salt
-- :cheese_wedge: 1 small Velveeta cheese, sliced
-- :cheese_wedge: 1.5 cups shredded share cheddar
-- :herb: some parsley flakes
+- :salt: 1 tsp garlic salt
+- :birthday: 1 small Velveeta cheese, sliced
+- :cheese_wedge: 1.5 cups (182 g) shredded share cheddar
+- :chestnut: some parsley flakes
 
 ## :cooking: Cookware
 

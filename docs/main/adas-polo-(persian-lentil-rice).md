@@ -15,18 +15,18 @@ hero: assets/images/adas-polo-(persian-lentil-rice).webp
 
 ## :salt: Ingredients
 
-- :beans: 1 cup (192 g) lentils
-- :apple: 1 cup (150 g) raisins
-- :apple: 1 cup (120 g) barberries
-- :droplet: 3 cups water
-- :olive: 2 Tbsp vegetable oil
-- :onion: 1 onion
+- :beans: 1 cup (210 g) lentils
+- :grapes: 1 cup (149 g) raisins
+- 1 cup barberries
+- :droplet: 3 cups (681 g) water
+- :olive: 2 Tbsp (25 g) vegetable oil
+- :tea: 1 onion
 - :salt: 0.5 tsp salt
-- :chestnut: 0.5 tsp cinnamon
-- :curry: 1 tsp turmeric
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :curry: 1 tsp (3 g) turmeric
 - :tulip: 2 pinches saffron
 - :salt: 1.5 tsp salt
-- :ear_of_rice: 2 cups (380 g) basmati rice
+- :baby_bottle: 2 cups (56 g) basmati rice
 - :tulip: 3 Tbsp saffron
 
 ## :cooking: Cookware

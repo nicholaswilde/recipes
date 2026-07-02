@@ -19,10 +19,10 @@ hero: assets/images/tomato-salad.webp
 
 - :herb: 1 small bunch basil
 - :salt: some salt
-- :salt: some paper
+- :bread: some paper
 - :garlic: 1 clove garlic
 - :olive: some olive oil
-- :sake: 1 splash white wine vinegar
+- :wine_glass: 1 splash white wine vinegar
 - :tomato: 300 g mixed cherry tomatoes
 
 ## :cooking: Cookware

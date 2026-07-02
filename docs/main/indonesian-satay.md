@@ -17,15 +17,15 @@ hero: assets/images/indonesian-satay.webp
 
 ## :salt: Ingredients
 
-- :lemon: 1 lemon
+- :tangerine: 1 lemon
 - :salt: 0.5 tsp pepper
 - :salt: 1 tsp salt
-- :herb: 0.5 tsp coriander
-- :herb: 0.5 tsp cumin
-- :maple_leaf: 6 Tbsp brown sugar
+- :chestnut: 0.5 tsp (1 g) coriander
+- :chestnut: 0.5 tsp (2 g) cumin
+- :maple_leaf: 6 Tbsp (80 g) brown sugar
 - :garlic: 3 cloves garlic
-- :takeout_box: 1.5 cups Indonesian sweet soy sauce (sweet medium ketchup)
-- :cut_of_meat: 2 lbs top sirloin
+- :apple: 1.5 cups (360 g) Indonesian sweet soy sauce (sweet medium ketchup)
+- 2 lbs top sirloin
 
 ## :cooking: Cookware
 

@@ -15,19 +15,19 @@ hero: assets/images/the-best-vegan-burger.webp
 
 ## :salt: Ingredients
 
-- :beans: 400 g [chickpeas][2]
-- :carrot: 340 g sweetcorn
-- :chestnut: 0.5 tsp coriander
-- :hot_pepper: 0.5 tsp paprika
-- :chestnut: 0.5 tsp cumin
-- :bread: 3 Tbsp flour
+- 400 g [chickpeas][2]
+- 340 g sweetcorn
+- :chestnut: 0.5 tsp (1 g) coriander
+- :candy: 0.5 tsp paprika
+- :chestnut: 0.5 tsp (2 g) cumin
+- :bread: 3 Tbsp (17 g) flour
 - :salt: 1 pinch sea salt
 - :tangerine: 1 lemon zest
 - :olive: some rapeseed oil
-- :leafy_green: 1 small lettuce
+- :cheese_wedge: 1 small lettuce
 - :tomato: 2 large tomatoes
-- :tomato: some ketchup
-- :bread: 4 burger buns
+- some ketchup
+- 4 burger buns
 
 ## :cooking: Cookware
 

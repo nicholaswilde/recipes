@@ -15,11 +15,11 @@ tags:
 ## :salt: Ingredients
 
 - :butter: 1 Tbsp butter
-- :bread: 2 slices crusty bread
-- :cucumber: 2 Tbsp [Branston Pickle Copycat](../sauces-and-dressings/gravy-and-savory-sauces/branston-pickle-copycat.md)
-- :cheese_wedge: 2 ounces aged cheddar cheese
+- :potato: 2 slices crusty bread
+- :tangerine: 2 Tbsp [Branston Pickle Copycat](../sauces-and-dressings/gravy-and-savory-sauces/branston-pickle-copycat.md)
+- :cheese_wedge: 2 ounces (28 g) aged cheddar cheese
 - :tomato: 1 small tomato
-- :leafy_green: 2 leaves lettuce
+- :cheese_wedge: 2 leaves lettuce
 
 ## :cooking: Cookware
 

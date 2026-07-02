@@ -17,8 +17,8 @@ hero: assets/images/vanilla-extract.webp
 
 ## :salt: Ingredients
 
-- :icecream: 3 vanilla beans
-- :tumbler_glass: 2 oz vodka or bourbon
+- :apple: 3 vanilla beans
+- :tangerine: 2 oz vodka or bourbon
 
 ## :cooking: Cookware
 

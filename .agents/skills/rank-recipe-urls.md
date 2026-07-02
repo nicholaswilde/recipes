@@ -9,9 +9,11 @@ This skill extracts structured recipe schema metadata (rating value, review/rati
 ## Protocol
 
 ### 1. Collect Recipe URLs
+
 Identify a list of recipe URLs you want to compare (for example, from a search page or different recipe blogs).
 
 ### 2. Invoke the Script
+
 Run the URL ranker script by passing the URLs as arguments:
 
 ```bash
@@ -25,7 +27,9 @@ cat urls.txt | uv run python3 scripts/rank_recipe_urls.py
 ```
 
 ### 3. Review and Select the Best Recipe
+
 The script will print a ranked table showing:
+
 - Raw Rating
 - Number of Reviews/Votes
 - Weighted Bayesian Average Rating

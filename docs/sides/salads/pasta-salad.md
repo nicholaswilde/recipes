@@ -17,17 +17,17 @@ hero: assets/images/pasta-salad.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 lb pasta salad pasta
-- :garlic: some garlic salt
-- :onion: some onion powder
+- :ribbon: 1 lb pasta salad pasta
+- :salt: some garlic salt
+- :chestnut: some onion powder
 - :salt: some salt
-- :salt: some [Italian seasoning][1]
-- :broccoli: 0.5 cup broccoli
-- :olive: 2 Tbsp olives
+- some [Italian seasoning][1]
+- :broccoli: 0.5 cup (46 g) broccoli
+- :olive: 2 Tbsp (18 g) olives
 - :tomato: 1 roasted tomato
-- :onion: 0.5 red onion
+- :tea: 0.5 red onion
 - :garlic: 1 tsp garlic
-- :cut_of_meat: some slices of salami or ham
+- :bacon: some slices of salami or ham
 - :cheese_wedge: some slices of provolone cheese
 - :herb: 1 cruet Good Seasons Italian dressing
 

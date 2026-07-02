@@ -16,13 +16,13 @@ hero: assets/images/dutch-baby.webp
 ## :salt: Ingredients
 
 - :egg: 3 eggs
-- :bread: 0.5 cup all-purpose flour
-- :glass_of_milk: 0.5 cup milk
-- :candy: 1 Tbsp sugar
-- :chestnut: 1 pinch nutmeg
-- :butter: 4 Tbsp unsalted butter
-- :honey_pot: some syrup
-- :strawberry: some preserves
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :glass_of_milk: 0.5 cup (114 g) milk
+- :candy: 1 Tbsp (10 g) sugar
+- :apple: 1 pinch nutmeg
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :candy: some syrup
+- some preserves
 - :candy: some confectioner's sugar
 - :candy: some cinnamon sugar
 

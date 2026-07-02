@@ -15,16 +15,16 @@ hero: assets/images/the-casado-plate.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: some [Jose Guevara's Gallo Pinto][2]
-- :leafy_green: some [Hearts of Palm Ceviche][3]
-- :tangerine: some [Fried Green Plantains][4]
-- :hot_pepper: some [Chilero Hot Sauce][5]
-- :bread: some [Nixtamal Tortillas][6]
-- :carrot: some corn (optional)
-- :avocado: some sliced avocado (optional)
-- :herb: some chopped cilantro (optional)
+- :stuffed_flatbread: some [Jose Guevara's Gallo Pinto][2]
+- some [Hearts of Palm Ceviche][3]
+- :beans: some [Fried Green Plantains][4]
+- :baby_bottle: some [Chilero Hot Sauce][5]
+- some [Nixtamal Tortillas][6]
+- :bread: some corn (optional)
+- :apple: some sliced avocado (optional)
+- :apple: some chopped cilantro (optional)
 - :leafy_green: some lettuce (optional)
-- :tomato: some tomatoes (optional)
+- :leafy_green: some tomatoes (optional)
 
 ## :cooking: Cookware
 

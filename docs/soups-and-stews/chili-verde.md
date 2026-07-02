@@ -17,16 +17,16 @@ hero: assets/images/chili-verde.webp
 
 ## :salt: Ingredients
 
-- :onion: 2 medium brown onions
+- :tea: 2 medium brown onions
 - :garlic: 4 cloves garlic
 - :hot_pepper: 4 green chilis
-- :hot_pepper: 2 small cans canned green chilis (alternative)
-- :cut_of_meat: 2 lbs pork tenderloin cubes
+- :tea: 2 small cans canned green chilis (alternative)
+- :ice_cube: 2 lbs pork tenderloin cubes
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :garlic: 1 tsp garlic salt
-- :onion: 1 tsp onion powder
-- :canned_food: 1 can green chili sauce
+- :salt: 1 tsp garlic salt
+- :chestnut: 1 tsp (2 g) onion powder
+- :hot_pepper: 1 can green chili sauce
 
 ## :cooking: Cookware
 

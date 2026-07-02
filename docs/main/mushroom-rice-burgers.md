@@ -15,16 +15,16 @@ hero: assets/images/mushroom-rice-burgers.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 2 cloves garlic
-- :mushroom: 8 oz white mushrooms
-- :ear_of_rice: 1 cup (170 g) cooked [brown rice][2]
-- :ear_of_rice: 0.5 cup (50 g) quick oats
-- :cheese_wedge: 0.75 cup (85 g) cheddar cheese
-- :egg: 1 [egg][3]
+- :mushroom: 8 oz (106 g) white mushrooms
+- :apple: 1 cup (255 g) cooked [brown rice][2]
+- :ear_of_rice: 0.5 cup (44 g) quick oats
+- :cheese_wedge: 0.75 cup (86 g) cheddar cheese
+- 1 [egg][3]
 - :salt: some salt
 - :salt: some pepper
-- :bread: 3 Tbsp bread crumbs
+- :potato: 3 Tbsp (21 g) bread crumbs
 
 ## :cooking: Cookware
 

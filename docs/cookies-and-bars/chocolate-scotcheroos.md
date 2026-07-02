@@ -19,11 +19,11 @@ hero: assets/images/chocolate-scotcheroos.webp
 ## :salt: Ingredients
 
 - :candy: 1 cup (198 g) granulated sugar
-- :corn: 1 cup (312 g) light corn syrup
-- :peanuts: 1 cup (135 g) [peanut butter][1]
-- :bowl_with_spoon: 6 cups (168 g) Rice Krispies
+- :candy: 1 cup (312 g) light corn syrup
+- 1 cup [peanut butter][1]
+- :wine_glass: 6 cups (168 g) Rice Krispies
 - :chocolate_bar: 1 cup (170 g) chocolate chips
-- :icecream: 1 cup (227 g) butterscotch chips
+- :ribbon: 1 cup (177 g) butterscotch chips
 
 ## :cooking: Cookware
 

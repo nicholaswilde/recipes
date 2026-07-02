@@ -18,14 +18,14 @@ hero: assets/images/chickpea-and-leek-soup.webp
 
 ## :salt: Ingredients
 
-- :beans: 12 oz (340 g) chickpeas, dried (or 2 cans 14 oz)
+- :baby_bottle: 12 oz (168 g) chickpeas, dried (or 2 cans 14 oz)
 - :droplet: water
 - :sweet_potato: 1 medium potato
 - :stew: stock
-- :olive: 1 Tbsp (14 g) olive oil
-- :butter: 1 knob (14 g) butter
-- :onion: 5 medium leeks
-- :garlic: 2 garlic cloves
+- :olive: 1 Tbsp (12 g) olive oil
+- :butter: 1 knob butter
+- :tea: 5 medium leeks
+- :chestnut: 2 garlic cloves
 - :salt: salt
 - :stew: 1.5 pints (850 ml) chicken or vegetable stock
 - :salt: freshly ground black pepper

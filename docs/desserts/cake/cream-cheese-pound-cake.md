@@ -18,13 +18,13 @@ hero: assets/images/cream-cheese-pound-cake.webp
 
 ## :salt: Ingredients
 
-- :butter: 1.5 cups (340 g) unsalted butter
-- :cheese_wedge: 8 oz cream cheese
+- :butter: 1.5 cups (339 g) unsalted butter
+- :cheese_wedge: 8 oz (227 g) cream cheese
 - :candy: 2.75 cups (544 g) granulated sugar
 - :egg: 6 large eggs
-- :ear_of_rice: 3 cups cake flour
+- :bread: 3 cups (360 g) cake flour
 - :salt: 0.5 tsp salt
-- :icecream: 1 Tbsp vanilla
+- :flower_playing_cards: 1 Tbsp vanilla
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

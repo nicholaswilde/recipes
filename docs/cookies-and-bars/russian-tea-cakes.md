@@ -17,12 +17,12 @@ hero: assets/images/russian-tea-cakes.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (227 g) butter, softened
-- :candy: 0.5 cup (99 g) confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 2.25 cups flour
+- :baby_bottle: 1 cup (226 g) butter, softened
+- :candy: 0.5 cup (56 g) confectioners' sugar
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 2.25 cups (207 g) flour
 - :salt: 0.25 tsp salt
-- :chestnut: 0.75 cup finely chopped walnuts
+- :beans: 0.75 cup (85 g) finely chopped walnuts
 
 ## :cooking: Cookware
 

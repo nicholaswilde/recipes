@@ -17,18 +17,18 @@ hero: assets/images/tante-myrn's-split-pea-soup.webp
 
 ## :salt: Ingredients
 
-- :green_circle: 1 pkg green peas
+- :beans: 1 pkg green peas
 - :carrot: 3 carrots
 - :leafy_green: 3 stalks celery
-- :onion: 1 onion
+- :tea: 1 onion
 - :garlic: 2 cloves garlic
-- :potato: 2 potatoes
-- :meat_on_bone: 1 ham bone or ham hock
+- :sweet_potato: 2 potatoes
+- 1 ham bone or ham hock
 - :salt: 1 tsp salt
 - :herb: 0.5 tsp marjoram
 - :salt: 0.5 tsp pepper
-- :leafy_green: 0.5 tsp [celery salt][1]
-- :cut_of_meat: 1 cup ham pieces
+- 0.5 tsp [celery salt][1]
+- :bread: 1 cup (284 g) ham pieces
 
 ## :cooking: Cookware
 

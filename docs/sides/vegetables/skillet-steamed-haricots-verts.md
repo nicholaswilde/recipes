@@ -17,10 +17,10 @@ hero: assets/images/skillet-steamed-haricots-verts.webp
 
 ## :salt: Ingredients
 
-- :cucumber: 12 oz haricots verts
-- :ice_cube: 0.25 cup water
+- 12 oz haricots verts
+- :droplet: 0.25 cup (57 g) water
 - :salt: 0.25 tsp salt
-- :butter: 1 Tbsp unsalted butter
+- :butter: 1 Tbsp (14 g) unsalted butter
 - :garlic: 1 Tbsp shallot
 
 ## :cooking: Cookware

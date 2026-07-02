@@ -18,14 +18,14 @@ hero: assets/images/summer-pesto-pasta.webp
 
 ## :salt: Ingredients
 
-- :corn: 2 ears shucked corn
-- :cucumber: 1 medium yellow squash
-- :cucumber: 1 medium zucchini
-- :bell_pepper: 1 bell pepper
-- :onion: 4 green onions
+- :bread: 2 ears shucked corn
+- :seedling: 1 medium yellow squash
+- 1 medium zucchini
+- :salt: 1 bell pepper
+- :tea: 4 green onions
 - :tomato: 1 pint grape tomatoes
-- :herb: 0.5 cup store-bought [pesto][1]
-- :lemon: 1 lemon
+- 0.5 cup (62 g) store-bought [pesto][1]
+- :tangerine: 1 lemon
 
 ## :cooking: Cookware
 

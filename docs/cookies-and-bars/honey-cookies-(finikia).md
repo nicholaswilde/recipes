@@ -18,19 +18,19 @@ hero: assets/images/honey-cookies-(finikia).webp
 
 ## :salt: Ingredients
 
-- :orange_circle: 0.75 cup orange juice
-- :honey_pot: 0.75 cup (252 g) honey
-- :lemon: 0.5 lemon juice
-- :lemon: 1 Tbsp lemon zest
-- :icecream: 1 tsp vanilla
+- :tangerine: 0.75 cup (168 g) orange juice
+- :honey_pot: 0.75 cup honey
+- :tangerine: 0.5 lemon juice
+- :tangerine: 1 Tbsp (14 g) lemon zest
+- :flower_playing_cards: 1 tsp vanilla
 - :tumbler_glass: 1.5 oz cognac or rum
 - :olive: 0.75 cup (150 g) olive oil
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 1 tsp baking powder
-- :ear_of_rice: 3.5 cups (420 g) all-purpose flour
-- :four_leaf_clover: 1 pinch cloves
-- :custard: 2 tsp cinnamon
-- :chestnut: 1 tsp nutmeg
+- :chestnut: 1 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :bread: 3.5 cups (420 g) all-purpose flour
+- :chestnut: 1 pinch cloves
+- :chestnut: 2 tsp (8 g) cinnamon
+- :apple: 1 tsp nutmeg
 
 ## :cooking: Cookware
 

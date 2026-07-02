@@ -17,15 +17,15 @@ hero: assets/images/greens-and-grains-bowls.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4 cups cooked brown rice
-- :sweet_potato: 4 cups cooked sweet potato
-- :beans: 1 15-oz can [black beans][1]
-- :hot_pepper: 2 cups chopped bell pepper
-- :leafy_green: 6 cups raw spinach or kale
+- :ear_of_rice: 4 cups (680 g) cooked brown rice
+- :sweet_potato: 4 cups (680 g) cooked sweet potato
+- :glass_of_milk: 1 15-oz can [black beans][1]
+- :hot_pepper: 2 cups (284 g) chopped bell pepper
+- :chestnut: 6 cups (1188 g) raw spinach or kale
 - :avocado: 1 avocado
 - :herb: some cilantro
-- :lemon: some lime wedges
-- :sauce: some [creamy tahini dressing][2]
+- :tangerine: some lime wedges
+- :seedling: some [creamy tahini dressing][2]
 
 ## :cooking: Cookware
 

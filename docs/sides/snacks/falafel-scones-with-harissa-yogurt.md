@@ -16,16 +16,16 @@ hero: assets/images/falafel-scones-with-harissa-yogurt.png
 
 ## :salt: Ingredients
 
-- :baby_bottle: 1 cup (227 g) Greek yogurt
-- :hot_pepper: 2 tsp harissa
-- :beans: 1 cup TJ's falafel mix
-- :bread: 1 cup flour
-- :candy: 3 Tbsp sugar
+- :glass_of_milk: 1 cup (227 g) Greek yogurt
+- :tomato: 2 tsp harissa
+- :corn: 1 cup (112 g) TJ's falafel mix
+- :bread: 1 cup (92 g) flour
+- :candy: 3 Tbsp (29 g) sugar
 - :chestnut: 4 tsp baking powder
-- :butter: 0.5 cup (114 g) unsalted butter
+- :butter: 0.5 cup (113 g) unsalted butter
 - :egg: 2 large eggs
-- :glass_of_milk: 0.5 cup heavy cream
-- :tomato: 0.5 cup sun-dried tomatoes
+- :glass_of_milk: 0.5 cup (114 g) heavy cream
+- :tea: 0.5 cup (85 g) sun-dried tomatoes
 - :hot_pepper: 0.5 red bell pepper
 
 ## :cooking: Cookware

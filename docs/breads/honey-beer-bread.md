@@ -17,13 +17,13 @@ hero: assets/images/honey-beer-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 cups (360 g) flour
-- :candy: 2 Tbsp sugar
-- :dash: 1 Tbsp baking powder
+- :bread: 3 cups (276 g) flour
+- :candy: 2 Tbsp (20 g) sugar
+- :chestnut: 1 Tbsp baking powder
 - :salt: 1 tsp salt
-- :beer: 1 12-oz bottle beer
-- :honey_pot: 2 Tbsp (42 g) honey
-- :butter: 4 Tbsp (57 g) butter
+- :glass_of_milk: 1 12-oz bottle beer
+- :honey_pot: 2 Tbsp honey
+- :butter: 4 Tbsp butter
 
 ## :cooking: Cookware
 

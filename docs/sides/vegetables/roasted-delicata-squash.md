@@ -16,8 +16,8 @@ hero: assets/images/roasted-delicata-squash.webp
 
 ## :salt: Ingredients
 
-- :cucumber: 1 large delicata squash
-- :olive: 1 Tbsp olive oil
+- 1 large delicata squash
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: 1 tsp salt
 - :hot_pepper: 0.13 tsp cayenne pepper
 

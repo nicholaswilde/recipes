@@ -18,25 +18,25 @@ hero: assets/images/conchas-(mexican-pan-dulce).webp
 
 === "Dough"
 
-    - :droplet: 3 Tbsp warm water
-    - :microbe: 2.5 tsp active dry yeast
-    - :carrot: 1 Tbsp vegetable oil
-    - :butter: 0.5 cup (114 g) melted butter
+    - :droplet: 3 Tbsp (43 g) warm water
+    - :tea: 2.5 tsp (3 g) active dry yeast
+    - :olive: 1 Tbsp (12 g) vegetable oil
+    - :glass_of_milk: 0.5 cup (136 g) melted butter
     - :candy: 0.33 cup (65 g) granulated sugar
-    - :glass_of_milk: 0.75 cup [evaporated][1] or whole milk
+    - :glass_of_milk: 0.75 cup (75 g) [evaporated][1] or whole milk
     - :salt: 2 tsp salt
-    - :icecream: 2 tsp vanilla
-    - :custard: 2 tsp ground cinnamon
+    - :flower_playing_cards: 2 tsp vanilla
+    - :chestnut: 2 tsp (6 g) ground cinnamon
     - :egg: 2 large eggs
-    - :ear_of_rice: 4 cups (480 g) all-purpose flour
+    - :bread: 4 cups (480 g) all-purpose flour
 
 === "Topping"
 
-    - :butter: 0.5 cup (114 g) unsalted butter
+    - :butter: 0.5 cup (113 g) unsalted butter
     - :candy: 0.67 cup (133 g) granulated sugar
-    - :ear_of_rice: 1 cup (120 g) all-purpose flour
-    - :icecream: 1 tsp vanilla
-    - :chocolate_bar: 2 tsp unsweetened cocoa powder
+    - :bread: 1 cup (120 g) all-purpose flour
+    - :flower_playing_cards: 1 tsp vanilla
+    - :chocolate_bar: 2 tsp (4 g) unsweetened cocoa powder
 
 ## :cooking: Cookware
 

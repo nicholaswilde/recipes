@@ -23,7 +23,7 @@ hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 
 - :sweet_potato: some ginger
 - :garlic: 4 garlic
-- :coconut: 1 coconut milk
+- :glass_of_milk: 1 coconut milk
 - :takeout_box: 1 Tbsp (9 g) soy sauce
 - :curry: some curry powder
 - :mushroom: 12 oz (117 g) mixed mushrooms

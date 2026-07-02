@@ -22,24 +22,24 @@ hero: assets/images/chocolate-muffins.webp
 
     - :butter: 113 g unsalted butter
     - :candy: 1 cup (198 g) granulated sugar
-    - :oil_drum: 0.5 cup canola oil
-    - :icecream: 1 Tbsp vanilla
+    - :droplet: 0.5 cup (113 g) canola oil
+    - :flower_playing_cards: 1 Tbsp vanilla
     - :egg: 3 large eggs
-    - :chocolate_bar: 1 3.9-oz box dry chocolate pudding
-    - :ear_of_rice: 1.5 cups cake flour
-    - :cup_with_straw: 1 tsp baking soda
-    - :dash: 1.5 tsp baking powder
+    - :bread: 1 3.9-oz box dry chocolate pudding
+    - :bread: 1.5 cups (180 g) cake flour
+    - :chestnut: 1 tsp baking soda
+    - :chestnut: 1.5 tsp baking powder
     - :salt: 1.5 tsp kosher salt
-    - :chocolate_bar: 0.5 cup dark cocoa powder
-    - :rice: 1 cup (227 g) sour cream
-    - :glass_of_milk: 0.33 cup (75 g) [buttermilk](../ingredients/buttermilk.md)
-    - :chocolate_bar: 1.5 cups semi-sweet chocolate chunks
+    - :chocolate_bar: 0.5 cup (72 g) dark cocoa powder
+    - :glass_of_milk: 1 cup (227 g) sour cream
+    - :icecream: 0.33 cup [buttermilk](../ingredients/buttermilk.md)
+    - :chestnut: 1.5 cups (255 g) semi-sweet chocolate chunks
 
 === "Ganache"
 
-    - :chocolate_bar: 1.25 cups (212 g) bittersweet chocolate chips
+    - :chestnut: 1.25 cups (212 g) bittersweet chocolate chips
     - :glass_of_milk: 1 14-oz can condensed milk
-    - :icecream: 0.25 tsp vanilla
+    - :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -15,19 +15,19 @@ hero: assets/images/spinach-artichoke-tarte-soleil.webp
 
 ## :salt: Ingredients
 
-- :flatbread: 2 sheets puff pastry
-- :leafy_green: 1 10-oz pkg spinach
-- :deciduous_tree: 1 14-oz can artichokes
-- :deciduous_tree: 1 10-oz pkg artichoke hearts (alternative)
+- :dumpling: 2 sheets puff pastry
+- :glass_of_milk: 1 10-oz pkg spinach
+- :baby_bottle: 1 14-oz can artichokes
+- :leafy_green: 1 10-oz pkg artichoke hearts (alternative)
 - :cheese_wedge: 0.5 5.2-oz pkg Boursin garlic and fine herbs cheese
-- :cheese_wedge: 0.25 cup shredded Parmesan
-- :herb: 0.25 cup dill
-- :lemon: 2 tsp lemon zest
+- :coconut: 0.25 cup (30 g) shredded Parmesan
+- :apple: 0.25 cup dill
+- :tangerine: 2 tsp (9 g) lemon zest
 - :salt: 0.25 tsp salt
 - :salt: some pepper
 - :egg: 1 large egg
-- :droplet: 1 tsp water
-- :leafy_green: 1 Tbsp sesame seeds
+- :droplet: 1 tsp (5 g) water
+- :seedling: 1 Tbsp (9 g) sesame seeds
 
 ## :cooking: Cookware
 

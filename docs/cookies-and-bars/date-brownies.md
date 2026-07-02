@@ -20,12 +20,12 @@ hero: assets/images/date-brownies.webp
 - :grapes: 1 cup (149 g) Medjool dates
 - :droplet: 1 cup (227 g) hot water
 - :droplet: 3 Tbsp (43 g) soaking water
-- :ear_of_rice: 0.33 cup (33 g) rolled oats
+- :ear_of_rice: 0.33 cup (37 g) rolled oats
 - :olive: 3 Tbsp (38 g) olive oil
 - :egg: 2 eggs
-- :flower_playing_cards: 1 tsp (5 g) vanilla extract
+- :flower_playing_cards: 1 tsp vanilla extract
 - :chocolate_bar: 0.25 cup (21 g) unsweetened cocoa powder
-- :salt: 0.5 tsp (3 g) sea salt
+- :salt: 0.5 tsp sea salt
 - :chocolate_bar: 1 cup (177 g) dark chocolate chips
 - :chocolate_bar: 0.25 cup (44 g) dark chocolate chips
 - :salt: some sea salt

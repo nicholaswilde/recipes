@@ -16,15 +16,15 @@ hero: assets/images/a-very-popular-bbq-sauce.webp
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.5 cup (320 g) [brown sugar][1]
-- :tomato: 1.5 cup [ketchup][2]
-- :wine_glass: 0.5 cup red wine vinegar
+- 1.5 cup [brown sugar][1]
+- 1.5 cup [ketchup][2]
+- :wine_glass: 0.5 cup (105 g) red wine vinegar
 - :droplet: 0.5 cup (114 g) water
-- :sake: 1 Tbsp Worcestershire sauce
-- :hotdog: 2.5 Tbsp [mustard][3]
-- :hot_pepper: 2 tsp paprika
+- :apple: 1 Tbsp (14 g) Worcestershire sauce
+- 2.5 Tbsp [mustard][3]
+- :candy: 2 tsp paprika
 - :salt: 2 tsp salt
-- :salt: 1.5 tsp black pepper
+- :salt: 1.5 tsp (5 g) black pepper
 - :hot_pepper: 2 dashes hot pepper sauce
 
 ## :cooking: Cookware

@@ -18,7 +18,7 @@ hero: assets/images/bravetart-brownies.webp
 ## :salt: Ingredients
 
 - :butter: 340 g unsalted butter
-- :chestnut: 170 g finely chopped dark chocolate, about 72%
+- :chocolate_bar: 170 g finely chopped dark chocolate, about 72%
 - :candy: 450 g granulated sugar
 - :candy: 55 g light brown sugar
 - :salt: 4 g Diamond Crystal kosher salt

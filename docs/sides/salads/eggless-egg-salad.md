@@ -18,16 +18,16 @@ hero: assets/images/eggless-egg-salad.webp
 ## :salt: Ingredients
 
 - :cheese_wedge: 1 pkg firm tofu
-- :leafy_green: 0.5 stalk celery plug leaves
+- :herb: 0.5 stalk celery plug leaves
 - :garlic: 1 clove shallot
-- :herb: 0.25 tsp dry dill
-- :herb: 0.5 tsp fresh dill
-- :curry: 0.5 tsp turmeric
+- :apple: 0.25 tsp (1 g) dry dill
+- :apple: 0.5 tsp fresh dill
+- :curry: 0.5 tsp (2 g) turmeric
 - :seedling: 1 tsp Dijon mustard
-- :cucumber: 2 tsp dill pickle relish
-- :onion: 0.25 tsp onion powder
+- :tangerine: 2 tsp dill pickle relish
+- :chestnut: 0.25 tsp (1 g) onion powder
 - :garlic: 0.25 tsp garlic powder
-- :baby_bottle: 0.25 cup [mayonnaise][1]
+- 0.25 cup [mayonnaise][1]
 - :salt: some sea salt
 - :curry: some turmeric
 

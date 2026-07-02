@@ -20,13 +20,13 @@ hero: assets/images/ricotta-fritters.webp
 ## :salt: Ingredients
 
 - :egg: 1 egg
-- :cheese_wedge: 14 oz [ricotta](../ingredients/ricotta.md)
-- :chestnut: 0.25 tsp nutmeg
-- :lemon: 1 lemon zest
-- :cheese_wedge: 1.5 oz Parmesan
-- :ear_of_rice: 1 heaped Tbsp flour
-- :oil: 1 Tbsp olive oil
-- :tomato: some [marinara][1]
+- :blue_circle: 14 oz [ricotta](../ingredients/ricotta.md)
+- :apple: 0.25 tsp nutmeg
+- :tangerine: 1 lemon zest
+- :cheese_wedge: 1.5 oz (19 g) Parmesan
+- :bread: 1 heaped Tbsp flour
+- :olive: 1 Tbsp (12 g) olive oil
+- some [marinara][1]
 
 ## :cooking: Cookware
 

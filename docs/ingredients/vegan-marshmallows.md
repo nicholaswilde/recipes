@@ -17,15 +17,15 @@ hero: assets/images/vegan-marshmallows.webp
 
 ## :salt: Ingredients
 
-- :yellow_circle: 1.5 cups aquafaba
-- :rice: 0.5 tsp cream of tartar
-- :candy: 2 tsp xanthan gum
-- :candy: 2 cups (396 g) sugar
-- :dash: 2 tsp agar powder
+- :baby_bottle: 1.5 cups aquafaba
+- :glass_of_milk: 0.5 tsp (3 g) cream of tartar
+- 2 tsp xanthan gum
+- :candy: 2 cups (312 g) sugar
+- :glass_of_milk: 2 tsp (4 g) agar powder
 - :droplet: 0.5 cup (114 g) water
-- :icecream: 1 vanilla bean
-- :icecream: 1 tsp vanilla
-- :potato: 0.5 cup tapioca or potato starch
+- :hamburger: 1 vanilla bean
+- :flower_playing_cards: 1 tsp vanilla
+- :apple: 0.5 cup (56 g) tapioca or potato starch
 
 ## :cooking: Cookware
 

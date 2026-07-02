@@ -13,8 +13,8 @@ A common vegan substitute for a single egg in baking.
 
 ## :salt: Ingredients
 
-- :seedling: 1 Tbsp ground flaxseed meal
-- :droplet: 3 Tbsp water
+- :salt: 1 Tbsp (6 g) ground flaxseed meal
+- :droplet: 3 Tbsp (43 g) water
 
 ## :pencil: Instructions
 

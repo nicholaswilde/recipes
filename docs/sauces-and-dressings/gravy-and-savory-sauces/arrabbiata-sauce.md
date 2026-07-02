@@ -17,14 +17,14 @@ hero: assets/images/arrabbiata-sauce.webp
 
 ## :salt: Ingredients
 
-- :olive: 3 tbsp (42 g) extra virgin olive oil
-- :hot_pepper: 3 tsp crushed red pepper flakes
-- :onion: 1 (70 g) small yellow onion
+- :olive: 3 tbsp (38 g) extra virgin olive oil
+- :hot_pepper: 3 tsp (9 g) crushed red pepper flakes
+- :seedling: 1 small yellow onion
 - :garlic: 6 large cloves garlic
 - :tomato: 2 cans (1.59 kg) whole tomatoes
-- :herb: 0.5 cup (20 g) fresh basil leaves
+- :herb: 0.5 cup (21 g) fresh basil leaves
 - :salt: 1 tsp fine sea salt
-- :salt: 0.5 tsp freshly-cracked black pepper
+- :salt: 0.5 tsp (2 g) freshly-cracked black pepper
 
 ## :cooking: Cookware
 

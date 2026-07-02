@@ -26,12 +26,22 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: 3.x
+          cache: 'pip'
+          cache-dependency-path: |
+            pyproject.toml
+            uv.lock
+      - name: Cache Zensical build
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: ${{ runner.os }}-zensical-${{ hashFiles('**/*.md', '**/*.cook', 'zensical.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-zensical-
       - run: pip install zensical
-      - run: zensical build --clean 
+      - run: zensical build
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
-

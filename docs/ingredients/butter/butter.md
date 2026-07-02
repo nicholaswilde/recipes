@@ -17,8 +17,8 @@ hero: assets/images/butter.webp
 
 ## :salt: Ingredients
 
-- :icecream: 1 qt 40 percent heavy whipping cream
-- :ice_cube: some iced water
+- :glass_of_milk: 1 qt 40 percent heavy whipping cream
+- :droplet: some iced water
 
 ## :cooking: Cookware
 

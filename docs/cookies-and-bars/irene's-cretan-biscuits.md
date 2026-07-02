@@ -19,14 +19,14 @@ hero: assets/images/irene's-cretan-biscuits.webp
 
 - :chestnut: 0.67 cup (58 g) blanched almonds
 - :bread: 2.5 cups (300 g) plain flour
-- :chestnut: 4 tsp (16 g) baking powder
+- :chestnut: 4 tsp baking powder
 - :salt: 1 pinch salt
 - :butter: 250 g unsalted butter
 - :candy: 0.75 cups (148 g) white sugar
 - :egg: 1 large egg
-- :flower_playing_cards: 0.5 tsp (2 g) vanilla extract
-- :egg: 1 egg white
-- :chestnut: 0.25 cup (23 g) almond flakes
+- :flower_playing_cards: 0.5 tsp vanilla extract
+- :beans: 1 egg white
+- :chestnut: 0.25 cup (68 g) almond flakes
 
 ## :cooking: Cookware
 

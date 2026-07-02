@@ -16,8 +16,8 @@ hero: assets/images/black-beans.webp
 
 ## :salt: Ingredients
 
-- :canned_food: 227 g dried black beans
-- :ice_cube: 3 cups cold water
+- :beans: 227 g dried black beans
+- :baby_bottle: 3 cups (681 g) cold water
 - :salt: 1.5 tsp kosher salt
 
 ## :cooking: Cookware

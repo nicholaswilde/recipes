@@ -18,13 +18,13 @@ hero: assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.webp
 
 ## :salt: Ingredients
 
-- :butter: 227 g European style unsalted butter
+- :hot_pepper: 227 g European style unsalted butter
 - :candy: 198 g granulated sugar
 - :salt: 3 g salt
-- :chestnut: 2.5 ml almond extract
+- :flower_playing_cards: 2.5 ml (3 g) almond extract
 - :egg: 2 large egg yolks
-- :ear_of_rice: 281 g all-purpose flour
-- :candy: 108 g coarse sugar
+- :bread: 281 g all-purpose flour
+- :baby_bottle: 108 g coarse sugar
 - :egg: 1 egg
 
 ## :cooking: Cookware

@@ -17,8 +17,8 @@ hero: assets/images/dry-caramel.webp
 
 ## :salt: Ingredients
 
-- :icecream: 1 tsp vanilla
-- :icecream: 200 ml heavy cream
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 200 ml (192 g) heavy cream
 - :candy: 300 g granulated sugar
 - :butter: 100 g unsalted butter
 

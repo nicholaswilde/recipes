@@ -17,15 +17,15 @@ hero: assets/images/sonoran-salad.webp
 ## :salt: Ingredients
 
 - :leafy_green: 4 pkgs shredded Brussels sprouts
-- :rice: 266 g dry [quinoa][1]
-- :stew: 300 g [Vegetable Broth](../ingredients/vegetable-broth.md)
-- :canned_food: 4 cans [black beans][2]
-- :leafy_green: some cilantro
+- :glass_of_milk: 266 g dry [quinoa][1]
+- 300 g [Vegetable Broth](../ingredients/vegetable-broth.md)
+- 4 cans [black beans][2]
+- :herb: some cilantro
 - :corn: 400 g corn
 - :tomato: 400 g Pico de Gallo
 - :hot_pepper: 0.67 cup pickled jalapeño
-- :bell_pepper: 1 roasted red pepper dressing
-- :canned_food: some black cumin (optional)
+- :hot_pepper: 1 roasted red pepper dressing
+- :apple: some black cumin (optional)
 
 ## :cooking: Cookware
 

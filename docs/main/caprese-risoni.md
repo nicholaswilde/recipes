@@ -18,12 +18,12 @@ hero: assets/images/caprese-risoni.webp
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 pkg Risoni
+- 1 pkg Risoni
 - :tomato: 6 organic tomatoes on a vine
-- :canned_food: 1 can cannellini beans
-- :herb: 0.25 cup [pesto][1]
-- :cheese_wedge: 1 container optional Ciliegine fresh mozzarella
-- :sake: 3 Tbsp balsamic glaze
+- :glass_of_milk: 1 can cannellini beans
+- 0.25 cup [pesto][1]
+- :apple: 1 container optional Ciliegine fresh mozzarella
+- 3 Tbsp balsamic glaze
 
 ## :cooking: Cookware
 

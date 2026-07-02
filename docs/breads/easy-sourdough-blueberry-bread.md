@@ -17,24 +17,24 @@ hero: assets/images/easy-sourdough-blueberry-bread.webp
 
 ## :salt: Ingredients
 
-- :candy: 1 cup (198 g) cane sugar
-- :tangerine: some lemon juice (from 1 large lemon)
+- :candy: 1 cup (156 g) cane sugar
+- :apple: some lemon juice (from 1 large lemon)
 - :tangerine: some lemon zest (from 1 large lemon)
 - :butter: 0.5 cup (113 g) unsalted butter
 - :egg: 3 large eggs
-- :olive: 0.25 cup (50 g) avocado oil
-- :flower_playing_cards: 1 tsp (4 g) vanilla extract
+- :olive: 0.25 cup (56 g) avocado oil
+- :flower_playing_cards: 1 tsp vanilla extract
 - :glass_of_milk: 0.25 cup (57 g) milk
-- :tea: 0.5 cup (113 g) sourdough discard
+- :tea: 0.5 cup (114 g) sourdough discard
 - :bread: 1.5 cups (180 g) all-purpose flour
-- :salt: 1 tsp (6 g) salt
-- :chestnut: 1 tsp (4 g) baking powder
-- :apple: 1.5 cups (255 g) blueberries
+- :salt: 1 tsp salt
+- :chestnut: 1 tsp baking powder
+- :apple: 1.5 cups (234 g) blueberries
 - :bread: 0.5 Tbsp (4 g) all-purpose flour
-- :butter: 4 Tbsp (57 g) unsalted butter
-- :candy: 2 Tbsp (25 g) cane sugar
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :candy: 2 Tbsp (20 g) cane sugar
 - :bread: 0.5 cup (60 g) all-purpose flour
-- :salt: 1 pinch (1 g) salt
+- :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

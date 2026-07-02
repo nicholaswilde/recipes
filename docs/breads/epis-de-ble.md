@@ -19,12 +19,12 @@ hero: assets/images/epis-de-ble.webp
 
 ## :salt: Ingredients
 
-- :droplet: 0.5 cup (113 g) water
-- :microbe: 0.06 tsp active dry yeast or instant yeast
-- :ear_of_rice: 1 cup (120 g) unbleached all-purpose flour
-- :microbe: 1.5 tsp active dry yeast or instant yeast
-- :droplet: 1.13 cups (255 g) water
-- :ear_of_rice: 3.5 cups (420 g) unbleached all-purpose flour
+- :droplet: 0.5 cup (114 g) water
+- :candy: 0.06 tsp active dry yeast or instant yeast
+- :bread: 1 cup (156 g) unbleached all-purpose flour
+- :candy: 1.5 tsp (4 g) active dry yeast or instant yeast
+- :droplet: 1.13 cups (257 g) water
+- :bread: 3.5 cups (546 g) unbleached all-purpose flour
 - :salt: 2 tsp table salt
 - :seedling: some seeds of choice
 - :droplet: 1.5 cups (340 g) water

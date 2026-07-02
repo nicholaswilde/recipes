@@ -14,11 +14,11 @@ tags:
 
 ## :salt: Ingredients
 
-- 3 cups cherry tomatoes
-- some extra-virgin olive oil
-- some sea salt
-- some freshly ground black pepper
-- some thyme sprigs
+- :apple: 3 cups (1008 g) cherry tomatoes
+- :olive: some extra-virgin olive oil
+- :salt: some sea salt
+- :salt: some freshly ground black pepper
+- :herb: some thyme sprigs
 
 ## :cooking: Cookware
 

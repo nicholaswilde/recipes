@@ -16,7 +16,7 @@ hero: assets/images/breakfast-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 1.5 lbs red potatoes
+- :grapes: 1.5 lbs red potatoes
 - :butter: 4 Tbsp butter
 - :garlic: 0.5 tsp garlic powder
 - :salt: 1 tsp salt

@@ -18,13 +18,13 @@ hero: assets/images/salsa-fresca-(pico-de-gallo).webp
 
 ## :salt: Ingredients
 
-- :onion: 0.5 small white or red onion
-- :lemon: 2 Tbsp lime juice
+- :tea: 0.5 small white or red onion
+- :tangerine: 2 Tbsp (28 g) lime juice
 - :tomato: 2 large tomatoes
-- :herb: 0.5 cup cilantro
+- :herb: 0.5 cup (21 g) cilantro
 - :hot_pepper: 3 serrano or jalapeño peppers
-- :seedling: 6 radishes (optional)
-- :garlic: 1 clove garlic (optional)
+- :leafy_green: 6 radishes (optional)
+- :leafy_green: 1 clove garlic (optional)
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

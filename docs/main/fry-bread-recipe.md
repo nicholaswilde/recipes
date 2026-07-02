@@ -14,9 +14,9 @@ tags:
 
 ## :salt: Ingredients
 
-- :apple: 2 cups (568 g) dried pinto beans, (rinsed and drained or 1 (16-ounce) can pinto beans, rinsed and drained))
+- :glass_of_milk: 2 cups (568 g) dried pinto beans, (rinsed and drained or 1 (16-ounce) can pinto beans, rinsed and drained))
 - :droplet: some water
-- :tangerine: 2 -3 slices bacon
+- :bacon: 2 -3 slices bacon
 - :apple: 1 pound ground beef
 - :bread: 2 cups (240 g) all-purpose flour
 - :chestnut: 1 tablespoon baking powder

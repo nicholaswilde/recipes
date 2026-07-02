@@ -18,16 +18,16 @@ hero: assets/images/tante-myrn's-sugar-cookies.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (226 g) butter
-- :candy: 1 cup (114 g) confectioners' sugar
+- :butter: 1 cup butter
+- :candy: 1 cup (113 g) confectioners' sugar
 - :candy: 1 cup (198 g) granulated sugar
 - :egg: 2 eggs
-- :oil_drum: 1 cup (198 g) vegetable oil
-- :icecream: 2 tsp vanilla
-- :cup_with_straw: 1 tsp baking soda
-- :rice: 1 tsp cream of tartar
+- :olive: 1 cup (198 g) vegetable oil
+- :flower_playing_cards: 2 tsp vanilla
+- :chestnut: 1 tsp baking soda
+- :glass_of_milk: 1 tsp (6 g) cream of tartar
 - :salt: 0.5 tsp salt
-- :ear_of_rice: 5 cups (600 g) flour
+- :bread: 5 cups (460 g) flour
 
 ## :cooking: Cookware
 

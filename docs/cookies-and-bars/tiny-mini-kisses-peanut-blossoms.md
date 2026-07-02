@@ -16,15 +16,15 @@ hero: assets/images/tiny-mini-kisses-peanut-blossoms.webp
 
 ## :salt: Ingredients
 
-- :peanuts: 0.75 cup (101 g) REESE's Creamy Peanut Butter
-- :carrot: 0.5 cup (92 g) vegetable shortening
+- :peanut: 0.75 cup (202 g) REESE's Creamy Peanut Butter
+- :butter: 0.5 cup (92 g) vegetable shortening
 - :candy: 0.33 cup (65 g) granulated sugar
 - :maple_leaf: 0.33 cup (70 g) brown sugar
 - :egg: 1 egg
-- :glass_of_milk: 3 Tbsp milk
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :rice: 0.5 tsp baking soda
+- :glass_of_milk: 3 Tbsp (43 g) milk
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 1.5 cups (180 g) all-purpose flour
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :chocolate_bar: 1 pkg HERSHEY's Mini Kisses
 

@@ -19,14 +19,14 @@ hero: assets/images/thai-red-curry-tofu-marinade.webp
 ## :salt: Ingredients
 
 - :cheese_wedge: 1 block (400 to 450 g) extra firm tofu (14 to 16-ounce)
-- :curry: 2 Tbsp (30 g) Thai red curry paste
-- :maple_leaf: 1.5 Tbsp (30 g) maple syrup
-- :takeout_box: 1 Tbsp (15 g) tamari
-- :wine_glass: 1 Tbsp (15 g) rice vinegar
-- :oil_drum: 1 tsp (5 g) toasted sesame oil (optional)
+- :curry: 2 Tbsp (32 g) Thai red curry paste
+- :honey_pot: 1.5 Tbsp (29 g) maple syrup
+- :takeout_box: 1 Tbsp tamari
+- :wine_glass: 1 Tbsp (2 g) rice vinegar
+- :olive: 1 tsp (2 g) toasted sesame oil (optional)
 - :garlic: 2 large cloves garlic, minced
-- :herb: 1 Tbsp (15 g) ginger, minced
-- :coconut: 0.25 cup (60 g) coconut milk
+- :sweet_potato: 1 Tbsp ginger, minced
+- :coconut: 0.25 cup (28 g) coconut milk
 
 ## :cooking: Cookware
 

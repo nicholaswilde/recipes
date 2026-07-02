@@ -17,24 +17,24 @@ hero: assets/images/lemon-garlic-orzo-with-roasted-veggies.jpg
 
 ## :salt: Ingredients
 
-- :mushroom: 1.5 cups cremini mushrooms
-- :bell_pepper: 1 cup bell peppers
-- :leafy_green: 1 lb asparagus
-- :tomato: 12 oz cherry tomatoes
+- :mushroom: 1.5 cups (117 g) cremini mushrooms
+- :hot_pepper: 1 cup (142 g) bell peppers
+- 1 lb asparagus
+- :apple: 12 oz (504 g) cherry tomatoes
 - :garlic: 2 tsp garlic
-- :onion: 0.5 cup shallot
-- :olive: 2 Tbsp olive oil
+- :garlic: 0.5 cup shallot
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: some salt
 - :salt: some pepper
-- :rice: 1 cup orzo
-- :olive: 1 Tbsp olive oil
-- :stew: 1.5 cups [vegetable broth][1]
-- :olive: 2 Tbsp olive oil
-- :lemon: 1 Tbsp lemon juice
+- :ear_of_rice: 1 cup (200 g) orzo
+- :olive: 1 Tbsp (12 g) olive oil
+- 1.5 cups [vegetable broth][1]
+- :olive: 2 Tbsp (25 g) olive oil
+- :tangerine: 1 Tbsp (14 g) lemon juice
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :cheese_wedge: 0.5 cup crumbled feta
-- :chestnut: 0.33 cup pine nuts
+- :cheese_wedge: 0.5 cup (57 g) crumbled feta
+- :chestnut: 0.33 cup (47 g) pine nuts
 - :herb: some basil
 
 ## :cooking: Cookware

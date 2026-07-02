@@ -17,11 +17,11 @@ hero: assets/images/aquafaba-whipped-cream.webp
 
 ## :salt: Ingredients
 
-- :falafel: 0.75 cup (170 g) [aquafaba][2]
-- :rice: 0.25 tsp cream of tartar
-- :icecream: 1 Tbsp vanilla
+- 0.75 cup [aquafaba][2]
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :flower_playing_cards: 1 Tbsp vanilla
 - :candy: 0.67 cup (76 g) confectioners' sugar
-- :oil_drum: 2 Tbsp neutral oil
+- :olive: 2 Tbsp (28 g) neutral oil
 
 ## :cooking: Cookware
 

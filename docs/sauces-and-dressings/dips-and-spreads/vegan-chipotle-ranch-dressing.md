@@ -17,17 +17,17 @@ hero: assets/images/vegan-chipotle-ranch-dressing.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 1 cup cashews
-- :glass_of_milk: 0.67 cup unsweetened almond milk
-- :lemon: 2 tsp lemon juice
+- :chestnut: 1 cup (113 g) cashews
+- :glass_of_milk: 0.67 cup (209 g) unsweetened almond milk
+- :tangerine: 2 tsp (9 g) lemon juice
 - :garlic: 1 clove garlic
 - :salt: 0.5 tsp salt
-- :hot_pepper: 1 chipotle pepper in adobo sauce
-- :onion: 0.25 tsp onion powder
-- :sake: 1 tsp apple cider vinegar
-- :maple_leaf: 1 tsp maple syrup (optional)
-- :hot_pepper: 0.25 tsp ground chipotle chile
-- :herb: 2 Tbsp dill
+- :salt: 1 chipotle pepper in adobo sauce
+- :chestnut: 0.25 tsp (1 g) onion powder
+- :apple: 1 tsp (6 g) apple cider vinegar
+- :honey_pot: 1 tsp (6 g) maple syrup (optional)
+- :salt: 0.25 tsp ground chipotle chile
+- :apple: 2 Tbsp dill
 
 ## :cooking: Cookware
 

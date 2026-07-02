@@ -16,15 +16,15 @@ hero: assets/images/apple-butter.webp
 
 ## :salt: Ingredients
 
-- :green_apple: 24 oz unsweetened applesauce
-- :green_apple: 5.5 lbs sweet apples (alternative)
-- :custard: 0.5 tsp cinnamon
-- :chestnut: 0.25 tsp nutmeg
-- :herb: 0.25 tsp allspice
-- :herb: 0.25 tsp cardamom
-- :four_leaf_clover: 0.25 tsp cloves
-- :sweet_potato: 0.25 tsp ginger
-- :herb: 0.25 tsp mace (optional)
+- :chocolate_bar: 24 oz (252 g) unsweetened applesauce
+- :chestnut: 5.5 lbs sweet apples (alternative)
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :apple: 0.25 tsp nutmeg
+- :apple: 0.25 tsp allspice
+- :seedling: 0.25 tsp cardamom
+- :chestnut: 0.25 tsp cloves
+- :sweet_potato: 0.25 tsp (1 g) ginger
+- :leafy_green: 0.25 tsp mace (optional)
 - :candy: some white or brown sugar, maple sugar, maple syrup, honey, or other sweetener (optional)
 
 ## :cooking: Cookware

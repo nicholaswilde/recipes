@@ -15,30 +15,30 @@ hero: assets/images/brioche-tart.webp
 
 ## :salt: Ingredients
 
-- :tea: 1 pkg (2 1/4 tsp) active dry yeast
-- :glass_of_milk: 0.33 cup warm whole milk (100 to 110 degrees)
-- :candy: 1 Tbsp sugar
-- :ear_of_rice: 0.75 cup all-purpose flour
+- :candy: 1 pkg (2 1/4 tsp) active dry yeast
+- :glass_of_milk: 0.33 cup (33 g) warm whole milk (100 to 110 degrees)
+- :candy: 1 Tbsp (10 g) sugar
+- :bread: 0.75 cup (90 g) all-purpose flour
 - :egg: 2 large eggs
-- :ear_of_rice: 2 cups all-purpose flour
-- :candy: 0.5 cup sugar
-- :herb: 0.25 tsp ground mace
+- :bread: 2 cups (240 g) all-purpose flour
+- :candy: 0.5 cup (78 g) sugar
+- :apple: 0.25 tsp (1 g) ground mace
 - :salt: 1 tsp salt
 - :egg: 2 large eggs
-- :butter: 1 cup (2 sticks) unsalted butter
-- :ear_of_rice: 0.5 cup all-purpose flour
-- :bread: 0.5 recipe brioche dough
-- :baby_bottle: 1 cup crème fraîche (or sour cream)
+- :hot_pepper: 1 cup (226 g) (2 sticks) unsalted butter
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :pie: 0.5 recipe brioche dough
+- :glass_of_milk: 1 cup (227 g) crème fraîche (or sour cream)
 - :egg: 1 large egg
-- :candy: 0.5 cup sugar
+- :candy: 0.5 cup (78 g) sugar
 - :egg: 1 large egg white
 - :candy: some crystal sugar
 - :candy: some sugar
-- :flower_playing_cards: 2 vanilla beans
-- :droplet: 0.33 cup water
+- :apple: 2 vanilla beans
+- :droplet: 0.33 cup (75 g) water
 - :wine_glass: some dry white wine
 - :egg: 4 large egg yolks
-- :glass_of_milk: 1 cup heavy cream
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :apple: some dried fruits (raisins, prunes, apricots, peaches)
 - :apple: some firm fresh fruits (apricots, peaches, nectarines, plums)
 - :chestnut: some toasted chopped almonds

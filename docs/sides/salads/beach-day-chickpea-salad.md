@@ -18,13 +18,13 @@ hero: assets/images/beach-day-chickpea-salad.webp
 
 ## :salt: Ingredients
 
-- :grapes: 0.25 cup raisins
-- :falafel: 1 can chickpeas, drained
-- :leafy_green: 2 celery stalks, diced
+- :grapes: 0.25 cup (37 g) raisins
+- :apple: 1 can chickpeas, drained
+- :tea: 2 celery stalks, diced
 - :herb: 2 Tbsp chopped parsley
-- :hotdog: 2 Tbsp whole grain mustard
-- :lemon: 2 Tbsp lemon juice
-- :olive: 2 Tbsp olive oil
+- :seedling: 2 Tbsp (14 g) whole grain mustard
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: some salt
 - :salt: some pepper
 

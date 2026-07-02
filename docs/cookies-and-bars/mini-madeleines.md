@@ -24,11 +24,11 @@ hero: assets/images/mini-madeleines.webp
 - :honey_pot: 15 g honey
 - :candy: 100 g granulated sugar
 - :salt: 1 g salt
-- :ear_of_rice: 120 g all-purpose flour
-- :dash: 4 g baking powder
+- :bread: 120 g all-purpose flour
+- :chestnut: 4 g baking powder
 - :egg: 3 large eggs
-- :lemon: 0.5 lemon
-- :orange_circle: 0.5 orange
+- :tangerine: 0.5 lemon
+- :tangerine: 0.5 orange
 - :candy: some confectioners’ sugar
 
 ## :cooking: Cookware

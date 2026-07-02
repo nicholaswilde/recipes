@@ -18,10 +18,10 @@ hero: assets/images/orange-marmalade.webp
 
 ## :salt: Ingredients
 
-- :tangerine: 2 large (340 g) navel oranges
-- :tangerine: 1 small (57 g) lemon
-- :droplet: 2 cups (480 ml) water
-- :candy: 2 cups (454 g) granulated sugar
+- :tangerine: 2 large navel oranges
+- :tangerine: 1 small lemon
+- :baby_bottle: 2 cups (454 g) (480 ml) water
+- :candy: 2 cups (396 g) granulated sugar
 
 ## :cooking: Cookware
 

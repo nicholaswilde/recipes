@@ -15,20 +15,20 @@ hero: assets/images/zucchini-pasta-with-lentil-bolognese.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 1 medium shallot
 - :garlic: 4 cloves garlic
 - :carrot: 3 medium carrots
 - :salt: 1 pinch salt
-- :tomato: 26 oz marinara sauce
+- :tomato: 26 oz (741 g) marinara sauce
 - :hot_pepper: 1 pinch red pepper flake
 - :herb: 1 tsp basil
 - :herb: 1 tsp oregano
-- :candy: 1 Tbsp coconut sugar
-- :droplet: 0.5 cup (115 g) water
-- :beans: 0.75 cup (155 g) [red lentils][2]
-- :cucumber: 2 medium zucchini
-- :cheese_wedge: some [vegan Parmesan cheese][3] (optional)
+- :candy: 1 Tbsp (10 g) coconut sugar
+- :droplet: 0.5 cup (114 g) water
+- 0.75 cup [red lentils][2]
+- 2 medium zucchini
+- :apple: some [vegan Parmesan cheese][3] (optional)
 
 ## :cooking: Cookware
 

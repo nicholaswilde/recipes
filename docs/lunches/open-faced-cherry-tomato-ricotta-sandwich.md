@@ -18,14 +18,14 @@ hero: assets/images/open-faced-cherry-tomato-ricotta-sandwich.webp
 
 ## :salt: Ingredients
 
-- :hotdog: 4 tsp whole-grain mustard
+- :seedling: 4 tsp (9 g) whole-grain mustard
 - :honey_pot: 2 tsp honey
 - :herb: 2 tsp marjoram
-- :takeout_box: 1 tsp white or red miso
+- :beans: 1 tsp (4 g) white or red miso
 - :salt: 0.25 tsp pepper
-- :tomato: 10 oz cherry tomatoes
-- :cheese_wedge: 8 oz whole-milk [ricotta](../ingredients/ricotta.md)
-- :bread: 4 slices rustic 1/2-inch-thick bread
+- :apple: 10 oz (420 g) cherry tomatoes
+- :glass_of_milk: 8 oz (100 g) whole-milk [ricotta](../ingredients/ricotta.md)
+- :apple: 4 slices rustic 1/2-inch-thick bread
 
 ## :cooking: Cookware
 

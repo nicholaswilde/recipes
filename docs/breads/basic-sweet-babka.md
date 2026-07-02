@@ -20,41 +20,41 @@ hero: assets/images/basic-sweet-babka.webp
 
     === "Full Batch"
 
-        - :microbe: 1 Tbsp dry active yeast
-        - :candy: 0.5 tsp granulated sugar
-        - :droplet: 0.5 (113 g) cup lukewarm water
-        - :ear_of_rice: 4.5 cups (540 g) all-purpose flour
-        - :candy: 0.33 cup (66 g) granulated sugar
-        - :icecream: 2 tsp vanilla
-        - :glass_of_milk: 0.5 cup (113 g) milk
-        - :butter: 0.75 cup (170 g) melted butter
+        - :tea: 1 Tbsp (4 g) dry active yeast
+        - :candy: 0.5 tsp (2 g) granulated sugar
+        - :baby_bottle: 0.5 cup (114 g) lukewarm water
+        - :bread: 4.5 cups (540 g) all-purpose flour
+        - :candy: 0.33 cup (65 g) granulated sugar
+        - :flower_playing_cards: 2 tsp vanilla
+        - :glass_of_milk: 0.5 cup (114 g) milk
+        - :glass_of_milk: 0.75 cup (204 g) melted butter
         - :egg: 2 eggs
 
     === "Half Batch"
 
-        - :microbe: 2 tsp dry active yeast
-        - :candy: 0.25 tsp granulated sugar
-        - :droplet: 0.25 (57 g) cup lukewarm water
-        - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-        - :candy: 0.17 cup (33 g) granulated sugar
-        - :icecream: 1 tsp vanilla
+        - :tea: 2 tsp (2 g) dry active yeast
+        - :candy: 0.25 tsp (1 g) granulated sugar
+        - :baby_bottle: 0.25 cup (57 g) lukewarm water
+        - :bread: 2.25 cups (270 g) all-purpose flour
+        - :candy: 0.17 cup (34 g) granulated sugar
+        - :flower_playing_cards: 1 tsp vanilla
         - :glass_of_milk: 0.25 cup (57 g) milk
-        - :butter: 0.375 cup (85 g) melted butter
+        - :glass_of_milk: 0.375 cup (102 g) melted butter
         - :egg: 1 eggs
 
 === "Syrup"
 
     === "serves 4 large loaves"
 
-        - :droplet: 0.67 (151 g) cup water
+        - :droplet: 0.67 cup (152 g) water
         - :candy: 1 cup (198 g) granulated sugar
-        - :icecream: 1 tsp vanilla
+        - :flower_playing_cards: 1 tsp vanilla
 
     === "serves 1 large loaf"
 
-        - :droplet: 0.17 (38 g) cup water
+        - :droplet: 0.17 cup (39 g) water
         - :candy: 1/4 cup (50 g) granulated sugar
-        - :icecream: 1/4 tsp vanilla
+        - :flower_playing_cards: 1/4 tsp vanilla
 
 === "Chocolate Filling"
 
@@ -62,34 +62,34 @@ hero: assets/images/basic-sweet-babka.webp
 
         - :butter: 0.75 cup (170 g) unsalted butter
         - :candy: 0.5 cup (99 g) granulated sugar
-        - :chocolate_bar: 0.33 cup (29 g) unsweetened cocoa powder
-        - :chocolate_bar: 6 oz (170 g) dark chocolate
-        - :custard: 0.25 tsp cinnamon
+        - :chocolate_bar: 0.33 cup (28 g) unsweetened cocoa powder
+        - :chestnut: 6 oz (128 g) dark chocolate
+        - :chestnut: 0.25 tsp (1 g) cinnamon
         - :salt: 1 pinch salt
 
     === "Half Batch"
 
         - :butter: 85 g unsalted butter
         - :candy: 0.25 cup (50 g) granulated sugar
-        - :chocolate_bar: 0.16 cup (15 g) unsweetened cocoa powder
-        - :chocolate_bar: 3 oz (85 g) dark chocolate
-        - :custard: 0.125 tsp cinnamon
+        - :chocolate_bar: 0.16 cup (13 g) unsweetened cocoa powder
+        - :chestnut: 3 oz (64 g) dark chocolate
+        - :chestnut: 0.125 tsp (1 g) cinnamon
         - :salt: 1 pinch salt
 
 === "Cinnamon Filling"
 
     === "Full Batch"
 
-        - :butter: 0.75 cup (170 g) unsalted melted butter
+        - :baby_bottle: 0.75 cup (170 g) unsalted melted butter
         - :candy: 300 g granulated sugar
-        - :custard: 2 Tbsp cinnamon
+        - :chestnut: 2 Tbsp (25 g) cinnamon
         - :salt: 1 pinch salt
 
     === "Half Batch"
 
-        - :butter: 85 g unsalted melted butter
+        - :baby_bottle: 85 g unsalted melted butter
         - :candy: 150 g granulated sugar
-        - :custard: 1 Tbsp cinnamon
+        - :chestnut: 1 Tbsp (12 g) cinnamon
         - :salt: 1 pinch salt
 
 ## :cooking: Cookware

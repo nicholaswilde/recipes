@@ -14,20 +14,20 @@ tags:
 
 ## :salt: Ingredients
 
-- 200 g short grain rice
-- 0.75 L water
-- 400 g white sugar
-- 30 g salted butter
-- 2 tbsp liquid saffron
-- 0.25 tsp ground cardamom
-- 4 tbsp rose water
-- some ground cinnamon
-- some slivered pistachios and almonds
-- some almond flakes
-- some whole almonds
-- some dried crushed rose petals
+- :bread: 200 g short grain rice
+- :droplet: 0.75 L water
+- :candy: 400 g white sugar
+- :butter: 30 g salted butter
+- :tulip: 2 tbsp liquid saffron
+- :apple: 0.25 tsp (1 g) ground cardamom
+- :droplet: 4 tbsp (57 g) rose water
+- :chestnut: some ground cinnamon
+- :chestnut: some slivered pistachios and almonds
+- :chestnut: some almond flakes
+- :chestnut: some whole almonds
+- :hot_pepper: some dried crushed rose petals
 - some rose buds
-- some edible silver or gold leaf
+- :herb: some edible silver or gold leaf
 
 ## :cooking: Cookware
 

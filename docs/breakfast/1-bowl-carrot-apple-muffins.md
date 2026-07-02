@@ -17,22 +17,22 @@ hero: assets/images/1-bowl-carrot-apple-muffins.webp
 
 ## :salt: Ingredients
 
-- :seedling: 1.5 Tbsp flaxseed meal
-- :droplet: 4 Tbsp water
-- :banana: 0.33 cup mashed banana
-- :maple_leaf: 0.25 cup (78 g) agave or maple syrup
+- 1.5 Tbsp (8 g) flaxseed meal
+- :droplet: 4 Tbsp (57 g) water
+- :apple: 0.33 cup (70 g) mashed banana
+- :honey_pot: 0.25 cup (84 g) agave or maple syrup
 - :olive: 0.25 cup (50 g) olive oil
-- :green_apple: 0.5 cup (128 g) unsweetened applesauce
-- :maple_leaf: 0.5 cup (106 g) [brown sugar][1]
-- :cup_with_straw: 1.5 tsp baking soda
+- :chocolate_bar: 0.5 cup (42 g) unsweetened applesauce
+- 0.5 cup [brown sugar][1]
+- :chestnut: 1.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :custard: 0.5 tsp cinnamon
-- :glass_of_milk: 0.5 cup almond milk
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :glass_of_milk: 0.5 cup (42 g) almond milk
 - :carrot: 1 heaping cup grated carrot
-- :ear_of_rice: 0.67 cup oats
+- :ear_of_rice: 0.67 cup (94 g) oats
 - :chestnut: 0.5 cup (42 g) almond meal
-- :ear_of_rice: 1 heaping cup gluten-free flour blend
-- :chestnut: 0.25 cup walnuts (optional)
+- :baby_bottle: 1 heaping cup gluten-free flour blend
+- :leafy_green: 0.25 cup (28 g) walnuts (optional)
 
 ## :cooking: Cookware
 

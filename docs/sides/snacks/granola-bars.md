@@ -20,11 +20,11 @@ hero: assets/images/granola-bars.webp
 - :grapes: 180 g soft dates
 - :honey_pot: 360 ml honey
 - :chestnut: 60 g pecans
-- :apple: 60 g dried apricots
+- :herb: 60 g dried apricots
 - :ear_of_rice: 250 g rolled oats
 - :seedling: 30 g sunflower seeds
-- :coconut: 120 g unsweetened desiccated coconut
-- :seedling: 2 Tbsp chia seeds
+- :chestnut: 120 g unsweetened desiccated coconut
+- :seedling: 2 Tbsp (18 g) chia seeds
 - :olive: some vegetable oil
 
 ## :cooking: Cookware

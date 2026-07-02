@@ -19,13 +19,13 @@ hero: assets/images/parker-house-rolls.webp
 
 - :bread: 3 cups (360 g) all-purpose flour
 - :tea: 2 1/2 tsp instant yeast
-- :candy: 3 Tbsp (39 g) granulated sugar
-- :salt: 1 1/4 tsp (8 g) table salt
-- :sweet_potato: 1/4 cup (50 g) potato flour or 3/4 cup (50 g) dried potato flakes
-- :butter: 3 Tbsp (43 g) butter, room temperature
+- :candy: 3 Tbsp (37 g) granulated sugar
+- :baby_bottle: 1 1/4 tsp table salt
+- :hot_pepper: 1/4 cup (22 g) potato flour or 3/4 cup dried potato flakes
+- :glass_of_milk: 3 Tbsp (42 g) butter, room temperature
 - :glass_of_milk: 1 cup (227 g) milk
 - :egg: 1 large egg
-- :butter: 3 1/2 to 4 Tbsp (50 g to 57 g) butter, melted; divided
+- :glass_of_milk: 3 1/2 to 4 Tbsp (50 g to 57 g) butter, melted; divided
 
 ## :cooking: Cookware
 

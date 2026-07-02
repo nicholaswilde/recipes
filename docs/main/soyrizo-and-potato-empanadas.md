@@ -17,14 +17,14 @@ hero: assets/images/soyrizo-and-potato-empanadas.webp
 
 ## :salt: Ingredients
 
-- :potato: 2 medium potatoes
-- :olive: 2 tsp olive oil
+- :sweet_potato: 2 medium potatoes
+- :olive: 2 tsp (8 g) olive oil
 - :garlic: 2 cloves garlic
-- :hotdog: 0.5 cup soyrizo
+- 0.5 cup soyrizo
 - :hot_pepper: 0.25 cup poblano pepper
 - :salt: some salt
-- :flatbread: 1 [vegan empanada pastry][2]
-- :avocado: 1 avocado salsa
+- :dumpling: 1 [vegan empanada pastry][2]
+- :tomato: 1 avocado salsa
 
 ## :cooking: Cookware
 

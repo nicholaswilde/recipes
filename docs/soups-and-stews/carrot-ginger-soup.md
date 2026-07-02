@@ -21,15 +21,15 @@ hero: assets/images/carrot-ginger-soup.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 cup (142 g) onions
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 cup (142 g) onions
 - :carrot: 3 cups (426 g) carrots
-- :sweet_potato: 2 Tbsp fresh ginger
-- :sweet_potato: 1 tsp ground ginger
+- :sweet_potato: 2 Tbsp (28 g) fresh ginger
+- :sweet_potato: 1 tsp (3 g) ground ginger
 - :garlic: 3 cloves garlic
-- :stew: 4 cups (908 g) [Vegetable Broth](../ingredients/vegetable-broth.md)
-- :apple: 1 Tbsp apple cider vinegar
-- :rice: some cashew cream or sour cream
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :apple: 1 Tbsp (18 g) apple cider vinegar
+- :chestnut: some cashew cream or sour cream
 - :seedling: some pumpkin seeds
 - :seedling: some hemp seeds
 - :herb: some fresh parsley

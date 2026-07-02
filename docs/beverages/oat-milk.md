@@ -16,9 +16,9 @@ hero: assets/images/oat-milk.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup quick or rolled oats
-- :droplet: 3-4 cups water
-- :maple_leaf: 2 Tbsp maple syrup
+- :ear_of_rice: 1 cup (113 g) quick or rolled oats
+- :glass_of_milk: 3-4 cups water
+- :honey_pot: 2 Tbsp (39 g) maple syrup
 
 ## :cooking: Cookware
 

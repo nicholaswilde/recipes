@@ -19,10 +19,10 @@ hero: assets/images/yeasted-doughnuts.webp
 
 === "Doughnuts"
 
-    - :ear_of_rice: 4.5 cups (540 g) all-purpose flour
-    - :candy: 0.5 cup (99 g) sugar
-    - :microbe: 1 tsp instant yeast
-    - :glass_of_milk: 1.5 cup milk
+    - :bread: 4.5 cups (540 g) all-purpose flour
+    - :candy: 0.5 cup (78 g) sugar
+    - :tea: 1 tsp (3 g) instant yeast
+    - :glass_of_milk: 1.5 cup (340 g) milk
     - :egg: 1 large egg
     - :salt: 1.5 tsp salt
     - :butter: 8 Tbsp butter
@@ -35,14 +35,14 @@ hero: assets/images/yeasted-doughnuts.webp
 
 === "Frying"
 
-    - :oil_drum: 2 qt vegetable oil
+    - :olive: 2 qt vegetable oil
 
 === "Raspberry Frosting"
 
-    - :strawberry: 8 oz frozen raspberries
-    - :candy: 2 cups (396 g) confectioners' sugar
+    - :carrot: 8 oz (113 g) frozen raspberries
+    - :candy: 2 cups (226 g) confectioners' sugar
     - :salt: 1 pinch salt
-    - :rainbow: some rainbow sprinkles (optional)
+    - :art: some rainbow sprinkles (optional)
 
 ## :cooking: Cookware
 

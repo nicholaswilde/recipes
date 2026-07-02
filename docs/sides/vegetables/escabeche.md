@@ -17,21 +17,21 @@ hero: assets/images/escabeche.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 tsp olive oil
-- :fallen_leaf: 1 bay leaf
-- :custard: 1 small cinnamon stick
-- :star: 1 star anise
-- :herb: 0.5 tsp cumin seeds
-- :salt: 0.5 tsp whole black peppercorns
+- :olive: 2 tsp (8 g) olive oil
+- :herb: 1 bay leaf
+- :chestnut: 1 small cinnamon stick
+- :chestnut: 1 star anise
+- :chestnut: 0.5 tsp cumin seeds
+- :burrito: 0.5 tsp (1 g) whole black peppercorns
 - :herb: 0.5 tsp thyme
 - :herb: 0.5 tsp oregano
-- :hot_pepper: 0.5 tsp red pepper flakes
-- :onion: 0.5 yellow onion
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
+- :tea: 0.5 yellow onion
 - :garlic: 1 clove garlic
-- :apple: 2 cups apple cider vinegar
+- :apple: 2 cups (560 g) apple cider vinegar
 - :droplet: 2 cups (454 g) water
 - :salt: 1.5 tsp kosher salt
-- :candy: 1.5 tsp coconut sugar
+- :candy: 1.5 tsp (5 g) coconut sugar
 - :carrot: 4 cups mixed vegetables
 - :hot_pepper: 0.5 jalapeño
 

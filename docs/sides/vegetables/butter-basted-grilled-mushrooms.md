@@ -17,11 +17,11 @@ hero: assets/images/butter-basted-grilled-mushrooms.webp
 
 ## :salt: Ingredients
 
-- :mushroom: 1 lb mushrooms (at least 2 inch wide)
-- :olive: 0.5 tsp vegetable oil
+- :baby_bottle: 1 lb mushrooms (at least 2 inch wide)
+- :olive: 0.5 tsp (2 g) vegetable oil
 - :salt: 0.5 tsp pepper
 - :salt: 0.25 tsp salt
-- :butter: 1 recipe [garlic-parsley][1] or [ginger-miso][2] basting butter
+- :glass_of_milk: 1 recipe [garlic-parsley][1] or [ginger-miso][2] basting butter
 
 | Variety                               | How to prep                                                     |
 |---------------------------------------|-----------------------------------------------------------------|

@@ -17,8 +17,8 @@ hero: assets/images/fried-green-plantains.webp
 
 ## :salt: Ingredients
 
-- :oil_drum: some vegetable oil
-- :banana: 4 green plantain
+- :olive: some vegetable oil
+- 4 green plantain
 - :salt: some salt
 
 ## :cooking: Cookware

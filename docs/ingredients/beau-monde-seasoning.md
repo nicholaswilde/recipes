@@ -15,10 +15,10 @@ hero: assets/images/beau-monde-seasoning.webp
 
 ## :salt: Ingredients
 
-- :seedling: 2 Tbsp celery seeds
-- :onion: 2 Tbsp granulated onion
+- :seedling: 2 Tbsp (18 g) celery seeds
+- :candy: 2 Tbsp (12 g) granulated onion
 - :salt: 2 Tbsp kosher salt
-- :candy: 1 tsp granulated sugar
+- :candy: 1 tsp (4 g) granulated sugar
 
 ## :cooking: Cookware
 

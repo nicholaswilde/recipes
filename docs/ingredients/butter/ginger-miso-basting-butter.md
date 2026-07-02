@@ -17,10 +17,10 @@ hero: assets/images/ginger-miso-basting-butter.webp
 
 ## :salt: Ingredients
 
-- :butter: 4 Tbsp unsalted butter
-- :takeout_box: 1 Tbsp white miso
-- :takeout_box: 1 Tbsp soy sauce
-- :garlic: 2 tsp fresh ginger
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :takeout_box: 1 Tbsp (18 g) white miso
+- :takeout_box: 1 Tbsp (9 g) soy sauce
+- :sweet_potato: 2 tsp (10 g) fresh ginger
 - :salt: 0.5 tsp pepper
 
 ## :cooking: Cookware

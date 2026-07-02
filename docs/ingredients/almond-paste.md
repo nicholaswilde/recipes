@@ -16,11 +16,11 @@ hero: assets/images/almond-paste.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 168 g [almond flour][2]
+- 168 g [almond flour][2]
 - :candy: 170 g confectioners' sugar
 - :egg: 1 large egg white
 - :salt: 0.25 tsp salt
-- :chestnut: 1.5 tsp almond extract
+- :flower_playing_cards: 1.5 tsp (8 g) almond extract
 
 ## :cooking: Cookware
 

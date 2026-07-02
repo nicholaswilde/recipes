@@ -19,18 +19,18 @@ hero: assets/images/perfect-chickpea-salad.webp
 
 ## :salt: Ingredients
 
-- :falafel: 1 can chickpeas
+- :beans: 1 can chickpeas
 - :leafy_green: 2 stalks celery
-- :bell_pepper: 0.33 cup bell pepper
-- :cucumber: 0.33 cup pickles
-- :falafel: 0.25 cup hummus
-- :hotdog: 1.5 tsp mustard
-- :seedling: 1 Tbsp dill
+- :hot_pepper: 0.33 cup (47 g) bell pepper
+- :cucumber: 0.33 cup (50 g) pickles
+- 0.25 cup hummus
+- :seedling: 1.5 tsp mustard
+- :apple: 1 Tbsp dill
 - :herb: 0.25 cup parsley
-- :lemon: 4 Tbsp lemon juice
+- :tangerine: 4 Tbsp (56 g) lemon juice
 - :salt: 1 pinch salt
 - :salt: 1 pinch pepper
-- :flatbread: some whole grain pita bread pockets
+- :bread: some whole grain pita bread pockets
 
 ## :cooking: Cookware
 

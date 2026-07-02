@@ -18,13 +18,13 @@ hero: assets/images/best-gazpacho.webp
 
 - :tomato: 2 lbs ripe red tomatoes, cored and roughly cut
 - :hot_pepper: 1 Italian frying pepper (or cubanelle / Anaheim pepper), cored, seeded and roughly cut
-- :cucumber: 1 cucumber (approx. 8 inches), peeled and roughly cut
-- :tea: 1 small mild onion, peeled and roughly cut
+- :apple: 1 cucumber (approx. 8 inches), peeled and roughly cut
+- :hot_pepper: 1 small mild onion, peeled and roughly cut
 - :garlic: 1 clove garlic
-- :wine_glass: 2 tsp sherry vinegar, plus more to taste
-- :salt: 2 tsp (12 g) salt, plus more to taste
-- :olive: 1/2 cup (100 g) extra-virgin olive oil, plus more for drizzling
-- :droplet: ice water, to thin if needed
+- :baby_bottle: 2 tsp (12 g) sherry vinegar, plus more to taste
+- :baby_bottle: 2 tsp salt, plus more to taste
+- :baby_bottle: 1/2 cup (100 g) extra-virgin olive oil, plus more for drizzling
+- :baby_bottle: ice water, to thin if needed
 
 ## :cooking: Cookware
 

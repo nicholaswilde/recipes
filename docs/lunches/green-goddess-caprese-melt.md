@@ -18,14 +18,14 @@ hero: assets/images/green-goddess-caprese-melt.webp
 ## :salt: Ingredients
 
 - :baguette_bread: 1 french baguette
-- :green_salad: 1 [Green Goddess dressing][2]
+- 1 [Green Goddess dressing][2]
 - :tomato: some tomatoes
 - :cheese_wedge: some mozzarella
 - :cheese_wedge: some Parmesan
 - :hot_pepper: some Peppadew peppers
 - :herb: some fresh basil
 - :leafy_green: some arugula
-- :garlic: some [garlic aioli][3]
+- some [garlic aioli][3]
 
 ## :pencil: Instructions
 

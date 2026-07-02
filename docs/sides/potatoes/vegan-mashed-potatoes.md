@@ -17,9 +17,9 @@ hero: assets/images/vegan-mashed-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 8 Yukon gold potatoes
-- :seedling: 0.25 cup chives (optional)
-- :butter: 4 Tbsp vegan butter
+- :sweet_potato: 8 Yukon gold potatoes
+- :leafy_green: 0.25 cup (10 g) chives (optional)
+- :butter: 4 Tbsp (68 g) vegan butter
 - :garlic: 6 cloves garlic
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper

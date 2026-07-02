@@ -20,27 +20,27 @@ hero: assets/images/vegan-banana-pancakes.webp
 
 === "serves 6"
 
-    - :banana: 0.5 cup (1) banana
-    - :glass_of_milk: 1 cup (227 g) soy milk
-    - :oil_drum: 2 Tbsp canola oil or applesauce
-    - :candy: 2 Tbsp granulated sugar
-    - :icecream: 1 tsp vanilla
-    - :ear_of_rice: 1.5 cups (180 g) whole wheat flour
-    - :dash: 1 Tbsp baking powder
+    - :apple: 0.5 cup (1) banana
+    - :takeout_box: 1 cup (140 g) soy milk
+    - :droplet: 2 Tbsp (25 g) canola oil or applesauce
+    - :candy: 2 Tbsp (25 g) granulated sugar
+    - :flower_playing_cards: 1 tsp vanilla
+    - :bread: 1.5 cups (170 g) whole wheat flour
+    - :chestnut: 1 Tbsp baking powder
     - :salt: 0.5 tsp salt
-    - :custard: 0.5 tsp cinnamon (optional)
+    - :chestnut: 0.5 tsp (1 g) cinnamon (optional)
 
 === "serves 12"
 
-    - :banana: 1 cup (2) bananas
-    - :glass_of_milk: 2 cup (454 g) soy milk
-    - :oil_drum: 4 Tbsp canola oil or applesauce
-    - :candy: 4 Tbsp granulated sugar
-    - :icecream: 2 tsp vanilla
-    - :ear_of_rice: 3 cups (360 g) whole wheat flour
-    - :dash: 2 Tbsp baking powder
+    - :apple: 1 cup (227 g) (2) bananas
+    - :takeout_box: 2 cup (280 g) soy milk
+    - :droplet: 4 Tbsp (50 g) canola oil or applesauce
+    - :candy: 4 Tbsp (50 g) granulated sugar
+    - :flower_playing_cards: 2 tsp vanilla
+    - :bread: 3 cups (339 g) whole wheat flour
+    - :chestnut: 2 Tbsp baking powder
     - :salt: 1 tsp salt
-    - :custard: 1 tsp cinnamon (optional)
+    - :chestnut: 1 tsp (3 g) cinnamon (optional)
 
 ## :cooking: Cookware
 

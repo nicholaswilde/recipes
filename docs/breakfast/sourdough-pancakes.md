@@ -18,17 +18,17 @@ hero: assets/images/sourdough-pancakes.webp
 
 ## :salt: Ingredients
 
-- :corn: 0.25 cup coarse cornmeal
+- :baby_bottle: 0.25 cup (41 g) coarse cornmeal
 - :butter: 3 Tbsp (42 g) unsalted butter
 - :egg: 2 eggs
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :ear_of_rice: 0.25 cup whole wheat flour
-- :cup_with_straw: 0.5 tsp baking soda
-- :dash: 1.25 tsp baking powder
+- :bread: 1.5 cups (180 g) all-purpose flour
+- :bread: 0.25 cup (28 g) whole wheat flour
+- :chestnut: 0.5 tsp baking soda
+- :chestnut: 1.25 tsp baking powder
 - :salt: 1 tsp salt
-- :glass_of_milk: 1.33 cups whole milk
-- :microbe: 1 cup (227 g) sourdough starter
-- :candy: 3 Tbsp granulated sugar
+- :glass_of_milk: 1.33 cups (302 g) whole milk
+- :tea: 1 cup (227 g) sourdough starter
+- :candy: 3 Tbsp (37 g) granulated sugar
 
 ## :cooking: Cookware
 

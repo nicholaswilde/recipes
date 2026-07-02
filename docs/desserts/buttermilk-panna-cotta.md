@@ -16,14 +16,14 @@ hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-panna-cotta.webp
 
 ## :salt: Ingredients
 
-- :droplet: 2 Tbsp water
-- :custard: 1.5 tsp unflavored gelatin
-- :icecream: 1 cup whipping cream
-- :lemon: 1 tsp lemon peel
+- :droplet: 2 Tbsp (28 g) water
+- 1.5 tsp unflavored gelatin
+- :glass_of_milk: 1 cup (227 g) whipping cream
+- :tangerine: 1 tsp (3 g) lemon peel
 - :candy: 0.5 cup (99 g) granulated sugar
-- :glass_of_milk: 2 cups (454 g) [buttermilk](../ingredients/buttermilk.md)
-- :icecream: 2 tsp vanilla
-- :strawberry: some berry compote (optional)
+- :icecream: 2 cups [buttermilk](../ingredients/buttermilk.md)
+- :flower_playing_cards: 2 tsp vanilla
+- :apple: some berry compote (optional)
 
 ## :cooking: Cookware
 

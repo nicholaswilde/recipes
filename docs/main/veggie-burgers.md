@@ -17,18 +17,18 @@ hero: assets/images/veggie-burgers.webp
 
 ## :salt: Ingredients
 
-- :beans: 1.5 cups (260 g) [dried black beans][1]
-- :ear_of_rice: 0.5 cup (93 g) cooked brown rice
-- :onion: 0.5 cup (80 g) chopped onion
-- :hot_pepper: 0.5 cup (80 g) chopped bell pepper
+- :burrito: 1.5 cups (262 g) [dried black beans][1]
+- :ear_of_rice: 0.5 cup (85 g) cooked brown rice
+- :seedling: 0.5 cup (48 g) chopped onion
+- :hot_pepper: 0.5 cup (71 g) chopped bell pepper
 - :garlic: 2 cloves garlic
-- :herb: 1 tsp ground cumin
-- :hot_pepper: 1 tsp chili powder
+- :chestnut: 1 tsp (3 g) ground cumin
+- :hot_pepper: 1 tsp (2 g) chili powder
 - :salt: 0.5 tsp salt
-- :salt: 0.25 tsp black pepper
-- :bread: 0.5 cup (60 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :salt: 0.25 tsp (1 g) black pepper
+- 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :egg: 1 large egg
-- :olive: 1 Tbsp extra virgin olive oil
+- :olive: 1 Tbsp (12 g) extra virgin olive oil
 
 ## :cooking: Cookware
 

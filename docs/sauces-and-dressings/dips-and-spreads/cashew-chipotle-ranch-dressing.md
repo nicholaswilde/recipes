@@ -16,16 +16,16 @@ hero: assets/images/cashew-chipotle-ranch-dressing.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 1 cup raw cashews
-- :glass_of_milk: 0.67 cup almond milk
-- :lemon: 2 tsp lemon or lime juice
+- :chestnut: 1 cup (113 g) raw cashews
+- :glass_of_milk: 0.67 cup (56 g) almond milk
+- :tangerine: 2 tsp lemon or lime juice
 - :garlic: 1 clove garlic
 - :salt: 0.5 tsp salt
-- :onion: 0.25 tsp onion powder
-- :sake: 1 tsp apple cider vinegar
-- :maple_leaf: 1 tsp maple syrup
-- :hot_pepper: 0.25 tsp chipotle chili powder or sub chili powder
-- :seedling: 1 Tbsp dried dill
+- :chestnut: 0.25 tsp (1 g) onion powder
+- :apple: 1 tsp (6 g) apple cider vinegar
+- :honey_pot: 1 tsp (6 g) maple syrup
+- :hot_pepper: 0.25 tsp (1 g) chipotle chili powder or sub chili powder
+- :herb: 1 Tbsp (9 g) dried dill
 
 ## :cooking: Cookware
 

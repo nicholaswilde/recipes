@@ -17,7 +17,7 @@ hero: assets/images/peanut-butter.webp
 
 ## :salt: Ingredients
 
-- :peanuts: 4 cups raw or preroasted peanuts
+- :chestnut: 4 cups (568 g) raw or preroasted peanuts
 - :honey_pot: 1 tsp honey
 - :salt: 0.75 tsp salt
 

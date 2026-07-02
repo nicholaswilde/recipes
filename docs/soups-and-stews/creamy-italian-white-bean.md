@@ -16,19 +16,19 @@ hero: assets/images/creamy-italian-white-bean.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup cashews
-- :droplet: 1.25 cup water
-- :olive: 2 Tbsp olive oil
-- :onion: 1 medium shallot
-- :tomato: 4 cups cherry tomatoes
+- :chestnut: 0.5 cup (56 g) cashews
+- :droplet: 1.25 cup (284 g) water
+- :olive: 2 Tbsp (25 g) olive oil
+- :garlic: 1 medium shallot
+- :apple: 4 cups (1344 g) cherry tomatoes
 - :garlic: 4.5 cloves garlic
-- :hot_pepper: 0.5 tsp red pepper flakes (optional)
+- :hot_pepper: 0.5 tsp (1 g) red pepper flakes (optional)
 - :salt: 0.75 tsp sea salt
-- :sake: 0.5 cup white wine
-- :canned_food: 2 15-oz cans white beans
+- :wine_glass: 0.5 cup (53 g) white wine
+- :glass_of_milk: 2 15-oz cans white beans
 - :leafy_green: 4 cups baby spinach
 - :herb: 2 Tbsp basil
-- :custard: 1 [crispy baked tofu with Italian herbs][2] (optional)
+- :apple: 1 [crispy baked tofu with Italian herbs][2] (optional)
 - :cheese_wedge: some vegan Parmesan (optional)
 
 ## :cooking: Cookware

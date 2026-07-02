@@ -15,23 +15,23 @@ hero: assets/images/jackfruit-curry.webp
 
 ## :salt: Ingredients
 
-- :melon: 1 14-oz can jackfruit
-- :seedling: 1 Tbsp coriander seeds
-- :seedling: 1 tsp cumin seeds
+- :baby_bottle: 1 14-oz can jackfruit
+- :seedling: 1 Tbsp (9 g) coriander seeds
+- :chestnut: 1 tsp cumin seeds
 - :sweet_potato: 0.75 inch fresh ginger
 - :garlic: 4 cloves garlic
 - :hot_pepper: 1 small green chili
-- :salt: 0.25 tsp black peppercorns
-- :olive: 1 Tbsp vegetable oil
+- :beans: 0.25 tsp (1 g) black peppercorns
+- :olive: 1 Tbsp (12 g) vegetable oil
 - :herb: 1 bay leaf
-- :hot_pepper: 2 dried red chillies
-- :seedling: 1 tsp cumin seeds
-- :onion: 2 medium onions
+- :grapes: 2 dried red chillies
+- :chestnut: 1 tsp cumin seeds
+- :tea: 2 medium onions
 - :tomato: 2 tomatoes
 - :salt: 0.5 tsp salt
-- :curry: 0.5 tsp turmeric
+- :curry: 0.5 tsp (2 g) turmeric
 - :curry: 1 tsp garam masala
-- :candy: 0.5 tsp granulated sugar
+- :candy: 0.5 tsp (2 g) granulated sugar
 
 ## :cooking: Cookware
 

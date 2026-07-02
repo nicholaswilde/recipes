@@ -19,8 +19,8 @@ hero: assets/images/garlic-rice.webp
 
 - :butter: 1 Tbsp butter
 - :garlic: 6 cloves garlic
-- :rice: 1 cup jasmine rice
-- :droplet: 1.5 cups water
+- :wine_glass: 1 cup (28 g) jasmine rice
+- :droplet: 1.5 cups (340 g) water
 - :salt: some salt
 
 ## :cooking: Cookware

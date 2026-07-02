@@ -18,12 +18,12 @@ hero: assets/images/flourless-chocolate-cake.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 200 g dark chocolate
+- :chestnut: 200 g dark chocolate
 - :butter: 200 g unsalted butter
 - :candy: 200 g granulated sugar
 - :egg: 4 large eggs
-- :ear_of_rice: 1 Tbsp all-purpose flour
-- :strawberry: some raspberries (optional)
+- :bread: 1 Tbsp (8 g) all-purpose flour
+- :apple: some raspberries (optional)
 - :salt: 1 pinch sea salt (optional)
 
 ## :cooking: Cookware

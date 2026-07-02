@@ -17,12 +17,12 @@ hero: assets/images/laugenbrezeln-(german-lye-pretzels).webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2.33 cups (280 g) bread flour
+- :bread: 2.33 cups (280 g) bread flour
 - :salt: 1 tsp table salt
-- :microbe: 1 tsp instant yeast
+- :tea: 1 tsp (3 g) instant yeast
 - :butter: 2 Tbsp butter
-- :test_tube: 40 g lye
-- :cup_with_straw: 0.5 cup (144 g) baking soda
+- 40 g lye
+- :chestnut: 0.5 cup baking soda
 - :salt: some pretzel salt
 
 ## :cooking: Cookware

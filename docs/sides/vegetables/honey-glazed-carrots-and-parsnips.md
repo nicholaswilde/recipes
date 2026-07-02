@@ -18,13 +18,13 @@ hero: assets/images/honey-glazed-carrots-and-parsnips.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 500 g parsnips
+- 500 g parsnips
 - :carrot: 500 g carrots
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :herb: 2 sprigs thyme
-- :custard: 1 stick cinnamon
-- :star: 3 star anise
-- :honey_pot: 2 Tbsp clear honey
+- :chestnut: 1 stick cinnamon
+- :chestnut: 3 star anise
+- :honey_pot: 2 Tbsp (13 g) clear honey
 - :droplet: 1 splash water
 - :butter: some butter
 

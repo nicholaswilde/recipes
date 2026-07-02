@@ -21,16 +21,16 @@ hero: assets/images/creamy-broccoli-bisque.webp
 
     - :broccoli: 1 head broccoli
     - :glass_of_milk: some milk
-    - :butter: 1 Tbsp unsalted butter
-    - :onion: 1 cup onion
+    - :butter: 1 Tbsp (14 g) unsalted butter
+    - :tea: 1 cup (96 g) onion
     - :garlic: 4 cloves garlic
     - :herb: 1 tsp thyme
-    - :leafy_green: 1 cup (100 g) celery
-    - :carrot: 1 cup (145 g) carrot
-    - :potato: 1 cup (225 g) potato
-    - :stew: 4 cups vegetable stock
-    - :glass_of_milk: 0.66 cups heavy cream
-    - :cheese_wedge: 2.66 oz English cheddar cheese
+    - :leafy_green: 1 cup (142 g) celery
+    - :carrot: 1 cup carrot
+    - :sweet_potato: 1 cup (184 g) potato
+    - :stew: 4 cups (792 g) vegetable stock
+    - :glass_of_milk: 0.66 cups (150 g) heavy cream
+    - :cheese_wedge: 2.66 oz (38 g) English cheddar cheese
     - :salt: some salt
     - :salt: some pepper
     - :carrot: 0.33 carrot
@@ -40,16 +40,16 @@ hero: assets/images/creamy-broccoli-bisque.webp
 
     - :broccoli: 3 heads broccoli
     - :glass_of_milk: some milk
-    - :butter: 3 Tbsp unsalted butter
-    - :onion: 3 cups onion
+    - :butter: 3 Tbsp (42 g) unsalted butter
+    - :tea: 3 cups (288 g) onion
     - :garlic: 10 cloves garlic
     - :herb: 1 Tbsp thyme
-    - :leafy_green: 3 cups (300 g) celery
-    - :carrot: 3 cups (435 g) carrots
-    - :potato: 3 cups (675 g) potatoes
-    - :stew: 10 cups vegetable stock
-    - :glass_of_milk: 2 cups heavy cream
-    - :cheese_wedge: 8 oz English cheddar cheese
+    - :leafy_green: 3 cups (426 g) celery
+    - :carrot: 3 cups (426 g) carrots
+    - :sweet_potato: 3 cups (639 g) potatoes
+    - :stew: 10 cups (1980 g) vegetable stock
+    - :glass_of_milk: 2 cups (454 g) heavy cream
+    - :cheese_wedge: 8 oz (114 g) English cheddar cheese
     - :salt: some salt
     - :salt: some pepper
     - :carrot: 1 carrot

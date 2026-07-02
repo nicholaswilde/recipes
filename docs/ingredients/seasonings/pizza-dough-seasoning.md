@@ -17,10 +17,10 @@ hero: assets/images/pizza-dough-seasoning.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 8 Tbsp white or yellow cheddar cheese powder
+- :orange_circle: 8 Tbsp (57 g) white or yellow cheddar cheese powder
 - :garlic: 1 Tbsp garlic powder
-- :onion: 1 Tbsp onion powder
-- :herb: 1 Tbsp Italian seasoning
+- :chestnut: 1 Tbsp (7 g) onion powder
+- :herb: 1 Tbsp (7 g) Italian seasoning
 
 ## :cooking: Cookware
 

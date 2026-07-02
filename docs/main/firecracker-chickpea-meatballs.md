@@ -17,16 +17,16 @@ hero: assets/images/firecracker-chickpea-meatballs.png
 
 ## :salt: Ingredients
 
-- :falafel: 400 g chickpeas
-- :bread: 1 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
-- :onion: 0.5 cup red onion
+- :beans: 400 g chickpeas
+- 1 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :tea: 0.5 cup (105 g) red onion
 - :garlic: 2 cloves garlic
-- :sake: 2 Tbsp soy sauce
-- :bell_pepper: 1 tsp paprika
-- :herb: 1 tsp cumin
-- :salt: 0.5 tsp black pepper
+- :takeout_box: 2 Tbsp (18 g) soy sauce
+- :candy: 1 tsp paprika
+- :chestnut: 1 tsp (3 g) cumin
+- :salt: 0.5 tsp (2 g) black pepper
 - :droplet: some water
-- :oil_drum: 1 Tbsp high-heat oil
+- :baby_bottle: 1 Tbsp (12 g) high-heat oil
 
 ## :cooking: Cookware
 

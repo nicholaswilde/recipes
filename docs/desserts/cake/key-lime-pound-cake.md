@@ -19,19 +19,19 @@ hero: assets/images/key-lime-pound-cake.webp
 ## :salt: Ingredients
 
 - :bread: some all-purpose flour (for pan)
-- :butter: 1 cup (227 g) butter (softened)
-- :butter: 1/2 cup (92 g) shortening
-- :candy: 3 cups (594 g) sugar
-- :egg: 6 large eggs (300 g)
+- :baby_bottle: 1 cup (226 g) butter (softened)
+- :butter: 1/2 cup (90 g) shortening
+- :candy: 3 cups (468 g) sugar
+- :egg: 6 large eggs
 - :bread: 3 cups (360 g) all-purpose flour
 - :chestnut: 1/2 tsp baking powder
 - :salt: 1/8 tsp salt
 - :glass_of_milk: 1 cup (227 g) milk
 - :flower_playing_cards: 1 tsp vanilla extract
-- :tangerine: 1 tsp lime zest
-- :tangerine: 1/4 cup (60 g) fresh Key lime juice
-- :candy: 1 cup (113 g) powdered sugar
-- :tangerine: 2 Tbsp (30 g) fresh Key lime juice
+- :tangerine: 1 tsp (5 g) lime zest
+- :tangerine: 1/4 cup (57 g) fresh Key lime juice
+- :candy: 1 cup (200 g) powdered sugar
+- :tangerine: 2 Tbsp (28 g) fresh Key lime juice
 - :flower_playing_cards: 1/2 tsp vanilla extract
 
 ## :cooking: Cookware

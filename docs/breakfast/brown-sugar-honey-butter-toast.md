@@ -18,10 +18,10 @@ hero: assets/images/brown-sugar-honey-butter-toast.webp
 ## :salt: Ingredients
 
 - :butter: 40 g unsalted butter
-- :maple_leaf: 40 g light brown sugar
+- :candy: 40 g light brown sugar
 - :honey_pot: 20 g honey
 - :salt: 1 pinch salt
-- :bread: 2 slices [Japanese Milk Bread][2]
+- :glass_of_milk: 2 slices [Japanese Milk Bread][2]
 
 ## :cooking: Cookware
 

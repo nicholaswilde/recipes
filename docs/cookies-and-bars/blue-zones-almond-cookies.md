@@ -16,10 +16,10 @@ hero: assets/images/blue-zones-almond-cookies.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 6 cups (852 g) almonds
-- :candy: 0.5 cup (99 g) sugar
-- :orange_circle: 3 Tbsp orange flower water
-- :lemon: 1 lemon zest
+- :chestnut: 6 cups (516 g) almonds
+- :candy: 0.5 cup (78 g) sugar
+- :droplet: 3 Tbsp (19 g) orange flower water
+- :tangerine: 1 lemon zest
 
 ## :cooking: Cookware
 

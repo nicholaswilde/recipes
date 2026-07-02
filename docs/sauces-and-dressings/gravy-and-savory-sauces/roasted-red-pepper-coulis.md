@@ -16,10 +16,10 @@ hero: assets/images/roasted-red-pepper-coulis.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 cup onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 cup (96 g) onion
 - :garlic: 1 Tbsp garlic
-- :bell_pepper: 1 24-oz jar [Roasted Red Peppers](../../ingredients/roasted-red-peppers.md)
+- :hot_pepper: 1 24-oz jar [Roasted Red Peppers](../../ingredients/roasted-red-peppers.md)
 - :salt: some salt
 - :salt: some pepper
 

@@ -19,24 +19,24 @@ hero: assets/images/grilled-naan.webp
 
 === "Sponge"
 
-    - :ear_of_rice: 177 g all-purpose flour
-    - :ear_of_rice: 53 g whole wheat flour
-    - :microbe: 1/4 tsp instant yeast
+    - :bread: 177 g all-purpose flour
+    - :bread: 53 g whole wheat flour
+    - :tea: 1/4 tsp (1 g) instant yeast
     - :droplet: 170 g water
 
 === "Dough"
 
-    - :ear_of_rice: 270 g all-purpose flour
+    - :bread: 270 g all-purpose flour
     - :salt: 9 g tsp salt
-    - :cup_with_straw: 1/2 tsp baking soda
-    - :rice: 1 tsp cream of tarter
-    - :rice: 170 g full-fat plain Greek yogurt or whole milk
+    - :chestnut: 1/2 tsp baking soda
+    - :glass_of_milk: 1 tsp (6 g) cream of tarter
+    - :coconut: 170 g full-fat plain Greek yogurt or whole milk
 
 === "Topping"
 
     - :butter: 28 g ghee or butter
-    - :seedling: 2 tsp nigella seeds (optional)
-    - :herb: 0.25 cup cilantro
+    - :seedling: 2 tsp (6 g) nigella seeds (optional)
+    - :herb: 0.25 cup (10 g) cilantro
 
 ## :cooking: Cookware
 

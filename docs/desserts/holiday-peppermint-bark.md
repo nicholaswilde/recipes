@@ -16,7 +16,7 @@ hero: assets/images/holiday-peppermint-bark.webp
 ## :salt: Ingredients
 
 - :chocolate_bar: 1 12-oz pkg white chocolate morsels
-- :salt: 24 pieces peppermint candies
+- 24 pieces peppermint candies
 
 ## :cooking: Cookware
 

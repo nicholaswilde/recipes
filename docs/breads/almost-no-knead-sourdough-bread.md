@@ -18,10 +18,10 @@ hero: assets/images/almost-no-knead-sourdough-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 520 g bread flour
+- :bread: 520 g bread flour
 - :salt: 1.75 tsp salt
-- :droplet: 360 g room-temperature water
-- :microbe: 85 g [starter][2]
+- :baby_bottle: 360 g room-temperature water
+- 85 g [starter][2]
 
 ## :cooking: Cookware
 

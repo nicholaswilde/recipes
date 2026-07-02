@@ -17,10 +17,10 @@ hero: assets/images/salted-peanut-butter.webp
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1.75 cups (373 g) light brown sugar
+- :candy: 1.75 cups (373 g) light brown sugar
 - :egg: 2 large eggs
-- :icecream: 0.5 tsp vanilla
-- :peanuts: 1.75 cups (236 g) creamy peanut butter
+- :flower_playing_cards: 0.5 tsp vanilla
+- :chestnut: 1.75 cups (472 g) creamy peanut butter
 - :salt: some sea salt
 
 ## :cooking: Cookware

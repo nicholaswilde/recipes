@@ -17,13 +17,13 @@ hero: assets/images/kickstarter-garlic-mushrooms.webp
 
 ## :salt: Ingredients
 
-- :stew: 0.25 cup [vegetable broth][1]
+- 0.25 cup [vegetable broth][1]
 - :mushroom: 2 bags TJ's sliced mushrooms
 - :garlic: 5 cloves garlic
-- :hot_pepper: 1.25 tsp paprika
-- :hot_pepper: 0.25 tsp crushed red pepper
-- :wine_glass: 2.5 Tbsp dry marsala wine
-- :stew: 1 cup [vegetable broth][1]
+- :candy: 1.25 tsp paprika
+- :hot_pepper: 0.25 tsp (1 g) crushed red pepper
+- :wine_glass: 2.5 Tbsp (27 g) dry marsala wine
+- 1 cup [vegetable broth][1]
 - :salt: some salt
 - :salt: some pepper
 - :herb: 0.5 cup parsley

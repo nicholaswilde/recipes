@@ -17,8 +17,8 @@ hero: assets/images/lemon-extract.webp
 
 ## :salt: Ingredients
 
-- :lemon: 1 lemon
-- :sake: 2 oz vodka
+- :tangerine: 1 lemon
+- :tangerine: 2 oz vodka
 
 ## :cooking: Cookware
 

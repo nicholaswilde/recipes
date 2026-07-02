@@ -18,12 +18,12 @@ hero: assets/images/alfredo-sauce.webp
 ## :salt: Ingredients
 
 - :butter: 0.5 cup butter
-- :icecream: 1.5 cups heavy whipping cream
+- :glass_of_milk: 1.5 cups (340 g) heavy whipping cream
 - :garlic: 2 tsp garlic
-- :herb: 0.5 tsp [Italian seasoning][1]
+- 0.5 tsp [Italian seasoning][1]
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
-- :cheese_wedge: 2 cups Parmesan
+- :cheese_wedge: 2 cups (200 g) Parmesan
 
 ## :cooking: Cookware
 

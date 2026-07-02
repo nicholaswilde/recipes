@@ -17,12 +17,12 @@ hero: assets/images/roasted-fennel-with-garlic-and-thyme.webp
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 large bulb fennel
-- :olive: 1 Tbsp olive oil
+- 1 large bulb fennel
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 0.5 tsp garlic powder
 - :herb: 0.5 tsp thyme
 - :salt: 0.25 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 
 ## :cooking: Cookware
 

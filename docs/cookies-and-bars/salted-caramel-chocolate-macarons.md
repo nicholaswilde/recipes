@@ -26,12 +26,12 @@ hero: assets/images/salted-caramel-chocolate-macarons.webp
     - :chocolate_bar: 45 g unsweetened cocoa powder
     - :egg: 144 g egg whites (Split into 72 g each)
     - :candy: 210 g granulated sugar
-    - :ice_cube: 70 ml cold water
+    - :baby_bottle: 70 ml (67 g) cold water
 
 === "Salted Caramel Chocolate Ganache"
 
     - :candy: 220 g granulated sugar
-    - :icecream: 212 g heavy cream
+    - :glass_of_milk: 212 g heavy cream
     - :chocolate_bar: 75 g 54 percent cocoa chocolate
     - :salt: 0.75 tsp flaked sea salt
     - :butter: 15 g unsalted butter

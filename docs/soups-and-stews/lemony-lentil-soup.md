@@ -16,20 +16,20 @@ hero: assets/images/lemony-lentil-soup.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 medium onion
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 medium onion
 - :carrot: 2 medium carrots
 - :garlic: 5 cloves garlic
-- :stew: 6 cups vegetable stock
-- :ear_of_rice: 1.5 cups red lentils
-- :corn: 0.67 cup corn
-- :herb: 2 tsp cumin
-- :curry: 1 tsp curry
+- :stew: 6 cups (1188 g) vegetable stock
+- :beans: 1.5 cups (315 g) red lentils
+- :corn: 0.67 cup (209 g) corn
+- :chestnut: 2 tsp (6 g) cumin
+- :curry: 1 tsp (3 g) curry
 - :tulip: 1 pinch saffron
-- :bell_pepper: 1 pinch cayenne
+- :hot_pepper: 1 pinch cayenne
 - :salt: some salt
 - :salt: some pepper
-- :lemon: 1 lemon zest and juice
+- :tangerine: 1 lemon zest and juice
 
 ## :cooking: Cookware
 

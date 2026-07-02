@@ -16,16 +16,16 @@ hero: assets/images/claire's-five-onion-dip.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 white onion
-- :onion: 1 red onion
-- :onion: 1 sweet onion
+- :tea: 1 white onion
+- :tea: 1 red onion
+- :tea: 1 sweet onion
 - :garlic: 2 shallot
-- :oil_drum: 0.5 cup vegetable oil
+- :olive: 0.5 cup (99 g) vegetable oil
 - :salt: 1 Tbsp salt
-- :rice: 1 cup sour cream
-- :egg: 2 Tbsp [mayonnaise][1]
-- :sake: 0.5 tsp Worcestershire sauce
-- :salt: 0.25 tsp white pepper
+- :glass_of_milk: 1 cup (227 g) sour cream
+- 2 Tbsp [mayonnaise][1]
+- :apple: 0.5 tsp (2 g) Worcestershire sauce
+- :salt: 0.25 tsp (1 g) white pepper
 
 ## :cooking: Cookware
 

@@ -18,18 +18,18 @@ hero: assets/images/peanut-butter-cookies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 260 g bread flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 0.25 tsp baking powder
+- :bread: 260 g bread flour
+- :chestnut: 1 tsp baking soda
+- :chestnut: 0.25 tsp baking powder
 - :salt: 1.25 tsp salt
 - :butter: 168 g unsalted butter
 - :candy: 50 g granulated sugar
-- :maple_leaf: 250 g light brown sugar
-- :oil_drum: 49 g vegetable oil
-- :icecream: 1 Tbsp vanilla
+- :candy: 250 g light brown sugar
+- :olive: 49 g vegetable oil
+- :flower_playing_cards: 1 Tbsp vanilla
 - :egg: 1 egg
-- :egg: 2 egg yolks
-- :peanuts: 202 g creamy peanut butter
+- :baby_bottle: 2 egg yolks
+- :chestnut: 202 g creamy peanut butter
 
 ## :cooking: Cookware
 

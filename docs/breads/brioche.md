@@ -19,26 +19,26 @@ hero: assets/images/brioche.webp
 
 === "Dough"
 
-    - :ear_of_rice: 330 g all-purpose flour
+    - :bread: 330 g all-purpose flour
     - :glass_of_milk: 28 g dry milk
     - :salt: 8 g salt
-    - :microbe: 1 Tbsp instant yeast
+    - :tea: 1 Tbsp (9 g) instant yeast
     - :egg: 3 large eggs
-    - :ice_cube: 57 g water
+    - :droplet: 57 g water
     - :candy: 35 g granulated sugar
     - :butter: 142 g unsalted butter
 
 === "Glaze (optional)"
 
-    - :candy: 3 Tbsp confectioners' sugar
-    - :icecream: 1 tsp vanilla
+    - :candy: 3 Tbsp (21 g) confectioners' sugar
+    - :flower_playing_cards: 1 tsp vanilla
     - :salt: 1 tsp salt
-    - :icecream: 2 tsp heavy cream
+    - :glass_of_milk: 2 tsp (9 g) heavy cream
 
 === "Braided Loaf"
 
     - :egg: 1 egg yolk (optional)
-    - :oyster: some pearl sugar or sparkling white sugar (optional)
+    - :candy: some pearl sugar or sparkling white sugar (optional)
 
 ## :cooking: Cookware
 

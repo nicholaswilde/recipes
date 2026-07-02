@@ -15,12 +15,12 @@ hero: assets/images/lemon-garlic-cauliflower-rice.png
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 1 Tbsp garlic
 - :broccoli: 1 bag TJ's Riced Cauliflower
-- :tangerine: 1 Tbsp lemon juice
+- :tangerine: 1 Tbsp (14 g) lemon juice
 - :herb: 2 Tbsp parsley
-- :cheese_wedge: 0.33 cup (35 g) Chiave d’Oro Cheese
+- :cheese_wedge: 0.33 cup (75 g) Chiave d’Oro Cheese
 - :salt: some salt
 - :salt: some pepper
 

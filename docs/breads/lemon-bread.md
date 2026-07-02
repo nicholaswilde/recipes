@@ -18,27 +18,27 @@ hero: assets/images/lemon-bread.png
 
 === "Bread"
 
-    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-    - :custard: 3.4 oz instant lemon pudding mix
-    - :dash: 1.2 tsp baking powder
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :bread: 1.5 cups (180 g) all-purpose flour
+    - :candy: 3.4 oz (47 g) instant lemon pudding mix
+    - :chestnut: 1.2 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
     - :salt: 0.5 tsp salt
     - :egg: 3 eggs
     - :candy: 1 cup (198 g) granulated sugar
-    - :butter: 2 Tbsp unsalted butter
-    - :icecream: 1 tsp vanilla
-    - :lemon: 2 tsp lemon extract
-    - :lemon: 0.33 cup lemon juice
-    - :carrot: 0.5 cup (99 g) vegetable oil
-    - :microbe: 0.75 cup (170 g) plain Greek yogurt
-    - :lemon: 1 lemon
+    - :butter: 2 Tbsp (28 g) unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
+    - :flower_playing_cards: 2 tsp (8 g) lemon extract
+    - :tangerine: 0.33 cup (74 g) lemon juice
+    - :olive: 0.5 cup (99 g) vegetable oil
+    - :glass_of_milk: 0.75 cup (170 g) plain Greek yogurt
+    - :tangerine: 1 lemon
 
 === "Frosting"
 
     - :butter: 3 Tbsp butter
-    - :lemon: 3 Tbsp lemon juice
-    - :lemon: 1 tsp lemon extract
-    - :candy: 1.5 cups (297 g) confectioners' sugar
+    - :tangerine: 3 Tbsp (42 g) lemon juice
+    - :flower_playing_cards: 1 tsp (4 g) lemon extract
+    - :candy: 1.5 cups (170 g) confectioners' sugar
 
 ## :cooking: Cookware
 

@@ -18,7 +18,7 @@ hero: assets/images/cinnamon-sugar.webp
 ## :salt: Ingredients
 
 - :candy: 0.5 cup (99 g) granulated sugar
-- :custard: 2 Tbsp cinnamon
+- :chestnut: 2 Tbsp (25 g) cinnamon
 
 ## :cooking: Cookware
 

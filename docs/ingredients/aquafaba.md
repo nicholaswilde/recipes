@@ -16,8 +16,8 @@ hero: assets/images/aquafaba.png
 
 ## :salt: Ingredients
 
-- :falafel: 1 cup dry chickpeas
-- :droplet: some filtered water
+- :wine_glass: 1 cup (175 g) dry chickpeas
+- :baby_bottle: some filtered water
 
 ## :triangular_ruler: Best Ways to Use Aquafaba
 

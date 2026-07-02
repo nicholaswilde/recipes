@@ -19,12 +19,12 @@ hero: assets/images/flaky-olive-oil-dough.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 227 g all-purpose flour
+- :bread: 227 g all-purpose flour
 - :candy: 13 g granulated sugar
 - :salt: 1 tsp salt
-- :dash: 0.25 tsp baking powder
+- :chestnut: 0.25 tsp baking powder
 - :olive: 96 g olive oil
-- :ice_cube: 57 g cold tap water
+- :baby_bottle: 57 g cold tap water
 
 ## :cooking: Cookware
 

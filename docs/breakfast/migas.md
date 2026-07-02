@@ -19,7 +19,7 @@ tags:
 - :herb: 1 tsp (2 g) chili-lime seasoning
 - :egg: 4 eggs
 - :cheese_wedge: 0.5 cup (113 g) cottage cheese
-- :beans: 0.5 can black beans
+- :canned_food: 0.5 can black beans
 - :bread: 2 handfuls tortilla chips
 - :tomato: some salsa
 - :glass_of_milk: some sour cream

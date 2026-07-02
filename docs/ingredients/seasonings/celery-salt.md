@@ -17,7 +17,7 @@ hero: assets/images/celery-salt.webp
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 bunch leaves from each celery stalk
+- :apple: 1 bunch leaves from each celery stalk
 - :salt: some flaky sea salt
 
 ## :cooking: Cookware

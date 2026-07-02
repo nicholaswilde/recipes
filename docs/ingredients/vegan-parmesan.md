@@ -18,11 +18,11 @@ hero: assets/images/vegan-parmesan.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 0.75 cup raw cashew
-- :microbe: 3 Tbsp nutritional yeast
+- :chestnut: 0.75 cup (148 g) raw cashew
+- :cheese_wedge: 3 Tbsp (11 g) nutritional yeast
 - :salt: 0.75 tsp sea salt
 - :garlic: 1 dash garlic powder
-- :onion: 1 dash onion powder (optional)
+- :tea: 1 dash onion powder (optional)
 
 ## :cooking: Cookware
 

@@ -22,16 +22,16 @@ hero: assets/images/earthquake-chocolate-crinkle-cookies.webp
 ## :salt: Ingredients
 
 - :bread: 1.25 cups (150 g) all-purpose flour
-- :candy: 0.5 cup (42 g) unsweetened cocoa powder
-- :chestnut: 2 tsp (8 g) baking powder
-- :salt: 0.5 tsp (3 g) fleur de sel or kosher salt
-- :butter: 0.5 cup (113 g) unsalted butter, chilled and cubed
+- :chocolate_bar: 0.5 cup (42 g) unsweetened cocoa powder
+- :chestnut: 2 tsp baking powder
+- :salt: 0.5 tsp fleur de sel or kosher salt
+- :glass_of_milk: 0.5 cup (113 g) unsalted butter, chilled and cubed
 - :candy: 1.5 cups (320 g) light brown sugar
-- :egg: 2 large (100 g) eggs
-- :chestnut: 8 ounces (227 g) extra-bittersweet chocolate (70% cacao, melted and cooled)
+- :egg: 2 large eggs
+- :apple: 8 ounces (170 g) extra-bittersweet chocolate (70% cacao, melted and cooled)
 - :flower_playing_cards: 1 tsp vanilla extract
 - :glass_of_milk: 0.33 cup (75 g) whole milk
-- :page_facing_up: some parchment paper
+- :bread: some parchment paper
 - :candy: 1.5 cups (170 g) confectioners' sugar
 - :candy: 1.5 cups (297 g) granulated sugar
 

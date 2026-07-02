@@ -17,17 +17,17 @@ hero: assets/images/empanadas.webp
 
 ## :salt: Ingredients
 
-- :cut_of_meat: 2 lbs lean ground beef
-- :onion: 1 onion
+- :apple: 2 lbs lean ground beef
+- :tea: 1 onion
 - :garlic: 3 cloves garlic
-- :herb: 1 tsp cumin
-- :herb: 0.5 tsp coriander
-- :candy: 3 Tbsp sugar
+- :chestnut: 1 tsp (3 g) cumin
+- :chestnut: 0.5 tsp (1 g) coriander
+- :candy: 3 Tbsp (29 g) sugar
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
-- :salt: 0.5 tsp accent
-- :sake: 0.5 cup Dutch soy sauce
-- :dumpling: some [empanada pastry][1]
+- 0.5 tsp accent
+- :apple: 0.5 cup (114 g) Dutch soy sauce
+- some [empanada pastry][1]
 
 ## :pencil: Instructions
 

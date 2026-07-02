@@ -19,8 +19,8 @@ hero: assets/images/gordon-ramsay-scrambled-eggs.webp
 
 - :egg: 6 eggs
 - :butter: 15 g butter
-- :butter: 1 tsp [crème fraîche][1]
-- :herb: some chives
+- 1 tsp [crème fraîche][1]
+- some chives
 
 ## :cooking: Cookware
 

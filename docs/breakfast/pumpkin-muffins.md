@@ -17,18 +17,18 @@ hero: assets/images/pumpkin-muffins.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
+- :bread: 1.75 cups (210 g) all-purpose flour
 - :candy: 1 cup (198 g) granulated sugar
-- :maple_leaf: 0.5 cup (106 g) dark brown sugar
-- :cup_with_straw: 1 tsp baking soda
+- :candy: 0.5 cup (106 g) dark brown sugar
+- :chestnut: 1 tsp baking soda
 - :salt: 0.5 tsp salt
-- :custard: 2 tsp cinnamon
-- :four_leaf_clover: 0.25 tsp ground cloves
-- :chestnut: 0.25 tsp nutmeg
+- :chestnut: 2 tsp (8 g) cinnamon
+- :chestnut: 0.25 tsp (1 g) ground cloves
+- :apple: 0.25 tsp nutmeg
 - :egg: 2 eggs
-- :jack_o_lantern: 1 15-oz can [pumpkin purée][1]
-- :coconut: 0.5 cup (113 g) coconut oil
-- :icecream: 1 tsp vanilla
+- :glass_of_milk: 1 15-oz can [pumpkin purée][1]
+- :olive: 0.5 cup (113 g) coconut oil
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

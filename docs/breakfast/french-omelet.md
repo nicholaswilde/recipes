@@ -23,20 +23,20 @@ hero: assets/images/french-omelet.webp
     - :egg: 2 large eggs
     - :salt: 0.13 tsp salt
     - :salt: 1 pinch pepper
-    - :butter: 1 Tbsp unsalted butter
+    - :butter: 1 Tbsp (14 g) unsalted butter
 
 === "Fillings"
 
-    - :herb: some chives
+    - some chives
     - :herb: some parsley
-    - :eggplant: some [ratatouille provençale][1]
+    - some [ratatouille provençale][1]
     - :mushroom: some creamed mushrooms
-    - :avocado: some guacamole and salsa fresca
+    - :avodado: some guacamole and salsa fresca
     - :cheese_wedge: some [Ricotta](../ingredients/ricotta.md) or goat cheese mixed with tomatoes and herbs
-    - :olive: some chopped olives and sour cream
-    - :mushroom: some duxelles
+    - :glass_of_milk: some chopped olives and sour cream
+    - some duxelles
     - :onion: some caramelized onions
-    - :cucumber: some sautéed zucchini or asparagus tips
+    - some sautéed zucchini or asparagus tips
 
 ## :cooking: Cookware
 

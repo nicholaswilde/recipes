@@ -19,16 +19,16 @@ hero: assets/images/orange-sparkle-slice-and-bake-cookies.webp
 ## :salt: Ingredients
 
 - :tangerine: 75 g candied orange peel
-- :hot_springs: some hot water
+- :droplet: some hot water
 - :candy: 132 g granulated sugar
 - :candy: 76 g confectioners' sugar
-- :tangerine: 0.25 tsp orange citrus oil
+- :olive: 0.25 tsp (1 g) orange citrus oil
 - :salt: 1.75 tsp table salt
-- :icecream: 2 tsp vanilla
-- :hibiscus: 0.5 tsp Fiori di Sicilia
+- :flower_playing_cards: 2 tsp vanilla
+- :tangerine: 0.5 tsp Fiori di Sicilia
 - :butter: 255 g unsalted butter
 - :egg: 1 large egg
-- :ear_of_rice: 390 g all-purpose flour
+- :bread: 390 g all-purpose flour
 - :candy: 113 g sparkling sugar
 
 ## :cooking: Cookware

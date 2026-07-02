@@ -19,20 +19,20 @@ hero: assets/images/samoas.png
 
 === "Cookie"
 
-    - :butter: 1 cup (227 g) unsalted butter
+    - :butter: 1 cup (226 g) unsalted butter
     - :candy: 0.5 cup (99 g) granulated sugar
-    - :ear_of_rice: 2 cups (240 g) all-purpose flour
-    - :dash: 0.25 tsp baking powder
+    - :bread: 2 cups (240 g) all-purpose flour
+    - :chestnut: 0.25 tsp baking powder
     - :salt: 0.5 tsp salt
-    - :glass_of_milk: 2 Tbsp milk
-    - :icecream: 0.5 tsp vanilla
+    - :glass_of_milk: 2 Tbsp (28 g) milk
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 === "Coconut Topping"
 
-    - :coconut: 3 cups coconut
-    - :candy: 20 oz caramels
-    - :glass_of_milk: 4 Tbsp milk
-    - :chocolate_bar: 12 oz dark chocolate
+    - :coconut: 3 cups (678 g) coconut
+    - 20 oz caramels
+    - :glass_of_milk: 4 Tbsp (57 g) milk
+    - :chestnut: 12 oz (255 g) dark chocolate
 
 ## :cooking: Cookware
 

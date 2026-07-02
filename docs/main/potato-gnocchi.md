@@ -17,11 +17,11 @@ hero: assets/images/potato-gnocchi.webp
 
 ## :salt: Ingredients
 
-- :potato: 2 lbs all-purpose or boiling potatoes
-- :ear_of_rice: 1.33 cup (160 g) all-purpose flour
+- :baby_bottle: 2 lbs all-purpose or boiling potatoes
+- :bread: 1.33 cup (160 g) all-purpose flour
 - :salt: 1 tsp salt
-- :chestnut: 0.25 tsp nutmeg
-- :butter: 3 Tbsp unsalted butter, melted
+- :apple: 0.25 tsp nutmeg
+- :baby_bottle: 3 Tbsp (42 g) unsalted butter, melted
 
 ## :cooking: Cookware
 

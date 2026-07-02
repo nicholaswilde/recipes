@@ -19,13 +19,13 @@ hero: assets/images/oatmeal-cookies.webp
 ## :salt: Ingredients
 
 - :butter: 227 g unsalted butter
-- :ear_of_rice: 173 g all-purpose flour
+- :bread: 173 g all-purpose flour
 - :salt: 2 tsp salt
-- :cup_with_straw: 1 tsp baking soda
-- :chestnut: 1 portion [pecan brittle][2]
+- :chestnut: 1 tsp baking soda
+- 1 portion [pecan brittle][2]
 - :ear_of_rice: 200 g old-fashioned rolled oats
-- :icecream: 1 Tbsp vanilla
-- :maple_leaf: 150 g dark brown sugar
+- :flower_playing_cards: 1 Tbsp vanilla
+- :candy: 150 g dark brown sugar
 - :candy: 100 g granulated sugar
 - :egg: 2 eggs
 

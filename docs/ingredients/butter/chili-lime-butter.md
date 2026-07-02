@@ -18,14 +18,14 @@ hero: assets/images/chili-lime-butter.webp
 
 ## :salt: Ingredients
 
-- :lemon: 1 lime
-- :butter: 2 Tbsp unsalted butter
-- :egg: 0.25 cup mayonnaise
-- :cheese_wedge: 0.5 cup cotija cheese
+- :tangerine: 1 lime
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :baby_bottle: 0.25 cup (56 g) mayonnaise
+- :cheese_wedge: 0.5 cup (57 g) cotija cheese
 - :hot_pepper: 0.75 tsp chipotle powder
 - :salt: 0.25 tsp salt
 - :herb: 0.25 bunch cilantro
-- :bell_pepper: 0.25 tsp paprika
+- :candy: 0.25 tsp paprika
 
 ## :cooking: Cookware
 

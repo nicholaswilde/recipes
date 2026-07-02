@@ -20,8 +20,8 @@ hero: assets/images/marzipan.webp
 - :chestnut: 300 g ground almonds
 - :candy: 100 g granulated sugar
 - :candy: 350 g confectioners' sugar
-- :chestnut: 2 drops almond essence (optional)
-- :egg: 2 egg white
+- :apple: 2 drops almond essence (optional)
+- :beans: 2 egg white
 
 ## :cooking: Cookware
 

@@ -17,8 +17,8 @@ hero: assets/images/hash-browns.webp
 
 ## :salt: Ingredients
 
-- :potato: 6 medium potatoes
-- :onion: 1 large onion
+- :sweet_potato: 6 medium potatoes
+- :tea: 1 large onion
 - :salt: some salt
 - :salt: some pepper
 - :olive: some olive oil

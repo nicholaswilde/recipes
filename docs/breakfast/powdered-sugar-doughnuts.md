@@ -16,19 +16,19 @@ hero: assets/images/powdered-sugar-doughnuts.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup (57 g) unsalted butter
-- :oil_drum: 0.25 cup (50 g) vegetable oil
+- :butter: 0.25 cup (56 g) unsalted butter
+- :olive: 0.25 cup (50 g) vegetable oil
 - :candy: 0.5 cup (99 g) granulated sugar
-- :maple_leaf: 0.33 cup (70 g) light brown sugar
+- :candy: 0.33 cup (70 g) light brown sugar
 - :egg: 2 large eggs
-- :icecream: 1 tsp vanilla
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.25 tsp baking soda
-- :chestnut: 0.75 tsp nutmeg
-- :custard: 1 tsp cinnamon
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: 1.5 tsp baking powder
+- :chestnut: 0.25 tsp baking soda
+- :apple: 0.75 tsp nutmeg
+- :chestnut: 1 tsp (4 g) cinnamon
 - :salt: 0.75 tsp salt
-- :ear_of_rice: 2.66 cups (319 g) all-purpose flour
-- :glass_of_milk: 1 cup milk
+- :bread: 2.66 cups (319 g) all-purpose flour
+- :glass_of_milk: 1 cup (227 g) milk
 
 ## :cooking: Cookware
 

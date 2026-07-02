@@ -21,12 +21,12 @@ hero: assets/images/gochujang-buttered-noodles.webp
 ## :salt: Ingredients
 
 - :bread: 1 pound spaghetti or other long pasta
-- :butter: 6 Tbsp (51 g) unsalted butter
+- :butter: 6 Tbsp (85 g) unsalted butter
 - :garlic: 12 cloves garlic
 - :salt: some salt
 - :salt: some pepper
-- :hot_pepper: 0.25 cup (64 g) gochujang paste
-- :honey_pot: 0.25 cup (84 g) honey
+- :hot_pepper: 0.25 cup (78 g) gochujang paste
+- :honey_pot: 0.25 cup honey
 - :wine_glass: 0.25 cup (50 g) sherry vinegar or rice vinegar
 - :salt: some salt
 - :salt: some pepper

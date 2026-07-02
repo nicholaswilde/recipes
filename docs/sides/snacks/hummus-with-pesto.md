@@ -17,16 +17,16 @@ hero: assets/images/hummus-with-pesto.webp
 
 ## :salt: Ingredients
 
-- :falafel: 1 15-oz can chickpeas
-- :cup_with_straw: 1.5 tsp baking soda
-- :ice_cube: 0.25 cup cold water
-- :ice_cube: 1 ice cube
+- :baby_bottle: 1 15-oz can chickpeas
+- :chestnut: 1.5 tsp baking soda
+- :baby_bottle: 0.25 cup (57 g) cold water
+- 1 ice cube
 - :garlic: 1 clove garlic
-- :lemon: 0.25 cup lemon juice
+- :tangerine: 0.25 cup (56 g) lemon juice
 - :salt: 0.5 tsp salt
-- :hot_pepper: 0.25 tsp paprika
-- :seedling: 0.33 cup [tahini][2]
-- :herb: some [pesto][1]
+- :candy: 0.25 tsp paprika
+- 0.33 cup [tahini][2]
+- some [pesto][1]
 
 ## :cooking: Cookware
 

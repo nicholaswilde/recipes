@@ -20,31 +20,31 @@ hero: assets/images/monastery-pumpkin-bread.webp
 
 === "Full Batch"
 
-    - :ear_of_rice: 3.5 cups (420 g) flour
-    - :candy: 3 cups (594 g) sugar
-    - :cup_with_straw: 2 tsp (12 g) baking soda
-    - :custard: 1 tsp (3 g) cinnamon
-    - :chestnut: 1 tsp (2 g) nutmeg
-    - :salt: 1.5 tsp (9 g) salt
+    - :bread: 3.5 cups (322 g) flour
+    - :candy: 3 cups (468 g) sugar
+    - :chestnut: 2 tsp baking soda
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :apple: 1 tsp nutmeg
+    - :salt: 1.5 tsp salt
     - :egg: 4 eggs
-    - :olive: 1 cup (198 g) oil
+    - :olive: 1 cup (200 g) oil
     - :droplet: 0.67 cup (152 g) water
-    - :jack_o_lantern: 2 cups (454 g) pumpkin
-    - :chestnut: some walnut halves
+    - :melon: 2 cups (454 g) pumpkin
+    - some walnut halves
 
 === "Half Batch"
 
-    - :ear_of_rice: 1.75 cups (210 g) flour
-    - :candy: 1.5 cups (297 g) sugar
-    - :cup_with_straw: 1 tsp (6 g) baking soda
-    - :custard: 0.5 tsp (1.5 g) cinnamon
-    - :chestnut: 0.5 tsp (1 g) nutmeg
+    - :bread: 1.75 cups (161 g) flour
+    - :candy: 1.5 cups (234 g) sugar
+    - :chestnut: 1 tsp baking soda
+    - :chestnut: 0.5 tsp (2 g) (1.5 g) cinnamon
+    - :apple: 0.5 tsp nutmeg
     - :salt: 0.75 tsp (4.5 g) salt
     - :egg: 2 eggs
-    - :olive: 0.5 cup (99 g) oil
-    - :droplet: 0.33 cup (76 g) water
-    - :jack_o_lantern: 1 cup (227 g) pumpkin
-    - :chestnut: some walnut halves
+    - :olive: 0.5 cup (100 g) oil
+    - :droplet: 0.33 cup (75 g) water
+    - :melon: 1 cup (227 g) pumpkin
+    - some walnut halves
 
 ## :cooking: Cookware
 

@@ -17,16 +17,16 @@ hero: assets/images/creamy-roasted-carrot-soup.webp
 ## :salt: Ingredients
 
 - :carrot: 2 lb carrots
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.75 tsp salt
-- :onion: 1 medium yellow onion
+- :seedling: 1 medium yellow onion
 - :garlic: 2 cloves garlic
-- :herb: 0.5 tsp coriander
-- :custard: 0.25 tsp cumin
-- :stew: 4 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
-- :droplet: 2 cup water
+- :chestnut: 0.5 tsp (1 g) coriander
+- :chestnut: 0.25 tsp (1 g) cumin
+- 4 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :droplet: 2 cup (454 g) water
 - :butter: 1.5 Tbsp butter
-- :lemon: 1.5 tsp lemon juice
+- :tangerine: 1.5 tsp (7 g) lemon juice
 - :salt: some black pepper
 
 ## :cooking: Cookware

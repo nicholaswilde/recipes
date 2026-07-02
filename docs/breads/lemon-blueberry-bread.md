@@ -18,21 +18,21 @@ hero: assets/images/lemon-blueberry-bread.webp
 
 ## :salt: Ingredients
 
-- :coconut: 0.75 cups (170 g) melted coconut oil
-- :candy: 1 cup (198 g) sugar
+- :olive: 0.75 cups (170 g) melted coconut oil
+- :candy: 1 cup (156 g) sugar
 - :egg: 3 eggs
-- :icecream: 0.5 tsp vanilla
-- :lemon: 2 Tbsp lemon zest
-- :microbe: 1 cup (227 g) [yogurt][1]
-- :lemon: 0.25 cup lemon juice
-- :ear_of_rice: 2 cups flour
-- :dash: 1 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :flower_playing_cards: 0.5 tsp vanilla
+- :tangerine: 2 Tbsp (28 g) lemon zest
+- 1 cup [yogurt][1]
+- :tangerine: 0.25 cup (56 g) lemon juice
+- :bread: 2 cups (184 g) flour
+- :chestnut: 1 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :ear_of_rice: 2 Tbsp flaxmeal
-- :blueberries: 1 cup blueberries
-- :lemon: 2 tsp lemon juice
-- :candy: 1 cup (198 g) powdered sugar
+- 2 Tbsp flaxmeal
+- :apple: 1 cup (156 g) blueberries
+- :tangerine: 2 tsp (9 g) lemon juice
+- :candy: 1 cup (200 g) powdered sugar
 
 ## :cooking: Cookware
 

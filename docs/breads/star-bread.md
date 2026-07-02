@@ -21,23 +21,23 @@ hero: assets/images/star-bread.webp
 === "Dough"
 
     - :glass_of_milk: 1 cup (227 g) warm whole milk
-    - :microbe: 1 pkg (.25 oz) instant yeast
+    - :tea: 1 pkg (.25 oz) instant yeast
     - :butter: 5 Tbsp (71 g) unsalted butter
     - :candy: 50 g granulated sugar
     - :egg: 1 large egg
-    - :ear_of_rice: 450 g all-purpose flour
+    - :bread: 450 g all-purpose flour
     - :salt: 1 tsp salt
 
 === "Filling"
 
     - :candy: 100 g granulated sugar
-    - :custard: 1 Tbsp cinnamon
+    - :chestnut: 1 Tbsp (12 g) cinnamon
     - :butter: 3 Tbsp (42 g) unsalted butter
 
 === "Topping"
 
     - :egg: 1 large egg
-    - :droplet: 1 tsp water
+    - :droplet: 1 tsp (5 g) water
     - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

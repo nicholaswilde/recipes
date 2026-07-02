@@ -19,11 +19,11 @@ hero: assets/images/roasted-garlic-hummus.webp
 ## :salt: Ingredients
 
 - :garlic: 1 head garlic
-- :falafel: 2 cups chickpeas
-- :seedling: 2 Tbsp [tahini][2]
-- :olive: 4 Tbsp olive oil
-- :hot_springs: 0.25 cup warm water
-- :lemon: 1 lemon juice
+- :beans: 2 cups chickpeas
+- 2 Tbsp [tahini][2]
+- :olive: 4 Tbsp (50 g) olive oil
+- :droplet: 0.25 cup (57 g) warm water
+- :tangerine: 1 lemon juice
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

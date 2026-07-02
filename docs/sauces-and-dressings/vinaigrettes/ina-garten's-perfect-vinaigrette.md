@@ -18,12 +18,12 @@ hero: assets/images/ina-garten's-perfect-vinaigrette.jpg
 ## :salt: Ingredients
 
 - :wine_glass: 3 Tbsp Champagne vinegar
-- :hotdog: 0.5 tsp [Dijon mustard][1]
+- 0.5 tsp [Dijon mustard][1]
 - :garlic: 0.5 tsp garlic
-- :egg: 1 egg yolk[^1]
+- 1 egg yolk[^1]
 - :salt: 0.75 tsp salt
 - :salt: 0.25 tsp pepper
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 
 ## :cooking: Cookware
 

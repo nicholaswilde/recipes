@@ -19,13 +19,13 @@ hero: assets/images/chez-panisse-almond-torte.webp
 
 ## :salt: Ingredients
 
-- :candy: 1.25 (248 g) cups granulated sugar
-- :chestnut: 200 g [almond paste][2]
-- :butter: 1 cup (227 g) unsalted butter
-- :icecream: 1 tsp vanilla
+- :candy: 1.25 cups (248 g) granulated sugar
+- 200 g [almond paste][2]
+- :butter: 1 cup (226 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla
 - :egg: 6 eggs
-- :ear_of_rice: 130 g all-purpose flour
-- :dash: 1.5 tsp baking powder
+- :bread: 130 g all-purpose flour
+- :chestnut: 1.5 tsp baking powder
 - :salt: 0.25 tsp salt
 - :candy: some confectioners' sugar
 

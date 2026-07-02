@@ -19,10 +19,10 @@ hero: assets/images/applied-grilled-cheese.webp
 ## :salt: Ingredients
 
 - :butter: some Butter
-- :bread: 6 Texas toast
+- 6 Texas toast
 - :cheese_wedge: 6 slices cheddar
 - :cheese_wedge: 6 pieces Swiss cheese
-- :cheese_wedge: 6 slices provolone
+- 6 slices provolone
 
 ## :cooking: Cookware
 

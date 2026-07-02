@@ -15,18 +15,18 @@ hero: assets/images/lentil-patties.webp
 
 ## :salt: Ingredients
 
-- :beans: 1 cup (210 g) dry [lentils][2]
-- :droplet: 2.5 cups (570 g) water
+- :tea: 1 cup (175 g) dry [lentils][2]
+- :droplet: 2.5 cups (568 g) water
 - :salt: 1 tsp salt
-- :onion: 0.5 medium onion
+- :tea: 0.5 medium onion
 - :carrot: 1 carrot
-- :olive: 1 Tbsp olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: 1 tsp pepper
 - :salt: some salt
-- :takeout_box: 1 Tbsp [soy sauce][3]
-- :ear_of_rice: 0.75 cup (75 g) rolled oats
-- :bread: 0.75 cup (85 g) bread crumbs
-- :egg: 2 [eggs][4] (optional)
+- 1 Tbsp [soy sauce][3]
+- :ear_of_rice: 0.75 cup (85 g) rolled oats
+- :potato: 0.75 cup (84 g) bread crumbs
+- :apple: 2 [eggs][4] (optional)
 
 ## :cooking: Cookware
 

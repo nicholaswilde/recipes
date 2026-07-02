@@ -18,11 +18,11 @@ hero: assets/images/[buttermilk](../../ingredients/buttermilk.md)-chess-pie.png
 
 ## :salt: Ingredients
 
-- :pie: [Chess Pie][2]
+- [Chess Pie][2]
 - :candy: 0.67 cup (133 g) white sugar
-- :glass_of_milk: 0.67 cup (152 g) [buttermilk][1]
-- :chestnut: 0.5 cup pecans or walnuts (optional)
-- :grapes: 0.5 cup raisins (optional)
+- 0.67 cup [buttermilk][1]
+- :apple: 0.5 cup (56 g) pecans or walnuts (optional)
+- :leafy_green: 0.5 cup (85 g) raisins (optional)
 
 ## :cooking: Cookware
 

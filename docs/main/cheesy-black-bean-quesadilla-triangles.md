@@ -20,13 +20,13 @@ hero: assets/images/cheesy-black-bean-quesadilla-triangles.webp
 
 - :hamburger: 2 MorningStar Farms chipotle black bean burgers
 - :tomato: 0.5 cup salsa
-- :cheese_wedge: 0.5 cup shredded cheddar or jack cheese
-- :cheese_wedge: 0.25 cup shredded pepper jack cheese
-- :herb: 2 tsp Southwest or Mexican seasoning
-- :flatbread: 10 flour tortillas
-- :butter: 1 Tbsp melted butter
-- :leafy_green: 2.5 cups shredded lettuce
-- :bell_pepper: 2 Tbsp red or green bell pepper
+- :orange_circle: 0.5 cup (56 g) shredded cheddar or jack cheese
+- :cheese_wedge: 0.25 cup (28 g) shredded pepper jack cheese
+- :shell: 2 tsp (5 g) Southwest or Mexican seasoning
+- :bread: 10 flour tortillas
+- :glass_of_milk: 1 Tbsp (17 g) melted butter
+- :cheese_wedge: 2.5 cups (302 g) shredded lettuce
+- :hot_pepper: 2 Tbsp (18 g) red or green bell pepper
 
 ## :cooking: Cookware
 

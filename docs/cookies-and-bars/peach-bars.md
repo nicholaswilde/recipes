@@ -20,30 +20,30 @@ hero: assets/images/peach-bars.webp
 
 === "Crust"
 
-    - :ear_of_rice: 163 g all-purpose flour
+    - :bread: 163 g all-purpose flour
     - :candy: 8 g granulated sugar
     - :salt: 1/2 tsp salt
     - :butter: 113 g unsalted butter
-    - :ice_cube: 60 g ice water
+    - :baby_bottle: 60 g ice water
 
 === "Filling"
 
-    - :peach: 680 g ripe peaches
-    - :corn: 2 tsp cornstarch
-    - :candy: 62.5 g demerara sugar
+    - :tomato: 680 g ripe peaches
+    - :chestnut: 2 tsp (5 g) cornstarch
+    - :baby_bottle: 62.5 g demerara sugar
     - :sweet_potato: 🫚 1/2 tsp ground ginger
-    - :custard: 1/4 tsp ground cinnamon
+    - :chestnut: 1/4 tsp (1 g) ground cinnamon
     - :chestnut: 1/8 tsp ground nutmeg
     - :salt: 1/4 tsp Diamond Crystal kosher salt
-    - :lemon: 1 Tbsp fresh lemon juice
-    - :icecream: 1 tsp vanilla extract
+    - :tangerine: 1 Tbsp fresh lemon juice
+    - :flower_playing_cards: 1 tsp vanilla extract
 
 === "Crumble Topping"
 
-    - :ear_of_rice: 87 g all-purpose flour
+    - :bread: 87 g all-purpose flour
     - :ear_of_rice: 60 g old-fashioned rolled oats
-    - :candy: 43 g demerara sugar
-    - :custard: 1 tsp ground cinnamon
+    - :baby_bottle: 43 g demerara sugar
+    - :chestnut: 1 tsp (3 g) ground cinnamon
     - :salt: 1/2 tsp Diamond Crystal kosher salt
     - :butter: 93 g unsalted butter
 

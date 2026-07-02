@@ -17,11 +17,11 @@ hero: assets/images/whole-wheat-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 397 g whole wheat flour
+- :bread: 397 g whole wheat flour
 - :droplet: 255 g water
-- :oil_drum: 50 g vegetable oil
-- :maple_leaf: 85 g honey, molasses, or maple syrup
-- :microbe: 2.5 tsp instant yeast
+- :olive: 50 g vegetable oil
+- :honey_pot: 85 g honey, molasses, or maple syrup
+- :tea: 2.5 tsp (8 g) instant yeast
 - :glass_of_milk: 28 g King Arthur Baker's Special Dry Milk or nonfat dry milk
 - :salt: 8 g salt
 

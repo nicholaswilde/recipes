@@ -19,29 +19,29 @@ hero: assets/images/cherry-bars.webp
 
 === "Crust & Topping"
 
-    - :ear_of_rice: 188 g all-purpose flour
+    - :bread: 188 g all-purpose flour
     - :ear_of_rice: 85 g whole rolled oats
     - :maple_leaf: 100 g brown sugar
-    - :dash: 1 tsp baking powder
-    - :lemon: 1 tsp lemon zest
+    - :chestnut: 1 tsp baking powder
+    - :tangerine: 1 tsp (5 g) lemon zest
     - :salt: 0.13 tsp salt
-    - :butter: 142 g melted unsalted butter
-    - :icecream: 1 tsp vanilla
+    - :baby_bottle: 142 g melted unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
 
 === "Filling"
 
-    - :corn: 11 g cornstarch
-    - :cherries: 525 g sour cherries
+    - :chestnut: 11 g cornstarch
+    - :glass_of_milk: 525 g sour cherries
     - :candy: 100 g granulated sugar
-    - :lemon: 1 tsp lemon juice
-    - :chestnut: 0.25 tsp almond extract
-    - :ear_of_rice: 2 Tbsp whole rolled oats
+    - :tangerine: 1 tsp (5 g) lemon juice
+    - :flower_playing_cards: 0.25 tsp (1 g) almond extract
+    - :ear_of_rice: 2 Tbsp (14 g) whole rolled oats
 
 === "Icing"
 
-    - :glass_of_milk: 2 Tbsp whole milk
+    - :glass_of_milk: 2 Tbsp (28 g) whole milk
     - :candy: 120 g confectioners' sugar
-    - :chestnut: 0.25 tsp almond extract
+    - :flower_playing_cards: 0.25 tsp (1 g) almond extract
 
 ## :cooking: Cookware
 

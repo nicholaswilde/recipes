@@ -19,36 +19,36 @@ hero: assets/images/couscous.webp
 
 === "Serves 4"
 
-    - :stew: 1 cup (227 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :baby_bottle: 1 cup (227 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 1 pinch kosher salt
-    - :shallow_pan_of_food: 1 cup (180 g) couscous
-    - :olive: 2 Tbsp olive oil
-    - :herb: 1 pinch cumin (optional)
-    - :garlic: 2 cloves sautéed garlic (optional)
-    - :leafy_green: 2 green onions (optional)
-    - :herb: some fresh herbs (optional)
+    - 1 cup (180 g) couscous
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :leafy_green: 1 pinch cumin (optional)
+    - :apple: 2 cloves sautéed garlic (optional)
+    - :tea: 2 green onions (optional)
+    - :apple: some fresh herbs (optional)
 
 === "Serves 6"
 
-    - :stew: 1.5 cups (340 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :baby_bottle: 1.5 cups (340 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 1.5 pinches kosher salt
-    - :shallow_pan_of_food: 1.5 cups (270 g) couscous
-    - :olive: 3 Tbsp olive oil
-    - :herb: 1.5 pinches cumin (optional)
-    - :garlic: 3 cloves sautéed garlic (optional)
-    - :leafy_green: 3 green onions (optional)
-    - :herb: some fresh herbs (optional)
+    - 1.5 cups (270 g) couscous
+    - :olive: 3 Tbsp (38 g) olive oil
+    - :leafy_green: 1.5 pinches cumin (optional)
+    - :apple: 3 cloves sautéed garlic (optional)
+    - :tea: 3 green onions (optional)
+    - :apple: some fresh herbs (optional)
 
 === "Serves 8"
 
-    - :stew: 2 cups (454 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :baby_bottle: 2 cups (454 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 2 pinches kosher salt
-    - :shallow_pan_of_food: 2 cups (360 g) couscous
-    - :olive: 4 Tbsp olive oil
-    - :herb: 2 pinches cumin (optional)
-    - :garlic: 4 cloves sautéed garlic (optional)
-    - :leafy_green: 4 green onions (optional)
-    - :herb: some fresh herbs (optional)
+    - 2 cups (360 g) couscous
+    - :olive: 4 Tbsp (50 g) olive oil
+    - :leafy_green: 2 pinches cumin (optional)
+    - :apple: 4 cloves sautéed garlic (optional)
+    - :tea: 4 green onions (optional)
+    - :apple: some fresh herbs (optional)
 
 ## :cooking: Cookware
 

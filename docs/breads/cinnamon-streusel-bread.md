@@ -19,37 +19,37 @@ hero: assets/images/cinnamon-streusel-bread.png
 === "Cinnamon Sugar Swirl"
 
     - :maple_leaf: 0.5 cup (106 g) brown sugar
-    - :custard: 2 tsp ground cinnamon
+    - :chestnut: 2 tsp (6 g) ground cinnamon
     - :salt: 1 pinch salt
 
 === "Bread"
 
-    - :butter: 0.75 cup (170 g) butter
+    - :butter: 0.75 cup butter
     - :candy: 0.33 cup (65 g) granulated sugar
-    - :maple_leaf: 0.33 cup (70 g) light brown sugar
+    - :candy: 0.33 cup (70 g) light brown sugar
     - :egg: 2 large eggs
-    - :icecream: 1 Tbsp vanilla
-    - :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-    - :dash: 2 tsp baking powder
-    - :cup_with_straw: 0.5 tsp baking soda
-    - :custard: 1 tsp cinnamon
+    - :flower_playing_cards: 1 Tbsp vanilla
+    - :bread: 2.25 cups (270 g) all-purpose flour
+    - :chestnut: 2 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
+    - :chestnut: 1 tsp (4 g) cinnamon
     - :salt: 1 tsp salt
-    - :glass_of_milk: 1 cup (227 g) [buttermilk][1]
+    - 1 cup [buttermilk][1]
 
 === "Cinnamon Streusel Topping"
 
-    - :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+    - :bread: 0.75 cup (90 g) all-purpose flour
     - :maple_leaf: 0.33 cup (70 g) brown sugar
-    - :custard: 2 tsp cinnamon
+    - :chestnut: 2 tsp (8 g) cinnamon
     - :salt: some salt
     - :butter: 6 Tbsp butter
 
 === "Vanilla Glaze"
 
-    - :candy: 1 cup (198 g) powdered sugar
-    - :icecream: 0.5 tsp vanilla
-    - :butter: 1 Tbsp butter, melted
-    - :glass_of_milk: 1 Tbsp milk or cream
+    - :candy: 1 cup (200 g) powdered sugar
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :glass_of_milk: 1 Tbsp (17 g) butter, melted
+    - :glass_of_milk: 1 Tbsp (14 g) milk or cream
     - :salt: 1 pinch salt
 
 ## :cooking: Cookware

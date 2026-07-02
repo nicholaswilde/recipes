@@ -16,7 +16,7 @@ hero: assets/images/chipotle-ranch-dressing.webp
 
 ## :salt: Ingredients
 
-- :green_salad: 1.25 cups [ranch dressing][1]
+- 1.25 cups [ranch dressing][1]
 - :hot_pepper: 2 chipotle peppers in [adobo sauce][2]
 
 ## :cooking: Cookware

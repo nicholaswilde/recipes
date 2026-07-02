@@ -16,13 +16,13 @@ hero: assets/images/maple-cinnamon-almonds.webp
 
 ## :salt: Ingredients
 
-- :maple_leaf: 0.25 cup (78 g) maple syrup
+- :honey_pot: 0.25 cup (78 g) maple syrup
 - :butter: 3 Tbsp butter
-- :candy: 2 Tbsp sugar
-- :custard: 1.5 tsp cinnamon
+- :candy: 2 Tbsp (20 g) sugar
+- :chestnut: 1.5 tsp (6 g) cinnamon
 - :salt: 0.25 tsp salt
 - :chestnut: 1 lb blanched whole almonds
-- :candy: 0.25 cup (50 g) crystallized sugar (optional)
+- :candy: 0.25 cup (28 g) crystallized sugar (optional)
 
 !!! note
 

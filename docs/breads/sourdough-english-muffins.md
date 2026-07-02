@@ -20,28 +20,28 @@ hero: assets/images/sourdough-english-muffins.webp
 === "Full Batch"
 
     - :candy: 25 g granulated sugar
-    - :hot_springs: 454 g warm water
-    - :microbe: 1 Tbsp active dry yeast or instant yeast
-    - :microbe: 227 g [sourdough starter][2]
-    - :ear_of_rice: 840 g all-purpose flour
+    - :droplet: 454 g warm water
+    - :candy: 1 Tbsp (9 g) active dry yeast or instant yeast
+    - 227 g [sourdough starter][2]
+    - :bread: 840 g all-purpose flour
     - :glass_of_milk: 56 g dry milk
     - :butter: 57 g unsalted butter
     - :salt: 18 g salt
-    - :test_tube: 0.25 tsp citric acid (sour salt), (optional)
-    - :corn: some cornmeal or semolina (optional)
+    - :baby_bottle: 0.25 tsp citric acid (sour salt), (optional)
+    - :hot_pepper: some cornmeal or semolina (optional)
 
 === "Half Batch"
 
     - :candy: 13 g granulated sugar
-    - :hot_springs: 227 g warm water
-    - :microbe: 2 tsp active dry yeast or instant yeast
-    - :microbe: 114 g [sourdough starter][2]
-    - :ear_of_rice: 420 g all-purpose flour
+    - :droplet: 227 g warm water
+    - :candy: 2 tsp (6 g) active dry yeast or instant yeast
+    - 114 g [sourdough starter][2]
+    - :bread: 420 g all-purpose flour
     - :glass_of_milk: 28 g dry milk
     - :butter: 28 g unsalted butter
     - :salt: 9 g salt
-    - :test_tube: 0.125 tsp citric acid (sour salt), (optional)
-    - :corn: some cornmeal or semolina (optional)
+    - :baby_bottle: 0.125 tsp citric acid (sour salt), (optional)
+    - :hot_pepper: some cornmeal or semolina (optional)
 
 ## :cooking: Cookware
 

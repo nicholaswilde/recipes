@@ -19,9 +19,9 @@ hero: assets/images/thick-hot-chocolate.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 2.5 cups (568 g) whole milk
-- :chestnut: 1 cup (170 g) 60% dark chocolate
-- :glass_of_milk: 0.5 cup (50 g) milk powder
-- :chestnut: 1 tsp (5 g) cornstarch
+- :chocolate_bar: 1 cup (170 g) 60% dark chocolate
+- :glass_of_milk: 0.5 cup (70 g) milk powder
+- :chestnut: 1 tsp (2 g) cornstarch
 - :glass_of_milk: some whipped cream
 
 ## :cooking: Cookware

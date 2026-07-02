@@ -21,31 +21,31 @@ hero: assets/images/melomakarona.webp
 
 === "Dough"
 
-    - :ear_of_rice: 6.75 cups flour
-    - :dash: 1.5 tsp baking powder
-    - :custard: 1 tsp cinnamon
+    - :bread: 6.75 cups (621 g) flour
+    - :chestnut: 1.5 tsp baking powder
+    - :chestnut: 1 tsp (4 g) cinnamon
     - :salt: 1 tsp salt
-    - :cup_with_straw: 0.5 tsp baking soda
-    - :four_leaf_clover: 0.25 tsp cloves
+    - :chestnut: 0.5 tsp baking soda
+    - :chestnut: 0.25 tsp cloves
     - :butter: 1 stick butter
-    - :candy: 1 cup (198 g) sugar
+    - :candy: 1 cup (156 g) sugar
     - :egg: 2 eggs
     - :olive: 1.5 cup (300 g) olive oil
-    - :orange_circle: 1 cup orange juice
-    - :orange_circle: 2 tsp orange zest
+    - :tangerine: 1 cup (224 g) orange juice
+    - :tangerine: 2 tsp (4 g) orange zest
 
 === "Honey Syrup"
 
-    - :orange_circle: 3 strips orange peel
-    - :candy: 1.5 cups (297 g) sugar
-    - :honey_pot: 1.5 cups (504 g) honey
+    - :tangerine: 3 strips orange peel
+    - :candy: 1.5 cups (234 g) sugar
+    - :honey_pot: 1.5 cups honey
     - :droplet: 1.5 cups (340 g) water
 
 === "Walnut Topping"
 
-    - :chestnut: 8 oz finely chopped walnuts
-    - :custard: 1 tsp cinnamon
-    - :four_leaf_clover: 0.13 tsp cloves
+    - :beans: 8 oz (113 g) finely chopped walnuts
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :chestnut: 0.13 tsp cloves
 
 ## :cooking: Cookware
 

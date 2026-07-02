@@ -15,13 +15,13 @@ hero: assets/images/grilled-tofu-with-chimichurri-sauce.png
 
 ## :salt: Ingredients
 
-- :garlic: 2 tsp granulated garlic
+- :candy: 2 tsp granulated garlic
 - :hot_pepper: 1 tsp smoked paprika
-- :chestnut: 1 tsp cumin
+- :chestnut: 1 tsp (3 g) cumin
 - :cheese_wedge: 1 lb extra-firm tofu
 - :olive: some olive oil
 - :salt: some salt
-- :leafy_green: 1 [Chimichurri Sauce][2]
+- 1 [Chimichurri Sauce][2]
 
 ## :cooking: Cookware
 

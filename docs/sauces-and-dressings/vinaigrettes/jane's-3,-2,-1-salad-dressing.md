@@ -16,9 +16,9 @@ hero: assets/images/jane's-3,-2,-1-salad-dressing.webp
 
 ## :salt: Ingredients
 
-- :sake: 3 Tbsp balsamic vinegar
-- :hotdog: 2 Tbsp [mustard][1] of choice
-- :maple_leaf: 1 Tbsp maple syrup
+- :wine_glass: 3 Tbsp balsamic vinegar
+- 2 Tbsp [mustard][1] of choice
+- :honey_pot: 1 Tbsp (20 g) maple syrup
 
 ## :cooking: Cookware
 

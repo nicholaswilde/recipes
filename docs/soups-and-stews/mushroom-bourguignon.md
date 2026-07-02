@@ -18,21 +18,21 @@ hero: assets/images/mushroom-bourguignon.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil, divided
-- :butter: 2 Tbsp unsalted butter, softened; divided
-- :mushroom: 2 lbs portobello mushrooms, in 1/4-inch slices (stems saved; can use cremini instead)
-- :carrot: 1/2 carrot, finely diced
-- :onion: 1 small yellow onion, finely diced
+- :olive: 2 Tbsp (25 g) olive oil, divided
+- :baby_bottle: 2 Tbsp (28 g) unsalted butter, softened; divided
+- :apple: 2 lbs portobello mushrooms, in 1/4-inch slices (stems saved; can use cremini instead)
+- :tea: 1/2 carrot, finely diced
+- :beans: 1 small yellow onion, finely diced
 - :garlic: 2 cloves garlic, minced
-- :wine_glass: 1 cup full-bodied red wine
-- :stew: 2 cups beef or [Vegetable Broth](../ingredients/vegetable-broth.md) (beef is traditional, vegetable is vegetarian)
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :herb: 1 tsp fresh thyme leaves (or 1/2 tsp dried)
-- :bread: 1 1/2 Tbsp all-purpose flour
-- :onion: 1 cup pearl onions, peeled (thawed if frozen)
-- :ramen: Cooked egg noodles, for serving
-- :butter: Sour cream, for garnish (optional)
-- :herb: Chopped chives or parsley, for garnish (optional)
+- :sake: 1 cup (184 g) full-bodied red wine
+- :hot_pepper: 2 cups (368 g) beef or [Vegetable Broth](../ingredients/vegetable-broth.md) (beef is traditional, vegetable is vegetarian)
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :apple: 1 tsp (2 g) fresh thyme leaves (or 1/2 tsp dried)
+- :baby_bottle: 1 1/2 Tbsp all-purpose flour
+- :tea: 1 cup (140 g) pearl onions, peeled (thawed if frozen)
+- :baby_bottle: Cooked egg noodles, for serving
+- :apple: Sour cream, for garnish (optional)
+- :apple: Chopped chives or parsley, for garnish (optional)
 
 ## :cooking: Cookware
 

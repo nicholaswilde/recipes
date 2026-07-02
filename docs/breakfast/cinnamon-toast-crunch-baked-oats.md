@@ -16,14 +16,14 @@ hero: assets/images/cinnamon-toast-crunch-baked-oats.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup oats
-- :apple: 0.33 cup apple sauce
+- :ear_of_rice: 0.5 cup (70 g) oats
+- :apple: 0.33 cup (75 g) apple sauce
 - :egg: 1 egg
-- :dash: 0.5 tsp baking powder
-- :custard: 0.5 tsp cinnamon
-- :ice_cream: 1.5 tsp vanilla
-- :bowl_with_spoon: 5 tbsp cinnamon toast crunch
-- :glass_of_milk: 0.5 cup almond milk
+- :chestnut: 0.5 tsp baking powder
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :flower_playing_cards: 1.5 tsp vanilla
+- :chestnut: 5 tbsp (60 g) cinnamon toast crunch
+- :glass_of_milk: 0.5 cup (42 g) almond milk
 
 ## :cooking: Cookware
 

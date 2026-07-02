@@ -17,18 +17,18 @@ hero: assets/images/crispy-baked-tofu-nuggets.webp
 
 ## :salt: Ingredients
 
-- :avocado: some avocado oil
-- :butter: 1 14-oz pkg extra-firm tofu
-- :chestnut: 0.75 cup cashews
-- :corn: 1.5 Tbsp cornstarch
-- :microbe: 2 Tbsp nutritional yeast
+- :olive: some avocado oil
+- :cheese_wedge: 1 14-oz pkg extra-firm tofu
+- :chestnut: 0.75 cup (85 g) cashews
+- :chestnut: 1.5 Tbsp (10 g) cornstarch
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
 - :salt: 0.75 tsp salt
 - :salt: 0.75 tsp pepper
 - :hot_pepper: 1 tsp smoked paprika
 - :garlic: 0.5 tsp garlic powder
-- :glass_of_milk: 0.5 cup unsweetened dairy-free milk
-- :lemon: 2 tsp lemon juice
-- :corn: 0.5 cup cornstarch
+- :glass_of_milk: 0.5 cup (142 g) unsweetened dairy-free milk
+- :tangerine: 2 tsp (9 g) lemon juice
+- :chestnut: 0.5 cup (56 g) cornstarch
 
 ## :cooking: Cookware
 

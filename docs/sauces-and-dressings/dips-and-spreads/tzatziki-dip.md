@@ -20,11 +20,11 @@ hero: assets/images/tzatziki-dip.jpg
 - :cucumber: 0.5 cucumbers
 - :salt: 1 tsp salt
 - :garlic: 1 clove garlic
-- :seedling: 0.5 tsp fresh dill
-- :herb: 0.5 tsp mint
-- :lemon: 1 lemon
-- :olive: 1 tsp olive oil
-- :rice: 8 oz Greek yogurt
+- :apple: 0.5 tsp fresh dill
+- :shamrock: 0.5 tsp mint
+- :tangerine: 1 lemon
+- :olive: 1 tsp (4 g) olive oil
+- :glass_of_milk: 8 oz (227 g) Greek yogurt
 
 ## :cooking: Cookware
 

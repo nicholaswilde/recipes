@@ -16,16 +16,16 @@ hero: assets/images/tater-tots.webp
 
 ## :salt: Ingredients
 
-- :potato: 2 lbs russet potatoes
-- :ear_of_rice: 1 Tbsp all-purpose flour
+- :sweet_potato: 2 lbs russet potatoes
+- :bread: 1 Tbsp (8 g) all-purpose flour
 - :garlic: 1 tsp garlic powder
-- :onion: 0.5 tsp onion powder
+- :chestnut: 0.5 tsp (1 g) onion powder
 - :herb: 0.25 tsp oregano
-- :herb: 0.25 tsp dill
+- :apple: 0.25 tsp dill
 - :salt: some salt
 - :salt: some pepper
-- :oil_drum: 3 cups (594 g) vegetable oil
-- :herb: 2 Tbsp parsley (optional)
+- :olive: 3 cups (594 g) vegetable oil
+- :leafy_green: 2 Tbsp parsley (optional)
 
 ## :cooking: Cookware
 

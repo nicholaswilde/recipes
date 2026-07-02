@@ -20,24 +20,24 @@ hero: assets/images/classic-birthday-cake.webp
 
 === "Cake"
 
-    - :ear_of_rice: 240 g all-purpose flour
+    - :bread: 240 g all-purpose flour
     - :salt: 1.25 tsp salt
-    - :dash: 2 tsp baking powder
+    - :chestnut: 2 tsp baking powder
     - :egg: 4 large eggs
     - :candy: 2 cups (396 g) granulated sugar
-    - :icecream: 1 Tbsp vanilla
-    - :chestnut: 0.13 tsp almond extract (optional)
-    - :glass_of_milk: 1 cup whole milk
+    - :flower_playing_cards: 1 Tbsp vanilla
+    - :flower_playing_cards: 0.13 tsp (1 g) almond extract (optional)
+    - :glass_of_milk: 1 cup (227 g) whole milk
     - :butter: 57 g unsalted butter
-    - :oil_drum: 0.33 cup (65 g) vegetable oil
+    - :olive: 0.33 cup (65 g) vegetable oil
 
 === "Frosting"
 
     - :chocolate_bar: 106 g cocoa powder
     - :candy: 454 g confectioners’ sugar
     - :salt: 0.25 tsp salt
-    - :hotsprings: 74 g hot water
-    - :icecream: 1 Tbsp vanilla
+    - :droplet: 74 g hot water
+    - :flower_playing_cards: 1 Tbsp vanilla
     - :butter: 284 g unsalted butter
 
 ## :cooking: Cookware

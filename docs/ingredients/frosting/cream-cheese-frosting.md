@@ -20,25 +20,25 @@ hero: assets/images/cream-cheese-frosting.png
 
 === "Food Processor Method"
 
-    - :bagel: 8 oz cold cream cheese
-    - :butter: 6 Tbsp unsalted butter, softened
-    - :icecream: 2 tsp vanilla
-    - :candy: 3 cups (594 g) confectioners' sugar, sifted
-    - :lemon: some lemon zest (optional)
-    - :orange_circle: some orange zest (optional)
-    - :custard: some cinnamon (optional)
-    - :tumbler_glass: some liqueur (optional)
+    - :cheese_wedge: 8 oz (227 g) cold cream cheese
+    - :baby_bottle: 6 Tbsp (85 g) unsalted butter, softened
+    - :flower_playing_cards: 2 tsp vanilla
+    - :baby_bottle: 3 cups (339 g) confectioners' sugar, sifted
+    - :apple: some lemon zest (optional)
+    - :tangerine: some orange zest (optional)
+    - :chestnut: some cinnamon (optional)
+    - :leafy_green: some liqueur (optional)
 
 === "Electric Mixer Method"
 
-    - :bagel: 8 oz cold cream cheese
-    - :butter: 5 Tbsp unsalted butter, softened
-    - :icecream: 2 tsp vanilla
-    - :candy: 4 cups (792 g) confectioners' sugar, sifted
-    - :lemon: some lemon zest (optional)
-    - :orange_circle: some orange zest (optional)
-    - :custard: some cinnamon (optional)
-    - :tumbler_glass: some liqueur (optional)
+    - :cheese_wedge: 8 oz (227 g) cold cream cheese
+    - :baby_bottle: 5 Tbsp (71 g) unsalted butter, softened
+    - :flower_playing_cards: 2 tsp vanilla
+    - :baby_bottle: 4 cups (452 g) confectioners' sugar, sifted
+    - :apple: some lemon zest (optional)
+    - :tangerine: some orange zest (optional)
+    - :chestnut: some cinnamon (optional)
+    - :leafy_green: some liqueur (optional)
 
 ## :cooking: Cookware
 

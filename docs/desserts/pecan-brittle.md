@@ -18,7 +18,7 @@ hero: assets/images/pecan-brittle.webp
 ## :salt: Ingredients
 
 - :chestnut: 142 g pecans
-- :cup_with_straw: 0.5 tsp baking soda
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :candy: 150 g granulated sugar
 - :butter: 57 g unsalted butter

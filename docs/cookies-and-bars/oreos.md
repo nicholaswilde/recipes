@@ -23,18 +23,18 @@ hero: assets/images/oreos.webp
     - :candy: 50 g muscavado sugar
     - :candy: 150 g caster sugar
     - :egg: 1 large egg
-    - :ear_of_rice: 250 g all-purpose flour
+    - :bread: 250 g all-purpose flour
     - :chocolate_bar: 150 g cocoa powder
     - :salt: 1 tsp salt
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :chestnut: 0.5 tsp baking soda
 
 === "Filling"
 
     - :butter: 160 g butter
     - :salt: 0.13 tsp salt
     - :candy: 250 g confectioners' sugar
-    - :glass_of_milk: 1.5 Tbsp whole milk
-    - :icecream: 0.25 tsp vanilla
+    - :glass_of_milk: 1.5 Tbsp (21 g) whole milk
+    - :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

@@ -18,13 +18,13 @@ hero: assets/images/scottish-oatcakes.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 5 oz [Scottish oatmeal][2]
-- :ear_of_rice: 2.5 oz all-purpose flour
-- :candy: 1 tsp granulated sugar
+- 5 oz [Scottish oatmeal][2]
+- :bread: 2.5 oz (38 g) all-purpose flour
+- :candy: 1 tsp (4 g) granulated sugar
 - :salt: 0.25 tsp salt
-- :dash: 0.25 tsp baking powder
-- :butter: 4 Tbsp melted unsalted butter
-- :droplet: 3 Tbsp water
+- :chestnut: 0.25 tsp baking powder
+- :baby_bottle: 4 Tbsp (56 g) melted unsalted butter
+- :droplet: 3 Tbsp (43 g) water
 
 ## :cooking: Cookware
 

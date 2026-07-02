@@ -19,9 +19,9 @@ hero: assets/images/berry-sauce.webp
 
 - :candy: 100 g granulated sugar
 - :droplet: 57 g water
-- :strawberry: 170 g frozen raspberries
-- :strawberry: 170 g frozen blackberries
-- :icecream: 1 tsp vanilla
+- :carrot: 170 g frozen raspberries
+- :carrot: 170 g frozen blackberries
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

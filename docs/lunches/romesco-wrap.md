@@ -17,12 +17,12 @@ hero: assets/images/romesco-wrap.webp
 
 ## :salt: Ingredients
 
-- :tomato: 0.5 cup [TJ's Romesco sauce][1]
-- :flatbread: 1 sheet TJ's Lavash bread
-- :carrot: 1 handful shredded carrots
-- :leafy_green: 1 handful shredded Kohlrabi
-- :bell_pepper: 1 jar TJ's [roasted red peppers][2]
-- :leafy_green: 3 leaves red leaf lettuce
+- 0.5 cup [TJ's Romesco sauce][1]
+- :four_leaf_clover: 1 sheet TJ's Lavash bread
+- :coconut: 1 handful shredded carrots
+- :coconut: 1 handful shredded Kohlrabi
+- :hot_pepper: 1 jar TJ's [roasted red peppers][2]
+- :wine_glass: 3 leaves red leaf lettuce
 
 ## :pencil: Instructions
 

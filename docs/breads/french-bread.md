@@ -19,16 +19,16 @@ hero: assets/images/french-bread.webp
 
 === "Preferment"
 
-    - :ear_of_rice: 222 g all-purpose flour
-    - :microbe: 0.25 generous tsp instant yeast
-    - :ice_cube: 222 g cool water
+    - :bread: 222 g all-purpose flour
+    - :tea: 0.25 generous tsp instant yeast
+    - :droplet: 222 g cool water
 
 === "Dough"
 
-    - :hot_springs: 319 g warm water
-    - :ear_of_rice: 519 g all-purpose flour
+    - :droplet: 319 g warm water
+    - :bread: 519 g all-purpose flour
     - :salt: 15 g salt
-    - :microbe: 0.5 scant tsp instant yeast
+    - :tea: 0.5 scant tsp instant yeast
 
 ## :cooking: Cookware
 

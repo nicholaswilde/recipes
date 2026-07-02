@@ -18,11 +18,11 @@ hero: assets/images/crispy-herbes-de-provence-potatoes.png
 ## :salt: Ingredients
 
 - :butter: 2 Tbsp butter
-- :potato: 2.5 lbs gold potatoes
+- :sweet_potato: 2.5 lbs gold potatoes
 - :butter: 6 Tbsp butter
-- :cheese_wedge: 1 cups Parmesan
-- :bread: 0.25 cup panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
-- :herb: 1.5 Tbsp TJ's [Herbes de Provence][1]
+- :cheese_wedge: 1 cups (100 g) Parmesan
+- :bread: 0.25 cup (12 g) panko [Breadcrumbs](../../ingredients/breadcrumbs.md)
+- :hotsprings: 1.5 Tbsp TJ's [Herbes de Provence][1]
 - :salt: 1 tsp salt
 - :salt: 0.25 tsp pepper
 - :herb: 1 Tbsp rosemary

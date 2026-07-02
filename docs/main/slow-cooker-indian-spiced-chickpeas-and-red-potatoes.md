@@ -15,21 +15,21 @@ hero: assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp
 
 ## :salt: Ingredients
 
-- :onion: 1 onion
+- :tea: 1 onion
 - :garlic: 2 cloves garlic
-- :olive: 2 tsp olive oil
-- :chestnut: 2 tsp coriander
-- :chestnut: 2 tsp cumin
+- :olive: 2 tsp (8 g) olive oil
+- :chestnut: 2 tsp (4 g) coriander
+- :chestnut: 2 tsp (6 g) cumin
 - :curry: 0.5 tsp garam masala
-- :sweet_potato: 0.5 tsp ginger
-- :curry: 0.25 tsp turmeric
-- :hot_pepper: 0.25 tsp red pepper flakes
+- :sweet_potato: 0.5 tsp (2 g) ginger
+- :curry: 0.25 tsp (1 g) turmeric
+- :hot_pepper: 0.25 tsp (1 g) red pepper flakes
 - :salt: 1 tsp salt
 - :tomato: 1 15-oz can diced tomatoes
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :stew: 1 cup (227 g) [vegetable broth][2]
-- :beans: 2 15-oz cans [chickpeas][3]
-- :sweet_potato: 1 lb red potatoes, cut into 1/2" pieces
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- 1 cup [vegetable broth][2]
+- :glass_of_milk: 2 15-oz cans [chickpeas][3]
+- :hot_pepper: 1 lb red potatoes, cut into 1/2" pieces
 - :herb: 1 small bunch cilantro
 - :tangerine: 1 lime
 

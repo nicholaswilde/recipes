@@ -19,28 +19,28 @@ hero: assets/images/honey-challah-with-assorted-toppings.webp
 
 === "Dough"
 
-    - :microbe: 1.5 tsp yeast
-    - :candy: 1 tsp granulated sugar
-    - :hot_springs: 38 g lukewarm water
+    - :tea: 1.5 tsp (4 g) yeast
+    - :candy: 1 tsp (4 g) granulated sugar
+    - :baby_bottle: 38 g lukewarm water
     - :honey_pot: 84 g honey
     - :salt: 1 tsp salt
-    - :oil_drum: 41 g vegetable oil
+    - :olive: 41 g vegetable oil
     - :egg: 0.17 egg
-    - :hot_springs: 114 g lukewarm water
-    - :ear_of_rice: 378 g bread flour
+    - :baby_bottle: 114 g lukewarm water
+    - :bread: 378 g bread flour
 
 === "Sweet Crumb Topping"
 
-    - :ear_of_rice: 20 g bread flour
+    - :bread: 20 g bread flour
     - :candy: 33 g granulated sugar
-    - :oil_drum: 16.5 g vegetable oil
-    - :icecream: 0.25 tsp vanilla
+    - :olive: 16.5 g vegetable oil
+    - :flower_playing_cards: 0.25 tsp vanilla
     - :salt: 1 pinch salt
 
 === "Honey or Maple Syrup Glaze"
 
-    - :honey_pot: some honey (optional)
-    - :maple_leaf: some maple syrup (optional)
+    - :leafy_green: some honey (optional)
+    - :honey_pot: some maple syrup (optional)
 
 ## :cooking: Cookware
 

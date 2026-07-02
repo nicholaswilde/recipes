@@ -15,16 +15,16 @@ hero: assets/images/chickpea-and-spinach-pancakes.webp
 
 ## :salt: Ingredients
 
-- :bread: 1.25 cup (105 g) [chickpea flour][2]
-- :chestnut: 0.75 tsp cumin
+- 1.25 cup [chickpea flour][2]
+- :chestnut: 0.75 tsp (2 g) cumin
 - :salt: 0.5 tsp salt
 - :droplet: 1 cup (227 g) water
-- :olive: 1 Tbsp olive oil
-- :leafy_green: 1 cup (30 g) spinach
-- :onion: 2 scallions
-- :baby_bottle: some Greek yogurt (optional)
+- :olive: 1 Tbsp (12 g) olive oil
+- :leafy_green: 1 cup spinach
+- :tea: 2 scallions
+- :apple: some Greek yogurt (optional)
 - :cucumber: 1 cucumber
-- :herb: some za’atar (optional)
+- :leafy_green: some za’atar (optional)
 
 ## :cooking: Cookware
 

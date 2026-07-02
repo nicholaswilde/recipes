@@ -19,18 +19,18 @@ hero: assets/images/ciabatta.webp
 
 === "Biga"
 
-    - :ear_of_rice: 180 g all-purpose flour
-    - :microbe: 0.25 tsp instant yeast
+    - :bread: 180 g all-purpose flour
+    - :tea: 0.25 tsp (1 g) instant yeast
     - :droplet: 114 g water
 
 === "Dough"
 
-    - :microbe: 1 tsp instant yeast
-    - :glass_of_milk: 2 tsp nonfat dry milk or 38 g milk
+    - :tea: 1 tsp (3 g) instant yeast
+    - :glass_of_milk: 2 tsp (5 g) nonfat dry milk or 38 g milk
     - :salt: 1.5 tsp salt
-    - :droplet: 213 g water or 175 g
+    - :baby_bottle: 213 g water or 175 g
     - :olive: 11 g olive oil
-    - :ear_of_rice: 240 g all-purpose flour
+    - :bread: 240 g all-purpose flour
 
 ## :cooking: Cookware
 

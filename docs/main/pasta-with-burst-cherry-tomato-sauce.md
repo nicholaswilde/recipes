@@ -19,26 +19,26 @@ hero: assets/images/pasta-with-burst-cherry-tomato-sauce.webp
 
 === "Topping"
 
-    - :olive: 2 Tbsp olive oil
-    - :brown_circle: 0.25 cup capers
-    - :fish: 1 fillet [anchovy][1]
-    - :bread: 0.5 cup panko
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :olive: 0.25 cup capers
+    - 1 fillet [anchovy][1]
+    - :bread: 0.5 cup (100 g) panko
     - :salt: 0.13 tsp salt
     - :salt: 0.13 tsp pepper
     - :herb: 0.25 cup parsley
-    - :lemon: 1 tsp lemon zest
+    - :tangerine: 1 tsp (5 g) lemon zest
 
 === "Pasta"
 
     - :droplet: 4 qt water
     - :olive: 0.25 cup (50 g) olive oil
     - :garlic: 2 cloves garlic
-    - :fish: 2 fillets [anchovy][1]
-    - :tomato: 2 lbs cherry tomatoes
+    - 2 fillets [anchovy][1]
+    - :apple: 2 lbs cherry tomatoes
     - :salt: 1.5 tsp salt
-    - :candy: 0.25 tsp sugar
-    - :hot_pepper: 0.13 tsp red pepper flakes
-    - :spaghetti: 12 oz penne rigate, orecchiette, campanelle, or other short pasta
+    - :candy: 0.25 tsp (1 g) sugar
+    - :hot_pepper: 0.13 tsp (1 g) red pepper flakes
+    - :bread: 12 oz (218 g) penne rigate, orecchiette, campanelle, or other short pasta
     - :salt: 1 Tbsp salt
     - :butter: 2 Tbsp butter
     - :herb: 1 cup basil

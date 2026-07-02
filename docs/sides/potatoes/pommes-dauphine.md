@@ -17,13 +17,13 @@ hero: assets/images/pommes-dauphine.webp
 
 ## :salt: Ingredients
 
-- :potato: 1 lb russet potatoes
-- :ice_cube: 2 qt cold water
+- :sweet_potato: 1 lb russet potatoes
+- :baby_bottle: 2 qt cold water
 - :salt: 2 tsp salt
 - :butter: 2 Tbsp butter
 - :salt: some pepper
-- :butter: 0.5 recipe [choux pastry][1] (made with equal parts milk and water)
-- :carrot: 2 qt vegetable oil
+- :glass_of_milk: 0.5 recipe [choux pastry][1] (made with equal parts milk and water)
+- :olive: 2 qt vegetable oil
 
 ## :cooking: Cookware
 

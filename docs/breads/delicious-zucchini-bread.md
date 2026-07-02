@@ -17,13 +17,13 @@ hero: assets/images/delicious-zucchini-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 1 tsp baking soda
 - :salt: 1 tsp salt
 - :egg: 3 eggs
-- :icecream: 3 tsp vanilla
-- :oil_drum: 1 cup oil
-- :cucumber: 2 cups zucchini
+- :flower_playing_cards: 3 tsp vanilla
+- :olive: 1 cup (200 g) oil
+- 2 cups (242 g) zucchini
 
 ## :cooking: Cookware
 

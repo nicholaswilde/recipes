@@ -18,10 +18,10 @@ hero: assets/images/old-fashioned-peanut-butter-fudge.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 14 oz white chocolate chips
-- :peanuts: 2 cups [creamy peanut butter][2]
+- :chocolate_bar: 14 oz (298 g) white chocolate chips
+- :peanut: 2 cups (540 g) [creamy peanut butter][2]
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

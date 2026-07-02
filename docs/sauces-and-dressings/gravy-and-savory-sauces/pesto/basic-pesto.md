@@ -19,12 +19,12 @@ hero: assets/images/basic-pesto.webp
 ## :salt: Ingredients
 
 - :herb: 2 cups basil
-- :cheese_wedge: 0.75 cups Parmesan
-- :chestnut: 0.5 cups toasted pine nuts
-- :olive: 0.5 cup olive oil
+- :cheese_wedge: 0.75 cups (75 g) Parmesan
+- :chestnut: 0.5 cups (71 g) toasted pine nuts
+- :olive: 0.5 cup (100 g) olive oil
 - :garlic: 3 cloves garlic
 - :salt: 0.25 tsp salt
-- :hot_pepper: 0.25 tsp crushed red pepper (optional)
+- :hot_pepper: 0.25 tsp (1 g) crushed red pepper (optional)
 
 ## :cooking: Cookware
 

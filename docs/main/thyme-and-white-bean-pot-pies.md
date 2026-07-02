@@ -15,20 +15,20 @@ hero: assets/images/thyme-and-white-bean-pot-pies.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 large white or yellow onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 large white or yellow onion
 - :salt: some salt
 - :salt: some pepper
 - :carrot: 1 lb carrots
 - :bread: 30 g all-purpose flour
-- :wine_glass: 0.5 cup (115 g) dry white wine (optional)
-- :stew: 3 cups (680 g) [vegetable broth][2]
-- :herb: 1 tsp dry thyme
-- :beans: 1 15-oz can white beans
+- :wine_glass: 0.5 cup (99 g) dry white wine (optional)
+- 3 cups [vegetable broth][2]
+- :herb: 1 tsp (4 g) dry thyme
+- :glass_of_milk: 1 15-oz can white beans
 - :bread: 180 g all-purpose flour
 - :salt: 0.25 tsp salt
-- :butter: 10 Tbsp vegan butter or coconut oil
-- :droplet: 7 Tbsp ice cold water
+- :glass_of_milk: 10 Tbsp (141 g) vegan butter or coconut oil
+- :baby_bottle: 7 Tbsp (99 g) ice cold water
 
 ## :cooking: Cookware
 

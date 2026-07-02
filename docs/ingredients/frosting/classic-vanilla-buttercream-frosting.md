@@ -17,10 +17,10 @@ hero: assets/images/classic-vanilla-buttercream-frosting.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (227 g) butter
-- :candy: 3 cups (594 g) confectioners' sugar
-- :glass_of_milk: 1 Tbsp milk or cream
-- :icecream: 1 tsp vanilla
+- :butter: 1 cup butter
+- :candy: 3 cups (339 g) confectioners' sugar
+- :glass_of_milk: 1 Tbsp (14 g) milk or cream
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

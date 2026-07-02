@@ -18,15 +18,15 @@ hero: assets/images/spinach-lasagna.webp
 
 ## :salt: Ingredients
 
-- :leafy_green: 2 10-oz pkgs frozen spinach
-- :cheese_wedge: 32 oz cottage cheese
+- :glass_of_milk: 2 10-oz pkgs frozen spinach
+- :cheese_wedge: 32 oz (904 g) cottage cheese
 - :egg: 3 eggs
-- :cheese_wedge: 20 oz mozzarella
-- :tomato: 32 oz [spaghetti sauce][1]
-- :tomato: 3 8-oz cans tomato sauce
-- :spaghetti: 1 1-lb box lasagna noodles
-- :cheese_wedge: 20 oz mozzarella
-- :cheese_wedge: 10 oz cheddar cheese
+- :cheese_wedge: 20 oz (282 g) mozzarella
+- 32 oz [spaghetti sauce][1]
+- :glass_of_milk: 3 8-oz cans tomato sauce
+- :apple: 1 1-lb box lasagna noodles
+- :cheese_wedge: 20 oz (282 g) mozzarella
+- :cheese_wedge: 10 oz (142 g) cheddar cheese
 
 ## :cooking: Cookware
 

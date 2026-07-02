@@ -19,11 +19,11 @@ hero: assets/images/omas-spekkoek.webp
 ## :salt: Ingredients
 
 - :butter: 4 sticks butter (1 pound)
-- :glass_of_milk: 2 Tbsp sweetened condensed milk
+- :glass_of_milk: 2 Tbsp (39 g) sweetened condensed milk
 - :egg: 20 eggs
-- :candy: 1.5 cups superfine granulated sugar
-- :candy: 2 sachets vanilla sugar (or 1 tsp vanilla extract)
-- :ear_of_rice: 1.5 cups all purpose flour, sieved
+- :candy: 1.5 cups (297 g) superfine granulated sugar
+- :baby_bottle: 2 sachets vanilla sugar (or 1 tsp vanilla extract)
+- :bread: 1.5 cups (234 g) all purpose flour, sieved
 - :salt: 1 pinch salt
 
 ### Spices for the brown layer

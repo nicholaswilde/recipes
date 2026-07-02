@@ -20,15 +20,15 @@ hero: assets/images/brown-butter-and-sage-sables.webp
 ## :salt: Ingredients
 
 - :butter: 2 sticks unsalted butter
-- :leafy_green: 4 sprigs sage
-- :ear_of_rice: 228 g all-purpose flour
-- :corn: 35 g cornstarch
+- :herb: 4 sprigs sage
+- :bread: 228 g all-purpose flour
+- :chestnut: 35 g cornstarch
 - :salt: 1 tsp salt
 - :candy: 150 g granulated sugar
-- :lemon: 1 tsp lemon zest
+- :tangerine: 1 tsp (5 g) lemon zest
 - :egg: 2 large egg yolks
-- :icecream: 2 tsp vanilla
-- :candy: 0.5 cup (110 g) demerara sugar
+- :flower_playing_cards: 2 tsp vanilla
+- :baby_bottle: 0.5 cup (110 g) demerara sugar
 
 ## :cooking: Cookware
 

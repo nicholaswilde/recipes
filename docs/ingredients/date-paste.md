@@ -15,8 +15,8 @@ hero: assets/images/date-paste.webp
 
 ## :salt: Ingredients
 
-- :droplet: 4 cups water
-- :grapes: 12 oz Medjool dates
+- :droplet: 4 cups (908 g) water
+- :grapes: 12 oz (224 g) Medjool dates
 
 ## :cooking: Cookware
 

@@ -17,12 +17,12 @@ hero: assets/images/whipped-almond-ricotta.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 2 cups slivered [blanched almonds][1]
-- :microbe: 3 tsp nutritional yeast
-- :lemon: 2 Tbsp lemon juice
+- 2 cups slivered [blanched almonds][1]
+- :cheese_wedge: 3 tsp (4 g) nutritional yeast
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :garlic: 1 dash garlic powder
-- :herb: 3 Tbsp basil, oregano, or parsley (optional)
-- :droplet: 1 cup water
+- :apple: 3 Tbsp basil, oregano, or parsley (optional)
+- :droplet: 1 cup (227 g) water
 - :salt: 0.75 tsp salt
 
 ## :cooking: Cookware

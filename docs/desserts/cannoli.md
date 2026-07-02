@@ -17,16 +17,16 @@ hero: assets/images/cannoli.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :candy: 2 Tbsp sugar
+- :bread: 2 cups (240 g) all-purpose flour
+- :candy: 2 Tbsp (20 g) sugar
 - :salt: 0.25 tsp salt
 - :butter: 3 Tbsp butter
 - :egg: 1 large whole egg
 - :egg: 1 egg yolk
 - :wine_glass: 0.5 cup marsala wine
-- :cheese_wedge: 16 oz [Ricotta](../ingredients/ricotta.md)
-- :candy: 0.5 cup (99 g) confectioners' sugar
-- :icecream: 1 tsp vanilla
+- :blue_circle: 16 oz [Ricotta](../ingredients/ricotta.md)
+- :candy: 0.5 cup (56 g) confectioners' sugar
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

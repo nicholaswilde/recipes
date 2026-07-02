@@ -18,19 +18,19 @@ hero: assets/images/creamed-spinach.webp
 ## :salt: Ingredients
 
 - :leafy_green: 1 lb spinach
-- :butter: 4 oz unsalted butter
-- :onion: 1 cup red onion, diced
-- :ear_of_rice: 2 oz all-purpose flour
-- :glass_of_milk: 4 cups milk
+- :butter: 4 oz (113 g) unsalted butter
+- :tea: 1 cup (142 g) red onion, diced
+- :bread: 2 oz (30 g) all-purpose flour
+- :glass_of_milk: 4 cups (908 g) milk
 - :salt: some salt
 - :salt: some pepper
 - :garlic: 2 Tbsp garlic
-- :hot_pepper: 1 dash hot sauce
-- :lemon: 1 Tbsp lemon juice
-- :cheese_wedge: 4 oz English cheddar
-- :cheese_wedge: 4 oz Gruyere
-- :lemon: 1 lemon zest
-- :cheese_wedge: 2 Tbsp Parmesan cheese
+- :droplet: 1 dash hot sauce
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :cheese_wedge: 4 oz (57 g) English cheddar
+- 4 oz Gruyere
+- :tangerine: 1 lemon zest
+- :cheese_wedge: 2 Tbsp (12 g) Parmesan cheese
 - :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware

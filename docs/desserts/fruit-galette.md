@@ -18,22 +18,22 @@ hero: assets/images/fruit-galette.webp
 
 === "Dough"
 
-    - :ear_of_rice: 165 g all-purpose flour
+    - :bread: 165 g all-purpose flour
     - :candy: 15 g granulated sugar
     - :salt: 0.5 tsp salt
     - :egg: 1 large egg
-    - :icecream: some heavy cream
+    - :glass_of_milk: some heavy cream
     - :butter: 113 g unsalted butter
-    - :lemon: 2 tsp lemon juice
-    - :lemon: 0.5 tsp lemon zest (optional)
+    - :tangerine: 2 tsp (9 g) lemon juice
+    - :apple: 0.5 tsp (2 g) lemon zest (optional)
 
 === "Filling"
 
-    - :strawberry: 3 cups summer fruit
+    - 3 cups (384 g) summer fruit
     - :candy: 150 g granulated sugar
     - :salt: 1 pinch salt
-    - :lemon: 0.5 lemon
-    - :corn: 4 Tbsp cornstarch
+    - :tangerine: 0.5 lemon
+    - :chestnut: 4 Tbsp (28 g) cornstarch
 
 ## :cooking: Cookware
 

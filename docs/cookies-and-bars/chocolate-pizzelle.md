@@ -20,15 +20,15 @@ hero: assets/images/chocolate-pizzelle.webp
 
 - :egg: 3 large eggs
 - :candy: 198 g granulated sugar
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 - :coffee: 0.5 tsp espresso powder
 - :salt: 0.38 tsp salt
 - :chocolate_bar: 21 g Dutch-process cocoa
-- :dash: 2 tsp baking powder
-- :ear_of_rice: 200 g all-purpose flour
-- :butter: 113 g melted unsalted butter
-- :cookie: 1 [plain pizzelle batter][1] (optional)
-- :chestnut: 0.5 tsp hazelnut flavor (optional)
+- :chestnut: 2 tsp baking powder
+- :bread: 200 g all-purpose flour
+- :baby_bottle: 113 g melted unsalted butter
+- :apple: 1 [plain pizzelle batter][1] (optional)
+- :apple: 0.5 tsp (3 g) hazelnut flavor (optional)
 
 ## :cooking: Cookware
 

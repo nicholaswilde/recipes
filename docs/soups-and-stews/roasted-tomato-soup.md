@@ -20,25 +20,25 @@ hero: assets/images/roasted-tomato-soup.png
 === "Soup"
 
     - :garlic: 2 cloves garlic
-    - :onion: 2 medium red onions
+    - :tea: 2 medium red onions
     - :hot_pepper: 1 tsp cayenne pepper
     - :olive: some olive oil
     - :salt: 1 pinch salt
     - :salt: 1 pinch pepper
-    - :maple_leaf: 1 tsp brown sugar
-    - :sake: 1 tsp balsamic vinegar
+    - :maple_leaf: 1 tsp (4 g) brown sugar
+    - :wine_glass: 1 tsp balsamic vinegar
     - :tomato: 3.5 lbs tomatoes
     - :stew: 1 qt vegetable stock
-    - :glass_of_milk: 4 oz heavy cream
+    - :glass_of_milk: 4 oz (114 g) heavy cream
 
 === "Pesto"
 
-    - :chestnut: 3 Tbsp pine nuts
-    - :tomato: 3 oz sun-dried tomatoes
+    - :chestnut: 3 Tbsp (27 g) pine nuts
+    - :tea: 3 oz (64 g) sun-dried tomatoes
     - :salt: 1 pinch pepper
-    - :cheese_wedge: 2 oz Parmesan
+    - :cheese_wedge: 2 oz (25 g) Parmesan
     - :olive: 1 dash olive oil
-    - :tomato: 1 dash tomato oil
+    - :droplet: 1 dash tomato oil
 
 ## :cooking: Cookware
 

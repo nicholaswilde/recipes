@@ -17,18 +17,18 @@ hero: assets/images/two-layer-cheesecake.webp
 
 ## :salt: Ingredients
 
-- :bread: 1.67 cups (237 g) graham cracker crumbs
-- :candy: 2 Tbsp (25 g) sugar
-- :chestnut: 1.5 tsp (3 g) cinnamon
-- :butter: 6 Tbsp (85 g) unsalted butter (melted)
-- :cheese_wedge: 24 oz (680 g) cream cheese (softened)
-- :candy: 1 cup (198 g) sugar
-- :egg: 3 large (150 g) eggs (well beaten)
-- :flower_playing_cards: 0.5 tsp (2 g) vanilla extract
-- :baby_bottle: 1 pint (454 g) sour cream
-- :candy: 3 Tbsp (37 g) sugar
-- :flower_playing_cards: 0.5 tsp (2 g) vanilla extract
-- :apple: some refrigerated fruit (optional)
+- :bread: 1.67 cups (165 g) graham cracker crumbs
+- :candy: 2 Tbsp (20 g) sugar
+- :chestnut: 1.5 tsp (6 g) cinnamon
+- :baby_bottle: 6 Tbsp (85 g) unsalted butter (melted)
+- :birthday: 24 oz (681 g) cream cheese (softened)
+- :candy: 1 cup (156 g) sugar
+- :baby_bottle: 3 large eggs (well beaten)
+- :flower_playing_cards: 0.5 tsp vanilla extract
+- :glass_of_milk: 1 pint sour cream
+- :candy: 3 Tbsp (29 g) sugar
+- :flower_playing_cards: 0.5 tsp vanilla extract
+- :hot_pepper: some refrigerated fruit (optional)
 
 ## :cooking: Cookware
 

@@ -17,10 +17,10 @@ hero: assets/images/bow-tie-pasta-chips.webp
 
 ## :salt: Ingredients
 
-- :ribbon: 2 cups whole-grain bow tie pasta
-- :falafel: 1 Tbsp aquafaba
-- :microbe: 1 Tbsp nutritional yeast
-- :herb: 1.5 tsp Italian seasoning
+- :ribbon: 2 cups (226 g) whole-grain bow tie pasta
+- :baby_bottle: 1 Tbsp aquafaba
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+- :herb: 1.5 tsp (4 g) Italian seasoning
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

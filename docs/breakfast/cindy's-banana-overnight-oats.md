@@ -16,9 +16,9 @@ hero: assets/images/cindy's-banana-overnight-oats.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups almond milk
-- :banana: 3 bananas
-- :ear_of_rice: 2.5 cup rolled oats
+- :glass_of_milk: 2 cups (168 g) almond milk
+- :apple: 3 bananas
+- :ear_of_rice: 2.5 cup (282 g) rolled oats
 - :salt: some salt
 
 ## :cooking: Cookware

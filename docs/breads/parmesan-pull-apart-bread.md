@@ -17,8 +17,8 @@ hero: assets/images/parmesan-pull-apart-bread.webp
 ## :salt: Ingredients
 
 - :butter: 3 Tbsp butter
-- :cheese_wedge: 0.5 cup Parmesan
-- :cookie: 1 10-oz pkg [buttermilk biscuit][1]
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
+- :glass_of_milk: 1 10-oz pkg [buttermilk biscuit][1]
 
 ## :cooking: Cookware
 

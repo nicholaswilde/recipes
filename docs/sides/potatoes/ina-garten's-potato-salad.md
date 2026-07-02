@@ -18,17 +18,17 @@ hero: assets/images/ina-garten's-potato-salad.webp
 
 ## :salt: Ingredients
 
-- :potato: 3 lbs small white potatoes
+- :chestnut: 3 lbs small white potatoes
 - :salt: 2 Tbsp salt
-- :egg: 1 cup [mayonnaise][1]
-- :glass_of_milk: 0.25 cup [buttermilk][2]
-- :hotdog: 2 Tbsp [Dijon mustard][3]
-- :hotdog: 2 Tbsp whole-grain mustard
-- :herb: 0.5 cup dill
+- 1 cup [mayonnaise][1]
+- 0.25 cup [buttermilk][2]
+- 2 Tbsp [Dijon mustard][3]
+- :seedling: 2 Tbsp (14 g) whole-grain mustard
+- :apple: 0.5 cup dill
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :leafy_green: 0.5 cup celery
-- :onion: 0.5 cup red onion
+- :leafy_green: 0.5 cup (71 g) celery
+- :tea: 0.5 cup (105 g) red onion
 - :salt: 2 tsp salt
 - :salt: 1 tsp pepper
 

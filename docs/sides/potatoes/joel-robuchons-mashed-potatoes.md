@@ -16,9 +16,9 @@ hero: assets/images/joel-robuchons-mashed-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 1 kg rattes or BF 15 potatoes
+- :sweet_potato: 1 kg rattes or BF 15 potatoes
 - :salt: 1 Tbsp coarse salt
-- :butter: 250 g well-chilled unsalted butter
+- :hot_pepper: 250 g well-chilled unsalted butter
 - :glass_of_milk: 250 g very hot whole milk
 - :salt: some salt
 - :salt: some pepper

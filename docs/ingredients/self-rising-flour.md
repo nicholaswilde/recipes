@@ -20,8 +20,8 @@ hero: assets/images/self-rising-flour.webp
 ## :salt: Ingredients
 
 - :bread: 1 cup (120 g) all-purpose flour
-- :chestnut: 1 1/2 tsp (6 g) [baking powder][2]
-- :salt: 1/4 tsp (1.5 g) table salt
+- :apple: 1 1/2 tsp [baking powder][2]
+- :baby_bottle: 1/4 tsp (1.5 g) table salt
 
 ## :cooking: Cookware
 

@@ -16,7 +16,7 @@ hero: assets/images/roasted-corn-with-chile-lime-butter.webp
 
 ## :salt: Ingredients
 
-- :apple: 6 ears corn
+- :corn: 6 ears corn
 - :tangerine: 1 lime
 - :glass_of_milk: 2 tbsp (34 g) whipped butter
 - :baby_bottle: 0.25 cup (56 g) mayonnaise

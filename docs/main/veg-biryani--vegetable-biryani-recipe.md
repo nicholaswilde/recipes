@@ -22,7 +22,7 @@ tags:
 - :apple: 2 tablespoons (12 g) coriander leaves (chopped (cilantro))
 - :candy: 0.5 teaspoon (3 g) red chilli powder ((or paprika, adjust to taste))
 - :curry: 0.25 teaspoon (1 g) turmeric
-- :baby_bottle: 0.75 to 1 teaspoon garam masala ((adjust to taste) or Biryani Masala Powder)
+- :candy: 0.75 to 1 teaspoon garam masala ((adjust to taste) or Biryani Masala Powder)
 - :tomato: 1 small tomato ((optional) chopped)
 - :glass_of_milk: 1 ¾ cups water (or thin coconut milk (1¼ cups water for IP, 2 cups for regular pot, refer notes))
 - :baby_bottle: 1 ½ to 2 tablespoons Oil ((or ghee))

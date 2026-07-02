@@ -17,17 +17,17 @@ hero: assets/images/black-bean-burgers.webp
 
 ## :salt: Ingredients
 
-- :beans: 2 15-oz cans [black beans][1]
-- :olive: 2 Tbsp extra virgin olive oil
-- :onion: 0.5 cup (80 g) chopped bell pepper
-- :onion: 0.5 cup (80 g) chopped onion
+- :glass_of_milk: 2 15-oz cans [black beans][1]
+- :olive: 2 Tbsp (25 g) extra virgin olive oil
+- :hot_pepper: 0.5 cup (71 g) chopped bell pepper
+- :seedling: 0.5 cup (48 g) chopped onion
 - :garlic: 3 cloves garlic
-- :herb: 1.5 tsp ground cumin
-- :hot_pepper: 1 tsp chili powder
-- :hot_pepper: 0.5 tsp garlic powder
+- :chestnut: 1.5 tsp (4 g) ground cumin
+- :hot_pepper: 1 tsp (2 g) chili powder
+- :garlic: 0.5 tsp garlic powder
 - :hot_pepper: 0.25 tsp smoked paprika
-- :bread: 0.5 cup (60 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
-- :cheese_wedge: 0.5 cup (50 g) feta cheese (optional)
+- 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :cheese_wedge: 0.5 cup (57 g) feta cheese (optional)
 - :egg: 2 large eggs
 - :salt: some salt
 - :salt: some black pepper

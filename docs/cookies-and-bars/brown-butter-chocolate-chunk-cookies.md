@@ -18,16 +18,16 @@ hero: assets/images/brown-butter-chocolate-chunk-cookies.webp
 ## :salt: Ingredients
 
 - :butter: 225 g unsalted butter
-- :ear_of_rice: 145 g all-purpose flour
-- :ear_of_rice: 75 g buckwheat flour
+- :bread: 145 g all-purpose flour
+- :flatbread: 75 g buckwheat flour
 - :candy: 140 g granulated sugar
-- :maple_leaf: 135 g dark brown sugar
+- :candy: 135 g dark brown sugar
 - :egg: 2 eggs
-- :icecream: 2 tsp vanilla
-- :cup_with_straw: 0.5 tsp baking soda
+- :flower_playing_cards: 2 tsp vanilla
+- :chestnut: 0.5 tsp baking soda
 - :salt: 1 tsp salt
-- :chocolate_bar: 100 g dark chocolates
-- :chocolate_bar: 70 g semisweet chocolate
+- :chestnut: 100 g dark chocolates
+- :bread: 70 g semisweet chocolate
 - :chocolate_bar: 1 60 g dark chocolate bar
 
 ## :cooking: Cookware

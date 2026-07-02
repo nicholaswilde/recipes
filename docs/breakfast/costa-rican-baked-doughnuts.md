@@ -19,12 +19,12 @@ hero: assets/images/costa-rican-baked-doughnuts.webp
 
 ## :salt: Ingredients
 
-- :corn: 2 cups (186 g) masa harina
+- 2 cups (186 g) masa harina
 - :salt: 1.5 tsp salt
-- :maple_leaf: 3 Tbsp brown sugar
+- :maple_leaf: 3 Tbsp (40 g) brown sugar
 - :droplet: 1 cup (227 g) warm water
-- :corn: 0.33 cup creamed corn
-- :icecream: 1 tsp vanilla
+- :bread: 0.33 cup (2 g) creamed corn
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

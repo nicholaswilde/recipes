@@ -16,11 +16,11 @@ hero: assets/images/hummus-orange-juice-dressing.webp
 
 ## :salt: Ingredients
 
-- :falafel: 3 Tbsp [hummus][1]
-- :tangerine: 3 Tbsp orange juice
-- :hotdog: 1 tsp [mustard][2] of choice
-- :sake: 2 Tbsp balsamic vinegar
-- :sweet_potato: 0.5 tsp pealed and chopped fresh ginger
+- 3 Tbsp [hummus][1]
+- :tangerine: 3 Tbsp (42 g) orange juice
+- 1 tsp [mustard][2] of choice
+- :wine_glass: 2 Tbsp balsamic vinegar
+- :sweet_potato: 0.5 tsp (2 g) pealed and chopped fresh ginger
 
 ## :cooking: Cookware
 

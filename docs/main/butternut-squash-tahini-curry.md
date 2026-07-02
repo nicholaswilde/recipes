@@ -19,23 +19,23 @@ hero: assets/images/butternut-squash-tahini-curry.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp (14 g) olive oil
+- :olive: 1 Tbsp (12 g) olive oil
 - :tea: 1 small yellow onion (diced small)
-- :sweet_potato: 1 Tbsp (15 g) fresh ginger (grated)
+- :sweet_potato: 1 Tbsp (14 g) fresh ginger (grated)
 - :garlic: 1 garlic clove (minced)
 - :hot_pepper: 1 small red chili pepper (seeded and minced)
 - :hot_pepper: 1 large red bell pepper (cut into 3/4-inch pieces)
-- :melon: 1 medium butternut squash (peeled and cut into 1/2-inch cubes, about 3 1/2 cups)
-- :curry: 2 Tbsp (30 g) Thai red curry paste
-- :stew: 3 cups (710 ml) [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :baby_bottle: 1 medium butternut squash (peeled and cut into 1/2-inch cubes, about 3 1/2 cups)
+- :curry: 2 Tbsp (32 g) Thai red curry paste
+- 3 cups (710 ml) [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :seedling: 3 Tbsp (48 g) tahini
-- :takeout_box: 1 Tbsp (15 ml) low-sodium soy sauce
+- :apple: 1 Tbsp (14 g) (15 ml) low-sodium soy sauce
 - :tangerine: 1 Tbsp (15 ml) lime juice (freshly squeezed)
 - :honey_pot: 1/2 tsp (3 g) maple syrup
-- :beans: some chickpea croutons (optional)
-- :stew: some [Vegetable Broth](../ingredients/vegetable-broth.md) (for consistency)
+- :hot_pepper: some chickpea croutons (optional)
+- some [Vegetable Broth](../ingredients/vegetable-broth.md) (for consistency)
 - :salt: some salt
-- :herb: 1/4 cup fresh cilantro (chopped)
+- :herb: 1/4 cup (10 g) fresh cilantro (chopped)
 
 ## :cooking: Cookware
 

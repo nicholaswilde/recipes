@@ -19,47 +19,47 @@ hero: assets/images/minestrone-soup.webp
 
 === "serves 6"
 
-    - :olive: 1 Tbsp olive oil
-    - :onion: 1 cup onion
+    - :olive: 1 Tbsp (12 g) olive oil
+    - :tea: 1 cup (96 g) onion
     - :garlic: 1 Tbsp garlic
-    - :carrot: 1 cup carrots
-    - :leafy_green: 1 cups celery
+    - :carrot: 1 cup (142 g) carrots
+    - :leafy_green: 1 cups (142 g) celery
     - :herb: 1 Tbsp thyme
-    - :tomato: 1 cup tomatoes
-    - :potato: 1.5 cups potatoes
-    - :stew: 5 cups vegetable stock
+    - :tomato: 1 cup (180 g) tomatoes
+    - :sweet_potato: 1.5 cups (320 g) potatoes
+    - :stew: 5 cups (990 g) vegetable stock
     - :salt: some salt
     - :salt: some pepper
-    - :cucumber: 0.5 lb green beans
+    - :beans: 0.5 lb green beans
     - :herb: 2 Tbsp cup parsley
-    - :spaghetti: 0.25 lb cavatelli pasta, or any small pasta
+    - :bread: 0.25 lb cavatelli pasta, or any small pasta
     - :herb: 2 Tbsp basil
-    - :canned_food: 0.5 28-oz can cannellini beans
-    - :leafy_green: 0.5 head escarole lettuce or green leaves
-    - :herb: 2 Tbsp pesto
-    - :cheese_wedge: 0.5 cup Parmesan
+    - :glass_of_milk: 0.5 28-oz can cannellini beans
+    - :apple: 0.5 head escarole lettuce or green leaves
+    - 2 Tbsp pesto
+    - :cheese_wedge: 0.5 cup (50 g) Parmesan
 
 === "serves 12"
 
-    - :olive: 1 Tbsp olive oil
-    - :onion: 2 cups onion
+    - :olive: 1 Tbsp (12 g) olive oil
+    - :tea: 2 cups (192 g) onion
     - :garlic: 2 Tbsp garlic
-    - :carrot: 2 cups carrots
-    - :leafy_green: 2 cups celery
+    - :carrot: 2 cups (284 g) carrots
+    - :leafy_green: 2 cups (284 g) celery
     - :herb: 2 Tbsp thyme
-    - :tomato: 2 cups tomatoes
-    - :potato: 3 cups potatoes
-    - :stew: 10 cups vegetable stock
+    - :tomato: 2 cups (360 g) tomatoes
+    - :sweet_potato: 3 cups (639 g) potatoes
+    - :stew: 10 cups (1980 g) vegetable stock
     - :salt: some salt
     - :salt: some pepper
-    - :cucumber: 1 lb green beans
+    - :beans: 1 lb green beans
     - :herb: 0.25 cup parsley
-    - :spaghetti: 0.5 lb cavatelli pasta, or any small pasta
+    - :bread: 0.5 lb cavatelli pasta, or any small pasta
     - :herb: 0.25 cup basil
-    - :canned_food: 1 28-oz can cannellini beans
-    - :leafy_green: 1 head escarole lettuce or green leaves
-    - :herb: 0.25 cup pesto
-    - :cheese_wedge: 1 cup Parmesan
+    - :glass_of_milk: 1 28-oz can cannellini beans
+    - :apple: 1 head escarole lettuce or green leaves
+    - 0.25 cup pesto
+    - :cheese_wedge: 1 cup (100 g) Parmesan
 
 ## :cooking: Cookware
 

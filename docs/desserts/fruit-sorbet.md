@@ -18,10 +18,10 @@ hero: assets/images/fruit-sorbet.webp
 
 - :candy: 300 g confectioners' sugar
 - :droplet: 300 g water
-- :herb: some mint
+- :shamrock: some mint
 - :strawberry: 500 g strawberries
-- :lemon: 0.5 lime juice
-- :icecream: 1 tsp vanilla
+- :tangerine: 0.5 lime juice
+- :flower_playing_cards: 1 tsp vanilla
 - :egg: 1 egg
 
 ## :cooking: Cookware

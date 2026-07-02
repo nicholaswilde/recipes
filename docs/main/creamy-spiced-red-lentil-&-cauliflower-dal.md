@@ -20,11 +20,11 @@ hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp
 
 - :beans: 2 cups (420 g) dried red lentils
 - :broccoli: 1 small head cauliflower
-- :onion: 1 onion
+- :tea: 1 onion
 - :garlic: 4 cloves garlic
 - :sweet_potato: 1 Tbsp (14 g) fresh ginger
-- :tomato: 1 can (14 oz) diced tomatoes
-- :stew: 4 cups (908 g) [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :glass_of_milk: 1 can (14 oz) diced tomatoes
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :curry: 1 Tbsp (10 g) curry powder
 - :curry: 1 tsp (3 g) turmeric
 - :chestnut: 1 tsp (3 g) ground cumin

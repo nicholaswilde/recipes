@@ -17,11 +17,11 @@ hero: assets/images/sourdough-crackers.webp
 
 ## :salt: Ingredients
 
-- :microbe: 227 g sourdough starter
-- :ear_of_rice: 113 g whole wheat flour
+- :tea: 227 g sourdough starter
+- :bread: 113 g whole wheat flour
 - :salt: 0.5 tsp flaky sea salt
 - :butter: 57 g butter
-- :herb: 2 Tbsp herbs (optional)
+- :leafy_green: 2 Tbsp herbs (optional)
 
 ## :cooking: Cookware
 

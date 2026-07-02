@@ -21,8 +21,8 @@ hero: assets/images/french-buttercream.webp
 
 - :egg: 8 large egg yolks
 - :candy: 160 g granulated sugar
-- :ice_cube: 5 Tbsp cold water
-- :butter: 380 g soft unsalted butter
+- :baby_bottle: 5 Tbsp (71 g) cold water
+- :glass_of_milk: 380 g soft unsalted butter
 
 ## :cooking: Cookware
 

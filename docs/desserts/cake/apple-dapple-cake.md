@@ -17,17 +17,17 @@ hero: assets/images/apple-dapple-cake.webp
 ## :salt: Ingredients
 
 - :bread: 3 cups (360 g) all-purpose flour
-- :chestnut: 2 tsp (4 g) ground cinnamon
-- :salt: 1.5 tsp (8 g) kosher salt
-- :chestnut: 1 tsp (4 g) baking powder
-- :chestnut: 0.5 tsp (3 g) baking soda
-- :chestnut: 0.5 tsp ground nutmeg
+- :chestnut: 2 tsp (6 g) ground cinnamon
+- :salt: 1.5 tsp kosher salt
+- :chestnut: 1 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
+- :chestnut: 0.5 tsp (2 g) ground nutmeg
 - :candy: 2 cups (396 g) granulated sugar
-- :droplet: 1.5 cups (297 g) canola oil
-- :flower_playing_cards: 1 Tbsp (14 g) vanilla extract
-- :egg: 3 large (150 g) eggs
-- :apple: 3 large (765 g) Gala apples (peeled, cored, and finely chopped into 1/4-in. pieces)
-- :chestnut: 1 cup (99 g) toasted chopped pecans
+- :droplet: 1.5 cups (339 g) canola oil
+- :flower_playing_cards: 1 Tbsp vanilla extract
+- :egg: 3 large eggs
+- :glass_of_milk: 3 large Gala apples (peeled, cored, and finely chopped into 1/4-in. pieces)
+- :chestnut: 1 cup (96 g) toasted chopped pecans
 - :candy: 1 cup (213 g) light brown sugar
 - :butter: 0.75 cup (170 g) unsalted butter
 - :glass_of_milk: 0.25 cup (57 g) heavy whipping cream

@@ -16,7 +16,7 @@ hero: assets/images/spinach-and-feta-filo-pie.webp
 ## :salt: Ingredients
 
 - :chestnut: 100 g pine nuts
-- :egg: 5 large [eggs][2]
+- 5 large [eggs][2]
 - :cheese_wedge: 300 g feta cheese
 - :cheese_wedge: 50 g Cheddar cheese
 - :salt: 1 pinch black pepper
@@ -25,10 +25,10 @@ hero: assets/images/spinach-and-feta-filo-pie.webp
 - :olive: some olive oil
 - :butter: 1 knob unsalted butter
 - :leafy_green: 400 g spinach
-- :bread: 1 270 g [filo dough][4]
+- 1 270 g [filo dough][4]
 - :salt: some sea salt
 - :hot_pepper: 1 pinch cayenne pepper
-- :chestnut: 1 whole nutmeg
+- :apple: 1 whole nutmeg
 - :herb: some rosemary
 
 ## :cooking: Cookware

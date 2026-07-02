@@ -16,7 +16,7 @@ hero: assets/images/confectioners-sugar.webp
 
 ## :salt: Ingredients
 
-- :corn: 1 Tbsp cornstarch
+- :chestnut: 1 Tbsp (7 g) cornstarch
 - :candy: 1 cup (198 g) granulated sugar
 
 ## :cooking: Cookware

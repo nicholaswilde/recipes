@@ -16,13 +16,13 @@ hero: assets/images/decadent-chocolate-overnight-oats.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 0.75 cup almond milk
-- :butter: 2 Tbsp almond butter
-- :maple_leaf: 1 Tbsp maple syrup
-- :seedling: 2 tsp chia seeds
-- :icecream: 0.5 tsp vanilla
-- :ear_of_rice: 0.5 cup oats
-- :chocolate_bar: 2 Tbsp cocoa powder
+- :glass_of_milk: 0.75 cup (63 g) almond milk
+- :chestnut: 2 Tbsp (34 g) almond butter
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :seedling: 2 tsp (6 g) chia seeds
+- :flower_playing_cards: 0.5 tsp vanilla
+- :ear_of_rice: 0.5 cup (70 g) oats
+- :chocolate_bar: 2 Tbsp (14 g) cocoa powder
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

@@ -17,16 +17,16 @@ hero: assets/images/three-bean-salad.webp
 
 ## :salt: Ingredients
 
-- :champagne: 0.25 cup cider vinegar
-- :olive: 3 Tbsp olive oil
+- :apple: 0.25 cup (85 g) cider vinegar
+- :olive: 3 Tbsp (38 g) olive oil
 - :honey_pot: 1 Tbsp honey
 - :garlic: 1 clove garlic
 - :salt: 0.5 tsp salt
 - :salt: 0.13 tsp pepper
-- :onion: 0.5 small red onion
-- :beans: 8 oz yellow wax beans
-- :beans: 8 oz Romano beans
-- :canned_food: 1 15-oz can kidney beans
+- :tea: 0.5 small red onion
+- :beans: 8 oz (85 g) yellow wax beans
+- :apple: 8 oz (85 g) Romano beans
+- :glass_of_milk: 1 15-oz can kidney beans
 - :herb: 0.25 cup parsley
 
 ## :cooking: Cookware

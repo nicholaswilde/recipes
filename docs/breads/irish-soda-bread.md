@@ -17,18 +17,18 @@ hero: assets/images/irish-soda-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 276 g Irish-style flour
-- :ear_of_rice: 150 g bread flour
+- :bread: 276 g Irish-style flour
+- :bread: 150 g bread flour
 - :candy: 37 g granulated sugar
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 tsp baking soda
 - :salt: 1.5 tsp kosher salt
-- :grapes: 95 g currants
+- 95 g currants
 - :grapes: 99 g raisins (alternative)
 - :butter: 57 g unsalted butter
-- :glass_of_milk: 302 g [buttermilk](../ingredients/buttermilk.md)
+- :icecream: 302 g [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 large egg
-- :ear_of_rice: 254 g whole wheat (alternative)
-- :ear_of_rice: 150 g all-purpose flour (alternative)
+- :bread: 254 g whole wheat (alternative)
+- :baby_bottle: 150 g all-purpose flour (alternative)
 
 ## :cooking: Cookware
 

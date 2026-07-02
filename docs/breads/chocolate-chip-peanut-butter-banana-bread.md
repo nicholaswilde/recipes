@@ -17,17 +17,17 @@ hero: assets/images/chocolate-chip-peanut-butter-banana-bread.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup whole wheat flour
-- :maple_leaf: 0.75 cup (160 g) [light brown sugar][3]
-- :dash: 1 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :bread: 1 cup (113 g) whole wheat flour
+- :candy: 0.75 cup (128 g) [light brown sugar][3]
+- :chestnut: 1 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
-- :banana: 2 mashed bananas
-- :peanuts: 0.33 cup (45 g) [peanut butter][1]
-- :microbe: 0.25 cup (57 g) [fat-free plain yogurt][2]
+- :apple: 2 mashed bananas
+- 0.33 cup [peanut butter][1]
+- :bread: 0.25 cup (39 g) [fat-free plain yogurt][2]
 - :egg: 1 egg
-- :oil_drum: 2 Tbsp canola oil
-- :chocolate_bar: 0.75 cup (128 g) semi-sweet chocolate chips
+- :droplet: 2 Tbsp (28 g) canola oil
+- :chestnut: 0.75 cup (128 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

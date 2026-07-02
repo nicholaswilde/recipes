@@ -24,13 +24,13 @@ hero: assets/images/ginger-carrot-soup.webp
 ## :salt: Ingredients
 
 - :olive: 0.25 cup (50 g) extra-virgin olive oil
-- :carrot: 2 lbs (907 g) carrots
-- :onion: 1 large yellow onion
+- :carrot: 2 lbs carrots
+- :seedling: 1 large yellow onion
 - :sweet_potato: 1 3-inch piece fresh ginger
-- :sweet_potato: 2 tsp ground dried ginger
+- :sweet_potato: 2 tsp (6 g) ground dried ginger
 - :salt: some kosher salt
 - :coconut: 1 13.5-oz can full-fat coconut milk
-- :stew: 4 cups (907 g) [Vegetable Broth](../ingredients/vegetable-broth.md)
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :hot_pepper: some chili oil
 
 ## :cooking: Cookware

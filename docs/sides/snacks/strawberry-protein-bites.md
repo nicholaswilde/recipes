@@ -20,16 +20,16 @@ hero: assets/images/strawberry-protein-bites.webp
 
 === "Dough"
 
-    - :eggplant: 6 pitted medjool dates
-    - :chestnut: 0.25 cup hazelnuts
-    - :chestnut: 0.75 cup cashews
-    - :strawberry: 1 cup freeze-dried strawberries
-    - :honey_pot: 2 Tbsp maple syrup or honey
-    - :strawberry: 3 Tbsp strawberry protein powder
+    - :grapes: 6 pitted medjool dates
+    - 0.25 cup (36 g) hazelnuts
+    - :chestnut: 0.75 cup (85 g) cashews
+    - :chestnut: 1 cup (128 g) freeze-dried strawberries
+    - :honey_pot: 2 Tbsp (39 g) maple syrup or honey
+    - :chocolate_bar: 3 Tbsp strawberry protein powder
 
 === "Coating"
 
-    - :strawberry: 1.5 cups freeze-dried strawberries
+    - :chestnut: 1.5 cups (192 g) freeze-dried strawberries
 
 ## :cooking: Cookware
 

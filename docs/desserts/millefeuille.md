@@ -21,29 +21,29 @@ hero: assets/images/millefeuille.webp
 
     - :butter: 140 g unsalted butter
     - :salt: 1 pinch salt
-    - :ear_of_rice: 225 g all-purpose flour
-    - :ice_cube: 135 ml very cold water
+    - :bread: 225 g all-purpose flour
+    - :baby_bottle: 135 ml (130 g) very cold water
 
 === "Crème Diplomat"
 
-    - :egg: 4 egg yolks
+    - :baby_bottle: 4 egg yolks
     - :candy: 110 g granulated sugar
-    - :ear_of_rice: 50 g all-purpose flour
-    - :corn: 50 g cornflour
-    - :glass_of_milk: 580 ml whole milk
+    - :bread: 50 g all-purpose flour
+    - 50 g cornflour
+    - :glass_of_milk: 580 ml (556 g) whole milk
 
 === "Raspberry Jam"
 
-    - :strawberry: 400 g raspberries
-    - :candy: 400 g jam sugar
-    - :lemon: 1 lemon juice
-    - :icecream: 300 ml heavy cream
+    - :apple: 400 g raspberries
+    - :apple: 400 g jam sugar
+    - :tangerine: 1 lemon juice
+    - :glass_of_milk: 300 ml (288 g) heavy cream
 
 === "Fondant"
 
     - :egg: 4 tsp egg white powder
-    - :droplet: 4 Tbsp water
-    - :cake: 400 g white fondant
+    - :droplet: 4 Tbsp (57 g) water
+    - :takeout_box: 400 g white fondant
 
 ## :cooking: Cookware
 

@@ -18,14 +18,14 @@ hero: assets/images/sweet-and-spicy-corn-salsa.webp
 ## :salt: Ingredients
 
 - :corn: 4 ears sweet corn kernels
-- :hot_pepper: 1 red pepper
-- :sake: 1 cup vinegar
-- :candy: 0.75 cup (148 g) sugar
-- :ice_cube: 0.25 cup (57 g) water
-- :hotdog: 1.5 tsp mustard seeds
-- :herb: 0.25 tsp cumin seeds
-- :onion: 1 red onion
-- :hot_pepper: 1.5 tsp ground red pepper
+- :salt: 1 red pepper
+- :wine_glass: 1 cup vinegar
+- :candy: 0.75 cup (117 g) sugar
+- :droplet: 0.25 cup (57 g) water
+- :seedling: 1.5 tsp mustard seeds
+- :chestnut: 0.25 tsp cumin seeds
+- :tea: 1 red onion
+- :hot_pepper: 1.5 tsp (7 g) ground red pepper
 
 ## :cooking: Cookware
 

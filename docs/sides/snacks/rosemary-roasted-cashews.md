@@ -20,9 +20,9 @@ hero: assets/images/rosemary-roasted-cashews.webp
 - :chestnut: 1.25 lbs cashew nuts
 - :herb: 2 Tbsp rosemary
 - :hot_pepper: 0.5 tsp cayenne
-- :maple_leaf: 2 Tbsp dark brown sugar
+- :candy: 2 Tbsp (27 g) dark brown sugar
 - :salt: 2 tsp salt
-- :butter: 1 Tbsp melted butter
+- :glass_of_milk: 1 Tbsp (17 g) melted butter
 
 ## :cooking: Cookware
 

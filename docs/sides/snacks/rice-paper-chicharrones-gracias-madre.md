@@ -17,9 +17,9 @@ hero: assets/images/rice-paper-chicharrones-gracias-madre.webp
 ## :salt: Ingredients
 
 - :olive: 1 inch neutral oil
-- :bread: 12 (120 g) rice paper wrappers
+- :bread: 12 rice paper wrappers
 - :salt: some Himalayan salt
-- :hot_pepper: some paprika
+- :candy: some paprika
 
 ## :cooking: Cookware
 

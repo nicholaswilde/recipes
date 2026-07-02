@@ -17,12 +17,12 @@ hero: assets/images/ultimate-brown-butter-rice-krispies-treats.webp
 ## :salt: Ingredients
 
 - :butter: 113 g unsalted butter
-- :glass_of_milk: 25 g dried whole milk powder
+- :chestnut: 25 g dried whole milk powder
 - :salt: 0.25 tsp salt
-- :icecream: 2 tsp vanilla
-- :dango: 387 g mini marshmallows
-- :dango: 43 g mini marshmallows
-- :ear_of_rice: 196 g crispy rice cereal
+- :flower_playing_cards: 2 tsp vanilla
+- :chocolate_bar: 387 g mini marshmallows
+- :chocolate_bar: 43 g mini marshmallows
+- :bread: 196 g crispy rice cereal
 
 ## :cooking: Cookware
 

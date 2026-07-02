@@ -17,22 +17,22 @@ hero: assets/images/orange-honey-tofu.webp
 
 ## :salt: Ingredients
 
-- :butter: 2 [pan-fried][1] or [air fryer tofu][2]
-- :stew: 1 cup [vegetable broth][3]
-- :tangerine: 0.5 cup orange juice
-- :candy: 0.25 cup (78 g) sugar (coconut sugar, brown sugar, or pure maple syrup)
+- 2 [pan-fried][1] or [air fryer tofu][2]
+- 1 cup [vegetable broth][3]
+- :tangerine: 0.5 cup (112 g) orange juice
+- :candy: 0.25 cup (53 g) sugar (coconut sugar, brown sugar, or pure maple syrup)
 - :honey_pot: 8 tsp honey
-- :rice: 0.33 cup rice vinegar
-- :seedling: 0.25 cup [tahini][4] or soy sauce
+- :wine_glass: 0.33 cup (9 g) rice vinegar
+- :apple: 0.25 cup (57 g) [tahini][4] or soy sauce
 - :garlic: 3 cloves garlic
-- :sweet_potato: 2 tsp ginger
-- :hot_pepper: 1 tsp Sriracha hot sauce
+- :sweet_potato: 2 tsp (6 g) ginger
+- :apple: 1 tsp (5 g) Sriracha hot sauce
 - :hot_pepper: 0.125 tsp red pepper flakes (alternative)
-- :corn: 2 Tbsp cornstarch
+- :chestnut: 2 Tbsp (14 g) cornstarch
 - :droplet: 0.25 cup (57 g) water
-- :rice: 5 cups brown or white rice with chives
-- :herb: 3 Tbsp green onions (optional)
-- :chestnut: some sesame seeds (optional)
+- :bread: 5 cups (850 g) brown or white rice with chives
+- :tea: 3 Tbsp (27 g) green onions (optional)
+- :seedling: some sesame seeds (optional)
 
 ## :cooking: Cookware
 

@@ -17,22 +17,22 @@ hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.webp
 
 ## :salt: Ingredients
 
-- :lemon: 2 Meyer lemons
-- :olive: 2 tsp olive oil
-- :candy: 1 tsp sugar
+- :tangerine: 2 Meyer lemons
+- :olive: 2 tsp (8 g) olive oil
+- :candy: 1 tsp (3 g) sugar
 - :butter: 2 Tbsp butter
-- :leafy_green: 2 trimmed endives
+- 2 trimmed endives
 - :garlic: 3 cloves garlic
-- :deciduous_tree: 1 jar marinated artichokes
-- :sake: 3 Tbsp balsamic vinegar
-- :rice: 10 Tbsp [crème fraîche][1]
-- :chestnut: 0.25 tsp nutmeg
+- 1 jar marinated artichokes
+- :wine_glass: 3 Tbsp balsamic vinegar
+- 10 Tbsp [crème fraîche][1]
+- :apple: 0.25 tsp nutmeg
 - :hot_pepper: 0.5 tsp cayenne
-- :herb: 1 tsp Italian herbs
-- :spaghetti: 12 oz orecchiette
-- :cheese_wedge: 1.25 cups grated pecorino
+- :herb: 1 tsp (2 g) Italian herbs
+- 12 oz orecchiette
+- :carrot: 1.25 cups (124 g) grated pecorino
 - :leafy_green: 3 cups arugula
-- :herb: some dill
+- :apple: some dill
 
 ## :cooking: Cookware
 

@@ -20,17 +20,17 @@ hero: assets/images/grammys-texas-sheet-cake.webp
 
 === "Cake"
 
-    - :ear_of_rice: 260 g all-purpose flour
+    - :bread: 260 g all-purpose flour
     - :candy: 400 g granulated sugar
-    - :cup_with_straw: 1 tsp baking soda
+    - :chestnut: 1 tsp baking soda
     - :salt: 1 tsp salt
     - :butter: 113 g unsalted butter
-    - :oil_drum: 66 g vegetable oil
+    - :olive: 66 g vegetable oil
     - :chocolate_bar: 21 g cocoa powder
     - :droplet: 227 g water
     - :egg: 2 eggs
-    - :butter: 227 g [buttermilk](../../ingredients/buttermilk.md)
-    - :icecream: 1 Tbsp vanilla
+    - :icecream: 227 g [buttermilk](../../ingredients/buttermilk.md)
+    - :flower_playing_cards: 1 Tbsp vanilla
 
 === "Pecans"
 
@@ -40,10 +40,10 @@ hero: assets/images/grammys-texas-sheet-cake.webp
 === "Icing"
 
     - :butter: 113 g unsalted butter
-    - :cheese_wedge: 4 oz cream cheese
+    - :cheese_wedge: 4 oz (114 g) cream cheese
     - :candy: 454 g confectioners' sugar
     - :chocolate_bar: 16 g cocoa powder
-    - :icecream: 1 Tbsp vanilla
+    - :flower_playing_cards: 1 Tbsp vanilla
 
 ## :cooking: Cookware
 

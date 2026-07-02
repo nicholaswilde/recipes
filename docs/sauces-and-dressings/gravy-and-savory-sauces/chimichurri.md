@@ -16,16 +16,16 @@ hero: assets/images/chimichurri.jpg
 
 ## :salt: Ingredients
 
-- :wine_glass: 0.5 cup red wine vinegar
-- :lemon: 1 lemon juice
+- :wine_glass: 0.5 cup (105 g) red wine vinegar
+- :tangerine: 1 lemon juice
 - :garlic: 1 small shallot
 - :garlic: 5 cloves garlic
 - :herb: 0.75 parsley
-- :herb: 0.5 cup cilantro
+- :herb: 0.5 cup (21 g) cilantro
 - :herb: 1 Tbsp oregano
-- :herb: 2 Tbsp chives
-- :hot_pepper: 0.5 tsp red pepper
-- :olive: 0.75 cup olive oil
+- 2 Tbsp (5 g) chives
+- :hot_pepper: 0.5 tsp (2 g) red pepper
+- :olive: 0.75 cup (150 g) olive oil
 - :salt: 2 tsp salt
 - :salt: 0.5 tsp pepper
 

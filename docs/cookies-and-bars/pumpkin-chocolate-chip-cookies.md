@@ -17,21 +17,21 @@ hero: assets/images/pumpkin-chocolate-chip-cookies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 250 g all-purpose flour
-- :dash: 2 tsp baking powder
-- :cup_with_straw: 0.75 tsp baking soda
-- :custard: 1.5 tsp cinnamon
-- :chestnut: 0.5 tsp nutmeg
-- :sweet_potato: 0.5 tsp ginger
-- :four_leaf_clover: 0.13 tsp cloves
+- :bread: 250 g all-purpose flour
+- :chestnut: 2 tsp baking powder
+- :chestnut: 0.75 tsp baking soda
+- :chestnut: 1.5 tsp (6 g) cinnamon
+- :apple: 0.5 tsp nutmeg
+- :sweet_potato: 0.5 tsp (2 g) ginger
+- :chestnut: 0.13 tsp cloves
 - :salt: 0.5 tsp salt
 - :candy: 100 g granulated sugar
-- :maple_leaf: 110 g light brown sugar
-- :oil_drum: 99 g vegetable oil
+- :candy: 110 g light brown sugar
+- :olive: 99 g vegetable oil
 - :egg: 1 large egg
-- :icecream: 1 tsp vanilla
-- :jack_o_lantern: 240 g pumpkin purée
-- :chocolate_bar: 255 g mini semisweet chocolate chips
+- :flower_playing_cards: 1 tsp vanilla
+- :melon: 240 g pumpkin purée
+- :bread: 255 g mini semisweet chocolate chips
 
 ## :cooking: Cookware
 

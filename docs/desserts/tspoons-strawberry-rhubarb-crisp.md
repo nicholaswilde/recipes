@@ -19,22 +19,22 @@ hero: assets/images/tspoons-strawberry-rhubarb-crisp.webp
 
 === "Filling"
 
-    - :strawberry: 1 cup frozen strawberries
-    - :leafy_green: 1 cup frozen rhubarb
-    - :candy: 4 Tbsp granulated sugar
-    - :orange_circle: 1 Tbsp orange juice
-    - :orange_circle: 1 tsp orange zest
+    - :strawberry: 1 cup (113 g) frozen strawberries
+    - :leafy_green: 1 cup (150 g) frozen rhubarb
+    - :candy: 4 Tbsp (50 g) granulated sugar
+    - :tangerine: 1 Tbsp (14 g) orange juice
+    - :tangerine: 1 tsp (2 g) orange zest
     - :salt: 1 pinch salt
-    - :ear_of_rice: 0.5 Tbsp all-purpose flour
+    - :bread: 0.5 Tbsp (4 g) all-purpose flour
 
 === "Topping"
 
-    - :ear_of_rice: 0.5 cup (60 g) all-purpose flour
-    - :maple_leaf: 2 Tbsp light brown sugar
+    - :bread: 0.5 cup (60 g) all-purpose flour
+    - :candy: 2 Tbsp (27 g) light brown sugar
     - :candy: 0.25 cup (50 g) granulated sugar
     - :salt: 1 pinch salt
-    - :ear_of_rice: 0.5 cup old fashioned oats
-    - :butter: 3 oz cold unsalted butter
+    - :ear_of_rice: 0.5 cup (50 g) old fashioned oats
+    - :glass_of_milk: 3 oz (85 g) cold unsalted butter
 
 ## :cooking: Cookware
 

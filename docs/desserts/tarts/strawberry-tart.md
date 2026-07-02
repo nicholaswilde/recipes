@@ -18,11 +18,11 @@ hero: assets/images/strawberry-tart.webp
 
 ## :salt: Ingredients
 
-- :pie: 1 8-inch [vanilla sable shell][4]
+- :cheese_wedge: 1 8-inch [vanilla sable shell][4]
 - :strawberry: 150 g [quick strawberry jam][3]
-- :egg: 300 g [pastry cream][1]
+- 300 g [pastry cream][1]
 - :strawberry: 2 lbs fresh strawberries
-- :strawberry: 50 g [clear glaze][2]
+- 50 g [clear glaze][2]
 
 ## :cooking: Cookware
 

@@ -16,17 +16,17 @@ hero: assets/images/pommes-mont-d'or.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1.5 kg Yukon gold potatoes
-- :egg: 4 egg yolks
+- :sweet_potato: 1.5 kg Yukon gold potatoes
+- :baby_bottle: 4 egg yolks
 - :salt: 2 Tbsp salt
 - :salt: some salt
 - :salt: some pepper
-- :chestnut: 2 pinches nutmeg
+- :apple: 2 pinches nutmeg
 - :butter: 100 g butter
-- :cheese_wedge: 100 g grates Gruyere or Comte cheese
-- :ear_of_rice: some all-purpose flour
+- :orange_circle: 100 g grates Gruyere or Comte cheese
+- :bread: some all-purpose flour
 - :egg: 2 egg
-- :bread: some [Breadcrumbs](../../ingredients/breadcrumbs.md)
+- some [Breadcrumbs](../../ingredients/breadcrumbs.md)
 
 ## :cooking: Cookware
 

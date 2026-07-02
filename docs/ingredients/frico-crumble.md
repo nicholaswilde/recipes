@@ -17,7 +17,7 @@ hero: assets/images/frico-crumble.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 2 oz Asiago, Manchego, or cheddar cheese
+- :orange_circle: 2 oz (28 g) Asiago, Manchego, or cheddar cheese
 
 ## :cooking: Cookware
 

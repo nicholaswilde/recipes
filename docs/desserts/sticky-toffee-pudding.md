@@ -19,24 +19,24 @@ hero: assets/images/sticky-toffee-pudding.webp
 
 === "Pudding"
 
-    - :grapes: 5 oz dates
-    - :cup_with_straw: 0.5 tsp baking soda
-    - :hotsprings: 0.25 cup (57 g) boiling water
+    - :grapes: 5 oz (93 g) dates
+    - :chestnut: 0.5 tsp baking soda
+    - :droplet: 0.25 cup (57 g) boiling water
     - :butter: 42 g unsalted butter
-    - :maple_leaf: 84 g light brown sugar
+    - :candy: 84 g light brown sugar
     - :egg: 1 egg
-    - :ear_of_rice: 78 g all-purpose flour
-    - :dash: 0.5 tsp baking powder
+    - :bread: 78 g all-purpose flour
+    - :chestnut: 0.5 tsp baking powder
 
 === "Toffee Sauce"
 
-    - :butter: 0.5 cup (114 g) unsalted butter
+    - :butter: 0.5 cup (113 g) unsalted butter
     - :maple_leaf: 225 g brown sugar
-    - :glass_of_milk: 2 Tbsp milk
-    - :glass_of_milk: 2 Tbsp heavy cream
-    - :corn: 2 Tbsp corn syrup
+    - :glass_of_milk: 2 Tbsp (28 g) milk
+    - :glass_of_milk: 2 Tbsp (28 g) heavy cream
+    - :candy: 2 Tbsp (39 g) corn syrup
     - :salt: 1 pinch salt
-    - :tumbler_glass:2 Tbsp bourbon
+    - 2 Tbsp bourbon
 
 ## :cooking: Cookware
 

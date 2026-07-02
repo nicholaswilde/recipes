@@ -17,11 +17,11 @@ hero: assets/images/danette's-kosher-marshmallow-creme-fondant.png
 
 ## :salt: Ingredients
 
-- :candy: 2 cups (396 g) confectioners' sugar
-- :carrot: some vegetable shortening
-- :dango: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
-- :cake: 1 Wilton white fondant
-- :white_circle: some white food coloring (optional)
+- :candy: 2 cups (226 g) confectioners' sugar
+- :butter: some vegetable shortening
+- :glass_of_milk: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
+- :takeout_box: 1 Wilton white fondant
+- :art: some white food coloring (optional)
 
 ## :cooking: Cookware
 

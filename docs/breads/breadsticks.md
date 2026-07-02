@@ -18,17 +18,17 @@ hero: assets/images/breadsticks.webp
 ## :salt: Ingredients
 
 - :droplet: 0.75 cup (170 g) warm water
-- :tea: 2.25 tsp active dry yeast
+- :tea: 2.25 tsp (3 g) active dry yeast
 - :candy: 1 pinch sugar
 - :olive: 2 Tbsp (25 g) olive oil
 - :salt: 1 tsp salt
-- :garlic: 0.25 tsp garlic powder (optional)
+- :garlic: 0.25 tsp (1 g) garlic powder (optional)
 - :bread: 1 cup (120 g) bread flour
 - :bread: 1.33 cups (160 g) bread flour
-- :butter: 3 Tbsp (43 g) unsalted butter
+- :butter: 3 Tbsp (42 g) unsalted butter
 - :salt: 0.25 tsp salt
 - :garlic: 0.25 tsp garlic powder
-- :herb: 1 tsp dried parsley
+- :herb: 1 tsp (3 g) dried parsley
 - :cheese_wedge: some grated Parmesan cheese (optional)
 
 ## :cooking: Cookware

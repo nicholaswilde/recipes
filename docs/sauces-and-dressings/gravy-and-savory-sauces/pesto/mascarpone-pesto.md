@@ -19,11 +19,11 @@ hero: assets/images/mascarpone-pesto.webp
 ## :salt: Ingredients
 
 - :herb: 2 cups parsley
-- :cheese_wedge: 1 8-oz container mascarpone cheese
-- :chestnut: 0.67 cup toasted slivered almonds
-- :olive: 0.5 cup olive oil
-- :seedling: 0.25 cup dill
-- :sake: 1 Tbsp white wine vinegar
+- :glass_of_milk: 1 8-oz container mascarpone cheese
+- :chestnut: 0.67 cup (95 g) toasted slivered almonds
+- :olive: 0.5 cup (100 g) olive oil
+- :apple: 0.25 cup dill
+- :wine_glass: 1 Tbsp (9 g) white wine vinegar
 - :garlic: 3 cloves garlic
 - :salt: 0.25 tsp salt
 

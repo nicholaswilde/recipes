@@ -18,12 +18,12 @@ hero: assets/images/aaron-combs'-salsa.webp
 ## :salt: Ingredients
 
 - :tomato: 5 tomato
-- :onion: 1 sweet white onion
+- :beans: 1 sweet white onion
 - :herb: some cilantro
 - :hot_pepper: 1 jalapeño
 - :salt: some salt
-- :lemon: some lemon juice
-- :garlic: some granulated garlic
+- :tangerine: some lemon juice
+- :candy: some granulated garlic
 
 ## :cooking: Cookware
 

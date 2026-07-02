@@ -17,14 +17,14 @@ hero: assets/images/pan-boxty.webp
 
 ## :salt: Ingredients
 
-- :potato: 1 cup (213 g) [mashed potatoes][1]
-- :potato: 1 lb Russet potatoes
-- :ear_of_rice: 0.67 cups (80 g) all-purpose flour
+- 1 cup [mashed potatoes][1]
+- :sweet_potato: 1 lb Russet potatoes
+- :bread: 0.67 cups (80 g) all-purpose flour
 - :seedling: 1 tsp caraway seeds (optional)
 - :salt: 1 tsp salt
 - :salt: 0.25 tsp pepper
-- :glass_of_milk: 0.67 cup milk
-- :butter: 6 Tbsp unsalted butter
+- :glass_of_milk: 0.67 cup (152 g) milk
+- :butter: 6 Tbsp (85 g) unsalted butter
 
 ## :cooking: Cookware
 

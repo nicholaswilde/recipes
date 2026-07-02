@@ -21,7 +21,7 @@ hero: assets/images/green-beans-with-lime-and-red-onions.webp
 - :olive: 2 tablespoons (25 g) extra-virgin olive oil
 - :garlic: 4 cloves garlic cloves
 - :chestnut: 1.25 teaspoons (2 g) ground coriander
-- :salt: 0.5 teaspoon (3 g) fine sea salt
+- :salt: 0.5 teaspoon fine sea salt
 - :hot_pepper: 1 pinch crushed red pepper
 - :tangerine: 1 lime
 - :tea: 0.5 red onion

@@ -17,14 +17,14 @@ hero: assets/images/buttery-pineapple-crumble-bars.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 240 g all-purpose flour
+- :bread: 240 g all-purpose flour
 - :butter: 170 g unsalted butter
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :candy: 264 g granulated sugar
 - :salt: 0.5 tsp salt
 - :pineapple: 638 g pineapple
-- :corn: 28 g cornstarch
-- :lemon: 1.5 Tbsp lemon juice
+- :chestnut: 28 g cornstarch
+- :tangerine: 1.5 Tbsp (21 g) lemon juice
 - :chestnut: 29 g slivered almonds
 
 ## :cooking: Cookware

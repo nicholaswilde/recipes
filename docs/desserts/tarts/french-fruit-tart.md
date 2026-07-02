@@ -19,15 +19,15 @@ hero: assets/images/french-fruit-tart.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cup [Bisquick][1]
-- :candy: 0.25 cup (50 g) sugar
-- :butter: 0.25 cup (57 g) butter
-- :cheese_wedge: 8 oz cream cheese
-- :candy: 0.33 cup (65 g) sugar
-- :icecream: 1 tsp vanilla
-- :glass_of_milk: 1 cup whipping cream
-- :strawberry: some berries
-- :apple: 0.5 cup apple jam
+- 2 cup [Bisquick][1]
+- :candy: 0.25 cup (39 g) sugar
+- :butter: 0.25 cup butter
+- :cheese_wedge: 8 oz (227 g) cream cheese
+- :candy: 0.33 cup (51 g) sugar
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 1 cup (227 g) whipping cream
+- some berries
+- :apple: 0.5 cup (170 g) apple jam
 
 ## :cooking: Cookware
 

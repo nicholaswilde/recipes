@@ -18,12 +18,12 @@ hero: assets/images/cauliflower-pizza-crust.webp
 
 ## :salt: Ingredients
 
-- :broccoli: 2.5 lbs (1130 g) cauliflower
-- :egg: 1 large egg (50 g)
-- :cheese_wedge: 0.5 cup (50 g) Parmesan cheese (or Mozzarella cheese)
+- :broccoli: 2.5 lbs cauliflower
+- :egg: 1 large egg
+- :cheese_wedge: 0.5 cup (56 g) Parmesan cheese (or Mozzarella cheese)
 - :herb: 1 tsp (2 g) Italian seasoning
 - :salt: 0.13 tsp (0.75 g) salt
-- :salt: 0.25 tsp (0.5 g) black pepper
+- :hot_pepper: 0.25 tsp (1 g) (0.5 g) black pepper
 
 ## :cooking: Cookware
 

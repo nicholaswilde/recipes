@@ -20,32 +20,32 @@ hero: assets/images/mole-negro.webp
 
 - :tomato: 4 Roma or plum tomatoes
 - :tomato: 1 tomatillo, husk removed
-- :onion: 0.25 onion, layers separated
+- :tea: 0.25 onion, layers separated
 - :garlic: 1 garlic clove
-- :chestnut: 1 Tbsp (9 g) almonds
+- :chestnut: 1 Tbsp (5 g) almonds
 - :chestnut: 1 Tbsp (9 g) peanuts
-- :seedling: 2 tsp (6 g) pumpkin seeds
+- :seedling: 2 tsp (7 g) pumpkin seeds
 - :seedling: 2 tsp (6 g) sesame seeds
 - :chestnut: 1 small cinnamon stick
-- :chestnut: 1 allspice berry
-- :chestnut: 1 clove
+- 1 allspice berry
+- :garlic: 1 clove
 - :seedling: 0.125 tsp (0.4 g) fennel seeds
 - :chestnut: 0.125 tsp (0.4 g) cumin seeds
 - :herb: 1 dried avocado leaf or bay leaf
 - :hot_pepper: 10 dried chilhuacle or Cascabel chiles, seeds and veins removed and reserved
 - :hot_pepper: 5 dried pasilla chiles, seeds and veins removed and reserved
 - :hot_pepper: 3 dried guajillo chiles, seeds and veins removed and reserved
-- :stew: 2.5 cups (567 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :bread: 0.5 cup (21 g) torn bread pieces (like ciabatta or baguette)
-- :bread: 0.5 cup torn corn tortilla pieces
-- :butter: 3 Tbsp (42 g) vegan butter
-- :grapes: 2 Tbsp (18 g) raisins
-- :herb: 1 tsp fresh thyme leaves
-- :herb: 1 tsp fresh oregano leaves
+- 2.5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :bread: 0.5 cup (142 g) torn bread pieces (like ciabatta or baguette)
+- :bread: 0.5 cup (76 g) torn corn tortilla pieces
+- :butter: 3 Tbsp (51 g) vegan butter
+- :grapes: 2 Tbsp (19 g) raisins
+- :herb: 1 tsp (4 g) fresh thyme leaves
+- :herb: 1 tsp (3 g) fresh oregano leaves
 - :herb: 0.5 tsp fresh marjoram
-- :chestnut: 0.5 disk (43 g) stone-ground Mexican dark chocolate, broken into pieces
-- :salt: 1 Tbsp (18 g) Himalayan salt
-- :candy: 1 Tbsp (12 g) sugar
+- :chestnut: 0.5 disk stone-ground Mexican dark chocolate, broken into pieces
+- :salt: 1 Tbsp Himalayan salt
+- :candy: 1 Tbsp (10 g) sugar
 
 ## :cooking: Cookware
 

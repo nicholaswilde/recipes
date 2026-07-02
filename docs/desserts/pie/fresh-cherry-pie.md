@@ -17,16 +17,16 @@ hero: assets/images/fresh-cherry-pie.webp
 
 ## :salt: Ingredients - Filling
 
-- :pie: 1 [deluxe butter pastry][1]
-- :cherries: 4.5 cups (1.5 lb) fresh cherries
-- :candy: 2/3 cup (135 g) granulated sugar
-- :corn: 1/4 cup (28 g) cornstarch
-- :lemon: 1 Tbsp (15 g) lemon juice
-- :icecream: 1 tsp vanilla extract
-- :chestnut: 0.25 tsp almond extract
+- :glass_of_milk: 1 [deluxe butter pastry][1]
+- :herb: 4.5 cups (720 g) (1.5 lb) fresh cherries
+- :candy: 2/3 cup (132 g) granulated sugar
+- :chestnut: 1/4 cup (28 g) cornstarch
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :flower_playing_cards: 1 tsp vanilla extract
+- :flower_playing_cards: 0.25 tsp (1 g) almond extract
 - :butter: 1 Tbsp (14 g) unsalted butter
 - :egg: 1 large egg
-- :candy: some demerara sugar (optional)
+- :baby_bottle: some demerara sugar (optional)
 
 ## :cooking: Cookware
 

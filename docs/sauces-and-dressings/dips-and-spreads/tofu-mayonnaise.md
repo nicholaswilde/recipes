@@ -17,13 +17,13 @@ hero: assets/images/tofu-mayonnaise.webp
 
 ## :salt: Ingredients
 
-- :custard: 1 12.3-oz pkg firm silken tofu
-- :green_apple: 1 Tbsp apple cider vinegar
-- :hotdog: 2 tsp [Dijon mustard][2]
+- :cheese_wedge: 1 12.3-oz pkg firm silken tofu
+- :apple: 1 Tbsp (18 g) apple cider vinegar
+- 2 tsp [Dijon mustard][2]
 - :garlic: 0.75 tsp garlic powder
-- :onion: 0.75 tsp onion powder
+- :chestnut: 0.75 tsp (2 g) onion powder
 - :salt: 0.75 tsp salt
-- :candy: 0.5 tsp coconut or date sugar
+- :baby_bottle: 0.5 tsp (2 g) coconut or date sugar
 
 ## :cooking: Cookware
 

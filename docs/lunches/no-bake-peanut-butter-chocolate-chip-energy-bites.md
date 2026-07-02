@@ -15,12 +15,12 @@ hero: assets/images/no-bake-peanut-butter-chocolate-chip-energy-bites.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup dry oats (e.g. old fashioned)
-- :coconut: 0.67 cup toasted unsweetened coconut flakes
-- :chestnut: 0.5 cup peanut butter
-- :seedling: 0.5 cup ground flaxseed
+- :ear_of_rice: 1 cup (99 g) dry oats (e.g. old fashioned)
+- :chestnut: 0.67 cup (40 g) toasted unsweetened coconut flakes
+- :chestnut: 0.5 cup (135 g) peanut butter
+- :apple: 0.5 cup (72 g) ground flaxseed
 - :honey_pot: 0.33 cup honey
-- :chocolate_bar: 0.5 cup mini chocolate chips
+- :chocolate_bar: 0.5 cup (88 g) mini chocolate chips
 - :flower_playing_cards: 1 teaspoon vanilla extract
 - :honey_pot: some honey
 - :chestnut: some peanut butter

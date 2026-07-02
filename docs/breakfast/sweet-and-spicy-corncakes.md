@@ -17,15 +17,15 @@ hero: assets/images/sweet-and-spicy-corncakes.webp
 ## :salt: Ingredients
 
 - :corn: 1 box TJ's cornbread mix
-- :glass_of_milk: 1 cup milk
+- :glass_of_milk: 1 cup (227 g) milk
 - :egg: 1 egg
 - :hot_pepper: some cayenne pepper
-- :grapes: some grape seed oil
-- :corn: 1 cup [TJ's corn and chile tomato-less salsa][1]
-- :green_salad: some cabbage slaw
-- :poultry_leg: 1 pkg TJ's chicken-less chicken fingers
+- :tomato: some grape seed oil
+- :tomato: 1 cup (152 g) [TJ's corn and chile tomato-less salsa][1]
+- :fish: some cabbage slaw
+- :stew: 1 pkg TJ's chicken-less chicken fingers
 - :herb: 1 bottle [TJ's cilantro dressing][2]
-- :lemon: 1 lime
+- :tangerine: 1 lime
 
 ## :cooking: Cookware
 

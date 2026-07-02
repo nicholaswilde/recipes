@@ -16,14 +16,14 @@ hero: assets/images/butternut-squash-sauce.webp
 
 ## :salt: Ingredients
 
-- :stew: 2 cups [vegetable broth][2]
-- :onion: 2 small shallots
-- :sweet_potato: 2 lbs butternut squash
-- :hot_pepper: 0.13 tsp red pepper flakes
+- 2 cups [vegetable broth][2]
+- :garlic: 2 small shallots
+- 2 lbs butternut squash
+- :hot_pepper: 0.13 tsp (1 g) red pepper flakes
 - :sweet_potato: some ginger
 - :salt: some salt
 - :salt: some pepper
-- :chestnut: some nutmeg
+- :apple: some nutmeg
 - :garlic: 2 cloves garlic
 
 ## :cooking: Cookware

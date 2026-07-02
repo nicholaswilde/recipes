@@ -17,12 +17,12 @@ hero: assets/images/vegan-sour-cream.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup raw cashews
-- :droplet: 0.25 cup water
-- :butter: 1 cup silken tofu
-- :lemon: 3 Tbsp lemon juice
-- :cactus: 1 tsp agave nectar
-- :ramen: 1 tsp white miso paste
+- :chestnut: 0.5 cup (56 g) raw cashews
+- :droplet: 0.25 cup (57 g) water
+- :cheese_wedge: 1 cup silken tofu
+- :tangerine: 3 Tbsp (42 g) lemon juice
+- 1 tsp (7 g) agave nectar
+- :takeout_box: 1 tsp (6 g) white miso paste
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

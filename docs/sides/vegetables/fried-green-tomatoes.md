@@ -18,13 +18,13 @@ hero: assets/images/fried-green-tomatoes.webp
 
 - :tomato: 4 large tomatoes
 - :egg: 2 eggs
-- :glass_of_milk: 0.5 cup milk
-- :ear_of_rice: 1 cup flour
-- :corn: 0.5 cup cornmeal
-- :bread: 5 cup bread crumbs
+- :glass_of_milk: 0.5 cup (114 g) milk
+- :bread: 1 cup (92 g) flour
+- :ear_of_rice: 0.5 cup (69 g) cornmeal
+- :potato: 5 cup (560 g) bread crumbs
 - :salt: 2 tsp salt
 - :salt: 0.25 tsp pepper
-- :oil_drum: 1 qt vegetable oil
+- :olive: 1 qt vegetable oil
 
 ## :cooking: Cookware
 

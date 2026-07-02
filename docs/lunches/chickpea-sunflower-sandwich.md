@@ -18,25 +18,25 @@ hero: assets/images/chickpea-sunflower-sandwich.webp
 
 ## :salt: Ingredients
 
-- :falafel: 0.5 cup hummus
-- :lemon: 2 Tbsp lemon juice
-- :leafy_green: 2 tsp dried dill
+- 0.5 cup hummus
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :herb: 2 tsp (6 g) dried dill
 - :garlic: 4 cloves garlic
 - :glass_of_milk: some unsweetened milk
 - :salt: some sea salt
-- :falafel: 2 cans chickpeas
-- :sunflower: 0.5 cup roasted unsalted sunflower seeds
-- :egg: 6 Tbsp vegan mayo
-- :hotdog: 1 tsp mustard
-- :maple_leaf: 2 Tbsp maple syrup
-- :onion: 0.5 cup red onion
-- :leafy_green: 4 Tbsp dill
+- :beans: 2 cans chickpeas
+- :seedling: 0.5 cup (70 g) roasted unsalted sunflower seeds
+- :baby_bottle: 6 Tbsp (85 g) vegan mayo
+- :seedling: 1 tsp mustard
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :tea: 0.5 cup (105 g) red onion
+- :apple: 4 Tbsp dill
 - :salt: some salt
 - :salt: some pepper
-- :bread: 8 slices rustic bread
+- :potato: 8 slices rustic bread
 - :tomato: some tomato
-- :onion: some onion
-- :leafy_green: some lettuce
+- :tea: some onion
+- :cheese_wedge: some lettuce
 
 ## :cooking: Cookware
 

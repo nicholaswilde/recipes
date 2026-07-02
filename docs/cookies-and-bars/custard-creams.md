@@ -22,16 +22,16 @@ hero: assets/images/custard-creams.webp
     - :butter: 100 g unsalted butter
     - :candy: 100 g granulated sugar
     - :egg: 1 egg
-    - :icecream: 0.5 tsp vanilla
-    - :ear_of_rice: 175 g all-purpose flour
-    - :rice: 35 g custard powder
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :bread: 175 g all-purpose flour
+    - :chestnut: 35 g custard powder
 
 === "Custard"
 
     - :candy: 65 g granulated sugar
-    - :droplet: 2 Tbsp water
-    - :egg: 2 egg yolks
-    - :rice: 20 g custard powder
+    - :droplet: 2 Tbsp (28 g) water
+    - :baby_bottle: 2 egg yolks
+    - :chestnut: 20 g custard powder
     - :butter: 150 g unsalted butter
 
 ## :cooking: Cookware

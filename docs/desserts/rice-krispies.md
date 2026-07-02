@@ -16,9 +16,9 @@ hero: assets/images/rice-krispies.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 7 cups (196 g) Rice Krispies Cereal
-- :butter: 6 Tbsp unsalted butter
-- :dango: 16 oz marshmallows
+- :bread: 7 cups (196 g) Rice Krispies Cereal
+- :butter: 6 Tbsp (85 g) unsalted butter
+- 16 oz (86 g) marshmallows
 
 ## :cooking: Cookware
 

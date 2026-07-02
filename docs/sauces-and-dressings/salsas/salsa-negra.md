@@ -19,9 +19,9 @@ hero: assets/images/salsa-negra.webp
 
 - :hot_pepper: 25 habanero peppers
 - :garlic: 40 cloves garlic
-- :onion: 0.5 onion
-- :olive: 0.5 cup olive oil
-- :sake: 3 Tbsp white vinegar
+- :tea: 0.5 onion
+- :olive: 0.5 cup (100 g) olive oil
+- :takeout_box: 3 Tbsp (20 g) white vinegar
 - :salt: 1 Tbsp salt
 
 ## :cooking: Cookware

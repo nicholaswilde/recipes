@@ -19,19 +19,19 @@ hero: assets/images/bagels.webp
 
 === "Starter"
 
-    - :ear_of_rice: 120 g bread flour
+    - :bread: 120 g bread flour
     - :salt: 0.25 tsp kosher salt
-    - :microbe: 0.06 tsp instant yeast
-    - :ice_cube: 75 g cool water
+    - :tea: 0.06 tsp instant yeast
+    - :droplet: 75 g cool water
 
 === "Dough"
 
-    - :droplet: 170 g room temperature water
-    - :ear_of_rice: 14 g barley malt syrup
-    - :maple_leaf: 13 g dark brown sugar (alternative)
-    - :microbe: 0.75 tsp instant yeast
+    - :baby_bottle: 170 g room temperature water
+    - :candy: 14 g barley malt syrup
+    - :candy: 13 g dark brown sugar (alternative)
+    - :tea: 0.75 tsp (2 g) instant yeast
     - :salt: 8 g salt
-    - :ear_of_rice: 300 g bread flour
+    - :bread: 300 g bread flour
 
 === "Water Bath"
 
@@ -40,16 +40,16 @@ hero: assets/images/bagels.webp
     | 2.3% |
 
     - :droplet: 1808 g water
-    - :ear_of_rice: 42 g barley malt syrup or honey
+    - :candy: 42 g barley malt syrup or honey
 
 === "Topping"
 
-    - :bagel: 47 g Everything bagel topping (optional)
+    - :tea: 47 g Everything bagel topping (optional)
 
 === "Egg Wash"
 
     - :egg: 1 egg
-    - :droplet: 1 Tbsp water
+    - :droplet: 1 Tbsp (14 g) water
 
 ## :cooking: Cookware
 

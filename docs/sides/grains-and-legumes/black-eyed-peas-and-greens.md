@@ -16,23 +16,23 @@ hero: assets/images/black-eyed-peas-and-greens.webp
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 medium (142 g) yellow onion
-- :bell_pepper: 1 medium (142 g) red bell pepper
+- :olive: 1 Tbsp (12 g) olive oil
+- :seedling: 1 medium yellow onion
+- :hot_pepper: 1 medium red bell pepper
 - :garlic: 3 cloves garlic
-- :curry: 1.25 cups (219 g) dry black eyed peas
-- :stew: 3.5 cups (795 g) [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :fallen_leaf: 2 bay leaves
+- :beans: 1.25 cups (219 g) dry black eyed peas
+- 3.5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :herb: 2 bay leaves
 - :hot_pepper: 2 tsp smoked paprika
 - :hot_pepper: 0.25 tsp cayenne pepper
-- :takeout_box: 2 Tbsp coconut aminos
-- :droplet: 1 tsp liquid smoke
+- :takeout_box: 2 Tbsp (16 g) coconut aminos
+- 1 tsp liquid smoke
 - :salt: 0.5 tsp sea salt
 - :salt: 0.5 tsp pepper
-- :leafy_green: 1 small bundle (216 g) collard greens
-- :rice: some rice
+- :leafy_green: 1 small bundle collard greens
+- :ear_of_rice: some rice
 - :sweet_potato: some sweet potato
-- :bread: some cornbread
+- :corn: some cornbread
 
 ## :cooking: Cookware
 

@@ -20,16 +20,16 @@ hero: assets/images/mushroom-pastor.webp
 - :mushroom: 1 lb oyster mushrooms
 - :hot_pepper: 2 dried guajillo chiles
 - :hot_pepper: 1 dried ancho chile
-- :hot_pepper: 1 chipotle in adobo
-- :onion: 0.25 onion
-- :pineapple: 0.5 cup pineapple juice
-- :orange_circle: 2 Tbsp orange juice
-- :red_apple: 2 tsp apple cider vinegar
+- 1 chipotle in adobo
+- :tea: 0.25 onion
+- :tangerine: 0.5 cup (120 g) pineapple juice
+- :tangerine: 2 Tbsp (28 g) orange juice
+- :apple: 2 tsp (12 g) apple cider vinegar
 - :garlic: 1 clove garlic
-- :four_leaf_clover: 1 clove
+- :garlic: 1 clove
 - :salt: 1.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :herb: 0.25 tsp cumin
+- :chestnut: 0.25 tsp (1 g) cumin
 - :herb: 0.25 tsp oregano
 
 ## :cooking: Cookware

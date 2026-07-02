@@ -18,14 +18,14 @@ hero: assets/images/carrot-dogs.webp
 ## :salt: Ingredients
 
 - :carrot: 4 large carrots
-- :hotdog: 4 whole-grain hot dog buns
-- :sake: 0.25 cup apple cider vinegar
-- :droplet: 0.25 cup water
+- :glass_of_milk: 4 whole-grain hot dog buns
+- :apple: 0.25 cup (70 g) apple cider vinegar
+- :droplet: 0.25 cup (57 g) water
 - :takeout_box: 2 Tbsp tamari
-- :maple_leaf: 1 tsp molasses
-- :hot_springs: 0.25 tsp liquid smoke
+- :candy: 1 tsp (7 g) molasses
+- 0.25 tsp liquid smoke
 - :garlic: 0.25 tsp garlic powder
-- :onion: 0.25 tsp onion powder
+- :chestnut: 0.25 tsp (1 g) onion powder
 - :salt: 0.25 tsp pepper
 
 ## :cooking: Cookware

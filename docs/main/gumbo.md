@@ -15,17 +15,17 @@ hero: assets/images/gumbo.webp
 
 ## :salt: Ingredients
 
-- :butter: 0.5 oz unsalted butter
-- :onion: 0.25 cup diced onion
-- :leafy_green: 0.25 cup diced celery
-- :ear_of_rice: 0.5 oz flour
-- :cucumber: 0.5 cup okra
-- :carrot: 8 cups vegetable stock
-- :stew: 0.5 Tbsp gumbo filé
-- :tomato: 0.5 cup diced tomatoes
+- :butter: 0.5 oz (14 g) unsalted butter
+- :tea: 0.25 cup (36 g) diced onion
+- :tea: 0.25 cup (36 g) diced celery
+- :bread: 0.5 oz (6 g) flour
+- :tangerine: 0.5 cup okra
+- :stew: 8 cups (1584 g) vegetable stock
+- 0.5 Tbsp gumbo filé
+- :tomato: 0.5 cup (71 g) diced tomatoes
 - :hot_pepper: 0.5 Tbsp cayenne (or less)
-- :salt: 0.5 tsp white pepper
-- :rice: 1.5 cups cooked rice
+- :salt: 0.5 tsp (1 g) white pepper
+- :ear_of_rice: 1.5 cups (255 g) cooked rice
 - :salt: some salt
 - :salt: some pepper
 

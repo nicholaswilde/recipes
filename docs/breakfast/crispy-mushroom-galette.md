@@ -18,20 +18,20 @@ hero: assets/images/crispy-mushroom-galette.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :leafy_green: 2 large leeks
-- :baby_bottle: 1 Tbsp grainy [Dijon mustard][3]
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 2 large leeks
+- 1 Tbsp grainy [Dijon mustard][3]
 - :salt: some salt
 - :salt: some pepper
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :mushroom: 1 lb shiitake, cremini, oyster, and/or maitake mushrooms
 - :garlic: 5 cloves garlic
 - :herb: 2 sprigs rosemary
-- :bread: 1 [flaky olive oil dough][2]
+- :olive: 1 [flaky olive oil dough][2]
 - :bread: some flour
 - :olive: some olive oil
-- :bread: 2 Tbsp panko bread crumbs
-- :cheese_wedge: 2 tsp nutritional yeast
+- :bread: 2 Tbsp (25 g) panko bread crumbs
+- :cheese_wedge: 2 tsp (2 g) nutritional yeast
 
 ## :cooking: Cookware
 

@@ -15,14 +15,14 @@ hero: assets/images/meatless-umami-shepherd's-pie.png
 
 ## :salt: Ingredients
 
-- :butter: 3 Tbsp unsalted butter
-- :carrot: 1 container TJ's mirepoix
-- :cut_of_meat: 1 pkg TJ's beefless beef
-- :mushroom: 1 bag mushroom medley
-- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- :bread: 2 Tbsp all-purpose flour
-- :stew: 2 cups (455 g) [vegetable broth][2]
-- :salt: 3 Tbsp TJ's Mushroom and Company Multipurpose umami seasoning
+- :butter: 3 Tbsp (42 g) unsalted butter
+- 1 container TJ's mirepoix
+- :apple: 1 pkg TJ's beefless beef
+- :droplet: 1 bag mushroom medley
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :bread: 2 Tbsp (15 g) all-purpose flour
+- 2 cups [vegetable broth][2]
+- :droplet: 3 Tbsp (21 g) TJ's Mushroom and Company Multipurpose umami seasoning
 - :beans: 1 cup (150 g) peas
 - :sweet_potato: 1 pkg TJ's prepared mashed potatoes
 

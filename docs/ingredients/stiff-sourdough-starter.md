@@ -19,19 +19,19 @@ hero: assets/images/stiff-sourdough-starter.webp
 
 === "Flour Mixture"
 
-    - :ear_of_rice: 150 g whole wheat
-    - :ear_of_rice: 180 g all-purpose flour
+    - :bread: 150 g whole wheat
+    - :bread: 180 g all-purpose flour
 
 === "Conversion"
 
-    - :microbe: 10 g [sourdough starter][2]
-    - :ear_of_rice: 50 g flour mixture
+    - 10 g [sourdough starter][2]
+    - :chestnut: 50 g flour mixture
     - :droplet: 25 g water
 
 === "Maintenance"
 
-    - :microbe: 10 g [sourdough starter][2]
-    - :ear_of_rice: 20 g flour mixture
+    - 10 g [sourdough starter][2]
+    - :chestnut: 20 g flour mixture
     - :droplet: 10 g water
 
 ## :pencil: Instructions - Flour Mixture

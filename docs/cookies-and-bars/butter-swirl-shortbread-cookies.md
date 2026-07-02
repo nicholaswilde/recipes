@@ -19,10 +19,10 @@ hero: assets/images/butter-swirl-shortbread-cookies.webp
 
 - :butter: 1 cup (226 g) unsalted butter
 - :candy: 114 g confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 240 g all-purpose flour
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 240 g all-purpose flour
 - :salt: 0.5 tsp salt
-- :glass_of_milk: 1 Tbsp whole milk
+- :glass_of_milk: 1 Tbsp (14 g) whole milk
 
 ## :cooking: Cookware
 

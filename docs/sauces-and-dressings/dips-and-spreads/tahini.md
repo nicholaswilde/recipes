@@ -18,8 +18,8 @@ hero: assets/images/tahini.webp
 
 ## :salt: Ingredients
 
-- :seedling: 1 cup sesame seeds
-- :carrot: 3 Tbsp vegetable oil
+- :seedling: 1 cup (142 g) sesame seeds
+- :olive: 3 Tbsp (37 g) vegetable oil
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

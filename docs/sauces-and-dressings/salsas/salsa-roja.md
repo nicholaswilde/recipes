@@ -18,7 +18,7 @@ hero: assets/images/salsa-roja.webp
 ## :salt: Ingredients
 
 - :tomato: 10 Roma or plum tomatoes
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
 - :hot_pepper: 4 dried guajillo chiles
 - :salt: 1 pinch salt

@@ -18,7 +18,7 @@ hero: assets/images/caprese-sandwich.webp
 
 ## :salt: Ingredients
 
-- :herb: some [basil pesto][1]
+- some [basil pesto][1]
 - :bread: some ciabatta
 - :tomato: some tomato
 - :cheese_wedge: some mozzarella

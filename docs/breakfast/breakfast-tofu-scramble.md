@@ -16,14 +16,14 @@ hero: assets/images/breakfast-tofu-scramble.webp
 
 ## :salt: Ingredients
 
-- :onion: 120 g onion
+- :tea: 120 g onion
 - :garlic: 1 clove garlic
-- :bell_pepper: 120 g green pepper
-- :bell_pepper: 120 g red pepper
+- :hot_pepper: 120 g green pepper
+- :hot_pepper: 120 g red pepper
 - :mushroom: 180 g mushrooms
-- :custard: 16 oz extra-firm tofu
-- :curry: 0.25 tsp turmeric
-- :herb: 1 tsp cumin
+- :cheese_wedge: 16 oz extra-firm tofu
+- :curry: 0.25 tsp (1 g) turmeric
+- :chestnut: 1 tsp (3 g) cumin
 - :salt: some pepper
 - :salt: some salt
 

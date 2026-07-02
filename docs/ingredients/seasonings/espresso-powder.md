@@ -17,7 +17,7 @@ hero: assets/images/espresso-powder.webp
 
 ## :salt: Ingredients
 
-- :coffee: 1 cup (85 g) espresso beans
+- :coffee: 1 cup espresso beans
 
 ## :cooking: Cookware
 

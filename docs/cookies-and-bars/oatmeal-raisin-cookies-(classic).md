@@ -18,18 +18,18 @@ hero: assets/images/oatmeal-raisin-cookies-(classic).webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3.75 cups (450 g) all-purpose flour
-- :dash: 1 Tbsp baking powder
-- :custard: 1.5 tsp ground cinnamon
+- :bread: 3.75 cups (450 g) all-purpose flour
+- :chestnut: 1 Tbsp baking powder
+- :chestnut: 1.5 tsp (4 g) ground cinnamon
 - :salt: 1 tsp salt
-- :cup_with_straw: 1 tsp baking soda
-- :carrot: 34 Tbsp (391 g) vegetable shortening
-- :maple_leaf: 1.75 (373 g) brown sugar
+- :chestnut: 1 tsp baking soda
+- :butter: 34 Tbsp (391 g) vegetable shortening
+- :candy: 1.75 brown sugar
 - :candy: 1.5 cups (297 g) granulated sugar
 - :egg: 3 eggs
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 4 cups (396 g) oats
-- :grapes: 2.5 cups (373 g) raisins
+- :flower_playing_cards: 1 tsp vanilla
+- :ear_of_rice: 4 cups (560 g) oats
+- :grapes: 2.5 cups (372 g) raisins
 
 ## :cooking: Cookware
 

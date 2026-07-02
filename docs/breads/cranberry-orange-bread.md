@@ -20,26 +20,26 @@ hero: assets/images/cranberry-orange-bread.webp
 
 === "Cake"
 
-    - :ear_of_rice: 2 cup (240 g) whole wheat pastry flour
+    - :bread: 2 cup (192 g) whole wheat pastry flour
     - :candy: 1 cup (198 g) granulated sugar
-    - :dash: 1 tsp baking powder
-    - :cup_with_straw: 0.25 tsp baking soda
+    - :chestnut: 1 tsp baking powder
+    - :chestnut: 0.25 tsp baking soda
     - :salt: 1 tsp salt
-    - :butter: 6 Tbsp (85 g) melted butter
+    - :glass_of_milk: 6 Tbsp (102 g) melted butter
     - :egg: 1 egg
-    - :glass_of_milk: 0.67 cup (151 g) [buttermilk][1]
+    - 0.67 cup [buttermilk][1]
     - :tangerine: 1 large orange zest
-    - :icecream: 0.75 tsp vanilla
-    - :tangerine: 0.33 cup (76 g) orange juice
-    - :cherries: 1 cup (114 g) dried cranberries
-    - :chestnut: 0.5 cup almonds (optional)
+    - :flower_playing_cards: 0.75 tsp vanilla
+    - :tangerine: 0.33 cup (74 g) orange juice
+    - :apple: 1 cup (114 g) dried cranberries
+    - :chestnut: 0.5 cup (57 g) almonds (optional)
 
 === "Glaze"
 
     - :butter: 2 Tbsp (28 g) unsalted butter
-    - :candy: 0.5 cup (57 g) confectioners' sugar
-    - :tangerine: 2 Tbsp orange juice
-    - :icecream: 0.5 tsp vanilla
+    - :candy: 0.5 cup (56 g) confectioners' sugar
+    - :tangerine: 2 Tbsp (28 g) orange juice
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

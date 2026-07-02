@@ -16,13 +16,13 @@ hero: assets/images/funeral-potatoes.webp
 
 ## :salt: Ingredients
 
-- :potato: 12 Russet potatoes
-- :canned_food: 2 10-oz cans cream of chicken soup
-- :rice: 2 cups sour cream
-- :cheese_wedge: 1 cup cheddar cheese
-- :butter: 0.5 cup unsalted butter
-- :onion: 0.5 cup onions
-- :bowl_with_spoon: 2 cups corn flakes or Ritz crackers
+- :sweet_potato: 12 Russet potatoes
+- :cheese_wedge: 2 10-oz cans cream of chicken soup
+- :glass_of_milk: 2 cups (454 g) sour cream
+- :cheese_wedge: 1 cup (114 g) cheddar cheese
+- :butter: 0.5 cup (113 g) unsalted butter
+- :tea: 0.5 cup (71 g) onions
+- :hot_pepper: 2 cups (284 g) corn flakes or Ritz crackers
 - :butter: 2 Tbsp butter
 
 ## :cooking: Cookware

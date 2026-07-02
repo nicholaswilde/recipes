@@ -23,30 +23,30 @@ hero: assets/images/pumpkin-coffee-cake.webp
     - :candy: 100 g granulated sugar
     - :maple_leaf: 50 g brown sugar
     - :egg: 2 large eggs
-    - :jack_o_lantern: 240 g [pumpkin puree][2]
-    - :rice: 2 Tbsp sour cream
-    - :icecream: 1.5 tsp vanilla
-    - :ear_of_rice: 156 g all-purpose flour
-    - :nutmeg: 2 tsp [pumpkin pie spice][3]
-    - :custard: 0.5 tsp cinnamon
-    - :dash: 0.75 tsp baking powder
-    - :cup_with_straw: 0.75 tsp baking soda
+    - 240 g [pumpkin puree][2]
+    - :glass_of_milk: 2 Tbsp (28 g) sour cream
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :bread: 156 g all-purpose flour
+    - :green_apple: 2 tsp (8 g) [pumpkin pie spice][3]
+    - :chestnut: 0.5 tsp (2 g) cinnamon
+    - :chestnut: 0.75 tsp baking powder
+    - :chestnut: 0.75 tsp baking soda
     - :salt: 0.5 tsp salt
 
 === "Streusel"
 
-    - :ear_of_rice: 125 g all-purpose flour
+    - :bread: 125 g all-purpose flour
     - :maple_leaf: 150 g brown sugar
-    - :candy: 2 Tbsp granulated sugar
+    - :candy: 2 Tbsp (25 g) granulated sugar
     - :salt: 0.5 tsp salt
-    - :custard: 1.5 tsp cinnamon
-    - :butter: 6 Tbsp unsalted butter
+    - :chestnut: 1.5 tsp (6 g) cinnamon
+    - :butter: 6 Tbsp (85 g) unsalted butter
 
 === "Glaze"
 
     - :candy: 63 g confectioners' sugar
-    - :glass_of_milk: 3 Tsp milk
-    - :icecream: 0.25 tsp vanilla
+    - :glass_of_milk: 3 Tsp (14 g) milk
+    - :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

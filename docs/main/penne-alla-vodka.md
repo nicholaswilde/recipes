@@ -16,22 +16,22 @@ hero: assets/images/penne-alla-vodka.webp
 
 ## :salt: Ingredients
 
-- :olive: 0.25 cup olive oil
-- :onion: 2 onions
+- :olive: 0.25 cup (50 g) olive oil
+- :tea: 2 onions
 - :garlic: 3 cloves garlic
 - :herb: 1.5 tsp oregano
-- :hot_pepper: 0.5 tsp red pepper flakes
-- :sake: 1 cup vodka
-- :tomato: 2 28-oz cans whole tomato
+- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
+- :tangerine: 1 cup vodka
+- :glass_of_milk: 2 28-oz cans whole tomato
 - :salt: 2 tsp salt
 - :salt: some pepper
 - :salt: 2 Tbsp salt
 - :spaghetti: 0.75 lb penne pasta
-- :herb: 2 Tbsp fresh oregano
-- :icecream: 1 cup heavy cream
+- :herb: 2 Tbsp (5 g) fresh oregano
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
-- :cheese_wedge: 0.5 cup Parmesan
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
 
 ## :cooking: Cookware
 

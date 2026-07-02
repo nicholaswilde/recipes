@@ -19,14 +19,14 @@ hero: assets/images/oatmeal-chocolate-chip-cookies.webp
 ## :salt: Ingredients
 
 - :butter: 1 cup (226 g) unsalted butter
-- :maple_leaf: 1.25 cup (226 g) packed [brown sugar][1]
+- 1.25 cup packed [brown sugar][1]
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 2 eggs
-- :glass_of_milk: 2 Tbsp milk
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 1.75 cups (210 g) flour
-- :cup_with_straw: 1 tsp baking soda
-- :ear_of_rice: 2.5 cup (249 g) rolled oats
+- :glass_of_milk: 2 Tbsp (28 g) milk
+- :flower_playing_cards: 2 tsp vanilla
+- :bread: 1.75 cups (161 g) flour
+- :chestnut: 1 tsp baking soda
+- :ear_of_rice: 2.5 cup (282 g) rolled oats
 - :chocolate_bar: 2 cups (340 g) (340) chocolate chips
 
 ## :pencil: Instructions

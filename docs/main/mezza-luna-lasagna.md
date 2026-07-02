@@ -18,17 +18,17 @@ hero: assets/images/mezza-luna-lasagna.png
 
 ## :salt: Ingredients
 
-- :eggplant: 1 large squash
+- 1 large squash
 - :olive: some oil
 - :salt: some sea salt
 - :salt: some pepper
-- :glass_of_milk: 2 jars [Alfredo sauce][2]
-- :cheese_wedge: 15 oz [ricotta cheese][1]
+- 2 jars [Alfredo sauce][2]
+- 15 oz [ricotta cheese][1]
 - :leafy_green: 2 cups chopped spinach
-- :chestnut: 0.25 tsp nutmeg
-- :spaghetti: 12 sheets no boil lasagna noodles
-- :cheese_wedge: 1 cup Mozzarella cheese
-- :cheese_wedge: 0.5 cup Parmesan cheeses
+- :apple: 0.25 tsp nutmeg
+- :pizza: 12 sheets no boil lasagna noodles
+- :cheese_wedge: 1 cup (113 g) Mozzarella cheese
+- :cheese_wedge: 0.5 cup (50 g) Parmesan cheeses
 
 ## :cooking: Cookware
 

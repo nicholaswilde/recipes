@@ -18,16 +18,16 @@ hero: assets/images/vegan-strawberry-cake.webp
 
 ## :salt: Ingredients
 
-- :strawberry: 1 cup (160 g) fresh strawberries
-- :oil_drum: 0.25 cup (50 g) vegetable oil
-- :candy: 0.67 cup (133 g) sugar
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 1.5 cup (180 g) all-purpose flour
-- :dash: 2 tsp baking powder
+- :strawberry: 1 cup (167 g) fresh strawberries
+- :olive: 0.25 cup (50 g) vegetable oil
+- :candy: 0.67 cup (105 g) sugar
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 1.5 cup (180 g) all-purpose flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
 - :strawberry: some [vegan strawberry frosting][1]
-- :icecream: some [vanilla frosting][3]
-- :chocolate_bar: some [chocolate ganache][2]
+- some [vanilla frosting][3]
+- some [chocolate ganache][2]
 
 ## :cooking: Cookware
 

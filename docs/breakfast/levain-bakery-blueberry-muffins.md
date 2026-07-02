@@ -17,16 +17,16 @@ hero: assets/images/levain-bakery-blueberry-muffins.webp
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :chestnut: 0.5 cup (42 g) almond meal or flour
-- :dash: 2 tsp baking powder
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 0.5 cup (48 g) almond meal or flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :glass_of_milk: 0.5 cup whole milk
-- :icecream: 1 tsp vanilla
+- :glass_of_milk: 0.5 cup (114 g) whole milk
+- :flower_playing_cards: 1 tsp vanilla
 - :candy: 1 cup (198 g) granulated sugar
-- :butter: 0.5 cup (114 g) unsalted butter
+- :butter: 0.5 cup (113 g) unsalted butter
 - :egg: 2 large eggs
-- :blue_circle: 2.5 cups blueberries
+- :apple: 2.5 cups (390 g) blueberries
 
 ## :cooking: Cookware
 

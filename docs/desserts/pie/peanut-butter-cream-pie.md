@@ -18,16 +18,16 @@ hero: assets/images/peanut-butter-cream-pie.webp
 ## :salt: Ingredients
 
 - :candy: 1 cup (198 g) granulated sugar
-- :corn: 0.5 cup (58 g) cornstarch
+- :chestnut: 0.5 cup (56 g) cornstarch
 - :salt: 0.25 tsp salt
 - :glass_of_milk: 3 cups (681 g) whole milk
-- :egg: 3 egg yolks
-- :peanuts: 0.5 cup (68 g) [creamy peanut butter][4]
-- :icecream: 2 tsp vanilla
-- :pie: 1 [pie crust][3]
-- :icecream: some whipped topping or homemade [whipped cream][1] (optional)
-- :peanuts: some peanuts (optional)
-- :chocolate_bar: some [hot fudge sauce][5] or chocolate syrup (optional)
+- :baby_bottle: 3 egg yolks
+- :peanut: 0.5 cup (135 g) [creamy peanut butter][4]
+- :flower_playing_cards: 2 tsp vanilla
+- 1 [pie crust][3]
+- :baby_bottle: some whipped topping or homemade [whipped cream][1] (optional)
+- :leafy_green: some peanuts (optional)
+- :apple: some [hot fudge sauce][5] or chocolate syrup (optional)
 
 ## :cooking: Cookware
 

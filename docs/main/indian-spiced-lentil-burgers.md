@@ -15,20 +15,20 @@ hero: assets/images/indian-spiced-lentil-burgers.webp
 
 ## :salt: Ingredients
 
-- :beans: 1 cup (210 g) brown or green lentils
-- :beans: 1 15-oz can chickpeas
-- :onion: 2 scallions
-- :herb: 0.33 cup (15 g) cilantro or flat-leaf parsley
+- :candy: 1 cup (170 g) brown or green lentils
+- :baby_bottle: 1 15-oz can chickpeas
+- :tea: 2 scallions
+- :apple: 0.33 cup (14 g) cilantro or flat-leaf parsley
 - :tangerine: 1 lemon
 - :curry: 2 tsp garam masala
-- :chestnut: 0.5 tsp cumin
+- :chestnut: 0.5 tsp (2 g) cumin
 - :salt: 0.75 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 - :hot_pepper: 1 pinch cayenne pepper
-- :olive: 3 Tbsp olive oil
-- :leafy_green: some shredded romaine and carrots
+- :olive: 3 Tbsp (38 g) olive oil
+- :coconut: some shredded romaine and carrots
 - :cucumber: 1 cucumber
-- :hot_pepper: some hot sauce
+- :droplet: some hot sauce
 
 ## :cooking: Cookware
 

@@ -15,17 +15,17 @@ hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.webp
 
 ## :salt: Ingredients
 
-- :beans: 1.5 cups (270 g) dried black-eyed peas
+- :beans: 1.5 cups (262 g) dried black-eyed peas
 - :garlic: 2 cloves garlic, minced
-- :onion: 1 cup (140 g) red onion, diced
-- :hot_pepper: 0.5 cup (70 g) red bell pepper (diced)
-- :hot_pepper: 0.5 cup (70 g) green bell pepper (diced)
-- :hot_pepper: 2 tsp Tabasco
+- :tea: 1 cup (142 g) red onion, diced
+- :hot_pepper: 0.5 cup (64 g) red bell pepper (diced)
+- :hot_pepper: 0.5 cup (85 g) green bell pepper (diced)
+- 2 tsp Tabasco
 - :salt: 1 tsp salt
-- :salt: 1 tsp liquid smoke
-- :baby_bottle: 1 tsp yellow mustard
+- 1 tsp liquid smoke
+- :seedling: 1 tsp (3 g) yellow mustard
 - :herb: 1 bay leaf
-- :stew: 5 cups (1.15 kg) [vegetable broth][2]
+- 5 cups (1.15 kg) [vegetable broth][2]
 
 ## :cooking: Cookware
 

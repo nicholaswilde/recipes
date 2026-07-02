@@ -18,14 +18,14 @@ hero: assets/images/chocolate-mousse.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 142 g semisweet chocolate
+- :bread: 142 g semisweet chocolate
 - :glass_of_milk: 568 g heavy cream
-- :egg: 5 egg yolks
+- :baby_bottle: 5 egg yolks
 - :candy: 0.25 cup (28 g) confectioners' sugar
-- :tumbler_glass: 57 g Kahlua
-- :tumbler_glass: 57 g Grand Marnier or orange liquor
-- :lemon: 1 orange zest
-- :egg: 5 egg whites
+- 57 g Kahlua
+- :tangerine: 57 g Grand Marnier or orange liquor
+- :tangerine: 1 orange zest
+- :beans: 5 egg whites
 - :candy: 0.25 cup (28 g) confectioners' sugar
 
 ## :cooking: Cookware

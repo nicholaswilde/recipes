@@ -18,8 +18,8 @@ hero: assets/images/tomate.webp
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 small onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 small onion
 - :carrot: 1 small carrot
 - :leafy_green: 1 celery rib with leaves
 - :herb: 2 Tbsp parsley
@@ -29,7 +29,7 @@ hero: assets/images/tomate.webp
 - :herb: 1 Tbsp sage
 - :herb: 1 Tbsp thyme
 - :tomato: 1 28-oz can whole tomatoes with juice
-- :tomato: 2 tsp [Tomato Paste](../../ingredients/tomato-paste.md)
+- 2 tsp [Tomato Paste](../../ingredients/tomato-paste.md)
 - :salt: 0.75 tsp salt
 - :salt: 0.25 tsp pepper
 

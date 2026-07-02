@@ -16,15 +16,15 @@ tags:
 
 - :bread: 1.25 cups (150 g) all-purpose flour
 - :stew: 0.25 cup (46 g) cold vegetable shortening
-- :butter: 4 Tbsp (56 g) cold unsalted butter
+- :glass_of_milk: 4 Tbsp (56 g) cold unsalted butter
 - :salt: 0.5 tsp fine sea salt
-- :droplet: 3 Tbsp (43 g) ice-cold water
+- :baby_bottle: 3 Tbsp (43 g) ice-cold water
 - :tomato: 2.25 lbs assorted heirloom tomatoes
 - :salt: 1.25 tsp kosher salt
 - :tea: 1 sweet onion
 - :salt: 1.25 tsp (2 g) freshly ground pepper
 - :droplet: 1 Tbsp (14 g) canola oil
-- :herb: 0.5 cup (70 g) assorted chopped fresh herbs
+- :apple: 0.5 cup (70 g) assorted chopped fresh herbs
 - :cheese_wedge: 0.5 cup (50 g) freshly grated Gruyère cheese
 - :cheese_wedge: 0.5 cup (56 g) freshly grated Parmigiano-Reggiano cheese
 - :baby_bottle: 0.25 cup (56 g) mayonnaise

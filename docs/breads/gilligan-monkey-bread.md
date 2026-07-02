@@ -18,16 +18,16 @@ hero: assets/images/gilligan-monkey-bread.png
 
 === "Bread"
 
-    - :bread: 2 Bridgeford loaves
+    - 2 Bridgeford loaves
     - :butter: 114 g butter
-    - :candy: 198 g [cinnamon and sugar][2]
-    - :chestnut: 198 g Pecans or walnuts (optional)
+    - 198 g [cinnamon and sugar][2]
+    - :apple: 198 g Pecans or walnuts (optional)
 
 === "Glaze"
 
     - :candy: 114 g confectioners' sugar (optional)
-    - :milk: 2 Tbsp milk (optional)
-    - :icecream: 1 tsp vanilla (optional)
+    - :glass_of_milk: 2 Tbsp (28 g) milk (optional)
+    - :baby_bottle: 1 tsp vanilla (optional)
 
 ## :cooking: Cookware
 

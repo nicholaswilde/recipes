@@ -20,20 +20,20 @@ hero: assets/images/hummus-michael-solomonov.webp
 
 ## :salt: Ingredients
 
-- :beans: 1 cup (175 g) dried chickpeas
-- :chestnut: 1 tsp (6 g) baking soda
-- :chestnut: 1 tsp (6 g) baking soda
+- :beans: 1 cup (142 g) dried chickpeas
+- :chestnut: 1 tsp baking soda
+- :chestnut: 1 tsp baking soda
 - :garlic: 1 head garlic
-- :tangerine: 0.75 cup (170 g) lemon juice
+- :tangerine: 0.75 cup (168 g) lemon juice
 - :salt: 0.5 tsp (2.5 g) kosher salt
 - :seedling: 2 cups (512 g) tahini
-- :chestnut: 0.5 tsp (1.5 g) ground cumin
-- :salt: 1 tsp (5 g) kosher salt
-- :droplet: 1.25 cups (284 g) ice water
-- :seedling: some Tahini Sauce (from above)
+- :chestnut: 0.5 tsp (2 g) (1.5 g) ground cumin
+- :salt: 1 tsp kosher salt
+- :baby_bottle: 1.25 cups (284 g) ice water
+- :apple: some Tahini Sauce (from above)
 - :salt: some kosher salt
-- :chestnut: 0.25 tsp (0.75 g) ground cumin
-- :hot_pepper: some paprika
+- :chestnut: 0.25 tsp (1 g) (0.75 g) ground cumin
+- :candy: some paprika
 - :herb: some fresh parsley
 - :olive: some extra-virgin olive oil
 

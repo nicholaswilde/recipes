@@ -21,28 +21,28 @@ hero: assets/images/tres-leches-cake-with-berries.png
 
 === "Cake"
 
-    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-    - :dash: 2 tsp baking powder
+    - :bread: 1.5 cups (180 g) all-purpose flour
+    - :chestnut: 2 tsp baking powder
     - :salt: 0.75 tsp kosher salt
     - :egg: 3 large eggs
     - :candy: 1 cup (198 g) granulated sugar
-    - :icecream: 2 tsp vanilla
-    - :glass_of_milk: 0.5 cup whole milk
-    - :icecream: 1.25 cups heavy cream
+    - :flower_playing_cards: 2 tsp vanilla
+    - :glass_of_milk: 0.5 cup (114 g) whole milk
+    - :glass_of_milk: 1.25 cups (284 g) heavy cream
     - :glass_of_milk: 1 12-oz can [evaporated milk][2]
     - :glass_of_milk: 1 14-oz can [sweetened condensed milk][3]
-    - :chestnut: 0.5 tsp almond extract
-    - :icecream: 1 vanilla bean
-    - :candy: 5 Tbsp granulated sugar
+    - :flower_playing_cards: 0.5 tsp (3 g) almond extract
+    - :hamburger: 1 vanilla bean
+    - :candy: 5 Tbsp (62 g) granulated sugar
     - :candy: some confectioners' sugar
 
 === "Whipped Cream"
 
-    - :icecream: 1.5 cups cold heavy cream
-    - :candy: 0.25 cup (50 g) confectioners' sugar
-    - :candy: 2 Tbsp granulated sugar
-    - :rice: 2 Tbsp creme fraîche
-    - :icecream: 1 tsp vanilla
+    - :glass_of_milk: 1.5 cups (340 g) cold heavy cream
+    - :candy: 0.25 cup (28 g) confectioners' sugar
+    - :candy: 2 Tbsp (25 g) granulated sugar
+    - :glass_of_milk: 2 Tbsp creme fraîche
+    - :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

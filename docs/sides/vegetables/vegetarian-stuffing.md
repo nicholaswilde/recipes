@@ -18,13 +18,13 @@ hero: assets/images/vegetarian-stuffing.webp
 
 ## :salt: Ingredients
 
-- :stuffed_flatbread: 1 Mrs. Cubbison's stuffing
+- 1 Mrs. Cubbison's stuffing
 - :leafy_green: some celery
-- :chestnut: some water chestnut
-- :stew: some [vegetable broth][1]
-- :onion: some onion
+- :baby_bottle: some water chestnut
+- some [vegetable broth][1]
+- :tea: some onion
 - :butter: some butter
-- :poultry_leg: some poultry seasoning
+- :herb: some poultry seasoning
 
 ## :pencil: Instructions
 

@@ -15,10 +15,10 @@ hero: assets/images/eggnog-cake.webp
 
 ## :salt: Ingredients
 
-- :candy: 1 pkg yellow cake mix
+- :corn: 1 pkg yellow cake mix
 - :tumbler_glass: 2 Tbsp rum
-- :glass_of_milk: 1 cup eggnog
-- :olive: 0.25 cup vegetable oil
+- 1 cup eggnog
+- :olive: 0.25 cup (50 g) vegetable oil
 - :glass_of_milk: 1 can whipped cream
 
 ## :cooking: Cookware

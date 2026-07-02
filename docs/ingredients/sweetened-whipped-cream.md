@@ -18,11 +18,11 @@ hero: assets/images/sweetened-whipped-cream.webp
 
 ## :salt: Ingredients
 
-- :icecream: 1 cup cold heavy cream
-- :candy: 2 Tbsp sugar (optional)
-- :candy: 4 Tbsp confectioners' sugar (optional)
-- :honey_pot: 2 tbsp honey (optional)
-- :icecream: 0.5 tsp vanilla (optional)
+- :glass_of_milk: 1 cup (227 g) cold heavy cream
+- :candy: 2 Tbsp (12 g) sugar (optional)
+- :candy: 4 Tbsp (28 g) confectioners' sugar (optional)
+- :leafy_green: 2 tbsp honey (optional)
+- :baby_bottle: 0.5 tsp vanilla (optional)
 
 ## :cooking: Cookware
 

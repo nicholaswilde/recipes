@@ -17,7 +17,7 @@ hero: assets/images/chickpea-flour.webp
 
 ## :salt: Ingredients
 
-- :falafel: 200 g dried chickpeas
+- :beans: 200 g dried chickpeas
 
 ## :cooking: Cookware
 

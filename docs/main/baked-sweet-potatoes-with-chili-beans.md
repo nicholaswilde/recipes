@@ -17,21 +17,21 @@ hero: assets/images/baked-sweet-potatoes-with-chili-beans.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 4 small sweet potatoes
-- :canned_food: 0.5 lb pinto beans
-- :onion: 1 yellow onion
-- :olive: 2 tsp olive oil
+- :corn: 4 small sweet potatoes
+- :apple: 0.5 lb pinto beans
+- :tea: 1 yellow onion
+- :olive: 2 tsp (8 g) olive oil
 - :garlic: 2 cloves garlic
-- :hot_pepper: 1 Tbsp chili powder
-- :rice: 1 tsp cumin
-- :bell_pepper: 0.5 tsp paprika
+- :hot_pepper: 1 Tbsp (7 g) chili powder
+- :chestnut: 1 tsp (3 g) cumin
+- :candy: 0.5 tsp paprika
 - :salt: 1 tsp smoked salt
 - :tomato: 1 jar San Marzano tomatoes
 - :avocado: 1 avocado
-- :rice: some sour cream
-- :seedling: some cilantro
+- :glass_of_milk: some sour cream
+- :herb: some cilantro
 - :cheese_wedge: some shredded cheese
-- :onion: 1 red onion
+- :tea: 1 red onion
 
 ## :cooking: Cookware
 

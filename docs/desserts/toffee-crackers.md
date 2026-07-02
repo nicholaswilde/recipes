@@ -18,10 +18,10 @@ hero: assets/images/toffee-crackers.webp
 
 - :glass_of_milk: 1 can [sweetened condensed milk][1]
 - :maple_leaf: 1 cup (213 g) brown sugar
-- :butter: 0.5 cup (114 g) unsalted butter
-- :glass_of_milk: 0.25 cup milk
-- :cookie: 1 box (90 crackers) Club crackers
-- :chocolate_bar: 1 bag semi-sweet chocolate chips
+- :butter: 0.5 cup (113 g) unsalted butter
+- :glass_of_milk: 0.25 cup (57 g) milk
+- 1 box (90 crackers) Club crackers
+- :chestnut: 1 bag semi-sweet chocolate chips
 
 ## :cooking: Cookware
 

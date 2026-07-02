@@ -18,7 +18,7 @@ hero: assets/images/orange-extract.webp
 ## :salt: Ingredients
 
 - :tangerine: 1 large navel orange
-- :sake: 2 oz vodka
+- :tangerine: 2 oz vodka
 
 ## :cooking: Cookware
 

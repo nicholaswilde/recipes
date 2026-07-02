@@ -17,17 +17,17 @@ hero: assets/images/hasselback-roasted-zucchini.webp
 
 ## :salt: Ingredients
 
-- :cucumber: 4 medium zucchini
+- 4 medium zucchini
 - :herb: 2 cup basil
 - :olive: 2 tsp capers
-- :tangerine: 1 tsp lemon zest
+- :tangerine: 1 tsp (5 g) lemon zest
 - :garlic: 3 clove garlic
 - :salt: some sea salt
-- :salt: 0.25 tsp black pepper
-- :ear_of_rice: 1.5 cup whole wheat couscous
-- :cheese_wedge: 0.25 cup nutritional yeast
-- :takeout_box: 2 Tbsp [Tahini][1]
-- :tangerine: 3 Tbsp lemon juice
+- :salt: 0.25 tsp (1 g) black pepper
+- :bread: 1.5 cup (170 g) whole wheat couscous
+- :cheese_wedge: 0.25 cup (15 g) nutritional yeast
+- 2 Tbsp [Tahini][1]
+- :tangerine: 3 Tbsp (42 g) lemon juice
 
 ## :cooking: Cookware
 

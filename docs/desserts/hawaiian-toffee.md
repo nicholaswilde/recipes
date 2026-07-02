@@ -15,14 +15,14 @@ hero: assets/images/hawaiian-toffee.webp
 
 ## :salt: Ingredients
 
-- :chestnut: 0.75 cup macadamia nuts
-- :butter: 1 cup (227 g) butter
-- :candy: 1 cup (198 g) sugar
-- :droplet: 2 Tbsp water
+- :chestnut: 0.75 cup (112 g) macadamia nuts
+- :butter: 1 cup butter
+- :candy: 1 cup (156 g) sugar
+- :droplet: 2 Tbsp (28 g) water
 - :salt: 0.25 tsp salt
-- :icecream: 1 tsp vanilla
-- :chocolate_bar: 4 oz milk chocolate chips
-- :coconut: 1 cup toasted coconut
+- :flower_playing_cards: 1 tsp vanilla
+- :chocolate_bar: 4 oz (88 g) milk chocolate chips
+- :coconut: 1 cup (85 g) toasted coconut
 
 ## :cooking: Cookware
 

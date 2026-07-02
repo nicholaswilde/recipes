@@ -21,7 +21,7 @@ hero: assets/images/lemon-pudding-cake.webp
 - :egg: 3 large egg yolks
 - :candy: 1 cup (198 g) granulated sugar, divided
 - :glass_of_milk: 1 cup (227 g) whole milk
-- :tangerine: 0.5 cups (114 g) fresh lemon juice (from about 2 to 3 lemons)
+- :tomato: 0.5 cups fresh lemon juice (from about 2 to 3 lemons)
 - :tangerine: 1 Tbsp (6 g) finely grated lemon zest
 - :butter: 2 Tbsp (28 g) unsalted butter
 - :flower_playing_cards: 1 tsp vanilla extract

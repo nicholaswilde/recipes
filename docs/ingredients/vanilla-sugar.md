@@ -18,7 +18,7 @@ hero: assets/images/vanilla-sugar.webp
 ## :salt: Ingredients
 
 - :candy: 2 cups (396 g) granulated sugar
-- :icecream: 1 vanilla bean pod
+- :hamburger: 1 vanilla bean pod
 
 ## :cooking: Cookware
 

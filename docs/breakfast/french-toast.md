@@ -16,15 +16,15 @@ hero: assets/images/french-toast.webp
 
 ## :salt: Ingredients
 
-- :custard: 1 tsp cinnamon
-- :chestnut: 0.25 tsp nutmeg
-- :candy: 2 Tbsp sugar
+- :chestnut: 1 tsp (4 g) cinnamon
+- :apple: 0.25 tsp nutmeg
+- :candy: 2 Tbsp (20 g) sugar
 - :butter: 4 Tbsp butter
 - :egg: 4 eggs
-- :glass_of_milk: 0.25 cup milk
-- :icecream: 0.5 tsp vanilla
-- :bread: 8 slices brioche
-- :maple_leaf: 0.5 cup syrup
+- :glass_of_milk: 0.25 cup (57 g) milk
+- :flower_playing_cards: 0.5 tsp vanilla
+- :pie: 8 slices brioche
+- :candy: 0.5 cup (156 g) syrup
 
 ## :cooking: Cookware
 

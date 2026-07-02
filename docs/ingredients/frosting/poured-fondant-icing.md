@@ -17,8 +17,8 @@ hero: assets/images/poured-fondant-icing.webp
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 cup (142 g) white chocolate chips
-- :candy: 4 cups (454 g) confectioners' sugar
+- :chocolate_bar: 1 cup (170 g) white chocolate chips
+- :candy: 4 cups (452 g) confectioners' sugar
 - :candy: 0.25 cup (78 g) light corn syrup
 - :droplet: 0.25 cup (57 g) hot water
 - :flower_playing_cards: 1 tsp vanilla extract

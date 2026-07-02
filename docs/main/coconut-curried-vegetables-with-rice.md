@@ -13,15 +13,15 @@ hero: assets/images/coconut-curried-vegetables-with-rice.webp
 
 ## :salt: Ingredients
 
-- :rice: 3 cups rice
-- :ear_of_rice: 2 Tbsp flour
-- :curry: 1.5 tsp curry powder
+- :ear_of_rice: 3 cups (84 g) rice
+- :bread: 2 Tbsp (12 g) flour
+- :curry: 1.5 tsp (5 g) curry powder
 - :salt: 0.5 tsp salt
 - :salt: 0.13 tsp pepper
 - :coconut: 1 14-oz can coconut milk
-- :lemon: 1 tsp lime juice
+- :tangerine: 1 tsp (5 g) lime juice
 - :carrot: 1 lbs frozen vegetables
-- :green_circle: 1 cup frozen peas
+- :beans: 1 cup (150 g) frozen peas
 
 ## :cooking: Cookware
 

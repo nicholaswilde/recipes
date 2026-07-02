@@ -17,9 +17,9 @@ hero: assets/images/kettle-corn.png
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.25 cup (50 g) vegetable oil
+- :olive: 0.25 cup (50 g) vegetable oil
 - :corn: 0.25 cup kernels
-- :candy: 2 Tbsp sugar
+- :candy: 2 Tbsp (20 g) sugar
 - :salt: 0.5 tsp salt
 
 !!! note

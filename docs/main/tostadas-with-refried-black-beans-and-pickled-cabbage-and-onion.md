@@ -18,12 +18,12 @@ hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-on
 
 === "Refried Black Beans"
 
-    - :onion: 0.5 medium yellow onion
-    - :olive: 2 Tbsp olive oil
+    - :seedling: 0.5 medium yellow onion
+    - :olive: 2 Tbsp (25 g) olive oil
     - :salt: 0.25 tsp salt
-    - :herb: 1 tsp cumin
-    - :canned_food: 1 15.5-oz can [black beans][2]
-    - :droplet: 1 cup water
+    - :chestnut: 1 tsp (3 g) cumin
+    - :glass_of_milk: 1 15.5-oz can [black beans][2]
+    - :droplet: 1 cup (227 g) water
     - :hot_pepper: 0.25 tsp chipotle powder
 
 === "Tostadas"
@@ -32,7 +32,7 @@ hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-on
     - :olive: some olive oil
     - :avocado: 1 avocado
     - :herb: some cilantro
-    - :stuffed_flatbread: some pickled cabbage and onion
+    - :beans: some pickled cabbage and onion
 
 ## :cooking: Cookware
 

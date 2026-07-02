@@ -17,19 +17,19 @@ hero: assets/images/nasi-goreng.webp
 
 ## :salt: Ingredients
 
-- :rice: 4 cups white steamed rice
+- :bread: 4 cups (568 g) white steamed rice
 - :egg: 2 scramble eggs
 - :bacon: 2 slices bacon
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 3 cloves garlic
-- :cut_of_meat: 1 cup pork tenderloin
-- :shrimp: 0.5 cup medium shrimp
+- 1 cup pork tenderloin
+- :sweet_potato: 0.5 cup (53 g) medium shrimp
 - :salt: 1 tsp salt
 - :garlic: 1 tsp garlic powder
-- :onion: 1 tsp onion powder
+- :chestnut: 1 tsp (2 g) onion powder
 - :salt: 0.5 tsp pepper
-- :sake: 3 Tbsp medium sweet Indonesian soy sauce
-- :herb: 3 stalks green onion
+- :apple: 3 Tbsp (45 g) medium sweet Indonesian soy sauce
+- :beans: 3 stalks green onion
 
 ## :pencil: Instructions
 

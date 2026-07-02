@@ -16,19 +16,19 @@ hero: assets/images/one-bowl-[buttermilk](../../ingredients/buttermilk.md)-birth
 
 ## :salt: Ingredients
 
-- :bread: 1.5 cups all-purpose flour
+- :bread: 1.5 cups (180 g) all-purpose flour
 - :salt: 0.25 tsp salt
 - :chestnut: 0.5 tsp baking soda
 - :chestnut: 1.5 tsp baking powder
-- :candy: 1 cup sugar
-- :olive: 0.5 cups neutral oil (such as grapeseed or avocado)
+- :candy: 1 cup (156 g) sugar
+- :olive: 0.5 cups (99 g) neutral oil (such as grapeseed or avocado)
 - :egg: 2 eggs
-- :baby_bottle: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
+- :icecream: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
 - :flower_playing_cards: 2 tsp vanilla extract
-- :cookie: 2 cake pans
-- :cheese_wedge: 8 oz cream cheese
-- :candy: 0.5 cups sugar
-- :glass_of_milk: 0.67 cups heavy cream
+- 2 cake pans
+- :cheese_wedge: 8 oz (227 g) cream cheese
+- :candy: 0.5 cups (78 g) sugar
+- :glass_of_milk: 0.67 cups (152 g) heavy cream
 - :salt: 1 pinch sea salt
 - :flower_playing_cards: 1 tsp vanilla
 

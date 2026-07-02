@@ -15,22 +15,22 @@ hero: assets/images/vegan-tourtiere.webp
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 2 Tbsp nutritional yeast
-- :butter: 1 Tbsp vegan butter
-- :takeout_box: 1 Tbsp [soy sauce][2]
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
+- :butter: 1 Tbsp (17 g) vegan butter
+- 1 Tbsp [soy sauce][2]
 - :cheese_wedge: 1 block (14 oz) extra-firm tofu
-- :butter: 1 Tbsp vegan butter
-- :onion: 1 small yellow onion
+- :butter: 1 Tbsp (17 g) vegan butter
+- :seedling: 1 small yellow onion
 - :garlic: 3 cloves garlic
-- :mushroom: 16 oz button mushrooms
-- :stew: 0.75 cup (170 g) [vegetable broth][3]
-- :chestnut: 3 Tbsp cornstarch
-- :bread: 0.5 cup (57 g) [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :mushroom: 16 oz (156 g) button mushrooms
+- 0.75 cup [vegetable broth][3]
+- :chestnut: 3 Tbsp (21 g) cornstarch
+- 0.5 cup [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :salt: 0.75 tsp salt
 - :hot_pepper: 0.5 tsp smoked paprika
-- :herb: 0.5 tsp dried thyme
-- :salt: 0.25 tsp black pepper
-- :herb: 0.25 tsp dried sage
+- :herb: 0.5 tsp (1 g) dried thyme
+- :salt: 0.25 tsp (1 g) black pepper
+- :herb: 0.25 tsp (1 g) dried sage
 - :chestnut: 0.13 tsp ground cloves
 - :bread: 1 pkg double [pie crust][4]
 - :baby_bottle: some aquafaba

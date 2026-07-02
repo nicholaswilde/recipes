@@ -16,13 +16,13 @@ hero: assets/images/spinach-dip.webp
 
 ## :salt: Ingredients
 
-- :rice: 2 cups sour cream
-- :egg: 1 cup [mayonnaise][1]
-- :leafy_green: 1 10-oz box frozen spinach
+- :glass_of_milk: 2 cups (454 g) sour cream
+- 1 cup [mayonnaise][1]
+- :glass_of_milk: 1 10-oz box frozen spinach
 - :stew: 1 pkg Knorr vegetable soup mix
-- :leafy_green: 0.5 cup green onion
+- :beans: 0.5 cup (48 g) green onion
 - :herb: 0.5 cup parsley
-- :chestnut: 1 tsp dill seed
+- :seedling: 1 tsp dill seed
 
 ## :pencil: Instructions
 

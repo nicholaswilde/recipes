@@ -18,8 +18,8 @@ hero: assets/images/new-york-times'-classic-marinara-sauce.webp
 
 ## :salt: Ingredients
 
-- :tomato: 1 28-oz can tomatoes
-- :olive: 0.25 cup olive oil
+- :glass_of_milk: 1 28-oz can tomatoes
+- :olive: 0.25 cup (50 g) olive oil
 - :garlic: 7 cloves garlic
 - :hot_pepper: 1 pinch whole chili or red pepper flakes (optional)
 - :herb: 0.25 tsp oregano

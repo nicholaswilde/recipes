@@ -16,18 +16,18 @@ hero: assets/images/healthy-carrot-cookies.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.75 cup (72 g) [almond flour][1]
+- 0.75 cup [almond flour][1]
 - :chestnut: 0.5 tsp baking soda
-- :custard: 1.5 tsp cinnamon
-- :chestnut: 0.13 tsp nutmeg
+- :chestnut: 1.5 tsp (6 g) cinnamon
+- :apple: 0.13 tsp nutmeg
 - :salt: 0.25 tsp salt
-- :honey_pot: 0.25 cup (85 g) maple syrup
-- :baby_bottle: 2 Tbsp (32 g) almond butter
-- :icecream: 1 tsp vanilla
-- :carrot: 1 cup (110 g) grated carrots
-- :ear_of_rice: 0.5 cup (45 g) rolled oats
-- :chestnut: 0.25 cup (30 g) chopped walnuts
-- :grapes: 0.25 cup (40 g) raisins
+- :honey_pot: 0.25 cup (78 g) maple syrup
+- :chestnut: 2 Tbsp (34 g) almond butter
+- :flower_playing_cards: 1 tsp vanilla
+- :carrot: 1 cup (99 g) grated carrots
+- :ear_of_rice: 0.5 cup (56 g) rolled oats
+- :chestnut: 0.25 cup (32 g) chopped walnuts
+- :grapes: 0.25 cup (37 g) raisins
 
 ## :cooking: Cookware
 

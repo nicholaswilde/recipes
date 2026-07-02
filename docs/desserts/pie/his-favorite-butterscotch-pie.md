@@ -19,35 +19,35 @@ hero: assets/images/his-favorite-butterscotch-pie.webp
 
 === "Crust"
 
-    - :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-    - :candy: 2 tsp granulated sugar
+    - :bread: 1.5 cups (180 g) all-purpose flour
+    - :candy: 2 tsp (8 g) granulated sugar
     - :salt: 0.5 tsp salt
-    - :butter: 0.5 cup (114 g) salted butter
-    - :ice_cube: 3 Tbsp ice water
+    - :butter: 0.5 cup (113 g) salted butter
+    - :baby_bottle: 3 Tbsp (43 g) ice water
 
 === "Caramel Sauce"
 
     - :candy: 1.5 cups (297 g) granulated sugar
     - :droplet: 0.5 cup (114 g) water
-    - :icecream: 1 cup heavy cream
-    - :tumbler_glass: 1 Tbsp rye whiskey
+    - :glass_of_milk: 1 cup (227 g) heavy cream
+    - 1 Tbsp (8 g) rye whiskey
     - :salt: 0.25 tsp salt
 
 === "Filling"
 
     - :egg: 3 large egg yolks
-    - :corn: 6 Tbsp cornstarch
-    - :glass_of_milk: 1.75 cups half-and-half
-    - :maple_leaf: 1.5 cups (320 g) light brown sugar
+    - :chestnut: 6 Tbsp (42 g) cornstarch
+    - :takeout_box: 1.75 cups (397 g) half-and-half
+    - :candy: 1.5 cups (320 g) light brown sugar
     - :salt: 0.75 tsp salt
-    - :butter: 0.25 cup (57 g) salted butter
-    - :tumbler_glass: 1 Tbsp rye whiskey
-    - :icecream: 1 tsp vanilla
+    - :butter: 0.25 cup (56 g) salted butter
+    - 1 Tbsp (8 g) rye whiskey
+    - :flower_playing_cards: 1 tsp vanilla
 
 === "Topping"
 
-    - :icecream: 3 cups heavy cream
-    - :candy: 0.25 cup (50 g) confectioners' sugar
+    - :glass_of_milk: 3 cups (681 g) heavy cream
+    - :candy: 0.25 cup (28 g) confectioners' sugar
 
 ## :cooking: Cookware
 

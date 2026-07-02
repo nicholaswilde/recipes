@@ -19,10 +19,10 @@ hero: assets/images/meringues.webp
 ## :salt: Ingredients
 
 - :egg: 2 large egg whites
-- :rice: 0.25 tsp cream of tartar
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
 - :salt: 1 dash salt
 - :candy: 98 g granulated sugar
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

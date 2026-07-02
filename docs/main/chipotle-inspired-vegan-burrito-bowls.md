@@ -18,23 +18,23 @@ hero: assets/images/chipotle-inspired-vegan-burrito-bowls.webp
 
 ## :salt: Ingredients
 
-- :rice: 1 bag frozen brown rice
-- :olive: 2 Tbsp olive oil
+- :ear_of_rice: 1 bag frozen brown rice
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: some salt
-- :lemon: 1 lime zest
-- :lemon: 1 lime juice
+- :tangerine: 1 lime zest
+- :tangerine: 1 lime juice
 - :herb: 1 bunch cilantro
-- :hot_pepper: 0.5 tsp chili powder
+- :hot_pepper: 0.5 tsp (1 g) chili powder
 - :hot_pepper: 0.5 tsp chipotle powder
-- :custard: 1 14-oz block extra-firm tofu
-- :corn: 1 15-oz can corn
-- :canned_food: 1 15-oz [black beans][4]
+- :cheese_wedge: 1 14-oz block extra-firm tofu
+- :bread: 1 15-oz can corn
+- :glass_of_milk: 1 15-oz [black beans][4]
 - :hot_pepper: 0.5 tsp chipotle powder
-- :hot_pepper: 0.5 tsp chili powder
-- :olive: 1 Tbsp olive oil
+- :hot_pepper: 0.5 tsp (1 g) chili powder
+- :olive: 1 Tbsp (12 g) olive oil
 - :herb: 1 bunch cilantro
-- :tomato: some [pico de gallo][2]
-- :avocado: some [guacamole][3]
+- :hotsprings: some [pico de gallo][2]
+- some [guacamole][3]
 
 ## :pencil: Instructions
 

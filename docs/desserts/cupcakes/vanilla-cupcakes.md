@@ -18,18 +18,18 @@ hero: assets/images/vanilla-cupcakes.webp
 ## :salt: Ingredients
 
 - :candy: 1 cup (198 g) granulated sugar
-- :icecream: 1 vanilla bean
-- :ear_of_rice: 1.75 cups cake flour
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :hamburger: 1 vanilla bean
+- :bread: 1.75 cups (210 g) cake flour
+- :chestnut: 1.5 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
-- :butter: 0.25 cup (57 g) unsalted butter
+- :butter: 0.25 cup (56 g) unsalted butter
 - :egg: 2 large eggs
-- :rice: 0.33 cup (75 g) full-fat sour cream
-- :oil_drum: 0.25 cup (50 g) vegetable oil
-- :icecream: 1 Tbsp vanilla
-- :glass_of_milk: 0.67 cup whole milk
-- :cake: 1 [vanilla buttercream frosting][1]
+- :coconut: 0.33 cup (75 g) full-fat sour cream
+- :olive: 0.25 cup (50 g) vegetable oil
+- :flower_playing_cards: 1 Tbsp vanilla
+- :glass_of_milk: 0.67 cup (152 g) whole milk
+- 1 [vanilla buttercream frosting][1]
 
 ## :cooking: Cookware
 

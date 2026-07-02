@@ -18,22 +18,22 @@ hero: assets/images/cornish-pasty.webp
 - :bread: 500 g strong white bread flour
 - :salt: 2 tsp salt
 - :butter: 400 g vegetable shortening
-- :droplet: 150 ml ice-cold water
-- :stew: 200 ml vegetable stock
+- :baby_bottle: 150 ml (144 g) ice-cold water
+- :stew: 200 ml (167 g) vegetable stock
 - :garlic: 0.75 tsp garlic powder
-- :tea: 0.75 tsp onion granules
-- :herb: 0.25 tsp dried rosemary
-- :herb: 0.25 tsp dried thyme
-- :cheese_wedge: 1 Tbsp nutritional yeast
-- :takeout_box: 1.5 tsp soy sauce
-- :bread: 20 g cornflour
-- :droplet: 3 Tbsp water
-- :sweet_potato: 200 g potato (peeled and diced 1cm cubes)
-- :sweet_potato: 100 g swede (rutabaga) (peeled and diced 1cm cubes)
+- :tea: 0.75 tsp (2 g) onion granules
+- :herb: 0.25 tsp (1 g) dried rosemary
+- :herb: 0.25 tsp (1 g) dried thyme
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+- :takeout_box: 1.5 tsp (4 g) soy sauce
+- 20 g cornflour
+- :droplet: 3 Tbsp (43 g) water
+- :hot_pepper: 200 g potato (peeled and diced 1cm cubes)
+- :baby_bottle: 100 g swede (rutabaga) (peeled and diced 1cm cubes)
 - :mushroom: 75 g mushrooms (chopped)
 - :tea: 75 g onion (peeled and diced)
-- :butter: 2 tsp dairy-free margarine
-- :glass_of_milk: 2 Tbsp dairy-free milk
+- :baby_bottle: 2 tsp (5 g) dairy-free margarine
+- :glass_of_milk: 2 Tbsp (28 g) dairy-free milk
 
 ## :cooking: Cookware
 

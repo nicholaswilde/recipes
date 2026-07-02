@@ -19,21 +19,21 @@ hero: assets/images/iced-pumpkin-cookies.webp
 ## :salt: Ingredients
 
 - :bread: 2.5 cups (300 g) all-purpose flour
-- :chestnut: 1 tsp (4 g) baking powder
-- :chestnut: 1 tsp (6 g) baking soda
+- :chestnut: 1 tsp baking powder
+- :chestnut: 1 tsp baking soda
 - :chestnut: 2 tsp (6 g) ground cinnamon
-- :chestnut: 0.5 tsp (1.5 g) ground nutmeg
-- :chestnut: 0.5 tsp (1.5 g) ground cloves
-- :salt: 0.5 tsp (3 g) salt
-- :butter: 0.5 cup (113 g) softened butter
+- :apple: 0.5 tsp (1 g) (1.5 g) ground nutmeg
+- :chestnut: 0.5 tsp (1 g) (1.5 g) ground cloves
+- :salt: 0.5 tsp salt
+- :baby_bottle: 0.5 cup (113 g) softened butter
 - :candy: 1.5 cups (297 g) white sugar
 - :melon: 1 cup (227 g) canned pumpkin puree
 - :egg: 1 large egg
-- :flower_playing_cards: 1 tsp (4 g) vanilla extract
-- :candy: 2 cups (227 g) confectioners' sugar
-- :glass_of_milk: 3 Tbsp (45 g) milk
-- :butter: 1 Tbsp (14 g) melted butter
-- :flower_playing_cards: 1 tsp (4 g) vanilla extract
+- :flower_playing_cards: 1 tsp vanilla extract
+- :candy: 2 cups (226 g) confectioners' sugar
+- :glass_of_milk: 3 Tbsp (43 g) milk
+- :glass_of_milk: 1 Tbsp (17 g) melted butter
+- :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
 

@@ -20,28 +20,28 @@ hero: assets/images/apple-fritter-cake.webp
 
 === "Filling & Topping"
 
-    - :maple_leaf: 107 g light brown sugar
-    - :custard: 1.5 tsp cinnamon
-    - :ear_of_rice: 1 tsp all-purpose flour
-    - :green_apple: 396 g diced apples
+    - :candy: 107 g light brown sugar
+    - :chestnut: 1.5 tsp (6 g) cinnamon
+    - :bread: 1 tsp (2 g) all-purpose flour
+    - :apple: 396 g diced apples
 
 === "Cake"
 
-    - :ear_of_rice: 270 g all-purpose flour
-    - :dash: 2.5 tsp baking powder
+    - :bread: 270 g all-purpose flour
+    - :chestnut: 2.5 tsp baking powder
     - :candy: 149 g granulated sugar
     - :salt: 1 tsp salt
-    - :chestnut: 0.25 tsp nutmeg or allspice
+    - :apple: 0.25 tsp nutmeg or allspice
     - :butter: 170 g unsalted butter
     - :egg: 3 large eggs
-    - :icecream: 2 tsp vanilla
+    - :flower_playing_cards: 2 tsp vanilla
     - :glass_of_milk: 170 g milk
 
 === "Glaze"
 
     - :candy: 85 g confectioners' sugar
-    - :glass_of_milk: 3 Tbsp milk
-    - :icecream: 0.5 tsp vanilla
+    - :glass_of_milk: 3 Tbsp (43 g) milk
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

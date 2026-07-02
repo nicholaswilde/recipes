@@ -18,17 +18,17 @@ hero: assets/images/banana-pudding.webp
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cup milk
-- :candy: 0.5 cup (99 g) sugar
+- :glass_of_milk: 2 cup (454 g) milk
+- :candy: 0.5 cup (78 g) sugar
 - :butter: 2 Tbsp butter
 - :salt: 1 pinch salt
-- :icecream: 1 vanilla bean
-- :corn: 3 Tbsp cornstarch
+- :hamburger: 1 vanilla bean
+- :chestnut: 3 Tbsp (21 g) cornstarch
 - :egg: 1 large egg
 - :egg: 3 large egg yolks
-- :cookie: 1 box (80 wafers) [vanilla wafers][1]
-- :glass_of_milk: 1.5 cups heavy whipping cream
-- :banana: 4 banana
+- 1 box (80 wafers) [vanilla wafers][1]
+- :glass_of_milk: 1.5 cups (340 g) heavy whipping cream
+- :apple: 4 banana
 
 ## :cooking: Cookware
 

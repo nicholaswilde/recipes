@@ -20,14 +20,14 @@ hero: assets/images/lemon-bundt-cake.webp
 
 === "Cake"
 
-    - :ear_of_rice: 405 g all-purpose flour
-    - :dash: 2.5 tsp baking powder
+    - :bread: 405 g all-purpose flour
+    - :chestnut: 2.5 tsp baking powder
     - :salt: 1 tsp kosher salt
-    - :cup_with_straw: 0.5 tsp baking soda
+    - :chestnut: 0.5 tsp baking soda
     - :glass_of_milk: 240 g whole milk
-    - :icecream: 2 tsp vanilla
-    - :lemon: 170 g Meyer lemon juice
-    - :lemon: 2 Meyer lemon zest
+    - :flower_playing_cards: 2 tsp vanilla
+    - :tangerine: 170 g Meyer lemon juice
+    - :tangerine: 2 Meyer lemon zest
     - :candy: 479 g granulated sugar
     - :egg: 4 large eggs
     - :olive: 267 g olive oil
@@ -35,7 +35,7 @@ hero: assets/images/lemon-bundt-cake.webp
 === "Glaze"
 
     - :candy: 132 g granulated sugar
-    - :lemon: 114 g Meyer lemon juice
+    - :tangerine: 114 g Meyer lemon juice
     - :olive: 25 g olive oil
 
 ## :cooking: Cookware
