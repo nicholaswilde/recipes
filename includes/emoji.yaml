@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - mixer bowl
+        - cake pans (8"x8"x2")
         - 8217
         - 215
         - cake pan
@@ -44,6 +46,7 @@ emoji:
     - cup_with_straw:
         - heat-proof liquid measuring cup
     - gear:
+        - electric mixer with whip attachment
         - hand mixer
         - coffee or spice grinder
         - blender
@@ -65,6 +68,7 @@ emoji:
         - airtight container
         - plastic wrap
     - page_facing_up:
+        - paper towels
         - parchment paper
         - parchment
         - wax paper
@@ -104,6 +108,7 @@ emoji:
         - small spoon
         - large serving spoon
     - wastebasket:
+        - cooling rack
         - strainer
         - fine-mesh strainer
         - wire rack
@@ -114,6 +119,9 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - fully cooked uncured applewood smoked bacon
+        - cornbread mix
+        - Dijon mustard
         - corn
         - King Arthur Pizza Dough Flavor, optional but delicious
         - (227g) sourdough starter, unfed/discard
@@ -186,6 +194,7 @@ emoji:
     - avodado:
         - guacamole
     - baby_bottle:
+        - crème fraiche
         - mayonnaise
         - /2 cup plus 2 tablespoons to 3/4 cup (141g to 170g) water, lukewarm
         - –8 Tablespoons (90–120g/ml) ice-cold water
@@ -373,6 +382,7 @@ emoji:
     - champagne:
         - ina garten's perfect vinaigrette
     - cheese_wedge:
+        - sharp cheddar cheese
         - cotija cheese
         - (8 ounces, 226g) cream cheese
         - shredded lettuce, sour cream, chopped tomatoes, sliced avocados, shredded cheese
@@ -504,6 +514,7 @@ emoji:
     - doughnut:
         - apple cider doughnuts
     - droplet:
+        - canola oil spray
         - water
         - hot water
         - soaking water
@@ -564,6 +575,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - butter flavored oil spray
         - whipped butter
         - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
         - melted butter
@@ -818,6 +830,7 @@ emoji:
     - sandwich:
         - applied grilled cheese
     - seedling:
+        - sunflower oil
         - yellow onion
         - pumpkin seeds
         - sunflower seeds
@@ -871,6 +884,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - mascarpone
         - white vinegar
         - pickling
         - (( laung))
