@@ -1339,7 +1339,9 @@ social = [
 [project.theme]
 name = "material"
 features = [
-    "navigation.footer"
+    "navigation.footer",
+    "content.action.edit",
+    "content.action.view"
 ]
 
 # Palette toggle for light mode
