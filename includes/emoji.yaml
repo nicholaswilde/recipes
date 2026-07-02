@@ -4,7 +4,6 @@ emoji:
     - bowl_with_spoon:
         - mixer bowl
         - cake pans (8"x8"x2")
-        - 8217
         - 215
         - cake pan
         - recipe
@@ -44,6 +43,7 @@ emoji:
         - 2-tablespoon cookie scoop
         - cookie cutters
     - cup_with_straw:
+        - measuring cup
         - heat-proof liquid measuring cup
     - gear:
         - electric mixer with whip attachment
@@ -119,6 +119,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - and 1/2 teaspoons baking powder
+        - (113g) bittersweet chocolate, finely chopped
         - fully cooked uncured applewood smoked bacon
         - cornbread mix
         - Dijon mustard
@@ -194,6 +196,13 @@ emoji:
     - avodado:
         - guacamole
     - baby_bottle:
+        - eggs, at room temperature
+        - egg yolks, at room temperature
+        - and 1/2 teaspoons pure vanilla extract
+        - and 1/2 cups (188g) all-purpose flour
+        - /8 teaspoon salt
+        - /4 teaspoon salt
+        - /4 cup (31g) all-purpose flour
         - crème fraiche
         - mayonnaise
         - /2 cup plus 2 tablespoons to 3/4 cup (141g to 170g) water, lukewarm
@@ -331,6 +340,8 @@ emoji:
     - cake:
         - brandy snaps
     - candy:
+        - and 1/2 cups (300g) granulated sugar
+        - /2 cup (100g) granulated sugar
         - paprika
         - /2 teaspoon instant yeast or active dry yeast
         - /2 cup (99g) granulated sugar
@@ -575,6 +586,10 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - /4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
+        - /4 cup (180ml) whole milk
+        - /2 cup (120ml) heavy cream
+        - (85g) unsalted butter
         - butter flavored oil spray
         - whipped butter
         - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
@@ -884,6 +899,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - (480ml) half-and-half
         - mascarpone
         - white vinegar
         - pickling

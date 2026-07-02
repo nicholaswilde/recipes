@@ -1,152 +1,217 @@
 ---
 comments: true
 tags:
-
   - dessert
   - cake
-  - king-arthur
-hero: assets/images/boston-cream-pie.webp
 ---
+# Boston Cream Pie
 
-# :cake: Boston Cream Pie
+![Boston Cream Pie][1]{ loading=lazy }
 
-![Boston Cream Pie](../../assets/images/boston-cream-pie.webp){ loading=lazy }
-
-| :timer_clock: Total Time |
-|:-----------------------: |
-| 5 hours 10 minutes |
+| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
+|:----------------------------------:|:-----------------------: |
+| 10 | 55 minutes |
 
 ## :salt: Ingredients
 
-=== "Cake"
-
-    - :candy: 397 g granulated sugar
-    - :egg: 4 large eggs
-    - :carrot: 67 g vegetable oil
-    - :ear_of_rice: 240 g all-purpose flour
-    - :salt: 1.25 tsp salt
-    - :dash: 2 tsp baking powder
-    - :butter: 57 g unsalted butter
-    - :glass_of_milk: 227 g whole milk
-    - :icecream: 2 tsp vanilla
-
-=== "Filling"
-
-    - :glass_of_milk: 567 g whole milk
-    - :candy: 99 g granulated sugar
-    - :salt: 0.25 tsp salt
-    - :corn: 39 g cornstarch
-    - :egg: 3 large egg yolks
-    - :egg: 1 egg
-    - :icecream: 2 tsp vanilla
-
-=== "Glaze"
-
-    - :chocolate_bar: 57 g semisweet chocolate
-    - :icecream: 57 g heavy cream
-    - :icecream: 0.5 tsp vanilla
+- :takeout_box: 2 cups (454 g) (480ml) half-and-half
+- :baby_bottle: 6 large egg yolks, at room temperature
+- :candy: 1 /2 cup granulated sugar
+- :baby_bottle: 1 /8 teaspoon salt
+- :baby_bottle: 1 /4 cup all-purpose flour
+- :glass_of_milk: 1 /4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
+- :baby_bottle: 1 and 1/2 teaspoons pure vanilla extract
+- :baby_bottle: 1 and 1/2 cups all-purpose flour
+- :apple: 1 and 1/2 teaspoons baking powder
+- :baby_bottle: 3 /4 teaspoon salt
+- :glass_of_milk: 3 /4 cup (180ml) whole milk
+- :butter: 6 tablespoons (85 g) unsalted butter
+- :baby_bottle: 1 and 1/2 teaspoons pure vanilla extract
+- :baby_bottle: 3 large eggs, at room temperature
+- :candy: 1 and 1/2 cups granulated sugar
+- :glass_of_milk: 1 /2 cup (120ml) heavy cream
+- :candy: 2 tablespoons (39 g) light corn syrup
+- :apple: 4 ounces (85 g) bittersweet chocolate, finely chopped
 
 ## :cooking: Cookware
 
-- 1 9" round pans
-- 1 parchment paper
 - 1 saucepan
-- 1 cooling rack
+- 1 whisk
+- 1 bowl
+- 1 whisk
+- 1 whisk
+- 1 whisk
+- 1 saucepan
+- 1 8217;s
+- 1 whisk
+- 1 strainer
+- 1 bowl
+- 1 oven
+- 1 8217;s
+- 1 whisk
+- 1 bowl
+- 1 microwave
+- 1 bowl
+- 1 hand mixer
+- 1 stand mixer
+- 1 whisk
+- 1 whisk
+- 1 whisk
+- 1 oven
+- 1 wire rack
+- 1 pan
+- 1 8217;s
+- 1 8217;t
+- 1 knife
+- 1 saucepan
+- 1 bowl
+- 1 measuring cup
+- 1 whisk
 
-## :pencil: Instructions - Cake
+## :pencil: Instructions
 
 ### Step 1
 
-Preheat the oven to 325°F. Lightly grease two 9" round pans or line with parchment paper rounds.
+(480ml) half-and-half
 
 ### Step 2
 
-Beat the granulated sugar and eggs together until they're light and fluffy, about 2 minutes at medium-high speed using
-an electric or stand mixer. Slowly beat in the vegetable oil.
+egg yolks, at room temperature
 
 ### Step 3
 
-Weigh your all-purpose flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
+/2 cup (100g) granulated sugar
 
 ### Step 4
 
-Add the flour, salt, and baking powder to the egg mixture in the bowl, beating just enough to combine. Scrape the bottom
-and sides of the bowl, then beat again, to fully incorporate any sticky bits.
+/8 teaspoon salt
 
 ### Step 5
 
-In a saucepan set over medium heat, bring the unsalted butter and whole milk just to a boil. Add the vanilla. Remove the
-pan from the heat, and stir the mixture until the butter is completely melted.
+/4 cup (31g) all-purpose flour (spooned &amp; leveled)
 
 ### Step 6
 
-Slowly add the hot milk mixture to the cake batter, mixing until everything is well combined. Scrape the bowl and mix
-briefly, just until smooth. The batter will be very thin.
+/4 cup (4 Tablespoons; 56g) unsalted butter, cut into 4 pieces
 
 ### Step 7
 
-Divide the batter evenly among the prepared pans.
+and 1/2 teaspoons pure vanilla extract
 
 ### Step 8
 
-Bake the cakes for 30 to 35 minutes, until a toothpick inserted into the center comes out clean, and the top feels set.
-Remove the cakes from the oven, cool them in the pans for 10 minutes, then turn them out onto a cooling rack to cool
-completely.
-
-## :pencil: Instructions - Filling
+and 1/2 cups (188g) all-purpose flour (spooned &amp; leveled)
 
 ### Step 9
 
-In a medium-sized saucepan, stir together 2 cups (454g) of the whole milk, the granulated sugar, and the salt. Bring to
-a simmer over medium heat, stirring to dissolve the sugar.
+and 1/2 teaspoons baking powder
 
 ### Step 10
 
-Meanwhile, whisk the cornstarch, egg yolks, and whole egg with the remaining 1/2 cup (113g) milk.
+/4 teaspoon salt
 
 ### Step 11
 
-Whisk about half of the hot milk mixture into the egg yolks/cornstarch to temper the yolks. This keeps them from turning
-to scrambled eggs when you add them to the simmering milk.
+/4 cup (180ml) whole milk
 
 ### Step 12
 
-Pour the egg/milk mixture back into the remaining simmering milk in the pan, pouring it through a strainer to capture
-any bits of egg.
+(85g) unsalted butter
 
 ### Step 13
 
-Bring the mixture to a low boil over medium heat (this may happen very quickly), stirring constantly with a whisk, and
-cook for 2 minutes; the mixture will thicken significantly.
+and 1/2 teaspoons pure vanilla extract
 
 ### Step 14
 
-Remove the filling from the heat and stir in the vanilla.
+eggs, at room temperature
 
 ### Step 15
 
-Transfer the filling to a heatproof bowl, and top it with a piece of buttered plastic wrap (make sure it touches the top
-of the filling so it doesn't develop a skin). Refrigerate until cool.
+and 1/2 cups (300g) granulated sugar
 
 ### Step 16
 
-When the cakes and pastry cream are completely cool, spread the filling in an even layer over one layer then stack the
-second layer on top. Set aside.
-
-## :pencil: Instructions - Glaze
+/2 cup (120ml) heavy cream
 
 ### Step 17
 
-Melt the semisweet chocolate and heavy cream together until smooth and lump-free. Add the vanilla and stir well. Let
-the glaze sit for about 10 minutes to cool a bit and to thicken just a touch. Pour the glaze over the filled cake.
-Serve immediately, or cool to room temperature, and refrigerate until ready to serve.
-
-## :pencil: Instructions - Storage
+light corn syrup
 
 ### Step 18
 
-Store any leftovers in the fridge, well wrapped in plastic.
+(113g) bittersweet chocolate, finely chopped
+
+### Step 19
+
+Read the recipe and watch the helpful video above before beginning as there are many little steps that are time
+sensitive or require cooling.
+
+### Step 20
+
+Heat half-and-half in a medium saucepan over medium heat until simmering. Meanwhile, whisk egg yolks, granulated sugar,
+and salt together in a bowl until smooth. Add flour and whisk until combined. Mixture will be thick. whisk about 1/2 cup
+half-and-half into yolk mixture to temper, then slowly whisk tempered yolk mixture into half-and-half in the saucepan.
+Reduce heat to medium-low and continue to cook, whisking constantly, for 5 minutes as the mixture thickens.
+(America&8217;s Test Kitchen instructs for 7 to 8 minutes, but mine began thickening quickly.)
+
+### Step 21
+
+Increase heat to medium and cook, whisking vigorously, until bubbles burst on the surface, about 1 minute. Remove from
+heat and whisk in the butter and vanilla extract until combined. Pastry cream will be thick. Strain through a fine-mesh
+strainer set over a bowl. Press plastic wrap directly on surface of pastry cream and refrigerate until set, at least 2
+hours and up to 24 hours.
+
+### Step 22
+
+Preheat the oven to 325°F (163°C). Grease two round 9-inch cake pans, line with parchment paper rounds, then grease
+the parchment paper. Parchment paper helps the cakes seamlessly release from the pans. (If it&8217;s helpful, see this
+parchment paper rounds for cakes video &amp; post.)
+
+### Step 23
+
+whisk flour, baking powder, and salt together in a small bowl. In the microwave or on the stove, heat milk and butter
+together until butter has melted. Stir in the vanilla extract. Cover loosely to keep warm. In a large bowl using a hand
+mixer or a stand mixer fitted with a whisk attachment, whip the eggs and granulated sugar together on high speed until
+light and creamy, about 4 minutes. Add hot milk mixture and whisk by hand until combined, then whisk in the dry
+ingredients. Batter will bubbly on top and somewhat thick, similar to pancake batter.
+
+### Step 24
+
+Divide batter evenly between 2 pans. Bake until the tops of cakes are light brown and a toothpick inserted in the center
+comes out clean, about 20 to 22 minutes.
+
+### Step 25
+
+Remove cakes from the oven and set on a wire rack. Allow to cool completely in the pan. As the cakes cool, check the
+pastry cream in the refrigerator. If it&8217;s too thick, it won&8217;t easily spread and could tear the cake. I remove
+pastry cream from the refrigerator about 20 minutes before assembling the cake.
+
+### Step 26
+
+Once cakes are cool, run a thin knife around the edges to release them from the pans. Place bottom cake layer on your
+cake stand or serving plate. Spread pastry cream evenly on top. Place second cake layer on top and gently press down to
+adhere to the pastry cream. Refrigerate cake while preparing the chocolate glaze.
+
+### Step 27
+
+Heat heavy cream and corn syrup in a small saucepan over medium heat until just simmering. As it heats up, place
+chocolate in a heat-proof glass bowl with a pouring spout (I use this 2-cup liquid measuring cup). Once simmering,
+remove cream from heat and pour over chocolate. Let sit, covered, for 5 minutes. Gently whisk until smooth.
+
+### Step 28
+
+Pour glaze into the center of cake. Spread glaze to the edges of cake allowing it to gently drip down the sides.
+Refrigerate cake, uncovered, for at least 2 hours (and up to 24 hours) before slicing and serving. If chilling for
+longer than 2 hours, allow cake to come to room temperature before slicing and serving.
+
+### Step 29
+
+Cover leftover cake tightly and store in the refrigerator for 5 days.
 
 ## :link: Source
 
-- <https://www.kingarthurbaking.com/recipes/boston-cream-pie-recipe>
+- <https://sallysbakingaddiction.com/boston-cream-pie/>
+
+[1]: <../../assets/images/boston-cream-pie.webp>
+
