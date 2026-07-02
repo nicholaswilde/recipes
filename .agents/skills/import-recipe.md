@@ -24,6 +24,14 @@ repository following the established recipe import workflow.
      uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
      ```
 
+   - **PDF-specific Automation:** If the source is a PDF, you can automate downloading, text parsing, and hero image cropping into a single step using the PDF import workflow:
+
+     ```bash
+     uv run python3 scripts/import_pdf_workflow.py <PDF_URL_or_path> [-c <category>] [-n <issue_number>] [--commit]
+     ```
+
+     This will extract raw text into the `.cook` draft file and auto-crop the hero image for you to finalize.
+
    - **Spellcheck Validation:** When validating spellings, prefer the focused file spellchecker (e.g., `task spellcheck-file FILE="docs/{category}/{recipe-name}.md"`) instead of checking the whole project.
 
 3. **Commit Changes:**
