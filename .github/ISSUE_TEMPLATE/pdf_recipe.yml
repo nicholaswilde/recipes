@@ -1,0 +1,36 @@
+name: Recipe from PDF
+description: Submit a new recipe using a PDF file as the source.
+title: "[Recipe]: "
+labels: ["new recipe", "pdf source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a new recipe! Please upload the PDF file of the recipe below.
+  - type: input
+    id: recipe_name
+    attributes:
+      label: Recipe Name
+      description: What is the name of the recipe?
+      placeholder: e.g. Grandma's Chocolate Chip Cookies
+    validations:
+      required: true
+  - type: textarea
+    id: recipe_pdf
+    attributes:
+      label: Recipe PDF
+      description: Drag and drop the PDF of the recipe here (or attach the file).
+      placeholder: Upload or link the PDF file here.
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (Optional)
+      description: If this PDF is from a website, please provide the link.
+      placeholder: https://example.com/recipe
+  - type: textarea
+    id: notes
+    attributes:
+      label: Transcription / Notes (Optional)
+      description: If you have specific notes (such as servings or cook time), add them here.
