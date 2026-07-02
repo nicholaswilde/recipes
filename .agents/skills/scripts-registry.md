@@ -94,6 +94,18 @@ To orchestrate the import, emoji checking/fixing, unit conversion, spelling vali
 
 * **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check-recipe-emojis.py --fix` to automatically map missing emojis, `scripts/convert-recipe-units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Optionally prompts for GitHub issues and automates conventional git commits.
 
+#### Automated PDF Recipe Import Workflow
+
+To automate the download, text parsing, hero image cropping, and CookLang skeleton generation of a PDF-based recipe:
+
+* **Protocol**:
+
+  ```bash
+  uv run python3 scripts/import_pdf_workflow.py <PDF_URL_or_path> [-c <category>] [-n <issue_number>] [--commit]
+  ```
+
+* **Under the Hood**: Automatically downloads a PDF (if remote) silently to save logs, runs `lit parse` from the `liteparse` skill to extract text, renders the first page using `lit screenshot`, auto-crops the main hero image from the right/top section of the page using Pillow color-variance detection, and initializes a draft `.cook` file containing the raw extracted text as comments. It then prepares the final `import_manual_recipe.py` command for verification and final staging.
+
 ---
 
 ### 2. Auto-Fixers & Formatting
