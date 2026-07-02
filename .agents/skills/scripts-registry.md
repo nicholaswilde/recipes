@@ -280,3 +280,13 @@ To fetch a list of recipe URLs, extract their structured rating metadata, and ra
   ```bash
   uv run scripts/rank_recipe_urls.py <URL1> <URL2> ... [--min-votes 10] [--prior-rating 3.5]
   ```
+
+#### Find Low-Ranked Recipes (Bayesian Scanner)
+
+To scan the repository's recipes, parse their rating metadata, and flag low-scoring entries with suggested search replacements:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/find_low_ranked_recipes.py [--threshold 4.4] [--min-votes 10] [--prior-rating 3.5]
+  ```
