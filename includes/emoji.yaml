@@ -49,6 +49,7 @@ emoji:
         - measuring cup
         - heat-proof liquid measuring cup
     - gear:
+        - colander
         - spice grinder
         - electric mixer with whip attachment
         - hand mixer
@@ -406,6 +407,7 @@ emoji:
     - champagne:
         - ina garten's perfect vinaigrette
     - cheese_wedge:
+        - feta or Cotija cheese
         - sharp cheddar cheese
         - cotija cheese
         - (8 ounces, 226g) cream cheese
@@ -510,6 +512,8 @@ emoji:
         - cornbread mix
         - corn
         - fresh corn kernels
+        - fresh corn
+        - frozen corn
     - cow:
         - espagnole
     - crab:
@@ -648,6 +652,7 @@ emoji:
     - hamburger:
         - black bean burgers
     - herb:
+        - fresh cilantro leaves
         - bay leaf ((tej patta))
         - chili-lime seasoning
         - Cajun seasoning
@@ -679,6 +684,7 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - chili powder or hot chili flakes
         - chipotle powder
         - charred and peeled poblano peppers
         - poblano peppers

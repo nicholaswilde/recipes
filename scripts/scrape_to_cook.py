@@ -101,7 +101,7 @@ def parse_ingredient(ing_line):
         if ing_line_clean.lower() == ignored.lower():
             return ing_line_clean
             
-    qty_regex = r'^(\d+(?:\s+\d+/\d+|\s+[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])?|\d+/\d+|\d+\.\d+|[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])'
+    qty_regex = r'^(\d+\s+\d+/\d+|\d+\s+[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞]|\d+/\d+|\d+\.\d+|\d+|[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])'
     qty_match = re.match(qty_regex, ing_line_clean)
     
     if not qty_match:
@@ -190,6 +190,13 @@ def resolve_category(category_name):
     return "main"
 
 def fetch_html(url):
+    if url.startswith("file://"):
+        path = urllib.request.url2pathname(url[7:])
+        with open(path, "r", encoding="utf-8") as f:
+            return f.read()
+    elif os.path.exists(url):
+        with open(url, "r", encoding="utf-8") as f:
+            return f.read()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req) as response:
@@ -374,10 +381,13 @@ def compile_cooklang(recipe_data, source_url):
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape a recipe from a URL and save as CookLang (.cook) and image.")
-    parser.add_argument("url", help="Recipe webpage URL")
+    parser.add_argument("url", help="Recipe webpage URL or local HTML file path")
     parser.add_argument("-c", "--category", help="Category folder override")
+    parser.add_argument("-s", "--source-url", help="Source URL (if url is a local file)")
     
     args = parser.parse_args()
+    
+    source_url = args.source_url or args.url
     
     print(f"Fetching {args.url}...")
     html = fetch_html(args.url)
@@ -416,7 +426,7 @@ def main():
         elif isinstance(img_data, str):
             image_url = img_data
         if image_url:
-            recipe_data["image_url"] = urllib.parse.urljoin(args.url, image_url)
+            recipe_data["image_url"] = urllib.parse.urljoin(source_url, image_url)
         else:
             recipe_data["image_url"] = ""
             
@@ -455,7 +465,7 @@ def main():
     jpg_path = os.path.join(target_dir, f"{filename}.jpg")
     
     # Save Cooklang file
-    cook_content = compile_cooklang(recipe_data, args.url)
+    cook_content = compile_cooklang(recipe_data, source_url)
     with open(cook_path, "w", encoding="utf-8") as f:
         f.write(cook_content)
     print(f"Saved Cooklang recipe to {cook_path}")

@@ -238,6 +238,15 @@ def main():
     emoji_mappings = load_emoji_mappings(emoji_path)
     measuring_table = load_measuring_table(measuring_path)
     
+    KNOWN_UNITS = {
+        "cup", "cups", "c", "tbsp", "tablespoon", "tablespoons", "tsp", "teaspoon", "teaspoons",
+        "g", "gram", "grams", "ml", "milliliter", "milliliters", "oz", "ounce", "ounces",
+        "lb", "pound", "pounds", "kg", "kilogram", "kilograms", "can", "cans", "clove", "cloves",
+        "pinch", "pinches", "slice", "slices", "package", "packages", "bag", "bags", "head", "heads",
+        "bunch", "bunches", "sprig", "sprigs", "piece", "pieces", "large", "medium", "small",
+        "handful", "handfuls", "ear", "ears"
+    }
+    
     with open(md_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
         
@@ -262,7 +271,11 @@ def main():
             if m:
                 qty_str, unit, name = None, None, None
                 if m.group(1):
-                    qty_str, unit, name = m.group(1), m.group(2), m.group(3)
+                    potential_unit = m.group(2)
+                    if potential_unit.lower() in KNOWN_UNITS:
+                        qty_str, unit, name = m.group(1), potential_unit, m.group(3)
+                    else:
+                        qty_str, unit, name = m.group(1), "", f"{potential_unit} {m.group(3)}"
                 elif m.group(4):
                     qty_str, unit, name = m.group(4), "", m.group(5)
                 else:
