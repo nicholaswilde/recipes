@@ -80,12 +80,10 @@ charred all over, about 2 minutes total. Transfer to a large bowl.
 
 !!! tip
 
+    If using frozen corn, thaw it and dry it thoroughly before cooking. Place the corn in a colander to let it drain well,
+    then spread the kernels on a few layers of clean kitchen towel and pat them completely dry.
+
 ### Step 3
-
-If using frozen corn, thaw it and dry it thoroughly before cooking. Place the corn in a colander to let it drain well,
-then spread the kernels on a few layers of clean kitchen towel and pat them completely dry.
-
-### Step 4
 
 Add feta or Cotija cheese (60g, finely crumbled), scallions (finely sliced, green parts only), fresh cilantro leaves
 (1/2 ounce, finely chopped), jalapeño pepper (seeded and stemmed, finely chopped), garlic (pressed or minced on a
