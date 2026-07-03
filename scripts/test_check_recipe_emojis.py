@@ -1,3 +1,15 @@
+################################################################################
+#
+# test_check_recipe_emojis.py
+# ----------------
+# Test emoji check and mapping functions
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 14 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import shutil
 import tempfile

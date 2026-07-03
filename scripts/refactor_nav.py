@@ -1,3 +1,15 @@
+################################################################################
+#
+# refactor_nav.py
+# ----------------
+# Refactor zensical navigation index
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 08 Mar 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 
 # Define the new navigation blocks as strings

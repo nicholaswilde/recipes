@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# rank_recipes_bayesian.py
+# ----------------
+# Rank recipes using a Bayesian scoring algorithm
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 24 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import json
 import argparse

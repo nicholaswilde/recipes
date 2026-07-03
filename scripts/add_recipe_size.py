@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# add_recipe_size.py
+# ----------------
+# Add file size metadata to recipes
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 13 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import os
 import re

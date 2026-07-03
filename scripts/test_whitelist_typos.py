@@ -1,3 +1,15 @@
+################################################################################
+#
+# test_whitelist_typos.py
+# ----------------
+# Test typos whitelisting functions
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 14 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import unittest
 import os
 import shutil

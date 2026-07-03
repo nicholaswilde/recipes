@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# check_missing_images.py
+# ----------------
+# Check for recipes with missing image files
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 14 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 """Check recipe markdown files for missing images.
 
 Detects three types of image issues:

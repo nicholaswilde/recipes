@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# rank_recipe_urls.py
+# ----------------
+# Rank recipe source URLs
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 30 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import json
 import argparse

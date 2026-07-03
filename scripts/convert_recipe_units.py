@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# convert_recipe_units.py
+# ----------------
+# Convert recipe measurements between volume and weight
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 02 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import re
 import os

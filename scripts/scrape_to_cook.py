@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# scrape_to_cook.py
+# ----------------
+# Scrape a recipe from a URL and convert it to CookLang format
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 14 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import re
 import os

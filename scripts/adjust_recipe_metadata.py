@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# adjust_recipe_metadata.py
+# ----------------
+# Adjust recipe metadata tags
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 13 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import os
 import argparse

@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# find_duplicate_issues.py
+# ----------------
+# Find duplicate issues in the repository
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 02 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import sys
 import json

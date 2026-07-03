@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# lint_changed.py
+# ----------------
+# Lint changed recipe files
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 12 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import subprocess
 import sys
 import os

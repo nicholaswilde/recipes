@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# import_manual_recipe.py
+# ----------------
+# Orchestrate the manual recipe import workflow
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 25 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import os
 import re

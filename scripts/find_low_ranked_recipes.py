@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# find_low_ranked_recipes.py
+# ----------------
+# Find low-ranked recipes in the repository
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 01 Jul 2026
+# @version 0.1.0
+#
+################################################################################
+
 """
 Find Low-Ranked Recipes in the Repository.
 

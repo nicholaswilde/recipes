@@ -1,3 +1,15 @@
+################################################################################
+#
+# test_optimize_images.py
+# ----------------
+# Test image optimization functions
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 12 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import shutil
 import tempfile

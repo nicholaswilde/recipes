@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# find_missing_sources.py
+# ----------------
+# Find recipes with missing source URLs
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 14 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import re
 

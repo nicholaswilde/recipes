@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# check_recipe_emojis.py
+# ----------------
+# Check and auto-fix recipe ingredient and cookware emojis
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 02 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import sys
 import re
 import os
