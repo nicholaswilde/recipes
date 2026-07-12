@@ -20,7 +20,7 @@ hero: assets/images/strawberry-protein-bites.webp
 
 === "Dough"
 
-    - :grapes: 6 pitted medjool dates
+    - :grapes: 6 (144 g) pitted medjool dates
     - 0.25 cup (36 g) hazelnuts
     - :chestnut: 0.75 cup (85 g) cashews
     - :chestnut: 1 cup (128 g) freeze-dried strawberries
