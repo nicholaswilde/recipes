@@ -18,7 +18,7 @@ hero: assets/images/date-energy-bites.webp
 ## :salt: Ingredients
 
 - :ear_of_rice: 1 cup (113 g) rolled oats
-- :grapes: 1 heaping cup Medjool dates
+- :grapes: 1 cup (200 g) Medjool dates
 - :chestnut: 0.33 cup (89 g) peanut butter
 - :chocolate_bar: 2 Tbsp (14 g) cocoa powder
 - :salt: 0.25 tsp salt
