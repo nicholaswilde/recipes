@@ -17,7 +17,7 @@ hero: assets/images/snickers-energy-bites.webp
 
 ## :salt: Ingredients
 
-- :grapes: 1 packed cup Medjool dates
+- :grapes: 1 packed cup (170 g) Medjool dates
 - :ear_of_rice: 0.5 cup (56 g) rolled oats
 - :chestnut: 0.5 cup (71 g) roasted salted peanuts
 - :chestnut: 0.25 cup (68 g) peanut butter
@@ -35,21 +35,25 @@ hero: assets/images/snickers-energy-bites.webp
 
 ### Step 1
 
+Soak pitted medjool dates in hot water for 10 minutes then drain any excess liquid.
+
+### Step 2
+
 Add pitted Medjool dates (about 170 g), rolled oats (old-fashioned or quick-cooking), roasted salted peanuts, natural
 peanut butter, and vanilla extract to a food processor. Blend until the mixture looks crumbly but holds together when
 squeezed in your hand. If it seems too dry, add 2 or 3 more dates and blend again.
 
-### Step 2
+### Step 3
 
 Add mini dark chocolate chips (or finely chopped dark chocolate) and pulse a few times until mixed through. You want
 small pieces of chocolate throughout the mixture, not fully blended.
 
-### Step 3
+### Step 4
 
 Scoop about 1 tablespoon of mixture into your hand. Squeeze it firmly a few times to compact it, then roll it briefly
 between your palms to smooth it into a ball. Place the balls on a parchment-lined plate or tray.
 
-### Step 4
+### Step 5
 
 Optional chocolate topping: Melt chopped dark chocolate (70% cocoa) in a microwave-safe bowl in 30-second intervals,
 stirring between each interval. Drizzle over the energy bites or dip them in the chocolate. Sprinkle with chopped
