@@ -17,11 +17,19 @@ hero: assets/images/bread-machine-french-bread.webp
 
 ## :salt: Ingredients
 
+=== "White"
+
+    - :bread: 4 cups (480 g) bread flour
+
+=== "20% Whole Wheat"
+
+    - :bread: 384 g bread flour
+    - :bread: 98 g whole wheat flour
+
 - :droplet: 1.33 cups (302 g) warm water
 - :olive: 1.5 Tbsp (19 g) olive oil
 - :salt: 1 Tbsp salt
 - :candy: 2 Tbsp (20 g) sugar
-- :bread: 4 cups (480 g) bread flour
 - :tea: 2.25 tsp (7 g) yeast
 
 ## :cooking: Cookware
