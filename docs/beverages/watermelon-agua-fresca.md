@@ -2,6 +2,7 @@
 comments: true
 tags:
   - beverage
+  - applied-kitchen
 hero: assets/images/watermelon-agua-fresca.webp
 ---
 
