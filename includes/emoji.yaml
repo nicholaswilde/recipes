@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - spoon
         - jar
         - dehydrator trays
         - dehydrator
@@ -68,6 +69,7 @@ emoji:
         - serrated knife
         - tongs
     - package:
+        - plastic bag
         - container with a tight-fitting lid
         - piping bag
         - airtight container
@@ -126,6 +128,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - lemon or lime
         - and 1/2 teaspoons baking powder
         - (113g) bittersweet chocolate, finely chopped
         - King Arthur Pizza Dough Flavor, optional but delicious
@@ -188,6 +191,7 @@ emoji:
         - natural food coloring
         - rainbow sprinkles
     - avocado:
+        - ripe avocados
         - neutral oil
         - neutral oil, avocado or canola
         - avocado
@@ -688,6 +692,8 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - jalapeño
+        - cracked black pepper
         - chili powder or hot chili flakes
         - chipotle powder
         - charred and peeled poblano peppers
@@ -984,6 +990,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - small tomato
         - cherry tomatoes
         - tomato sauce
         - cherry tomatoes, halved
