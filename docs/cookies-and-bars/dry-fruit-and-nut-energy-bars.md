@@ -5,6 +5,7 @@ tags:
   - bar
   - dessert
 ---
+
 # Dry Fruit and Nut Energy Bars
 
 ![Dry Fruit and Nut Energy Bars][1]{ loading=lazy }
@@ -99,7 +100,6 @@ to 1 month.
 
 ## :link: Source
 
-- Hebbar's Kitchen
+- [Hebbar's Kitchen](https://hebbarskitchen.com/energy-bar-recipe-protein-bar-recipe/)
 
 [1]: <../assets/images/dry-fruit-and-nut-energy-bars.webp>
-

@@ -2,8 +2,10 @@
 comments: true
 tags:
   - beverage
+hero: assets/images/watermelon-agua-fresca.webp
 ---
-# Watermelon Agua Fresca
+
+# :watermelon: Watermelon Agua Fresca
 
 ![Watermelon Agua Fresca][1]{ loading=lazy }
 
@@ -46,4 +48,3 @@ Add cold water and whisk until well combined, about 3 minutes.
 - Applied Kitchen
 
 [1]: <../assets/images/watermelon-agua-fresca.webp>
-

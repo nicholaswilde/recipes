@@ -1,7 +1,13 @@
-# Applied Kitchen Guacamole
+---
+comments: true
+tags:
+  - mexican
+hero: assets/images/applied-kitchen-guacamole.webp
+---
+
+# :avodado: Applied Kitchen Guacamole
 
 ![Applied Kitchen Guacamole](../../assets/images/applied-kitchen-guacamole.webp){ loading=lazy }
-
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
