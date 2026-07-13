@@ -43,6 +43,7 @@ Beverages = [
   { "Spinach Banana Smoothie" = "beverages/spinach-banana-smoothie.md" },
   { "Strawberry Whip" = "beverages/strawberry-whip.md" },
   { "Thick Hot Chocolate" = "beverages/thick-hot-chocolate.md" },
+  { "Watermelon Agua Fresca" = "beverages/watermelon-agua-fresca.md" },
 ]
 
 [[project.nav]]
