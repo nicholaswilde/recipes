@@ -289,6 +289,8 @@ Gâteau
 Harina
 Harissa
 Hasselback
+Hebbar's
+Hebbars
 Herbes
 Hjem
 Hollandaise
@@ -594,6 +596,7 @@ UI
 Umami
 Undipped
 Unmold
+Unmould
 Urad
 Valrhona
 Vannelli
@@ -1201,6 +1204,7 @@ unmelted
 unmold
 unmolded
 unmolding
+unmould
 unsticking
 unstrained
 untoasted

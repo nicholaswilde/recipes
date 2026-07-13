@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - plate
         - spoon
         - jar
         - dehydrator trays
@@ -31,6 +32,7 @@ emoji:
         - microwave-safe bowl
         - bowl
     - cookie:
+        - baking paper
         - baking
         - Oreo cookies
         - baking sheet
@@ -128,6 +130,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - cashew / kaju
+        - cardamom
         - lemon or lime
         - and 1/2 teaspoons baking powder
         - (113g) bittersweet chocolate, finely chopped
@@ -199,6 +203,8 @@ emoji:
     - avodado:
         - guacamole
     - baby_bottle:
+        - pumpkin
+        - almonds / badam
         - sugar or agave syrup
         - mini watermelon
         - diced watermelon
@@ -440,6 +446,9 @@ emoji:
     - cherries:
         - cherry bars
     - chestnut:
+        - walnut / akhrot
+        - sesame seeds / til
+        - pistachios
         - shahi jeera ((or cumin seeds))
         - chopped pecans
         - chopped
@@ -506,6 +515,7 @@ emoji:
     - clinking_glasses:
         - champagne punch
     - coconut:
+        - dry coconut
         - full-fat coconut milk
         - coconut milk
         - shredded coconut
@@ -566,6 +576,7 @@ emoji:
     - ear:
         - orejas (mexican pan dulce)
     - ear_of_rice:
+        - rolled
         - old fashioned rolled oats
         - wheat germ
         - cooked quinoa
@@ -603,6 +614,7 @@ emoji:
     - four_leaf_clover:
         - irish soda bread
     - garlic:
+        - hot
         - garlic clove, finely chopped
         - garlic (skins removed, cloves smashed (use fewer cloves if its a strong garlic))
         - ginger garlic paste
@@ -644,6 +656,7 @@ emoji:
         - sour cream
         - whipped cream
     - grapes:
+        - dates / khajoor
         - raisins
         - dates
         - Medjool dates
@@ -873,6 +886,7 @@ emoji:
     - sandwich:
         - applied grilled cheese
     - seedling:
+        - cardamom powder
         - Dijon mustard
         - sunflower oil
         - yellow onion
@@ -928,6 +942,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - dry
         - tempeh
         - soy
         - seasoned rice vinegar
