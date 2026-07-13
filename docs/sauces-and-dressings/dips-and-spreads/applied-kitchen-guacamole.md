@@ -2,10 +2,11 @@
 comments: true
 tags:
   - mexican
+  - applied-kitchen
 hero: assets/images/applied-kitchen-guacamole.webp
 ---
 
-# :avodado: Applied Kitchen Guacamole
+# :avocado: Applied Kitchen Guacamole
 
 ![Applied Kitchen Guacamole](../../assets/images/applied-kitchen-guacamole.webp){ loading=lazy }
 
