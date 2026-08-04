@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - shallow bowl
         - large bowl
         - heat-proof bowl
         - large mixing bowl
@@ -83,6 +84,7 @@ emoji:
         - fine-mesh strainer
         - wire rack
     - wood:
+        - cutting board
         - board
         - rolling pin
         - patterned rolling pin
@@ -202,6 +204,7 @@ emoji:
         - carrots
         - grated carrots
     - cheese_wedge:
+        - tempeh
         - extra firm tofu
         - vegan cream cheese
         - nutritional yeast
@@ -283,6 +286,7 @@ emoji:
         - curry powder
         - dashi powder
     - droplet:
+        - liquid smoke
         - water
         - hot water
         - soaking water
@@ -367,6 +371,7 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - cayenne
         - bell pepper
         - red bell pepper
         - green bell pepper
@@ -437,6 +442,7 @@ emoji:
     - pineapple:
         - crushed pineapple
     - salt:
+        - ground black pepper
         - fine sea salt
         - Kala Namak or black salt
         - freshly-cracked black pepper
