@@ -1059,6 +1059,7 @@ Mediterranean = [
 ]
 [[project.nav]]
 Sides = [
+  { "1/2 Sour Pickles" = "sides/snacks/half-sour-pickles.md" },
   { "America's Test Kitchen Best Baked Potatoes" = "sides/potatoes/america's-test-kitchen-best-baked-potatoes.md" },
   { "America's Test Kitchen Best Baked Sweet Potatoes" = "sides/potatoes/america's-test-kitchen-best-baked-sweet-potatoes.md" },
   { "Amish Potato Salad" = "sides/potatoes/amish-potato-salad.md" },
@@ -1113,6 +1114,7 @@ Sides = [
   { "Fresh Spring Rolls" = "sides/snacks/fresh-spring-rolls.md" },
   { "Fried Green Plantains" = "sides/grains-and-legumes/fried-green-plantains.md" },
   { "Fried Green Tomatoes" = "sides/vegetables/fried-green-tomatoes.md" },
+  { "Full Sour Pickles" = "sides/snacks/full-sour-pickles.md" },
   { "Funeral Potatoes" = "sides/potatoes/funeral-potatoes.md" },
   { "Garlic and Lemon Roasted Romanesco Cauliflower" = "sides/vegetables/garlic-and-lemon-roasted-romanesco-cauliflower.md" },
   { "Garlic Mushrooms" = "sides/vegetables/garlic-mushrooms.md" },

@@ -16,39 +16,49 @@ hero: assets/images/applied-sweet-potato-soyrizo-hash.webp
 
 ## :salt: Ingredients
 
-- :sweet_potato: 2 lb sweet potatoes
-- :olive: 2 Tbsp extra virgin olive oil
-- :hot_pepper: 12 oz soyrizo
-- :canned_food: 1 15-oz can [black beans][1]
-- :avocado: 1 avocado
-- :herb: some cilantro
-- :lemon: some lime wedges
+- :package: 1 (12 oz) package soyrizo
+- :canned_food: 1 (15 oz) can [black beans][1], drained and rinsed
+- :sweet_potato: 1 large sweet potato, diced
+- :herb: 1/2 bunch cilantro, chopped
+- :avocado: 1 avocado, sliced
+- :onion: 1 red onion, diced
+- :olive: 1 Tbsp olive oil
+- :lemon: 1 lime, cut into wedges
+- :salt: salt, to taste
+- :pepper: pepper, to taste
 
 ## :cooking: Cookware
 
-- 1 large skillet
+- 1 sauté pan
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Peel and dice the sweet potatoes into 1/2-inch cubes.
+Heat olive oil in a sauté pan over medium-high heat. Add sweet potato and sauté until tender.
 
 ### Step 2
 
-Heat the olive oil in a large skillet over medium heat. Add the sweet potatoes and cook until tender and slightly
-browned, about 15 to 20 minutes.
+Add the onions and continue to sauté until they become translucent.
 
 ### Step 3
 
-Add the soyrizo to the skillet and cook for another 5 minutes, breaking it up with a spoon.
+Next, add the soyrizo and stir until lightly browned.
 
 ### Step 4
 
-Add the [black beans][1] and stir until heated through.
+Add the beans and stir until heated through.
 
 ### Step 5
 
-Top with sliced avocado and fresh cilantro. Serve with lime wedges.
+Turn off the heat and fold in the cilantro.
+
+### Step 6
+
+Season to taste with salt and pepper.
+
+### Step 7
+
+Garnish with avocado and lime wedge.
 
 [1]: <../ingredients/black-beans.md>
