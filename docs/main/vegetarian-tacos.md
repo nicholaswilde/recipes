@@ -16,31 +16,33 @@ hero: assets/images/vegetarian-tacos.png
 |:----------------------------------:|:-----------------------: |
 | 8 | 30 minutes |
 
-## :salt: Ingredients - Taco
+## :salt: Ingredients
 
-- :olive: some olive oil
-- :sweet_potato: 2 chopped sweet potatoes, 1 inch diced
-- :hot_pepper: 1 Tbsp chili powder
-- :herb: 1 tsp cumin
-- :salt: some salt
-- :salt: some pepper
-- :mushroom: 8 oz mushrooms, thinly sliced
-- :onion: 0.5 red onions, sliced
-- :corn: 2 ears sweet corn
-- :garlic: 1 Tbsp garlic
-- :canned_food: 1 can [black beans][1], drained
-- :flatbread: 8 corn or TJ's Jicama tortillas
-- :cheese_wedge: some feta cheese (optional)
-- :herb: some cilantro (optional)
+=== "Taco"
 
-## :salt: Ingredients - Avocado Crema
+    - :olive: some olive oil
+    - :cupcake: 2 chopped sweet potatoes, 1 inch diced
+    - :hot_pepper: 1 Tbsp (7 g) chili powder
+    - :chestnut: 1 tsp (3 g) cumin
+    - :salt: some salt
+    - :salt: some pepper
+    - :mushroom: 8 oz (78 g) mushrooms, thinly sliced
+    - :beans: 0.5 red onions, sliced
+    - :candy: 2 ears sweet corn
+    - :garlic: 1 Tbsp garlic
+    - :apple: 1 can [black beans][1], drained
+    - :flatbread: 8 corn or TJ's Jicama tortillas
+    - :cheese_wedge: some feta cheese (optional)
+    - :apple: some cilantro (optional)
 
-- :avocado: 1 ripe avocado
-- :microbe: 0.33 cup full fat, plain Greek yogurt
-- :herb: 0.25 cup cilantro
-- :lemon: 1 Tbsp lime juice
-- :salt: some salt
-- :salt: some pepper
+=== "Avocado Crema"
+
+    - :avocado: 1 ripe avocado
+    - :coconut: 0.33 cup (75 g) full fat, plain Greek yogurt
+    - :herb: 0.25 cup (10 g) cilantro
+    - :tangerine: 1 Tbsp (14 g) lime juice
+    - :salt: some salt
+    - :salt: some pepper
 
 ## :cooking: Cookware
 

@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/orange-extract.jpg
+hero: assets/images/orange-extract.webp
 ---
 
 # :tangerine: Orange Extract
 
-![Orange Extract](../../assets/images/orange-extract.jpg){ loading=lazy }
+![Orange Extract](../../assets/images/orange-extract.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,7 +18,7 @@ hero: assets/images/orange-extract.jpg
 ## :salt: Ingredients
 
 - :tangerine: 1 large navel orange
-- :sake: 2 oz vodka
+- :tangerine: 2 oz vodka
 
 ## :cooking: Cookware
 

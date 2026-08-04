@@ -5,7 +5,7 @@ tags:
   - cookie
   - claire-saffitz
   - dessert
-hero: assets/images/oatmeal-cookies.jpg
+hero: assets/images/oatmeal-cookies.webp
 ---
 
 # :ear_of_rice: Oatmeal Cookies
@@ -19,13 +19,13 @@ hero: assets/images/oatmeal-cookies.jpg
 ## :salt: Ingredients
 
 - :butter: 227 g unsalted butter
-- :ear_of_rice: 173 g all-purpose flour
+- :bread: 173 g all-purpose flour
 - :salt: 2 tsp salt
-- :cup_with_straw: 1 tsp baking soda
-- :chestnut: 1 portion [pecan brittle][2]
+- :chestnut: 1 tsp baking soda
+- 1 portion [pecan brittle][2]
 - :ear_of_rice: 200 g old-fashioned rolled oats
-- :icecream: 1 Tbsp vanilla
-- :maple_leaf: 150 g dark brown sugar
+- :flower_playing_cards: 1 Tbsp vanilla
+- :candy: 150 g dark brown sugar
 - :candy: 100 g granulated sugar
 - :egg: 2 eggs
 
@@ -90,9 +90,13 @@ Cool on the sheet for 5 minutes.
 
 Move to a cooling rack to let the cookies completely cool.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.youtube.com/watch?v=gGBC4-CsXOM>
 
-[1]: <../assets/images/oatmeal-cookies.jpg>
+[1]: <../assets/images/oatmeal-cookies.webp>
 [2]: <../desserts/pecan-brittle.md>

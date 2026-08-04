@@ -5,7 +5,7 @@ tags:
   - side
   - nutrition-studies
   - salad
-hero: assets/images/blueberry-chickpea-salad.jpg
+hero: assets/images/blueberry-chickpea-salad.webp
 ---
 
 # :blue_circle: Blueberry Chickpea Salad
@@ -16,25 +16,27 @@ hero: assets/images/blueberry-chickpea-salad.jpg
 |:----------------------------------:|:-----------------------: |
 | 4 | 10 minutes |
 
-## :salt: Ingredients - Dressing
+## :salt: Ingredients
 
-- :microbe: 1 Tbsp nutritional yeast
-- :garlic: 1 tsp garlic powder
-- :lemon: 2 lemon juice
-- :maple_leaf: 1 Tbsp maple syrup
-- :seedling: 3 Tbsp tahini
-- :droplet: 0.25 cup water
-- :salt: some salt
-- :salt: some pepper
+=== "Dressing"
 
-## :salt: Ingredients - Salad
+    - :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+    - :garlic: 1 tsp garlic powder
+    - :tangerine: 2 lemon juice
+    - :honey_pot: 1 Tbsp (20 g) maple syrup
+    - :seedling: 3 Tbsp (48 g) tahini
+    - :droplet: 0.25 cup (57 g) water
+    - :salt: some salt
+    - :salt: some pepper
 
-- :blue_circle: 2 cups fresh blueberries
-- :falafel: 1 can cooked chickpeas
-- :cucumber: 1 cup cucumber
-- :leafy_green: 4 cups red cabbage
-- :leafy_green: 1 handful mixed salad greens
-- :chestnut: 0.25 cup walnuts
+=== "Salad"
+
+    - :apple: 2 cups (340 g) fresh blueberries
+    - :beans: 1 can cooked chickpeas
+    - :cucumber: 1 cup cucumber
+    - :grapes: 4 cups (840 g) red cabbage
+    - :carrot: 1 handful mixed salad greens
+    - :chestnut: 0.25 cup (32 g) walnuts
 
 ## :cooking: Cookware
 
@@ -60,4 +62,4 @@ Serve and enjoy!
 
 - <https://nutritionstudies.org/recipes/salad/blueberry-chickpea-salad/>
 
-[1]: <../../assets/images/blueberry-chickpea-salad.jpg>
+[1]: <../../assets/images/blueberry-chickpea-salad.webp>

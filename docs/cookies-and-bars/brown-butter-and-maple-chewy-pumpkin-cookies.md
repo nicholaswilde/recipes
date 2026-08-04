@@ -5,7 +5,7 @@ tags:
   - cookie
   - bake-off
   - dessert
-hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg
+hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp
 ---
 
 # :jack_o_lantern: Brown Butter and Maple Chewy Pumpkin Cookies
@@ -16,26 +16,28 @@ hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 cookies | 55 minutes |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :butter: 220 g unsalted butter
-- :ear_of_rice: 280 g all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 0.5 tsp baking powder
-- :salt: 0.5 tsp salt
-- :jack_o_lantern: 1.5 tsp pumpkin pie spice
-- :custard: 0.5 tsp cinnamon
-- :maple_leaf: 280 g dark brown sugar
-- :egg: 1 large egg yolk
-- :maple_leaf: 3 Tbsp maple syrup
-- :icecream: 1 tsp vanilla
-- :jack_o_lantern: 80 g pumpkin purée
+=== "Cookies"
 
-## :salt: Ingredients - Coating
+    - :butter: 220 g unsalted butter
+    - :bread: 280 g all-purpose flour
+    - :chestnut: 1 tsp baking soda
+    - :chestnut: 0.5 tsp baking powder
+    - :salt: 0.5 tsp salt
+    - :chestnut: 1.5 tsp (6 g) pumpkin pie spice
+    - :chestnut: 0.5 tsp (2 g) cinnamon
+    - :candy: 280 g dark brown sugar
+    - :egg: 1 large egg yolk
+    - :honey_pot: 3 Tbsp (58 g) maple syrup
+    - :flower_playing_cards: 1 tsp vanilla
+    - :melon: 80 g pumpkin purée
 
-- :maple_leaf: 1.5 Tbsp light brown sugar
-- :candy: 1.5 Tbsp granulated sugar
-- :custard: 0.75 tsp cinnamon
+=== "Coating"
+
+    - :candy: 1.5 Tbsp (20 g) light brown sugar
+    - :candy: 1.5 Tbsp (19 g) granulated sugar
+    - :chestnut: 0.75 tsp (3 g) cinnamon
 
 ## :cooking: Cookware
 
@@ -116,4 +118,4 @@ Allow the cookies to cool, then dig in!
 - <https://butternutbakeryblog.com/chewy-pumpkin-cookies/>
 - <https://www.thepancakeprincess.com/2022/10/28/best-pumpkin-cookie-bake-off/>
 
-[1]: <../assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.jpg>
+[1]: <../assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp>

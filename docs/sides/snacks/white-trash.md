@@ -1,9 +1,10 @@
 ---
-hero: assets/images/white-trash.jpg
+hero: assets/images/white-trash.webp
 ---
-# White Trash
 
-![White Trash](../../assets/images/white-trash.jpg){ loading=lazy }
+# :beans: White Trash
+
+![White Trash](../../assets/images/white-trash.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -11,12 +12,12 @@ hero: assets/images/white-trash.jpg
 
 ## :salt: Ingredients
 
-- 3 cups crispy corn cereal squares
-- 3 cups crispy rice cereal squares
-- 3 cups toasted oat cereal
-- 2 cups miniature pretzels
-- 2 cups salted peanuts
-- 20 oz white chocolate chips
+- :bread: 3 cups (456 g) crispy corn cereal squares
+- :rice: 3 cups (594 g) crispy rice cereal squares
+- :olive: 3 cups (255 g) toasted oat cereal
+- :pretzel: 2 cups miniature pretzels
+- :chestnut: 2 cups (452 g) salted peanuts
+- :chocolate_bar: 20 oz (425 g) white chocolate chips
 
 ## :cooking: Cookware
 

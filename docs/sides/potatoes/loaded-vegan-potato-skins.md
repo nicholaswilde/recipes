@@ -5,7 +5,7 @@ tags:
   - side
   - vegan
   - nutrition-studies
-hero: assets/images/loaded-vegan-potato-skins.jpg
+hero: assets/images/loaded-vegan-potato-skins.webp
 ---
 
 # :potato: Loaded Vegan Potato Skins
@@ -18,16 +18,16 @@ hero: assets/images/loaded-vegan-potato-skins.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1 lb potatoes
-- :glass_of_milk: 0.5 cup dairy-free milk
-- :egg: 2 Tbsp [tofu mayonnaise][2]
+- :sweet_potato: 1 lb potatoes
+- :glass_of_milk: 0.5 cup (113 g) dairy-free milk
+- 2 Tbsp [tofu mayonnaise][2]
 - :salt: 1 tsp salt
 - :salt: some pepper
 - :garlic: 1 tsp garlic powder
-- :onion: 1 tsp onion powder
-- :bell_pepper: 1 tsp smoked paprika
+- :chestnut: 1 tsp (2 g) onion powder
+- :hot_pepper: 1 tsp smoked paprika
 - :cheese_wedge: some [Creamy Vegan Cheese Sauce][3]
-- :leafy_green: some chives
+- some chives
 - :herb: some cilantro
 
 ## :cooking: Cookware
@@ -64,6 +64,6 @@ Drizzle with [Creamy Vegan Cheese Sauce][3], then top with more smoked paprika, 
 
 - <https://nutritionstudies.org/recipes/appetizer/loaded-vegan-potato-skins/>
 
-[1]: <../../assets/images/loaded-vegan-potato-skins.jpg>
+[1]: <../../assets/images/loaded-vegan-potato-skins.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/tofu-mayonnaise.md>
 [3]: <../../sauces-and-dressings/gravy-and-savory-sauces/creamy-vegan-cheese-sauce.md>

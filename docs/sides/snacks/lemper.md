@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - indonesian
-hero: assets/images/lemper.jpg
+hero: assets/images/lemper.webp
 ---
 
 # :burrito: Lemper
 
-![Lemper](../../assets/images/lemper.jpg){ loading=lazy }
+![Lemper](../../assets/images/lemper.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,17 +16,17 @@ hero: assets/images/lemper.jpg
 
 ## :salt: Ingredients
 
-- :rice: 5 cups sweet rice
+- :ear_of_rice: 5 cups (140 g) sweet rice
 - :coconut: 1 can coconut milk
 - :droplet: 1 can water
 - :salt: 1 tsp salt
-- :leafy_green: 2 bay leaves
-- :cut_of_meat: 2 lbs ground beef
-- :onion: 1 medium onion
+- :herb: 2 bay leaves
+- :apple: 2 lbs ground beef
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
-- :chestnut: 0.5 tsp sambal oelek
+- 0.5 tsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md)
 - :salt: 0.5 tsp salt
-- :candy: 2 tsp sugar
+- :candy: 2 tsp (6 g) sugar
 - :chestnut: 1 pkg soto ayam spice
 
 ## :cooking: Cookware
@@ -56,7 +56,8 @@ mixture back to steamer and cool for another 30 to 45 minutes until done.
 
 ### Step 5
 
-Meat filling: Cook ground beef with finely chopped onion and garlic until brown. Add 1/2 tsp sambal oelek, 1/2 tsp salt,
+Meat filling: Cook ground beef with finely chopped onion and garlic until brown.
+Add 1/2 tsp [Sambal Oelek](../../sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md), 1/2 tsp salt,
 2 tsp sugar, 1 package of soto ayam spice (you can purchase it at any Asian market) add more salt and sugar to taste.
 
 ### Step 6

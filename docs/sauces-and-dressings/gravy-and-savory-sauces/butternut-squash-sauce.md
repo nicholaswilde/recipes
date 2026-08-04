@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/butternut-squash-sauce.jpg
+hero: assets/images/butternut-squash-sauce.webp
 ---
 
 # :sweet_potato: Butternut Squash Sauce
@@ -16,14 +16,14 @@ hero: assets/images/butternut-squash-sauce.jpg
 
 ## :salt: Ingredients
 
-- :stew: 2 cups [vegetable broth][2]
-- :onion: 2 small shallots
-- :sweet_potato: 2 lbs butternut squash
-- :hot_pepper: 0.13 tsp red pepper flakes
+- 2 cups [vegetable broth][2]
+- :garlic: 2 small shallots
+- 2 lbs butternut squash
+- :hot_pepper: 0.13 tsp (1 g) red pepper flakes
 - :sweet_potato: some ginger
 - :salt: some salt
 - :salt: some pepper
-- :chestnut: some nutmeg
+- :apple: some nutmeg
 - :garlic: 2 cloves garlic
 
 ## :cooking: Cookware
@@ -61,7 +61,7 @@ Add the garlic until fragrant.
 
 ### Step 7
 
-Add the vegetable broth. Reduce the heat and simmer until the squash is soft and the liquid is reduced by half, about 15
+Add the [Vegetable Broth](../../ingredients/vegetable-broth.md). Reduce the heat and simmer until the squash is soft and the liquid is reduced by half, about 15
 to 20 minutes.
 
 ### Step 8
@@ -76,5 +76,5 @@ Season to taste.
 
 - <https://cookieandkate.com/creamy-vegan-butternut-squash-linguine-with-fried-sage/>
 
-[1]: <../../assets/images/butternut-squash-sauce.jpg>
+[1]: <../../assets/images/butternut-squash-sauce.webp>
 [2]: <../../ingredients/vegetable-broth.md>

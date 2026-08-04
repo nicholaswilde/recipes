@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg
+hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.webp
 ---
-# Slow Cooker Vegetarian Black-Eyed Peas
+
+# :beans: Slow Cooker Vegetarian Black-Eyed Peas
 
 ![Slow Cooker Vegetarian Black-Eyed Peas][1]{ loading=lazy }
 
@@ -14,17 +15,17 @@ hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg
 
 ## :salt: Ingredients
 
-- :beans: 1.5 cups (270 g) dried black-eyed peas
+- :beans: 1.5 cups (262 g) dried black-eyed peas
 - :garlic: 2 cloves garlic, minced
-- :onion: 1 cup (140 g) red onion, diced
-- :hot_pepper: 0.5 cup (70 g) red bell pepper (diced)
-- :hot_pepper: 0.5 cup (70 g) green bell pepper (diced)
-- :hot_pepper: 2 tsp Tabasco
+- :tea: 1 cup (142 g) red onion, diced
+- :hot_pepper: 0.5 cup (64 g) red bell pepper (diced)
+- :hot_pepper: 0.5 cup (85 g) green bell pepper (diced)
+- 2 tsp Tabasco
 - :salt: 1 tsp salt
-- :salt: 1 tsp liquid smoke
-- :baby_bottle: 1 tsp yellow mustard
+- 1 tsp liquid smoke
+- :seedling: 1 tsp (3 g) yellow mustard
 - :herb: 1 bay leaf
-- :stew: 5 cups (1.15 kg) [vegetable broth][2]
+- 5 cups (1.15 kg) [vegetable broth][2]
 
 ## :cooking: Cookware
 
@@ -39,12 +40,11 @@ Rinse and sort (270 g) dried black-eyed peas.
 ### Step 2
 
 Add garlic, minced, (140 g) red onion, diced, (70 g) red bell pepper (diced), (70 g) green bell pepper (diced) Tabasco,
-salt, liquid smoke, yellow mustard, bay leaf, and vegetable broth to slow cooker.
+salt, liquid smoke, yellow mustard, bay leaf, and [Vegetable Broth](../ingredients/vegetable-broth.md) to slow cooker.
 
 ### Step 3
 
 Cook on high for 4 to 5 hours or low 6 to 7 hours.
 
-[1]: <../assets/images/slow-cooker-vegetarian-black-eyed-peas.jpg>
+[1]: <../assets/images/slow-cooker-vegetarian-black-eyed-peas.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

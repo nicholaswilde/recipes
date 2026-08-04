@@ -6,12 +6,12 @@ tags:
   - italian
   - cooks-illustrated
   - pesto
-hero: assets/images/cook's-country-perfect-pesto.jpg
+hero: assets/images/cook's-country-perfect-pesto.webp
 ---
 
 # :herb: Cook's Country Perfect Pesto
 
-![Cook's Country Perfect Pesto](../../../assets/images/cook's-country-perfect-pesto.jpg){ loading=lazy }
+![Cook's Country Perfect Pesto](../../../assets/images/cook's-country-perfect-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,11 +19,11 @@ hero: assets/images/cook's-country-perfect-pesto.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup pine nuts
-- :olive: 0.75 cup olive oil, divided
+- :chestnut: 0.5 cup (71 g) pine nuts
+- :olive: 0.75 cup (150 g) olive oil, divided
 - :herb: 4 oz basil stems
 - :salt: 2.25 tsp salt, divided
-- :cheese_wedge: 1.25 oz Parmesan
+- :cheese_wedge: 1.25 oz (16 g) Parmesan
 - :garlic: 2 cloves garlic
 
 ## :cooking: Cookware

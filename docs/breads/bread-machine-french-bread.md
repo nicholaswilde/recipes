@@ -4,12 +4,12 @@ tags:
 
   - bread
   - bread-machine
-hero: assets/images/bread-machine-french-bread.jpg
+hero: assets/images/bread-machine-french-bread.webp
 ---
 
 # :bread: Bread Machine French Bread
 
-![Bread Machine French Bread](../assets/images/bread-machine-french-bread.jpg){ loading=lazy }
+![Bread Machine French Bread](../assets/images/bread-machine-french-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,12 +17,20 @@ hero: assets/images/bread-machine-french-bread.jpg
 
 ## :salt: Ingredients
 
-- :hotsprings: 1.33 cups (303 g) warm water
-- :olive: 1.5 Tbsp olive oil
+=== "White"
+
+    - :bread: 4 cups (480 g) bread flour
+
+=== "20% Whole Wheat"
+
+    - :bread: 384 g bread flour
+    - :bread: 98 g whole wheat flour
+
+- :droplet: 1.33 cups (302 g) warm water
+- :olive: 1.5 Tbsp (19 g) olive oil
 - :salt: 1 Tbsp salt
-- :candy: 2 Tbsp sugar
-- :ear_of_rice: 4 cups (480 g) bread flour
-- :microbe: 2.25 tsp (7 g) yeast
+- :candy: 2 Tbsp (20 g) sugar
+- :tea: 2.25 tsp (7 g) yeast
 
 ## :cooking: Cookware
 

@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - vegan
-hero: assets/images/whipped-almond-ricotta.jpg
+hero: assets/images/whipped-almond-ricotta.webp
 ---
 
-# :chestnut: Whipped Almond Ricotta
+# :chestnut: Whipped Almond [ricotta](../../ingredients/ricotta.md)
 
-![Whipped Almond Ricotta](../../assets/images/whipped-almond-ricotta.jpg){ loading=lazy }
+![Whipped Almond ricotta](../../assets/images/whipped-almond-ricotta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/whipped-almond-ricotta.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 2 cups slivered [blanched almonds][1]
-- :microbe: 3 tsp nutritional yeast
-- :lemon: 2 Tbsp lemon juice
+- 2 cups slivered [blanched almonds][1]
+- :cheese_wedge: 3 tsp (4 g) nutritional yeast
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :garlic: 1 dash garlic powder
-- :herb: 3 Tbsp basil, oregano, or parsley (optional)
-- :droplet: 1 cup water
+- :apple: 3 Tbsp basil, oregano, or parsley (optional)
+- :droplet: 1 cup (227 g) water
 - :salt: 0.75 tsp salt
 
 ## :cooking: Cookware

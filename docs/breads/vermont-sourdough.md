@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/vermont-sourdough.jpg
+hero: assets/images/vermont-sourdough.webp
 ---
 
 # :bread: Vermont Sourdough
@@ -18,19 +18,21 @@ hero: assets/images/vermont-sourdough.jpg
 
 The [Sourdough Calculator][3] may be used to generate a recipe.
 
-## :salt: Ingredients - Liquid Levain
+## :salt: Ingredients
 
-- :ear_of_rice: 135 g all-purpose flour
-- :droplet: 170 g cool water
-- :microbe: 14 g ripe [sourdough starter][2]
+=== "Liquid Levain"
 
-## :salt: Ingredients - Dough
+    - :bread: 135 g all-purpose flour
+    - :droplet: 170 g cool water
+    - :tomato: 14 g ripe [sourdough starter][2]
 
-- :ear_of_rice: 660 g all-purpose flour
-- :ear_of_rice: 93 g whole wheat flour
-- :droplet: 440 g water
-- :microbe: all of the levain
-- :salt: 18 g salt
+=== "Dough"
+
+    - :bread: 660 g all-purpose flour
+    - :bread: 93 g whole wheat flour
+    - :droplet: 440 g water
+    - :bread: all of the levain
+    - :salt: 18 g salt
 
 ## :salt: Mix Ins (Optional)
 
@@ -194,7 +196,7 @@ Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze f
 
 - <https://www.kingarthurbaking.com/recipes/vermont-sourdough-recipe>
 
-[1]: <../assets/images/vermont-sourdough.jpg>
+[1]: <../assets/images/vermont-sourdough.webp>
 [2]: <../ingredients/sourdough-starter.md>
 [3]: <https://nicholaswilde.io/sourdough-calculator/>
 [4]: <../ingredients/roasted-garlic.md>

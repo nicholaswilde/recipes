@@ -5,7 +5,7 @@ tags:
   - cookie
   - dorie-greenspan
   - dessert
-hero: assets/images/world-peace-cookies.jpg
+hero: assets/images/world-peace-cookies.webp
 ---
 
 # :cookie: World Piece Cookies
@@ -18,15 +18,15 @@ hero: assets/images/world-peace-cookies.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 170 g all-purpose flour
+- :bread: 170 g all-purpose flour
 - :chocolate_bar: 28 g unsweetened cocoa powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :chestnut: 0.5 tsp baking soda
 - :butter: 155 g unsalted butter
 - :candy: 50 g granulated sugar
-- :maple_leaf: 134 g light brown sugar
+- :candy: 134 g light brown sugar
 - :salt: 0.25 tsp salt
-- :icecream: 1 tsp vanilla
-- :chocolate_bar: 142 g bittersweet chocolate pieces
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: 142 g bittersweet chocolate pieces
 
 ## :cooking: Cookware
 
@@ -86,4 +86,4 @@ Bake the remaining dough.
 - <https://doriegreenspan.com/recipe/world-peace-cookies-the-newest-version-from-dories-cookies-sneak-peek/>
 - <https://www.youtube.com/watch?v=CXAGViXspMk>
 
-[1]: <../assets/images/world-peace-cookies.jpg>
+[1]: <../assets/images/world-peace-cookies.webp>

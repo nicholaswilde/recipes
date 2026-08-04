@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - cooks-illustrated
-hero: assets/images/mayonnaise.jpg
+hero: assets/images/mayonnaise.webp
 ---
 
 # :egg: Mayonnaise
 
-![Mayonnaise](../../assets/images/mayonnaise.jpg){ loading=lazy }
+![Mayonnaise](../../assets/images/mayonnaise.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,11 +18,11 @@ hero: assets/images/mayonnaise.jpg
 ## :salt: Ingredients
 
 - :egg: 1 large egg
-- :sake: 4 tsp white wine vinegar
-- :hotdog: 0.5 tsp [Dijon mustard][2]
+- :wine_glass: 4 tsp (12 g) white wine vinegar
+- 0.5 tsp [Dijon mustard][2]
 - :salt: 0.75 tsp salt
-- :candy: 0.25 tsp sugar
-- :oil_drum: 1.5 cups (297 g) vegetable oil
+- :candy: 0.25 tsp (1 g) sugar
+- :olive: 1.5 cups (297 g) vegetable oil
 
 ## :cooking: Cookware
 

@@ -4,7 +4,7 @@ tags:
 
   - main
   - the-blue-zones-kitchen
-hero: assets/images/fresh-fava-beans-with-mint-and-scallions.jpg
+hero: assets/images/fresh-fava-beans-with-mint-and-scallions.webp
 ---
 
 # :onion: Fresh Fava Beans with Mint & Scallions
@@ -17,14 +17,14 @@ hero: assets/images/fresh-fava-beans-with-mint-and-scallions.jpg
 
 ## :salt: Ingredients
 
-- :onion: 1 small bunch scallions
-- :olive: 4 Tbsp olive oil
-- :canned_food: 2 cups cooked fava beans
-- :droplet:1 cup water
-- :herb: 0.5 cup chopped mint
+- :tea: 1 small bunch scallions
+- :olive: 4 Tbsp (50 g) olive oil
+- :beans: 2 cups (430 g) cooked fava beans
+- :droplet: 1 cup (227 g) water
+- :shamrock: 0.5 cup chopped mint
 - :salt: some salt
 - :salt: some pepper
-- :leafy_green: some fennel
+- some fennel
 
 ## :cooking: Cookware
 
@@ -54,5 +54,5 @@ Serve with fennel and [sun-dried tomato sauté][2].
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/fresh-fava-beans-with-mint-and-scallions.jpg>
+[1]: <../assets/images/fresh-fava-beans-with-mint-and-scallions.webp>
 [2]: <./cabbage-and-sun-dried-tomato-sauté.md>

@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - claire-saffitz
-hero: assets/images/lemon-bundt-cake.jpg
+hero: assets/images/lemon-bundt-cake.webp
 ---
 
 # :cake: Lemon Bundt Cake
@@ -16,25 +16,27 @@ hero: assets/images/lemon-bundt-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.25 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 405 g all-purpose flour
-- :dash: 2.5 tsp baking powder
-- :salt: 1 tsp kosher salt
-- :cup_with_straw: 0.5 tsp baking soda
-- :glass_of_milk: 240 g whole milk
-- :icecream: 2 tsp vanilla
-- :lemon: 170 g Meyer lemon juice
-- :lemon: 2 Meyer lemon zest
-- :candy: 479 g granulated sugar
-- :egg: 4 large eggs
-- :olive: 267 g olive oil
+=== "Cake"
 
-## :salt: Ingredients - Glaze
+    - :bread: 405 g all-purpose flour
+    - :chestnut: 2.5 tsp baking powder
+    - :salt: 1 tsp kosher salt
+    - :chestnut: 0.5 tsp baking soda
+    - :glass_of_milk: 240 g whole milk
+    - :flower_playing_cards: 2 tsp vanilla
+    - :tangerine: 170 g Meyer lemon juice
+    - :tangerine: 2 Meyer lemon zest
+    - :candy: 479 g granulated sugar
+    - :egg: 4 large eggs
+    - :olive: 267 g olive oil
 
-- :candy: 132 g granulated sugar
-- :lemon: 114 g Meyer lemon juice
-- :olive: 25 g olive oil
+=== "Glaze"
+
+    - :candy: 132 g granulated sugar
+    - :tangerine: 114 g Meyer lemon juice
+    - :olive: 25 g olive oil
 
 ## :cooking: Cookware
 
@@ -65,7 +67,7 @@ In a medium bowl, whisk the all-purpose flour, baking powder, kosher salt, and b
 
 ### Step 4
 
-In a separate bowl, mix the whole milk, vanilla, 1/4 cup (57 g) of Meyer lemon juice to make a home made buttermilk.
+In a separate bowl, mix the whole milk, vanilla, 1/4 cup (57 g) of Meyer lemon juice to make a home made [buttermilk](../../ingredients/buttermilk.md).
 Curdling is okay.
 
 !!! note
@@ -156,4 +158,4 @@ Wait for the cake to cool and the glaze to crystallize before serving.
 
 - <https://www.youtube.com/watch?v=KhGI83cHJgo>
 
-[1]: <../../assets/images/lemon-bundt-cake.jpg>
+[1]: <../../assets/images/lemon-bundt-cake.webp>

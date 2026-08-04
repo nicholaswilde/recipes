@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - sourdough
-hero: assets/images/stiff-sourdough-starter.jpg
+hero: assets/images/stiff-sourdough-starter.webp
 ---
 
 # :microbe: Stiff Sourdough Starter
@@ -15,22 +15,24 @@ hero: assets/images/stiff-sourdough-starter.jpg
 |:-----------------------: |
 | 0 minutes |
 
-## :salt: Ingredients - Flour Mixture
+## :salt: Ingredients
 
-- :ear_of_rice: 150 g whole wheat
-- :ear_of_rice: 180 g all-purpose flour
+=== "Flour Mixture"
 
-## :salt: Ingredients - Conversion
+    - :bread: 150 g whole wheat
+    - :bread: 180 g all-purpose flour
 
-- :microbe: 10 g [sourdough starter][2]
-- :ear_of_rice: 50 g flour mixture
-- :droplet: 25 g water
+=== "Conversion"
 
-## :salt: Ingredients - Maintenance
+    - 10 g [sourdough starter][2]
+    - :chestnut: 50 g flour mixture
+    - :droplet: 25 g water
 
-- :microbe: 10 g [sourdough starter][2]
-- :ear_of_rice: 20 g flour mixture
-- :droplet: 10 g water
+=== "Maintenance"
+
+    - 10 g [sourdough starter][2]
+    - :chestnut: 20 g flour mixture
+    - :droplet: 10 g water
 
 ## :pencil: Instructions - Flour Mixture
 
@@ -88,5 +90,5 @@ Feed once a week.
 - <https://www.kingarthurbaking.com/recipes/a-smaller-sourdough-starter-recipe>
 - <https://www.kingarthurbaking.com/blog/2018/10/30/maintaining-a-smaller-sourdough-starter>
 
-[1]: <../assets/images/stiff-sourdough-starter.jpg>
+[1]: <../assets/images/stiff-sourdough-starter.webp>
 [2]: <./sourdough-starter.md>

@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/holiday-butter-cookies.jpg
+hero: assets/images/holiday-butter-cookies.webp
 ---
 
 # :butter: Holiday Butter Cookies
@@ -17,8 +17,8 @@ hero: assets/images/holiday-butter-cookies.jpg
 
 ## :salt: Ingredients
 
-- :butter: 18 Tbsp (255 g) salted butter
-- :candy: 1.25 cups (142 g) confectioners' sugar
+- :butter: 18 Tbsp (254 g) salted butter
+- :candy: 1.25 cups (141 g) confectioners' sugar
 - :egg: 1 large egg yolk
 - :salt: 0.5 tsp table salt
 - :flower_playing_cards: 1 tsp vanilla extract
@@ -87,4 +87,4 @@ When cool, ice and decorate as desired.
 
 - [The Pancake Princess - Best Sugar Cookie Bake-Off](https://www.thepancakeprincess.com/2017/12/20/best-sugar-cookie-bake-off/)
 
-[1]: <../assets/images/holiday-butter-cookies.jpg>
+[1]: <../assets/images/holiday-butter-cookies.webp>

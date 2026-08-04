@@ -5,12 +5,12 @@ tags:
   - sauce
   - italian
   - the-new-york-times
-hero: assets/images/tomato-bruschetta.jpg
+hero: assets/images/tomato-bruschetta.webp
 ---
 
 # :tomato: Tomato Bruschetta
 
-![Tomato Bruschetta](../../assets/images/tomato-bruschetta.jpg){ loading=lazy }
+![Tomato Bruschetta](../../assets/images/tomato-bruschetta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -20,11 +20,11 @@ hero: assets/images/tomato-bruschetta.jpg
 
 - :tomato: 1 lb plum tomatoes
 - :salt: 1 tsp salt
-- :olive: 5 Tbsp olive oil
+- :olive: 5 Tbsp (62 g) olive oil
 - :garlic: 2 cloves garlic, minced
 - :herb: 8 large basil leaves
 - :salt: some pepper
-- :bread: 4 slices toasted bread
+- :potato: 4 slices toasted bread
 
 ## :cooking: Cookware
 

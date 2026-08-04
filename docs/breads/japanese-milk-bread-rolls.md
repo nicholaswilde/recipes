@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/japanese-milk-bread-rolls.jpg
+hero: assets/images/japanese-milk-bread-rolls.webp
 ---
 
 # :bread: Japanese Milk Bread Rolls
@@ -21,27 +21,29 @@ hero: assets/images/japanese-milk-bread-rolls.jpg
 |:-------------------:|:---------------:|:--------------------:|
 |        1 part       |      3 parts    |        3 parts       |
 
-## :salt: Ingredients - Tangzhong
+## :salt: Ingredients
 
-- :ear_of_rice: 14 g bread flour
-- :droplet: 43 g water
-- :glass_of_milk: 43 g whole milk
+=== "Tangzhong"
 
-## :salt: Ingredients - Dough
+    - :bread: 14 g bread flour
+    - :droplet: 43 g water
+    - :glass_of_milk: 43 g whole milk
 
-- :ear_of_rice: 300 g bread flour
-- :glass_of_milk: 14 g milk powder
-- :candy: 50 g granulated sugar
-- :salt: 2 tsp salt
-- :microbe: 1 Tbsp instant yeast
-- :glass_of_milk: 113 g whole milk
-- :egg: 1 large egg
-- :butter: 57 g unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Egg Wash
+    - :bread: 300 g bread flour
+    - :glass_of_milk: 14 g milk powder
+    - :candy: 50 g granulated sugar
+    - :salt: 2 tsp salt
+    - :tea: 1 Tbsp (9 g) instant yeast
+    - :glass_of_milk: 113 g whole milk
+    - :egg: 1 large egg
+    - :butter: 57 g unsalted butter
 
-- :egg: 1 large egg
-- :ice_cube: 1 Tbsp cold water
+=== "Egg Wash"
+
+    - :egg: 1 large egg
+    - :baby_bottle: 1 Tbsp (14 g) cold water
 
 ## :cooking: Cookware
 
@@ -104,4 +106,4 @@ completely.
 
 - <https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe>
 
-[1]: <../assets/images/japanese-milk-bread-rolls.jpg>
+[1]: <../assets/images/japanese-milk-bread-rolls.webp>

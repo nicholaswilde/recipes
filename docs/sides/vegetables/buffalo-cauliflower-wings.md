@@ -4,7 +4,7 @@ tags:
 
   - side
   - nora-cooks
-hero: assets/images/buffalo-cauliflower-wings.jpg
+hero: assets/images/buffalo-cauliflower-wings.webp
 ---
 
 # :broccoli: Buffalo Cauliflower Wings
@@ -19,14 +19,14 @@ hero: assets/images/buffalo-cauliflower-wings.jpg
 
 - :broccoli: 1 head cauliflower
 - :droplet: 1 cup (227 g) water
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
+- :bread: 0.75 cup (90 g) all-purpose flour
 - :garlic: 1 Tbsp garlic powder
-- :onion: 1 Tbsp onion powder
+- :chestnut: 1 Tbsp (7 g) onion powder
 - :salt: 0.5 tsp salt
-- :butter: 1 Tbsp unsalted butter
-- :hot_pepper: 1 cup Frank's Hot Sauce
-- :maple_leaf: 1 Tbsp maple syrup or agave
-- :green_salad: 1 cup [ranch dressing][2]
+- :butter: 1 Tbsp (14 g) unsalted butter
+- :apple: 1 cup (228 g) Frank's Hot Sauce
+- :honey_pot: 1 Tbsp (21 g) maple syrup or agave
+- 1 cup [ranch dressing][2]
 
 ## :cooking: Cookware
 
@@ -80,12 +80,12 @@ Serve with [ranch dressing][2].
 
 !!! note
 
-    To make them extra-crispy, roll the cauliflower in panko breadcrumbs (you will need about 1.5 cups) once they are
+    To make them extra-crispy, roll the cauliflower in panko [Breadcrumbs](../../ingredients/breadcrumbs.md) (you will need about 1.5 cups) once they are
     coated in the flour/milk mixture. Then bake per the instructions.
 
 ## :link: Source
 
 - <https://www.noracooks.com/vegan-cauliflower-buffalo-wings/>
 
-[1]: <../../assets/images/buffalo-cauliflower-wings.jpg>
+[1]: <../../assets/images/buffalo-cauliflower-wings.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/ranch-dressing.md>

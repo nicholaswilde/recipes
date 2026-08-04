@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/chile-crisp-fettuccine-alfredo-with-spinach.webp
 ---
+
 # :spaghetti: Chile Crisp Fettuccine Alfredo With Spinach
 
 ![Chile Crisp Fettuccine Alfredo With Spinach][1]{ loading=lazy }
@@ -14,13 +16,13 @@ tags:
 ## :salt: Ingredients
 
 - :droplet: water, for boiling
-- :salt: salt, to taste
-- :butter: 4 Tbsp (56 g) butter
-- :hot_pepper: 1 to 2 Tbsp chile crisp, plus more to taste
+- :candy: salt, to taste
+- :butter: 4 Tbsp butter
+- :baby_bottle: 1 to 2 Tbsp chile crisp, plus more to taste
 - :glass_of_milk: 1 cup (227 g) heavy cream
 - :bread: 1 lb dried fettuccine
 - :leafy_green: 5 oz baby spinach
-- :cheese_wedge: ¾ cup (64 g) finely grated Parmesan, plus more for serving
+- :baby_bottle: ¾ cup finely grated Parmesan, plus more for serving
 
 ## :cooking: Cookware
 
@@ -64,4 +66,4 @@ Divide among serving dishes and top with more Parmesan and chile crisp if you'd 
 
 - <https://cooking.nytimes.com/recipes/1023609-chile-crisp-fettuccine-alfredo-with-spinach>
 
-[1]: <../assets/images/chile-crisp-fettuccine-alfredo-with-spinach.jpg>
+[1]: <../assets/images/chile-crisp-fettuccine-alfredo-with-spinach.webp>

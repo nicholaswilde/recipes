@@ -5,12 +5,12 @@ tags:
   - dessert
   - gordon-ramsay
   - french
-hero: assets/images/pear-tarte-tatin.jpg
+hero: assets/images/pear-tarte-tatin.webp
 ---
 
 # :pear: Pear Tarte Tatin
 
-![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.jpg){ loading=lazy }
+![Pear Tarte Tatin](../assets/images/pear-tarte-tatin.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,14 +18,14 @@ hero: assets/images/pear-tarte-tatin.jpg
 
 ## :salt: Ingredients
 
-- :pear: 8 pears
+- 8 pears
 - :candy: 100 g sugar
 - :butter: 100 g butter
-- :star: 2 star anise
-- :olive: 3 pods cardamom
-- :custard: 1 large cinnamon stick
-- :tumbler_glass: 2 Tbsp brandy
-- :pie: 500 g all-butter [puff pastry][1]
+- :chestnut: 2 star anise
+- :seedling: 3 pods cardamom
+- :chestnut: 1 large cinnamon stick
+- :cake: 2 Tbsp brandy
+- :baby_bottle: 500 g all-butter [puff pastry][1]
 
 ## :cooking: Cookware
 

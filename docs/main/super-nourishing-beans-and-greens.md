@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/super-nourishing-beans-and-greens.jpg
+hero: assets/images/super-nourishing-beans-and-greens.webp
 ---
-# Super Nourishing Beans and Greens
+
+# :beans: Super Nourishing Beans and Greens
 
 ![Super Nourishing Beans and Greens][1]{ loading=lazy }
 
@@ -14,16 +15,16 @@ hero: assets/images/super-nourishing-beans-and-greens.jpg
 
 ## :salt: Ingredients
 
-- :olive: 4 Tbsp olive oil
+- :olive: 4 Tbsp (50 g) olive oil
 - :garlic: 2 large shallot
 - :garlic: 8 cloves garlic
-- :hot_pepper: 1 tsp red pepper flakes
+- :hot_pepper: 1 tsp (4 g) red pepper flakes
 - :leafy_green: 2 bunches Swiss chard
-- :beans: 2 15-oz cans white beans
+- :glass_of_milk: 2 15-oz cans white beans
 - :salt: 1 tsp salt
-- :stew: 2 cups (455 g) water or [vegetable stock][2]
-- :tangerine: 2 Tbsp lemon juice
-- :cheese_wedge: some sriracha [tofu][3] (optional)
+- :baby_bottle: 2 cups (454 g) water or [vegetable stock][2]
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :hot_pepper: some sriracha [tofu][3] (optional)
 
 ## :cooking: Cookware
 
@@ -58,7 +59,6 @@ or eggs. Keeps for 3 to 4 days in the refrigerator or up to 1 month in the freez
 
 - <https://minimalistbaker.com/super-nourishing-beans-greens/#wprm-recipe-container-102870>
 
-[1]: <../assets/images/super-nourishing-beans-and-greens.jpg>
+[1]: <../assets/images/super-nourishing-beans-and-greens.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/tofu/preparation.md>
-

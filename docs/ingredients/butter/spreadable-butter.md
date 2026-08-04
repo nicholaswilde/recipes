@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/spreadable-butter.jpg
+hero: assets/images/spreadable-butter.webp
 ---
 
 # :butter: Spreadable Butter
 
-![Spreadable Butter](../../assets/images/spreadable-butter.jpg){ loading=lazy }
+![Spreadable Butter](../../assets/images/spreadable-butter.webp){ loading=lazy }
 
 ## :scales: Ratio
 
@@ -23,7 +23,7 @@ hero: assets/images/spreadable-butter.jpg
 ## :salt: Ingredients
 
 - :butter: 227 g unsalted butter
-- :olive: 150 g olive or canola oil
+- :droplet: 150 g olive or canola oil
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

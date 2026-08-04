@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/lentil-meatballs-with-lemon-pesto.jpg
+hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 ---
-# Lentil Meatballs with Lemon Pesto
+
+# :lemon: Lentil Meatballs with Lemon Pesto
 
 ![Lentil Meatballs with Lemon Pesto][1]{ loading=lazy }
 
@@ -14,26 +15,26 @@ hero: assets/images/lentil-meatballs-with-lemon-pesto.jpg
 
 ## :salt: Ingredients
 
-- :beans: 2 cups (400 g) cooked [lentils][2]
-- :egg: 2 [eggs][3]
-- :cheese_wedge: 0.75 cup (170 g) [ricotta cheese](../ingredients/ricotta.md)
-- :cheese_wedge: 0.25 cup (25 g) [Parmesan cheese][4]
+- :ear_of_rice: 2 cups (340 g) cooked [lentils][2]
+- 2 [eggs][3]
+- :blue_circle: 0.75 cup [ricotta cheese](../ingredients/ricotta.md)
+- 0.25 cup [Parmesan cheese][4]
 - :garlic: 1 clove garlic
-- :seedling: 0.5 tsp fennel seed
+- 0.5 tsp fennel seed
 - :herb: 2 Tbsp parsley
 - :herb: 1 pinch thyme
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :bread: 0.67 cup (135 g) panko breadcrumbs
+- :bread: 0.67 cup (34 g) panko [Breadcrumbs](../ingredients/breadcrumbs.md)
 - :garlic: 1 clove garlic
-- :chestnut: 0.25 cup (35 g) pine nuts
+- :chestnut: 0.25 cup (36 g) pine nuts
 - :tangerine: 1 lemon zest
 - :tangerine: 1 lemon juice
 - :salt: 0.5 tsp salt
-- :herb: 1 cup (40 g) fresh basil
-- :olive: 0.33 cup (65 g) olive oil
-- :droplet: 2 Tbsp water
-- :cheese_wedge: 2 Tbsp [Parmesan cheese][4]
+- :herb: 1 cup (42 g) fresh basil
+- :olive: 0.33 cup (66 g) olive oil
+- :droplet: 2 Tbsp (28 g) water
+- 2 Tbsp [Parmesan cheese][4]
 
 ## :cooking: Cookware
 
@@ -50,12 +51,12 @@ In a food processor, pulverize the cooked lentils into mush.
 
 ### Step 2
 
-Put them in a mixing bowl, and add the lightly beaten eggs, Ricotta, grated Parmesan, minced 1 clove of garlic, minced
+Put them in a mixing bowl, and add the lightly beaten eggs, [Ricotta](../ingredients/ricotta.md), grated Parmesan, minced 1 clove of garlic, minced
 fennel seed, chopped parsley, thyme, salt, and pepper.
 
 ### Step 3
 
-Stir in panko breadcrumbs and let sit for 20 minutes.
+Stir in panko [Breadcrumbs](../ingredients/breadcrumbs.md) and let sit for 20 minutes.
 
 ### Step 4
 
@@ -79,8 +80,7 @@ Preheat the oven to 400°F and form lentil mixture into 1-inch balls.
 Line a baking sheet with parchment paper and spray with olive oil. Bake for 15 to 20 minutes on the middle rack, turning
 halfway through.
 
-[1]: <../assets/images/lentil-meatballs-with-lemon-pesto.jpg>
+[1]: <../assets/images/lentil-meatballs-with-lemon-pesto.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../ingredients/eggs.md>
 [4]: <../ingredients/vegan-parmesan.md>
-

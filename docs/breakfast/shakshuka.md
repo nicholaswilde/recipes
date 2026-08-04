@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/shakshuka.jpg
+hero: assets/images/shakshuka.webp
 ---
 
-# Shakshuka
+# :olive: Shakshuka
 
 ![Shakshuka][1]{ loading=lazy }
 
@@ -16,17 +16,17 @@ hero: assets/images/shakshuka.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :hot_pepper: 1 red bell pepper
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
-- :hot_pepper: 2 tsp paprika
-- :chestnut: 1 tsp cumin
-- :hot_pepper: 0.25 tsp chili powder
+- :candy: 2 tsp paprika
+- :chestnut: 1 tsp (3 g) cumin
+- :hot_pepper: 0.25 tsp (1 g) chili powder
 - :tomato: 1 28-oz can whole peeled tomatoes
 - :salt: some salt
 - :salt: some pepper
-- :egg: 6 large [eggs][2]
+- 6 large [eggs][2]
 - :herb: 1 small bunch cilantro
 - :herb: 1 small bunch parsley
 
@@ -69,5 +69,5 @@ Cook the tomatoes in the sauce until tender. Reduce the sauce mixture before add
 
 - <https://downshiftology.com/recipes/shakshuka/>
 
-[1]: <../assets/images/shakshuka.jpg>
+[1]: <../assets/images/shakshuka.webp>
 [2]: <../ingredients/eggs.md>

@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - bake-off
-hero: assets/images/classic-buttermilk-waffles.jpg
+hero: assets/images/classic-[buttermilk](../ingredients/buttermilk.md)-waffles.webp
 ---
 
-# :waffle: Classic Buttermilk Waffles
+# :waffle: Classic [buttermilk](../ingredients/buttermilk.md) Waffles
 
-![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.jpg){ loading=lazy }
+![Classic Buttermilk Waffles](../assets/images/classic-buttermilk-waffles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/classic-buttermilk-waffles.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 3/4 cups (210 g) all-purpose flour
-- :dash: 2 1/4 tsp baking powder
-- :cup_with_straw: 1/4 tsp baking soda
-- :corn: 2 Tbsp (16 g) cornstarch
-- :candy: 3 Tbsp + 1 tsp (40 g) granulated sugar
+- :baby_bottle: 1 3/4 cups all-purpose flour
+- :chestnut: 2 1/4 tsp baking powder
+- :chestnut: 1/4 tsp baking soda
+- :chestnut: 2 Tbsp (14 g) cornstarch
+- :candy: 3 Tbsp (37 g) + 1 tsp granulated sugar
 - :salt: 1/2 tsp fine sea salt
 - :egg: 3 large eggs
-- :glass_of_milk: 3/4 cup (180 g) buttermilk
-- :glass_of_milk: 3/4 cup (180 g) heavy cream
-- :butter: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
+- :icecream: 3/4 cup [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: 3/4 cup (170 g) heavy cream
+- :baby_bottle: 1/2 cup (113 g) unsalted butter, melted and cooled slightly
 
 ## :cooking: Cookware
 
@@ -39,15 +39,17 @@ hero: assets/images/classic-buttermilk-waffles.jpg
 
 ### Step 1
 
-In a bowl, whisk together the all-purpose flour, baking powder, baking soda, cornstarch, granulated sugar, and fine sea salt.
+In a bowl, whisk together the all-purpose flour, baking powder, baking soda, cornstarch, granulated sugar,
+and fine sea salt.
 
 ### Step 2
 
-In another bowl, whisk together the eggs, buttermilk, and heavy cream.
+In another bowl, whisk together the eggs, [buttermilk](../ingredients/buttermilk.md), and heavy cream.
 
 ### Step 3
 
-Using a wooden spoon, stir the wet ingredients into the dry ingredients until a few streaks of flour remain, but the batter is almost mixed together.
+Using a wooden spoon, stir the wet ingredients into the dry ingredients until a few streaks of flour remain,
+but the batter is almost mixed together.
 
 ### Step 4
 

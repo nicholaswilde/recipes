@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - minimalist-baker
-hero: assets/images/sweet-potato-chickpea-buddha-bowl.jpg
+hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
 ---
 
 # :sweet_potato: Sweet Potato Chickpea Buddha Bowl
@@ -15,33 +15,35 @@ hero: assets/images/sweet-potato-chickpea-buddha-bowl.jpg
 |:----------------------------------:|:-----------------------: |
 | 8 | 25 minutes |
 
-## :salt: Ingredients - Vegetables
+## :salt: Ingredients
 
-- :sweet_potato: 5.33 small sweet potatoes
-- :onion: 1.33 medium red onions
-- :olive: 5.33 Tbsp olive oil
-- :broccoli: 2.67 bundles broccolini
-- :salt: 0.67 tsp salt
-- :salt: 0.67 tsp pepper
-- :leafy_green: 5.33 handfuls kale
+=== "Vegetables"
 
-## :salt: Ingredients - Chickpeas
+    - :corn: 5.33 small sweet potatoes
+    - :tea: 1.33 medium red onions
+    - :olive: 5.33 Tbsp (67 g) olive oil
+    - :broccoli: 2.67 bundles broccolini
+    - :salt: 0.67 tsp salt
+    - :salt: 0.67 tsp pepper
+    - :leafy_green: 5.33 handfuls kale
 
-- :falafel: 2.67 15-oz cans chickpeas
-- :herb: 1.67 tsp cumin
-- :hot_pepper: 2 tsp chili powder
-- :garlic: 2 tsp garlic powder
-- :salt: 0.67 tsp salt
-- :salt: 0.67 tsp pepper
-- :herb: some oregano (optional)
-- :curry: 0.67 tsp turmeric (optional)
+=== "Chickpeas"
 
-## :salt: Ingredients - Tahini Sauce
+    - :glass_of_milk: 2.67 15-oz cans chickpeas
+    - :chestnut: 1.67 tsp (5 g) cumin
+    - :hot_pepper: 2 tsp (4 g) chili powder
+    - :garlic: 2 tsp garlic powder
+    - :salt: 0.67 tsp salt
+    - :salt: 0.67 tsp pepper
+    - :leafy_green: some oregano (optional)
+    - :leafy_green: 0.67 tsp (2 g) turmeric (optional)
 
-- :seedling: 0.67 cup tahini
-- :maple_leaf: 2.67 Tbsp maple syrup
-- :lemon: 1.33 medium lemon juice
-- :hot_springs: 5 Tbsp hot water
+=== "Tahini Sauce"
+
+    - :seedling: 0.67 cup (172 g) tahini
+    - :honey_pot: 2.67 Tbsp (52 g) maple syrup
+    - :tangerine: 1.33 medium lemon juice
+    - :droplet: 5 Tbsp (71 g) hot water
 
 ## :cooking: Cookware
 
@@ -100,4 +102,4 @@ Best when fresh, though leftovers will keep for a few days in the fridge.
 
 - <https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/>
 
-[1]: <../assets/images/sweet-potato-chickpea-buddha-bowl.jpg>
+[1]: <../assets/images/sweet-potato-chickpea-buddha-bowl.webp>

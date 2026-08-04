@@ -4,12 +4,12 @@ tags:
 
   - side
   - magnolia
-hero: assets/images/caprese-flatbread.jpg
+hero: assets/images/caprese-flatbread.webp
 ---
 
 # :flatbread: Caprese Flatbread
 
-![Caprese Flatbread](../../assets/images/caprese-flatbread.jpg){ loading=lazy }
+![Caprese Flatbread](../../assets/images/caprese-flatbread.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/caprese-flatbread.jpg
 
 ## :salt: Ingredients
 
-- :flatbread: 2 large flatbread or [naan][2]
-- :herb: 0.5 cup [Balsamic Pesto][1]
-- :cheese_wedge: 8 oz mozzarella
-- :tomato: 1 cup red and/or yellow cherry or grape tomatoes
+- 2 large flatbread or [naan][2]
+- 0.5 cup [Balsamic Pesto][1]
+- :cheese_wedge: 8 oz (113 g) mozzarella
+- :tea: 1 cup (170 g) red and/or yellow cherry or grape tomatoes
 - :herb: some basil
-- :sake: some balsamic glaze (optional)
+- :apple: some balsamic glaze (optional)
 - :salt: some flaky sea salt
 
 ## :cooking: Cookware

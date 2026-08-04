@@ -3,20 +3,20 @@ comments: true
 tags:
 
   - spread
-hero: assets/images/blue-cheese-herb-spread.jpg
+hero: assets/images/blue-cheese-herb-spread.webp
 ---
 
 # :herb: Blue Cheese Herb Spread
 
-![Blue Cheese Herb Spread](../../assets/images/blue-cheese-herb-spread.jpg){ loading=lazy }
+![Blue Cheese Herb Spread](../../assets/images/blue-cheese-herb-spread.webp){ loading=lazy }
 
 ## :salt: Ingredients
 
-- :chestnut: 2 Tbsp walnuts
+- :chestnut: 2 Tbsp (16 g) walnuts
 - :herb: 2 Tbsp parsley
-- :herb: 2 Tbsp chives
-- :cheese_wedge: 0.5 cup blue cheese crumble
-- :cheese_wedge: 8 oz cream cheese
+- 2 Tbsp (5 g) chives
+- :cheese_wedge: 0.5 cup (114 g) blue cheese crumble
+- :cheese_wedge: 8 oz (227 g) cream cheese
 
 ## :cooking: Cookware
 

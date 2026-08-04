@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - mousse
-hero: assets/images/strawberry-mousse.jpg
+hero: assets/images/strawberry-mousse.webp
 ---
 
 # :strawberry: Strawberry Mousse
 
-![Strawberry Mousse](../assets/images/strawberry-mousse.jpg){ loading=lazy }
+![Strawberry Mousse](../assets/images/strawberry-mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/strawberry-mousse.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 pkg silken tofu
-- :icecream: 1 tsp vanilla
-- :strawberry: 1 Tbsp strawberry preserves
-- :strawberry: 1 cup frozen strawberries
+- :cheese_wedge: 1 pkg silken tofu
+- :flower_playing_cards: 1 tsp vanilla
+- :strawberry: 1 Tbsp (21 g) strawberry preserves
+- :strawberry: 1 cup (113 g) frozen strawberries
 - :grapes: 4 Medjool dates
-- :lemon: 2 Tbsp lemon juice
+- :tangerine: 2 Tbsp (28 g) lemon juice
 
 ## :cooking: Cookware
 

@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/pumpkin-seed-parmesan.jpg
+hero: assets/images/pumpkin-seed-parmesan.webp
 ---
 
 # :cheese_wedge: Pumpkin Seed Parmesan
@@ -17,11 +17,11 @@ hero: assets/images/pumpkin-seed-parmesan.jpg
 
 ## :salt: Ingredients
 
-- :jack_o_lantern: 0.5 cup pumpkin seeds
-- :seedling: 0.5 cup sesame seeds
+- :seedling: 0.5 cup (80 g) pumpkin seeds
+- :seedling: 0.5 cup (71 g) sesame seeds
 - :salt: 1 tsp salt
 - :garlic: 0.5 tsp minced garlic
-- :hot_pepper: 0.5 tsp chili powder
+- :hot_pepper: 0.5 tsp (1 g) chili powder
 
 ## :cooking: Cookware
 
@@ -46,4 +46,4 @@ Store in the refrigerator for up to 2 weeks.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/pumpkin-seed-parmesan.jpg>
+[1]: <../assets/images/pumpkin-seed-parmesan.webp>

@@ -4,34 +4,36 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/tart-cherry-pie.jpg
+hero: assets/images/tart-cherry-pie.webp
 ---
 
 # :pie: Tart Cherry Pie
 
-![Tart Cherry Pie](../../assets/images/tart-cherry-pie.jpg){ loading=lazy }
+![Tart Cherry Pie](../../assets/images/tart-cherry-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 9 | 1.58 hours |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :pie: 1 [deluxe butter pastry][1]
-- :cherries: 24 oz frozen tart cherries
-- :candy: 1 cup (198 g) granulated sugar
-- :corn: 2 Tbsp cornstarch
-- :ear_of_rice: 2 Tbsp all-purpose flour
-- :chestnut: 0.5 tsp almond extract
-- :butter: 1 Tbsp unsalted butter
-- :tumbler_glass: 1 Tbsp amaretto
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :glass_of_milk: 1 [deluxe butter pastry][1]
+    - :carrot: 24 oz (339 g) frozen tart cherries
+    - :candy: 1 cup (198 g) granulated sugar
+    - :chestnut: 2 Tbsp (14 g) cornstarch
+    - :bread: 2 Tbsp (15 g) all-purpose flour
+    - :flower_playing_cards: 0.5 tsp (3 g) almond extract
+    - :butter: 1 Tbsp (14 g) unsalted butter
+    - 1 Tbsp amaretto
 
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :maple_leaf: 0.5 cup (106 g) brown sugar
-- :ear_of_rice: 0.25 cup rolled oats
-- :butter: 6 Tbsp melted butter
+=== "Topping"
+
+    - :bread: 1 cup (120 g) all-purpose flour
+    - :maple_leaf: 0.5 cup (106 g) brown sugar
+    - :ear_of_rice: 0.25 cup (28 g) rolled oats
+    - :glass_of_milk: 6 Tbsp (102 g) melted butter
 
 ## :cooking: Cookware
 
@@ -86,6 +88,10 @@ Allow pie to cool on a wire rack until completely cooled before cutting into it 
 it before then the pie filling won't be set). The longer the pie rests, the easier it is to serve! Can be made a few
 days ahead of time. Pie is best served at room temp or just slightly warm. Serves 9. Great with vanilla bean ice cream.
 Enjoy!
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Sources
 

@@ -4,7 +4,7 @@ tags:
 
   - side
   - nutrition-studies
-hero: assets/images/bow-tie-pasta-chips.jpg
+hero: assets/images/bow-tie-pasta-chips.webp
 ---
 
 # :ribbon: Bow Tie Pasta Chips
@@ -17,10 +17,10 @@ hero: assets/images/bow-tie-pasta-chips.jpg
 
 ## :salt: Ingredients
 
-- :ribbon: 2 cups whole-grain bow tie pasta
-- :falafel: 1 Tbsp aquafaba
-- :microbe: 1 Tbsp nutritional yeast
-- :herb: 1.5 tsp Italian seasoning
+- :ribbon: 2 cups (226 g) whole-grain bow tie pasta
+- :baby_bottle: 1 Tbsp aquafaba
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+- :herb: 1.5 tsp (4 g) Italian seasoning
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
@@ -44,4 +44,4 @@ batch). Cook at 390°F for 5 minutes, then shake the basket and cook for 3 to 5 
 
 - <https://nutritionstudies.org/recipes/appetizer/air-fryer-bow-tie-pasta-chips/>
 
-[1]: <../../assets/images/bow-tie-pasta-chips.jpg>
+[1]: <../../assets/images/bow-tie-pasta-chips.webp>

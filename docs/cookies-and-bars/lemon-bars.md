@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - tante-myrna-seccia
-hero: assets/images/lemon-bars.jpg
+hero: assets/images/lemon-bars.webp
 ---
 
 # :lemon: Lemon Bars
 
-![Lemon Bars](../assets/images/lemon-bars.jpg){ loading=lazy }
+![Lemon Bars](../assets/images/lemon-bars.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/lemon-bars.jpg
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (57 g) confectioners' sugar
+- :candy: 0.5 cup (56 g) confectioners' sugar
 - :butter: 1 cup (226 g) unsalted butter
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
+- :bread: 2 cups (240 g) all-purpose flour
 - :egg: 4 eggs
 - :candy: 2 cups (396 g) granulated sugar
-- :lemon: 6 Tbsp lemon juice
-- :dash: 0.5 tsp baking powder
+- :tangerine: 6 Tbsp (84 g) lemon juice
+- :chestnut: 0.5 tsp baking powder
 
 ## :cooking: Cookware
 

@@ -3,12 +3,12 @@ comments: true
 tags:
   - holiday
   - salad
-hero: assets/images/five-cup-fruit-salad.jpg
+hero: assets/images/five-cup-fruit-salad.webp
 ---
 
 # :pineapple: Five-Cup Fruit Salad
 
-![Five-Cup Fruit Salad](../../assets/images/five-cup-fruit-salad.jpg){ loading=lazy }
+![Five-Cup Fruit Salad](../../assets/images/five-cup-fruit-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/five-cup-fruit-salad.jpg
 ## :salt: Ingredients
 
 - :pineapple: 1 medium can pineapple tidbits (drained)
-- :orange_circle: 1 small can mandarin oranges
-- :dango: 1 cup small marshmallows
-- :coconut: 1 cup coconut
-- :rice: 1 cup sour cream
+- :tangerine: 1 small can mandarin oranges
+- :tea: 1 cup (43 g) small marshmallows
+- :coconut: 1 cup (226 g) coconut
+- :glass_of_milk: 1 cup (227 g) sour cream
 
 ## :pencil: Instructions
 

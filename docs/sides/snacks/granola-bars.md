@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/granola-bars.jpg
+hero: assets/images/granola-bars.webp
 ---
 
-# Granola Bars
+# :grapes: Granola Bars
 
-![Granola Bars](../../assets/images/granola-bars.jpg){ loading=lazy }
+![Granola Bars](../../assets/images/granola-bars.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,14 +17,14 @@ hero: assets/images/granola-bars.jpg
 
 ## :salt: Ingredients
 
-- 180 g soft dates
+- :grapes: 180 g soft dates
 - :honey_pot: 360 ml honey
 - :chestnut: 60 g pecans
-- 60 g dried apricots
-- 250 g rolled oats
+- :herb: 60 g dried apricots
+- :ear_of_rice: 250 g rolled oats
 - :seedling: 30 g sunflower seeds
-- 120 g unsweetened desiccated coconut
-- 2 Tbsp chia seeds
+- :chestnut: 120 g unsweetened desiccated coconut
+- :seedling: 2 Tbsp (18 g) chia seeds
 - :olive: some vegetable oil
 
 ## :cooking: Cookware
@@ -69,6 +69,10 @@ cool completely.
 ### Step 7
 
 Cut into bars and try not to eat them all or you won’t have any left for your breakfast!
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Source
 

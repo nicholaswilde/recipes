@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/artisan-no-knead-pizza-crust.jpg
+hero: assets/images/artisan-no-knead-pizza-crust.webp
 ---
 
 # :pizza: Artisan No-Knead Pizza Crust
@@ -17,11 +17,11 @@ hero: assets/images/artisan-no-knead-pizza-crust.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 247 g bread flour
-- :microbe: 0.13 tsp yeast
-- :candy: 0.5 tsp granulated sugar
+- :bread: 247 g bread flour
+- :tea: 0.13 tsp yeast
+- :candy: 0.5 tsp (2 g) granulated sugar
 - :salt: 8 g salt
-- :hot_springs: 185 g lukewarm water
+- :baby_bottle: 185 g lukewarm water
 
 ## :cooking: Cookware
 
@@ -120,4 +120,4 @@ Repeat with the remaining dough and toppings.
 
 - <https://www.kingarthurbaking.com/recipes/artisan-no-knead-pizza-crust-recipe>
 
-[1]: <../assets/images/artisan-no-knead-pizza-crust.jpg>
+[1]: <../assets/images/artisan-no-knead-pizza-crust.webp>

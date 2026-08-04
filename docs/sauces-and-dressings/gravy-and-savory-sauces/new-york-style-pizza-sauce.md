@@ -4,12 +4,12 @@ tags:
 
   - italian
   - sauce
-hero: assets/images/new-york-style-pizza-sauce.jpg
+hero: assets/images/new-york-style-pizza-sauce.webp
 ---
 
 # :tomato: New York-Style Pizza Sauce
 
-![New York-Style Pizza Sauce](../../assets/images/new-york-style-pizza-sauce.jpg){ loading=lazy }
+![New York-Style Pizza Sauce](../../assets/images/new-york-style-pizza-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/new-york-style-pizza-sauce.jpg
 
 ## :salt: Ingredients
 
-- :tomato: 1 28-oz can tomatoes
-- :olive: 1 Tbsp olive oil
+- :glass_of_milk: 1 28-oz can tomatoes
+- :olive: 1 Tbsp (12 g) olive oil
 - :butter: 1 Tbsp butter
 - :garlic: 2 cloves garlic
 - :herb: 1 tsp oregano
 - :hot_pepper: 1 pinch pepper flakes
 - :salt: 1 large pinch salt
-- :onion: 1 medium yellow onion
+- :seedling: 1 medium yellow onion
 - :herb: 2 sprigs basil
-- :candy: 1 tsp sugar
+- :candy: 1 tsp (3 g) sugar
 
 ## :cooking: Cookware
 

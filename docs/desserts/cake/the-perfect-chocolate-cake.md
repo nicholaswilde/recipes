@@ -5,12 +5,12 @@ tags:
   - cake
   - dominique-ansel
   - dessert
-hero: assets/images/the-perfect-chocolate-cake.jpg
+hero: assets/images/the-perfect-chocolate-cake.webp
 ---
 
 # :cake: The Perfect Chocolate Cake
 
-![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.jpg){ loading=lazy }
+![The Perfect Chocolate Cake](../../assets/images/the-perfect-chocolate-cake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,16 +18,16 @@ hero: assets/images/the-perfect-chocolate-cake.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 220 g all-purpose flour
+- :bread: 220 g all-purpose flour
 - :candy: 300 g granulated sugar
 - :chocolate_bar: 45 g unsweetened cocoa powder
-- :dash: 2 g baking powder
-- :cup_with_straw: 3 g baking soda
+- :chestnut: 2 g baking powder
+- :chestnut: 3 g baking soda
 - :salt: 1 g salt
 - :egg: 2 large eggs
-- :carrot: 115 g vegetable oil
+- :olive: 115 g vegetable oil
 - :glass_of_milk: 225 g whole milk
-- :chocolate_bar: 1 [chocolate ganache][1]
+- 1 [chocolate ganache][1]
 
 ## :cooking: Cookware
 

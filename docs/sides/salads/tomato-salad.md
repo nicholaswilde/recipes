@@ -4,7 +4,7 @@ tags:
 
   - side
   - jamie-oliver
-hero: assets/images/tomato-salad.jpg
+hero: assets/images/tomato-salad.webp
 ---
 
 # :tomato: Tomato Salad
@@ -19,10 +19,10 @@ hero: assets/images/tomato-salad.jpg
 
 - :herb: 1 small bunch basil
 - :salt: some salt
-- :salt: some paper
+- :bread: some paper
 - :garlic: 1 clove garlic
 - :olive: some olive oil
-- :sake: 1 splash white wine vinegar
+- :wine_glass: 1 splash white wine vinegar
 - :tomato: 300 g mixed cherry tomatoes
 
 ## :cooking: Cookware
@@ -45,4 +45,4 @@ two.
 
 - <https://www.bigoven.com/recipe/jamie-oliver-tomato-salad/2172710>
 
-[1]: <../../assets/images/tomato-salad.jpg>
+[1]: <../../assets/images/tomato-salad.webp>

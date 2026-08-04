@@ -5,39 +5,41 @@ tags:
   - tart
   - paul-hollywood
   - vegetarian
-hero: assets/images/shallot-onion-and-chive-tart.jpg
+hero: assets/images/shallot-onion-and-chive-tart.webp
 ---
 
 # :onion: Shallot, Onion, & Chive Tart
 
-![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.jpg){ loading=lazy }
+![Shallot Onion and Chive Tart](../assets/images/shallot-onion-and-chive-tart.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 to 6 | 1.88 hours |
 
-## :salt: Ingredients - Shortcrust Pastry
+## :salt: Ingredients
 
-- :ear_of_rice: 225 g all-purpose flour
-- :salt: some salt
-- :butter: 60 g cold unsalted butter
-- :carrot: 60 g cold vegetable shortening
-- :ice_cube: 5 Tbsp cold water
+=== "Shortcrust Pastry"
 
-## :salt: Ingredients - Filling
+    - :bread: 225 g all-purpose flour
+    - :salt: some salt
+    - :glass_of_milk: 60 g cold unsalted butter
+    - :stew: 60 g cold vegetable shortening
+    - :baby_bottle: 5 Tbsp (71 g) cold water
 
-- :onion: 8 shallots
-- :onion: 3 large onions
-- :butter: 25 g unsalted butter
-- :sunflower: 1 Tbsp sunflower oil
-- :salt: 1 pinch salt
-- :egg: 4 medium eggs
-- :egg: 2 medium egg yolks
-- :icecream: 200 ml heavy cream
-- :hotdog: 1.5 Tbsp wholegrain mustard
-- :seedling: 1 Tbsp chives
-- :salt: some salt
-- :salt: some white pepper
+=== "Filling"
+
+    - :garlic: 8 shallots
+    - :tea: 3 large onions
+    - :butter: 25 g unsalted butter
+    - :seedling: 1 Tbsp (12 g) sunflower oil
+    - :salt: 1 pinch salt
+    - :egg: 4 medium eggs
+    - :egg: 2 medium egg yolks
+    - :glass_of_milk: 200 ml (192 g) heavy cream
+    - :seedling: 1.5 Tbsp wholegrain mustard
+    - 1 Tbsp (3 g) chives
+    - :salt: some salt
+    - :salt: some white pepper
 
 ## :cooking: Cookware
 
@@ -54,7 +56,7 @@ hero: assets/images/shallot-onion-and-chive-tart.jpg
 ### Step 1
 
 To make the pastry, put the all-purpose flour into a bowl and mix in the salt. Add the cold unsalted butter and cold
-vegetable shortening and rub into the flour with your fingertips until the mixture resembles fine breadcrumbs.
+vegetable shortening and rub into the flour with your fingertips until the mixture resembles fine [Breadcrumbs](../ingredients/breadcrumbs.md).
 Alternatively, do this in a food processor or mixer and then transfer to a bowl.
 
 ### Step 2

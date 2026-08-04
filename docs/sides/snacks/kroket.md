@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dutch
-hero: assets/images/kroket.jpg
+hero: assets/images/kroket.webp
 ---
 
 # :hotdog: Kroket
 
-![Kroket](../../assets/images/kroket.jpg){ loading=lazy }
+![Kroket](../../assets/images/kroket.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,19 +16,19 @@ hero: assets/images/kroket.jpg
 
 ## :salt: Ingredients
 
-- :cut_of_meat: 1 lb ground beef
+- :apple: 1 lb ground beef
 - :droplet: 5 cups (1135 g) water
-- :sake: 1 Tbsp Worcestershire sauce
+- :apple: 1 Tbsp (14 g) Worcestershire sauce
 - :salt: 1.5 tsp salt
 - :salt: 1 tsp pepper
-- :herb: 0.5 tsp chives
+- 0.5 tsp chives
 - :butter: 4 oz butter
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :rice: 1 cup Italian seasoned breadcrumbs
-- :egg: 1 egg white
-- :glass_of_milk: 2 Tbsp milk
-- :hotdog: some mustard or deli brown mustard (optional)
-- :cucumber: some pickles (optional)
+- :bread: 1 cup (120 g) all-purpose flour
+- :beans: 1 cup (112 g) Italian seasoned [Breadcrumbs](../../ingredients/breadcrumbs.md)
+- :beans: 1 egg white
+- :glass_of_milk: 2 Tbsp (28 g) milk
+- :apple: some mustard or deli brown mustard (optional)
+- :leafy_green: some pickles (optional)
 
 ## :cooking: Cookware
 
@@ -78,7 +78,7 @@ Breading and frying: Roll the dough into rolls 4 inches long and 1 inch wide.
 
 ### Step 10
 
-Coat with Italian seasoned breadcrumbs.
+Coat with Italian seasoned [Breadcrumbs](../../ingredients/breadcrumbs.md).
 
 ### Step 11
 

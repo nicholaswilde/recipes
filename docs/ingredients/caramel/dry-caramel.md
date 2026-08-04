@@ -4,12 +4,12 @@ tags:
 
   - caramel
   - ingredient
-hero: assets/images/dry-caramel.jpg
+hero: assets/images/dry-caramel.webp
 ---
 
 # :candy: Dry Caramel
 
-![Dry Caramel](../../assets/images/dry-caramel.jpg){ loading=lazy }
+![Dry Caramel](../../assets/images/dry-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/dry-caramel.jpg
 
 ## :salt: Ingredients
 
-- :icecream: 1 tsp vanilla
-- :icecream: 200 ml heavy cream
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 200 ml (192 g) heavy cream
 - :candy: 300 g granulated sugar
 - :butter: 100 g unsalted butter
 

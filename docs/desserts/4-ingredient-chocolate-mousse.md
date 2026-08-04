@@ -4,12 +4,12 @@ tags:
 
   - mousse
   - dessert
-hero: assets/images/4-ingredient-chocolate-mousse.jpg
+hero: assets/images/4-ingredient-chocolate-mousse.webp
 ---
 
 # :chocolate_bar: 4 Ingredient Chocolate Mousse
 
-![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.jpg){ loading=lazy }
+![4 Ingredient Chocolate Mousse](../assets/images/4-ingredient-chocolate-mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/4-ingredient-chocolate-mousse.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 boxes silken tofu
-- :chocolate_bar: 4 Tbsp cacao powder
-- :grapes: 1 cup [date paste][1]
-- :icecream: 1 tsp vanilla
+- :cheese_wedge: 2 boxes silken tofu
+- :chestnut: 4 Tbsp (27 g) cacao powder
+- 1 cup [date paste][1]
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

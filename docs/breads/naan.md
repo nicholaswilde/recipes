@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/naan.jpg
+hero: assets/images/naan.webp
 ---
 
 # :flatbread: Naan
@@ -15,22 +15,24 @@ hero: assets/images/naan.jpg
 |:----------------------------------:|:-----------------------: |
 | 8 | 1.33 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 180 g all-purpose flour
-- :ear_of_rice: 90 g bread flour
-- :hot_springs: 142 g warm water
-- :rice: 71 g full-fat plain Greek yogurt
-- :butter: 28 g ghee or unsalted butter
-- :microbe: 1.5 tsp instant yeast
-- :candy: 1 tsp granulated sugar
-- :salt: 2 tsp salt
+=== "Dough"
 
-## :salt: Ingredients - Topping
+    - :bread: 180 g all-purpose flour
+    - :bread: 90 g bread flour
+    - :droplet: 142 g warm water
+    - :coconut: 71 g full-fat plain Greek yogurt
+    - :glass_of_milk: 28 g ghee or unsalted butter
+    - :tea: 1.5 tsp (4 g) instant yeast
+    - :candy: 1 tsp (4 g) granulated sugar
+    - :salt: 2 tsp salt
 
-- :butter: 28 g ghee or butter
-- :seedling: 2 tsp nigella seeds (optional)
-- :herb: 0.25 cup cilantro
+=== "Topping"
+
+    - :butter: 28 g ghee or butter
+    - :seedling: 2 tsp (6 g) nigella seeds (optional)
+    - :herb: 0.25 cup (10 g) cilantro
 
 ## :cooking: Cookware
 
@@ -94,4 +96,4 @@ Store naan, well wrapped, at room temperature for two days; freeze for longer st
 
 - <https://www.kingarthurbaking.com/recipes/naan-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

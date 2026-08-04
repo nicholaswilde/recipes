@@ -3,27 +3,33 @@ comments: true
 tags:
 
   - side
-hero: assets/images/quinoa.jpg
+hero: assets/images/quinoa.webp
 ---
 
 # :rice: Quinoa
 
 ![Quinoa][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 25 minutes |
-
-| :cut_of_meat: Uncooked | :hot_springs: Cooked | :droplet: Liquid | :fork_and_knife_with_plate: Serves |
-|:----------------------:|:--------------------:|:----------------:|:----------------------------------:|
-| 133 g                  | 400 g                | 300 g            | 4                                  |
-| 200 g                  | 600 g                | 450 g            | 6                                  |
-| 267 g                  | 800 g                | 600 g            | 8                                  |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 25 minutes |
 
 ## :salt: Ingredients
 
-- :rice: 1 cup quinoa
-- :stew: 1.75 cups vegetable broth
+=== "Serves 4"
+
+    - :ear_of_rice: 0.75 cup (82 g) quinoa
+    - 1.25 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+
+=== "Serves 6"
+
+    - :ear_of_rice: 1.2 cups (132 g) quinoa
+    - 1.9 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+
+=== "Serves 8"
+
+    - :ear_of_rice: 1.5 cups (165 g) quinoa
+    - 2.5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 ## :cooking: Cookware
 
@@ -38,7 +44,7 @@ Rinse the quinoa.
 
 ### Step 2
 
-Combine the quinoa and vegetable broth in a medium pot. Bring to a boil, cover, reduce the heat, and simmer for 15
+Combine the quinoa and [Vegetable Broth](../../ingredients/vegetable-broth.md) in a medium pot. Bring to a boil, cover, reduce the heat, and simmer for 15
 minutes.
 
 ### Step 3
@@ -53,4 +59,4 @@ Fluff with a fork.
 
 - <https://www.loveandlemons.com/quinoa/>
 
-[1]: <../../assets/images/quinoa.jpg>
+[1]: <../../assets/images/quinoa.webp>

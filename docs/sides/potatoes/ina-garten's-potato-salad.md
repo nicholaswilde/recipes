@@ -5,12 +5,12 @@ tags:
   - ina-garten
   - salad
   - side
-hero: assets/images/ina-garten's-potato-salad.jpg
+hero: assets/images/ina-garten's-potato-salad.webp
 ---
 
 # :potato: Ina Garten's Potato Salad
 
-![Ina Garten's Potato Salad](../../assets/images/ina-garten's-potato-salad.jpg){ loading=lazy }
+![Ina Garten's Potato Salad](../../assets/images/ina-garten's-potato-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,17 +18,17 @@ hero: assets/images/ina-garten's-potato-salad.jpg
 
 ## :salt: Ingredients
 
-- :potato: 3 lbs small white potatoes
+- :chestnut: 3 lbs small white potatoes
 - :salt: 2 Tbsp salt
-- :egg: 1 cup [mayonnaise][1]
-- :glass_of_milk: 0.25 cup [buttermilk][2]
-- :hotdog: 2 Tbsp [Dijon mustard][3]
-- :hotdog: 2 Tbsp whole-grain mustard
-- :herb: 0.5 cup dill
+- 1 cup [mayonnaise][1]
+- 0.25 cup [buttermilk][2]
+- 2 Tbsp [Dijon mustard][3]
+- :seedling: 2 Tbsp (14 g) whole-grain mustard
+- :apple: 0.5 cup dill
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
-- :leafy_green: 0.5 cup celery
-- :onion: 0.5 cup red onion
+- :leafy_green: 0.5 cup (71 g) celery
+- :tea: 0.5 cup (105 g) red onion
 - :salt: 2 tsp salt
 - :salt: 1 tsp pepper
 
@@ -53,7 +53,7 @@ the potatoes to steam for another 15 to 20 minutes, until they’re tender but n
 
 ### Step 3
 
-Meanwhile, in a small bowl, whisk together the mayonnaise, buttermilk, Dijon mustard, whole-grain mustard, dill, 1
+Meanwhile, in a small bowl, whisk together the mayonnaise, [buttermilk](../../ingredients/buttermilk.md), Dijon mustard, whole-grain mustard, dill, 1
 teaspoon of salt and 1 teaspoon of pepper. Set aside.
 
 ### Step 4

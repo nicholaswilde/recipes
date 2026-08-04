@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/hummus-orange-juice-dressing.jpg
+hero: assets/images/hummus-orange-juice-dressing.webp
 ---
 
 # :falafel: Hummus-Orange Juice Dressing
 
-![Hummus-Orange Juice Dressing](../../assets/images/hummus-orange-juice-dressing.jpg){ loading=lazy }
+![Hummus-Orange Juice Dressing](../../assets/images/hummus-orange-juice-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,11 +16,11 @@ hero: assets/images/hummus-orange-juice-dressing.jpg
 
 ## :salt: Ingredients
 
-- :falafel: 3 Tbsp [hummus][1]
-- :tangerine: 3 Tbsp orange juice
-- :hotdog: 1 tsp [mustard][2] of choice
-- :sake: 2 Tbsp balsamic vinegar
-- :sweet_potato: 0.5 tsp pealed and chopped fresh ginger
+- 3 Tbsp [hummus][1]
+- :tangerine: 3 Tbsp (42 g) orange juice
+- 1 tsp [mustard][2] of choice
+- :wine_glass: 2 Tbsp balsamic vinegar
+- :sweet_potato: 0.5 tsp (2 g) pealed and chopped fresh ginger
 
 ## :cooking: Cookware
 

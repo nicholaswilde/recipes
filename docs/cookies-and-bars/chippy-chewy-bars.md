@@ -4,12 +4,12 @@ tags:
   - bar
   - dessert
   - holiday
-hero: assets/images/chippy-chewy-bars.jpg
+hero: assets/images/chippy-chewy-bars.webp
 ---
 
 # :chocolate_bar: Chippy Chewy Bars
 
-![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.jpg){ loading=lazy }
+![Chippy Chewy Bars](../assets/images/chippy-chewy-bars.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,12 +18,12 @@ hero: assets/images/chippy-chewy-bars.jpg
 ## :salt: Ingredients
 
 - :butter: 0.5 cup butter
-- :cookie: 1.5 cups [graham cracker][1] crumbs
-- :chocolate_bar: 1 10-oz pkg REESE'S peanut butter chips
-- :coconut: 1.5 cups MOUNDS Sweetened Coconut Flakes
+- :bread: 1.5 cups (148 g) [graham cracker][1] crumbs
+- :chestnut: 1 10-oz pkg REESE'S peanut butter chips
+- :hot_pepper: 1.5 cups (432 g) MOUNDS Sweetened Coconut Flakes
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
-- :chocolate_bar: 1 cup semi-sweet chocolate chips
-- :carrot: 1.5 tsp vegetable shortening
+- :chestnut: 1 cup (170 g) semi-sweet chocolate chips
+- :butter: 1.5 tsp (6 g) vegetable shortening
 
 ## :cooking: Cookware
 

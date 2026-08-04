@@ -17,9 +17,9 @@ hero: assets/images/kettle-corn.png
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.25 cup (50 g) vegetable oil
+- :olive: 0.25 cup (50 g) vegetable oil
 - :corn: 0.25 cup kernels
-- :candy: 2 Tbsp sugar
+- :candy: 2 Tbsp (20 g) sugar
 - :salt: 0.5 tsp salt
 
 !!! note
@@ -64,7 +64,6 @@ large, wide bowl immediately. Let the popcorn cool for 2 minutes so it crisps up
 - Substitute light brown sugar for white sugar for a more caramelized flavor.
 - Substitute truffle salt, smoked salt, Old Bay seasoning, or garlic salt for the regular salt for a sweet and savory
   flavor.
-
 - Add a dash of chili powder to the kettle corn along with the salt.
 - For a warm spice flavor, add 1/4 to 1/2 teaspoon of ground cinnamon or pumpkin pie spice to the kettle corn along
   with the salt.

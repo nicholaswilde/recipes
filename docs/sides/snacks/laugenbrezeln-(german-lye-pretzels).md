@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/laugenbrezeln-(german-lye-pretzels).jpg
+hero: assets/images/laugenbrezeln-(german-lye-pretzels).webp
 ---
 
 # :pretzel: Laugenbrezeln (German Lye Pretzels)
 
-![Laugenbrezeln (German Lye Pretzels)](../../assets/images/laugenbrezeln-(german-lye-pretzels).jpg){ loading=lazy }
+![Laugenbrezeln (German Lye Pretzels)](../../assets/images/laugenbrezeln-(german-lye-pretzels).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/laugenbrezeln-(german-lye-pretzels).jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2.33 cups (280 g) bread flour
+- :bread: 2.33 cups (280 g) bread flour
 - :salt: 1 tsp table salt
-- :microbe: 1 tsp instant yeast
+- :tea: 1 tsp (3 g) instant yeast
 - :butter: 2 Tbsp butter
-- :test_tube: 40 g lye
-- :cup_with_straw: 0.5 cup (144 g) baking soda
+- 40 g lye
+- :chestnut: 0.5 cup baking soda
 - :salt: some pretzel salt
 
 ## :cooking: Cookware
@@ -139,7 +139,6 @@ small children or pets.
 - Food-grade lye (also known as sodium hydroxide), available at baking shops or online
 - Long sleeves with long rubber gloves (such as for dishwashing: before wearing, blow up each glove like a balloon to
 ensure that there are no holes)
-
 - Eyeglasses or safety goggles
 - Digital scale that measures in grams
 - Rags in case of spills or drips
@@ -166,7 +165,6 @@ left of lye solution, and proceed with recipe. (Clear counter while pretzels bak
 1. Still wearing gloves and eyewear, transfer bowl of lye solution to sink.
 2. Run cold water into bowl in gentle stream to dilute solution. Pour solution down drain. Flush drain and rinse bowl
 and sink thoroughly with plenty of cold water.
-
 3. Rinse rimmed baking sheets and wire rack with plenty of cold water. Dispose of plastic wrap or plastic bag on
 counter. Rinse gloves before removing. Once gloves are off, remove eyewear.
 
@@ -183,4 +181,4 @@ minutes.
 
 - Cook's Illustrated
 
-[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.jpg>
+[3]: <../../assets/images/laugenbrezeln-(german-lye-pretzels)-2.webp>

@@ -5,35 +5,37 @@ tags:
   - cookie
   - dessert
   - cooks-illustrated
-hero: assets/images/peanut-butter-sandwich-cookies.jpg
+hero: assets/images/peanut-butter-sandwich-cookies.webp
 ---
 
 # :peanuts: Peanut Butter Sandwich Cookies
 
-![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.jpg){ loading=lazy }
+![Peanut Butter Sandwich Cookies](../assets/images/peanut-butter-sandwich-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 24 | 3.5 hours |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :peanuts: 1.25 cups (6.25 oz/177 g) raw peanuts
-- :ear_of_rice: 0.75 cups (3.75 oz/106 g) all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 0.5 tsp salt
-- :butter: 3 Tbsp unsalted butter
-- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
-- :candy: 0.5 cup (3.5 oz/99 g) granulated sugar
-- :maple_leaf: 0.5 cup (3.5 oz/99 g) [light brown sugar][2]
-- :glass_of_milk: 3 Tbsp whole milk
-- :egg: 1 large egg
+=== "Cookies"
 
-## :salt: Ingredients - Filling
+    - :chestnut: 1.25 cups (45 g) (6.25 oz/177 g) raw peanuts
+    - :baby_bottle: 0.75 cups (117 g) (3.75 oz/106 g) all-purpose flour
+    - :chestnut: 1 tsp baking soda
+    - :salt: 0.5 tsp salt
+    - :butter: 3 Tbsp (42 g) unsalted butter
+    - :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+    - :candy: 0.5 cup (99 g) (3.5 oz/99 g) granulated sugar
+    - :candy: 0.5 cup (106 g) (3.5 oz/99 g) [light brown sugar][2]
+    - :glass_of_milk: 3 Tbsp (43 g) whole milk
+    - :egg: 1 large egg
 
-- :peanuts: 0.75 cup (101 g) [creamy peanut butter][1]
-- :butter: 3 Tbsp unsalted butter
-- :candy: 1 cup (4 oz/113 g) confectioners’ sugar
+=== "Filling"
+
+    - :peanut: 0.75 cup (202 g) [creamy peanut butter][1]
+    - :butter: 3 Tbsp (42 g) unsalted butter
+    - :candy: 1 cup (192 g) (4 oz/113 g) confectioners’ sugar
 
 ## :cooking: Cookware
 

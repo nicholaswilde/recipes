@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/sweetened-condensed-milk.jpg
+hero: assets/images/sweetened-condensed-milk.webp
 ---
 
 # :glass_of_milk: Sweetened Condensed Milk
 
-![Sweetened Condensed Milk](../assets/images/sweetened-condensed-milk.jpg){ loading=lazy }
+![Sweetened Condensed Milk](../assets/images/sweetened-condensed-milk.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/sweetened-condensed-milk.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2.5 cups whole milk
+- :glass_of_milk: 2.5 cups (568 g) whole milk
 - :candy: 1 cup (198 g) granulated sugar
-- :glass_of_milk: 0.5 cup heavy cream
+- :glass_of_milk: 0.5 cup (114 g) heavy cream
 - :salt: 0.13 tsp salt
 
 ## :cooking: Cookware

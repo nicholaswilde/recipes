@@ -4,12 +4,12 @@ tags:
 
   - butter
   - ingredient
-hero: assets/images/3-ingredient-garlic-butter.jpg
+hero: assets/images/3-ingredient-garlic-butter.webp
 ---
 
 # :butter: 3-Ingredient Garlic Butter
 
-![3-Ingredient Garlic Butter](../../assets/images/3-ingredient-garlic-butter.jpg){ loading=lazy }
+![3-Ingredient Garlic Butter](../../assets/images/3-ingredient-garlic-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

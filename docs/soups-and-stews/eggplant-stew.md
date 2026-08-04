@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - stew
-hero: assets/images/eggplant-stew.jpg
+hero: assets/images/eggplant-stew.webp
 ---
 
 # :eggplant: Eggplant Stew
 
-![Eggplant Stew](../assets/images/eggplant-stew.jpg){ loading=lazy }
+![Eggplant Stew](../assets/images/eggplant-stew.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,14 +17,14 @@ hero: assets/images/eggplant-stew.jpg
 ## :salt: Ingredients
 
 - :eggplant: 1 eggplant
-- :olive: 6 Tbsp olive oil
-- :onion: 1 red onion
-- :bell_pepper: 1 red or yellow bell pepper
-- :bell_pepper: 2 tsp paprika
+- :olive: 6 Tbsp (75 g) olive oil
+- :tea: 1 red onion
+- :hot_pepper: 1 red or yellow bell pepper
+- :candy: 2 tsp paprika
 - :garlic: 2 cloves garlic
-- :tomato: 2 Tbsp tomato paste
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :tomato: 5 plum tomatoes
-- :falafel: 1 15-oz can chickpeas
+- :baby_bottle: 1 15-oz can chickpeas
 - :salt: 1 tsp salt
 - :salt: 1 tsp pepper
 - :herb: 0.25 cup chopped parsley
@@ -48,7 +48,7 @@ garlic during last few minutes
 
 ### Step 3
 
-Stir in tomato paste, and moisten with a few tablespoons of water.
+Stir in [Tomato Paste](../ingredients/tomato-paste.md), and moisten with a few tablespoons of water.
 
 ### Step 4
 

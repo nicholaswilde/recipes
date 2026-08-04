@@ -4,42 +4,44 @@ tags:
 
   - italian
   - pasta
-hero: assets/images/pasta-with-burst-cherry-tomato-sauce.jpg
+hero: assets/images/pasta-with-burst-cherry-tomato-sauce.webp
 ---
 
 # :spaghetti: Pasta with Burst Cherry Tomato Sauce
 
-![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.jpg){ loading=lazy }
+![Pasta with Burst Cherry Tomato Sauce](../assets/images/pasta-with-burst-cherry-tomato-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 50 minutes |
 
-## :salt: Ingredients - Topping
+## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :brown_circle: 0.25 cup capers
-- :fish: 1 fillet [anchovy][1]
-- :bread: 0.5 cup panko
-- :salt: 0.13 tsp salt
-- :salt: 0.13 tsp pepper
-- :herb: 0.25 cup parsley
-- :lemon: 1 tsp lemon zest
+=== "Topping"
 
-## :salt: Ingredients - Pasta
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :olive: 0.25 cup capers
+    - 1 fillet [anchovy][1]
+    - :bread: 0.5 cup (100 g) panko
+    - :salt: 0.13 tsp salt
+    - :salt: 0.13 tsp pepper
+    - :herb: 0.25 cup parsley
+    - :tangerine: 1 tsp (5 g) lemon zest
 
-- :droplet: 4 qt water
-- :olive: 0.25 cup (50 g) olive oil
-- :garlic: 2 cloves garlic
-- :fish: 2 fillets [anchovy][1]
-- :tomato: 2 lbs cherry tomatoes
-- :salt: 1.5 tsp salt
-- :candy: 0.25 tsp sugar
-- :hot_pepper: 0.13 tsp red pepper flakes
-- :spaghetti: 12 oz penne rigate, orecchiette, campanelle, or other short pasta
-- :salt: 1 Tbsp salt
-- :butter: 2 Tbsp butter
-- :herb: 1 cup basil
+=== "Pasta"
+
+    - :droplet: 4 qt water
+    - :olive: 0.25 cup (50 g) olive oil
+    - :garlic: 2 cloves garlic
+    - 2 fillets [anchovy][1]
+    - :apple: 2 lbs cherry tomatoes
+    - :salt: 1.5 tsp salt
+    - :candy: 0.25 tsp (1 g) sugar
+    - :hot_pepper: 0.13 tsp (1 g) red pepper flakes
+    - :bread: 12 oz (218 g) penne rigate, orecchiette, campanelle, or other short pasta
+    - :salt: 1 Tbsp salt
+    - :butter: 2 Tbsp butter
+    - :herb: 1 cup basil
 
 ## :cooking: Cookware
 

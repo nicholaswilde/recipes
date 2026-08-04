@@ -4,12 +4,12 @@ tags:
 
   - side
   - the-blue-zones-kitchen
-hero: assets/images/fried-green-plantains.jpg
+hero: assets/images/fried-green-plantains.webp
 ---
 
 # :banana: Fried Green Plantains
 
-![Fried Green Plantains](../../assets/images/fried-green-plantains.jpg){ loading=lazy }
+![Fried Green Plantains](../../assets/images/fried-green-plantains.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/fried-green-plantains.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: some vegetable oil
-- :banana: 4 green plantain
+- :olive: some vegetable oil
+- 4 green plantain
 - :salt: some salt
 
 ## :cooking: Cookware

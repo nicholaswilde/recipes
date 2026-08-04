@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/apricot-honey-oatmeal.jpg
+hero: assets/images/apricot-honey-oatmeal.webp
 ---
 
 # :ear_of_rice: Apricot Honey Oatmeal
@@ -16,11 +16,11 @@ hero: assets/images/apricot-honey-oatmeal.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 3.5 cups water
-- :peach: 0.33 cup chopped dried apricots
+- :droplet: 3.5 cups (794 g) water
+- :herb: 0.33 cup (42 g) chopped dried apricots
 - :honey_pot: 0.25 cup honey
-- :custard: 0.5 tsp cinnamon
-- :ear_of_rice: 2 cups oats
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :ear_of_rice: 2 cups (280 g) oats
 
 ## :cooking: Cookware
 
@@ -45,8 +45,12 @@ is absorbed, stirring occasionally. Remove from heat.
 
 Let stand until of desired consistency.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.quakeroats.com/cooking-and-recipes/apricot-honey-oatmeal>
 
-[1]: <../assets/images/apricot-honey-oatmeal.jpg>
+[1]: <../assets/images/apricot-honey-oatmeal.webp>

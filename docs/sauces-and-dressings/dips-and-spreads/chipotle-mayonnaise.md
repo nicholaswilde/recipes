@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - kenji-lopez-alt
-hero: assets/images/chipotle-mayonnaise.jpg
+hero: assets/images/chipotle-mayonnaise.webp
 ---
 
 # :hot_pepper: Chipotle Mayonnaise
@@ -17,11 +17,11 @@ hero: assets/images/chipotle-mayonnaise.jpg
 
 ## :salt: Ingredients
 
-- :egg: 0.5 cup [mayonnaise][2]
-- :rice: 0.25 cup sour cream
-- :lemon: 2 Tbsp lime juice
+- 0.5 cup [mayonnaise][2]
+- :glass_of_milk: 0.25 cup (57 g) sour cream
+- :tangerine: 2 Tbsp (28 g) lime juice
 - :garlic: 1 clove garlic
-- :hot_pepper: 2 chipotles in adobo sauce
+- :racehorse: 2 chipotles in adobo sauce
 
 ## :cooking: Cookware
 
@@ -44,5 +44,5 @@ Pour into an airtight container, cover, and store in the refrigerator until read
 - <https://www.seriouseats.com/sauced-chipotle-mayonnaise-recipe>
 - <https://www.youtube.com/watch?v=BMgLRD2v5w0&t=730s>
 
-[1]: <../../assets/images/chipotle-mayonnaise.jpg>
+[1]: <../../assets/images/chipotle-mayonnaise.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

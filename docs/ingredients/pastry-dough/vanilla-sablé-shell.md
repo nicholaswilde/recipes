@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - dominique-ansel
-hero: assets/images/vanilla-sablé-shell.jpg
+hero: assets/images/vanilla-sablé-shell.webp
 ---
 
 # :pie: Vanilla Sablé Shell
 
-![Vanilla Sablé Shell](../../assets/images/vanilla-sablé-shell.jpg){ loading=lazy }
+![Vanilla Sablé Shell](../../assets/images/vanilla-sablé-shell.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

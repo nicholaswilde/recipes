@@ -5,12 +5,12 @@ tags:
   - condiment
   - sauce
   - dip
-hero: assets/images/hummus.jpg
+hero: assets/images/hummus.webp
 ---
 
 # :falafel: Hummus
 
-![Hummus](../../assets/images/hummus.jpg){ loading=lazy }
+![Hummus](../../assets/images/hummus.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,16 +18,16 @@ hero: assets/images/hummus.jpg
 
 ## :salt: Ingredients
 
-- :lemon: 3 Tbsp lemon juice
-- :droplet: 0.25 cup water
-- :seedling: 6 Tbsp [tahini][1]
-- :olive: 2 Tbsp olive oil
-- :falafel: 1 14-oz can chickpeas
+- :tangerine: 3 Tbsp (42 g) lemon juice
+- :droplet: 0.25 cup (57 g) water
+- 6 Tbsp [tahini][1]
+- :olive: 2 Tbsp (25 g) olive oil
+- :baby_bottle: 1 14-oz can chickpeas
 - :garlic: 1 clove garlic
 - :salt: 0.5 tsp salt
-- :herb: 0.25 tsp cumin
+- :chestnut: 0.25 tsp (1 g) cumin
 - :hot_pepper: 1 pinch cayenne
-- :herb: 1 Tbsp cilantro
+- :herb: 1 Tbsp (3 g) cilantro
 - :herb: 1 Tbsp parsley
 
 ## :cooking: Cookware

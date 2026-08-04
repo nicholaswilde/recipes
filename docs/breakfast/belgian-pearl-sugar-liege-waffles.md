@@ -2,9 +2,10 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/belgian-pearl-sugar-liege-waffles.jpg
+hero: assets/images/belgian-pearl-sugar-liege-waffles.webp
 ---
-# Belgian Pearl Sugar Liege Waffles
+
+# :candy: Belgian Pearl Sugar Liege Waffles
 
 ![Belgian Pearl Sugar Liege Waffles][1]{ loading=lazy }
 
@@ -14,10 +15,10 @@ hero: assets/images/belgian-pearl-sugar-liege-waffles.jpg
 
 ## :salt: Ingredients
 
-- 7 g rapid-rise yeast
-- :glass_of_milk: 0.75 cup warm milk
+- :tea: 7 g rapid-rise yeast
+- :droplet: 0.75 cup (170 g) warm milk
 - :bread: 440 g all-purpose flour
-- :candy: 50 g brown sugar
+- :maple_leaf: 50 g brown sugar
 - :salt: 8 g salt
 - :egg: 2 large eggs
 - :flower_playing_cards: 2 tsp vanilla extract
@@ -67,5 +68,4 @@ Bake in a preheated and greased waffle iron for 2 to 3 minutes or until deep gol
 
 - Lars Own
 
-[1]: <../assets/images/belgian-pearl-sugar-liege-waffles.jpg>
-
+[1]: <../assets/images/belgian-pearl-sugar-liege-waffles.webp>

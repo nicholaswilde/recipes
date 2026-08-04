@@ -2,9 +2,10 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-baked-beans.jpg
+hero: assets/images/vegan-baked-beans.webp
 ---
-# Vegan Baked Beans
+
+# :beans: Vegan Baked Beans
 
 ![Vegan Baked Beans][1]{ loading=lazy }
 
@@ -14,22 +15,22 @@ hero: assets/images/vegan-baked-beans.jpg
 
 ## :salt: Ingredients
 
-- :beans: 16 oz dried great northern beans
-- :droplet: 2 cups (455 g) bean juice
-- :stew: 2 cups (455 g) [vegetable broth][2]
-- :onion: 1 onion
+- :glass_of_milk: 16 oz (200 g) dried great northern beans
+- :tangerine: 2 cups (448 g) bean juice
+- 2 cups [vegetable broth][2]
+- :tea: 1 onion
 - :garlic: 4 cloves garlic
-- :hot_pepper: 0.5 jalapeno pepper
+- :salt: 0.5 jalapeno pepper
 - :hot_pepper: 1 green bell pepper
 - :salt: 1 tsp salt
-- :tomato: 6 oz tomato paste
-- :honey_pot: 0.25 cup (85 g) molasses
-- :candy: 0.25 cup (55 g) brown sugar
-- :baby_bottle: 1 Tbsp yellow mustard
-- :apple: 1 tsp apple cider vinegar
-- :salt: 0.25 tsp ground pepper
-- :hot_pepper: 0.25 tsp chipotle chili powder
-- :hot_pepper: 1 tsp chipotle in adobo (alternative)
+- 6 oz [Tomato Paste](../../ingredients/tomato-paste.md)
+- :candy: 0.25 cup (85 g) molasses
+- :maple_leaf: 0.25 cup (53 g) brown sugar
+- :seedling: 1 Tbsp (10 g) yellow mustard
+- :apple: 1 tsp (6 g) apple cider vinegar
+- :salt: 0.25 tsp (1 g) ground pepper
+- :hot_pepper: 0.25 tsp (1 g) chipotle chili powder
+- :taco: 1 tsp (4 g) chipotle in adobo (alternative)
 
 ## :cooking: Cookware
 
@@ -67,7 +68,7 @@ Add beans back into pot, with 2 cups bean juice.
 
 ### Step 8
 
-Add vegetable broth, diced onion, garlic, jalapeno pepper, finely diced green bell pepper and salt.
+Add [Vegetable Broth](../../ingredients/vegetable-broth.md), diced onion, garlic, jalapeno pepper, finely diced green bell pepper and salt.
 
 ### Step 9
 
@@ -79,13 +80,12 @@ Add mixture to crock pot (optional).
 
 ### Step 11
 
-Add tomato paste, molasses, brown sugar, yellow mustard, apple cider vinegar, ground pepper, and chipotle chili powder
+Add [Tomato Paste](../../ingredients/tomato-paste.md), molasses, brown sugar, yellow mustard, apple cider vinegar, ground pepper, and chipotle chili powder
 or chipotle in adobo (alternative) and slow cook on low 2 to 4 hours.
 
 ## :link: Source
 
 - <https://www.brandnewvegan.com/recipes/beans-legumes/vegan-baked-beans>
 
-[1]: <../../assets/images/vegan-baked-beans.jpg>
+[1]: <../../assets/images/vegan-baked-beans.webp>
 [2]: <../../ingredients/vegetable-broth.md>
-

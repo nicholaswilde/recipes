@@ -4,12 +4,12 @@ tags:
   - bar
   - dessert
   - holiday
-hero: assets/images/pumpkin-squares.jpg
+hero: assets/images/pumpkin-squares.webp
 ---
 
 # :jack_o_lantern: Pumpkin Squares
 
-![Pumpkin Squares](../assets/images/pumpkin-squares.jpg){ loading=lazy }
+![Pumpkin Squares](../assets/images/pumpkin-squares.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

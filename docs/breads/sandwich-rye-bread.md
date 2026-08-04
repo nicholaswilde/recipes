@@ -2,7 +2,7 @@
 comments: true
 tags:
   - bread
-hero: assets/images/sandwich-rye-bread.jpg
+hero: assets/images/sandwich-rye-bread.webp
 ---
 
 # :bread: Sandwich Rye Bread
@@ -15,18 +15,18 @@ hero: assets/images/sandwich-rye-bread.jpg
 
 ## :salt: Ingredients
 
-- :tea: 2.5 tsp instant yeast
-- :droplet: 0.75 cup (170 g) lukewarm water
+- :tea: 2.5 tsp (8 g) instant yeast
+- :baby_bottle: 0.75 cup (170 g) lukewarm water
 - :olive: 0.25 cup (50 g) vegetable oil
-- :tangerine: 0.75 cup (170 g) dill pickle juice
+- :tangerine: 0.75 cup dill pickle juice
 - :salt: 1.5 tsp salt
-- :candy: 1 Tbsp (12 g) sugar
+- :candy: 1 Tbsp (10 g) sugar
 - :seedling: 1.25 tsp caraway seeds
-- :seedling: 1.25 tsp dill seeds
-- :seedling: 1 Tbsp yellow mustard seeds
-- :sweet_potato: 0.75 cup (46 g) instant mashed potato flakes
-- :bread: 2.5 cups (298 g) King Arthur Unbleached Bread Flour
-- :bread: 1.33 cups (138 g) medium rye flour
+- :seedling: 1.25 tsp (4 g) dill seeds
+- :seedling: 1 Tbsp (10 g) yellow mustard seeds
+- :hot_pepper: 0.75 cup (64 g) instant mashed potato flakes
+- :bread: 2.5 cups (282 g) King Arthur Unbleached Bread Flour
+- :bread: 1.33 cups (141 g) medium rye flour
 
 ## :cooking: Cookware
 
@@ -79,4 +79,4 @@ Remove the bread from the oven and turn it out of the pan onto a **wire rack** t
 
 - <https://www.kingarthurbaking.com/recipes/sandwich-rye-bread-recipe>
 
-[1]: <../assets/images/sandwich-rye-bread.jpg>
+[1]: <../assets/images/sandwich-rye-bread.webp>

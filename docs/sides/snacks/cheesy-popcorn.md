@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/cheesy-popcorn.jpg
+hero: assets/images/cheesy-popcorn.webp
 ---
 
 # :popcorn: Cheesy Popcorn
@@ -16,12 +16,12 @@ hero: assets/images/cheesy-popcorn.jpg
 
 ## :salt: Ingredients
 
-- :microbe: 0.33 (24 g) cup nutritional yeast
-- :seedling: 2 Tbsp sesame seeds
-- :curry: 1 Tbsp curry powder
+- :cheese_wedge: 0.33 cup (20 g) nutritional yeast
+- :seedling: 2 Tbsp (18 g) sesame seeds
+- :curry: 1 Tbsp (10 g) curry powder
 - :salt: 1 Tbsp salt
-- :ear_of_corn: some corn kernels
-- :oil_drum: some oil
+- :corn: some corn kernels
+- :olive: some oil
 
 ## :cooking: Cookware
 
@@ -54,5 +54,5 @@ Pour the popcorn into a bowl, and toss in the seasoning mix.
 
 - <https://youtube.com/watch?v=G5NEwx6KqPM>
 
-[1]: <../../assets/images/cheesy-popcorn.jpg>
+[1]: <../../assets/images/cheesy-popcorn.webp>
 [2]: <../../ingredients/toasted-nuts.md>

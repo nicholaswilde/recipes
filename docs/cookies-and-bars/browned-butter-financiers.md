@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/browned-butter-financiers.jpg
+hero: assets/images/browned-butter-financiers.webp
 ---
 
 # :cupcake: Browned Butter Financiers
@@ -18,12 +18,12 @@ hero: assets/images/browned-butter-financiers.jpg
 ## :salt: Ingredients
 
 - :butter: 115 g unsalted butter
-- :ear_of_rice: 140 g almond or hazelnut flour
+- :baby_bottle: 140 g almond or hazelnut flour
 - :candy: 180 g granulated sugar
-- :ear_of_rice: 45 g all-purpose flour
+- :bread: 45 g all-purpose flour
 - :salt: 1 generous pinch salt
 - :egg: 4 large egg whites
-- :icecream: 0.5 tsp vanilla or almond extract
+- :flower_playing_cards: 0.5 tsp vanilla or almond extract
 
 ## :cooking: Cookware
 
@@ -74,4 +74,4 @@ Let the financiers cool in the tins before removing them.
 
 - <https://www.davidlebovitz.com/brown-pastry-browned-butter-financiers-recipe-french/>
 
-[1]: <../assets/images/browned-butter-financiers.jpg>
+[1]: <../assets/images/browned-butter-financiers.webp>

@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/mushroom-paprikash.jpg
+hero: assets/images/mushroom-paprikash.webp
 ---
-# Mushroom Paprikash
+
+# :olive: Mushroom Paprikash
 
 ![Mushroom Paprikash][1]{ loading=lazy }
 
@@ -14,14 +15,14 @@ hero: assets/images/mushroom-paprikash.jpg
 
 ## :salt: Ingredients
 
-- :olive: 3 Tbsp olive oil
-- :onion: 1 medium yellow onion
-- :hot_pepper: 2 Tbsp sweet paprika
+- :olive: 3 Tbsp (38 g) olive oil
+- :seedling: 1 medium yellow onion
+- :hot_pepper: 2 Tbsp (18 g) sweet paprika
 - :droplet: some water
-- :mushroom: 16 oz mushrooms
+- :mushroom: 16 oz (156 g) mushrooms
 - :salt: some salt
-- :baby_bottle: 1 cup (227 g) sour cream
-- :ear_of_rice: some egg noodles or spaetzle
+- :glass_of_milk: 1 cup (227 g) sour cream
+- :baby_bottle: some egg noodles or spaetzle
 
 ## :cooking: Cookware
 
@@ -64,5 +65,4 @@ Boil up your egg noodles or spaetzle, and serve beneath a good scoop of paprikas
 
 - <https://cupofjo.com/2025/02/19/easy-mushroom-paprikash-recipe/>
 
-[1]: <../assets/images/mushroom-paprikash.jpg>
-
+[1]: <../assets/images/mushroom-paprikash.webp>

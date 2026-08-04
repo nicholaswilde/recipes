@@ -8,10 +8,10 @@ tags:
   - vegetarian
   - carrot
   - ginger
-hero: assets/images/carrot-ginger-soup.jpg
+hero: assets/images/carrot-ginger-soup.webp
 ---
 
-# Carrot Ginger Soup
+# :stew: Carrot Ginger Soup
 
 ![Carrot Ginger Soup][1]{ loading=lazy }
 
@@ -21,15 +21,15 @@ hero: assets/images/carrot-ginger-soup.jpg
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :onion: 1 cup (142 g) onions
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 cup (142 g) onions
 - :carrot: 3 cups (426 g) carrots
-- :sweet_potato: 2 Tbsp fresh ginger
-- :sweet_potato: 1 tsp ground ginger
+- :sweet_potato: 2 Tbsp (28 g) fresh ginger
+- :sweet_potato: 1 tsp (3 g) ground ginger
 - :garlic: 3 cloves garlic
-- :stew: 4 cups (908 g) vegetable broth
-- :apple: 1 Tbsp apple cider vinegar
-- :rice: some cashew cream or sour cream
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :apple: 1 Tbsp (18 g) apple cider vinegar
+- :chestnut: some cashew cream or sour cream
 - :seedling: some pumpkin seeds
 - :seedling: some hemp seeds
 - :herb: some fresh parsley
@@ -57,7 +57,7 @@ Add the garlic cloves (chopped) and cook, stirring, for 1 minute.
 
 ### Step 4
 
-Pour in the vegetable broth and bring it to a boil. Then reduce the heat to a simmer and cook for 20 minutes to 30
+Pour in the [Vegetable Broth](../ingredients/vegetable-broth.md) and bring it to a boil. Then reduce the heat to a simmer and cook for 20 minutes to 30
 minutes, or until the carrots are tender.
 
 ### Step 5
@@ -78,4 +78,4 @@ seeds or fresh parsley (chopped).
 
 - <https://namelymarly.com/carrot-ginger-soup/>
 
-[1]: <../assets/images/carrot-ginger-soup.jpg>
+[1]: <../assets/images/carrot-ginger-soup.webp>

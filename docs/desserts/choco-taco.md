@@ -4,19 +4,19 @@ tags:
 
   - dessert
   - cooks-illustrated
-hero: assets/images/choco-taco.jpg
+hero: assets/images/choco-taco.webp
 ---
 
 # :taco: Choco Taco
 
-![Choco Taco](../assets/images/choco-taco.jpg){ loading=lazy }
+![Choco Taco](../assets/images/choco-taco.webp){ loading=lazy }
 
 ## :salt: Ingredients
 
-- :cookie: 1 pkg [chocolate pizzelle cookies][1]
-- :icecream: 1 container fudge ripple ice cream
-- :peanuts: some peanuts
-- :chocolate_bar: some chocolate
+- 1 pkg [chocolate pizzelle cookies][1]
+- :ice_cream: 1 container fudge ripple ice cream
+- :chestnut: some peanuts
+- :chestnut: some chocolate
 
 ## :cooking: Cookware
 

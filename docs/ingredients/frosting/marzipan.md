@@ -4,12 +4,12 @@ tags:
 
   - frosting
   - ingredient
-hero: assets/images/marzipan.jpg
+hero: assets/images/marzipan.webp
 ---
 
 # :dango: Marzipan
 
-![Marzipan](../../assets/images/marzipan.jpg){ loading=lazy }
+![Marzipan](../../assets/images/marzipan.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -20,8 +20,8 @@ hero: assets/images/marzipan.jpg
 - :chestnut: 300 g ground almonds
 - :candy: 100 g granulated sugar
 - :candy: 350 g confectioners' sugar
-- :chestnut: 2 drops almond essence (optional)
-- :egg: 2 egg white
+- :apple: 2 drops almond essence (optional)
+- :beans: 2 egg white
 
 ## :cooking: Cookware
 

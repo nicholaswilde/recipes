@@ -4,12 +4,12 @@ tags:
 
   - joy-of-cooking
   - ingredient
-hero: assets/images/vegetable-broth.jpg
+hero: assets/images/vegetable-broth.webp
 ---
 
 # :stew: Vegetable Broth
 
-![Vegetable Broth](../assets/images/vegetable-broth.jpg){ loading=lazy }
+![Vegetable Broth](../assets/images/vegetable-broth.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,14 +18,14 @@ hero: assets/images/vegetable-broth.jpg
 ## :salt: Ingredients
 
 - :butter: 3 Tbsp butter
-- :onion: 1 cup onion
-- :leafy_green: 1 cup celery
-- :garlic: 1 cup turnip
+- :tea: 1 cup (96 g) onion
+- :leafy_green: 1 cup (142 g) celery
+- 1 cup turnip
 - :carrot: 1 cup carrot
-- :droplet: 4 cups boiling water
+- :droplet: 4 cups (908 g) boiling water
 - :salt: some salt
 - :salt: some pepper
-- :takeout_box: 1 Tbsp soy sauce
+- :takeout_box: 1 Tbsp (9 g) soy sauce
 
 ## :cooking: Cookware
 

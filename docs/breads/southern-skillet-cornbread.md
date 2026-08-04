@@ -4,9 +4,10 @@ tags:
   - bread
   - southern-living
   - cornbread
-hero: assets/images/southern-skillet-cornbread.jpg
+hero: assets/images/southern-skillet-cornbread.webp
 ---
-# Southern Skillet Cornbread
+
+# :shallow_pan_of_food: Southern Skillet Cornbread
 
 ![Southern Skillet Cornbread][1]{ loading=lazy }
 
@@ -16,12 +17,12 @@ hero: assets/images/southern-skillet-cornbread.jpg
 
 ## :salt: Ingredients
 
-- :olive: 0.25 cup (56 g) bacon drippings
-- :ear_of_rice: 2 cups (276 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
-- :chestnut: 0.5 tsp (3 g) baking soda
-- :egg: 2 large (100 g) eggs (lightly beaten)
-- :glass_of_milk: 1.5 cups (340 g) buttermilk
-- :butter: some butter (for serving)
+- :bacon: 0.25 cup bacon drippings
+- :ear_of_rice: 2 cups (326 g) [self-rising cornmeal mix](../ingredients/self-rising-cornmeal.md)
+- :chestnut: 0.5 tsp baking soda
+- :baby_bottle: 2 large eggs (lightly beaten)
+- :icecream: 1.5 cups [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: some butter (for serving)
 
 ## :cooking: Cookware
 
@@ -41,7 +42,7 @@ minutes.
 ### Step 2
 
 **Prepare Cornbread Batter:** Combine the self-rising cornmeal mix and baking soda in a bowl; make a well in the center
-of the mixture. In a separate bowl, stir together the eggs and buttermilk. Add the wet ingredients to the dry mixture,
+of the mixture. In a separate bowl, stir together the eggs and [buttermilk](../ingredients/buttermilk.md). Add the wet ingredients to the dry mixture,
 stirring just until moistened.
 
 ### Step 3
@@ -61,4 +62,4 @@ thoroughly. Pour the hot drippings into the batter and whisk to blend.
 
 - <https://www.southernliving.com/recipes/southern-skillet-cornbread>
 
-[1]: <../assets/images/southern-skillet-cornbread.jpg>
+[1]: <../assets/images/southern-skillet-cornbread.webp>

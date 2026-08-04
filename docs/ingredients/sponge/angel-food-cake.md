@@ -5,12 +5,12 @@ tags:
   - ingredient
   - sponge
   - king-arthur
-hero: assets/images/angel-food-cake.jpg
+hero: assets/images/angel-food-cake.webp
 ---
 
 # :cake: Angel Food Cake
 
-![Angel Food Cake](../../assets/images/angel-food-cake.jpg){ loading=lazy }
+![Angel Food Cake](../../assets/images/angel-food-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,12 +18,12 @@ hero: assets/images/angel-food-cake.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 120 g cake flour
+- :bread: 120 g cake flour
 - :candy: 298 g granulated sugar
 - :egg: 12 large egg whites
 - :salt: 0.5 tsp salt
-- :icecream: 1 tsp vanilla
-- :rice: 1.5 tsp cream of tartar
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 1.5 tsp (9 g) cream of tartar
 
 ## :cooking: Cookware
 

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - frosting
-hero: assets/images/classic-vanilla-buttercream-frosting.jpg
+hero: assets/images/classic-vanilla-buttercream-frosting.webp
 ---
 
 # :cake: Classic Vanilla Buttercream Frosting
 
-![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.jpg){ loading=lazy }
+![Classic Vanilla Buttercream Frosting](../../assets/images/classic-vanilla-buttercream-frosting.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/classic-vanilla-buttercream-frosting.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (227 g) butter
-- :candy: 3 cups (594 g) confectioners' sugar
-- :glass_of_milk: 1 Tbsp milk or cream
-- :icecream: 1 tsp vanilla
+- :butter: 1 cup butter
+- :candy: 3 cups (339 g) confectioners' sugar
+- :glass_of_milk: 1 Tbsp (14 g) milk or cream
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

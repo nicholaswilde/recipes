@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/ranch-dressing.jpg
+hero: assets/images/ranch-dressing.webp
 ---
 
 # :herb: Ranch Dressing
 
-![Ranch Dressing](../../assets/images/ranch-dressing.jpg){ loading=lazy }
+![Ranch Dressing](../../assets/images/ranch-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,10 +16,10 @@ hero: assets/images/ranch-dressing.jpg
 
 ## :salt: Ingredients
 
-- :egg: 0.5 cup [mayonnaise][2]
-- :custard: 0.5 cup sour cream or plain non-fat greek yogurt
-- :herb: 3 Tbsp [ranch dressing mix][1]
-- :glass_of_milk: 0.67 cups [buttermilk][3] or water
+- 0.5 cup [mayonnaise][2]
+- :cheese_wedge: 0.5 cup (114 g) sour cream or plain non-fat greek yogurt
+- 3 Tbsp [ranch dressing mix][1]
+- :droplet: 0.67 cups (152 g) [buttermilk][3] or water
 
 ## :cooking: Cookware
 
@@ -32,7 +32,7 @@ In a mixing bowl; combine [mayonnaise][2], sour cream or plain non-fat greek yog
 
 ### Step 2
 
-Add more buttermilk or water to thin as desired.
+Add more [buttermilk](../../ingredients/buttermilk.md) or water to thin as desired.
 
 ## :link: Source
 

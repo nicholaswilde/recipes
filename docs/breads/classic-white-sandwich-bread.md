@@ -5,9 +5,10 @@ tags:
   - sandwich bread
   - white bread
   - King Arthur Baking
-hero: assets/images/classic-white-sandwich-bread.jpg
+hero: assets/images/classic-white-sandwich-bread.webp
 ---
-# Classic White Sandwich Bread
+
+# :bread: Classic White Sandwich Bread
 
 ![Classic White Sandwich Bread][1]{ loading=lazy }
 
@@ -17,12 +18,12 @@ hero: assets/images/classic-white-sandwich-bread.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 1 1/4 to 1 1/2 cups (284 g to 340 g) lukewarm water
-- :honey_pot: 1 heaping Tbsp (32 g) honey
+- :baby_bottle: 1 1/4 to 1 1/2 cups (284 g to 340 g) lukewarm water
+- :honey_pot: 1 heaping Tbsp honey
 - :tea: 2 1/4 tsp instant yeast
-- :salt: 1 3/4 tsp (11 g) table salt
-- :butter: 2 Tbsp (28 g) butter, softened
-- :bread: 4 cups (480 g) King Arthur Unbleached All-Purpose Flour
+- :baby_bottle: 1 3/4 tsp table salt
+- :baby_bottle: 2 Tbsp (28 g) butter, softened
+- :bread: 4 cups (624 g) King Arthur Unbleached All-Purpose Flour
 - :glass_of_milk: 1/3 cup (37 g) nonfat dry milk (or King Arthur Baker's Special Dry Milk)
 
 ## :cooking: Cookware
@@ -61,4 +62,4 @@ Remove from the oven and turn out onto a rack to cool. Wrap in plastic and store
 
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/king-arthurs-classic-white-sandwich-bread-recipe)
 
-[1]: <../assets/images/classic-white-sandwich-bread.jpg>
+[1]: <../assets/images/classic-white-sandwich-bread.webp>

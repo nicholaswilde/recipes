@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/braised-asparagus-with-lemon-and-chives.jpg
+hero: assets/images/braised-asparagus-with-lemon-and-chives.webp
 ---
 
 # :leafy_green: Braised Asparagus with Lemon & Chives
 
-![Braised Asparagus with Lemon and Chives](../../assets/images/braised-asparagus-with-lemon-and-chives.jpg){ loading=lazy }
+![Braised Asparagus with Lemon and Chives](../../assets/images/braised-asparagus-with-lemon-and-chives.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/braised-asparagus-with-lemon-and-chives.jpg
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 lb thick asparagus
-- :droplet: 1 cup water
-- :stew: 0.25 cup [vegetable broth][1]
-- :olive: 2 Tbsp olive oil
+- :apple: 1 lb thick asparagus
+- :droplet: 1 cup (227 g) water
+- 0.25 cup [vegetable broth][1]
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: 0.25 tsp salt
-- :lemon: 0.25 tsp lemon zest
-- :herb: 2 tsp chives
+- :tangerine: 0.25 tsp (1 g) lemon zest
+- 2 tsp (2 g) chives
 
 ## :cooking: Cookware
 

@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/custard-creams.jpg
+hero: assets/images/custard-creams.webp
 ---
 
 # :cookie: Custard Creams
@@ -15,22 +15,24 @@ hero: assets/images/custard-creams.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.87 hours |
 
-## :salt: Ingredients - Biscuit
+## :salt: Ingredients
 
-- :butter: 100 g unsalted butter
-- :candy: 100 g granulated sugar
-- :egg: 1 egg
-- :icecream: 0.5 tsp vanilla
-- :ear_of_rice: 175 g all-purpose flour
-- :rice: 35 g custard powder
+=== "Biscuit"
 
-## :salt: Ingredients - Custard
+    - :butter: 100 g unsalted butter
+    - :candy: 100 g granulated sugar
+    - :egg: 1 egg
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :bread: 175 g all-purpose flour
+    - :chestnut: 35 g custard powder
 
-- :candy: 65 g granulated sugar
-- :droplet: 2 Tbsp water
-- :egg: 2 egg yolks
-- :rice: 20 g custard powder
-- :butter: 150 g unsalted butter
+=== "Custard"
+
+    - :candy: 65 g granulated sugar
+    - :droplet: 2 Tbsp (28 g) water
+    - :baby_bottle: 2 egg yolks
+    - :chestnut: 20 g custard powder
+    - :butter: 150 g unsalted butter
 
 ## :cooking: Cookware
 
@@ -99,4 +101,4 @@ chill the biscuits until the filling is firm. They will keep for up to 3 days in
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/prue-leiths-custard-creams/>
 
-[1]: <../assets/images/custard-creams.jpg>
+[1]: <../assets/images/custard-creams.webp>

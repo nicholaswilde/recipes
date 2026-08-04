@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - panera
-hero: assets/images/green-goddess-caprese-melt.jpg
+hero: assets/images/green-goddess-caprese-melt.webp
 ---
 
 # :baguette_bread: Green Goddess Caprese Melt
@@ -18,14 +18,14 @@ hero: assets/images/green-goddess-caprese-melt.jpg
 ## :salt: Ingredients
 
 - :baguette_bread: 1 french baguette
-- :green_salad: 1 [Green Goddess dressing][2]
+- 1 [Green Goddess dressing][2]
 - :tomato: some tomatoes
 - :cheese_wedge: some mozzarella
 - :cheese_wedge: some Parmesan
 - :hot_pepper: some Peppadew peppers
 - :herb: some fresh basil
 - :leafy_green: some arugula
-- :garlic: some [garlic aioli][3]
+- some [garlic aioli][3]
 
 ## :pencil: Instructions
 
@@ -46,6 +46,6 @@ To the baguette, add tomatoes, mozzarella, grated Parmesan, zesty sweet Peppadew
 
 - <https://www.panerabread.com/en-us/menu/products/green-goddess-caprese-melt--toasted-baguette.html>
 
-[1]: <../assets/images/green-goddess-caprese-melt.jpg>
+[1]: <../assets/images/green-goddess-caprese-melt.webp>
 [2]: <../sauces-and-dressings/dips-and-spreads/green-goddess-dressing.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/garlic-aioli.md>

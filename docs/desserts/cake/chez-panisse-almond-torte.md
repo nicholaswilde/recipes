@@ -6,7 +6,7 @@ tags:
   - cake
   - chez-panisse
   - favorite
-hero: assets/images/chez-panisse-almond-torte.jpg
+hero: assets/images/chez-panisse-almond-torte.webp
 ---
 
 # :chestnut: Chez Panisse Almond Torte
@@ -19,13 +19,13 @@ hero: assets/images/chez-panisse-almond-torte.jpg
 
 ## :salt: Ingredients
 
-- :candy: 1.25 (248 g) cups granulated sugar
-- :chestnut: 200 g [almond paste][2]
-- :butter: 1 cup (227 g) unsalted butter
-- :icecream: 1 tsp vanilla
+- :candy: 1.25 cups (248 g) granulated sugar
+- 200 g [almond paste][2]
+- :butter: 1 cup (226 g) unsalted butter
+- :flower_playing_cards: 1 tsp vanilla
 - :egg: 6 eggs
-- :ear_of_rice: 130 g all-purpose flour
-- :dash: 1.5 tsp baking powder
+- :bread: 130 g all-purpose flour
+- :chestnut: 1.5 tsp baking powder
 - :salt: 0.25 tsp salt
 - :candy: some confectioners' sugar
 
@@ -37,7 +37,7 @@ hero: assets/images/chez-panisse-almond-torte.jpg
 
 ### Step 1
 
-Preheat the oven to 325°F. Beat the granulated sugar with the [almond paste][2] until the almond paste is in fine
+Preheat the oven to 325°F. Beat the granulated sugar with the [almond paste][2] until the [Almond Paste](../../ingredients/almond-paste.md) is in fine
 pieces. Or, better, pulverize it in a food processor. Beat in the unsalted butter and the vanilla, then cream the
 mixture until it is light and fluffy. Beat in the whole eggs, one at a time - the eggs should be at room temperature -
 beating well after each addition so the eggs are thoroughly mixed in.
@@ -60,5 +60,5 @@ Let cool for about 20 minutes before releasing the sides of the springform pan. 
 
 - <https://alexandracooks.com/2012/12/14/chez-panisse-almond-torte/>
 
-[1]: <../../assets/images/chez-panisse-almond-torte.jpg>
+[1]: <../../assets/images/chez-panisse-almond-torte.webp>
 [2]: <../../ingredients/almond-paste.md>

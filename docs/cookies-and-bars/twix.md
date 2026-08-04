@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - cookie
-hero: assets/images/twix.jpg
+hero: assets/images/twix.webp
 ---
 
 # :cookie: Twix
 
-![Twix](../assets/images/twix.jpg){ loading=lazy }
+![Twix](../assets/images/twix.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/rosca-de-reyes.jpg
+hero: assets/images/rosca-de-reyes.webp
 ---
 
-# Rosca de Reyes
+# :hotsprings: Rosca de Reyes
 
 ![Rosca de Reyes][1]{ loading=lazy }
 
@@ -14,28 +14,30 @@ hero: assets/images/rosca-de-reyes.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 | 3.62 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :hotsprings: 0.5 cup (114 g) lukewarm water
-- :microbe: 7 g yeast
-- :ear_of_rice: 565 g all-purpose flour
-- :egg: 3 large eggs
-- :egg: 3 egg yolks
-- :candy: 150 g granulated sugar
-- :orange_circle: 1.5 Tbsp orange extract
-- :orange_circle: 1 orange zest
-- :salt: 0.5 tsp salt
-- :butter: 169 g unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Decoration
+    - :baby_bottle: 0.5 cup (114 g) lukewarm water
+    - :tea: 7 g yeast
+    - :bread: 565 g all-purpose flour
+    - :egg: 3 large eggs
+    - :baby_bottle: 3 egg yolks
+    - :candy: 150 g granulated sugar
+    - :flower_playing_cards: 1.5 Tbsp orange extract
+    - :tangerine: 1 orange zest
+    - :salt: 0.5 tsp salt
+    - :butter: 169 g unsalted butter
 
-- :butter: 6 Tbsp margarine
-- :candy: 0.5 cup (99 g) confectioners' sugar
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
-- :egg: 1 egg yolk
-- :egg: 1 egg
-- :glass_of_milk: 1 Tbsp milk or water
-- :cherries: some dried figs, candied citron, quince paste stripes, orange peels or cherries
+=== "Decoration"
+
+    - 6 Tbsp margarine
+    - :candy: 0.5 cup (56 g) confectioners' sugar
+    - :bread: 0.75 cup (90 g) all-purpose flour
+    - :egg: 1 egg yolk
+    - :egg: 1 egg
+    - :glass_of_milk: 1 Tbsp (14 g) milk or water
+    - :hot_pepper: some dried figs, candied citron, quince paste stripes, orange peels or cherries
 
 ## :cooking: Cookware
 
@@ -109,4 +111,4 @@ in an airtight container for up to 3 days.
 
 - <https://www.mexicoinmykitchen.com/three-kings-bread-recipe/>
 
-[1]: <../assets/images/rosca-de-reyes.jpg>
+[1]: <../assets/images/rosca-de-reyes.webp>

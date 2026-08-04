@@ -5,7 +5,7 @@ tags:
   - frosting
   - ingredient
   - claire-saffitz
-hero: assets/images/brown-butter-cream-cheese-frosting.jpg
+hero: assets/images/brown-butter-cream-cheese-frosting.webp
 ---
 
 # :cake: Brown Butter Cream Cheese Frosting
@@ -23,8 +23,8 @@ hero: assets/images/brown-butter-cream-cheese-frosting.jpg
 | 3 Tiers |
 
 - :butter: 227 g unsalted butter
-- :cheese_wedge: 16 oz cream cheese
-- :icecream: 1 vanilla bean
+- :cheese_wedge: 16 oz (454 g) cream cheese
+- :hamburger: 1 vanilla bean
 - :salt: 1 pinch kosher salt
 - :candy: 1 lb confectioners' sugar
 
@@ -33,8 +33,8 @@ hero: assets/images/brown-butter-cream-cheese-frosting.jpg
 | 2 Tiers |
 
 - :butter: 151 g unsalted butter
-- :cheese_wedge: 8 oz cream cheese
-- :icecream: 0.5 vanilla bean
+- :cheese_wedge: 8 oz (227 g) cream cheese
+- :hamburger: 0.5 vanilla bean
 - :salt: 1 pinch kosher salt
 - :candy: 227 g confectioners' sugar
 
@@ -81,4 +81,4 @@ Beat mixture until combined.
 
 - <https://youtu.be/ou3zj0R0Gus?si=eDPRcbSBk_GqIZLk&t=706>
 
-[1]: <../../assets/images/brown-butter-cream-cheese-frosting.jpg>
+[1]: <../../assets/images/brown-butter-cream-cheese-frosting.webp>

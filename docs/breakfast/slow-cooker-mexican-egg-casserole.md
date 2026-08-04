@@ -5,12 +5,12 @@ tags:
   - mexican
   - breakfast
   - slow-cooker
-hero: assets/images/slow-cooker-mexican-egg-casserole.jpg
+hero: assets/images/slow-cooker-mexican-egg-casserole.webp
 ---
 
 # :egg: Slow Cooker Mexican Egg Casserole
 
-![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.jpg){ loading=lazy }
+![Slow Cooker Mexican Egg Casserole](../assets/images/slow-cooker-mexican-egg-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -19,13 +19,13 @@ hero: assets/images/slow-cooker-mexican-egg-casserole.jpg
 ## :salt: Ingredients
 
 - :egg: 1 dozen eggs
-- :glass_of_milk: 1 cup milk
+- :glass_of_milk: 1 cup (227 g) milk
 - :flatbread: 1 dozen flour tortillas
-- :tomato: 3 bottles salsa (2 thin, 1 chunky)
+- :glass_of_milk: 3 bottles salsa (2 thin, 1 chunky)
 - :butter: 1 cube butter
 - :cheese_wedge: 2 pkgs blended shredded cheese
-- :rice: 1 container sour cream
-- :avocado: 1 container guacamole
+- :glass_of_milk: 1 container sour cream
+- :avodado: 1 container guacamole
 
 ## :cooking: Cookware
 

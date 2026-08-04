@@ -4,7 +4,8 @@ tags:
   - side
 hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
 ---
-# Lemony Broccoli Salad with Chickpeas & Feta
+
+# :green_salad: Lemony Broccoli Salad with Chickpeas & Feta
 
 ![Lemony Broccoli Salad with Chickpeas & Feta][1]{ loading=lazy }
 
@@ -14,16 +15,16 @@ hero: assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg
 
 ## :salt: Ingredients
 
-- :olive: 3 Tbsp olive oil
-- :broccoli: 6 cups (540 g) broccoli florets
+- :olive: 3 Tbsp (38 g) olive oil
+- :broccoli: 6 cups (546 g) broccoli florets
 - :beans: 3 cups (450 g) peas
 - :salt: some salt
 - :salt: some pepper
-- :beans: 1 15-oz can [chickpeas][2]
-- :cheese_wedge: 0.75 cup (85 g) feta cheese
-- :tangerine: 1 tsp lemon zest
+- :glass_of_milk: 1 15-oz can [chickpeas][2]
+- :cheese_wedge: 0.75 cup (86 g) feta cheese
+- :tangerine: 1 tsp (5 g) lemon zest
 - :tangerine: 0.5 lemon juice
-- :olive: 1 tsp olive oil
+- :olive: 1 tsp (4 g) olive oil
 
 ## :cooking: Cookware
 
@@ -46,4 +47,3 @@ Pour veggies into a bowl and cool for 10 minutes. Add chickpeas, crumbled feta, 
 
 [1]: <../../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg>
 [2]: <../../ingredients/chickpeas.md>
-

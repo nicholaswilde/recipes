@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - soup
-hero: assets/images/creamy-roasted-carrot-soup.jpg
+hero: assets/images/creamy-roasted-carrot-soup.webp
 ---
 
 # :carrot: Creamy Roasted Carrot Soup
 
-![Creamy Roasted Carrot Soup](../assets/images/creamy-roasted-carrot-soup.jpg){ loading=lazy }
+![Creamy Roasted Carrot Soup](../assets/images/creamy-roasted-carrot-soup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/creamy-roasted-carrot-soup.jpg
 ## :salt: Ingredients
 
 - :carrot: 2 lb carrots
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.75 tsp salt
-- :onion: 1 medium yellow onion
+- :seedling: 1 medium yellow onion
 - :garlic: 2 cloves garlic
-- :herb: 0.5 tsp coriander
-- :custard: 0.25 tsp cumin
-- :stew: 4 cup vegetable broth
-- :droplet: 2 cup water
+- :chestnut: 0.5 tsp (1 g) coriander
+- :chestnut: 0.25 tsp (1 g) cumin
+- 4 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :droplet: 2 cup (454 g) water
 - :butter: 1.5 Tbsp butter
-- :lemon: 1.5 tsp lemon juice
+- :tangerine: 1.5 tsp (7 g) lemon juice
 - :salt: some black pepper
 
 ## :cooking: Cookware
@@ -67,7 +67,7 @@ softened and turning translucent, 5 to 7 minutes.
 ### Step 6
 
 Add the garlic, coriander and cumin (if following a variation, see recipe notes for additions). Cook until fragrant
-while stirring constantly, about 30 seconds to 1 minute. Pour in the vegetable broth and water, while scraping up any
+while stirring constantly, about 30 seconds to 1 minute. Pour in the [Vegetable Broth](../ingredients/vegetable-broth.md) and water, while scraping up any
 browned bits on the bottom with a wooden spoon or sturdy silicone spatula.
 
 ### Step 7

@@ -5,12 +5,12 @@ tags:
   - sauce
   - italian
   - joy-of-cooking
-hero: assets/images/marinara-sauce.jpg
+hero: assets/images/marinara-sauce.webp
 ---
 
 # :tomato: Marinara Sauce
 
-![Marinara Sauce](../../assets/images/marinara-sauce.jpg){ loading=lazy }
+![Marinara Sauce](../../assets/images/marinara-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,7 +19,7 @@ hero: assets/images/marinara-sauce.jpg
 ## :salt: Ingredients
 
 - :tomato: 1 28-oz can whole tomatoes with their juice
-- :olive: 0.33 cup olive oil
+- :olive: 0.33 cup (66 g) olive oil
 - :garlic: 3 cloves garlic
 - :herb: 6 sprigs basil
 - :herb: 6 sprigs parsley

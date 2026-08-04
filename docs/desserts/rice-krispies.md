@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/rice-krispies.jpg
+hero: assets/images/rice-krispies.webp
 ---
 
 # :bowl_with_spoon: Rice Krispies
 
-![Rice Krispies](../assets/images/rice-krispies.jpg){ loading=lazy }
+![Rice Krispies](../assets/images/rice-krispies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/rice-krispies.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 7 cups (196 g) Rice Krispies Cereal
-- :butter: 6 Tbsp unsalted butter
-- :dango: 16 oz marshmallows
+- :bread: 7 cups (196 g) Rice Krispies Cereal
+- :butter: 6 Tbsp (85 g) unsalted butter
+- 16 oz (86 g) marshmallows
 
 ## :cooking: Cookware
 
@@ -35,7 +35,7 @@ Grease a 9 x 13 inch pan and a large mixing bowl with butter or baking spray.
 
 ### Step 2
 
-Pour the  Rice Krispies Cereal into the greased bowl and set it aside.
+Pour the Rice Krispies Cereal into the greased bowl and set it aside.
 
 ### Step 3
 

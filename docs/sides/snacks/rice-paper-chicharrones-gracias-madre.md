@@ -3,12 +3,12 @@ comments: true
 tags:
   - snack
   - side
-hero: assets/images/rice-paper-chicharrones-gracias-madre.jpg
+hero: assets/images/rice-paper-chicharrones-gracias-madre.webp
 ---
 
 # :bread: Rice Paper Chicharrones Gracias Madre
 
-![Rice Paper Chicharrones Gracias Madre](../../assets/images/rice-paper-chicharrones-gracias-madre.jpg){ loading=lazy }
+![Rice Paper Chicharrones Gracias Madre](../../assets/images/rice-paper-chicharrones-gracias-madre.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,9 +17,9 @@ hero: assets/images/rice-paper-chicharrones-gracias-madre.jpg
 ## :salt: Ingredients
 
 - :olive: 1 inch neutral oil
-- :bread: 12 (120 g) rice paper wrappers
+- :bread: 12 rice paper wrappers
 - :salt: some Himalayan salt
-- :hot_pepper: some paprika
+- :candy: some paprika
 
 ## :cooking: Cookware
 

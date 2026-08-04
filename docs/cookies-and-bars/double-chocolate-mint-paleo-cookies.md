@@ -4,7 +4,7 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/double-chocolate-mint-paleo-cookies.jpg
+hero: assets/images/double-chocolate-mint-paleo-cookies.webp
 ---
 
 # :cookie: Double Chocolate Mint Paleo Cookies
@@ -17,21 +17,21 @@ hero: assets/images/double-chocolate-mint-paleo-cookies.jpg
 
 ## :salt: Ingredients
 
-- :butter: 0.25 cup (57 g) almond butter
-- :coconut: 0.25 cup (56 g) melted coconut oil
-- :candy: 0.25 cup (50 g) coconut sugar
-- :maple_leaf: 0.25 cup (78 g) maple syrup
+- :chestnut: 0.25 cup (68 g) almond butter
+- :olive: 0.25 cup (56 g) melted coconut oil
+- :candy: 0.25 cup (38 g) coconut sugar
+- :honey_pot: 0.25 cup (78 g) maple syrup
 - :egg: 1 egg
-- :icecream: 1 tsp vanilla
-- :candy: 0.75 tsp peppermint extract
-- :ear_of_rice: 1 cup (96 g) [almond flour][2]
-- :ear_of_rice: 0.33 cup (42 g) coconut flour
-- :chocolate_bar: 0.33 cup cocoa powder
+- :flower_playing_cards: 1 tsp vanilla
+- :flower_playing_cards: 0.75 tsp peppermint extract
+- 1 cup [almond flour][2]
+- :chestnut: 0.33 cup (42 g) coconut flour
+- :chocolate_bar: 0.33 cup (36 g) cocoa powder
 - :salt: 0.25 tsp salt
-- :cup_with_straw: 0.5 tsp baking soda
+- :chestnut: 0.5 tsp baking soda
 - :chocolate_bar: 0.5 cup (85 g) chocolate chips
-- :chocolate_bar: 0.5 cup melt chocolate
-- :candy: 0.5 cup crushed candy cane
+- :chestnut: 0.5 cup (85 g) melt chocolate
+- :hot_pepper: 0.5 cup (71 g) crushed candy cane
 
 ## :cooking: Cookware
 
@@ -95,5 +95,5 @@ Let set and store at room temperature for up to one week.
 
 - <https://www.erinliveswhole.com/paleo-double-chocolate-mint-cookies/>
 
-[1]: <../assets/images/double-chocolate-mint-paleo-cookies.jpg>
+[1]: <../assets/images/double-chocolate-mint-paleo-cookies.webp>
 [2]: <../ingredients/almond-flour.md>

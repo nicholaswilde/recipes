@@ -4,12 +4,12 @@ tags:
 
   - dressing
   - joy-of-cooking
-hero: assets/images/honey-mustard-vinaigrette.jpg
+hero: assets/images/honey-mustard-vinaigrette.webp
 ---
 
 # :honey_pot: Honey Mustard Vinaigrette
 
-![Honey Mustard Vinaigrette](../../assets/images/honey-mustard-vinaigrette.jpg){ loading=lazy }
+![Honey Mustard Vinaigrette](../../assets/images/honey-mustard-vinaigrette.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/honey-mustard-vinaigrette.jpg
 
 ## :salt: Ingredients
 
-- :lemon: 2 Tbsp lemon juice
-- :champagne: 1 Tbsp white wine vinegar
+- :tangerine: 2 Tbsp (28 g) lemon juice
+- :wine_glass: 1 Tbsp (9 g) white wine vinegar
 - :honey_pot: 1 Tbsp honey
-- :hotdog: 1 tsp coarse-grain mustard
+- :seedling: 1 tsp (4 g) coarse-grain mustard
 - :salt: some salt
 - :salt: some pepper
-- :olive: 6 Tbsp olive oil
+- :olive: 6 Tbsp (75 g) olive oil
 
 ## :cooking: Cookware
 

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/vanilla-bean-cream.jpg
+hero: assets/images/vanilla-bean-cream.webp
 ---
 
 # :icecream: Vanilla Bean Cream
 
-![Vanilla Bean Cream](../assets/images/vanilla-bean-cream.jpg){ loading=lazy }
+![Vanilla Bean Cream](../assets/images/vanilla-bean-cream.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -26,8 +26,8 @@ hero: assets/images/vanilla-bean-cream.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups heavy cream
-- :icecream: 1 vanilla bean
+- :glass_of_milk: 2 cups (454 g) heavy cream
+- :hamburger: 1 vanilla bean
 
 ## :cooking: Cookware
 

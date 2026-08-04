@@ -4,7 +4,7 @@ tags:
 
   - side
   - trader-joes
-hero: assets/images/mushroom-medley.jpg
+hero: assets/images/mushroom-medley.webp
 ---
 
 # :mushroom: Mushroom Medley
@@ -17,9 +17,9 @@ hero: assets/images/mushroom-medley.jpg
 
 ## :salt: Ingredients
 
-- :mushroom: some champignons
+- some champignons
 - :mushroom: some oyster mushrooms
-- :mushroom: some boletus
+- some boletus
 - :mushroom: some slippery jack mushrooms
 - :olive: some olive oil
 - :herb: some parsley
@@ -38,4 +38,4 @@ Saute champignons, oyster mushrooms, boletus, slippery jack mushrooms in olive o
 
 - Trader Joe's
 
-[1]: <../../assets/images/mushroom-medley.jpg>
+[1]: <../../assets/images/mushroom-medley.webp>

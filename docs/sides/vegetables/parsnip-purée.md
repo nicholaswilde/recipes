@@ -8,12 +8,12 @@ tag:
   - gordon-ramsay
   - puree
   - side
-hero: assets/images/parsnip-purée.jpg
+hero: assets/images/parsnip-purée.webp
 ---
 
 # :carrot: Parsnip Purée
 
-![Parsnip Purée](../../assets/images/parsnip-purée.jpg){ loading=lazy }
+![Parsnip Purée](../../assets/images/parsnip-purée.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

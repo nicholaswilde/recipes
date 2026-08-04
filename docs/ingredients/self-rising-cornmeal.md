@@ -4,9 +4,10 @@ tags:
   - ingredient
   - southern-living
   - feast-and-farm
-hero: assets/images/self-rising-cornmeal.jpg
+hero: assets/images/self-rising-cornmeal.webp
 ---
-# Self-Rising Cornmeal
+
+# :ear_of_rice: Self-Rising Cornmeal
 
 ![Self-Rising Cornmeal][1]{ loading=lazy }
 
@@ -18,8 +19,8 @@ hero: assets/images/self-rising-cornmeal.jpg
 
 - :ear_of_rice: 1.75 cups (242 g) cornmeal
 - :bread: 6 Tbsp (45 g) all-purpose flour
-- :chestnut: 2 Tbsp (24 g) baking powder
-- :salt: 0.5 tsp (3 g) salt
+- :chestnut: 2 Tbsp baking powder
+- :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
 
@@ -39,4 +40,4 @@ Use according to whatever recipe you are following.
 
 - <https://feastandfarm.com/how-to-make-self-rising-cornmeal/>
 
-[1]: <../assets/images/self-rising-cornmeal.jpg>
+[1]: <../assets/images/self-rising-cornmeal.webp>

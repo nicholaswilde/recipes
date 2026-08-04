@@ -1,9 +1,25 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# generate_typos_config.py
+# ----------------
+# Generate typos configuration from dictionary.txt
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 02 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 
+DICTIONARY_PATH = "dictionary.txt"
+TYPOS_TOML_PATH = "_typos.toml"
+
 def main():
-    dict_path = "dictionary.txt"
-    config_path = "_typos.toml"
+    dict_path = globals().get("DICTIONARY_PATH", DICTIONARY_PATH)
+    config_path = globals().get("TYPOS_TOML_PATH", TYPOS_TOML_PATH)
     
     exclusions = [
         "docs/assets/images/**",

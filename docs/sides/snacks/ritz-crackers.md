@@ -4,12 +4,12 @@ tags:
 
   - cracker
   - snack
-hero: assets/images/ritz-crackers.jpg
+hero: assets/images/ritz-crackers.webp
 ---
 
 # :cookie: Ritz Crackers
 
-![Ritz Crackers](../../assets/images/ritz-crackers.jpg){ loading=lazy }
+![Ritz Crackers](../../assets/images/ritz-crackers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/ritz-crackers.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :dash: 3 tsp baking powder
-- :candy: 1 Tbsp sugar
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 3 tsp baking powder
+- :candy: 1 Tbsp (10 g) sugar
 - :salt: 0.5 tsp salt
-- :butter: 8 Tbsp cold butter
-- :oil_drum: 2 Tbsp vegetable oil
+- :glass_of_milk: 8 Tbsp (136 g) cold butter
+- :olive: 2 Tbsp (25 g) vegetable oil
 - :droplet: 0.67 cup (152 g) water
 - :egg: 1 egg
 

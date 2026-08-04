@@ -9,11 +9,23 @@ vars:
   PORT: 8000
 
 tasks:
+  check-missing-images:
+    desc: Check recipes for missing images.
+    cmds:
+      - 'uv run scripts/check_missing_images.py'
+  check-missing-sources:
+    desc: Find recipes missing a source section.
+    cmds:
+      - 'uv run scripts/find_missing_sources.py'
+  check-header-emojis:
+    desc: Check recipes for missing H1 header emoji shortcodes.
+    cmds:
+      - 'uv run scripts/check_header_emojis.py {{ .CLI_ARGS }}'
   build:
     desc: Build the static site
     cmds:
       - uv run zensical build
-      
+
   docs:deps:
     desc: Install Zensical
     cmds:
@@ -90,6 +102,16 @@ tasks:
       - task: yamllint
       - task: shuck
 
+  lint-changed:
+    desc: Lint only modified/changed files (saves tokens)
+    cmds:
+      - uv run python3 scripts/lint_changed.py
+
+  git-summary:
+    desc: Show a token-efficient summary of git workspace status and changes
+    cmds:
+      - uv run python3 scripts/git_summary.py
+
   shuck:
     desc: Run shuck shell linter
     cmds:
@@ -97,7 +119,7 @@ tasks:
   list-ingredients:
     desc: List all ingredients in all cook recipes and copy to clipboard.
     cmds:
-      - ./scripts/list-ingredients.sh
+      - ./scripts/list_ingredients.sh
   markdownlint:
     desc: Run markdownlint-cli
     cmds:
@@ -165,6 +187,27 @@ tasks:
     desc: Move recipes markdown file and image, FILES.
     cmds:
       - ./scripts/move.sh {{shellQuote .FILES }}
+  import-recipe:
+    desc: Import a recipe from a URL or GitHub issue number.
+    cmds:
+      - uv run scripts/import_recipe_workflow.py {{shellQuote .URL}} {{if .CATEGORY}}{{shellQuote .CATEGORY}}{{end}}
+  whitelist-typo:
+    desc: Whitelist words in the typos dictionary and rebuild config.
+    cmds:
+      - uv run scripts/whitelist_typos.py {{.WORDS}}
+  hyperlink-ingredient:
+    desc: Hyperlink an ingredient in a recipe markdown file
+    cmds:
+      - >-
+        uv run python3 scripts/hyperlink_ingredient.py
+        --target {{shellQuote .TARGET}}
+        --ingredient {{shellQuote .INGREDIENT}}
+  hyperlink-ingredient-global:
+    desc: Hyperlink an ingredient globally in all recipe markdown files
+    cmds:
+      - >-
+        uv run python3 scripts/hyperlink_ingredient_global.py
+        --ingredient {{shellQuote .INGREDIENT}}
   deg:
     desc: Replace temperatures with degree symbols
     cmds:

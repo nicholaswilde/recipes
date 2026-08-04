@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/ice-cream-cones.jpg
+hero: assets/images/ice-cream-cones.webp
 ---
 
 # :icecream: Ice Cream Cones
 
-![Ice Cream Cones](../assets/images/ice-cream-cones.jpg){ loading=lazy }
+![Ice Cream Cones](../assets/images/ice-cream-cones.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,8 +19,8 @@ hero: assets/images/ice-cream-cones.jpg
 - :egg: 2 large egg whites
 - :salt: 1 pinch salt
 - :candy: 95 g confectioners' sugar
-- :icecream: 0.25 tsp vanilla
-- :ear_of_rice: 65 g all-purpose flour
+- :flower_playing_cards: 0.25 tsp vanilla
+- :bread: 65 g all-purpose flour
 - :butter: 55 g unsalted butter
 
 ## :cooking: Cookware

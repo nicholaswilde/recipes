@@ -5,12 +5,12 @@ tags:
   - side
   - stuffing
   - thanksgiving
-hero: assets/images/vegetarian-stuffing.jpg
+hero: assets/images/vegetarian-stuffing.webp
 ---
 
 # :stuffed_flatbread: Vegetarian Stuffing
 
-![Vegetarian Stuffing](../../assets/images/vegetarian-stuffing.jpg){ loading=lazy }
+![Vegetarian Stuffing](../../assets/images/vegetarian-stuffing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/vegetarian-stuffing.jpg
 
 ## :salt: Ingredients
 
-- :stuffed_flatbread: 1 Mrs. Cubbison's stuffing
+- 1 Mrs. Cubbison's stuffing
 - :leafy_green: some celery
-- :chestnut: some water chestnut
-- :stew: some [vegetable broth][1]
-- :onion: some onion
+- :baby_bottle: some water chestnut
+- some [vegetable broth][1]
+- :tea: some onion
 - :butter: some butter
-- :poultry_leg: some poultry seasoning
+- :herb: some poultry seasoning
 
 ## :pencil: Instructions
 

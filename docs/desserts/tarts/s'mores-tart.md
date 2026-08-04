@@ -5,7 +5,7 @@ tags:
   - dessert
   - tart
   - claire-saffitz
-hero: assets/images/s'mores-tart.jpg
+hero: assets/images/s'mores-tart.webp
 ---
 
 # :dango: S'mores Tart
@@ -19,15 +19,15 @@ hero: assets/images/s'mores-tart.jpg
 ## :salt: Ingredients
 
 - :butter: 71 g unsalted butter
-- :cookie: 198 g [graham crackers][3]
+- 198 g [graham crackers][3]
 - :egg: 1 large egg yolk
-- :candy: 2 Tbsp granulated sugar
+- :candy: 2 Tbsp (25 g) granulated sugar
 - :salt: 0.5 tsp salt
-- :chocolate_bar: 170 g semisweet chocolate (64%-70% cocoa)
-- :icecream: 180 g heavy cream
+- :bread: 170 g semisweet chocolate (64%-70% cocoa)
+- :glass_of_milk: 180 g heavy cream
 - :butter: 57 g unsalted butter
-- :icecream: 120 g heavy cream
-- :dango: 1 [easy marshmallows][2]
+- :glass_of_milk: 120 g heavy cream
+- 1 [easy marshmallows][2]
 
 ## :cooking: Cookware
 
@@ -101,6 +101,6 @@ serving plate.
 
 - What's For Dessert
 
-[1]: <../../assets/images/s'mores-tart.jpg>
+[1]: <../../assets/images/s'mores-tart.webp>
 [2]: <../../ingredients/marshmallow-fluff.md>
 [3]: <../../ingredients/graham-crackers.md>

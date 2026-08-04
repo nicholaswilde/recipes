@@ -16,10 +16,10 @@ hero: assets/images/brown-rice.png
 
 ## :salt: Ingredients
 
-- :rice: 1 cup brown rice (200g)
-- :stew: 1 cup cold water or vegetable broth (250mL)
-- :star: 2 star anise (optional)
-- :olive: 3 cardamom pods (optional)
+- :ear_of_rice: 1 cup (128 g) brown rice
+- :baby_bottle: 1 cup (184 g) cold water or [Vegetable Broth](vegetable-broth.md) (250mL)
+- :apple: 2 star anise (optional)
+- :leafy_green: 3 cardamom pods (optional)
 
 ## :cooking: Cookware
 
@@ -29,7 +29,7 @@ hero: assets/images/brown-rice.png
 
 ### Step 1
 
-Place 1 cup brown rice (200g) and 1 cup cold water or vegetable broth (250mL) in Instant Pot. Optionally, add star anise
+Place 1 cup brown rice (200g) and 1 cup cold water or [Vegetable Broth](vegetable-broth.md) (250mL) in Instant Pot. Optionally, add star anise
 (optional) and cardamom pods (optional).
 
 ### Step 2

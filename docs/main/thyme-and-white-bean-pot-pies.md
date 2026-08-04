@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/thyme-and-white-bean-pot-pies.jpg
+hero: assets/images/thyme-and-white-bean-pot-pies.webp
 ---
-# Thyme and White Bean Pot Pies
+
+# :herb: Thyme and White Bean Pot Pies
 
 ![Thyme and White Bean Pot Pies][1]{ loading=lazy }
 
@@ -14,20 +15,20 @@ hero: assets/images/thyme-and-white-bean-pot-pies.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 large white or yellow onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 large white or yellow onion
 - :salt: some salt
 - :salt: some pepper
 - :carrot: 1 lb carrots
 - :bread: 30 g all-purpose flour
-- :wine_glass: 0.5 cup (115 g) dry white wine (optional)
-- :stew: 3 cups (680 g) [vegetable broth][2]
-- :herb: 1 tsp dry thyme
-- :beans: 1 15-oz can white beans
+- :wine_glass: 0.5 cup (99 g) dry white wine (optional)
+- 3 cups [vegetable broth][2]
+- :herb: 1 tsp (4 g) dry thyme
+- :glass_of_milk: 1 15-oz can white beans
 - :bread: 180 g all-purpose flour
 - :salt: 0.25 tsp salt
-- :butter: 10 Tbsp vegan butter or coconut oil
-- :droplet: 7 Tbsp ice cold water
+- :glass_of_milk: 10 Tbsp (141 g) vegan butter or coconut oil
+- :baby_bottle: 7 Tbsp (99 g) ice cold water
 
 ## :cooking: Cookware
 
@@ -58,7 +59,7 @@ to thoroughly coat.
 
 ### Step 4
 
-Cook for 1 minute, then slowly add dry white wine (optional) followed by vegetable broth, whisking to prevent clumps.
+Cook for 1 minute, then slowly add dry white wine (optional) followed by [Vegetable Broth](../ingredients/vegetable-broth.md), whisking to prevent clumps.
 
 ### Step 5
 
@@ -121,6 +122,5 @@ Store leftovers covered in the refrigerator for 3 to 4 days, or in the freezer u
 
 - <https://minimalistbaker.com/thyme-white-bean-pot-pies/#wprm-recipe-container-35425>
 
-[1]: <../assets/images/thyme-and-white-bean-pot-pies.jpg>
+[1]: <../assets/images/thyme-and-white-bean-pot-pies.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

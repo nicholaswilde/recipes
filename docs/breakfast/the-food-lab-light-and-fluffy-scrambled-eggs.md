@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg
+hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.webp
 ---
 
 # :egg: The Food Lab Light & Fluffy Scrambled Eggs
@@ -18,7 +18,7 @@ hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg
 
 - :egg: 6 large eggs
 - :salt: 0.75 tsp salt
-- :glass_of_milk: 2 Tbsp milk
+- :glass_of_milk: 2 Tbsp (28 g) milk
 - :butter: 2 Tbsp butter
 
 ## :cooking: Cookware
@@ -46,4 +46,4 @@ serve.
 
 - The Food Lab
 
-[1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.jpg>
+[1]: <../assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/croutons.jpg
+hero: assets/images/croutons.webp
 ---
 
 # :baguette_bread: Croutons
 
-![Croutons](../assets/images/croutons.jpg){ loading=lazy }
+![Croutons](../assets/images/croutons.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/croutons.jpg
 
 ## :salt: Ingredients
 
-- :olive: 0.25 cup olive oil
-- :baguette_bread: 1 loaf bread
-- :herb: 2 tsp [Italian seasoning][1]
+- :olive: 0.25 cup (50 g) olive oil
+- :star: 1 loaf bread
+- 2 tsp [Italian seasoning][1]
 - :garlic: 1 tsp garlic powder
 - :salt: 0.75 tsp salt
 - :salt: 0.5 tsp pepper
@@ -46,7 +46,7 @@ Spread the bread cubes out in a single layer on a baking sheet.
 
 ### Step 4
 
-Bake until golden, turning once halfway through cooking in order to brown all sides of the croutons.  Cooking time will
+Bake until golden, turning once halfway through cooking in order to brown all sides of the croutons. Cooking time will
 depend on the thickness of the cubes, so watch to be sure that they do not burn. (Mine generally take between 15 to 20
 minutes.)
 

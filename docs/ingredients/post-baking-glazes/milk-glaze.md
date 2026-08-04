@@ -5,12 +5,12 @@ tags:
   - glaze
   - joy-of-cooking
   - ingredient
-hero: assets/images/milk-glaze.jpg
+hero: assets/images/milk-glaze.webp
 ---
 
 # :glass_of_milk: Milk Glaze
 
-![Milk Glaze](../../assets/images/milk-glaze.jpg){ loading=lazy }
+![Milk Glaze](../../assets/images/milk-glaze.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,9 +18,9 @@ hero: assets/images/milk-glaze.jpg
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (99 g) confectioners' sugar, sifted
-- :glass_of_milk: 2 tsp hot milk
-- :ice_cream: 0.25 tsp vanilla
+- :baby_bottle: 0.5 cup (56 g) confectioners' sugar, sifted
+- :droplet: 2 tsp (9 g) hot milk
+- :flower_playing_cards: 0.25 tsp vanilla
 
 ## :cooking: Cookware
 

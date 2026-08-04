@@ -5,7 +5,7 @@ tags:
   - ingredient
   - filling
   - dessert
-hero: assets/images/mint-filling.jpg
+hero: assets/images/mint-filling.webp
 ---
 
 # :leafy_green: Mint Filling
@@ -18,12 +18,12 @@ hero: assets/images/mint-filling.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 1 3-oz pkg cream cheese
-- :candy: 2 cups (396 g) confectioners' sugar
-- :icecream: 0.5 tsp vanilla
-- :leafy_green: 0.25 tsp peppermint extract
-- :green_circle: 5 drops green food color
-- :glass_of_milk: 3 tsp milk
+- :birthday: 1 3-oz pkg cream cheese
+- :candy: 2 cups (226 g) confectioners' sugar
+- :flower_playing_cards: 0.5 tsp vanilla
+- :flower_playing_cards: 0.25 tsp peppermint extract
+- :hot_pepper: 5 drops green food color
+- :glass_of_milk: 3 tsp (14 g) milk
 
 ## :cooking: Cookware
 
@@ -43,4 +43,4 @@ Add 2 to 3 teaspoons milk, if needed, for spreading consistency.
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/mint-filling.jpg>
+[1]: <../assets/images/mint-filling.webp>

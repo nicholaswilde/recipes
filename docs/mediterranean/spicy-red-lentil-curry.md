@@ -4,7 +4,7 @@ tags:
 
   - mediterranean
   - minimalist-baker
-hero: assets/images/spicy-red-lentil-curry.jpg
+hero: assets/images/spicy-red-lentil-curry.webp
 ---
 
 # :curry: Spicy Red Lentil Curry
@@ -17,22 +17,22 @@ hero: assets/images/spicy-red-lentil-curry.jpg
 
 ## :salt: Ingredients
 
-- :curry: 0.67 cup dry red lentils
-- :rice: some brown rice (optional)
-- :coconut: 2 Tbsp coconut oil
+- :beans: 0.67 cup (141 g) dry red lentils
+- :ear_of_rice: some brown rice (optional)
+- :olive: 2 Tbsp (28 g) coconut oil
 - :garlic: 3 cloves garlic
-- :sweet_potato: 1 tsp ginger
-- :carrot: 0.5 cup carrots
-- :hot_pepper: 0.5 tsp red curry paste
-- :tomato: 1 6-oz can [tomato paste][4]
-- :stew: 2 cups vegetable broth
+- :sweet_potato: 1 tsp (3 g) ginger
+- :carrot: 0.5 cup (71 g) carrots
+- :curry: 0.5 tsp (3 g) red curry paste
+- :glass_of_milk: 1 6-oz can [tomato paste][4]
+- 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :droplet: 1 cup (227 g) water
-- :maple_leaf: 2 Tbsp maple syrup
-- :herb: 0.5 tsp turmeric
-- :coconut: 0.33 cup coconut milk (optional)
-- :herb: some cilantro (optional)
-- :onion: some pickled red onions (optional)
-- :flatbread: some [pita][2] or [naan][3] (optional)
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :curry: 0.5 tsp (2 g) turmeric
+- :coconut: 0.33 cup (80 g) coconut milk (optional)
+- :apple: some cilantro (optional)
+- :tea: some pickled red onions (optional)
+- :tea: some [pita][2] or [naan][3] (optional)
 
 ## :cooking: Cookware
 
@@ -57,12 +57,12 @@ Add red curry paste and sauté for 2 minutes, stirring frequently.
 
 ### Step 4
 
-Add [tomato paste][4], vegetable broth, water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
+Add [tomato paste][4], [Vegetable Broth](../ingredients/vegetable-broth.md), water and stir to combine. Then add lentils, maple syrup, turmeric, and stir.
 
 ### Step 5
 
 Bring to a simmer over medium heat, then reduce heat slightly to low (or medium-low), and gently simmer for 20 minutes,
-or until lentils are tender. Stir frequently to incorporate flavors, and add more vegetable broth as needed if the
+or until lentils are tender. Stir frequently to incorporate flavors, and add more [Vegetable Broth](../ingredients/vegetable-broth.md) as needed if the
 mixture becomes too thick.
 
 ### Step 6
@@ -90,7 +90,7 @@ moisture, or in the microwave.
 
 - <https://minimalistbaker.com/spicy-red-lentil-curry/>
 
-[1]: <../assets/images/spicy-red-lentil-curry.jpg>
+[1]: <../assets/images/spicy-red-lentil-curry.webp>
 [2]: <../breads/pita.md>
 [3]: <../breads/naan.md>
 [4]: <../ingredients/tomato-paste.md>

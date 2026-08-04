@@ -3,12 +3,12 @@ comments: true
 tags:
   - gravy
   - holiday
-hero: assets/images/good-gravy.jpg
+hero: assets/images/good-gravy.webp
 ---
 
 # :bowl_with_spoon: Good Gravy
 
-![Good Gravy](../../assets/images/good-gravy.jpg){ loading=lazy }
+![Good Gravy](../../assets/images/good-gravy.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,14 +16,14 @@ hero: assets/images/good-gravy.jpg
 
 ## :salt: Ingredients
 
-- :stew: 2 cups vegetable broth
-- :takeout_box: 2.5 Tbsp tamari or other soy sauce
-- :herb: 1 Tbsp fresh thyme
+- 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :apple: 2.5 Tbsp (36 g) tamari or other soy sauce
+- :apple: 1 Tbsp fresh thyme
 - :salt: some salt
 - :salt: some pepper
-- :corn: 2 Tbsp cornstarch
-- :droplet: 3 Tbsp water
-- :glass_of_milk: 0.25 cup milk
+- :chestnut: 2 Tbsp (14 g) cornstarch
+- :droplet: 3 Tbsp (43 g) water
+- :glass_of_milk: 0.25 cup (57 g) milk
 
 ## :cooking: Cookware
 
@@ -33,7 +33,7 @@ hero: assets/images/good-gravy.jpg
 
 ### Step 1
 
-In a small saucepan, combine the vegetable broth, tamari or other soy sauce, fresh thyme, and salt and pepper to taste
+In a small saucepan, combine the [Vegetable Broth](../../ingredients/vegetable-broth.md), tamari or other soy sauce, fresh thyme, and salt and pepper to taste
 and bring to a boil over high heat.
 
 ### Step 2

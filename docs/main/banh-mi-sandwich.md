@@ -6,12 +6,12 @@ tags:
   - vegetarian
   - sandwich
   - applied-kitchen
-hero: assets/images/banh-mi-sandwich.jpg
+hero: assets/images/banh-mi-sandwich.webp
 ---
 
 # :sandwich: Banh Mi Sandwich
 
-![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.jpg){ loading=lazy }
+![Banh Mi Sandwich](../assets/images/banh-mi-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,12 +19,12 @@ hero: assets/images/banh-mi-sandwich.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 16-oz pkg extra firm tofu
-- :garlic: 1 cup [garlic aioli][1]
-- :carrot: 2 cups [pickled carrot and daikon][2]
+- :cheese_wedge: 1 16-oz pkg extra firm tofu
+- 1 cup [garlic aioli][1]
+- :cupcake: 2 cups [pickled carrot and daikon][2]
 - :cucumber: 4 asian cucumber
 - :herb: 1 handful cilantro
-- :baguette_bread: 6 french bread
+- :star: 6 french bread
 
 ## :cooking: Cookware
 

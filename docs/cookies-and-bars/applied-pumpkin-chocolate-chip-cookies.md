@@ -5,10 +5,10 @@ tags:
   - cookie
   - applied-kitchen
   - dessert
-hero: assets/images/applied-pumpkin-chocolate-chip-cookies.jpg
+hero: assets/images/applied-pumpkin-chocolate-chip-cookies.webp
 ---
 
-# Applied Pumpkin Chocolate Chip Cookies
+# :chocolate_bar: Applied Pumpkin Chocolate Chip Cookies
 
 ![Applied Pumpkin Chocolate Chip Cookies][1]{ loading=lazy }
 
@@ -18,16 +18,16 @@ hero: assets/images/applied-pumpkin-chocolate-chip-cookies.jpg
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup (114 g) unsalted butter
-- :candy: 0.5 cup (106 g) brown sugar
+- :butter: 0.5 cup (113 g) unsalted butter
+- :maple_leaf: 0.5 cup (106 g) brown sugar
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 1 large egg
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 - :salt: 1 tsp salt
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 1 tsp baking powder
-- :jack_o_lantern: 1 Tbsp pumpkin pie spice
-- :jack_o_lantern: 1 15-oz can pumpkin puree
+- :chestnut: 1 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :chestnut: 1 Tbsp (12 g) pumpkin pie spice
+- :baby_bottle: 1 15-oz can pumpkin puree
 - :chocolate_bar: 1 cup (177 g) mini chocolate chips
 
 ## :cooking: Cookware
@@ -83,4 +83,4 @@ the edges are golden and the centers are set. Baking time may vary depending on 
 
 - Applied Kitchen
 
-[1]: <../assets/images/applied-pumpkin-chocolate-chip-cookies.jpg>
+[1]: <../assets/images/applied-pumpkin-chocolate-chip-cookies.webp>

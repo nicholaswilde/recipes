@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-roja.jpg
+hero: assets/images/salsa-roja.webp
 ---
 
 # :tomato: Salsa Roja
@@ -18,7 +18,7 @@ hero: assets/images/salsa-roja.jpg
 ## :salt: Ingredients
 
 - :tomato: 10 Roma or plum tomatoes
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
 - :hot_pepper: 4 dried guajillo chiles
 - :salt: 1 pinch salt
@@ -57,4 +57,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-roja.jpg>
+[1]: <../../assets/images/salsa-roja.webp>

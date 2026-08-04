@@ -15,31 +15,33 @@ hero: assets/images/the-best-lemon-meringue-pie.png
 |:-----------------------: |
 | 2.12 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 1.25 cup (150 g) all-purpose flour
-- :salt: 0.5 tsp salt
-- :carrot: 3 Tbsp vegetable shortening
-- :butter: 4 Tbsp butter
-- :droplet: 4 Tbsp ice water
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :bread: 1.25 cup (150 g) all-purpose flour
+    - :salt: 0.5 tsp salt
+    - :butter: 3 Tbsp (34 g) vegetable shortening
+    - :butter: 4 Tbsp butter
+    - :baby_bottle: 4 Tbsp (57 g) ice water
 
-- :candy: 1 cup (198 g) sugar
-- :corn: 0.25 cup (28 g) cornstarch
-- :salt: 0.13 tsp salt
-- :droplet: 1.5 cups (340 g) cold water
-- :egg: 6 large egg yolks
-- :lemon: 1 tsp lemon zest
-- :lemon: 0.5 cup lemon juice (2-3 lemons)
-- :butter: 2 Tbsp butter
+=== "Filling"
 
-## :salt: Ingredients - Meringue
+    - :candy: 1 cup (156 g) sugar
+    - :chestnut: 0.25 cup (28 g) cornstarch
+    - :salt: 0.13 tsp salt
+    - :baby_bottle: 1.5 cups (340 g) cold water
+    - :egg: 6 large egg yolks
+    - :tangerine: 1 tsp (5 g) lemon zest
+    - :apple: 0.5 cup lemon juice (2-3 lemons)
+    - :butter: 2 Tbsp butter
 
-- :egg: 3 egg whites
-- :rice: 0.25 tsp cream of tartar
-- :candy: 6 Tbsp superfine sugar
-- :icecream: 0.5 tsp vanilla
+=== "Meringue"
+
+    - :beans: 3 egg whites
+    - :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+    - :candy: 6 Tbsp (71 g) superfine sugar
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 

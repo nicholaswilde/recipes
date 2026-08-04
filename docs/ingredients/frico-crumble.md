@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/frico-crumble.jpg
+hero: assets/images/frico-crumble.webp
 ---
 
 # :cheese_wedge: Frico Crumble
@@ -17,7 +17,7 @@ hero: assets/images/frico-crumble.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 2 oz Asiago, Manchego, or cheddar cheese
+- :orange_circle: 2 oz (28 g) Asiago, Manchego, or cheddar cheese
 
 ## :cooking: Cookware
 
@@ -47,4 +47,4 @@ bite-size pieces.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/frico-crumble.jpg>
+[1]: <../assets/images/frico-crumble.webp>

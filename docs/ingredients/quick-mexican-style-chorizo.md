@@ -5,7 +5,7 @@ tags:
   - ingredient
   - mexican
   - cooks-illustrated
-hero: assets/images/quick-mexican-style-chorizo.jpg
+hero: assets/images/quick-mexican-style-chorizo.webp
 ---
 
 # :hot_pepper: Quick Mexican-Style Chorizo
@@ -18,20 +18,20 @@ hero: assets/images/quick-mexican-style-chorizo.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: 1.5 Tbsp vegetable oil
+- :olive: 1.5 Tbsp (19 g) vegetable oil
 - :hot_pepper: 1 Tbsp ancho chile powder
-- :bell_pepper: 1 Tbsp paprika
-- :herb: 1.5 tsp ground coriander
-- :herb: 1.5 tsp dried oregano
+- :candy: 1 Tbsp paprika
+- :chestnut: 1.5 tsp (3 g) ground coriander
+- :herb: 1.5 tsp (4 g) dried oregano
 - :salt: 0.75 tsp salt
 - :salt: 0.5 tsp pepper
-- :custard: 0.25 tsp ground cinnamon
+- :chestnut: 0.25 tsp (1 g) ground cinnamon
 - :hot_pepper: 1 pinch cayenne
-- :herb: 1 pinch allspice
-- :sake: 3 Tbsp cider vinegar
-- :candy: 1.5 tsp sugar
+- :apple: 1 pinch allspice
+- :apple: 3 Tbsp (64 g) cider vinegar
+- :candy: 1.5 tsp (5 g) sugar
 - :garlic: 1 clove garlic
-- :cut_of_meat: 8 oz soy meat
+- :takeout_box: 8 oz (140 g) soy meat
 
 ## :cooking: Cookware
 
@@ -57,4 +57,4 @@ juices are bubbling, about 3 minutes.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/quick-mexican-style-chorizo.jpg>
+[1]: <../assets/images/quick-mexican-style-chorizo.webp>

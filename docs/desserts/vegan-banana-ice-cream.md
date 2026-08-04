@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - vegan
-hero: assets/images/vegan-banana-ice-cream.jpg
+hero: assets/images/vegan-banana-ice-cream.webp
 ---
 
 # :banana: Vegan Banana Ice Cream
@@ -17,11 +17,11 @@ hero: assets/images/vegan-banana-ice-cream.jpg
 
 ## :salt: Ingredients
 
-- :banana: some bananas
-- :peanuts: some peanuts
-- :maple_leaf: some maple syrup (optional)
-- :chestnut: some pecans (optional)
-- :glass_of_milk: some real whipped cream (optional)
+- :apple: some bananas
+- :chestnut: some peanuts
+- :honey_pot: some maple syrup (optional)
+- :leafy_green: some pecans (optional)
+- :baby_bottle: some real whipped cream (optional)
 
 ## :cooking: Cookware
 
@@ -50,4 +50,4 @@ instead of peanuts. Or both. Finish with a squirt of real whipped cream (optiona
 
 - The New York Times Cooking No-Recipes Recipes
 
-[1]: <../assets/images/vegan-banana-ice-cream.jpg>
+[1]: <../assets/images/vegan-banana-ice-cream.webp>

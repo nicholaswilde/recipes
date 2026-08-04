@@ -4,10 +4,10 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/homemade-chilli-oil.jpg
+hero: assets/images/homemade-chilli-oil.webp
 ---
 
-# Homemade Chilli Oil
+# :hot_pepper: Homemade Chilli Oil
 
 ![Homemade Chilli Oil][1]{ loading=lazy }
 
@@ -23,7 +23,7 @@ hero: assets/images/homemade-chilli-oil.jpg
 - :herb: 2 bay leaves
 - :hot_pepper: 3 Tbsp Sichuan peppercorns
 - :seedling: 8 cardamom pods
-- :hot_pepper: 0.5 cup (54 g) Asian chilli powder
+- :hot_pepper: 0.5 cup (57 g) Asian chilli powder
 - :salt: 2 tsp sea salt
 
 ## :cooking: Cookware
@@ -70,4 +70,4 @@ Allow to cool before storing in an airtight jar. Use within a year.
 
 - <https://www.marionskitchen.com/homemade-chilli-oil/>
 
-[1]: <../../assets/images/homemade-chilli-oil.jpg>
+[1]: <../../assets/images/homemade-chilli-oil.webp>

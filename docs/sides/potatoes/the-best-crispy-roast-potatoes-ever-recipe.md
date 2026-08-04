@@ -4,10 +4,10 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg
+hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.webp
 ---
 
-# The Best Crispy Roast Potatoes Ever Recipe
+# :potato: The Best Crispy Roast Potatoes Ever Recipe
 
 ![The Best Crispy Roast Potatoes Ever Recipe][1]{ loading=lazy }
 
@@ -20,8 +20,8 @@ hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg
 - :salt: 2 Tbsp kosher salt
 - :chestnut: 0.5 tsp baking soda
 - :sweet_potato: 4 lbs Yukon gold potatoes
-- :olive: 5 Tbsp olive oil
-- 1 small handful rosemary
+- :olive: 5 Tbsp (62 g) olive oil
+- :herb: 1 small handful rosemary
 - :garlic: 3 cloves garlic
 - :salt: some black pepper
 - :herb: 1 small handful parsley
@@ -68,4 +68,4 @@ salt and pepper to taste. Serve immediately.
 
 - <https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe>
 
-[1]: <../../assets/images/the-best-crispy-roast-potatoes-ever-recipe.jpg>
+[1]: <../../assets/images/the-best-crispy-roast-potatoes-ever-recipe.webp>

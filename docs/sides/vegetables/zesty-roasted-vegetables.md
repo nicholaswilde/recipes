@@ -2,9 +2,10 @@
 comments: true
 tags:
   - side
-hero: assets/images/zesty-roasted-vegetables.jpg
+hero: assets/images/zesty-roasted-vegetables.webp
 ---
-# Zesty Roasted Vegetables
+
+# :carrot: Zesty Roasted Vegetables
 
 ![Zesty Roasted Vegetables][1]{ loading=lazy }
 
@@ -14,9 +15,9 @@ hero: assets/images/zesty-roasted-vegetables.jpg
 
 ## :salt: Ingredients
 
-- :carrot: 3 cups (450 g) cubed carrots, sweet potatoes, and/or butternut squash
-- :broccoli: 3 cups (300 g) cauliflower florets, halved Brussels sprouts, or halved tiny new potatoes
-- :olive: 2 Tbsp olive oil
+- :glass_of_milk: 3 cups (720 g) cubed carrots, sweet potatoes, and/or butternut squash
+- :leafy_green: 3 cups (258 g) cauliflower florets, halved Brussels sprouts, or halved tiny new potatoes
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
 - :herb: 1 [Jalapeño Lime Pesto][2]
@@ -57,6 +58,5 @@ Toss or tip with Jalapeño Lime Pesto.
 
 - Magnolia
 
-[1]: <../../assets/images/zesty-roasted-vegetables.jpg>
+[1]: <../../assets/images/zesty-roasted-vegetables.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/jalapeño-lime-pesto.md>
-

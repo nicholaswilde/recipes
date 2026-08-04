@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - gordon-ramsay
-hero: assets/images/hash-browns.jpg
+hero: assets/images/hash-browns.webp
 ---
 
 # :potato: Hash Browns
 
-![Hash Browns](../assets/images/hash-browns.jpg){ loading=lazy }
+![Hash Browns](../assets/images/hash-browns.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/hash-browns.jpg
 
 ## :salt: Ingredients
 
-- :potato: 6 medium potatoes
-- :onion: 1 large onion
+- :sweet_potato: 6 medium potatoes
+- :tea: 1 large onion
 - :salt: some salt
 - :salt: some pepper
 - :olive: some olive oil

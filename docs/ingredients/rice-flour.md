@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - flour
-hero: assets/images/rice-flour.jpg
+hero: assets/images/rice-flour.webp
 ---
 
 # :rice: Rice Flour
@@ -17,7 +17,7 @@ hero: assets/images/rice-flour.jpg
 
 ## :salt: Ingredients
 
-- :rice: 1 cup rice
+- :ear_of_rice: 1 cup (28 g) rice
 
 ## :cooking: Cookware
 
@@ -67,4 +67,4 @@ If you want an extra-fine flour, sift it through a fine-mesh sieve to remove any
 
     For a super fine texture, grind the rice once, then pass it through the grinder again.
 
-[1]: <../assets/images/rice-flour.jpg>
+[1]: <../assets/images/rice-flour.webp>

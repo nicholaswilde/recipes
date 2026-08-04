@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/no-knead-everything-bread.jpg
+hero: assets/images/no-knead-everything-bread.webp
 ---
 
 # :bread: No-Knead Everything Bread
@@ -17,13 +17,13 @@ hero: assets/images/no-knead-everything-bread.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 660 g bread flour
+- :bread: 660 g bread flour
 - :droplet: 510 g cool water
-- :microbe: 0.5 tsp instant yeast
+- :tea: 0.5 tsp (2 g) instant yeast
 - :salt: 12 g salt
-- :bagel: 18 g [Everything Bagel Topping][2]
+- 18 g [Everything Bagel Topping][2]
 - :olive: 25 g olive oil
-- :bagel: 1 Tbsp Everything Bagel Topping
+- 1 Tbsp (9 g) Everything Bagel Topping
 
 ## :cooking: Cookware
 
@@ -93,5 +93,5 @@ post, Freezing no-knead bread dough, for details.
 - <https://www.kingarthurbaking.com/recipes/no-knead-everything-bread-recipe>
 - <https://youtu.be/0FhiJr6WCGI?si=BqYFNKnHrP-mtsrY>
 
-[1]: <../assets/images/no-knead-everything-bread.jpg>
+[1]: <../assets/images/no-knead-everything-bread.webp>
 [2]: <../ingredients/seasonings/everything-bagel.md>

@@ -5,8 +5,9 @@ tags:
   - hot-chocolate
   - jacques-torres
   - forbes
-hero: assets/images/thick-hot-chocolate.jpg
+hero: assets/images/thick-hot-chocolate.webp
 ---
+
 # :coffee: Thick Hot Chocolate
 
 ![Thick Hot Chocolate][1]{ loading=lazy }
@@ -18,9 +19,9 @@ hero: assets/images/thick-hot-chocolate.jpg
 ## :salt: Ingredients
 
 - :glass_of_milk: 2.5 cups (568 g) whole milk
-- :chestnut: 1 cup (170 g) 60% dark chocolate
-- :glass_of_milk: 0.5 cup (50 g) milk powder
-- :chestnut: 1 tsp (5 g) cornstarch
+- :chocolate_bar: 1 cup (170 g) 60% dark chocolate
+- :glass_of_milk: 0.5 cup (70 g) milk powder
+- :chestnut: 1 tsp (2 g) cornstarch
 - :glass_of_milk: some whipped cream
 
 ## :cooking: Cookware
@@ -53,4 +54,4 @@ To serve, divide the hot chocolate among four mugs or glasses, then garnish each
 
 - <https://www.forbes.com/sites/amberlovebond/2025/01/23/how-to-make-the-perfect-hot-chocolate-according-to-a-master-chocolatier/>
 
-[1]: <../assets/images/thick-hot-chocolate.jpg>
+[1]: <../assets/images/thick-hot-chocolate.webp>

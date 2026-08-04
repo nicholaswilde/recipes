@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/eggnog-cake.jpg
+hero: assets/images/eggnog-cake.webp
 ---
-# Eggnog Cake
+
+# :cake: Eggnog Cake
 
 ![Eggnog Cake][1]{ loading=lazy }
 
@@ -14,10 +15,10 @@ hero: assets/images/eggnog-cake.jpg
 
 ## :salt: Ingredients
 
-- 1 pkg yellow cake mix
+- :corn: 1 pkg yellow cake mix
 - :tumbler_glass: 2 Tbsp rum
 - 1 cup eggnog
-- :olive: 0.25 cup vegetable oil
+- :olive: 0.25 cup (50 g) vegetable oil
 - :glass_of_milk: 1 can whipped cream
 
 ## :cooking: Cookware
@@ -47,5 +48,4 @@ Cook for 20 minutes.
 
 Layer tiers with whipped cream.
 
-[1]: <../assets/images/eggnog-cake.jpg>
-
+[1]: <../assets/images/eggnog-cake.webp>

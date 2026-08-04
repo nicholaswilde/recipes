@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/pound-cake.jpg
+hero: assets/images/pound-cake.webp
 ---
 
 # :cake: Pound Cake
@@ -20,13 +20,13 @@ hero: assets/images/pound-cake.jpg
 
 - :butter: 196 g unsalted butter
 - :candy: 250 g granulated sugar
-- :dash: 0.5 tsp baking powder
+- :chestnut: 0.5 tsp baking powder
 - :salt: 0.5 tsp salt
 - :egg: 3 large eggs
 - :egg: 1 large egg yolk
-- :rice: 120 g sour cream
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 187 g all-purpose flour
+- :glass_of_milk: 120 g sour cream
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 187 g all-purpose flour
 
 ## :cooking: Cookware
 
@@ -92,4 +92,4 @@ cake into your hand, then place on a wire rack to fully cool before slicing.
 - <https://www.thepancakeprincess.com/2022/02/18/best-pound-cake-bake-off/>
 - <https://youtu.be/ODFho7KaDbY?si=bNItHj_2-XMHBGNy>
 
-[1]: <../../assets/images/pound-cake.jpg>
+[1]: <../../assets/images/pound-cake.webp>

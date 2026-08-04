@@ -2,9 +2,10 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/beau-monde-seasoning.jpg
+hero: assets/images/beau-monde-seasoning.webp
 ---
-# Beau Monde Seasoning
+
+# :seedling: Beau Monde Seasoning
 
 ![Beau Monde Seasoning][1]{ loading=lazy }
 
@@ -14,10 +15,10 @@ hero: assets/images/beau-monde-seasoning.jpg
 
 ## :salt: Ingredients
 
-- :seedling: 2 Tbsp celery seeds
-- :onion: 2 Tbsp granulated onion
+- :seedling: 2 Tbsp (18 g) celery seeds
+- :candy: 2 Tbsp (12 g) granulated onion
 - :salt: 2 Tbsp kosher salt
-- :candy: 1 tsp granulated sugar
+- :candy: 1 tsp (4 g) granulated sugar
 
 ## :cooking: Cookware
 
@@ -44,4 +45,4 @@ Store the seasoning in an airtight container at room temperature for up to 6 mon
 
 - <https://www.southernliving.com/beau-monde-seasoning-11705735>
 
-[1]: <../assets/images/beau-monde-seasoning.jpg>
+[1]: <../assets/images/beau-monde-seasoning.webp>

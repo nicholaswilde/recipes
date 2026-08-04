@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - pie
-hero: assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg
+hero: assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.webp
 ---
 
 # :cookie: Chocolate Whoopie Pies with Vanilla Buttercream Filling
@@ -15,25 +15,27 @@ hero: assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 | 15 minutes |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cup (210 g) all-purpose flour
-- :salt: 0.5 tsp salt
-- :chocolate_bar: 0.75 cup unsweetened cocoa powder
-- :cup_with_straw: 1.5 tsp baking soda
-- :dash: 0.5 tsp baking powder
-- :butter: 0.5 cup (114 g) butter
-- :candy: 1 cup (198 g) sugar
-- :egg: 1 large egg
-- :glass_of_milk: 1 cup (227 g) [buttermilk][1]
-- :icecream: 1 tsp vanilla
+=== "Cookies"
 
-## :salt: Ingredients - Filling
+    - :bread: 1.75 cup (210 g) all-purpose flour
+    - :salt: 0.5 tsp salt
+    - :chocolate_bar: 0.75 cup (63 g) unsweetened cocoa powder
+    - :chestnut: 1.5 tsp baking soda
+    - :chestnut: 0.5 tsp baking powder
+    - :butter: 0.5 cup butter
+    - :candy: 1 cup (156 g) sugar
+    - :egg: 1 large egg
+    - 1 cup [buttermilk][1]
+    - :flower_playing_cards: 1 tsp vanilla
 
-- :butter: 0.5 cup (114 g) butter
-- :candy: 4 cup (792 g) confectioners' sugar
-- :glass_of_milk: 0.25 cup milk
-- :icecream: 0.5 tsp vanilla
+=== "Filling"
+
+    - :butter: 0.5 cup butter
+    - :candy: 4 cup (452 g) confectioners' sugar
+    - :glass_of_milk: 0.25 cup (57 g) milk
+    - :flower_playing_cards: 0.5 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -76,4 +78,4 @@ so that the filling spreads to the edge of the cookies.
 - <https://www.marthastewart.com/1164907/chocolate-whoopie-pies-vanilla-buttercream-filling>
 
 [1]: <../ingredients/buttermilk.md>
-[2]: <../assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.jpg>
+[2]: <../assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.webp>

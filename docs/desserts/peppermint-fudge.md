@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/peppermint-fudge.jpg
+hero: assets/images/peppermint-fudge.webp
 ---
-# Peppermint Fudge
+
+# :candy: Peppermint Fudge
 
 ![Peppermint Fudge][1]{ loading=lazy }
 
@@ -14,14 +15,14 @@ hero: assets/images/peppermint-fudge.jpg
 
 ## :salt: Ingredients
 
-- :candy: 4 cups granulated sugar
+- :candy: 4 cups (792 g) granulated sugar
 - :glass_of_milk: 1 12-oz can [evaporated milk][2]
-- :butter: 0.75 cup unsalted butter
-- 12 oz semisweet chocolate chips
-- 12 oz bittersweet chocolate chips
-- 1 7-oz jar marshmallow creme
-- :salt: 0.5 tsp peppermint extract
-- :salt: 1 cup crushed peppermint candies
+- :butter: 0.75 cup (170 g) unsalted butter
+- :bread: 12 oz (255 g) semisweet chocolate chips
+- :chestnut: 12 oz (255 g) bittersweet chocolate chips
+- :glass_of_milk: 1 7-oz jar marshmallow creme
+- :flower_playing_cards: 0.5 tsp peppermint extract
+- :hot_pepper: 1 cup (142 g) crushed peppermint candies
 
 ## :cooking: Cookware
 
@@ -69,5 +70,5 @@ Store in an airtight container in the refrigerator up to 3 days.
 
 - Magnolia
 
-[1]: <../assets/images/peppermint-fudge.jpg>
+[1]: <../assets/images/peppermint-fudge.webp>
 [2]: <../ingredients/evaporated-milk.md>

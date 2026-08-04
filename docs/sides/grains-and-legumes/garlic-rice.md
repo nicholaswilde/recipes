@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/garlic-rice.jpg
+hero: assets/images/garlic-rice.webp
 ---
 
 # :rice: Garlic Rice
 
-![Garlic Rice](../../assets/images/garlic-rice.jpg){ loading=lazy }
+![Garlic Rice](../../assets/images/garlic-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,8 +19,8 @@ hero: assets/images/garlic-rice.jpg
 
 - :butter: 1 Tbsp butter
 - :garlic: 6 cloves garlic
-- :rice: 1 cup jasmine rice
-- :droplet: 1.5 cups water
+- :wine_glass: 1 cup (28 g) jasmine rice
+- :droplet: 1.5 cups (340 g) water
 - :salt: some salt
 
 ## :cooking: Cookware

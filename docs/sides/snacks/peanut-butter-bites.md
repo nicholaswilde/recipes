@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/peanut-butter-bites.jpg
+hero: assets/images/peanut-butter-bites.webp
 ---
 
-# Peanut Butter Bites
+# :peanut: Peanut Butter Bites
 
-![Peanut Butter Bites](../../assets/images/peanut-butter-bites.jpg){ loading=lazy }
+![Peanut Butter Bites](../../assets/images/peanut-butter-bites.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,11 +17,11 @@ hero: assets/images/peanut-butter-bites.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 1 cup almonds
-- 1 tsp vanilla
-- 0.5 tsp cinnamon
-- 1 cup pitted dates
-- :chestnut: 0.5 cup [peanut butter][1]
+- :chestnut: 1 cup (86 g) almonds
+- :flower_playing_cards: 1 tsp vanilla
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :grapes: 1 cup (149 g) pitted dates
+- 0.5 cup [peanut butter][1]
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

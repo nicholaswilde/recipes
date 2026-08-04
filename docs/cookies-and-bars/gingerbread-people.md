@@ -4,9 +4,10 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/gingerbread-people.jpg
+hero: assets/images/gingerbread-people.webp
 ---
-# Gingerbread People
+
+# :honey_pot: Gingerbread People
 
 ![Gingerbread People][1]{ loading=lazy }
 
@@ -16,10 +17,10 @@ hero: assets/images/gingerbread-people.jpg
 
 ## :salt: Ingredients
 
-- 1.5 cups dark molasses
-- :candy: 1 cup brown sugar
-- :droplet: 0.67 cup cold water
-- 0.33 cup vegetable shortening
+- :chestnut: 1.5 cups (510 g) dark molasses
+- :maple_leaf: 1 cup (213 g) brown sugar
+- :baby_bottle: 0.67 cup (152 g) cold water
+- :butter: 0.33 cup (61 g) vegetable shortening
 
 ## :cooking: Cookware
 
@@ -51,5 +52,4 @@ While they are still warm, spread evenly with lemon glaze.
 
 Cool before frosting with Royal icing.
 
-[1]: <../assets/images/gingerbread-people.jpg>
-
+[1]: <../assets/images/gingerbread-people.webp>

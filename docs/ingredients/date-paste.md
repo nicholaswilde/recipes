@@ -2,9 +2,10 @@
 comments: true
 tags:
   - ingredient
-hero: assets/images/date-paste.jpg
+hero: assets/images/date-paste.webp
 ---
-# Date Paste
+
+# :droplet: Date Paste
 
 ![Date Paste][1]{ loading=lazy }
 
@@ -14,8 +15,8 @@ hero: assets/images/date-paste.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 4 cups water
-- :grapes: 12 oz Medjool dates
+- :droplet: 4 cups (908 g) water
+- :grapes: 12 oz (224 g) Medjool dates
 
 ## :cooking: Cookware
 
@@ -43,5 +44,4 @@ you'd like a thinner consistency. Transfer to a glass container and cover.
 
 - <https://amyinthekitchen.com/date-paste/>
 
-[1]: <../assets/images/date-paste.jpg>
-
+[1]: <../assets/images/date-paste.webp>

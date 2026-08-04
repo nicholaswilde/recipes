@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/the-casado-plate.jpg
+hero: assets/images/the-casado-plate.webp
 ---
-# The Casado Plate
+
+# :ear_of_rice: The Casado Plate
 
 ![The Casado Plate][1]{ loading=lazy }
 
@@ -14,16 +15,16 @@ hero: assets/images/the-casado-plate.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: some [Jose Guevara's Gallo Pinto][2]
-- :leafy_green: some [Hearts of Palm Ceviche][3]
-- :tangerine: some [Fried Green Plantains][4]
-- :hot_pepper: some [Chilero Hot Sauce][5]
-- :bread: some [Nixtamal Tortillas][6]
-- :carrot: some corn (optional)
-- :avocado: some sliced avocado (optional)
-- :herb: some chopped cilantro (optional)
+- :stuffed_flatbread: some [Jose Guevara's Gallo Pinto][2]
+- some [Hearts of Palm Ceviche][3]
+- :beans: some [Fried Green Plantains][4]
+- :baby_bottle: some [Chilero Hot Sauce][5]
+- some [Nixtamal Tortillas][6]
+- :bread: some corn (optional)
+- :apple: some sliced avocado (optional)
+- :apple: some chopped cilantro (optional)
 - :leafy_green: some lettuce (optional)
-- :tomato: some tomatoes (optional)
+- :leafy_green: some tomatoes (optional)
 
 ## :cooking: Cookware
 
@@ -45,10 +46,9 @@ Top with corn (optional), sliced avocado (optional), chopped cilantro (optional)
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/the-casado-plate.jpg>
+[1]: <../assets/images/the-casado-plate.webp>
 [2]: <../breakfast/jose-guevara's-gallo-pinto.md>
 [3]: <../sauces-and-dressings/dips-and-spreads/hearts-of-palm-ceviche.md>
 [4]: <../sides/grains-and-legumes/fried-green-plantains.md>
 [5]: <../sauces-and-dressings/gravy-and-savory-sauces/chilero-hot-sauce.md>
 [6]: <../ingredients/nixtamal-nicoyan-corn-tortillas.md>
-

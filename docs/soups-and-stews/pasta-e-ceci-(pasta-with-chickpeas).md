@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - italian
-hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg
+hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).webp
 ---
 
 # :spaghetti: Pasta e Ceci (Pasta with Chickpeas)
 
-![Pasta e Ceci (Pasta with Chickpeas)](../assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg){ loading=lazy }
+![Pasta e Ceci (Pasta with Chickpeas)](../assets/images/pasta-e-ceci-(pasta-with-chickpeas).webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,15 +16,15 @@ hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).jpg
 
 ## :salt: Ingredients
 
-- :falafel: 200 g dried chickpeas
-- :fallen_leaf: 1 bay leaf
+- :beans: 200 g dried chickpeas
+- :herb: 1 bay leaf
 - :salt: some salt
 - :garlic: 1 clove garlic
 - :herb: 1 sprig rosemary
-- :hot_pepper: 1 chili (optional)
+- :leafy_green: 1 chili (optional)
 - :olive: some olive oil
 - :tomato: 0.5 14-oz can chopped tomatoes
-- :spaghetti: 200 g short pasta (ditalini, mista, or rombi)
+- :bread: 200 g short pasta (ditalini, mista, or rombi)
 
 ## :cooking: Cookware
 

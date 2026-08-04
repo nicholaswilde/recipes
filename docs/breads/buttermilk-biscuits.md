@@ -5,10 +5,10 @@ tags:
   - bread
   - kenji-lopez-alt
   - bake-off
-hero: assets/images/buttermilk-biscuits.jpg
+hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-biscuits.webp
 ---
 
-# :cookie: Buttermilk Biscuits
+# :cookie: [buttermilk](../ingredients/buttermilk.md) Biscuits
 
 ![Buttermilk Biscuits][1]{ loading=lazy }
 
@@ -18,13 +18,13 @@ hero: assets/images/buttermilk-biscuits.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 120 g buttermilk
-- :rice: 113 g sour cream
-- :ear_of_rice: 284 g all-purpose flour
-- :dash: 12 g baking powder
-- :cup_with_straw: 0.25 tsp baking soda
+- :icecream: 120 g [buttermilk](../ingredients/buttermilk.md)
+- :glass_of_milk: 113 g sour cream
+- :bread: 284 g all-purpose flour
+- :chestnut: 12 g baking powder
+- :chestnut: 0.25 tsp baking soda
 - :salt: 1.5 kosher tsp salt
-- :butter: 113 g cold unsalted butter
+- :glass_of_milk: 113 g cold unsalted butter
 
 ## :cooking: Cookware
 
@@ -40,7 +40,7 @@ hero: assets/images/buttermilk-biscuits.jpg
 ### Step 1
 
 Adjust an oven rack to the middle position and preheat the oven to 425°F (220°C). In a small bowl, whisk together the
-buttermilk and sour cream.
+[buttermilk](../ingredients/buttermilk.md) and sour cream.
 
 ### Step 2
 
@@ -50,7 +50,7 @@ meal and the largest butter pieces are about 1/4 inch at their widest, about 8 t
 
 ### Step 3
 
-Add the buttermilk mixture to the flour mixture and, using a rubber spatula, fold until just combined. Transfer the
+Add the [buttermilk](../ingredients/buttermilk.md) mixture to the flour mixture and, using a rubber spatula, fold until just combined. Transfer the
 dough to a floured work surface and knead until it just comes together, adding extra flour as necessary.
 
 ### Step 4
@@ -83,4 +83,4 @@ rotating the pan halfway through. Allow to cool for 5 minutes and serve.
 - <https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe>
 - <https://www.thepancakeprincess.com/best-biscuit-bake-off/>
 
-[1]: <../assets/images/buttermilk-biscuits.jpg>
+[1]: <../assets/images/buttermilk-biscuits.webp>

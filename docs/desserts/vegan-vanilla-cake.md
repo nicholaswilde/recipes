@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - bake-off
-hero: assets/images/vegan-vanilla-cake.jpg
+hero: assets/images/vegan-vanilla-cake.webp
 ---
 
 # :cake: Vegan Vanilla Cake
@@ -16,19 +16,19 @@ hero: assets/images/vegan-vanilla-cake.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360 g cake flour
-- :dash: 12 g baking powder
+- :bread: 360 g cake flour
+- :chestnut: 12 g baking powder
 - :salt: 3 g salt
 - :glass_of_milk: 284 g unsweetened soy milk
-- :apple: 2 tsp apple cider vinegar
-- :falafel: 120 g aquafaba
-- :rice: 0.25 tsp cream of tartar
+- :apple: 2 tsp (12 g) apple cider vinegar
+- :baby_bottle: 120 g aquafaba
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
 - :butter: 113 g vegan butter
-- :oil_drum: 110 g canola oil
+- :droplet: 110 g canola oil
 - :candy: 297 g sugar
 - :flower_playing_cards: 1 Tbsp vanilla extract
-- :butter: some Vegan Buttercream Frosting
-- :rainbow: some vegan friendly sprinkles
+- :apple: some Vegan Buttercream Frosting
+- :apple: some vegan friendly sprinkles
 
 ## :cooking: Cookware
 
@@ -42,7 +42,8 @@ hero: assets/images/vegan-vanilla-cake.jpg
 
 ### Step 1
 
-Preheat the oven to 350°F and grease two 8-inch round cake pans with oil or vegan butter. Place a round of parchment paper on the bottom of each pan for easy removal later.
+Preheat the oven to 350°F and grease two 8-inch round cake pans with oil or vegan butter. Place a round of
+parchment paper on the bottom of each pan for easy removal later.
 
 ### Step 2
 
@@ -50,15 +51,18 @@ Whisk together cake flour, baking powder, and salt in a medium bowl and set asid
 
 ### Step 3
 
-Combine unsweetened soy milk and apple cider vinegar in a glass measuring cup and set aside to curdle into vegan buttermilk.
+Combine unsweetened soy milk and apple cider vinegar in a glass measuring cup and set aside to curdle into
+vegan [buttermilk](../ingredients/buttermilk.md).
 
 ### Step 4
 
-Whisk together aquafaba and cream of tartar vigorously in a small bowl until fluffy and foamy, about 2 minutes. Set aside.
+Whisk together aquafaba and cream of tartar vigorously in a small bowl until fluffy and foamy, about 2
+minutes. Set aside.
 
 ### Step 5
 
-In a large bowl, cream together softened vegan butter, canola oil, and sugar using a stand or hand mixer until creamy, about 3 minutes.
+In a large bowl, cream together softened vegan butter, canola oil, and sugar using a stand or hand mixer
+until creamy, about 3 minutes.
 
 ### Step 6
 
@@ -66,19 +70,22 @@ Add the aquafaba mixture and vanilla extract to the creamed mixture and mix unti
 
 ### Step 7
 
-Alternate adding the flour mixture and curdled soy milk buttermilk to the batter in 3 parts, mixing until just combined.
+Alternate adding the flour mixture and curdled soy milk [buttermilk](../ingredients/buttermilk.md) to the
+batter in 3 parts, mixing until just combined.
 
 ### Step 8
 
-Pour the batter evenly into the prepared pans and bake for 30 to 35 minutes, until golden brown and a toothpick inserted in the center comes out clean.
+Pour the batter evenly into the prepared pans and bake for 30 to 35 minutes, until golden brown and a
+toothpick inserted in the center comes out clean.
 
 ### Step 9
 
-Allow to cool in the pans for 15 minutes, then carefully invert them onto a cooling rack to cool completely before frosting with Vegan Buttercream Frosting (optional, decorate with vegan friendly sprinkles).
+Allow to cool in the pans for 15 minutes, then carefully invert them onto a cooling rack to cool completely
+before frosting with Vegan Buttercream Frosting (optional, decorate with vegan friendly sprinkles).
 
 ## :link: Sources
 
 - <https://www.noracooks.com/vegan-vanilla-cake/>
 - <https://www.thepancakeprincess.com/best-vegan-vanilla-cake-bake-off/>
 
-[1]: <../assets/images/vegan-vanilla-cake.jpg>
+[1]: <../assets/images/vegan-vanilla-cake.webp>

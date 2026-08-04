@@ -4,12 +4,12 @@ tags:
 
   - side
   - joy-of-cooking
-hero: assets/images/steamed-broccoli-with-vinaigrette.jpg
+hero: assets/images/steamed-broccoli-with-vinaigrette.webp
 ---
 
 # :broccoli: Steamed Broccoli with Vinaigrette
 
-![Steamed Broccoli with Vinaigrette](../../assets/images/steamed-broccoli-with-vinaigrette.jpg){ loading=lazy }
+![Steamed Broccoli with Vinaigrette](../../assets/images/steamed-broccoli-with-vinaigrette.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,7 +19,7 @@ hero: assets/images/steamed-broccoli-with-vinaigrette.jpg
 
 - :broccoli: 2 lbs broccoli
 - :salt: 0.5 tsp salt
-- :green_salad: some [vinaigrette][1]
+- some [vinaigrette][1]
 
 ## :pencil: Instructions
 

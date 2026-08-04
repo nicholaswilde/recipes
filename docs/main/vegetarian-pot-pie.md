@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/vegetarian-pot-pie.jpg
+hero: assets/images/vegetarian-pot-pie.webp
 ---
-# Vegetarian Pot Pie
+
+# :pie: Vegetarian Pot Pie
 
 ![Vegetarian Pot Pie][1]{ loading=lazy }
 
@@ -15,23 +16,23 @@ hero: assets/images/vegetarian-pot-pie.jpg
 ## :salt: Ingredients
 
 - :butter: 0.5 cup (113 g) unsalted butter
-- :onion: 1 medium onion
+- :tea: 1 medium onion
 - :garlic: 4 cloves garlic
-- :carrot: 1.5 cups (210 g) carrots
-- :sweet_potato: 1.5 cups (235 g) potatoes
+- :carrot: 1.5 cups (213 g) carrots
+- :sweet_potato: 1.5 cups (320 g) potatoes
 - :leafy_green: 1 cup (142 g) celery
 - :bread: 0.25 cup (30 g) all-purpose flour
-- :herb: 1.5 tsp fresh thyme
-- :herb: 1.5 tsp fresh rosemary
+- :apple: 1.5 tsp fresh thyme
+- :herb: 1.5 tsp (1 g) fresh rosemary
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
-- :stew: 2 cups (455 g) [vegetable broth][2]
+- 2 cups [vegetable broth][2]
 - :beans: 1 cup (150 g) frozen peas
 - :herb: 2 Tbsp parsley
-- :glass_of_milk: 0.25 cup (60 g) heavy cream
-- :bread: some [pie crust][3]
-- :egg: 1 medium [egg][4]
-- :droplet: 1 Tbsp water
+- :glass_of_milk: 0.25 cup (57 g) heavy cream
+- some [pie crust][3]
+- 1 medium [egg][4]
+- :droplet: 1 Tbsp (14 g) water
 
 ## :cooking: Cookware
 
@@ -57,7 +58,7 @@ Then add in the carrots, potatoes, and celery. Sauté another 5 minutes to softe
 ### Step 4
 
 Stir in the all-purpose flour, fresh thyme, fresh rosemary, 1 teaspoon salt, and 1/2 teaspoon cracked black pepper. Make
-sure the flour is evenly coating all the vegetables. Then stir in the vegetable broth.
+sure the flour is evenly coating all the vegetables. Then stir in the [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 5
 
@@ -106,8 +107,7 @@ Once fully cooked and golden brown, remove the pie from the oven. Cool for 15 mi
 
 - <https://www.aspicyperspective.com/best-vegetarian-pot-pie/>
 
-[1]: <../assets/images/vegetarian-pot-pie.jpg>
+[1]: <../assets/images/vegetarian-pot-pie.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/pastry-dough/basic-pastry.md>
 [4]: <../ingredients/eggs.md>
-

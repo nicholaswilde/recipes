@@ -7,9 +7,10 @@ tags:
   - scottish
   - jennifer maloney
   - the pancake princess
-hero: assets/images/simply-perfect-scottish-shortbread.jpg
+hero: assets/images/simply-perfect-scottish-shortbread.webp
 ---
-# Simply Perfect Scottish Shortbread
+
+# :page_facing_up: Simply Perfect Scottish Shortbread
 
 ![Simply Perfect Scottish Shortbread][1]{ loading=lazy }
 
@@ -19,12 +20,12 @@ hero: assets/images/simply-perfect-scottish-shortbread.jpg
 
 ## :salt: Ingredients
 
-- :page_facing_up: some parchment paper
+- :bread: some parchment paper
 - :bread: 1.5 cups (180 g) all-purpose flour
-- :bread: 0.5 cup (71 g) [white rice flour](../ingredients/rice-flour.md)
+- :baby_bottle: 0.5 cup (99 g) [white rice flour](../ingredients/rice-flour.md)
 - :candy: 0.5 cup (99 g) white granulated sugar
 - :salt: 0.25 tsp fine sea salt
-- :butter: 1 cup (227 g) unsalted butter
+- :butter: 1 cup (226 g) unsalted butter
 
 ## :cooking: Cookware
 
@@ -85,4 +86,4 @@ Transfer to a :wastebasket: cooling rack to cool completely. Store in an :packag
 - <https://www.seasonsandsuppers.ca/crispy-scottish-shortbread/>
 - <https://www.thepancakeprincess.com/2021/12/10/best-shortbread-bake-off/>
 
-[1]: <../assets/images/simply-perfect-scottish-shortbread.jpg>
+[1]: <../assets/images/simply-perfect-scottish-shortbread.webp>

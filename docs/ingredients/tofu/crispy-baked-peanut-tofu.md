@@ -5,41 +5,43 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
-hero: assets/images/crispy-baked-peanut-tofu.jpg
+hero: assets/images/crispy-baked-peanut-tofu.webp
 ---
 
 # :peanuts: Crispy Baked Peanut Tofu
 
-![Crispy Baked Peanut Tofu](../../assets/images/crispy-baked-peanut-tofu.jpg){ loading=lazy }
+![Crispy Baked Peanut Tofu](../../assets/images/crispy-baked-peanut-tofu.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 2 | 1.18 hours |
 
-## :salt: Ingredients - Tofu
+## :salt: Ingredients
 
-- :butter: 340 g extra-firm tofu
+=== "Tofu"
 
-## :salt: Ingredients - Sauce
+    - :cheese_wedge: 340 g extra-firm tofu
 
-- :peantus: 38 g peanut butter
-- :oil_drum: 15 ml sesame oil
-- :sake: 30 ml tamari or soy sauce or coconut aminos
-- :maple_leaf: 30 ml maple syrup
-- :garlic: 2 tsp chili garlic sauce
+=== "Sauce"
 
-## :salt: Ingredients - Cauliflower Rice
+    - :chestnut: 38 g peanut butter
+    - :olive: 15 ml (14 g) sesame oil
+    - :apple: 30 ml (8 g) tamari or soy sauce or coconut aminos
+    - :honey_pot: 30 ml (40 g) maple syrup
+    - :garlic: 2 tsp chili garlic sauce
 
-- :broccoli: 1 small head cauliflower
-- :garlic: 2 cloves garlic
-- :oil_drum: 15 ml sesame oil
-- :sake: 2 tsp tamari
+=== "Cauliflower Rice"
 
-## :salt: Ingredients - Veggies (optional)
+    - :broccoli: 1 small head cauliflower
+    - :garlic: 2 cloves garlic
+    - :olive: 15 ml (14 g) sesame oil
+    - :takeout_box: 2 tsp tamari
 
-- :leafy_green: 75 g veggies (optional)
-- :oil_drum: 1 dash sesame oil
-- :sake: 1 dash tamari
+=== "Veggies (optional)"
+
+    - :leafy_green: 75 g veggies (optional)
+    - :olive: 1 dash sesame oil
+    - :takeout_box: 1 dash tamari
 
 ## :cooking: Cookware
 

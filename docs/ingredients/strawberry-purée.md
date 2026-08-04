@@ -5,12 +5,12 @@ tags:
   - ingredient
   - puree
   - dominique-ansel
-hero: assets/images/strawberry-purée.jpg
+hero: assets/images/strawberry-purée.webp
 ---
 
 # :strawberry: Strawberry Purée
 
-![Strawberry Purée](../assets/images/strawberry-purée.jpg){ loading=lazy }
+![Strawberry Purée](../assets/images/strawberry-purée.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

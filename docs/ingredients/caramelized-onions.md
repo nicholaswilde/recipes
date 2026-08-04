@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - jean-pierre
-hero: assets/images/caramelized-onions.jpg
+hero: assets/images/caramelized-onions.webp
 ---
 
 # :onion: Caramelized Onions
 
-![Caramelized Onions](../assets/images/caramelized-onions.jpg){ loading=lazy }
+![Caramelized Onions](../assets/images/caramelized-onions.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,11 +17,11 @@ hero: assets/images/caramelized-onions.jpg
 
 ## :salt: Ingredients
 
-- :onion: 4 large onions
-- :olive: 1 Tbsp olive oil
-- :butter: 2 Tbsp (28 g) sweet butter
-- :maple_leaf: 0.5 cup (107 g) light brown sugar
-- :sake: 0.5 cup (114 g) balsamic vinegar
+- :tea: 4 large onions
+- :olive: 1 Tbsp (12 g) olive oil
+- :butter: 2 Tbsp (34 g) sweet butter
+- :candy: 0.5 cup (106 g) light brown sugar
+- :wine_glass: 0.5 cup balsamic vinegar
 - :salt: some salt
 - :salt: some pepper
 

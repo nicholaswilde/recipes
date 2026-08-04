@@ -4,7 +4,8 @@ tags:
   - main
 hero: assets/images/vegan-giant-bean-&-kale-penne.png
 ---
-# Vegan Giant Bean & Kale Penne
+
+# :beans: Vegan Giant Bean & Kale Penne
 
 ![Vegan Giant Bean & Kale Penne][1]{ loading=lazy }
 
@@ -15,14 +16,14 @@ hero: assets/images/vegan-giant-bean-&-kale-penne.png
 ## :salt: Ingredients
 
 - :tomato: 1 pkg TJ's Mini Pearl Grape Tomatoes
-- :olive: 4 Tbsp olive oil
+- :olive: 4 Tbsp (50 g) olive oil
 - :salt: some salt
 - :salt: some pepper
 - :garlic: 5 cloves garlic
 - :leafy_green: 1 bag TJ's kale
-- :ear_of_rice: 1 pkg TJ's Penne Rigate
-- :beans: 1 can TJ's Giant Baked Beans in Tomato Sauce
-- :cheese_wedge: some [Parmesan cheese][2] (optional)
+- 1 pkg TJ's Penne Rigate
+- :apple: 1 can TJ's Giant Baked Beans in Tomato Sauce
+- :hot_pepper: some [Parmesan cheese][2] (optional)
 
 ## :cooking: Cookware
 
@@ -68,4 +69,3 @@ then mix and serve topped with grated Parmesan (optional) cheese.
 
 [1]: <../assets/images/vegan-giant-bean-&-kale-penne.png>
 [2]: <../ingredients/vegan-parmesan.md>
-

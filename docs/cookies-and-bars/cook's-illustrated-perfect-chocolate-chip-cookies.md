@@ -6,7 +6,7 @@ tags:
   - dessert
   - cooks-illustrated
   - favorite
-hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg
+hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp
 ---
 
 # :cookie: Cook’s Illustrated Perfect Chocolate Chip Cookies
@@ -19,16 +19,16 @@ hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
-- :cup_with_straw: 0.5 tsp baking soda
+- :bread: 1.75 cups (210 g) all-purpose flour
+- :chestnut: 0.5 tsp baking soda
 - :butter: 14 Tbsp (198 g) unsalted butter
 - :candy: 0.5 cup (99 g) granulated sugar
-- :maple_leaf: 0.75 cup (160 g) [dark brown sugar][1]
+- :candy: 0.75 cup (128 g) [dark brown sugar][1]
 - :salt: 1 tsp salt
-- :ice_cream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 - :egg: 1 egg
 - :egg: 1 egg yolk
-- :chocolate_bar: 1.25 cups (213 g) semi-sweet chocolate chips
+- :chestnut: 1.25 cups (212 g) semi-sweet chocolate chips
 
 ## :cooking: Cookware
 
@@ -76,7 +76,7 @@ sheets, 8 dough balls per sheet.
 
 ### Step 7
 
-Preheat oven to 375°F. 
+Preheat oven to 375°F.
 
 ### Step 8
 
@@ -100,4 +100,4 @@ at room temperature for up to 3 days.
 - <https://www.thepancakeprincess.com/best-brown-butter-chocolate-chip-cookie-bake-off/>
 
 [1]: <../ingredients/brown-sugar.md>
-[2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.jpg>
+[2]: <../assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp>

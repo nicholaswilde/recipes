@@ -5,12 +5,12 @@ tags:
   - soup
   - french
   - cooks-illustrated
-hero: assets/images/french-onion-soup.jpg
+hero: assets/images/french-onion-soup.webp
 ---
 
 # :onion: French Onion Soup
 
-![French Onion Soup](../assets/images/french-onion-soup.jpg){ loading=lazy }
+![French Onion Soup](../assets/images/french-onion-soup.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,22 +18,22 @@ hero: assets/images/french-onion-soup.jpg
 
 ## :salt: Ingredients
 
-- :butter: 4 Tbsp unsalted butter
-- :onion: 4 lbs onions
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :tea: 4 lbs onions
 - :salt: 1 tsp salt
-- :candy: 1 tsp sugar
-- :wine_glass: 1 cup dry red wine
-- :stew: 8 cups [vegetable broth][1]
+- :candy: 1 tsp (3 g) sugar
+- :wine_glass: 1 cup (210 g) dry red wine
+- 8 cups [vegetable broth][1]
 - :herb: 4 sprigs thyme
-- :fallen_leaf: 2 bay leaves
+- :herb: 2 bay leaves
 - :salt: 0.5 tsp pepper
 - :salt: 0.5 tsp salt
 - :baguette_bread: 6 oz baguette
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- :cheese: 1 cup Gruyère
-- :cheese: 0.5 cup Parmesan
+- 1 cup Gruyère
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
 
 ## :cooking: Cookware
 

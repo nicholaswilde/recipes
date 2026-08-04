@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# sync_giscus_comments.py
+# ----------------
+# Sync Giscus comments with recipe pages
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 01 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import re
 import json

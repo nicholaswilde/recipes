@@ -5,12 +5,12 @@ tags:
   - dessert
   - pie
   - grandma-beatrice-wilde
-hero: assets/images/butterfinger-ice-cream-pie.jpg
+hero: assets/images/butterfinger-ice-cream-pie.webp
 ---
 
 # :pie: Butterfinger Ice Cream Pie
 
-![Butterfinger Ice Cream Pie](../../assets/images/butterfinger-ice-cream-pie.jpg){ loading=lazy }
+![Butterfinger Ice Cream Pie](../../assets/images/butterfinger-ice-cream-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,10 +18,10 @@ hero: assets/images/butterfinger-ice-cream-pie.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 5 bars Butterfinger
-- :icecream: 0.5 gal vanilla ice cream
-- :cookie: 2 [Oreo pie crusts][1]
-- :icecream: 1 8-oz tub Cool Whip
+- 5 bars Butterfinger
+- :ice_cream: 0.5 gal vanilla ice cream
+- :chestnut: 2 [Oreo pie crusts][1]
+- :glass_of_milk: 1 8-oz tub Cool Whip
 
 ## :cooking: Cookware
 

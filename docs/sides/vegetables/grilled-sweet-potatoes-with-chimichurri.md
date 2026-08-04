@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/grilled-sweet-potatoes-with-chimichurri.jpg
+hero: assets/images/grilled-sweet-potatoes-with-chimichurri.webp
 ---
 
 # :sweet_potato: Grilled Sweet Potatoes with Chimichurri
 
-![Grilled Sweet Potatoes with Chimichurri](../../assets/images/grilled-sweet-potatoes-with-chimichurri.jpg){ loading=lazy }
+![Grilled Sweet Potatoes with Chimichurri](../../assets/images/grilled-sweet-potatoes-with-chimichurri.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,15 +17,15 @@ hero: assets/images/grilled-sweet-potatoes-with-chimichurri.jpg
 
 ## :salt: Ingredients
 
-- :sweet_potato: 4 medium sweet potatoes
-- :onion: 0.5 shallot
+- :corn: 4 medium sweet potatoes
+- :garlic: 0.5 shallot
 - :herb: 3 Tbsp parsley
-- :herb: 3 Tbsp cilantro
-- :wine_glass: 2 Tbsp sherry or red wine vinegar
-- :olive: 5 Tbsp olive oil
+- :herb: 3 Tbsp (8 g) cilantro
+- :wine_glass: 2 Tbsp (23 g) sherry or red wine vinegar
+- :olive: 5 Tbsp (62 g) olive oil
 - :salt: 0.25 tsp salt
 - :salt: 0.13 tsp black pepper
-- :hot_pepper: 0.25 tsp red pepper flakes
+- :hot_pepper: 0.25 tsp (1 g) red pepper flakes
 
 ## :cooking: Cookware
 

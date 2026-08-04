@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-crackers.jpg
+hero: assets/images/sourdough-crackers.webp
 ---
 
 # :flatbread: Sourdough Crackers
@@ -17,11 +17,11 @@ hero: assets/images/sourdough-crackers.jpg
 
 ## :salt: Ingredients
 
-- :microbe: 227 g sourdough starter
-- :ear_of_rice: 113 g whole wheat flour
+- :tea: 227 g sourdough starter
+- :bread: 113 g whole wheat flour
 - :salt: 0.5 tsp flaky sea salt
 - :butter: 57 g butter
-- :herb: 2 Tbsp herbs (optional)
+- :leafy_green: 2 Tbsp herbs (optional)
 
 ## :cooking: Cookware
 
@@ -116,4 +116,4 @@ Store crackers, well wrapped, at room temperature for up to a week; freeze for l
 - <https://www.kingarthurbaking.com/blog/2020/08/24/sourdough-crackers>
 - <https://www.youtube.com/watch?v=4aZ7xAPCa50>
 
-[1]: <../assets/images/sourdough-crackers.jpg>
+[1]: <../assets/images/sourdough-crackers.webp>

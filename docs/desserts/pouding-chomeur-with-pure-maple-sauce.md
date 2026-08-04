@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/pouding-chomeur-with-pure-maple-sauce.jpg
+hero: assets/images/pouding-chomeur-with-pure-maple-sauce.webp
 ---
 
 # :custard: Pouding Chômeur with Pure Maple Sauce
@@ -16,21 +16,21 @@ hero: assets/images/pouding-chomeur-with-pure-maple-sauce.jpg
 
 ## :salt: Ingredients
 
-- :maple_leaf: 2 cups (624 g) maple syrup
-- :maple_leaf: 1.5 cups (320 g) light brown sugar
-- :glass_of_milk: 1.5 cups heavy cream
-- :butter: 0.5 cup (114 g) unsalted butter
-- :icecream: 1 Tbsp vanilla
+- :honey_pot: 2 cups (624 g) maple syrup
+- :candy: 1.5 cups (320 g) light brown sugar
+- :glass_of_milk: 1.5 cups (340 g) heavy cream
+- :butter: 0.5 cup (113 g) unsalted butter
+- :flower_playing_cards: 1 Tbsp vanilla
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) unsalted butter
+- :butter: 0.5 cup (113 g) unsalted butter
 - :candy: 0.75 cup (148 g) granulated sugar
 - :egg: 2 large eggs
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :corn: 0.25 cup (28 g) cornstarch
-- :dash: 2 tsp baking powder
+- :bread: 1.5 cups (180 g) all-purpose flour
+- :chestnut: 0.25 cup (28 g) cornstarch
+- :chestnut: 2 tsp baking powder
 - :salt: 0.5 tsp salt
-- :butter: 0.75 cup (170 g) buttermilk
-- :icecream: 1 tsp vanilla
+- :icecream: 0.75 cup [buttermilk](../ingredients/buttermilk.md)
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -60,13 +60,13 @@ about 5 minutes. Add the room temperature eggs and mix until fluffy, about 2 min
 ### Step 4
 
 In a separate bowl, mix the all-purpose flour, cornstarch, baking powder and salt until very well combined. Separately,
-mix the room temperature buttermilk and vanilla.
+mix the room temperature [buttermilk](../ingredients/buttermilk.md) and vanilla.
 
 ### Step 5
 
 Add half of the dry ingredients to the creamed mixture. Mix on low speed until barely incorporated, then pour in half
-the buttermilk-vanilla mixture; resume mixing on low speed until just combined. Repeat with a third of the dry
-ingredients, then the buttermilk-vanilla mixture, and finally add the rest of the dry ingredients.
+the [buttermilk](../ingredients/buttermilk.md)-vanilla mixture; resume mixing on low speed until just combined. Repeat with a third of the dry
+ingredients, then the [buttermilk](../ingredients/buttermilk.md)-vanilla mixture, and finally add the rest of the dry ingredients.
 
 ### Step 6
 
@@ -86,4 +86,4 @@ Remove the cake from the oven. Cool for a few hours.
 
 - Costco
 
-[1]: <../assets/images/pouding-chomeur-with-pure-maple-sauce.jpg>
+[1]: <../assets/images/pouding-chomeur-with-pure-maple-sauce.webp>

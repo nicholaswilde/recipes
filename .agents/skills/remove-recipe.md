@@ -3,6 +3,7 @@
 Remove a recipe from the repository, including Markdown, Cooklang, images, cross-references, and navigation entries.
 
 ## Description
+
 This skill safely and completely removes a recipe and all of its associated source files, images, configurations, and reference links from the repository.
 
 ## Protocol
@@ -34,6 +35,7 @@ This skill safely and completely removes a recipe and all of its associated sour
    - Push to the remote repository if requested.
 
 ## Safety Checks
+
 - Verify file existence before attempting removal.
 - If the recipe name is ambiguous or matches multiple entries, ask the user to clarify.
 - Do not delete shared images that are also referenced by other active recipes.

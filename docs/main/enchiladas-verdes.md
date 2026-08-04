@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/enchiladas-verdes.jpg
+hero: assets/images/enchiladas-verdes.webp
 ---
 
 # :curry: Enchiladas Verdes
@@ -17,20 +17,20 @@ hero: assets/images/enchiladas-verdes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1 lb Russet potatoes
-- :olive: 1 Tbsp olive oil
-- :onion: 1 onion
+- :sweet_potato: 1 lb Russet potatoes
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 1 onion
 - :garlic: 2 cloves garlic
 - :salt: some salt
-- :green_circle: 0.5 cup peas
+- :beans: 0.5 cup (75 g) peas
 - :hot_pepper: 0.25 jalapeño
 - :hot_pepper: 0.125 tsp chili powder
-- :tomato: 2 cups [salsa verde][3]
-- :flatbread: 8 [corn tortilla][2]
-- :jack_o_lantern: 0.5 cup pumpkin seeds
-- :herb: 0.25 cup cilantro
+- 2 cups [salsa verde][3]
+- 8 [corn tortilla][2]
+- :seedling: 0.5 cup (80 g) pumpkin seeds
+- :herb: 0.25 cup (10 g) cilantro
 - :avocado: 1 avocado
-- :canned_food: 2 cups [black beans][4]
+- 2 cups [black beans][4]
 
 ## :cooking: Cookware
 
@@ -77,7 +77,7 @@ Garnish with the toasted pumpkin seeds, a little more salsa verde, and cilantro 
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/enchiladas-verdes.jpg>
+[1]: <../assets/images/enchiladas-verdes.webp>
 [2]: <../sides/grains-and-legumes/corn-tortillas.md>
 [3]: <../sauces-and-dressings/salsas/salsa-verde.md>
 [4]: <../sides/grains-and-legumes/gracias-madre-black-beans.md>

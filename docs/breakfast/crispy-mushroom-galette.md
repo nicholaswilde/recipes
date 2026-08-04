@@ -5,7 +5,7 @@ tags:
   - breakfast
   - claire-saffitz
   - dessert-person
-hero: assets/images/crispy-mushroom-galette.jpg
+hero: assets/images/crispy-mushroom-galette.webp
 ---
 
 # :mushroom: Crispy Mushroom Galette
@@ -18,20 +18,20 @@ hero: assets/images/crispy-mushroom-galette.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :leafy_green: 2 large leeks
-- :baby_bottle: 1 Tbsp grainy [Dijon mustard][3]
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 2 large leeks
+- 1 Tbsp grainy [Dijon mustard][3]
 - :salt: some salt
 - :salt: some pepper
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :mushroom: 1 lb shiitake, cremini, oyster, and/or maitake mushrooms
 - :garlic: 5 cloves garlic
 - :herb: 2 sprigs rosemary
-- :bread: 1 [flaky olive oil dough][2]
+- :olive: 1 [flaky olive oil dough][2]
 - :bread: some flour
 - :olive: some olive oil
-- :bread: 2 Tbsp panko bread crumbs
-- :cheese_wedge: 2 tsp nutritional yeast
+- :bread: 2 Tbsp (25 g) panko bread crumbs
+- :cheese_wedge: 2 tsp (2 g) nutritional yeast
 
 ## :cooking: Cookware
 
@@ -63,7 +63,7 @@ Wipe out the skillet and set it back on the stove for the mushrooms.
 ### Step 4
 
 Add 2 tablespoons of the olive oil to the same skillet and heat over high heat until shimmering. Add half of the
-shiitake, cremini, oyster, and/or maitake mushrooms, 2 of the smashed garlic cloves, and 1 of the rosemary  sprigs. Toss
+shiitake, cremini, oyster, and/or maitake mushrooms, 2 of the smashed garlic cloves, and 1 of the rosemary sprigs. Toss
 the mushrooms once just to coat in oil, then let them cook undisturbed until they're browned in spots, about 3 minutes.
 Continue to cook, tossing occasionally, until the mushrooms are browned all over, have released their liquid, and are
 tender, 5 to 8 minutes longer. Season the mixture with salt and pepper. Scrape into a separate medium bowl and set the
@@ -109,6 +109,6 @@ and cutting into slices. Serve warm or at room temperature.
 
 - Dessert Person
 
-[1]: <../assets/images/crispy-mushroom-galette.jpg>
+[1]: <../assets/images/crispy-mushroom-galette.webp>
 [2]: <../ingredients/pastry-dough/flaky-olive-oil-dough.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>

@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg
+hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 ---
-# Creamy Vegan Polenta with Mushrooms and Kale
+
+# :stew: Creamy Vegan Polenta with Mushrooms and Kale
 
 ![Creamy Vegan Polenta with Mushrooms and Kale][1]{ loading=lazy }
 
@@ -14,23 +15,23 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg
 
 ## :salt: Ingredients
 
-- :stew: 6 cups (1.4 kg) [vegetable broth][2]
+- 6 cups (1.4 kg) [vegetable broth][2]
 - :salt: some salt
-- :ear_of_rice: 1.5 cups (245 g) polenta
+- 1.5 cups (244 g) polenta
 - :butter: 3 Tbsp butter
-- :cheese_wedge: 2 Tbsp nutritional yeast
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
 - :salt: some black pepper
-- :olive: 3 Tbsp olive oil
-- :onion: 1 small yellow onion
+- :olive: 3 Tbsp (38 g) olive oil
+- :seedling: 1 small yellow onion
 - :mushroom: 1 lb cremini mushrooms
 - :herb: 2 tsp rosemary
 - :garlic: 4 cloves garlic
 - :hot_pepper: 1 pinch red-pepper flakes
-- :tomato: 3 Tbsp tomato paste
-- :wine_glass: 0.67 cup (150 g) red wine
-- :stew: 1 cup (227 g) [vegetable broth][2]
-- :leafy_green: 2 small bunches curly kale
-- :wine_glass: 1 tsp red wine vinegar
+- 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :wine_glass: 0.67 cup (141 g) red wine
+- 1 cup [vegetable broth][2]
+- :apple: 2 small bunches curly kale
+- :wine_glass: 1 tsp (4 g) red wine vinegar
 
 ## :cooking: Cookware
 
@@ -42,7 +43,7 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg
 
 ### Step 1
 
-Make the polenta: Bring 6 cups vegetable broth and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in the
+Make the polenta: Bring 6 cups [Vegetable Broth](../ingredients/vegetable-broth.md) and 1 teaspoon salt to boil in a large saucepan. Gradually whisk in the
 polenta, then turn the heat to low and simmer, stirring occasionally with a wooden spoon, until the polenta has
 thickened to your liking, 10 to 15 minutes. Off the heat, stir in the butter and nutritional yeast. Season to taste with
 salt and black pepper; cover and set aside.
@@ -57,7 +58,7 @@ if the pan looks dry, until the mushrooms have released their water and are tend
 ### Step 3
 
 Add the garlic and red-pepper flakes, and cook for 1 minute, until fragrant. (Be careful not to let the garlic burn.)
-Add the tomato paste and cook, stirring to incorporate, until it turns a rusty brown color and begins to caramelize on
+Add the [Tomato Paste](../ingredients/tomato-paste.md) and cook, stirring to incorporate, until it turns a rusty brown color and begins to caramelize on
 the bottom of the pan.
 
 ### Step 4
@@ -66,7 +67,7 @@ Add the red wine and cook, stirring and scraping brown bits from the pan, until 
 
 ### Step 5
 
-Add the 1 cup vegetable broth, and bring to a simmer. Begin adding handfuls of curly kale, cooking and stirring until
+Add the 1 cup [Vegetable Broth](../ingredients/vegetable-broth.md), and bring to a simmer. Begin adding handfuls of curly kale, cooking and stirring until
 the kale wilts. Add 3/4 teaspoon salt and 1/4 teaspoon pepper and cook, stirring occasionally, until the liquid in the
 pan reduces and thickens, about 10 minutes.
 
@@ -80,6 +81,5 @@ sprinkled with parsley.
 
 - <https://cooking.nytimes.com/recipes/1021827-creamy-vegan-polenta-with-mushrooms-and-kale>
 
-[1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.jpg>
+[1]: <../assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp>
 [2]: <../ingredients/vegetable-broth.md>
-

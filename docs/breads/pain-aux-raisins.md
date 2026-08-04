@@ -15,36 +15,38 @@ hero: assets/images/pain-aux-raisins.png
 |:----------------------------------:|:-----------------------: |
 | 12 | 3.17 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 350 g strong white bread flour
-- :butter: 250 g butter
-- :candy: 30 g caster sugar
-- :microbe: 7 g fast-action dried yeast
-- :salt: 1 tsp salt
-- :glass_of_milk: 125 ml whole milk
-- :droplet: 50 ml warm water
-- :egg: 1 large egg
+=== "Dough"
 
-## :salt: Ingredients - Crème Pâtissière
+    - :bread: 350 g strong white bread flour
+    - :butter: 250 g butter
+    - :candy: 30 g caster sugar
+    - :chestnut: 7 g fast-action dried yeast
+    - :salt: 1 tsp salt
+    - :glass_of_milk: 125 ml (120 g) whole milk
+    - :droplet: 50 ml (48 g) warm water
+    - :egg: 1 large egg
 
-- :candy: 50 g caster sugar
-- :egg: 2 large egg yolks
-- :corn: 20 g cornflour
-- :glass_of_milk: 250 ml whole milk
-- :icecream: 0.5 pod vanilla
+=== "Crème Pâtissière"
 
-## :salt: Ingredients - Filling
+    - :candy: 50 g caster sugar
+    - :egg: 2 large egg yolks
+    - 20 g cornflour
+    - :glass_of_milk: 250 ml (240 g) whole milk
+    - :flower_playing_cards: 0.5 pod vanilla
 
-- :grapes: 100 g raisins
-- :custard: 0.25 tsp cinnamon
-- :orange_circle: 1 orange
-- :egg: 1 egg
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :grapes: 100 g raisins
+    - :chestnut: 0.25 tsp (1 g) cinnamon
+    - :tangerine: 1 orange
+    - :egg: 1 egg
 
-- :candy: 200 g confectioners' sugar
-- :orange_circle: 1 orange juice
+=== "Icing"
+
+    - :candy: 200 g confectioners' sugar
+    - :tangerine: 1 orange juice
 
 ## :cooking: Cookware
 
@@ -63,7 +65,7 @@ hero: assets/images/pain-aux-raisins.png
 ### Step 1
 
 Make the dough. Put the strong white bread flour in a mixing bowl. Cut 25g of the butter into cubes, add these to the
-bowl and rub in the butter with your fingertips until the mixture resembles breadcrumbs. Add the caster sugar,
+bowl and rub in the butter with your fingertips until the mixture resembles [Breadcrumbs](../ingredients/breadcrumbs.md). Add the caster sugar,
 fast-action dried yeast and salt and stir to combine.
 
 ### Step 2

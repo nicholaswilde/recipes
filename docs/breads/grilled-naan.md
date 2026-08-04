@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/grilled-naan.jpg
+hero: assets/images/grilled-naan.webp
 ---
 
 # :flatbread: Grilled Naan
@@ -15,26 +15,28 @@ hero: assets/images/grilled-naan.jpg
 |:----------------------------------:|:-----------------------: |
 | 8 | 5.5 hours |
 
-## :salt: Ingredients - Sponge
+## :salt: Ingredients
 
-- :ear_of_rice: 177 g all-purpose flour
-- :ear_of_rice: 53 g whole wheat flour
-- :microbe: 1/4 tsp instant yeast
-- :droplet: 170 g water
+=== "Sponge"
 
-## :salt: Ingredients - Dough
+    - :bread: 177 g all-purpose flour
+    - :bread: 53 g whole wheat flour
+    - :tea: 1/4 tsp (1 g) instant yeast
+    - :droplet: 170 g water
 
-- :ear_of_rice: 270 g all-purpose flour
-- :salt: 9 g tsp salt
-- :cup_with_straw: 1/2 tsp baking soda
-- :rice: 1 tsp cream of tarter
-- :rice: 170 g full-fat plain Greek yogurt or whole milk
+=== "Dough"
 
-## :salt: Ingredients - Topping
+    - :bread: 270 g all-purpose flour
+    - :salt: 9 g tsp salt
+    - :chestnut: 1/2 tsp baking soda
+    - :glass_of_milk: 1 tsp (6 g) cream of tarter
+    - :coconut: 170 g full-fat plain Greek yogurt or whole milk
 
-- :butter: 28 g ghee or butter
-- :seedling: 2 tsp nigella seeds (optional)
-- :herb: 0.25 cup cilantro
+=== "Topping"
+
+    - :butter: 28 g ghee or butter
+    - :seedling: 2 tsp (6 g) nigella seeds (optional)
+    - :herb: 0.25 cup (10 g) cilantro
 
 ## :cooking: Cookware
 
@@ -97,4 +99,4 @@ Store naan, well-wrapped, on the counter for two days; freeze for longer storage
 
 - <https://www.kingarthurbaking.com/recipes/grilled-naan-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/cranberry-bars.jpg
+hero: assets/images/cranberry-bars.webp
 ---
 
 # :cherries: Cranberry Bars
@@ -15,31 +15,33 @@ hero: assets/images/cranberry-bars.jpg
 |:----------------------------------:|:-----------------------: |
 | 18-24 squares | 1.92 hours |
 
-## :salt: Ingredients - Crust & Topping
+## :salt: Ingredients
 
-- :ear_of_rice: 375 g all-purpose flour
-- :candy: 200 g granulated sugar
-- :dash: 1 tsp baking powder
-- :salt: 0.25 tsp salt
-- :custard: 1 tsp cinnamon
-- :butter: 226 g cold cubed unsalted butter
-- :egg: 1 large egg
-- :glass_of_milk: 60 g milk
-- :icecream: 2 tsp vanilla
+=== "Crust & Topping"
 
-## :salt: Ingredients - Filling
+    - :bread: 375 g all-purpose flour
+    - :candy: 200 g granulated sugar
+    - :chestnut: 1 tsp baking powder
+    - :salt: 0.25 tsp salt
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :glass_of_milk: 226 g cold cubed unsalted butter
+    - :egg: 1 large egg
+    - :glass_of_milk: 60 g milk
+    - :flower_playing_cards: 2 tsp vanilla
 
-- :cherries: 400 g fresh or frozen cranberries
-- :candy: 150 g granulated sugar
-- :corn: 1 Tbsp cornstarch
-- :tangerine: 2 tsp orange zest
-- :tangerine: 15 g fresh orange juice
-- :chestnut: 30 g sliced almonds (optional)
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :apple: 400 g fresh or frozen cranberries
+    - :candy: 150 g granulated sugar
+    - :chestnut: 1 Tbsp (7 g) cornstarch
+    - :tangerine: 2 tsp (4 g) orange zest
+    - :tangerine: 15 g fresh orange juice
+    - :apple: 30 g sliced almonds (optional)
 
-- :tangerine: 30 g fresh orange juice
-- :candy: 120 g confectioners' sugar
+=== "Icing"
+
+    - :tangerine: 30 g fresh orange juice
+    - :candy: 120 g confectioners' sugar
 
 ## :cooking: Cookware
 
@@ -100,4 +102,4 @@ refrigerator for up to 1 week.
 
 - <https://sallysbakingaddiction.com/cranberry-crumble-pie-bars/#tasty-recipes-77854>
 
-[1]: <../assets/images/cranberry-bars.jpg>
+[1]: <../assets/images/cranberry-bars.webp>

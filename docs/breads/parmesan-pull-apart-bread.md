@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/parmesan-pull-apart-bread.jpg
+hero: assets/images/parmesan-pull-apart-bread.webp
 ---
 
 # :cheese_wedge: Parmesan Pull-Apart Bread
 
-![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.jpg){ loading=lazy }
+![Parmesan Pull-Apart Bread](../assets/images/parmesan-pull-apart-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/parmesan-pull-apart-bread.jpg
 ## :salt: Ingredients
 
 - :butter: 3 Tbsp butter
-- :cheese_wedge: 0.5 cup Parmesan
-- :cookie: 1 10-oz pkg [buttermilk biscuit][1]
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
+- :glass_of_milk: 1 10-oz pkg [buttermilk biscuit][1]
 
 ## :cooking: Cookware
 

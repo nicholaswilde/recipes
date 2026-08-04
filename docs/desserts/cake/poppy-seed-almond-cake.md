@@ -6,7 +6,7 @@ tags:
   - cake
   - claire-saffitz
   - favorite
-hero: assets/images/poppy-seed-almond-cake.jpg
+hero: assets/images/poppy-seed-almond-cake.webp
 ---
 
 # :chestnut: Poppy Seed Almond Cake
@@ -17,26 +17,28 @@ hero: assets/images/poppy-seed-almond-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.60 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :dash: 1.5 tsp baking powder
-- :ear_of_rice: 390 g all-purpose flour
-- :salt: 1 tsp salt
-- :blue_circle: 2 Tbsp poppy seeds
-- :candy: 465 g granulated sugar
-- :icecream: 1.5 tsp vanilla
-- :chestnut: 1.5 tsp almond extract
-- :glass_of_milk: 360 g whole milk
-- :egg: 3 eggs
-- :oil_drum: 288 g neutral oil
+=== "Cake"
 
-## :salt: Ingredients - Glaze
+    - :chestnut: 1.5 tsp baking powder
+    - :bread: 390 g all-purpose flour
+    - :salt: 1 tsp salt
+    - :seedling: 2 Tbsp poppy seeds
+    - :candy: 465 g granulated sugar
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :flower_playing_cards: 1.5 tsp (8 g) almond extract
+    - :glass_of_milk: 360 g whole milk
+    - :egg: 3 eggs
+    - :olive: 288 g neutral oil
 
-- :candy: 90 g confectioners' sugar
-- :orange_circle: 57 g orange juice
-- :butter: 2 tsp (10 g) unsalted butter
-- :icecream: 0.5 tsp vanilla
-- :chestnut: 0.5 tsp almond extract
+=== "Glaze"
+
+    - :candy: 90 g confectioners' sugar
+    - :tangerine: 57 g orange juice
+    - :butter: 2 tsp (9 g) unsalted butter
+    - :flower_playing_cards: 0.5 tsp vanilla
+    - :flower_playing_cards: 0.5 tsp (3 g) almond extract
 
 ## :cooking: Cookware
 
@@ -121,4 +123,4 @@ Wait for the cake to cool and the glaze to crystallize before serving.
 
 - <https://www.youtube.com/watch?v=IBlRFuMjvZE>
 
-[1]: <../../assets/images/poppy-seed-almond-cake.jpg>
+[1]: <../../assets/images/poppy-seed-almond-cake.webp>

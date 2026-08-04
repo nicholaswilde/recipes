@@ -5,7 +5,7 @@ tags:
   - dessert
   - martha-stewart
   - cheesecake
-hero: assets/images/martha-stewarts-new-york-style-cheesecake.jpg
+hero: assets/images/martha-stewarts-new-york-style-cheesecake.webp
 ---
 
 # :cake: Martha Stewart's New York-Style Cheesecake
@@ -18,7 +18,7 @@ hero: assets/images/martha-stewarts-new-york-style-cheesecake.jpg
 
 ## :salt: Ingredients
 
-=== "serves 1 9 inch cake"
+=== "9 Inch"
 
     ### :flatbread: Crust
 
@@ -38,7 +38,7 @@ hero: assets/images/martha-stewarts-new-york-style-cheesecake.jpg
     - :lemon: 0.75 tsp lemon zest (optional)
     - :rice: 1 sour cream topping (optional)
 
-=== "serves 1 10 inch cake"
+=== "10 Inch"
 
     ### :flatbread: Crust
 
@@ -123,4 +123,4 @@ Optionally, add a [sour cream topping][1].
 - <https://www.youtube.com/watch?v=0UB2nOT6Wic>
 
 [1]: <../ingredients/frosting/sour-cream-topping.md>
-[2]: <../assets/images/martha-stewarts-new-york-style-cheesecake.jpg>
+[2]: <../assets/images/martha-stewarts-new-york-style-cheesecake.webp>

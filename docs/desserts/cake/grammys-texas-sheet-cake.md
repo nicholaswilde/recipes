@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/grammys-texas-sheet-cake.jpg
+hero: assets/images/grammys-texas-sheet-cake.webp
 ---
 
 # :cake: Grammys Texas Sheet Cake
@@ -16,32 +16,34 @@ hero: assets/images/grammys-texas-sheet-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 24 | 35 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 260 g all-purpose flour
-- :candy: 400 g granulated sugar
-- :cup_with_straw: 1 tsp baking soda
-- :salt: 1 tsp salt
-- :butter: 113 g unsalted butter
-- :oil_drum: 66 g vegetable oil
-- :chocolate_bar: 21 g cocoa powder
-- :droplet: 227 g water
-- :egg: 2 eggs
-- :butter: 227 g buttermilk
-- :icecream: 1 Tbsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Pecans
+    - :bread: 260 g all-purpose flour
+    - :candy: 400 g granulated sugar
+    - :chestnut: 1 tsp baking soda
+    - :salt: 1 tsp salt
+    - :butter: 113 g unsalted butter
+    - :olive: 66 g vegetable oil
+    - :chocolate_bar: 21 g cocoa powder
+    - :droplet: 227 g water
+    - :egg: 2 eggs
+    - :icecream: 227 g [buttermilk](../../ingredients/buttermilk.md)
+    - :flower_playing_cards: 1 Tbsp vanilla
 
-- :butter: 28 g unsalted butter
-- :chestnut: 228 g chopped pecans
+=== "Pecans"
 
-## :salt: Ingredients - Icing
+    - :butter: 28 g unsalted butter
+    - :chestnut: 228 g chopped pecans
 
-- :butter: 113 g unsalted butter
-- :cheese_wedge: 4 oz cream cheese
-- :candy: 454 g confectioners' sugar
-- :chocolate_bar: 16 g cocoa powder
-- :icecream: 1 Tbsp vanilla
+=== "Icing"
+
+    - :butter: 113 g unsalted butter
+    - :cheese_wedge: 4 oz (114 g) cream cheese
+    - :candy: 454 g confectioners' sugar
+    - :chocolate_bar: 16 g cocoa powder
+    - :flower_playing_cards: 1 Tbsp vanilla
 
 ## :cooking: Cookware
 
@@ -69,7 +71,8 @@ cup of water and heat until melted. Add butter mixture to the dry ingredients an
 
 ### Step 4
 
-In a separate bowl (or the saucepan that you just emptied), whisk together 2 eggs, 1 cup buttermilk and 1 Tbsp vanilla.
+In a separate bowl (or the saucepan that you just emptied), whisk together 2 eggs, 1 cup
+[buttermilk](../../ingredients/buttermilk.md) and 1 Tbsp vanilla.
 Gradually add to the butter mixture and stir until fully incorporated.
 
 ### Step 5
@@ -103,13 +106,14 @@ temperature or up to a week in the fridge.
 
 !!! note
 
-    If you don’t have buttermilk on hand, you can sub an equal volume of 1 part milk to sour cream or Greek yogurt.
-    In a pinch, you can sub 1 cup of buttermilk for 1 cup of milk (ideally whole milk, but any kind will work) with 1
-    tablespoon of milk replaced with vinegar.
+    If you don't have [buttermilk](../../ingredients/buttermilk.md) on hand, you can sub an equal volume of 1
+    part milk to sour cream or Greek yogurt.
+    In a pinch, you can sub 1 cup of [buttermilk](../../ingredients/buttermilk.md) for 1 cup of milk (ideally
+    whole milk, but any kind will work) with 1 tablespoon of milk replaced with vinegar.
 
 ## :link: Sources
 
 - <https://www.thepancakeprincess.com/grammys-texas-sheet-cake/>
 - <https://www.thepancakeprincess.com/best-texas-sheet-cake-bake-off/>
 
-[1]: <../../assets/images/grammys-texas-sheet-cake.jpg>
+[1]: <../../assets/images/grammys-texas-sheet-cake.webp>

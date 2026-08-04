@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/beatty's-chocolate-cake.jpg
+hero: assets/images/beatty's-chocolate-cake.webp
 ---
-# Beatty's Chocolate Cake
+
+# :chocolate_bar: Beatty's Chocolate Cake
 
 ![Beatty's Chocolate Cake][1]{ loading=lazy }
 
@@ -15,24 +16,24 @@ hero: assets/images/beatty's-chocolate-cake.jpg
 ## :salt: Ingredients
 
 - 2 cake pans
-- :bread: 1.75 cups all-purpose flour
-- :candy: 2 cups sugar
-- 0.75 cups good cocoa powder (such as Valrhona)
+- :bread: 1.75 cups (210 g) all-purpose flour
+- :candy: 2 cups (312 g) sugar
+- :chocolate_bar: 0.75 cups (86 g) good cocoa powder (such as Valrhona)
 - :chestnut: 2 tsp baking soda
 - :chestnut: 1 tsp baking powder
 - :salt: 1 tsp kosher salt
-- :baby_bottle: 1 cup buttermilk, shaken
-- :olive: 0.5 cups vegetable oil
-- :egg: 2 extra-large eggs, at room temperature
+- :icecream: 1 cup (241 g) [buttermilk](../ingredients/buttermilk.md), shaken
+- :olive: 0.5 cups (99 g) vegetable oil
+- :baby_bottle: 2 extra-large eggs, at room temperature
 - :flower_playing_cards: 1 tsp pure vanilla extract
-- 1 cup freshly brewed hot coffee
-- 6 ounces good semisweet chocolate (such as Valrhona Le Noir 56% Cacao)
-- :butter: 0.5 pound unsalted butter, at room temperature
-- :egg: 1 extra-large egg yolk, at room temperature
+- :coffee: 1 cup (85 g) freshly brewed hot coffee
+- :cheese_wedge: 6 ounces (128 g) good semisweet chocolate (such as Valrhona Le Noir 56% Cacao)
+- :glass_of_milk: 0.5 pound unsalted butter, at room temperature
+- :baby_bottle: 1 extra-large egg yolk, at room temperature
 - :flower_playing_cards: 1 tsp pure vanilla extract
-- :candy: 1.25 cups sifted confectioners’ sugar
-- :coffee: 1 Tbsp instant coffee granules (such as Nescafe)
-- :droplet: 2 tsp hottest tap water
+- :baby_bottle: 1.25 cups (31 g) sifted confectioners’ sugar
+- :coffee: 1 Tbsp (5 g) instant coffee granules (such as Nescafe)
+- :baby_bottle: 2 tsp (9 g) hottest tap water
 
 ## :cooking: Cookware
 
@@ -50,7 +51,7 @@ into the bowl of an electric mixer fitted with a paddle attachment. Mix on low s
 
 ### Step 3
 
-In a separate bowl, combine the buttermilk, shaken, vegetable oil, extra-large eggs, at room temperature, and pure
+In a separate bowl, combine the [buttermilk](../ingredients/buttermilk.md), shaken, vegetable oil, extra-large eggs, at room temperature, and pure
 vanilla extract.
 
 ### Step 4
@@ -109,5 +110,4 @@ cake.
 
 - <https://barefootcontessa.com/recipes/beattys-chocolate-cake>
 
-[1]: <../assets/images/beatty's-chocolate-cake.jpg>
-
+[1]: <../assets/images/beatty's-chocolate-cake.webp>

@@ -2,9 +2,10 @@
 comments: true
 tags:
   - tart
-hero: assets/images/lemon-tart.jpg
+hero: assets/images/lemon-tart.webp
 ---
-# Lemon Tart
+
+# :lemon: Lemon Tart
 
 ![Lemon Tart][1]{ loading=lazy }
 
@@ -14,17 +15,17 @@ hero: assets/images/lemon-tart.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 10 oz (283 g) pine nuts
-- :salt: 1/3 cup (66 g) sugar
-- :ear_of_rice: 1 lb (454 g) all-purpose flour
-- :butter: 8 oz (227 g) unsalted butter
+- :chestnut: 10 oz (178 g) pine nuts
+- :candy: 1/3 cup (52 g) sugar
+- :bread: 1 lb all-purpose flour
+- :butter: 8 oz (226 g) unsalted butter
 - :egg: 1 large egg
-- :icecream: 1 tsp pure vanilla extract
+- :flower_playing_cards: 1 tsp pure vanilla extract
 - :egg: 2 large eggs
 - :egg: 2 large egg yolks
-- :salt: 3/4 cup (150 g) sugar
-- :lemon: 1/2 cup (113 g) fresh lemon juice
-- :butter: 6 Tbsp (85 g) cold unsalted butter
+- :candy: 3/4 cup (117 g) sugar
+- :tangerine: 1/2 cup fresh lemon juice
+- :glass_of_milk: 6 Tbsp (85 g) cold unsalted butter
 
 ## :cooking: Cookware
 
@@ -111,4 +112,4 @@ or cold.
 
 - <https://goop.com/ca-en/recipes/thomas-keller-lemon-tart/>
 
-[1]: <../assets/images/lemon-tart.jpg>
+[1]: <../assets/images/lemon-tart.webp>

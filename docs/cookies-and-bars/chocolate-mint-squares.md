@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/chocolate-mint-squares.jpg
+hero: assets/images/chocolate-mint-squares.webp
 ---
 
 # :chocolate_bar: Chocolate Mint Squares
@@ -16,13 +16,13 @@ hero: assets/images/chocolate-mint-squares.jpg
 
 ## :salt: Ingredients
 
-- :butter: 6 Tbsp unsalted butter
-- :chocolate_bar: 0.5 cup cocoa
-- :candy: 2 cups (396 g) confectioners' sugar
-- :glass_of_milk: 3 Tbsp milk
-- :icecream: 1 tsp vanilla
-- :leafy_green: 1 [Mint Filling][2]
-- :glass_of_milk: 1 tsp milk
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :chocolate_bar: 0.5 cup (42 g) cocoa
+- :candy: 2 cups (226 g) confectioners' sugar
+- :glass_of_milk: 3 Tbsp (43 g) milk
+- :flower_playing_cards: 1 tsp vanilla
+- 1 [Mint Filling][2]
+- :glass_of_milk: 1 tsp (5 g) milk
 
 ## :cooking: Cookware
 
@@ -71,5 +71,5 @@ refrigerator.
 
 - Favorite Brand Name: Gifts From the Christmas Kitchen
 
-[1]: <../assets/images/chocolate-mint-squares.jpg>
+[1]: <../assets/images/chocolate-mint-squares.webp>
 [2]: <../ingredients/mint-filling.md>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/honey-whipped-cream.jpg
+hero: assets/images/honey-whipped-cream.webp
 ---
 
 # :icecream: Honey Whipped Cream
 
-![Honey Whipped Cream](../assets/images/honey-whipped-cream.jpg){ loading=lazy }
+![Honey Whipped Cream](../assets/images/honey-whipped-cream.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/honey-whipped-cream.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 cup heavy cream
+- :glass_of_milk: 1 cup (227 g) heavy cream
 - :honey_pot: 1 Tbsp honey
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :salt: 0.13 tsp salt
 
 ## :cooking: Cookware

@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/vanilla-extract.jpg
+hero: assets/images/vanilla-extract.webp
 ---
 
 # :icecream: Vanilla Extract
 
-![Vanilla Extract](../../assets/images/vanilla-extract.jpg){ loading=lazy }
+![Vanilla Extract](../../assets/images/vanilla-extract.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/vanilla-extract.jpg
 
 ## :salt: Ingredients
 
-- :icecream: 3 vanilla beans
-- :tumbler_glass: 2 oz vodka or bourbon
+- :apple: 3 vanilla beans
+- :tangerine: 2 oz vodka or bourbon
 
 ## :cooking: Cookware
 

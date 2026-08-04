@@ -4,12 +4,12 @@ tags:
 
   - bites
   - applied-kitchen
-hero: assets/images/carrot-cake-protein-bites.jpg
+hero: assets/images/carrot-cake-protein-bites.webp
 ---
 
 # :carrot: Carrot Cake Protein Bites
 
-![Carrot Cake Protein Bites](../../assets/images/carrot-cake-protein-bites.jpg){ loading=lazy }
+![Carrot Cake Protein Bites](../../assets/images/carrot-cake-protein-bites.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/carrot-cake-protein-bites.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 1 cup rolled oats
-- :grapes: 2 cups soft pitted dates
-- :carrot: 0.75 cup finely grated carrot
-- :coconut: 1 cup unsweetened shredded coconut
-- :custard: 1 tsp cinnamon
-- :chestnut: 0.25 tsp nutmeg
+- :ear_of_rice: 1 cup (113 g) rolled oats
+- :grapes: 2 cups (298 g) soft pitted dates
+- :cheese_wedge: 0.75 cup (74 g) finely grated carrot
+- :coconut: 1 cup (53 g) unsweetened shredded coconut
+- :chestnut: 1 tsp (4 g) cinnamon
+- :apple: 0.25 tsp nutmeg
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
@@ -49,6 +49,10 @@ create approximately 20 bites.
 ### Step 4
 
 Store in an airtight container and refrigerate.
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Source
 

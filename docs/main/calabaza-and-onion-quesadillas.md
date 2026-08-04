@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/calabaza-and-onion-quesadillas.jpg
+hero: assets/images/calabaza-and-onion-quesadillas.webp
 ---
 
 # :flatbread: Calabaza & Onion Quesadillas
@@ -17,13 +17,13 @@ hero: assets/images/calabaza-and-onion-quesadillas.jpg
 
 ## :salt: Ingredients
 
-- :flatbread: 8 [corn tortilla][5]
-- :jack_o_lantern: 2 cups [pumpkin filling][3]
-- :cheese_wedge: 0.75 cup [cashew nacho cheese][6]
-- :jack_o_lantern: some [pumpkin seed salsa][4]
-- :rice: 1 cup [cashew crema][2]
-- :chestnut: 0.25 cup [toasted pumpkin seeds][7]
-- :leafy_green: 0.25 cup fresh cilantro
+- 8 [corn tortilla][5]
+- 2 cups [pumpkin filling][3]
+- 0.75 cup [cashew nacho cheese][6]
+- some [pumpkin seed salsa][4]
+- 1 cup [cashew crema][2]
+- :muffin: 0.25 cup (57 g) [toasted pumpkin seeds][7]
+- :herb: 0.25 cup (10 g) fresh cilantro
 
 ## :cooking: Cookware
 
@@ -49,7 +49,7 @@ Serve the quesadillas with the [pumpkin seed salsa][4] and [cashew crema][2]. Ga
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/calabaza-and-onion-quesadillas.jpg>
+[1]: <../assets/images/calabaza-and-onion-quesadillas.webp>
 [2]: <../sauces-and-dressings/dips-and-spreads/cashew-crema.md>
 [3]: <../ingredients/pumpkin-filling.md>
 [4]: <../sauces-and-dressings/salsas/pumpkin-seed-salsa.md>

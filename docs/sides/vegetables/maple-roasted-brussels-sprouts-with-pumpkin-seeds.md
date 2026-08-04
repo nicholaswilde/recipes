@@ -5,7 +5,7 @@ tags:
   - side
   - whole-foods
   - cathy
-hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg
+hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.webp
 ---
 
 # :leafy_green: Maple Roasted Brussels Sprouts with Pumpkin Seeds
@@ -19,11 +19,11 @@ hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 2 lbs Brussels sprouts
-- :olive: 2 Tbsp olive oil
+- :olive: 2 Tbsp (25 g) olive oil
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :maple_leaf: 2 Tbsp maple syrup
-- :jack_o_lantern: 0.25 cup pumpkin seeds
+- :honey_pot: 2 Tbsp (39 g) maple syrup
+- :seedling: 0.25 cup (40 g) pumpkin seeds
 
 ## :pencil: Instructions
 
@@ -56,4 +56,4 @@ Drizzle with maple syrup and toss with pumpkin seeds. Roast 5 minutes more until
 
 - <https://www.wholefoodsmarket.com/recipes/maple-roasted-brussels-sprouts-pumpkin-seeds>
 
-[1]: <../../assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.jpg>
+[1]: <../../assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.webp>

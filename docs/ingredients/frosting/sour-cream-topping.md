@@ -4,12 +4,12 @@ tags:
 
   - frosting
   - ingredient
-hero: assets/images/sour-cream-topping.jpg
+hero: assets/images/sour-cream-topping.webp
 ---
 
 # :rice: Sour Cream Topping
 
-![Sour Cream Topping](../../assets/images/sour-cream-topping.jpg){ loading=lazy }
+![Sour Cream Topping](../../assets/images/sour-cream-topping.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,9 +17,9 @@ hero: assets/images/sour-cream-topping.jpg
 
 ## :salt: Ingredients
 
-- :rice: 2 16-oz containers sour cream
-- :candy: 1 Tbsp granulated sugar
-- :icecream: 2 tsp vanilla
+- :glass_of_milk: 2 16-oz containers sour cream
+- :candy: 1 Tbsp (12 g) granulated sugar
+- :flower_playing_cards: 2 tsp vanilla
 
 ## :cooking: Cookware
 

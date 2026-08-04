@@ -6,8 +6,9 @@ tags:
   - rosemary
   - snack
   - vegetarian
-hero: assets/images/rosemary-spiced-nuts.jpg
+hero: assets/images/rosemary-spiced-nuts.webp
 ---
+
 # :chestnut: Rosemary Spiced Nuts
 
 ![Rosemary Spiced Nuts][1]{ loading=lazy }
@@ -18,14 +19,14 @@ hero: assets/images/rosemary-spiced-nuts.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 1 lb (450 g) mixed nuts
-- :butter: 1 Tbsp unsalted butter
-- :honey_pot: 1 Tbsp maple syrup
-- :herb: 2 Tbsp fresh rosemary
-- :candy: 1 Tbsp dark brown sugar
+- :chestnut: 1 lb mixed nuts
+- :butter: 1 Tbsp (14 g) unsalted butter
+- :honey_pot: 1 Tbsp (20 g) maple syrup
+- :herb: 2 Tbsp (5 g) fresh rosemary
+- :candy: 1 Tbsp (13 g) dark brown sugar
 - :hot_pepper: 0.5 tsp cayenne pepper
 - :salt: 2 tsp flaky sea salt
-- :herb: 1 tsp fresh rosemary
+- :herb: 1 tsp (1 g) fresh rosemary
 - :salt: flaky sea salt
 
 ## :cooking: Cookware
@@ -68,4 +69,4 @@ days.
 
 - <https://www.kitchenkonfidence.com/2014/10/rosemary-spiced-mixed-nuts-2014>
 
-[1]: <../../assets/images/rosemary-spiced-nuts.jpg>
+[1]: <../../assets/images/rosemary-spiced-nuts.webp>

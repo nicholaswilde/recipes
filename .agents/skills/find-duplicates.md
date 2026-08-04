@@ -3,6 +3,7 @@
 Parse the repository recipes, analyze them for title and ingredient similarities, and identify duplicates or highly similar recipes.
 
 ## Description
+
 This skill systematically walks through all active recipe markdown files in the repository, normalizes their titles and ingredient lists, performs similarity comparisons (title similarity ratio and ingredient Jaccard index), and generates a report highlighting suspected duplicates, shape/format variations, and identical base formulas (e.g., pastry doughs).
 
 ## Protocol
@@ -14,7 +15,7 @@ This skill systematically walks through all active recipe markdown files in the 
 2. **Parse Titles and Ingredients:**
    - For each recipe file, extract the title from the first `# ` header, stripping away markdown symbols and any emoji shortcodes (e.g., `:lemon:`, `:jack_o_lantern:`).
    - Locate the ingredients sections by scanning for subheadings starting with `##` that contain the word "Ingredients" or the emoji shortcode `:salt:`.
-   - Extract all lines starting with `- ` or `* ` within those sections until the next subheading.
+   - Extract all lines starting with `-` or `*` within those sections until the next subheading.
    - Clean and isolate core ingredient names:
      - Keep the anchor text from markdown links: `[text](url)` -> `text`, `[text][ref]` -> `text`.
      - Remove quantities, fractions, decimals, and unicode fraction symbols (e.g., `1.5`, `1/2`, `½`, `¼`).

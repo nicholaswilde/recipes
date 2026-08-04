@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/chili-colorado.jpg
+hero: assets/images/chili-colorado.webp
 ---
 
 # :stew: Chili Colorado
 
-![Chili Colorado](../assets/images/chili-colorado.jpg){ loading=lazy }
+![Chili Colorado](../assets/images/chili-colorado.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,14 +17,14 @@ hero: assets/images/chili-colorado.jpg
 
 ## :salt: Ingredients
 
-- :onion: 2 medium brown onions
+- :tea: 2 medium brown onions
 - :garlic: 4 cloves garlic
-- :cut_of_meat: 2 lbs top sirloin cubes
+- :ice_cube: 2 lbs top sirloin cubes
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
-- :garlic: 1 tsp garlic salt
+- :salt: 1 tsp garlic salt
 - :garlic: 1 tsp garlic powder
-- :canned_food: 1 can red chili sauce
+- :hot_pepper: 1 can red chili sauce
 
 ## :cooking: Cookware
 

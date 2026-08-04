@@ -4,7 +4,7 @@ tags:
 
   - chowder
   - the-blue-zones-kitchen
-hero: assets/images/kickin-potato-and-corn-chowder.jpg
+hero: assets/images/kickin-potato-and-corn-chowder.webp
 ---
 
 # :stew: Kickin Potato & Corn Chowder
@@ -17,22 +17,22 @@ hero: assets/images/kickin-potato-and-corn-chowder.jpg
 
 ## :salt: Ingredients
 
-- :stew: 2 cups vegetable broth
-- :glass_of_milk: 2 cups unsweetened soy milk
-- :corn: 1 tsp cornstarch
-- :bell_pepper: 2 whole poblanos peppers
-- :corn: 1.5 cups corn kernels
-- :avocado: 2 Tbsp avocado oil
-- :onion: 1 medium onion
+- 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :glass_of_milk: 2 cups (168 g) unsweetened soy milk
+- :chestnut: 1 tsp (2 g) cornstarch
+- :hot_pepper: 2 whole poblanos peppers
+- :corn: 1.5 cups (8 g) corn kernels
+- :olive: 2 Tbsp (28 g) avocado oil
+- :tea: 1 medium onion
 - :hot_pepper: 1 jalapeño
 - :garlic: 3 cloves garlic
-- :herb: 0.5 tsp cumin
-- :herb: 0.5 tsp coriander
+- :chestnut: 0.5 tsp (2 g) cumin
+- :chestnut: 0.5 tsp (1 g) coriander
 - :herb: 0.5 tsp oregano
 - :salt: 1 tsp salt
-- :potato: 1 lb Yukon gold potatoes
-- :lemon: 1 lime juice
-- :leafy_green: 0.25 cup cilantro
+- :sweet_potato: 1 lb Yukon gold potatoes
+- :tangerine: 1 lime juice
+- :herb: 0.25 cup (10 g) cilantro
 
 ## :cooking: Cookware
 
@@ -43,7 +43,7 @@ hero: assets/images/kickin-potato-and-corn-chowder.jpg
 
 ### Step 1
 
-Combine the vegetable broth and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
+Combine the [Vegetable Broth](../ingredients/vegetable-broth.md) and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
 incorporated with no lumps.
 
 ### Step 2
@@ -78,4 +78,4 @@ Garnish each bowl with fresh cilantro and serve.
 
 - The Blue Zones Kitchen One Pot Meals
 
-[1]: <../assets/images/kickin-potato-and-corn-chowder.jpg>
+[1]: <../assets/images/kickin-potato-and-corn-chowder.webp>

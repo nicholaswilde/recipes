@@ -5,11 +5,12 @@ tags:
   - dessert
   - indonesian
   - indo-dutch
-hero: assets/images/omas-spekkoek.png
+hero: assets/images/omas-spekkoek.webp
 ---
+
 # :cake: Oma's Spekkoek
 
-![Oma's Spekkoek](../../assets/images/omas-spekkoek.png){ loading=lazy }
+![Oma's Spekkoek](../../assets/images/omas-spekkoek.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,14 +19,14 @@ hero: assets/images/omas-spekkoek.png
 ## :salt: Ingredients
 
 - :butter: 4 sticks butter (1 pound)
-- :glass_of_milk: 2 Tbsp sweetened condensed milk
+- :glass_of_milk: 2 Tbsp (39 g) sweetened condensed milk
 - :egg: 20 eggs
-- :candy: 1.5 cups superfine granulated sugar
-- :candy: 2 sachets vanilla sugar (or 1 tsp vanilla extract)
-- :ear_of_rice: 1.5 cups all purpose flour, sieved
+- :candy: 1.5 cups (297 g) superfine granulated sugar
+- :baby_bottle: 2 sachets vanilla sugar (or 1 tsp vanilla extract)
+- :bread: 1.5 cups (234 g) all purpose flour, sieved
 - :salt: 1 pinch salt
 
-### Spices for the brown layer:
+### Spices for the brown layer
 
 - :seedling: 4 rounded tsp ground anise seed
 - :seedling: 8 rounded tsp ground cinnamon

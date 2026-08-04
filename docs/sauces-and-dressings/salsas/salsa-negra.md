@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-negra.jpg
+hero: assets/images/salsa-negra.webp
 ---
 
 # :hot_pepper: Salsa Negra
@@ -19,9 +19,9 @@ hero: assets/images/salsa-negra.jpg
 
 - :hot_pepper: 25 habanero peppers
 - :garlic: 40 cloves garlic
-- :onion: 0.5 onion
-- :olive: 0.5 cup olive oil
-- :sake: 3 Tbsp white vinegar
+- :tea: 0.5 onion
+- :olive: 0.5 cup (100 g) olive oil
+- :takeout_box: 3 Tbsp (20 g) white vinegar
 - :salt: 1 Tbsp salt
 
 ## :cooking: Cookware
@@ -59,4 +59,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-negra.jpg>
+[1]: <../../assets/images/salsa-negra.webp>

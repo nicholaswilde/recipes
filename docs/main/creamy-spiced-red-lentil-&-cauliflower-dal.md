@@ -5,7 +5,7 @@ tags:
   - vegetarian
   - slow-cooker
   - new-recipe
-hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg
+hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp
 ---
 
 # :curry: Creamy Spiced Red Lentil & Cauliflower Dal
@@ -20,11 +20,11 @@ hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg
 
 - :beans: 2 cups (420 g) dried red lentils
 - :broccoli: 1 small head cauliflower
-- :onion: 1 onion
+- :tea: 1 onion
 - :garlic: 4 cloves garlic
 - :sweet_potato: 1 Tbsp (14 g) fresh ginger
-- :tomato: 1 can (14 oz) diced tomatoes
-- :stew: 4 cups (908 g) vegetable broth
+- :glass_of_milk: 1 can (14 oz) diced tomatoes
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :curry: 1 Tbsp (10 g) curry powder
 - :curry: 1 tsp (3 g) turmeric
 - :chestnut: 1 tsp (3 g) ground cumin
@@ -41,7 +41,7 @@ hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg
 ### Step 1
 
 Place dried red lentils (rinsed), cauliflower (chopped into florets), onion (diced), garlic (minced), fresh ginger
-(grated), diced tomatoes, vegetable broth, curry powder, turmeric, ground cumin, and coriander into the slow cooker.
+(grated), diced tomatoes, [Vegetable Broth](../ingredients/vegetable-broth.md), curry powder, turmeric, ground cumin, and coriander into the slow cooker.
 Stir to combine.
 
 ### Step 2
@@ -61,4 +61,4 @@ Stir in fresh cilantro and lime juice right before serving.
 
 - [GitHub Issue #1340](https://github.com/nicholaswilde/recipes/issues/1340)
 
-[1]: <../assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.jpg>
+[1]: <../assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp>

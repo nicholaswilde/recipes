@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/potato-bread.jpg
+hero: assets/images/potato-bread.webp
 ---
 
 # :potato: Potato Bread
@@ -19,25 +19,25 @@ hero: assets/images/potato-bread.jpg
 
 === "Full Batch"
 
-    - :microbe: 1 Tbsp instant yeast
+    - :tea: 1 Tbsp (9 g) instant yeast
     - :candy: 99 g granulated sugar
-    - :hot_springs: 340 g lukewarm water or potato water
+    - :baby_bottle: 340 g lukewarm water or potato water
     - :butter: 170 g unsalted butter
     - :salt: 15 g salt
     - :egg: 2 large eggs
-    - :potato: 198 g mashed potatoes
-    - :ear_of_rice: 780 g all-purpose flour
+    - :sweet_potato: 198 g mashed potatoes
+    - :bread: 780 g all-purpose flour
 
 === "Half Batch"
 
-    - :microbe: 2 tsp instant yeast
+    - :tea: 2 tsp (6 g) instant yeast
     - :candy: 50 g granulated sugar
-    - :hot_springs: 170 g lukewarm water or potato water
+    - :baby_bottle: 170 g lukewarm water or potato water
     - :butter: 85 g unsalted butter
     - :salt: 8 g salt
     - :egg: 1 large eggs
-    - :potato: 99 g mashed potatoes
-    - :ear_of_rice: 390 g all-purpose flour
+    - :sweet_potato: 99 g mashed potatoes
+    - :bread: 390 g all-purpose flour
 
 ## :cooking: Cookware
 
@@ -99,4 +99,4 @@ wrap well and freeze.
 
 - <https://www.kingarthurbaking.com/recipes/potato-bread-recipe>
 
-[1]: <../assets/images/potato-bread.jpg>
+[1]: <../assets/images/potato-bread.webp>

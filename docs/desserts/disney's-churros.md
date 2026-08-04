@@ -5,12 +5,12 @@ tags:
   - disney
   - mexican
   - dessert
-hero: assets/images/disney's-churros.jpg
+hero: assets/images/disney's-churros.webp
 ---
 
 # :pretzel: Disney's Churros
 
-![Disney's Churros](../assets/images/disney's-churros.jpg){ loading=lazy }
+![Disney's Churros](../assets/images/disney's-churros.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -21,13 +21,13 @@ hero: assets/images/disney's-churros.jpg
 - :droplet: 1 cup (227 g) water
 - :butter: 8 Tbsp butter
 - :salt: 0.25 tsp salt
-- :custard: 0.25 tsp cinnamon
-- :ear_of_rice: 1.25 cups flour
+- :chestnut: 0.25 tsp (1 g) cinnamon
+- :bread: 1.25 cups (115 g) flour
 - :egg: 3 eggs
-- :carrot: 1.5 cups (297 g) vegetable oil
-- :candy: 0.5 cup (99 g) sugar
-- :custard: 0.5 tsp cinnamon
-- :chocolate_bar: some dipping sauce
+- :olive: 1.5 cups (297 g) vegetable oil
+- :candy: 0.5 cup (78 g) sugar
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :water_buffalo: some dipping sauce
 
 ## :cooking: Cookware
 

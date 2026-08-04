@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/jalapeño-corn-pudding.jpg
+hero: assets/images/jalapeño-corn-pudding.webp
 ---
 
-# Jalapeño Corn Pudding
+# :hot_pepper: Jalapeño Corn Pudding
 
-![Jalapeño Corn Pudding](../../assets/images/jalapeño-corn-pudding.jpg){ loading=lazy }
+![Jalapeño Corn Pudding](../../assets/images/jalapeño-corn-pudding.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,15 +18,15 @@ hero: assets/images/jalapeño-corn-pudding.jpg
 ## :salt: Ingredients
 
 - :butter: 2 Tbsp butter
-- 1 cup milk
-- 2 eggs
+- :glass_of_milk: 1 cup milk
+- :egg: 2 eggs
 - :salt: 0.5 tsp salt
 - :candy: 2 Tbsp sugar
 - :bread: 2 Tbsp flour
 - :chestnut: 1 tsp baking powder
-- 2 cups corn
-- 0.5 cup cheese
-- 2 Tbsp jalapeños
+- :ear_of_rice: 2 cups corn
+- :cheese_wedge: 0.5 cup cheese
+- :hot_pepper: 2 Tbsp jalapeños
 
 ## :cooking: Cookware
 

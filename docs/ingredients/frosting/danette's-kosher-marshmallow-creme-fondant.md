@@ -17,11 +17,11 @@ hero: assets/images/danette's-kosher-marshmallow-creme-fondant.png
 
 ## :salt: Ingredients
 
-- :candy: 2 cups (396 g) confectioners' sugar
-- :carrot: some vegetable shortening
-- :dango: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
-- :cake: 1 Wilton white fondant
-- :white_circle: some white food coloring (optional)
+- :candy: 2 cups (226 g) confectioners' sugar
+- :butter: some vegetable shortening
+- :glass_of_milk: 1 7-oz jar Jet-Puffed [Marshmallow Creme][2]
+- :takeout_box: 1 Wilton white fondant
+- :art: some white food coloring (optional)
 
 ## :cooking: Cookware
 
@@ -65,7 +65,7 @@ coloring (optional) and add a few drops. Knead until your fondant is white add m
 ### Step 7
 
 If at this point your fondant feels sticky or too soft add some remaining powdered sugar until you reach the consistency
-you desire. If the fondant is too soft for your liking then add one teaspoon of tylose.  More than this is not so great
+you desire. If the fondant is too soft for your liking then add one teaspoon of tylose. More than this is not so great
 for cake coverage. This can be used to cover cakes immediately. If you are going to use this for modeling then you can
 add up to two teaspoons. For modeling please let it set overnight and allow the tylose to mature.
 

@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/overnight-sourdough-baguettes.jpg
+hero: assets/images/overnight-sourdough-baguettes.webp
 ---
 
 # :baguette_bread: Overnight Sourdough Baguettes
@@ -18,12 +18,12 @@ hero: assets/images/overnight-sourdough-baguettes.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 315 g all-purpose flour
-- :ear_of_rice: 78 g whole wheat flour
-- :droplet: 325 g water[^1]
+- :bread: 315 g all-purpose flour
+- :bread: 78 g whole wheat flour
+- 325 g water[^1]
 - :salt: 9 g salt
-- :microbe: 0.25 tsp instant yeast
-- :microbe: 24 g [sourdough starter][2]
+- :tea: 0.25 tsp (1 g) instant yeast
+- 24 g [sourdough starter][2]
 
 ## :cooking: Cookware
 
@@ -152,7 +152,7 @@ room temperature for up to several days; freeze for longer storage.
 
 - <https://www.kingarthurbaking.com/recipes/overnight-baguettes-recipe>
 
-[1]: <../assets/images/overnight-sourdough-baguettes.jpg>
+[1]: <../assets/images/overnight-sourdough-baguettes.webp>
 [2]: <../ingredients/sourdough-starter.md>
 
 [^1]:

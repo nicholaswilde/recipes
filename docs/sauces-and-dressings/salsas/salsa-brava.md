@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-brava.jpg
+hero: assets/images/salsa-brava.webp
 ---
 
 # :tomato: Salsa Brava
@@ -18,11 +18,11 @@ hero: assets/images/salsa-brava.jpg
 ## :salt: Ingredients
 
 - :tomato: 2 Roma or plum tomatoes
-- :hot_pepper: 2 jalapeños
+- 2 jalapeños
 - :tomato: 1 medium tomatillo
-- :onion: 0.5 medium onion
+- :tea: 0.5 medium onion
 - :garlic: 4 cloves garlic
-- :lemon: 1 lime juice
+- :tangerine: 1 lime juice
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
@@ -53,4 +53,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-brava.jpg>
+[1]: <../../assets/images/salsa-brava.webp>

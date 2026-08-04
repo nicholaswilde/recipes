@@ -5,7 +5,7 @@ tags:
   - dessert
   - pie
   - desperation pie
-hero: assets/images/old-fashioned-vinegar-pie.jpg
+hero: assets/images/old-fashioned-vinegar-pie.webp
 ---
 
 # :pie: Old-Fashioned Vinegar Pie
@@ -21,14 +21,14 @@ hero: assets/images/old-fashioned-vinegar-pie.jpg
 - :bread: 1 [Single-Crust Pie Pastry](../../ingredients/pastry-dough/basic-pastry.md)
 - :egg: 4 large eggs
 - :candy: 0.5 cup (99 g) granulated sugar
-- :candy: 0.5 cup (107 g) light brown sugar
-- :flower_playing_cards: 0.5 tsp (2 g) vanilla extract
+- :candy: 0.5 cup (106 g) light brown sugar
+- :flower_playing_cards: 0.5 tsp vanilla extract
 - :butter: 6 Tbsp (85 g) unsalted butter
-- :apple: 2 Tbsp apple cider vinegar
-- :honey_pot: 2 Tbsp (42 g) honey
+- :apple: 2 Tbsp (35 g) apple cider vinegar
+- :honey_pot: 2 Tbsp honey
 - :bread: 2 Tbsp (15 g) all-purpose flour
-- :salt: 0.75 tsp (4 g) kosher salt
-- :candy: powdered sugar (for dusting)
+- :salt: 0.75 tsp kosher salt
+- :baby_bottle: powdered sugar (for dusting)
 
 ## :cooking: Cookware
 
@@ -72,4 +72,4 @@ Dust with powdered sugar before serving.
 
 - <https://www.southernliving.com/recipes/old-fashioned-vinegar-pie>
 
-[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.jpg>
+[1]: <../../assets/images/old-fashioned-vinegar-pie-southern-living.webp>

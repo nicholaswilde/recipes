@@ -6,7 +6,7 @@ tags:
   - cake
   - vegan
   - carrot-cake
-hero: assets/images/cafe-indigo-vegan-carrot-cake.jpg
+hero: assets/images/cafe-indigo-vegan-carrot-cake.webp
 ---
 
 # :cake: Cafe Indigo Vegan Carrot Cake
@@ -91,4 +91,4 @@ sides with remaining frosting.
 
 - <https://vegnews.com/cafe-indigo-vegan-carrot-cake-recipe#cake>
 
-[1]: <../../assets/images/cafe-indigo-vegan-carrot-cake.jpg>
+[1]: <../../assets/images/cafe-indigo-vegan-carrot-cake.webp>

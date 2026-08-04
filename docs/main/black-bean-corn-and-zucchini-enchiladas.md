@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - recipe-box
-hero: assets/images/black-bean-corn-and-zucchini-enchiladas.jpg
+hero: assets/images/black-bean-corn-and-zucchini-enchiladas.webp
 ---
 
 # :curry: Black Bean, Corn, & Zucchini Enchiladas
@@ -15,27 +15,29 @@ hero: assets/images/black-bean-corn-and-zucchini-enchiladas.jpg
 |:-----------------------: |
 | 45 minutes |
 
-## :salt: Ingredients - [Enchilada Sauce][2]
+## :salt: Ingredients
 
-- :oil_drum: 1 tsp canola oil
-- :onion: 0.5 cup diced red onion
-- :garlic: 1 tsp minced garlic
-- :stew: 0.5 cup vegetable broth
-- :hot_pepper: 1 Tbsp chili powder
-- :honey_pot: 1 Tbsp honey
-- :herb: 1 tsp ground cumin
-- :salt: 0.5 tsp salt
-- :tomoato: 1 28-oz can crushed tomatoes
+=== "[Enchilada Sauce][2]"
 
-## :salt: Ingredients - Enchiladas
+    - :droplet: 1 tsp (5 g) canola oil
+    - :tea: 0.5 cup (71 g) diced red onion
+    - :garlic: 1 tsp minced garlic
+    - 0.5 cup [Vegetable Broth](../ingredients/vegetable-broth.md)
+    - :hot_pepper: 1 Tbsp (7 g) chili powder
+    - :honey_pot: 1 Tbsp honey
+    - :chestnut: 1 tsp (3 g) ground cumin
+    - :salt: 0.5 tsp salt
+    - :hot_pepper: 1 28-oz can crushed tomatoes
 
-- :oil_drum: 1 tsp canola oil
-- :cucumber: 2 cups diced zucchini
-- :corn: 1 10-oz pkg frozen corn
-- :canned_food: 1 15-oz can [black beans][3]
-- :curry: 3 cups enchilada sauce
-- :flatbread: 8 whole wheat tortilla
-- :cheese_wedge: 2 cups shredded cheese
+=== "Enchiladas"
+
+    - :droplet: 1 tsp (5 g) canola oil
+    - :tea: 2 cups (284 g) diced zucchini
+    - :baby_bottle: 1 10-oz pkg frozen corn
+    - :glass_of_milk: 1 15-oz can [black beans][3]
+    - :racehorse: 3 cups (684 g) enchilada sauce
+    - :bread: 8 whole wheat tortilla
+    - :cheese_wedge: 2 cups (454 g) shredded cheese
 
 ## :cooking: Cookware
 
@@ -51,7 +53,7 @@ Preheat oven to 350°F.
 
 ### Step 2
 
-Prepare [enchilada sauce][2] by sautéing canola oil, diced red onion, minced garlic, vegetable broth, chili powder,
+Prepare [enchilada sauce][2] by sautéing canola oil, diced red onion, minced garlic, [Vegetable Broth](../ingredients/vegetable-broth.md), chili powder,
 honey, ground cumin, salt, and drained crushed tomatoes.
 
 ### Step 3
@@ -86,6 +88,6 @@ Bake for an additional 10 minutes, uncovered after sprinkling 1 cup of cheese on
 
 - Recipe Box
 
-[1]: <../assets/images/black-bean-corn-and-zucchini-enchiladas.jpg>
+[1]: <../assets/images/black-bean-corn-and-zucchini-enchiladas.webp>
 [2]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
 [3]: <../ingredients/black-beans.md>

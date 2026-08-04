@@ -5,7 +5,7 @@ tags:
   - cookie
   - dessert
   - persian
-hero: assets/images/persian-chickpea-cookies-with-pistachio.jpg
+hero: assets/images/persian-chickpea-cookies-with-pistachio.webp
 ---
 
 # :falafel: Persian Chickpea Cookies with Pistachio
@@ -18,11 +18,11 @@ hero: assets/images/persian-chickpea-cookies-with-pistachio.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: 0.5 cup (99 g) vegetable oil
+- :olive: 0.5 cup (99 g) vegetable oil
 - :candy: 0.75 cup (85 g) confectioners' sugar
-- :herb: 1 tsp ground cardamom
-- :rose: 0.5 Tbsp rose water
-- :ear_of_rice: 149 g [chickpea flour][2]
+- :apple: 1 tsp (3 g) ground cardamom
+- :droplet: 0.5 Tbsp (7 g) rose water
+- 149 g [chickpea flour][2]
 - :chestnut: 3 Tbsp pistachios
 
 ## :cooking: Cookware
@@ -82,5 +82,5 @@ completely. Be careful when you transfer the cookies as they crumble very easily
 
 - <https://www.aheadofthyme.com/2017/03/nan-e-nokhodchi-persian-chickpea-cookies/>
 
-[1]: <../assets/images/persian-chickpea-cookies-with-pistachio.jpg>
+[1]: <../assets/images/persian-chickpea-cookies-with-pistachio.webp>
 [2]: <../ingredients/chickpea-flour.md>

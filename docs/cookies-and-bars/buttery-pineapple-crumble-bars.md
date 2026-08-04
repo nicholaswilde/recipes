@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/buttery-pineapple-crumble-bars.jpg
+hero: assets/images/buttery-pineapple-crumble-bars.webp
 ---
 
 # :pineapple: Buttery Pineapple Crumble Bars
@@ -17,14 +17,14 @@ hero: assets/images/buttery-pineapple-crumble-bars.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 240 g all-purpose flour
+- :bread: 240 g all-purpose flour
 - :butter: 170 g unsalted butter
-- :icecream: 0.5 tsp vanilla
+- :flower_playing_cards: 0.5 tsp vanilla
 - :candy: 264 g granulated sugar
 - :salt: 0.5 tsp salt
 - :pineapple: 638 g pineapple
-- :corn: 28 g cornstarch
-- :lemon: 1.5 Tbsp lemon juice
+- :chestnut: 28 g cornstarch
+- :tangerine: 1.5 Tbsp (21 g) lemon juice
 - :chestnut: 29 g slivered almonds
 
 ## :cooking: Cookware
@@ -71,4 +71,4 @@ minutes. Transfer to a wire rack. Cool completely, about 1 hour. and cut into 16
 
 - Coastal Living Spring 2024
 
-[1]: <../assets/images/buttery-pineapple-crumble-bars.jpg>
+[1]: <../assets/images/buttery-pineapple-crumble-bars.webp>

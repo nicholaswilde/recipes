@@ -5,12 +5,12 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
-hero: assets/images/mushroom-risotto.jpg
+hero: assets/images/mushroom-risotto.webp
 ---
 
 # :mushroom: Mushroom Risotto
 
-![Mushroom Risotto](../assets/images/mushroom-risotto.jpg){ loading=lazy }
+![Mushroom Risotto](../assets/images/mushroom-risotto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,16 +18,16 @@ hero: assets/images/mushroom-risotto.jpg
 
 ## :salt: Ingredients
 
-- :mushroom: 0.5 cup dried porcini mushrooms
-- :olive: 2 Tbsp olive oil
-- :mushroom: 1 lb [sautéed][2] any kind of fresh mushrooms
-- :onion: 2 shallots
+- :mushroom: 0.5 cup (64 g) dried porcini mushrooms
+- :olive: 2 Tbsp (25 g) olive oil
+- :apple: 1 lb [sautéed][2] any kind of fresh mushrooms
+- :garlic: 2 shallots
 - :garlic: 2 clove
 - :herb: 2 sprig thyme
-- :wine_glass: 0.25 cup dry white wine
-- :ear_of_rice: 1 [Risotto Milanese][1] omitting the saffron
+- :wine_glass: 0.25 cup (26 g) dry white wine
+- :tulip: 1 [Risotto Milanese][1] omitting the saffron
 - :butter: 1 Tbsp butter
-- :herb: some chives
+- some chives
 
 ## :cooking: Cookware
 

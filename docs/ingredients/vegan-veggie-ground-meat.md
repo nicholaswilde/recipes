@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - vegan
-hero: assets/images/vegan-veggie-ground-meat.jpg
+hero: assets/images/vegan-veggie-ground-meat.webp
 ---
 
 # :leafy_green: Vegan Veggie Ground Meat
@@ -18,19 +18,19 @@ hero: assets/images/vegan-veggie-ground-meat.jpg
 ## :salt: Ingredients
 
 - :broccoli: 1 head cauliflower
-- :mushroom: 16 oz Portobello mushrooms or jackfruit
+- :mushroom: 16 oz (156 g) Portobello mushrooms or jackfruit
 - :carrot: 2 medium carrots
-- :onion: 1 red onion
+- :tea: 1 red onion
 - :garlic: 3 cloves garlic
-- :chestnut: 1.5 cups walnuts
-- :tomato: 3 Tbsp tomato paste
-- :herb: 2 Tbsp Italian seasoning
-- :bell_pepper: 1 Tbsp paprika
+- :chestnut: 1.5 cups (192 g) walnuts
+- :tomato: 3 Tbsp (44 g) [Tomato Paste](tomato-paste.md)
+- :herb: 2 Tbsp (14 g) Italian seasoning
+- :candy: 1 Tbsp paprika
 - :herb: 2 tsp sage
 - :garlic: 2 tsp garlic powder
 - :herb: 1 tsp thyme
 - :herb: 1 tsp oregano
-- :herb: 2 tsp cumin
+- :chestnut: 2 tsp (6 g) cumin
 
 ## :cooking: Cookware
 
@@ -47,7 +47,7 @@ batches).
 
 ### Step 2
 
-Coarsely blend walnuts along with tomato paste until combined.
+Coarsely blend walnuts along with [Tomato Paste](tomato-paste.md) until combined.
 
 ### Step 3
 
@@ -62,7 +62,7 @@ water remains at the bottom of the pan.
 
 ### Step 5
 
-Turn off heat and add walnut and tomato paste mixture. Mix thoroughly to combine.
+Turn off heat and add walnut and [Tomato Paste](tomato-paste.md) mixture. Mix thoroughly to combine.
 
 ### Step 6
 
@@ -72,4 +72,4 @@ Add to your dish of choice. Enjoy!
 
 - <https://www.youtube.com/watch?v=lDuy_NqW_mQ>
 
-[1]: <../assets/images/vegan-veggie-ground-meat.jpg>
+[1]: <../assets/images/vegan-veggie-ground-meat.webp>

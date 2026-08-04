@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/vanilla-bean-ice-cream.jpg
+hero: assets/images/vanilla-bean-ice-cream.webp
 ---
 
 # :ice_cream: Vanilla Bean Ice Cream
 
-![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.jpg){ loading=lazy }
+![Vanilla Bean Ice Cream](../assets/images/vanilla-bean-ice-cream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -20,7 +20,7 @@ hero: assets/images/vanilla-bean-ice-cream.jpg
 - :egg: 4 large egg yolks
 - :glass_of_milk: 570 g whole milk
 - :glass_of_milk: 270 g heavy cream
-- :icecream: 1 vanilla pod
+- 1 vanilla pod
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

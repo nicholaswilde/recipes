@@ -4,10 +4,10 @@ tags:
 
   - seasoning
   - ingredient
-hero: assets/images/espresso-powder.jpg
+hero: assets/images/espresso-powder.webp
 ---
 
-# Espresso Powder
+# :coffee: Espresso Powder
 
 ![Espresso Powder][1]{ loading=lazy }
 
@@ -17,7 +17,7 @@ hero: assets/images/espresso-powder.jpg
 
 ## :salt: Ingredients
 
-- :coffee: 1 cup (85 g) espresso beans
+- :coffee: 1 cup espresso beans
 
 ## :cooking: Cookware
 
@@ -47,4 +47,4 @@ Pour into a container with a tight-fitting lid (such as a small Mason jar or spi
 
 - <https://addapinch.com/espresso-powder-recipe/>
 
-[1]: <../../assets/images/espresso-powder.jpg>
+[1]: <../../assets/images/espresso-powder.webp>

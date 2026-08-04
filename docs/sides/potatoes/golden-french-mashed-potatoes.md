@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/golden-french-mashed-potatoes.jpg
+hero: assets/images/golden-french-mashed-potatoes.webp
 ---
 
 # :potato: Golden French Mashed Potatoes
 
-![Golden French Mashed Potatoes](../../assets/images/golden-french-mashed-potatoes.jpg){ loading=lazy }
+![Golden French Mashed Potatoes](../../assets/images/golden-french-mashed-potatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/golden-french-mashed-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 2 lbs Yukon Gold potatoes
+- :sweet_potato: 2 lbs Yukon Gold potatoes
 - :butter: 2.5 sticks unsalted butter
-- :glass_of_milk: 1.33 cups [whole milk][1]
+- 1.33 cups [whole milk][1]
 - :salt: 1 tsp salt
 - :salt: some pepper
 

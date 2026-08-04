@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/brioche.jpg
+hero: assets/images/brioche.webp
 ---
 
 # :bread: Brioche
@@ -15,28 +15,30 @@ hero: assets/images/brioche.jpg
 |:----------------------------------:|:-----------------------: |
 | 1 large loaf | 10.03 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 330 g all-purpose flour
-- :glass_of_milk: 28 g dry milk
-- :salt: 8 g salt
-- :microbe: 1 Tbsp instant yeast
-- :egg: 3 large eggs
-- :ice_cube: 57 g water
-- :candy: 35 g granulated sugar
-- :butter: 142 g unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Glaze (optional)
+    - :bread: 330 g all-purpose flour
+    - :glass_of_milk: 28 g dry milk
+    - :salt: 8 g salt
+    - :tea: 1 Tbsp (9 g) instant yeast
+    - :egg: 3 large eggs
+    - :droplet: 57 g water
+    - :candy: 35 g granulated sugar
+    - :butter: 142 g unsalted butter
 
-- :candy: 3 Tbsp confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :salt: 1 tsp salt
-- :icecream: 2 tsp heavy cream
+=== "Glaze (optional)"
 
-## :salt: Ingredients - Braided Loaf
+    - :candy: 3 Tbsp (21 g) confectioners' sugar
+    - :flower_playing_cards: 1 tsp vanilla
+    - :salt: 1 tsp salt
+    - :glass_of_milk: 2 tsp (9 g) heavy cream
 
-- :egg: 1 egg yolk (optional)
-- :oyster: some pearl sugar or sparkling white sugar (optional)
+=== "Braided Loaf"
+
+    - :egg: 1 egg yolk (optional)
+    - :candy: some pearl sugar or sparkling white sugar (optional)
 
 ## :cooking: Cookware
 
@@ -158,4 +160,4 @@ consistency. Drizzle the glaze over the baked loaves, if desired.
 - <https://www.youtube.com/watch?v=4Y8MxeG9BAc>
 - <https://www.youtube.com/watch?v=AG--9bm6s0A>
 
-[1]: <../assets/images/brioche.jpg>
+[1]: <../assets/images/brioche.webp>

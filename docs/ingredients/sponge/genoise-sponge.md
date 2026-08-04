@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - sponge
-hero: assets/images/genoise-sponge.jpg
+hero: assets/images/genoise-sponge.webp
 ---
 
 # :cake: Genoise Sponge
 
-![Genoise Sponge](../../assets/images/genoise-sponge.jpg){ loading=lazy }
+![Genoise Sponge](../../assets/images/genoise-sponge.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,9 +19,9 @@ hero: assets/images/genoise-sponge.jpg
 
 - :egg: 4 eggs
 - :candy: 132 g granulated sugar
-- :icecream: 0.33 tsp vanilla
+- :flower_playing_cards: 0.33 tsp vanilla
 - :salt: 0.25 tsp salt
-- :ear_of_rice: 120 g cake flour
+- :bread: 120 g cake flour
 - :butter: 25 g butter
 
 ## :cooking: Cookware

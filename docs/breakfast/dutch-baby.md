@@ -2,9 +2,10 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/dutch-baby.jpg
+hero: assets/images/dutch-baby.webp
 ---
-# Dutch Baby
+
+# :egg: Dutch Baby
 
 ![Dutch Baby][1]{ loading=lazy }
 
@@ -15,12 +16,12 @@ hero: assets/images/dutch-baby.jpg
 ## :salt: Ingredients
 
 - :egg: 3 eggs
-- :bread: 0.5 cup all-purpose flour
-- :glass_of_milk: 0.5 cup milk
-- :candy: 1 Tbsp sugar
-- 1 pinch nutmeg
-- :butter: 4 Tbsp unsalted butter
-- some syrup
+- :bread: 0.5 cup (60 g) all-purpose flour
+- :glass_of_milk: 0.5 cup (114 g) milk
+- :candy: 1 Tbsp (10 g) sugar
+- :apple: 1 pinch nutmeg
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :candy: some syrup
 - some preserves
 - :candy: some confectioner's sugar
 - :candy: some cinnamon sugar
@@ -62,5 +63,4 @@ sugar.
 
 - <https://cooking.nytimes.com/recipes/6648-dutch-baby>
 
-[1]: <../assets/images/dutch-baby.jpg>
-
+[1]: <../assets/images/dutch-baby.webp>

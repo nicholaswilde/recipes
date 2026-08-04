@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/pumpkin-cheesecake-cookies.jpg
+hero: assets/images/pumpkin-cheesecake-cookies.webp
 ---
 
 # :jack_o_lantern: Pumpkin Cheesecake Cookies
 
-![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.jpg){ loading=lazy }
+![Pumpkin Cheesecake Cookies](../assets/images/pumpkin-cheesecake-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,21 +17,21 @@ hero: assets/images/pumpkin-cheesecake-cookies.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 6 oz cold cream cheese
-- :candy: 3 Tbsp sugar
-- :icecream: 0.5 tsp vanilla
-- :candy: 0.25 cup (50 g) sugar
-- :herb: 0.5 tsp pumpkin pie spice
-- :jack_o_lantern: 0.5 cup (114 g) pumpkin purée
-- :ear_of_rice: 1.75 cups (210 g) all-purpose flour
-- :herb: 1 Tbsp pumpkin pie spice
-- :dash: 0.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
+- :cheese_wedge: 6 oz (170 g) cold cream cheese
+- :candy: 3 Tbsp (29 g) sugar
+- :flower_playing_cards: 0.5 tsp vanilla
+- :candy: 0.25 cup (39 g) sugar
+- :chestnut: 0.5 tsp (2 g) pumpkin pie spice
+- :melon: 0.5 cup (114 g) pumpkin purée
+- :bread: 1.75 cups (210 g) all-purpose flour
+- :chestnut: 1 Tbsp (12 g) pumpkin pie spice
+- :chestnut: 0.5 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.5 tsp salt
 - :butter: 0.75 cup (170 g) unsalted butter
-- :maple_leaf: 1 cup (213 g) light brown sugar
-- :egg: 2 egg yolks
-- :icecream: 2 tsp vanilla
+- :candy: 1 cup (213 g) light brown sugar
+- :baby_bottle: 2 egg yolks
+- :flower_playing_cards: 2 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -49,7 +49,7 @@ hero: assets/images/pumpkin-cheesecake-cookies.jpg
 ### Step 1
 
 Line a baking sheet with {}parchment paper or a nonstick baking mat{}. (This reusable silicone baking mat is our
-editors’ go-to.)  Combine the cold cream cheese, sugar and vanilla in a bowl. Mix on medium-high speed with an
+editors’ go-to.) Combine the cold cream cheese, sugar and vanilla in a bowl. Mix on medium-high speed with an
 electric mixer until fluffy. Scoop the filling into 16 2 teaspoon sized portions. Transfer the baking sheet to the
 freezer. Leave the cheesecake balls in the freezer until frozen and very firm.
 

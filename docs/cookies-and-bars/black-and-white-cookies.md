@@ -5,39 +5,41 @@ tags:
   - cookie
   - dessert
   - bake-off
-hero: assets/images/black-and-white-cookies.jpg
+hero: assets/images/black-and-white-cookies.webp
 ---
 
 # :cookie: Black & White Cookies
 
-![Black and White Cookies](../assets/images/black-and-white-cookies.jpg){ loading=lazy }
+![Black and White Cookies](../assets/images/black-and-white-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12-18 | 1.73 hours |
 
-## :salt: Ingredients - Cookies
+## :salt: Ingredients
 
-- :ear_of_rice: 3 cups (360 g) all-purpose flour
-- :dash: 0.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :salt: 0.5 tsp salt
-- :butter: 14 Tbsp (198 g) unsalted butter
-- :candy: 1.25 cups (248 g) granulated sugar
-- :egg: 2 large eggs
-- :egg: 1 large egg yolk
-- :butter: 0.75 cup (170 g) buttermilk
-- :icecream: 1 Tbsp vanilla
-- :lemon: 1 Tbsp lemon zest
+=== "Cookies"
 
-## :salt: Ingredients - Icing
+    - :bread: 3 cups (360 g) all-purpose flour
+    - :chestnut: 0.5 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
+    - :salt: 0.5 tsp salt
+    - :butter: 14 Tbsp (198 g) unsalted butter
+    - :candy: 1.25 cups (248 g) granulated sugar
+    - :egg: 2 large eggs
+    - :egg: 1 large egg yolk
+    - :icecream: 0.75 cup [buttermilk](../ingredients/buttermilk.md)
+    - :flower_playing_cards: 1 Tbsp vanilla
+    - :tangerine: 1 Tbsp (14 g) lemon zest
 
-- :candy: 3.5 cups (693 g) confectioners' sugar
-- :glass_of_milk: 5 Tbsp milk
-- :icecream: 3 Tbsp heavy cream
-- :icecream: 2 tsp vanilla
-- :chocolate_bar: 10 Tbsp dark cocoa powder
-- :droplet: some water
+=== "Icing"
+
+    - :candy: 3.5 cups (396 g) confectioners' sugar
+    - :glass_of_milk: 5 Tbsp (71 g) milk
+    - :glass_of_milk: 3 Tbsp (43 g) heavy cream
+    - :flower_playing_cards: 2 tsp vanilla
+    - :chocolate_bar: 10 Tbsp (90 g) dark cocoa powder
+    - :droplet: some water
 
 ## :cooking: Cookware
 
@@ -70,7 +72,7 @@ Add the eggs and egg yolk, one at a time, mixing between each addition. Scrape d
 
 ### Step 5
 
-Add the flour in three steps, alternating with the buttermilk, added in two steps, mixing until just blended. Scrape
+Add the flour in three steps, alternating with the [buttermilk](../ingredients/buttermilk.md), added in two steps, mixing until just blended. Scrape
 down the sides of the bowl. Mix in the vanilla and lemon zest.
 
 ### Step 6

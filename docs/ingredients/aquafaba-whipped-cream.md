@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - vegan
-hero: assets/images/aquafaba-whipped-cream.jpg
+hero: assets/images/aquafaba-whipped-cream.webp
 ---
 
 # :icecream: Aquafaba Whipped Cream
@@ -17,11 +17,11 @@ hero: assets/images/aquafaba-whipped-cream.jpg
 
 ## :salt: Ingredients
 
-- :falafel: 0.75 cup (170 g) [aquafaba][2]
-- :rice: 0.25 tsp cream of tartar
-- :icecream: 1 Tbsp vanilla
+- 0.75 cup [aquafaba][2]
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :flower_playing_cards: 1 Tbsp vanilla
 - :candy: 0.67 cup (76 g) confectioners' sugar
-- :oil_drum: 2 Tbsp neutral oil
+- :olive: 2 Tbsp (28 g) neutral oil
 
 ## :cooking: Cookware
 
@@ -69,5 +69,5 @@ added or you will lose the fluffiness)!
 
 - <https://thehiddenveggies.com/aquafaba-whipped-cream-vegan-cool-whip/>
 
-[1]: <../assets/images/aquafaba-whipped-cream.jpg>
+[1]: <../assets/images/aquafaba-whipped-cream.webp>
 [2]: <./aquafaba.md>

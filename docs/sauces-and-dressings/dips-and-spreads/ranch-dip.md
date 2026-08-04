@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dip
-hero: assets/images/ranch-dip.jpg
+hero: assets/images/ranch-dip.webp
 ---
 
-# Ranch Dip
+# :baby_bottle: Ranch Dip
 
-![Ranch Dip](../../assets/images/ranch-dip.jpg){ loading=lazy }
+![Ranch Dip](../../assets/images/ranch-dip.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/ranch-dip.jpg
 
 ## :salt: Ingredients
 
-- :baby_bottle: 1 cup sour cream or plain non-fat greek yogurt
+- :cheese_wedge: 1 cup (227 g) sour cream or plain non-fat greek yogurt
 - 3 Tbsp [ranch dressing mix][1]
-- :butter: 0.67 cups buttermilk or water
+- :icecream: 0.67 cups (152 g) [buttermilk](../../ingredients/buttermilk.md) or water
 
 ## :cooking: Cookware
 
@@ -26,11 +26,11 @@ hero: assets/images/ranch-dip.jpg
 
 ### Step 1
 
-In a mixing bowl; combine sour cream or plain non-fat greek yogurt, ranch dressing mix, and buttermilk or water.
+In a mixing bowl; combine sour cream or plain non-fat greek yogurt, ranch dressing mix, and [buttermilk](../../ingredients/buttermilk.md) or water.
 
 ### Step 2
 
-Add more buttermilk or water to thin as desired.
+Add more [buttermilk](../../ingredients/buttermilk.md) or water to thin as desired.
 
 ## :link: Source
 

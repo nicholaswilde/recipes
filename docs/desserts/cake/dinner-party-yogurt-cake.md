@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/dinner-party-yogurt-cake.jpg
+hero: assets/images/dinner-party-yogurt-cake.webp
 ---
 
 # :cake: Dinner Party Yogurt Cake
@@ -16,28 +16,30 @@ hero: assets/images/dinner-party-yogurt-cake.jpg
 |:-----------------------: |
 | 45 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :candy: 200 g granulated sugar
-- :tangerine: 1 orange zest
-- :microbe: 125 g whole plain yogurt
-- :egg: 3 large eggs
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 180 g all-purpose or cake flour
-- :dash: 2 tsp baking powder
-- :salt: 0.25 tsp salt
-- :oil_drum: 0.5 cup canola oil
+=== "Cake"
 
-## :salt: Ingredients - Soaking Syrup
+    - :candy: 200 g granulated sugar
+    - :tangerine: 1 orange zest
+    - :chestnut: 125 g whole plain yogurt
+    - :egg: 3 large eggs
+    - :flower_playing_cards: 1 tsp vanilla
+    - :bread: 180 g all-purpose or cake flour
+    - :chestnut: 2 tsp baking powder
+    - :salt: 0.25 tsp salt
+    - :droplet: 0.5 cup (113 g) canola oil
 
-- :tangerine: 2 Tbsp Grand Marnier
-- :tangerine: 2 Tbsp orange juice
-- :candy: 50 g superfine sugar
+=== "Soaking Syrup"
 
-## :salt: Ingredients - Glaze
+    - 2 Tbsp Grand Marnier
+    - :tangerine: 2 Tbsp (28 g) orange juice
+    - :candy: 50 g superfine sugar
 
-- :peach: 0.75 cup apricot jam or marmalade
-- :tumbler_glass: 2 tsp rum or water
+=== "Glaze"
+
+    - :apple: 0.75 cup (255 g) apricot jam or marmalade
+    - :droplet: 2 tsp (9 g) rum or water
 
 ## :cooking: Cookware
 
@@ -84,4 +86,4 @@ once it has cooled to room temperature.
 
 - Gâteau
 
-[1]: <../../assets/images/dinner-party-yogurt-cake.jpg>
+[1]: <../../assets/images/dinner-party-yogurt-cake.webp>

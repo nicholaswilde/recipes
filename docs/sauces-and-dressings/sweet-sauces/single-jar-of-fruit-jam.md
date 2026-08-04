@@ -5,12 +5,12 @@ tags:
   - spread
   - jam
   - condiment
-hero: assets/images/single-jar-of-fruit-jam.jpg
+hero: assets/images/single-jar-of-fruit-jam.webp
 ---
 
 # :strawberry: Single Jar of Fruit Jam
 
-![Single Jar of Fruit Jam](../../assets/images/single-jar-of-fruit-jam.jpg){ loading=lazy }
+![Single Jar of Fruit Jam](../../assets/images/single-jar-of-fruit-jam.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,9 +18,9 @@ hero: assets/images/single-jar-of-fruit-jam.jpg
 
 ## :salt: Ingredients
 
-- :strawberry: 2 cup fruit
-- :candy: 0.75 cup (148 g) sugar
-- :lemon: 1 Tbsp lemon juice
+- 2 cup (256 g) fruit
+- :candy: 0.75 cup (117 g) sugar
+- :tangerine: 1 Tbsp (14 g) lemon juice
 
 ## :cooking: Cookware
 

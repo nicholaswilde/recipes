@@ -4,7 +4,7 @@ tags:
 
   - bread
   - side
-hero: assets/images/garlic-knots.jpg
+hero: assets/images/garlic-knots.webp
 ---
 
 # :bread: Garlic Knots
@@ -19,7 +19,7 @@ hero: assets/images/garlic-knots.jpg
 
 - :bread: 1 cup (120 g) bread flour
 - :tea: 1 packet instant yeast
-- :candy: 1.5 tsp sugar
+- :candy: 1.5 tsp (5 g) sugar
 - :salt: 0.75 tsp salt
 - :garlic: 0.5 tsp garlic powder
 - :olive: 2 Tbsp (25 g) olive oil
@@ -27,9 +27,9 @@ hero: assets/images/garlic-knots.jpg
 - :bread: 1 cup (120 g) bread flour
 - :bread: 0.33 cup (40 g) bread flour
 - :olive: some olive oil
-- :butter: 4 Tbsp (57 g) salted butter
+- :butter: 4 Tbsp (56 g) salted butter
 - :garlic: 3 cloves garlic
-- :herb: 1 Tbsp fresh basil
+- :herb: 1 Tbsp (3 g) fresh basil
 - :cheese_wedge: some Parmesan cheese (optional)
 
 ## :cooking: Cookware
@@ -101,4 +101,4 @@ Serve warm.
 
 - <https://sugarspunrun.com/homemade-garlic-knots-recipe/>
 
-[1]: <../assets/images/garlic-knots.jpg>
+[1]: <../assets/images/garlic-knots.webp>

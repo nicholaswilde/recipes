@@ -4,12 +4,12 @@ tags:
 
   - extract
   - ingredient
-hero: assets/images/mint-extract.jpg
+hero: assets/images/mint-extract.webp
 ---
 
 # :shamrock: Mint Extract
 
-![Mint Extract](../../assets/images/mint-extract.jpg){ loading=lazy }
+![Mint Extract](../../assets/images/mint-extract.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/mint-extract.jpg
 
 ## :salt: Ingredients
 
-- :shamrock: 0.5 cup mint leaves
-- :sake: 2 oz vodka
+- :herb: 0.5 cup mint leaves
+- :tangerine: 2 oz vodka
 
 ## :cooking: Cookware
 

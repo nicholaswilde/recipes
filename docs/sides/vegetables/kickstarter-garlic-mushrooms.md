@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/kickstarter-garlic-mushrooms.jpg
+hero: assets/images/kickstarter-garlic-mushrooms.webp
 ---
 
 # :mushroom: Kickstarter Garlic Mushrooms
 
-![Kickstarter Garlic Mushrooms](../../assets/images/kickstarter-garlic-mushrooms.jpg){ loading=lazy }
+![Kickstarter Garlic Mushrooms](../../assets/images/kickstarter-garlic-mushrooms.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/kickstarter-garlic-mushrooms.jpg
 
 ## :salt: Ingredients
 
-- :stew: 0.25 cup [vegetable broth][1]
+- 0.25 cup [vegetable broth][1]
 - :mushroom: 2 bags TJ's sliced mushrooms
 - :garlic: 5 cloves garlic
-- :hot_pepper: 1.25 tsp paprika
-- :hot_pepper: 0.25 tsp crushed red pepper
-- :wine_glass: 2.5 Tbsp dry marsala wine
-- :stew: 1 cup [vegetable broth][1]
+- :candy: 1.25 tsp paprika
+- :hot_pepper: 0.25 tsp (1 g) crushed red pepper
+- :wine_glass: 2.5 Tbsp (27 g) dry marsala wine
+- 1 cup [vegetable broth][1]
 - :salt: some salt
 - :salt: some pepper
 - :herb: 0.5 cup parsley
@@ -50,7 +50,7 @@ Add dry marsala wine and cook until it evaporates.
 
 ### Step 4
 
-Add remaining vegetable broth and season with salt and pepper to taste.
+Add remaining [Vegetable Broth](../../ingredients/vegetable-broth.md) and season with salt and pepper to taste.
 
 ### Step 5
 

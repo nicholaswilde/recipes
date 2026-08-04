@@ -4,7 +4,7 @@ tags:
 
   - bread
   - bake-off
-hero: assets/images/honey-challah-with-assorted-toppings.jpg
+hero: assets/images/honey-challah-with-assorted-toppings.webp
 ---
 
 # :bread: Honey Challah with Assorted Toppings
@@ -15,30 +15,32 @@ hero: assets/images/honey-challah-with-assorted-toppings.jpg
 |:----------------------------------:|:-----------------------: |
 | 6 large or 8 medium challahs | 3.08 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :microbe: 1.5 tsp yeast
-- :candy: 1 tsp granulated sugar
-- :hot_springs: 38 g lukewarm water
-- :honey_pot: 84 g honey
-- :salt: 1 tsp salt
-- :oil_drum: 41 g vegetable oil
-- :egg: 0.17 egg
-- :hot_springs: 114 g lukewarm water
-- :ear_of_rice: 378 g bread flour
+=== "Dough"
 
-## :salt: Ingredients - Sweet Crumb Topping
+    - :tea: 1.5 tsp (4 g) yeast
+    - :candy: 1 tsp (4 g) granulated sugar
+    - :baby_bottle: 38 g lukewarm water
+    - :honey_pot: 84 g honey
+    - :salt: 1 tsp salt
+    - :olive: 41 g vegetable oil
+    - :egg: 0.17 egg
+    - :baby_bottle: 114 g lukewarm water
+    - :bread: 378 g bread flour
 
-- :ear_of_rice: 20 g bread flour
-- :candy: 33 g granulated sugar
-- :oil_drum: 16.5 g vegetable oil
-- :icecream: 0.25 tsp vanilla
-- :salt: 1 pinch salt
+=== "Sweet Crumb Topping"
 
-## :salt: Ingredients - Honey or Maple Syrup Glaze
+    - :bread: 20 g bread flour
+    - :candy: 33 g granulated sugar
+    - :olive: 16.5 g vegetable oil
+    - :flower_playing_cards: 0.25 tsp vanilla
+    - :salt: 1 pinch salt
 
-- :honey_pot: some honey (optional)
-- :maple_leaf: some maple syrup (optional)
+=== "Honey or Maple Syrup Glaze"
+
+    - :leafy_green: some honey (optional)
+    - :honey_pot: some maple syrup (optional)
 
 ## :cooking: Cookware
 
@@ -84,4 +86,4 @@ sweet and sticky glaze.
 - <https://www.thekitchn.com/challah-recipe-reviews-22969552>
 - <https://youtube.com/watch?v=1FcR1PDzC94&si=tDbaP9S1RaTcP5Sp>
 
-[1]: <../assets/images/honey-challah-with-assorted-toppings.jpg>
+[1]: <../assets/images/honey-challah-with-assorted-toppings.webp>

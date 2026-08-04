@@ -17,19 +17,19 @@ hero: assets/images/mushroom-gravy.jpg
 
 ## :salt: Ingredients
 
-- :onion: 2 large shallots
+- :garlic: 2 large shallots
 - :mushroom: 1 lb cremini mushroom
 - :droplet: some water
 - :garlic: 3 cloves garlic
 - :herb: 1 tsp thyme
 - :herb: 1 tsp sage
 - :herb: 1 tsp rosemary
-- :wine_glass: 0.5 cup dry white wine
-- :broccoli: 3 cups cauliflower florets
-- :stew: 2 cups vegetable broth
+- :wine_glass: 0.5 cup (53 g) dry white wine
+- :broccoli: 3 cups (300 g) cauliflower florets
+- 2 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: 0.5 tsp salt
 - :salt: some pepper
-- :microbe: 2 Tbsp nutritional yeast
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
 
 ## :cooking: Cookware
 
@@ -60,7 +60,7 @@ Make a purée from steamed cauliflower florets.
 
 ### Step 5
 
-Add the cauliflower purée, vegetable broth, sea salt, black pepper, and nutritional yeast.
+Add the cauliflower purée, [Vegetable Broth](../../ingredients/vegetable-broth.md), sea salt, black pepper, and nutritional yeast.
 
 ### Step 7
 

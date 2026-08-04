@@ -6,9 +6,10 @@ tags:
   - rolls
   - laminated dough
   - King Arthur Baking
-hero: assets/images/flaky-buttery-crescent-rolls.jpg
+hero: assets/images/flaky-buttery-crescent-rolls.webp
 ---
-# Flaky Buttery Crescent Rolls
+
+# :bread: Flaky Buttery Crescent Rolls
 
 ![Flaky Buttery Crescent Rolls][1]{ loading=lazy }
 
@@ -19,15 +20,17 @@ hero: assets/images/flaky-buttery-crescent-rolls.jpg
 ## :salt: Ingredients
 
 ### Dough
+
 - :bread: 3 cups (360 g) King Arthur Unbleached All-Purpose Flour
 - :salt: 1 1/4 tsp (8 g) table salt (reduce to 3/4 tsp if using salted butter)
 - :chestnut: 1 tsp (4 g) baking powder
 - :candy: 2 tsp (8 g) granulated sugar
 - :tea: 2 tsp (6 g) instant yeast
 - :butter: 20 Tbsp (283 g) unsalted butter, cold, divided
-- :cheese_wedge: 1 1/2 cups (340 g) ricotta cheese, full-fat or part-skim
+- :cheese_wedge: 1 1/2 cups (340 g) [Ricotta](../ingredients/ricotta.md) cheese, full-fat or part-skim
 
 ### Topping
+
 - :egg: 1 large egg, beaten
 - :droplet: 1 Tbsp (15 g) water
 
@@ -46,7 +49,7 @@ Whisk together the **flour**, **salt**, **baking powder**, **sugar**, and **yeas
 
 ### Step 2
 
-Cut the cold **butter** into pats. Add half to the flour mixture and mix until the butter is in pea-sized bits. Add the **ricotta** and mix until the dough comes together. Add the remaining **butter** and mix briefly, ensuring it remains in pea-sized chunks.
+Cut the cold **butter** into pats. Add half to the flour mixture and mix until the butter is in pea-sized bits. Add the **[Ricotta](../ingredients/ricotta.md)** and mix until the dough comes together. Add the remaining **butter** and mix briefly, ensuring it remains in pea-sized chunks.
 
 ### Step 3
 
@@ -81,4 +84,4 @@ Store leftovers at room temperature. To reheat, bake at 350°F for 7 to 10 minut
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/flaky-buttery-crescent-rolls-recipe)
 - [King Arthur Baking Blog](https://www.kingarthurbaking.com/blog/2011/12/05/flaky-buttery-crescent-rolls-the-best-of-both-worlds)
 
-[1]: <../assets/images/flaky-buttery-crescent-rolls.jpg>
+[1]: <../assets/images/flaky-buttery-crescent-rolls.webp>

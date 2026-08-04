@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/miso-glazed-bok-choy.jpg
+hero: assets/images/miso-glazed-bok-choy.webp
 ---
 
 # :leafy_green: Miso-Glazed Bok Choy
 
-![Miso-Glazed Bok Choy](../../assets/images/miso-glazed-bok-choy.jpg){ loading=lazy }
+![Miso-Glazed Bok Choy](../../assets/images/miso-glazed-bok-choy.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/miso-glazed-bok-choy.jpg
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 small head bok choy
-- :ramen: 1 [miso glaze][1]
+- 1 small head bok choy
+- 1 [miso glaze][1]
 
 ## :cooking: Cookware
 

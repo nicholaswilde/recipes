@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/peppermint-patties.jpg
+hero: assets/images/peppermint-patties.webp
 ---
-# Peppermint Patties
+
+# :candy: Peppermint Patties
 
 ![Peppermint Patties][1]{ loading=lazy }
 
@@ -14,13 +15,13 @@ hero: assets/images/peppermint-patties.jpg
 
 ## :salt: Ingredients
 
-- :candy: 2.5 cups confectioners' sugar
-- 2 Tbsp vegetable shortening
-- :candy: 2 Tbsp corn syrup
-- :salt: 2 tsp peppermint extract
-- :droplet: 2 tsp water
-- 12 oz bittersweet chocolate chips
-- 1 tsp vegetable shortening
+- :candy: 2.5 cups (282 g) confectioners' sugar
+- :butter: 2 Tbsp (23 g) vegetable shortening
+- :candy: 2 Tbsp (39 g) corn syrup
+- :flower_playing_cards: 2 tsp peppermint extract
+- :droplet: 2 tsp (9 g) water
+- :chestnut: 12 oz (255 g) bittersweet chocolate chips
+- :butter: 1 tsp (4 g) vegetable shortening
 
 ## :cooking: Cookware
 
@@ -58,5 +59,4 @@ in an airtight container in the refrigerator up to 5 days.
 
 - Magnolia
 
-[1]: <../assets/images/peppermint-patties.jpg>
-
+[1]: <../assets/images/peppermint-patties.webp>

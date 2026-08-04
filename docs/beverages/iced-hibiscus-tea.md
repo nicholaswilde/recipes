@@ -5,12 +5,12 @@ tags:
   - beverage
   - tea
   - joy-of-cooking
-hero: assets/images/iced-hibiscus-tea.jpg
+hero: assets/images/iced-hibiscus-tea.webp
 ---
 
 # :hibiscus: Iced Hibiscus Tea
 
-![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.jpg){ loading=lazy }
+![Iced Hibiscus Tea](../assets/images/iced-hibiscus-tea.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,11 +19,11 @@ hero: assets/images/iced-hibiscus-tea.jpg
 ## :salt: Ingredients
 
 - :droplet: 3 cups (681 g) water
-- :tropical_drink: 7 tea bags
-- :hibiscus: 0.5 cup dried hibiscus flowers
-- :candy: 0.5 cup (99 g) sugar
-- :ice_cube: 3 cups (681 g) ice water
-- :orange_circle: some orange slices or raspberries
+- 7 tea bags
+- :herb: 0.5 cup (56 g) dried hibiscus flowers
+- :candy: 0.5 cup (78 g) sugar
+- :baby_bottle: 3 cups (681 g) ice water
+- :tangerine: some orange slices or raspberries
 
 ## :cooking: Cookware
 

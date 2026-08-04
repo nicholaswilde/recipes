@@ -6,12 +6,12 @@ tags:
   - italian
   - forks-over-knives
   - vegan
-hero: assets/images/white-mac-and-cheese-sauce.jpg
+hero: assets/images/white-mac-and-cheese-sauce.webp
 ---
 
 # :spaghetti: White Mac & Cheese Sauce
 
-![White Mac and Cheese Sauce](../../assets/images/white-mac-and-cheese-sauce.jpg){ loading=lazy }
+![White Mac and Cheese Sauce](../../assets/images/white-mac-and-cheese-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,10 +19,10 @@ hero: assets/images/white-mac-and-cheese-sauce.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1 lb Yukon gold potatoes
-- :glass_of_milk: 1 cup unsweetened almond milk
-- :microbe: 6 Tbsps nutritional yeast
-- :lemon: 1 Tbsp lemon juice
+- :sweet_potato: 1 lb Yukon gold potatoes
+- :glass_of_milk: 1 cup (312 g) unsweetened almond milk
+- :cheese_wedge: 6 Tbsps nutritional yeast
+- :tangerine: 1 Tbsp (14 g) lemon juice
 - :garlic: 2 cloves garlic
 - :hot_pepper: 1 pinch cayenne
 

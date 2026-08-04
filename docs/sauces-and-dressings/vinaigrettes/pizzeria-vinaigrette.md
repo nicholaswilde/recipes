@@ -9,10 +9,10 @@ tags:
   - dressing
   - favorite
   - julia-turshen
-hero: assets/images/pizzeria-vinaigrette.jpg
+hero: assets/images/pizzeria-vinaigrette.webp
 ---
 
-# Pizzeria Vinaigrette
+# :olive: Pizzeria Vinaigrette
 
 ![Pizzeria Vinaigrette][1]{ loading=lazy }
 
@@ -23,9 +23,9 @@ hero: assets/images/pizzeria-vinaigrette.jpg
 ## :salt: Ingredients
 
 - :olive: 1/3 cup (67 g) extra-virgin olive oil
-- :wine_glass: 3 Tbsp (45 g) red wine vinegar
+- :wine_glass: 3 Tbsp (39 g) red wine vinegar
 - :salt: 0.5 tsp kosher salt
-- :herb: 0.5 tsp dried oregano
+- :herb: 0.5 tsp (1 g) dried oregano
 - :garlic: 1 small garlic clove
 
 ## :cooking: Cookware
@@ -45,4 +45,4 @@ for up to a 1 week in a covered container (or jar) in the refrigerator.
 
 - Julia Turshen's What Goes with What
 
-[1]: <../../assets/images/pizzeria-vinaigrette.jpg>
+[1]: <../../assets/images/pizzeria-vinaigrette.webp>

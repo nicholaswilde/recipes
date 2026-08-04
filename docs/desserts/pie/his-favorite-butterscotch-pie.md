@@ -4,48 +4,50 @@ tags:
 
   - dessert
   - pie
-hero: assets/images/his-favorite-butterscotch-pie.jpg
+hero: assets/images/his-favorite-butterscotch-pie.webp
 ---
 
 # :pie: His Favorite Butterscotch Pie
 
-![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.jpg){ loading=lazy }
+![His Favorite Butterscotch Pie](../../assets/images/his-favorite-butterscotch-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 9.00 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :ear_of_rice: 1.5 cups (180 g) all-purpose flour
-- :candy: 2 tsp granulated sugar
-- :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) salted butter
-- :ice_cube: 3 Tbsp ice water
+=== "Crust"
 
-## :salt: Ingredients - Caramel Sauce
+    - :bread: 1.5 cups (180 g) all-purpose flour
+    - :candy: 2 tsp (8 g) granulated sugar
+    - :salt: 0.5 tsp salt
+    - :butter: 0.5 cup (113 g) salted butter
+    - :baby_bottle: 3 Tbsp (43 g) ice water
 
-- :candy: 1.5 cups (297 g) granulated sugar
-- :droplet: 0.5 cup (114 g) water
-- :icecream: 1 cup heavy cream
-- :tumbler_glass: 1 Tbsp rye whiskey
-- :salt: 0.25 tsp salt
+=== "Caramel Sauce"
 
-## :salt: Ingredients - Filling
+    - :candy: 1.5 cups (297 g) granulated sugar
+    - :droplet: 0.5 cup (114 g) water
+    - :glass_of_milk: 1 cup (227 g) heavy cream
+    - 1 Tbsp (8 g) rye whiskey
+    - :salt: 0.25 tsp salt
 
-- :egg: 3 large egg yolks
-- :corn: 6 Tbsp cornstarch
-- :glass_of_milk: 1.75 cups half-and-half
-- :maple_leaf: 1.5 cups (320 g) light brown sugar
-- :salt: 0.75 tsp salt
-- :butter: 0.25 cup (57 g) salted butter
-- :tumbler_glass: 1 Tbsp rye whiskey
-- :icecream: 1 tsp vanilla
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :egg: 3 large egg yolks
+    - :chestnut: 6 Tbsp (42 g) cornstarch
+    - :takeout_box: 1.75 cups (397 g) half-and-half
+    - :candy: 1.5 cups (320 g) light brown sugar
+    - :salt: 0.75 tsp salt
+    - :butter: 0.25 cup (56 g) salted butter
+    - 1 Tbsp (8 g) rye whiskey
+    - :flower_playing_cards: 1 tsp vanilla
 
-- :icecream: 3 cups heavy cream
-- :candy: 0.25 cup (50 g) confectioners' sugar
+=== "Topping"
+
+    - :glass_of_milk: 3 cups (681 g) heavy cream
+    - :candy: 0.25 cup (28 g) confectioners' sugar
 
 ## :cooking: Cookware
 

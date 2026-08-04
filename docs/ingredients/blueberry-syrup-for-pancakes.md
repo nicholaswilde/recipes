@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - breakfast
-hero: assets/images/blueberry-syrup-for-pancakes.jpg
+hero: assets/images/blueberry-syrup-for-pancakes.webp
 ---
 
 # :pancakes: Blueberry Syrup for Pancakes
 
-![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.jpg){ loading=lazy }
+![Blueberry Syrup for Pancakes](../assets/images/blueberry-syrup-for-pancakes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/blueberry-syrup-for-pancakes.jpg
 
 ## :salt: Ingredients
 
-- :maple_leaf: 0.5 cup maple syrup
-- :blue_circle: 1.5 cup blueberries
+- :honey_pot: 0.5 cup (156 g) maple syrup
+- :apple: 1.5 cup (234 g) blueberries
 
 ## :pencil: Instructions
 

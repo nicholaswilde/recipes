@@ -5,38 +5,40 @@ tags:
   - cake
   - dessert
   - king-arthur
-hero: assets/images/classic-birthday-cake.jpg
+hero: assets/images/classic-birthday-cake.webp
 ---
 
 # :cake: Classic Birthday Cake
 
-![Classic Birthday Cake](../../assets/images/classic-birthday-cake.jpg){ loading=lazy }
+![Classic Birthday Cake](../../assets/images/classic-birthday-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 1.65 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 240 g all-purpose flour
-- :salt: 1.25 tsp salt
-- :dash: 2 tsp baking powder
-- :egg: 4 large eggs
-- :candy: 2 cups (396 g) granulated sugar
-- :icecream: 1 Tbsp vanilla
-- :chestnut: 0.13 tsp almond extract (optional)
-- :glass_of_milk: 1 cup whole milk
-- :butter: 57 g unsalted butter
-- :oil_drum: 0.33 cup (65 g) vegetable oil
+=== "Cake"
 
-## :salt: Ingredients - Frosting
+    - :bread: 240 g all-purpose flour
+    - :salt: 1.25 tsp salt
+    - :chestnut: 2 tsp baking powder
+    - :egg: 4 large eggs
+    - :candy: 2 cups (396 g) granulated sugar
+    - :flower_playing_cards: 1 Tbsp vanilla
+    - :flower_playing_cards: 0.13 tsp (1 g) almond extract (optional)
+    - :glass_of_milk: 1 cup (227 g) whole milk
+    - :butter: 57 g unsalted butter
+    - :olive: 0.33 cup (65 g) vegetable oil
 
-- :chocolate_bar: 106 g cocoa powder
-- :candy: 454 g confectioners’ sugar
-- :salt: 0.25 tsp salt
-- :hotsprings: 74 g hot water
-- :icecream: 1 Tbsp vanilla
-- :butter: 284 g unsalted butter
+=== "Frosting"
+
+    - :chocolate_bar: 106 g cocoa powder
+    - :candy: 454 g confectioners’ sugar
+    - :salt: 0.25 tsp salt
+    - :droplet: 74 g hot water
+    - :flower_playing_cards: 1 Tbsp vanilla
+    - :butter: 284 g unsalted butter
 
 ## :cooking: Cookware
 

@@ -6,9 +6,9 @@ tags:
 hero: assets/images/blueberry-ricotta-breakfast-cake.png
 ---
 
-# Blueberry Ricotta Breakfast Cake
+# :blue_circle: Blueberry [ricotta](../ingredients/ricotta.md) Breakfast Cake
 
-![Blueberry Ricotta Breakfast Cake][2]{ loading=lazy }
+![Blueberry ricotta Breakfast Cake][2]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,17 +16,17 @@ hero: assets/images/blueberry-ricotta-breakfast-cake.png
 
 ## :salt: Ingredients
 
-- :butter: 10 tbsp unsalted butter
+- :butter: 10 tbsp (141 g) unsalted butter
 - :candy: 1 cup (198 g) granulated sugar
 - :egg: 3 eggs
-- :cheese_wedge: 1 cup whole-milk ricotta
-- :rice: 2 tbsp sour cream
-- :icecream: 1 tsp pure vanilla extract
-- :lemon: 1 tsp grated lemon zest
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
-- :dash: 1 tbsp baking powder
+- :glass_of_milk: 1 cup (100 g) whole-milk [ricotta](../ingredients/ricotta.md)
+- :glass_of_milk: 2 tbsp (28 g) sour cream
+- :flower_playing_cards: 1 tsp pure vanilla extract
+- :tangerine: 1 tsp (3 g) grated lemon zest
+- :bread: 1.25 cups (150 g) all-purpose flour
+- :chestnut: 1 tbsp baking powder
 - :salt: 1 tsp Kosher salt
-- :blueberry: 2 cups fresh blueberries
+- :apple: 2 cups (340 g) fresh blueberries
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
@@ -46,8 +46,9 @@ Preheat the oven to 350 degrees. Grease and flour a 9-inch round springform pan,
 
 Place the unsalted butter and granulated sugar in the bowl of an electric mixer fitted with the paddle attachment and
 beat on medium speed for 3 minutes, until light and fluffy, scraping down the sides of the bowl as needed. With the
-mixer on low, add the eggs one at a time, mixing well after each addition. Add the whole-milk ricotta, sour cream, pure
-vanilla extract, and grated lemon zest and mix well. (The batter will look curdled.)
+mixer on low, add the eggs one at a time, mixing well after each addition. Add the whole-milk
+[ricotta](../ingredients/ricotta.md), sour cream, pure vanilla extract, and grated lemon zest and mix well.
+(The batter will look curdled.)
 
 ### Step 3
 

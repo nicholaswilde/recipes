@@ -4,10 +4,10 @@ tags:
 
   - sauce
   - dressing
-hero: assets/images/broccoli-salad-dressing.jpg
+hero: assets/images/broccoli-salad-dressing.webp
 ---
 
-# Broccoli Salad Dressing
+# :green_salad: Broccoli Salad Dressing
 
 ![Broccoli Salad Dressing][1]{ loading=lazy }
 
@@ -17,9 +17,9 @@ hero: assets/images/broccoli-salad-dressing.jpg
 
 ## :salt: Ingredients
 
-- :egg: 1 cup [mayonnaise][2]
-- :sake: 2 Tbsp red or white wine vinegar
-- :candy: 0.5 cup (99 g) sugar
+- 1 cup [mayonnaise][2]
+- :wine_glass: 2 Tbsp (25 g) red or white wine vinegar
+- :candy: 0.5 cup (78 g) sugar
 - :salt: 0.5 tsp salt
 
 ## :pencil: Instructions
@@ -36,5 +36,5 @@ Chill at least 1 hour before tossing with salad.
 
 - The Essential Mormon Cookbook
 
-[1]: <../../assets/images/broccoli-salad-dressing.jpg>
+[1]: <../../assets/images/broccoli-salad-dressing.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - pastry-dough
-hero: assets/images/empanada-pastry.jpg
+hero: assets/images/empanada-pastry.webp
 ---
 
 # :dumpling: Empanada Pastry
 
-![Empanada Pastry](../../assets/images/empanada-pastry.jpg){ loading=lazy }
+![Empanada Pastry](../../assets/images/empanada-pastry.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,11 +17,11 @@ hero: assets/images/empanada-pastry.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3 cups (360 g) all-purpose flour
-- :salt: 0.25-0.5 tsp salt
+- :bread: 3 cups (360 g) all-purpose flour
+- :baby_bottle: 0.25-0.5 tsp salt
 - :butter: 6 oz butter
 - :egg: 1 egg
-- :droplet: 0.25-0.5 cup (114 g) water or milk
+- :glass_of_milk: 0.25-0.5 cup water or milk
 
 ## :cooking: Cookware
 

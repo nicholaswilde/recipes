@@ -5,7 +5,7 @@ tags:
   - soup
   - stew
   - costco
-hero: assets/images/vegan-mushroom-stew.jpg
+hero: assets/images/vegan-mushroom-stew.webp
 ---
 
 # :mushroom: Vegan Mushroom Stew
@@ -18,10 +18,10 @@ hero: assets/images/vegan-mushroom-stew.jpg
 
 ## :salt: Ingredients
 
-- :olive: 3 Tbsp olive oil
-- :onion: 1 yellow onion
+- :olive: 3 Tbsp (38 g) olive oil
+- :tea: 1 yellow onion
 - :carrot: 1 cup carrot
-- :leafy_green: 1 cup celery
+- :leafy_green: 1 cup (142 g) celery
 - :salt: some salt
 - :salt: some pepper
 - :mushroom: 1 lb mushrooms
@@ -29,14 +29,14 @@ hero: assets/images/vegan-mushroom-stew.jpg
 - :herb: 2 tsp thyme
 - :herb: 1 tsp oregano
 - :herb: 0.5 tsp sage
-- :ear_of_rice: 2 Tbsp all-purpose flour
-- :sake: 0.25 cup balsamic vinegar
-- :takeout_box: 2 Tbsp soy sauce
-- :potato: 1 lb yellow potatoes
-- :curry: 1 cup split red lentils
-- :tomato: 1 15-oz can tomato sauce
-- :stew: 3 cups vegetable broth
-- :fallen_leaf: 2 bay leaves
+- :bread: 2 Tbsp (15 g) all-purpose flour
+- :wine_glass: 0.25 cup balsamic vinegar
+- :takeout_box: 2 Tbsp (18 g) soy sauce
+- :seedling: 1 lb yellow potatoes
+- :beans: 1 cup (210 g) split red lentils
+- :apple: 1 15-oz can tomato sauce
+- 3 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :herb: 2 bay leaves
 - :herb: some parsley
 
 ## :cooking: Cookware
@@ -68,7 +68,7 @@ Deglaze with balsamic vinegar and soy sauce.
 
 ### Step 6
 
-Add yellow potatoes, split red lentils, tomato sauce, vegetable broth, and bay leaves.
+Add yellow potatoes, split red lentils, tomato sauce, [Vegetable Broth](../ingredients/vegetable-broth.md), and bay leaves.
 
 ### Step 7
 
@@ -90,4 +90,4 @@ Tip: Serve with mashed potatoes and bread.
 
 - Costco Connection
 
-[1]: <../assets/images/vegan-mushroom-stew.jpg>
+[1]: <../assets/images/vegan-mushroom-stew.webp>

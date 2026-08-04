@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - pressure-cooker
-hero: assets/images/black-beans.jpg
+hero: assets/images/black-beans.webp
 ---
 
 # :canned_food: Black Beans
 
-![Black Beans](../assets/images/black-beans.jpg){ loading=lazy }
+![Black Beans](../assets/images/black-beans.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,8 +16,8 @@ hero: assets/images/black-beans.jpg
 
 ## :salt: Ingredients
 
-- :canned_food: 227 g dried black beans
-- :ice_cube: 3 cups cold water
+- :beans: 227 g dried black beans
+- :baby_bottle: 3 cups (681 g) cold water
 - :salt: 1.5 tsp kosher salt
 
 ## :cooking: Cookware

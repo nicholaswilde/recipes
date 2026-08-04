@@ -5,7 +5,7 @@ tags:
   - bread
   - preppy-kitchen
   - holiday
-hero: assets/images/star-bread.jpg
+hero: assets/images/star-bread.webp
 ---
 
 # :star: Star Bread
@@ -16,27 +16,29 @@ hero: assets/images/star-bread.jpg
 |:----------------------------------:|:-----------------------: |
 | 8-10 | 2.42 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :glass_of_milk: 1 cup (227 g) warm whole milk
-- :microbe: 1 pkg (.25 oz) instant yeast
-- :butter: 5 Tbsp (71 g) unsalted butter
-- :candy: 50 g granulated sugar
-- :egg: 1 large egg
-- :ear_of_rice: 450 g all-purpose flour
-- :salt: 1 tsp salt
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :glass_of_milk: 1 cup (227 g) warm whole milk
+    - :tea: 1 pkg (.25 oz) instant yeast
+    - :butter: 5 Tbsp (71 g) unsalted butter
+    - :candy: 50 g granulated sugar
+    - :egg: 1 large egg
+    - :bread: 450 g all-purpose flour
+    - :salt: 1 tsp salt
 
-- :candy: 100 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :butter: 3 Tbsp (42 g) unsalted butter
+=== "Filling"
 
-## :salt: Ingredients - Topping
+    - :candy: 100 g granulated sugar
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :butter: 3 Tbsp (42 g) unsalted butter
 
-- :egg: 1 large egg
-- :droplet: 1 tsp water
-- :candy: some confectioners' sugar
+=== "Topping"
+
+    - :egg: 1 large egg
+    - :droplet: 1 tsp (5 g) water
+    - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
 
@@ -113,4 +115,4 @@ on the pan for 10 minutes. Lightly dust with confectioners' sugar before serving
 
 - <https://preppykitchen.com/star-bread/>
 
-[1]: <../assets/images/star-bread.jpg>
+[1]: <../assets/images/star-bread.webp>

@@ -5,7 +5,7 @@ tags:
   - sauce
   - whats-for-dessert
   - claire-saffitz
-hero: assets/images/salted-caramel-sauce.jpg
+hero: assets/images/salted-caramel-sauce.webp
 ---
 
 # :custard: Salted Caramel Sauce
@@ -22,7 +22,7 @@ hero: assets/images/salted-caramel-sauce.jpg
 - :candy: 200 g granulated sugar
 - :glass_of_milk: 240 g heavy cream
 - :butter: 85 g unsalted butter
-- :icecream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware
@@ -77,4 +77,4 @@ occasionally, until it's warm but not hot. It will thicken as it cools.
 
 - What's For Dessert
 
-[1]: <../../assets/images/salted-caramel-sauce.jpg>
+[1]: <../../assets/images/salted-caramel-sauce.webp>

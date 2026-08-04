@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/ice-cream.jpg
+hero: assets/images/ice-cream.webp
 ---
 
 # :ice_cream: Ice Cream
 
-![Ice Cream](../assets/images/ice-cream.jpg){ loading=lazy }
+![Ice Cream](../assets/images/ice-cream.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,7 +18,7 @@ hero: assets/images/ice-cream.jpg
 
 - :glass_of_milk: 2 cups (454 g) heavy cream
 - :glass_of_milk: 1 cup (227 g) whole milk
-- :candy: 0.67 (132 g) cup granulated sugar
+- :candy: 0.67 cup (133 g) granulated sugar
 - :salt: 0.13 tsp salt
 - :egg: 6 large egg yolks
 

@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/kickstarter-lemony-roasted-cauliflower.jpg
+hero: assets/images/kickstarter-lemony-roasted-cauliflower.webp
 ---
 
-# Kickstarter Lemony Roasted Cauliflower
+# :broccoli: Kickstarter Lemony Roasted Cauliflower
 
-![Kickstarter Lemony Roasted Cauliflower](../../assets/images/kickstarter-lemony-roasted-cauliflower.jpg){ loading=lazy }
+![Kickstarter Lemony Roasted Cauliflower](../../assets/images/kickstarter-lemony-roasted-cauliflower.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/kickstarter-lemony-roasted-cauliflower.jpg
 
 ## :salt: Ingredients
 
-- :tangerine: 4 Tbsp lemon juice
-- :seedling: 0.5 Tbsp tahini
-- 0.25 tsp paprika
-- 5 cups cauliflower
+- :tangerine: 4 Tbsp (56 g) lemon juice
+- :seedling: 0.5 Tbsp (8 g) tahini
+- :candy: 0.25 tsp paprika
+- :broccoli: 5 cups (500 g) cauliflower
 - :salt: 0.25 tsp salt
 - :salt: some pepper
 

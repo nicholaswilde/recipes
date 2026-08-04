@@ -6,7 +6,7 @@ tags:
   - ingredient
   - claire-saffitz
   - dessert-person
-hero: assets/images/flaky-olive-oil-dough.jpg
+hero: assets/images/flaky-olive-oil-dough.webp
 ---
 
 # :olive: Flaky Olive Oil Dough
@@ -19,12 +19,12 @@ hero: assets/images/flaky-olive-oil-dough.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 227 g all-purpose flour
+- :bread: 227 g all-purpose flour
 - :candy: 13 g granulated sugar
 - :salt: 1 tsp salt
-- :dash: 0.25 tsp baking powder
+- :chestnut: 0.25 tsp baking powder
 - :olive: 96 g olive oil
-- :ice_cube: 57 g cold tap water
+- :baby_bottle: 57 g cold tap water
 
 ## :cooking: Cookware
 
@@ -104,4 +104,4 @@ ready to use.
 
 - Dessert Person
 
-[1]: <../../assets/images/flaky-olive-oil-dough.jpg>
+[1]: <../../assets/images/flaky-olive-oil-dough.webp>

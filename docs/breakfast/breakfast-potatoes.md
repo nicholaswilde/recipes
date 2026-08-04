@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/breakfast-potatoes.jpg
+hero: assets/images/breakfast-potatoes.webp
 ---
 
 # :potato: Breakfast Potatoes
 
-![Breakfast Potatoes](../assets/images/breakfast-potatoes.jpg){ loading=lazy }
+![Breakfast Potatoes](../assets/images/breakfast-potatoes.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,7 +16,7 @@ hero: assets/images/breakfast-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1.5 lbs red potatoes
+- :grapes: 1.5 lbs red potatoes
 - :butter: 4 Tbsp butter
 - :garlic: 0.5 tsp garlic powder
 - :salt: 1 tsp salt

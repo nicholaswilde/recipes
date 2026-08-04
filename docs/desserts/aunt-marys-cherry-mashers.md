@@ -3,7 +3,7 @@ comments: true
 tags:
   - holiday
   - magnolia
-hero: assets/images/aunt-marys-cherry-mashers.jpg
+hero: assets/images/aunt-marys-cherry-mashers.webp
 ---
 
 # :cherries: Aunt Mary's Cherry Mashers
@@ -16,16 +16,16 @@ hero: assets/images/aunt-marys-cherry-mashers.jpg
 
 ## :salt: Ingredients
 
-- :cake: 1 7.2-ounce package Betty Crocker Home Style Fluffy White Frosting Mix
+- :glass_of_milk: 1 7.2-ounce package Betty Crocker Home Style Fluffy White Frosting Mix
 - :candy: 1 lb confectioners' sugar
-- :butter: 6 Tbsp margarine
-- :cherries: 1 10-oz jar maraschino cherries
-- :icecream: 0.5 tsp vanilla
-- :glass_of_milk: 0.25 cup (78 g) [sweetened condensed milk][2]
-- :chocolate_bar: 1 20-oz pkg chocolate almond bark
+- 6 Tbsp margarine
+- :glass_of_milk: 1 10-oz jar maraschino cherries
+- :flower_playing_cards: 0.5 tsp vanilla
+- :glass_of_milk: 0.25 cup (72 g) [sweetened condensed milk][2]
+- :baby_bottle: 1 20-oz pkg chocolate almond bark
 - :chocolate_bar: 1 11.5-oz bag milk chocolate chips
-- :peanuts: 2.5 cups dry-roasted peanuts
-- :oil_drum: 1 Tbsp vegetable oil
+- :chestnut: 2.5 cups (438 g) dry-roasted peanuts
+- :olive: 1 Tbsp (12 g) vegetable oil
 
 ## :cooking: Cookware
 
@@ -76,5 +76,5 @@ Store in an airtight container in the refrigerator for up to 3 days.
 
 - <https://magnolia.com/blog/recipe/922fe751-664a-4622-aff9-4d51f4a6f97d/aunt-marys-cherry-mashers/>
 
-[1]: <../assets/images/aunt-marys-cherry-mashers.jpg>
+[1]: <../assets/images/aunt-marys-cherry-mashers.webp>
 [2]: <../ingredients/sweetened-condensed-milk.md>

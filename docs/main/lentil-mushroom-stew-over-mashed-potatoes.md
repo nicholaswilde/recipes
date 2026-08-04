@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg
+hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp
 ---
-# Lentil Mushroom Stew over Mashed Potatoes
+
+# :stew: Lentil Mushroom Stew over Mashed Potatoes
 
 ![Lentil Mushroom Stew over Mashed Potatoes][1]{ loading=lazy }
 
@@ -14,22 +15,22 @@ hero: assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :olive: 1 Tbsp olive oil
-- :garlic: 0.5 cup (78 g) shallot
-- :mushroom: 2 cups (155 g) cremini mushrooms
-- :takeout_box: 2 Tbsp coconut aminos
+- :olive: 1 Tbsp (12 g) olive oil
+- :garlic: 0.5 cup shallot
+- :mushroom: 2 cups (156 g) cremini mushrooms
+- :takeout_box: 2 Tbsp (16 g) coconut aminos
 - :salt: 1 pinch salt
 - :salt: 1 pinch pepper
 - :herb: 2 Tbsp thyme
-- :beans: 0.67 cup (140 g) green lentils
-- :stew: 2 cups (455 g) [vegetable broth][2]
-- :sweet_potato: 1 lb yellow potatoes
+- :beans: 0.67 cup (141 g) green lentils
+- 2 cups [vegetable broth][2]
+- :seedling: 1 lb yellow potatoes
 - :salt: some salt
 - :salt: some pepper
-- :olive: 2 Tbsp olive oil
-- :glass_of_milk: 4 Tbsp unsweetened plain almond milk or [vegetable broth][2] (for moisture)
-- :herb: some parsley (optional)
-- :cheese_wedge: some [vegan Parmesan cheese][3] (optional)
+- :olive: 2 Tbsp (25 g) olive oil
+- :glass_of_milk: 4 Tbsp (35 g) unsweetened plain almond milk or [vegetable broth][2] (for moisture)
+- :leafy_green: some parsley (optional)
+- :apple: some [vegan Parmesan cheese][3] (optional)
 
 ## :cooking: Cookware
 
@@ -50,7 +51,7 @@ frequently. Add a pinch of salt and pepper.
 
 ### Step 3
 
-Add thyme, dry green lentils, and 2 cups vegetable broth (480 ml // or the smaller end of the range if adjusting recipe
+Add thyme, dry green lentils, and 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md) (480 ml // or the smaller end of the range if adjusting recipe
 size). Bring to a low boil over medium-high heat. Once boiling, reduce heat to a simmer and cook on low for about 20
 minutes, adding more broth as needed if the mixture looks dry.
 
@@ -63,12 +64,12 @@ high heat and cook for 12 to 15 minutes or until they slide off easily when pier
 
 Once tender, drain potatoes and add back to pot or a mixing bowl. Season with salt, pepper, and a bit of olive oil and
 mash until tender and fluffy. For added moisture in place of oil, add 2 to 4 Tbsp unsweetened plain almond milk or
-vegetable broth (for moisture).
+[Vegetable Broth](../ingredients/vegetable-broth.md) (for moisture).
 
 ### Step 6
 
 Once lentils are tender, taste sauce and adjust flavor as needed, adding more salt or coconut aminos for saltiness,
-pepper for spice, or tomato paste for more depth of flavor (optional – we didn’t find it necessary). Turn off heat
+pepper for spice, or [Tomato Paste](../ingredients/tomato-paste.md) for more depth of flavor (optional – we didn’t find it necessary). Turn off heat
 and let the mixture rest so flavors can deepen. Add the 2 Tbsp (30 g // or more as needed) mashed potatoes to the lentil
 mushroom stew and stir in to thicken.
 
@@ -86,7 +87,6 @@ stovetop or in a 350°F (176°C) oven until hot.
 
 - <https://minimalistbaker.com/lentil-mushroom-stew-over-mashed-potatoes/>
 
-[1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.jpg>
+[1]: <../assets/images/lentil-mushroom-stew-over-mashed-potatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/vegan-parmesan.md>
-

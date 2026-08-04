@@ -7,9 +7,10 @@ tags:
   - spinach
   - feta
   - vegetarian
-hero: assets/images/one-pan-orzo-with-spinach-and-feta.jpg
+hero: assets/images/one-pan-orzo-with-spinach-and-feta.webp
 ---
-# One-Pan Orzo with Spinach and Feta
+
+# :bowl_with_spoon: One-Pan Orzo with Spinach and Feta
 
 ![One-Pan Orzo with Spinach and Feta][1]{ loading=lazy }
 
@@ -20,17 +21,17 @@ hero: assets/images/one-pan-orzo-with-spinach-and-feta.jpg
 ## :salt: Ingredients
 
 - :butter: 2 Tbsp (28 g) unsalted butter
-- :onion: 4 large (64 g) scallions (trimmed and thinly sliced)
-- :garlic: 3 cloves (14 g) garlic (minced)
-- :leafy_green: 8 oz (227 g) baby spinach leaves (coarsely chopped)
+- :tea: 4 large scallions (trimmed and thinly sliced)
+- :garlic: 3 cloves garlic (minced)
+- :leafy_green: 8 oz baby spinach leaves (coarsely chopped)
 - :salt: 0.5 tsp kosher salt
-- :stew: 1.75 cups (397 g) low-sodium vegetable stock
+- :stew: 1.75 cups (322 g) low-sodium vegetable stock
 - :ear_of_rice: 1 cup (200 g) orzo
-- :tangerine: 1 tsp (2 g) lemon zest
+- :tangerine: 1 tsp (5 g) lemon zest
 - :salt: 0.5 tsp kosher salt
-- :cheese_wedge: 0.75 cup (85 g) feta cheese (crumbled)
+- :cheese_wedge: 0.75 cup (86 g) feta cheese (crumbled)
 - :beans: 0.5 cup (75 g) frozen peas (thawed, optional)
-- :herb: 1 cup (40 g) fresh herbs (dill, parsley, or cilantro)
+- :apple: 1 cup (42 g) fresh herbs (dill, parsley, or cilantro)
 
 ## :cooking: Cookware
 
@@ -73,5 +74,4 @@ Garnish with the reserved scallions and extra feta. Serve warm.
 
 - <https://cooking.nytimes.com/recipes/1021941-one-pan-orzo-with-spinach-and-feta>
 
-[1]: <../assets/images/one-pan-orzo-with-spinach-and-feta.jpg>
-
+[1]: <../assets/images/one-pan-orzo-with-spinach-and-feta.webp>

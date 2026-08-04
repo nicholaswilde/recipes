@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/veggie-cassola.jpg
+hero: assets/images/veggie-cassola.webp
 ---
-# Veggie Cassola
+
+# :cucumber: Veggie Cassola
 
 ![Veggie Cassola][1]{ loading=lazy }
 
@@ -14,8 +15,8 @@ hero: assets/images/veggie-cassola.jpg
 
 ## :salt: Ingredients
 
-- :cucumber: 1 zucchini
-- :onion: 1 large onion
+- 1 zucchini
+- :tea: 1 large onion
 - :hot_pepper: 2 large bell pepper
 - :carrot: 2 carrots
 - :eggplant: 1 Italian eggplant
@@ -56,5 +57,4 @@ Roast for 1 hour. Remove bay leaves, then serve with crusty bread.
 
 - The Blue Zones Kitchen
 
-[1]: <../assets/images/veggie-cassola.jpg>
-
+[1]: <../assets/images/veggie-cassola.webp>

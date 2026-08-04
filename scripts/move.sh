@@ -110,13 +110,55 @@ function move_files(){
 
   if [ -f "${image_path}" ]; then
     cp "${image_path}" "${new_image_path}"
+    
+    local filename
+    filename=$(basename "${new_image_path}")
+    local ext="${filename##*.}"
+    local base="${filename%.*}"
+    
+    if [[ "${ext,,}" == "jpg" || "${ext,,}" == "jpeg" ]]; then
+      if command_exists cwebp; then
+        lb_infoln "Converting image to WebP"
+        local webp_path="${new_image_path%.*}.webp"
+        if cwebp -q 80 -metadata all "${new_image_path}" -o "${webp_path}" &>/dev/null; then
+          rm -f "${new_image_path}"
+          
+          # Escape & in replacement string for sed
+          local escaped_webp_name="${base}.webp"
+          escaped_webp_name="${escaped_webp_name//&/\\&}"
+          sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
+        else
+          if uv run python3 -c "from PIL import Image, ImageFile" &>/dev/null && \
+             uv run python3 -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('${new_image_path}').convert('RGB').save('${webp_path}', 'WEBP', quality=80)" &>/dev/null; then
+            rm -f "${new_image_path}"
+            
+            local escaped_webp_name="${base}.webp"
+            escaped_webp_name="${escaped_webp_name//&/\\&}"
+            sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
+          else
+            lb_infoln "Warning: Failed to convert image to WebP using both cwebp and Pillow fallback"
+          fi
+        fi
+      else
+        lb_infoln "Warning: cwebp not found, skipping WebP conversion"
+      fi
+    elif [[ "${ext,,}" == "png" ]]; then
+      if command_exists oxipng; then
+        lb_infoln "Optimizing PNG image"
+        if ! oxipng -o 4 --strip safe "${new_image_path}" &>/dev/null; then
+          lb_infoln "Warning: Failed to optimize PNG image using oxipng"
+        fi
+      else
+        lb_infoln "Warning: oxipng not found, skipping PNG optimization"
+      fi
+    fi
   fi
 
   mv "${markdown_path}" "${new_markdown_path}"
 
   recipe_name=$(get_recipe_name "${recipe_path}")
   relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
-  uv run "${DIR}/add-recipe-nav.py" "${recipe_name}" "${relative_markdown_path}"
+  uv run "${DIR}/add_recipe_nav.py" "${recipe_name}" "${relative_markdown_path}"
 }
 
 function main(){

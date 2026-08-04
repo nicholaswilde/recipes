@@ -2,8 +2,9 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/bordeaux.jpg
+hero: assets/images/bordeaux.webp
 ---
+
 # :candy: Bordeaux
 
 ![Bordeaux][1]{ loading=lazy }
@@ -14,13 +15,13 @@ hero: assets/images/bordeaux.jpg
 
 ## :salt: Ingredients
 
-- :butter: 8 tbsp unsalted butter
-- :candy: 1 cup golden brown sugar
-- :glass_of_milk: 0.25 cup heavy cream
-- :coffee: 1 tsp instant coffee
+- :butter: 8 tbsp (113 g) unsalted butter
+- :candy: 1 cup (213 g) golden brown sugar
+- :glass_of_milk: 0.25 cup (57 g) heavy cream
+- :coffee: 1 tsp (3 g) instant coffee
 - :salt: 0.13 tsp salt
-- :candy: 2 cups powdered sugar
-- :chestnut: 12 oz dark chocolate
+- :candy: 2 cups (400 g) powdered sugar
+- :chestnut: 12 oz (255 g) dark chocolate
 - :butter: 1 tbsp butter
 
 ## :cooking: Cookware
@@ -55,4 +56,4 @@ Melt :chestnut: dark chocolate and :butter: butter in the :microwave: microwave 
 
 - <https://selfproclaimedfoodie.com/copycat-sees-bordeaux/>
 
-[1]: <../assets/images/bordeaux.jpg>
+[1]: <../assets/images/bordeaux.webp>

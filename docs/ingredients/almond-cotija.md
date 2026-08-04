@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/almond-cotija.jpg
+hero: assets/images/almond-cotija.webp
 ---
 
 # :cheese_wedge: Almond Cotija
@@ -17,9 +17,9 @@ hero: assets/images/almond-cotija.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 1.5 cups [blanched almonds][2]
-- :herb: 0.25 tsp dulse flakes or granules
-- :lemon: 2 Tbsp lemon juice
+- 1.5 cups [blanched almonds][2]
+- :hot_pepper: 0.25 tsp (1 g) dulse flakes or granules
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware
@@ -62,5 +62,5 @@ Store in an airtight jar for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/almond-cotija.jpg>
+[1]: <../assets/images/almond-cotija.webp>
 [2]: <./blanched-almonds.md>

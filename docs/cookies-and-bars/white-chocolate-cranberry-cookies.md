@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - favorite
-hero: assets/images/white-chocolate-cranberry-cookies.jpg
+hero: assets/images/white-chocolate-cranberry-cookies.webp
 ---
 
 # :cookie: White Chocolate Cranberry Cookies
 
-![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.jpg){ loading=lazy }
+![White Chocolate Cranberry Cookies](../assets/images/white-chocolate-cranberry-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,16 +18,16 @@ hero: assets/images/white-chocolate-cranberry-cookies.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 345 g all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
+- :bread: 345 g all-purpose flour
+- :chestnut: 1 tsp baking soda
 - :salt: 1 tsp salt
 - :butter: 230 g unsalted butter
-- :maple_leaf: 200 g light brown sugar
+- :candy: 200 g light brown sugar
 - :candy: 100 g granulated sugar
 - :egg: 2 large eggs
-- :icecream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 - :chocolate_bar: 270 g white chocolate chips
-- :grapes: 145 g dried cranberries
+- :apple: 145 g dried cranberries
 
 ## :cooking: Cookware
 

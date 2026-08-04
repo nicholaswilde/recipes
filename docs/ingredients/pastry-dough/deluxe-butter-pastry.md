@@ -5,12 +5,12 @@ tags:
   - joy-of-cooking
   - pastry-dough
   - ingredient
-hero: assets/images/deluxe-butter-pastry.jpg
+hero: assets/images/deluxe-butter-pastry.webp
 ---
 
 # :pie: Deluxe Butter Pastry
 
-![Deluxe Butter Pastry](../../assets/images/deluxe-butter-pastry.jpg){ loading=lazy }
+![Deluxe Butter Pastry](../../assets/images/deluxe-butter-pastry.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,9 +18,9 @@ hero: assets/images/deluxe-butter-pastry.jpg
 
 ## :salt: Ingredients
 
-- :pie: 1 [Basic Pastry Dough][1]
-- :butter: 2 sticks cold unsalted butter
-- :carrot: 0.25 cup chilled vegetable shortening
+- :dumpling: 1 [Basic Pastry Dough][1]
+- :glass_of_milk: 2 sticks cold unsalted butter
+- :carrot: 0.25 cup (46 g) chilled vegetable shortening
 
 ## :pencil: Instructions
 

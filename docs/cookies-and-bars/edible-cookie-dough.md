@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/edible-cookie-dough.jpg
+hero: assets/images/edible-cookie-dough.webp
 ---
 
 # :cookie: Edible Cookie Dough
 
-![Edible Cookie Dough](../assets/images/edible-cookie-dough.jpg){ loading=lazy }
+![Edible Cookie Dough](../assets/images/edible-cookie-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/edible-cookie-dough.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 89 g all-purpose flour
+- :bread: 89 g all-purpose flour
 - :butter: 30 g unsalted butter
 - :candy: 15 g granulated sugar
 - :maple_leaf: 30 g brown sugar
-- :icecream: 0.25 tsp vanilla
-- :glass_of_milk: 15 ml milk
+- :flower_playing_cards: 0.25 tsp vanilla
+- :glass_of_milk: 15 ml (14 g) milk
 - :salt: 0.13 tsp salt
 - :chocolate_bar: 59 g chocolate chips
 

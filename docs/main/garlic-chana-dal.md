@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/garlic-chana-dal.jpg
+hero: assets/images/garlic-chana-dal.webp
 ---
-# Garlic Chana Dal
+
+# :garlic: Garlic Chana Dal
 
 ![Garlic Chana Dal][1]{ loading=lazy }
 
@@ -16,13 +17,13 @@ hero: assets/images/garlic-chana-dal.jpg
 
 - :beans: 400 g [dal (split chickpeas)][2]
 - :droplet: 1.5 L water
-- :curry: 1 tsp turmeric
+- :curry: 1 tsp (3 g) turmeric
 - :salt: 1.5 tsp salt
-- :olive: 3 Tbsp ghee or oil
-- :seedling: 1 tsp cumin seeds
+- :baby_bottle: 3 Tbsp (42 g) ghee or oil
+- :chestnut: 1 tsp cumin seeds
 - :garlic: 8 cloves garlic
-- :hot_pepper: 1 tsp chili powder
-- :herb: 1 large handful coriander
+- :hot_pepper: 1 tsp (2 g) chili powder
+- :chestnut: 1 large handful coriander
 
 ## :cooking: Cookware
 
@@ -52,6 +53,5 @@ I like to serve mine with onion and pea pulao. Time to tuck in!
 
 - <https://www.youtube.com/watch?v=wmR6WuibsYk>
 
-[1]: <../assets/images/garlic-chana-dal.jpg>
+[1]: <../assets/images/garlic-chana-dal.webp>
 [2]: <../ingredients/dal.md>
-

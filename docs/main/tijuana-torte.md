@@ -4,7 +4,7 @@ tags:
 
   - mexican
   - recipe-box
-hero: assets/images/tijuana-torte.jpg
+hero: assets/images/tijuana-torte.webp
 ---
 
 # :pie: Tijuana Torte
@@ -17,14 +17,14 @@ hero: assets/images/tijuana-torte.jpg
 
 ## :salt: Ingredients
 
-- :cut_of_meat: 1 pkg meatless ground beef
-- :onion: 1 medium onion
+- :apple: 1 pkg meatless ground beef
+- :tea: 1 medium onion
 - :tomato: 1 1-lb can tomatoes
-- :tomato: 1 can tomato sauce
-- :bell_pepper: 1 can chopped green chili peppers
-- :taco: 1 pkg [taco seasoning][2]
-- :olive: 1 small can sliced black olives
-- :flatbread: 1 pkg corn tortillas
+- :apple: 1 can tomato sauce
+- :hot_pepper: 1 can chopped green chili peppers
+- 1 pkg [taco seasoning][2]
+- :burrito: 1 small can sliced black olives
+- :bread: 1 pkg corn tortillas
 - :cheese_wedge: 1 lb Cheddar cheese
 
 ## :cooking: Cookware
@@ -67,5 +67,5 @@ Bake for 20 to 25 minutes.
 - Proctor Junior Troop - Toni Wilkerson
 - Recipe Box
 
-[1]: <../assets/images/tijuana-torte.jpg>
+[1]: <../assets/images/tijuana-torte.webp>
 [2]: <../ingredients/seasonings/taco-seasoning.md>

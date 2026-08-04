@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/breton-butter-bake.jpg
+hero: assets/images/breton-butter-bake.webp
 ---
 
 # :butter: Breton Butter Bake
@@ -18,18 +18,18 @@ hero: assets/images/breton-butter-bake.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 cup (227 g) unsalted European butter
+- :hot_pepper: 1 cup (226 g) unsalted European butter
 - :candy: 200 g granulated sugar
-- :egg: 5 egg yolks
-- :tumbler_glass: 2 Tbsp dark rum or orange flower water
-- :ear_of_rice: 120 g all-purpose flour
-- :ear_of_rice: 120 g cake flour
-- :dash: 1 tsp baking powder
+- :baby_bottle: 5 egg yolks
+- :tangerine: 2 Tbsp (27 g) dark rum or orange flower water
+- :bread: 120 g all-purpose flour
+- :bread: 120 g cake flour
+- :chestnut: 1 tsp baking powder
 - :salt: 0.5 tsp salt
 - :egg: 1 large egg
-- :glass_of_milk: 1 Tbsp milk
-- :rice: some [crème fraiche][2]
-- :strawberry: 0.75 cup [jam][3] (optional)
+- :glass_of_milk: 1 Tbsp (14 g) milk
+- some [crème fraiche][2]
+- :leafy_green: 0.75 cup [jam][3] (optional)
 
 ## :cooking: Cookware
 
@@ -90,6 +90,6 @@ slice the cake while still warm. The cake can be eaten warm or at room temperatu
 
 - Gateau: The Surprising Simplicity of French Cakes
 
-[1]: <../../assets/images/breton-butter-bake.jpg>
+[1]: <../../assets/images/breton-butter-bake.webp>
 [2]: <../../ingredients/crème-fraîche.md>
 [3]: <../../sauces-and-dressings/sweet-sauces/single-jar-of-fruit-jam.md>

@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/josh-elkin's-mushroom-toast.jpg
+hero: assets/images/josh-elkin's-mushroom-toast.webp
 ---
 
-# Josh Elkin's Mushroom Toast
+# :butter: Josh Elkin's Mushroom Toast
 
-![Josh Elkin's Mushroom Toast](../../assets/images/josh-elkin's-mushroom-toast.jpg){ loading=lazy }
+![Josh Elkin's Mushroom Toast](../../assets/images/josh-elkin's-mushroom-toast.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,20 +18,20 @@ hero: assets/images/josh-elkin's-mushroom-toast.jpg
 ## :salt: Ingredients
 
 - :butter: 0.25 cup Butter
-- :olive: 1 Tbsp olive oil
-- :garlic: 1 cup sliced shallots
+- :olive: 1 Tbsp (12 g) olive oil
+- 1 cup (156 g) sliced shallots
 - :garlic: 2 cloves garlic
-- 2 cups porcini mushrooms
+- :mushroom: 2 cups (156 g) porcini mushrooms
 - :salt: some salt
 - :salt: some pepper
-- 2 Tbsp thyme
-- 4 thick slices crusty bread
-- 1 cup mascarpone cheese
+- :herb: 2 Tbsp thyme
+- :monkey_face: 4 thick slices crusty bread
+- :cheese_wedge: 1 cup (227 g) mascarpone cheese
 - :salt: some salt
 - :salt: some pepper
-- 2 Tbsp thyme
+- :herb: 2 Tbsp thyme
 - :salt: some flaky salt
-- 2 Tbsp Parmesan
+- :cheese_wedge: 2 Tbsp (12 g) Parmesan
 
 ## :cooking: Cookware
 

@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/magic-cookie-bars.jpg
+hero: assets/images/magic-cookie-bars.webp
 ---
 
 # :magic_wand: Magic Cookie Bars
@@ -17,12 +17,12 @@ hero: assets/images/magic-cookie-bars.jpg
 
 ## :salt: Ingredients
 
-- :honey_pot: 1.5 cups (504 g) graham cracker crumbs
-- :butter: 0.5 cup (114 g) unsalted butter
+- :bread: 1.5 cups (148 g) graham cracker crumbs
+- :butter: 0.5 cup (113 g) unsalted butter
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][2]
-- :chocolate_bar: 2 cups (340 g) semisweet chocolate chips
-- :coconut: 1.33 cups flaked coconut
-- :chestnut: 1 cup chopped nuts (optional)
+- :bread: 2 cups (340 g) semisweet chocolate chips
+- :takeout_box: 1.33 cups (170 g) flaked coconut
+- :apple: 1 cup (120 g) chopped nuts (optional)
 
 ## :cooking: Cookware
 
@@ -55,5 +55,5 @@ Bake in the preheated oven until lightly browned, about 25 minutes. Cool complet
 
 - <https://www.allrecipes.com/recipe/63959/magic-cookie-bars-from-eagle-brand/>
 
-[1]: <../assets/images/magic-cookie-bars.jpg>
+[1]: <../assets/images/magic-cookie-bars.webp>
 [2]: <../ingredients/sweetened-condensed-milk.md>

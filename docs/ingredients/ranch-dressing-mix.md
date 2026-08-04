@@ -4,12 +4,12 @@ tags:
 
   - mix
   - ingredient
-hero: assets/images/ranch-dressing-mix.jpg
+hero: assets/images/ranch-dressing-mix.webp
 ---
 
-# Ranch Dressing Mix
+# :butter: Ranch Dressing Mix
 
-![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.jpg){ loading=lazy }
+![Ranch Dressing Mix](../assets/images/ranch-dressing-mix.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/ranch-dressing-mix.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 cup dry buttermilk
-- :herb: 2.5 Tbsp dried parsley
-- :herb: 2 Tbsp dried chives
-- :seedling: 2 tsp dried dill
+- :candy: 1 cup (170 g) dry [buttermilk](buttermilk.md)
+- :herb: 2.5 Tbsp (22 g) dried parsley
+- :apple: 2 Tbsp (5 g) dried chives
+- :herb: 2 tsp (6 g) dried dill
 - :garlic: 2.5 tsp garlic powder
-- :onion: 1.5 tsp onion powder
-- :onion: 1.5 tsp dried onion flakes
+- :chestnut: 1.5 tsp (3 g) onion powder
+- :tea: 1.5 tsp (3 g) dried onion flakes
 - :salt: 2 tsp salt
-- :salt: 0.5 tsp black pepper
-- :bell_pepper: 0.5 tsp paprika
+- :salt: 0.5 tsp (2 g) black pepper
+- :candy: 0.5 tsp paprika
 - :hot_pepper: 0.25 tsp cayenne
 
 ## :cooking: Cookware
@@ -41,7 +41,7 @@ hero: assets/images/ranch-dressing-mix.jpg
 
 ### Step 1
 
-In a mixing bowl; measure and add in the dry buttermilk with dried parsley dried chives, dried dill, garlic powder,
+In a mixing bowl; measure and add in the dry [buttermilk](buttermilk.md) with dried parsley dried chives, dried dill, garlic powder,
 onion powder, dried onion flakes, salt, black pepper, paprika, and cayenne whisking to combine.
 
 ### Step 2

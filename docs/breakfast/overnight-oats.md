@@ -4,12 +4,12 @@ tags:
 
   - overnight-oats
   - breakfast
-hero: assets/images/overnight-oats.jpg
+hero: assets/images/overnight-oats.webp
 ---
 
 # :ear_of_rice: Overnight Oats
 
-![Overnight Oats](../assets/images/overnight-oats.jpg){ loading=lazy }
+![Overnight Oats](../assets/images/overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,22 +17,23 @@ hero: assets/images/overnight-oats.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup old fashioned rolled oats
-- :seedling: 1 Tbsp chia seeds
-- :chestnut: 0.5 cup almond or coconut milk
+=== ":ear_of_rice: 0.5 cup old fashioned rolled oats"
 
-## :salt: Ingredients - Optional Add-Ins
+    - :seedling: 1 Tbsp (9 g) chia seeds
+    - :coconut: 0.5 cup (57 g) almond or coconut milk
 
-- :chestnut: some chopped nuts (almonds, walnuts, pistachios, pecans, etc.)
-- :butter: some nut butters (peanut butter, almond butter, etc.)
-- :peach: some dried fruits
-- :banana: some fresh fruit
-- :custard: - some cinnamon
-- :icecream: some vanilla
-- :chocolate_bar: some cocoa powder
-- :coconut: some unsweetened dried coconut flakes
-- :apple: some unsweetened applesauce
-- :jack_o_lantern: some canned pumpkin
+=== "Optional Add-Ins"
+
+    - :chestnut: some chopped nuts (almonds, walnuts, pistachios, pecans, etc.)
+    - :chestnut: some nut butters (peanut butter, almond butter, etc.)
+    - :apple: some dried fruits
+    - :herb: some fresh fruit
+    - :chestnut: - some cinnamon
+    - :flower_playing_cards: some vanilla
+    - :chocolate_bar: some cocoa powder
+    - :hot_pepper: some unsweetened dried coconut flakes
+    - :chocolate_bar: some unsweetened applesauce
+    - :melon: some canned pumpkin
 
 ## :pencil: Instructions
 
@@ -51,6 +52,10 @@ least 3 hours before enjoying.
 
     The possibilities for flavor combinations are endless! For extra convenience, make enough servings for the whole
     week & store in the refrigerator until ready to enjoy.
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Source
 

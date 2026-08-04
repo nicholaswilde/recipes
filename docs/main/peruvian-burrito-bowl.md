@@ -4,41 +4,43 @@ tags:
 
   - bowl
   - main
-hero: assets/images/peruvian-burrito-bowl.jpg
+hero: assets/images/peruvian-burrito-bowl.webp
 ---
 
 # :stuffed_flatbread: Peruvian Burrito Bowl
 
-![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.jpg){ loading=lazy }
+![Peruvian Burrito Bowl](../assets/images/peruvian-burrito-bowl.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 45 minutes |
 
-## :salt: Ingredients - Aji Verde Sauce
+## :salt: Ingredients
 
-- :hot_pepper: 3 jalapeños
-- :herb: 1 cup cilantro
-- :garlic: 2 cloves garlic
-- :baby_bottle: 0.5 cup mayonnaise
-- :baby_bottle: 0.25 cup sour cream
-- :lemon: 1 Tbsp lime juice
-- :olive: 2 Tbsp olive oil
-- :salt: 0.5 tsp salt
-- :salt: 0.25 tsp black pepper
+=== "Aji Verde Sauce"
 
-## :salt: Ingredients - Burrito Bowl
+    - 3 jalapeños
+    - :herb: 1 cup (42 g) cilantro
+    - :garlic: 2 cloves garlic
+    - :baby_bottle: 0.5 cup (113 g) mayonnaise
+    - :glass_of_milk: 0.25 cup (57 g) sour cream
+    - :tangerine: 1 Tbsp (14 g) lime juice
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :salt: 0.5 tsp salt
+    - :salt: 0.25 tsp (1 g) black pepper
 
-- :ear_of_rice: 1 cup quinoa
-- :droplet: 2 cups water
-- :canned_food: 1 can refried [black beans][1]
-- :sweet_potato: 2 lb sweet potatoes
-- :olive: 2 Tbsp olive oil
-- :avocado: 1 avocado
-- :tomato: 2 tomatoes
-- :herb: some cilantro
-- :seedling: some pumpkin seeds
-- :seedling: some sunflower sprouts
+=== "Burrito Bowl"
+
+    - :ear_of_rice: 1 cup (110 g) quinoa
+    - :droplet: 2 cups (454 g) water
+    - 1 can refried [black beans][1]
+    - :corn: 2 lb sweet potatoes
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :avocado: 1 avocado
+    - :tomato: 2 tomatoes
+    - :herb: some cilantro
+    - :seedling: some pumpkin seeds
+    - :leafy_green: some sunflower sprouts
 
 ## :cooking: Cookware
 

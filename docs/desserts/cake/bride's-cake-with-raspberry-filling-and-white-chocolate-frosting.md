@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - the-cake-mix-doctor
-hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg
+hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.webp
 ---
 
 # :cake: Bride's Cake with Raspberry Filling and White Chocolate Frosting
@@ -18,15 +18,15 @@ hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-fros
 
 ## :salt: Ingredients
 
-- :carrot: some solid vegetable shortening
-- :ear_of_rice: 18.25 oz plain white cake mix
-- :glass_of_milk: 1 cup whole milk
-- :butter: 8 Tbsp unsalted butter
+- :stew: some solid vegetable shortening
+- :bread: 18.25 oz (256 g) plain white cake mix
+- :glass_of_milk: 1 cup (227 g) whole milk
+- :butter: 8 Tbsp (113 g) unsalted butter
 - :egg: 3 eggs
-- :icecream: 2 tsp vanilla
-- :cake: 1 [White Chocolate Frosting][2]
-- :strawberry: 0.25 cup seedless raspberry jam
-- :strawberry: 1 cup fresh raspberries
+- :flower_playing_cards: 2 tsp vanilla
+- :chestnut: 1 [White Chocolate Frosting][2]
+- :apple: 0.25 cup (85 g) seedless raspberry jam
+- :apple: 1 cup (120 g) fresh raspberries
 
 ## :cooking: Cookware
 
@@ -78,5 +78,5 @@ Garnish the cake with the fresh raspberries. Slice and serve.
 
 - The Cake Mix Doctor
 
-[1]: <../../assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.jpg>
+[1]: <../../assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.webp>
 [2]: <../../ingredients/frosting/white-chocolate-frosting.md>

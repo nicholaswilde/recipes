@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/broccoli-salad.jpg
+hero: assets/images/broccoli-salad.webp
 ---
 
 # :broccoli: Broccoli Salad
@@ -17,12 +17,12 @@ hero: assets/images/broccoli-salad.jpg
 ## :salt: Ingredients
 
 - :broccoli: 1 lb broccoli
-- :onion: 1 medium red onion
-- :cheese_wedge: 1 cup cheddar cheese
+- :tea: 1 medium red onion
+- :cheese_wedge: 1 cup (114 g) cheddar cheese
 - :bacon: 6 strips bacon
-- :sunflower: 0.5 cup sunflower seeds (optional)
-- :grapes: 0.5 cup raisins (optional)
-- :rice: 1 broccoli salad dressing
+- :seedling: 0.5 cup (70 g) sunflower seeds (optional)
+- :leafy_green: 0.5 cup (85 g) raisins (optional)
+- :green_salad: 1 broccoli salad dressing
 
 ## :cooking: Cookware
 
@@ -54,4 +54,4 @@ Serve the same day.
 
 - The Essential Mormon Cookbook
 
-[1]: <../assets/images/broccoli-salad.jpg>
+[1]: <../assets/images/broccoli-salad.webp>

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - mexican
-hero: assets/images/nixtamal-nicoyan-corn-tortillas.jpg
+hero: assets/images/nixtamal-nicoyan-corn-tortillas.webp
 ---
 
 # :flatbread: Nixtamal Nicoyan Corn Tortillas
 
-![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.jpg){ loading=lazy }
+![Nixtamal Nicoyan Corn Tortillas](../assets/images/nixtamal-nicoyan-corn-tortillas.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/nixtamal-nicoyan-corn-tortillas.jpg
 
 ## :salt: Ingredients
 
-- :corn: 2 cups masa harina
+- 2 cups (186 g) masa harina
 - :salt: 1 tsp salt
-- :cup_with_straw: 0.25 tsp baking soda
-- :hotsprings: 1.5 cups warm water
+- :chestnut: 0.25 tsp baking soda
+- :droplet: 1.5 cups (340 g) warm water
 
 ## :cooking: Cookware
 

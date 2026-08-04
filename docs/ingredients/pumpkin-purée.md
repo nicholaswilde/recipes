@@ -4,12 +4,12 @@ tags:
 
   - puree
   - ingredient
-hero: assets/images/pumpkin-purée.jpg
+hero: assets/images/pumpkin-purée.webp
 ---
 
 # :jack_o_lantern: Pumpkin Purée
 
-![Pumpkin Purée](../assets/images/pumpkin-purée.jpg){ loading=lazy }
+![Pumpkin Purée](../assets/images/pumpkin-purée.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

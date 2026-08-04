@@ -8,6 +8,10 @@
 4. **High Code Coverage:** Aim for >80% code coverage for all modules
 5. **User Experience First:** Every decision should prioritize user experience
 6. **Non-Interactive & CI-Aware:** Prefer non-interactive commands. Use `CI=true` for watch-mode tools (tests, linters) to ensure single execution.
+7. **Consult the Scripts Registry:** Before implementing manual edits, imports, relocations, formatting, or
+   checks, agents must read the scripts registry ([scripts-registry.md](file:///.agents/skills/scripts-registry.md))
+   to see if there are automated scripts available to handle the task.
+
 
 ## Task Workflow
 
@@ -361,6 +365,9 @@ A task is complete when:
 - **Link Checking:** `task linkcheck` (uses `markdown-link-check`).
     - **Note:** DO NOT run `task linkcheck` project-wide as it takes a long time to check links in all files. Only use targeted link checks if necessary.
 - **Recipe Management:** Recipes are stored in `cook/` as `.cook` files and must be organized by category in subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`). There are scripts to manage these, such as `scripts/commit.sh` and `scripts/move.sh`.
+- **Scripts Registry:** When creating any new helper, automation, or utility scripts in `scripts/`, you must
+  update the project scripts registry ([scripts-registry.md](file:///.agents/skills/scripts-registry.md)) to
+  document their purpose, protocols, commands, and options.
 - **Markdown Formatting:** Specific formatting for images (`add-lazy-loading`) and temperatures (`deg`) is applied using `sed`.
 - **Front Matter:** Markdown files use front matter for metadata like comments and tags.
 - **Dependencies:** Python dependencies for Zensical are managed via `pip install` in the CI workflow. `spellchecker-cli` is installed globally via `npm install`.
@@ -372,7 +379,7 @@ A task is complete when:
 ## Recipe Import Process
 
 1. **Find/Scrape the Recipe:**
-    - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed.
+    - Use `manage_recipes(action='search', query='...')` to find a high-quality source if needed. When searching, ensure recipes are lacto-ovo vegetarian and have a highly rated Bayesian score.
     - Use `manage_recipes(action='format', format_type='cooklang', urls=[...])` to generate the initial `.cook` file content from a URL.
     - **Image/PDF Sources:** If the recipe is provided via an image or PDF (e.g., provided in a GitHub issue via an image link), download the image to a temporary file and use `tesseract <image_path> -` to extract the text. Use the extracted text to create the recipe.
     - **Pancake Princess:** If there is a "Pancake Princess" link in the source issue, include that link as an additional reference in the `## :link: Source` section of the generated Markdown recipe page.

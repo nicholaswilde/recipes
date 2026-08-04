@@ -4,7 +4,7 @@ tags:
 
   - side
   - jamie-oliver
-hero: assets/images/balsamic-dressed-cucumber-with-olives.jpg
+hero: assets/images/balsamic-dressed-cucumber-with-olives.webp
 ---
 
 # :cucumber: Balsamic-Dressed Cucumber with Olives
@@ -19,13 +19,13 @@ hero: assets/images/balsamic-dressed-cucumber-with-olives.jpg
 
 - :cucumber: 2 cucumber
 - :olive: 10 black olives
-- :seedling: 3 spring onions
-- :hot_pepper: 0.5 red chili (optional)
-- :sake: 2 Tbsp balsamic vinegar
-- :olive: 4 Tbsp olive oil
-- :lemon: 0.5 lemon
+- :tea: 3 spring onions
+- :leafy_green: 0.5 red chili (optional)
+- :wine_glass: 2 Tbsp balsamic vinegar
+- :olive: 4 Tbsp (50 g) olive oil
+- :tangerine: 0.5 lemon
 - :salt: some black pepper
-- :herb: 6 sprigs mint
+- :shamrock: 6 sprigs mint
 
 ## :cooking: Cookware
 
@@ -88,4 +88,4 @@ Pick and tear over the mint leaves, toss everything together, then serve.
 
 - <https://www.jamieoliver.com/recipes/vegetables-recipes/balsamic-dressed-cucumber-with-olives/>
 
-[1]: <../../assets/images/balsamic-dressed-cucumber-with-olives.jpg>
+[1]: <../../assets/images/balsamic-dressed-cucumber-with-olives.webp>

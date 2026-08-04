@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-pretzels.jpg
+hero: assets/images/sourdough-pretzels.webp
 ---
 
 # :pretzel: Sourdough Pretzels
@@ -15,25 +15,27 @@ hero: assets/images/sourdough-pretzels.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 | 2.53 hours |
 
-## :salt: Ingredients - Pretzels
+## :salt: Ingredients
 
-- :droplet: 198 g water
-- :microbe: 227 g [sourdough starter][2]
-- :ear_of_rice: 360 g bread flour
-- :glass_of_milk: 28 g dry milk
-- :candy: 14 g granulated sugar
-- :ear_of_rice: 18 g non-diastatic malt powder (alternative)
-- :butter: 1 Tbsp unsalted butter or vegetable oil
-- :salt: 9 g salt
-- :microbe: 2 tsp instant yeast
+=== "Pretzels"
 
-## :salt: Ingredients - Topping
+    - :droplet: 198 g water
+    - 227 g [sourdough starter][2]
+    - :bread: 360 g bread flour
+    - :glass_of_milk: 28 g dry milk
+    - :candy: 14 g granulated sugar
+    - :chocolate_bar: 18 g non-diastatic malt powder (alternative)
+    - :baby_bottle: 1 Tbsp (14 g) unsalted butter or vegetable oil
+    - :salt: 9 g salt
+    - :tea: 2 tsp (6 g) instant yeast
 
-- :candy: 14 g granulated sugar
-- :ear_of_rice: 18 g non-diastatic malt powder (alternative)
-- :droplet: 28 g water
-- :salt: some pretzel salt
-- :butter: 28 g melted unsalted butter
+=== "Topping"
+
+    - :candy: 14 g granulated sugar
+    - :chocolate_bar: 18 g non-diastatic malt powder (alternative)
+    - :droplet: 28 g water
+    - :salt: some pretzel salt
+    - :baby_bottle: 28 g melted unsalted butter
 
 ## :cooking: Cookware
 
@@ -95,5 +97,5 @@ Remove the pretzels from the oven, and brush with melted butter.
 - <https://www.kingarthurbaking.com/recipes/sourdough-pretzels-recipe>
 - <https://www.kingarthurbaking.com/blog/2011/04/28/soft-scrumptious-and-sourdough-pretzels-from-your-discard-starter>
 
-[1]: <../assets/images/sourdough-pretzels.jpg>
+[1]: <../assets/images/sourdough-pretzels.webp>
 [2]: <../ingredients/sourdough-starter.md>

@@ -3,12 +3,12 @@ comments: true
 tags:
   - dessert
   - holiday
-hero: assets/images/chocolate-peanut-clusters.jpg
+hero: assets/images/chocolate-peanut-clusters.webp
 ---
 
 # :chocolate_bar: Chocolate-Peanut Clusters
 
-![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.jpg){ loading=lazy }
+![Chocolate-Peanut Clusters](../assets/images/chocolate-peanut-clusters.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/chocolate-peanut-clusters.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 1 bag semi-sweet chocolate chips
-- :peanuts: 1 bag peanut-butter chips
-- :peanuts: 1 can skinless salted peanuts
+- :chestnut: 1 bag semi-sweet chocolate chips
+- :chestnut: 1 bag peanut-butter chips
+- :chestnut: 1 can skinless salted peanuts
 
 ## :cooking: Cookware
 

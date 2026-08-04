@@ -5,7 +5,7 @@ tags:
   - bread
   - cooks-illustrated
   - sourdough
-hero: assets/images/almost-no-knead-sourdough-bread.jpg
+hero: assets/images/almost-no-knead-sourdough-bread.webp
 ---
 
 # :bread: Almost No-Knead Sourdough Bread
@@ -18,10 +18,10 @@ hero: assets/images/almost-no-knead-sourdough-bread.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 520 g bread flour
+- :bread: 520 g bread flour
 - :salt: 1.75 tsp salt
-- :droplet: 360 g room-temperature water
-- :microbe: 85 g [starter][2]
+- :baby_bottle: 360 g room-temperature water
+- 85 g [starter][2]
 
 ## :cooking: Cookware
 
@@ -92,5 +92,5 @@ Remove from pot and rest and cool for 2 hours before serving.
 
 - Cook's Illustrated
 
-[1]: <../assets/images/almost-no-knead-sourdough-bread.jpg>
+[1]: <../assets/images/almost-no-knead-sourdough-bread.webp>
 [2]: <../ingredients/sourdough-starter.md>

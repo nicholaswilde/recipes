@@ -4,7 +4,7 @@ tags:
 
   - bread
   - bake-off
-hero: assets/images/sweet-cornbread.jpg
+hero: assets/images/sweet-cornbread.webp
 ---
 
 # :corn: Sweet Cornbread
@@ -17,15 +17,15 @@ hero: assets/images/sweet-cornbread.jpg
 
 ## :salt: Ingredients
 
-- :corn: 85 g cornmeal
-- :ear_of_rice: 213 g all-purpose flour
+- :ear_of_rice: 85 g cornmeal
+- :bread: 213 g all-purpose flour
 - :candy: 141 g granulated sugar
-- :dash: 1 Tbsp baking powder
+- :chestnut: 1 Tbsp baking powder
 - :salt: 0.5 tsp salt
-- :oil_drum: 0.33 cup oil
+- :olive: 0.33 cup (66 g) oil
 - :butter: 42 g unsalted butter
 - :egg: 2 large eggs
-- :glass_of_milk: 1.25 cups milk
+- :glass_of_milk: 1.25 cups (284 g) milk
 
 ## :cooking: Cookware
 
@@ -56,4 +56,4 @@ out clean or with a few moist crumbs.
 - <https://www.melskitchencafe.com/the-cornbread-and-fluffy-honey-butter/>
 - <https://www.thepancakeprincess.com/2019/11/24/best-sweet-cornbread-bake-off/>
 
-[1]: <../assets/images/sweet-cornbread.jpg>
+[1]: <../assets/images/sweet-cornbread.webp>

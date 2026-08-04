@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - dominique-ansel
-hero: assets/images/chocolate-biscuit.jpg
+hero: assets/images/chocolate-biscuit.webp
 ---
 
 # :cake: Chocolate Biscuit
 
-![Chocolate Biscuit](../../assets/images/chocolate-biscuit.jpg){ loading=lazy }
+![Chocolate Biscuit](../../assets/images/chocolate-biscuit.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -21,7 +21,7 @@ hero: assets/images/chocolate-biscuit.jpg
 - :candy: 176 g granulated sugar
 - :egg: 319 g (11) egg whites
 - :candy: 176 g granulated sugar
-- :egg: 226 g (11) egg yolks
+- :baby_bottle: 226 g (11) egg yolks
 - :chocolate_bar: 102 g unsweetened cocoa powder
 
 ## :cooking: Cookware

@@ -4,12 +4,12 @@ tags:
   - soups-and-stews
 comments: true
 
-hero: assets/images/chickenless-sausage-and-lentil-soup.jpg
+hero: assets/images/chickenless-sausage-and-lentil-soup.webp
 ---
 
 # :stew: Chickenless Sausage and Lentil Soup
 
-![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.jpg){ loading=lazy }
+![Chickenless Sausage and Lentil Soup](../assets/images/chickenless-sausage-and-lentil-soup.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,14 +17,14 @@ hero: assets/images/chickenless-sausage-and-lentil-soup.jpg
 
 ## :salt: Ingredients
 
-- :onion: 1 yellow onion
-- :cucumber: 2 zucchini
+- :tea: 1 yellow onion
+- 2 zucchini
 - :salt: some salt
-- :hotdog: 1 pkg TJ's Italian sausage-less sausage
-- :tomato: 1 14-oz can tomatoes
-- :curry: 1 cup red lentils
-- :stew: 4 cups [vegetable broth][1]
-- :lemon: some lemon wedges
+- :baby_bottle: 1 pkg TJ's Italian sausage-less sausage
+- :glass_of_milk: 1 14-oz can tomatoes
+- :beans: 1 cup (210 g) red lentils
+- 4 cups [vegetable broth][1]
+- :tangerine: some lemon wedges
 - :herb: some fresh herbs
 
 ## :cooking: Cookware

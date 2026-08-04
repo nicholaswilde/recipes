@@ -5,12 +5,12 @@ tags:
   - cooks-illustrated
   - lunch
   - sandwich
-hero: assets/images/grilled-tomato-sandwich.jpg
+hero: assets/images/grilled-tomato-sandwich.webp
 ---
 
 # :sandwich: Grilled Tomato Sandwich
 
-![Grilled Tomato Sandwich](../assets/images/grilled-tomato-sandwich.jpg){ loading=lazy }
+![Grilled Tomato Sandwich](../assets/images/grilled-tomato-sandwich.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/grilled-tomato-sandwich.jpg
 
 ## :salt: Ingredients
 
-- :rice: 0.75 tsp cream of tartar
+- :glass_of_milk: 0.75 tsp (4 g) cream of tartar
 - :salt: 0.75 tsp salt
-- :candy: 0.5 tsp granulated sugar
+- :candy: 0.5 tsp (2 g) granulated sugar
 - :salt: 0.25 tsp pepper
 - :tomato: 2 4-inch field or heirloom tomato
-- :egg: 8 tsp [mayonnaise][1]
-- :bread: 4 slices hearty white sandwich bread
+- 8 tsp [mayonnaise][1]
+- :beans: 4 slices hearty white sandwich bread
 
 ## :cooking: Cookware
 

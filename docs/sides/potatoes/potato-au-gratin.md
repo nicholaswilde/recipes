@@ -4,12 +4,12 @@ tags:
 
   - side
   - jean-pierre
-hero: assets/images/potato-au-gratin.jpg
+hero: assets/images/potato-au-gratin.webp
 ---
 
 # :potato: Potato Au Gratin
 
-![Potato Au Gratin](../../assets/images/potato-au-gratin.jpg){ loading=lazy }
+![Potato Au Gratin](../../assets/images/potato-au-gratin.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,15 +17,15 @@ hero: assets/images/potato-au-gratin.jpg
 
 ## :salt: Ingredients
 
-- :potato: 4 lbs Yukon gold potatoes
-- :icecream: 4 cups heavy cream
-- :chestnut: 1 tsp nutmeg
+- :sweet_potato: 4 lbs Yukon gold potatoes
+- :glass_of_milk: 4 cups (908 g) heavy cream
+- :apple: 1 tsp nutmeg
 - :garlic: 8 cloves garlic
 - :salt: some salt
 - :salt: some pepper
-- :cheese_wedge: 4 oz cheddar
-- :cheese_wedge: 4 oz Gruyere
-- :cheese_wedge: 2 oz Mozzarella
+- :cheese_wedge: 4 oz (57 g) cheddar
+- 4 oz Gruyere
+- :cheese_wedge: 2 oz (28 g) Mozzarella
 - :butter: some butter
 
 ## :cooking: Cookware

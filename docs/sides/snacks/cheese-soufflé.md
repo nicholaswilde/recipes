@@ -4,12 +4,12 @@ tags:
 
   - side
   - gordon-ramsay
-hero: assets/images/cheese-soufflé.jpg
+hero: assets/images/cheese-soufflé.webp
 ---
 
 # :cheese_wedge: Cheese Soufflé
 
-![Cheese Soufflé](../../assets/images/cheese-soufflé.jpg){ loading=lazy }
+![Cheese Soufflé](../../assets/images/cheese-soufflé.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:------------------------:|
@@ -55,7 +55,7 @@ and mustard powder. Bring to room temperature before continuing.
 
 ### Step 3
 
-Brush a soufflé dish (7"  x 3") with remaining 2 tablespoons of butter using upward strokes. Coat base and sides with
+Brush a soufflé dish (7" x 3") with remaining 2 tablespoons of butter using upward strokes. Coat base and sides with
 remaining Parmesan cheese and freshly ground black pepper. Chill to set. Cut Gruyère into diamond shapes.
 
 ### Step 4

@@ -4,7 +4,7 @@ tags:
 
   - dip
   - persian
-hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg
+hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).webp
 ---
 
 # :onion: Persian Yogurt Dip with Shallots (Mast-O Musir)
@@ -17,13 +17,13 @@ hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg
 
 ## :salt: Ingredients
 
-- :onion: 0.5 cup dried Persian shallots
-- :ice_cube: some cold water
-- :rice: 2 cups Greek yogurt
+- :herb: 0.5 cup (56 g) dried Persian shallots
+- :baby_bottle: some cold water
+- :glass_of_milk: 2 cups (454 g) Greek yogurt
 - :salt: 0.5 tsp salt
 - :salt: 0.25 tsp pepper
 - :herb: 2 Tbsp mint (optional)
-- :rose: 2 tsp rose petals (optional)
+- :apple: 2 tsp rose petals (optional)
 - :olive: some olive oil (optional)
 
 ## :pencil: Instructions
@@ -53,4 +53,4 @@ Garnish with rose petals (optional), fresh mint leaves and a drizzle of olive oi
 
 - <https://www.thedeliciouscrescent.com/persian-yogurt-dip-with-shallots/>
 
-[1]: <../../assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).jpg>
+[1]: <../../assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).webp>

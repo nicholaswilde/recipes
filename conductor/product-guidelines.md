@@ -37,6 +37,11 @@
 - **Spelling:** All content must pass the project's spellcheck process.
 - **Links:** Verify external links as needed, but avoid project-wide link checks (e.g., `task linkcheck`) as they are excessively slow.
 
+## Recipe Search and Selection
+
+- **Dietary Restriction:** When searching for recipes to add to the collection, they must be lacto-ovo vegetarian (no meat, poultry, fish, or seafood; dairy and eggs are permitted).
+- **Quality Ranking:** Recipes must be evaluated and ranked using a Bayesian average rating formula (e.g., using the `rank-recipes-bayesian` skill or the `scripts/rank_recipes_bayesian.py` script) to prioritize highly rated recipes with a significant number of reviews.
+
 ## Cooklang Specification
 
 Recipes in this project are written using the [Cooklang](https://cooklang.org/docs/spec/) specification. Here is a quick reference for creating `.cook` files:

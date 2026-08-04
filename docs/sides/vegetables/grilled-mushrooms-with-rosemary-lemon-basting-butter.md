@@ -4,7 +4,7 @@ tags:
 
   - side
   - cooks-illustrated
-hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg
+hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.webp
 ---
 
 # :mushroom: Grilled Mushrooms with Rosemary-Lemon Basting Butter
@@ -19,12 +19,12 @@ hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg
 
 - :mushroom: 1 lb white, cremini, shiitake, portobello, oyster, maitake, and/or king oyster mushrooms
 - :butter: 4 Tbsp butter
-- :takeout_box: 1 Tbsp soy sauce
+- :takeout_box: 1 Tbsp (9 g) soy sauce
 - :herb: 2 tsp rosemary
 - :garlic: 1 tsp garlic
-- :lemon: 1 tsp lemon zest
+- :tangerine: 1 tsp (5 g) lemon zest
 - :salt: 1 tsp pepper
-- :oil_drum: 0.5 tsp vegetable oil
+- :olive: 0.5 tsp (2 g) vegetable oil
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
@@ -82,4 +82,4 @@ with salt and pepper to taste, and serve.
 
 - <https://www.cooksillustrated.com/recipes/15040-grilled-mushrooms-with-rosemary-lemon-basting-butter>
 
-[1]: <../../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.jpg>
+[1]: <../../assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.webp>

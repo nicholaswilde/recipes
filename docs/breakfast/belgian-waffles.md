@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
-hero: assets/images/belgian-waffles.jpg
+hero: assets/images/belgian-waffles.webp
 ---
 
 # :waffle: Belgian Waffles
@@ -17,15 +17,15 @@ hero: assets/images/belgian-waffles.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 3 cups warm milk
-- :microbe: 2.25 tsp active dry yeast
+- :droplet: 3 cups (681 g) warm milk
+- :tea: 2.25 tsp (3 g) active dry yeast
 - :butter: 170 g unsalted butter
 - :candy: 99 g sugar
-- :egg: 3 egg yolks
-- :icecream: 2 tsp vanilla
+- :baby_bottle: 3 egg yolks
+- :flower_playing_cards: 2 tsp vanilla
 - :salt: 1.5 tsp salt
-- :ear_of_rice: 480 g all-purpose flour
-- :egg: 3 egg whites
+- :bread: 480 g all-purpose flour
+- :beans: 3 egg whites
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware
@@ -63,4 +63,4 @@ Cook and sprinkle with confectioners' sugar.
 
 - Joy of Cooking
 
-[1]: <../assets/images/belgian-waffles.jpg>
+[1]: <../assets/images/belgian-waffles.webp>

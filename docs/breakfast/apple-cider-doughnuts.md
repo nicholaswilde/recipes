@@ -6,7 +6,7 @@ tags:
   - claire-saffitz
   - bake-off
   - doughnuts
-hero: assets/images/apple-cider-doughnuts.jpg
+hero: assets/images/apple-cider-doughnuts.webp
 ---
 
 # :doughnut: Apple Cider Doughnuts
@@ -17,28 +17,30 @@ hero: assets/images/apple-cider-doughnuts.jpg
 |:----------------------------------:|:-----------------------: |
 | 10 | 3.50 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :green_apple: 485 g apple cider
-- :butter: 128 g [apple butter][2]
-- :rice: 113 g sour cream
-- :icecream: 2 tsp vanilla
-- :ear_of_rice: 455 g all-purpose flour
-- :salt: 1 tsp kosher salt
-- :dash: 2.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :custard: 1 tsp cinnamon
-- :chestnut: 0.13 tsp nutmeg
-- :maple_leaf: 53 g brown sugar
-- :candy: 50 g granulated sugar
-- :egg: 2 eggs
-- :butter: 56 g melted unsalted butter
+=== "Dough"
 
-## :salt: Ingredients - Coating
+    - :apple: 485 g apple cider
+    - 128 g [apple butter][2]
+    - :glass_of_milk: 113 g sour cream
+    - :flower_playing_cards: 2 tsp vanilla
+    - :bread: 455 g all-purpose flour
+    - :salt: 1 tsp kosher salt
+    - :chestnut: 2.5 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :apple: 0.13 tsp nutmeg
+    - :maple_leaf: 53 g brown sugar
+    - :candy: 50 g granulated sugar
+    - :egg: 2 eggs
+    - :baby_bottle: 56 g melted unsalted butter
 
-- :candy: 198 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :oil_drum: some vegetable oil
+=== "Coating"
+
+    - :candy: 198 g granulated sugar
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :olive: some vegetable oil
 
 ## :cooking: Cookware
 
@@ -115,5 +117,5 @@ warm doughnuts and doughnut holes in cinnamon sugar.
 
 - <https://www.youtube.com/watch?v=dVCYAqcTvVc>
 
-[1]: <../assets/images/apple-cider-doughnuts.jpg>
+[1]: <../assets/images/apple-cider-doughnuts.webp>
 [2]: <../ingredients/apple-butter.md>

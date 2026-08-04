@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/meat-free-meat-loaf.jpg
+hero: assets/images/meat-free-meat-loaf.webp
 ---
-# Meat-Free Meat Loaf
+
+# :onion: Meat-Free Meat Loaf
 
 ![Meat-Free Meat Loaf][1]{ loading=lazy }
 
@@ -14,16 +15,16 @@ hero: assets/images/meat-free-meat-loaf.jpg
 
 ## :salt: Ingredients
 
-- :onion: 1 small onion
+- :tea: 1 small onion
 - :carrot: 1 small carrot
-- :chestnut: 0.5 cup (57 g) ground walnuts
-- :bread: 1 cup (113 g) bread crumbs
-- :beans: 1 cup (200 g) cooked brown [lentils][2]
-- :cheese_wedge: 0.25 cup (60 g) soft tofu
-- :seedling: 2 Tbsp [tahini][3]
-- :takeout_box: 1 Tbsp [soy sauce][4]
+- :chestnut: 0.5 cup (72 g) ground walnuts
+- :potato: 1 cup (112 g) bread crumbs
+- :apple: 1 cup (170 g) cooked brown [lentils][2]
+- :cheese_wedge: 0.25 cup soft tofu
+- 2 Tbsp [tahini][3]
+- 1 Tbsp [soy sauce][4]
 - :herb: 1 Tbsp parsley
-- :cut_of_meat: 1 pkg TJ's soy meat
+- :takeout_box: 1 pkg TJ's soy meat
 - :salt: some salt
 - :salt: some pepper
 
@@ -80,8 +81,7 @@ Cover with foil and bake for 45 minutes.
 
 Remove foil and bake for 7 to 10 minutes more.
 
-[1]: <../assets/images/meat-free-meat-loaf.jpg>
+[1]: <../assets/images/meat-free-meat-loaf.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../sauces-and-dressings/dips-and-spreads/tahini.md>
 [4]: <../ingredients/soy-sauce.md>
-

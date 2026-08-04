@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/baguettes.jpg
+hero: assets/images/baguettes.webp
 ---
 
 # :baguette_bread: Baguettes
@@ -14,18 +14,20 @@ hero: assets/images/baguettes.jpg
 |:----------------------------------:|:-----------------------: |
 | 3 baguettes | 2.22 hours |
 
-## :salt: Ingredients - Starter
+## :salt: Ingredients
 
-- :droplet: 113 g water
-- :microbe: 0.06 tsp instant yeast
-- :ear_of_rice: 120 g all-purpose flour
+=== "Starter"
 
-## :salt: Ingredients - Dough
+    - :droplet: 113 g water
+    - :tea: 0.06 tsp instant yeast
+    - :bread: 120 g all-purpose flour
 
-- :droplet: 255 g water
-- :microbe: 1.5 tsp instant yeast
-- :ear_of_rice: 420 g all-purpose flour
-- :salt: 2 tsp salt
+=== "Dough"
+
+    - :droplet: 255 g water
+    - :tea: 1.5 tsp (4 g) instant yeast
+    - :bread: 420 g all-purpose flour
+    - :salt: 2 tsp salt
 
 ## :cooking: Cookware
 
@@ -136,4 +138,4 @@ just before serving.
 - <https://www.kingarthurbaking.com/recipes/classic-baguettes-recipe>
 - <https://www.youtube.com/watch?v=a8l5Qi43U3c>
 
-[1]: <../assets/images/baguettes.jpg>
+[1]: <../assets/images/baguettes.webp>

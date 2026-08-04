@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-ranchera.jpg
+hero: assets/images/salsa-ranchera.webp
 ---
 
 # :tomato: Salsa Ranchera
@@ -18,13 +18,13 @@ hero: assets/images/salsa-ranchera.jpg
 ## :salt: Ingredients
 
 - :tomato: 4 large tomatoes
-- :onion: 1 small onion
+- :tea: 1 small onion
 - :garlic: 2 cloves garlic
-- :bacon: 1 slice [coconut bacon][2]
-- :herb: 1 tsp fresh thyme
-- :sake: 1 tsp tamari soy sauce
-- :cactus: 0.5 tsp agave nectar
-- :hot_pepper: 0.5 tsp hot sauce
+- 1 slice [coconut bacon][2]
+- :apple: 1 tsp fresh thyme
+- :apple: 1 tsp (5 g) tamari soy sauce
+- 0.5 tsp (4 g) agave nectar
+- :droplet: 0.5 tsp (2 g) hot sauce
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware
@@ -64,5 +64,5 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-ranchera.jpg>
+[1]: <../../assets/images/salsa-ranchera.webp>
 [2]: <../../ingredients/coconut-bacon.md>

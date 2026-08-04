@@ -16,7 +16,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-jobs:     
+jobs:
   link-check:
     name: Link Check
     runs-on: ubuntu-22.04
@@ -24,9 +24,26 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v6
+        with:
+          fetch-depth: '0'
+
+      - name: Get changed files
+        id: changed-files
+        if: github.event_name == 'push' || github.event_name == 'pull_request'
+        uses: tj-actions/changed-files@v45
+        with:
+          files: |
+            docs/**/*.md
 
       - name: Check markdown links
         uses: lycheeverse/lychee-action@v2
+        if: >-
+          github.event_name == 'schedule' ||
+          github.event_name == 'workflow_dispatch' ||
+          steps.changed-files.outputs.any_changed == 'true'
         with:
-          args: docs/
+          args: >-
+            ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+                && 'docs/'
+                || steps.changed-files.outputs.all_modified_files }}
           fail: false

@@ -10,7 +10,7 @@ tags:
   - ginger
   - coconut
   - gluten-free
-hero: assets/images/ginger-carrot-soup.jpg
+hero: assets/images/ginger-carrot-soup.webp
 ---
 
 # :stew: Ginger Carrot Soup
@@ -24,13 +24,13 @@ hero: assets/images/ginger-carrot-soup.jpg
 ## :salt: Ingredients
 
 - :olive: 0.25 cup (50 g) extra-virgin olive oil
-- :carrot: 2 lbs (907 g) carrots
-- :onion: 1 large yellow onion
+- :carrot: 2 lbs carrots
+- :seedling: 1 large yellow onion
 - :sweet_potato: 1 3-inch piece fresh ginger
-- :sweet_potato: 2 tsp ground dried ginger
+- :sweet_potato: 2 tsp (6 g) ground dried ginger
 - :salt: some kosher salt
 - :coconut: 1 13.5-oz can full-fat coconut milk
-- :stew: 4 cups (907 g) vegetable broth
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :hot_pepper: some chili oil
 
 ## :cooking: Cookware
@@ -50,7 +50,7 @@ minutes.
 
 ### Step 2
 
-Add the full-fat coconut milk and vegetable broth. Bring to a boil, then lower the heat to a simmer and season to taste
+Add the full-fat coconut milk and [Vegetable Broth](../ingredients/vegetable-broth.md). Bring to a boil, then lower the heat to a simmer and season to taste
 with salt (the exact amount depends on how salty your broth is). Cover the pot and cook until the carrots are incredibly
 tender, about 20 minutes.
 
@@ -63,4 +63,4 @@ taste with salt and serve hot, topped with chili oil.
 
 - What Goes with What by Julia Turshen
 
-[1]: <../assets/images/ginger-carrot-soup.jpg>
+[1]: <../assets/images/ginger-carrot-soup.webp>

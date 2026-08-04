@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/vegan-zucchini-lasagna.jpg
+hero: assets/images/vegan-zucchini-lasagna.webp
 ---
-# Vegan Zucchini Lasagna
+
+# :chestnut: Vegan Zucchini Lasagna
 
 ![Vegan Zucchini Lasagna][1]{ loading=lazy }
 
@@ -14,18 +15,18 @@ hero: assets/images/vegan-zucchini-lasagna.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 3 cups (450 g) raw macadamia nuts or soaked blanched almonds
-- :cheese_wedge: 2 Tbsp nutritional yeast
-- :herb: 0.5 cup (20 g) fresh basil
+- :chestnut: 3 cups (447 g) raw macadamia nuts or soaked blanched almonds
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
+- :herb: 0.5 cup (21 g) fresh basil
 - :herb: 2 tsp oregano
 - :tangerine: 1 lemon
-- :olive: 1 Tbsp olive oil (optional)
+- :olive: 1 Tbsp (12 g) olive oil (optional)
 - :salt: 1 tsp salt
 - :salt: 1 pinch pepper
-- :droplet: 0.5 cup (115 g) water
-- :cheese_wedge: 0.25 cup (25 g) [vegan Parmesan cheese][2] (optional)
+- :droplet: 0.5 cup (114 g) water
+- :apple: 0.25 cup (25 g) [vegan Parmesan cheese][2] (optional)
 - :tomato: 1 28-oz jar marinara sauce
-- :cucumber: 3 medium zucchini
+- 3 medium zucchini
 
 ## :cooking: Cookware
 
@@ -74,7 +75,7 @@ Pour about 1 cup (amount as original recipe is written // adjust if altering bat
 
 ### Step 9
 
-Scoop small spoonfuls amounts of ricotta mixture over the zucchini and gently spread into a thin layer. Spread on a
+Scoop small spoonfuls amounts of [Ricotta](../ingredients/ricotta.md) mixture over the zucchini and gently spread into a thin layer. Spread on a
 layer of marinara sauce and then top with more zucchini slices. Continue until all filling and zucchini are used up. The
 top two layers should be zucchini and then sauce. Sprinkle on vegan Parmesan cheese (optional), and then cover with
 foil.
@@ -93,6 +94,5 @@ refrigerator, or in the freezer up to 1 month.
 
 - <https://minimalistbaker.com/8-ingredient-zucchini-lasagna-gf/>
 
-[1]: <../assets/images/vegan-zucchini-lasagna.jpg>
+[1]: <../assets/images/vegan-zucchini-lasagna.webp>
 [2]: <../ingredients/vegan-parmesan.md>
-

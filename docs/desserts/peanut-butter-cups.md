@@ -5,12 +5,12 @@ tags:
   - dessert
   - cooks-illustrated
   - copycat
-hero: assets/images/peanut-butter-cups.jpg
+hero: assets/images/peanut-butter-cups.webp
 ---
 
 # :peanuts: Peanut Butter Cups
 
-![Peanut Butter Cups](../assets/images/peanut-butter-cups.jpg){ loading=lazy }
+![Peanut Butter Cups](../assets/images/peanut-butter-cups.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,9 +18,9 @@ hero: assets/images/peanut-butter-cups.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 12 oz milk chocolate
-- :peanuts: 0.5 cup (68 g) [creamy peanut butter][1]
-- :candy: 3 Tbsp confectioners’ sugar
+- :chocolate_bar: 12 oz (255 g) milk chocolate
+- :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+- :candy: 3 Tbsp (34 g) confectioners’ sugar
 - :butter: 1 Tbsp butter
 - :salt: 0.13 tsp salt
 

@@ -4,7 +4,7 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/vegan-mashed-potatoes.jpg
+hero: assets/images/vegan-mashed-potatoes.webp
 ---
 
 # :potato: Vegan Mashed Potatoes
@@ -17,9 +17,9 @@ hero: assets/images/vegan-mashed-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 8 Yukon gold potatoes
-- :seedling: 0.25 cup chives (optional)
-- :butter: 4 Tbsp vegan butter
+- :sweet_potato: 8 Yukon gold potatoes
+- :leafy_green: 0.25 cup (10 g) chives (optional)
+- :butter: 4 Tbsp (68 g) vegan butter
 - :garlic: 6 cloves garlic
 - :salt: 0.5 tsp salt
 - :salt: 0.5 tsp pepper
@@ -67,4 +67,4 @@ keep in the fridge covered for up to a few days. Not freezer friendly.
 
 - <https://minimalistbaker.com/the-best-damn-vegan-mashed-potatoes/>
 
-[1]: <../../assets/images/vegan-mashed-potatoes.jpg>
+[1]: <../../assets/images/vegan-mashed-potatoes.webp>

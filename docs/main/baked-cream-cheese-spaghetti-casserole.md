@@ -4,12 +4,12 @@ tags:
 
   - italian
   - recipe-box
-hero: assets/images/baked-cream-cheese-spaghetti-casserole.jpg
+hero: assets/images/baked-cream-cheese-spaghetti-casserole.webp
 ---
 
 # :spaghetti: Baked Cream Cheese Spaghetti Casserole
 
-![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.jpg){ loading=lazy }
+![Baked Cream Cheese Spaghetti Casserole](../assets/images/baked-cream-cheese-spaghetti-casserole.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/baked-cream-cheese-spaghetti-casserole.jpg
 
 ## :salt: Ingredients
 
-- :cut_of_meat: 1 lb ground soy meat
-- :tomato: 1 28-oz jar [marinara][1]
-- :spaghetti: 1 12-oz pkg spaghetti
-- :cheese_wedge: 8 oz cream cheese
-- :herb: 1 tsp [Italian seasoning][2]
+- :apple: 1 lb ground soy meat
+- :glass_of_milk: 1 28-oz jar [marinara][1]
+- :baby_bottle: 1 12-oz pkg spaghetti
+- :cheese_wedge: 8 oz (227 g) cream cheese
+- 1 tsp [Italian seasoning][2]
 - :garlic: 1 clove garlic
-- :cheese_wedge: 0.5 cup grated Parmesan
+- :cheese_wedge: 0.5 cup (50 g) grated Parmesan
 
 ## :cooking: Cookware
 

@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+
+################################################################################
+#
+# zensical_fix.py
+# ----------------
+# Validate the project and fix build issues
+#
+# @author nιcнolaѕ wιlde, 0x08b7d7a3
+# @date 02 Jun 2026
+# @version 0.1.0
+#
+################################################################################
+
 import os
 import re
 import sys

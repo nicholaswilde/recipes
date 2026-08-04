@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - main
-hero: assets/images/baked-black-bean-taquitos.jpg
+hero: assets/images/baked-black-bean-taquitos.webp
 ---
 
 # :stuffed_flatbread: Baked Black Bean Taquitos
 
-![Baked Black Bean Taquitos](../assets/images/baked-black-bean-taquitos.jpg){ loading=lazy }
+![Baked Black Bean Taquitos](../assets/images/baked-black-bean-taquitos.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,15 +16,15 @@ hero: assets/images/baked-black-bean-taquitos.jpg
 
 ## :salt: Ingredients
 
-- :canned_food: 2 14-oz cans [black beans][1]
-- :stew: 1 cup vegetable stock
-- :hot_pepper: 1 tsp paprika
-- :herb: 0.5 tsp cumin
+- :glass_of_milk: 2 14-oz cans [black beans][1]
+- :stew: 1 cup (198 g) vegetable stock
+- :candy: 1 tsp paprika
+- :chestnut: 0.5 tsp (2 g) cumin
 - :salt: 0.25 tsp salt
 - :salt: 0.25 tsp pepper
-- :cheese_wedge: 1 cup shredded cheddar or Monterey jack cheese
-- :bread: 12 corn or flour tortillas
-- :olive: 1 Tbsp extra virgin olive oil
+- :cheese_wedge: 1 cup (113 g) shredded cheddar or Monterey jack cheese
+- :flatbread: 12 corn or flour tortillas
+- :olive: 1 Tbsp (12 g) extra virgin olive oil
 
 ## :cooking: Cookware
 

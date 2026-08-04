@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/spinach-and-feta-filo-pie.jpg
+hero: assets/images/spinach-and-feta-filo-pie.webp
 ---
-# Spinach and Feta Filo Pie
+
+# :pie: Spinach and Feta Filo Pie
 
 ![Spinach and Feta Filo Pie][1]{ loading=lazy }
 
@@ -15,7 +16,7 @@ hero: assets/images/spinach-and-feta-filo-pie.jpg
 ## :salt: Ingredients
 
 - :chestnut: 100 g pine nuts
-- :egg: 5 large [eggs][2]
+- 5 large [eggs][2]
 - :cheese_wedge: 300 g feta cheese
 - :cheese_wedge: 50 g Cheddar cheese
 - :salt: 1 pinch black pepper
@@ -24,10 +25,10 @@ hero: assets/images/spinach-and-feta-filo-pie.jpg
 - :olive: some olive oil
 - :butter: 1 knob unsalted butter
 - :leafy_green: 400 g spinach
-- :bread: 1 270 g [filo dough][4]
+- 1 270 g [filo dough][4]
 - :salt: some sea salt
 - :hot_pepper: 1 pinch cayenne pepper
-- :chestnut: 1 whole nutmeg
+- :apple: 1 whole nutmeg
 - :herb: some rosemary
 
 ## :cooking: Cookware
@@ -104,7 +105,6 @@ oven for 18 to 20 minutes, or until golden and crisp. Delicious served with a fr
 
 - <https://www.jamieoliver.com/recipes/cheese-recipes/spinach-feta-filo-pie/>
 
-[1]: <../assets/images/spinach-and-feta-filo-pie.jpg>
+[1]: <../assets/images/spinach-and-feta-filo-pie.webp>
 [2]: <../ingredients/eggs.md>
 [4]: <../ingredients/pastry-dough/filo.md>
-

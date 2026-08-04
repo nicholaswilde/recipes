@@ -5,12 +5,12 @@ tags:
   - italian
   - risotto
   - joy-of-cooking
-hero: assets/images/risotto-milanese.jpg
+hero: assets/images/risotto-milanese.webp
 ---
 
 # :ear_of_rice: Risotto Milanese
 
-![Risotto Milanese](../assets/images/risotto-milanese.jpg){ loading=lazy }
+![Risotto Milanese](../assets/images/risotto-milanese.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,13 +19,13 @@ hero: assets/images/risotto-milanese.jpg
 ## :salt: Ingredients
 
 - :tulip: 3 generous pinches saffron threads
-- :stew: 1 cup [vegetable broth][1]
-- :stew: 9 cups [vegetable broth][1]
+- 1 cup [vegetable broth][1]
+- 9 cups [vegetable broth][1]
 - :butter: 3 Tbsp butter
-- :onion: 1 cup onion
-- :ear_of_rice: 2 cups Arborio rice
-- :wine_glass: 0.5 cup dry white wine
-- :cheese_wedge: 1.5 cups Parmesan
+- :tea: 1 cup (96 g) onion
+- :wine_glass: 2 cups (56 g) Arborio rice
+- :wine_glass: 0.5 cup (53 g) dry white wine
+- :cheese_wedge: 1.5 cups (150 g) Parmesan
 - :salt: some salt
 - :salt: some pepper
 
@@ -38,7 +38,7 @@ hero: assets/images/risotto-milanese.jpg
 
 ### Step 1
 
-Combine and let stand for 10 minutes saffron threads and hot vegetable broth.
+Combine and let stand for 10 minutes saffron threads and hot [Vegetable Broth](../ingredients/vegetable-broth.md).
 
 ### Step 2
 

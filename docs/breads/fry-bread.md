@@ -3,9 +3,10 @@ comments: true
 tags:
   - bread
   - fry bread
-hero: assets/images/fry-bread.jpg
+hero: assets/images/fry-bread.webp
 ---
-# Fry Bread
+
+# :bread: Fry Bread
 
 ![Fry Bread][1]{ loading=lazy }
 
@@ -16,11 +17,11 @@ hero: assets/images/fry-bread.jpg
 ## :salt: Ingredients
 
 - :bread: 4 cups (480 g) all-purpose flour
-- :salt: 1 tsp (6 g) salt
-- :chestnut: 1.5 Tbsp (18 g) baking powder
-- :droplet: 1.5 cups (340 g) hot water (120°F to 130°F)
+- :salt: 1 tsp salt
+- :chestnut: 1.5 Tbsp baking powder
+- :baby_bottle: 1.5 cups (340 g) hot water (120°F to 130°F)
 - :olive: 2 Tbsp (25 g) vegetable oil
-- :olive: some vegetable oil (for frying)
+- :carrot: some vegetable oil (for frying)
 
 ## :cooking: Cookware
 
@@ -64,4 +65,4 @@ Remove the bread and place it on a paper towel-lined plate to drain excess oil.
 
 - <https://thestayathomechef.com/authentic-indian-fry-bread/>
 
-[1]: <../assets/images/fry-bread.jpg>
+[1]: <../assets/images/fry-bread.webp>

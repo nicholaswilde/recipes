@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/joel-robuchons-mashed-potatoes.jpg
+hero: assets/images/joel-robuchons-mashed-potatoes.webp
 ---
 
 # :potato: Joel Robuchon's Mashed Potatoes
@@ -16,9 +16,9 @@ hero: assets/images/joel-robuchons-mashed-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1 kg rattes or BF 15 potatoes
+- :sweet_potato: 1 kg rattes or BF 15 potatoes
 - :salt: 1 Tbsp coarse salt
-- :butter: 250 g well-chilled unsalted butter
+- :hot_pepper: 250 g well-chilled unsalted butter
 - :glass_of_milk: 250 g very hot whole milk
 - :salt: some salt
 - :salt: some pepper
@@ -63,4 +63,4 @@ For an even lighter, finer purée, put it through a very fine sieve before servi
 
 - <https://www.theguardian.com/lifeandstyle/2018/aug/06/joel-robuchons-best-mashed-potatoes-in-the-world-recipe>
 
-[1]: <../../assets/images/joel-robuchons-mashed-potatoes.jpg>
+[1]: <../../assets/images/joel-robuchons-mashed-potatoes.webp>

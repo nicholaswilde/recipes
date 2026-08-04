@@ -4,11 +4,12 @@ tags:
   - ingredient
   - indonesian
   - indo-dutch
-hero: assets/images/vegetarian-terasi.png
+hero: assets/images/vegetarian-terasi.webp
 ---
+
 # :bowl_with_spoon: Vegetarian Terasi
 
-![Vegetarian Terasi](../assets/images/vegetarian-terasi.png){ loading=lazy }
+![Vegetarian Terasi](../assets/images/vegetarian-terasi.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,10 +17,10 @@ hero: assets/images/vegetarian-terasi.png
 
 ## :salt: Ingredients
 
-- 1 crumbled vegetable stock cube
-- 2 Tbsp dark or red miso paste
-- 0.5 tsp ground toasted nori seaweed
-- 1 Tbsp warm water
+- :stew: 1 crumbled vegetable stock cube
+- :curry: 2 Tbsp (36 g) dark or red miso paste
+- :bread: 0.5 tsp (2 g) ground toasted nori seaweed
+- :droplet: 1 Tbsp (14 g) warm water
 
 ## :cooking: Cookware
 

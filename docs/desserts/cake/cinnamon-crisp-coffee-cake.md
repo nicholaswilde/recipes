@@ -5,51 +5,53 @@ tags:
   - dessert
   - cake
   - king-arthur
-hero: assets/images/cinnamon-crisp-coffee-cake.jpg
+hero: assets/images/cinnamon-crisp-coffee-cake.webp
 ---
 
 # :cake: Cinnamon-Crisp Coffee Cake
 
-![Cinnamon-Crisp Coffee Cake](../../assets/images/cinnamon-crisp-coffee-cake.jpg){ loading=lazy }
+![Cinnamon-Crisp Coffee Cake](../../assets/images/cinnamon-crisp-coffee-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8" square cake | 2 minutes |
 
-## :salt: Ingredients - Filling
+## :salt: Ingredients
 
-- :candy: 66 g granulated sugar
-- :custard: 1 Tbsp cinnamon
-- :chocolate_bar: 2 Tbsp unsweetened cocoa
+=== "Filling"
 
-## :salt: Ingredients - Crumbs
+    - :candy: 66 g granulated sugar
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :chocolate_bar: 2 Tbsp (10 g) unsweetened cocoa
 
-- :ear_of_rice: 120 g all-purpose flour
-- :candy: 75 g granulated sugar
-- :candy: 14 g confectioners' sugar
-- :custard: 1 Tbsp cinnamon
-- :salt: 0.25 tsp salt
-- :butter: 85 g unsalted butter
-- :icecream: 1 tsp vanilla
+=== "Crumbs"
 
-## :salt: Ingredients - Cake
+    - :bread: 120 g all-purpose flour
+    - :candy: 75 g granulated sugar
+    - :candy: 14 g confectioners' sugar
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :salt: 0.25 tsp salt
+    - :butter: 85 g unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
 
-- :ear_of_rice: 240 g all-purpose flour
-- :candy: 149 g granulated sugar
-- :dash: 1 tsp baking powder
-- :salt: 0.75 tsp salt
-- :cup_with_straw: 0.25 tsp baking soda
-- :butter: 113 g unsalted butter
-- :icecream: 2 tsp vanilla
-- :egg: 2 large eggs
-- :butter: 227 g buttermilk
-- :rice: 227 g Greek yogurt (alternative)
+=== "Cake"
 
-## :salt: Ingredients - Glaze (Optional)
+    - :bread: 240 g all-purpose flour
+    - :candy: 149 g granulated sugar
+    - :chestnut: 1 tsp baking powder
+    - :salt: 0.75 tsp salt
+    - :chestnut: 0.25 tsp baking soda
+    - :butter: 113 g unsalted butter
+    - :flower_playing_cards: 2 tsp vanilla
+    - :egg: 2 large eggs
+    - :icecream: 227 g [buttermilk](../../ingredients/buttermilk.md)
+    - :glass_of_milk: 227 g Greek yogurt (alternative)
 
-- :candy: 85 g confectioners' sugar
-- :custard: 1 pinch cinnamon
-- :droplet: 3 tsp water
+=== "Glaze (Optional)"
+
+    - :candy: 85 g confectioners' sugar
+    - :chestnut: 1 pinch cinnamon
+    - :droplet: 3 tsp (14 g) water
 
 ## :cooking: Cookware
 
@@ -101,7 +103,7 @@ attachment as needed; the mixture will be thick.
 
 ### Step 6
 
-If using buttermilk, slowly pour it into the mixture while the mixer is running on low speed. If using Greek yogurt
+If using [buttermilk](../../ingredients/buttermilk.md), slowly pour it into the mixture while the mixer is running on low speed. If using Greek yogurt
 (alternative), add the yogurt all at once before starting to mix. Continue to stir until the batter is smooth. Stop to
 scrape the bowl and then mix again at low speed for 30 seconds.
 
@@ -119,7 +121,7 @@ Sprinkle the filling evenly across the batter.
 ### Step 9
 
 Transfer the remaining batter atop the filling and gently spread to the edges. (The batter will be pourable if you’ve
-used buttermilk; otherwise, transfer the thick batter by dolloping portions over the filling then use a spatula to
+used [buttermilk](../../ingredients/buttermilk.md); otherwise, transfer the thick batter by dolloping portions over the filling then use a spatula to
 smooth it out into an even layer.) It’s OK if a little bit of the filling gets mixed into the top layer of batter.
 
 ### Step 10

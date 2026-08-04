@@ -9,8 +9,9 @@ tags:
   - maria vannelli
   - the pancake princess
   - bake-off
-hero: assets/images/almond-biscotti.jpg
+hero: assets/images/almond-biscotti.webp
 ---
+
 # :cookie: Almond Biscotti
 
 ![Almond Biscotti][1]{ loading=lazy }
@@ -21,18 +22,18 @@ hero: assets/images/almond-biscotti.jpg
 
 ## :salt: Ingredients
 
-- :page_facing_up: some parchment paper
+- :bread: some parchment paper
 - :chestnut: 1 cup (142 g) whole raw almonds
-- :bread: 2.25 cups (320 g) all-purpose flour
+- :bread: 2.25 cups (270 g) all-purpose flour
 - :chestnut: 1.5 tsp baking powder
 - :salt: 0.5 tsp salt
 - :candy: 0.5 cup (99 g) granulated sugar
-- :candy: 0.75 cup (160 g) brown sugar
-- :egg: 3 large (150 g) eggs, room temperature
+- :maple_leaf: 0.75 cup (160 g) brown sugar
+- :baby_bottle: 3 large eggs, room temperature
 - :olive: 0.5 cup (100 g) olive oil
-- :flower_playing_cards: 1 Tbsp pure almond extract
+- :flower_playing_cards: 1 Tbsp (6 g) pure almond extract
 - :flower_playing_cards: 0.5 tsp pure vanilla extract
-- :tangerine: 1 tsp lemon zest
+- :tangerine: 1 tsp (5 g) lemon zest
 
 ## :cooking: Cookware
 
@@ -98,4 +99,4 @@ Place on a :wastebasket: wire rack to cool.
 - <https://www.shelovesbiscotti.com/almond-biscotti/>
 - <https://www.thepancakeprincess.com/best-almond-biscotti-bake-off/>
 
-[1]: <../assets/images/almond-biscotti.jpg>
+[1]: <../assets/images/almond-biscotti.webp>

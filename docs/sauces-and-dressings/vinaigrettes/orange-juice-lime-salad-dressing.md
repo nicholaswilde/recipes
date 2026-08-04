@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/orange-juice-lime-salad-dressing.jpg
+hero: assets/images/orange-juice-lime-salad-dressing.webp
 ---
 
-# Orange Juice-Lime Salad Dressing
+# :tangerine: Orange Juice-Lime Salad Dressing
 
-![Orange Juice-Lime Salad Dressing](../../assets/images/orange-juice-lime-salad-dressing.jpg){ loading=lazy }
+![Orange Juice-Lime Salad Dressing](../../assets/images/orange-juice-lime-salad-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,10 +16,10 @@ hero: assets/images/orange-juice-lime-salad-dressing.jpg
 
 ## :salt: Ingredients
 
-- :tangerine: 0.33 cup orange juice
-- :sweet_potato: 1 tsp peeled and chopped fresh ginger
+- :tangerine: 0.33 cup (74 g) orange juice
+- :sweet_potato: 1 tsp (5 g) peeled and chopped fresh ginger
 - :tangerine: 1 lime juice and zest
-- 2 Tbsp raspberry balsamic vinegar
+- :wine_glass: 2 Tbsp raspberry balsamic vinegar
 
 ## :cooking: Cookware
 

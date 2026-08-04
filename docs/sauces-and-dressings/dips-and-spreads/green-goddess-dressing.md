@@ -4,7 +4,7 @@ tags:
 
   - panera
   - dressing
-hero: assets/images/green-goddess-dressing.jpg
+hero: assets/images/green-goddess-dressing.webp
 ---
 
 # :green_salad: Green Goddess Dressing
@@ -17,14 +17,14 @@ hero: assets/images/green-goddess-dressing.jpg
 
 ## :salt: Ingredients
 
-- :onion: 2 Tbsp shallots
-- :egg: 0.5 cup [mayonnaise][3]
-- :microbe: 1 cup Greek yogurt
-- :herb: 1 oz fresh basil
-- :seedling: 2 Tbsp [basil pesto][2]
-- :sake: 0.25 cup white wine vinegar
-- :cactus: 4 tsp agave syrup
-- :hotdog: 1 tsp [Dijon mustard][4]
+- :garlic: 2 Tbsp (20 g) shallots
+- 0.5 cup [mayonnaise][3]
+- :glass_of_milk: 1 cup (227 g) Greek yogurt
+- :herb: 1 oz (5 g) fresh basil
+- 2 Tbsp [basil pesto][2]
+- :wine_glass: 0.25 cup (36 g) white wine vinegar
+- :honey_pot: 4 tsp (28 g) agave syrup
+- 1 tsp [Dijon mustard][4]
 - :salt: some salt
 - :salt: some pepper
 
@@ -54,7 +54,7 @@ Transfer to a dressing container, cover, and refrigerate.
 
 - <https://www.panerabread.com/en-us/articles/green-goddess-dressing-recipe.html>
 
-[1]: <../../assets/images/green-goddess-dressing.jpg>
+[1]: <../../assets/images/green-goddess-dressing.webp>
 [2]: <../gravy-and-savory-sauces/pesto/basic-pesto.md>
 [3]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
 [4]: <../dijon-mustard.md>

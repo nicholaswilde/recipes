@@ -7,8 +7,10 @@ tags:
   - korean-inspired
   - eric-kim
   - quick-and-easy
+hero: assets/images/gochujang-buttered-noodles.webp
 ---
-# Gochujang Buttered Noodles
+
+# :spaghetti: Gochujang Buttered Noodles
 
 ![Gochujang Buttered Noodles][1]{ loading=lazy }
 
@@ -19,12 +21,12 @@ tags:
 ## :salt: Ingredients
 
 - :bread: 1 pound spaghetti or other long pasta
-- :butter: 6 Tbsp (51 g) unsalted butter
+- :butter: 6 Tbsp (85 g) unsalted butter
 - :garlic: 12 cloves garlic
 - :salt: some salt
 - :salt: some pepper
-- :hot_pepper: 0.25 cup (64 g) gochujang paste
-- :honey_pot: 0.25 cup (84 g) honey
+- :hot_pepper: 0.25 cup (78 g) gochujang paste
+- :honey_pot: 0.25 cup honey
 - :wine_glass: 0.25 cup (50 g) sherry vinegar or rice vinegar
 - :salt: some salt
 - :salt: some pepper
@@ -66,5 +68,4 @@ pepper. Top with the cilantro or scallions (if using) and serve immediately.
 
 - <https://cooking.nytimes.com/recipes/1024066-gochujang-buttered-noodles>
 
-[1]: <../assets/images/gochujang-buttered-noodles.png>
-
+[1]: <../assets/images/gochujang-buttered-noodles.webp>

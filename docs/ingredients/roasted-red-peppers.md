@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/roasted-red-peppers.jpg
+hero: assets/images/roasted-red-peppers.webp
 ---
 
 # :bell_pepper: Roasted Red Peppers
 
-![Roasted Red Peppers](../assets/images/roasted-red-peppers.jpg){ loading=lazy }
+![Roasted Red Peppers](../assets/images/roasted-red-peppers.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,7 +16,7 @@ hero: assets/images/roasted-red-peppers.jpg
 
 ## :salt: Ingredients
 
-- :bell_pepper: 2 red bell pepper
+- :hot_pepper: 2 red bell pepper
 - :olive: some olive oil
 
 ## :cooking: Cookware

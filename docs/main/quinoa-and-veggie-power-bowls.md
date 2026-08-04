@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/quinoa-and-veggie-power-bowls.jpg
+hero: assets/images/quinoa-and-veggie-power-bowls.webp
 ---
-# Quinoa and Veggie Power Bowls
+
+# :ear_of_rice: Quinoa and Veggie Power Bowls
 
 ![Quinoa and Veggie Power Bowls][1]{ loading=lazy }
 
@@ -14,26 +15,26 @@ hero: assets/images/quinoa-and-veggie-power-bowls.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 4 cups (700 g) cooked [quinoa][2]
-- :broccoli: 16 oz Brussels sprouts
-- :olive: 1 Tbsp olive oil
-- :hot_pepper: 1 Tbsp adobo sauce
-- :honey_pot: 1 Tbsp maple syrup
+- :ear_of_rice: 4 cups (680 g) cooked [quinoa][2]
+- :leafy_green: 16 oz Brussels sprouts
+- :olive: 1 Tbsp (12 g) olive oil
+- :apple: 1 Tbsp (14 g) adobo sauce
+- :honey_pot: 1 Tbsp (20 g) maple syrup
 - :salt: 0.5 tsp salt
-- :sweet_potato: 3 cups (600 g) sweet potato
-- :olive: 1 Tbsp olive oil
+- :sweet_potato: 3 cups (552 g) sweet potato
+- :olive: 1 Tbsp (12 g) olive oil
 - :hot_pepper: 1 tsp smoked paprika
 - :garlic: 1 tsp garlic powder
 - :salt: 0.5 tsp salt
 - :leafy_green: 3 handfuls spinach or kale
 - :olive: 0.25 cup (50 g) olive oil
-- :apple: 1 Tbsp apple cider vinegar
-- :baby_bottle: 1 Tbsp [Dijon mustard][3]
+- :apple: 1 Tbsp (18 g) apple cider vinegar
+- 1 Tbsp [Dijon mustard][3]
 - :honey_pot: 1 Tbsp honey
 - :salt: 0.25 tsp salt
 - :chestnut: some pine nuts (optional)
-- :avocado: some avocado (optional)
-- :takeout_box: some hummus (optional)
+- :leafy_green: some avocado (optional)
+- :leafy_green: some hummus (optional)
 
 ## :cooking: Cookware
 
@@ -78,7 +79,6 @@ Whisk until emulsified. Once baked, add Brussels sprouts and sweet potatoes to s
 
 Serve with desired toppings (e.g. pine nuts (optional), avocado (optional), hummus (optional)).
 
-[1]: <../assets/images/quinoa-and-veggie-power-bowls.jpg>
+[1]: <../assets/images/quinoa-and-veggie-power-bowls.webp>
 [2]: <../sides/grains-and-legumes/quinoa.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>
-

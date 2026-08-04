@@ -4,7 +4,7 @@ tags:
 
   - gravy
   - applied-kitchen
-hero: assets/images/applied-homemade-vegetarian-gravy.jpg
+hero: assets/images/applied-homemade-vegetarian-gravy.webp
 ---
 
 # :stew: Applied Homemade Vegetarian Gravy
@@ -18,12 +18,12 @@ hero: assets/images/applied-homemade-vegetarian-gravy.jpg
 ## :salt: Ingredients
 
 - :butter: 1 stick unsalted butter
-- :onion: 1 cup onion
-- :leafy_green: 0.5 cups celery
+- :tea: 1 cup (96 g) onion
+- :leafy_green: 0.5 cups (71 g) celery
 - :carrot: 0.5 cup carrot
 - :garlic: 3 cloves garlic
-- :ear_of_rice: 0.75 cup (90 g) all-purpose flour
-- :stew: 6 cups vegetable broth
+- :bread: 0.75 cup (90 g) all-purpose flour
+- 6 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 - :salt: some salt
 - :salt: some pepper
 
@@ -49,7 +49,7 @@ Stir in the all-purpose flour and cook for an additional 4 minutes, or until the
 
 ### Step 5
 
-Gradually add the vegetable broth while stirring to avoid lumps.
+Gradually add the [Vegetable Broth](../../ingredients/vegetable-broth.md) while stirring to avoid lumps.
 
 ### Step 6
 
@@ -75,4 +75,4 @@ Pro-tip: To make this gravy vegan, substitute the butter with oil or a plant-bas
 
 - Applied Kitchen
 
-[1]: <../../assets/images/applied-homemade-vegetarian-gravy.jpg>
+[1]: <../../assets/images/applied-homemade-vegetarian-gravy.webp>

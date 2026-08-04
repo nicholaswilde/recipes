@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/the-best-vegan-burger.jpg
+hero: assets/images/the-best-vegan-burger.webp
 ---
-# The Best Vegan Burger
+
+# :beans: The Best Vegan Burger
 
 ![The Best Vegan Burger][1]{ loading=lazy }
 
@@ -14,19 +15,19 @@ hero: assets/images/the-best-vegan-burger.jpg
 
 ## :salt: Ingredients
 
-- :beans: 400 g [chickpeas][2]
-- :carrot: 340 g sweetcorn
-- :chestnut: 0.5 tsp coriander
-- :hot_pepper: 0.5 tsp paprika
-- :chestnut: 0.5 tsp cumin
-- :bread: 3 Tbsp flour
+- 400 g [chickpeas][2]
+- 340 g sweetcorn
+- :chestnut: 0.5 tsp (1 g) coriander
+- :candy: 0.5 tsp paprika
+- :chestnut: 0.5 tsp (2 g) cumin
+- :bread: 3 Tbsp (17 g) flour
 - :salt: 1 pinch sea salt
 - :tangerine: 1 lemon zest
 - :olive: some rapeseed oil
-- :leafy_green: 1 small lettuce
+- :cheese_wedge: 1 small lettuce
 - :tomato: 2 large tomatoes
-- :tomato: some ketchup
-- :bread: 4 burger buns
+- some ketchup
+- 4 burger buns
 
 ## :cooking: Cookware
 
@@ -69,6 +70,5 @@ with a fresh green salad.
 
 - <https://www.jamieoliver.com/recipes/vegetables-recipes/the-best-vegan-burger/>
 
-[1]: <../assets/images/the-best-vegan-burger.jpg>
+[1]: <../assets/images/the-best-vegan-burger.webp>
 [2]: <../ingredients/chickpeas.md>
-

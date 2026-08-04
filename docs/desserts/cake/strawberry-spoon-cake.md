@@ -3,7 +3,9 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/strawberry-spoon-cake.webp
 ---
+
 # :cake: Strawberry Spoon Cake
 
 ![Strawberry Spoon Cake][1]{ loading=lazy }
@@ -14,14 +16,14 @@ tags:
 
 ## :salt: Ingredients
 
-- :butter: unsalted butter, for greasing the pan + 1/2 cup (113 g) melted
-- :strawberry: 5 oz (142 g) fresh strawberries, hulled
-- :candy: 2/3 cup (143 g) packed light brown sugar, divided
-- :glass_of_milk: 1/2 cup (114 g) whole milk, room temperature
+- :glass_of_milk: unsalted butter, for greasing the pan + 1/2 cup melted
+- :strawberry: 5 oz (104 g) fresh strawberries, hulled
+- :candy: 2/3 cup (142 g) packed light brown sugar, divided
+- :glass_of_milk: 1/2 cup (50 g) whole milk, room temperature
 - :salt: 1/2 tsp kosher salt
 - :bread: 1 cup (120 g) all-purpose flour
 - :chestnut: 1 tsp baking powder
-- :ice_cream: vanilla ice cream, for serving
+- :baby_bottle: vanilla ice cream, for serving
 
 ## :cooking: Cookware
 
@@ -58,4 +60,4 @@ minutes before spooning into bowls. Serve warm with vanilla ice cream.
 
 - <https://cooking.nytimes.com/recipes/1021174-strawberry-spoon-cake>
 
-[1]: <../../assets/images/strawberry-spoon-cake.jpg>
+[1]: <../../assets/images/strawberry-spoon-cake.webp>

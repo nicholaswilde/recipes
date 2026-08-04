@@ -6,9 +6,10 @@ tags:
   - staples
   - homemade
   - flour
-hero: assets/images/self-rising-flour.jpg
+hero: assets/images/self-rising-flour.webp
 ---
-# Self-Rising Flour
+
+# :bread: Self-Rising Flour
 
 ![Self-Rising Flour][1]{ loading=lazy }
 
@@ -19,8 +20,8 @@ hero: assets/images/self-rising-flour.jpg
 ## :salt: Ingredients
 
 - :bread: 1 cup (120 g) all-purpose flour
-- :chestnut: 1 1/2 tsp (6 g) [baking powder][2]
-- :salt: 1/4 tsp (1.5 g) table salt
+- :apple: 1 1/2 tsp [baking powder][2]
+- :baby_bottle: 1/4 tsp (1.5 g) table salt
 
 ## :cooking: Cookware
 
@@ -56,5 +57,5 @@ Transfer to an airtight container. Store in a cool, dry place for up to 6 months
 - [King Arthur Baking](https://www.kingarthurbaking.com/recipes/homemade-self-rising-flour-recipe)
 - [The Kitchn](https://www.thekitchn.com/how-to-make-self-rising-flour-232729)
 
-[1]: <../assets/images/self-rising-flour.jpg>
+[1]: <../assets/images/self-rising-flour.webp>
 [2]: <../ingredients/baking-powder.md>

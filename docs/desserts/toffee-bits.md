@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/toffee-bits.jpg
+hero: assets/images/toffee-bits.webp
 ---
 
-# Toffee Bits
+# :butter: Toffee Bits
 
 ![Toffee Bits][1]{ loading=lazy }
 
@@ -17,7 +17,7 @@ hero: assets/images/toffee-bits.jpg
 ## :salt: Ingredients
 
 - :butter: 113 g unsalted butter
-- :maple_leaf: 200 g light brown sugar
+- :candy: 200 g light brown sugar
 - :salt: 1 tsp salt
 
 ## :cooking: Cookware
@@ -58,4 +58,4 @@ week.
 
 - <https://handletheheat.com/homemade-toffee-bits/>
 
-[1]: <../assets/images/toffee-bits.jpg>
+[1]: <../assets/images/toffee-bits.webp>

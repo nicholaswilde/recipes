@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/jean-pierre's-vegetable-stock.jpg
+hero: assets/images/jean-pierre's-vegetable-stock.webp
 ---
 
 # :stew: Jean Pierre's Vegetable Stock
 
-![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.jpg){ loading=lazy }
+![Jean Pierre's Vegetable Stock](../assets/images/jean-pierre's-vegetable-stock.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/jean-pierre's-vegetable-stock.jpg
 ## :salt: Ingredients
 
 - :carrot: 2 lbs carrots
-- :onion: 2 lbs onion
+- :tea: 2 lbs onion
 - :leafy_green: 1 stock celery
-- :leafy_green: 2 leeks
-- :tomato: 1 28-oz can tomatoes
+- :tea: 2 leeks
+- :glass_of_milk: 1 28-oz can tomatoes
 - :herb: 10 sprigs parsley
-- :fallen_leaf: 3 bay leaves
-- :salt: 14 whole peppercorns
+- :herb: 3 bay leaves
+- :hot_pepper: 14 whole peppercorns
 - :herb: 3 sprigs thyme
 - :garlic: 12 cloves garlic
 

@@ -5,12 +5,12 @@ tags:
   - ingredient
   - ina-garten
   - cheese
-hero: assets/images/ricotta.jpg
+hero: assets/images/ricotta.webp
 ---
 
 # :cheese_wedge: Ricotta
 
-![Ricotta](../assets/images/ricotta.jpg){ loading=lazy }
+![Ricotta](../assets/images/ricotta.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,10 +18,10 @@ hero: assets/images/ricotta.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 4 cup [whole milk][1]
-- :glass_of_milk: 2 cup heavy cream
+- 4 cup [whole milk][1]
+- :glass_of_milk: 2 cup (454 g) heavy cream
 - :salt: 1 tsp salt
-- :sake: 3 Tbsp white wine vinegar
+- :wine_glass: 3 Tbsp (27 g) white wine vinegar
 
 ## :cooking: Cookware
 

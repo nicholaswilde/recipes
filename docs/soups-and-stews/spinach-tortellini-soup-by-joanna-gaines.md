@@ -5,7 +5,7 @@ tags:
   - magnolia
   - soup
   - recipe-box
-hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg
+hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.webp
 ---
 
 # :stew: Spinach Tortellini Soup by Joanna Gaines
@@ -19,21 +19,21 @@ hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg
 ## :salt: Ingredients
 
 - :butter: 1 Tbsp butter
-- :onion: 0.5 medium onion
+- :tea: 0.5 medium onion
 - :garlic: 1 Tbsp garlic
-- :stew: 6 cups [vegetable broth][1]
+- 6 cups [vegetable broth][1]
 - :tomato: 1 can fire-roasted tomatoes
-- :herb: 0.5 tsp [Italian seasoning][2]
-- :spaghetti: 1 9-oz pkg tortellini
-- :potato: 1 can cannellini beans
+- 0.5 tsp [Italian seasoning][2]
+- :baby_bottle: 1 9-oz pkg tortellini
+- :glass_of_milk: 1 can cannellini beans
 - :leafy_green: 6 cups spinach
 - :herb: 2 Tbsp parsley
 - :herb: 2 Tbsp basil
 - :salt: some salt
 - :salt: some pepper
-- :lemon: 0.5 lemon juice
-- :cheese_wedge: 1 cup Parmesan
-- :baguette_bread: 1 loaf French bread
+- :tangerine: 0.5 lemon juice
+- :cheese_wedge: 1 cup (100 g) Parmesan
+- :potato: 1 loaf French bread
 
 ## :cooking: Cookware
 
@@ -73,4 +73,4 @@ thaw before reheating.
 
 [1]: <../ingredients/vegetable-broth.md>
 [2]: <../ingredients/seasonings/italian-seasoning.md>
-[3]: <../assets/images/spinach-tortellini-soup-by-joanna-gaines.jpg>
+[3]: <../assets/images/spinach-tortellini-soup-by-joanna-gaines.webp>

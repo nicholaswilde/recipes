@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cindy's-banana-overnight-oats.jpg
+hero: assets/images/cindy's-banana-overnight-oats.webp
 ---
 
 # :banana: Cindy's Banana Overnight Oats
 
-![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.jpg){ loading=lazy }
+![Cindy's Banana Overnight Oats](../assets/images/cindy's-banana-overnight-oats.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/cindy's-banana-overnight-oats.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 2 cups almond milk
-- :banana: 3 bananas
-- :ear_of_rice: 2.5 cup rolled oats
+- :glass_of_milk: 2 cups (168 g) almond milk
+- :apple: 3 bananas
+- :ear_of_rice: 2.5 cup (282 g) rolled oats
 - :salt: some salt
 
 ## :cooking: Cookware
@@ -34,7 +34,7 @@ With an immersion blender, blend almond milk and bananas.
 
 ### Step 2
 
-To a mason jar or small bowl with a lid, add the almond milk and banana mixture and  rolled oats and stir a few more
+To a mason jar or small bowl with a lid, add the almond milk and banana mixture and rolled oats and stir a few more
 times. Then press down with a spoon to ensure all oats have been moistened and are immersed in almond milk.
 
 ### Step 3
@@ -60,3 +60,7 @@ warmed through. Add more liquid as needed if oats get too thick/dry.
 
 Overnight oats will keep in the refrigerator for 2-3 days, though best within the first 12-24 hours in our experience.
 Not freezer friendly.
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.

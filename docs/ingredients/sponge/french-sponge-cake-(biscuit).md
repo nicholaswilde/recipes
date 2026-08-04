@@ -5,12 +5,12 @@ tags:
   - ingredient
   - joy-of-cooking
   - french
-hero: assets/images/french-sponge-cake-(biscuit).jpg
+hero: assets/images/french-sponge-cake-(biscuit).webp
 ---
 
 # :cake: French Sponge Cake (Biscuit)
 
-![French Sponge Cake (Biscuit)](../../assets/images/french-sponge-cake-(biscuit).jpg){ loading=lazy }
+![French Sponge Cake (Biscuit)](../../assets/images/french-sponge-cake-(biscuit).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/french-sponge-cake-(biscuit).jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 18 Tbsp cake flour
+- :bread: 18 Tbsp (135 g) cake flour
 - :egg: 6 large egg yolks
-- :candy: 0.25 cup (50 g) sugar
-- :icecream: 1 tsp vanilla
+- :candy: 0.25 cup (39 g) sugar
+- :flower_playing_cards: 1 tsp vanilla
 - :egg: 6 large egg whites
-- :rice: 0.25 tsp cream of tartar
-- :candy: 0.33 cup (65 g) sugar
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :candy: 0.33 cup (51 g) sugar
 
 ## :cooking: Cookware
 

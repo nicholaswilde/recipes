@@ -2,9 +2,10 @@
 comments: true
 tags:
   - side
-hero: assets/images/fiesta-salad.jpg
+hero: assets/images/fiesta-salad.webp
 ---
-# Fiesta Salad
+
+# :green_salad: Fiesta Salad
 
 ![Fiesta Salad][1]{ loading=lazy }
 
@@ -14,12 +15,12 @@ hero: assets/images/fiesta-salad.jpg
 
 ## :salt: Ingredients
 
-- :carrot: some roasted corn
-- :beans: some [black beans][3]
-- :hot_pepper: some fajita veggies
+- :bread: some roasted corn
+- some [black beans][3]
+- :bell_pepper: some fajita veggies
 - :bread: some tortilla strips
-- :leafy_green: some mixed greens
-- :baby_bottle: some [Chipotle Ranch Dressing][2]
+- :chestnut: some mixed greens
+- some [Chipotle Ranch Dressing][2]
 
 ## :cooking: Cookware
 
@@ -39,7 +40,6 @@ Top with chipotle ranch dressing.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/fiesta-salad.jpg>
+[1]: <../../assets/images/fiesta-salad.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/chipotle-ranch-dressing.md>
 [3]: <../../ingredients/black-beans.md>
-

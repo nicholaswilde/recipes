@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/beurre-manié.jpg
+hero: assets/images/beurre-manié.webp
 ---
 
 # :butter: Beurre Manié
 
-![Beurre Manié](../assets/images/beurre-manié.jpg){ loading=lazy }
+![Beurre Manié](../assets/images/beurre-manié.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

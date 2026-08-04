@@ -4,9 +4,10 @@ tags:
   - bread
   - sourdough
   - amy bakes bread
-hero: assets/images/maple-pecan-sourdough-bread.jpg
+hero: assets/images/maple-pecan-sourdough-bread.webp
 ---
-# Maple Pecan Sourdough Bread
+
+# :bread: Maple Pecan Sourdough Bread
 
 ![Maple Pecan Sourdough Bread][1]{ loading=lazy }
 
@@ -16,10 +17,10 @@ hero: assets/images/maple-pecan-sourdough-bread.jpg
 
 ## :salt: Ingredients
 
-- :bread: 35 g sourdough starter
+- :tea: 35 g sourdough starter
 - :bread: 35 g all-purpose flour
 - :droplet: 35 g water
-- :bread: 100 g levain
+- 100 g levain
 - :droplet: 300 g water
 - :honey_pot: 100 g maple syrup
 - :flower_playing_cards: 4 g maple extract
@@ -97,4 +98,4 @@ Cool completely on a wire rack before slicing.
 
 - [Maple Pecan Sourdough Bread - Amy Bakes Bread](https://amybakesbread.com/maple-pecan-sourdough-bread/)
 
-[1]: <../assets/images/maple-pecan-sourdough-bread.jpg>
+[1]: <../assets/images/maple-pecan-sourdough-bread.webp>

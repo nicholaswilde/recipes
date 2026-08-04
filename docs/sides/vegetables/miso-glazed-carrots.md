@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/miso-glazed-carrots.jpg
+hero: assets/images/miso-glazed-carrots.webp
 ---
 
 # :carrot: Miso-Glazed Carrots
 
-![Miso-Glazed Carrots](../../assets/images/miso-glazed-carrots.jpg){ loading=lazy }
+![Miso-Glazed Carrots](../../assets/images/miso-glazed-carrots.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/miso-glazed-carrots.jpg
 
 ## :salt: Ingredients
 
-- :carrot: 1 cup carrots
-- :ramen: 1 [miso glaze][1]
+- :carrot: 1 cup (142 g) carrots
+- 1 [miso glaze][1]
 
 ## :cooking: Cookware
 

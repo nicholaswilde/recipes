@@ -5,7 +5,7 @@ tags:
   - bar
   - dessert
   - claire-saffitz
-hero: assets/images/peach-bars.jpg
+hero: assets/images/peach-bars.webp
 ---
 
 # :peach: Peach Bars
@@ -16,34 +16,36 @@ hero: assets/images/peach-bars.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 bars | 2.27 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :ear_of_rice: 163 g all-purpose flour
-- :candy: 8 g granulated sugar
-- :salt: 1/2 tsp salt
-- :butter: 113 g unsalted butter
-- :ice_cube: 60 g ice water
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :bread: 163 g all-purpose flour
+    - :candy: 8 g granulated sugar
+    - :salt: 1/2 tsp salt
+    - :butter: 113 g unsalted butter
+    - :baby_bottle: 60 g ice water
 
-- :peach: 680 g ripe peaches
-- :corn: 2 tsp cornstarch
-- :candy: 62.5 g demerara sugar
-- :sweet_potato: 🫚 1/2 tsp ground ginger
-- :custard: 1/4 tsp ground cinnamon
-- :chestnut: 1/8 tsp ground nutmeg
-- :salt: 1/4 tsp Diamond Crystal kosher salt
-- :lemon: 1 Tbsp fresh lemon juice
-- :icecream: 1 tsp vanilla extract
+=== "Filling"
 
-## :salt: Ingredients - Crumble Topping
+    - :tomato: 680 g ripe peaches
+    - :chestnut: 2 tsp (5 g) cornstarch
+    - :baby_bottle: 62.5 g demerara sugar
+    - :sweet_potato: 🫚 1/2 tsp ground ginger
+    - :chestnut: 1/4 tsp (1 g) ground cinnamon
+    - :chestnut: 1/8 tsp ground nutmeg
+    - :salt: 1/4 tsp Diamond Crystal kosher salt
+    - :tangerine: 1 Tbsp fresh lemon juice
+    - :flower_playing_cards: 1 tsp vanilla extract
 
-- :ear_of_rice: 87 g all-purpose flour
-- :ear_of_rice: 60 g old-fashioned rolled oats
-- :candy: 43 g demerara sugar
-- :custard: 1 tsp ground cinnamon
-- :salt: 1/2 tsp Diamond Crystal kosher salt
-- :butter: 93 g unsalted butter
+=== "Crumble Topping"
+
+    - :bread: 87 g all-purpose flour
+    - :ear_of_rice: 60 g old-fashioned rolled oats
+    - :baby_bottle: 43 g demerara sugar
+    - :chestnut: 1 tsp (3 g) ground cinnamon
+    - :salt: 1/2 tsp Diamond Crystal kosher salt
+    - :butter: 93 g unsalted butter
 
 ## :cooking: Cookware
 
@@ -142,4 +144,4 @@ refrigerator for up to 1 week.
 - <https://www.youtube.com/watch?v=T1YQBxY-bv4>
 
 [1]: <../ingredients/pastry-dough/deluxe-butter-pastry.md>
-[2]: <../assets/images/peach-bars.jpg>
+[2]: <../assets/images/peach-bars.webp>

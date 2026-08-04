@@ -4,10 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/brown-butter-chocolate-chunk-cookies.jpg
+hero: assets/images/brown-butter-chocolate-chunk-cookies.webp
 ---
 
 # :cookie: Brown Butter Chocolate Chunk Cookies
+
+![Brown Butter Chocolate Chunk Cookies][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,16 +18,16 @@ hero: assets/images/brown-butter-chocolate-chunk-cookies.jpg
 ## :salt: Ingredients
 
 - :butter: 225 g unsalted butter
-- :ear_of_rice: 145 g all-purpose flour
-- :ear_of_rice: 75 g buckwheat flour
+- :bread: 145 g all-purpose flour
+- :flatbread: 75 g buckwheat flour
 - :candy: 140 g granulated sugar
-- :maple_leaf: 135 g dark brown sugar
+- :candy: 135 g dark brown sugar
 - :egg: 2 eggs
-- :icecream: 2 tsp vanilla
-- :cup_with_straw: 0.5 tsp baking soda
+- :flower_playing_cards: 2 tsp vanilla
+- :chestnut: 0.5 tsp baking soda
 - :salt: 1 tsp salt
-- :chocolate_bar: 100 g dark chocolates
-- :chocolate_bar: 70 g semisweet chocolate
+- :chestnut: 100 g dark chocolates
+- :bread: 70 g semisweet chocolate
 - :chocolate_bar: 1 60 g dark chocolate bar
 
 ## :cooking: Cookware
@@ -98,3 +100,5 @@ sheet pans. Store the cookies wrapped at room temperature for 1 to 2 days or in 
 ## :link: Source
 
 - <https://cupofjo.com/2023/04/12/brown-butter-chocolate-chunk-cookies/>
+
+[1]: <../assets/images/brown-butter-chocolate-chunk-cookies.webp>

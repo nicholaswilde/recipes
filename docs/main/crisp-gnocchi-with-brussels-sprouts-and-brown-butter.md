@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/crisp-gnocchi-with-brussels-sprouts-and-brown-butter.webp
 ---
+
 # :spaghetti: Crisp Gnocchi With Brussels Sprouts and Brown Butter
 
 ![Crisp Gnocchi With Brussels Sprouts and Brown Butter][1]{ loading=lazy }
@@ -16,13 +18,13 @@ tags:
 - :leafy_green: 1 pound Brussels sprouts
 - :tangerine: 1 lemon
 - :olive: 3 Tbsp (38 g) extra-virgin olive oil
-- :salt: 0.5 tsp (3 g) kosher salt
+- :salt: 0.5 tsp kosher salt
 - :salt: some black pepper
 - :hot_pepper: 0.5 tsp (2 g) red-pepper flakes
 - :olive: 1 Tbsp (12 g) extra-virgin olive oil
-- :sweet_potato: 18 ounces (194 g) potato gnocchi
-- :butter: 6 Tbsp (51 g) unsalted butter
-- :honey_pot: 0.5 tsp (4 g) honey
+- :sweet_potato: 18 ounces (342 g) potato gnocchi
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :honey_pot: 0.5 tsp honey
 - :cheese_wedge: some Parmesan
 
 ## :cooking: Cookware
@@ -56,5 +58,4 @@ salt and a generous amount of black pepper, and cook, stirring, until the butter
 
 - <https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter>
 
-[1]: <../assets/images/crisp-gnocchi-with-brussels-sprouts-and-brown-butter.jpg>
-
+[1]: <../assets/images/crisp-gnocchi-with-brussels-sprouts-and-brown-butter.webp>

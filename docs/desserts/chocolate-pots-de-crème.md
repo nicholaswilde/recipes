@@ -4,7 +4,8 @@ tags:
   - dessert
 hero: assets/images/chocolate-pots-de-crème.jpg
 ---
-# Chocolate Pots de Crème
+
+# :chocolate_bar: Chocolate Pots de Crème
 
 ![Chocolate Pots de Crème][1]{ loading=lazy }
 
@@ -17,11 +18,11 @@ hero: assets/images/chocolate-pots-de-crème.jpg
 - :glass_of_milk: 2 cups heavy cream
 - :glass_of_milk: 1 cup milk (2% or whole)
 - :egg: 8 large egg yolks
-- 12 oz bittersweet chocolate (66-72% cacao)
+- :chestnut: 12 oz bittersweet chocolate (66-72% cacao)
 - :candy: 0.5 cups granulated sugar
 - :salt: 0.5 tsp flaky sea salt
 - :flower_playing_cards: 1 tsp vanilla extract
-- 2 Tbsp Grand Marnier (optional)
+- :tumbler_glass: 2 Tbsp Grand Marnier (optional)
 - :glass_of_milk: 1 cup heavy cream
 - :candy: 0.25 cups confectioners' sugar
 - :salt: 0.5 tsp flaky sea salt
@@ -74,4 +75,3 @@ chocolate shavings.
 - <https://alexandracooks.com/2018/02/13/chocolate-pots-de-creme-stovetop-method-no-water-bath/>
 
 [1]: <../assets/images/chocolate-pots-de-crème.jpg>
-

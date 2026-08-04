@@ -4,7 +4,7 @@ tags:
 
   - side
   - jessica-seinfeld
-hero: assets/images/mashed-sweet-potatoes-with-caramelized-shallots.jpg
+hero: assets/images/mashed-sweet-potatoes-with-caramelized-shallots.webp
 ---
 
 # :sweet_potato: Mashed Sweet Potatoes with Caramelized Shallots
@@ -17,14 +17,14 @@ hero: assets/images/mashed-sweet-potatoes-with-caramelized-shallots.jpg
 
 ## :salt: Ingredients
 
-- :sweet_potato: 2.5 lbs sweet potatoes
-- :onion: 4 shallots
-- :olive: 3 Tbsp olive oil
+- :corn: 2.5 lbs sweet potatoes
+- :garlic: 4 shallots
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.75 tsp salt
 - :herb: 8 sprigs thyme
 - :butter: 3 Tbsp butter
-- :salt: 0.25 tsp black pepper
-- :glass_of_milk: 0.25 cup whole milk
+- :salt: 0.25 tsp (1 g) black pepper
+- :glass_of_milk: 0.25 cup (57 g) whole milk
 
 ## :cooking: Cookware
 
@@ -60,4 +60,4 @@ Serve the sweet potatoes topped with the caramelized shallots.
 
 - <https://jessicaseinfeld.com/recipes/mashed-sweet-potatoes-with-caramelized-shallots>
 
-[1]: <../../assets/images/mashed-sweet-potatoes-with-caramelized-shallots.jpg>
+[1]: <../../assets/images/mashed-sweet-potatoes-with-caramelized-shallots.webp>

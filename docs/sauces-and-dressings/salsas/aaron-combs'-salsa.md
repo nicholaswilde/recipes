@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - mexican
-hero: assets/images/aaron-combs'-salsa.jpg
+hero: assets/images/aaron-combs'-salsa.webp
 ---
 
 # :tomato: Aaron Combs' Salsa
 
-![Aaron Comb's Salsa](../../assets/images/aaron-combs'-salsa.jpg){ loading=lazy }
+![Aaron Comb's Salsa](../../assets/images/aaron-combs'-salsa.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,12 +18,12 @@ hero: assets/images/aaron-combs'-salsa.jpg
 ## :salt: Ingredients
 
 - :tomato: 5 tomato
-- :onion: 1 sweet white onion
+- :beans: 1 sweet white onion
 - :herb: some cilantro
 - :hot_pepper: 1 jalapeño
 - :salt: some salt
-- :lemon: some lemon juice
-- :garlic: some granulated garlic
+- :tangerine: some lemon juice
+- :candy: some granulated garlic
 
 ## :cooking: Cookware
 

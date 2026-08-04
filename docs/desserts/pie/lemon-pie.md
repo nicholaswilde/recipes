@@ -6,41 +6,43 @@ tags:
   - dessert
   - magnolia
   - favorite
-hero: assets/images/lemon-pie.jpg
+hero: assets/images/lemon-pie.webp
 ---
 
 # :pie: Lemon Pie
 
-![Lemon Pie](../../assets/images/lemon-pie.jpg){ loading=lazy }
+![Lemon Pie](../../assets/images/lemon-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 1.37 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :cookie: 1.5 cups (149 g) crushed [graham crackers][1]
-- :candy: 0.33 (66 g) cup granulated sugar
-- :butter: 6 Tbsps (85 g) melted salted butter
-- :lemon: 1/2 lemon zest (optional)
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :hot_pepper: 1.5 cups (384 g) crushed [graham crackers][1]
+    - :candy: 0.33 cup (65 g) granulated sugar
+    - :butter: 6 Tbsps melted salted butter
+    - :leafy_green: 1/2 lemon zest (optional)
 
-- :oil_drum: some vegetable oil
-- :glass_of_milk: 3 cups (936 g) [sweetened condensed milk][2]
-- :egg: 3 egg yolks
-- :lemon: 0.66 cup (151 g) lemon juice
-- :salt: some salt
+=== "Filling"
 
-## :salt: Ingredients - Whipped Cream Topping
+    - :olive: some vegetable oil
+    - :glass_of_milk: 3 cups (864 g) [sweetened condensed milk][2]
+    - :baby_bottle: 3 egg yolks
+    - :tangerine: 0.66 cup (148 g) lemon juice
+    - :salt: some salt
 
-- :icecream: 1 cup (227 g) heavy cream
-- :candy: 2 Tbsp (25 g) sugar
-- :icecream: 1 tsp vanilla
-- :lemon: some fresh lemon slices
-- :lemon: some lemon zest
-- :herb: some mint sprigs
-- :lemon: some [candied lemon peel][3]
+=== "Whipped Cream Topping"
+
+    - :glass_of_milk: 1 cup (227 g) heavy cream
+    - :candy: 2 Tbsp (20 g) sugar
+    - :flower_playing_cards: 1 tsp vanilla
+    - :apple: some fresh lemon slices
+    - :tangerine: some lemon zest
+    - :shamrock: some mint sprigs
+    - :apple: some [candied lemon peel][3]
 
 ## :cooking: Cookware
 

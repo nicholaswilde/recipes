@@ -3,10 +3,10 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/buttermilk-panna-cotta.jpg
+hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-panna-cotta.webp
 ---
 
-# :icecream: Buttermilk Panna Cotta
+# :icecream: [buttermilk](../ingredients/buttermilk.md) Panna Cotta
 
 ![Buttermilk Panna Cotta][1]{ loading=lazy }
 
@@ -16,14 +16,14 @@ hero: assets/images/buttermilk-panna-cotta.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 2 Tbsp water
-- :custard: 1.5 tsp unflavored gelatin
-- :icecream: 1 cup whipping cream
-- :lemon: 1 tsp lemon peel
+- :droplet: 2 Tbsp (28 g) water
+- 1.5 tsp unflavored gelatin
+- :glass_of_milk: 1 cup (227 g) whipping cream
+- :tangerine: 1 tsp (3 g) lemon peel
 - :candy: 0.5 cup (99 g) granulated sugar
-- :glass_of_milk: 2 cups (454 g) buttermilk
-- :icecream: 2 tsp vanilla
-- :strawberry: some berry compote (optional)
+- :icecream: 2 cups [buttermilk](../ingredients/buttermilk.md)
+- :flower_playing_cards: 2 tsp vanilla
+- :apple: some berry compote (optional)
 
 ## :cooking: Cookware
 
@@ -43,7 +43,7 @@ minutes. Lightly spray six 3/4 cup ramekins or custard cups with nonstick spray.
 
 Heat whipping cream, lemon peel, and granulated sugar in medium saucepan over medium-high heat, stirring constantly
 until sugar dissolves. Increase heat and bring just to low boil, stirring occasionally. Add gelatin mixture; remove from
-heat. Stir until gelatin dissolves. Cool mixture to lukewarm, stirring often. Stir in buttermilk and vanilla; divide
+heat. Stir until gelatin dissolves. Cool mixture to lukewarm, stirring often. Stir in [buttermilk](../ingredients/buttermilk.md) and vanilla; divide
 mixture among prepared ramekins. Refrigerate panna cotta until set, about 4 hours.
 
 ### Step 3
@@ -59,4 +59,4 @@ panna cotta to settle onto plate. Top with berry compote (optional) and serve ch
 
 - <https://www.epicurious.com/recipes/food/views/buttermilk-panna-cotta-240370>
 
-[1]: <../assets/images/buttermilk-panna-cotta.jpg>
+[1]: <../assets/images/buttermilk-panna-cotta.webp>

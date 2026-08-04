@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/double-chocolate-peppermint-pie.jpg
+hero: assets/images/double-chocolate-peppermint-pie.webp
 ---
-# Double Chocolate Peppermint Pie
+
+# :chocolate_bar: Double Chocolate Peppermint Pie
 
 ![Double Chocolate Peppermint Pie][1]{ loading=lazy }
 
@@ -14,15 +15,15 @@ hero: assets/images/double-chocolate-peppermint-pie.jpg
 
 ## :salt: Ingredients
 
-- 5 oz chocolate wafer cookies
-- :butter: 6 Tbsp unsalted butter
-- :candy: 0.75 cup granulated sugar
+- :chocolate_bar: 5 oz (106 g) chocolate wafer cookies
+- :butter: 6 Tbsp (85 g) unsalted butter
+- :candy: 0.75 cup (148 g) granulated sugar
 - :cheese_wedge: 2 8-oz pkgs cream cheese
-- :salt: 1 Tbsp peppermint extract
-- :glass_of_milk: 1.5 cups heavy cream
-- some red food coloring (optional)
-- some hot fudge sauce
-- :salt: 0.25 cup crushed peppermint candies
+- :flower_playing_cards: 1 Tbsp peppermint extract
+- :glass_of_milk: 1.5 cups (340 g) heavy cream
+- :hot_pepper: some red food coloring (optional)
+- :racehorse: some hot fudge sauce
+- :hot_pepper: 0.25 cup (36 g) crushed peppermint candies
 
 ## :cooking: Cookware
 
@@ -70,5 +71,4 @@ tsp gel coloring or 15 to 18 drops liquid for a light pink filling.
 
 - Magnolia
 
-[1]: <../assets/images/double-chocolate-peppermint-pie.jpg>
-
+[1]: <../assets/images/double-chocolate-peppermint-pie.webp>

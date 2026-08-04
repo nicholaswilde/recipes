@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/buffalo-sauce.jpg
+hero: assets/images/buffalo-sauce.webp
 ---
 
 # :water_buffalo: Buffalo Sauce
 
-![Buffalo Sauce](../../assets/images/buffalo-sauce.jpg){ loading=lazy }
+![Buffalo Sauce](../../assets/images/buffalo-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,10 +16,10 @@ hero: assets/images/buffalo-sauce.jpg
 
 ## :salt: Ingredients
 
-- :hot_pepper: 0.67 cup hot pepper sauce (such as Frank's RedHot)
+- :cheese_wedge: 0.67 cup (153 g) hot pepper sauce (such as Frank's RedHot)
 - :butter: 0.5 cup butter
-- :sake: 1.5 Tbsp white vinegar
-- :canned_food: 0.25 tsp Worcestershire sauce
+- :takeout_box: 1.5 Tbsp (10 g) white vinegar
+- :apple: 0.25 tsp (1 g) Worcestershire sauce
 - :hot_pepper: 0.25 tsp cayenne pepper
 - :garlic: 0.13 tsp garlic powder
 - :salt: some salt

@@ -4,7 +4,7 @@ tags:
 
   - lunch
   - vegetarian
-hero: assets/images/vegetarian-corn-dogs.jpg
+hero: assets/images/vegetarian-corn-dogs.webp
 ---
 
 # :hotdog: Vegetarian Corn Dogs
@@ -17,16 +17,16 @@ hero: assets/images/vegetarian-corn-dogs.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: some vegetable oil
-- :hotdog: 12 vegetarian hot dogs
-- :corn: 1.5 cups corn meal
-- :ear_of_rice: 1.25 cups (150 g) all-purpose flour
+- :olive: some vegetable oil
+- :droplet: 12 vegetarian hot dogs
+- :candy: 1.5 cups (150 g) corn meal
+- :bread: 1.25 cups (150 g) all-purpose flour
 - :candy: 0.25 cup (50 g) granulated sugar
-- :dash: 1 Tbsp baking powder
+- :chestnut: 1 Tbsp baking powder
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 1.75 cups (397 g) buttermilk
+- :icecream: 1.75 cups [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 egg
-- :olive: 1 Tbsp vegetable or olive oil
+- :olive: 1 Tbsp (12 g) vegetable or olive oil
 - :honey_pot: 1 Tbsp honey
 
 ## :cooking: Cookware
@@ -47,8 +47,9 @@ Pat dry with paper towels. Insert sticks into vegetarian hot dogs.
 
 ### Step 3
 
-Whisk together corn meal, all-purpose flour, granulated sugar, baking powder and salt. Whisk together buttermilk, egg, 1
-Tbsp vegetable or olive oil and honey. Combine wet and dry ingredients and whisk to combine.
+Whisk together corn meal, all-purpose flour, granulated sugar, baking powder and salt. Whisk together
+[buttermilk](../ingredients/buttermilk.md), egg, 1 Tbsp vegetable or olive oil and honey. Combine wet and dry
+ingredients and whisk to combine.
 
 ### Step 4
 
@@ -69,4 +70,4 @@ needed to brown evenly. Transfer to a wire rack to cool.
 
 - <https://natashaskitchen.com/corn-dogs-recipe/>
 
-[1]: <../assets/images/vegetarian-corn-dogs.jpg>
+[1]: <../assets/images/vegetarian-corn-dogs.webp>

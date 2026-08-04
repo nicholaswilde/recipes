@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - cookie
-hero: assets/images/blue-zones-almond-cookies.jpg
+hero: assets/images/blue-zones-almond-cookies.webp
 ---
 
 # :chestnut: Blue Zones Almond Cookies
 
-![Blue Zones Almond Cookies](../assets/images/blue-zones-almond-cookies.jpg){ loading=lazy }
+![Blue Zones Almond Cookies](../assets/images/blue-zones-almond-cookies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,10 +16,10 @@ hero: assets/images/blue-zones-almond-cookies.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 6 cups (852 g) almonds
-- :candy: 0.5 cup (99 g) sugar
-- :orange_circle: 3 Tbsp orange flower water
-- :lemon: 1 lemon zest
+- :chestnut: 6 cups (516 g) almonds
+- :candy: 0.5 cup (78 g) sugar
+- :droplet: 3 Tbsp (19 g) orange flower water
+- :tangerine: 1 lemon zest
 
 ## :cooking: Cookware
 

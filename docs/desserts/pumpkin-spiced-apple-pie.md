@@ -4,7 +4,7 @@ tags:
   - dessert
   - holiday
   - pie
-hero: assets/images/pumpkin-spiced-apple-pie.jpg
+hero: assets/images/pumpkin-spiced-apple-pie.webp
 ---
 
 # :pie: Pumpkin Spiced Apple Pie
@@ -96,5 +96,5 @@ Prepare the crumb topping by combining brown sugar, butter, and flour. Stir in c
 
 Reduce oven temperature to 350°F and bake for 30 minutes.
 
-[1]: <../assets/images/pumpkin-spiced-apple-pie.jpg>
+[1]: <../assets/images/pumpkin-spiced-apple-pie.webp>
 [2]: <../ingredients/seasonings/pumpkin-pie-spice.md>

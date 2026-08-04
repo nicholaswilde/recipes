@@ -6,12 +6,12 @@ tags:
   - gordon-ramsay
   - main
   - recipe-box
-hero: assets/images/gordon-ramsay's-spicy-sausage-rice.jpg
+hero: assets/images/gordon-ramsay's-spicy-sausage-rice.webp
 ---
 
 # :rice: Gordon Ramsay's Spicy Sausage Rice
 
-![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.jpg){ loading=lazy }
+![Gordon Ramsay's Spicy Sausage Rice](../assets/images/gordon-ramsay's-spicy-sausage-rice.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -20,15 +20,15 @@ hero: assets/images/gordon-ramsay's-spicy-sausage-rice.jpg
 ## :salt: Ingredients
 
 - :olive: 1 glug olive oil
-- :onion: 1 red onion
+- :tea: 1 red onion
 - :salt: 1 red pepper
 - :garlic: 2 cloves garlic
-- 5 veggie Italian sausage
+- :herb: 5 veggie Italian sausage
 - :hot_pepper: 1 tsp smoked paprika
-- 200 g uncooked rice
-- :wine_glass: 3 oz white wine
-- :stew: 2 cups vegetable stock
-- 4 scallions
+- :wine_glass: 200 g uncooked rice
+- :wine_glass: 3 oz (40 g) white wine
+- :stew: 2 cups (396 g) vegetable stock
+- :tea: 4 scallions
 - :tomato: 1 tomato
 - :herb: 1 small bunch parsley
 
@@ -44,7 +44,7 @@ Add glug of olive oil to a heated Dutch oven. Fry sliced red onion for 5 minutes
 
 ### Step 2
 
-Add the red pepper and garlic and cook  for 2 minutes. Crumble in veggie Italian sausage and cook for 5 minutes.
+Add the red pepper and garlic and cook for 2 minutes. Crumble in veggie Italian sausage and cook for 5 minutes.
 
 ### Step 3
 

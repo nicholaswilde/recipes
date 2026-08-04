@@ -6,12 +6,12 @@ tags:
   - ingredient
   - peppermint
   - magnolia
-hero: assets/images/peppermint-buttercream-frosting.jpg
+hero: assets/images/peppermint-buttercream-frosting.webp
 ---
 
 # :candy: Peppermint Buttercream Frosting
 
-![Peppermint Buttercream Frosting](../../assets/images/peppermint-buttercream-frosting.jpg){ loading=lazy }
+![Peppermint Buttercream Frosting](../../assets/images/peppermint-buttercream-frosting.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -19,10 +19,10 @@ hero: assets/images/peppermint-buttercream-frosting.jpg
 
 ## :salt: Ingredients
 
-- :butter: 0.5 cup (114 g) unsalted butter
-- :candy: 2 cups (396 g) confectioners' sugar
-- :icecream: 1 Tbsp heavy cream
-- :candy: 0.5 tsp peppermint extract
+- :butter: 0.5 cup (113 g) unsalted butter
+- :candy: 2 cups (226 g) confectioners' sugar
+- :glass_of_milk: 1 Tbsp (14 g) heavy cream
+- :flower_playing_cards: 0.5 tsp peppermint extract
 
 ## :pencil: Instructions
 

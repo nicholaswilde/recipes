@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - anna-olson
-hero: assets/images/bread-pudding.jpg
+hero: assets/images/bread-pudding.webp
 ---
 
 # :bread: Bread Pudding
@@ -18,18 +18,18 @@ hero: assets/images/bread-pudding.jpg
 ## :salt: Ingredients
 
 - :grapes: 75 g raisins
-- :sake: some water or rum
+- :droplet: some water or rum
 - :butter: 45 g unsalted butter
 - :egg: 2 large eggs
 - :egg: 1 egg yolk
 - :candy: 100 g granulated sugar
 - :glass_of_milk: 375 g milk
 - :glass_of_milk: 250 g whipping cream
-- :icecream: 1 tsp vanilla
-- :chestnut: 0.25 tsp nutmeg
+- :flower_playing_cards: 1 tsp vanilla
+- :apple: 0.25 tsp nutmeg
 - :salt: 1 pinch salt
-- :bread: 4 cups bread
-- :candy: some [cinnamon sugar][2]
+- :star: 4 cups (480 g) bread
+- some [cinnamon sugar][2]
 
 ## :cooking: Cookware
 
@@ -51,7 +51,7 @@ Tbsp (45 g) over the day-old bread and toss in a large bowl.
 ### Step 3
 
 In a separate bowl, whisk the eggs, egg yolk and granulated sugar and then whisk in the milk, whipping cream, vanilla,
-nutmeg and salt.  Pour this over the day old bread, toss to coat, and let sit for about 15 minutes, stirring once or
+nutmeg and salt. Pour this over the day old bread, toss to coat, and let sit for about 15 minutes, stirring once or
 twice. It may look like a lot of liquid, but it all balances out.
 
 ### Step 4
@@ -76,5 +76,5 @@ The bread pudding can be served warm or chilled.
 
 - <https://www.youtube.com/watch?v=gbhlieL2i4E>
 
-[1]: <../assets/images/bread-pudding.jpg>
+[1]: <../assets/images/bread-pudding.webp>
 [2]: <../ingredients/seasonings/cinnamon-sugar.md>

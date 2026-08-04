@@ -7,34 +7,36 @@ tags:
   - dessert
   - cupcake-jemma
   - macaron
-hero: assets/images/french-macarons.jpg
+hero: assets/images/french-macarons.webp
 ---
 
 # :cookie: French Macarons
 
-![French Macarons](../assets/images/french-macarons.jpg){ loading=lazy }
+![French Macarons](../assets/images/french-macarons.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 36 | 1.37 hours |
 
-## :salt: Ingredients - Macarons
+## :salt: Ingredients
 
-- :candy: 205 g confectioners sugar
-- :chestnut: 190 g ground almonds
-- :egg: 144 g egg whites
-- :blue_circle: some food coloring paste (optional)
-- :ice_cube: 60 ml cold water
-- :candy: 190 g granulated sugar
+=== "Macarons"
 
-## :salt: Ingredients - French Buttercream
+    - :candy: 205 g confectioners sugar
+    - :chestnut: 190 g ground almonds
+    - :egg: 144 g egg whites
+    - :art: some food coloring paste (optional)
+    - :baby_bottle: 60 ml (58 g) cold water
+    - :candy: 190 g granulated sugar
 
-- :candy: 0.5 cup (99 g) granulated sugar
-- :droplet: 3 Tbsp water
-- :egg: 5 egg yolks
-- :butter: 1 cup (227 g) unsalted butter
-- :icecream: 1 tsp vanilla
-- :salt: 1 pinch salt
+=== "French Buttercream"
+
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :droplet: 3 Tbsp (43 g) water
+    - :baby_bottle: 5 egg yolks
+    - :butter: 1 cup (226 g) unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
+    - :salt: 1 pinch salt
 
 ## :cooking: Cookware
 

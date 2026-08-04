@@ -1,0 +1,8 @@
+{
+  "track_id": "migrate-servings-tabs_20260613",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-06-13T17:26:00Z",
+  "updated_at": "2026-06-13T17:26:00Z",
+  "description": "scan the recipe markdown files for recipes with multiple `serves` and multiple recipe lists. Migrate to use zensical tabs with the `serves <X>` as the tab name"
+}

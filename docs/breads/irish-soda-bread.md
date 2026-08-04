@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/irish-soda-bread.jpg
+hero: assets/images/irish-soda-bread.webp
 ---
 
 # :four_leaf_clover: Irish Soda Bread
@@ -17,18 +17,18 @@ hero: assets/images/irish-soda-bread.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 276 g Irish-style flour
-- :ear_of_rice: 150 g bread flour
+- :bread: 276 g Irish-style flour
+- :bread: 150 g bread flour
 - :candy: 37 g granulated sugar
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 tsp baking soda
 - :salt: 1.5 tsp kosher salt
-- :grapes: 95 g currants
+- 95 g currants
 - :grapes: 99 g raisins (alternative)
 - :butter: 57 g unsalted butter
-- :glass_of_milk: 302 g buttermilk
+- :icecream: 302 g [buttermilk](../ingredients/buttermilk.md)
 - :egg: 1 large egg
-- :ear_of_rice: 254 g whole wheat (alternative)
-- :ear_of_rice: 150 g all-purpose flour (alternative)
+- :bread: 254 g whole wheat (alternative)
+- :baby_bottle: 150 g all-purpose flour (alternative)
 
 ## :cooking: Cookware
 
@@ -56,9 +56,9 @@ no large chunks remain.
 
 ### Step 4
 
-In a separate bowl (or in a measuring cup) whisk together the buttermilk and egg. Pour this mixture into the dry
+In a separate bowl (or in a measuring cup) whisk together the [buttermilk](../ingredients/buttermilk.md) and egg. Pour this mixture into the dry
 ingredients and mix to combine. The dough will be stiff; if it's too crumbly to squeeze together, add another tablespoon
-or two of buttermilk.
+or two of [buttermilk](../ingredients/buttermilk.md).
 
 ### Step 5
 
@@ -84,4 +84,4 @@ Store for about 2 days, well wrapped, at room temperature; freeze for longer sto
 
 - <https://www.kingarthurbaking.com/recipes/irish-soda-bread-recipe>
 
-[1]: <../assets/images/irish-soda-bread.jpg>
+[1]: <../assets/images/irish-soda-bread.webp>

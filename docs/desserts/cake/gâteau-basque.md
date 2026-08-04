@@ -5,37 +5,39 @@ tags:
   - dessert
   - cake
   - french
-hero: assets/images/gâteau-basque.jpg
+hero: assets/images/gâteau-basque.webp
 ---
 
 # :cake: Gâteau Basque
 
-![Gâteau Basque](../../assets/images/gâteau-basque.jpg){ loading=lazy }
+![Gâteau Basque](../../assets/images/gâteau-basque.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 1.28 hours |
 
-## :salt: Ingredients - Shortcrust
+## :salt: Ingredients
 
-- :ear_of_rice: 200 g all-purpose flour
-- :dash: 12 g baking powder
-- :candy: 130 g granulated sugar
-- :butter: 140 g diced cold butter
-- :lemon: some lemon zest
-- :egg: 4 egg yolks
+=== "Shortcrust"
 
-## :salt: Ingredients - Pastry Cream
+    - :ear_of_rice: 200 g all-purpose flour
+    - :dash: 12 g baking powder
+    - :candy: 130 g granulated sugar
+    - :butter: 140 g diced cold butter
+    - :lemon: some lemon zest
+    - :egg: 4 egg yolks
 
-- :glass_of_milk: 250 ml milk
-- :icecream: 0.5 vanilla bean
-- :candy: 60 g granulated sugar
-- :egg: 4 egg yolks
-- :ear_of_rice: 10 g all-purpose flour
-- :corn: 15 g cornstarch
-- :butter: 20 g butter
-- :tumbler_glass: 1 tsp rum (optional)
-- :egg: 1 egg
+=== "Pastry Cream"
+
+    - :glass_of_milk: 250 ml milk
+    - :icecream: 0.5 vanilla bean
+    - :candy: 60 g granulated sugar
+    - :egg: 4 egg yolks
+    - :ear_of_rice: 10 g all-purpose flour
+    - :corn: 15 g cornstarch
+    - :butter: 20 g butter
+    - :tumbler_glass: 1 tsp rum (optional)
+    - :egg: 1 egg
 
 ## :cooking: Cookware
 
@@ -97,7 +99,7 @@ the pan. On a medium heat, bring back to the boil, whisking continuously.
 
 ### Step 10
 
-Once boiling, reduce the heat to low and keep cooking for 2 minutes.  Turn off the heat and whisk in the butter. The
+Once boiling, reduce the heat to low and keep cooking for 2 minutes. Turn off the heat and whisk in the butter. The
 mixture should be smooth and thick.
 
 ### Step 11
@@ -114,7 +116,7 @@ another sheet on top.
 
 ### Step 13
 
-Roll out the dough until the round disc is a diameter of 20 cm (8 inches).  Place on a flat board and return to the
+Roll out the dough until the round disc is a diameter of 20 cm (8 inches). Place on a flat board and return to the
 fridge.
 
 ### Step 14

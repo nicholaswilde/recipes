@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/cookies-&-cream-candy-bark.jpg
+hero: assets/images/cookies-&-cream-candy-bark.webp
 ---
-# Cookies & Cream Candy Bark
+
+# :cookie: Cookies & Cream Candy Bark
 
 ![Cookies & Cream Candy Bark][1]{ loading=lazy }
 
@@ -14,8 +15,8 @@ hero: assets/images/cookies-&-cream-candy-bark.jpg
 
 ## :salt: Ingredients
 
-- :flower_playing_cards: 2 cups vanilla melts
-- :chocolate_bar: 2 cups milk chocolate melts
+- :chocolate_bar: 2 cups vanilla melts
+- :chocolate_bar: 2 cups (224 g) milk chocolate melts
 - 15 cookies Oreo
 
 ## :cooking: Cookware
@@ -42,5 +43,4 @@ Drop spoonfuls of both mixtures onto wax paper and swirl with a knife.
 
 Sprinkle remaining Oreos on top; allow to harden in refrigerator.
 
-[1]: <../assets/images/cookies-&-cream-candy-bark.jpg>
-
+[1]: <../assets/images/cookies-&-cream-candy-bark.webp>

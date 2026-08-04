@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/peanut-butter.jpg
+hero: assets/images/peanut-butter.webp
 ---
 
 # :peanuts: Peanut Butter
 
-![Peanut Butter](../assets/images/peanut-butter.jpg){ loading=lazy }
+![Peanut Butter](../assets/images/peanut-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,7 +17,7 @@ hero: assets/images/peanut-butter.jpg
 
 ## :salt: Ingredients
 
-- :peanuts: 4 cups raw or preroasted peanuts
+- :chestnut: 4 cups (568 g) raw or preroasted peanuts
 - :honey_pot: 1 tsp honey
 - :salt: 0.75 tsp salt
 

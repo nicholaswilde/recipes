@@ -5,7 +5,7 @@ tags:
   - sauce
   - the-new-york-times
   - recipe-box
-hero: assets/images/new-york-times'-classic-marinara-sauce.jpg
+hero: assets/images/new-york-times'-classic-marinara-sauce.webp
 ---
 
 # :tomato: New York Times' Classic Marinara Sauce
@@ -18,8 +18,8 @@ hero: assets/images/new-york-times'-classic-marinara-sauce.jpg
 
 ## :salt: Ingredients
 
-- :tomato: 1 28-oz can tomatoes
-- :olive: 0.25 cup olive oil
+- :glass_of_milk: 1 28-oz can tomatoes
+- :olive: 0.25 cup (50 g) olive oil
 - :garlic: 7 cloves garlic
 - :hot_pepper: 1 pinch whole chili or red pepper flakes (optional)
 - :herb: 0.25 tsp oregano
@@ -62,4 +62,4 @@ Taste and season as needed. Discard basil and chile, if using.
 - The New York Times
 - Recipe Box
 
-[1]: <../../assets/images/new-york-times'-classic-marinara-sauce.jpg>
+[1]: <../../assets/images/new-york-times'-classic-marinara-sauce.webp>

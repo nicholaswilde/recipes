@@ -5,7 +5,7 @@ tags:
   - tofu
   - ingredient
   - minimalist-baker
-hero: assets/images/crispy-baked-tofu-with-italian-herbs.jpg
+hero: assets/images/crispy-baked-tofu-with-italian-herbs.webp
 ---
 
 # :custard: Crispy Baked Tofu with Italian Herbs
@@ -18,11 +18,11 @@ hero: assets/images/crispy-baked-tofu-with-italian-herbs.jpg
 
 ## :salt: Ingredients
 
-- :custard: 1 extra-firm tofu
+- :cheese_wedge: 1 extra-firm tofu
 - :takeout_box: 1.5 Tbsp tamari
-- :olive: 3 Tbsp olive oil
-- :sake: 3 Tbsp balsamic vinegar
-- :tomato: 1.5 Tbsp tomato paste
+- :olive: 3 Tbsp (38 g) olive oil
+- :wine_glass: 3 Tbsp balsamic vinegar
+- 1.5 Tbsp [Tomato Paste](../tomato-paste.md)
 - :garlic: 4.5 cloves garlic
 - :herb: 2 tsp basil
 - :herb: 1.5 tsp oregano
@@ -54,7 +54,7 @@ Crumble the tofu into pieces less than 1/2-inch in size and arrange them on the 
 
 ### Step 4
 
-In a small bowl, whisk the remaining ingredients (tamari, olive oil, balsamic vinegar, tomato paste, garlic, basil,
+In a small bowl, whisk the remaining ingredients (tamari, olive oil, balsamic vinegar, [Tomato Paste](../tomato-paste.md), garlic, basil,
 oregano, thyme, and salt). Pour over the tofu and toss to coat.
 
 ### Step 5
@@ -76,4 +76,4 @@ skillet or in the oven at 350°F (176°C) for 5-10 minutes until warm and crispy
 
 - <https://minimalistbaker.com/italian-herb-crispy-baked-tofu/>
 
-[1]: <../../assets/images/crispy-baked-tofu-with-italian-herbs.jpg>
+[1]: <../../assets/images/crispy-baked-tofu-with-italian-herbs.webp>

@@ -4,12 +4,12 @@ tags:
 
   - main
   - enchilada
-hero: assets/images/sweet-potato-black-bean-enchiladas.jpg
+hero: assets/images/sweet-potato-black-bean-enchiladas.webp
 ---
 
 # :stuffed_flatbread: Sweet Potato Black Bean Enchiladas
 
-![Sweet Potato Black Bean Enchiladas](../assets/images/sweet-potato-black-bean-enchiladas.jpg){ loading=lazy }
+![Sweet Potato Black Bean Enchiladas](../assets/images/sweet-potato-black-bean-enchiladas.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,15 +17,15 @@ hero: assets/images/sweet-potato-black-bean-enchiladas.jpg
 
 ## :salt: Ingredients
 
-- :sweet_potato: 2 lb sweet potatoes
-- :olive: 2 Tbsp extra virgin olive oil
-- :herb: 1 tsp cumin
-- :hot_pepper: 0.5 tsp chili powder
+- :corn: 2 lb sweet potatoes
+- :olive: 2 Tbsp (25 g) extra virgin olive oil
+- :chestnut: 1 tsp (3 g) cumin
+- :hot_pepper: 0.5 tsp (1 g) chili powder
 - :salt: 0.25 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 - :leafy_green: 1 bunch curly kale
-- :canned_food: 8 oz can [black beans][1]
-- :sauce: 1 cup (225 g) [enchilada sauce][2]
+- 8 oz can [black beans][1]
+- 1 cup [enchilada sauce][2]
 - :cheese_wedge: 1 cup (113 g) shredded cheddar or Monterey jack cheese
 - :bread: 8 tortillas
 - :avocado: some avocado

@@ -5,7 +5,7 @@ tags:
   - bread
   - claire-saffitz
   - favorite
-hero: assets/images/pull-apart-sour-cream-and-chive-rolls.jpg
+hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 ---
 
 # :bread: Pull-Apart Sour Cream and Chive Rolls
@@ -67,7 +67,6 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.jpg
     - :salt: some flaky sea salt
     - :salt: some pepper
     - :butter: 1 Tbsp (14 g) unsalted butter
-
 
 ## :cooking: Cookware
 
@@ -214,4 +213,4 @@ can take up to 3 hours). Rolls can be baked 3 days ahead. Let cool. Store airtig
 - <https://chewingthefat.us.com/2021/01/claire-saffritz-pull-apart-sour-cream-and-chive-rolls.html>
 - <https://www.youtube.com/watch?v=Wvk135WOAg0>
 
-[1]: <../assets/images/pull-apart-sour-cream-and-chive-rolls.jpg>
+[1]: <../assets/images/pull-apart-sour-cream-and-chive-rolls.webp>

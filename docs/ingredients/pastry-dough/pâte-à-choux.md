@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - king-arthur
-hero: assets/images/pâte-à-choux.jpg
+hero: assets/images/pâte-à-choux.webp
 ---
 
 # :pie: Pâte À Choux
 
-![Pâte À Choux](../../assets/images/pâte-à-choux.jpg){ loading=lazy }
+![Pâte À Choux](../../assets/images/pâte-à-choux.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

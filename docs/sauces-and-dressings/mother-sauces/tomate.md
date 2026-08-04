@@ -5,12 +5,12 @@ tags:
   - mother-sauce
   - french
   - joy-of-cooking
-hero: assets/images/tomate.jpg
+hero: assets/images/tomate.webp
 ---
 
 # :tomato: Tomate
 
-![Tomate](../../assets/images/tomate.jpg){ loading=lazy }
+![Tomate](../../assets/images/tomate.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,8 +18,8 @@ hero: assets/images/tomate.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 small onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 small onion
 - :carrot: 1 small carrot
 - :leafy_green: 1 celery rib with leaves
 - :herb: 2 Tbsp parsley
@@ -29,7 +29,7 @@ hero: assets/images/tomate.jpg
 - :herb: 1 Tbsp sage
 - :herb: 1 Tbsp thyme
 - :tomato: 1 28-oz can whole tomatoes with juice
-- :tomato: 2 tsp tomato paste
+- 2 tsp [Tomato Paste](../../ingredients/tomato-paste.md)
 - :salt: 0.75 tsp salt
 - :salt: 0.25 tsp pepper
 
@@ -55,7 +55,7 @@ Add and cook, stirring, for about 30 seconds minced garlic, chopped basil, rosem
 
 ### Step 4
 
-Stir in whole tomatoes with juice, tomato paste, salt, and pepper.
+Stir in whole tomatoes with juice, [Tomato Paste](../../ingredients/tomato-paste.md), salt, and pepper.
 
 ### Step 5
 

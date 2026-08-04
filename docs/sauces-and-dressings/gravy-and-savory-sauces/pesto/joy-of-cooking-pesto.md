@@ -5,12 +5,12 @@ tags:
   - sauce
   - joy-of-cooking
   - pesto
-hero: assets/images/joy-of-cooking-pesto.jpg
+hero: assets/images/joy-of-cooking-pesto.webp
 ---
 
 # :herb: Joy of Cooking Pesto
 
-![Joy of Cooking Pesto](../../../assets/images/joy-of-cooking-pesto.jpg){ loading=lazy }
+![Joy of Cooking Pesto](../../../assets/images/joy-of-cooking-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,10 +19,10 @@ hero: assets/images/joy-of-cooking-pesto.jpg
 ## :salt: Ingredients
 
 - :herb: 2 cups basil leaves
-- :cheese_wedge: 0.5 cup Parmesan
-- :chestnut: 0.33 cup pine nuts
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
+- :chestnut: 0.33 cup (47 g) pine nuts
 - :garlic: 2 cloves garlic
-- :olive: 0.5 cup olive oil
+- :olive: 0.5 cup (100 g) olive oil
 - :salt: some salt
 - :salt: some pepper
 

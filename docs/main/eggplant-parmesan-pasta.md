@@ -5,12 +5,12 @@ tags:
   - pasta
   - italian
   - vegetarian
-hero: assets/images/eggplant-parmesan-pasta.jpg
+hero: assets/images/eggplant-parmesan-pasta.webp
 ---
 
 # :spaghetti: Eggplant Parmesan Pasta
 
-![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.jpg){ loading=lazy }
+![Eggplant Parmesan Pasta](../assets/images/eggplant-parmesan-pasta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:------:|:----------:|
@@ -18,21 +18,21 @@ hero: assets/images/eggplant-parmesan-pasta.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 2 Tbsps Parmigiano-Reggiano
+- 2 Tbsps Parmigiano-Reggiano
 - :herb: 1 sprig basil sprig
-- :seedling: 0.25 cups chopped basil
-- :canned_food: 1 can crushed tomatoes
+- :herb: 0.25 cups chopped basil
+- :hot_pepper: 1 can crushed tomatoes
 - :eggplant: 8 cups cubed eggplant
-- :herb: 0.25 tsp dried oregano
-- :onion: 0.5 cups finely chopped onion
+- :herb: 0.25 tsp (1 g) dried oregano
+- :beans: 0.5 cups (71 g) finely chopped onion
 - :garlic: 3 cloves minced garlic
 - :cheese_wedge: 8 ozs mozzarella
 - :olive: 8 Tbsps olive oil
-- :bread: 0.75 cups panko bread crumbs
-- :cup_with_straw: 0.5 cups pasta water
+- :bread: 0.75 cups (150 g) panko bread crumbs
+- :droplet: 0.5 cups (72 g) pasta water
 - :spaghetti: 1 lb short pasta
-- :tomato: 2 Tbsps tomato paste
-- :cup_with_straw: 1.5 cups water
+- 2 Tbsps [Tomato Paste](../ingredients/tomato-paste.md)
+- :droplet: 1.5 cups (340 g) water
 
 ## :cooking: Cookware
 
@@ -53,7 +53,7 @@ Set a large pot of salted water to boil.
 Wipe out the skillet and heat 2 tablespoons of the olive oil over medium. Add finely chopped onion and cook, stirring
 occasionally, until softened, about 2 minutes. Stir in minced garlic until fragrant, 30 seconds. Add eggplant and
 drizzle over the remaining 4 tablespoons olive oil. Season with salt and pepper, and cook, stirring occasionally,
-until eggplant is softened, about 8 minutes. Add in tomato paste and stir constantly until lightly caramelized on the
+until eggplant is softened, about 8 minutes. Add in [Tomato Paste](../ingredients/tomato-paste.md) and stir constantly until lightly caramelized on the
 bottom of the skillet, about 2 minutes. Add crushed tomatoes, basil sprig, dried oregano and 1½ cups of water, and
 bring to a simmer over medium-high heat.
 

@@ -4,12 +4,12 @@ tags:
 
   - caramel
   - ingredient
-hero: assets/images/hard-caramel.jpg
+hero: assets/images/hard-caramel.webp
 ---
 
 # :candy: Hard Caramel
 
-![Hard Caramel](../../assets/images/hard-caramel.jpg){ loading=lazy }
+![Hard Caramel](../../assets/images/hard-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,7 +18,7 @@ hero: assets/images/hard-caramel.jpg
 ## :salt: Ingredients
 
 - :candy: 225 g granulated sugar
-- :droplet: 60 ml water
+- :droplet: 60 ml (58 g) water
 - :butter: 15 g unsalted butter
 - :chestnut: 60 g toasted pecans
 

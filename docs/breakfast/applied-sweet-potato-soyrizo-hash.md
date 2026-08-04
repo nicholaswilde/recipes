@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/applied-sweet-potato-soyrizo-hash.jpg
+hero: assets/images/applied-sweet-potato-soyrizo-hash.webp
 ---
 
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash
 
-![Applied Sweet Potato Soyrizo Hash](../assets/images/applied-sweet-potato-soyrizo-hash.jpg){ loading=lazy }
+![Applied Sweet Potato Soyrizo Hash](../assets/images/applied-sweet-potato-soyrizo-hash.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,13 +16,13 @@ hero: assets/images/applied-sweet-potato-soyrizo-hash.jpg
 
 ## :salt: Ingredients
 
-- :sweet_potato: 2 lb sweet potatoes
-- :olive: 2 Tbsp extra virgin olive oil
-- :hot_pepper: 12 oz soyrizo
-- :canned_food: 1 15-oz can [black beans][1]
+- :corn: 2 lb sweet potatoes
+- :olive: 2 Tbsp (25 g) extra virgin olive oil
+- 12 oz soyrizo
+- :glass_of_milk: 1 15-oz can [black beans][1]
 - :avocado: 1 avocado
 - :herb: some cilantro
-- :lemon: some lime wedges
+- :tangerine: some lime wedges
 
 ## :cooking: Cookware
 

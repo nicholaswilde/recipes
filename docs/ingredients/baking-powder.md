@@ -5,9 +5,10 @@ tags:
   - baking
   - staples
   - homemade
-hero: assets/images/baking-powder.jpg
+hero: assets/images/baking-powder.webp
 ---
-# Baking Powder
+
+# :baby_bottle: Baking Powder
 
 ![Baking Powder][1]{ loading=lazy }
 
@@ -17,9 +18,9 @@ hero: assets/images/baking-powder.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 2 Tbsp (18 g) cream of tartar
-- :chestnut: 1 Tbsp (18 g) baking soda
-- :chestnut: 1 Tbsp (7 g) cornstarch (optional, for storage)
+- :glass_of_milk: 2 Tbsp (36 g) cream of tartar
+- :chestnut: 1 Tbsp baking soda
+- :bread: 1 Tbsp (7 g) cornstarch (optional, for storage)
 
 ## :cooking: Cookware
 
@@ -54,4 +55,4 @@ Transfer to an airtight container. Store in a cool, dry place for up to 6 months
 - [Arm & Hammer](https://www.armandhammer.com/en/articles/homemade-baking-powder-substitute)
 - [King Arthur Baking](https://www.kingarthurbaking.com/blog/2015/06/14/baking-powder-substitute)
 
-[1]: <../assets/images/baking-powder.jpg>
+[1]: <../assets/images/baking-powder.webp>

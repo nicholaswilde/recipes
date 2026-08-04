@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/cashew-nacho-cheese.jpg
+hero: assets/images/cashew-nacho-cheese.webp
 ---
 
 # :cheese_wedge: Cashew Nacho Cheese
@@ -17,14 +17,14 @@ hero: assets/images/cashew-nacho-cheese.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 1 cup raw cashews
-- :jack_o_lantern: 2 Tbsp pumpkin seeds
-- :lemon: 2 Tbsp lemon juice
+- :chestnut: 1 cup (113 g) raw cashews
+- :seedling: 2 Tbsp (20 g) pumpkin seeds
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :garlic: 1 clove garlic
 - :hot_pepper: 1 jalapeño
 - :salt: 2 tsp salt
 - :hot_pepper: 1.5 tsp chipotle powder
-- :droplet: 0.25 cup water
+- :droplet: 0.25 cup (57 g) water
 
 ## :cooking: Cookware
 
@@ -57,4 +57,4 @@ The mixture will keep in the fridge, covered, for 3 to 4 days.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cashew-nacho-cheese.jpg>
+[1]: <../../assets/images/cashew-nacho-cheese.webp>

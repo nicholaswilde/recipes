@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg
+hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.webp
 ---
 
 # :cookie: Peanut Butter Chocolate Chip Cookies Jessie Sheehan
@@ -17,19 +17,19 @@ hero: assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg
 
 ## :salt: Ingredients
 
-- :bread: 2 cups (260 g) bread flour
-- :chestnut: 1 tsp (6 g) baking soda
-- :chestnut: 0.25 tsp (1 g) baking powder
-- :salt: 1.25 tsp (8 g) kosher salt
-- :hot_pepper: 0.88 cup (150 g) milk chocolate chips
-- :butter: 1.5 sticks (168 g) unsalted butter
+- :bread: 2 cups (240 g) bread flour
+- :chestnut: 1 tsp baking soda
+- :chestnut: 0.25 tsp baking powder
+- :salt: 1.25 tsp kosher salt
+- :chocolate_bar: 0.88 cup (156 g) milk chocolate chips
+- :butter: 1.5 sticks unsalted butter
 - :candy: 1.25 cup (266 g) light brown sugar
 - :candy: 0.25 cup (50 g) granulated sugar
-- :olive: 0.25 cup (49 g) vegetable oil
-- :flower_playing_cards: 1 Tbsp (14 g) pure vanilla extract
+- :olive: 0.25 cup (50 g) vegetable oil
+- :flower_playing_cards: 1 Tbsp pure vanilla extract
 - :egg: 1 egg
 - :egg: 2 egg yolk
-- :chestnut: 0.88 cup (202 g) creamy peanut butter
+- :chestnut: 0.88 cup (238 g) creamy peanut butter
 - :candy: some granulated sugar
 - :salt: some Maldon sea salt
 
@@ -110,4 +110,4 @@ Cool on a rack.
 
 - [The Pancake Princess - Best Peanut Butter Cookie Bake-Off](https://www.thepancakeprincess.com/2020/06/30/best-peanut-butter-cookie-bake-off/)
 
-[1]: <../assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.jpg>
+[1]: <../assets/images/peanut-butter-chocolate-chip-cookies-jessie-sheehan.webp>

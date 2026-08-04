@@ -4,12 +4,12 @@ tags:
 
   - filling
   - ingredient
-hero: assets/images/mousse.jpg
+hero: assets/images/mousse.webp
 ---
 
 # :chocolate_bar: Mousse
 
-![Mousse](../../assets/images/mousse.jpg){ loading=lazy }
+![Mousse](../../assets/images/mousse.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/mousse.jpg
 
 ## :salt: Ingredients
 
-- :custard: 2 each gelatin sheets
+- 2 each gelatin sheets
 - :glass_of_milk: 312 g whole milk
 - :chocolate_bar: 308 g 70 percent dark chocolate
-- :icecream: 448 g heavy cream
+- :glass_of_milk: 448 g heavy cream
 
 ## :cooking: Cookware
 

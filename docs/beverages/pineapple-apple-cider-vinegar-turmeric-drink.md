@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/pineapple-apple-cider-vinegar-turmeric-drink.jpg
+hero: assets/images/pineapple-apple-cider-vinegar-turmeric-drink.webp
 ---
 
 # :pineapple: Pineapple Apple Cider Vinegar Turmeric Drink
@@ -16,16 +16,16 @@ hero: assets/images/pineapple-apple-cider-vinegar-turmeric-drink.jpg
 
 ## :salt: Ingredients
 
-- :pineapple: 1 cup pineapple
-- :pineapple: 0.5 cup 100% pineapple juice (alternative)
-- :maple_leaf: 2 Tbsp honey or maple syrup
-- :apple: 4 Tbsp apple cider vinegar
-- :leafy_green: 2 leaves mint
-- :curry: 0.25 tsp turmeric
-- :sweet_potato: 0.5 tsp ginger (optional)
-- :lemon: 2 Tbsp lime juice
-- :ice_cube: some ice
-- :clinking_glasses: 12 oz sparkling water
+- :pineapple: 1 cup (142 g) pineapple
+- :tangerine: 0.5 cup (85 g) 100% pineapple juice (alternative)
+- :honey_pot: 2 Tbsp (39 g) honey or maple syrup
+- :apple: 4 Tbsp (70 g) apple cider vinegar
+- :shamrock: 2 leaves mint
+- :curry: 0.25 tsp (1 g) turmeric
+- :leafy_green: 0.5 tsp (2 g) ginger (optional)
+- :tangerine: 2 Tbsp (28 g) lime juice
+- :baby_bottle: some ice
+- :baby_bottle: 12 oz (342 g) sparkling water
 
 ## :pencil: Instructions
 
@@ -47,4 +47,4 @@ Top with 6 to 12 oz sparkling water and garnish with mint and/or lime (optional)
 Feel free to adjust the amount of apple cider vinegar to your preference. You can also add a bit of black pepper to
 enhance the flavor. Enjoy!
 
-[1]: <../assets/images/pineapple-apple-cider-vinegar-turmeric-drink.jpg>
+[1]: <../assets/images/pineapple-apple-cider-vinegar-turmeric-drink.webp>

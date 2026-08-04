@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - king-arthur
-hero: assets/images/bagels.jpg
+hero: assets/images/bagels.webp
 ---
 
 # :bagel: Bagels
@@ -15,39 +15,41 @@ hero: assets/images/bagels.jpg
 |:----------------------------------:|:-----------------------: |
 | 8 bagels | 17.87 hours |
 
-## :salt: Ingredients - Starter
+## :salt: Ingredients
 
-- :ear_of_rice: 120 g bread flour
-- :salt: 0.25 tsp kosher salt
-- :microbe: 0.06 tsp instant yeast
-- :ice_cube: 75 g cool water
+=== "Starter"
 
-## :salt: Ingredients - Dough
+    - :bread: 120 g bread flour
+    - :salt: 0.25 tsp kosher salt
+    - :tea: 0.06 tsp instant yeast
+    - :droplet: 75 g cool water
 
-- :droplet: 170 g room temperature water
-- :ear_of_rice: 14 g barley malt syrup
-- :maple_leaf: 13 g dark brown sugar (alternative)
-- :microbe: 0.75 tsp instant yeast
-- :salt: 8 g salt
-- :ear_of_rice: 300 g bread flour
+=== "Dough"
 
-## :salt: Ingredients - Water Bath
+    - :baby_bottle: 170 g room temperature water
+    - :candy: 14 g barley malt syrup
+    - :candy: 13 g dark brown sugar (alternative)
+    - :tea: 0.75 tsp (2 g) instant yeast
+    - :salt: 8 g salt
+    - :bread: 300 g bread flour
 
-| :scales: Ratio |
-|:-----:|
-| 2.3% |
+=== "Water Bath"
 
-- :droplet: 1808 g water
-- :ear_of_rice: 42 g barley malt syrup or honey
+    | :scales: Ratio |
+    |:-----:|
+    | 2.3% |
 
-## :salt: Ingredients - Topping
+    - :droplet: 1808 g water
+    - :candy: 42 g barley malt syrup or honey
 
-- :bagel: 47 g Everything bagel topping (optional)
+=== "Topping"
 
-## :salt: Ingredients - Egg Wash
+    - :tea: 47 g Everything bagel topping (optional)
 
-- :egg: 1 egg
-- :droplet: 1 Tbsp water
+=== "Egg Wash"
+
+    - :egg: 1 egg
+    - :droplet: 1 Tbsp (14 g) water
 
 ## :cooking: Cookware
 
@@ -176,4 +178,4 @@ into sandwiches can be stored, well wrapped, at room temperature for several day
 
 - <https://www.kingarthurbaking.com/recipes/ultimate-sandwich-bagels-recipe>
 
-[1]: <../assets/images/bagels.jpg>
+[1]: <../assets/images/bagels.webp>

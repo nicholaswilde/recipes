@@ -4,7 +4,7 @@ tags:
 
   - stew
   - vegetarian
-hero: assets/images/hearty-vegetarian-stew.jpg
+hero: assets/images/hearty-vegetarian-stew.webp
 ---
 
 # :stew: Hearty Vegetarian Stew
@@ -18,19 +18,19 @@ hero: assets/images/hearty-vegetarian-stew.jpg
 ## :salt: Ingredients
 
 - :olive: some vegetable oil
-- :sweet_potato: 2 lbs butternut squash
+- 2 lbs butternut squash
 - :salt: some salt
 - :salt: some pepper
-- :ear_of_rice: 2 Tbsp flour
-- :onion: 1 yellow onions
-- :herb: 1 Tbsp fresh thyme
+- :bread: 2 Tbsp (12 g) flour
+- :tea: 1 yellow onions
+- :apple: 1 Tbsp fresh thyme
 - :garlic: 4 cloves garlic
 - :wine_glass: 1 cup Marsala wine
 - :mushroom: 0.5 lb mushrooms
-- :canned_food: 1 cup red kidney beans
-- :tomato: 2 Tbsp tomato paste
-- :stew: 4 cups vegetable broth
-- :leafy_green: 2 Tbsp parsley
+- :wine_glass: 1 cup (210 g) red kidney beans
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware
 
@@ -47,8 +47,8 @@ around edges, about 5 minutes.
 ### Step 2
 
 Add chopped yellow onions and fresh thyme. Saute until onions are tender, about 2 minutes. Add minced garlic and saute
-for about 30 seconds, then add Marsala wine, halved mushrooms, red kidney beans, and tomato paste and stir to combine.
-Add enough vegetable broth to cover squash.
+for about 30 seconds, then add Marsala wine, halved mushrooms, red kidney beans, and [Tomato Paste](../ingredients/tomato-paste.md) and stir to combine.
+Add enough [Vegetable Broth](../ingredients/vegetable-broth.md) to cover squash.
 
 ### Step 3
 
@@ -66,4 +66,4 @@ If a thicker consistency is desired, let simmer for another 25 to 30 minutes.
 
 When ready, sprinkle with chopped parsley and serve hot.
 
-[1]: <../assets/images/hearty-vegetarian-stew.jpg>
+[1]: <../assets/images/hearty-vegetarian-stew.webp>

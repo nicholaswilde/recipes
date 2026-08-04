@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/grandma-kleins-chocolate-caramels.jpg
+hero: assets/images/grandma-kleins-chocolate-caramels.webp
 ---
 
 # :chocolate_bar: Grandma Kleins Chocolate Caramels
 
-![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.jpg){ loading=lazy }
+![Grandma Kleins Chocolate Caramels](../assets/images/grandma-kleins-chocolate-caramels.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/grandma-kleins-chocolate-caramels.jpg
 ## :salt: Ingredients
 
 - :candy: 2 cups (396 g) granulated sugar
-- :corn: 1.5 cups (468 g) corn syrup
-- :icecream: 1.5 cups heavy cream
-- :butter: 1 cup (227 g) unsalted butter
-- :chocolate_bar: 4 oz unsweetened chocolate
-- :icecream: 2 tsp vanilla
-- :chestnut: 1.5 cups nuts (optional)
+- :candy: 1.5 cups (468 g) corn syrup
+- :glass_of_milk: 1.5 cups (340 g) heavy cream
+- :butter: 1 cup (226 g) unsalted butter
+- :chocolate_bar: 4 oz (85 g) unsweetened chocolate
+- :flower_playing_cards: 2 tsp vanilla
+- :leafy_green: 1.5 cups (171 g) nuts (optional)
 
 ## :cooking: Cookware
 

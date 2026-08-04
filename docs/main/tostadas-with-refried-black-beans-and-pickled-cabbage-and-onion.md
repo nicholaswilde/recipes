@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - main
-hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.jpg
+hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.webp
 ---
 
 # :stuffed_flatbread: Tostadas with Refried Black Beans & Pickled Cabbage & Onion
@@ -14,23 +14,25 @@ hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-on
 |:----------------------------------:|:-----------------------: |
 | 4 | 45 minutes |
 
-## :salt: Ingredients - Refried Black Beans
+## :salt: Ingredients
 
-- :onion: 0.5 medium yellow onion
-- :olive: 2 Tbsp olive oil
-- :salt: 0.25 tsp salt
-- :herb: 1 tsp cumin
-- :canned_food: 1 15.5-oz can [black beans][2]
-- :droplet: 1 cup water
-- :hot_pepper: 0.25 tsp chipotle powder
+=== "Refried Black Beans"
 
-## :salt: Ingredients - Tostadas
+    - :seedling: 0.5 medium yellow onion
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :salt: 0.25 tsp salt
+    - :chestnut: 1 tsp (3 g) cumin
+    - :glass_of_milk: 1 15.5-oz can [black beans][2]
+    - :droplet: 1 cup (227 g) water
+    - :hot_pepper: 0.25 tsp chipotle powder
 
-- :bread: 8 corn tortillas
-- :olive: some olive oil
-- :avocado: 1 avocado
-- :herb: some cilantro
-- :stuffed_flatbread: some pickled cabbage and onion
+=== "Tostadas"
+
+    - :bread: 8 corn tortillas
+    - :olive: some olive oil
+    - :avocado: 1 avocado
+    - :herb: some cilantro
+    - :beans: some pickled cabbage and onion
 
 ## :cooking: Cookware
 
@@ -58,5 +60,5 @@ place them in a single layer on a baking sheet. Bake for 5 to 10 minutes until c
 To assemble the tostadas, spread some of the refried [black beans][2] on each tostada shell. Top with pickled cabbage and
 onion, sliced avocado, and fresh cilantro.
 
-[1]: <../assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.jpg>
+[1]: <../assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.webp>
 [2]: <../ingredients/black-beans.md>

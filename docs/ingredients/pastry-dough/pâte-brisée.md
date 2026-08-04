@@ -5,7 +5,7 @@ tags:
   - ingredient
   - claire-saffitz
   - king-arthur
-hero: assets/images/pâte-brisée.jpg
+hero: assets/images/pâte-brisée.webp
 ---
 
 # :pie: Pâte Brisée (All-Purpose Flaky Pastry Dough)
@@ -130,4 +130,4 @@ transfer the dough to a baking sheet and freeze until it’s cold and firm, abou
 - <https://www.youtube.com/watch?v=0rHT0QPvLTc&t=2807s>
 - <https://www.youtube.com/watch?v=k6LyV7A6UmU&t=770s>
 
-[1]: <../../assets/images/pâte-brisée.jpg>
+[1]: <../../assets/images/pâte-brisée.webp>

@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/skillet-flatbread.jpg
+hero: assets/images/skillet-flatbread.webp
 ---
 
 # :flatbread: Skillet Flatbread
@@ -17,12 +17,12 @@ hero: assets/images/skillet-flatbread.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :dash: 2 tsp baking powder
+- :bread: 360 g all-purpose flour
+- :chestnut: 2 tsp baking powder
 - :salt: 3 tsp kosher salt
 - :olive: 35 g olive oil
-- :ice_cube: 227 g ice water
-- :oil_drum: 35 g vegetable oil
+- :baby_bottle: 227 g ice water
+- :olive: 35 g vegetable oil
 
 ## :cooking: Cookware
 
@@ -72,4 +72,4 @@ flattening between your palms.
 
 - <https://www.kingarthurbaking.com/recipes/skillet-flatbreads-recipe>
 
-[1]: <../assets/images/naan.jpg>
+[1]: <../assets/images/naan.webp>

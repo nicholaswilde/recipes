@@ -4,9 +4,10 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/bravetart-brownies.jpg
+hero: assets/images/bravetart-brownies.webp
 ---
-# BraveTart Brownies
+
+# :butter: BraveTart Brownies
 
 ![BraveTart Brownies][1]{ loading=lazy }
 
@@ -17,7 +18,7 @@ hero: assets/images/bravetart-brownies.jpg
 ## :salt: Ingredients
 
 - :butter: 340 g unsalted butter
-- :chestnut: 170 g finely chopped dark chocolate, about 72%
+- :chocolate_bar: 170 g finely chopped dark chocolate, about 72%
 - :candy: 450 g granulated sugar
 - :candy: 55 g light brown sugar
 - :salt: 4 g Diamond Crystal kosher salt
@@ -89,5 +90,4 @@ days at room temperature.
 
 - <https://www.seriouseats.com/bravetart-glossy-fudge-brownies>
 
-[1]: <../assets/images/bravetart-brownies.jpg>
-
+[1]: <../assets/images/bravetart-brownies.webp>

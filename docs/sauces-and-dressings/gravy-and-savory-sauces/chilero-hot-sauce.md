@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - the-blue-zones-kitchen
-hero: assets/images/chilero-hot-sauce.jpg
+hero: assets/images/chilero-hot-sauce.webp
 ---
 
 # :hot_pepper: Chilero Hot Sauce
 
-![Chilero Hot Sauce](../../assets/images/chilero-hot-sauce.jpg){ loading=lazy }
+![Chilero Hot Sauce](../../assets/images/chilero-hot-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -20,26 +20,26 @@ hero: assets/images/chilero-hot-sauce.jpg
 === "serves 3"
 
     - :carrot: 0.25 carrots
-    - :onion: 0.5 small sweet onions
+    - :beans: 0.5 small sweet onions
     - :cucumber: 0.25 cucumbers
     - :broccoli: 0.125 head cauliflower
-    - :bell_pepper: 0.5 read or green bell peppers
+    - :hot_pepper: 0.5 read or green bell peppers
     - :hot_pepper: 0.75 jalapeno peppers
     - :hot_pepper: 0.5 spicy chili peppers (like habanero)
     - :salt: 0.5 tsp salt
-    - :champagne: 3 oz white vinegar
+    - :takeout_box: 3 oz (40 g) white vinegar
 
 === "serves 24"
 
     - :carrot: 2 carrots
-    - :onion: 4 small sweet onions
+    - :beans: 4 small sweet onions
     - :cucumber: 2 cucumbers
     - :broccoli: 1 head cauliflower
-    - :bell_pepper: 4 read or green bell peppers
+    - :hot_pepper: 4 read or green bell peppers
     - :hot_pepper: 6 jalapeno peppers
     - :hot_pepper: 4 spicy chili peppers (like habanero)
     - :salt: 1 Tbsp salt
-    - :champagne: 24 oz white vinegar
+    - :takeout_box: 24 oz (318 g) white vinegar
 
 ## :cooking: Cookware
 

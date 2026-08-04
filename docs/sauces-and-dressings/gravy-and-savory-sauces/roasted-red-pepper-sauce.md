@@ -16,12 +16,12 @@ hero: assets/images/roasted-red-pepper-sauce.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 cups extra firm silken tofu
-- :bell_pepper: 1 roasted red bell pepper
+- :cheese_wedge: 2 cups extra firm silken tofu
+- :hot_pepper: 1 roasted red bell pepper
 - :hot_pepper: 2 chipotle peppers
 - :garlic: 3 cloves garlic
-- :herb: 2 tsp cumin
-- :lemon: 1 lime
+- :chestnut: 2 tsp (6 g) cumin
+- :tangerine: 1 lime
 
 ## :cooking: Cookware
 
@@ -46,7 +46,7 @@ Store refrigerated for up to 7 days.
 
 ### Step 3
 
-Note: You can use jarred fire-roasted red peppers instead.
+Note: You can use jarred fire-[Roasted Red Peppers](../../ingredients/roasted-red-peppers.md) instead.
 
 ### Step 4
 

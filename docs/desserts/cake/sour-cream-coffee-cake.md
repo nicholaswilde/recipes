@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/sour-cream-coffee-cake.jpg
+hero: assets/images/sour-cream-coffee-cake.webp
 ---
 
 # :cake: Sour Cream Coffee Cake
@@ -16,35 +16,37 @@ hero: assets/images/sour-cream-coffee-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 | 51 minutes |
 
-## :salt: Ingredients - Streusel
+## :salt: Ingredients
 
-- :ear_of_rice: 3 cups (360 g) all-purpose flour
-- :maple_leaf: 1 cup (213 g) brown sugar
-- :candy: 0.5 cup (99 g) granulated sugar
-- :salt: 1 tsp salt
-- :custard: 2 Tbsp cinnamon
-- :butter: 1 cup (227 g) unsalted butter
+=== "Streusel"
 
-## :salt: Ingredients - Cake
+    - :bread: 3 cups (360 g) all-purpose flour
+    - :maple_leaf: 1 cup (213 g) brown sugar
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :salt: 1 tsp salt
+    - :chestnut: 2 Tbsp (25 g) cinnamon
+    - :butter: 1 cup (226 g) unsalted butter
 
-- :ear_of_rice: 2.25 cups (270 g) all-purpose flour
-- :candy: 1.25 cups (248 g) granulated sugar
-- :dash: 1 Tbsp baking powder
-- :cup_with_straw: 0.75 tsp baking soda
-- :salt: 0.75 tsp salt
-- :butter: 0.75 cup (170 g) unsalted butter
-- :rice: 0.5 cup (114 g) sour cream
-- :egg: 4 large eggs
-- :rice: 1 cup (227 g) sour cream
-- :icecream: 1 Tbsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Icing
+    - :bread: 2.25 cups (270 g) all-purpose flour
+    - :candy: 1.25 cups (248 g) granulated sugar
+    - :chestnut: 1 Tbsp baking powder
+    - :chestnut: 0.75 tsp baking soda
+    - :salt: 0.75 tsp salt
+    - :butter: 0.75 cup (170 g) unsalted butter
+    - :glass_of_milk: 0.5 cup (114 g) sour cream
+    - :egg: 4 large eggs
+    - :glass_of_milk: 1 cup (227 g) sour cream
+    - :flower_playing_cards: 1 Tbsp vanilla
 
-- :butter: 0.25 cup (57 g) unsalted butter
-- :icecream: 1 tsp vanilla
-- :salt: 0.5 tsp salt
-- :glass_of_milk: 0.25 cup milk
-- :candy: 2 cups (396 g) confectioners' sugar
+=== "Icing"
+
+    - :butter: 0.25 cup (56 g) unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
+    - :salt: 0.5 tsp salt
+    - :glass_of_milk: 0.25 cup (57 g) milk
+    - :candy: 2 cups (226 g) confectioners' sugar
 
 ## :cooking: Cookware
 
@@ -169,4 +171,4 @@ This cake will keep well covered on the counter for 2-3 days. After that, put it
 - <https://thefoodcharlatan.com/sour-cream-coffee-cake/>
 - <https://www.thepancakeprincess.com/best-coffee-cake-bake-off/>
 
-[1]: <../../assets/images/sour-cream-coffee-cake.jpg>
+[1]: <../../assets/images/sour-cream-coffee-cake.webp>

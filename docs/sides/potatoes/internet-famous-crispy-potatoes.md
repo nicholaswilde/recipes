@@ -4,7 +4,7 @@ tags:
 
   - side
   - jeremy-scheck
-hero: assets/images/internet-famous-crispy-potatoes.jpg
+hero: assets/images/internet-famous-crispy-potatoes.webp
 ---
 
 # :potato: Internet-Famous Crispy Potatoes
@@ -17,9 +17,9 @@ hero: assets/images/internet-famous-crispy-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 3 lbs Yukon gold potatoes
+- :sweet_potato: 3 lbs Yukon gold potatoes
 - :olive: some olive oil
-- :herb: some dill or parsley (optional)
+- :tomato: some dill or parsley (optional)
 
 ## :cooking: Cookware
 
@@ -65,4 +65,4 @@ Finish with fresh, tender herbs such as dill or parsley (optional).
 
 - <https://scheckeats.com/internet-famous-crispy-potatoes/>
 
-[1]: <../../assets/images/internet-famous-crispy-potatoes.jpg>
+[1]: <../../assets/images/internet-famous-crispy-potatoes.webp>

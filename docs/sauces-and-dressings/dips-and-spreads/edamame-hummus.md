@@ -8,7 +8,7 @@ tags:
   - gluten-free
   - edamame
   - hummus
-hero: assets/images/edamame-hummus.jpg
+hero: assets/images/edamame-hummus.webp
 ---
 
 # :beans: Edamame Hummus
@@ -21,13 +21,13 @@ hero: assets/images/edamame-hummus.jpg
 
 ## :salt: Ingredients
 
-- :beans: 1.5 cups (233 g) shelled edamame (steamed or boiled)
-- :seedling: 1 Tbsp tahini
+- :beans: 1.5 cups (213 g) shelled edamame (steamed or boiled)
+- :seedling: 1 Tbsp (16 g) tahini
 - :tangerine: 2 lemons lemon juice
-- :garlic: 2 garlic cloves (minced)
-- :chestnut: 1 tsp ground cumin
+- :chestnut: 2 garlic cloves (minced)
+- :chestnut: 1 tsp (3 g) ground cumin
 - :droplet: 0.25 cup (57 g) water
-- :herb: 0.25 cup fresh cilantro (finely chopped)
+- :herb: 0.25 cup (10 g) fresh cilantro (finely chopped)
 - :salt: some salt
 - :salt: some pepper
 
@@ -46,4 +46,4 @@ and pepper to taste until smooth. Add additional water if needed for a smooth co
 
 - <https://nutritionstudies.org/recipes/snack/edamame-hummus/>
 
-[1]: <../../assets/images/edamame-hummus.jpg>
+[1]: <../../assets/images/edamame-hummus.webp>

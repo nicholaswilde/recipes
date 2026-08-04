@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - bake-off
-hero: assets/images/flourless-chocolate-cake.jpg
+hero: assets/images/flourless-chocolate-cake.webp
 ---
 
 # :chocolate_bar: Flourless Chocolate Cake
@@ -18,12 +18,12 @@ hero: assets/images/flourless-chocolate-cake.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 200 g dark chocolate
+- :chestnut: 200 g dark chocolate
 - :butter: 200 g unsalted butter
 - :candy: 200 g granulated sugar
 - :egg: 4 large eggs
-- :ear_of_rice: 1 Tbsp all-purpose flour
-- :strawberry: some raspberries (optional)
+- :bread: 1 Tbsp (8 g) all-purpose flour
+- :apple: some raspberries (optional)
 - :salt: 1 pinch sea salt (optional)
 
 ## :cooking: Cookware
@@ -65,4 +65,4 @@ Try to make this cake the day before you intend to serve it to let it rest and t
 - <https://www.redonline.co.uk/food/recipes/a500295/trish-deseine-s-decadent-almost-flourless-chocolate-cake/>
 - <https://www.thepancakeprincess.com/2023/04/04/the-flourless-chocolate-cake-bake-off/>
 
-[1]: <../../assets/images/flourless-chocolate-cake.jpg>
+[1]: <../../assets/images/flourless-chocolate-cake.webp>

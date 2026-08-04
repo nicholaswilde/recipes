@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/chocolate-cake-doughnuts.jpg
+hero: assets/images/chocolate-cake-doughnuts.webp
 ---
 
 # :doughnut: Chocolate Cake Doughnuts
 
-![Chocolate Cake Doughnuts](../assets/images/chocolate-cake-doughnuts.jpg){ loading=lazy }
+![Chocolate Cake Doughnuts](../assets/images/chocolate-cake-doughnuts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

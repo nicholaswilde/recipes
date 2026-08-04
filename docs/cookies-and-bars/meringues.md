@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/meringues.jpg
+hero: assets/images/meringues.webp
 ---
 
 # :egg: Meringues
 
-![Meringues](../assets/images/meringues.jpg){ loading=lazy }
+![Meringues](../assets/images/meringues.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,10 +19,10 @@ hero: assets/images/meringues.jpg
 ## :salt: Ingredients
 
 - :egg: 2 large egg whites
-- :rice: 0.25 tsp cream of tartar
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
 - :salt: 1 dash salt
 - :candy: 98 g granulated sugar
-- :icecream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

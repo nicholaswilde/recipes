@@ -5,12 +5,12 @@ tags:
   - bar
   - dessert
   - recipe-box
-hero: assets/images/chewy-brownies.jpg
+hero: assets/images/chewy-brownies.webp
 ---
 
 # :chocolate_bar: Chewy Brownies
 
-![Chewy Brownies](../assets/images/chewy-brownies.jpg){ loading=lazy }
+![Chewy Brownies](../assets/images/chewy-brownies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,18 +18,18 @@ hero: assets/images/chewy-brownies.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 0.33 cup Dutch-processed cocoa
+- :chocolate_bar: 0.33 cup (28 g) Dutch-processed cocoa
 - :coffee: 1.5 tsp espresso powder
-- :droplet: 10 Tbsp water
-- :chocolate_bar: 2 oz unsweetened chocolate
+- :droplet: 10 Tbsp (142 g) water
+- :chocolate_bar: 2 oz (42 g) unsweetened chocolate
 - :egg: 2 eggs
-- :egg: 2 egg yolks
-- :butter: 4 Tbsp unsalted butter
-- :icecream: 2 tsp vanilla
-- :candy: 2.5 cup (495 g) sugar
-- :ear_of_rice: 1.75 cup flour
+- :baby_bottle: 2 egg yolks
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :flower_playing_cards: 2 tsp vanilla
+- :candy: 2.5 cup (390 g) sugar
+- :bread: 1.75 cup (161 g) flour
 - :salt: 0.75 tsp salt
-- :chocolate_bar: 6 oz bittersweet chocolate
+- :chestnut: 6 oz (128 g) bittersweet chocolate
 
 ## :cooking: Cookware
 

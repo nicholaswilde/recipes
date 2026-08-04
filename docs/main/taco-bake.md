@@ -5,12 +5,12 @@ tags:
   - mexican
   - taco
   - bake
-hero: assets/images/taco-bake.jpg
+hero: assets/images/taco-bake.webp
 ---
 
 # :taco: Taco Bake
 
-![Taco Bake](../assets/images/taco-bake.jpg){ loading=lazy }
+![Taco Bake](../assets/images/taco-bake.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,18 +18,18 @@ hero: assets/images/taco-bake.jpg
 
 ## :salt: Ingredients
 
-- :taco: 2 tsp [taco seasoning][1]
+- 2 tsp [taco seasoning][1]
 - :herb: 0.5 tsp oregano
-- :custard: 1 tsp cumin
-- :onion: 1 small onion
+- :chestnut: 1 tsp (3 g) cumin
+- :tea: 1 small onion
 - :garlic: 2 cloves minced garlic
 - :olive: some olive oil
-- :curry: 2.5 cups cooked lentils
-- :tomato: 3 Tbsp tomato paste
-- :hot_pepper: 2 Tbsp hot sauce
-- :taco: 12 hard taco shells
+- :ear_of_rice: 2.5 cups (538 g) cooked lentils
+- 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :droplet: 2 Tbsp (28 g) hot sauce
+- 12 hard taco shells
 - :cheese_wedge: some pepper jack cheese
-- :leafy_green: some shredded lettuce
+- :cheese_wedge: some shredded lettuce
 - :herb: some cilantro
 
 ## :cooking: Cookware
@@ -45,7 +45,7 @@ Combine taco seasoning, oregano, cumin. In skillet, sauté onion and minced garl
 
 ### Step 2
 
-Add spice blend and set aside. Lower heat to medium, add cooked lentils and a splash of water, tomato paste, and hot
+Add spice blend and set aside. Lower heat to medium, add cooked lentils and a splash of water, [Tomato Paste](../ingredients/tomato-paste.md), and hot
 sauce.
 
 ### Step 3

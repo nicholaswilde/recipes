@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/snickerdoodles.jpg
+hero: assets/images/snickerdoodles.webp
 ---
 
 # :cookie: Snickerdoodles
 
-![Snickerdoodles](../assets/images/snickerdoodles.jpg){ loading=lazy }
+![Snickerdoodles](../assets/images/snickerdoodles.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,15 +18,15 @@ hero: assets/images/snickerdoodles.jpg
 ## :salt: Ingredients
 
 - :butter: 1 cup (226 g) unsalted butter
-- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
-- :rice: 2 tsp cream of tartar
-- :cup_with_straw: 1 tsp baking soda
+- :bread: 2.5 cups (300 g) all-purpose flour
+- :glass_of_milk: 2 tsp (12 g) cream of tartar
+- :chestnut: 1 tsp baking soda
 - :salt: 0.75 tsp salt
-- :maple_leaf: 0.5 cup (107 g) light brown sugar
+- :candy: 0.5 cup (106 g) light brown sugar
 - :candy: 1 cup (198 g) granulated sugar
-- :icecream: 1 vanilla bean
+- :hamburger: 1 vanilla bean
 - :egg: 2 large eggs
-- :custard: 1 Tbsp cinnamon
+- :chestnut: 1 Tbsp (12 g) cinnamon
 - :candy: 2 Tbsp (25 g) granulated sugar
 
 ## :cooking: Cookware

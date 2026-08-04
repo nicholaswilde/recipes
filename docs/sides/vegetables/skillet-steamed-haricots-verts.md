@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/skillet-steamed-haricots-verts.jpg
+hero: assets/images/skillet-steamed-haricots-verts.webp
 ---
 
-# Skillet-Steamed Haricots Verts
+# :shallow_pan_of_food: Skillet-Steamed Haricots Verts
 
-![Skillet-Steamed Haricots Verts](../../assets/images/skillet-steamed-haricots-verts.jpg){ loading=lazy }
+![Skillet-Steamed Haricots Verts](../../assets/images/skillet-steamed-haricots-verts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/skillet-steamed-haricots-verts.jpg
 
 ## :salt: Ingredients
 
-- :cucumber: 12 oz haricots verts
-- :ice_cube: 0.25 cup water
+- 12 oz haricots verts
+- :droplet: 0.25 cup (57 g) water
 - :salt: 0.25 tsp salt
-- :butter: 1 Tbsp unsalted butter
+- :butter: 1 Tbsp (14 g) unsalted butter
 - :garlic: 1 Tbsp shallot
 
 ## :cooking: Cookware

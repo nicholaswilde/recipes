@@ -4,12 +4,12 @@ tags:
 
   - cookie
   - dessert
-hero: assets/images/classic-pizzelle.jpg
+hero: assets/images/classic-pizzelle.webp
 ---
 
 # :cookie: Classic Pizzelle
 
-![Classic Pizzelle](../assets/images/classic-pizzelle.jpg){ loading=lazy }
+![Classic Pizzelle](../assets/images/classic-pizzelle.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -20,10 +20,10 @@ hero: assets/images/classic-pizzelle.jpg
 - :egg: 3 large eggs
 - :candy: 149 g granulated sugar
 - :salt: 0.38 tsp salt
-- :icecream: 1 tsp vanilla
-- :ear_of_rice: 210 g all-purpose flour
-- :dash: 2 tsp baking powder
-- :butter: 113 g melted butter
+- :flower_playing_cards: 1 tsp vanilla
+- :bread: 210 g all-purpose flour
+- :chestnut: 2 tsp baking powder
+- :glass_of_milk: 113 g melted butter
 - :candy: some confectioners' sugar
 
 ## :cooking: Cookware

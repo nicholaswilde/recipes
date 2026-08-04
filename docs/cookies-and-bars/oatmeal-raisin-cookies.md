@@ -5,8 +5,9 @@ tags:
   - dessert
   - stella-parks
   - serious-eats
-hero: assets/images/oatmeal-raisin-cookies.jpg
+hero: assets/images/oatmeal-raisin-cookies.webp
 ---
+
 # :cookie: Oatmeal Raisin Cookies
 
 ![Oatmeal Raisin Cookies][1]{ loading=lazy }
@@ -17,17 +18,17 @@ hero: assets/images/oatmeal-raisin-cookies.jpg
 
 ## :salt: Ingredients
 
-- :butter: 170 g unsalted butter (melted and warm, about 105°F)
+- :baby_bottle: 170 g unsalted butter (melted and warm, about 105°F)
 - :candy: 200 g packed light brown sugar
 - :candy: 200 g granulated sugar
 - :salt: 2 tsp Diamond Crystal kosher salt
-- :chestnut: 1 tsp ground cinnamon
+- :chestnut: 1 tsp (3 g) ground cinnamon
 - :chestnut: 0.5 tsp baking soda
-- :egg: 1 large (50 g) egg (straight from the fridge)
+- :apple: 1 large egg (straight from the fridge)
 - :flower_playing_cards: 1 Tbsp vanilla extract
 - :bread: 170 g all-purpose flour
 - :ear_of_rice: 200 g old-fashioned rolled oats
-- :apple: 150 g raisins
+- :grapes: 150 g raisins
 
 ## :cooking: Cookware
 
@@ -75,8 +76,12 @@ minutes.
 
 Let the cookies cool completely on the baking sheet.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://www.seriouseats.com/oatmeal-raisin-cookies-recipe-8759166>
 
-[1]: <../assets/images/oatmeal-raisin-cookies.jpg>
+[1]: <../assets/images/oatmeal-raisin-cookies.webp>

@@ -5,7 +5,7 @@ tags:
   - sauce
   - heat-culinary
   - persian
-hero: assets/images/roasted-garlic-hummus.jpg
+hero: assets/images/roasted-garlic-hummus.webp
 ---
 
 # :falafel: Roasted Garlic Hummus
@@ -19,11 +19,11 @@ hero: assets/images/roasted-garlic-hummus.jpg
 ## :salt: Ingredients
 
 - :garlic: 1 head garlic
-- :falafel: 2 cups chickpeas
-- :seedling: 2 Tbsp [tahini][2]
-- :olive: 4 Tbsp olive oil
-- :hot_springs: 0.25 cup warm water
-- :lemon: 1 lemon juice
+- :beans: 2 cups chickpeas
+- 2 Tbsp [tahini][2]
+- :olive: 4 Tbsp (50 g) olive oil
+- :droplet: 0.25 cup (57 g) warm water
+- :tangerine: 1 lemon juice
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
@@ -60,6 +60,6 @@ Serve at room temperature with [pita bread][3].
 
 - HEAT Culinary
 
-[1]: <../../assets/images/roasted-garlic-hummus.jpg>
+[1]: <../../assets/images/roasted-garlic-hummus.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/tahini.md>
 [3]: <../../breads/pita.md>

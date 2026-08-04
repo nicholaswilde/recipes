@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/umami-seasoning.jpg
+hero: assets/images/umami-seasoning.webp
 ---
 
 # :mushroom: Umami Seasoning
@@ -17,12 +17,12 @@ hero: assets/images/umami-seasoning.jpg
 
 ## :salt: Ingredients
 
-- :mushroom: 1 oz dried mushrooms
-- :onion: 0.25 cup granulated onion
-- :hotdog: 2 Tbsp mustard powder
+- :mushroom: 1 oz (18 g) dried mushrooms
+- :candy: 0.25 cup (24 g) granulated onion
+- :chestnut: 2 Tbsp mustard powder
 - :salt: 1 Tbsp salt
-- :hot_pepper: 1 tsp red pepper flakes
-- :salt: 1 tsp black pepper
+- :hot_pepper: 1 tsp (4 g) red pepper flakes
+- :salt: 1 tsp (4 g) black pepper
 - :herb: 1 tsp thyme
 
 ## :cooking: Cookware
@@ -54,4 +54,4 @@ Cover and store in an airtight container in the pantry for up to 6 months.
 
 - <https://bowlsarethenewplates.com/umami-seasoning/>
 
-[1]: <../../assets/images/umami-seasoning.jpg>
+[1]: <../../assets/images/umami-seasoning.webp>

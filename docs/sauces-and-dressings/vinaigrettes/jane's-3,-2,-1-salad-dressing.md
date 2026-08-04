@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/jane's-3,-2,-1-salad-dressing.jpg
+hero: assets/images/jane's-3,-2,-1-salad-dressing.webp
 ---
 
 # :green_salad: Jane's 3, 2, 1 Salad Dressing
 
-![Jane's 3, 2, 1 Salad Dressing](../../assets/images/jane's-3,-2,-1-salad-dressing.jpg){ loading=lazy }
+![Jane's 3, 2, 1 Salad Dressing](../../assets/images/jane's-3,-2,-1-salad-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,9 +16,9 @@ hero: assets/images/jane's-3,-2,-1-salad-dressing.jpg
 
 ## :salt: Ingredients
 
-- :sake: 3 Tbsp balsamic vinegar
-- :hotdog: 2 Tbsp [mustard][1] of choice
-- :maple_leaf: 1 Tbsp maple syrup
+- :wine_glass: 3 Tbsp balsamic vinegar
+- 2 Tbsp [mustard][1] of choice
+- :honey_pot: 1 Tbsp (20 g) maple syrup
 
 ## :cooking: Cookware
 

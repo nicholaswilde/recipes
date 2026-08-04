@@ -4,12 +4,12 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/buttermilk-pie.jpg
+hero: assets/images/[buttermilk](../../ingredients/buttermilk.md)-pie.webp
 ---
 
-# :pie: Buttermilk Pie
+# :pie: [buttermilk](../../ingredients/buttermilk.md) Pie
 
-![Buttermilk Pie](../../assets/images/buttermilk-pie.jpg){ loading=lazy }
+![Buttermilk Pie](../../assets/images/buttermilk-pie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/buttermilk-pie.jpg
 
 ## :salt: Ingredients
 
-- :pie: 1 pie crust
-- :salt: 0.5 cup (114 g) [salted butter][2]
-- :candy: 1.5 cup (297 g) sugar
+- :bread: 1 pie crust
+- 0.5 cup [salted butter][2]
+- :candy: 1.5 cup (234 g) sugar
 - :egg: 3 large eggs
-- :ear_of_rice: 3 Tbsp all-purpose flour
-- :glass_of_milk: 0.75 cup (170 g) [buttermilk][1]
-- :lemon: 1 Tbsp lemon juice
-- :lemon: 1 tsp lemon zest
-- :icecream: 1 tsp vanilla
-- :chestnut: 0.13 tsp nutmeg (optional)
+- :bread: 3 Tbsp (22 g) all-purpose flour
+- 0.75 cup [buttermilk][1]
+- :tangerine: 1 Tbsp (14 g) lemon juice
+- :tangerine: 1 tsp (5 g) lemon zest
+- :flower_playing_cards: 1 tsp vanilla
+- :leafy_green: 0.13 tsp nutmeg (optional)
 - :salt: 1 pinch salt
 - :candy: some confectioners' sugar
 
@@ -66,7 +66,7 @@ salt and mix to combine.
 ### Step 5
 
 Carefully pour the filling into the crust. Bake for 45 to 50 minutes, until the edges and center of pie are set
-completely.  (Tent the pie with foil towards the end if either the crust or surface of the pie look darker than golden
+completely. (Tent the pie with foil towards the end if either the crust or surface of the pie look darker than golden
 brown). Let the pie cool completely, about 2 hours. Garnish with a sprinkle of confectioners' sugar, if desired.
 
 ## :link: Source

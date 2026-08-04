@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/peanut-brittle.jpg
+hero: assets/images/peanut-brittle.webp
 ---
 
 # :peanuts: Peanut Brittle
 
-![Peanut Brittle](../assets/images/peanut-brittle.jpg){ loading=lazy }
+![Peanut Brittle](../assets/images/peanut-brittle.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -27,13 +27,13 @@ hero: assets/images/peanut-brittle.jpg
 
 ## :salt: Ingredients
 
-- :candy: 1 cup (198 g) sugar
-- :corn: 0.5 cup (156 g) corn syrup
+- :candy: 1 cup (156 g) sugar
+- :candy: 0.5 cup (156 g) corn syrup
 - :droplet: 0.25 cup (57 g) water
 - :salt: 0.25 tsp salt
-- :peanuts: 1 cup (142 g) peanuts
-- :butter: 2 Tbsp (28 g) butter
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 cup (142 g) peanuts
+- :butter: 2 Tbsp butter
+- :chestnut: 1 tsp baking soda
 
 ## :cooking: Cookware
 

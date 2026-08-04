@@ -18,6 +18,8 @@
 - **Recipes MCP Server:** Provides tools for scraping, formatting, and converting recipes and ingredients.
 - **Docker:** Used to containerize development tools ensuring environment consistency.
 - **uv:** A fast Python package manager used for managing Zensical and its dependencies.
+- **cwebp:** A command-line utility used to convert JPEG images to WebP format.
+- **oxipng:** A command-line tool used to optimize PNG images in-place.
 
 ## Quality Assurance
 

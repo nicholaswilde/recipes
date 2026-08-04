@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/toasted-coconut-granola.jpg
+hero: assets/images/toasted-coconut-granola.webp
 ---
 
 # :ear_of_rice: Toasted-Coconut Granola
 
-![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.jpg){ loading=lazy }
+![Toasted-Coconut Granola](../assets/images/toasted-coconut-granola.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/toasted-coconut-granola.jpg
 ## :salt: Ingredients
 
 - :ear_of_rice: 3 cups (297 g) old-fashioned rolled oats
-- :jack_o_lantern: 1 cup raw pumpkin seeds
-- :sunflower: 1 cup (140 g) raw sunflower seeds
-- :coconut: 1 cup coconut flakes
-- :chestnut: 1.25 cup raw pecans
-- :maple_leaf: 0.75 cup (234 g) maple syrup
+- :seedling: 1 cup (160 g) raw pumpkin seeds
+- :seedling: 1 cup (140 g) raw sunflower seeds
+- :takeout_box: 1 cup (60 g) coconut flakes
+- :chestnut: 1.25 cup (142 g) raw pecans
+- :honey_pot: 0.75 cup (234 g) maple syrup
 - :olive: 0.5 cup (100 g) olive oil
-- :maple_leaf: 0.5 cup (106 g) light brown sugar
+- :candy: 0.5 cup (106 g) light brown sugar
 - :salt: some salt
 
 ## :cooking: Cookware
@@ -51,6 +51,10 @@ until granola is toasted, about 45 minutes.
 
 Remove granola from oven and season with salt. Let cool completely before serving or storing in an airtight container
 for up to 1 month.
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Source
 

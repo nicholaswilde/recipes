@@ -4,12 +4,12 @@ tags:
 
   - jam
   - canning
-hero: assets/images/balsamic-onion-jam.jpg
+hero: assets/images/balsamic-onion-jam.webp
 ---
 
 # :onion: Balsamic Onion Jam
 
-![Balsamic Onion Jam](../../assets/images/balsamic-onion-jam.jpg){ loading=lazy }
+![Balsamic Onion Jam](../../assets/images/balsamic-onion-jam.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,14 +17,14 @@ hero: assets/images/balsamic-onion-jam.jpg
 
 ## :salt: Ingredients
 
-- :onion: 2 lbs sweet onions
-- :sake: 0.5 cup balsamic vinegar
-- :maple_leaf: 0.5 cup (156 g) maple syrup
+- :beans: 2 lbs sweet onions
+- :wine_glass: 0.5 cup balsamic vinegar
+- :honey_pot: 0.5 cup (156 g) maple syrup
 - :salt: 1.5 tsp salt
 - :salt: 1.5 tsp pepper
-- :fallen_leaf: 1 bay leaf
-- :green_apple: 2 cups apple juice
-- :rice: 3 Tbsp pectin
+- :herb: 1 bay leaf
+- :apple: 2 cups (560 g) apple juice
+- 3 Tbsp pectin
 - :candy: 0.5 cup (99 g) granulated sugar
 
 ## :cooking: Cookware

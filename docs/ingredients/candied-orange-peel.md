@@ -4,12 +4,12 @@ tags:
   - ingredients
 comments: true
 
-hero: assets/images/candied-orange-peel.jpg
+hero: assets/images/candied-orange-peel.webp
 ---
 
 # :tangerine: Candied Orange Peel
 
-![Candied Orange Peel](../assets/images/candied-orange-peel.jpg){ loading=lazy }
+![Candied Orange Peel](../assets/images/candied-orange-peel.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

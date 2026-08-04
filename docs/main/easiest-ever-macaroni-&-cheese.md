@@ -4,12 +4,12 @@ tags:
 
   - pasta
   - italian
-hero: assets/images/easiest-ever-macaroni-&-cheese.jpg
+hero: assets/images/easiest-ever-macaroni-&-cheese.webp
 ---
 
 # :spaghetti: Easiest Ever Macaroni & Cheese
 
-![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.jpg){ loading=lazy }
+![Easiest Ever Macaroni & Cheese](../assets/images/easiest-ever-macaroni-&-cheese.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,18 +17,18 @@ hero: assets/images/easiest-ever-macaroni-&-cheese.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 1.5 cups water
-- :glass_of_milk: 1 cup milk
-- :spaghetti: 8 oz elbow macaroni
-- :cheese_wedge: 4 oz American cheese (shredded, from deli)
-- :cheese_wedge: 4 oz extra-sharp cheddar
-- :hotdog: 0.5 tsp [Dijon mustard][1]
+- :droplet: 1.5 cups (340 g) water
+- :glass_of_milk: 1 cup (227 g) milk
+- 8 oz elbow macaroni
+- :cheese_wedge: 4 oz (60 g) American cheese (shredded, from deli)
+- :cheese_wedge: 4 oz (57 g) extra-sharp cheddar
+- 0.5 tsp [Dijon mustard][1]
 - :hot_pepper: 1 pinch cayenne
-- :bread: 0.33 cup panko breadcrumbs
-- :olive: 1 Tbsp olive oil
+- :bread: 0.33 cup (16 g) panko [Breadcrumbs](../ingredients/breadcrumbs.md)
+- :olive: 1 Tbsp (12 g) olive oil
 - :salt: 0.13 tsp salt
 - :salt: 0.13 tsp pepper
-- :cheese_wedge: 2 Tbsp Parmesan
+- :cheese_wedge: 2 Tbsp (12 g) Parmesan
 
 ## :cooking: Cookware
 
@@ -51,7 +51,7 @@ Cook, stirring constantly, until cheese has completely melted. Cover saucepan an
 
 ### Step 4
 
-Meanwhile, combine panko breadcrumbs, olive oil, and 1/8 tsp salt and 1/8 tsp pepper in a skillet.
+Meanwhile, combine panko [Breadcrumbs](../ingredients/breadcrumbs.md), olive oil, and 1/8 tsp salt and 1/8 tsp pepper in a skillet.
 
 ### Step 5
 

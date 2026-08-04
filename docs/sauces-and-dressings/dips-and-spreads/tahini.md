@@ -5,12 +5,12 @@ tags:
   - condiment
   - sauce
   - spread
-hero: assets/images/tahini.jpg
+hero: assets/images/tahini.webp
 ---
 
 # :seedling: Tahini
 
-![Tahini](../../assets/images/tahini.jpg){ loading=lazy }
+![Tahini](../../assets/images/tahini.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,8 +18,8 @@ hero: assets/images/tahini.jpg
 
 ## :salt: Ingredients
 
-- :seedling: 1 cup sesame seeds
-- :carrot: 3 Tbsp vegetable oil
+- :seedling: 1 cup (142 g) sesame seeds
+- :olive: 3 Tbsp (37 g) vegetable oil
 - :salt: 1 pinch salt
 
 ## :cooking: Cookware

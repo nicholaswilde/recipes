@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/italian-seasoning.jpg
+hero: assets/images/italian-seasoning.webp
 ---
 
 # :herb: Italian Seasoning
 
-![Italian Seasoning](../../assets/images/italian-seasoning.jpg){ loading=lazy }
+![Italian Seasoning](../../assets/images/italian-seasoning.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/italian-seasoning.jpg
 
 ## :salt: Ingredients
 
-- :herb: 1.5 tsp dried oregano
-- :herb: 1 tsp dried marjoram
-- :herb: 1 tsp dried thyme
+- :herb: 1.5 tsp (4 g) dried oregano
+- :herb: 1 tsp (3 g) dried marjoram
+- :herb: 1 tsp (3 g) dried thyme
 - :herb: 0.5 tsp dried basil
-- :herb: 0.5 tsp dried rosemary
-- :herb: 0.5 tsp dried sage
+- :herb: 0.5 tsp (1 g) dried rosemary
+- :herb: 0.5 tsp (1 g) dried sage
 
 ## :pencil: Instructions
 

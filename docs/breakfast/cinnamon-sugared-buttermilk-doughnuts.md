@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg
+hero: assets/images/cinnamon-sugared-[buttermilk](../ingredients/buttermilk.md)-doughnuts.webp
 ---
 
-# :doughnut: Cinnamon-Sugared Buttermilk Doughnuts
+# :doughnut: Cinnamon-Sugared [buttermilk](../ingredients/buttermilk.md) Doughnuts
 
-![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg){ loading=lazy }
+![Cinnamon-Sugared Buttermilk Doughnuts](../assets/images/cinnamon-sugared-buttermilk-doughnuts.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,18 +16,18 @@ hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 3.5 cups (420 g) all-purpose flour
-- :candy: 2 cups (396 g) sugar
-- :rice: 2 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :chestnut: 1.5 tsp nutmeg
+- :bread: 3.5 cups (420 g) all-purpose flour
+- :candy: 2 cups (312 g) sugar
+- :chestnut: 2 tsp baking powder
+- :chestnut: 0.5 tsp baking soda
+- :apple: 1.5 tsp nutmeg
 - :salt: 1 tsp salt
-- :glass_of_milk: 0.75 cup (170 g) buttermilk
+- :icecream: 0.75 cup [buttermilk](../ingredients/buttermilk.md)
 - :butter: 4 Tbsp butter
 - :egg: 2 eggs
 - :egg: 1 egg yolk
-- :carrot: 6 cups (1104 g) vegetable shortening
-- :custard: 1.5 Tbsp cinnamon
+- :butter: 6 cups (1104 g) vegetable shortening
+- :chestnut: 1.5 Tbsp (19 g) cinnamon
 
 ## :cooking: Cookware
 
@@ -58,7 +58,7 @@ hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.jpg
 ### Step 1
 
 Stir 1 cup all-purpose flour, 1 cup sugar, baking powder, baking soda, nutmeg, and salt together in bowl of stand mixer.
-Whisk buttermilk, butter, eggs, and egg yolk together in 2-cup liquid measuring cup.
+Whisk [buttermilk](../ingredients/buttermilk.md), butter, eggs, and egg yolk together in 2-cup liquid measuring cup.
 
 ### Step 2
 

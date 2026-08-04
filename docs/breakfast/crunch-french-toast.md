@@ -4,12 +4,12 @@ tags:
 
   - breakfast
   - magnolia
-hero: assets/images/crunch-french-toast.jpg
+hero: assets/images/crunch-french-toast.webp
 ---
 
 # :pancakes: Crunch French Toast
 
-![Crunch French Toast](../assets/images/crunch-french-toast.jpg){ loading=lazy }
+![Crunch French Toast](../assets/images/crunch-french-toast.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

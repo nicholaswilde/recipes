@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/challah.jpg
+hero: assets/images/challah.webp
 ---
 
 # :baguette_bread: Challah
@@ -15,34 +15,36 @@ hero: assets/images/challah.jpg
 |:----------------------------------:|:-----------------------: |
 | 2 loaves | 4.98 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-=== "Full Batch"
+=== "Dough"
 
-    - :egg: 3 large egg yolks
-    - :egg: 3 large eggs
-    - :oil_drum: 66 g vegetable oil
-    - :ice_cube: 302 g cold water
-    - :ear_of_rice: 930 g all-purpose flour
-    - :candy: 99 g granulated sugar
-    - :salt: 18 g salt
-    - :microbe: 17 g instant yeast
+    === "Full Batch"
 
-=== "Half Batch"
+        - :egg: 3 large egg yolks
+        - :egg: 3 large eggs
+        - :olive: 66 g vegetable oil
+        - :baby_bottle: 302 g cold water
+        - :bread: 930 g all-purpose flour
+        - :candy: 99 g granulated sugar
+        - :salt: 18 g salt
+        - :tea: 17 g instant yeast
 
-    - :egg: 2 large eggs
-    - :oil_drum: 33 g vegetable oil
-    - :ice_cube: 151 g cold water
-    - :ear_of_rice: 465 g all-purpose flour
-    - :candy: 50 g granulated sugar
-    - :salt: 9 g salt
-    - :microbe: 9 g instant yeast
+    === "Half Batch"
 
-## :salt: Ingredients - Topping
+        - :egg: 2 large eggs
+        - :olive: 33 g vegetable oil
+        - :baby_bottle: 151 g cold water
+        - :bread: 465 g all-purpose flour
+        - :candy: 50 g granulated sugar
+        - :salt: 9 g salt
+        - :tea: 9 g instant yeast
 
-- :egg: 1 large egg
-- :droplet: 1 tsp water
-- :seedling: some poppy or sesame seeds
+=== "Topping"
+
+    - :egg: 1 large egg
+    - :droplet: 1 tsp (5 g) water
+    - :seedling: some poppy or sesame seeds
 
 ## :cooking: Cookware
 
@@ -136,4 +138,4 @@ Store cooled bread, well wrapped, at room temperature for several days; freeze f
 - <https://youtube.com/watch?v=UdYYRColviQ>
 - <https://youtube.com/watch?v=niM19Rt7t38>
 
-[1]: <../assets/images/challah.jpg>
+[1]: <../assets/images/challah.webp>

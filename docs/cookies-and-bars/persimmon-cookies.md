@@ -6,7 +6,7 @@ tags:
   - favorite
   - holiday
   - recipe-box
-hero: assets/images/persimmon-cookies.jpg
+hero: assets/images/persimmon-cookies.webp
 ---
 
 # :cookie: Persimmon Cookies
@@ -19,19 +19,19 @@ hero: assets/images/persimmon-cookies.jpg
 
 ## :salt: Ingredients
 
-- :cup_with_straw: 1 tsp baking soda
-- :sponge: 1 cup persimmon pulp
-- :icecream: 1.5 tsp vanilla (optional)
-- :butter: 0.5 (113 g) cup butter
+- :chestnut: 1 tsp baking soda
+- 1 cup persimmon pulp
+- :baby_bottle: 1.5 tsp vanilla (optional)
+- :butter: 0.5 cup butter
 - :candy: 1 cup (198 g) granulated sugar
 - :egg: 1 egg
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :dash: 1 tsp baking powder
+- :bread: 2 cups (240 g) all-purpose flour
+- :chestnut: 1 tsp baking powder
 - :salt: 0.5 tsp salt
-- :custard: 0.5 tsp cinnamon
-- :four_leaf_clover: 0.5 tsp cloves
-- :chestnut: 0.5 tsp nutmeg
-- :chestnut: 1 cup raisins and/or nuts (optional)
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :chestnut: 0.5 tsp cloves
+- :apple: 0.5 tsp nutmeg
+- :hot_pepper: 1 cup (120 g) raisins and/or nuts (optional)
 
 ## :cooking: Cookware
 
@@ -76,4 +76,4 @@ Bake until done, about 15 minutes (set when touched in center).
 
 - Recipe Box
 
-[1]: <../assets/images/persimmon-cookies.jpg>
+[1]: <../assets/images/persimmon-cookies.webp>

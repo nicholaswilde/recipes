@@ -4,7 +4,7 @@ tags:
 
   - side
   - the-gracias-madre-cookbook
-hero: assets/images/cilantro-almond-pesto-brussels-sprouts.jpg
+hero: assets/images/cilantro-almond-pesto-brussels-sprouts.webp
 ---
 
 # :leafy_green: Cilantro Almond Pesto Brussels Sprouts
@@ -18,10 +18,10 @@ hero: assets/images/cilantro-almond-pesto-brussels-sprouts.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 4 cups Brussels sprouts
-- :oil_drum: some canola oil
+- :droplet: some canola oil
 - :salt: some salt
-- :herb: 1 [cilantro almond pesto][2]
-- :lemon: 1 lemon
+- :baby_bottle: 1 [cilantro almond pesto][2]
+- :tangerine: 1 lemon
 
 ## :cooking: Cookware
 
@@ -65,5 +65,5 @@ lemon wedges.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cilantro-almond-pesto-brussels-sprouts.jpg>
+[1]: <../../assets/images/cilantro-almond-pesto-brussels-sprouts.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/cilantro-almond-pesto.md>

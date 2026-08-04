@@ -4,12 +4,12 @@ tags:
   - favorite
   - holiday
   - thanksgiving
-hero: assets/images/leftover-thanksgiving-pot-pies.jpg
+hero: assets/images/leftover-thanksgiving-pot-pies.webp
 ---
 
 # :pie: Leftover Thanksgiving Pot Pies
 
-![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.jpg){ loading=lazy }
+![Leftover Thanksgiving Pot Pies](../assets/images/leftover-thanksgiving-pot-pies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/leftover-thanksgiving-pot-pies.jpg
 
 ## :salt: Ingredients
 
-- :pie: 1 [hot water crust][4]
-- :bowl_with_spoon: 0.5 cup [good gravy][1]
-- :potato: 1 cup (213 g) [mashed potatoes][2]
-- :stuffed_flatbread: 1 cup [stuffing][3]
+- :droplet: 1 [hot water crust][4]
+- 0.5 cup [good gravy][1]
+- 1 cup [mashed potatoes][2]
+- 1 cup [stuffing][3]
 - :egg: 1 egg
 
 ## :cooking: Cookware

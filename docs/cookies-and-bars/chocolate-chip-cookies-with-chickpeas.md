@@ -6,7 +6,7 @@ tags:
   - jessica-seinfeld
   - deceptively-delicious
   - dessert
-hero: assets/images/chocolate-chip-cookies-with-chickpeas.jpg
+hero: assets/images/chocolate-chip-cookies-with-chickpeas.webp
 ---
 
 # :cookie: Chocolate Chip Cookies with Chickpeas
@@ -19,17 +19,17 @@ hero: assets/images/chocolate-chip-cookies-with-chickpeas.jpg
 
 ## :salt: Ingredients
 
-- :maple_leaf: 1 cup (213 g) light or dark brown sugar
-- :butter: 0.75 cup (170 g) margarine
+- :candy: 1 cup (213 g) light or dark brown sugar
+- 0.75 cup margarine
 - :egg: 2 large egg whites
-- :icecream: 2 tsp vanilla
-- :falafel: 1 15-oz can chickpeas
-- :chocolate_bar: 12 oz semisweet chocolate chips
-- :chestnut: 0.75 cup walnuts (optional)
-- :grapes: 0.75 cup raisins (optional)
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
+- :flower_playing_cards: 2 tsp vanilla
+- :baby_bottle: 1 15-oz can chickpeas
+- :bread: 12 oz (255 g) semisweet chocolate chips
+- :leafy_green: 0.75 cup (85 g) walnuts (optional)
+- :leafy_green: 0.75 cup (128 g) raisins (optional)
+- :bread: 2 cups (240 g) all-purpose flour
 - :ear_of_rice: 0.5 cup (50 g) old-fashioned rolled oats
-- :cup_with_straw: 1 tsp baking soda
+- :chestnut: 1 tsp baking soda
 - :salt: 0.25 tsp kosher salt
 
 ## :cooking: Cookware
@@ -62,8 +62,12 @@ cooling rack to cool.
 
 Store in an airtight container for up to 3 days.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://jessicaseinfeld.com/recipes/chocolate-chip-cookies-with-chickpeas>
 
-[1]: <../assets/images/chocolate-chip-cookies-with-chickpeas.jpg>
+[1]: <../assets/images/chocolate-chip-cookies-with-chickpeas.webp>

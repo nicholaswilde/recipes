@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - jean-pierre
-hero: assets/images/breadcrumbs.jpg
+hero: assets/images/breadcrumbs.webp
 ---
 
 # :bread: Breadcrumbs
 
-![Breadcrumbs](../assets/images/breadcrumbs.jpg){ loading=lazy }
+![Breadcrumbs](../assets/images/breadcrumbs.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -19,9 +19,9 @@ hero: assets/images/breadcrumbs.jpg
 
 - :bread: 1 loaf white mountain bread (publix)
 - :garlic: 5 cloves garlic
-- :tomato: 2 Tbsp sun-dried tomatoes
+- :tea: 2 Tbsp (21 g) sun-dried tomatoes
 - :herb: 1 Tbsp parsley
-- :cheese_wedge: 0.5 cup Parmesan
+- :cheese_wedge: 0.5 cup (50 g) Parmesan
 
 ## :cooking: Cookware
 

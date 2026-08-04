@@ -5,12 +5,12 @@ tags:
   - mexican
   - tacos
   - recipe-box
-hero: assets/images/potato-tacos.jpg
+hero: assets/images/potato-tacos.webp
 ---
 
 # :taco: Potato Tacos
 
-![Potato Tacos](../assets/images/potato-tacos.jpg){ loading=lazy }
+![Potato Tacos](../assets/images/potato-tacos.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/potato-tacos.jpg
 
 ## :salt: Ingredients
 
-- :potato: 1 lb potatoes
-- :olive: 1 Tbsp olive oil
-- :bell_pepper: 1 bell pepper
-- :herb: 2 Tbsp [taco seasoning][3]
-- :canned_food: 1 15-oz can [black beans][2]
-- :canned_food: 1 15-oz can [refried beans][1]
-- :flatbread: 8 tortillas
+- :sweet_potato: 1 lb potatoes
+- :olive: 1 Tbsp (12 g) olive oil
+- :salt: 1 bell pepper
+- 2 Tbsp [taco seasoning][3]
+- :glass_of_milk: 1 15-oz can [black beans][2]
+- :glass_of_milk: 1 15-oz can [refried beans][1]
+- :bread: 8 tortillas
 
 ## :cooking: Cookware
 

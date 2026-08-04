@@ -4,33 +4,51 @@ tags:
 
   - side
   - mediterranean
-hero: assets/images/couscous.jpg
+hero: assets/images/couscous.webp
 ---
 
 # :shallow_pan_of_food: Couscous
 
 ![Couscous][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 10 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 10 minutes |
 
 ## :salt: Ingredients
 
-- :stew: 1 cup vegetable broth or water
-- :salt: 1 pinch kosher salt
-- :shallow_pan_of_food: 1 cup couscous
-- :olive: 2 Tbsp olive oil
-- :herb: 1 pinch cumin (optional)
-- :garlic: 2 cloves sautéed garlic(optional)
-- :leafy_green: 2 green onions (optional)
-- :herb: some fresh herbs (optional)
+=== "Serves 4"
 
-| :cut_of_meat: Uncooked | :hot_springs: Cooked | :droplet: Liquid | :fork_and_knife_with_plate: Serves |
-|:----------------------:|:--------------------:|:----------------:|:----------------------------------:|
-| 180 g                  | 540 g                | 227 g            | 4                                  |
-| 270 g                  | 810 g                | 340 g            | 6                                  |
-| 360 g                  | 1080 g               | 454 g            | 8                                  |
+    - :baby_bottle: 1 cup (227 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :salt: 1 pinch kosher salt
+    - 1 cup (180 g) couscous
+    - :olive: 2 Tbsp (25 g) olive oil
+    - :leafy_green: 1 pinch cumin (optional)
+    - :apple: 2 cloves sautéed garlic (optional)
+    - :tea: 2 green onions (optional)
+    - :apple: some fresh herbs (optional)
+
+=== "Serves 6"
+
+    - :baby_bottle: 1.5 cups (340 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :salt: 1.5 pinches kosher salt
+    - 1.5 cups (270 g) couscous
+    - :olive: 3 Tbsp (38 g) olive oil
+    - :leafy_green: 1.5 pinches cumin (optional)
+    - :apple: 3 cloves sautéed garlic (optional)
+    - :tea: 3 green onions (optional)
+    - :apple: some fresh herbs (optional)
+
+=== "Serves 8"
+
+    - :baby_bottle: 2 cups (454 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
+    - :salt: 2 pinches kosher salt
+    - 2 cups (360 g) couscous
+    - :olive: 4 Tbsp (50 g) olive oil
+    - :leafy_green: 2 pinches cumin (optional)
+    - :apple: 4 cloves sautéed garlic (optional)
+    - :tea: 4 green onions (optional)
+    - :apple: some fresh herbs (optional)
 
 ## :cooking: Cookware
 
@@ -43,7 +61,7 @@ hero: assets/images/couscous.jpg
 
 ### Step 1
 
-In a saucepan, add vegetable broth or water. Add a drizzle of extra virgin olive oil and a pinch of kosher salt. Bring
+In a saucepan, add [Vegetable Broth](../../ingredients/vegetable-broth.md) or water. Add a drizzle of extra virgin olive oil and a pinch of kosher salt. Bring
 to a boil.
 
 ### Step 2
@@ -71,4 +89,4 @@ Enjoy!
 
 - <https://www.themediterraneandish.com/how-to-cook-couscous/>
 
-[1]: <../../assets/images/couscous.jpg>
+[1]: <../../assets/images/couscous.webp>

@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/swiss-roll.jpg
+hero: assets/images/swiss-roll.webp
 ---
 
 # :cake: Swiss Roll
 
-![Swiss Roll](../assets/images/swiss-roll.jpg){ loading=lazy }
+![Swiss Roll](../assets/images/swiss-roll.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,13 +16,13 @@ hero: assets/images/swiss-roll.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: some vegetable oil
+- :olive: some vegetable oil
 - :egg: 3 large eggs
 - :candy: 100 g granulated sugar
-- :ear_of_rice: 100 g self-rising flour
-- :hotsprings: 1 Tbsp warm water
-- :candy: 2 Tbsp granulated sugar
-- :strawberry: 185 g [raspberry jam][1]
+- :bread: 100 g self-rising flour
+- :droplet: 1 Tbsp (14 g) warm water
+- :candy: 2 Tbsp (25 g) granulated sugar
+- 185 g [raspberry jam][1]
 
 ## :cooking: Cookware
 

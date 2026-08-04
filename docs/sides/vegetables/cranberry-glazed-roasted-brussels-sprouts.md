@@ -4,7 +4,7 @@ tags:
   - holiday
   - side
   - thanksgiving
-hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg
+hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.webp
 ---
 
 # :leafy_green: Cranberry Glazed Roasted Brussels Sprouts
@@ -18,16 +18,16 @@ hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 1.5 lbs Brussels sprouts
-- :olive: 3 Tbsp olive oil
+- :olive: 3 Tbsp (38 g) olive oil
 - :salt: 0.75 tsp salt
 - :salt: 0.5 tsp pepper
-- :onion: 1 small shallots
-- :sake: 0.5 cup Balsamic Vinegar
-- :grapes: 0.5 cup fresh cranberries
+- :garlic: 1 small shallots
+- :wine_glass: 0.5 cup Balsamic Vinegar
+- :apple: 0.5 cup (50 g) fresh cranberries
 - :honey_pot: 1 Tbsp honey
 - :herb: 0.5 tsp thyme
-- :stew: 0.25 cup vegetable broth
-- :hotdog: 1 Tbsp Dijon mustard
+- 0.25 cup [Vegetable Broth](../../ingredients/vegetable-broth.md)
+- :seedling: 1 Tbsp Dijon mustard
 
 ## :cooking: Cookware
 
@@ -59,7 +59,7 @@ reduced to a thick syrup. Stir in fresh cranberries, honey, and thyme.
 
 ### Step 5
 
-Reduce heat and cook 6 minutes, until cranberries start to break down. Add the vegetable broth and bring to a boil.
+Reduce heat and cook 6 minutes, until cranberries start to break down. Add the [Vegetable Broth](../../ingredients/vegetable-broth.md) and bring to a boil.
 Reduce heat and simmer 15 minutes, until thick. Add the mixture to a blender with the Dijon mustard and purée mixture
 in a blender until smooth.
 
@@ -72,4 +72,4 @@ clung and coated the Brussels sprouts.
 
 - <https://www.halfbakedharvest.com/cranberry-glazed-roasted-brussel-sprouts/>
 
-[1]: <../../assets/images/cranberry-glazed-roasted-brussels-sprouts.jpg>
+[1]: <../../assets/images/cranberry-glazed-roasted-brussels-sprouts.webp>

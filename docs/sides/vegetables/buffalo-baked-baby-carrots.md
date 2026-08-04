@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - side
-hero: assets/images/buffalo-baked-baby-carrots.jpg
+hero: assets/images/buffalo-baked-baby-carrots.webp
 ---
 
 # :carrot: Buffalo-Baked Baby Carrots
@@ -16,17 +16,17 @@ hero: assets/images/buffalo-baked-baby-carrots.jpg
 
 ## :salt: Ingredients
 
-- :carrot: 1 lb baby carrots
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+- :leafy_green: 1 lb baby carrots
+- :bread: 0.5 cup (60 g) all-purpose flour
 - :garlic: 0.5 tsp garlic powder
 - :salt: 0.5 tsp salt
-- :bell_pepper: 0.5 tsp paprika
+- :candy: 0.5 tsp paprika
 - :hot_pepper: 0.25 tsp cayenne pepper
-- :glass_of_milk: 0.5 cup milk
-- :bread: 1 cup [breadcrumbs][3]
-- :microbe: 1 Tbsp nutritional yeast
-- :water_buffalo: 1 cup (227 g) [buffalo sauce][2]
-- :leafy_green: 0.25 cup parsley
+- :glass_of_milk: 0.5 cup (114 g) milk
+- 1 cup [breadcrumbs][3]
+- :cheese_wedge: 1 Tbsp (4 g) nutritional yeast
+- 1 cup [buffalo sauce][2]
+- :herb: 0.25 cup parsley
 
 ## :cooking: Cookware
 
@@ -49,7 +49,7 @@ to form a thick batter.
 ### Step 3
 
 In a separate bowl, place the [breadcrumbs][3] and nutritional yeast. Dip each carrot into the batter and then into the
-breadcrumbs. Place each coated carrot on a baking sheet and bake for 30 minutes.
+[Breadcrumbs](../../ingredients/breadcrumbs.md). Place each coated carrot on a baking sheet and bake for 30 minutes.
 
 ### Step 4
 
@@ -60,6 +60,6 @@ your dip of choice.
 
 - Cal-Organic Farms
 
-[1]: <../../assets/images/buffalo-baked-baby-carrots.jpg>
+[1]: <../../assets/images/buffalo-baked-baby-carrots.webp>
 [2]: <../../sauces-and-dressings/gravy-and-savory-sauces/buffalo-sauce.md>
 [3]: <../../ingredients/breadcrumbs.md>

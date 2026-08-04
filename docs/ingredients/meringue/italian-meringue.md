@@ -5,12 +5,12 @@ tags:
   - ingredient
   - meringue
   - joy-of-cooking
-hero: assets/images/italian-meringue.jpg
+hero: assets/images/italian-meringue.webp
 ---
 
 # :egg: Italian Meringue
 
-![Italian Meringue](../../assets/images/italian-meringue.jpg){ loading=lazy }
+![Italian Meringue](../../assets/images/italian-meringue.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,9 +19,9 @@ hero: assets/images/italian-meringue.jpg
 ## :salt: Ingredients
 
 - :droplet: 0.5 cup (114 g) water
-- :rice: 0.25 tsp cream of tartar
-- :candy: 1 cup (198 g) sugar
-- :egg: 3 egg whites
+- :glass_of_milk: 0.25 tsp (1 g) cream of tartar
+- :candy: 1 cup (156 g) sugar
+- :beans: 3 egg whites
 
 ## :pencil: Instructions
 

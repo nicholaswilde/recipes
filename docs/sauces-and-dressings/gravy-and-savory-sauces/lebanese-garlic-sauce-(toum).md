@@ -5,7 +5,7 @@ tags:
   - sauce
   - lebanese
   - toum
-hero: assets/images/lebanese-garlic-sauce-(toum).jpg
+hero: assets/images/lebanese-garlic-sauce-(toum).webp
 ---
 
 # :garlic: Lebanese Garlic Sauce (Toum)
@@ -18,10 +18,10 @@ hero: assets/images/lebanese-garlic-sauce-(toum).jpg
 
 ## :salt: Ingredients
 
-- :garlic: 1 cup (149 g) garlic
+- :garlic: 1 cup garlic
 - :salt: 2 tsp salt
-- :oil_drum: 3 cups (594 g) neutral oil
-- :lemon: 0.5 cup (114 g) lemon juice
+- :olive: 3 cups (678 g) neutral oil
+- :tangerine: 0.5 cup (112 g) lemon juice
 
 ## :cooking: Cookware
 
@@ -61,4 +61,4 @@ The next day, replace the paper towel with an airtight lid and keep in the fridg
 
 - <https://feelgoodfoodie.net/recipe/lebanese-garlic-sauce/>
 
-[1]: <../../assets/images/lebanese-garlic-sauce-(toum).jpg>
+[1]: <../../assets/images/lebanese-garlic-sauce-(toum).webp>

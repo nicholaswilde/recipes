@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/potato-latkes.jpg
+hero: assets/images/potato-latkes.webp
 ---
 
 # :potato: Potato Latkes
@@ -16,14 +16,14 @@ hero: assets/images/potato-latkes.jpg
 
 ## :salt: Ingredients
 
-- :potato: 2 large Russet potatoes
-- :onion: 1 large onion
+- :sweet_potato: 2 large Russet potatoes
+- :tea: 1 large onion
 - :egg: 2 eggs
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+- :bread: 0.5 cup (60 g) all-purpose flour
 - :salt: 2 tsp salt
-- :dash: 1 tsp baking powder
+- :chestnut: 1 tsp baking powder
 - :salt: 0.5 tsp pepper
-- :oil_drum: some neutral oil
+- :olive: some neutral oil
 - :salt: some salt
 
 ## :cooking: Cookware
@@ -69,4 +69,4 @@ to drain and sprinkle with salt while still warm. Repeat with the remaining batt
 
 - <https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes>
 
-[1]: <../assets/images/potato-latkes.jpg>
+[1]: <../assets/images/potato-latkes.webp>

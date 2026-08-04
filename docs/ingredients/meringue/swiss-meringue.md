@@ -4,12 +4,12 @@ tags:
 
   - meringue
   - ingredient
-hero: assets/images/swiss-meringue.jpg
+hero: assets/images/swiss-meringue.webp
 ---
 
 # :egg: Swiss Meringue
 
-![Swiss Meringue](../../assets/images/swiss-meringue.jpg){ loading=lazy }
+![Swiss Meringue](../../assets/images/swiss-meringue.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,9 +18,9 @@ hero: assets/images/swiss-meringue.jpg
 ## :salt: Ingredients
 
 - :egg: 4 large egg whites
-- :candy: 1 cup sugar (189 g)
+- :candy: 1 cup (156 g) sugar
 - :salt: 1 pinch salt
-- :icecream: 2 tsp vanilla
+- :flower_playing_cards: 2 tsp vanilla
 
 ## :cooking: Cookware
 

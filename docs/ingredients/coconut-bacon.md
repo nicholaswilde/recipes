@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/coconut-bacon.jpg
+hero: assets/images/coconut-bacon.webp
 ---
 
 # :bacon: Coconut Bacon
@@ -16,11 +16,11 @@ hero: assets/images/coconut-bacon.jpg
 
 ## :salt: Ingredients
 
-- :coconut: 4 cups coconut chips
-- :olive: 2 Tbsp olive oil
-- :bell_pepper: 2 tsp chipotle powder
+- :bread: 4 cups (512 g) coconut chips
+- :olive: 2 Tbsp (25 g) olive oil
+- :hot_pepper: 2 tsp chipotle powder
 - :salt: 1.25 tsp salt
-- :maple_leaf: 0.75 cup maple syrup
+- :honey_pot: 0.75 cup (234 g) maple syrup
 
 ## :cooking: Cookware
 
@@ -63,4 +63,4 @@ The coconut bacon can be stored in an airtight container or glass jar for up to 
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/coconut-bacon.jpg>
+[1]: <../assets/images/coconut-bacon.webp>

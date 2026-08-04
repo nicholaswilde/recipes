@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/japanese-milk-bread.jpg
+hero: assets/images/japanese-milk-bread.webp
 ---
 
 # :bread: Japanese Milk Bread
@@ -21,22 +21,24 @@ hero: assets/images/japanese-milk-bread.jpg
 |:-------------------:|:---------------:|:--------------------:|
 |        1 part       |      3 parts    |        3 parts       |
 
-## :salt: Ingredients - Tangzhong
+## :salt: Ingredients
 
-- :droplet: 43 g water
-- :glass_of_milk: 43 g whole milk
-- :ear_of_rice: 14 g bread flour
+=== "Tangzhong"
 
-## :salt: Ingredients - Dough
+    - :droplet: 43 g water
+    - :glass_of_milk: 43 g whole milk
+    - :bread: 14 g bread flour
 
-- :ear_of_rice: 300 g bread flour
-- :glass_of_milk: 14 g dry milk
-- :candy: 50 g granulated sugar
-- :salt: 6 g salt
-- :microbe: 1 Tbsp instant yeast
-- :glass_of_milk: 113 g whole milk
-- :egg: 1 large egg
-- :butter: 57 g unsalted butter
+=== "Dough"
+
+    - :bread: 300 g bread flour
+    - :glass_of_milk: 14 g dry milk
+    - :candy: 50 g granulated sugar
+    - :salt: 6 g salt
+    - :tea: 1 Tbsp (9 g) instant yeast
+    - :glass_of_milk: 113 g whole milk
+    - :egg: 1 large egg
+    - :butter: 57 g unsalted butter
 
 ## :cooking: Cookware
 
@@ -119,4 +121,4 @@ Store leftover bread, well wrapped, at cool room temperature for 5 to 7 days; fr
 
 - <https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe>
 
-[1]: <../assets/images/japanese-milk-bread.jpg>
+[1]: <../assets/images/japanese-milk-bread.webp>

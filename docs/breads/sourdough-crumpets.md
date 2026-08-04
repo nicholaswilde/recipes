@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/sourdough-crumpets.jpg
+hero: assets/images/sourdough-crumpets.webp
 ---
 
 # :bread: Sourdough Crumpets
@@ -17,10 +17,10 @@ hero: assets/images/sourdough-crumpets.jpg
 
 ## :salt: Ingredients
 
-- :microbe: 227 g [sourdough starter][2]
-- :candy: 1 tsp granulated sugar
+- 227 g [sourdough starter][2]
+- :candy: 1 tsp (4 g) granulated sugar
 - :salt: 0.5 tsp salt
-- :cup_with_straw: 0.38 tsp baking soda
+- :chestnut: 0.38 tsp baking soda
 
 ## :cooking: Cookware
 
@@ -57,5 +57,5 @@ Store any leftovers at room temperature for several days. Freeze, well wrapped, 
 - <https://www.kingarthurbaking.com/recipes/sourdough-crumpets-recipe>
 - <https://youtube.com/watch?v=MhHGfafYmJs>
 
-[1]: <../assets/images/sourdough-crumpets.jpg>
+[1]: <../assets/images/sourdough-crumpets.webp>
 [2]: <../ingredients/sourdough-starter.md>

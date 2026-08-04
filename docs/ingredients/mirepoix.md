@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/mirepoix.jpg
+hero: assets/images/mirepoix.webp
 ---
 
 # :leafy_green: Mirepoix
 
-![Mirepoix](../assets/images/mirepoix.jpg){ loading=lazy }
+![Mirepoix](../assets/images/mirepoix.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

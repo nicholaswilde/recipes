@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - indian
-hero: assets/images/gulab-jambu.jpg
+hero: assets/images/gulab-jambu.webp
 ---
 
 # :doughnut: Gulab Jambu
 
-![Gulab Jambu](../assets/images/gulab-jambu.jpg){ loading=lazy }
+![Gulab Jambu](../assets/images/gulab-jambu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,17 +17,17 @@ hero: assets/images/gulab-jambu.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup [Bisquick][2]
-- :glass_of_milk: 1 cup dried milk powder
-- :butter: 2 Tbsp [ghee][1]
-- :glass_of_milk: 0.25 cup whole milk
+- 0.5 cup [Bisquick][2]
+- :glass_of_milk: 1 cup (140 g) dried milk powder
+- 2 Tbsp [ghee][1]
+- :glass_of_milk: 0.25 cup (57 g) whole milk
 - :droplet: 1.5 cup (340 g) water
 - :candy: 1 cup (198 g) granulated sugar
-- :olive: 4 green cardamom pods
+- :seedling: 4 green cardamom pods
 - :tulip: 5 strands saffron
-- :lemon: 1 tsp lemon juice (optional)
-- :rose: 1 tsp rose water (optional)
-- :butter: 2 cups (396 g) ghee or vegetable oil
+- :apple: 1 tsp lemon juice (optional)
+- :apple: 1 tsp (5 g) rose water (optional)
+- :carrot: 2 cups (396 g) ghee or vegetable oil
 
 ## :cooking: Cookware
 
@@ -42,9 +42,10 @@ hero: assets/images/gulab-jambu.jpg
 
 ### Step 1
 
-Sift 1/2 cup Bisquick into a medium bowl. Add 1 cup dried milk powder and whisk until combined. Melt 2 tablespoons ghee
-in the microwave or on the stovetop. Pour into the [Bisquick][2] mixture and stir until the texture is crumbly and you can
-visibly see no more [ghee][1]. Add 1/4 cup whole milk and stir until a sticky and wet dough forms.
+Sift 1/2 cup [Bisquick](../ingredients/bisquick.md) into a medium bowl. Add 1 cup dried milk powder and whisk
+until combined. Melt 2 tablespoons ghee in the microwave or on the stovetop. Pour into the [Bisquick][2] mixture
+and stir until the texture is crumbly and you can visibly see no more [ghee][1]. Add 1/4 cup whole milk and stir
+until a sticky and wet dough forms.
 
 ### Step 2
 

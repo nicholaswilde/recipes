@@ -4,12 +4,12 @@ tags:
 
   - sugar
   - ingredient
-hero: assets/images/vanilla-sugar.jpg
+hero: assets/images/vanilla-sugar.webp
 ---
 
 # :candy: Vanilla Sugar
 
-![Vanilla Sugar](../assets/images/vanilla-sugar.jpg){ loading=lazy }
+![Vanilla Sugar](../assets/images/vanilla-sugar.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,7 +18,7 @@ hero: assets/images/vanilla-sugar.jpg
 ## :salt: Ingredients
 
 - :candy: 2 cups (396 g) granulated sugar
-- :icecream: 1 vanilla bean pod
+- :hamburger: 1 vanilla bean pod
 
 ## :cooking: Cookware
 

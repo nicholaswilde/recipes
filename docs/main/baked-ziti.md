@@ -4,12 +4,12 @@ tags:
   - holiday
   - italian
   - pasta
-hero: assets/images/baked-ziti.jpg
+hero: assets/images/baked-ziti.webp
 ---
 
 # :spaghetti: Baked Ziti
 
-![Baked Ziti](../assets/images/baked-ziti.jpg){ loading=lazy }
+![Baked Ziti](../assets/images/baked-ziti.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/baked-ziti.jpg
 
 ## :salt: Ingredients
 
-- :spaghetti: 1 lb [penne pasta][2]
-- :spaghetti: 2 16-oz jars [marinara sauce][1]
-- :cheese_wedge: 16 oz mozzarella
-- :cheese_wedge: 1 16-oz container [ricotta][3]
+- 1 lb [penne pasta][2]
+- :glass_of_milk: 2 16-oz jars [marinara sauce][1]
+- :cheese_wedge: 16 oz (226 g) mozzarella
+- :glass_of_milk: 1 16-oz container [ricotta][3]
 - :cheese_wedge: 1 block Jack cheese
 
 ## :cooking: Cookware
@@ -56,5 +56,5 @@ Pour pasta mixture in casserole pan and pour remaining marinara and mozzarella o
 Bake covered for 10 minutes, then uncovered for 10 to 15 minutes more, or until cheese is brown and bubbly.
 
 [1]: <../sauces-and-dressings/gravy-and-savory-sauces/marinara-sauce.md>
-[2]: <../reference/equivalents-and-substitutes.md#pasta-water>
+[2]: <../ingredients/pasta.md>
 [3]: <../ingredients/ricotta.md>

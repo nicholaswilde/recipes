@@ -7,7 +7,7 @@ tags:
 hero: assets/images/fall-turkey-chili-with-pumpkin.png
 ---
 
-# Fall Turkey Chili With Pumpkin
+# :hot_pepper: Fall Turkey Chili With Pumpkin
 
 ![Fall Turkey Chili With Pumpkin](../assets/images/fall-turkey-chili-with-pumpkin.png){ loading=lazy }
 
@@ -17,18 +17,18 @@ hero: assets/images/fall-turkey-chili-with-pumpkin.png
 
 ## :salt: Ingredients
 
-- :hot_pepper: 1 bell pepper
-- :onion: 0.5 medium onions
+- :salt: 1 bell pepper
+- :tea: 0.5 medium onions
 - :garlic: 2 cloves garlic
-- :tumbler_glass: 1 pkg soy crumbles
+- :takeout_box: 1 pkg soy crumbles
 - :tomato: 1 can diced tomatoes
-- 2 cans pumpkin
-- 1 can kidney beans
-- 0.5 can corn
-- :baby_bottle: 1 cup sour cream
-- 0.5 cup cheese
+- :melon: 2 cans pumpkin
+- :apple: 1 can kidney beans
+- :corn: 0.5 can corn
+- :glass_of_milk: 1 cup (227 g) sour cream
+- :cheese_wedge: 0.5 cup (114 g) cheese
 - :avocado: 1 avocado
-- 1 pkg cilantro
+- :herb: 1 pkg cilantro
 
 ## :cooking: Cookware
 

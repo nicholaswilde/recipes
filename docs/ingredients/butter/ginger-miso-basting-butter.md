@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/ginger-miso-basting-butter.jpg
+hero: assets/images/ginger-miso-basting-butter.webp
 ---
 
 # :butter: Ginger-Miso Basting Butter
 
-![Ginger-Miso Basting Butter](../../assets/images/ginger-miso-basting-butter.jpg){ loading=lazy }
+![Ginger-Miso Basting Butter](../../assets/images/ginger-miso-basting-butter.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/ginger-miso-basting-butter.jpg
 
 ## :salt: Ingredients
 
-- :butter: 4 Tbsp unsalted butter
-- :takeout_box: 1 Tbsp white miso
-- :takeout_box: 1 Tbsp soy sauce
-- :garlic: 2 tsp fresh ginger
+- :butter: 4 Tbsp (56 g) unsalted butter
+- :takeout_box: 1 Tbsp (18 g) white miso
+- :takeout_box: 1 Tbsp (9 g) soy sauce
+- :sweet_potato: 2 tsp (10 g) fresh ginger
 - :salt: 0.5 tsp pepper
 
 ## :cooking: Cookware

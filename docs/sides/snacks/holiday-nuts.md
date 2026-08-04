@@ -2,12 +2,12 @@
 comments: true
 tags:
   - holiday
-hero: assets/images/holiday-nuts.jpg
+hero: assets/images/holiday-nuts.webp
 ---
 
 # :chestnut: Holiday Nuts
 
-![Holiday Nuts](../../assets/images/holiday-nuts.jpg){ loading=lazy }
+![Holiday Nuts](../../assets/images/holiday-nuts.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/holiday-nuts.jpg
 
 - :chestnut: 1 lb pecans halves
 - :butter: 1 stick butter
-- :egg: 2 egg whites
-- :candy: 1 cup (198 g) sugar
+- :beans: 2 egg whites
+- :candy: 1 cup (156 g) sugar
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

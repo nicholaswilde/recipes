@@ -2,9 +2,10 @@
 comments: true
 tags:
   - breakfast
-hero: assets/images/crustless-broccoli-quiche.jpg
+hero: assets/images/crustless-broccoli-quiche.webp
 ---
-# Crustless Broccoli Quiche
+
+# :broccoli: Crustless Broccoli Quiche
 
 ![Crustless Broccoli Quiche][1]{ loading=lazy }
 
@@ -15,14 +16,14 @@ hero: assets/images/crustless-broccoli-quiche.jpg
 ## :salt: Ingredients
 
 - :butter: 1 Tbsp butter
-- :broccoli: 16 oz (454 g) frozen broccoli
+- :broccoli: 16 oz (284 g) frozen broccoli
 - :egg: 8 large eggs
-- :baby_bottle: 0.5 cup (120 g) sour cream
+- :glass_of_milk: 0.5 cup (114 g) sour cream
 - :salt: 1 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 - :garlic: 1 tsp garlic powder
-- :garlic: 0.25 cup (25 g) scallions
-- :cheese_wedge: 4 oz (113 g) sharp cheddar cheese
+- :tea: 0.25 cup (16 g) scallions
+- :cheese_wedge: 4 oz (57 g) sharp cheddar cheese
 
 ## :cooking: Cookware
 
@@ -60,4 +61,4 @@ serve.
 
 - <https://healthyrecipesblogs.com/crustless-quiche/>
 
-[1]: <../assets/images/crustless-broccoli-quiche.jpg>
+[1]: <../assets/images/crustless-broccoli-quiche.webp>

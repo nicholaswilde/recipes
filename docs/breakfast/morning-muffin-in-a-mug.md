@@ -17,14 +17,14 @@ hero: assets/images/morning-muffin-in-a-mug.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup TJ’s Gluten Free Organic Rolled Oats with Ancient Grains & Seeds
-- :apple: 0.25 cup applesauce
+- :baby_bottle: 0.5 cup (85 g) TJ’s Gluten Free Organic Rolled Oats with Ancient Grains & Seeds
+- 0.25 cup (64 g) applesauce
 - :honey_pot: 2 Tbsp honey
 - :salt: 0.13 tsp salt
-- :dash: 0.25 tsp baking powder
-- :custard: 0.25 tsp cinnamon
+- :chestnut: 0.25 tsp baking powder
+- :chestnut: 0.25 tsp (1 g) cinnamon
 - :egg: 1 egg
-- :strawberry: 1 handful berries
+- 1 handful berries
 
 ## :cooking: Cookware
 
@@ -46,6 +46,10 @@ expand as it cooks and may partially rise out of the mug.
 
 Carefully remove the mug from the microwave, as it will be very hot, and let cool for about 5 minutes. Top with some
 fresh berries (optional), drizzle with more honey if desired, and serve.
+
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
 
 ## :link: Source
 

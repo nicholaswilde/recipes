@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - custard
-hero: assets/images/classic-crème-brûlée.jpg
+hero: assets/images/classic-crème-brûlée.webp
 ---
 
 # :custard: Classic Crème Brûlée
 
-![Classic Crème Brûlée](../assets/images/classic-crème-brûlée.jpg){ loading=lazy }
+![Classic Crème Brûlée](../assets/images/classic-crème-brûlée.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

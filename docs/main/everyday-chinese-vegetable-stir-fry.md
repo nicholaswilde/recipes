@@ -5,12 +5,12 @@ tags:
   - asian
   - stir-fry
   - vegetarian
-hero: assets/images/everyday-chinese-vegetable-stir-fry.jpg
+hero: assets/images/everyday-chinese-vegetable-stir-fry.webp
 ---
 
 # :rice: Everyday Chinese Vegetable Stir-Fry
 
-![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.jpg){ loading=lazy }
+![Everyday Chinese Vegetable Stir-Fry](../assets/images/everyday-chinese-vegetable-stir-fry.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,24 +18,24 @@ hero: assets/images/everyday-chinese-vegetable-stir-fry.jpg
 
 ## :salt: Ingredients
 
-- :stew: 0.33 cup vegetable stock
+- :stew: 0.33 cup (65 g) vegetable stock
 - :wine_glass: 1 Tbsp Shaoxing wine
-- :oyster: 2 tsp oyster sauce
+- :apple: 2 tsp (10 g) oyster sauce
 - :salt: 0.25 tsp salt
-- :candy: 0.25 tsp sugar
-- :seedling: 0.25 tsp sesame oil
+- :candy: 0.25 tsp (1 g) sugar
+- :olive: 0.25 tsp (1 g) sesame oil
 - :salt: 1 pinch white pepper
-- :oil_drum: 2 Tbsp vegetable oil
+- :olive: 2 Tbsp (25 g) vegetable oil
 - :sweet_potato: 4 slices ginger
-- :mushroom: 1 cup sliced mushrooms
+- :mushroom: 1 cup (78 g) sliced mushrooms
 - :carrot: 1 cup carrot
-- :leafy_green: 1 cup celery
-- :leafy_green: 1 cup asparagus
-- :bell_pepper: 1 cup bell pepper
-- :hot_pepper: 1 cup long hot pepper
+- :leafy_green: 1 cup (142 g) celery
+- 1 cup asparagus
+- :hot_pepper: 1 cup (142 g) bell pepper
+- :hot_pepper: 1 cup (198 g) long hot pepper
 - :garlic: 3 cloves garlic
-- :corn: 2 tsp cornstarch
-- :droplet: 1 Tbsp water
+- :chestnut: 2 tsp (5 g) cornstarch
+- :droplet: 1 Tbsp (14 g) water
 
 ## :cooking: Cookware
 

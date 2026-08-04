@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/fruit-galette.jpg
+hero: assets/images/fruit-galette.webp
 ---
 
 # :pie: Fruit Galette
@@ -14,24 +14,26 @@ hero: assets/images/fruit-galette.jpg
 |:-----------------------: |
 | 3.08 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 165 g all-purpose flour
-- :candy: 15 g granulated sugar
-- :salt: 0.5 tsp salt
-- :egg: 1 large egg
-- :icecream: some heavy cream
-- :butter: 113 g unsalted butter
-- :lemon: 2 tsp lemon juice
-- :lemon: 0.5 tsp lemon zest (optional)
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :bread: 165 g all-purpose flour
+    - :candy: 15 g granulated sugar
+    - :salt: 0.5 tsp salt
+    - :egg: 1 large egg
+    - :glass_of_milk: some heavy cream
+    - :butter: 113 g unsalted butter
+    - :tangerine: 2 tsp (9 g) lemon juice
+    - :apple: 0.5 tsp (2 g) lemon zest (optional)
 
-- :strawberry: 3 cups summer fruit
-- :candy: 150 g granulated sugar
-- :salt: 1 pinch salt
-- :lemon: 0.5 lemon
-- :corn: 4 Tbsp cornstarch
+=== "Filling"
+
+    - 3 cups (384 g) summer fruit
+    - :candy: 150 g granulated sugar
+    - :salt: 1 pinch salt
+    - :tangerine: 0.5 lemon
+    - :chestnut: 4 Tbsp (28 g) cornstarch
 
 ## :cooking: Cookware
 
@@ -85,4 +87,4 @@ on wire rack. Serve warm or at room temperature
 
 - <https://cooking.nytimes.com/recipes/1016758-fruit-galette>
 
-[1]: <../assets/images/fruit-galette.jpg>
+[1]: <../assets/images/fruit-galette.webp>

@@ -4,12 +4,12 @@ tags:
 
   - recipe-box
   - chowder
-hero: assets/images/chipotle-corn-chowder.jpg
+hero: assets/images/chipotle-corn-chowder.webp
 ---
 
 # :corn: Chipotle Corn Chowder
 
-![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.jpg){ loading=lazy }
+![Chipotle Corn Chowder](../assets/images/chipotle-corn-chowder.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,17 +17,17 @@ hero: assets/images/chipotle-corn-chowder.jpg
 
 ## :salt: Ingredients
 
-- :stew: 1.75 cups vegetable broth
-- :corn: 1.5 cups frozen corn
-- :bell_pepper: 1 cup green bell pepper
-- :bell_pepper: 1 cup red bell pepper
-- :carrot: 1 cup carrots
-- :herb: 0.5 tsp cumin
+- 1.75 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :beans: 1.5 cups (228 g) frozen corn
+- :hot_pepper: 1 cup (142 g) green bell pepper
+- :hot_pepper: 1 cup (210 g) red bell pepper
+- :carrot: 1 cup (142 g) carrots
+- :chestnut: 0.5 tsp (2 g) cumin
 - :hot_pepper: 0.13 tsp cayenne pepper
-- :glass_of_milk: 0.67 cup evaporated fat-free milk
-- :ear_of_rice: 3 Tbsp flour
-- :hamburger: 0.5 pkg Morning Star black bean crumbles
-- :cheese_wedge: 0.25 cup cheese
+- :coconut: 0.67 cup (162 g) evaporated fat-free milk
+- :bread: 3 Tbsp (17 g) flour
+- :burrito: 0.5 pkg Morning Star black bean crumbles
+- :cheese_wedge: 0.25 cup (57 g) cheese
 
 ## :cooking: Cookware
 
@@ -39,7 +39,7 @@ hero: assets/images/chipotle-corn-chowder.jpg
 
 ### Step 1
 
-In a large saucepan, combine vegetable broth, frozen corn, chopped green bell pepper, chopped red bell pepper, sliced
+In a large saucepan, combine [Vegetable Broth](../ingredients/vegetable-broth.md), frozen corn, chopped green bell pepper, chopped red bell pepper, sliced
 carrots, cumin, and cayenne pepper.
 
 ### Step 2

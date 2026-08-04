@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/miso-nori-paste.jpg
+hero: assets/images/miso-nori-paste.webp
 ---
 
-# Miso Nori Paste
+# :leafy_green: Miso Nori Paste
 
-![Miso Nori](../assets/images/miso-nori-paste.jpg){ loading=lazy }
+![Miso Nori](../assets/images/miso-nori-paste.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,7 +17,7 @@ hero: assets/images/miso-nori-paste.jpg
 ## :salt: Ingredients
 
 - 1 8x7 sheet nori
-- 0.25 cup white miso
+- :takeout_box: 0.25 cup (72 g) white miso
 
 ## :cooking: Cookware
 

@@ -6,7 +6,7 @@ tags:
   - king-arthur
   - recipe-of-the-year
   - favorite
-hero: assets/images/big-and-bubbly-focaccia.jpg
+hero: assets/images/big-and-bubbly-focaccia.webp
 ---
 
 # :bread: Big & Bubbly Focaccia
@@ -17,20 +17,22 @@ hero: assets/images/big-and-bubbly-focaccia.jpg
 |:----------------------------------:|:-----------------------: |
 | 1 8" square | 4.20 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :salt: 9 g salt
-- :candy: 5 g granulated sugar
-- :microbe: 1 tsp yeast
-- :hotsprings: 284 g lukewarm water
-- :olive: 18 g olive oil
+=== "Dough"
 
-## :salt: Ingredients - Assembly
+    - :bread: 360 g all-purpose flour
+    - :salt: 9 g salt
+    - :candy: 5 g granulated sugar
+    - :tea: 1 tsp (3 g) yeast
+    - :baby_bottle: 284 g lukewarm water
+    - :olive: 18 g olive oil
 
-- :olive: 13 g olive oil
-- :olive: 13 g olive oil
-- :salt: some flaky salt
+=== "Assembly"
+
+    - :olive: 13 g olive oil
+    - :olive: 13 g olive oil
+    - :salt: some flaky salt
 
 ## :cooking: Cookware
 
@@ -146,4 +148,4 @@ from the oven once again and transfer it to a wire rack to cool completely.
 
 - <https://www.kingarthurbaking.com/recipes/big-and-bubbly-focaccia-recipe>
 
-[1]: <../assets/images/big-and-bubbly-focaccia.jpg>
+[1]: <../assets/images/big-and-bubbly-focaccia.webp>

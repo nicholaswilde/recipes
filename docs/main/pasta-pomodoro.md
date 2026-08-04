@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - jean-pierre
-hero: assets/images/pasta-pomodoro.jpg
+hero: assets/images/pasta-pomodoro.webp
 ---
 
 # :spaghetti: Pasta Pomodoro
 
-![Pasta Pomodoro](../assets/images/pasta-pomodoro.jpg){ loading=lazy }
+![Pasta Pomodoro](../assets/images/pasta-pomodoro.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,14 +19,14 @@ hero: assets/images/pasta-pomodoro.jpg
 ## :salt: Ingredients
 
 - :spaghetti: some pasta
-- :olive: 2 Tbsp olive oil
-- :onion: 0.33 cup onion, finely diced
-- :garlic: 1 tsp garlic, finely diced
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 0.33 cup (47 g) onion, finely diced
+- :garlic: 1 tsp (3 g) garlic, finely diced
 - :tomato: 1 lb cherry or Campari tomatoes, cut in half
 - :herb: some basil leaves
 - :salt: some salt
 - :salt: some pepper
-- :cheese_wedge: some Parmigiano-Reggiano
+- some Parmigiano-Reggiano
 
 ## :cooking: Cookware
 

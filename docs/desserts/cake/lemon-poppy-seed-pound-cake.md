@@ -3,9 +3,10 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/lemon-poppy-seed-pound-cake.jpg
+hero: assets/images/lemon-poppy-seed-pound-cake.webp
 ---
-# Lemon Poppy Seed Pound Cake
+
+# :lemon: Lemon Poppy Seed Pound Cake
 
 ![Lemon Poppy Seed Pound Cake][1]{ loading=lazy }
 
@@ -15,21 +16,21 @@ hero: assets/images/lemon-poppy-seed-pound-cake.jpg
 
 ## :salt: Ingredients
 
-- some butter
-- some all-purpose flour
-- 2 lemons lemon zest
-- 1 cup sugar
-- 0.5 cup buttermilk
-- 3 Tbsp lemon juice
-- 3 large eggs
-- some all-purpose flour
-- 1.5 tsp baking powder
-- 0.25 tsp baking soda
-- 0.25 tsp fine sea salt
-- 0.67 cup extra-virgin olive oil
-- 1 Tbsp poppy seeds
-- 4 tsp lemon juice
-- 0.5 cup confectioner's sugar
+- :butter: some butter
+- :bread: some all-purpose flour
+- :tangerine: 2 lemons lemon zest
+- :candy: 1 cup (156 g) sugar
+- :icecream: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
+- :tangerine: 3 Tbsp (42 g) lemon juice
+- :egg: 3 large eggs
+- :bread: some all-purpose flour
+- :chestnut: 1.5 tsp baking powder
+- :chestnut: 0.25 tsp baking soda
+- :salt: 0.25 tsp fine sea salt
+- :olive: 0.67 cup (134 g) extra-virgin olive oil
+- :seedling: 1 Tbsp poppy seeds
+- :tangerine: 4 tsp (19 g) lemon juice
+- :candy: 0.5 cup (90 g) confectioner's sugar
 
 ## :cooking: Cookware
 
@@ -50,7 +51,7 @@ Heat oven to 350°F. butter and all-purpose flour an 8-inch loaf pan.
 
 ### Step 2
 
-In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in buttermilk,
+In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in [buttermilk](../../ingredients/buttermilk.md),
 lemon juice, and large eggs.
 
 ### Step 3
@@ -79,5 +80,4 @@ and sides of cake. Cool completely before slicing.
 
 - <https://cooking.nytimes.com/recipes/1014800-lemon-poppy-seed-pound-cake>
 
-[1]: <../../assets/images/lemon-poppy-seed-pound-cake.jpg>
-
+[1]: <../../assets/images/lemon-poppy-seed-pound-cake.webp>

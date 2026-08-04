@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - cupcake-jemma
-hero: assets/images/brown-sugar-honey-butter-toast.jpg
+hero: assets/images/brown-sugar-honey-butter-toast.webp
 ---
 
 # :waffle: Brown Sugar Honey Butter Toast
@@ -18,10 +18,10 @@ hero: assets/images/brown-sugar-honey-butter-toast.jpg
 ## :salt: Ingredients
 
 - :butter: 40 g unsalted butter
-- :maple_leaf: 40 g light brown sugar
+- :candy: 40 g light brown sugar
 - :honey_pot: 20 g honey
 - :salt: 1 pinch salt
-- :bread: 2 slices [Japanese Milk Bread][2]
+- :glass_of_milk: 2 slices [Japanese Milk Bread][2]
 
 ## :cooking: Cookware
 
@@ -60,5 +60,5 @@ Bake the bread on a sheet pan lined with parchment for 16 to 18 minutes, flippin
 
 - <https://www.youtube.com/watch?v=jVTRLQJQAxo>
 
-[1]: <../assets/images/brown-sugar-honey-butter-toast.jpg>
+[1]: <../assets/images/brown-sugar-honey-butter-toast.webp>
 [2]: <../breads/japanese-milk-bread.md>

@@ -5,7 +5,7 @@ tags:
   - dessert
   - bake-off
   - cooks-illustrated
-hero: assets/images/cooks-illustrated-lemon-bars.jpg
+hero: assets/images/cooks-illustrated-lemon-bars.webp
 ---
 
 # :lemon: Cooks Illustrated Lemon Bars
@@ -16,25 +16,27 @@ hero: assets/images/cooks-illustrated-lemon-bars.jpg
 |:-----------------------: |
 | 2.23 hours |
 
-## :salt: Ingredients - Crust
+## :salt: Ingredients
 
-- :ear_of_rice: 120 g all-purpose flour
-- :candy: 50 g granulated sugar
-- :salt: 1 tsp salt
-- :butter: 113 g unsalted butter
+=== "Crust"
 
-## :salt: Ingredients - Filling
+    - :bread: 120 g all-purpose flour
+    - :candy: 50 g granulated sugar
+    - :salt: 1 tsp salt
+    - :butter: 113 g unsalted butter
 
-- :candy: 198 g granulated sugar
-- :ear_of_rice: 2 Tbsp all-purpose flour
-- :dash: 2 tsp cream of tartar
-- :salt: 0.5 tsp salt
-- :egg: 3 large eggs
-- :egg: 3 large egg yolks
-- :lemon: 2 tsp lemon zest
-- :lemon: 0.67 cup lemon juice
-- :butter: 4 Tbsp unsalted butter
-- :candy: some confectioners' sugar (optional)
+=== "Filling"
+
+    - :candy: 198 g granulated sugar
+    - :bread: 2 Tbsp (15 g) all-purpose flour
+    - :glass_of_milk: 2 tsp (12 g) cream of tartar
+    - :salt: 0.5 tsp salt
+    - :egg: 3 large eggs
+    - :egg: 3 large egg yolks
+    - :tangerine: 2 tsp (9 g) lemon zest
+    - :tangerine: 0.67 cup (150 g) lemon juice
+    - :butter: 4 Tbsp (56 g) unsalted butter
+    - :candy: some confectioners' sugar (optional)
 
 ## :cooking: Cookware
 
@@ -89,4 +91,4 @@ between cuts as necessary. Before serving, dust bars with confectioners' sugar (
 - Cook's Illustrated
 - <https://www.thepancakeprincess.com/best-lemon-bar-bake-off/>
 
-[1]: <../assets/images/cooks-illustrated-lemon-bars.jpg>
+[1]: <../assets/images/cooks-illustrated-lemon-bars.webp>

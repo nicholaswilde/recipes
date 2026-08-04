@@ -4,12 +4,12 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/eggless-egg-salad.jpg
+hero: assets/images/eggless-egg-salad.webp
 ---
 
-# Eggless Egg Salad
+# :egg: Eggless Egg Salad
 
-![Eggless Egg Salad](../../assets/images/eggless-egg-salad.jpg){ loading=lazy }
+![Eggless Egg Salad](../../assets/images/eggless-egg-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,19 +17,19 @@ hero: assets/images/eggless-egg-salad.jpg
 
 ## :salt: Ingredients
 
-- 1 pkg firm tofu
-- 0.5 stalk celery plug leaves
+- :cheese_wedge: 1 pkg firm tofu
+- :herb: 0.5 stalk celery plug leaves
 - :garlic: 1 clove shallot
-- 0.25 tsp dry dill
-- 0.5 tsp fresh dill
-- 0.5 tsp turmeric
-- 1 tsp Dijon mustard
-- 2 tsp dill pickle relish
-- :onion: 0.25 tsp onion powder
+- :apple: 0.25 tsp (1 g) dry dill
+- :apple: 0.5 tsp fresh dill
+- :curry: 0.5 tsp (2 g) turmeric
+- :seedling: 1 tsp Dijon mustard
+- :tangerine: 2 tsp dill pickle relish
+- :chestnut: 0.25 tsp (1 g) onion powder
 - :garlic: 0.25 tsp garlic powder
 - 0.25 cup [mayonnaise][1]
 - :salt: some sea salt
-- some turmeric
+- :curry: some turmeric
 
 ## :cooking: Cookware
 

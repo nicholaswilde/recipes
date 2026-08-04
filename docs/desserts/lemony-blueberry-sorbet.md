@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - sorbet
-hero: assets/images/lemony-blueberry-sorbet.jpg
+hero: assets/images/lemony-blueberry-sorbet.webp
 ---
 
 # :lemon: Lemony Blueberry Sorbet
@@ -17,10 +17,10 @@ hero: assets/images/lemony-blueberry-sorbet.jpg
 
 ## :salt: Ingredients
 
-- :blue_circle: 3 cups blueberries
+- :apple: 3 cups (468 g) blueberries
 - :honey_pot: 3 Tbsp honey
-- :lemon: 1 lemon juice
-- :lemon: 1 lemon zest
+- :tangerine: 1 lemon juice
+- :tangerine: 1 lemon zest
 
 ## :cooking: Cookware
 
@@ -51,4 +51,4 @@ Transfer the sorbet to an airtight container and freeze for another 30 minutes o
 
 - <https://www.farmfreshtoyou.com/recipes/601/lemony-blueberry-sorbet>
 
-[1]: <../assets/images/lemony-blueberry-sorbet.jpg>
+[1]: <../assets/images/lemony-blueberry-sorbet.webp>

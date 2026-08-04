@@ -4,7 +4,8 @@ tags:
   - main
 hero: assets/images/meatless-umami-shepherd's-pie.png
 ---
-# Meatless Umami Shepherd's Pie
+
+# :pie: Meatless Umami Shepherd's Pie
 
 ![Meatless Umami Shepherd's Pie][1]{ loading=lazy }
 
@@ -14,14 +15,14 @@ hero: assets/images/meatless-umami-shepherd's-pie.png
 
 ## :salt: Ingredients
 
-- :butter: 3 Tbsp unsalted butter
-- :carrot: 1 container TJ's mirepoix
-- :cut_of_meat: 1 pkg TJ's beefless beef
-- :mushroom: 1 bag mushroom medley
-- :tomato: 2 Tbsp tomato paste
-- :bread: 2 Tbsp all-purpose flour
-- :stew: 2 cups (455 g) [vegetable broth][2]
-- :salt: 3 Tbsp TJ's Mushroom and Company Multipurpose umami seasoning
+- :butter: 3 Tbsp (42 g) unsalted butter
+- 1 container TJ's mirepoix
+- :apple: 1 pkg TJ's beefless beef
+- :droplet: 1 bag mushroom medley
+- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :bread: 2 Tbsp (15 g) all-purpose flour
+- 2 cups [vegetable broth][2]
+- :droplet: 3 Tbsp (21 g) TJ's Mushroom and Company Multipurpose umami seasoning
 - :beans: 1 cup (150 g) peas
 - :sweet_potato: 1 pkg TJ's prepared mashed potatoes
 
@@ -46,11 +47,11 @@ Add TJ's beefless beef and mushroom medley until cooked through, about 5 minutes
 
 ### Step 4
 
-Add tomato paste and mix to combine. Then add all-purpose flour and mix to combine.
+Add [Tomato Paste](../ingredients/tomato-paste.md) and mix to combine. Then add all-purpose flour and mix to combine.
 
 ### Step 5
 
-Add vegetable broth and TJ's Mushroom and Company Multipurpose umami seasoning and cook until thickened, about 5
+Add [Vegetable Broth](../ingredients/vegetable-broth.md) and TJ's Mushroom and Company Multipurpose umami seasoning and cook until thickened, about 5
 minutes.
 
 ### Step 6
@@ -71,4 +72,3 @@ Cool for 15 minutes, before serving.
 
 [1]: <../assets/images/meatless-umami-shepherd's-pie.png>
 [2]: <../ingredients/vegetable-broth.md>
-

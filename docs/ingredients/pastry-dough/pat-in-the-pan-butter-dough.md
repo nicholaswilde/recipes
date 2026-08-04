@@ -5,12 +5,12 @@ tags:
   - ingredient
   - joy-of-cooking
   - pastry-dough
-hero: assets/images/pat-in-the-pan-butter-dough.jpg
+hero: assets/images/pat-in-the-pan-butter-dough.webp
 ---
 
 # :pie: Pat-in-the-Pan Butter Dough
 
-![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.jpg){ loading=lazy }
+![Pat-in-the-Pan Butter Dough](../../assets/images/pat-in-the-pan-butter-dough.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,10 +18,10 @@ hero: assets/images/pat-in-the-pan-butter-dough.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 0.5 cup (60 g) all-purpose flour
+- :bread: 0.5 cup (60 g) all-purpose flour
 - :salt: 0.5 tsp salt
-- :butter: 0.5 cup (114 g) unsalted butter
-- :glass_of_milk: 3 Tbsp heavy cream
+- :butter: 0.5 cup (113 g) unsalted butter
+- :glass_of_milk: 3 Tbsp (43 g) heavy cream
 
 ## :cooking: Cookware
 

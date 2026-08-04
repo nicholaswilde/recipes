@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - cooks-illustrated
-hero: assets/images/sauerkraut.jpg
+hero: assets/images/sauerkraut.webp
 ---
 
 # :leafy_green: Sauerkraut
 
-![Sauerkraut](../assets/images/sauerkraut.jpg){ loading=lazy }
+![Sauerkraut](../assets/images/sauerkraut.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/sauerkraut.jpg
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 head green cabbage
-- :salt: 2 Tbsp pickling and canning salt
-- :strawberry: 1.5 tsp juniper berries
-- :droplet: 2 cups water
+- :beans: 1 head green cabbage
+- :baby_bottle: 2 Tbsp pickling and canning salt
+- 1.5 tsp (4 g) juniper berries
+- :droplet: 2 cups (454 g) water
 
 ## :cooking: Cookware
 

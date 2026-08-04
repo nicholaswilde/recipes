@@ -4,12 +4,12 @@ tags:
   - breakfast
   - muffin
   - bake-off
-hero: assets/images/blueberry-muffins.jpg
+hero: assets/images/blueberry-muffins.webp
 ---
 
 # :cupcake: Blueberry Muffins
 
-![Blueberry Muffins](../assets/images/blueberry-muffins.jpg){ loading=lazy }
+![Blueberry Muffins](../assets/images/blueberry-muffins.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,15 +17,15 @@ hero: assets/images/blueberry-muffins.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1/2 cup (113 g) unsalted butter, softened
+- :baby_bottle: 1/2 cup (113 g) unsalted butter, softened
 - :candy: 1 cup (198 g) granulated sugar (plus extra for sprinkling)
 - :egg: 2 large eggs
-- :dash: 2 tsp baking powder
+- :chestnut: 2 tsp baking powder
 - :salt: 1/2 tsp kosher salt
 - :flower_playing_cards: 1 tsp vanilla extract
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :glass_of_milk: 1/2 cup (120 g) whole milk
-- :blue_circle: 2 1/2 cups blueberries (fresh preferred)
+- :bread: 2 cups (240 g) all-purpose flour
+- :glass_of_milk: 1/2 cup (114 g) whole milk
+- :baby_bottle: 2 1/2 cups blueberries (fresh preferred)
 
 ## :cooking: Cookware
 

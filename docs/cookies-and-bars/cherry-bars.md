@@ -4,7 +4,7 @@ tags:
 
   - bar
   - dessert
-hero: assets/images/cherry-bars.jpg
+hero: assets/images/cherry-bars.webp
 ---
 
 # :cherries: Cherry Bars
@@ -15,31 +15,33 @@ hero: assets/images/cherry-bars.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 bars | 2.27 hours |
 
-## :salt: Ingredients - Crust & Topping
+## :salt: Ingredients
 
-- :ear_of_rice: 188 g all-purpose flour
-- :ear_of_rice: 85 g whole rolled oats
-- :maple_leaf: 100 g brown sugar
-- :dash: 1 tsp baking powder
-- :lemon: 1 tsp lemon zest
-- :salt: 0.13 tsp salt
-- :butter: 142 g melted unsalted butter
-- :icecream: 1 tsp vanilla
+=== "Crust & Topping"
 
-## :salt: Ingredients - Filling
+    - :bread: 188 g all-purpose flour
+    - :ear_of_rice: 85 g whole rolled oats
+    - :maple_leaf: 100 g brown sugar
+    - :chestnut: 1 tsp baking powder
+    - :tangerine: 1 tsp (5 g) lemon zest
+    - :salt: 0.13 tsp salt
+    - :baby_bottle: 142 g melted unsalted butter
+    - :flower_playing_cards: 1 tsp vanilla
 
-- :corn: 11 g cornstarch
-- :cherries: 525 g sour cherries
-- :candy: 100 g granulated sugar
-- :lemon: 1 tsp lemon juice
-- :chestnut: 0.25 tsp almond extract
-- :ear_of_rice: 2 Tbsp whole rolled oats
+=== "Filling"
 
-## :salt: Ingredients - Icing
+    - :chestnut: 11 g cornstarch
+    - :glass_of_milk: 525 g sour cherries
+    - :candy: 100 g granulated sugar
+    - :tangerine: 1 tsp (5 g) lemon juice
+    - :flower_playing_cards: 0.25 tsp (1 g) almond extract
+    - :ear_of_rice: 2 Tbsp (14 g) whole rolled oats
 
-- :glass_of_milk: 2 Tbsp whole milk
-- :candy: 120 g confectioners' sugar
-- :chestnut: 0.25 tsp almond extract
+=== "Icing"
+
+    - :glass_of_milk: 2 Tbsp (28 g) whole milk
+    - :candy: 120 g confectioners' sugar
+    - :flower_playing_cards: 0.25 tsp (1 g) almond extract
 
 ## :cooking: Cookware
 
@@ -125,8 +127,12 @@ Slice squares with a sharp knife and, for neat squares, wipe the knife clean bet
 Cover and store leftover cherry pie bars (with or without icing) at room temperature for up to 2 days or in the
 refrigerator for up to 1 week.
 
+!!! tip
+
+    For more flavor, toast the oats first! See [Toasted Rolled Oats](../ingredients/toasted-rolled-oats.md) for instructions.
+
 ## :link: Source
 
 - <https://sallysbakingaddiction.com/cherry-pie-bars/#tasty-recipes-124000>
 
-[1]: <../assets/images/cherry-bars.jpg>
+[1]: <../assets/images/cherry-bars.webp>

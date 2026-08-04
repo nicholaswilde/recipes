@@ -5,12 +5,12 @@ tags:
   - lunch
   - applied-kitchen
   - sandwich
-hero: assets/images/applied-grilled-cheese.jpg
+hero: assets/images/applied-grilled-cheese.webp
 ---
 
 # :sandwich: Applied Grilled Cheese
 
-![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.jpg){ loading=lazy }
+![Applied Grilled Cheese](../assets/images/applied-grilled-cheese.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,10 +19,10 @@ hero: assets/images/applied-grilled-cheese.jpg
 ## :salt: Ingredients
 
 - :butter: some Butter
-- :bread: 6 Texas toast
+- 6 Texas toast
 - :cheese_wedge: 6 slices cheddar
 - :cheese_wedge: 6 pieces Swiss cheese
-- :cheese_wedge: 6 slices provolone
+- 6 slices provolone
 
 ## :cooking: Cookware
 

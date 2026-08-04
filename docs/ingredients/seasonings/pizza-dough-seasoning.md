@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - seasoning
-hero: assets/images/pizza-dough-seasoning.jpg
+hero: assets/images/pizza-dough-seasoning.webp
 ---
 
 # :pizza: Pizza Dough Seasoning
@@ -17,10 +17,10 @@ hero: assets/images/pizza-dough-seasoning.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 8 Tbsp white or yellow cheddar cheese powder
+- :orange_circle: 8 Tbsp (57 g) white or yellow cheddar cheese powder
 - :garlic: 1 Tbsp garlic powder
-- :onion: 1 Tbsp onion powder
-- :herb: 1 Tbsp Italian seasoning
+- :chestnut: 1 Tbsp (7 g) onion powder
+- :herb: 1 Tbsp (7 g) Italian seasoning
 
 ## :cooking: Cookware
 
@@ -40,4 +40,4 @@ Just add a tablespoon or so to your pizza dough recipe when you are mixing and y
 
 - <http://littlebirdiesecrets.blogspot.com/2009/12/pizza-dough-seasoning.html>
 
-[1]: <../../assets/images/pizza-dough-seasoning.jpg>
+[1]: <../../assets/images/pizza-dough-seasoning.webp>

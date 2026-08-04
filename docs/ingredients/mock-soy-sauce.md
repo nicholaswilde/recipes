@@ -6,9 +6,10 @@ tags:
   - substitute
   - soy-free
   - gluten-free
-hero: assets/images/mock-soy-sauce.jpg
+hero: assets/images/mock-soy-sauce.webp
 ---
-# Mock Soy Sauce
+
+# :stew: Mock Soy Sauce
 
 ![Mock Soy Sauce][1]{ loading=lazy }
 
@@ -18,13 +19,13 @@ hero: assets/images/mock-soy-sauce.jpg
 
 ## :salt: Ingredients
 
-- :stew: 2 cups (475 ml) vegetable broth or beef broth
-- :honey_pot: 2 Tbsp (30 ml) balsamic vinegar
-- :apple: 1 Tbsp (15 ml) apple cider vinegar
-- :honey_pot: 1 Tbsp (20 g) dark molasses
-- :salt: 1 tsp (6 g) table salt
+- :stew: 2 cups (368 g) (475 ml) [Vegetable Broth](vegetable-broth.md) or beef broth
+- :apple: 2 Tbsp (30 ml) balsamic vinegar
+- :apple: 1 Tbsp (18 g) (15 ml) apple cider vinegar
+- :chestnut: 1 Tbsp (21 g) dark molasses
+- :salt: 1 tsp table salt
 - :garlic: 1 pinch garlic powder
-- :curry: 1 pinch ground ginger
+- :sweet_potato: 1 pinch ground ginger
 
 ## :cooking: Cookware
 
@@ -58,4 +59,4 @@ Transfer to a glass jar and store in the refrigerator for up to 2 weeks.
 
 - [The Honour System](https://thehonoursystem.com/faux-soy-sauce-soy-gluten-free/)
 
-[1]: <../assets/images/mock-soy-sauce.jpg>
+[1]: <../assets/images/mock-soy-sauce.webp>

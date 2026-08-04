@@ -5,7 +5,7 @@ tags:
   - sauce
   - italian
   - recipe-box
-hero: assets/images/spaghetti-sauce.jpg
+hero: assets/images/spaghetti-sauce.webp
 ---
 
 # :spaghetti: Spaghetti Sauce
@@ -18,12 +18,12 @@ hero: assets/images/spaghetti-sauce.jpg
 
 ## :salt: Ingredients
 
-- :onion: 0.5 chopped white onion
+- :beans: 0.5 chopped white onion
 - :garlic: 2 cloves garlic
-- :olive: 2 Tbsp olive oil
-- :tomato: 2 26-oz cans crushed tomatoes with Italian seasoning
-- :tomato: 2 6-oz cans [tomato paste][2]
-- :tomato: 1 15-oz can [tomato sauce][1]
+- :olive: 2 Tbsp (25 g) olive oil
+- :herb: 2 26-oz cans crushed tomatoes with Italian seasoning
+- :glass_of_milk: 2 6-oz cans [tomato paste][2]
+- :glass_of_milk: 1 15-oz can [tomato sauce][1]
 - :herb: 1 tsp oregano
 
 ## :cooking: Cookware
@@ -45,4 +45,4 @@ minutes.
 
 [1]: <../../sauces-and-dressings/gravy-and-savory-sauces/tomato-sauce.md>
 [2]: <../../ingredients/tomato-paste.md>
-[3]: <../../assets/images/spaghetti-sauce.jpg>
+[3]: <../../assets/images/spaghetti-sauce.webp>

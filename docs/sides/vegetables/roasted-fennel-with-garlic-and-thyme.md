@@ -4,12 +4,12 @@ tags:
 
   - side
   - minimalist-baker
-hero: assets/images/roasted-fennel-with-garlic-and-thyme.jpg
+hero: assets/images/roasted-fennel-with-garlic-and-thyme.webp
 ---
 
 # :leafy_green: Roasted Fennel with Garlic and Thyme
 
-![Roasted Fennel with Garlic and Thyme](../../assets/images/roasted-fennel-with-garlic-and-thyme.jpg){ loading=lazy }
+![Roasted Fennel with Garlic and Thyme](../../assets/images/roasted-fennel-with-garlic-and-thyme.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/roasted-fennel-with-garlic-and-thyme.jpg
 
 ## :salt: Ingredients
 
-- :leafy_green: 1 large bulb fennel
-- :olive: 1 Tbsp olive oil
+- 1 large bulb fennel
+- :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 0.5 tsp garlic powder
 - :herb: 0.5 tsp thyme
 - :salt: 0.25 tsp salt
-- :salt: 0.25 tsp black pepper
+- :salt: 0.25 tsp (1 g) black pepper
 
 ## :cooking: Cookware
 
@@ -38,7 +38,7 @@ more baking sheets.
 
 ### Step 2
 
-Chop off and discard the fennel stalks and fronds (or save for making vegetable broth). Then slice the fennel bulb in
+Chop off and discard the fennel stalks and fronds (or save for making [Vegetable Broth](../../ingredients/vegetable-broth.md)). Then slice the fennel bulb in
 half through the core and cut out and discard the triangular core from each half. Thinly slice both halves of the fennel
 bulb — 1 large bulb should yield about 2.5 cups or 200 g sliced.
 

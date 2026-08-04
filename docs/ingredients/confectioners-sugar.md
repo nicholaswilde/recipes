@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/confectioners-sugar.jpg
+hero: assets/images/confectioners-sugar.webp
 ---
 
 # :candy: Confectioners' Sugar
 
-![Confectioners Sugar](../assets/images/confectioners-sugar.jpg){ loading=lazy }
+![Confectioners Sugar](../assets/images/confectioners-sugar.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,7 +16,7 @@ hero: assets/images/confectioners-sugar.jpg
 
 ## :salt: Ingredients
 
-- :corn: 1 Tbsp cornstarch
+- :chestnut: 1 Tbsp (7 g) cornstarch
 - :candy: 1 cup (198 g) granulated sugar
 
 ## :cooking: Cookware

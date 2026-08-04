@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/julia-child's-garlic-mashed-potatoes.jpg
+hero: assets/images/julia-child's-garlic-mashed-potatoes.webp
 ---
 
 # :potato: Julia Child's Garlic Mashed Potatoes
 
-![Julia Child's Garlic Mashed Potatoes](../../assets/images/julia-child's-garlic-mashed-potatoes.jpg){ loading=lazy }
+![Julia Child's Garlic Mashed Potatoes](../../assets/images/julia-child's-garlic-mashed-potatoes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,12 +16,12 @@ hero: assets/images/julia-child's-garlic-mashed-potatoes.jpg
 
 ## :salt: Ingredients
 
-- :butter: 8 Tbsp unsalted butter
+- :butter: 8 Tbsp (113 g) unsalted butter
 - :garlic: 30 cloves garlic
-- :ear_of_rice: 2 Tbsp flour
-- :glass_of_milk: 1 cup whole milk
-- :potato: 2.5 lbs russet potatoes
-- :icecream: 0.25 cup heavy cream
+- :bread: 2 Tbsp (12 g) flour
+- :glass_of_milk: 1 cup (227 g) whole milk
+- :sweet_potato: 2.5 lbs russet potatoes
+- :glass_of_milk: 0.25 cup (57 g) heavy cream
 - :herb: 0.25 cup parsley
 - :salt: some salt
 - :salt: some white pepper

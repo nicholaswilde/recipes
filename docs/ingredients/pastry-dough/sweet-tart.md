@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - pastry
-hero: assets/images/sweet-tart.png
+hero: assets/images/sweet-tart.webp
 ---
 
 # :chestnut: Sweet Tart
 
-![Sweet Tart](../../assets/images/sweet-tart.png){ loading=lazy }
+![Sweet Tart](../../assets/images/sweet-tart.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,11 +17,11 @@ hero: assets/images/sweet-tart.png
 
 ## :salt: Ingredients
 
-- :chestnut: 40 g [almond flour][1]
+- 40 g [almond flour][1]
 - :candy: 60 g confectioners' sugar
 - :bread: 250 g all-purpose flour
 - :salt: 1 pinch salt
-- :butter: 150 g cold butter
+- :glass_of_milk: 150 g cold butter
 - :egg: 1 egg
 
 ## :cooking: Cookware
@@ -48,7 +48,7 @@ Add the confectioners' sugar, all-purpose flour, salt, and [almond flour][1] to 
 
 ### Step 4
 
-Add the cold butter and pulse until the mixture looks like breadcrumbs.
+Add the cold butter and pulse until the mixture looks like [Breadcrumbs](../breadcrumbs.md).
 
 ### Step 5
 

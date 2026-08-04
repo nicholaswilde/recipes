@@ -5,12 +5,12 @@ tags:
   - cookie
   - dessert
   - king-arthur
-hero: assets/images/simple-sugar-cookies.jpg
+hero: assets/images/simple-sugar-cookies.webp
 ---
 
 # :cookie: Simple Sugar Cookies
 
-![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.jpg){ loading=lazy }
+![Simple Sugar Cookies](../assets/images/simple-sugar-cookies.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,13 +18,13 @@ hero: assets/images/simple-sugar-cookies.jpg
 
 ## :salt: Ingredients
 
-- :carrot: 0.5 cup (92 g) vegetable shortening
-- :candy: 0.67 cup (133 g) sugar
-- :glass_of_milk: 0.25 cup (57 g) [buttermilk][1]
-- :icecream: 1 Tbsp vanilla
-- :chestnut: 0.13 tsp nutmeg
-- :ear_of_rice: 2 cups flour
-- :cup_with_straw: 0.5 tsp baking soda
+- :butter: 0.5 cup (92 g) vegetable shortening
+- :candy: 0.67 cup (105 g) sugar
+- 0.25 cup [buttermilk][1]
+- :flower_playing_cards: 1 Tbsp vanilla
+- :apple: 0.13 tsp nutmeg
+- :bread: 2 cups (184 g) flour
+- :chestnut: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
@@ -41,7 +41,7 @@ Preheat the oven to 350°F.
 
 ### Step 2
 
-In a large bowl, beat together the vegetable shortening and sugar until smooth. Add the buttermilk and vanilla, again
+In a large bowl, beat together the vegetable shortening and sugar until smooth. Add the [buttermilk](../ingredients/buttermilk.md) and vanilla, again
 beating until well combined. The mixture may look a bit curdled, which is OK. Add the nutmeg, flour, baking soda, and
 salt to the wet ingredients and beat until the mixture forms a cohesive dough.
 

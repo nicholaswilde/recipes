@@ -4,7 +4,7 @@ tags:
 
   - pastry-dough
   - ingredient
-hero: assets/images/filo.jpg
+hero: assets/images/filo.webp
 ---
 
 # :pie: Filo
@@ -17,15 +17,15 @@ hero: assets/images/filo.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 500 g all-purpose flour
-- :dash: 2 tsp baking powder
+- :bread: 500 g all-purpose flour
+- :chestnut: 2 tsp baking powder
 - :salt: 0.25 tsp salt
 - :egg: 2 eggs
-- :microbe: 170 g full-fat Greek yogurt
-- :oil_drum: 90 ml vegetable oil
-- :butter: 50 g melted unsalted butter
-- :sake: 1 Tbsp white wine vinegar
-- :corn: some cornflour
+- :coconut: 170 g full-fat Greek yogurt
+- :olive: 90 ml (75 g) vegetable oil
+- :baby_bottle: 50 g melted unsalted butter
+- :wine_glass: 1 Tbsp (9 g) white wine vinegar
+- some cornflour
 
 ## :cooking: Cookware
 
@@ -87,4 +87,4 @@ Roll out one of the squares of dough to a rough 30 cm diameter circle.
 
 - <https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baklava/>
 
-[1]: <../../assets/images/filo.jpg>
+[1]: <../../assets/images/filo.webp>

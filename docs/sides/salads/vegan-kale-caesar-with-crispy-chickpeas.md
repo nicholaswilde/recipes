@@ -2,9 +2,10 @@
 comments: true
 tags:
   - side
-hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg
+hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.webp
 ---
-# Vegan Kale Caesar with Crispy Chickpeas
+
+# :beans: Vegan Kale Caesar with Crispy Chickpeas
 
 ![Vegan Kale Caesar with Crispy Chickpeas][1]{ loading=lazy }
 
@@ -14,20 +15,20 @@ hero: assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg
 
 ## :salt: Ingredients
 
-- :beans: 1 15-oz can [chickpeas][2]
-- :olive: 2 Tbsp extra-virgin olive oil
+- :glass_of_milk: 1 15-oz can [chickpeas][2]
+- :olive: 2 Tbsp (25 g) extra-virgin olive oil
 - :salt: 0.5 tsp kosher salt
 - :garlic: 0.5 tsp garlic powder
-- :hot_pepper: 0.5 tsp sweet paprika
+- :hot_pepper: 0.5 tsp (1 g) sweet paprika
 - :garlic: 2 large cloves garlic
-- :olive: 1 3.5-oz jar capers
-- :wine_glass: 2 Tbsp red wine vinegar
+- :glass_of_milk: 1 3.5-oz jar capers
+- :wine_glass: 2 Tbsp (26 g) red wine vinegar
 - :tangerine: 2 Tbsp fresh lemon juice
-- :baby_bottle: 0.5 cup (115 g) [vegan mayonnaise][3]
+- 0.5 cup [vegan mayonnaise][3]
 - :olive: 0.25 cup (50 g) extra-virgin olive oil
 - :salt: 0.25 tsp kosher salt
-- :salt: 0.5 tsp freshly ground black pepper
-- :cheese_wedge: 3 Tbsp nutritional yeast
+- :salt: 0.5 tsp (2 g) freshly ground black pepper
+- :cheese_wedge: 3 Tbsp (11 g) nutritional yeast
 - :leafy_green: 1 lb kale
 - :tangerine: 0.5 lemon
 - :salt: some kosher salt
@@ -75,7 +76,6 @@ Top the salad with the chickpeas and drizzle with another 1/4 cup or so of the d
 
 - What Goes with What by Julia Turshen
 
-[1]: <../../assets/images/vegan-kale-caesar-with-crispy-chickpeas.jpg>
+[1]: <../../assets/images/vegan-kale-caesar-with-crispy-chickpeas.webp>
 [2]: <../../ingredients/chickpeas.md>
 [3]: <../../sauces-and-dressings/dips-and-spreads/tofu-mayonnaise.md>
-

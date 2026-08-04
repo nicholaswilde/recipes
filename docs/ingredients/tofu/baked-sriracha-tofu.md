@@ -4,12 +4,12 @@ tags:
 
   - tofu
   - ingredient
-hero: assets/images/baked-sriracha-tofu.jpg
+hero: assets/images/baked-sriracha-tofu.webp
 ---
 
 # :butter: Baked Sriracha Tofu
 
-![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.jpg){ loading=lazy }
+![Baked Sriracha Tofu](../../assets/images/baked-sriracha-tofu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,10 +17,10 @@ hero: assets/images/baked-sriracha-tofu.jpg
 
 ## :salt: Ingredients
 
-- :butter: 1 block tofu
-- :olive: 1 tsp olive oil
-- :hot_pepper: 1.5 Tbsp sriracha
-- :takeout_box: 2 Tbsp soy sauce
+- :cheese_wedge: 1 block tofu
+- :olive: 1 tsp (4 g) olive oil
+- 1.5 Tbsp sriracha
+- :takeout_box: 2 Tbsp (18 g) soy sauce
 
 ## :cooking: Cookware
 

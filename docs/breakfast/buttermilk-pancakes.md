@@ -4,10 +4,10 @@ tags:
 
   - breakfast
   - joy-of-cooking
-hero: assets/images/buttermilk-pancakes.jpg
+hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-pancakes.webp
 ---
 
-# :pancakes: Buttermilk Pancakes
+# :pancakes: [buttermilk](../ingredients/buttermilk.md) Pancakes
 
 ![Buttermilk Pancakes][1]{ loading=lazy }
 
@@ -17,10 +17,10 @@ hero: assets/images/buttermilk-pancakes.jpg
 
 ## :salt: Ingredients
 
-- :pancakes: 1 [pancakes][2]
-- :cup_with_straw: 0.5 tsp baking soda
-- :dash: 1 tsp baking powder
-- :glass_of_milk: 1.5 cups buttermilk
+- 1 [pancakes][2]
+- :chestnut: 0.5 tsp baking soda
+- :chestnut: 1 tsp baking powder
+- :icecream: 1.5 cups [buttermilk](../ingredients/buttermilk.md)
 
 ## :pencil: Instructions
 
@@ -30,11 +30,11 @@ Prepare [pancakes][2] as directed. Add 1/2 tsp baking soda to the dry ingredient
 
 ### Step 2
 
-Decrease the baking powder to 1 tsp. Substitute buttermilk for the milk.
+Decrease the baking powder to 1 tsp. Substitute [buttermilk](../ingredients/buttermilk.md) for the milk.
 
 ## :link: Source
 
 - Joy of Cooking
 
-[1]: <../assets/images/buttermilk-pancakes.jpg>
+[1]: <../assets/images/buttermilk-pancakes.webp>
 [2]: <./joy-of-cooking-pancakes.md>

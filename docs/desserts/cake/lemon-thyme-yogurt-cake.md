@@ -5,7 +5,7 @@ tags:
   - dessert
   - cake
   - gateau
-hero: assets/images/lemon-thyme-yogurt-cake.jpg
+hero: assets/images/lemon-thyme-yogurt-cake.webp
 ---
 
 # :cake: Lemon Thyme Yogurt Cake
@@ -16,27 +16,29 @@ hero: assets/images/lemon-thyme-yogurt-cake.jpg
 |:-----------------------: |
 | 45 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :candy: 150 g granulated sugar
-- :lemon: 1 lemon zest
-- :microbe: 125 g whole plain yogurt
-- :egg: 3 large eggs
-- :ear_of_rice: 180 g all-purpose or cake flour
-- :dash: 2 tsp baking powder
-- :salt: 0.25 tsp salt
-- :herb: 1.5 tsp lemon thyme leaves
-- :olive: 0.5 cup (100 g) olive oil
+=== "Cake"
 
-## :salt: Ingredients - Glaze
+    - :candy: 150 g granulated sugar
+    - :tangerine: 1 lemon zest
+    - :chestnut: 125 g whole plain yogurt
+    - :egg: 3 large eggs
+    - :bread: 180 g all-purpose or cake flour
+    - :chestnut: 2 tsp baking powder
+    - :salt: 0.25 tsp salt
+    - :herb: 1.5 tsp (5 g) lemon thyme leaves
+    - :olive: 0.5 cup (100 g) olive oil
 
-- :lemon: 2 lemon juice
-- :lemon: 1 Tbsp limoncello (alternative)
-- :candy: 60 g confectioners' sugar
-- :herb: 1.5 tsp thyme (alternative)
-- :herb: 1 tsp rosemary (alternative)
-- :herb: 1.5 tsp verbana (alternative)
-- :herb: 1.5 tsp tarragon (alternative)
+=== "Glaze"
+
+    - :tangerine: 2 lemon juice
+    - 1 Tbsp (11 g) limoncello (alternative)
+    - :candy: 60 g confectioners' sugar
+    - :apple: 1.5 tsp (5 g) thyme (alternative)
+    - :herb: 1 tsp (4 g) rosemary (alternative)
+    - 1.5 tsp (5 g) verbana (alternative)
+    - 1.5 tsp (5 g) tarragon (alternative)
 
 ## :cooking: Cookware
 
@@ -83,4 +85,4 @@ lemon thyme leaves, for decoration.
 
 - Gateau: The Surprising Simplicity of French Cakes
 
-[1]: <../../assets/images/lemon-thyme-yogurt-cake.jpg>
+[1]: <../../assets/images/lemon-thyme-yogurt-cake.webp>

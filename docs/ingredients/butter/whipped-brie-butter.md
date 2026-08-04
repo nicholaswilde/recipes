@@ -5,7 +5,7 @@ tags:
   - butter
   - ingredient
   - applied-kitchen
-hero: assets/images/whipped-brie-butter.jpg
+hero: assets/images/whipped-brie-butter.webp
 ---
 
 # :butter: Whipped Brie Butter
@@ -18,9 +18,9 @@ hero: assets/images/whipped-brie-butter.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 oz unsalted butter
-- :cheese_wedge: 6 oz brie
-- :icecream: 2 Tbsp heavy cream
+- :butter: 2 oz (56 g) unsalted butter
+- 6 oz brie
+- :glass_of_milk: 2 Tbsp (28 g) heavy cream
 - :salt: some flaky sea salt
 - :honey_pot: some honey
 
@@ -50,4 +50,4 @@ Serve immediately with warm bread or crackers.
 
 - Applied Kitchen
 
-[1]: <../../assets/images/whipped-brie-butter.jpg>
+[1]: <../../assets/images/whipped-brie-butter.webp>

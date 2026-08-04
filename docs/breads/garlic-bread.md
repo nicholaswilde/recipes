@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/garlic-bread.jpg
+hero: assets/images/garlic-bread.webp
 ---
 
 # :baguette_bread: Garlic Bread
 
-![Garlic Bread](../assets/images/garlic-bread.jpg){ loading=lazy }
+![Garlic Bread](../assets/images/garlic-bread.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,24 +18,24 @@ hero: assets/images/garlic-bread.jpg
 
 === "serves 3-4"
 
-    - :butter: 1 sticks (113 g) butter, softened
+    - :baby_bottle: 1 sticks butter, softened
     - :garlic: 1 cloves garlic, minced
-    - :seedling: 0.5 scallion, minced
-    - :cheese_wedge: 0.5 Tbsp Parmesan
+    - :tea: 0.5 scallion, minced
+    - :cheese_wedge: 0.5 Tbsp (3 g) Parmesan
     - :herb: 0.5 Tbsp parsley
-    - :hot_pepper: some hot sauce
+    - :droplet: some hot sauce
     - :salt: some salt
     - :salt: some pepper
     - :baguette_bread: 1 French baguette
 
 === "serves 6-8"
 
-    - :butter: 2 sticks (227 g) butter, softened
+    - :baby_bottle: 2 sticks butter, softened
     - :garlic: 2 cloves garlic, minced
-    - :seedling: 1 scallion, minced
-    - :cheese_wedge: 1 Tbsp Parmesan
+    - :tea: 1 scallion, minced
+    - :cheese_wedge: 1 Tbsp (6 g) Parmesan
     - :herb: 1 Tbsp parsley
-    - :hot_pepper: some hot sauce
+    - :droplet: some hot sauce
     - :salt: some salt
     - :salt: some pepper
     - :baguette_bread: 1 French baguette

@@ -4,9 +4,10 @@ tags:
   - cookie
   - milk-bar
   - bake-off
-hero: assets/images/corn-cookies-christina-tosi.jpg
+hero: assets/images/corn-cookies-christina-tosi.webp
 ---
-# Corn Cookies
+
+# :corn: Corn Cookies
 
 ![Corn Cookies][1]{ loading=lazy }
 
@@ -16,15 +17,15 @@ hero: assets/images/corn-cookies-christina-tosi.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 sticks (225 g) Unsalted butter, room temperature
-- :candy: 1 1/2 cups (300 g) Granulated sugar
+- :glass_of_milk: 2 sticks Unsalted butter, room temperature
+- :candy: 1 1/2 cups Granulated sugar
 - :egg: 1 large Egg
-- :bread: 1 1/3 cups (225 g) All-purpose flour (or :bread: Bread flour for a taller cookie)
-- :chestnut: 1/4 cup (45 g) Corn flour
-- :chestnut: 2/3 cup (65 g) Freeze-dried corn powder
-- :chestnut: 3/4 tsp (3 g) Baking powder
+- :baby_bottle: 1 1/3 cups All-purpose flour (or :bread: Bread flour for a taller cookie)
+- :chestnut: 1/4 cup (78 g) Corn flour
+- :chestnut: 2/3 cup (133 g) Freeze-dried corn powder
+- :chestnut: 3/4 tsp Baking powder
 - :chestnut: 1/4 tsp (1.5 g) Baking soda
-- :salt: 1 1/2 tsp (6 g) Kosher salt
+- :salt: 1 1/2 tsp Kosher salt
 
 ## :cooking: Cookware
 
@@ -73,4 +74,4 @@ The cookies are done when they have puffed, crackled, and are faintly browned on
 
 - [Bake-Off: The Best Corn Cookies](https://www.thepancakeprincess.com/best-corn-cookie-bake-off/)
 
-[1]: <../assets/images/corn-cookies-christina-tosi.jpg>
+[1]: <../assets/images/corn-cookies-christina-tosi.webp>

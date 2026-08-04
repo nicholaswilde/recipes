@@ -8,8 +8,10 @@ tags:
   - dairy-free
   - mushrooms
   - weeknight
+hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 ---
-# Coconut-Braised Mushrooms With Ginger and Scallions
+
+# :sweet_potato: Coconut-Braised Mushrooms With Ginger and Scallions
 
 ![Coconut-Braised Mushrooms With Ginger and Scallions][1]{ loading=lazy }
 
@@ -21,7 +23,7 @@ tags:
 
 - :sweet_potato: some ginger
 - :garlic: 4 garlic
-- :coconut: 1 coconut milk
+- :glass_of_milk: 1 coconut milk
 - :takeout_box: 1 Tbsp (9 g) soy sauce
 - :curry: some curry powder
 - :mushroom: 12 oz (117 g) mixed mushrooms
@@ -56,5 +58,4 @@ Divide braised mushrooms among shallow bowls and top with scallions (thinly slic
 
 - <https://www.bonappetit.com/recipe/coconut-braised-mushrooms-with-ginger-and-scallions>
 
-[1]: <../assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.jpg>
-
+[1]: <../assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp>

@@ -6,9 +6,10 @@ tags:
   - condiments
   - Dijon
   - homemade
-hero: assets/images/dijon-mustard.jpg
+hero: assets/images/dijon-mustard.webp
 ---
-# Dijon Mustard
+
+# :takeout_box: Dijon Mustard
 
 ![Dijon Mustard][1]{ loading=lazy }
 
@@ -18,14 +19,14 @@ hero: assets/images/dijon-mustard.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1/2 cup (120 ml) dry white wine
-- :honey_pot: 1/2 cup (120 ml) white wine vinegar
-- :onion: 1 small shallot, minced
+- :wine_glass: 1/2 cup (56 g) (120 ml) dry white wine
+- :wine_glass: 1/2 cup (99 g) (120 ml) white wine vinegar
+- :garlic: 1 small shallot, minced
 - :garlic: 1 garlic clove, smashed
-- :seedling: 1/4 cup (40 g) brown mustard seeds
-- :seedling: 1/4 cup (40 g) yellow mustard seeds
-- :salt: 1 tsp (6 g) table salt
-- :honey_pot: 1 Tbsp (21 g) honey or sugar
+- :seedling: 1/4 cup (42 g) brown mustard seeds
+- :seedling: 1/4 cup (39 g) yellow mustard seeds
+- :salt: 1 tsp table salt
+- :candy: 1 Tbsp (12 g) honey or sugar
 
 ## :cooking: Cookware
 
@@ -65,4 +66,4 @@ Store in the refrigerator for up to 2 months.
 - [Hill Hjem](https://hillhjem.com/how-to-make-dijon-mustard/)
 - [Fox Valley Foodie](https://www.foxvalleyfoodie.com/homemade-dijon-mustard/)
 
-[1]: <../assets/images/dijon-mustard.jpg>
+[1]: <../assets/images/dijon-mustard.webp>

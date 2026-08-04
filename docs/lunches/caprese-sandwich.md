@@ -5,12 +5,12 @@ tags:
   - lunch
   - sandwich
   - applied-kitchen
-hero: assets/images/caprese-sandwich.jpg
+hero: assets/images/caprese-sandwich.webp
 ---
 
 # :sandwich: Caprese Sandwich
 
-![Caprese Sandwich](../assets/images/caprese-sandwich.jpg){ loading=lazy }
+![Caprese Sandwich](../assets/images/caprese-sandwich.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,7 +18,7 @@ hero: assets/images/caprese-sandwich.jpg
 
 ## :salt: Ingredients
 
-- :herb: some [basil pesto][1]
+- some [basil pesto][1]
 - :bread: some ciabatta
 - :tomato: some tomato
 - :cheese_wedge: some mozzarella

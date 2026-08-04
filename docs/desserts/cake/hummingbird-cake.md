@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/hummingbird-cake.jpg
+hero: assets/images/hummingbird-cake.webp
 ---
 
 # :cake: Hummingbird Cake
@@ -15,69 +15,71 @@ hero: assets/images/hummingbird-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.07 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-| :fork_and_knife_with_plate: Layers |
-|:----------------------------------:|
-| 3 Tiers |
+=== "Cake"
 
-- :chestnut: 250 g pecans
-- :ear_of_rice: 375 g all-purpose flour
-- :cup_with_straw: 1 tsp baking soda
-- :dash: 1 tsp baking powder
-- :custard: 1.5 tsp cinnamon
-- :herb: 0.5 tsp allspice
-- :salt: 0.5 tsp salt
-- :banana: 3 large bananas
-- :pineapple: 1 8-oz can crushed pineapple
-- :icecream: 2 tsp vanilla
-- :egg: 3 large eggs
-- :candy: 150 g granulated sugar
-- :maple_leaf: 150 g light brown sugar
-- :oil_drum: 198 g vegetable oil
+    | :fork_and_knife_with_plate: Layers |
+    |:----------------------------------:|
+    | 3 Tiers |
 
-| :fork_and_knife_with_plate: Layers |
-|:----------------------------------:|
-| 2 Tiers |
+    - :chestnut: 250 g pecans
+    - :bread: 375 g all-purpose flour
+    - :chestnut: 1 tsp baking soda
+    - :chestnut: 1 tsp baking powder
+    - :chestnut: 1.5 tsp (6 g) cinnamon
+    - :apple: 0.5 tsp allspice
+    - :salt: 0.5 tsp salt
+    - :apple: 3 large bananas
+    - :glass_of_milk: 1 8-oz can crushed pineapple
+    - :flower_playing_cards: 2 tsp vanilla
+    - :egg: 3 large eggs
+    - :candy: 150 g granulated sugar
+    - :candy: 150 g light brown sugar
+    - :olive: 198 g vegetable oil
 
-- :chestnut: 167 g pecans
-- :ear_of_rice: 250 g all-purpose flour
-- :cup_with_straw: 0.75 tsp baking soda
-- :dash: 0.75 tsp baking powder
-- :custard: 1 tsp cinnamon
-- :herb: 0.375 tsp allspice
-- :salt: 0.375 tsp salt
-- :banana: 2 large bananas
-- :pineapple: 151 g crushed pineapple
-- :icecream: 1.25 tsp vanilla
-- :egg: 2 large eggs
-- :candy: 100 g granulated sugar
-- :maple_leaf: 100 g light brown sugar
-- :oil_drum: 132 g vegetable oil
+    | :fork_and_knife_with_plate: Layers |
+    |:----------------------------------:|
+    | 2 Tiers |
 
-## :salt: Ingredients - Frosting
+    - :chestnut: 167 g pecans
+    - :bread: 250 g all-purpose flour
+    - :chestnut: 0.75 tsp baking soda
+    - :chestnut: 0.75 tsp baking powder
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :apple: 0.375 tsp allspice
+    - :salt: 0.375 tsp salt
+    - :apple: 2 large bananas
+    - :pineapple: 151 g crushed pineapple
+    - :flower_playing_cards: 1.25 tsp vanilla
+    - :egg: 2 large eggs
+    - :candy: 100 g granulated sugar
+    - :candy: 100 g light brown sugar
+    - :olive: 132 g vegetable oil
 
-| :fork_and_knife_with_plate: Layers |
-|:----------------------------------:|
-| 3 Tiers |
+=== "Frosting"
 
-- :cheese_wedge: 16 oz cream cheese
-- :butter: 113 g unsalted butter
-- :candy: 480 g confectioners' sugar
-- :icecream: 1.5 tsp vanilla
-- :salt: some salt
+    | :fork_and_knife_with_plate: Layers |
+    |:----------------------------------:|
+    | 3 Tiers |
 
-| :fork_and_knife_with_plate: Layers |
-|:----------------------------------:|
-| 2 Tiers |
+    - :cheese_wedge: 16 oz (454 g) cream cheese
+    - :butter: 113 g unsalted butter
+    - :candy: 480 g confectioners' sugar
+    - :flower_playing_cards: 1.5 tsp vanilla
+    - :salt: some salt
 
-- :cheese_wedge: 303 g cream cheese
-- :butter: 75 g unsalted butter
-- :candy: 320 g confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :salt: some salt
+    | :fork_and_knife_with_plate: Layers |
+    |:----------------------------------:|
+    | 2 Tiers |
 
--
+    - :cheese_wedge: 303 g cream cheese
+    - :butter: 75 g unsalted butter
+    - :candy: 320 g confectioners' sugar
+    - :flower_playing_cards: 1 tsp vanilla
+    - :salt: some salt
+
+    -
 
 ## :cooking: Cookware
 
@@ -168,5 +170,5 @@ Cover leftover frosted cake tightly and store in the refrigerator for up to 5 da
 
 - <https://sallysbakingaddiction.com/hummingbird-cake/>
 
-[1]: <../../assets/images/hummingbird-cake.jpg>
+[1]: <../../assets/images/hummingbird-cake.webp>
 [2]: <../../ingredients/frosting/brown-butter-cream-cheese-frosting.md>

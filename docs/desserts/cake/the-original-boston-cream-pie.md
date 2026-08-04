@@ -4,50 +4,52 @@ tags:
 
   - dessert
   - cake
-hero: assets/images/the-original-boston-cream-pie.jpg
+hero: assets/images/the-original-boston-cream-pie.webp
 ---
 
 # :cake: The Original Boston Cream Pie
 
-![The Original Boston Cream Pie](../../assets/images/the-original-boston-cream-pie.jpg){ loading=lazy }
+![The Original Boston Cream Pie](../../assets/images/the-original-boston-cream-pie.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 21 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :egg: 7 egg
-- :candy: 8 oz granulated sugar
-- :ear_of_rice: 1 cup (120 g) all-purpose flour
-- :butter: 1 oz melted butter
+=== "Cake"
 
-## :salt: Ingredients - Pastry Cream
+    - :egg: 7 egg
+    - :candy: 8 oz (198 g) granulated sugar
+    - :bread: 1 cup (120 g) all-purpose flour
+    - :glass_of_milk: 1 oz (34 g) melted butter
 
-- :butter: 1 Tbsp unsalted butter
-- :glass_of_milk: 2 cups milk
-- :icecream: 2 cups light cream
-- :candy: 0.5 cup (99 g) granulated sugar
-- :corn: 3.5 Tbsp cornstarch
-- :egg: 6 eggs
-- :tumbler_glass: 1 tsp dark rum
+=== "Pastry Cream"
 
-## :salt: Ingredients - Icing
+    - :butter: 1 Tbsp (14 g) unsalted butter
+    - :glass_of_milk: 2 cups (454 g) milk
+    - :glass_of_milk: 2 cups (454 g) light cream
+    - :candy: 0.5 cup (99 g) granulated sugar
+    - :chestnut: 3.5 Tbsp (24 g) cornstarch
+    - :egg: 6 eggs
+    - :tumbler_glass: 1 tsp (4 g) dark rum
 
-- :cake: 6 oz white fondant
-- :chocolate_bar: 3 oz semisweet chocolate
-- :cake: 5 oz white fondant
+=== "Icing"
 
-## :salt: Ingredients - Chocolate Icing
+    - :takeout_box: 6 oz (80 g) white fondant
+    - :bread: 3 oz (64 g) semisweet chocolate
+    - :takeout_box: 5 oz (66 g) white fondant
 
-- :chocolate_bar: 6 oz semisweet chocolate
-- :hotsprings: 2 oz warm water
+=== "Chocolate Icing"
 
-## :salt: Ingredients - White Icing
+    - :bread: 6 oz (128 g) semisweet chocolate
+    - :droplet: 2 oz (57 g) warm water
 
-- :candy: 1 cup (198 g) confectioners' sugar
-- :corn: 1 tsp corn syrup
-- :hotsprings: 1 tsp warm water
+=== "White Icing"
+
+    - :candy: 1 cup (113 g) confectioners' sugar
+    - :candy: 1 tsp (6 g) corn syrup
+    - :droplet: 1 tsp (5 g) warm water
 
 ## :cooking: Cookware
 

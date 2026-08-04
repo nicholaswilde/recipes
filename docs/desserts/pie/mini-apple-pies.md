@@ -4,12 +4,12 @@ tags:
 
   - dessert
   - pie
-hero: assets/images/mini-apple-pies.jpg
+hero: assets/images/mini-apple-pies.webp
 ---
 
 # :pie: Mini Apple Pies
 
-![Mini Apple Pies](../../assets/images/mini-apple-pies.jpg){ loading=lazy }
+![Mini Apple Pies](../../assets/images/mini-apple-pies.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,13 +17,13 @@ hero: assets/images/mini-apple-pies.jpg
 
 ## :salt: Ingredients
 
-- :pie: 2 pie crusts
-- :green_apple: 315 g apples
+- 2 pie crusts
+- :apple: 315 g apples
 - :candy: 50 g granulated sugar
-- :ear_of_rice: 15 g all-purpose flour
-- :custard: 1 tsp cinnamon
-- :icecream: 1 tsp vanilla
-- :chestnut: 0.13 tsp nutmeg
+- :bread: 15 g all-purpose flour
+- :chestnut: 1 tsp (4 g) cinnamon
+- :flower_playing_cards: 1 tsp vanilla
+- :apple: 0.13 tsp nutmeg
 
 ## :cooking: Cookware
 

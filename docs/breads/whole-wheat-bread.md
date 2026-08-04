@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/whole-wheat-bread.jpg
+hero: assets/images/whole-wheat-bread.webp
 ---
 
 # :ear_of_rice: Whole Wheat Bread
@@ -17,11 +17,11 @@ hero: assets/images/whole-wheat-bread.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 397 g whole wheat flour
+- :bread: 397 g whole wheat flour
 - :droplet: 255 g water
-- :oil_drum: 50 g vegetable oil
-- :maple_leaf: 85 g honey, molasses, or maple syrup
-- :microbe: 2.5 tsp instant yeast
+- :olive: 50 g vegetable oil
+- :honey_pot: 85 g honey, molasses, or maple syrup
+- :tea: 2.5 tsp (8 g) instant yeast
 - :glass_of_milk: 28 g King Arthur Baker's Special Dry Milk or nonfat dry milk
 - :salt: 8 g salt
 
@@ -116,4 +116,4 @@ Store the bread, well wrapped, at room temperature for several days; freeze for 
 
 - <https://www.kingarthurbaking.com/recipes/classic-100-whole-wheat-bread-recipe>
 
-[1]: <../assets/images/whole-wheat-bread.jpg>
+[1]: <../assets/images/whole-wheat-bread.webp>

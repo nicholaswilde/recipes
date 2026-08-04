@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/german-chocolate-cake.jpg
+hero: assets/images/german-chocolate-cake.webp
 ---
-# German Chocolate Cake
+
+# :chocolate_bar: German Chocolate Cake
 
 ![German Chocolate Cake][1]{ loading=lazy }
 
@@ -14,29 +15,29 @@ hero: assets/images/german-chocolate-cake.jpg
 
 ## :salt: Ingredients
 
-- :candy: 2 cups granulated sugar
+- :candy: 2 cups (396 g) granulated sugar
 - :bread: some all-purpose flour
-- 0.75 cup unsweetened cocoa powder
+- :chocolate_bar: 0.75 cup (63 g) unsweetened cocoa powder
 - :chestnut: some baking powder
 - :chestnut: some baking soda
 - :salt: 1 tsp salt
 - :egg: 2 large eggs
-- :baby_bottle: 1 cup buttermilk
-- :droplet: 0.5 cup vegetable or canola oil
+- :icecream: 1 cup [buttermilk](../ingredients/buttermilk.md)
+- :carrot: 0.5 cup (99 g) vegetable or canola oil
 - :flower_playing_cards: 2 tsp vanilla extract
-- :droplet: 1 cup boiling water
-- :candy: 0.5 cup light brown sugar
-- :candy: 0.5 cup granulated sugar
+- :droplet: 1 cup (227 g) boiling water
+- :candy: 0.5 cup (106 g) light brown sugar
+- :candy: 0.5 cup (99 g) granulated sugar
 - :butter: 0.5 cup butter
 - :egg: 3 large egg yolks
-- :glass_of_milk: 0.75 cup [evaporated milk][2]
+- 0.75 cup [evaporated milk][2]
 - :flower_playing_cards: 1 Tbsp vanilla extract
-- :chestnut: 1 cup chopped pecans
-- 1 cup shredded sweetened coconut
+- :chestnut: 1 cup (114 g) chopped pecans
+- :coconut: 1 cup (85 g) shredded sweetened coconut
 - :butter: 0.5 cup butter
-- 0.67 cup unsweetened cocoa powder
-- :candy: 3 cups powdered sugar
-- :glass_of_milk: 0.33 cup [evaporated milk][2]
+- :chocolate_bar: 0.67 cup (56 g) unsweetened cocoa powder
+- :candy: 3 cups (600 g) powdered sugar
+- 0.33 cup [evaporated milk][2]
 - :flower_playing_cards: 1 tsp vanilla extract
 
 ## :cooking: Cookware
@@ -62,7 +63,8 @@ baking powder (6 g), baking soda (7.5 g), and salt (5 g).
 
 ### Step 4
 
-In a separate bowl, mix large eggs, buttermilk (240 ml), vegetable or canola oil (120 ml), and vanilla extract (10 ml).
+In a separate bowl, mix large eggs, [buttermilk](../ingredients/buttermilk.md) (240 ml), vegetable or canola
+oil (120 ml), and vanilla extract (10 ml).
 
 ### Step 5
 
@@ -107,5 +109,5 @@ the second cake layer. Cover the entire cake with chocolate frosting and spoon t
 
 - <https://tastesbetterfromscratch.com/german-chocolate-cake/>
 
-[1]: <../assets/images/german-chocolate-cake.jpg>
+[1]: <../assets/images/german-chocolate-cake.webp>
 [2]: <../ingredients/evaporated-milk.md>

@@ -3,10 +3,12 @@ comments: true
 tags:
 
   - lunch
-hero: assets/images/sonoran-salad.jpg
+hero: assets/images/sonoran-salad.webp
 ---
 
 # :green_salad: Sonoran Salad
+
+![Sonoran Salad][3]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,15 +17,15 @@ hero: assets/images/sonoran-salad.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 4 pkgs shredded Brussels sprouts
-- :rice: 266 g dry [quinoa][1]
-- :stew: 300 g vegetable broth
-- :canned_food: 4 cans [black beans][2]
-- :leafy_green: some cilantro
+- :glass_of_milk: 266 g dry [quinoa][1]
+- 300 g [Vegetable Broth](../ingredients/vegetable-broth.md)
+- 4 cans [black beans][2]
+- :herb: some cilantro
 - :corn: 400 g corn
 - :tomato: 400 g Pico de Gallo
 - :hot_pepper: 0.67 cup pickled jalapeño
-- :bell_pepper: 1 roasted red pepper dressing
-- :canned_food: some black cumin (optional)
+- :hot_pepper: 1 roasted red pepper dressing
+- :apple: some black cumin (optional)
 
 ## :cooking: Cookware
 
@@ -37,7 +39,7 @@ Preheat oven to 400°F. Roast shredded Brussels sprouts for 20 minutes.
 
 ### Step 2
 
-Cook dry [quinoa][1] in vegetable broth for 15 minutes.
+Cook dry [quinoa][1] in [Vegetable Broth](../ingredients/vegetable-broth.md) for 15 minutes.
 
 ### Step 3
 
@@ -58,3 +60,5 @@ Top with black cumin (optional).
 
 [1]: <../sides/grains-and-legumes/quinoa.md>
 [2]: <../ingredients/black-beans.md>
+
+[3]: <../assets/images/sonoran-salad.webp>

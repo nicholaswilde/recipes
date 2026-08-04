@@ -5,12 +5,12 @@ tags:
   - dessert
   - cheesecake
   - joy-of-cooking
-hero: assets/images/new-york-style-cheesecake.jpg
+hero: assets/images/new-york-style-cheesecake.webp
 ---
 
 # :pie: New York-Style Cheesecake
 
-![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.jpg){ loading=lazy }
+![New York-Style Cheesecake](../assets/images/new-york-style-cheesecake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,16 +18,16 @@ hero: assets/images/new-york-style-cheesecake.jpg
 
 ## :salt: Ingredients
 
-- :pie: 1 [shortbread crust][1]
-- :egg: 1 egg white
+- 1 [shortbread crust][1]
+- :beans: 1 egg white
 - :cheese_wedge: 2.5 lbs cream cheese
-- :candy: 1.75 cups (346 g) sugar
-- :ear_of_rice: 3 Tbsp all-purpose flour (optional)
-- :lemon: 1 tsp lemon zest
-- :icecream: 0.5 tsp vanilla
+- :candy: 1.75 cups (273 g) sugar
+- :baby_bottle: 3 Tbsp (29 g) all-purpose flour (optional)
+- :tangerine: 1 tsp (5 g) lemon zest
+- :flower_playing_cards: 0.5 tsp vanilla
 - :egg: 5 large eggs
 - :egg: 2 large egg yolks
-- :icecream: 0.5 cup heavy cream
+- :glass_of_milk: 0.5 cup (114 g) heavy cream
 
 ## :cooking: Cookware
 
@@ -50,7 +50,7 @@ Preheat the oven to 400°F. Lightly grease a 9-inch spring-form pan. Prepare the
 Press one-third of the dough, or slightly less, over the bottom of the pan as evenly as possible. Prick the dough all
 over with a fork. Bake until the crust is light golden brown, 10 to 15 minutes. Let cool completely on a rack. Press the
 remaining dough about 1/8 inch thick around the sides of the pan, making sure that it is attached to the bottom crust
-all around. Brush the bottom and sides of the crust with 1 well beaten  egg white.
+all around. Brush the bottom and sides of the crust with 1 well beaten egg white.
 
 ### Step 3
 

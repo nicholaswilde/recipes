@@ -5,7 +5,7 @@ tags:
   - bread
   - king-arthur
   - sourdough
-hero: assets/images/cinnamon-raisin-sourdough-bread.jpg
+hero: assets/images/cinnamon-raisin-sourdough-bread.webp
 ---
 
 # :bread: Cinnamon Raisin Sourdough Bread
@@ -16,38 +16,40 @@ hero: assets/images/cinnamon-raisin-sourdough-bread.jpg
 |:----------------------------------:|:-----------------------: |
 | 1 loaf | 3.75 hours |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
-- :microbe: 113 g [sourdough starter][2]
-- :microbe: 2.5 tsp instant yeast
-- :candy: 1 Tbsp granulated sugar
-- :salt: 8 g salt
-- :egg: 1 large egg
-- :butter: 71 g unsalted butter
-- :droplet: 152 g water
+=== "Dough"
 
-## :salt: Ingredients - Filling
+    - :bread: 360 g all-purpose flour
+    - 113 g [sourdough starter][2]
+    - :tea: 2.5 tsp (8 g) instant yeast
+    - :candy: 1 Tbsp (12 g) granulated sugar
+    - :salt: 8 g salt
+    - :egg: 1 large egg
+    - :butter: 71 g unsalted butter
+    - :droplet: 152 g water
 
-=== "serves 1"
+=== "Filling"
 
-    - :candy: 50 g granulated sugar
-    - :custard: 1.5 tsp cinnamon
-    - :ear_of_rice: 2 tsp all-purpose flour
-    - :egg: 1 egg
-    - :droplet: 1 Tbsp water
-    - :grapes: 74 g raisins
-    - :butter: some unsalted butter (optional)
+    === "serves 1"
 
-=== "serves 2"
+        - :candy: 50 g granulated sugar
+        - :chestnut: 1.5 tsp (6 g) cinnamon
+        - :bread: 2 tsp (5 g) all-purpose flour
+        - :egg: 1 egg
+        - :droplet: 1 Tbsp (14 g) water
+        - :grapes: 74 g raisins
+        - :baby_bottle: some unsalted butter (optional)
 
-    - :candy: 100 g granulated sugar
-    - :custard: 3 tsp cinnamon
-    - :ear_of_rice: 4 tsp all-purpose flour
-    - :egg: 1 egg
-    - :droplet: 1 Tbsp water
-    - :grapes: 148 g raisins
-    - :butter: some unsalted butter (optional)
+    === "serves 2"
+
+        - :candy: 100 g granulated sugar
+        - :chestnut: 3 tsp (12 g) cinnamon
+        - :bread: 4 tsp (10 g) all-purpose flour
+        - :egg: 1 egg
+        - :droplet: 1 Tbsp (14 g) water
+        - :grapes: 148 g raisins
+        - :baby_bottle: some unsalted butter (optional)
 
 ## :cooking: Cookware
 
@@ -117,5 +119,5 @@ before slicing.
 
 - <https://www.kingarthurbaking.com/recipes/cinnamon-raisin-sourdough-bread-recipe>
 
-[1]: <../assets/images/cinnamon-raisin-sourdough-bread.jpg>
+[1]: <../assets/images/cinnamon-raisin-sourdough-bread.webp>
 [2]: <../ingredients/sourdough-starter.md>

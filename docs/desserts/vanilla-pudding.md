@@ -4,12 +4,12 @@ tags:
   - desserts
 comments: true
 
-hero: assets/images/vanilla-pudding.jpg
+hero: assets/images/vanilla-pudding.webp
 ---
 
 # :icecream: Vanilla Pudding
 
-![Vanilla Pudding](../assets/images/vanilla-pudding.jpg){ loading=lazy }
+![Vanilla Pudding](../assets/images/vanilla-pudding.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,15 +17,15 @@ hero: assets/images/vanilla-pudding.jpg
 
 ## :salt: Ingredients
 
-- :candy: 0.5 cup (99 g) sugar
-- :corn: 3 Tbsp cornstarch
+- :candy: 0.5 cup (78 g) sugar
+- :chestnut: 3 Tbsp (21 g) cornstarch
 - :salt: 0.25 tsp salt
-- :glass_of_milk: 2.25 cup whole milk
+- :glass_of_milk: 2.25 cup (511 g) whole milk
 - :egg: 2 large egg yolks
 - :butter: 2 Tbsp butter
-- :icecream: 1.5 tsp vanilla
-- :strawberry: some fresh berries (optional)
-- :cookie: some [vanilla wafers][1] (optional)
+- :flower_playing_cards: 1.5 tsp vanilla
+- :apple: some fresh berries (optional)
+- :hot_pepper: some [vanilla wafers][1] (optional)
 
 ## :cooking: Cookware
 

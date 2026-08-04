@@ -5,29 +5,31 @@ tags:
   - bites
   - applied-kitchen
   - side
-hero: assets/images/strawberry-protein-bites.jpg
+hero: assets/images/strawberry-protein-bites.webp
 ---
 
 # :strawberry: Strawberry Protein Bites
 
-![Strawberry Protein Bites](../../assets/images/strawberry-protein-bites.jpg){ loading=lazy }
+![Strawberry Protein Bites](../../assets/images/strawberry-protein-bites.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 15 | 10 minutes |
 
-## :salt: Ingredients - Dough
+## :salt: Ingredients
 
-- :eggplant: 6 pitted medjool dates
-- :chestnut: 0.25 cup hazelnuts
-- :chestnut: 0.75 cup cashews
-- :strawberry: 1 cup freeze-dried strawberries
-- :honey_pot: 2 Tbsp maple syrup or honey
-- :strawberry: 3 Tbsp strawberry protein powder
+=== "Dough"
 
-## :salt: Ingredients - Coating
+    - :grapes: 6 (144 g) pitted medjool dates
+    - 0.25 cup (36 g) hazelnuts
+    - :chestnut: 0.75 cup (85 g) cashews
+    - :chestnut: 1 cup (128 g) freeze-dried strawberries
+    - :honey_pot: 2 Tbsp (39 g) maple syrup or honey
+    - :chocolate_bar: 3 Tbsp strawberry protein powder
 
-- :strawberry: 1.5 cups freeze-dried strawberries
+=== "Coating"
+
+    - :chestnut: 1.5 cups (192 g) freeze-dried strawberries
 
 ## :cooking: Cookware
 

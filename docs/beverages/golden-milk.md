@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/golden-milk.jpg
+hero: assets/images/golden-milk.webp
 ---
 
 # :glass_of_milk: Golden Milk
@@ -16,12 +16,12 @@ hero: assets/images/golden-milk.jpg
 
 ## :salt: Ingredients
 
-- :glass_of_milk: 1 cup soy milk
+- :takeout_box: 1 cup (140 g) soy milk
 - :honey_pot: 2 tsp honey
-- :butter: 1.5 tsp almond butter (optional)
-- :icecream: 0.5 tsp vanilla
-- :custard: 0.5 tsp cinnamon
-- :curry: 0.25 tsp turmeric
+- :chestnut: 1.5 tsp (8 g) almond butter (optional)
+- :flower_playing_cards: 0.5 tsp vanilla
+- :chestnut: 0.5 tsp (2 g) cinnamon
+- :curry: 0.25 tsp (1 g) turmeric
 - :sweet_potato: 0.13 tsp ginger
 
 ## :cooking: Cookware
@@ -44,4 +44,4 @@ spices incorporate. Do not let boil.
 
 - <https://wicworks.fns.usda.gov/recipe/golden-milk>
 
-[1]: <../assets/images/golden-milk.jpg>
+[1]: <../assets/images/golden-milk.webp>

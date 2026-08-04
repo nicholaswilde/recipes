@@ -4,12 +4,12 @@ tags:
   - holiday
   - sauce
   - thanksgiving
-hero: assets/images/cranberry-sauce.jpg
+hero: assets/images/cranberry-sauce.webp
 ---
 
 # :cherries: Cranberry Sauce
 
-![Cranberry Sauce](../../assets/images/cranberry-sauce.jpg){ loading=lazy }
+![Cranberry Sauce](../../assets/images/cranberry-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,8 +19,8 @@ hero: assets/images/cranberry-sauce.jpg
 
 - :candy: 198 g granulated sugar
 - :droplet: 227 g water
-- :cherries: 1 12-oz pkg cranberries
-- :orange_circle: 1 orange zest
+- :baby_bottle: 1 12-oz pkg cranberries
+- :tangerine: 1 orange zest
 
 ## :cooking: Cookware
 

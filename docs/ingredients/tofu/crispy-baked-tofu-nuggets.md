@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - tofu
-hero: assets/images/crispy-baked-tofu-nuggets.jpg
+hero: assets/images/crispy-baked-tofu-nuggets.webp
 ---
 
 # :butter: Crispy Baked Tofu Nuggets
 
-![Crispy Baked Tofu Nuggets](../../assets/images/crispy-baked-tofu-nuggets.jpg){ loading=lazy }
+![Crispy Baked Tofu Nuggets](../../assets/images/crispy-baked-tofu-nuggets.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,18 +17,18 @@ hero: assets/images/crispy-baked-tofu-nuggets.jpg
 
 ## :salt: Ingredients
 
-- :avocado: some avocado oil
-- :butter: 1 14-oz pkg extra-firm tofu
-- :chestnut: 0.75 cup cashews
-- :corn: 1.5 Tbsp cornstarch
-- :microbe: 2 Tbsp nutritional yeast
+- :olive: some avocado oil
+- :cheese_wedge: 1 14-oz pkg extra-firm tofu
+- :chestnut: 0.75 cup (85 g) cashews
+- :chestnut: 1.5 Tbsp (10 g) cornstarch
+- :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
 - :salt: 0.75 tsp salt
 - :salt: 0.75 tsp pepper
 - :hot_pepper: 1 tsp smoked paprika
 - :garlic: 0.5 tsp garlic powder
-- :glass_of_milk: 0.5 cup unsweetened dairy-free milk
-- :lemon: 2 tsp lemon juice
-- :corn: 0.5 cup cornstarch
+- :glass_of_milk: 0.5 cup (142 g) unsweetened dairy-free milk
+- :tangerine: 2 tsp (9 g) lemon juice
+- :chestnut: 0.5 cup (56 g) cornstarch
 
 ## :cooking: Cookware
 
@@ -59,14 +59,14 @@ cashew coating to a shallow bowl or dish.
 
 ### Step 4
 
-Next, make the vegan buttermilk in a separate shallow bowl or dish by combining the unsweetened dairy-free milk and
+Next, make the vegan [buttermilk](../buttermilk.md) in a separate shallow bowl or dish by combining the unsweetened dairy-free milk and
 lemon juice. Mix and set aside to curdle. Then add 1/2 cup cornstarch (56 g) to another shallow bowl and set aside
 (adjust the amount of cornstarch if altering the default number of servings).
 
 ### Step 5
 
 Cut your pressed tofu into 1-inch (2.5 cm) cubes, and start the assembly line! Using clean hands, start by coating your
-tofu in cornstarch and gently tapping on the side of the bowl to shake off any excess. Next, dip in the vegan buttermilk
+tofu in cornstarch and gently tapping on the side of the bowl to shake off any excess. Next, dip in the vegan [buttermilk](../buttermilk.md)
 and evenly coat, then place in the cashew coating and turn the tofu a few times to evenly coat all sides. Place your
 breaded nugget on the prepared baking sheet and repeat with the remaining tofu.
 

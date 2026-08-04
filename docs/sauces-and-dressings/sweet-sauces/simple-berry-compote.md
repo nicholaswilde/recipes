@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - minimalist-baker
-hero: assets/images/simple-berry-compote.jpg
+hero: assets/images/simple-berry-compote.webp
 ---
 
 # :strawberry: Simple Berry Compote
 
-![Simple Berry Compote](../../assets/images/simple-berry-compote.jpg){ loading=lazy }
+![Simple Berry Compote](../../assets/images/simple-berry-compote.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,12 +17,12 @@ hero: assets/images/simple-berry-compote.jpg
 
 ## :salt: Ingredients
 
-- :strawberry: 3 cups fruit
-- :orange_circle: 3 Tbsp orange juice
-- :custard: 0.25 tsp cinnamon (optional)
-- :sweet_potato: 0.25 tsp ginger (optional)
-- :candy: 1 tsp granulated sugar (optional)
-- :ear_of_rice: 1 tsp chia seeds (optional)
+- 3 cups (384 g) fruit
+- :tangerine: 3 Tbsp (42 g) orange juice
+- :chestnut: 0.25 tsp (1 g) cinnamon (optional)
+- :leafy_green: 0.25 tsp (1 g) ginger (optional)
+- :candy: 1 tsp (4 g) granulated sugar (optional)
+- :apple: 1 tsp (3 g) chia seeds (optional)
 
 ## :cooking: Cookware
 

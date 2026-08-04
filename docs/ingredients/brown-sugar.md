@@ -4,12 +4,12 @@ tags:
   - ingredients
 comments: true
 
-hero: assets/images/brown-sugar.jpg
+hero: assets/images/brown-sugar.webp
 ---
 
 # :maple_leaf: Brown Sugar
 
-![Brown Sugar](../assets/images/brown-sugar.jpg){ loading=lazy }
+![Brown Sugar](../assets/images/brown-sugar.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

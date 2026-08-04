@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/queen-elizabeth-ii's-drop-scones.jpg
+hero: assets/images/queen-elizabeth-ii's-drop-scones.webp
 ---
 
 # :pancakes: Queen Elizabeth II's Drop Scones
 
-![Queen Elizabeth II's Drop Scones](../assets/images/queen-elizabeth-ii's-drop-scones.jpg){ loading=lazy }
+![Queen Elizabeth II's Drop Scones](../assets/images/queen-elizabeth-ii's-drop-scones.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,12 +16,12 @@ hero: assets/images/queen-elizabeth-ii's-drop-scones.jpg
 
 ## :salt: Ingredients
 
-- :candy: 4 Tbsp sugar
+- :candy: 4 Tbsp (39 g) sugar
 - :egg: 2 large eggs
-- :glass_of_milk: 1.5 cups whole milk
-- :ear_of_rice: 3 cups (360 g) all-purpose flour
-- :cup_with_straw: 2 tsp baking soda
-- :rice: 3 tsp cream of tartar
+- :glass_of_milk: 1.5 cups (340 g) whole milk
+- :bread: 3 cups (360 g) all-purpose flour
+- :chestnut: 2 tsp baking soda
+- :glass_of_milk: 3 tsp (18 g) cream of tartar
 - :butter: 2 Tbsp butter
 
 ## :cooking: Cookware

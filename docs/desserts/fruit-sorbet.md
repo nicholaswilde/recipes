@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/fruit-sorbet.jpg
+hero: assets/images/fruit-sorbet.webp
 ---
 
 # :strawberry: Fruit Sorbet
@@ -18,10 +18,10 @@ hero: assets/images/fruit-sorbet.jpg
 
 - :candy: 300 g confectioners' sugar
 - :droplet: 300 g water
-- :herb: some mint
+- :shamrock: some mint
 - :strawberry: 500 g strawberries
-- :lemon: 0.5 lime juice
-- :icecream: 1 tsp vanilla
+- :tangerine: 0.5 lime juice
+- :flower_playing_cards: 1 tsp vanilla
 - :egg: 1 egg
 
 ## :cooking: Cookware
@@ -73,4 +73,4 @@ Make the sorbet the same way as making ice cream using a food processor.
 
 - <https://www.youtube.com/watch?v=2rcf0MzBjy0>
 
-[1]: <../assets/images/fruit-sorbet.jpg>
+[1]: <../assets/images/fruit-sorbet.webp>

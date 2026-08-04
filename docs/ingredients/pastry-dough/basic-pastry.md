@@ -5,12 +5,12 @@ tags:
   - ingredient
   - pastry-dough
   - joy-of-cooking
-hero: assets/images/basic-pastry.jpg
+hero: assets/images/basic-pastry.webp
 ---
 
 # :pie: Basic Pastry
 
-![Basic Pastry](../../assets/images/basic-pastry.jpg){ loading=lazy }
+![Basic Pastry](../../assets/images/basic-pastry.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,12 +18,12 @@ hero: assets/images/basic-pastry.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 2.5 cups (300 g) all-purpose flour
+- :bread: 2.5 cups (300 g) all-purpose flour
 - :salt: 1.25 tsp salt
-- :carrot: 0.75 cup (138 g) vegetable shortening
-- :butter: 3 Tbsp unsalted butter
-- :droplet: 6 Tbsp ice water
-- :droplet: 1 Tbsp ice water
+- :butter: 0.75 cup (138 g) vegetable shortening
+- :butter: 3 Tbsp (42 g) unsalted butter
+- :baby_bottle: 6 Tbsp (85 g) ice water
+- :baby_bottle: 1 Tbsp (14 g) ice water
 
 ## :cooking: Cookware
 

@@ -2,9 +2,10 @@
 comments: true
 tags:
   - main
-hero: assets/images/game-changers-oat-and-lentil-meatloaf.jpg
+hero: assets/images/game-changers-oat-and-lentil-meatloaf.webp
 ---
-# Game Changers Oat and Lentil Meatloaf
+
+# :leafy_green: Game Changers Oat and Lentil Meatloaf
 
 ![Game Changers Oat and Lentil Meatloaf][1]{ loading=lazy }
 
@@ -15,19 +16,19 @@ hero: assets/images/game-changers-oat-and-lentil-meatloaf.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 2 stalks celery
-- :onion: 0.5 onion
+- :tea: 0.5 onion
 - :garlic: 2 cloves garlic
 - :cheese_wedge: 10 oz firm tofu
-- :chestnut: 0.25 cup (28 g) walnuts
-- :beans: 0.5 cup (105 g) brown lentils
-- :ear_of_rice: 1.25 cups (125 g) quick-cooking oats
+- :chestnut: 0.25 cup (32 g) walnuts
+- :maple_leaf: 0.5 cup (64 g) brown lentils
+- :olive: 1.25 cups (111 g) quick-cooking oats
 - :herb: 0.5 tsp thyme
 - :herb: 0.5 tsp rosemary
-- :takeout_box: 2 Tbsp [soy sauce][2]
-- :baby_bottle: 1 Tbsp [Dijon mustard][3]
+- 2 Tbsp [soy sauce][2]
+- 1 Tbsp [Dijon mustard][3]
 - :herb: 2 tsp parsley
 - :herb: 0.5 tsp sage
-- :hot_springs: 2 Tbsp BBQ sauce
+- :takeout_box: 2 Tbsp (28 g) BBQ sauce
 
 ## :cooking: Cookware
 
@@ -64,7 +65,6 @@ Best if allowed to fest for at least 1 hour.
 
 - <https://gamechangersmovie.com/recipes/oat-lentil-meat-loaf/>
 
-[1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.jpg>
+[1]: <../assets/images/game-changers-oat-and-lentil-meatloaf.webp>
 [2]: <../ingredients/mock-soy-sauce.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>
-

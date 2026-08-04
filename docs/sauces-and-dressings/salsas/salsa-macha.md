@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-macha.jpg
+hero: assets/images/salsa-macha.webp
 ---
 
 # :hot_pepper: Salsa Macha
@@ -17,13 +17,13 @@ hero: assets/images/salsa-macha.jpg
 
 ## :salt: Ingredients
 
-- :oil_drum: 1 cup canola oil
-- :olive: 1 cup olive oil
+- :droplet: 1 cup (226 g) canola oil
+- :olive: 1 cup (200 g) olive oil
 - :hot_pepper: 57 g dried arbol chiles
 - :hot_pepper: 21 g morita chiles
 - :garlic: 15 cloves garlic
-- :sake: 0.5 cup sesame seeds
-- :peanuts: 0.25 cup unsalted peanuts
+- :seedling: 0.5 cup (71 g) sesame seeds
+- :chestnut: 0.25 cup (56 g) unsalted peanuts
 - :salt: 1 Tbsp salt
 
 ## :cooking: Cookware
@@ -65,4 +65,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-macha.jpg>
+[1]: <../../assets/images/salsa-macha.webp>

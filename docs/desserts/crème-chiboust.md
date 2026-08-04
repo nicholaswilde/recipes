@@ -5,12 +5,12 @@ tags:
   - filling
   - ingredient
   - custard
-hero: assets/images/crème-chiboust.jpg
+hero: assets/images/crème-chiboust.webp
 ---
 
 # :custard: Crème Chiboust
 
-![Crème Chiboust](../assets/images/crème-chiboust.jpg){ loading=lazy }
+![Crème Chiboust](../assets/images/crème-chiboust.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

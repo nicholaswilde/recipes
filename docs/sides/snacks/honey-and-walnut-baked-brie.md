@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/honey-and-walnut-baked-brie.jpg
+hero: assets/images/honey-and-walnut-baked-brie.webp
 ---
 
 # :cheese_wedge: Honey and Walnut Baked Brie
 
-![Honey and Walnut Baked Brie](../../assets/images/honey-and-walnut-baked-brie.jpg){ loading=lazy }
+![Honey and Walnut Baked Brie](../../assets/images/honey-and-walnut-baked-brie.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,15 +16,15 @@ hero: assets/images/honey-and-walnut-baked-brie.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 1 wedge or wheel Brie
+- 1 wedge or wheel Brie
 - :chestnut: 57 g walnuts
 - :honey_pot: 84 g honey
 - :herb: 0.5 tsp rosemary
-- :cherries: 21 g dried cherries or cranberries (optional)
+- :apple: 21 g dried cherries or cranberries (optional)
 - :salt: some salt
-- :baguette_bread: some toasted bread (alternative)
-- :flatbread: some crackers
-- :pear: some fruit (alternative)
+- :bread: some toasted bread (alternative)
+- some crackers
+- some fruit (alternative)
 
 ## :cooking: Cookware
 

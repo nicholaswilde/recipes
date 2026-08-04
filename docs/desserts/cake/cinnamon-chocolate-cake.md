@@ -4,41 +4,43 @@ tags:
 
   - cake
   - dessert
-hero: assets/images/cinnamon-chocolate-cake.jpg
+hero: assets/images/cinnamon-chocolate-cake.webp
 ---
 
 # :cake: Cinnamon Chocolate Cake
 
-![Cinnamon Chocolate Cake](../../assets/images/cinnamon-chocolate-cake.jpg){ loading=lazy }
+![Cinnamon Chocolate Cake](../../assets/images/cinnamon-chocolate-cake.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 24 | 20 minutes |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :ear_of_rice: 2 cups (240 g) all-purpose flour
-- :candy: 2 cups (396 g) granulated sugar
-- :custard: 1 tsp cinnamon
-- :butter: 1 stick margarine or butter
-- :chocolate_bar: 4 tsp cocoa powder
-- :droplet: 1 cup (227 g) water
-- :carrot: 0.5 cup (92 g) vegetable shortening
-- :glass_of_milk: 0.5 cup (114 g) buttermilk
-- :cup_with_straw: 1 tsp baking soda
-- :egg: 2 eggs
-- :icecream: 2 tsp vanilla
+=== "Cake"
 
-## :salt: Ingredients - Icing
+    - :bread: 2 cups (240 g) all-purpose flour
+    - :candy: 2 cups (396 g) granulated sugar
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :glass_of_milk: 1 stick margarine or butter
+    - :chocolate_bar: 4 tsp (9 g) cocoa powder
+    - :droplet: 1 cup (227 g) water
+    - :butter: 0.5 cup (92 g) vegetable shortening
+    - :icecream: 0.5 cup [buttermilk](../../ingredients/buttermilk.md)
+    - :chestnut: 1 tsp baking soda
+    - :egg: 2 eggs
+    - :flower_playing_cards: 2 tsp vanilla
 
-- :butter: 1 stick margarine
-- :chocolate_bar: 2 Tbsp cocoa powder
-- :glass_of_milk: 6 Tbsp milk
-- :candy: 1 lb confectioners' sugar
-- :icecream: 1 tsp vanilla
-- :custard: 1 tsp cinnamon
-- :chestnut: 1 cup chopped walnuts
-- :coconut: 1 cup coconut
+=== "Icing"
+
+    - 1 stick margarine
+    - :chocolate_bar: 2 Tbsp (14 g) cocoa powder
+    - :glass_of_milk: 6 Tbsp (85 g) milk
+    - :candy: 1 lb confectioners' sugar
+    - :flower_playing_cards: 1 tsp vanilla
+    - :chestnut: 1 tsp (4 g) cinnamon
+    - :chestnut: 1 cup (128 g) chopped walnuts
+    - :coconut: 1 cup (226 g) coconut
 
 ## :cooking: Cookware
 
@@ -63,7 +65,7 @@ ingredients.
 
 ### Step 4
 
-Add buttermilk, baking soda, eggs, and vanilla; mix well.
+Add [buttermilk](../../ingredients/buttermilk.md), baking soda, eggs, and vanilla; mix well.
 
 ### Step 5
 

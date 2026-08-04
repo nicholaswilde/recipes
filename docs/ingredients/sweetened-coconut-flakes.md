@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/sweetened-coconut-flakes.jpg
+hero: assets/images/sweetened-coconut-flakes.webp
 ---
 
 # :coconut: Sweetened Coconut Flakes
@@ -16,9 +16,9 @@ hero: assets/images/sweetened-coconut-flakes.jpg
 
 ## :salt: Ingredients
 
-- :droplet: 0.25 (57 g) cup water
-- :candy: 4 tsp (17 g) granulated sugar
-- :coconut: 1 cup (113 g) unsweetened coconut flakes
+- :droplet: 0.25 cup (57 g) water
+- :candy: 4 tsp (16 g) granulated sugar
+- :glass_of_milk: 1 cup (60 g) unsweetened coconut flakes
 
 ## :cooking: Cookware
 
@@ -51,4 +51,4 @@ Add the coconut to your baking sheet lined with parchment paper and let it dry.
 
 - <https://cakedecorist.com/how-to-sweeten-coconut-flakes/>
 
-[1]: <../assets/images/sweetened-coconut-flakes.jpg>
+[1]: <../assets/images/sweetened-coconut-flakes.webp>

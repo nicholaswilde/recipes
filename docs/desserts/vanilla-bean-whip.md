@@ -4,7 +4,7 @@ tags:
 
   - dessert
   - forks-over-knives
-hero: assets/images/vanilla-bean-whip.jpg
+hero: assets/images/vanilla-bean-whip.webp
 ---
 
 # :icecream: Vanilla Bean Whip
@@ -17,12 +17,12 @@ hero: assets/images/vanilla-bean-whip.jpg
 
 ## :salt: Ingredients
 
-- :chestnut: 0.5 cup cashews
-- :custard: 1 12 oz pkg silken tofu
-- :maple_leaf: 0.5 cup (156 g) maple syrup
-- :lemon: 2 Tbsp lemon juice
+- :chestnut: 0.5 cup (56 g) cashews
+- :glass_of_milk: 1 12 oz pkg silken tofu
+- :honey_pot: 0.5 cup (156 g) maple syrup
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :salt: 1 pinch salt
-- :icecream: 1 vanilla bean
+- :hamburger: 1 vanilla bean
 
 ## :cooking: Cookware
 
@@ -54,4 +54,4 @@ Transfer the mixture to a bowl and cover with plastic wrap. Chill for several ho
 
 - Forks Over Knives
 
-[1]: <../assets/images/vanilla-bean-whip.jpg>
+[1]: <../assets/images/vanilla-bean-whip.webp>

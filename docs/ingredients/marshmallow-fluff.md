@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - king-arthur
-hero: assets/images/marshmallow-fluff.jpg
+hero: assets/images/marshmallow-fluff.webp
 ---
 
 # :dango: Marshmallow Fluff
@@ -19,10 +19,10 @@ hero: assets/images/marshmallow-fluff.jpg
 
 - :droplet: 76 water
 - :candy: 149 g granulated sugar
-- :corn: 234 g light or dark corn syrup or honey
+- :candy: 234 g light or dark corn syrup or honey
 - :egg: 3 large egg whites
-- :rice: 0.5 tsp cream of tartar
-- :icecream: 1 tsp vanilla
+- :glass_of_milk: 0.5 tsp (3 g) cream of tartar
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 
@@ -84,4 +84,4 @@ by hand if it becomes "flat."
 
 - <https://www.kingarthurbaking.com/recipes/homemade-marshmallow-spread-recipe>
 
-[1]: <../assets/images/marshmallow-fluff.jpg>
+[1]: <../assets/images/marshmallow-fluff.webp>

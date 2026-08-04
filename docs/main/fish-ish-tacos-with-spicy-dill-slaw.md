@@ -17,15 +17,15 @@ hero: assets/images/fish-ish-tacos-with-spicy-dill-slaw.png
 
 ## :salt: Ingredients
 
-- :fish: 2 boxes TJ's Battered Plant-Based Fish Fillets
-- :seedling: 0.5 cup TJ's Vegan Creamy Dill Dressing
-- :hot_pepper: 0.33 cup TJ's Hot & Sweet Jalapeño brine
-- :hot_pepper: 0.33 cup jalapeños
-- :carrot: 1 bag TJ's Ready Veggies OR Organic Shredded Green & Red Cabbage with Orange Carrots
-- :flatbread: 1 pkg corn tortillas
-- :cheese_wedge: 1 cup feta cheese
+- :glass_of_milk: 2 boxes TJ's Battered Plant-Based Fish Fillets
+- :meat_on_bone: 0.5 cup (113 g) TJ's Vegan Creamy Dill Dressing
+- :baby_bottle: 0.33 cup (79 g) TJ's Hot & Sweet Jalapeño brine
+- 0.33 cup jalapeños
+- :tea: 1 bag TJ's Ready Veggies OR Organic Shredded Green & Red Cabbage with Orange Carrots
+- :bread: 1 pkg corn tortillas
+- :cheese_wedge: 1 cup (114 g) feta cheese
 - :herb: 1 bunch cilantro
-- :lemon: 2 lime
+- :tangerine: 2 lime
 
 ## :cooking: Cookware
 
@@ -41,7 +41,7 @@ Air-fry or bake TJ's Battered Plant-Based Fish Fillets according to package dire
 
 ### Step 2
 
-While fillets are baking, in a small bowl, whisk  TJ's Vegan Creamy Dill Dressing and TJ's Hot & Sweet Jalapeño brine
+While fillets are baking, in a small bowl, whisk TJ's Vegan Creamy Dill Dressing and TJ's Hot & Sweet Jalapeño brine
 to emulsify. Add chopped jalapeños. Add ¼ cup of prepared dressing to a large bowl with ready TJ's Ready Veggies OR
 Organic Shredded Green & Red Cabbage with Orange Carrots and toss to combine (reserve remaining dressing for taco
 assembly). Refrigerate until ready to serve.

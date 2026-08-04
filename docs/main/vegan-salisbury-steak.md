@@ -5,7 +5,7 @@ tags:
   - main
   - vegan
   - favorite
-hero: assets/images/vegan-salisbury-steak.jpg
+hero: assets/images/vegan-salisbury-steak.webp
 ---
 
 # :hamburger: Vegan Salisbury Steak
@@ -19,14 +19,14 @@ hero: assets/images/vegan-salisbury-steak.jpg
 ## :salt: Ingredients
 
 - :egg: 1 vegan egg replacer
-- :cut_of_meat: 1 lb vegan ground beef
-- :bread: 0.5 cup [seasoned breadcrumbs][4]
-- :glass_of_milk: 2 Tbsp oat or unsweetened almond milk
-- :onion: 1 pkg [onion soup mix][2]
-- :sake: 2 tsp vegan Worcestershire sauce
-- :salt: 0.25 tsp black pepper
-- :potato: 1 mashed potatoes
-- :mushroom: 1 [mushroom gravy][3]
+- :apple: 1 lb vegan ground beef
+- 0.5 cup [seasoned breadcrumbs][4]
+- :glass_of_milk: 2 Tbsp (7 g) oat or unsweetened almond milk
+- 1 pkg [onion soup mix][2]
+- :apple: 2 tsp (9 g) vegan Worcestershire sauce
+- :salt: 0.25 tsp (1 g) black pepper
+- :sweet_potato: 1 mashed potatoes
+- 1 [mushroom gravy][3]
 
 ## :cooking: Cookware
 
@@ -58,7 +58,7 @@ Place on a bed of mashed potatoes and top with [mushroom gravy][3].
 
 - <https://thiswifecooks.com/vegan-salisbury-steak-with-mushroom-gravy/>
 
-[1]: <../assets/images/vegan-salisbury-steak.jpg>
+[1]: <../assets/images/vegan-salisbury-steak.webp>
 [2]: <../ingredients/onion-soup-mix.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/mushroom-gravy.md>
 [4]: <../ingredients/breadcrumbs.md>

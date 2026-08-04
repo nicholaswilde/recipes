@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - jean-pierre
-hero: assets/images/tomato-ragu.jpg
+hero: assets/images/tomato-ragu.webp
 ---
 
 # :tomato: Tomato Ragu
 
-![Tomato Ragu](../../assets/images/tomato-ragu.jpg){ loading=lazy }
+![Tomato Ragu](../../assets/images/tomato-ragu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,16 +17,16 @@ hero: assets/images/tomato-ragu.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1.5 cup (213 g) onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1.5 cup (144 g) onion
 - :leafy_green: 0.5 cup (71 g) celery
 - :carrot: 0.5 cup (71 g) carrots
-- :hotdog: 1.5 lbs (680 g) vegetarian sausage
-- :mushroom: 0.5 lb (227 g) mushrooms
-- :herb: 1 Tbsp fresh thyme
+- :baby_bottle: 1.5 lbs vegetarian sausage
+- :mushroom: 0.5 lb mushrooms
+- :apple: 1 Tbsp fresh thyme
 - :garlic: 2 Tbsp garlic
-- :tomato: 2 28-oz cans tomatoes
-- :tomato: 1.5 cups (348 g) tomato puree
+- :baby_bottle: 2 28-oz cans tomatoes
+- :apple: 1.5 cups (348 g) tomato puree
 - :salt: some salt
 - :salt: some pepper
 - :herb: 0.25 cup parsley

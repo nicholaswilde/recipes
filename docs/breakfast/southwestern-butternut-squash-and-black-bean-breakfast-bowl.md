@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - minimalist-baker
-hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg
+hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.webp
 ---
 
 # :sweet_potato: Southwestern Butternut Squash and Black Bean Breakfast Bowl
@@ -15,34 +15,36 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 |:----------------------------------:|:-----------------------: |
 | 2 | 43 minutes |
 
-## :salt: Ingredients - Squash
+## :salt: Ingredients
 
-- :sweet_potato: 3 cups butternut squash
-- :oil_drum: 1 Tbsp vegetable oil
-- :salt: 0.5 tsp salt
-- :salt: 0.5 tsp pepper
-- :garlic: 0.13 tsp garlic powder
+=== "Squash"
 
-## :salt: Ingredients - Beans
+    - 3 cups butternut squash
+    - :olive: 1 Tbsp (12 g) vegetable oil
+    - :salt: 0.5 tsp salt
+    - :salt: 0.5 tsp pepper
+    - :garlic: 0.13 tsp garlic powder
 
-- :canned_food: 1 15-oz can [black beans][3]
-- :taco: 0.25 cup [enchilada sauce][2]
+=== "Beans"
 
-## :salt: Ingredients - Veggies
+    - :glass_of_milk: 1 15-oz can [black beans][3]
+    - 0.25 cup [enchilada sauce][2]
 
-- :oil_drum: 0.5 Tbsp vegetable oil
-- :hot_pepper: 0.25 tsp red pepper flakes (optional)
-- :leafy_green: 5 cups baby spinach
+=== "Veggies"
 
-## :salt: Ingredients - Eggs
+    - :olive: 0.5 Tbsp (6 g) vegetable oil
+    - :hot_pepper: 0.25 tsp red pepper flakes (optional)
+    - :leafy_green: 5 cups baby spinach
 
-- :oil_drum: 0.5 Tbsp vegetable oil
-- :egg: 4 eggs
-- :salt: 0.13 tsp salt
+=== "Eggs"
 
-## :salt: Ingredients - For Serving
+    - :olive: 0.5 Tbsp (6 g) vegetable oil
+    - :egg: 4 eggs
+    - :salt: 0.13 tsp salt
 
-- :taco: 0.25 cup [enchilada sauce][2]
+=== "For Serving"
+
+    - 0.25 cup [enchilada sauce][2]
 
 ## :cooking: Cookware
 
@@ -100,6 +102,6 @@ Leftovers (excluding eggs) keep well (without sauce) for 3 to 4 days in the refr
 
 - <https://minimalistbaker.com/southwestern-butternut-squash-black-bean-breakfast-bowl/>
 
-[1]: <../assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.jpg>
+[1]: <../assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.webp>
 [2]: <../sauces-and-dressings/gravy-and-savory-sauces/enchilada-sauce.md>
 [3]: <../ingredients/black-beans.md>

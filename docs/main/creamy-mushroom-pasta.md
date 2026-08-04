@@ -5,12 +5,12 @@ tags:
   - italian
   - pasta
   - jean-pierre
-hero: assets/images/creamy-mushroom-pasta.jpg
+hero: assets/images/creamy-mushroom-pasta.webp
 ---
 
 # :spaghetti: Creamy Mushroom Pasta
 
-![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.jpg){ loading=lazy }
+![Creamy Mushroom Pasta](../assets/images/creamy-mushroom-pasta.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -18,17 +18,17 @@ hero: assets/images/creamy-mushroom-pasta.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 oz unsalted butter
-- :onion: 0.5 cup red onion
-- :mushroom: 6 oz mushrooms
+- :butter: 2 oz (56 g) unsalted butter
+- :tea: 0.5 cup (105 g) red onion
+- :mushroom: 6 oz (58 g) mushrooms
 - :salt: some salt
 - :salt: some pepper
 - :garlic: 1 Tbsp garlic
-- :herb: 1 Tbsp fresh tarragon or sage or thyme or rosemary
-- :herb: 2 cups spinach
-- :stew: 3 oz vegetable stock
-- :glass_of_milk: 8 oz heavy cream
-- :cheese_wedge: 1 cup Parmesan
+- :apple: 1 Tbsp (11 g) fresh tarragon or sage or thyme or rosemary
+- :leafy_green: 2 cups spinach
+- :stew: 3 oz (74 g) vegetable stock
+- :glass_of_milk: 8 oz (227 g) heavy cream
+- :cheese_wedge: 1 cup (100 g) Parmesan
 
 ## :cooking: Cookware
 

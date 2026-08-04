@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/lemon-arugula-pesto.jpg
+hero: assets/images/lemon-arugula-pesto.webp
 ---
 
 # :herb: Lemon Arugula Pesto
 
-![Lemon Arugula Pesto](../../../assets/images/lemon-arugula-pesto.jpg){ loading=lazy }
+![Lemon Arugula Pesto](../../../assets/images/lemon-arugula-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -19,13 +19,13 @@ hero: assets/images/lemon-arugula-pesto.jpg
 ## :salt: Ingredients
 
 - :leafy_green: 2 cups arugula
-- :cheese_wedge: 0.75 cup Parmesan
-- :chestnut: 0.67 cup hopped toasted walnuts
-- :leafy_green: 0.5 cup basil
-- :olive: 0.5 cup olive oil
+- :cheese_wedge: 0.75 cup (75 g) Parmesan
+- :chestnut: 0.67 cup (64 g) hopped toasted walnuts
+- :herb: 0.5 cup basil
+- :olive: 0.5 cup (100 g) olive oil
 - :garlic: 3 cloves garlic
-- :lemon: 1 tsp lemon zest
-- :lemon: 2 Tbsp lemon juice
+- :tangerine: 1 tsp (5 g) lemon zest
+- :tangerine: 2 Tbsp (28 g) lemon juice
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware

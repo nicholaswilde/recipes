@@ -4,44 +4,46 @@ tags:
 
   - dessert
   - prue-leith
-hero: assets/images/millefeuille.jpg
+hero: assets/images/millefeuille.webp
 ---
 
 # :cake: Millefeuille
 
-![Millefeuille](../assets/images/millefeuille.jpg){ loading=lazy }
+![Millefeuille](../assets/images/millefeuille.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 60 minutes |
 
-## :salt: Ingredients - Rough Puff Pastry
+## :salt: Ingredients
 
-- :butter: 140 g unsalted butter
-- :salt: 1 pinch salt
-- :ear_of_rice: 225 g all-purpose flour
-- :ice_cube: 135 ml very cold water
+=== "Rough Puff Pastry"
 
-## :salt: Ingredients - Crème Diplomat
+    - :butter: 140 g unsalted butter
+    - :salt: 1 pinch salt
+    - :bread: 225 g all-purpose flour
+    - :baby_bottle: 135 ml (130 g) very cold water
 
-- :egg: 4 egg yolks
-- :candy: 110 g granulated sugar
-- :ear_of_rice: 50 g all-purpose flour
-- :corn: 50 g cornflour
-- :glass_of_milk: 580 ml whole milk
+=== "Crème Diplomat"
 
-## :salt: Ingredients - Raspberry Jam
+    - :baby_bottle: 4 egg yolks
+    - :candy: 110 g granulated sugar
+    - :bread: 50 g all-purpose flour
+    - 50 g cornflour
+    - :glass_of_milk: 580 ml (556 g) whole milk
 
-- :strawberry: 400 g raspberries
-- :candy: 400 g jam sugar
-- :lemon: 1 lemon juice
-- :icecream: 300 ml heavy cream
+=== "Raspberry Jam"
 
-## :salt: Ingredients - Fondant
+    - :apple: 400 g raspberries
+    - :apple: 400 g jam sugar
+    - :tangerine: 1 lemon juice
+    - :glass_of_milk: 300 ml (288 g) heavy cream
 
-- :egg: 4 tsp egg white powder
-- :droplet: 4 Tbsp water
-- :cake: 400 g white fondant
+=== "Fondant"
+
+    - :egg: 4 tsp egg white powder
+    - :droplet: 4 Tbsp (57 g) water
+    - :takeout_box: 400 g white fondant
 
 ## :cooking: Cookware
 

@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - frosting
-hero: assets/images/mom's-buttercream-frosting.jpg
+hero: assets/images/mom's-buttercream-frosting.webp
 ---
 
 # :cupcake: Mom's Buttercream Frosting
 
-![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.jpg){ loading=lazy }
+![Mom's Buttercream Frosting](../../assets/images/mom's-buttercream-frosting.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -18,10 +18,10 @@ hero: assets/images/mom's-buttercream-frosting.jpg
 ## :salt: Ingredients
 
 - :candy: 1 lb confectioner's sugar
-- :butter: 0.33 cup (75 g) soft butter
-- :glass_of_milk: 0.25 cup milk
+- :butter: 0.33 cup (90 g) soft butter
+- :glass_of_milk: 0.25 cup (57 g) milk
 - :salt: 0.25 tsp salt
-- :ice_cream: 1 tsp vanilla
+- :flower_playing_cards: 1 tsp vanilla
 
 ## :cooking: Cookware
 

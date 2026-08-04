@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - bread
-hero: assets/images/flour-tortillas.jpg
+hero: assets/images/flour-tortillas.webp
 ---
 
 # :flatbread: Flour Tortillas
@@ -16,11 +16,11 @@ hero: assets/images/flour-tortillas.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 360 g all-purpose flour
+- :bread: 360 g all-purpose flour
 - :salt: 1 tsp salt
-- :dash: 1 tsp baking powder
-- :oil_drum: 66 g vegetable oil
-- :hot_springs: 227 g warm water
+- :chestnut: 1 tsp baking powder
+- :olive: 66 g vegetable oil
+- :droplet: 227 g warm water
 
 ## :cooking: Cookware
 
@@ -97,4 +97,4 @@ freezer.
 
 - <https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/>
 
-[1]: <../assets/images/flour-tortillas.jpg>
+[1]: <../assets/images/flour-tortillas.webp>

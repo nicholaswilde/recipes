@@ -4,9 +4,10 @@ tags:
   - side
 hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 ---
-# Vegan Ricotta & Sun-Dried Tomato Pesto Salad
 
-![Vegan Ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
+# :tomato: Vegan [ricotta](../../ingredients/ricotta.md) & Sun-Dried Tomato Pesto Salad
+
+![Vegan ricotta & Sun-Dried Tomato Pesto Salad][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -14,13 +15,13 @@ hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 
 ## :salt: Ingredients
 
-- :cheese_wedge: 0.75 cup (170 g) [Whipped Almond Ricotta][2]
-- :herb: 0.5 cup (115 g) [pesto][3]
-- :leafy_green: 6 cups (180 g) mixed greens or spinach
-- :tomato: 0.5 cup (85 g) sun-dried tomatoes
-- :chestnut: 0.5 cup (70 g) pine nuts
-- :beans: 0.5 cup (100 g) cooked [chickpeas][5]
-- :tangerine: 3 Tbsp lemon juice (optional)
+- :baby_bottle: 0.75 cup (194 g) [Whipped Almond ricotta][2]
+- 0.5 cup [pesto][3]
+- :carrot: 6 cups (216 g) mixed greens or spinach
+- :tea: 0.5 cup (85 g) sun-dried tomatoes
+- :chestnut: 0.5 cup (71 g) pine nuts
+- :ear_of_rice: 0.5 cup (85 g) cooked [chickpeas][5]
+- :apple: 3 Tbsp lemon juice (optional)
 
 ## :cooking: Cookware
 
@@ -30,7 +31,7 @@ hero: assets/images/vegan-ricotta-&-sun-dried-tomato-pesto-salad.jpg
 
 ### Step 1
 
-Start by preparing Whipped Almond Ricotta (follow link for instructions). Then set in refrigerator until serving.
+Start by preparing Whipped Almond [ricotta](../../ingredients/ricotta.md) (follow link for instructions). Then set in refrigerator until serving.
 
 ### Step 2
 
@@ -39,7 +40,7 @@ Next prepare pesto dressing (follow link for instructions). Then cover and set i
 ### Step 3
 
 To plate, arrange mixed greens or spinach on a serving platter (or bowl) and top with sun-dried tomatoes, pine nuts, and
-cooked chickpeas. Dollop on spoonfuls of almond ricotta and drizzle with vegan pesto. You can also squeeze with fresh
+cooked chickpeas. Dollop on spoonfuls of almond [ricotta](../../ingredients/ricotta.md) and drizzle with vegan pesto. You can also squeeze with fresh
 lemon juice (optional) for extra flavor and moisture.
 
 ### Step 4
@@ -54,4 +55,3 @@ Best when fresh. Store leftovers separately (undressed) up to 3 days in the refr
 [2]: <../../sauces-and-dressings/dips-and-spreads/whipped-almond-ricotta.md>
 [3]: <../../sauces-and-dressings/gravy-and-savory-sauces/pesto/basic-pesto.md>
 [5]: <../../ingredients/chickpeas.md>
-

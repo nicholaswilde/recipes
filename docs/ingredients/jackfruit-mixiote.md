@@ -4,7 +4,7 @@ tags:
 
   - ingredient
   - the-gracias-madre-cookbook
-hero: assets/images/jackfruit-mixiote.jpg
+hero: assets/images/jackfruit-mixiote.webp
 ---
 
 # :melon: Jackfruit Mixiote
@@ -17,16 +17,16 @@ hero: assets/images/jackfruit-mixiote.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp olive oil
-- :onion: 1 medium onion
+- :olive: 2 Tbsp (25 g) olive oil
+- :tea: 1 medium onion
 - :garlic: 2 cloves garlic
-- :custard: 2 tsp cumin
-- :bell_pepper: 0.5 tsp chipotle powder
-- :melon: 1 20-oz can jackfruit
-- :tomato: 0.5 cup [salsa ranchera][2]
-- :hot_springs: 0.33 cup [barbecue sauce][3]
-- :hot_pepper: 1 small dried ancho chile
-- :maple_leaf: 2 tsp brown sugar
+- :chestnut: 2 tsp (6 g) cumin
+- :hot_pepper: 0.5 tsp chipotle powder
+- :baby_bottle: 1 20-oz can jackfruit
+- 0.5 cup [salsa ranchera][2]
+- 0.33 cup [barbecue sauce][3]
+- :beans: 1 small dried ancho chile
+- :maple_leaf: 2 tsp (9 g) brown sugar
 - :salt: 0.25 tsp salt
 
 ## :cooking: Cookware
@@ -68,6 +68,6 @@ Add the mixture to the jackfruit in the pan and stir to combine.
 
 - The Gracias Madre Cookbook
 
-[1]: <../assets/images/jackfruit-mixiote.jpg>
+[1]: <../assets/images/jackfruit-mixiote.webp>
 [2]: <../sauces-and-dressings/salsas/salsa-ranchera.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/simple-barbecue-sauce.md>

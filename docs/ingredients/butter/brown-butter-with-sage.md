@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - butter
-hero: assets/images/brown-butter-with-sage.jpg
+hero: assets/images/brown-butter-with-sage.webp
 ---
 
 # :seedling: Brown Butter with Sage
 
-![Brown Butter with Sage](../../assets/images/brown-butter-with-sage.jpg){ loading=lazy }
+![Brown Butter with Sage](../../assets/images/brown-butter-with-sage.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,8 +17,8 @@ hero: assets/images/brown-butter-with-sage.jpg
 
 ## :salt: Ingredients
 
-- :butter: 2 Tbsp unsalted butter
-- :seedling: 30 leaves fresh sage
+- :butter: 2 Tbsp (28 g) unsalted butter
+- :apple: 30 leaves fresh sage
 
 ## :cooking: Cookware
 

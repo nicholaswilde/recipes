@@ -4,7 +4,7 @@ tags:
 
   - bread
   - king-arthur
-hero: assets/images/ciabatta.jpg
+hero: assets/images/ciabatta.webp
 ---
 
 # :baguette_bread: Ciabatta
@@ -15,20 +15,22 @@ hero: assets/images/ciabatta.jpg
 |:----------------------------------:|:-----------------------: |
 | 2 loaves | 18.63 hours |
 
-## :salt: Ingredients - Biga
+## :salt: Ingredients
 
-- :ear_of_rice: 180 g all-purpose flour
-- :microbe: 0.25 tsp instant yeast
-- :droplet: 114 g water
+=== "Biga"
 
-## :salt: Ingredients - Dough
+    - :bread: 180 g all-purpose flour
+    - :tea: 0.25 tsp (1 g) instant yeast
+    - :droplet: 114 g water
 
-- :microbe: 1 tsp instant yeast
-- :glass_of_milk: 2 tsp nonfat dry milk or 38 g milk
-- :salt: 1.5 tsp salt
-- :droplet: 213 g water or 175 g
-- :olive: 11 g olive oil
-- :ear_of_rice: 240 g all-purpose flour
+=== "Dough"
+
+    - :tea: 1 tsp (3 g) instant yeast
+    - :glass_of_milk: 2 tsp (5 g) nonfat dry milk or 38 g milk
+    - :salt: 1.5 tsp salt
+    - :baby_bottle: 213 g water or 175 g
+    - :olive: 11 g olive oil
+    - :bread: 240 g all-purpose flour
 
 ## :cooking: Cookware
 
@@ -112,4 +114,4 @@ Dust the loaves generously with flour.
 - The King Arthur Baking Company All-Purpose Baker's Companion
 - <https://www.youtube.com/watch?v=bRGHpCNl72o>
 
-[1]: <../assets/images/ciabatta.jpg>
+[1]: <../assets/images/ciabatta.webp>

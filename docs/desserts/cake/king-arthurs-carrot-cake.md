@@ -6,7 +6,7 @@ tags:
   - cake
   - bake-off
   - king-arthur
-hero: assets/images/king-arthurs-carrot-cake.jpg
+hero: assets/images/king-arthurs-carrot-cake.webp
 ---
 
 # :carrot: King Arthurs Carrot Cake
@@ -17,29 +17,31 @@ hero: assets/images/king-arthurs-carrot-cake.jpg
 |:----------------------------------:|:-----------------------: |
 | 16 | 1.08 hours |
 
-## :salt: Ingredients - Cake
+## :salt: Ingredients
 
-- :oil_drum: 248 g vegetable oil
-- :candy: 397 g granulated sugar
-- :salt: 1 tsp salt
-- :egg: 4 large eggs
-- :herb: 1 Tbsp cinnamon
-- :herb: 0.5 tsp ginger
-- :four_leaf_clover: 0.25 tsp cloves
-- :dash: 1.5 tsp baking powder
-- :cup_with_straw: 0.5 tsp baking soda
-- :ear_of_rice: 240 g all-purpose flour
-- :carrot: 326 g carrots
-- :chestnut: 170 g pecans or walnuts
+=== "Cake"
 
-## :salt: Ingredients - Frosting
+    - :olive: 248 g vegetable oil
+    - :candy: 397 g granulated sugar
+    - :salt: 1 tsp salt
+    - :egg: 4 large eggs
+    - :chestnut: 1 Tbsp (12 g) cinnamon
+    - :sweet_potato: 0.5 tsp (2 g) ginger
+    - :chestnut: 0.25 tsp cloves
+    - :chestnut: 1.5 tsp baking powder
+    - :chestnut: 0.5 tsp baking soda
+    - :bread: 240 g all-purpose flour
+    - :carrot: 326 g carrots
+    - :chestnut: 170 g pecans or walnuts
 
-- :butter: 113 g unsalted butter
-- :cheese_wedge: 1 8-oz pkg cream cheese
-- :salt: 0.25 tsp salt
-- :icecream: 2 tsp vanilla
-- :candy: 397 g confectioners' sugar
-- :glass_of_milk: 1 tsp milk or heavy cream (optional)
+=== "Frosting"
+
+    - :butter: 113 g unsalted butter
+    - :cheese_wedge: 1 8-oz pkg cream cheese
+    - :salt: 0.25 tsp salt
+    - :flower_playing_cards: 2 tsp vanilla
+    - :candy: 397 g confectioners' sugar
+    - :glass_of_milk: 1 tsp (5 g) milk or heavy cream (optional)
 
 ## :cooking: Cookware
 
@@ -104,4 +106,4 @@ Refrigerate any leftovers, well wrapped, for a day or so; freeze for longer stor
 - <https://www.kingarthurbaking.com/recipes/king-arthurs-carrot-cake-recipe>
 - <https://www.thepancakeprincess.com/best-carrot-cake-bake-off/>
 
-[1]: <../../assets/images/king-arthurs-carrot-cake.jpg>
+[1]: <../../assets/images/king-arthurs-carrot-cake.webp>

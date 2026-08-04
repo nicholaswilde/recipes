@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - dressing
-hero: assets/images/french-dressing.jpg
+hero: assets/images/french-dressing.webp
 ---
 
 # :green_salad: French Dressing
 
-![French Dressing](../../assets/images/french-dressing.jpg){ loading=lazy }
+![French Dressing](../../assets/images/french-dressing.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -16,15 +16,15 @@ hero: assets/images/french-dressing.jpg
 
 ## :salt: Ingredients
 
-- :candy: 1 cup (198 g) sugar
-- :tomato: 0.67 cup [ketchup][1]
+- :candy: 1 cup (156 g) sugar
+- 0.67 cup [ketchup][1]
 - :olive: 0.5 cup (100 g) olive oil
-- :champagne: 0.5 cup white vinegar
-- :leafy_green: 0.5 tsp celery seed
-- :hot_pepper: 0.5 tsp chili powder
-- :hot_pepper: 0.5 tsp dried mustard
-- :onion: 0.5 tsp onion powder
-- :hot_pepper: 0.13 tsp paprika
+- :takeout_box: 0.5 cup (53 g) white vinegar
+- :leafy_green: 0.5 tsp (1 g) celery seed
+- :hot_pepper: 0.5 tsp (1 g) chili powder
+- :herb: 0.5 tsp (1 g) dried mustard
+- :chestnut: 0.5 tsp (1 g) onion powder
+- :candy: 0.13 tsp paprika
 - :salt: 2 tsp salt
 
 ## :cooking: Cookware

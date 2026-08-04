@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/almond-paste.jpg
+hero: assets/images/almond-paste.webp
 ---
 
 # :chestnut: Almond Paste
@@ -16,11 +16,11 @@ hero: assets/images/almond-paste.jpg
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 168 g [almond flour][2]
+- 168 g [almond flour][2]
 - :candy: 170 g confectioners' sugar
 - :egg: 1 large egg white
 - :salt: 0.25 tsp salt
-- :chestnut: 1.5 tsp almond extract
+- :flower_playing_cards: 1.5 tsp (8 g) almond extract
 
 ## :cooking: Cookware
 
@@ -55,5 +55,5 @@ Store almond paste, tightly wrapped, for up to 1 month in the refrigerator, or u
 
 - <https://www.kingarthurbaking.com/recipes/diy-almond-paste-recipe>
 
-[1]: <../assets/images/almond-paste.jpg>
+[1]: <../assets/images/almond-paste.webp>
 [2]: <./almond-flour.md>

@@ -11,20 +11,22 @@ hero: assets/images/spring-fruit-tart-pie.png
 
 # :pie: Spring Fruit Tart Pie
 
+![Spring Fruit Tart Pie][3]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4-6 | 20 minutes |
 
 ## :salt: Ingredients
 
-- :pie: 1 frozen pie crust
+- :bread: 1 frozen pie crust
 - :egg: 1 egg
 - :maple_leaf: 0.25 cup (53 g) brown sugar
-- :lemon: 0.5 cup [lemon curd][1]
-- :icecream: 0.5 cup [whipped cream][2]
-- :strawberry: some raspberries
-- :mango: some mangoes
-- :kiwifruit: some kiwis
+- 0.5 cup [lemon curd][1]
+- 0.5 cup [whipped cream][2]
+- :apple: some raspberries
+- some mangoes
+- :apple: some kiwis
 - :strawberry: some strawberries
 - :candy: some confectioners' sugar (optional)
 
@@ -80,3 +82,5 @@ Sprinkle confectioners' sugar (optional) for an added touch.
 
 [1]: <../../ingredients/lemon-curd.md>
 [2]: <../../ingredients/sweetened-whipped-cream.md>
+
+[3]: <../../assets/images/spring-fruit-tart-pie.png>

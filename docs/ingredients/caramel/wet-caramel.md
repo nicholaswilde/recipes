@@ -5,12 +5,12 @@ tags:
   - caramel
   - ingredient
   - cupcake-jemma
-hero: assets/images/wet-caramel.jpg
+hero: assets/images/wet-caramel.webp
 ---
 
 # :candy: Wet Caramel
 
-![Wet Caramel](../../assets/images/wet-caramel.jpg){ loading=lazy }
+![Wet Caramel](../../assets/images/wet-caramel.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -24,10 +24,10 @@ hero: assets/images/wet-caramel.jpg
 
 ## :salt: Ingredients
 
-- :icecream: 1 tsp vanilla
-- :icecream: 245 ml heavy cream
+- :flower_playing_cards: 1 tsp vanilla
+- :glass_of_milk: 245 ml (235 g) heavy cream
 - :candy: 220 g granulated sugar
-- :droplet: 120 ml water
+- :droplet: 120 ml (115 g) water
 
 ## :cooking: Cookware
 

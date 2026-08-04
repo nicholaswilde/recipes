@@ -4,12 +4,12 @@ tags:
 
   - ingredient
   - crust
-hero: assets/images/oreo-pie-crust.jpg
+hero: assets/images/oreo-pie-crust.webp
 ---
 
 # :pie: Oreo Pie Crust
 
-![Oreo Pie Crust](../assets/images/oreo-pie-crust.jpg){ loading=lazy }
+![Oreo Pie Crust](../assets/images/oreo-pie-crust.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -17,7 +17,7 @@ hero: assets/images/oreo-pie-crust.jpg
 
 ## :salt: Ingredients
 
-- :cookie: 24 cookies [Oreos][1]
+- 24 cookies [Oreos][1]
 - :butter: 4 Tbsp butter
 
 ## :cooking: Cookware

@@ -4,12 +4,12 @@ tags:
 
   - mediterranean
   - recipe-box
-hero: assets/images/mediterranean-pasta-salad.jpg
+hero: assets/images/mediterranean-pasta-salad.webp
 ---
 
 # :green_salad: Mediterranean Pasta Salad
 
-![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.jpg){ loading=lazy }
+![Mediterranean Pasta Salad](../assets/images/mediterranean-pasta-salad.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -17,19 +17,19 @@ hero: assets/images/mediterranean-pasta-salad.jpg
 
 ## :salt: Ingredients
 
-- :spaghetti: 0.5 lb red lentil pasta
-- :olive: 1 Tbsp olive oil
-- :onion: 0.5 red onion
-- :chestnut: 2 Tbsp pine nuts
+- :wine_glass: 0.5 lb red lentil pasta
+- :olive: 1 Tbsp (12 g) olive oil
+- :tea: 0.5 red onion
+- :chestnut: 2 Tbsp (18 g) pine nuts
 - :tomato: 2 tomatoes
-- :bell_pepper: 1 jar roasted red peppers
+- :hot_pepper: 1 jar [Roasted Red Peppers](../ingredients/roasted-red-peppers.md)
 - :cucumber: 1 cucumber
-- :olive: 1 cup pitted olives
-- :sponge: 1 Tbsp capers
-- :canned_food: 1 can kidney beans
+- :olive: 1 cup (142 g) pitted olives
+- :olive: 1 Tbsp capers
+- :apple: 1 can kidney beans
 - :herb: 1 handful basil
 - :herb: 1 handful parsley
-- :wine_glass: 2 Tbsp red wine vinegar
+- :wine_glass: 2 Tbsp (26 g) red wine vinegar
 - :salt: 1 tsp pepper
 - :garlic: 3 cloves garlic
 
@@ -55,7 +55,7 @@ and pine nuts begin to brown.
 
 ### Step 4
 
-Remove from heat. In a large mixing bowl, add cooked pasta, sautéed mixture, roasted red peppers, diced cucumber,
+Remove from heat. In a large mixing bowl, add cooked pasta, sautéed mixture, [Roasted Red Peppers](../ingredients/roasted-red-peppers.md), diced cucumber,
 pitted olives, capers, kidney beans, basil, parsley, red wine vinegar, pepper, and garlic; gently toss to mix well.
 
 !!! tip "Options"

@@ -2,12 +2,12 @@
 comments: true
 tags:
   - holiday
-hero: assets/images/chocolate-truffles.jpg
+hero: assets/images/chocolate-truffles.webp
 ---
 
 # :chocolate_bar: Chocolate Truffles
 
-![Chocolate Truffles](../assets/images/chocolate-truffles.jpg){ loading=lazy }
+![Chocolate Truffles](../assets/images/chocolate-truffles.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -15,9 +15,9 @@ hero: assets/images/chocolate-truffles.jpg
 
 ## :salt: Ingredients
 
-- :chocolate_bar: 18 oz semi-sweet chocolate chips
+- :chestnut: 18 oz (382 g) semi-sweet chocolate chips
 - :glass_of_milk: 1 14-oz can [sweetened condensed milk][1]
-- :icecream: 1 Tbsp vanilla
+- :flower_playing_cards: 1 Tbsp vanilla
 
 ## :cooking: Cookware
 

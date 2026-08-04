@@ -6,12 +6,12 @@ tags:
   - ingredient
   - buttercream
   - cupcake-jemma
-hero: assets/images/american-buttercream.jpg
+hero: assets/images/american-buttercream.webp
 ---
 
 # :cake: American Buttercream
 
-![American Buttercream](../../assets/images/american-buttercream.jpg){ loading=lazy }
+![American Buttercream](../../assets/images/american-buttercream.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -19,9 +19,9 @@ hero: assets/images/american-buttercream.jpg
 
 ## :salt: Ingredients
 
-- :butter: 150 g soft unsalted butter
+- :glass_of_milk: 150 g soft unsalted butter
 - :candy: 340 g confectioners' sugar
-- :glass_of_milk: 4 Tbsp [whole milk][1]
+- 4 Tbsp [whole milk][1]
 
 ## :cooking: Cookware
 
