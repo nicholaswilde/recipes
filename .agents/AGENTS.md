@@ -51,4 +51,5 @@
 - I have imported the Half Sour Pickles recipe.
 - I have imported the Full Sour Pickles recipe.
 - I have imported the Fermented Honey Garlic recipe.
+- I have imported the Healthy 5-Ingredient Granola Bars recipe (Issue #1412) from Minimalist Baker.
 
