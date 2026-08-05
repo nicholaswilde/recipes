@@ -48,4 +48,5 @@
 - I have removed the Tempeh Bacon recipe, including its CookLang, Markdown, image files, and menu configurations.
 - I have imported the Spicy Chipotle Hummus recipe.
 - I have imported the Chipotle Hummus Sandwich with Smoky Tempeh Bacon recipe.
+- I have imported the Half Sour Pickles recipe.
 

@@ -1,0 +1,23 @@
+{{- define "custom.image" -}}
+{{ if .Info.ImageFileName }}
+![{{ .Info.RecipeName }}](../assets/images/{{ lower .Info.ImageFileName | replace " " "-" }}){ loading=lazy }
+{{ end }}
+{{- end -}}
+---
+comments: true
+tags:
+  - side
+---
+{{ template "cook.headerSection" . }}
+
+{{ template "custom.image" . }}
+
+{{ template "cook.tableSection" . }}
+
+{{ template "cook.ingredientsSection" . }}
+
+{{ template "cook.cookwareSection" . }}
+
+{{ template "cook.stepsSection" . -}}
+
+{{ template "cook.sourceSection" . }}

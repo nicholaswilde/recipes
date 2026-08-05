@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - scale
+        - mason jar
         - plate
         - spoon
         - jar
