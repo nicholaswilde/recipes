@@ -53,4 +53,5 @@
 - I have imported the Fermented Honey Garlic recipe.
 - I have imported the Healthy 5-Ingredient Granola Bars recipe (Issue #1412) from Minimalist Baker.
 - I have imported the Bean and Cheese Burritos recipe (Issue #1407) from NYT Cooking (Kay Chun), using liteparse OCR on the issue image.
+- I have imported the Cowboy Caviar recipe (Issue #1408) from NYT Cooking (Margaux Laskey), using liteparse OCR on the issue image.
 
