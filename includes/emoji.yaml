@@ -260,6 +260,7 @@ emoji:
         - aquafaba
         - buttermilk
     - bacon:
+        - tempeh bacon
         - liquid smoke
         - vegan bacon
         - fully cooked uncured applewood smoked bacon
@@ -300,6 +301,7 @@ emoji:
     - blue_circle:
         - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
     - bread:
+        - sandwich bread of choice
         - (300g) King Arthur Unbleached All-Purpose Flour
         - all-purpose flour ((90g))
         - semisweet chocolate chips ((90g))
@@ -541,6 +543,7 @@ emoji:
     - crown:
         - royal icing
     - cucumber:
+        - fresh cucumber
         - pickling cucumbers
         - cucumber
         - cucumbers
@@ -705,6 +708,8 @@ emoji:
         - honey
         - maple syrup
     - hot_pepper:
+        - chipotle hummus
+        - chipotle
         - chipotle peppers in adobo sauce
         - ground black pepper
         - jalapeño
@@ -768,6 +773,7 @@ emoji:
     - jack_o_lantern:
         - pumpkin coffee cake
     - leafy_green:
+        - alfalfa sprouts
         - cherry
         - Swiss chard, kale, or collard greens
         - rhubarb
@@ -1008,6 +1014,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - fresh tomato
         - small tomato
         - cherry tomatoes
         - tomato sauce
