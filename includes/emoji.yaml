@@ -34,6 +34,7 @@ emoji:
         - microwave-safe bowl
         - bowl
     - cookie:
+        - loaf
         - baking paper
         - baking
         - Oreo cookies
@@ -132,6 +133,9 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - roasted unsalted almonds ((loosely chopped // see instructions for roasting nuts))
+        - maple syrup or agave nectar ((or honey if not vegan))
+        - Chocolate chips, dried fruit, nuts, banana chips, vanilla, etc. ((optional additions))
         - cashew / kaju
         - cardamom
         - lemon or lime
@@ -205,6 +209,7 @@ emoji:
     - avodado:
         - guacamole
     - baby_bottle:
+        - rolled oats ((gluten-free for GF eaters))
         - pumpkin
         - almonds / badam
         - sugar or agave syrup
@@ -372,6 +377,7 @@ emoji:
     - cake:
         - brandy snaps
     - candy:
+        - heaping cup packed dates ((pitted // deglet noor or medjool)*)
         - and 1/2 cups (300g) granulated sugar
         - /2 cup (100g) granulated sugar
         - paprika
@@ -632,6 +638,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - creamy salted natural peanut butter or almond butter
         - crème fraiche
         - crème fraîche
         - mascarpone
