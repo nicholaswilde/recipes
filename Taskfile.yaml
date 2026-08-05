@@ -260,8 +260,12 @@ tasks:
           sops --decrypt --input-type json --output-type json --output settings.json settings.json.enc
         fi
 
+  dedupe-zensical:
+    desc: Remove duplicate array entries in zensical.toml
+    cmds:
+      - uv run python3 scripts/dedupe_zensical.py
+
   default:
     cmds:
       - task -a
     silent: true
-
