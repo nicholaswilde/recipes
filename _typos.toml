@@ -1209,6 +1209,7 @@ extend-exclude = [
 "underbaked" = "underbaked"
 "undercooked" = "undercooked"
 "undercooking" = "undercooking"
+"undrained" = "undrained"
 "unflavored" = "unflavored"
 "unfloured" = "unfloured"
 "ungreased" = "ungreased"

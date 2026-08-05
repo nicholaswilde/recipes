@@ -46,4 +46,5 @@
 - I have imported the Dry Fruit and Nut Energy Bars recipe (Issue #1411).
 - I have imported the Easy Tempeh Bacon recipe.
 - I have removed the Tempeh Bacon recipe, including its CookLang, Markdown, image files, and menu configurations.
+- I have imported the Spicy Chipotle Hummus recipe.
 
