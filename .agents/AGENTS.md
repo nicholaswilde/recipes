@@ -44,3 +44,5 @@
 - I have imported the Watermelon Agua Fresca recipe (Issue #1410).
 - I have imported the Applied Kitchen Guacamole recipe (Issue #1409).
 - I have imported the Dry Fruit and Nut Energy Bars recipe (Issue #1411).
+- I have imported the Easy Tempeh Bacon recipe.
+
