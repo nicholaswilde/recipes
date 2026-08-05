@@ -3,7 +3,8 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/applied-sweet-potato-soyrizo-hash.webp
+hero: https://github.com/user-attachments/assets/fa8e0c31-d7dc-4660-be41-3a874488b873
+![Second Image](https://github.com/user-attachments/assets/3606c582-defd-4a69-8c2c-be3dc35972bd){ loading=lazy }
 ---
 
 # :sweet_potato: Applied Sweet Potato Soyrizo Hash

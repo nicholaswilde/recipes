@@ -12,3 +12,5 @@ settings.json
 .clinerules/
 .cursor/
 .windsurf/
+.scratch/
+.test_images/
