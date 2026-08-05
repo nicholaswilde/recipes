@@ -4,3 +4,11 @@ cook/**/**.md
 __pycache__/
 mcp_config.json
 settings.json
+.rumdl_cache
+.venv/
+.cache/
+.pytest_cache/
+.codegraph/
+.clinerules/
+.cursor/
+.windsurf/
