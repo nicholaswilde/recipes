@@ -1,12 +1,10 @@
 ---
 comments: true
 tags:
-
   - side
-hero: assets/images/andrew-kings-pasta-salad.webp
+  - salad
 ---
-
-# :spaghetti: Andrew King's Pasta Salad
+# Andrew Kings Pasta Salad
 
 ![Andrew Kings Pasta Salad][1]{ loading=lazy }
 
@@ -16,20 +14,20 @@ hero: assets/images/andrew-kings-pasta-salad.webp
 
 ## :salt: Ingredients
 
-- :ribbon: 1 box Farfalle (bow tie) pasta
-- :glass_of_milk: 1 12-oz can black olives
-- :apple: 1 12-oz can garbanzo beans
-- :cheese_wedge: 1 package mozzarella pearls
-- :apple: 1 container cherry tomatoes
-- :leafy_green: 0.5 jar marinated artichoke hearts
+- 1 box Farfalle (bow tie) pasta
+- 1 12-oz can black olives
+- 1 12-oz can garbanzo beans
+- 1 package mozzarella pearls
+- 1 container cherry tomatoes
+- 0.5 jar marinated artichoke hearts
 - 0.5 jar sliced pepperoncinis
-- :tea: 0.5 red onion (optional)
-- :hot_pepper: 1 bell pepper (optional)
-- :candy: 16 oz (426 g) Light Olive Garden Dressing
-- :herb: 10 basil leaves
-- :coconut: some shredded Parmesan
-- :salt: some sea salt
-- :salt: some fine black pepper
+- 0.5 red onion (optional)
+- 1 bell pepper (optional)
+- 16 oz Light Olive Garden Dressing
+- 10 basil leaves
+- 1 shredded Parmesan
+- 1 sea salt
+- 1 fine black pepper
 
 ## :cooking: Cookware
 
@@ -71,3 +69,4 @@ Season with shredded Parmesan, sea salt, and fine black pepper to taste.
 - Andrew King
 
 [1]: <../../assets/images/andrew-kings-pasta-salad.webp>
+
