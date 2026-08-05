@@ -133,9 +133,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
-        - &amp; 1/2 teaspoons mustard seeds
-        - &amp; 1/2 tablespoons coarse salt
-        - &amp; 1/2 pounds pickling cucumbers ( , sliced 1/4-inch thick (about 5 &amp; 1/2 cups))
+        - garbanzo beans
+        - black olives
         - roasted unsalted almonds ((loosely chopped // see instructions for roasting nuts))
         - maple syrup or agave nectar ((or honey if not vegan))
         - Chocolate chips, dried fruit, nuts, banana chips, vanilla, etc. ((optional additions))
@@ -311,6 +310,7 @@ emoji:
     - blue_circle:
         - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
     - bread:
+        - Farfalle (bow tie) pasta
         - sandwich bread of choice
         - (300g) King Arthur Unbleached All-Purpose Flour
         - all-purpose flour ((90g))
@@ -434,6 +434,8 @@ emoji:
     - champagne:
         - ina garten's perfect vinaigrette
     - cheese_wedge:
+        - shredded Parmesan
+        - mozzarella pearls
         - feta or Cotija cheese
         - sharp cheddar cheese
         - cotija cheese
@@ -691,6 +693,7 @@ emoji:
     - hamburger:
         - black bean burgers
     - herb:
+        - basil leaves
         - fresh cilantro leaves
         - bay leaf ((tej patta))
         - chili-lime seasoning
@@ -724,6 +727,9 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - sliced pepperoncinis
+        - fine black pepper
+        - bell pepper (optional)
         - whole black peppercorns
         - red pepper flakes
         - chipotle hummus
@@ -791,6 +797,7 @@ emoji:
     - jack_o_lantern:
         - pumpkin coffee cake
     - leafy_green:
+        - marinated artichoke hearts
         - alfalfa sprouts
         - cherry
         - Swiss chard, kale, or collard greens
@@ -968,6 +975,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - Light Olive Garden Dressing
         - dry
         - tempeh
         - soy
@@ -1007,6 +1015,7 @@ emoji:
         - Fiori di Sicilia
         - dill pickle juice
     - tea:
+        - red onion (optional)
         - thinly sliced sweet onion
         - chopped sweet onion
         - (1 medium) onion ((thinly sliced))
