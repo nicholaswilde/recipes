@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - breakfast
 hero: assets/images/applied-sweet-potato-soyrizo-hash.webp
 ---
@@ -50,5 +50,9 @@ Add the [black beans][1] and stir until heated through.
 ### Step 5
 
 Top with sliced avocado and fresh cilantro. Serve with lime wedges.
+
+## :link: Source
+
+- Applied Kitchen
 
 [1]: <../ingredients/black-beans.md>
