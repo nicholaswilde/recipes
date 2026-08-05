@@ -56,3 +56,4 @@
 - I have imported the Cowboy Caviar recipe (Issue #1408) from NYT Cooking (Margaux Laskey), using liteparse OCR on the issue image.
 
 - I have imported the Garlic Dill Pickles recipe.
+- I have imported the Bread and Butter Pickles recipe (Issue #1420).
