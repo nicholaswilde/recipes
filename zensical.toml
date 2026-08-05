@@ -1144,7 +1144,6 @@ Sides = [
   { "Crispy Herbes de Provence Potatoes" = "sides/potatoes/crispy-herbes-de-provence-potatoes.md" },
   { "Deviled Eggs" = "sides/snacks/deviled-eggs.md" },
   { "Dried Fruit and Nut Mix" = "sides/snacks/dried-fruit-and-nut-mix.md" },
-
   { "Easy Stuffed Mushrooms" = "sides/easy-stuffed-mushrooms.md" },
   { "Eggless Egg Salad" = "sides/salads/eggless-egg-salad.md" },
   { "Escabeche" = "sides/vegetables/escabeche.md" },
@@ -1251,6 +1250,7 @@ Sides = [
   { "Spinach-Artichoke Tarte Soleil" = "sides/snacks/spinach-artichoke-tarte-soleil.md" },
   { "Steamed Broccoli with Vinaigrette" = "sides/vegetables/steamed-broccoli-with-vinaigrette.md" },
   { "Strawberry Protein Bites" = "sides/snacks/strawberry-protein-bites.md" },
+  { "Tapenade Pasta Salad" = "sides/salads/tapenade-pasta-salad.md" },
   { "Tater Tots" = "sides/potatoes/tater-tots.md" },
   { "The Best Crispy Roast Potatoes Ever Recipe" = "sides/potatoes/the-best-crispy-roast-potatoes-ever-recipe.md" },
   { "Three-Bean Salad" = "sides/salads/three-bean-salad.md" },
