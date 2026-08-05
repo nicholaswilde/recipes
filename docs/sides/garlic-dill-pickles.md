@@ -3,7 +3,7 @@ comments: true
 tags:
   - side
 ---
-# Garlic Dill Pickles
+# :cucumber: Garlic Dill Pickles
 
 ![Garlic Dill Pickles](../assets/images/garlic-dill-pickles.webp){ loading=lazy }
 
@@ -27,6 +27,12 @@ tags:
 ## :cooking: Cookware
 
 ## :pencil: Instructions
+
+!!! tip
+
+    The black or white spines on the cucumbers can be removed from the cucumber by washing them off. Run the
+    cucumbers under cold water and rub the skin with a vegetable brush, a rough kitchen towel, or even just
+    your thumbs. The spines will snap right off without damaging the skin.
 
 ### Step 1
 
