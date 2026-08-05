@@ -57,3 +57,4 @@
 
 - I have imported the Garlic Dill Pickles recipe.
 - I have imported the Bread and Butter Pickles recipe (Issue #1420).
+- I have added the generate-hero-image skill.
