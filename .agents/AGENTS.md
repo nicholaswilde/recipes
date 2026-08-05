@@ -50,4 +50,5 @@
 - I have imported the Chipotle Hummus Sandwich with Smoky Tempeh Bacon recipe.
 - I have imported the Half Sour Pickles recipe.
 - I have imported the Full Sour Pickles recipe.
+- I have imported the Fermented Honey Garlic recipe.
 
