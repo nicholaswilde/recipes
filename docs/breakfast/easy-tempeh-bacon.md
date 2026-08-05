@@ -13,15 +13,15 @@ tags:
 
 ## :salt: Ingredients
 
-- 8 ounces tempeh
-- 1 tbsp avocado oil
-- 3 tbsp tamari
-- 2.5 tbsp maple syrup
-- 1 pinch sea salt
-- 1.5 tsp liquid smoke
-- 1.5 tsp smoked paprika
-- 0.5 tsp ground black pepper
-- 1 dash cayenne pepper
+- :takeout_box: 8 ounces tempeh
+- :olive: 1 tbsp (14 g) avocado oil
+- :takeout_box: 3 tbsp tamari
+- :honey_pot: 2.5 tbsp (49 g) maple syrup
+- :salt: 1 pinch sea salt
+- :bacon: 1.5 tsp liquid smoke
+- :hot_pepper: 1.5 tsp smoked paprika
+- :hot_pepper: 0.5 tsp (2 g) ground black pepper
+- :hot_pepper: 1 dash cayenne pepper
 
 ## :cooking: Cookware
 
