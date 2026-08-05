@@ -5,22 +5,24 @@ tags:
 ---
 # Garlic Dill Pickles
 
+![Garlic Dill Pickles](../assets/images/garlic-dill-pickles.webp){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |
 
 ## :salt: Ingredients
 
-- :garlic: 16 cloves garlic
-- :apple: 16 sprigs fresh dill
-- :hot_pepper: 4 tsp (9 g) whole black peppercorns
-- :seedling: 4 tsp mustard seeds
-- :hot_pepper: 2 tsp (9 g) red pepper flakes
-- :cucumber: 64 oz Kirby or Persian cucumbers
-- :droplet: 4 cups (908 g) water
-- :takeout_box: 4 cups (424 g) white vinegar
-- :salt: 0.25 cup Kosher salt
-- :candy: 0.25 cup (50 g) granulated sugar
+- 16 cloves garlic
+- 16 sprigs fresh dill
+- 4 tsp whole black peppercorns
+- 4 tsp mustard seeds
+- 2 tsp red pepper flakes
+- 64 oz Kirby or Persian cucumbers
+- 4 cups water
+- 4 cups white vinegar
+- 0.25 cup Kosher salt
+- 0.25 cup granulated sugar
 
 ## :cooking: Cookware
 
