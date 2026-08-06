@@ -67,4 +67,6 @@
 - I have removed the Easy Refrigerator Dill Pickles recipe, including its CookLang, Markdown, image files, and menu configurations.
 - I have imported the Tapenade Pasta Salad recipe (Issue #1421).
 - I have imported the Skillet Caramelized Peaches recipe (Issue #1424) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+- I have imported the Cucumber Chia Limeade recipe (Issue #1425) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+
 
