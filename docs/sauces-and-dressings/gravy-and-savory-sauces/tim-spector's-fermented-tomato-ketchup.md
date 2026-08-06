@@ -13,17 +13,17 @@ tags:
 
 ## :salt: Ingredients
 
-- :tomato: 200 g tomato purée
-- :takeout_box: 1 Tbsp (14 g) Worcestershire sauce or soy sauce
-- :takeout_box: 1 fish sauce
-- :apple: 1 Tbsp runny honey
-- :apple: 1 Tbsp (18 g) apple cider vinegar
-- :hot_pepper: 2.5 tsp sauerkraut brine
-- :apple: 2 tsp (6 g) coriander seeds
-- :hot_pepper: 0.5 tsp (2 g) black peppercorns
-- :seedling: 1 tsp mustard seeds
-- :chestnut: 0.12 tsp ground cinnamon
-- :salt: some salt
+- 200 g tomato purée
+- 1 Tbsp Worcestershire sauce or soy sauce
+- some [Vegetarian Fish Sauce](vegetarian-fish-sauce.md)
+- 1 Tbsp runny honey
+- 1 Tbsp apple cider vinegar
+- 2.5 tsp sauerkraut brine
+- 2 tsp coriander seeds
+- 0.5 tsp black peppercorns
+- 1 tsp mustard seeds
+- 0.12 tsp ground cinnamon
+- some salt
 
 ## :cooking: Cookware
 
@@ -37,8 +37,8 @@ tags:
 
 ### Step 1
 
-In a bowl, combine tomato purée, Worcestershire sauce or soy sauce, a splash of fish sauce, runny honey (or fermented
-garlic honey), apple cider vinegar, and sauerkraut brine (optional).
+In a bowl, combine tomato purée, Worcestershire sauce or soy sauce, a splash of [Vegetarian Fish Sauce](vegetarian-fish-sauce.md), runny honey (or
+fermented garlic honey), apple cider vinegar, and sauerkraut brine (optional).
 
 ### Step 2
 
