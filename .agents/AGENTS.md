@@ -72,9 +72,6 @@
 - I have imported the Tim Spector's Fermented Tomato Ketchup recipe (Issue #1422) from the internet and gut health resources.
 - When importing a recipe whose source is `Applied Kitchen`, always ensure the `applied-kitchen` tag is added to the tags list in the markdown frontmatter.
 - If the recipe source is `Applied Kitchen` and it is imported from an image in a GitHub issue, always generate a custom hero image using the image generation tool instead of reusing the issue's image.
-
-
-
-
-
+- I have imported the Tomato Powder ingredient (Issue #1403).
+- I have imported the Gurkensalat (German Cucumber Salad) recipe (Issue #1413) from EatingWell.
 
