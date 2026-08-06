@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - large salad bowl
         - pitcher
         - scale
         - mason jar
@@ -315,6 +316,7 @@ emoji:
     - blue_circle:
         - "blueberry [ricotta](../ingredients/ricotta.md) breakfast cake"
     - bread:
+        - ears of corn
         - Farfalle (bow tie) pasta
         - sandwich bread of choice
         - (300g) King Arthur Unbleached All-Purpose Flour
@@ -1051,6 +1053,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - heirloom cherry tomatoes
         - fresh tomato
         - small tomato
         - cherry tomatoes
