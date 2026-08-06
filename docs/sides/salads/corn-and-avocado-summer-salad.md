@@ -3,6 +3,7 @@ comments: true
 tags:
   - side
   - salad
+  - applied-kitchen
 ---
 # Corn and Avocado Summer Salad
 

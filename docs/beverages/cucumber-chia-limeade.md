@@ -2,6 +2,7 @@
 comments: true
 tags:
   - beverage
+  - applied-kitchen
 ---
 # Cucumber Chia Limeade
 

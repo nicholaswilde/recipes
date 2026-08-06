@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+  - applied-kitchen
 ---
 # Skillet Caramelized Peaches
 
