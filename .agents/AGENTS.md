@@ -69,6 +69,8 @@
 - I have imported the Skillet Caramelized Peaches recipe (Issue #1424) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
 - I have imported the Cucumber Chia Limeade recipe (Issue #1425) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
 - I have imported the Corn and Avocado Summer Salad recipe (Issue #1426) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+- I have imported the Tim Spector's Fermented Tomato Ketchup recipe (Issue #1422) from the internet and gut health resources.
+
 
 
 
