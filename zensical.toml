@@ -30,6 +30,7 @@ Home = "index.md"
 Beverages = [
   { "Champagne Punch" = "beverages/champagne-punch.md" },
   { "Cooked Eggnog" = "beverages/cooked-eggnog.md" },
+  { "Cucumber Chia Limeade" = "beverages/cucumber-chia-limeade.md" },
   { "Ginger Cubes" = "beverages/ginger-cubes.md" },
   { "Golden Milk" = "beverages/golden-milk.md" },
   { "Hot Chocolate" = "beverages/hot-chocolate.md" },

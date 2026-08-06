@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - pitcher
         - scale
         - mason jar
         - plate
@@ -133,6 +134,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - agave
         - small lemon
         - chopped pecan pralines
         - apple juice
@@ -465,6 +467,7 @@ emoji:
     - cherries:
         - cherry bars
     - chestnut:
+        - chia seeds
         - celery seeds
         - walnut / akhrot
         - sesame seeds / til
@@ -561,6 +564,7 @@ emoji:
     - crown:
         - royal icing
     - cucumber:
+        - English or hot house cucumbers
         - Kirby or Persian cucumbers
         - fresh cucumber
         - pickling cucumbers
@@ -979,6 +983,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - ice
         - Light Olive Garden Dressing
         - dry
         - tempeh
