@@ -1,13 +1,9 @@
 ---
 comments: true
 tags:
-
   - mediterranean
-  - the-blue-zones-kitchen
-hero: assets/images/mushroom-and-walnut-bolognese.jpg
 ---
-
-# :chestnut: Mushroom and Walnut Bolognese
+# Mushroom and Walnut Bolognese
 
 ![Mushroom and Walnut Bolognese][1]{ loading=lazy }
 
@@ -17,25 +13,25 @@ hero: assets/images/mushroom-and-walnut-bolognese.jpg
 
 ## :salt: Ingredients
 
-- :olive: 2 Tbsp (25 g) olive oil
-- :mushroom: 1 lb button or cremini mushrooms
-- :tea: 1 medium onion
-- :carrot: 1 carrot
-- :leafy_green: 1 rib celery
-- :garlic: 4 cloves garlic
-- :hot_pepper: 0.5 tsp (2 g) red pepper flakes
-- :herb: 1 tsp oregano
-- :herb: 0.5 tsp thyme
-- :herb: 2 bay leaves
-- :chestnut: 0.5 cup (64 g) walnuts
-- :salt: 1 tsp salt
-- :wine_glass: 0.5 cup (105 g) red wine
-- :hot_pepper: 1 14-oz can crushed or pureed tomatoes
-- :apple: 1 tsp (5 g) liquid aminos or fish sauce
-- :glass_of_milk: 0.5 cup (42 g) unsweetened soy milk
-- :bread: 1 box durum wheat spaghetti pasta
-- :tea: 1 Tbsp (4 g) nutritional yeast or pecorino
-- :herb: 0.5 cups basil leaves
+- 2 Tbsp olive oil
+- 1 lb button or cremini mushrooms
+- 1 medium onion
+- 1 carrot
+- 1 rib celery
+- 4 cloves garlic
+- 0.5 tsp red pepper flakes
+- 1 tsp oregano
+- 0.5 tsp thyme
+- 2 bay leaves
+- 0.5 cup walnuts
+- 1 tsp salt
+- 0.5 cup red wine
+- 1 14-oz can crushed or pureed tomatoes
+- 1 tsp liquid aminos or [Vegetarian Fish Sauce](../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-fish-sauce.md)
+- 0.5 cup unsweetened soy milk
+- 1 box durum wheat spaghetti pasta
+- 1 Tbsp nutritional yeast or pecorino
+- 0.5 cups basil leaves
 
 ## :cooking: Cookware
 
@@ -52,10 +48,10 @@ color, another 10 minutes or so.
 ### Step 2
 
 Add the red wine and stir, scraping up any brown bits off the bottom of the pot. Then add the crushed or pureed
-tomatoes, liquid aminos or fish sauce, and unsweetened soy milk, and stir well. Lower the heat to a bare simmer and let
-the sauce cook, stirring occasionally to be sure it isn't sticking, for an hour. If the sauce starts to stick, add 1/4
-cup of water and stir well. Let it continue simmering for a least another 40 minutes or up to 4 hours for deeper
-flavors. Remove the bay leaves.
+tomatoes, liquid aminos or [Vegetarian Fish Sauce](../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-fish-sauce.md), and unsweetened soy milk, and stir well. Lower the heat to a bare
+simmer and let the sauce cook, stirring occasionally to be sure it isn't sticking, for an hour. If the sauce starts to
+stick, add 1/4 cup of water and stir well. Let it continue simmering for a least another 40 minutes or up to 4 hours for
+deeper flavors. Remove the bay leaves.
 
 ### Step 3
 
@@ -71,4 +67,5 @@ sprinkling of nutritional yeast or pecorino if desired.
 
 - The Blue Zones Kitchen One Pot Meals
 
-[1]: <../assets/images/mushroom-and-walnut-bolognese.jpg>
+[1]: <../assets/images/mushroom-and-walnut-bolognese.webp>
+
