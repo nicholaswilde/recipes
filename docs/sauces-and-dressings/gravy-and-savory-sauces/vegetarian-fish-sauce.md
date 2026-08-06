@@ -3,6 +3,7 @@ comments: true
 tags:
   - sauce
 ---
+
 # Vegetarian Fish Sauce
 
 ![Vegetarian Fish Sauce](../../assets/images/vegetarian-fish-sauce.webp){ loading=lazy }
@@ -13,14 +14,19 @@ tags:
 
 ## :salt: Ingredients
 
-- :droplet: 3 cups (681 g) water
-- :mushroom: 0.25 oz (5 g) dried sliced shiitake mushrooms
-- :salt: 3 Tbsp salt
-- :takeout_box: 2 Tbsp (18 g) soy sauce
-- :apple: 1 tsp (2 g) mushroom powder (e.g., Po Ku)
-- :droplet: 1.5 cups (340 g) water
-- :salt: 3 Tbsp salt
-- :takeout_box: 2 Tbsp (18 g) soy sauce
+=== "Simmered Shiitake Version"
+
+    - :droplet: 3 cups (681 g) water
+    - :mushroom: 0.25 oz (5 g) dried sliced shiitake mushrooms
+    - :salt: 3 Tbsp salt
+    - :takeout_box: 2 Tbsp (18 g) soy sauce
+
+=== "Quick Mushroom Powder Version"
+
+    - :apple: 1 tsp (2 g) mushroom powder (e.g., Po Ku)
+    - :droplet: 1.5 cups (340 g) water
+    - :salt: 3 Tbsp salt
+    - :takeout_box: 2 Tbsp (18 g) soy sauce
 
 ## :cooking: Cookware
 
