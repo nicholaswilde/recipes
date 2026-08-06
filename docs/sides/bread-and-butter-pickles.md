@@ -13,16 +13,16 @@ tags:
 
 ## :salt: Ingredients
 
-- 1.5 lbs pickling cucumbers sliced 1/4-inch thick (which is about 5.5 cups)
-- 1.5 Tbsp coarse salt
-- 1 cup thinly sliced sweet onion
-- 1 cup granulated sugar
-- 1 cup white vinegar
-- 0.5 cup apple cider vinegar
-- 0.25 cup light brown sugar
-- 1.5 tsp mustard seeds
-- 0.5 tsp celery seeds
-- 0.12 tsp ground turmeric
+- :apple: 1.5 lbs pickling cucumbers sliced 1/4-inch thick (which is about 5.5 cups)
+- :apple: 1.5 Tbsp coarse salt
+- :tea: 1 cup (240 g) thinly sliced sweet onion
+- :candy: 1 cup (198 g) granulated sugar
+- :takeout_box: 1 cup (106 g) white vinegar
+- :apple: 0.5 cup (140 g) apple cider vinegar
+- :candy: 0.25 cup (53 g) light brown sugar
+- :seedling: 1.5 tsp mustard seeds
+- :chestnut: 0.5 tsp (1 g) celery seeds
+- :curry: 0.12 tsp ground turmeric
 
 ## :cooking: Cookware
 
