@@ -74,4 +74,4 @@
 - If the recipe source is `Applied Kitchen` and it is imported from an image in a GitHub issue, always generate a custom hero image using the image generation tool instead of reusing the issue's image.
 - I have imported the Tomato Powder ingredient (Issue #1403).
 - I have imported the Gurkensalat (German Cucumber Salad) recipe (Issue #1413) from EatingWell.
-
+- I have created a recipe for homemade Vegetarian Fish Sauce from America's Test Kitchen.
