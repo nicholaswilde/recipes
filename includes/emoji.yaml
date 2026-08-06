@@ -2,6 +2,9 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - refrigerator
+        - jam jar
+        - frying pan
         - large salad bowl
         - pitcher
         - scale
@@ -57,6 +60,7 @@ emoji:
         - measuring cup
         - heat-proof liquid measuring cup
     - gear:
+        - spice grinder or mortar and pestle
         - colander
         - spice grinder
         - electric mixer with whip attachment
@@ -135,6 +139,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - runny honey
+        - coriander seeds
         - agave
         - small lemon
         - chopped pecan pralines
@@ -737,6 +743,8 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - sauerkraut brine
+        - black peppercorns
         - sliced pepperoncinis
         - fine black pepper
         - bell pepper (optional)
@@ -985,6 +993,8 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - fish sauce
+        - Worcestershire sauce or soy sauce
         - ice
         - Light Olive Garden Dressing
         - dry
