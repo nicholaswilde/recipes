@@ -66,3 +66,5 @@
   - **Complex Prep**: Group complex preparation details directly into the ingredient description (e.g., `@pickling cucumbers sliced 1/4-inch thick{1.5%lbs}`).
 - I have removed the Easy Refrigerator Dill Pickles recipe, including its CookLang, Markdown, image files, and menu configurations.
 - I have imported the Tapenade Pasta Salad recipe (Issue #1421).
+- I have imported the Skillet Caramelized Peaches recipe (Issue #1424) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+
