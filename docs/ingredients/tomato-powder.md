@@ -3,7 +3,9 @@ comments: true
 tags:
   - ingredient
 ---
-# :tomato: Tomato Powder
+# Tomato Powder
+
+![Tomato Powder][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -36,9 +38,9 @@ Arrange the tomato slices in a single layer on dehydrator trays or baking sheets
 
 ### Step 3
 
-Dehydrate at 135°F (57°C) in a dehydrator (or in an oven set to its lowest temperature, usually 150°F to 170°F with
-the door propped open slightly) for 8 to 12 hours, or until the slices are completely dry and brittle. They should snap
-when bent, not bend or feel rubbery.
+Dehydrate at 135 °F (57°C) in a dehydrator (or in an oven set to its lowest temperature, usually 150 °F to 170 °F
+with the door propped open slightly) for 8 to 12 hours, or until the slices are completely dry and brittle. They should
+snap when bent, not bend or feel rubbery.
 
 ### Step 4
 
@@ -64,4 +66,6 @@ dressings.)
 ## :link: Source
 
 - <https://www.thespicehouse.com/products/tomato-powder>
+
+[1]: <../assets/images/tomato-powder.webp>
 
