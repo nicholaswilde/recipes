@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - serving bowl
         - refrigerator
         - jam jar
         - frying pan
@@ -139,6 +140,8 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - chopped fresh dill
+        - English cucumbers
         - pickling cucumbers sliced 1/4-inch thick (which is about 5.5 cups)
         - coarse salt
         - runny honey
@@ -663,6 +666,8 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - low-fat plain strained yogurt
+        - light sour cream
         - creamy salted natural peanut butter or almond butter
         - crème fraiche
         - crème fraîche
@@ -745,6 +750,7 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - ground pepper
         - sauerkraut brine
         - black peppercorns
         - sliced pepperoncinis
@@ -995,6 +1001,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - cider vinegar
         - fish sauce
         - Worcestershire sauce or soy sauce
         - ice
