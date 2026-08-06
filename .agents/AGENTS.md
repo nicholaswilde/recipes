@@ -68,5 +68,7 @@
 - I have imported the Tapenade Pasta Salad recipe (Issue #1421).
 - I have imported the Skillet Caramelized Peaches recipe (Issue #1424) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
 - I have imported the Cucumber Chia Limeade recipe (Issue #1425) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+- I have imported the Corn and Avocado Summer Salad recipe (Issue #1426) from Applied Kitchen, using liteparse/tesseract OCR on the issue image.
+
 
 
