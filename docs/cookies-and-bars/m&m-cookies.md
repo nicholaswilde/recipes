@@ -48,6 +48,9 @@ Cut the unsalted butter into 14 even-sized pieces. In a medium skillet, melt 10 
 heat. Continue cooking, swirling pan constantly until golden brown and a nutty aroma forms, 1 to 3 minutes. Remove the
 skillet from heat. Stir the remaining 4 tablespoons of butter into warm butter until completely melted.
 
+!!! tip
+    To make the brown butter a head of time: brown the 10 tablespoons of butter, let it solidify in the fridge, and when you are ready to bake, gently reheat it in a skillet or microwave just until it's warm and liquid again. Then, remove it from the heat and stir in the remaining 4 tablespoons of cold butter.
+
 ### Step 3
 
 In a stand mixer fitted with the whisk attachment, add the browned butter to the mixing bowl. Add the granulated sugar,
