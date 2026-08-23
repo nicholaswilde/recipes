@@ -3,7 +3,7 @@ comments: true
 tags:
   - main
 ---
-# Vegetarian Chicken Pot Pie
+# 🥧 Vegetarian Chicken Pot Pie
 
 ![Vegetarian Chicken Pot Pie][1]{ loading=lazy }
 
@@ -13,31 +13,31 @@ tags:
 
 ## :salt: Ingredients
 
-- :bread: 0.25 cup (30 g) all-purpose flour
-- :herb: 2 tsp (3 g) poultry seasoning
-- :salt: 0.5 tsp kosher salt
-- :salt: 0.5 tsp (2 g) black pepper
-- :stew: 2.5 lb vegetarian chicken pieces (cut into 1-inch pieces)
-- :olive: 1 Tbsp (12 g) vegetable oil
-- :olive: 1 Tbsp (12 g) vegetable oil
-- :stew: 0.5 cup (99 g) vegetable broth
-- :stew: 1.5 cups (297 g) vegetable broth
-- :apple: 1.5 cups (148 g) carrots (sliced)
-- :apple: 1.5 cups (213 g) celery (sliced)
-- :tea: 1 cup (142 g) leeks or chopped onion (sliced)
-- :apple: 1 cup (78 g) cremini mushrooms (sliced)
-- :salt: 0.5 tsp kosher salt
-- :beans: 1 cup (150 g) frozen peas
-- :corn: 0.5 cup (76 g) frozen corn
-- :apple: 2 Tbsp (21 g) fresh thyme leaves
-- :bread: 0.25 cup (30 g) all-purpose flour
-- :takeout_box: 1 cup (227 g) half-and-half
-- :bread: 3 cups (360 g) all-purpose flour
-- :salt: 1 tsp kosher salt
-- :chestnut: 1 Tbsp baking powder
-- :candy: 1 Tbsp (10 g) sugar
-- :glass_of_milk: 0.75 cup (170 g) salted butter (cold, cut up)
-- :baby_bottle: 1.25 cups (284 g) buttermilk
+- 0.25 cup all-purpose flour
+- 2 tsp poultry seasoning
+- 0.5 tsp kosher salt
+- 0.5 tsp black pepper
+- 2.5 lb vegetarian chicken pieces (cut into 1-inch pieces)
+- 1 Tbsp vegetable oil
+- 1 Tbsp vegetable oil
+- 0.5 cup vegetable broth
+- 1.5 cups vegetable broth
+- 1.5 cups carrots (sliced)
+- 1.5 cups celery (sliced)
+- 1 cup leeks or chopped onion (sliced)
+- 1 cup cremini mushrooms (sliced)
+- 0.5 tsp kosher salt
+- 1 cup frozen peas
+- 0.5 cup frozen corn
+- 2 Tbsp fresh thyme leaves
+- 0.25 cup all-purpose flour
+- 1 cup half-and-half
+- 3 cups all-purpose flour
+- 1 tsp kosher salt
+- 1 Tbsp baking powder
+- 1 Tbsp sugar
+- 0.75 cup salted butter (cold, cut up)
+- 1.25 cups buttermilk
 
 ## :cooking: Cookware
 
@@ -87,5 +87,5 @@ Top each serving of pot pie with a biscuit. If you like, garnish with additional
 
 - Magnolia Journal
 
-[1]: <../assets/images/vegetarian-chicken-pot-pie.png>
+[1]: <../assets/images/vegetarian-chicken-pot-pie.webp>
 
