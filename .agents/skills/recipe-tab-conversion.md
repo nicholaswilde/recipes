@@ -32,5 +32,5 @@ Convert recipes with multiple ingredients/instructions headers (e.g., Dough and 
 
 3. **Verify and Validate**:
    - Check tab indentation (exactly 4 spaces) and link references (convert reference links inside tabs to inline links).
-   - Run `rumdl check <recipe_path>`, `task lint-changed`, and `task validate`.
+   - Run `rumdl check <recipe_path>`, `task lint-changed`, `task validate`, and `task validate-cook FILE="<cook_file>"`.
    - Run `task build` to ensure compilation success.

@@ -165,6 +165,18 @@ function do_checks(){
     printf "Mime type is not \`tex/plain\`, %s\n" "${mime_type}"
     exit 1
   fi
+
+  if command_exists cook; then
+    printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
+    local tmp_dir=$(mktemp -d)
+    cp "${1}" "${tmp_dir}/"
+    if ! cook doctor validate --strict -b "${tmp_dir}"; then
+      printf "Cook validation failed for %s\n" "${1}"
+      rm -rf "${tmp_dir}"
+      exit 1
+    fi
+    rm -rf "${tmp_dir}"
+  fi
 }
 
 function get_mime_type(){

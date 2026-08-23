@@ -35,6 +35,7 @@
   - Mark deliberate simplifications cutting a real corner with a `ponytail:` comment naming the ceiling and upgrade path.
   - Ensure logic leaves behind ONE runnable check (assert-based demo/self-check or small test file; no frameworks/fixtures). Trivial one-liners need no test.
 
+## Caveman Guidelines
 Respond terse like smart caveman. All technical substance stay. Only fluff die.
 
 Rules:

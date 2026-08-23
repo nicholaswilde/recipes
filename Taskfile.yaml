@@ -216,6 +216,20 @@ tasks:
         -e 's/ degrees F/°F/'
         -e 's/ degrees/°F/'
         -e 's/([[:digit:]]+)[[:space:]]F/\1°F/' {{shellQuote .FILE }}
+  validate-cook:
+    desc: Validate a CookLang file
+    cmds:
+      - |
+        TMP_DIR=$(mktemp -d)
+        cp "{{.FILE}}" "$TMP_DIR/"
+        cook doctor validate --strict -b "$TMP_DIR"
+        EXIT_CODE=$?
+        rm -rf "$TMP_DIR"
+        exit $EXIT_CODE
+    requires:
+      vars: [FILE]
+
+
   validate:
     desc: Validate zensical.toml
     cmds:

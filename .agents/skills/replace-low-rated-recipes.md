@@ -49,4 +49,4 @@ Once the new recipe is imported:
 
 1. Delete the old `.cook` recipe file and its generated `.md` docs/assets.
 2. Update the navigation in [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) by removing the old file reference and positioning the new file reference alphabetically in the correct category block.
-3. run `task validate` and `task lint-changed` to verify structural and lint correctness.
+3. run `task validate`, `task lint-changed`, and `task validate-cook FILE="<cook_file>"` to verify structural and lint correctness.

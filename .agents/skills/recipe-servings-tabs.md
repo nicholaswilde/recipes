@@ -41,4 +41,4 @@ This skill automates and documents the process of converting multi-serving/batch
      rumdl check path/to/recipe.md
      ```
 
-   - Ensure `task validate` passes successfully.
+   - Ensure `task validate` and `task validate-cook FILE="<cook_file>"` pass successfully.

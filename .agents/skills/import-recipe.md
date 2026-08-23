@@ -34,7 +34,10 @@ repository following the established recipe import workflow.
 
    - **Spellcheck Validation:** When validating spellings, prefer the focused file spellchecker (e.g., `task spellcheck-file FILE="docs/{category}/{recipe-name}.md"`) instead of checking the whole project.
 
-3. **Commit Changes:**
+3. **Validate:**
+   - Run `task validate-cook FILE="cook/{category}/{Recipe Name}.cook"` to ensure CookLang syntax is valid before committing.
+
+4. **Commit Changes:**
    - If not committed automatically by the manual orchestrator, stage and commit files using:
 
      ```bash

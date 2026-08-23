@@ -33,7 +33,7 @@ scales all quantities by the specified factor.
    - Run `rumdl check <recipe_path>` to ensure markdownlint rules pass.
    - Verify that the `Serves` column was removed from the top metadata table (leaving only `Total Time` or other
      columns) to avoid duplication.
-   - Run `task lint-changed` and `task validate`.
+   - Run `task lint-changed`, `task validate`, and `task validate-cook FILE="<cook_file>"`.
    - Run `task build` to ensure the site compiles correctly.
 
 3. **Commit the changes**:
