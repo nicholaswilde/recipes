@@ -218,6 +218,26 @@ To automatically map and fix missing emojis in `includes/emoji.yaml` using simil
 
 * **Under the Hood**: Compares missing terms against existing emoji mappings using keyword-based heuristics (e.g. `cheese` -> `cheese_wedge`, `chili`/`pepper` -> `hot_pepper`, `onion`/`scallion` -> `tea`, `tomato`/`salsa` -> `tomato`, `cream`/`milk`/`butter` -> `glass_of_milk`, cookware containing `pan`/`skillet`/`pot`/`spoon`/`whisk` -> `bowl_with_spoon`), substring matching, word-overlap, and SequenceMatcher similarity. Confident matches are inserted under the matched emoji group, while unmatched terms fallback to generic categories (`takeout_box` for ingredients and `bowl_with_spoon` for cookware). Finally, it runs `task emoji-sort` to maintain ordering.
 
+#### Check and Fix Recipe Header Emojis
+
+To verify that recipe Markdown H1 headers include valid emoji shortcodes (e.g. `# :pie: Recipe Name`):
+
+* **Protocol**:
+
+  ```bash
+  # Check only
+  task check-header-emojis
+  # or directly:
+  uv run scripts/check_header_emojis.py
+
+  # Auto-fix missing header emojis based on category and ingredients
+  task check-header-emojis -- --fix
+  # or directly:
+  uv run scripts/check_header_emojis.py --fix
+  ```
+
+* **Under the Hood**: Parses all recipe markdown files under `docs/`, checks if the H1 header begins with an emoji shortcode `:<name>:`. With `--fix`, matches against category defaults or keyword heuristics in `HEURISTIC_EMOJIS` and prepends the emoji shortcode directly to the Markdown H1 and `.cook` title metadata.
+
 #### Regenerate Typos Configuration
 
 When new words are added to `dictionary.txt`, regenerate the spellchecker exclusions/whitelist:
