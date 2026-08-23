@@ -169,7 +169,6 @@ emoji:
     - coffee beans or chocolate shavings
     - aquafaba drained from one 400g tin of chickpeas
     - ground cardamom
-    - nutmeg
     - ground allspice
     - bittersweet chocolate (chopped (112g))
     - fresh dill
@@ -488,6 +487,10 @@ emoji:
     - feta
     - Parmesan
     - cotija cheese (for garnish)
+    - Alfredo sauce
+    - mozzarella cheese (shredded)
+    - Parmigiano Reggiano cheese (grated)
+    - ricotta cheese
   - cherries:
     - cherry bars
   - chestnut:
@@ -863,6 +866,7 @@ emoji:
     - brussels sprouts
     - fresh spinach (torn)
     - celery (sliced)
+    - frozen spinach (chopped, defrosted and squeezed of some water)
   - lemon:
     - olde tyme lemonade
   - magic_wand:
@@ -875,6 +879,7 @@ emoji:
     - jackfruit
     - pumpkin puree
     - canned pumpkin puree
+    - butternut squash (peeled, sliced lengthwise and cleaned of seeds and string)
   - microbe:
     - sourdough starter
   - monkey_face:
@@ -1006,6 +1011,7 @@ emoji:
   - spaghetti:
     - pasta
     - dried lasagna noodles (broken into bite-size pieces)
+    - no boil lasagna noodles
   - star:
     - star bread
   - stew:
@@ -1155,3 +1161,5 @@ emoji:
     - uncooked bulk Italian sausage
   - poultry_leg:
     - vegetarian chicken pieces (cut into 1-inch pieces)
+  - nut_and_peenut:
+    - nutmeg

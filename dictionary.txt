@@ -1245,3 +1245,5 @@ ziplock
 épi
 épis
 ⅓
+Parmigiano
+Reggiano

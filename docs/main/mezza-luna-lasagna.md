@@ -3,27 +3,27 @@ comments: true
 tags:
   - main
 ---
-# Mezza Luna Lasagna
+# 🌙 Mezza Luna Lasagna
 
 ![Mezza Luna Lasagna][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 6-8 | 1.67 hours |
+| 8 | 1.67 hours |
 
 ## :salt: Ingredients
 
-- 1 large butternut squash (peeled, sliced lengthwise and cleaned of seeds and string)
-- 1 olive oil cooking spray
-- 1 sea salt
-- 1 black pepper
-- 2 jars Alfredo sauce
-- 15 oz ricotta cheese
-- 2 cups frozen spinach (chopped, defrosted and squeezed of some water)
-- 0.25 tsp nutmeg
-- 12 sheets no boil lasagna noodles
-- 1 cup mozzarella cheese (shredded)
-- 0.5 cup Parmigiano Reggiano cheese (grated)
+- :melon: 1 large butternut squash (peeled, sliced lengthwise and cleaned of seeds and string)
+- :olive: 1 olive oil cooking spray
+- :salt: 1 sea salt
+- :salt: 1 black pepper
+- :cheese_wedge: 2 jars Alfredo sauce
+- :cheese_wedge: 15 oz (426 g) ricotta cheese
+- :leafy_green: 2 cups (280 g) frozen spinach (chopped, defrosted and squeezed of some water)
+- :nut_and_peenut: 0.25 tsp nutmeg
+- :spaghetti: 12 sheets no boil lasagna noodles
+- :cheese_wedge: 1 cup (113 g) mozzarella cheese (shredded)
+- :cheese_wedge: 0.5 cup (50 g) Parmigiano Reggiano cheese (grated)
 
 ## :cooking: Cookware
 
@@ -60,5 +60,5 @@ bubbly. Remove from oven and rest 15 minutes before slicing.
 
 - <https://www.traderjoes.com/home/recipes/mezza-luna-lasagna>
 
-[1]: <../assets/images/mezza-luna-lasagna.png>
+[1]: <../assets/images/mezza-luna-lasagna.webp>
 
