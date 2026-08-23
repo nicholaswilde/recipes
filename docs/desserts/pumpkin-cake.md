@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
 ---
-# Pumpkin Cake
+# 🍰 Pumpkin Cake
 
 ![Pumpkin Cake][1]{ loading=lazy }
 
@@ -29,7 +29,7 @@ tags:
 - :glass_of_milk: 0.5 cup (113 g) salted butter (melted)
 - :takeout_box: 1 Salted Caramel Sauce
 - :ice_cream: 1 vanilla ice cream
-- :apple: 1 flaky sea salt (optional)
+- :salt: 1 flaky sea salt (optional)
 
 ## :cooking: Cookware
 
@@ -69,5 +69,5 @@ cream, and flaky sea salt (optional).
 
 - Magnolia Journal
 
-[1]: <../assets/images/pumpkin-cake.png>
+[1]: <../assets/images/pumpkin-cake.webp>
 
