@@ -3,6 +3,7 @@ comments: true
 tags:
   - main
 ---
+
 # :crescent_moon: Mezza Luna Lasagna
 
 ![Mezza Luna Lasagna][1]{ loading=lazy }
@@ -17,8 +18,8 @@ tags:
 - :olive: 1 olive oil cooking spray
 - :salt: 1 sea salt
 - :salt: 1 black pepper
-- :cheese_wedge: 2 jars Alfredo sauce
-- :cheese_wedge: 15 oz (426 g) ricotta cheese
+- :cheese_wedge: 2 jars [Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md)
+- :cheese_wedge: 15 oz (426 g) [Ricotta](../ingredients/ricotta.md) cheese
 - :leafy_green: 2 cups (280 g) frozen spinach (chopped, defrosted and squeezed of some water)
 - :peanuts: 0.25 tsp nutmeg
 - :spaghetti: 12 sheets no boil lasagna noodles
@@ -39,17 +40,22 @@ cool; lower oven temperature to 350°F.
 
 ### Step 2
 
-Empty Alfredo sauce into a sauce pan; warm over very low heat, just enough to liquefy, and remove from heat. Place
-ricotta cheese, frozen spinach (chopped, defrosted and squeezed of some water), nutmeg and a pinch of salt into a bowl
-and combine. Set aside.
+Empty [Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md) into a sauce pan; warm over very
+low heat, just enough to liquefy, and remove from heat. Place [Ricotta](../ingredients/ricotta.md) cheese, frozen
+spinach (chopped, defrosted and squeezed of some water), nutmeg and a pinch of salt into a bowl and combine. Set aside.
 
 ### Step 3
 
-Assemble lasagna: Coat the bottom of a 9x13-inch baking dish with a light layer of Alfredo sauce. Place four sheets of
-no boil lasagna noodles side by side and top them with more Alfredo sauce. Next, add squash in a single layer. Top
-squash with more Alfredo sauce and another layer of noodles. Top noodles with all of the ricotta-spinach mixture and
-smooth out. Top with another layer of noodles, then Alfredo sauce and the last of the squash. Pour over the remainder of
-Alfredo sauce and top with mozzarella cheese (shredded) and Parmigiano Reggiano cheese (grated).
+Assemble lasagna: Coat the bottom of a 9x13-inch baking dish with a light layer of
+[Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md). Place four sheets of no boil lasagna
+noodles side by side and top them with more
+[Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md). Next, add squash in a single layer.
+Top squash with more [Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md) and another layer
+of noodles. Top noodles with all of the [Ricotta](../ingredients/ricotta.md)-spinach mixture and smooth out. Top with
+another layer of noodles, then [Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md) and the
+last of the squash. Pour over the remainder of
+[Alfredo Sauce](../sauces-and-dressings/gravy-and-savory-sauces/alfredo-sauce.md) and top with mozzarella cheese
+(shredded) and Parmigiano Reggiano cheese (grated).
 
 ### Step 4
 
@@ -61,4 +67,3 @@ bubbly. Remove from oven and rest 15 minutes before slicing.
 - <https://www.traderjoes.com/home/recipes/mezza-luna-lasagna>
 
 [1]: <../assets/images/mezza-luna-lasagna.webp>
-
