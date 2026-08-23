@@ -63,6 +63,6 @@ This skill safely and completely renames a recipe along with all of its associat
    - Verify there are no syntax or formatting issues.
 
 7. **Git Commit & Push:**
-   - Stage all modified files (`git add`).
+   - Stage all modified files (`rtk git add`).
    - Commit using conventional commit format (e.g., `refactor({category}): rename {Old Name} to {New Name}`).
    - Push to the remote repository.

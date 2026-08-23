@@ -41,6 +41,6 @@ scales all quantities by the specified factor.
    Commit the recipe and script changes following standard commit guidelines:
 
    ```bash
-   git add <recipe_path>
-   git commit -m "docs(recipes): Add <tab_name> size tab to <recipe_name>"
+   rtk git add <recipe_path>
+   rtk git commit -m "docs(recipes): Add <tab_name> size tab to <recipe_name>"
    ```

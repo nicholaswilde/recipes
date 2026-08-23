@@ -47,6 +47,6 @@ This skill enables developers to add/remove tags and modify other frontmatter me
    Commit the changes following standard commit guidelines:
 
    ```bash
-   git add <recipe_path>
-   git commit -m "docs(recipes): Adjust metadata for <recipe_name>"
+   rtk git add <recipe_path>
+   rtk git commit -m "docs(recipes): Adjust metadata for <recipe_name>"
    ```

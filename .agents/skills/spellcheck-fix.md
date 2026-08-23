@@ -41,5 +41,5 @@ This skill leverages the Rust-based `typos` engine to quickly scan the repositor
    - Re-run `task spellcheck` (which will regenerate `_typos.toml` with the newly whitelisted term and run the check again).
 
 4. **Verify and Deploy**:
-   - Verify the modifications using `git diff`.
+   - Verify the modifications using `rtk git diff`.
    - Stage, commit, and push the changes following conventional commit guidelines.

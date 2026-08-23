@@ -17,19 +17,19 @@ for typical repository failures. All `gh` commands must be piped to `cat` to byp
 Run the following command to check the status of the 10 most recent workflow runs:
 
 ```bash
-gh run list --limit 10 | cat
+rtk gh run list --limit 10 | cat
 ```
 
 If a run shows `failed`, retrieve its detailed job list using the run ID:
 
 ```bash
-gh run view <run-id> | cat
+rtk gh run view <run-id> | cat
 ```
 
 To fetch the full logs for a specific failed job:
 
 ```bash
-gh run view --log --job=<job-id> | cat
+rtk gh run view --log --job=<job-id> | cat
 ```
 
 ---
@@ -98,13 +98,13 @@ Based on the job logs, apply the corresponding fix protocol:
 * Push the staged fixes to `main`:
 
   ```bash
-  git add -A
-  git commit -m "fix: resolve CI workflow failures"
-  git push origin main
+  rtk git add -A
+  rtk git commit -m "fix: resolve CI workflow failures"
+  rtk git push origin main
   ```
 
 * Re-run the monitor command to ensure the new push triggers a green `success` status:
 
   ```bash
-  gh run list --limit 5 | cat
+  rtk gh run list --limit 5 | cat
   ```

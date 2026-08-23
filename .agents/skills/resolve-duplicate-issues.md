@@ -36,7 +36,7 @@ uv run scripts/find_duplicate_issues.py --close
 Review the close matches section printed by the script. For any verified duplicate, close it using the GitHub CLI:
 
 ```bash
-gh issue close <issue-number> -c "Closed as duplicate. Existing recipe: <relative-path-to-recipe>"
+rtk gh issue close <issue-number> -c "Closed as duplicate. Existing recipe: <relative-path-to-recipe>" | cat
 ```
 
-*(Example: `gh issue close 1285 -c "Closed as duplicate. Existing recipe: docs/beverages/hot-chocolate.md"`)*
+*(Example: `rtk gh issue close 1285 -c "Closed as duplicate. Existing recipe: docs/beverages/hot-chocolate.md"`)*

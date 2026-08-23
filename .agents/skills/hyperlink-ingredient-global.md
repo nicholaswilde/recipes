@@ -38,7 +38,7 @@ ingredient, and updating them with relative hyperlinks pointing to the ingredien
    - Stage and commit the modified recipe files and push to origin:
 
      ```bash
-     git add -A
-     git commit -m "docs(recipes): Globally hyperlink '<Ingredient Name>'"
-     git push
+     rtk git add -A
+     rtk git commit -m "docs(recipes): Globally hyperlink '<Ingredient Name>'"
+     rtk git push
      ```

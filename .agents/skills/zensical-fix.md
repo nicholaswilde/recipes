@@ -28,7 +28,7 @@ and correct them instantly across recipe markdown files.
      - Re-run `zensical build --clean` to verify that the build succeeds with exit code 0.
 
 2. **Verify and Deploy**:
-   - Verify that `git status` lists only the expected changes.
+   - Verify that `rtk git status` lists only the expected changes.
    - Run a clean build manually if needed to confirm zero warnings:
 
      ```bash

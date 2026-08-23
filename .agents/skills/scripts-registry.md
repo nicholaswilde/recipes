@@ -92,7 +92,7 @@ To orchestrate the import, emoji checking/fixing, unit conversion, spelling vali
   uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
   ```
 
-* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check_recipe_emojis.py --fix` to automatically map missing emojis, `scripts/convert_recipe_units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Optionally prompts for GitHub issues and automates conventional git commits.
+* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check_recipe_emojis.py --fix` to automatically map missing emojis, `scripts/convert_recipe_units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Optionally prompts for GitHub issues and automates conventional rtk git commits.
 
 #### Automated PDF Recipe Import Workflow
 

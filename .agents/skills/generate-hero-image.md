@@ -31,7 +31,7 @@ This skill automates the creation of a hero image for a recipe using the `genera
 5. **Commit the Changes:**
    Add and commit the new `.jpg` source image, the compiled `.md` markdown file, and the `.webp` image to version control.
    ```bash
-   git add "cook/<category>/<Recipe Name>.jpg" "docs/<category>/<recipe-name>.md" "docs/assets/images/<recipe-name>.webp"
-   git commit -m "feat: add hero image for <Recipe Name>"
-   git push
+   rtk git add "cook/<category>/<Recipe Name>.jpg" "docs/<category>/<recipe-name>.md" "docs/assets/images/<recipe-name>.webp"
+   rtk git commit -m "feat: add hero image for <Recipe Name>"
+   rtk git push
    ```

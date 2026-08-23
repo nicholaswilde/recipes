@@ -21,7 +21,7 @@ This skill leverages `lychee` to scan all external hyperlinks across markdown fi
    - Since `lychee` checks thousands of links, isolate actual `404 Not Found` errors by searching the task logs:
 
      ```bash
-     grep "\[404\]" .system_generated/tasks/<task-id>.log
+     rtk grep "\[404\]" .system_generated/tasks/<task-id>.log
      ```
 
 ## (Or grep within your terminal runner's log file)
