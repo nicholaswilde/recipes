@@ -3,7 +3,7 @@ comments: true
 tags:
   - main
 ---
-# 🌙 Mezza Luna Lasagna
+# :crescent_moon: Mezza Luna Lasagna
 
 ![Mezza Luna Lasagna][1]{ loading=lazy }
 

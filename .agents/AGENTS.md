@@ -76,3 +76,4 @@
 - I have imported the Gurkensalat (German Cucumber Salad) recipe (Issue #1413) from EatingWell.
 - I have created a recipe for homemade Vegetarian Fish Sauce from America's Test Kitchen.
 - When updating or generating `*.cook` files, always validate them manually by running `task validate-cook FILE="path/to/recipe.cook"` (or `cook doctor validate --strict`) before running compilation scripts or committing.
+- When adding an emoji to a recipe's markdown title/header (or `.cook` title metadata), always use the text-based emoji shortcode (e.g., `:crescent_moon:`) rather than pasting the actual Unicode emoji character (e.g., `🌙`).

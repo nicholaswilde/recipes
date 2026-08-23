@@ -4,7 +4,7 @@ tags:
   - soup
   - stew
 ---
-# 🥣 Lasagna Soup
+# :bowl_with_spoon: Lasagna Soup
 
 ![Lasagna Soup][1]{ loading=lazy }
 

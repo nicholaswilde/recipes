@@ -3,7 +3,7 @@ comments: true
 tags:
   - main
 ---
-# 🥧 Vegetarian Chicken Pot Pie
+# :pie: Vegetarian Chicken Pot Pie
 
 ![Vegetarian Chicken Pot Pie][1]{ loading=lazy }
 

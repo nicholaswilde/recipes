@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
 ---
-# 🍰 Pumpkin Cake
+# :cake: Pumpkin Cake
 
 ![Pumpkin Cake][1]{ loading=lazy }
 
