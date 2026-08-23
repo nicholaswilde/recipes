@@ -141,6 +141,11 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - uncooked bulk Italian sausage
+        - fresh spinach (torn)
+        - fresh basil (chopped)
+        - dried lasagna noodles (broken into bite-size pieces)
+        - dried Italian seasoning (crushed)
         - fresh thyme leaves
         - cremini mushrooms (sliced)
         - celery (sliced)
@@ -462,6 +467,7 @@ emoji:
     - champagne:
         - ina garten's perfect vinaigrette
     - cheese_wedge:
+        - Shredded Parmesan cheese
         - shredded Parmesan
         - mozzarella pearls
         - feta or Cotija cheese
@@ -662,6 +668,7 @@ emoji:
     - four_leaf_clover:
         - irish soda bread
     - garlic:
+        - garlic (minced)
         - organic garlic
         - hot
         - garlic clove, finely chopped
@@ -675,6 +682,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - whole-milk ricotta
         - salted butter (cold, cut up)
         - salted butter (softened)
         - salted butter (melted)
@@ -763,6 +771,7 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - red, yellow, or orange bell pepper (chopped)
         - ground pepper
         - sauerkraut brine
         - black peppercorns
@@ -987,6 +996,7 @@ emoji:
     - star:
         - star bread
     - stew:
+        - reduced-sodium chicken broth
         - vegetarian chicken pieces (cut into 1-inch pieces)
         - vegetable or chicken broth
         - chicken breast
@@ -1062,6 +1072,7 @@ emoji:
         - Fiori di Sicilia
         - dill pickle juice
     - tea:
+        - onion (chopped)
         - leeks or chopped onion (sliced)
         - red onion (optional)
         - thinly sliced sweet onion
@@ -1090,6 +1101,7 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - diced tomatoes (undrained)
         - heirloom cherry tomatoes
         - fresh tomato
         - small tomato
