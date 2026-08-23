@@ -39,13 +39,13 @@ tags:
 
 Stir together reduced-sodium chicken broth, tomato sauce, diced tomatoes (undrained), onion (chopped), red, yellow, or
 orange bell pepper (chopped), dried Italian seasoning (crushed), and garlic (minced) in a 5- to 6-qt slow cooker. Cover
-and cook on low 0 hours or on high 0 hours.
+and cook on low 7 to 8 hours or on high 4.5 to 5 hours.
 
 ### Step 2
 
 Drop uncooked bulk Italian sausage by teaspoonfuls into broth mixture. Stir in dried lasagna noodles (broken into
-bite-size pieces). If cooking on low, turn slow cooker to high. Cook 0 minutes more or until noodles are tender. Stir in
-fresh spinach (torn).
+bite-size pieces). If cooking on low, turn slow cooker to high. Cook 45 to 60 minutes more or until noodles are tender.
+Stir in fresh spinach (torn).
 
 ### Step 3
 

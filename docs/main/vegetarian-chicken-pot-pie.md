@@ -54,7 +54,7 @@ pieces (cut into 1-inch pieces); toss to coat.
 
 ### Step 2
 
-Heat vegetable oil in a large skillet over medium-high. Add half of the vegetarian chicken; cook 0 minutes or until
+Heat vegetable oil in a large skillet over medium-high. Add half of the vegetarian chicken; cook 4 to 5 minutes or until
 browned, stirring occasionally. Transfer to a 5- to 6-qt. slow cooker. Repeat with the remaining vegetable oil and the
 remaining vegetarian chicken. Deglaze pan with vegetable broth, scraping up any browned bits; transfer to slow cooker.
 Add the remaining vegetable broth, carrots (sliced), celery (sliced), leeks or chopped onion (sliced), cremini mushrooms
@@ -62,7 +62,7 @@ Add the remaining vegetable broth, carrots (sliced), celery (sliced), leeks or c
 
 ### Step 3
 
-Cover and cook on low 0 hours or on high 0 hours.
+Cover and cook on low 8 to 10 hours or on high 4 to 5 hours.
 
 ### Step 4
 
@@ -77,7 +77,7 @@ kosher salt, baking powder, and sugar. Using a pastry blender, cut in salted but
 coarse crumbs. Add buttermilk. Using a fork, stir just until mixture is moistened. Turn dough out onto a lightly floured
 surface. Knead dough just until it holds together. Place on a parchment paper-lined baking sheet. Pat dough into a
 rectangle. Cut into eight squares. Separate squares slightly. If you like, brush with additional buttermilk and sprinkle
-with additional pepper. Bake 0 minutes or until golden.
+with additional pepper. Bake 14 to 16 minutes or until golden.
 
 ### Step 6
 
