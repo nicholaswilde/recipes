@@ -75,3 +75,4 @@
 - I have imported the Tomato Powder ingredient (Issue #1403).
 - I have imported the Gurkensalat (German Cucumber Salad) recipe (Issue #1413) from EatingWell.
 - I have created a recipe for homemade Vegetarian Fish Sauce from America's Test Kitchen.
+- When updating or generating `*.cook` files, always validate them manually by running `task validate-cook FILE="path/to/recipe.cook"` (or `cook doctor validate --strict`) before running compilation scripts or committing.
