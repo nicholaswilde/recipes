@@ -155,6 +155,9 @@ function move_files(){
   fi
 
   mv "${markdown_path}" "${new_markdown_path}"
+  
+  # Auto-hyperlink internal ingredients and format
+  uv run scripts/auto_hyperlink_recipe.py "${new_markdown_path}" || true
 
   recipe_name=$(get_recipe_name "${recipe_path}")
   relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")

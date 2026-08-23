@@ -157,6 +157,7 @@ def main():
     print("\n--- Step 4: Converting volumetric units to weights ---")
     convert_cmd = ["uv", "run", "scripts/convert_recipe_units.py", md_path]
     run_command(convert_cmd)
+    run_command(["rumdl", "fmt", md_path])
     
     # Step 5: Run spellcheck & whitelist
     print("\n--- Step 5: Running spellchecker and auto-whitelisting proper nouns ---")
