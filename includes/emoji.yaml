@@ -926,8 +926,6 @@ emoji:
     - peach bars
   - peanut:
     - best ever peanut butter bars
-  - peanuts:
-    - peanut butter overnight oats
   - pear:
     - pear tarte tatin
   - pie:
@@ -1161,5 +1159,6 @@ emoji:
     - uncooked bulk Italian sausage
   - poultry_leg:
     - vegetarian chicken pieces (cut into 1-inch pieces)
-  - nut_and_peenut:
+  - peanuts:
+    - peanut butter overnight oats
     - nutmeg

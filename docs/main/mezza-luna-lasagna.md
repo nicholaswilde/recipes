@@ -20,7 +20,7 @@ tags:
 - :cheese_wedge: 2 jars Alfredo sauce
 - :cheese_wedge: 15 oz (426 g) ricotta cheese
 - :leafy_green: 2 cups (280 g) frozen spinach (chopped, defrosted and squeezed of some water)
-- :nut_and_peenut: 0.25 tsp nutmeg
+- :peanuts: 0.25 tsp nutmeg
 - :spaghetti: 12 sheets no boil lasagna noodles
 - :cheese_wedge: 1 cup (113 g) mozzarella cheese (shredded)
 - :cheese_wedge: 0.5 cup (50 g) Parmigiano Reggiano cheese (grated)
