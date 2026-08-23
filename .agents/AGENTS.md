@@ -61,7 +61,7 @@
 - When writing CookLang files, adhere to the following formatting standards:
   - **Inline Ingredients**: Do NOT list ingredients separately at the top. Inline them directly into the step instructions where they are first used.
   - **Clean Formatting**: Use standard decimals or fractions (e.g., `1.5`, `1/8`) and avoid HTML entities like `&amp; 1/2`.
-  - **Timers**: Use proper CookLang timer syntax for time durations (e.g., `~{1%hour}` instead of `1 hour`).
+  - **Timers**: Use proper CookLang timer syntax for time durations (e.g., `~{1%hour}` instead of `1 hour`). For time ranges, do NOT use hyphens inside the timer. Instead, use plain text for the first number and CookLang syntax for the second (e.g., `7 to ~{8%hours}` instead of `~{7-8%hours}`).
   - **Units**: Use standard abbreviations for units (e.g., `Tbsp`, `tsp`, `lbs`, `cup`).
   - **Complex Prep**: Group complex preparation details directly into the ingredient description (e.g., `@pickling cucumbers sliced 1/4-inch thick{1.5%lbs}`).
 - I have removed the Easy Refrigerator Dill Pickles recipe, including its CookLang, Markdown, image files, and menu configurations.
