@@ -13,9 +13,10 @@ Import recipe from URL or GitHub issue.
 2. **Manual Exceptions (Image/PDF/Unscrapable):**
    - Extract text (`lit parse` via `liteparse` skill).
    - Draft `.cook` file (use YAML frontmatter to pass strict validation).
+   - Generate a hero image using the `generate-hero-image` skill (do NOT reuse the original issue image).
    - Run manual orchestrator:
      ```bash
-     uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
+     uv run scripts/import_manual_recipe.py <cook_file> [-i <generated_image_path>] [-c <category>] [-n <issue_number>] [--commit]
      ```
 
 3. **PDF Automation:**

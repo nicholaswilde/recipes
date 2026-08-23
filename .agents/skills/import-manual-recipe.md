@@ -7,10 +7,11 @@ Guide for importing recipes from manual sources, images, PDFs, or unscrapable we
 1. **Extract/Format:**
    - Image/PDF: Download and extract text (`lit parse` via `liteparse` skill).
    - Format into CookLang `.cook` file (use YAML metadata to pass strict validation).
+   - Generate a hero image using the `generate-hero-image` skill (do NOT reuse original issue/source images).
 
 2. **Run Orchestrator:**
    ```bash
-   uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
+   uv run scripts/import_manual_recipe.py <cook_file> [-i <generated_image_path>] [-c <category>] [-n <issue_number>] [--commit]
    ```
    *Example:*
    ```bash
