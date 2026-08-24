@@ -21,7 +21,7 @@ Guide for importing recipes from manual sources, images, PDFs, or unscrapable we
 3. **Pipeline Steps (Auto):**
    - Copies `.cook` and image to `cook/<category>/`.
    - Runs `move.sh` to compile Markdown in `docs/`, WebP image, and `cook doctor validate`.
-   - Runs `check_recipe_emojis.py --fix`.
+   - Runs `check_recipe_emojis.py --fix` and `check_header_emojis.py --fix`.
    - Runs `convert_recipe_units.py` (weights/emojis).
    - Spellchecks via `generate_typos_config.py` and `typos`.
    - Commits via `gh` CLI.

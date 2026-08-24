@@ -135,6 +135,8 @@ def main():
     print("\n--- Step 4: Converting volumetric units to weights ---")
     convert_cmd = ["uv", "run", "scripts/convert_recipe_units.py", md_path]
     run_command(convert_cmd)
+    print("\n--- Checking Header Emojis ---")
+    run_command(["uv", "run", "scripts/check_header_emojis.py", "--fix", md_path])
     run_command(["rumdl", "fmt", md_path])
     
     # Step 5: Run spellcheck & whitelist
