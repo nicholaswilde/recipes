@@ -12,6 +12,23 @@
 #
 ################################################################################
 
+
+import markdown
+try:
+    import pymdownx.emoji
+except ImportError:
+    pymdownx = None
+
+def get_valid_gemoji():
+    if not pymdownx:
+        return None
+    try:
+        md = markdown.Markdown()
+        res = pymdownx.emoji.gemoji(options={}, md=md)
+        return set(k.strip(":") for k in res.get("emoji", {}).keys())
+    except Exception:
+        return None
+
 import os
 import re
 import sys
@@ -322,6 +339,7 @@ def main():
                     files_to_check.append(os.path.join(root, file))
 
     emoji_mappings = load_emoji_mappings(EMOJI_YAML_PATH)
+    VALID_GEMOJI = get_valid_gemoji()
     # Get all uniquely defined emoji shortcodes in emoji.yaml keys
     try:
         with open(EMOJI_YAML_PATH, "r", encoding="utf-8") as f:
@@ -337,6 +355,7 @@ def main():
 
     missing_emoji_files = []
     unregistered_emoji_files = []
+    invalid_emoji_files = []
     total_checked = 0
     fixed_count = 0
     emoji_yaml_modified = False
@@ -347,7 +366,10 @@ def main():
         
         if is_valid:
             # Check if the emoji used is present in emoji.yaml
-            if emoji in allowed_emojis:
+            if VALID_GEMOJI and emoji not in VALID_GEMOJI:
+                print(f"  \u274c {file_path}: :{emoji}: (INVALID GEMOJI SHORTCODE)")
+                invalid_emoji_files.append((file_path, title, emoji))
+            elif emoji in allowed_emojis:
                 if args.verbose:
                     print(f"  \u2705 {file_path}: :{emoji}: (Mapped in emoji.yaml)")
             else:
@@ -395,6 +417,11 @@ def main():
         sys.exit(0)
         
     has_errors = False
+    if invalid_emoji_files:
+        print(f"\nFound {len(invalid_emoji_files)} file(s) with INVALID emoji shortcodes:")
+        for path, title, emoji in invalid_emoji_files:
+            print(f"- {path}: '{title}' (Emoji :{emoji}: does not exist in gemoji)")
+        has_errors = True
     if missing_emoji_files:
         print(f"\nFound {len(missing_emoji_files)} file(s) missing an emoji shortcode in H1 header:")
         for path, title, suggestion in missing_emoji_files:

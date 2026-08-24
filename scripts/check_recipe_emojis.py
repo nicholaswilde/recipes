@@ -14,6 +14,23 @@
 
 import sys
 import re
+
+import markdown
+try:
+    import pymdownx.emoji
+except ImportError:
+    pymdownx = None
+
+def get_valid_gemoji():
+    if not pymdownx:
+        return None
+    try:
+        md = markdown.Markdown()
+        res = pymdownx.emoji.gemoji(options={}, md=md)
+        return set(k.strip(":") for k in res.get("emoji", {}).keys())
+    except Exception:
+        return None
+
 import os
 import argparse
 import difflib
@@ -222,6 +239,7 @@ def main():
         sys.exit(1)
         
     mappings = load_emoji_mappings(emoji_path)
+    VALID_GEMOJI = get_valid_gemoji()
     
     missing_ingredients = []
     missing_cookware = []
@@ -233,7 +251,11 @@ def main():
     for ing in sorted(ingredients):
         match = find_match(ing, mappings["ingredients"])
         if match:
-            print(f"  \u2705 {ing:<30} -> :{match}:")
+            if VALID_GEMOJI and match not in VALID_GEMOJI:
+                print(f"  \u274c {ing:<30} -> :{match}: (INVALID GEMOJI SHORTCODE)")
+                missing_ingredients.append(ing)
+            else:
+                print(f"  \u2705 {ing:<30} -> :{match}:")
         else:
             print(f"  \u274c {ing:<30} -> MISSING EMOJI")
             missing_ingredients.append(ing)
@@ -242,7 +264,11 @@ def main():
     for cw in sorted(cookware):
         match = find_match(cw, mappings["cookware"])
         if match:
-            print(f"  \u2705 {cw:<30} -> :{match}:")
+            if VALID_GEMOJI and match not in VALID_GEMOJI:
+                print(f"  \u274c {cw:<30} -> :{match}: (INVALID GEMOJI SHORTCODE)")
+                missing_cookware.append(cw)
+            else:
+                print(f"  \u2705 {cw:<30} -> :{match}:")
         else:
             print(f"  \u274c {cw:<30} -> MISSING EMOJI")
             missing_cookware.append(cw)
@@ -302,9 +328,9 @@ def main():
     if missing_ingredients or missing_cookware:
         print("Warning: Missing emoji mappings found.")
         if missing_ingredients:
-            print(f"Missing ingredients in includes/emoji.yaml: {', '.join(missing_ingredients)}")
+            print(f"Missing/Invalid ingredients in includes/emoji.yaml: {', '.join(missing_ingredients)}")
         if missing_cookware:
-            print(f"Missing cookware in includes/emoji.yaml: {', '.join(missing_cookware)}")
+            print(f"Missing/Invalid cookware in includes/emoji.yaml: {', '.join(missing_cookware)}")
         sys.exit(1)
     else:
         print("All ingredients and cookware are successfully mapped to emojis!")
