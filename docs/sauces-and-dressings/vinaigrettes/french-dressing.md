@@ -17,7 +17,7 @@ hero: assets/images/french-dressing.webp
 ## :salt: Ingredients
 
 - :candy: 1 cup (156 g) sugar
-- 0.67 cup [ketchup][1]
+- :tomato: 0.67 cup [ketchup][1]
 - :olive: 0.5 cup (100 g) olive oil
 - :takeout_box: 0.5 cup (53 g) white vinegar
 - :leafy_green: 0.5 tsp (1 g) celery seed
