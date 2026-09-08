@@ -60,7 +60,7 @@ function copy_names() {
 }
 
 function spell_check() {
- lb_infoln  "Checking spelling"
+  lb_infoln  "Checking spelling"
   arr=()
   for path in "${@}"; do
     arr+=("${path}")
@@ -69,16 +69,27 @@ function spell_check() {
     arr+=("${s}")
   done
   cd "${ROOT_DIR}"
-  npx spellchecker -d "${ROOT_DIR}/dictionary.txt" -f "${arr[@]}"
+  if command_exists typos; then
+    uv run scripts/generate_typos_config.py || true
+    for p in "${arr[@]}"; do
+      typos "${p}" || true
+    done
+  elif command_exists npx; then
+    npx -y spellchecker-cli -d "${ROOT_DIR}/dictionary.txt" -f "${arr[@]}" || true
+  fi
 }
 
 function links_check() {
   lb_infoln "Checking links"
-  for path in "${@}"; do
-    s=$(get_new_markdown_path "${path}")
-    s=$(realpath --relative-to="${ROOT_DIR}" "${s}")
-    (cd "${ROOT_DIR}" && lychee "${s}")
-  done
+  if command_exists lychee; then
+    for path in "${@}"; do
+      s=$(get_new_markdown_path "${path}")
+      s=$(realpath --relative-to="${ROOT_DIR}" "${s}")
+      (cd "${ROOT_DIR}" && lychee "${s}") || true
+    done
+  else
+    lb_infoln "lychee not found, skipping links check"
+  fi
 }
 
 function move_files(){

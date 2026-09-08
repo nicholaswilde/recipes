@@ -1,6 +1,9 @@
+---
 emoji:
   cookware:
   - bowl_with_spoon:
+    - small container
+    - larger container
     - serving bowl
     - refrigerator
     - jam jar
@@ -140,6 +143,7 @@ emoji:
     - patterned rolling pin
   ingredients:
   - apple:
+    - dry starter granules
     - mushroom powder (e.g., Po Ku)
     - chopped fresh dill
     - English cucumbers
@@ -616,6 +620,7 @@ emoji:
   - doughnut:
     - apple cider doughnuts
   - droplet:
+    - lukewarm water
     - canola oil spray
     - water
     - hot water
@@ -1009,7 +1014,7 @@ emoji:
   - spaghetti:
     - pasta
     - dried lasagna noodles (broken into bite-size pieces)
-    - no boil lasagna noodles
+    - "no boil lasagna noodles"
   - star:
     - star bread
   - stew:
