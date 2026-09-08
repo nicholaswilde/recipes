@@ -9,7 +9,7 @@ repo_url = "https://github.com/nicholaswilde/recipes"
 repo_name = "nicholaswilde/recipes"
 edit_uri = "edit/main/docs/"
 plugins = [
-  { tags = { tags_file = "tags.md" } },
+  "tags",
   "search",
   { minify = { minify_html = true } },
 ]
