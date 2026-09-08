@@ -1247,3 +1247,5 @@ ziplock
 ⅓
 Parmigiano
 Reggiano
+Ghirardelli
+ghirardelli

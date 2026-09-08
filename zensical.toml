@@ -417,6 +417,7 @@ Desserts = [
   { "Fruit Sorbet" = "desserts/fruit-sorbet.md" },
   { "Funfetti Cake" = "desserts/cake/funfetti-cake.md" },
   { "Galette des Rois" = "desserts/cake/galette-des-rois.md" },
+  { "Ghirardelli Brownie Mix" = "desserts/ghirardelli-brownie-mix.md" },
   { "Gingerbread Caramel Corn" = "desserts/gingerbread-caramel-corn.md" },
   { "Gordon Ramsay's Chocolate Soufflé" = "desserts/gordon-ramsay's-chocolate-soufflé.md" },
   { "Grammys Texas Sheet Cake" = "desserts/cake/grammys-texas-sheet-cake.md" },
