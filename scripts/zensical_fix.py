@@ -63,6 +63,13 @@ def main():
     # 2. Run zensical build and capture output
     # Since zensical build prints to stdout/stderr, we combine them
     code, stdout, stderr = run_command(["zensical", "build", "--clean"])
+    
+    if code < 0 or code > 128:
+        print(f"Error: zensical build failed with exit code {code} (likely killed/OOM if negative).")
+        print(stdout)
+        print(stderr)
+        sys.exit(code)
+
     output = stdout + "\n" + stderr
     # Strip ANSI escape sequences
     ansi_escape = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
