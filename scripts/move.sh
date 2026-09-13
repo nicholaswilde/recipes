@@ -167,6 +167,9 @@ function move_files(){
 
   mv "${markdown_path}" "${new_markdown_path}"
   
+  # Inject frontmatter from .cook to .md
+  uv run scripts/inject_frontmatter.py "${recipe_path}" "${new_markdown_path}" || true
+  
   # Auto-hyperlink internal ingredients and format
   uv run scripts/auto_hyperlink_recipe.py "${new_markdown_path}" || true
 
