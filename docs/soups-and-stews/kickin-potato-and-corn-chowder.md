@@ -1,49 +1,47 @@
 ---
 comments: true
 tags:
-
-  - chowder
-  - the-blue-zones-kitchen
-hero: assets/images/kickin-potato-and-corn-chowder.webp
+  - soup
+  - stew
 ---
 
-# :stew: Kickin Potato & Corn Chowder
+# :potato: Kickin Potato and Corn Chowder
 
 ![Kickin Potato and Corn Chowder][1]{ loading=lazy }
 
-| :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
-|:----------------------------------:|:-----------------------: |
-| 4 | 50 minutes |
+| :timer_clock: Total Time |
+|:-----------------------: |
+| 50 minutes |
 
 ## :salt: Ingredients
 
-- 2 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- 2 cups [vegetable broth](../ingredients/vegetable-broth.md)
 - :glass_of_milk: 2 cups (168 g) unsweetened soy milk
 - :chestnut: 1 tsp (2 g) cornstarch
 - :hot_pepper: 2 whole poblanos peppers
-- :corn: 1.5 cups (8 g) corn kernels
+- :bread: 1.5 cups (8 g) corn kernels
 - :olive: 2 Tbsp (28 g) avocado oil
 - :tea: 1 medium onion
 - :hot_pepper: 1 jalapeño
 - :garlic: 3 cloves garlic
 - :chestnut: 0.5 tsp (2 g) cumin
-- :chestnut: 0.5 tsp (1 g) coriander
+- :apple: 0.5 tsp (1 g) coriander
 - :herb: 0.5 tsp oregano
 - :salt: 1 tsp salt
-- :sweet_potato: 1 lb Yukon gold potatoes
+- :beans: 1 lb Yukon gold potatoes
 - :tangerine: 1 lime juice
 - :herb: 0.25 cup (10 g) cilantro
 
 ## :cooking: Cookware
 
-- :bowl_with_spoon: 1 medium bowl
+- 1 medium bowl
 - 1 large heavy-bottomed soup pot
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Combine the [Vegetable Broth](../ingredients/vegetable-broth.md) and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
+Combine the [vegetable broth](../ingredients/vegetable-broth.md) and unsweetened soy milk in a medium bowl, then whisk in the cornstarch until it's fully
 incorporated with no lumps.
 
 ### Step 2
