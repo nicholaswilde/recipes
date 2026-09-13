@@ -1363,6 +1363,7 @@ social = [
 
 [project.theme]
 name = "material"
+custom_dir = "overrides"
 features = [
     "navigation.footer",
     "content.action.edit",
