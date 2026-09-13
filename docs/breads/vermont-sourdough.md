@@ -14,19 +14,21 @@ hero: assets/images/vermont-sourdough.webp
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 1 loaf | 14.85 hours |
+| 2 loaves | 14.85 hours |
 
 The [Sourdough Calculator][3] may be used to generate a recipe.
 
 ## :salt: Ingredients
 
-=== "Liquid Levain"
+=== "Full Batch"
+
+    **Liquid Levain**
 
     - :bread: 135 g all-purpose flour
     - :droplet: 170 g cool water
-    - :tomato: 14 g ripe [sourdough starter][2]
+    - :tomato: 14 g ripe [sourdough starter](../ingredients/sourdough-starter.md)
 
-=== "Dough"
+    **Dough**
 
     - :bread: 660 g all-purpose flour
     - :bread: 93 g whole wheat flour
@@ -34,29 +36,71 @@ The [Sourdough Calculator][3] may be used to generate a recipe.
     - :bread: all of the levain
     - :salt: 18 g salt
 
+=== "Half Batch"
+
+    **Liquid Levain**
+
+    - :bread: 67.5 g all-purpose flour
+    - :droplet: 85 g cool water
+    - :tomato: 7 g ripe [sourdough starter](../ingredients/sourdough-starter.md)
+
+    **Dough**
+
+    - :bread: 330 g all-purpose flour
+    - :bread: 46.5 g whole wheat flour
+    - :droplet: 220 g water
+    - :bread: all of the levain
+    - :salt: 9 g salt
+
 ## :salt: Mix Ins (Optional)
 
-### :tomato: Sun-dried Tomato & Capers
+=== "Full Batch"
 
-- :tomato: 116 g sun-dried tomato, not oil packed
-- :brown_circle: 145 g capers, strained & patted dry
-- :herb: 1 Tbsp dried oregano
+    ### :tomato: Sun-dried Tomato & Capers
 
-### :herb: Rosemary & [Roasted Garlic][4]
+    - :tomato: 116 g sun-dried tomato, not oil packed
+    - :brown_circle: 145 g capers, strained & patted dry
+    - :herb: 1 Tbsp dried oregano
 
-- :herb: 2 Tbsp Rosemary
-- :garlic: 2 garlic heads
+    ### :herb: Rosemary & [Roasted Garlic](../ingredients/roasted-garlic.md)
 
-### :lemon: Lemon & Thyme
+    - :herb: 2 Tbsp Rosemary
+    - :garlic: 2 garlic heads
 
-- :herb: 2 Tbsp Thyme
-- :lemon: 2 Tbsp lemon zest
+    ### :lemon: Lemon & Thyme
 
-### :hot_pepper: Jalapeño Cheddar
+    - :herb: 2 Tbsp Thyme
+    - :lemon: 2 Tbsp lemon zest
 
-- :cheese_wedge: 210 g sharp cheddar cheese
-- :hot_pepper: 67 g jalapeño pepper
-- :honey_pot: 34 g honey
+    ### :hot_pepper: Jalapeño Cheddar
+
+    - :cheese_wedge: 210 g sharp cheddar cheese
+    - :hot_pepper: 67 g jalapeño pepper
+    - :honey_pot: 34 g honey
+
+=== "Half Batch"
+
+    ### :tomato: Sun-dried Tomato & Capers
+
+    - :tomato: 58 g sun-dried tomato, not oil packed
+    - :brown_circle: 72.5 g capers, strained & patted dry
+    - :herb: 0.5 Tbsp dried oregano
+
+    ### :herb: Rosemary & [Roasted Garlic](../ingredients/roasted-garlic.md)
+
+    - :herb: 1 Tbsp Rosemary
+    - :garlic: 1 garlic head
+
+    ### :lemon: Lemon & Thyme
+
+    - :herb: 1 Tbsp Thyme
+    - :lemon: 1 Tbsp lemon zest
+
+    ### :hot_pepper: Jalapeño Cheddar
+
+    - :cheese_wedge: 105 g sharp cheddar cheese
+    - :hot_pepper: 33.5 g jalapeño pepper
+    - :honey_pot: 17 g honey
 
 ## :cooking: Cookware
 
@@ -197,6 +241,4 @@ Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze f
 - <https://www.kingarthurbaking.com/recipes/vermont-sourdough-recipe>
 
 [1]: <../assets/images/vermont-sourdough.webp>
-[2]: <../ingredients/sourdough-starter.md>
 [3]: <https://nicholaswilde.io/sourdough-calculator/>
-[4]: <../ingredients/roasted-garlic.md>
