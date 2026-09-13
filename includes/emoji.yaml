@@ -2,6 +2,10 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - small sheet pan
+        - large plate
+        - large baking sheets
+        - 4-tablespoon scoop
         - large heavy-bottomed soup pot
         - small container
         - larger container
@@ -124,6 +128,7 @@ emoji:
         - freezer
         - fridge
     - spoon:
+        - silicone spatula
         - spatula
         - small offset spatula
         - wooden spoon
@@ -465,6 +470,7 @@ emoji:
     - champagne:
         - ina garten's perfect vinaigrette
     - cheese_wedge:
+        - Earl Grey teabags
         - Shredded Parmesan cheese
         - shredded Parmesan
         - mozzarella pearls
@@ -688,6 +694,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - whole milk
         - unsweetened soy milk
         - whole-milk ricotta
         - salted butter (cold, cut up)
@@ -1056,6 +1063,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - culinary lavender
         - half-and-half
         - Salted Caramel Sauce
         - cider vinegar
