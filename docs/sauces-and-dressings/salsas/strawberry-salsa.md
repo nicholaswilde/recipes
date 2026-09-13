@@ -1,3 +1,12 @@
+---
+tags:
+  - applied-kitchen
+  - salsa
+  - strawberry
+  - dip
+  - easy
+---
+
 # :strawberry: Strawberry Salsa
 
 ![Strawberry Salsa](../../assets/images/strawberry-salsa.webp){ loading=lazy }
@@ -48,7 +57,7 @@ Just before serving, fold in the cilantro (chopped).
 
 ### Step 5
 
-Enjoy with your favorite tortilla or [pita](../breads/pita.md) chips!
+Enjoy with your favorite tortilla or [pita](../../breads/pita.md) chips!
 
 ## :link: Source
 
