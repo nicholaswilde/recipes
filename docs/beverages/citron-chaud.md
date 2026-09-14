@@ -10,7 +10,7 @@ source: https://cupofjo.com/2026/01/28/citron-chaud/
 servings: 2
 hero: assets/images/citron-chaud.webp
 ---
-# Citron Chaud
+# :lemon: Citron Chaud
 
 ![Citron Chaud][1]{ loading=lazy }
 
