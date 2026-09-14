@@ -1,52 +1,52 @@
 ---
 comments: true
 tags:
-  - beverages
-  - cup-of-jo
-  - lemon
-  - honey
-hero: assets/images/citron-chaud.webp
+- beverage
+source: https://cupofjo.com/2026/01/28/citron-chaud/
+servings: 2
 ---
+# citron-chaud
 
-# :lemon: Citron Chaud
-
-![Citron Chaud][1]{ loading=lazy }
+![citron-chaud][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 1 to 2 | 5 minutes |
+| 2 | 0 minutes |
 
 ## :salt: Ingredients
 
-- :lemon: 1 cup (4-5 lemons) freshly squeezed lemon juice
-- :droplet: 1/4 to 1/2 cup very hot water
-- :honey_pot: 1 to 2 tsp honey
+- 1 cup freshly squeezed lemon juice (4-5 lemons, depending on size)
+- 0.25 cup very hot water
+- 1 tsp honey
+- 0.25 cup very hot water
+- 1 tsp honey
 
 ## :cooking: Cookware
 
 - 1 saucepan
-- mugs
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Add lemon juice to a saucepan, and set over a high heat until it just begins to simmer.
+Add freshly squeezed lemon juice (4-5 lemons, depending on size) to a saucepan, and set over a high heat until it just
+begins to simmer.
 
 ### Step 2
 
-Remove from the burner and pour into mugs. You can either pour the whole thing into one large mug, or divide it into two.
+Remove from the burner and pour into mugs.
 
 ### Step 3
 
-Add 1/4 cup of hot water, and stir in 1 tsp of honey until it dissolves.
+Add very hot water, and stir in honey until it dissolves.
 
 ### Step 4
 
-Optional: add the other 1/4 cup of water and second teaspoon of honey if desired.
+Optional: add the other very hot water and second honey if desired.
 
 ## :link: Source
 
 - <https://cupofjo.com/2026/01/28/citron-chaud/>
 
 [1]: <../assets/images/citron-chaud.webp>
+
