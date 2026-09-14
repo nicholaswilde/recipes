@@ -8,6 +8,7 @@
 - I have imported the Mock Soy Sauce recipe.
 - I have imported the Dijon Mustard recipe.
 - I have added a recipe for homemade Baking Powder.
+- I have imported the Citron Chaud recipe from https://cupofjo.com/2026/01/28/citron-chaud/.
 - I have added a recipe for homemade Self-Rising Flour.
 - I have imported the Cannelés de Bordeaux recipe (Issue #1351).
 - I have imported the NYT Dutch Baby recipe (Issue #1349).
