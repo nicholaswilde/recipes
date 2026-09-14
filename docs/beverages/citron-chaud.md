@@ -2,12 +2,17 @@
 comments: true
 tags:
 - beverage
+- beverages
+- cup-of-jo
+- lemon
+- honey
 source: https://cupofjo.com/2026/01/28/citron-chaud/
 servings: 2
+hero: assets/images/citron-chaud.webp
 ---
-# citron-chaud
+# Citron Chaud
 
-![citron-chaud][1]{ loading=lazy }
+![Citron Chaud][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
