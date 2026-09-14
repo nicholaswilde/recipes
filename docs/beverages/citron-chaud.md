@@ -20,15 +20,15 @@ hero: assets/images/citron-chaud.webp
 
 ## :salt: Ingredients
 
-- 1 cup freshly squeezed lemon juice (4-5 lemons, depending on size)
-- 0.25 cup very hot water
-- 1 tsp honey
-- 0.25 cup very hot water
-- 1 tsp honey
+- :lemon: 1 cup freshly squeezed lemon juice (4-5 lemons, depending on size)
+- :droplet: 0.25 cup very hot water
+- :honey_pot: 1 tsp honey
+- :droplet: 0.25 cup very hot water
+- :honey_pot: 1 tsp honey
 
 ## :cooking: Cookware
 
-- 1 saucepan
+- :pot_of_food: 1 saucepan
 
 ## :pencil: Instructions
 
