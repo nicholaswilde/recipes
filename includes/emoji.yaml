@@ -504,6 +504,7 @@ emoji:
         - ricotta cheese
     - cherries:
         - cherry bars
+        - unsweetened cherry juice
     - chestnut:
         - cumin
         - chia seeds
@@ -683,6 +684,7 @@ emoji:
     - four_leaf_clover:
         - irish soda bread
     - garlic:
+        - granulated garlic
         - garlic (minced)
         - organic garlic
         - hot
@@ -784,6 +786,7 @@ emoji:
         - fresh basil (chopped)
         - dried Italian seasoning (crushed)
         - fresh thyme leaves
+        - ground thyme
     - hibiscus:
         - iced hibiscus tea
     - honey_pot:
@@ -792,6 +795,7 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - hot sauce
         - fresh cracked pepper
         - red jalapeno or Fresno chile
         - whole poblanos peppers
@@ -890,7 +894,7 @@ emoji:
         - frozen spinach (chopped, defrosted and squeezed of some water)
     - lemon:
         - olde tyme lemonade
-        - freshly squeezed lemon juice (4-5 lemons, depending on size)
+        - freshly squeezed lemon juice (4-5 lemons, depending upon size)
     - magic_wand:
         - magic cookie bars
     - maple_leaf:
@@ -933,6 +937,9 @@ emoji:
         - nonstick baking spray
         - coconut oil spray
     - onion:
+        - small onion diced
+        - onion powder
+        - dry mustard
         - caramelized onions
         - onion (chopped)
         - leeks or chopped onion (sliced)
@@ -945,6 +952,8 @@ emoji:
     - pancakes:
         - blueberry smoothie pancakes
     - peach:
+        - peach preserves
+        - sliced peaches (drained)
         - peach bars
     - peanut:
         - best ever peanut butter bars
@@ -986,6 +995,7 @@ emoji:
     - salad_bowl:
         - superfood power bowl
     - salt:
+        - celery salt
         - Sea salt and freshly ground black pepper
         - fine sea salt
         - Kala Namak or black salt
@@ -1077,6 +1087,7 @@ emoji:
         - cider vinegar
         - fish sauce
         - Worcestershire sauce or soy sauce
+        - Worcestershire sauce
         - ice
         - Light Olive Garden Dressing
         - dry
@@ -1141,6 +1152,8 @@ emoji:
         - active dry yeast
         - instant yeast
     - tomato:
+        - tomato paste
+        - ketchup
         - diced tomatoes (undrained)
         - heirloom cherry tomatoes
         - fresh tomato
@@ -1166,6 +1179,7 @@ emoji:
     - tulip:
         - saffron
     - tumbler_glass:
+        - bourbon
         - rum
         - Guinness Draught Stout
         - reduced Guinness
