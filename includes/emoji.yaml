@@ -2,6 +2,10 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - slotted spoon
+        - nonstick cooking spray
+        - half-sheet baking pan
+        - deep-fry thermometer
         - smoker
         - small sheet pan
         - large plate
@@ -48,6 +52,8 @@ emoji:
         - microwave-safe bowl
         - bowl
     - cookie:
+        - 3-inch ring cutter
+        - 1.25-inch ring cutter
         - slow cooker
         - loaf
         - baking paper
@@ -342,6 +348,7 @@ emoji:
     - blue_circle:
         - blueberry [ricotta](../ingredients/ricotta.md) breakfast cake
     - bread:
+        - pastry flour
         - corn kernels
         - ears of corn
         - Farfalle (bow tie) pasta
@@ -699,6 +706,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - sour cream
         - whole milk
         - unsweetened soy milk
         - whole-milk ricotta
