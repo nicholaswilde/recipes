@@ -196,6 +196,11 @@ repeat; repeat twice more (for a total of four times), turning the bowl 90° eac
 the dough, is called a fold. Re-cover the bowl, and let the dough rise for another 90 minutes, adding another fold after
 45 minutes if the dough doesn’t seem elastic and strong enough.
 
+!!! tip
+
+    If the dough continues to be sticky at the end of bulk fermentation, the gluten might not be formed enough and you
+    can pivot to make a focaccia bread instead (see [Big & Bubbly Focaccia](big-and-bubbly-focaccia.md)).
+
 ## Step 7
 
 Gently deflate the dough and divide it into two pieces; each will weigh about 750 g. Shape each piece into a rough ball,
