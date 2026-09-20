@@ -187,6 +187,10 @@ tasks:
     desc: Move recipes markdown file and image, FILES.
     cmds:
       - ./scripts/move.sh {{shellQuote .FILES }}
+  find-duplicate-issues:
+    desc: Find duplicate GitHub issues and already-imported recipes
+    cmds:
+      - uv run scripts/find_duplicate_issues.py {{ .CLI_ARGS }}
   import-recipe:
     desc: Import a recipe from a URL or GitHub issue number.
     cmds:
