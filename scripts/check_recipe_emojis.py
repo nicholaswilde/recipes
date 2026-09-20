@@ -26,8 +26,12 @@ def get_valid_gemoji():
         return None
     try:
         md = markdown.Markdown()
-        res = pymdownx.emoji.gemoji(options={}, md=md)
-        return set(k.strip(":") for k in res.get("emoji", {}).keys())
+        valid = set()
+        for index_fn in (pymdownx.emoji.gemoji, pymdownx.emoji.twemoji):
+            res = index_fn(options={}, md=md)
+            valid.update(k.strip(":") for k in res.get("emoji", {}).keys())
+            valid.update(k.strip(":") for k in res.get("aliases", {}).keys())
+        return valid
     except Exception:
         return None
 

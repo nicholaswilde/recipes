@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - mixer
         - slotted spoon
         - nonstick cooking spray
         - half-sheet baking pan
@@ -348,6 +349,7 @@ emoji:
     - blue_circle:
         - blueberry [ricotta](../ingredients/ricotta.md) breakfast cake
     - bread:
+        - King Arthur Unbleached All-Purpose Flour
         - pastry flour
         - corn kernels
         - ears of corn
@@ -414,6 +416,7 @@ emoji:
         - /4 cup (12 Tbsp; 170g) unsalted butter, very cold and cubed
         - melted butter
         - (85g) unsalted butter, at room temperature
+        - melted unsalted butter
         - butter (room temperature (80g))
         - unsalted butter ((56g))
         - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
@@ -980,6 +983,7 @@ emoji:
         - doritos popcorn
     - potato:
         - potato bread
+        - potato flour
     - poultry_leg:
         - vegetarian chicken pieces (cut into 1-inch pieces)
     - pretzel:
