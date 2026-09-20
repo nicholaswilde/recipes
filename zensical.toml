@@ -541,7 +541,6 @@ Desserts = [
 
 [[project.nav]]
 Ingredients = [
-  { "Butter" = [
     { "3-Ingredient Garlic Butter" = "ingredients/butter/3-ingredient-garlic-butter.md" },
     { "Almond Butter" = "ingredients/butter/almond-butter.md" },
     { "Brown Butter with Sage" = "ingredients/butter/brown-butter-with-sage.md" },
@@ -650,6 +649,7 @@ Ingredients = [
     { "Crispy Baked Tofu with Italian Herbs" = "ingredients/tofu/crispy-baked-tofu-with-italian-herbs.md" },
     { "Orange Honey Tofu" = "ingredients/tofu/orange-honey-tofu.md" },
     { "Pan-Fried Tofu" = "ingredients/tofu/pan-fried-tofu.md" },
+    { "How to Cook Tofu" = "ingredients/tofu/how-to-cook-tofu.md" },
   ] },
   { "1947 Oregon Trail Sourdough Starter" = "ingredients/1947-oregon-trail-sourdough-starter.md" },
   { "Almond Cotija" = "ingredients/almond-cotija.md" },
