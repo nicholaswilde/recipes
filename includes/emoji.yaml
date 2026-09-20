@@ -469,7 +469,8 @@ emoji:
         - carrots (sliced)
     - champagne:
         - ina garten's perfect vinaigrette
-    - cheese_wedge:
+    - cheese:
+        - freshly grated Parmesan cheese
         - Earl Grey teabags
         - Shredded Parmesan cheese
         - shredded Parmesan
@@ -790,6 +791,7 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - fresh cracked pepper
         - red jalapeno or Fresno chile
         - whole poblanos peppers
         - jalapeño
@@ -867,6 +869,7 @@ emoji:
     - jack_o_lantern:
         - pumpkin coffee cake
     - leafy_green:
+        - romaine lettuce
         - marinated artichoke hearts
         - alfalfa sprouts
         - cherry
@@ -1065,6 +1068,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - balsamic vinegar
         - culinary lavender
         - half-and-half
         - Salted Caramel Sauce

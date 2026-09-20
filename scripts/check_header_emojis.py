@@ -132,6 +132,8 @@ HEURISTIC_EMOJIS = {
     "noodle": "spaghetti",
     "noodles": "spaghetti",
     "pasta": "spaghetti",
+    "lettuce": "leafy_green",
+    "romaine": "leafy_green",
 }
 
 def load_emoji_mappings(filepath):
