@@ -47,13 +47,37 @@ task find-duplicate-issues
   uv run scripts/find_duplicate_issues.py --mode imported
   ```
 
+- **Scan only codebase recipe duplicates:**
+
+  ```bash
+  uv run scripts/find_duplicate_issues.py --mode recipes
+  ```
+
 - **Output structured JSON (for agent/automated processing):**
 
   ```bash
   uv run scripts/find_duplicate_issues.py --json
   ```
 
-### 3. Automatically Close Exact Duplicates
+### 3. Ignoring Intentional Duplicates
+
+To ignore false positives or intentional variations (e.g. `pineapple-upside-down-cake`
+scratch vs mix versions), add them to
+[`.agents/duplicate_ignore.txt`](file:///home/nicholas/git/nicholaswilde/recipes/.agents/duplicate_ignore.txt):
+
+- **Single recipe slug, dish title, or issue number to ignore across all checks:**
+
+  ```text
+  pineapple-upside-down-cake
+  ```
+
+- **Specific duplicate pair to ignore only when matched against each other:**
+
+  ```text
+  classic-pineapple-upside-down-cake : pineapple-upside-down-cake
+  ```
+
+### 4. Automatically Close Exact Duplicates
 
 To automatically close verified exact duplicates on GitHub:
 
@@ -61,7 +85,7 @@ To automatically close verified exact duplicates on GitHub:
 uv run scripts/find_duplicate_issues.py --close
 ```
 
-### 4. Manual Review and Closure
+### 5. Manual Review and Closure
 
 For high-similarity title matches or close matches that require human judgment:
 

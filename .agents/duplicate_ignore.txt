@@ -1,0 +1,14 @@
+# Duplicate Scan Ignore List
+# --------------------------
+# Entries can be:
+# 1. A specific duplicate pair (item1 : item2) to ignore only when matched against each other:
+#    e.g., classic-pineapple-upside-down-cake : pineapple-upside-down-cake
+# 2. A single recipe slug, filename, path, issue number, or dish name to ignore from all duplicate warnings:
+#    e.g., pineapple-upside-down-cake
+#
+# Comments (#) and blank lines are ignored.
+
+# Pineapple Upside Down Cake (Classic scratch version vs Trader Joe's mix version)
+classic-pineapple-upside-down-cake : pineapple-upside-down-cake
+pineapple-upside-down-cake
+classic-pineapple-upside-down-cake
