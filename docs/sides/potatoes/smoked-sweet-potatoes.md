@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/smoked-sweet-potatoes.webp
 source: AI
 serves: 4
 cook time: 2.5 hours
@@ -9,6 +10,8 @@ prep time: 5 minutes
 ---
 
 # :sweet_potato: Smoked Sweet Potatoes
+
+![Smoked Sweet Potatoes](../../assets/images/smoked-sweet-potatoes.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
