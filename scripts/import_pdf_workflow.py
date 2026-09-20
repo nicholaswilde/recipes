@@ -29,6 +29,17 @@ def download_file(url, dest):
         out_file.write(response.read())
     print("Download completed successfully.")
 
+def check_hero_image_requested(issue_number):
+    try:
+        cmd = ["gh", "issue", "view", str(issue_number), "--json", "body"]
+        res = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        import json
+        data = json.loads(res.stdout)
+        body = data.get("body", "")
+        return bool(re.search(r'-\s*\[[xX]\]\s*Generate hero image', body))
+    except Exception:
+        return False
+
 def auto_crop_recipe_image(page_image_path, output_image_path):
     print("Attempting to auto-detect and crop hero image from page 1...")
     try:
@@ -182,9 +193,17 @@ def main():
                 
         print(f"\nCreated draft CookLang file at: {cook_file_path}")
         
+        hero_requested = False
+        if args.issue:
+            hero_requested = check_hero_image_requested(args.issue)
+            if hero_requested:
+                print(f"\nNotice: Issue #{args.issue} requested an AI-generated hero image.")
+
         # Build manual import command
         manual_cmd = ["uv", "run", "scripts/import_manual_recipe.py", cook_file_path]
-        if image_cropped:
+        if hero_requested:
+            print("Action needed: Generate a hero image using the generate-hero-image skill and supply it with -i <image_path>.")
+        elif image_cropped:
             # We copy the cropped image to a non-temp path so the other script can pick it up
             final_temp_image = os.path.join("cook", f"{recipe_name}.jpg")
             import shutil
@@ -201,7 +220,11 @@ def main():
         print("\nWorkflow Setup Complete!")
         print("To complete the import:")
         print(f"1. Open and edit the CookLang recipe file: {cook_file_path}")
-        print("2. Run the manual import script to compile and stage it:")
+        if hero_requested:
+            print("2. Generate a hero image using the generate-hero-image skill.")
+            print("3. Run the manual import script with the generated image to compile and stage it:")
+        else:
+            print("2. Run the manual import script to compile and stage it:")
         print(f"   {' '.join(manual_cmd)}")
         
 if __name__ == "__main__":

@@ -1,3 +1,4 @@
+---
 name: Recipe from Image
 description: Submit a new recipe using an image as the source.
 title: "[Recipe]: "
@@ -20,9 +21,16 @@ body:
     attributes:
       label: Recipe Image
       description: Drag and drop the image of the recipe here.
-      placeholder: ![image](url)
+      placeholder: "![image](url)"
     validations:
       required: true
+  - type: checkboxes
+    id: hero_image
+    attributes:
+      label: Hero Image
+      description: Should an AI-generated hero image be created for this recipe?
+      options:
+        - label: Generate hero image
   - type: input
     id: source_url
     attributes:

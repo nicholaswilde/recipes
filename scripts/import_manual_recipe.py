@@ -20,6 +20,17 @@ import shutil
 import subprocess
 import glob
 
+def check_hero_image_requested(issue_number):
+    try:
+        cmd = ["gh", "issue", "view", str(issue_number), "--json", "body"]
+        res = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        import json
+        data = json.loads(res.stdout)
+        body = data.get("body", "")
+        return bool(re.search(r'-\s*\[[xX]\]\s*Generate hero image', body))
+    except Exception:
+        return False
+
 def find_categories():
     cook_dir = "cook"
     if not os.path.exists(cook_dir):
@@ -63,6 +74,11 @@ def main():
     parser.add_argument("--commit", action="store_true", help="Automatically commit the imported recipe")
     
     args = parser.parse_args()
+    
+    if args.issue and not args.image:
+        if check_hero_image_requested(args.issue):
+            print(f"\nWarning: Issue #{args.issue} has 'Generate hero image' checked, but no image was supplied with -i.")
+            print("Please consider generating a hero image using the generate-hero-image skill first.\n")
     
     cook_file = args.cook_file
     if not os.path.exists(cook_file):

@@ -1,3 +1,4 @@
+---
 name: Recipe from PDF
 description: Submit a new recipe using a PDF file as the source.
 title: "[Recipe]: "
@@ -23,6 +24,13 @@ body:
       placeholder: Upload or link the PDF file here.
     validations:
       required: true
+  - type: checkboxes
+    id: hero_image
+    attributes:
+      label: Hero Image
+      description: Should an AI-generated hero image be created for this recipe?
+      options:
+        - label: Generate hero image
   - type: input
     id: source_url
     attributes:
