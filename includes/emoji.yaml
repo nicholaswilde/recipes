@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - paring knife
         - air fryer
         - mixer
         - slotted spoon
@@ -807,6 +808,7 @@ emoji:
         - maple syrup
         - raw unpasteurized honey
     - hot_pepper:
+        - jalapeño peppers ((preferably red))
         - hot sauce
         - sriracha
         - fresh cracked pepper
@@ -1211,5 +1213,7 @@ emoji:
         - dry white wine
         - sake
         - mirin
+    - wood:
+        - pecan wood chips or pellets
     - yellow_circle:
         - buckeyes
