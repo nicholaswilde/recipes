@@ -1345,6 +1345,7 @@ Reference = [
   { "Spirits" = "reference/spirits.md" },
   { "Temperatures" = "reference/temperatures.md" },
   { "Tips" = "reference/tips.md" },
+  { "Wood Types" = "reference/wood-types.md" },
   { "Development" = "reference/development.md" },
 ]
 
