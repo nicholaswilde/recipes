@@ -199,7 +199,8 @@ the dough, is called a fold. Re-cover the bowl, and let the dough rise for anoth
 !!! tip
 
     If the dough continues to be sticky at the end of bulk fermentation, the gluten might not be formed enough and you
-    can pivot to make a focaccia bread instead (see [Big & Bubbly Focaccia](big-and-bubbly-focaccia.md)).
+    can pivot to make a focaccia bread instead (see [Big & Bubbly Focaccia](big-and-bubbly-focaccia.md)). If using a
+    1/2 batch (1 loaf), use an 8x8 pan for the focaccia; if using a full batch (2 loaves), use a 9x13 pan.
 
 ## Step 7
 
