@@ -45,7 +45,7 @@ the [vinaigrette](../../sauces-and-dressings/vinaigrettes/vinaigrette.md). Store
 
 ### Step 2
 
-Fire up the grill (or Weber Smokey Mountain cooker set up for direct grilling, one zone).
+Fire up the grill to 400°F and higher (or Weber Smokey Mountain cooker set up for direct grilling, one zone).
 
 ### Step 3
 
@@ -54,8 +54,9 @@ pepper to taste.
 
 ### Step 4
 
-Place the romaine halves onto the grill cut side down. Grill checking the underside frequently until a nice char forms,
-about 1 to 2 minutes. Flip and grill the other side for 1 to 2 minutes.
+When grilling the romaine lettuce, the grill should be 400°F and higher. Place the romaine halves onto the grill cut side
+down. Grill checking the underside frequently until a nice char forms, about 1 to 2 minutes. Flip and grill the other
+side for 1 to 2 minutes.
 
 ### Step 5
 
