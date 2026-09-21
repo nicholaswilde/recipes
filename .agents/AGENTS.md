@@ -79,3 +79,4 @@
 - When updating or generating `*.cook` files, always validate them manually by running `task validate-cook FILE="path/to/recipe.cook"` (or `cook doctor validate --strict`) before running compilation scripts or committing.
 - When adding an emoji to a recipe's markdown title/header (or `.cook` title metadata), always use the text-based emoji shortcode (e.g., `:crescent_moon:`) rather than pasting the actual Unicode emoji character (e.g., `🌙`).
 - When importing a recipe from a GitHub issue (image or PDF), check whether the "Hero Image" checkbox (`- [X] Generate hero image` / `- [x] Generate hero image`) is checked. If checked, generate a custom hero image using the `generate-hero-image` skill / `generate_image` tool. If unchecked, do not generate an AI hero image unless requested.
+- I have added the `fix-failed-workflows` skill in `.agents/skills/fix-failed-workflows/SKILL.md` to diagnose and resolve failed GitHub Actions workflow runs.
