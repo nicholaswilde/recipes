@@ -3,6 +3,8 @@ comments: true
 tags:
 
   - sauce
+source: https://keviniscooking.com/how-to-make-adobo-sauce/
+author: Kevin Westing
 hero: assets/images/adobo-sauce.jpg
 ---
 
@@ -62,7 +64,7 @@ in an airtight container and refrigerate.
 
 #### If Using Dried Chipotle Peppers
 
-Pre-soak: Bend and slightly crack the dried chipotle peppers (or make punctures all over with a knife). Add to a
+Pre-soak: Bend and slightly crack the dried [Chipotle Peppers](../../ingredients/chipotle-peppers.md) (or make punctures all over with a knife). Add to a
 saucepan and just cover with water. Bring to a boil, reduce to simmer and cook for 30 minutes. Be sure to add more water
 if needed so they don't dry and burn.
 
@@ -71,7 +73,7 @@ completely and store in an airtight container in the refrigerator.
 
 #### If Using Freshly Smoked Chipotle Peppers (not dried yet)
 
-Add freshly smoked peppers directly to the Adobo Sauce AFTER Step 3. Simmer in Adobo Sauce for another 10 minutes. Let
+Add freshly smoked [Chipotle Peppers](../../ingredients/chipotle-peppers.md) directly to the Adobo Sauce AFTER Step 3. Simmer in Adobo Sauce for another 10 minutes. Let
 cool completely and store in an airtight container in the refrigerator.
 
 ### For Canning
