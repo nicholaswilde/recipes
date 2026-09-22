@@ -49,11 +49,18 @@ CATEGORY_EMOJIS = {
     "breads": "bread",
     "breakfast": "egg",
     "main": "shallow_pan_of_food",
-    "sides": "salad_bowl",
+    "sides": "green_salad",
     "sauces-and-dressings": "takeout_box",
     "soups-and-stews": "stew",
     "lunches": "sandwich",
     "salads": "green_salad",
+}
+
+EMOJI_REPLACEMENTS = {
+    "avodado": "avocado",
+    "muffin": "cupcake",
+    "peanut": "peanuts",
+    "salad_bowl": "green_salad",
 }
 
 HEURISTIC_EMOJIS = {
@@ -97,6 +104,10 @@ HEURISTIC_EMOJIS = {
     "pudding": "custard",
     "custard": "custard",
     "mustard": "takeout_box",
+    "muffin": "cupcake",
+    "muffins": "cupcake",
+    "avocado": "avocado",
+    "guacamole": "avocado",
     "pickle": "cucumber",
     "pickles": "cucumber",
     "pickled": "cucumber",
@@ -123,8 +134,8 @@ HEURISTIC_EMOJIS = {
     "blueberries": "blue_circle",
     "chocolate": "chocolate_bar",
     "cocoa": "chocolate_bar",
-    "peanut": "peanut",
-    "peanuts": "peanut",
+    "peanut": "peanuts",
+    "peanuts": "peanuts",
     "cashew": "chestnut",
     "cashews": "chestnut",
     "walnut": "chestnut",
@@ -311,7 +322,8 @@ def fix_file(file_path, suggested_emoji):
         for idx, line in enumerate(lines):
             if line.startswith("# "):
                 title = line[2:].strip()
-                new_line = f"# :{suggested_emoji}: {title}"
+                title_clean = re.sub(r"^:[a-zA-Z0-9_+-]+:\s*", "", title)
+                new_line = f"# :{suggested_emoji}: {title_clean}"
                 lines[idx] = new_line
                 break
                 
@@ -371,8 +383,23 @@ def main():
         is_valid, emoji, title = check_file(file_path)
         
         if is_valid:
-            # Check if the emoji used is present in emoji.yaml
-            if VALID_GEMOJI and emoji not in VALID_GEMOJI:
+            if emoji in EMOJI_REPLACEMENTS:
+                replacement = EMOJI_REPLACEMENTS[emoji]
+                if args.fix:
+                    print(f"  \u274c {file_path}: Invalid emoji :{emoji}:. Replacing with :{replacement}: ... ", end="")
+                    if fix_file(file_path, replacement):
+                        print("Fixed!")
+                        fixed_count += 1
+                        clean_title = re.sub(r':[a-zA-Z0-9_+-]+:', '', title).strip()
+                        if replacement not in allowed_emojis:
+                            insert_emoji_mapping(EMOJI_YAML_PATH, "ingredients", replacement, clean_title.lower())
+                            allowed_emojis.add(replacement)
+                            emoji_yaml_modified = True
+                    else:
+                        print("Failed to fix.")
+                else:
+                    invalid_emoji_files.append((file_path, title, emoji))
+            elif VALID_GEMOJI and emoji not in VALID_GEMOJI:
                 print(f"  \u274c {file_path}: :{emoji}: (INVALID GEMOJI SHORTCODE)")
                 invalid_emoji_files.append((file_path, title, emoji))
             elif emoji in allowed_emojis:

@@ -17,7 +17,7 @@ import re
 
 def main():
     docs_dir = "docs"
-    exclude_files = {"index.md", "tags.md"}
+    exclude_files = {"index.md", "tags.md", "README.md"}
     exclude_dirs = {"reference", "assets"}
     
     # Regex to match Source or Sources with optional emoji prefix

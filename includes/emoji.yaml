@@ -242,13 +242,12 @@ emoji:
         - natural food coloring
         - rainbow sprinkles
     - avocado:
+        - guacamole
         - ripe avocados
         - neutral oil
         - neutral oil, avocado or canola
         - avocado
         - sliced avocado
-    - avodado:
-        - guacamole
     - baby_bottle:
         - eggs (at room temperature)
         - rolled oats ((gluten-free for GF eaters))
@@ -514,6 +513,8 @@ emoji:
         - mozzarella cheese (shredded)
         - Parmigiano Reggiano cheese (grated)
         - ricotta cheese
+    - cheese_wedge:
+        - parmesan pull-apart bread
     - cherries:
         - cherry bars
         - unsweetened cherry juice
@@ -574,6 +575,7 @@ emoji:
         - corn flour
         - mixed nuts
     - chocolate_bar:
+        - ghirardelli brownie mix
         - chocolate chips
         - unsweetened cocoa powder ((25g))
         - white chocolate chips
@@ -611,6 +613,8 @@ emoji:
         - espagnole
     - crab:
         - madre crab cakes
+    - crescent_moon:
+        - mezza luna lasagna
     - croissant:
         - croissants
     - crown:
@@ -625,6 +629,7 @@ emoji:
         - Persian cucumbers
         - dill pickles
     - cupcake:
+        - pumpkin cream cheese muffins
         - 1-bowl carrot apple muffins
     - curry:
         - turmeric
@@ -640,6 +645,8 @@ emoji:
         - uncooked bulk Italian sausage
     - dango:
         - s'mores tart
+    - date:
+        - healthy 5-ingredient granola bars
     - doughnut:
         - apple cider doughnuts
     - droplet:
@@ -764,6 +771,7 @@ emoji:
     - green_circle:
         - "pea purée"
     - green_salad:
+        - superfood power bowl
         - sonoran salad
     - hamburger:
         - black bean burgers
@@ -925,8 +933,6 @@ emoji:
         - sourdough starter
     - monkey_face:
         - gilligan monkey bread
-    - muffin:
-        - pumpkin cream cheese muffins
     - mushroom:
         - dried sliced shiitake mushrooms
         - button mushrooms
@@ -970,9 +976,8 @@ emoji:
         - peach preserves
         - sliced peaches (drained)
         - peach bars
-    - peanut:
-        - best ever peanut butter bars
     - peanuts:
+        - best ever peanut butter bars
         - peanut butter overnight oats
         - nutmeg
     - pear:
@@ -1008,8 +1013,6 @@ emoji:
         - old-fashioned rice pudding
     - sake:
         - red wine vinaigrette
-    - salad_bowl:
-        - superfood power bowl
     - salt:
         - celery salt
         - Sea salt and freshly ground black pepper
