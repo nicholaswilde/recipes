@@ -80,3 +80,4 @@
 - When adding an emoji to a recipe's markdown title/header (or `.cook` title metadata), always use the text-based emoji shortcode (e.g., `:crescent_moon:`) rather than pasting the actual Unicode emoji character (e.g., `🌙`).
 - When importing a recipe from a GitHub issue (image or PDF), check whether the "Hero Image" checkbox (`- [X] Generate hero image` / `- [x] Generate hero image`) is checked. If checked, generate a custom hero image using the `generate-hero-image` skill / `generate_image` tool. If unchecked, do not generate an AI hero image unless requested.
 - I have added the `fix-failed-workflows` skill in `.agents/skills/fix-failed-workflows/SKILL.md` to diagnose and resolve failed GitHub Actions workflow runs.
+- I have added the `backfill-missing-sources` skill in `.agents/skills/backfill-missing-sources/SKILL.md` to audit recipes for missing sources, research provenance, standardize source headings, and backfill references.

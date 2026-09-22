@@ -238,6 +238,23 @@ To verify that recipe Markdown H1 headers include valid emoji shortcodes (e.g. `
 
 * **Under the Hood**: Parses all recipe markdown files under `docs/`, checks if the H1 header begins with an emoji shortcode `:<name>:`. With `--fix`, matches against category defaults or keyword heuristics in `HEURISTIC_EMOJIS` and prepends the emoji shortcode directly to the Markdown H1 and `.cook` title metadata.
 
+#### Check and Backfill Missing Recipe Sources
+
+To check for recipes missing a `## :link: Source` section or backfill recipe provenance:
+
+* **Protocol**:
+
+  ```bash
+  task check-missing-sources
+  # or directly:
+  uv run scripts/find_missing_sources.py
+  ```
+
+* **Under the Hood**: Invokes [scripts/find_missing_sources.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/find_missing_sources.py),
+  which scans all markdown recipe files under `docs/` (excluding `index.md`, `tags.md`, `README.md`,
+  `reference/`, and `assets/`) for `## :link: Source` or `## :link: Sources`. For detailed investigation
+  and backfilling instructions, consult the `backfill-missing-sources` skill.
+
 #### Regenerate Typos Configuration
 
 When new words are added to `dictionary.txt`, regenerate the spellchecker exclusions/whitelist:
