@@ -82,3 +82,5 @@
 - I have added the `fix-failed-workflows` skill in `.agents/skills/fix-failed-workflows/SKILL.md` to diagnose and resolve failed GitHub Actions workflow runs.
 - I have added the `backfill-missing-sources` skill in `.agents/skills/backfill-missing-sources/SKILL.md` to audit recipes for missing sources, research provenance, standardize source headings, and backfill references.
 - I have imported the Hasselback Potato Gratin recipe (Issue #1206).
+- When recommending or adding the `must-try` tag to recipes, never add it to recipes that already have the `favorite` tag, as `favorite` indicates the recipe has already been tried and tested.
+- When asked for recommendations on what to try next, query recipes tagged with `must-try`, exclude any recipes tagged with `favorite`, and filter by category if requested (such as dessert, baking, or soup).
