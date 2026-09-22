@@ -30,7 +30,7 @@ jobs:
       - name: Get changed files
         id: changed-files
         if: github.event_name == 'push' || github.event_name == 'pull_request'
-        uses: tj-actions/changed-files@v45
+        uses: tj-actions/changed-files@v47
         with:
           files: |
             docs/**/*.md
