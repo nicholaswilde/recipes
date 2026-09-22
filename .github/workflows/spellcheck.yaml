@@ -24,4 +24,4 @@ jobs:
       - name: Generate typos config
         run: python3 scripts/generate_typos_config.py
       - name: Run spellcheck
-        uses: crate-ci/typos@v1
+        uses: crate-ci/typos@v1.48.0
