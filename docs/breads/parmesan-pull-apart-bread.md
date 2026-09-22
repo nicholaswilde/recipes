@@ -57,4 +57,8 @@ Bake until loaf is browned, 30 to 35 minutes.
 
 Let stand in pan for 1 minute, then serve onto serving platter.
 
+## :link: Source
+
+- Pillsbury
+
 [1]: <./buttermilk-biscuits.md>

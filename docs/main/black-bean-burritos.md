@@ -51,4 +51,8 @@ Spoon 1/2 cup mixture into tortillas and place in baking dish. Cover with salsa 
 
 Cover and bake for 20 minutes.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../ingredients/black-beans.md>

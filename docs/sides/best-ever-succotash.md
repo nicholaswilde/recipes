@@ -1,3 +1,10 @@
+---
+tags:
+  - sides
+comments: true
+hero: assets/images/best-ever-succotash.webp
+---
+
 # :corn: Best-Ever Succotash
 
 ![Best-Ever Succotash](../assets/images/best-ever-succotash.webp){ loading=lazy }

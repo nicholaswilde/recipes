@@ -59,4 +59,8 @@ more.
 Toast almonds, then add to soup and mix with immersion blender. Top with cilantro, if desired. Season with salt and
 pepper to taste.
 
+## :link: Source
+
+- Almond Board of California
+
 [1]: <../ingredients/vegetable-broth.md>

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/butter-cake.webp
 ---
 
 # :cake: Butter Cake

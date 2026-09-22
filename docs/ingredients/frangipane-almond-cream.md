@@ -2,9 +2,10 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/frangipane-almond-cream.webp
 ---
 
-# Frangipane Almond Cream
+# :chestnut: Frangipane Almond Cream
 
 ![Frangipane Almond Cream][1]{ loading=lazy }
 

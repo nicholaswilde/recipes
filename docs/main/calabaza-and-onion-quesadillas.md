@@ -22,7 +22,7 @@ hero: assets/images/calabaza-and-onion-quesadillas.webp
 - 0.75 cup [cashew nacho cheese][6]
 - some [pumpkin seed salsa][4]
 - 1 cup [cashew crema][2]
-- :muffin: 0.25 cup (57 g) [toasted pumpkin seeds][7]
+- :jack_o_lantern: 0.25 cup (57 g) [toasted pumpkin seeds][7]
 - :herb: 0.25 cup (10 g) fresh cilantro
 
 ## :cooking: Cookware

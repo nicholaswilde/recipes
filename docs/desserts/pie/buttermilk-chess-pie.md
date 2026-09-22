@@ -5,7 +5,7 @@ tags:
   - pie
   - dessert
   - joy-of-cooking
-hero: assets/images/[buttermilk](../../ingredients/buttermilk.md)-chess-pie.png
+hero: assets/images/buttermilk-chess-pie.png
 ---
 
 # :pie: [buttermilk](../../ingredients/buttermilk.md) Chess Pie

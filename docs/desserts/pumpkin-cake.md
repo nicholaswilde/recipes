@@ -2,7 +2,9 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/pumpkin-cake.webp
 ---
+
 # :cake: Pumpkin Cake
 
 ![Pumpkin Cake][1]{ loading=lazy }
@@ -70,4 +72,3 @@ cream, and flaky sea salt (optional).
 - Magnolia Journal
 
 [1]: <../assets/images/pumpkin-cake.webp>
-

@@ -7,7 +7,7 @@ tags:
 hero: assets/images/slow-cooker-vegan-african-peanut-stew.png
 ---
 
-# :peanut: Slow Cooker Vegan African Peanut Stew
+# :peanuts: Slow Cooker Vegan African Peanut Stew
 
 ![Slow Cooker Vegan African Peanut Stew](../assets/images/slow-cooker-vegan-african-peanut-stew.png){ loading=lazy }
 
@@ -54,6 +54,10 @@ Stir in spinach just before serving and cook 15 minutes more.
 ### Step 4
 
 Use immersion blender to thicken to taste. Serves 6.
+
+## :link: Source
+
+- [Kitchen Treaty](https://www.kitchentreaty.com/slow-cooker-peanut-sweet-potato-chickpea-stew-recipe/)
 
 [1]: <../ingredients/chickpeas.md>
 [2]: <../ingredients/vegetable-broth.md>

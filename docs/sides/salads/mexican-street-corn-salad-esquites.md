@@ -3,6 +3,7 @@ comments: true
 tags:
   - side
   - salad
+hero: assets/images/mexican-street-corn-salad-esquites.webp
 ---
 
 # :corn: Mexican Street Corn Salad Esquites

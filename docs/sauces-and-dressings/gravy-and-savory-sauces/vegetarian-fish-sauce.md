@@ -2,9 +2,10 @@
 comments: true
 tags:
   - sauce
+hero: assets/images/vegetarian-fish-sauce.webp
 ---
 
-# Vegetarian Fish Sauce
+# :droplet: Vegetarian Fish Sauce
 
 ![Vegetarian Fish Sauce](../../assets/images/vegetarian-fish-sauce.webp){ loading=lazy }
 

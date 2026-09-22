@@ -3,8 +3,10 @@ comments: true
 tags:
   - beverage
   - applied-kitchen
+hero: assets/images/cucumber-chia-limeade.webp
 ---
-# Cucumber Chia Limeade
+
+# :cucumber: Cucumber Chia Limeade
 
 ![Cucumber Chia Limeade][1]{ loading=lazy }
 
@@ -51,4 +53,3 @@ Pour over ice and garnish with the reserved cucumbers and limes.
 - Applied Kitchen
 
 [1]: <../assets/images/cucumber-chia-limeade.webp>
-

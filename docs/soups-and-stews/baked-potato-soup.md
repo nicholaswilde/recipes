@@ -49,4 +49,8 @@ Remove 1/3 of soup and using immersion blender, blend in cream cheese.
 
 Top with shredded cheese (optional) and green onions (optional) if desired.
 
+## :link: Source
+
+- [The Magical Slow Cooker](https://www.themagicalslowcooker.com/slow-cooker-baked-potato-soup/)
+
 [1]: <../ingredients/vegetable-broth.md>

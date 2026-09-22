@@ -3,9 +3,10 @@ comments: true
 tags:
   - pastry-dough
   - ingredient
+hero: assets/images/handmade-puff-pastry-rough-puff-method.webp
 ---
 
-# Handmade Puff Pastry Rough Puff Method
+# :croissant: Handmade Puff Pastry Rough Puff Method
 
 ![Handmade Puff Pastry Rough Puff Method][1]{ loading=lazy }
 

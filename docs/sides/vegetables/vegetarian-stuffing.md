@@ -36,4 +36,8 @@ Prepare Mrs. Cubbison's stuffing as directed.
 
 Add celery, water chestnut, [vegetable broth][1], onion, butter, and poultry seasoning to taste before baking.
 
+## :link: Source
+
+- Mrs. Cubbison's
+
 [1]: <../../ingredients/vegetable-broth.md>

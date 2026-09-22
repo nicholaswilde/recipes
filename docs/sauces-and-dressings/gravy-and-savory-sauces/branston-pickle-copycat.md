@@ -2,6 +2,7 @@
 comments: true
 tags:
   - sauce
+hero: assets/images/branston-pickle-copycat.webp
 ---
 
 # :cucumber: Branston Pickle Copycat

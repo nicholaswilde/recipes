@@ -67,4 +67,8 @@ If you want an extra-fine flour, sift it through a fine-mesh sieve to remove any
 
     For a super fine texture, grind the rice once, then pass it through the grinder again.
 
+## :link: Source
+
+- Nicholas Wilde
+
 [1]: <../assets/images/rice-flour.webp>

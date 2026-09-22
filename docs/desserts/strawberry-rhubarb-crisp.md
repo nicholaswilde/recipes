@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/strawberry-rhubarb-crisp.webp
 ---
 
 # :strawberry: Strawberry Rhubarb Crisp

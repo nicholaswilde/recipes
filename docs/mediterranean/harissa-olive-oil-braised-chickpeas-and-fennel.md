@@ -64,7 +64,7 @@ Uncover and squeeze the juice from the reserved lemon half over the chickpeas an
 minutes. Taste and if you like things spicier, stir in a bit more harissa as desired. Crumble 4 ounces feta cheese
 over the top, sprinkle with reserved fennel fronds, and serve with crusty bread over cooked [couscous][2], if desired.
 
-### :link: Sources
+## :link: Sources
 
 - <https://www.thekitchn.com/harissa-olive-oil-braised-chickpeas-fennel-recipe-23105455>
 - Recipe Box

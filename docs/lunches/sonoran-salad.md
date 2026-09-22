@@ -58,6 +58,10 @@ Serve with roasted red pepper dressing.
 
 Top with black cumin (optional).
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../sides/grains-and-legumes/quinoa.md>
 [2]: <../ingredients/black-beans.md>
 

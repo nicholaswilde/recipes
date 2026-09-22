@@ -2,7 +2,9 @@
 comments: true
 tags:
   - bread
+hero: assets/images/copycat-texas-roadhouse-rolls.webp
 ---
+
 # :bread: Copycat Texas Roadhouse Rolls
 
 ![Copycat Texas Roadhouse Rolls][1]{ loading=lazy }
@@ -129,4 +131,3 @@ Butter.
 - <https://thecozycook.com/copycat-texas-roadhouse-rolls/>
 
 [1]: <../assets/images/copycat-texas-roadhouse-rolls.webp>
-

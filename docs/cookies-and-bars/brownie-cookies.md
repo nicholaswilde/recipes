@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/brownie-cookies.webp
 ---
 
 # :cookie: Brownie Cookies

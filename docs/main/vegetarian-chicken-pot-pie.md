@@ -2,7 +2,9 @@
 comments: true
 tags:
   - main
+hero: assets/images/vegetarian-chicken-pot-pie.webp
 ---
+
 # :pie: Vegetarian Chicken Pot Pie
 
 ![Vegetarian Chicken Pot Pie][1]{ loading=lazy }
@@ -88,4 +90,3 @@ Top each serving of pot pie with a biscuit. If you like, garnish with additional
 - Magnolia Journal
 
 [1]: <../assets/images/vegetarian-chicken-pot-pie.webp>
-

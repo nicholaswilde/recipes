@@ -43,4 +43,8 @@ Coarsely chop the raisins and add them to the chickpeas, drained.
 Add celery stalks, diced, chopped parsley, whole grain mustard, lemon juice, olive oil, and salt and pepper to taste,
 and stir well to combine.
 
+## :link: Source
+
+- [Shutterbean](https://www.shutterbean.com/)
+
 [1]: <../../assets/images/beach-day-chickpea-salad.webp>

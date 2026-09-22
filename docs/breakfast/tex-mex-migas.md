@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/tex-mex-migas.webp
 ---
 
 # :tea: Tex-Mex Migas

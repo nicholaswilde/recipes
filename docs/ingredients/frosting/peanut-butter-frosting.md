@@ -18,7 +18,7 @@ hero: assets/images/peanut-butter-frosting.webp
 
 ## :salt: Ingredients
 
-- :peanut: 0.5 cup (135 g) [smooth peanut butter][1]
+- :peanuts: 0.5 cup (135 g) [smooth peanut butter][1]
 - :cheese_wedge: 3 oz (85 g) cold cream cheese
 - :baby_bottle: 1.5 Tbsp (21 g) unsalted butter, softened
 - :flower_playing_cards: 1 tsp vanilla

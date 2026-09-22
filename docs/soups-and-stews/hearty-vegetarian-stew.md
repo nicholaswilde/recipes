@@ -66,4 +66,8 @@ If a thicker consistency is desired, let simmer for another 25 to 30 minutes.
 
 When ready, sprinkle with chopped parsley and serve hot.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/hearty-vegetarian-stew.webp>

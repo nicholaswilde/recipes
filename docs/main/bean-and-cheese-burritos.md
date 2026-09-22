@@ -2,8 +2,10 @@
 comments: true
 tags:
   - main
+hero: assets/images/bean-and-cheese-burritos.webp
 ---
-# Bean and Cheese Burritos
+
+# :beans: Bean and Cheese Burritos
 
 ![Bean and Cheese Burritos][1]{ loading=lazy }
 

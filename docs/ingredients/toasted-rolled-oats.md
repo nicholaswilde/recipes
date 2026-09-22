@@ -41,4 +41,8 @@ Remove from the oven and let cool completely before using.
 
     Keep a close eye on the oats during the last few minutes as they can go from golden to burnt quickly.
 
+## :link: Source
+
+- <https://www.thekitchn.com/how-to-toast-rolled-oats-cooking-lessons-from-the-kitchn-211477>
+
 [1]: <../assets/images/toasted-rolled-oats.webp>

@@ -3,9 +3,10 @@ comments: true
 tags:
   - bread
   - trader-joes
+hero: assets/images/bared-bacon-cheddar-cornbread-cake.webp
 ---
 
-# Bared Bacon Cheddar Cornbread Cake
+# :bacon: Bared Bacon Cheddar Cornbread Cake
 
 ![Bared Bacon Cheddar Cornbread Cake][1]{ loading=lazy }
 

@@ -3,8 +3,10 @@ comments: true
 tags:
   - side
   - salad
+hero: assets/images/tapenade-pasta-salad.webp
 ---
-# Tapenade Pasta Salad
+
+# :spaghetti: Tapenade Pasta Salad
 
 ![Tapenade Pasta Salad][1]{ loading=lazy }
 
@@ -70,4 +72,3 @@ pepper just before serving, ideally at room temperature.
 - NYT Cooking (Clare de Boer)
 
 [1]: <../../assets/images/tapenade-pasta-salad.webp>
-

@@ -55,3 +55,7 @@ Transfer to baking sheet. Sprinkle with salt. Bake 25 to 30 minutes, stirring ha
 ### Step 6
 
 Remove and season with salt and pepper to taste.
+
+## :link: Source
+
+- Physicians Committee for Responsible Medicine

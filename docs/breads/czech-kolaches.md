@@ -2,6 +2,7 @@
 comments: true
 tags:
   - bread
+hero: assets/images/czech-kolaches.webp
 ---
 
 # :glass_of_milk: Czech Kolaches

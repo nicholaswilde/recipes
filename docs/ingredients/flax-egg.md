@@ -21,4 +21,8 @@ A common vegan substitute for a single egg in baking.
 1. Whisk together ground flaxseed meal and water in a small bowl.
 2. Let it sit for 5-10 minutes until it thickens to an egg-like consistency.
 
+## :link: Source
+
+- <https://www.bobsredmill.com/recipes/how-to-make/flaxseed-meal-egg-replacer>
+
 [1]: <../assets/images/flax-egg.webp>

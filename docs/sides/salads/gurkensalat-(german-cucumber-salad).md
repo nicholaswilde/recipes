@@ -3,8 +3,10 @@ comments: true
 tags:
   - side
   - salad
+hero: assets/images/gurkensalat-(german-cucumber-salad).webp
 ---
-# Gurkensalat (German Cucumber Salad)
+
+# :green_salad: Gurkensalat (German Cucumber Salad)
 
 ![Gurkensalat (German Cucumber Salad)][1]{ loading=lazy }
 
@@ -50,4 +52,3 @@ coat evenly. Garnish with additional dill and pepper, if desired. Serve immediat
 - <https://www.eatingwell.com/gurkensalat-german-cucumber-salad-12016917>
 
 [1]: <../../assets/images/gurkensalat-(german-cucumber-salad).webp>
-

@@ -50,4 +50,8 @@ Stir every 10 minutes. Once cooked, blend potatoes and milk and butter mixture a
 
 Season with salt and pepper to taste.
 
+## :link: Source
+
+- Cook's Illustrated
+
 [1]: <../../reference/equivalents-and-substitutes.md#whole-milk>

@@ -58,4 +58,8 @@ evenly coated. Taste and adjust the salt or mustard to your liking.
 Let the salad chill in the fridge for 20 to 30 minutes before building the sandwiches to allow the dried dill to hydrate
 and flavors to marry.
 
+## :link: Source
+
+- Nicholas Wilde
+
 [1]: <../assets/images/creamy-chickpea-eggless-egg-salad-sandwich.webp>

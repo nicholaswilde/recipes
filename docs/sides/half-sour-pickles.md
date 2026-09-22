@@ -2,8 +2,10 @@
 comments: true
 tags:
   - side
+hero: assets/images/half-sour-pickles.png
 ---
-# Half Sour Pickles
+
+# :cucumber: Half Sour Pickles
 
 ![Half Sour Pickles](../assets/images/half-sour-pickles.png){ loading=lazy }
 

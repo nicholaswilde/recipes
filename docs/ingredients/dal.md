@@ -15,3 +15,7 @@ Dal refers to various dried, split pulses (legumes) such as lentils, peas, and b
 - **Masoor Dal:** Red lentils.
 - **Moong Dal:** Mung beans.
 - **Urad Dal:** Black gram.
+
+## :link: Source
+
+- [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)

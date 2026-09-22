@@ -5,6 +5,7 @@ tags:
 source: https://www.mercurynews.com/2020/05/11/barbecue-recipe-competition-style-smoked-chicken-thighs/
 author: Ray Sheehan
 total time: 30 minutes
+hero: assets/images/peach-bbq-sauce.webp
 ---
 
 # :peach: Peach BBQ Sauce

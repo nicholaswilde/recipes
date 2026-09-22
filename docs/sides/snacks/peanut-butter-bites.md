@@ -7,7 +7,7 @@ comments: true
 hero: assets/images/peanut-butter-bites.webp
 ---
 
-# :peanut: Peanut Butter Bites
+# :peanuts: Peanut Butter Bites
 
 ![Peanut Butter Bites](../../assets/images/peanut-butter-bites.webp){ loading=lazy }
 
@@ -44,5 +44,9 @@ fork to make a cross hatch.
 ### Step 3
 
 Keep covered and chilled in the fridge.
+
+## :link: Source
+
+- Recipe Box
 
 [1]: <../../ingredients/peanut-butter.md>

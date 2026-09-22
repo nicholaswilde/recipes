@@ -3,8 +3,10 @@ comments: true
 tags:
   - dip
   - spread
+hero: assets/images/spicy-chipotle-hummus.webp
 ---
-# Spicy Chipotle Hummus
+
+# :hot_pepper: Spicy Chipotle Hummus
 
 ![Spicy Chipotle Hummus](../../assets/images/spicy-chipotle-hummus.webp){ loading=lazy }
 

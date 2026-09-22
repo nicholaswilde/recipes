@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/flourless-chocolate-cake-(king-arthur-baking).webp
 ---
 
 # :chocolate_bar: Flourless Chocolate Cake (King Arthur Baking)

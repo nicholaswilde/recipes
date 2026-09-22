@@ -10,6 +10,7 @@ source: https://www.kingarthurbaking.com/recipes/hamburger-potato-buns-recipe
 servings: 6
 prep time: 20 minutes
 cook time: 20 minutes
+hero: assets/images/hamburger-potato-buns.webp
 ---
 
 # :potato: Hamburger Potato Buns

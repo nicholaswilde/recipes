@@ -3,6 +3,7 @@ comments: true
 tags:
   - soup
   - stew
+hero: assets/images/spicy-white-bean-stew-with-broccoli-rabe.webp
 ---
 
 # :beans: Spicy White Bean Stew With Broccoli Rabe

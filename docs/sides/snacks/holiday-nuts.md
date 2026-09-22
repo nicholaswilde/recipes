@@ -46,3 +46,7 @@ sugar and salt gradually.
 
 Stir nuts into meringue and spread into pan. Bake for 45 minutes at 300°F, gently turning over with a pancake turner
 every 15 minutes. Cool and store in covered pan.
+
+## :link: Source
+
+- Recipe Box

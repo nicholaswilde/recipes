@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/tomato-pie.webp
 ---
 
 # :tomato: Tomato Pie

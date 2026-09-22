@@ -1,3 +1,10 @@
+---
+tags:
+  - sides
+comments: true
+hero: assets/images/mexican-rice.webp
+---
+
 # :rice: Mexican Rice
 
 ![Mexican Rice](../../assets/images/mexican-rice.webp){ loading=lazy }

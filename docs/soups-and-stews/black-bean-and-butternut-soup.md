@@ -62,5 +62,9 @@ minutes, giving the pan a gentle shake halfway through.
 
 Garnish soup with tortilla strips, chopped cilantro, and avocado.
 
+## :link: Source
+
+- [Sprouted Kitchen](https://www.sproutedkitchen.com/home/2012/10/31/black-bean-butternut-soup.html)
+
 [1]: <../ingredients/vegetable-broth.md>
 [2]: <../ingredients/black-beans.md>

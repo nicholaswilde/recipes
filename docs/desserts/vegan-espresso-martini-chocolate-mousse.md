@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/vegan-espresso-martini-chocolate-mousse.webp
 ---
 
 # :chocolate_bar: Vegan espresso martini chocolate mousse

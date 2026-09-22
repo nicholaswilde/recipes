@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/sun-dried-tomatoes.webp
 ---
 
 # :tomato: Sun-Dried Tomatoes

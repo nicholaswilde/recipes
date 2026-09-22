@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - dessert
-hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-panna-cotta.webp
+hero: assets/images/buttermilk-panna-cotta.webp
 ---
 
 # :icecream: [buttermilk](../ingredients/buttermilk.md) Panna Cotta

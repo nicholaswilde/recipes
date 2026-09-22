@@ -39,5 +39,9 @@ leaf lettuce.
 
 Roll tightly then cut in half and serve.
 
+## :link: Source
+
+- Trader Joe's
+
 [1]: <../main/roasted-cauliflower-tacos-with-chipotle-romesco.md#sauce>
 [2]: <../ingredients/roasted-red-peppers.md>

@@ -2,8 +2,10 @@
 comments: true
 tags:
   - side
+hero: assets/images/cowboy-caviar.webp
 ---
-# Cowboy Caviar
+
+# :beans: Cowboy Caviar
 
 ![Cowboy Caviar][1]{ loading=lazy }
 

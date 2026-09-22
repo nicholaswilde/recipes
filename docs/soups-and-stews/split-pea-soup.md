@@ -55,4 +55,8 @@ When peas have fully cooked, puree with an immersion blender.
 
 Garnish with shredded carrots and sliced green onions.
 
+## :link: Source
+
+- [Taste of Home](https://www.tasteofhome.com/recipes/vegetarian-split-pea-soup/)
+
 [1]: <../ingredients/vegetable-broth.md>

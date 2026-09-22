@@ -33,3 +33,7 @@ Add dried black beans to cold water and kosher salt in a pressure cooker.
 ### Step 2
 
 Pressure cook on high for 50 minutes. Allow pressure to release naturally for 20 minutes. Makes 545g total.q
+
+## :link: Source
+
+- [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)

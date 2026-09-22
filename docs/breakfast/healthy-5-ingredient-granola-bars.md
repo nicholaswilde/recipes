@@ -2,8 +2,10 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/healthy-5-ingredient-granola-bars.webp
 ---
-# Healthy 5-Ingredient Granola Bars
+
+# :cookie: Healthy 5-Ingredient Granola Bars
 
 ![Healthy 5-Ingredient Granola Bars][1]{ loading=lazy }
 

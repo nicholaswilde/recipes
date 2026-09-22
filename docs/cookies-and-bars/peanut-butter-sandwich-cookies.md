@@ -25,7 +25,7 @@ hero: assets/images/peanut-butter-sandwich-cookies.webp
     - :chestnut: 1 tsp baking soda
     - :salt: 0.5 tsp salt
     - :butter: 3 Tbsp (42 g) unsalted butter
-    - :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+    - :peanuts: 0.5 cup (135 g) [creamy peanut butter][1]
     - :candy: 0.5 cup (99 g) (3.5 oz/99 g) granulated sugar
     - :candy: 0.5 cup (106 g) (3.5 oz/99 g) [light brown sugar][2]
     - :glass_of_milk: 3 Tbsp (43 g) whole milk
@@ -33,7 +33,7 @@ hero: assets/images/peanut-butter-sandwich-cookies.webp
 
 === "Filling"
 
-    - :peanut: 0.75 cup (202 g) [creamy peanut butter][1]
+    - :peanuts: 0.75 cup (202 g) [creamy peanut butter][1]
     - :butter: 3 Tbsp (42 g) unsalted butter
     - :candy: 1 cup (192 g) (4 oz/113 g) confectioners’ sugar
 

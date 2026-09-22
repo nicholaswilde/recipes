@@ -45,5 +45,9 @@ Cook for 5 minutes, then add the peas. Season with salt and pepper and cook for 
 
 Pour veggies into a bowl and cool for 10 minutes. Add chickpeas, crumbled feta, lemon zest, lemon juice, and olive oil.
 
+## :link: Source
+
+- [She Likes Food](https://www.shelikesfood.com/lemony-broccoli-salad-with-chickpeas-and-feta/)
+
 [1]: <../../assets/images/lemony-broccoli-salad-with-chickpeas-&-feta.jpg>
 [2]: <../../ingredients/chickpeas.md>

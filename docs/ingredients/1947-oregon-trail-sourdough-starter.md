@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/1947-oregon-trail-sourdough-starter.webp
 ---
 
 # :droplet: 1947 Oregon Trail [Sourdough Starter](sourdough-starter.md)

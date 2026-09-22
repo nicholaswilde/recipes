@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+hero: assets/images/garlic-dill-pickles.webp
 ---
 
 # :cucumber: Garlic Dill Pickles

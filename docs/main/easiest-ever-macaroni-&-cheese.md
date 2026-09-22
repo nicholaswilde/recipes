@@ -65,4 +65,8 @@ Off heat, sprinkle Parmesan over panko and stir to combine.
 
 Transfer macaroni to serving dish and sprinkle panko mixture over top.
 
+## :link: Source
+
+- Cook's Illustrated
+
 [1]: <../sauces-and-dressings/dijon-mustard.md>

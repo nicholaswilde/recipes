@@ -16,7 +16,7 @@ hero: assets/images/tiny-mini-kisses-peanut-blossoms.webp
 
 ## :salt: Ingredients
 
-- :peanut: 0.75 cup (202 g) REESE's Creamy Peanut Butter
+- :peanuts: 0.75 cup (202 g) REESE's Creamy Peanut Butter
 - :butter: 0.5 cup (92 g) vegetable shortening
 - :candy: 0.33 cup (65 g) granulated sugar
 - :maple_leaf: 0.33 cup (70 g) brown sugar

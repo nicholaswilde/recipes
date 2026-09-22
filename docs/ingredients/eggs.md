@@ -14,6 +14,6 @@ Standard large eggs are used in many recipes as a binder or for leavening.
 - Keep refrigerated.
 - Fresh eggs last for several weeks.
 
-## :link: Reference
+## :link: Sources
 
 - [Egg Substitutes](../reference/equivalents-and-substitutes.md#eggs)

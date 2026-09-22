@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/cheddar-cheese-powder.webp
 ---
 
 # :cheese_wedge: Cheddar Cheese Powder

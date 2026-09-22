@@ -91,7 +91,7 @@ until fluffy and the cream holds a soft peak when you pull the beater out of the
 Spread the cream on the cooled pie. Garnish with fresh lemon slices, a sprinkle of lemon zest,
 [candied lemon peel][3], and mint sprigs.
 
-### :link: Source
+## :link: Source
 
 - [Magnolia](https://web.archive.org/web/20230104034648/https://magnolia.com/blog/article/12252/lemon-pie-recipe/)
 

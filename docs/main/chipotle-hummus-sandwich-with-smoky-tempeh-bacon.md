@@ -2,8 +2,10 @@
 comments: true
 tags:
   - main
+hero: assets/images/chipotle-hummus-sandwich-with-smoky-tempeh-bacon.webp
 ---
-# Chipotle Hummus Sandwich with Smoky Tempeh Bacon
+
+# :bacon: Chipotle Hummus Sandwich with Smoky Tempeh Bacon
 
 ![Chipotle Hummus Sandwich with Smoky Tempeh Bacon][1]{ loading=lazy }
 
@@ -50,4 +52,3 @@ and assemble sandwiches when ready for quick weekday lunches!
 - <https://minimalistbaker.com/chipotle-hummus-sandwich-with-smoky-tempeh-bacon/>
 
 [1]: <../assets/images/chipotle-hummus-sandwich-with-smoky-tempeh-bacon.webp>
-

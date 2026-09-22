@@ -47,3 +47,7 @@ Slow cook on high, 3 to 5 hours, take off lid for last 20 to 30 minutes and cont
 ### Step 4
 
 To bake in oven, preheat to 350°F and bake for 30 minutes.
+
+## :link: Source
+
+- Recipe Box

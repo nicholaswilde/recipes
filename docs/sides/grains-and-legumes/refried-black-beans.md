@@ -54,4 +54,8 @@ Use an immersion blender to blend, adding in liquid to desired consistency.
 
 Stir in salt and lime juice to taste.
 
+## :link: Source
+
+- [Wanderzest](https://wanderzestblog.com/instant-pot-refried-black-beans/)
+
 [1]: <../../ingredients/black-beans.md>

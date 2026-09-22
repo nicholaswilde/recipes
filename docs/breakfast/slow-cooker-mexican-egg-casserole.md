@@ -25,7 +25,7 @@ hero: assets/images/slow-cooker-mexican-egg-casserole.webp
 - :butter: 1 cube butter
 - :cheese_wedge: 2 pkgs blended shredded cheese
 - :glass_of_milk: 1 container sour cream
-- :avodado: 1 container guacamole
+- :avocado: 1 container guacamole
 
 ## :cooking: Cookware
 
@@ -74,3 +74,7 @@ Stir before serving.
 ### Step 10
 
 Side with sour cream and guacamole.
+
+## :link: Source
+
+- Recipe Box

@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-whole-wheat-waffles.webp
+hero: assets/images/buttermilk-whole-wheat-waffles.webp
 ---
 
 # :waffle: [buttermilk](../ingredients/buttermilk.md) Whole Wheat Waffles

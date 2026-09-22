@@ -4,9 +4,10 @@ tags:
   - cookie
   - bar
   - dessert
+hero: assets/images/dry-fruit-and-nut-energy-bars.webp
 ---
 
-# Dry Fruit and Nut Energy Bars
+# :cookie: Dry Fruit and Nut Energy Bars
 
 ![Dry Fruit and Nut Energy Bars][1]{ loading=lazy }
 

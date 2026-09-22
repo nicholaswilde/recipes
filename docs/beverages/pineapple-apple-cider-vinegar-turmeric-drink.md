@@ -47,4 +47,8 @@ Top with 6 to 12 oz sparkling water and garnish with mint and/or lime (optional)
 Feel free to adjust the amount of apple cider vinegar to your preference. You can also add a bit of black pepper to
 enhance the flavor. Enjoy!
 
+## :link: Source
+
+- Nicholas Wilde
+
 [1]: <../assets/images/pineapple-apple-cider-vinegar-turmeric-drink.webp>

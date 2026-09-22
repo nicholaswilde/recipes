@@ -6,7 +6,7 @@ tags:
 hero: assets/images/guacamole.jpg
 ---
 
-# :avodado: Guacamole
+# :avocado: Guacamole
 
 ![Guacamole][1]{ loading=lazy }
 

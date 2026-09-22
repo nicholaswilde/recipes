@@ -49,5 +49,9 @@ Heat griddle with grape seed oil and scoop 1/4 cup batter onto grill at a time.
 
 Serve with cabbage slaw, TJ's chicken-less chicken fingers and TJ's cilantro dressing with a test of lime.
 
+## :link: Source
+
+- Trader Joe's
+
 [1]: <../sauces-and-dressings/salsas/sweet-and-spicy-corn-salsa.md>
 [2]: <../sauces-and-dressings/vinaigrettes/cilantro-dressing.md>

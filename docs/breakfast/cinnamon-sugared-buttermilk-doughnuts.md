@@ -3,7 +3,7 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/cinnamon-sugared-[buttermilk](../ingredients/buttermilk.md)-doughnuts.webp
+hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
 ---
 
 # :doughnut: Cinnamon-Sugared [buttermilk](../ingredients/buttermilk.md) Doughnuts

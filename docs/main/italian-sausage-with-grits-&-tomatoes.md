@@ -51,5 +51,9 @@ Remove from heat and stir in shredded cheddar cheese. Lightly brown soy Italian 
 
 Serve over grits with chopped halved cherry tomatoes and parsley.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/italian-sausage-with-grits-&-tomatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>

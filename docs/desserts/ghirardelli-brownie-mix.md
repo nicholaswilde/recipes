@@ -2,9 +2,10 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/ghirardelli-brownie-mix.webp
 ---
 
-# Ghirardelli Brownie Mix
+# :chocolate_bar: Ghirardelli Brownie Mix
 
 ![Ghirardelli Brownie Mix][1]{ loading=lazy }
 

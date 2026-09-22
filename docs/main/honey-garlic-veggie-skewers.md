@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/honey-garlic-veggie-skewers.webp
 ---
 
 # :garlic: Honey Garlic Veggie Skewers

@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - pie
+hero: assets/images/strawberry-rhubarb-cardamom-galette.webp
 ---
 
 # :strawberry: Strawberry Rhubarb Cardamom Galette

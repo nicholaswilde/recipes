@@ -56,4 +56,8 @@ Add remaining [Vegetable Broth](../../ingredients/vegetable-broth.md) and season
 
 Bring to a boil then lower heat and simmer for 3 minutes. Pour mixture into a bowl and mix in chopped fresh parsley.
 
+## :link: Source
+
+- Physicians Committee for Responsible Medicine
+
 [1]: <../../ingredients/vegetable-broth.md>

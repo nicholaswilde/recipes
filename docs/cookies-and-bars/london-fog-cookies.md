@@ -10,6 +10,7 @@ tags:
 - new-york-times
 - carolina-gelen
 source: New York Times
+hero: assets/images/london-fog-cookies.webp
 ---
 
 # :cookie: London Fog Cookies

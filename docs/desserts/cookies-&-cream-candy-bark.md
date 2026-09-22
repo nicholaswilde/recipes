@@ -43,4 +43,8 @@ Drop spoonfuls of both mixtures onto wax paper and swirl with a knife.
 
 Sprinkle remaining Oreos on top; allow to harden in refrigerator.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/cookies-&-cream-candy-bark.webp>

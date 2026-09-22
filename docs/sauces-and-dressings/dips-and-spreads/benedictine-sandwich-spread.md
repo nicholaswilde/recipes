@@ -53,3 +53,7 @@ Squeeze out excess liquid.
 ### Step 6
 
 Combine with salt, white pepper, and cream cheese and refrigerate up to three days.
+
+## :link: Source
+
+- Jennie Benedict

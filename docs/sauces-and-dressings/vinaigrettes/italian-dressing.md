@@ -2,8 +2,10 @@
 comments: true
 tags:
   - dressing
+hero: assets/images/italian-dressing.webp
 ---
-# Italian Dressing
+
+# :olive: Italian Dressing
 
 ![Italian Dressing](../../assets/images/italian-dressing.webp){ loading=lazy }
 

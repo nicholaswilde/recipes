@@ -2,8 +2,10 @@
 comments: true
 tags:
   - main
+hero: assets/images/garlic-bread-grilled-cheese.webp
 ---
-# Garlic Bread Grilled Cheese
+
+# :garlic: Garlic Bread Grilled Cheese
 
 ![Garlic Bread Grilled Cheese][1]{ loading=lazy }
 

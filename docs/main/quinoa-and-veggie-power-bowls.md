@@ -79,6 +79,10 @@ Whisk until emulsified. Once baked, add Brussels sprouts and sweet potatoes to s
 
 Serve with desired toppings (e.g. pine nuts (optional), avocado (optional), hummus (optional)).
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/quinoa-and-veggie-power-bowls.webp>
 [2]: <../sides/grains-and-legumes/quinoa.md>
 [3]: <../sauces-and-dressings/dijon-mustard.md>

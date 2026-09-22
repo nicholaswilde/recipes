@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/migas.webp
 ---
 
 # :hot_pepper: Migas

@@ -3,7 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
-hero: assets/images/one-bowl-[buttermilk](../../ingredients/buttermilk.md)-birthday-cake-with-cream-cheese-frosting.webp
+hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp
 ---
 
 # :cake: One-Bowl [buttermilk](../../ingredients/buttermilk.md) Birthday Cake with Cream Cheese Frosting

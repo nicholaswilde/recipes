@@ -2,6 +2,7 @@
 comments: true
 tags:
   - lunch
+hero: assets/images/ploughman's-sandwich.webp
 ---
 
 # :sandwich: Ploughman's Sandwich

@@ -5,6 +5,7 @@ tags:
 source: https://www.statesman.com/story/lifestyle/food/2020/12/18/all-your-christmas-ham-needs-cherry-bourbon-barbecue-sauce/3888883001/
 author: Ray Sheehan
 total time: 30 minutes
+hero: assets/images/cherry-bourbon-barbecue-sauce.webp
 ---
 
 # :cherries: Cherry Bourbon Barbecue Sauce

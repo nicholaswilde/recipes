@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/vegan-jambalaya.webp
 ---
 
 # :stew: Vegan Jambalaya

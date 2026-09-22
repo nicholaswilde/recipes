@@ -2,9 +2,10 @@
 comments: true
 tags:
   - bread
+hero: assets/images/sourdough-discard-pizza-crust.webp
 ---
 
-# Sourdough Discard Pizza Crust
+# :pizza: Sourdough Discard Pizza Crust
 
 ![Sourdough Discard Pizza Crust][1]{ loading=lazy }
 

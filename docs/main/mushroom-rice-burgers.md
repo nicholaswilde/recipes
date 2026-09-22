@@ -48,6 +48,10 @@ Cover mixture and refrigerate 3 to 4 hours. Make 4 patties and refrigerate for 1
 
 On grill, cook 4 to 6 minutes per side.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/mushroom-rice-burgers.webp>
 [2]: <../ingredients/brown-rice.md>
 [3]: <../ingredients/eggs.md>

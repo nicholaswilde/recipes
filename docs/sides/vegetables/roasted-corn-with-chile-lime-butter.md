@@ -6,7 +6,7 @@ tags:
 hero: assets/images/roasted-corn-with-chile-lime-butter.webp
 ---
 
-# Roasted Corn with Chile Lime Butter
+# :corn: Roasted Corn with Chile Lime Butter
 
 ![Roasted Corn with Chile Lime Butter](../../assets/images/roasted-corn-with-chile-lime-butter.webp){ loading=lazy }
 

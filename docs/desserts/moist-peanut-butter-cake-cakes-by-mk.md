@@ -6,7 +6,7 @@ tags:
 hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.webp
 ---
 
-# :peanut: Moist Peanut Butter Cake
+# :peanuts: Moist Peanut Butter Cake
 
 ![Moist Peanut Butter Cake][1]{ loading=lazy }
 
@@ -96,7 +96,7 @@ Start on the lowest speed for about 1 minute until combined.
 Turn the speed up to medium-high and whip for a full 10 minutes, scraping down the bowl halfway through. The frosting
 should become incredibly silky, light, and fluffy.
 
-## :link: References
+## :link: Sources
 
 - [Bake-Off: The Best Peanut Butter Cakes](https://www.thepancakeprincess.com/the-peanut-butter-cake-bake-off/)
 

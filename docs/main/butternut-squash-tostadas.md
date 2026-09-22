@@ -30,7 +30,7 @@ hero: assets/images/butternut-squash-tostadas.webp
 - :tomato: 0.25 cup salsa
 - :grapes: 0.5 cup (105 g) red cabbage
 - :herb: 0.25 cup (10 g) cilantro
-- :avodado: 0.25 cup Mexicrema dressing or guacamole
+- :avocado: 0.25 cup Mexicrema dressing or guacamole
 
 ## :cooking: Cookware
 

@@ -46,5 +46,9 @@ salt, liquid smoke, yellow mustard, bay leaf, and [Vegetable Broth](../ingredien
 
 Cook on high for 4 to 5 hours or low 6 to 7 hours.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/slow-cooker-vegetarian-black-eyed-peas.webp>
 [2]: <../ingredients/vegetable-broth.md>

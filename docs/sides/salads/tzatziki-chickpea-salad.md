@@ -3,6 +3,7 @@ comments: true
 tags:
   - side
   - salad
+hero: assets/images/tzatziki-chickpea-salad.png
 ---
 
 # :green_salad: Tzatziki Chickpea Salad

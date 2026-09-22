@@ -57,3 +57,7 @@ Season with salt and pepper to taste.
 ### Step 5
 
 Bake 35 to 45 minutes.
+
+## :link: Source
+
+- [Jiffy Mix](https://site.jiffymix.com/recipe/corn-casserole/)

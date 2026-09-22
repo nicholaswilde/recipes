@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - joy-of-cooking
-hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-pancakes.webp
+hero: assets/images/buttermilk-pancakes.webp
 ---
 
 # :pancakes: [buttermilk](../ingredients/buttermilk.md) Pancakes

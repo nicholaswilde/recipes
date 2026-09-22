@@ -60,4 +60,8 @@ Fill hard taco shells with lentil mixture and top with shredded pepper jack chee
 
 Bake 10 to 15 minutes at 400°F. Top with shredded lettuce, cilantro, and favorite topping.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../ingredients/seasonings/taco-seasoning.md>

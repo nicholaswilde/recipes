@@ -5,7 +5,7 @@ tags:
 hero: assets/images/pumpkin-cream-cheese-muffins.jpg
 ---
 
-# :muffin: Pumpkin Cream Cheese Muffins
+# :cupcake: Pumpkin Cream Cheese Muffins
 
 ![Pumpkin Cream Cheese Muffins][1]{ loading=lazy }
 

@@ -19,7 +19,7 @@ hero: assets/images/peanut-butter-chocolate-chip-protein-bites.webp
 ## :salt: Ingredients
 
 - :honey_pot: 2 Tbsp (39 g) honey or maple syrup
-- :peanut: 0.5 cup (135 g) [creamy peanut butter][1]
+- :peanuts: 0.5 cup (135 g) [creamy peanut butter][1]
 - :flower_playing_cards: 1 tsp vanilla
 - :ear_of_rice: 0.5 cup (56 g) rolled oats
 - :chocolate_bar: 0.5 cup (88 g) mini chocolate chips

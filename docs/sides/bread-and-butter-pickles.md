@@ -2,8 +2,10 @@
 comments: true
 tags:
   - side
+hero: assets/images/bread-and-butter-pickles.webp
 ---
-# Bread and Butter Pickles
+
+# :cucumber: Bread and Butter Pickles
 
 ![Bread and Butter Pickles](../assets/images/bread-and-butter-pickles.webp){ loading=lazy }
 

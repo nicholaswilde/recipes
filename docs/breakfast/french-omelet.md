@@ -31,7 +31,7 @@ hero: assets/images/french-omelet.webp
     - :herb: some parsley
     - some [ratatouille provençale][1]
     - :mushroom: some creamed mushrooms
-    - :avodado: some guacamole and salsa fresca
+    - :avocado: some guacamole and salsa fresca
     - :cheese_wedge: some [Ricotta](../ingredients/ricotta.md) or goat cheese mixed with tomatoes and herbs
     - :glass_of_milk: some chopped olives and sour cream
     - some duxelles

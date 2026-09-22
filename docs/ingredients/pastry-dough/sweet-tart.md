@@ -74,4 +74,8 @@ Prick the bottom with a fork and refrigerate for 30 minutes.
 
 Bake at 350°F for 15 to 20 minutes or until golden brown.
 
+## :link: Source
+
+- <https://www.youtube.com/watch?v=Fowgc-J4kCc>
+
 [1]: <../almond-flour.md>

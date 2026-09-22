@@ -20,3 +20,7 @@ Lentils are small, lens-shaped legumes available in various colors and textures.
 
 - Store dried lentils in a cool, dry place for up to a year.
 - Cooked lentils last 3-5 days in the refrigerator.
+
+## :link: Source
+
+- [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)

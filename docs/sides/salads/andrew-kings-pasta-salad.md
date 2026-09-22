@@ -3,8 +3,10 @@ comments: true
 tags:
   - side
   - salad
+hero: assets/images/andrew-kings-pasta-salad.webp
 ---
-# Andrew Kings Pasta Salad
+
+# :spaghetti: Andrew Kings Pasta Salad
 
 ![Andrew Kings Pasta Salad][1]{ loading=lazy }
 
@@ -69,4 +71,3 @@ Season with shredded Parmesan, sea salt, and fine black pepper to taste.
 - Andrew King
 
 [1]: <../../assets/images/andrew-kings-pasta-salad.webp>
-

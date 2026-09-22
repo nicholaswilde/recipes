@@ -60,5 +60,9 @@ place them in a single layer on a baking sheet. Bake for 5 to 10 minutes until c
 To assemble the tostadas, spread some of the refried [black beans][2] on each tostada shell. Top with pickled cabbage and
 onion, sliced avocado, and fresh cilantro.
 
+## :link: Source
+
+- <https://jessicaseinfeld.com/recipes/tostadas-with-refried-black-beans-and-pickled-cabbage>
+
 [1]: <../assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.webp>
 [2]: <../ingredients/black-beans.md>

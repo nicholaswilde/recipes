@@ -48,4 +48,8 @@ Cook for 20 minutes.
 
 Layer tiers with whipped cream.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/eggnog-cake.webp>

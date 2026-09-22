@@ -2,6 +2,7 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/charred-and-peeled-poblano-peppers.webp
 ---
 
 # :hot_pepper: Charred and Peeled Poblano Peppers

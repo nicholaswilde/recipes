@@ -5,7 +5,7 @@ tags:
   - bread
   - kenji-lopez-alt
   - bake-off
-hero: assets/images/[buttermilk](../ingredients/buttermilk.md)-biscuits.webp
+hero: assets/images/buttermilk-biscuits.webp
 ---
 
 # :cookie: [buttermilk](../ingredients/buttermilk.md) Biscuits

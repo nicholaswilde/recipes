@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/persian-saffron-rice-pudding-sholeh-zard.webp
 ---
 
 # :rice: Persian Saffron Rice Pudding Sholeh Zard

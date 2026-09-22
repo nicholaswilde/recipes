@@ -3,9 +3,10 @@ comments: true
 tags:
   - dessert
   - cake
+hero: assets/images/boston-cream-pie.webp
 ---
 
-# Boston Cream Pie
+# :cake: Boston Cream Pie
 
 ![Boston Cream Pie][1]{ loading=lazy }
 

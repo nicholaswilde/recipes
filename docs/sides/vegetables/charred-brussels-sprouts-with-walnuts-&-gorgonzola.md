@@ -54,4 +54,8 @@ Meanwhile, toast walnuts in a heated for 8 to 10 minutes.
 
 Transfer to a large bowl. Add Brussels sprouts, walnuts, crumbled Gorgonzola, and balsamic vinegar.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg>

@@ -5,6 +5,7 @@ tags:
   - strawberry
   - dip
   - easy
+hero: assets/images/strawberry-salsa.webp
 ---
 
 # :strawberry: Strawberry Salsa

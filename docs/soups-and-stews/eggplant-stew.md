@@ -58,3 +58,7 @@ Add quartered plum tomatoes, eggplant, drained chickpeas, 1 cup water, 1 tsp sal
 
 Simmer, covered, about 20 minutes, stirring once or twice. Stir in chopped parsley and serve over quinoa or other
 favorite grain.
+
+## :link: Source
+
+- Recipe Box

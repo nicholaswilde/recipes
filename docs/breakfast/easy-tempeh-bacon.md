@@ -2,8 +2,10 @@
 comments: true
 tags:
   - breakfast
+hero: assets/images/easy-tempeh-bacon.webp
 ---
-# Easy Tempeh Bacon
+
+# :bacon: Easy Tempeh Bacon
 
 ![Easy Tempeh Bacon][1]{ loading=lazy }
 
@@ -78,4 +80,3 @@ for up to 2 months. Reheat in a 350 °F (176°C) oven or on the stovetop over me
 - <https://minimalistbaker.com/easy-tempeh-bacon/>
 
 [1]: <../assets/images/easy-tempeh-bacon.webp>
-

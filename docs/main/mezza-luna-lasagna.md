@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/mezza-luna-lasagna.webp
 ---
 
 # :crescent_moon: Mezza Luna Lasagna

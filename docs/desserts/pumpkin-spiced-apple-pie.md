@@ -96,5 +96,9 @@ Prepare the crumb topping by combining brown sugar, butter, and flour. Stir in c
 
 Reduce oven temperature to 350°F and bake for 30 minutes.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/pumpkin-spiced-apple-pie.webp>
 [2]: <../ingredients/seasonings/pumpkin-pie-spice.md>

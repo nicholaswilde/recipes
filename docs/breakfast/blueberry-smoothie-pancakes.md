@@ -47,4 +47,8 @@ remaining blueberries.
 Place oil in heated pan, then pour batter to make pancakes. Top with yogurt (optional), cinnamon (optional), nuts
 (optional), and honey (optional).
 
+## :link: Source
+
+- [Jamie Oliver](https://www.jamieoliver.com/recipes/fruit-recipes/blueberry-smoothie-pancakes/)
+
 [1]: <../assets/images/blueberry-smoothie-pancakes.webp>

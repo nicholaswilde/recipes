@@ -3,6 +3,7 @@ comments: true
 tags:
   - soup
   - stew
+hero: assets/images/lasagna-soup.webp
 ---
 
 # :bowl_with_spoon: Lasagna Soup

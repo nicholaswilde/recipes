@@ -2,8 +2,10 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/skillet-caramelized-peaches.webp
 ---
-# Skillet Caramelized Peaches
+
+# :peach: Skillet Caramelized Peaches
 
 ![Skillet Caramelized Peaches][1]{ loading=lazy }
 
@@ -56,4 +58,3 @@ Scoop vanilla ice cream into bowls and spoon over the peach mixture. Top with ch
 - Applied Kitchen
 
 [1]: <../assets/images/skillet-caramelized-peaches.webp>
-

@@ -2,8 +2,10 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/fermented-honey-garlic.png
 ---
-# Fermented Honey Garlic
+
+# :garlic: Fermented Honey Garlic
 
 ![Fermented Honey Garlic][1]{ loading=lazy }
 
@@ -61,4 +63,3 @@ place.
 - <https://lifebymikeg.com/blogs/all/fermented-honey-garlic-recipe-pro-home-cooks>
 
 [1]: <../assets/images/fermented-honey-garlic.png>
-

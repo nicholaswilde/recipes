@@ -55,5 +55,9 @@ Increase heat to high and cook 1 to 2 hours more.
 
 Note: For brown rice, cook 2 more hours beyond the initial 4 to 5 hours.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/slow-cooker-red-beans-and-rice.webp>
 [2]: <../ingredients/vegetable-broth.md>

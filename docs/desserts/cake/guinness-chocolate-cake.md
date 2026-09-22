@@ -110,7 +110,7 @@ too thin, add more sugar; if too thick, add the remaining tablespoon of Guinness
 
 Place one cake layer on a stand, cover with frosting, top with the second layer, and frost the top and sides.
 
-## :link: References
+## :link: Sources
 
 - [Bake-Off: The Best Guinness Chocolate Cakes](https://www.thepancakeprincess.com/the-guinness-chocolate-cake-bake-off/)
 

@@ -60,4 +60,8 @@ Pour into 1.5 quart baking dish.
 
 Bake for 20 minutes; sprinkle with cheddar cheese (optional) if desired, and bake for 10 minutes more.
 
+## :link: Source
+
+- French's
+
 [1]: <../../ingredients/vegetable-broth.md>

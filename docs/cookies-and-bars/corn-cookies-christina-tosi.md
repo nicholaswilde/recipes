@@ -70,7 +70,7 @@ Arrange the chilled dough at least 4 inches apart on parchment-lined pans. Bake 
 
 The cookies are done when they have puffed, crackled, and are faintly browned on the edges but still bright yellow in the center. Let them cool completely on the :cookie: sheet pans before moving them.
 
-## :link: References
+## :link: Sources
 
 - [Bake-Off: The Best Corn Cookies](https://www.thepancakeprincess.com/best-corn-cookie-bake-off/)
 

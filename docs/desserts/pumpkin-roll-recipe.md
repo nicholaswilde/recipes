@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+hero: assets/images/pumpkin-roll-recipe.webp
 ---
 
 # :bread: Pumpkin Roll Recipe

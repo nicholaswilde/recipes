@@ -9,6 +9,7 @@ serves: 13
 prep time: 30 minutes
 cook time: 30 minutes
 total time: 3 hours
+hero: assets/images/old-fashioned-sour-cream-cake-donuts.webp
 ---
 
 # :doughnut: Old Fashioned Sour Cream Cake Donuts

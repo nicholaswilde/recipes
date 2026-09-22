@@ -38,3 +38,7 @@ Allow pressure to release naturally for 20 minutes.
 ### Step 3
 
 Drain, then serve/prepare as desired. Makes roughly 450g (1 can) cooked.
+
+## :link: Source
+
+- [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)

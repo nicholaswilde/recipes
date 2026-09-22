@@ -7,7 +7,7 @@ tags:
 hero: assets/images/oil-free-easy-french-hummus-dressing.jpg
 ---
 
-# :salad_bowl: Oil-Free Easy French Hummus Dressing
+# :green_salad: Oil-Free Easy French Hummus Dressing
 
 ![Oil-Free Easy French Hummus Dressing][1]{ loading=lazy }
 

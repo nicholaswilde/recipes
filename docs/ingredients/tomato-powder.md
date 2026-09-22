@@ -2,8 +2,10 @@
 comments: true
 tags:
   - ingredient
+hero: assets/images/tomato-powder.webp
 ---
-# Tomato Powder
+
+# :tomato: Tomato Powder
 
 ![Tomato Powder][1]{ loading=lazy }
 
@@ -68,4 +70,3 @@ dressings.)
 - <https://www.thespicehouse.com/products/tomato-powder>
 
 [1]: <../assets/images/tomato-powder.webp>
-

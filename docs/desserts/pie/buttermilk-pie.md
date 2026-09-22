@@ -4,7 +4,7 @@ tags:
 
   - pie
   - dessert
-hero: assets/images/[buttermilk](../../ingredients/buttermilk.md)-pie.webp
+hero: assets/images/buttermilk-pie.webp
 ---
 
 # :pie: [buttermilk](../../ingredients/buttermilk.md) Pie

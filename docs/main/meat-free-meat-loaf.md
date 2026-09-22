@@ -81,6 +81,10 @@ Cover with foil and bake for 45 minutes.
 
 Remove foil and bake for 7 to 10 minutes more.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/meat-free-meat-loaf.webp>
 [2]: <../ingredients/lentils.md>
 [3]: <../sauces-and-dressings/dips-and-spreads/tahini.md>

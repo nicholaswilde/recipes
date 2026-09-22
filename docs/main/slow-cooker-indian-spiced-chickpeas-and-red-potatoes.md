@@ -63,6 +63,10 @@ Cook on high for 4 to 5 hours or low for 8 to 10 hours.
 
 Ladle into a serve and serve with fresh cilantro and lime wedges for squeezing over the top.
 
+## :link: Source
+
+- <https://www.tasteofhome.com/recipes/indian-spiced-chickpeas-and-red-potatoes/>
+
 [1]: <../assets/images/slow-cooker-indian-spiced-chickpeas-and-red-potatoes.webp>
 [2]: <../ingredients/vegetable-broth.md>
 [3]: <../ingredients/chickpeas.md>

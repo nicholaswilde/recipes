@@ -52,3 +52,7 @@ Pour half melted butter into pan. Spoon in batter and pour rest of butter on top
 ### Step 5
 
 Bake 50 to 60 minutes.
+
+## :link: Source
+
+- [Gimme Some Oven](https://www.gimmesomeoven.com/honey-beer-bread/)

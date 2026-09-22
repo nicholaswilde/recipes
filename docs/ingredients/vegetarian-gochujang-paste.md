@@ -45,4 +45,8 @@ until completely smooth and thick.
 Let the paste cool completely at room temperature. The gochujang paste will continue to thicken as it cools. Once cool,
 transfer to a clean, airtight glass jar. Store in the refrigerator for up to 3 months.
 
+## :link: Source
+
+- Nicholas Wilde
+
 [1]: <../assets/images/vegetarian-gochujang-paste.webp>

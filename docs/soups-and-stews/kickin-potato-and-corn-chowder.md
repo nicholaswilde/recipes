@@ -3,6 +3,7 @@ comments: true
 tags:
   - soup
   - stew
+hero: assets/images/kickin-potato-and-corn-chowder.webp
 ---
 
 # :potato: Kickin Potato and Corn Chowder

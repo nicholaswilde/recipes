@@ -52,4 +52,8 @@ While they are still warm, spread evenly with lemon glaze.
 
 Cool before frosting with Royal icing.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../assets/images/gingerbread-people.webp>

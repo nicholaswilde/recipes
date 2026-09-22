@@ -57,3 +57,7 @@ Bring to a boil then simmer for 15 minutes.
 ### Step 5
 
 Blend with immersion blender and add zest and juice of 1 lemon.
+
+## :link: Source
+
+- [Five Silver Spoons](https://fivesilverspoons.com/red-lentil-soup-with-lemon/)

@@ -49,6 +49,10 @@ blended, then pour into pie plate.
 
 Bake for 35 minutes.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../../assets/images/vegetable-casserole.webp>
 [2]: <../../ingredients/vegan-parmesan.md>
 [3]: <../../reference/equivalents-and-substitutes.md#eggs>

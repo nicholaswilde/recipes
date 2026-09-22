@@ -66,4 +66,8 @@ Refrigerate for 1 hour or until set.
 
 Cut into desired sizes.
 
+## :link: Source
+
+- Recipe Box
+
 [1]: <../ingredients/sweetened-condensed-milk.md>

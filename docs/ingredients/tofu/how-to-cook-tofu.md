@@ -8,6 +8,7 @@ source: https://cookingforpeanuts.com/how-to-cook-tofu/
 servings: 4
 prep time: 5 minutes
 cook time: 25 minutes
+hero: assets/images/how-to-cook-tofu.webp
 ---
 
 # :butter: How to Cook Tofu

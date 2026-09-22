@@ -73,4 +73,8 @@ Lightly brush the top of each cookie with :egg: beaten egg.
 
 Bake for 20 minutes, or until the edges are lightly browned.
 
+## :link: Source
+
+- [Top Secret Recipes](https://topsecretrecipes.com/twin-dragon-almond-cookies-copycat-recipe.html)
+
 [1]: <../assets/images/almond-cookies.webp>

@@ -2,8 +2,10 @@
 comments: true
 tags:
   - sauce
+hero: assets/images/tim-spector's-fermented-tomato-ketchup.webp
 ---
-# Tim Spector's Fermented Tomato Ketchup
+
+# :tomato: Tim Spector's Fermented Tomato Ketchup
 
 ![Tim Spector's Fermented Tomato Ketchup](../../assets/images/tim-spector's-fermented-tomato-ketchup.webp){ loading=lazy }
 

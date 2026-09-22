@@ -4,8 +4,10 @@ tags:
   - side
   - salad
   - applied-kitchen
+hero: assets/images/corn-and-avocado-summer-salad.webp
 ---
-# Corn and Avocado Summer Salad
+
+# :corn: Corn and Avocado Summer Salad
 
 ![Corn and Avocado Summer Salad][1]{ loading=lazy }
 
@@ -49,4 +51,3 @@ Toss the salad gently until combined and serve.
 - Applied Kitchen
 
 [1]: <../../assets/images/corn-and-avocado-summer-salad.webp>
-

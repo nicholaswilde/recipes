@@ -22,7 +22,7 @@ hero: assets/images/peanut-butter-cream-pie.webp
 - :salt: 0.25 tsp salt
 - :glass_of_milk: 3 cups (681 g) whole milk
 - :baby_bottle: 3 egg yolks
-- :peanut: 0.5 cup (135 g) [creamy peanut butter][4]
+- :peanuts: 0.5 cup (135 g) [creamy peanut butter][4]
 - :flower_playing_cards: 2 tsp vanilla
 - 1 [pie crust][3]
 - :baby_bottle: some whipped topping or homemade [whipped cream][1] (optional)

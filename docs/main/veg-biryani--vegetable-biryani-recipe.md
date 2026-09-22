@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+hero: assets/images/veg-biryani--vegetable-biryani-recipe.webp
 ---
 
 # :bowl_with_spoon: Veg Biryani Vegetable Biryani Recipe

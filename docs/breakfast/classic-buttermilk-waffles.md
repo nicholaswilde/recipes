@@ -4,7 +4,7 @@ tags:
 
   - breakfast
   - bake-off
-hero: assets/images/classic-[buttermilk](../ingredients/buttermilk.md)-waffles.webp
+hero: assets/images/classic-buttermilk-waffles.webp
 ---
 
 # :waffle: Classic [buttermilk](../ingredients/buttermilk.md) Waffles
