@@ -2,6 +2,7 @@
 comments: true
 tags:
   - dessert
+  - must-try
 hero: assets/images/canneles-de-bordeaux.webp
 ---
 

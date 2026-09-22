@@ -5,6 +5,7 @@ tags:
   - soup
   - french
   - cooks-illustrated
+  - must-try
 hero: assets/images/french-onion-soup.webp
 ---
 

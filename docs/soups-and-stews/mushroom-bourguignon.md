@@ -5,6 +5,7 @@ tags:
   - stew
   - vegetarian
   - mushrooms
+  - must-try
 hero: assets/images/mushroom-bourguignon.webp
 ---
 

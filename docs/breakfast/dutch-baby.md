@@ -2,6 +2,7 @@
 comments: true
 tags:
   - breakfast
+  - must-try
 hero: assets/images/dutch-baby.webp
 ---
 

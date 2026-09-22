@@ -2,6 +2,7 @@
 comments: true
 tags:
   - main
+  - must-try
 hero: assets/images/bean-and-cheese-burritos.webp
 ---
 

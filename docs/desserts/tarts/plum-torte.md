@@ -5,6 +5,7 @@ tags:
   - dessert
   - tart
   - the-new-york-times
+  - must-try
 hero: assets/images/plum-torte.webp
 ---
 

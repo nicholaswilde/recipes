@@ -3,6 +3,7 @@ comments: true
 tags:
 
   - italian
+  - must-try
 hero: assets/images/penne-alla-vodka.webp
 ---
 

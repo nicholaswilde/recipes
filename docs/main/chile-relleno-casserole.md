@@ -3,6 +3,7 @@ comments: true
 tags:
   - mexican
   - recipe-box
+  - must-try
 hero: assets/images/chile-relleno-casserole.webp
 ---
 

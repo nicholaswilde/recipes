@@ -4,6 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
+  - must-try
 hero: assets/images/bravetart-brownies.webp
 ---
 

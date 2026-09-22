@@ -6,6 +6,7 @@ tags:
   - rolls
   - laminated dough
   - King Arthur Baking
+  - must-try
 hero: assets/images/flaky-buttery-crescent-rolls.webp
 ---
 

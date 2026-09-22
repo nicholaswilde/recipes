@@ -2,6 +2,7 @@
 comments: true
 tags:
   - side
+  - must-try
 hero: assets/images/hasselback-potato-gratin.webp
 ---
 
