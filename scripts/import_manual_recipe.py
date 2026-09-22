@@ -148,8 +148,11 @@ def main():
                 print(f"Warning: Image extension '{img_ext}' is not .jpg or .png. Using .jpg extension.")
                 img_ext = '.jpg'
             target_img_path = os.path.join(target_cook_dir, f"{recipe_name}{img_ext}")
-            print(f"Copying image '{img_src}' to '{target_img_path}'")
-            shutil.copy2(img_src, target_img_path)
+            if os.path.abspath(img_src) != os.path.abspath(target_img_path):
+                print(f"Copying image '{img_src}' to '{target_img_path}'")
+                shutil.copy2(img_src, target_img_path)
+            else:
+                print(f"Image already at '{target_img_path}'")
             
     # Step 2: Run move.sh
     print("\n--- Step 2: Running move script to compile and organize ---")
