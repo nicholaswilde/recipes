@@ -86,3 +86,4 @@
 - When recommending or adding the `must-try` tag to recipes, never add it to recipes that already have the `favorite` tag, as `favorite` indicates the recipe has already been tried and tested.
 - When asked for recommendations on what to try next, query recipes tagged with `must-try`, exclude any recipes tagged with `favorite`, and filter by category if requested (such as dessert, baking, or soup).
 - I have imported the The Best Vegetarian Bean Chili recipe from Serious Eats (Kenji López-Alt).
+- I have imported the Pumpkin Spice Mini Sheet Cake recipe (Issue #1249) from The Pancake Princess.

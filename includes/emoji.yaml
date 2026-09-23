@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - 8x8 baking pan
         - separate bowl
         - 2-quart baking dish
         - paring knife
@@ -141,6 +142,7 @@ emoji:
         - freezer
         - fridge
     - spoon:
+        - offset spatula
         - silicone spatula
         - spatula
         - small offset spatula
@@ -729,6 +731,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - unsalted butter softened slightly
         - sour cream
         - whole milk
         - unsweetened soy milk
