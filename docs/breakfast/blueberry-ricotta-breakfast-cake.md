@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-
   - breakfast
+  - must-try
 hero: assets/images/blueberry-ricotta-breakfast-cake.png
 ---
 
