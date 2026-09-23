@@ -96,6 +96,7 @@ $$
 | Apples (peeled, sliced) | 1 cup | 113 | 4 |
 | Applesauce | 1 cup | 255 | 9 |
 | Apricots (dried, diced) | 1/2 cup | 64 | 2-1/4 |
+| Arborio rice | 1 cup | 200 | 7 |
 | Artisan Bread Flour | 1 cup | 120 | 4-1/4 |
 | Artisan Bread Topping | 1/4 cup | 43 | 1-1/2 |
 | Baker's Cinnamon Filling | 1 cup | 152 | 5-3/8 |
