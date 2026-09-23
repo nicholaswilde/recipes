@@ -85,3 +85,4 @@
 - I have imported the Mushroom Risotto with Peas recipe (Issue #1255).
 - When recommending or adding the `must-try` tag to recipes, never add it to recipes that already have the `favorite` tag, as `favorite` indicates the recipe has already been tried and tested.
 - When asked for recommendations on what to try next, query recipes tagged with `must-try`, exclude any recipes tagged with `favorite`, and filter by category if requested (such as dessert, baking, or soup).
+- I have imported the The Best Vegetarian Bean Chili recipe from Serious Eats (Kenji López-Alt).

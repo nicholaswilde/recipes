@@ -251,6 +251,7 @@ emoji:
         - neutral oil, avocado or canola
         - avocado
         - sliced avocado
+        - diced avocado
     - baby_bottle:
         - eggs (at room temperature)
         - rolled oats ((gluten-free for GF eaters))
@@ -344,6 +345,8 @@ emoji:
         - dried red lentils
         - peas
         - frozen peas
+        - kidney beans
+        - dark red kidney beans
     - bee:
         - beeswax
     - bell_pepper:
@@ -386,6 +389,7 @@ emoji:
         - white rice flour
         - all purpose flour
         - corn tortillas
+        - tortillas
         - rice paper wrappers
         - bread flour
         - cake flour
@@ -614,6 +618,7 @@ emoji:
         - fresh corn kernels
         - fresh corn
         - frozen corn
+        - masa harina
     - cow:
         - espagnole
     - crab:
@@ -842,6 +847,11 @@ emoji:
         - chipotle hummus
         - chipotle
         - chipotle peppers in adobo sauce
+        - chipotle chiles in adobo sauce
+        - adobo sauce
+        - dried sweet chiles
+        - small dried hot chiles
+        - rich fruity dried chiles
         - ground black pepper
         - "jalapeño"
         - cracked black pepper
@@ -967,6 +977,8 @@ emoji:
         - coconut oil spray
     - onion:
         - finely chopped onion
+        - diced onion
+        - diced red onion
         - small onion diced
         - onion powder
         - dry mustard
@@ -1135,9 +1147,11 @@ emoji:
         - coconut aminos
         - tamari
         - miso paste
+        - Marmite
     - tangerine:
         - fresh lemon juice
         - vodka
+        - lime wedges
         - lemon zest or 1/8 teaspoon lemon oil
         - okra
         - tangerine
@@ -1177,6 +1191,7 @@ emoji:
         - leeks
         - onion, layers separated
         - scallions
+        - sliced scallions
     - tea:
         - active dry yeast
         - instant yeast
@@ -1198,6 +1213,7 @@ emoji:
         - tomato
         - marinara sauce
         - whole tomatoes
+        - whole peeled tomatoes
         - "tomato purée"
         - salsa
         - Roma or plum tomatoes
