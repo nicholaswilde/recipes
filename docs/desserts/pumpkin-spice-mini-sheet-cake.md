@@ -6,7 +6,7 @@ tags:
   - pumpkin
   - copycat
   - must-try
-hero: pumpkin-spice-mini-sheet-cake.webp
+hero: assets/images/pumpkin-spice-mini-sheet-cake.webp
 source: https://www.thepancakeprincess.com/pumpkin-spice-mini-sheet-cake/
 servings: 9
 prep_time: 15 minutes

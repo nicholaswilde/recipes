@@ -87,3 +87,4 @@
 - When asked for recommendations on what to try next, query recipes tagged with `must-try`, exclude any recipes tagged with `favorite`, and filter by category if requested (such as dessert, baking, or soup).
 - I have imported the The Best Vegetarian Bean Chili recipe from Serious Eats (Kenji López-Alt).
 - I have imported the Pumpkin Spice Mini Sheet Cake recipe (Issue #1249) from The Pancake Princess.
+- I have imported the French Apple Tart recipe (Issue #1238) by Ina Garten from Food Network.

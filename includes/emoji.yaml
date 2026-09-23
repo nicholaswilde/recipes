@@ -14,6 +14,7 @@ emoji:
         - deep-fry thermometer
         - smoker
         - small sheet pan
+        - sheet pan
         - large plate
         - large baking sheets
         - 4-tablespoon scoop
@@ -150,6 +151,7 @@ emoji:
         - potato masher
         - small spoon
         - large serving spoon
+        - melon baller
     - wastebasket:
         - fine strainer
         - fine-mesh sieve
@@ -238,6 +240,7 @@ emoji:
         - dried fruits
         - prunes
         - apricots
+        - apricot jelly
         - peaches
         - nectarines
         - plums
@@ -662,6 +665,7 @@ emoji:
     - doughnut:
         - apple cider doughnuts
     - droplet:
+        - ice water
         - lukewarm water
         - very hot water
         - canola oil spray
@@ -1229,6 +1233,8 @@ emoji:
     - tumbler_glass:
         - bourbon
         - rum
+        - Calvados
+        - Calvados or rum
         - Guinness Draught Stout
         - reduced Guinness
     - waffle:
