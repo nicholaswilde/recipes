@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - 12-inch heavy-bottomed nonstick or cast-iron skillet
         - 8x8 baking pan
         - separate bowl
         - 2-quart baking dish
@@ -996,6 +997,7 @@ emoji:
         - thinly sliced sweet onion
         - chopped sweet onion
         - (1 medium) onion ((thinly sliced))
+        - large onions, thinly sliced
     - orange_circle:
         - unexpected cheddar cheese ball
     - pancakes:
@@ -1021,7 +1023,8 @@ emoji:
     - potato:
         - potato bread
         - potato flour
-        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline
+        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline  # yamllint disable-line rule:truthy
+        - russet potatoes, peeled and cut into 1- to 2-inch cubes
     - poultry_leg:
         - vegetarian chicken pieces (cut into 1-inch pieces)
     - pretzel:

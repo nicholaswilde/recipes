@@ -54,8 +54,9 @@ def load_emoji_mappings(filepath):
     
     with open(filepath, "r", encoding="utf-8") as f:
         for line in f:
-            stripped = line.strip()
-            if not stripped or stripped.startswith("#") or stripped == "---":
+            line_no_comment = line.split('#')[0]
+            stripped = line_no_comment.strip()
+            if not stripped or stripped == "---":
                 continue
                 
             if stripped == "ingredients:":
@@ -67,14 +68,14 @@ def load_emoji_mappings(filepath):
                 current_emoji = None
                 continue
                 
-            m_emoji = re.match(r'^\s*-\s*([^:]+):', line)
+            m_emoji = re.match(r'^ {4}-\s*([^:#]+):', line_no_comment)
             if m_emoji:
-                current_emoji = m_emoji.group(1)
+                current_emoji = m_emoji.group(1).strip()
                 continue
                 
-            m_item = re.match(r'^\s*-\s*(.+)$', line)
+            m_item = re.match(r'^\s*-\s*(.+)$', line_no_comment)
             if m_item and current_category and current_emoji:
-                item_name = m_item.group(1).strip('"\'')
+                item_name = m_item.group(1).strip().strip('"\'')
                 mappings[current_category][item_name.lower()] = current_emoji
                 
     return mappings
