@@ -91,6 +91,7 @@ emoji:
         - hand mixer
         - coffee or spice grinder
         - blender
+        - regular blender
         - immersion blender
         - food processor
         - stand mixer
@@ -126,6 +127,7 @@ emoji:
         - medium saucepan
         - saucepan
         - large saucepan
+        - 3-quart saucepan
         - small saucepan
         - large pot
         - large heavy pot
@@ -321,6 +323,7 @@ emoji:
         - tempeh bacon
         - liquid smoke
         - vegan bacon
+        - salt pork or slab bacon, cut into 1/2-inch cubes (optional)
         - fully cooked uncured applewood smoked bacon
         - center-cut bacon slices
         - -3 slices bacon
@@ -457,6 +460,7 @@ emoji:
         - (14g) granulated sugar
         - granulated
         - granulated sugar
+        - sugar (optional)
         - golden caster sugar
         - caster sugar
         - icing sugar
@@ -623,6 +627,7 @@ emoji:
         - corn
         - fresh corn kernels
         - fresh corn
+        - fresh ears of corn, husks and silks removed
         - frozen corn
         - masa harina
     - cow:
@@ -733,12 +738,14 @@ emoji:
         - shallot
         - small shallot
         - garlic cloves
+        - garlic cloves, minced or grated
         - garlic powder
         - garlic clove
     - glass_of_milk:
         - unsalted butter softened slightly
         - sour cream
         - whole milk
+        - whole milk or half-and-half
         - unsweetened soy milk
         - whole-milk ricotta
         - salted butter (cold, cut up)
@@ -814,6 +821,9 @@ emoji:
         - Italian herbs
         - Italian seasoning
         - bay leaves
+        - bay leaf
+        - fennel seeds
+        - coriander seeds
         - dried Mexican oregano
         - freshly chopped cilantro
         - dried oregano
@@ -998,6 +1008,9 @@ emoji:
         - chopped sweet onion
         - (1 medium) onion ((thinly sliced))
         - large onions, thinly sliced
+        - medium onion, finely diced
+        - scallions
+        - sliced scallions
     - orange_circle:
         - unexpected cheddar cheese ball
     - pancakes:
@@ -1025,6 +1038,8 @@ emoji:
         - potato flour
         - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline  # yamllint disable-line rule:truthy
         - russet potatoes, peeled and cut into 1- to 2-inch cubes
+        - russet potatoes
+        - russet potatoes, peeled and cut into 1/2-inch dice
     - poultry_leg:
         - vegetarian chicken pieces (cut into 1-inch pieces)
     - pretzel:
@@ -1109,6 +1124,7 @@ emoji:
         - vegetable broth
         - low-sodium vegetable broth
         - chicken or vegetable stock
+        - low-sodium chicken or vegetable stock
         - stock
     - strawberry:
         - strawberries, hulled and quartered
