@@ -112,6 +112,8 @@ Place one cake layer on a stand, cover with frosting, top with the second layer,
 
 ## :link: Sources
 
+- <https://sallysbakingaddiction.com/guinness-chocolate-cake/>
 - [Bake-Off: The Best Guinness Chocolate Cakes](https://www.thepancakeprincess.com/the-guinness-chocolate-cake-bake-off/)
 
 [1]: <../../assets/images/guinness-chocolate-cake.webp>
+
