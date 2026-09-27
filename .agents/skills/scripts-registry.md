@@ -54,33 +54,30 @@ To batch-relocate sides and sauces to nested subfolders based on filename mappin
   uv run scripts/move_and_verify.py
   ```
 
-#### Scrape Recipe Webpage to Cooklang
+#### Scrape Recipe Webpage or YouTube Video to Cooklang
 
-To automatically scrape a recipe from a URL, extract its title, servings, times, ingredients, and instructions,
+To automatically scrape a recipe from a webpage URL or YouTube video (full URL or standalone video ID like `V0ki4Il9Npc` / `V0ki4Il9Npc&`), extract its title, servings, times, ingredients, and instructions,
 and compile it into a CookLang `.cook` file while downloading the hero image:
 
 * **Protocol**:
 
   ```bash
-  uv run scripts/scrape_to_cook.py <URL> [--category <category_override>]
+  uv run scripts/scrape_to_cook.py <URL_or_video_ID> [--category <category_override>]
   ```
 
-* **Under the Hood**: Attempts to extract JSON-LD recipe schema (`schema.org/Recipe`). If no JSON-LD schema is found,
-  falls back to WordPress Recipe Maker (WPRM) HTML class extraction. It parses ISO 8601 durations, formats
-  ingredients/cookware/time-ranges to CookLang syntax, automatically downloads the hero image, and auto-categorizes
-  the recipe into subfolders of `cook/`.
+* **Under the Hood**: For YouTube URLs or video IDs, delegates to [scripts/youtube_recipe.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/youtube_recipe.py) to read video descriptions for ingredients/quantities and uses `youtube-transcript-api` to read captions and determine recipe steps. For webpages, attempts to extract JSON-LD recipe schema (`schema.org/Recipe`). If no JSON-LD schema is found, falls back to WordPress Recipe Maker (WPRM) HTML class extraction. It parses ISO 8601 durations, formats ingredients/cookware/time-ranges to CookLang syntax, automatically downloads the hero image, and auto-categorizes the recipe into subfolders of `cook/`.
 
 #### Recipe Import Workflow Orchestrator
 
-To orchestrate the entire recipe import process (scraping, moving, emoji matching, unit conversion, spellchecking, and whitelisting) in a single command execution:
+To orchestrate the entire recipe import process (scraping from a URL, YouTube video ID, or GitHub issue, moving, emoji matching, unit conversion, spellchecking, and whitelisting) in a single command execution:
 
 * **Protocol**:
 
   ```bash
-  uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]
+  uv run scripts/import_recipe_workflow.py <URL_video_ID_or_issue> [category]
   ```
 
-* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check_recipe_emojis.py --fix` to verify emojis, `scripts/convert_recipe_units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
+* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL, YouTube video ID, or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check_recipe_emojis.py --fix` to verify emojis, `scripts/convert_recipe_units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
 
 #### Manual Recipe Import Orchestrator
 

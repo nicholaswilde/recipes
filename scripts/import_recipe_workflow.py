@@ -61,6 +61,10 @@ def extract_recipe_url_from_issue(issue_number):
             # Skip GitHub user-attachments and github.com issue pages
             if "github.com/user-attachments" not in url and "github.com/" not in url:
                 return url
+        # Fallback: check for standalone YouTube ID in issue body
+        yt_m = re.search(r'\b([A-Za-z0-9_-]{11})\b', body)
+        if yt_m:
+            return yt_m.group(1)
         return None
     except Exception as e:
         print(f"Error fetching/parsing GitHub issue: {e}")
@@ -77,7 +81,7 @@ def run_command(cmd, shell=False):
 
 def main():
     parser = argparse.ArgumentParser(description="Orchestrate the recipe import workflow in a single execution.")
-    parser.add_argument("url_or_issue", help="Target recipe URL or GitHub issue number")
+    parser.add_argument("url_or_issue", help="Target recipe URL, YouTube video ID, or GitHub issue number")
     parser.add_argument("category", nargs="?", default=None, help="Target category (optional)")
     
     args = parser.parse_args()
@@ -93,7 +97,7 @@ def main():
         print(f"Input is detected as a GitHub issue number: {issue_num}")
         extracted_url = extract_recipe_url_from_issue(issue_num)
         if not extracted_url:
-            print(f"Error: No external recipe URL found in the description of issue #{issue_num}.")
+            print(f"Error: No external recipe URL or YouTube ID found in the description of issue #{issue_num}.")
             sys.exit(1)
         url = extracted_url
         print(f"Extracted recipe URL from issue: {url}")

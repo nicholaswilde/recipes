@@ -23,7 +23,6 @@ def main():
     
     exclusions = [
         "docs/assets/images/**",
-        "conductor/**",
         "*.jpg",
         "*.png",
         "*.gif",

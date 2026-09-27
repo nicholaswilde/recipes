@@ -1,7 +1,6 @@
 [files]
 extend-exclude = [
   "docs/assets/images/**",
-  "conductor/**",
   "*.jpg",
   "*.png",
   "*.gif",

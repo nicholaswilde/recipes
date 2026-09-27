@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - ice bath
+        - 10-inch cast iron skillet
         - cake stand
         - 12-inch heavy-bottomed nonstick or cast-iron skillet
         - 8x8 baking pan
@@ -1051,7 +1053,7 @@ emoji:
     - potato:
         - potato bread
         - potato flour
-        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline  # yamllint disable-line rule:truthy
+        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline # yamllint disable-line rule:truthy
         - russet potatoes, peeled and cut into 1- to 2-inch cubes
         - russet potatoes
         - russet potatoes, peeled and cut into 1/2-inch dice

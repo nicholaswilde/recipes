@@ -1,8 +1,0 @@
-{
-  "track_id": "identify_multi_serving_recipes_20260314",
-  "type": "chore",
-  "status": "new",
-  "created_at": "2026-03-14T22:15:00Z",
-  "updated_at": "2026-03-14T22:15:00Z",
-  "description": "Scan the recipe markdown files in the docs/ folder for recipes that have ingredients listed multiple times for different sized servings. Convert those pages into using the zensical tabs. For this track simply create the task that list the recipe pages that need to be updated. Do not update them yet."
-}

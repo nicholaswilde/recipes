@@ -11,6 +11,10 @@ Import recipe from URL or GitHub issue.
    ```
 
    (Scrapes, compiles, formats, spellchecks, commits automatically)
+   - **YouTube Videos in Issues:** If a GitHub issue contains a YouTube URL (or YouTube video ID, e.g. Issue #1444),
+     the workflow automatically routes to the YouTube parse workflow (`scripts/youtube_recipe.py` via `scripts/scrape_to_cook.py`).
+     It extracts ingredients from the video description, reads video captions using `youtube-transcript-api` to determine steps,
+     and downloads the highest-resolution YouTube thumbnail.
 
 2. **Manual Exceptions (Image/PDF/Unscrapable):**
    - Extract text (`lit parse` via `liteparse` skill).

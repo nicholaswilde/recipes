@@ -88,3 +88,10 @@
 - I have imported the The Best Vegetarian Bean Chili recipe from Serious Eats (Kenji López-Alt).
 - I have imported the Pumpkin Spice Mini Sheet Cake recipe (Issue #1249) from The Pancake Princess.
 - I have imported the French Apple Tart recipe (Issue #1238) by Ina Garten from Food Network.
+- I have merged all project definitions, product guidelines, tech stack specifications, workflows, and code styleguides from the `conductor/` directory into [AGENTS.md](file:///home/nicholas/git/nicholaswilde/recipes/AGENTS.md) and removed the `conductor/` directory.
+- Retain personal or family recipes in the collection without URLs (e.g. `Recipe Box`, `Tante Myrna Seccia`). Do not remove or deprecate them during cleanup or duplicate audits.
+- If a recipe with the same name already exists during import, prompt the user to decide whether to replace the existing recipe or append the author/source to the title.
+- Before tagging an item as an ingredient (with `@`) in a `.cook` file, check [cook/config/ignored_ingredients.yaml](file:///home/nicholas/git/nicholaswilde/recipes/cook/config/ignored_ingredients.yaml). If listed there, do not tag it as an ingredient.
+- If a "Pancake Princess" bake-off link is provided in a source issue, always include that link as an additional reference in the `## :link: Source` section.
+- Any removal of entries from [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) must be confirmed by the user.
+

@@ -22,13 +22,19 @@ import urllib.parse
 from bs4 import BeautifulSoup
 import yaml
 
+try:
+    from scripts.youtube_recipe import is_youtube_url, extract_youtube_recipe
+except ImportError:
+    from youtube_recipe import is_youtube_url, extract_youtube_recipe
+
 COMMON_UNITS = {
     "cup", "cups", "tbsp", "tablespoon", "tablespoons", "tsp", "teaspoon", "teaspoons",
     "g", "gram", "grams", "ml", "milliliter", "milliliters", "oz", "ounce", "ounces",
     "lb", "pound", "pounds", "kg", "kilogram", "kilograms", "can", "cans", "clove",
     "cloves", "pinch", "pinches", "slice", "slices", "package", "packages", "bag",
     "bags", "canister", "canisters", "jar", "jars", "head", "heads", "bunch", "bunches",
-    "sprig", "sprigs", "piece", "pieces", "large", "medium", "small", "handful", "handfuls"
+    "sprig", "sprigs", "piece", "pieces", "large", "medium", "small", "handful", "handfuls",
+    "stick", "sticks"
 }
 
 COMMON_COOKWARE_KEYWORDS = [
@@ -101,7 +107,18 @@ def parse_ingredient(ing_line):
         if ing_line_clean.lower() == ignored.lower():
             return ing_line_clean
             
-    qty_regex = r'^(\d+\s+\d+/\d+|\d+\s+[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞]|\d+/\d+|\d+\.\d+|\d+|[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])'
+    m_attached = re.match(r'^(\d+(?:\.\d+)?)(g|ml|kg|oz|lb)\b', ing_line_clean, re.I)
+    if m_attached:
+        qty = m_attached.group(1)
+        unit = m_attached.group(2).lower()
+        remaining = ing_line_clean[len(m_attached.group(0)):].strip()
+        name = re.sub(r'^(?:of\s+)', '', remaining).strip()
+        for ignored in ignored_ingredients:
+            if name.lower() == ignored.lower():
+                return ing_line_clean
+        return f"@{name}{{{qty}%{unit}}}"
+
+    qty_regex = r'^(\d+\s+\d+/\d+|\d+\s*[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞]|\d+/\d+|\d+\.\d+|\d+|[½⅓⅔¼¾⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])'
     qty_match = re.match(qty_regex, ing_line_clean)
     
     if not qty_match:
@@ -121,6 +138,9 @@ def parse_ingredient(ing_line):
     if first_word in COMMON_UNITS:
         unit = first_word
         ing_name_words = words[1:]
+        if ing_name_words and re.match(r'^\(\d+(?:g|oz|ml)\)$', ing_name_words[0], re.I):
+            unit = f"{first_word} {ing_name_words[0]}"
+            ing_name_words = ing_name_words[1:]
         
     if ing_name_words and ing_name_words[0].lower() == "of":
         ing_name_words = ing_name_words[1:]
@@ -327,57 +347,68 @@ def tag_cookware(step_text):
 
 def compile_cooklang(recipe_data, source_url):
     lines = []
-    lines.append(f">> source: {source_url}")
+    lines.append("---")
+    lines.append(f"source: {source_url}")
     
     servings = recipe_data.get("servings")
     if servings:
-        lines.append(f">> serves: {servings}")
+        m_serv = re.search(r'\d+', str(servings))
+        if m_serv:
+            lines.append(f"serves: {int(m_serv.group(0))}")
+        else:
+            lines.append(f"serves: {servings}")
         
     prep_time = recipe_data.get("prep_time")
     if prep_time:
-        lines.append(f">> prep time: {prep_time}")
+        lines.append(f"prep time: {prep_time}")
     cook_time = recipe_data.get("cook_time")
     if cook_time:
-        lines.append(f">> cook time: {cook_time}")
+        lines.append(f"cook time: {cook_time}")
     total_time = recipe_data.get("total_time")
     if total_time:
-        lines.append(f">> total time: {total_time}")
-        
+        lines.append(f"total time: {total_time}")
+    lines.append("---")
     lines.append("")
     
-    # Declarations of all ingredients at the beginning (commented out)
-    parsed_ingredients = []
-    raw_ing_names = []
-    for ing in recipe_data.get("ingredients", []):
-        parsed = parse_ingredient(ing)
-        parsed_ingredients.append(parsed)
-        # Extract name from @name{...} format to tag in steps
-        m_name = re.match(r'^@([^{]+)\{', parsed)
-        if m_name:
-            raw_ing_names.append(m_name.group(1))
+    # Check if instructions already have inlined ingredients
+    has_inline_ingredients = any("@" in step for step in recipe_data.get("instructions", []))
+    if not has_inline_ingredients:
+        parsed_ingredients = []
+        raw_ing_names = []
+        for ing in recipe_data.get("ingredients", []):
+            parsed = parse_ingredient(ing)
+            parsed_ingredients.append(parsed)
+            # Extract name from @name{...} format to tag in steps
+            m_name = re.match(r'^@([^{]+)\{', parsed)
+            if m_name:
+                raw_ing_names.append(m_name.group(1))
+                
+        for parsed in parsed_ingredients:
+            lines.append(parsed)
             
-    for parsed in parsed_ingredients:
-        lines.append(parsed)
-        
-    lines.append("")
-    
-    # Instruction steps
-    # Sort names by length descending to replace longest names first
-    raw_ing_names = sorted(list(set(raw_ing_names)), key=len, reverse=True)
-    
-    for step in recipe_data.get("instructions", []):
-        step_clean = format_time_range(step)
-        step_clean = tag_cookware(step_clean)
-        
-        # Tag ingredients in steps
-        for ing_name in raw_ing_names:
-            pattern = rf'(?<![#@])\b{re.escape(ing_name)}\b'
-            step_clean = re.sub(pattern, f"@{ing_name}", step_clean, flags=re.IGNORECASE)
-            
-        lines.append(step_clean)
         lines.append("")
         
-    return "\n".join(lines)
+        # Instruction steps
+        # Sort names by length descending to replace longest names first
+        raw_ing_names = sorted(list(set(raw_ing_names)), key=len, reverse=True)
+        
+        for step in recipe_data.get("instructions", []):
+            step_clean = format_time_range(step)
+            step_clean = tag_cookware(step_clean)
+            
+            # Tag ingredients in steps
+            for ing_name in raw_ing_names:
+                pattern = rf'(?<![#@])\b{re.escape(ing_name)}\b'
+                step_clean = re.sub(pattern, f"@{ing_name}", step_clean, flags=re.IGNORECASE)
+                
+            lines.append(step_clean)
+            lines.append("")
+    else:
+        for step in recipe_data.get("instructions", []):
+            lines.append(step)
+            lines.append("")
+        
+    return "\n".join(lines).rstrip() + "\n"
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape a recipe from a URL and save as CookLang (.cook) and image.")
@@ -389,60 +420,66 @@ def main():
     
     source_url = args.source_url or args.url
     
-    print(f"Fetching {args.url}...")
-    html = fetch_html(args.url)
-    
-    # 1. Try JSON-LD Recipe
+    # 0. Check if YouTube URL
     recipe_data = None
-    recipe_json = extract_json_ld_recipe(html)
-    if recipe_json:
-        recipe_data = {}
-        recipe_data["name"] = recipe_json.get("name") or "Unknown Recipe"
+    if is_youtube_url(args.url):
+        print(f"Detected YouTube URL or video ID. Extracting recipe for {args.url}...")
+        recipe_data = extract_youtube_recipe(args.url, category_override=args.category)
+        source_url = recipe_data.get("source_url", source_url)
+    else:
+        print(f"Fetching {args.url}...")
+        html = fetch_html(args.url)
         
-        yield_val = recipe_json.get("recipeYield")
-        if isinstance(yield_val, list) and yield_val:
-            yield_val = yield_val[0]
-        servings = ""
-        if yield_val:
-            m = re.search(r'\d+', str(yield_val))
-            if m:
-                servings = m.group(0)
-        recipe_data["servings"] = servings
-        
-        recipe_data["prep_time"] = parse_iso_duration(recipe_json.get("prepTime"))
-        recipe_data["cook_time"] = parse_iso_duration(recipe_json.get("cookTime"))
-        recipe_data["total_time"] = parse_iso_duration(recipe_json.get("totalTime"))
-        
-        img_data = recipe_json.get("image")
-        image_url = ""
-        if isinstance(img_data, list) and img_data:
-            first_item = img_data[0]
-            if isinstance(first_item, dict):
-                image_url = first_item.get("url") or ""
-            else:
-                image_url = first_item
-        elif isinstance(img_data, dict):
-            image_url = img_data.get("url") or ""
-        elif isinstance(img_data, str):
-            image_url = img_data
-        if image_url:
-            recipe_data["image_url"] = urllib.parse.urljoin(source_url, image_url)
-        else:
-            recipe_data["image_url"] = ""
+        # 1. Try JSON-LD Recipe
+        recipe_json = extract_json_ld_recipe(html)
+        if recipe_json:
+            recipe_data = {}
+            recipe_data["name"] = recipe_json.get("name") or "Unknown Recipe"
             
-        recipe_data["ingredients"] = recipe_json.get("recipeIngredient") or []
-        recipe_data["instructions"] = parse_instructions(recipe_json.get("recipeInstructions"))
-        
-        category_json = recipe_json.get("recipeCategory")
-        if isinstance(category_json, list) and category_json:
-            category_json = category_json[0]
-        recipe_data["category"] = str(category_json or "")
-        print("Successfully parsed recipe via JSON-LD Schema.")
-        
-    if not recipe_data or not recipe_data.get("ingredients"):
-        # 2. Try Fallback WPRM BeautifulSoup
-        print("JSON-LD parse did not return a valid recipe. Trying WPRM BeautifulSoup fallback...")
-        recipe_data = extract_wprm_recipe(html)
+            yield_val = recipe_json.get("recipeYield")
+            if isinstance(yield_val, list) and yield_val:
+                yield_val = yield_val[0]
+            servings = ""
+            if yield_val:
+                m = re.search(r'\d+', str(yield_val))
+                if m:
+                    servings = m.group(0)
+            recipe_data["servings"] = servings
+            
+            recipe_data["prep_time"] = parse_iso_duration(recipe_json.get("prepTime"))
+            recipe_data["cook_time"] = parse_iso_duration(recipe_json.get("cookTime"))
+            recipe_data["total_time"] = parse_iso_duration(recipe_json.get("totalTime"))
+            
+            img_data = recipe_json.get("image")
+            image_url = ""
+            if isinstance(img_data, list) and img_data:
+                first_item = img_data[0]
+                if isinstance(first_item, dict):
+                    image_url = first_item.get("url") or ""
+                else:
+                    image_url = first_item
+            elif isinstance(img_data, dict):
+                image_url = img_data.get("url") or ""
+            elif isinstance(img_data, str):
+                image_url = img_data
+            if image_url:
+                recipe_data["image_url"] = urllib.parse.urljoin(source_url, image_url)
+            else:
+                recipe_data["image_url"] = ""
+                
+            recipe_data["ingredients"] = recipe_json.get("recipeIngredient") or []
+            recipe_data["instructions"] = parse_instructions(recipe_json.get("recipeInstructions"))
+            
+            category_json = recipe_json.get("recipeCategory")
+            if isinstance(category_json, list) and category_json:
+                category_json = category_json[0]
+            recipe_data["category"] = str(category_json or "")
+            print("Successfully parsed recipe via JSON-LD Schema.")
+            
+        if not recipe_data or not recipe_data.get("ingredients"):
+            # 2. Try Fallback WPRM BeautifulSoup
+            print("JSON-LD parse did not return a valid recipe. Trying WPRM BeautifulSoup fallback...")
+            recipe_data = extract_wprm_recipe(html)
         
     if not recipe_data or not recipe_data.get("ingredients"):
         print("Error: Could not parse recipe from the webpage.")
