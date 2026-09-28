@@ -1,10 +1,11 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
   - pancake-princess
+  - bake-off
+  - must-try
 hero: assets/images/peanut-butter-cookies.webp
 ---
 
@@ -22,6 +23,7 @@ hero: assets/images/peanut-butter-cookies.webp
 - :chestnut: 1 tsp baking soda
 - :chestnut: 0.25 tsp baking powder
 - :salt: 1.25 tsp salt
+- :chocolate_bar: 170 g milk chocolate chips (optional)
 - :butter: 168 g unsalted butter
 - :candy: 50 g granulated sugar
 - :candy: 250 g light brown sugar
@@ -46,7 +48,7 @@ hero: assets/images/peanut-butter-cookies.webp
 ### Step 1
 
 Combine the bread flour, baking soda, baking powder, and salt in a medium-large bowl and whisk to fully incorporate the
-ingredients. Set aside.
+ingredients. If using milk chocolate chips (optional), whisk them in now. Set aside.
 
 ### Step 2
 
@@ -62,8 +64,9 @@ butter and mix until just combined, again.
 
 ### Step 4
 
-With the mixer still on low, add the dry ingredients all at once, and mix until only some of the flour is incorporated
-into the wet batter (less than 1 minute). Turn off the machine and continue mixing by hand with a rubber spatula.
+With the mixer still on low, add the dry ingredients (and chocolate chips, if using) all at once, and mix until only
+some of the flour is incorporated into the wet batter (less than 1 minute). Turn off the machine and continue mixing by
+hand with a rubber spatula.
 
 ### Step 5
 
