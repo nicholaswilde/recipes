@@ -3,6 +3,7 @@ comments: true
 tags:
   - dessert
   - cake
+  - must-try
 hero: assets/images/butter-cake.webp
 ---
 
@@ -16,18 +17,35 @@ hero: assets/images/butter-cake.webp
 
 ## :salt: Ingredients
 
-- :bread: 3 cups (360 g) all-purpose flour
-- :salt: 1 teaspoon salt
-- :chestnut: 0.75 teaspoon baking powder
-- :chestnut: 0.5 teaspoon baking soda
-- :baby_bottle: 1 cup (226 g) unsalted butter (softened)
-- :candy: 2 cups (396 g) granulated sugar
-- :egg: 4 large eggs
-- :glass_of_milk: 1 cup (227 g) whole milk
-- :butter: 5 tablespoons (71 g) unsalted butter
-- :candy: 0.75 cup (148 g) granulated sugar
-- :droplet: 0.25 cup (57 g) water
-- :flower_playing_cards: 1.5 teaspoons vanilla extract
+=== "Bundt Pan (Full Batch)"
+
+    - :bread: 3 cups (360 g) all-purpose flour
+    - :salt: 1 teaspoon salt
+    - :chestnut: 0.75 teaspoon baking powder
+    - :chestnut: 0.5 teaspoon baking soda
+    - :baby_bottle: 1 cup (226 g) unsalted butter (softened)
+    - :candy: 2 cups (396 g) granulated sugar
+    - :egg: 4 large eggs
+    - :glass_of_milk: 1 cup (227 g) whole milk
+    - :butter: 5 tablespoons (71 g) unsalted butter
+    - :candy: 0.75 cup (148 g) granulated sugar
+    - :droplet: 0.25 cup (57 g) water
+    - :flower_playing_cards: 1.5 teaspoons vanilla extract
+
+=== "Loaf Pan (Half Batch)"
+
+    - :bread: 1.5 cups (180 g) all-purpose flour
+    - :salt: 0.5 teaspoon salt
+    - :chestnut: 0.375 teaspoon baking powder
+    - :chestnut: 0.25 teaspoon baking soda
+    - :baby_bottle: 0.5 cup (113 g) unsalted butter (softened)
+    - :candy: 1 cup (198 g) granulated sugar
+    - :egg: 2 large eggs
+    - :glass_of_milk: 0.5 cup (113 g) whole milk
+    - :butter: 2.5 tablespoons (36 g) unsalted butter
+    - :candy: 6 tablespoons (75 g) granulated sugar
+    - :droplet: 2 tablespoons (28 g) water
+    - :flower_playing_cards: 0.75 teaspoon vanilla extract
 
 ## :cooking: Cookware
 
@@ -44,39 +62,81 @@ hero: assets/images/butter-cake.webp
 
 ## :pencil: Instructions
 
-### Step 1
+=== "Bundt Pan (Full Batch)"
 
-Preheat the oven to 325°F. Butter and flour a 10- to 12-cup Bundt pan.
+    ### Step 1
 
-### Step 2
+    Preheat the oven to 325°F. Butter and flour a 10- to 12-cup Bundt pan.
 
-In a large bowl, whisk together all-purpose flour, salt, baking powder, and baking soda.
+    ### Step 2
 
-### Step 3
+    In a large bowl, whisk together all-purpose flour, salt, baking powder, and baking soda.
 
-In a large mixing bowl or a stand mixer fitted with a paddle attachment, beat the unsalted butter (softened) and
-granulated sugar at medium speed until fluffy, 3 to 4 minutes, stopping to scrape sides of bowl occasionally. With the
-mixer on low, add the eggs, one at a time, beating well after each addition.
+    ### Step 3
 
-### Step 4
+    In a large mixing bowl or a stand mixer fitted with a paddle attachment, beat the unsalted butter (softened) and
+    granulated sugar at medium speed until fluffy, 3 to 4 minutes, stopping to scrape sides of bowl occasionally. With the
+    mixer on low, add the eggs, one at a time, beating well after each addition.
 
-With the mixer on low, gradually add the flour mixture to the butter mixture alternately with the whole milk, beginning
-and ending with flour mixture, beating just until combined after each addition. Spoon the batter into the prepared pan.
+    ### Step 4
 
-### Step 5
+    With the mixer on low, gradually add the flour mixture to the butter mixture alternately with the whole milk, beginning
+    and ending with flour mixture, beating just until combined after each addition. Spoon the batter into the prepared pan.
 
-Bake for 1 hour or until a wooden pick inserted near the center comes out clean.
+    ### Step 5
 
-### Step 6
+    Bake for 1 hour or until a wooden pick inserted near the center comes out clean.
 
-Right when the cake is out of the oven, combine the unsalted butter, granulated sugar, and water in a small saucepan.
-Bring to a simmer over medium heat, stirring constantly. Cook, stirring constantly, until opaque and slightly thickened,
-about 2 minutes. Remove from heat, and stir in the vanilla extract.
+    ### Step 6
 
-### Step 7
+    Right when the cake is out of the oven, combine the unsalted butter, granulated sugar, and water in a small saucepan.
+    Bring to a simmer over medium heat, stirring constantly. Cook, stirring constantly, until opaque and slightly thickened,
+    about 2 minutes. Remove from heat, and stir in the vanilla extract.
 
-Pour over the cake in the pan. Let cool for 15 minutes. Invert the cake onto a wire rack, and let cool completely before
-serving. Store the cooled cake covered at room temperature for up to 5 days.
+    ### Step 7
+
+    Pour over the cake in the pan. Let cool for 15 minutes. Invert the cake onto a wire rack, and let cool completely before
+    serving. Store the cooled cake covered at room temperature for up to 5 days.
+
+=== "Loaf Pan (Half Batch)"
+
+    ### Step 1
+
+    Preheat the oven to 325°F. Butter and flour an 8.5x4.5-inch (or 9x5-inch) loaf pan, or grease and line with parchment
+    paper leaving an overhang on the long sides for easy removal.
+
+    ### Step 2
+
+    In a medium bowl, whisk together all-purpose flour, salt, baking powder, and baking soda.
+
+    ### Step 3
+
+    In a large mixing bowl or a stand mixer fitted with a paddle attachment, beat the unsalted butter (softened) and
+    granulated sugar at medium speed until fluffy, 3 to 4 minutes, stopping to scrape sides of bowl occasionally. With the
+    mixer on low, add the eggs, one at a time, beating well after each addition.
+
+    ### Step 4
+
+    With the mixer on low, gradually add the flour mixture to the butter mixture alternately with the whole milk, beginning
+    and ending with flour mixture, beating just until combined after each addition. Spoon the batter into the prepared loaf
+    pan and smooth the top.
+
+    ### Step 5
+
+    Bake for 50 to 60 minutes, testing with a wooden pick inserted into the center starting at 50 minutes, until it comes
+    out clean.
+
+    ### Step 6
+
+    Right when the cake is out of the oven, combine the unsalted butter, granulated sugar, and water in a small saucepan.
+    Bring to a simmer over medium heat, stirring constantly. Cook, stirring constantly, until opaque and slightly thickened,
+    about 2 minutes. Remove from heat, and stir in the vanilla extract.
+
+    ### Step 7
+
+    Poke holes all over the warm cake with a skewer or toothpick. Pour the warm glaze evenly over the cake in the pan.
+    Let soak and cool for 15 minutes. Use the parchment paper sling to lift the cake out (or carefully invert) onto a wire
+    rack, and let cool completely before slicing. Store the cooled cake covered at room temperature for up to 5 days.
 
 ## :link: Source
 
