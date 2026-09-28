@@ -98,6 +98,7 @@ should become incredibly silky, light, and fluffy.
 
 ## :link: Sources
 
+- <https://cakesbymk.com/recipe/moist-peanut-butter-cake-recipe/>
 - [Bake-Off: The Best Peanut Butter Cakes](https://www.thepancakeprincess.com/the-peanut-butter-cake-bake-off/)
 
 [1]: <../assets/images/moist-peanut-butter-cake-cakes-by-mk.webp>
