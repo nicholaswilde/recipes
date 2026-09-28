@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-
   - breakfast
+  - must-try
 hero: assets/images/cinnamon-sugared-buttermilk-doughnuts.webp
 ---
 
