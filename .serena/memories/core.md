@@ -1,0 +1,1 @@
+Personal recipe collection managed as a documentation site using Zensical (MkDocs). Recipes authored in Cooklang (`cook/**/*.cook`), converted to Markdown (`docs/**/*.md`), and served by Zensical. Static site deployed to GitHub Pages via automated CI/CD workflows. Python automation scripts reside in `scripts/`.

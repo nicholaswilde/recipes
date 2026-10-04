@@ -1,0 +1,6 @@
+- Dietary: Lacto-ovo vegetarian recipes only.
+- Emojis: Use text shortcodes from `includes/emoji.yaml` (never raw Unicode).
+- Units: Convert volumetric measurements to grams in parentheses for major ingredients; omit grams for small seasonings (< 1 Tbsp).
+- Cooklang: Inline ingredients in steps where first used; check `cook/config/ignored_ingredients.yaml` before tagging `@`.
+- Substitutions: Terasi -> link to `docs/ingredients/vegetarian-terasi.md`. Sambal oelek -> link to `docs/sauces-and-dressings/gravy-and-savory-sauces/sambal-oelek.md`.
+- Navigation: Never remove entries from `zensical.toml` without explicit user confirmation.

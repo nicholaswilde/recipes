@@ -1,0 +1,6 @@
+- `task validate`: Validate `zensical.toml` syntax.
+- `task validate-cook FILE="path/to/recipe.cook"`: Validate CookLang file.
+- `task spellcheck-file FILE=path/to/file`: Targeted spellcheck on single file.
+- `FILES="path/to/cookfile" task move`: Compile CookLang to Markdown and register navigation.
+- `zensical build`: Build full static documentation site.
+- `task serve`: Serve development site locally.
