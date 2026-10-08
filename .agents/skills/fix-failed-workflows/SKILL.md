@@ -113,7 +113,7 @@ rtk gh run view <run-id> --log --job=<job-id> | cat
 * **Fix protocol**:
   1. Fix markdown formatting:
      ```bash
-     task markdownlint-fix
+     task rumdl-fix
      ```
   2. Correct YAML indentation manually per `.yamllint`.
 

@@ -45,7 +45,7 @@ Make a swirl using a piping bag or plastic sandwich bag.
 
 ## :link: Source
 
-<!-- markdownlint-disable-next-line MD013 -->
+<!-- rumdl-disable-next-line MD013 -->
 
 - <https://www.disneyfoodblog.com/2020/04/08/foodies-theres-a-brand-new-step-by-step-cooking-at-home-feature-on-the-disney-world-app/>
 

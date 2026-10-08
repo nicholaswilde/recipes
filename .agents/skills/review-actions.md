@@ -45,7 +45,7 @@ Based on the job logs, apply the corresponding fix protocol:
     * Run markdown autofix:
 
     ```bash
-    task markdownlint-fix
+    task rumdl-fix
     ```
 
     * For YAML files, inspect [.yamllint](file:///home/nicholas/git/nicholaswilde/recipes/.yamllint) and correct indentation or formatting manually.

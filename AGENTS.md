@@ -80,7 +80,7 @@ This project is a personal recipe collection managed as a documentation site usi
 - **Recipe Source:** Cooklang (`cook/**/*.cook`) organized by category subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`).
 - **Intermediate Docs:** Markdown (`docs/**/*.md`) served by Zensical.
 - **Automation & Tools:** Taskfile ([Taskfile.yml](file:///home/nicholas/git/nicholaswilde/recipes/Taskfile.yml)), GitHub Actions ([ci.yaml](file:///home/nicholas/git/nicholaswilde/recipes/.github/workflows/ci.yaml)), Docker, `uv` / `pip` for Python dependency management, `cwebp` for WebP conversion, `oxipng` for PNG optimization.
-- **Quality Assurance:** `markdownlint`, `yamllint`, `spellchecker-cli`, `markdown-link-check`.
+- **Quality Assurance:** `rumdl`, `yamllint`, `spellchecker-cli`, `markdown-link-check`.
 
 ## Development Commands
 
@@ -98,7 +98,7 @@ This project is a personal recipe collection managed as a documentation site usi
 - **Validate Config:** `task validate` (validates [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) syntax).
 - **Validate Cooklang File:** `task validate-cook FILE="path/to/recipe.cook"`.
 - **Spellcheck File:** `task spellcheck-file FILE=path/to/file` (targeted spellcheck using [dictionary.txt](file:///home/nicholas/git/nicholaswilde/recipes/dictionary.txt)).
-- **Lint Files:** `task lint` (runs `markdownlint` and `yamllint`). Specific linters: `task markdownlint`, `task yamllint`.
+- **Lint Files:** `task lint` (runs `rumdl` and `yamllint`). Specific linters: `task rumdl`, `task yamllint`.
 - **Compile & Move Recipe:** `FILES=<path/to/cookfile> task move` (converts `.cook` to Markdown, runs checks, and generates `zensical.toml` mapping entry).
 - **Link Checking Note:** DO NOT run `task linkcheck` project-wide as it is excessively slow. Only use targeted link checks when necessary.
 

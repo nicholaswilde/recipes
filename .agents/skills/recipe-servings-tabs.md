@@ -32,7 +32,7 @@ This skill automates and documents the process of converting multi-serving/batch
 
    - Make sure all list elements (and any subheaders) inside the tab blocks are indented by exactly 4 spaces.
 4. **Convert Reference-Style Links:**
-   - Standard markdown linters (like `markdownlint`) do not parse link reference definitions (e.g., `[1]: <url>`) correctly if they are only referenced inside custom extension blocks like tabs.
+   - Standard markdown linters (like `rumdl`) do not parse link reference definitions (e.g., `[1]: <url>`) correctly if they are only referenced inside custom extension blocks like tabs.
    - If any ingredient uses reference-style links inside a tab block (e.g., `[peanut butter][1]`), convert them to inline links (e.g., `[peanut butter](../ingredients/peanut-butter.md)`) and delete the reference definitions from the bottom of the file.
 5. **Verify and Lint:**
    - Validate the modified files by running the targeted linter:

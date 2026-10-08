@@ -1,0 +1,23 @@
+[global]
+disable = ["MD046", "MD053", "MD059"]
+exclude = [
+    ".agents/**",
+    ".github/**",
+    ".serena/**",
+    "AGENTS.md",
+    "cook/**",
+    "docs/reference/charts.md",
+]
+
+[MD007]
+indent = 4
+style = "fixed"
+
+[MD013]
+code-blocks = false
+line-length = 120
+tables = false
+
+[MD024]
+allow-different-nesting = true
+siblings-only = true

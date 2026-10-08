@@ -3,4 +3,4 @@
 - Python: 3.11+, dependency management via `uv`
 - Automation: Taskfile (`Taskfile.yaml`)
 - Image processing: `cwebp` (WebP conversion), `oxipng` (PNG optimization)
-- QA / Linting: `typos`, `rumdl` (markdownlint), `yamllint-rs`
+- QA / Linting: `typos`, `rumdl`, `yamllint-rs`

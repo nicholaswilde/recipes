@@ -30,7 +30,7 @@ scales all quantities by the specified factor.
 2. **Verify and Lint**:
 
    - Check the modified file structure to ensure the tabs block is indented by exactly 4 spaces.
-   - Run `rumdl check <recipe_path>` to ensure markdownlint rules pass.
+   - Run `rumdl check <recipe_path>` to ensure rumdl rules pass.
    - Verify that the `Serves` column was removed from the top metadata table (leaving only `Total Time` or other
      columns) to avoid duplication.
    - Run `task lint-changed`, `task validate`, and `task validate-cook FILE="<cook_file>"`.

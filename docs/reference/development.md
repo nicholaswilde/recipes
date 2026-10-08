@@ -109,7 +109,8 @@ graph TD
 
 ### :robot: Automated Import Orchestrators
 
-While the flowchart above illustrates the manual step-by-step pipeline, two unified Python orchestrator scripts are available to automate this entire workflow:
+While the flowchart above illustrates the manual step-by-step pipeline, two unified
+Python orchestrator scripts are available to automate this entire workflow:
 
 #### 1. Recipe Import Workflow (`import_recipe_workflow.py`)
 
@@ -363,7 +364,7 @@ cargo install rumdl
 === "Task"
 
     ```shell title="Usage"
-    task markdownlint
+    task rumdl
     ```
 
 === "Manual"

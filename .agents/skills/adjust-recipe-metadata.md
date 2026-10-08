@@ -38,7 +38,7 @@ This skill enables developers to add/remove tags and modify other frontmatter me
 2. **Verify and Lint**:
 
    - Verify that the frontmatter in the updated file is formatted correctly.
-   - Run `rumdl check <recipe_path>` to ensure markdownlint rules pass.
+   - Run `rumdl check <recipe_path>` to ensure rumdl rules pass.
    - Run `task lint-changed`, `task validate`, and `task validate-cook FILE="<cook_file>"`.
    - Run `task build` to ensure the site compiles correctly.
 
