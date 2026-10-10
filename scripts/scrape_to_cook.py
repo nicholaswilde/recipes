@@ -209,6 +209,33 @@ def resolve_category(category_name):
         
     return "main"
 
+def fetch_via_browserless(url, browserless_url="http://localhost:3000"):
+    try:
+        endpoint = f"{browserless_url.rstrip('/')}/function"
+        fn_code = f"""
+export default async ({{ page }}) => {{
+  await page.setUserAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36");
+  await page.setExtraHTTPHeaders({{
+    "Accept-Language": "en-US,en;q=0.9",
+    "sec-ch-ua": "\\"Chromium\\";v=\\"128\\", \\"Not;A=Brand\\";v=\\"24\\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\\"Linux\\""
+  }});
+  await page.goto({json.dumps(url)}, {{ waitUntil: "networkidle2", timeout: 30000 }});
+  return await page.content();
+}};
+"""
+        req = urllib.request.Request(
+            endpoint,
+            data=fn_code.encode("utf-8"),
+            headers={"Content-Type": "application/javascript"}
+        )
+        with urllib.request.urlopen(req, timeout=35) as response:
+            return response.read().decode("utf-8")
+    except Exception as e:
+        print(f"Browserless fetch failed: {e}", file=sys.stderr)
+        return None
+
 def fetch_html(url):
     if url.startswith("file://"):
         path = urllib.request.url2pathname(url[7:])
@@ -217,14 +244,33 @@ def fetch_html(url):
     elif os.path.exists(url):
         with open(url, "r", encoding="utf-8") as f:
             return f.read()
+
+    # If domain is known to block basic scrapers, or if requested, try browserless first
+    browserless_env = os.environ.get("BROWSERLESS_URL", "http://localhost:3000")
+    is_protected_site = any(domain in url for domain in ["allrecipes.com", "nytimes.com", "cooking.nytimes.com"])
+
+    if is_protected_site and browserless_env:
+        html = fetch_via_browserless(url, browserless_env)
+        if html:
+            return html
+
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as response:
-        return response.read().decode('utf-8')
+    try:
+        with urllib.request.urlopen(req) as response:
+            return response.read().decode('utf-8')
+    except urllib.error.HTTPError as e:
+        if e.code in (401, 403, 429) and browserless_env:
+            print(f"HTTP {e.code} received for {url}. Attempting fetch via Browserless...", file=sys.stderr)
+            html = fetch_via_browserless(url, browserless_env)
+            if html:
+                return html
+        raise
 
 def find_recipe_in_json(data):
     if isinstance(data, dict):
-        if data.get("@type") == "Recipe" or data.get("@type") == ["Recipe"]:
+        type_val = data.get("@type")
+        if type_val == "Recipe" or (isinstance(type_val, list) and "Recipe" in type_val):
             return data
         for k, v in data.items():
             if k == "@graph" and isinstance(v, list):
