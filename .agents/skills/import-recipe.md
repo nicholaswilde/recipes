@@ -11,6 +11,10 @@ Import recipe from URL or GitHub issue.
    ```
 
    (Scrapes, compiles, formats, spellchecks, commits automatically)
+   - **Headless Scraping via Browserless:** Sites with anti-bot or Cloudflare protection (e.g. Allrecipes, NYT Cooking)
+     are automatically rendered via a local Browserless Chromium container (`http://localhost:3000`).
+     Ensure Browserless is running (`docker run -d --name browserless -p 3000:3000 ghcr.io/browserless/chromium`).
+     The scraper extracts the rendered JSON-LD schema without manual PDF export.
    - **YouTube Videos in Issues:** If a GitHub issue contains a YouTube URL (or YouTube video ID, e.g. Issue #1444),
      the workflow automatically routes to the YouTube parse workflow (`scripts/youtube_recipe.py` via `scripts/scrape_to_cook.py`).
      It extracts ingredients from the video description, reads video captions using `youtube-transcript-api` to determine steps,
