@@ -16,6 +16,8 @@ total time: 1 hour 25 minutes
 
 # :spaghetti: Cheesy Classic Lasagna
 
+![Cheesy Classic Lasagna][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 1.08 hours |
@@ -90,3 +92,5 @@ serving.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/cheesy-classic-lasagna.webp>

@@ -15,6 +15,8 @@ total time: 20 minutes
 ---
 # :apple: Apple Cinnamon Pancakes
 
+![Apple Cinnamon Pancakes][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 3 minutes |
@@ -54,4 +56,6 @@ Top with pancake syrup and sweetened cinnamon applesauce and serve.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/apple-cinnamon-pancakes.webp>
 

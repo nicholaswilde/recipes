@@ -16,6 +16,8 @@ total time: 15 minutes
 
 # :garlic: Cheesy Garlic French Bread
 
+![Cheesy Garlic French Bread][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 5 minutes |
@@ -62,3 +64,5 @@ Let set slightly, then slice into pieces.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/cheesy-garlic-french-bread.webp>

@@ -17,6 +17,8 @@ total time: 2 hours
 
 # :chocolate_bar: Old-Fashioned Fudge
 
+![Old-Fashioned Fudge][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 16 | 10 minutes |
@@ -75,3 +77,5 @@ Spread mixture evenly in the prepared loaf pan. Cool until firm, then cut into 1
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/old-fashioned-fudge.webp>
