@@ -14,7 +14,10 @@ tags:
 - vegetarian
 comments: true
 ---
+
 # :potato: Crispy BBQ Sweet Potatoes
+
+![Crispy BBQ Sweet Potatoes][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -56,3 +59,5 @@ Grill sweet potato slices, turning frequently and brushing with remaining ketchu
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/crispy-bbq-sweet-potatoes.webp>

@@ -16,6 +16,8 @@ total time: 30 minutes
 
 # :rice: Mexican Rice Veggie Skillet
 
+![Mexican Rice Veggie Skillet][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 20 minutes |
@@ -56,3 +58,5 @@ absorbed.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/mexican-rice-veggie-skillet.webp>

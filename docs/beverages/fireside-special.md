@@ -15,7 +15,10 @@ prep time: 5 minutes
 cook time: 0 minutes
 total time: 5 minutes
 ---
+
 # :coffee: Fireside Special
+
+![Fireside Special][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -47,3 +50,4 @@ Top with a generous dollop of whipped cream and drizzle with additional Amaretto
 
 - Recipe Box
 
+[1]: <../assets/images/fireside-special.webp>

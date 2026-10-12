@@ -16,6 +16,8 @@ total time: 40 minutes
 
 # :jack_o_lantern: Pumpkin Risotto
 
+![Pumpkin Risotto][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 22 minutes |
@@ -74,3 +76,5 @@ Sprinkle with ground nutmeg and serve warm.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/pumpkin-risotto.webp>
