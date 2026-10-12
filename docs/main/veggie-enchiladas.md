@@ -15,6 +15,8 @@ total time: 50 minutes
 
 # :stuffed_flatbread: Veggie Enchiladas
 
+![Veggie Enchiladas][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 6 | 36 minutes |
@@ -71,3 +73,5 @@ Cover and bake for 15 minutes. Uncover and bake for about 10 minutes more. Let s
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/veggie-enchiladas.webp>

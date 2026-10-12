@@ -14,7 +14,9 @@ cook time: 15 minutes
 total time: 25 minutes
 ---
 
-# :tomato: Skillet Rotini, Tomatoes & Cheese
+# :spaghetti: Skillet Rotini, Tomatoes & Cheese
+
+![Skillet Rotini, Tomatoes & Cheese][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -62,3 +64,5 @@ Add fresh basil, slivered, salt, and pepper to taste. Cook until heated through.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/skillet-rotini,-tomatoes-&-cheese.webp>

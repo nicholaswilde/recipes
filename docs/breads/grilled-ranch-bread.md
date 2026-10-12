@@ -15,6 +15,8 @@ total time: 10 minutes
 
 # :bread: Grilled Ranch Bread
 
+![Grilled Ranch Bread][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 5 minutes |
@@ -47,3 +49,5 @@ Place bread under the broiler until crispy and golden brown, about 3 to 5 minute
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/grilled-ranch-bread.webp>

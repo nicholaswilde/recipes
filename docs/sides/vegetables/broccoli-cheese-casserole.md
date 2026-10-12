@@ -9,6 +9,7 @@ tags:
 - broccoli
 - recipe-box
 - vegetarian
+hero: assets/images/broccoli-cheese-casserole.webp
 source: Recipe Box
 servings: 6
 prep time: 10 minutes
@@ -17,6 +18,8 @@ total time: 55 minutes
 ---
 
 # :broccoli: Broccoli Cheese Casserole
+
+![Broccoli Cheese Casserole](../../assets/images/broccoli-cheese-casserole.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
