@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - griddle
         - canning jars
         - ice bath
         - 10-inch cast iron skillet
@@ -407,6 +408,7 @@ emoji:
         - plain flour
         - white rice flour
         - all purpose flour
+        - biscuit mix
         - corn tortillas
         - tortillas
         - rice paper wrappers
@@ -757,6 +759,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - evaporated milk
         - unsalted butter softened slightly
         - sour cream
         - whole milk
@@ -1033,6 +1036,7 @@ emoji:
         - unexpected cheddar cheese ball
     - pancakes:
         - blueberry smoothie pancakes
+        - pumpkin pancakes
     - peach:
         - peach preserves
         - sliced peaches (drained)
