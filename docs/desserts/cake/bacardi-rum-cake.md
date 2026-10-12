@@ -17,6 +17,8 @@ total time: 2 hours
 
 # :cake: Bacardi Rum Cake
 
+![Bacardi Rum Cake][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.08 hours |
@@ -79,3 +81,5 @@ more. Repeat until all glaze is used. Invert onto a serving plate when cooled.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/bacardi-rum-cake.webp>

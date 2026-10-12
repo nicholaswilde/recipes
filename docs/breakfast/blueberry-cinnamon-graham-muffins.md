@@ -16,6 +16,8 @@ total time: 35 minutes
 
 # :cupcake: Blueberry-Cinnamon Graham Muffins
 
+![Blueberry-Cinnamon Graham Muffins][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 20 minutes |
@@ -65,3 +67,5 @@ Bake for 18 to 20 minutes until golden and firm to the touch.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/blueberry-cinnamon-graham-muffins.webp>
