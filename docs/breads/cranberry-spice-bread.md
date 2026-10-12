@@ -16,6 +16,8 @@ total time: 1 hour 15 minutes
 ---
 # :bread: Cranberry Spice Bread
 
+![Cranberry Spice Bread][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 16 | 60 minutes |
@@ -61,4 +63,6 @@ Bake at 350 °F for 1 hour until a toothpick inserted into the center comes out 
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/cranberry-spice-bread.webp>
 

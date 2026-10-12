@@ -16,6 +16,8 @@ total time: 60 minutes
 
 # :cheese_wedge: Spinach Cheese Squares
 
+![Spinach Cheese Squares][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 45 minutes |
@@ -61,3 +63,5 @@ Remove and allow to cool for 10 minutes before cutting into squares.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/spinach-cheese-squares.webp>

@@ -16,6 +16,8 @@ total time: 40 minutes
 
 # :cupcake: Mimi's Café Buttermilk Spice Muffins
 
+![Mimi's Café Buttermilk Spice Muffins][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 26 minutes |
@@ -76,3 +78,5 @@ Bake at 375 °F for 20 to 25 minutes until golden brown and a toothpick inserted
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/mimi's-café-buttermilk-spice-muffins.webp>

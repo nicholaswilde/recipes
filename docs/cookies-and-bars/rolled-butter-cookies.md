@@ -18,6 +18,8 @@ total time: 1 hour 30 minutes
 
 # :butter: Rolled Butter Cookies
 
+![Rolled Butter Cookies][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 42 | 14 minutes |
@@ -78,3 +80,5 @@ Let cool 1 to 2 minutes after baking before removing to wire racks to cool compl
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/rolled-butter-cookies.webp>
