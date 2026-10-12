@@ -1,7 +1,7 @@
----
 emoji:
   cookware:
     - bowl_with_spoon:
+        - clean bowl
         - griddle
         - canning jars
         - ice bath
@@ -88,6 +88,9 @@ emoji:
     - cup_with_straw:
         - measuring cup
         - heat-proof liquid measuring cup
+        - mug
+        - cups
+        - goblet
     - gear:
         - spice grinder or mortar and pestle
         - colander
@@ -153,6 +156,20 @@ emoji:
         - Dutch oven
         - large wok or Dutch oven
         - very large skillet or Dutch oven
+        - 24-hole mini muffin pans
+        - 8-inch round cake pans
+        - large shallow roasting pan
+        - grill grates
+        - bundt pan
+        - 12-cup bundt pan
+        - 9-inch round cake tin
+        - serving plate
+        - 2-qt saucepan
+        - 9x13-inch baking pan
+        - broiler
+        - 2-qt casserole dish
+        - 11x7-inch baking dish
+        - 9x13-inch baking dish
     - snowflake:
         - freezer
         - fridge
@@ -166,6 +183,7 @@ emoji:
         - small spoon
         - large serving spoon
         - melon baller
+        - candy thermometer
     - wastebasket:
         - fine strainer
         - fine-mesh sieve
@@ -206,7 +224,7 @@ emoji:
         - (113g) bittersweet chocolate, finely chopped
         - King Arthur Pizza Dough Flavor, optional but delicious
         - (227g) sourdough starter, unfed/discard
-        - "fresh okra, cut into ½-inch-thick slices"
+        - fresh okra, cut into ½-inch-thick slices
         - .25 cup thinly sliced fresh basil
         - coffee beans or chocolate shavings
         - aquafaba drained from one 400g tin of chickpeas
@@ -236,7 +254,7 @@ emoji:
         - /4 cup (28g) pecans, chopped
         - dried
         - chopped fresh cilantro (optional, for serving)
-        - "rhubarb stalks, trimmed and sliced ½-inch thick"
+        - rhubarb stalks, trimmed and sliced ½-inch thick
         - vegan Worcestershire sauce
         - apple
         - apple sauce
@@ -260,6 +278,8 @@ emoji:
         - plums
         - fresh cranberries
         - chunky jam
+        - apple butter
+        - cinnamon applesauce
     - art:
         - natural food coloring
         - rainbow sprinkles
@@ -288,7 +308,7 @@ emoji:
         - /4 cup (31g) all-purpose flour
         - mayonnaise
         - /2 cup plus 2 tablespoons to 3/4 cup (141g to 170g) water, lukewarm
-        - "–8 Tablespoons (90–120g/ml) ice-cold water"
+        - –8 Tablespoons (90–120g/ml) ice-cold water
         - and 1/3 cups (167g) all-purpose flour (spooned &amp; leveled), plus more as needed
         - /2 teaspoon salt
         - egg, at room temperature
@@ -304,11 +324,11 @@ emoji:
         - kosher
         - hot water, ((130 degrees F))
         - baking
-        - "½ to 2 tablespoons Oil ((or ghee))"
+        - ½ to 2 tablespoons Oil ((or ghee))
         - garam masala
         - aged basmati rice ((read notes))
         - teaspoons/7 grams active dry yeast
-        - "plus ½ teaspoon/12 grams kosher salt"
+        - plus ½ teaspoon/12 grams kosher salt
         - plus 2 tablespoons/214 grams water, at room temperature
         - cups/605 grams all-purpose or bread flour, plus more for dusting
         - olive oil, plus more for drizzling
@@ -318,9 +338,9 @@ emoji:
         - (85g) unsalted butter, softened
         - (28g) unsalted butter, melted
         - (283g) milk, lukewarm, divided
-        - "olive oil over medium-high heat. Add the onion and sauté until softened, 2 to ~"
+        - olive oil over medium-high heat. Add the onion and sauté until softened, 2 to ~
         - garlic. Cook, stirring, until rice is toasted and fragrant, 3 to ~
-        - "unsalted butter, cut into ½-inch cubes"
+        - unsalted butter, cut into ½-inch cubes
         - salt. Process until well combined, about ~
         - Lightly sweetened whipped cream or vanilla ice cream, for serving (optional)
         - unsalted butter (softened)
@@ -371,6 +391,7 @@ emoji:
         - beeswax
     - bell_pepper:
         - fajita veggies
+        - sweet bell peppers
     - birthday:
         - cream cheese pound cake
     - blue_circle:
@@ -393,7 +414,7 @@ emoji:
         - (390g) King Arthur Unbleached All-Purpose Flour
         - (14g) Instant Clearjel or cornstarch
         - (14g) Instant Clearjel or 2 tablespoons (14g) King Arthur Unbleached All-Purpose Flour
-        - "½ tablespoons cornstarch"
+        - ½ tablespoons cornstarch
         - all-purpose flour, spooned into measuring cup and leveled-off with a knife
         - long grain white rice
         - stone ground whole wheat flour
@@ -422,12 +443,15 @@ emoji:
         - torn bread pieces (like ciabatta or baguette)
         - torn corn tortilla pieces
         - Trader Joe's Banana Bread Mix
+        - French bread loaves
+        - sourdough bread loaf
     - broccoli:
         - broccoli
         - cauliflower
         - broccoli florets
         - frozen broccoli
         - broccolini
+        - frozen broccoli florets
     - burrito:
         - black bean burrito bake
     - butter:
@@ -450,9 +474,15 @@ emoji:
         - butter (room temperature (80g))
         - unsalted butter ((56g))
         - cups/340 grams unsalted European or European-style butter (3 sticks), chilled
-        - "cup/57 grams unsalted butter, cut into ½-inch pieces, chilled"
+        - cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
+        - margarine
+        - soft margarine
+        - reduced-calorie margarine
     - cake:
         - brandy snaps
+        - white cake mix
+        - yellow cake mix
+        - devil's food cake mix
     - candy:
         - packed brown sugar
         - bourbon or dark rum
@@ -492,9 +522,9 @@ emoji:
         - cinnamon sugar
         - crystal sugar
         - confectioner's sugar
-        - "confectioner’s sugar"
+        - confectioner’s sugar
         - confectioners' sugar
-        - "confectioners’ sugar"
+        - confectioners’ sugar
         - light corn syrup
         - corn syrup
         - sugar
@@ -509,8 +539,12 @@ emoji:
         - carrots
         - grated carrots
         - carrots (sliced)
+        - baby carrots
+        - parsnips, cut into 1-inch pieces
+        - frozen mixed vegetables
     - champagne:
         - ina garten's perfect vinaigrette
+        - champagne
     - cheese:
         - freshly grated Parmesan cheese
         - Earl Grey teabags
@@ -533,7 +567,7 @@ emoji:
         - grated Parmesan cheese
         - vegan parmesan
         - cream cheese
-        - "reduced-fat cream cheese (Neufchâtel)"
+        - reduced-fat cream cheese (Neufchâtel)
         - extra-firm tofu
         - Mozzarella cheese
         - feta
@@ -543,6 +577,8 @@ emoji:
         - mozzarella cheese (shredded)
         - Parmigiano Reggiano cheese (grated)
         - ricotta cheese
+        - reduced-fat cheddar cheese
+        - Muenster cheese
     - cheese_wedge:
         - Parmigiano-Reggiano cheese
         - Gruyère cheese
@@ -550,6 +586,7 @@ emoji:
     - cherries:
         - cherry bars
         - unsweetened cherry juice
+        - canned dark sweet cherries in light syrup
     - chestnut:
         - walnut pieces
         - walnut halves
@@ -621,6 +658,7 @@ emoji:
         - Dutch-process cocoa powder
         - unsweetened cocoa powder
         - cocoa powder
+        - unsweetened chocolate
     - chopsticks:
         - rhubarb cake
     - clinking_glasses:
@@ -637,6 +675,10 @@ emoji:
         - espresso beans
         - instant coffee
         - espresso powder
+        - hot strong coffee
+    - cookie:
+        - vanilla wafers
+        - low-fat cinnamon grahams
     - corn:
         - sweet cornbread
         - cornbread mix
@@ -646,6 +688,7 @@ emoji:
         - fresh ears of corn, husks and silks removed
         - frozen corn
         - masa harina
+        - creamed corn
     - cow:
         - espagnole
     - crab:
@@ -665,6 +708,7 @@ emoji:
         - cucumbers
         - Persian cucumbers
         - dill pickles
+        - zucchini
     - cupcake:
         - pumpkin cream cheese muffins
         - 1-bowl carrot apple muffins
@@ -678,8 +722,12 @@ emoji:
         - dashi powder
     - custard:
         - breakfast tofu scramble
+        - vanilla instant pudding mix
+        - vanilla instant pudding and pie filling
+        - blackberry gelatin
     - cut_of_meat:
         - uncooked bulk Italian sausage
+        - vegetarian Italian sausage
     - dango:
         - s'mores tart
     - date:
@@ -699,6 +747,7 @@ emoji:
         - warm water
         - reserved pasta water
         - mushroom soaking water
+        - cold water
     - dumpling:
         - empanada pastry
     - ear:
@@ -724,6 +773,8 @@ emoji:
         - egg yolk
         - eggs
         - large eggs
+        - egg substitute
+        - fat-free egg substitute
     - eggplant:
         - eggplant parmigiana
     - falafel:
@@ -734,6 +785,7 @@ emoji:
         - fish-ish tacos with spicy dill slaw
     - flatbread:
         - flour tortillas
+        - fat-free flour tortillas
     - flower_playing_cards:
         - vanilla extract
         - pure vanilla extract
@@ -772,16 +824,16 @@ emoji:
         - low-fat plain strained yogurt
         - light sour cream
         - creamy salted natural peanut butter or almond butter
-        - "crème fraiche"
-        - "crème fraîche"
+        - crème fraiche
+        - crème fraîche
         - mascarpone
         - (8 oz) mascarpone
-        - "(7.5 oz) crème fraiche"
-        - "(7.5 oz) crème fraîche"
+        - (7.5 oz) crème fraiche
+        - (7.5 oz) crème fraîche
         - /4 cup (180ml) whole milk
         - /2 cup (120ml) heavy cream
         - cream of tartar
-        - "¾ cups water (or thin coconut milk (1¼ cups water for IP, 2 cups for regular pot, refer notes))"
+        - ¾ cups water (or thin coconut milk (1¼ cups water for IP, 2 cups for regular pot, refer notes))
         - curd or yogurt
         - heavy
         - cup/120 grams whole milk, at room temperature
@@ -797,10 +849,13 @@ emoji:
         - plant milk
         - nonfat dry milk
         - Baker's Special Dry Milk
-        - "Baker’s Special Dried Milk"
+        - Baker’s Special Dried Milk
         - milk powder
         - sour cream
         - whipped cream
+        - fat-free sour cream
+        - fat-free milk
+        - cold milk
     - grapes:
         - dates / khajoor
         - raisins
@@ -813,7 +868,7 @@ emoji:
     - green_apple:
         - apple pie overnight oats
     - green_circle:
-        - "pea purée"
+        - pea purée
     - green_salad:
         - superfood power bowl
         - sonoran salad
@@ -856,6 +911,11 @@ emoji:
         - fresh thyme leaves
         - thyme leaves
         - ground thyme
+        - dried oregano leaves
+        - dried marjoram leaves
+        - dried parsley
+        - fresh basil, slivered
+        - dried basil leaves
     - hibiscus:
         - iced hibiscus tea
     - honey_pot:
@@ -863,6 +923,7 @@ emoji:
         - honey
         - maple syrup
         - raw unpasteurized honey
+        - pancake syrup
     - hot_pepper:
         - candied jalapenos
         - fresh jalapenos (about 30 peppers)
@@ -891,14 +952,14 @@ emoji:
         - small dried hot chiles
         - rich fruity dried chiles
         - ground black pepper
-        - "jalapeño"
+        - jalapeño
         - cracked black pepper
         - chili powder or hot chili flakes
         - chipotle powder
         - charred and peeled poblano peppers
         - poblano peppers
         - large poblano peppers
-        - "jalapeño pepper"
+        - jalapeño pepper
         - fresh corn kernels, salt, pepper, drained beans, cook until corn is tender, 5 to ~
         - .25 teaspoon black pepper
         - peppercorn kernels
@@ -906,7 +967,7 @@ emoji:
         - green chili ((slit or chopped) (skip for kids))
         - Red-pepper flakes (optional)
         - Kosher salt and black pepper
-        - "jalapeño or serrano pepper"
+        - jalapeño or serrano pepper
         - chili powder
         - chili
         - crushed tomatoes
@@ -947,8 +1008,10 @@ emoji:
         - fudge ripple ice cream
     - ice_cube:
         - ginger cubes
+        - crushed ice
     - icecream:
         - '[buttermilk](../ingredients/buttermilk.md) panna cotta'
+        - whipped topping
     - jack_o_lantern:
         - pumpkin coffee cake
     - leafy_green:
@@ -970,6 +1033,7 @@ emoji:
         - fresh spinach (torn)
         - celery (sliced)
         - frozen spinach (chopped, defrosted and squeezed of some water)
+        - frozen chopped spinach
     - lemon:
         - olde tyme lemonade
         - freshly squeezed lemon juice (4-5 lemons, depending upon size)
@@ -998,6 +1062,8 @@ emoji:
         - mixed mushrooms
         - wild mushrooms
         - cremini mushrooms (sliced)
+        - portobello mushrooms
+        - white mushrooms
     - olive:
         - extra virgin olive oil
         - olive oil
@@ -1032,21 +1098,27 @@ emoji:
         - medium onion, finely diced
         - scallions
         - sliced scallions
+        - onions, halved crosswise with peel and roots
+        - green onions, cut into 1-inch diagonal pieces
     - orange_circle:
         - unexpected cheddar cheese ball
     - pancakes:
         - blueberry smoothie pancakes
         - pumpkin pancakes
+        - buckwheat pancake mix
     - peach:
         - peach preserves
         - sliced peaches (drained)
         - peach bars
+        - peach schnapps
+        - peach nectar
     - peanuts:
         - best ever peanut butter bars
         - peanut oil
         - peanut oil (or vegetable oil)
         - peanut butter overnight oats
         - nutmeg
+        - nuts
     - pear:
         - pear tarte tatin
     - pie:
@@ -1060,10 +1132,11 @@ emoji:
     - potato:
         - potato bread
         - potato flour
-        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline # yamllint disable-line rule:truthy
+        - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline
         - russet potatoes, peeled and cut into 1- to 2-inch cubes
         - russet potatoes
         - russet potatoes, peeled and cut into 1/2-inch dice
+        - potatoes, cut into 1-inch pieces
     - poultry_leg:
         - vegetarian chicken pieces (cut into 1-inch pieces)
     - pretzel:
@@ -1082,6 +1155,7 @@ emoji:
         - bow tie pasta chips
     - rice:
         - old-fashioned rice pudding
+        - instant brown rice
     - sake:
         - red wine vinaigrette
     - salt:
@@ -1107,6 +1181,7 @@ emoji:
         - some salt
         - some pepper
         - flaky sea salt (optional)
+        - adobo seasoning
     - sandwich:
         - applied grilled cheese
     - seedling:
@@ -1136,7 +1211,9 @@ emoji:
     - spaghetti:
         - pasta
         - dried lasagna noodles (broken into bite-size pieces)
-        - "no boil lasagna noodles"
+        - no boil lasagna noodles
+        - lasagna noodles
+        - rotini pasta
     - star:
         - star bread
     - stew:
@@ -1168,6 +1245,7 @@ emoji:
         - medium potato
         - potato
         - potato gnocchi
+        - sweet potato, cut into 1-inch pieces
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
@@ -1198,6 +1276,11 @@ emoji:
         - tamari
         - miso paste
         - Marmite
+        - prepared mustard
+        - whole cranberry sauce
+        - ranch salad dressing mix
+        - vegetarian Worcestershire sauce
+        - enchilada sauce
     - tangerine:
         - fresh lemon juice
         - vodka
@@ -1221,6 +1304,7 @@ emoji:
         - wedge of fresh lime
         - Fiori di Sicilia
         - dill pickle juice
+        - grated orange rind
     - tea:
         - red or yellow onion, thinly sliced
         - onion
@@ -1264,13 +1348,15 @@ emoji:
         - marinara sauce
         - whole tomatoes
         - whole peeled tomatoes
-        - "tomato purée"
+        - tomato purée
         - salsa
         - Roma or plum tomatoes
         - tomatillo, husk removed
         - grape tomatoes
         - ripe red tomatoes
         - ripe tomatoes
+        - chopped tomatoes
+        - diced tomatoes
     - tulip:
         - saffron
     - tumbler_glass:
@@ -1282,6 +1368,9 @@ emoji:
         - light-flavored beer (such as PBR or Budweiser)
         - 80-proof vodka
         - reduced Guinness
+        - dark rum
+        - Irish cream liqueur
+        - Amaretto
     - waffle:
         - belgian waffles
     - water_buffalo:
@@ -1296,6 +1385,8 @@ emoji:
         - dry white wine
         - sake
         - mirin
+        - blackberry wine
+        - brandy
     - wood:
         - pecan wood chips or pellets
     - yellow_circle:
