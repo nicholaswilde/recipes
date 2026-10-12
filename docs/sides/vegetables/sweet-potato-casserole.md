@@ -18,6 +18,8 @@ total time: 1 hour 40 minutes
 
 # :sweet_potato: Sweet Potato Casserole
 
+![Sweet Potato Casserole][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.42 hours |
@@ -95,3 +97,5 @@ Bake at 350 °F for 30 to 35 minutes. Let stand 10 minutes prior to serving.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/sweet-potato-casserole.webp>

@@ -18,6 +18,8 @@ total time: 1 hour 20 minutes
 
 # :carrot: Roasted Autumn Vegetables
 
+![Roasted Autumn Vegetables][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 6 | 60 minutes |
@@ -69,3 +71,5 @@ Stir in balsamic vinegar and fresh rosemary. Roast for 15 minutes more, or until
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/roasted-autumn-vegetables.webp>

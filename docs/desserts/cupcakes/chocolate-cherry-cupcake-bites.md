@@ -18,6 +18,8 @@ total time: 50 minutes
 
 # :chocolate_bar: Chocolate Cherry Cupcake Bites
 
+![Chocolate Cherry Cupcake Bites][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 48 | 24 minutes |
@@ -83,3 +85,5 @@ Frost each cupcake with 1 tsp of reserved frosting.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/chocolate-cherry-cupcake-bites.webp>

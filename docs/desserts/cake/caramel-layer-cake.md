@@ -17,6 +17,8 @@ total time: 1 hour 30 minutes
 
 # :cake: Caramel Layer Cake
 
+![Caramel Layer Cake][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 16 | 40 minutes |
@@ -99,3 +101,5 @@ frosting over top and sides of cake.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/caramel-layer-cake.webp>
