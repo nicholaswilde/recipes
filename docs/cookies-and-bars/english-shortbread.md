@@ -18,6 +18,8 @@ total time: 40 minutes
 
 # :cookie: English Shortbread
 
+![English Shortbread][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 8 | 30 minutes |
@@ -66,3 +68,5 @@ Cut into wedges while warm. Sprinkle lightly with sugar.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../assets/images/english-shortbread.webp>

@@ -14,7 +14,10 @@ prep time: 5 minutes
 cook time: 0 minutes
 total time: 5 minutes
 ---
+
 # :clinking_glasses: Frozen Bikini
+
+![Frozen Bikini][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -53,3 +56,4 @@ Pour into a chilled goblet and top with chilled champagne.
 
 - Recipe Box
 
+[1]: <../assets/images/frozen-bikini.webp>

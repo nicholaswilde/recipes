@@ -13,7 +13,10 @@ prep time: 15 minutes
 cook time: 0 minutes
 total time: 1 hour 15 minutes
 ---
+
 # :custard: Sand Cups
+
+![Sand Cups][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -59,3 +62,4 @@ Refrigerate for at least 1 hour before serving.
 
 - Recipe Box
 
+[1]: <../assets/images/sand-cups.webp>

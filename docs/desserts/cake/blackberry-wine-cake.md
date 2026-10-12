@@ -18,6 +18,8 @@ total time: 2 hours 10 minutes
 
 # :cake: Blackberry Wine Cake
 
+![Blackberry Wine Cake][1]{ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 12 | 1.93 hours |
@@ -77,3 +79,5 @@ Let cake cool in pan for about 1 hour. Invert cake onto a serving plate and serv
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/blackberry-wine-cake.webp>
