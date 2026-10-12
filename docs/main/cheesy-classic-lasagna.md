@@ -2,7 +2,7 @@
 comments: true
 tags:
 - main
-- [pasta](../ingredients/pasta.md)
+- pasta
 - lasagna
 - italian
 - recipe-box

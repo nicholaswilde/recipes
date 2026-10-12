@@ -14,7 +14,7 @@ cook time: 25 minutes
 total time: 40 minutes
 ---
 
-# :cupcake: Mimi's Café [Buttermilk](../ingredients/buttermilk.md) Spice Muffins
+# :cupcake: Mimi's Café Buttermilk Spice Muffins
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -3,7 +3,7 @@ comments: true
 tags:
 - bread
 - breads
-- [garlic-bread](garlic-bread.md)
+- garlic-bread
 - cheese
 - recipe-box
 - vegetarian
@@ -14,7 +14,7 @@ cook time: 5 minutes
 total time: 15 minutes
 ---
 
-# :garlic: Cheesy Garlic [French Bread](french-bread.md)
+# :garlic: Cheesy Garlic French Bread
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

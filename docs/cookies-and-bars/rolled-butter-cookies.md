@@ -6,7 +6,7 @@ tags:
 - dessert
 - cookies-and-bars
 - cookies
-- [butter](../ingredients/butter/butter.md)-cookies
+- butter-cookies
 - recipe-box
 - vegetarian
 source: Recipe Box
@@ -16,7 +16,7 @@ cook time: 12 minutes
 total time: 1 hour 30 minutes
 ---
 
-# :butter: Rolled [Butter](../ingredients/butter/butter.md) Cookies
+# :butter: Rolled Butter Cookies
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
