@@ -23,6 +23,7 @@ hero: assets/images/applied-pumpkin-chocolate-chip-cookies.webp
 - :candy: 0.5 cup (99 g) granulated sugar
 - :egg: 1 large egg
 - :flower_playing_cards: 1 tsp vanilla
+- :bread: 2 cups (240 g) all-purpose flour
 - :salt: 1 tsp salt
 - :chestnut: 1 tsp baking soda
 - :chestnut: 1 tsp baking powder
@@ -55,7 +56,7 @@ vanilla, then beat for about 4 minutes, until fully incorporated.
 
 ### Step 4
 
-In a separate bowl, whisk together the salt, baking soda, baking powder, and pumpkin pie spice.
+In a separate bowl, whisk together the all-purpose flour, salt, baking soda, baking powder, and pumpkin pie spice.
 
 ### Step 5
 
