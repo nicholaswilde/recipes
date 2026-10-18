@@ -6,6 +6,7 @@ tags:
   - king-arthur-baking
   - holiday
   - appetizer
+  - must-try
 hero: assets/images/savory-star-bread.webp
 ---
 
