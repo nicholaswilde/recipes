@@ -892,6 +892,8 @@ emoji:
         - parsley
         - fresh parsley
         - basil
+        - basil pesto
+        - pesto
         - fresh basil or cilantro
         - Italian herbs
         - Italian seasoning
@@ -1220,6 +1222,7 @@ emoji:
         - rotini pasta
     - star:
         - star bread
+        - savory star bread
     - stew:
         - reduced-sodium chicken broth
         - vegetable or chicken broth
