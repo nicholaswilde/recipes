@@ -97,7 +97,7 @@ This project is a personal recipe collection managed as a documentation site usi
 - **List Ingredients:** `task list-ingredients` (lists all used ingredients for consistency).
 - **Validate Config:** `task validate` (validates [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) syntax).
 - **Validate Cooklang File:** `task validate-cook FILE="path/to/recipe.cook"`.
-- **Spellcheck File:** `task spellcheck-file FILE=path/to/file` (targeted spellcheck using [dictionary.txt](file:///home/nicholas/git/nicholaswilde/recipes/dictionary.txt)).
+- **Spellcheck File:** `task spellcheck-file FILE=path/to/file` (targeted spellcheck using [dictionary.txt](file:///home/nicholas/git/nicholaswilde/recipes/dictionary.txt)). When importing a recipe, always use this instead of the general `task spellcheck`.
 - **Lint Files:** `task lint` (runs `rumdl` and `yamllint`). Specific linters: `task rumdl`, `task yamllint`.
 - **Compile & Move Recipe:** `FILES=<path/to/cookfile> task move` (converts `.cook` to Markdown, runs checks, and generates `zensical.toml` mapping entry).
 - **Link Checking Note:** DO NOT run `task linkcheck` project-wide as it is excessively slow. Only use targeted link checks when necessary.
