@@ -199,6 +199,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - honey or maple syrup
         - agave syrup
         - coriander
         - dry starter granules
@@ -398,6 +399,7 @@ emoji:
     - blue_circle:
         - blueberry [ricotta](../ingredients/ricotta.md) breakfast cake
     - bread:
+        - whole wheat flour
         - King Arthur Unbleached All-Purpose Flour
         - pastry flour
         - corn kernels
@@ -485,6 +487,7 @@ emoji:
         - yellow cake mix
         - devil's food cake mix
     - candy:
+        - molasses
         - packed brown sugar
         - bourbon or dark rum
         - heaping cup packed dates ((pitted // deglet noor or medjool)*)
