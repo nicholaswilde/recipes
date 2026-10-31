@@ -1,23 +1,29 @@
 # Project Rules & Guidelines
 
+<!-- rtk-begin -->
 ## RTK Command Guidelines
 - **Git Operations**: Prefix `git` commands with `rtk` (e.g., `rtk git status`, `rtk git diff`, `rtk git log`, `rtk git commit`, `rtk git push`).
-- **GitHub CLI**: Prefix `gh` commands with `rtk` (e.g., `rtk gh issue list | cat`, `rtk gh pr status | cat`). Always pipe `gh` commands to `cat` to bypass interactive pagers.
+- **GitHub CLI**: Prefix `gh` commands with `rtk` and pipe to `cat` (e.g., `rtk gh issue list | cat`, `rtk gh pr status | cat`). Always pipe to bypass interactive pagers.
 - **File & Directory Inspection**: Use `rtk ls`, `rtk tree`, `rtk find`, or `rtk read` when listing or reading files to get token-optimized output.
-- **Searching**: Use `rtk rg` for line search pattern matching.
-- **Build & Test Outputs**: Use `rtk err` or `rtk test` when running build/test commands to filter output to errors/failures only (e.g. `rtk test pio test -e native`).
+- **Searching**: Use `rtk rg` or `rg` (ripgrep) for line search pattern matching to save tokens.
+- **Build & Test Outputs**: Use `rtk err` or `rtk test` when running build/test commands to filter output to errors/failures only (e.g., `rtk test task lint`).
+- **Exceptions**: Inside `ctx_execute` / `ctx_batch_execute` sandbox code, skip `rtk` (only printed output enters context). Drop `rtk` when exact raw bytes or patch required (`git diff` patch).
+<!-- rtk-end -->
 
+<!-- context-mode-begin -->
 ## Context-Mode Routing Guidelines
-- **Derive, Do Not Dump**: Do NOT use `context-mode/ctx_execute_file` or `ctx_execute` to print a whole file or a full method/config. Print only the specific value, matches, count, or known line-range needed.
-- **Tool call surface**: If using generic MCP wrappers, call `call_mcp_tool` with `ServerName: "context-mode"` and `ToolName: "ctx_execute"`, `"ctx_execute_file"`, `"ctx_batch_execute"`, `"ctx_fetch_and_index"`, `"ctx_search"`, or `"ctx_index"`.
+- **Derive, Do Not Dump**: Do NOT use `ctx_execute_file` or `ctx_execute` to dump whole file or full config. Print only specific value, matches, count, or known line range needed.
+- **Tool Call Surface**: When using MCP wrappers, call `call_mcp_tool` with `ServerName: "context-mode_context-mode"` (or `"context-mode"`) and `ToolName: "ctx_execute"`, `"ctx_execute_file"`, `"ctx_batch_execute"`, `"ctx_fetch_and_index"`, `"ctx_search"`, or `"ctx_index"`.
 - **Mandatory Routing**:
-  - For analyze/count/filter/compare/search/parse/transform tasks, write code with `context-mode/ctx_execute` and print only the final answer.
-  - For analyzing/exploring/searching inside a file, use `context-mode/ctx_execute_file`. Use native `Read` / `view_file` only when editing requires exact bytes or a small known range.
-  - Use `context-mode/ctx_batch_execute` for multi-command repository reconnaissance.
-  - Use `context-mode/ctx_execute` for shell commands whose output may exceed a short fixed answer.
-  - Use `context-mode/ctx_fetch_and_index` for web content, then `context-mode/ctx_search` to query it.
-  - Return only derived answers, concise summaries, selected snippets, or file paths to written artifacts.
+  - For analyze/count/filter/compare/search/parse/transform tasks, write code with `ctx_execute` and print only final answer.
+  - For analyzing/exploring inside file, use `ctx_execute_file`. Use native `read_file` only when editing requires exact bytes or small known range.
+  - Use `ctx_batch_execute` for multi-command repository reconnaissance.
+  - Use `ctx_execute` for shell commands whose output may exceed short fixed answer.
+  - Use `ctx_fetch_and_index` for web content, then `ctx_search` to query it.
+  - Return only derived answers, concise summaries, selected snippets, or file paths.
+<!-- context-mode-end -->
 
+<!-- ponytail-begin -->
 ## Ponytail (Lazy Senior Dev Mode) Guidelines
 - **Stop at the first rung that holds**:
   1. Does this need to be built at all? (YAGNI)
@@ -34,7 +40,9 @@
   - Shortest working diff wins, once the problem is understood.
   - Mark deliberate simplifications cutting a real corner with a `ponytail:` comment naming the ceiling and upgrade path.
   - Ensure logic leaves behind ONE runnable check (assert-based demo/self-check or small test file; no frameworks/fixtures). Trivial one-liners need no test.
+<!-- ponytail-end -->
 
+<!-- caveman-begin -->
 ## Caveman Guidelines
 Respond terse like smart caveman. All technical substance stay. Only fluff die.
 
@@ -51,7 +59,9 @@ Stop: "stop caveman" or "normal mode"
 Auto-Clarity: drop caveman for security warnings, irreversible actions, user confused. Resume after.
 
 Boundaries: code/commits/PRs written normal.
+<!-- caveman-end -->
 
+<!-- codegraph-begin -->
 ## CodeGraph
 
 In repositories indexed by CodeGraph (a `.codegraph/` directory exists at the repo root), reach for it BEFORE grep/find or reading files when you need to understand or locate code:
@@ -60,7 +70,9 @@ In repositories indexed by CodeGraph (a `.codegraph/` directory exists at the re
 - **Shell** (always works): `codegraph explore "<symbol names or question>"` prints the same output.
 
 If there is no `.codegraph/` directory, skip CodeGraph entirely — indexing is the user's decision.
+<!-- codegraph-end -->
 
+<!-- serena-begin -->
 ## Serena Semantic Code Tools
 
 Serena MCP provides Language Server Protocol (LSP) backed semantic coding tools, token-efficient AST symbol search, reference-aware refactoring, and persistent project memories.
@@ -71,6 +83,34 @@ Serena MCP provides Language Server Protocol (LSP) backed semantic coding tools,
 - **Atomic Refactoring**: Prefer Serena's reference-aware editing tools (`rename_symbol`, `safe_delete_symbol`, `replace_symbol_body`) over manual regex or line-based text edits when refactoring existing symbols.
 - **Persistent Memory**: Use `read_memory`, `write_memory`, and `list_memories` to retrieve or store durable project facts and conventions across agent sessions.
 - **Diagnostics**: Use `get_diagnostics_for_file` to inspect LSP compiler/linter warnings and errors on modified files.
+<!-- serena-end -->
+
+<!-- headroom-begin -->
+## Headroom MCP (Context Window Compression)
+Use Headroom (`headroom`) MCP tools to manage context window consumption on large payloads:
+- `headroom_compress`: Shrink large tool outputs or raw data.
+- `headroom_retrieve`: Retrieve original content by hash if specific details needed.
+- `headroom_stats`: Monitor headroom cache usage.
+<!-- headroom-end -->
+
+<!-- ripgrep-guidelines-begin -->
+## Ripgrep Guidelines
+- **Pattern Searching**: Always use `rg` (ripgrep) or `rtk rg` instead of standard `grep` to search text inside files quickly and save token output.
+- **Scope**: Use `-t py` for Python files, `-l` for file listing, keep context small (`-C 1`).
+<!-- ripgrep-guidelines-end -->
+
+<!-- taplo-rules-begin -->
+## Taplo TOML Rules
+- **Format**: Run `taplo fmt` to format TOML files in-place (`zensical.toml`).
+- **Validation**: Run `taplo lint` to validate TOML syntax and schema.
+<!-- taplo-rules-end -->
+
+<!-- sensitive-information-protection-begin -->
+## Sensitive Information & Secret Protection
+NEVER commit or stage sensitive personal, financial, or security data to repository:
+1. **Secrets & Credentials**: Never commit `.env` files, API keys, bearer tokens, passwords, or private encryption keys.
+2. **Explicit Staging**: Never use `git add .` when untracked secret files exist; stage explicitly by name.
+<!-- sensitive-information-protection-end -->
 
 ## Project Overview & Tech Stack
 
@@ -189,3 +229,4 @@ For multi-serving, multi-variation, or batch recipes, use `pymdownx.tabbed` cont
 - **Duplicate:** Label as `duplicate` with a link to existing `.cook` file.
 - **New Recipe:** Label as `new recipe` when valid.
 - **Enhancement:** Label as `enhancement` for general improvements, charts, or reference guides.
+- **Commit Closing:** GitHub issues only close automatically when commits containing `Fixes #<number>` are pushed to remote repository.

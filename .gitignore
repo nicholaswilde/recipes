@@ -9,6 +9,7 @@ settings.json
 .cache/
 .pytest_cache/
 .codegraph/
+.serena/
 .clinerules/
 .cursor/
 .windsurf/

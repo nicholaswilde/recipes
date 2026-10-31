@@ -1,0 +1,1 @@
+/home/nicholas/git/nicholaswilde/agy-config/agy/.gemini/config/rules/ripgrep-rules.md
