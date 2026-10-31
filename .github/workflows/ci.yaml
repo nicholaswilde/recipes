@@ -34,7 +34,7 @@ jobs:
         uses: actions/cache@v6
         with:
           path: .cache
-          key: ${{ runner.os }}-zensical-${{ hashFiles('**/*.md', '**/*.cook', 'zensical.toml') }}
+          key: ${{ runner.os }}-zensical-${{ hashFiles('docs/**/*.md', 'cook/**/*.cook', 'zensical.toml') }}
           restore-keys: |
             ${{ runner.os }}-zensical-
       - run: pip install zensical
