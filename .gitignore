@@ -10,6 +10,8 @@ settings.json
 .pytest_cache/
 .codegraph/
 .serena/
+.rtk/*
+!.rtk/filters.toml
 .clinerules/
 .cursor/
 .windsurf/

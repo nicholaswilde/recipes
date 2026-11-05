@@ -15,7 +15,7 @@
 - I have imported the Lemon Poppy Seed Pound Cake (Melissa Clark) recipe (Issue #1348).
 - I have imported the Key Lime Pound Cake recipe (Issue #1346).
 - I have updated the Butternut Squash Tahini Curry recipe with a new image and source (Practically Vegan book).
-- I have created a new Gemini command `/zensical fix` in `.gemini/commands/zensical-fix.toml` to validate the
+- I have created a new command `/zensical fix` in `.agents/skills/zensical-fix.md` to validate the
   project and fix build issues.
 - I have imported the `liteparse` skill into `.agents/skills/liteparse.md`.
 - I have imported Stella Parks' BraveTart Brownies recipe, updated zensical.toml, includes/emoji.yaml, and
