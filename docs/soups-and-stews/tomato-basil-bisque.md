@@ -29,8 +29,14 @@ total time: 1.5 hours
 - :stew: 1 cup (227 g) water or [vegetable broth](../ingredients/vegetable-broth.md)
 - :tomato: 4 14.5-oz cans diced tomatoes
 - :herb: 0.5 oz (14 g) fresh basil
-- :glass_of_milk: 1 pint heavy cream
+- :glass_of_milk: 1 pint heavy cream or [cashew crema](../sauces-and-dressings/dips-and-spreads/cashew-crema.md)
 - :candy: 1 tsp (3 g) sugar
+
+!!! tip "Healthy Dairy-Free Variation"
+
+    For a healthier, lower-saturated-fat, and vegan bisque, substitute the heavy cream with an equal amount
+    (1 pint / 2 cups) of [Cashew Crema](../sauces-and-dressings/dips-and-spreads/cashew-crema.md). It delivers an
+    identically rich and velvety texture without separating or curdling during simmering.
 
 ## :cooking: Cookware
 
@@ -48,8 +54,8 @@ occasionally to prevent scorching.
 
 ### Step 2
 
-Pour in water or [vegetable broth](../ingredients/vegetable-broth.md) and scrape the bottom of the pot with a wooden spoon to lift all browned bits. Reduce
-slightly, about 1 to 2 minutes.
+Pour in water or [vegetable broth](../ingredients/vegetable-broth.md) and scrape the bottom of the pot with a wooden spoon
+to lift all browned bits. Reduce slightly, about 1 to 2 minutes.
 
 ### Step 3
 
@@ -58,8 +64,8 @@ simmer, then reduce heat to low and cook uncovered for 20 minutes to develop fla
 
 ### Step 4
 
-Stir in the heavy cream and sugar. Continue simmering on low for another 20 minutes, stirring occasionally to prevent
-sticking.
+Stir in the heavy cream (or cashew crema) and sugar. Continue simmering on low for another 20 minutes, stirring
+occasionally to prevent sticking.
 
 ### Step 5
 
