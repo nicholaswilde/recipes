@@ -1,3 +1,9 @@
+---
+name: resolve-duplicate-issues
+description: >-
+  Scan duplicate-labeled GitHub issues and close them automatically if recipe has already been imported. Trigger: /resolve-duplicate-issues, 'resolve duplicate issues'.
+---
+
 # /resolve-duplicate-issues
 
 Scan open duplicate-labeled issues on GitHub and automatically close them if the corresponding recipe has

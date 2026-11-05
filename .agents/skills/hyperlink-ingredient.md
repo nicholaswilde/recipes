@@ -1,3 +1,9 @@
+---
+name: hyperlink-ingredient
+description: >-
+  Automatically find and add relative markdown hyperlinks to specific ingredients mentioned in target recipe files. Trigger: /hyperlink-ingredient, 'hyperlink ingredient'.
+---
+
 # /hyperlink-ingredient
 
 Automatically find and add relative markdown hyperlinks to specific ingredients mentioned

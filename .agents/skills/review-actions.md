@@ -1,3 +1,9 @@
+---
+name: review-actions
+description: >-
+  Monitor GitHub Actions workflow runs, diagnose failure logs, and apply fixes for linting, spellcheck, link check, or build issues. Trigger: /review-actions, 'review actions'.
+---
+
 # Review Actions & Fix Failures Skill
 
 Monitor GitHub Actions workflow runs, diagnose failure logs, and resolve issues (linting, spellcheck,

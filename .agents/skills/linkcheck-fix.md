@@ -1,3 +1,9 @@
+---
+name: linkcheck-fix
+description: >-
+  Perform offline link checking with lychee and automatically resolve and fix broken local markdown links and image paths. Trigger: /linkcheck-fix, 'linkcheck fix', 'fix broken links'.
+---
+
 # /linkcheck-fix
 
 Perform a fast offline link check and automatically resolve and fix any broken local markdown links and image paths.

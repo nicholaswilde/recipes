@@ -1,6 +1,7 @@
 ---
 name: dedupe-zensical
-description: Remove duplicate array entries in the zensical.toml configuration file.
+description: >-
+  Remove duplicate array entries in the zensical.toml configuration file. Trigger: /dedupe-zensical, 'dedupe zensical', 'remove duplicate zensical entries'.
 ---
 
 # Dedupe Zensical Skill

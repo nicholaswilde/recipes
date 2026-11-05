@@ -1,3 +1,9 @@
+---
+name: link-ingredient
+description: >-
+  Search for an ingredient in Markdown recipes and create links to its own recipe page. Trigger: /link-ingredient, 'link ingredient', 'search and link ingredient'.
+---
+
 # /link-ingredient <args>
 
 Search for an ingredient in Markdown recipes and create links to its own recipe page.

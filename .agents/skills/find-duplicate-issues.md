@@ -1,3 +1,9 @@
+---
+name: find-duplicate-issues
+description: >-
+  Scan GitHub issues and local recipe repositories to detect duplicate issues, cross-issue duplicates, and already-imported recipes. Trigger: /find-duplicate-issues, 'find duplicate issues'.
+---
+
 # /find-duplicate-issues
 
 Scan GitHub issues and local recipe repositories to detect duplicate issues,

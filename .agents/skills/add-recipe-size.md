@@ -1,3 +1,9 @@
+---
+name: add-recipe-size
+description: >-
+  Automate adding additional serving or batch sizes to a recipe file by creating a new Zensical tab. Trigger: /add-recipe-size, 'add recipe size', 'add recipe serving size'.
+---
+
 # Add Recipe Size Tab
 
 This skill automates adding additional serving sizes or batch sizes (e.g. half, double, or specific serves count)

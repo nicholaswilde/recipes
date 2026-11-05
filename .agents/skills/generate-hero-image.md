@@ -1,3 +1,9 @@
+---
+name: generate-hero-image
+description: >-
+  Generate a hero image for an existing recipe, link it to the .cook file, compile to markdown, and convert to WebP. Trigger: /generate-hero-image, 'generate hero image'.
+---
+
 # Generate Hero Image
 
 This skill guides the process of generating a new hero image for an existing recipe and updating the recipe's markdown documentation accordingly.

@@ -1,3 +1,9 @@
+---
+name: replace-low-rated-recipes
+description: >-
+  Detect low-performing recipes below Bayesian rating threshold and identify high-quality online replacements. Trigger: /replace-low-rated-recipes, 'replace low rated recipes'.
+---
+
 # /replace-low-rated-recipes
 
 Detect low-performing recipes in the repository and identify high-quality online replacements.

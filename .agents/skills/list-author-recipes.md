@@ -1,3 +1,9 @@
+---
+name: list-author-recipes
+description: >-
+  List recipes in repository containing an author name, blog, restaurant, or brand in title, respecting author whitelist. Trigger: /list-author-recipes, 'list author recipes'.
+---
+
 # /list-author-recipes
 
 Print a list of all recipes in the repository that contain an author name, blog, restaurant, or brand in their title, using the `zensical.toml` configuration while respecting the whitelist.

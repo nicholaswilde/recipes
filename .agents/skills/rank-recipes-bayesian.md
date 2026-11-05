@@ -1,3 +1,9 @@
+---
+name: rank-recipes-bayesian
+description: >-
+  Calculate Bayesian average for recipe search results to rank them objectively by rating and review count. Trigger: /rank-recipes-bayesian, 'rank recipes bayesian'.
+---
+
 # /rank-recipes-bayesian
 
 Calculate the Bayesian average for a set of recipe search results to rank them objectively by both rating and review count.

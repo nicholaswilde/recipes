@@ -1,3 +1,9 @@
+---
+name: recipe-image-validation
+description: >-
+  Identify and resolve missing or corrupted images in recipe files, ensuring valid hero frontmatter and body embeds. Trigger: /recipe-image-validation, 'validate recipe images'.
+---
+
 # Recipe Image Validation Skill
 
 This skill documents how to identify and resolve missing or corrupted images in recipe files, ensuring all recipes have

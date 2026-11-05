@@ -1,3 +1,9 @@
+---
+name: list-issues
+description: >-
+  List open issues in the GitHub repository with optional label filtering. Trigger: /list-issues, 'list issues', 'show open issues'.
+---
+
 # /list-issues [args]
 
 List open issues in the GitHub repository. Optionally filter by label (e.g., 'new recipe', 'required').

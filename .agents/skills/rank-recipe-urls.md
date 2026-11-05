@@ -1,3 +1,9 @@
+---
+name: rank-recipe-urls
+description: >-
+  Extract ratings and review counts from recipe URLs and rank them objectively using Bayesian average. Trigger: /rank-recipe-urls, 'rank recipe urls', 'evaluate recipe candidates'.
+---
+
 # /rank-recipe-urls
 
 Fetch ratings and review counts from recipe URLs and rank them objectively using the Bayesian average.

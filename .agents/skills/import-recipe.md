@@ -1,3 +1,11 @@
+---
+name: import-recipe
+description: >-
+  Import a recipe from a URL, GitHub issue, image, PDF, or YouTube video into the
+  collection: scrape or OCR, draft CookLang, handle hero images, compile, validate,
+  and commit. Trigger: /import-recipe, "import recipe", "import issue #<num>".
+---
+
 # /import-recipe `args`
 
 Import recipe from URL or GitHub issue.

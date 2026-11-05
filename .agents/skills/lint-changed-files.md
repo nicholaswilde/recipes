@@ -1,3 +1,9 @@
+---
+name: lint-changed-files
+description: >-
+  Run fast linting checks (rumdl and yamllint-rs) only on modified, staged, or untracked files in the workspace. Trigger: /lint-changed-files, 'lint changed files'.
+---
+
 # /lint-changed-files
 
 Run fast linting checks only on modified, staged, or untracked Markdown and YAML files in the workspace (saves context tokens).

@@ -1,3 +1,9 @@
+---
+name: find-duplicates
+description: >-
+  Analyze recipes for title and ingredient similarities to identify duplicates or highly similar recipes. Trigger: /find-duplicates, 'find duplicates', 'find duplicate recipes'.
+---
+
 # /find-duplicates
 
 Parse the repository recipes, analyze them for title and ingredient similarities, and identify duplicates or highly similar recipes.

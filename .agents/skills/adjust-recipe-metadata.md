@@ -1,3 +1,9 @@
+---
+name: adjust-recipe-metadata
+description: >-
+  Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files. Trigger: /adjust-recipe-metadata, 'adjust recipe metadata', 'update recipe tags'.
+---
+
 # Adjust Recipe Metadata
 
 This skill automates the adjustment of recipe metadata, tags, and frontmatter.

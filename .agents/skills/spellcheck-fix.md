@@ -1,3 +1,9 @@
+---
+name: spellcheck-fix
+description: >-
+  Perform fast spell checking using typos and automatically fix spelling errors across repository files. Trigger: /spellcheck-fix, 'spellcheck fix', 'fix typos'.
+---
+
 # /spellcheck-fix
 
 Perform a fast spell check using typos and automatically fix any spelling errors in the repository.

@@ -1,3 +1,9 @@
+---
+name: scripts-registry
+description: >-
+  Registry of automation and utility scripts in recipes repository for importing, formatting, moving, and checking recipes. Trigger: /scripts-registry, 'scripts registry'.
+---
+
 # Project Scripts Registry Skill
 
 This registry outlines the purpose, inputs, and usage of the automation and utility scripts in this repository.

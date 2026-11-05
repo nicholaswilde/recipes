@@ -1,3 +1,9 @@
+---
+name: rename-recipe
+description: >-
+  Safely rename a recipe along with Markdown, Cooklang, images, zensical.toml entries, and cross-references while preserving git history. Trigger: /rename-recipe, 'rename recipe'.
+---
+
 # /rename-recipe <old_name> <new_name>
 
 Rename an existing recipe in the repository, including Markdown, Cooklang, images, zensical.toml configuration, and cross-references.

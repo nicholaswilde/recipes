@@ -1,3 +1,9 @@
+---
+name: recipe-servings-tabs
+description: >-
+  Convert recipes with multiple serving sizes or batch variations into Zensical content tabs with 4-space indentation. Trigger: /recipe-servings-tabs, 'recipe servings tabs'.
+---
+
 # /recipe-servings-tabs
 
 Search for recipes with multiple `serves X` headers or multiple ingredient groups for different batch/serving sizes and convert them to Zensical tabs.

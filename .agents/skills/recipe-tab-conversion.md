@@ -1,3 +1,9 @@
+---
+name: recipe-tab-conversion
+description: >-
+  Convert recipes with multiple ingredients or instructions sections into Zensical Content Tabs (pymdownx.tabbed). Trigger: /recipe-tab-conversion, 'convert recipe tabs'.
+---
+
 # /recipe-tab-conversion
 
 Convert recipes with multiple ingredients/instructions headers (e.g., Dough and Glaze, or 9-inch and 10-inch) to use Zensical Content Tabs (`pymdownx.tabbed`).

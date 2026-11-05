@@ -1,3 +1,9 @@
+---
+name: create-issue
+description: >-
+  Create a new GitHub issue using gh CLI with structured titles and appropriate labels. Trigger: /create-issue, 'create issue', 'new issue'.
+---
+
 # /create-issue <title> [description]
 
 Create a new GitHub issue using the `gh` CLI, with structured titles and appropriate labels.

@@ -1,3 +1,9 @@
+---
+name: zensical-fix
+description: >-
+  Validate Zensical project and automatically fix issues (unresolved reference links, unused link definitions, build warnings). Trigger: /zensical-fix, 'zensical fix'.
+---
+
 # /zensical-fix
 
 Validate the Zensical project and automatically fix issues found during validation and build.

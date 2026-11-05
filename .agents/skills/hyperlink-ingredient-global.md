@@ -1,3 +1,9 @@
+---
+name: hyperlink-ingredient-global
+description: >-
+  Globally find and add relative markdown hyperlinks to a specific ingredient in all recipe files that mention it. Trigger: /hyperlink-ingredient-global, 'link ingredient globally'.
+---
+
 # /hyperlink-ingredient-global
 
 Globally find and add relative markdown hyperlinks to a specific ingredient in all recipe files

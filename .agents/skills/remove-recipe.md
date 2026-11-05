@@ -1,3 +1,9 @@
+---
+name: remove-recipe
+description: >-
+  Safely and completely remove a recipe including Markdown, Cooklang, images, cross-references, and zensical.toml navigation entries. Trigger: /remove-recipe, 'remove recipe'.
+---
+
 # /remove-recipe <args>
 
 Remove a recipe from the repository, including Markdown, Cooklang, images, cross-references, and navigation entries.

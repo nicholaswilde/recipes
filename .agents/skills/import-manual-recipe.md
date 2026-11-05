@@ -1,3 +1,9 @@
+---
+name: import-manual-recipe
+description: >-
+  Import recipes from manual sources, images, PDFs, or unscrapable websites into CookLang format with strict validation. Trigger: /import-manual-recipe, 'import manual recipe'.
+---
+
 # Import Manual Recipe
 
 Guide for importing recipes from manual sources, images, PDFs, or unscrapable websites (e.g. Serious Eats).

@@ -1,3 +1,9 @@
+---
+name: linkcheck-online
+description: >-
+  Perform online link check with lychee to verify external URLs across markdown files and fix genuine dead links. Trigger: /linkcheck-online, 'linkcheck online', 'check external links'.
+---
+
 # /linkcheck-online
 
 Perform an online link check to verify external web URLs across the repository and systematically identify and fix genuine dead links (404 errors).
