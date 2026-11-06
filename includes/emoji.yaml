@@ -1,6 +1,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - small mixing bowl
         - clean bowl
         - griddle
         - canning jars
@@ -367,6 +368,7 @@ emoji:
     - banana:
         - best-ever banana bread
     - beans:
+        - cannellini beans
         - Yukon gold potatoes
         - fresh or frozen baby lima beans
         - pinto beans
@@ -394,6 +396,8 @@ emoji:
     - bell_pepper:
         - fajita veggies
         - sweet bell peppers
+        - red bell pepper
+        - yellow bell pepper
     - birthday:
         - cream cheese pound cake
     - blue_circle:
@@ -584,6 +588,7 @@ emoji:
         - reduced-fat cheddar cheese
         - Muenster cheese
     - cheese_wedge:
+        - feta cheese
         - Parmigiano-Reggiano cheese
         - Gruyère cheese
         - parmesan pull-apart bread
