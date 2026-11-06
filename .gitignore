@@ -2,6 +2,7 @@ site/**
 **.swp
 cook/**/**.md
 __pycache__/
+*.pyc
 mcp_config.json
 settings.json
 .rumdl_cache

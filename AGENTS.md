@@ -105,6 +105,12 @@ Use Headroom (`headroom`) MCP tools to manage context window consumption on larg
 - **Validation**: Run `taplo lint` to validate TOML syntax and schema.
 <!-- taplo-rules-end -->
 
+<!-- uv-rules-begin -->
+## Python Tooling & Execution with `uv`
+- **Prefix Python Commands**: Always run Python scripts and tools via `rtk uv run <script>` or `rtk uv run <tool>`. Never invoke bare `python`, `python3`, `pip`, or `uv`.
+- **Lockfile Synchronization**: Keep `uv.lock` and `pyproject.toml` in sync. Run `rtk uv lock` or `rtk uv sync` whenever dependencies are modified, and commit `uv.lock`.
+<!-- uv-rules-end -->
+
 <!-- sensitive-information-protection-begin -->
 ## Sensitive Information & Secret Protection
 NEVER commit or stage sensitive personal, financial, or security data to repository:
