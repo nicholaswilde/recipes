@@ -23,6 +23,16 @@ from bs4 import BeautifulSoup
 import yaml
 
 try:
+    from recipe_scrapers import (
+        scrape_html,
+        WebsiteNotImplementedError,
+    )
+    from recipe_scrapers._exceptions import RecipeScrapersExceptions
+    RECIPE_SCRAPERS_AVAILABLE = True
+except ImportError:
+    RECIPE_SCRAPERS_AVAILABLE = False
+
+try:
     from scripts.youtube_recipe import is_youtube_url, extract_youtube_recipe
 except ImportError:
     from youtube_recipe import is_youtube_url, extract_youtube_recipe
@@ -59,6 +69,24 @@ def parse_iso_duration(duration_str):
     if minutes:
         m_val = int(minutes)
         parts.append(f"{m_val} minute" + ("s" if m_val != 1 else ""))
+    return " ".join(parts)
+
+def format_minutes_to_duration(minutes):
+    if not minutes:
+        return ""
+    try:
+        minutes = int(round(float(minutes)))
+    except (ValueError, TypeError):
+        return str(minutes)
+    if minutes <= 0:
+        return ""
+    hours = minutes // 60
+    rem_minutes = minutes % 60
+    parts = []
+    if hours:
+        parts.append(f"{hours} hour" + ("s" if hours != 1 else ""))
+    if rem_minutes:
+        parts.append(f"{rem_minutes} minute" + ("s" if rem_minutes != 1 else ""))
     return " ".join(parts)
 
 def parse_fraction(val_str):
@@ -377,6 +405,165 @@ def extract_wprm_recipe(html):
     
     return recipe
 
+def extract_recipe_scrapers(html, url, supported_only=True):
+    if not RECIPE_SCRAPERS_AVAILABLE:
+        return None
+    if not url or not (url.startswith("http://") or url.startswith("https://")):
+        return None
+
+    try:
+        scraper = scrape_html(html, org_url=url, supported_only=supported_only)
+    except (WebsiteNotImplementedError, RecipeScrapersExceptions, Exception):
+        return None
+
+    recipe = {}
+    try:
+        recipe["name"] = scraper.title() or "Unknown Recipe"
+    except Exception:
+        recipe["name"] = "Unknown Recipe"
+
+    servings = ""
+    try:
+        yields_val = scraper.yields()
+        if yields_val:
+            m = re.search(r'\d+', str(yields_val))
+            servings = m.group(0) if m else str(yields_val)
+    except Exception:
+        pass
+    recipe["servings"] = servings
+
+    try:
+        recipe["prep_time"] = format_minutes_to_duration(scraper.prep_time())
+    except Exception:
+        recipe["prep_time"] = ""
+
+    try:
+        recipe["cook_time"] = format_minutes_to_duration(scraper.cook_time())
+    except Exception:
+        recipe["cook_time"] = ""
+
+    try:
+        recipe["total_time"] = format_minutes_to_duration(scraper.total_time())
+    except Exception:
+        recipe["total_time"] = ""
+
+    try:
+        img = scraper.image()
+        if isinstance(img, list) and img:
+            img = img[0]
+        if isinstance(img, dict):
+            img = img.get("url") or ""
+        recipe["image_url"] = urllib.parse.urljoin(url, img) if img else ""
+    except Exception:
+        recipe["image_url"] = ""
+
+    try:
+        ingredients = scraper.ingredients() or []
+        if isinstance(ingredients, str):
+            ingredients = [ingredients]
+        recipe["ingredients"] = [i.strip() for i in ingredients if i and i.strip()]
+    except Exception:
+        recipe["ingredients"] = []
+
+    try:
+        instructions = scraper.instructions_list()
+        if not instructions and hasattr(scraper, "instructions"):
+            raw_inst = scraper.instructions() or ""
+            instructions = [s.strip() for s in raw_inst.split("\n") if s.strip()]
+        recipe["instructions"] = [s.strip() for s in instructions if s and s.strip()]
+    except Exception:
+        recipe["instructions"] = []
+
+    try:
+        cat = scraper.category()
+        if isinstance(cat, list) and cat:
+            cat = cat[0]
+        recipe["category"] = str(cat or "")
+    except Exception:
+        recipe["category"] = ""
+
+    if not recipe.get("ingredients"):
+        return None
+
+    return recipe
+
+def parse_json_ld_recipe_data(recipe_json, source_url):
+    if not recipe_json:
+        return None
+    recipe_data = {}
+    recipe_data["name"] = recipe_json.get("name") or "Unknown Recipe"
+
+    yield_val = recipe_json.get("recipeYield")
+    if isinstance(yield_val, list) and yield_val:
+        yield_val = yield_val[0]
+    servings = ""
+    if yield_val:
+        m = re.search(r'\d+', str(yield_val))
+        if m:
+            servings = m.group(0)
+        else:
+            servings = str(yield_val)
+    recipe_data["servings"] = servings
+
+    recipe_data["prep_time"] = parse_iso_duration(recipe_json.get("prepTime"))
+    recipe_data["cook_time"] = parse_iso_duration(recipe_json.get("cookTime"))
+    recipe_data["total_time"] = parse_iso_duration(recipe_json.get("totalTime"))
+
+    img_data = recipe_json.get("image")
+    image_url = ""
+    if isinstance(img_data, list) and img_data:
+        first_item = img_data[0]
+        if isinstance(first_item, dict):
+            image_url = first_item.get("url") or ""
+        else:
+            image_url = first_item
+    elif isinstance(img_data, dict):
+        image_url = img_data.get("url") or ""
+    elif isinstance(img_data, str):
+        image_url = img_data
+    if image_url:
+        recipe_data["image_url"] = urllib.parse.urljoin(source_url, image_url)
+    else:
+        recipe_data["image_url"] = ""
+
+    recipe_data["ingredients"] = recipe_json.get("recipeIngredient") or []
+    recipe_data["instructions"] = parse_instructions(recipe_json.get("recipeInstructions"))
+
+    category_json = recipe_json.get("recipeCategory")
+    if isinstance(category_json, list) and category_json:
+        category_json = category_json[0]
+    recipe_data["category"] = str(category_json or "")
+    return recipe_data
+
+def scrape_recipe(html, source_url):
+    # 1. Try recipe-scrapers for supported domains
+    recipe_data = extract_recipe_scrapers(html, source_url, supported_only=True)
+    if recipe_data and recipe_data.get("ingredients"):
+        print("Successfully parsed recipe via recipe-scrapers.")
+        return recipe_data
+
+    # 2. Try JSON-LD Schema
+    recipe_json = extract_json_ld_recipe(html)
+    if recipe_json:
+        recipe_data = parse_json_ld_recipe_data(recipe_json, source_url)
+        if recipe_data and recipe_data.get("ingredients"):
+            print("Successfully parsed recipe via JSON-LD Schema.")
+            return recipe_data
+
+    # 3. Try Fallback WPRM BeautifulSoup
+    recipe_data = extract_wprm_recipe(html)
+    if recipe_data and recipe_data.get("ingredients"):
+        print("Successfully parsed recipe via WPRM BeautifulSoup fallback.")
+        return recipe_data
+
+    # 4. Try recipe-scrapers wild mode
+    recipe_data = extract_recipe_scrapers(html, source_url, supported_only=False)
+    if recipe_data and recipe_data.get("ingredients"):
+        print("Successfully parsed recipe via recipe-scrapers (wild mode).")
+        return recipe_data
+
+    return None
+
 def download_image(url, output_path):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     req = urllib.request.Request(url, headers=headers)
@@ -475,57 +662,16 @@ def main():
     else:
         print(f"Fetching {args.url}...")
         html = fetch_html(args.url)
-        
-        # 1. Try JSON-LD Recipe
-        recipe_json = extract_json_ld_recipe(html)
-        if recipe_json:
-            recipe_data = {}
-            recipe_data["name"] = recipe_json.get("name") or "Unknown Recipe"
-            
-            yield_val = recipe_json.get("recipeYield")
-            if isinstance(yield_val, list) and yield_val:
-                yield_val = yield_val[0]
-            servings = ""
-            if yield_val:
-                m = re.search(r'\d+', str(yield_val))
-                if m:
-                    servings = m.group(0)
-            recipe_data["servings"] = servings
-            
-            recipe_data["prep_time"] = parse_iso_duration(recipe_json.get("prepTime"))
-            recipe_data["cook_time"] = parse_iso_duration(recipe_json.get("cookTime"))
-            recipe_data["total_time"] = parse_iso_duration(recipe_json.get("totalTime"))
-            
-            img_data = recipe_json.get("image")
-            image_url = ""
-            if isinstance(img_data, list) and img_data:
-                first_item = img_data[0]
-                if isinstance(first_item, dict):
-                    image_url = first_item.get("url") or ""
-                else:
-                    image_url = first_item
-            elif isinstance(img_data, dict):
-                image_url = img_data.get("url") or ""
-            elif isinstance(img_data, str):
-                image_url = img_data
-            if image_url:
-                recipe_data["image_url"] = urllib.parse.urljoin(source_url, image_url)
-            else:
-                recipe_data["image_url"] = ""
-                
-            recipe_data["ingredients"] = recipe_json.get("recipeIngredient") or []
-            recipe_data["instructions"] = parse_instructions(recipe_json.get("recipeInstructions"))
-            
-            category_json = recipe_json.get("recipeCategory")
-            if isinstance(category_json, list) and category_json:
-                category_json = category_json[0]
-            recipe_data["category"] = str(category_json or "")
-            print("Successfully parsed recipe via JSON-LD Schema.")
-            
-        if not recipe_data or not recipe_data.get("ingredients"):
-            # 2. Try Fallback WPRM BeautifulSoup
-            print("JSON-LD parse did not return a valid recipe. Trying WPRM BeautifulSoup fallback...")
-            recipe_data = extract_wprm_recipe(html)
+        recipe_data = scrape_recipe(html, source_url)
+
+        # Fallback to browserless if recipe was not parsed and browserless was not used initially
+        browserless_env = os.environ.get("BROWSERLESS_URL", "http://localhost:3000")
+        is_protected_site = any(domain in args.url for domain in ["allrecipes.com", "nytimes.com", "cooking.nytimes.com"])
+        if (not recipe_data or not recipe_data.get("ingredients")) and args.url.startswith("http") and browserless_env and not is_protected_site:
+            print("No recipe parsed from direct fetch. Retrying via Browserless...", file=sys.stderr)
+            bl_html = fetch_via_browserless(args.url, browserless_env)
+            if bl_html and bl_html != html:
+                recipe_data = scrape_recipe(bl_html, source_url)
         
     if not recipe_data or not recipe_data.get("ingredients"):
         print("Error: Could not parse recipe from the webpage.")

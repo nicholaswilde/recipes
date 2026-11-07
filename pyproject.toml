@@ -5,10 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "zensical>=0.1.0",
-    "pyyaml>=6.0.1",
-    "pillow>=13.0.0",
-    "beautifulsoup4>=4.12.0",
-    "pytest>=8.0.0",
-    "youtube-transcript-api>=1.2.4",
+  "zensical>=0.1.0",
+  "pyyaml>=6.0.1",
+  "pillow>=13.0.0",
+  "beautifulsoup4>=4.12.0",
+  "pytest>=8.0.0",
+  "youtube-transcript-api>=1.2.4",
+  "recipe-scrapers>=15.13.0",
 ]

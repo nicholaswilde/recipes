@@ -134,5 +134,141 @@ class TestScrapeToCook(unittest.TestCase):
         self.assertEqual(recipe["ingredients"], ["1 cup oats"])
         self.assertEqual(recipe["instructions"], ["Bake cookies."])
 
+    def test_format_minutes_to_duration(self):
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(15), "15 minutes")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(60), "1 hour")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(90), "1 hour 30 minutes")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(120), "2 hours")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(125), "2 hours 5 minutes")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(0), "")
+        self.assertEqual(scrape_to_cook.format_minutes_to_duration(None), "")
+
+    def test_extract_recipe_scrapers_supported(self):
+        html = """
+        <html>
+        <head>
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Recipe",
+            "name": "Triple Chocolate Cake",
+            "recipeYield": "12 servings",
+            "prepTime": "PT30M",
+            "cookTime": "PT35M",
+            "totalTime": "PT1H5M",
+            "recipeIngredient": [
+              "2 cups sugar",
+              "1 3/4 cups all-purpose flour",
+              "3/4 cup cocoa powder"
+            ],
+            "recipeInstructions": [
+              {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350F."
+              },
+              {
+                "@type": "HowToStep",
+                "text": "Mix dry ingredients."
+              }
+            ],
+            "recipeCategory": "Cake",
+            "image": "https://sallysbakingaddiction.com/wp-content/uploads/cake.jpg"
+          }
+          </script>
+        </head>
+        <body></body>
+        </html>
+        """
+        url = "https://sallysbakingaddiction.com/triple-chocolate-cake/"
+        recipe = scrape_to_cook.extract_recipe_scrapers(html, url, supported_only=True)
+        self.assertIsNotNone(recipe)
+        self.assertEqual(recipe["name"], "Triple Chocolate Cake")
+        self.assertEqual(recipe["servings"], "12")
+        self.assertEqual(recipe["prep_time"], "30 minutes")
+        self.assertEqual(recipe["cook_time"], "35 minutes")
+        self.assertEqual(recipe["total_time"], "1 hour 5 minutes")
+        self.assertEqual(recipe["image_url"], "https://sallysbakingaddiction.com/wp-content/uploads/cake.jpg")
+        self.assertEqual(
+            recipe["ingredients"],
+            ["2 cups sugar", "1 3/4 cups all-purpose flour", "3/4 cup cocoa powder"]
+        )
+        self.assertEqual(
+            recipe["instructions"],
+            ["Preheat oven to 350F.", "Mix dry ingredients."]
+        )
+        self.assertEqual(recipe["category"], "Cake")
+
+    def test_extract_recipe_scrapers_unsupported(self):
+        html = "<html><body><h1>Recipe</h1></body></html>"
+        url = "https://unsupported-site-12345.org/recipe"
+        recipe = scrape_to_cook.extract_recipe_scrapers(html, url, supported_only=True)
+        self.assertIsNone(recipe)
+
+    def test_scrape_recipe_priority(self):
+        # 1. Supported site should parse via recipe-scrapers
+        sally_html = """
+        <html>
+        <head>
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Recipe",
+            "name": "Sally Cake",
+            "recipeIngredient": ["1 cup flour"],
+            "recipeInstructions": [{"@type": "HowToStep", "text": "Bake cake."}]
+          }
+          </script>
+        </head>
+        <body></body>
+        </html>
+        """
+        sally_url = "https://sallysbakingaddiction.com/sally-cake/"
+        res_sally = scrape_to_cook.scrape_recipe(sally_html, sally_url)
+        self.assertIsNotNone(res_sally)
+        self.assertEqual(res_sally["name"], "Sally Cake")
+        self.assertEqual(res_sally["ingredients"], ["1 cup flour"])
+
+        # 2. Unsupported site with JSON-LD should fallback to JSON-LD
+        generic_json_html = """
+        <html>
+        <head>
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Recipe",
+            "name": "Generic JSON Recipe",
+            "recipeIngredient": ["1 cup rice"],
+            "recipeInstructions": [{"@type": "HowToStep", "text": "Boil rice."}]
+          }
+          </script>
+        </head>
+        <body></body>
+        </html>
+        """
+        unsupported_url = "https://my-obscure-blog.net/recipe"
+        res_json = scrape_to_cook.scrape_recipe(generic_json_html, unsupported_url)
+        self.assertIsNotNone(res_json)
+        self.assertEqual(res_json["name"], "Generic JSON Recipe")
+        self.assertEqual(res_json["ingredients"], ["1 cup rice"])
+
+        # 3. Unsupported site with WPRM should fallback to WPRM
+        generic_wprm_html = """
+        <div class="wprm-recipe-container">
+          <span class="wprm-recipe-name">WPRM Fallback Recipe</span>
+          <div class="wprm-recipe-ingredient">
+            <span class="wprm-recipe-ingredient-amount">2</span>
+            <span class="wprm-recipe-ingredient-unit">tbsp</span>
+            <span class="wprm-recipe-ingredient-name">olive oil</span>
+          </div>
+          <div class="wprm-recipe-instruction">
+            <div class="wprm-recipe-instruction-text">Heat oil in pan.</div>
+          </div>
+        </div>
+        """
+        res_wprm = scrape_to_cook.scrape_recipe(generic_wprm_html, unsupported_url)
+        self.assertIsNotNone(res_wprm)
+        self.assertEqual(res_wprm["name"], "WPRM Fallback Recipe")
+        self.assertEqual(res_wprm["ingredients"], ["2 tbsp olive oil"])
+
 if __name__ == "__main__":
     unittest.main()
