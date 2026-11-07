@@ -13,6 +13,15 @@ settings.json
 .serena/
 .rtk/*
 !.rtk/filters.toml
+# Ignore subagent workspaces and outputs
+.agents/*
+!.agents/skills/
+!.agents/rules/
+!.agents/skills_catalog.md
+!.agents/AGENTS.md
+!.agents/author_whitelist.txt
+!.agents/duplicate_ignore.txt
+!.agents/mcp_config.json.enc
 .clinerules/
 .cursor/
 .windsurf/

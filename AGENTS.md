@@ -6,7 +6,13 @@
 - **GitHub CLI**: Prefix `gh` commands with `rtk` and pipe to `cat` (e.g., `rtk gh issue list | cat`, `rtk gh pr status | cat`). Always pipe to bypass interactive pagers.
 - **File & Directory Inspection**: Use `rtk ls`, `rtk tree`, `rtk find`, or `rtk read` when listing or reading files to get token-optimized output.
 - **Searching**: Use `rtk rg` or `rg` (ripgrep) for line search pattern matching to save tokens.
+- **Spellchecking**: Run `rtk typos --format brief`; `--format brief` strips visual code context blocks to conserve tokens.
+- **Link Checking**: Run `rtk lychee --no-progress [optional: --offline] <target>`; always pass `--no-progress` to suppress terminal escape sequences, and `--offline` when validating local file links.
+- **TOML Operations**: Prefix `taplo` commands with `rtk` (e.g., `rtk taplo fmt`, `rtk taplo lint`, `rtk taplo check`).
+- **Markdown Operations**: Prefix `rumdl` commands with `rtk` (e.g., `rtk rumdl check .`, `rtk rumdl fmt .`).
+- **Ripwire Operations**: Prefix `ripwire` commands with `rtk` (e.g., `rtk ripwire <dir> [flags]`). Always invoke via CLI, never register or use MCP.
 - **Build & Test Outputs**: Use `rtk err` or `rtk test` when running build/test commands to filter output to errors/failures only (e.g., `rtk test task lint`).
+- **Python & UV Operations**: Prefix Python scripts and commands with `uv run`, and prefix `uv` commands with `rtk` (e.g., `rtk uv run <script.py>`, `rtk uv run <command>`, `rtk uv add`, `rtk uv sync`). Never run bare `python` or bare `uv`.
 - **Exceptions**: Inside `ctx_execute` / `ctx_batch_execute` sandbox code, skip `rtk` (only printed output enters context). Drop `rtk` when exact raw bytes or patch required (`git diff` patch).
 <!-- rtk-end -->
 
@@ -92,6 +98,21 @@ Use Headroom (`headroom`) MCP tools to manage context window consumption on larg
 - `headroom_retrieve`: Retrieve original content by hash if specific details needed.
 - `headroom_stats`: Monitor headroom cache usage.
 <!-- headroom-end -->
+
+<!-- ripwire-begin -->
+## Ripwire CLI Guidelines
+
+Use `ripwire` CLI (prefixed with `rtk ripwire`) for AST codebase mapping, call graphs, blast radius, and structural queries:
+
+- **CLI First**: Always invoke `rtk ripwire <dir> [flags]` via CLI; do NOT use MCP server.
+- **Task Orientation**: `rtk ripwire <dir> --for="<task>"` for ranked signatures and bodies.
+- **Task Bundle**: `rtk ripwire <dir> --pack-task="<task>" --legend=compact`.
+- **Stack Trace / Error**: `rtk ripwire <dir> --from-trace=FILE --legend=compact` (`-` for stdin).
+- **Call Graph**: `rtk ripwire <dir> --callers=SYM`, `--callees=SYM`, `--uses=SYM`.
+- **Blast Radius**: `rtk ripwire <dir> --impact=SYM --legend=compact` before changing shared code.
+- **Quality Delta & Gate**: `rtk ripwire <dir> --quality-delta --legend=compact` and `--test-gate --legend=compact`.
+- **Atomic Edits**: `rtk ripwire <dir> --replace-symbol-body=SYM --edit-payload=FILE` without whole-file re-reading.
+<!-- ripwire-end -->
 
 <!-- ripgrep-guidelines-begin -->
 ## Ripgrep Guidelines
