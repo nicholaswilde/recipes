@@ -4,6 +4,7 @@ tags:
   - side
   - salad
   - applied-kitchen
+  - favorite
 hero: assets/images/dense-bean-salad.webp
 ---
 
