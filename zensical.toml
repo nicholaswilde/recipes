@@ -620,6 +620,7 @@ Ingredients = [
     { "Swiss Meringue" = "ingredients/meringue/swiss-meringue.md" },
   ] },
   { "Pastry Dough" = [
+    { "All-Butter Pie Crust" = "ingredients/pastry-dough/all-butter-pie-crust.md" },
     { "Basic Pastry" = "ingredients/pastry-dough/basic-pastry.md" },
     { "Chocolate Biscuit" = "ingredients/pastry-dough/chocolate-biscuit.md" },
     { "Danish Pastry" = "ingredients/pastry-dough/danish-pastry.md" },
