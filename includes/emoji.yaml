@@ -108,6 +108,7 @@ emoji:
         - microwave
         - blender or food processor
     - knife:
+        - cake leveler
         - box grater
         - kitchen shears
         - sharp knife
@@ -198,6 +199,7 @@ emoji:
         - fine-mesh strainer
         - wire rack
     - wood:
+        - cake board
         - cutting board
         - board
         - rolling pin
@@ -659,6 +661,7 @@ emoji:
         - corn flour
         - mixed nuts
     - chocolate_bar:
+        - white chocolate
         - ghirardelli brownie mix
         - chocolate chips
         - unsweetened cocoa powder ((25g))
@@ -690,6 +693,8 @@ emoji:
         - espresso powder
         - hot strong coffee
     - cookie:
+        - Biscoff cookies
+        - Biscoff spread
         - vanilla wafers
         - low-fat cinnamon grahams
     - corn:

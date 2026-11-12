@@ -364,6 +364,7 @@ Desserts = [
   { "Banoffee Pie" = "desserts/pie/banoffee-pie.md" },
   { "Beatty's Chocolate Cake" = "desserts/beatty's-chocolate-cake.md" },
   { "Beccherie Tiramisù" = "desserts/cake/beccherie-tiramisù.md" },
+  { "Biscoff Cake" = "desserts/cake/biscoff-cake.md" },
   { "Blackberry Wine Cake" = "desserts/cake/blackberry-wine-cake.md" },
   { "Blueberry Pie" = "desserts/pie/blueberry-pie.md" },
   { "Bordeaux" = "desserts/bordeaux.md" },
