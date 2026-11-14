@@ -4,9 +4,11 @@ Catalog of custom Antigravity agent skills available in `recipes`.
 
 | Skill | Description | Task / Command |
 |---|---|---|
+| [`add-ingredient-weight`](skills/add-ingredient-weight/SKILL.md) | Add a volume-to-weight conversion entry for an ingredient to docs/reference/measuring.md in sorted order and verify table integrity | `/add-ingredient-weight` |
 | [`add-recipe-size`](skills/add-recipe-size/SKILL.md) | Automate adding additional serving or batch sizes to a recipe file by creating a new Zensical tab | `/add-recipe-size` |
 | [`adjust-recipe-metadata`](skills/adjust-recipe-metadata/SKILL.md) | Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files | `/adjust-recipe-metadata` |
 | [`backfill-missing-sources`](skills/backfill-missing-sources/SKILL.md) | Audit recipes for missing Source sections, investigate origins via git history, issues, or external references, format standard source headings and links, and validate the site | `uv run scripts/audit_missing_sources.py` |
+| [`check-ingredient-weight`](skills/check-ingredient-weight/SKILL.md) | Look up and calculate the weight in grams of an ingredient for a given volume (defaulting to 1 cup or table reference volume) using docs/reference/measuring.md | `/check-ingredient-weight` |
 | [`create-issue`](skills/create-issue/SKILL.md) | Create a new GitHub issue using gh CLI with structured titles and appropriate labels | `/create-issue <title> [description]` |
 | [`dedupe-zensical`](skills/dedupe-zensical/SKILL.md) | Remove duplicate array entries in the zensical.toml configuration file | `/dedupe-zensical` |
 | [`find-duplicate-issues`](skills/find-duplicate-issues/SKILL.md) | Scan GitHub issues and local recipe repositories to detect duplicate issues, cross-issue duplicates, and already-imported recipes | `uv run scripts/find_duplicate_issues.py` / `/find-duplicate-issues` |
