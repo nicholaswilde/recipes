@@ -83,7 +83,7 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 ## :calendar: Baking Schedule
 
 ``` mermaid
-timeline
+timeline TD
     9#58;00 a.m. : Mix
     9#58;15 a.m. : Bulk Fermentation
     10#58;45 a.m. : Divide
