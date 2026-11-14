@@ -82,31 +82,16 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 
 ## :calendar: Baking Schedule
 
-#### :fontawesome-brands-mixer: Mix
-9:00 a.m.
-
-#### :microbe: Bulk Fermentation
-9:15 a.m.
-
-- title: "Divide"
-  icon: ":fontawesome-solid-divide:"
-  sub_title: 10:45 a.m.
-
-- title: "Shape"
-  icon: ":fontawesome-solid-shapes:"
-  sub_title: 11:00 a.m.
-
-- title: Proof
-  icon: ":fontawesome-solid-bowl-rice:"
-  sub_title: 11:15 a.m.
-
-- title: Bake
-  sub_title: 12:15 p.m.
-  icon: ":fontawesome-solid-fire-burner:"
-
-- title: Rest
-  sub_title: 12:45 p.m.
-  icon: ":fontawesome-solid-bed:"
+``` mermaid
+timeline
+    9#58;00 a.m. : Mix
+    9#58;15 a.m. : Bulk Fermentation
+    10#58;45 a.m. : Divide
+    11#58;00 a.m. : Shape
+    11#58;15 a.m. : Proof
+    12#58;15 p.m. : Bake
+    12#58;45 p.m. : Rest
+```
 
 ## :pencil: Instructions
 
