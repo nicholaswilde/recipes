@@ -186,6 +186,7 @@ This project is a personal recipe collection managed as a documentation site usi
 - **Sources:** All recipes must include a `## :link: Source` section at the end of the Markdown file. If a "Pancake Princess" bake-off link is provided in the source issue, include it as an additional reference.
 - **Dietary Restrictions & Selection:** Recipes must be lacto-ovo vegetarian (no meat, poultry, fish, or seafood; dairy and eggs allowed). Rank candidates using a Bayesian average rating formula ([scripts/rank_recipes_bayesian.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/rank_recipes_bayesian.py)).
 - **Reference Charts:** Use the Grid Cards layout (`<div class="grid cards" markdown>`) with horizontal rules (`---`) separating card titles from content.
+- **Baking & Preparation Schedules:** Use Mermaid diagrams (e.g. ```` ``` mermaid \n timeline \n ... \n ``` ````) for schedules. Do NOT use `::timeline::` syntax (`neoteroi.timeline`); Zensical lacks support. In Mermaid timelines, escape colons in timestamps using `#58;` (e.g. `9#58;00 a.m. : Mix`) to avoid delimiter collision.
 - **Navigation Safety:** Any removal of entries from [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) must be confirmed by the user.
 
 ## Cooklang Authoring Guidelines

@@ -94,4 +94,5 @@
 - Before tagging an item as an ingredient (with `@`) in a `.cook` file, check [cook/config/ignored_ingredients.yaml](file:///home/nicholas/git/nicholaswilde/recipes/cook/config/ignored_ingredients.yaml). If listed there, do not tag it as an ingredient.
 - If a "Pancake Princess" bake-off link is provided in a source issue, always include that link as an additional reference in the `## :link: Source` section.
 - Any removal of entries from [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) must be confirmed by the user.
+- When formatting baking or preparation schedules in recipes, use Mermaid diagrams (such as ```` ``` mermaid \n timeline \n ... \n ``` ````) instead of `::timeline::` tags; Zensical does not support `neoteroi.timeline`. Escape colons in timeline timestamps using `#58;` (e.g. `9#58;00 a.m. : Mix`).
 
