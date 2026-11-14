@@ -83,14 +83,16 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 ## :calendar: Baking Schedule
 
 ``` mermaid
-timeline TD
-    9#58;00 a.m. : Mix
-    9#58;15 a.m. : Bulk Fermentation
-    10#58;45 a.m. : Divide
-    11#58;00 a.m. : Shape
-    11#58;15 a.m. : Proof
-    12#58;15 p.m. : Bake
-    12#58;45 p.m. : Rest
+flowchart TD
+    A["🥣 Mix<br/>9:00 a.m."] --> B["🦠 Bulk Fermentation<br/>9:15 a.m."]
+    B --> C["🔪 Divide<br/>10:45 a.m."]
+    C --> D["🍞 Shape<br/>11:00 a.m."]
+    D --> E["⏳ Proof<br/>11:15 a.m."]
+    E --> F["🔥 Bake<br/>12:15 p.m."]
+    F --> G["🛏️ Rest<br/>12:45 p.m."]
+
+    classDef step fill:#4051b5,stroke:#303fa1,color:#ffffff
+    class A,B,C,D,E,F,G step
 ```
 
 ## :pencil: Instructions

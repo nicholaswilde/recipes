@@ -144,6 +144,7 @@ NEVER commit or stage sensitive personal, financial, or security data to reposit
 This project is a personal recipe collection managed as a documentation site using [Zensical](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) ([MkDocs](file:///home/nicholas/git/nicholaswilde/recipes/mkdocs.yml)). Recipes are authored in [Cooklang](https://cooklang.org/docs/spec/) format (`.cook`), converted to Markdown (`.md`), and served by Zensical. The site is deployed to GitHub Pages via automated CI/CD workflows.
 
 - **Static Site Generator:** Zensical / MkDocs with custom CSS/JS and MathJax support.
+- **Design System:** [.agents/design.md](file:///home/nicholas/git/nicholaswilde/recipes/.agents/design.md) (Zensical Material `indigo` palette, typography, spacing, and component tokens).
 - **Recipe Source:** Cooklang (`cook/**/*.cook`) organized by category subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`).
 - **Intermediate Docs:** Markdown (`docs/**/*.md`) served by Zensical.
 - **Automation & Tools:** Taskfile ([Taskfile.yml](file:///home/nicholas/git/nicholaswilde/recipes/Taskfile.yml)), GitHub Actions ([ci.yaml](file:///home/nicholas/git/nicholaswilde/recipes/.github/workflows/ci.yaml)), Docker, `uv` / `pip` for Python dependency management, `cwebp` for WebP conversion, `oxipng` for PNG optimization.

@@ -19,6 +19,7 @@ settings.json
 !.agents/rules/
 !.agents/skills_catalog.md
 !.agents/AGENTS.md
+!.agents/design.md
 !.agents/author_whitelist.txt
 !.agents/duplicate_ignore.txt
 !.agents/mcp_config.json.enc
