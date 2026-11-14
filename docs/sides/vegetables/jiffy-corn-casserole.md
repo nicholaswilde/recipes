@@ -23,8 +23,8 @@ hero: assets/images/jiffy-corn-casserole.webp
 - :glass_of_milk: 2 cups (454 g) sour cream
 - :egg: 4 eggs
 - :chestnut: 2 boxes Jiffy corn muffin mix
-- :salt: some salt
-- :salt: some pepper
+- :salt: 2 tsp salt
+- :salt: 3/4 tsp pepper
 
 ## :cooking: Cookware
 
@@ -48,7 +48,7 @@ In a separate bowl, beat eggs and stir into corn and sour cream. Add Jiffy corn 
 
 ### Step 4
 
-Season with salt and pepper to taste.
+Season with 2 tsp salt and 3/4 tsp pepper.
 
 !!! tip
 
