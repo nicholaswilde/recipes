@@ -17,9 +17,9 @@ hero: assets/images/cheesy-potatoes.webp
 ## :salt: Ingredients
 
 - :apple: 6 medium potatoes (peeled, boiled, refrigerated, shredded)
-- :cheese_wedge: 2 cups (454 g) shredded cheese
+- :cheese_wedge: 2 cups (226 g) shredded cheese
 - :butter: 0.25 cup butter
-- :tea: 0.33 cup (32 g) chopped green onion
+- :tea: 0.33 cup (33 g) chopped green onion
 - :salt: 1 tsp salt
 - :salt: 0.25 tsp pepper
 - :glass_of_milk: 2 cups (454 g) sour cream

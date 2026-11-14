@@ -266,6 +266,7 @@ $$
 | Granola | 1 cup | 113 | 4 |
 | Grape Nuts | 1/2 cup | 57 | 2 |
 | Grape-Nuts | 1/2 cup | 57 | 2 |
+| Green onions (chopped) | 1 cup | 100 | 3-1/2 |
 | Ground Coriander | 1 tsp | 2 | - |
 | Ground Cumin | 1 tsp | 3 | - |
 | Ground Turmeric | 1 tsp | 3 | - |
