@@ -1,3 +1,4 @@
+---
 emoji:
   cookware:
     - bowl_with_spoon:
@@ -208,6 +209,7 @@ emoji:
         - patterned rolling pin
   ingredients:
     - apple:
+        - seedless raspberry jam
         - honey or maple syrup
         - agave syrup
         - coriander
@@ -1162,6 +1164,7 @@ emoji:
     - potato:
         - potato bread
         - potato flour
+        # yamllint disable-line rule:truthy
         - russet potatoes, peeled and sliced 1/8-inch thick on a mandoline
         - russet potatoes, peeled and cut into 1- to 2-inch cubes
         - russet potatoes
@@ -1241,7 +1244,7 @@ emoji:
     - spaghetti:
         - pasta
         - dried lasagna noodles (broken into bite-size pieces)
-        - no boil lasagna noodles
+        - "no boil lasagna noodles"
         - lasagna noodles
         - rotini pasta
     - star:
