@@ -82,15 +82,11 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 
 ## :calendar: Baking Schedule
 
-::timeline::
+#### :fontawesome-brands-mixer: Mix
+9:00 a.m.
 
-- title: Mix
-  icon: ":fontawesome-brands-mixer:"
-  sub_title: 9:00 a.m.
-
-- title: Bulk Fermentation
-  icon: ":microbe:"
-  sub_title: 9:15 a.m.
+#### :microbe: Bulk Fermentation
+9:15 a.m.
 
 - title: "Divide"
   icon: ":fontawesome-solid-divide:"
@@ -111,8 +107,6 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 - title: Rest
   sub_title: 12:45 p.m.
   icon: ":fontawesome-solid-bed:"
-
-::/timeline::
 
 ## :pencil: Instructions
 
