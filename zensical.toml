@@ -114,6 +114,7 @@ Breads = [
   { "Sandwich Rye Bread" = "breads/sandwich-rye-bread.md" },
   { "Savory Star Bread" = "breads/savory-star-bread.md" },
   { "Skillet Flatbread" = "breads/skillet-flatbread.md" },
+  { "Soft Sourdough Sandwich Bread" = "breads/soft-sourdough-sandwich-bread.md" },
   { "Sourdough Crackers" = "breads/sourdough-crackers.md" },
   { "Sourdough Crumpets" = "breads/sourdough-crumpets.md" },
   { "Sourdough Discard Pizza Crust" = "breads/sourdough-discard-pizza-crust.md" },
