@@ -23,7 +23,7 @@ hero: assets/images/vegan-salisbury-steak.webp
 - :bread: 0.5 cup [seasoned breadcrumbs][4]
 - :glass_of_milk: 2 Tbsp (7 g) oat or unsweetened almond milk
 - :onion: 1 pkg [onion soup mix][2]
-- :apple: 2 tsp (9 g) vegan Worcestershire sauce
+- :apple: 2 tsp (9 g) [Vegetarian Worcestershire Sauce][5]
 - :salt: 0.25 tsp (1 g) black pepper
 - :sweet_potato: 1 mashed potatoes
 - :mushroom: 1 [mushroom gravy][3]
@@ -42,7 +42,8 @@ Prepare the vegan egg replacer according to package directions. Set aside.
 ### Step 2
 
 Into a large mixing bowl, add vegan ground beef, [seasoned breadcrumbs][4], egg replacer mixture, oat or unsweetened
-almond milk, and 1/2 package [onion soup mix][2], vegan Worcestershire sauce, and black pepper. Use your hands to mix
+almond milk, and 1/2 package [onion soup mix][2],
+[Vegetarian Worcestershire Sauce][5] , and black pepper. Use your hands to mix
 well, until all ingredients are fully incorporated, then form into 5 patties.
 
 ### Step 3
@@ -62,3 +63,4 @@ Place on a bed of mashed potatoes and top with [mushroom gravy][3].
 [2]: <../ingredients/onion-soup-mix.md>
 [3]: <../sauces-and-dressings/gravy-and-savory-sauces/mushroom-gravy.md>
 [4]: <../ingredients/breadcrumbs.md>
+[5]: <../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

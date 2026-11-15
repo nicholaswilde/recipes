@@ -25,7 +25,7 @@ hero: assets/images/special-sauce-for-burgers.webp
 - :hot_pepper: 0.5 tsp Hungarian paprika
 - :chestnut: 0.5 tsp (1 g) coriander
 - :apple: 1 tsp (6 g) apple cider vinegar
-- :apple: 0.5 tsp (2 g) Worcestershire sauce
+- :apple: 0.5 tsp (2 g) [Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md)
 
 ## :cooking: Cookware
 
@@ -37,7 +37,7 @@ hero: assets/images/special-sauce-for-burgers.webp
 ### Step 1
 
 Combine [mayonnaise][1], ketchup, yellow mustard, sweet pickle relish, white pepper, garlic powder, Hungarian paprika,
-coriander, apple cider vinegar, and Worcestershire sauce in a mixing bowl and whisk together.
+coriander, apple cider vinegar, and [Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md) in a mixing bowl and whisk together.
 
 ### Step 2
 

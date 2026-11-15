@@ -20,7 +20,7 @@ hero: assets/images/a-very-popular-bbq-sauce.webp
 - :tomato: 1.5 cup [ketchup][2]
 - :wine_glass: 0.5 cup (105 g) red wine vinegar
 - :droplet: 0.5 cup (114 g) water
-- :apple: 1 Tbsp (14 g) Worcestershire sauce
+- :apple: 1 Tbsp (14 g) [Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md)
 - :takeout_box: 2.5 Tbsp [mustard][3]
 - :candy: 2 tsp paprika
 - :salt: 2 tsp salt
@@ -35,7 +35,7 @@ hero: assets/images/a-very-popular-bbq-sauce.webp
 
 ### Step 1
 
-Combine [brown sugar][1], [ketchup][2], red wine vinegar, water, and Worcestershire sauce in a blender.
+Combine [brown sugar][1], [ketchup][2], red wine vinegar, water, and [Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md) in a blender.
 
 ### Step 2
 

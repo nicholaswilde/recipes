@@ -25,7 +25,7 @@ hero: assets/images/branston-pickle-copycat.webp
 - :candy: 1 cup (213 g) dark brown sugar
 - :wine_glass: 1 cup malt vinegar
 - :wine_glass: 0.25 cup spirit vinegar or Essig Essenz
-- :apple: 1 Tbsp (14 g) Worcestershire sauce
+- :apple: 1 Tbsp (14 g) [Vegetarian Worcestershire Sauce][1]
 - :tomato: 2 tsp (10 g) concentrated tomato paste
 - :hot_pepper: 1 tsp (4 g) black treacle or molasses
 - :salt: 1.5 tsp kosher or sea salt
@@ -63,7 +63,8 @@ a blender and puree until smooth.
 ### Step 3
 
 Add the apple/date puree to the pot along with dark brown sugar (not packed), malt vinegar, spirit vinegar or Essig
-Essenz (or see blog post "Ingredients" for explanation), Worcestershire sauce (vegans/vegetarians: substitute soy
+Essenz (or see blog post "Ingredients" for explanation),
+[Vegetarian Worcestershire Sauce][1] (vegans/vegetarians: substitute soy
 sauce), concentrated tomato paste, black treacle or molasses, kosher or sea salt, onion powder, garlic powder, ground
 mustard, ground coriander, ground allspice, ground ginger, and ground cloves.
 
@@ -97,3 +98,5 @@ so you can conveniently take out what you need. It will freeze for up to 4 month
 ## :link: Source
 
 - <https://www.daringgourmet.com/homemade-branston-pickle-recipe/>
+
+[1]: <vegetarian-worcestershire-sauce.md>

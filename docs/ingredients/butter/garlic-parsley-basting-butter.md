@@ -18,7 +18,7 @@ hero: assets/images/garlic-parsley-basting-butter.webp
 ## :salt: Ingredients
 
 - :butter: 4 Tbsp (56 g) unsalted butter
-- :apple: 1 Tbsp Worcestershire
+- :apple: 1 Tbsp [Vegetarian Worcestershire Sauce][1]
 - :herb: 1 Tbsp parsley
 - :garlic: 1 tsp garlic
 - :salt: 0.5 tsp pepper
@@ -31,10 +31,13 @@ hero: assets/images/garlic-parsley-basting-butter.webp
 
 ### Step 1
 
-Melt unsalted butter in small saucepan over medium heat. Add Worcestershire, parsley, minced garlic, and pepper and
+Melt unsalted butter in small saucepan over medium heat. Add
+[Vegetarian Worcestershire Sauce][1] , parsley, minced garlic, and pepper and
 cook, stirring frequently, until mixture is simmering and fragrant, 1 to 2 minutes. Remove from heat. Cover to keep warm
 until ready to use.
 
 ## :link: Source
 
 - Cook's Illustrated
+
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

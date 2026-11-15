@@ -21,7 +21,7 @@ hero: assets/images/brussels-sprout-melts.webp
 - :seedling: 2 large yellow onions
 - :leafy_green: 8 oz Brussels sprouts
 - :cheese_wedge: 8 oz (113 g) Swiss cheese
-- :apple: 1 tsp (5 g) Worcestershire sauce or balsamic vinegar
+- :apple: 1 tsp (5 g) [Vegetarian Worcestershire Sauce][2] or balsamic vinegar
 - :salt: 0.5 tsp kosher salt
 - :salt: 0.5 tsp (2 g) black pepper
 - :star: 8 slices rye bread
@@ -52,7 +52,8 @@ grate 8 ounces Swiss cheese on the large holes of a box grater (about 2 cups).
 
 ### Step 4
 
-When the onions are ready, add the Brussels sprouts, 1 teaspoon Worcestershire sauce or balsamic vinegar, 1/2 teaspoon
+When the onions are ready, add the Brussels sprouts, 1 teaspoon
+[Vegetarian Worcestershire Sauce][2] or balsamic vinegar, 1/2 teaspoon
 kosher salt, and 1/2 teaspoon black pepper to the pan. Cook, stirring often, until the Brussels sprouts are tender,
 lightly browned in spots, and wilt, 5 to 7 minutes. (If the bottom of the pan starts to burn, continue adding water 1
 tablespoon at a time as needed.)
@@ -84,3 +85,4 @@ half.
 - <https://www.thekitchn.com/brussel-sprouts-melts-recipe-23432384>
 
 [1]: <../sauces-and-dressings/dijon-mustard.md>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

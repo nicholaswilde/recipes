@@ -28,7 +28,7 @@ hero: assets/images/cheese-soufflé.webp
 - :cheese_wedge: 1 cup (113 g) Gruyère
 - :cheese_wedge: 1 cup (113 g) mature cheddar
 - :cheese_wedge: 0.75 cup (75 g) Parmesan
-- :sake: 1 Tbsp Worcestershire sauce
+- :sake: 1 Tbsp [Vegetarian Worcestershire Sauce][3]
 - :hotdog: 1 tsp mustard powder
 - :salt: some pepper
 - :lemon: 1 squeeze lemon juice
@@ -50,7 +50,8 @@ reduce to simmer for 5 minutes. Remove from heat, let cool. Taste test for flavo
 
 Strain the milk into a pan then press down on the onion to extract the maximum flavor. Place pan back on heat and
 gradually whisk in the butter paste, adding in small pieces until it thickens. Season then let cool 3 to 4 minutes.
-Whisk egg yolks with grated Gruyère and mature cheddar plus two thirds of the Parmesan. Add in the Worcestershire sauce
+Whisk egg yolks with grated Gruyère and mature cheddar plus two thirds of the Parmesan. Add in the
+[Vegetarian Worcestershire Sauce][3]
 and mustard powder. Bring to room temperature before continuing.
 
 ### Step 3
@@ -77,3 +78,4 @@ wobbly. Serve immediately.
 
 [1]: <../../ingredients/beurre-manié.md>
 [2]: <../../ingredients/onion-pique.md>
+[3]: <../../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

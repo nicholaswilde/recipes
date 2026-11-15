@@ -26,7 +26,7 @@ comments: true
 ## :salt: Ingredients
 
 - :tomato: 3 Tbsp ketchup
-- :takeout_box: 1 Tbsp (14 g) vegetarian Worcestershire sauce
+- :takeout_box: 1 Tbsp (14 g) [Vegetarian Worcestershire Sauce][2]
 - :wine_glass: 1 Tbsp (13 g) red wine vinegar
 - :takeout_box: 1 tsp (3 g) prepared mustard
 - :salt: 0.5 tsp (2 g) black pepper
@@ -45,7 +45,8 @@ Spray grill grates with nonstick spray; prepare grill for medium-hot fire.
 
 ### Step 2
 
-In a small bowl, combine ketchup, vegetarian Worcestershire sauce, red wine vinegar, prepared mustard, and black pepper.
+In a small bowl, combine ketchup,
+[Vegetarian Worcestershire Sauce][2] , red wine vinegar, prepared mustard, and black pepper.
 
 ### Step 3
 
@@ -61,3 +62,4 @@ Grill sweet potato slices, turning frequently and brushing with remaining ketchu
 - Recipe Box
 
 [1]: <../../assets/images/crispy-bbq-sweet-potatoes.webp>
+[2]: <../../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

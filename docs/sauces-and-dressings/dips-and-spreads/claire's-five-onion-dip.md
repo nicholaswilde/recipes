@@ -24,7 +24,7 @@ hero: assets/images/claire's-five-onion-dip.webp
 - :salt: 1 Tbsp salt
 - :glass_of_milk: 1 cup (227 g) sour cream
 - 2 Tbsp [mayonnaise][1]
-- :apple: 0.5 tsp (2 g) Worcestershire sauce
+- :apple: 0.5 tsp (2 g) [Vegetarian Worcestershire Sauce][2]
 - :salt: 0.25 tsp (1 g) white pepper
 
 ## :cooking: Cookware
@@ -49,7 +49,8 @@ the night before I want dip so they can cool completely in the fridge.)
 
 ### Step 3
 
-Mix the onions with sour cream, [mayonnaise][1], Worcestershire sauce, and white pepper, taste (with a chip), and
+Mix the onions with sour cream, [mayonnaise][1],
+[Vegetarian Worcestershire Sauce][2] , and white pepper, taste (with a chip), and
 adjust salt and pepper if needed. You can even add a pinch of MSG if you like, but this is one dip that frankly does
 not need it, as the mixture of onions is packed with tons of deep umami. Garnish with the thinly sliced portion of the
 green onion (or crunchy fried onions, or fried garlic) and consume with your favorite potato chip.
@@ -59,3 +60,4 @@ green onion (or crunchy fried onions, or fried garlic) and consume with your fav
 - <https://lifehacker.com/your-onion-dip-needs-at-least-five-onions-1849586590>
 
 [1]: <../../sauces-and-dressings/dips-and-spreads/mayonnaise.md>
+[2]: <../gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

@@ -26,7 +26,7 @@ hero: assets/images/peach-bbq-sauce.webp
 - :candy: 0.5 cup (114 g) light [brown sugar](../../ingredients/brown-sugar.md)
 - :takeout_box: 0.5 cup (170 g) cider vinegar
 - :droplet: 0.5 cup (114 g) water
-- :takeout_box: 2 Tbsp (28 g) Worcestershire sauce
+- :takeout_box: 2 Tbsp (28 g) [Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md)
 - :seedling: 2 Tbsp [Dijon mustard](../dijon-mustard.md)
 - :salt: 1 tsp salt
 - :salt: 2 tsp (7 g) freshly ground black pepper
@@ -54,7 +54,7 @@ sauté small onion diced until it’s soft, but not browned, 3 to 4 minutes.
 ### Step 3
 
 Stir in the peach puree, ketchup, light [brown sugar](../../ingredients/brown-sugar.md), cider vinegar, water,
-Worcestershire sauce, [Dijon mustard](../dijon-mustard.md), salt, freshly ground black pepper, ground thyme,
+[Vegetarian Worcestershire Sauce](vegetarian-worcestershire-sauce.md), [Dijon mustard](../dijon-mustard.md), salt, freshly ground black pepper, ground thyme,
 granulated garlic, and hot sauce. Lower heat to medium-low and simmer until slightly thickened, 15 to 20 minutes,
 stirring frequently.
 

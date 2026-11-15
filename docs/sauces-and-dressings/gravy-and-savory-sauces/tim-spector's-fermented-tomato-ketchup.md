@@ -16,7 +16,7 @@ hero: assets/images/tim-spector's-fermented-tomato-ketchup.webp
 ## :salt: Ingredients
 
 - :tomato: 200 g tomato purée
-- :takeout_box: 1 Tbsp Worcestershire sauce or soy sauce
+- :takeout_box: 1 Tbsp [Vegetarian Worcestershire Sauce][1] or soy sauce
 - :takeout_box: some [Vegetarian Fish Sauce](vegetarian-fish-sauce.md)
 - :honey_pot: 1 Tbsp runny honey
 - :apple: 1 Tbsp apple cider vinegar
@@ -39,7 +39,8 @@ hero: assets/images/tim-spector's-fermented-tomato-ketchup.webp
 
 ### Step 1
 
-In a bowl, combine tomato purée, Worcestershire sauce or soy sauce, a splash of [Vegetarian Fish Sauce](vegetarian-fish-sauce.md), runny honey (or
+In a bowl, combine tomato purée, [Vegetarian Worcestershire Sauce][1] or soy sauce, a splash of [Vegetarian Fish
+Sauce](vegetarian-fish-sauce.md), runny honey (or
 fermented garlic honey), apple cider vinegar, and sauerkraut brine (optional).
 
 ### Step 2
@@ -61,3 +62,5 @@ for up to 4 weeks.
 ## :link: Source
 
 - Tim Spector
+
+[1]: <vegetarian-worcestershire-sauce.md>

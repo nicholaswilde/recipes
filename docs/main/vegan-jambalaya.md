@@ -29,7 +29,7 @@ hero: assets/images/vegan-jambalaya.webp
 - :hot_pepper: 0.25 tsp cayenne pepper
 - :herb: 1 tsp (3 g) dried thyme
 - :hot_pepper: 14 oz (248 g) crushed tomatoes
-- :apple: 2 tsp (9 g) vegan Worcestershire sauce
+- :apple: 2 tsp (9 g) [Vegetarian Worcestershire Sauce][2]
 - :bread: 1.5 cups (297 g) long grain white rice
 - :droplet: 2.75 cups (624 g) water
 - :tangerine: 1 cup okra
@@ -62,7 +62,8 @@ Add minced garlic, another Cajun seasoning, salt (omit if your Cajun seasoning c
 
 ### Step 4
 
-Add crushed tomatoes (1 can), vegan Worcestershire sauce, uncooked long grain white rice, and water to the pot. Stir
+Add crushed tomatoes (1 can),
+[Vegetarian Worcestershire Sauce][2] , uncooked long grain white rice, and water to the pot. Stir
 well, bring to a boil, then lower the heat to a simmer (covered) and cook for 25 minutes to 30 minutes, until the rice
 is cooked. Stir every 5 minutes to make sure the rice doesn't burn and stick to the bottom of the pot. Add a little more
 water as needed if the mixture starts to dry out.
@@ -81,3 +82,4 @@ Serve sprinkled with chopped fresh parsley and green onions and enjoy!
 - <https://www.noracooks.com/vegan-jambalaya/>
 
 [1]: <../assets/images/vegan-jambalaya.webp>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

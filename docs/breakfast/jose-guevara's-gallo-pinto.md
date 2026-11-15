@@ -20,7 +20,7 @@ hero: assets/images/jose-guevara's-gallo-pinto.png
 - :onion: 0.5 chopped onion
 - :garlic: 1 clove garlic, minced
 - :ear_of_rice: 2 cups cooked rice (preferably day-old and refrigerated)
-- :takeout_box: 2 Tbsp Worcestershire sauce
+- :takeout_box: 2 Tbsp [Vegetarian Worcestershire Sauce][2]
 - :beans: 1 8-oz can cooked [black beans][1]
 - :hot_pepper: some Salsa Lizano (optional)
 - :herb: some cilantro
@@ -41,7 +41,9 @@ Add the rice and sauté for a few minutes, stirring frequently.
 
 ### Step 3
 
-Add Worcestershire sauce and cooked [black beans][1]; turn heat to low and stir. Cook for 2 to 3 minutes more.
+Add
+[Vegetarian Worcestershire Sauce][2]
+and cooked [black beans][1]; turn heat to low and stir. Cook for 2 to 3 minutes more.
 
 ### Step 4
 
@@ -52,3 +54,4 @@ Garnish with cilantro and serve with Lizano sauce if desired.
 - Blue Zones
 
 [1]: <../ingredients/black-beans.md>
+[2]: <../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>

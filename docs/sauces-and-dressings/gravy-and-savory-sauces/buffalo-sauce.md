@@ -19,7 +19,7 @@ hero: assets/images/buffalo-sauce.webp
 - :cheese_wedge: 0.67 cup (153 g) hot pepper sauce (such as Frank's RedHot)
 - :butter: 0.5 cup butter
 - :takeout_box: 1.5 Tbsp (10 g) white vinegar
-- :apple: 0.25 tsp (1 g) Worcestershire sauce
+- :apple: 0.25 tsp (1 g) [Vegetarian Worcestershire Sauce][1]
 - :hot_pepper: 0.25 tsp cayenne pepper
 - :garlic: 0.13 tsp garlic powder
 - :salt: some salt
@@ -32,7 +32,8 @@ hero: assets/images/buffalo-sauce.webp
 
 ### Step 1
 
-Combine hot pepper sauce (such as Frank's RedHot), butter, white vinegar, Worcestershire sauce, cayenne pepper, garlic
+Combine hot pepper sauce (such as Frank's RedHot), butter, white vinegar,
+[Vegetarian Worcestershire Sauce][1] , cayenne pepper, garlic
 powder, and salt in a pot over medium heat.
 
 ### Step 2
@@ -43,3 +44,5 @@ from heat, stir with the whisk, and set aside for use.
 ## :link: Source
 
 - <https://www.allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/>
+
+[1]: <vegetarian-worcestershire-sauce.md>

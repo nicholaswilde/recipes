@@ -18,7 +18,7 @@ hero: assets/images/kroket.webp
 
 - :apple: 1 lb ground beef
 - :droplet: 5 cups (1135 g) water
-- :apple: 1 Tbsp (14 g) Worcestershire sauce
+- :apple: 1 Tbsp (14 g) [Vegetarian Worcestershire Sauce][1]
 - :salt: 1.5 tsp salt
 - :salt: 1 tsp pepper
 - 0.5 tsp chives
@@ -44,7 +44,8 @@ Dough: Brown ground beef.
 
 ### Step 2
 
-Drain to ground beef, add water, Worcestershire sauce, salt, pepper, and chives and cook for about 15 minutes. Set
+Drain to ground beef, add water,
+[Vegetarian Worcestershire Sauce][1] , salt, pepper, and chives and cook for about 15 minutes. Set
 aside.
 
 ### Step 3
@@ -107,3 +108,5 @@ Enjoy!
 ## :link: Source
 
 - Tante Myrna Seccia
+
+[1]: <../../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-worcestershire-sauce.md>
