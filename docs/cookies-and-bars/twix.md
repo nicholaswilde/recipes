@@ -21,7 +21,7 @@ hero: assets/images/twix.webp
 
 - :glass_of_milk: 125 g [sweetened condensed milk][1]
 - :maple_leaf: 23 g brown sugar
-- :maple_leaf: 40 g Treacle or golden syrup
+- :maple_leaf: 40 g Treacle or [golden syrup](../ingredients/golden-syrup.md)
 - :butter: 45 g unsalted butter
 - :salt: 1 pinch salt
 
@@ -49,7 +49,7 @@ hero: assets/images/twix.webp
 
 ### Step 1
 
-Combine [sweetened condensed milk][1], brown sugar, Treacle or golden syrup, unsalted butter, and salt in a small
+Combine [sweetened condensed milk][1], brown sugar, Treacle or [golden syrup](../ingredients/golden-syrup.md), unsalted butter, and salt in a small
 saucepan and bring to a boil.
 
 ### Step 2
