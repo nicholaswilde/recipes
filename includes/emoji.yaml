@@ -509,6 +509,7 @@ emoji:
         - yellow cake mix
         - devil's food cake mix
     - candy:
+        - cane sugar
         - molasses
         - packed brown sugar
         - bourbon or dark rum
@@ -1297,6 +1298,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - citric acid
         - white wine vinegar
         - white miso
         - balsamic vinegar
