@@ -1,0 +1,67 @@
+name: Giscus Comment Triage
+
+on:  # yamllint disable-line rule:truthy
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Triage output mode (auto, pr, or issue)'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - pr
+          - issue
+      dry_run:
+        description: 'Run without modifying files or opening PRs/issues'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  discussions: read
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  triage:
+    name: Triage Giscus Cooking Notes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Triage Giscus comments
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_BRANCH: ${{ github.ref_name || 'main' }}
+          TRIAGE_MODE: ${{ inputs.mode || 'auto' }}
+          DRY_RUN: ${{ inputs.dry_run || false }}
+        run: |
+          ARGS="--triage --mode ${TRIAGE_MODE} --base-branch ${BASE_BRANCH}"
+          if [ "${DRY_RUN}" = "true" ]; then
+            ARGS="${ARGS} --dry-run"
+          fi
+          uv run scripts/sync_giscus_comments.py ${ARGS}

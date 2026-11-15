@@ -194,9 +194,10 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 #### [sync_giscus_comments.py](sync_giscus_comments.py)
 
-* **Usage**: `uv run scripts/sync_giscus_comments.py`
+* **Usage**: `uv run scripts/sync_giscus_comments.py [--triage] [--mode auto|pr|issue] [--dry-run] [--seed-state]`
 * **Description**: Queries GitHub Discussions via `gh api` to locate recipes with active comments,
-  automatically setting `comments: true` in their front-matter.
+  setting `comments: true` in their front-matter. With `--triage`, detects new cooking notes, promotes
+  `must-try` tags to `favorite`, stages notes in source `.cook` files, and opens PRs/issues.
 
 #### [find_missing_sources.py](find_missing_sources.py)
 

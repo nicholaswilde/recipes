@@ -291,6 +291,11 @@ tasks:
     cmds:
       - uv run python3 scripts/dedupe_zensical.py
 
+  triage-giscus:
+    desc: Detect new Giscus cooking notes and open PRs/issues
+    cmds:
+      - uv run scripts/sync_giscus_comments.py --triage {{ .CLI_ARGS }}
+
   default:
     cmds:
       - task -a
