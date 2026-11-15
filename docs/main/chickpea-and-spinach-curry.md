@@ -1,14 +1,18 @@
 ---
 comments: true
 tags:
-
-  - asian
-  - curry
-  - chickpeas
-  - spinach
-  - vegetarian
-  - vegan
+- asian
+- curry
+- chickpeas
+- spinach
+- vegetarian
+- vegan
+- main
 hero: assets/images/chickpea-and-spinach-curry.webp
+source: https://chetnamakan.co.uk/chickpea-and-spinach-curry/
+serves: 4
+total time: 45 minutes
+image: Chickpea and Spinach Curry.jpg
 ---
 
 # :curry: Chickpea and Spinach Curry
@@ -21,25 +25,25 @@ hero: assets/images/chickpea-and-spinach-curry.webp
 
 ## :salt: Ingredients
 
-- :olive: 1.5 Tbsp (19 g) oil
+- :olive: 1.5 Tbsp oil
 - :seedling: 1 tsp mustard seeds
 - :tea: 1 brown onion
-- :chestnut: 2 garlic cloves
+- :garlic: 2 garlic cloves
 - :tomato: 2 tomatoes
-- :tomato: 2 Tbsp (29 g) tomato purée
+- :tomato: 2 Tbsp tomato purée
 - :salt: 1 tsp salt
-- :chestnut: 1 tsp (2 g) cumin powder
+- :chestnut: 1 tsp cumin powder
 - :curry: 1 tsp turmeric powder
 - :hot_pepper: 1 tsp chilli powder
 - :curry: 1 tsp garam masala
-- :beans: 800 g tinned chickpeas
+- :beans: 800 g tinned [chickpeas](../ingredients/chickpeas.md)
 - :leafy_green: 150 g spinach leaves
-- :candy: 1 tsp (3 g) sugar
-- :glass_of_milk: 1 Tbsp (18 g) double cream (optional)
+- :candy: 1 tsp (4 g) sugar
+- :glass_of_milk: 1 Tbsp (14 g) double cream
 
 ## :cooking: Cookware
 
-- 1 pan
+- :bowl_with_spoon: 1 pan
 
 ## :pencil: Instructions
 
@@ -58,7 +62,7 @@ Add the salt, cumin powder, turmeric powder, chilli powder, and garam masala. Mi
 
 ### Step 4
 
-Add the tinned chickpeas and their liquid (aquafaba). Mix well, cover, and cook on low heat for 15 minutes.
+Add the tinned [chickpeas](../ingredients/chickpeas.md) and their liquid ([aquafaba](../ingredients/aquafaba.md)). Mix well, cover, and cook on low heat for 15 minutes.
 
 ### Step 5
 
