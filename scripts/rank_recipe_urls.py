@@ -13,93 +13,158 @@
 ################################################################################
 
 import sys
-import json
+import os
 import argparse
+import shutil
+import subprocess
 import urllib.request
-import urllib.parse
+import urllib.error
 from bs4 import BeautifulSoup
 import re
 
+try:
+    from scripts.scrape_to_cook import extract_json_ld_recipe, fetch_via_browserless
+except ImportError:
+    from scrape_to_cook import extract_json_ld_recipe, fetch_via_browserless
+
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
+
+
 def calculate_bayesian_average(rating, votes, min_votes, prior_rating):
+    """Calculate weighted Bayesian rating."""
     if votes + min_votes == 0:
         return 0.0
     return (votes * rating + min_votes * prior_rating) / (votes + min_votes)
 
-def fetch_html(url):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as response:
-        return response.read().decode('utf-8')
 
-def find_recipe_in_json(data):
-    if isinstance(data, dict):
-        if data.get("@type") == "Recipe" or data.get("@type") == ["Recipe"]:
-            return data
-        for k, v in data.items():
-            if k == "@graph" and isinstance(v, list):
-                for item in v:
-                    recipe = find_recipe_in_json(item)
-                    if recipe:
-                        return recipe
-            elif isinstance(v, (dict, list)):
-                recipe = find_recipe_in_json(v)
-                if recipe:
-                    return recipe
-    elif isinstance(data, list):
-        for item in data:
-            recipe = find_recipe_in_json(item)
-            if recipe:
-                return recipe
+def _is_challenge_page(html):
+    """Detect common anti-bot interstitial pages that yield no recipe HTML."""
+    if not html:
+        return True
+    lower = html[:8000].lower()
+    return (
+        "<title>just a moment...</title>" in lower
+        or "cf-browser-verification" in lower
+        or "enable javascript and cookies to continue" in lower
+    )
+
+
+def _fetch_via_curl(url):
+    """Attempt HTTP/2 browser-like fetch via curl when urllib is blocked."""
+    curl_bin = shutil.which("curl")
+    if not curl_bin:
+        return None
+    cmd = [curl_bin, "-sL", "--fail", "--max-time", "20"]
+    for key, val in BROWSER_HEADERS.items():
+        cmd.extend(["-H", f"{key}: {val}"])
+    cmd.append(url)
+    res = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
+    if res.returncode == 0 and not _is_challenge_page(res.stdout):
+        return res.stdout
     return None
 
+
+def fetch_html(url):
+    """Fetch HTML with browser headers, curl HTTP/2 fallback, and Browserless fallback."""
+    last_error = None
+    req = urllib.request.Request(url, headers=BROWSER_HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=15) as response:
+            html = response.read().decode("utf-8", errors="replace")
+            if not _is_challenge_page(html):
+                return html
+            last_error = RuntimeError("HTTP challenge page returned")
+    except urllib.error.HTTPError as e:
+        if e.code not in (401, 403, 429):
+            raise
+        last_error = e
+
+    curl_html = _fetch_via_curl(url)
+    if curl_html:
+        return curl_html
+
+    browserless_url = os.environ.get("BROWSERLESS_URL", "http://localhost:3000")
+    if browserless_url:
+        bl_html = fetch_via_browserless(url, browserless_url)
+        if bl_html and not _is_challenge_page(bl_html):
+            return bl_html
+
+    raise last_error
+
+
+def _parse_int(value):
+    """Parse an integer vote/review count that may contain commas."""
+    if value is None:
+        return 0
+    return int(float(str(value).replace(",", "").strip()))
+
+
 def extract_recipe_metadata(url):
+    """Fetch a recipe URL and extract title, rating, and vote count."""
     try:
         html = fetch_html(url)
         soup = BeautifulSoup(html, "html.parser")
-        
-        # 1. Try to find name from document title or H1
+
         title_el = soup.find("h1")
         name = title_el.get_text(strip=True) if title_el else ""
         if not name:
             title_tag = soup.find("title")
             name = title_tag.get_text(strip=True) if title_tag else "Unknown Recipe"
-            
+
         # Remove site branding from title (e.g. " - Serious Eats" or " | Isabel Eats")
-        name = re.sub(r'\s+[-|]\s+.*$', '', name)
-        
-        # 2. Try JSON-LD
-        scripts = soup.find_all("script", type="application/ld+json")
-        for script in scripts:
-            try:
-                data = json.loads(script.string or "")
-                recipe = find_recipe_in_json(data)
-                if recipe:
-                    # Get name if available in schema
-                    schema_name = recipe.get("name")
-                    if schema_name:
-                        name = schema_name
-                    
-                    agg_rating = recipe.get("aggregateRating")
-                    if isinstance(agg_rating, dict):
-                        rating = float(agg_rating.get("ratingValue") or 0.0)
-                        votes = int(agg_rating.get("ratingCount") or agg_rating.get("reviewCount") or 0)
-                        return {"title": name, "rating": rating, "votes": votes, "url": url}
-            except Exception:
-                continue
-                
-        # 3. Fallback to WPRM or other parsing if JSON-LD fails
-        # Look for class wprm-recipe-rating-average or similar
-        avg_el = soup.find(class_="wprm-recipe-rating-average") or soup.find(class_="recipe-rating-average")
-        count_el = soup.find(class_="wprm-recipe-rating-count") or soup.find(class_="recipe-rating-count")
+        name = re.sub(r"\s+[-|]\s+.*$", "", name)
+
+        recipe = extract_json_ld_recipe(html)
+        if recipe:
+            schema_name = recipe.get("name")
+            if schema_name:
+                name = schema_name
+
+            agg_rating = recipe.get("aggregateRating")
+            if isinstance(agg_rating, dict):
+                rating = float(agg_rating.get("ratingValue") or 0.0)
+                votes = _parse_int(
+                    agg_rating.get("ratingCount") or agg_rating.get("reviewCount")
+                )
+                return {"title": name, "rating": rating, "votes": votes, "url": url}
+
+        # Fallback to WPRM or common rating classes if JSON-LD lacks aggregateRating
+        avg_el = soup.find(class_="wprm-recipe-rating-average") or soup.find(
+            class_="recipe-rating-average"
+        )
+        count_el = soup.find(class_="wprm-recipe-rating-count") or soup.find(
+            class_="recipe-rating-count"
+        )
         if avg_el:
             try:
                 rating = float(avg_el.get_text(strip=True))
-                votes = int(count_el.get_text(strip=True)) if count_el else 0
+                votes = _parse_int(count_el.get_text(strip=True)) if count_el else 0
                 return {"title": name, "rating": rating, "votes": votes, "url": url}
             except ValueError:
                 pass
-                
-        return {"title": name, "rating": 0.0, "votes": 0, "url": url, "error": "No structured rating found"}
+
+        return {
+            "title": name,
+            "rating": 0.0,
+            "votes": 0,
+            "url": url,
+            "error": "No structured rating found",
+        }
     except Exception as e:
         return {"title": url, "rating": 0.0, "votes": 0, "url": url, "error": str(e)}
 
