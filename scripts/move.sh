@@ -26,6 +26,7 @@ SCRIPT_NAME=$(basename "${0}")
 SCRIPT_VERSION="$(grep "# @version" "${0}" | sed 's/\# \@version //'|\head -n1)"
 SCRIPT_DESC="Move recipes to their intended locations"
 DEBUG=false
+FORCE=false
 
 readonly DIR
 readonly SCRIPT_NAME
@@ -165,11 +166,31 @@ function move_files(){
     fi
   fi
 
+  local existing_md=""
+  if [ -f "${new_markdown_path}" ] && [ "${FORCE}" != true ]; then
+    existing_md=$(mktemp)
+    cp "${new_markdown_path}" "${existing_md}"
+  fi
+
   mv "${markdown_path}" "${new_markdown_path}"
-  
-  # Inject frontmatter from .cook to .md
+
+  cd "${ROOT_DIR}"
+
+  # Inject frontmatter (and .cook title H1 emoji) from .cook to .md
   uv run scripts/inject_frontmatter.py "${recipe_path}" "${new_markdown_path}" || true
-  
+
+  # Auto-inject ingredient/cookware emojis and gram weights from emoji.yaml & measuring.md
+  uv run scripts/convert_recipe_units.py "${new_markdown_path}" || true
+
+  # Preserve manual Markdown edits when re-compiling an existing recipe
+  if [ -n "${existing_md}" ] && [ -f "${existing_md}" ]; then
+    uv run scripts/merge_recipe_md.py "${existing_md}" "${new_markdown_path}" "${new_markdown_path}" || true
+    rm -f "${existing_md}"
+  fi
+
+  # Ensure H1 header has a valid emoji shortcode
+  uv run scripts/check_header_emojis.py --fix "${new_markdown_path}" || true
+
   # Auto-hyperlink internal ingredients and format
   uv run scripts/auto_hyperlink_recipe.py "${new_markdown_path}" || true
 
@@ -196,16 +217,16 @@ if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
 # https://opensource.com/article/19/12/help-bash-program
 # Get the options
 # while getopts ":hv" o; do
-while getopts ":hv-" o; do
+while getopts ":fhv-" o; do
   # support long options: https://stackoverflow.com/a/28466267/519360
   if [ "${o}" = "-" ]; then   # long option: reformulate o and OPTARG
-    OPTARG=
     o="${OPTARG%%=*}"       # extract long option name
     OPTARG="${OPTARG#"$o"}"   # extract long option argument (may be empty)
     OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
   fi
   # shuck:disable=C135
   case "${o}" in
+    f|force)   FORCE=true;;
     h|help)    show_help "${SCRIPT_NAME}" "${SCRIPT_DESC}";;
     v|version) show_version "${SCRIPT_NAME}" "${SCRIPT_VERSION}";;
     ??*)         usage_error "${SCRIPT_NAME}";;

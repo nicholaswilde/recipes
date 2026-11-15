@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import os
+import re
 import yaml
 
 def read_frontmatter_and_body(filepath):
@@ -60,7 +61,22 @@ def main():
             
     if 'comments' not in md_fm:
         md_fm['comments'] = True
-        
+
+    cook_title = str(cook_fm.get('title', '') or '').strip()
+    title_emoji_match = re.match(r'^(:[a-zA-Z0-9_+-]+:)\s*(.+)$', cook_title)
+    if title_emoji_match:
+        emoji_code = title_emoji_match.group(1)
+        clean_title = title_emoji_match.group(2).strip()
+        lines = md_body.splitlines(keepends=True)
+        for idx, line in enumerate(lines):
+            if line.startswith('# '):
+                existing_h1 = line[2:].strip()
+                if not re.match(r'^:[a-zA-Z0-9_+-]+:', existing_h1):
+                    ending = '\n' if line.endswith('\n') else ''
+                    lines[idx] = f"# {emoji_code} {clean_title or existing_h1}{ending}"
+                break
+        md_body = ''.join(lines)
+
     with open(md_file, 'w', encoding='utf-8') as f:
         f.write('---\n')
         yaml.dump(md_fm, f, default_flow_style=False, sort_keys=False)

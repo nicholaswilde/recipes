@@ -8,7 +8,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 | Script / Command | Taskfile Shortcut | Purpose |
 | :--- | :--- | :--- |
-| `scripts/move.sh` | `task move FILES="<path>"` | Relocates a compiled recipe `.md` and its image, runs spellchecking, and updates navigation. |
+| `scripts/move.sh` | `task move FILES="<path>"` | Relocates a compiled recipe `.md` and its image, auto-injects weights/emojis, preserves manual Markdown edits (unless `-f`/`--force`), runs spellchecking, and updates navigation. |
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
@@ -29,6 +29,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/optimize_images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
 | `scripts/refactor_nav.py` | - | Replaces navigation blocks in `zensical.toml` with preset navigation structures. |
 | `scripts/move_and_verify.py` | - | Relocates recipes in `sides` and `sauces-and-dressings` to subdirectories and updates navigation. |
+| `scripts/merge_recipe_md.py` | - | Merges freshly compiled CookLang Markdown with existing manual Markdown edits (admonitions, custom sections, tags, tabs, formatted sources). |
 
 ---
 
@@ -38,10 +39,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 #### [move.sh](move.sh)
 
-* **Usage**: `./scripts/move.sh <recipe.cook>`
+* **Usage**: `./scripts/move.sh [-f|--force] <recipe.cook>`
 * **Description**: Moves compiled `.md` recipe files and their associated images to their
-  final categories. It runs spellchecking, checks for dead links, adds the recipe to
-  `zensical.toml` navigation, and triggers a clean task.
+  final categories, auto-injects frontmatter, ingredient/cookware emojis, and gram weights
+  from `includes/emoji.yaml` and `docs/reference/measuring.md`, preserves manual Markdown edits
+  via `merge_recipe_md.py` (unless `-f`/`--force` is passed), runs spellchecking, checks for
+  dead links, adds the recipe to `zensical.toml` navigation, and triggers a clean task.
 
 #### [commit.sh](commit.sh)
 
@@ -100,10 +103,17 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [convert_recipe_units.py](convert_recipe_units.py)
 
 * **Usage**: `uv run scripts/convert_recipe_units.py <recipe.md>`
-* **Description**: Scans a recipe's markdown Ingredients list, automatically converts volumetric/count
+* **Description**: Scans a recipe's markdown Ingredients and Cookware lists, automatically converts volumetric
   measurements (like `1 cup` or `2 tbsp`) into weight-annotated units (`(120 g)`) by reading mappings
-  in [docs/reference/measuring.md](../docs/reference/measuring.md), and inserts the matching ingredient
-  emoji from [includes/emoji.yaml](../includes/emoji.yaml).
+  in [docs/reference/measuring.md](../docs/reference/measuring.md), and inserts matching ingredient and cookware
+  emojis from [includes/emoji.yaml](../includes/emoji.yaml).
+
+#### [merge_recipe_md.py](merge_recipe_md.py)
+
+* **Usage**: `uv run scripts/merge_recipe_md.py <existing_md> <compiled_md> [output_md]`
+* **Description**: Preserves manual Markdown edits (frontmatter tags, H1 emoji, hero image, `!!!` admonitions,
+  Mermaid timelines, custom `##` sections, formatted source links, footnotes, and manual `===` tabs)
+  when re-compiling a `.cook` file into an existing Markdown file.
 
 #### [fix_broken_links.py](fix_broken_links.py)
 

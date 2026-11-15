@@ -32,7 +32,9 @@ When a new `.cook` recipe file is compiled, relocate it to its final destination
   ```
 
 * **Under the Hood**: Invokes [scripts/move.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/move.sh),
-  which compiles the markdown, moves images, adds navigation configuration to `zensical.toml` via
+  which compiles the markdown, moves images, auto-injects frontmatter, ingredient/cookware emojis, and gram weights
+  via `convert_recipe_units.py`, preserves existing manual Markdown edits via `merge_recipe_md.py` (unless `-f`/`--force`),
+  adds navigation configuration to `zensical.toml` via
   [scripts/add_recipe_nav.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add_recipe_nav.py),
   and runs validation.
 
@@ -126,9 +128,9 @@ If `zensical build` fails or outputs warnings about unused/unresolved links:
 * **Under the Hood**: Runs checks, parses warnings, automatically removes unused reference links, and escapes
   unresolved bracket patterns like `[ml]`.
 
-#### Auto-Format & Annotate Ingredient Weights
+#### Auto-Format & Annotate Ingredient Weights and Emojis
 
-To automatically insert matching ingredient emojis and convert volumetric units (cups, tbsp) to
+To automatically insert matching ingredient/cookware emojis and convert volumetric units (cups, tbsp) to
 weight-annotated strings (grams) on a recipe's markdown file:
 
 * **Protocol**:
@@ -137,7 +139,17 @@ weight-annotated strings (grams) on a recipe's markdown file:
   uv run scripts/convert_recipe_units.py docs/category/recipe.md
   ```
 
-* **Under the Hood**: Cross-references ingredients with [includes/emoji.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/emoji.yaml) and [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md).
+* **Under the Hood**: Cross-references ingredients and cookware with [includes/emoji.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/emoji.yaml) and [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md).
+
+#### Merge Manual Markdown Edits on Re-Compile
+
+To preserve manual Markdown edits (`!!!` admonitions, custom sections, frontmatter tags, H1 emoji, formatted sources, manual `===` tabs) when re-compiling a `.cook` file:
+
+* **Protocol**:
+
+  ```bash
+  uv run scripts/merge_recipe_md.py <existing_md> <compiled_md> [output_md]
+  ```
 
 #### Auto-Fix Broken Relative Links
 
