@@ -297,6 +297,7 @@ emoji:
         - natural food coloring
         - rainbow sprinkles
     - avocado:
+        - avocado oil mayonnaise
         - guacamole
         - ripe avocados
         - neutral oil
@@ -599,6 +600,7 @@ emoji:
         - reduced-fat cheddar cheese
         - Muenster cheese
     - cheese_wedge:
+        - Parmesan-Romano cheese blend
         - feta cheese
         - Parmigiano-Reggiano cheese
         - Gruyère cheese
@@ -820,6 +822,7 @@ emoji:
     - four_leaf_clover:
         - irish soda bread
     - garlic:
+        - garlic salt
         - granulated garlic
         - garlic (minced)
         - organic garlic
@@ -954,6 +957,7 @@ emoji:
         - raw unpasteurized honey
         - pancake syrup
     - hot_pepper:
+        - fresh cracked black pepper
         - candied jalapenos
         - fresh jalapenos (about 30 peppers)
         - jalapeño peppers ((preferably red))
@@ -1284,6 +1288,7 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - white wine vinegar
         - white miso
         - balsamic vinegar
         - culinary lavender
