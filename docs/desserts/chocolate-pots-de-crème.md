@@ -2,7 +2,7 @@
 comments: true
 tags:
   - dessert
-hero: assets/images/chocolate-pots-de-crème.jpg
+hero: assets/images/chocolate-pots-de-crème.webp
 ---
 
 # :chocolate_bar: Chocolate Pots de Crème
@@ -74,4 +74,4 @@ chocolate shavings.
 
 - <https://alexandracooks.com/2018/02/13/chocolate-pots-de-creme-stovetop-method-no-water-bath/>
 
-[1]: <../assets/images/chocolate-pots-de-crème.jpg>
+[1]: <../assets/images/chocolate-pots-de-crème.webp>

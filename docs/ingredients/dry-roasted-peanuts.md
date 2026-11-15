@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - ingredient
-hero: assets/images/dry-roasted-peanuts.jpg
+hero: assets/images/dry-roasted-peanuts.webp
 ---
 
 # :peanuts: Dry Roasted Peanuts
 
-![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.jpg){ loading=lazy }
+![Dry Roasted Peanuts](../assets/images/dry-roasted-peanuts.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

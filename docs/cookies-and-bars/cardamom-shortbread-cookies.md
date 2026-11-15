@@ -4,7 +4,7 @@ tags:
   - cookie
   - bar
   - dessert
-hero: assets/images/cardamom-shortbread-cookies.jpg
+hero: assets/images/cardamom-shortbread-cookies.webp
 ---
 
 # :cookie: Cardamom Shortbread Cookies
@@ -81,4 +81,4 @@ on a rack until dry.
 
 - <https://stateofdinner.com/cardamom-shortbread-cookies-recipe/>
 
-[1]: <../assets/images/cardamom-shortbread-cookies.jpg>
+[1]: <../assets/images/cardamom-shortbread-cookies.webp>
