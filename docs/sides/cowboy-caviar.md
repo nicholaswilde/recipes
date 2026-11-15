@@ -21,7 +21,7 @@ hero: assets/images/cowboy-caviar.webp
 - :olive: ¼ cup olive oil
 - :wine_glass: ¼ cup red wine vinegar
 - :garlic: 3–4 garlic cloves, minced
-- :sugar: 1 tsp granulated sugar
+- :candy: 1 tsp granulated sugar
 - :salt: kosher salt and black pepper, to taste
 
 ### Salad
@@ -35,7 +35,7 @@ hero: assets/images/cowboy-caviar.webp
 - :hot_pepper: 1 jalapeño, seeded and finely diced
 - :herb: ⅓ cup cilantro leaves and tender stems, chopped
 - :onion: 1 scallion, chopped (optional, for garnish)
-- :chip: tortilla chips, for serving
+- :corn: tortilla chips, for serving
 
 ## :cooking: Cookware
 

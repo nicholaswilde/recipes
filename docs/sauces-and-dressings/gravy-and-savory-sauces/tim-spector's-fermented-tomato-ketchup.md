@@ -15,25 +15,25 @@ hero: assets/images/tim-spector's-fermented-tomato-ketchup.webp
 
 ## :salt: Ingredients
 
-- 200 g tomato purée
-- 1 Tbsp Worcestershire sauce or soy sauce
-- some [Vegetarian Fish Sauce](vegetarian-fish-sauce.md)
-- 1 Tbsp runny honey
-- 1 Tbsp apple cider vinegar
-- 2.5 tsp sauerkraut brine
-- 2 tsp coriander seeds
-- 0.5 tsp black peppercorns
-- 1 tsp mustard seeds
-- 0.12 tsp ground cinnamon
-- some salt
+- :tomato: 200 g tomato purée
+- :takeout_box: 1 Tbsp Worcestershire sauce or soy sauce
+- :takeout_box: some [Vegetarian Fish Sauce](vegetarian-fish-sauce.md)
+- :honey_pot: 1 Tbsp runny honey
+- :apple: 1 Tbsp apple cider vinegar
+- :microbe: 2.5 tsp sauerkraut brine
+- :seedling: 2 tsp coriander seeds
+- :hot_pepper: 0.5 tsp black peppercorns
+- :seedling: 1 tsp mustard seeds
+- :chestnut: 0.12 tsp ground cinnamon
+- :salt: some salt
 
 ## :cooking: Cookware
 
-- 1 bowl
-- 1 frying pan
-- 1 spice grinder or mortar and pestle
-- 1 jam jar
-- 1 refrigerator
+- :bowl_with_spoon: 1 bowl
+- :cooking: 1 frying pan
+- :gear: 1 spice grinder or mortar and pestle
+- :jar: 1 jam jar
+- :snowflake: 1 refrigerator
 
 ## :pencil: Instructions
 

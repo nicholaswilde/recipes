@@ -45,7 +45,7 @@ hero: assets/images/twix.webp
 - 1 cookie cutter
 - :wastebasket: 1 wire rack
 
-## Caramel Instructions
+## :pencil: Caramel Instructions
 
 ### Step 1
 
@@ -60,7 +60,7 @@ Simmer over medium heat until the sugar has completely dissolved and the mixture
 
 Remove from the heat and place in the fridge to chill completely.
 
-## Cookie Instructions
+## :pencil: Cookie Instructions
 
 ### Step 4
 
@@ -102,7 +102,7 @@ Place the cookies on the lined tray and bake for 15 minutes, or until lightly go
 
 Remove and cool completely.
 
-## Assembly Instructions
+## :pencil: Assembly Instructions
 
 ### Step 14
 

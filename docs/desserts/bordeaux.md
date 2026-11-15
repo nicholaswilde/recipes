@@ -28,7 +28,7 @@ hero: assets/images/bordeaux.webp
 
 - :shallow_pan_of_food: heavy saucepan
 - :page_facing_up: wax paper
-- :microwave: microwave
+- :gear: microwave
 
 ## :pencil: Instructions
 
@@ -50,7 +50,7 @@ Roll into 1-inch balls and place on :page_facing_up: wax paper. Freeze for 10 mi
 
 ### Step 5
 
-Melt :chestnut: dark chocolate and :butter: butter in the :microwave: microwave at 50% power. Dip balls into chocolate and let set on :page_facing_up: wax paper.
+Melt :chestnut: dark chocolate and :butter: butter in the :gear: microwave at 50% power. Dip balls into chocolate and let set on :page_facing_up: wax paper.
 
 ## :link: Source
 

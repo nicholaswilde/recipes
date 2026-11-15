@@ -53,7 +53,7 @@ soon as you set the dial; oven will not reach 350°F). Turn off oven and let inc
 heating step each time oven door is opened. Remove jars from water bath and refrigerate until fully cooled and set,
 about 8 hours. (Yogurt can be refrigerated for up to 2 weeks.)
 
-## How to Customize
+## :art: How to Customize
 
 Making yogurt that you'll love begins with choosing a starter yogurt that you enjoy. Any variety (whole milk, Greek,
 Icelandic, etc.) will do the job, but keep in mind that different brands use different combinations of bacteria, and
@@ -64,7 +64,7 @@ Then there's the milk. Any type (whole, low-fat, or skim) will work, but the mor
 your yogurt will be and the more structure it will have. And yet, the starter and milk are only the beginning Here
 are more ways to create a truly artisanal yogurt to suit your personal tastes.
 
-## Tweak the Consistency
+## :spoon: Tweak the Consistency
 
 ### Richer
 
@@ -79,7 +79,7 @@ Whisk 1/4 cup nonfat dry milk powder into cold milk before heating it.
 Place triple layer of cheesecloth over mouth of jar with chilled yogurt, screw on lid ring, and drain in refrigerator
 upside down in 2-cup measuring cup overnight.
 
-## Add Flavorings
+## :sparkles: Add Flavorings
 
 ### Extract
 
@@ -89,7 +89,7 @@ Stir 1/4 tea spoon extract (we like vanilla or almond) into milk along with star
 
 Garnish individual servings with white or brown sugar, honey, maple syrup, or fruit jam.
 
-## Control Sourness & Thickness
+## :timer_clock: Control Sourness & Thickness
 
 Adjust the incubation time to produce the effect you desire: The longer yogurt ferments, the more lactic acid is
 produced, and the more sour and thick it becomes. Chilling stops fermentation and allows the gel to set fully (it will

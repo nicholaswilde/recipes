@@ -154,7 +154,7 @@ Remove the cake from the pan using the overhanging edges of parchment as handles
 
 Drizzle the glaze over the cake, or finish by dusting with non-melting sugar or confectioners’ sugar.
 
-## Sources
+## :link: Sources
 
 - <https://www.kingarthurbaking.com/recipes/cinnamon-crisp-coffee-cake-recipe>
 - <https://www.youtube.com/watch?v=RXBlS39oTTg>

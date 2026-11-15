@@ -84,12 +84,12 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
 
 ``` mermaid
 flowchart TD
-    A["🥣 Mix<br/>9:00 a.m."] --> B["🦠 Bulk Fermentation<br/>9:15 a.m."]
-    B --> C["🔪 Divide<br/>10:45 a.m."]
-    C --> D["🍞 Shape<br/>11:00 a.m."]
-    D --> E["⏳ Proof<br/>11:15 a.m."]
-    E --> F["🔥 Bake<br/>12:15 p.m."]
-    F --> G["🛏️ Rest<br/>12:45 p.m."]
+    A["Mix<br/>9:00 a.m."] --> B["Bulk Fermentation<br/>9:15 a.m."]
+    B --> C["Divide<br/>10:45 a.m."]
+    C --> D["Shape<br/>11:00 a.m."]
+    D --> E["Proof<br/>11:15 a.m."]
+    E --> F["Bake<br/>12:15 p.m."]
+    F --> G["Rest<br/>12:45 p.m."]
 
     classDef step fill:#4051b5,stroke:#303fa1,color:#ffffff
     class A,B,C,D,E,F,G step

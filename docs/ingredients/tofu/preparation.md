@@ -9,7 +9,7 @@ hero: assets/images/preparation.webp
 
 # :butter: Tofu Preparation
 
-## Terri's Quick and Easy Way
+## :pencil: Terri's Quick and Easy Way
 
 After purchasing tofu in plastic container from the produce section of the grocery store, bring it home and place
 directly in the freezer. This greatly lengthens the time allowed for using it, since it won't be spoiling within a

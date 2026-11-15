@@ -97,7 +97,7 @@ transfer to prepared wire rack. Repeat with remaining pretzels. Transfer pretzel
 Sprinkle pretzels evenly with pretzel salt. Bake until deeply browned, about 12 minutes. Transfer to second wire rack
 and let cool for at least 5 minutes before serving.
 
-## Technique Do The Twist
+## :pretzel: Technique Do The Twist
 
 After making an inverted U with the dough rope, forming the twist is simple.
 
@@ -107,7 +107,7 @@ pretzel.
 
 ![Laugenbrezeln][3]{ loading=lazy }
 
-## The Truth About Lye
+## :alembic: The Truth About Lye
 
 Dunking dough into a strong alkali such as lye is an admittedly curious thing to do, and there are theories as to how
 this process came about including one of a baker who mistakenly brushed his pretzel with cleaning fluid and decided to
@@ -122,7 +122,7 @@ chemical: The oven's heat completely neutralizes lye and makes it safe to consum
 lye isn't for you, you can use a simmering baking soda solution instead. With a pH of roughly 8.3, it reacts less than
 lye and yields pretzels that are lighter in color and flavor, but the results are still impressive.
 
-## How to Work with Lye Safely
+## :warning: How to Work with Lye Safely
 
 Dipping the dough in a lye solution gives traditional German pretzels their characteristic salinity; chew; and smooth
 mahogany exterior, but the strong alkali (sodium hydroxide) is corrosive and can burn your skin, so it must be handled

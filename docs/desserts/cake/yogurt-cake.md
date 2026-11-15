@@ -13,7 +13,7 @@ This classic French cake, traditionally measured using an empty yogurt jar (pot)
 
 ---
 
-## 🍰 Version 1 (Classic Plain)
+## :cake: Version 1 (Classic Plain)
 
 ![Yogurt Cake Version 1][1]{ loading=lazy }
 
@@ -47,7 +47,7 @@ Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inser
 
 ---
 
-## 🍋 Version 2 (Vanilla & Lemon)
+## :lemon: Version 2 (Vanilla & Lemon)
 
 ![Yogurt Cake Version 2][2]{ loading=lazy }
 
@@ -84,7 +84,7 @@ Pour into the prepared pan and bake for 35 to 45 minutes, or until a knife inser
 
 ---
 
-## 💡 Notes
+## :bulb: Notes
 
 This cake can also be made in an 8-inch springform or a 9-inch round cake pan:
 

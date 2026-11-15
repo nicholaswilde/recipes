@@ -31,7 +31,7 @@ hero: assets/images/peach-bars.webp
     - :tomato: 680 g ripe peaches
     - :chestnut: 2 tsp (5 g) cornstarch
     - :baby_bottle: 62.5 g demerara sugar
-    - :sweet_potato: 🫚 1/2 tsp ground ginger
+    - :sweet_potato: 1/2 tsp ground ginger
     - :chestnut: 1/4 tsp (1 g) ground cinnamon
     - :chestnut: 1/8 tsp ground nutmeg
     - :salt: 1/4 tsp Diamond Crystal kosher salt

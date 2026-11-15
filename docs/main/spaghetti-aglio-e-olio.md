@@ -50,7 +50,7 @@ if you wish. Add the chopped parsley at the last minute.
 ### Step 4
 
 Traditionally this dish is NOT served with cheese but as long as you do not have Italian at the dinner table, Bon
-Appetito 😊!!!
+Appetito :blush:!!!
 
 ## :link: Source
 

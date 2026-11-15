@@ -164,17 +164,17 @@ mixer. Cover and let sit for 12 to 16 hours at room temperature. The mixture sho
 
 ## :pencil: Instructions - Dough
 
-## Step 2
+### Step 2
 
 Add all of the dough ingredients (except the salt) to the bowl with the levain. Mix briefly, just to
 combine. If you’re using a stand mixer, use the dough hook on first speed, mixing just until everything is incorporated.
 
-## Step 3
+### Step 3
 
 Cover the dough and let it rest for 20 to 30 minutes. This resting period is known as the autolyse, and gives the flour
 a chance to absorb the water, making the resulting dough easier to work with.
 
-## Step 4
+### Step 4
 
 Sprinkle the salt over the dough. Mix it in and continue to mix for several minutes. The dough won’t be smooth and
 elastic, but it should be cohesive and starting to feel a bit springy. Using a stand mixer and dough hook at medium speed
@@ -184,11 +184,11 @@ this will take about 2 to 3 minutes.
 
     Other mix ins can be incorporated at this step.
 
-## Step 5
+### Step 5
 
 Cover the bowl with plastic wrap or a reusable cover and let it rest and rise for 1 hour.
 
-## Step 6
+### Step 6
 
 After 1 hour uncover the bowl and, using a bowl scraper or spatula, run the scraper or spatula down the inside far wall
 of the bowl. Bring the dough up from the bottom of the bowl, and fold it over on top of itself. Turn the bowl 90° and
@@ -202,43 +202,43 @@ the dough, is called a fold. Re-cover the bowl, and let the dough rise for anoth
     can pivot to make a focaccia bread instead (see [Big & Bubbly Focaccia](big-and-bubbly-focaccia.md)). If using a
     1/2 batch (1 loaf), use an 8x8 pan for the focaccia; if using a full batch (2 loaves), use a 9x13 pan.
 
-## Step 7
+### Step 7
 
 Gently deflate the dough and divide it into two pieces; each will weigh about 750 g. Shape each piece into a rough ball,
 cover, and let rest for about 20 minutes; this rest will make the loaves easier to shape.
 
-## Step 8
+### Step 8
 
 After the rest, shape the two pieces of dough into rounds or oblong loaves. Place them on a piece of parchment or a
 lightly greased baking sheet. If the dough seems very soft, for added support turn the loaves (seam side up) into two
 floured brotforms, or into two bowls lined with floured smooth cotton dish towels.
 
-## Step 9
+### Step 9
 
 Cover the loaves and let them rise for 1 1/2 to 2 hours at room temperature (68°F to 78°F is ideal). Or refrigerate the
 covered loaves overnight.
 
-## Step 10
+### Step 10
 
 When you’re ready to bake, preheat the oven to 450°F for at least 45 minutes before baking. At the same time, place two
 lidded oven-safe baking pans (such as a cloche, Dutch oven, or long covered baker) into the oven to preheat. Make sure
 the baker you choose is safe to be preheated empty, without anything inside.
 
-## Step 11
+### Step 11
 
 When the oven is fully preheated, carefully transfer the loaves to your chosen bakers. Slash them several times across
 the top to allow for expansion.
 
-## Step 12
+### Step 12
 
 Cover the bakers and place them in the oven. Bake the bread for 30 minutes. Remove the covers and bake 10 to 15 minutes
 more, or until the bread is golden brown. Its internal temperature should register about 210°F on a digital thermometer.
 
-## Step 13
+### Step 13
 
 Remove the bread from the oven and turn it out of the pans onto a rack to cool completely.
 
-## Step 14
+### Step 14
 
 Store the bread at room temperature, loosely wrapped, for up to 5 days; freeze for longer storage.
 

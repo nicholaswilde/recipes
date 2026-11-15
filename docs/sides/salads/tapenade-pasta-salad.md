@@ -16,26 +16,26 @@ hero: assets/images/tapenade-pasta-salad.webp
 
 ## :salt: Ingredients
 
-- 1 salt
-- 1.5 cups pitted kalamata olives
-- 1 finely grated or minced garlic clove
-- 0.5 tsp fresh thyme leaves or dried herbes de Provence
-- 1 tsp crushed fennel seeds
-- 1 finely grated zest of lemon
-- 1 tsp red wine vinegar
-- 0.33 cup extra-virgin olive oil
-- 1 lbs short pasta such as farfalle
-- 0.5 lbs halved crosswise green beans
-- 3 cups pasta cooking water
-- 0.5 cup fresh basil leaves
-- 0.33 cup shaved ricotta salata (optional)
-- 1 freshly ground black pepper
+- :salt: 1 salt
+- :olive: 1.5 cups pitted kalamata olives
+- :garlic: 1 finely grated or minced garlic clove
+- :herb: 0.5 tsp fresh thyme leaves or dried herbes de Provence
+- :seedling: 1 tsp crushed fennel seeds
+- :lemon: 1 finely grated zest of lemon
+- :wine_glass: 1 tsp red wine vinegar
+- :olive: 0.33 cup extra-virgin olive oil
+- :spaghetti: 1 lbs short pasta such as farfalle
+- :beans: 0.5 lbs halved crosswise green beans
+- :droplet: 3 cups pasta cooking water
+- :herb: 0.5 cup fresh basil leaves
+- :cheese_wedge: 0.33 cup shaved ricotta salata (optional)
+- :salt: 1 freshly ground black pepper
 
 ## :cooking: Cookware
 
-- 1 pot
-- 1 bowl of a food processor
-- 1 bowl
+- :stew: 1 pot
+- :gear: 1 bowl of a food processor
+- :bowl_with_spoon: 1 bowl
 
 ## :pencil: Instructions
 

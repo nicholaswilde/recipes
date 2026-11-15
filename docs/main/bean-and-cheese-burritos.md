@@ -23,7 +23,7 @@ hero: assets/images/bean-and-cheese-burritos.webp
 - :garlic: 2 garlic cloves, minced
 - :beans: 2 (15-oz) cans pinto beans, ½ cup liquid reserved, rest drained
 - :tomato: ⅓ cup pico de gallo or salsa
-- :chili_pepper: ¼ tsp smoked paprika
+- :hot_pepper: ¼ tsp smoked paprika
 - :droplet: ½ cup water
 - :flatbread: 6 (9-to-10-inch) flour tortillas
 - :cheese: 2 cups (8 oz) sharp Cheddar, shredded

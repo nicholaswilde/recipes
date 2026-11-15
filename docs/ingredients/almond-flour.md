@@ -16,11 +16,11 @@ hero: assets/images/almond-flour.webp
 
 ## :salt: Ingredients
 
-- 1 lb [blanched almonds][1]
+- :chestnut: 1 lb [blanched almonds][1]
 
 ## :cooking: Cookware
 
-- 1 cookie sheet
+- :cookie: 1 cookie sheet
 - :gear: 1 food processor
 
 ## :pencil: Instructions

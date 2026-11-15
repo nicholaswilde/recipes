@@ -9,7 +9,7 @@ hero: assets/images/dal.webp
 
 Dal refers to various dried, split pulses (legumes) such as lentils, peas, and beans.
 
-## Varieties
+## :beans: Varieties
 
 - **Chana Dal:** Split chickpeas.
 - **Masoor Dal:** Red lentils.

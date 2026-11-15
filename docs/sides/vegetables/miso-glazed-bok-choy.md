@@ -17,12 +17,12 @@ hero: assets/images/miso-glazed-bok-choy.webp
 
 ## :salt: Ingredients
 
-- 1 small head bok choy
-- 1 [miso glaze][1]
+- :leafy_green: 1 small head bok choy
+- :takeout_box: 1 [miso glaze][1]
 
 ## :cooking: Cookware
 
-- 1 metal or cast iron skillet
+- :shallow_pan_of_food: 1 metal or cast iron skillet
 
 ## :pencil: Instructions
 

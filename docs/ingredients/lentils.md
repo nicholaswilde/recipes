@@ -9,7 +9,7 @@ hero: assets/images/lentils.webp
 
 Lentils are small, lens-shaped legumes available in various colors and textures.
 
-## Varieties
+## :beans: Varieties
 
 - **Brown Lentils:** Hold their shape well, earthy flavor.
 - **Green Lentils:** Firm texture, peppery flavor.

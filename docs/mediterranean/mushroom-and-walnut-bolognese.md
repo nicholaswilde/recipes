@@ -15,25 +15,25 @@ hero: assets/images/mushroom-and-walnut-bolognese.webp
 
 ## :salt: Ingredients
 
-- 2 Tbsp olive oil
-- 1 lb button or cremini mushrooms
-- 1 medium onion
-- 1 carrot
-- 1 rib celery
-- 4 cloves garlic
-- 0.5 tsp red pepper flakes
-- 1 tsp oregano
-- 0.5 tsp thyme
-- 2 bay leaves
-- 0.5 cup walnuts
-- 1 tsp salt
-- 0.5 cup red wine
-- 1 14-oz can crushed or pureed tomatoes
-- 1 tsp liquid aminos or [Vegetarian Fish Sauce](../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-fish-sauce.md)
-- 0.5 cup unsweetened soy milk
-- 1 box durum wheat spaghetti pasta
-- 1 Tbsp nutritional yeast or pecorino
-- 0.5 cups basil leaves
+- :olive: 2 Tbsp olive oil
+- :mushroom: 1 lb button or cremini mushrooms
+- :onion: 1 medium onion
+- :carrot: 1 carrot
+- :leafy_green: 1 rib celery
+- :garlic: 4 cloves garlic
+- :hot_pepper: 0.5 tsp red pepper flakes
+- :herb: 1 tsp oregano
+- :herb: 0.5 tsp thyme
+- :herb: 2 bay leaves
+- :chestnut: 0.5 cup walnuts
+- :salt: 1 tsp salt
+- :wine_glass: 0.5 cup red wine
+- :tomato: 1 14-oz can crushed or pureed tomatoes
+- :takeout_box: 1 tsp liquid aminos or [Vegetarian Fish Sauce](../sauces-and-dressings/gravy-and-savory-sauces/vegetarian-fish-sauce.md)
+- :glass_of_milk: 0.5 cup unsweetened soy milk
+- :spaghetti: 1 box durum wheat spaghetti pasta
+- :cheese_wedge: 1 Tbsp nutritional yeast or pecorino
+- :herb: 0.5 cups basil leaves
 
 ## :cooking: Cookware
 
