@@ -17,12 +17,12 @@ hero: assets/images/jiffy-corn-casserole.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 cup butter
+- :butter: 1 cup (226 g) butter
 - :hot_pepper: 2 cans whole kernel corn, drained
 - :candy: 2 cans cream-style corn
 - :glass_of_milk: 2 cups (454 g) sour cream
 - :egg: 4 eggs
-- :chestnut: 2 boxes Jiffy corn muffin mix
+- :chestnut: 2 boxes Jiffy vegetarian corn muffin mix
 - :salt: 2 tsp salt
 - :salt: 3/4 tsp pepper
 
@@ -44,7 +44,7 @@ Mix in sour cream.
 
 ### Step 3
 
-In a separate bowl, beat eggs and stir into corn and sour cream. Add Jiffy corn muffin mix and blend thoroughly.
+In a separate bowl, beat eggs and stir into corn and sour cream. Add Jiffy vegetarian corn muffin mix and blend thoroughly.
 
 ### Step 4
 
