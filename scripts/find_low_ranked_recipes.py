@@ -23,79 +23,20 @@ recipes falling below a specific quality threshold.
 import os
 import sys
 import re
-import json
 import argparse
-import urllib.request
 import urllib.parse
-from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-def calculate_bayesian_average(rating, votes, min_votes=10.0, prior_rating=3.5):
-    if votes + min_votes == 0:
-        return 0.0
-    return (votes * rating + min_votes * prior_rating) / (votes + min_votes)
-
-def find_recipe_in_json(data):
-    if isinstance(data, dict):
-        if data.get("@type") == "Recipe" or data.get("@type") == ["Recipe"]:
-            return data
-        for k, v in data.items():
-            if k == "@graph" and isinstance(v, list):
-                for item in v:
-                    recipe = find_recipe_in_json(item)
-                    if recipe:
-                        return recipe
-            elif isinstance(v, (dict, list)):
-                recipe = find_recipe_in_json(v)
-                if recipe:
-                    return recipe
-    elif isinstance(data, list):
-        for item in data:
-            recipe = find_recipe_in_json(item)
-            if recipe:
-                return recipe
-    return None
-
-def extract_recipe_metadata(url):
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=5) as response:
-            html = response.read().decode('utf-8', errors='ignore')
-            
-        soup = BeautifulSoup(html, "html.parser")
-        
-        # 1. Try JSON-LD
-        scripts = soup.find_all("script", type="application/ld+json")
-        for script in scripts:
-            try:
-                data = json.loads(script.string or "")
-                recipe = find_recipe_in_json(data)
-                if recipe:
-                    agg_rating = recipe.get("aggregateRating")
-                    if isinstance(agg_rating, dict):
-                        rating = float(agg_rating.get("ratingValue") or 0.0)
-                        votes = int(agg_rating.get("ratingCount") or agg_rating.get("reviewCount") or 0)
-                        return {"rating": rating, "votes": votes, "success": True}
-            except Exception:
-                continue
-                
-        # 2. Fallback to WPRM classes
-        avg_el = soup.find(class_="wprm-recipe-rating-average") or soup.find(class_="recipe-rating-average")
-        count_el = soup.find(class_="wprm-recipe-rating-count") or soup.find(class_="recipe-rating-count")
-        if avg_el:
-            try:
-                rating = float(avg_el.get_text(strip=True))
-                votes = int(count_el.get_text(strip=True)) if count_el else 0
-                return {"rating": rating, "votes": votes, "success": True}
-            except ValueError:
-                pass
-                
-        return {"rating": 0.0, "votes": 0, "success": False, "error": "No structured rating found"}
-    except Exception as e:
-        return {"rating": 0.0, "votes": 0, "success": False, "error": str(e)}
+try:
+    from scripts.rank_recipe_urls import (
+        calculate_bayesian_average,
+        extract_recipe_metadata,
+    )
+except ImportError:
+    from rank_recipe_urls import (
+        calculate_bayesian_average,
+        extract_recipe_metadata,
+    )
 
 def parse_cook_file(filepath):
     try:
@@ -104,7 +45,7 @@ def parse_cook_file(filepath):
                 line = f.readline()
                 if not line:
                     break
-                match = re.match(r'^>>\s*source:\s*(https?://\S+)', line, re.IGNORECASE)
+                match = re.match(r'^(?:>>\s*)?source:\s*(https?://\S+)', line, re.IGNORECASE)
                 if match:
                     return match.group(1).strip()
     except Exception:
@@ -115,8 +56,9 @@ def process_recipe(filepath, filename):
     url = parse_cook_file(filepath)
     if not url:
         return None
-        
+
     res = extract_recipe_metadata(url)
+    res["success"] = not res.get("error")
     res["file_path"] = filepath
     res["recipe_name"] = os.path.splitext(filename)[0]
     res["url"] = url

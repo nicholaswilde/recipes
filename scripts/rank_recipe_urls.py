@@ -13,98 +13,16 @@
 ################################################################################
 
 import sys
-import os
 import argparse
-import shutil
-import subprocess
-import urllib.request
-import urllib.error
 from bs4 import BeautifulSoup
 import re
 
 try:
-    from scripts.scrape_to_cook import extract_json_ld_recipe, fetch_via_browserless
+    from scripts.rank_recipes_bayesian import calculate_bayesian_average
+    from scripts.scrape_to_cook import extract_json_ld_recipe, fetch_html
 except ImportError:
-    from scrape_to_cook import extract_json_ld_recipe, fetch_via_browserless
-
-BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-    ),
-    "Accept": (
-        "text/html,application/xhtml+xml,application/xml;q=0.9,"
-        "image/avif,image/webp,*/*;q=0.8"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Sec-Fetch-User": "?1",
-}
-
-
-def calculate_bayesian_average(rating, votes, min_votes, prior_rating):
-    """Calculate weighted Bayesian rating."""
-    if votes + min_votes == 0:
-        return 0.0
-    return (votes * rating + min_votes * prior_rating) / (votes + min_votes)
-
-
-def _is_challenge_page(html):
-    """Detect common anti-bot interstitial pages that yield no recipe HTML."""
-    if not html:
-        return True
-    lower = html[:8000].lower()
-    return (
-        "<title>just a moment...</title>" in lower
-        or "cf-browser-verification" in lower
-        or "enable javascript and cookies to continue" in lower
-    )
-
-
-def _fetch_via_curl(url):
-    """Attempt HTTP/2 browser-like fetch via curl when urllib is blocked."""
-    curl_bin = shutil.which("curl")
-    if not curl_bin:
-        return None
-    cmd = [curl_bin, "-sL", "--fail", "--max-time", "20"]
-    for key, val in BROWSER_HEADERS.items():
-        cmd.extend(["-H", f"{key}: {val}"])
-    cmd.append(url)
-    res = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
-    if res.returncode == 0 and not _is_challenge_page(res.stdout):
-        return res.stdout
-    return None
-
-
-def fetch_html(url):
-    """Fetch HTML with browser headers, curl HTTP/2 fallback, and Browserless fallback."""
-    last_error = None
-    req = urllib.request.Request(url, headers=BROWSER_HEADERS)
-    try:
-        with urllib.request.urlopen(req, timeout=15) as response:
-            html = response.read().decode("utf-8", errors="replace")
-            if not _is_challenge_page(html):
-                return html
-            last_error = RuntimeError("HTTP challenge page returned")
-    except urllib.error.HTTPError as e:
-        if e.code not in (401, 403, 429):
-            raise
-        last_error = e
-
-    curl_html = _fetch_via_curl(url)
-    if curl_html:
-        return curl_html
-
-    browserless_url = os.environ.get("BROWSERLESS_URL", "http://localhost:3000")
-    if browserless_url:
-        bl_html = fetch_via_browserless(url, browserless_url)
-        if bl_html and not _is_challenge_page(bl_html):
-            return bl_html
-
-    raise last_error
+    from rank_recipes_bayesian import calculate_bayesian_average
+    from scrape_to_cook import extract_json_ld_recipe, fetch_html
 
 
 def _parse_int(value):

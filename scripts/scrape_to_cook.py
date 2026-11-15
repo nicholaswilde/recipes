@@ -17,6 +17,10 @@ import re
 import os
 import argparse
 import json
+import shutil
+import subprocess
+import threading
+import urllib.error
 import urllib.request
 import urllib.parse
 from bs4 import BeautifulSoup
@@ -237,10 +241,65 @@ def resolve_category(category_name):
         
     return "main"
 
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
+
+_BROWSERLESS_SEMAPHORE = threading.Semaphore(4)
+
+
+def _is_challenge_page(html):
+    """Detect anti-bot interstitial pages that contain no recipe HTML."""
+    if not html:
+        return True
+    lower = html[:8000].lower()
+    return (
+        "<title>just a moment...</title>" in lower
+        or "cf-browser-verification" in lower
+        or "enable javascript and cookies to continue" in lower
+    )
+
+
+def _fetch_via_curl(url, output_path=None):
+    """Attempt HTTP/2 browser-like fetch via curl when urllib is blocked."""
+    curl_bin = shutil.which("curl")
+    if not curl_bin:
+        return None
+    cmd = [curl_bin, "-sL", "--fail", "--max-time", "20"]
+    for key, val in BROWSER_HEADERS.items():
+        cmd.extend(["-H", f"{key}: {val}"])
+    if output_path:
+        cmd.extend(["-o", output_path])
+    cmd.append(url)
+    res = subprocess.run(cmd, capture_output=True, text=not output_path, timeout=25)
+    if res.returncode != 0:
+        return None
+    if output_path:
+        return True
+    if not _is_challenge_page(res.stdout):
+        return res.stdout
+    return None
+
+
 def fetch_via_browserless(url, browserless_url="http://localhost:3000"):
-    try:
-        endpoint = f"{browserless_url.rstrip('/')}/function"
-        fn_code = f"""
+    """Fetch rendered HTML through a local Browserless Chromium instance."""
+    with _BROWSERLESS_SEMAPHORE:
+        try:
+            endpoint = f"{browserless_url.rstrip('/')}/function"
+            fn_code = f"""
 export default async ({{ page }}) => {{
   await page.setUserAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36");
   await page.setExtraHTTPHeaders({{
@@ -253,18 +312,20 @@ export default async ({{ page }}) => {{
   return await page.content();
 }};
 """
-        req = urllib.request.Request(
-            endpoint,
-            data=fn_code.encode("utf-8"),
-            headers={"Content-Type": "application/javascript"}
-        )
-        with urllib.request.urlopen(req, timeout=35) as response:
-            return response.read().decode("utf-8")
-    except Exception as e:
-        print(f"Browserless fetch failed: {e}", file=sys.stderr)
-        return None
+            req = urllib.request.Request(
+                endpoint,
+                data=fn_code.encode("utf-8"),
+                headers={"Content-Type": "application/javascript"},
+            )
+            with urllib.request.urlopen(req, timeout=35) as response:
+                return response.read().decode("utf-8")
+        except Exception as e:
+            print(f"Browserless fetch failed: {e}", file=sys.stderr)
+            return None
 
-def fetch_html(url):
+
+def fetch_html(url, timeout=15):
+    """Fetch HTML from a local file or URL, falling back to curl and Browserless on 403/challenges."""
     if url.startswith("file://"):
         path = urllib.request.url2pathname(url[7:])
         with open(path, "r", encoding="utf-8") as f:
@@ -273,27 +334,43 @@ def fetch_html(url):
         with open(url, "r", encoding="utf-8") as f:
             return f.read()
 
-    # If domain is known to block basic scrapers, or if requested, try browserless first
     browserless_env = os.environ.get("BROWSERLESS_URL", "http://localhost:3000")
-    is_protected_site = any(domain in url for domain in ["allrecipes.com", "nytimes.com", "cooking.nytimes.com"])
+    is_protected_site = any(
+        domain in url for domain in ["allrecipes.com", "nytimes.com", "cooking.nytimes.com"]
+    )
 
     if is_protected_site and browserless_env:
         html = fetch_via_browserless(url, browserless_env)
-        if html:
+        if html and not _is_challenge_page(html):
             return html
 
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    req = urllib.request.Request(url, headers=headers)
+    last_error = None
+    req = urllib.request.Request(url, headers=BROWSER_HEADERS)
     try:
-        with urllib.request.urlopen(req) as response:
-            return response.read().decode('utf-8')
-    except urllib.error.HTTPError as e:
-        if e.code in (401, 403, 429) and browserless_env:
-            print(f"HTTP {e.code} received for {url}. Attempting fetch via Browserless...", file=sys.stderr)
-            html = fetch_via_browserless(url, browserless_env)
-            if html:
+        with urllib.request.urlopen(req, timeout=timeout) as response:
+            html = response.read().decode("utf-8", errors="replace")
+            if not _is_challenge_page(html):
                 return html
-        raise
+            last_error = RuntimeError("HTTP challenge page returned")
+    except urllib.error.HTTPError as e:
+        if e.code not in (401, 403, 429):
+            raise
+        last_error = e
+
+    curl_html = _fetch_via_curl(url)
+    if curl_html:
+        return curl_html
+
+    if browserless_env:
+        print(
+            f"Fetch blocked for {url}. Attempting fetch via Browserless...",
+            file=sys.stderr,
+        )
+        html = fetch_via_browserless(url, browserless_env)
+        if html and not _is_challenge_page(html):
+            return html
+
+    raise last_error
 
 def find_recipe_in_json(data):
     if isinstance(data, dict):
@@ -564,12 +641,22 @@ def scrape_recipe(html, source_url):
 
     return None
 
+def download_file(url, output_path, timeout=20):
+    """Download a binary file using browser headers, falling back to curl on 401/403/429."""
+    req = urllib.request.Request(url, headers=BROWSER_HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as response:
+            with open(output_path, "wb") as f:
+                f.write(response.read())
+    except urllib.error.HTTPError as e:
+        if e.code in (401, 403, 429) and _fetch_via_curl(url, output_path=output_path):
+            return
+        raise
+
+
 def download_image(url, output_path):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as response:
-        with open(output_path, "wb") as f:
-            f.write(response.read())
+    """Download an image file to output_path."""
+    download_file(url, output_path)
 
 def tag_cookware(step_text):
     keywords = sorted(COMMON_COOKWARE_KEYWORDS, key=len, reverse=True)

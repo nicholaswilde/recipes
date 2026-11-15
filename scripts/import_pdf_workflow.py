@@ -15,18 +15,21 @@
 import sys
 import os
 import argparse
-import urllib.request
 import subprocess
 import tempfile
 import re
 from PIL import Image
 
+try:
+    from scripts.scrape_to_cook import download_file as _download_file
+except ImportError:
+    from scrape_to_cook import download_file as _download_file
+
+
 def download_file(url, dest):
+    """Download a PDF file using shared browser headers and curl fallback."""
     print(f"Downloading {url} silently...")
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as response, open(dest, 'wb') as out_file:
-        out_file.write(response.read())
+    _download_file(url, dest)
     print("Download completed successfully.")
 
 def check_hero_image_requested(issue_number):
