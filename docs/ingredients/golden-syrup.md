@@ -7,6 +7,7 @@ serves: 24
 prep time: 5 minutes
 cook time: 1 hour
 total time: 1 hour 5 minutes
+hero: assets/images/golden-syrup.webp
 ---
 
 # :candy: Golden Syrup

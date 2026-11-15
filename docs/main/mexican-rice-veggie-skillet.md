@@ -12,6 +12,7 @@ servings: 4
 prep time: 10 minutes
 cook time: 20 minutes
 total time: 30 minutes
+hero: assets/images/mexican-rice-veggie-skillet.webp
 ---
 
 # :rice: Mexican Rice Veggie Skillet

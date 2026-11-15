@@ -14,6 +14,7 @@ servings: 8
 prep time: 10 minutes
 cook time: 30 minutes
 total time: 40 minutes
+hero: assets/images/english-shortbread.webp
 ---
 
 # :cookie: English Shortbread

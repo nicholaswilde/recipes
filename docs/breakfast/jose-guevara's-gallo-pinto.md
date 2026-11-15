@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - breakfast
-hero: assets/images/jose-guevara's-gallo-pinto.png
+hero: assets/images/jose-guevara's-gallo-pinto.webp
 ---
 
 # :stuffed_flatbread: Jose Guevara's Gallo Pinto
 
-![Jose Guevara's Gallo Pinto](../assets/images/jose-guevara's-gallo-pinto.png){ loading=lazy }
+![Jose Guevara's Gallo Pinto](../assets/images/jose-guevara's-gallo-pinto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

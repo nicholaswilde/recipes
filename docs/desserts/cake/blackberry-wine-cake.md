@@ -14,6 +14,7 @@ servings: 12
 prep time: 15 minutes
 cook time: 50 minutes
 total time: 2 hours 10 minutes
+hero: assets/images/blackberry-wine-cake.webp
 ---
 
 # :cake: Blackberry Wine Cake

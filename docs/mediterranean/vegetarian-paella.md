@@ -4,12 +4,12 @@ tags:
 
   - vegetarian
   - mediterranean
-hero: assets/images/vegetarian-paella.jpg
+hero: assets/images/vegetarian-paella.webp
 ---
 
 # :stew: Vegetarian Paella
 
-![Vegetarian Paella](../assets/images/vegetarian-paella.jpg){ loading=lazy }
+![Vegetarian Paella](../assets/images/vegetarian-paella.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

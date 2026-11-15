@@ -5,12 +5,12 @@ tags:
   - condiment
   - japanese
   - vegan
-hero: assets/images/vegan-mentsuyu.jpg
+hero: assets/images/vegan-mentsuyu.webp
 ---
 
 # :wine_glass: Vegan Mentsuyu
 
-![Vegan Mentsuyu](../../assets/images/vegan-mentsuyu.jpg){ loading=lazy }
+![Vegan Mentsuyu](../../assets/images/vegan-mentsuyu.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

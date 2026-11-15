@@ -13,6 +13,7 @@ servings: 16
 prep time: 10 minutes
 cook time: 25 minutes
 total time: 2 hours
+hero: assets/images/old-fashioned-fudge.webp
 ---
 
 # :chocolate_bar: Old-Fashioned Fudge

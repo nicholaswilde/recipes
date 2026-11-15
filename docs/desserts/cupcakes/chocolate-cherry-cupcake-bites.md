@@ -14,6 +14,7 @@ servings: 48
 prep time: 20 minutes
 cook time: 17 minutes
 total time: 50 minutes
+hero: assets/images/chocolate-cherry-cupcake-bites.webp
 ---
 
 # :chocolate_bar: Chocolate Cherry Cupcake Bites

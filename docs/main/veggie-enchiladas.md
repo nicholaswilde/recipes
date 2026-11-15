@@ -11,6 +11,7 @@ servings: 6
 prep time: 20 minutes
 cook time: 25 minutes
 total time: 50 minutes
+hero: assets/images/veggie-enchiladas.webp
 ---
 
 # :stuffed_flatbread: Veggie Enchiladas

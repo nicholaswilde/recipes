@@ -12,6 +12,7 @@ servings: 6
 prep time: 10 minutes
 cook time: 15 minutes
 total time: 25 minutes
+hero: assets/images/skillet-rotini,-tomatoes-&-cheese.webp
 ---
 
 # :spaghetti: Skillet Rotini, Tomatoes & Cheese

@@ -9,6 +9,8 @@ hero: assets/images/preparation.webp
 
 # :butter: Tofu Preparation
 
+![Tofu Preparation][1]{ loading=lazy }
+
 ## :pencil: Terri's Quick and Easy Way
 
 After purchasing tofu in plastic container from the produce section of the grocery store, bring it home and place
@@ -23,3 +25,5 @@ hands, just like wringing out a sponge.
 ## :link: Source
 
 - Recipe Box
+
+[1]: <../../assets/images/preparation.webp>

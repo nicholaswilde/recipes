@@ -4,12 +4,12 @@ tags:
 
   - vegetarian
   - sauce
-hero: assets/images/vegetarian-sausage-gravy.jpg
+hero: assets/images/vegetarian-sausage-gravy.webp
 ---
 
 # :hotdog: Vegetarian Sausage Gravy
 
-![Vegetarian Sausage Gravy](../../assets/images/vegetarian-sausage-gravy.jpg){ loading=lazy }
+![Vegetarian Sausage Gravy](../../assets/images/vegetarian-sausage-gravy.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

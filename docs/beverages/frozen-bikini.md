@@ -13,6 +13,7 @@ servings: 1
 prep time: 5 minutes
 cook time: 0 minutes
 total time: 5 minutes
+hero: assets/images/frozen-bikini.webp
 ---
 
 # :clinking_glasses: Frozen Bikini

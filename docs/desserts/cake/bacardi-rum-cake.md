@@ -13,6 +13,7 @@ servings: 12
 prep time: 15 minutes
 cook time: 60 minutes
 total time: 2 hours
+hero: assets/images/bacardi-rum-cake.webp
 ---
 
 # :cake: Bacardi Rum Cake

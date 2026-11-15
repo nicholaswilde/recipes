@@ -9,6 +9,7 @@ servings: 8
 prep_time: 25 minutes
 cook_time: 40 minutes
 total_time: 1 hour 35 minutes
+hero: assets/images/treacle-tart.webp
 ---
 
 # :pie: Treacle Tart

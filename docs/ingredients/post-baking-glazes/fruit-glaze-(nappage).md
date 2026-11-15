@@ -5,12 +5,12 @@ tags:
   - glaze
   - ingredient
   - dominique-ansel
-hero: assets/images/fruit-glaze-(nappage).jpg
+hero: assets/images/fruit-glaze-(nappage).webp
 ---
 
 # :strawberry: Fruit Glaze (Nappage)
 
-![Fruit Glaze (Nappage)](../../assets/images/fruit-glaze-(nappage).jpg){ loading=lazy }
+![Fruit Glaze (Nappage)](../../assets/images/fruit-glaze-(nappage).webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

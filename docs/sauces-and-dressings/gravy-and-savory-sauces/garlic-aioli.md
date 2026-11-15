@@ -4,12 +4,12 @@ tags:
 
   - italian
   - sauce
-hero: assets/images/garlic-aioli.jpg
+hero: assets/images/garlic-aioli.webp
 ---
 
 # :garlic: Garlic Aioli
 
-![Garlic Aioli](../../assets/images/garlic-aioli.jpg){ loading=lazy }
+![Garlic Aioli](../../assets/images/garlic-aioli.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

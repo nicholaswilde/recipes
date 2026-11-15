@@ -5,12 +5,12 @@ tags:
   - dominique-ansel
   - pastry-dough
   - french
-hero: assets/images/dominique-ansel's-pâte-à-choux.jpg
+hero: assets/images/dominique-ansel's-pâte-à-choux.webp
 ---
 
 # :pie: Dominique Ansel's Pâte à Choux
 
-![Dominique Ansel's Pâte à Choux](../../assets/images/dominique-ansel's-pâte-à-choux.jpg){ loading=lazy }
+![Dominique Ansel's Pâte à Choux](../../assets/images/dominique-ansel's-pâte-à-choux.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

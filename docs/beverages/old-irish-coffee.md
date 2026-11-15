@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - beverage
-hero: assets/images/old-irish-coffee.jpg
+hero: assets/images/old-irish-coffee.webp
 ---
 
 # :coffee: Old Irish Coffee
 
-![Old Irish Coffee](../assets/images/old-irish-coffee.jpg){ loading=lazy }
+![Old Irish Coffee](../assets/images/old-irish-coffee.webp){ loading=lazy }
 
 ## :salt: Ingredients
 

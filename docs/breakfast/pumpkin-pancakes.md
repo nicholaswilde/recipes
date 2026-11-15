@@ -11,6 +11,7 @@ servings: 4
 prep time: 5 minutes
 cook time: 15 minutes
 total time: 20 minutes
+hero: assets/images/pumpkin-pancakes.webp
 ---
 
 # :pancakes: Pumpkin Pancakes

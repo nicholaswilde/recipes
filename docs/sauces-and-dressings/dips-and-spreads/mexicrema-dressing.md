@@ -5,12 +5,12 @@ tags:
   - dressing
   - mexican
   - nutrition-studies
-hero: assets/images/mexicrema-dressing.jpg
+hero: assets/images/mexicrema-dressing.webp
 ---
 
 # :avocado: Mexicrema Dressing
 
-![Mexicrema Dressing](../../assets/images/mexicrema-dressing.jpg){ loading=lazy }
+![Mexicrema Dressing](../../assets/images/mexicrema-dressing.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

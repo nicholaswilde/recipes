@@ -5,7 +5,7 @@ tags:
   - sauce
   - vegan
   - nutrition-studies
-hero: assets/images/creamy-vegan-cheese-sauce.jpg
+hero: assets/images/creamy-vegan-cheese-sauce.webp
 ---
 
 # :cheese_wedge: Creamy Vegan Cheese Sauce
@@ -60,4 +60,4 @@ refrigerator up to 2 weeks.
 
 - <https://nutritionstudies.org/recipes/appetizer/loaded-vegan-potato-skins/>
 
-[1]: <../../assets/images/creamy-vegan-cheese-sauce.jpg>
+[1]: <../../assets/images/creamy-vegan-cheese-sauce.webp>

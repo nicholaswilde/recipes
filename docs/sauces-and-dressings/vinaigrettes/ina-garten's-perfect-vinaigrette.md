@@ -4,12 +4,12 @@ tags:
 
   - dressing
   - ina-garten
-hero: assets/images/ina-garten's-perfect-vinaigrette.jpg
+hero: assets/images/ina-garten's-perfect-vinaigrette.webp
 ---
 
 # :champagne: Ina Garten's Perfect Vinaigrette
 
-![Ina Garten's Perfect Vinaigrette](../../assets/images/ina-garten's-perfect-vinaigrette.jpg){ loading=lazy }
+![Ina Garten's Perfect Vinaigrette](../../assets/images/ina-garten's-perfect-vinaigrette.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

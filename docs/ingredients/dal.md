@@ -7,6 +7,8 @@ hero: assets/images/dal.webp
 
 # :beans: Dal (Dried Legumes)
 
+![Dal][1]{ loading=lazy }
+
 Dal refers to various dried, split pulses (legumes) such as lentils, peas, and beans.
 
 ## :beans: Varieties
@@ -19,3 +21,5 @@ Dal refers to various dried, split pulses (legumes) such as lentils, peas, and b
 ## :link: Source
 
 - [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)
+
+[1]: <../assets/images/dal.webp>

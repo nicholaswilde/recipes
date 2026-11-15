@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - jean-pierre
-hero: assets/images/mushroom-sauce.jpg
+hero: assets/images/mushroom-sauce.webp
 ---
 
 # :mushroom: Mushroom Sauce
 
-![Mushroom Sauce](../../assets/images/mushroom-sauce.jpg){ loading=lazy }
+![Mushroom Sauce](../../assets/images/mushroom-sauce.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

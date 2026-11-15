@@ -7,6 +7,8 @@ hero: assets/images/eggs.webp
 
 # :egg: Eggs
 
+![Eggs][1]{ loading=lazy }
+
 Standard large eggs are used in many recipes as a binder or for leavening.
 
 ## :timer_clock: Storage
@@ -17,3 +19,5 @@ Standard large eggs are used in many recipes as a binder or for leavening.
 ## :link: Sources
 
 - [Egg Substitutes](../reference/equivalents-and-substitutes.md#eggs)
+
+[1]: <../assets/images/eggs.webp>

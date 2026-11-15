@@ -5,7 +5,7 @@ tags:
   - salsa
   - mexican
   - the-gracias-madre-cookbook
-hero: assets/images/salsa-verde.jpg
+hero: assets/images/salsa-verde.webp
 ---
 
 # :tomato: Salsa Verde
@@ -50,4 +50,4 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/salsa-verde.jpg>
+[1]: <../../assets/images/salsa-verde.webp>

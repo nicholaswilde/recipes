@@ -4,7 +4,7 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg
+hero: assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.webp
 ---
 
 # :broccoli: Charred Brussels Sprouts with Walnuts & Gorgonzola
@@ -58,4 +58,4 @@ Transfer to a large bowl. Add Brussels sprouts, walnuts, crumbled Gorgonzola, an
 
 - Recipe Box
 
-[1]: <../../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.jpg>
+[1]: <../../assets/images/charred-brussels-sprouts-with-walnuts-&-gorgonzola.webp>

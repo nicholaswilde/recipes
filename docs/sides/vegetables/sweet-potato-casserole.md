@@ -14,6 +14,7 @@ servings: 12
 prep time: 25 minutes
 cook time: 75 minutes
 total time: 1 hour 40 minutes
+hero: assets/images/sweet-potato-casserole.webp
 ---
 
 # :sweet_potato: Sweet Potato Casserole

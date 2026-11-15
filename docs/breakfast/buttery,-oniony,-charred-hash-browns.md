@@ -5,6 +5,7 @@ tags:
 source: The Food Lab
 author: J. Kenji López-Alt
 serves: 4
+hero: assets/images/buttery,-oniony,-charred-hash-browns.webp
 ---
 
 # :potato: Buttery, Oniony, Charred Hash Browns

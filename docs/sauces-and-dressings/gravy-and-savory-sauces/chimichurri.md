@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - sauce
-hero: assets/images/chimichurri.jpg
+hero: assets/images/chimichurri.webp
 ---
 
 # :herb: Chimichurri
 
-![Chimichurri](../../assets/images/chimichurri.jpg){ loading=lazy }
+![Chimichurri](../../assets/images/chimichurri.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -14,6 +14,7 @@ serves: 6
 prep time: 20 minutes
 cook time: 25 minutes
 total time: 45 minutes
+hero: assets/images/the-best-corn-chowder.webp
 ---
 
 # :corn: The Best Corn Chowder

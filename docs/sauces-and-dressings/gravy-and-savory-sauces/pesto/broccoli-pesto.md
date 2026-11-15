@@ -5,12 +5,12 @@ tags:
   - sauce
   - pesto
   - magnolia
-hero: assets/images/broccoli-pesto.jpg
+hero: assets/images/broccoli-pesto.webp
 ---
 
 # :herb: Broccoli Pesto
 
-![Broccoli Pesto](../../../assets/images/broccoli-pesto.jpg){ loading=lazy }
+![Broccoli Pesto](../../../assets/images/broccoli-pesto.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

@@ -13,6 +13,7 @@ servings: 16
 prep time: 25 minutes
 cook time: 27 minutes
 total time: 1 hour 30 minutes
+hero: assets/images/caramel-layer-cake.webp
 ---
 
 # :cake: Caramel Layer Cake

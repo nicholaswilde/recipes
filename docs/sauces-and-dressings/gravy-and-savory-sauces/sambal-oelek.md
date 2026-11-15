@@ -5,12 +5,12 @@ tags:
   - vegetarian
   - vegan
   - condiments
-hero: assets/images/sambal-oelek.png
+hero: assets/images/sambal-oelek.webp
 ---
 
 # :hot_pepper: Sambal Oelek
 
-![Sambal Oelek](../../assets/images/sambal-oelek.png){ loading=lazy }
+![Sambal Oelek](../../assets/images/sambal-oelek.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

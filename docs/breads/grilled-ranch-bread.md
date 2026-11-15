@@ -11,6 +11,7 @@ servings: 8
 prep time: 5 minutes
 cook time: 5 minutes
 total time: 10 minutes
+hero: assets/images/grilled-ranch-bread.webp
 ---
 
 # :bread: Grilled Ranch Bread

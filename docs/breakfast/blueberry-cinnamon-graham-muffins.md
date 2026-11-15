@@ -12,6 +12,7 @@ servings: 12
 prep time: 15 minutes
 cook time: 20 minutes
 total time: 35 minutes
+hero: assets/images/blueberry-cinnamon-graham-muffins.webp
 ---
 
 # :cupcake: Blueberry-Cinnamon Graham Muffins

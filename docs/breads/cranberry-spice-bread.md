@@ -13,7 +13,9 @@ servings: 16
 prep time: 15 minutes
 cook time: 60 minutes
 total time: 1 hour 15 minutes
+hero: assets/images/cranberry-spice-bread.webp
 ---
+
 # :bread: Cranberry Spice Bread
 
 ![Cranberry Spice Bread][1]{ loading=lazy }
@@ -65,4 +67,3 @@ Bake at 350 °F for 1 hour until a toothpick inserted into the center comes out 
 - Recipe Box
 
 [1]: <../assets/images/cranberry-spice-bread.webp>
-

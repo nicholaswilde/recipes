@@ -5,12 +5,12 @@ tags:
   - asian
   - sauce
   - joy-of-cooking
-hero: assets/images/asian-sweet-and-sour-sauce.jpg
+hero: assets/images/asian-sweet-and-sour-sauce.webp
 ---
 
 # :takeout_box: Asian Sweet-&-Sour Sauce
 
-![Asian Sweet-and-Sour Sauce](../../assets/images/asian-sweet-and-sour-sauce.jpg){ loading=lazy }
+![Asian Sweet-and-Sour Sauce](../../assets/images/asian-sweet-and-sour-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

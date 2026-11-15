@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/pumpkin-seed-salsa.jpg
+hero: assets/images/pumpkin-seed-salsa.webp
 ---
 
 # :jack_o_lantern: Pumpkin Seed Salsa
@@ -47,5 +47,5 @@ Store in a sealed container in the refrigerator for up to 1 week.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/pumpkin-seed-salsa.jpg>
+[1]: <../../assets/images/pumpkin-seed-salsa.webp>
 [2]: <../../sauces-and-dressings/salsas/salsa-verde.md>

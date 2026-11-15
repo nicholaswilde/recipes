@@ -7,6 +7,7 @@ tags:
 source: Applied Kitchen
 serves: 6
 total time: 1.5 hours
+hero: assets/images/tomato-basil-bisque.webp
 ---
 
 # :tomato: Tomato Basil Bisque

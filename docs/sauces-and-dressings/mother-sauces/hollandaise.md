@@ -4,12 +4,12 @@ tags:
 
   - mother-sauce
   - french
-hero: assets/images/hollandaise.jpg
+hero: assets/images/hollandaise.webp
 ---
 
 # :egg: Hollandaise
 
-![Hollandaise](../../assets/images/hollandaise.jpg){ loading=lazy }
+![Hollandaise](../../assets/images/hollandaise.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

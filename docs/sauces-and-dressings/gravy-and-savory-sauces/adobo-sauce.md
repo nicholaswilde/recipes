@@ -5,12 +5,12 @@ tags:
   - sauce
 source: https://keviniscooking.com/how-to-make-adobo-sauce/
 author: Kevin Westing
-hero: assets/images/adobo-sauce.jpg
+hero: assets/images/adobo-sauce.webp
 ---
 
 # :tomato: Adobo Sauce
 
-![Adobo Sauce](../../assets/images/adobo-sauce.jpg){ loading=lazy }
+![Adobo Sauce](../../assets/images/adobo-sauce.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

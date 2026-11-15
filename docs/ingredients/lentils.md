@@ -7,6 +7,8 @@ hero: assets/images/lentils.webp
 
 # :beans: Lentils
 
+![Lentils][1]{ loading=lazy }
+
 Lentils are small, lens-shaped legumes available in various colors and textures.
 
 ## :beans: Varieties
@@ -24,3 +26,5 @@ Lentils are small, lens-shaped legumes available in various colors and textures.
 ## :link: Source
 
 - [Instant Pot Pressure Cooker Reference](../reference/pressure-cooker.md)
+
+[1]: <../assets/images/lentils.webp>

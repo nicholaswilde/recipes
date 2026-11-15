@@ -5,7 +5,7 @@ tags:
   - sauce
   - oil-free
   - nutrition-studies
-hero: assets/images/oil-free-hummus.jpg
+hero: assets/images/oil-free-hummus.webp
 ---
 
 # :falafel: Oil-Free Hummus
@@ -46,5 +46,5 @@ Add water if needed.
 
 - <https://nutritionstudies.org/recipes/appetizer/oil-free-hummus-spread/>
 
-[1]: <../../assets/images/oil-free-hummus.jpg>
+[1]: <../../assets/images/oil-free-hummus.webp>
 [2]: <../../ingredients/chickpeas.md>

@@ -14,6 +14,7 @@ servings: 6
 prep time: 20 minutes
 cook time: 60 minutes
 total time: 1 hour 20 minutes
+hero: assets/images/roasted-autumn-vegetables.webp
 ---
 
 # :carrot: Roasted Autumn Vegetables

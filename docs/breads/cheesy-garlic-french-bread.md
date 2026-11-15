@@ -12,6 +12,7 @@ servings: 8
 prep time: 10 minutes
 cook time: 5 minutes
 total time: 15 minutes
+hero: assets/images/cheesy-garlic-french-bread.webp
 ---
 
 # :garlic: Cheesy Garlic French Bread

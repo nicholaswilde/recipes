@@ -12,6 +12,7 @@ servings: 8
 prep time: 15 minutes
 cook time: 0 minutes
 total time: 1 hour 15 minutes
+hero: assets/images/sand-cups.webp
 ---
 
 # :custard: Sand Cups

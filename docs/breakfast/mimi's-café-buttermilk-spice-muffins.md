@@ -12,6 +12,7 @@ servings: 12
 prep time: 15 minutes
 cook time: 25 minutes
 total time: 40 minutes
+hero: assets/images/mimi's-café-buttermilk-spice-muffins.webp
 ---
 
 # :cupcake: Mimi's Café Buttermilk Spice Muffins

@@ -72,4 +72,4 @@ flattening between your palms.
 
 - <https://www.kingarthurbaking.com/recipes/skillet-flatbreads-recipe>
 
-[1]: <../assets/images/naan.webp>
+[1]: <../assets/images/skillet-flatbread.webp>

@@ -14,6 +14,7 @@ servings: 42
 prep time: 20 minutes
 cook time: 12 minutes
 total time: 1 hour 30 minutes
+hero: assets/images/rolled-butter-cookies.webp
 ---
 
 # :butter: Rolled Butter Cookies

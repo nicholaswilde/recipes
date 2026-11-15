@@ -12,6 +12,7 @@ servings: 8
 prep time: 25 minutes
 cook time: 50 minutes
 total time: 1 hour 25 minutes
+hero: assets/images/cheesy-classic-lasagna.webp
 ---
 
 # :spaghetti: Cheesy Classic Lasagna

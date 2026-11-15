@@ -4,7 +4,7 @@ tags:
   - sides
 comments: true
 
-hero: assets/images/america's-test-kitchen-best-baked-sweet-potatoes.jpg
+hero: assets/images/america's-test-kitchen-best-baked-sweet-potatoes.webp
 ---
 
 # :sweet_potato: America's Test Kitchen Best Baked Sweet Potatoes
@@ -40,4 +40,4 @@ Once nuked, transfer the sweet potato to a 425°F oven for 1 hour.
 
 - <https://www.americastestkitchen.com/articles/4039-for-better-baked-sweet-potatoes-first-use-your-microwave>
 
-[1]: <../../assets/images/america's-test-kitchen-best-baked-sweet-potatoes.jpg>
+[1]: <../../assets/images/america's-test-kitchen-best-baked-sweet-potatoes.webp>

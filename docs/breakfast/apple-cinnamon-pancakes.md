@@ -12,7 +12,9 @@ servings: 4
 prep time: 10 minutes
 cook time: 10 minutes
 total time: 20 minutes
+hero: assets/images/apple-cinnamon-pancakes.webp
 ---
+
 # :apple: Apple Cinnamon Pancakes
 
 ![Apple Cinnamon Pancakes][1]{ loading=lazy }
@@ -58,4 +60,3 @@ Top with pancake syrup and sweetened cinnamon applesauce and serve.
 - Recipe Box
 
 [1]: <../assets/images/apple-cinnamon-pancakes.webp>
-

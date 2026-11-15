@@ -12,6 +12,7 @@ servings: 4
 prep time: 10 minutes
 cook time: 30 minutes
 total time: 40 minutes
+hero: assets/images/pumpkin-risotto.webp
 ---
 
 # :jack_o_lantern: Pumpkin Risotto

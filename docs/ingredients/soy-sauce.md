@@ -7,6 +7,8 @@ hero: assets/images/soy-sauce.webp
 
 # :takeout_box: Soy Sauce
 
+![Soy Sauce][1]{ loading=lazy }
+
 A traditional fermented condiment made from soybeans, roasted grain, brine, and Aspergillus oryzae or
 Aspergillus sojae molds.
 
@@ -18,3 +20,5 @@ Aspergillus sojae molds.
 ## :link: Source
 
 - <https://www.acouplecooks.com/soy-sauce-substitute/>
+
+[1]: <../assets/images/soy-sauce.webp>

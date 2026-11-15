@@ -5,12 +5,12 @@ tags:
   - dessert
   - cake
   - king-arthur
-hero: assets/images/yule-log-(classic-bûche-de-noël).jpg
+hero: assets/images/yule-log-(classic-bûche-de-noël).webp
 ---
 
 # :wood: Yule Log (Classic Bûche de Noël)
 
-![Yule Log (Classic Bûche de Noël)](../../assets/images/yule-log-(classic-bûche-de-noël).jpg){ loading=lazy }
+![Yule Log (Classic Bûche de Noël)](../../assets/images/yule-log-(classic-bûche-de-noël).webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

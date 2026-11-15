@@ -12,6 +12,7 @@ servings: 12
 prep time: 15 minutes
 cook time: 35 minutes
 total time: 60 minutes
+hero: assets/images/spinach-cheese-squares.webp
 ---
 
 # :cheese_wedge: Spinach Cheese Squares

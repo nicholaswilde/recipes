@@ -7,6 +7,7 @@ serves: 4
 prep time: 10 minutes
 cook time: 35 minutes
 total time: 165 minutes
+hero: assets/images/sweet-molasses-bread.webp
 ---
 
 # :bread: Sweet Molasses Bread

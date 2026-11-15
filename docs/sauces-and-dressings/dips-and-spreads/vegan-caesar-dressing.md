@@ -5,7 +5,7 @@ tags:
   - vegan
   - dressing
   - minimalist-baker
-hero: assets/images/vegan-caesar-dressing.jpg
+hero: assets/images/vegan-caesar-dressing.webp
 ---
 
 # :green_salad: Vegan Caesar Dressing
@@ -61,6 +61,6 @@ Brussels sprouts and potatoes. Top with a little [vegan Parmesan cheese][3] for 
 
 - <https://minimalistbaker.com/5-minute-vegan-caesar-dressing/>
 
-[1]: <../../assets/images/vegan-caesar-dressing.jpg>
+[1]: <../../assets/images/vegan-caesar-dressing.webp>
 [2]: <../../sauces-and-dressings/dips-and-spreads/hummus.md>
 [3]: <../../ingredients/vegan-parmesan.md>

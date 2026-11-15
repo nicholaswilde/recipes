@@ -4,7 +4,7 @@ tags:
 
   - sauce
   - the-gracias-madre-cookbook
-hero: assets/images/cashew-crema.jpg
+hero: assets/images/cashew-crema.webp
 ---
 
 # :rice: Cashew Crema
@@ -67,4 +67,4 @@ Refrigerate in an airtight container for up to 5 days.
 
 - The Gracias Madre Cookbook
 
-[1]: <../../assets/images/cashew-crema.jpg>
+[1]: <../../assets/images/cashew-crema.webp>

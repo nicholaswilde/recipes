@@ -13,6 +13,7 @@ tags:
 - recipe-box
 - vegetarian
 comments: true
+hero: assets/images/crispy-bbq-sweet-potatoes.webp
 ---
 
 # :potato: Crispy BBQ Sweet Potatoes

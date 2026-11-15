@@ -3,12 +3,12 @@ comments: true
 tags:
 
   - side
-hero: assets/images/pommes-mont-d'or.jpg
+hero: assets/images/pommes-mont-d'or.webp
 ---
 
 # :potato: Pommes Mont D'or
 
-![Pommes Mont D'or](../../assets/images/pommes-mont-d'or.jpg){ loading=lazy }
+![Pommes Mont D'or](../../assets/images/pommes-mont-d'or.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

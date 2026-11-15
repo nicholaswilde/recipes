@@ -4,12 +4,12 @@ tags:
 
   - condiment
   - sauce
-hero: assets/images/sweet-and-spicy-ketchup.jpg
+hero: assets/images/sweet-and-spicy-ketchup.webp
 ---
 
 # :tomato: Sweet-and-Spicy Ketchup
 
-![Sweet-and-Spicy Ketchup](../../assets/images/sweet-and-spicy-ketchup.jpg){ loading=lazy }
+![Sweet-and-Spicy Ketchup](../../assets/images/sweet-and-spicy-ketchup.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

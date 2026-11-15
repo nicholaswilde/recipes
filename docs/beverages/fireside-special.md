@@ -14,6 +14,7 @@ servings: 1
 prep time: 5 minutes
 cook time: 0 minutes
 total time: 5 minutes
+hero: assets/images/fireside-special.webp
 ---
 
 # :coffee: Fireside Special

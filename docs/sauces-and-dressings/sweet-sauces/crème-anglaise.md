@@ -4,12 +4,12 @@ tags:
 
   - sauce
   - french
-hero: assets/images/crème-anglaise.jpg
+hero: assets/images/crème-anglaise.webp
 ---
 
 # :egg: Crème Anglaise
 
-![Crème Anglaise](../../assets/images/crème-anglaise.jpg){ loading=lazy }
+![Crème Anglaise](../../assets/images/crème-anglaise.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
