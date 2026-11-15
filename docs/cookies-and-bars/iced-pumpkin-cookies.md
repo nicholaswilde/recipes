@@ -89,5 +89,6 @@ Drizzle or spread the glaze over the cooled cookies. Let the glaze set before se
 ## :link: Source
 
 - <https://www.allrecipes.com/recipe/10033/iced-pumpkin-cookies/>
+- <https://www.allrecipes.com/best-pumpkin-dessert-8714402>
 
 [1]: <../assets/images/iced-pumpkin-cookies.webp>
