@@ -16,24 +16,24 @@ hero: assets/images/andrew-kings-pasta-salad.webp
 
 ## :salt: Ingredients
 
-- 1 box Farfalle (bow tie) pasta
-- 1 12-oz can black olives
-- 1 12-oz can garbanzo beans
-- 1 package mozzarella pearls
-- 1 container cherry tomatoes
-- 0.5 jar marinated artichoke hearts
-- 0.5 jar sliced pepperoncinis
-- 0.5 red onion (optional)
-- 1 bell pepper (optional)
-- 16 oz Light Olive Garden Dressing
-- 10 basil leaves
-- 1 shredded Parmesan
-- 1 sea salt
-- 1 fine black pepper
+- :spaghetti: 1 box Farfalle (bow tie) pasta
+- :olive: 1 12-oz can black olives
+- :beans: 1 12-oz can garbanzo beans
+- :cheese_wedge: 1 package mozzarella pearls
+- :tomato: 1 container cherry tomatoes
+- :leafy_green: 0.5 jar marinated artichoke hearts
+- :hot_pepper: 0.5 jar sliced pepperoncinis
+- :onion: 0.5 red onion (optional)
+- :bell_pepper: 1 bell pepper (optional)
+- :green_salad: 16 oz Light Olive Garden Dressing
+- :herb: 10 basil leaves
+- :cheese_wedge: 1 shredded Parmesan
+- :salt: 1 sea salt
+- :salt: 1 fine black pepper
 
 ## :cooking: Cookware
 
-- 1 large bowl
+- :bowl_with_spoon: 1 large bowl
 
 ## :pencil: Instructions
 
