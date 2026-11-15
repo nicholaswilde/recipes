@@ -17,11 +17,11 @@ hero: assets/images/calabaza-and-onion-quesadillas.webp
 
 ## :salt: Ingredients
 
-- 8 [corn tortilla][5]
-- 2 cups [pumpkin filling][3]
-- 0.75 cup [cashew nacho cheese][6]
-- some [pumpkin seed salsa][4]
-- 1 cup [cashew crema][2]
+- :flatbread: 8 [corn tortilla][5]
+- :jack_o_lantern: 2 cups [pumpkin filling][3]
+- :cheese_wedge: 0.75 cup [cashew nacho cheese][6]
+- :tomato: some [pumpkin seed salsa][4]
+- :glass_of_milk: 1 cup [cashew crema][2]
 - :jack_o_lantern: 0.25 cup (57 g) [toasted pumpkin seeds][7]
 - :herb: 0.25 cup (10 g) fresh cilantro
 

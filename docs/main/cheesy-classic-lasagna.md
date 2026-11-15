@@ -27,15 +27,15 @@ total time: 1 hour 25 minutes
 - :cut_of_meat: 1 lb vegetarian Italian sausage
 - :tea: 0.5 cup (48 g) onion
 - :garlic: 1 garlic clove
-- 16 oz [tomato sauce](../sauces-and-dressings/gravy-and-savory-sauces/tomato-sauce.md)
-- 12 oz [tomato paste](../ingredients/tomato-paste.md)
+- :tomato: 16 oz [tomato sauce](../sauces-and-dressings/gravy-and-savory-sauces/tomato-sauce.md)
+- :tomato: 12 oz [tomato paste](../ingredients/tomato-paste.md)
 - :droplet: 1.5 cups (340 g) hot water
 - :herb: 1 tsp (2 g) dried basil leaves
 - :herb: 1 tsp (2 g) dried oregano leaves
 - :herb: 0.5 tsp (1 g) dried marjoram leaves
 - :blue_circle: 15 oz (225 g) [ricotta](../ingredients/ricotta.md) cheese
 - :cheese: 0.5 cup (50 g) Parmesan cheese
-- 3 [eggs](../ingredients/eggs.md)
+- :egg: 3 [eggs](../ingredients/eggs.md)
 - :salt: 0.5 tsp salt
 - :spaghetti: 8 oz lasagna noodles
 - :cheese: 2 cups (226 g) mozzarella cheese

@@ -16,11 +16,11 @@ hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 ## :salt: Ingredients
 
 - :ear_of_rice: 2 cups (340 g) cooked [lentils][2]
-- 2 [eggs][3]
+- :egg: 2 [eggs][3]
 - :blue_circle: 0.75 cup [ricotta cheese](../ingredients/ricotta.md)
-- 0.25 cup [Parmesan cheese][4]
+- :cheese_wedge: 0.25 cup [Parmesan cheese][4]
 - :garlic: 1 clove garlic
-- 0.5 tsp fennel seed
+- :seedling: 0.5 tsp fennel seed
 - :herb: 2 Tbsp parsley
 - :herb: 1 pinch thyme
 - :salt: 1 tsp salt
@@ -34,7 +34,7 @@ hero: assets/images/lentil-meatballs-with-lemon-pesto.webp
 - :herb: 1 cup (42 g) fresh basil
 - :olive: 0.33 cup (66 g) olive oil
 - :droplet: 2 Tbsp (28 g) water
-- 2 Tbsp [Parmesan cheese][4]
+- :cheese_wedge: 2 Tbsp [Parmesan cheese][4]
 
 ## :cooking: Cookware
 

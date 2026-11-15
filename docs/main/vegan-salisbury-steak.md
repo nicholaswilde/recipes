@@ -20,13 +20,13 @@ hero: assets/images/vegan-salisbury-steak.webp
 
 - :egg: 1 vegan egg replacer
 - :apple: 1 lb vegan ground beef
-- 0.5 cup [seasoned breadcrumbs][4]
+- :bread: 0.5 cup [seasoned breadcrumbs][4]
 - :glass_of_milk: 2 Tbsp (7 g) oat or unsweetened almond milk
-- 1 pkg [onion soup mix][2]
+- :onion: 1 pkg [onion soup mix][2]
 - :apple: 2 tsp (9 g) vegan Worcestershire sauce
 - :salt: 0.25 tsp (1 g) black pepper
 - :sweet_potato: 1 mashed potatoes
-- 1 [mushroom gravy][3]
+- :mushroom: 1 [mushroom gravy][3]
 
 ## :cooking: Cookware
 

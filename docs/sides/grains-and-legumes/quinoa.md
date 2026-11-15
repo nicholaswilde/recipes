@@ -19,17 +19,17 @@ hero: assets/images/quinoa.webp
 === "Serves 4"
 
     - :ear_of_rice: 0.75 cup (82 g) quinoa
-    - 1.25 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+    - :stew: 1.25 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 === "Serves 6"
 
     - :ear_of_rice: 1.2 cups (132 g) quinoa
-    - 1.9 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+    - :stew: 1.9 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 === "Serves 8"
 
     - :ear_of_rice: 1.5 cups (165 g) quinoa
-    - 2.5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
+    - :stew: 2.5 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
 
 ## :cooking: Cookware
 

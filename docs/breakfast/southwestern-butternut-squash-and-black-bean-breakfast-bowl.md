@@ -19,7 +19,7 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 
 === "Squash"
 
-    - 3 cups butternut squash
+    - :jack_o_lantern: 3 cups butternut squash
     - :olive: 1 Tbsp (12 g) vegetable oil
     - :salt: 0.5 tsp salt
     - :salt: 0.5 tsp pepper
@@ -28,7 +28,7 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 === "Beans"
 
     - :glass_of_milk: 1 15-oz can [black beans][3]
-    - 0.25 cup [enchilada sauce][2]
+    - :hot_pepper: 0.25 cup [enchilada sauce][2]
 
 === "Veggies"
 
@@ -44,7 +44,7 @@ hero: assets/images/southwestern-butternut-squash-and-black-bean-breakfast-bowl.
 
 === "For Serving"
 
-    - 0.25 cup [enchilada sauce][2]
+    - :hot_pepper: 0.25 cup [enchilada sauce][2]
 
 ## :cooking: Cookware
 

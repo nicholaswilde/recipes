@@ -18,13 +18,13 @@ hero: assets/images/green-goddess-dressing.webp
 ## :salt: Ingredients
 
 - :garlic: 2 Tbsp (20 g) shallots
-- 0.5 cup [mayonnaise][3]
+- :egg: 0.5 cup [mayonnaise][3]
 - :glass_of_milk: 1 cup (227 g) Greek yogurt
 - :herb: 1 oz (5 g) fresh basil
-- 2 Tbsp [basil pesto][2]
+- :herb: 2 Tbsp [basil pesto][2]
 - :wine_glass: 0.25 cup (36 g) white wine vinegar
 - :honey_pot: 4 tsp (28 g) agave syrup
-- 1 tsp [Dijon mustard][4]
+- :takeout_box: 1 tsp [Dijon mustard][4]
 - :salt: some salt
 - :salt: some pepper
 

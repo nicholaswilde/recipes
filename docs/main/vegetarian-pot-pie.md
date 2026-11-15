@@ -26,12 +26,12 @@ hero: assets/images/vegetarian-pot-pie.webp
 - :herb: 1.5 tsp (1 g) fresh rosemary
 - :salt: 1 tsp salt
 - :salt: 0.5 tsp pepper
-- 2 cups [vegetable broth][2]
+- :stew: 2 cups [vegetable broth][2]
 - :beans: 1 cup (150 g) frozen peas
 - :herb: 2 Tbsp parsley
 - :glass_of_milk: 0.25 cup (57 g) heavy cream
-- some [pie crust][3]
-- 1 medium [egg][4]
+- :pie: some [pie crust][3]
+- :egg: 1 medium [egg][4]
 - :droplet: 1 Tbsp (14 g) water
 
 ## :cooking: Cookware

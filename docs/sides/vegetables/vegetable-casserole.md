@@ -15,13 +15,13 @@ hero: assets/images/vegetable-casserole.webp
 
 ## :salt: Ingredients
 
-- 1 cup (121 g) zucchini
+- :cucumber: 1 cup (121 g) zucchini
 - :tomato: 1 large tomato
 - :tea: 1 medium onion
-- 0.33 cup [Parmesan cheese][2]
+- :cheese_wedge: 0.33 cup [Parmesan cheese][2]
 - :cheese_wedge: 0.5 cup reduced-fat [Bisquick](../../ingredients/bisquick.md)
 - :coconut: 1 cup (227 g) fat-free milk
-- 0.5 cup [egg substitute][3]
+- :egg: 0.5 cup [egg substitute][3]
 - :salt: some salt
 - :salt: some pepper
 

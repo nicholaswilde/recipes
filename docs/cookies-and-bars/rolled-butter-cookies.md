@@ -26,12 +26,12 @@ total time: 1 hour 30 minutes
 
 ## :salt: Ingredients
 
-- 1 cup [butter](../ingredients/butter/butter.md)
+- :butter: 1 cup [butter](../ingredients/butter/butter.md)
 - :candy: 1 cup (156 g) sugar
-- 2 [eggs](../ingredients/eggs.md)
-- 1 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
+- :egg: 2 [eggs](../ingredients/eggs.md)
+- :flower_playing_cards: 1 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
 - :bread: 2.5 cups (300 g) all-purpose flour
-- 1 tsp [baking powder](../ingredients/baking-powder.md)
+- :dash: 1 tsp [baking powder](../ingredients/baking-powder.md)
 - :salt: 0.5 tsp salt
 
 ## :cooking: Cookware

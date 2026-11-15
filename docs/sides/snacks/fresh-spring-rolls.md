@@ -34,14 +34,14 @@ hero: assets/images/fresh-spring-rolls.png
     - :cheese_wedge: 0.5 head lettuce
     - :shamrock: 0.75 cup mint
     - :herb: 0.75 cup (32 g) cilantro
-    - 1 cup carrots[^1]
-    - 0.5 head purple cabbage
+    - :carrot: 1 cup carrots[^1]
+    - :leafy_green: 0.5 head purple cabbage
     - :hot_pepper: 1 red bell pepper[^1]
-    - 0.5 cucumber[^1]
+    - :cucumber: 0.5 cucumber[^1]
     - :avocado: 1 avocado
     - :salt: some salt
     - :salt: some pepper
-    - 1 [peanut dipping sauce][1]
+    - :peanuts: 1 [peanut dipping sauce][1]
 
 ## :cooking: Cookware
 

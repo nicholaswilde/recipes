@@ -18,16 +18,16 @@ hero: assets/images/taco-bake.webp
 
 ## :salt: Ingredients
 
-- 2 tsp [taco seasoning][1]
+- :taco: 2 tsp [taco seasoning][1]
 - :herb: 0.5 tsp oregano
 - :chestnut: 1 tsp (3 g) cumin
 - :tea: 1 small onion
 - :garlic: 2 cloves minced garlic
 - :olive: some olive oil
 - :ear_of_rice: 2.5 cups (538 g) cooked lentils
-- 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :tomato: 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :droplet: 2 Tbsp (28 g) hot sauce
-- 12 hard taco shells
+- :taco: 12 hard taco shells
 - :cheese_wedge: some pepper jack cheese
 - :cheese_wedge: some shredded lettuce
 - :herb: some cilantro

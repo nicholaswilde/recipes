@@ -18,7 +18,7 @@ hero: assets/images/hearty-vegetarian-stew.webp
 ## :salt: Ingredients
 
 - :olive: some vegetable oil
-- 2 lbs butternut squash
+- :jack_o_lantern: 2 lbs butternut squash
 - :salt: some salt
 - :salt: some pepper
 - :bread: 2 Tbsp (12 g) flour
@@ -28,8 +28,8 @@ hero: assets/images/hearty-vegetarian-stew.webp
 - :wine_glass: 1 cup Marsala wine
 - :mushroom: 0.5 lb mushrooms
 - :wine_glass: 1 cup (210 g) red kidney beans
-- 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
-- 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
+- :tomato: 2 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :stew: 4 cups [Vegetable Broth](../ingredients/vegetable-broth.md)
 - :herb: 2 Tbsp parsley
 
 ## :cooking: Cookware

@@ -26,9 +26,9 @@ hero: assets/images/healthy-pasta-with-pesto-and-broccoli.webp
 - :droplet: 1 cup (145 g) pasta water
 - :olive: 1 Tbsp (12 g) olive oil
 - :garlic: 2 cloves garlic
-- 1 Tbsp [pesto][1]
-- 1 Tbsp [pesto][1]
-- 0.25 cup [pesto][1]
+- :herb: 1 Tbsp [pesto][1]
+- :herb: 1 Tbsp [pesto][1]
+- :herb: 0.25 cup [pesto][1]
 - :tea: 0.33 cup (56 g) sun-dried tomatoes
 - :salt: 1 salt
 - :salt: some black pepper

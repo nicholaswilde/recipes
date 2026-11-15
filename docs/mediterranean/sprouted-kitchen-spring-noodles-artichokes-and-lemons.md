@@ -21,15 +21,15 @@ hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.webp
 - :olive: 2 tsp (8 g) olive oil
 - :candy: 1 tsp (3 g) sugar
 - :butter: 2 Tbsp butter
-- 2 trimmed endives
+- :leafy_green: 2 trimmed endives
 - :garlic: 3 cloves garlic
-- 1 jar marinated artichokes
+- :leafy_green: 1 jar marinated artichokes
 - :wine_glass: 3 Tbsp balsamic vinegar
-- 10 Tbsp [crème fraîche][1]
+- :glass_of_milk: 10 Tbsp [crème fraîche][1]
 - :apple: 0.25 tsp nutmeg
 - :hot_pepper: 0.5 tsp cayenne
 - :herb: 1 tsp (2 g) Italian herbs
-- 12 oz orecchiette
+- :spaghetti: 12 oz orecchiette
 - :carrot: 1.25 cups (124 g) grated pecorino
 - :leafy_green: 3 cups arugula
 - :apple: some dill

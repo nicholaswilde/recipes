@@ -15,9 +15,9 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 
 ## :salt: Ingredients
 
-- 6 cups (1.4 kg) [vegetable broth][2]
+- :stew: 6 cups (1.4 kg) [vegetable broth][2]
 - :salt: some salt
-- 1.5 cups (244 g) polenta
+- :corn: 1.5 cups (244 g) polenta
 - :butter: 3 Tbsp butter
 - :cheese_wedge: 2 Tbsp (8 g) nutritional yeast
 - :salt: some black pepper
@@ -27,9 +27,9 @@ hero: assets/images/creamy-vegan-polenta-with-mushrooms-and-kale.webp
 - :herb: 2 tsp rosemary
 - :garlic: 4 cloves garlic
 - :hot_pepper: 1 pinch red-pepper flakes
-- 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
+- :tomato: 3 Tbsp [Tomato Paste](../ingredients/tomato-paste.md)
 - :wine_glass: 0.67 cup (141 g) red wine
-- 1 cup [vegetable broth][2]
+- :stew: 1 cup [vegetable broth][2]
 - :apple: 2 small bunches curly kale
 - :wine_glass: 1 tsp (4 g) red wine vinegar
 

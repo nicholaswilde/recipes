@@ -20,14 +20,14 @@ hero: assets/images/quick-couscous-chickpea-salad.webp
 === "serves 8"
 
     - :bread: 2 cups (192 g) whole wheat [couscous](../sides/grains-and-legumes/couscous.md)
-    - 2 cups [vegetable broth](../ingredients/vegetable-broth.md)
+    - :stew: 2 cups [vegetable broth](../ingredients/vegetable-broth.md)
     - :apple: 2 cans Greek chickpeas with Parsley and Cumin
     - :beans: 1 cup (96 g) green onion
     - :cheese_wedge: 1 cup (114 g) feta
     - :olive: 1 cup (142 g) Kalamata olives
     - :cucumber: 4 Persian cucumbers
     - :tomato: 2 cup (228 g) grape tomatoes
-    - some pepperoncini
+    - :hot_pepper: some pepperoncini
     - :salt: some salt
     - :salt: some pepper
     - :tangerine: some lemon juice
@@ -36,14 +36,14 @@ hero: assets/images/quick-couscous-chickpea-salad.webp
 === "serves 4"
 
     - :bread: 1 cup (96 g) whole wheat [couscous](../sides/grains-and-legumes/couscous.md)
-    - 1 cup [vegetable broth](../ingredients/vegetable-broth.md)
+    - :stew: 1 cup [vegetable broth](../ingredients/vegetable-broth.md)
     - :apple: 1 can Greek chickpeas with Parsley and Cumin
     - :beans: 0.5 cup (48 g) green onion
     - :cheese_wedge: 0.5 cup (57 g) feta
     - :olive: 0.5 cup (71 g) Kalamata olives
     - :cucumber: 2 Persian cucumbers
     - :tomato: 1 cup (114 g) grape tomatoes
-    - some pepperoncini
+    - :hot_pepper: some pepperoncini
     - :salt: some salt
     - :salt: some pepper
     - :tangerine: some lemon juice

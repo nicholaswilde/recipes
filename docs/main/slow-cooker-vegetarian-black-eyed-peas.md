@@ -20,12 +20,12 @@ hero: assets/images/slow-cooker-vegetarian-black-eyed-peas.webp
 - :tea: 1 cup (142 g) red onion, diced
 - :hot_pepper: 0.5 cup (64 g) red bell pepper (diced)
 - :hot_pepper: 0.5 cup (85 g) green bell pepper (diced)
-- 2 tsp Tabasco
+- :hot_pepper: 2 tsp Tabasco
 - :salt: 1 tsp salt
-- 1 tsp liquid smoke
+- :takeout_box: 1 tsp liquid smoke
 - :seedling: 1 tsp (3 g) yellow mustard
 - :herb: 1 bay leaf
-- 5 cups (1.15 kg) [vegetable broth][2]
+- :stew: 5 cups (1.15 kg) [vegetable broth][2]
 
 ## :cooking: Cookware
 

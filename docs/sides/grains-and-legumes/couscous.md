@@ -21,7 +21,7 @@ hero: assets/images/couscous.webp
 
     - :baby_bottle: 1 cup (227 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 1 pinch kosher salt
-    - 1 cup (180 g) couscous
+    - :ear_of_rice: 1 cup (180 g) couscous
     - :olive: 2 Tbsp (25 g) olive oil
     - :leafy_green: 1 pinch cumin (optional)
     - :apple: 2 cloves sautéed garlic (optional)
@@ -32,7 +32,7 @@ hero: assets/images/couscous.webp
 
     - :baby_bottle: 1.5 cups (340 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 1.5 pinches kosher salt
-    - 1.5 cups (270 g) couscous
+    - :ear_of_rice: 1.5 cups (270 g) couscous
     - :olive: 3 Tbsp (38 g) olive oil
     - :leafy_green: 1.5 pinches cumin (optional)
     - :apple: 3 cloves sautéed garlic (optional)
@@ -43,7 +43,7 @@ hero: assets/images/couscous.webp
 
     - :baby_bottle: 2 cups (454 g) [Vegetable Broth](../../ingredients/vegetable-broth.md) or water
     - :salt: 2 pinches kosher salt
-    - 2 cups (360 g) couscous
+    - :ear_of_rice: 2 cups (360 g) couscous
     - :olive: 4 Tbsp (50 g) olive oil
     - :leafy_green: 2 pinches cumin (optional)
     - :apple: 4 cloves sautéed garlic (optional)

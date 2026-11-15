@@ -18,18 +18,18 @@ hero: assets/images/macaroni-&-cheese.webp
 ## :salt: Ingredients
 
 - :glass_of_milk: 6 cups (1362 g) whole milk
-- 1 [onion pique][1]
+- :onion: 1 [onion pique][1]
 - :butter: 1 stick unsalted butter
 - :bread: 113 g all-purpose flour
 - :apple: 0.25 tsp nutmeg
-- 113 g Parmigiano-Reggiano
+- :cheese_wedge: 113 g Parmigiano-Reggiano
 - :cheese_wedge: 113 g extra-sharp cheddar
-- 113 g Gruyere
+- :cheese_wedge: 113 g Gruyere
 - :salt: 2 tsp salt
 - :salt: 0.5 tsp pepper
 - :apple: 2 oz (50 g) truffle oil (optional)
-- 1.5 lb elbow macaroni
-- 0.5 cup [breadcrumbs][2]
+- :spaghetti: 1.5 lb elbow macaroni
+- :bread: 0.5 cup [breadcrumbs][2]
 
 ## :cooking: Cookware
 

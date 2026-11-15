@@ -22,10 +22,10 @@ hero: assets/images/spring-fruit-tart-pie.png
 - :bread: 1 frozen pie crust
 - :egg: 1 egg
 - :maple_leaf: 0.25 cup (53 g) brown sugar
-- 0.5 cup [lemon curd][1]
-- 0.5 cup [whipped cream][2]
+- :lemon: 0.5 cup [lemon curd][1]
+- :glass_of_milk: 0.5 cup [whipped cream][2]
 - :apple: some raspberries
-- some mangoes
+- :mango: some mangoes
 - :apple: some kiwis
 - :strawberry: some strawberries
 - :candy: some confectioners' sugar (optional)

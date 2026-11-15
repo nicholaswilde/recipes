@@ -16,12 +16,12 @@ hero: assets/images/a-very-popular-bbq-sauce.webp
 
 ## :salt: Ingredients
 
-- 1.5 cup [brown sugar][1]
-- 1.5 cup [ketchup][2]
+- :candy: 1.5 cup [brown sugar][1]
+- :tomato: 1.5 cup [ketchup][2]
 - :wine_glass: 0.5 cup (105 g) red wine vinegar
 - :droplet: 0.5 cup (114 g) water
 - :apple: 1 Tbsp (14 g) Worcestershire sauce
-- 2.5 Tbsp [mustard][3]
+- :takeout_box: 2.5 Tbsp [mustard][3]
 - :candy: 2 tsp paprika
 - :salt: 2 tsp salt
 - :salt: 1.5 tsp (5 g) black pepper

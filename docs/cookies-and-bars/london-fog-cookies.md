@@ -28,16 +28,16 @@ hero: assets/images/london-fog-cookies.webp
 - :takeout_box: 0.25 tsp culinary lavender
 - :candy: 0.5 cup (99 g) granulated sugar
 - :candy: 0.5 cup (114 g) light [brown sugar](../ingredients/brown-sugar.md)
-- 2 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
+- :flower_playing_cards: 2 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
 - :salt: 0.5 tsp kosher salt
 - :bread: 1.5 cups (180 g) all-purpose flour
-- 1 tsp [baking powder](../ingredients/baking-powder.md)
+- :dash: 1 tsp [baking powder](../ingredients/baking-powder.md)
 - :chestnut: 0.5 tsp baking soda
 - :egg: 1 large egg
 - :butter: 3 Tbsp (42 g) unsalted [butter](../ingredients/butter/butter.md)
 - :candy: 0.75 cup (150 g) powdered sugar
 - :glass_of_milk: 1 Tbsp (14 g) whole milk
-- 0.5 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
+- :flower_playing_cards: 0.5 tsp [vanilla extract](../ingredients/extracts/vanilla-extract.md)
 - :salt: 1 salt
 
 ## :cooking: Cookware

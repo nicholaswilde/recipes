@@ -20,9 +20,9 @@ hero: assets/images/ina-garten's-potato-salad.webp
 
 - :chestnut: 3 lbs small white potatoes
 - :salt: 2 Tbsp salt
-- 1 cup [mayonnaise][1]
-- 0.25 cup [buttermilk][2]
-- 2 Tbsp [Dijon mustard][3]
+- :egg: 1 cup [mayonnaise][1]
+- :glass_of_milk: 0.25 cup [buttermilk][2]
+- :takeout_box: 2 Tbsp [Dijon mustard][3]
 - :seedling: 2 Tbsp (14 g) whole-grain mustard
 - :apple: 0.5 cup dill
 - :salt: 1 tsp salt

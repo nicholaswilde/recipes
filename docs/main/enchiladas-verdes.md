@@ -25,12 +25,12 @@ hero: assets/images/enchiladas-verdes.webp
 - :beans: 0.5 cup (75 g) peas
 - :hot_pepper: 0.25 jalapeño
 - :hot_pepper: 0.125 tsp chili powder
-- 2 cups [salsa verde][3]
-- 8 [corn tortilla][2]
+- :tomato: 2 cups [salsa verde][3]
+- :flatbread: 8 [corn tortilla][2]
 - :seedling: 0.5 cup (80 g) pumpkin seeds
 - :herb: 0.25 cup (10 g) cilantro
 - :avocado: 1 avocado
-- 2 cups [black beans][4]
+- :beans: 2 cups [black beans][4]
 
 ## :cooking: Cookware
 

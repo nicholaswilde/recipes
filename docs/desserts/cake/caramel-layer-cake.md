@@ -27,16 +27,16 @@ total time: 1 hour 30 minutes
 
 - :bread: 1 Tbsp (8 g) cake flour
 - :tumbler_glass: 1 cup (227 g) packed light [brown sugar](../../ingredients/brown-sugar.md)
-- 7 Tbsp [butter](../../ingredients/butter/butter.md)
+- :butter: 7 Tbsp [butter](../../ingredients/butter/butter.md)
 - :egg: 0.5 cup egg substitute
 - :bread: 2 cups (240 g) cake flour
-- 1 tsp [baking powder](../../ingredients/baking-powder.md)
+- :dash: 1 tsp [baking powder](../../ingredients/baking-powder.md)
 - :chestnut: 0.5 tsp baking soda
 - :salt: 0.25 tsp salt
 - :glass_of_milk: 1 cup (227 g) milk
 - :chestnut: 0.5 cup (106 g) dark [brown sugar](../../ingredients/brown-sugar.md)
-- 3 Tbsp [butter](../../ingredients/butter/butter.md)
-- 1 tsp [vanilla extract](../../ingredients/extracts/vanilla-extract.md)
+- :butter: 3 Tbsp [butter](../../ingredients/butter/butter.md)
+- :flower_playing_cards: 1 tsp [vanilla extract](../../ingredients/extracts/vanilla-extract.md)
 - :salt: 0.12 tsp salt
 - :glass_of_milk: 14 oz%can [sweetened condensed milk](../../ingredients/sweetened-condensed-milk.md)
 

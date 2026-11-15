@@ -18,9 +18,9 @@ hero: assets/images/leftover-thanksgiving-pot-pies.webp
 ## :salt: Ingredients
 
 - :droplet: 1 [hot water crust][4]
-- 0.5 cup [good gravy][1]
-- 1 cup [mashed potatoes][2]
-- 1 cup [stuffing][3]
+- :takeout_box: 0.5 cup [good gravy][1]
+- :potato: 1 cup [mashed potatoes][2]
+- :bread: 1 cup [stuffing][3]
 - :egg: 1 egg
 
 ## :cooking: Cookware

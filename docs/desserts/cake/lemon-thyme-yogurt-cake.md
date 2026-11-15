@@ -33,12 +33,12 @@ hero: assets/images/lemon-thyme-yogurt-cake.webp
 === "Glaze"
 
     - :tangerine: 2 lemon juice
-    - 1 Tbsp (11 g) limoncello (alternative)
+    - :lemon: 1 Tbsp (11 g) limoncello (alternative)
     - :candy: 60 g confectioners' sugar
     - :apple: 1.5 tsp (5 g) thyme (alternative)
     - :herb: 1 tsp (4 g) rosemary (alternative)
-    - 1.5 tsp (5 g) verbana (alternative)
-    - 1.5 tsp (5 g) tarragon (alternative)
+    - :herb: 1.5 tsp (5 g) verbana (alternative)
+    - :herb: 1.5 tsp (5 g) tarragon (alternative)
 
 ## :cooking: Cookware
 

@@ -17,7 +17,7 @@ hero: assets/images/ghirardelli-brownie-mix.webp
 
 === "Single Batch (1 Pouch)"
 
-    - 1 pouch Ghirardelli Brownie Mix
+    - :chocolate_bar: 1 pouch Ghirardelli Brownie Mix
     - :sweat_drops: 1/3 cup water
     - :olive: 1/3 cup vegetable oil
     - :egg: 1 egg
@@ -25,7 +25,7 @@ hero: assets/images/ghirardelli-brownie-mix.webp
 
 === "Double Batch (2 Pouches)"
 
-    - 2 pouches Ghirardelli Brownie Mix
+    - :chocolate_bar: 2 pouches Ghirardelli Brownie Mix
     - :sweat_drops: 2/3 cup water
     - :olive: 2/3 cup vegetable oil
     - :egg: 2 eggs
@@ -33,7 +33,7 @@ hero: assets/images/ghirardelli-brownie-mix.webp
 
 === "Triple Batch (3 Pouches)"
 
-    - 3 pouches Ghirardelli Brownie Mix
+    - :chocolate_bar: 3 pouches Ghirardelli Brownie Mix
     - :sweat_drops: 1 cup water
     - :olive: 1 cup vegetable oil
     - :egg: 3 eggs
@@ -41,7 +41,7 @@ hero: assets/images/ghirardelli-brownie-mix.webp
 
 === "Mega Batch (6 Pouches)"
 
-    - 6 pouches Ghirardelli Brownie Mix
+    - :chocolate_bar: 6 pouches Ghirardelli Brownie Mix
     - :sweat_drops: 2 cups water
     - :olive: 2 cups vegetable oil
     - :egg: 6 eggs
