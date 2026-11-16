@@ -26,6 +26,12 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
     - :ear_of_rice: 42 g bread flour
     - :droplet: 0.5 (113 g) cup water
 
+    #### :glass_of_milk: Tangzhong Alternates (instead of whole milk and water)
+
+    - **1% milk and water:** :glass_of_milk: 0.5 cup (113 g) 1% milk and :droplet: 0.5 cup (113 g) water
+    - **Whole milk powder and water:** :glass_of_milk: 2 Tbsp (14 g) whole milk powder and
+      :droplet: 1 cup minus 1 Tbsp (212 g) water
+
     ### :bread: Dough
 
     - :glass_of_milk: 2 Tbsp whole milk
@@ -50,6 +56,12 @@ hero: assets/images/pull-apart-sour-cream-and-chive-rolls.webp
     - :glass_of_milk: 0.25 (57 g) cup whole milk
     - :ear_of_rice: 21 g bread flour
     - :droplet: 0.25 (57 g) cup water
+
+    #### :glass_of_milk: Tangzhong Alternates (instead of whole milk and water)
+
+    - **1% milk and water:** :glass_of_milk: 0.25 cup (57 g) 1% milk and :droplet: 0.25 cup (57 g) water
+    - **Whole milk powder and water:** :glass_of_milk: 1 Tbsp (7 g) whole milk powder and
+      :droplet: 0.5 cup minus 1.5 tsp (107 g) water
 
     ### :bread: Dough
 
@@ -106,6 +118,11 @@ potatoes), about 2 minutes. Remove from heat.
 !!! tip
 
     Be sure to add the liquid to the dry ingredients to avoid clumping.
+
+    - **1% milk alternate:** Substitute 1% milk 1:1 for the whole milk (`0.5 cup (113 g)` 1% milk + `0.5 cup (113 g)`
+      water for 1 batch). The ~2.5 g difference in milkfat is negligible alongside the sour cream and butter in the dough.
+    - **Whole milk powder alternate:** Whisk the whole milk powder (`2 Tbsp / 14 g` for 1 batch) directly into the bread
+      flour before whisking in the water (`1 cup minus 1 Tbsp / 212 g`) so the powder dissolves smoothly.
 
 ### Step 2
 
