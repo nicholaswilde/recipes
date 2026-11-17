@@ -4,6 +4,7 @@ tags:
   - holiday
   - side
   - thanksgiving
+  - applied-kitchen
 hero: assets/images/cranberry-glazed-roasted-brussels-sprouts.webp
 ---
 
