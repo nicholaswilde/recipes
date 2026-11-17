@@ -5,12 +5,12 @@ tags:
   - ingredient
   - pastry-dough
   - paul-hollywood
-hero: assets/images/sweet-pastry.png
+hero: assets/images/sweet-pastry.webp
 ---
 
 # :pie: Sweet Pastry
 
-![Sweet Pastry](../../assets/images/sweet-pastry.png){ loading=lazy }
+![Sweet Pastry](../../assets/images/sweet-pastry.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

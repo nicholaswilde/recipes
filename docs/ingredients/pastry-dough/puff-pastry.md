@@ -5,12 +5,12 @@ tags:
   - pastry-dough
   - ingredient
   - paul-hollywood
-hero: assets/images/puff-pastry.png
+hero: assets/images/puff-pastry.webp
 ---
 
 # :pie: Puff Pastry
 
-![Puff Pastry](../../assets/images/puff-pastry.png){ loading=lazy }
+![Puff Pastry](../../assets/images/puff-pastry.webp){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

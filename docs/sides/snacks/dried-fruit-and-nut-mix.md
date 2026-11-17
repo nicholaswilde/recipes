@@ -4,12 +4,12 @@ tags:
 
   - side
   - applied-kitchen
-hero: assets/images/dried-fruit-and-nut-mix.png
+hero: assets/images/dried-fruit-and-nut-mix.webp
 ---
 
 # :chestnut: Dried Fruit & Nut Mix
 
-![Dried Fruit and Nut Mix](../../assets/images/dried-fruit-and-nut-mix.png){ loading=lazy }
+![Dried Fruit and Nut Mix](../../assets/images/dried-fruit-and-nut-mix.webp){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
