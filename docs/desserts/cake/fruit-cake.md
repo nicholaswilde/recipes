@@ -11,9 +11,9 @@ cook time: 3 hours 15 minutes
 total time: 4 hours 45 minutes
 ---
 
-# :cake: Christmas Cake
+# :cake: Fruit Cake
 
-![Christmas Cake][1]{ loading=lazy }
+![Fruit Cake][1]{ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -111,4 +111,4 @@ Serve plain, dusted with powdered sugar and topped with fresh cherries, or glaze
 
 - <https://www.recipetineats.com/christmas-cake/>
 
-[1]: <../../assets/images/christmas-cake.webp>
+[1]: <../../assets/images/fruit-cake.webp>
