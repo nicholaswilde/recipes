@@ -2,6 +2,7 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - steamer basket
         - small mixing bowl
         - clean bowl
         - griddle
@@ -138,6 +139,7 @@ emoji:
         - pastry
         - pastry brush
     - shallow_pan_of_food:
+        - serving platter
         - casserole dish
         - 20x30cm baking tin
         - 12-inch cast-iron skillet
@@ -609,6 +611,7 @@ emoji:
         - reduced-fat cheddar cheese
         - Muenster cheese
     - cheese_wedge:
+        - vegan parmesan cheese
         - Parmesan-Romano cheese blend
         - feta cheese
         - Parmigiano-Reggiano cheese
@@ -848,6 +851,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - unsweetened plain almond milk
         - yogurt (curd)
         - evaporated milk
         - unsalted butter softened slightly
@@ -915,6 +919,7 @@ emoji:
     - hamburger:
         - black bean burgers
     - herb:
+        - fresh parsley or chives
         - oregano
         - poultry seasoning
         - basil leaves
