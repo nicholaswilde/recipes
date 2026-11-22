@@ -46,6 +46,7 @@ Beverages = [
 [[project.nav]]
 Breads = [
   { "Almost No-Knead Sourdough Bread" = "breads/almost-no-knead-sourdough-bread.md" },
+  { "Amish Cinnamon Bread" = "breads/amish-cinnamon-bread.md" },
   { "Another Lemon Blueberry Bread" = "breads/another-lemon-blueberry-bread.md" },
   { "Artisan Breadsticks" = "breads/artisan-breadsticks.md" },
   { "Artisan No-Knead Pizza Crust" = "breads/artisan-no-knead-pizza-crust.md" },
