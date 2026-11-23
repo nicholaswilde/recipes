@@ -4,11 +4,11 @@
 #
 # move
 # ----------------
-# Move recipes to their intended locations
+# Compile and move recipes to their intended locations using cook-docs
 #
 # @author nιcнolaѕ wιlde, 0x08b7d7a3
 # @date 02 Sep 2022
-# @version 0.3.0
+# @version 0.4.0
 #
 ################################################################################
 
@@ -20,11 +20,16 @@ if ! command -v uv &> /dev/null; then
   exit 1
 fi
 
+if ! command -v cook-docs &> /dev/null; then
+  echo "Error: 'cook-docs' is not installed." >&2
+  exit 1
+fi
+
 # https://stackoverflow.com/a/246128/1061279
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 SCRIPT_NAME=$(basename "${0}")
-SCRIPT_VERSION="$(grep "# @version" "${0}" | sed 's/\# \@version //'|\head -n1)"
-SCRIPT_DESC="Move recipes to their intended locations"
+SCRIPT_VERSION="$(grep "# @version" "${0}" | sed 's/\# \@version //' | head -n1)"
+SCRIPT_DESC="Compile and move recipes to their intended locations"
 DEBUG=false
 FORCE=false
 
@@ -37,17 +42,9 @@ readonly DEBUG
 # shuck:disable=C003
 source "${DIR}/lib/libbash"
 
-function cleanup(){
-  if command_exists task; then
-   lb_infoln "Cleaning up"
-    cd "${ROOT_DIR}"
-    task clean
-  fi
-}
-
 function copy_names() {
   if command_exists copy; then
-   lb_infoln "Copying names"
+    lb_infoln "Copying names"
     arr=()
     for path in "${@}"; do
       s=$(get_recipe_name "${path}")
@@ -61,7 +58,7 @@ function copy_names() {
 }
 
 function spell_check() {
-  lb_infoln  "Checking spelling"
+  lb_infoln "Checking spelling"
   arr=()
   for path in "${@}"; do
     arr+=("${path}")
@@ -93,106 +90,86 @@ function links_check() {
   fi
 }
 
+function optimize_copied_image() {
+  local img_path="${1}"
+  local md_path="${2}"
+  [ -f "${img_path}" ] || return 0
+
+  local filename
+  filename=$(basename "${img_path}")
+  local ext="${filename##*.}"
+  local base="${filename%.*}"
+
+  if [[ "${ext,,}" == "jpg" || "${ext,,}" == "jpeg" ]]; then
+    local webp_path="${img_path%.*}.webp"
+    if command_exists cwebp && cwebp -q 80 -metadata all "${img_path}" -o "${webp_path}" &>/dev/null; then
+      lb_infoln "Converted image to WebP"
+      rm -f "${img_path}"
+    elif uv run python3 -c "import sys; from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open(sys.argv[1]).convert('RGB').save(sys.argv[2], 'WEBP', quality=80)" "${img_path}" "${webp_path}" &>/dev/null; then
+      lb_infoln "Converted image to WebP (Pillow fallback)"
+      rm -f "${img_path}"
+    else
+      lb_infoln "Warning: Failed to convert image to WebP; keeping ${filename}"
+      local escaped_name="${filename//&/\\&}"
+      sed -i "s|assets/images/${base}\.webp|assets/images/${escaped_name}|g" "${md_path}"
+    fi
+  elif [[ "${ext,,}" == "png" ]]; then
+    if command_exists oxipng; then
+      lb_infoln "Optimizing PNG image"
+      if ! oxipng -o 4 --strip safe "${img_path}" &>/dev/null; then
+        lb_infoln "Warning: Failed to optimize PNG image using oxipng"
+      fi
+    else
+      lb_infoln "Warning: oxipng not found, skipping PNG optimization"
+    fi
+  fi
+}
+
 function move_files(){
-  # Check if file exists
   recipe_path="${1}"
-  test -f "${1}" || (printf "File does not exist, %s\n" "${1}" && exit 1)
- lb_infoln "Moving files"
+  test -f "${recipe_path}" || { printf "File does not exist, %s\n" "${recipe_path}"; exit 1; }
+  lb_infoln "Compiling recipe with cook-docs"
   recipe_path=$(get_recipe_path "${recipe_path}")
 
   category=$(get_category "${recipe_path}")
   is_null "${category}" && printf "Could not get \`category\`\n" && exit 1
 
-  recipe_filename=$(get_filename "${recipe_path}")
-  is_null "${recipe_filename}" && printf "Could not get \`recipe_filename\`\n" && exit 1
-
-  markdown_path=$(get_markdown_path "${recipe_path}")
-
-  if [ ! -f "${markdown_path}" ]; then
-    cook-docs -c "${COOK_PATH}/${category}"
-  fi
-  test -f "${markdown_path}" || (printf "File does not exist, %s\n" "${markdown_path}" && exit 1)
-
-  image_path=$(get_image_path "${recipe_path}")
-
-  new_image_path=$(get_new_image_path "${recipe_path}")
-
   new_markdown_path=$(get_new_markdown_path "${recipe_path}")
-  test -d "${DOCS_PATH}/${category}" || (printf "Folder does not exist, %s\n" "${DOCS_PATH}/${category}" && exit 1)
+  test -d "${DOCS_PATH}/${category}" || mkdir -p "${DOCS_PATH}/${category}"
 
-  if [ -f "${image_path}" ]; then
-    cp "${image_path}" "${new_image_path}"
-    
-    local filename
-    filename=$(basename "${new_image_path}")
-    local ext="${filename##*.}"
-    local base="${filename%.*}"
-    
-    if [[ "${ext,,}" == "jpg" || "${ext,,}" == "jpeg" ]]; then
-      if command_exists cwebp; then
-        lb_infoln "Converting image to WebP"
-        local webp_path="${new_image_path%.*}.webp"
-        if cwebp -q 80 -metadata all "${new_image_path}" -o "${webp_path}" &>/dev/null; then
-          rm -f "${new_image_path}"
-          
-          # Escape & in replacement string for sed
-          local escaped_webp_name="${base}.webp"
-          escaped_webp_name="${escaped_webp_name//&/\\&}"
-          sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
-        else
-          if uv run python3 -c "from PIL import Image, ImageFile" &>/dev/null && \
-             uv run python3 -c "from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open('${new_image_path}').convert('RGB').save('${webp_path}', 'WEBP', quality=80)" &>/dev/null; then
-            rm -f "${new_image_path}"
-            
-            local escaped_webp_name="${base}.webp"
-            escaped_webp_name="${escaped_webp_name//&/\\&}"
-            sed -i "s|assets/images/${filename}|assets/images/${escaped_webp_name}|g" "${markdown_path}"
-          else
-            lb_infoln "Warning: Failed to convert image to WebP using both cwebp and Pillow fallback"
-          fi
-        fi
-      else
-        lb_infoln "Warning: cwebp not found, skipping WebP conversion"
-      fi
-    elif [[ "${ext,,}" == "png" ]]; then
-      if command_exists oxipng; then
-        lb_infoln "Optimizing PNG image"
-        if ! oxipng -o 4 --strip safe "${new_image_path}" &>/dev/null; then
-          lb_infoln "Warning: Failed to optimize PNG image using oxipng"
-        fi
-      else
-        lb_infoln "Warning: oxipng not found, skipping PNG optimization"
-      fi
+  local image_path
+  image_path=$(get_image_path "${recipe_path}")
+  local cook_docs_args=()
+  if [ "${FORCE}" = true ]; then
+    cook_docs_args+=("--force")
+  fi
+
+  local copied_image_path=""
+  if [ -n "${image_path}" ] && [ -f "${image_path}" ]; then
+    copied_image_path=$(get_new_image_path "${recipe_path}")
+    local src_ext="${image_path##*.}"
+    if [[ "${src_ext,,}" == "jpg" || "${src_ext,,}" == "jpeg" ]]; then
+      cook_docs_args+=("--image-ext" "webp")
     fi
   fi
 
-  local existing_md=""
-  if [ -f "${new_markdown_path}" ] && [ "${FORCE}" != true ]; then
-    existing_md=$(mktemp)
-    cp "${new_markdown_path}" "${existing_md}"
-  fi
-
-  mv "${markdown_path}" "${new_markdown_path}"
-
   cd "${ROOT_DIR}"
 
-  # Inject frontmatter (and .cook title H1 emoji) from .cook to .md
-  uv run scripts/inject_frontmatter.py "${recipe_path}" "${new_markdown_path}" || true
+  # Single-pass compile: frontmatter, emojis, gram weights, cross-links,
+  # companion asset copy, and non-destructive merge (configured in .cookdocs.toml)
+  cook-docs "${cook_docs_args[@]}" "${recipe_path}"
+  test -f "${new_markdown_path}" || { printf "File does not exist, %s\n" "${new_markdown_path}"; exit 1; }
 
-  # Auto-inject ingredient/cookware emojis and gram weights from emoji.yaml & measuring.md
-  uv run scripts/convert_recipe_units.py "${new_markdown_path}" || true
-
-  # Preserve manual Markdown edits when re-compiling an existing recipe
-  if [ -n "${existing_md}" ] && [ -f "${existing_md}" ]; then
-    uv run scripts/merge_recipe_md.py "${existing_md}" "${new_markdown_path}" "${new_markdown_path}" || true
-    rm -f "${existing_md}"
+  if [ -n "${copied_image_path}" ]; then
+    optimize_copied_image "${copied_image_path}" "${new_markdown_path}"
   fi
 
-  # Ensure H1 header has a valid emoji shortcode
+  # Ensure H1 header has a valid emoji shortcode when .cook lacks title metadata
   uv run scripts/check_header_emojis.py --fix "${new_markdown_path}" || true
 
-  # Auto-hyperlink internal ingredients and format
-  uv run scripts/auto_hyperlink_recipe.py "${new_markdown_path}" || true
+  if command_exists rumdl; then
+    rumdl fmt "${new_markdown_path}" &>/dev/null || true
+  fi
 
   recipe_name=$(get_recipe_name "${recipe_path}")
   relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
@@ -208,31 +185,28 @@ function main(){
   spell_check "${@}"
   links_check "${@}"
   copy_names "${@}"
-  cleanup
 }
 
 if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
 
 # https://www.jamescoyle.net/how-to/1774-bash-getops-example
 # https://opensource.com/article/19/12/help-bash-program
-# Get the options
-# while getopts ":hv" o; do
 while getopts ":fhv-" o; do
   # support long options: https://stackoverflow.com/a/28466267/519360
-  if [ "${o}" = "-" ]; then   # long option: reformulate o and OPTARG
-    o="${OPTARG%%=*}"       # extract long option name
-    OPTARG="${OPTARG#"$o"}"   # extract long option argument (may be empty)
-    OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
+  if [ "${o}" = "-" ]; then
+    o="${OPTARG%%=*}"
+    OPTARG="${OPTARG#"$o"}"
+    OPTARG="${OPTARG#=}"
   fi
   # shuck:disable=C135
   case "${o}" in
     f|force)   FORCE=true;;
     h|help)    show_help "${SCRIPT_NAME}" "${SCRIPT_DESC}";;
     v|version) show_version "${SCRIPT_NAME}" "${SCRIPT_VERSION}";;
-    ??*)         usage_error "${SCRIPT_NAME}";;
-    ?)           usage_error "${SCRIPT_NAME}";;
+    ??*)       usage_error "${SCRIPT_NAME}";;
+    ?)         usage_error "${SCRIPT_NAME}";;
   esac
 done
-shift $((OPTIND-1)) # remove parsed options and args from $@ list
+shift $((OPTIND-1))
 
 main "$@"

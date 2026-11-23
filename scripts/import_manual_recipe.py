@@ -144,8 +144,8 @@ def main():
             _, img_ext = os.path.splitext(img_src.lower())
             if img_ext in ['.jpeg', '.jpg']:
                 img_ext = '.jpg'
-            elif img_ext != '.png':
-                print(f"Warning: Image extension '{img_ext}' is not .jpg or .png. Using .jpg extension.")
+            elif img_ext not in ['.png', '.webp']:
+                print(f"Warning: Image extension '{img_ext}' is not .jpg, .png, or .webp. Using .jpg extension.")
                 img_ext = '.jpg'
             target_img_path = os.path.join(target_cook_dir, f"{recipe_name}{img_ext}")
             if os.path.abspath(img_src) != os.path.abspath(target_img_path):
@@ -153,35 +153,27 @@ def main():
                 shutil.copy2(img_src, target_img_path)
             else:
                 print(f"Image already at '{target_img_path}'")
-            
-    # Step 2: Run move.sh
-    print("\n--- Step 2: Running move script to compile and organize ---")
+
+    # Step 2: Ensure recipe emojis are mapped before cook-docs compiles
+    print("\n--- Step 2: Verifying and auto-fixing recipe emojis ---")
+    emoji_cmd = ["uv", "run", "scripts/check_recipe_emojis.py", "--fix", target_cook_path]
+    run_command(emoji_cmd)
+
+    # Step 3: Run move.sh (cook-docs compile, emojis, weights, links, merge, header emoji, nav)
+    print("\n--- Step 3: Running move script to compile and organize ---")
     res = run_command(["bash", "scripts/move.sh", target_cook_path])
     if res.returncode != 0:
         print("move.sh failed.")
         sys.exit(1)
-        
+
     md_path = get_new_markdown_path(cook_path=target_cook_path)
     if not os.path.exists(md_path):
         print(f"Error: Target markdown file was not created at {md_path}")
         sys.exit(1)
     print(f"Target markdown file successfully created at: {md_path}")
     
-    # Step 3: Run check_recipe_emojis.py --fix
-    print("\n--- Step 3: Verifying and auto-fixing recipe emojis ---")
-    emoji_cmd = ["uv", "run", "scripts/check_recipe_emojis.py", "--fix", target_cook_path]
-    run_command(emoji_cmd)
-    
-    # Step 4: Run convert_recipe_units.py
-    print("\n--- Step 4: Converting volumetric units to weights ---")
-    convert_cmd = ["uv", "run", "scripts/convert_recipe_units.py", md_path]
-    run_command(convert_cmd)
-    print("\n--- Checking Header Emojis ---")
-    run_command(["uv", "run", "scripts/check_header_emojis.py", "--fix", md_path])
-    run_command(["rumdl", "fmt", md_path])
-    
-    # Step 5: Run spellcheck & whitelist
-    print("\n--- Step 5: Running spellchecker and auto-whitelisting proper nouns ---")
+    # Step 4: Run spellcheck & whitelist
+    print("\n--- Step 4: Running spellchecker and auto-whitelisting proper nouns ---")
     run_command(["uv", "run", "scripts/generate_typos_config.py"])
     spellcheck_cmd = ["typos", md_path]
     

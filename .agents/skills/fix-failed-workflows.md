@@ -100,7 +100,7 @@ rtk gh run view <run-id> --log --job=<job-id> | cat
      ```
 
 #### E. CookLang Recipe Validation Errors
-* **Symptom**: `cook doctor validate` fails during recipe processing.
+* **Symptom**: `cook-docs doctor --check-recipes` (or `cook doctor validate`) fails during recipe processing.
 * **Fix protocol**:
   1. Run validator:
      ```bash

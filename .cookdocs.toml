@@ -1,0 +1,13 @@
+# cook-docs configuration for the recipes collection
+# Docs: https://nicholaswilde.github.io/cook-docs/configuration/
+
+recipe_search_root = "cook"
+output_dir = "docs"
+assets_dir = "docs/assets/images"
+emoji_file = "includes/emoji.yaml"
+weights_file = "includes/weights.yaml"
+link_dirs = ["ingredients", "sauces-and-dressings", "breads"]
+merge = true
+template_files = ["recipe.md.gotmpl"]
+word_wrap = 120
+log_level = "info"

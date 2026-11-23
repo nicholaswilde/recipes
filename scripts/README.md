@@ -8,7 +8,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 | Script / Command | Taskfile Shortcut | Purpose |
 | :--- | :--- | :--- |
-| `scripts/move.sh` | `task move FILES="<path>"` | Relocates a compiled recipe `.md` and its image, auto-injects weights/emojis, preserves manual Markdown edits (unless `-f`/`--force`), runs spellchecking, and updates navigation. |
+| `scripts/move.sh` | `task move FILES="<path>"` | Compiles a single `.cook` recipe directly into `docs/` via `cook-docs` (`.cookdocs.toml` + `cook/recipe.md.gotmpl`), optimizes companion WebP/PNG images, ensures H1 emoji, formats with `rumdl`, checks spelling/links, and updates `zensical.toml` navigation. |
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
@@ -18,8 +18,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
 | `scripts/scrape_to_cook.py` | - | Scrapes a recipe webpage URL and compiles it into a CookLang `.cook` file while downloading the image. |
-| `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, move, emojis, units, spellcheck, whitelist). |
-| `scripts/import_manual_recipe.py` | - | Orchestrates the manual recipe import pipeline (.cook, image, move, emojis, units, spellcheck, commit). |
+| `scripts/import_recipe_workflow.py` | - | Orchestrates the entire recipe import workflow (scrape, emoji mapping, `move.sh` / `cook-docs`, spellcheck, whitelist). |
+| `scripts/import_manual_recipe.py` | - | Orchestrates the manual recipe import pipeline (`.cook`, image, emoji mapping, `move.sh` / `cook-docs`, spellcheck, commit). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
 | `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
@@ -29,7 +29,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/optimize_images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
 | `scripts/refactor_nav.py` | - | Replaces navigation blocks in `zensical.toml` with preset navigation structures. |
 | `scripts/move_and_verify.py` | - | Relocates recipes in `sides` and `sauces-and-dressings` to subdirectories and updates navigation. |
-| `scripts/merge_recipe_md.py` | - | Merges freshly compiled CookLang Markdown with existing manual Markdown edits (admonitions, custom sections, tags, tabs, formatted sources). |
+| `scripts/sync_weights_yaml.py` | `task sync-weights` | Regenerates `includes/weights.yaml` from `docs/reference/measuring.md` for `cook-docs` `toGrams` enrichment. |
 
 ---
 
@@ -40,11 +40,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [move.sh](move.sh)
 
 * **Usage**: `./scripts/move.sh [-f|--force] <recipe.cook>`
-* **Description**: Moves compiled `.md` recipe files and their associated images to their
-  final categories, auto-injects frontmatter, ingredient/cookware emojis, and gram weights
-  from `includes/emoji.yaml` and `docs/reference/measuring.md`, preserves manual Markdown edits
-  via `merge_recipe_md.py` (unless `-f`/`--force` is passed), runs spellchecking, checks for
-  dead links, adds the recipe to `zensical.toml` navigation, and triggers a clean task.
+* **Description**: Validates `.cook` syntax with `cook-docs doctor --check-recipes`, compiles the single
+  recipe directly into `docs/` via `cook-docs` using `.cookdocs.toml` and `cook/recipe.md.gotmpl`
+  (handling frontmatter, ingredient/cookware emojis from `includes/emoji.yaml`, gram weights from
+  `includes/weights.yaml`, internal cross-links, companion image copying, and non-destructive merging
+  unless `-f`/`--force` is passed), converts copied JPEGs to WebP or optimizes PNG files, checks H1 emojis,
+  formats with `rumdl`, updates `zensical.toml` navigation, and runs spell/link checks.
 
 #### [commit.sh](commit.sh)
 
@@ -77,17 +78,17 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run scripts/import_recipe_workflow.py <URL_or_issue> [category]`
 * **Description**: Orchestrates the entire single recipe import pipeline: scrapes a recipe URL or
-  extracts it from a GitHub issue, moves it to the appropriate category, runs emoji verification
-  and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with
-  auto-whitelisting for proper nouns).
+  extracts it from a GitHub issue, maps missing emojis via `check_recipe_emojis.py --fix`, compiles and
+  organizes the recipe via `move.sh` (`cook-docs`), and runs the spellchecker (with auto-whitelisting for
+  proper nouns).
 
 #### [import_manual_recipe.py](import_manual_recipe.py)
 
 * **Usage**: `uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]`
 * **Description**: Orchestrates the manual recipe import pipeline: copies/moves the `.cook` and optional image file
-  to the correct category under `cook/`, runs `move.sh` to compile to markdown and process the image, runs emoji verification
-  and auto-fixing, converts volumetric measurements to weights, and runs the spellchecker (with auto-whitelisting of
-  proper nouns). Supports interactive category selection, GitHub issue lookup, and automated conventional committing.
+  to the correct category under `cook/`, maps missing emojis via `check_recipe_emojis.py --fix`, runs `move.sh`
+  (`cook-docs`) to compile enriched Markdown and process images, and runs the spellchecker (with auto-whitelisting
+  of proper nouns). Supports interactive category selection, GitHub issue lookup, and automated conventional committing.
 
 ---
 
@@ -100,20 +101,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   It parses the warnings and errors to automatically fix common issues (e.g., removing unused
   reference definitions, escaping bracketed text like `[ml]`, or turning unresolved recipe links into plain text).
 
-#### [convert_recipe_units.py](convert_recipe_units.py)
+#### [sync_weights_yaml.py](sync_weights_yaml.py)
 
-* **Usage**: `uv run scripts/convert_recipe_units.py <recipe.md>`
-* **Description**: Scans a recipe's markdown Ingredients and Cookware lists, automatically converts volumetric
-  measurements (like `1 cup` or `2 tbsp`) into weight-annotated units (`(120 g)`) by reading mappings
-  in [docs/reference/measuring.md](../docs/reference/measuring.md), and inserts matching ingredient and cookware
-  emojis from [includes/emoji.yaml](../includes/emoji.yaml).
-
-#### [merge_recipe_md.py](merge_recipe_md.py)
-
-* **Usage**: `uv run scripts/merge_recipe_md.py <existing_md> <compiled_md> [output_md]`
-* **Description**: Preserves manual Markdown edits (frontmatter tags, H1 emoji, hero image, `!!!` admonitions,
-  Mermaid timelines, custom `##` sections, formatted source links, footnotes, and manual `===` tabs)
-  when re-compiling a `.cook` file into an existing Markdown file.
+* **Usage**: `uv run scripts/sync_weights_yaml.py` or `task sync-weights`
+* **Description**: Parses the Ingredient Weight Chart in [docs/reference/measuring.md](../docs/reference/measuring.md)
+  and generates [includes/weights.yaml](../includes/weights.yaml) for `cook-docs`'s built-in `toGrams` helper.
+  Run after editing `docs/reference/measuring.md`.
 
 #### [fix_broken_links.py](fix_broken_links.py)
 

@@ -14,7 +14,8 @@ to a recipe file by creating a new Zensical tab.
 This skill converts plain ingredients lists to Zensical content tabs if they aren't already tabbed, and appends a
 new scaled ingredients list as a new tab (e.g., `=== "Double"` or `=== "Half"`). It automatically parses the
 original serving size from the metadata table at the top, removes the `Serves` column from that table, and
-scales all quantities by the specified factor.
+scales all quantities by the specified factor. Manual `=== "..."` tabs are preserved automatically by `cook-docs --merge`
+on re-compile; recipes authored with custom `.gotmpl` templates can also use `cook-docs`'s built-in `scale` helper.
 
 ## Protocol
 

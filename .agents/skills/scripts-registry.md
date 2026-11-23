@@ -32,9 +32,13 @@ When a new `.cook` recipe file is compiled, relocate it to its final destination
   ```
 
 * **Under the Hood**: Invokes [scripts/move.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/move.sh),
-  which compiles the markdown, moves images, adds navigation configuration to `zensical.toml` via
+  which validates syntax via `cook-docs doctor --check-recipes`, compiles directly into `docs/` via `cook-docs`
+  (configured in `.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, emojis from `includes/emoji.yaml`,
+  gram weights from `includes/weights.yaml`, internal cross-links, companion image copying, and non-destructive
+  `--merge` unless `-f`/`--force`), optimizes WebP/PNG images, checks H1 emojis, formats with `rumdl`, adds
+  navigation configuration to `zensical.toml` via
   [scripts/add_recipe_nav.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add_recipe_nav.py),
-  and runs validation.
+  and runs spell/link validation.
 
 #### Commit Recipe Changes
 
@@ -83,11 +87,11 @@ To orchestrate the entire recipe import process (scraping from a URL, YouTube vi
   uv run scripts/import_recipe_workflow.py <URL_video_ID_or_issue> [category]
   ```
 
-* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL, YouTube video ID, or extracted URL from a GitHub issue description. Relocates it using `scripts/move.sh`, runs `scripts/check_recipe_emojis.py --fix` to verify emojis, `scripts/convert_recipe_units.py` to convert volume measurements to weight, and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
+* **Under the Hood**: Runs `scripts/scrape_to_cook.py` to scrape the recipe from a URL, YouTube video ID, or extracted URL from a GitHub issue description. Maps missing emojis with `scripts/check_recipe_emojis.py --fix`, compiles and organizes via `scripts/move.sh` (`cook-docs` handles frontmatter, emojis, gram weights, cross-links, asset copy, and merge), and runs the typos spellchecker. It detects and prompts (or auto-whitelists in non-interactive modes) proper nouns flagged by the spellchecker using `scripts/whitelist_typos.py`.
 
 #### Manual Recipe Import Orchestrator
 
-To orchestrate the import, emoji checking/fixing, unit conversion, spelling validation, proper nouns whitelisting, and committing of manual or image-based recipes in a single command execution:
+To orchestrate the import, emoji checking/fixing, `cook-docs` compilation, spelling validation, proper nouns whitelisting, and committing of manual or image-based recipes in a single command execution:
 
 * **Protocol**:
 
@@ -95,7 +99,7 @@ To orchestrate the import, emoji checking/fixing, unit conversion, spelling vali
   uv run scripts/import_manual_recipe.py <cook_file> [-i <image_path>] [-c <category>] [-n <issue_number>] [--commit]
   ```
 
-* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, runs `scripts/move.sh` to compile it to markdown and copy/convert images, runs `scripts/check_recipe_emojis.py --fix` to automatically map missing emojis, `scripts/convert_recipe_units.py` to format units and insert emojis, and runs `typos` with auto-whitelisting of proper nouns. Checks if the corresponding GitHub issue requested a hero image (`Generate hero image` checkbox) and warns if missing. Optionally prompts for GitHub issues and automates conventional rtk git commits.
+* **Under the Hood**: Copies/moves the manual `.cook` and optional image file to the correct category directory inside `cook/`, maps missing emojis via `scripts/check_recipe_emojis.py --fix`, runs `scripts/move.sh` (`cook-docs`) to compile enriched Markdown and copy/convert images, and runs `typos` with auto-whitelisting of proper nouns. Checks if the corresponding GitHub issue requested a hero image (`Generate hero image` checkbox) and warns if missing. Optionally prompts for GitHub issues and automates conventional rtk git commits.
 
 #### Automated PDF Recipe Import Workflow
 
@@ -126,18 +130,36 @@ If `zensical build` fails or outputs warnings about unused/unresolved links:
 * **Under the Hood**: Runs checks, parses warnings, automatically removes unused reference links, and escapes
   unresolved bracket patterns like `[ml]`.
 
-#### Auto-Format & Annotate Ingredient Weights
+#### Sync Weights Table for `cook-docs`
 
-To automatically insert matching ingredient emojis and convert volumetric units (cups, tbsp) to
-weight-annotated strings (grams) on a recipe's markdown file:
+When `docs/reference/measuring.md` is updated, regenerate `includes/weights.yaml` so `cook-docs` uses the new gram densities during compilation:
 
 * **Protocol**:
 
   ```bash
-  uv run scripts/convert_recipe_units.py docs/category/recipe.md
+  task sync-weights
+  # or directly:
+  uv run scripts/sync_weights_yaml.py
   ```
 
-* **Under the Hood**: Cross-references ingredients with [includes/emoji.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/emoji.yaml) and [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md).
+* **Under the Hood**: Parses the Ingredient Weight Chart in [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md) and writes [includes/weights.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/weights.yaml) for `cook-docs` (`toGrams`).
+
+#### Re-Compile & Merge Recipes with `cook-docs`
+
+`cook-docs` reads [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml) (`merge = true`) and [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl) to render emojis, gram weights, cross-links, and frontmatter while preserving manual Markdown edits (`!!!` admonitions, custom sections, frontmatter tags, H1 emoji, formatted sources, manual `===` tabs):
+
+* **Protocol**:
+
+  ```bash
+  # Re-compile a single recipe safely (non-destructive merge)
+  cook-docs "cook/<category>/<Recipe Name>.cook"
+
+  # Live watch mode while editing .cook files
+  task watch
+
+  # Validate config, templates, syntax, images, and emojis
+  task doctor
+  ```
 
 #### Auto-Fix Broken Relative Links
 

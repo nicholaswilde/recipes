@@ -40,15 +40,17 @@ Add or update a volume-to-weight conversion row in `docs/reference/measuring.md`
 
     - Insert the row in case-insensitive alphabetical order by the first column inside
       `## :scales: Ingredient Weight Chart` in `docs/reference/measuring.md`.
-    - Maintain strict sorting; `scripts/convert_recipe_units.py` and `scripts/test_measuring_table.py` depend on
+    - Maintain strict sorting; `scripts/sync_weights_yaml.py` and `scripts/test_measuring_table.py` depend on
       table structure and order.
 
-4. **Verify**:
+4. **Sync `includes/weights.yaml` & Verify**:
 
-   Run table sort tests, spellcheck, and markdown lint:
+   Regenerate `includes/weights.yaml` for `cook-docs` and run table sort tests, YAML/Markdown lint, and spellcheck:
 
     ```bash
+    task sync-weights
     rtk uv run python3 scripts/test_measuring_table.py
     rtk typos --format brief docs/reference/measuring.md
     rtk rumdl check docs/reference/measuring.md
+    yamllint-rs includes/weights.yaml
     ```

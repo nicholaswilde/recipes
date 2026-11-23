@@ -732,9 +732,17 @@ def fetch_existing_triage_comment_ids(owner=DEFAULT_OWNER, repo=DEFAULT_REPO):
 
 
 def validate_cook_file(cook_path):
-    """Run `cook doctor validate` on a single `.cook` file if `cook` is installed."""
+    """Validate a single `.cook` file via `cook-docs doctor` (or `cook` fallback)."""
+    if shutil.which("cook-docs"):
+        result = subprocess.run(
+            ["cook-docs", "doctor", "--check-recipes", cook_path],
+            capture_output=True,
+            text=True,
+        )
+        output = (result.stdout + "\n" + result.stderr).strip()
+        return result.returncode == 0, output
     if not shutil.which("cook"):
-        return True, "cook CLI not installed; skipped syntax validation"
+        return True, "cook-docs/cook CLI not installed; skipped syntax validation"
     with tempfile.TemporaryDirectory() as tmp_dir:
         shutil.copy2(cook_path, tmp_dir)
         result = subprocess.run(

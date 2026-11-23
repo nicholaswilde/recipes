@@ -36,9 +36,10 @@ H1 title, `## :salt: Ingredients`, and `## :cooking: Cookware` sections using `i
      rtk rg -i "<ingredient>" docs/
      ```
 
-   - Optionally inspect automated suggestions from repo scripts:
+   - Optionally inspect automated suggestions or unmapped items from `cook-docs` / repo scripts:
 
      ```bash
+     task validate-cook FILE="<cook/path/to/Recipe.cook>"
      rtk uv run scripts/check_header_emojis.py "<docs/path/to/recipe.md>"
      rtk uv run scripts/check_recipe_emojis.py "<cook/path/to/Recipe.cook>"
      ```

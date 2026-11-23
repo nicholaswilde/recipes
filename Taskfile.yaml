@@ -229,17 +229,26 @@ tasks:
         -e 's/ degrees/°F/'
         -e 's/([[:digit:]]+)[[:space:]]F/\1°F/' {{shellQuote .FILE }}
   validate-cook:
-    desc: Validate a CookLang file
+    desc: Validate a CookLang file with cook-docs doctor
     cmds:
-      - |
-        TMP_DIR=$(mktemp -d)
-        cp "{{.FILE}}" "$TMP_DIR/"
-        cook doctor validate --strict -b "$TMP_DIR"
-        EXIT_CODE=$?
-        rm -rf "$TMP_DIR"
-        exit $EXIT_CODE
+      - cook-docs doctor --check-recipes {{shellQuote .FILE}}
     requires:
       vars: [FILE]
+
+  doctor:
+    desc: Validate cook-docs config, templates, and recipes
+    cmds:
+      - cook-docs doctor --check-recipes {{ .CLI_ARGS }}
+
+  watch:
+    desc: Watch .cook recipes and templates and re-render into docs/
+    cmds:
+      - cook-docs watch
+
+  sync-weights:
+    desc: Sync includes/weights.yaml from docs/reference/measuring.md
+    cmds:
+      - uv run scripts/sync_weights_yaml.py
 
 
   validate:

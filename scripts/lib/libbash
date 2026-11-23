@@ -58,13 +58,7 @@ function show_help(){
 }
 
 function get_category(){
-  d1=$(basename "$(dirname "${1}")")
-  d2=$(basename "$(dirname "$(dirname "${1}")")")
-  if [ "${d2}" == "cook" ]; then
-    printf "%s\n" "${d1}"
-  else
-    printf "%s/%s\n" "${d2}" "${d1}"
-  fi
+  realpath --relative-to="${COOK_PATH}" "$(dirname "${1}")"
 }
 
 function show_error(){
@@ -73,7 +67,7 @@ function show_error(){
 }
 
 function get_extension() {
-  printf '%s\n' "${1#*.}"
+  printf '%s\n' "${1##*.}"
 }
 
 function to_lower() {
@@ -82,16 +76,17 @@ function to_lower() {
 }
 
 function remove_extension() {
-  printf '%s\n' "${1%%.*}"
+  printf '%s\n' "${1%.*}"
 }
 
 function get_image() {
   s="${1}"
-  if [ -f "${s}.jpg" ]; then
-    readlink -f "${s}.jpg"
-  elif [ -f "${s}.png" ]; then
-    readlink -f "${s}.png"
-  fi
+  for ext in webp jpg jpeg png; do
+    if [ -f "${s}.${ext}" ]; then
+      readlink -f "${s}.${ext}"
+      return 0
+    fi
+  done
 }
 
 function get_filename() {
@@ -166,7 +161,13 @@ function do_checks(){
     exit 1
   fi
 
-  if command_exists cook; then
+  if command_exists cook-docs; then
+    printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
+    if ! (cd "${ROOT_DIR}" && cook-docs doctor --check-recipes "${1}"); then
+      printf "Cook validation failed for %s\n" "${1}"
+      exit 1
+    fi
+  elif command_exists cook; then
     printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
     local tmp_dir=$(mktemp -d)
     cp "${1}" "${tmp_dir}/"

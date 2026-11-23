@@ -1,0 +1,630 @@
+---
+# Auto-generated from docs/reference/measuring.md
+# Run `task sync-weights` after editing the Ingredient Weight Chart.
+exclude_small_units:
+- allspice
+- bay
+- caraway
+- cardamom
+- cayenne
+- chives
+- cloves
+- coriander
+- cumin
+- curry
+- dill
+- fennel
+- fresh basil
+- ground cinnamon
+- ground ginger
+- marjoram
+- nutmeg
+- oregano
+- paprika
+- parsley
+- pepper
+- peppercorn
+- peppercorns
+- rosemary
+- saffron
+- sage
+- salt
+- seasoning
+- spice
+- tarragon
+- thyme
+- turmeric
+weights:
+  '''00'' pizza flour': 116
+  00 pizza flour: 116
+  agave syrup: 336
+  all-purpose baking mix: 120
+  all-purpose flour: 120
+  almond butter: 272
+  almond flour: 96
+  almond meal: 84
+  almond paste (packed):
+    grams_per_cup: 259
+    aliases:
+    - almond paste
+  almonds (sliced):
+    grams_per_cup: 86
+    aliases:
+    - almonds
+  almonds (slivered): 114
+  almonds, whole (unblanched): 142
+  amaranth flour: 103
+  apple juice concentrate: 280
+  apples (dried, diced): 85
+  apples (peeled, sliced):
+    grams_per_cup: 113
+    aliases:
+    - apples
+  applesauce: 255
+  apricots (dried, diced): 128
+  arborio rice: 200
+  artisan bread flour: 120
+  artisan bread topping: 172
+  baker's cinnamon filling: 152
+  baker's fruit blend: 128
+  baker's special sugar (superfine sugar, castor sugar):
+    grams_per_cup: 190
+    aliases:
+    - baker's special sugar
+  baking powder: 192
+  baking soda: 288
+  baking sugar alternative: 170
+  bananas (mashed):
+    grams_per_cup: 227
+    aliases:
+    - bananas
+  barley (cooked): 215
+  barley (pearled):
+    grams_per_cup: 213
+    aliases:
+    - barley
+  barley flakes: 92
+  barley flour: 85
+  barley malt syrup: 336
+  basil pesto: 224
+  bell peppers (fresh):
+    grams_per_cup: 142
+    aliases:
+    - bell peppers
+  berries (frozen): 142
+  better cheddar cheese powder: 114
+  black-eyed peas (dry): 175
+  blueberries (dried): 156
+  blueberries (fresh or frozen): 140
+  blueberries (fresh):
+    grams_per_cup: 170
+    aliases:
+    - blueberries
+  blueberry juice: 241
+  boiled cider: 340
+  bran cereal: 60
+  bread crumbs (dried): 112
+  bread crumbs (fresh):
+    grams_per_cup: 84
+    aliases:
+    - bread crumbs
+  bread crumbs (panko): 200
+  bread flour: 120
+  breadcrumbs (dried): 112
+  breadcrumbs (fresh):
+    grams_per_cup: 84
+    aliases:
+    - breadcrumbs
+  breadcrumbs (japanese panko): 50
+  broccoli: 91
+  brown rice (cooked): 170
+  brown rice flour: 128
+  brown sugar (dark or light, packed):
+    grams_per_cup: 213
+    aliases:
+    - brown sugar
+  buckwheat (whole):
+    grams_per_cup: 170
+    aliases:
+    - buckwheat
+  buckwheat flour: 120
+  bulgar: 152
+  bulgur: 152
+  butter: 226
+  buttermilk: 227
+  buttermilk biscuit flour blend: 110
+  buttermilk powder: 144
+  cacao nibs: 120
+  cake enhancer: 112
+  candied lemon peel: 148
+  candied orange peel: 100
+  candied peel: 170
+  caramel (14 to 16 individual pieces, 1" squares):
+    grams_per_cup: 284
+    aliases:
+    - caramel
+  caramel (14-16 individual pieces, 1" squares): 284
+  caramel bits (chopped heath or toffee):
+    grams_per_cup: 156
+    aliases:
+    - caramel bits
+  caraway seeds: 144
+  carrots (cooked and puréed): 256
+  carrots (diced):
+    grams_per_cup: 142
+    aliases:
+    - carrots
+  carrots (grated): 99
+  cashews (chopped):
+    grams_per_cup: 113
+    aliases:
+    - cashews
+  cashews (whole): 113
+  cauliflower: 100
+  celery (diced):
+    grams_per_cup: 142
+    aliases:
+    - celery
+  cheese (feta):
+    grams_per_cup: 114
+    aliases:
+    - cheese
+  cheese (grated cheddar, jack, mozzarella or swiss): 113
+  cheese (grated cheddar, jack, mozzarella, or swiss): 113
+  cheese (grated parmesan): 100
+  cheese (ricotta): 227
+  cherries (candied):
+    grams_per_cup: 200
+    aliases:
+    - cherries
+  cherries (dried): 142
+  cherries (fresh, pitted, chopped): 160
+  cherries (frozen): 113
+  cherry concentrate: 336
+  chia seeds: 148
+  chickpea flour: 85
+  chili powder: 108
+  chives (fresh):
+    grams_per_cup: 42
+    aliases:
+    - chives
+  chocolate (chopped):
+    grams_per_cup: 170
+    aliases:
+    - chocolate
+  chocolate chips: 170
+  chocolate chunks: 170
+  chocolate mousse mix: 112
+  cinnamon sugar: 200
+  cinnamon sweet bits: 140
+  cinnamon-sugar: 200
+  climate blend flour: 115
+  cocoa (unsweetened): 84
+  coconut (sweetened, shredded): 85
+  coconut (toasted): 85
+  coconut (unsweetened, desiccated): 85
+  coconut (unsweetened, large flakes): 60
+  coconut (unsweetened, shredded): 53
+  coconut cream (unsweetened): 284
+  coconut flour: 128
+  coconut milk (evaporated):
+    grams_per_cup: 242
+    aliases:
+    - coconut milk
+  coconut milk powder: 114
+  coconut milk; canned, well shaken: 241
+  coconut oil: 226
+  coconut sugar: 154
+  coffee beans (whole):
+    grams_per_cup: 85
+    aliases:
+    - coffee beans
+  collard greens (chopped, raw):
+    grams_per_cup: 36
+    aliases:
+    - collard greens
+  confectioners' sugar (unsifted):
+    grams_per_cup: 113
+    aliases:
+    - confectioners' sugar
+  cookie butter: 288
+  cookie crumbs: 85
+  corn (fresh or frozen): 152
+  corn (popped):
+    grams_per_cup: 5.25
+    aliases:
+    - corn
+  corn syrup: 312
+  cornmeal (whole):
+    grams_per_cup: 138
+    aliases:
+    - cornmeal
+  cornmeal (yellow, quaker): 156
+  cornstarch: 112
+  cottage cheese: 226
+  couscous: 180
+  cracked wheat: 149
+  cranberries (dried): 114
+  cranberries (fresh or frozen): 99
+  cream (heavy cream, light cream, or half & half):
+    grams_per_cup: 227
+    aliases:
+    - cream
+  cream (heavy cream, light cream, or half-and-half): 227
+  cream cheese: 227
+  cream of coconut: 284
+  crystallized ginger: 184
+  crème fraiche: 226
+  currants: 142
+  curry powder: 160
+  dates (chopped):
+    grams_per_cup: 149
+    aliases:
+    - dates
+  demerara sugar: 220
+  dried blueberry powder: 112
+  dried buttermilk powder: 200
+  dried milk (baker's special dried milk): 140
+  dried milk (baker's special dry milk): 112
+  dried minced onion: 96
+  dried nonfat milk (powdered): 112
+  dried potato flakes (instant mashed potatoes): 86
+  dried red lentils: 210
+  dried whole milk (powdered): 100
+  durum flour: 124
+  easy roll dough improver: 144
+  egg whites (dried): 88
+  espresso powder: 112
+  everything bagel topping: 140
+  figs (dried, chopped): 149
+  first clear flour: 106
+  flax meal: 100
+  flaxseed: 140
+  formaggio italiano cheese and herb blend: 120
+  french-style flour: 120
+  fresh basil: 42
+  fresh cilantro: 42
+  fruitcake fruit blend: 120
+  garlic (minced):
+    grams_per_cup: 224
+    aliases:
+    - garlic
+  garlic (peeled and sliced): 149
+  ghee: 176
+  ginger (fresh, sliced):
+    grams_per_cup: 228
+    aliases:
+    - ginger
+  gluten-free all-purpose baking mix: 120
+  gluten-free all-purpose flour: 156
+  gluten-free bread flour: 120
+  gluten-free measure for measure flour: 120
+  gluten-free pizza flour: 100
+  gluten-free sourdough starter (made with gluten-free bread flour): 170
+  gluten-free sourdough starter (made with gluten-free measure for measure flour): 227
+  glutinous rice flour: 120
+  gochugaru: 108
+  golden wheat flour: 113
+  graham cracker crumbs (boxed):
+    grams_per_cup: 99
+    aliases:
+    - graham cracker crumbs
+  graham cracker crumbs (store-bought or crushed from whole): 100
+  graham crackers (crushed):
+    grams_per_cup: 142
+    aliases:
+    - graham crackers
+  granola: 113
+  grape nuts: 114
+  grape-nuts: 114
+  green onions (chopped):
+    grams_per_cup: 100
+    aliases:
+    - green onions
+  ground coriander: 96
+  ground cumin: 144
+  ground turmeric: 144
+  guava paste: 400
+  harvest grains blend: 148
+  hazelnut flour: 89
+  hazelnut praline paste: 312
+  hazelnut spread: 320
+  hazelnuts (whole):
+    grams_per_cup: 142
+    aliases:
+    - hazelnuts
+  hi-maize natural fiber: 128
+  high-gluten flour: 120
+  honey: 336
+  instant clearjel: 176
+  irish-style flour: 110
+  italian herb seasoning: 112
+  italian-style flour: 106
+  jam or preserves: 340
+  jammy bits: 184
+  keto wheat flour: 120
+  keto wheat pizza crust mix: 110
+  key lime juice: 227
+  lard: 226
+  leeks (diced):
+    grams_per_cup: 92
+    aliases:
+    - leeks
+  lemon crumbles: 180
+  lemon curd: 226
+  lemon juice: 224
+  lemon juice powder: 144
+  lime juice powder: 144
+  macadamia nuts (whole):
+    grams_per_cup: 149
+    aliases:
+    - macadamia nuts
+  malt syrup: 344
+  malted milk powder: 140
+  malted wheat flakes: 128
+  maple cinnamon french toast sugar: 192
+  maple cream: 336
+  maple sugar: 156
+  maple syrup: 312
+  marshmallow fluff: 128
+  marshmallow fluff®: 128
+  marshmallow spread, homemade: 72
+  marshmallow spread, store-bought: 123
+  marshmallows (mini):
+    grams_per_cup: 43
+    aliases:
+    - marshmallows
+  marzipan: 290
+  masa harina: 93
+  mascarpone cheese: 227
+  mashed potatoes: 213
+  mashed sweet potatoes: 240
+  matcha powder: 96
+  mayonnaise: 226
+  medium rye flour: 106
+  meringue powder: 172
+  milk (evaporated):
+    grams_per_cup: 226
+    aliases:
+    - milk
+  milk (fresh): 227
+  millet (whole):
+    grams_per_cup: 206
+    aliases:
+    - millet
+  mini chocolate chips: 177
+  mini diced ginger: 146
+  miso paste: 288
+  molasses: 340
+  mushrooms (sliced):
+    grams_per_cup: 78
+    aliases:
+    - mushrooms
+  non-diastatic malt powder: 144
+  nutella: 298
+  nutritional yeast: 60
+  oat bran: 106
+  oat flour: 92
+  oats (king arthur rolled):
+    grams_per_cup: 113
+    aliases:
+    - oats
+  oats (old-fashioned or quick-cooking): 89
+  oats (prepared): 147
+  old-fashioned rolled oats: 99
+  olive oil: 200
+  olives (sliced):
+    grams_per_cup: 142
+    aliases:
+    - olives
+  onion (fresh, diced):
+    grams_per_cup: 142
+    aliases:
+    - onion
+  onions (fresh, diced):
+    grams_per_cup: 142
+    aliases:
+    - onions
+  orzo: 200
+  paleo baking flour: 104
+  palm shortening: 180
+  passion fruit purée: 180
+  pasta flour blend: 145
+  pastry flour: 106
+  pastry flour blend: 113
+  peaches (peeled and diced):
+    grams_per_cup: 170
+    aliases:
+    - peaches
+  peanut butter: 270
+  peanuts (whole, shelled):
+    grams_per_cup: 142
+    aliases:
+    - peanuts
+  pears (peeled and diced):
+    grams_per_cup: 163
+    aliases:
+    - pears
+  peas (frozen): 150
+  pecan meal: 80
+  pecans (diced):
+    grams_per_cup: 114
+    aliases:
+    - pecans
+  pecans (whole): 105
+  pickles (chopped):
+    grams_per_cup: 150
+    aliases:
+    - pickles
+  pie filling enhancer: 184
+  pine nuts: 142
+  pineapple (crushed, drained):
+    grams_per_cup: 256
+    aliases:
+    - pineapple
+  pineapple (dried): 142
+  pineapple (fresh or canned, diced): 170
+  pistachio nuts (shelled):
+    grams_per_cup: 120
+    aliases:
+    - pistachio nuts
+  pistachio nuts (shlled): 120
+  pistachio paste: 312
+  pizza dough flavor: 96
+  pizza flour blend: 124
+  pizza sauce: 228
+  pizza seasoning: 80
+  polenta (coarse ground cornmeal): 163
+  poppy seeds: 144
+  potato flour: 184
+  potato starch: 152
+  potatoes (sliced):
+    grams_per_cup: 157
+    aliases:
+    - potatoes
+  pumpernickel flour: 106
+  pumpkin purée: 227
+  pumpkin seeds: 160
+  queso fresco: 114
+  quinoa (cooked): 184
+  quinoa (whole):
+    grams_per_cup: 177
+    aliases:
+    - quinoa
+  quinoa flour: 110
+  raisins (loose):
+    grams_per_cup: 149
+    aliases:
+    - raisins
+  raisins (packed): 170
+  raspberries (fresh):
+    grams_per_cup: 120
+    aliases:
+    - raspberries
+  rhubarb (sliced, 1/2" slices):
+    grams_per_cup: 120
+    aliases:
+    - rhubarb
+  rice (long grain, dry): 198
+  rice flour (white):
+    grams_per_cup: 142
+    aliases:
+    - rice flour
+  rice krispies: 28
+  rye bread improver: 112
+  rye chops: 120
+  rye flakes: 124
+  rye flour: 103
+  rye flour blend: 106
+  salt (kosher, diamond crystal):
+    grams_per_cup: 128
+    aliases:
+    - salt
+  salt (kosher, morton's): 256
+  salt (table): 288
+  salted butter: 226
+  scallions (sliced):
+    grams_per_cup: 64
+    aliases:
+    - scallions
+  self-rising flour: 113
+  semolina flour: 163
+  sesame seeds: 142
+  shallots (peeled and sliced):
+    grams_per_cup: 156
+    aliases:
+    - shallots
+  six-grain blend: 128
+  snow white non-melting topping sugar: 114
+  sorghum flour: 138
+  sour cream: 227
+  sourdough starter: 227
+  soy flour: 140
+  sparkling sugar: 228
+  spelt flour: 99
+  sprouted wheat flour: 113
+  steel cut oats: 140
+  steel cut oats (cooked): 255
+  steel cut oats (raw): 198
+  sticky bun sugar: 99
+  strawberries (fresh sliced):
+    grams_per_cup: 167
+    aliases:
+    - strawberries
+  sugar (granulated white):
+    grams_per_cup: 198
+    aliases:
+    - sugar
+  sugar substitute (splenda):
+    grams_per_cup: 25
+    aliases:
+    - sugar substitute
+  sun-dried tomatoes (dry pack): 170
+  sundried tomatoes (dry pack): 170
+  sunflower seeds: 140
+  super 10 blend: 106
+  swedish pearl sugar: 196
+  sweetened condensed coconut milk: 288
+  sweetened condensed milk: 312
+  tahini paste: 256
+  tapioca (quick cooking):
+    grams_per_cup: 168
+    aliases:
+    - tapioca
+  tapioca starch or flour: 113
+  teff flour: 135
+  the works bread topping: 140
+  toasted almond flour: 96
+  toffee chunks: 156
+  tomato paste: 232
+  tomatoes (fresh, chopped):
+    grams_per_cup: 180
+    aliases:
+    - tomatoes
+  tropical fruit blend: 128
+  tubinado sugar (raw):
+    grams_per_cup: 180
+    aliases:
+    - tubinado sugar
+  turbinado sugar (raw):
+    grams_per_cup: 180
+    aliases:
+    - turbinado sugar
+  unbleached cake flour: 120
+  unsalted butter: 226
+  vanilla extract: 224
+  vegan mayonnaise: 226
+  vegetable oil: 198
+  vegetable shortening: 184
+  vermont cheese powder: 114
+  vital wheat gluten: 144
+  walnuts (chopped):
+    grams_per_cup: 113
+    aliases:
+    - walnuts
+  walnuts (whole): 128
+  water: 227
+  wheat berries (red):
+    grams_per_cup: 184
+    aliases:
+    - wheat berries
+  wheat bran: 64
+  wheat germ: 112
+  white chocolate chips: 170
+  white rye flour: 106
+  white whole wheat flour: 113
+  whole grain flour blend: 113
+  whole milk: 227
+  whole wheat flour (premium 100%):
+    grams_per_cup: 113
+    aliases:
+    - whole wheat flour
+  whole wheat pastry flour / graham flour: 96
+  whole wheat pastry flour/graham flour: 96
+  yeast (instant): 144
+  yogurt: 227
+  yuletide cheer fruit blend: 130
+  zucchini (shredded):
+    grams_per_cup: 121
+    aliases:
+    - zucchini

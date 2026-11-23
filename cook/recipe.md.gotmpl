@@ -1,0 +1,154 @@
+{{- define "custom.categoryTags" -}}
+{{- $n := len .Info.Categories -}}
+{{- if gt $n 0 -}}
+{{- $c0 := index .Info.Categories 0 -}}
+{{- if eq $c0 "beverages" }}
+  - beverage
+{{- else if eq $c0 "breads" }}
+  - bread
+{{- else if eq $c0 "breakfast" }}
+  - breakfast
+{{- else if eq $c0 "cookies-and-bars" }}
+  - cookie
+  - bar
+  - dessert
+{{- else if eq $c0 "desserts" }}
+  - dessert
+{{- if gt $n 1 }}
+{{- $sub := index .Info.Categories 1 }}
+{{- if eq $sub "cake" }}
+  - cake
+{{- else if eq $sub "cupcakes" }}
+  - cupcake
+{{- else if eq $sub "pie" }}
+  - pie
+{{- else if eq $sub "tarts" }}
+  - tart
+{{- else }}
+  - {{ $sub }}
+{{- end }}
+{{- end }}
+{{- else if eq $c0 "ingredients" }}
+{{- if gt $n 1 }}
+{{- $sub := index .Info.Categories 1 }}
+{{- if eq $sub "extracts" }}
+  - extract
+{{- else if eq $sub "fillings" }}
+  - filling
+{{- else if eq $sub "post-baking-glazes" }}
+  - glaze
+{{- else if eq $sub "seasonings" }}
+  - seasoning
+{{- else }}
+  - {{ $sub }}
+{{- end }}
+{{- end }}
+  - ingredient
+{{- else if eq $c0 "lunches" }}
+  - lunch
+{{- else if eq $c0 "main" }}
+  - main
+{{- else if eq $c0 "mediterranean" }}
+  - mediterranean
+{{- else if eq $c0 "sauces-and-dressings" }}
+{{- if gt $n 1 }}
+{{- $sub := index .Info.Categories 1 }}
+{{- if eq $sub "dips-and-spreads" }}
+  - dip
+  - spread
+{{- else if eq $sub "gravy-and-savory-sauces" }}
+  - sauce
+{{- if gt $n 2 }}
+  - {{ index .Info.Categories 2 }}
+{{- end }}
+{{- else if eq $sub "mother-sauces" }}
+  - mother-sauce
+{{- else if eq $sub "vinaigrettes" }}
+  - dressing
+{{- else }}
+  - {{ $sub }}
+{{- end }}
+{{- else }}
+  - sauce
+{{- end }}
+{{- else if eq $c0 "sides" }}
+  - side
+{{- if gt $n 1 }}
+{{- $sub := index .Info.Categories 1 }}
+{{- if eq $sub "salads" }}
+  - salad
+{{- else if eq $sub "vegetables" }}
+  - vegetable
+{{- else }}
+  - {{ $sub }}
+{{- end }}
+{{- end }}
+{{- else if eq $c0 "soups-and-stews" }}
+  - soup
+  - stew
+{{- else }}
+  - {{ $c0 }}
+{{- end }}
+{{- end -}}
+{{- end -}}
+
+{{- define "cook.ingredients" -}}
+{{- if .Ingredients -}}
+{{- range .Ingredients }}
+- {{ with ingredientEmoji .Name }}{{ . }} {{ end }}{{ if .Amount.IsNumeric }}{{ if .Amount.QuantityRaw }}{{ .Amount.QuantityRaw }}{{ else }}{{ round .Amount.Quantity 2 }}{{ end }}{{ if .Amount.Unit }} {{ .Amount.Unit }}{{ end }}{{ with toGrams .Amount .Name }} ({{ . }} g){{ end }} {{ if $.Config.LinkDirs }}{{ linkRecipe .Name }}{{ else }}{{ .Name }}{{ end }}{{ else if and .Amount.QuantityRaw .Amount.Unit }}{{ .Amount.QuantityRaw }} {{ .Amount.Unit }} {{ if $.Config.LinkDirs }}{{ linkRecipe .Name }}{{ else }}{{ .Name }}{{ end }}{{ else if and .Amount.QuantityRaw (ne (lower .Amount.QuantityRaw) "some") }}{{ if $.Config.LinkDirs }}{{ linkRecipe .Name }}{{ else }}{{ .Name }}{{ end }} ({{ .Amount.QuantityRaw }}){{ else }}{{ if $.Config.LinkDirs }}{{ linkRecipe .Name }}{{ else }}{{ .Name }}{{ end }}{{ end }}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- define "custom.image" -}}
+{{- if .Info.ImageSlug }}
+![{{ .Info.RecipeName }}][1]{ loading=lazy }
+{{- end -}}
+{{- end -}}
+
+{{- define "custom.footer" -}}
+{{- if .Info.ImageSlug }}
+[1]: <{{ .Info.RelRoot }}/assets/images/{{ .Info.ImageSlug }}>
+{{- end -}}
+{{- end -}}
+---
+comments: true
+{{- if .Frontmatter.tags }}
+tags:
+{{ toYaml .Frontmatter.tags | indent 2 }}
+{{- else if .Info.Categories }}
+tags:{{ template "custom.categoryTags" . }}
+{{- end }}
+{{- if .Info.ImageSlug }}
+hero: assets/images/{{ .Info.ImageSlug }}
+{{- else if .Frontmatter.hero }}
+hero: {{ toYaml .Frontmatter.hero }}
+{{- end }}
+{{- range $k, $v := .Frontmatter }}
+{{- if and (ne $k "tags") (ne $k "title") (ne $k "category") (ne $k "comments") (ne $k "hero") }}
+{{ $k }}: {{ toYaml $v }}
+{{- end }}
+{{- end }}
+---
+
+{{ template "cook.headerSection" . }}
+{{- if .Info.ImageSlug }}
+
+{{ template "custom.image" . }}
+{{- end }}
+
+{{ template "cook.tableSection" . }}
+
+{{ template "cook.ingredientsSection" . }}
+{{- if .Cookware }}
+
+{{ template "cook.cookwareSection" . }}
+{{- end }}
+
+{{ template "cook.stepsSection" . -}}
+
+{{ template "cook.sourceSection" . }}
+{{- if .Info.ImageSlug }}
+
+{{ template "custom.footer" . }}
+{{- end }}
