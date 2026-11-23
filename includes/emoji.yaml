@@ -2,6 +2,8 @@
 emoji:
   cookware:
     - bowl_with_spoon:
+        - salad spinner
+        - half sheet pan
         - steamer basket
         - small mixing bowl
         - clean bowl
@@ -110,6 +112,7 @@ emoji:
         - microwave
         - blender or food processor
     - knife:
+        - mandoline
         - cake leveler
         - box grater
         - kitchen shears
@@ -197,6 +200,7 @@ emoji:
         - melon baller
         - candy thermometer
     - wastebasket:
+        - spider strainer
         - fine strainer
         - fine-mesh sieve
         - cooling rack
@@ -385,6 +389,7 @@ emoji:
     - banana:
         - best-ever banana bread
     - beans:
+        - fresh green beans
         - cannellini beans
         - Yukon gold potatoes
         - fresh or frozen baby lima beans
@@ -420,6 +425,7 @@ emoji:
     - blue_circle:
         - blueberry [ricotta](../ingredients/ricotta.md) breakfast cake
     - bread:
+        - rice flour
         - all-purpose flour (maida)
         - whole wheat flour
         - King Arthur Unbleached All-Purpose Flour
@@ -622,6 +628,7 @@ emoji:
         - unsweetened cherry juice
         - canned dark sweet cherries in light syrup
     - chestnut:
+        - freshly grated nutmeg
         - walnut pieces
         - walnut halves
         - cumin
@@ -851,6 +858,7 @@ emoji:
         - garlic powder
         - garlic clove
     - glass_of_milk:
+        - half and half
         - unsweetened plain almond milk
         - yogurt (curd)
         - evaporated milk
@@ -1131,6 +1139,7 @@ emoji:
         - nonstick baking spray
         - coconut oil spray
     - onion:
+        - large onions
         - white onion
         - scallions (trimmed, light green and white parts thinly sliced)
         - finely chopped onion
@@ -1273,6 +1282,7 @@ emoji:
         - star bread
         - savory star bread
     - stew:
+        - unsalted vegetable broth
         - reduced-sodium chicken broth
         - vegetable or chicken broth
         - chicken breast
@@ -1306,6 +1316,8 @@ emoji:
     - taco:
         - chipotle breakfast tacos
     - takeout_box:
+        - soy sauce powder
+        - sherry vinegar
         - citric acid
         - white wine vinegar
         - white miso
