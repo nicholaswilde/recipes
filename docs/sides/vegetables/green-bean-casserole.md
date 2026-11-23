@@ -3,6 +3,7 @@ comments: true
 tags:
   - casserole
   - holiday
+  - recipe-box
 hero: assets/images/green-bean-casserole.webp
 ---
 
@@ -20,7 +21,7 @@ hero: assets/images/green-bean-casserole.webp
 - :tea: 0.5 onions
 - :mushroom: 0.5 cup (39 g) sliced mushrooms
 - :beans: 2 cups (170 g) green beans
-- 3 cups [vegetable broth][1]
+- :stew: 3 cups [vegetable broth][1]
 - :droplet: 1 can cream of mushroom soup
 - :glass_of_milk: 1 8-oz can French-fried onion rings
 - :salt: some salt
@@ -63,5 +64,6 @@ Bake for 20 minutes; sprinkle with cheddar cheese (optional) if desired, and bak
 ## :link: Source
 
 - French's
+- Recipe Box
 
 [1]: <../../ingredients/vegetable-broth.md>
