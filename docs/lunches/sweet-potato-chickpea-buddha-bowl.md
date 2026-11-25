@@ -1,9 +1,12 @@
 ---
 comments: true
+hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
+serves: '8'
+source: https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/
 tags:
   - lunch
   - minimalist-baker
-hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
+total time: 30 minutes
 ---
 
 # :sweet_potato: Sweet Potato Chickpea Buddha Bowl
@@ -12,7 +15,7 @@ hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
-| 8 | 25 minutes |
+| 8 | 30 minutes |
 
 ## :salt: Ingredients
 
@@ -47,14 +50,14 @@ hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp
 ## :cooking: Cookware
 
 - :cookie: 1 baking sheet
-- 1 large skillet
+- :shallow_pan_of_food: 1 large skillet
 - :bowl_with_spoon: 1 mixing bowl
 
 ## :pencil: Instructions
 
 ### Step 1
 
-Preheat oven to 400°F (204°C) and arrange quartered sweet potatoes and wedged red onions on a bare baking sheet.
+Preheat oven to 400 °F (204°C) and arrange quartered sweet potatoes and wedged red onions on a bare baking sheet.
 Drizzle both with a bit of olive oil, making sure the flesh of the sweet potatoes are well coated and placed skin side
 down on the sheet.
 
@@ -70,8 +73,9 @@ a pinch each salt and pepper. Bake for another 4 to 5 minutes then set aside.
 
 ### Step 4
 
-While vegetables are roasting, heat a large skillet over medium heat and add chickpeas to a mixing bowl and toss with
-cumin, chili powder, garlic powder, salt, pepper, oregano (optional), and turmeric (optional).
+While vegetables are roasting, heat a large skillet over medium heat and add [chickpeas](../ingredients/chickpeas.md) to
+a mixing bowl and toss with cumin, chili powder, garlic powder, salt, pepper, oregano (optional), and turmeric
+(optional).
 
 ### Step 5
 
@@ -85,8 +89,8 @@ Once the chickpeas are browned and fragrant, remove from heat and set aside.
 
 ### Step 7
 
-Prepare sauce by adding tahini, maple syrup, and lemon juice to a mixing bowl and whisking to combine. Add 5 to 10 Tbsp
-of hot water until a pourable sauce is formed. Set aside.
+Prepare sauce by adding [tahini](../sauces-and-dressings/dips-and-spreads/tahini.md), maple syrup, and lemon juice to a
+mixing bowl and whisking to combine. Add 5 to 10 Tbsp of hot water until a pourable sauce is formed. Set aside.
 
 ### Step 8
 

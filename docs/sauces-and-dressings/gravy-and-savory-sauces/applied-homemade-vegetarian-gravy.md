@@ -1,12 +1,16 @@
 ---
 comments: true
+hero: assets/images/applied-homemade-vegetarian-gravy.webp
+serves: 6 cups
+source: Applied Kitchen
 tags:
   - applied-kitchen
   - gravy
-hero: assets/images/applied-homemade-vegetarian-gravy.webp
+  - sauce
+total time: 30 minutes
 ---
 
-# :stew: Applied Homemade Vegetarian Gravy
+# :takeout_box: Applied Homemade Vegetarian Gravy
 
 ![Applied Homemade Vegetarian Gravy][1]{ loading=lazy }
 
@@ -16,17 +20,15 @@ hero: assets/images/applied-homemade-vegetarian-gravy.webp
 
 ## :salt: Ingredients
 
-- :butter: 1 stick unsalted butter
-- :tea: 1 cup (96 g) onion
-- :leafy_green: 0.5 cups (71 g) celery
-- :carrot: 0.5 cup carrot
+- :butter: 1 stick [unsalted butter](../../ingredients/butter/butter.md)
+- :tea: 1 cup (142 g) onion
+- :leafy_green: 1/2 cups (71 g) celery
+- :carrot: 1/2 cup (71 g) carrot
 - :garlic: 3 cloves garlic
-- :bread: 0.75 cup (90 g) all-purpose flour
-- 6 cups [Vegetable Broth](../../ingredients/vegetable-broth.md)
-- :salt: some salt
-- :salt: some pepper
-
-## :cooking: Cookware
+- :bread: 3/4 cup (90 g) all-purpose flour
+- :stew: 6 cups [vegetable broth](../../ingredients/vegetable-broth.md)
+- :salt: salt
+- :salt: pepper
 
 ## :pencil: Instructions
 
@@ -36,7 +38,8 @@ Heat a saute pan over medium heat.
 
 ### Step 2
 
-Add unsalted butter, minced onion, minced celery, minced carrot, and sliced garlic to the pan.
+Add [unsalted butter](../../ingredients/butter/butter.md), minced onion, minced celery, minced carrot, and sliced garlic
+to the pan.
 
 ### Step 3
 
@@ -48,7 +51,7 @@ Stir in the all-purpose flour and cook for an additional 4 minutes, or until the
 
 ### Step 5
 
-Gradually add the [Vegetable Broth](../../ingredients/vegetable-broth.md) while stirring to avoid lumps.
+Gradually add the [vegetable broth](../../ingredients/vegetable-broth.md) while stirring to avoid lumps.
 
 ### Step 6
 
@@ -64,7 +67,7 @@ If desired, finish by stirring in about 1 Tbsp of your favorite combination of f
 
 ### Step 9
 
-Storage: keeps well in the refrigerator for up to 5 days or can be frozen for 2-3 months.
+Storage: keeps well in the refrigerator for up to 5 days or can be frozen for 2 to 3 months.
 
 ### Step 10
 

@@ -1,14 +1,15 @@
 ---
 comments: true
+hero: assets/images/danish-pastry.webp
+source: https://www.paulhollywood.com/post/danish-pastry-dough
 tags:
   - ingredient
   - pastry-dough
-hero: assets/images/danish-pastry.png
 ---
 
-# :pie: Danish Pastry
+# :salt: Danish Pastry
 
-![Danish Pastry](../../assets/images/danish-pastry.png){ loading=lazy }
+![Danish Pastry][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
@@ -16,21 +17,21 @@ hero: assets/images/danish-pastry.png
 
 ## :salt: Ingredients
 
-- :ear_of_rice: 500 g strong white bread flour
+- 500 g strong white bread flour
 - :salt: 10 g salt
 - :candy: 80 g caster sugar
-- :microbe: 10 g instant yeast
+- :tea: 10 g instant yeast
 - :egg: 2 medium eggs
-- :droplet: 90 ml cool water
-- :glass_of_milk: 125 ml tepid full-fat milk
-- :butter: 250 g chilled unsalted Normandy butter
+- 90 ml cool water
+- 125 ml tepid full-fat milk
+- 250 g chilled unsalted Normandy butter
 
 ## :cooking: Cookware
 
-- 1 stand mixer
+- :gear: 1 stand mixer
 - 1 dough hook
-- 1 plastic bag
-- 1 fridge
+- :package: 1 plastic bag
+- :snowflake: 1 fridge
 
 ## :pencil: Instructions
 
@@ -47,7 +48,7 @@ and chill in the fridge for an hour.
 
 ### Step 3
 
-On a lightly floured surface, roll out your chilled dough to a rectangle, about 50 x 20cm and about 1cm thick. Flatten
+On a lightly floured surface, roll out your chilled dough to a rectangle, about 50 x 20 cm and about 1 cm thick. Flatten
 the chilled unsalted Normandy butter to a rectangle, about 33 x 19cm, by bashing it with a rolling pin. Lay the butter
 on the dough so that it covers the bottom two-thirds of it. Make sure that it is positioned neatly and comes almost to
 the edges.
@@ -74,3 +75,5 @@ use.
 ## :link: Source
 
 - <https://www.paulhollywood.com/post/danish-pastry-dough>
+
+[1]: <../../assets/images/danish-pastry.webp>

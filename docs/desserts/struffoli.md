@@ -1,14 +1,17 @@
 ---
 comments: true
+hero: assets/images/struffoli.webp
+image: Struffoli.jpg
+serves: '10'
+source: https://www.marcellinaincucina.com/struffoli-bakers-odyssey-challenge-38/
 tags:
   - dessert
   - honey
   - italian
   - struffoli
-hero: assets/images/struffoli.webp
 ---
 
-# :egg: Struffoli
+# :cake: Struffoli
 
 ![Struffoli][1]{ loading=lazy }
 
@@ -19,24 +22,23 @@ hero: assets/images/struffoli.webp
 ## :salt: Ingredients
 
 - :egg: 3 eggs
-- :candy: 1 tbsp (12 g) granulated sugar
-- :olive: 1 tbsp (12 g) extra virgin olive oil
+- :candy: 5 tbsp granulated sugar
+- :olive: 1 tbsp extra virgin olive oil
 - :salt: 1 pinch salt
 - :tangerine: 1 orange
-- :bread: 2.5 cups (300 g) all purpose flour
-- :olive: some light olive oil
-- :honey_pot: 1 cup honey
-- :candy: 0.25 cup (50 g) granulated sugar
-- :art: some colored sprinkles
+- :bread: 2.5 cups all purpose flour
+- light olive oil
+- :honey_pot: 1 cup (336 g) honey
+- colored sprinkles
 
 ## :cooking: Cookware
 
-- 1 bowl
+- :bowl_with_spoon: 1 bowl
 - 1 deep frying pan
 - :cookie: 1 baking sheet
-- 1 slotted spoon
+- :bowl_with_spoon: 1 slotted spoon
 - 1 wide frying pan or skillet
-- 1 serving plate
+- :shallow_pan_of_food: 1 serving plate
 
 ## :pencil: Instructions
 

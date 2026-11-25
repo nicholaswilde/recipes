@@ -1,31 +1,32 @@
 ---
 comments: true
+hero: assets/images/benedictine-sandwich-spread.webp
 tags:
+  - dip
   - spread
   - vegetarian
-hero: assets/images/benedictine-sandwich-spread.webp
 ---
 
-# :cucumber: Benedictine Sandwich Spread
+# :takeout_box: Benedictine Sandwich Spread
 
-![Benedictine Sandwich Spread](../../assets/images/benedictine-sandwich-spread.webp){ loading=lazy }
+![Benedictine Sandwich Spread][1]{ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
-| 10 minutes |
+| 0 minutes |
 
 ## :salt: Ingredients
 
 - :cucumber: 1.5 cucumbers
-- :beans: 0.5 small white onion
+- :onion: 1/2 small white onion
 - :salt: 1.5 tsp salt
-- :salt: 0.5 tsp (1 g) white pepper
-- :cheese_wedge: 24 oz (681 g) cream cheese
+- 1/2 tsp white pepper
+- :cheese: 24 oz [cream cheese](../../ingredients/cream-cheese.md)
 
 ## :cooking: Cookware
 
-- 1 spoon
-- 1 food processor
+- :bowl_with_spoon: 1 spoon
+- :gear: 1 food processor
 
 ## :pencil: Instructions
 
@@ -51,8 +52,10 @@ Squeeze out excess liquid.
 
 ### Step 6
 
-Combine with salt, white pepper, and cream cheese and refrigerate up to three days.
+Combine with salt, white pepper, and [cream cheese](../../ingredients/cream-cheese.md) and refrigerate up to three days.
 
 ## :link: Source
 
 - Jennie Benedict
+
+[1]: <../../assets/images/benedictine-sandwich-spread.webp>
