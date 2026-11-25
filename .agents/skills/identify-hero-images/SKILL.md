@@ -50,8 +50,11 @@ Separate results into **Generation Required** vs. **Metadata / Sync Fixes**:
     - **Unrelated Duplicate Hashes**: Distinct dishes sharing identical image bytes (keep shared
       images only when recipes are direct variations of the same dish).
 2. **Metadata / Embed Fixes Only** (no generation needed):
-    - **`NO_HERO`**: Recipe already has a valid `.webp` body embed; add
-      `hero: assets/images/<slug>.webp` to YAML frontmatter.
+    - **`NO_HERO`**: Recipe already has a valid `.webp` body embed; set `hero:` in YAML frontmatter via `mdfm`:
+
+      ```bash
+      mdfm set hero=assets/images/<slug>.webp <recipe_path>
+      ```
     - **Hero vs. Embed Mismatches**: Update the body embed reference to match the dedicated
       `hero:` file.
     - **Non-WebP Images**: Run `./scripts/optimize_images.sh` after replacing any corrupt `.jpg`

@@ -23,8 +23,6 @@ import unicodedata
 import urllib.parse
 from datetime import datetime, timezone
 
-import yaml
-
 DEFAULT_OWNER = "nicholaswilde"
 DEFAULT_REPO = "recipes"
 DEFAULT_STATE_FILE = ".github/giscus_triage_state.json"
@@ -183,39 +181,26 @@ def normalize_slug(name):
     return re.sub(r"[^a-z0-9]+", "-", ascii_text.lower()).strip("-")
 
 
-def add_comments_to_file(filepath):
+def _run_mdfm(args):
+    """Run `mdfm --output json` and return parsed JSON entries, or None on failure."""
+    result = subprocess.run(
+        ["mdfm", "--output", "json", *args],
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return None
+    return json.loads(result.stdout) if result.stdout.strip() else []
+
+
+def add_comments_to_file(filepath, dry_run=False):
     """Ensure `comments: true` exists in a markdown file's YAML frontmatter."""
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    lines = content.splitlines()
-    has_front_matter = False
-    front_matter_end_idx = -1
-
-    if len(lines) > 0 and lines[0].strip() == "---":
-        for i in range(1, len(lines)):
-            if lines[i].strip() == "---":
-                has_front_matter = True
-                front_matter_end_idx = i
-                break
-
-    if has_front_matter:
-        front_matter_lines = lines[1:front_matter_end_idx]
-        for line in front_matter_lines:
-            if re.match(
-                r'^\s*comments\s*:\s*[\'"]?true[\'"]?\s*$', line, re.IGNORECASE
-            ):
-                return False
-
-        lines.insert(front_matter_end_idx, "comments: true")
-        new_content = "\n".join(lines) + ("\n" if content.endswith("\n") else "")
-    else:
-        new_content = "---\ncomments: true\n---\n" + content
-
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(new_content)
-
-    return True
+    args = ["set"]
+    if dry_run:
+        args.append("--dry-run")
+    args.extend(["comments=true", filepath])
+    entries = _run_mdfm(args)
+    return bool(entries and any(entry.get("changed") for entry in entries))
 
 
 def build_docs_file_map(docs_dir="docs"):
@@ -316,173 +301,42 @@ def find_cook_file(rel_path, md_path=None, cook_dir="cook", cook_file_map=None):
     return matches[0]
 
 
-def _find_frontmatter_bounds(lines):
-    """Return `(start_idx, end_idx)` of YAML frontmatter or `None` if absent."""
+def _has_yaml_frontmatter(content):
+    """Return True if content begins with a closed `---` YAML frontmatter block."""
+    lines = content.splitlines()
     if len(lines) < 2 or lines[0].strip() != "---":
-        return None
-    for idx in range(1, len(lines)):
-        if lines[idx].strip() == "---":
-            return (0, idx)
-    return None
+        return False
+    return any(line.strip() == "---" for line in lines[1:])
 
 
-def _promote_tags_in_frontmatter_lines(
-    lines, fm_end_idx, add_favorite_if_missing=False
+def _promote_tags_with_mdfm(
+    filepath, add_favorite_if_missing=False, dry_run=False
 ):
-    """Promote `must-try` to `favorite` in YAML frontmatter lines.
-
-    Args:
-        lines: Full file split into lines.
-        fm_end_idx: Index of closing `---` line.
-        add_favorite_if_missing: Add `favorite` tag if `must-try` was absent.
-
-    Returns:
-        Tuple of `(updated_lines, changed)`.
-    """
-    fm_text = "\n".join(lines[1:fm_end_idx])
-    try:
-        fm_data = yaml.safe_load(fm_text) or {}
-    except yaml.YAMLError:
-        return lines, False
-
-    if not isinstance(fm_data, dict):
-        return lines, False
-
-    tags = fm_data.get("tags")
-    if isinstance(tags, str):
-        tags_list = [tags]
-    elif isinstance(tags, list):
-        tags_list = [str(t).strip() for t in tags if t is not None]
-    else:
-        tags_list = []
-
-    has_must_try = "must-try" in tags_list
-    has_favorite = "favorite" in tags_list
-
-    if not has_must_try and not (add_favorite_if_missing and not has_favorite):
-        return lines, False
-
-    new_lines = list(lines)
-
-    if has_must_try:
-        # Handle inline flow list: `tags: [a, must-try]`
-        inline_updated = False
-        for i in range(1, fm_end_idx):
-            m = re.match(r"^(\s*tags\s*:\s*)\[(.*)\]\s*$", new_lines[i])
-            if m:
-                items = [
-                    x.strip().strip("'\"")
-                    for x in m.group(2).split(",")
-                    if x.strip()
-                ]
-                updated_items = []
-                for item in items:
-                    if item == "must-try":
-                        if not has_favorite and "favorite" not in updated_items:
-                            updated_items.append("favorite")
-                    else:
-                        updated_items.append(item)
-                new_lines[i] = f"{m.group(1)}[{', '.join(updated_items)}]"
-                inline_updated = True
-                break
-
-        if not inline_updated:
-            # Handle block list items: `  - must-try` or `- must-try`
-            out_fm = []
-            replaced = False
-            for i in range(1, fm_end_idx):
-                line = new_lines[i]
-                item_match = re.match(
-                    r"^(\s*-\s*)['\"]?must-try['\"]?\s*(#.*)?$", line
-                )
-                if item_match:
-                    replaced = True
-                    if not has_favorite:
-                        comment = f" {item_match.group(2)}" if item_match.group(2) else ""
-                        out_fm.append(f"{item_match.group(1)}favorite{comment}")
-                    # If favorite already exists, drop the duplicate must-try entry.
-                else:
-                    out_fm.append(line)
-            if not replaced:
-                return lines, False
-            new_lines = [new_lines[0]] + out_fm + new_lines[fm_end_idx:]
-        return new_lines, True
-
-    # add_favorite_if_missing is True and neither tag is present
-    tags_key_idx = None
-    insert_idx = fm_end_idx
-    for i in range(1, fm_end_idx):
-        if re.match(r"^\s*tags\s*:", new_lines[i]):
-            tags_key_idx = i
-            j = i + 1
-            while j < fm_end_idx and (
-                re.match(r"^\s*-\s+", new_lines[j]) or not new_lines[j].strip()
-            ):
-                if re.match(r"^\s*-\s+", new_lines[j]):
-                    insert_idx = j + 1
-                j += 1
-            if insert_idx == fm_end_idx and j <= fm_end_idx:
-                insert_idx = i + 1
-            break
-
-    if tags_key_idx is not None:
-        m = re.match(r"^(\s*tags\s*:\s*)\[(.*)\]\s*$", new_lines[tags_key_idx])
-        if m:
-            existing = [x.strip() for x in m.group(2).split(",") if x.strip()]
-            existing.append("favorite")
-            new_lines[tags_key_idx] = f"{m.group(1)}[{', '.join(existing)}]"
-        else:
-            if re.match(r"^\s*tags\s*:\s*\S+", new_lines[tags_key_idx]):
-                # Single scalar tag like `tags: breakfast`
-                scalar = new_lines[tags_key_idx].split(":", 1)[1].strip()
-                new_lines[tags_key_idx : tags_key_idx + 1] = [
-                    "tags:",
-                    f"  - {scalar}",
-                    "  - favorite",
-                ]
-            else:
-                new_lines[tags_key_idx] = "tags:"
-                new_lines.insert(insert_idx, "  - favorite")
-    else:
-        new_lines.insert(fm_end_idx, "  - favorite")
-        new_lines.insert(fm_end_idx, "tags:")
-
-    return new_lines, True
+    """Promote `must-try` to `favorite` in YAML frontmatter via `mdfm`."""
+    args = []
+    if not add_favorite_if_missing:
+        args.extend(["--where", 'tags contains "must-try"'])
+    args.append("set")
+    if dry_run:
+        args.append("--dry-run")
+    args.extend(["tags-=must-try", "tags+=favorite", filepath])
+    entries = _run_mdfm(args)
+    return bool(entries and any(entry.get("changed") for entry in entries))
 
 
-def promote_tags_in_markdown(filepath):
+def promote_tags_in_markdown(filepath, dry_run=False):
     """Promote `must-try` to `favorite` in a markdown file's frontmatter."""
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
+    return _promote_tags_with_mdfm(
+        filepath, add_favorite_if_missing=False, dry_run=dry_run
+    )
 
+
+def _promote_tags_in_legacy_cook_content(
+    content, add_favorite_if_missing=False
+):
+    """Promote `must-try` to `favorite` in legacy `>>` or body-only `.cook` content."""
     lines = content.splitlines()
-    bounds = _find_frontmatter_bounds(lines)
-    if bounds is None:
-        return False
-
-    new_lines, changed = _promote_tags_in_frontmatter_lines(lines, bounds[1])
-    if not changed:
-        return False
-
-    new_content = "\n".join(new_lines) + ("\n" if content.endswith("\n") else "")
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(new_content)
-    return True
-
-
-def promote_tags_in_cook_content(content, add_favorite_if_missing=False):
-    """Promote `must-try` to `favorite` in `.cook` YAML or `>>` metadata."""
-    lines = content.splitlines()
-    bounds = _find_frontmatter_bounds(lines)
     trailing_nl = "\n" if content.endswith("\n") else ""
-
-    if bounds is not None:
-        new_lines, changed = _promote_tags_in_frontmatter_lines(
-            lines, bounds[1], add_favorite_if_missing=add_favorite_if_missing
-        )
-        if not changed:
-            return content, False
-        return "\n".join(new_lines) + trailing_nl, True
 
     # Handle legacy `>> tags:` metadata lines
     tag_line_indices = [
@@ -582,17 +436,35 @@ def append_cooking_notes_to_cook_content(content, notes):
     return f"{stripped}\n\n{joined}\n", len(blocks)
 
 
-def update_cook_file(cook_path, notes, promote_favorite=False):
+def update_cook_file(cook_path, notes, promote_favorite=False, dry_run=False):
     """Update a `.cook` file with promoted tags and staged cooking notes."""
     with open(cook_path, "r", encoding="utf-8") as f:
         original = f.read()
 
-    updated, promoted = promote_tags_in_cook_content(
+    if _has_yaml_frontmatter(original):
+        promoted = _promote_tags_with_mdfm(
+            cook_path, add_favorite_if_missing=promote_favorite, dry_run=dry_run
+        )
+        current = original
+        if promoted and not dry_run:
+            with open(cook_path, "r", encoding="utf-8") as f:
+                current = f.read()
+        updated, notes_added = append_cooking_notes_to_cook_content(current, notes)
+        if notes_added > 0 and not dry_run:
+            with open(cook_path, "w", encoding="utf-8") as f:
+                f.write(updated)
+        return {
+            "changed": promoted or notes_added > 0,
+            "promoted": promoted,
+            "notes_added": notes_added,
+        }
+
+    updated, promoted = _promote_tags_in_legacy_cook_content(
         original, add_favorite_if_missing=promote_favorite
     )
     updated, notes_added = append_cooking_notes_to_cook_content(updated, notes)
 
-    if updated != original:
+    if updated != original and not dry_run:
         with open(cook_path, "w", encoding="utf-8") as f:
             f.write(updated)
 
@@ -1043,32 +915,16 @@ def triage_discussions(
         if dry_run or mode == "issue":
             # Inspect without mutating local files on dry-run or issue-only mode.
             if md_path:
-                with open(md_path, "r", encoding="utf-8") as f:
-                    md_text = f.read()
-                md_comments_added = not re.search(
-                    r"^\s*comments\s*:\s*['\"]?true['\"]?\s*$",
-                    md_text,
-                    re.IGNORECASE | re.MULTILINE,
-                )
-                md_bounds = _find_frontmatter_bounds(md_text.splitlines())
-                if has_owner_note and md_bounds:
-                    _, md_promoted = _promote_tags_in_frontmatter_lines(
-                        md_text.splitlines(), md_bounds[1]
-                    )
+                md_comments_added = add_comments_to_file(md_path, dry_run=True)
+                if has_owner_note:
+                    md_promoted = promote_tags_in_markdown(md_path, dry_run=True)
             if cook_path:
-                with open(cook_path, "r", encoding="utf-8") as f:
-                    cook_text = f.read()
-                _, cook_promoted = promote_tags_in_cook_content(
-                    cook_text, add_favorite_if_missing=has_owner_note and md_promoted
+                cook_result = update_cook_file(
+                    cook_path,
+                    new_notes,
+                    promote_favorite=has_owner_note and md_promoted,
+                    dry_run=True,
                 )
-                _, notes_added = append_cooking_notes_to_cook_content(
-                    cook_text, new_notes
-                )
-                cook_result = {
-                    "changed": cook_promoted or notes_added > 0,
-                    "promoted": cook_promoted,
-                    "notes_added": notes_added,
-                }
         else:
             # Ensure clean starting working tree in pr/auto modes before making edits.
             _run_git(["checkout", base_branch])

@@ -64,13 +64,21 @@ tasks:
         sed -i 's/\(\!\[.*\)/\1\{ loading=lazy \}/' {{ .CLI_ARGS }}
 
   add-comments:
-    desc: Add a front matter tag
+    desc: 'Enable comments in Markdown frontmatter'
     cmds:
-      - yq --front-matter="process" '.comments = "true"' {{ .CLI_ARGS }}
+      - mdfm set comments=true {{ .CLI_ARGS }}
   add-tag:
-    desc: Add a front matter tag
+    desc: 'Add a frontmatter tag (usage: task add-tag -- <tag> <paths...>)'
     cmds:
-      - yq -i --front-matter="process" '.tags += ["{{ (split " " .CLI_ARGS)._0 }}"]' {{ (split " " .CLI_ARGS)._1 }}
+      - >-
+        mdfm set 'tags+={{ (splitList " " .CLI_ARGS) | first }}'
+        {{ range $p := (splitList " " .CLI_ARGS) | rest }}{{ shellQuote $p }} {{ end }}
+  remove-tag:
+    desc: 'Remove a frontmatter tag (usage: task remove-tag -- <tag> <paths...>)'
+    cmds:
+      - >-
+        mdfm set 'tags-={{ (splitList " " .CLI_ARGS) | first }}'
+        {{ range $p := (splitList " " .CLI_ARGS) | rest }}{{ shellQuote $p }} {{ end }}
 
   clean:
     desc: Clean markdown files from cook dir
@@ -101,6 +109,12 @@ tasks:
       - task: rumdl
       - task: yamllint
       - task: shuck
+      - task: lint:frontmatter
+
+  lint:frontmatter:
+    desc: Validate Markdown frontmatter against JSON Schema
+    cmds:
+      - mdfm check docs/
 
   lint-changed:
     desc: Lint only modified/changed files (saves tokens)

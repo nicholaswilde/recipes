@@ -148,7 +148,7 @@ This project is a personal recipe collection managed as a documentation site usi
 - **Recipe Source:** Cooklang (`cook/**/*.cook`) organized by category subdirectories (e.g., `cook/breakfast/`, `cook/desserts/`).
 - **Intermediate Docs:** Markdown (`docs/**/*.md`) served by Zensical.
 - **Automation & Tools:** Taskfile ([Taskfile.yml](file:///home/nicholas/git/nicholaswilde/recipes/Taskfile.yml)), GitHub Actions ([ci.yaml](file:///home/nicholas/git/nicholaswilde/recipes/.github/workflows/ci.yaml)), Docker, `uv` / `pip` for Python dependency management, `cwebp` for WebP conversion, `oxipng` for PNG optimization.
-- **Quality Assurance:** `rumdl`, `yamllint`, `spellchecker-cli`, `markdown-link-check`.
+- **Quality Assurance:** `rumdl`, `yamllint-rs`, `mdfm`, `shuck`, `typos`, `lychee`.
 
 ## Development Commands
 
@@ -169,7 +169,8 @@ This project is a personal recipe collection managed as a documentation site usi
 - **Doctor Diagnostics:** `task doctor` (validates [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml), [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl), emojis, weights, ignored ingredients, `zensical.toml`, and recipes; supports `--only` and `--strict`).
 - **Watch & Live Re-render:** `task watch` (runs `cook-docs watch` with non-destructive `--merge` enabled in `.cookdocs.toml`).
 - **Spellcheck File:** `task spellcheck-file FILE=path/to/file` (targeted spellcheck using [dictionary.txt](file:///home/nicholas/git/nicholaswilde/recipes/dictionary.txt)). When importing a recipe, always use this instead of the general `task spellcheck`.
-- **Lint Files:** `task lint` (runs `rumdl` and `yamllint`). Specific linters: `task rumdl`, `task yamllint`.
+- **Lint Files:** `task lint` (runs `rumdl`, `yamllint`, `shuck`, and `lint:frontmatter`). Specific linters: `task rumdl`, `task yamllint`, `task lint:frontmatter` (`mdfm check docs/` against [.mdfm-schema.json](file:///home/nicholas/git/nicholaswilde/recipes/.mdfm-schema.json) via [.mdfm.toml](file:///home/nicholas/git/nicholaswilde/recipes/.mdfm.toml)).
+- **Query & Edit Frontmatter:** Use `mdfm` (`mdfm get`, `mdfm set`, `mdfm del`, `mdfm check`) or Taskfile shortcuts (`task add-comments -- <paths>`, `task add-tag -- <tag> <paths>`, `task remove-tag -- <tag> <paths>`) instead of `yq --front-matter` or ad-hoc YAML scripts.
 - **Compile & Move Recipe:** `FILES=<path/to/cookfile> task move` (runs single-file `cook-docs` with `.cookdocs.toml` for frontmatter, `[category_tags]`, H1 `titleEmoji`, ingredient/cookware emojis, gram weights, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync, plus Pillow/PNG post-processing and spell/link checks).
 - **Link Checking Note:** DO NOT run `task linkcheck` project-wide as it is excessively slow. Only use targeted link checks when necessary.
 

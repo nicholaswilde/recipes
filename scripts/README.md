@@ -13,7 +13,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
 | `scripts/list_ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
-| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files (saves tokens). |
+| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check`, and `yamllint-rs` (saves tokens). |
 | `scripts/git_summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
@@ -22,9 +22,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/import_manual_recipe.py` | - | Orchestrates the manual recipe import pipeline (`.cook`, image, emoji mapping, `move.sh` / `cook-docs`, spellcheck, commit). |
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
-| `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
+| `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files (querying `hero` via `mdfm`) to find missing hero images or embeds. |
 | `scripts/add_recipe_size.py` | - | Scales ingredients of a recipe by a factor and appends it as a new tab block. |
-| `scripts/adjust_recipe_metadata.py` | - | Modifies frontmatter metadata tags and custom properties for a recipe markdown file. |
 | `scripts/optimize_images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
 | `scripts/sync_weights_yaml.py` | `task sync-weights` | Regenerates `includes/weights.yaml` from `docs/reference/measuring.md` for `cook-docs` `toGrams` enrichment. |
 
@@ -119,18 +118,6 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   the result as a new tab (e.g. `=== "Serves 4"`). Handles mixed fractions, simple fractions, decimals,
   integers, and weight measurements in grams.
 
-#### [adjust_recipe_metadata.py](adjust_recipe_metadata.py)
-
-* **Usage**:
-
-  ```bash
-  uv run scripts/adjust_recipe_metadata.py <recipe.md> \
-    [--add-tags <tag1,tag2>] [--remove-tags <tag3>] [--set-metadata <key=val>]
-  ```
-
-* **Description**: Modifies frontmatter metadata tags and custom properties (such as comments or hero images)
-  for a recipe markdown file.
-
 #### [optimize_images.sh](optimize_images.sh)
 
 * **Usage**: `./scripts/optimize_images.sh [category]`
@@ -177,8 +164,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run scripts/sync_giscus_comments.py [--triage] [--mode auto|pr|issue] [--dry-run] [--seed-state]`
 * **Description**: Queries GitHub Discussions via `gh api` to locate recipes with active comments,
-  setting `comments: true` in their front-matter. With `--triage`, detects new cooking notes, promotes
-  `must-try` tags to `favorite`, stages notes in source `.cook` files, and opens PRs/issues.
+  setting `comments: true` via `mdfm`. With `--triage`, detects new cooking notes, promotes
+  `must-try` tags to `favorite` via `mdfm`, stages notes in source `.cook` files, and opens PRs/issues.
 
 #### [find_missing_sources.py](find_missing_sources.py)
 
@@ -189,8 +176,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [check_missing_images.py](check_missing_images.py)
 
 * **Usage**: `uv run scripts/check_missing_images.py [--json] [--category CATEGORY]` or `task check-missing-images`
-* **Description**: Scans all recipe markdown files under `docs/` and reports missing hero frontmatter fields,
-  missing image embeds (`![...]`), nonexistent hero files, and corrupted links.
+* **Description**: Queries recipe `hero` frontmatter via `mdfm` and scans recipe markdown files under `docs/` to report
+  missing hero frontmatter fields, missing image embeds (`![...]`), nonexistent hero files, and corrupted links.
 
 ---
 
@@ -210,7 +197,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run python3 scripts/lint_changed.py` or `task lint-changed`
 * **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown
-  and YAML files in the git workspace, running the appropriate linters only on those files to save context tokens.
+  and YAML files in the git workspace, running `rumdl`, `mdfm check` (on `docs/**/*.md`), and
+  `yamllint-rs` only on those files to save context tokens.
 
 #### [git_summary.py](git_summary.py)
 

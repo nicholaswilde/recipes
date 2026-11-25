@@ -1,11 +1,12 @@
 ---
 tags:
-  - applied-kitchen
-  - salsa
-  - strawberry
-  - dip
-  - easy
+- applied-kitchen
+- salsa
+- strawberry
+- dip
+- easy
 hero: assets/images/strawberry-salsa.webp
+comments: true
 ---
 
 # :strawberry: Strawberry Salsa

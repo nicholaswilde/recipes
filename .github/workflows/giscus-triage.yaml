@@ -48,6 +48,17 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
+      - name: Install mdfm
+        env:
+          MDFM_VERSION: "0.1.1"
+        run: |
+          mkdir -p "${HOME}/.local/bin"
+          pkg="mdfm-${MDFM_VERSION}-x86_64-unknown-linux-musl"
+          url="https://github.com/nicholaswilde/mdfm/releases/download/v${MDFM_VERSION}/${pkg}.tar.gz"
+          curl -fsSL "${url}" | tar -xz --strip-components=1 -C "${HOME}/.local/bin" "${pkg}/mdfm"
+          echo "${HOME}/.local/bin" >> "${GITHUB_PATH}"
+          "${HOME}/.local/bin/mdfm" --version
+
       - name: Configure git identity
         run: |
           git config user.name "github-actions[bot]"

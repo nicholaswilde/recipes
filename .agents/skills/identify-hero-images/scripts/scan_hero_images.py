@@ -87,6 +87,7 @@ def scan_recipes(
         no_hero, mismatches, and non_webp recipes.
     """
     recipe_files = cmi.find_recipe_files()
+    hero_map = cmi.get_hero_map()
     corrupt: list[dict[str, Any]] = []
     missing: list[dict[str, Any]] = []
     low_res: list[dict[str, Any]] = []
@@ -97,8 +98,7 @@ def scan_recipes(
 
     for filepath in recipe_files:
         relpath = os.path.relpath(filepath, cmi.REPO_ROOT)
-        frontmatter = cmi.parse_frontmatter(filepath)
-        hero = frontmatter.get("hero", "")
+        hero = hero_map.get(os.path.realpath(filepath), "")
         with open(filepath, "r", encoding="utf-8") as fh:
             embeds = extract_embeds(fh.read())
 

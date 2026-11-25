@@ -13,6 +13,7 @@ triage actionable cooking notes using `scripts/sync_giscus_comments.py`.
 
 ## Prerequisites
 
+- `mdfm` CLI installed (`brew install nicholaswilde/homebrew-tap/mdfm`) — used for `comments: true` and `must-try` -> `favorite` frontmatter mutations.
 - Authenticated GitHub CLI (`gh auth status`) with access to `discussions: read` (and
   `issues: write` / `pull-requests: write` / `contents: write` when triaging).
 - Clean working tree on `main` (or target `--base-branch`) before running `--triage` in `auto`

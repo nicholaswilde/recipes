@@ -1,52 +1,69 @@
 ---
 name: adjust-recipe-metadata
 description: >-
-  Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files. Trigger: /adjust-recipe-metadata, 'adjust recipe metadata', 'update recipe tags'.
+  Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files using mdfm. Trigger: /adjust-recipe-metadata, 'adjust recipe metadata', 'update recipe tags'.
 ---
 
 # Adjust Recipe Metadata
 
-This skill automates the adjustment of recipe metadata, tags, and frontmatter.
+This skill automates querying, modifying, deleting, and validating recipe frontmatter metadata and tags using [`mdfm`](https://github.com/nicholaswilde/mdfm).
 
 ## Description
 
-This skill enables developers to add/remove tags and modify other frontmatter metadata keys (e.g., `comments`,
-`hero`, etc.) dynamically on recipe markdown files.
+Use `mdfm` (configured via `.mdfm.toml` and `.mdfm-schema.json`) to add/remove tags, update frontmatter keys (`comments`, `hero`, `source`, etc.), run filtered bulk updates with `--where`, and validate schema compliance without disturbing the Markdown body.
 
 ## Protocol
 
-1. **Invoke the script**:
+1. **Mutate or Query Frontmatter with `mdfm`**:
 
-   Run the `adjust_recipe_metadata.py` script:
+   **Add / remove tags (deduplicated):**
 
    ```bash
-   uv run python3 scripts/adjust_recipe_metadata.py <recipe_path> [options]
+   # Add one or more tags
+   mdfm set tags+=healthy tags+=quick docs/breakfast/overnight-oats.md
+   # Or via Taskfile:
+   task add-tag -- quick docs/breakfast/overnight-oats.md
+
+   # Remove tags (or promote must-try -> favorite)
+   mdfm set tags-=must-try tags+=favorite docs/breakfast/overnight-oats.md
+   # Or via Taskfile:
+   task remove-tag -- must-try docs/breakfast/overnight-oats.md
    ```
 
-   **Available Options**:
-   - `--add-tags <tag1,tag2,...>`: Add a comma-separated list of tags to the recipe.
-   - `--remove-tags <tag1,tag2,...>`: Remove a comma-separated list of tags from the recipe.
-   - `--set-metadata <key=value,key2=value2,...>`: Set comma-separated key=value metadata fields in the frontmatter.
+   **Set or delete metadata keys:**
 
-   **Examples**:
-   - Add tags `healthy` and `quick`:
+   ```bash
+   # Set comments flag and hero image path
+   mdfm set comments=false hero=assets/images/new-hero.webp docs/breakfast/overnight-oats.md
 
-     ```bash
-     uv run python3 scripts/adjust_recipe_metadata.py docs/breakfast/overnight-oats.md --add-tags "healthy,quick"
-     ```
+   # Enable comments via Taskfile
+   task add-comments -- docs/breakfast/overnight-oats.md
 
-   - Disable comments and update the hero image path:
+   # Delete a frontmatter key
+   mdfm del legacy_key docs/breakfast/overnight-oats.md
+   ```
 
-     ```bash
-     uv run python3 scripts/adjust_recipe_metadata.py docs/breakfast/overnight-oats.md --set-metadata "comments=false,hero=assets/images/new-hero.webp"
-     ```
+   **Query or preview bulk edits with `--where` and `--dry-run`:**
+
+   ```bash
+   # List untried must-try recipes (excluding favorites)
+   mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' get tags docs/
+
+   # Preview a bulk tag update before writing
+   mdfm --where 'tags contains "applied-kitchen"' set --dry-run tags+=quick docs/
+   ```
 
 2. **Verify and Lint**:
 
-   - Verify that the frontmatter in the updated file is formatted correctly.
-   - Run `rumdl check <recipe_path>` to ensure rumdl rules pass.
-   - Run `task lint-changed`, `task validate`, and `task validate-cook FILE="<cook_file>"`.
-   - Run `task build` to ensure the site compiles correctly.
+   - Validate frontmatter schema and changed files:
+
+     ```bash
+     mdfm check <recipe_path>
+     task lint-changed
+     task validate
+     ```
+
+   - Run `task build` when making broad metadata or tag changes.
 
 3. **Commit the changes**:
 
@@ -54,5 +71,5 @@ This skill enables developers to add/remove tags and modify other frontmatter me
 
    ```bash
    rtk git add <recipe_path>
-   rtk git commit -m "docs(recipes): Adjust metadata for <recipe_name>"
+   rtk git commit -m "docs(recipes): adjust metadata for <recipe_name>"
    ```

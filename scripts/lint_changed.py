@@ -57,15 +57,25 @@ def main():
         sys.exit(0)
 
     md_files = []
+    docs_md_files = []
     yaml_files = []
+    ignored_docs = {
+        "docs/README.md",
+        "docs/index.md",
+        "docs/reference/charts.md",
+    }
 
     for status, path in changed_files:
         if not os.path.exists(path):
             continue
         if path.endswith(".md"):
             md_files.append(path)
+            norm_path = path.replace("\\", "/")
+            if norm_path.startswith("docs/") and norm_path not in ignored_docs:
+                docs_md_files.append(path)
         elif path.endswith((".yaml", ".yml")):
-            yaml_files.append(path)
+            if not path.replace("\\", "/").startswith(".github/"):
+                yaml_files.append(path)
 
     has_errors = False
 
@@ -78,6 +88,13 @@ def main():
             has_errors = True
     else:
         print("No changed Markdown files to lint.")
+
+    # Validate Markdown frontmatter in docs/
+    if docs_md_files:
+        print(f"\nValidating frontmatter in {len(docs_md_files)} changed docs Markdown files with mdfm...")
+        result = subprocess.run(["mdfm", "check"] + docs_md_files)
+        if result.returncode != 0:
+            has_errors = True
 
     # Lint YAML files
     if yaml_files:

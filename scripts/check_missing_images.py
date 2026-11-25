@@ -27,7 +27,7 @@ Usage:
 import argparse
 import json
 import os
-import re
+import subprocess
 import sys
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,23 +45,21 @@ def is_recipe(filepath):
     return "## :salt: Ingredients" in content or "## :pencil: Instructions" in content
 
 
-def parse_frontmatter(filepath):
-    """Extract frontmatter fields from a markdown file."""
-    with open(filepath, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
-    if not lines or lines[0].strip() != "---":
-        return {}
-
-    frontmatter = {}
-    for line in lines[1:]:
-        if line.strip() == "---":
-            break
-        m = re.match(r"^(\w+):\s*(.+)$", line)
-        if m:
-            frontmatter[m.group(1)] = m.group(2).strip()
-
-    return frontmatter
+def get_hero_map(paths=None):
+    """Query `hero` frontmatter values via `mdfm` keyed by resolved path."""
+    targets = [str(p) for p in paths] if paths else [DOCS_DIR]
+    result = subprocess.run(
+        ["mdfm", "--output", "json", "get", "hero", *targets],
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    entries = json.loads(result.stdout) if result.stdout.strip() else []
+    return {
+        os.path.realpath(entry["file"]): str(entry["value"]).strip()
+        for entry in entries
+        if entry.get("value") is not None
+    }
 
 
 def has_image_embed(filepath):
@@ -118,17 +116,19 @@ def find_recipe_files(category=None):
     return sorted(recipe_files)
 
 
-def check_images(recipe_files):
+def check_images(recipe_files, hero_map=None):
     """Check all recipe files for image issues.
 
     Returns a list of dicts with issue details.
     """
+    if hero_map is None:
+        hero_map = get_hero_map(recipe_files) if recipe_files else {}
+
     issues = []
 
     for filepath in recipe_files:
         relpath = os.path.relpath(filepath, REPO_ROOT)
-        frontmatter = parse_frontmatter(filepath)
-        hero = frontmatter.get("hero", "")
+        hero = hero_map.get(os.path.realpath(filepath), "")
         embed = has_image_embed(filepath)
 
         if not hero:
@@ -225,7 +225,9 @@ def main():
     args = parser.parse_args()
 
     recipe_files = find_recipe_files(category=args.category)
-    issues = check_images(recipe_files)
+    target_dir = os.path.join(DOCS_DIR, args.category) if args.category else DOCS_DIR
+    hero_map = get_hero_map([target_dir]) if os.path.isdir(target_dir) else {}
+    issues = check_images(recipe_files, hero_map=hero_map)
 
     if args.json:
         print(json.dumps(issues, indent=2))

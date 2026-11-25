@@ -20,6 +20,8 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
+import yaml
+
 spec = importlib.util.spec_from_file_location(
     "sync_giscus_comments", "scripts/sync_giscus_comments.py"
 )
@@ -103,25 +105,40 @@ class TestSyncGiscusComments(unittest.TestCase):
             (False, False),
         )
 
+    def _parse_frontmatter(self, path):
+        with open(path, "r", encoding="utf-8") as f:
+            text = f.read()
+        parts = text.split("---", 2)
+        self.assertGreaterEqual(len(parts), 3, f"Missing YAML frontmatter in {path}")
+        return yaml.safe_load(parts[1]) or {}
+
+    def test_add_comments_to_file_and_dry_run(self):
+        md_plain = os.path.join(self.docs_dir, "breads", "plain.md")
+        with open(md_plain, "w", encoding="utf-8") as f:
+            f.write("# Plain\n")
+
+        self.assertTrue(sync_giscus.add_comments_to_file(md_plain, dry_run=True))
+        with open(md_plain, "r", encoding="utf-8") as f:
+            self.assertEqual(f.read(), "# Plain\n")
+
+        self.assertTrue(sync_giscus.add_comments_to_file(md_plain))
+        self.assertIs(self._parse_frontmatter(md_plain)["comments"], True)
+        self.assertFalse(sync_giscus.add_comments_to_file(md_plain))
+
     def test_promote_tags_in_markdown_block_and_inline(self):
         md_block = os.path.join(self.docs_dir, "breads", "test-loaf.md")
         with open(md_block, "w", encoding="utf-8") as f:
             f.write("---\ncomments: true\ntags:\n  - bread\n  - must-try\n---\n\n# Loaf\n")
 
         self.assertTrue(sync_giscus.promote_tags_in_markdown(md_block))
-        with open(md_block, "r", encoding="utf-8") as f:
-            updated = f.read()
-        self.assertIn("  - favorite\n", updated)
-        self.assertNotIn("must-try", updated)
+        self.assertEqual(self._parse_frontmatter(md_block)["tags"], ["bread", "favorite"])
         self.assertFalse(sync_giscus.promote_tags_in_markdown(md_block))
 
         md_inline = os.path.join(self.docs_dir, "breads", "inline.md")
         with open(md_inline, "w", encoding="utf-8") as f:
             f.write("---\ntags: [bread, must-try, favorite]\n---\n\n# Inline\n")
         self.assertTrue(sync_giscus.promote_tags_in_markdown(md_inline))
-        with open(md_inline, "r", encoding="utf-8") as f:
-            inline_updated = f.read()
-        self.assertIn("tags: [bread, favorite]", inline_updated)
+        self.assertEqual(self._parse_frontmatter(md_inline)["tags"], ["bread", "favorite"])
 
     def test_update_cook_file_yaml_and_legacy_and_idempotency(self):
         cook_yaml = os.path.join(self.cook_dir, "breads", "Test Loaf.cook")
@@ -143,8 +160,7 @@ class TestSyncGiscusComments(unittest.TestCase):
 
         with open(cook_yaml, "r", encoding="utf-8") as f:
             content = f.read()
-        self.assertIn("  - favorite", content)
-        self.assertNotIn("must-try", content)
+        self.assertEqual(self._parse_frontmatter(cook_yaml)["tags"], ["bread", "favorite"])
         self.assertIn("[-- Giscus cooking note (@nicholaswilde, 2026-11-14, DC_123):", content)
         self.assertIn("- -]", content)
 

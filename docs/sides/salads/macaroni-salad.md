@@ -1,5 +1,6 @@
 ---
 hero: assets/images/macaroni-salad.webp
+comments: true
 ---
 
 # :green_salad: Macaroni Salad

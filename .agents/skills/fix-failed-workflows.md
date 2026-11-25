@@ -117,6 +117,15 @@ rtk gh run view <run-id> --log --job=<job-id> | cat
      ```
   2. Correct YAML indentation manually per `.yamllint`.
 
+#### G. Frontmatter Schema Validation (`frontmatter` workflow)
+* **Symptom**: `mdfm check docs/` fails on missing `comments`, invalid `tags` type, or corrupted `hero` links.
+* **Fix protocol**:
+  1. Run schema validation locally:
+     ```bash
+     task lint:frontmatter
+     ```
+  2. Fix invalid frontmatter keys with `mdfm set` / `mdfm del` (e.g., `mdfm set comments=true <file>` or `mdfm set hero=assets/images/<slug>.webp <file>`).
+
 ---
 
 ### 3. Stage, Commit, Push, and Verify

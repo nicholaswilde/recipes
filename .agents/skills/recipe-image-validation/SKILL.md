@@ -37,9 +37,17 @@ This checks all recipe files for:
 
 ### 2. Fix Corrupted Hero Paths
 
-If frontmatter paths contain markdown links (e.g. `hero: assets/images/[ricotta]...`), strip the link and square
-brackets, keeping only the raw text (e.g. `hero: assets/images/ricotta-fritters.webp`). Ensure the casing matches
-the actual filename on disk (filenames are typically lowercase).
+Find any `hero:` values corrupted with markdown links using `mdfm` (also enforced by `.mdfm-schema.json`):
+
+```bash
+mdfm --where 'hero contains "["' get hero docs/
+```
+
+If frontmatter paths contain markdown links (e.g. `hero: assets/images/[ricotta]...`), set the clean raw path with `mdfm` (ensuring casing matches the filename on disk):
+
+```bash
+mdfm set hero=assets/images/ricotta-fritters.webp <recipe_path>
+```
 
 ---
 
@@ -47,10 +55,10 @@ the actual filename on disk (filenames are typically lowercase).
 
 For recipes missing properties or body embeds:
 
-- **Missing Hero Frontmatter**: Extract the image name from the body link and add the property to the frontmatter:
+- **Missing Hero Frontmatter**: Extract the image name from the body link and set `hero:` with `mdfm`:
 
-  ```yaml
-  hero: assets/images/<filename>.<ext>
+  ```bash
+  mdfm set hero=assets/images/<filename>.<ext> <recipe_path>
   ```
 
 - **Missing Body Image Embeds**: Insert the embed below the main title (H1) and append the reference link to the

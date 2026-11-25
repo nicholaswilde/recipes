@@ -1,5 +1,6 @@
 ---
 hero: assets/images/white-trash.webp
+comments: true
 ---
 
 # :beans: White Trash

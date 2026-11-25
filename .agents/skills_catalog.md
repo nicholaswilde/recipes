@@ -6,7 +6,7 @@ Catalog of custom Antigravity agent skills available in `recipes`.
 |---|---|---|
 | [`add-ingredient-weight`](skills/add-ingredient-weight/SKILL.md) | Add a volume-to-weight conversion entry for an ingredient to docs/reference/measuring.md in sorted order and verify table integrity | `/add-ingredient-weight` |
 | [`add-recipe-size`](skills/add-recipe-size/SKILL.md) | Automate adding additional serving or batch sizes to a recipe file by creating a new Zensical tab | `/add-recipe-size` |
-| [`adjust-recipe-metadata`](skills/adjust-recipe-metadata/SKILL.md) | Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files | `/adjust-recipe-metadata` |
+| [`adjust-recipe-metadata`](skills/adjust-recipe-metadata/SKILL.md) | Adjust recipe metadata, tags, and frontmatter dynamically on recipe markdown files using mdfm | `mdfm` / `/adjust-recipe-metadata` |
 | [`backfill-missing-sources`](skills/backfill-missing-sources/SKILL.md) | Audit recipes for missing Source sections, investigate origins via git history, issues, or external references, format standard source headings and links, and validate the site | `uv run scripts/audit_missing_sources.py` |
 | [`check-ingredient-weight`](skills/check-ingredient-weight/SKILL.md) | Look up and calculate the weight in grams of an ingredient for a given volume (defaulting to 1 cup or table reference volume) using docs/reference/measuring.md | `/check-ingredient-weight` |
 | [`compare-issue-bayesian`](skills/compare-issue-bayesian/SKILL.md) | Compare a GitHub issue recipe URL's Bayesian average rating against top lacto-ovo vegetarian, scratch-made web alternatives and recommend whether to import the issue source or switch | `/compare-issue-bayesian` |
@@ -23,7 +23,7 @@ Catalog of custom Antigravity agent skills available in `recipes`.
 | [`link-ingredient`](skills/link-ingredient/SKILL.md) | Search for an ingredient in Markdown recipes and create links to its own recipe page | `/link-ingredient <args>` |
 | [`linkcheck-fix`](skills/linkcheck-fix/SKILL.md) | Perform offline link checking with lychee and automatically resolve and fix broken local markdown links and image paths | `uv run scripts/fix_broken_links.py` / `/linkcheck-fix` |
 | [`linkcheck-online`](skills/linkcheck-online/SKILL.md) | Perform online link check with lychee to verify external URLs across markdown files and fix genuine dead links | `task linkcheck` / `/linkcheck-online` |
-| [`lint-changed-files`](skills/lint-changed-files/SKILL.md) | Run fast linting checks (rumdl and yamllint-rs) only on modified, staged, or untracked files in the workspace | `task lint-changed` / `/lint-changed-files` |
+| [`lint-changed-files`](skills/lint-changed-files/SKILL.md) | Run fast linting checks (rumdl, mdfm, and yamllint-rs) only on modified, staged, or untracked files in the workspace | `task lint-changed` / `/lint-changed-files` |
 | [`list-author-recipes`](skills/list-author-recipes/SKILL.md) | List recipes in repository containing an author name, blog, restaurant, or brand in title, respecting author whitelist | `uv run scripts/list_author_recipes.py` / `/list-author-recipes` |
 | [`list-issues`](skills/list-issues/SKILL.md) | List open issues in the GitHub repository with optional label filtering | `/list-issues [args]` |
 | [`liteparse`](skills/liteparse/SKILL.md) | Parse, convert multi-format documents, or spatially extract text from unstructured files (PDF, DOCX, XLSX, images) locally without cloud dependencies | `lit parse <file>` / `/liteparse` |

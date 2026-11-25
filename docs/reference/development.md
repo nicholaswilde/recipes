@@ -394,9 +394,36 @@ cargo install yamllint-rs
     yamllint-rs .
     ```
 
+### :page_with_curl: [mdfm][23]
+
+Used to query, mutate, delete, and validate YAML frontmatter across Markdown files (configured in `.mdfm.toml` and `.mdfm-schema.json`).
+
+```shell title="Installation"
+# Via Homebrew
+brew install nicholaswilde/homebrew-tap/mdfm
+```
+
+=== "Task"
+
+    ```shell title="Usage"
+    task add-comments -- docs/path/to/recipe.md
+    task add-tag -- quick docs/path/to/recipe.md
+    task remove-tag -- must-try docs/path/to/recipe.md
+    task lint:frontmatter
+    ```
+
+=== "Manual"
+
+    ```shell title="Usage"
+    mdfm set comments=true docs/path/to/recipe.md
+    mdfm set tags-=must-try tags+=favorite docs/path/to/recipe.md
+    mdfm --where 'tags contains "must-try"' get tags docs/
+    mdfm check docs/
+    ```
+
 ### :page_with_curl: [yq][19]
 
-Used to query and modify YAML files and Markdown front-matter.
+Used to query and modify YAML files such as `includes/emoji.yaml`.
 
 ```shell title="Installation"
 # Via Homebrew
@@ -406,14 +433,14 @@ brew install yq
 === "Task"
 
     ```shell title="Usage"
-    task add-comments
-    task add-tag
+    task emoji-search SHORTCODE=garlic
+    task emoji-sort
     ```
 
 === "Manual"
 
     ```shell title="Usage"
-    yq --front-matter="process" '.comments = "true"' docs/path/to/recipe.md
+    yq '.emoji.ingredients' includes/emoji.yaml
     ```
 
 ### :robot: [Google Antigravity CLI][15]
@@ -481,3 +508,4 @@ Website used to search for emoji contexts.
 [20]: <https://pypi.org/project/zensical/>
 [21]: <https://github.com/astral-sh/uv>
 [22]: <https://github.com/shpakovskiy/oxipng>
+[23]: <https://github.com/nicholaswilde/mdfm>

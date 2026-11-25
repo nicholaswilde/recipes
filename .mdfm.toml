@@ -1,0 +1,14 @@
+default_format = "yaml"
+output = "table"
+schema = ".mdfm-schema.json"
+ignore = [
+  "AGENTS.md",
+  "README.md",
+  "index.md",
+  "reference/charts.md",
+  "docs/README.md",
+  "docs/index.md",
+  "docs/reference/charts.md",
+  "scripts/**",
+  ".agents/**",
+]

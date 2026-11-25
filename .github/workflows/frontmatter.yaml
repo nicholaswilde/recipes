@@ -1,0 +1,42 @@
+---
+name: frontmatter
+on:  # yamllint disable-line rule:truthy
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'docs/**/*.md'
+      - '.mdfm.toml'
+      - '.mdfm-schema.json'
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+      - '.mdfm.toml'
+      - '.mdfm-schema.json'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  frontmatter:
+    name: Frontmatter Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v7
+      - name: Install mdfm
+        env:
+          MDFM_VERSION: "0.1.1"
+        run: |
+          mkdir -p "${HOME}/.local/bin"
+          pkg="mdfm-${MDFM_VERSION}-x86_64-unknown-linux-musl"
+          url="https://github.com/nicholaswilde/mdfm/releases/download/v${MDFM_VERSION}/${pkg}.tar.gz"
+          curl -fsSL "${url}" | tar -xz --strip-components=1 -C "${HOME}/.local/bin" "${pkg}/mdfm"
+          echo "${HOME}/.local/bin" >> "${GITHUB_PATH}"
+      - name: Validate Markdown frontmatter
+        run: mdfm --output plain check docs/

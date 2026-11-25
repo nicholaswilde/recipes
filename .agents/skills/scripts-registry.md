@@ -196,17 +196,26 @@ To scale recipe ingredients by a factor and append them as a new Zensical tab (e
 
 #### Adjust Recipe Metadata and Frontmatter
 
-To dynamically adjust metadata, add/remove tags, or update frontmatter keys in a recipe markdown file:
+To query, mutate, delete, or validate frontmatter keys and tags in recipe markdown files (replaces the removed `scripts/adjust_recipe_metadata.py`):
 
 * **Protocol**:
 
   ```bash
-  uv run python3 scripts/adjust_recipe_metadata.py <recipe_path> [options]
+  # Add/remove tags (deduplicated) or set metadata keys
+  mdfm set tags+=healthy tags+=quick <recipe_path>
+  mdfm set tags-=must-try tags+=favorite <recipe_path>
+  mdfm set comments=true hero=assets/images/<slug>.webp <recipe_path>
+  mdfm del <key> <recipe_path>
+
+  # Query or preview filtered bulk edits
+  mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' get tags docs/
+  mdfm --where 'tags contains "applied-kitchen"' set --dry-run tags+=quick docs/
+
+  # Validate frontmatter schema (configured in .mdfm.toml + .mdfm-schema.json)
+  task lint:frontmatter
   ```
 
-* **Under the Hood**: Invokes [scripts/adjust_recipe_metadata.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/adjust_recipe_metadata.py),
-  which uses PyYAML to parse and modify frontmatter (e.g., adding/removing tags, setting `comments` flags or
-  `hero` image paths) while preserving the Markdown body.
+* **Under the Hood**: Uses [`mdfm`](https://github.com/nicholaswilde/mdfm) (`task add-comments`, `task add-tag`, `task remove-tag`, `task lint:frontmatter`), preserving Markdown bodies byte-for-byte and skipping no-op writes.
 
 ---
 
