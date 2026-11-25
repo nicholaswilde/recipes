@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - cooks-illustrated
   - sourdough

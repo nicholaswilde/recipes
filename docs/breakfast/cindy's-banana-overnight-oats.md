@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/cindy's-banana-overnight-oats.webp
 ---

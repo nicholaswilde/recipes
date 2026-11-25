@@ -1,9 +1,7 @@
 ---
 tags:
-
   - soups-and-stews
 comments: true
-
 hero: assets/images/black-bean-and-butternut-soup.webp
 ---
 

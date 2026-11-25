@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - soup
-  - stew
   - chowder
   - corn
+  - kenji-lopez-alt
   - must-try
   - serious-eats
-  - kenji-lopez-alt
+  - soup
+  - stew
 source: The Food Lab
 author: J. Kenji López-Alt
 prep time: 20 minutes

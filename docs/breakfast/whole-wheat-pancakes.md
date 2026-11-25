@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - pancake
 hero: assets/images/whole-wheat-pancakes.webp

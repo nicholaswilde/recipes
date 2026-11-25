@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - recipe-box
 hero: assets/images/lemon-garlic-orzo-with-roasted-veggies.webp

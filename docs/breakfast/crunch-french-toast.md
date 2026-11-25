@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - magnolia
 hero: assets/images/crunch-french-toast.webp

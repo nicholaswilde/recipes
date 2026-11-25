@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - king-arthur
 hero: assets/images/grilled-naan.webp

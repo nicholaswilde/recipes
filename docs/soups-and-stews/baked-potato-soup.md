@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - soup
 hero: assets/images/baked-potato-soup.webp
 ---

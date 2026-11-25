@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - pancake
   - joy-of-cooking
+  - pancake
 hero: assets/images/joy-of-cooking-pancakes.webp
 ---
 

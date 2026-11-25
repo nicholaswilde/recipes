@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - cooks-illustrated
-  - recipe-box
-  - mediterranean
   - greek
+  - mediterranean
+  - recipe-box
 hero: assets/images/horiatiki-salata-(greek-salad).webp
 ---
 

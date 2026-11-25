@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-- bread
-- favorite
-- holiday
-- recipe-box
+  - bread
+  - favorite
+  - holiday
+  - recipe-box
 hero: assets/images/monastery-pumpkin-bread.webp
 ---
 

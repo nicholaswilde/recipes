@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - soup
-  - french
   - cooks-illustrated
+  - french
   - must-try
+  - soup
 hero: assets/images/french-onion-soup.webp
 ---
 

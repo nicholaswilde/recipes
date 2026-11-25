@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - breakfast
   - baking
+  - breakfast
   - must-try
 hero: assets/images/maple-cardamom-sticky-buns.webp
 ---

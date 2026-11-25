@@ -1,6 +1,5 @@
 ---
 comments: true
-
 ---
 
 # :thermometer: Temperatures

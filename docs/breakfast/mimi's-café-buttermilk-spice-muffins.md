@@ -3,10 +3,10 @@ comments: true
 tags:
   - breakfast
   - copycat
-  - spice
-  - recipe-box
-  - vegetarian
   - muffin
+  - recipe-box
+  - spice
+  - vegetarian
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

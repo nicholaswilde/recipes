@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/jose-guevara's-gallo-pinto.webp
 ---

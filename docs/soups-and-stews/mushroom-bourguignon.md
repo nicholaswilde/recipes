@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - mushroom
+  - must-try
   - soup
   - stew
   - vegetarian
-  - must-try
-  - mushroom
 hero: assets/images/mushroom-bourguignon.webp
 ---
 

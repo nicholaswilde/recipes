@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - overnight-oats
   - breakfast
+  - overnight-oats
 hero: assets/images/overnight-oats.webp
 ---
 

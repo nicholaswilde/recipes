@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - asian
-  - vegan
   - minimalist-baker
+  - vegan
 hero: assets/images/easy-vegan-ramen.webp
 ---
 

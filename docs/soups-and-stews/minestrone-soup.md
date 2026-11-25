@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - soup
   - jean-pierre
+  - soup
 hero: assets/images/minestrone-soup.webp
 ---
 

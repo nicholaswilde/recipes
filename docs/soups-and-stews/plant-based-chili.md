@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - chili
 hero: assets/images/plant-based-chili.webp
 ---

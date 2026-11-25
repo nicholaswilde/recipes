@@ -2,8 +2,8 @@
 comments: true
 tags:
   - bread
-  - southern-living
   - cornbread
+  - southern-living
 hero: assets/images/southern-skillet-cornbread.webp
 ---
 

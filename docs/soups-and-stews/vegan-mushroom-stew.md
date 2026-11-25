@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - costco
   - soup
   - stew
-  - costco
 hero: assets/images/vegan-mushroom-stew.webp
 ---
 

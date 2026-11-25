@@ -3,8 +3,8 @@ comments: true
 tags:
   - beverage
   - cup-of-jo
-  - lemon
   - honey
+  - lemon
 source: https://cupofjo.com/2026/01/28/citron-chaud/
 servings: 2
 hero: assets/images/citron-chaud.webp

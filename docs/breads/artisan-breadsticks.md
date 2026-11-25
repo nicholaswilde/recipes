@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - bread
-  - side
-  - king-arthur
   - appetizer
+  - bread
+  - king-arthur
+  - side
 hero: assets/images/artisan-breadsticks.webp
 ---
 

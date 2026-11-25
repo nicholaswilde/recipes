@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - sugar-spun-run
 hero: assets/images/pumpkin-coffee-cake.webp

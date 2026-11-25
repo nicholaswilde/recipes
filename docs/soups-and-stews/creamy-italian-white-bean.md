@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
 hero: assets/images/creamy-italian-white-bean.webp
 ---

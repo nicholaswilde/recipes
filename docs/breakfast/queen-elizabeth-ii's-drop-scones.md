@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/queen-elizabeth-ii's-drop-scones.webp
 ---

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - mexican
-  - taco
   - recipe-box
+  - taco
 hero: assets/images/chipotle-breakfast-tacos.webp
 ---
 

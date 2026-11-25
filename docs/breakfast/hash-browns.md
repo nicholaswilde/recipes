@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - gordon-ramsay
 hero: assets/images/hash-browns.webp

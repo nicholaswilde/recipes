@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - magnolia
-  - soup
   - recipe-box
+  - soup
 hero: assets/images/spinach-tortellini-soup-by-joanna-gaines.webp
 ---
 

@@ -2,9 +2,9 @@
 comments: true
 tags:
   - breakfast
+  - pancake
   - sourdough
   - waffle
-  - pancake
 hero: assets/images/sourdough-waffles-or-pancakes.webp
 author: Amy Duska
 prep time: 10 minutes

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - muffin
 hero: assets/images/lemon-poppy-muffins.webp

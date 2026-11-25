@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - stew
   - slow-cooker
+  - stew
 hero: assets/images/slow-cooker-vegan-african-peanut-stew.png
 ---
 

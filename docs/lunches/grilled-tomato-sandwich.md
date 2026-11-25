@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cooks-illustrated
   - lunch
   - sandwich

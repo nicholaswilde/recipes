@@ -2,8 +2,8 @@
 comments: true
 tags:
   - bread
-  - garlic-bread
   - cheese
+  - garlic-bread
   - recipe-box
   - vegetarian
 source: Recipe Box

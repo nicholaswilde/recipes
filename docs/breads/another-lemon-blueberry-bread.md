@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
 hero: assets/images/another-lemon-blueberry-bread.webp
 ---

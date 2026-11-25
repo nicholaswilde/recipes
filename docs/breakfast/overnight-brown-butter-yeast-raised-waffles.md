@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - breakfast
-  - waffle
   - bake-off
+  - breakfast
   - pancake-princess
+  - waffle
 hero: assets/images/overnight-brown-butter-yeast-raised-waffles.png
 ---
 

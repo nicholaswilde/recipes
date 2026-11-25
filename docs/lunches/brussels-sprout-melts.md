@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sandwich
   - lunch
+  - sandwich
 hero: assets/images/brussels-sprout-melts.webp
 ---
 

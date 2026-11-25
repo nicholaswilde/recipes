@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - soup
-  - stew
   - chickpea
   - leek
+  - soup
+  - stew
 hero: assets/images/chickpea-and-leek-soup.webp
 ---
 

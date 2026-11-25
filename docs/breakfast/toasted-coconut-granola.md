@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/toasted-coconut-granola.webp
 ---

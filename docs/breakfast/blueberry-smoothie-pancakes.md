@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - pancake
   - jamie-oliver
+  - pancake
 hero: assets/images/blueberry-smoothie-pancakes.webp
 ---
 

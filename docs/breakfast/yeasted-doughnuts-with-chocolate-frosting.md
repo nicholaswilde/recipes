@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - cooks-illustrated
 hero: assets/images/yeasted-doughnuts-with-chocolate-frosting.webp

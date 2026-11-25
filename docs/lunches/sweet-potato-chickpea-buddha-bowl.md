@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - minimalist-baker
 hero: assets/images/sweet-potato-chickpea-buddha-bowl.webp

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - vegetarian
   - mediterranean
+  - vegetarian
 hero: assets/images/vegetarian-paella.webp
 ---
 

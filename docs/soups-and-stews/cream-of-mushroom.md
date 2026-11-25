@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - soup
 hero: assets/images/cream-of-mushroom.webp
 ---

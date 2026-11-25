@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-- breakfast
-- pancake
-- pumpkin
-- recipe-box
-- vegetarian
+  - breakfast
+  - pancake
+  - pumpkin
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 4
 prep time: 5 minutes

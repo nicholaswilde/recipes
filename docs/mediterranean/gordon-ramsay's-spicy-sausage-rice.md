@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - mediterranean
   - gordon-ramsay
   - main
+  - mediterranean
   - recipe-box
 hero: assets/images/gordon-ramsay's-spicy-sausage-rice.webp
 ---

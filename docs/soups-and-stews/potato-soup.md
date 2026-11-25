@@ -1,9 +1,7 @@
 ---
 tags:
-
   - soups-and-stews
 comments: true
-
 hero: assets/images/potato-soup.webp
 ---
 

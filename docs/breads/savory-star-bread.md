@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - bread
-  - savory
-  - king-arthur-baking
-  - holiday
   - appetizer
+  - bread
+  - holiday
+  - king-arthur-baking
   - must-try
+  - savory
 hero: assets/images/savory-star-bread.webp
 ---
 

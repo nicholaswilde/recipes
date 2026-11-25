@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - smoothie
-  - beverage
   - applied-kitchen
+  - beverage
+  - smoothie
 hero: assets/images/spinach-banana-smoothie.png
 ---
 

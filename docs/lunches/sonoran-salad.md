@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
 hero: assets/images/sonoran-salad.webp
 ---

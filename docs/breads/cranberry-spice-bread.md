@@ -2,10 +2,10 @@
 comments: true
 tags:
   - bread
-  - quick-bread
   - cranberry
-  - spice
+  - quick-bread
   - recipe-box
+  - spice
   - vegetarian
 source: Recipe Box
 servings: 16

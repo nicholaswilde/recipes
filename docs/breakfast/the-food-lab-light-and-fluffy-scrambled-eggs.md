@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/the-food-lab-light-and-fluffy-scrambled-eggs.webp
 ---

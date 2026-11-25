@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - cupcake-jemma
 hero: assets/images/brown-sugar-honey-butter-toast.webp

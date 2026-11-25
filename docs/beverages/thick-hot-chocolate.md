@@ -2,9 +2,9 @@
 comments: true
 tags:
   - beverage
+  - forbes
   - hot-chocolate
   - jacques-torres
-  - forbes
 hero: assets/images/thick-hot-chocolate.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - recipe-box
 hero: assets/images/best-ever-banana-bread.webp

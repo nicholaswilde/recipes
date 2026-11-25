@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-
+  - carrot
+  - ginger
   - soup
   - stew
   - vegan
   - vegetarian
-  - carrot
-  - ginger
 hero: assets/images/carrot-ginger-soup.webp
 ---
 

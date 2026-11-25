@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - stew
   - vegetarian
 hero: assets/images/hearty-vegetarian-stew.webp

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - bread
   - bake-off
+  - bread
 hero: assets/images/honey-challah-with-assorted-toppings.webp
 ---
 

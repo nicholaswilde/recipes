@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bowl
   - lunch
 hero: assets/images/mexican-power-bowl.webp

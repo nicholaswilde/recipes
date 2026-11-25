@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - mediterranean
-  - pasta
-  - one-pan
-  - spinach
   - feta
+  - mediterranean
+  - one-pan
+  - pasta
+  - spinach
   - vegetarian
 hero: assets/images/one-pan-orzo-with-spinach-and-feta.webp
 ---

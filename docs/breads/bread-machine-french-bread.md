@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - bread-machine
 hero: assets/images/bread-machine-french-bread.webp

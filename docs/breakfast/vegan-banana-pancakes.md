@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - vegan
   - pancake
+  - vegan
 hero: assets/images/vegan-banana-pancakes.webp
 ---
 

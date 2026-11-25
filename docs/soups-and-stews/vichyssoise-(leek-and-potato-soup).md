@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - julia-child
   - soup
 hero: assets/images/vichyssoise-(leek-and-potato-soup).webp

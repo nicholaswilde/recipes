@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - quick-bread
 hero: assets/images/delicious-zucchini-bread.webp

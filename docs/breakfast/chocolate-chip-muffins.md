@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - breakfast
   - bake-off
+  - breakfast
 hero: assets/images/chocolate-chip-muffins.webp
 ---
 

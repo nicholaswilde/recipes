@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - soup
   - gordon-ramsay
+  - soup
 hero: assets/images/roasted-tomato-soup.png
 ---
 

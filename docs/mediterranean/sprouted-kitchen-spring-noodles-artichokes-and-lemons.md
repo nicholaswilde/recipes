@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - recipe-box
 hero: assets/images/sprouted-kitchen-spring-noodles-artichokes-and-lemons.webp

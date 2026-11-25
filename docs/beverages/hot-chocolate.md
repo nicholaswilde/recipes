@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - beverage
   - jean-pierre
 hero: assets/images/hot-chocolate.webp

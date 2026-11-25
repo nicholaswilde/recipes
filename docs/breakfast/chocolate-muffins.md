@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - breakfast
   - bake-off
+  - breakfast
   - muffin
 hero: assets/images/chocolate-muffins.webp
 ---

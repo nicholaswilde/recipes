@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - bread
-  - savory
-  - king-arthur-baking
-  - french
   - baking
+  - bread
+  - french
+  - king-arthur-baking
+  - savory
 source: https://www.kingarthurbaking.com/recipes/olive-and-onion-fougasse-recipe
 prep time: 22 minutes
 cook time: 20 minutes

@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-  - soup
-  - stew
-  - soups-and-stews
-  - must-try
   - chili
-  - vegan
-  - serious-eats
   - kenji-lopez-alt
+  - must-try
+  - serious-eats
+  - soup
+  - soups-and-stews
+  - stew
+  - vegan
 source: https://www.seriouseats.com/best-vegetarian-bean-chile-recipe
 prep time: 15 minutes
 cook time: 1 hour 50 minutes

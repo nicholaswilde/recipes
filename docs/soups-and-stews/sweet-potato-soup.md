@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - trader-joes
   - soup
+  - trader-joes
 hero: assets/images/sweet-potato-soup.png
 ---
 

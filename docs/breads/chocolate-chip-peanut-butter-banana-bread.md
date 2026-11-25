@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - recipe-box
 hero: assets/images/chocolate-chip-peanut-butter-banana-bread.webp

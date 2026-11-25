@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - scone
   - cooks-illustrated
+  - scone
 hero: assets/images/dreamy-cream-scones.webp
 ---
 

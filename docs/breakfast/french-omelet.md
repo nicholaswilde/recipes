@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - french
   - joy-of-cooking

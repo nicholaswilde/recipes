@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - bread
+  - favorite
   - king-arthur
   - recipe-of-the-year
-  - favorite
 hero: assets/images/big-and-bubbly-focaccia.webp
 ---
 

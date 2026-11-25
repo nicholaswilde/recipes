@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mexican
   - breakfast
+  - mexican
   - slow-cooker
 hero: assets/images/slow-cooker-mexican-egg-casserole.webp
 ---

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - beverage
 hero: assets/images/olde-tyme-lemonade.webp
 ---

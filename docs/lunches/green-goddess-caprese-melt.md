@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - panera
 hero: assets/images/green-goddess-caprese-melt.webp

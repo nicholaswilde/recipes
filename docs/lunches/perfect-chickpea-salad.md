@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - salad
-  - lunch
-  - sandwich
   - favorite
+  - lunch
+  - salad
+  - sandwich
 hero: assets/images/perfect-chickpea-salad.webp
 ---
 

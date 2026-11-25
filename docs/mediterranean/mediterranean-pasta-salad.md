@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - recipe-box
 hero: assets/images/mediterranean-pasta-salad.webp

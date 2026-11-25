@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - mexican
-  - soup
   - recipe-box
+  - soup
 hero: assets/images/mexican-lentil-soup.webp
 ---
 

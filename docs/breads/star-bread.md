@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - bread
-  - preppy-kitchen
   - holiday
+  - preppy-kitchen
 hero: assets/images/star-bread.webp
 ---
 

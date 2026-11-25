@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - muffin
   - breakfast
+  - muffin
 hero: assets/images/levain-bakery-blueberry-muffins.webp
 ---
 

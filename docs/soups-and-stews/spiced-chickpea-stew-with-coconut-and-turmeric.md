@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-
+  - Alison Roman
+  - NYT Cooking
+  - must-try
   - soup
   - stew
-  - NYT Cooking
-  - Alison Roman
-  - must-try
 hero: assets/images/spiced-chickpea-stew-with-coconut-and-turmeric.webp
 ---
 

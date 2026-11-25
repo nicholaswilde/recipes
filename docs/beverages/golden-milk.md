@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - beverage
 hero: assets/images/golden-milk.webp
 ---

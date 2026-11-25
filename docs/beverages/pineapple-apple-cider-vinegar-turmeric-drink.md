@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - beverage
 hero: assets/images/pineapple-apple-cider-vinegar-turmeric-drink.webp
 ---

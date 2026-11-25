@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - wrap
 hero: assets/images/romesco-wrap.webp

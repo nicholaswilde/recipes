@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - nutrition-studies
 hero: assets/images/carrot-dogs.webp

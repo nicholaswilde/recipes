@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - mexican
-  - slow-cooker
-  - recipe-box
   - favorite
+  - mexican
+  - recipe-box
+  - slow-cooker
 hero: assets/images/slow-cooker-black-bean-chili.webp
 ---
 

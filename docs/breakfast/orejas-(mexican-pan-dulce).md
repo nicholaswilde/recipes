@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - mexican
 hero: assets/images/orejas-(mexican-pan-dulce).webp

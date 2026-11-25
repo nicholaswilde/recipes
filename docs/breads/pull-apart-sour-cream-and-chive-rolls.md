@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - claire-saffitz
   - favorite

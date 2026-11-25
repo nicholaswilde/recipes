@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - minimalist-baker
 hero: assets/images/mediterranean-inspired-orzo-pasta-salad.webp

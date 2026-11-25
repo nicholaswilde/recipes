@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
 hero: assets/images/pepperidge-farm-whole-wheat-bread.webp
 ---

@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - breakfast
   - bake-off
+  - breakfast
 hero: assets/images/cinnamon-rolls.png
 ---
 

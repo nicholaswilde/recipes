@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
+  - alcoholic
   - beverage
   - cocktail
   - frozen
-  - alcoholic
   - recipe-box
   - vegetarian
 source: Recipe Box

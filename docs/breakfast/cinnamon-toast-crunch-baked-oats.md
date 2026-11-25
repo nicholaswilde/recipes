@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/cinnamon-toast-crunch-baked-oats.webp
 ---

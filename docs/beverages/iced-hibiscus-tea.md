@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - beverage
-  - tea
   - joy-of-cooking
+  - tea
 hero: assets/images/iced-hibiscus-tea.webp
 ---
 

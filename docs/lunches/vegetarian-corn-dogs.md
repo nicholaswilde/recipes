@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - vegetarian
 hero: assets/images/vegetarian-corn-dogs.webp

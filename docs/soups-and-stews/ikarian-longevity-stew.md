@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - recipe-box
   - the-blue-zones-kitchen
 hero: assets/images/ikarian-longevity-stew.webp

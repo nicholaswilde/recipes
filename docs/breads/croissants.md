@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - paul-hollywood
 hero: assets/images/croissants.png

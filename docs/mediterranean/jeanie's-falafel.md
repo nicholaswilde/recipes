@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - favorite
   - mediterranean
   - recipe-box
-  - favorite
 hero: assets/images/jeanie's-falafel.webp
 ---
 

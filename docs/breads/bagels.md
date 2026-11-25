@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - king-arthur
 hero: assets/images/bagels.webp

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - recipe-box
 hero: assets/images/tomato-baked-white-beans-with-lemon-parsley-oil.webp

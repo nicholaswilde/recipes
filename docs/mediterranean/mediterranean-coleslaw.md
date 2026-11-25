@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - nutrition-studies
 hero: assets/images/mediterranean-coleslaw.webp

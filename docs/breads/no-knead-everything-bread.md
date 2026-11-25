@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - king-arthur
 hero: assets/images/no-knead-everything-bread.webp

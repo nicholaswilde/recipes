@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - pancake
   - tante-myrna-seccia

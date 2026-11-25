@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - mediterranean
-  - trader-joes
   - recipe-box
+  - trader-joes
 hero: assets/images/balsamic-lentil-sauté.png
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
 hero: assets/images/pasta-e-ceci-(pasta-with-chickpeas).webp
 ---

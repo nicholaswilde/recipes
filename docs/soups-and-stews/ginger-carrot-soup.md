@@ -1,15 +1,14 @@
 ---
 comments: true
 tags:
-
+  - carrot
+  - coconut
+  - ginger
+  - gluten-free
   - soup
   - stew
   - vegan
   - vegetarian
-  - carrot
-  - ginger
-  - coconut
-  - gluten-free
 hero: assets/images/ginger-carrot-soup.webp
 ---
 

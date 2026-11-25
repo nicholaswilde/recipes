@@ -1,9 +1,7 @@
 ---
 tags:
-
   - soups-and-stews
 comments: true
-
 hero: assets/images/chickenless-sausage-and-lentil-soup.webp
 ---
 

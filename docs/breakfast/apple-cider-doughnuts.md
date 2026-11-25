@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - bake-off
   - breakfast
   - claire-saffitz
-  - bake-off
   - doughnuts
 hero: assets/images/apple-cider-doughnuts.webp
 ---

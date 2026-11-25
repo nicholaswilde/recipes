@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - lunch
   - sandwich
-  - applied-kitchen
 hero: assets/images/caprese-sandwich.webp
 ---
 

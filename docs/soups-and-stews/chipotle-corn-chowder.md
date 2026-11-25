@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - recipe-box
   - chowder
+  - recipe-box
 hero: assets/images/chipotle-corn-chowder.webp
 ---
 

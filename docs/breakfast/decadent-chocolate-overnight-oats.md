@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/decadent-chocolate-overnight-oats.webp
 ---

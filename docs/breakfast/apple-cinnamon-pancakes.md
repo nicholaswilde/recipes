@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - breakfast
   - apple
+  - breakfast
   - cinnamon
+  - pancake
   - recipe-box
   - vegetarian
-  - pancake
 source: Recipe Box
 servings: 4
 prep time: 10 minutes

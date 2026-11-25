@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - beverage
   - recipe-box
 hero: assets/images/champagne-punch.webp

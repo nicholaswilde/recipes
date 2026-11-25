@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - bread
   - bake-off
+  - bread
 hero: assets/images/sweet-cornbread.webp
 ---
 

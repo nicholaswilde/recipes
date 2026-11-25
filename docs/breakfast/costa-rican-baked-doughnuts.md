@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - the-blue-zones-kitchen
-  - doughnuts
   - costa-rican
+  - doughnuts
+  - the-blue-zones-kitchen
 hero: assets/images/costa-rican-baked-doughnuts.webp
 ---
 

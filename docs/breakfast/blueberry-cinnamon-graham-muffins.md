@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - breakfast
   - blueberry
+  - breakfast
   - cinnamon
+  - muffin
   - recipe-box
   - vegetarian
-  - muffin
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

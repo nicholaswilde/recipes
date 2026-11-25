@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - lunch
   - cooks-illustrated
+  - lunch
   - sandwich
 hero: assets/images/open-faced-cherry-tomato-ricotta-sandwich.webp
 ---

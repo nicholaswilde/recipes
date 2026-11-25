@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - minimalist-baker
   - sandwich

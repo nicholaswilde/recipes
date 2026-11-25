@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - jamie-oliver
   - italian
-  - vegetarian
+  - jamie-oliver
   - recipe-box
+  - vegetarian
 hero: assets/images/ricotta-fritters.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
   - joy-of-cooking
 hero: assets/images/belgian-waffles.webp

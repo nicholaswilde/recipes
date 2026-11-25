@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
+  - blueberry
   - bread
   - sourdough
-  - blueberry
 hero: assets/images/easy-sourdough-blueberry-bread.webp
 ---
 

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mediterranean
   - greek
+  - mediterranean
   - recipe-box
 hero: assets/images/greek-orzo-stuffed-red-peppers.webp
 ---

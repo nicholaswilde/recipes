@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
+  - amy bakes bread
   - bread
   - sourdough
-  - amy bakes bread
 hero: assets/images/maple-pecan-sourdough-bread.webp
 ---
 

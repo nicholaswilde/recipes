@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - americas-test-kitchen
   - bread
+  - cinnamon
   - quick-bread
   - sourdough
-  - cinnamon
-  - americas-test-kitchen
 hero: assets/images/amish-cinnamon-bread.webp
 ---
 

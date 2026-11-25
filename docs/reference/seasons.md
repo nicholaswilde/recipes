@@ -1,6 +1,5 @@
 ---
 comments: true
-
 ---
 
 # :fallen_leaf: [Seasons][1]

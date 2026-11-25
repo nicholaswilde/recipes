@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - beverage
-  - joy-of-cooking
   - holiday
+  - joy-of-cooking
 hero: assets/images/cooked-eggnog.webp
 ---
 

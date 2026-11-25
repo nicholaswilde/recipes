@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - bread
-  - french
-  - fancy
   - artisan
+  - bread
+  - fancy
+  - french
 hero: assets/images/epis-de-ble.webp
 ---
 

@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - lunch
-  - spinach
   - cheese
+  - lunch
   - recipe-box
+  - spinach
   - vegetarian
 source: Recipe Box
 servings: 12

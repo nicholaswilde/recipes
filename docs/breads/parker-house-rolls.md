@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - bread
   - bake-off
+  - bread
   - rolls
 hero: assets/images/parker-house-rolls.webp
 ---

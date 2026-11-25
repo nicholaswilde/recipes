@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
+  - bake-off
   - breakfast
   - muffin
-  - bake-off
 hero: assets/images/blueberry-muffins.webp
 ---
 

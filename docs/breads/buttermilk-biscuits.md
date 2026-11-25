@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - bake-off
   - bread
   - kenji-lopez-alt
-  - bake-off
 hero: assets/images/buttermilk-biscuits.webp
 ---
 

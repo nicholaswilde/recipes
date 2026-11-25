@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
+  - King Arthur Baking
   - bread
   - crescent rolls
-  - rolls
   - laminated dough
-  - King Arthur Baking
   - must-try
+  - rolls
 hero: assets/images/flaky-buttery-crescent-rolls.webp
 ---
 

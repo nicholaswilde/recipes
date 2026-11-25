@@ -1,6 +1,5 @@
 ---
 comments: true
-
 ---
 
 # :wood: Wood Types

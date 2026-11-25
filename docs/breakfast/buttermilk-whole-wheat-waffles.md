@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - breakfast
 hero: assets/images/buttermilk-whole-wheat-waffles.webp
 ---

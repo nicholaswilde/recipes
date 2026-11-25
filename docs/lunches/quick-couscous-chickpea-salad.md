@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - trader-joes
 hero: assets/images/quick-couscous-chickpea-salad.webp

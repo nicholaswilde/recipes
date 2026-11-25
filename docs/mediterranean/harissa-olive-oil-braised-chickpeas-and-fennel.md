@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mediterranean
   - recipe-box
 hero: assets/images/harissa-olive-oil-braised-chickpeas-and-fennel.png

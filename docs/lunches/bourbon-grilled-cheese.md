@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - lunch
   - sandwich
 hero: assets/images/bourbon-grilled-cheese.webp

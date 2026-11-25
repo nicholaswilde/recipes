@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bread
   - side
 hero: assets/images/breadsticks.webp

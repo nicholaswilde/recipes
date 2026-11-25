@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - beverage
-  - coffee
-  - cocktail
-  - hot
   - alcoholic
+  - beverage
+  - cocktail
+  - coffee
+  - hot
   - recipe-box
   - vegetarian
 source: Recipe Box

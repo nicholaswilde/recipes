@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - lunch
   - applied-kitchen
+  - lunch
   - sandwich
 hero: assets/images/applied-grilled-cheese.webp
 ---

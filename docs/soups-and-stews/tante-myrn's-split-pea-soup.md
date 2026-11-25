@@ -1,9 +1,7 @@
 ---
 tags:
-
   - soups-and-stews
 comments: true
-
 hero: assets/images/tante-myrn's-split-pea-soup.webp
 ---
 
