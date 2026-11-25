@@ -3,20 +3,20 @@
 # Run `task sync-weights` after editing the Ingredient Weight Chart.
 exclude_small_units:
 - allspice
+- basil
 - bay
 - caraway
 - cardamom
 - cayenne
 - chives
+- cinnamon
 - cloves
 - coriander
 - cumin
 - curry
 - dill
 - fennel
-- fresh basil
-- ground cinnamon
-- ground ginger
+- ginger
 - marjoram
 - nutmeg
 - oregano
@@ -34,6 +34,17 @@ exclude_small_units:
 - tarragon
 - thyme
 - turmeric
+exclude_small_units_except:
+- bits
+- crystallized
+- filling
+- mini
+- oil
+- paste
+- pesto
+- sauce
+- sugar
+- syrup
 weights:
   '''00'' pizza flour': 116
   00 pizza flour: 116

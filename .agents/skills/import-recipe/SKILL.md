@@ -54,7 +54,7 @@ Import recipe from URL or GitHub issue.
 
 4. **Validation:**
    - Prefer file-specific spellcheck: `task spellcheck-file FILE="docs/{category}/{recipe-name}.md"`
-   - Validate CookLang syntax, companion image, and emoji coverage in one step: `task validate-cook FILE="cook/{category}/{Recipe Name}.cook"`
+   - Validate CookLang syntax and ignored ingredients: `task validate-cook FILE="cook/{category}/{Recipe Name}.cook"` (or run `task doctor -- "cook/{category}/{Recipe Name}.cook"` for companion image and emoji coverage too)
    - Validate header emojis: `task check-header-emojis` (or `uv run scripts/check_header_emojis.py [--fix]`)
    - Auto-map missing ingredient/cookware emojis if flagged by `validate-cook`:
      `uv run scripts/check_recipe_emojis.py --fix "cook/{category}/{Recipe Name}.cook"`

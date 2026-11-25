@@ -35,6 +35,6 @@ Guide for importing recipes from manual sources, images, PDFs, or unscrapable we
 3. **Pipeline Steps (Auto):**
    - Copies `.cook` and image to `cook/<category>/`.
    - Runs `check_recipe_emojis.py --fix` so `includes/emoji.yaml` is updated before compiling.
-   - Runs `move.sh` (`cook-docs doctor --check-recipes`, single-file `cook-docs` compile with emojis/weights/cross-links/merge, WebP/PNG optimization, `check_header_emojis.py --fix`, `rumdl fmt`, and nav update).
+   - Runs `move.sh` (`cook-docs doctor --only syntax,ignored`, single-file `cook-docs` compile with `[category_tags]`, H1 `titleEmoji`, emojis, weights, ingredient & step cross-links, WebP conversion, merge, and `zensical.toml` nav sync, plus Pillow/PNG post-processing and `rumdl fmt`).
    - Spellchecks via `generate_typos_config.py` and `typos`.
    - Commits via `gh` CLI.

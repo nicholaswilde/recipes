@@ -44,24 +44,22 @@ TRANSFORMATIVE_PARENS = {
 }
 
 # Spices, herbs, and seasonings omitted for tsp/tbsp per AGENTS.md.
-# Multi-word forms (e.g. "fresh basil") avoid excluding non-spice items like
-# "basil pesto", "cinnamon sugar", or "crystallized ginger".
 EXCLUDE_SMALL_UNITS = [
     "allspice",
+    "basil",
     "bay",
     "caraway",
     "cardamom",
     "cayenne",
     "chives",
+    "cinnamon",
     "cloves",
     "coriander",
     "cumin",
     "curry",
     "dill",
     "fennel",
-    "fresh basil",
-    "ground cinnamon",
-    "ground ginger",
+    "ginger",
     "marjoram",
     "nutmeg",
     "oregano",
@@ -79,6 +77,22 @@ EXCLUDE_SMALL_UNITS = [
     "tarragon",
     "thyme",
     "turmeric",
+]
+
+# Compound ingredient tokens that bypass exclude_small_units (cook-docs >= v0.9.7),
+# so items like "basil pesto", "cinnamon sugar", "baker's cinnamon filling",
+# "cinnamon sweet bits", "crystallized ginger", and "mini diced ginger" still convert.
+EXCLUDE_SMALL_UNITS_EXCEPT = [
+    "bits",
+    "crystallized",
+    "filling",
+    "mini",
+    "oil",
+    "paste",
+    "pesto",
+    "sauce",
+    "sugar",
+    "syrup",
 ]
 
 UNICODE_FRACTIONS = {
@@ -246,6 +260,7 @@ def build_weights_data(measuring_path: Path) -> dict:
 
     return {
         "exclude_small_units": sorted(EXCLUDE_SMALL_UNITS),
+        "exclude_small_units_except": sorted(EXCLUDE_SMALL_UNITS_EXCEPT),
         "weights": weights,
     }
 

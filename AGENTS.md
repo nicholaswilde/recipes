@@ -165,12 +165,12 @@ This project is a personal recipe collection managed as a documentation site usi
 - **List Ingredients:** `task list-ingredients` (lists all used ingredients for consistency).
 - **Sync Weights:** `task sync-weights` (regenerates [includes/weights.yaml](file:///home/nicholas/git/nicholaswilde/recipes/includes/weights.yaml) from [docs/reference/measuring.md](file:///home/nicholas/git/nicholaswilde/recipes/docs/reference/measuring.md) for `cook-docs`).
 - **Validate Config:** `task validate` (validates [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) syntax).
-- **Validate Cooklang File:** `task validate-cook FILE="path/to/recipe.cook"` (runs `cook-docs doctor --check-recipes` for syntax, companion image, and emoji coverage).
-- **Doctor Diagnostics:** `task doctor` (validates [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml), [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl), emojis, weights, and recipes).
+- **Validate Cooklang File:** `task validate-cook FILE="path/to/recipe.cook"` (runs `cook-docs doctor --only syntax,ignored` for syntax and ignored ingredients).
+- **Doctor Diagnostics:** `task doctor` (validates [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml), [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl), emojis, weights, ignored ingredients, `zensical.toml`, and recipes; supports `--only` and `--strict`).
 - **Watch & Live Re-render:** `task watch` (runs `cook-docs watch` with non-destructive `--merge` enabled in `.cookdocs.toml`).
 - **Spellcheck File:** `task spellcheck-file FILE=path/to/file` (targeted spellcheck using [dictionary.txt](file:///home/nicholas/git/nicholaswilde/recipes/dictionary.txt)). When importing a recipe, always use this instead of the general `task spellcheck`.
 - **Lint Files:** `task lint` (runs `rumdl` and `yamllint`). Specific linters: `task rumdl`, `task yamllint`.
-- **Compile & Move Recipe:** `FILES=<path/to/cookfile> task move` (runs single-file `cook-docs` with `.cookdocs.toml` for frontmatter, emojis, gram weights, internal cross-links, companion image copy, and non-destructive merge, optimizes WebP/PNG, and updates `zensical.toml`).
+- **Compile & Move Recipe:** `FILES=<path/to/cookfile> task move` (runs single-file `cook-docs` with `.cookdocs.toml` for frontmatter, `[category_tags]`, H1 `titleEmoji`, ingredient/cookware emojis, gram weights, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync, plus Pillow/PNG post-processing and spell/link checks).
 - **Link Checking Note:** DO NOT run `task linkcheck` project-wide as it is excessively slow. Only use targeted link checks when necessary.
 
 ## Recipe Content & Formatting Guidelines
@@ -251,7 +251,7 @@ For multi-serving, multi-variation, or batch recipes, use `pymdownx.tabbed` cont
 2. **Naming & Duplicates:** Use the base recipe name only. If a recipe with the same name already exists, prompt the user to choose between replacing the existing recipe or appending the author/source to the title.
 3. **Draft Cooklang:** Format as `.cook` with inline ingredients, correct unit abbreviations (`Tbsp`, `tsp`), time ranges, and ignored ingredients verified.
 4. **Hero Image:** Place corresponding image alongside the `.cook` file. Generate custom hero image if requested.
-5. **Compile & Move:** Run `FILES=<path/to/cookfile> task move` (invokes `cook-docs` via [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml) and [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl) to emit frontmatter, emojis from `includes/emoji.yaml`, gram weights from `includes/weights.yaml`, internal cross-links, companion image copy/WebP conversion, non-destructive merge, and `zensical.toml` nav insertion).
+5. **Compile & Move:** Run `FILES=<path/to/cookfile> task move` (invokes `cook-docs` via [.cookdocs.toml](file:///home/nicholas/git/nicholaswilde/recipes/.cookdocs.toml) and [cook/recipe.md.gotmpl](file:///home/nicholas/git/nicholaswilde/recipes/cook/recipe.md.gotmpl) to emit frontmatter, `[category_tags]`, H1 `titleEmoji`, emojis from `includes/emoji.yaml`, gram weights from `includes/weights.yaml`, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync).
 6. **Review Emojis & Conversions:** If new ingredients lack emoji mappings or weights, update `includes/emoji.yaml` (`task emoji-sort`) or `docs/reference/measuring.md` (`task sync-weights`) and re-run `cook-docs <path/to/cookfile>`.
 7. **Verify Build:** Run `task validate` and `zensical build` to ensure error-free compilation.
 

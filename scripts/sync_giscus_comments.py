@@ -735,7 +735,7 @@ def validate_cook_file(cook_path):
     """Validate a single `.cook` file via `cook-docs doctor` (or `cook` fallback)."""
     if shutil.which("cook-docs"):
         result = subprocess.run(
-            ["cook-docs", "doctor", "--check-recipes", cook_path],
+            ["cook-docs", "doctor", "--only", "syntax,ignored", cook_path],
             capture_output=True,
             text=True,
         )

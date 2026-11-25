@@ -124,8 +124,13 @@ function get_new_image_path(){
   recipe_name=$(get_recipe_name "${1}")
   lower=$(to_lower "${recipe_name}")
   image_path=$(get_image_path "${1}")
+  is_null "${image_path}" && return 0
   image_extension=$(get_extension "${image_path}")
-  printf "%s/%s.%s" "${IMAGES_PATH}" "${lower}" "${image_extension}"
+  if [[ "${image_extension,,}" == "jpg" || "${image_extension,,}" == "jpeg" ]] && [ -f "${IMAGES_PATH}/${lower}.webp" ]; then
+    printf "%s/%s.webp" "${IMAGES_PATH}" "${lower}"
+  else
+    printf "%s/%s.%s" "${IMAGES_PATH}" "${lower}" "${image_extension,,}"
+  fi
 }
 
 function get_new_markdown_path(){
@@ -163,7 +168,9 @@ function do_checks(){
 
   if command_exists cook-docs; then
     printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
-    if ! (cd "${ROOT_DIR}" && cook-docs doctor --check-recipes "${1}"); then
+    local abs_recipe
+    abs_recipe=$(get_recipe_path "${1}")
+    if ! (cd "${ROOT_DIR}" && cook-docs doctor --only syntax,ignored "${abs_recipe}"); then
       printf "Cook validation failed for %s\n" "${1}"
       exit 1
     fi

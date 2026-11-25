@@ -231,7 +231,7 @@ tasks:
   validate-cook:
     desc: Validate a CookLang file with cook-docs doctor
     cmds:
-      - cook-docs doctor --check-recipes {{shellQuote .FILE}}
+      - cook-docs doctor --only syntax,ignored {{shellQuote .FILE}}
     requires:
       vars: [FILE]
 

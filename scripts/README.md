@@ -8,7 +8,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 | Script / Command | Taskfile Shortcut | Purpose |
 | :--- | :--- | :--- |
-| `scripts/move.sh` | `task move FILES="<path>"` | Compiles a single `.cook` recipe directly into `docs/` via `cook-docs` (`.cookdocs.toml` + `cook/recipe.md.gotmpl`), optimizes companion WebP/PNG images, ensures H1 emoji, formats with `rumdl`, checks spelling/links, and updates `zensical.toml` navigation. |
+| `scripts/move.sh` | `task move FILES="<path>"` | Compiles a single `.cook` recipe directly into `docs/` via `cook-docs` (`.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, `[category_tags]`, H1 `titleEmoji`, emojis, gram weights, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync), runs Pillow/PNG post-processing, formats with `rumdl`, and checks spelling/links. |
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
@@ -23,12 +23,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/whitelist_typos.py` | - | Whitelists words in the typos dictionary, sorts the file, and rebuilds typos config. |
 | `scripts/find_missing_sources.py` | `task check-missing-sources` | Scans markdown recipes to find files that do not have a Source/Sources section. |
 | `scripts/check_missing_images.py` | `task check-missing-images` | Scans recipe files to find files missing hero images or embeds. |
-| `scripts/add_recipe_nav.py` | - | Adds a recipe's relative path to the correct navigation section in `zensical.toml`. |
 | `scripts/add_recipe_size.py` | - | Scales ingredients of a recipe by a factor and appends it as a new tab block. |
 | `scripts/adjust_recipe_metadata.py` | - | Modifies frontmatter metadata tags and custom properties for a recipe markdown file. |
 | `scripts/optimize_images.sh` | - | Converts recipe JPEGs to WebP and optimizes PNG files to reduce image asset file sizes. |
-| `scripts/refactor_nav.py` | - | Replaces navigation blocks in `zensical.toml` with preset navigation structures. |
-| `scripts/move_and_verify.py` | - | Relocates recipes in `sides` and `sauces-and-dressings` to subdirectories and updates navigation. |
 | `scripts/sync_weights_yaml.py` | `task sync-weights` | Regenerates `includes/weights.yaml` from `docs/reference/measuring.md` for `cook-docs` `toGrams` enrichment. |
 
 ---
@@ -40,12 +37,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [move.sh](move.sh)
 
 * **Usage**: `./scripts/move.sh [-f|--force] <recipe.cook>`
-* **Description**: Validates `.cook` syntax with `cook-docs doctor --check-recipes`, compiles the single
-  recipe directly into `docs/` via `cook-docs` using `.cookdocs.toml` and `cook/recipe.md.gotmpl`
-  (handling frontmatter, ingredient/cookware emojis from `includes/emoji.yaml`, gram weights from
-  `includes/weights.yaml`, internal cross-links, companion image copying, and non-destructive merging
-  unless `-f`/`--force` is passed), converts copied JPEGs to WebP or optimizes PNG files, checks H1 emojis,
-  formats with `rumdl`, updates `zensical.toml` navigation, and runs spell/link checks.
+* **Description**: Validates `.cook` syntax and ignored ingredients with `cook-docs doctor --only syntax,ignored`,
+  compiles the single recipe directly into `docs/` via `cook-docs` using `.cookdocs.toml` and `cook/recipe.md.gotmpl`
+  (handling frontmatter, `[category_tags]`, H1 `titleEmoji`, ingredient/cookware emojis from `includes/emoji.yaml`,
+  gram weights from `includes/weights.yaml`, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive
+  merging unless `-f`/`--force` is passed, and `zensical.toml` navigation sync), runs Pillow fallback / `oxipng`
+  post-processing when needed, formats with `rumdl`, and runs spell/link checks.
 
 #### [commit.sh](commit.sh)
 
@@ -54,19 +51,6 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   `zensical.toml`, etc.) to git, prompts you for the corresponding GitHub issue number,
   and commits the changes using a structured conventional commit message (e.g.,
   `feat: add recipe. Fixes #123.`).
-
-#### [move_and_verify.py](move_and_verify.py)
-
-* **Usage**: `uv run scripts/move_and_verify.py`
-* **Description**: A specialized batch utility script that organizes and relocates recipes within
-  the `sides` and `sauces-and-dressings` categories to their nested subdirectories (e.g.,
-  `potatoes`, `vinaigrettes`, `salsas`), maintaining both the `.cook` files and compiled markdown docs.
-
-#### [add_recipe_nav.py](add_recipe_nav.py)
-
-* **Usage**: `uv run scripts/add_recipe_nav.py <recipe_name> <relative_path>`
-* **Description**: Automatically inserts a recipe file under the correct section list in
-  `zensical.toml` and maintains alphabetical ordering of the list items.
 
 #### [scrape_to_cook.py](scrape_to_cook.py)
 
@@ -189,12 +173,6 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Description**: Scans open duplicate-labeled issues on GitHub and cross-references them against
   imported recipes in the codebase, with an optional `--close` flag to auto-close exact URL matches.
 
-#### [comments.sh](comments.sh)
-
-* **Usage**: `./scripts/comments.sh`
-* **Description**: Traverses markdown recipes and appends `comments: true` to the front-matter of
-  any file missing it.
-
 #### [sync_giscus_comments.py](sync_giscus_comments.py)
 
 * **Usage**: `uv run scripts/sync_giscus_comments.py [--triage] [--mode auto|pr|issue] [--dry-run] [--seed-state]`
@@ -213,12 +191,6 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `uv run scripts/check_missing_images.py [--json] [--category CATEGORY]` or `task check-missing-images`
 * **Description**: Scans all recipe markdown files under `docs/` and reports missing hero frontmatter fields,
   missing image embeds (`![...]`), nonexistent hero files, and corrupted links.
-
-#### [refactor_nav.py](refactor_nav.py)
-
-* **Usage**: `uv run scripts/refactor_nav.py`
-* **Description**: A batch helper script that replaces the `Sides` and `Sauces & Dressings` navigation configurations
-  in `zensical.toml` with pre-defined structures.
 
 ---
 

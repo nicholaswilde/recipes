@@ -32,13 +32,12 @@ When a new `.cook` recipe file is compiled, relocate it to its final destination
   ```
 
 * **Under the Hood**: Invokes [scripts/move.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/move.sh),
-  which validates syntax via `cook-docs doctor --check-recipes`, compiles directly into `docs/` via `cook-docs`
-  (configured in `.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, emojis from `includes/emoji.yaml`,
-  gram weights from `includes/weights.yaml`, internal cross-links, companion image copying, and non-destructive
-  `--merge` unless `-f`/`--force`), optimizes WebP/PNG images, checks H1 emojis, formats with `rumdl`, adds
-  navigation configuration to `zensical.toml` via
-  [scripts/add_recipe_nav.py](file:///home/nicholas/git/nicholaswilde/recipes/scripts/add_recipe_nav.py),
-  and runs spell/link validation.
+  which validates syntax and ignored ingredients via `cook-docs doctor --only syntax,ignored`, compiles directly into
+  `docs/` via `cook-docs` (configured in `.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, `[category_tags]`,
+  H1 `titleEmoji`, emojis from `includes/emoji.yaml`, gram weights from `includes/weights.yaml`, ingredient & step
+  cross-links, JPEG-to-WebP image conversion, non-destructive `--merge` unless `-f`/`--force`, and `zensical.toml`
+  navigation sync), runs Pillow fallback / `oxipng` PNG optimization when needed, formats with `rumdl`, and runs
+  spell/link validation.
 
 #### Commit Recipe Changes
 
@@ -53,16 +52,6 @@ Once a recipe has been imported and verified, commit the changes using the conve
 * **Under the Hood**: Invokes [scripts/commit.sh](file:///home/nicholas/git/nicholaswilde/recipes/scripts/commit.sh),
   which stages all files and prompts for the GitHub issue number to structure the commit message (e.g.
   `feat: add recipe. Fixes #123`).
-
-#### Batch Organize Recipes (Sides / Sauces)
-
-To batch-relocate sides and sauces to nested subfolders based on filename mappings:
-
-* **Protocol**:
-
-  ```bash
-  uv run scripts/move_and_verify.py
-  ```
 
 #### Scrape Recipe Webpage or YouTube Video to Cooklang
 
@@ -261,7 +250,7 @@ To verify that recipe Markdown H1 headers include valid emoji shortcodes (e.g. `
   uv run scripts/check_header_emojis.py --fix
   ```
 
-* **Under the Hood**: Parses all recipe markdown files under `docs/`, checks if the H1 header begins with an emoji shortcode `:<name>:`. With `--fix`, matches against category defaults or keyword heuristics in `HEURISTIC_EMOJIS` and prepends the emoji shortcode directly to the Markdown H1 and `.cook` title metadata.
+* **Under the Hood**: Parses all recipe markdown files under `docs/`, checks if the H1 header begins with an emoji shortcode `:<name>:`. With `--fix`, matches against `[emoji.titles]` and `[emoji.categories]` loaded from `.cookdocs.toml` (plus `includes/emoji.yaml`) and prepends the emoji shortcode directly to the Markdown H1.
 
 #### Check and Backfill Missing Recipe Sources
 

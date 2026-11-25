@@ -8,7 +8,7 @@
 #
 # @author nιcнolaѕ wιlde, 0x08b7d7a3
 # @date 02 Sep 2022
-# @version 0.4.0
+# @version 0.5.0
 #
 ################################################################################
 
@@ -41,21 +41,6 @@ readonly DEBUG
 
 # shuck:disable=C003
 source "${DIR}/lib/libbash"
-
-function copy_names() {
-  if command_exists copy; then
-    lb_infoln "Copying names"
-    arr=()
-    for path in "${@}"; do
-      s=$(get_recipe_name "${path}")
-      s=$(to_lower "${s}")
-      c=$(get_category "${path}")
-      n=$(get_recipe_name "${path}")
-      arr+=("{ \"${n}\" = \"${c}/${s}.md\" },")
-    done
-    printf "%s" "${arr[@]}" | copy
-  fi
-}
 
 function spell_check() {
   lb_infoln "Checking spelling"
@@ -90,37 +75,43 @@ function links_check() {
   fi
 }
 
-function optimize_copied_image() {
-  local img_path="${1}"
+function postprocess_image() {
+  local recipe_path="${1}"
   local md_path="${2}"
-  [ -f "${img_path}" ] || return 0
+  local image_path
+  image_path=$(get_image_path "${recipe_path}")
+  [ -n "${image_path}" ] && [ -f "${image_path}" ] || return 0
 
-  local filename
-  filename=$(basename "${img_path}")
-  local ext="${filename##*.}"
-  local base="${filename%.*}"
+  local slug
+  slug=$(to_lower "$(get_recipe_name "${recipe_path}")")
+  local src_ext="${image_path##*.}"
+  src_ext="${src_ext,,}"
 
-  if [[ "${ext,,}" == "jpg" || "${ext,,}" == "jpeg" ]]; then
-    local webp_path="${img_path%.*}.webp"
-    if command_exists cwebp && cwebp -q 80 -metadata all "${img_path}" -o "${webp_path}" &>/dev/null; then
-      lb_infoln "Converted image to WebP"
-      rm -f "${img_path}"
-    elif uv run python3 -c "import sys; from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open(sys.argv[1]).convert('RGB').save(sys.argv[2], 'WEBP', quality=80)" "${img_path}" "${webp_path}" &>/dev/null; then
-      lb_infoln "Converted image to WebP (Pillow fallback)"
-      rm -f "${img_path}"
-    else
-      lb_infoln "Warning: Failed to convert image to WebP; keeping ${filename}"
-      local escaped_name="${filename//&/\\&}"
-      sed -i "s|assets/images/${base}\.webp|assets/images/${escaped_name}|g" "${md_path}"
-    fi
-  elif [[ "${ext,,}" == "png" ]]; then
-    if command_exists oxipng; then
-      lb_infoln "Optimizing PNG image"
-      if ! oxipng -o 4 --strip safe "${img_path}" &>/dev/null; then
-        lb_infoln "Warning: Failed to optimize PNG image using oxipng"
+  if [[ "${src_ext}" == "jpg" || "${src_ext}" == "jpeg" ]]; then
+    # cook-docs converts jpg/jpeg to webp via cwebp; salvage via Pillow only on fallback
+    local webp_path="${IMAGES_PATH}/${slug}.webp"
+    local raw_path="${IMAGES_PATH}/${slug}.${src_ext}"
+    if [ ! -f "${webp_path}" ] && [ -f "${raw_path}" ]; then
+      if uv run python3 -c "import sys; from PIL import Image, ImageFile; ImageFile.LOAD_TRUNCATED_IMAGES = True; Image.open(sys.argv[1]).convert('RGB').save(sys.argv[2], 'WEBP', quality=80)" "${raw_path}" "${webp_path}" &>/dev/null; then
+        lb_infoln "Converted image to WebP (Pillow fallback)"
+        rm -f "${raw_path}"
+      else
+        lb_infoln "Warning: Failed to convert image to WebP; keeping ${slug}.${src_ext}"
+        local escaped_name="${slug//&/\\&}.${src_ext}"
+        sed -i "s|assets/images/${slug}\.webp|assets/images/${escaped_name}|g" "${md_path}"
       fi
-    else
-      lb_infoln "Warning: oxipng not found, skipping PNG optimization"
+    fi
+  elif [[ "${src_ext}" == "png" ]]; then
+    local png_path="${IMAGES_PATH}/${slug}.png"
+    if [ -f "${png_path}" ]; then
+      if command_exists oxipng; then
+        lb_infoln "Optimizing PNG image"
+        if ! oxipng -o 4 --strip safe "${png_path}" &>/dev/null; then
+          lb_infoln "Warning: Failed to optimize PNG image using oxipng"
+        fi
+      else
+        lb_infoln "Warning: oxipng not found, skipping PNG optimization"
+      fi
     fi
   fi
 }
@@ -137,43 +128,23 @@ function move_files(){
   new_markdown_path=$(get_new_markdown_path "${recipe_path}")
   test -d "${DOCS_PATH}/${category}" || mkdir -p "${DOCS_PATH}/${category}"
 
-  local image_path
-  image_path=$(get_image_path "${recipe_path}")
   local cook_docs_args=()
   if [ "${FORCE}" = true ]; then
     cook_docs_args+=("--force")
   fi
 
-  local copied_image_path=""
-  if [ -n "${image_path}" ] && [ -f "${image_path}" ]; then
-    copied_image_path=$(get_new_image_path "${recipe_path}")
-    local src_ext="${image_path##*.}"
-    if [[ "${src_ext,,}" == "jpg" || "${src_ext,,}" == "jpeg" ]]; then
-      cook_docs_args+=("--image-ext" "webp")
-    fi
-  fi
-
   cd "${ROOT_DIR}"
 
-  # Single-pass compile: frontmatter, emojis, gram weights, cross-links,
-  # companion asset copy, and non-destructive merge (configured in .cookdocs.toml)
+  # Single-pass compile: frontmatter, category tags, H1 titleEmoji, emojis, gram weights,
+  # ingredient & step cross-links, WebP asset conversion, merge, and zensical.toml nav sync
   cook-docs "${cook_docs_args[@]}" "${recipe_path}"
   test -f "${new_markdown_path}" || { printf "File does not exist, %s\n" "${new_markdown_path}"; exit 1; }
 
-  if [ -n "${copied_image_path}" ]; then
-    optimize_copied_image "${copied_image_path}" "${new_markdown_path}"
-  fi
-
-  # Ensure H1 header has a valid emoji shortcode when .cook lacks title metadata
-  uv run scripts/check_header_emojis.py --fix "${new_markdown_path}" || true
+  postprocess_image "${recipe_path}" "${new_markdown_path}"
 
   if command_exists rumdl; then
     rumdl fmt "${new_markdown_path}" &>/dev/null || true
   fi
-
-  recipe_name=$(get_recipe_name "${recipe_path}")
-  relative_markdown_path=$(realpath --relative-to="${DOCS_PATH}" "${new_markdown_path}")
-  uv run "${DIR}/add_recipe_nav.py" "${recipe_name}" "${relative_markdown_path}"
 }
 
 function main(){
@@ -184,7 +155,6 @@ function main(){
   done
   spell_check "${@}"
   links_check "${@}"
-  copy_names "${@}"
 }
 
 if [ $# -eq 0 ]; then usage_error "${SCRIPT_NAME}"; fi
