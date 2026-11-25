@@ -45,16 +45,22 @@ This skill safely and completely renames a recipe along with all of its associat
      - Cook Image: `git mv "cook/{category}/{Old Name}.{jpg|png|webp}" "cook/{category}/{New Name}.{jpg|png|webp}"` (depending on the extension of the existing image)
      - Docs Image: `git mv docs/assets/images/{old-slug}.{jpg|png|webp} docs/assets/images/{new-slug}.{jpg|png|webp}`
 
-4. **Update File Contents:**
-   - **Markdown Page:**
+4. **Update File Contents & Sync Navigation:**
+   - **Cooklang File (if present):**
+     - Update the metadata title if explicitly set (`mdfm --where has_frontmatter set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
+     - Re-compile with `cook-docs` (`merge = true` and `nav_file = "zensical.toml"` in `.cookdocs.toml`):
+
+       ```bash
+       cook-docs "cook/{category}/{New Name}.cook"
+       ```
+
+       This automatically updates `hero:`, H1 title/emoji, image alt/reference links, and inserts the new entry alphabetically into `zensical.toml` while preserving manual sections and `=== "..."` tabs.
+   - **Markdown-Only Recipes (no `.cook` file):**
      - Update frontmatter `hero:` path via `mdfm set hero=assets/images/{new-slug}.{jpg|png|webp} docs/{category}/{new-slug}.md`.
-     - Update the title (`# :emoji: New Recipe Name`).
-     - Update the image reference alt text (`![New Recipe Name][1]`).
-     - Update the image link path at the bottom of the page (`[1]: <../../assets/images/{new-slug}.{jpg|png|webp}>`).
-   - **Cooklang File:**
-     - Update the metadata title (`mdfm --where has_frontmatter set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
-   - **zensical.toml:**
-     - Replace the old name and path with the new name and path under the correct navigation section.
+     - Update the title (`# :emoji: New Recipe Name`), image alt text (`![New Recipe Name][1]`), and bottom reference path (`[1]: <../../assets/images/{new-slug}.{jpg|png|webp}>`).
+     - Add the new entry in alphabetical order in `zensical.toml`.
+   - **Remove Old `zensical.toml` Entry:**
+     - Confirm with the user before removing the old `<old_name>` entry from `zensical.toml`.
 
 5. **Update Cross-References:**
    - Search the `docs/` folder for any other files containing links or references to the old recipe path (`docs/{category}/{old-slug}.md`).

@@ -29,10 +29,13 @@ This skill automates the creation of a hero image for a recipe using the `genera
    ```
 
 4. **Update Recipe Documentation:**
-   Run the `move.sh` script on the recipe's `.cook` file. This script will automatically update the markdown file, convert the new image to `.webp` in `docs/assets/images/`, and link everything correctly.
+   Compile the recipe with `cook-docs` (`.cookdocs.toml` sets `convert_images = "webp"`, `assets_dir = "docs/assets/images"`, and `merge = true`). This converts the `.jpg` to `.webp` via `cwebp`, writes it to `docs/assets/images/`, and updates the Markdown `hero:` frontmatter and body embed without clobbering manual edits:
+
    ```bash
-   bash scripts/move.sh "cook/<category>/<Recipe Name>.cook"
+   cook-docs "cook/<category>/<Recipe Name>.cook"
    ```
+
+   *(Use `bash scripts/move.sh "cook/<category>/<Recipe Name>.cook"` instead only if you need Pillow fallback for a truncated JPEG, `oxipng` PNG optimization, or full spell/link checks.)*
 
 5. **Commit the Changes:**
    Add and commit the new `.jpg` source image, the compiled `.md` markdown file, and the `.webp` image to version control.

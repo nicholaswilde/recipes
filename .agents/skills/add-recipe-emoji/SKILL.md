@@ -36,10 +36,10 @@ H1 title, `## :salt: Ingredients`, and `## :cooking: Cookware` sections using `i
      rtk rg -i "<ingredient>" docs/
      ```
 
-   - Optionally inspect automated suggestions or unmapped items from `cook-docs` / repo scripts:
+   - Inspect unmapped items or suggestions from `cook-docs` / repo scripts:
 
      ```bash
-     task validate-cook FILE="<cook/path/to/Recipe.cook>"
+     cook-docs doctor --only emojis "<cook/path/to/Recipe.cook>"
      rtk uv run scripts/check_header_emojis.py "<docs/path/to/recipe.md>"
      rtk uv run scripts/check_recipe_emojis.py "<cook/path/to/Recipe.cook>"
      ```
@@ -49,15 +49,24 @@ H1 title, `## :salt: Ingredients`, and `## :cooking: Cookware` sections using `i
      > accurate shortcode from `includes/emoji.yaml` and existing recipes (e.g., `:olive:`, `:beans:`,
      > `:cheese_wedge:`, `:bell_pepper:`, `:spaghetti:`, `:bowl_with_spoon:`, `:salt:`).
 
-3. **Edit the Recipe Markdown**:
+3. **Apply Emojis (Prefer `cook-docs` Re-Compile)**:
 
-   - **Title**: `# :<shortcode>: <Recipe Title>`
-   - **Ingredients**: `- :<shortcode>: <quantity> <unit> <ingredient>` (emoji precedes measurement;
-     preserve 4-space indentation inside `=== "Tab"` blocks)
-   - **Cookware**: `- :<shortcode>: <quantity> <cookware>`
+   - **`.cook`-backed non-tabbed recipes**: Add any missing ingredient/cookware mappings to
+     `includes/emoji.yaml` (run `task emoji-sort`) or title/category rules to `.cookdocs.toml`
+     (`[emoji.titles]` / `[emoji.categories]`), then re-compile with `cook-docs` (`merge = true`
+     preserves manual notes, admonitions, and tabs):
+
+     ```bash
+     cook-docs "<cook/path/to/Recipe.cook>"
+     ```
+
+   - **Markdown-only or tabbed recipes** (where `cook-docs --merge` preserves manual `=== "Tab"`
+     blocks): Edit the Markdown directly:
+     - **Title**: `# :<shortcode>: <Recipe Title>`
+     - **Ingredients**: `- :<shortcode>: <quantity> <unit> <ingredient>` (emoji precedes measurement;
+       preserve 4-space indentation inside `=== "Tab"` blocks)
+     - **Cookware**: `- :<shortcode>: <quantity> <cookware>`
    - Do not add emoji shortcodes to `.cook` source files.
-   - If you add new ingredient/cookware entries to `includes/emoji.yaml`, run `task emoji-sort`
-     afterward to keep keys sorted.
 
 4. **Verify**:
 

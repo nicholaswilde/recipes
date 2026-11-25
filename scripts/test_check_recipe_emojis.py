@@ -132,5 +132,31 @@ emoji:
                 
         mock_exit.assert_called_with(1)
 
+    @patch("sys.exit")
+    def test_fix_preserves_commas_and_parens_in_ingredient_names(self, mock_exit):
+        cook_path = os.path.join(self.test_dir, "comma_recipe.cook")
+        with open(cook_path, "w", encoding="utf-8") as f:
+            f.write(
+                "Whisk @unsalted butter, softened{2%Tbsp} with @mystery spice (optional){1%tsp}.\n"
+            )
+
+        test_argv = ["scripts/check_recipe_emojis.py", "--fix", cook_path]
+        setattr(check_recipe_emojis, "EMOJI_YAML_PATH", self.emoji_yaml_path)
+
+        with patch.object(sys, "argv", test_argv):
+            try:
+                check_recipe_emojis.main()
+            except SystemExit:
+                pass
+
+        with open(self.emoji_yaml_path, "r", encoding="utf-8") as f:
+            updated_data = yaml.safe_load(f)
+
+        ingredients_list = updated_data["emoji"]["ingredients"]
+        milk_group = next(item["glass_of_milk"] for item in ingredients_list if "glass_of_milk" in item)
+        self.assertIn("unsalted butter, softened", milk_group)
+        takeout_group = next(item["takeout_box"] for item in ingredients_list if "takeout_box" in item)
+        self.assertIn("mystery spice (optional)", takeout_group)
+
 if __name__ == "__main__":
     unittest.main()

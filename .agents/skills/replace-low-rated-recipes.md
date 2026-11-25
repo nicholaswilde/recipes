@@ -54,5 +54,5 @@ uv run scripts/import_recipe_workflow.py <NewURL> <category>
 Once the new recipe is imported:
 
 1. Delete the old `.cook` recipe file and its generated `.md` docs/assets.
-2. Update the navigation in [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) by removing the old file reference and positioning the new file reference alphabetically in the correct category block.
-3. run `task validate`, `task lint-changed`, and `task validate-cook FILE="<cook_file>"` to verify structural and lint correctness.
+2. Confirm with the user and remove the old file reference from [zensical.toml](file:///home/nicholas/git/nicholaswilde/recipes/zensical.toml) (`cook-docs` `nav_file` already inserts and alphabetically sorts the new recipe on import).
+3. Run `task validate`, `task lint-changed`, and `task validate-cook FILE="<cook_file>"` to verify structural and lint correctness.

@@ -1,18 +1,16 @@
 ---
 name: lint-changed-files
 description: >-
-  Run fast linting checks (rumdl, mdfm, and yamllint-rs) only on modified, staged, or untracked files in the workspace. Trigger: /lint-changed-files, 'lint changed files'.
+  Run fast linting checks (rumdl, mdfm, cook-docs doctor, and yamllint-rs) only on modified, staged, or untracked files in the workspace. Trigger: /lint-changed-files, 'lint changed files'.
 ---
 
 # /lint-changed-files
 
-Run fast linting checks only on modified, staged, or untracked Markdown and YAML files in the workspace (saves context tokens).
+Run fast linting checks only on modified, staged, or untracked Markdown, Cooklang, and YAML files in the workspace (saves context tokens).
 
 ## Description
 
-This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check --errors-only` on modified `docs/**/*.md` and `cook/**/*.cook` frontmatter (using per-glob `[[schemas]]`), and
-`yamllint-rs` on modified YAML files, avoiding the overhead and token consumption of checking
-the entire repository.
+This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check --errors-only` and `mdfm fmt --check` on modified `docs/**/*.md` and `cook/**/*.cook` frontmatter (using per-glob `[[schemas]]`), `cook-docs doctor --only syntax,ignored` on modified `cook/**/*.cook` files, and `yamllint-rs` on modified YAML files, avoiding the overhead and token consumption of checking the entire repository.
 
 ## Protocol
 

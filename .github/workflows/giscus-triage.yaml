@@ -59,6 +59,17 @@ jobs:
           echo "${HOME}/.local/bin" >> "${GITHUB_PATH}"
           "${HOME}/.local/bin/mdfm" --version
 
+      - name: Install cook-docs
+        env:
+          COOK_DOCS_VERSION: "0.9.7"
+        run: |
+          mkdir -p "${HOME}/.local/bin"
+          pkg="cook-docs_${COOK_DOCS_VERSION}_Linux_x86_64"
+          url="https://github.com/nicholaswilde/cook-docs/releases/download/v${COOK_DOCS_VERSION}/${pkg}.tar.gz"
+          curl -fsSL "${url}" | tar -xz --strip-components=1 -C "${HOME}/.local/bin" "${pkg}/cook-docs"
+          echo "${HOME}/.local/bin" >> "${GITHUB_PATH}"
+          "${HOME}/.local/bin/cook-docs" --version
+
       - name: Configure git identity
         run: |
           git config user.name "github-actions[bot]"

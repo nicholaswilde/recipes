@@ -99,14 +99,18 @@ rtk gh run view <run-id> --log --job=<job-id> | cat
      task linkcheck
      ```
 
-#### E. CookLang Recipe Validation Errors
-* **Symptom**: `cook-docs doctor --only syntax,ignored` (or `cook-docs doctor --check-recipes`) fails during recipe processing.
+#### E. CookLang Recipe & Config Validation Errors (`cook-docs` workflow)
+
+* **Symptom**: `cook-docs doctor --strict`, `cook-docs doctor --only syntax,ignored`, or `cook-docs doctor --only ignored --strict` fails in CI or during recipe processing.
 * **Fix protocol**:
-  1. Run validator:
+  1. Reproduce config/template/nav checks or single-file checks locally:
+
      ```bash
+     cook-docs doctor --strict
      task validate-cook FILE="<path/to/file.cook>"
      ```
-  2. Ensure standard CookLang formatting: inline ingredients (`@ingredient{quantity%unit}`), proper timer syntax (`~{duration%unit}` without hyphens inside timer), and valid metadata.
+
+  2. Ensure standard CookLang formatting: inline ingredients (`@ingredient{quantity%unit}`), proper timer syntax (`~{duration%unit}` without hyphens inside timer), no `@`-tagged items from `cook/config/ignored_ingredients.yaml`, and valid metadata.
 
 #### F. Markdown / YAML Linting
 * **Symptom**: `rumdl` or `yamllint-rs` failures.

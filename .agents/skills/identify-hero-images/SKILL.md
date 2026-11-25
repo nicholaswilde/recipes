@@ -29,10 +29,11 @@ Optional flags:
 - `--min-bytes 5000`: Minimum image file size in bytes (default `5000`)
 - `--json`: Output machine-readable JSON for filtering or issue creation
 
-For frontmatter/embed structural checks only, run:
+For frontmatter/embed structural checks on `docs/` or companion-image checks on `cook/`, run:
 
 ```bash
 task check-missing-images
+cook-docs doctor --only images
 ```
 
 ---
@@ -57,8 +58,9 @@ Separate results into **Generation Required** vs. **Metadata / Sync Fixes**:
       ```
     - **Hero vs. Embed Mismatches**: Update the body embed reference to match the dedicated
       `hero:` file.
-    - **Non-WebP Images**: Run `./scripts/optimize_images.sh` after replacing any corrupt `.jpg`
-      files.
+    - **Non-WebP Images**: For `.cook`-backed recipes, place the `.jpg` beside the `.cook` file and
+      run `cook-docs "<cook/path/to/Recipe.cook>"` (`convert_images = "webp"`). For Markdown-only
+      recipes or bulk cleanup, run `./scripts/optimize_images.sh`.
 
 ---
 

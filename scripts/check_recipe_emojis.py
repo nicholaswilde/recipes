@@ -8,7 +8,7 @@
 #
 # @author nιcнolaѕ wιlde, 0x08b7d7a3
 # @date 02 Jun 2026
-# @version 0.2.0
+# @version 0.3.0
 #
 ################################################################################
 
@@ -48,72 +48,118 @@ def get_valid_gemoji():
         return None
 
 
-def load_emoji_mappings(filepath):
-    with open(filepath, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
-    emoji_data = data.get("emoji", {})
-    mappings = {"ingredients": {}, "cookware": {}}
-    for category in ("ingredients", "cookware"):
-        for group in emoji_data.get(category, []):
-            for emoji_name, terms in group.items():
-                for term in terms or []:
-                    mappings[category][str(term).strip().lower()] = emoji_name
-    return mappings
+def _split_doctor_items(raw_list, known_names):
+    """Split a comma-separated doctor item list while preserving commas inside names."""
+    remaining = raw_list.strip()
+    if not remaining:
+        return []
+    candidates = sorted(
+        {name.strip() for name in known_names if name and name.strip()},
+        key=len,
+        reverse=True,
+    )
+    parsed = []
+    while remaining:
+        matched = None
+        rem_lower = remaining.lower()
+        for name in candidates:
+            name_lower = name.lower()
+            if rem_lower == name_lower or rem_lower.startswith(name_lower + ", "):
+                matched = remaining[: len(name)]
+                remaining = remaining[len(name) :].lstrip()
+                if remaining.startswith(","):
+                    remaining = remaining[1:].lstrip()
+                break
+        if matched is not None:
+            parsed.append(matched)
+        else:
+            head, sep, tail = remaining.partition(", ")
+            parsed.append(head.strip())
+            remaining = tail.strip() if sep else ""
+    return parsed
 
 
 def extract_recipe_items(cook_path):
     """Extract ingredients and cookware via cook-docs --jsonify (Cooklang AST)."""
-    if shutil.which("cook-docs"):
-        parent = str(Path(cook_path).resolve().parent)
-        res = subprocess.run(
-            ["cook-docs", "-c", parent, "--jsonify", cook_path],
-            capture_output=True,
-            text=True,
-        )
-        if res.returncode == 0 and res.stdout.strip():
-            try:
-                parsed = json.loads(res.stdout)
-                if isinstance(parsed, list):
-                    parsed = parsed[0] if parsed else {}
-                ingredients = {
-                    item["Name"].strip()
-                    for item in parsed.get("Ingredients", [])
-                    if item.get("Name")
-                }
-                cookware = {
-                    item["Name"].strip()
-                    for item in parsed.get("Cookware", [])
-                    if item.get("Name")
-                }
-                return ingredients, cookware
-            except (json.JSONDecodeError, KeyError, IndexError):
-                pass
-
-    # Fallback regex parser when cook-docs is unavailable
-    with open(cook_path, "r", encoding="utf-8") as f:
-        content = f.read()
+    parent = str(Path(cook_path).resolve().parent)
+    res = subprocess.run(
+        ["cook-docs", "-c", parent, "--jsonify", cook_path],
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    parsed = json.loads(res.stdout)
+    if isinstance(parsed, list):
+        parsed = parsed[0] if parsed else {}
     ingredients = {
-        (m[0] or m[1]).strip()
-        for m in re.findall(r"@(?:([^\n@#{}]+)\{[^}]*\}|(\w+))", content)
-        if m[0] or m[1]
+        item["Name"].strip()
+        for item in parsed.get("Ingredients", [])
+        if item.get("Name")
     }
     cookware = {
-        (m[0] or m[1]).strip()
-        for m in re.findall(r"#(?:([^\n@#{}]+)\{[^}]*\}|(\w+))", content)
-        if m[0] or m[1]
+        item["Name"].strip()
+        for item in parsed.get("Cookware", [])
+        if item.get("Name")
     }
     return ingredients, cookware
 
 
-def find_match(name, category_mappings):
-    name_lower = name.lower().strip()
-    if name_lower in category_mappings:
-        return category_mappings[name_lower]
-    if name_lower.endswith("s") and name_lower[:-1] in category_mappings:
-        return category_mappings[name_lower[:-1]]
-    if (name_lower + "s") in category_mappings:
-        return category_mappings[name_lower + "s"]
-    return None
+def find_unmapped_with_doctor(cook_path, emoji_path, known_ingredients, known_cookware):
+    """Query cook-docs doctor --only emojis --json for unmapped items."""
+    parent = str(Path(cook_path).resolve().parent)
+    res = subprocess.run(
+        [
+            "cook-docs",
+            "-c",
+            parent,
+            "--emoji-file",
+            emoji_path,
+            "doctor",
+            "--only",
+            "emojis",
+            "--json",
+            cook_path,
+        ],
+        capture_output=True,
+        text=True,
+    )
+    if not res.stdout.strip():
+        raise RuntimeError(res.stderr.strip() or "cook-docs doctor returned empty output")
+    report = json.loads(res.stdout)
+    missing_ingredients = []
+    missing_cookware = []
+    for check in report.get("checks", []):
+        if check.get("category") != "recipe_emojis" or check.get("severity") == "ok":
+            continue
+        msg = check.get("message", "")
+        m = re.search(r"'\s+\((.+)\)\s*$", msg)
+        if not m:
+            continue
+        for part in m.group(1).split("; "):
+            if part.startswith("ingredients: "):
+                missing_ingredients.extend(
+                    _split_doctor_items(part[len("ingredients: ") :], known_ingredients)
+                )
+            elif part.startswith("cookware: "):
+                missing_cookware.extend(
+                    _split_doctor_items(part[len("cookware: ") :], known_cookware)
+                )
+    return missing_ingredients, missing_cookware
+
+
+def load_invalid_gemoji_terms(yaml_data, valid_gemoji):
+    """Return {category: {term_lower: shortcode}} for entries using invalid gemoji shortcodes."""
+    invalid = {"ingredients": {}, "cookware": {}}
+    if not valid_gemoji:
+        return invalid
+    emoji_data = yaml_data.get("emoji", {})
+    for category in ("ingredients", "cookware"):
+        for group in emoji_data.get(category, []):
+            for emoji_name, terms in group.items():
+                if emoji_name not in valid_gemoji:
+                    for term in terms or []:
+                        invalid[category][str(term).strip().lower()] = emoji_name
+    return invalid
 
 
 def get_heuristic_emoji_group(missing_term, category):
@@ -232,45 +278,47 @@ def main():
         print(f"Error: {cook_path} not found")
         sys.exit(1)
 
-    ingredients, cookware = extract_recipe_items(cook_path)
+    if not shutil.which("cook-docs"):
+        print("Error: 'cook-docs' is not installed.", file=sys.stderr)
+        sys.exit(1)
 
     emoji_path = globals().get("EMOJI_YAML_PATH", EMOJI_YAML_PATH)
     if not os.path.exists(emoji_path):
         print(f"Error: {emoji_path} not found")
         sys.exit(1)
 
-    mappings = load_emoji_mappings(emoji_path)
-    valid_gemoji = get_valid_gemoji()
+    ingredients, cookware = extract_recipe_items(cook_path)
+    missing_ingredients, missing_cookware = find_unmapped_with_doctor(
+        cook_path, emoji_path, ingredients, cookware
+    )
 
-    missing_ingredients = []
-    missing_cookware = []
+    with open(emoji_path, "r", encoding="utf-8") as f:
+        yaml_data = yaml.safe_load(f) or {}
 
-    print("Checking recipe ingredients and cookware emojis...")
+    invalid_gemoji = load_invalid_gemoji_terms(yaml_data, get_valid_gemoji())
+
+    print("Checking recipe ingredients and cookware emojis via cook-docs doctor...")
     print("-" * 50)
 
     for label, items, cat_key, missing_list in (
         ("Ingredients", ingredients, "ingredients", missing_ingredients),
         ("Cookware", cookware, "cookware", missing_cookware),
     ):
+        missing_lower = {m.lower() for m in missing_list}
         print(f"\n{label}:")
         for item in sorted(items):
-            match = find_match(item, mappings[cat_key])
-            if match:
-                if valid_gemoji and match not in valid_gemoji:
-                    print(f"  \u274c {item:<30} -> :{match}: (INVALID GEMOJI SHORTCODE)")
-                    missing_list.append(item)
-                else:
-                    print(f"  \u2705 {item:<30} -> :{match}:")
-            else:
+            bad_code = invalid_gemoji[cat_key].get(item.lower())
+            if item.lower() in missing_lower:
                 print(f"  \u274c {item:<30} -> MISSING EMOJI")
+            elif bad_code:
+                print(f"  \u274c {item:<30} -> :{bad_code}: (INVALID GEMOJI SHORTCODE)")
                 missing_list.append(item)
+            else:
+                print(f"  \u2705 {item:<30} -> mapped")
 
     print("-" * 50)
 
     if args.fix and (missing_ingredients or missing_cookware):
-        with open(emoji_path, "r", encoding="utf-8") as f:
-            yaml_data = yaml.safe_load(f) or {}
-
         print("Auto-fixing missing emoji mappings...")
         fixed_count = 0
 

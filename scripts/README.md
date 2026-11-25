@@ -12,8 +12,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
-| `scripts/list_ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
-| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check --errors-only`, `mdfm fmt --check` (`docs/` and `cook/`), and `yamllint-rs` (saves tokens). |
+| `cook-docs --jsonify \| jq` | `task list-ingredients` | Lists all unique ingredients across all `.cook` recipes. |
+| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check --errors-only`, `mdfm fmt --check` (`docs/` and `cook/`), `cook-docs doctor --only syntax,ignored` (`cook/`), and `yamllint-rs` (saves tokens). |
 | `scripts/git_summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
@@ -132,10 +132,10 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [check_recipe_emojis.py](check_recipe_emojis.py)
 
 * **Usage**: `uv run scripts/check_recipe_emojis.py [--fix] <recipe.cook>`
-* **Description**: Scans a `.cook` file's ingredients (`@`) and cookware (`#`) references to check
-  if they are mapped to emojis in [includes/emoji.yaml](../includes/emoji.yaml), exiting with a
-  non-zero status if any mapped emojis are missing. The optional `--fix` flag automatically maps
-  missing items using similarity checking or fallback groups and writes them back.
+* **Description**: Uses `cook-docs doctor --only emojis --json` to detect unmapped ingredients (`@`)
+  and cookware (`#`) against [includes/emoji.yaml](../includes/emoji.yaml) (plus gemoji shortcode
+  validation), exiting non-zero when mappings are missing or invalid. The optional `--fix` flag
+  automatically maps missing items using heuristics, similarity matching, or fallback groups.
 
 #### [generate_typos_config.py](generate_typos_config.py)
 
@@ -199,7 +199,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 * **Usage**: `uv run python3 scripts/lint_changed.py` or `task lint-changed`
 * **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown,
   Cooklang, and YAML files in the git workspace, running `rumdl`, `mdfm check --errors-only`, `mdfm fmt --check`
-  (on `docs/**/*.md` and `cook/**/*.cook`), and `yamllint-rs` only on those files to save context tokens.
+  (on `docs/**/*.md` and `cook/**/*.cook`), `cook-docs doctor --only syntax,ignored` (on `cook/**/*.cook`),
+  and `yamllint-rs` only on those files to save context tokens.
 
 #### [git_summary.py](git_summary.py)
 

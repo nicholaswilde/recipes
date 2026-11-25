@@ -14,6 +14,11 @@ that mention it.
 This skill automates the process of identifying all recipe files in `docs/` that use a specific
 ingredient, and updating them with relative hyperlinks pointing to the ingredient's own recipe file.
 
+> **Note (`cook-docs`):** New or re-compiled `.cook` recipes automatically cross-link ingredients
+> from `ingredients/`, `sauces-and-dressings/`, and `breads/` in both ingredient lists and steps
+> (`link_dirs` + `link_in_steps = true` in `.cookdocs.toml`). Use this task to backfill existing
+> `docs/**/*.md` files (including Markdown-only and tabbed recipes) without a full repo re-render.
+
 ## Protocol
 
 1. **Verify the Ingredient Exists in Collection**:

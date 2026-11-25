@@ -21,11 +21,6 @@ function command_exists(){
   command -v "${1}" &> /dev/null
 }
 
-# Check if file exists
-function file_exists(){
-  [ -f "{1}" ]
-}
-
 # printf usage_error if something isn't right.
 function usage_error() {
   show_usage "${1}"
@@ -61,11 +56,6 @@ function get_category(){
   realpath --relative-to="${COOK_PATH}" "$(dirname "${1}")"
 }
 
-function show_error(){
-  printf "Could not get \`%s\`\n" "${1}"
-  exit 1
-}
-
 function get_extension() {
   printf '%s\n' "${1##*.}"
 }
@@ -96,10 +86,6 @@ function get_filename() {
 function get_recipe_path(){
   s=$(readlink -f "${1}")
   printf '%s\n' "${s}"
-}
-
-function get_recipe_filename(){
-  get_filename "${1}"
 }
 
 function get_recipe_name(){
@@ -166,24 +152,16 @@ function do_checks(){
     exit 1
   fi
 
-  if command_exists cook-docs; then
-    printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
-    local abs_recipe
-    abs_recipe=$(get_recipe_path "${1}")
-    if ! (cd "${ROOT_DIR}" && cook-docs doctor --only syntax,ignored "${abs_recipe}"); then
-      printf "Cook validation failed for %s\n" "${1}"
-      exit 1
-    fi
-  elif command_exists cook; then
-    printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
-    local tmp_dir=$(mktemp -d)
-    cp "${1}" "${tmp_dir}/"
-    if ! cook doctor validate --strict -b "${tmp_dir}"; then
-      printf "Cook validation failed for %s\n" "${1}"
-      rm -rf "${tmp_dir}"
-      exit 1
-    fi
-    rm -rf "${tmp_dir}"
+  if ! command_exists cook-docs; then
+    printf "Error: 'cook-docs' is not installed.\n" >&2
+    exit 1
+  fi
+  printf "\033[0;32mINFO: Validating cook file syntax\033[0m\n"
+  local abs_recipe
+  abs_recipe=$(get_recipe_path "${1}")
+  if ! (cd "${ROOT_DIR}" && cook-docs doctor --only syntax,ignored "${abs_recipe}"); then
+    printf "Cook validation failed for %s\n" "${1}"
+    exit 1
   fi
 }
 

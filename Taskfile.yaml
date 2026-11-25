@@ -80,10 +80,6 @@ tasks:
         mdfm set 'tags-={{ (splitList " " .CLI_ARGS) | first }}'
         {{ range $p := (splitList " " .CLI_ARGS) | rest }}{{ shellQuote $p }} {{ end }}
 
-  clean:
-    desc: Clean markdown files from cook dir
-    cmds:
-      - find cook -name "*.md" -delete
   deps:
     desc: Install dependencies
     cmds:
@@ -134,9 +130,9 @@ tasks:
     cmds:
       - shuck check scripts/
   list-ingredients:
-    desc: List all ingredients in all cook recipes and copy to clipboard.
+    desc: List all unique ingredients across all cook recipes
     cmds:
-      - ./scripts/list_ingredients.sh
+      - cook-docs -l error --jsonify | jq -r '.[] | .Ingredients[]? | .Name' | sort -fu
   rumdl:
     desc: Run rumdl check
     cmds:

@@ -15,6 +15,12 @@ This skill automates the process of finding the correct recipe/ingredient file i
 calculating the relative path, and replacing unlinked occurrences of the ingredient name
 in a target recipe with markdown links.
 
+> **Note (`cook-docs`):** Recipes compiled via `cook-docs` automatically cross-link ingredients
+> from `ingredients/`, `sauces-and-dressings/`, and `breads/` in both ingredient lists and step
+> directions (`link_dirs` + `link_in_steps = true` in `.cookdocs.toml`). For `.cook`-backed
+> non-tabbed recipes, you can simply run `cook-docs "<cook/path/to/Recipe.cook>"`. Use this task
+> to backfill Markdown-only or tabbed recipes without recompiling.
+
 ## Protocol
 
 1. **Verify the Ingredient Exists in Collection**:

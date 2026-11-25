@@ -12,9 +12,10 @@
 #
 ################################################################################
 
+import os
+import shutil
 import subprocess
 import sys
-import os
 
 def get_changed_files():
     # Get staged, unstaged, and untracked files
@@ -57,6 +58,7 @@ def main():
         sys.exit(0)
 
     md_files = []
+    cook_files = []
     frontmatter_files = []
     yaml_files = []
     ignored_docs = {
@@ -74,6 +76,7 @@ def main():
             if norm_path.startswith("docs/") and norm_path not in ignored_docs:
                 frontmatter_files.append(path)
         elif path.endswith(".cook") and norm_path.startswith("cook/"):
+            cook_files.append(path)
             frontmatter_files.append(path)
         elif path.endswith((".yaml", ".yml")):
             if not norm_path.startswith(".github/"):
@@ -112,6 +115,23 @@ def main():
         )
         if result.returncode != 0:
             has_errors = True
+
+    # Validate Cooklang syntax and ignored ingredients via cook-docs doctor
+    if cook_files:
+        if shutil.which("cook-docs"):
+            print(
+                f"\nValidating {len(cook_files)} changed Cooklang file(s)"
+                " with cook-docs doctor..."
+            )
+            result = subprocess.run(
+                ["cook-docs", "doctor", "--only", "syntax,ignored"] + cook_files
+            )
+            if result.returncode != 0:
+                has_errors = True
+        else:
+            print(
+                "\nWarning: 'cook-docs' not found; skipping Cooklang validation."
+            )
 
     # Lint YAML files
     if yaml_files:

@@ -54,10 +54,11 @@ Import recipe from URL or GitHub issue.
 
 4. **Validation:**
    - Prefer file-specific spellcheck: `task spellcheck-file FILE="docs/{category}/{recipe-name}.md"`
-   - Validate CookLang syntax and ignored ingredients: `task validate-cook FILE="cook/{category}/{Recipe Name}.cook"` (or run `task doctor -- "cook/{category}/{Recipe Name}.cook"` for companion image and emoji coverage too)
-   - Validate header emojis: `task check-header-emojis` (or `uv run scripts/check_header_emojis.py [--fix]`)
-   - Auto-map missing ingredient/cookware emojis if flagged by `validate-cook`:
-     `uv run scripts/check_recipe_emojis.py --fix "cook/{category}/{Recipe Name}.cook"`
+   - Validate CookLang syntax and ignored ingredients: `task validate-cook FILE="cook/{category}/{Recipe Name}.cook"`
+   - Check companion image and emoji coverage via `cook-docs doctor`:
+     `cook-docs doctor --only images,emojis "cook/{category}/{Recipe Name}.cook"` (or `task doctor -- "cook/{category}/{Recipe Name}.cook"`)
+   - Auto-map missing ingredient/cookware emojis if flagged by `cook-docs doctor --only emojis`:
+     `uv run scripts/check_recipe_emojis.py --fix "cook/{category}/{Recipe Name}.cook"` (then re-run `cook-docs "cook/{category}/{Recipe Name}.cook"` to merge updated emojis; H1 title emojis are populated automatically by `cook-docs` `titleEmoji`)
 
 5. **Commit (If manual):**
 

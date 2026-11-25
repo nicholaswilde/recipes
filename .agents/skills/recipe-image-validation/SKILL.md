@@ -33,6 +33,12 @@ This checks all recipe files for:
 - Nonexistent image files (`HERO_MISSING`)
 - Link-corrupted frontmatter fields (`HERO_CORRUPT`)
 
+To also check `cook/` source recipes missing companion images, run:
+
+```bash
+cook-docs doctor --only images
+```
+
 ---
 
 ### 2. Fix Corrupted or Missing Hero Paths
@@ -82,9 +88,15 @@ For recipes missing properties or body embeds:
 
 For recipes missing an image asset entirely:
 
-1. Propose image generation using the `generate_image` tool with a descriptive prompt.
-2. Save the image in `docs/assets/images/` using the hyphenated recipe slug.
-3. Optimize and convert it using the image optimizer:
+1. Generate an image using the `generate_image` tool with a descriptive prompt (see `generate-hero-image`).
+2. **`.cook`-backed recipes**: Save the image beside the `.cook` file (`cook/<category>/<Recipe Name>.jpg`) and run:
+
+   ```bash
+   cook-docs "cook/<category>/<Recipe Name>.cook"
+   ```
+
+   This converts `.jpg` to `.webp` into `docs/assets/images/` and merges `hero:` + body embed automatically.
+3. **Markdown-only recipes (no `.cook` file)**: Save the image in `docs/assets/images/` using the hyphenated recipe slug and run:
 
    ```bash
    ./scripts/optimize_images.sh

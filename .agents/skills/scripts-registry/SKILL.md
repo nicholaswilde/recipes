@@ -244,7 +244,7 @@ To automatically map and fix missing emojis in `includes/emoji.yaml` using simil
   uv run scripts/check_recipe_emojis.py --fix cook/category/recipe.cook
   ```
 
-* **Under the Hood**: Compares missing terms against existing emoji mappings using keyword-based heuristics (e.g. `cheese` -> `cheese_wedge`, `chili`/`pepper` -> `hot_pepper`, `onion`/`scallion` -> `tea`, `tomato`/`salsa` -> `tomato`, `cream`/`milk`/`butter` -> `glass_of_milk`, cookware containing `pan`/`skillet`/`pot`/`spoon`/`whisk` -> `bowl_with_spoon`), substring matching, word-overlap, and SequenceMatcher similarity. Confident matches are inserted under the matched emoji group, while unmatched terms fallback to generic categories (`takeout_box` for ingredients and `bowl_with_spoon` for cookware). Finally, it runs `task emoji-sort` to maintain ordering.
+* **Under the Hood**: Delegates unmapped emoji detection to `cook-docs doctor --only emojis --json` (keeping exact parity with `cook-docs` rendering) plus gemoji shortcode validation. With `--fix`, maps missing terms using keyword heuristics (e.g. `cheese` -> `cheese_wedge`, `chili`/`pepper` -> `hot_pepper`, `onion`/`scallion` -> `tea`, `tomato`/`salsa` -> `tomato`, `cream`/`milk`/`butter` -> `glass_of_milk`, cookware containing `pan`/`skillet`/`pot`/`spoon`/`whisk` -> `bowl_with_spoon`), word-overlap, and SequenceMatcher similarity, falling back to `takeout_box` / `bowl_with_spoon` and running `task emoji-sort`.
 
 #### Check and Fix Recipe Header Emojis
 

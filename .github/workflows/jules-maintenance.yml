@@ -19,8 +19,11 @@ jobs:
         with:
           jules_api_key: ${{ secrets.JULES_API_KEY }}
           prompt: |
-            1. Optimize images in the repository that are larger than 500KB.
-            2. Resize them to a maximum width of 1920px maintaining aspect ratio.
-            3. If file extensions change (e.g. to .webp), update references in .md files.
+            1. Optimize oversized images in the repository that are larger than 500KB (note: `cook-docs` handles
+               JPEG-to-WebP conversion automatically for `.cook`-backed recipes; focus on resizing oversized
+               assets and optimizing PNGs).
+            2. Resize oversized images to a maximum width of 1920px maintaining aspect ratio.
+            3. If any remaining legacy image extensions change (e.g. to .webp), update references in .md files.
             4. Validate all image links in Markdown files and flag broken ones.
-            5. Generate a Markdown table in the PR description showing "Before" vs "After" file sizes and savings percentages.
+            5. Generate a Markdown table in the PR description showing "Before" vs "After" file sizes and
+               savings percentages.
