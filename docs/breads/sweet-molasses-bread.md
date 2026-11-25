@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-- bread
+  - bread
 source: https://milkandpop.com/outback-bread-recipe-molasses-bread/
-serves: 4
 prep time: 10 minutes
 cook time: 35 minutes
 total time: 165 minutes
 hero: assets/images/sweet-molasses-bread.webp
+servings: 4
 ---
 
 # :bread: Sweet Molasses Bread

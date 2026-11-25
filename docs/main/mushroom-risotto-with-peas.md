@@ -6,9 +6,9 @@ tags:
   - risotto
   - italian
 source: https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
-serves: 6
 total time: 50 minutes
 hero: assets/images/mushroom-risotto-with-peas.webp
+servings: 6
 ---
 
 # :mushroom: Mushroom Risotto with Peas

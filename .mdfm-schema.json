@@ -26,6 +26,21 @@
     "author": {
       "type": "string",
       "minLength": 1
+    },
+    "servings": {
+      "type": ["integer", "number", "string"]
+    },
+    "prep time": {
+      "type": "string",
+      "minLength": 1
+    },
+    "cook time": {
+      "type": "string",
+      "minLength": 1
+    },
+    "total time": {
+      "type": "string",
+      "minLength": 1
     }
   }
 }

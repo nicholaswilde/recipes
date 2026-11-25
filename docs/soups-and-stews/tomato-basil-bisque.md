@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-- soup
-- stew
-- applied-kitchen
+  - soup
+  - stew
+  - applied-kitchen
 source: Applied Kitchen
-serves: 6
 total time: 1.5 hours
 hero: assets/images/tomato-basil-bisque.webp
+servings: 6
 ---
 
 # :tomato: Tomato Basil Bisque

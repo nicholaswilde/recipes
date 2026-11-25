@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-- cookie
-- dessert
+  - cookie
+  - dessert
 hero: assets/images/viennese-whirls.webp
 source: https://www.savingdessert.com/viennese-whirls/#wprm-recipe-container-20040
-serves: 16
 prep time: 20 minutes
 cook time: 12 minutes
 total time: 62 minutes
+servings: 16
 ---
 
 # :cookie: Viennese Whirls

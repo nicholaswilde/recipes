@@ -270,5 +270,21 @@ class TestScrapeToCook(unittest.TestCase):
         self.assertEqual(res_wprm["name"], "WPRM Fallback Recipe")
         self.assertEqual(res_wprm["ingredients"], ["2 tbsp olive oil"])
 
+    def test_compile_cooklang_frontmatter_keys(self):
+        data = {
+            "servings": "6 servings",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "total_time": "30 minutes",
+            "ingredients": ["1 cup water"],
+            "instructions": ["Boil water."],
+        }
+        out = scrape_to_cook.compile_cooklang(data, "https://example.com/r")
+        self.assertIn("servings: 6\n", out)
+        self.assertNotIn("serves:", out)
+        self.assertIn("prep time: 10 minutes\n", out)
+        self.assertIn("cook time: 20 minutes\n", out)
+        self.assertIn("total time: 30 minutes\n", out)
+
 if __name__ == "__main__":
     unittest.main()

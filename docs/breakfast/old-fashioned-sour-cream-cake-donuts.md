@@ -1,15 +1,15 @@
 ---
 comments: true
 tags:
-- breakfast
-- doughnuts
-- lindsey-farr
+  - breakfast
+  - doughnuts
+  - lindsey-farr
 source: https://cheflindseyfarr.com/old-fashioned-sour-cream-cake-donuts
-serves: 13
 prep time: 30 minutes
 cook time: 30 minutes
 total time: 3 hours
 hero: assets/images/old-fashioned-sour-cream-cake-donuts.webp
+servings: 13
 ---
 
 # :doughnut: Old Fashioned Sour Cream Cake Donuts

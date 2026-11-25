@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-- breakfast
+  - breakfast
 source: The Food Lab
 author: J. Kenji López-Alt
-serves: 4
 hero: assets/images/buttery,-oniony,-charred-hash-browns.webp
+servings: 4
 ---
 
 # :potato: Buttery, Oniony, Charred Hash Browns

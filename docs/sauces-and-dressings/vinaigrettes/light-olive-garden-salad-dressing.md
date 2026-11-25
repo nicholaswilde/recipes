@@ -1,15 +1,15 @@
 ---
 comments: true
 tags:
-- dressing
-- salad
-- vegetarian
+  - dressing
+  - salad
+  - vegetarian
 author: Amee's Savory Dish
 source: https://ameessavorydish.com/copycat-olive-garden-salad/
-serves: 12
 prep time: 5 minutes
 total time: 5 minutes
 hero: assets/images/light-olive-garden-salad-dressing.webp
+servings: 12
 ---
 
 # :green_salad: Light Olive Garden Salad Dressing

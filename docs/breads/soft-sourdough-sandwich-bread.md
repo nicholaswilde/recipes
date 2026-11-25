@@ -5,9 +5,9 @@ tags:
   - sourdough
 author: Amy Duska
 source: https://littlespoonfarm.com/soft-sourdough-sandwich-bread-recipe/
-serves: 12
-time: 15 hours
 hero: assets/images/soft-sourdough-sandwich-bread.webp
+total time: 15 hours
+servings: 12
 ---
 
 # :bread: Soft Sourdough Sandwich Bread

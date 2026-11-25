@@ -5,9 +5,9 @@ tags:
   - cake
 author: Nigella Lawson
 source: https://www.nigella.com/recipes/coffee-and-walnut-layer-cake
-serves: 8
 total time: 1 hour
 hero: assets/images/coffee-and-walnut-layer-cake.webp
+servings: 8
 ---
 
 # :cake: Coffee and Walnut Layer Cake

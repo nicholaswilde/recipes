@@ -11,7 +11,7 @@ prep time: 10 minutes
 total time: 12 hours 16 minutes
 source: https://littlespoonfarm.com/sourdough-pancakes-waffles-recipe/
 cook time: 6 minutes
-serves: 4
+servings: 4
 ---
 
 # :waffle: Sourdough Waffles or Pancakes

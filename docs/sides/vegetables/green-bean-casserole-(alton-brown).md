@@ -10,10 +10,10 @@ tags:
   - alton-brown
 hero: assets/images/green-bean-casserole-(alton-brown).webp
 source: https://altonbrown.com/recipes/best-ever-green-bean-casserole/
-serves: 6
 prep time: 25 minutes
 cook time: 45 minutes
 total time: 1 hour 10 minutes
+servings: 6
 ---
 
 # :beans: Green Bean Casserole (Alton Brown)

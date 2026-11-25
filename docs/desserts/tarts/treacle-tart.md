@@ -6,10 +6,10 @@ tags:
   - must-try
 source: https://www.daringgourmet.com/treacle-tart/
 servings: 8
-prep_time: 25 minutes
-cook_time: 40 minutes
-total_time: 1 hour 35 minutes
 hero: assets/images/treacle-tart.webp
+cook time: 40 minutes
+prep time: 25 minutes
+total time: 1 hour 35 minutes
 ---
 
 # :pie: Treacle Tart

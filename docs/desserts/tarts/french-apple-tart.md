@@ -10,9 +10,9 @@ tags:
 hero: assets/images/french-apple-tart.webp
 source: https://www.foodnetwork.com/recipes/ina-garten/french-apple-tart-recipe-1946083
 servings: 6
-prep_time: 20 minutes
-cook_time: 1 hour
-total_time: 2 hours 20 minutes
+cook time: 1 hour
+prep time: 20 minutes
+total time: 2 hours 20 minutes
 ---
 
 # :apple: French Apple Tart

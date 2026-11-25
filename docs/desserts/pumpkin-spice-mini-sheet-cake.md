@@ -9,9 +9,9 @@ tags:
 hero: assets/images/pumpkin-spice-mini-sheet-cake.webp
 source: https://www.thepancakeprincess.com/pumpkin-spice-mini-sheet-cake/
 servings: 9
-prep_time: 15 minutes
-cook_time: 25 minutes
-total_time: 40 minutes
+cook time: 25 minutes
+prep time: 15 minutes
+total time: 40 minutes
 ---
 
 # :cake: Pumpkin Spice Mini Sheet Cake

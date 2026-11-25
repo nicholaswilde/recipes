@@ -1,15 +1,15 @@
 ---
 comments: true
 tags:
-- dessert
-- cake
-- fruitcake
+  - dessert
+  - cake
+  - fruitcake
 source: https://www.recipetineats.com/christmas-cake/
-serves: 20
 prep time: 30 minutes
 cook time: 3 hours 15 minutes
 total time: 4 hours 45 minutes
 hero: assets/images/fruit-cake.webp
+servings: 20
 ---
 
 # :cake: Fruit Cake

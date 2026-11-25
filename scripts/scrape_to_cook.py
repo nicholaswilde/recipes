@@ -674,9 +674,9 @@ def compile_cooklang(recipe_data, source_url):
     if servings:
         m_serv = re.search(r'\d+', str(servings))
         if m_serv:
-            lines.append(f"serves: {int(m_serv.group(0))}")
+            lines.append(f"servings: {int(m_serv.group(0))}")
         else:
-            lines.append(f"serves: {servings}")
+            lines.append(f"servings: {servings}")
         
     prep_time = recipe_data.get("prep_time")
     if prep_time:

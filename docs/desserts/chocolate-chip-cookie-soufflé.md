@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- dessert
+  - dessert
 source: https://www.youtube.com/watch?v=V0ki4Il9Npc
-serves: 4
 cook time: 20 minutes
 total time: 45 minutes
 hero: assets/images/chocolate-chip-cookie-soufflé.webp
+servings: 4
 ---
 
 # :chocolate_bar: Chocolate Chip Cookie Soufflé

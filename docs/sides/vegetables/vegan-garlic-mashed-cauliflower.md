@@ -6,10 +6,10 @@ tags:
   - minimalist-baker
 hero: assets/images/vegan-garlic-mashed-cauliflower.webp
 source: https://minimalistbaker.com/vegan-garlic-mashed-cauliflower/
-serves: 6
 prep time: 10 minutes
 cook time: 20 minutes
 total time: 30 minutes
+servings: 6
 ---
 
 # :garlic: Vegan Garlic Mashed Cauliflower

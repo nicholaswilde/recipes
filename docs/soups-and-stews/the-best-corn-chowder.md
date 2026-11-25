@@ -1,20 +1,20 @@
 ---
 comments: true
 tags:
-- soup
-- stew
-- chowder
-- corn
-- must-try
-- serious-eats
-- kenji-lopez-alt
+  - soup
+  - stew
+  - chowder
+  - corn
+  - must-try
+  - serious-eats
+  - kenji-lopez-alt
 source: The Food Lab
-author: "J. Kenji L\xF3pez-Alt"
-serves: 6
+author: J. Kenji López-Alt
 prep time: 20 minutes
 cook time: 25 minutes
 total time: 45 minutes
 hero: assets/images/the-best-corn-chowder.webp
+servings: 6
 ---
 
 # :corn: The Best Corn Chowder

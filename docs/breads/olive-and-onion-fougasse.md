@@ -7,11 +7,11 @@ tags:
   - french
   - baking
 source: https://www.kingarthurbaking.com/recipes/olive-and-onion-fougasse-recipe
-serves: 1
 prep time: 22 minutes
 cook time: 20 minutes
 total time: 11 hours 12 minutes
 hero: assets/images/olive-and-onion-fougasse.webp
+servings: 1
 ---
 
 # :bread: Olive and Onion Fougasse

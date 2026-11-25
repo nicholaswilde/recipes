@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-- ingredient
+  - ingredient
 source: https://www.daringgourmet.com/how-to-make-golden-syrup/
-serves: 24
 prep time: 5 minutes
 cook time: 1 hour
 total time: 1 hour 5 minutes
 hero: assets/images/golden-syrup.webp
+servings: 24
 ---
 
 # :candy: Golden Syrup

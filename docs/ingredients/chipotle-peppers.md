@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-- ingredient
+  - ingredient
 source: https://keviniscooking.com/how-to-make-chipotle-peppers/
 author: Kevin Westing
-serves: 10
 prep time: 3 hours
 cook time: 10 hours
 hero: assets/images/chipotle-peppers.webp
+servings: 10
 ---
 
 # :hot_pepper: Chipotle Peppers

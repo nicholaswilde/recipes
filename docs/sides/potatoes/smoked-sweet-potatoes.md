@@ -4,9 +4,9 @@ tags:
   - side
 hero: assets/images/smoked-sweet-potatoes.webp
 source: AI
-serves: 4
 cook time: 2.5 hours
 prep time: 5 minutes
+servings: 4
 ---
 
 # :sweet_potato: Smoked Sweet Potatoes

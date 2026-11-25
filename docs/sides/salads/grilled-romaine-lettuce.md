@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-- side
-- salad
+  - side
+  - salad
 source: Secrets to Smoking on the Weber Smokey Mountain Cooker and Other Smokers
 author: Bill Gillespie
-serves: 4
 cook time: 5 minutes
 hero: assets/images/grilled-romaine-lettuce.webp
+servings: 4
 ---
 
 # :leafy_green: Grilled Romaine Lettuce

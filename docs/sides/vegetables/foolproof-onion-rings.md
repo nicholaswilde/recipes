@@ -1,22 +1,22 @@
 ---
 comments: true
 tags:
-- side
-- vegetable
-- appetizer
-- snack
-- onion-rings
-- deep-fried
-- must-try
-- serious-eats
-- kenji-lopez-alt
+  - side
+  - vegetable
+  - appetizer
+  - snack
+  - onion-rings
+  - deep-fried
+  - must-try
+  - serious-eats
+  - kenji-lopez-alt
 hero: assets/images/foolproof-onion-rings.webp
 source: The Food Lab
-author: "J. Kenji L\xF3pez-Alt"
-serves: 4
+author: J. Kenji López-Alt
 prep time: 20 minutes
 cook time: 15 minutes
 total time: 1 hour 35 minutes
+servings: 4
 ---
 
 # :onion: Foolproof Onion Rings

@@ -10,11 +10,11 @@ tags:
   - serious-eats
   - kenji-lopez-alt
 source: https://www.seriouseats.com/best-vegetarian-bean-chile-recipe
-serves: 6
 prep time: 15 minutes
 cook time: 1 hour 50 minutes
 total time: 2 hours 5 minutes
 hero: assets/images/the-best-vegetarian-bean-chili.webp
+servings: 6
 ---
 
 # :beans: The Best Vegetarian Bean Chili
