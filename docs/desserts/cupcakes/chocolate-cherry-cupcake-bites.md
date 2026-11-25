@@ -1,14 +1,12 @@
 ---
 comments: true
 tags:
-- dessert
-- cupcake
-- desserts
-- cupcakes
-- chocolate
-- cherry
-- recipe-box
-- vegetarian
+  - dessert
+  - cupcake
+  - chocolate
+  - cherry
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 48
 prep time: 20 minutes

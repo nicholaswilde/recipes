@@ -1,9 +1,7 @@
 ---
 tags:
-
-  - sides
+  - side
 comments: true
-
 hero: assets/images/the-best-crispy-roast-potatoes-ever-recipe.webp
 ---
 

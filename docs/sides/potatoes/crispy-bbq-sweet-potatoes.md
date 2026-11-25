@@ -5,13 +5,13 @@ prep time: 10 minutes
 cook time: 8 minutes
 total time: 20 minutes
 tags:
-- sides
-- potatoes
-- sweet-potato
-- grilling
-- bbq
-- recipe-box
-- vegetarian
+  - sweet-potato
+  - grilling
+  - bbq
+  - recipe-box
+  - vegetarian
+  - side
+  - potato
 comments: true
 hero: assets/images/crispy-bbq-sweet-potatoes.webp
 ---

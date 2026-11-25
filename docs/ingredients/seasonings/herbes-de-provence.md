@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredients
   - seasoning
+  - ingredient
 hero: assets/images/herbes-de-provence.png
 ---
 

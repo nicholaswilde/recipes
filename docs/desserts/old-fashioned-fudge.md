@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-- dessert
-- desserts
-- chocolate
-- candy
-- fudge
-- recipe-box
-- vegetarian
+  - dessert
+  - chocolate
+  - candy
+  - fudge
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 16
 prep time: 10 minutes

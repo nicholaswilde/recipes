@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - ingredients
   - mustard
-  - condiments
   - Dijon
   - homemade
+  - ingredient
+  - condiment
 hero: assets/images/dijon-mustard.webp
 ---
 

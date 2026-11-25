@@ -1,6 +1,6 @@
 ---
 tags:
-  - sides
+  - side
 comments: true
 hero: assets/images/mexican-rice.webp
 ---

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-- bread
-- breads
-- ranch
-- recipe-box
-- vegetarian
+  - bread
+  - ranch
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 8
 prep time: 5 minutes

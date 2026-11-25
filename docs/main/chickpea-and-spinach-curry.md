@@ -3,11 +3,11 @@ comments: true
 tags:
   - asian
   - curry
-  - chickpeas
   - spinach
   - vegetarian
   - vegan
   - main
+  - chickpea
 hero: assets/images/chickpea-and-spinach-curry.webp
 source: https://chetnamakan.co.uk/chickpea-and-spinach-curry/
 total time: 45 minutes

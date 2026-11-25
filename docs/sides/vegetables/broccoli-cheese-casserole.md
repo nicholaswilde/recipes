@@ -1,14 +1,12 @@
 ---
 comments: true
 tags:
-- side
-- vegetable
-- sides
-- vegetables
-- casserole
-- broccoli
-- recipe-box
-- vegetarian
+  - side
+  - vegetable
+  - casserole
+  - broccoli
+  - recipe-box
+  - vegetarian
 hero: assets/images/broccoli-cheese-casserole.webp
 source: Recipe Box
 servings: 6

@@ -1,14 +1,12 @@
 ---
 comments: true
 tags:
-- side
-- vegetable
-- sides
-- vegetables
-- roasted
-- autumn
-- recipe-box
-- vegetarian
+  - side
+  - vegetable
+  - roasted
+  - autumn
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 6
 prep time: 20 minutes

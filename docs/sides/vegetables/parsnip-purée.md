@@ -1,9 +1,8 @@
 ---
 tags:
-- sides
-- gordon-ramsay
-- puree
-- side
+  - gordon-ramsay
+  - puree
+  - side
 comments: true
 hero: assets/images/parsnip-purée.webp
 ---

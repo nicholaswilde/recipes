@@ -1,14 +1,12 @@
 ---
 comments: true
 tags:
-- side
-- vegetable
-- sides
-- vegetables
-- sweet-potato
-- casserole
-- recipe-box
-- vegetarian
+  - side
+  - vegetable
+  - sweet-potato
+  - casserole
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 12
 prep time: 25 minutes

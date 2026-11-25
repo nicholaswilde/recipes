@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-- beverage
-- beverages
-- cocktail
-- frozen
-- alcoholic
-- recipe-box
-- vegetarian
+  - beverage
+  - cocktail
+  - frozen
+  - alcoholic
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 1
 prep time: 5 minutes

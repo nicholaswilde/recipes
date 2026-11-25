@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-- bread
-- breads
-- quick-bread
-- cranberry
-- spice
-- recipe-box
-- vegetarian
+  - bread
+  - quick-bread
+  - cranberry
+  - spice
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 16
 prep time: 15 minutes

@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-- dessert
-- desserts
-- pudding
-- kids
-- recipe-box
-- vegetarian
+  - dessert
+  - pudding
+  - kids
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 8
 prep time: 15 minutes

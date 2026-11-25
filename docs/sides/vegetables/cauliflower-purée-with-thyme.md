@@ -1,9 +1,7 @@
 ---
 tags:
-
-  - sides
+  - side
 comments: true
-
 hero: assets/images/cauliflower-purée-with-thyme.webp
 ---
 

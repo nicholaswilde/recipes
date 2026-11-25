@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-- dessert
-- cake
-- desserts
-- caramel
-- layer-cake
-- recipe-box
-- vegetarian
+  - dessert
+  - cake
+  - caramel
+  - layer-cake
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 16
 prep time: 25 minutes

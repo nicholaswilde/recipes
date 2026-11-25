@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-- lunch
-- lunches
-- spinach
-- cheese
-- recipe-box
-- vegetarian
+  - lunch
+  - spinach
+  - cheese
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - mexican
-  - tacos
   - recipe-box
+  - taco
 hero: assets/images/potato-tacos.webp
 ---
 

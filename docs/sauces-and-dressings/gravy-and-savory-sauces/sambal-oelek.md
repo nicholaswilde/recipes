@@ -4,7 +4,7 @@ tags:
   - sauce
   - vegetarian
   - vegan
-  - condiments
+  - condiment
 hero: assets/images/sambal-oelek.webp
 ---
 

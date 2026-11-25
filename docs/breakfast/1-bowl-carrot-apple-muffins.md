@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - muffins
+  - muffin
 hero: assets/images/1-bowl-carrot-apple-muffins.webp
 ---
 

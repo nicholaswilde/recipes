@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - ingredients
   - soy sauce
   - substitute
   - soy-free
   - gluten-free
+  - ingredient
 hero: assets/images/mock-soy-sauce.webp
 ---
 

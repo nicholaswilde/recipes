@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - desserts
   - cake
   - pound-cake
   - key-lime
+  - dessert
 hero: assets/images/key-lime-pound-cake.webp
 ---
 

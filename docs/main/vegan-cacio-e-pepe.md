@@ -4,8 +4,8 @@ tags:
   - main
   - vegan
   - pasta
-  - mushrooms
   - teri-ann carty
+  - mushroom
 hero: assets/images/vegan-cacio-e-pepe.webp
 ---
 

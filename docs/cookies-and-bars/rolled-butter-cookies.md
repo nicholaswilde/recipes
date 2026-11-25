@@ -1,14 +1,13 @@
 ---
 comments: true
 tags:
-- cookie
-- bar
-- dessert
-- cookies-and-bars
-- cookies
-- butter-cookies
-- recipe-box
-- vegetarian
+  - cookie
+  - bar
+  - dessert
+  - cookies-and-bars
+  - butter-cookies
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 42
 prep time: 20 minutes

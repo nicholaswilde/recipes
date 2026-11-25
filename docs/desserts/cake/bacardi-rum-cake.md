@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-- dessert
-- cake
-- desserts
-- bundt-cake
-- rum
-- recipe-box
-- vegetarian
+  - dessert
+  - cake
+  - bundt-cake
+  - rum
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

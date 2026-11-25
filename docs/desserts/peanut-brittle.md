@@ -1,9 +1,7 @@
 ---
 tags:
-
-  - desserts
+  - dessert
 comments: true
-
 hero: assets/images/peanut-brittle.webp
 ---
 

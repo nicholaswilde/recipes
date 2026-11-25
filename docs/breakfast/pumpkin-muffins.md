@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
   - breakfast
-  - muffins
+  - muffin
 hero: assets/images/pumpkin-muffins.webp
 ---
 

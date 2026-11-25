@@ -1,9 +1,7 @@
 ---
 tags:
-
-  - sides
+  - side
 comments: true
-
 hero: assets/images/crispy-herbes-de-provence-potatoes.png
 ---
 

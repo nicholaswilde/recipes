@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - meringues
   - pistachios
   - ina-garten
   - gluten-free
+  - meringue
 hero: assets/images/salted-pistachio-meringues.png
 ---
 

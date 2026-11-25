@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- breakfast
-- muffins
-- copycat
-- spice
-- recipe-box
-- vegetarian
+  - breakfast
+  - copycat
+  - spice
+  - recipe-box
+  - vegetarian
+  - muffin
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

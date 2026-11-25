@@ -6,8 +6,8 @@ tags:
   - vegan
   - gluten-free
   - dairy-free
-  - mushrooms
   - weeknight
+  - mushroom
 hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 ---
 

@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-- bread
-- breads
-- garlic-bread
-- cheese
-- recipe-box
-- vegetarian
+  - bread
+  - garlic-bread
+  - cheese
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 8
 prep time: 10 minutes

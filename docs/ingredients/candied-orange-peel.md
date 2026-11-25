@@ -1,9 +1,7 @@
 ---
 tags:
-
-  - ingredients
+  - ingredient
 comments: true
-
 hero: assets/images/candied-orange-peel.webp
 ---
 
