@@ -112,10 +112,12 @@ tasks:
       - task: lint:frontmatter
 
   lint:frontmatter:
-    desc: Validate docs/ and cook/ frontmatter against JSON Schemas
+    desc: Validate and format-check docs/ and cook/ frontmatter
     cmds:
       - mdfm check docs/
       - mdfm --ext cook check cook/
+      - mdfm fmt --check --files-only docs/
+      - mdfm --ext cook fmt --check --files-only cook/
 
   lint-changed:
     desc: Lint only modified/changed files (saves tokens)

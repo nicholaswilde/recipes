@@ -44,3 +44,7 @@ jobs:
         run: mdfm --output plain check --errors-only docs/
       - name: Validate cook frontmatter
         run: mdfm --output plain --ext cook check --errors-only cook/
+      - name: Check docs frontmatter formatting
+        run: mdfm fmt --check --files-only docs/
+      - name: Check cook frontmatter formatting
+        run: mdfm --ext cook fmt --check --files-only cook/
