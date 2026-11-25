@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - bigger-bolder-baking
+  - ingredient
 hero: assets/images/evaporated-milk.png
 ---
 

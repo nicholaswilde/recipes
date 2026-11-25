@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cake
   - dessert
   - tante-myrna-seccia

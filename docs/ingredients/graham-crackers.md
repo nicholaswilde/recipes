@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cracker
   - alton-brown
+  - cracker
   - snack
 hero: assets/images/graham-crackers.webp
 ---

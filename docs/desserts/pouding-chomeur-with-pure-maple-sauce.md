@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
 hero: assets/images/pouding-chomeur-with-pure-maple-sauce.webp
 ---

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - ingredient
   - joy-of-cooking
   - pastry-dough
-  - ingredient
 hero: assets/images/deluxe-butter-pastry.webp
 ---
 

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - french
   - dessert
-  - tart
+  - french
   - recipe-box
+  - tart
 hero: assets/images/french-fruit-tart.webp
 ---
 

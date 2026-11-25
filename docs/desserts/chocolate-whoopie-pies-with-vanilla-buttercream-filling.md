@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - pie
 hero: assets/images/chocolate-whoopie-pies-with-vanilla-buttercream-filling.webp

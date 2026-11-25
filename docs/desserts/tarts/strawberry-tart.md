@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - tart
   - dominique-ansel
+  - tart
 hero: assets/images/strawberry-tart.webp
 ---
 

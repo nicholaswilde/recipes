@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - tart
 hero: assets/images/chocolate-tart.webp

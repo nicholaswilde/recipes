@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - prue-leith
 hero: assets/images/millefeuille.webp

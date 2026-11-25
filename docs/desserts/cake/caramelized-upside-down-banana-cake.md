@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - trader-joes
 hero: assets/images/caramelized-upside-down-banana-cake.webp
 ---

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - the-gracias-madre-cookbook
 hero: assets/images/almond-cotija.webp

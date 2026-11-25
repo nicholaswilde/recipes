@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - cooks-illustrated
+  - ingredient
 hero: assets/images/peanut-butter.webp
 ---
 

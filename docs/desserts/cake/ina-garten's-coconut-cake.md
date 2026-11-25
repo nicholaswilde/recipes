@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - ina-garten
   - cake
   - dessert
+  - ina-garten
 hero: assets/images/ina-garten's-coconut-cake.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - dominique-ansel
   - ingredient
   - syrup
-  - dominique-ansel
 hero: assets/images/simple-syrup.webp
 ---
 

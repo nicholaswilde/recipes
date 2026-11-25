@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - frosting
   - ingredient
 hero: assets/images/sour-cream-topping.webp

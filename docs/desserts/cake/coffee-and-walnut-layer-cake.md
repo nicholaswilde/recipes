@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
 author: Nigella Lawson
 source: https://www.nigella.com/recipes/coffee-and-walnut-layer-cake
 total time: 1 hour

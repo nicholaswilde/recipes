@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
+  - dessert
   - pie
   - tart
-  - dessert
-  - applied-kitchen
 hero: assets/images/spring-fruit-tart-pie.png
 ---
 

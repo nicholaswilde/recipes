@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
   - ingredient
+  - pastry-dough
 hero: assets/images/filo.webp
 ---
 

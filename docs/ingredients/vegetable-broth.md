@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - joy-of-cooking
   - ingredient
+  - joy-of-cooking
 hero: assets/images/vegetable-broth.webp
 ---
 

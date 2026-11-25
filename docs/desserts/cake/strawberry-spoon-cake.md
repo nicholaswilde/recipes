@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
 hero: assets/images/strawberry-spoon-cake.webp
 ---
 

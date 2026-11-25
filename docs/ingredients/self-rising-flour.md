@@ -2,10 +2,10 @@
 comments: true
 tags:
   - baking
-  - staples
-  - homemade
   - flour
+  - homemade
   - ingredient
+  - staples
 hero: assets/images/self-rising-flour.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - bake-off
   - cooks-illustrated
+  - dessert
 hero: assets/images/cooks-illustrated-lemon-bars.webp
 ---
 

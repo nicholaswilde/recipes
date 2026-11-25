@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
 hero: assets/images/spreadable-butter.webp
 ---

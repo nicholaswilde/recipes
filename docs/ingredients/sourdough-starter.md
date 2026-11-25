@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cooks-illustrated
   - ingredient
   - sourdough
-  - cooks-illustrated
 hero: assets/images/sourdough-starter.webp
 ---
 

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - pie
   - dessert
-  - magnolia
   - favorite
+  - magnolia
+  - pie
 hero: assets/images/lemon-pie.webp
 ---
 

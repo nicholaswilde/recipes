@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cake
-  - dominique-ansel
   - dessert
+  - dominique-ansel
 hero: assets/images/the-perfect-chocolate-cake.webp
 ---
 

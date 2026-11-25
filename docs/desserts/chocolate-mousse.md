@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - jean-pierre
   - mousse

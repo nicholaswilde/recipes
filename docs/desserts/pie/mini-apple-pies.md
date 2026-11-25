@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - pie
 hero: assets/images/mini-apple-pies.webp

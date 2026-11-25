@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - tofu
   - ingredient
   - minimalist-baker
+  - tofu
 hero: assets/images/crispy-baked-tofu-with-italian-herbs.webp
 ---
 

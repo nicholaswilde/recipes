@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - must-try
 hero: assets/images/butter-cake.webp
 ---

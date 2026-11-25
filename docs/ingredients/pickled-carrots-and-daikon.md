@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - vietnamese
 hero: assets/images/pickled-carrots-and-daikon.png

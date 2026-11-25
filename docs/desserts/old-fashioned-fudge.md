@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - dessert
-  - chocolate
   - candy
+  - chocolate
+  - dessert
   - fudge
   - recipe-box
   - vegetarian

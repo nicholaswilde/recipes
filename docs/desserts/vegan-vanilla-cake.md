@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - bake-off
+  - dessert
 hero: assets/images/vegan-vanilla-cake.webp
 ---
 

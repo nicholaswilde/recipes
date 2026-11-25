@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cake
   - bake-off
+  - cake
+  - dessert
   - must-try
 hero: assets/images/guinness-chocolate-cake.webp
 ---

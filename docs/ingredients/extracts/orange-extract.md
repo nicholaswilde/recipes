@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - extract
   - ingredient
 hero: assets/images/orange-extract.webp

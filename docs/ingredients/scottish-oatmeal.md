@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - scottish
 hero: assets/images/scottish-oatmeal.webp

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cake
   - dessert
 hero: assets/images/cinnamon-chocolate-cake.webp

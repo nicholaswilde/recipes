@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
   - chez-panisse
+  - dessert
   - favorite
 hero: assets/images/chez-panisse-almond-torte.webp
 ---

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - caramel
-  - ingredient
   - cupcake-jemma
+  - ingredient
 hero: assets/images/wet-caramel.webp
 ---
 

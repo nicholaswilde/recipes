@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - frosting
+  - ingredient
 hero: assets/images/classic-vanilla-buttercream-frosting.webp
 ---
 

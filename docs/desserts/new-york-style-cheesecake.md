@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cheesecake
+  - dessert
   - joy-of-cooking
 hero: assets/images/new-york-style-cheesecake.webp
 ---

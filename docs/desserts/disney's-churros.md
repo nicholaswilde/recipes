@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - dessert
   - disney
   - mexican
-  - dessert
 hero: assets/images/disney's-churros.webp
 ---
 

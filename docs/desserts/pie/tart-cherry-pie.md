@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pie
   - dessert
+  - pie
 hero: assets/images/tart-cherry-pie.webp
 ---
 

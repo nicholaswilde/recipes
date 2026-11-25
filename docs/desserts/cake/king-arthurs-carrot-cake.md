@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
-  - cake
   - bake-off
+  - cake
+  - dessert
   - king-arthur
 hero: assets/images/king-arthurs-carrot-cake.webp
 ---

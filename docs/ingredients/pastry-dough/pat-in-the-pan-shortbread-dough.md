@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
   - ingredient
   - joy-of-cooking
+  - pastry-dough
 hero: assets/images/pat-in-the-pan-shortbread-dough.webp
 ---
 

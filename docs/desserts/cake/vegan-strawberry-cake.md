@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - vegan
 hero: assets/images/vegan-strawberry-cake.webp
 ---

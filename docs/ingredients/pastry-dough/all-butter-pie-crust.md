@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - pastry-dough
-  - ingredient
   - americas-test-kitchen
+  - ingredient
+  - pastry-dough
 hero: assets/images/all-butter-pie-crust.webp
 ---
 

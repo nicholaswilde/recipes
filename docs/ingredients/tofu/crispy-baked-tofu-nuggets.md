@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - tofu
 hero: assets/images/crispy-baked-tofu-nuggets.webp

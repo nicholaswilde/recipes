@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cake
   - dessert
   - king-arthur

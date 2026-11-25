@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mexican
   - ingredient
+  - mexican
 hero: assets/images/fajita-veggies.webp
 ---
 

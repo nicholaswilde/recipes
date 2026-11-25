@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - dominique-ansel
+  - ingredient
   - jam
 hero: assets/images/quick-strawberry-jam.png
 ---

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cooks-illustrated
+  - dessert
 hero: assets/images/choco-taco.webp
 ---
 

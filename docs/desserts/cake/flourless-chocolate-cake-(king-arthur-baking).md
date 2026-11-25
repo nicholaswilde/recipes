@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - must-try
 hero: assets/images/flourless-chocolate-cake-(king-arthur-baking).webp
 ---

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - forks-over-knives
 hero: assets/images/vanilla-bean-whip.webp

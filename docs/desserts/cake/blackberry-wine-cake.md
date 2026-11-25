@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cake
-  - bundt-cake
   - blackberry
-  - wine
+  - bundt-cake
+  - cake
+  - dessert
   - recipe-box
   - vegetarian
+  - wine
 source: Recipe Box
 servings: 12
 prep time: 15 minutes

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - italian
   - dessert
   - honey
+  - italian
   - struffoli
 hero: assets/images/struffoli.webp
 ---

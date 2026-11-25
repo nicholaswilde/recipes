@@ -2,9 +2,9 @@
 comments: true
 tags:
   - baking
-  - staples
   - homemade
   - ingredient
+  - staples
 hero: assets/images/baking-powder.webp
 ---
 

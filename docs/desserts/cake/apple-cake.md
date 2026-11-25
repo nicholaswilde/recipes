@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cake
   - bake-off
+  - cake
+  - dessert
   - sallys-baking-addiction
 hero: assets/images/apple-cake.webp
 ---

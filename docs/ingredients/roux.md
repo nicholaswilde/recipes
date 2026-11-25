@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - joy-of-cooking
 hero: assets/images/roux.png

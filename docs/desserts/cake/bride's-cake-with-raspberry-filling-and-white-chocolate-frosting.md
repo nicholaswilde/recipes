@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - the-cake-mix-doctor
 hero: assets/images/bride's-cake-with-raspberry-filling-and-white-chocolate-frosting.webp
 ---

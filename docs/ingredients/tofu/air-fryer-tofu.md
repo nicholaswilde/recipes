@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - tofu
 hero: assets/images/air-fryer-tofu.webp

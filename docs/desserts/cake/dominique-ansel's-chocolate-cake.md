@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - dominique-ansel
 hero: assets/images/dominique-ansel's-chocolate-cake.png
 ---

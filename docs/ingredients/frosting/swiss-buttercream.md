@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - frosting
-  - ingredient
   - buttercream
   - cupcake-jemma
+  - frosting
+  - ingredient
 hero: assets/images/swiss-buttercream.webp
 ---
 

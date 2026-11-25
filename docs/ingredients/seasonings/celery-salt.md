@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - salt
 hero: assets/images/celery-salt.webp

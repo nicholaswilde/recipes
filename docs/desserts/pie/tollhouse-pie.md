@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pie
   - dessert
+  - pie
   - recipe-box
 hero: assets/images/tollhouse-pie.webp
 ---

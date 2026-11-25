@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - glaze
-  - joy-of-cooking
   - ingredient
+  - joy-of-cooking
 hero: assets/images/milk-glaze.webp
 ---
 

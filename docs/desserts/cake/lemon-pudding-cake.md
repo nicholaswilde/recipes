@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - lemon
   - pudding
 hero: assets/images/lemon-pudding-cake.webp

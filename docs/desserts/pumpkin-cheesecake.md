@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cheesecake
-  - joy-of-cooking
+  - dessert
   - favorite
+  - joy-of-cooking
 hero: assets/images/pumpkin-cheesecake.webp
 ---
 

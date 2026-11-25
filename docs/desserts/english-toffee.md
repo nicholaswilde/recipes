@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - toffee
   - dessert
   - joy-of-cooking
+  - toffee
 hero: assets/images/english-toffee.webp
 ---
 

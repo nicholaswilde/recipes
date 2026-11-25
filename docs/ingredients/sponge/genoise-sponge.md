@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - sponge
 hero: assets/images/genoise-sponge.webp

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - anna-olson
+  - dessert
 hero: assets/images/bread-pudding.webp
 ---
 

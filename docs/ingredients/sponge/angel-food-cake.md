@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - ingredient
-  - sponge
   - king-arthur
+  - sponge
 hero: assets/images/angel-food-cake.webp
 ---
 

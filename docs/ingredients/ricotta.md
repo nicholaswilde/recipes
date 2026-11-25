@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - ingredient
-  - ina-garten
   - cheese
+  - ina-garten
+  - ingredient
 hero: assets/images/ricotta.webp
 ---
 

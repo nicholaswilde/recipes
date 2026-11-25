@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
 hero: assets/images/classic-pineapple-upside-down-cake.webp
 ---
 

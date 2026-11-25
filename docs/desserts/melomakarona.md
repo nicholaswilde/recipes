@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - greek
-  - dessert
   - cookie
+  - dessert
+  - greek
   - recipe-box
 hero: assets/images/melomakarona.webp
 ---

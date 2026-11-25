@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - tofu
   - ingredient
+  - tofu
 hero: assets/images/baked-sriracha-tofu.webp
 ---
 

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cupcake
+  - dessert
 hero: assets/images/white-chocolate-strawberry-cupcakes.webp
 ---
 

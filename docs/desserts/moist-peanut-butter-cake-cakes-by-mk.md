@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - bake-off
+  - dessert
 hero: assets/images/moist-peanut-butter-cake-cakes-by-mk.webp
 ---
 

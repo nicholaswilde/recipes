@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cookie
+  - dessert
 hero: assets/images/brandy-snaps.webp
 ---
 

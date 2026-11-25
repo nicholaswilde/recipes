@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - joy-of-cooking
   - glaze
   - ingredient
+  - joy-of-cooking
 hero: assets/images/lemon-glaze.webp
 ---
 

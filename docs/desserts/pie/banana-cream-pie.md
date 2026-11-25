@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - pie
   - martha-stewart
+  - pie
 hero: assets/images/banana-cream-pie.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - vegan
 hero: assets/images/aquafaba-whipped-cream.webp

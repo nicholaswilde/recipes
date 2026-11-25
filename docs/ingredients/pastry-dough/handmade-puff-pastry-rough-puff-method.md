@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - pastry-dough
   - ingredient
+  - pastry-dough
 hero: assets/images/handmade-puff-pastry-rough-puff-method.webp
 ---
 

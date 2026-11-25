@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
   - ingredient
+  - pastry-dough
   - paul-hollywood
 hero: assets/images/puff-pastry.webp
 ---

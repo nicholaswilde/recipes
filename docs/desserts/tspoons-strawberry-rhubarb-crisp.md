@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - tspoons
 hero: assets/images/tspoons-strawberry-rhubarb-crisp.webp

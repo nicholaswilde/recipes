@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - jean-pierre
 hero: assets/images/breadcrumbs.webp

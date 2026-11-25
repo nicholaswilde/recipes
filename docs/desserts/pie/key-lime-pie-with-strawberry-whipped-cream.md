@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - trader-joes
   - pie
+  - trader-joes
 hero: assets/images/key-lime-pie-with-strawberry-whipped-cream.png
 ---
 

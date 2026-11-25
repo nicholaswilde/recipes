@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - cooks-illustrated
+  - ingredient
 hero: assets/images/ginger-miso-basting-butter.webp
 ---
 

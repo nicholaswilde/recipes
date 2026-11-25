@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - frosting
+  - ingredient
   - vegan
 hero: assets/images/vegan-strawberry-frosting.webp
 ---

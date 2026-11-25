@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
-  - ingredient
   - claire-saffitz
   - dessert-person
+  - ingredient
+  - pastry-dough
 hero: assets/images/flaky-olive-oil-dough.webp
 ---
 

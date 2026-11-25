@@ -2,8 +2,8 @@
 comments: true
 tags:
   - dessert
-  - tart
   - must-try
+  - tart
 source: https://www.daringgourmet.com/treacle-tart/
 servings: 8
 hero: assets/images/treacle-tart.webp

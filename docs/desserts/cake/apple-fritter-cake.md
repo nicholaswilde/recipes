@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - king-arthur
 hero: assets/images/apple-fritter-cake.webp
 ---

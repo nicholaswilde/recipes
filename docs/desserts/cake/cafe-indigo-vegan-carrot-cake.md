@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
-  - vegan
   - carrot-cake
+  - dessert
+  - vegan
 hero: assets/images/cafe-indigo-vegan-carrot-cake.webp
 ---
 

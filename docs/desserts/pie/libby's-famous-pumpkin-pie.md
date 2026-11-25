@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - pie
   - holiday
+  - pie
 hero: assets/images/libby's-famous-pumpkin-pie.webp
 ---
 

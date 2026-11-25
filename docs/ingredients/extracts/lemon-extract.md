@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - extract
+  - ingredient
 hero: assets/images/lemon-extract.webp
 ---
 

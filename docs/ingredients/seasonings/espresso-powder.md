@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - seasoning
   - ingredient
+  - seasoning
 hero: assets/images/espresso-powder.webp
 ---
 

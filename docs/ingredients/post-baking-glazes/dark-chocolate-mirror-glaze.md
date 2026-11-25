@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - dominique-ansel
   - glaze
   - ingredient
-  - dominique-ansel
 hero: assets/images/dark-chocolate-mirror-glaze.webp
 ---
 

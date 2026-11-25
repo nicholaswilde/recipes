@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - ingredient
-  - indonesian
   - indo-dutch
+  - indonesian
+  - ingredient
 hero: assets/images/vegetarian-terasi.webp
 ---
 

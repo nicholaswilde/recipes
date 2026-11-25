@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-- dessert
-- indian
-- vegetarian
+  - dessert
+  - indian
+  - vegetarian
 source: https://www.indianhealthyrecipes.com/gulab-jamun-recipe-using-milk-powder/
 servings: 16
 prep time: 10 minutes

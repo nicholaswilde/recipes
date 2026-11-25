@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
 hero: assets/images/rice-krispies.webp
 ---

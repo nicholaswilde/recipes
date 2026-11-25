@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - ina-garten
+  - ingredient
 hero: assets/images/lemon-curd.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - italian
 hero: assets/images/cannoli.png

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cooks-illustrated
   - ingredient
   - mexican
-  - cooks-illustrated
 hero: assets/images/quick-mexican-style-chorizo.webp
 ---
 

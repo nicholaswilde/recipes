@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - american
+  - ingredient
   - paste
 hero: assets/images/tomato-paste.png
 ---

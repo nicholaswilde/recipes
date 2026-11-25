@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - dessert
-  - tart
   - cranberry
+  - dessert
   - dorie greenspan
   - holiday
+  - tart
 hero: assets/images/mini-cranberry-tarts.webp
 ---
 

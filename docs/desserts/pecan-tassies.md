@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - dessert
-  - nut
   - cookie
-  - southern-living
+  - dessert
   - holiday
+  - nut
+  - southern-living
 hero: assets/images/pecan-tassies.webp
 ---
 

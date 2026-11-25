@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cake
   - biscoff
-  - layer-cake
+  - cake
   - cake-by-courtney
+  - dessert
+  - layer-cake
   - vegetarian
 hero: assets/images/biscoff-cake.webp
 ---

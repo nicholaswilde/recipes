@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - pastry-dough
 hero: assets/images/danish-pastry.png

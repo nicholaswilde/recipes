@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - frosting
   - ingredient
 hero: assets/images/poured-fondant-icing.webp

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - dominique-ansel
   - ingredient
   - puree
-  - dominique-ansel
 hero: assets/images/strawberry-purée.webp
 ---
 

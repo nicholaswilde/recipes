@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - james-beard
 hero: assets/images/whole-orange-almond-cake.webp
 ---

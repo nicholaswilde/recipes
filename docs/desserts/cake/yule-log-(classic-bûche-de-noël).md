@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - king-arthur
 hero: assets/images/yule-log-(classic-bûche-de-noël).webp
 ---

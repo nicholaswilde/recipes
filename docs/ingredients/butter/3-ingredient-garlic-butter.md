@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - butter
   - ingredient
 hero: assets/images/3-ingredient-garlic-butter.webp

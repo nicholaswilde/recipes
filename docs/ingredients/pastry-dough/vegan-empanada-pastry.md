@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
   - ingredient
+  - pastry-dough
   - the-gracias-madre-cookbook
 hero: assets/images/vegan-empanada-pastry.webp
 ---

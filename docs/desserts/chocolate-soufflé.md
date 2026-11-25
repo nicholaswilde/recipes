@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - french
-  - dessert
-  - joy-of-cooking
   - custard
+  - dessert
+  - french
+  - joy-of-cooking
 hero: assets/images/chocolate-soufflé.webp
 ---
 

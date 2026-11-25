@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - dessert
-  - tart
   - apple
+  - dessert
   - french
   - ina-garten
   - must-try
+  - tart
 hero: assets/images/french-apple-tart.webp
 source: https://www.foodnetwork.com/recipes/ina-garten/french-apple-tart-recipe-1946083
 servings: 6

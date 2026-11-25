@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
 hero: assets/images/grandma-kleins-chocolate-caramels.webp
 ---

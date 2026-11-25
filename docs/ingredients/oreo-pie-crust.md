@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - crust
+  - ingredient
 hero: assets/images/oreo-pie-crust.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - joy-of-cooking
   - whipped-cream

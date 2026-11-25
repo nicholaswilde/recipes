@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - cake
   - dessert
-  - trader-joes
   - recipe-box
+  - trader-joes
 hero: assets/images/pineapple-upside-down-cake.png
 ---
 

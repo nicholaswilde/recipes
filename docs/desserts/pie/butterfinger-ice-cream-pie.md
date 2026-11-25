@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - pie
   - grandma-beatrice-wilde
+  - pie
 hero: assets/images/butterfinger-ice-cream-pie.webp
 ---
 

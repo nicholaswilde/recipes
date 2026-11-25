@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - king-arthur
 hero: assets/images/cinnamon-crisp-coffee-cake.webp
 ---

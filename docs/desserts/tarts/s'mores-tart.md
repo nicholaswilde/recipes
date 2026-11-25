@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - claire-saffitz
   - dessert
   - tart
-  - claire-saffitz
 hero: assets/images/s'mores-tart.webp
 ---
 

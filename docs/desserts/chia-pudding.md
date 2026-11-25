@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - applied-kitchen
+  - dessert
 hero: assets/images/chia-pudding.png
 ---
 

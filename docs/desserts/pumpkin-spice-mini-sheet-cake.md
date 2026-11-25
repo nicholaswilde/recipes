@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
-  - pumpkin
   - copycat
+  - dessert
   - must-try
+  - pumpkin
 hero: assets/images/pumpkin-spice-mini-sheet-cake.webp
 source: https://www.thepancakeprincess.com/pumpkin-spice-mini-sheet-cake/
 servings: 9

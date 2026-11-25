@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - gateau
 hero: assets/images/dinner-party-yogurt-cake.webp
 ---

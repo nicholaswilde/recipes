@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ina-garten
   - dessert
+  - ina-garten
 hero: assets/images/ina-garten's-apple-crisp.webp
 ---
 

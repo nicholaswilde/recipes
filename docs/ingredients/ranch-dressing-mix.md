@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mix
   - ingredient
+  - mix
 hero: assets/images/ranch-dressing-mix.webp
 ---
 

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
 hero: assets/images/beccherie-tiramisù.webp
 ---
 

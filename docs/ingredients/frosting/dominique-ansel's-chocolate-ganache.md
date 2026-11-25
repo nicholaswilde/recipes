@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - dominique-ansel
+  - ingredient
 hero: assets/images/dominique-ansel's-chocolate-ganache.webp
 ---
 

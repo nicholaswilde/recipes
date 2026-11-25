@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cooks-illustrated
   - copycat
+  - dessert
 hero: assets/images/peanut-butter-cups.webp
 ---
 

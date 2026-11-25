@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - pie
   - joy-of-cooking
+  - pie
 hero: assets/images/chess-pie.webp
 ---
 

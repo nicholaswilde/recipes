@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - curry paste
   - Thai
-  - spicy
+  - curry paste
   - ingredient
+  - spicy
 hero: assets/images/thai-red-curry-paste.webp
 ---
 

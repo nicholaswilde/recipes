@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - mexican
 hero: assets/images/nixtamal-nicoyan-corn-tortillas.webp

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - preppy-kitchen
 hero: assets/images/hot-milk-cake.webp
 ---

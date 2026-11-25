@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - southern
+  - desperation pie
   - dessert
   - pie
-  - desperation pie
+  - southern
 hero: assets/images/old-fashioned-vinegar-pie.webp
 ---
 

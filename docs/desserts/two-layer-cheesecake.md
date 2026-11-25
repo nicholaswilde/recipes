@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cheesecake
+  - dessert
   - maynards-bakery
 hero: assets/images/two-layer-cheesecake.webp
 ---

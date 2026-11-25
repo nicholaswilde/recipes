@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - slow-cooker
   - recipe-box
+  - slow-cooker
 hero: assets/images/slow-cooker-apple-crisp.webp
 ---
 

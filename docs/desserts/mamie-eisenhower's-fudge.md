@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - fudge
-  - dessert
   - bar
+  - dessert
+  - fudge
 hero: assets/images/mamie-eisenhower's-fudge.png
 ---
 

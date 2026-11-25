@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - french
 hero: assets/images/gâteau-basque.webp
 ---

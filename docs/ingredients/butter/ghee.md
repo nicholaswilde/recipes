@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - butter
   - ingredient
   - jean-pierre

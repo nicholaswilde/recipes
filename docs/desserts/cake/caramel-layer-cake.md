@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
   - caramel
+  - dessert
   - layer-cake
   - recipe-box
   - vegetarian

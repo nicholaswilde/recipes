@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - ingredient
-  - pastry-dough
   - joy-of-cooking
+  - pastry-dough
 hero: assets/images/basic-pastry.webp
 ---
 

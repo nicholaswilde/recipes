@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - frosting
   - ingredient
-  - peppermint
   - magnolia
+  - peppermint
 hero: assets/images/peppermint-buttercream-frosting.webp
 ---
 

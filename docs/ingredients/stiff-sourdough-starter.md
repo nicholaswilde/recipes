@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - sourdough
 hero: assets/images/stiff-sourdough-starter.webp

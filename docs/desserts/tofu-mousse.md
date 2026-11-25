@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - vegan
   - mousse
+  - vegan
 hero: assets/images/tofu-mousse.webp
 ---
 

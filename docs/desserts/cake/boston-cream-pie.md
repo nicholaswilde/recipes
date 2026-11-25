@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
 hero: assets/images/boston-cream-pie.webp
 ---
 

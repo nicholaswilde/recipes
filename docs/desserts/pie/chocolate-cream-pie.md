@@ -2,8 +2,8 @@
 comments: true
 tags:
   - chocolate
-  - pie
   - dessert
+  - pie
 hero: assets/images/chocolate-cream-pie.webp
 ---
 

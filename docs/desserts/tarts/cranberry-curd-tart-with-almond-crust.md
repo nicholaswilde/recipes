@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - tart
   - dessert
+  - tart
 hero: assets/images/cranberry-curd-tart-with-almond-crust.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
   - ingredient
   - king-arthur
+  - pastry-dough
 hero: assets/images/pâte-à-choux.webp
 ---
 

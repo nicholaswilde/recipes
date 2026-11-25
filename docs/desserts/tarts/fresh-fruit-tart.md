@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
+  - bake-off
   - dessert
-  - tart
+  - food network
   - fruit
   - joanne chang
-  - food network
+  - tart
   - the pancake princess
-  - bake-off
 hero: assets/images/fresh-fruit-tart.webp
 ---
 

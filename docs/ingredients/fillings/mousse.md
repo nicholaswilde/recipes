@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - filling
   - ingredient
 hero: assets/images/mousse.webp

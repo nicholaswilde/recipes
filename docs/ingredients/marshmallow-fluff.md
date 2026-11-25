@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - king-arthur
 hero: assets/images/marshmallow-fluff.webp

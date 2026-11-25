@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cooks-illustrated
   - ingredient
 hero: assets/images/flavored-sugars.webp

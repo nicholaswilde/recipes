@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
   - claire-saffitz
+  - dessert
 hero: assets/images/lemon-bundt-cake.webp
 ---
 

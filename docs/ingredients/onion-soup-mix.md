@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - mix
 hero: assets/images/onion-soup-mix.png

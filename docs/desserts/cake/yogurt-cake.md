@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - gateau
 hero: assets/images/yogurt-cake-version-1.webp
 ---

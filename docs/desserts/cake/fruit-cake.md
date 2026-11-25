@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
   - fruitcake
 source: https://www.recipetineats.com/christmas-cake/
 prep time: 30 minutes

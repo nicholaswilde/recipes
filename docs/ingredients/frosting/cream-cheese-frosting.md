@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - frosting
   - ingredient
   - joy-of-cooking
-  - frosting
 hero: assets/images/cream-cheese-frosting.png
 ---
 

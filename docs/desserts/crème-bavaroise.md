@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - custard
   - filling
   - ingredient
-  - custard
 hero: assets/images/crème-bavaroise.png
 ---
 

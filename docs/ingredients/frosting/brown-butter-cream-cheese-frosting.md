@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - claire-saffitz
   - frosting
   - ingredient
-  - claire-saffitz
 hero: assets/images/brown-butter-cream-cheese-frosting.webp
 ---
 

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - bake-off
   - cake
   - cooks-illustrated
+  - dessert
 hero: assets/images/olive-oil-cake.webp
 ---
 

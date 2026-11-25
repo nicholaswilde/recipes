@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - pressure-cooker
 hero: assets/images/black-beans.webp
 ---

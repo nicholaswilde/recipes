@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - flour
+  - ingredient
 hero: assets/images/chickpea-flour.webp
 ---
 

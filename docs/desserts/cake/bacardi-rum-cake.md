@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cake
   - bundt-cake
-  - rum
+  - cake
+  - dessert
   - recipe-box
+  - rum
   - vegetarian
 source: Recipe Box
 servings: 12

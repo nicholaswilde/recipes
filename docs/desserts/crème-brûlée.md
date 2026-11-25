@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - custard
   - dessert
 hero: assets/images/crème-brûlée.webp

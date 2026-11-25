@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - disney
   - dessert
+  - disney
 hero: assets/images/disney's-frozen-pineapple-treat.webp
 ---
 

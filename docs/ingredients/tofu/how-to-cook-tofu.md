@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-- tofu
-- ingredient
+  - ingredient
+  - tofu
 author: Cooking For Peanuts
 source: https://cookingforpeanuts.com/how-to-cook-tofu/
 servings: 4

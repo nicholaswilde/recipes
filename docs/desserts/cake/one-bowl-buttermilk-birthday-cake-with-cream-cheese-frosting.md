@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - dessert
   - cake
+  - dessert
 hero: assets/images/one-bowl-buttermilk-birthday-cake-with-cream-cheese-frosting.webp
 ---
 

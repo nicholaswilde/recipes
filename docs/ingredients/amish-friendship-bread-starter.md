@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
+  - allrecipes
   - ingredient
   - sourdough
   - starter
-  - allrecipes
 hero: assets/images/amish-friendship-bread-starter.webp
 ---
 

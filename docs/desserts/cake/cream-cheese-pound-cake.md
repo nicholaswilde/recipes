@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - american
   - cake
   - dessert
-  - american
 hero: assets/images/cream-cheese-pound-cake.webp
 ---
 

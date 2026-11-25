@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - ingredient
-  - dominique-ansel
   - custard
+  - dominique-ansel
   - filling
+  - ingredient
 hero: assets/images/crème-pâtissière.webp
 ---
 

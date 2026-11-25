@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cupcake-jemma
   - frosting
   - ingredient
-  - cupcake-jemma
 hero: assets/images/craquelin.webp
 ---
 

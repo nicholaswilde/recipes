@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dessert
-  - pudding
   - magnolia
+  - pudding
 hero: assets/images/banana-pudding.webp
 ---
 

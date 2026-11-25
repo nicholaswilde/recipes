@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - meringue
   - ingredient
+  - meringue
 hero: assets/images/swiss-meringue.webp
 ---
 

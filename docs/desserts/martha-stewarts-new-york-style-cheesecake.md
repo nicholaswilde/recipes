@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cheesecake
   - dessert
   - martha-stewart
-  - cheesecake
 hero: assets/images/martha-stewarts-new-york-style-cheesecake.webp
 ---
 

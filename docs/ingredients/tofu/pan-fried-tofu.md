@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - tofu
 hero: assets/images/pan-fried-tofu.webp

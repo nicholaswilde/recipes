@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - butter
   - ingredient
-  - applied-kitchen
 hero: assets/images/chili-lime-butter.webp
 ---
 

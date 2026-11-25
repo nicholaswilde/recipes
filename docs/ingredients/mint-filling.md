@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - ingredient
-  - filling
   - dessert
+  - filling
+  - ingredient
 hero: assets/images/mint-filling.webp
 ---
 

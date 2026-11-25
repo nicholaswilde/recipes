@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cooks-illustrated
   - dessert
   - shortcake
-  - cooks-illustrated
 hero: assets/images/strawberry-shortcakes.webp
 ---
 

@@ -2,8 +2,8 @@
 comments: true
 tags:
   - dessert
-  - pudding
   - kids
+  - pudding
   - recipe-box
   - vegetarian
 source: Recipe Box

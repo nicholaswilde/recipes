@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - seasoning
 hero: assets/images/taco-seasoning.webp

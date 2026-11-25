@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - julia-child
   - cake
   - dessert
+  - julia-child
 hero: assets/images/reine-be-saba-(queen-of-sheba).webp
 ---
 

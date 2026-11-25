@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - cheese
+  - ingredient
   - vegan
 hero: assets/images/vegan-parmesan.webp
 ---

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - dessert
+  - must-try
   - tart
   - the-new-york-times
-  - must-try
 hero: assets/images/plum-torte.webp
 ---
 

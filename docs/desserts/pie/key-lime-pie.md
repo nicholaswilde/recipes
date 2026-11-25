@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - bake-off
   - dessert
   - pie
-  - bake-off
 hero: assets/images/key-lime-pie.webp
 ---
 

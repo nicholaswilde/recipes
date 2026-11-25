@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cupcake
+  - dessert
 hero: assets/images/chocolate-cupcakes.webp
 ---
 

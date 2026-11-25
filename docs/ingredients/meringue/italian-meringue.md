@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - ingredient
-  - meringue
   - joy-of-cooking
+  - meringue
 hero: assets/images/italian-meringue.webp
 ---
 

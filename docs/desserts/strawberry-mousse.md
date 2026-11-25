@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - mousse
 hero: assets/images/strawberry-mousse.webp

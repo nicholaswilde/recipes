@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mousse
   - dessert
+  - mousse
 hero: assets/images/4-ingredient-chocolate-mousse.webp
 ---
 

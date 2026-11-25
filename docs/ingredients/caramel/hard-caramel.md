@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - caramel
   - ingredient
 hero: assets/images/hard-caramel.webp

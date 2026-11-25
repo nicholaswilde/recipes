@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - claire-saffitz
+  - dessert
 hero: assets/images/pecan-brittle.webp
 ---
 

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - italian
   - ingredient
-  - pasta
+  - italian
   - joy-of-cooking
+  - pasta
 hero: assets/images/pasta.png
 ---
 

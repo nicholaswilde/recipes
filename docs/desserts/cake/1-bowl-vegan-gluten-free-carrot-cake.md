@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
-  - vegan
+  - dessert
   - minimalist-baker
+  - vegan
 hero: assets/images/1-bowl-vegan-gluten-free-carrot-cake.webp
 ---
 

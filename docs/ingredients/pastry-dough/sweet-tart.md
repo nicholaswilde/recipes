@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - pastry
 hero: assets/images/sweet-tart.webp

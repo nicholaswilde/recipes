@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - gateau
 hero: assets/images/lemon-thyme-yogurt-cake.webp
 ---

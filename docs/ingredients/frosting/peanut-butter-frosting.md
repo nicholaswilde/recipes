@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - frosting
+  - ingredient
   - joy-of-cooking
 hero: assets/images/peanut-butter-frosting.webp
 ---

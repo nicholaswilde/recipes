@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
-  - cake
   - bake-off
+  - cake
+  - dessert
 hero: assets/images/pound-cake.webp
 ---
 

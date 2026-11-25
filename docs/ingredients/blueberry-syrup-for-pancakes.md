@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - breakfast
+  - ingredient
 hero: assets/images/blueberry-syrup-for-pancakes.webp
 ---
 

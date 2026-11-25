@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dough
   - ingredient
 hero: assets/images/pizza-dough.webp

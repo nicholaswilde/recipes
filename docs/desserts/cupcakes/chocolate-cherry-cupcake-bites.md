@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - dessert
-  - cupcake
-  - chocolate
   - cherry
+  - chocolate
+  - cupcake
+  - dessert
   - recipe-box
   - vegetarian
 source: Recipe Box

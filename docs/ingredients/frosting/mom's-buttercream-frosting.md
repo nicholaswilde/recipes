@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - frosting
+  - ingredient
 hero: assets/images/mom's-buttercream-frosting.webp
 ---
 

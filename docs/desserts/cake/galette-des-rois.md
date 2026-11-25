@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - holiday
 hero: assets/images/galette-des-rois.webp
 ---

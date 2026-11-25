@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sugar
   - ingredient
+  - sugar
 hero: assets/images/vanilla-sugar.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ingredient
   - vegan
 hero: assets/images/vegan-veggie-ground-meat.webp

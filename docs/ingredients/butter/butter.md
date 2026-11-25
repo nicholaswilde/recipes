@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - ingredient
   - butter
+  - ingredient
 hero: assets/images/butter.webp
 ---
 

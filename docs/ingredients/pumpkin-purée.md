@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - puree
   - ingredient
+  - puree
 hero: assets/images/pumpkin-purée.webp
 ---
 

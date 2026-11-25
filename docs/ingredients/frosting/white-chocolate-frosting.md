@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - frosting
   - ingredient
   - the-cake-mix-doctor

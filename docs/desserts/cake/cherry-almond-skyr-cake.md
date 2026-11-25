@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
+  - dessert
   - dominique-ansel
 hero: assets/images/cherry-almond-skyr-cake.webp
 ---

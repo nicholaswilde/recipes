@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cake
   - claire-saffitz
+  - dessert
   - favorite
 hero: assets/images/poppy-seed-almond-cake.webp
 ---

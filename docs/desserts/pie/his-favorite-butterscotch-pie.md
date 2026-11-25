@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dessert
   - pie
 hero: assets/images/his-favorite-butterscotch-pie.webp

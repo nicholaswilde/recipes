@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - meringue
   - ingredient
   - joy-of-cooking
+  - meringue
 hero: assets/images/french-meringue.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dominique-ansel
-  - pastry-dough
   - french
+  - pastry-dough
 hero: assets/images/dominique-ansel's-pâte-à-choux.webp
 ---
 

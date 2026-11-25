@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - pastry-dough
-  - ingredient
   - dominique-ansel
+  - ingredient
+  - pastry-dough
 hero: assets/images/vanilla-sablé-shell.webp
 ---
 
