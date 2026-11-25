@@ -10,7 +10,7 @@ Run fast linting checks only on modified, staged, or untracked Markdown, Cooklan
 
 ## Description
 
-This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check --errors-only` and `mdfm fmt --check` on modified `docs/**/*.md` and `cook/**/*.cook` frontmatter (using per-glob `[[schemas]]`), `cook-docs doctor --only syntax,ignored` on modified `cook/**/*.cook` files, and `yamllint-rs` on modified YAML files, avoiding the overhead and token consumption of checking the entire repository.
+This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check` and `mdfm fmt --check` on modified `docs/**/*.md` and `cook/**/*.cook` frontmatter (using per-glob `[[schemas]]` and `errors_only = true` in `.mdfm.toml`), `cook-docs doctor --only syntax,ignored` on modified `cook/**/*.cook` files, and `yamllint-rs` on modified YAML files, avoiding the overhead and token consumption of checking the entire repository.
 
 ## Protocol
 

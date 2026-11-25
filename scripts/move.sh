@@ -148,7 +148,7 @@ function move_files(){
 
   if command_exists mdfm; then
     mdfm fmt "${new_markdown_path}" &>/dev/null || true
-    mdfm check --errors-only "${new_markdown_path}" || true
+    mdfm check "${new_markdown_path}" || true
   fi
 }
 

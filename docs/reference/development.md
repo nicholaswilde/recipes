@@ -421,8 +421,7 @@ brew install nicholaswilde/homebrew-tap/mdfm
     mdfm keys docs/
     mdfm values tags docs/
     mdfm fmt --diff docs/path/to/recipe.md
-    mdfm check docs/
-    mdfm --ext cook check cook/
+    mdfm check docs/ cook/
     ```
 
 ### :page_with_curl: [yq][19]

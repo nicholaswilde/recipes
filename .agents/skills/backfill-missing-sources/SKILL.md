@@ -37,7 +37,7 @@ Before researching external origins, check for misformatted or pre-existing sour
    - Check if the corresponding `.cook` file in `cook/` already defines source metadata (YAML frontmatter via `mdfm` or legacy `>>` syntax):
 
      ```bash
-     mdfm --where has_frontmatter --output plain get source cook/<category>/<recipe>.cook
+     mdfm --output plain get source cook/<category>/<recipe>.cook
      grep -E "^>> source:" cook/<category>/<recipe>.cook
      ```
 

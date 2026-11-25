@@ -47,7 +47,7 @@ This skill safely and completely renames a recipe along with all of its associat
 
 4. **Update File Contents & Sync Navigation:**
    - **Cooklang File (if present):**
-     - Update the metadata title if explicitly set (`mdfm --where has_frontmatter set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
+     - Update the metadata title if explicitly set (`mdfm --where 'title != null' set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
      - Re-compile with `cook-docs` (`merge = true` and `nav_file = "zensical.toml"` in `.cookdocs.toml`):
 
        ```bash

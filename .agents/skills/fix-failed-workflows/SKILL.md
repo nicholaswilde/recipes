@@ -123,7 +123,7 @@ rtk gh run view <run-id> --log --job=<job-id> | cat
 
 #### G. Frontmatter Schema Validation (`frontmatter` workflow)
 
-* **Symptom**: `mdfm check docs/` or `mdfm --ext cook check cook/` fails on missing `comments`/`tags`/`hero`, invalid key types, corrupted `hero` links, or malformed YAML frontmatter.
+* **Symptom**: `mdfm check docs/ cook/` or `mdfm fmt --check --files-only docs/ cook/` fails on missing `comments`/`tags`/`hero`, invalid key types, corrupted `hero` links, unsorted tags, or malformed YAML frontmatter.
 * **Fix protocol**:
   1. Run schema validation locally (compact errors-only output via `.mdfm.toml`):
 

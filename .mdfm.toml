@@ -1,6 +1,7 @@
 default_format = "yaml"
 output = "table"
 schema = ".mdfm-schema.json"
+extensions = ["md", "markdown", "cook"]
 errors_only = true
 sort_arrays = ["tags"]
 ignore = [

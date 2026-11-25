@@ -101,7 +101,7 @@ def main():
             " file(s) with mdfm..."
         )
         result = subprocess.run(
-            ["mdfm", "check", "--errors-only"] + frontmatter_files
+            ["mdfm", "check"] + frontmatter_files
         )
         if result.returncode != 0:
             has_errors = True

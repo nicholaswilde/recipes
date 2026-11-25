@@ -10,7 +10,7 @@ This skill automates querying, modifying, deleting, and validating recipe frontm
 
 ## Description
 
-Use `mdfm` (configured via `.mdfm.toml` with per-glob `[[schemas]]`, `errors_only = true`, and `sort_arrays = ["tags"]`) to add/remove tags, update/rename/delete frontmatter keys, format frontmatter, audit key/value taxonomies, run filtered bulk updates with `--where` / `--diff`, and validate schema compliance across `docs/` and `cook/` without disturbing document bodies.
+Use `mdfm` (configured via `.mdfm.toml` with `extensions`, per-glob `[[schemas]]`, `errors_only = true`, and `sort_arrays = ["tags"]`) to add/remove tags, update/rename/delete frontmatter keys, format frontmatter, audit key/value taxonomies, run filtered bulk updates with `--where` / `--diff`, and validate schema compliance across `docs/` and `cook/` without disturbing document bodies.
 
 ## Protocol
 
@@ -61,7 +61,11 @@ Use `mdfm` (configured via `.mdfm.toml` with per-glob `[[schemas]]`, `errors_onl
    # Audit frontmatter keys or tag usage across docs/ or cook/
    mdfm keys docs/
    mdfm values tags docs/
-   mdfm --ext cook --where 'has_frontmatter' keys cook/
+   mdfm --where 'has_frontmatter' keys cook/
+
+   # Filter by optional key presence/absence (missing keys evaluate as null in == / !=)
+   mdfm --where '`prep time` != null' -l get . cook/
+   mdfm --where 'source == null' -l get . docs/
 
    # Preview a bulk tag update with unified diff before writing
    mdfm --where 'tags contains "applied-kitchen"' set --dry-run --diff tags+=quick docs/

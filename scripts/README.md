@@ -13,7 +13,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
 | `cook-docs --jsonify \| jq` | `task list-ingredients` | Lists all unique ingredients across all `.cook` recipes. |
-| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check --errors-only`, `mdfm fmt --check` (`docs/` and `cook/`), `cook-docs doctor --only syntax,ignored` (`cook/`), and `yamllint-rs` (saves tokens). |
+| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check`, `mdfm fmt --check` (`docs/` and `cook/`), `cook-docs doctor --only syntax,ignored` (`cook/`), and `yamllint-rs` (saves tokens). |
 | `scripts/git_summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
@@ -198,7 +198,7 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 * **Usage**: `uv run python3 scripts/lint_changed.py` or `task lint-changed`
 * **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown,
-  Cooklang, and YAML files in the git workspace, running `rumdl`, `mdfm check --errors-only`, `mdfm fmt --check`
+  Cooklang, and YAML files in the git workspace, running `rumdl`, `mdfm check`, `mdfm fmt --check`
   (on `docs/**/*.md` and `cook/**/*.cook`), `cook-docs doctor --only syntax,ignored` (on `cook/**/*.cook`),
   and `yamllint-rs` only on those files to save context tokens.
 
