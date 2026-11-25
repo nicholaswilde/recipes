@@ -9,6 +9,7 @@ serves: 20
 prep time: 30 minutes
 cook time: 3 hours 15 minutes
 total time: 4 hours 45 minutes
+hero: assets/images/fruit-cake.webp
 ---
 
 # :cake: Fruit Cake

@@ -1,13 +1,12 @@
 ---
 hero: assets/images/macaroni-salad.webp
 comments: true
+tags:
+- side
+- salad
 ---
 
 # :green_salad: Macaroni Salad
-
-tags:
-
-- sides
 
 ![Macaroni Salad](../../assets/images/macaroni-salad.webp){ loading=lazy }
 

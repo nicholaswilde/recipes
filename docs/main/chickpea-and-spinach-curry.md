@@ -12,7 +12,6 @@ hero: assets/images/chickpea-and-spinach-curry.webp
 source: https://chetnamakan.co.uk/chickpea-and-spinach-curry/
 serves: 4
 total time: 45 minutes
-image: Chickpea and Spinach Curry.jpg
 ---
 
 # :curry: Chickpea and Spinach Curry
