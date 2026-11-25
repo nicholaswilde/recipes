@@ -396,7 +396,8 @@ cargo install yamllint-rs
 
 ### :page_with_curl: [mdfm][23]
 
-Used to query, mutate, delete, and validate YAML frontmatter across Markdown files (configured in `.mdfm.toml` and `.mdfm-schema.json`).
+Used to query, mutate, rename, format, audit, and validate YAML frontmatter across Markdown and Cooklang files
+(configured via `.mdfm.toml` with per-glob `[[schemas]]`).
 
 ```shell title="Installation"
 # Via Homebrew
@@ -416,9 +417,13 @@ brew install nicholaswilde/homebrew-tap/mdfm
 
     ```shell title="Usage"
     mdfm set comments=true docs/path/to/recipe.md
-    mdfm set tags-=must-try tags+=favorite docs/path/to/recipe.md
-    mdfm --where 'tags contains "must-try"' get tags docs/
+    mdfm set --diff tags-=must-try tags+=favorite docs/path/to/recipe.md
+    mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' -l get . docs/
+    mdfm keys docs/
+    mdfm values tags docs/
+    mdfm fmt --diff docs/path/to/recipe.md
     mdfm check docs/
+    mdfm --ext cook check cook/
     ```
 
 ### :page_with_curl: [yq][19]

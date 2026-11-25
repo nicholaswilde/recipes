@@ -5,15 +5,17 @@ on:  # yamllint disable-line rule:truthy
   pull_request:
     paths:
       - 'docs/**/*.md'
+      - 'cook/**/*.cook'
       - '.mdfm.toml'
-      - '.mdfm-schema.json'
+      - '.mdfm*.json'
   push:
     branches:
       - main
     paths:
       - 'docs/**/*.md'
+      - 'cook/**/*.cook'
       - '.mdfm.toml'
-      - '.mdfm-schema.json'
+      - '.mdfm*.json'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -31,12 +33,14 @@ jobs:
         uses: actions/checkout@v7
       - name: Install mdfm
         env:
-          MDFM_VERSION: "0.1.1"
+          MDFM_VERSION: "0.1.2"
         run: |
           mkdir -p "${HOME}/.local/bin"
           pkg="mdfm-${MDFM_VERSION}-x86_64-unknown-linux-musl"
           url="https://github.com/nicholaswilde/mdfm/releases/download/v${MDFM_VERSION}/${pkg}.tar.gz"
           curl -fsSL "${url}" | tar -xz --strip-components=1 -C "${HOME}/.local/bin" "${pkg}/mdfm"
           echo "${HOME}/.local/bin" >> "${GITHUB_PATH}"
-      - name: Validate Markdown frontmatter
-        run: mdfm --output plain check docs/
+      - name: Validate docs frontmatter
+        run: mdfm --output plain check --errors-only docs/
+      - name: Validate cook frontmatter
+        run: mdfm --output plain --ext cook check --errors-only cook/

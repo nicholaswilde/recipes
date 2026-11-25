@@ -52,7 +52,7 @@ This skill safely and completely renames a recipe along with all of its associat
      - Update the image reference alt text (`![New Recipe Name][1]`).
      - Update the image link path at the bottom of the page (`[1]: <../../assets/images/{new-slug}.{jpg|png|webp}>`).
    - **Cooklang File:**
-     - Update the metadata title (`mdfm set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
+     - Update the metadata title (`mdfm --where has_frontmatter set title="New Recipe Name" "cook/{category}/{New Name}.cook"` for YAML frontmatter, or update `>> title: New Recipe Name` for legacy metadata).
    - **zensical.toml:**
      - Replace the old name and path with the new name and path under the correct navigation section.
 

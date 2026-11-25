@@ -35,18 +35,19 @@ This checks all recipe files for:
 
 ---
 
-### 2. Fix Corrupted Hero Paths
+### 2. Fix Corrupted or Missing Hero Paths
 
-Find any `hero:` values corrupted with markdown links using `mdfm` (also enforced by `.mdfm-schema.json`):
+Find corrupted `hero:` values or recipes missing `hero:` using `mdfm` (also enforced on all recipes by `.mdfm-schema.json` via `[[schemas]]` in `.mdfm.toml`):
 
 ```bash
 mdfm --where 'hero contains "["' get hero docs/
+mdfm --where 'not hero' -l get . docs/
 ```
 
-If frontmatter paths contain markdown links (e.g. `hero: assets/images/[ricotta]...`), set the clean raw path with `mdfm` (ensuring casing matches the filename on disk):
+If frontmatter paths contain markdown links (e.g. `hero: assets/images/[ricotta]...`), set the clean raw path with `mdfm` (ensuring casing matches the filename on disk; pass `--dry-run --diff` to preview):
 
 ```bash
-mdfm set hero=assets/images/ricotta-fritters.webp <recipe_path>
+mdfm set --diff hero=assets/images/ricotta-fritters.webp <recipe_path>
 ```
 
 ---

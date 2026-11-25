@@ -8,12 +8,12 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 
 | Script / Command | Taskfile Shortcut | Purpose |
 | :--- | :--- | :--- |
-| `scripts/move.sh` | `task move FILES="<path>"` | Compiles a single `.cook` recipe directly into `docs/` via `cook-docs` (`.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, `[category_tags]`, H1 `titleEmoji`, emojis, gram weights, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync), runs Pillow/PNG post-processing, formats with `rumdl`, and checks spelling/links. |
+| `scripts/move.sh` | `task move FILES="<path>"` | Compiles a single `.cook` recipe directly into `docs/` via `cook-docs` (`.cookdocs.toml` + `cook/recipe.md.gotmpl` for frontmatter, `[category_tags]`, H1 `titleEmoji`, emojis, gram weights, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive merge, and `zensical.toml` nav sync), runs Pillow/PNG post-processing, formats with `rumdl` and `mdfm fmt`, validates frontmatter via `mdfm check`, and checks spelling/links. |
 | `scripts/commit.sh` | `task commit FILES="<path>"` | Automates staging files, prompts for issue number, and commits with standard conventional message. |
 | `scripts/spellcheck.sh` | `task spellcheck` | Re-generates `_typos.toml` and spellchecks the repository. |
 | `scripts/linkcheck.sh` | `task linkcheck` | Runs the `lychee` link checker. |
 | `scripts/list_ingredients.sh` | `task list-ingredients` | Copies a `cook shopping-list` command for all recipes to the clipboard. |
-| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check`, and `yamllint-rs` (saves tokens). |
+| `scripts/lint_changed.py` | `task lint-changed` | Lints only modified/changed files with `rumdl`, `mdfm check --errors-only` (`docs/` and `cook/`), and `yamllint-rs` (saves tokens). |
 | `scripts/git_summary.py` | `task git-summary` | Displays a token-efficient summary of the git workspace status and changes. |
 | `scripts/hyperlink_ingredient.py` | `task hyperlink-ingredient TARGET="<path>" INGREDIENT="<name>"` | Hyperlinks occurrences of an ingredient to its recipe/file. |
 | `scripts/hyperlink_ingredient_global.py` | `task hyperlink-ingredient-global INGREDIENT="<name>"` | Globally hyperlinks occurrences of an ingredient across all recipes. |
@@ -41,7 +41,8 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
   (handling frontmatter, `[category_tags]`, H1 `titleEmoji`, ingredient/cookware emojis from `includes/emoji.yaml`,
   gram weights from `includes/weights.yaml`, ingredient & step cross-links, JPEG-to-WebP conversion, non-destructive
   merging unless `-f`/`--force` is passed, and `zensical.toml` navigation sync), runs Pillow fallback / `oxipng`
-  post-processing when needed, formats with `rumdl`, and runs spell/link checks.
+  post-processing when needed, formats with `rumdl` and `mdfm fmt`, validates frontmatter via `mdfm check`, and
+  runs spell/link checks.
 
 #### [commit.sh](commit.sh)
 
@@ -196,9 +197,9 @@ Where possible, run these via `Taskfile.yaml` using the `task` runner.
 #### [lint_changed.py](lint_changed.py)
 
 * **Usage**: `uv run python3 scripts/lint_changed.py` or `task lint-changed`
-* **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown
-  and YAML files in the git workspace, running `rumdl`, `mdfm check` (on `docs/**/*.md`), and
-  `yamllint-rs` only on those files to save context tokens.
+* **Description**: A specialized linter wrapper that detects modified, staged, or untracked Markdown,
+  Cooklang, and YAML files in the git workspace, running `rumdl`, `mdfm check --errors-only` (on `docs/**/*.md`
+  and `cook/**/*.cook`), and `yamllint-rs` only on those files to save context tokens.
 
 #### [git_summary.py](git_summary.py)
 

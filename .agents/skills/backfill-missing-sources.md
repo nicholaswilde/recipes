@@ -34,9 +34,10 @@ Before researching external origins, check for misformatted or pre-existing sour
    - Fix non-standard heading levels (e.g., `### :link: Source` &rarr; `## :link: Source`).
    - Fix non-standard section titles (e.g., `## :link: References` &rarr; `## :link: Sources`).
 2. **CookLang Metadata Sync**:
-   - Check if the corresponding `.cook` file in `cook/` already defines source metadata:
+   - Check if the corresponding `.cook` file in `cook/` already defines source metadata (YAML frontmatter via `mdfm` or legacy `>>` syntax):
 
      ```bash
+     mdfm --where has_frontmatter --output plain get source cook/<category>/<recipe>.cook
      grep -E "^>> source:" cook/<category>/<recipe>.cook
      ```
 

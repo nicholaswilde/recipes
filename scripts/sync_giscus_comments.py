@@ -301,27 +301,35 @@ def find_cook_file(rel_path, md_path=None, cook_dir="cook", cook_file_map=None):
     return matches[0]
 
 
-def _has_yaml_frontmatter(content):
-    """Return True if content begins with a closed `---` YAML frontmatter block."""
-    lines = content.splitlines()
-    if len(lines) < 2 or lines[0].strip() != "---":
-        return False
-    return any(line.strip() == "---" for line in lines[1:])
-
-
 def _promote_tags_with_mdfm(
-    filepath, add_favorite_if_missing=False, dry_run=False
+    filepath,
+    add_favorite_if_missing=False,
+    dry_run=False,
+    require_frontmatter=False,
 ):
-    """Promote `must-try` to `favorite` in YAML frontmatter via `mdfm`."""
-    args = []
+    """Promote `must-try` to `favorite` in YAML frontmatter via `mdfm`.
+
+    Returns:
+        Tuple of `(matched, changed)` when `require_frontmatter=True`, or
+        `changed` bool otherwise.
+    """
+    where_clauses = []
+    if require_frontmatter:
+        where_clauses.append("has_frontmatter")
     if not add_favorite_if_missing:
-        args.extend(["--where", 'tags contains "must-try"'])
+        where_clauses.append('tags contains "must-try"')
+
+    args = []
+    if where_clauses:
+        args.extend(["--where", " and ".join(where_clauses)])
     args.append("set")
     if dry_run:
         args.append("--dry-run")
     args.extend(["tags-=must-try", "tags+=favorite", filepath])
     entries = _run_mdfm(args)
-    return bool(entries and any(entry.get("changed") for entry in entries))
+    matched = bool(entries)
+    changed = bool(entries and any(entry.get("changed") for entry in entries))
+    return (matched, changed) if require_frontmatter else changed
 
 
 def promote_tags_in_markdown(filepath, dry_run=False):
@@ -438,17 +446,17 @@ def append_cooking_notes_to_cook_content(content, notes):
 
 def update_cook_file(cook_path, notes, promote_favorite=False, dry_run=False):
     """Update a `.cook` file with promoted tags and staged cooking notes."""
-    with open(cook_path, "r", encoding="utf-8") as f:
-        original = f.read()
+    matched, promoted = _promote_tags_with_mdfm(
+        cook_path,
+        add_favorite_if_missing=promote_favorite,
+        dry_run=dry_run,
+        require_frontmatter=True,
+    )
 
-    if _has_yaml_frontmatter(original):
-        promoted = _promote_tags_with_mdfm(
-            cook_path, add_favorite_if_missing=promote_favorite, dry_run=dry_run
-        )
-        current = original
-        if promoted and not dry_run:
-            with open(cook_path, "r", encoding="utf-8") as f:
-                current = f.read()
+    with open(cook_path, "r", encoding="utf-8") as f:
+        current = f.read()
+
+    if matched:
         updated, notes_added = append_cooking_notes_to_cook_content(current, notes)
         if notes_added > 0 and not dry_run:
             with open(cook_path, "w", encoding="utf-8") as f:
@@ -460,16 +468,16 @@ def update_cook_file(cook_path, notes, promote_favorite=False, dry_run=False):
         }
 
     updated, promoted = _promote_tags_in_legacy_cook_content(
-        original, add_favorite_if_missing=promote_favorite
+        current, add_favorite_if_missing=promote_favorite
     )
     updated, notes_added = append_cooking_notes_to_cook_content(updated, notes)
 
-    if updated != original and not dry_run:
+    if updated != current and not dry_run:
         with open(cook_path, "w", encoding="utf-8") as f:
             f.write(updated)
 
     return {
-        "changed": updated != original,
+        "changed": updated != current,
         "promoted": promoted,
         "notes_added": notes_added,
     }

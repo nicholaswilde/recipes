@@ -1,6 +1,8 @@
 default_format = "yaml"
 output = "table"
 schema = ".mdfm-schema.json"
+errors_only = true
+sort_arrays = ["tags"]
 ignore = [
   "AGENTS.md",
   "README.md",
@@ -12,3 +14,11 @@ ignore = [
   "scripts/**",
   ".agents/**",
 ]
+
+[[schemas]]
+patterns = ["docs/reference/**", "docs/tags.md"]
+schema = ".mdfm-reference-schema.json"
+
+[[schemas]]
+pattern = "cook/**/*.cook"
+schema = ".mdfm-cook-schema.json"

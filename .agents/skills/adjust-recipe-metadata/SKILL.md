@@ -10,11 +10,11 @@ This skill automates querying, modifying, deleting, and validating recipe frontm
 
 ## Description
 
-Use `mdfm` (configured via `.mdfm.toml` and `.mdfm-schema.json`) to add/remove tags, update frontmatter keys (`comments`, `hero`, `source`, etc.), run filtered bulk updates with `--where`, and validate schema compliance without disturbing the Markdown body.
+Use `mdfm` (configured via `.mdfm.toml` with per-glob `[[schemas]]`, `errors_only = true`, and `sort_arrays = ["tags"]`) to add/remove tags, update/rename/delete frontmatter keys, format frontmatter, audit key/value taxonomies, run filtered bulk updates with `--where` / `--diff`, and validate schema compliance across `docs/` and `cook/` without disturbing document bodies.
 
 ## Protocol
 
-1. **Mutate or Query Frontmatter with `mdfm`**:
+1. **Mutate, Format, or Query Frontmatter with `mdfm`**:
 
    **Add / remove tags (deduplicated):**
 
@@ -30,7 +30,7 @@ Use `mdfm` (configured via `.mdfm.toml` and `.mdfm-schema.json`) to add/remove t
    task remove-tag -- must-try docs/breakfast/overnight-oats.md
    ```
 
-   **Set or delete metadata keys:**
+   **Set, rename/merge, delete, or format metadata keys:**
 
    ```bash
    # Set comments flag and hero image path
@@ -39,26 +39,41 @@ Use `mdfm` (configured via `.mdfm.toml` and `.mdfm-schema.json`) to add/remove t
    # Enable comments via Taskfile
    task add-comments -- docs/breakfast/overnight-oats.md
 
+   # Rename or merge a frontmatter key across files (preview with --dry-run --diff)
+   mdfm mv --merge --dry-run --diff serves servings docs/
+
    # Delete a frontmatter key
    mdfm del legacy_key docs/breakfast/overnight-oats.md
+
+   # Format frontmatter and sort/deduplicate tags (uses sort_arrays in .mdfm.toml)
+   mdfm fmt --diff docs/breakfast/overnight-oats.md
    ```
 
-   **Query or preview bulk edits with `--where` and `--dry-run`:**
+   **Query, audit taxonomies, or preview bulk edits (`-l`, multi-key `get`, `--where`, `--diff`):**
 
    ```bash
-   # List untried must-try recipes (excluding favorites)
-   mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' get tags docs/
+   # List untried must-try recipes (file paths only, excluding favorites)
+   mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' -l get . docs/
 
-   # Preview a bulk tag update before writing
-   mdfm --where 'tags contains "applied-kitchen"' set --dry-run tags+=quick docs/
+   # Inspect multiple keys at once
+   mdfm get hero,tags docs/breakfast/
+
+   # Audit frontmatter keys or tag usage across docs/ or cook/
+   mdfm keys docs/
+   mdfm values tags docs/
+   mdfm --ext cook --where 'has_frontmatter' keys cook/
+
+   # Preview a bulk tag update with unified diff before writing
+   mdfm --where 'tags contains "applied-kitchen"' set --dry-run --diff tags+=quick docs/
    ```
 
 2. **Verify and Lint**:
 
-   - Validate frontmatter schema and changed files:
+   - Validate frontmatter schemas (automatically resolves recipe, reference, and `.cook` schemas via `[[schemas]]`) and changed files:
 
      ```bash
      mdfm check <recipe_path>
+     task lint:frontmatter
      task lint-changed
      task validate
      ```

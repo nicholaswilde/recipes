@@ -10,7 +10,7 @@ Run fast linting checks only on modified, staged, or untracked Markdown and YAML
 
 ## Description
 
-This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check` on modified `docs/**/*.md` frontmatter, and
+This skill runs `task lint-changed` to automatically run `rumdl` on modified Markdown files, `mdfm check --errors-only` on modified `docs/**/*.md` and `cook/**/*.cook` frontmatter (using per-glob `[[schemas]]`), and
 `yamllint-rs` on modified YAML files, avoiding the overhead and token consumption of checking
 the entire repository.
 

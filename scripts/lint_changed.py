@@ -57,7 +57,7 @@ def main():
         sys.exit(0)
 
     md_files = []
-    docs_md_files = []
+    frontmatter_files = []
     yaml_files = []
     ignored_docs = {
         "docs/README.md",
@@ -68,13 +68,15 @@ def main():
     for status, path in changed_files:
         if not os.path.exists(path):
             continue
+        norm_path = path.replace("\\", "/")
         if path.endswith(".md"):
             md_files.append(path)
-            norm_path = path.replace("\\", "/")
             if norm_path.startswith("docs/") and norm_path not in ignored_docs:
-                docs_md_files.append(path)
+                frontmatter_files.append(path)
+        elif path.endswith(".cook") and norm_path.startswith("cook/"):
+            frontmatter_files.append(path)
         elif path.endswith((".yaml", ".yml")):
-            if not path.replace("\\", "/").startswith(".github/"):
+            if not norm_path.startswith(".github/"):
                 yaml_files.append(path)
 
     has_errors = False
@@ -89,10 +91,15 @@ def main():
     else:
         print("No changed Markdown files to lint.")
 
-    # Validate Markdown frontmatter in docs/
-    if docs_md_files:
-        print(f"\nValidating frontmatter in {len(docs_md_files)} changed docs Markdown files with mdfm...")
-        result = subprocess.run(["mdfm", "check"] + docs_md_files)
+    # Validate frontmatter in docs/ and cook/ via per-glob [[schemas]]
+    if frontmatter_files:
+        print(
+            f"\nValidating frontmatter in {len(frontmatter_files)} changed"
+            " file(s) with mdfm..."
+        )
+        result = subprocess.run(
+            ["mdfm", "check", "--errors-only"] + frontmatter_files
+        )
         if result.returncode != 0:
             has_errors = True
 

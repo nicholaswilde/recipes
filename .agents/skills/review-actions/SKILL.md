@@ -97,6 +97,18 @@ Based on the job logs, apply the corresponding fix protocol:
     uv run scripts/zensical_fix.py
     ```
 
+#### E. Frontmatter Schema Validation Failures
+
+* **Diagnostic**: `frontmatter` workflow fails on missing `comments`/`tags`/`hero`, invalid key types, corrupted `hero` links, or invalid `.cook` YAML frontmatter.
+* **Fix**:
+    * Run local schema validation:
+
+    ```bash
+    task lint:frontmatter
+    ```
+
+    * Repair failing keys with `mdfm set` / `mdfm del` / `mdfm mv` / `mdfm fmt` (preview changes with `--dry-run --diff`).
+
 ---
 
 ### 3. Stage and Verify Fixes

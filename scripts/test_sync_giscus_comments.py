@@ -179,6 +179,22 @@ class TestSyncGiscusComments(unittest.TestCase):
             legacy_text = f.read()
         self.assertIn(">> tags: bread, favorite", legacy_text)
 
+        # YAML frontmatter with UTF-8 BOM and `...` closing delimiter handled by mdfm has_frontmatter
+        cook_dots = os.path.join(self.cook_dir, "breads", "Dots Loaf.cook")
+        with open(cook_dots, "w", encoding="utf-8") as f:
+            f.write("\ufeff---\ntitle: Dots Loaf\ntags:\n  - bread\n...\n\nMix @flour{1%cup}.\n")
+        res_dots = sync_giscus.update_cook_file(cook_dots, [], promote_favorite=True)
+        self.assertTrue(res_dots["changed"])
+        self.assertTrue(res_dots["promoted"])
+        with open(cook_dots, "r", encoding="utf-8") as f:
+            dots_text = f.read()
+        self.assertTrue(dots_text.startswith("\ufeff---\n"))
+        self.assertIn("  - favorite\n", dots_text)
+        # No-op when promote_favorite=False and must-try is absent
+        res_noop = sync_giscus.update_cook_file(cook_dots, [], promote_favorite=False)
+        self.assertFalse(res_noop["changed"])
+        self.assertFalse(res_noop["promoted"])
+
     def test_extract_comments_includes_replies_chronologically(self):
         disc = self._make_discussion(
             comments=[

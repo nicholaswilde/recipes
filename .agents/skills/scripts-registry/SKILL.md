@@ -196,26 +196,31 @@ To scale recipe ingredients by a factor and append them as a new Zensical tab (e
 
 #### Adjust Recipe Metadata and Frontmatter
 
-To query, mutate, delete, or validate frontmatter keys and tags in recipe markdown files (replaces the removed `scripts/adjust_recipe_metadata.py`):
+To query, mutate, rename, format, audit, or validate frontmatter keys and tags in recipe Markdown and Cooklang files (replaces the removed `scripts/adjust_recipe_metadata.py`):
 
 * **Protocol**:
 
   ```bash
-  # Add/remove tags (deduplicated) or set metadata keys
+  # Add/remove tags (deduplicated), rename/merge keys, or format frontmatter
   mdfm set tags+=healthy tags+=quick <recipe_path>
-  mdfm set tags-=must-try tags+=favorite <recipe_path>
+  mdfm set --diff tags-=must-try tags+=favorite <recipe_path>
   mdfm set comments=true hero=assets/images/<slug>.webp <recipe_path>
+  mdfm mv --merge --dry-run --diff serves servings docs/
   mdfm del <key> <recipe_path>
+  mdfm fmt --diff <recipe_path>
 
-  # Query or preview filtered bulk edits
-  mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' get tags docs/
-  mdfm --where 'tags contains "applied-kitchen"' set --dry-run tags+=quick docs/
+  # Query, audit taxonomies, or preview filtered bulk edits
+  mdfm --where 'tags contains "must-try" and not (tags contains "favorite")' -l get . docs/
+  mdfm get hero,tags docs/breakfast/
+  mdfm keys docs/
+  mdfm values tags docs/
+  mdfm --where 'tags contains "applied-kitchen"' set --dry-run --diff tags+=quick docs/
 
-  # Validate frontmatter schema (configured in .mdfm.toml + .mdfm-schema.json)
+  # Validate docs/ and cook/ frontmatter schemas (per-glob [[schemas]] in .mdfm.toml)
   task lint:frontmatter
   ```
 
-* **Under the Hood**: Uses [`mdfm`](https://github.com/nicholaswilde/mdfm) (`task add-comments`, `task add-tag`, `task remove-tag`, `task lint:frontmatter`), preserving Markdown bodies byte-for-byte and skipping no-op writes.
+* **Under the Hood**: Uses [`mdfm`](https://github.com/nicholaswilde/mdfm) (`task add-comments`, `task add-tag`, `task remove-tag`, `task lint:frontmatter`), preserving bodies byte-for-byte, formatting YAML lists/sorting tags (`sort_arrays = ["tags"]`), and skipping no-op writes.
 
 ---
 
