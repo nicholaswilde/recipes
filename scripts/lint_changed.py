@@ -103,6 +103,16 @@ def main():
         if result.returncode != 0:
             has_errors = True
 
+        print(
+            f"\nChecking frontmatter formatting in {len(frontmatter_files)}"
+            " changed file(s) with mdfm..."
+        )
+        result = subprocess.run(
+            ["mdfm", "fmt", "--check", "--files-only"] + frontmatter_files
+        )
+        if result.returncode != 0:
+            has_errors = True
+
     # Lint YAML files
     if yaml_files:
         print(f"\nLinting {len(yaml_files)} changed YAML files with yamllint-rs...")
