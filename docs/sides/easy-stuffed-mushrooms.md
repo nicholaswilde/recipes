@@ -2,8 +2,8 @@
 comments: true
 tags:
   - appetizer
-  - side
   - mushroom
+  - side
   - vegetarian
 hero: assets/images/easy-stuffed-mushrooms.webp
 ---

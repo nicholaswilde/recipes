@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - condiment
-  - sauce
   - dip
+  - sauce
 hero: assets/images/hummus.webp
 ---
 

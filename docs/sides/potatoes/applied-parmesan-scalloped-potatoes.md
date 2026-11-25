@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - side
   - applied-kitchen
   - potato
+  - side
 hero: assets/images/applied-parmesan-scalloped-potatoes.webp
 ---
 

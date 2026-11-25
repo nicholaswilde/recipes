@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - recipe-box
   - sauce
   - the-new-york-times
-  - recipe-box
 hero: assets/images/new-york-times'-classic-marinara-sauce.webp
 ---
 

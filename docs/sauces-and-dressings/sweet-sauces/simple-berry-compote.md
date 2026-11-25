@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - minimalist-baker
+  - sauce
 hero: assets/images/simple-berry-compote.webp
 ---
 

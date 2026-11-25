@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - vegetarian
   - sauce
+  - vegetarian
 hero: assets/images/vegetarian-sausage-gravy.webp
 ---
 

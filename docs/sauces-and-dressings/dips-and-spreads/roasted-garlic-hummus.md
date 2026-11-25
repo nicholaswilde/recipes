@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - heat-culinary
   - persian
+  - sauce
 hero: assets/images/roasted-garlic-hummus.webp
 ---
 

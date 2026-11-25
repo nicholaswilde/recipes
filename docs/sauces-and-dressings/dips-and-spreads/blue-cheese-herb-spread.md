@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - spread
 hero: assets/images/blue-cheese-herb-spread.webp
 ---

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - mediterranean
+  - side
 hero: assets/images/couscous.webp
 ---
 

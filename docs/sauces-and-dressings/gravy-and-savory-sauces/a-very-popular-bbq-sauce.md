@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
 hero: assets/images/a-very-popular-bbq-sauce.webp
 ---

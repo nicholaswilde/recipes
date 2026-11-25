@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
 hero: assets/images/garlic-and-lemon-roasted-romanesco-cauliflower.webp
 ---

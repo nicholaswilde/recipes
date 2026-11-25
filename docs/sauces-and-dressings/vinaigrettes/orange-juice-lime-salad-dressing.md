@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
 hero: assets/images/orange-juice-lime-salad-dressing.webp
 ---

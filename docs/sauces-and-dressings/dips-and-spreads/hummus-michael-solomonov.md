@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - sauce
   - dip
+  - gluten-free
   - israeli
   - middle eastern
+  - sauce
   - vegan
-  - gluten-free
 hero: assets/images/hummus-michael-solomonov.webp
 ---
 

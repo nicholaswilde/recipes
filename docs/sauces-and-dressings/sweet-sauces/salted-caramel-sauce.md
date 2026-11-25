@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - claire-saffitz
   - sauce
   - whats-for-dessert
-  - claire-saffitz
 hero: assets/images/salted-caramel-sauce.webp
 ---
 

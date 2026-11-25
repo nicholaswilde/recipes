@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - italian
+  - sauce
 hero: assets/images/alfredo-sauce.webp
 ---
 

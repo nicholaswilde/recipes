@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - side
   - salad
+  - side
 hero: assets/images/andrew-kings-pasta-salad.webp
 ---
 

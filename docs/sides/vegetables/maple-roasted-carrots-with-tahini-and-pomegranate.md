@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - side
-  - persian
   - heat-culinary
+  - persian
+  - side
 hero: assets/images/maple-roasted-carrots-with-tahini-and-pomegranate.webp
 ---
 

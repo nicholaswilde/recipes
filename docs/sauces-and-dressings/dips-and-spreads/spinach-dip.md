@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dip
 hero: assets/images/spinach-dip.webp
 ---

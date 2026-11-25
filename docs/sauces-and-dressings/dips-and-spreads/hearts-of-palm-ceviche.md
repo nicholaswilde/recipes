@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - the-blue-zones-kitchen
 hero: assets/images/hearts-of-palm-ceviche.webp
 ---

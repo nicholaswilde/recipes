@@ -2,10 +2,10 @@
 comments: true
 tags:
   - holiday
+  - nut
   - rosemary
   - snack
   - vegetarian
-  - nut
 hero: assets/images/rosemary-spiced-nuts.webp
 ---
 

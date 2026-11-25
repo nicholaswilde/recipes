@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - mexican
+  - sauce
 hero: assets/images/aaron-combs'-salsa.webp
 ---
 

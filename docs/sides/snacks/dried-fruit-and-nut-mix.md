@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - applied-kitchen
+  - side
 hero: assets/images/dried-fruit-and-nut-mix.webp
 ---
 

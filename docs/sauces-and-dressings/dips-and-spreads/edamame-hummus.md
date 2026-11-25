@@ -1,13 +1,12 @@
 ---
 comments: true
 tags:
-
-  - snack
   - appetizer
-  - vegan
-  - gluten-free
   - edamame
+  - gluten-free
   - hummus
+  - snack
+  - vegan
 hero: assets/images/edamame-hummus.webp
 ---
 

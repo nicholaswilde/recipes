@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - side
-  - salad
   - applied-kitchen
+  - salad
+  - side
 hero: assets/images/corn-and-avocado-summer-salad.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
 hero: assets/images/roasted-delicata-squash.webp
 ---

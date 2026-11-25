@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - trader-joes
 hero: assets/images/falafel-scones-with-harissa-yogurt.png
 ---

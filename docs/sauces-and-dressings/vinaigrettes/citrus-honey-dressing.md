@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dressing
   - applied-kitchen
+  - dressing
 hero: assets/images/citrus-honey-dressing.webp
 ---
 

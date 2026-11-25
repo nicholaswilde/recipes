@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - holiday
   - casserole
+  - holiday
 hero: assets/images/ruth's-chris-sweet-potato-casserole.webp
 ---
 

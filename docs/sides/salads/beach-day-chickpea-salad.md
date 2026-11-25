@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - salad
   - lunch
+  - salad
   - vegan
 hero: assets/images/beach-day-chickpea-salad.webp
 ---

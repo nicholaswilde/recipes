@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - sauce
 hero: assets/images/garlic-aioli.webp

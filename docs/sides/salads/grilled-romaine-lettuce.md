@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - side
   - salad
+  - side
 source: Secrets to Smoking on the Weber Smokey Mountain Cooker and Other Smokers
 author: Bill Gillespie
 cook time: 5 minutes

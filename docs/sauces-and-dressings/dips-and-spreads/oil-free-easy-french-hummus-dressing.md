@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - nutrition-studies
   - dressing
+  - nutrition-studies
 hero: assets/images/oil-free-easy-french-hummus-dressing.webp
 ---
 

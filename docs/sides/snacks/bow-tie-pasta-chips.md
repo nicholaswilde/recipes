@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - nutrition-studies
+  - side
 hero: assets/images/bow-tie-pasta-chips.webp
 ---
 

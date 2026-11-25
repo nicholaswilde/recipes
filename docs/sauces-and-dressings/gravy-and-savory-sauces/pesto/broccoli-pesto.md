@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
-  - pesto
   - magnolia
+  - pesto
+  - sauce
 hero: assets/images/broccoli-pesto.webp
 ---
 

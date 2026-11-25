@@ -2,8 +2,8 @@
 hero: assets/images/macaroni-salad.webp
 comments: true
 tags:
-- side
-- salad
+  - salad
+  - side
 ---
 
 # :green_salad: Macaroni Salad

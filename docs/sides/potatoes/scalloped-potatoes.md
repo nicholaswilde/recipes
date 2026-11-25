@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - side
   - cream
   - french
   - julia child
   - potato
+  - side
 hero: assets/images/scalloped-potatoes.webp
 ---
 

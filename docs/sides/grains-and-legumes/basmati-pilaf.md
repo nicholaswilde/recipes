@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - gordon-ramsay
+  - side
 hero: assets/images/basmati-pilaf.webp
 ---
 

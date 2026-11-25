@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - side
-  - salad
   - applied-kitchen
   - favorite
+  - salad
+  - side
 hero: assets/images/dense-bean-salad.webp
 ---
 

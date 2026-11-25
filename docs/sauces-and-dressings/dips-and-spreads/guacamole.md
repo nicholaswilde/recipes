@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
 hero: assets/images/guacamole.webp
 ---

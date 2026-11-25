@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - gravy
+  - sauce
 hero: assets/images/mushroom-gravy.webp
 ---
 

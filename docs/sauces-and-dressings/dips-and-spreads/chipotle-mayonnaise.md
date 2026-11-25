@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - kenji-lopez-alt
+  - sauce
 hero: assets/images/chipotle-mayonnaise.webp
 ---
 

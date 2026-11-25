@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - asian
   - side
-  - applied-kitchen
 hero: assets/images/fresh-spring-rolls.png
 ---
 

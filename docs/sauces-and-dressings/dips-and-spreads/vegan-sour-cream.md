@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
   - vegan
 hero: assets/images/vegan-sour-cream.webp

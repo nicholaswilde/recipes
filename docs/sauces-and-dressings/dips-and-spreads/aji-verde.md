@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cooks-illustrated
   - mexican
   - sauce
-  - cooks-illustrated
 hero: assets/images/aji-verde.webp
 ---
 

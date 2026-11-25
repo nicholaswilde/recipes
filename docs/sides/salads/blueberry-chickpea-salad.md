@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - side
   - nutrition-studies
   - salad
+  - side
 hero: assets/images/blueberry-chickpea-salad.webp
 ---
 

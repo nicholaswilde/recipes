@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - coulis
 hero: assets/images/roasted-red-pepper-coulis.webp
 ---

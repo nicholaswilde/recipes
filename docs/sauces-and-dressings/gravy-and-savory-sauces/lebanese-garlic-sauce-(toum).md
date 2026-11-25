@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - lebanese
+  - sauce
   - toum
 hero: assets/images/lebanese-garlic-sauce-(toum).webp
 ---

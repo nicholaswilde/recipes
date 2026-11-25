@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - sauce
-  - pesto
-  - oil-free
   - forks-over-knives
+  - oil-free
+  - pesto
+  - sauce
 hero: assets/images/homemade-vegan-pesto-forks-over-knives.webp
 ---
 

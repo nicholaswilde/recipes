@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - jessica-seinfeld
+  - side
 hero: assets/images/mashed-sweet-potatoes-with-caramelized-shallots.webp
 ---
 

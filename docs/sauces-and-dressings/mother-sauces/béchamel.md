@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - mother-sauce
   - french
   - joy-of-cooking
+  - mother-sauce
 hero: assets/images/béchamel.png
 ---
 

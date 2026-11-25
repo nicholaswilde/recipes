@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
   - the-blue-zones-kitchen
 hero: assets/images/chilero-hot-sauce.webp

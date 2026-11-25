@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - italian
+  - sauce
   - the-new-york-times
 hero: assets/images/tomato-bruschetta.webp
 ---

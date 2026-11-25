@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - side
-  - vegetable
-  - sweet-potato
   - casserole
   - recipe-box
+  - side
+  - sweet-potato
+  - vegetable
   - vegetarian
 source: Recipe Box
 servings: 12

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
 hero: assets/images/buffalo-sauce.webp
 ---

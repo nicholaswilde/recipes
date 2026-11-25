@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - side
   - must-try
+  - side
 hero: assets/images/cowboy-caviar.webp
 ---
 

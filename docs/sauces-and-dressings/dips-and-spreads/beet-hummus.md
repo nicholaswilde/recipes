@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - applied-kitchen
   - dip
 hero: assets/images/beet-hummus.png

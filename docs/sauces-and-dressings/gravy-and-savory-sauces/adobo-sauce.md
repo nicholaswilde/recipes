@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
 source: https://keviniscooking.com/how-to-make-adobo-sauce/
 author: Kevin Westing

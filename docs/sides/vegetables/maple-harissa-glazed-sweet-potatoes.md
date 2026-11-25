@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - trader-joes
 hero: assets/images/maple-harissa-glazed-sweet-potatoes.png

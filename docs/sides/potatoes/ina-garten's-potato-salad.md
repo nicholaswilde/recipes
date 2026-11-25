@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - ina-garten
   - salad
   - side

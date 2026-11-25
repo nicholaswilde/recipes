@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - nutrition-studies
   - side
   - vegan
-  - nutrition-studies
 hero: assets/images/loaded-vegan-potato-skins.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - joy-of-cooking
   - pesto
+  - sauce
 hero: assets/images/joy-of-cooking-pesto.webp
 ---
 

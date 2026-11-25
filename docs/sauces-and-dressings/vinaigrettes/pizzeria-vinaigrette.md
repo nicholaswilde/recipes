@@ -1,14 +1,13 @@
 ---
 comments: true
 tags:
-
-  - vegan
-  - gluten-free
   - dairy-free
-  - salad
   - dressing
   - favorite
+  - gluten-free
   - julia-turshen
+  - salad
+  - vegan
 hero: assets/images/pizzeria-vinaigrette.webp
 ---
 

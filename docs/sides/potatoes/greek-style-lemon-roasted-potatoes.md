@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
 hero: assets/images/greek-style-lemon-roasted-potatoes.png
 ---

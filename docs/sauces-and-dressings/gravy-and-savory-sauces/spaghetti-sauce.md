@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - italian
   - recipe-box
+  - sauce
 hero: assets/images/spaghetti-sauce.webp
 ---
 

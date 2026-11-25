@@ -2,8 +2,8 @@
 comments: true
 tags:
   - holiday
-  - side
   - recipe-box
+  - side
 hero: assets/images/grandpa's-stuffing.webp
 ---
 

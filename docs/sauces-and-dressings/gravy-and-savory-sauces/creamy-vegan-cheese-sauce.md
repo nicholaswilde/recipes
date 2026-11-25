@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - nutrition-studies
   - sauce
   - vegan
-  - nutrition-studies
 hero: assets/images/creamy-vegan-cheese-sauce.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dutch
 hero: assets/images/kroket.webp
 ---

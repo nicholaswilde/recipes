@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - mexican
   - applied-kitchen
+  - mexican
 hero: assets/images/applied-kitchen-guacamole.webp
 ---
 

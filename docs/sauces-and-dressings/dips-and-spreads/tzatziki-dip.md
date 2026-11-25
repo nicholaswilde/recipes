@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dip
   - applied-kitchen
+  - dip
 hero: assets/images/tzatziki-dip.webp
 ---
 

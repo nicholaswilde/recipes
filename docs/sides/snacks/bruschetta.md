@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - italian
   - appetizer
   - bruschetta
+  - italian
   - tomato
 hero: assets/images/bruschetta.webp
 ---

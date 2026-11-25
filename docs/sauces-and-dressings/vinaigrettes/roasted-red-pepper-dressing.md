@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - oil-free
   - dressing
+  - oil-free
 hero: assets/images/roasted-red-pepper-dressing.webp
 ---
 

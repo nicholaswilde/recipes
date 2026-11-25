@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - side
-  - indonesian
   - indo-dutch
-  - vegetarian
+  - indonesian
+  - side
   - vegan
+  - vegetarian
 hero: assets/images/sambal-goreng-kering-kentang.webp
 ---
 

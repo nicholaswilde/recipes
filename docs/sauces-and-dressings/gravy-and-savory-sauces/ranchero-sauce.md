@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - magnolia
+  - sauce
 hero: assets/images/ranchero-sauce.webp
 ---
 

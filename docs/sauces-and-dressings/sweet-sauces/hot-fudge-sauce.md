@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - claire-saffitz
+  - sauce
 hero: assets/images/hot-fudge-sauce.webp
 ---
 

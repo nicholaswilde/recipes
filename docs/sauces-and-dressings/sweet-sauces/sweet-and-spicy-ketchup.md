@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - condiment
   - sauce
 hero: assets/images/sweet-and-spicy-ketchup.webp

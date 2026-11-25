@@ -1,15 +1,15 @@
 ---
 comments: true
 tags:
-  - side
-  - vegetable
   - appetizer
-  - snack
-  - onion-rings
   - deep-fried
-  - must-try
-  - serious-eats
   - kenji-lopez-alt
+  - must-try
+  - onion-rings
+  - serious-eats
+  - side
+  - snack
+  - vegetable
 hero: assets/images/foolproof-onion-rings.webp
 source: The Food Lab
 author: J. Kenji López-Alt

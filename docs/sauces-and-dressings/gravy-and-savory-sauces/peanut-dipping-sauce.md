@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - joy-of-cooking
+  - sauce
 hero: assets/images/peanut-dipping-sauce.webp
 ---
 

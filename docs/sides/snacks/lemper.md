@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - indonesian
 hero: assets/images/lemper.webp
 ---

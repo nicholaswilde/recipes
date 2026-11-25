@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - vegan
   - dressing
   - minimalist-baker
+  - vegan
 hero: assets/images/vegan-caesar-dressing.webp
 ---
 

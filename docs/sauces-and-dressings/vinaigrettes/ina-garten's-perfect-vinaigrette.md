@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
   - ina-garten
 hero: assets/images/ina-garten's-perfect-vinaigrette.webp

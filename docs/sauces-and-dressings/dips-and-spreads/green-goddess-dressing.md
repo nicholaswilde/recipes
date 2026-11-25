@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - panera
   - dressing
+  - panera
 hero: assets/images/green-goddess-dressing.webp
 ---
 

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - joy-of-cooking
+  - side
 hero: assets/images/steamed-broccoli-with-vinaigrette.webp
 ---
 

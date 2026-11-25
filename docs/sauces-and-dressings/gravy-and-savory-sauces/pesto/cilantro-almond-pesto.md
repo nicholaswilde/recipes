@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - pesto
+  - sauce
   - the-gracias-madre-cookbook
 hero: assets/images/cilantro-almond-pesto.webp
 ---

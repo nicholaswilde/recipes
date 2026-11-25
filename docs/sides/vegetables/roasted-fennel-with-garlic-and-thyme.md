@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - minimalist-baker
+  - side
 hero: assets/images/roasted-fennel-with-garlic-and-thyme.webp
 ---
 

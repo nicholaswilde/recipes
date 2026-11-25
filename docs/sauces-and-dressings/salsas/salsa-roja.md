@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
   - the-gracias-madre-cookbook
 hero: assets/images/salsa-roja.webp

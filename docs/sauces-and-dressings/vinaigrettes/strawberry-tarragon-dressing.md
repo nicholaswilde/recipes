@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - nutrition-studies
   - dressing
+  - nutrition-studies
 hero: assets/images/strawberry-tarragon-dressing.webp
 ---
 

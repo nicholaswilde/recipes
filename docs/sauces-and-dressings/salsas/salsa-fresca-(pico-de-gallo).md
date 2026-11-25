@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - dip
-  - mexican
   - joy-of-cooking
+  - mexican
 hero: assets/images/salsa-fresca-(pico-de-gallo).webp
 ---
 

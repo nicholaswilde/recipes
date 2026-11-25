@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
   - minimalist-baker
 hero: assets/images/vegan-chipotle-ranch-dressing.webp

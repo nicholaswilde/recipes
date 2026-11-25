@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - salsa
   - mexican
+  - salsa
   - the-gracias-madre-cookbook
 hero: assets/images/salsa-verde.webp
 ---

@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - side
   - salad
+  - side
 hero: assets/images/tapenade-pasta-salad.webp
 ---
 

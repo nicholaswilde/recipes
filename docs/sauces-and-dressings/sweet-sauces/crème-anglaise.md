@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - french
+  - sauce
 hero: assets/images/crème-anglaise.webp
 ---
 

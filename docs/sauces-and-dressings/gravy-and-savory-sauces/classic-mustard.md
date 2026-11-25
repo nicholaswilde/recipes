@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - condiment
 hero: assets/images/classic-mustard.webp
 ---

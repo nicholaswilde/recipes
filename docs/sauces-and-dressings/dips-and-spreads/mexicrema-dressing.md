@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
   - mexican
   - nutrition-studies

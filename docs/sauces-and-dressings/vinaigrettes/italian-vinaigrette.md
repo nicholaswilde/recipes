@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - vegan
-  - nutrition-studies
   - dressing
+  - nutrition-studies
+  - vegan
 hero: assets/images/italian-vinaigrette.webp
 ---
 

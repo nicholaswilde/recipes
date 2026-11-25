@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - broccoli
+  - casserole
+  - recipe-box
   - side
   - vegetable
-  - casserole
-  - broccoli
-  - recipe-box
   - vegetarian
 hero: assets/images/broccoli-cheese-casserole.webp
 source: Recipe Box

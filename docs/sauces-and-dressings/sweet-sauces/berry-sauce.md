@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - dressing
+  - sauce
 hero: assets/images/berry-sauce.webp
 ---
 

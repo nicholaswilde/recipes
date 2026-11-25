@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - the-gracias-madre-cookbook
 hero: assets/images/escabeche.webp

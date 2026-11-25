@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - cooks-illustrated
+  - sauce
 hero: assets/images/mayonnaise.webp
 ---
 

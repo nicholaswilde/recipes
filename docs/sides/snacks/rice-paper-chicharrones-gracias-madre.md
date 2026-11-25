@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - snack
   - side
+  - snack
 hero: assets/images/rice-paper-chicharrones-gracias-madre.webp
 ---
 

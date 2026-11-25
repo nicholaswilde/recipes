@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - tante-myrna-seccia
 hero: assets/images/pasta-salad.webp

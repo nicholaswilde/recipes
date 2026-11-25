@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - bites
   - side
-  - applied-kitchen
 hero: assets/images/no-bake-sunshine-energy-bites.png
 ---
 

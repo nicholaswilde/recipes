@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - asian
-  - sauce
   - joy-of-cooking
+  - sauce
 hero: assets/images/asian-sweet-and-sour-sauce.webp
 ---
 

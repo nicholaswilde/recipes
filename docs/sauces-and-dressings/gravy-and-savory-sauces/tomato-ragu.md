@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - jean-pierre
+  - sauce
 hero: assets/images/tomato-ragu.webp
 ---
 

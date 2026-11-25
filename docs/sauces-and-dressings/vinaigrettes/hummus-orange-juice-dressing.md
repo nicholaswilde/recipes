@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
 hero: assets/images/hummus-orange-juice-dressing.webp
 ---

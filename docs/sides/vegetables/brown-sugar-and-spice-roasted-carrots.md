@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - jessica-seinfeld
+  - side
 hero: assets/images/brown-sugar-and-spice-roasted-carrots.webp
 ---
 

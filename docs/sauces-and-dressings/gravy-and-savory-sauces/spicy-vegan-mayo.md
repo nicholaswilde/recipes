@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - sauce
   - the-gracias-madre-cookbook
 hero: assets/images/spicy-vegan-mayo.webp

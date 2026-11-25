@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - side
   - cooks-illustrated
   - scottish
+  - side
 hero: assets/images/scottish-oatcakes.webp
 ---
 

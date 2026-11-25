@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - indonesian
   - tante-myrna-seccia
 hero: assets/images/lumpia.webp

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
-  - oil-free
   - nutrition-studies
+  - oil-free
+  - sauce
 hero: assets/images/oil-free-hummus.webp
 ---
 

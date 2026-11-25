@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dip
   - persian
 hero: assets/images/persian-yogurt-dip-with-shallots-(mast-o-musir).webp

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - jean-pierre
+  - side
 hero: assets/images/potato-au-gratin.webp
 ---
 

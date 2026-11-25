@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - italian
   - joy-of-cooking
+  - sauce
 hero: assets/images/marinara-sauce.webp
 ---
 

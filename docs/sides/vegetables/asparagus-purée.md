@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - gordon-ramsay
   - puree
   - side
-  - gordon-ramsay
 hero: assets/images/asparagus-purée.png
 ---
 

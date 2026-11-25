@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - side
-  - vegetable
-  - roasted
   - autumn
   - recipe-box
+  - roasted
+  - side
+  - vegetable
   - vegetarian
 source: Recipe Box
 servings: 6

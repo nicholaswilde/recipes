@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - italian
   - joy-of-cooking
   - pesto
+  - sauce
 hero: assets/images/sun-dried-tomato-pesto.webp
 ---
 

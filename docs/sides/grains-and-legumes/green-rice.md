@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - the-gracias-madre-cookbook
 hero: assets/images/green-rice.webp

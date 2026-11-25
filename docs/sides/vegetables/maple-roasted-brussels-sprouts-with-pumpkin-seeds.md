@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cathy
   - side
   - whole-foods
-  - cathy
 hero: assets/images/maple-roasted-brussels-sprouts-with-pumpkin-seeds.webp
 ---
 

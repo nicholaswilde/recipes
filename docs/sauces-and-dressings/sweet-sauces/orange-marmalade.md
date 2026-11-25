@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
+  - bigger-bolder-baking
+  - citrus
   - sauce
   - sweet-sauce
-  - citrus
-  - bigger-bolder-baking
 hero: assets/images/orange-marmalade.webp
 ---
 

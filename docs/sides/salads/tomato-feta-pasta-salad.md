@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - side
-  - salad
   - ina-garten
+  - salad
+  - side
 hero: assets/images/tomato-feta-pasta-salad.webp
 ---
 

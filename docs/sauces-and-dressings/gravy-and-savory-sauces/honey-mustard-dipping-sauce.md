@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - dip
   - joy-of-cooking
+  - sauce
 hero: assets/images/honey-mustard-dipping-sauce.webp
 ---
 

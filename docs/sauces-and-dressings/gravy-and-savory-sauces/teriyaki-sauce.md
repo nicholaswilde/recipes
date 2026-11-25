@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
+  - asian
   - sauce
   - savory-sauce
-  - asian
   - the-daring-gourmet
 hero: assets/images/teriyaki-sauce.webp
 ---

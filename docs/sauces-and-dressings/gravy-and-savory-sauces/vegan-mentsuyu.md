@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - sauce
   - condiment
   - japanese
+  - sauce
   - vegan
 hero: assets/images/vegan-mentsuyu.webp
 ---

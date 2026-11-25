@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - jeremy-scheck
+  - side
 hero: assets/images/internet-famous-crispy-potatoes.webp
 ---
 

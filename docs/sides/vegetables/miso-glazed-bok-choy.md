@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - minimalist-baker
+  - side
 hero: assets/images/miso-glazed-bok-choy.webp
 ---
 

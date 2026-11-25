@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
   - vegan
 hero: assets/images/vegan-ranch-dressing.webp

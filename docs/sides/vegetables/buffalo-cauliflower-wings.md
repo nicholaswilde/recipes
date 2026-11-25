@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - nora-cooks
+  - side
 hero: assets/images/buffalo-cauliflower-wings.webp
 ---
 

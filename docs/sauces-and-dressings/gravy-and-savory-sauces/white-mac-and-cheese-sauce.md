@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - sauce
-  - italian
   - forks-over-knives
+  - italian
+  - sauce
   - vegan
 hero: assets/images/white-mac-and-cheese-sauce.webp
 ---

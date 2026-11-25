@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - sauce
   - pesto
+  - sauce
 hero: assets/images/lemon-pepper-parsley-pesto.webp
 ---
 

@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - vegan
   - gluten-free
   - marinade
   - tofu
+  - vegan
 hero: assets/images/creamy-peanut-tofu-marinade.webp
 ---
 

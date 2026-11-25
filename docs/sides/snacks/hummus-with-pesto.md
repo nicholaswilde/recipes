@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - magnolia
+  - side
 hero: assets/images/hummus-with-pesto.webp
 ---
 

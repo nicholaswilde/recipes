@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - sauce
-  - italian
   - cooks-illustrated
+  - italian
   - pesto
+  - sauce
 hero: assets/images/cook's-country-perfect-pesto.webp
 ---
 

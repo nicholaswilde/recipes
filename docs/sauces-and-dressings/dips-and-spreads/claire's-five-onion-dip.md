@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dip
 hero: assets/images/claire's-five-onion-dip.webp
 ---

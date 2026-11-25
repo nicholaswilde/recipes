@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - spread
   - cooks-illustrated
+  - spread
 hero: assets/images/carrot-tamarind-chutney.webp
 ---
 

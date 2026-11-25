@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - nutrition-studies
   - dressing
+  - nutrition-studies
 hero: assets/images/creamy-cilantro-dressing.webp
 ---
 

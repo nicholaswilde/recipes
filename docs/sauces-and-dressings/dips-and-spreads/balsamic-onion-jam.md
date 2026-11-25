@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - jam
   - canning
+  - jam
 hero: assets/images/balsamic-onion-jam.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - spread
   - vegetarian
 hero: assets/images/benedictine-sandwich-spread.webp

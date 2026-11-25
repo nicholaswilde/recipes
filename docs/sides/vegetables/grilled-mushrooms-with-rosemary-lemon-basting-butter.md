@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - cooks-illustrated
+  - side
 hero: assets/images/grilled-mushrooms-with-rosemary-lemon-basting-butter.webp
 ---
 

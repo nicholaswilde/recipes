@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - gravy
   - applied-kitchen
+  - gravy
 hero: assets/images/applied-homemade-vegetarian-gravy.webp
 ---
 

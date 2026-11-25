@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - side
-  - vegetable
+  - casey-elsass
   - corn
   - cup-of-jo
-  - casey-elsass
-  - vegetarian
+  - side
   - thanksgiving
+  - vegetable
+  - vegetarian
 hero: assets/images/jalapeño-corn-brûlée.webp
 ---
 

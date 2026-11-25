@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - salad
 hero: assets/images/mexican-garbanzo-salad.webp

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - trader-joes
 hero: assets/images/mushroom-medley.webp

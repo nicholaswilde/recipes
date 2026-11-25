@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - the-blue-zones-kitchen
 hero: assets/images/fried-green-plantains.webp

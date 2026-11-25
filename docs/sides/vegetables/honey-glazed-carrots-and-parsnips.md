@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - favorite
   - gordon-ramsay
   - side

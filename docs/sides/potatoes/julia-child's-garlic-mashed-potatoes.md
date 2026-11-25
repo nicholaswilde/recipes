@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
 hero: assets/images/julia-child's-garlic-mashed-potatoes.webp
 ---

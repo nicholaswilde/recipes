@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - jamie-oliver
+  - side
 hero: assets/images/tomato-salad.webp
 ---
 

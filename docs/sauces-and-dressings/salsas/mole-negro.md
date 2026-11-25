@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
-  - sauce
   - mexican
   - mole
+  - sauce
   - vegan
 hero: assets/images/mole-negro.webp
 ---

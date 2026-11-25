@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - bites
   - applied-kitchen
+  - bites
 hero: assets/images/carrot-cake-protein-bites.webp
 ---
 

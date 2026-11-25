@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - applied-kitchen
   - dressing
 hero: assets/images/sumac-lemon-vinaigrette.webp

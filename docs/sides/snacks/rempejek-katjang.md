@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - snack
-  - indonesian
   - indo-dutch
-  - vegetarian
+  - indonesian
+  - snack
   - vegan
+  - vegetarian
 hero: assets/images/rempejek-katjang.webp
 ---
 

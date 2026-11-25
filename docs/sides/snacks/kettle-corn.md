@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - popcorn
+  - side
 hero: assets/images/kettle-corn.png
 ---
 

@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - side
-  - vegetable
+  - alton-brown
   - casserole
   - holiday
-  - thanksgiving
   - make-ahead
-  - alton-brown
+  - side
+  - thanksgiving
+  - vegetable
 hero: assets/images/green-bean-casserole-(alton-brown).webp
 source: https://altonbrown.com/recipes/best-ever-green-bean-casserole/
 prep time: 25 minutes

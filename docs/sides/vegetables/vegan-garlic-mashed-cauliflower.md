@@ -1,9 +1,9 @@
 ---
 comments: true
 tags:
+  - minimalist-baker
   - side
   - vegetable
-  - minimalist-baker
 hero: assets/images/vegan-garlic-mashed-cauliflower.webp
 source: https://minimalistbaker.com/vegan-garlic-mashed-cauliflower/
 prep time: 10 minutes

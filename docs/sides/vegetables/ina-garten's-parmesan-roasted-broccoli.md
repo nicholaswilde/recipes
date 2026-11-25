@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - side
   - ina-garten
+  - side
 hero: assets/images/ina-garten's-parmesan-roasted-broccoli.webp
 ---
 

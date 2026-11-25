@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dip
   - mexican
 hero: assets/images/sweet-and-spicy-corn-salsa.webp

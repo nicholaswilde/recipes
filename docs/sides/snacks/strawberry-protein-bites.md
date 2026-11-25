@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - bites
   - applied-kitchen
+  - bites
   - side
 hero: assets/images/strawberry-protein-bites.webp
 ---

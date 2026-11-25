@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - side
   - snack
 hero: assets/images/honey-roasted-peanuts.png

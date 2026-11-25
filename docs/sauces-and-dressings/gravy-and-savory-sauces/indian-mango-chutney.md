@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - sauce
   - condiment
-  - side
   - indian
   - mango
+  - sauce
+  - side
 hero: assets/images/indian-mango-chutney.webp
 ---
 

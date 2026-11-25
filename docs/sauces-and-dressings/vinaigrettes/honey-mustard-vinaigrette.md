@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
   - joy-of-cooking
 hero: assets/images/honey-mustard-vinaigrette.webp

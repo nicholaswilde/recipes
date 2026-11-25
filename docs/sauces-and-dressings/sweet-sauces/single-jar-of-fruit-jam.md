@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - spread
-  - jam
   - condiment
+  - jam
+  - spread
 hero: assets/images/single-jar-of-fruit-jam.webp
 ---
 

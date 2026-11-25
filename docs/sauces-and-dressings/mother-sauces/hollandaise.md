@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mother-sauce
   - french
+  - mother-sauce
 hero: assets/images/hollandaise.webp
 ---
 

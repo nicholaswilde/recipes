@@ -2,8 +2,8 @@
 hero: assets/images/white-trash.webp
 comments: true
 tags:
-- side
-- snack
+  - side
+  - snack
 ---
 
 # :beans: White Trash

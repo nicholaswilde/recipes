@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dressing
 hero: assets/images/cashew-chipotle-ranch-dressing.webp
 ---

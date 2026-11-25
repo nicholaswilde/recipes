@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cracker
   - snack
 hero: assets/images/club-crackers.webp
