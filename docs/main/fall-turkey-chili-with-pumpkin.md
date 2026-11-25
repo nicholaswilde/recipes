@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - trader-joes
 hero: assets/images/fall-turkey-chili-with-pumpkin.png

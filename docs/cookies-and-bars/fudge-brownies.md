@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - king-arthur
   - bake-off
   - bar
   - dessert
+  - king-arthur
 hero: assets/images/fudge-brownies.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - asian
   - vegetarian
 hero: assets/images/coconut-curried-vegetables-with-rice.webp

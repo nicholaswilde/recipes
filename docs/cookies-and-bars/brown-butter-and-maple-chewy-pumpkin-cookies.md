@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bake-off
+  - cookie
   - dessert
 hero: assets/images/brown-butter-and-maple-chewy-pumpkin-cookies.webp
 ---

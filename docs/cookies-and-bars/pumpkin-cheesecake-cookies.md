@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
 hero: assets/images/pumpkin-cheesecake-cookies.webp

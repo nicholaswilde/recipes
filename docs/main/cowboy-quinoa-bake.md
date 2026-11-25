@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - main
-  - trader-joes
   - recipe-box
+  - trader-joes
 hero: assets/images/cowboy-quinoa-bake.png
 ---
 

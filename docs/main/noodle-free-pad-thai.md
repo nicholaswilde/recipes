@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - asian
-  - vegetarian
   - recipe-box
+  - vegetarian
 hero: assets/images/noodle-free-pad-thai.webp
 ---
 

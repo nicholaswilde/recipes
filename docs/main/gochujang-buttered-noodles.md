@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
+  - eric-kim
+  - korean-inspired
   - main
   - pasta
-  - spaghetti
-  - korean-inspired
-  - eric-kim
   - quick-and-easy
+  - spaghetti
 hero: assets/images/gochujang-buttered-noodles.webp
 ---
 

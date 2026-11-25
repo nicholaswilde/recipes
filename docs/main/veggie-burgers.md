@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - main
   - burger
+  - main
 hero: assets/images/veggie-burgers.webp
 ---
 

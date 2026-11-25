@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-
   - asian
+  - minimalist-baker
+  - recipe-box
   - stir-fry
   - vegetarian
-  - recipe-box
-  - minimalist-baker
 hero: assets/images/crispy-peanut-tofu-&-cauliflower-rice-stir-fry.webp
 ---
 

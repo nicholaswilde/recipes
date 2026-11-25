@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dumpling
   - italian
 hero: assets/images/spinach-and-ricotta-gnudi-with-tomato-butter-sauce.webp

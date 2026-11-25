@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - cheese
+  - gilligan-family
   - main
   - mediterranean
   - pasta
-  - cheese
-  - gilligan-family
 hero: assets/images/stuffed-shells.webp
 ---
 

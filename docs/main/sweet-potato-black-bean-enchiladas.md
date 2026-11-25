@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - main
   - enchilada
+  - main
 hero: assets/images/sweet-potato-black-bean-enchiladas.webp
 ---
 

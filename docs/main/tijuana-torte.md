@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - recipe-box
 hero: assets/images/tijuana-torte.webp

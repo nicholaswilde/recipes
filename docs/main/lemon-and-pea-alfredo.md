@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
 hero: assets/images/lemon-and-pea-alfredo.webp
 ---

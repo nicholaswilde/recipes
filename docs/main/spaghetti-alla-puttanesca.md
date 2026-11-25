@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - pasta
   - recipe-box

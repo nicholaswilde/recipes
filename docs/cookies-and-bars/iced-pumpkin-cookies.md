@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
-  - cookie
-  - bar
-  - dessert
   - allrecipes
+  - bar
+  - cookie
+  - dessert
 hero: assets/images/iced-pumpkin-cookies.webp
 ---
 

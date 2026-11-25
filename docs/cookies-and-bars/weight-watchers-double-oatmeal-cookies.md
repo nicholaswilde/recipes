@@ -2,9 +2,9 @@
 comments: true
 tags:
   - cookie
-  - weight-watchers
   - dessert
   - recipe-box
+  - weight-watchers
 hero: assets/images/weight-watchers-double-oatmeal-cookies.webp
 ---
 

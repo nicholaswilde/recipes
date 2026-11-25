@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
 hero: assets/images/salted-peanut-butter.webp

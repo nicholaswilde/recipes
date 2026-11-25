@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bar
   - dessert
 hero: assets/images/chocolate-peanut-butter-cheesecake-bars.png

@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
+  - gluten-free
+  - low-carb
   - main
   - pizza
-  - low-carb
-  - gluten-free
 hero: assets/images/cauliflower-pizza-crust.webp
 ---
 

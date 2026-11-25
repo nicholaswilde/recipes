@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - italian
   - dessert
+  - italian
   - king-arthur
 hero: assets/images/traditional-italian-biscotti.webp
 ---

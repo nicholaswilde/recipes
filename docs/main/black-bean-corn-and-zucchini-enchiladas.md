@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - recipe-box
 hero: assets/images/black-bean-corn-and-zucchini-enchiladas.webp

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - asian
-  - vegetarian
-  - sandwich
   - applied-kitchen
+  - asian
+  - sandwich
+  - vegetarian
 hero: assets/images/banh-mi-sandwich.webp
 ---
 

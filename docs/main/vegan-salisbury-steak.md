@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - favorite
   - main
   - vegan
-  - favorite
 hero: assets/images/vegan-salisbury-steak.webp
 ---
 

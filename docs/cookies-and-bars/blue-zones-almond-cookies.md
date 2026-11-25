@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cookie
 hero: assets/images/blue-zones-almond-cookies.webp
 ---

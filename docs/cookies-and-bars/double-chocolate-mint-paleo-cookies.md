@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
 hero: assets/images/double-chocolate-mint-paleo-cookies.webp

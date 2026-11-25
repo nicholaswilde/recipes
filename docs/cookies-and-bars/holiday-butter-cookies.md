@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - cookie
   - bar
+  - cookie
   - dessert
 hero: assets/images/holiday-butter-cookies.webp
 ---

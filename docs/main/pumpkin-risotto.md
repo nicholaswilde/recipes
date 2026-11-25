@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- main
-- risotto
-- pumpkin
-- italian
-- recipe-box
-- vegetarian
+  - italian
+  - main
+  - pumpkin
+  - recipe-box
+  - risotto
+  - vegetarian
 source: Recipe Box
 servings: 4
 prep time: 10 minutes

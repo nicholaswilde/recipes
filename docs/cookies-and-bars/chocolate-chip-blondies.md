@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - bar
-  - dessert
-  - broma-bakery
   - bake-off
+  - bar
+  - broma-bakery
+  - dessert
 hero: assets/images/chocolate-chip-blondies.png
 ---
 

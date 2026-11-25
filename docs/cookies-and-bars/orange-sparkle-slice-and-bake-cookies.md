@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - king-arthur
   - dessert
+  - king-arthur
 hero: assets/images/orange-sparkle-slice-and-bake-cookies.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
 hero: assets/images/butternut-squash-and-sage-spaghetti.webp
 ---

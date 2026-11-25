@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
-  - french
   - dominique-ansel
+  - french
 hero: assets/images/mini-madeleines.webp
 ---
 

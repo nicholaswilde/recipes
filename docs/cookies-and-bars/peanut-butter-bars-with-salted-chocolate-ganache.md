@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bar
   - dessert
 hero: assets/images/peanut-butter-bars-with-salted-chocolate-ganache.webp

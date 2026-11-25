@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - meatball
   - main
+  - meatball
 hero: assets/images/ginger-sesame-vegan-meatballs.webp
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - tante-myrna-seccia
 hero: assets/images/rice-with-corned-beef.png

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - burger
   - main
 hero: assets/images/black-bean-burgers.webp

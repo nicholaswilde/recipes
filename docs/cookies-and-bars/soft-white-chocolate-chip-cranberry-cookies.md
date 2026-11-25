@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - cookie
   - dessert
 hero: assets/images/soft-white-chocolate-chip-cranberry-cookies.webp

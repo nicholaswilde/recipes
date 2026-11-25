@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pizza
   - italian
+  - pizza
 hero: assets/images/classic-margherita-pizza.webp
 ---
 

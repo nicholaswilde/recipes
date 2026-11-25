@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - pot-pie
   - trader-joes

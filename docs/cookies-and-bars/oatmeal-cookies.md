@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - claire-saffitz
+  - cookie
   - dessert
 hero: assets/images/oatmeal-cookies.webp
 ---

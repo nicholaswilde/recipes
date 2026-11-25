@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - cookie
-  - bar
-  - dessert
   - baking
+  - bar
+  - carolina-gelen
+  - cookie
+  - dessert
   - london-fog
   - new-york-times
-  - carolina-gelen
 source: New York Times
 hero: assets/images/london-fog-cookies.webp
 ---

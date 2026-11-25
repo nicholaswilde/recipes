@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- main
-- pasta
-- lasagna
-- italian
-- recipe-box
-- vegetarian
+  - italian
+  - lasagna
+  - main
+  - pasta
+  - recipe-box
+  - vegetarian
 source: Recipe Box
 servings: 8
 prep time: 25 minutes

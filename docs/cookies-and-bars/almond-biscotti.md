@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-  - cookie
-  - bar
-  - dessert
   - almond
+  - bake-off
+  - bar
   - biscotti
+  - cookie
+  - dessert
   - maria vannelli
   - the pancake princess
-  - bake-off
 hero: assets/images/almond-biscotti.webp
 ---
 

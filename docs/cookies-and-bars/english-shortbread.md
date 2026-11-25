@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-- cookie
-- bar
-- dessert
-- cookies-and-bars
-- shortbread
-- british
-- recipe-box
-- vegetarian
+  - bar
+  - british
+  - cookie
+  - cookies-and-bars
+  - dessert
+  - recipe-box
+  - shortbread
+  - vegetarian
 source: Recipe Box
 servings: 8
 prep time: 10 minutes

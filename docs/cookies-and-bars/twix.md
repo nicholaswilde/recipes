@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - dessert
   - cookie
+  - dessert
 hero: assets/images/twix.webp
 ---
 

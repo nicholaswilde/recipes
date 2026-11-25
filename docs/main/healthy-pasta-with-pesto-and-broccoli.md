@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - pasta
   - italian
-  - vegetarian
+  - pasta
   - recipe-box
+  - vegetarian
 hero: assets/images/healthy-pasta-with-pesto-and-broccoli.webp
 ---
 

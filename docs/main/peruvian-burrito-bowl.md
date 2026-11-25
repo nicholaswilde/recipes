@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bowl
   - main
 hero: assets/images/peruvian-burrito-bowl.webp

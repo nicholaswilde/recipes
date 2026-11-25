@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
 hero: assets/images/potato-broccoli-casserole.webp
 ---

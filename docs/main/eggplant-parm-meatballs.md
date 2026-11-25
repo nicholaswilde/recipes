@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - vegetarian
 hero: assets/images/eggplant-parm-meatballs.webp

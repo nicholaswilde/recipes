@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - tart
   - paul-hollywood
+  - tart
   - vegetarian
 hero: assets/images/shallot-onion-and-chive-tart.webp
 ---

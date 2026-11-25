@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - italian
-  - pasta
   - jean-pierre
+  - pasta
 hero: assets/images/creamy-mushroom-pasta.webp
 ---
 

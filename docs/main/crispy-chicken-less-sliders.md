@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - trader-joes
   - main
+  - trader-joes
 hero: assets/images/crispy-chicken-less-sliders.png
 ---
 

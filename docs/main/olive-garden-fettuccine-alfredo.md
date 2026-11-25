@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - pasta
 hero: assets/images/olive-garden-fettuccine-alfredo.webp

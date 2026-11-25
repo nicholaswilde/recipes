@@ -3,8 +3,8 @@ comments: true
 tags:
   - cookie
   - dessert
-  - stella-parks
   - serious-eats
+  - stella-parks
 hero: assets/images/oatmeal-raisin-cookies.webp
 ---
 

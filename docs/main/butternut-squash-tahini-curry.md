@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - main
-  - curry
-  - vegan
   - butternut-squash
+  - curry
+  - main
   - tahini
+  - vegan
 hero: assets/images/butternut-squash-tahini-curry.webp
 ---
 

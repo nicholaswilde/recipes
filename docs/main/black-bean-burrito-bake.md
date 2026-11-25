@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
 hero: assets/images/black-bean-burrito-bake.webp
 ---

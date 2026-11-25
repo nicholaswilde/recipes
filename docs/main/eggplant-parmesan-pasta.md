@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pasta
   - italian
+  - pasta
   - vegetarian
 hero: assets/images/eggplant-parmesan-pasta.webp
 ---

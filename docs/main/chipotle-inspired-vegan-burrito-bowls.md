@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - mexican
   - bowl
+  - mexican
   - recipe-box
 hero: assets/images/chipotle-inspired-vegan-burrito-bowls.webp
 ---

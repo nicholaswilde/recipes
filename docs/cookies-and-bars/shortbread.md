@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - ina-garten
   - dessert
+  - ina-garten
 hero: assets/images/shortbread.webp
 ---
 

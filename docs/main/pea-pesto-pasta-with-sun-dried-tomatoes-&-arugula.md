@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - pasta
 hero: assets/images/pea-pesto-pasta-with-sun-dried-tomatoes-&-arugula.webp

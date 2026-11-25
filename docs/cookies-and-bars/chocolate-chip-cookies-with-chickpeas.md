@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - jessica-seinfeld
   - deceptively-delicious
   - dessert
+  - jessica-seinfeld
 hero: assets/images/chocolate-chip-cookies-with-chickpeas.webp
 ---
 

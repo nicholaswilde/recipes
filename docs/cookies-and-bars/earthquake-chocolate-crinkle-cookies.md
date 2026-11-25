@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - cookie
+  - bake-off
   - bar
-  - dessert
   - chocolate
+  - cookie
+  - dessert
   - maura kilpatrick
   - the pancake princess
-  - bake-off
 hero: assets/images/earthquake-chocolate-crinkle-cookies.webp
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dessert
   - cooks-illustrated
+  - dessert
 hero: assets/images/molasses-spice-cookies.webp
 ---
 

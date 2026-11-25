@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - italian
-  - risotto
   - joy-of-cooking
+  - risotto
 hero: assets/images/mushroom-risotto.webp
 ---
 

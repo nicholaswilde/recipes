@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - bar
   - dessert
   - recipe-box

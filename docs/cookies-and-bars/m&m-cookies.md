@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dessert
   - cupcake-princess
+  - dessert
 hero: assets/images/m&m-cookies.webp
 ---
 

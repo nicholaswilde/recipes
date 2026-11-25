@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - taco
   - trader-joes

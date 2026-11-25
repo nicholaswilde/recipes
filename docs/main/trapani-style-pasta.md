@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - italian
-  - pasta
   - jamie-oliver
+  - pasta
   - recipe-box
 hero: assets/images/trapani-style-pasta.webp
 ---

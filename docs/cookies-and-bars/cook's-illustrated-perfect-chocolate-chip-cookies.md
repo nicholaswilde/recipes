@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dessert
   - cooks-illustrated
+  - dessert
   - favorite
 hero: assets/images/cook's-illustrated-perfect-chocolate-chip-cookies.webp
 ---

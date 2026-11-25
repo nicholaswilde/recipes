@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
-  - taco
   - mexican
   - recipe-box
+  - taco
 hero: assets/images/tofu-tacos.webp
 ---
 

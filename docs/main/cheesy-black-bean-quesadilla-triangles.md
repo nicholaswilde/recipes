@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - quesadilla
   - recipe-box

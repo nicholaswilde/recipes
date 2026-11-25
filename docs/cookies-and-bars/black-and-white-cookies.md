@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - bake-off
   - cookie
   - dessert
-  - bake-off
 hero: assets/images/black-and-white-cookies.webp
 ---
 

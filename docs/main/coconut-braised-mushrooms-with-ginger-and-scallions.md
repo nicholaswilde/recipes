@@ -1,13 +1,13 @@
 ---
 comments: true
 tags:
-  - main
-  - vegetarian
-  - vegan
-  - gluten-free
   - dairy-free
-  - weeknight
+  - gluten-free
+  - main
   - mushroom
+  - vegan
+  - vegetarian
+  - weeknight
 hero: assets/images/coconut-braised-mushrooms-with-ginger-and-scallions.webp
 ---
 

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bar
+  - cookie
   - dessert
 hero: assets/images/brookies.webp
 ---

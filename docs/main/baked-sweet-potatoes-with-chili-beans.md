@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - sprouted-kitchen
 hero: assets/images/baked-sweet-potatoes-with-chili-beans.webp

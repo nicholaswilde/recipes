@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - dumpling
   - italian
 hero: assets/images/light-and-tender-potato-gnocchi-with-sage-butter-sauce.png

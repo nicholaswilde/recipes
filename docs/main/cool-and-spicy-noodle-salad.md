@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - asian
   - salad
   - trader-joes

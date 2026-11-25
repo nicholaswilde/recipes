@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dessert
   - cupcake-jemma
+  - dessert
   - macaron
 hero: assets/images/salted-caramel-chocolate-macarons.webp
 ---

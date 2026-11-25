@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-  - cookie
+  - bake-off
   - bar
+  - cookie
   - dessert
-  - thumbprint
   - sam merritt
   - sugar spun run
   - the pancake princess
-  - bake-off
+  - thumbprint
 hero: assets/images/thumbprint-cookies.webp
 ---
 

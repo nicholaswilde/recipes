@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - jean-pierre
   - pasta

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - asian
   - trader-joes
 hero: assets/images/truffley-cauliflower-stir-fry.png

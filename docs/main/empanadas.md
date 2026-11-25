@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - tante-myrna-seccia
 hero: assets/images/empanadas.webp

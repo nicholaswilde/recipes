@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - joy-of-cooking
 hero: assets/images/potato-gnocchi.webp

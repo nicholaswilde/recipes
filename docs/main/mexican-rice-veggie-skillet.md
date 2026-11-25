@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- main
-- mexican
-- rice
-- skillet
-- recipe-box
-- vegetarian
+  - main
+  - mexican
+  - recipe-box
+  - rice
+  - skillet
+  - vegetarian
 source: Recipe Box
 servings: 4
 prep time: 10 minutes

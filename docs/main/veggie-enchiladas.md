@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - enchilada
   - main
   - mexican
-  - vegetarian
   - recipe-box
-  - enchilada
+  - vegetarian
 source: Recipe Box
 servings: 6
 prep time: 20 minutes

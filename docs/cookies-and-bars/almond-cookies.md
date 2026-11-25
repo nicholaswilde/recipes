@@ -1,8 +1,8 @@
 ---
 comments: true
 tags:
-  - cookie
   - asian
+  - cookie
   - todd-wilbur
 hero: assets/images/almond-cookies.webp
 ---

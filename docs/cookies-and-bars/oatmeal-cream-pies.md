@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - broma-bakery
   - cookie
   - dessert
-  - broma-bakery
 hero: assets/images/oatmeal-cream-pies.png
 ---
 

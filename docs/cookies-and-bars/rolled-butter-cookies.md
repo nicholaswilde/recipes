@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - cookie
   - bar
-  - dessert
-  - cookies-and-bars
   - butter-cookies
+  - cookie
+  - cookies-and-bars
+  - dessert
   - recipe-box
   - vegetarian
 source: Recipe Box

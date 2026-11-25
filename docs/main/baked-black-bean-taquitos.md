@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
 hero: assets/images/baked-black-bean-taquitos.webp
 ---

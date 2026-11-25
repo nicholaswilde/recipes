@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - mexican
-  - taco
   - minimalist-baker
+  - taco
 hero: assets/images/roasted-cauliflower-tacos-with-chipotle-romesco.webp
 ---
 

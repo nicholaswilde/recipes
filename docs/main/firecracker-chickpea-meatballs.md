@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - recipe-box
 hero: assets/images/firecracker-chickpea-meatballs.png

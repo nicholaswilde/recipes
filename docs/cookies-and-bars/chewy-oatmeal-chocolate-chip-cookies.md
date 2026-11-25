@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-  - cookie
   - bar
-  - dessert
-  - oatmeal
   - chocolate-chip
+  - cookie
+  - dessert
   - krollskorner
+  - oatmeal
 hero: assets/images/chewy-oatmeal-chocolate-chip-cookies.webp
 ---
 

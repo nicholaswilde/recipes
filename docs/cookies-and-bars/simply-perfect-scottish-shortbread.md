@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
-  - cookie
   - bar
+  - cookie
   - dessert
-  - scottish
   - jennifer maloney
+  - scottish
   - the pancake princess
 hero: assets/images/simply-perfect-scottish-shortbread.webp
 ---

@@ -1,10 +1,10 @@
 ---
 comments: true
 tags:
+  - italian
   - main
   - must-try
   - risotto
-  - italian
 source: https://cooking.nytimes.com/recipes/1017022-mushroom-risotto-with-peas
 total time: 50 minutes
 hero: assets/images/mushroom-risotto-with-peas.webp

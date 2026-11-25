@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - cookie
-  - dorie-greenspan
   - dessert
+  - dorie-greenspan
 hero: assets/images/vanilla-bean-sables.webp
 ---
 

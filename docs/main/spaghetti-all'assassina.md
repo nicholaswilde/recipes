@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - cooks-illustrated
   - italian
   - pasta
-  - cooks-illustrated
 hero: assets/images/spaghetti-all'assassina.webp
 ---
 

@@ -1,12 +1,11 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bar
+  - cookie
   - dessert
-  - pumpkin
   - fall
+  - pumpkin
 hero: assets/images/pumpkin-blondies.webp
 ---
 

@@ -1,11 +1,10 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bar
-  - dessert
+  - cookie
   - cupcake-jemma
+  - dessert
   - macaron
 hero: assets/images/french-macarons.webp
 ---

@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bakewise
+  - cookie
   - dessert
 hero: assets/images/diamond-edged-melt-in-your-mouth-butter-cookies.webp
 ---

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - the-blue-zones-kitchen
 hero: assets/images/cabbage-and-sun-dried-tomato-sauté.webp

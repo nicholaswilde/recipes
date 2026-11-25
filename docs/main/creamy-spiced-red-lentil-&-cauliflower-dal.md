@@ -2,9 +2,9 @@
 comments: true
 tags:
   - asian
-  - vegetarian
-  - slow-cooker
   - new-recipe
+  - slow-cooker
+  - vegetarian
 hero: assets/images/creamy-spiced-red-lentil-&-cauliflower-dal.webp
 ---
 

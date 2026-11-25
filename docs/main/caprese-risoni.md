@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pasta
   - italian
+  - pasta
   - recipe-box
 hero: assets/images/caprese-risoni.webp
 ---

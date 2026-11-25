@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - pasta
   - italian
+  - pasta
 hero: assets/images/easiest-ever-macaroni-&-cheese.webp
 ---
 

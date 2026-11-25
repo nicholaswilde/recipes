@@ -1,14 +1,14 @@
 ---
 comments: true
 tags:
-  - cookie
+  - bake-off
   - bar
+  - cookie
   - dessert
   - gingerbread
-  - tartine
   - liz prueitt
+  - tartine
   - the pancake princess
-  - bake-off
 hero: assets/images/soft-glazed-gingerbread.webp
 ---
 

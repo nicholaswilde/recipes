@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - applied-kitchen
   - mexican
   - taco
-  - applied-kitchen
 hero: assets/images/vegetarian-tacos.png
 ---
 

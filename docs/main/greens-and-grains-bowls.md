@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - main
   - bowl
+  - main
 hero: assets/images/greens-and-grains-bowls.webp
 ---
 

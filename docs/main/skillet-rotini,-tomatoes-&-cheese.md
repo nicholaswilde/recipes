@@ -1,12 +1,12 @@
 ---
 comments: true
 tags:
-- main
-- pasta
-- italian
-- skillet
-- recipe-box
-- vegetarian
+  - italian
+  - main
+  - pasta
+  - recipe-box
+  - skillet
+  - vegetarian
 source: Recipe Box
 servings: 6
 prep time: 10 minutes

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - mexican
   - tostada
 hero: assets/images/butternut-squash-tostadas.webp

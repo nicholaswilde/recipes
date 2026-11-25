@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bake-off
+  - cookie
   - dessert
 hero: assets/images/lofthouse-cookies.png
 ---

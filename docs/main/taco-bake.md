@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
+  - bake
   - mexican
   - taco
-  - bake
 hero: assets/images/taco-bake.webp
 ---
 

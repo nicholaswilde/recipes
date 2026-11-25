@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
 hero: assets/images/tostadas-with-refried-black-beans-and-pickled-cabbage-and-onion.webp
 ---

@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - bar
-  - dessert
   - claire-saffitz
+  - dessert
 hero: assets/images/peach-bars.webp
 ---
 

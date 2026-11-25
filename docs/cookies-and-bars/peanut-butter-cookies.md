@@ -1,11 +1,11 @@
 ---
 comments: true
 tags:
+  - bake-off
   - cookie
   - dessert
-  - pancake-princess
-  - bake-off
   - must-try
+  - pancake-princess
 hero: assets/images/peanut-butter-cookies.webp
 ---
 

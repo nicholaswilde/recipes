@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - bakewise
+  - cookie
   - dessert
 hero: assets/images/cracked-surface-crunchy-gingersnaps.webp
 ---

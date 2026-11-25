@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - italian
   - pizza
 hero: assets/images/white-pizza.webp

@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - trader-joes
 hero: assets/images/fish-ish-tacos-with-spicy-dill-slaw.png

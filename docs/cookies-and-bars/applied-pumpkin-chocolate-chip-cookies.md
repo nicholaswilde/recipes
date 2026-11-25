@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - applied-kitchen
+  - cookie
   - dessert
 hero: assets/images/applied-pumpkin-chocolate-chip-cookies.webp
 ---

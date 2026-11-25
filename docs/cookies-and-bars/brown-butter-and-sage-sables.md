@@ -1,9 +1,8 @@
 ---
 comments: true
 tags:
-
-  - cookie
   - claire-saffitz
+  - cookie
   - dessert
   - favorite
 hero: assets/images/brown-butter-and-sage-sables.webp

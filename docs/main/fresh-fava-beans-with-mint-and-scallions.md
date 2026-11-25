@@ -1,7 +1,6 @@
 ---
 comments: true
 tags:
-
   - main
   - the-blue-zones-kitchen
 hero: assets/images/fresh-fava-beans-with-mint-and-scallions.webp

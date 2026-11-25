@@ -1,10 +1,9 @@
 ---
 comments: true
 tags:
-
   - italian
-  - pasta
   - lasagna
+  - pasta
 hero: assets/images/spinach-lasagna.webp
 ---
 
