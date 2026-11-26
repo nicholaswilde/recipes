@@ -126,6 +126,13 @@ Use `ripwire` CLI (prefixed with `rtk ripwire`) for AST codebase mapping, call g
 - **Validation**: Run `taplo lint` to validate TOML syntax and schema.
 <!-- taplo-rules-end -->
 
+<!-- mdfm-rules-begin -->
+## Markdown Frontmatter (`mdfm`) Rules
+- **No `rtk`**: Run `mdfm` directly (no `rtk` filter; `rtk mdfm` saves 0%). See [.agents/rules/mdfm-rules.md](.agents/rules/mdfm-rules.md).
+- **Compact Output**: Pass `--output plain` (TSV, ~90% smaller than default `table`) or `-l`/`--files-only` (~93% smaller). Use `--where` to filter early and `ctx_execute` for bulk scans.
+- **Validation**: `mdfm check docs/ cook/` (`errors_only = true` in `.mdfm.toml`) and `mdfm fmt --check --files-only docs/ cook/`.
+<!-- mdfm-rules-end -->
+
 <!-- uv-rules-begin -->
 ## Python Tooling & Execution with `uv`
 - **Prefix Python Commands**: Always run Python scripts and tools via `rtk uv run <script>` or `rtk uv run <tool>`. Never invoke bare `python`, `python3`, `pip`, or `uv`.
