@@ -69,6 +69,8 @@ emoji:
         - mixing bowl
         - microwave-safe bowl
         - bowl
+    - chopsticks:
+        - chopsticks
     - cookie:
         - 3-inch ring cutter
         - 1.25-inch ring cutter
@@ -112,6 +114,7 @@ emoji:
         - microwave
         - blender or food processor
     - knife:
+        - vegetable peeler
         - mandoline
         - cake leveler
         - box grater
@@ -188,6 +191,8 @@ emoji:
         - freezer
         - fridge
     - spoon:
+        - soup spoon
+        - fish spatula
         - rubber spatula
         - offset spatula
         - silicone spatula
@@ -626,6 +631,7 @@ emoji:
         - Gruyère cheese
         - parmesan pull-apart bread
     - cherries:
+        - pomegranate seeds
         - cherry bars
         - unsweetened cherry juice
         - canned dark sweet cherries in light syrup
@@ -929,6 +935,7 @@ emoji:
     - hamburger:
         - black bean burgers
     - herb:
+        - fresh chives
         - fresh parsley or chives
         - oregano
         - poultry seasoning
@@ -1104,6 +1111,7 @@ emoji:
     - meat_on_bone:
         - ginger sesame vegan meatballs
     - melon:
+        - butternut squash
         - jackfruit
         - pumpkin puree
         - canned pumpkin puree

@@ -821,6 +821,7 @@ Lunches = [
 
 [[project.nav]]
 Main = [
+  { "A Centerpiece Squash" = "main/a-centerpiece-squash.md" },
   { "Adas Polo (Persian Lentil Rice)" = "main/adas-polo-(persian-lentil-rice).md" },
   { "Baked Black Bean Taquitos" = "main/baked-black-bean-taquitos.md" },
   { "Baked Cream Cheese Spaghetti Casserole" = "main/baked-cream-cheese-spaghetti-casserole.md" },
